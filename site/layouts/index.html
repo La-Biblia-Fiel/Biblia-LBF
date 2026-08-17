@@ -1,0 +1,65 @@
+{{ define "main" }}
+<div class="envoltura">
+
+  <section class="portada">
+    <h1 class="portada-titulo">La Biblia Fiel</h1>
+    <p class="portada-lema">{{ site.Params.descripcion }}</p>
+    <div class="portada-acciones">
+      <a class="boton boton-solido" href="{{ "/biblia/" | relURL }}">Leer las Escrituras</a>
+      <a class="boton" href="{{ "/proyecto/juramento/" | relURL }}">El juramento del traductor</a>
+    </div>
+    <div class="portada-regla"></div>
+  </section>
+
+  {{ with site.Data.libros }}
+  <ul class="cifras">
+    <li class="cifra"><b>{{ .totales.libros }}</b><span>Libros traducidos</span></li>
+    <li class="cifra"><b>{{ .totales.capitulos }}</b><span>Capítulos</span></li>
+    <li class="cifra"><b>{{ lang.FormatNumber 0 .totales.versiculos }}</b><span>Versículos</span></li>
+    <li class="cifra"><b>{{ .totales.porcentajeNT }}%</b><span>Nuevo Testamento</span></li>
+  </ul>
+  {{ end }}
+
+  <div class="juramento-portada prosa">
+    <p>El traductor no es el autor.</p>
+    <p>
+      Por lo tanto, no tiene autoridad para mejorar el texto, suavizarlo,
+      fortalecerlo, resolver las tensiones que presenta, modernizar su teología,
+      ni proteger al lector de aquello que las Escrituras dicen.
+    </p>
+    <p>Al traductor se le confía una sola responsabilidad:</p>
+    <p><strong>dejar que las Escrituras hablen por sí mismas.</strong></p>
+    <p><a href="{{ "/proyecto/juramento/" | relURL }}">Leer el juramento completo →</a></p>
+  </div>
+
+  <div class="bloque-versiculo">
+    <blockquote>
+      Porque la palabra de Dios es viva y eficaz, y más cortante que toda espada
+      de dos filos, y penetra hasta dividir el alma y el espíritu, y las
+      coyunturas y los tuétanos, y discierne los pensamientos y las intenciones
+      del corazón.
+    </blockquote>
+    <cite><a href="{{ "/biblia/hebreos/4/#v12" | relURL }}">Hebreos 4:12</a></cite>
+  </div>
+
+  <div class="tarjetas">
+    <a class="tarjeta" href="{{ "/biblia/" | relURL }}">
+      <h3>Leer</h3>
+      <p>Todos los libros traducidos hasta ahora, capítulo por capítulo, con enlaces permanentes a cada versículo.</p>
+    </a>
+    <a class="tarjeta" href="{{ "/proyecto/metodologia/" | relURL }}">
+      <h3>Metodología</h3>
+      <p>El orden de traducción: leer, observar los lemas, la morfología, la cláusula, el contexto; traducir y revisar.</p>
+    </a>
+    <a class="tarjeta" href="{{ "/proyecto/base-textual/" | relURL }}">
+      <h3>Base textual</h3>
+      <p>{{ site.Params.baseTextualNT }} para el Nuevo Testamento; texto masorético (OSHB/WLC) para el Antiguo.</p>
+    </a>
+    <a class="tarjeta" href="{{ "/progreso/" | relURL }}">
+      <h3>Progreso</h3>
+      <p>Qué libros están traducidos, cuáles están en revisión y qué falta por delante.</p>
+    </a>
+  </div>
+
+</div>
+{{ end }}

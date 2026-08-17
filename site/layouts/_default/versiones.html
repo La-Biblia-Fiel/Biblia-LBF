@@ -1,0 +1,45 @@
+{{ define "main" }}
+<section class="envoltura pagina pagina-ancha">
+  <p class="subtitulo-pagina">Compilaciones verificables</p>
+  <h1>{{ .Title }}</h1>
+  <div class="prosa">{{ .Content }}</div>
+
+  {{ with site.Data.versiones }}
+  <div class="tabla-envoltura">
+    <table>
+      <thead>
+        <tr><th>Libro</th><th>Versión</th><th>Compilación</th><th>Estado</th><th>Fecha</th></tr>
+      </thead>
+      <tbody>
+        {{ range . }}
+        <tr>
+          <td>{{ .titulo }}</td>
+          <td>{{ .version }}</td>
+          <td><code>{{ .buildId }}</code></td>
+          <td>{{ .estado }}</td>
+          <td>{{ .fecha }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Artefactos y sumas de verificación</h2>
+  {{ range . }}
+  <h3>{{ .titulo }} {{ .version }}</h3>
+  <div class="tabla-envoltura">
+    <table>
+      <thead><tr><th>Artefacto</th><th>SHA-256</th></tr></thead>
+      <tbody>
+        {{ range .artefactos }}
+        <tr><td><code>{{ .archivo }}</code></td><td><code>{{ .sha256 }}</code></td></tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  {{ end }}
+  {{ else }}
+  <div class="aviso"><p>Todavía no hay compilaciones publicadas.</p></div>
+  {{ end }}
+</section>
+{{ end }}

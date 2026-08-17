@@ -1,0 +1,61 @@
+baseURL = "/"
+languageCode = "es"
+defaultContentLanguage = "es"
+title = "La Biblia Fiel"
+enableRobotsTXT = true
+enableEmoji = false
+summaryLength = 30
+timeZone = "America/La_Paz"
+
+# El contenido de content/biblia/ es generado por tools/build-content.py
+# a partir de ../translation/. No editar a mano.
+
+[params]
+  descripcion = "Una traducción fiel de las Escrituras en español contemporáneo, comprometida con dejar que las Escrituras hablen por sí mismas."
+  lema = "Dejar que las Escrituras hablen por sí mismas."
+  edicion = "LBF"
+  repositorio = "https://github.com/La-Biblia-Fiel/Biblia-LBF"
+  baseTextualNT = "Textus Receptus de Scrivener (1894)"
+  baseTextualAT = "Texto Masorético — Open Scriptures Hebrew Bible (WLC)"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[menu]
+  [[menu.main]]
+    name = "La Biblia"
+    pageRef = "/biblia"
+    weight = 10
+  [[menu.main]]
+    name = "El proyecto"
+    pageRef = "/proyecto"
+    weight = 20
+  [[menu.main]]
+    name = "Progreso"
+    pageRef = "/progreso"
+    weight = 30
+  [[menu.main]]
+    name = "Versiones"
+    pageRef = "/versiones"
+    weight = 40
+  [[menu.main]]
+    name = "Buscar"
+    pageRef = "/buscar"
+    weight = 50
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[taxonomies]
+
+[minify]
+  disableJS = false
+  disableCSS = false

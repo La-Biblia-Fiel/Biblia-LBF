@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es" data-tema="claro">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body class="{{ with .Params.bodyClass }}{{ . }}{{ end }}">
+  <a class="saltar" href="#contenido">Saltar al contenido</a>
+  {{ partial "header.html" . }}
+  <main id="contenido">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
+  {{ partial "scripts.html" . }}
+</body>
+</html>

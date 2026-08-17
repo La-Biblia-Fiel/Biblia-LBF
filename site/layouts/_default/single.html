@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article class="envoltura pagina">
+  {{ with .Params.antetitulo }}<p class="subtitulo-pagina">{{ . }}</p>{{ end }}
+  <h1>{{ .Title }}</h1>
+  <div class="prosa">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

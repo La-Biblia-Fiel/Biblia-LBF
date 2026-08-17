@@ -1,0 +1,58 @@
+{{ define "main" }}
+{{ $libro := .Parent }}
+<article class="envoltura lector">
+
+  <nav class="migas" aria-label="Ruta">
+    <a href="{{ "/biblia/" | relURL }}">La Biblia</a>
+    <span>/</span>
+    <a href="{{ $libro.RelPermalink }}">{{ $libro.Title }}</a>
+    <span>/</span>
+    Capítulo {{ .Params.capitulo }}
+  </nav>
+
+  <h1 class="lector-titulo">
+    {{ $libro.Title }}
+    <span class="cap-num">Capítulo {{ .Params.capitulo }}</span>
+  </h1>
+
+  <ul class="capitulos" aria-label="Capítulos de {{ $libro.Title }}">
+    {{ $actual := .Params.capitulo }}
+    {{ range $libro.Pages.ByWeight }}
+    <li>
+      <a href="{{ .RelPermalink }}"{{ if eq .Params.capitulo $actual }} aria-current="page"{{ end }}>{{ .Params.capitulo }}</a>
+    </li>
+    {{ end }}
+  </ul>
+
+  <div class="barra-controles">
+    <div class="grupo-control">
+      <button type="button" data-accion="modo" data-modo-valor="versiculos" aria-pressed="true">Versículos</button>
+      <button type="button" data-accion="modo" data-modo-valor="parrafo" aria-pressed="false">Párrafo</button>
+    </div>
+    <div class="grupo-control">
+      <button type="button" data-accion="menos" aria-label="Reducir el tamaño del texto">A−</button>
+      <button type="button" data-accion="mas" aria-label="Aumentar el tamaño del texto">A+</button>
+    </div>
+    <div class="grupo-control empuje">
+      <button type="button" data-accion="copiar">Copiar capítulo</button>
+    </div>
+  </div>
+
+  <div class="lectura" data-referencia="{{ $libro.Title }} {{ .Params.capitulo }}">
+    {{ .Content }}
+  </div>
+
+  <nav class="nav-capitulos" aria-label="Navegación entre capítulos">
+    {{ with .Params.anterior }}
+    <a rel="prev" href="{{ .url | relURL }}">← {{ .titulo }}</a>
+    {{ end }}
+    {{ with .Params.siguiente }}
+    <a class="der" rel="next" href="{{ .url | relURL }}">{{ .titulo }} →</a>
+    {{ end }}
+  </nav>
+
+  {{ with $libro.Params.fuente }}
+  <p class="nota-fuente">{{ . | safeHTML }}</p>
+  {{ end }}
+</article>
+{{ end }}

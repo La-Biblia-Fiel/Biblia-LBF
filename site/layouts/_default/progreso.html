@@ -1,0 +1,51 @@
+{{ define "main" }}
+{{ $d := site.Data.libros }}
+<section class="envoltura pagina pagina-ancha">
+  <p class="subtitulo-pagina">Estado de la traducción</p>
+  <h1>{{ .Title }}</h1>
+  <div class="prosa">{{ .Content }}</div>
+
+  {{ with $d }}
+  <ul class="cifras">
+    <li class="cifra"><b>{{ .totales.libros }}/66</b><span>Libros publicados</span></li>
+    <li class="cifra"><b>{{ .totales.capitulos }}</b><span>Capítulos</span></li>
+    <li class="cifra"><b>{{ lang.FormatNumber 0 .totales.versiculos }}</b><span>Versículos</span></li>
+    <li class="cifra"><b>{{ .totales.porcentajeCanon }}%</b><span>Del canon</span></li>
+  </ul>
+
+  <h2>Avance por testamento</h2>
+
+  <p class="etiqueta-medidor"><span>Nuevo Testamento</span> <b>{{ .totales.porcentajeNT }}%</b></p>
+  <div class="medidor"><i style="width:{{ .totales.porcentajeNT }}%"></i></div>
+
+  <p class="etiqueta-medidor"><span>Antiguo Testamento</span> <b>{{ .totales.porcentajeAT }}%</b></p>
+  <div class="medidor"><i style="width:{{ .totales.porcentajeAT }}%"></i></div>
+
+  {{ range $t := slice "at" "nt" }}
+  {{ $libros := where $d.canon "testamento" $t }}
+  {{ $hechos := where $libros "publicado" true }}
+  <h2>{{ if eq $t "at" }}Antiguo Testamento{{ else }}Nuevo Testamento{{ end }}
+    <span style="font-family:var(--sans);font-size:.75rem;letter-spacing:.08em;color:var(--tinta-suave);text-transform:uppercase">
+      {{ len $hechos }} de {{ len $libros }}
+    </span></h2>
+  <div class="tabla-envoltura">
+    <table>
+      <thead>
+        <tr><th>Libro</th><th>Capítulos</th><th>Versículos</th><th>Estado</th></tr>
+      </thead>
+      <tbody>
+        {{ range $libros }}
+        <tr>
+          <td>{{ if .publicado }}<a href="{{ printf "/biblia/%s/" .slug | relURL }}">{{ .titulo }}</a>{{ else }}{{ .titulo }}{{ end }}</td>
+          <td>{{ .capitulos }}</td>
+          <td>{{ if .publicado }}{{ .versiculos }}{{ else }}—{{ end }}</td>
+          <td>{{ if .publicado }}Publicado{{ else }}Pendiente{{ end }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  {{ end }}
+  {{ end }}
+</section>
+{{ end }}

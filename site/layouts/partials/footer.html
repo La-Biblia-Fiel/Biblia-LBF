@@ -1,0 +1,24 @@
+<footer class="sitio-pie">
+  <div class="envoltura">
+    <p class="pie-lema">«Dejar que las Escrituras hablen por sí mismas.»</p>
+    <nav class="pie-enlaces" aria-label="Enlaces del pie">
+      <a href="{{ "/biblia/" | relURL }}">La Biblia</a>
+      <a href="{{ "/proyecto/" | relURL }}">El proyecto</a>
+      <a href="{{ "/proyecto/juramento/" | relURL }}">El juramento del traductor</a>
+      <a href="{{ "/proyecto/base-textual/" | relURL }}">Base textual</a>
+      <a href="{{ "/progreso/" | relURL }}">Progreso</a>
+      <a href="{{ "/versiones/" | relURL }}">Versiones</a>
+      <a href="{{ "/proyecto/licencia/" | relURL }}">Licencia</a>
+      {{ with site.Params.repositorio }}<a href="{{ . }}" rel="noopener">Código fuente</a>{{ end }}
+    </nav>
+    <p class="pie-legal">
+      La Biblia Fiel (LBF) · Traducción en curso · Los libros publicados aquí son
+      borradores de trabajo sujetos a revisión.
+      <br>
+      © {{ now.Year }} Cultivados en Gracia y Verdad. Texto bajo
+      <a href="{{ "/proyecto/licencia/" | relURL }}">CC BY-NC-ND 4.0</a>;
+      herramientas públicas bajo PolyForm Noncommercial 1.0.0.
+      Los textos fuente conservan sus propias licencias.
+    </p>
+  </div>
+</footer>

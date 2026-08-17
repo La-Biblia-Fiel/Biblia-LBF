@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="envoltura pagina">
+  {{ with .Params.antetitulo }}<p class="subtitulo-pagina">{{ . }}</p>{{ end }}
+  <h1>{{ .Title }}</h1>
+  <div class="prosa">
+    {{ .Content }}
+  </div>
+
+  {{ with .Pages }}
+  <div class="tarjetas">
+    {{ range . }}
+    <a class="tarjeta" href="{{ .RelPermalink }}">
+      <h3>{{ .Title }}</h3>
+      <p>{{ with .Params.entradilla }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 120 }}{{ end }}</p>
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+</section>
+{{ end }}

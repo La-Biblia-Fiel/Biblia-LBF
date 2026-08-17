@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="envoltura pagina pagina-ancha">
+  <nav class="migas" aria-label="Ruta">
+    <a href="{{ "/biblia/" | relURL }}">La Biblia</a>
+    <span>/</span>
+    {{ if eq .Params.testamento "at" }}Antiguo Testamento{{ else }}Nuevo Testamento{{ end }}
+  </nav>
+
+  <h1>{{ .Title }}</h1>
+  <p class="subtitulo-pagina">
+    {{ .Params.capitulos }} capítulo{{ if ne .Params.capitulos 1 }}s{{ end }} ·
+    {{ .Params.versiculos }} versículos
+  </p>
+
+  <div class="prosa">{{ .Content }}</div>
+
+  <h2 class="testamento-titulo" style="margin-top:2.5rem">Capítulos</h2>
+  <ul class="capitulos">
+    {{ range .Pages.ByWeight }}
+    <li><a href="{{ .RelPermalink }}">{{ .Params.capitulo }}</a></li>
+    {{ end }}
+  </ul>
+
+  {{ with .Params.fuente }}
+  <p class="nota-fuente">{{ . | safeHTML }}</p>
+  {{ end }}
+</section>
+{{ end }}

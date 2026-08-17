@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="envoltura pagina pagina-ancha">
+  <p class="subtitulo-pagina">Concordancia del texto publicado</p>
+  <h1>{{ .Title }}</h1>
+  <div class="prosa">{{ .Content }}</div>
+
+  <div class="buscador-campo">
+    <input type="search" id="buscador" placeholder="Escribe una palabra o frase…"
+           aria-label="Buscar en el texto bíblico"
+           data-indice="{{ "indice.json" | relURL }}" autocomplete="off" spellcheck="false">
+  </div>
+  <p class="buscador-estado" id="buscador-estado" role="status" aria-live="polite"></p>
+  <ul class="resultados" id="buscador-resultados"></ul>
+
+  <noscript>
+    <div class="aviso"><p>La búsqueda necesita JavaScript. Puedes navegar el texto desde <a href="{{ "/biblia/" | relURL }}">el índice de libros</a>.</p></div>
+  </noscript>
+</section>
+{{ end }}
