@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://biblia-lbf.example/schema/release-manifest.schema.json",
+  "title": "LBF release manifest",
+  "description": "Declares one atomic LBF release: its bound input revisions and every published artifact with a checksum. Written by the exporter; never hand-edited.",
+  "type": "object",
+  "required": [
+    "recordId",
+    "schemaVersion",
+    "recordType",
+    "book",
+    "edition",
+    "version",
+    "buildId",
+    "status",
+    "createdBy",
+    "createdAt",
+    "inputRevisionIds",
+    "artifacts"
+  ],
+  "properties": {
+    "recordId": { "type": "string", "pattern": "^RELMAN-[a-z0-9]+-[0-9a-f]{12}$" },
+    "schemaVersion": { "type": "integer" },
+    "revision": { "type": "integer" },
+    "recordType": { "type": "string", "enum": ["RELEASE_MANIFEST"] },
+    "book": { "type": "string" },
+    "edition": { "type": "string" },
+    "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "buildId": { "type": "string" },
+    "status": { "type": "string", "enum": ["DRAFT", "PENDING", "APPROVED", "PUBLISHED", "REVOKED"] },
+    "createdBy": { "type": "string" },
+    "aiUsed": { "type": "boolean" },
+    "createdAt": { "type": "string" },
+    "approvedBy": { "type": "string" },
+    "approvedAt": { "type": "string" },
+    "bookReviewId": { "type": "string" },
+    "inputRevisionIds": {
+      "type": "object",
+      "description": "Exact revisions this release was built from. Approval binds to these.",
+      "required": ["source", "translation", "alignment"],
+      "properties": {
+        "source": { "type": "string", "pattern": "^SRC-[a-z0-9]+-[0-9a-f]{12}$" },
+        "translation": { "type": "string", "pattern": "^TR-[a-z0-9]+-[0-9a-f]{12}$" },
+        "alignment": { "type": "string", "pattern": "^ALN-[a-z0-9]+-[0-9a-f]{12}$" }
+      }
+    },
+    "artifacts": {
+      "type": "object",
+      "description": "Every published file, each with its sha256. Undeclared files in a release directory are a violation.",
+      "properties": {
+        "text": { "$ref": "#/$defs/artifact" },
+        "alignment": { "$ref": "#/$defs/artifact" }
+      }
+    }
+  },
+  "$defs": {
+    "artifact": {
+      "type": "object",
+      "required": ["file", "sha256"],
+      "properties": {
+        "file": { "type": "string" },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+      }
+    }
+  }
+}
