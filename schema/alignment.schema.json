@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://biblia-lbf.example/schema/alignment.schema.json",
+  "title": "LBF alignment record",
+  "description": "Source-to-target alignment. Links reference stable source token ids, never character offsets or display positions.",
+  "type": "object",
+  "required": ["bookId", "schemaVersion", "links"],
+  "properties": {
+    "bookId": { "type": "string" },
+    "textualBasis": { "type": "string" },
+    "schemaVersion": {},
+    "numbering": {
+      "type": "string",
+      "description": "Verse-numbering basis of the references, so source token ids can be interpreted against them. Required whenever source and target numbering can differ (Zechariah, Daniel)."
+    },
+    "generator": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "usesAI": { "type": "boolean" },
+        "verificationAuthority": { "type": "boolean" },
+        "status": { "type": "string" }
+      }
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["reference"],
+        "properties": {
+          "phraseIndex": { "type": "integer" },
+          "reference": { "type": "string" },
+          "status": { "type": "string" },
+          "units": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "unitId": { "type": "string" },
+                "sourceTokenIds": { "type": "array", "items": { "type": "string" } },
+                "relationshipType": { "type": "string" },
+                "status": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
