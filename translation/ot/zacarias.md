@@ -1,8 +1,7 @@
 # Zacarías
 
 > La Biblia Fiel — Zacarías.
-> Fuente: hebreo (OSHB/WLC). Snapshot `OSHB-WLC:2e287c8d0e0abd3bf601eb8ef9b4ee6ca3ae12cf36c0ed1612a7dcca54a2e777`.
-> LBF 1.0.0. Release: `releases/zechariah/1.0.0/LBF-zechariah-1.0.0-8cb0343354a5`.
+> Fuente: hebreo (OSHB/WLC).
 
 ## Capítulo 1
 

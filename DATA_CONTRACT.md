@@ -1,100 +1,74 @@
 # Biblia-LBF Data Contract
 
-Status: normative  
-Architecture: `docs/architecture/CGV_DATA_ARCHITECTURE.md`
+Status: normative
 
 ## Purpose
 
-`Biblia-LBF` is the sole editable source of truth for La Biblia Fiel. It owns translation text, tokenization, source-to-target alignment, review state, approval records, translation decisions, and the deterministic exporter that creates publishable artifacts.
+`Biblia-LBF` is the only editable source of truth for La Biblia Fiel.
+It owns the Spanish text, the source-to-Spanish alignment, and the
+record of whether that work is finished.
 
-## Owned data
+Working format:
 
-- Canonical LBF translation records.
-- Stable verse, source-token, and target-token identifiers.
-- LBF alignments, including human and machine-draft links.
-- Translation and alignment review records.
-- Terminology decisions and translation notes.
-- Project schemas, validators, migrations, and exporter.
-- Release declarations that identify the approved scope.
+- one Markdown file per book for Spanish
+- one reverse-links file per book for alignment
+- `STATUS.md` for finished
 
-## Required invariants
+## Canonical homes
 
-- Every editable LBF verse exists exactly once in this repository.
-- Every editable LBF alignment exists exactly once in this repository.
-- Verse IDs use canonical book codes, for example `TIT.1.1`.
-- Token IDs are persisted and never silently regenerated from array position.
-- Alignments reference token IDs, not character offsets or UI positions.
-- Translation changes increment the translation revision and invalidate translation and alignment approval for the affected verse.
-- Alignment changes increment the alignment revision and invalidate alignment approval.
-- Approval identifies the exact translation and alignment revisions, approver, and timestamp.
-- Machine-produced translation or alignment remains `draft` until human approval.
-- Canonical files validate against the repository schemas before merge.
+| Data | Path |
+| --- | --- |
+| Spanish | `translation/{nt\|ot}/{book}.md` |
+| Alignment | `alignment/{nt\|ot}/{book}/{book}-reverse-links.json` |
+| Status | `STATUS.md` |
+| Sources | `source/` |
 
-## Allowed writes
+Every editable verse exists once. Every editable alignment exists once.
+Verse labels are Protestant. Token IDs are persisted. Alignments name
+token IDs, not character offsets as the source of truth.
 
-Writes may originate from:
+## Finished
 
-- reviewed pull requests;
-- `cgv-translator` through the repository adapter;
-- explicit, reviewed migration tools.
+`STATUS.md` is the only ledger. Four states:
+`none` | `draft` | `ready` | `done`.
 
-All accepted writes must become Git commits. A database, local cache, or application state must never become a competing source of truth.
+| State | Who writes it | Meaning |
+| --- | --- | --- |
+| `none` | `python3 tools/verify.py` | No real file |
+| `draft` | a person, or `verify.py` | Work exists. Not complete |
+| `ready` | `python3 tools/verify.py` only | Checks passed. Awaiting approval |
+| `done` | a named human only | Approved |
 
-## Publication
+`done` requires a name, a date, and a passing `python3 tools/status.py`.
+`verify.py` never writes `done`. `status.py` never writes a state.
 
-Publication is one-way:
+A book is finished only when translation and alignment are both `done`.
+Machine-produced Spanish or alignment stays `draft`.
 
-```text
-Biblia-LBF -> validate -> export -> publisher PR -> cgv-data
-```
-
-The exporter must:
-
-- read only committed canonical project data;
-- write to a clean staging directory;
-- be deterministic;
-- include the exact source commit SHA;
-- validate output against distribution schemas;
-- publish LBF text and alignment as one atomic version;
-- refuse incomplete, stale, or unapproved release scope.
-
-This repository must never import changes back from `cgv-data` automatically.
-
-## Prohibited content and behavior
-
-- Application code for Reader, Observer, or Compiler. Translator application code is
-  permitted under `apps/translator/`, but it must operate on the canonical project data
-  and must not contain an independent translation, alignment, approval, or release corpus.
-- Hand-edited copies of published `cgv-data` artifacts.
-- Silent approval retention after content changes.
-- Direct mutation of a `cgv-data` checkout.
-- Multiple canonical formats representing the same editable verse.
-- Licensed source material whose redistribution is not permitted.
+If a `ready` file fails the checks, `verify.py` returns it to `draft`.
+If a `done` file changes, clear that signature yourself. It returns to `draft`.
 
 ## Translator application
 
-The LBF Translator application may live under `apps/translator/`.
+`apps/translator/` may exist as an editor. It must read and write the
+canonical homes above. It must not keep `translations/`, canonical
+alignment, or approval records of its own.
 
-The application must read and write the canonical project data owned by this
-repository. It must not maintain a second editable corpus.
+## Publication
 
-Prohibited beneath `apps/translator/`:
+```text
+Biblia-LBF → validate → export → publisher PR → cgv-data
+```
 
-- `translations/` or another complete Bible-text tree;
-- canonical alignment files;
-- canonical approval or review records;
-- canonical release files;
-- hand-maintained copies of project data.
+This repository never imports LBF text or alignment back from `cgv-data`.
+It never publishes by copying into a checked-out `cgv-data` working tree.
 
-Minimal test fixtures are allowed only under `apps/translator/tests/fixtures/`.
-They must be clearly labeled noncanonical and contain only the smallest data
-needed for a test.
+## Prohibited
 
-The location of application code does not change data ownership. Canonical
-translation, alignment, review, and approval records remain under the project's
-designated canonical directories.
-
-## Pull-request gate
-
-CI must reject a change when schemas fail, IDs collide, references are missing, text and alignment revisions disagree, approvals are stale, or the exporter is not reproducible.
-
+- A second editable copy of the same verse or alignment
+- Automatic import from another repository
+- Silent retention of `done` after the bound text or alignment changes
+- Machine zip, gloss DP, or auto-zip presented as finished alignment
+- MT verse labels
+- Direct mutation of `cgv-data`
+- Reader, Observer, or Compiler application code in this repository

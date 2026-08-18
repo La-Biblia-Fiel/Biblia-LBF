@@ -34,7 +34,7 @@ python3 tools/build-content.py && hugo --gc --minify
 | `content/biblia/<libro>/_index.md` | Página de cada libro |
 | `content/biblia/<libro>/<n>.md` | Página de cada capítulo (versículos en HTML) |
 | `data/libros.json` | Índice del canon, estado y estadísticas |
-| `data/versiones.json` | Compilaciones leídas de `../releases/*/*/*/release-manifest.json` |
+| `data/versiones.json` | Estado leído de `../STATUS.md` |
 | `static/indice.json` | Índice de búsqueda del lado del cliente |
 
 Todo eso está en `.gitignore`: **es contenido derivado**. Se regenera en cada
@@ -84,7 +84,7 @@ site/
 - `content/_index.md` — portada
 - `content/proyecto/` — el proyecto, el juramento, metodología, base textual
 - `content/progreso/_index.md` — texto introductorio (las cifras son automáticas)
-- `content/versiones/_index.md` — texto introductorio (la tabla es automática)
+- `content/versiones/_index.md` — texto introductorio del estado (la tabla es automática)
 - `content/buscar/_index.md` — texto introductorio del buscador
 
 ## El lector
@@ -99,7 +99,7 @@ site/
 ## Publicación
 
 `.github/workflows/pages.yml` (en la raíz del repositorio) compila y publica en
-GitHub Pages con cada `push` que toque `site/`, `translation/` o `releases/`.
+GitHub Pages con cada `push` que toque `site/`, `translation/` o `STATUS.md`.
 En el repositorio: **Settings → Pages → Source: GitHub Actions**.
 
 El `baseURL` lo inyecta el propio flujo de trabajo, así que el sitio funciona

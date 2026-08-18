@@ -13,9 +13,9 @@ import re
 import unicodedata
 from pathlib import Path
 
-HERR = Path("/Users/johnwry/Nextcloud/Documents/GitHub/herramientas")
-PHRASES = HERR / "cgv-translator/translations/oshb-spine/zechariah/zechariah-phrases.json"
-OUT = HERR / "cgv-translator/translations/oshb-spine/zechariah/zechariah-reverse-links.json"
+ROOT = Path("/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF")
+PHRASES = ROOT / "alignment/ot/zacarias/zacarias-phrases.json"
+OUT = ROOT / "alignment/ot/zacarias/zacarias-reverse-links.json"
 
 # phraseIndex → list of (spanish_unit_surface, list of tokenRows 0-based)
 # Surfaces are found in Spanish order (cursor advances).

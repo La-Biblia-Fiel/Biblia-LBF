@@ -3,12 +3,12 @@
 build-content.py — genera el contenido del sitio a partir de la traducción.
 
 Lee  ../translation/{ot,nt}/*.md   (fuente de verdad de LBF)
-     ../releases/*/*/*/release-manifest.json
+     ../STATUS.md
 
 Escribe  content/biblia/<libro>/_index.md   (una página por libro)
          content/biblia/<libro>/<n>.md      (una página por capítulo)
          data/libros.json                   (índice y estadísticas)
-         data/versiones.json                (compilaciones publicadas)
+         data/versiones.json                (estado desde STATUS.md)
          static/indice.json                 (índice de búsqueda)
 
 Es idempotente: borra y regenera content/biblia por completo en cada ejecución.
@@ -29,7 +29,7 @@ from pathlib import Path
 RAIZ_SITIO = Path(__file__).resolve().parent.parent
 RAIZ_REPO = RAIZ_SITIO.parent
 DIR_TRADUCCION = RAIZ_REPO / "translation"
-DIR_RELEASES = RAIZ_REPO / "releases"
+ARCHIVO_ESTADO = RAIZ_REPO / "STATUS.md"
 
 DIR_BIBLIA = RAIZ_SITIO / "content" / "biblia"
 DIR_DATOS = RAIZ_SITIO / "data"
@@ -79,10 +79,9 @@ ALIAS_ARCHIVO = {
     "zechariah": "zacarias",
 }
 
-# Nombres en inglés usados en releases/ → slug canónico.
-ALIAS_RELEASE = {
-    "zechariah": "zacarias",
-    "daniel": "daniel",
+# Nombres de STATUS.md que no coinciden con el slug del sitio.
+ALIAS_ESTADO = {
+    "titus": "tito",
 }
 
 RE_LIBRO = re.compile(r"^#\s+(.+?)\s*$")
@@ -258,39 +257,38 @@ def escribir_libro(libro: Libro) -> None:
         )
 
 
-def leer_releases() -> list[dict]:
-    if not DIR_RELEASES.is_dir():
+RE_ESTADO = re.compile(
+    r"^\|\s*([a-z0-9]+)\s*\|\s*(ot|nt)\s*\|\s*(none|draft|ready|done)\s*\|\s*(none|draft|ready|done)\s*\|\s*([^|]*)\|\s*([^|]*)\|\s*([^|]*)\|\s*([^|]*)\|"
+)
+
+
+def leer_estado() -> list[dict]:
+    if not ARCHIVO_ESTADO.is_file():
         return []
     titulos = {s: t for s, t, _ in CANON_AT + CANON_NT}
     salida = []
-    for manifiesto in sorted(DIR_RELEASES.glob("*/*/*/release-manifest.json")):
-        try:
-            d = json.loads(manifiesto.read_text(encoding="utf-8"))
-        except (OSError, json.JSONDecodeError) as e:
-            print(f"  aviso: no se pudo leer {manifiesto}: {e}", file=sys.stderr)
+    for linea in ARCHIVO_ESTADO.read_text(encoding="utf-8").splitlines():
+        m = RE_ESTADO.match(linea)
+        if not m:
             continue
-        slug = ALIAS_RELEASE.get(d.get("book", ""), d.get("book", ""))
-        artefactos = [
-            {"archivo": a.get("file", ""), "sha256": a.get("sha256", "")}
-            for a in (d.get("artifacts") or {}).values()
+        slug_raw, _tes, trad, alin, t_por, t_el, a_por, a_el = [
+            x.strip() for x in m.groups()
         ]
-        estado = {"PENDING": "Pendiente de revisión", "RELEASED": "Publicada"}.get(
-            d.get("status", ""), d.get("status", "—")
-        )
+        if trad == "none" and alin == "none":
+            continue
+        slug = ALIAS_ESTADO.get(slug_raw, slug_raw)
         salida.append(
             {
                 "slug": slug,
                 "titulo": titulos.get(slug, slug.title()),
-                "version": d.get("version", ""),
-                "buildId": d.get("buildId", ""),
-                "estado": estado,
-                "fecha": (d.get("createdAt", "") or "")[:10],
-                "edicion": d.get("edition", "LBF"),
-                "artefactos": artefactos,
-                "ruta": str(manifiesto.parent.relative_to(RAIZ_REPO)),
+                "traduccion": trad,
+                "alineacion": alin,
+                "traduccion_por": t_por,
+                "traduccion_el": t_el,
+                "alineacion_por": a_por,
+                "alineacion_el": a_el,
             }
         )
-    salida.sort(key=lambda r: (r["titulo"], r["version"]))
     return salida
 
 
@@ -392,7 +390,7 @@ def main() -> None:
         json.dumps(datos_libros, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
     (DIR_DATOS / "versiones.json").write_text(
-        json.dumps(leer_releases(), ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        json.dumps(leer_estado(), ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
     (DIR_ESTATICO / "indice.json").write_text(
         json.dumps(indice_busqueda, ensure_ascii=False, separators=(",", ":")) + "\n",

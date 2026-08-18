@@ -78,7 +78,7 @@ def parse_tokens(raw: str) -> list[str]:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Edit one alignment unit and reopen only affected G0B")
+    parser = argparse.ArgumentParser(description="Edit one alignment unit")
     parser.add_argument("--book", required=True)
     parser.add_argument("--reference", required=True)
     parser.add_argument("--unit", required=True, dest="unit_id")
@@ -86,11 +86,28 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 
-    root = Path(__file__).resolve().parents[1]
+    homes = {
+        "zechariah": ("ot", "zacarias"),
+        "zacarias": ("ot", "zacarias"),
+        "daniel": ("ot", "daniel"),
+        "titus": ("nt", "titus"),
+        "revelation": ("nt", "apocalipsis"),
+        "apocalipsis": ("nt", "apocalipsis"),
+        "1john": ("nt", "1juan"),
+        "1juan": ("nt", "1juan"),
+        "jude": ("nt", "judas"),
+        "judas": ("nt", "judas"),
+    }
+    repo = Path(__file__).resolve().parents[3]
     book = args.book.strip().lower()
-    base = root / "translations" / "oshb-spine" / book
-    reverse_path = base / f"{book}-reverse-links.json"
-    spine_path = base / f"{book}-oshb-spine.json"
+    if book not in homes:
+        raise SystemExit(f"Unknown alignment book: {book}")
+    testament, slug = homes[book]
+    base = repo / "alignment" / testament / slug
+    reverse_path = base / f"{slug}-reverse-links.json"
+    spine_path = base / f"{slug}-oshb-spine.json"
+    if not spine_path.is_file():
+        spine_path = base / f"{slug}-tr-spine.json"
     if not reverse_path.is_file():
         raise SystemExit(f"Reverse-link artifact missing: {reverse_path}")
     if not spine_path.is_file():
@@ -108,8 +125,7 @@ def main() -> int:
         return 0
 
     print(f"CHANGED: {args.reference} / {args.unit_id}")
-    print("G0A: unchanged")
-    print("G0B: needs-review for affected link")
+    print("STATUS.md alignment stays draft until a human signs it")
     if args.dry_run:
         print("DRY RUN: artifact not written")
         return 0

@@ -9,14 +9,14 @@ import { describeAiAvailability, loadTranslatorEnv } from "./src/ai/suggestPhras
 import { analyzePhraseGates } from "./src/pipeline/analyzeGates.js";
 import { assistPhraseGates } from "./src/pipeline/assistGates.js";
 import { createInvestigationFromLemma, languageFromStrongs } from "./src/investigations/createInvestigation.js";
-import { findBook, allTranslatorBooks } from "./src/data/bookCatalog.js";
+import { findBook, allTranslatorBooks, lbfHome } from "./src/data/bookCatalog.js";
 import { loadNtBookUnits } from "./src/data/morphLoader.js";
 
 const rootDir = fileURLToPath(new URL(".", import.meta.url));
 await loadTranslatorEnv(rootDir);
 const publicDir = join(rootDir, "public");
 const investigationsDir = join(rootDir, "investigations");
-const translationsDir = join(rootDir, "translations");
+const repoRoot = join(rootDir, "..", "..");
 const port = Number(process.env.PORT || 1424);
 
 function resolveBook(bookId) {
@@ -38,28 +38,27 @@ function bookIdFromRequest(url, body = null) {
 
 function translationPathsForBook(bookId) {
   const book = resolveBook(bookId);
-  const oshbPhraseFile = join(translationsDir, "oshb-spine", book.id, `${book.id}-phrases.json`);
-  const oshbReverseLinksFile = join(translationsDir, "oshb-spine", book.id, `${book.id}-reverse-links.json`);
-  // Prefer TR-remapped phrases when the TR spine pilot exists for this book.
-  const trPhraseFile = join(translationsDir, "tr-spine", book.id, `${book.id}-phrases-tr.json`);
-  const defaultPhraseFile = join(translationsDir, `${book.id}-phrases.json`);
-  const reverseLinksFile = join(translationsDir, "tr-spine", book.id, `${book.id}-reverse-links.json`);
+  const { slug, testament } = lbfHome(book);
+  const alignDir = join(repoRoot, "alignment", testament, slug);
+  const documentFile = join(repoRoot, "translation", testament, `${slug}.md`);
   if (book.spine === "oshb") {
+    const phraseFile = join(alignDir, `${slug}-phrases.json`);
     return {
       book,
-      phraseFile: oshbPhraseFile,
-      defaultPhraseFile: oshbPhraseFile,
-      documentFile: join(translationsDir, `${book.bleSlug}.md`),
-      reverseLinksFile: oshbReverseLinksFile,
+      phraseFile,
+      defaultPhraseFile: phraseFile,
+      documentFile,
+      reverseLinksFile: join(alignDir, `${slug}-reverse-links.json`),
       spineKind: "oshb"
     };
   }
+  const phraseFile = join(alignDir, `${slug}-phrases-tr.json`);
   return {
     book,
-    phraseFile: trPhraseFile,
-    defaultPhraseFile,
-    documentFile: join(translationsDir, `${book.bleSlug}.md`),
-    reverseLinksFile,
+    phraseFile,
+    defaultPhraseFile: phraseFile,
+    documentFile,
+    reverseLinksFile: join(alignDir, `${slug}-reverse-links.json`),
     spineKind: "tr"
   };
 }
@@ -1232,7 +1231,8 @@ async function handleTranslation(request, response, url) {
     const existing = await readExistingTranslationPhrases(phraseFile);
     const merged = mergeTranslationPhraseSaves(incoming, existing);
     const phrases = await enrichTranslationPhraseRecords(merged, bookId);
-    await mkdir(translationsDir, { recursive: true });
+    await mkdir(dirname(documentFile), { recursive: true });
+    await mkdir(dirname(phraseFile), { recursive: true });
     await writeFile(documentFile, content.endsWith("\n") ? content : `${content}\n`, "utf8");
     await writeTranslationPhrases(phraseFile, phrases, book, textualBasis);
     sendJson(response, 200, {
@@ -1365,25 +1365,25 @@ async function handleApi(request, response, url) {
       id: book.id,
       label: book.label,
       bleSlug: book.bleSlug,
+      number: book.number,
       hasPhrases: false,
       spine: book.spine || "nt"
     }));
     await Promise.all(books.map(async book => {
+      const home = lbfHome(findBook(book.id) || book);
+      const alignDir = join(repoRoot, "alignment", home.testament, home.slug);
       const candidates = [
-        join(translationsDir, "oshb-spine", book.id, `${book.id}-phrases.json`),
-        join(translationsDir, "tr-spine", book.id, `${book.id}-phrases-tr.json`),
-        join(translationsDir, `${book.id}-phrases.json`)
+        join(alignDir, `${home.slug}-phrases.json`),
+        join(alignDir, `${home.slug}-phrases-tr.json`)
       ];
       for (const candidate of candidates) {
         try {
           await stat(candidate);
           book.hasPhrases = true;
-          if (candidate.includes("oshb-spine")) {
+          if (candidate.endsWith("-phrases.json")) {
             book.textualBasis = "OSHB/WLC";
-          } else if (candidate.includes("tr-spine")) {
-            book.textualBasis = "Scrivener 1894 TR";
           } else {
-            book.textualBasis = "MorphGNT/SBLGNT (fallback)";
+            book.textualBasis = "Scrivener 1894 TR";
           }
           break;
         } catch {

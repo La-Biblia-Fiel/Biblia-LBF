@@ -38,7 +38,7 @@ export const OT_PILOT_BOOKS = [
   { id: "jonah", label: "Jonah", oshbFile: "Jonah.xml", bleSlug: "jonas", usfm: "JON", number: 32 }
 ];
 
-/** OT books with JSON OSHB spine under translations/oshb-spine/{id}/ */
+/** OT books with an OSHB spine under alignment/ot/{slug}/ */
 export const OSHB_SPINE_BOOKS = [
   {
     id: "daniel",
@@ -62,6 +62,12 @@ export const OSHB_SPINE_BOOKS = [
 
 export function allTranslatorBooks() {
   return [...NT_BOOKS, ...OSHB_SPINE_BOOKS];
+}
+
+export function lbfHome(book) {
+  const slug = book.id === "titus" ? "titus" : book.bleSlug;
+  const testament = Number(book.number) >= 40 ? "nt" : "ot";
+  return { slug, testament };
 }
 
 export function findBook(idOrLabel) {

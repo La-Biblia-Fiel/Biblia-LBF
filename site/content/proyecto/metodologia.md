@@ -6,10 +6,13 @@ entradilla: "Cada cláusula sigue el mismo orden: leer, observar, estudiar, trad
 description: "El flujo de trabajo de traducción de La Biblia Fiel: reglas operativas y orden de traducción."
 ---
 
-Este documento define el proceso de traducción de **La Biblia Fiel**. Existe
-para asegurar que toda decisión de traducción se tome según los mismos
-principios, y que la traducción permanezca fiel al texto bíblico antes que a la
-tradición, la memoria o los sistemas teológicos.
+Este documento define el orden de traducción de **La Biblia Fiel**. Existe
+para asegurar que toda decisión se tome según los mismos principios, y que
+la traducción permanezca fiel al texto bíblico antes que a la tradición, la
+memoria o los sistemas teológicos.
+
+El registro de qué libro está terminado no vive aquí. Vive en el repositorio,
+en `STATUS.md`.
 
 ## Reglas operativas
 

@@ -32,18 +32,6 @@ Los libros del Antiguo Testamento se traducen del texto masorético según el
 **Open Scriptures Hebrew Bible (OSHB / Westminster Leningrad Codex)**, con
 morfología documentada.
 
-Cada libro publicado registra la instantánea exacta (hash) del texto fuente
-usado, de modo que la traducción sea reproducible y auditable. Esa referencia
-aparece al pie de cada libro y en la página de
-[versiones](/versiones/).
-
-## Reproducibilidad
-
-Cada compilación de un libro genera un manifiesto con:
-
-- el identificador de la compilación,
-- los identificadores de revisión de la fuente, la traducción y el alineamiento,
-- las sumas SHA-256 de cada artefacto.
-
-Esto permite verificar que el texto publicado corresponde exactamente al texto
-compilado.
+Cada libro registra su fuente en la nota de cabecera del archivo de
+traducción. El estado del trabajo está en
+[Estado](/versiones/).

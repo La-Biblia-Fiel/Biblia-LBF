@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Seed Spanish→TR reverse-interlinear links for Titus.
 
-Writes: translations/tr-spine/titus/titus-reverse-links.json
+Writes: alignment/nt/titus/titus-reverse-links.json
 
 Phrases 0–11: hand-mapped (high confidence).
 Remaining phrases: sequential auto-seed for UI scaffolding (status=auto).
@@ -13,9 +13,9 @@ import re
 import unicodedata
 from pathlib import Path
 
-HERR = Path("/Users/johnwry/Nextcloud/Documents/GitHub/herramientas")
-PHRASES = HERR / "cgv-translator/translations/tr-spine/titus/titus-phrases-tr.json"
-OUT = HERR / "cgv-translator/translations/tr-spine/titus/titus-reverse-links.json"
+ROOT = Path("/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF")
+PHRASES = ROOT / "alignment/nt/titus/titus-phrases-tr.json"
+OUT = ROOT / "alignment/nt/titus/titus-reverse-links.json"
 
 WORD_RE = re.compile(r"[A-Za-zÁÉÍÓÚÜáéíóúüÑñ]+(?:'[A-Za-zÁÉÍÓÚÜáéíóúüÑñ]+)?")
 

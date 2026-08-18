@@ -2,7 +2,6 @@
 
 > La Biblia Fiel — Daniel.
 > Fuente: hebreo / arameo (OSHB).
-> LBF 1.0.0. Release: `releases/daniel/1.0.0/LBF-daniel-1.0.0-1533cdd52bdb`.
 
 ## Capítulo 1
 

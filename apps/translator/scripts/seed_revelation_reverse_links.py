@@ -26,8 +26,8 @@ import re
 from pathlib import Path
 
 ROOT = Path("/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF")
-PHRASES = ROOT / "apps/translator/translations/tr-spine/revelation/revelation-phrases-tr.json"
-OUT = ROOT / "apps/translator/translations/tr-spine/revelation/revelation-reverse-links.json"
+PHRASES = ROOT / "alignment/nt/apocalipsis/apocalipsis-phrases-tr.json"
+OUT = ROOT / "alignment/nt/apocalipsis/apocalipsis-reverse-links.json"
 
 # phraseIndex → list of (spanish_unit_surface, list of tokenRows 0-based)
 # Surfaces are found in Spanish order (cursor advances).

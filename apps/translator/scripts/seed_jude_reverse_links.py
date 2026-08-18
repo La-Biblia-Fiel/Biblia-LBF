@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Seed Spanish→TR reverse-interlinear links for Jude.
 
-Writes: translations/tr-spine/jude/jude-reverse-links.json
+Writes: alignment/nt/judas/judas-reverse-links.json
 
 All phrases start as auto-seed (function words attached to the next content
 word) so Observer Structure can compile. Hand-refine in the translator UI
@@ -14,9 +14,9 @@ import re
 import unicodedata
 from pathlib import Path
 
-HERR = Path("/Users/johnwry/Nextcloud/Documents/GitHub/herramientas")
-PHRASES = HERR / "cgv-translator/translations/tr-spine/jude/jude-phrases-tr.json"
-OUT = HERR / "cgv-translator/translations/tr-spine/jude/jude-reverse-links.json"
+ROOT = Path("/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF")
+PHRASES = ROOT / "alignment/nt/judas/judas-phrases-tr.json"
+OUT = ROOT / "alignment/nt/judas/judas-reverse-links.json"
 
 WORD_RE = re.compile(r"[A-Za-zÁÉÍÓÚÜáéíóúüÑñ]+(?:'[A-Za-zÁÉÍÓÚÜáéíóúüÑñ]+)?")
 

@@ -1,9 +1,9 @@
 ---
-title: "Versiones"
+title: "Estado"
 layout: "versiones"
-description: "Compilaciones publicadas de La Biblia Fiel, con sus identificadores y sumas de verificación."
+description: "Qué libros de La Biblia Fiel tienen texto o alineación, y cuáles están firmados."
 ---
 
-Cada libro se compila de forma determinista y produce un manifiesto con las
-sumas SHA-256 de sus artefactos. Estas son las compilaciones registradas hasta
-ahora.
+Estados: `none`, `draft`, `ready`, `done`.
+`ready` lo escribe el verificador. `done` exige su nombre.
+Este registro se genera desde `STATUS.md`.

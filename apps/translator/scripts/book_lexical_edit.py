@@ -48,13 +48,28 @@ def rows(doc: dict) -> list[dict]:
 
 
 def find_book_file(root: Path, book: str, suffixes: list[str]) -> Path:
+    repo = root.parent.parent
+    homes = {
+        "zechariah": ("ot", "zacarias"),
+        "zacarias": ("ot", "zacarias"),
+        "daniel": ("ot", "daniel"),
+        "titus": ("nt", "titus"),
+        "revelation": ("nt", "apocalipsis"),
+        "apocalipsis": ("nt", "apocalipsis"),
+        "1john": ("nt", "1juan"),
+        "1juan": ("nt", "1juan"),
+        "jude": ("nt", "judas"),
+        "judas": ("nt", "judas"),
+    }
+    testament, slug = homes.get(book, ("nt", book))
+    mapped = [suffix.replace(book, slug, 1) if suffix.startswith(book) else suffix for suffix in suffixes]
     bases = [
-        root / "translations" / "oshb-spine" / book,
-        root / "translations" / "tr-spine" / book,
-        root / "translations",
+        repo / "alignment" / testament / slug,
+        repo / "alignment" / "nt" / slug,
+        repo / "alignment" / "ot" / slug,
     ]
     for base in bases:
-        for suffix in suffixes:
+        for suffix in [*mapped, *suffixes]:
             path = base / suffix
             if path.is_file():
                 return path
