@@ -62,12 +62,37 @@ This repository must never import changes back from `cgv-data` automatically.
 
 ## Prohibited content and behavior
 
-- Application code for Reader, Observer, Compiler, or Translator UI.
+- Application code for Reader, Observer, or Compiler. Translator application code is
+  permitted under `apps/translator/`, but it must operate on the canonical project data
+  and must not contain an independent translation, alignment, approval, or release corpus.
 - Hand-edited copies of published `cgv-data` artifacts.
 - Silent approval retention after content changes.
 - Direct mutation of a `cgv-data` checkout.
 - Multiple canonical formats representing the same editable verse.
 - Licensed source material whose redistribution is not permitted.
+
+## Translator application
+
+The LBF Translator application may live under `apps/translator/`.
+
+The application must read and write the canonical project data owned by this
+repository. It must not maintain a second editable corpus.
+
+Prohibited beneath `apps/translator/`:
+
+- `translations/` or another complete Bible-text tree;
+- canonical alignment files;
+- canonical approval or review records;
+- canonical release files;
+- hand-maintained copies of project data.
+
+Minimal test fixtures are allowed only under `apps/translator/tests/fixtures/`.
+They must be clearly labeled noncanonical and contain only the smallest data
+needed for a test.
+
+The location of application code does not change data ownership. Canonical
+translation, alignment, review, and approval records remain under the project's
+designated canonical directories.
 
 ## Pull-request gate
 

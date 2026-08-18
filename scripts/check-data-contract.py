@@ -173,14 +173,82 @@ def sha256_of(path: Path) -> str:
 # boundary rules (what may live in this repository at all)
 # --------------------------------------------------------------------------
 
+# Reader / Observer / Compiler application code does not belong here. The
+# Translator application does, under apps/translator/ — see DATA_CONTRACT.md,
+# "Translator application". Its location never changes data ownership.
 APP_CODE_PATTERNS = [
     re.compile(r"^apps/"),
     re.compile(r"\.(tsx|jsx)$"),
     re.compile(r"^(src|packages)/.*\.(ts|js)$"),
     re.compile(r"vite\.config\.(ts|js)$"),
 ]
-# `site/` is the Hugo publication site and is explicitly allowed.
-APP_CODE_ALLOW = re.compile(r"^(site|tools|scripts)/")
+# `site/` is the Hugo publication site; `apps/translator/` is the permitted app.
+APP_CODE_ALLOW = re.compile(r"^(site|tools|scripts)/|^apps/translator/")
+
+# Minimal, clearly labelled fixtures are the only data allowed under the app.
+TRANSLATOR_FIXTURES = re.compile(r"^apps/translator/tests/fixtures/")
+MAX_FIXTURE_BYTES = 64 * 1024
+
+# A second editable corpus beneath the application is the one thing the
+# amendment does not permit: it recreates the two-sources-of-truth problem
+# inside a single repository.
+TRANSLATOR_CORPUS = [
+    (
+        "TRANSLATOR_CORPUS_TREE",
+        re.compile(r"^apps/translator/translations/"),
+        "A `translations/` tree under the Translator application is a second "
+        "editable corpus. Canonical translation lives in the project's own "
+        "translation directories.",
+    ),
+    (
+        "TRANSLATOR_CANONICAL_DATA",
+        re.compile(
+            r"""(?x)
+            ^apps/translator/.*(
+              \.lbf\.md$
+              | \.alignment\.json$
+              | -phrases\.json$
+              | -reverse-links(\.[a-z0-9-]+)?\.json$
+              | -spine\.json$
+              | /release-manifest\.json$
+            )"""
+        ),
+        "Canonical-looking corpus, alignment or release data beneath the "
+        "Translator application. The app must operate on the project's "
+        "canonical data, not carry its own copy.",
+    ),
+    (
+        "TRANSLATOR_APPROVAL_RECORDS",
+        re.compile(r"^apps/translator/.*(approvals?|review-results|review-packets|queues)/"),
+        "Approval or review records beneath the Translator application. "
+        "Approval truth belongs to the canonical project data.",
+    ),
+]
+
+
+def check_translator_app(repo: Path) -> None:
+    for rel in tracked_files(repo):
+        posix = rel.as_posix()
+        if not posix.startswith("apps/translator/"):
+            continue
+        if TRANSLATOR_FIXTURES.match(posix):
+            try:
+                size = (repo / rel).stat().st_size
+            except OSError:
+                size = 0
+            if size > MAX_FIXTURE_BYTES:
+                add(
+                    "OVERSIZED_FIXTURE",
+                    posix,
+                    f"Fixture is {size // 1024} KiB. Fixtures under the Translator app "
+                    f"must be minimal (<= {MAX_FIXTURE_BYTES // 1024} KiB) and clearly "
+                    "labelled noncanonical.",
+                )
+            continue
+        for rule, pattern, message in TRANSLATOR_CORPUS:
+            if pattern.search(posix):
+                add(rule, posix, message)
+                break
 
 FOREIGN_BIBLE = re.compile(r"\.(nbla|ble)\.md$|/(NBLA|BLE|SPNBES|RV1909)/")
 
@@ -272,7 +340,11 @@ def record_files(repo: Path) -> list[Path]:
         if rel.suffix != ".json":
             continue
         posix = rel.as_posix()
-        if posix.startswith(("source/", "site/")):
+        # Canonical-record checks apply to canonical directories only. Files under
+        # apps/ are application data by definition — the Translator rules above
+        # own them, and treating an app's copy of a release as a canonical record
+        # would report it twice under the wrong rule.
+        if posix.startswith(("source/", "site/", "apps/")):
             continue
         found.append(rel)
     return found
@@ -643,6 +715,7 @@ def main() -> int:
         return 2
 
     check_boundaries(repo)
+    check_translator_app(repo)
     check_records(repo, Path(args.schema_dir) if args.schema_dir else None)
 
     FINDINGS.sort(key=lambda f: (f["rule"], f["path"], f["key"]))

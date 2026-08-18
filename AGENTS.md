@@ -27,7 +27,10 @@ Canonical architecture: [`docs/architecture/CGV_DATA_ARCHITECTURE.md`](docs/arch
 - Never preserve approval after changing its bound translation or alignment.
 - Never publish directly into a checked-out `cgv-data` working tree.
 - Export only through the canonical validated publisher.
-- Never add Reader, Observer, Compiler, or Translator application code here.
+- Never add Reader, Observer or Compiler application code here. The Translator app is
+  allowed under `apps/translator/`, but it must operate on the canonical project data —
+  no `translations/` tree, no canonical alignment, approval, review or release files
+  beneath it. Minimal labelled fixtures only, under `apps/translator/tests/fixtures/`.
 - Every editable verse and every editable alignment exists exactly **once**.
 - Alignment references stable token ids — never character offsets, never display
   positions.
