@@ -1,7 +1,7 @@
 # CGV Translator Workflow Standard
 
 **Status:** Active
-**Version:** 1.3
+**Version:** 1.2
 **Scope:** LBF translation, investigation, alignment, verification, approval, and release
 
 ## 1. Authority
@@ -207,15 +207,11 @@ The Release operator shall:
 2. validate schema and referential integrity;
 3. create an artifact checksum;
 4. keep the release package (manifest, text, alignment) in `Biblia-LBF/releases/`;
-5. publish the approved consumer artifacts — Bible text **and its alignment** — to `cgv-data/bibles/LBF/`, atomically, under the same version;
-6. verify that every published checksum matches the manifest;
+5. publish only the consumer Bible text to `cgv-data/bibles/LBF/`;
+6. verify that the published text checksum matches the manifest;
 7. register the artifact ID, checksum, edition, and version with `cgv-MANAGER`.
 
-Alignment is first-class authored data, not a derived Reader artifact, and consumers must not regenerate it live. It therefore publishes with the text it belongs to. Text and alignment are one atomic version: never publish one without the other.
-
-Only **approved** artifacts publish. A draft or superseded alignment must not reach `cgv-data` even when it is better data than the last release — the remedy is a new release, not a side-channel.
-
-`cgv-data` is not the home of release paperwork. Gate decisions, reviews, approvals, investigations, and manifests stay in `Biblia-LBF`. Downstream work must consume the registered artifacts, not a working copy.
+`cgv-data` is not the home of release paperwork. Downstream work must consume the registered Bible text, not a working copy.
 
 ## 16. Corrections after release
 

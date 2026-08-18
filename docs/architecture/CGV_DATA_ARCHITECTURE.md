@@ -27,7 +27,7 @@ flowchart LR
 
 | Repository | Owns | May write | Must not contain |
 | --- | --- | --- | --- |
-| `Biblia-LBF` | LBF source translation, source-token alignment, review state, decisions, release metadata, LBF-specific validators/exporter | Its own canonical project files | App code; copied published output treated as editable; unrelated Bibles |
+| `Biblia-LBF` | LBF source translation, source-token alignment, review state, decisions, release metadata, LBF-specific validators/exporter, and the Translator application under `apps/translator/` | Its own canonical project files | Reader/Observer/Compiler app code; a second translation, alignment, approval or release corpus under `apps/`; copied published output treated as editable; unrelated Bibles |
 | `cgv-translator` | Translator UI, API/client code, local cache, tests | Changes to `Biblia-LBF` through a defined adapter/PR workflow | Canonical verses, canonical alignments, approval truth, hand-maintained export copies |
 | `cgv-data` | Versioned distribution artifacts for Bibles, songs, courses, morphology, interlinears | Automated release jobs or reviewed publisher PRs | Drafts, comments, workflow state, editor state, repair scripts, app-specific fixtures |
 | `cgv-reader` | Reader/Observer/Compiler application code and app-only configuration | Local user progress and generated build cache | Canonical Bible copies, canonical alignments, translation approvals, alignment repair/generation tools |

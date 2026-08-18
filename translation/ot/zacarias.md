@@ -637,7 +637,7 @@ Abre, Líbano, tus puertas, y coma fuego en tus cedros.
 
 ### 11:2
 
-Aúlla, ciprés, porque cayó cedro, que magníficos fueron devastados. Aúllen, encinas de Basán, porque bajó el bosque fortificado.
+Aúlla, ciprés, porque cayó el cedro, que magníficos fueron devastados. Aúllen, encinas de Basán, porque bajó el bosque fortificado.
 
 ### 11:3
 
