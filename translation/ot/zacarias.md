@@ -356,6 +356,7 @@ Y las coronas serán para Helem, y para Tobías, y para Jedaías, y para Hen hij
 ### 6:15
 
 Y los que están lejos vendrán y edificarán en el templo de Jehová, y sabrán que Jehová de los ejércitos me envió a ustedes. Y será, si de oír oyen la voz de Jehová su Dios.
+
 ## Capítulo 7
 
 ### 7:1
@@ -413,6 +414,7 @@ Y aconteció: como él llamó y no oyeron, así ellos llamarán y yo no oiré, d
 ### 7:14
 
 Y los lanzaré con torbellino sobre todas las naciones que no los conocieron; y la tierra fue asolada tras ellos, sin quien pasa y sin quien vuelve; y pusieron una tierra deseable en desolación.
+
 ## Capítulo 8
 
 ### 8:1
@@ -506,6 +508,7 @@ Y vendrán muchos pueblos y naciones poderosas a buscar a Jehová de los ejérci
 ### 8:23
 
 Así dice Jehová de los ejércitos: En aquellos días asirán diez hombres de todas las lenguas de las naciones, y asirán la orla de un hombre judío, diciendo: Iremos con ustedes, porque hemos oído que Dios está con ustedes.
+
 ## Capítulo 9
 
 ### 9:1
@@ -575,6 +578,7 @@ Y los salvará Jehová su Dios en aquel día como rebaño de su pueblo; porque p
 ### 9:17
 
 Porque ¡qué su bondad y qué su hermosura! El trigo a los jóvenes, y el mosto hará fructificar a las doncellas.
+
 ## Capítulo 10
 
 ### 10:1
