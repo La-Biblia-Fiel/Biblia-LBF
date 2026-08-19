@@ -1,0 +1,92 @@
+{
+  "book": "filipenses",
+  "base": "TR1894 Scrivener; Robinson parsed PHP.UTR",
+  "about": [
+    "Places where the Textus Receptus and the critical text genuinely differ,",
+    "with a test on the Spanish. Patterns are regular expressions matched",
+    "against the verse lowercased and stripped of accents, so write them",
+    "accent-free.",
+    "",
+    "Add an entry only after reading both readings in source/greek/TR1894/.",
+    "Every entry here is a claim about the Greek, and a wrong entry will",
+    "reject correct Spanish."
+  ],
+  "points": [
+    {
+      "ref": "1:16",
+      "tr": "hoi men ex eritheias ton Christon kataggellousin",
+      "ct": "hoi men ex agapes",
+      "must_match": "rivalidad|contienda|ambicion|egoism",
+      "must_not_match": "por amor",
+      "note": "el TR pone la rivalidad en 1:16 y el amor en 1:17; el texto critico los invierte"
+    },
+    {
+      "ref": "1:17",
+      "tr": "hoi de ex agapes, eidotes hoti eis apologian tou euangeliou keimai",
+      "ct": "hoi de ex eritheias ton Christon kataggellousin",
+      "must_match": "amor",
+      "must_not_match": "rivalidad|contienda",
+      "note": "par de 1:16; si aparece la rivalidad aqui, el orden es del texto critico"
+    },
+    {
+      "ref": "2:4",
+      "tr": "me ta heauton hekastos skopeite (imperativo)",
+      "ct": "me ta heauton hekastos skopountes (participio)",
+      "must_match": "no miren|no mire",
+      "must_not_match": "no mirando",
+      "note": "el TR trae imperativo, no participio"
+    },
+    {
+      "ref": "2:5",
+      "tr": "touto gar phroneistho en hymin",
+      "ct": "touto phroneite en hymin",
+      "must_match": "^porque",
+      "note": "el TR abre con gar e imperativo pasivo; el texto critico no trae gar"
+    },
+    {
+      "ref": "2:9",
+      "tr": "echarisato auto onoma to hyper pan onoma (onoma sin articulo)",
+      "ct": "to onoma to hyper pan onoma",
+      "must_match": "un nombre",
+      "must_not_match": "el nombre que es sobre",
+      "note": "en el TR onoma va sin articulo: un nombre, no el nombre"
+    },
+    {
+      "ref": "3:3",
+      "tr": "hoi pneumati Theo latreuontes (Theo, dativo)",
+      "ct": "hoi pneumati Theou latreuontes (Theou, genitivo)",
+      "must_match": "servimos a dios|damos culto a dios|rendimos culto a dios",
+      "must_not_match": "espiritu de dios",
+      "note": "el TR dice servir a Dios en espiritu; el texto critico dice servir por el Espiritu de Dios"
+    },
+    {
+      "ref": "3:16",
+      "tr": "to auto stoichein kanoni, to auto phronein",
+      "ct": "to auto stoichein",
+      "must_match": "regla|canon",
+      "note": "el TR conserva kanoni y to auto phronein; el texto critico omite ambos"
+    },
+    {
+      "ref": "3:16",
+      "tr": "to auto phronein",
+      "ct": "omitido",
+      "must_match": "pensar lo mismo|pensemos lo mismo|sentir lo mismo",
+      "note": "segunda clausula que el texto critico omite en 3:16"
+    },
+    {
+      "ref": "4:13",
+      "tr": "en to endynamounti me Christo",
+      "ct": "en to endynamounti me",
+      "must_match": "crist",
+      "note": "el TR nombra a Cristo; el texto critico lo omite"
+    },
+    {
+      "ref": "4:23",
+      "tr": "meta panton hymon. Amen.",
+      "ct": "meta tou pneumatos hymon",
+      "must_match": "todos ustedes|todos vosotros",
+      "must_not_match": "espiritu de ustedes|vuestro espiritu",
+      "note": "el TR cierra con todos ustedes, no con el espiritu de ustedes"
+    }
+  ]
+}
