@@ -26,6 +26,7 @@ CONSUMER_LABEL = {
     "1juan": "1Juan",
     "1pedro": "1Pedro",
     "judas": "Judas",
+    "filipenses": "Filipenses",
 }
 
 VERSE_HEADING = re.compile(r"^###\s+(\d+):(\d+)\s*$")

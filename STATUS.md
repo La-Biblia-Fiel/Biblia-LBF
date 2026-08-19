@@ -61,7 +61,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | 2corintios | nt | draft | none |  |  |  |  |  |
 | galatas | nt | ready | none |  |  |  |  |  |
 | efesios | nt | ready | none |  |  |  |  |  |
-| filipenses | nt | done | done | John Wry | 2026-08-18 | John Wry | 2026-08-18 | español rehecho contra el TR 2026-08-18; alineación caminada capítulo por capítulo, los 4 `walk-ch*.txt` firmados 2026-08-20 |
+| filipenses | nt | done | done | John Wry | 2026-08-18 | John Wry | 2026-08-19 | español rehecho contra el TR 2026-08-18; alineación caminada capítulo por capítulo, los 4 `walk-ch*.txt` firmados 2026-08-19 |
 | colosenses | nt | ready | none |  |  |  |  |  |
 | 1tesalonicenses | nt | ready | none |  |  |  |  |  |
 | 2tesalonicenses | nt | ready | none |  |  |  |  |  |
