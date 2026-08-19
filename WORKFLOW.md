@@ -95,12 +95,53 @@ Publicar no es marcar `done`. Publicar es posterior:
 Biblia-LBF → validar → exportar → PR del publicador → cgv-data
 ```
 
+Son dos pasos. Primero exportar:
+
 ```sh
-python3 tools/export.py zacarias
+python3 tools/export.py filipenses
 ```
 
 Eso escribe el paquete en `/tmp/lbf-export/`. No copie esos archivos a un
-árbol local de `cgv-data`. El siguiente paso es un *pull request* del publicador.
+árbol local de `cgv-data`.
+
+`export.py` se niega si el libro no está `done` y firmado, o si el texto, la
+alineación o la fila de `STATUS.md` de ese libro no están *commiteados*. Un
+`sourceCommit` debe nombrar un *commit* que contenga el trabajo, así que la
+negativa llega antes de escribir el paquete, no después de intentar publicarlo.
+
+Después publicar. `tools/publish.py` es el publicador:
+
+```sh
+python3 tools/publish.py filipenses --data-repo ../cgv-data
+```
+
+Eso corta la rama `lbf-<libro>-<fecha>` desde `origin/main` y hace un solo
+*commit* con dos archivos:
+
+| Archivo | Destino en `cgv-data` |
+| --- | --- |
+| `<libro>.lbf.md` | `bibles/LBF/<libro>.lbf.md` |
+| `<libro>.alignment.json` | `bibles/LBF/alignments/<libro>.alignment.json` |
+
+El *commit* se hace en un `git worktree` temporal. Su copia de trabajo de
+`cgv-data` no se toca: no cambia de rama y sus archivos sucios no entran.
+
+Sin `--push` no empuja nada. Le imprime la rama, el *commit* y el enlace para
+abrir el *pull request*. Revise el `--stat` antes de empujar.
+
+`publish.py` se niega si:
+
+- el libro no está `done` y firmado en `STATUS.md`
+- el texto, la alineación o la fila de `STATUS.md` de ese libro no están
+  *commiteados* — `export.py` ya lo comprueba; `publish.py` lo vuelve a comprobar
+- el paquete no coincide con `HEAD` — reexporte
+- la alineación cambió después de exportar — la firma ya no la ata
+- `tools/status.py` falla
+- la rama ya existe
+- el `--data-repo` no tiene *commits*, o su `origin` no es `cgv-data`
+
+Ese último caso importa: un `git init` vacío llamado `cgv-data` acepta
+archivos y no publica nada.
 
 Este repositorio no importa texto desde `cgv-data`.
 

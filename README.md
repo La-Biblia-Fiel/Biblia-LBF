@@ -90,6 +90,15 @@ python3 tools/verify.py
 Eso mueve trabajo completo a `ready`. Nada está `done` hasta que una
 persona lo firme en `STATUS.md` y `python3 tools/status.py` siga pasando.
 
+Publicar es aparte de `done`. Un libro firmado va a `cgv-data` en dos pasos:
+
+```sh
+python3 tools/export.py <libro>
+python3 tools/publish.py <libro> --data-repo ../cgv-data
+```
+
+El detalle está en [`WORKFLOW.md`](WORKFLOW.md). `cgv-data` es solo salida.
+
 ## El sitio
 
 El sitio público se genera con Hugo desde `site/`.

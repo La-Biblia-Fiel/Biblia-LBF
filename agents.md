@@ -27,3 +27,20 @@ Never present auto-zip or gloss as finished alignment.
 Never preserve `done` after changing the bound translation or alignment.
 Never publish directly into a checked-out `cgv-data` working tree.
 Export only through the canonical validated publisher.
+
+The publisher is two scripts and nothing else:
+`python3 tools/export.py <book>` writes the package to `/tmp/lbf-export/`.
+`python3 tools/publish.py <book> --data-repo <path>` commits it to a
+`lbf-<book>-<date>` branch in `cgv-data`. Never `git add` LBF text or
+alignment into `cgv-data` by hand. Never `cp` into `bibles/LBF/`.
+
+`export.py` refuses if the bound source is not committed. The fix is a
+commit by the user, not a flag and not a re-run.
+
+`publish.py` does not push unless given `--push`. Do not pass `--push` for
+the user. Do not open the pull request for the user. Print the branch and
+stop.
+
+Do not defeat an `export.py` or `publish.py` refusal. They refuse because
+the signature, the commit, or the package does not bind the work. Fix the
+cause. Never commit Biblia-LBF on the user's behalf to clear one.

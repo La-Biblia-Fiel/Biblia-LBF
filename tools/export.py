@@ -81,6 +81,62 @@ def git_head() -> str:
     ).strip()
 
 
+def git(repo: Path, *args: str, check: bool = True) -> str:
+    proc = subprocess.run(["git", "-C", str(repo), *args], text=True, capture_output=True)
+    if check and proc.returncode != 0:
+        raise SystemExit(f"git {' '.join(args)} failed: {proc.stderr.strip()}")
+    return proc.stdout.strip()
+
+
+def raw_status_row(text: str, book: str) -> str | None:
+    for line in text.splitlines():
+        if not line.startswith("| "):
+            continue
+        cells = [c.strip() for c in line.strip("|").split("|")]
+        if cells and cells[0] == book:
+            return " | ".join(cells)
+    return None
+
+
+def committed_source_problem(book: str, row: dict[str, str]) -> str | None:
+    """Why this book's `sourceCommit` would not name the work, or None if it would.
+
+    `git_head()` records whatever HEAD happens to be; that says nothing about
+    whether the bound text, alignment, or signature was ever committed. A
+    package stamped against an uncommitted state carries provenance that
+    cannot be resolved from the commit it names, so neither export nor
+    publish may proceed past this.
+
+    Only this book is checked. STATUS.md is one ledger for every book, so an
+    unrelated pending row must not block an unrelated publish.
+
+    Returns a message for the caller to report; callers choose the exit code.
+    """
+    problems: list[str] = []
+    dirty = git(
+        ROOT,
+        "status",
+        "--porcelain",
+        "--",
+        f"translation/{row['testament']}/{book}.md",
+        f"alignment/{row['testament']}/{book}",
+    )
+    if dirty:
+        problems.append(dirty)
+    head_row = raw_status_row(git(ROOT, "show", "HEAD:STATUS.md", check=False), book)
+    live_row = raw_status_row(STATUS_PATH.read_text(encoding="utf-8"), book)
+    if head_row != live_row:
+        problems.append(f"   STATUS.md row for {book} differs from HEAD (signature uncommitted)")
+    if not problems:
+        return None
+    return (
+        "the bound source is not committed:\n"
+        + "\n".join(problems)
+        + "\nA sourceCommit must name a commit that contains this work.\n"
+        f"Commit Biblia-LBF, then export: python3 tools/export.py {book}"
+    )
+
+
 def build_consumer(book: str, row: dict[str, str], verses: list[tuple[int, int, str]], commit: str) -> str:
     label = CONSUMER_LABEL.get(book, book)
     header = [
@@ -147,6 +203,11 @@ def main() -> int:
     a_path = ROOT / "alignment" / row["testament"] / book / f"{book}-reverse-links.json"
     if not t_path.is_file() or not a_path.is_file():
         print("missing translation or alignment file", file=sys.stderr)
+        return 2
+
+    problem = committed_source_problem(book, row)
+    if problem:
+        print(problem, file=sys.stderr)
         return 2
 
     check = subprocess.run([sys.executable, str(ROOT / "tools" / "status.py")], cwd=ROOT)
