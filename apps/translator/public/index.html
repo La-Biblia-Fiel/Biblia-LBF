@@ -45,13 +45,58 @@
             </div>
           </header>
 
+          <section id="book-workflow" class="book-workflow" aria-labelledby="book-workflow-title">
+            <div class="workflow-heading">
+              <div>
+                <p class="eyebrow">One book. One process.</p>
+                <h2 id="book-workflow-title">Finish this book</h2>
+              </div>
+              <p id="workflow-summary" class="workflow-summary" role="status" aria-live="polite">Loading canonical status…</p>
+            </div>
+            <ol class="workflow-steps">
+              <li id="workflow-translate" class="workflow-step">
+                <span class="workflow-number">1</span>
+                <div><strong>Translate</strong><span id="workflow-translation-state">—</span></div>
+              </li>
+              <li id="workflow-verify-translation" class="workflow-step">
+                <span class="workflow-number">2</span>
+                <div><strong>Verify translation</strong><button id="verify-translation" class="workflow-action" type="button">Verify</button></div>
+              </li>
+              <li id="workflow-approve-translation" class="workflow-step">
+                <span class="workflow-number">3</span>
+                <div><strong>Human approval</strong><button id="approve-translation" class="workflow-action" type="button">Approve</button></div>
+              </li>
+              <li id="workflow-align" class="workflow-step">
+                <span class="workflow-number">4</span>
+                <div>
+                  <strong>Align</strong>
+                  <span id="workflow-alignment-state">—</span>
+                  <button id="continue-alignment" class="workflow-action" type="button">Continue alignment</button>
+                </div>
+              </li>
+              <li id="workflow-verify-alignment" class="workflow-step">
+                <span class="workflow-number">5</span>
+                <div><strong>Verify alignment</strong><button id="verify-alignment" class="workflow-action" type="button">Verify</button></div>
+              </li>
+              <li id="workflow-approve-alignment" class="workflow-step">
+                <span class="workflow-number">6</span>
+                <div><strong>Human approval</strong><button id="approve-alignment" class="workflow-action" type="button">Approve</button></div>
+              </li>
+              <li id="workflow-export" class="workflow-step workflow-export-step">
+                <span class="workflow-number">✓</span>
+                <div><strong>Export</strong><button id="export-book" class="workflow-action" type="button">Export book</button></div>
+              </li>
+            </ol>
+            <pre id="workflow-output" class="workflow-output" hidden></pre>
+          </section>
+
           <section class="translation-document">
             <section id="phrase-interlinear" class="phrase-interlinear" aria-label="Phrase interlinear"></section>
             <p id="source-investigation-hint" class="source-investigation-hint">
               Investigations are source-first. Select <strong>Investigate</strong> under any source word; no Spanish-word alignment is required.
             </p>
 
-            <p class="scripture-label">Working Spanish translation</p>
+            <p id="working-translation-label" class="scripture-label">Working Spanish translation</p>
             <p id="suggestion-source-label" class="suggestion-source-label">Fresh LBF translation</p>
             <textarea
               id="translation-editor"
@@ -60,9 +105,28 @@
               aria-label="Working Spanish translation"
               placeholder="Translate this phrase from the source text…"
             ></textarea>
-            <p class="scripture-label reverse-links-label">Reverse interlinear</p>
+            <p class="scripture-label reverse-links-label">Spanish alignment units</p>
             <div id="spanish-units" class="spanish-units" aria-label="Spanish units linked to source tokens"></div>
             <p id="reverse-links-meta" class="reverse-links-meta" hidden></p>
+            <section id="alignment-editor" class="alignment-editor" aria-label="Edit selected alignment" hidden>
+              <div class="alignment-editor-heading">
+                <div>
+                  <p class="eyebrow">Hand alignment</p>
+                  <h2 id="alignment-reference">—</h2>
+                </div>
+                <p id="alignment-progress" class="alignment-progress">—</p>
+              </div>
+              <p id="alignment-spanish-context" class="alignment-spanish-context">—</p>
+              <p class="alignment-guide">
+                Select a Spanish unit above, then select its matching source word or words at the top.
+              </p>
+              <p class="alignment-selection">Selected Spanish: <strong id="alignment-unit-label">—</strong></p>
+              <div class="alignment-editor-actions">
+                <button id="cancel-alignment-edit" class="secondary-action" type="button">Exit alignment</button>
+                <button id="save-alignment-edit" class="secondary-action" type="button">Save this unit</button>
+                <button id="confirm-alignment-phrase" class="primary-action" type="button">Confirm phrase &amp; next</button>
+              </div>
+            </section>
             <p id="phrase-save-status" class="phrase-save-status" data-state="saved">Saved</p>
 
             <div class="translation-support">
@@ -285,6 +349,27 @@
         </section>
       </section>
     </main>
+
+    <div id="workflow-approval-modal" class="modal-backdrop" hidden>
+      <section class="modal-panel workflow-approval-panel" role="dialog" aria-modal="true" aria-labelledby="workflow-approval-title">
+        <div class="modal-header">
+          <p class="eyebrow">Human signature</p>
+          <h2 id="workflow-approval-title">Approve translation</h2>
+          <p id="workflow-approval-copy" class="modal-guidance"></p>
+        </div>
+        <label class="field-label" for="workflow-approver-name">Your name</label>
+        <input id="workflow-approver-name" type="text" autocomplete="name" />
+        <label class="workflow-confirmation">
+          <input id="workflow-human-confirmation" type="checkbox" />
+          <span id="workflow-confirmation-copy">I personally reviewed and approve this work.</span>
+        </label>
+        <p id="workflow-approval-message" class="modal-message" role="status" aria-live="polite"></p>
+        <div class="modal-actions">
+          <button id="cancel-workflow-approval" class="secondary-action" type="button">Cancel</button>
+          <button id="confirm-workflow-approval" class="primary-action" type="button">Record approval</button>
+        </div>
+      </section>
+    </div>
 
     <div id="new-investigation-modal" class="modal-backdrop" hidden>
       <section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="new-investigation-title">

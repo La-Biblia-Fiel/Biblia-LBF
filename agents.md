@@ -17,8 +17,9 @@ apparent completeness, or Git history alone.
 
 Spanish lives in `translation/`. Alignment lives in `alignment/`.
 Finished lives only in `STATUS.md`. States: `none` | `draft` | `ready` | `done`.
-`python3 tools/verify.py` may write `ready`. Never write `done` for the user.
-Never infer `done`.
+`python3 tools/verify.py` may write `ready`. Never infer `done`.
+Translator may record `done` only after the user explicitly activates its
+named-human approval control for a stage already marked `ready`.
 
 Never use MT numbering. Always Protestant.
 Never run machine zip, gloss DP, or whole-book auto-align.
@@ -44,3 +45,5 @@ stop.
 Do not defeat an `export.py` or `publish.py` refusal. They refuse because
 the signature, the commit, or the package does not bind the work. Fix the
 cause. Never commit Biblia-LBF on the user's behalf to clear one.
+
+## Imported Claude Cowork project instructions

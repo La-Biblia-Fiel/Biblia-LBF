@@ -3,5 +3,6 @@ Follow [`AGENTS.md`](../../AGENTS.md) and [`DATA_CONTRACT.md`](../../DATA_CONTRA
 This application edits Biblia-LBF. It does not own translation data.
 Never create an independent corpus under `apps/translator/`.
 Never write directly to `cgv-data`.
-Never write `done` into `STATUS.md`.
+Never infer `done`. Write it only from Translator's explicit named-human
+approval control after the selected stage is canonically `ready`.
 Machine suggestions cannot become finished work.

@@ -210,7 +210,7 @@ def main() -> int:
         print(problem, file=sys.stderr)
         return 2
 
-    check = subprocess.run([sys.executable, str(ROOT / "tools" / "status.py")], cwd=ROOT)
+    check = subprocess.run([sys.executable, str(ROOT / "tools" / "status.py"), book], cwd=ROOT)
     if check.returncode != 0:
         return check.returncode
 

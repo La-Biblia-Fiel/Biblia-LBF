@@ -1,8 +1,10 @@
 import { createServer } from "node:http";
+import { execFile } from "node:child_process";
 import { existsSync, readdirSync } from "node:fs";
 import { appendFile, mkdir, readFile, readdir, stat, writeFile } from "node:fs/promises";
 import { basename, dirname, extname, join, normalize } from "node:path";
 import { fileURLToPath } from "node:url";
+import { promisify } from "node:util";
 import { getCgvDataPath, getGreekConstructionEvidence, getGreekOccurrencesByStrongs, getHebrewOccurrencesByStrongs } from "./src/data/cgvData.js";
 import { loadTranslationIndexes, resolveAlignedSpan, lookupRv1909AquiferVerse } from "./src/data/translationIndexes.js";
 import { describeAiAvailability, loadTranslatorEnv } from "./src/ai/suggestPhrase.js";
@@ -11,13 +13,21 @@ import { assistPhraseGates } from "./src/pipeline/assistGates.js";
 import { createInvestigationFromLemma, languageFromStrongs } from "./src/investigations/createInvestigation.js";
 import { findBook, allTranslatorBooks, lbfHome } from "./src/data/bookCatalog.js";
 import { loadNtBookUnits } from "./src/data/morphLoader.js";
+import {
+  approveStage,
+  invalidateAfterEdit,
+  statusRow,
+  workflowForRow
+} from "./src/workflow/bookWorkflow.js";
 
 const rootDir = fileURLToPath(new URL(".", import.meta.url));
 await loadTranslatorEnv(rootDir);
 const publicDir = join(rootDir, "public");
 const investigationsDir = join(rootDir, "investigations");
 const repoRoot = join(rootDir, "..", "..");
+const statusFile = join(repoRoot, "STATUS.md");
 const port = Number(process.env.PORT || 1424);
+const execFileAsync = promisify(execFile);
 
 function resolveBook(bookId) {
   const book = findBook(bookId);
@@ -321,6 +331,70 @@ function safeEvidenceFile(file) {
 
 function todayIsoDate() {
   return new Date().toLocaleDateString("en-CA", { timeZone: "America/La_Paz" });
+}
+
+async function runCanonicalTool(script, bookSlug) {
+  try {
+    const result = await execFileAsync("python3", [join(repoRoot, "tools", script), bookSlug], {
+      cwd: repoRoot,
+      encoding: "utf8",
+      maxBuffer: 8 * 1024 * 1024
+    });
+    return { ok: true, output: `${result.stdout || ""}${result.stderr || ""}`.trim() };
+  } catch (error) {
+    return {
+      ok: false,
+      code: Number(error?.code) || 1,
+      output: `${error?.stdout || ""}${error?.stderr || ""}`.trim() || error.message
+    };
+  }
+}
+
+function alignmentMethodCounts(doc = {}) {
+  const counts = { phrases: 0, hand: 0, auto: 0, gloss: 0, unwalked: 0, other: 0 };
+  for (const link of doc.links || []) {
+    counts.phrases += 1;
+    const units = Array.isArray(link.units) ? link.units : [];
+    const methods = units.map(unit => String(unit.method || ""));
+    if (!units.length || link.status === "unwalked") counts.unwalked += 1;
+    else if (methods.some(method => ["auto", "auto-zip"].includes(method))) counts.auto += 1;
+    else if (methods.some(method => ["gloss", "gloss-match", "gloss-seed", "verse-span-resynchronization"].includes(method))) counts.gloss += 1;
+    else if (methods.every(method => ["hand", "manual", "manual-realign"].includes(method))) counts.hand += 1;
+    else counts.other += 1;
+  }
+  return counts;
+}
+
+async function readBookWorkflow(bookId) {
+  const paths = translationPathsForBook(bookId);
+  const { slug } = lbfHome(paths.book);
+  const ledger = await readFile(statusFile, "utf8");
+  const row = statusRow(ledger, slug);
+  if (!row) throw new Error(`${slug} is not in STATUS.md`);
+  const translation = await readFile(paths.documentFile, "utf8").catch(() => "");
+  const alignment = await readFile(paths.reverseLinksFile, "utf8")
+    .then(raw => JSON.parse(raw))
+    .catch(() => ({}));
+  return {
+    book: paths.book.id,
+    slug,
+    label: paths.book.label,
+    row,
+    workflow: workflowForRow(row),
+    progress: {
+      verses: (translation.match(/^###\s+\d+:\d+\s*$/gmu) || []).length,
+      alignment: alignmentMethodCounts(alignment)
+    }
+  };
+}
+
+async function invalidateStatusForEdit(bookId, stage) {
+  const book = resolveBook(bookId);
+  const { slug } = lbfHome(book);
+  const ledger = await readFile(statusFile, "utf8");
+  const result = invalidateAfterEdit(ledger, { book: slug, stage });
+  if (result.text !== ledger) await writeFile(statusFile, result.text, "utf8");
+  return result.row;
 }
 
 function parseMorphLine(line) {
@@ -1227,13 +1301,18 @@ async function handleTranslation(request, response, url) {
     const bookId = bookIdFromRequest(url, body);
     const { book, phraseFile, documentFile, textualBasis } = await resolvePhraseFile(bookId);
     const content = typeof body.content === "string" ? body.content : "";
+    const nextContent = content.endsWith("\n") ? content : `${content}\n`;
+    const previousContent = await readFile(documentFile, "utf8").catch(() => "");
     const incoming = normalizeTranslationPhrases(body.phrases);
     const existing = await readExistingTranslationPhrases(phraseFile);
     const merged = mergeTranslationPhraseSaves(incoming, existing);
     const phrases = await enrichTranslationPhraseRecords(merged, bookId);
     await mkdir(dirname(documentFile), { recursive: true });
     await mkdir(dirname(phraseFile), { recursive: true });
-    await writeFile(documentFile, content.endsWith("\n") ? content : `${content}\n`, "utf8");
+    await writeFile(documentFile, nextContent, "utf8");
+    if (nextContent !== previousContent) {
+      await invalidateStatusForEdit(bookId, "translation");
+    }
     await writeTranslationPhrases(phraseFile, phrases, book, textualBasis);
     sendJson(response, 200, {
       saved: true,
@@ -1246,6 +1325,229 @@ async function handleTranslation(request, response, url) {
   }
 
   sendJson(response, 405, { error: "Method not allowed" });
+}
+
+async function handleReverseLinks(request, response, url) {
+  const bookId = bookIdFromRequest(url);
+  const paths = translationPathsForBook(bookId);
+  const fallbackBasis = paths.book.spine === "oshb" ? "OSHB/WLC" : "Scrivener 1894 TR";
+
+  if (request.method === "GET") {
+    try {
+      const raw = await readFile(paths.reverseLinksFile, "utf8");
+      const doc = JSON.parse(raw);
+      sendJson(response, 200, {
+        bookId: paths.book.id,
+        textualBasis: doc.textualBasis || fallbackBasis,
+        schemaVersion: doc.schemaVersion || 1,
+        stats: doc.stats || {},
+        links: Array.isArray(doc.links) ? doc.links : []
+      });
+    } catch {
+      sendJson(response, 200, {
+        bookId: paths.book.id,
+        textualBasis: fallbackBasis,
+        schemaVersion: 1,
+        stats: {},
+        links: []
+      });
+    }
+    return;
+  }
+
+  if (request.method !== "PUT") {
+    sendJson(response, 405, { error: "Method not allowed" });
+    return;
+  }
+
+  const body = await readJsonBody(request);
+  const reference = String(body.reference || "").trim();
+  const unitId = String(body.unitId || "").trim();
+  const phraseIndex = Number(body.phraseIndex);
+  const confirmPhrase = body.confirmPhrase === true;
+  const sourceTokenIds = Array.isArray(body.sourceTokenIds)
+    ? [...new Set(body.sourceTokenIds.map(String).filter(Boolean))]
+    : [];
+  if (!reference || (confirmPhrase && !Number.isInteger(phraseIndex)) || (!confirmPhrase && (!unitId || !sourceTokenIds.length))) {
+    sendJson(response, 400, {
+      error: confirmPhrase
+        ? "reference and phraseIndex are required."
+        : "reference, unitId, and at least one source token are required."
+    });
+    return;
+  }
+
+  const currentWorkflow = await readBookWorkflow(bookId);
+  if (currentWorkflow.row.translation !== "done") {
+    sendJson(response, 409, { error: "Approve the translation before editing alignment." });
+    return;
+  }
+
+  let doc;
+  try {
+    doc = JSON.parse(await readFile(paths.reverseLinksFile, "utf8"));
+  } catch {
+    sendJson(response, 409, { error: "This book has no reverse-link document to edit yet." });
+    return;
+  }
+
+  const link = (doc.links || []).find(item =>
+    (Number.isInteger(phraseIndex) && Number(item.phraseIndex) === phraseIndex)
+    || String(item.reference || "") === reference
+  );
+  const unit = (link?.units || []).find(item => String(item.unitId || "") === unitId);
+  if (!link || (!confirmPhrase && !unit)) {
+    sendJson(response, 404, {
+      error: confirmPhrase
+        ? `Alignment phrase not found: ${reference}`
+        : `Alignment unit not found: ${reference} / ${unitId}`
+    });
+    return;
+  }
+  const unitsToValidate = confirmPhrase ? (link.units || []) : [unit];
+  if (!unitsToValidate.length || (confirmPhrase && unitsToValidate.some(item => !(item.sourceTokenIds || []).length))) {
+    sendJson(response, 409, { error: "Every unit in the phrase must have source tokens before confirmation." });
+    return;
+  }
+
+  const { slug } = lbfHome(paths.book);
+  const alignDir = dirname(paths.reverseLinksFile);
+  const spineCandidates = [
+    join(alignDir, `${slug}-oshb-spine.json`),
+    join(alignDir, `${slug}-tr-spine.json`)
+  ];
+  let spine = null;
+  for (const candidate of spineCandidates) {
+    try {
+      spine = JSON.parse(await readFile(candidate, "utf8"));
+      break;
+    } catch {
+      // Try the other canonical spine kind.
+    }
+  }
+  if (!spine) {
+    sendJson(response, 409, { error: "The canonical source-token spine is missing." });
+    return;
+  }
+  const tokenVerse = new Map();
+  for (const [cv, verse] of Object.entries(spine.verses || {})) {
+    for (const token of verse?.tokens || []) {
+      if (token?.sourceTokenId) tokenVerse.set(String(token.sourceTokenId), cv);
+    }
+  }
+  const cv = String(link.mtReference || link.reference || "").match(/(\d+:\d+)\s*$/u)?.[1] || "";
+  const validatedTokenIds = confirmPhrase
+    ? unitsToValidate.flatMap(item => (item.sourceTokenIds || []).map(String))
+    : sourceTokenIds;
+  const unknown = validatedTokenIds.filter(id => !tokenVerse.has(id));
+  const wrongVerse = validatedTokenIds.filter(id => tokenVerse.has(id) && tokenVerse.get(id) !== cv);
+  if (unknown.length || wrongVerse.length) {
+    sendJson(response, 400, {
+      error: unknown.length
+        ? `Unknown source token IDs: ${unknown.join(", ")}`
+        : `Source token IDs outside ${cv}: ${wrongVerse.join(", ")}`
+    });
+    return;
+  }
+
+  const previous = (unit?.sourceTokenIds || []).map(String);
+  const changed = confirmPhrase
+    ? unitsToValidate.some(item => !["hand", "manual", "manual-realign"].includes(item.method))
+    : JSON.stringify(previous) !== JSON.stringify(sourceTokenIds) || unit.method !== "hand";
+  if (changed) {
+    if (confirmPhrase) {
+      for (const item of unitsToValidate) {
+        item.method = "hand";
+        item.status = "confirmed";
+      }
+    } else {
+      unit.sourceTokenIds = sourceTokenIds;
+      unit.method = "hand";
+      unit.status = "confirmed";
+    }
+    link.status = (link.units || []).every(item => ["hand", "manual", "manual-realign"].includes(item.method))
+      ? "hand"
+      : "in-progress";
+    doc.stats = { ...(doc.stats || {}), ...alignmentMethodCounts(doc) };
+    await writeFile(paths.reverseLinksFile, `${JSON.stringify(doc, null, 2)}\n`, "utf8");
+    await invalidateStatusForEdit(bookId, "alignment");
+  }
+  sendJson(response, 200, { saved: true, confirmedPhrase: confirmPhrase, unit, workflow: await readBookWorkflow(bookId) });
+}
+
+async function handleBookWorkflow(request, response, url) {
+  const bookId = bookIdFromRequest(url);
+  if (request.method === "GET") {
+    sendJson(response, 200, await readBookWorkflow(bookId));
+    return;
+  }
+  if (request.method !== "POST") {
+    sendJson(response, 405, { error: "Method not allowed" });
+    return;
+  }
+
+  const body = await readJsonBody(request);
+  const action = String(body.action || "");
+  const current = await readBookWorkflow(bookId);
+
+  if (action === "verify") {
+    const stage = String(body.stage || "");
+    if (!new Set(["translation", "alignment"]).has(stage)) {
+      sendJson(response, 400, { error: "Verification stage must be translation or alignment." });
+      return;
+    }
+    if (stage === "alignment" && current.row.translation !== "done") {
+      sendJson(response, 409, { error: "Approve the translation before verifying alignment." });
+      return;
+    }
+    const result = await runCanonicalTool("verify.py", current.slug);
+    sendJson(response, result.ok ? 200 : 409, {
+      ok: result.ok,
+      output: result.output,
+      workflow: await readBookWorkflow(bookId)
+    });
+    return;
+  }
+
+  if (action === "approve") {
+    if (body.humanConfirmation !== true) {
+      sendJson(response, 400, { error: "Explicit human confirmation is required." });
+      return;
+    }
+    const original = await readFile(statusFile, "utf8");
+    let approved;
+    try {
+      approved = approveStage(original, {
+        book: current.slug,
+        stage: String(body.stage || ""),
+        approvedBy: body.approvedBy,
+        approvedOn: todayIsoDate()
+      });
+      await writeFile(statusFile, approved.text, "utf8");
+      const check = await runCanonicalTool("status.py", current.slug);
+      if (!check.ok) {
+        await writeFile(statusFile, original, "utf8");
+        sendJson(response, 409, { error: "Approval was not recorded because the canonical status check failed.", output: check.output });
+        return;
+      }
+      sendJson(response, 200, { approved: true, output: check.output, workflow: await readBookWorkflow(bookId) });
+    } catch (error) {
+      sendJson(response, 409, { error: error.message });
+    }
+    return;
+  }
+
+  if (action === "export") {
+    const result = await runCanonicalTool("export.py", current.slug);
+    sendJson(response, result.ok ? 200 : 409, {
+      ok: result.ok,
+      output: result.output,
+      workflow: await readBookWorkflow(bookId)
+    });
+    return;
+  }
+
+  sendJson(response, 400, { error: "Unknown workflow action." });
 }
 
 async function readPhrasePipelineBody(request) {
@@ -1360,6 +1662,11 @@ async function handleApi(request, response, url) {
     return;
   }
 
+  if (url.pathname === "/api/workflow") {
+    await handleBookWorkflow(request, response, url);
+    return;
+  }
+
   if (request.method === "GET" && url.pathname === "/api/translation/books") {
     const books = allTranslatorBooks().map(book => ({
       id: book.id,
@@ -1427,29 +1734,8 @@ async function handleApi(request, response, url) {
     return;
   }
 
-  if (request.method === "GET" && url.pathname === "/api/translation/reverse-links") {
-    const bookId = bookIdFromRequest(url);
-    const { book, reverseLinksFile } = translationPathsForBook(bookId);
-    const fallbackBasis = book.spine === "oshb" ? "OSHB/WLC" : "Scrivener 1894 TR";
-    try {
-      const raw = await readFile(reverseLinksFile, "utf8");
-      const doc = JSON.parse(raw);
-      sendJson(response, 200, {
-        bookId: book.id,
-        textualBasis: doc.textualBasis || fallbackBasis,
-        schemaVersion: doc.schemaVersion || 1,
-        stats: doc.stats || {},
-        links: Array.isArray(doc.links) ? doc.links : []
-      });
-    } catch {
-      sendJson(response, 200, {
-        bookId: book.id,
-        textualBasis: book.spine === "oshb" ? "OSHB/WLC" : "",
-        schemaVersion: 1,
-        stats: {},
-        links: []
-      });
-    }
+  if (url.pathname === "/api/translation/reverse-links") {
+    await handleReverseLinks(request, response, url);
     return;
   }
 

@@ -31,6 +31,10 @@ const state = {
   reverseLinksByPhrase: new Map(),
   reverseLinksMeta: null,
   activeReverseUnitId: null,
+  workflow: null,
+  workflowBusy: false,
+  approvalStage: null,
+  alignmentEditTokenIds: new Set(),
   dirty: false,
   saving: false
 };
@@ -112,6 +116,33 @@ const bookSelect = document.querySelector("#book-select");
 const referenceJumpForm = document.querySelector("#reference-jump-form");
 const referenceJumpInput = document.querySelector("#reference-jump-input");
 const referenceJumpStatus = document.querySelector("#reference-jump-status");
+const workflowSummary = document.querySelector("#workflow-summary");
+const workflowOutput = document.querySelector("#workflow-output");
+const workflowTranslationState = document.querySelector("#workflow-translation-state");
+const workflowAlignmentState = document.querySelector("#workflow-alignment-state");
+const continueAlignmentButton = document.querySelector("#continue-alignment");
+const verifyTranslationButton = document.querySelector("#verify-translation");
+const approveTranslationButton = document.querySelector("#approve-translation");
+const verifyAlignmentButton = document.querySelector("#verify-alignment");
+const approveAlignmentButton = document.querySelector("#approve-alignment");
+const exportBookButton = document.querySelector("#export-book");
+const workflowApprovalModal = document.querySelector("#workflow-approval-modal");
+const workflowApprovalTitle = document.querySelector("#workflow-approval-title");
+const workflowApprovalCopy = document.querySelector("#workflow-approval-copy");
+const workflowApproverName = document.querySelector("#workflow-approver-name");
+const workflowHumanConfirmation = document.querySelector("#workflow-human-confirmation");
+const workflowConfirmationCopy = document.querySelector("#workflow-confirmation-copy");
+const workflowApprovalMessage = document.querySelector("#workflow-approval-message");
+const cancelWorkflowApproval = document.querySelector("#cancel-workflow-approval");
+const confirmWorkflowApproval = document.querySelector("#confirm-workflow-approval");
+const alignmentEditor = document.querySelector("#alignment-editor");
+const alignmentReference = document.querySelector("#alignment-reference");
+const alignmentProgress = document.querySelector("#alignment-progress");
+const alignmentSpanishContext = document.querySelector("#alignment-spanish-context");
+const alignmentUnitLabel = document.querySelector("#alignment-unit-label");
+const cancelAlignmentEdit = document.querySelector("#cancel-alignment-edit");
+const saveAlignmentEdit = document.querySelector("#save-alignment-edit");
+const confirmAlignmentPhrase = document.querySelector("#confirm-alignment-phrase");
 const saveStatus = document.querySelector("#save-status");
 const saveButton = document.querySelector("#save-button");
 const gatherEvidence = document.querySelector("#gather-evidence");
@@ -441,6 +472,7 @@ function makePhraseFromRecord(record) {
   const bleText = String(record.bleText || "");
   const savedText = String(record.spanish || "");
   return {
+    phraseIndex: Number(record.phraseIndex),
     reference: record.reference || "Titus 1:1",
     greek: [{ text: record.greek || record.reference || "" }],
     prefix: "",
@@ -479,6 +511,7 @@ function mergeSavedRecord(base, record, { preserveStructure = false } = {}) {
   if (preserveStructure) {
     return {
       ...structuredClone(base),
+      phraseIndex: Number(record.phraseIndex),
       sourceTokenIds: Array.isArray(record.sourceTokenIds) && record.sourceTokenIds.length
         ? record.sourceTokenIds
         : (base.sourceTokenIds || []),
@@ -495,6 +528,7 @@ function mergeSavedRecord(base, record, { preserveStructure = false } = {}) {
 
   return {
     ...structuredClone(base),
+    phraseIndex: Number(record.phraseIndex),
     reference: record.reference || base.reference || "Titus 1:1",
     sourceTokenIds: Array.isArray(record.sourceTokenIds) && record.sourceTokenIds.length
       ? record.sourceTokenIds
@@ -511,7 +545,10 @@ function mergeSavedRecord(base, record, { preserveStructure = false } = {}) {
 }
 
 function resetTranslationPhrases() {
-  translationPhrases = structuredClone(defaultTranslationPhrases);
+  translationPhrases = structuredClone(defaultTranslationPhrases).map((phrase, phraseIndex) => ({
+    ...phrase,
+    phraseIndex
+  }));
 }
 
 function suggestionSourceForPhrase(phrase) {
@@ -1084,6 +1121,7 @@ async function saveTranslationDocument() {
     state.translationDirty = false;
     setPhraseSaveStatus("Saved", "saved");
     renderVersePreview();
+    await loadBookWorkflow();
   } catch (error) {
     phrase.savedText = previousSavedText;
     phrase.suggestionSource = previousSuggestionSource;
@@ -1109,6 +1147,155 @@ function translationApiPath(path) {
   const url = new URL(path, window.location.origin);
   url.searchParams.set("book", state.bookId || "titus");
   return `${url.pathname}?${url.searchParams.toString()}`;
+}
+
+function setWorkflowStep(id, status) {
+  const element = document.querySelector(`#${id}`);
+  if (element) element.dataset.status = status;
+}
+
+function showWorkflowOutput(text = "") {
+  workflowOutput.textContent = text;
+  workflowOutput.hidden = !text;
+}
+
+function renderBookWorkflow(payload) {
+  if (!payload?.row) return;
+  state.workflow = payload;
+  const row = payload.row;
+  const tr = row.translation;
+  const al = row.alignment;
+  const translationDone = tr === "done";
+  const alignmentDone = al === "done";
+  const alignment = payload.progress?.alignment || {};
+  const alignmentRemaining = (alignment.auto || 0) + (alignment.gloss || 0) + (alignment.unwalked || 0) + (alignment.other || 0);
+  const editableUnitsRemaining = pendingAlignmentWork().length;
+
+  workflowTranslationState.textContent = tr === "done"
+    ? `Approved by ${row.translation_by} on ${row.translation_on}`
+    : `${tr} · ${payload.progress?.verses || 0} verses`;
+  workflowAlignmentState.textContent = al === "done"
+    ? `Approved by ${row.alignment_by} on ${row.alignment_on}`
+    : `${al} · ${alignment.hand || 0} hand phrases, ${alignmentRemaining} phrases / ${editableUnitsRemaining} units remaining`;
+
+  setWorkflowStep("workflow-translate", ["ready", "done"].includes(tr) ? "complete" : "active");
+  setWorkflowStep("workflow-verify-translation", ["ready", "done"].includes(tr) ? "complete" : (tr === "draft" || tr === "none" ? "active" : "locked"));
+  setWorkflowStep("workflow-approve-translation", translationDone ? "complete" : (tr === "ready" ? "active" : "locked"));
+  setWorkflowStep("workflow-align", ["ready", "done"].includes(al) || (translationDone && alignmentRemaining === 0) ? "complete" : (translationDone ? "active" : "locked"));
+  setWorkflowStep("workflow-verify-alignment", ["ready", "done"].includes(al) ? "complete" : (translationDone && alignmentRemaining === 0 ? "active" : "locked"));
+  setWorkflowStep("workflow-approve-alignment", alignmentDone ? "complete" : (translationDone && al === "ready" ? "active" : "locked"));
+  setWorkflowStep("workflow-export", translationDone && alignmentDone ? "active" : "locked");
+
+  verifyTranslationButton.disabled = state.workflowBusy || !["none", "draft"].includes(tr);
+  approveTranslationButton.disabled = state.workflowBusy || tr !== "ready";
+  continueAlignmentButton.disabled = state.workflowBusy || !translationDone || alignmentDone || alignmentRemaining === 0;
+  continueAlignmentButton.textContent = alignmentRemaining
+    ? `Continue alignment (${alignmentRemaining} phrases)`
+    : "Alignment complete";
+  verifyAlignmentButton.disabled = state.workflowBusy || !translationDone || alignmentRemaining !== 0 || !["none", "draft"].includes(al);
+  approveAlignmentButton.disabled = state.workflowBusy || !translationDone || al !== "ready";
+  exportBookButton.disabled = state.workflowBusy || !translationDone || !alignmentDone;
+
+  const messages = {
+    "verify-translation": "Translation work is saved. Run the canonical verifier.",
+    "approve-translation": "Translation passed verification. Human approval is next.",
+    "verify-alignment": "Translation is approved. Finish the hand alignment, then verify it.",
+    "approve-alignment": "Alignment passed verification. Human approval is next.",
+    export: "The book is finished. Export the validated package."
+  };
+  workflowSummary.dataset.state = "ready";
+  workflowSummary.textContent = messages[payload.workflow?.nextAction] || "Continue with the highlighted step.";
+}
+
+async function loadBookWorkflow() {
+  try {
+    const payload = await api(translationApiPath("/api/workflow"));
+    renderBookWorkflow(payload);
+    return payload;
+  } catch (error) {
+    workflowSummary.dataset.state = "error";
+    workflowSummary.textContent = error.message || "Could not load canonical workflow status.";
+    return null;
+  }
+}
+
+async function runWorkflowAction(action, stage = "") {
+  if (state.workflowBusy) return;
+  if (isTranslationDirty()) await flushTranslationSave();
+  state.workflowBusy = true;
+  if (state.workflow) renderBookWorkflow(state.workflow);
+  workflowSummary.textContent = action === "export" ? "Exporting…" : "Running canonical verification…";
+  showWorkflowOutput("");
+  let actionError = null;
+  try {
+    const result = await api(translationApiPath("/api/workflow"), {
+      method: "POST",
+      body: JSON.stringify({ action, stage, book: state.bookId })
+    });
+    showWorkflowOutput(result.output || "Completed.");
+    renderBookWorkflow(result.workflow || await loadBookWorkflow());
+  } catch (error) {
+    actionError = error;
+    showWorkflowOutput(error.output || error.message || "Workflow action failed.");
+    if (error.workflow) renderBookWorkflow(error.workflow);
+    else await loadBookWorkflow();
+    workflowSummary.dataset.state = "error";
+    workflowSummary.textContent = error.message || "Workflow action failed.";
+  } finally {
+    state.workflowBusy = false;
+    if (state.workflow) renderBookWorkflow(state.workflow);
+    if (actionError) {
+      workflowSummary.dataset.state = "error";
+      workflowSummary.textContent = actionError.message || "Workflow action failed.";
+    }
+  }
+}
+
+function openWorkflowApproval(stage) {
+  state.approvalStage = stage;
+  const label = stage === "translation" ? "translation" : "alignment";
+  workflowApprovalTitle.textContent = `Approve ${label}`;
+  workflowApprovalCopy.textContent = `Verification passed. This records your name and today's date in STATUS.md for this book's ${label}.`;
+  workflowConfirmationCopy.textContent = `I personally reviewed the complete ${label} and approve it.`;
+  workflowHumanConfirmation.checked = false;
+  workflowApprovalMessage.textContent = "";
+  workflowApprovalModal.hidden = false;
+  workflowApproverName.focus();
+}
+
+function closeWorkflowApproval() {
+  workflowApprovalModal.hidden = true;
+  state.approvalStage = null;
+  workflowApprovalMessage.textContent = "";
+}
+
+async function submitWorkflowApproval() {
+  const approvedBy = workflowApproverName.value.trim();
+  if (!approvedBy || !workflowHumanConfirmation.checked) {
+    workflowApprovalMessage.textContent = "Enter your name and check the personal approval statement.";
+    return;
+  }
+  confirmWorkflowApproval.disabled = true;
+  try {
+    const result = await api(translationApiPath("/api/workflow"), {
+      method: "POST",
+      body: JSON.stringify({
+        action: "approve",
+        stage: state.approvalStage,
+        approvedBy,
+        humanConfirmation: true,
+        book: state.bookId
+      })
+    });
+    closeWorkflowApproval();
+    showWorkflowOutput(result.output || "Human approval recorded.");
+    renderBookWorkflow(result.workflow);
+  } catch (error) {
+    workflowApprovalMessage.textContent = error.message || "Approval could not be recorded.";
+    if (error.output) showWorkflowOutput(error.output);
+  } finally {
+    confirmWorkflowApproval.disabled = false;
+  }
 }
 
 function normalizeReferencePart(value = "") {
@@ -1185,6 +1372,7 @@ async function switchTranslationBook(bookId) {
   translationUnits = [];
   await loadInvestigations();
   await loadTranslationDocument();
+  await loadBookWorkflow();
   await enrichPhraseReferencesFromUnits();
   await loadContinuationUnits({ force: true });
 }
@@ -1374,6 +1562,153 @@ function renderSpanishUnits() {
   }
 }
 
+function closeAlignmentEditor() {
+  document.body.classList.remove("alignment-editing");
+  alignmentEditor.hidden = true;
+  state.alignmentEditTokenIds = new Set();
+  phraseInterlinear.querySelectorAll(".alignment-token-toggle").forEach(button => {
+    button.setAttribute("aria-pressed", "false");
+    button.textContent = "Link";
+  });
+}
+
+function isHandAlignmentUnit(unit = {}) {
+  return ["hand", "manual", "manual-realign"].includes(String(unit.method || ""));
+}
+
+function pendingAlignmentWork() {
+  return [...state.reverseLinksByPhrase.values()]
+    .flatMap(entry => (entry.units || [])
+      .filter(unit => !isHandAlignmentUnit(unit))
+      .map(unit => ({ entry, unit, phraseIndex: Number(entry.phraseIndex) })))
+    .filter(item => Number.isInteger(item.phraseIndex))
+    .sort((a, b) => a.phraseIndex - b.phraseIndex);
+}
+
+async function openNextAlignmentWork({ fromPhraseIndex = -1 } = {}) {
+  if (state.workflow?.row?.translation !== "done") {
+    workflowSummary.dataset.state = "error";
+    workflowSummary.textContent = "Approve the translation before beginning alignment.";
+    return false;
+  }
+  const pending = pendingAlignmentWork();
+  if (!pending.length) {
+    workflowSummary.dataset.state = "ready";
+    workflowSummary.textContent = "All editable units are hand-aligned. Run Verify alignment.";
+    return false;
+  }
+  const target = pending.find(item => item.phraseIndex >= fromPhraseIndex) || pending[0];
+  const index = translationPhrases.findIndex(phrase => Number(phrase.phraseIndex) === target.phraseIndex);
+  if (index < 0) {
+    workflowSummary.dataset.state = "error";
+    workflowSummary.textContent = `Could not open alignment phrase ${target.phraseIndex}.`;
+    return false;
+  }
+  state.phraseIndex = index;
+  renderTranslationPhrase();
+  state.activeReverseUnitId = String(target.unit.unitId || "");
+  spanishUnits.querySelectorAll(".spanish-unit").forEach(node => {
+    node.classList.toggle("is-active", node.dataset.unitId === state.activeReverseUnitId);
+  });
+  highlightGreekTokenIds(target.unit.sourceTokenIds || []);
+  beginAlignmentEdit(target.unit);
+  phraseInterlinear.scrollIntoView({ behavior: "smooth", block: "start" });
+  const pendingPhrases = new Set(pending.map(item => item.phraseIndex)).size;
+  setPhraseSaveStatus(`Review this phrase · ${pendingPhrases} phrases / ${pending.length} units remaining`, "dirty");
+  return true;
+}
+
+function beginAlignmentEdit(unit) {
+  if (state.workflow?.row?.translation !== "done") {
+    workflowSummary.dataset.state = "error";
+    workflowSummary.textContent = "The translation must be human-approved before alignment editing begins.";
+    return;
+  }
+  state.activeReverseUnitId = String(unit.unitId || "");
+  state.alignmentEditTokenIds = new Set((unit.sourceTokenIds || []).map(String));
+  const pending = pendingAlignmentWork();
+  const pendingPhrases = new Set(pending.map(item => item.phraseIndex)).size;
+  alignmentReference.textContent = currentPhrase()?.reference || "Current phrase";
+  alignmentProgress.textContent = `${pendingPhrases} phrases remaining`;
+  alignmentSpanishContext.textContent = phraseDisplayText(currentPhrase()) || "—";
+  alignmentUnitLabel.textContent = unit.surface || unit.unitId || "selected unit";
+  reverseLinksMeta.hidden = false;
+  reverseLinksMeta.textContent = "Select a Spanish unit to inspect its source link.";
+  alignmentEditor.hidden = false;
+  document.body.classList.add("alignment-editing");
+  phraseInterlinear.querySelectorAll(".alignment-token-toggle").forEach(button => {
+    const selected = state.alignmentEditTokenIds.has(button.dataset.sourceTokenId || "");
+    button.setAttribute("aria-pressed", selected ? "true" : "false");
+    button.textContent = selected ? "Linked" : "Link";
+  });
+}
+
+function toggleAlignmentToken(button) {
+  const tokenId = button.dataset.sourceTokenId || "";
+  if (!tokenId) return;
+  if (state.alignmentEditTokenIds.has(tokenId)) state.alignmentEditTokenIds.delete(tokenId);
+  else state.alignmentEditTokenIds.add(tokenId);
+  const selected = state.alignmentEditTokenIds.has(tokenId);
+  button.setAttribute("aria-pressed", selected ? "true" : "false");
+  button.textContent = selected ? "Linked" : "Link";
+  highlightGreekTokenIds([...state.alignmentEditTokenIds]);
+}
+
+async function saveCurrentAlignmentEdit() {
+  const entry = currentReverseLinkEntry();
+  const unit = (entry?.units || []).find(item => String(item.unitId || "") === state.activeReverseUnitId);
+  if (!entry || !unit) throw new Error("The selected alignment unit is no longer available.");
+  if (!state.alignmentEditTokenIds.size) throw new Error("Select at least one source word.");
+  const completedPhraseIndex = Number(entry.phraseIndex);
+  saveAlignmentEdit.disabled = true;
+  try {
+    await api(translationApiPath("/api/translation/reverse-links"), {
+      method: "PUT",
+      body: JSON.stringify({
+        book: state.bookId,
+        reference: entry.reference || currentPhrase().reference,
+        phraseIndex: Number(entry.phraseIndex),
+        unitId: unit.unitId,
+        sourceTokenIds: [...state.alignmentEditTokenIds]
+      })
+    });
+    closeAlignmentEditor();
+    await loadReverseLinks();
+    renderSpanishUnits();
+    await loadBookWorkflow();
+    setPhraseSaveStatus("Hand alignment saved", "saved");
+    await openNextAlignmentWork({ fromPhraseIndex: completedPhraseIndex });
+  } finally {
+    saveAlignmentEdit.disabled = false;
+  }
+}
+
+async function confirmCurrentAlignmentPhrase() {
+  const entry = currentReverseLinkEntry();
+  if (!entry) throw new Error("The current phrase has no alignment record.");
+  const completedPhraseIndex = Number(entry.phraseIndex);
+  confirmAlignmentPhrase.disabled = true;
+  try {
+    await api(translationApiPath("/api/translation/reverse-links"), {
+      method: "PUT",
+      body: JSON.stringify({
+        book: state.bookId,
+        reference: entry.reference || currentPhrase().reference,
+        phraseIndex: completedPhraseIndex,
+        confirmPhrase: true
+      })
+    });
+    closeAlignmentEditor();
+    await loadReverseLinks();
+    renderSpanishUnits();
+    await loadBookWorkflow();
+    setPhraseSaveStatus("Phrase hand-confirmed", "saved");
+    await openNextAlignmentWork({ fromPhraseIndex: completedPhraseIndex + 1 });
+  } finally {
+    confirmAlignmentPhrase.disabled = false;
+  }
+}
+
 async function loadTranslationDocument() {
   const { content, phrases, book, label } = await api(translationApiPath("/api/translation/current")).catch(() => ({ content: "", phrases: [] }));
   if (book) state.bookId = book;
@@ -1482,7 +1817,14 @@ function renderPhraseInterlinear() {
       `Investigate source word ${token.greek || token.surface || token.lemma || ""}`.trim()
     );
 
-    item.append(greekLine, bleLine, rmacLine, investigate);
+    const alignToggle = document.createElement("button");
+    alignToggle.type = "button";
+    alignToggle.className = "alignment-token-toggle";
+    alignToggle.dataset.sourceTokenId = token.sourceTokenId || "";
+    alignToggle.setAttribute("aria-pressed", state.alignmentEditTokenIds.has(String(token.sourceTokenId)) ? "true" : "false");
+    alignToggle.textContent = state.alignmentEditTokenIds.has(String(token.sourceTokenId)) ? "Linked" : "Link";
+
+    item.append(greekLine, bleLine, rmacLine, investigate, alignToggle);
     phraseInterlinear.append(item);
   });
 }
@@ -1501,6 +1843,7 @@ function renderVersePreview() {
 }
 
 function renderTranslationPhrase({ focus = false, cursorPosition = null } = {}) {
+  closeAlignmentEditor();
   state.activeReverseUnitId = null;
   renderPhraseInterlinear();
   renderSpanishUnits();
@@ -1714,6 +2057,8 @@ async function api(path, options = {}) {
     error.code = body.code;
     error.status = response.status;
     error.fileName = body.fileName;
+    error.output = body.output;
+    error.workflow = body.workflow;
     throw error;
   }
   return response.json();
@@ -2385,6 +2730,11 @@ approveDecision.addEventListener("click", () => {
 });
 
 phraseInterlinear.addEventListener("click", event => {
+  if (event.target instanceof HTMLElement && event.target.classList.contains("alignment-token-toggle")) {
+    event.stopPropagation();
+    toggleAlignmentToken(event.target);
+    return;
+  }
   if (event.target instanceof HTMLElement && event.target.dataset.greekKey) {
     event.stopPropagation();
     showGreekDecisionPanel(event.target.dataset.greekKey, event.target);
@@ -2404,6 +2754,7 @@ spanishUnits?.addEventListener("click", event => {
   }
   if (state.activeReverseUnitId === unitId) {
     state.activeReverseUnitId = null;
+    closeAlignmentEditor();
     clearGreekLinkHighlights();
     spanishUnits.querySelectorAll(".spanish-unit.is-active").forEach(node => node.classList.remove("is-active"));
     return;
@@ -2413,6 +2764,8 @@ spanishUnits?.addEventListener("click", event => {
     node.classList.toggle("is-active", node.dataset.unitId === unitId);
   });
   highlightGreekTokenIds(tokenIds);
+  const unit = (currentReverseLinkEntry()?.units || []).find(item => String(item.unitId || "") === unitId);
+  if (unit) beginAlignmentEdit(unit);
 });
 
 function isHebrewStrongs(strongs = "") {
@@ -2663,6 +3016,50 @@ cancelReplace.addEventListener("click", () => {
   closeGatherModal();
 });
 
+verifyTranslationButton?.addEventListener("click", () => {
+  void runWorkflowAction("verify", "translation");
+});
+
+continueAlignmentButton?.addEventListener("click", () => {
+  void openNextAlignmentWork();
+});
+
+approveTranslationButton?.addEventListener("click", () => {
+  openWorkflowApproval("translation");
+});
+
+verifyAlignmentButton?.addEventListener("click", () => {
+  void runWorkflowAction("verify", "alignment");
+});
+
+approveAlignmentButton?.addEventListener("click", () => {
+  openWorkflowApproval("alignment");
+});
+
+exportBookButton?.addEventListener("click", () => {
+  void runWorkflowAction("export");
+});
+
+cancelWorkflowApproval?.addEventListener("click", closeWorkflowApproval);
+confirmWorkflowApproval?.addEventListener("click", () => {
+  void submitWorkflowApproval();
+});
+workflowApprovalModal?.addEventListener("click", event => {
+  if (event.target === workflowApprovalModal) closeWorkflowApproval();
+});
+
+cancelAlignmentEdit?.addEventListener("click", closeAlignmentEditor);
+saveAlignmentEdit?.addEventListener("click", () => {
+  void saveCurrentAlignmentEdit().catch(error => {
+    setPhraseSaveStatus(error.message || "Alignment save failed", "error");
+  });
+});
+confirmAlignmentPhrase?.addEventListener("click", () => {
+  void confirmCurrentAlignmentPhrase().catch(error => {
+    setPhraseSaveStatus(error.message || "Phrase confirmation failed", "error");
+  });
+});
+
 gatherModal.addEventListener("click", event => {
   if (event.target === gatherModal) {
     closeGatherModal();
@@ -2701,6 +3098,16 @@ function phraseNavDirection(event) {
 }
 
 window.addEventListener("keydown", event => {
+  if (event.key === "Escape" && workflowApprovalModal && !workflowApprovalModal.hidden) {
+    closeWorkflowApproval();
+    return;
+  }
+
+  if (event.key === "Escape" && alignmentEditor && !alignmentEditor.hidden) {
+    closeAlignmentEditor();
+    return;
+  }
+
   if (event.key === "Escape" && newInvestigationModal && !newInvestigationModal.hidden) {
     closeNewInvestigationModal();
     return;
@@ -2736,8 +3143,9 @@ window.addEventListener("beforeunload", event => {
   if (state.view === "translation") {
     syncTranslationDocumentFromEditor();
     navigator.sendBeacon?.(
-      "/api/translation/current",
+      translationApiPath("/api/translation/current"),
       new Blob([JSON.stringify({
+        book: state.bookId,
         content: buildTranslationDocument(),
         phrases: serializePhraseRecords()
       })], { type: "application/json" })
@@ -2775,6 +3183,7 @@ await loadInvestigations();
 renderTabs();
 await loadAvailableBooks();
 await loadTranslationDocument();
+await loadBookWorkflow();
 await Promise.all([
   enrichPhraseReferencesFromUnits(),
   loadContinuationUnits(),
@@ -2805,6 +3214,7 @@ bookSelect?.addEventListener("change", async () => {
   translationUnits = [];
   await loadInvestigations();
   await loadTranslationDocument();
+  await loadBookWorkflow();
   await enrichPhraseReferencesFromUnits();
   await loadContinuationUnits({ force: true });
   state.phraseIndex = firstIncompletePhraseIndex();

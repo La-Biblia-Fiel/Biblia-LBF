@@ -17,8 +17,10 @@ Lea el juramento en `README.md` antes de escribir español.
 | `done` | Usted lo firmó **y** `python3 tools/status.py` sigue pasando |
 
 `ready` lo escribe solo `tools/verify.py`. Usted no verifica la alineación:
-aprueba. `done` nunca se infiere. Ningún script escribe `done`.
-Usted lo escribe, con su nombre y una fecha ISO.
+aprueba. `done` nunca se infiere. Puede firmar en `STATUS.md` o pulsar la
+aprobación humana explícita de Translator, escribir su nombre y confirmar su
+revisión personal. La aplicación registra el mismo nombre y fecha ISO en
+`STATUS.md`; ningún verificador ni modelo puede activar esa aprobación.
 
 Un libro está terminado solo cuando **traducción** y **alineación** están `done`.
 
@@ -86,6 +88,28 @@ Si falla, el libro sigue en `draft` y el script dice por qué.
 
 `status.py` no escribe estados. Si `STATUS.md` dice `ready` o `done` y el
 archivo falta, está corto, o todavía tiene auto/gloss, el script falla.
+
+## Proceso en Translator
+
+Translator presenta una sola secuencia por libro:
+
+```text
+traducir → verificar → aprobación humana → alinear → verificar → aprobación humana → exportar
+```
+
+Solo la acción siguiente queda habilitada. Los botones de verificación llaman
+a `tools/verify.py`; no duplican sus reglas. Las aprobaciones exigen `ready`,
+nombre y confirmación humana, y escriben solamente la fila canónica del libro
+en `STATUS.md`. Editar el español borra las firmas de traducción y alineación;
+editar los enlaces borra la firma de alineación. Exportar llama únicamente a
+`tools/export.py` y conserva todas sus negativas, incluida la exigencia de que
+el trabajo esté commiteado.
+
+En la etapa de alineación, **Continuar alineación** abre la primera frase no
+confirmada. Revise cada unidad contra los tokens de fuente, corrija cualquier
+enlace incorrecto y pulse **Confirmar frase completa**. Esa acción humana marca
+como `hand` solamente las unidades visibles de esa frase y avanza a la
+siguiente; nunca confirma un libro entero ni ejecuta autoalineación.
 
 ## Publicar
 

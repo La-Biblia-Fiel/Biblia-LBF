@@ -37,7 +37,7 @@ token IDs, not character offsets as the source of truth.
 | `none` | `python3 tools/verify.py` | No real file |
 | `draft` | a person, or `verify.py` | Work exists. Not complete |
 | `ready` | `python3 tools/verify.py` only | Checks passed. Awaiting approval |
-| `done` | a named human only | Approved |
+| `done` | a named human, directly or through Translator's explicit approval control | Approved |
 
 `done` requires a name, a date, and a passing `python3 tools/status.py`.
 `verify.py` never writes `done`. `status.py` never writes a state.
@@ -53,6 +53,12 @@ If a `done` file changes, clear that signature yourself. It returns to `draft`.
 `apps/translator/` may exist as an editor. It must read and write the
 canonical homes above. It must not keep `translations/`, canonical
 alignment, or approval records of its own.
+
+Translator may update only the selected book's approval fields in `STATUS.md`
+when a human explicitly presses the stage approval control, enters their name,
+and confirms personal review. The selected stage must already be `ready`, and
+the canonical status check must pass. Translator must never infer approval,
+reuse an investigation approval, or approve in response to AI or verification.
 
 ## Publication
 
@@ -98,6 +104,7 @@ It never publishes by copying into a checked-out `cgv-data` working tree.
 - A second editable copy of the same verse or alignment
 - Automatic import from another repository
 - Silent retention of `done` after the bound text or alignment changes
+- Inferred, automatic, anonymous, or pre-verification approval
 - Machine zip, gloss DP, or auto-zip presented as finished alignment
 - MT verse labels
 - Direct mutation of `cgv-data`

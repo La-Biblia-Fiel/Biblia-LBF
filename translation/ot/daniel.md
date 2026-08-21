@@ -1445,7 +1445,7 @@ Muchos serán limpios, y emblanquecidos, y purificados; mas los impíos obrarán
 
 ### 12:11
 
-Y desde el tiempo que fuere quitado el continuo sacrificio hasta que sea puesta la abominación asoladora, habrá mil doscientos y noventa días.
+Y desde el tiempo que fuere quitado el continuo sacrificio, y fuere puesta la abominación asoladora, habrá mil doscientos y noventa días.
 
 ### 12:12
 

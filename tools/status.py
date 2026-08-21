@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import sys
@@ -232,6 +233,9 @@ def parse_status_table(text: str) -> list[dict[str, str]]:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("book", nargs="?", help="Check one book slug. Default: every book.")
+    args = parser.parse_args()
     if not STATUS_PATH.is_file():
         print("STATUS.md is missing", file=sys.stderr)
         return 2
@@ -239,6 +243,11 @@ def main() -> int:
     if not rows:
         print("STATUS.md has no book rows", file=sys.stderr)
         return 2
+    if args.book:
+        rows = [row for row in rows if row["book"] == args.book]
+        if not rows:
+            print(f"{args.book} is not in STATUS.md", file=sys.stderr)
+            return 2
 
     errors: list[str] = []
     print(
