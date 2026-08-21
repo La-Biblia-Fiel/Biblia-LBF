@@ -1,8 +1,9 @@
 import { createServer } from "node:http";
 import { execFile } from "node:child_process";
 import { existsSync, readdirSync } from "node:fs";
-import { appendFile, mkdir, readFile, readdir, stat, writeFile } from "node:fs/promises";
-import { basename, dirname, extname, join, normalize } from "node:path";
+import { appendFile, mkdir, mkdtemp, readFile, readdir, rm, stat, writeFile } from "node:fs/promises";
+import { tmpdir } from "node:os";
+import { basename, dirname, extname, join, normalize, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { promisify } from "node:util";
 import { getCgvDataPath, getGreekConstructionEvidence, getGreekOccurrencesByStrongs, getHebrewOccurrencesByStrongs } from "./src/data/cgvData.js";
@@ -15,7 +16,9 @@ import { findBook, allTranslatorBooks, lbfHome } from "./src/data/bookCatalog.js
 import { loadNtBookUnits } from "./src/data/morphLoader.js";
 import {
   approveStage,
+  formatStatusRow,
   invalidateAfterEdit,
+  replaceStatusRow,
   statusRow,
   workflowForRow
 } from "./src/workflow/bookWorkflow.js";
@@ -26,6 +29,8 @@ const publicDir = join(rootDir, "public");
 const investigationsDir = join(rootDir, "investigations");
 const repoRoot = join(rootDir, "..", "..");
 const statusFile = join(repoRoot, "STATUS.md");
+const exportPackageDir = "/tmp/lbf-export";
+const defaultDataRepo = resolve(repoRoot, "..", "cgv-data");
 const port = Number(process.env.PORT || 1424);
 const execFileAsync = promisify(execFile);
 
@@ -350,8 +355,228 @@ async function runCanonicalTool(script, bookSlug) {
   }
 }
 
+async function runCanonicalPublisher(bookSlug, dataRepo) {
+  try {
+    const result = await execFileAsync("python3", [
+      join(repoRoot, "tools", "publish.py"),
+      bookSlug,
+      "--data-repo",
+      dataRepo
+    ], {
+      cwd: repoRoot,
+      encoding: "utf8",
+      maxBuffer: 8 * 1024 * 1024
+    });
+    return { ok: true, output: `${result.stdout || ""}${result.stderr || ""}`.trim() };
+  } catch (error) {
+    return {
+      ok: false,
+      code: Number(error?.code) || 1,
+      output: `${error?.stdout || ""}${error?.stderr || ""}`.trim() || error.message
+    };
+  }
+}
+
+async function runGit(args, { allowFailure = false } = {}) {
+  try {
+    const result = await execFileAsync("git", args, {
+      cwd: repoRoot,
+      encoding: "utf8",
+      maxBuffer: 8 * 1024 * 1024
+    });
+    return { ok: true, stdout: String(result.stdout || "").trim(), stderr: String(result.stderr || "").trim() };
+  } catch (error) {
+    const result = {
+      ok: false,
+      code: Number(error?.code) || 1,
+      stdout: String(error?.stdout || "").trim(),
+      stderr: String(error?.stderr || "").trim()
+    };
+    if (allowFailure) return result;
+    throw new Error(result.stderr || result.stdout || error.message);
+  }
+}
+
+function gitPathsForBook(bookId) {
+  const book = resolveBook(bookId);
+  const { slug, testament } = lbfHome(book);
+  return {
+    book,
+    slug,
+    testament,
+    translation: `translation/${testament}/${slug}.md`,
+    alignment: `alignment/${testament}/${slug}`
+  };
+}
+
+function porcelainPath(line = "") {
+  const path = String(line).slice(3).trim();
+  return path.includes(" -> ") ? path.split(" -> ").at(-1) : path;
+}
+
+async function readBookProvenance(bookId) {
+  const paths = gitPathsForBook(bookId);
+  const [workingStatus, headStatusResult, changesResult, stagedResult, headResult] = await Promise.all([
+    readFile(statusFile, "utf8"),
+    runGit(["show", "HEAD:STATUS.md"], { allowFailure: true }),
+    runGit(["status", "--porcelain=v1", "--untracked-files=all", "--", paths.translation, paths.alignment]),
+    runGit(["diff", "--cached", "--name-only"]),
+    runGit(["rev-parse", "--short", "HEAD"])
+  ]);
+  const liveRow = statusRow(workingStatus, paths.slug);
+  const headRow = headStatusResult.ok ? statusRow(headStatusResult.stdout, paths.slug) : null;
+  const statusCommitted = Boolean(liveRow && headRow && formatStatusRow(liveRow) === formatStatusRow(headRow));
+  const changes = changesResult.stdout
+    ? changesResult.stdout.split("\n").filter(Boolean).map(line => ({ status: line.slice(0, 2), path: porcelainPath(line) }))
+    : [];
+  if (!statusCommitted) changes.push({ status: " M", path: "STATUS.md (selected book row)" });
+  const stagedChanges = stagedResult.stdout ? stagedResult.stdout.split("\n").filter(Boolean) : [];
+  return {
+    committed: changes.length === 0,
+    sourceCommit: headResult.stdout,
+    changes,
+    stagedChanges,
+    commitBlocked: stagedChanges.length > 0,
+    defaultMessage: `Finish ${paths.slug} translation and alignment`
+  };
+}
+
+async function readExportState(bookId) {
+  const { slug } = gitPathsForBook(bookId);
+  const textFile = join(exportPackageDir, `${slug}.lbf.md`);
+  const alignmentFile = join(exportPackageDir, `${slug}.alignment.json`);
+  try {
+    const [text, alignmentRaw, head] = await Promise.all([
+      readFile(textFile, "utf8"),
+      readFile(alignmentFile, "utf8"),
+      runGit(["rev-parse", "HEAD"])
+    ]);
+    const alignment = JSON.parse(alignmentRaw);
+    const textCommit = text.match(/^\s*sourceCommit:\s*([0-9a-f]{40})\s*$/mu)?.[1] || "";
+    const alignmentCommit = String(alignment.sourceCommit || "");
+    const ready = Boolean(textCommit && textCommit === alignmentCommit && textCommit === head.stdout);
+    return {
+      ready,
+      sourceCommit: alignmentCommit,
+      publishedAt: String(alignment.publishedAt || ""),
+      packageDir: exportPackageDir,
+      problem: ready ? "" : "The exported package does not match the current source commit. Export this book again."
+    };
+  } catch {
+    return {
+      ready: false,
+      sourceCommit: "",
+      publishedAt: "",
+      packageDir: exportPackageDir,
+      problem: "No current exported package was found for this book."
+    };
+  }
+}
+
+async function readLocalPublicationState(bookSlug, exported) {
+  const available = existsSync(join(defaultDataRepo, ".git"));
+  const stamp = String(exported.publishedAt || "").match(/^(\d{4})-(\d{2})-(\d{2})T/u);
+  const branch = stamp ? `lbf-${bookSlug}-${stamp.slice(1).join("")}` : "";
+  if (!available || !exported.ready || !branch) {
+    return { defaultDataRepo, destinationAvailable: available, localBranchReady: false, branch };
+  }
+  try {
+    const [textResult, alignmentResult] = await Promise.all([
+      execFileAsync("git", [
+        "-C",
+        defaultDataRepo,
+        "show",
+        `${branch}:bibles/LBF/${bookSlug}.lbf.md`
+      ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 }),
+      execFileAsync("git", [
+        "-C",
+        defaultDataRepo,
+        "show",
+        `${branch}:bibles/LBF/alignments/${bookSlug}.alignment.json`
+      ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 })
+    ]);
+    const textCommit = String(textResult.stdout || "").match(/^\s*sourceCommit:\s*([0-9a-f]{40})\s*$/mu)?.[1] || "";
+    const alignmentCommit = String(JSON.parse(String(alignmentResult.stdout || "{}")).sourceCommit || "");
+    return {
+      defaultDataRepo,
+      destinationAvailable: true,
+      localBranchReady: textCommit === exported.sourceCommit && alignmentCommit === exported.sourceCommit,
+      branch
+    };
+  } catch {
+    return { defaultDataRepo, destinationAvailable: true, localBranchReady: false, branch };
+  }
+}
+
+async function stageSelectedStatusRow(bookSlug, liveRow) {
+  const headStatus = await runGit(["show", "HEAD:STATUS.md"]);
+  const replaced = replaceStatusRow(headStatus.stdout, bookSlug, () => ({ ...liveRow })).text;
+  const candidate = replaced.endsWith("\n") ? replaced : `${replaced}\n`;
+  const tempDir = await mkdtemp(join(tmpdir(), "lbf-status-"));
+  const tempFile = join(tempDir, "STATUS.md");
+  try {
+    await writeFile(tempFile, candidate, "utf8");
+    const blob = await runGit(["hash-object", "-w", tempFile]);
+    await runGit(["update-index", "--add", "--cacheinfo", "100644", blob.stdout, "STATUS.md"]);
+  } finally {
+    await rm(tempDir, { recursive: true, force: true });
+  }
+}
+
+async function commitFinishedBook(bookId, { message, humanConfirmation }) {
+  if (humanConfirmation !== true) throw new Error("Explicit human confirmation is required before committing.");
+  const commitMessage = String(message || "").trim();
+  if (!commitMessage || commitMessage.length > 200 || /[\r\n]/u.test(commitMessage)) {
+    throw new Error("Enter a one-line commit message between 1 and 200 characters.");
+  }
+  const current = await readBookWorkflow(bookId);
+  if (current.row.translation !== "done" || current.row.alignment !== "done") {
+    throw new Error("Translation and alignment must both be human-approved before committing.");
+  }
+  const validation = await runCanonicalTool("status.py", current.slug);
+  if (!validation.ok) {
+    const error = new Error("Canonical validation failed. Fix the selected book before committing it.");
+    error.output = validation.output;
+    throw error;
+  }
+  const before = await readBookProvenance(bookId);
+  if (before.committed) return { committed: true, output: `Already committed at ${before.sourceCommit}.`, provenance: before };
+  if (before.stagedChanges.length) {
+    throw new Error(`Commit blocked: the Git index already contains staged work: ${before.stagedChanges.join(", ")}`);
+  }
+
+  const paths = gitPathsForBook(bookId);
+  let created = false;
+  try {
+    await runGit(["add", "--", paths.translation, paths.alignment]);
+    await stageSelectedStatusRow(paths.slug, current.row);
+    const staged = await runGit(["diff", "--cached", "--name-only"]);
+    const stagedPaths = staged.stdout ? staged.stdout.split("\n").filter(Boolean) : [];
+    const unexpected = stagedPaths.filter(path =>
+      path !== "STATUS.md"
+      && path !== paths.translation
+      && !path.startsWith(`${paths.alignment}/`)
+    );
+    if (unexpected.length) {
+      throw new Error(`Refusing to commit unrelated staged files: ${unexpected.join(", ")}`);
+    }
+    if (!stagedPaths.length) throw new Error("No selected-book changes were staged.");
+    const result = await runGit(["commit", "-m", commitMessage]);
+    created = true;
+    const provenance = await readBookProvenance(bookId);
+    if (!provenance.committed) {
+      throw new Error("The commit was created, but selected-book changes still remain uncommitted.");
+    }
+    return { committed: true, output: result.stdout || result.stderr, provenance };
+  } finally {
+    if (!created) {
+      await runGit(["restore", "--staged", "--", "STATUS.md", paths.translation, paths.alignment], { allowFailure: true });
+    }
+  }
+}
+
 function alignmentMethodCounts(doc = {}) {
-  const counts = { phrases: 0, hand: 0, auto: 0, gloss: 0, unwalked: 0, other: 0 };
+  const counts = { phrases: 0, hand: 0, auto: 0, gloss: 0, unwalked: 0, unconfirmed: 0, other: 0 };
   for (const link of doc.links || []) {
     counts.phrases += 1;
     const units = Array.isArray(link.units) ? link.units : [];
@@ -359,6 +584,7 @@ function alignmentMethodCounts(doc = {}) {
     if (!units.length || link.status === "unwalked") counts.unwalked += 1;
     else if (methods.some(method => ["auto", "auto-zip"].includes(method))) counts.auto += 1;
     else if (methods.some(method => ["gloss", "gloss-match", "gloss-seed", "verse-span-resynchronization"].includes(method))) counts.gloss += 1;
+    else if (!["hand", "manual", "manual-realign"].includes(String(link.status || ""))) counts.unconfirmed += 1;
     else if (methods.every(method => ["hand", "manual", "manual-realign"].includes(method))) counts.hand += 1;
     else counts.other += 1;
   }
@@ -375,15 +601,38 @@ async function readBookWorkflow(bookId) {
   const alignment = await readFile(paths.reverseLinksFile, "utf8")
     .then(raw => JSON.parse(raw))
     .catch(() => ({}));
+  const [provenance, exported] = await Promise.all([
+    readBookProvenance(bookId),
+    readExportState(bookId)
+  ]);
+  const workflow = workflowForRow(row);
+  const alignmentProgress = alignmentMethodCounts(alignment);
+  const alignmentRemaining = alignmentProgress.auto
+    + alignmentProgress.gloss
+    + alignmentProgress.unwalked
+    + alignmentProgress.unconfirmed
+    + alignmentProgress.other;
+  if (row.translation === "done" && alignmentRemaining > 0) {
+    workflow.finished = false;
+    workflow.nextAction = "align";
+  }
+  if (row.translation === "done" && row.alignment === "done" && alignmentRemaining === 0) {
+    workflow.nextAction = provenance.committed ? (exported.ready ? "publish" : "export") : "commit";
+  }
+  const publisher = await readLocalPublicationState(slug, exported);
+  if (publisher.localBranchReady) workflow.nextAction = "published";
   return {
     book: paths.book.id,
     slug,
     label: paths.book.label,
     row,
-    workflow: workflowForRow(row),
+    workflow,
+    provenance,
+    export: exported,
+    publisher,
     progress: {
       verses: (translation.match(/^###\s+\d+:\d+\s*$/gmu) || []).length,
-      alignment: alignmentMethodCounts(alignment)
+      alignment: alignmentProgress
     }
   };
 }
@@ -1452,7 +1701,8 @@ async function handleReverseLinks(request, response, url) {
 
   const previous = (unit?.sourceTokenIds || []).map(String);
   const changed = confirmPhrase
-    ? unitsToValidate.some(item => !["hand", "manual", "manual-realign"].includes(item.method))
+    ? link.status !== "hand"
+      || unitsToValidate.some(item => !["hand", "manual", "manual-realign"].includes(item.method))
     : JSON.stringify(previous) !== JSON.stringify(sourceTokenIds) || unit.method !== "hand";
   if (changed) {
     if (confirmPhrase) {
@@ -1465,9 +1715,9 @@ async function handleReverseLinks(request, response, url) {
       unit.method = "hand";
       unit.status = "confirmed";
     }
-    link.status = (link.units || []).every(item => ["hand", "manual", "manual-realign"].includes(item.method))
-      ? "hand"
-      : "in-progress";
+    // Saving one unit is not approval of the rest of a seeded phrase. Only
+    // the explicit whole-phrase confirmation may write link.status = hand.
+    link.status = confirmPhrase ? "hand" : "in-progress";
     doc.stats = { ...(doc.stats || {}), ...alignmentMethodCounts(doc) };
     await writeFile(paths.reverseLinksFile, `${JSON.stringify(doc, null, 2)}\n`, "utf8");
     await invalidateStatusForEdit(bookId, "alignment");
@@ -1537,11 +1787,79 @@ async function handleBookWorkflow(request, response, url) {
     return;
   }
 
+  if (action === "commit") {
+    try {
+      const result = await commitFinishedBook(bookId, {
+        message: body.message,
+        humanConfirmation: body.humanConfirmation
+      });
+      sendJson(response, 200, { ...result, workflow: await readBookWorkflow(bookId) });
+    } catch (error) {
+      sendJson(response, 409, {
+        error: error.message,
+        output: error.output || "",
+        workflow: await readBookWorkflow(bookId)
+      });
+    }
+    return;
+  }
+
   if (action === "export") {
+    const provenance = await readBookProvenance(bookId);
+    if (!provenance.committed) {
+      sendJson(response, 409, {
+        error: "Review and commit this finished book before exporting it.",
+        workflow: await readBookWorkflow(bookId)
+      });
+      return;
+    }
     const result = await runCanonicalTool("export.py", current.slug);
     sendJson(response, result.ok ? 200 : 409, {
       ok: result.ok,
       output: result.output,
+      workflow: await readBookWorkflow(bookId)
+    });
+    return;
+  }
+
+  if (action === "publish") {
+    if (body.humanConfirmation !== true) {
+      sendJson(response, 400, { error: "Explicit human confirmation is required before publishing." });
+      return;
+    }
+    if (current.row.translation !== "done" || current.row.alignment !== "done") {
+      sendJson(response, 409, {
+        error: "Translation and alignment must both be approved before publishing.",
+        workflow: await readBookWorkflow(bookId)
+      });
+      return;
+    }
+    const provenance = await readBookProvenance(bookId);
+    if (!provenance.committed) {
+      sendJson(response, 409, {
+        error: "Review and commit this finished book before publishing it.",
+        workflow: await readBookWorkflow(bookId)
+      });
+      return;
+    }
+    const exported = await readExportState(bookId);
+    if (!exported.ready) {
+      sendJson(response, 409, {
+        error: exported.problem || "Export this book before publishing it.",
+        workflow: await readBookWorkflow(bookId)
+      });
+      return;
+    }
+    const requestedDataRepo = String(body.dataRepo || defaultDataRepo).trim();
+    const dataRepo = resolve(repoRoot, requestedDataRepo);
+    const result = await runCanonicalPublisher(current.slug, dataRepo);
+    const branch = result.output.match(/^branch\s+(\S+)$/mu)?.[1] || "";
+    const commit = result.output.match(/^commit\s+([0-9a-f]{40})$/mu)?.[1] || "";
+    sendJson(response, result.ok ? 200 : 409, {
+      ok: result.ok,
+      error: result.ok ? undefined : "The canonical publisher refused to create the branch. Review its output below.",
+      output: result.output,
+      publication: result.ok ? { branch, commit, dataRepo } : null,
       workflow: await readBookWorkflow(bookId)
     });
     return;

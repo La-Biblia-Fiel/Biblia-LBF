@@ -58,6 +58,43 @@ select {
   margin: 0 auto;
 }
 
+.finalization-view {
+  height: 100%;
+  overflow: auto;
+  padding: clamp(0.8rem, 2vw, 1.5rem);
+}
+
+.finalization-page {
+  width: min(1040px, 100%);
+  margin: 0 auto;
+}
+
+.finalization-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.9rem;
+}
+
+.finalization-header h1 {
+  margin: 0;
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 500;
+  line-height: 1.05;
+}
+
+.finalization-header p:last-child {
+  max-width: 44rem;
+  margin: 0.55rem 0 0;
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+
 .translation-header {
   display: flex;
   align-items: end;
@@ -94,7 +131,7 @@ select {
 }
 
 .book-workflow {
-  margin-bottom: 0.9rem;
+  margin-bottom: 0;
   border: 2px solid var(--border);
   border-radius: 8px;
   padding: 0.9rem;
@@ -127,40 +164,44 @@ select {
 
 .workflow-steps {
   display: grid;
-  grid-template-columns: repeat(7, minmax(7rem, 1fr));
-  gap: 0.45rem;
+  grid-template-columns: 1fr;
+  gap: 0.6rem;
   margin: 0;
   padding: 0;
   list-style: none;
-  overflow-x: auto;
+  overflow: visible;
 }
 
 .workflow-step {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
-  gap: 0.4rem;
-  min-height: 4.6rem;
+  align-items: center;
+  gap: 0.75rem;
+  min-height: 4.25rem;
   border: 1px solid var(--border);
   border-radius: 6px;
-  padding: 0.55rem;
+  padding: 0.7rem 0.85rem;
   background: var(--panel-soft);
   opacity: 0.58;
 }
 
 .workflow-step > div {
-  display: grid;
-  align-content: start;
-  gap: 0.32rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
 }
 
 .workflow-step strong {
-  font-size: 0.9rem;
+  min-width: 12rem;
+  font-size: 1.08rem;
   line-height: 1.15;
 }
 
 .workflow-step span:not(.workflow-number) {
+  flex: 1 1 15rem;
   color: var(--muted);
-  font-size: 0.84rem;
+  font-size: 0.98rem;
 }
 
 .workflow-step[data-status="active"] {
@@ -183,11 +224,11 @@ select {
 .workflow-number {
   display: grid;
   place-items: center;
-  width: 1.55rem;
-  height: 1.55rem;
+  width: 2rem;
+  height: 2rem;
   border-radius: 50%;
   background: var(--border);
-  font-size: 0.78rem;
+  font-size: 0.95rem;
   font-weight: 750;
 }
 
@@ -195,11 +236,12 @@ select {
   width: fit-content;
   border: 1px solid var(--accent);
   border-radius: 5px;
-  padding: 0.3rem 0.5rem;
+  margin-left: auto;
+  padding: 0.48rem 0.72rem;
   background: var(--paper);
   color: var(--accent);
   cursor: pointer;
-  font-size: 0.82rem;
+  font-size: 0.95rem;
   font-weight: 700;
 }
 
@@ -619,7 +661,9 @@ body.alignment-editing .phrase-save-status {
   font-size: 0.88rem;
 }
 
-.workflow-approval-panel input[type="text"] {
+.workflow-approval-panel input[type="text"],
+.workflow-commit-panel input[type="text"],
+.workflow-publish-panel input[type="text"] {
   width: 100%;
   border: 1px solid var(--border);
   border-radius: 6px;
@@ -627,6 +671,43 @@ body.alignment-editing .phrase-save-status {
   background: var(--panel);
   color: inherit;
   font: inherit;
+}
+
+.workflow-publish-panel {
+  width: min(720px, 100%);
+  font-size: 1.06rem;
+}
+
+.workflow-publish-panel .modal-actions {
+  margin-top: 1rem;
+  border-top: 1px solid var(--border);
+  padding-top: 0.8rem;
+}
+
+.workflow-commit-panel {
+  display: grid;
+  grid-template-rows: auto minmax(5rem, 1fr) auto auto auto auto auto;
+  width: min(960px, 100%);
+  height: min(900px, calc(100vh - 2rem));
+  max-height: calc(100dvh - 2rem);
+  height: min(900px, calc(100dvh - 2rem));
+  overflow: hidden;
+}
+
+.workflow-commit-files {
+  min-height: 5rem;
+  max-height: none;
+  overflow: auto;
+  margin: 0 0 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.75rem;
+  background: #282722;
+  color: #f8f4e8;
+  white-space: pre;
+  overflow-wrap: normal;
+  font-size: 0.95rem;
+  line-height: 1.45;
 }
 
 .workflow-confirmation {
@@ -1523,17 +1604,27 @@ h2 {
   z-index: 20;
   display: grid;
   place-items: center;
+  overflow: auto;
   padding: 1rem;
   background: rgba(36, 34, 31, 0.24);
 }
 
 .modal-panel {
   width: min(420px, 100%);
+  max-height: calc(100vh - 2rem);
+  max-height: calc(100dvh - 2rem);
   border: 1px solid var(--border);
   border-radius: 8px;
   padding: 1rem;
   background: var(--paper);
   box-shadow: 0 24px 80px rgba(61, 47, 28, 0.18);
+}
+
+.workflow-commit-panel .modal-actions {
+  margin-top: 0.75rem;
+  border-top: 1px solid var(--border);
+  padding-top: 0.75rem;
+  background: var(--paper);
 }
 
 .modal-header {
@@ -1601,6 +1692,27 @@ h2 {
 @media (max-width: 760px) {
   .translation-header {
     display: block;
+  }
+
+  .finalization-header {
+    display: grid;
+    align-items: start;
+  }
+
+  .finalization-header .secondary-action {
+    width: 100%;
+  }
+
+  .workflow-step > div {
+    display: grid;
+  }
+
+  .workflow-step strong {
+    min-width: 0;
+  }
+
+  .workflow-action {
+    margin-left: 0;
   }
 
   .translation-meta {

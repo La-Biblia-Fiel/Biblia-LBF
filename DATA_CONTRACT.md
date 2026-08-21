@@ -45,6 +45,11 @@ token IDs, not character offsets as the source of truth.
 A book is finished only when translation and alignment are both `done`.
 Machine-produced Spanish or alignment stays `draft`.
 
+For alignment, unit-level `method: hand` is not enough. Every link must also
+carry a human-confirmed link status (`hand`, `manual`, or `manual-realign`).
+Statuses such as `seeded-hand`, `seeded-auto`, or `seeded-ai` are unfinished
+and block `ready`, approval, commit, and export.
+
 If a `ready` file fails the checks, `verify.py` returns it to `draft`.
 If a `done` file changes, clear that signature yourself. It returns to `draft`.
 
@@ -60,10 +65,17 @@ and confirms personal review. The selected stage must already be `ready`, and
 the canonical status check must pass. Translator must never infer approval,
 reuse an investigation approval, or approve in response to AI or verification.
 
+After both approvals, Translator may create one selected-book source commit
+only when the human opens **Review & Commit**, reviews the exact file list and
+explicitly confirms the commit. The app must run the canonical status check,
+refuse an already-populated Git index, and stage only the selected translation,
+the selected alignment directory, and that book's row from `STATUS.md`. It must
+not commit automatically or include another book's pending ledger changes.
+
 ## Publication
 
 ```text
-Biblia-LBF → validate → export → publisher PR → cgv-data
+Biblia-LBF → validate → review and commit → export → publisher PR → cgv-data
 ```
 
 Two tools, in order. `tools/export.py` writes the package. `tools/publish.py`
@@ -81,6 +93,11 @@ commit contains nothing else.
 `publish.py` commits in a temporary `git worktree` cut from `origin/{base}`.
 It does not switch the caller's branch and cannot carry unrelated working-tree
 changes into the commit. It does not push unless asked.
+
+Translator may invoke these same two tools as its final human-triggered steps.
+It must require explicit confirmation before invoking `publish.py`, must never
+pass `--push`, and must stop after displaying the local publisher branch,
+commit, and pull-request link emitted by the canonical publisher.
 
 A published `sourceCommit` must name a commit that contains the work it
 claims. The book's translation, its alignment, and its `STATUS.md` row must

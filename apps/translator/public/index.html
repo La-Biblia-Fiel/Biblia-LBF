@@ -42,53 +42,9 @@
                 <p id="reference-jump-status" class="reference-jump-status" role="status" aria-live="polite"></p>
               </form>
               <button id="open-investigations-menu" class="secondary-action" type="button">Investigations</button>
+              <button id="open-finalization" class="primary-action" type="button">Finish book</button>
             </div>
           </header>
-
-          <section id="book-workflow" class="book-workflow" aria-labelledby="book-workflow-title">
-            <div class="workflow-heading">
-              <div>
-                <p class="eyebrow">One book. One process.</p>
-                <h2 id="book-workflow-title">Finish this book</h2>
-              </div>
-              <p id="workflow-summary" class="workflow-summary" role="status" aria-live="polite">Loading canonical status…</p>
-            </div>
-            <ol class="workflow-steps">
-              <li id="workflow-translate" class="workflow-step">
-                <span class="workflow-number">1</span>
-                <div><strong>Translate</strong><span id="workflow-translation-state">—</span></div>
-              </li>
-              <li id="workflow-verify-translation" class="workflow-step">
-                <span class="workflow-number">2</span>
-                <div><strong>Verify translation</strong><button id="verify-translation" class="workflow-action" type="button">Verify</button></div>
-              </li>
-              <li id="workflow-approve-translation" class="workflow-step">
-                <span class="workflow-number">3</span>
-                <div><strong>Human approval</strong><button id="approve-translation" class="workflow-action" type="button">Approve</button></div>
-              </li>
-              <li id="workflow-align" class="workflow-step">
-                <span class="workflow-number">4</span>
-                <div>
-                  <strong>Align</strong>
-                  <span id="workflow-alignment-state">—</span>
-                  <button id="continue-alignment" class="workflow-action" type="button">Continue alignment</button>
-                </div>
-              </li>
-              <li id="workflow-verify-alignment" class="workflow-step">
-                <span class="workflow-number">5</span>
-                <div><strong>Verify alignment</strong><button id="verify-alignment" class="workflow-action" type="button">Verify</button></div>
-              </li>
-              <li id="workflow-approve-alignment" class="workflow-step">
-                <span class="workflow-number">6</span>
-                <div><strong>Human approval</strong><button id="approve-alignment" class="workflow-action" type="button">Approve</button></div>
-              </li>
-              <li id="workflow-export" class="workflow-step workflow-export-step">
-                <span class="workflow-number">✓</span>
-                <div><strong>Export</strong><button id="export-book" class="workflow-action" type="button">Export book</button></div>
-              </li>
-            </ol>
-            <pre id="workflow-output" class="workflow-output" hidden></pre>
-          </section>
 
           <section class="translation-document">
             <section id="phrase-interlinear" class="phrase-interlinear" aria-label="Phrase interlinear"></section>
@@ -208,6 +164,84 @@
               </dl>
               <button id="open-investigation" class="primary-action" type="button">Open Investigation</button>
             </aside>
+          </section>
+        </article>
+      </section>
+
+      <section id="finalization-view" class="finalization-view" aria-label="Finish book" hidden>
+        <article class="finalization-page">
+          <header class="finalization-header">
+            <div>
+              <p class="eyebrow">Final book step</p>
+              <h1>Finish <span id="finalization-book-title">this book</span></h1>
+              <p>Leave phrase work behind. Verify, approve, commit, export, and prepare publication here.</p>
+            </div>
+            <button id="close-finalization" class="secondary-action" type="button">Return to phrase work</button>
+          </header>
+
+          <section id="book-workflow" class="book-workflow" aria-labelledby="book-workflow-title">
+            <div class="workflow-heading">
+              <div>
+                <p class="eyebrow">One book. One process.</p>
+                <h2 id="book-workflow-title">Final review</h2>
+              </div>
+              <p id="workflow-summary" class="workflow-summary" role="status" aria-live="polite">Loading canonical status…</p>
+            </div>
+            <ol class="workflow-steps">
+              <li id="workflow-translate" class="workflow-step">
+                <span class="workflow-number">1</span>
+                <div><strong>Translate</strong><span id="workflow-translation-state">—</span></div>
+              </li>
+              <li id="workflow-verify-translation" class="workflow-step">
+                <span class="workflow-number">2</span>
+                <div><strong>Verify translation</strong><button id="verify-translation" class="workflow-action" type="button">Verify</button></div>
+              </li>
+              <li id="workflow-approve-translation" class="workflow-step">
+                <span class="workflow-number">3</span>
+                <div><strong>Human approval</strong><button id="approve-translation" class="workflow-action" type="button">Approve</button></div>
+              </li>
+              <li id="workflow-align" class="workflow-step">
+                <span class="workflow-number">4</span>
+                <div>
+                  <strong>Align</strong>
+                  <span id="workflow-alignment-state">—</span>
+                  <button id="continue-alignment" class="workflow-action" type="button">Continue alignment</button>
+                </div>
+              </li>
+              <li id="workflow-verify-alignment" class="workflow-step">
+                <span class="workflow-number">5</span>
+                <div><strong>Verify alignment</strong><button id="verify-alignment" class="workflow-action" type="button">Verify</button></div>
+              </li>
+              <li id="workflow-approve-alignment" class="workflow-step">
+                <span class="workflow-number">6</span>
+                <div><strong>Human approval</strong><button id="approve-alignment" class="workflow-action" type="button">Approve</button></div>
+              </li>
+              <li id="workflow-commit" class="workflow-step">
+                <span class="workflow-number">7</span>
+                <div>
+                  <strong>Review &amp; commit</strong>
+                  <span id="workflow-commit-state">—</span>
+                  <button id="review-commit" class="workflow-action" type="button">Review changes</button>
+                </div>
+              </li>
+              <li id="workflow-export" class="workflow-step workflow-export-step">
+                <span class="workflow-number">8</span>
+                <div>
+                  <strong>Export</strong>
+                  <span id="workflow-export-state">—</span>
+                  <button id="export-book" class="workflow-action" type="button">Export book</button>
+                </div>
+              </li>
+              <li id="workflow-publish" class="workflow-step workflow-publish-step">
+                <span class="workflow-number">9</span>
+                <div>
+                  <strong>Publish</strong>
+                  <span id="workflow-publish-state">—</span>
+                  <button id="publish-book" class="workflow-action" type="button">Create publisher branch</button>
+                </div>
+              </li>
+            </ol>
+            <pre id="workflow-output" class="workflow-output" hidden></pre>
           </section>
         </article>
       </section>
@@ -367,6 +401,49 @@
         <div class="modal-actions">
           <button id="cancel-workflow-approval" class="secondary-action" type="button">Cancel</button>
           <button id="confirm-workflow-approval" class="primary-action" type="button">Record approval</button>
+        </div>
+      </section>
+    </div>
+
+    <div id="workflow-commit-modal" class="modal-backdrop" hidden>
+      <section class="modal-panel workflow-commit-panel" role="dialog" aria-modal="true" aria-labelledby="workflow-commit-title">
+        <div class="modal-header">
+          <p class="eyebrow">Final source record</p>
+          <h2 id="workflow-commit-title">Review &amp; commit this book</h2>
+          <p class="modal-guidance">These are the selected book files that will be committed. Other books and unrelated files are excluded.</p>
+        </div>
+        <pre id="workflow-commit-files" class="workflow-commit-files"></pre>
+        <label class="field-label" for="workflow-commit-message">Commit message</label>
+        <input id="workflow-commit-message" type="text" maxlength="200" autocomplete="off" />
+        <label class="workflow-confirmation">
+          <input id="workflow-commit-confirmation" type="checkbox" />
+          <span>I reviewed this exact file list and want Translator to create the selected-book commit now.</span>
+        </label>
+        <p id="workflow-commit-message-text" class="modal-message" role="status" aria-live="polite"></p>
+        <div class="modal-actions">
+          <button id="cancel-workflow-commit" class="secondary-action" type="button">Cancel</button>
+          <button id="confirm-workflow-commit" class="primary-action" type="button">Create commit</button>
+        </div>
+      </section>
+    </div>
+
+    <div id="workflow-publish-modal" class="modal-backdrop" hidden>
+      <section class="modal-panel workflow-publish-panel" role="dialog" aria-modal="true" aria-labelledby="workflow-publish-title">
+        <div class="modal-header">
+          <p class="eyebrow">Final publication handoff</p>
+          <h2 id="workflow-publish-title">Publish this book</h2>
+          <p class="modal-guidance">Translator will validate the exported package and create a local publisher branch with only this book’s text and alignment. It will not push the branch or open a pull request.</p>
+        </div>
+        <label class="field-label" for="workflow-publish-destination">cgv-data checkout</label>
+        <input id="workflow-publish-destination" type="text" autocomplete="off" spellcheck="false" />
+        <label class="workflow-confirmation">
+          <input id="workflow-publish-confirmation" type="checkbox" />
+          <span>I want Translator to create the local publisher branch and commit now.</span>
+        </label>
+        <p id="workflow-publish-message" class="modal-message" role="status" aria-live="polite"></p>
+        <div class="modal-actions">
+          <button id="cancel-workflow-publish" class="secondary-action" type="button">Cancel</button>
+          <button id="confirm-workflow-publish" class="primary-action" type="button">Create publisher branch</button>
         </div>
       </section>
     </div>

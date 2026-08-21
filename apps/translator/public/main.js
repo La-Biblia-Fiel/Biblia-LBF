@@ -1,3 +1,8 @@
+import {
+  mapReverseLinksByTranslationPhrase,
+  pendingAlignmentWorkItems
+} from "./alignmentWorkflow.js";
+
 const tabs = [
   { id: "README", file: "README.md" },
   { id: "Observations", file: "observations.md" },
@@ -34,6 +39,9 @@ const state = {
   workflow: null,
   workflowBusy: false,
   approvalStage: null,
+  commitBusy: false,
+  publishBusy: false,
+  publicationResult: null,
   alignmentEditTokenIds: new Set(),
   dirty: false,
   saving: false
@@ -45,6 +53,7 @@ const state = {
 const sourceInvestigationByOshbId = new Map();
 
 const translationView = document.querySelector("#translation-view");
+const finalizationView = document.querySelector("#finalization-view");
 const investigationView = document.querySelector("#investigation-view");
 const sidebar = document.querySelector(".sidebar");
 const phraseInterlinear = document.querySelector("#phrase-interlinear");
@@ -104,6 +113,9 @@ const analyzeGatesButton = document.querySelector("#analyze-gates");
 const assistGatesButton = document.querySelector("#assist-gates");
 const openGateInvestigationButton = document.querySelector("#open-gate-investigation");
 const openInvestigationsMenuButton = document.querySelector("#open-investigations-menu");
+const openFinalizationButton = document.querySelector("#open-finalization");
+const closeFinalizationButton = document.querySelector("#close-finalization");
+const finalizationBookTitle = document.querySelector("#finalization-book-title");
 const constrainedDraftText = document.querySelector("#constrained-draft-text");
 const draftTemplate = document.querySelector("#draft-template");
 const draftMeta = document.querySelector("#draft-meta");
@@ -120,12 +132,17 @@ const workflowSummary = document.querySelector("#workflow-summary");
 const workflowOutput = document.querySelector("#workflow-output");
 const workflowTranslationState = document.querySelector("#workflow-translation-state");
 const workflowAlignmentState = document.querySelector("#workflow-alignment-state");
+const workflowCommitState = document.querySelector("#workflow-commit-state");
+const workflowExportState = document.querySelector("#workflow-export-state");
+const workflowPublishState = document.querySelector("#workflow-publish-state");
 const continueAlignmentButton = document.querySelector("#continue-alignment");
 const verifyTranslationButton = document.querySelector("#verify-translation");
 const approveTranslationButton = document.querySelector("#approve-translation");
 const verifyAlignmentButton = document.querySelector("#verify-alignment");
 const approveAlignmentButton = document.querySelector("#approve-alignment");
+const reviewCommitButton = document.querySelector("#review-commit");
 const exportBookButton = document.querySelector("#export-book");
+const publishBookButton = document.querySelector("#publish-book");
 const workflowApprovalModal = document.querySelector("#workflow-approval-modal");
 const workflowApprovalTitle = document.querySelector("#workflow-approval-title");
 const workflowApprovalCopy = document.querySelector("#workflow-approval-copy");
@@ -135,6 +152,19 @@ const workflowConfirmationCopy = document.querySelector("#workflow-confirmation-
 const workflowApprovalMessage = document.querySelector("#workflow-approval-message");
 const cancelWorkflowApproval = document.querySelector("#cancel-workflow-approval");
 const confirmWorkflowApproval = document.querySelector("#confirm-workflow-approval");
+const workflowCommitModal = document.querySelector("#workflow-commit-modal");
+const workflowCommitFiles = document.querySelector("#workflow-commit-files");
+const workflowCommitMessage = document.querySelector("#workflow-commit-message");
+const workflowCommitConfirmation = document.querySelector("#workflow-commit-confirmation");
+const workflowCommitMessageText = document.querySelector("#workflow-commit-message-text");
+const cancelWorkflowCommit = document.querySelector("#cancel-workflow-commit");
+const confirmWorkflowCommit = document.querySelector("#confirm-workflow-commit");
+const workflowPublishModal = document.querySelector("#workflow-publish-modal");
+const workflowPublishDestination = document.querySelector("#workflow-publish-destination");
+const workflowPublishConfirmation = document.querySelector("#workflow-publish-confirmation");
+const workflowPublishMessage = document.querySelector("#workflow-publish-message");
+const cancelWorkflowPublish = document.querySelector("#cancel-workflow-publish");
+const confirmWorkflowPublish = document.querySelector("#confirm-workflow-publish");
 const alignmentEditor = document.querySelector("#alignment-editor");
 const alignmentReference = document.querySelector("#alignment-reference");
 const alignmentProgress = document.querySelector("#alignment-progress");
@@ -1166,25 +1196,52 @@ function renderBookWorkflow(payload) {
   const tr = row.translation;
   const al = row.alignment;
   const translationDone = tr === "done";
-  const alignmentDone = al === "done";
+  const provenance = payload.provenance || {};
+  const committed = provenance.committed === true;
+  const exported = payload.export?.ready === true;
+  const publishedThisSession = state.publicationResult?.book === state.bookId
+    && state.publicationResult?.sourceCommit === payload.export?.sourceCommit;
+  const published = publishedThisSession || payload.publisher?.localBranchReady === true;
   const alignment = payload.progress?.alignment || {};
-  const alignmentRemaining = (alignment.auto || 0) + (alignment.gloss || 0) + (alignment.unwalked || 0) + (alignment.other || 0);
+  const alignmentRemaining = (alignment.auto || 0)
+    + (alignment.gloss || 0)
+    + (alignment.unwalked || 0)
+    + (alignment.unconfirmed || 0)
+    + (alignment.other || 0);
+  const alignmentDone = al === "done" && alignmentRemaining === 0;
+  const finished = translationDone && alignmentDone;
   const editableUnitsRemaining = pendingAlignmentWork().length;
 
   workflowTranslationState.textContent = tr === "done"
     ? `Approved by ${row.translation_by} on ${row.translation_on}`
     : `${tr} · ${payload.progress?.verses || 0} verses`;
-  workflowAlignmentState.textContent = al === "done"
+  workflowAlignmentState.textContent = alignmentDone
     ? `Approved by ${row.alignment_by} on ${row.alignment_on}`
-    : `${al} · ${alignment.hand || 0} hand phrases, ${alignmentRemaining} phrases / ${editableUnitsRemaining} units remaining`;
+    : `${alignmentRemaining ? "not ready" : al} · ${alignment.hand || 0} hand phrases, ${alignmentRemaining} phrases / ${editableUnitsRemaining} units remaining`;
 
   setWorkflowStep("workflow-translate", ["ready", "done"].includes(tr) ? "complete" : "active");
   setWorkflowStep("workflow-verify-translation", ["ready", "done"].includes(tr) ? "complete" : (tr === "draft" || tr === "none" ? "active" : "locked"));
   setWorkflowStep("workflow-approve-translation", translationDone ? "complete" : (tr === "ready" ? "active" : "locked"));
-  setWorkflowStep("workflow-align", ["ready", "done"].includes(al) || (translationDone && alignmentRemaining === 0) ? "complete" : (translationDone ? "active" : "locked"));
-  setWorkflowStep("workflow-verify-alignment", ["ready", "done"].includes(al) ? "complete" : (translationDone && alignmentRemaining === 0 ? "active" : "locked"));
-  setWorkflowStep("workflow-approve-alignment", alignmentDone ? "complete" : (translationDone && al === "ready" ? "active" : "locked"));
-  setWorkflowStep("workflow-export", translationDone && alignmentDone ? "active" : "locked");
+  setWorkflowStep("workflow-align", alignmentDone || (translationDone && alignmentRemaining === 0) ? "complete" : (translationDone ? "active" : "locked"));
+  setWorkflowStep("workflow-verify-alignment", alignmentDone || (al === "ready" && alignmentRemaining === 0) ? "complete" : (translationDone && alignmentRemaining === 0 ? "active" : "locked"));
+  setWorkflowStep("workflow-approve-alignment", alignmentDone ? "complete" : (translationDone && al === "ready" && alignmentRemaining === 0 ? "active" : "locked"));
+  setWorkflowStep("workflow-commit", finished && committed ? "complete" : (finished ? "active" : "locked"));
+  setWorkflowStep("workflow-export", exported ? "complete" : (finished && committed ? "active" : "locked"));
+  setWorkflowStep("workflow-publish", published ? "complete" : (exported ? "active" : "locked"));
+
+  workflowCommitState.textContent = committed
+    ? `Committed at ${provenance.sourceCommit || "HEAD"}`
+    : finished
+      ? `${provenance.changes?.length || 0} selected-book changes`
+      : "Waiting for both approvals";
+  workflowExportState.textContent = exported
+    ? `Package ready at ${payload.export.packageDir}`
+    : (payload.export?.problem || "Waiting for the source commit");
+  workflowPublishState.textContent = published
+    ? `Local branch ${state.publicationResult?.branch || payload.publisher?.branch} created`
+    : exported
+      ? "Ready to create a local publisher branch"
+      : "Export this book first";
 
   verifyTranslationButton.disabled = state.workflowBusy || !["none", "draft"].includes(tr);
   approveTranslationButton.disabled = state.workflowBusy || tr !== "ready";
@@ -1193,15 +1250,24 @@ function renderBookWorkflow(payload) {
     ? `Continue alignment (${alignmentRemaining} phrases)`
     : "Alignment complete";
   verifyAlignmentButton.disabled = state.workflowBusy || !translationDone || alignmentRemaining !== 0 || !["none", "draft"].includes(al);
-  approveAlignmentButton.disabled = state.workflowBusy || !translationDone || al !== "ready";
-  exportBookButton.disabled = state.workflowBusy || !translationDone || !alignmentDone;
+  approveAlignmentButton.disabled = state.workflowBusy || !translationDone || al !== "ready" || alignmentRemaining !== 0;
+  reviewCommitButton.disabled = state.workflowBusy || state.commitBusy || !finished || committed || provenance.commitBlocked;
+  reviewCommitButton.textContent = provenance.commitBlocked ? "Unstage other work first" : "Review changes";
+  exportBookButton.disabled = state.workflowBusy || !finished || !committed || exported;
+  exportBookButton.textContent = exported ? "Exported" : "Export book";
+  publishBookButton.disabled = state.workflowBusy || state.publishBusy || !exported || published;
+  publishBookButton.textContent = published ? "Branch created" : "Create publisher branch";
 
   const messages = {
     "verify-translation": "Translation work is saved. Run the canonical verifier.",
     "approve-translation": "Translation passed verification. Human approval is next.",
+    align: `Review and confirm the ${alignmentRemaining} unfinished alignment phrases before verification.`,
     "verify-alignment": "Translation is approved. Finish the hand alignment, then verify it.",
     "approve-alignment": "Alignment passed verification. Human approval is next.",
-    export: "The book is finished. Export the validated package."
+    commit: "Both stages are approved. Review and commit this book before export.",
+    export: "The book is finished. Export the validated package.",
+    publish: "The package is current. Create the local publisher branch as the final app step.",
+    published: "The local publisher branch is ready. Review its output, then push and open the pull request yourself."
   };
   workflowSummary.dataset.state = "ready";
   workflowSummary.textContent = messages[payload.workflow?.nextAction] || "Continue with the highlighted step.";
@@ -1228,6 +1294,7 @@ async function runWorkflowAction(action, stage = "") {
   showWorkflowOutput("");
   let actionError = null;
   try {
+    if (action === "export") state.publicationResult = null;
     const result = await api(translationApiPath("/api/workflow"), {
       method: "POST",
       body: JSON.stringify({ action, stage, book: state.bookId })
@@ -1248,6 +1315,62 @@ async function runWorkflowAction(action, stage = "") {
       workflowSummary.dataset.state = "error";
       workflowSummary.textContent = actionError.message || "Workflow action failed.";
     }
+  }
+}
+
+function openWorkflowPublish() {
+  if (!state.workflow?.export?.ready) return;
+  workflowPublishDestination.value = state.workflow.publisher?.defaultDataRepo || "";
+  workflowPublishConfirmation.checked = false;
+  workflowPublishMessage.textContent = state.workflow.publisher?.destinationAvailable
+    ? "The canonical publisher will validate the package again before creating anything."
+    : "The usual cgv-data checkout was not found. Select its existing checkout path.";
+  workflowPublishModal.hidden = false;
+  workflowPublishDestination.focus();
+}
+
+function closeWorkflowPublish() {
+  workflowPublishModal.hidden = true;
+  workflowPublishMessage.textContent = "";
+}
+
+async function submitWorkflowPublish() {
+  const dataRepo = workflowPublishDestination.value.trim();
+  if (!dataRepo || !workflowPublishConfirmation.checked) {
+    workflowPublishMessage.textContent = "Choose the cgv-data checkout and confirm creation of the local branch.";
+    return;
+  }
+  state.publishBusy = true;
+  confirmWorkflowPublish.disabled = true;
+  cancelWorkflowPublish.disabled = true;
+  workflowPublishMessage.textContent = "Validating the export and creating the local publisher branch…";
+  try {
+    const result = await api(translationApiPath("/api/workflow"), {
+      method: "POST",
+      body: JSON.stringify({
+        action: "publish",
+        dataRepo,
+        humanConfirmation: true,
+        book: state.bookId
+      })
+    });
+    state.publicationResult = {
+      ...(result.publication || {}),
+      book: state.bookId,
+      sourceCommit: result.workflow?.export?.sourceCommit || state.workflow?.export?.sourceCommit
+    };
+    closeWorkflowPublish();
+    showWorkflowOutput(result.output || "Local publisher branch created.");
+    renderBookWorkflow(result.workflow);
+  } catch (error) {
+    workflowPublishMessage.textContent = error.message || "The publisher branch was not created.";
+    if (error.output) showWorkflowOutput(error.output);
+    if (error.workflow) renderBookWorkflow(error.workflow);
+  } finally {
+    state.publishBusy = false;
+    confirmWorkflowPublish.disabled = false;
+    cancelWorkflowPublish.disabled = false;
+    if (state.workflow) renderBookWorkflow(state.workflow);
   }
 }
 
@@ -1295,6 +1418,62 @@ async function submitWorkflowApproval() {
     if (error.output) showWorkflowOutput(error.output);
   } finally {
     confirmWorkflowApproval.disabled = false;
+  }
+}
+
+function openWorkflowCommit() {
+  const provenance = state.workflow?.provenance;
+  if (!provenance || provenance.committed) return;
+  const changes = provenance.changes || [];
+  workflowCommitFiles.textContent = changes.length
+    ? changes.map(change => `${change.status || "  "}  ${change.path}`).join("\n")
+    : "No selected-book changes found.";
+  workflowCommitMessage.value = provenance.defaultMessage || `Finish ${state.workflow?.slug || state.bookId}`;
+  workflowCommitConfirmation.checked = false;
+  workflowCommitMessageText.textContent = provenance.commitBlocked
+    ? `Commit blocked by already staged work: ${(provenance.stagedChanges || []).join(", ")}`
+    : "Validation will run before the commit is created.";
+  confirmWorkflowCommit.disabled = Boolean(provenance.commitBlocked);
+  workflowCommitModal.hidden = false;
+  workflowCommitMessage.focus();
+}
+
+function closeWorkflowCommit() {
+  workflowCommitModal.hidden = true;
+  workflowCommitMessageText.textContent = "";
+}
+
+async function submitWorkflowCommit() {
+  const message = workflowCommitMessage.value.trim();
+  if (!message || !workflowCommitConfirmation.checked) {
+    workflowCommitMessageText.textContent = "Enter a commit message and confirm the exact file list.";
+    return;
+  }
+  state.commitBusy = true;
+  confirmWorkflowCommit.disabled = true;
+  cancelWorkflowCommit.disabled = true;
+  workflowCommitMessageText.textContent = "Validating and creating the selected-book commit…";
+  try {
+    const result = await api(translationApiPath("/api/workflow"), {
+      method: "POST",
+      body: JSON.stringify({
+        action: "commit",
+        message,
+        humanConfirmation: true,
+        book: state.bookId
+      })
+    });
+    closeWorkflowCommit();
+    showWorkflowOutput(result.output || "Selected-book commit created.");
+    renderBookWorkflow(result.workflow);
+  } catch (error) {
+    workflowCommitMessageText.textContent = error.message || "The selected-book commit was not created.";
+    if (error.output) showWorkflowOutput(error.output);
+    if (error.workflow) renderBookWorkflow(error.workflow);
+  } finally {
+    state.commitBusy = false;
+    confirmWorkflowCommit.disabled = false;
+    cancelWorkflowCommit.disabled = false;
   }
 }
 
@@ -1458,21 +1637,13 @@ async function loadReverseLinks() {
       textualBasis: doc?.textualBasis || "",
       stats: doc?.stats || {}
     };
-    for (const entry of links) {
-      state.reverseLinksByPhrase.set(Number(entry.phraseIndex), entry);
-    }
+    state.reverseLinksByPhrase = mapReverseLinksByTranslationPhrase(translationPhrases, links);
   } catch {
     state.reverseLinksByPhrase = new Map();
   }
 }
 
 function currentReverseLinkEntry() {
-  const phrase = currentPhrase();
-  const idx = Number(phrase?.phraseIndex);
-  if (Number.isInteger(idx) && state.reverseLinksByPhrase.has(idx)) {
-    return state.reverseLinksByPhrase.get(idx);
-  }
-  // Fallback: position in list (seed files use phraseIndex)
   return state.reverseLinksByPhrase.get(state.phraseIndex) || null;
 }
 
@@ -1511,7 +1682,7 @@ function renderSpanishUnits() {
       const status = entry?.status || "seeded";
       reverseLinksMeta.hidden = false;
       if (status === "seeded-hand") {
-        reverseLinksMeta.textContent = "Hand-seeded links — click a Spanish unit to highlight Greek.";
+        reverseLinksMeta.textContent = "Seeded links — not human-confirmed. Review and confirm this entire phrase.";
       } else if (status === "gloss-seed") {
         reverseLinksMeta.textContent = "Gloss-seed links — click a Spanish unit to highlight Hebrew/Aramaic; hand-refine before trusting.";
       } else if (status === "seeded-ai") {
@@ -1572,17 +1743,8 @@ function closeAlignmentEditor() {
   });
 }
 
-function isHandAlignmentUnit(unit = {}) {
-  return ["hand", "manual", "manual-realign"].includes(String(unit.method || ""));
-}
-
 function pendingAlignmentWork() {
-  return [...state.reverseLinksByPhrase.values()]
-    .flatMap(entry => (entry.units || [])
-      .filter(unit => !isHandAlignmentUnit(unit))
-      .map(unit => ({ entry, unit, phraseIndex: Number(entry.phraseIndex) })))
-    .filter(item => Number.isInteger(item.phraseIndex))
-    .sort((a, b) => a.phraseIndex - b.phraseIndex);
+  return pendingAlignmentWorkItems(state.reverseLinksByPhrase);
 }
 
 async function openNextAlignmentWork({ fromPhraseIndex = -1 } = {}) {
@@ -1598,7 +1760,7 @@ async function openNextAlignmentWork({ fromPhraseIndex = -1 } = {}) {
     return false;
   }
   const target = pending.find(item => item.phraseIndex >= fromPhraseIndex) || pending[0];
-  const index = translationPhrases.findIndex(phrase => Number(phrase.phraseIndex) === target.phraseIndex);
+  const index = target.phraseIndex;
   if (index < 0) {
     workflowSummary.dataset.state = "error";
     workflowSummary.textContent = `Could not open alignment phrase ${target.phraseIndex}.`;
@@ -1659,7 +1821,7 @@ async function saveCurrentAlignmentEdit() {
   const unit = (entry?.units || []).find(item => String(item.unitId || "") === state.activeReverseUnitId);
   if (!entry || !unit) throw new Error("The selected alignment unit is no longer available.");
   if (!state.alignmentEditTokenIds.size) throw new Error("Select at least one source word.");
-  const completedPhraseIndex = Number(entry.phraseIndex);
+  const completedTranslationIndex = Number(entry._translationPhraseIndex);
   saveAlignmentEdit.disabled = true;
   try {
     await api(translationApiPath("/api/translation/reverse-links"), {
@@ -1677,7 +1839,7 @@ async function saveCurrentAlignmentEdit() {
     renderSpanishUnits();
     await loadBookWorkflow();
     setPhraseSaveStatus("Hand alignment saved", "saved");
-    await openNextAlignmentWork({ fromPhraseIndex: completedPhraseIndex });
+    await openNextAlignmentWork({ fromPhraseIndex: completedTranslationIndex });
   } finally {
     saveAlignmentEdit.disabled = false;
   }
@@ -1687,6 +1849,7 @@ async function confirmCurrentAlignmentPhrase() {
   const entry = currentReverseLinkEntry();
   if (!entry) throw new Error("The current phrase has no alignment record.");
   const completedPhraseIndex = Number(entry.phraseIndex);
+  const completedTranslationIndex = Number(entry._translationPhraseIndex);
   confirmAlignmentPhrase.disabled = true;
   try {
     await api(translationApiPath("/api/translation/reverse-links"), {
@@ -1703,7 +1866,7 @@ async function confirmCurrentAlignmentPhrase() {
     renderSpanishUnits();
     await loadBookWorkflow();
     setPhraseSaveStatus("Phrase hand-confirmed", "saved");
-    await openNextAlignmentWork({ fromPhraseIndex: completedPhraseIndex + 1 });
+    await openNextAlignmentWork({ fromPhraseIndex: completedTranslationIndex + 1 });
   } finally {
     confirmAlignmentPhrase.disabled = false;
   }
@@ -1722,7 +1885,6 @@ async function loadTranslationDocument() {
     }
     bookSelect.value = state.bookId;
   }
-  await loadReverseLinks();
   if (Array.isArray(phrases) && phrases.length) {
     // When disk has a full phrase-level seed, trust that list order/content.
     // This keeps preliminary Spanish in the textarea instead of blank verse stubs.
@@ -1733,6 +1895,7 @@ async function loadTranslationDocument() {
       translationPhrases = sorted.map(record => makePhraseFromRecord(record));
       state.translationDirty = false;
       state.translationLoadedFromDisk = true;
+      await loadReverseLinks();
       return;
     }
 
@@ -1756,12 +1919,14 @@ async function loadTranslationDocument() {
     translationPhrases = [...mergedCanonical, ...extraPhrases];
     state.translationDirty = false;
     state.translationLoadedFromDisk = true;
+    await loadReverseLinks();
     return;
   }
 
   resetTranslationPhrases();
   state.translationDirty = false;
   state.translationLoadedFromDisk = true;
+  await loadReverseLinks();
 }
 
 function renderPhraseInterlinear() {
@@ -1896,10 +2061,14 @@ function placeTranslationCursor(position) {
 function showTranslationView({ focusTranslation = false, cursorPosition = null } = {}) {
   state.view = "translation";
   translationView.hidden = false;
+  finalizationView.hidden = true;
   investigationView.hidden = true;
   sidebar.hidden = false;
   setInvestigationListOpen(false);
-  window.history.pushState(null, "", window.location.pathname);
+  const translationUrl = new URL(window.location.href);
+  translationUrl.hash = "";
+  translationUrl.searchParams.set("book", state.bookId);
+  window.history.pushState(null, "", `${translationUrl.pathname}?${translationUrl.searchParams.toString()}`);
   if (state.translationReturn?.phraseIndex != null) {
     state.phraseIndex = state.translationReturn.phraseIndex;
     renderTranslationPhrase();
@@ -1918,9 +2087,27 @@ function showTranslationView({ focusTranslation = false, cursorPosition = null }
 function showInvestigationView() {
   state.view = "investigation";
   translationView.hidden = true;
+  finalizationView.hidden = true;
   investigationView.hidden = false;
   sidebar.hidden = false;
   window.location.hash = `investigation/${state.investigation}`;
+}
+
+async function showFinalizationView() {
+  if (state.view === "translation") {
+    saveCurrentPhraseText();
+    captureTranslationReturnPoint();
+    await flushTranslationSave();
+  }
+  state.view = "finalization";
+  translationView.hidden = true;
+  investigationView.hidden = true;
+  finalizationView.hidden = false;
+  sidebar.hidden = true;
+  setInvestigationListOpen(false);
+  finalizationBookTitle.textContent = activeBookLabel() || state.workflow?.label || "this book";
+  finalizationView.scrollTop = 0;
+  await loadBookWorkflow();
 }
 
 function setStatus(text, stateName = "saved") {
@@ -3000,6 +3187,16 @@ openInvestigationsMenuButton?.addEventListener("click", async () => {
   sidebar.hidden = false;
 });
 
+openFinalizationButton?.addEventListener("click", () => {
+  void showFinalizationView().catch(error => {
+    setPhraseSaveStatus(error.message || "Could not open the final book step.", "error");
+  });
+});
+
+closeFinalizationButton?.addEventListener("click", () => {
+  showTranslationView();
+});
+
 runGather.addEventListener("click", () => {
   void runEvidenceGather().catch(() => {});
 });
@@ -3021,6 +3218,7 @@ verifyTranslationButton?.addEventListener("click", () => {
 });
 
 continueAlignmentButton?.addEventListener("click", () => {
+  showTranslationView();
   void openNextAlignmentWork();
 });
 
@@ -3036,9 +3234,13 @@ approveAlignmentButton?.addEventListener("click", () => {
   openWorkflowApproval("alignment");
 });
 
+reviewCommitButton?.addEventListener("click", openWorkflowCommit);
+
 exportBookButton?.addEventListener("click", () => {
   void runWorkflowAction("export");
 });
+
+publishBookButton?.addEventListener("click", openWorkflowPublish);
 
 cancelWorkflowApproval?.addEventListener("click", closeWorkflowApproval);
 confirmWorkflowApproval?.addEventListener("click", () => {
@@ -3046,6 +3248,20 @@ confirmWorkflowApproval?.addEventListener("click", () => {
 });
 workflowApprovalModal?.addEventListener("click", event => {
   if (event.target === workflowApprovalModal) closeWorkflowApproval();
+});
+cancelWorkflowCommit?.addEventListener("click", closeWorkflowCommit);
+confirmWorkflowCommit?.addEventListener("click", () => {
+  void submitWorkflowCommit();
+});
+workflowCommitModal?.addEventListener("click", event => {
+  if (event.target === workflowCommitModal) closeWorkflowCommit();
+});
+cancelWorkflowPublish?.addEventListener("click", closeWorkflowPublish);
+confirmWorkflowPublish?.addEventListener("click", () => {
+  void submitWorkflowPublish();
+});
+workflowPublishModal?.addEventListener("click", event => {
+  if (event.target === workflowPublishModal) closeWorkflowPublish();
 });
 
 cancelAlignmentEdit?.addEventListener("click", closeAlignmentEditor);
@@ -3098,6 +3314,16 @@ function phraseNavDirection(event) {
 }
 
 window.addEventListener("keydown", event => {
+  if (event.key === "Escape" && workflowPublishModal && !workflowPublishModal.hidden) {
+    closeWorkflowPublish();
+    return;
+  }
+
+  if (event.key === "Escape" && workflowCommitModal && !workflowCommitModal.hidden) {
+    closeWorkflowCommit();
+    return;
+  }
+
   if (event.key === "Escape" && workflowApprovalModal && !workflowApprovalModal.hidden) {
     closeWorkflowApproval();
     return;

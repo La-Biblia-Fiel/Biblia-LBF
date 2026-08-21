@@ -17,9 +17,13 @@ Then open `http://127.0.0.1:1424/`.
 Optional local suggestions (LM Studio or another provider) may draft Spanish.
 They cannot verify, approve, or publish.
 
-The book workflow at the top of the app runs the canonical verifier, records
-explicit human approvals, and calls the canonical exporter. It never commits,
-pushes, opens a pull request, or bypasses an exporter refusal.
+Phrase-by-phrase work stays in the translation view. **Finish book** opens a
+separate finalization view that runs the canonical verifier, records explicit
+human approvals, presents the selected book's exact file list for a
+human-confirmed source commit, calls the canonical exporter, and—after a
+second explicit confirmation—calls the canonical publisher to create the
+local `cgv-data` branch. It never includes unrelated work, pushes, opens a
+pull request, or bypasses an exporter or publisher refusal.
 
 During alignment, **Continue alignment** opens the next unfinished phrase.
 Review its unit-to-source links, correct any wrong unit, then use **Confirm

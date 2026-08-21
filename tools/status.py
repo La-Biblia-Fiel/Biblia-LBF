@@ -88,6 +88,7 @@ REF_IN_LINK = re.compile(r"(\d+):(\d+)")
 AUTO_METHODS = {"auto", "auto-zip"}
 GLOSS_METHODS = {"gloss", "gloss-match", "gloss-seed", "verse-span-resynchronization"}
 HAND_METHODS = {"hand", "manual", "manual-realign"}
+HAND_LINK_STATUSES = {"hand", "manual", "manual-realign"}
 CHECKED_STATES = {"ready", "done"}
 
 
@@ -127,7 +128,15 @@ def count_verses(path: Path) -> int:
 def alignment_counts(path: Path) -> dict[str, int]:
     counts = Counter()
     if not path.is_file():
-        return {"phrases": 0, "hand": 0, "auto": 0, "gloss": 0, "unwalked": 0, "other": 0}
+        return {
+            "phrases": 0,
+            "hand": 0,
+            "auto": 0,
+            "gloss": 0,
+            "unwalked": 0,
+            "unconfirmed": 0,
+            "other": 0,
+        }
     data = json.loads(path.read_text(encoding="utf-8"))
     for link in data.get("links") or []:
         counts["phrases"] += 1
@@ -141,6 +150,11 @@ def alignment_counts(path: Path) -> dict[str, int]:
             counts["auto"] += 1
         elif any(method in GLOSS_METHODS for method in methods):
             counts["gloss"] += 1
+        elif status not in HAND_LINK_STATUSES:
+            # Unit-level `method: hand` is not a human review signature.
+            # Seeded links become hand-confirmed only through explicit phrase
+            # confirmation in Translator (or an equivalent manual edit).
+            counts["unconfirmed"] += 1
         elif all(method in HAND_METHODS for method in methods):
             counts["hand"] += 1
         else:
@@ -169,42 +183,57 @@ def alignment_errors(book: str, testament: str, expected: int | None) -> list[st
 
     errors: list[str] = []
     counts = alignment_counts(path)
-    if counts["auto"] or counts["gloss"] or counts["unwalked"] or counts["other"]:
+    if (
+        counts["auto"]
+        or counts["gloss"]
+        or counts["unwalked"]
+        or counts["unconfirmed"]
+        or counts["other"]
+    ):
         errors.append(
             f"{book}: alignment still has auto={counts['auto']} gloss={counts['gloss']} "
-            f"unwalked={counts['unwalked']} other={counts['other']}"
+            f"unwalked={counts['unwalked']} unconfirmed={counts['unconfirmed']} "
+            f"other={counts['other']}"
         )
     if counts["hand"] == 0:
         errors.append(f"{book}: alignment has no hand units")
 
     verses = parse_verses(translation_path(book, testament))
-    refs: list[tuple[int, int]] = []
+    links_by_verse: dict[tuple[int, int], list[dict]] = {}
     for link in links:
         match = REF_IN_LINK.search(str(link.get("reference") or ""))
         if not match:
             errors.append(f"{book}: alignment link missing verse reference")
             continue
         key = (int(match.group(1)), int(match.group(2)))
-        refs.append(key)
+        links_by_verse.setdefault(key, []).append(link)
         for unit in link.get("units") or []:
             if not unit.get("sourceTokenIds"):
                 errors.append(f"{book} {key[0]}:{key[1]}: a unit has no source tokens")
                 break
-        reconstructed = "".join(str(unit.get("surface") or "") for unit in (link.get("units") or [])).strip()
+
+    for key, verse_links in links_by_verse.items():
+        reconstructed = "".join(
+            str(unit.get("surface") or "")
+            for link in verse_links
+            for unit in (link.get("units") or [])
+        )
         expected_text = verses.get(key, "")
-        if expected_text and re.sub(r"\s+", " ", reconstructed) != re.sub(r"\s+", " ", expected_text):
+        # Reverse links are phrase-level. Unit surfaces intentionally omit the
+        # whitespace and punctuation between units, so compare the complete
+        # verse's ordered lexical text after removing those separators.
+        normalized_units = re.sub(r"[^\w]+", "", reconstructed, flags=re.UNICODE).casefold()
+        normalized_verse = re.sub(r"[^\w]+", "", expected_text, flags=re.UNICODE).casefold()
+        if expected_text and normalized_units != normalized_verse:
             errors.append(f"{book} {key[0]}:{key[1]}: units do not reconstruct Spanish")
 
-    if expected is not None and len(set(refs)) != expected:
-        errors.append(f"{book}: alignment covers {len(set(refs))} verses, expected {expected}")
-    missing = sorted(set(verses) - set(refs))
+    covered = set(links_by_verse)
+    if expected is not None and len(covered) != expected:
+        errors.append(f"{book}: alignment covers {len(covered)} verses, expected {expected}")
+    missing = sorted(set(verses) - covered)
     if missing:
         shown = ", ".join(f"{ch}:{vs}" for ch, vs in missing[:5])
         errors.append(f"{book}: alignment missing verses {shown}")
-    duplicates = [key for key, n in Counter(refs).items() if n > 1]
-    if duplicates:
-        shown = ", ".join(f"{ch}:{vs}" for ch, vs in duplicates[:5])
-        errors.append(f"{book}: alignment has duplicate verses {shown}")
     return errors
 
 
@@ -252,7 +281,7 @@ def main() -> int:
     errors: list[str] = []
     print(
         f"{'book':<16} {'tr':<7} {'verses':<12} {'al':<7} "
-        f"{'hand':<6} {'auto':<6} {'gloss':<6} {'unw':<6}"
+        f"{'hand':<6} {'auto':<6} {'gloss':<6} {'unw':<6} {'unconf':<7}"
     )
     for row in rows:
         book = row["book"]
@@ -265,7 +294,8 @@ def main() -> int:
         verse_label = f"{verses}/{expected}" if expected is not None else str(verses)
         print(
             f"{book:<16} {row['translation']:<7} {verse_label:<12} {row['alignment']:<7} "
-            f"{counts['hand']:<6} {counts['auto']:<6} {counts['gloss']:<6} {counts['unwalked']:<6}"
+            f"{counts['hand']:<6} {counts['auto']:<6} {counts['gloss']:<6} "
+            f"{counts['unwalked']:<6} {counts['unconfirmed']:<7}"
         )
 
         if row["translation"] in CHECKED_STATES:

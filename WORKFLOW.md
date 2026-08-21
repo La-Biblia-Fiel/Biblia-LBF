@@ -72,6 +72,9 @@ Prohibido:
 
 `method` debe ser `hand` (o una razón explícita de no cubierto).
 Cero `auto-zip`. Cero `gloss-match`. Cero frases sin caminar presentadas como listas.
+Además, la frase debe tener estado humano `hand`, `manual` o
+`manual-realign`. `seeded-hand` sigue siendo una semilla, no una revisión
+humana, aunque sus unidades lleven `method: hand`.
 
 Tito hoy tiene 72 frases `auto-zip`. Eso no es alineación terminada.
 
@@ -94,21 +97,30 @@ archivo falta, está corto, o todavía tiene auto/gloss, el script falla.
 Translator presenta una sola secuencia por libro:
 
 ```text
-traducir → verificar → aprobación humana → alinear → verificar → aprobación humana → exportar
+traducir → verificar → aprobación humana → alinear → verificar → aprobación humana → revisar y commit → exportar → publicar
 ```
+
+El trabajo frase por frase permanece en la vista de traducción. **Terminar
+libro** abre una vista final separada para verificación, firmas, commit,
+exportación y publicación; el flujo final no ocupa el espacio de edición de frases.
 
 Solo la acción siguiente queda habilitada. Los botones de verificación llaman
 a `tools/verify.py`; no duplican sus reglas. Las aprobaciones exigen `ready`,
 nombre y confirmación humana, y escriben solamente la fila canónica del libro
 en `STATUS.md`. Editar el español borra las firmas de traducción y alineación;
-editar los enlaces borra la firma de alineación. Exportar llama únicamente a
-`tools/export.py` y conserva todas sus negativas, incluida la exigencia de que
-el trabajo esté commiteado.
+editar los enlaces borra la firma de alineación. **Revisar y commit** muestra
+la lista exacta de archivos del libro, vuelve a ejecutar `tools/status.py` y
+requiere confirmación humana. Solo entonces crea un commit con la traducción,
+el directorio de alineación y la fila de ese libro en `STATUS.md`; nunca incluye
+filas pendientes de otros libros ni trabajo ya preparado en el índice. Exportar
+llama únicamente a `tools/export.py` y conserva todas sus negativas. Publicar
+requiere otra confirmación explícita y llama únicamente a `tools/publish.py`;
+crea la rama local del publicador, pero nunca usa `--push` ni abre el PR.
 
 En la etapa de alineación, **Continuar alineación** abre la primera frase no
 confirmada. Revise cada unidad contra los tokens de fuente, corrija cualquier
 enlace incorrecto y pulse **Confirmar frase completa**. Esa acción humana marca
-como `hand` solamente las unidades visibles de esa frase y avanza a la
+como `hand` solamente las unidades visibles y el estado de esa frase, y avanza a la
 siguiente; nunca confirma un libro entero ni ejecuta autoalineación.
 
 ## Publicar
@@ -116,7 +128,7 @@ siguiente; nunca confirma un libro entero ni ejecuta autoalineación.
 Publicar no es marcar `done`. Publicar es posterior:
 
 ```text
-Biblia-LBF → validar → exportar → PR del publicador → cgv-data
+Biblia-LBF → validar → revisar y commit → exportar → PR del publicador → cgv-data
 ```
 
 Son dos pasos. Primero exportar:
@@ -168,6 +180,12 @@ Ese último caso importa: un `git init` vacío llamado `cgv-data` acepta
 archivos y no publica nada.
 
 Este repositorio no importa texto desde `cgv-data`.
+
+Translator presenta este publicador como su último paso. La app no vuelve a
+implementar la publicación: entrega el libro y la ruta de la copia existente de
+`cgv-data` a `tools/publish.py`, muestra su salida y se detiene después del
+commit local. La validación de estado se limita al libro seleccionado; trabajo
+pendiente de otro libro no bloquea su publicación.
 
 ## Lo que este flujo no es
 

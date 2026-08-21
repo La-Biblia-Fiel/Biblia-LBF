@@ -126,8 +126,8 @@ def check_package_current(book: str, row: dict[str, str], text_path: Path, meta:
         raise SystemExit(f"{book} is done but unsigned")
 
 
-def status_gate() -> None:
-    check = subprocess.run([sys.executable, str(ROOT / "tools" / "status.py")], cwd=ROOT)
+def status_gate(book: str) -> None:
+    check = subprocess.run([sys.executable, str(ROOT / "tools" / "status.py"), book], cwd=ROOT)
     if check.returncode != 0:
         raise SystemExit("tools/status.py failed. Not publishing.")
 
@@ -241,7 +241,7 @@ def main() -> int:
     if problem:
         raise SystemExit(problem)
     check_package_current(book, row, text_path, meta)
-    status_gate()
+    status_gate(book)
 
     repo = resolve_data_repo(args.data_repo)
     require_data_repo(repo)
