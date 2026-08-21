@@ -77,7 +77,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | 2juan | nt | ready | none |  |  |  |  |  |
 | 3juan | nt | ready | none |  |  |  |  |  |
 | judas | nt | ready | draft |  |  |  |  | reverse-links claim all-hand; unsigned |
-| apocalipsis | nt | done | done | John Wry | 2026-08-20 | John Wry | 2026-08-20 | later TR revision applied 2026-08-18; alignment not rechecked |
+| apocalipsis | nt | done | done | John Wry | 2026-08-21 | John Wry | 2026-08-21 | later TR revision applied 2026-08-18; alignment not rechecked |
 
 ## Open human decisions
 
