@@ -38,7 +38,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | jeremias | ot | none | none |  |  |  |  |  |
 | lamentaciones | ot | none | none |  |  |  |  |  |
 | ezequiel | ot | none | none |  |  |  |  |  |
-| daniel | ot | ready | none |  |  |  |  | file exists; gloss maps are not alignment |
+| daniel | ot | ready | draft |  |  |  |  | file exists; gloss maps are not alignment |
 | oseas | ot | none | none |  |  |  |  |  |
 | joel | ot | none | none |  |  |  |  |  |
 | amos | ot | none | none |  |  |  |  |  |
@@ -67,7 +67,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | 2tesalonicenses | nt | ready | none |  |  |  |  |  |
 | 1timoteo | nt | ready | none |  |  |  |  |  |
 | 2timoteo | nt | ready | none |  |  |  |  |  |
-| titus | nt | ready | draft |  |  |  |  | mixed hand + auto-zip; auto is not finished |
+| titus | nt | done | draft | John Wry | 2026-08-20 |  |  | mixed hand + auto-zip; auto is not finished |
 | filemon | nt | ready | none |  |  |  |  |  |
 | hebreos | nt | ready | none |  |  |  |  |  |
 | santiago | nt | ready | none |  |  |  |  |  |
@@ -77,7 +77,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | 2juan | nt | ready | none |  |  |  |  |  |
 | 3juan | nt | ready | none |  |  |  |  |  |
 | judas | nt | ready | draft |  |  |  |  | reverse-links claim all-hand; unsigned |
-| apocalipsis | nt | ready | draft |  |  |  |  | later TR revision applied 2026-08-18; alignment not rechecked |
+| apocalipsis | nt | done | done | John Wry | 2026-08-20 | John Wry | 2026-08-20 | later TR revision applied 2026-08-18; alignment not rechecked |
 
 ## Open human decisions
 

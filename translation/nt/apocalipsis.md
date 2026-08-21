@@ -1479,7 +1479,7 @@ Y yo, Juan, vi la ciudad santa, la nueva Jerusalén, que bajaba de parte de Dios
 
 ### 21:3
 
-Y oí una gran voz desde el cielo, que decía: He aquí, la tienda de Dios está con los hombres, y morará con ellos, y ellos serán sus pueblos, y Dios mismo estará con ellos, Dios de ellos.
+Y oí una gran voz desde el cielo, que decía: He aquí, la tienda de Dios con los hombres, y morará con ellos, y ellos serán sus pueblos, y Dios mismo estará con ellos, Dios de ellos.
 
 ### 21:4
 
@@ -1499,7 +1499,7 @@ El que vence heredará todas las cosas, y yo seré su Dios y él será mi hijo.
 
 ### 21:8
 
-Pero a los cobardes e incrédulos y abominables y asesinos y sexualmente inmorales y hechiceros e idólatras y todos los mentirosos, su parte estará en el lago que arde con fuego y azufre, que es segunda muerte.
+Pero a los cobardes e incrédulos y abominables y asesinos y sexualmente inmorales y hechiceros e idólatras y todos los mentirosos, su parte en el lago que arde con fuego y azufre, que es segunda muerte.
 
 ### 21:9
 
@@ -1511,7 +1511,7 @@ Y me llevó en espíritu a un monte grande y alto, y me mostró la ciudad grande
 
 ### 21:11
 
-Tenía la gloria de Dios, y su resplandor era semejante a una piedra muy preciosa, como piedra de jaspe cristalino.
+Tenía la gloria de Dios, y su resplandor semejante a una piedra muy preciosa, como piedra de jaspe cristalino.
 
 ### 21:12
 
@@ -1539,7 +1539,7 @@ Y midió su muro: ciento cuarenta y cuatro codos, medida de ser humano, que es m
 
 ### 21:18
 
-Y la construcción de su muro era de jaspe, y la ciudad era oro puro, semejante a vidrio puro.
+Y la construcción de su muro era de jaspe, y la ciudad oro puro, semejante a vidrio puro.
 
 ### 21:19
 
@@ -1551,7 +1551,7 @@ el quinto, sardónice; el sexto, sardio; el séptimo, crisolito; el octavo, beri
 
 ### 21:21
 
-Y las doce puertas eran doce perlas; cada una de las puertas era de una sola perla. La calle de la ciudad era oro puro, como vidrio transparente.
+Y las doce puertas doce perlas; cada una de las puertas era de una sola perla. La calle de la ciudad oro puro, como vidrio transparente.
 
 ### 21:22
 
@@ -1559,7 +1559,7 @@ Y no vi templo en ella, porque el Señor Dios, el Todopoderoso, es su templo, y 
 
 ### 21:23
 
-La ciudad no necesita del sol ni de la luna para que brillen en ella, porque la gloria de Dios la iluminó, y su lámpara es el cordero.
+La ciudad no necesita del sol ni de la luna para que brillen en ella, porque la gloria de Dios la iluminó, y su lámpara el cordero.
 
 ### 21:24
 
@@ -1585,7 +1585,7 @@ Y me mostró un río puro de agua de vida, brillante como cristal, que sale del 
 
 ### 22:2
 
-En medio de la calle de ella y a uno y otro lado del río está el árbol de vida, que produce doce frutos, dando cada uno su fruto cada mes; y las hojas del árbol son para sanidad de las naciones.
+En medio de la calle de ella y a uno y otro lado del río el árbol de vida, que produce doce frutos, dando cada uno su fruto cada mes; y las hojas del árbol para sanidad de las naciones.
 
 ### 22:3
 
@@ -1593,7 +1593,7 @@ Y ya no habrá ninguna maldición. Y el trono de Dios y del cordero estará en e
 
 ### 22:4
 
-Y verán su rostro, y su nombre estará sobre las frentes de ellos.
+Y verán su rostro, y su nombre sobre las frentes de ellos.
 
 ### 22:5
 
@@ -1601,7 +1601,7 @@ Y no habrá noche allí, y no tienen necesidad de lámpara ni de luz de sol, por
 
 ### 22:6
 
-Y me dijo: Estas palabras son fieles y verdaderas; y el Señor, el Dios de los santos profetas, envió a su ángel para mostrar a sus siervos las cosas que deben suceder pronto.
+Y me dijo: Estas palabras fieles y verdaderas; y el Señor, el Dios de los santos profetas, envió a su ángel para mostrar a sus siervos las cosas que deben suceder pronto.
 
 ### 22:7
 
@@ -1625,7 +1625,7 @@ El que hace injusticia, haga injusticia todavía; y el que está sucio, ensúcie
 
 ### 22:12
 
-Y he aquí, vengo pronto, y mi recompensa está conmigo para dar a cada uno según sea su obra.
+Y he aquí, vengo pronto, y mi recompensa conmigo para dar a cada uno según sea su obra.
 
 ### 22:13
 
@@ -1637,7 +1637,7 @@ Dichosos los que hacen sus mandamientos, para que su autoridad sea sobre el árb
 
 ### 22:15
 
-Pero fuera están los perros y los hechiceros y los sexualmente inmorales y los asesinos y los idólatras y todo el que ama y practica mentira.
+Pero fuera los perros y los hechiceros y los sexualmente inmorales y los asesinos y los idólatras y todo el que ama y practica mentira.
 
 ### 22:16
 
@@ -1661,4 +1661,4 @@ El que da testimonio de estas cosas dice: Sí, vengo pronto. Amén. Sí, ven, Se
 
 ### 22:21
 
-La gracia de nuestro Señor Jesús Cristo sea con todos ustedes. Amén.
+La gracia de nuestro Señor Jesús Cristo con todos ustedes. Amén.
