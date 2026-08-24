@@ -22,8 +22,11 @@ separate finalization view that runs the canonical verifier, records explicit
 human approvals, presents the selected book's exact file list for a
 human-confirmed source commit, calls the canonical exporter, and—after a
 second explicit confirmation—calls the canonical publisher to create the
-local `cgv-data` branch. It never includes unrelated work, pushes, opens a
-pull request, or bypasses an exporter or publisher refusal.
+local `cgv-data` branch. The app calls this **publisher branch prepared**, then
+shows the human push command and pull-request link as unfinished steps. It says
+**published** only when the current export is present on `cgv-data/main`. It
+never includes unrelated work, pushes, opens a pull request, or bypasses an
+exporter or publisher refusal.
 
 During alignment, **Continue alignment** opens the next unfinished phrase.
 Review its unit-to-source links, correct any wrong unit, then use **Confirm

@@ -135,6 +135,7 @@ const workflowAlignmentState = document.querySelector("#workflow-alignment-state
 const workflowCommitState = document.querySelector("#workflow-commit-state");
 const workflowExportState = document.querySelector("#workflow-export-state");
 const workflowPublishState = document.querySelector("#workflow-publish-state");
+const workflowPublicationState = document.querySelector("#workflow-publication-state");
 const continueAlignmentButton = document.querySelector("#continue-alignment");
 const verifyTranslationButton = document.querySelector("#verify-translation");
 const approveTranslationButton = document.querySelector("#approve-translation");
@@ -165,6 +166,11 @@ const workflowPublishConfirmation = document.querySelector("#workflow-publish-co
 const workflowPublishMessage = document.querySelector("#workflow-publish-message");
 const cancelWorkflowPublish = document.querySelector("#cancel-workflow-publish");
 const confirmWorkflowPublish = document.querySelector("#confirm-workflow-publish");
+const publicationHandoff = document.querySelector("#publication-handoff");
+const publicationPushCommand = document.querySelector("#publication-push-command");
+const copyPublicationCommand = document.querySelector("#copy-publication-command");
+const publicationPrLink = document.querySelector("#publication-pr-link");
+const publicationCopyStatus = document.querySelector("#publication-copy-status");
 const alignmentEditor = document.querySelector("#alignment-editor");
 const alignmentReference = document.querySelector("#alignment-reference");
 const alignmentProgress = document.querySelector("#alignment-progress");
@@ -1199,9 +1205,10 @@ function renderBookWorkflow(payload) {
   const provenance = payload.provenance || {};
   const committed = provenance.committed === true;
   const exported = payload.export?.ready === true;
-  const publishedThisSession = state.publicationResult?.book === state.bookId
+  const preparedThisSession = state.publicationResult?.book === state.bookId
     && state.publicationResult?.sourceCommit === payload.export?.sourceCommit;
-  const published = publishedThisSession || payload.publisher?.localBranchReady === true;
+  const branchPrepared = preparedThisSession || payload.publisher?.localBranchReady === true;
+  const published = payload.publisher?.publishedToMain === true;
   const alignment = payload.progress?.alignment || {};
   const alignmentRemaining = (alignment.auto || 0)
     + (alignment.gloss || 0)
@@ -1227,7 +1234,8 @@ function renderBookWorkflow(payload) {
   setWorkflowStep("workflow-approve-alignment", alignmentDone ? "complete" : (translationDone && al === "ready" && alignmentRemaining === 0 ? "active" : "locked"));
   setWorkflowStep("workflow-commit", finished && committed ? "complete" : (finished ? "active" : "locked"));
   setWorkflowStep("workflow-export", exported ? "complete" : (finished && committed ? "active" : "locked"));
-  setWorkflowStep("workflow-publish", published ? "complete" : (exported ? "active" : "locked"));
+  setWorkflowStep("workflow-publish", branchPrepared || published ? "complete" : (exported ? "active" : "locked"));
+  setWorkflowStep("workflow-publication", published ? "complete" : (branchPrepared ? "active" : "locked"));
 
   workflowCommitState.textContent = committed
     ? `Committed at ${provenance.sourceCommit || "HEAD"}`
@@ -1237,11 +1245,25 @@ function renderBookWorkflow(payload) {
   workflowExportState.textContent = exported
     ? `Package ready at ${payload.export.packageDir}`
     : (payload.export?.problem || "Waiting for the source commit");
-  workflowPublishState.textContent = published
-    ? `Local branch ${state.publicationResult?.branch || payload.publisher?.branch} created`
+  workflowPublishState.textContent = branchPrepared || published
+    ? `Local branch ${state.publicationResult?.branch || payload.publisher?.branch} prepared`
     : exported
       ? "Ready to create a local publisher branch"
       : "Export this book first";
+  workflowPublicationState.textContent = published
+    ? "Present on cgv-data/main"
+    : branchPrepared
+      ? "Not published — push the branch and merge its PR"
+      : "Prepare the publisher branch first";
+
+  publicationHandoff.hidden = !branchPrepared || published;
+  if (branchPrepared && !published) {
+    publicationPushCommand.textContent = state.publicationResult?.pushCommand
+      || payload.publisher?.pushCommand
+      || "Use the push command printed by the publisher.";
+    publicationPrLink.href = state.publicationResult?.pullRequestUrl || payload.publisher?.pullRequestUrl || "#";
+    publicationCopyStatus.textContent = "";
+  }
 
   verifyTranslationButton.disabled = state.workflowBusy || !["none", "draft"].includes(tr);
   approveTranslationButton.disabled = state.workflowBusy || tr !== "ready";
@@ -1255,8 +1277,8 @@ function renderBookWorkflow(payload) {
   reviewCommitButton.textContent = provenance.commitBlocked ? "Unstage other work first" : "Review changes";
   exportBookButton.disabled = state.workflowBusy || !finished || !committed || exported;
   exportBookButton.textContent = exported ? "Exported" : "Export book";
-  publishBookButton.disabled = state.workflowBusy || state.publishBusy || !exported || published;
-  publishBookButton.textContent = published ? "Branch created" : "Create publisher branch";
+  publishBookButton.disabled = state.workflowBusy || state.publishBusy || !exported || branchPrepared || published;
+  publishBookButton.textContent = branchPrepared || published ? "Branch prepared" : "Create publisher branch";
 
   const messages = {
     "verify-translation": "Translation work is saved. Run the canonical verifier.",
@@ -1266,8 +1288,9 @@ function renderBookWorkflow(payload) {
     "approve-alignment": "Alignment passed verification. Human approval is next.",
     commit: "Both stages are approved. Review and commit this book before export.",
     export: "The book is finished. Export the validated package.",
-    publish: "The package is current. Create the local publisher branch as the final app step.",
-    published: "The local publisher branch is ready. Review its output, then push and open the pull request yourself."
+    publish: "The package is current. Prepare its local publisher branch.",
+    "publish-pr": "The branch is only local. Push it and merge its pull request before the book can reach the Reader.",
+    complete: "The current export is present on cgv-data/main. Publication is complete."
   };
   workflowSummary.dataset.state = "ready";
   workflowSummary.textContent = messages[payload.workflow?.nextAction] || "Continue with the highlighted step.";
@@ -1323,10 +1346,21 @@ function openWorkflowPublish() {
   workflowPublishDestination.value = state.workflow.publisher?.defaultDataRepo || "";
   workflowPublishConfirmation.checked = false;
   workflowPublishMessage.textContent = state.workflow.publisher?.destinationAvailable
-    ? "The canonical publisher will validate the package again before creating anything."
+    ? "This prepares a local branch only. The canonical publisher will validate the package before creating anything."
     : "The usual cgv-data checkout was not found. Select its existing checkout path.";
   workflowPublishModal.hidden = false;
   workflowPublishDestination.focus();
+}
+
+async function copyPublisherPushCommand() {
+  const command = publicationPushCommand.textContent.trim();
+  if (!command) return;
+  try {
+    await navigator.clipboard.writeText(command);
+    publicationCopyStatus.textContent = "Push command copied.";
+  } catch {
+    publicationCopyStatus.textContent = "Could not copy automatically. Select and copy the command above.";
+  }
 }
 
 function closeWorkflowPublish() {
@@ -3262,6 +3296,9 @@ confirmWorkflowPublish?.addEventListener("click", () => {
 });
 workflowPublishModal?.addEventListener("click", event => {
   if (event.target === workflowPublishModal) closeWorkflowPublish();
+});
+copyPublicationCommand?.addEventListener("click", () => {
+  void copyPublisherPushCommand();
 });
 
 cancelAlignmentEdit?.addEventListener("click", closeAlignmentEditor);

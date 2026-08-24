@@ -338,6 +338,10 @@ function todayIsoDate() {
   return new Date().toLocaleDateString("en-CA", { timeZone: "America/La_Paz" });
 }
 
+function shellSingleQuote(value) {
+  return `'${String(value).replaceAll("'", `'"'"'`)}'`;
+}
+
 async function runCanonicalTool(script, bookSlug) {
   try {
     const result = await execFileAsync("python3", [join(repoRoot, "tools", script), bookSlug], {
@@ -477,34 +481,59 @@ async function readLocalPublicationState(bookSlug, exported) {
   const available = existsSync(join(defaultDataRepo, ".git"));
   const stamp = String(exported.publishedAt || "").match(/^(\d{4})-(\d{2})-(\d{2})T/u);
   const branch = stamp ? `lbf-${bookSlug}-${stamp.slice(1).join("")}` : "";
+  const pullRequestUrl = branch
+    ? `https://github.com/Cultivados-en-Gracia-y-Verdad/cgv-data/compare/main...${branch}?expand=1`
+    : "";
+  const pushCommand = branch ? `git -C ${shellSingleQuote(defaultDataRepo)} push -u origin ${branch}` : "";
+  const empty = {
+    defaultDataRepo,
+    destinationAvailable: available,
+    localBranchReady: false,
+    publishedToMain: false,
+    branch,
+    pushCommand,
+    pullRequestUrl
+  };
   if (!available || !exported.ready || !branch) {
-    return { defaultDataRepo, destinationAvailable: available, localBranchReady: false, branch };
+    return empty;
   }
+
+  async function refContainsCurrentExport(ref) {
+    try {
+      const [textResult, alignmentResult] = await Promise.all([
+        execFileAsync("git", [
+          "-C",
+          defaultDataRepo,
+          "show",
+          `${ref}:bibles/LBF/${bookSlug}.lbf.md`
+        ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 }),
+        execFileAsync("git", [
+          "-C",
+          defaultDataRepo,
+          "show",
+          `${ref}:bibles/LBF/alignments/${bookSlug}.alignment.json`
+        ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 })
+      ]);
+      const textCommit = String(textResult.stdout || "").match(/^\s*sourceCommit:\s*([0-9a-f]{40})\s*$/mu)?.[1] || "";
+      const alignmentCommit = String(JSON.parse(String(alignmentResult.stdout || "{}")).sourceCommit || "");
+      return textCommit === exported.sourceCommit && alignmentCommit === exported.sourceCommit;
+    } catch {
+      return false;
+    }
+  }
+
   try {
-    const [textResult, alignmentResult] = await Promise.all([
-      execFileAsync("git", [
-        "-C",
-        defaultDataRepo,
-        "show",
-        `${branch}:bibles/LBF/${bookSlug}.lbf.md`
-      ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 }),
-      execFileAsync("git", [
-        "-C",
-        defaultDataRepo,
-        "show",
-        `${branch}:bibles/LBF/alignments/${bookSlug}.alignment.json`
-      ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 })
+    const [localBranchReady, remoteMainReady] = await Promise.all([
+      refContainsCurrentExport(branch),
+      refContainsCurrentExport("origin/main")
     ]);
-    const textCommit = String(textResult.stdout || "").match(/^\s*sourceCommit:\s*([0-9a-f]{40})\s*$/mu)?.[1] || "";
-    const alignmentCommit = String(JSON.parse(String(alignmentResult.stdout || "{}")).sourceCommit || "");
     return {
-      defaultDataRepo,
-      destinationAvailable: true,
-      localBranchReady: textCommit === exported.sourceCommit && alignmentCommit === exported.sourceCommit,
-      branch
+      ...empty,
+      localBranchReady,
+      publishedToMain: remoteMainReady
     };
   } catch {
-    return { defaultDataRepo, destinationAvailable: true, localBranchReady: false, branch };
+    return empty;
   }
 }
 
@@ -620,7 +649,8 @@ async function readBookWorkflow(bookId) {
     workflow.nextAction = provenance.committed ? (exported.ready ? "publish" : "export") : "commit";
   }
   const publisher = await readLocalPublicationState(slug, exported);
-  if (publisher.localBranchReady) workflow.nextAction = "published";
+  if (publisher.localBranchReady) workflow.nextAction = "publish-pr";
+  if (publisher.publishedToMain) workflow.nextAction = "complete";
   return {
     book: paths.book.id,
     slug,
@@ -1859,7 +1889,13 @@ async function handleBookWorkflow(request, response, url) {
       ok: result.ok,
       error: result.ok ? undefined : "The canonical publisher refused to create the branch. Review its output below.",
       output: result.output,
-      publication: result.ok ? { branch, commit, dataRepo } : null,
+      publication: result.ok ? {
+        branch,
+        commit,
+        dataRepo,
+        pushCommand: `git -C ${shellSingleQuote(dataRepo)} push -u origin ${branch}`,
+        pullRequestUrl: `https://github.com/Cultivados-en-Gracia-y-Verdad/cgv-data/compare/main...${branch}?expand=1`
+      } : null,
       workflow: await readBookWorkflow(bookId)
     });
     return;

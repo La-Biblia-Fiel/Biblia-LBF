@@ -97,12 +97,12 @@ archivo falta, está corto, o todavía tiene auto/gloss, el script falla.
 Translator presenta una sola secuencia por libro:
 
 ```text
-traducir → verificar → aprobación humana → alinear → verificar → aprobación humana → revisar y commit → exportar → publicar
+traducir → verificar → aprobación humana → alinear → verificar → aprobación humana → revisar y commit → exportar → preparar rama → push y merge del PR
 ```
 
 El trabajo frase por frase permanece en la vista de traducción. **Terminar
 libro** abre una vista final separada para verificación, firmas, commit,
-exportación y publicación; el flujo final no ocupa el espacio de edición de frases.
+exportación y entrega al publicador; el flujo final no ocupa el espacio de edición de frases.
 
 Solo la acción siguiente queda habilitada. Los botones de verificación llaman
 a `tools/verify.py`; no duplican sus reglas. Las aprobaciones exigen `ready`,
@@ -113,9 +113,11 @@ la lista exacta de archivos del libro, vuelve a ejecutar `tools/status.py` y
 requiere confirmación humana. Solo entonces crea un commit con la traducción,
 el directorio de alineación y la fila de ese libro en `STATUS.md`; nunca incluye
 filas pendientes de otros libros ni trabajo ya preparado en el índice. Exportar
-llama únicamente a `tools/export.py` y conserva todas sus negativas. Publicar
-requiere otra confirmación explícita y llama únicamente a `tools/publish.py`;
-crea la rama local del publicador, pero nunca usa `--push` ni abre el PR.
+llama únicamente a `tools/export.py` y conserva todas sus negativas. **Preparar
+rama del publicador** requiere otra confirmación explícita y llama únicamente a
+`tools/publish.py`; crea la rama local, pero nunca usa `--push` ni abre el PR.
+Translator no llama a ese estado «publicado»: el paso siguiente permanece
+abierto hasta que la rama se empuje y el PR se fusione en `cgv-data/main`.
 
 En la etapa de alineación, **Continuar alineación** abre la primera frase no
 confirmada. Revise cada unidad contra los tokens de fuente, corrija cualquier
@@ -184,8 +186,12 @@ Este repositorio no importa texto desde `cgv-data`.
 Translator presenta este publicador como su último paso. La app no vuelve a
 implementar la publicación: entrega el libro y la ruta de la copia existente de
 `cgv-data` a `tools/publish.py`, muestra su salida y se detiene después del
-commit local. La validación de estado se limita al libro seleccionado; trabajo
-pendiente de otro libro no bloquea su publicación.
+commit local. Ese resultado se etiqueta **rama preparada**, nunca **publicado**.
+La app muestra el comando de `push` y el enlace del PR como pasos humanos
+pendientes, y solo presenta la publicación como completa cuando el mismo
+`sourceCommit` está presente en `cgv-data/main`. La validación de estado se
+limita al libro seleccionado; trabajo pendiente de otro libro no bloquea su
+publicación.
 
 ## Lo que este flujo no es
 

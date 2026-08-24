@@ -235,13 +235,34 @@
               <li id="workflow-publish" class="workflow-step workflow-publish-step">
                 <span class="workflow-number">9</span>
                 <div>
-                  <strong>Publish</strong>
+                  <strong>Prepare publisher branch</strong>
                   <span id="workflow-publish-state">—</span>
                   <button id="publish-book" class="workflow-action" type="button">Create publisher branch</button>
                 </div>
               </li>
+              <li id="workflow-publication" class="workflow-step workflow-publication-step">
+                <span class="workflow-number">10</span>
+                <div>
+                  <strong>Push &amp; merge PR</strong>
+                  <span id="workflow-publication-state">—</span>
+                </div>
+              </li>
             </ol>
             <pre id="workflow-output" class="workflow-output" hidden></pre>
+            <section id="publication-handoff" class="publication-handoff" hidden aria-labelledby="publication-handoff-title">
+              <p class="eyebrow">Human publication step</p>
+              <h3 id="publication-handoff-title">Publication is not finished</h3>
+              <p>The publisher branch exists only locally. This book will not appear on <code>cgv-data/main</code> or in the Reader until you push this branch and merge its pull request.</p>
+              <p class="publication-instruction"><strong>1. Push the prepared branch</strong></p>
+              <div class="publication-command-row">
+                <code id="publication-push-command"></code>
+                <button id="copy-publication-command" class="secondary-action" type="button">Copy command</button>
+              </div>
+              <p class="publication-instruction"><strong>2. Open and merge the pull request</strong></p>
+              <a id="publication-pr-link" class="primary-action publication-pr-link" href="#" target="_blank" rel="noreferrer">Open pull request</a>
+              <p id="publication-copy-status" class="modal-message" role="status" aria-live="polite"></p>
+              <p class="publication-aftercare">After merging, update your local <code>cgv-data/main</code> and reload Translator. Only then will this workflow say the book is published.</p>
+            </section>
           </section>
         </article>
       </section>
@@ -430,15 +451,15 @@
     <div id="workflow-publish-modal" class="modal-backdrop" hidden>
       <section class="modal-panel workflow-publish-panel" role="dialog" aria-modal="true" aria-labelledby="workflow-publish-title">
         <div class="modal-header">
-          <p class="eyebrow">Final publication handoff</p>
-          <h2 id="workflow-publish-title">Publish this book</h2>
-          <p class="modal-guidance">Translator will validate the exported package and create a local publisher branch with only this book’s text and alignment. It will not push the branch or open a pull request.</p>
+          <p class="eyebrow">Publication preparation</p>
+          <h2 id="workflow-publish-title">Prepare the publisher branch</h2>
+          <p class="modal-guidance">Translator will validate the exported package and create a local branch containing only this book’s text and alignment. This does not publish the book to <code>cgv-data/main</code> or the Reader. You must push and merge the pull request afterward.</p>
         </div>
         <label class="field-label" for="workflow-publish-destination">cgv-data checkout</label>
         <input id="workflow-publish-destination" type="text" autocomplete="off" spellcheck="false" />
         <label class="workflow-confirmation">
           <input id="workflow-publish-confirmation" type="checkbox" />
-          <span>I want Translator to create the local publisher branch and commit now.</span>
+          <span>I understand this prepares a local branch but does not publish the book, and I want Translator to create it now.</span>
         </label>
         <p id="workflow-publish-message" class="modal-message" role="status" aria-live="polite"></p>
         <div class="modal-actions">
