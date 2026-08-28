@@ -99,8 +99,11 @@ It must require explicit confirmation before invoking `publish.py`, must never
 pass `--push`, and must stop after displaying the local publisher branch,
 commit, and pull-request link emitted by the canonical publisher.
 Translator must label that result **publisher branch prepared**, not
-**published**. Publication is complete only when the matching `sourceCommit`
-exists in the two canonical LBF paths on `cgv-data/main`.
+**published**. Publication is complete when the two canonical LBF paths on
+`cgv-data/main` already carry this book's finished content: either the
+package `sourceCommit`, or an earlier publish whose translation and alignment
+files are unchanged at `HEAD`. A later re-export or leftover publisher branch
+must not reopen the create-branch step.
 
 A published `sourceCommit` must name a commit that contains the work it
 claims. The book's translation, its alignment, and its `STATUS.md` row must

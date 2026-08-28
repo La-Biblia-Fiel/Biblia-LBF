@@ -1245,11 +1245,13 @@ function renderBookWorkflow(payload) {
   workflowExportState.textContent = exported
     ? `Package ready at ${payload.export.packageDir}`
     : (payload.export?.problem || "Waiting for the source commit");
-  workflowPublishState.textContent = branchPrepared || published
-    ? `Local branch ${state.publicationResult?.branch || payload.publisher?.branch} prepared`
-    : exported
-      ? "Ready to create a local publisher branch"
-      : "Export this book first";
+  workflowPublishState.textContent = published
+    ? "Already on cgv-data/main — no new branch needed"
+    : branchPrepared
+      ? `Local branch ${state.publicationResult?.branch || payload.publisher?.branch} prepared`
+      : exported
+        ? "Ready to create a local publisher branch"
+        : "Export this book first";
   workflowPublicationState.textContent = published
     ? "Present on cgv-data/main"
     : branchPrepared
@@ -1278,7 +1280,11 @@ function renderBookWorkflow(payload) {
   exportBookButton.disabled = state.workflowBusy || !finished || !committed || exported;
   exportBookButton.textContent = exported ? "Exported" : "Export book";
   publishBookButton.disabled = state.workflowBusy || state.publishBusy || !exported || branchPrepared || published;
-  publishBookButton.textContent = branchPrepared || published ? "Branch prepared" : "Create publisher branch";
+  publishBookButton.textContent = published
+    ? "Published"
+    : branchPrepared
+      ? "Branch prepared"
+      : "Create publisher branch";
 
   const messages = {
     "verify-translation": "Translation work is saved. Run the canonical verifier.",
@@ -1290,7 +1296,7 @@ function renderBookWorkflow(payload) {
     export: "The book is finished. Export the validated package.",
     publish: "The package is current. Prepare its local publisher branch.",
     "publish-pr": "The branch is only local. Push it and merge its pull request before the book can reach the Reader.",
-    complete: "The current export is present on cgv-data/main. Publication is complete."
+    complete: "This book's finished content is on cgv-data/main. Publication is complete."
   };
   workflowSummary.dataset.state = "ready";
   workflowSummary.textContent = messages[payload.workflow?.nextAction] || "Continue with the highlighted step.";

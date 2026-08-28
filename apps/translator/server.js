@@ -511,64 +511,126 @@ async function readExportState(bookId) {
   }
 }
 
+async function runDataGit(args, { allowFailure = false } = {}) {
+  try {
+    const result = await execFileAsync("git", args, {
+      cwd: defaultDataRepo,
+      encoding: "utf8",
+      maxBuffer: 8 * 1024 * 1024
+    });
+    return { ok: true, stdout: String(result.stdout || "").trim(), stderr: String(result.stderr || "").trim() };
+  } catch (error) {
+    const result = {
+      ok: false,
+      stdout: String(error?.stdout || "").trim(),
+      stderr: String(error?.stderr || "").trim()
+    };
+    if (allowFailure) return result;
+    throw new Error(result.stderr || result.stdout || error.message);
+  }
+}
+
+async function readPublishedBookFromRef(bookSlug, ref) {
+  try {
+    const [textResult, alignmentResult] = await Promise.all([
+      execFileAsync("git", [
+        "-C",
+        defaultDataRepo,
+        "show",
+        `${ref}:bibles/LBF/${bookSlug}.lbf.md`
+      ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 }),
+      execFileAsync("git", [
+        "-C",
+        defaultDataRepo,
+        "show",
+        `${ref}:bibles/LBF/alignments/${bookSlug}.alignment.json`
+      ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 })
+    ]);
+    const textCommit = String(textResult.stdout || "").match(/^\s*sourceCommit:\s*([0-9a-f]{40})\s*$/mu)?.[1] || "";
+    const alignment = JSON.parse(String(alignmentResult.stdout || "{}"));
+    const alignmentCommit = String(alignment.sourceCommit || "");
+    if (!textCommit || textCommit !== alignmentCommit) return null;
+    return {
+      sourceCommit: textCommit,
+      publishedAt: String(alignment.publishedAt || "")
+    };
+  } catch {
+    return null;
+  }
+}
+
+async function bookContentUnchangedSince(bookSlug, sourceCommit) {
+  if (!sourceCommit) return false;
+  const paths = gitPathsForBook(bookSlug);
+  const result = await runGit([
+    "diff",
+    "--quiet",
+    sourceCommit,
+    "HEAD",
+    "--",
+    paths.translation,
+    paths.alignment
+  ], { allowFailure: true });
+  // exit 0 = unchanged, exit 1 = changed, other = missing commit / error
+  return result.ok;
+}
+
 async function readLocalPublicationState(bookSlug, exported) {
   const available = existsSync(join(defaultDataRepo, ".git"));
   const stamp = String(exported.publishedAt || "").match(/^(\d{4})-(\d{2})-(\d{2})T/u);
-  const branch = stamp ? `lbf-${bookSlug}-${stamp.slice(1).join("")}` : "";
-  const pullRequestUrl = branch
-    ? `https://github.com/Cultivados-en-Gracia-y-Verdad/cgv-data/compare/main...${branch}?expand=1`
-    : "";
-  const pushCommand = branch ? `git -C ${shellSingleQuote(defaultDataRepo)} push -u origin ${branch}` : "";
+  let branch = stamp ? `lbf-${bookSlug}-${stamp.slice(1).join("")}` : "";
+  const pullRequestUrlFor = name => (name
+    ? `https://github.com/Cultivados-en-Gracia-y-Verdad/cgv-data/compare/main...${name}?expand=1`
+    : "");
+  const pushCommandFor = name => (name
+    ? `git -C ${shellSingleQuote(defaultDataRepo)} push -u origin ${name}`
+    : "");
   const empty = {
     defaultDataRepo,
     destinationAvailable: available,
     localBranchReady: false,
     publishedToMain: false,
     branch,
-    pushCommand,
-    pullRequestUrl
+    pushCommand: pushCommandFor(branch),
+    pullRequestUrl: pullRequestUrlFor(branch)
   };
-  if (!available || !exported.ready || !branch) {
-    return empty;
+  if (!available) return empty;
+
+  // Refresh remote tip so a merged PR is visible without a manual fetch.
+  await runDataGit(["fetch", "--quiet", "origin", "main"], { allowFailure: true });
+
+  const onMain = await readPublishedBookFromRef(bookSlug, "origin/main");
+  const publishedToMain = Boolean(
+    onMain
+    && (
+      (exported.ready && onMain.sourceCommit === exported.sourceCommit)
+      || await bookContentUnchangedSince(bookSlug, onMain.sourceCommit)
+    )
+  );
+
+  if (!branch && onMain?.publishedAt) {
+    const mainStamp = String(onMain.publishedAt).match(/^(\d{4})-(\d{2})-(\d{2})T/u);
+    if (mainStamp) branch = `lbf-${bookSlug}-${mainStamp.slice(1).join("")}`;
   }
 
-  async function refContainsCurrentExport(ref) {
-    try {
-      const [textResult, alignmentResult] = await Promise.all([
-        execFileAsync("git", [
-          "-C",
-          defaultDataRepo,
-          "show",
-          `${ref}:bibles/LBF/${bookSlug}.lbf.md`
-        ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 }),
-        execFileAsync("git", [
-          "-C",
-          defaultDataRepo,
-          "show",
-          `${ref}:bibles/LBF/alignments/${bookSlug}.alignment.json`
-        ], { encoding: "utf8", maxBuffer: 8 * 1024 * 1024 })
-      ]);
-      const textCommit = String(textResult.stdout || "").match(/^\s*sourceCommit:\s*([0-9a-f]{40})\s*$/mu)?.[1] || "";
-      const alignmentCommit = String(JSON.parse(String(alignmentResult.stdout || "{}")).sourceCommit || "");
-      return textCommit === exported.sourceCommit && alignmentCommit === exported.sourceCommit;
-    } catch {
-      return false;
-    }
-  }
+  const branchExists = branch
+    ? (await runDataGit(["rev-parse", "--verify", branch], { allowFailure: true })).ok
+      || (await runDataGit(["rev-parse", "--verify", `origin/${branch}`], { allowFailure: true })).ok
+    : false;
+  const onBranch = branch ? await readPublishedBookFromRef(bookSlug, branch) : null;
+  const localBranchReady = publishedToMain
+    || branchExists
+    || Boolean(onBranch && exported.ready && onBranch.sourceCommit === exported.sourceCommit);
 
-  try {
-    const [localBranchReady, remoteMainReady] = await Promise.all([
-      refContainsCurrentExport(branch),
-      refContainsCurrentExport("origin/main")
-    ]);
-    return {
-      ...empty,
-      localBranchReady,
-      publishedToMain: remoteMainReady
-    };
-  } catch {
-    return empty;
-  }
+  return {
+    ...empty,
+    branch,
+    pushCommand: pushCommandFor(branch),
+    pullRequestUrl: pullRequestUrlFor(branch),
+    localBranchReady,
+    publishedToMain,
+    publishedSourceCommit: onMain?.sourceCommit || ""
+  };
 }
 
 async function stageSelectedStatusRow(bookSlug, liveRow) {
@@ -1938,6 +2000,46 @@ async function handleBookWorkflow(request, response, url) {
     if (!exported.ready) {
       sendJson(response, 409, {
         error: exported.problem || "Export this book before publishing it.",
+        workflow: await readBookWorkflow(bookId)
+      });
+      return;
+    }
+    const already = await readLocalPublicationState(current.slug, exported);
+    if (already.publishedToMain) {
+      sendJson(response, 200, {
+        ok: true,
+        output: `${current.slug} is already present on cgv-data/main`
+          + (already.publishedSourceCommit
+            ? ` (sourceCommit ${already.publishedSourceCommit.slice(0, 12)}).`
+            : ".")
+          + " No new publisher branch is needed.",
+        publication: {
+          branch: already.branch,
+          commit: already.publishedSourceCommit || "",
+          dataRepo: already.defaultDataRepo,
+          pushCommand: already.pushCommand,
+          pullRequestUrl: already.pullRequestUrl,
+          alreadyPublished: true
+        },
+        workflow: await readBookWorkflow(bookId)
+      });
+      return;
+    }
+    if (already.localBranchReady && already.branch) {
+      sendJson(response, 200, {
+        ok: true,
+        output: `Publisher branch ${already.branch} already exists in ${already.defaultDataRepo}.\n`
+          + "Push it and merge its pull request — do not create it again.\n"
+          + `  ${already.pushCommand}\n`
+          + `  ${already.pullRequestUrl}`,
+        publication: {
+          branch: already.branch,
+          commit: "",
+          dataRepo: already.defaultDataRepo,
+          pushCommand: already.pushCommand,
+          pullRequestUrl: already.pullRequestUrl,
+          alreadyPrepared: true
+        },
         workflow: await readBookWorkflow(bookId)
       });
       return;
