@@ -12,7 +12,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 
 | book | testament | translation | alignment | translation_by | translation_on | alignment_by | alignment_on | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| genesis | ot | none | none |  |  |  |  |  |
+| genesis | ot | done | done | John Wry | 2026-08-28 | John Wry | 2026-08-28 |  |
 | exodo | ot | none | none |  |  |  |  |  |
 | levitico | ot | none | none |  |  |  |  |  |
 | numeros | ot | none | none |  |  |  |  |  |
