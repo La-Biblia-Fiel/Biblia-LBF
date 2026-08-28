@@ -34,8 +34,8 @@ export const NT_BOOKS = [
 ];
 
 export const OT_PILOT_BOOKS = [
-  { id: "genesis", label: "Genesis", oshbFile: "Gen.xml", bleSlug: "genesis", usfm: "GEN", number: 1 },
-  { id: "jonah", label: "Jonah", oshbFile: "Jonah.xml", bleSlug: "jonas", usfm: "JON", number: 32 }
+  { id: "genesis", label: "Genesis", oshbFile: "Gen.xml", bleSlug: "genesis", usfm: "GEN", number: 1, bookCode: 1, spine: "oshb" },
+  { id: "jonah", label: "Jonah", oshbFile: "Jonah.xml", bleSlug: "jonas", usfm: "JON", number: 32, bookCode: 32, spine: "oshb" }
 ];
 
 /** OT books with an OSHB spine under alignment/ot/{slug}/ */
@@ -61,7 +61,7 @@ export const OSHB_SPINE_BOOKS = [
 ];
 
 export function allTranslatorBooks() {
-  return [...NT_BOOKS, ...OSHB_SPINE_BOOKS];
+  return [...NT_BOOKS, ...OT_PILOT_BOOKS, ...OSHB_SPINE_BOOKS];
 }
 
 export function lbfHome(book) {

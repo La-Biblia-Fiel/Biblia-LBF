@@ -3,7 +3,7 @@
  */
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
-import { findBook, sourceTokenId, NT_BOOKS, OT_PILOT_BOOKS } from "./bookCatalog.js";
+import { findBook, sourceTokenId, NT_BOOKS, OT_PILOT_BOOKS, lbfHome } from "./bookCatalog.js";
 
 function oshbStrongsFromLemma(lemma) {
   const match = String(lemma || "").match(/(\d{3,5})/u);
@@ -274,7 +274,9 @@ async function loadTrSpineUnits(rootDir, book) {
  * Maps surface→greek / es→ble so the existing interlinear UI can render.
  */
 async function loadOshbSpineUnits(rootDir, book) {
-  const spinePath = join(rootDir, "translations", "oshb-spine", book.id, `${book.id}-oshb-spine.json`);
+  const { slug, testament } = lbfHome(book);
+  const repoRoot = join(rootDir, "..", "..");
+  const spinePath = join(repoRoot, "alignment", testament, slug, `${slug}-oshb-spine.json`);
   const raw = await readFirstExistingFile([spinePath]);
   if (!raw) return null;
   let spine;
@@ -340,7 +342,7 @@ export async function loadNtBookUnits(rootDir, bookId = "titus") {
   if (trLoaded) return trLoaded;
 
   if (book.spine === "oshb") {
-    throw new Error(`OSHB spine missing for ${book.id}`);
+    return { book, units: [], textualBasis: "OSHB/WLC" };
   }
 
   const bookCode = book.bookCode || book.number;
@@ -455,7 +457,7 @@ export function listNtBooks() {
 export async function loadOshbPilotChapter(rootDir, bookId = "jonah", chapter = 1) {
   const book = OT_PILOT_BOOKS.find(b => b.id === String(bookId || "").toLowerCase()) || null;
   if (!book) throw new Error(`Unknown OT pilot book: ${bookId}`);
-  const xmlPath = join(rootDir, "..", "Biblia-LBF", "source", "hebrew", "OSHB", "morphhb", "wlc", book.oshbFile);
+  const xmlPath = join(rootDir, "..", "..", "source", "hebrew", "OSHB", "morphhb", "wlc", book.oshbFile);
   const xml = await readFile(xmlPath, "utf8");
   const chapterRe = new RegExp(`<chapter n="${chapter}">([\\s\\S]*?)</chapter>`, "u");
   const chapterMatch = xml.match(chapterRe);

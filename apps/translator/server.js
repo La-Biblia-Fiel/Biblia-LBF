@@ -183,14 +183,17 @@ function normalizeTranslationPhrases(value) {
         ? item.sourceTokenIds.map(String)
         : tokenRows.map(row => row.sourceTokenId).filter(Boolean);
       const greekFromTokens = tokenRows.map(row => row.greek).filter(Boolean).join(" ");
+      const hebrew = typeof item.hebrew === "string" ? item.hebrew : "";
+      const greek = typeof item.greek === "string" && item.greek.trim()
+        ? item.greek
+        : (hebrew || greekFromTokens);
       return {
         reference: typeof item.reference === "string" && item.reference.trim()
           ? item.reference.trim()
           : "Titus 1:1",
         phraseIndex: Number.isInteger(Number(item.phraseIndex)) ? Number(item.phraseIndex) : index,
-        greek: typeof item.greek === "string" && item.greek.trim()
-          ? item.greek
-          : greekFromTokens,
+        hebrew,
+        greek,
         spanish: typeof item.spanish === "string" ? item.spanish : "",
         sourceTokenIds,
         tokenRows,
@@ -222,15 +225,45 @@ async function readExistingTranslationPhrases(phraseFile) {
   }
 }
 
+function toOshbPhraseRecord(phrase) {
+  const tokenRows = Array.isArray(phrase.tokenRows)
+    ? phrase.tokenRows.map(row => ({
+      sourceTokenId: row.sourceTokenId || "",
+      surface: row.surface || row.greek || "",
+      lemma: row.lemma || "",
+      morph: row.morph || row.rmac || "",
+      ...(row.lang ? { lang: row.lang } : {}),
+      ...(row.oshbId ? { oshbId: row.oshbId } : {})
+    }))
+    : [];
+  return {
+    phraseIndex: phrase.phraseIndex,
+    reference: phrase.reference,
+    chapter: phrase.chapter,
+    verse: phrase.verse,
+    spanish: phrase.spanish || "",
+    hebrew: phrase.hebrew || phrase.greek || "",
+    sourceTokenIds: Array.isArray(phrase.sourceTokenIds) ? phrase.sourceTokenIds : [],
+    tokenRows
+  };
+}
+
 async function writeTranslationPhrases(phraseFile, phrases, book, textualBasis) {
   await mkdir(dirname(phraseFile), { recursive: true });
   if (book?.spine === "oshb") {
-    let existing = {};
+    let existing = null;
     try {
       existing = JSON.parse(await readFile(phraseFile, "utf8"));
-      if (Array.isArray(existing)) existing = {};
     } catch {
-      existing = {};
+      existing = null;
+    }
+    if (Array.isArray(existing) || existing == null) {
+      await writeFile(
+        phraseFile,
+        `${JSON.stringify(phrases.map(toOshbPhraseRecord), null, 2)}\n`,
+        "utf8"
+      );
+      return;
     }
     const doc = {
       ...existing,
@@ -281,7 +314,8 @@ function mergeTranslationPhraseSaves(incoming, existing) {
       phraseIndex: key,
       // Keep seed identity stable; client may only revise Spanish (+ source label).
       reference: prev.reference,
-      greek: prev.greek || item.greek || "",
+      hebrew: prev.hebrew || item.hebrew || "",
+      greek: prev.greek || item.greek || prev.hebrew || item.hebrew || "",
       sourceTokenIds: prev.sourceTokenIds?.length ? prev.sourceTokenIds : item.sourceTokenIds,
       rv1909Text: item.rv1909Text || prev.rv1909Text || "",
       bleText: item.bleText || prev.bleText || "",
@@ -602,6 +636,54 @@ async function commitFinishedBook(bookId, { message, humanConfirmation }) {
       await runGit(["restore", "--staged", "--", "STATUS.md", paths.translation, paths.alignment], { allowFailure: true });
     }
   }
+}
+
+function tokenVerseIndexFromSpine(spine) {
+  const tokenVerse = new Map();
+  for (const [cv, verse] of Object.entries(spine?.verses || {})) {
+    for (const token of verse?.tokens || []) {
+      if (token?.sourceTokenId) tokenVerse.set(String(token.sourceTokenId), cv);
+    }
+  }
+  return tokenVerse;
+}
+
+function tokenVerseIndexFromPhrases(phrases) {
+  const tokenVerse = new Map();
+  for (const phrase of phrases || []) {
+    const cv = Number.isInteger(Number(phrase.chapter)) && Number.isInteger(Number(phrase.verse))
+      ? `${Number(phrase.chapter)}:${Number(phrase.verse)}`
+      : String(phrase.reference || "").match(/(\d+:\d+)\s*$/u)?.[1] || "";
+    for (const row of phrase.tokenRows || []) {
+      if (row?.sourceTokenId) tokenVerse.set(String(row.sourceTokenId), cv);
+    }
+  }
+  return tokenVerse;
+}
+
+async function loadSourceTokenVerseIndex(paths) {
+  const { slug } = lbfHome(paths.book);
+  const alignDir = dirname(paths.reverseLinksFile);
+  const spineCandidates = [
+    join(alignDir, `${slug}-oshb-spine.json`),
+    join(alignDir, `${slug}-tr-spine.json`)
+  ];
+  for (const candidate of spineCandidates) {
+    try {
+      const index = tokenVerseIndexFromSpine(JSON.parse(await readFile(candidate, "utf8")));
+      if (index.size) return index;
+    } catch {
+      // Try the other canonical spine, then the phrase file.
+    }
+  }
+  try {
+    const phrases = extractPhraseArray(JSON.parse(await readFile(paths.phraseFile, "utf8")));
+    const index = tokenVerseIndexFromPhrases(phrases);
+    if (index.size) return index;
+  } catch {
+    // No phrase-token index either.
+  }
+  return null;
 }
 
 function alignmentMethodCounts(doc = {}) {
@@ -962,7 +1044,7 @@ async function enrichTranslationPhraseRecords(phrases, bookId = "titus") {
 
     return {
       ...phrase,
-      greek: greekFromTokens || phrase.greek || "",
+      greek: greekFromTokens || phrase.greek || phrase.hebrew || "",
       sourceTokenIds: tokenIds,
       tokenRows,
       rv1909Text,
@@ -1689,30 +1771,10 @@ async function handleReverseLinks(request, response, url) {
     return;
   }
 
-  const { slug } = lbfHome(paths.book);
-  const alignDir = dirname(paths.reverseLinksFile);
-  const spineCandidates = [
-    join(alignDir, `${slug}-oshb-spine.json`),
-    join(alignDir, `${slug}-tr-spine.json`)
-  ];
-  let spine = null;
-  for (const candidate of spineCandidates) {
-    try {
-      spine = JSON.parse(await readFile(candidate, "utf8"));
-      break;
-    } catch {
-      // Try the other canonical spine kind.
-    }
-  }
-  if (!spine) {
+  const tokenVerse = await loadSourceTokenVerseIndex(paths);
+  if (!tokenVerse?.size) {
     sendJson(response, 409, { error: "The canonical source-token spine is missing." });
     return;
-  }
-  const tokenVerse = new Map();
-  for (const [cv, verse] of Object.entries(spine.verses || {})) {
-    for (const token of verse?.tokens || []) {
-      if (token?.sourceTokenId) tokenVerse.set(String(token.sourceTokenId), cv);
-    }
   }
   const cv = String(link.mtReference || link.reference || "").match(/(\d+:\d+)\s*$/u)?.[1] || "";
   const validatedTokenIds = confirmPhrase
