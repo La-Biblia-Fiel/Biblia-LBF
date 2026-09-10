@@ -2227,1393 +2227,1393 @@ Y no subirás en subidas sobre mi altar, que no sea descubierta tu desnudez sobr
 
 ### 21:1
 
-Estos son los juicios que pondrás delante de ellos.
+Y estos los juicios que pondrás a faces de ellos.
 
 ### 21:2
 
-Si compras un siervo hebreo, seis años servirá, y en el séptimo saldrá libre sin nada.
+Si compras siervo hebreo, seis años servirá, y en la séptima saldrá a lo libre de gracia.
 
 ### 21:3
 
-Si entra como siervo por su propio cuerpo, saldrá como siervo por su propio cuerpo.
+Si en su cuerpo entra, en su cuerpo saldrá; si dueño de mujer él, y saldrá su mujer con él.
 
 ### 21:4
 
-Si su señor le da una mujer y le da hijos o hijas, la mujer y sus hijos serán del señor; pero él saldrá solo.
+Si su señor da a él mujer, y parió a él hijos o hijas, la mujer y sus niños será a su señor, y él saldrá en su cuerpo.
 
 ### 21:5
 
-Si el siervo dice: ‘Amo a mi señor, a su mujer y a sus hijos; no quiero salir libremente’.
+Y si de decir dice el siervo: Amé a mi señor, a mi mujer y a mis hijos; no saldré libre:
 
 ### 21:6
 
-Entonces su señor lo llevará ante Dios y lo llevará a la puerta o al marco de la puerta, y su señor le perforará la oreja con un aguijón, y él servirá de por vida.
+Y lo acercará su señor al Dios, y lo acercará a la puerta o a la mezuzá, y horadará su señor su oreja con el punzón, y lo servirá para siempre.
 
 ### 21:7
 
-Si un hombre vende a su hija como sierva, no saldrá como salen las siervas.
+Y cuando venda un varón a su hija a sierva, no saldrá como salir de los siervos.
 
 ### 21:8
 
-Si no le agrada a su señor que la trate como sierva, no la venderá a un extranjero, ya que no la tratará con dureza.
+Si mala en ojos de su señor que a él la destinó, y la hará redimir; a pueblo extraño no señoreará a venderla, en su traicionar en ella.
 
 ### 21:9
 
-Si le nombra a su hijo, la tratará como a las hijas.
+Y si a su hijo la destina, como juicio de las hijas hará a ella.
 
 ### 21:10
 
-Si toma otra mujer para sí, no reducirá su comida, su ropa ni su derecho de casarse.
+Si otra toma para sí, su carne, su cubierta y su oná no disminuirá.
 
 ### 21:11
 
-Si no hace esas tres cosas, saldrá libremente sin pagar.
+Y si tres estas no hace a ella, y saldrá de gracia, no hay plata.
 
 ### 21:12
 
-Si alguien hiere a otro y muere, debe morir.
+Hiriente de varón y muere, de morir será muerto.
 
 ### 21:13
 
-Si alguien no cazó intencionadamente y el Señor lo llevó a la mano, pondré un lugar donde pueda huir.
+Y el que no cazó, y el Dios hizo ocurrir a su mano, y pondré a ti lugar que huirá allá.
 
 ### 21:14
 
-Si alguien se esfuerza por matar a su vecino con astucia, lo sacarán del altar para que muera.
+Y cuando se ensoberbezca un varón sobre su compañero para matarlo en astucia, de con mi altar lo tomarás para morir.
 
 ### 21:15
 
-Si alguien hiere a su padre o a su madre, debe morir.
+Y hiriente de su padre y su madre, de morir será muerto.
 
 ### 21:16
 
-Si alguien roba a una persona y la vende, debe morir.
+Y robador de varón y lo vendió, y es hallado en su mano, de morir será muerto.
 
 ### 21:17
 
-Si alguien maldice a su padre o a su madre, debe morir.
+Y maldiciente de su padre y su madre, de morir será muerto.
 
 ### 21:18
 
-Si dos personas se pelean y uno golpea a su vecino con una piedra o con el puño, y no muere, sino que cae en cama.
+Y cuando riñan varones, y hirió un varón a su compañero con piedra o con puño, y no muere, y cayó a yacer:
 
 ### 21:19
 
-Si se levanta y anda fuera con su bastón, el que lo golpeó quedará libre, pero dará al que fue golpeado el tiempo que estuvo acostado.
+si se levanta y se pasea afuera sobre su bastón, y será limpio el hiriente; solo su sentar dará, y de sanar sanará.
 
 ### 21:20
 
-Si un hombre golpea a su siervo o a su sierva con un bastón y este o esta muere a causa de ese golpe, se vengará.
+Y cuando hiera un varón a su siervo o a su sierva con la vara, y muere bajo su mano, de vengar será vengado.
 
 ### 21:21
 
-Pero si vive un día o dos, no se vengará, porque es su dinero.
+Mas si día o dos días se para, no será vengado, porque su plata él.
 
 ### 21:22
 
-Si dos hombres se pelean y golpean a una mujer embarazada, y nacen los hijos, pero no hay daño, el que golpeó será castigado según lo que el juez determine.
+Y cuando forcejeen varones, y golpearon a mujer preñada, y salieron sus niños, y no será desastre, de multar será multado como que ponga sobre él dueño de la mujer, y dará en pelilim.
 
 ### 21:23
 
-Si hay daño, dará vida por vida.
+Y si desastre será, y darás alma bajo alma.
 
 ### 21:24
 
-Ojo por ojo, diente por diente, mano por mano, pie por pie.
+Ojo bajo ojo, diente bajo diente, mano bajo mano, pie bajo pie.
 
 ### 21:25
 
-Quemadura por quemadura, herida por herida, cicatriz por cicatriz.
+Quemadura bajo quemadura, herida bajo herida, magulladura bajo magulladura.
 
 ### 21:26
 
-Si un hombre golpea el ojo de su siervo o de su sierva y lo daña, dejará libre al siervo o a la sierva por su ojo.
+Y cuando hiera un varón ojo de su siervo o ojo de su sierva y la corrompió, a lo libre lo enviará bajo su ojo.
 
 ### 21:27
 
-Si un hombre hace caer un diente de su siervo o de su sierva, dejará libre al siervo o a la sierva por su diente.
+Y si diente de su siervo o diente de su sierva hace caer, a lo libre lo enviará bajo su diente.
 
 ### 21:28
 
-Si un buey golpea a un hombre o a una mujer y muere, se apedreará al buey y no se comerá su carne; pero el dueño del buey quedará libre de culpa.
+Y cuando cornee un buey a varón o a mujer y muere, de apedrear será apedreado el buey, y no será comida su carne, y dueño del buey limpio.
 
 ### 21:29
 
-Si el buey ha golpeado antes y se ha advertido al dueño, pero no lo ha guardado, y el buey mata a un hombre o a una mujer, el buey será apedreado y también el dueño será castigado.
+Y si buey corneador él desde ayer anteayer, y fue testificado en sus dueños, y no lo guardó, y mató a varón o a mujer, el buey será apedreado, y también sus dueños será muerto.
 
 ### 21:30
 
-Si se le ofrece un rescate al dueño, pagará el rescate para la vida del hombre, según lo que se le ofrece.
+Si cubierta es puesta sobre él, y dará redención de su alma como todo lo que es puesto sobre él.
 
 ### 21:31
 
-O si golpea a un hijo o a una hija, se hará con él lo que se ha decidido.
+O a hijo corneará o a hija corneará, como el juicio este será hecho a él.
 
 ### 21:32
 
-Si el buey golpea a un siervo o a una sierva, pagará treinta siclos de plata al dueño del siervo o de la sierva, y el buey será apedreado.
+Si a siervo cornea el buey o a sierva, plata, treinta siclos, dará a su señor, y el buey será apedreado.
 
 ### 21:33
 
-Si un hombre abre un pozo o si lo cava y no lo cubre, y un buey o un asno caen en él, el dueño del pozo pagará.
+Y cuando abra un varón un pozo, o cuando cave un varón un pozo, y no lo cubra, y cayó allá buey o asno:
 
 ### 21:34
 
-El dueño del pozo pagará la indemnización al dueño del buey o del asno, y el muerto quedará para él.
+dueño del pozo pagará; plata devolverá a sus dueños, y el muerto será a él.
 
 ### 21:35
 
-Si un hombre hierre un buey de su vecino y muere, venderán el buey vivo y repartirán su precio, y el muerto será para él.
+Y cuando golpee buey de varón a buey de su compañero y muere, y venderán al buey el vivo, y partirán su plata, y también al muerto partirán.
 
 ### 21:36
 
-O bien, si se sabe que el buey era agresivo desde ayer y su dueño no lo ha guardado, el dueño del buey pagará en pleno el buey muerto, y el muerto quedará para él.
+O fue conocido que buey corneador él desde ayer anteayer, y no lo guardó sus dueños, de pagar pagará buey bajo el buey, y el muerto será a él.
 
 ## Capítulo 22
 
 ### 22:1
 
-Si un hombre roba un buey o una oveja y lo mata o lo vende, pagará cinco bueyes por el buey y cuatro ovejas por la oveja.
+Si roba un varón buey o oveja, y lo degolló o lo vendió, cinco ganado pagará bajo el buey, y cuatro rebaño bajo la oveja.
 
 ### 22:2
 
-Si el ladrón es sorprendido con vida, será golpeado y morirá; no se le exigirá sangre.
+Si en el horado es hallado el ladrón, y fue herido y murió, no hay a él sangres.
 
 ### 22:3
 
-Si el sol se levanta sobre él, pagará en pleno; si no tiene, será vendido para su robo.
+Si brilló el sol sobre él, sangres a él; de pagar pagará; si no hay a él, y será vendido en su robo.
 
 ### 22:4
 
-Si se encuentra el robo en su mano, ya sea un buey o un asno o una oveja viva, pagará doble.
+Si de hallar es hallada en su mano la robada, desde buey hasta asno hasta oveja, vivos, dos pagará.
 
 ### 22:5
 
-Si un hombre enciende fuego en un campo o en una viña y lo deja correr y quema un campo de otro, pagará el mejor de su campo y el mejor de su viña.
+Si hace pastar un varón campo o viña, y envió su ganado, y pastó en campo de otro, lo mejor de su campo y lo mejor de su viña pagará.
 
 ### 22:6
 
-Si sale fuego y consume paja o espigas o el campo, pagará el que encendió el fuego.
+Si sale fuego y halló espinas, y fue comida montón o lo en pie o el campo, de pagar pagará el encendiente la quema.
 
 ### 22:7
 
-Si un hombre da a otro plata o utensilios para guardarlos, y se roban de la casa del hombre, el que roba será descubierto, y pagará dos veces.
+Si da un varón a su compañero plata o utensilios para guardar, y fue robado de casa del varón, si es hallado el ladrón, pagará dos.
 
 ### 22:8
 
-Si no se descubre al ladrón, el dueño de la casa se acercará a Dios. Si él no ha extendido su mano sobre los bienes de su vecino, Dios lo juzgará.
+Si no es hallado el ladrón, y se acercará dueño de la casa al Dios, si no envió su mano en obra de su compañero.
 
 ### 22:9
 
-Por toda falta, por un buey, por un asno, por una oveja, por un cordero, por cualquier cosa perdida, si dice: ‘Es esto mío’, vendrá a Dios la palabra de ambos, y Dios juzgará al culpable, y pagará al vecino dos veces.
+Sobre toda palabra de transgresión, sobre buey, sobre asno, sobre oveja, sobre manto, sobre toda pérdida que diga que él esto, hasta el Dios vendrá palabra de los dos; el que hagan impío Dios, pagará dos a su compañero.
 
 ### 22:10
 
-Si un hombre da a otro un asno, un buey, una oveja o cualquier animal para guardarlo, y muere o se rompe o es robado, y no hay testigo,
+Si da un varón a su compañero asno o buey o oveja y todo animal para guardar, y murió o fue quebrado o fue capturado, no hay vidente:
 
 ### 22:11
 
-jura Jehová entre ambos, si no ha extendido su mano sobre los bienes de su vecino, y el dueño de la casa no pagará.
+juramento de Jehová será entre los dos, si no envió su mano en obra de su compañero, y tomará su dueño, y no pagará.
 
 ### 22:12
 
-Si lo roba, pagará al dueño de la casa.
+Y si de robar es robado de con él, pagará a sus dueños.
 
 ### 22:13
 
-Si es devorado, traerá un testigo, y no pagará la carne devorada.
+Si de desgarrar es desgarrado, lo hará venir, testigo; la desgarrada no pagará.
 
 ### 22:14
 
-Si un hombre pide prestado a otro y se rompe o muere, y no está con él el dueño, pagará el dueño.
+Y cuando pida un varón de con su compañero, y fue quebrado o murió, su dueño no hay con él, de pagar pagará.
 
 ### 22:15
 
-Si el dueño está con él, no pagará. Si es un jornalero, trabajará su jornal.
+Si su dueño con él, no pagará; si jornalero él, vino en su jornal.
 
 ### 22:16
 
-Si seduce a una doncella que no está comprometida y duerme con ella, la pagará con su dote para que sea su esposa.
+Y cuando seduzca un varón a virgen que no fue desposada, y yació con ella, de mohar la mohará a él a mujer.
 
 ### 22:17
 
-Si el padre se niega a darla en matrimonio, pagará la dote de las doncellas.
+Si de rehusar rehúsa su padre a darla a él, plata pesará como mohar de las vírgenes.
 
 ### 22:18
 
-No dejarás con vida a la adivina.
+Hechicera no harás vivir.
 
 ### 22:19
 
-Todo aquel que se acueste con un animal será ejecutado.
+Todo yaciente con animal, de morir será muerto.
 
 ### 22:20
 
-No sacrificarás a tus dioses a nadie más que a Yahvé solo.
+Sacrificante a los dioses será hecho jérem, excepto a Jehová, a él solo.
 
 ### 22:21
 
-No oprimirás al extranjero ni lo tratarás con crueldad, porque también vosotros fuisteis extranjeros en la tierra de Egipto.
+Y a peregrino no oprimirás y no lo apretarás, porque peregrinos fuisteis en tierra de Mizraim.
 
 ### 22:22
 
-No oprimirás a la viuda ni al huérfano.
+Toda viuda y huérfano no afligiréis.
 
 ### 22:23
 
-Si oprimes a alguien, él clamará a mí, y yo escucharé su clamor.
+Si de afligir afliges a él, porque si de clamar clama a mí, de oír oiré su clamor.
 
 ### 22:24
 
-Y se encenderá mi ira contra vosotros, y os mataré a la espada; y vuestras mujeres serán viudas, y vuestros hijos huérfanos.
+Y arderá mi nariz, y mataré a ustedes a la espada, y serán vuestras mujeres viudas, y vuestros hijos huérfanos.
 
 ### 22:25
 
-Si prestas dinero a mi pueblo, al pobre que está contigo, no serás usurero con él, ni pondrás sobre él interés.
+Si plata prestas a mi pueblo, al pobre contigo, no serás a él como acreedor; no pondréis sobre él mordedura.
 
 ### 22:26
 
-Si tomas como garantía la ropa de tu amigo, antes de que salga el sol, devuélvesela.
+Si de prendar prendares manto de tu compañero, hasta entrar el sol lo devolverás a él.
 
 ### 22:27
 
-Porque es su única cobija, es su vestido para su cuerpo; ¿con qué se cubrirá? ¿Y a quién irá a pedir ayuda cuando se queje a mí, y yo escucharé, porque soy misericordioso?
+Porque ella su cubierta, a ella sola; ella su manto a su piel; ¿en qué yacerá? Y será que clame a mí, y oiré, porque clemente yo.
 
 ### 22:28
 
-A Dios no blasfemarás, y al príncipe de tu pueblo no maldirás.
+A Dios no maldecirás, y príncipe en tu pueblo no maldecirás.
 
 ### 22:29
 
-No tardarás en entregar la primicia de tu grano y el vino; la primicia de tus hijos darás a mí.
+Tu llenura y tu lágrima no tardarás; primogénito de tus hijos darás a mí.
 
 ### 22:30
 
-Así harás con tu buey y con tu oveja; siete días estará con su madre, al octavo día lo darás a mí.
+Así harás a tu buey, a tu rebaño; siete días será con su madre, en el día el octavo lo darás a mí.
 
 ### 22:31
 
-Seréis santos para mí, y la carne que muere en el campo a causa de una bestia, no la comeréis; la arrojaréis a los perros.
+Y varones de santidad seréis a mí; y carne en el campo desgarrada no comeréis; al perro la arrojaréis.
 
 ## Capítulo 23
 
 ### 23:1
 
-No tomarás en vano el nombre falso, y no pondrás tu mano con el malvado para ser testigo falso.
+No alzarás oída de vanidad; no pongas tu mano con malvado para ser testigo de violencia.
 
 ### 23:2
 
-No seguirás la multitud para hacer el mal, ni responderás a un litigio para inclinarte a la multitud para torcer.
+No serás detrás de muchos a males, y no responderás sobre pleito para inclinarte detrás de muchos para inclinar.
 
 ### 23:3
 
-Y al pobre no le tratarás con desdén en su litigio.
+Y a pobre no honrarás en su pleito.
 
 ### 23:4
 
-Si encuentras el buey o la mula de tu enemigo errante, lo devolverás a él.
+Si topas buey de tu enemigo o su asno errante, de devolver lo devolverás a él.
 
 ### 23:5
 
-Si ves el asno de tu enemigo caído debajo de su carga, no pasarás de largo; lo ayudarás a levantarlo.
+Si ves asno de tu aborrecedor agachado bajo su carga, y cesaste de dejar a él, de dejar dejarás con él.
 
 ### 23:6
 
-No torcerás el juicio del pobre en su litigio.
+No inclinarás juicio de tu menesteroso en su pleito.
 
 ### 23:7
 
-Lejos estarás de la palabra falsa, y no matarás al inocente y al justo, porque yo no justificaré al impío.
+De palabra de mentira te alejarás; y a limpio y a justo no mates, porque no justificaré a malvado.
 
 ### 23:8
 
-No tomarás soborno, porque el soborno ciega a los que tienen entendimiento y pervertirá las palabras de los justos.
+Y soborno no tomarás, porque el soborno ciega a abiertos y tuerce palabras de justos.
 
 ### 23:9
 
-No oprimirás al extranjero, porque sabéis lo que es ser extranjero, pues vosotros fuisteis extranjeros en la tierra de Egipto.
+Y a peregrino no apretarás; y ustedes conocisteis el alma del peregrino, porque peregrinos fuisteis en tierra de Mizraim.
 
 ### 23:10
 
-Seis años sembrarás tu tierra y recogerás su cosecha.
+Y seis años sembrarás tu tierra, y recogerás su producto.
 
 ### 23:11
 
-Pero en el séptimo dejarás que tu tierra descanse y no la siegues, para que los pobres de tu pueblo coman y lo que sobre recojan los animales del campo. Así harás con tu viña y con tus higos.
+Y la séptima la soltarás y la abandonarás, y comerán menesterosos de tu pueblo, y su resto comerá animal del campo; así harás a tu viña, a tu olivo.
 
 ### 23:12
 
-Seis días trabajarás y harás toda tu obra, pero el séptimo día dejarás descansar y te darás reposo, para que tu buey y tu asno descansen, y para que el siervo extranjero y la sierva extranjera se den reposo.
+Seis días harás tus obras, y en el día el séptimo cesarás, a fin de que descanse tu buey y tu asno, y se refresque hijo de tu sierva y el peregrino.
 
 ### 23:13
 
-En todo lo que te he dicho a vosotros, cuidaréis de guardarlo, y el nombre de otros dioses no mencionaréis, ni se oirá hablar de ellos en tu boca.
+Y en todo lo que dije a ustedes os guardaréis; y nombre de dioses otros no recordaréis, no será oído sobre tu boca.
 
 ### 23:14
 
-Tres veces al año celebrarás para mí una fiesta.
+Tres pies harás fiesta a mí en el año.
 
 ### 23:15
 
-Guardarás la fiesta de las panes sin levadura, siete días comerás panes sin levadura, como yo te he mandado, en el tiempo del mes de abib, porque en él saliste de Egipto. No vendrás a mí vacío.
+La fiesta de las matsot guardarás; siete días comerás matsot, como que te mandé, a tiempo señalado de mes del abib, porque en él saliste de Mizraim; y no serán vistos mis faces vacíos.
 
 ### 23:16
 
-Celebrarás la fiesta de las cosechas con los primeros frutos de lo que siembres en el campo, y celebrarás la fiesta de la cosecha al final del año, cuando recogas el producto de tu trabajo del campo.
+Y fiesta de la siega, primicias de tus obras que siembres en el campo; y fiesta de la recogida en el salir del año, en tu recoger tus obras desde el campo.
 
 ### 23:17
 
-Tres veces al año aparecerá todo varón tuyo ante el Señor, el Señor.
+Tres veces en el año será visto todo tu varón hacia faces del Adón Jehová.
 
 ### 23:18
 
-No sacrificarás sobre levadura el sangre de mi sacrificio, y no dejarás hasta la mañana la grasa de mi fiesta.
+No sacrificarás sobre jamets sangre de mi sacrificio, y no pernoctará gordura de mi fiesta hasta mañana.
 
 ### 23:19
 
-Traerás la primera cosecha de la tierra que te dé el Señer, tu Dios, al templo del Señor, tu Dios. No cocerás la cabrita con leche de su madre.
+Principio de primicias de tu suelo harás venir casa de Jehová tu Dios; no cocerás cabrito en leche de su madre.
 
 ### 23:20
 
-He aquí que envío un ángel delante de ti, para que te guarde en el camino y te lleve al lugar que he preparado.
+He aquí yo enviando mensajero a tus faces para guardarte en el camino, y para hacerte venir al lugar que establecí.
 
 ### 23:21
 
-Presta atención a él y escucha su voz. No te rebales contra él, porque él no perdonará tu rebelión, porque mi nombre está en él.
+Guárdate de sus faces, y oye en su voz; no amargues en él, porque no alzará a vuestra transgresión, porque mi nombre en su interior.
 
 ### 23:22
 
-Si escuchas su voz y haces todo lo que te digo, yo seré enemigo de tus enemigos y adversario de tus adversarios.
+Porque si de oír oyes en su voz, y haces todo lo que hable, y enemistaré a tus enemigos y apretaré a tus apretadores.
 
 ### 23:23
 
-Porque mi ángel irá delante de ti y te llevará a los amorreos, los hititas, los perizitas, los cananeos, los hititas, los jebuseos, y los destruiré.
+Porque andará mi mensajero a tus faces, y te hará venir al amorreo y el jiteo y el perizeo y el cananeo, el hiveo y el yebuseo, y lo haré oculto.
 
 ### 23:24
 
-No te postrarás ante sus dioses ni los servirás, ni harás según sus costumbres, porque los destruiré y los quebraré sus columnas.
+No te postrarás a sus dioses y no los servirás, y no harás como sus obras; porque de derruir los derruirás, y de quebrar quebrarás sus pilares.
 
 ### 23:25
 
-Servirás al SEÑOR, tu Dios, y bendeciré tu pan y tu agua, y quitaré enfermedad de tu medio.
+Y serviréis a Jehová vuestro Dios, y bendecirá tu pan y tus aguas, y quitaré enfermedad de tu interior.
 
 ### 23:26
 
-No habrá estériles ni barrenas en tu tierra; llenaré el número de tus días.
+No será deshijante y estéril en tu tierra; el número de tus días llenaré.
 
 ### 23:27
 
-Enviaré mi temor delante de ti y haré que todos los pueblos a quienes llegues sean mortales para ti, y haré que tus enemigos se vuelvan a ti la espalda.
+Mi terror enviaré a tus faces, y turbaré a todo el pueblo que vendrás en ellos, y daré a todos tus enemigos a ti nuca.
 
 ### 23:28
 
-Enviaré a las hormigas delante de ti y las echarán a los hititas, a los cananeos y a los hititas de tu presencia.
+Y enviaré a la tsir'á a tus faces, y echará al hiveo, al cananeo y al jiteo de tus faces.
 
 ### 23:29
 
-No las echaré de tu presencia de un año a otro, para que no se haga la tierra desierta y la bestia del campo se multiplique contra ti.
+No lo echaré de tus faces en año uno, no sea que sea la tierra desolación, y se multiplique sobre ti animal del campo.
 
 ### 23:30
 
-Las echaré de tu presencia poco a poco, hasta que tengas descendencia y heredes la tierra.
+Poco poco lo echaré de tus faces, hasta que fructifiques y heredes la tierra.
 
 ### 23:31
 
-Estableceré tus fronteras desde el mar Rojo hasta el mar de los Filisteos, y desde el desierto hasta el río, porque entregaré en tu mano a los habitantes de la tierra y los echarás de tu presencia.
+Y pondré tu límite desde mar de suf y hasta mar de pelishtim, y desde desierto hasta el río, porque daré en vuestra mano a los habitantes de la tierra, y los echarás de tus faces.
 
 ### 23:32
 
-No harás alianza con ellos ni con sus dioses.
+No cortarás a ellos y a sus dioses pacto.
 
 ### 23:33
 
-No habitarán en tu tierra, porque te corromperán, y tú servirás a sus dioses, y será para ti un lazo.
+No habitarán en tu tierra, no sea que te hagan pecar a mí, porque servirás a sus dioses, porque será a ti a lazo.
 
 ## Capítulo 24
 
 ### 24:1
 
-Y Jehová le dijo a Moisés: Sube a Jehová, tú y Aarón, Nadab y Abiú, y setenta de los ancianos de Israel; y adorarán desde lejos.
+Y a Moshe dijo: Sube a Jehová, tú y Aharón, Nadav y Avihú, y setenta de ancianos de Israel, y os postraréis desde lejos.
 
 ### 24:2
 
-Y Moisés se acercará solo, pero ellos no se acercarán, y el pueblo no subirá con él.
+Y se acercará Moshe, él solo, a Jehová, y ellos no se acercarán, y el pueblo no subirán con él.
 
 ### 24:3
 
-Y Moisés vino y contó al pueblo todas las palabras de Jehová y todos los estatutos. Y respondió todo el pueblo con una sola voz y dijeron: Todo lo que ha dicho Jehová lo haremos.
+Y vino Moshe y contó al pueblo todas las palabras de Jehová y todos los juicios. Y respondió todo el pueblo voz una, y dijeron: Todas las palabras que habló Jehová haremos.
 
 ### 24:4
 
-Y Moisés escribió todas las palabras de Jehová. Y al amanecer levantó un altar y doce piedras según los doce tribus de Israel.
+Y escribió Moshe todas las palabras de Jehová. Y madrugó en la mañana, y edificó altar bajo el monte, y doce pilar a doce tribus de Israel.
 
 ### 24:5
 
-Y envió Moisés a los jóvenes de los hijos de Israel, y estos ofrecieron holocaustos y sacrificios de paz a Jehová, toros.
+Y envió a los muchachos de hijos de Israel, y hicieron subir ofrendas-subida, y sacrificaron sacrificios ofrendas de paces a Jehová, toros.
 
 ### 24:6
 
-Y Moisés tomó la mitad del sangre y la puso en las copas, y la otra mitad la derramó sobre el altar.
+Y tomó Moshe mitad de la sangre y puso en las palanganas, y mitad de la sangre arrojó sobre el altar.
 
 ### 24:7
 
-Y tomó Moisés el libro de la alianza y leyólo en oídos del pueblo, y dijeron: Todo lo que ha hablado Jehová lo haremos y lo obedeceremos.
+Y tomó el libro del pacto, y leyó en oídos del pueblo, y dijeron: Todo lo que habló Jehová haremos y oiremos.
 
 ### 24:8
 
-Y tomó Moisés la sangre y la echó sobre el pueblo, y dijo: He aquí la sangre de la alianza que Jehová ha hecho con vosotros sobre todas estas palabras.
+Y tomó Moshe la sangre y arrojó sobre el pueblo, y dijo: He aquí sangre del pacto que cortó Jehová con ustedes sobre todas las palabras estas.
 
 ### 24:9
 
-Y subió Moisés y Aarón, Nadab y Abiú, y setenta de los ancianos de Israel.
+Y subió Moshe y Aharón, Nadav y Avihú, y setenta de ancianos de Israel.
 
 ### 24:10
 
-Y vieron a Dios de Israel, y debajo de sus pies parecía como obra de piedra de sapphire, como el cielo puro en su claridad.
+Y vieron a Dios de Israel, y bajo sus pies como obra de ladrillo de zafiro, y como hueso de los cielos a la pureza.
 
 ### 24:11
 
-Y a los príncipes de los hijos de Israel no extendió su mano, y vieron a Dios, y comieron y bebieron.
+Y a los nobles de hijos de Israel no envió su mano, y contemplaron al Dios, y comieron y bebieron.
 
 ### 24:12
 
-Y dijo Jehová a Moisés: Sube a la montaña y esté allí; y te daré las tablas de piedra, y la ley y los mandamientos que he escrito para enseñarles.
+Y dijo Jehová a Moshe: Sube a mí al monte, y sé allí, y daré a ti las tablas de la piedra y la tora y el mandamiento que escribí para enseñarlos.
 
 ### 24:13
 
-Y se levantó Moisés y Josué su ministro, y subió Moisés a la montaña de Dios.
+Y se levantó Moshe y Yehoshúa su sirviente, y subió Moshe a monte del Dios.
 
 ### 24:14
 
-Y a los ancianos dijo: Esperadnos aquí, hasta que volvamos a vosotros; y he aquí Aarón y Hur con vosotros; quien tenga algún negocio, que se acerque a ellos.
+Y a los ancianos dijo: Sentaos a nosotros en esto hasta que volvamos a ustedes; y he aquí Aharón y Jur con ustedes; quien dueño de palabras se acercará a ellos.
 
 ### 24:15
 
-Y subió Moisés al monte, y el velo de nube cubrió el monte.
+Y subió Moshe al monte, y cubrió la nube al monte.
 
 ### 24:16
 
-Y la gloria del SEÑOR se posó sobre el monte Sinaí, y el velo de nube lo cubrió por seis días. Y en el séptimo día él llamó a Moisés desde el velo de nube.
+Y moró gloria de Jehová sobre monte Sinái, y lo cubrió la nube seis días; y llamó a Moshe en el día el séptimo desde medio de la nube.
 
 ### 24:17
 
-Y la apariencia de la gloria del SEÑOR era como fuego devorador en la cumbre del monte, a los ojos de los hijos de Israel.
+Y visión de gloria de Jehová como fuego comiente en cabeza del monte, a ojos de hijos de Israel.
 
 ### 24:18
 
-Y Moisés entró en el velo de nube y subió al monte. Y Moisés estuvo en el monte cuarenta días y cuarenta noches.
+Y vino Moshe en medio de la nube, y subió al monte; y fue Moshe en el monte cuarenta día y cuarenta noche.
 
 ## Capítulo 25
 
 ### 25:1
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 25:2
 
-Habla a los hijos de Israel y que tomen para mí ofrenda voluntaria de todo hombre que ofrezca de corazón. Que tomen para mí ofrenda voluntaria.
+Habla a hijos de Israel, y tomen para mí terumá; de con todo varón que lo impulsa su corazón tomaréis mi terumá.
 
 ### 25:3
 
-Y esta es la ofrenda que tomarán de ellos: oro, plata y bronce.
+Y esta la terumá que tomaréis de con ellos: oro y plata y cobre.
 
 ### 25:4
 
-Y azul, púrpura, carmesí y lana fina, y bueyes.
+Y tecélet y argamán y gusano de escarlata y lino y cabras.
 
 ### 25:5
 
-Y pieles de carneros rojos, y pieles de tahash, y madera de acacia.
+Y pieles de carneros enrojecidas y pieles de tejashim y maderos de shitim.
 
 ### 25:6
 
-Aceite para la luz, especias para el ungüento y para el incienso aromático.
+Aceite para el luminar, aromas para aceite de la unción y para incienso de las especias.
 
 ### 25:7
 
-Piedras de shoham y piedras de obra para el efod y para el pecho de decisiones.
+Piedras de shoham y piedras de llenuras para el efod y para el pectoral.
 
 ### 25:8
 
-Y harán para mí un santuario, y habitaré en medio de ellos.
+Y harán para mí santuario, y moraré en medio de ellos.
 
 ### 25:9
 
-Como te he mostrado la forma de todo, así la harán: la forma del tabernáculo y la forma de todos sus instrumentos.
+Conforme a todo lo que yo haciendo ver a ti, el modelo de la morada y el modelo de todos sus utensilios, y así haréis.
 
 ### 25:10
 
-Harán un arca de madera de acacia, de dos cubits y medio su longitud, y un cubit y medio su anchura, y un cubit y medio su altura.
+Y harán arca de maderos de shitim; dos codos y medio a su largo, y codo y medio a su ancho, y codo y medio a su alto.
 
 ### 25:11
 
-Y la recubrirás de oro puro, desde adentro y desde fuera la recubrirás de oro, y sobre ella harás una corona de oro alrededor.
+Y recubrirás a ella oro puro; de casa y de fuera la recubrirás, y harás sobre ella filete de oro alrededor.
 
 ### 25:12
 
-Y derramarás sobre ella cuatro anillos de oro, y pondrás los anillos en los cuatro pies, dos anillos en un lado y dos anillos en el otro lado.
+Y fundirás a ella cuatro anillos de oro, y pondrás sobre sus cuatro pies; y dos anillos sobre su costado el uno, y dos anillos sobre su costado el segundo.
 
 ### 25:13
 
-Y harás varas de madera de acacia y las recubrirás de oro.
+Y harás varas de maderos de shitim, y recubrirás a ellas oro.
 
 ### 25:14
 
-Y las llevarás por los anillos, sobre las costillas del arca, para llevar el arca con ellas.
+Y harás entrar las varas en los anillos sobre los costados del arca, para alzar el arca en ellas.
 
 ### 25:15
 
-Las varas estarán en los anillos del arca; no se quitarán de ella.
+En los anillos del arca serán las varas; no se apartarán de ella.
 
 ### 25:16
 
-Y pondrás en el arca el testimonio que te daré.
+Y pondrás hacia el arca el testimonio que daré a ti.
 
 ### 25:17
 
-Y harás una tapa de oro puro; dos cubits y medio será su longitud y un cubit y medio su anchura.
+Y harás cubierta de oro puro; dos codos y medio a su largo, y codo y medio a su ancho.
 
 ### 25:18
 
-Y harás dos querubines de oro; los harás de un solo pedazo, de ambos lados de la tapa.
+Y harás dos querubim de oro; de martillo harás a ellos, de los dos extremos de la cubierta.
 
 ### 25:19
 
-Harás un querubín en un extremo y un querubín en el otro extremo; los harás de un solo pedazo con la tapa.
+Y haz querub uno de extremo de este, y querub uno de extremo de este; de la cubierta haréis los querubim sobre sus dos extremos.
 
 ### 25:20
 
-Los querubines tendrán sus alas extendidas hacia arriba, cubriendo con ellas la tapa; sus rostros mirarán hacia la tapa; los rostros de los querubines mirarán hacia adelante.
+Y serán los querubim extendiendo alas hacia arriba, cubriendo con sus alas sobre la cubierta, y sus faces varón a su hermano; hacia la cubierta serán faces de los querubim.
 
 ### 25:21
 
-Colocarás la tapa sobre el arca, y en el arca pondrás la ley que yo te daré.
+Y pondrás la cubierta sobre el arca desde arriba, y hacia el arca pondrás el testimonio que daré a ti.
 
 ### 25:22
 
-Y me reuniré contigo allí, y hablaré contigo desde la tapa, desde entre los dos querubines que están sobre el arca de la ley, todo lo que te ordenaré a los israelitas.
+Y me citaré a ti allí, y hablaré contigo de sobre la cubierta, de entre los dos querubim que sobre el arca del testimonio, todo lo que mandaré a ti a hijos de Israel.
 
 ### 25:23
 
-Harás un tablero de cedro, dos codos de largo, un codo de ancho y medio codo de alto.
+Y harás mesa de maderos de shitim; dos codos a su largo, y codo a su ancho, y codo y medio a su alto.
 
 ### 25:24
 
-Lo cubrirás de oro puro y harás para él una corona de oro alrededor.
+Y recubrirás a ella oro puro, y harás a ella filete de oro alrededor.
 
 ### 25:25
 
-Harás para él un borde de un dedo alrededor y harás una corona de oro para el borde alrededor.
+Y harás a ella marco de palmo alrededor, y harás filete de oro a su marco alrededor.
 
 ### 25:26
 
-Harás cuatro anillos de oro y los pondrás en los cuatro extremos del tablero, cerca de sus cuatro patas.
+Y harás a ella cuatro anillos de oro, y pondrás los anillos sobre las cuatro esquinas que a sus cuatro pies.
 
 ### 25:27
 
-Los anillos estarán cerca del borde, para pasar por ellos las barras para llevar el tablero.
+A la par del marco serán los anillos, a casas para las varas, para alzar la mesa.
 
 ### 25:28
 
-Harás las barras de cedro y las cubrirás de oro. Con ellas se llevará el tablero.
+Y harás las varas maderos de shitim, y recubrirás a ellas oro, y será alzada en ellas la mesa.
 
 ### 25:29
 
-Harás también los cestos, las cucharas, las tazas y los recipientes para deshacer la grasa, hechos de oro puro.
+Y harás sus fuentes y sus palmas y sus jarras y sus tazas, que se libará en ellas; oro puro harás a ellos.
 
 ### 25:30
 
-Colocarás sobre el altar el pan de los panes delante de mí, siempre presente.
+Y pondrás sobre la mesa pan de faces a mis faces de continuo.
 
 ### 25:31
 
-Harás también una lámpara de oro puro, de trabajo de orfebre, su base y su soporte serán de una pieza; sus copas, sus esferas y sus flores saldrán de ella.
+Y harás menorá de oro puro; de martillo será hecha la menorá; su muslo y su caña, sus cálices, sus caftorim y sus flores, de ella serán.
 
 ### 25:32
 
-Tendrá seis brazos saliendo de sus costados, tres de un lado y tres del otro.
+Y seis cañas salientes de sus lados; tres cañas de menorá de su lado el uno, y tres cañas de menorá de su lado el segundo.
 
 ### 25:33
 
-Tres copas de forma de almendra en cada brazo, con esferas y flores; y tres copas de forma de almendra en el otro brazo, con esferas y flores. Así para los seis brazos que salen de la lámpara.
+Tres cálices almendrados en la caña la una, caftor y flor, y tres cálices almendrados en la caña la una, caftor y flor; así a las seis cañas las salientes de la menorá.
 
 ### 25:34
 
-En la lámpara tendrán cuatro copas de forma de almendra, con esferas y flores.
+Y en la menorá cuatro cálices almendrados, sus caftorim y sus flores.
 
 ### 25:35
 
-Tendrá esferas bajo los dos brazos de cada lado, esferas bajo los dos brazos de cada lado, y esferas bajo los dos brazos de cada lado de los seis brazos que salen de la lámpara.
+Y caftor debajo de las dos cañas de ella, y caftor debajo de las dos cañas de ella, y caftor debajo de las dos cañas de ella, a las seis cañas las salientes de la menorá.
 
 ### 25:36
 
-Sus esferas y sus brazos saldrán de ella; toda ella será de una pieza de trabajo de orfebre, de oro puro.
+Sus caftorim y sus cañas de ella serán; toda ella de martillo una, oro puro.
 
 ### 25:37
 
-Harás las siete lámparas y encenderás las siete lámparas para que alumbran hacia las caras
+Y harás sus lámparas siete, y hará subir sus lámparas, y alumbrará sobre el lado de sus faces.
 
 ### 25:38
 
-y sus pinzas y sus velas de oro puro
+Y sus tenazas y sus braseros, oro puro.
 
 ### 25:39
 
-Hará un siclo de oro puro cada una de todas estas piezas
+Talento de oro puro hará a ella, con todos los utensilios estos.
 
 ### 25:40
 
-Y mira y haz conforme a su modelo, que te han mostrado en el monte
+Y ve y haz en su modelo que tú eres hecho ver en el monte.
 
 ## Capítulo 26
 
 ### 26:1
 
-Harás el tabernáculo con diez cortinas de lino fino, azul, púrpura, carmesí y de obra de tejedor, con cherubines
+Y la morada harás diez cortinas; lino torcido y tecélet y argamán y gusano de escarlata; querubim, obra de pensador, harás a ellas.
 
 ### 26:2
 
-El largo de una cortina es de veintidós codos y el ancho de cuatro codos; el largo de una cortina es de veintidos codos y el ancho de cuatro codos; la medida de una cortina es la misma para todas las cortinas
+Largo de la cortina la una: ocho y veinte en el codo, y ancho cuatro en el codo la cortina la una; medida una a todas las cortinas.
 
 ### 26:3
 
-Las cinco cortinas se unirán una a la otra; y las cinco cortinas se unirán una a la otra
+Cinco de las cortinas serán juntadas, mujer a su hermana, y cinco cortinas juntadas, mujer a su hermana.
 
 ### 26:4
 
-Harás bordes de azul en el borde de una cortina, en el extremo que se une; y harás bordes de azul en el borde de la otra cortina, en el extremo que se une
+Y harás lazos de tecélet sobre labio de la cortina la una, de extremo en la juntada, y así harás en labio de la cortina la extrema en la juntura la segunda.
 
 ### 26:5
 
-Cincuenta nudos harás en una cortina, y cincuenta nudos harás en la otra cortina, en el extremo que se une; los nudos se unirán una a la otra.
+Cincuenta lazos harás en la cortina la una, y cincuenta lazos harás en el extremo de la cortina que en la juntura la segunda; correspondiendo los lazos, mujer a su hermana.
 
 ### 26:6
 
-Harás cincuenta nudos de oro y unirás las cortinas una a la otra en los nudos. El tabernáculo será un solo conjunto.
+Y harás cincuenta broches de oro, y juntarás las cortinas, mujer a su hermana, en los broches, y será la morada una.
 
 ### 26:7
 
-Harás cortinas de piel de carneros para el tabernáculo; harás diez cortinas.
+Y harás cortinas de cabras a tienda sobre la morada; once cortinas harás a ellas.
 
 ### 26:8
 
-El largo de una cortina será de treinta codos, y el ancho de cuatro codos; la medida de una cortina será para diez cortinas.
+Largo de la cortina la una: treinta en el codo, y ancho cuatro en el codo la cortina la una; medida una a las once cortinas.
 
 ### 26:9
 
-Unirás cinco cortinas por sí mismas, y seis cortinas por sí mismas, y doblarás la sexta cortina y la pondrás delante del tabernáculo.
+Y juntarás las cinco cortinas a solas, y las seis cortinas a solas, y doblarás la cortina la sexta hacia frente de faces de la tienda.
 
 ### 26:10
 
-Harás cincuenta nudos en el borde de una cortina, en el extremo que se une, y cincuenta nudos en el borde de la otra cortina, en el extremo que se une.
+Y harás cincuenta lazos sobre labio de la cortina la una, la extrema, en la juntada, y cincuenta lazos sobre labio de la cortina la juntada la segunda.
 
 ### 26:11
 
-Harás cincuenta nudos de bronce y pondrás los nudos en los nudos, y unirás el tabernáculo. Será un solo conjunto.
+Y harás broches de cobre cincuenta, y harás entrar los broches en los lazos, y juntarás la tienda, y será una.
 
 ### 26:12
 
-El sobrante de las cortinas del tabernáculo, la mitad de la cortina que sobra, la coserás tras el tabernáculo.
+Y el colgante lo sobrante en las cortinas de la tienda, la mitad de la cortina la sobrante, colgará sobre detrás de la morada.
 
 ### 26:13
 
-Y la vara de este lado y la vara de este otro lado, en el exceso de las lonas del tabernáculo, será sobrante en la longitud de las lonas del tabernáculo, para cubrirlo de este y de este otro lado.
+Y el codo de este y el codo de este en lo sobrante en el largo de las cortinas de la tienda, será colgante sobre los lados de la morada, de este y de este, para cubrirla.
 
 ### 26:14
 
-Y harás un cubrimiento para el tabernáculo de pieles de carneros teñidas de carmesí, y un cubrimiento de pieles de aires sobre ellas.
+Y harás cubrimiento a la tienda, pieles de carneros enrojecidas, y cubrimiento de pieles de tejashim desde arriba.
 
 ### 26:15
 
-Harás los tabiques del tabernáculo de madera de cedro, de pie.
+Y harás las tablas a la morada, maderos de shitim, parados.
 
 ### 26:16
 
-Diez codos será la longitud del tabique, y un codo y medio será la anchura del tabique.
+Diez codos largo de la tabla, y codo y mitad del codo ancho de la tabla el uno.
 
 ### 26:17
 
-Dos tenazas para el tabique tendrás, entrelazadas una con la otra; así harás para todos los tabiques del tabernáculo.
+Dos manos a la tabla el uno, ensambladas mujer a su hermana; así harás a todas las tablas de la morada.
 
 ### 26:18
 
-Harás los tabiques del tabernáculo de veinte tabiques para el lado del sur.
+Y harás las tablas a la morada: veinte tabla a lado de néguev, hacia temán.
 
 ### 26:19
 
-Y harás cuarenta bases de plata, debajo de los veinte tabiques; dos bases debajo de un tabique para las dos tenazas, y dos bases debajo de un tabique para las dos tenazas.
+Y cuarenta basas de plata harás debajo de las veinte tabla: dos basas debajo de la tabla el uno a sus dos manos, y dos basas debajo de la tabla el uno a sus dos manos.
 
 ### 26:20
 
-Y para el lado del norte del tabernáculo, veinte tabiques.
+Y al costado de la morada el segundo, a lado de norte, veinte tabla.
 
 ### 26:21
 
-Y harás cuarenta bases de plata, dos bases debajo de un tabique para las dos tenazas, y dos bases debajo de un tabique para las dos tenazas.
+Y cuarenta sus basas plata: dos basas debajo de la tabla el uno, y dos basas debajo de la tabla el uno.
 
 ### 26:22
 
-Y para el lado del occidente del tabernáculo harás seis tabiques.
+Y a los extremos de la morada, hacia mar, harás seis tablas.
 
 ### 26:23
 
-Y harás dos tabiques para las esquinas del tabernáculo, en los dos lados.
+Y dos tablas harás a los ángulos de la morada en los dos extremos.
 
 ### 26:24
 
-Y estarán unidos desde abajo, y estarán unidos en la parte superior sobre su cima, hacia la argolla, así estarán para los dos, para las dos esquinas.
+Y serán gemelos desde abajo, y a una serán íntegros sobre su cabeza hacia el anillo el uno; así será a los dos de ellos, a los dos ángulos serán.
 
 ### 26:25
 
-Y habrá ocho tabiques, y sus bases de plata, dieciséis bases, dos bases debajo de un tabique para las dos tenazas, y dos bases debajo de un tabique para las dos tenazas.
+Y serán ocho tablas, y sus basas plata, dieciséis basas: dos basas debajo de la tabla el uno, y dos basas debajo de la tabla el uno.
 
 ### 26:26
 
-Y harás en los tabiques de cedro cinco varillas para los tabiques de un lado del tabernáculo.
+Y harás barras, maderos de shitim, cinco a las tablas del costado de la morada el uno.
 
 ### 26:27
 
-Y cinco varillas para los tabiques de un lado del segundo tabernáculo, y cinco varillas para los tabiques de un lado del tabernáculo para el lado del occidente.
+Y cinco barras a las tablas del costado de la morada el segundo, y cinco barras a las tablas del costado de la morada a los extremos, hacia mar.
 
 ### 26:28
 
-Y la varilla del medio en medio de los tabiques, saldrá desde el extremo hasta el extremo.
+Y la barra la del medio en medio de las tablas, atravesando desde el extremo hacia el extremo.
 
 ### 26:29
 
-Y revestirás las tablas de oro, y harás en ellas anillos de oro para los clavos, y revestirás los clavos de oro.
+Y las tablas recubrirás oro, y sus anillos harás oro, casas a las barras, y recubrirás las barras oro.
 
 ### 26:30
 
-Y levantarás el tabernáculo conforme al modelo que te fue mostrado en el monte.
+Y harás levantar la morada conforme a su juicio que fuiste hecho ver en el monte.
 
 ### 26:31
 
-Y harás una cortina de azul, púrpura, escarlata y lino tejido a mano, con diseños de querubines, obra de un tejedor.
+Y harás velo, tecélet y argamán y gusano de escarlata y lino torcido; obra de pensador hará a ella, querubim.
 
 ### 26:32
 
-Y la pondrás sobre cuatro columnas de acacia revestidas de oro, con sus anillos de oro, sobre cuatro bases de bronce.
+Y pondrás a ella sobre cuatro columnas de shitim recubiertas oro, sus ganchos oro, sobre cuatro basas de plata.
 
 ### 26:33
 
-Y pondrás la cortina debajo de los clavos, y llevarás allí dentro del tabernáculo el arca de la alianza. La cortina te separará entre el santuario y el santísimo.
+Y pondrás el velo debajo de los broches, y harás entrar allá, de casa al velo, el arca del testimonio, y separará el velo a ustedes entre el santo y entre santo de los santos.
 
 ### 26:34
 
-Y pondrás la tapa sobre el arca de la alianza en el santísimo.
+Y pondrás la cubierta sobre el arca del testimonio en santo de los santos.
 
 ### 26:35
 
-Y pondrás el altar de los panes sobre el lado del tabernáculo hacia el exterior de la cortina, y el candelabro al lado del altar hacia el sur. Y el altar de los panes lo pondrás al lado del norte.
+Y pondrás la mesa de fuera al velo, y la menorá enfrente de la mesa sobre costado de la morada, hacia temán, y la mesa pondrás sobre costado de norte.
 
 ### 26:36
 
-Y harás un cortinaje para la entrada del tabernáculo, de azul, púrpura, escarlata y lino tejido a mano, obra de un tejedor.
+Y harás pantalla a abertura de la tienda, tecélet y argamán y gusano de escarlata y lino torcido, obra de bordador.
 
 ### 26:37
 
-Y harás un cortinaje para el tabernáculo de cinco varas de madera de acacia. Cubrirás las varas de oro y sus anillas de oro, y fundirás cinco bases de bronce para ellas.
+Y harás a la pantalla cinco columnas de shitim, y recubrirás a ellas oro, sus ganchos oro, y fundirás a ellas cinco basas de cobre.
 
 ## Capítulo 27
 
 ### 27:1
 
-Harás el altar de madera de acacia. Será de cinco codos de largo y cinco codos de ancho, cuadrado será el altar, y tres codos su altura.
+Y harás el altar, maderos de shitim; cinco codos largo y cinco codos ancho; cuadrado será el altar, y tres codos a su alto.
 
 ### 27:2
 
-Harás cuernos en sus cuatro esquinas. Los cuernos formarán parte del altar y los cubrirás de bronce.
+Y harás sus cuernos sobre sus cuatro esquinas; de él serán sus cuernos, y recubrirás a él cobre.
 
 ### 27:3
 
-Harás para él sus recipientes para quitar las cenizas, sus cucharas, sus escudillas, sus bandejas y sus incensarios; todo su servicio será de bronce.
+Y harás sus ollas para desgrasarlo, y sus palas y sus tazones y sus tenedores y sus braseros; a todos sus utensilios harás cobre.
 
 ### 27:4
 
-Harás para él una red de bronce, y harás sobre la red cuatro anillos de bronce en sus cuatro esquinas.
+Y harás a él enrejado, obra de red de cobre, y harás sobre la red cuatro anillos de cobre sobre sus cuatro extremos.
 
 ### 27:5
 
-La pondrás debajo del borde del altar, desde abajo, y la red llegará hasta la mitad del altar.
+Y pondrás a ella debajo del borde del altar desde abajo, y será la red hasta la mitad del altar.
 
 ### 27:6
 
-Harás varas para el altar de madera de acacia y las cubrirás de bronce.
+Y harás varas al altar, varas de maderos de shitim, y recubrirás a ellas cobre.
 
 ### 27:7
 
-Se introducirán las varas en las anillas, y las varas estarán sobre los dos costados del altar para cargarlo.
+Y será hecho entrar sus varas en los anillos, y serán las varas sobre los dos costados del altar en alzar a él.
 
 ### 27:8
 
-Harás el altar de madera de acacia, como me mostraste en el monte, así lo harán.
+Hueco de tablas harás a él; como que hizo ver a ti en el monte, así harán.
 
 ### 27:9
 
-Y harás la corte del tabernáculo; al sur, hacia el lado meridional, harás lonas de lino tejido de azul, púrpura, carmesí y lino blanco, de cien codos de largo para una parte.
+Y harás el atrio de la morada; a lado de néguev, hacia temán, colgaduras al atrio, lino torcido, cien en el codo largo al lado el uno.
 
 ### 27:10
 
-Y pondrás veinte varas y veinte bases de bronce; las varillas y las argollas de las varas serán de plata.
+Y sus columnas veinte, y sus basas veinte, cobre; ganchos de las columnas y sus ligaduras, plata.
 
 ### 27:11
 
-Y así hacia el lado norte, harás lonas de cien codos de largo, y pondrás veinte varas y veinte bases de bronce; las varillas y las argollas de las varas serán de plata.
+Y así a lado de norte, en el largo, colgaduras cien largo, y sus columnas veinte, y sus basas veinte, cobre; ganchos de las columnas y sus ligaduras, plata.
 
 ### 27:12
 
-Y la anchura de la corte al lado del occidente será de cincuenta codos; pondrás diez varas y diez bases.
+Y ancho del atrio a lado de mar, colgaduras cincuenta codo; sus columnas diez, y sus basas diez.
 
 ### 27:13
 
-Y la anchura de la corte al lado del oriente será de cincuenta codos.
+Y ancho del atrio a lado de oriente, hacia naciente, cincuenta codo.
 
 ### 27:14
 
-Y harás lonas de cinco codos de largo para la entrada de la corte, con tres varas y tres bases.
+Y quince codo colgaduras al hombro; sus columnas tres, y sus basas tres.
 
 ### 27:15
 
-Y harás lonas de cinco codos de largo para la entrada de la corte al lado norte, con tres varas y tres bases.
+Y al hombro el segundo, quince colgaduras; sus columnas tres, y sus basas tres.
 
 ### 27:16
 
-Y para la entrada de la corte harás un cortinaje de veinte codos de largo, de lana azul, púrpura, carmesí y lino tejido a mano, con cuatro varas y cuatro bases.
+Y a puerta del atrio, pantalla de veinte codo, tecélet y argamán y gusano de escarlata y lino torcido, obra de bordador; sus columnas cuatro, y sus basas cuatro.
 
 ### 27:17
 
-Todas las varas alrededor de la corte tendrán enganches de plata y sus anillas de plata, pero sus bases serán de bronce.
+Todas las columnas del atrio alrededor ligadas plata, y sus ganchos plata, y sus basas cobre.
 
 ### 27:18
 
-La longitud de la corte será de cien codos, con una anchura de cincuenta codos, y una altura de cinco codos. Será de lino tejido a mano, y sus bases serán de bronce.
+Largo del atrio cien en el codo, y ancho cincuenta en cincuenta, y alto cinco codos, lino torcido, y sus basas cobre.
 
 ### 27:19
 
-Todas las piezas del tabernáculo, con todas sus herramientas, y todas las estacas de él y de la corte serán de bronce.
+A todos los utensilios de la morada en todo su servicio, y todas sus estacas, y todas las estacas del atrio, cobre.
 
 ### 27:20
 
-Y tú darás orden a los hijos de Israel, y tomarán a ti aceite de oliva puro, de fruto de oliva, para la luz, para que se encienda una luz continua.
+Y tú mandarás a hijos de Israel, y tomarán a ti aceite de olivo puro machacado para el luminar, para hacer subir lámpara de continuo.
 
 ### 27:21
 
-Fuera del velo del tabernáculo del testimonio, en el cual estará Aaron y sus hijos, de noche y de día, delante de Jehová, ordenarán a él, por siempre, por vuestras generaciones, conforme a las ordenanzas de los hijos de Israel.
+En tienda de tiempo señalado, de fuera al velo que sobre el testimonio, lo ordenará Aharón y sus hijos, desde tarde hasta mañana, delante de Jehová; estatuto de siempre a sus generaciones, de con hijos de Israel.
 
 ## Capítulo 28
 
 ### 28:1
 
-Y acércame a ti a Aarón, hermano tuyo, y a sus hijos con él, de entre los hijos de Israel, para que me sirvan de sacerdotes; a Aarón, a Nadab y a Abiú, a Eleazar y a Itamar, hijos de Aarón.
+Y tú acerca a ti a Aharón tu hermano y a sus hijos con él, de medio de hijos de Israel, para sacerdotearlo a mí: Aharón, Nadav y Avihú, Elazar e Itamar, hijos de Aharón.
 
 ### 28:2
 
-Y harás tú vestidos santos para Aarón, hermano tuyo, para gloria y para hermosura.
+Y harás vestidos de santidad a Aharón tu hermano, a honra y a hermosura.
 
 ### 28:3
 
-Y tú hablarás a todos los hombres sabios de corazón, a quienes he llenado de sabiduría, para que hagan las vestiduras de Aarón, para que las use para santificarlo para que le sirva de sacerdote ante mí.
+Y tú hablarás a todos los sabios de corazón que lo llené espíritu de sabiduría, y harán los vestidos de Aharón para santificarlo, para sacerdotearlo a mí.
 
 ### 28:4
 
-Estos son los vestidos que harán: un pecho de juicio, un efod, una túnica bordada, una túnica de lino, una mitra y un cinto. Harán vestidos santos para Aarón, hermano tuyo, y para sus hijos, para que le sirvan de sacerdotes ante mí.
+Y estos los vestidos que harán: pectoral y efod y manto y túnica de recamado, turbante y cinturón; y harán vestidos de santidad a Aharón tu hermano y a sus hijos, para sacerdotearlo a mí.
 
 ### 28:5
 
-Tomarán el oro, la púrpura, el carmesí, el escarlata y el lino tejido.
+Y ellos tomarán el oro y el tecélet y el argamán y gusano de la escarlata y el lino.
 
 ### 28:6
 
-Harán el efod de oro, púrpura, carmesí, escarlata y lino tejido, obra de tejedor.
+Y harán el efod: oro, tecélet y argamán, gusano de escarlata y lino torcido, obra de pensador.
 
 ### 28:7
 
-Serán dos piezas de hombros unidas a sus dos extremos; estarán unidas.
+Dos hombros juntadas será a él hacia sus dos extremos, y será juntado.
 
 ### 28:8
 
-Y harán un cinto para el efod que lleva, como obra de él; será de oro, púrpura, carmesí, escarlata y lino tejido.
+Y cinto de su efodadura que sobre él, como su obra, de él será: oro, tecélet y argamán y gusano de escarlata y lino torcido.
 
 ### 28:9
 
-Y tomarás dos piedras de shoham y grabarás en ellas los nombres de los hijos de Israel.
+Y tomarás las dos piedras de shoham, y grabarás sobre ellas nombres de hijos de Israel.
 
 ### 28:10
 
-Seis nombres de ellos en una piedra, y los nombres de los seis que quedan en la otra piedra, según sus familias.
+Seis de sus nombres sobre la piedra la una, y los nombres de los seis los restantes sobre la piedra la segunda, conforme a sus generaciones.
 
 ### 28:11
 
-Trabaja en piedra de grabado de sello y graba en las dos piedras los nombres de los hijos de Israel, según sus familias, con seis nombres en una piedra y seis nombres en la otra piedra. Harás en las dos piedras monturas de oro.
+Obra de labrador de piedra, grabados de sello, grabarás las dos piedras sobre nombres de hijos de Israel; rodeadas de engastes de oro harás a ellas.
 
 ### 28:12
 
-Y pondrás las dos piedras sobre los hombros del efod, como piedras de memoria a los hijos de Israel, y Aarón llevará sus nombres delante del SEÑOR sobre sus dos hombros, como memoria.
+Y pondrás las dos piedras sobre los hombros del efod, piedras de memorial a hijos de Israel, y alzará Aharón sus nombres delante de Jehová sobre sus dos hombros, a memorial.
 
 ### 28:13
 
-Harás monturas de oro.
+Y harás engastes de oro.
 
 ### 28:14
 
-Y harás dos cordones de oro puro, tejeráslos y los pondrás en las monturas.
+Y dos cadenillas de oro puro; de cordones harás a ellas, obra de cordón, y pondrás las cadenillas las de cordones sobre los engastes.
 
 ### 28:15
 
-Harás un pecho de juicio, obra de un tejedor, como obra del efod harás. Será de oro y lana teñida de púrpura, escarlata y azul, y de hilos de lino tejido.
+Y harás pectoral de juicio, obra de pensador; como obra de efod lo harás; oro, tecélet y argamán y gusano de escarlata y lino torcido harás a él.
 
 ### 28:16
 
-Será cuadrado, doblado; será de un codo su longitud y de un codo su anchura.
+Cuadrado será, doblado; zéret a su largo y zéret a su ancho.
 
 ### 28:17
 
-Y lo llenarás de piedras talladas, cuatro filas de piedras; en la primera fila un ágata, un topacio y un carbunclo; ése será el primer filo.
+Y llenarás en él llenura de piedra, cuatro hileras de piedra: hilera de ódem, pitdá y baréket, la hilera la una.
 
 ### 28:18
 
-Y en el segundo filo un espinel, un safir y un diamante.
+Y la hilera la segunda: nófej, sapir y yahalom.
 
 ### 28:19
 
-Y el tercer filo, un léssem, un shevo y un achlamá.
+Y la hilera la tercera: léshem, shevó y ajlamá.
 
 ### 28:20
 
-Y el cuarto filo, un tarshís, un shoham y un yashfe, incrustados en oro, en sus incrustaciones.
+Y la hilera la cuarta: tarshish y shoham y yashfé; engastados oro serán en sus llenuras.
 
 ### 28:21
 
-Y las piedras estarán con los nombres de los hijos de Israel, doce nombres, cada uno con su nombre, para los doce tribus.
+Y las piedras serán sobre nombres de hijos de Israel, doce sobre sus nombres; grabados de sello, varón sobre su nombre, serán a los doce tribu.
 
 ### 28:22
 
-Y harás sobre el choshén cadenas de obra de hilos de oro puro.
+Y harás sobre el pectoral cadenillas de borde, obra de cordón, oro puro.
 
 ### 28:23
 
-Y harás sobre el choshén dos sortijas de oro puro, y pondrás las dos sortijas en los dos extremos del choshén.
+Y harás sobre el pectoral dos anillos de oro, y pondrás los dos anillos sobre los dos extremos del pectoral.
 
 ### 28:24
 
-Y pondrás las dos cadenas de oro en las dos sortijas, en los extremos del choshén.
+Y pondrás los dos cordones del oro sobre los dos anillos, hacia extremos del pectoral.
 
 ### 28:25
 
-Y pondrás las dos puntas de las dos cadenas sobre los dos anillos del ephod, que están delante del cinto del ephod.
+Y los dos extremos de los dos cordones pondrás sobre los dos engastes, y pondrás sobre los hombros del efod, hacia frente de sus faces.
 
 ### 28:26
 
-Y harás dos sortijas de oro y las pondrás en los dos extremos del choshén, sobre el borde que está del lado del ephod, dentro del cinto.
+Y harás dos anillos de oro, y pondrás a ellos sobre los dos extremos del pectoral, sobre su labio que hacia el lado del efod, hacia casa.
 
 ### 28:27
 
-Y harás dos sortijas de oro y las pondrás en los dos extremos del choshén, sobre el borde que está del lado del ephod, dentro del cinto, sobre el lado del ephod, frente a mí.
+Y harás dos anillos de oro, y pondrás a ellos sobre los dos hombros del efod desde abajo, de frente de sus faces, a la par de su juntura, desde arriba al cinto del efod.
 
 ### 28:28
 
-Y coserás el choshén con las sortijas alrededor de las cadenas de oro, para que el choshén esté sobre el ephod, y el choshén no se separe del ephod.
+Y atarán el pectoral desde sus anillos hacia anillos del efod en cordón de tecélet, para ser sobre cinto del efod, y no se apartará el pectoral de sobre el efod.
 
 ### 28:29
 
-Y Aaron llevará los nombres de los hijos de Israel en el choshén del juicio sobre su corazón, cuando entre al Lugar Santísimo, como recordatorio delante del SEÑOR siempre.
+Y alzará Aharón los nombres de hijos de Israel en pectoral del juicio sobre su corazón, en su entrar hacia el santo, a memorial delante de Jehová de continuo.
 
 ### 28:30
 
-Y pondrás el urim y el tummim en el choshén del juicio, y estarán sobre el corazón de Aaron, cuando entre delante del SEÑOR, y Aaron llevará el juicio de los hijos de Israel sobre su corazón delante del SEÑOR siempre.
+Y pondrás hacia pectoral del juicio los Urim y los Tumim, y serán sobre corazón de Aharón en su entrar delante de Jehová, y alzará Aharón el juicio de hijos de Israel sobre su corazón delante de Jehová de continuo.
 
 ### 28:31
 
-Y harás la saya del ephod toda de azul.
+Y harás el manto del efod, entero tecélet.
 
 ### 28:32
 
-Y será un orificio para la cabeza en medio de ella; será un borde de tejido bordado alrededor del orificio, como el orificio de una túnica; no se rasgará.
+Y será boca de su cabeza en su medio; labio será a su boca alrededor, obra de tejedor; como boca de tajrá será a él; no se rasgará.
 
 ### 28:33
 
-Y harás en el borde de ella, en el borde de la saya, romero de azul, púrpura y carmesí, alrededor del borde, y campanillas de oro entre ellos alrededor.
+Y harás sobre sus faldas granadas de tecélet y argamán y gusano de escarlata, sobre sus faldas alrededor, y campanillas de oro en medio de ellas alrededor.
 
 ### 28:34
 
-Una campanilla de oro y un romero, una campanilla de oro y un romero, alrededor del borde de la saya.
+Campanilla de oro y granada, campanilla de oro y granada, sobre las faldas del manto alrededor.
 
 ### 28:35
 
-Y estará sobre Aarón para el servicio, y el sonido de él será escuchado cuando entre al santuario ante el SEÑOR y cuando salga, para que no muera.
+Y será sobre Aharón para ministrar, y se oirá su voz en su entrar hacia el santo delante de Jehová y en su salir, y no morirá.
 
 ### 28:36
 
-Harás una placa de oro puro y grabarás en ella como grabado de sello: ‘Santidad al SEÑOR’.
+Y harás florón de oro puro, y grabarás sobre él grabados de sello: Santidad a Jehová.
 
 ### 28:37
 
-La colocarás sobre un cordón azul, y será sobre la mitra; estará en frente de la mitra.
+Y pondrás a él sobre cordón de tecélet, y será sobre el turbante; hacia frente de faces del turbante será.
 
 ### 28:38
 
-Y estará sobre la frente de Aarón, y Aarón llevará el pecado de las cosas santas que los hijos de Israel santificarán en todos sus dones de ofrenda; estará sobre la frente de Aarón delante del SEÑOR siempre, para que le sea grato.
+Y será sobre frente de Aharón, y alzará Aharón iniquidad de las santidades que santificarán hijos de Israel, a todos los dones de sus santidades, y será sobre su frente de continuo, a agrado a ellos delante de Jehová.
 
 ### 28:39
 
-Y colocarás la túnica de lino, y harás una mitra de lino, y harás un cinto de obra de tejedor.
+Y recamarás la túnica, lino, y harás turbante de lino, y cinturón harás, obra de bordador.
 
 ### 28:40
 
-Y para los hijos de Aarón harás túnicas, y harás para ellos cintos, y harás para ellos turbantes para gloria y para hermosura.
+Y a hijos de Aharón harás túnicas, y harás a ellos cinturones, y gorros harás a ellos, a honra y a hermosura.
 
 ### 28:41
 
-Y vestirás a ellos a Aarón, a mi hermano, y a sus hijos con ellos, y los ungirás, y llenarás sus manos, y santificarás a ellos, y serán para mí sacerdotes.
+Y harás vestir a ellos a Aharón tu hermano y a sus hijos con él, y ungirás a ellos, y llenarás su mano, y santificarás a ellos, y sacerdotearán a mí.
 
 ### 28:42
 
-Y harás para ellos calzones de lino para cubrir la carne de la vergüenza; desde la cintura hasta las rodillas les serán.
+Y haz a ellos calzones de bad para cubrir carne de desnudez; desde lomos y hasta muslos serán.
 
 ### 28:43
 
-Y estarán sobre Aarón y sobre sus hijos al entrar en el tabernáculo o al acercarse al altar para servir en el santuario, y no cargarán con pecado y morirán; será para ellos y para sus descendientes por siempre una ley perpetua.
+Y serán sobre Aharón y sobre sus hijos en su entrar hacia tienda de tiempo señalado, o en su acercarse hacia el altar para ministrar en el santo, y no alzarán iniquidad y morirán; estatuto de siempre a él y a su semilla después de él.
 
 ## Capítulo 29
 
 ### 29:1
 
-Y esto es lo que harás para santificarlos para que me sirvan: toma un novillo y dos carneros sin defecto.
+Y esto la palabra que harás a ellos para santificarlos para sacerdotear a mí: toma toro uno, hijo de ganado, y carneros dos, íntegros.
 
 ### 29:2
 
-Y harás panes de panes sin levadura, y tortas sin levadura untadas con aceite, y galletas sin levadura untadas con aceite; harás con harina de trigo fina.
+Y pan de matsot, y tortas de matsot mezcladas en el aceite, y hojuelas de matsot untadas en el aceite; flor de trigos harás ellos.
 
 ### 29:3
 
-Y los pondrás en un cesto y los ofrecerás en el cesto, y también el novillo y los dos carneros.
+Y darás ellos sobre cesto uno, y acercarás ellos en el cesto, y el toro y los dos carneros.
 
 ### 29:4
 
-Y presentarás a Aarón y a sus hijos al umbral de la tienda del encuentro, y los lavarás con agua.
+Y a Aharón y a sus hijos acercarás a apertura de tienda de tiempo señalado, y lavarás a ellos en las aguas.
 
 ### 29:5
 
-Tomarás también las vestiduras y vestirás a Aarón con la túnica, con el manto del ephod, con el ephod y con el pectoral, y pondrás el pectoral sobre el ephod.
+Y tomarás los vestidos, y vestirás a Aharón la túnica y el manto del efod y el efod y el pectoral, y efodarás a él en el cinto del efod.
 
 ### 29:6
 
-Colocarás la mitra sobre su cabeza, y pondrás el diadema sagrada sobre la mitra.
+Y pondrás el turbante sobre su cabeza, y darás el nézer de la santidad sobre el turbante.
 
 ### 29:7
 
-Tomarás también el aceite de unción y lo derramarás sobre su cabeza, y lo ungirás.
+Y tomarás el aceite de la unción, y derramarás sobre su cabeza, y ungirás a él.
 
 ### 29:8
 
-Y a sus hijos los presentarás, y les pondrás túnicas.
+Y a sus hijos acercarás, y los vestirás túnicas.
 
 ### 29:9
 
-Y ceñirás a ellos un cinto, a Aarón y a sus hijos, y harás turbantes para ellos, y serán para ellos una sacerdocio por siempre; y ungirás la mano de Aarón y la mano de sus hijos.
+Y ceñirás a ellos cinturón, Aharón y sus hijos, y atarás a ellos gorros, y será a ellos sacerdocio a estatuto de siempre, y llenarás mano de Aharón y mano de sus hijos.
 
 ### 29:10
 
-Y presentarás el toro delante de la tienda de reunión, y Aarón y sus hijos pondrán sus manos sobre la cabeza del toro.
+Y acercarás el toro a faces de tienda de tiempo señalado, y apoyará Aharón y sus hijos sus manos sobre cabeza del toro.
 
 ### 29:11
 
-Y degollarás el toro delante de Jehová, a la entrada de la tienda de reunión.
+Y degollarás el toro a faces de Jehová, apertura de tienda de tiempo señalado.
 
 ### 29:12
 
-Y tomarás del sangre del toro y pondrás sobre las cornetas del altar con tu dedo, y todo el sangre la derramarás a la base del altar.
+Y tomarás de sangre del toro, y darás sobre cuernos del altar en tu dedo, y toda la sangre derramarás a fundamento del altar.
 
 ### 29:13
 
-Y tomarás todo el tejido graso que cubre el riñón, y la parte que está sobre el hígado, y las dos riñones, y el tejido graso que está sobre ellos, y quemarás sobre el altar por ofrenda quemada.
+Y tomarás toda la gordura la cubriente el interior, y la yóteret sobre el hígado, y las dos riñones y la gordura que sobre ellas, y harás humear al altar.
 
 ### 29:14
 
-Y la carne del toro, y su piel, y sus despojos, los quemarás en el fuego fuera del campamento; es un pecado.
+Y carne del toro y su piel y su estiércol quemarás en el fuego, de fuera al campamento; ofrenda de pecado él.
 
 ### 29:15
 
-Y tomarás el carnero uno, y Aarón y sus hijos pondrán sus manos sobre la cabeza del carnero.
+Y el carnero el uno tomarás, y apoyarán Aharón y sus hijos sus manos sobre cabeza del carnero.
 
 ### 29:16
 
-Y sacrificarás el macho cabrío, y tomarás su sangre y la derramarás alrededor del altar.
+Y degollarás el carnero, y tomarás su sangre, y arrojarás sobre el altar alrededor.
 
 ### 29:17
 
-Y cortarás el macho cabrío en pedazos, y lavarás sus entrañas y sus piernas, y los pondrás sobre sus pedazos y sobre su cabeza.
+Y el carnero trocearás a sus trozos, y lavarás su interior y sus piernas, y darás sobre sus trozos y sobre su cabeza.
 
 ### 29:18
 
-Y quemarás todo el macho cabrío sobre el altar; es una ofrenda quemada a Jehová; es un aroma grato, una ofrenda quemada a Jehová.
+Y harás humear todo el carnero al altar; ofrenda-subida él a Jehová, olor de reposo, fuego a Jehová él.
 
 ### 29:19
 
-Y tomarás el segundo macho cabrío, y Aarón y sus hijos pondrán sus manos sobre la cabeza del macho cabrío.
+Y tomarás el carnero el segundo, y apoyará Aharón y sus hijos sus manos sobre cabeza del carnero.
 
 ### 29:20
 
-Y sacrificarás el carnero, y tomarás de su sangre y pondrás sobre la oreja derecha de Aarón y sobre la oreja derecha de sus hijos, y sobre el pulgar de su mano derecha y sobre el dedo del pie derecho, y derramarás su sangre alrededor del altar.
+Y degollarás el carnero, y tomarás de su sangre, y darás sobre lóbulo de oreja de Aharón y sobre lóbulo de oreja de sus hijos la derecha, y sobre pulgar de su mano la derecha, y sobre pulgar de su pie la derecha, y arrojarás la sangre sobre el altar alrededor.
 
 ### 29:21
 
-Y tomarás del sangre que está sobre el altar y del aceite de la unción, y lo esparcirás sobre Aarón y sobre sus vestidos, y sobre sus hijos y sobre los vestidos de sus hijos, y santificarás a él y a sus vestidos y a sus hijos y a los vestidos de sus hijos.
+Y tomarás de la sangre que sobre el altar y de aceite de la unción, y salpicarás sobre Aharón y sobre sus vestidos y sobre sus hijos y sobre vestidos de sus hijos con él, y se santificará él y sus vestidos y sus hijos y vestidos de sus hijos con él.
 
 ### 29:22
 
-Y tomarás del carnero el tocino y la cola y el tocino que cubre el hígado y las sobras del hígado y las dos riñones y el tocino que está sobre ellos y la pierna derecha, porque es un carnero de llenura.
+Y tomarás del carnero la gordura y la cola y la gordura la cubriente el interior, y yóteret del hígado, y las dos riñones y la gordura que sobre ellas, y pierna la derecha, porque carnero de las llenuras él.
 
 ### 29:23
 
-Y una masa de pan y una masa de pan con aceite y un pan aplanado, de la cesta de los panes sin levadura que están delante de Jehová.
+Y redondo de pan uno, y torta de pan de aceite una, y hojuela una, de cesto de las matsot que a faces de Jehová.
 
 ### 29:24
 
-Y pondrás todo sobre las manos de Aarón y sobre las manos de sus hijos, y lo elevarás como ofrenda de elevación delante de Jehová.
+Y pondrás el todo sobre palmas de Aharón y sobre palmas de sus hijos, y los mecerás mecedura a faces de Jehová.
 
 ### 29:25
 
-Y tomarás de sus manos y quemarás sobre el altar la ofrenda holocausto, como aroma grato delante de Jehová; es un holocausto para Jehová.
+Y tomarás ellos de su mano, y harás humear al altar sobre la ofrenda-subida, a olor de reposo a faces de Jehová; fuego él a Jehová.
 
 ### 29:26
 
-Y tomarás el ombligo del carnero de los llenos que son para Aarón, y lo elevarás como ofrenda de elevación delante de Jehová; será tuyo como porción.
+Y tomarás el pecho de carnero de las llenuras que a Aharón, y lo mecerás mecedura a faces de Jehová, y será a ti a porción.
 
 ### 29:27
 
-Y santificarás el ombligo de la ofrenda de elevación y la pierna derecha de la ofrenda de elevación que se ha elevado y que se ha ofrecido, del carnero de los llenos que son para Aarón y para sus hijos.
+Y santificarás pecho de la mecedura y pierna de la terumá, que fue mecida y que fue alzada, de carnero de las llenuras, de lo que a Aharón y de lo que a sus hijos.
 
 ### 29:28
 
-Y será para Aarón y para sus hijos por estatuto perpetuo de los hijos de Israel, porque es ofrenda; ofrenda será de los hijos de Israel de sus sacrificios de paz, ofrenda suya para Jehová.
+Y será a Aharón y a sus hijos a estatuto de siempre de con hijos de Israel, porque terumá él, y terumá será de con hijos de Israel de sacrificios de sus paces, su terumá a Jehová.
 
 ### 29:29
 
-Y las vestiduras sagradas que son para Aarón, serán para sus hijos después de él para ungir con ellas y para llenar sus manos con ellas.
+Y vestidos de la santidad que a Aharón serán a sus hijos después de él, para unción en ellos y para llenar en ellos su mano.
 
 ### 29:30
 
-Siete días las llevará el sacerdote, de entre sus hijos, que entra en la tienda de reunión para ministrar en el santuario.
+Siete días los vestirá el sacerdote debajo de él de sus hijos, que entre a tienda de tiempo señalado para ministrar en el santo.
 
 ### 29:31
 
-Y tomarás el carnero de los llenos y lo cocerás su carne en lugar santo.
+Y el carnero de las llenuras tomarás, y cocerás su carne en lugar santo.
 
 ### 29:32
 
-Aarón y sus hijos comerán la carne del carnero y el pan que está en el cesto, en la entrada de la tienda de reunión.
+Y comerá Aharón y sus hijos carne del carnero y el pan que en el cesto, apertura de tienda de tiempo señalado.
 
 ### 29:33
 
-Comerán lo que se ha purificado en ellos para llenar sus manos y para santificarlos; pero nadie extranjero comerá, porque es santo.
+Y comerán a ellos que fue cubierto en ellos, para llenar su mano, para santificarlos; y extraño no comerá, porque santidad ellos.
 
 ### 29:34
 
-Si queda algo de la carne de los llenos y del pan hasta la mañana, lo quemarás con fuego; no se comerá, porque es santo.
+Y si queda de carne de las llenuras y del pan hasta la mañana, y quemarás el restante en el fuego; no será comido, porque santidad él.
 
 ### 29:35
 
-Harás lo mismo para Aarón y para sus hijos, como te he ordenado, siete días llenarás sus manos.
+Y harás a Aharón y a sus hijos así, conforme a todo lo que he mandado a ti; siete días llenarás su mano.
 
 ### 29:36
 
-Y un cordero por el pecado lo harás cada día por los días de purificación, y por el altar harás expiación por él, y lo ungirás para que sea santo.
+Y toro de ofrenda de pecado harás al día sobre las cubiertas, y pecarás sobre el altar en tu cubrir sobre él, y ungirás a él para santificarlo.
 
 ### 29:37
 
-Por siete días harás expiación por el altar y lo santificarás, y el altar será santísimo. Todo el que toque el altar será santo.
+Siete días cubrirás sobre el altar, y santificarás a él, y será el altar santidad de santidades; todo el tocante en el altar se santificará.
 
 ### 29:38
 
-Y esto es lo que harás sobre el altar: dos corderos de un año, cada día, de manera continua.
+Y esto que harás sobre el altar: corderos hijos de año, dos al día, continuo.
 
 ### 29:39
 
-Harás el cordero uno por la mañana, y el cordero otro por la tarde.
+El cordero el uno harás en la mañana, y el cordero el segundo harás entre las tardes.
 
 ### 29:40
 
-Y un cordero de un año por la tarde; con él un décimo de cebada molida mezclada con cuarto de hin de aceite cocido, y cuarto de hin de vino por libación, por el cordero.
+Y un décimo de flor mezclado en aceite machacado, cuarto del hin, y libación, cuarta del hin, vino, al cordero el uno.
 
 ### 29:41
 
-Y harás el cordero segundo por la tarde, conforme a la ofrenda de la mañana y conforme a su libación, por ofrenda de aroma agradable a Jehová.
+Y el cordero el segundo harás entre las tardes; conforme a ofrenda de la mañana y conforme a su libación harás a ella, a olor de reposo, fuego a Jehová.
 
 ### 29:42
 
-Ofrenda continua por vuestras generaciones, en la entrada de la tienda de reunión, delante de Jehová, donde me reuniré con vosotros para hablaros.
+Ofrenda-subida de continuo a vuestras generaciones, apertura de tienda de tiempo señalado, a faces de Jehová, que me citaré a ustedes allí para hablar a ti allí.
 
 ### 29:43
 
-Y me reuniré allí con los hijos de Israel, y seré santificado en mi gloria.
+Y me citaré allí a hijos de Israel, y será santificado en mi gloria.
 
 ### 29:44
 
-Y santificaré el tabernáculo y el altar, y santificaré a Aarón y a sus hijos para que me sirvan como sacerdotes.
+Y santificaré la tienda de tiempo señalado y el altar, y a Aharón y a sus hijos santificaré para sacerdotear a mí.
 
 ### 29:45
 
-Y habitaré en medio de los hijos de Israel, y seré para ellos Dios.
+Y moraré en medio de hijos de Israel, y seré a ellos a Dios.
 
 ### 29:46
 
-Y sabrán que yo soy Jehová, su Dios, que los saqué de la tierra de Egipto para habitarme en medio de ellos; yo soy Jehová, su Dios.
+Y conocerán que yo Jehová su Dios, que saqué a ellos de tierra de Mizraim para morar yo en su medio; yo Jehová su Dios.
 
 ## Capítulo 30
 
 ### 30:1
 
-Harás un altar para el incienso, de madera de acacia lo harás.
+Y harás altar de humear incienso; maderos de shitim harás a él.
 
 ### 30:2
 
-Será de un cubito de largo, de un cubito de ancho, cuadrado será, y de dos cubitos de alto; sus cuernos serán de él.
+Codo su largo y codo su ancho, cuadrado será, y dos codos su altura; de él sus cuernos.
 
 ### 30:3
 
-Y lo revestirás de oro puro: el arriba, los cuatro costados y sus cuernos; y harásle alrededor una corona de oro.
+Y recubrirás a él oro puro, su techo y sus paredes alrededor y sus cuernos, y harás a él filete de oro alrededor.
 
 ### 30:4
 
-Y harás dos anillos de oro para llevarlo, bajo la corona, en los dos costados, en los dos lados; y será para llevarlo con varas.
+Y dos anillos de oro harás a él de debajo a su filete, sobre dos sus costados harás, sobre dos sus lados, y será a casas a las varas para alzar a él en ellas.
 
 ### 30:5
 
-Harás los varales de madera de acacia, y los revestirás de oro.
+Y harás las varas, maderos de shitim, y recubrirás a ellas oro.
 
 ### 30:6
 
-Y la pondrás delante del velo que está sobre el arca de la alianza, delante del propiciatorio que está sobre el arca de la alianza, donde me apareceré a ti.
+Y darás a él a faces del velo que sobre arca del testimonio, a faces de la cubierta que sobre el testimonio, que me citaré a ti allí.
 
 ### 30:7
 
-Aaron quemará incienso aromático sobre él por la mañana; cuando acomodaré las lámparas, las encenderá.
+Y hará humear sobre él Aharón incienso de especias, en la mañana en la mañana; en su hacer bueno las lámparas hará humearla.
 
 ### 30:8
 
-Y cuando Aaron alce las lámparas entre las dos de la tarde, las encenderá; quemará incienso aromático constantemente delante del SEÑOR por todas las generaciones.
+Y en hacer subir Aharón las lámparas entre las tardes hará humearla, incienso de continuo a faces de Jehová a vuestras generaciones.
 
 ### 30:9
 
-No ofreceréis incienso extraño, holocausto, ofrenda de panes u oblación sobre él.
+No haréis subir sobre él incienso extraño, y ofrenda-subida y ofrenda; y libación no libaréis sobre él.
 
 ### 30:10
 
-Y Aaron hará expiación sobre las puntas de los cuernos una vez al año, con el sangre del sacrificio de expiación una vez al año, hará expiación sobre él por todas las generaciones. Es muy santo para el SEÑOR.
+Y cubrirá Aharón sobre sus cuernos una en el año; de sangre de ofrenda de pecado de las cubiertas, una en el año cubrirá sobre él a vuestras generaciones; santidad de santidades él a Jehová.
 
 ### 30:11
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 30:12
 
-Cuando cuentas a los hijos de Israel, cada uno dará una compensación por su vida al SEÑOR, cuando se cuenten, para que no haya entre ellos plaga al ser contados.
+Cuando alzares cabeza de hijos de Israel para sus contados, y darán varón cubierta de su alma a Jehová en contar a ellos, y no será en ellos plaga en contar a ellos.
 
 ### 30:13
 
-Esta será la compensación que cada uno que pase por el censo dará: media shekel de moneda sagrada, veinte geras la shekel, media shekel como ofrenda al SEÑOR.
+Esto darán todo el pasante sobre los contados: mitad del siclo en siclo de la santidad; veinte guerás el siclo; mitad del siclo terumá a Jehová.
 
 ### 30:14
 
-Todo varón que pase por el censo de veinte años y más dará la ofrenda al SEÑOR.
+Todo el pasante sobre los contados, desde hijo de veinte año y arriba, dará terumá de Jehová.
 
 ### 30:15
 
-El rico no aumentará, ni el pobre disminuirá, de la mitad del shekel para dar la ofrenda al SEÑOR para hacer expiación por sus vidas.
+El rico no aumentará y el pobre no disminuirá de mitad del siclo, a dar la terumá de Jehová para cubrir sobre vuestras almas.
 
 ### 30:16
 
-Tomarás el dinero de las expiaciones de los hijos de Israel y lo darás para la obra del tabernáculo; será para los hijos de Israel un recuerdo para hacer expiación por sus vidas delante del SEÑOR.
+Y tomarás la plata de las cubiertas de con hijos de Israel, y darás a él sobre servicio de tienda de tiempo señalado, y será a hijos de Israel a memorial a faces de Jehová para cubrir sobre vuestras almas.
 
 ### 30:17
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 30:18
 
-Harás un lavatorio de cobre y su pedestal de cobre para lavar. Lo pondrás entre la tienda de reunión y el altar, y pondrás agua allí.
+Y harás pileta de cobre y su peana de cobre, para lavar, y darás a él entre tienda de tiempo señalado y entre el altar, y darás allí aguas.
 
 ### 30:19
 
-Aaron y sus hijos lavarán sus manos y sus pies de él.
+Y lavarán Aharón y sus hijos de él sus manos y sus pies.
 
 ### 30:20
 
-Cuando entren al tabernáculo de reunión, lavarán sus manos y sus pies, para que no mueran; o cuando se acerquen al altar para ministrar, para quemar un holocausto al SEÑOR.
+En su entrar a tienda de tiempo señalado lavarán aguas, y no morirán, o en su acercarse al altar para servir, para hacer humear fuego a Jehová.
 
 ### 30:21
 
-Lavarán sus manos y sus pies, para que no mueran, y será un estatuto eterno para ellos y para sus descendientes por todas sus generaciones.
+Y lavarán sus manos y sus pies, y no morirán, y será a ellos estatuto de siempre, a él y a su semilla a sus generaciones.
 
 ### 30:22
 
-Y el SEÑOR habló a Moisés, diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 30:23
 
-Toma para ti bálsamo de mirra de quinientas libras, y bálsamo de canela de doscientas y cincuenta libras, y bálsamo de cincuenta y cincuenta libras de bálsamo de alhena.
+Y tú, toma a ti aromas de cabeza: mor derrur, cinco cientas, y qinamón de aroma, su mitad, cincuenta y dos cientas, y qaneh de aroma, cincuenta y dos cientas,
 
 ### 30:24
 
-Y de mirra de quinientas libras de peso de santidad, y aceite de oliva de un himen.
+y qidá, cinco cientas, en siclo de la santidad, y aceite de zeit, hin.
 
 ### 30:25
 
-Y harás de él un aceite de ungimiento santo, un ungüento compuesto, obra de perfumista; aceite de ungimiento santo será.
+Y harás a él aceite de unción de santidad, róqaj de merqájat, obra de roqéaj; aceite de unción de santidad será.
 
 ### 30:26
 
-Y lo usarás para ungir el tabernáculo de reunión y el arca de la alianza.
+Y ungirás en él la tienda de tiempo señalado y el arca del testimonio,
 
 ### 30:27
 
-Y lo usarás para ungir la mesa y todos sus utensilios, y la lámpara y todos sus utensilios, y el altar de las ofrendas de incienso.
+y la mesa y todos sus utensilios, y la menorá y sus utensilios, y altar del incienso,
 
 ### 30:28
 
-Y lo usarás para ungir el altar de holocaustos y todos sus utensilios, y el lavatorio y su base.
+y altar de la ofrenda-subida y todos sus utensilios, y la pileta y su peana.
 
 ### 30:29
 
-Y los santificarás, y serán santos de lo santísimo; todo el que los toque será santificado.
+Y santificarás a ellos, y serán santidad de santidades; todo el tocante en ellos se santificará.
 
 ### 30:30
 
-Y ungirás a Aarón y a sus hijos, y los santificarás para que sirvan de sacerdotes ante mí.
+Y a Aharón y a sus hijos ungirás, y santificarás a ellos para sacerdotear a mí.
 
 ### 30:31
 
-Y hablarás a los hijos de Israel diciendo: Este aceite de ungüento santo será mío por todas vuestras generaciones.
+Y a hijos de Israel hablarás, diciendo: Aceite de unción de santidad será este a mí a vuestras generaciones.
 
 ### 30:32
 
-No lo ungirás sobre la carne humana, y no lo harán de esa manera. Es santo, será santo para vosotros.
+Sobre carne de hombre no se derramará, y en su medida no haréis como él; santidad él, santidad será a ustedes.
 
 ### 30:33
 
-El hombre que lo mezcle o que lo ponga sobre un extranjero será cortado de su pueblo.
+Varón que ungüentare como él, y que diere de él sobre extraño, y será cortado de sus pueblos.
 
 ### 30:34
 
-Y el SEÑOR dijo a Moisés: Toma para ti aromas: nardos, ástros, mirra, aromas, y canela fina, con sal, cosas iguales.
+Y dijo Jehová a Moshe: Toma a ti especias: natáf y shejélet y jelbená, especias, y levoná pura; parte en parte será.
 
 ### 30:35
 
-Y harás de ella incienso, obra de aromatizador, mezclada con sal, puro, santo.
+Y harás a ella incienso, róqaj, obra de roqéaj, salado, puro, santidad.
 
 ### 30:36
 
-Y la harás polvo fino y la pondrás delante del testimonio en la tienda de reunión, donde me reuniré contigo; será santísima para vosotros.
+Y molerás de ella, haz fino, y darás de ella a faces del testimonio en tienda de tiempo señalado que me citaré a ti allí; santidad de santidades será a ustedes.
 
 ### 30:37
 
-Y la incienso que harás conforme a su manera, no haréis para vosotros; será santo para ti.
+Y el incienso que harás, en su medida no haréis a ustedes; santidad será a ti a Jehová.
 
 ### 30:38
 
-Cualquier hombre que haga como esto para oler en ella será cortado de su pueblo.
+Varón que hiciere como ella para oler en ella, y será cortado de sus pueblos.
 
 ## Capítulo 31
 
