@@ -1,6 +1,6 @@
 # Éxodo
 
-> La Biblia Fiel — Éxodo. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> La Biblia Fiel — Éxodo. Segunda pasada contra OSHB/WLC; numeración protestante. Borrador: espera revisión oral humana.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
@@ -1435,7 +1435,7 @@ Y será a señal sobre tu mano y a totafot entre tus ojos, porque en fuerte de m
 
 ### 13:17
 
-Y fue en enviar Faraón al pueblo, y no los condujo Dios camino de tierra de pelishtim, porque cercano él; porque dijo Dios: No sea que se arrepienta el pueblo en su ver guerra, y vuelvan Mizraimah.
+Y fue en enviar Faraón al pueblo, y no los condujo Dios camino de tierra de pelishtim, porque cercano él; porque dijo Dios: No sea que se arrepienta el pueblo en su ver guerra, y vuelvan hacia Mizraim.
 
 ### 13:18
 
@@ -1655,7 +1655,7 @@ Los harás entrar y los plantarás en monte de tu heredad; sitio a tu sentarte o
 
 ### 15:18
 
-Jehová reinará a siempre y ed.
+Jehová reinará para siempre y siempre.
 
 ### 15:19
 
@@ -3619,1318 +3619,1319 @@ Varón que hiciere como ella para oler en ella, y será cortado de sus pueblos.
 
 ### 31:1
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 31:2
 
-Mira, he llamado a Betzalel, hijo de Uri, hijo de Hur, de la tribu de Judá.
+Ve, he llamado en nombre a Betsalel hijo de Uri hijo de Jur, a vara de Yehudá.
 
 ### 31:3
 
-Y llenéle de espíritu de Dios, en sabiduría, y en inteligencia, y en entendimiento, y en toda obra.
+Y lo he llenado espíritu de Dios, en sabiduría y en inteligencia y en conocimiento y en toda labor,
 
 ### 31:4
 
-Para concebir pensamientos, para hacer en oro, en plata, en bronce.
+para pensar pensamientos, para hacer en el oro y en la plata y en el cobre,
 
 ### 31:5
 
-Y en piedra labrada para grabar y en madera labrada para hacer toda obra.
+y en labrado de piedra para llenar, y en labrado de madera para hacer en toda labor.
 
 ### 31:6
 
-Y yo, he aquí, he puesto con él a Aholiab, hijo de Ahisamac, de la tribu de Dan. Y en el corazón de todo hombre hábil de corazón he puesto sabiduría, y harán todo lo que yo te he mandado.
+Y yo, he aquí he dado con él a Oholiav hijo de Ajisamak a vara de Dan, y en corazón de todo sabio de corazón he dado sabiduría, y harán todo lo que he mandado a ti:
 
 ### 31:7
 
-El tabernáculo de reunión y el arca de la declaración, y la cubierta que está sobre ella, y todo utensilio del tabernáculo.
+la tienda de tiempo señalado, y el arca al testimonio, y la cubierta que sobre él, y todos utensilios de la tienda,
 
 ### 31:8
 
-Y el tabernáculo y sus utensilios, y la lámpara de oro puro y sus utensilios, y el altar de las ofrendas de incienso
+y la mesa y sus utensilios, y la menorá la pura y todos sus utensilios, y altar del incienso,
 
 ### 31:9
 
-Y el altar de las ofrendas holocaustas y sus utensilios, y el lavatorio y su base
+y altar de la ofrenda-subida y todos sus utensilios, y la pileta y su peana,
 
 ### 31:10
 
-Y las vestiduras del sacerdocio y las vestiduras santas para Aarón el sacerdote, y las vestiduras de sus hijos para el sacerdocio
+y los vestidos del srad, y los vestidos de la santidad a Aharón el sacerdote, y los vestidos de sus hijos para sacerdotear,
 
 ### 31:11
 
-Y el aceite de consagración y la incienso aromático para el santo lugar, según todo lo que te he ordenado, lo harán
+y el aceite de la unción y el incienso de las especias a la santidad; conforme a todo lo que he mandado a ti harán.
 
 ### 31:12
 
-Y el SEÑOR dijo a Moisés: Di
+Y dijo Jehová a Moshe, diciendo:
 
 ### 31:13
 
-que guarden mi sábado, porque es señal entre mí y vosotros por vuestras generaciones, para que sepáis que yo soy el SEÑOR que os consagra.
+Y tú, habla a hijos de Israel, diciendo: Pero mis shabatot guardaréis, porque señal ella entre mí y entre ustedes a vuestras generaciones, para conocer que yo Jehová santificante a ustedes.
 
 ### 31:14
 
-Guardad el sábado, porque es día santo para vosotros. El que lo profanare será castigado con la muerte, porque todo el que haga trabajo en él será cortado de su pueblo.
+Y guardaréis el shabat, porque santidad ella a ustedes; sus profanantes, de morir morirá, porque todo el hacedor en ella labor, y será cortada el alma aquella de interior de sus pueblos.
 
 ### 31:15
 
-Seis días se hará trabajo, pero el séptimo día es sábado de descanso santificado para el SEÑOR. Todo el que haga trabajo en el día del sábado será castigado con la muerte.
+Seis días será hecha labor, y en el día séptimo shabat de shabatón, santidad a Jehová; todo el hacedor labor en día del shabat, de morir morirá.
 
 ### 31:16
 
-Guardad el sábado, que es para los israelitas un signo perpetuo de alianza.
+Y guardarán hijos de Israel el shabat, para hacer el shabat a sus generaciones, pacto de siempre.
 
 ### 31:17
 
-Es un signo perpetuo entre mí y los israelitas: en seis días el SEÑOR hizo los cielos y la tierra, y en el séptimo día se descansó.
+Entre mí y entre hijos de Israel señal ella para siempre, porque seis días hizo Jehová los cielos y la tierra, y en el día séptimo cesó y se alivió.
 
 ### 31:18
 
-Cuando terminó de hablar con él en el monte Sinaí, el SEÑOR le dio a Moisés dos tablas de piedra, escritas por la mano de Dios.
+Y dio a Moshe en su acabar de hablar con él en monte Sinái dos tablas del testimonio, tablas de piedra, escritas en dedo de Dios.
 
 ## Capítulo 32
 
 ### 32:1
 
-El pueblo vio que Moisés tardaba en bajar del monte, y se reunió alrededor de Aarón, diciéndole: Levántate y haznos dioses que nos guíen, porque este Moisés, el hombre que nos sacó de Egipto, no sabemos qué le ha sucedido.
+Y vio el pueblo que tardó Moshe de descender del monte, y se congregó el pueblo sobre Aharón, y dijeron a él: Levántate, haz a nosotros dioses que anden delante de nuestras faces, porque este Moshe el varón que nos hizo subir de tierra de Mizraim, no hemos conocido qué fue a él.
 
 ### 32:2
 
-Y Aarón les dijo: Quiten las cadenas de oro que tienen en las orejas, sus hijos y sus hijas, y tráiganlas aquí.
+Y dijo a ellos Aharón: Arrancad zarcillos del oro que en orejas de vuestras mujeres, vuestros hijos y vuestras hijas, y haced venir a mí.
 
 ### 32:3
 
-Y todo el pueblo quitó las cadenas de oro que tenían en las orejas y se las trajeron a Aarón.
+Y se arrancaron todo el pueblo los zarcillos del oro que en sus orejas, y hicieron venir a Aharón.
 
 ### 32:4
 
-Tomó lo que le dieron y lo fundió en un molde, y lo hizo un becerro de oro. Y dijeron: Estos son tus dioses, Israel, que te sacaron del Egipto.
+Y tomó de su mano, y lo formó en el jéret, y lo hizo becerro de fundición, y dijeron: Estos tus dioses, Israel, que te hicieron subir de tierra de Mizraim.
 
 ### 32:5
 
-Vio Aarón y construyó un altar frente a él. Y llamó Aarón y dijo: Fiesta para el SEÑOR mañana.
+Y vio Aharón, y edificó altar delante de sus faces, y llamó Aharón y dijo: Fiesta a Jehová mañana.
 
 ### 32:6
 
-Se levantaron al día siguiente y ofrecieron holocaustos y sacrificios de paz. Y el pueblo se sentó a comer y a beber, y se levantaron para divertirse.
+Y madrugaron del mañana, y hicieron subir ofrendas-subida, y acercaron ofrendas de paces, y se sentó el pueblo a comer y a beber, y se levantaron a reír.
 
 ### 32:7
 
-Y el SEÑOR habló a Moisés: Ve, baja, porque tu pueblo se ha corrompido, que has sacado de la tierra de Egipto.
+Y habló Jehová a Moshe: Anda, desciende, porque ha corrompido tu pueblo que hiciste subir de tierra de Mizraim.
 
 ### 32:8
 
-Se apartaron pronto del camino que les habían ordenado. Hicieron para ellos un becerro de fundición y se postraron ante él y sacrificaron a él, y dijeron: Estos son tus dioses, Israel, que te sacaron de la tierra de Egipto.
+Se desviaron pronto del camino que mandé a ellos; se hicieron a ellos becerro de fundición, y se postraron a él, y sacrificaron a él, y dijeron: Estos tus dioses, Israel, que te hicieron subir de tierra de Mizraim.
 
 ### 32:9
 
-Y el SEÑOR dijo a Moisés: He visto este pueblo, y he aquí que es un pueblo de cuello rígido.
+Y dijo Jehová a Moshe: He visto al pueblo este, y he aquí pueblo duro de cerviz él.
 
 ### 32:10
 
-Ahora déjame y me enojaré con ellos y los consumiré, y te haré a ti un pueblo grande.
+Y ahora, déjame, y arda mi nariz en ellos, y los acabe, y te haga a nación grande.
 
 ### 32:11
 
-Y Moisés se postró ante el SEÑOR y dijo: ¿Por qué, SEÑOR, te enojarás con tu pueblo, que sacaste de la tierra de Egipto con gran poder y con mano fuerte?
+Y ablandó Moshe las faces de Jehová su Dios, y dijo: ¿Por qué, Jehová, arderá tu nariz en tu pueblo que sacaste de tierra de Mizraim en fuerza grande y en mano fuerte?
 
 ### 32:12
 
-¿Por qué dirán los egipcios: Con maldad los sacó para matarlos en los montes y para consumirlos de la faz de la tierra? Vuelve de tu enojo y deséchalo contra el pueblo.
+¿Por qué dirán Mizraim, diciendo: En mal los sacó para matarlos en los montes y para acabarlos de sobre faces del suelo? Vuelve de ardor de tu nariz, y consuélate sobre el mal a tu pueblo.
 
 ### 32:13
 
-Acuérdate de Abraham, de Isaac y de Israel, tus siervos, a quienes juraste por ti mismo, y dijisteles: Multiplicaré vuestro linaje como las estrellas de los cielos, y toda esta tierra de la cual dije que la daría a vuestro linaje, y serán herederos para siempre.
+Recuerda a Abraham, a Yitsjaq y a Israel tus siervos, que juraste a ellos en ti, y hablaste a ellos: Multiplicaré vuestra semilla como estrellas de los cielos, y toda la tierra esta que dije daré a vuestra semilla, y heredarán para siempre.
 
 ### 32:14
 
-Y Yahvé se arrepintió del mal que había dicho hacer a su pueblo.
+Y se consoló Jehová sobre el mal que habló a hacer a su pueblo.
 
 ### 32:15
 
-Y Yahvé se volvió y descendió del monte, y Moisés bajó del monte con las dos tablas del testimonio en su mano; las tablas estaban escritas por ambos lados, uno al frente y otro por detrás.
+Y se volvió y descendió Moshe del monte, y dos tablas del testimonio en su mano, tablas escritas de dos sus lados; de este y de este ellos escritas.
 
 ### 32:16
 
-Y las tablas eran obra de Dios; y el grabado era grabado por Dios, grabado en las tablas.
+Y las tablas, obra de Dios ellas, y la escritura, escritura de Dios ella, grabada sobre las tablas.
 
 ### 32:17
 
-Y Josué escuchó el ruido del pueblo que gritaba, y le dijo a Moisés: Se oye el ruido de la guerra en el campamento.
+Y oyó Yehoshúa voz del pueblo en su gritar, y dijo a Moshe: Voz de guerra en el campamento.
 
 ### 32:18
 
-No hay voz de victoria ni voz de derrota, sino voces de fiesta que escucho.
+Y dijo: No voz de responder de valentía, y no voz de responder de flaqueza; voz de responder yo oyendo.
 
 ### 32:19
 
-Cuando se acercó al campamento y vio el becerro y las danzas, se enojó Moisés y arrojó las tablas de sus manos, rompiéndolas debajo del monte.
+Y fue como que se acercó al campamento, y vio el becerro y danzas, y ardió nariz de Moshe, y arrojó de sus manos las tablas, y las quebró debajo del monte.
 
 ### 32:20
 
-Tomó el becerro que habían hecho, lo quemó en el fuego, lo molió hasta que se volvió polvo y lo esparció sobre las aguas, y lo hizo beber a los hijos de Israel.
+Y tomó el becerro que hicieron, y quemó en el fuego, y molió hasta que fino, y esparció sobre faces de las aguas, y dio de beber a hijos de Israel.
 
 ### 32:21
 
-Entonces Moisés dijo a Aarón: ¿Qué ha hecho este pueblo contigo para que me hayas traído un gran pecado?
+Y dijo Moshe a Aharón: ¿Qué hizo a ti el pueblo este, que has hecho entrar sobre él pecado grande?
 
 ### 32:22
 
-Entonces Aarón dijo: Señor, no te enojes, sabes que este pueblo es malo.
+Y dijo Aharón: No arda nariz de mi señor; tú has conocido al pueblo, que en mal él.
 
 ### 32:23
 
-Y me dijeron: Haznos dioses que vayan delante de nosotros, porque este Moisés, el hombre que nos sacó de la tierra de Egipto, no sabemos qué le ha sucedido.
+Y dijeron a mí: Haz a nosotros dioses que anden delante de nuestras faces, porque este Moshe el varón que nos hizo subir de tierra de Mizraim, no hemos conocido qué fue a él.
 
 ### 32:24
 
-Y les dije: ¿De quién tomaron el oro? Y me dieron lo que habían quitado, y lo eché en el fuego, y salió este becerro.
+Y dije a ellos: A quien oro, despojaos. Y dieron a mí, y lo arrojé en el fuego, y salió el becerro este.
 
 ### 32:25
 
-Y Moisés vio al pueblo que estaba desordenado, porque Aarón había permitido que se desordenaran en su presencia.
+Y vio Moshe al pueblo, que suelto él, porque lo soltó Aharón a infamia en sus levantantes.
 
 ### 32:26
 
-Y Moisés se puso en la entrada del campamento y dijo: ¿Quién está con el SEÑOR? Acérquense a mí. Y se acercaron a él todos los hijos de Leví.
+Y se paró Moshe en puerta del campamento, y dijo: ¿Quién a Jehová, a mí? Y se juntaron a él todos hijos de Leví.
 
 ### 32:27
 
-Y les dijo: Así dice el SEÑOR, el Dios de Israel: Cada uno ponga la espada en la cintura y pase de un lado a otro del campamento desde la entrada a la entrada y haga matar a cada uno a su hermano, a su amigo y a su vecino.
+Y dijo a ellos: Así dijo Jehová Dios de Israel: Poned varón su espada sobre su muslo; pasad y volved de puerta a puerta en el campamento, y matad varón a su hermano, y varón a su prójimo, y varón a su cercano.
 
 ### 32:28
 
-Y los hijos de Leví hicieron lo que Moisés había dicho, y aquel día cayeron de entre el pueblo tres mil hombres.
+Y hicieron hijos de Leví conforme a palabra de Moshe, y cayó del pueblo en el día aquel como tres mil varón.
 
 ### 32:29
 
-Y Moisés dijo: Hoy bendecirá el SEÑOR a ustedes, porque cada uno ha puesto a prueba a su hijo y a su hermano. Y hoy bendecirá el SEÑOR a ustedes.
+Y dijo Moshe: Llenad vuestra mano hoy a Jehová, porque varón en su hijo y en su hermano, y para dar sobre ustedes hoy bendición.
 
 ### 32:30
 
-Y al día siguiente dijo Moisés al pueblo: Ustedes han pecado un gran pecado. Ahora subiré al SEÑOR, quizás pueda hacer expiación por sus pecados.
+Y fue del mañana, y dijo Moshe al pueblo: Ustedes habéis pecado pecado grande, y ahora subiré a Jehová; quizá cubra por vuestro pecado.
 
 ### 32:31
 
-Y Moisés volvió al SEÑOR y dijo: Oh, el pueblo ha cometido un gran pecado, han hecho dioses de oro para sí mismos.
+Y volvió Moshe a Jehová, y dijo: Ana, ha pecado el pueblo este pecado grande, y se hicieron a ellos dioses de oro.
 
 ### 32:32
 
-Y ahora, si perdonas sus pecados, lo harás; si no, borra mi nombre del libro que has escrito.
+Y ahora, si alzas su pecado; y si no, bórrame ahora de tu libro que has escrito.
 
 ### 32:33
 
-Y el SEÑOR dijo a Moisés: ¿Quién ha pecado contra mí, para que yo lo borre de mi libro?
+Y dijo Jehová a Moshe: Quien que pecó a mí, lo borraré de mi libro.
 
 ### 32:34
 
-Ahora pues, ve, guíalos conforme a lo que te he dicho. He aquí que mi ángel irá delante de ti, y en el día de mi visita, visitaré a ellos su pecado.
+Y ahora, anda, guía al pueblo a lo que hablé a ti; he aquí mi mensajero andará delante de tus faces, y en día de mi visitar, y visitaré sobre ellos su pecado.
 
 ### 32:35
 
-Y el SEÑOR castigó al pueblo por lo que hicieron con el becerro que hizo Aarón.
+Y plageó Jehová al pueblo sobre que hicieron el becerro que hizo Aharón.
 
 ## Capítulo 33
 
 ### 33:1
 
-Y el SEÑOR habló a Moisés: Ve, sube de aquí, tú y el pueblo que has sacado de la tierra de Egipto, a la tierra que juré a Abraham, a Isaac y a Jacob, diciendo: A tu descendencia la daré.
+Y habló Jehová a Moshe: Anda, sube desde esto, tú y el pueblo que hiciste subir desde tierra de Mizraim, a la tierra que juré a Abraham, a Yitsjaq y a Yaakov, diciendo: A tu semilla la daré.
 
 ### 33:2
 
-Y enviaré delante de ti un ángel, y echaré fuera a los cananeos, a los amorreos, a los hititas, a los perizitas, a los heveos y a los jebuseos.
+Y enviaré a tus faces mensajero, y expulsaré al cananeo, al amorreo, y al jiteo y al perizeo, al hiveo y al yebuseo.
 
 ### 33:3
 
-A una tierra que mana leche y miel. Porque no subiré en medio de ti, porque eres un pueblo obstinado, para que no te consuma en el camino.
+a tierra manante leche y miel, porque no subiré en tu interior, porque pueblo duro de nuca tú, no sea que te coma en el camino.
 
 ### 33:4
 
-Y el pueblo oyó la mala noticia y se entristeció; y nadie se puso su joya.
+Y oyó el pueblo la palabra la mala esta, y se enlutaron, y no pusieron varón su adorno sobre él.
 
 ### 33:5
 
-Y el SEÑOR dijo a Moisés: Di a los hijos de Israel: Ustedes son un pueblo obstinado. Por un momento subiré en medio de ti y te consumiré; pero ahora quita tu joya de ti, y veré qué haré contigo.
+Y dijo Jehová a Moshe: Di a hijos de Israel: Ustedes pueblo duro de nuca; momento uno subiré en tu interior y te acabaré; y ahora, haz descender tu adorno de sobre ti, y conoceré qué haré a ti.
 
 ### 33:6
 
-Y los hijos de Israel quitaron su joya del monte Horeb.
+Y se despojaron hijos de Israel su adorno desde monte de Jorev.
 
 ### 33:7
 
-Y Moisés tomó la tienda y la colocó fuera del campamento, a distancia del campamento, y la llamó la tienda de reunión. Y todo aquel que buscaba al SEÑOR salía al encuentro de la tienda de reunión, que estaba fuera del campamento.
+Y Moshe tomará la tienda y la tendió a él desde fuera al campamento, alejando desde el campamento, y llamó a ella tienda de tiempo señalado. Y será, todo buscante de Jehová saldrá a tienda de tiempo señalado que desde fuera al campamento.
 
 ### 33:8
 
-Y sucedía que cuando Moisés salía al tabernáculo, todo el pueblo se levantaba, cada uno a la entrada de su tienda, y miraban hacia atrás a Moisés hasta que él entraba al tabernáculo.
+Y será como salir Moshe a la tienda, se levantarán todo el pueblo, y se apostarán varón apertura de su tienda, y mirarán detrás de Moshe hasta su venir a la tienda.
 
 ### 33:9
 
-Y sucedía que cuando Moisés entraba al tabernáculo, la columna de nube descendía y se paraba a la entrada del tabernáculo, y el SEÑOR hablaba con Moisés.
+Y será como entrar Moshe a la tienda, descenderá columna de la nube y se parará apertura de la tienda, y hablará con Moshe.
 
 ### 33:10
 
-Y todo el pueblo veía que la columna de nube se paraba a la entrada del tabernáculo, y todo el pueblo se levantaba y adoraba, cada uno a la entrada de su tienda.
+Y verá todo el pueblo la columna de la nube parada apertura de la tienda, y se levantará todo el pueblo, y se postrarán varón apertura de su tienda.
 
 ### 33:11
 
-Y el SEÑOR hablaba con Moisés cara a cara, como un hombre habla con su amigo. Y luego Moisés volvía al campamento, pero su servidor Josué, hijo de Nun, no se apartaba del interior de la tienda.
+Y hablará Jehová a Moshe faces a faces, como que hablará varón a su compañero; y volverá al campamento, y su ministrante Yehoshúa hijo de Nun, muchacho, no se apartará desde medio de la tienda.
 
 ### 33:12
 
-Entonces Moisés dijo al SEÑOR: “Mira, me has dicho: ‘Lleva a este pueblo’, pero no me has revelado quién va a ir contigo. Y has dicho: ‘Yo te conozco por nombre y te he encontrado gracia en mis ojos’.
+Y dijo Moshe a Jehová: Ve, tú diciendo a mí: Haz subir al pueblo este, y tú no me has hecho conocer el que enviarás conmigo; y tú dijiste: Te he conocido en nombre, y también hallaste gracia en mis ojos.
 
 ### 33:13
 
-Ahora, si he hallado gracia en tus ojos, hazme saber tu camino, para que te conozca y hallar gracia en tus ojos. Mira, este pueblo es tu pueblo.
+Y ahora, si ahora hallé gracia en tus ojos, hazme conocer ahora tus caminos, y te conoceré, a fin de que halle gracia en tus ojos; y ve que tu pueblo la nación esta.
 
 ### 33:14
 
-Y el SEÑOR le dijo: “Haré que mi cara vaya delante de ti y te daré descanso.
+Y dijo: Mis faces andarán, y haré reposar a ti.
 
 ### 33:15
 
-Y me dijo: Si no va contigo tu cara, no nos subas de aquí.
+Y dijo a él: Si no tus faces andantes, no nos hagas subir desde esto.
 
 ### 33:16
 
-¿Con qué, pues, sabráse que hallé gracia en tus ojos, yo y tu pueblo? ¿No es que vas con nosotros, y yo y tu pueblo seremos apartados de todo el pueblo que está sobre la faz de la tierra?
+¿Y en qué será conocido, pues, que hallé gracia en tus ojos, yo y tu pueblo? ¿No en tu andar con nosotros, y nos distinguiremos yo y tu pueblo de todo el pueblo que sobre faces del suelo?
 
 ### 33:17
 
-Y el SEÑOR dijo a Moisés: También lo que has hablado haré, porque hallaste gracia en mis ojos y yo te conozco por nombre.
+Y dijo Jehová a Moshe: También la palabra esta que hablaste haré, porque hallaste gracia en mis ojos, y te he conocido en nombre.
 
 ### 33:18
 
-Y dijo: Muestra, te ruego, tu gloria.
+Y dijo: Hazme ver ahora tu gloria.
 
 ### 33:19
 
-Yo pasaré todo mi bienestar delante de ti, y proclamaré mi nombre ante ti, y tendré misericordia de quien tenga misericordia, y seré bondadoso con quien sea bondadoso.
+Y dijo: Yo haré pasar todo mi bueno sobre tus faces, y llamaré en nombre de Jehová a tus faces, y haré gracia a quien haré gracia, y compadeceré a quien compadeceré.
 
 ### 33:20
 
-Dijo: No podrás ver mi rostro, porque no verá un ser humano mi rostro y vivirá.
+Y dijo: No podrás a ver mis faces, porque no me verá el hombre y vive.
 
 ### 33:21
 
-Dijo el SEÑOR: He aquí un lugar contigo, y te pondré sobre la roca.
+Y dijo Jehová: He aquí lugar conmigo, y te apostarás sobre la roca.
 
 ### 33:22
 
-Y sucederá que cuando pase mi gloria, pondré tú en la roca; y cubriré mi mano con ti hasta que haya pasado.
+Y será en el pasar de mi gloria, y te pondré en hendidura de la roca, y taparé mi palma sobre ti hasta mi pasar.
 
 ### 33:23
 
-Y apartaré mi mano y verás mi espalda, pero mi rostro no se verá.
+Y quitaré mi palma, y verás mis espaldas, y mis faces no serán vistas.
 
 ## Capítulo 34
 
 ### 34:1
 
-Y el SEÑOR dijo a Moisés: Tallarás para ti dos tablas de piedra como las primeras, y yo escribiré sobre las tablas las palabras que estaban en las tablas primeras, que tú quebraste.
+Y dijo Jehová a Moshe: Labra para ti dos tablas de piedras como las primeras, y escribiré sobre las tablas las palabras que fueron sobre las tablas las primeras que quebraste.
 
 ### 34:2
 
-Y estarás en la mañana en el monte Sinaí, y subirás en la mañana al monte Sinaí, y te presentarás allí sobre la cumbre del monte.
+Y sé establecido a la mañana, y subirás en la mañana a monte de Sinái, y te apostarás a mí allí sobre cabeza del monte.
 
 ### 34:3
 
-Y ningún hombre subirá contigo, ni se acercará a ningún lugar del monte. Ni el rebaño ni el ganado se acercarán al monte.
+Y varón no subirá contigo, y también varón no sea visto en todo el monte; también el rebaño y el ganado no pasten hacia frente del monte aquel.
 
 ### 34:4
 
-Y talló dos tablas de piedra como las primeras y al amanecer subió Moisés al monte Sinaí, como el Señor le había ordenado; tomó en la mano dos tablas de piedra.
+Y labró dos tablas de piedras como las primeras, y madrugó Moshe en la mañana y subió a monte de Sinái, como que mandó Jehová a él, y tomó en su mano dos tablas de piedras.
 
 ### 34:5
 
-Y descendió el Señor en la nube y se le apareció allí.
+Y descendió Jehová en la nube, y se apostó con él allí, y llamó en nombre de Jehová.
 
 ### 34:6
 
-Y pasó el Señor delante de él y proclamó: El Señor, el Señor, Dios misericordioso y bondadoso, lento para la ira y lleno de amor y fidelidad.
+Y pasó Jehová sobre sus faces, y llamó: Jehová Jehová, El compasivo y gracioso, largo de narices y mucho de merced y verdad,
 
 ### 34:7
 
-Que guarda el amor por mil generaciones, que perdona la iniquidad, la transgresión y el pecado, pero no absuelve al culpable; que castiga a los padres por los hijos, a los hijos por los nietos, y a los nietos por los bisnietos, hasta la tercera y cuarta generación.
+guardando merced a los millares, alzando iniquidad y transgresión y pecado, y de limpiar no limpiará, visitando iniquidad de padres sobre hijos y sobre hijos de hijos, sobre terceros y sobre cuartos.
 
 ### 34:8
 
-Y se apresuró Moisés y se postró en tierra y se inclinó.
+Y se apresuró Moshe, y se inclinó hacia tierra, y se postró.
 
 ### 34:9
 
-Y dijo: Si he hallado gracia en tus ojos, Señor, que vaya contigo, pues es un pueblo obstinado; perdona nuestro pecado y nuestra iniquidad, y nos heredas.
+Y dijo: Si ahora hallé gracia en tus ojos, Adonai, ande ahora Adonai en nuestro interior, porque pueblo duro de nuca él, y perdonarás a nuestra iniquidad y a nuestro pecado, y nos heredarás.
 
 ### 34:10
 
-Y dijo: He aquí, haré un pacto delante de todo tu pueblo, haré maravillas que no han sido hechas en toda la tierra ni en toda nación, y todo el pueblo en el que estás te verá la obra del Señor, que es temible; lo que yo hago contigo.
+Y dijo: He aquí yo cortando pacto; enfrente de todo tu pueblo haré maravillas que no fueron creadas en toda la tierra y en todas las naciones; y verá todo el pueblo que tú en su interior la obra de Jehová, porque temible él, que yo haciendo contigo.
 
 ### 34:11
 
-Guarda lo que te mando hoy; he aquí, te echaré de delante de ti a los amorreos y a los cananeos y a los hititas y a los perizitas y a los heveos y a los jebuseos.
+Guarda para ti lo que yo mandándote hoy; heme aquí expulsando de tus faces al amorreo y al cananeo y al jiteo y al perizeo y al hiveo y al yebuseo.
 
 ### 34:12
 
-Ten cuidado contigo mismo, no hagas pacto con los habitantes de la tierra a la que vas, porque será una trampa en medio de ti.
+Guárdate para ti, no sea que cortes pacto a habitante de la tierra que tú viniente sobre ella, no sea que sea a lazo en tu interior.
 
 ### 34:13
 
-Porque destruirás sus altares, derribarás sus columnas y cortarás sus imágenes asherim.
+Porque sus altares derribaréis, y sus estelas quebraréis, y sus asherim cortaréis.
 
 ### 34:14
 
-No te postrarás ante otro dios, porque Jehová es celoso de su nombre; Jehová es un dios celoso.
+Porque no te postrarás a El otro, porque Jehová celoso su nombre, Dios celoso él.
 
 ### 34:15
 
-No hagas pacto con los habitantes de la tierra, porque se prostituirán tras sus dioses y ofrecerán sacrificios a sus dioses, y te invitarán a comer de su sacrificio.
+No sea que cortes pacto a habitante de la tierra, y fornicarán detrás de sus dioses, y sacrificarán a sus dioses, y llamará a ti, y comerás de su sacrificio.
 
 ### 34:16
 
-Y tomarás de las hijas de los demás pueblos para tus hijos, y las hijas de tu pueblo se prostituirán tras sus dioses, y harán que tus hijos se prostituyan tras sus dioses.
+Y tomarás de sus hijas a tus hijos, y fornicarán sus hijas detrás de sus dioses, y harán fornicar a tus hijos detrás de sus dioses.
 
 ### 34:17
 
-No harás para ti dioses de fundición.
+Dioses de fundición no harás para ti.
 
 ### 34:18
 
-Observarás la fiesta de las panes sin levadura, siete días comerás panes sin levadura, según el tiempo señalado, en el mes de abibe, porque en el mes de abibe saliste de Egipto.
+La fiesta de las matsot guardarás; siete días comerás matsot, que te mandé, a tiempo señalado de mes del Aviv, porque en mes del Aviv saliste desde Mizraim.
 
 ### 34:19
 
-Todo primogénito de vientre, mío es, y todo primogénito de tus animales, el toro y la oveja.
+Todo abridor de matriz a mí, y todo tu ganado será recordado, abridor de buey y cordero.
 
 ### 34:20
 
-Y el primogénito de asno lo redimirás con un cordero; y si no lo redimieres, romperás su cuello. Todo primogénito de tus hijos redimirás. No aparecerán mis ojos vacíos.
+Y abridor de asno rescatarás en cordero, y si no rescatarás, y lo desnucarás; todo primogénito de tus hijos rescatarás, y no serán vistas mis faces vacías.
 
 ### 34:21
 
-Seis días trabajarás, y en el séptimo día descansarás; en la siega y en la sieva descansarás.
+Seis días servirás, y en el día el séptimo cesarás; en la arada y en la siega cesarás.
 
 ### 34:22
 
-Y celebrarás la fiesta de las semanas a la cosecha de los primeros frutos del trigo, y la fiesta de la cosecha al final del año.
+Y fiesta de semanas harás para ti, primicias de siega de trigos, y fiesta de la recogida, circuito del año.
 
 ### 34:23
 
-Tres veces al año aparecerá todo varón tuyo delante del Señor Jehová, el Dios de Israel.
+Tres veces en el año será visto todo tu macho las faces del Adón Jehová Dios de Israel.
 
 ### 34:24
 
-Porque apartaré de tu presencia las naciones y ampliaré tus fronteras, y nadie tendrá envidia de tu tierra cuando subas a aparecerse ante el Señor tu Dios tres veces al año.
+Porque desposeeré naciones de tus faces, y ensancharé tu límite, y no deseará varón tu tierra en tu subir para ser visto las faces de Jehová tu Dios tres veces en el año.
 
 ### 34:25
 
-No sacrificarás sobre levadura el sangre de mi sacrificio, y la grasa de la pascua no quedará hasta la mañana.
+No degollarás sobre jamets sangre de mi sacrificio, y no pernoctará a la mañana sacrificio de fiesta del Pesaj.
 
 ### 34:26
 
-La primicia de la cosecha de tu tierra llevarás a la casa del Señor tu Dios; no cocerás la cabrita en la leche de su madre.
+Principio de primicias de tu suelo harás venir casa de Jehová tu Dios. No cocerás cabrito en leche de su madre.
 
 ### 34:27
 
-Y el Señor dijo a Moisés: Escribe para ti estas palabras, porque según estas palabras he hecho contigo un pacto y con Israel.
+Y dijo Jehová a Moshe: Escribe para ti las palabras estas, porque sobre boca de las palabras estas corté contigo pacto y con Israel.
 
 ### 34:28
 
-Y estuvo allí con el Señor cuarenta días y cuarenta noches; no comió pan ni bebió agua. Y escribió en las tablas los diez dichos.
+Y fue allí con Jehová cuarenta día y cuarenta noche; pan no comió y aguas no bebió; y escribió sobre las tablas las palabras del pacto, diez las palabras.
 
 ### 34:29
 
-Y aconteció que cuando Moisés descendió del monte Sinaí, con las dos tablas del testimonio en su mano, no sabía Moisés que la piel de su rostro había resplandecido.
+Y fue en el descender Moshe desde monte de Sinái, y dos tablas del testimonio en mano de Moshe, en su descender desde el monte, y Moshe no conoció que cornó piel de sus faces en su hablar con él.
 
 ### 34:30
 
-Y vio Aarón y todo Israel a Moisés, y he aquí que la piel de su rostro resplandecía, y se temieron a acercarse a él.
+Y vio Aharón y todos hijos de Israel a Moshe, y he aquí cornó piel de sus faces, y temieron de acercarse a él.
 
 ### 34:31
 
-Y llamó a ellos Moisés, y volvieron a él Aarón y todos los jefes de la congregación, y habló Moisés a ellos.
+Y llamó a ellos Moshe, y volvieron a él Aharón y todos los príncipes en la congregación, y habló Moshe a ellos.
 
 ### 34:32
 
-Y después se acercaron todos los hijos de Israel, y Moisés les ordenó todo lo que el SEÑOR le había dicho en el monte Sinaí.
+Y detrás de así se acercaron todos hijos de Israel, y les mandó todo que habló Jehová con él en monte de Sinái.
 
 ### 34:33
 
-Cuando Moisés terminó de hablar con ellos, puso el velo sobre su rostro.
+Y acabó Moshe desde hablar con ellos, y puso sobre sus faces masveh.
 
 ### 34:34
 
-Cuando Moisés entraba ante el SEÑOR para hablar con él, quitaba el velo, y saliendo hablaba con los hijos de Israel todo lo que el SEÑOR le había ordenado.
+Y en el venir Moshe a faces de Jehová para hablar con él, quitará el masveh hasta su salir, y salió y habló a hijos de Israel lo que será mandado.
 
 ### 34:35
 
-Los hijos de Israel veían que la piel de la cara de Moisés resplandecía, y Moisés volvía a poner el velo sobre su rostro hasta que entraba para hablar con el SEÑOR.
+Y vieron hijos de Israel las faces de Moshe, que cornó piel de faces de Moshe, y hacía volver Moshe el masveh sobre sus faces hasta su venir para hablar con él.
 
 ## Capítulo 35
 
 ### 35:1
 
-Mosaïs reunió a toda la comunidad de los hijos de Israel y les dijo: Estos son los mensajes que el SEÑOR ha ordenado hacer.
+Y asambleó Moshe a toda congregación de hijos de Israel, y dijo a ellos: Estas las palabras que mandó Jehová a hacerlas.
 
 ### 35:2
 
-Seis días harán el trabajo, pero el séptimo día será para ustedes un día santo, un día de reposo para el SEÑOR. Cualquiera que haga trabajo en él será castigado con la muerte.
+Seis días será hecha labor, y en el día el séptimo será a ustedes santidad, shabat de shabatón a Jehová; todo el hacedor en él labor será muerto.
 
 ### 35:3
 
-No encenderán fuego en ninguna de sus moradas en el día del sábado.
+No encenderéis fuego en todas vuestras moradas en día del shabat.
 
 ### 35:4
 
-Mosaïs dijo a toda la comunidad de los hijos de Israel: Esto es lo que el SEÑOR ha ordenado decir.
+Y dijo Moshe a toda congregación de hijos de Israel, diciendo: Esta la palabra que mandó Jehová, diciendo:
 
 ### 35:5
 
-Tomad de vosotros una ofrenda para el SEÑOR, todo aquel que tenga en su corazón dar generosamente, que traiga su ofrenda para el SEÑOR: oro, plata y bronce.
+Tomad de con ustedes alzamiento a Jehová; todo noble de su corazón la hará venir, el alzamiento de Jehová: oro y plata y cobre,
 
 ### 35:6
 
-Azul, púrpura, carmesí, lino fino y cabras.
+y tecélet y argamán y gusano de escarlata y lino y cabras,
 
 ### 35:7
 
-Piel de cabras rojas, piel de animales de mar y madera de acacia.
+y pieles de carneros enrojecidas y pieles de tejashim y palos de shitim,
 
 ### 35:8
 
-Aceite para la luz, especias para el aceite de la unción y para la especia aromática.
+y aceite para el alumbrado, y aromas para aceite de la unción y para incienso de las especias,
 
 ### 35:9
 
-Y piedras de onix y piedras de colores para el efod y para el pecho de decisiones.
+y piedras de shoham y piedras de llenuras para el efod y para el pectoral.
 
 ### 35:10
 
-Y todos los que tienen sabiduría en sus corazones, vengan y hagan todo lo que el SEÑOR ha ordenado.
+Y todo sabio de corazón en ustedes vendrán y harán todo lo que mandó Jehová:
 
 ### 35:11
 
-El tabernáculo, su tienda, su cubierta, sus tablas, sus tensores, sus columnas, sus bases y sus anillos.
+la morada, su tienda y su cubierta, sus broches y sus tablas, sus barras, sus columnas y sus basas,
 
 ### 35:12
 
-El arca, sus varas, la tapa y el velo del tabernáculo de la reunión.
+el arca y sus varas, la cubierta y el velo de la pantalla,
 
 ### 35:13
 
-El atril, sus varas, todos sus utensilios y el pan de la presencia.
+la mesa y sus varas y todos sus utensilios y el pan de las faces,
 
 ### 35:14
 
-La lámpara de pie y sus utensilios, sus lámparas y el aceite de la lámpara.
+y la menorá del alumbrado y sus utensilios y sus lámparas y el aceite del alumbrado,
 
 ### 35:15
 
-El altar de la incienso, sus varas, el aceite de consagración, la incienso aromática y la cortina del umbral para el umbral de la tienda.
+y el altar del incienso y sus varas, y el aceite de la unción y el incienso de las especias, y la pantalla de la apertura a apertura de la morada,
 
 ### 35:16
 
-El altar de holocausto, el brasero de bronce que va con él, sus varas, todos sus utensilios, el lavatorio y su base.
+el altar de la ofrenda-subida y la rejilla del cobre que a él, sus varas y todos sus utensilios, la pileta y su peana,
 
 ### 35:17
 
-el cuerdal de la corte, sus columnas, sus bases y la cortina de la entrada de la corte
+las colgaduras del atrio, sus columnas y sus basas, y la pantalla de puerta del atrio,
 
 ### 35:18
 
-las clavijas del tabernáculo, las clavijas de la corte y sus cuerdas
+las estacas de la morada y las estacas del atrio y sus cuerdas,
 
 ### 35:19
 
-las vestiduras para servir en el santuario, las vestiduras sagradas para Aarón el sacerdote y las vestiduras de sus hijos para sacerdotes
+los vestidos del srad para ministrar en la santidad, los vestidos de la santidad a Aharón el sacerdote, y los vestidos de sus hijos para sacerdotear.
 
 ### 35:20
 
-salieron toda la congregación de los hijos de Israel delante de Moisés
+Y salieron toda congregación de hijos de Israel de faces de Moshe.
 
 ### 35:21
 
-Todos los que tenían en el corazón y todos los que estaban generosos de espíritu trajeron la ofrenda para el tabernáculo, para todo su trabajo y para las vestiduras sagradas.
+Y vinieron todo varón que lo alzó su corazón, y todo que lo ofreció su espíritu, hicieron venir el alzamiento de Jehová a labor de tienda de tiempo señalado y a todo su servicio y a los vestidos de la santidad.
 
 ### 35:22
 
-Los hombres vinieron con las mujeres, todos los generosos de corazón trajeron argollas, pendientes, sellos y cadenas de oro; todo hombre que ofreció una ofrenda de oro la dio a Jehová.
+Y vinieron los varones sobre las mujeres; todo noble de corazón hicieron venir chaj y zarcillo y anillo y kumaz, todo utensilio de oro, y todo varón que meció mecimiento de oro a Jehová.
 
 ### 35:23
 
-Todos los hombres que tenían consigo lana azul, púrpura, carmesí, lino fino, cabras, pieles de carneros rojos y pieles de delfines trajeron sus dones.
+Y todo varón que fue hallado con él tecélet y argamán y gusano de escarlata y lino y cabras, y pieles de carneros enrojecidas y pieles de tejashim, hicieron venir.
 
 ### 35:24
 
-Trajeron toda clase de metales, plata y cobre, y todo hombre que tenía consigo madera de cedro para todo el trabajo del servicio trajeron sus dones.
+Todo alzante alzamiento de plata y cobre hicieron venir el alzamiento de Jehová, y todo que fue hallado con él palos de shitim para toda labor del servicio, hicieron venir.
 
 ### 35:25
 
-Y toda mujer que tenía en su mano habilidad, trajo hilos de lana azul, púrpura y carmesí, y lino fino.
+Y toda mujer sabia de corazón en sus manos hilaron, e hicieron venir hilado, el tecélet y el argamán, gusano de la escarlata y el lino.
 
 ### 35:26
 
-Y todas las mujeres que tenían en su mano habilidad tejieron las pieles de carneros rojos.
+Y todas las mujeres que las alzó su corazón en sabiduría hilaron las cabras.
 
 ### 35:27
 
-Y los nobles trajeron las piedras de shoham y las piedras de los colores para el efod y para el pectoral.
+Y los príncipes hicieron venir las piedras del shoham y las piedras de las llenuras para el efod y para el pectoral,
 
 ### 35:28
 
-Y trajeron el bálsamo, el aceite para la luz, el aceite de unción y la especia aromática.
+y el aroma y el aceite para alumbrado y para aceite de la unción y para incienso de las especias.
 
 ### 35:29
 
-Todo hombre y toda mujer cuyo corazón se ofreció voluntariamente para traer lo que se necesitaba para todas las obras que el SEÑOR había ordenado hacer por medio de Moisés, trajeron los israelitas voluntariamente como ofrenda al SEÑOR.
+Todo varón y mujer que los ofreció su corazón a hacer venir a toda la labor que mandó Jehová a hacer en mano de Moshe, hicieron venir hijos de Israel dádiva a Jehová.
 
 ### 35:30
 
-Entonces Moisés les dijo a los israelitas: “Miren, el SEÑOR ha llamado por nombre a Betzalel, hijo de Uri, hijo de Hur, de la tribu de Judá.
+Y dijo Moshe a hijos de Israel: Ved, llamó Jehová en nombre a Betsalél hijo de Uri hijo de Jur, a vara de Yehudá.
 
 ### 35:31
 
-Y el SEÑOR lo llenó de espíritu de sabiduría, entendimiento, conocimiento y toda clase de obra.
+Y lo llenó espíritu de Dios, en sabiduría, en inteligencia y en conocimiento y en toda labor,
 
 ### 35:32
 
-Y para imaginar diseños para hacer en oro, plata y bronce.
+y para pensar pensamientos, para hacer en el oro y en la plata y en el cobre,
 
 ### 35:33
 
-Y para grabar en piedra y para grabar en madera, para hacer toda clase de obra con diseño.
+y en labrado de piedra para llenar, y en labrado de palo, para hacer en toda labor de pensamiento.
 
 ### 35:34
 
-Y le dio en su corazón para enseñar. Él, junto con Ahisamach, hijo de Dan.
+Y para enseñar dio en su corazón, él y Oholiav hijo de Ajisamak, a vara de Dan.
 
 ### 35:35
 
-Les llenó de sabiduría en el corazón para hacer toda clase de obra de artífice y de diseñador, y para tejer en azul y en púrpura, en carmesí y en lino fino, y para hacer toda clase de obra y para diseñar diseños.
+Los llenó sabiduría de corazón para hacer toda labor de artífice y pensante y bordador en el tecélet y en el argamán, en gusano de la escarlata y en el lino, y tejedor, hacedores de toda labor y pensantes de pensamientos.
 
 ## Capítulo 36
 
 ### 36:1
 
-Y hizo a Betzalel e Ahisajav, y a todo hombre sabio de corazón, a quien el SEÑOR dio sabiduría y entendimiento para conocer cómo hacer toda obra de la obra del santuario, según todo lo que el SEÑOR había mandado.
+Y hará Betsalél y Oholiav y todo varón sabio de corazón que dio Jehová sabiduría e inteligencia en ellos, para conocer a hacer toda labor de servicio de la santidad, a todo lo que mandó Jehová.
 
 ### 36:2
 
-Mosé llamó a Betzalel y a Ahisajav, y a todo hombre sabio de corazón, a quien el SEÑOR dio sabiduría y entendimiento para conocer cómo hacer toda obra de la obra del santuario, según todo lo que el SEÑOR había mandado.
+Y llamó Moshe a Betsalél y a Oholiav y a todo varón sabio de corazón que dio Jehová sabiduría en su corazón, todo que lo alzó su corazón a acercarse a la labor para hacerla.
 
 ### 36:3
 
-Tomaron de delante de Mosé toda la ofrenda que habían traído los hijos de Israel para la obra del servicio del santuario para hacerla, y ellos traían más ofrenda cada mañana.
+Y tomaron de faces de Moshe todo el alzamiento que hicieron venir hijos de Israel a labor de servicio de la santidad para hacerla, y ellos hacían venir a él todavía dádiva en la mañana en la mañana.
 
 ### 36:4
 
-Vinieron todos los sabios que hacían toda obra del santuario, cada uno de su obra que hacían.
+Y vinieron todos los sabios los hacedores de toda labor de la santidad, varón varón desde su labor que ellos haciendo.
 
 ### 36:5
 
-Dijeron a Mosé diciendo: El pueblo abunda en traer para la obra de la obra que el SEÑOR había mandado hacerla.
+Y dijeron a Moshe, diciendo: Multiplicantes el pueblo a hacer venir, más que bastante del servicio a la labor que mandó Jehová a hacerla.
 
 ### 36:6
 
-Moshé ordenó que se diera la voz en el campamento diciendo: Nadie, hombre ni mujer, haga más trabajo para la ofrenda del santuario. El pueblo cesó de traer.
+Y mandó Moshe, e hicieron pasar voz en el campamento, diciendo: Varón y mujer, no hagan todavía labor a alzamiento de la santidad. Y fue detenido el pueblo de hacer venir.
 
 ### 36:7
 
-La obra era suficiente para toda la obra que se debía hacer. Había de sobra.
+Y la labor fue bastante de ellos para toda la labor, para hacerla, y sobrar.
 
 ### 36:8
 
-Todos los hábiles de corazón que hacían toda obra del santuario hicieron el tabernáculo: diez cortinas de lino fino, azul, púrpura, carmesí y de hilos de lana tejidos con figuras de querubines, obra de un tejedor.
+Y hicieron todo sabio de corazón en los hacedores de la labor la morada, diez cortinas, lino torcido y tecélet y argamán y gusano de escarlata; querubim, obra de pensante, hizo a ellos.
 
 ### 36:9
 
-El largo de cada cortina era de veintidós codos y el ancho de cuatro codos; el largo de cada cortina era de veintidós codos y el ancho de cuatro codos; la medida de cada cortina era la misma para todas las cortinas.
+Longitud de la cortina la una, ocho y veinte en el codo, y anchura cuatro en el codo, la cortina la una; medida una a todas las cortinas.
 
 ### 36:10
 
-Unió cinco cortinas una con otra, y unió cinco cortinas una con otra.
+Y juntó las cinco cortinas, una a una, y cinco cortinas juntó, una a una.
 
 ### 36:11
 
-Hizo nudos de lana azul en el borde de la primera cortina, en el extremo de la unión; así hizo en el borde de la segunda cortina, en el extremo de la unión.
+Y hizo lazos de tecélet sobre labio de la cortina la una, desde cabo en la juntura; así hizo en labio de la cortina la extrema en la juntura la segunda.
 
 ### 36:12
 
-Hizo cincuenta nudos en la primera cortina, y cincuenta nudos en el extremo de la segunda cortina, en el extremo de la unión; los nudos correspondían uno a uno.
+Cincuenta lazos hizo en la cortina la una, y cincuenta lazos hizo en cabo de la cortina que en la juntura la segunda; enfrentantes los lazos, una a una.
 
 ### 36:13
 
-Hizo cincuenta varillas de oro y unió las cortinas una con otra con las varillas; así el tabernáculo era una sola unidad.
+Y hizo cincuenta broches de oro, y juntó las cortinas una a una en los broches, y fue la morada una.
 
 ### 36:14
 
-Hizo cortinas de piel de carneros para el tabernáculo; hizo doce cortinas.
+Y hizo cortinas de cabras a tienda sobre la morada; once cortinas hizo a ellas.
 
 ### 36:15
 
-El largo de una cortina era de treinta codos, y el ancho de una cortina era de cuatro codos; la medida era la misma para todas las doce cortinas.
+Longitud de la cortina la una, treinta en el codo, y cuatro codos anchura de la cortina la una; medida una a once cortinas.
 
 ### 36:16
 
-Unió cinco cortinas por sí mismas, y seis cortinas por sí mismas.
+Y juntó las cinco cortinas a solas, y las seis cortinas a solas.
 
 ### 36:17
 
-Hizo cincuenta nudos en el extremo de la primera cortina, y cincuenta nudos en el extremo de la segunda cortina, en el extremo de la unión.
+Y hizo lazos cincuenta sobre labio de la cortina la extrema en la juntura, y cincuenta lazos hizo sobre labio de la cortina la juntante la segunda.
 
 ### 36:18
 
-Hizo cincuenta argollas de bronce para unir el tabernáculo, para que fuera uno.
+Y hizo broches de cobre cincuenta, para juntar la tienda a ser una.
 
 ### 36:19
 
-Hizo un forro para el tabernáculo de cueros de carneros rojos y un forro de cueros de dalmáticos por encima.
+Y hizo cubierta a la tienda, pieles de carneros enrojecidas, y cubierta de pieles de tejashim desde arriba.
 
 ### 36:20
 
-Hizo los tableros para el tabernáculo de madera de cedro, de pie.
+Y hizo las tablas a la morada, palos de shitim, parados.
 
 ### 36:21
 
-Diez codos era la longitud del tablero, y un codo y medio el ancho del tablero.
+Diez codos longitud de la tabla, y codo y medio del codo anchura de la tabla la una.
 
 ### 36:22
 
-Dos manos para cada tablero, entrelazadas una con la otra; así hizo para todos los tableros del tabernáculo.
+Dos manos a la tabla la una, ensambladas una a una; así hizo a todas tablas de la morada.
 
 ### 36:23
 
-Y hizo los tableros para el tabernáculo: veinte tableros para el lado del sur al oeste.
+Y hizo las tablas a la morada, veinte tablas a lado de Néguev, temaná.
 
 ### 36:24
 
-Y cuarenta bases de plata hizo para los veinte tableros: dos bases bajo cada tablero, una base bajo cada mano; dos bases bajo cada tablero, una base bajo cada mano.
+Y cuarenta basas de plata hizo debajo de veinte las tablas, dos basas debajo de la tabla la una a sus dos manos, y dos basas debajo de la tabla la una a sus dos manos.
 
 ### 36:25
 
-Y para el lado del tabernáculo del norte hizo veinte tableros.
+Y a costilla de la morada la segunda, a lado de Tsafón, hizo veinte tablas,
 
 ### 36:26
 
-Y cuarenta bases de plata hizo para los veinte tableros: dos bases bajo cada tablero, una base bajo cada mano; dos bases bajo cada tablero, una base bajo cada mano.
+y cuarenta sus basas plata, dos basas debajo de la tabla la una, y dos basas debajo de la tabla la una.
 
 ### 36:27
 
-Y para el lado del tabernáculo del sur hizo seis tableros.
+Y a flancos de la morada, hacia mar, hizo seis tablas.
 
 ### 36:28
 
-Y dos tableros hizo para las esquinas del tabernáculo en los dos extremos.
+Y dos tablas hizo a rincones de la morada en los flancos.
 
 ### 36:29
 
-Y serán unidos desde abajo, y juntos estarán hasta el extremo superior, hasta la argolla; así hizo para los dos, para las dos esquinas.
+Y fueron gemelos desde abajo, y juntos serán enteros a su cabeza, al anillo el uno; así hizo a los dos de ellos, a los dos rincones.
 
 ### 36:30
 
-Y habrá ocho tablas de cedro, y sus anillos de plata, dieciséis anillos, dos anillos en cada tabla.
+Y fueron ocho tablas, y sus basas plata, seis diez basas, dos basas dos basas debajo de la tabla la una.
 
 ### 36:31
 
-Y hizo los clavos de cedro, cinco para las tablas de una costilla del tabernáculo.
+Y hizo barras de palos de shitim, cinco a tablas de costilla de la morada la una,
 
 ### 36:32
 
-Y cinco clavos para las tablas de la otra costilla del tabernáculo, y cinco clavos para las tablas del tabernáculo para el lado meridional.
+y cinco barras a tablas de costilla de la morada la segunda, y cinco barras a tablas de la morada a los flancos, hacia mar.
 
 ### 36:33
 
-Y hizo el clavo medio para que pasara por el medio de las tablas, desde un extremo hasta el otro.
+Y hizo la barra la del medio, para barrear en medio de las tablas desde el cabo al cabo.
 
 ### 36:34
 
-Y revistió los listones de oro y forjó en ellos anillos de oro para los clavijeros, y revistió los clavijeros de oro.
+Y las tablas chapó oro, y sus anillos hizo oro, casas a las barras, y chapó las barras oro.
 
 ### 36:35
 
-Y hizo la cortina de púrpura, de escarlata, de carmesí y de lino tejido a mano, con diseños de querubines.
+Y hizo el velo, tecélet y argamán y gusano de escarlata y lino torcido; obra de pensante hizo a ella, querubim.
 
 ### 36:36
 
-Y hizo para ella cuatro columnas de cedro, las revistió de oro y puso en ellas cuatro aros de oro, y echó en ellos cuatro bases de plata.
+Y hizo a ella cuatro columnas de shitim, y las chapó oro, sus ganchos oro, y fundió a ellos cuatro basas de plata.
 
 ### 36:37
 
-Y hizo para la entrada del tabernáculo una cortina de púrpura, de escarlata, de carmesí y de lino tejido a mano, obra de bordador.
+Y hizo pantalla a apertura de la tienda, tecélet y argamán y gusano de escarlata y lino torcido, obra de bordador.
 
 ### 36:38
 
-Y revistió las cabezas y los cuernos de cinco columnas y de sus cinco bases de bronce con oro.
+Y sus columnas cinco, y sus ganchos, y chapó sus cabezas y sus fajas oro, y sus basas cinco cobre.
 
 ## Capítulo 37
 
 ### 37:1
 
-Entonces Betzalel hizo el arca de madera de acacia; su longitud era de dos cubits y medio, su anchura de un cubit y medio, y su altura de un cubit y medio.
+Y hizo Betsalel el arca, maderos de shitim, dos codos y medio su largo, y codo y medio su ancho, y codo y medio su alto.
 
 ### 37:2
 
-La revistió de oro puro por dentro y por fuera, y le hizo alrededor una corona de oro.
+Y lo recubrió oro puro de casa y de fuera, y hizo a él filete de oro alrededor.
 
 ### 37:3
 
-Fundió en ella cuatro anillos de oro y los puso en los cuatro pies, dos anillos en un lado y dos anillos en el otro lado.
+Y fundió a él cuatro anillos de oro sobre cuatro sus pies, y dos anillos sobre su costado el uno, y dos anillos sobre su costado el segundo.
 
 ### 37:4
 
-Hizo varas de madera de acacia y las recubrió de oro.
+Y hizo varas, maderos de shitim, y recubrió a ellas oro.
 
 ### 37:5
 
-Introdujo las varas en los anillos, a los costados del arca, para cargar el arca.
+Y hizo entrar las varas en los anillos sobre costados del arca, para alzar el arca.
 
 ### 37:6
 
-Hizo la propitiatorio de oro puro; dos cubitos y medio su longitud y un cubito y medio su anchura.
+Y hizo cubierta de oro puro, dos codos y medio su largo, y codo y medio su ancho.
 
 ### 37:7
 
-Hizo dos querubines de oro; los hizo de obra de fundición, sobre las dos extremidades de la propitiatorio.
+Y hizo dos querubim de oro; de martillo hizo a ellos, de los dos extremos de la cubierta.
 
 ### 37:8
 
-Hizo un querubín en un extremo y un querubín en el otro extremo; hizo los querubines de las dos extremidades del propiciatorio.
+Querub uno de extremo de este, y querub uno de extremo de este; de la cubierta hizo los querubim de sus dos extremos.
 
 ### 37:9
 
-Los querubines tenían sus alas extendidas hacia arriba, cubriendo con sus alas el propiciatorio; y sus rostros estaban uno hacia el otro, mirando hacia el propiciatorio.
+Y fueron los querubim extendiendo alas hacia arriba, cubriendo con sus alas sobre la cubierta, y sus faces varón a su hermano; hacia la cubierta eran faces de los querubim.
 
 ### 37:10
 
-Hizo el altar de panes de madera de acacia; su longitud era de dos codos, su anchura de un codo, y su altura de un codo y medio.
+Y hizo la mesa, maderos de shitim, dos codos su largo, y codo su ancho, y codo y medio su alto.
 
 ### 37:11
 
-Lo recubrió de oro puro y le hizo una corona de oro alrededor.
+Y recubrió a ella oro puro, y hizo a ella filete de oro alrededor.
 
 ### 37:12
 
-Hizo para él un borde de un codo de alrededor, y hizo una corona de oro alrededor del borde.
+Y hizo a ella marco de palmo alrededor, y hizo filete de oro a su marco alrededor.
 
 ### 37:13
 
-Y clavó en él cuatro anillos de oro, y puso los anillos en los cuatro extremos, cerca de los cuatro pies.
+Y fundió a ella cuatro anillos de oro, y dio los anillos sobre las cuatro esquinas que a sus cuatro pies.
 
 ### 37:14
 
-Los anillos estaban cerca del borde, para los bastones, para llevar el altar.
+A la par del marco eran los anillos, a casas para las varas, para alzar la mesa.
 
 ### 37:15
 
-Hizo los bastones de madera de sicomoro, y los recubrió de oro, para llevar el altar.
+Y hizo las varas, maderos de shitim, y recubrió a ellas oro, para alzar la mesa.
 
 ### 37:16
 
-Hizo los utensilios que se ponen sobre el altar: las cucharas, las escudillas, las jarras y los incensarios, de oro puro.
+Y hizo los utensilios que sobre la mesa, sus fuentes y sus palmas y sus jarras y las tazas que se libará en ellas, oro puro.
 
 ### 37:17
 
-Hizo la lámpara de oro puro, de trabajo de artesano la hizo, su base y su columna, sus copas, sus esferas y sus flores, de ella salían.
+Y hizo la menorá oro puro; de martillo hizo la menorá, su muslo y su caña, sus cálices, sus caftorim y sus flores, de ella eran.
 
 ### 37:18
 
-Y seis columnas salían de ella, tres columnas de la lámpara de un lado, y tres columnas de la lámpara del otro lado.
+Y seis cañas salientes de sus lados, tres cañas de menorá de su lado el uno, y tres cañas de menorá de su lado el segundo.
 
 ### 37:19
 
-Tres copas de forma de almendra en cada columna, con esfera y flor; tres copas de forma de almendra en cada columna, con esfera y flor. Así para las seis columnas que salían de la lámpara.
+Tres cálices almendrados en la caña la una, caftor y flor, y tres cálices almendrados en caña una, caftor y flor; así a las seis cañas las salientes de la menorá.
 
 ### 37:20
 
-Y en la lámpara cuatro copas de forma de almendra, esfera y flor.
+Y en la menorá cuatro cálices almendrados, sus caftorim y sus flores.
 
 ### 37:21
 
-Y copa bajo los dos brazos de un lado, y copa bajo los dos brazos del otro lado, y copa bajo los dos brazos de la parte de atrás; para los seis brazos que salen de ella.
+Y caftor debajo de las dos cañas de ella, y caftor debajo de las dos cañas de ella, y caftor debajo de las dos cañas de ella, a las seis cañas las salientes de ella.
 
 ### 37:22
 
-Sus copas y sus brazos salían de ella; toda ella era labrada, una pieza de oro puro.
+Sus caftorim y sus cañas de ella eran; toda ella de martillo una, oro puro.
 
 ### 37:23
 
-Y hizo los siete candeleros y sus tenazas y sus velones de oro puro.
+Y hizo sus lámparas siete, y sus tenazas y sus braseros, oro puro.
 
 ### 37:24
 
-La hizo de un círculo de oro puro, y toda su vajilla de oro puro.
+Talento de oro puro hizo a ella y todos sus utensilios.
 
 ### 37:25
 
-Hizo el altar de las ofrendas de incienso de madera de acacia; su longitud era de un codo, su anchura de un codo, cuadrado, y su altura de dos codos; y sus cuernos salían de ella.
+Y hizo el altar del incienso, maderos de shitim, codo su largo y codo su ancho, cuadrado, y dos codos su alto; de él eran sus cuernos.
 
 ### 37:26
 
-La revistió de oro puro, su parte superior y sus cuatro costados hasta alrededor, y sus cuernos; y le hizo un borde de oro alrededor.
+Y recubrió a él oro puro, su techo y sus paredes alrededor y sus cuernos, y hizo a él filete de oro alrededor.
 
 ### 37:27
 
-Hizo dos anillos de oro para llevarla, bajo el borde, en los dos costados de la caja, en los dos lados, para llevarla.
+Y dos anillos de oro hizo a él de debajo a su filete, sobre dos sus costados, sobre dos sus lados, a casas para las varas, para alzar a él en ellas.
 
 ### 37:28
 
-Hizo los bastones de cedro y los recubrió de oro.
+Y hizo las varas, maderos de shitim, y recubrió a ellas oro.
 
 ### 37:29
 
-Hizo el aceite de consagración, santo, y la incienso puro, obra de aromaterapeuta.
+Y hizo el aceite de la unción, santidad, y el incienso de las especias, puro, obra de perfumista.
 
 ## Capítulo 38
 
 ### 38:1
 
-Hizo el altar de holocausto de cedro, cinco codos su longitud y cinco codos su anchura, cuadrado, y tres codos su altura.
+Y hizo el altar de la ofrenda-subida, maderos de shitim, cinco codos su largo y cinco codos su ancho, cuadrado, y tres codos su alto.
 
 ### 38:2
 
-Hizo las cuernas en sus cuatro esquinas; de él salían las cuernas, y los recubrió de cobre.
+Y hizo sus cuernos sobre cuatro sus esquinas; de él eran sus cuernos, y recubrió a él cobre.
 
 ### 38:3
 
-Hizo todos los utensilios del altar: las sartenes, las escudillas, los cazolets, los cucharones y las mezquetas; todo lo hizo de cobre.
+Y hizo todos los utensilios del altar, las ollas y las palas y los tazones, los tenedores y los braseros; todos sus utensilios hizo cobre.
 
 ### 38:4
 
-Hizo para el altar una red de malla de cobre, bajo la redonda parte, desde abajo hasta la mitad de él.
+Y hizo al altar enrejado, obra de red de cobre, debajo de su borde desde abajo hasta su mitad.
 
 ### 38:5
 
-Fundió cuatro anillos de cobre y los puso en los cuatro extremos de la red de cobre, un anillo en cada extremo.
+Y fundió cuatro anillos en cuatro los extremos al enrejado del cobre, casas a las varas.
 
 ### 38:6
 
-Hizo los varales de madera de acacia y los recubrió de cobre.
+Y hizo las varas, maderos de shitim, y recubrió a ellas cobre.
 
 ### 38:7
 
-Introdujo los varales en los anillos, sobre los costados del altar para cargarlo con ellos. Hizo los varales de madera de acacia y los recubrió de cobre.
+Y hizo entrar las varas en los anillos sobre costados del altar, para alzar a él en ellas; hueco de tablas hizo a él.
 
 ### 38:8
 
-Hizo el lavatorio de cobre y su base de cobre, con los espejos de las mujeres que se habían reunido a la entrada de la Tenda de Reunión.
+Y hizo la pileta cobre, y su peana cobre, en espejos de las haciendo ejército que hicieron ejército, abertura de tienda de tiempo señalado.
 
 ### 38:9
 
-Hizo la cortina del patio al lado sur, al oeste, con columnas de diez varas y sus bases de diez varas, todo de lino tejido en color azul, púrpura, carmesí y lino blanco, y con anillos de plata.
+Y hizo el atrio; a lado de néguev, hacia temán, colgaduras del atrio, lino torcido, cien en el codo.
 
 ### 38:10
 
-Los soportes eran veinte y sus bases eran veinte, de cobre; los varales de los soportes y sus anillos eran de plata.
+Sus columnas veinte, y sus basas veinte, cobre; ganchos de las columnas y sus ligaduras, plata.
 
 ### 38:11
 
-Para el lado norte, cien varas de lino tejido en color azul, púrpura, carmesí y lino blanco, con columnas de veinte y bases de veinte de cobre; los varales de los soportes y sus anillos de plata.
+Y a lado de norte, cien en el codo, sus columnas veinte, y sus basas veinte, cobre; ganchos de las columnas y sus ligaduras, plata.
 
 ### 38:12
 
-Para el lado oeste, cincuenta varas de lino tejido en color azul, púrpura, carmesí y lino blanco, con columnas de diez y bases de diez de cobre; los varales de los soportes y sus anillos de plata.
+Y a lado de mar, colgaduras cincuenta en el codo, sus columnas diez, y sus basas diez; ganchos de las columnas y sus ligaduras, plata.
 
 ### 38:13
 
-Para el lado este, cincuenta varas.
+Y a lado de oriente, hacia salida, cincuenta codo.
 
 ### 38:14
 
-Cincuenta varas de lino tejido en color azul, púrpura, carmesí y lino blanco hasta el ancho del patio, con columnas de tres y bases de tres.
+Colgaduras quince codo al hombro, sus columnas tres, y sus basas tres.
 
 ### 38:15
 
-Para el lado norte, cincuenta varas de lino tejido en color azul, púrpura, carmesí y lino blanco hasta el ancho del patio, con columnas de tres y bases de tres.
+Y al hombro el segundo, de este y de este a puerta del atrio, colgaduras quince codo, sus columnas tres, y sus basas tres.
 
 ### 38:16
 
-Todos los cordones del patio alrededor, sesenta varas.
+Todas las colgaduras del atrio alrededor, lino torcido.
 
 ### 38:17
 
-Y las bases para los postes de bronce; los clavos de los postes de plata, y las junturas de ellos de plata, y las coronas de los postes de plata; y todo el patio de postes de plata.
+Y las basas a las columnas, cobre; ganchos de las columnas y sus ligaduras, plata, y recubrimiento de sus cabezas, plata, y ellos ligados plata, todas las columnas del atrio.
 
 ### 38:18
 
-Y el muro del patio para la entrada del patio, obra de tejido en color azul, púrpura, carmesí y lino blanco, veinte varas de largo y cinco varas de ancho, según el ancho del cordón del patio.
+Y pantalla de puerta del atrio, obra de bordador, tecélet y argamán y gusano de escarlata y lino torcido, y veinte codo largo, y alto en ancho cinco codos, a la par de colgaduras del atrio.
 
 ### 38:19
 
-Y los postes eran cuatro, y sus bases eran cuatro de bronce; sus clavos de plata, y las coronas de los postes de plata, y las junturas de plata.
+Y sus columnas cuatro, y sus basas cuatro, cobre; sus ganchos, plata, y recubrimiento de sus cabezas y sus ligaduras, plata.
 
 ### 38:20
 
-Y todos los clavos del tabernáculo y del patio eran de bronce.
+Y todas las estacas a la morada y al atrio alrededor, cobre.
 
 ### 38:21
 
-Estos son los inventarios del tabernáculo de la alianza, que fueron contados por Moisés; el trabajo de los levitas, a cargo de Itamar, hijo de Aarón, el sacerdote.
+Estos los contados de la morada, morada del testimonio, que fue contado sobre boca de Moshe, servicio de los levitas, en mano de Itamar hijo de Aharón el sacerdote.
 
 ### 38:22
 
-Y Betzalel, hijo de Uri, hijo de Hur, de la tribu de Judá, hizo todo lo que el SEÑOR había ordenado a Moisés.
+Y Betsalel hijo de Uri hijo de Jur, a vara de Yehudá, hizo todo lo que mandó Jehová a Moshe.
 
 ### 38:23
 
-Y con él Aholiab, hijo de Ahisamac, de la tribu de Dan, un artesano y un inventor, un bordador de púrpura, de escarlata, de carmesí y de lino fino.
+Y con él Oholiav hijo de Ajisamaj, a vara de Dan, artífice y pensador y bordador en el tecélet y en el argamán y en gusano de la escarlata y en el lino.
 
 ### 38:24
 
-Todo el oro que se hizo para toda la obra del santuario, el oro de la ofrenda, fue de noventa y seis talentos y setecientos y treinta siclos, según el siclo del santuario.
+Todo el oro el hecho a la obra, en toda obra de la santidad, y fue oro del mecimiento nueve y veinte talento y siete cientas y treinta siclo, en siclo de la santidad.
 
 ### 38:25
 
-Y la plata contada del pueblo fue de cien talentos y mil setecientos y cincuenta y siete siclos, según el siclo del santuario.
+Y plata de los contados de la congregación, cien talento y mil y siete cientas y cinco y setenta siclo, en siclo de la santidad.
 
 ### 38:26
 
-Un beka por cada cabeza, media siclo según el siclo del santuario, para todo el que pasaba por el censo, de veinte años y más, seiscientos mil quinientos treinta y cinco.
+Beqa al cráneo, mitad del siclo, en siclo de la santidad, a todo el pasante sobre los contados, desde hijo de veinte año y arriba, a seis cientas mil y tres mil y cinco cientas y cincuenta.
 
 ### 38:27
 
-Y la plata contada fue de cien talentos, un beka por cada cabeza, medio siclo según el siclo del santuario, y con ella hicieron los anillos de la cubierta del santuario y de la cortina, un anillo por cada talento, un talento por cada anillo.
+Y fue cien talento de la plata para fundir las basas de la santidad y las basas del velo; cien basas a cien del talento, talento a la basa.
 
 ### 38:28
 
-Y con el mil setecientos y cincuenta y siete siclos hicieron los ganchos para los columnas, y los cubrieron con plata y fundieron sus bases.
+Y el mil y siete las cientas y cinco y setenta hizo ganchos a las columnas, y recubrió sus cabezas, y ligó a ellas.
 
 ### 38:29
 
-Y el bronce de la ofrenda fue de setenta talentos y dos mil cuatrocientos siclos.
+Y cobre del mecimiento, setenta talento y dos mil y cuatro cientas siclo.
 
 ### 38:30
 
-Y con ello hizo los anillos del umbral de la tienda del testimonio, el altar de bronce y su redondo de bronce, y todos los utensilios del altar.
+Y hizo en ella las basas de abertura de tienda de tiempo señalado, y el altar del cobre, y el enrejado del cobre que a él, y todos los utensilios del altar.
 
 ### 38:31
 
-Y el bronce de los soportes alrededor del patio, y el bronce del soporte de la entrada del patio, y todos los clavos del tabernáculo y todos los clavos del patio alrededor.
+Y las basas del atrio alrededor, y las basas de puerta del atrio, y todas las estacas de la morada, y todas las estacas del atrio alrededor.
 
 ## Capítulo 39
 
 ### 39:1
 
-Y de la púrpura, del escarlata, del carmesí y del lino fino hicieron vestidos de obra de arte para servir en el santuario, y hicieron los vestidos de santidad para Aarón, como el Señor había ordenado a Moisés.
+Y desde el tecélet y el argamán y gusano de la escarlata hicieron los vestidos del srad para ministrar en la santidad, y hicieron los vestidos de la santidad que a Aharón, como que mandó Jehová a Moshe.
 
 ### 39:2
 
-Y hizo el efod de oro, púrpura, escarlata, carmesí y lino fino tejido a mano.
+Y hizo el efod, oro, tecélet y argamán y gusano de escarlata y lino torcido.
 
 ### 39:3
 
-Y estiraron los hilos de oro y cortaron hilos para tejer en la púrpura, en el escarlata, en el carmesí y en el lino fino, obra de un tejedor.
+Y laminaron las láminas del oro, y cortó hilos, para hacer en medio del tecélet y en medio del argamán y en medio de gusano de la escarlata y en medio del lino, obra de pensador.
 
 ### 39:4
 
-Hicieron para él las cadenas de aro doblado, para los dos extremos.
+Hombros hicieron a él, juntantes, sobre dos sus extremos fue juntado.
 
 ### 39:5
 
-Y hicieron el cinto de la efod de obra de tejedor, de oro, púrpura, escarlata, carmesí y lino fino, tal como el Señor había ordenado a Moisés.
+Y cinto de su efodadura que sobre él, de él él, como su obra, oro, tecélet y argamán y gusano de escarlata y lino torcido, como que mandó Jehová a Moshe.
 
 ### 39:6
 
-Y hicieron las piedras de memorial, incrustadas en marcos de oro, grabadas como grabados de un sello, con los nombres de los hijos de Israel.
+Y hicieron las piedras del shoham, rodeadas engastes de oro, grabadas grabados de sello, sobre nombres de hijos de Israel.
 
 ### 39:7
 
-Y las pusieron sobre las cadenas de aro doblado del efod, como piedras de memoria a los hijos de Israel, tal como el Señor había ordenado a Moisés.
+Y puso a ellas sobre hombros del efod, piedras de memorial a hijos de Israel, como que mandó Jehová a Moshe.
 
 ### 39:8
 
-Y hizo el choshén, obra de un tejedor, como obra del efod: oro, azul, púrpura, carmesí y lino teñido.
+Y hizo el pectoral, obra de pensador, como obra de efod, oro, tecélet y argamán y gusano de escarlata y lino torcido.
 
 ### 39:9
 
-Era cuadrado y doblado; hicieron el choshén de cuadrado, un codo su longitud y un codo su anchura, doblado.
+Cuadrado era, doblado hicieron el pectoral, zéret su largo y zéret su ancho, doblado.
 
 ### 39:10
 
-Y lo llenaron de piedras, cuatro filas de piedras; en la primera fila: rodio, topacio y berilo.
+Y llenaron en él cuatro hileras de piedra: hilera de ódem, pitdá y baréket, la hilera la una.
 
 ### 39:11
 
-Y en la segunda fila: espinel, safir y jaspe.
+Y la hilera la segunda: nófej, sapir y yahalom.
 
 ### 39:12
 
-Y la tercera fila: lesm, shvo y aklama.
+Y la hilera la tercera: léshem, shevó y ajlamá.
 
 ### 39:13
 
-Y la cuarta fila: tarshis, shoham y yashfe, incrustadas en marcos de oro, en sus incrustaciones.
+Y la hilera la cuarta: tarshish, shoham y yashfé, rodeadas engastes de oro en sus llenuras.
 
 ### 39:14
 
-Y las piedras estaban según los nombres de los hijos de Israel, doce según sus nombres, grabados como sellos, cada uno con su propio nombre, para los doce tribus.
+Y las piedras sobre nombres de hijos de Israel ellas, doce sobre sus nombres, grabados de sello, varón sobre su nombre, a doce tribu.
 
 ### 39:15
 
-Y hicieron sobre el choshen cadenas de obra de hilos tejidos de oro puro.
+Y hicieron sobre el pectoral cadenillas de borde, obra de cordón, oro puro.
 
 ### 39:16
 
-Y hicieron dos mosquetones de oro y dos anillos de oro, y pusieron los dos anillos en los dos extremos del choshen.
+Y hicieron dos engastes de oro y dos anillos de oro, y dieron los dos anillos sobre dos extremos del pectoral.
 
 ### 39:17
 
-Y pusieron los dos anillos de oro sobre los dos anillos, sobre los extremos del choshen.
+Y dieron los dos cordones del oro sobre los dos anillos sobre extremos del pectoral.
 
 ### 39:18
 
-Y tomaron los dos extremos de los dos anillos y los pusieron sobre los dos mosquetones, y los colocaron sobre los hombros del efod, delante del pecho.
+Y los dos extremos de los dos cordones dieron sobre los dos engastes, y los dieron sobre hombros del efod hacia frente de sus faces.
 
 ### 39:19
 
-Y hicieron dos anillos de oro y los pusieron sobre los dos extremos del choshen, sobre el borde que está del lado del efod, en su interior.
+Y hicieron dos anillos de oro, y pusieron sobre dos extremos del pectoral, sobre su labio que hacia lado del efod, hacia casa.
 
 ### 39:20
 
-Y hicieron dos argollas de oro y las pusieron sobre los dos bordes del choshen, sobre el lado del efod, cerca del cinto del efod.
+Y hicieron dos anillos de oro, y los dieron sobre dos hombros del efod desde abajo, de frente de sus faces, a la par de su juntura, de sobre al cinto del efod.
 
 ### 39:21
 
-Y cosieron el choshen a las argollas, a las argollas del efod, con un cordón azul, para que estuviera sobre el cinto del efod y el choshen no se separara del efod, como el Señor había ordenado a Moisés.
+Y ataron el pectoral desde sus anillos hacia anillos del efod en cordón de tecélet, para ser sobre cinto del efod, y no se apartará el pectoral de sobre el efod, como que mandó Jehová a Moshe.
 
 ### 39:22
 
-Y hizo el manto del efod de obra de tejedor, todo de azul.
+Y hizo el manto del efod, obra de tejedor, entero tecélet.
 
 ### 39:23
 
-Y el borde del manto en su interior era como el borde de un cuello, con borlas alrededor del borde, que no se rasgaba.
+Y boca del manto en su medio como boca de tajrá, labio a su boca alrededor, no será rasgado.
 
 ### 39:24
 
-Y hicieron sobre los hombros del manto bolas de azul, púrpura y carmesí, y de hilos de oro tejidos.
+Y hicieron sobre faldas del manto granadas de tecélet y argamán y gusano de escarlata, torcido.
 
 ### 39:25
 
-Y hicieron campanas de oro puro, y pusieron las campanas entre las bolas, sobre los hombros del manto, alrededor de las bolas.
+Y hicieron campanillas de oro puro, y dieron las campanillas en medio de las granadas sobre faldas del manto alrededor, en medio de las granadas.
 
 ### 39:26
 
-Campana y bola, campana y bola, sobre los hombros del manto alrededor, para servir como el Señor había ordenado a Moisés.
+Campanilla y granada, campanilla y granada, sobre faldas del manto alrededor, para ministrar, como que mandó Jehová a Moshe.
 
 ### 39:27
 
-Y hicieron las túnicas de lino tejido para Aarón y para sus hijos.
+Y hicieron las túnicas, lino, obra de tejedor, a Aharón y a sus hijos.
 
 ### 39:28
 
-Y el turbante de lino tejido, y los bordes de las gorras de lino tejido, y las calzas de lino tejido de obra de tejedor.
+Y el turbante, lino, y los adornos de los gorros, lino, y los calzones de bad, lino torcido.
 
 ### 39:29
 
-Y el cinto de lino tejido de obra de tejedor, de azul, y de púrpura, y de carmesí, y de lino fino, como el Señor había ordenado a Moisés.
+Y el cinturón, lino torcido y tecélet y argamán y gusano de escarlata, obra de bordador, como que mandó Jehová a Moshe.
 
 ### 39:30
 
-Y hicieron el frontal de oro puro, y escribieron sobre él grabado como el grabado de un sello: Santísimo para el Señor.
+Y hicieron el florón de diadema de la santidad, oro puro, y escribieron sobre él escritura de grabados de sello: Santidad a Jehová.
 
 ### 39:31
 
-Y pusieron sobre él una cuerda azul para ponerla sobre el turbante, como el Señor había ordenado a Moisés.
+Y dieron sobre él cordón de tecélet, para dar sobre el turbante desde arriba, como que mandó Jehová a Moshe.
 
 ### 39:32
 
-Y terminaron toda la obra del tabernáculo del testimonio. Los hijos de Israel hicieron conforme a todo lo que el Señor había ordenado a Moisés.
+Y se acabó todo servicio de morada de tienda de tiempo señalado, y hicieron hijos de Israel conforme a todo lo que mandó Jehová a Moshe, así hicieron.
 
 ### 39:33
 
-Y llevaron el tabernáculo a Moisés, el tabernáculo y todos sus utensilios, sus varas, sus columnas, sus anillos y sus bases.
+Y hicieron venir la morada a Moshe, la tienda y todos sus utensilios, sus broches, sus tablas, sus barras, y sus columnas y sus basas.
 
 ### 39:34
 
-Y llevaron la cubierta de piel de carneros teñidos de rojo, la cubierta de piel de dalmática, y la cortina de separación.
+Y la cubierta de pieles de los carneros los enrojecidos, y la cubierta de pieles de los tejashim, y el velo de la pantalla.
 
 ### 39:35
 
-Y llevaron el arca de la alianza, sus varas y la tapa.
+El arca del testimonio y sus varas y la cubierta.
 
 ### 39:36
 
-Y llevaron la mesa, todos sus utensilios y el pan de la presencia.
+La mesa, todos sus utensilios, y el pan de las faces.
 
 ### 39:37
 
-Y llevaron la lámpara de oro puro, sus lámparas en orden, todos sus utensilios, y el aceite para la luz.
+La menorá la pura, sus lámparas, lámparas del arreglo, y todos sus utensilios, y el aceite del luminar.
 
 ### 39:38
 
-Y llevaron el altar de oro, el aceite de unción, la incienso aromático y la cortina del umbral de la tienda.
+Y el altar del oro, y el aceite de la unción, y el incienso de las especias, y pantalla de abertura de la tienda.
 
 ### 39:39
 
-Y llevaron el altar de bronce, su brasero de bronce, sus tenazas y sus utensilios, el caldero y su asa.
+El altar del cobre y el enrejado del cobre que a él, sus varas y todos sus utensilios, la pileta y su peana.
 
 ### 39:40
 
-Y llevaron los clavos del patio, sus columnas, sus bases y el velo para la entrada del patio, sus cuerdas y sus estacas, y todos los utensilios de servicio para la tienda de reunión.
+Las colgaduras del atrio, sus columnas y sus basas, y la pantalla a puerta del atrio, sus cuerdas y sus estacas, y todos los utensilios de servicio de la morada a tienda de tiempo señalado.
 
 ### 39:41
 
-Y llevaron las vestiduras para servir en el santuario, las vestiduras sagradas para Aarón el sacerdote, y las vestiduras para sus hijos para ser sacerdotes.
+Los vestidos del srad para ministrar en la santidad, los vestidos de la santidad a Aharón el sacerdote, y los vestidos de sus hijos para sacerdotear.
 
 ### 39:42
 
-Todo lo que el SEÑOR había ordenado a Moisés, así lo hicieron los israelitas en cuanto a toda la obra.
+Conforme a todo lo que mandó Jehová a Moshe, así hicieron hijos de Israel todo el servicio.
 
 ### 39:43
 
-Y Moisés vio toda la obra y he aquí que la habían hecho como el SEÑOR les había ordenado; así lo hicieron. Y Moisés los bendijo.
+Y vio Moshe toda la obra, y he aquí hicieron a ella como que mandó Jehová, así hicieron; y bendijo a ellos Moshe.
 
 ## Capítulo 40
 
 ### 40:1
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 40:2
 
-En el primer día del mes, en el primer día del mes, levantarás la carpa del tabernáculo de reunión.
+En día del mes el primero, en uno al mes, levantarás morada de tienda de tiempo señalado.
 
 ### 40:3
 
-Y pondrás allí el arca de la alianza, y cubrirás el arca con el velo.
+Y pondrás allí el arca del testimonio, y cubrirás sobre el arca el velo.
 
 ### 40:4
 
-Y traerás la mesa y la ordenarás; y traerás la lámpara y encenderás las lámparas.
+Y harás entrar la mesa, y arreglarás su arreglo, y harás entrar la menorá, y harás subir sus lámparas.
 
 ### 40:5
 
-Y pondrás el altar de oro para el incienso delante del arca de la alianza, y pondrás el cortinaje de la entrada del tabernáculo.
+Y darás el altar del oro a incienso a faces de arca del testimonio, y pondrás pantalla de la abertura a la morada.
 
 ### 40:6
 
-Y pondrás el altar de holocaustos delante de la entrada del tabernáculo de la congregación.
+Y darás el altar de la ofrenda-subida a faces de abertura de morada de tienda de tiempo señalado.
 
 ### 40:7
 
-Y pondrás el lavatorio entre el tabernáculo de la congregación y el altar, y pondrás agua allí.
+Y darás la pileta entre tienda de tiempo señalado y entre el altar, y darás allí aguas.
 
 ### 40:8
 
-Y pondrás la corte alrededor, y pondrás el cortinaje de la entrada de la corte.
+Y pondrás el atrio alrededor, y darás pantalla de puerta del atrio.
 
 ### 40:9
 
-Toma el aceite de la unción y úntalo sobre el tabernáculo y sobre todo lo que hay en él, y sácalo para santificarlo, y será santo.
+Y tomarás el aceite de la unción, y ungirás la morada y todo lo que en ella, y santificarás a ella y todos sus utensilios, y será santidad.
 
 ### 40:10
 
-Y úntalo sobre el altar de holocaustos y sobre todo su vajilla, y sácalo para santificar el altar, y el altar será muy santo.
+Y ungirás el altar de la ofrenda-subida y todos sus utensilios, y santificarás el altar, y será el altar santidad de santidades.
 
 ### 40:11
 
-Y úntalo sobre el lavatorio y sobre su base, y sácalo para santificarlo.
+Y ungirás la pileta y su peana, y santificarás a ella.
 
 ### 40:12
 
-Y presentarás a Aarón y a sus hijos a la entrada de la tienda de reunión, y los lavarás con agua.
+Y acercarás a Aharón y a sus hijos a abertura de tienda de tiempo señalado, y lavarás a ellos en las aguas.
 
 ### 40:13
 
-Y viste a Aarón con las vestiduras santas, y ungelele, y sácalo para santificarlo, y será para mí sacerdote.
+Y vestirás a Aharón los vestidos de la santidad, y ungirás a él, y santificarás a él, y sacerdoteará a mí.
 
 ### 40:14
 
-Y presentarás a sus hijos, y vístelos tú con túnicas.
+Y a sus hijos acercarás, y vestirás a ellos túnicas.
 
 ### 40:15
 
-Y ungelelos como ungiste a su padre, y serán para mí sacerdotes. Será para ellos la unción de ellos para sacerdocio perenne, para sus generaciones.
+Y ungirás a ellos como que ungiste a su padre, y sacerdotearán a mí, y será para ser a ellos su unción a sacerdocio de siempre a sus generaciones.
 
 ### 40:16
 
-Y Moisés hizo conforme a todo lo que el SEÑOR le había mandado.
+Y hizo Moshe conforme a todo lo que mandó Jehová a él, así hizo.
 
 ### 40:17
 
-Y fue en el mes primero, en el año segundo, en el día primero del mes, que se levantó el tabernáculo.
+Y fue en el mes el primero, en el año el segundo, en uno al mes, fue levantada la morada.
 
 ### 40:18
 
-Y levantó Moisés el tabernáculo, y puso sus bases, y puso sus tabiques, y puso sus varillas, y levantó sus columnas.
+Y levantó Moshe la morada, y dio sus basas, y puso sus tablas, y dio sus barras, y levantó sus columnas.
 
 ### 40:19
 
-Y extendió el tendido sobre el tabernáculo, y puso sobre él la cubierta de cuero, como el SEÑOR había ordenado a Moisés.
+Y extendió la tienda sobre la morada, y puso la cubierta de la tienda sobre ella desde arriba, como que mandó Jehová a Moshe.
 
 ### 40:20
 
-Y tomó y puso la ley en el arca, y puso las varas sobre el arca, y puso la tapa sobre el arca por encima.
+Y tomó y dio el testimonio hacia el arca, y puso las varas sobre el arca, y dio la cubierta sobre el arca desde arriba.
 
 ### 40:21
 
-Y llevó el arca al tabernáculo, y puso el velo de separación, y echó la sangre sobre el arca de la alianza, como el SEÑOR había ordenado a Moisés.
+Y hizo entrar el arca hacia la morada, y puso el velo de la pantalla, y cubrió sobre arca del testimonio, como que mandó Jehová a Moshe.
 
 ### 40:22
 
-Y puso la mesa en la tienda de reunión, al lado del tabernáculo al norte, fuera del velo.
+Y dio la mesa en tienda de tiempo señalado, sobre muslo de la morada hacia norte, de fuera al velo.
 
 ### 40:23
 
-Y dispuso sobre ella el pan de la proposición delante del SEÑOR, como el SEÑOR había ordenado a Moisés.
+Y arregló sobre ella arreglo de pan a faces de Jehová, como que mandó Jehová a Moshe.
 
 ### 40:24
 
-Y puso la lámpara en la tienda de reunión, enfrente de la mesa, al lado del tabernáculo al sur.
+Y puso la menorá en tienda de tiempo señalado, enfrente de la mesa, sobre muslo de la morada hacia néguev.
 
 ### 40:25
 
-Y encendió las lámparas delante del SEÑOR, como el SEÑOR había ordenado a Moisés.
+Y hizo subir las lámparas a faces de Jehová, como que mandó Jehová a Moshe.
 
 ### 40:26
 
-Y puso el altar de oro en la tienda de reunión, enfrente del velo.
+Y puso el altar del oro en tienda de tiempo señalado, a faces del velo.
 
 ### 40:27
 
-Y quemó incienso aromático sobre él, como el SEÑOR había ordenado a Moisés.
+Y hizo humear sobre él incienso de especias, como que mandó Jehová a Moshe.
 
 ### 40:28
 
-Y puso el toldo de la entrada de la tienda.
+Y puso pantalla de la abertura a la morada.
 
 ### 40:29
 
-Y puso el altar de holocaustos en la entrada de la tienda de reunión, y subió sobre él el holocausto y la ofrenda de galletas, como el SEÑOR había ordenado a Moisés.
+Y el altar de la ofrenda-subida puso, abertura de morada de tienda de tiempo señalado, y hizo subir sobre él la ofrenda-subida y la ofrenda, como que mandó Jehová a Moshe.
 
 ### 40:30
 
-Y colocó el lavatorio entre la tienda de reunión y el altar, y puso agua para lavarse allí.
+Y puso la pileta entre tienda de tiempo señalado y entre el altar, y dio allá aguas para lavar.
 
 ### 40:31
 
-Y se lavarán con ella Moisés, Aarón y sus hijos las manos y los pies.
+Y lavaron de él Moshe y Aharón y sus hijos sus manos y sus pies.
 
 ### 40:32
 
-Cuando entren a la tienda de reunión y cuando se acerquen al altar, se lavarán, como el SEÑOR había ordenado a Moisés.
+En su venir a tienda de tiempo señalado y en su acercarse al altar, lavarán, como que mandó Jehová a Moshe.
 
 ### 40:33
 
-Y levantó la cortina alrededor del tabernáculo y del altar, y puso la cortina a la entrada de la cortina; así terminó Moisés la obra.
+Y levantó el atrio alrededor a la morada y al altar, y dio pantalla de puerta del atrio, y acabó Moshe la obra.
 
 ### 40:34
 
-Y el Señor cubrió el tabernáculo con nube, y la gloria del SEÑOR llenó el tabernáculo.
+Y cubrió la nube la tienda de tiempo señalado, y gloria de Jehová llenó la morada.
 
 ### 40:35
 
-Y Moisés no podía entrar en la tienda de reunión, porque la nube la había cubierto, y la gloria del SEÑOR llenaba el tabernáculo.
+Y no pudo Moshe a venir a tienda de tiempo señalado, porque habitó sobre ella la nube, y gloria de Jehová llenó la morada.
 
 ### 40:36
 
-Y cuando la nube se levantaba del tabernáculo, los hijos de Israel se marchaban cada uno a su lugar; y cuando la nube se posaba, allí acampaban.
+Y en el subirse la nube de sobre la morada, partirán hijos de Israel en todas sus partidas.
 
 ### 40:37
 
-Y si no se levantaba la nube, no marchaban hasta el día en que se levantaba.
+Y si no subiere la nube, y no partirán, hasta día de su subirse.
 
 ### 40:38
 
-Porque el anhelo de Yavé estaba sobre el tabernáculo de día, y el fuego ardía de noche, a ojos de toda la casa de Israel en todos sus viajes.
+Porque nube de Jehová sobre la morada de día, y fuego será noche en ella, a ojos de toda casa de Israel, en todas sus partidas.
+
