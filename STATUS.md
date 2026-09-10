@@ -14,7 +14,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | genesis | ot | done | done | John Wry | 2026-08-28 | John Wry | 2026-08-28 |  |
 | exodo | ot | draft | none |  |  |  |  |  |
-| levitico | ot | draft | none |  |  |  |  |  |
+| levitico | ot | draft | none |  |  |  |  | segunda pasada OSHB; espera revisión oral |
 | numeros | ot | draft | none |  |  |  |  |  |
 | deuteronomio | ot | draft | none |  |  |  |  |  |
 | josue | ot | none | none |  |  |  |  |  |
