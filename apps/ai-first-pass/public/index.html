@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LBF AI First Pass</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main>
+      <header class="hero">
+        <p class="eyebrow">La Biblia Fiel</p>
+        <h1>AI First Pass</h1>
+        <p class="lede">Translate every missing verse from the LBF source texts with a local Ollama model. Existing verses are protected. Alignment comes later.</p>
+      </header>
+
+      <section class="guardrail" aria-label="Draft status">
+        <strong>AI output is draft material.</strong>
+        <span>This tool never approves, aligns, commits, exports, or publishes a book.</span>
+      </section>
+
+      <section class="card controls" aria-labelledby="setup-title">
+        <div class="section-heading">
+          <div>
+            <p class="step">Step 1</p>
+            <h2 id="setup-title">Choose your local model</h2>
+          </div>
+          <button id="refresh-models" class="secondary" type="button">Refresh models</button>
+        </div>
+        <div class="model-row">
+          <label for="model-select">Ollama model</label>
+          <select id="model-select" disabled><option>Checking Ollama…</option></select>
+          <p id="model-status" class="help" role="status"></p>
+        </div>
+        <label class="chunk-control" for="chunk-size">
+          Verses per request
+          <select id="chunk-size">
+            <option value="4">4 — safest for small models</option>
+            <option value="8" selected>8 — balanced</option>
+            <option value="12">12 — faster</option>
+            <option value="20">20 — large-context models</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="card" aria-labelledby="books-title">
+        <div class="section-heading">
+          <div>
+            <p class="step">Step 2</p>
+            <h2 id="books-title">Choose books</h2>
+          </div>
+          <div class="book-actions">
+            <button id="select-missing" class="secondary" type="button">Select all missing</button>
+            <button id="clear-books" class="secondary" type="button">Clear</button>
+          </div>
+        </div>
+        <p id="library-summary" class="help">Scanning the canonical LBF files…</p>
+        <div id="book-list" class="book-list" aria-live="polite"></div>
+      </section>
+
+      <section class="card start-card" aria-labelledby="run-title">
+        <p class="step">Step 3</p>
+        <h2 id="run-title">Run the first pass</h2>
+        <label class="confirmation">
+          <input id="acknowledgement" type="checkbox" />
+          <span>I understand that every generated verse is an unapproved machine draft and requires complete human review against the source.</span>
+        </label>
+        <div class="run-actions">
+          <button id="start-job" class="primary" type="button" disabled>Start first pass</button>
+          <button id="stop-job" class="danger" type="button" disabled>Stop safely</button>
+        </div>
+        <p id="run-message" class="help" role="status"></p>
+      </section>
+
+      <section class="card progress-card" aria-labelledby="progress-title">
+        <div class="section-heading">
+          <div>
+            <p class="step">Progress</p>
+            <h2 id="progress-title">Idle</h2>
+          </div>
+          <p id="progress-count" class="progress-count">0 / 0 verses</p>
+        </div>
+        <progress id="progress-bar" value="0" max="1"></progress>
+        <p id="current-reference" class="current-reference">Choose a model and books to begin.</p>
+        <ol id="job-log" class="job-log"></ol>
+      </section>
+
+      <section class="card preview-card" aria-labelledby="preview-title">
+        <p class="step">Source preview</p>
+        <h2 id="preview-title">Next missing verses</h2>
+        <div id="source-preview" class="source-preview"><p class="help">Select a book to inspect its source text.</p></div>
+      </section>
+    </main>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

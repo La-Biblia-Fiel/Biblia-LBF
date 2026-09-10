@@ -1,6 +1,7 @@
 # Mateo
 
-> La Biblia Fiel — Mateo (borrador preliminar).
+> La Biblia Fiel — Mateo. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> Fuente: Textus Receptus de Scrivener 1894.
 
 ## Capítulo 1
 
@@ -2340,6 +2341,10 @@ Entonces los discípulos se acercaron a Jesús en privado y dijeron: «¿Por qu�
 
 Él les dice: «Por la poca fe de ustedes. Porque en verdad les digo: si tienen fe como un grano de mostaza, dirán a este monte: “Pásate de aquí allá”, y se pasará; y nada les será imposible».
 
+### 17:21
+
+Pero este género no sale sino con oración y ayuno.
+
 ### 17:22
 
 Mientras ellos se reunían en Galilea, Jesús les dijo: «El Hijo del hombre está por ser entregado en manos de hombres,
@@ -2405,6 +2410,10 @@ Y si tu ojo te hace tropezar, sácatelo y arrójalo de ti. Es mejor para ti entr
 ### 18:10
 
 Miren que no desprecien a uno de estos pequeños, porque les digo que sus ángeles en los cielos ven continuamente el rostro de mi Padre que está en los cielos.
+
+### 18:11
+
+Porque el Hijo del hombre vino para salvar lo perdido.
 
 ### 18:12
 
@@ -3187,6 +3196,10 @@ Y cualquiera que se engrandece, será humillado, y cualquiera que se humille, se
 ### 23:13
 
 Pero, ¡ay de ustedes, escribas y fariseos, hipócritas que cierran el reino de los cielos delante de los hombres! Porque ni entran ustedes, ni dejan entrar a los que están entrando.
+
+### 23:14
+
+¡Ay de vosotros, escribas y fariseos, hipócritas, porque devoráis las casas de las viudas y con largas oraciones os hacéis de semblante, por eso recibiréis mayor condenación!
 
 ### 23:15
 

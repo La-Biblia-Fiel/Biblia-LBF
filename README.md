@@ -108,3 +108,16 @@ a partir de `translation/`. Nunca edite `site/content/biblia/`.
 ```sh
 cd site && ./serve.sh      # http://localhost:1313
 ```
+
+## Primera pasada local con IA
+
+`apps/ai-first-pass/` ejecuta una primera pasada de traducción de los 66 libros
+con un modelo local de Ollama. Solo llena versículos canónicos ausentes, nunca
+reemplaza texto existente y deja todo texto producido por máquina como
+`draft`. La alineación sigue siendo una etapa posterior y separada.
+
+```sh
+cd apps/ai-first-pass && npm start
+```
+
+Abra `http://127.0.0.1:1430/` y elija uno de los modelos instalados en Ollama.

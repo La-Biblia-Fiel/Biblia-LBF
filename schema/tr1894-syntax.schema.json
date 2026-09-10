@@ -1,0 +1,171 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://biblia-lbf.local/schema/tr1894-syntax.schema.json",
+  "title": "TR1894 syntax document (proposed)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "provenance", "tokens", "sentences", "nodes", "clauses"],
+  "properties": {
+    "schema_version": { "const": "0.1.0" },
+    "provenance": { "$ref": "#/$defs/provenance" },
+    "tokens": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/token" } },
+    "sentences": { "type": "array", "items": { "$ref": "#/$defs/sentence" } },
+    "nodes": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/node" } },
+    "clauses": { "type": "array", "items": { "$ref": "#/$defs/clause" } },
+    "reference_links": { "type": "array", "items": { "$ref": "#/$defs/referenceLink" } }
+    ,"morphology_reconciliation": { "$ref": "#/$defs/morphologyReconciliation" }
+  },
+  "$defs": {
+    "sourceRef": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]{2,5}\\.[1-9][0-9]*\\.[1-9][0-9]*$"
+    },
+    "tokenId": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]{2,5}\\.[1-9][0-9]*\\.[1-9][0-9]*\\.w[0-9]{3,}$"
+    },
+    "nodeId": {
+      "type": "string",
+      "pattern": "^[A-Z0-9]{2,5}\\.[1-9][0-9]*\\.s[0-9]{3,}\\.(?:n|c|p)[0-9]{3,}$"
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text_authority", "text_source", "text_revision", "text_sha256", "tokenization_policy"],
+      "properties": {
+        "text_authority": { "const": "TR1894" },
+        "text_source": { "type": "string", "minLength": 1 },
+        "text_revision": { "type": "string", "minLength": 1 },
+        "text_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+        "morphology_source": { "type": "string" },
+        "morphology_revision": { "type": "string" },
+        "tokenization_policy": { "type": "string", "minLength": 1 },
+        "created_at": { "type": "string", "format": "date-time" }
+      }
+    },
+    "token": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["token_id", "source_ref", "source_ordinal", "surface_source", "source_locator"],
+      "properties": {
+        "token_id": { "$ref": "#/$defs/tokenId" },
+        "source_ref": { "$ref": "#/$defs/sourceRef" },
+        "source_ordinal": { "type": "integer", "minimum": 1 },
+        "surface_source": { "type": "string", "minLength": 1 },
+        "surface_unicode": { "type": ["string", "null"] },
+        "after": { "type": "string" },
+        "source_locator": { "type": "string", "minLength": 1 },
+        "morphology": { "$ref": "#/$defs/morphology" }
+      }
+    },
+    "morphology": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["provider", "raw_tag"],
+      "properties": {
+        "provider": { "type": "string", "minLength": 1 },
+        "raw_tag": { "type": "string", "minLength": 1 },
+        "lemma": { "type": "string" },
+        "strongs": { "type": ["string", "integer"] },
+        "part_of_speech": { "type": "string" },
+        "case": { "type": "string" },
+        "number": { "type": "string" },
+        "gender": { "type": "string" },
+        "person": { "type": "string" },
+        "tense": { "type": "string" },
+        "voice": { "type": "string" },
+        "mood": { "type": "string" }
+        ,"source_token_ordinal": { "type": "integer", "minimum": 1 }
+        ,"source_surface_beta": { "type": "string" }
+        ,"reconciliation": { "type": "string" }
+      }
+    },
+    "sentence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sentence_id", "root_node_id", "source_refs"],
+      "properties": {
+        "sentence_id": { "type": "string", "pattern": "^[A-Z0-9]{2,5}\\.[1-9][0-9]*\\.s[0-9]{3,}$" },
+        "root_node_id": { "$ref": "#/$defs/nodeId" },
+        "source_refs": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/sourceRef" } }
+      }
+    },
+    "node": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["node_id", "kind", "category"],
+      "properties": {
+        "node_id": { "$ref": "#/$defs/nodeId" },
+        "kind": { "enum": ["sentence", "clause", "phrase", "coordination", "word"] },
+        "category": { "type": "string", "minLength": 1 },
+        "function": { "type": "string" },
+        "rule": { "type": "string" },
+        "head": { "$ref": "#/$defs/nodeId" },
+        "clause_type": { "type": "string" },
+        "children": { "type": "array", "items": { "$ref": "#/$defs/nodeId" } },
+        "token_id": { "$ref": "#/$defs/tokenId" },
+        "discontinuous": { "type": "boolean" },
+        "evidence": { "type": "array", "items": { "type": "string" } }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "kind": { "const": "word" } }, "required": ["kind"] },
+          "then": { "required": ["token_id"], "not": { "required": ["children"] } },
+          "else": { "required": ["children"], "not": { "required": ["token_id"] } }
+        }
+      ]
+    },
+    "clause": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["clause_id", "sentence_id", "sequence", "token_ids", "depth"],
+      "properties": {
+        "clause_id": { "$ref": "#/$defs/nodeId" },
+        "sentence_id": { "type": "string", "pattern": "^[A-Z0-9]{2,5}\\.[1-9][0-9]*\\.s[0-9]{3,}$" },
+        "parent_clause_id": { "anyOf": [{ "$ref": "#/$defs/nodeId" }, { "type": "null" }] },
+        "sequence": { "type": "integer", "minimum": 0 },
+        "token_ids": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/tokenId" } },
+        "depth": { "type": "integer", "minimum": 0 },
+        "category": { "type": "string" },
+        "clause_type": { "type": "string" },
+        "function": { "type": "string" },
+        "text": { "type": "string" }
+      }
+    },
+    "referenceLink": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["reference_dataset", "reference_revision", "reference_id", "relation", "basis"],
+      "properties": {
+        "reference_dataset": { "type": "string", "minLength": 1 },
+        "reference_revision": { "type": "string", "minLength": 1 },
+        "reference_id": { "type": "string", "minLength": 1 },
+        "relation": { "enum": ["comparison-only", "reviewed-structural-analogy", "textual-difference"] },
+        "basis": { "type": "string", "minLength": 1 }
+      }
+    },
+    "morphologyReconciliation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source", "unbound_utr_tokens"],
+      "properties": {
+        "source": { "type": "string", "minLength": 1 },
+        "unbound_utr_tokens": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["source_ref", "source_token_ordinal", "surface_beta", "raw_tag", "reason"],
+            "properties": {
+              "source_ref": { "$ref": "#/$defs/sourceRef" },
+              "source_token_ordinal": { "type": "integer", "minimum": 1 },
+              "surface_beta": { "type": "string", "minLength": 1 },
+              "raw_tag": { "type": "string", "minLength": 1 },
+              "reason": { "type": "string", "minLength": 1 }
+            }
+          }
+        }
+      }
+    }
+  }
+}

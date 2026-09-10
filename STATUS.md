@@ -13,13 +13,13 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | book | testament | translation | alignment | translation_by | translation_on | alignment_by | alignment_on | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | genesis | ot | done | done | John Wry | 2026-08-28 | John Wry | 2026-08-28 |  |
-| exodo | ot | none | none |  |  |  |  |  |
-| levitico | ot | none | none |  |  |  |  |  |
-| numeros | ot | none | none |  |  |  |  |  |
-| deuteronomio | ot | none | none |  |  |  |  |  |
+| exodo | ot | draft | none |  |  |  |  |  |
+| levitico | ot | draft | none |  |  |  |  |  |
+| numeros | ot | draft | none |  |  |  |  |  |
+| deuteronomio | ot | draft | none |  |  |  |  |  |
 | josue | ot | none | none |  |  |  |  |  |
 | jueces | ot | none | none |  |  |  |  |  |
-| rut | ot | none | none |  |  |  |  |  |
+| rut | ot | draft | none |  |  |  |  |  |
 | 1samuel | ot | none | none |  |  |  |  |  |
 | 2samuel | ot | none | none |  |  |  |  |  |
 | 1reyes | ot | none | none |  |  |  |  |  |
@@ -28,7 +28,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | 2cronicas | ot | none | none |  |  |  |  |  |
 | esdras | ot | none | none |  |  |  |  |  |
 | nehemias | ot | none | none |  |  |  |  |  |
-| ester | ot | none | none |  |  |  |  |  |
+| ester | ot | draft | none |  |  |  |  |  |
 | job | ot | none | none |  |  |  |  |  |
 | salmos | ot | none | none |  |  |  |  |  |
 | proverbios | ot | none | none |  |  |  |  |  |

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TR1894 Syntax Review</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main>
+      <header>
+        <p class="eyebrow">LOCAL · REVIEW FIRST · TR1894</p>
+        <h1>TR1894 Syntax Review</h1>
+        <p class="lead">Project the completed SBLGNT clause tree onto local Scrivener 1894 terminals, inspect every difference, and review the resulting TR draft. The app never saves, approves, exports, or publishes data.</p>
+      </header>
+
+      <section class="card controls" aria-labelledby="passage-heading">
+        <h2 id="passage-heading">1. Choose a passage</h2>
+        <div class="fields">
+          <label>Chapter <input id="chapter" type="number" min="1" value="1"></label>
+          <label>First verse <input id="first-verse" type="number" min="1" value="18"></label>
+          <label>Last verse <input id="last-verse" type="number" min="1" value="25"></label>
+          <button id="load-passage" type="button">Load local TR1894</button>
+        </div>
+        <p id="passage-status" class="status">Default: Matthew 1:18–25.</p>
+      </section>
+
+      <section class="card" aria-labelledby="source-heading">
+        <h2 id="source-heading">2. Read the immutable source spine</h2>
+        <p>The Greek and terminal IDs come only from <code>source/greek/TR1894/tr1894.txt</code>. Robinson morphology is displayed as helper evidence; it is not a replacement text.</p>
+        <div id="source" class="source empty">Load a passage to inspect its token spine and morphology positions.</div>
+      </section>
+
+      <section class="card" aria-labelledby="projection-heading">
+        <h2 id="projection-heading">3. Adapt the SBLGNT clause tree to TR1894</h2>
+        <p id="reference-status" class="status">Checking the local MACULA Greek SBLGNT node source…</p>
+        <p>The projection preserves only terminals that match the TR token spine. SBL-only and TR-only readings stay visible as differences; no source text is replaced.</p>
+        <button id="project" type="button" class="primary">Build TR review draft</button>
+        <pre id="projection" class="output">No comparison run yet.</pre>
+      </section>
+
+      <section class="card" aria-labelledby="model-heading">
+        <h2 id="model-heading">4. Ask Ollama about the remaining decisions</h2>
+        <div class="fields">
+          <label>Model
+            <select id="model"><option value="qwen2.5:14b">qwen2.5:14b (default)</option></select>
+          </label>
+          <button id="refresh-models" type="button">Refresh models</button>
+          <button id="suggest" type="button" class="primary">Suggest clause plan</button>
+        </div>
+        <p id="model-status" class="status">The default is Qwen2.5 14B. You may choose any installed Ollama model.</p>
+        <pre id="suggestion" class="output">No suggestion requested.</pre>
+      </section>
+
+      <section class="card" aria-labelledby="validate-heading">
+        <h2 id="validate-heading">5. Validate a personally reviewed fixture</h2>
+        <p>Load a bounded research fixture, edit it locally, and run the same source reconstruction, terminal coverage, tree, clause-index, and UTR-reconciliation checks. Validation uses a temporary copy only; it never writes the repository.</p>
+        <div class="fields">
+          <label>Fixture <select id="fixture"></select></label>
+          <button id="load-fixture" type="button">Load fixture</button>
+          <button id="validate" type="button" class="primary">Run checks</button>
+        </div>
+        <label class="editor-label" for="fixture-json">Fixture JSON</label>
+        <textarea id="fixture-json" spellcheck="false" aria-label="Fixture JSON"></textarea>
+        <pre id="validation" class="output">Load a fixture, review it, then run checks.</pre>
+      </section>
+
+      <footer>Suggestions are not syntax decisions. A human must resolve every boundary, attachment, and morphology reconciliation before a fixture belongs in the repository.</footer>
+    </main>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
