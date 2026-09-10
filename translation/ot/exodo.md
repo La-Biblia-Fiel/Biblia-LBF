@@ -199,91 +199,91 @@ Y vio Dios a hijos de Israel, y conoció Dios.
 
 ### 3:1
 
-Moisés pastoreaba el rebaño de Jetro, su suegro, sacerdote de Midián. Y llevó el rebaño tras la montaña de Dios, que está en el desierto.
+Y Moshe era pastoreante el rebaño de Yitró su suegro, sacerdote de Midyán. Y condujo el rebaño tras el desierto, y vino a monte de Dios, hacia Jorev.
 
 ### 3:2
 
-Y aconteció que el ángel del Señor le apareció en una llama de fuego en medio de un espinar; y Moisés miraba, y he aquí que el espinar ardía con fuego, pero no se consumaba.
+Y se vio mensajero de Jehová a él en llama de fuego desde medio del seneh. Y vio, y he aquí el seneh ardiente en el fuego, y el seneh no él comido.
 
 ### 3:3
 
-Y vio Moisés maravillado por la visión. Y cuando el Señor le llamó desde el medio del espinar, dijo: Aquí estoy.
+Y dijo Moshe: Desviaré ahora y veré la visión la grande esta: ¿por qué no arde el seneh?
 
 ### 3:4
 
-Entonces Dios le dijo: No te acerques aquí; quítate las sandalias de tus pies, porque el lugar donde estás está santificado.
+Y vio Jehová que se desvió a ver, y llamó a él Dios desde medio del seneh, y dijo: Moshe, Moshe. Y dijo: Heme aquí.
 
 ### 3:5
 
-Y él dijo: He aquí que el lugar en que tú estás es tierra santa. Quita tu calzado de tus pies, porque el lugar donde tú estás es tierra santa.
+Y dijo: No te acerques acá. Quita tus calzados de sobre tus pies, porque el lugar que tú parado sobre él, suelo de santidad él.
 
 ### 3:6
 
-Y le dijo: Yo soy el Dios de tu padre, el Dios de Abraham, el Dios de Isaac y el Dios de Jacob. Entonces Moisés se cubrió la cara, porque temía mirar a Dios.
+Y dijo: Yo Dios de tu padre, Dios de Abraham, Dios de Yitsjaq y Dios de Yaakov. Y escondió Moshe sus faces, porque temió de mirar hacia Dios.
 
 ### 3:7
 
-Y el Señor dijo: He visto la aflicción de mi pueblo que está en Egipto; he oído su grito por causa de sus opresores, pues sé sus pensamientos.
+Y dijo Jehová: De ver he visto la aflicción de mi pueblo que en Mizraim, y su clamor he oído de faces de sus apremiantes, porque he conocido sus dolores.
 
 ### 3:8
 
-Por tanto, ven ahora y yo te enviaré a Faraón para que saques a mi pueblo, los hijos de Israel, de Egipto.
+Y descendí para librarlo de mano de Mizraim, y para hacerlo subir desde la tierra aquella a tierra buena y ancha, a tierra manante leche y miel, a lugar del cananeo y el jiteo y el amorreo y el perizeo y el hiveo y el yebuseo.
 
 ### 3:9
 
-Y Moisés dijo al Señor: ¿Quién soy yo para ir a Faraón? ¿Qué me dará poder sobre él?
+Y ahora, he aquí clamor de hijos de Israel ha venido a mí, y también he visto la opresión que Mizraim oprimientes a ellos.
 
 ### 3:10
 
-El Señor respondió: Claro que sé que no tienes suficiente valor, pero te enviaré como mi representante. Ahora ve y llévame de vuelta al faraón para que saques a mis pueblos del Egipto.
+Y ahora, anda, y te enviaré a Faraón, y saca a mi pueblo, hijos de Israel, desde Mizraim.
 
 ### 3:11
 
-Moisés respondió: ¿Quién soy yo para ir a Faraón? ¿Qué dará poder sobre mí?
+Y dijo Moshe a Dios: ¿Quién yo, que ande a Faraón, y que saque a hijos de Israel desde Mizraim?
 
 ### 3:12
 
-El Señor replicó: Claro que sé que no tienes suficiente valor, pero te enviaré como mi representante. Ahora ve y llévame de vuelta al faraón para que saques a mis pueblos del Egipto.
+Y dijo: Porque seré contigo, y esto a ti la señal que yo te he enviado: en tu sacar al pueblo desde Mizraim, serviréis a Dios sobre el monte este.
 
 ### 3:13
 
-Moisés le preguntó: ¿Cuál es tu nombre? Y el Señor respondió: Soy EL SOBERANO, soy EL QUE SIEMPRE ES.
+Y dijo Moshe a Dios: He aquí yo viniente a hijos de Israel, y diré a ellos: Dios de vuestros padres me envió a ustedes; y dirán a mí: ¿Qué su nombre? ¿Qué diré a ellos?
 
 ### 3:14
 
-Y añadió: Así dirás a los hijos de Israel: EL SOBERANO, el Dios de vuestros padres, el Dios de Abraham, el Dios de Isaac y el Dios de Jacob, me ha enviado a vosotros. Este es mi nombre para siempre, y este será mi título por todas las generaciones.
+Y dijo Dios a Moshe: Seré el que seré. Y dijo: Así dirás a hijos de Israel: Seré me envió a ustedes.
 
 ### 3:15
 
-Ve pues y di a los hijos de Israel: EL SOBERANO, el Dios de vuestros padres, el Dios de Abraham, el Dios de Isaac y el Dios de Jacob, me ha enviado a vosotros. Este es mi nombre para siempre, y este será mi título por todas las generaciones.
+Y dijo todavía Dios a Moshe: Así dirás a hijos de Israel: Jehová Dios de vuestros padres, Dios de Abraham, Dios de Yitsjaq y Dios de Yaakov, me envió a ustedes. Este mi nombre para siempre, y este mi memorial a generación generación.
 
 ### 3:16
 
-Ve a Faraón, el faraón de Egipto, y di: El Dios de los hebreos me ha aparecido. Ahora bien, vamos ahora y celebremos en el desierto un sacrificio al Señor.
+Anda y junta a ancianos de Israel, y dirás a ellos: Jehová Dios de vuestros padres se vio a mí, Dios de Abraham, Yitsjaq y Yaakov, diciendo: De visitar he visitado a ustedes y lo hecho a ustedes en Mizraim.
 
 ### 3:17
 
-Pero ciertamente sabes que los príncipes de Egipto te maltratarán y no os dejarán ir fácilmente.
+Y dije: Haré subir a ustedes desde aflicción de Mizraim a tierra del cananeo y el jiteo y el amorreo y el perizeo y el hiveo y el yebuseo, a tierra manante leche y miel.
 
 ### 3:18
 
-Y dirás a Faraón: Queremos un viaje de tres días al desierto para sacrificar a Yahveh, nuestro Dios.
+Y oirán a tu voz, y vendrás tú y ancianos de Israel a rey de Mizraim, y diréis a él: Jehová Dios de los hebreos se ha encontrado sobre nosotros; y ahora, andemos ahora camino de tres días en el desierto, y sacrifiquemos a Jehová nuestro Dios.
 
 ### 3:19
 
-Pero yo sé que el faraón no te dejará ir, sino con la mano fuerte.
+Y yo he conocido que no dará a ustedes rey de Mizraim a andar, y no en mano fuerte.
 
 ### 3:20
 
-Y extenderé mi mano sobre Egipto y haré salir a mis ejércitos de entre ellos; haré juicio contra ellos para que sepas que yo soy EL SOBERANO. Y los sacarás del servicio forzoso en el cual te oprimen.
+Y enviaré mi mano y heriré a Mizraim en todas mis maravillas que haré en su interior; y después de así enviará a ustedes.
 
 ### 3:21
 
-Y yo haré que el corazón de Faraón sea duro, y pondré señales maravillosas en Egipto. Entonces él los dejará ir; no les negará su petición.
+Y daré la gracia de este pueblo en ojos de Mizraim; y será que andaréis, no andaréis vacíos.
 
 ### 3:22
 
-Asimismo, yo daré a los israelitas favor ante los egipcios, para que cuando salgan de Egipto, no se avergüencen por sus dones y riquezas que recibirán de los egipcios.
+Y pedirá mujer de su vecina y de la peregrina de su casa utensilios de plata y utensilios de oro y mantos, y pondréis sobre vuestros hijos y sobre vuestras hijas, y despojaréis a Mizraim.
 
 ## Capítulo 4
 
