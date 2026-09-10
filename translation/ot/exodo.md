@@ -1123,1105 +1123,1105 @@ Y dijo Moshe: Así has hablado; no añadiré todavía a ver tus faces.
 
 ### 11:1
 
-Entonces el Señor dijo a Moisés: “Un nuevo castigo traeré sobre Faraón y sobre Egipto; después de eso, Faraón los dejará ir. Cuando los deje ir, los expulsará de aquí completamente.”
+Y dijo Jehová a Moshe: Todavía un golpe traeré sobre Faraón y sobre Mizraim; después de así enviará a ustedes de esto; como su enviar, acabamiento, de echar echará a ustedes de esto.
 
 ### 11:2
 
-Ahora habla a los oídos del pueblo y que cada hombre pida a su vecino y cada mujer a su vecina joyas de plata y joyas de oro.
+Habla ahora en oídos del pueblo, y pidan varón de con su prójimo y mujer de con su prójima utensilios de plata y utensilios de oro.
 
 ### 11:3
 
-Y el Señor puso en gracia al pueblo ante los ojos de los egipcios; también Moisés era muy grande en la tierra de Egipto, ante los ojos de los siervos de Faraón y ante los ojos del pueblo.
+Y dio Jehová la gracia del pueblo en ojos de Mizraim; también el varón Moshe grande mucho en tierra de Mizraim, en ojos de siervos de Faraón y en ojos del pueblo.
 
 ### 11:4
 
-Y Moisés dijo: Así ha dicho el Señor: A medianoche saldré en medio de Egipto.
+Y dijo Moshe: Así dijo Jehová: Como la mitad de la noche yo saliente en medio de Mizraim.
 
 ### 11:5
 
-Y morirá todo primogénito en la tierra de Egipto, desde el primogénito de Faraón que está sobre su trono hasta el primogénito de la sierva que está tras el molino, y todo primogénito de los animales.
+Y morirá todo primogénito en tierra de Mizraim, desde primogénito de Faraón el sentado sobre su trono hasta primogénito de la sierva que detrás de las muelas, y todo primogénito de bestia.
 
 ### 11:6
 
-Y habrá un gran grito en toda la tierra de Egipto, que no había habido antes, ni se volverá a repetir.
+Y será clamor grande en toda tierra de Mizraim, que como él no fue, y como él no añadirá.
 
 ### 11:7
 
-Y a todos los hijos de Israel no morderá perro la lengua, ni de hombre ni de animal, para que sepáis que el Señor hace diferencia entre Egipto y entre Israel.
+Y a todo hijos de Israel no afilará perro su lengua, desde varón y hasta bestia, a fin de que conozcáis que distinguirá Jehová entre Mizraim y entre Israel.
 
 ### 11:8
 
-Y todos tus siervos vendrán a mí y se postrarán ante mí, diciendo: Vete tú y todos los que te acompañan; después de esto saldré de ti con gran ira.
+Y descenderán todos tus siervos estos a mí y se postrarán a mí, diciendo: Sal tú y todo el pueblo que en tus pies; y después de así saldré. Y salió de con Faraón en ardor de nariz.
 
 ### 11:9
 
-Y el Señor dijo a Moisés: Faraón no os escuchará, para que multiplique mis señales en la tierra de Egipto.
+Y dijo Jehová a Moshe: No oirá a ustedes Faraón, a fin de multiplicar mis prodigios en tierra de Mizraim.
 
 ### 11:10
 
-Y Moisés y Aarón hicieron todos los signos ante Faraón, y el Señor endureció el corazón de Faraón, y no los dejó salir de su tierra.
+Y Moshe y Aharón hicieron todos los prodigios estos delante de Faraón; y fortaleció Jehová el corazón de Faraón, y no envió a hijos de Israel de su tierra.
 
 ## Capítulo 12
 
 ### 12:1
 
-Y el Señor habló a Moisés y a Aarón en la tierra de Egipto, diciendo:
+Y dijo Jehová a Moshe y a Aharón en tierra de Mizraim, diciendo:
 
 ### 12:2
 
-Este mes os será el principio de meses; será para vosotros el primero de los meses del año.
+El mes este a ustedes cabeza de meses; primero él a ustedes a los meses del año.
 
 ### 12:3
 
-Decid a toda la congregación de Israel: Al décimo día de este mes tomarán cada uno un cordero por casa, un cordero por familia.
+Hablad a toda congregación de Israel, diciendo: En el diez al mes este, y tomarán a ellos varón un cordero a casa de padres, un cordero a la casa.
 
 ### 12:4
 
-Y si la familia es demasiado pequeña para un cordero, él y el vecino cercano a su casa tomarán según el número de personas, según el número de bocas, cada uno según su comer. Tomarán su cordero.
+Y si menguare la casa de ser desde un cordero, y tomará él y su vecino el cercano a su casa en recuento de almas; varón a boca de su comer tasaréis sobre el cordero.
 
 ### 12:5
 
-Será un cordero perfecto, macho de un año; tomarán de las ovejas o de las cabras.
+Cordero íntegro, macho, hijo de año, será a ustedes; desde los corderos y desde las cabras tomaréis.
 
 ### 12:6
 
-Y será para vosotros en guardia hasta el cuarto día de la quincea del mes; toda la congregación de Israel lo matará al atardecer.
+Y será a ustedes a guarda hasta el día catorce al mes este, y lo degollarán todo asamblea de congregación de Israel entre las tardes.
 
 ### 12:7
 
-Y tomarán de su sangre y la pondrán sobre ambas jambas y sobre el dintel de las puertas de los hogares donde lo comerán.
+Y tomarán de la sangre y darán sobre las dos mezuzot y sobre el dintel, sobre las casas que comerán a él en ellas.
 
 ### 12:8
 
-Y comerán la carne en esa noche, asada al fuego, con pan sin levadura y con hierbas amargas.
+Y comerán la carne en la noche esta, asado de fuego, y matsot; sobre amargos lo comerán.
 
 ### 12:9
 
-No comeréis de ella cruda ni cocida en agua, sino asada al fuego; su cabeza con sus piernas y sus entrañas.
+No comáis de él crudo y cocido cocido en las aguas, sino asado de fuego: su cabeza sobre sus piernas y sobre su interior.
 
 ### 12:10
 
-No dejaréis de ella hasta la mañana; cualquiera que quede hasta la mañana lo quemaréis en el fuego.
+Y no haréis restante de él hasta mañana; y el restante de él hasta mañana en el fuego quemaréis.
 
 ### 12:11
 
-Así comeréislo: con cinturón ceñido, sandalias calzados y bastón en mano; comeréislo con prisa; es la Pascua de Jehová.
+Y así lo comeréis: vuestros lomos ceñidos, vuestros calzados en vuestros pies, y vuestro palo en vuestra mano; y lo comeréis en prisa. Pesaj él a Jehová.
 
 ### 12:12
 
-Pasaré por la tierra de Egipto en aquella noche y mataré a todos los primogénitos en la tierra de Egipto, desde el hombre hasta el animal; también ejecutaré juicios sobre todos los dioses de Egipto; yo soy Jehová.
+Y pasaré en tierra de Mizraim en la noche esta, y heriré todo primogénito en tierra de Mizraim, desde hombre y hasta bestia; y en todos dioses de Mizraim haré juicios, yo Jehová.
 
 ### 12:13
 
-Y será para vosotros el sangre por señal en las casas donde estéis; y cuando vea la sangre, pasaré por encima de vosotros, y no habrá entre vosotros peste para destruir cuando os golpee en la tierra de Egipto.
+Y será la sangre a ustedes a señal sobre las casas que ustedes allí; y veré la sangre y pasaré sobre ustedes, y no será en ustedes golpe a destruidor en mi herir en tierra de Mizraim.
 
 ### 12:14
 
-Y será este día para vosotros por memorial, y lo celebraréis como fiesta a Jehová; lo celebraréis por vuestras generaciones como estatuto perpetuo.
+Y será el día este a ustedes a memorial, y lo festejaréis fiesta a Jehová; a vuestras generaciones, estatuto de siempre lo festejaréis.
 
 ### 12:15
 
-Siete días comeréis pan sin levadura; el día primero quitaréis la levadura de vuestras casas; porque cualquiera que comiere pan con levadura será cortado de Israel, desde el día primero hasta el día séptimo.
+Siete de días matsot comeréis; apenas en el día el primero haréis cesar levadura de vuestras casas, porque todo comiente jamets, y será cortada el alma aquella de Israel, desde día el primero hasta día el séptimo.
 
 ### 12:16
 
-Y será el día primero una convocatoria santa, y el séptimo día será una convocatoria santa para vosotros; ninguna obra se hará en ellos, sino que cada alma comerá lo que le toca.
+Y en el día el primero convocatoria de santidad, y en el día el séptimo convocatoria de santidad será a ustedes; toda obra no será hecha en ellos, apenas lo que será comido a toda alma, él a solas será hecho a ustedes.
 
 ### 12:17
 
-Guardad el pan sin levadura, porque fue en este mismo día que yo saqué a vuestras tropas de la tierra de Egipto; guardad este día como estatuto perpetuo para vuestras generaciones.
+Y guardaréis las matsot, porque en hueso del día este saqué a vuestros ejércitos de tierra de Mizraim; y guardaréis el día este a vuestras generaciones, estatuto de siempre.
 
 ### 12:18
 
-En el día catorce del mes, a la tarde, comeréis pan sin levadura; hasta el día veintiuno del mes, a la tarde, comeréis pan sin levadura.
+En el primero, en catorce día al mes, en la tarde, comeréis matsot, hasta día el uno y veinte al mes, en la tarde.
 
 ### 12:19
 
-Siete días no se hallará levadura en vuestras casas; porque cualquiera que comiere pan con levadura será cortado de Israel, ya sea extranjero o natural de la tierra.
+Siete de días levadura no será hallada en vuestras casas, porque todo comiente fermentado, y será cortada el alma aquella de congregación de Israel, en el peregrino y en el nativo de la tierra.
 
 ### 12:20
 
-No comeréis pan con levadura en ninguna de vuestras casas; comeréis pan sin levadura en todas vuestras casas.
+Todo fermentado no comeréis; en todas vuestras moradas comeréis matsot.
 
 ### 12:21
 
-Mosié llamó a todos los ancianos de Israel y les dijo: Tomad y traed para vosotros corderos por familias, y sacrificad la pascua.
+Y llamó Moshe a todos ancianos de Israel, y dijo a ellos: Arrastrad y tomad para ustedes rebaño a vuestras familias, y degollad el Pesaj.
 
 ### 12:22
 
-Tomad un racimo de hierba amarga y mojadlo en el sangre que está en el umbral, y tocaos con él a los dos postigos y al dintel; y ninguno de vosotros saldrá de la puerta de vuestra casa hasta la mañana.
+Y tomaréis manojo de hisopo y mojaréis en la sangre que en la bacía, y haréis tocar al dintel y a las dos mezuzot de la sangre que en la bacía; y ustedes, no saldréis varón de puerta de su casa hasta mañana.
 
 ### 12:23
 
-Y Jehová pasará a golpear a Egipto; y al ver la sangre sobre el dintel y sobre los dos postigos, pasará Jehová por la entrada y no dejará que el destructor entre en vuestras casas para golpear.
+Y pasará Jehová para golpear a Mizraim, y verá la sangre sobre el dintel y sobre las dos mezuzot, y pasará Jehová sobre la puerta, y no dará al destruidor a entrar a vuestras casas para golpear.
 
 ### 12:24
 
-Y guardaréis este mandamiento como cosa establecida para vosotros y para vuestros hijos por siempre.
+Y guardaréis la palabra esta a estatuto a ti y a tus hijos hasta siempre.
 
 ### 12:25
 
-Y cuando entréis en la tierra que Jehová os dará, como habló, guardaréis esta obra.
+Y será cuando vengáis a la tierra que dará Jehová a ustedes como que habló, y guardaréis el servicio este.
 
 ### 12:26
 
-Y será que cuando vuestros hijos os digan: ¿Qué es esta obra?
+Y será cuando dijeren a ustedes vuestros hijos: ¿Qué el servicio este a ustedes?
 
 ### 12:27
 
-Y responderéis: Sacrificio de pascua es esto para Jehová, que pasó por las casas de los hijos de Israel en Egipto, cuando hirió a Egipto y a nuestras casas salvó. Y el pueblo se postró y adoró.
+Y diréis: Sacrificio de Pesaj él a Jehová, que pasó sobre casas de hijos de Israel en Mizraim en su golpear a Mizraim, y a nuestras casas libró. Y se inclinó el pueblo y se postraron.
 
 ### 12:28
 
-Y fueron y hicieron los hijos de Israel como Jehová había mandado a Moisés y a Aarón, así hicieron.
+Y anduvieron y hicieron hijos de Israel; como que mandó Jehová a Moshe y a Aharón, así hicieron.
 
 ### 12:29
 
-Y aconteció a medianoche que Jehová hirió a todo primogénito en la tierra de Egipto, desde el primogénito de Faraón que estaba sobre su trono hasta el primogénito del cautivo que estaba en la cárcel, y a todo primogénito de bestias.
+Y fue en la mitad de la noche, y Jehová hirió todo primogénito en tierra de Mizraim, desde primogénito de Faraón el sentado sobre su trono hasta primogénito del cautivo que en casa del pozo, y todo primogénito de bestia.
 
 ### 12:30
 
-Y se levantó Faraón de noche, él y todos sus siervos y todo Egipto, y hubo un gran grito en Egipto, porque no había casa donde no hubiera muerto.
+Y se levantó Faraón noche, él y todos sus siervos y todo Mizraim, y fue clamor grande en Mizraim, porque no hay casa que no hay allí muerto.
 
 ### 12:31
 
-Y llamó a Moisés y a Aarón de noche, y dijo: Levantaos, idos de entre mi pueblo, vosotros y los hijos de Israel, y servid a Jehová, como habéis dicho.
+Y llamó a Moshe y a Aharón noche, y dijo: Levantaos, salid de medio de mi pueblo, también ustedes, también hijos de Israel, y andad, servid a Jehová como vuestro hablar.
 
 ### 12:32
 
-También tomen sus ovejas y sus vacas, como hablaron, y váyanse, y bendigan también a mí.
+También vuestro rebaño, también vuestro ganado tomad como que hablasteis, y andad; y bendecid también a mí.
 
 ### 12:33
 
-Y se endureció Egipto con el pueblo para que se marcharan de la tierra, porque decían: Todos moriremos.
+Y se fortaleció Mizraim sobre el pueblo para apresurar a enviarlos de la tierra, porque dijeron: Todos nosotros muertos.
 
 ### 12:34
 
-Y el pueblo tomó su masa antes de que se enfriara, y la llevó envuelta en sus vestidos sobre sus hombros.
+Y alzó el pueblo su masa antes que fermentara; sus artesas atadas en sus mantos sobre su hombro.
 
 ### 12:35
 
-Y los hijos de Israel hicieron como Moisés había dicho, y pidieron a los egipcios joyas de plata y joyas de oro y vestidos.
+Y hijos de Israel hicieron como palabra de Moshe, y pidieron de Mizraim utensilios de plata y utensilios de oro y mantos.
 
 ### 12:36
 
-Y Jehová dio al pueblo favor en ojos de Egipto, y les pidieron que se fueran, y les despojaron a los egipcios.
+Y Jehová dio la gracia del pueblo en ojos de Mizraim, y los hicieron pedir, y despojaron a Mizraim.
 
 ### 12:37
 
-Y los hijos de Israel se marcharon de Ramsés a Socot, seiscientas mil a pie, hombres valientes, aparte de niños.
+Y partieron hijos de Israel de Ramses a Sucot, como seis cientas mil a pie, los varones, aparte de pequeño.
 
 ### 12:38
 
-Y también un pueblo multitudinario se marchó con ellos, y ovejas y vacas, ganado en gran cantidad.
+Y también mezcla mucha subió con ellos, y rebaño y ganado, hacienda pesada mucho.
 
 ### 12:39
 
-Y amasaron la masa que habían sacado de Egipto, galletas sin levadura, porque salieron de Egipto y no podían esperar, y tampoco se hicieron provisiones para el camino.
+Y cociaron la masa que sacaron de Mizraim, tortas de matsot, porque no fermentó, porque fueron echados de Mizraim y no pudieron a tardarse, y también vianda no hicieron a ellos.
 
 ### 12:40
 
-Y el morar de los hijos de Israel que moraron en Egipto fue cuatrocientos treinta años.
+Y morada de hijos de Israel que habitaron en Mizraim, treinta año y cuatro cientas año.
 
 ### 12:41
 
-Y al cabo de cuatrocientos treinta años, en ese mismo día salieron todos los ejércitos de Jehová de la tierra de Egipto.
+Y fue de cabo de treinta año y cuatro cientas año, y fue en hueso del día este, salieron todos ejércitos de Jehová de tierra de Mizraim.
 
 ### 12:42
 
-Es una noche de guardar a Jehová, para sacarlos de la tierra de Egipto; esa noche es para Jehová una noche de guardar para todos los hijos de Israel por las generaciones.
+Noche de guardas ella a Jehová, para sacarlos de tierra de Mizraim; ella la noche esta a Jehová, guardas a todos hijos de Israel a sus generaciones.
 
 ### 12:43
 
-Y Jehová dijo a Moisés y a Aarón: Esta es la ley de la pascua: ningún extranjero comerá de ella.
+Y dijo Jehová a Moshe y Aharón: Esta estatuto del Pesaj: todo hijo de extrañeza no comerá en él.
 
 ### 12:44
 
-Y todo siervo comprado a precio de plata comerá de ella después de ser circuncidado.
+Y todo siervo de varón, compra de plata, y lo circuncidarás; entonces comerá en él.
 
 ### 12:45
 
-El huésped y el jornalero no comerán de ella.
+Morador y jornalero no comerá en él.
 
 ### 12:46
 
-En una casa se comerá; no sacarás fuera de la casa la carne; no quebrarás el hueso en ella.
+En casa una será comido; no harás salir de la casa de la carne afuera, y hueso no quebraréis en él.
 
 ### 12:47
 
-Todo la congregación de Israel la hará.
+Toda congregación de Israel lo harán.
 
 ### 12:48
 
-Y si un extranjero se queda contigo y hace la pascua para el SEÑOR, circuncida todo varón, y entonces podrá hacerla; será como el nativo del país. Y ningún incircunciso comerá de ella.
+Y cuando peregrinare contigo peregrino y hiciere Pesaj a Jehová, de circuncidar a él todo macho, y entonces se acercará a hacerlo; y será como nativo de la tierra. Y todo incircunciso no comerá en él.
 
 ### 12:49
 
-Será una ley para el nativo y para el extranjero que se queda en medio de vosotros.
+Torá una será al nativo y al peregrino el peregrinante en vuestro medio.
 
 ### 12:50
 
-Y todos los hijos de Israel hicieron según lo que el SEÑOR había mandado a Moisés y a Aarón, así lo hicieron.
+Y hicieron todos hijos de Israel; como que mandó Jehová a Moshe y a Aharón, así hicieron.
 
 ### 12:51
 
-Y fue en este mismo día que el SEÑOR sacó a los hijos de Israel de la tierra de Egipto por sus cuerpos de guerra.
+Y fue en hueso del día este, sacó Jehová a hijos de Israel de tierra de Mizraim sobre sus ejércitos.
 
 ## Capítulo 13
 
 ### 13:1
 
-Y el SEÑOR habló a Moisés, diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 13:2
 
-Conságrame todo primogénito, el primogénito de toda matriz de los hijos de Israel, tanto del hombre como del animal; mío son.
+Santifica a mí todo primogénito, abridor de toda matriz, en hijos de Israel, en el hombre y en la bestia; a mí él.
 
 ### 13:3
 
-Y Moisés dijo al pueblo: Recordad este día en que salisteis de Egipto, de la casa de servidumbre, porque con mano poderosa el SEÑOR os sacó de allí; no comeréis pan ázimo.
+Y dijo Moshe al pueblo: De recordar recuerda el día este que salisteis desde Mizraim, desde casa de siervos, porque en fuerte de mano sacó Jehová a ustedes desde este, y no será comido jamets.
 
 ### 13:4
 
-Este día salisteis en el mes de abibe.
+Hoy ustedes salientes en mes del Aviv.
 
 ### 13:5
 
-Cuando el SEÑOR te lleve a la tierra de los cananeos, hetebeños, hititas, amorreos, heveos y jebuseos, que juró a tus padres darla a ti, una tierra que mana leche y miel, entonces servirás esta obra en este mes.
+Y será cuando te haga entrar Jehová a tierra del cananeo y el jiteo y el amorreo y el hiveo y el yebuseo, que juró a tus padres para dar a ti, tierra manante leche y miel, y servirás el servicio este en el mes este.
 
 ### 13:6
 
-Siete días comerás pan sin levadura; y en el día séptimo celebrarás fiesta al SEÑOR.
+Siete de días comerás matsot, y en el día séptimo fiesta a Jehová.
 
 ### 13:7
 
-Comerás pan sin levadura siete días; no se verá contigo pan con levadura, ni levadura en toda tu frontera.
+Matsot será comido las siete de los días, y no será visto a ti jamets, y no será visto a ti levadura en todo tu límite.
 
 ### 13:8
 
-Y dirás a tu hijo en aquel día: Por esto hizo el SEÑOR esto por mí cuando salí de Egipto.
+Y declararás a tu hijo en el día aquel, diciendo: Por causa de esto hizo Jehová a mí en mi salir desde Mizraim.
 
 ### 13:9
 
-Y será para ti por señal en la mano y por recordatorio entre tus ojos, para que la ley del SEÑOR esté en tu boca, porque con mano poderosa te sacó el SEÑOR de Egipto.
+Y será a ti a señal sobre tu mano y a memorial entre tus ojos, a fin de que sea torá de Jehová en tu boca, porque en mano fuerte te sacó Jehová desde Mizraim.
 
 ### 13:10
 
-Guardarás este mandamiento en su tiempo de año en año.
+Y guardarás el estatuto este a su tiempo señalado, desde días hacia días.
 
 ### 13:11
 
-Y será que cuando el SEÑOR te lleve a la tierra de los cananeos, hetebeños, hititas, amorreos, heveos y jebuseos, que juró a ti y a tus padres darla a ti, y te la dará,
+Y será cuando te haga entrar Jehová a tierra del cananeo, como que juró a ti y a tus padres, y la dé a ti.
 
 ### 13:12
 
-entonces pasarás todo primogénito de vientre de hombre y todo primogénito de animal, que te sea macho, al SEÑOR.
+Y harás pasar todo abridor de matriz a Jehová, y todo abridor de sheger de bestia que será a ti, los machos, a Jehová.
 
 ### 13:13
 
-Y todo primer nacimiento de asno lo cambiarás por un cordero, y si no lo cambias, lo golpearás. Y todo primer nacimiento de hombre de tus hijos lo cambiarás.
+Y todo abridor de asno redimirás en cordero, y si no redimieres, y lo desnucarás; y todo primogénito de hombre en tus hijos redimirás.
 
 ### 13:14
 
-Y será que cuando tu hijo te pregunte mañana: ¿Qué es esto?, le dirás: Con mano poderosa nos sacó el SEÑOR de Egipto, de la casa de esclavitud.
+Y será cuando te pregunte tu hijo mañana, diciendo: ¿Qué esto? Y dirás a él: En fuerte de mano nos sacó Jehová desde Mizraim, desde casa de siervos.
 
 ### 13:15
 
-Y fue que cuando Faraón endureció el corazón para dejarnos ir, el SEÑOR mató a todos los primeros nacidos en la tierra de Egipto, desde el primer nacido de hombre hasta el primer nacido de animal. Por eso yo ofrezco a Jehová todo primer nacimiento de vientre de asno y todo primer nacido de mis hijos lo cambio.
+Y fue que endureció Faraón a enviarnos, y mató Jehová todo primogénito en tierra de Mizraim, desde primogénito de hombre y hasta primogénito de bestia; sobre así yo sacrificante a Jehová todo abridor de matriz, los machos, y todo primogénito de mis hijos redimiré.
 
 ### 13:16
 
-Y será como señal en tu mano y como tocado entre tus ojos, porque con mano poderosa nos sacó el SEÑOR de Egipto.
+Y será a señal sobre tu mano y a totafot entre tus ojos, porque en fuerte de mano nos sacó Jehová desde Mizraim.
 
 ### 13:17
 
-Y sucedió que cuando Faraón los dejó ir, Dios no los llevó por el camino de los filisteos, porque era cerca, porque Dios dijo: Temerán el pueblo al ver la guerra y volverán a Egipto.
+Y fue en enviar Faraón al pueblo, y no los condujo Dios camino de tierra de pelishtim, porque cercano él; porque dijo Dios: No sea que se arrepienta el pueblo en su ver guerra, y vuelvan Mizraimah.
 
 ### 13:18
 
-Y Dios hizo que el pueblo tomara el camino del desierto del Mar Rojo. Y los hijos de Israel salieron de la tierra de Egipto armados.
+Y hizo rodear Dios al pueblo camino del desierto, mar de Suf; y jamushim subieron hijos de Israel desde tierra de Mizraim.
 
 ### 13:19
 
-Y Moisés tomó los huesos de José con él, porque José había hecho jurar a los hijos de Israel, diciendo: Dios os visitará y haréis salir mis huesos de aquí con vosotros.
+Y tomó Moshe los huesos de Yosef con él, porque de juramentar juramentó a hijos de Israel, diciendo: De visitar visitará Dios a ustedes, y haréis subir mis huesos desde este con ustedes.
 
 ### 13:20
 
-Y partieron de Socot y acamparon en Etam, al extremo del desierto.
+Y partieron desde Sucot, y acamparon en Etam, en cabo del desierto.
 
 ### 13:21
 
-Y el SEÑOR iba delante de ellos de día en una columna de nube para guiarles por el camino, y de noche en una columna de fuego para alumbrarles, para que pudieran ir de día y de noche.
+Y Jehová andante a faces de ellos de día en pilar de nube para conducirlos el camino, y noche en pilar de fuego para alumbrar a ellos, para andar de día y noche.
 
 ### 13:22
 
-La columna de nube no se apartaba de ellos de día, ni la columna de fuego de noche, sino que permanecía delante del pueblo.
+No se apartará pilar de la nube de día y pilar del fuego noche de faces del pueblo.
 
 ## Capítulo 14
 
 ### 14:1
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 14:2
 
-Di a los hijos de Israel que se vuelvan y acampearán frente a Pi-hahiroth, entre Migdol y el mar, frente a Baal-zefón. Acamparán frente al mar.
+Habla a hijos de Israel, y vuelvan y acampen a faces de Pi Hajirot, entre Migdol y entre el mar, a faces de Baal Tsefon; enfrente de él acamparéis sobre el mar.
 
 ### 14:3
 
-Y Farao dirá a los hijos de Israel: Están confundidos en la tierra; el desierto los ha cerrado por todos lados.
+Y dirá Faraón a hijos de Israel: Nebukim ellos en la tierra; cerró sobre ellos el desierto.
 
 ### 14:4
 
-Y endureceré el corazón de Farao, y perseguirá tras ellos; y me gloriaré en Farao y en todo su ejército, y sabrán los egipcios que yo soy el SEÑOR. Y así lo hicieron.
+Y fortaleceré el corazón de Faraón, y perseguirá detrás de ellos, y me glorificaré en Faraón y en todo su ejército, y conocerán Mizraim que yo Jehová. Y hicieron así.
 
 ### 14:5
 
-Y se informó al rey de Egipto de que el pueblo había huido, y se volvió el corazón de Farao y de sus siervos contra el pueblo, y dijeron: ¿Qué hemos hecho? Que hemos dejado ir a Israel de servirnos.
+Y fue declarado a rey de Mizraim que huyó el pueblo, y fue vuelto el corazón de Faraón y de sus siervos hacia el pueblo, y dijeron: ¿Qué esto hicimos, que enviamos a Israel de nuestro servir?
 
 ### 14:6
 
-Y Farao cargó su carro y tomó consigo a su pueblo.
+Y ató su carro, y su pueblo tomó con él.
 
 ### 14:7
 
-Y tomó seiscientos carros de guerra y todo el ejército de Egipto, con capitanes sobre ellos.
+Y tomó seis cientas carro escogido, y todo carro de Mizraim, y shalishim sobre todo él.
 
 ### 14:8
 
-Y el SEÑOR endureció el corazón de Faraón, rey de Egipto, y persiguió a los israelitas; y los israelitas habían salido con mano poderosa.
+Y fortaleció Jehová el corazón de Faraón rey de Mizraim, y persiguió detrás de hijos de Israel; e hijos de Israel salientes en mano alzada.
 
 ### 14:9
 
-Y los egipcios los persiguieron, y los alcanzaron, acampados junto al mar, junto al mar Rojo: y el ejército de los egipcios los alcanzó; y se pusieron junto al mar, junto al mar Rojo.
+Y persiguieron Mizraim detrás de ellos, y los alcanzaron acampantes sobre el mar, todo caballo de carro de Faraón y sus jinetes y su ejército, sobre Pi Hajirot, a faces de Baal Tsefon.
 
 ### 14:10
 
-Y cuando Faraón se acercó, los israelitas levantaron los ojos y vieron a los egipcios a su acecho, y se temieron mucho; y los israelitas dijeron a Moisés: ¿Por qué has hecho esto, para llevarnos a morir en el desierto?
+Y Faraón hizo acercar, y alzaron hijos de Israel sus ojos, y he aquí Mizraim partiente detrás de ellos, y temieron mucho, y clamaron hijos de Israel a Jehová.
 
 ### 14:11
 
-¿No había sepulturas en Egipto, y has llevado a morirnos en el desierto? ¿Qué es esto que has hecho con nosotros, para sacarnos de Egipto?
+Y dijeron a Moshe: ¿Desde no-hay sepulcros en Mizraim tomaste a nosotros para morir en el desierto? ¿Qué esto hiciste a nosotros, para sacarnos desde Mizraim?
 
 ### 14:12
 
-¿No era esto lo que te dijimos en Egipto, diciendo: Deja que te sirvamos, porque no es mejor servir a los egipcios que morir en el desierto?
+¿No esto la palabra que hablamos a ti en Mizraim, diciendo: Cesa de nosotros, y sirvamos a Mizraim? Porque bueno a nosotros servir a Mizraim que nuestro morir en el desierto.
 
 ### 14:13
 
-Y Moisés dijo al pueblo: No temáis, estad firmes, y ved la salvación del SEÑOR, que hoy os hará; porque los egipcios que hoy ved, no los veréis más para siempre.
+Y dijo Moshe al pueblo: No temáis; apostáos y ved la salvación de Jehová que hará a ustedes hoy; porque que visteis a Mizraim hoy, no añadiréis a verlos todavía hasta siempre.
 
 ### 14:14
 
-El SEÑOR peleará por vosotros, y vosotros estaréis en silencio.
+Jehová combatirá por ustedes, y ustedes callaréis.
 
 ### 14:15
 
-Y el SEÑOR dijo a Moisés: ¿Por qué clamas a mí? Di a los israelitas que se marchen.
+Y dijo Jehová a Moshe: ¿Qué clamas a mí? Habla a hijos de Israel, y partan.
 
 ### 14:16
 
-Y tú levanta tu vara y extiende tu mano sobre el mar y divide el mar, y los israelitas pasarán por medio del mar sobre tierra seca.
+Y tú, alza tu vara y tiende tu mano sobre el mar y hiéndelo, y vengan hijos de Israel en medio del mar en lo seco.
 
 ### 14:17
 
-Y yo endureceré el corazón de Egipto, y vendrán tras ellos, y me glorificaré en Faraón y en todo su ejército, en sus carros y en sus caballerizas.
+Y yo, heme aquí fortaleciente el corazón de Mizraim, y vengan detrás de ellos; y me glorificaré en Faraón y en todo su ejército, en su carro y en sus jinetes.
 
 ### 14:18
 
-Y sabrá Egipto que yo soy el SEÑOR, cuando me gloríe en Faraón, en sus carros y en sus caballerizas.
+Y conocerán Mizraim que yo Jehová, en mi glorificarme en Faraón, en su carro y en sus jinetes.
 
 ### 14:19
 
-Y se marchó el ángel de Dios que iba delante del campamento de Israel, y se puso detrás de ellos. Y se marchó la columna de nube delante de ellos, y se detuvo detrás de ellos.
+Y partió mensajero del Dios, el andante a faces de campamento de Israel, y anduvo desde detrás de ellos; y partió pilar de la nube de faces de ellos, y se paró desde detrás de ellos.
 
 ### 14:20
 
-Y se puso entre el campamento de Egipto y el campamento de Israel; y la columna de nube y la oscuridad se hizo luz por la noche, y no se acercó el uno al otro toda la noche.
+Y vino entre campamento de Mizraim y entre campamento de Israel, y fue la nube y la oscuridad, y alumbró la noche; y no se acercó este a este toda la noche.
 
 ### 14:21
 
-Y extendió Moisés su mano sobre el mar, y el SEÑOR hizo que el mar se retirara con un viento fuerte del Oriente toda la noche, y el mar se convirtió en tierra seca, y se dividió el agua.
+Y tendió Moshe su mano sobre el mar, y hizo andar Jehová el mar en viento de oriente fuerte toda la noche, y puso el mar a sequedad, y fueron hendidas las aguas.
 
 ### 14:22
 
-Y los israelitas pasaron por medio del mar sobre tierra seca, y el agua les fue muralla a su derecha y a su izquierda.
+Y vinieron hijos de Israel en medio del mar en lo seco, y las aguas a ellos muro desde su derecha y desde su izquierda.
 
 ### 14:23
 
-Y los egipcios los persiguieron y vinieron tras ellos, todos los caballos de Faraón, sus carros y sus jinetes, hasta el mar.
+Y persiguieron Mizraim, y vinieron detrás de ellos, todo caballo de Faraón, su carro y sus jinetes, hacia medio del mar.
 
 ### 14:24
 
-Y aconteció que por la mañana, al amanecer, el SEÑOR miró hacia el campamento de los egipcios con una columna de fuego y nube, y los confundió.
+Y fue en vigilia de la mañana, y se asomó Jehová hacia campamento de Mizraim en pilar de fuego y nube, y turbó el campamento de Mizraim.
 
 ### 14:25
 
-Y giró el timón de los carros y los condujo con dificultad, y los egipcios dijeron: “Estamos confundidos, porque el SEÑOR pelea contra nosotros”.
+Y quitó rueda de sus carros, y lo condujo en pesadez; y dijo Mizraim: Huya yo de faces de Israel, porque Jehová combatiente por ellos en Mizraim.
 
 ### 14:26
 
-Y el SEÑOR dijo a Moisés: “Extiende tu mano sobre el mar, y el agua volverá a cubrir a los egipcios, a sus carros y a sus jinetes”.
+Y dijo Jehová a Moshe: Tiende tu mano sobre el mar, y vuelvan las aguas sobre Mizraim, sobre su carro y sobre sus jinetes.
 
 ### 14:27
 
-Y Moisés extendió su mano sobre el mar, y el mar volvió a su lugar al amanecer, cuando el agua se había retirado, y los egipcios huían hacia él, y el SEÑOR los confundió en medio del mar.
+Y tendió Moshe su mano sobre el mar, y volvió el mar a faces de mañana a su eitán, y Mizraim huyentes a su encuentro; y sacudió Jehová a Mizraim en medio del mar.
 
 ### 14:28
 
-Y el agua regresó y cubrió los carros y a los jinetes de todo el ejército de Faraón que venían tras ellos al mar; no quedó de ellos ni uno.
+Y volvieron las aguas, y cubrieron el carro y los jinetes, a todo ejército de Faraón los vinientes detrás de ellos en el mar; no quedó en ellos hasta uno.
 
 ### 14:29
 
-Y los israelitas pasaron por el mar sobre tierra seca, y el agua les fue muralla a su derecha y a su izquierda.
+E hijos de Israel anduvieron en lo seco en medio del mar, y las aguas a ellos muro desde su derecha y desde su izquierda.
 
 ### 14:30
 
-Y el SEÑOR libró a Israel aquel día de la mano de los egipcios, y los israelitas vieron a los egipcios muertos a orillas del mar.
+Y salvó Jehová en el día aquel a Israel de mano de Mizraim, y vio Israel a Mizraim muerto sobre labio del mar.
 
 ### 14:31
 
-Y vieron los israelitas la gran mano que el SEÑOR había hecho en Egipto, y temieron al SEÑOR; y creyeron en el SEÑOR y en Moisés, su siervo.
+Y vio Israel la mano la grande que hizo Jehová en Mizraim, y temieron el pueblo a Jehová, y creyeron en Jehová y en Moshe su siervo.
 
 ## Capítulo 15
 
 ### 15:1
 
-Entonces cantará Moisés y los hijos de Israel este cántico al SEÑOR: Cantaré al SEÑOR, porque ha triunfado gloriosamente; el caballo y su jinete han sido arrojados en el mar.
+Entonces cantará Moshe y hijos de Israel el cántico este a Jehová, y dijeron diciendo: Cantaré a Jehová, porque de enaltecer se enalteció; caballo y su cabalgador lanzó en el mar.
 
 ### 15:2
 
-Esfuerzo y canción es el SEÑOR, y me ha sido por salvación. Este es mi Dios y lo glorificaré; mi padre lo tiene por Dios y lo ensalzaré.
+Mi fuerza y zimrat Yah, y fue a mí a salvación. Este mi El, y lo anvé; Dios de mi padre, y lo ensalzaré.
 
 ### 15:3
 
-El SEÑOR es guerrero; el SEÑOR es su nombre.
+Jehová varón de guerra; Jehová su nombre.
 
 ### 15:4
 
-Los carros de Faraón y su ejército el SEÑOR los arrojó en el mar; y los mejores de sus capitanes se hundieron en el mar Rojo.
+Carros de Faraón y su ejército lanzó en el mar; y escogido de sus shalishim fueron hundidos en mar de Suf.
 
 ### 15:5
 
-Se cubrieron las profundidades, se hundieron en el fango como una piedra.
+Abismos los cubren; descendieron en profundidades como piedra.
 
 ### 15:6
 
-Tu diestra, SEÑOR, es poderosa; tu diestra, SEÑOR, rompe el brazo del enemigo.
+Tu derecha, Jehová, enaltecida en la fuerza; tu derecha, Jehová, despedaza enemigo.
 
 ### 15:7
 
-En la multitud de tu poder derribas a tus adversarios; haces salir tu ira; te consume como paja.
+Y en muchedumbre de tu soberbia destruyes a tus levantados; envías tu ardor, los come como el rastrojo.
 
 ### 15:8
 
-Con el aliento de tus narices se congelaron los mares, se amontonaron las aguas, se helaron las profundidades del mar.
+Y en viento de tus narices se amontonaron aguas; se pararon como ned los fluentes; cuajaron abismos en corazón de mar.
 
 ### 15:9
 
-El enemigo dijo: 'Seguiré, alcanzaré, repartiré el botín; llenaré mis entrañas, vaciaré mi espada; extenderé mi mano contra las naciones que mi diestra ha apoderado.'
+Dijo enemigo: Perseguiré, alcanzaré, repartiré despojo; los llenará mi alma; vaciaré mi espada; los desposeerá mi mano.
 
 ### 15:10
 
-Soplaste con tu aliento, y el mar se cubrió; se hundieron como plomo en aguas poderosas.
+Soplaste en tu viento, los cubrió mar; se hundieron como el plomo en aguas enaltecidas.
 
 ### 15:11
 
-¿Quién es como ti, SEÑOR, entre los dioses? ¿Quién es como ti, majestuoso en santidad, temible en alabanzas, obrando maravillas?
+¿Quién como tú en los elim, Jehová? ¿Quién como tú, enaltecido en la santidad, temible de alabanzas, hacedor de maravilla?
 
 ### 15:12
 
-Extendiste tu diestra, la tierra los tragó.
+Tendiste tu derecha; los traga tierra.
 
 ### 15:13
 
-Con tu bondad los llevaste, los rescataste; con tu poder los guiaste a tu santo habitáculo.
+Conduciste en tu merced pueblo que redimiste; guiaste en tu fuerza hacia naveh de tu santidad.
 
 ### 15:14
 
-Oyeron los pueblos, temblaron; se estremecieron los moradores de Palestina.
+Oyeron pueblos, temblarán; dolor de parto asió a habitantes de Péleshet.
 
 ### 15:15
 
-Entonces se helaron los jefes de Edom, los nobles de Moab; se estremecieron todos los moradores de Canaán.
+Entonces se turbaron jefes de Edom; carneros de Moav, los asirá temblor; se fundieron todos habitantes de Canaán.
 
 ### 15:16
 
-Caigan sobre ellos la angustia y el temor; se congelarán de miedo por la grandeza de tu brazo, hasta que tu pueblo pase, oh SEÑOR, hasta que pase el pueblo que has adquirido.
+Caerá sobre ellos terror y pavor; en grandeza de tu brazo enmudecerán como la piedra; hasta que pase tu pueblo, Jehová, hasta que pase pueblo que adquiriste.
 
 ### 15:17
 
-Los llevarás y los plantarás en el monte de tu heredad; harás un lugar para tu morada. El SEÑOR hará el santuario; tus manos lo fundarán.
+Los harás entrar y los plantarás en monte de tu heredad; sitio a tu sentarte obraste, Jehová; santuario, Adonai, establecieron tus manos.
 
 ### 15:18
 
-El SEÑOR reinará para siempre y para siempre.
+Jehová reinará a siempre y ed.
 
 ### 15:19
 
-Porque el caballo de Faraón, con sus carros y sus jinetes, entró en el mar, y el SEÑOR los hizo hundirse en las aguas del mar; pero los israelitas caminaron sobre tierra seca por medio del mar.
+Porque vino caballo de Faraón en su carro y en sus jinetes en el mar, y volvió Jehová sobre ellos las aguas del mar; e hijos de Israel anduvieron en lo seco en medio del mar.
 
 ### 15:20
 
-Miriam, la profetisa, hermana de Aarón, tomó un tambor y salieron todas las mujeres detrás de ella con tambores y danzas.
+Y tomó Miryam la profetisa, hermana de Aharón, el tamboril en su mano, y salieron todas las mujeres detrás de ella con tamboriles y con danzas.
 
 ### 15:21
 
-Miriam respondió a ellas: Canten al SEÑOR, porque él es glorioso; el caballo y su jinete han sido arrojados al mar.
+Y respondió a ellos Miryam: Cantad a Jehová, porque de enaltecer se enalteció; caballo y su cabalgador lanzó en el mar.
 
 ### 15:22
 
-Mosié hizo que Israel partiera desde el Mar Rojo y salieron al desierto de Sur; caminaron tres días en el desierto y no encontraron agua.
+Y hizo partir Moshe a Israel desde mar de Suf, y salieron hacia desierto de Shur; y anduvieron tres de días en el desierto, y no hallaron aguas.
 
 ### 15:23
 
-Llegaron a Mara, pero no pudieron beber el agua de Mara, porque era amarga; por eso la llamaron Mara.
+Y vinieron Maratah, y no pudieron beber aguas desde Mará, porque amargas ellas; sobre así llamó su nombre Mará.
 
 ### 15:24
 
-El pueblo se quejó contra Moisés diciendo: ¿Qué beberemos?
+Y murmuraron el pueblo sobre Moshe, diciendo: ¿Qué beberemos?
 
 ### 15:25
 
-Y Moisés clamó al SEÑOR, y el SEÑOR le mostró un árbol; él lo arrojó al agua, y el agua se volvió dulce. Allí dio a Israel una norma y un juicio, y allí fue probado.
+Y clamó a Jehová, y le enseñó Jehová un árbol, y lo arrojó hacia las aguas, y se endulzaron las aguas. Allí puso a él estatuto y juicio, y allí lo probó.
 
 ### 15:26
 
-Y dijo: Si escuchas la voz del SEÑOR tu Dios, y lo que es recto ante tus ojos haces, y escuchas sus mandamientos, y guardas todos sus estatutos, no pondré sobre ti toda la enfermedad que puse en Egipto, porque yo soy el SEÑOR que te sana.
+Y dijo: Si de oír oirás a voz de Jehová tu Dios, y lo recto en sus ojos harás, y harás oído a sus mandamientos, y guardarás todos sus estatutos, toda la enfermedad que puse en Mizraim no pondré sobre ti, porque yo Jehová tu sanador.
 
 ### 15:27
 
-Y llegaron a Elim, donde había doce fuentes de agua y setenta palmeras; y acamparon allí junto a las aguas.
+Y vinieron Elimah, y allí doce ojos de aguas y setenta palmeras; y acamparon allí sobre las aguas.
 
 ## Capítulo 16
 
 ### 16:1
 
-Y partieron de Elim, y toda la congregación de los hijos de Israel llegó al desierto de Sinaí, que está entre Elim y Sinaí, el quince del segundo mes, después de salir de la tierra de Egipto.
+Y partieron desde Elim, y vinieron toda congregación de hijos de Israel hacia desierto de Sin, que entre Elim y entre Sinái, en el quince día al mes segundo, a su salir desde tierra de Mizraim.
 
 ### 16:2
 
-Y toda la congregación de los hijos de Israel murmuraron contra Moisés y contra Aarón en el desierto.
+Y murmuraron toda congregación de hijos de Israel sobre Moshe y sobre Aharón en el desierto.
 
 ### 16:3
 
-Y dijeron a ellos: ¿Quién nos dará carne para comer? Recordamos la pesca del mar en Egipto, cuando comíamos pescado sin falta, y toda clase de pan a nuestro antojo. Ahora el SEÑOR nos ha sacado de Egipto para matarnos de hambre en el desierto.
+Y dijeron a ellos hijos de Israel: ¿Quién diera nuestro morir en mano de Jehová en tierra de Mizraim, en nuestro sentarnos sobre olla de la carne, en nuestro comer pan a hartura? Porque sacasteis a nosotros hacia el desierto este, para matar a toda la asamblea esta en el hambre.
 
 ### 16:4
 
-Y el SEÑOR dijo a Moisés: He aquí que os daré carne para comer por cuatro décadas, y el pueblo saldrá y recogerá un día su porción en el día de su porción, para que yo os pruebe si andaréis en mi ley o no.
+Y dijo Jehová a Moshe: Heme aquí haciendo llover a ustedes pan desde los cielos, y saldrá el pueblo y recogerán palabra de día en su día, a fin de que yo lo pruebe: ¿andará en mi torá, si no?
 
 ### 16:5
 
-Y será que en el día sexto, prepararéis lo que traeréis, y será doble lo que recogéis, cada uno según su porción.
+Y será en el día sexto, y prepararán lo que hagan entrar, y será doble sobre lo que recojan día día.
 
 ### 16:6
 
-Y Moisés y Aarón dijeron a todo el pueblo de Israel: Por la tarde sabréis que el SEÑOR os ha sacado de la tierra de Egipto.
+Y dijo Moshe y Aharón a todos hijos de Israel: Tarde, y conoceréis que Jehová sacó a ustedes desde tierra de Mizraim.
 
 ### 16:7
 
-Y por la mañana veréis la gloria del SEÑOR, porque ha oído vuestros quejidos contra él; somos nosotros los culpables, ¿por qué nos quejáis vosotros?
+Y mañana, y veréis la gloria de Jehová, en su oír vuestras murmuraciones sobre Jehová; y nosotros qué, que murmuráis sobre nosotros.
 
 ### 16:8
 
-Y Moisés dijo: Por la tarde el SEÑOR os dará carne para comer, y por la mañana pan a saciedad, porque ha oído el SEÑOR vuestros quejidos que os quejáis contra él; no somos nosotros los culpables, ¿por qué os quejáis vosotros contra él?
+Y dijo Moshe: En dar Jehová a ustedes en la tarde carne para comer y pan en la mañana a hartarse, en oír Jehová vuestras murmuraciones que ustedes murmurantes sobre él; y nosotros qué, no sobre nosotros vuestras murmuraciones, porque sobre Jehová.
 
 ### 16:9
 
-Y Moisés dijo a Aarón: Di a toda la congregación de Israel: Acercaros al SEÑOR, porque ha oído vuestros quejidos.
+Y dijo Moshe a Aharón: Di a toda congregación de hijos de Israel: Acercaos a faces de Jehová, porque oyó vuestras murmuraciones.
 
 ### 16:10
 
-Y hablando Aarón a toda la congregación de Israel, se volvieron al desierto, y he aquí que la gloria del SEÑOR apareció en la nube.
+Y fue como hablar Aharón a toda congregación de hijos de Israel, y se volvieron hacia el desierto, y he aquí gloria de Jehová vista en la nube.
 
 ### 16:11
 
-Y el SEÑOR habló a Moisés, diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 16:12
 
-He oído los quejidos de los hijos de Israel. Decidle: Por la tarde comeréis carne, y por la mañana os hartaréis de pan; y sabréis que yo soy el SEÑOR, vuestro Dios.
+He oído las murmuraciones de hijos de Israel. Habla a ellos, diciendo: Entre las tardes comeréis carne, y en la mañana os hartaréis pan, y conoceréis que yo Jehová vuestro Dios.
 
 ### 16:13
 
-Y aconteció que por la tarde subieron cuervos y cubrieron el campamento, y por la mañana había rocío alrededor del campamento.
+Y fue en la tarde, y subió el selav y cubrió el campamento; y en la mañana fue yaciente del rocío alrededor al campamento.
 
 ### 16:14
 
-Y subió el rocío, y he aquí que sobre la superficie del desierto había polvo fino como polvo de escarcha sobre la tierra.
+Y subió yaciente del rocío, y he aquí sobre faces del desierto delgado, mehuspás, delgado como la escarcha sobre la tierra.
 
 ### 16:15
 
-Y vieron los hijos de Israel y dijeron unos a otros: ¿Qué es esto? Porque no sabían lo que era. Y Moisés les dijo: Este es el pan que el SEÑOR os da para comer.
+Y vieron hijos de Israel, y dijeron varón a su hermano: ¿Qué él? Porque no conocieron qué él. Y dijo Moshe a ellos: Él el pan que dio Jehová a ustedes a comida.
 
 ### 16:16
 
-Este es lo que ha mandado el SEÑOR: Recoged de él cada uno según la cantidad de personas que hay en vuestra tienda, un omer por persona según el número de almas que cada uno tiene en su tienda.
+Esto la palabra que mandó Jehová: Recoged de él, varón a boca de su comer, ómer al cráneo, número de vuestras almas; varón a lo que en su tienda tomaréis.
 
 ### 16:17
 
-Y así lo hicieron los hijos de Israel; el que recogía mucho tuvo mucho, y el que recogía poco tuvo poco.
+Y hicieron así hijos de Israel, y recogieron, el multiplicante y el menguante.
 
 ### 16:18
 
-Y midieronlo con el omer, y recogió el que recogía mucho según su cantidad, y el que recogía poco no tuvo menos; cada uno según su comida para comer.
+Y midieron en el ómer, y no hizo sobrar el multiplicante, y el menguante no hizo faltar; varón a boca de su comer recogieron.
 
 ### 16:19
 
-Y dijo Moisés a ellos: No dejen de recoger más de la cantidad que les corresponde hasta la mañana.
+Y dijo Moshe a ellos: Varón, no haga sobrar de él hasta mañana.
 
 ### 16:20
 
-Pero no escucharon a Moisés, y algunos de ellos dejaron de recoger más de la cantidad que les correspondía hasta la mañana. Y se putrefactó y se llenó de gusanos, y Moisés se enfureció contra ellos.
+Y no oyeron a Moshe, y hicieron sobrar varones de él hasta mañana, y se alzó gusanos y apestó; y se enfureció sobre ellos Moshe.
 
 ### 16:21
 
-Y recogieron cada uno según su comida por la mañana, y cuando se hizo caliente el sol, se descompuso.
+Y lo recogieron en la mañana en la mañana, varón como boca de su comer; y calentó el sol, y se derritió.
 
 ### 16:22
 
-Y sucedió que el día de la preparación recogieron doble porción de maná, dos omers por persona. Y vinieron todos los jefes de la congregación y lo dijeron a Moisés.
+Y fue en el día sexto, recogieron pan doble, dos del ómer al uno; y vinieron todos príncipes de la congregación, y declararon a Moshe.
 
 ### 16:23
 
-Y les dijo: Esto es lo que ha dicho el Señor: Mañana es día de reposo, un santo día para el Señor. Lo que cocinen, cocinen; y lo que hornezcan, hornezcan; y lo que sobre, guarden hasta la mañana.
+Y dijo a ellos: Él lo que habló Jehová: Shabatón, shabat de santidad a Jehová mañana. Lo que hornearéis, hornead, y lo que coceréis, coced; y todo lo sobrante, dejadlo a ustedes a guarda hasta la mañana.
 
 ### 16:24
 
-Y guardaron hasta la mañana lo que les había dicho Moisés, y no se corrompió ni hubo gusano en él.
+Y lo dejaron hasta la mañana, como que mandó Moshe, y no apestó, y gusano no fue en él.
 
 ### 16:25
 
-Entonces Moisés dijo: Comedlo hoy, porque es día de reposo para el Señor. No lo encontraréis hoy en el campo.
+Y dijo Moshe: Comedlo hoy, porque shabat hoy a Jehová; hoy no lo hallaréis en el campo.
 
 ### 16:26
 
-Por seis días recojedlo, pero el séptimo día, el sábado, no habrá en él.
+Seis de días lo recogeréis, y en el día séptimo shabat; no será en él.
 
 ### 16:27
 
-Y aconteció que el séptimo día salieron algunos del pueblo para recoger, y no hallaron nada.
+Y fue en el día séptimo, salieron del pueblo a recoger, y no hallaron.
 
 ### 16:28
 
-Y el Señor dijo a Moisés: Hasta cuándo os negaréis a guardar mis mandamientos y mis leyes?
+Y dijo Jehová a Moshe: ¿Hasta dónde rehusasteis a guardar mis mandamientos y mis torás?
 
 ### 16:29
 
-Mirad que el SEÑOR os ha dado el sábado, por eso el día de la semana daos pan para dos días; cada uno que se quede en su lugar, no saldrá nadie en el día séptimo.
+Ved que Jehová dio a ustedes el shabat; sobre así él dante a ustedes en el día sexto pan de dos días. Sentaos varón debajo de él; no salga varón de su lugar en el día séptimo.
 
 ### 16:30
 
-Y el pueblo se quedó el día séptimo.
+Y cesaron el pueblo en el día séptimo.
 
 ### 16:31
 
-Y llamó Israel a su nombre man, y era como semilla de pimienta, de color blanco, y su sabor era como de goma de adhesivo dulce.
+Y llamaron casa de Israel su nombre man; y él como semilla de gad, blanco, y su sabor como tsapíjit en miel.
 
 ### 16:32
 
-Y Moisés dijo: Esto es lo que ha mandado el SEÑOR: llenad un omer de man, para guardarlo por generaciones, para que veáis el pan que os he dado en el desierto, cuando os saqué de la tierra de Egipto.
+Y dijo Moshe: Esto la palabra que mandó Jehová: Llenura del ómer de él a guarda a vuestras generaciones, a fin de que vean el pan que hice comer a ustedes en el desierto, en mi sacar a ustedes desde tierra de Mizraim.
 
 ### 16:33
 
-Y Moisés dijo a Aarón: Toma una olla y pon en ella un omer de man, y guardarlo delante del SEÑOR por generaciones.
+Y dijo Moshe a Aharón: Toma tsintsenet una, y da allá llenura del ómer man, y déjalo a faces de Jehová a guarda a vuestras generaciones.
 
 ### 16:34
 
-Como el SEÑOR había mandado a Moisés, así lo guardó Aarón delante del testimonio para ser guardado.
+Como que mandó Jehová a Moshe, y lo dejó Aharón a faces del testimonio a guarda.
 
 ### 16:35
 
-Y los hijos de Israel comieron man cuarenta años, hasta que entraron en la tierra habitada; comieron man hasta que entraron en la frontera de la tierra de Canaán.
+E hijos de Israel comieron el man cuarenta año, hasta su venir hacia tierra habitada; el man comieron hasta su venir hacia cabo de tierra de Canaán.
 
 ### 16:36
 
-Y el omer es la décima parte del efa.
+Y el ómer, décima de la eifá él.
 
 ## Capítulo 17
 
 ### 17:1
 
-Y todo el campamento de los hijos de Israel partió desde el desierto de Sin según los viajes de ellos conforme al mandamiento de Jehová, y acamparon en Refidim; y no había agua para beber para el pueblo.
+Y partieron toda congregación de hijos de Israel desde desierto de Sin a sus partidas sobre boca de Jehová, y acamparon en Refidim, y no hay aguas para beber el pueblo.
 
 ### 17:2
 
-Y el pueblo peleó con Moisés y dijeron: Dános agua para beber. Y Moisés les dijo: ¿Por qué peleáis conmigo? ¿Por qué probáis a Jehová?
+Y contenció el pueblo con Moshe, y dijeron: Dad a nosotros aguas y beberemos. Y dijo a ellos Moshe: ¿Qué contendéis conmigo? ¿Qué probáis a Jehová?
 
 ### 17:3
 
-Y allí se secó el pueblo por falta de agua. Y el pueblo se quejó contra Moisés y dijo: ¿Por qué me has sacado de Egipto para matarme, a mí y a mis hijos y a mis ganados, de sed?
+Y tuvo sed allí el pueblo a las aguas, y murmuró el pueblo sobre Moshe, y dijo: ¿Por qué esto nos has hecho subir desde Mizraim para matar a mí y a mis hijos y a mi ganado en la sed?
 
 ### 17:4
 
-Y Moisés clamó a Jehová diciendo: ¿Qué haré con este pueblo? Poco a poco me apedrearán.
+Y clamó Moshe a Jehová, diciendo: ¿Qué haré al pueblo este? Todavía poco, y me apedrearán.
 
 ### 17:5
 
-Y Jehová dijo a Moisés: Pasa delante del pueblo y toma consigo de los ancianos de Israel; y toma en tu mano la vara con que golpeaste el río, y ve.
+Y dijo Jehová a Moshe: Pasa a faces del pueblo, y toma contigo de ancianos de Israel; y tu vara que heriste en él el Yeor, toma en tu mano, y andarás.
 
 ### 17:6
 
-He aquí que estoy de pie delante de ti allí en el monte Horeb; y golpearás la roca, y saldrá agua de ella, y beberá el pueblo. Y Moisés hizo así delante de los ancianos de Israel.
+Heme aquí parado a tus faces allí sobre la roca en Jorev, y herirás en la roca, y saldrán de él aguas, y beberá el pueblo. Y hizo así Moshe a ojos de ancianos de Israel.
 
 ### 17:7
 
-Y llamó el nombre del lugar Masá y Meribá, por la contienda de los hijos de Israel y por que probasen a Jehová diciendo: ¿Hay Jehová entre nosotros o no?
+Y llamó nombre del lugar Masá y Merivá, sobre contienda de hijos de Israel y sobre su probar a Jehová, diciendo: ¿Hay Jehová en nuestro interior, si no?
 
 ### 17:8
 
-Y vino Amalec y peleó contra Israel en Refidim.
+Y vino Amaleq, y luchó con Israel en Refidim.
 
 ### 17:9
 
-Y Moisés dijo a Josué: Elige hombres y sal a pelear contra Amalec. Mañana estaré en la cima de la colina, y la vara de Dios estará en mi mano.
+Y dijo Moshe a Yehoshúa: Escoge para nosotros varones, y sal, lucha en Amaleq; mañana yo apostado sobre cabeza de la colina, y vara de Dios en mi mano.
 
 ### 17:10
 
-Y Josué hizo como Moisés le había dicho, y fue a pelear contra Amalec. Mientras, Moisés, Aarón y Hur subieron a la cima de la colina.
+Y hizo Yehoshúa como que dijo a él Moshe, a luchar en Amaleq; y Moshe, Aharón y Jur subieron cabeza de la colina.
 
 ### 17:11
 
-Sucedió que cuando Moisés levantaba la mano, Israel triunfaba, y cuando la bajaba, Amalec triunfaba.
+Y fue como que alza Moshe su mano, y se fortalecía Israel; y como que reposa su mano, y se fortalecía Amaleq.
 
 ### 17:12
 
-Se volvieron pesados los brazos de Moisés, y tomaron una piedra y la pusieron debajo de él, y él se sentó sobre ella. Aarón y Hur sostenían sus manos, una de un lado y la otra del otro, y sus manos permanecieron firmes hasta que el sol se puso.
+Y manos de Moshe pesadas, y tomaron piedra y pusieron debajo de él, y se sentó sobre ella; y Aharón y Jur sostuvieron en sus manos, de este uno y de este uno, y fue sus manos fidelidad hasta venir el sol.
 
 ### 17:13
 
-Y Josué desbarató a Amalec y a su pueblo con la espada.
+Y debilitó Yehoshúa a Amaleq y a su pueblo a boca de espada.
 
 ### 17:14
 
-Y el SEÑOR dijo a Moisés: Escribe esto en un libro como recuerdo, y reciéntalo en oídos de Josué, para que borre yo el nombre de Amalec de debajo del cielo.
+Y dijo Jehová a Moshe: Escribe esto memorial en el libro, y pon en oídos de Yehoshúa, porque de borrar borraré el recuerdo de Amaleq de debajo de los cielos.
 
 ### 17:15
 
-Y Moisés edificó un altar y lo llamó: El SEÑOR es la bandera.
+Y edificó Moshe altar, y llamó su nombre Jehová nissí.
 
 ### 17:16
 
-Y dijo: Porque la mano está sobre el trono de Jehová para la guerra contra Amalec de generación en generación.
+Y dijo: Porque mano sobre kes de Yah; guerra a Jehová en Amaleq desde generación generación.
 
 ## Capítulo 18
 
 ### 18:1
 
-Y Jetro, sacerdote de Midián y suegro de Moisés, oyó todo lo que Dios había hecho a Moisés y a Israel su pueblo, porque el Señor había sacado a Israel de Egipto.
+Y oyó Yitró sacerdote de Midyán, suegro de Moshe, todo que hizo Dios a Moshe y a Israel su pueblo, porque sacó Jehová a Israel desde Mizraim.
 
 ### 18:2
 
-Y Jetro, suegro de Moisés, tomó a Zipoora, mujer de Moisés, después de que había enviado a su suegro.
+Y tomó Yitró suegro de Moshe a Tsipporá mujer de Moshe, después de sus envíos.
 
 ### 18:3
 
-Y tomó a sus dos hijos: el nombre del uno era Gershom, porque había dicho: “Extranjero soy en tierra ajena”.
+Y a dos de sus hijos, que nombre del uno Gershom, porque dijo: Peregrino fui en tierra extraña.
 
 ### 18:4
 
-Y el nombre del otro era Eliezer, porque había dicho: “El Dios de mi padre es mi ayuda, y me libró de la espada del faraón”.
+Y nombre del uno Eliézer, porque Dios de mi padre en mi ayuda, y me libró de espada de Faraón.
 
 ### 18:5
 
-Y Jetro, suegro de Moisés, vino con sus dos hijos y su mujer a Moisés, al desierto donde estaba acampado, junto al monte de Dios.
+Y vino Yitró suegro de Moshe y sus hijos y su mujer a Moshe, hacia el desierto que él acampante allí, monte del Dios.
 
 ### 18:6
 
-Y dijo a Moisés: “Yo soy tu suegro Jetro. He venido a ti, con tu mujer y con tus dos hijos con ella”.
+Y dijo a Moshe: Yo tu suegro Yitró viniente a ti, y tu mujer y dos de sus hijos con ella.
 
 ### 18:7
 
-Y Moisés salió a recibir a su suegro, y se postró y besó a Jetro. Se preguntaron uno al otro por su salud, y entraron en la tienda.
+Y salió Moshe a encuentro de su suegro, y se postró, y besó a él, y preguntaron varón a su compañero a paz, y vinieron hacia la tienda.
 
 ### 18:8
 
-Y Moisés contó a su suegro todo lo que el Señor había hecho a Egipto y a Faraón, y a cómo había ayudado a Israel. Contó también cómo los egipcios los habían perseguido en el camino, y cómo el Señor los había librado.
+Y contó Moshe a su suegro todo que hizo Jehová a Faraón y a Mizraim sobre asuntos de Israel, toda la fatiga que los halló en el camino, y los libró Jehová.
 
 ### 18:9
 
-Jetro se alegró por toda la bondad que el Señor había hecho a Israel, al haberlo librado de la mano de Egipto.
+Y se alegró Yitró sobre toda la buena que hizo Jehová a Israel, que lo libró de mano de Mizraim.
 
 ### 18:10
 
-Y Jetro dijo: Bendito sea el Señor, que ha librado a ustedes de la mano de Egipto y de la mano de Faraón, que ha librado al pueblo de la mano de Egipto.
+Y dijo Yitró: Bendito Jehová que libró a ustedes de mano de Mizraim y de mano de Faraón, que libró al pueblo de debajo de mano de Mizraim.
 
 ### 18:11
 
-Ahora sé que el Señor es mayor que todos los dioses, porque en lo que ellos hicieron contra ustedes, él ha actuado.
+Ahora he conocido que grande Jehová de todos los dioses, porque en la palabra que se ensoberbecieron sobre ellos.
 
 ### 18:12
 
-Y Jetro, suegro de Moisés, ofreció un holocausto y sacrificios a Dios. Y vino Aarón y todos los ancianos de Israel a comer pan con el suegro de Moisés ante Dios.
+Y tomó Yitró suegro de Moshe ofrenda-subida y sacrificios a Dios; y vino Aharón y todos ancianos de Israel a comer pan con suegro de Moshe a faces del Dios.
 
 ### 18:13
 
-Y al día siguiente Moisés se sentó para juzgar al pueblo, y el pueblo se quedó con Moisés desde la mañana hasta la noche.
+Y fue desde el mañana, y se sentó Moshe a juzgar al pueblo, y se paró el pueblo sobre Moshe desde la mañana hasta la tarde.
 
 ### 18:14
 
-Y vio el suegro de Moisés todo lo que él hacía al pueblo, y dijo: ¿Qué es esto que haces para el pueblo? ¿Por qué te sientas solo, mientras todo el pueblo se queda contigo desde la mañana hasta la noche?
+Y vio suegro de Moshe todo que él haciendo al pueblo, y dijo: ¿Qué la palabra esta que tú haciendo al pueblo? ¿Por qué tú sentado a tu solo, y todo el pueblo apostado sobre ti desde mañana hasta tarde?
 
 ### 18:15
 
-Y Moisés respondió a su suegro: Porque el pueblo viene a mí para buscar a Dios.
+Y dijo Moshe a su suegro: Porque viene a mí el pueblo a inquirir a Dios.
 
 ### 18:16
 
-Porque cuando tienen un asunto que traerme, juzgo entre uno y otro, y les hago conocer las leyes de Dios y sus enseñanzas.
+Porque habrá a ellos palabra, viene a mí, y juzgaré entre varón y entre su compañero, y haré conocer los estatutos del Dios y sus torás.
 
 ### 18:17
 
-Y tu suegro Jetro respondió: No es bueno lo que estás haciendo.
+Y dijo suegro de Moshe a él: No bueno la palabra que tú haciendo.
 
 ### 18:18
 
-Fatigarte te fatigará, tanto a ti como al pueblo que está contigo, porque es pesado para ti el asunto; no podrás hacerlo solo.
+De marchitar te marchitarás, también tú, también el pueblo este que contigo, porque pesado de ti la palabra; no podrás hacerlo a tu solo.
 
 ### 18:19
 
-Ahora, escucha mi voz; yo te aconsejaré, y Dios estará contigo: tú serás el pueblo ante Dios, y tú presentarás los asuntos a Dios.
+Ahora, oye en mi voz, te aconsejaré, y sea Dios contigo; sé tú al pueblo hacia frente del Dios, y harás venir tú las palabras al Dios.
 
 ### 18:20
 
-Y advertirás a ellos las leyes y los decretos, y les harás saber el camino por el cual deben andar y el trabajo que deben hacer.
+Y advertirás a ellos los estatutos y las torás, y harás conocer a ellos el camino andarán en ella, y la obra que harán.
 
 ### 18:21
 
-Y tú buscarás de todo el pueblo hombres capaces, temerosos de Dios, hombres de verdad, aborrecedores de la maldad, y pondrás sobre ellos jefes de mil, jefes de cien, jefes de cincuenta y jefes de diez.
+Y tú verás de todo el pueblo varones de fuerza, temerosos de Dios, varones de verdad, aborrecedores de ganancia, y pondrás sobre ellos jefes de miles, jefes de cientos, jefes de cincuenta, y jefes de dieces.
 
 ### 18:22
 
-Y juzgarán al pueblo en todo tiempo; y todo asunto grande lo traerán a ti, y todo asunto pequeño lo juzgarán ellos. Así aliviarás de sobre ti el trabajo, y ellos llevarán contigo el peso.
+Y juzgarán al pueblo en todo tiempo, y será, toda la palabra la grande harán venir a ti, y toda la palabra la pequeña juzgarán ellos; y aligera de sobre ti, y llevarán contigo.
 
 ### 18:23
 
-Si lo haces así, y Dios te manda así, podrás soportarlo; y también todo este pueblo vendrá a su lugar en paz.
+Si la palabra esta haces, y te manda Dios, y podrás parar, y también todo el pueblo este sobre su lugar vendrá en paz.
 
 ### 18:24
 
-Y Moisés escuchó la voz de su suegro y hizo conforme a lo que dijo.
+Y oyó Moshe a voz de su suegro, y hizo todo que dijo.
 
 ### 18:25
 
-Moisés eligió hombres valientes de toda Israel y los puso como jefes sobre el pueblo: jefes de mil, jefes de cien, jefes de cincuenta y jefes de diez.
+Y escogió Moshe varones de fuerza de todo Israel, y los dio cabezas sobre el pueblo: jefes de miles, jefes de cientos, jefes de cincuenta, y jefes de dieces.
 
 ### 18:26
 
-Juzgarán al pueblo en todo tiempo. Todo asunto difícil lo traerán a Moisés, y todo asunto pequeño lo juzgarán ellos mismos.
+Y juzgaban al pueblo en todo tiempo; la palabra la dura harán venir a Moshe, y toda la palabra la pequeña juzgarán ellos.
 
 ### 18:27
 
-Moisés envió a su suegro, quien regresó a su tierra.
+Y envió Moshe a su suegro, y anduvo a él hacia su tierra.
 
 ## Capítulo 19
 
 ### 19:1
 
-En el tercer mes, cuando los hijos de Israel salieron de la tierra de Egipto, el mismo día llegaron al desierto de Sinaí.
+En el mes el tercero al salir hijos de Israel desde tierra de Mizraim, en el día este vinieron hacia desierto de Sinái.
 
 ### 19:2
 
-Partieron de Refidim y llegaron al desierto de Sinaí. Acamparon en el desierto, y acampó allí Israel frente al monte.
+Y partieron desde Refidim, y vinieron hacia desierto de Sinái, y acamparon en el desierto; y acampó allí Israel enfrente del monte.
 
 ### 19:3
 
-Moisés subió al monte de Dios, y el Señor le llamó desde el monte diciendo: Así hablarás a la casa de Jacob y dirás a los hijos de Israel:
+Y Moshe subió al Dios, y llamó a él Jehová desde el monte, diciendo: Así dirás a casa de Yaakov, y declararás a hijos de Israel:
 
 ### 19:4
 
-Ustedes han visto lo que hice a Egipto, y los he llevado sobre alas de águilas y los he traído a mí.
+Ustedes visteis que hice a Mizraim, y os llevé sobre alas de águilas, y os hice venir a mí.
 
 ### 19:5
 
-Ahora, si escuchan mi voz y guardan mi pacto, serán para mí un tesoro entre todos los pueblos, porque toda la tierra es mía.
+Y ahora, si de oír oiréis en mi voz y guardaréis mi pacto, y seréis a mí segulá de todos los pueblos, porque a mí toda la tierra.
 
 ### 19:6
 
-Y ustedes serán para mí una nación de sacerdotes y un pueblo santo. Estas son las palabras que hablarás a los hijos de Israel.
+Y ustedes seréis a mí reino de sacerdotes y nación santa. Estas las palabras que hablarás a hijos de Israel.
 
 ### 19:7
 
-Moisés vino y llamó a los ancianos del pueblo. Y les puso delante todos estos dichos que el Señor le había ordenado.
+Y vino Moshe y llamó a ancianos del pueblo, y puso a faces de ellos todas las palabras estas que lo mandó Jehová.
 
 ### 19:8
 
-Todo el pueblo respondió al unísono y dijeron: Todo lo que el Señor ha dicho, lo haremos. Y Moisés repitió las palabras del pueblo al Señor.
+Y respondieron todo el pueblo juntamente, y dijeron: Todo que habló Jehová haremos. Y hizo volver Moshe las palabras del pueblo a Jehová.
 
 ### 19:9
 
-El Señor dijo a Moisés: He aquí que yo vengo a ti en una nube espesa, para que el pueblo escuche cuando yo hable contigo y también en ti crean para siempre. Y Moisés repitió las palabras del pueblo al Señor.
+Y dijo Jehová a Moshe: He aquí yo viniente a ti en espesura de la nube, a fin de que oiga el pueblo en mi hablar contigo, y también en ti creerán para siempre. Y declaró Moshe las palabras del pueblo a Jehová.
 
 ### 19:10
 
-El Señor dijo a Moisés: Ve al pueblo y santifícalos hoy y mañana. Y que se laven sus ropas.
+Y dijo Jehová a Moshe: Anda al pueblo, y los santificarás hoy y mañana, y lavarán sus mantos.
 
 ### 19:11
 
-Estén listos para el tercer día, porque el tercer día el Señor descenderá a los ojos de todo el pueblo sobre el monte Sinaí.
+Y serán establecidos al día el tercero, porque en el día el tercero descenderá Jehová a ojos de todo el pueblo sobre monte Sinái.
 
 ### 19:12
 
-Delimita al pueblo alrededor y di: Guardaos para que no suban al monte ni toquen su borde, porque todo el que lo toque morirá.
+Y harás límite al pueblo alrededor, diciendo: Guardaos a ustedes de subir en el monte y de tocar en su extremo; todo el tocante en el monte, de morir será muerto.
 
 ### 19:13
 
-No lo tocará la mano, porque será apedreado o flechado, ya sea animal o persona; no vivirá. Cuando suene la trompeta, subirán al monte.
+No tocará en él mano, porque de apedrear será apedreado o de tirar será tirado; si bestia, si varón, no vivirá. En el tirar el yovel, ellos subirán en el monte.
 
 ### 19:14
 
-Moisés descendió del monte hacia el pueblo y santificó al pueblo, y lavaron sus vestidos.
+Y descendió Moshe desde el monte al pueblo, y santificó al pueblo, y lavaron sus mantos.
 
 ### 19:15
 
-Dijo al pueblo: “Preparense para tres días. No se acerquen a una mujer.”
+Y dijo al pueblo: Sed establecidos a tres de días; no os acerquéis a mujer.
 
 ### 19:16
 
-Al tercer día, en la mañana, hubo truenos y relámpagos, y un espeso nubarrón sobre el monte, y un sonido de trompeta muy fuerte. Todo el pueblo que estaba en el campamento tembló.
+Y fue en el día el tercero, en ser la mañana, y fue voces y relámpagos y nube pesada sobre el monte, y voz de shofar fuerte mucho, y tembló todo el pueblo que en el campamento.
 
 ### 19:17
 
-Moisés sacó al pueblo para que se acercara a Dios desde el campamento, y se quedaron en la parte inferior del monte.
+Y sacó Moshe al pueblo a encuentro del Dios desde el campamento, y se apostaron en lo bajo del monte.
 
 ### 19:18
 
-El monte Sinaí humeaba por toda su parte, porque el Señor había descendido sobre él en fuego. El humo subía como el humo de un horno, y todo el monte temblaba fuertemente.
+Y monte de Sinái humó, todo él, de faces de que descendió sobre él Jehová en el fuego; y subió su humo como humo del horno, y tembló todo el monte mucho.
 
 ### 19:19
 
-Hubo un sonido de trompeta que se hacía cada vez más fuerte. Moisés hablaba, y Dios respondía con un sonido.
+Y fue voz del shofar andante y fuerte mucho; Moshe habla, y el Dios le responde en voz.
 
 ### 19:20
 
-El Señor descendió sobre el monte Sinaí, al tope del monte, y llamó a Moisés al tope del monte. Moisés subió.
+Y descendió Jehová sobre monte Sinái, a cabeza del monte, y llamó Jehová a Moshe a cabeza del monte, y subió Moshe.
 
 ### 19:21
 
-El Señor dijo a Moisés: “Baja, prohíbe al pueblo que se acerque al Señor, para que no se acerquen a ver, y caigan muchos de ellos.”
+Y dijo Jehová a Moshe: Desciende, testifica en el pueblo, no sea que derriben hacia Jehová a ver, y caiga de él mucho.
 
 ### 19:22
 
-Y también los sacerdotes que se acercan al Señor se santificarán, para que el Señor no los destruya.
+Y también los sacerdotes los acercantes a Jehová se santificarán, no sea que rompa en ellos Jehová.
 
 ### 19:23
 
-Moshé dijo al Señor: ‘El pueblo no puede subir al monte Sinaí, porque tú nos advertiste: “Delimita el monte y santifícalo.” ’
+Y dijo Moshe a Jehová: No podrá el pueblo a subir a monte Sinái, porque tú testificaste en nosotros, diciendo: Haz límite al monte y santifícalo.
 
 ### 19:24
 
-El Señor me dijo: ‘Ve abajo y sube tú con Aarón; y los sacerdotes y el pueblo no suban para ver al Señor, para que el Señor no los destruya.’
+Y dijo a él Jehová: Anda, desciende, y subirás tú y Aharón contigo; y los sacerdotes y el pueblo no derriben a subir a Jehová, no sea que rompa en ellos.
 
 ### 19:25
 
-Moshé bajó al pueblo y les dijo:
+Y descendió Moshe al pueblo, y dijo a ellos.
 
 ## Capítulo 20
 
 ### 20:1
 
-Dios habló todos estos mandamientos:
+Y habló Dios todas las palabras estas, diciendo:
 
 ### 20:2
 
-Yo soy el Señor tu Dios, que te sacó de la tierra de Egipto, de la casa de esclavitud.
+Yo Jehová tu Dios, que te saqué desde tierra de Mizraim, desde casa de siervos.
 
 ### 20:3
 
-No tendrás otros dioses frente a mí.
+No será a ti dioses otros sobre mis faces.
 
 ### 20:4
 
-No te harás imagen de escultura, ni ninguna representación de lo que está en el cielo arriba, ni de lo que está en la tierra abajo, ni de lo que está en las aguas debajo de la tierra.
+No harás para ti pesel, y toda forma que en los cielos desde arriba, y que en la tierra desde debajo, y que en las aguas desde debajo a la tierra.
 
 ### 20:5
 
-No te postrarás ante ellos ni los servirás, porque yo, Jehová tu Dios, soy un Dios celoso, que visita el pecado de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen.
+No te postrarás a ellos, y no los servirás, porque yo Jehová tu Dios, El celoso, visitando iniquidad de padres sobre hijos, sobre terceros y sobre cuartos, a mis aborrecedores.
 
 ### 20:6
 
-Y haré misericordia hasta la milésima generación a los que me aman y guardan mis mandamientos.
+Y haciendo merced a los millares, a mis amadores y a guardadores de mis mandamientos.
 
 ### 20:7
 
-No tomarás el nombre de Jehová tu Dios en vano, porque Jehová no dejará impune al que tomará su nombre en vano.
+No alzarás el nombre de Jehová tu Dios a la vanidad, porque no limpiará Jehová al que alzare su nombre a la vanidad.
 
 ### 20:8
 
-Acuérdate del día de reposo para santificarlo.
+De recordar el día del shabat para santificarlo.
 
 ### 20:9
 
-Seis días trabajarás y harás toda tu obra.
+Seis de días servirás, y harás toda tu obra.
 
 ### 20:10
 
-Y el día séptimo es día de reposo para Jehová tu Dios; no harás ninguna obra, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu ganado, ni el extranjero que está dentro de tus puertas.
+Y día el séptimo shabat a Jehová tu Dios; no harás toda obra, tú y tu hijo y tu hija, tu siervo y tu sierva y tu bestia y tu peregrino que en tus puertas.
 
 ### 20:11
 
-Porque en seis días hizo Jehová los cielos y la tierra, el mar y todo lo que hay en ellos, y descansó el séptimo día; por eso bendijo Jehová el día de reposo y lo santificó.
+Porque seis de días hizo Jehová los cielos y la tierra, el mar y todo que en ellos, y reposó en el día el séptimo; sobre así bendijo Jehová el día del shabat y lo santificó.
 
 ### 20:12
 
-Honra a tu padre y a tu madre para que tus días se prolonguen sobre la tierra que te da Jehová tu Dios.
+De honrar a tu padre y a tu madre, a fin de que alarguen tus días sobre el suelo que Jehová tu Dios dante a ti.
 
 ### 20:13
 
-No matarás.
+No asesinarás.
 
 ### 20:14
 
-No cometerás adulterio.
+No adulterarás.
 
 ### 20:15
 
-No robarás.
+No hurtarás.
 
 ### 20:16
 
-No darás falso testimonio contra tu prójimo.
+No responderás en tu prójimo testigo de mentira.
 
 ### 20:17
 
-No codiciarás la casa de tu prójimo; no codiciarás la mujer de tu prójimo, ni su siervo, ni su sierva, ni su buey, ni su asno, ni nada que pertenezca a tu prójimo.
+No desearás casa de tu prójimo; no desearás mujer de tu prójimo, y su siervo y su sierva y su buey y su asno y todo que a tu prójimo.
 
 ### 20:18
 
-Y todo el pueblo vio los truenos y las llamas, y el sonido de la trompeta, y la montaña humeante; y cuando el pueblo vio, se movió y se alejó de la distancia.
+Y todo el pueblo viendo las voces y las antorchas y la voz del shofar y el monte humeante; y vio el pueblo, y se tambalearon, y se pararon desde lejos.
 
 ### 20:19
 
-Y dijeron a Moisés: Habla tú con nosotros, y nosotros escucharemos; pero no hable Dios con nosotros, para que no muramos.
+Y dijeron a Moshe: Habla tú con nosotros, y oiremos; y no hable con nosotros Dios, no sea que muramos.
 
 ### 20:20
 
-Y Moisés dijo al pueblo: No temáis, porque ha venido para probaros, y para que su temor esté sobre vosotros, para que no pequéis.
+Y dijo Moshe al pueblo: No temáis, porque a fin de probar a ustedes vino el Dios, y a fin de que sea su temor sobre vuestras faces, para no pecar.
 
 ### 20:21
 
-Y el pueblo se quedó lejos, y Moisés se acercó al velo, donde estaba Dios.
+Y se paró el pueblo desde lejos, y Moshe se acercó al arafel que allí el Dios.
 
 ### 20:22
 
-Y el SEÑOR dijo a Moisés: Así hablarás a los hijos de Israel: Vosotros habéis visto que yo he hablado con vosotros desde el cielo.
+Y dijo Jehová a Moshe: Así dirás a hijos de Israel: Ustedes visteis que desde los cielos hablé con ustedes.
 
 ### 20:23
 
-No haréis conmigo dioses de plata ni dioses de oro; no haréis para vosotros.
+No haréis conmigo dioses de plata y dioses de oro no haréis para ustedes.
 
 ### 20:24
 
-Harás un altar de tierra para mí, y sacrificarás sobre él tus holocaustos y tus ofrendas pacíficas, tus carneros y tus bueyes, en todo lugar donde yo me acuerde de mi nombre, vendré a ti y te bendeciré.
+Altar de suelo harás a mí, y sacrificarás sobre él tus ofrendas-subida y tus ofrendas de paces, tu rebaño y tu ganado; en todo el lugar que yo haré recordar mi nombre, vendré a ti y te bendeciré.
 
 ### 20:25
 
-Y si haces un altar de piedras para mí, no las labrarás; porque si levantas tu cuchillo sobre él, profanarás el altar.
+Y si altar de piedras harás a mí, no las edificarás gazit; porque tu espada has ondeado sobre ella, y la has profanado.
 
 ### 20:26
 
-No subirás por escalones al altar, para que no descubras tu desnudez sobre él.
+Y no subirás en subidas sobre mi altar, que no sea descubierta tu desnudez sobre él.
 
 ## Capítulo 21
 
