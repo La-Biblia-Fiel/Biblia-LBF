@@ -97,103 +97,103 @@ Y mandó Faraón a todo su pueblo, diciendo: Todo el hijo el nacido, hacia el Ye
 
 ### 2:1
 
-Entonces un hombre de la tribu de Leví tomó por mujer a una hija de Levi. Y ella concibió e hijo; y lo parió cuando el tiempo llegó, y lo ocultó tres meses.
+Y anduvo varón de casa de Leví, y tomó a hija de Leví.
 
 ### 2:2
 
-Cuando ya no pudo más esconderlo, hizo para él un cesto de papiro recubierto con betún y grasa; y puso al niño en el cesto, y lo dejó entre los cañaverales junto a la orilla del río.
+Y se preñó la mujer y parió hijo. Y vio a él que bueno él, y lo escondió tres meses.
 
 ### 2:3
 
-Y su hermana se quedó a cierta distancia para ver qué le harían.
+Y no pudo todavía esconderlo, y tomó para él arca de góme, y la betunó en el betún y en la zefet, y puso en ella al niño, y puso en el suf sobre labio del Yeor.
 
 ### 2:4
 
-Entonces salió la hija de Faraón a bañarse en el río, y sus doncellas andaban por el camino del río. Y vio la niña el cesto entre los cañaverales; y envió una de sus doncellas, y tomó el cesto.
+Y se apostó su hermana desde lejos, para conocer qué se haría a él.
 
 ### 2:5
 
-Y abriólo, y vio al niño; y he aquí que lloraba. Entonces se compadeció de él, y dijo: Este es un niño de los hebreos.
+Y descendió hija de Faraón a lavar sobre el Yeor, y sus muchachas andantes sobre mano del Yeor. Y vio el arca en medio del suf, y envió a su sierva, y la tomó.
 
 ### 2:6
 
-Y dijo su hermana a la hija de Faraón: ¿Quieres que vaya y te busque una nodriza entre las hebreas, para que ella le amamante?
+Y abrió, y lo vio, al niño, y he aquí muchacho llorante. Y se apiadó sobre él, y dijo: De los niños de los hebreos este.
 
 ### 2:7
 
-Dijole la hija de Faraón: Ve. Y la muchacha fue y llamó a la madre del niño.
+Y dijo su hermana a hija de Faraón: ¿Iré y llamaré a ti mujer nodriza de las hebreas, y amamante a ti al niño?
 
 ### 2:8
 
-Y dijo a la mujer: Toma este niño y amántalo por mí, y te daré tu salario. La mujer tomó al niño y lo amamantó.
+Y dijo a ella hija de Faraón: Anda. Y anduvo la doncella y llamó a madre del niño.
 
 ### 2:9
 
-Y el niño creció; y su madre le llevaba a la hija de Faraón, quien lo adoptó como hijo. Y llamóle Moisés, diciendo: Porque he sacado del agua este niño.
+Y dijo a ella hija de Faraón: Haz ir al niño este y amamántalo a mí, y yo daré tu salario. Y tomó la mujer al niño y lo amamantó.
 
 ### 2:10
 
-Y le dio por nombre Moisés, diciendo: Porque he sacado del agua este niño.
+Y creció el niño, y lo hizo venir a hija de Faraón, y fue a ella a hijo. Y llamó su nombre Moshe, y dijo: Porque desde las aguas lo saqué.
 
 ### 2:11
 
-En aquellos días, cuando Moisés había crecido, salió a sus hermanos los hijos de Israel y vio sus trabajos. Y vió un egipcio maltratando a uno de sus hermanos hebreos.
+Y fue en los días aquellos, y creció Moshe, y salió a sus hermanos, y vio en sus cargas. Y vio varón mizrí hiriente a varón hebreo, de sus hermanos.
 
 ### 2:12
 
-Y miró alrededor, y no vió hombre; entonces mató al egipcio y lo enterró en la arena.
+Y se volvió acá y acá, y vio que no hay varón, y hirió al mizrí, y lo escondió en la arena.
 
 ### 2:13
 
-Al día siguiente salió y vio que dos hebreos se peleaban entre sí. Y dijo a quien hacía el mal: ¿Por qué te vas a pegar con tu hermano?
+Y salió en el día el segundo, y he aquí dos varones hebreos riñentes. Y dijo al malo: ¿Por qué hieres a tu compañero?
 
 ### 2:14
 
-Y respondió él: ¿Quién ha puesto sobre ti príncipe y juez sobre nosotros? ¿Tienes intención de matarme como mataste al egipcio? Y Moisés se asustó, diciendo: He aquí que esto es conocido.
+Y dijo: ¿Quién te puso a varón príncipe y juez sobre nosotros? ¿Para matarme tú dices, como que mataste al mizrí? Y temió Moshe, y dijo: Ciertamente conocida la palabra.
 
 ### 2:15
 
-Entonces el faraón oyó esta cosa. Buscó a Moisés para matarlo; pero Moisés huyó de la presencia del rey y habitó en tierra de Madián.
+Y oyó Faraón la palabra esta, y buscó para matar a Moshe. Y huyó Moshe de faces de Faraón, y habitó en tierra de Midyán, y se sentó sobre el pozo.
 
 ### 2:16
 
-Y el sacerdote de Midián tenía siete hijas; y vinieron a echar agua para regar la pradera del rebaño. Y los pastores vinieron y las ahuyentaron.
+Y a sacerdote de Midyán siete hijas. Y vinieron y sacaron y llenaron los canales para abrevar rebaño de su padre.
 
 ### 2:17
 
-Entonces Moisés se levantó y les ayudó, y echó el agua sobre sus camellos hasta que bebieron.
+Y vinieron los pastores y los echaron. Y se levantó Moshe y las salvó, y abrevó rebaño de ellos.
 
 ### 2:18
 
-Y cuando llegaron al padre de ellas, él dijo: ¿Por qué volvéis tan pronto hoy?
+Y vinieron a Reúel su padre. Y dijo: ¿Por qué apresurasteis a venir hoy?
 
 ### 2:19
 
-Respondieron ellas: Un egipcio nos ayudó; sacó del pozo agua para nosotros y echó el agua sobre los camellos hasta que bebieron.
+Y dijeron: Varón mizrí nos libró de mano de los pastores; y también de sacar sacó para nosotros, y abrevó el rebaño.
 
 ### 2:20
 
-Y dijo a sus hijas: ¿Por qué habéis dejado al hombre? Invitadlo a comer pan.
+Y dijo a sus hijas: ¿Y dónde él? ¿Por qué esto dejasteis al varón? Llamad a él, y comerá pan.
 
 ### 2:21
 
-Moisés aceptó la invitación, y él vivió con el sacerdote. Y le dio Jetro su hija Zipoora por mujer.
+Y consintió Moshe a habitar con el varón, y dio a Tsipporá su hija a Moshe.
 
 ### 2:22
 
-Y ella concibió e hijo; y Moisés llamóle Gersón, diciendo: Yo soy extranjero en tierra de mi parentela.
+Y parió hijo, y llamó su nombre Gershom, porque dijo: Peregrino fui en tierra extraña.
 
 ### 2:23
 
-Y aconteció que en el transcurso de muchos días, el rey de Egipto murió. Y los hijos de Israel suspiraron por la servidumbre; y clamaron sus gritos subieron a Dios.
+Y fue en los días los muchos aquellos, y murió rey de Mizraim. Y gimieron hijos de Israel desde el servicio, y clamaron; y subió su clamor a Dios desde el servicio.
 
 ### 2:24
 
-Y oyó Dios su queja, y recordó al pacto con Abraham, Isaac y Jacob.
+Y oyó Dios su gemido, y recordó Dios su pacto, con Abraham, con Yitsjaq y con Yaakov.
 
 ### 2:25
 
-Y vio Dios los hijos de Israel en Egipto, y tuvo misericordia de ellos.
+Y vio Dios a hijos de Israel, y conoció Dios.
 
 ## Capítulo 3
 
