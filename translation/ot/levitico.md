@@ -77,779 +77,779 @@ Y lo henderá en sus alas, no apartará, y hará humear a él el sacerdote al al
 
 ### 2:1
 
-Y si ofreces un sacrificio de cereal a Jehová, tu ofrenda será de harina tostada; y viertes sobre ella aceite, y colocas sobre ella incienso.
+Y alma, cuando acercare acercamiento ofrenda a Jehová, semolina será su acercamiento, y verterá sobre ella aceite, y dará sobre ella levoná.
 
 ### 2:2
 
-Y la traerás a los hijos de Aarón, los sacerdotes, y tomarás de ella un puñado de su harina y de su aceite y de toda su incienso; y el sacerdote quemará sobre el altar por recuerdo, una ofrenda quemada, fuego agradable, aroma grato a Jehová.
+Y la traerá a hijos de Aharón los sacerdotes, y puñará de allí llenura de su puño de su semolina y de su aceite sobre toda su levoná, y hará humear el sacerdote su memorial al altar: fuego, olor de sosiego a Jehová.
 
 ### 2:3
 
-Y lo que queda de la ofrenda de cereal para Aarón y para sus hijos, será santo de santos, de las ofrendas de fuego a Jehová.
+Y la restante de la ofrenda, a Aharón y a sus hijos: santidad de santidades, de fuegos de Jehová.
 
 ### 2:4
 
-Y si ofreces un sacrificio de cereal de pan horneado, harina de panes sin levadura, mezclada con aceite, y de panes sin levadura untados con aceite.
+Y cuando acercares acercamiento ofrenda, cocción de horno: semolina tortas de matsot mezcladas en el aceite, y hojuelas de matsot untadas en el aceite.
 
 ### 2:5
 
-Y si tu ofrenda de cereal es sobre la plancha, será harina de panes sin levadura, de panes sin levadura untados con aceite.
+Y si ofrenda sobre la plancha tu acercamiento: semolina mezclada en el aceite, matsá será.
 
 ### 2:6
 
-Y la partirás en pedazos y viertes sobre ella aceite; es una ofrenda de cereal.
+De trocear la trocearás pedazos, y verterás sobre ella aceite; ofrenda ella.
 
 ### 2:7
 
-Y si tu ofrenda de cereal es de masa de harina húmeda, será harina de panes sin levadura, mezclada con aceite.
+Y si ofrenda de cazuela tu acercamiento: semolina en el aceite será hecha.
 
 ### 2:8
 
-Y la traerás al Señor de entre estas ofrendas, y la ofrecerás al sacerdote, y él la presentará al altar.
+Y traerás la ofrenda que se hará de estas a Jehová, y la acercará al sacerdote, y la hará llegar al altar.
 
 ### 2:9
 
-Y el sacerdote elevará de la ofrenda la parte recordatoria, y quemará el altar como incienso aromático al Señor.
+Y alzará el sacerdote de la ofrenda su memorial, y hará humear al altar: fuego, olor de sosiego a Jehová.
 
 ### 2:10
 
-Y lo que quede de la ofrenda para Aarón y para sus hijos será santo de santos de las ofrendas de fuego al Señor.
+Y la restante de la ofrenda, a Aharón y a sus hijos: santidad de santidades, de fuegos de Jehová.
 
 ### 2:11
 
-Toda ofrenda que traigas al Señor no será fermentada, porque no quemarás levadura ni miel como ofrenda de fuego al Señor.
+Toda la ofrenda que acercaréis a Jehová no será hecha jamets, porque todo levadura y toda miel no haréis humear de él fuego a Jehová.
 
 ### 2:12
 
-Ofrecerás como ofrenda de primicias a Jehová, pero no las subirás al altar como incienso aromático.
+Acercamiento de principio acercaréis a ellos a Jehová, y al altar no subirán a olor de sosiego.
 
 ### 2:13
 
-Y toda ofrenda de tu pan de cereal la salarás, y no dejarás de salar la ofrenda de tu Dios, porque sobre toda ofrenda de tu pan de cereal salarás.
+Y todo acercamiento de tu ofrenda en la sal salarás, y no harás cesar sal de pacto de tu Dios de sobre tu ofrenda; sobre todo tu acercamiento acercarás sal.
 
 ### 2:14
 
-Y si traes una ofrenda de primicias a Jehová, de primicias de la cosecha, tostada en el horno, en trozos de cereal, traerás la ofrenda de tus primicias.
+Y si acercares ofrenda de primicias a Jehová, aviv tostado en el fuego, geres de carmel acercarás, la ofrenda de tus primicias.
 
 ### 2:15
 
-Y pondrás sobre ella aceite y colocarás sobre ella incienso, será una ofrenda.
+Y darás sobre ella aceite, y pondrás sobre ella levoná; ofrenda ella.
 
 ### 2:16
 
-Y el sacerdote quemará la parte recordatoria de ella, de su grano y de su aceite, sobre toda su incienso, como ofrenda de fuego al Señor.
+Y hará humear el sacerdote su memorial, de su geres y de su aceite sobre toda su levoná: fuego a Jehová.
 
 ## Capítulo 3
 
 ### 3:1
 
-Y si es un sacrificio de paz, si de ganado es, si macho o hembra, será perfecto para presentarlo ante Jehová.
+Y si sacrificio de ofrendas de paces su acercamiento: si desde el ganado él acercando, si macho si hembra, íntegro lo acercará delante de Jehová.
 
 ### 3:2
 
-Y pondrá su mano sobre la cabeza de su ofrenda y la degollará al frente del tabernáculo, y los hijos de Aarón esparcirán su sangre alrededor del altar.
+Y apoyará su mano sobre cabeza de su acercamiento, y lo degollará, puerta de tienda de tiempo señalado, y rociarán hijos de Aharón los sacerdotes la sangre sobre el altar alrededor.
 
 ### 3:3
 
-Y ofrecerá de la ofrenda de paz al Señor como ofrenda de fuego, el grasa que cubre el hígado y toda la grasa que está sobre el hígado.
+Y acercará desde sacrificio de las ofrendas de paces fuego a Jehová: el sebo el cubriente el interior, y todo el sebo que sobre el interior,
 
 ### 3:4
 
-Y ofrecerá también las dos quijadas y la grasa que está sobre ellas, la que está sobre los riñones, y la grasa que está sobre el hígado, junto con las dos quijadas.
+Y las dos riñones y el sebo que sobre ellas, que sobre los ijares, y el lóbulo sobre el hígado, sobre las riñones, la quitará.
 
 ### 3:5
 
-Y los hijos de Aarón quemarán sobre el altar la ofrenda de fuego, que está sobre los leños que están sobre el fuego; es un aroma agradable, una ofrenda agradable a Jehová.
+Y harán humear a él hijos de Aharón al altar, sobre la ofrenda-subida que sobre los leños que sobre el fuego: fuego, olor de sosiego a Jehová.
 
 ### 3:6
 
-Si la ofrenda de paz que ofrece es de la manada, un macho o una hembra sin defecto, la ofrecerá.
+Y si desde el rebaño su acercamiento a sacrificio de ofrendas de paces a Jehová, macho o hembra, íntegro lo acercará.
 
 ### 3:7
 
-Si es un cordero que ofrece, lo ofrecerá delante de Jehová.
+Si cordero él acercando su acercamiento, y lo acercará delante de Jehová.
 
 ### 3:8
 
-Y pondrá su mano sobre la cabeza de su ofrenda y la degollará delante de la tienda de reunión, y los hijos de Aarón esparcirán su sangre alrededor del altar.
+Y apoyará su mano sobre cabeza de su acercamiento, y lo degollará delante de tienda de tiempo señalado, y rociarán hijos de Aharón su sangre sobre el altar alrededor.
 
 ### 3:9
 
-Y ofrecerá de la ofrenda de paz al Señor como ofrenda de fuego, la grasa que cubre el hígado, junto con el lóbulo del hígado, y la grasa que está sobre el riñón, junto con la grasa que está sobre el riñón.
+Y acercará desde sacrificio de las ofrendas de paces fuego a Jehová su sebo: la cola íntegra, frente a la espina, la quitará; y el sebo el cubriente el interior, y todo el sebo que sobre el interior,
 
 ### 3:10
 
-Y ofrecerá también las dos quijadas y la grasa que está sobre ellas, la que está sobre los riñones, y la grasa que está sobre el hígado, junto con las dos quijadas.
+Y las dos riñones y el sebo que sobre ellas, que sobre los ijares, y el lóbulo sobre el hígado, sobre las riñones, la quitará.
 
 ### 3:11
 
-Y el sacerdote quemará sobre el altar la ofrenda de fuego; es pan de ofrenda agradable a Jehová.
+Y lo hará humear el sacerdote al altar: pan de fuego a Jehová.
 
 ### 3:12
 
-Y si la ofrenda de paz que ofrece es una cabra, la ofrecerá delante de Jehová.
+Y si cabra su acercamiento, y lo acercará delante de Jehová.
 
 ### 3:13
 
-Y pondrá su mano sobre la cabeza de su ofrenda y la degollará delante de la tienda de reunión, y los hijos de Aarón esparcirán su sangre alrededor del altar.
+Y apoyará su mano sobre su cabeza, y lo degollará delante de tienda de tiempo señalado, y rociarán hijos de Aharón su sangre sobre el altar alrededor.
 
 ### 3:14
 
-Y ofrecerá de la ofrenda de paz al Señor como ofrenda de fuego, la grasa que está sobre el riñón, junto con la grasa que está sobre el riñón.
+Y acercará de él su acercamiento, fuego a Jehová: el sebo el cubriente el interior, y todo el sebo que sobre el interior,
 
 ### 3:15
 
-Y ofrecerá también las dos quijadas y la grasa que está sobre ellas, la que está sobre los riñones, y la grasa que está sobre el hígado, junto con las dos quijadas.
+Y las dos riñones y el sebo que sobre ellas, que sobre los ijares, y el lóbulo sobre el hígado, sobre las riñones, la quitará.
 
 ### 3:16
 
-Y el sacerdote quemará sobre el altar por ofrenda de fuego, pan de oblación agradable aroma a Jehová, toda la grasa.
+Y los hará humear el sacerdote al altar: pan de fuego a olor de sosiego; todo sebo a Jehová.
 
 ### 3:17
 
-Esto será ley perpetua para vuestras generaciones en todos vuestros lugares donde moréis; toda grasa y toda sangre no comeréis.
+Estatuto de siempre a vuestras generaciones, en todas vuestras moradas: todo sebo y toda sangre no comeréis.
 
 ## Capítulo 4
 
 ### 4:1
 
-Y Jehová habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 4:2
 
-Habla a los hijos de Israel diciendo: Si alguien comete un pecado por error en alguna de todas las cosas que Jehová ha ordenado no hacer, y hace una de ellas.
+Habla a hijos de Israel, diciendo: Alma, cuando pecare en yerro de todas mandamientos de Jehová que no se harán, y hiciere de una de ellas.
 
 ### 4:3
 
-Si el sacerdote ungido comete un pecado por error que le es imputado al pueblo, y ofrecerá por su pecado, que ha cometido, un toro sin defecto a Jehová por pecado.
+Si el sacerdote el ungido pecare a culpa del pueblo, y acercará sobre su pecado que pecó: toro hijo de ganado íntegro a Jehová, a ofrenda de pecado.
 
 ### 4:4
 
-Y traerá el toro al atrio de la tienda de reunión delante de Jehová, y pondrá su mano sobre la cabeza del toro, y degollará el toro delante de Jehová.
+Y traerá el toro a puerta de tienda de tiempo señalado, delante de Jehová, y apoyará su mano sobre cabeza del toro, y degollará el toro delante de Jehová.
 
 ### 4:5
 
-Y tomará el sacerdote ungido del sangre del toro, y traerála al tabernáculo de reunión.
+Y tomará el sacerdote el ungido de sangre del toro, y lo traerá a tienda de tiempo señalado.
 
 ### 4:6
 
-Y mojará el sacerdote su dedo en la sangre, y echará de la sangre siete veces delante de Jehová, delante del velo del santuario.
+Y mojará el sacerdote su dedo en la sangre, y salpicará de la sangre siete veces delante de Jehová, a faces de velo de la santidad.
 
 ### 4:7
 
-Y pondrá el sacerdote de la sangre sobre las cuernos del altar de incienso que está delante de Jehová en el tabernáculo de reunión, y toda la sangre del toro derramará al pie del altar del holocausto que está delante de la entrada del tabernáculo de reunión.
+Y dará el sacerdote de la sangre sobre cuernos de altar de incienso de las especias, delante de Jehová, que en tienda de tiempo señalado; y toda sangre del toro derramará a fundamento de altar de la ofrenda-subida, que puerta de tienda de tiempo señalado.
 
 ### 4:8
 
-Y todo el grasa del toro del pecado llevará de él, la grasa que cubre el hígado, y toda la grasa que está sobre el hígado.
+Y todo sebo de toro de la ofrenda de pecado alzará de él: el sebo el cubriente sobre el interior, y todo el sebo que sobre el interior,
 
 ### 4:9
 
-Y las dos riñones, y la grasa que está sobre ellas, que está sobre los riñones, y la grasa que está sobre el bazo, junto con las riñones, apartará.
+Y las dos riñones y el sebo que sobre ellas, que sobre los ijares, y el lóbulo sobre el hígado, sobre las riñones, la quitará.
 
 ### 4:10
 
-Como se quema la grasa del toro de la ofrenda de paz, así el sacerdote quemará sobre el altar por ofrenda de fuego, la grasa.
+Como que es alzado de buey de sacrificio de las ofrendas de paces, y los hará humear el sacerdote sobre altar de la ofrenda-subida.
 
 ### 4:11
 
-Y la piel del toro, con toda su carne, con su cabeza y sus patas, con su interior y su estómago, las llevará sobre su cabeza y sobre sus patas.
+Y piel del toro y toda su carne, sobre su cabeza y sobre sus piernas, y su interior y su estiércol,
 
 ### 4:12
 
-Y sacará todo el toro fuera del campamento, a un lugar limpio, al montón de cenizas, y lo quemará sobre leña, en el fuego; sobre el montón de cenizas lo quemará.
+Y sacará todo el toro a fuera al campamento, a lugar limpio, a derrame de la ceniza, y quemará a él sobre leños en el fuego; sobre derrame de la ceniza será quemado.
 
 ### 4:13
 
-Si toda la congregación de Israel comete un error y algo se oculta a los ojos de la congregación, y hacen una cosa de todas las cosas que el SEÑOR ha ordenado no hacer, y se arrepienten.
+Y si toda congregación de Israel yerraren, y fuere oculto asunto de ojos de la asamblea, y hicieren una de todas mandamientos de Jehová que no se harán, y se culparen.
 
 ### 4:14
 
-Y se conocerá el pecado que han cometido, y la congregación ofrecerá un toro de un año por el pecado, y lo llevarán ante la tienda de reunión.
+Y fuere conocida el pecado que pecaron sobre ella, y acercarán la asamblea toro hijo de ganado a ofrenda de pecado, y lo traerán delante de tienda de tiempo señalado.
 
 ### 4:15
 
-Y los ancianos de la congregación pondrán sus manos sobre la cabeza del toro delante del SEÑOR, y degollarán el toro delante del SEÑOR.
+Y apoyarán ancianos de la congregación sus manos sobre cabeza del toro delante de Jehová, y degollará el toro delante de Jehová.
 
 ### 4:16
 
-Y el sacerdote ungido tomará del sangre del toro, y la llevará al tabernáculo del testimonio.
+Y traerá el sacerdote el ungido de sangre del toro a tienda de tiempo señalado.
 
 ### 4:17
 
-Y el sacerdote mojará su dedo en la sangre, y la esparcirá siete veces delante del SEÑOR, hacia la tela del velo.
+Y mojará el sacerdote su dedo de la sangre, y salpicará siete veces delante de Jehová, a faces del velo.
 
 ### 4:18
 
-Y tomará de la sangre, y la pondrá sobre las cuernas del altar que está delante del SEÑOR, que está en el tabernáculo del testimonio, y toda la sangre la derramará al pie del altar del holocausto, que está delante de la entrada del tabernáculo del testimonio.
+Y de la sangre dará sobre cuernos del altar que delante de Jehová, que en tienda de tiempo señalado; y toda la sangre derramará a fundamento de altar de la ofrenda-subida, que puerta de tienda de tiempo señalado.
 
 ### 4:19
 
-Y toda su grasa la elevará de él, y la quemará sobre el altar.
+Y todo su sebo alzará de él, y hará humear al altar.
 
 ### 4:20
 
-Y hará al toro como hizo al toro del pecado, y el sacerdote hará expiación por ellos, y serán perdonados.
+Y hará al toro como que hizo a toro de la ofrenda de pecado, así hará a él; y cubrirá sobre ellos el sacerdote, y será perdonado a ellos.
 
 ### 4:21
 
-Y sacará el toro fuera del campamento, y lo quemará como quemó el primer toro, el pecado de la congregación es este.
+Y sacará el toro a fuera al campamento, y quemará a él como que quemó el toro el primero: ofrenda de pecado de la asamblea él.
 
 ### 4:22
 
-Si el príncipe comete un error y hace una cosa de todas las cosas que el SEÑOR, su Dios, ha ordenado no hacer, en un error, y se arrepiente.
+Que nasi pecare, y hiciere una de todas mandamientos de Jehová su Dios que no se harán, en yerro, y se culpare.
 
 ### 4:23
 
-O bien declare su pecado al SEÑOR, y traerá su ofrenda, un cabrito macho sin defecto.
+O fuere hecha conocer a él su pecado que pecó en ella, y traerá su acercamiento: macho cabrío de cabras, macho íntegro.
 
 ### 4:24
 
-Y pondrá su mano sobre la cabeza del cabrito y lo degollará en el lugar donde degolla la ofrenda quemada, ante el SEÑOR; es un pecado.
+Y apoyará su mano sobre cabeza del macho cabrío, y lo degollará en lugar que se degüella la ofrenda-subida, delante de Jehová: ofrenda de pecado él.
 
 ### 4:25
 
-Y el sacerdote tomará del sangre del pecado con el dedo, y la pondrá sobre las cuernas del altar de la ofrenda quemada, y el resto de la sangre la derramará a la base del altar de la ofrenda quemada.
+Y tomará el sacerdote de sangre de la ofrenda de pecado en su dedo, y dará sobre cuernos de altar de la ofrenda-subida, y su sangre derramará a fundamento de altar de la ofrenda-subida.
 
 ### 4:26
 
-Y toda la grasa la quemará sobre el altar; como la grasa del sacrificio de paz, así la quemará; y el sacerdote hará expiación por su pecado, y será perdonado.
+Y todo su sebo hará humear al altar, como sebo de sacrificio de las ofrendas de paces; y cubrirá sobre él el sacerdote de su pecado, y será perdonado a él.
 
 ### 4:27
 
-Y si alguien comete un error y hace una cosa de todas las cosas que el SEÑOR ha ordenado no hacer, y es culpado.
+Y si alma una pecare en yerro, de pueblo de la tierra, en su hacer una de mandamientos de Jehová que no se harán, y se culpare.
 
 ### 4:28
 
-O bien declare su pecado al SEÑOR, y traerá su ofrenda, un cabrito hembra sin defecto por su pecado que cometió.
+O fuere hecha conocer a él su pecado que pecó, y traerá su acercamiento: cabra de cabras íntegra, hembra, sobre su pecado que pecó.
 
 ### 4:29
 
-Y pondrá su mano sobre la cabeza del pecado, y degollará el pecado en el lugar donde degolla la ofrenda quemada.
+Y apoyará su mano sobre cabeza de la ofrenda de pecado, y degollará la ofrenda de pecado en lugar de la ofrenda-subida.
 
 ### 4:30
 
-Y el sacerdote tomará del sangre del pecado con el dedo, y la pondrá sobre las cuernas del altar de la ofrenda quemada, y el resto de la sangre la derramará a la base del altar.
+Y tomará el sacerdote de su sangre en su dedo, y dará sobre cuernos de altar de la ofrenda-subida, y toda su sangre derramará a fundamento del altar.
 
 ### 4:31
 
-Y toda la grasa la quitará como se quita la grasa del sacrificio de paz, y el sacerdote la quemará sobre el altar por un aroma grato al SEÑOR; y el sacerdote hará expiación por él, y será perdonado.
+Y todo su sebo quitará, como que fue quitado sebo de sobre sacrificio de las ofrendas de paces, y hará humear el sacerdote al altar, a olor de sosiego a Jehová; y cubrirá sobre él el sacerdote, y será perdonado a él.
 
 ### 4:32
 
-Y si ofrece una ofrenda de pecado de cordero, una hembra sin defecto la ofrecerá.
+Y si cordero trajere su acercamiento a ofrenda de pecado, hembra íntegra la traerá.
 
 ### 4:33
 
-Y pondrá su mano sobre la cabeza del pecado, y degollará el pecado en el lugar donde degolla la ofrenda quemada.
+Y apoyará su mano sobre cabeza de la ofrenda de pecado, y la degollará a ofrenda de pecado, en lugar que se degüella la ofrenda-subida.
 
 ### 4:34
 
-Y el sacerdote tomará del sangre del pecado con el dedo, y la pondrá sobre las cuernas del altar de la ofrenda quemada, y el resto de la sangre la derramará a la base del altar.
+Y tomará el sacerdote de sangre de la ofrenda de pecado en su dedo, y dará sobre cuernos de altar de la ofrenda-subida, y toda su sangre derramará a fundamento del altar.
 
 ### 4:35
 
-Y apartará toda la grasa, como se aparta la grasa del cordero del sacrificio de paz. Y el sacerdote quemará sobre el altar la grasa; sobre las llamas del Señor la quemará, y el sacerdote hará expiación por él por su pecado que cometió, y será perdonado.
+Y todo su sebo quitará, como que es quitado sebo del cordero de sacrificio de las ofrendas de paces, y hará humear el sacerdote a ellos al altar, sobre fuegos de Jehová; y cubrirá sobre él el sacerdote sobre su pecado que pecó, y será perdonado a él.
 
 ## Capítulo 5
 
 ### 5:1
 
-Y si alguien pecare y oiga la voz de una maldición, y sea testigo, o lo vea, o lo sepa, y no lo declare, llevará su culpa.
+Y alma, cuando pecare y oyere voz de maldición, y él testigo, o vio o conoció: si no declarare, y llevará su iniquidad.
 
 ### 5:2
 
-O si alguien toque cualquier cosa impura, ya sea un cadáver de animal impuro, o el cadáver de un animal, o el cadáver de un reptil, y no lo sepa, y esté impuro, y será culpado.
+O alma que tocare en toda cosa inmunda, o en cadáver de animal inmunda, o en cadáver de bestia inmunda, o en cadáver de enjambre inmundo, y fuere oculto de él, y él inmundo, y se culpare.
 
 ### 5:3
 
-O si alguien toque la impureza de un hombre, en cualquier impureza de él, en lo que esté impuro, y no lo sepa, y esté impuro, y será culpado.
+O cuando tocare en inmundicia de hombre, a toda su inmundicia que se inmundare en ella, y fuere oculto de él, y él conoció, y se culpare.
 
 ### 5:4
 
-O si alguien jure con la lengua a propósito, para el bien o para el mal, en cualquier cosa que el hombre jure con juramento, y no lo sepa, y esté culpado por una de estas cosas.
+O alma, cuando jurare a pronunciar en labios, a hacer mal o a hacer bien, a todo que pronunciare el hombre en juramento, y fuere oculto de él, y él conoció, y se culpare, a una de estas.
 
 ### 5:5
 
-Y si se culpabiliza por una de estas cosas, confesará que ha pecado.
+Y será cuando se culpare a una de estas, y confesará que pecó sobre ella.
 
 ### 5:6
 
-Y traerá su ofrenda al Señor por su pecado que cometió, una hembra de cordero o un cabrito macho por su pecado. Y el sacerdote hará expiación por él por su pecado que cometió.
+Y traerá su ofrenda de culpa a Jehová sobre su pecado que pecó: hembra desde el rebaño, cordera o cabra de cabras, a ofrenda de pecado; y cubrirá sobre él el sacerdote de su pecado.
 
 ### 5:7
 
-Y si no puede alcanzar la mano de él para un cordero, traerá su ofrenda que ha pecado, dos tordos o dos palomas al Señor, uno por el pecado y otro por la ofrenda por el pecado.
+Y si no alcanzare su mano bastante de cordero, y traerá su ofrenda de culpa que pecó: dos tórtolas o dos hijos de paloma a Jehová, uno a ofrenda de pecado y uno a ofrenda-subida.
 
 ### 5:8
 
-Y traerá a ellos al sacerdote, y ofrecerá a lo que es por el pecado la primera. Y el sacerdote mojará su cabeza frente a su nuca, y no la dividirá.
+Y los traerá al sacerdote, y acercará el que a la ofrenda de pecado primero, y uñará su cabeza desde frente a su nuca, y no apartará.
 
 ### 5:9
 
-Y derramará del sangre del pecado sobre el muro del altar, y lo que queda de la sangre, lo echará a la base del altar. Es un pecado.
+Y salpicará de sangre de la ofrenda de pecado sobre pared del altar, y lo restante en la sangre será exprimido a fundamento del altar: ofrenda de pecado él.
 
 ### 5:10
 
-Y a la segunda hará una ofrenda por el pecado, según el rito. Y el sacerdote hará expiación por él por su pecado que cometió, y será perdonado.
+Y el segundo hará ofrenda-subida como el juicio; y cubrirá sobre él el sacerdote de su pecado que pecó, y será perdonado a él.
 
 ### 5:11
 
-Y si no puede alcanzar la mano de él para dos tordos o para dos palomas, traerá su ofrenda que ha pecado, la décima parte de un efa de harina por el pecado. No pondrá sobre ella aceite, ni pondrá sobre ella incienso, porque es un pecado.
+Y si no llegare su mano a dos tórtolas o a dos hijos de paloma, y traerá su acercamiento que pecó: décima del efa, semolina, a ofrenda de pecado; no pondrá sobre ella aceite, y no dará sobre ella levoná, porque ofrenda de pecado ella.
 
 ### 5:12
 
-Y la traerá al sacerdote, y el sacerdote tomará una parte de ella, lleno de su mano, como recuerdo, y la quemará sobre el altar sobre las llamas del Señor; es un pecado.
+Y la traerá al sacerdote, y puñará el sacerdote de ella llenura de su puño, su memorial, y hará humear al altar sobre fuegos de Jehová: ofrenda de pecado ella.
 
 ### 5:13
 
-Y el sacerdote hará expiación por él por su pecado, por cualquiera de ellos, y será perdonado; y será para el sacerdote como una ofrenda quemada.
+Y cubrirá sobre él el sacerdote sobre su pecado que pecó, de una de estas, y será perdonado a él; y será al sacerdote como la ofrenda.
 
 ### 5:14
 
-Y el Señor habló a Moisés, diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 5:15
 
-Si alguien profana y comete un pecado inadvertidamente en las cosas santas del Señor, traerá su ofrenda al Señor, un cordero perfecto de la manada, según su valor, según el valor de la sela sagrada, por su ofrenda.
+Alma, cuando infidiare infidelidad y pecare en yerro de santidades de Jehová, y traerá su ofrenda de culpa a Jehová: carnero íntegro desde el rebaño, en tu valuación, plata de siclos en siclo de la santidad, a ofrenda de culpa.
 
 ### 5:16
 
-Y pagará lo que profanó, y añadirá la quinta parte a ello, y lo dará al sacerdote; y el sacerdote hará expiación por él con el cordero del ofrenda, y será perdonado.
+Y lo que pecó de la santidad pagará, y su quinto añadirá sobre él, y lo dará al sacerdote; y el sacerdote cubrirá sobre él en carnero de la ofrenda de culpa, y será perdonado a él.
 
 ### 5:17
 
-Y si alguien comete un pecado y hace alguna de las cosas que no deben hacerse, y no lo sabe, y es culpable, y llevará su culpa.
+Y si alma cuando pecare y hiciere una de todas mandamientos de Jehová que no se harán, y no conoció, y se culpare, y llevará su iniquidad.
 
 ### 5:18
 
-Y traerá un cordero perfecto de la manada, según su valor, como ofrenda, al sacerdote; y el sacerdote hará expiación por él por su error que cometió inadvertidamente, y no lo sabía, y será perdonado.
+Y traerá carnero íntegro desde el rebaño, en tu valuación, a ofrenda de culpa, al sacerdote; y cubrirá sobre él el sacerdote sobre su yerro que yerró, y él no conoció, y será perdonado a él.
 
 ### 5:19
 
-Es una ofrenda por el pecado; es una ofrenda por el pecado al Señor.
+Ofrenda de culpa él; de culparse se culpó a Jehová.
 
 ## Capítulo 6
 
 ### 6:1
 
-Y el Señor habló a Moisés, diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 6:2
 
-Si alguien comete un pecado y profana al Señor, y oculta algo de su compañero, ya sea por engaño, por robo, por fraude, o por haber hurtado a su compañero.
+Alma, cuando pecare y prevaricará prevaricación en Jehová, y mentirá en su compañero en depósito o en puesta de mano o en robo o oprimió a su compañero,
 
 ### 6:3
 
-O halla algo perdido y lo oculta, y jura falsamente, por alguna de las cosas que el hombre hace para pecar con ello.
+o halló pérdida y mentirá en ella, y jurará sobre mentira, sobre una de todo que hará el hombre para pecar en ellas:
 
 ### 6:4
 
-Y cuando cometa un pecado y sea culpable, restituirá lo que haya robado, o lo que haya hurtado, o lo que haya engañado, o lo que haya hallado.
+y será cuando pecare y será culpable, y devolverá el robo que robó, o la opresión que oprimió, o el depósito que fue depositado con él, o la pérdida que halló,
 
 ### 6:5
 
-O si jura sobre cualquier cosa que el hombre hace para pecar con ella, pagará el equivalente y le añadirá la quinta parte, y la restituirá en el día de su culpa.
+o de todo que jurará sobre él a mentira, y pagará a él en su cabeza, y sus quintos añadirá sobre él; al que él a él lo dará en día de su culpabilidad.
 
 ### 6:6
 
-Y llevará su ofrenda de culpa al SEÑOR, un cordero perfecto del rebaño, como ofrenda de culpa, al sacerdote.
+Y su ofrenda de culpa hará venir a Jehová, carnero íntegro desde el rebaño, en tu valoración, a ofrenda de culpa, al sacerdote.
 
 ### 6:7
 
-Y el sacerdote hará expiación por él ante el SEÑOR, y será perdonado por cualqulica de las cosas que ha hecho para ofrenda de culpa.
+Y cubrirá sobre él el sacerdote delante de Jehová, y será perdonado a él, sobre una de todo que hará a culpabilidad en ella.
 
 ### 6:8
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 6:9
 
-Di a Aarón y a sus hijos: Esta es la ley de la ofrenda quemada. La ofrenda quemada se quema sobre el altar toda la noche hasta la mañana. El fuego del altar arderá en él.
+Manda a Aharón y a sus hijos, diciendo: Esta torá de la ofrenda-subida: ella la ofrenda-subida sobre hoguera sobre el altar toda la noche hasta la mañana, y fuego del altar será encendido en él.
 
 ### 6:10
 
-Y el sacerdote se vestirá de lino, y se pondrá calzones de lino sobre su carne; y recogerá la ceniza que la llama ha consumido de la ofrenda quemada sobre el altar, y la pondrá junto al altar.
+Y vestirá el sacerdote su vestido bad, y calzones de bad vestirá sobre su carne, y alzará la ceniza que comerá el fuego la ofrenda-subida sobre el altar, y la pondrá al lado del altar.
 
 ### 6:11
 
-Y se desvestirá de sus vestidos y se pondrá otros vestidos, y sacará la ceniza fuera del campamento a un lugar limpio.
+Y desnudará sus vestidos, y vestirá vestidos otros, y sacará la ceniza a fuera del campamento, a lugar limpio.
 
 ### 6:12
 
-Y el fuego sobre el altar arderá en él; no se apagará. El sacerdote encenderá leña sobre él por la mañana; y ordenará sobre él la ofrenda quemada, y quemará sobre él el grasa de la ofrenda de paz.
+Y el fuego sobre el altar será encendido en él, no se apagará, y arderá sobre ella el sacerdote leños en la mañana en la mañana, y ordenará sobre ella la ofrenda-subida, y hará humear sobre ella sebos de las ofrendas de paces.
 
 ### 6:13
 
-Un fuego perpetuo arderá sobre el altar; no se apagará.
+Fuego continuo será encendido sobre el altar, no se apagará.
 
 ### 6:14
 
-Y esta es la ley de la ofrenda de cinción que los hijos de Aarón ofrecerán al SEÑOR ante el altar.
+Y esta torá de la ofrenda: acercar a ella hijos de Aharón delante de Jehová, a faces del altar.
 
 ### 6:15
 
-Y recogerá de ella una parte de su harina y de su aceite, y toda la incienso que está sobre la ofrenda de cinción, y quemará el altar como aroma agradable, ofrenda recordatoria al SEÑOR.
+Y alzará de él en su puñado de semolina de la ofrenda y de su aceite, y toda la levoná que sobre la ofrenda, y hará humear el altar, olor de sosiego, su memorial, a Jehová.
 
 ### 6:16
 
-Y lo que queda de ella, Aarón y sus hijos comerán en un lugar santo; en la corte del tabernáculo de reunión comerán de ella.
+Y la restante de ella comerán Aharón y sus hijos; matsot será comida en lugar santo; en atrio de tienda de tiempo señalado la comerán.
 
 ### 6:17
 
-No harás pan con levadura; lo que es mío, lo he dado a mí como ofrenda de fuego; es santísimo, como la ofrenda por el pecado y como la ofrenda por el delito.
+No será horneada jamets; su porción di a ella de mis fuegos; santidad de santidades ella, como la ofrenda de pecado y como la ofrenda de culpa.
 
 ### 6:18
 
-Todo varón entre los hijos de Aarón comerá de ella; es un decreto eterno para tus generaciones, de las ofrendas de fuego a Jehová; todo lo que toque a ella será santificado.
+Todo macho en hijos de Aharón la comerá, estatuto de siempre a vuestras generaciones, de fuegos de Jehová; todo que tocare en ellos se santificará.
 
 ### 6:19
 
-Y Jehová habló a Moisés, diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 6:20
 
-Esta es la ofrenda de Aarón y de sus hijos, que ofrecerán a Jehová en el día de su ungimiento: una décima parte de un efa de harina como ofrenda de pan continuamente; la mitad de ella por la mañana y la mitad de ella por la tarde.
+Este acercamiento de Aharón y sus hijos que acercarán a Jehová en día de ser ungido a él: décima del efa semolina, ofrenda continua; su mitad en la mañana y su mitad en la tarde.
 
 ### 6:21
 
-Sobre una tabla de panes hechos con aceite se hará una masa de panes; una túnica de panes de ofrenda presentará; ofrenda de aroma grato a Jehová.
+Sobre sartén en el aceite será hecha; revuelta la traerás; tefuné de ofrenda de pedazos acercarás, olor de sosiego a Jehová.
 
 ### 6:22
 
-Y el sacerdote ungido entre sus hijos le hará; es un decreto eterno para Jehová; toda ofrenda de fuego será entera; no se comerá.
+Y el sacerdote el ungido debajo de él de sus hijos hará a ella; estatuto de siempre a Jehová, entera será hecha humear.
 
 ### 6:23
 
-Y toda ofrenda de sacerdote será entera; no se comerá.
+Y toda ofrenda de sacerdote entera será; no será comida.
 
 ### 6:24
 
-Y Jehová habló a Moisés, diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 6:25
 
-Habla a Aarón y a sus hijos, diciendo: Esta es la ley del pecado: en el lugar donde se inmola la ofrenda de holocausto, allí se inmolará el pecado, delante de Jehová; es santísimo.
+Habla a Aharón y a sus hijos, diciendo: Esta torá de la ofrenda de pecado: en lugar que será degollada la ofrenda-subida será degollada la ofrenda de pecado delante de Jehová; santidad de santidades ella.
 
 ### 6:26
 
-El sacerdote que inmola el pecado comerá de ella; en un lugar santo se comerá, en la corte del tabernáculo de reunión.
+El sacerdote el pecante a ella la comerá; en lugar santo será comida, en atrio de tienda de tiempo señalado.
 
 ### 6:27
 
-Todo lo que toque a la carne de ella será santificado, y todo lo que derrame de su sangre sobre una prenda, la que toque a la prenda se lavará en un lugar santo.
+Todo que tocare en su carne se santificará; y lo que salpicare de su sangre sobre el vestido, lo que salpicare sobre ella, lavarás en lugar santo.
 
 ### 6:28
 
-Y todo vaso de barro en que se cocine se romperá; y si se cocina en un vaso de cobre, se lo frotará y se lavará en agua.
+Y utensilio de barro que será cocida en él será quebrado; y si en utensilio de cobre fue cocida, y será fregado y será enjuagado en las aguas.
 
 ### 6:29
 
-Todo varón entre los sacerdotes comerá de ella, es cosa santísima.
+Todo macho en los sacerdotes comerá a ella; santidad de santidades ella.
 
 ### 6:30
 
-Y toda culpa que se traiga de su sangre al tabernáculo para hacer expiación en lo santísimo, no se comerá; en el fuego la quemará.
+Y toda ofrenda de pecado que será hecha entrar de su sangre a tienda de tiempo señalado para cubrir en la santidad, no será comida; en el fuego será quemada.
 
 ## Capítulo 7
 
 ### 7:1
 
-Y esta es la ley del ahasam, cosa santísima es.
+Y esta torá de la ofrenda de culpa: santidad de santidades él.
 
 ### 7:2
 
-En el lugar donde sacrifican la holocausta, allí sacrificarán el ahasam, y su sangre la rociarán sobre el altar alrededor.
+En lugar que degollarán la ofrenda-subida, degollarán la ofrenda de culpa, y su sangre rociará sobre el altar alrededor.
 
 ### 7:3
 
-Y toda su grasa ofrecerá de él, la ala y toda la grasa que cubre el riñón.
+Y todo su sebo acercará de él: la cola, y el sebo el cubriente el interior,
 
 ### 7:4
 
-Y las dos riñones y toda la grasa que está sobre ellas, que está sobre los riñones, y la grasa que está sobre el hígado, con las dos riñones la quitará.
+y las dos riñones y el sebo que sobre ellas, que sobre los ijares, y el lóbulo sobre el hígado, sobre los riñones, la quitará.
 
 ### 7:5
 
-Y el sacerdote la quemará sobre el altar por holocausto al SEÑOR, es ahasam.
+Y hará humear a ellos el sacerdote al altar, fuego a Jehová; ofrenda de culpa él.
 
 ### 7:6
 
-Todo varón entre los sacerdotes comerá de ella, en lugar santo se comerá, cosa santísima es.
+Todo macho en los sacerdotes lo comerá; en lugar santo será comido; santidad de santidades él.
 
 ### 7:7
 
-Como la culpa, así la ahasam, una ley es para ambas. El sacerdote que hace expiación con ella, para él será.
+Como la ofrenda de pecado como la ofrenda de culpa, torá una a ellos; el sacerdote que cubrirá en él, a él será.
 
 ### 7:8
 
-Y el sacerdote que ofrece la holocausta de un hombre, la piel de la holocausta que ofreció, para él será.
+Y el sacerdote el acercante ofrenda-subida de varón, piel de la ofrenda-subida que acercó, al sacerdote, a él será.
 
 ### 7:9
 
-Y toda ofrenda que se hornea en el horno, y toda que se hace en el caldero y sobre el brasero, para el sacerdote que ofrece ella, para él será.
+Y toda ofrenda que será horneada en el horno, y toda hecha en la cazuela y sobre sartén, al sacerdote el acercante a ella, a él será.
 
 ### 7:10
 
-Y toda ofrenda mezclada con aceite y toda que se asa, para todos los hijos de Aarón será, cada uno como hermano suyo.
+Y toda ofrenda mezclada en el aceite y seca, a todos hijos de Aharón será, varón como su hermano.
 
 ### 7:11
 
-Y esto es la ley del sacrificio de paz, que se ofrece a Yavé.
+Y esta torá de sacrificio de las ofrendas de paces que acercará a Jehová.
 
 ### 7:12
 
-Si es una acción de gracias que se ofrece, se ofrecerá con panes untados de aceite, y con tortas de panes untados de aceite, y con tortas de harina mezclada con aceite.
+Si sobre todá lo acercará, y acercará sobre sacrificio de la todá tortas de matsot mezcladas en el aceite, y hojuelas de matsot untadas en el aceite, y semolina revuelta, tortas mezcladas en el aceite.
 
 ### 7:13
 
-Si es panes de pan ázimo que se ofrecen como sacrificio, se ofrecerá como sacrificio de acción de gracias de paz.
+Sobre tortas de pan de jamets acercará su acercamiento, sobre sacrificio de todá de sus ofrendas de paces.
 
 ### 7:14
 
-Y ofrecerá de ella una porción como ofrenda elevada a Yavé; para el sacerdote que derrama la sangre del sacrificio de paz será.
+Y acercará de él uno de todo acercamiento, terumá a Jehová; al sacerdote el rociante sangre de las ofrendas de paces, a él será.
 
 ### 7:15
 
-Y la carne del sacrificio de acción de gracias de paz se comerá en el día que se ofrece; no se dejará hasta la mañana.
+Y carne de sacrificio de todá de sus ofrendas de paces, en día de su acercamiento será comida; no dejará de él hasta mañana.
 
 ### 7:16
 
-Y si es un voto o una ofrenda voluntaria, en el día que se ofrece su sacrificio se comerá, y al día siguiente, y lo que sobre de él se comerá.
+Y si voto o dádiva sacrificio de su acercamiento, en día de acercar él su sacrificio será comida, y desde el mañana y el restante de él será comida.
 
 ### 7:17
 
-Y lo que sobre de la carne del sacrificio se quemará al tercer día en el fuego.
+Y el restante de carne del sacrificio, en el día el tercero, en el fuego será quemado.
 
 ### 7:18
 
-Si se come de la carne del sacrificio de paz al tercer día, no será aceptado; el que ofreciere no será contado por él; será inmundo, y la persona que coma de él llevará su culpa.
+Y si de ser comido será comido de carne de sacrificio de sus ofrendas de paces en el día el tercero, no será agrado; el acercante a él no será contado a él; pigul será; y el alma la comiente de él su iniquidad alzará.
 
 ### 7:19
 
-Y la carne que toca cualquier cosa inmunda no se comerá; se quemará en el fuego; y la carne que toca cualquier cosa limpia comerá carne.
+Y la carne que tocare en todo inmundo no será comida; en el fuego será quemada. Y la carne, todo limpio comerá carne.
 
 ### 7:20
 
-Y la persona que coma carne del sacrificio de paz que es para Yavé, y su inmundicia sobre él, será cortada de su pueblo.
+Y el alma que comerá carne de sacrificio de las ofrendas de paces que a Jehová, y su inmundicia sobre él, y será cortada el alma aquella de sus pueblos.
 
 ### 7:21
 
-Y la persona que toca cualquier cosa inmunda, ya sea de hombre, o de animal inmundo, o de cualquier cosa abominable, y coma de la carne del sacrificio de paz que es para Yavé, será cortada de su pueblo.
+Y alma, cuando tocare en todo inmundo, en inmundicia de hombre o en bestia inmunda o en todo shéqets inmundo, y comió de carne de sacrificio de las ofrendas de paces que a Jehová, y será cortada el alma aquella de sus pueblos.
 
 ### 7:22
 
-Y Yavé habló a Moisés, diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 7:23
 
-Habla a los hijos de Israel y diles: No comeréis la grasa de buey, carnero y cabra.
+Habla a hijos de Israel, diciendo: Todo sebo de buey y de cordero y de cabra no comeréis.
 
 ### 7:24
 
-Y la grasa de un animal muerto por sí mismo y la grasa de un animal desgarrado por las fieras, se usará para cualquier trabajo, pero no la comeréis.
+Y sebo de cadáver y sebo de desgarrada será hecho a toda labor, y de comer no lo comeréis.
 
 ### 7:25
 
-Porque todo aquel que coma la grasa de un animal que se ofrece como ofrenda de fuego a Yavé será cortado de su pueblo.
+Porque todo comiente sebo de la bestia que acercará de ella fuego a Jehová, y será cortada el alma la comiente de sus pueblos.
 
 ### 7:26
 
-Y todo sangre no comeréis en toda vuestra morada, ni de ave ni de animal.
+Y toda sangre no comeréis en todas vuestras moradas, al ave y a la bestia.
 
 ### 7:27
 
-Todo alma que coma cualquier sangre será cortada de su pueblo.
+Toda alma que comerá toda sangre, y será cortada el alma aquella de sus pueblos.
 
 ### 7:28
 
-Y Yavé habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 7:29
 
-Habla a los hijos de Israel y diles: El que ofrezca un sacrificio de paz a Yavé lo traerá de su sacrificio de paz.
+Habla a hijos de Israel, diciendo: El acercante sacrificio de sus ofrendas de paces a Jehová, hará venir su acercamiento a Jehová de sacrificio de sus ofrendas de paces.
 
 ### 7:30
 
-Sus manos traerán las ofrendas de fuego a Yavé; la grasa sobre el pecho la traerán para ofrecerla como ofrenda de elevación delante de Yavé.
+Sus manos harán venir los fuegos de Jehová; el sebo sobre el pecho lo hará venir, el pecho para mecer a él mecedura delante de Jehová.
 
 ### 7:31
 
-Y el sacerdote quemará la grasa sobre el altar, y el pecho será para Aarón y para sus hijos.
+Y hará humear el sacerdote el sebo al altar, y será el pecho a Aharón y a sus hijos.
 
 ### 7:32
 
-Y la parte derecha del muslo la darán como ofrenda al sacerdote, de los sacrificios de paz.
+Y pierna la derecha daréis terumá al sacerdote de sacrificios de vuestras paces.
 
 ### 7:33
 
-El que ofrezca la sangre de los sacrificios de paz y la grasa, de los hijos de Aarón, será para él la parte derecha del muslo como porción.
+El acercante sangre de las ofrendas de paces y el sebo, de hijos de Aharón, a él será pierna la derecha a porción.
 
 ### 7:34
 
-Porque he tomado el pecho de la ofrenda de elevación y la parte derecha del muslo de los sacrificios de paz de los hijos de Israel, y los he dado a Aarón el sacerdote y a sus hijos por estatuto perpetuo de los hijos de Israel.
+Porque pecho de la mecedura y pierna de la terumá tomé de con hijos de Israel de sacrificios de sus paces, y di a ellos a Aharón el sacerdote y a sus hijos a estatuto de siempre de con hijos de Israel.
 
 ### 7:35
 
-Esta es la ofrenda de Aarón y la ofrenda de sus hijos, de los fuegos de Jehová; en el día en que los ofreció para servir a Jehová.
+Esta unción de Aharón y unción de sus hijos de fuegos de Jehová, en día de acercar a ellos para sacerdotear a Jehová.
 
 ### 7:36
 
-Como Jehová ordenó que se dieran a ellos en el día en que los ungieron, de entre los hijos de Israel, por estatuto perpetuo para sus generaciones.
+Que mandó Jehová a dar a ellos en día de ungir él a ellos, de con hijos de Israel, estatuto de siempre a sus generaciones.
 
 ### 7:37
 
-Esta es la ley para la ofrenda de holocausto, para la ofrenda de cereal, para la ofrenda de pecado, para la ofrenda de culpa, para la ofrenda de consagración y para el sacrificio de paz.
+Esta la torá a la ofrenda-subida, a la ofrenda, y a la ofrenda de pecado, y a la ofrenda de culpa, y a las llenuras, y a sacrificio de las ofrendas de paces,
 
 ### 7:38
 
-Que Jehová ordenó a Moisés en el monte Sinaí el día que lo ordenó a los hijos de Israel para ofrecer sus ofrendas a Jehová en el desierto de Sinaí.
+que mandó Jehová a Moshe en monte Sinái, en día de mandar él a hijos de Israel a acercar sus acercamientos a Jehová, en desierto de Sinái.
 
 ## Capítulo 8
 
 ### 8:1
 
-Y Jehová habló a Moisés diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 8:2
 
-Toma a Aarón y a sus hijos con él, y los vestidos, y el aceite de unción, y el novillo de la ofrenda de pecado, y los dos machos cabríos, y el cesto de panes sin levadura.
+Toma a Aharón y a sus hijos con él, y los vestidos, y aceite de la unción, y toro de la ofrenda de pecado, y los dos carneros, y cesto de las matsot.
 
 ### 8:3
 
-Y a toda la congregación convoca a la entrada de la tienda de reunión.
+Y a toda la congregación asamblearás a puerta de tienda de tiempo señalado.
 
 ### 8:4
 
-Y Moisés hizo como Jehová le había ordenado, y toda la congregación se reunió a la entrada de la tienda de reunión.
+Y hizo Moshe como que mandó Jehová a él, y fue asambleada la congregación a puerta de tienda de tiempo señalado.
 
 ### 8:5
 
-Y Moisés dijo a la congregación: Esto es lo que Jehová ha ordenado para hacer.
+Y dijo Moshe a la congregación: Esta la palabra que mandó Jehová a hacer.
 
 ### 8:6
 
-Y Moisés se acercó a Aarón y a sus hijos, y los lavó con agua.
+Y acercó Moshe a Aharón y a sus hijos, y lavó a ellos en las aguas.
 
 ### 8:7
 
-Y puso sobre ellos la túnica, y cinturólos con el cinto, y les puso la túnica de lino, y les puso el manto, y puso sobre ellos el efod, y cinturólos con el cinto del efod, y puso el pectoral sobre él.
+Y dio sobre él la túnica, y ciñó a él en el cinturón, y vistió a él el manto, y dio sobre él el efod, y ciñó a él en cinto del efod, y efodó a él en él.
 
 ### 8:8
 
-Y puso sobre él el pecho, y puso en el pecho las urim y las tumin.
+Y puso sobre él el pectoral, y dio al pectoral los Urim y los Tumim.
 
 ### 8:9
 
-Y puso sobre su cabeza la mitra, y sobre la mitra puso la pluma de oro, la diadema sagrada, como el SEÑOR había ordenado a Moisés.
+Y puso el turbante sobre su cabeza, y puso sobre el turbante hacia frente de sus faces el florón del oro, nézer de la santidad, como que mandó Jehová a Moshe.
 
 ### 8:10
 
-Tomó Moisés el aceite de unción y ungió el tabernáculo y todo lo que había en él, y lo consagró.
+Y tomó Moshe aceite de la unción, y ungió la morada y todo lo que en ella, y santificó a ellos.
 
 ### 8:11
 
-Y vertió de él sobre el altar siete veces, y ungió el altar y todo su utensilio, el lavatorio y su base para consagrarlos.
+Y salpicó de él sobre el altar siete veces, y ungió el altar y todos sus utensilios, y la pileta y su peana, para santificarlos.
 
 ### 8:12
 
-Y vertió del aceite de unción sobre la cabeza de Aarón y lo ungió para consagrarlo.
+Y derramó de aceite de la unción sobre cabeza de Aharón, y ungió a él para santificarlo.
 
 ### 8:13
 
-Y Moisés se acercó a los hijos de Aarón y los vistió con túnicas, y les cinturó con el cinto, y les puso las mitras, como el SEÑOR había ordenado a Moisés.
+Y acercó Moshe a hijos de Aharón, y los vistió túnicas, y ciñó a ellos cinturón, y ató a ellos gorros, como que mandó Jehová a Moshe.
 
 ### 8:14
 
-Y presentó el buey del pecado, y Aarón y sus hijos pusieron sus manos sobre la cabeza del buey del pecado.
+Y hizo llegar toro de la ofrenda de pecado, y apoyó Aharón y sus hijos sus manos sobre cabeza de toro de la ofrenda de pecado.
 
 ### 8:15
 
-Y sacrificó, y Moisés tomó el sangre y la puso sobre las puntas del altar con el dedo, y santificó el altar y la sangre la vertió a la base del altar, y lo consagró para hacer expiación por él.
+Y degolló, y tomó Moshe la sangre, y dio sobre cuernos del altar alrededor en su dedo, y pecó el altar, y la sangre derramó a fundamento del altar, y lo santificó para cubrir sobre él.
 
 ### 8:16
 
-Y tomó todo el tejido que estaba sobre el hígado, y la yema del hígado, y las dos riñones con su tejido, y Moisés quemó sobre el altar.
+Y tomó todo el sebo que sobre el interior, y lóbulo del hígado, y las dos riñones y su sebo, y hizo humear Moshe al altar.
 
 ### 8:17
 
-Y el buey y su piel y su carne y su estómago, quemó en el fuego fuera del campamento, como el SEÑOR había ordenado a Moisés.
+Y el toro y su piel y su carne y su estiércol quemó en el fuego de fuera al campamento, como que mandó Jehová a Moshe.
 
 ### 8:18
 
-Y presentó el cordero de la ofrenda por el pecado, y Aarón y sus hijos pusieron sus manos sobre la cabeza del cordero.
+Y acercó carnero de la ofrenda-subida, y apoyaron Aharón y sus hijos sus manos sobre cabeza del carnero.
 
 ### 8:19
 
-Y sacrificó, y Moisés echó la sangre sobre el altar alrededor.
+Y degolló, y roció Moshe la sangre sobre el altar alrededor.
 
 ### 8:20
 
-Y el cordero lo partió en pedazos, y Moisés quemó el cuero, los pedazos y el estómago.
+Y el carnero despedazó a sus pedazos, y hizo humear Moshe la cabeza y los pedazos y el peder.
 
 ### 8:21
 
-Y lavó el vientre y las rodillas con agua, y Moisés quemó todo el carnero sobre el altar; era una ofrenda quemada, un aroma agradable, un holocausto para el SEÑOR, como el SEÑOR había ordenado a Moisés.
+Y el interior y las piernas lavó en las aguas, y hizo humear Moshe todo el carnero al altar; ofrenda-subida él a olor de sosiego, fuego él a Jehová, como que mandó Jehová a Moshe.
 
 ### 8:22
 
-Y ofreció el segundo carnero, el carnero de la instalación, y Aarón y sus hijos pusieron sus manos sobre la cabeza del carnero.
+Y acercó el carnero el segundo, carnero de las llenuras, y apoyaron Aharón y sus hijos sus manos sobre cabeza del carnero.
 
 ### 8:23
 
-Y lo sacrificó, y Moisés tomó de su sangre y la puso en la oreja derecha de Aarón, en el pulgar de su mano derecha y en el dedo del pie de su pie derecho.
+Y degolló, y tomó Moshe de su sangre, y dio sobre lóbulo de oreja de Aharón la derecha, y sobre pulgar de su mano la derecha, y sobre pulgar de su pie la derecha.
 
 ### 8:24
 
-Y ofreció a los hijos de Aarón, y Moisés tomó de la sangre y la puso en la oreja derecha de cada uno de ellos, en el pulgar de su mano derecha y en el dedo del pie de su pie derecho, y Moisés derramó la sangre sobre el altar alrededor.
+Y acercó a hijos de Aharón, y dio Moshe de la sangre sobre lóbulo de su oreja la derecha, y sobre pulgar de su mano la derecha, y sobre pulgar de su pie la derecha, y roció Moshe la sangre sobre el altar alrededor.
 
 ### 8:25
 
-Y tomó el tocino, la aleta, todo el tocino que está sobre el vientre, las dos mitades del hígado y las dos riñones con su tocino.
+Y tomó el sebo y la cola y todo el sebo que sobre el interior, y lóbulo del hígado, y las dos riñones y su sebo, y pierna la derecha.
 
 ### 8:26
 
-Y de la cesta de panes sin levadura que está delante del SEÑOR tomó una masa sin levadura, una masa de pan untado y un pan tostado, y los puso sobre el tocino y sobre el muslo derecho.
+Y de cesto de las matsot que delante de Jehová tomó torta de matsá una, y torta de pan de aceite una, y hojuela una, y puso sobre los sebos y sobre pierna la derecha.
 
 ### 8:27
 
-Y puso todo sobre las manos de Aarón y sobre las manos de sus hijos, y los agitó como una ofrenda de agitación delante del SEÑOR.
+Y dio el todo sobre palmas de Aharón y sobre palmas de sus hijos, y meció a ellos mecedura delante de Jehová.
 
 ### 8:28
 
-Y Moisés tomó de ellos de las manos de ellos y los quemó sobre el altar, sobre la ofrenda quemada; eran una ofrenda de instalación, un aroma agradable, un holocausto para el SEÑOR.
+Y tomó Moshe a ellos de sobre sus palmas, y hizo humear al altar sobre la ofrenda-subida; llenuras ellos a olor de sosiego, fuego él a Jehová.
 
 ### 8:29
 
-Y tomó el pecho y lo agitó como una ofrenda de agitación delante del SEÑOR, del carnero de la instalación, para Moisés era como una porción.
+Y tomó Moshe el pecho, y lo meció mecedura delante de Jehová; de carnero de las llenuras a Moshe fue a porción, como que mandó Jehová a Moshe.
 
 ### 8:30
 
-Y tomó del aceite de la unción y del sangre que estaba sobre el altar, y lo derramó sobre Aarón y sobre sus vestidos, y sobre sus hijos y sobre los vestidos de sus hijos, y consagró a Aarón y a sus vestidos, y a sus hijos y a los vestidos de sus hijos.
+Y tomó Moshe de aceite de la unción y de la sangre que sobre el altar, y salpicó sobre Aharón, sobre sus vestidos, y sobre sus hijos, y sobre vestidos de sus hijos con él, y santificó a Aharón, a sus vestidos, y a sus hijos, y vestidos de sus hijos con él.
 
 ### 8:31
 
-Y Moisés dijo a Aarón y a sus hijos: Coced la carne al lado del tabernáculo, y allí la comeréis y el pan que está en la cesta de la instalación, como yo he ordenado, Aarón y sus hijos comerán.
+Y dijo Moshe a Aharón y a sus hijos: Coced la carne puerta de tienda de tiempo señalado, y allí comeréis a ella, y el pan que en cesto de las llenuras, como que mandé, diciendo: Aharón y sus hijos lo comerán.
 
 ### 8:32
 
-Y lo que sobre la carne y sobre el pan quede, lo quemaréis en el fuego.
+Y el restante en la carne y en el pan, en el fuego quemaréis.
 
 ### 8:33
 
-No saldrán del lado del tabernáculo siete días, hasta que se cumplan los días de la inauguración, porque siete días se llenará la mano de ustedes.
+Y de puerta de tienda de tiempo señalado no saldréis siete días, hasta día de llenarse días de vuestras llenuras, porque siete días llenará vuestra mano.
 
 ### 8:34
 
-Como hizo hoy, el SEÑOR ha ordenado hacer para purificarlos.
+Como que hizo en el día este, mandó Jehová a hacer para cubrir sobre ustedes.
 
 ### 8:35
 
-Permanecerán junto al tabernáculo día y noche siete días, y guardarán la vigilancia del SEÑOR, para que no mueran, porque así se les ha ordenado.
+Y puerta de tienda de tiempo señalado sentaréis día y noche siete días, y guardaréis guarda de Jehová, y no moriréis, porque así fui mandado.
 
 ### 8:36
 
-Aarón y sus hijos hicieron conforme al mandamiento del SEÑOR por medio de Moisés.
+Y hizo Aharón y sus hijos todas las palabras que mandó Jehová en mano de Moshe.
 
 ## Capítulo 9
 
