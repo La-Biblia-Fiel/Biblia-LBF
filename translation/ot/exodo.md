@@ -289,835 +289,835 @@ Y pedirá mujer de su vecina y de la peregrina de su casa utensilios de plata y 
 
 ### 4:1
 
-Moisés respondió: Pero ¿cuál es el poder que tengo para ir a Faraón? Y ¿cómo saldrán los israelitas de Egipto?
+Y respondió Moshe y dijo: Y he aquí no creerán a mí, y no oirán en mi voz, porque dirán: No se vio a ti Jehová.
 
 ### 4:2
 
-Y Yahveh le dijo: ¿Qué tienes en la mano? Respondió Moisés: Una vara.
+Y dijo a él Jehová: ¿Qué esto en tu mano? Y dijo: Vara.
 
 ### 4:3
 
-Y dijo Yahveh: Tócala y la convertiré en una serpiente. Y Moisés huyó de ella.
+Y dijo: Arrójalo hacia tierra. Y lo arrojó hacia tierra, y fue a serpiente, y huyó Moshe de sus faces.
 
 ### 4:4
 
-Entonces Yahveh dijo a Moisés: Extiende tu mano y toma la serpiente por su cola; y ella se convirtió en una vara en la mano de Moisés.
+Y dijo Jehová a Moshe: Extiende tu mano y asé en su cola. Y extendió su mano y fortaleció en él, y fue a vara en su palma.
 
 ### 4:5
 
-Para que vean que Yahveh, el Dios de tus padres, Abraham, Isaac y Jacob, te ha aparecido. Y será un signo para ti de que yo soy Yahveh.
+A fin de que crean que se vio a ti Jehová Dios de sus padres, Dios de Abraham, Dios de Yitsjaq y Dios de Yaakov.
 
 ### 4:6
 
-Y Yahveh dijo: Pon tu mano en tu pecho. Y Moisés puso su mano en su pecho y la sacó; y he aquí que estaba cubierta de lepra, como el polvo blanco.
+Y dijo Jehová a él todavía: Haz entrar ahora tu mano en tu seno. Y hizo entrar su mano en su seno, y la hizo salir, y he aquí su mano leprosa como la nieve.
 
 ### 4:7
 
-Y Yahveh dijo: Pon tu mano en tu pecho otra vez. Y él la puso en su pecho y la sacó; y he aquí que estaba sanada como antes.
+Y dijo: Haz volver tu mano a tu seno. Y hizo volver su mano a su seno, y la hizo salir de su seno, y he aquí volvió como su carne.
 
 ### 4:8
 
-Y dirás: El polvo blanco es lepra, pero se cura por la gracia de Yahveh. Entonces creerán que Yahveh está con Moisés.
+Y será si no creyeren a ti, y no oyeran a voz de la señal la primera, y creerán a voz de la señal la posterior.
 
 ### 4:9
 
-Y si no creen en la primera señal, creerán en el segundo. Porque si toman agua de un río y la derraman sobre tierra seca, se convertirá en sangre.
+Y será si no creyeren también a las dos señales estas, y no oyeran a tu voz, y tomarás de las aguas del Yeor y derramarás a lo seco; y serán las aguas que tomes desde el Yeor, y serán a sangre en lo seco.
 
 ### 4:10
 
-Moisés respondió a Yahveh: Pero oh Señor, yo no soy orador; ni antes ni ahora que me hablaste, sino que soy tímido.
+Y dijo Moshe a Jehová: Bi, Adonai, no varón de palabras yo, también desde ayer, también desde anteayer, también desde entonces tu hablar a tu siervo, porque pesado de boca y pesado de lengua yo.
 
 ### 4:11
 
-Y Yahveh le dijo: ¿Quién ha hecho boca a los hombres, o quien ha hecho sordos e hinchados? ¿No soy yo el que hace hablar?
+Y dijo Jehová a él: ¿Quién puso boca al hombre, o quién pone mudo o sordo o abierto o ciego? ¿No yo Jehová?
 
 ### 4:12
 
-Ahora ve, pues te haré ser boca y a Aarón será su intérprete. Él será tu boca y tú serás como Dios para él.
+Y ahora, anda; y yo seré con tu boca, y te enseñaré lo que hablarás.
 
 ### 4:13
 
-Pero Moisés respondió: Pero oh Señor, envía a alguien más para que sea este intérprete.
+Y dijo: Bi, Adonai, envía ahora en mano envíes.
 
 ### 4:14
 
-Y Yahveh se enojó con Moisés y le dijo: ¿No es tu hermano Aarón el sacerdote? Yo sé que él puede hablar bien. Y saldrá contigo, y te ayudará a hablar.
+Y ardió nariz de Jehová en Moshe, y dijo: ¿No Aharón tu hermano el levita? He conocido que de hablar hablará él; y también he aquí él saliente a tu encuentro, y te verá y se alegrará en su corazón.
 
 ### 4:15
 
-Y hablarás tú conmigo, y pondré las palabras en su boca, y yo estaré con tu boca y con su boca, y les enseñaré lo que deben hacer.
+Y hablarás a él, y pondrás las palabras en su boca, y yo seré con tu boca y con su boca, y os enseñaré lo que haréis.
 
 ### 4:16
 
-Y él hablará por ti al pueblo, y él será para ti boca, y tú serás para él como dios.
+Y hablará él a ti al pueblo, y será, él será a ti a boca, y tú serás a él a Dios.
 
 ### 4:17
 
-Y tomarás esta vara en tu mano, con la cual harás las señales.
+Y la vara esta tomarás en tu mano, que harás en ella las señales.
 
 ### 4:18
 
-Y Moisés se fue y se sentó junto a Jetro, su suegro, y le dijo: Voy ahora a ver si mis hermanos aún viven. Y Jetro respondió a Moisés: Ve en paz.
+Y anduvo Moshe y volvió a Yéter su suegro, y dijo a él: Andaré ahora y volveré a mis hermanos que en Mizraim, y veré si todavía ellos vivos. Y dijo Yitró a Moshe: Anda a paz.
 
 ### 4:19
 
-Y Yahveh dijo a Moisés en Mediana: Ve, vuelve a Egipto, porque todos los que te buscaban para matarte han muerto.
+Y dijo Jehová a Moshe en Midyán: Anda, vuelve Mizraim, porque murieron todos los varones los buscantes tu alma.
 
 ### 4:20
 
-Y Moisés tomó a su mujer y a sus hijos, y los montó en un asno, y volvió a la tierra de Egipto. Y Moisés tomó la vara de Dios en su mano.
+Y tomó Moshe a su mujer y a sus hijos, y los hizo cabalgar sobre el asno, y volvió hacia tierra de Mizraim. Y tomó Moshe la vara de Dios en su mano.
 
 ### 4:21
 
-Y Yahveh dijo a Moisés: Cuando te vayas a volver a Egipto, ve a ver todos los milagros que puse en tu mano, y hazlos delante de Faraón; y yo endureceré su corazón, y no dejará ir al pueblo.
+Y dijo Jehová a Moshe: En tu andar a volver hacia Mizraim, ve todas las maravillas que puse en tu mano, y las harás delante de Faraón; y yo fortaleceré su corazón, y no enviará al pueblo.
 
 ### 4:22
 
-Y dirás a Faraón: Así dice Yahveh: Mi hijo, mi primogénito, es Israel.
+Y dirás a Faraón: Así dijo Jehová: Mi hijo, mi primogénito, Israel.
 
 ### 4:23
 
-Y dije a ti: Manda a salir a mi hijo para que me sirva, y tú te negaste a enviarlo. He aquí que yo voy a matar a tu hijo, tu primogénito.
+Y dije a ti: Envía a mi hijo y me sirva, y rehusaste a enviarlo; he aquí yo matante a tu hijo, tu primogénito.
 
 ### 4:24
 
-Y sucedió en el camino, en un lugar de pernocta, que Yahveh se le apareció y buscó matarlo.
+Y fue en el camino, en el malón, y lo encontró Jehová, y buscó matarlo.
 
 ### 4:25
 
-Y Zipoora tomó una piedra afilada y cortó la circuncisión de su hijo, y lo tocó a sus pies, y dijo: Porque me has tomado por esposo de sangre.
+Y tomó Tsipporá un tsor, y cortó el prepucio de su hijo, y tocó a sus pies, y dijo: Porque esposo de sangres tú a mí.
 
 ### 4:26
 
-Y se apartó de él, entonces dijo: Esposo de sangre, porque circuncidaste a tu hijo.
+Y aflojó de nosotros. Entonces dijo: Esposo de sangres a las circuncisiones.
 
 ### 4:27
 
-Y Yahveh dijo a Aarón: Ve a recibir a Moisés en el desierto. Y él fue y lo encontró en el monte de Dios, y lo besó.
+Y dijo Jehová a Aharón: Anda a encuentro de Moshe hacia el desierto. Y anduvo, y lo encontró en monte de Dios, y besó a él.
 
 ### 4:28
 
-Y Moisés contó a Aarón todas las palabras de Yahveh que le había enviado, y todos los signos que le había mandado.
+Y declaró Moshe a Aharón todas las palabras de Jehová que lo envió, y todas las señales que lo mandó.
 
 ### 4:29
 
-Y Moisés y Aarón se fueron, y juntaron a todos los ancianos de los hijos de Israel.
+Y anduvo Moshe y Aharón, y juntaron a todos ancianos de hijos de Israel.
 
 ### 4:30
 
-Y Aarón habló a los hijos de Israel todas las palabras que Yahveh había hablado a Moisés, y hizo los signos delante de los ojos del pueblo.
+Y habló Aharón todas las palabras que habló Jehová a Moshe, y hizo las señales a ojos del pueblo.
 
 ### 4:31
 
-Y el pueblo creyó y oyeron que Yahveh había cuidado de los hijos de Israel y que había visto su angustia, y se postraron y adoraron.
+Y creyó el pueblo, y oyeron que visitó Jehová a hijos de Israel, y que vio su aflicción, y se inclinaron y se postraron.
 
 ## Capítulo 5
 
 ### 5:1
 
-Y después Moisés y Aarón fueron a ver a Faraón y dijeron: Así ha dicho Yahveh, el Dios de Israel: ‘Deja ir a mi pueblo para que me ofrezca sacrificios en el desierto’.
+Y después vinieron Moshe y Aharón, y dijeron a Faraón: Así dijo Jehová Dios de Israel: Envía a mi pueblo, y hagan fiesta a mí en el desierto.
 
 ### 5:2
 
-Y Faraón dijo: ¿Quién es Yahveh para que yo le obedezca y deje ir a Israel? No conozco a Yahveh, ni dejaré ir a Israel.
+Y dijo Faraón: ¿Quién Jehová, que oiga en su voz para enviar a Israel? No he conocido a Jehová, y también a Israel no enviaré.
 
 ### 5:3
 
-Y dijeron: El Dios de los hebreos nos ha visitado. Ahora, pues, déjanos ir tres días al desierto para que ofrezcamos sacrificios a Yahveh, nuestro Dios, para que no nos sobrevengan plagas ni enfermedades.
+Y dijeron: Dios de los hebreos se ha encontrado sobre nosotros. Andemos ahora camino de tres días en el desierto, y sacrifiquemos a Jehová nuestro Dios, no sea que nos toque en la peste o en la espada.
 
 ### 5:4
 
-Entonces el rey de Egipto les dijo: ¿Qué es esto de que Moisés y Aarón te quiten del trabajo? Id, llevad el peso de vuestra carga.
+Y dijo a ellos rey de Mizraim: ¿Por qué, Moshe y Aharón, hacéis cesar al pueblo de sus obras? Andad a vuestras cargas.
 
 ### 5:5
 
-Y Faraón dijo: Ahora hay muchos más de vosotros en la tierra, y os quitaréis del trabajo.
+Y dijo Faraón: He aquí, muchos ahora pueblo de la tierra, y habéis hecho cesar a ellos de sus cargas.
 
 ### 5:6
 
-Y Faraón ordenó el mismo día a los capataces y a los oficiales del pueblo, diciendo:
+Y mandó Faraón en el día aquel a los apremiantes en el pueblo y a sus oficiales, diciendo:
 
 ### 5:7
 
-No aumentéis la cantidad de paja que se les da para hacer ladrillos como ayer y como el día antes; ellos mismos deben salir y recojan paja para sí mismos.
+No añadáis a dar paja al pueblo para ladrillar los ladrillos como ayer anteayer. Ellos andarán y recogerán para ellos paja.
 
 ### 5:8
 
-Y la cantidad de ladrillos que hacen cada día, la pondré sobre ustedes; no la disminuyan, porque son perezosos. Por eso gritan: “Vamos a sacrificar a nuestro Dios”.
+Y la medida de los ladrillos que ellos hacen ayer anteayer pondréis sobre ellos; no restéis de ello, porque holgados ellos; sobre así ellos clamantes, diciendo: Andemos, sacrifiquemos a nuestro Dios.
 
 ### 5:9
 
-Aumentaré la carga de trabajo sobre los hombres, para que se ocupen en ella y no mientan en sus palabras.
+Se haga pesada el servicio sobre los varones, y hagan en ella, y no atiendan en palabras de mentira.
 
 ### 5:10
 
-Entonces salieron los capataces y los oficiales del pueblo y dijeron al pueblo: Así ha dicho Faraón: No os daré paja.
+Y salieron apremiantes del pueblo y sus oficiales, y dijeron al pueblo, diciendo: Así dijo Faraón: No yo dante a ustedes paja.
 
 ### 5:11
 
-Vayan ustedes y recojan paja por donde puedan encontrarla, porque no se les disminuirá la tarea en nada.
+Ustedes, andad, tomad para ustedes paja de lo que hallaréis, porque no restado de vuestro servicio palabra.
 
 ### 5:12
 
-Y se dispersó el pueblo por toda la tierra de Egipto para recoger caña en lugar de paja.
+Y se esparció el pueblo en toda tierra de Mizraim a recoger rastrojo a la paja.
 
 ### 5:13
 
-Y los capataces azotaron a los israelitas y les dijeron: Acaben con la obra de cada día, según el número de días, como cuando había paja.
+Y los apremiantes apremiantes, diciendo: Acabad vuestras obras, palabra de día en su día, como cuando estar la paja.
 
 ### 5:14
 
-Entonces los oficiales de los hijos de Israel, a quienes los capataces de Faraón habían puesto a cargo, fueron azotados y les dijeron: ¿Por qué no han cumplido con su cuota de ladrillos ayer y hoy como antes?
+Y fueron heridos oficiales de hijos de Israel que pusieron sobre ellos apremiantes de Faraón, diciendo: ¿Por qué no acabasteis vuestro fuero de ladrillar como ayer anteayer, también ayer también hoy?
 
 ### 5:15
 
-Entonces los oficiales de los hijos de Israel vinieron y clamaron a Faraón, diciendo: ¿Por qué tratas así a tus siervos?
+Y vinieron oficiales de hijos de Israel y clamaron a Faraón, diciendo: ¿Por qué haces así a tus siervos?
 
 ### 5:16
 
-No se nos da lodo, pero nos dicen: Haz ladrillos. Y he aquí que tus siervos son azotados. Tu pueblo es culpable.
+Paja no dada a tus siervos, y ladrillos dicen a nosotros: Haced. Y he aquí tus siervos heridos, y has pecado tu pueblo.
 
 ### 5:17
 
-Sois perezosos, sois perezosos. Por eso decís: Vamos a sacrificar a Yavé.
+Y dijo: Holgados ustedes, holgados; sobre así ustedes diciendo: Andemos, sacrifiquemos a Jehová.
 
 ### 5:18
 
-Ahora id, trabajad y no se os dará lodo, pero se os exigirá el mismo número de ladrillos.
+Y ahora, andad, servid, y paja no será dada a ustedes, y la medida de ladrillos daréis.
 
 ### 5:19
 
-Vieron los capataces de los hijos de Israel que estaban en apuros y dijeron: No disminuyan el número de ladrillos que cada uno de ustedes debe hacer diariamente.
+Y vieron oficiales de hijos de Israel a ellos en mal, diciendo: No restaréis de vuestros ladrillos palabra de día en su día.
 
 ### 5:20
 
-Se encontraron con Moisés y con Aarón, que estaban esperándolos cuando salían delante de Faraón.
+Y encontraron a Moshe y a Aharón apostados a su encuentro, en su salir de con Faraón.
 
 ### 5:21
 
-Dijeron: Que Yavé vea lo que nos hace y juzgue. Habéis hecho que nuestro olor sea abominable ante los ojos de Faraón y ante los ojos de sus siervos, para que nos maten.
+Y dijeron a ellos: Vea Jehová sobre ustedes y juzgue, que habéis hecho heder nuestro olor en ojos de Faraón y en ojos de sus siervos, para dar espada en su mano para matarnos.
 
 ### 5:22
 
-Moisés regresó al Señor y dijo: Señor, ¿por qué has causado tanto mal al pueblo? ¿Por qué me enviaste?
+Y volvió Moshe a Jehová y dijo: Adonai, ¿por qué has hecho mal a este pueblo? ¿Por qué esto me enviaste?
 
 ### 5:23
 
-Desde que vine a Faraón para hablar en tu nombre, las cosas han empeorado para este pueblo, y no has salvado a tu pueblo.
+Y desde entonces vine a Faraón para hablar en tu nombre, ha hecho mal a este pueblo, y de librar no has librado a tu pueblo.
 
 ## Capítulo 6
 
 ### 6:1
 
-El Señor dijo a Moisés: Ahora verás lo que haré a Faraón, porque con mano poderosa los sacará de su país y con mano poderosa los expulsará de allí.
+Y dijo Jehová a Moshe: Ahora verás lo que haré a Faraón, porque en mano fuerte los enviará, y en mano fuerte los echará de su tierra.
 
 ### 6:2
 
-Dios habló con Moisés y le dijo: Yo soy el Señor.
+Y habló Dios a Moshe, y dijo a él: Yo Jehová.
 
 ### 6:3
 
-Me aparecí a Abraham, a Isaac y a Jacob como Dios Todopoderoso, pero mi nombre, el Señor, no se les reveló.
+Y me vi a Abraham, a Yitsjaq y a Yaakov en El Shadai, y mi nombre Jehová no fui conocido a ellos.
 
 ### 6:4
 
-Y también confirmé mi pacto con ellos para darles la tierra de Canaán, la tierra donde habitaron.
+Y también he levantado mi pacto con ellos, para dar a ellos tierra de Canaán, tierra de sus moradas que moraron en ella.
 
 ### 6:5
 
-También escuché el clamor de los israelitas, que los egipcios oprimen, y me acordé de mi pacto.
+Y también yo he oído el gemido de hijos de Israel que Mizraim hacen servir a ellos, y recordé mi pacto.
 
 ### 6:6
 
-Por eso, di a los israelitas: Yo soy el Señor, y los sacaré de bajo el yugo de los egipcios, los libraré de su servidumbre y los redimiré con mano poderosa y con juicios poderosos.
+Por tanto, di a hijos de Israel: Yo Jehová, y os haré salir de debajo de las cargas de Mizraim, y os libraré de su servicio, y os redimiré en brazo tendido y en juicios grandes.
 
 ### 6:7
 
-Los tomaré para mí como pueblo, y seré para ellos Dios, y sabrán que soy el Señor, el Dios de ellos, el que los saca de bajo el yugo de los egipcios.
+Y os tomaré a mí a pueblo, y seré a ustedes a Dios, y conoceréis que yo Jehová vuestro Dios, el que os hace salir de debajo de las cargas de Mizraim.
 
 ### 6:8
 
-Los traeré a la tierra que levanté mi mano para darles a Abraham, a Isaac y a Jacob, y les daré esa tierra como heredad. Yo soy el Señor.
+Y os haré venir a la tierra que alcé mi mano para darla a Abraham, a Yitsjaq y a Yaakov, y la daré a ustedes posesión. Yo Jehová.
 
 ### 6:9
 
-Moshé habló así a los israelitas, pero ellos no le prestaron atención, porque estaban agobiados por el trabajo pesado.
+Y habló Moshe así a hijos de Israel, y no oyeron a Moshe, desde cortedad de espíritu y desde servicio duro.
 
 ### 6:10
 
-El Señor habló a Moshé diciendo:
+Y habló Jehová a Moshe, diciendo:
 
 ### 6:11
 
-Ve y habla a Faraón, rey de Egipto, para que libere a los israelitas de su tierra.
+Entra, habla a Faraón rey de Mizraim, y envíe a hijos de Israel de su tierra.
 
 ### 6:12
 
-Moshé habló ante el Señor diciendo: “Los israelitas no me han escuchado, ¿cómo escuchará a mí Faraón, si soy de labios torpes?”
+Y habló Moshe delante de Jehová, diciendo: He aquí hijos de Israel no oyeron a mí, y ¿cómo me oirá Faraón, y yo incircunciso de labios?
 
 ### 6:13
 
-El Señor habló a Moshé y a Aarón, y les ordenó a los israelitas y a Faraón, rey de Egipto, para que sacaran a los israelitas de la tierra de Egipto.
+Y habló Jehová a Moshe y a Aharón, y los mandó a hijos de Israel y a Faraón rey de Mizraim, para hacer salir a hijos de Israel de tierra de Mizraim.
 
 ### 6:14
 
-Estos son los jefes de las familias de los hijos de Rubén, hijo primogénito de Israel: Hanoc, Palu, Chetsron y Carmi. Estas son las familias de Rubén.
+Estos cabezas de casa de sus padres. Hijos de Reuvén, primogénito de Israel: Janoc y Palú, Jetsrón y Karmí. Estas familias de Reuvén.
 
 ### 6:15
 
-Los hijos de Simeón son Jamuel, Yamín, Ahod, Jajcin, Tsahor y Saúl, hijo de una cananea. Estas son las familias de Simeón.
+Y hijos de Shimón: Yemuel y Yamín y Ohad y Yakín y Sójar y Shaul hijo de la cananea. Estas familias de Shimón.
 
 ### 6:16
 
-Estos son los nombres de los hijos de Leví, según sus genealogías: Gersón, Queteb y Merari. Los años de la vida de Leví fueron setenta y tres.
+Y estos nombres de hijos de Leví a sus generaciones: Gershón y Qehat y Merarí. Y años de vidas de Leví siete y treinta y cien año.
 
 ### 6:17
 
-Los hijos de Gersón son Libni y Shimí, según sus familias.
+Hijos de Gershón: Livní y Shimí, a sus familias.
 
 ### 6:18
 
-Los hijos de Queteb son Amram, Isar, Hebrón y Uziel. Los años de vida de Queteb fueron tres y treinta y cien años.
+Y hijos de Qehat: Amram y Yitshar y Jevrón y Uziel. Y años de vidas de Qehat tres y treinta y cien año.
 
 ### 6:19
 
-Los hijos de Merari son Mahli y Musi. Estas son las familias de los levitas según sus descendientes.
+Y hijos de Merarí: Majlí y Mushí. Estas familias del levita a sus generaciones.
 
 ### 6:20
 
-Amram tomó a Jochebed, su prima, como esposa, y ella le dio a luz a Aarón y a Moisés. Los años de vida de Amram fueron setenta y tres años.
+Y tomó Amram a Yokéved su tía a él a mujer, y parió a él a Aharón y a Moshe. Y años de vidas de Amram siete y treinta y cien año.
 
 ### 6:21
 
-Los hijos de Isar son Coré, Neftoah y Zicri.
+Y hijos de Yitshar: Qóraj y Néfeg y Zicrí.
 
 ### 6:22
 
-Los hijos de Uziel son Mishael, Elzafán y Ithran.
+Y hijos de Uziel: Misháel y Eltsafán y Sitrí.
 
 ### 6:23
 
-Aarón tomó a Elisheba, hija de Aminadab y hermana de Naasón, como esposa, y ella le dio a luz a Nadab, Abiú, Eleazar y Itamar.
+Y tomó Aharón a Elisheva hija de Aminadav, hermana de Najshón, a él a mujer, y parió a él a Nadav y a Avihú, a Eleazar y a Itamar.
 
 ### 6:24
 
-Los hijos de Coré son Asir, Elcana y Abiasaf. Estas son las familias de los coracitas.
+Y hijos de Qóraj: Asir y Elqaná y Aviasaf. Estas familias del qorají.
 
 ### 6:25
 
-Elazar, hijo de Aarón, tomó como esposa a una de las hijas de Putiel, y ella le dio a luz a Pinjás. Estos son los jefes de las familias de los levitas según sus clanes.
+Y Eleazar hijo de Aharón tomó a él de hijas de Putiel a él a mujer, y parió a él a Pinchás. Estos cabezas de padres de los levitas a sus familias.
 
 ### 6:26
 
-Él es Aarón y Moisés, a quienes el Señor les dijo: ‘Sáquen a los hijos de Israel de la tierra de Egipto según sus ejércitos’.
+Él Aharón y Moshe, que dijo Jehová a ellos: Haced salir a hijos de Israel de tierra de Mizraim sobre sus ejércitos.
 
 ### 6:27
 
-Ellos son los que hablaron con el faraón, rey de Egipto, para sacar a los hijos de Israel de Egipto. Él es Moisés y Aarón.
+Ellos los hablantes a Faraón rey de Mizraim para hacer salir a hijos de Israel de Mizraim. Él Moshe y Aharón.
 
 ### 6:28
 
-Y fue el día en que el Señor habló con Moisés en la tierra de Egipto.
+Y fue en día de hablar Jehová a Moshe en tierra de Mizraim.
 
 ### 6:29
 
-Y el Señor habló a Moisés diciendo: ‘Yo soy el Señor. Habla a Faraón, rey de Egipto, todo lo que yo te digo’.
+Y habló Jehová a Moshe, diciendo: Yo Jehová. Habla a Faraón rey de Mizraim todo lo que yo hablante a ti.
 
 ### 6:30
 
-Y Moisés dijo ante el Señor: ‘Mira, yo soy de labios torpes, ¿cómo prestará atención a mí Faraón?’
+Y dijo Moshe delante de Jehová: He aquí yo incircunciso de labios, y ¿cómo oirá a mí Faraón?
 
 ## Capítulo 7
 
 ### 7:1
 
-Y el Señor dijo a Moisés: ‘Mira, te he puesto como dios para Faraón, y tu hermano Aarón será tu profeta’.
+Y dijo Jehová a Moshe: Ve, te he dado Dios a Faraón, y Aharón tu hermano será tu profeta.
 
 ### 7:2
 
-Tú hablarás todo lo que yo te ordene, y tu hermano Aarón hablará a Faraón para que envíe a los hijos de Israel de su tierra.
+Tú hablarás todo lo que te mandaré, y Aharón tu hermano hablará a Faraón, y enviará a hijos de Israel de su tierra.
 
 ### 7:3
 
-Y pondré obstáculos en el corazón de Faraón, y multiplicaré mis señales y mis prodigios en la tierra de Egipto.
+Y yo endureceré el corazón de Faraón, y multiplicaré mis señales y mis maravillas en tierra de Mizraim.
 
 ### 7:4
 
-Y Faraón no os escuchará, y pondré mi mano sobre Egipto, y sacaré mis tropas, mi pueblo, los hijos de Israel, de la tierra de Egipto con grandes juicios.
+Y no oirá a ustedes Faraón, y daré mi mano en Mizraim, y haré salir a mis ejércitos, a mi pueblo hijos de Israel, de tierra de Mizraim en juicios grandes.
 
 ### 7:5
 
-Y sabrá Egipto que yo soy el Señor, cuando extienda mi mano sobre Egipto, y sacaré a los hijos de Israel de medio de ella.
+Y conocerán Mizraim que yo Jehová, en mi tender mi mano sobre Mizraim, y haré salir a hijos de Israel de su medio.
 
 ### 7:6
 
-Y Moisés y Aarón hicieron como el Señor les había ordenado; así lo hicieron.
+Y hizo Moshe y Aharón como que mandó Jehová a ellos; así hicieron.
 
 ### 7:7
 
-Moisés tenía ochenta años y Aarón ochenta y tres años cuando hablaron con Faraón.
+Y Moshe hijo de ochenta año, y Aharón hijo de tres y ochenta año, en su hablar a Faraón.
 
 ### 7:8
 
-Y el Señor dijo a Moisés y a Aarón: Decid.
+Y dijo Jehová a Moshe y a Aharón, diciendo:
 
 ### 7:9
 
-Cuando Faraón os diga: Haced un prodigio, dirás a Aarón: Toma tu bastón y tórnalo en serpiente ante Faraón.
+Cuando hablare a ustedes Faraón, diciendo: Dad para ustedes maravilla, y dirás a Aharón: Toma tu vara y arrójala delante de Faraón; sea a tannín.
 
 ### 7:10
 
-Y Moisés y Aarón fueron a Faraón y hicieron como el Señor les había ordenado; Aarón echó su bastón ante Faraón y ante sus siervos, y se volvió serpiente.
+Y vino Moshe y Aharón a Faraón, y hicieron así como que mandó Jehová. Y arrojó Aharón su vara delante de Faraón y delante de sus siervos, y fue a tannín.
 
 ### 7:11
 
-Y llamó también Faraón a los sabios y a los hechiceros, y los magos de Egipto hicieron lo mismo con sus encantamientos.
+Y llamó también Faraón a los sabios y a los encantadores, e hicieron también ellos, los jartumim de Mizraim, en sus llamas, así.
 
 ### 7:12
 
-Y cada uno echó su bastón, y se volvieron serpientes, pero la vara de Aarón devoró las varas de ellos.
+Y arrojaron varón su vara, y fueron a tanninim, y tragó vara de Aharón sus varas.
 
 ### 7:13
 
-Y endureció el corazón de Faraón, y no les dio oído, como había dicho el Señor.
+Y se fortaleció corazón de Faraón, y no oyó a ellos, como que habló Jehová.
 
 ### 7:14
 
-Y el Señor dijo a Moisés: El corazón de Faraón está endurecido; rehusará dejar salir el pueblo.
+Y dijo Jehová a Moshe: Pesado corazón de Faraón; rehusó enviar al pueblo.
 
 ### 7:15
 
-Ve a Faraón por la mañana, cuando él salga al río, y espera a que él salga, y toma en tu mano la vara que se volvió serpiente.
+Anda a Faraón en la mañana; he aquí saliente hacia las aguas, y te apostarás a su encuentro sobre labio del Yeor, y la vara que se volvió a serpiente tomarás en tu mano.
 
 ### 7:16
 
-Y dirás a él: Jehová, el Dios de los hebreos, me ha enviado a ti, diciendo: Deja ir a mi pueblo para que me sirva en el desierto. Hasta ahora no has escuchado.
+Y dirás a él: Jehová Dios de los hebreos me envió a ti, diciendo: Envía a mi pueblo y me sirvan en el desierto; y he aquí no has oído hasta ahora.
 
 ### 7:17
 
-Así dice Jehová: Por esto conocerás que yo soy Jehová. He aquí que con el bastón que está en mi mano golpearé en las aguas del río, y se convertirán en sangre.
+Así dijo Jehová: En esto conocerás que yo Jehová. He aquí yo hiriente con la vara que en mi mano sobre las aguas que en el Yeor, y se volverán a sangre.
 
 ### 7:18
 
-Y toda la pesca que haya en el río morirá, y se hará asqueroso el río, y los egipcios no podrán beber agua del río.
+Y el pez que en el Yeor morirá, y hederá el Yeor, y se cansarán Mizraim de beber aguas desde el Yeor.
 
 ### 7:19
 
-Y dijo Jehová a Moisés: Dile a Aarón que tome su bastón y extienda la mano sobre las aguas de Egipto, sobre sus ríos, sus canales, sus lagos y todos sus depósitos de agua, para que se conviertan en sangre. Habrá sangre por toda la tierra de Egipto, incluso en sus recipientes de madera y piedra.
+Y dijo Jehová a Moshe: Di a Aharón: Toma tu vara y tiende tu mano sobre las aguas de Mizraim, sobre sus ríos, sobre sus yeorim y sobre sus lagunas y sobre todo depósito de sus aguas, y serán sangre; y será sangre en toda tierra de Mizraim, y en los maderos y en las piedras.
 
 ### 7:20
 
-Moisés y Aarón hicieron como Jehová les había ordenado. Moisés levantó su bastón y golpeó el agua que había en el Nilo, ante los ojos de Faraón y de sus servidores, y todo el agua del Nilo se convirtió en sangre.
+Y hicieron así Moshe y Aharón como que mandó Jehová, y alzó en la vara y hirió las aguas que en el Yeor a ojos de Faraón y a ojos de sus siervos, y se volvieron todas las aguas que en el Yeor a sangre.
 
 ### 7:21
 
-La pesca que había en el Nilo murió, y el Nilo se corrompió. Los egipcios no pudieron beber agua del Nilo, porque había sangre por toda la tierra de Egipto.
+Y el pez que en el Yeor murió, y hedió el Yeor, y no pudieron Mizraim beber aguas desde el Yeor; y fue la sangre en toda tierra de Mizraim.
 
 ### 7:22
 
-Los magos de Egipto hicieron lo mismo con sus hechizos, pero el corazón de Faraón se endureció y no les prestó atención, como Jehová había dicho.
+Y hicieron así los jartumim de Mizraim en sus secretos, y se fortaleció corazón de Faraón, y no oyó a ellos, como que habló Jehová.
 
 ### 7:23
 
-Faraón se volvió y entró en su palacio, y no puso atención a esto tampoco.
+Y se volvió Faraón y vino a su casa, y no puso su corazón también a esto.
 
 ### 7:24
 
-Todos los egipcios buscaron agua para beber alrededor del Nilo, porque no podían beber agua del Nilo.
+Y cavaron todo Mizraim alrededor del Yeor aguas para beber, porque no pudieron beber de las aguas del Yeor.
 
 ### 7:25
 
-Pasaron siete días después de que Jehová golpeó el Nilo.
+Y se llenó siete días después de herir Jehová el Yeor.
 
 ## Capítulo 8
 
 ### 8:1
 
-Jehová dijo a Moisés: Ve a ver a Faraón y dile: Así dice Jehová: Suéltame a mi pueblo para que me sirvan.
+Y dijo Jehová a Moshe: Entra a Faraón, y dirás a él: Así dijo Jehová: Envía a mi pueblo y me sirvan.
 
 ### 8:2
 
-Si te niegas a dejar ir a mi pueblo, aquí enviaré a toda tu frontera ranas.
+Y si rehusante tú a enviar, he aquí yo hiriente todo tu límite en las ranas.
 
 ### 8:3
 
-Y el Nilo producirá ranas, que subirán y entrarán en tu casa, en tu dormitorio, en tu cama, en la casa de tus siervos, en el pueblo, en tus hornos y en tus amasijos.
+Y enjambrará el Yeor ranas, y subirán y vendrán en tu casa y en cámara de tu lecho y sobre tu cama, y en casa de tus siervos y en tu pueblo, y en tus hornos y en tus artesas.
 
 ### 8:4
 
-Y en tu casa, en el pueblo y en la casa de tus siervos, subirán las ranas.
+Y en ti y en tu pueblo y en todos tus siervos subirán las ranas.
 
 ### 8:5
 
-Y Jehová dijo a Moisés: Di a Aarón: Extiende tu mano con tu vara sobre los ríos, sobre los arroyos y sobre las cisternas, y haz que las ranas suban sobre la tierra de Egipto.
+Y dijo Jehová a Moshe: Di a Aharón: Tiende tu mano con tu vara sobre los ríos, sobre los yeorim y sobre las lagunas, y haz subir las ranas sobre tierra de Mizraim.
 
 ### 8:6
 
-Y Aarón extendió su mano sobre las aguas de Egipto, y las ranas subieron y cubrieron la tierra de Egipto.
+Y tendió Aharón su mano sobre las aguas de Mizraim, y subió la rana y cubrió tierra de Mizraim.
 
 ### 8:7
 
-Y los magos hicieron lo mismo con sus hechizos, y subieron las ranas sobre la tierra de Egipto.
+Y hicieron así los jartumim en sus secretos, y hicieron subir las ranas sobre tierra de Mizraim.
 
 ### 8:8
 
-Entonces el faraón llamó a Moisés y a Aarón y les dijo: Rogad a Jehová que quite las ranas de mí y de mi pueblo, y yo dejaré ir al pueblo para que sacrifiquen a Jehová.
+Y llamó Faraón a Moshe y a Aharón, y dijo: Rogad a Jehová, y quite las ranas de mí y de mi pueblo, y enviaré al pueblo y sacrifiquen a Jehová.
 
 ### 8:9
 
-Y Moisés dijo al faraón: Engríete contra mí; ¿cuándo te rogaré por ti, por tus siervos y por tu pueblo, para que las ranas desaparezcan de ti y de tus casas? Sólo en el Nilo se quedarán.
+Y dijo Moshe a Faraón: Gloríate sobre mí: ¿para cuándo rogaré por ti y por tus siervos y por tu pueblo, para cortar las ranas de ti y de tus casas? Solo en el Yeor quedarán.
 
 ### 8:10
 
-Y dijo para mañana. Y dijo: En el día que te diga, para que sepas que no hay dios como nuestro Dios.
+Y dijo: Para mañana. Y dijo: Como tu palabra, a fin de que conozcas que no hay como Jehová nuestro Dios.
 
 ### 8:11
 
-Y se irán las ranas de ti y de tu casa y de tus siervos y de tu pueblo, pero en el Nilo se quedarán.
+Y se irán las ranas de ti y de tus casas y de tus siervos y de tu pueblo; solo en el Yeor quedarán.
 
 ### 8:12
 
-Y salió Moisés y Aarón delante de Faraón, y Moisés clamó a Jehová por causa de las ranas que puso sobre Faraón.
+Y salió Moshe y Aharón de con Faraón, y clamó Moshe a Jehová sobre palabra de las ranas que puso a Faraón.
 
 ### 8:13
 
-Y Jehová hizo conforme a la palabra de Moisés, y murieron las ranas del interior de las casas, de los patios y del campo.
+Y hizo Jehová como palabra de Moshe, y murieron las ranas desde las casas, desde los patios y desde los campos.
 
 ### 8:14
 
-Y las amontonaron en montones grandes, y la tierra apesta.
+Y las amontonaron montones montones, y hedió la tierra.
 
 ### 8:15
 
-Y vio Faraón que había descanso, y endureció su corazón, y no les dio oído, como había dicho Jehová.
+Y vio Faraón que hubo el alivio, y de hacer pesado su corazón, y no oyó a ellos, como que habló Jehová.
 
 ### 8:16
 
-Y Jehová dijo a Moisés: Di a Aarón: Extiende tu vara y golpea el polvo de la tierra, y se convertirá en escarabajos por toda la tierra de Egipto.
+Y dijo Jehová a Moshe: Di a Aharón: Tiende tu vara y hiere el polvo de la tierra, y será a kinim en toda tierra de Mizraim.
 
 ### 8:17
 
-Y lo hicieron así. Y Aarón extendió su mano con su vara y golpeó el polvo de la tierra, y se convirtieron en escarabajos sobre el hombre y sobre el animal; todo el polvo de la tierra se convirtió en escarabajos por toda la tierra de Egipto.
+Y hicieron así, y tendió Aharón su mano con su vara y hirió el polvo de la tierra, y fue el kinim en el hombre y en el ganado; todo polvo de la tierra fue kinim en toda tierra de Mizraim.
 
 ### 8:18
 
-Y los magos hicieron lo mismo con sus hechizos para sacar las pulgas, pero no pudieron. Y las pulgas estuvieron sobre el hombre y sobre el animal; toda la tierra de Egipto se llenó de pulgas.
+Y hicieron así los jartumim en sus secretos para hacer salir los kinim, y no pudieron; y fue el kinim en el hombre y en el ganado.
 
 ### 8:19
 
-Y los magos dijeron a Faraón: Esto es el dedo de Dios. Pero el corazón de Faraón se endureció y no les escuchó, como había dicho Jehová.
+Y dijeron los jartumim a Faraón: Dedo de Dios ella. Y se fortaleció corazón de Faraón, y no oyó a ellos, como que habló Jehová.
 
 ### 8:20
 
-Y Jehová dijo a Moisés: Levántate de mañana y ve a ver a Faraón. He aquí que él sale al agua, y dirás a él: Así dice Jehová: Envía a mi pueblo para que me sirva.
+Y dijo Jehová a Moshe: Madruga en la mañana y apóstate delante de Faraón; he aquí saliente hacia las aguas, y dirás a él: Así dijo Jehová: Envía mi pueblo y me sirvan.
 
 ### 8:21
 
-Pero si no envías a mi pueblo, he aquí que enviaré las langostas, y se llenarán las casas de Egipto y toda la tierra de las langostas, para que sepas que yo soy Jehová en medio de la tierra.
+Porque si no tú enviantes a mi pueblo, heme aquí enviando en ti y en tus siervos y en tu pueblo y en tus casas el arov, y se llenarán casas de Mizraim el arov, y también el suelo que ellos sobre él.
 
 ### 8:22
 
-Y diferenciaré en aquel día la tierra de Gosén, donde está mi pueblo, para que no haya allí langostas, para que sepas que yo soy Jehová en medio de la tierra.
+Y distinguiré en el día aquel tierra de Gosén que mi pueblo parado sobre ella, para no ser allí arov, a fin de que conozcas que yo Jehová en interior de la tierra.
 
 ### 8:23
 
-Y pondré una señal entre mi pueblo y tu pueblo. Mañana habrá este signo.
+Y pondré redención entre mi pueblo y entre tu pueblo; para mañana será la señal esta.
 
 ### 8:24
 
-Y Jehová hizo así, y las langostas llenaron la casa de Faraón y la casa de sus siervos, y toda la tierra de Egipto se corrompió por causa de las langostas.
+Y hizo Jehová así, y vino arov pesado a casa de Faraón y casa de sus siervos, y en toda tierra de Mizraim se corrompía la tierra de faces del arov.
 
 ### 8:25
 
-Y Faraón llamó a Moisés y a Aarón, y dijo: Id, sacrificad a vuestros dioses en la tierra.
+Y llamó Faraón a Moshe y a Aharón, y dijo: Andad, sacrificad a vuestro Dios en la tierra.
 
 ### 8:26
 
-Moisés respondió: No es correcto hacerlo, porque es una abominación para los egipcios sacrificar a Jehová, nuestro Dios. Nosotros sacrificaríamos la abominación de los egipcios delante de ellos, y seríamos apedreados.
+Y dijo Moshe: No acertado hacer así, porque abominación de Mizraim sacrificamos a Jehová nuestro Dios. He aquí, sacrificaremos la abominación de Mizraim a sus ojos, ¿y no nos apedrearán?
 
 ### 8:27
 
-En tres días iremos al desierto y sacrificaremos a Jehová, nuestro Dios, como Él nos diga.
+Camino de tres días andaremos en el desierto, y sacrificaremos a Jehová nuestro Dios como que dirá a nosotros.
 
 ### 8:28
 
-Entonces Faraón dijo: Yo os dejaré ir y sacrificaréis a Jehová, vuestro Dios, en el desierto, pero no os alejéis demasiado ni vayáis muy lejos. Advertidme.
+Y dijo Faraón: Yo enviaré a ustedes, y sacrificaréis a Jehová vuestro Dios en el desierto; solo de alejar no alejaréis a andar. Rogad por mí.
 
 ### 8:29
 
-Moisés respondió: He aquí que salgo de tu presencia y oraré a Jehová, y el mal de las langostas se alejará de Faraón, de sus siervos y de su pueblo mañana. Pero no sigas pecando, no rehuyas dejar ir al pueblo para que sacrifiquen a Jehová.
+Y dijo Moshe: He aquí yo saliente de contigo, y rogaré a Jehová, y se irá el arov de Faraón, de sus siervos y de su pueblo mañana; solo no añada Faraón a engañar, para no enviar al pueblo a sacrificar a Jehová.
 
 ### 8:30
 
-Moisés salió de la presencia de Faraón y oró a Jehová.
+Y salió Moshe de con Faraón, y rogó a Jehová.
 
 ### 8:31
 
-Jehová hizo según la palabra de Moisés, y el mal de las langostas se alejó de Faraón, de sus siervos y de su pueblo, y no quedó uno.
+Y hizo Jehová como palabra de Moshe, y quitó el arov de Faraón, de sus siervos y de su pueblo; no quedó uno.
 
 ### 8:32
 
-Entonces Faraón endureció su corazón y no los dejó ir, ni en esta ocasión tampoco.
+Y hizo pesado Faraón su corazón también en la vez esta, y no envió al pueblo.
 
 ## Capítulo 9
 
 ### 9:1
 
-Jehová dijo a Moisés: Ve a Faraón, y di esto: Así dice Jehová, el Dios de los hebreos: Deja ir a mi pueblo para que me sirvan.
+Y dijo Jehová a Moshe: Entra a Faraón, y hablarás a él: Así dijo Jehová Dios de los hebreos: Envía a mi pueblo y me sirvan.
 
 ### 9:2
 
-Pero si te niegas a dejarlos ir, te aferras a ellos aún más.
+Porque si rehusante tú a enviar, y todavía tú fortaleciente en ellos,
 
 ### 9:3
 
-Mira, la mano del SEÑOR está sobre tus animales que están en el campo: sobre los caballos, los burros, los camellos, los bueyes y las ovejas; habrá una grave plaga entre ellos.
+he aquí mano de Jehová siendo en tu ganado que en el campo, en los caballos, en los asnos, en los camellos, en el ganado y en el rebaño, peste pesada mucho.
 
 ### 9:4
 
-Y el SEÑOR diferenciará entre los animales de Israel y los de Egipto, y no morirá ningún animal de Israel.
+Y distinguirá Jehová entre ganado de Israel y entre ganado de Mizraim, y no morirá de todo a hijos de Israel palabra.
 
 ### 9:5
 
-Entonces el SEÑOR fijó un plazo y dijo: Mañana hará el SEÑOR esto en la tierra.
+Y puso Jehová tiempo señalado, diciendo: Mañana hará Jehová la palabra esta en la tierra.
 
 ### 9:6
 
-Y el SEÑOR hizo esto el día siguiente, y todos los animales de Egipto murieron, pero ningún animal de Israel murió.
+Y hizo Jehová la palabra esta de mañana, y murió todo ganado de Mizraim, y de ganado de hijos de Israel no murió uno.
 
 ### 9:7
 
-Entonces Faraón envió y vio que ninguno de los animales de Israel había muerto, y el corazón de Faraón se endureció y no los dejó ir.
+Y envió Faraón, y he aquí no murió de ganado de Israel hasta uno. Y se hizo pesado corazón de Faraón, y no envió al pueblo.
 
 ### 9:8
 
-Y el SEÑOR dijo a Moisés y a Aarón: Tomen cenizas de un erizo y Moisés las arrojará hacia el cielo para que se conviertan en polvo sobre toda Egipto.
+Y dijo Jehová a Moshe y a Aharón: Tomad para ustedes llenura de vuestros puños hollín de horno, y lo esparza Moshe hacia los cielos a ojos de Faraón.
 
 ### 9:9
 
-Y será polvo sobre toda la tierra de Egipto, y se convertirá en pústulas en los hombres y en los animales.
+Y será a polvo sobre toda tierra de Mizraim, y será sobre el hombre y sobre el ganado a úlcera floreciente ampollas en toda tierra de Mizraim.
 
 ### 9:10
 
-Y tomaron la ceniza del erizo y se presentaron ante Faraón, y Moisés la arrojó al cielo, y se convirtió en pústulas que brotaron en los hombres y en los animales.
+Y tomaron el hollín del horno, y se pararon delante de Faraón, y lo esparció Moshe hacia los cielos, y fue úlcera ampollas floreciente en el hombre y en el ganado.
 
 ### 9:11
 
-Y los magos no pudieron presentarse ante Moisés por causa de las pústulas, porque las pústulas estaban en los magos y en toda Egipto.
+Y no pudieron los jartumim pararse delante de Moshe de faces de la úlcera, porque fue la úlcera en los jartumim y en todo Mizraim.
 
 ### 9:12
 
-Y el SEÑOR endureció el corazón de Faraón, y no escuchó a ellos, como el SEÑOR había hablado a Moisés.
+Y fortaleció Jehová el corazón de Faraón, y no oyó a ellos, como que habló Jehová a Moshe.
 
 ### 9:13
 
-Y el SEÑOR dijo a Moisés: Levántate de mañana y presenta tu rostro ante Faraón, y di a él: Así dice el SEÑOR, el Dios de los hebreos: Déjame ir y adoraré.
+Y dijo Jehová a Moshe: Madruga en la mañana y apóstate delante de Faraón, y dirás a él: Así dijo Jehová Dios de los hebreos: Envía a mi pueblo y me sirvan.
 
 ### 9:14
 
-Porque en esta vez enviaré todas mis plagas a tu corazón, a tus siervos y a tu pueblo, para que sepas que no hay como yo en toda la tierra.
+Porque en la vez esta yo enviando todas mis plagas a tu corazón y en tus siervos y en tu pueblo, por causa de que conozcas que no hay como yo en toda la tierra.
 
 ### 9:15
 
-Porque ahora he extendido mi mano y te he castigado con plagas y con señales, y tú te has humillado ante la tierra.
+Porque ahora envié mi mano y te herí a ti y a tu pueblo en la peste, y serías borrado de la tierra.
 
 ### 9:16
 
-Pero en cuanto a esto te he puesto en pie para mostrar tu poder y para que se hable mi nombre en toda la tierra.
+Y empero por causa de esto te he hecho parar, por causa de mostrarte mi fuerza, y a fin de contar mi nombre en toda la tierra.
 
 ### 9:17
 
-Tú aún te levantas contra mi pueblo para no dejar que se vayan.
+Todavía tú ensalzándote en mi pueblo, para no enviarlos.
 
 ### 9:18
 
-He aquí, mañana a esta hora enviaré un gran granizo, cosa que no ha habido en Egipto desde que se estableció hasta ahora.
+Heme aquí haciendo llover como el tiempo mañana granizo pesado mucho, que no fue como él en Mizraim desde el día de su ser fundada y hasta ahora.
 
 ### 9:19
 
-Ahora, envía a los toros y a todo el ganado que tienes en el campo; todo el hombre y todo el animal que se encuentre en el campo, y no los recojas en casa, porque el granizo caerá sobre ellos y morirán.
+Y ahora, envía, haz recoger tu ganado y todo lo que a ti en el campo. Todo el hombre y el ganado que se halle en el campo y no se recoja hacia la casa, y descenderá sobre ellos el granizo y morirán.
 
 ### 9:20
 
-El que temía la palabra de Jehová entre los siervos de Faraón hizo pasar a sus siervos y a su ganado a las casas.
+El temiente la palabra de Jehová de siervos de Faraón hizo huir a sus siervos y a su ganado a las casas.
 
 ### 9:21
 
-Y el que no puso su corazón en la palabra de Jehová dejó a sus siervos y a su ganado en el campo.
+Y el que no puso su corazón a palabra de Jehová, y abandonó a sus siervos y a su ganado en el campo.
 
 ### 9:22
 
-Y Jehová dijo a Moisés: Extiende tu mano hacia el cielo, y habrá granizo en toda la tierra de Egipto, sobre el hombre y sobre el animal, y sobre todo el hierba del campo en la tierra de Egipto.
+Y dijo Jehová a Moshe: Tiende tu mano sobre los cielos, y sea granizo en toda tierra de Mizraim, sobre el hombre y sobre el ganado y sobre toda hierba del campo en tierra de Mizraim.
 
 ### 9:23
 
-Y Moisés extendió su vara hacia el cielo, y Jehová hizo que sonaran truenos y granizo, y fuego corrió por la tierra, y Jehová hizo que cayera granizo sobre la tierra de Egipto.
+Y tendió Moshe su vara sobre los cielos, y Jehová dio voces y granizo, y anduvo fuego hacia tierra, y hizo llover Jehová granizo sobre tierra de Mizraim.
 
 ### 9:24
 
-Y hubo granizo y fuego mezclándose en el medio del granizo, muy fuerte, cosa que no había habido en toda la tierra de Egipto desde que se estableció hasta entonces.
+Y fue granizo y fuego trabándose en medio del granizo, pesado mucho, que no fue como él en toda tierra de Mizraim desde entonces fue a nación.
 
 ### 9:25
 
-Y el granizo golpeó toda la tierra de Egipto, sobre todo lo que había en el campo, desde el hombre hasta el animal, y sobre todo el hierba del campo, el granizo la golpeó, y sobre todo el árbol del campo, lo rompió.
+Y hirió el granizo en toda tierra de Mizraim todo lo que en el campo, desde hombre y hasta ganado, y toda hierba del campo hirió el granizo, y todo árbol del campo quebró.
 
 ### 9:26
 
-Pero en la tierra de Gosén, donde estaban los israelitas, no hubo granizo.
+Solo en tierra de Gosén, que allí hijos de Israel, no fue granizo.
 
 ### 9:27
 
-Entonces envió Faraón y llamó a Moisés y a Aarón, y les dijo: He pecado esta vez. Jehová es justo, y yo y mi pueblo somos malvados.
+Y envió Faraón y llamó a Moshe y a Aharón, y dijo a ellos: He pecado esta vez. Jehová el justo, y yo y mi pueblo los malos.
 
 ### 9:28
 
-Ruego a Jehová que las voces de los dioses y el granizo cesen, y yo os enviaré y no os retendré más.
+Rogad a Jehová, y bastante de ser voces de Dios y granizo, y enviaré a ustedes, y no añadiréis a pararos.
 
 ### 9:29
 
-Y me dijo Moisés: Cuando salga de la ciudad, extenderé las manos hacia Jehová, y cesarán las voces y el granizo no volverá a ser, para que sepáis que toda la tierra pertenece a Jehová.
+Y dijo a él Moshe: Como mi salir la ciudad, extenderé mis palmas a Jehová; las voces cesarán, y el granizo no será todavía, a fin de que conozcas que a Jehová la tierra.
 
 ### 9:30
 
-Y tú y tus siervos sabéis que aún no teméis a Jehová, el Dios.
+Y tú y tus siervos, he conocido que aún no temeréis de faces de Jehová Dios.
 
 ### 9:31
 
-Y la paja y la cebada fueron golpeadas, porque la cebada estaba en espiga y la paja en espiga.
+Y el lino y la cebada fue herida, porque la cebada abib, y el lino givol.
 
 ### 9:32
 
-Y la trigo y la cebada no fueron golpeados, porque aún no habían crecido.
+Y el trigo y la escanda no fueron heridos, porque tardíos ellos.
 
 ### 9:33
 
-Y Moisés salió de la presencia de Faraón y salió de la ciudad, y extendió las manos hacia Jehová, y cesaron las voces y el granizo, y no cayó lluvia en la tierra.
+Y salió Moshe de con Faraón la ciudad, y extendió sus palmas a Jehová, y cesaron las voces y el granizo, y lluvia no se derramó hacia tierra.
 
 ### 9:34
 
-Y Faraón vio que cesó la lluvia y el granizo y el trueno, y se endureció más y no envió a los israelitas, él y sus siervos.
+Y vio Faraón que cesó la lluvia y el granizo y las voces, y añadió a pecar, y hizo pesado su corazón, él y sus siervos.
 
 ### 9:35
 
-Se endureció el corazón de Faraón y no los dejó ir, a los israelitas, como había hablado Jehová por medio de Moisés.
+Y se fortaleció corazón de Faraón, y no envió a hijos de Israel, como que habló Jehová en mano de Moshe.
 
 ## Capítulo 10
 
 ### 10:1
 
-Y Jehová dijo a Moisés: Ve a Faraón, porque yo he endurecido su corazón y el corazón de sus siervos, para que yo haga mis señales en medio de ellos.
+Y dijo Jehová a Moshe: Entra a Faraón, porque yo he hecho pesado su corazón y corazón de sus siervos, a fin de poner mis señales estas en su interior.
 
 ### 10:2
 
-Y para que cuentes a oídos de tu hijo y del hijo de tu hijo, lo que hice a Egipto y mis señales que hice en medio de ellos, y sepáis que yo soy Jehová.
+Y a fin de que cuentes en oídos de tu hijo y hijo de tu hijo lo que me he burlado en Mizraim, y mis señales que puse en ellos, y conoceréis que yo Jehová.
 
 ### 10:3
 
-Y Moisés y Aarón fueron a Faraón, y le dijeron: Así ha dicho Jehová, el Dios de los israelitas: Hasta cuándo te negarás a humillarte delante de mí? Suelta mi pueblo para que me sirvan.
+Y vino Moshe y Aharón a Faraón, y dijeron a él: Así dijo Jehová Dios de los hebreos: ¿Hasta cuándo rehusaste a humillarte de mis faces? Envía mi pueblo y me sirvan.
 
 ### 10:4
 
-Porque si te niegas a soltar mi pueblo, he aquí que mañana traeré langostas en tu territorio.
+Porque si rehusante tú a enviar a mi pueblo, heme aquí trayente mañana langosta en tu límite.
 
 ### 10:5
 
-Y cubrirá la superficie de la tierra, y no se podrá ver la tierra, y comerá lo que quedó de la cosecha, después del granizo, y comerá toda la hierba que crece en tu tierra.
+Y cubrirá el ojo de la tierra, y no podrá ver la tierra, y comerá el resto de la huidiza la restante a ustedes desde el granizo, y comerá todo árbol el brotante a ustedes desde el campo.
 
 ### 10:6
 
-Y llenarán tus casas y las casas de todos tus siervos y las casas de todos los egipcios, lo que tus padres y los padres de tus padres no vieron desde el día que vinieron a esta tierra hasta hoy. Y se volvió y salió de la presencia de Faraón.
+Y se llenarán tus casas y casas de todos tus siervos y casas de todo Mizraim, que no vieron tus padres y padres de tus padres desde día de su ser sobre el suelo hasta el día este. Y se volvió y salió de con Faraón.
 
 ### 10:7
 
-Y dijeron a Faraón sus siervos: ¿Hasta cuándo será esto por nosotros un estorbo? Deja ir a los hombres para que sirvan a Yahvéh, su Dios. ¿No sabes que Egipto está destruida?
+Y dijeron siervos de Faraón a él: ¿Hasta cuándo será este a nosotros a lazo? Envía a los varones y sirvan a Jehová su Dios. ¿Aún no conoces que pereció Mizraim?
 
 ### 10:8
 
-Entonces volvió a Moisés y a Aarón a Faraón, y dijo: Id, servid a Yahvéh, vuestro Dios. ¿Quién y quién irá?
+Y fue hecho volver a Moshe y a Aharón a Faraón, y dijo a ellos: Andad, servid a Jehová vuestro Dios. ¿Quién y quién los andantes?
 
 ### 10:9
 
-Respondió Moisés: Con nuestros jóvenes y con nuestros ancianos, con nuestros hijos y con nuestras hijas, con nuestros rebaños y con nuestras vacas iremos, porque es fiesta de Yahvéh para nosotros.
+Y dijo Moshe: En nuestros muchachos y en nuestros ancianos andaremos; en nuestros hijos y en nuestras hijas, en nuestro rebaño y en nuestro ganado andaremos, porque fiesta de Jehová a nosotros.
 
 ### 10:10
 
-Y dijo a ellos: Que Yahvéh esté con vosotros, como yo os suelto y a vuestros hijos. Mirad que el mal está delante de vosotros.
+Y dijo a ellos: Sea así Jehová con ustedes, como que envíe a ustedes y a vuestros pequeños. Ved que mal enfrente de vuestras faces.
 
 ### 10:11
 
-No, váyanse ahora los varones y sirvan a Yahvéh, porque en eso es lo que vosotros buscáis. Y los echó de su presencia.
+No así. Andad ahora los varones y servid a Jehová, porque ella ustedes buscantes. Y los echó de faces de Faraón.
 
 ### 10:12
 
-Y dijo Yahvéh a Moisés: Extiende tu mano sobre la tierra de Egipto para que vengan langostas y coman toda la hierba de la tierra, después del granizo.
+Y dijo Jehová a Moshe: Tiende tu mano sobre tierra de Mizraim en la langosta, y suba sobre tierra de Mizraim, y coma toda hierba de la tierra, todo lo que dejó el granizo.
 
 ### 10:13
 
-Y extendió Moisés su vara sobre la tierra de Egipto, y Yahvéh hizo soplar un viento oriental sobre la tierra todo el día y toda la noche. Al amanecer el viento oriental llevó las langostas.
+Y tendió Moshe su vara sobre tierra de Mizraim, y Jehová condujo viento de oriente en la tierra todo el día aquel y toda la noche; la mañana fue, y viento del oriente levantó la langosta.
 
 ### 10:14
 
-Y subieron las langostas sobre toda la tierra de Egipto y se posaron en toda la frontera de Egipto en gran cantidad. Nunca antes se había visto semejante plaga de langostas, ni después se volverá a ver.
+Y subió la langosta sobre toda tierra de Mizraim, y reposó en todo límite de Mizraim, pesada mucho; delante de ella no fue así langosta como ella, y detrás de ella no será así.
 
 ### 10:15
 
-Y las langostas cubrieron la superficie de toda la tierra, y la tierra se oscureció. Y se comieron toda la hierba de la tierra y todo el fruto de los árboles que había dejado el hielo. No quedó en los árboles ni en la hierba del campo de toda la tierra de Egipto nada verde.
+Y cubrió el ojo de toda la tierra, y se oscureció la tierra, y comió toda hierba de la tierra y todo fruto del árbol que dejó el granizo, y no quedó todo verdor en el árbol y en hierba del campo en toda tierra de Mizraim.
 
 ### 10:16
 
-Entonces Faraón se apresuró a llamar a Moisés y a Aarón y dijo: “He pecado contra Yahvéh, el Dios de ustedes, y contra ustedes.”
+Y se apresuró Faraón a llamar a Moshe y a Aharón, y dijo: He pecado a Jehová vuestro Dios y a ustedes.
 
 ### 10:17
 
-Ahora, pues, perdona, por favor, esta vez, y ruega a Yahvéh, el Dios de ustedes, para que quite de mí este solo mal.
+Y ahora, lleva ahora mi pecado solo esta vez, y rogad a Jehová vuestro Dios, y quite de sobre mí solo la muerte esta.
 
 ### 10:18
 
-Y salió de la presencia de Faraón y oró a Yahvéh.
+Y salió de con Faraón, y rogó a Jehová.
 
 ### 10:19
 
-Y Yahvéh cambió el viento del mar y lo hizo soplar con fuerza hacia el oeste, y llevó las langostas al mar Rojo. No quedó una langosta en toda la frontera de Egipto.
+Y volvió Jehová viento de mar fuerte mucho, y levantó la langosta y la clavó hacia mar de Suf; no quedó langosta una en todo límite de Mizraim.
 
 ### 10:20
 
-Y Yahvéh endureció el corazón de Faraón, y no dejó ir a los hijos de Israel.
+Y fortaleció Jehová el corazón de Faraón, y no envió a hijos de Israel.
 
 ### 10:21
 
-Y Yahvéh dijo a Moisés: “Extiende tu mano hacia el cielo, y que haya tinieblas sobre la tierra de Egipto, y que las tinieblas se hagan densas.”
+Y dijo Jehová a Moshe: Tiende tu mano sobre los cielos, y sea oscuridad sobre tierra de Mizraim, y palpe oscuridad.
 
 ### 10:22
 
-Y Moisés extendió su mano hacia el cielo, y hubo tinieblas espesas en toda la tierra de Egipto durante tres días.
+Y tendió Moshe su mano sobre los cielos, y fue oscuridad de tiniebla en toda tierra de Mizraim tres días.
 
 ### 10:23
 
-No vio nadie a su hermano, y nadie se levantó de su lugar durante tres días. Pero a todos los hijos de Israel había luz en sus moradas.
+No vieron varón a su hermano, y no se levantaron varón de debajo de él tres días, y a todos hijos de Israel fue luz en sus moradas.
 
 ### 10:24
 
-Entonces Faraón llamó a Moisés y le dijo: “¡Vayan y sirvan al Señor! Solo sus rebaños y sus ganados no irán; sus hijos se quedarán con ustedes.”
+Y llamó Faraón a Moshe, y dijo: Andad, servid a Jehová; solo vuestro rebaño y vuestro ganado será puesto; también vuestros pequeños andará con ustedes.
 
 ### 10:25
 
-Moisés respondió: “También tú nos darás animales para sacrificios y para holocaustos, para que los ofrezcamos al Señor nuestro Dios.”
+Y dijo Moshe: También tú darás en nuestra mano sacrificios y holocaustos, y haremos a Jehová nuestro Dios.
 
 ### 10:26
 
-También nuestros animales irán con nosotros; no nos separaremos de ellos, porque de ellos sacamos para servir al Señor nuestro Dios. No sabemos qué servir al Señor hasta que lleguemos allá.”
+Y también nuestro ganado andará con nosotros; no quedará pezuña, porque de él tomaremos para servir a Jehová nuestro Dios, y nosotros no conocemos qué serviremos a Jehová hasta nuestro venir allá.
 
 ### 10:27
 
-Entonces el Señor endureció el corazón de Faraón, y no los dejó ir.
+Y fortaleció Jehová el corazón de Faraón, y no quiso enviarlos.
 
 ### 10:28
 
-Faraón le dijo a Moisés: “¡Vete de mí! ¡Cuida de no volver a ver mi rostro, porque en el día que te vea, morirás!”
+Y dijo a él Faraón: Anda de sobre mí; guárdate a ti, no añadas a ver mis faces, porque en día de tu ver mis faces morirás.
 
 ### 10:29
 
-Moisés respondió: “Como lo has dicho, no volveré a verte de nuevo.”
+Y dijo Moshe: Así has hablado; no añadiré todavía a ver tus faces.
 
 ## Capítulo 11
 
