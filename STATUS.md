@@ -49,7 +49,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | habacuc | ot | ready | none |  |  |  |  |  |
 | sofonias | ot | ready | none |  |  |  |  |  |
 | hageo | ot | ready | none |  |  |  |  |  |
-| zacarias | ot | done | draft | John Wry | 2026-08-18 |  |  | alignment was seeded-hand ×211 (seed_zacarias_reverse_links.py); never confirmed in Translator — signature cleared 2026-09-15 |
+| zacarias | ot | done | done | John Wry | 2026-08-18 | John Wry | 2026-09-16 | 211 `mapped`; AI audit pass (93 pass / 118 warn / 0 fail; 9:17 H1715 false-fail overruled); awaiting alignment approval |
 | malaquias | ot | ready | none |  |  |  |  |  |
 | mateo | nt | ready | none |  |  |  |  |  |
 | marcos | nt | ready | none |  |  |  |  |  |
