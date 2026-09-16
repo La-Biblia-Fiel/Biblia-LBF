@@ -81,7 +81,8 @@ async function handleApi(request, response, url) {
         sourceText: verse.sourceText,
         morphology: verse.morphology,
         sourceUnavailable: verse.sourceUnavailable,
-        sourceNote: verse.sourceNote
+        sourceNote: verse.sourceNote,
+        parallelSource: verse.parallelSource
       }))
     });
     return;
@@ -99,6 +100,11 @@ async function handleApi(request, response, url) {
 
   if (request.method === "POST" && url.pathname === "/api/job/stop") {
     sendJson(response, 200, runner.requestStop());
+    return;
+  }
+
+  if (request.method === "POST" && url.pathname === "/api/source-gap/resolve") {
+    sendJson(response, 200, await runner.resolveSourceGap(await readJsonBody(request)));
     return;
   }
 
@@ -125,8 +131,9 @@ const server = createServer(async (request, response) => {
     if (url.pathname.startsWith("/api/")) await handleApi(request, response, url);
     else await handleStatic(response, url);
   } catch (error) {
-    const statusCode = ["CONFIRMATION_REQUIRED", "INVALID_JSON"].includes(error.code) ? 400
+    const statusCode = ["CONFIRMATION_REQUIRED", "INVALID_JSON", "INVALID_GAP_BASIS", "UNKNOWN_SOURCE_GAP", "MODEL_REQUIRED"].includes(error.code) ? 400
       : error.code === "JOB_RUNNING" ? 409
+        : error.code === "VERSE_EXISTS" || error.code === "BOOK_PROTECTED" ? 409
         : error.code === "REQUEST_TOO_LARGE" ? 413
           : 500;
     sendJson(response, statusCode, { error: error.message || "Unexpected error.", code: error.code || "INTERNAL_ERROR" });

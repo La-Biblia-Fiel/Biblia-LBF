@@ -56,6 +56,14 @@
         </div>
         <p id="library-summary" class="help">Scanning the canonical LBF files…</p>
         <div id="book-list" class="book-list" aria-live="polite"></div>
+        <div id="source-gap-actions" hidden>
+          <label class="confirmation gap-confirmation">
+            <input id="gap-acknowledgement" type="checkbox" />
+            <span>Nehemiah 7:68 has no WLC Hebrew. Draft it from Ezra 2:66 OSHB, not invented source text. The result stays draft.</span>
+          </label>
+          <button id="resolve-gap" class="primary" type="button" disabled>Draft Nehemiah 7:68 from Ezra 2:66</button>
+          <p id="gap-message" class="help" role="status"></p>
+        </div>
       </section>
 
       <section class="card start-card" aria-labelledby="run-title">

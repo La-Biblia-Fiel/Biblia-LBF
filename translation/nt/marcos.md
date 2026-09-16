@@ -1,6 +1,7 @@
 # Marcos
 
-> La Biblia Fiel — Marcos (borrador preliminar).
+> La Biblia Fiel — Marcos. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> Fuente: Textus Receptus de Scrivener 1894.
 
 ## Capítulo 1
 
@@ -1068,6 +1069,10 @@ Y llamando otra vez a la multitud, les decía: Escúchenme todos y entiendan:
 
 No hay nada fuera del ser humano que, al entrar en él, pueda hacerlo impuro; sino que las cosas que salen del ser humano son las que hacen impuro al ser humano.
 
+### 7:16
+
+Que el que tenga oídos para oír, oiga.
+
 ### 7:17
 
 Y cuando entró en una casa, apartándose de la multitud, sus discípulos le preguntaban sobre la parábola.
@@ -1480,9 +1485,17 @@ y el cual hacer tropeze uno de los pequeños este de los creiendo a me bueno es 
 
 y si hacer tropezara te la mana de ti corta la bueno es te manco entrar a la vida o las dos manas teniendo irse a la gehenna al fuego lo inextinguible
 
+### 9:44
+
+Dónde el gusano no muere, y el fuego no se apaga.
+
 ### 9:45
 
 y si el pie de ti hacer tropezara te corta lo bueno es te entrar a la vida cojo o los dos pies teniendo arrojar a la gehenna
+
+### 9:46
+
+Dónde el gusano no muere, y el fuego no se apaga.
 
 ### 9:47
 
@@ -1811,6 +1824,10 @@ por medio de este digo a ustedes todos cuanto oráis y pedéis creed que tomaste
 ### 11:25
 
 y cuando estar firme orando perdonad si algo tenéis según de alguien para que y el padre de ustedes el en a los cielos perdone a ustedes los ofensas de ustedes
+
+### 11:26
+
+Pero si vosotros no perdonáis, tampoco vuestro Padre que está en los cielos perdonará vuestras culpas.
 
 ### 11:27
 
@@ -2567,6 +2584,10 @@ Y había una inscripción con la causa de su condena, que decía: El rey de los 
 ### 15:27
 
 Y con él crucificaron a dos ladrones, uno a su derecha y otro a su izquierda.
+
+### 15:28
+
+Y se cumplió la Escritura que dice: Y con los impíos se le contó.
 
 ### 15:29
 

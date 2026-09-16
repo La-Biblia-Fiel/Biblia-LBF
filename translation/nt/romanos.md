@@ -1,6 +1,7 @@
 # Romanos
 
-> La Biblia Fiel — Romanos (borrador preliminar).
+> La Biblia Fiel — Romanos. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> Fuente: Textus Receptus de Scrivener 1894.
 
 ## Capítulo 1
 
@@ -1753,3 +1754,15 @@ Los saluda Gayo, mi anfitrión y de toda la iglesia. Los saluda Erasto, el tesor
 ### 16:24
 
 La gracia de nuestro Señor Jesús Cristo sea con todos ustedes. Amén.
+
+### 16:25
+
+A aquel que es poderoso para confirmaros conforme a mi evangelio y al anuncio de Jesús Cristo, conforme a la revelación del misterio guardado en tiempos eternos,
+
+### 16:26
+
+ahora, sin embargo, se ha manifestado por medio de las escrituras proféticas, conforme a la ordenanza del Dios eterno, para la obediencia de la fe en todas las naciones;
+
+### 16:27
+
+al solo Dios sabio, por medio de Jesús Cristo, gloria a los siglos. Amén.

@@ -183,6 +183,16 @@ input:focus-visible {
 
 .book-row[data-protected="true"] { background: var(--green-soft); }
 .book-row[data-complete="true"] { opacity: 0.72; }
+.book-row[data-gap="true"] {
+  border-color: #d8a558;
+  background: var(--amber-soft);
+  cursor: pointer;
+}
+#source-gap-actions {
+  margin-top: 1rem;
+  border-top: 1px solid var(--line);
+  padding-top: 1rem;
+}
 
 .book-row input {
   width: 1.25rem;
@@ -258,6 +268,11 @@ progress {
   border-left: 5px solid var(--green);
   padding: 0.35rem 0.8rem;
 }
+
+.source-verse.source-gap { border-left-color: var(--amber); }
+.gap-confirmation { margin-top: 1rem; }
+#resolve-gap { margin-top: 0.75rem; }
+#gap-message { margin-top: 0.55rem; }
 
 .source-verse h3 { margin: 0 0 0.35rem; font-size: 1rem; }
 .source-text { margin: 0; font-family: "SBL Hebrew", "SBL Greek", "Times New Roman", serif; font-size: 1.25rem; line-height: 1.6; }

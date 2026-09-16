@@ -1,6 +1,7 @@
 # Juan
 
-> La Biblia Fiel — Juan (borrador preliminar).
+> La Biblia Fiel — Juan. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> Fuente: Textus Receptus de Scrivener 1894.
 
 ## Capítulo 1
 
@@ -688,6 +689,10 @@ Hay en Jerusalén, junto a la Puerta de las Ovejas, un estanque llamado en hebre
 
 En estos yacía una multitud de enfermos: ciegos, cojos, paralíticos.
 
+### 5:4
+
+Porque un ángel descendía de vez en cuando al estanque y agitaba el agua; entonces, el primero que entraba después del remolino del agua, sanaba de cualquier enfermedad.
+
 ### 5:5
 
 Había allí un hombre que tenía treinta y ocho años en su enfermedad.
@@ -1356,7 +1361,55 @@ Les dice Nicodemo, el que había ido antes a él, siendo uno de ellos:
 
 Respondieron y le dijeron: ¿También tú eres de Galilea? Investiga y ve que de Galilea no se levanta profeta.
 
+### 7:53
+
+Y cada uno se fue a su casa.
+
 ## Capítulo 8
+
+### 8:1
+
+Y Jesús se fue al monte de los Olivos.
+
+### 8:2
+
+Al amanecer, volvió de nuevo al templo, y todo el pueblo iba hacia él; y sentándose, les enseñaba.
+
+### 8:3
+
+Los escribas y los fariseos le llevaron una mujer sorprendida en adulterio, y la pusieron en medio.
+
+### 8:4
+
+Le dijeron: Maestro, esta mujer fue sorprendida en adulterio en pleno acto.
+
+### 8:5
+
+En la ley de Moisés nos ordena que tales mujeres sean apedreadas. ¿Qué dices tú?
+
+### 8:6
+
+Pero ellos le preguntaban para poder tener motivo para acusarle. Y Jesús, inclinándose, escribía en el suelo, sin fingir.
+
+### 8:7
+
+Cuando insistieron en preguntarle, se levantó y les dijo: El que esté sin pecado, que tire la primera piedra.
+
+### 8:8
+
+Y volvió a inclinarse y escribía en el suelo.
+
+### 8:9
+
+Y ellos, al oírlo, y convencidos por su conciencia, salieron uno por uno, empezando por los mayores hasta los últimos; y quedó solo Jesús, y la mujer en medio, de pie.
+
+### 8:10
+
+Y Jesús, levantándose, y no viendo a nadie más que a la mujer, le dijo: Mujer, ¿dónde están los que te acusaban? ¿Ninguno te ha condenado?
+
+### 8:11
+
+Ella dijo: Nadie, Señor. Jesús le dijo: Ni yo te condeno; ve y no peques más.
 
 ### 8:12
 

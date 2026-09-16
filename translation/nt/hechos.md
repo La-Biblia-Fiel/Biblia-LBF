@@ -1,6 +1,7 @@
 # Hechos
 
-> La Biblia Fiel — Hechos (borrador preliminar).
+> La Biblia Fiel — Hechos. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> Fuente: Textus Receptus de Scrivener 1894.
 
 ## Capítulo 1
 
@@ -1174,6 +1175,10 @@ Entonces Felipe, abriendo su boca y comenzando desde esta Escritura, le anunció
 
 Y conforme iban por el camino, llegaron a cierta agua y dice el eunuco He aquí agua; ¿qué impide que yo sea bautizado?
 
+### 8:37
+
+Entonces Felipe le dijo: Si crees con toda tu corazón, puedes. Él respondió: Creo que Jesús es el Hijo de Dios.
+
 ### 8:38
 
 Y mandó detener el carro, y bajaron ambos al agua, Felipe y el eunuco, y lo bautizó
@@ -2236,6 +2241,10 @@ Y Judas y Silas, siendo también ellos profetas, exhortaron a los hermanos con m
 
 Y después de pasar algún tiempo, fueron despedidos en paz por los hermanos hacia los que los habían enviado.
 
+### 15:34
+
+Silas, el obispo, decidió quedarse con él.
+
 ### 15:35
 
 Pero Pablo y Bernabé permanecían en Antioquía, enseñando y anunciando las buenas nuevas de la palabra del Señor, junto con muchos otros también.
@@ -2839,6 +2848,10 @@ Y si buscan algo más, se resolverá en la asamblea legal
 ### 19:40
 
 Porque también corremos peligro de ser acusados de sedición por lo de hoy, no habiendo causa alguna de la cual podamos dar razón acerca de este tumulto Y diciendo estas cosas, disolvió la asamblea
+
+### 19:41
+
+Y diciendo esto, dispersó la congregación.
 
 ## Capítulo 20
 
@@ -3445,6 +3458,10 @@ Porque hemos hallado a este hombre peste, y que mueve sediciones entre todos los
 ### 24:6
 
 el cual también intentó profanar el templo, al cual también prendimos.
+
+### 24:7
+
+Pero Lísias, el comandante, con gran violencia, llevó a los hombres de nuestras manos.
 
 ### 24:8
 
@@ -4057,6 +4074,10 @@ porque el corazón de este pueblo se ha engrosado y con los oídos oyeron pesada
 ### 28:28
 
 Séales, pues, conocido que a los gentiles ha sido enviada esta salvación de Dios; ellos también oirán».
+
+### 28:29
+
+Y diciendo esto, se fueron los judíos, teniendo gran discusión entre sí.
 
 ### 28:30
 

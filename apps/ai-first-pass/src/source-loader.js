@@ -1,5 +1,6 @@
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
+import { attachEzraParallel } from "./source-gap.js";
 
 const entityMap = new Map([
   ["amp", "&"], ["lt", "<"], ["gt", ">"], ["quot", "\""], ["apos", "'"]
@@ -80,11 +81,12 @@ export function parseOshbXml(xml, book) {
   return [...byReference.values()].map(item => ({
     chapter: item.chapter,
     verse: item.verse,
-    sourceText: cleanSourceText(item.tokens.map(token => token.surface).join(" ")),
-    morphology: item.tokens.map(token => `${token.surface} | ${token.lemma || "—"} | ${token.morph || "—"}`).join("\n"),
+    sourceText: cleanSourceText((item.tokens || []).map(token => token.surface).join(" ")),
+    morphology: (item.tokens || []).map(token => `${token.surface} | ${token.lemma || "—"} | ${token.morph || "—"}`).join("\n"),
     sourceParts: item.sourceParts,
     sourceUnavailable: item.sourceUnavailable || false,
-    sourceNote: item.sourceNote || ""
+    sourceNote: item.sourceNote || "",
+    parallelSource: item.parallelSource || null
   })).sort((a, b) => a.chapter - b.chapter || a.verse - b.verse);
 }
 
@@ -124,7 +126,14 @@ export function parseRobinsonMorph(text) {
 export async function loadBookSource(repoRoot, book) {
   if (book.testament === "ot") {
     const xmlPath = join(repoRoot, "source", "hebrew", "OSHB", "morphhb", "wlc", book.sourceFile);
-    return parseOshbXml(await readFile(xmlPath, "utf8"), book);
+    const verses = parseOshbXml(await readFile(xmlPath, "utf8"), book);
+    if (book.slug !== "nehemias") return verses;
+    const ezraPath = join(repoRoot, "source", "hebrew", "OSHB", "morphhb", "wlc", "Ezra.xml");
+    const ezraVerses = parseOshbXml(await readFile(ezraPath, "utf8"), {
+      slug: "esdras",
+      sourceCode: "Ezra"
+    });
+    return attachEzraParallel(verses, ezraVerses);
   }
 
   const [trText, morphText] = await Promise.all([

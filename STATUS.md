@@ -17,40 +17,40 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | levitico | ot | draft | none |  |  |  |  |  |
 | numeros | ot | draft | none |  |  |  |  |  |
 | deuteronomio | ot | draft | none |  |  |  |  |  |
-| josue | ot | none | none |  |  |  |  |  |
-| jueces | ot | none | none |  |  |  |  |  |
+| josue | ot | draft | none |  |  |  |  |  |
+| jueces | ot | draft | none |  |  |  |  |  |
 | rut | ot | draft | none |  |  |  |  |  |
-| 1samuel | ot | none | none |  |  |  |  |  |
-| 2samuel | ot | none | none |  |  |  |  |  |
-| 1reyes | ot | none | none |  |  |  |  |  |
-| 2reyes | ot | none | none |  |  |  |  |  |
-| 1cronicas | ot | none | none |  |  |  |  |  |
-| 2cronicas | ot | none | none |  |  |  |  |  |
-| esdras | ot | none | none |  |  |  |  |  |
-| nehemias | ot | none | none |  |  |  |  |  |
+| 1samuel | ot | draft | none |  |  |  |  |  |
+| 2samuel | ot | draft | none |  |  |  |  |  |
+| 1reyes | ot | draft | none |  |  |  |  |  |
+| 2reyes | ot | draft | none |  |  |  |  |  |
+| 1cronicas | ot | draft | none |  |  |  |  |  |
+| 2cronicas | ot | draft | none |  |  |  |  |  |
+| esdras | ot | draft | none |  |  |  |  |  |
+| nehemias | ot | draft | none |  |  |  |  |  |
 | ester | ot | draft | none |  |  |  |  |  |
-| job | ot | none | none |  |  |  |  |  |
-| salmos | ot | none | none |  |  |  |  |  |
-| proverbios | ot | none | none |  |  |  |  |  |
-| eclesiastes | ot | none | none |  |  |  |  |  |
-| cantares | ot | none | none |  |  |  |  |  |
-| isaias | ot | none | none |  |  |  |  |  |
-| jeremias | ot | none | none |  |  |  |  |  |
-| lamentaciones | ot | none | none |  |  |  |  |  |
-| ezequiel | ot | none | none |  |  |  |  |  |
+| job | ot | draft | none |  |  |  |  |  |
+| salmos | ot | draft | none |  |  |  |  |  |
+| proverbios | ot | draft | none |  |  |  |  |  |
+| eclesiastes | ot | draft | none |  |  |  |  |  |
+| cantares | ot | draft | none |  |  |  |  |  |
+| isaias | ot | draft | none |  |  |  |  |  |
+| jeremias | ot | draft | none |  |  |  |  |  |
+| lamentaciones | ot | draft | none |  |  |  |  |  |
+| ezequiel | ot | draft | none |  |  |  |  |  |
 | daniel | ot | ready | draft |  |  |  |  | file exists; gloss maps are not alignment |
-| oseas | ot | none | none |  |  |  |  |  |
-| joel | ot | none | none |  |  |  |  |  |
-| amos | ot | none | none |  |  |  |  |  |
-| abdias | ot | none | none |  |  |  |  |  |
-| jonas | ot | none | none |  |  |  |  |  |
-| miqueas | ot | none | none |  |  |  |  |  |
-| nahum | ot | none | none |  |  |  |  |  |
-| habacuc | ot | none | none |  |  |  |  |  |
-| sofonias | ot | none | none |  |  |  |  |  |
-| hageo | ot | none | none |  |  |  |  |  |
+| oseas | ot | draft | none |  |  |  |  |  |
+| joel | ot | draft | none |  |  |  |  |  |
+| amos | ot | draft | none |  |  |  |  |  |
+| abdias | ot | draft | none |  |  |  |  |  |
+| jonas | ot | draft | none |  |  |  |  |  |
+| miqueas | ot | draft | none |  |  |  |  |  |
+| nahum | ot | draft | none |  |  |  |  |  |
+| habacuc | ot | draft | none |  |  |  |  |  |
+| sofonias | ot | draft | none |  |  |  |  |  |
+| hageo | ot | draft | none |  |  |  |  |  |
 | zacarias | ot | done | done | John Wry | 2026-08-18 | John Wry | 2026-08-18 |  |
-| malaquias | ot | none | none |  |  |  |  |  |
+| malaquias | ot | draft | none |  |  |  |  |  |
 | mateo | nt | draft | none |  |  |  |  |  |
 | marcos | nt | draft | none |  |  |  |  |  |
 | lucas | nt | draft | none |  |  |  |  |  |
@@ -81,4 +81,4 @@ Signed columns stay empty until a human writes a name and an ISO date.
 
 ## Open human decisions
 
-None. Apocalipsis Spanish: later TR revision accepted. Zacarías 11:2: `el cedro` already applied.
+Nehemiah 7:68: OSHB/WLC has no source for this Protestant label (WLC Neh 7:68 is Protestant 7:69). First-pass may draft it only from Ezra 2:66 OSHB after explicit confirmation. Still draft until second-pass review. Apocalipsis Spanish: later TR revision accepted. Zacarías 11:2: `el cedro` already applied.

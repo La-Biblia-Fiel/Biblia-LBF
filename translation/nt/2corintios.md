@@ -1,6 +1,7 @@
 # 2 Corintios
 
-> La Biblia Fiel — 2 Corintios (borrador preliminar).
+> La Biblia Fiel — 2 Corintios. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> Fuente: Textus Receptus de Scrivener 1894.
 
 ## Capítulo 1
 
@@ -1051,3 +1052,7 @@ Salúdense unos a otros con santo beso. Los santos todos los saludan.
 ### 13:13
 
 La gracia del Señor Jesús Cristo y el amor de Dios y la comunión del Espíritu Santo sean con todos ustedes.
+
+### 13:14
+
+La gracia del Señor Jesucristo, y el amor de Dios, y la comunión del Santo Espíritu estén con todos ustedes. Amén.

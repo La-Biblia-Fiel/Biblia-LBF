@@ -1,6 +1,7 @@
 # Lucas
 
-> La Biblia Fiel — Lucas (borrador preliminar).
+> La Biblia Fiel — Lucas. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> Fuente: Textus Receptus de Scrivener 1894.
 
 ## Capítulo 1
 
@@ -3208,6 +3209,10 @@ Les digo que esa noche habrá dos en una misma cama: uno será tomado y el otro 
 
 Dos mujeres estarán moliendo juntas: una será tomada y la otra dejada.
 
+### 17:36
+
+Dos estarán en el campo: uno será llevado, y otro dejarán.
+
 ### 17:37
 
 Ellos le respondieron: «¿Dónde, Señor?» Él les dijo: «Donde esté el cuerpo, allí se reunirán los buitres».
@@ -4275,6 +4280,10 @@ Tampoco Herodes, porque nos lo devolvió. Miren, él no ha hecho nada que merezc
 ### 23:16
 
 Así que, después de castigarlo, lo soltaré».
+
+### 23:17
+
+Tenía necesidad de dejarles uno a causa de la fiesta.
 
 ### 23:18
 
