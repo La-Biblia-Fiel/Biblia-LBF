@@ -75,8 +75,9 @@ If they ask you to auto-align a book, generate links overnight, or “draft all 
 2. Write hand units left-to-right on the Spanish. Row indexes are 0-based into that phrase’s `tokenRows`.
 3. Smallest honest Spanish span. Articles+nouns may share a unit. Word-order: Spanish order, source indexes may be non-sequential.
 4. Map every source token, or record why it is uncovered (comma-`καί`, seam, particle with no Spanish).
-5. Seed / write reverse-links with `method: "hand"` and `status: "seeded-hand"` (or OT equivalent).
+5. Seed / write reverse-links with `method: "hand"` and `status: "seeded-hand"` (or OT equivalent). Never write `mapped` from a seed script.
 6. Spot-check hard phrases. Report: phrase range, hand/auto totals, uncovered tokens, spine defects. Do not silently “fix” spine lemmas unless asked.
+7. Human map acceptance is Translator **Accept map** → `status: mapped`. Do not bulk-flip `seeded-*` → `mapped`/`hand`.
 
 Do not invent Spanish. Do not pull the next clause into the current phrase.
 

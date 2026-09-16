@@ -175,6 +175,7 @@ const alignmentEditor = document.querySelector("#alignment-editor");
 const alignmentReference = document.querySelector("#alignment-reference");
 const alignmentProgress = document.querySelector("#alignment-progress");
 const alignmentSpanishContext = document.querySelector("#alignment-spanish-context");
+const alignmentMapPairs = document.querySelector("#alignment-map-pairs");
 const alignmentUnitLabel = document.querySelector("#alignment-unit-label");
 const cancelAlignmentEdit = document.querySelector("#cancel-alignment-edit");
 const saveAlignmentEdit = document.querySelector("#save-alignment-edit");
@@ -1224,7 +1225,7 @@ function renderBookWorkflow(payload) {
     : `${tr} · ${payload.progress?.verses || 0} verses`;
   workflowAlignmentState.textContent = alignmentDone
     ? `Approved by ${row.alignment_by} on ${row.alignment_on}`
-    : `${alignmentRemaining ? "not ready" : al} · ${alignment.hand || 0} hand phrases, ${alignmentRemaining} phrases / ${editableUnitsRemaining} units remaining`;
+    : `${alignmentRemaining ? "not ready" : al} · ${alignment.hand || 0} mapped phrases, ${alignmentRemaining} phrases / ${editableUnitsRemaining} units remaining`;
 
   setWorkflowStep("workflow-translate", ["ready", "done"].includes(tr) ? "complete" : "active");
   setWorkflowStep("workflow-verify-translation", ["ready", "done"].includes(tr) ? "complete" : (tr === "draft" || tr === "none" ? "active" : "locked"));
@@ -1290,8 +1291,8 @@ function renderBookWorkflow(payload) {
     "verify-translation": "Translation work is saved. Run the canonical verifier.",
     "approve-translation": "Translation passed verification. Human approval is next.",
     align: `Review and confirm the ${alignmentRemaining} unfinished alignment phrases before verification.`,
-    "verify-alignment": "Translation is approved. Finish the hand alignment, then verify it.",
-    "approve-alignment": "Alignment passed verification. Human approval is next.",
+    "verify-alignment": "Translation is approved. Accept every phrase map, then verify.",
+    "approve-alignment": "Alignment passed verification. Map-acceptance approval is next.",
     commit: "Both stages are approved. Review and commit this book before export.",
     export: "The book is finished. Export the validated package.",
     publish: "The package is current. Prepare its local publisher branch.",
@@ -1418,8 +1419,13 @@ function openWorkflowApproval(stage) {
   state.approvalStage = stage;
   const label = stage === "translation" ? "translation" : "alignment";
   workflowApprovalTitle.textContent = `Approve ${label}`;
-  workflowApprovalCopy.textContent = `Verification passed. This records your name and today's date in STATUS.md for this book's ${label}.`;
-  workflowConfirmationCopy.textContent = `I personally reviewed the complete ${label} and approve it.`;
+  if (stage === "alignment") {
+    workflowApprovalCopy.textContent = "Verification passed. This records map acceptance (STATUS.md). It does not claim you read Hebrew or Greek.";
+    workflowConfirmationCopy.textContent = "I accept this book's alignment maps after integrity review (Spanish ↔ source/gloss pairings).";
+  } else {
+    workflowApprovalCopy.textContent = `Verification passed. This records your name and today's date in STATUS.md for this book's ${label}.`;
+    workflowConfirmationCopy.textContent = `I personally reviewed the complete ${label} and approve it.`;
+  }
   workflowHumanConfirmation.checked = false;
   workflowApprovalMessage.textContent = "";
   workflowApprovalModal.hidden = false;
@@ -1721,16 +1727,22 @@ function renderSpanishUnits() {
     } else {
       const status = entry?.status || "seeded";
       reverseLinksMeta.hidden = false;
-      if (status === "seeded-hand") {
-        reverseLinksMeta.textContent = "Seeded links — not human-confirmed. Review and confirm this entire phrase.";
+      if (status === "mapped") {
+        reverseLinksMeta.textContent = "Map accepted (integrity). Not a Hebraist/Hellenist stamp.";
+      } else if (status === "hand" || status === "manual" || status === "manual-realign") {
+        reverseLinksMeta.textContent = "Finished phrase status (source walk or legacy).";
+      } else if (status === "seeded-hand") {
+        reverseLinksMeta.textContent = "Seeded map — review Spanish ↔ gloss/Strong's pairings, then Accept map.";
       } else if (status === "gloss-seed") {
-        reverseLinksMeta.textContent = "Gloss-seed links — click a Spanish unit to highlight Hebrew/Aramaic; hand-refine before trusting.";
+        reverseLinksMeta.textContent = "Gloss-seed links — click a Spanish unit to highlight Hebrew/Aramaic; refine before accepting the map.";
       } else if (status === "seeded-ai") {
-        reverseLinksMeta.textContent = "AI-seeded (lemma+morph) — click to highlight; confirm before trusting.";
+        reverseLinksMeta.textContent = "AI-seeded (lemma+morph) — click to highlight; accept map only after pairing review.";
       } else if (status === "seeded-ai-invalid" || status === "seeded-ai-error") {
-        reverseLinksMeta.textContent = "AI seed needs repair — do not trust these links yet.";
+        reverseLinksMeta.textContent = "AI seed needs repair — do not accept this map yet.";
+      } else if (status === "in-progress") {
+        reverseLinksMeta.textContent = "Map edit in progress — finish units, then Accept map.";
       } else {
-        reverseLinksMeta.textContent = "Auto-zip links — weak; prefer AI/hand review.";
+        reverseLinksMeta.textContent = "Unfinished seed/auto links — refine, then Accept map (never bulk-flip).";
       }
     }
   }
@@ -1777,9 +1789,71 @@ function closeAlignmentEditor() {
   document.body.classList.remove("alignment-editing");
   alignmentEditor.hidden = true;
   state.alignmentEditTokenIds = new Set();
+  if (alignmentMapPairs) alignmentMapPairs.replaceChildren();
   phraseInterlinear.querySelectorAll(".alignment-token-toggle").forEach(button => {
     button.setAttribute("aria-pressed", "false");
     button.textContent = "Link";
+  });
+}
+
+function sourceTokenDisplay(tokenId) {
+  const row = (currentPhrase()?.tokenRows || []).find(item => String(item.sourceTokenId || "") === String(tokenId));
+  if (!row) return String(tokenId || "—");
+  const surface = row.greek || row.surface || row.hebrew || "—";
+  const gloss = row.ble || row.es || "";
+  const strongs = row.strongs || "";
+  const bits = [surface];
+  if (gloss) bits.push(gloss);
+  if (strongs) bits.push(strongs);
+  return bits.join(" · ");
+}
+
+function renderMapPairingReview() {
+  if (!alignmentMapPairs) return;
+  alignmentMapPairs.replaceChildren();
+  const entry = currentReverseLinkEntry();
+  const units = Array.isArray(entry?.units) ? entry.units : [];
+  if (!units.length) {
+    const empty = document.createElement("p");
+    empty.className = "reverse-links-meta";
+    empty.textContent = "No units to review on this phrase.";
+    alignmentMapPairs.append(empty);
+    return;
+  }
+  units.forEach(unit => {
+    const row = document.createElement("button");
+    row.type = "button";
+    row.className = "alignment-map-pair";
+    if (state.activeReverseUnitId && state.activeReverseUnitId === unit.unitId) {
+      row.classList.add("is-active");
+    }
+    row.dataset.unitId = unit.unitId || "";
+    const spanish = document.createElement("div");
+    spanish.className = "alignment-map-pair-spanish";
+    spanish.textContent = unit.surface || "—";
+    const source = document.createElement("div");
+    source.className = "alignment-map-pair-source";
+    const ids = unit.sourceTokenIds || [];
+    if (!ids.length) {
+      source.textContent = "No source tokens";
+    } else {
+      ids.forEach((id, index) => {
+        if (index) source.append(document.createElement("br"));
+        const strong = document.createElement("strong");
+        strong.textContent = sourceTokenDisplay(id);
+        source.append(strong);
+      });
+    }
+    row.append(spanish, source);
+    row.addEventListener("click", () => {
+      state.activeReverseUnitId = String(unit.unitId || "");
+      spanishUnits.querySelectorAll(".spanish-unit").forEach(node => {
+        node.classList.toggle("is-active", node.dataset.unitId === state.activeReverseUnitId);
+      });
+      highlightGreekTokenIds(unit.sourceTokenIds || []);
+      beginAlignmentEdit(unit);
+    });
+    alignmentMapPairs.append(row);
   });
 }
 
@@ -1796,7 +1870,7 @@ async function openNextAlignmentWork({ fromPhraseIndex = -1 } = {}) {
   const pending = pendingAlignmentWork();
   if (!pending.length) {
     workflowSummary.dataset.state = "ready";
-    workflowSummary.textContent = "All editable units are hand-aligned. Run Verify alignment.";
+    workflowSummary.textContent = "All phrases have an accepted map. Run Verify alignment.";
     return false;
   }
   const target = pending.find(item => item.phraseIndex >= fromPhraseIndex) || pending[0];
@@ -1835,9 +1909,10 @@ function beginAlignmentEdit(unit) {
   alignmentSpanishContext.textContent = phraseDisplayText(currentPhrase()) || "—";
   alignmentUnitLabel.textContent = unit.surface || unit.unitId || "selected unit";
   reverseLinksMeta.hidden = false;
-  reverseLinksMeta.textContent = "Select a Spanish unit to inspect its source link.";
+  reverseLinksMeta.textContent = "Review pairings below. Fix wrong links, then Accept map.";
   alignmentEditor.hidden = false;
   document.body.classList.add("alignment-editing");
+  renderMapPairingReview();
   phraseInterlinear.querySelectorAll(".alignment-token-toggle").forEach(button => {
     const selected = state.alignmentEditTokenIds.has(button.dataset.sourceTokenId || "");
     button.setAttribute("aria-pressed", selected ? "true" : "false");
@@ -1905,7 +1980,7 @@ async function confirmCurrentAlignmentPhrase() {
     await loadReverseLinks();
     renderSpanishUnits();
     await loadBookWorkflow();
-    setPhraseSaveStatus("Phrase hand-confirmed", "saved");
+    setPhraseSaveStatus("Map accepted for this phrase", "saved");
     await openNextAlignmentWork({ fromPhraseIndex: completedTranslationIndex + 1 });
   } finally {
     confirmAlignmentPhrase.disabled = false;

@@ -46,9 +46,46 @@ A book is finished only when translation and alignment are both `done`.
 Machine-produced Spanish or alignment stays `draft`.
 
 For alignment, unit-level `method: hand` is not enough. Every link must also
-carry a human-confirmed link status (`hand`, `manual`, or `manual-realign`).
+carry a finished link status:
+
+| Link status | Meaning |
+| --- | --- |
+| `mapped` | Map integrity accepted in Translator: Spanish reconstructs, units have source tokens, pairings reviewed against source surface + gloss/Strong's. Does **not** claim independent Hebrew/Greek competence. |
+| `hand`, `manual`, `manual-realign` | Source-walked (or legacy equivalent). Still finished for `ready`. |
+
 Statuses such as `seeded-hand`, `seeded-auto`, or `seeded-ai` are unfinished
-and block `ready`, approval, commit, and export.
+and block `ready`, approval, commit, and export. Never bulk-flip those to
+`mapped` or `hand`.
+
+Translator's phrase confirm writes `mapped` only. For books that already pass
+structural map integrity (Spanish reconstructs, full token coverage, no
+auto/gloss), the owner who does not read Hebrew/Greek may instead run:
+
+```sh
+python3 tools/audit_map_integrity.py {book}
+python3 tools/audit_map_integrity.py {book} --accept-maps
+```
+
+That writes `mapped` only on structurally green phrases after an explicit
+confirmation. It is map integrity acceptance, not source-language review.
+Never bulk-edit JSON to flip statuses without that audit.
+
+Books that use `mapped` must also pass an AI alignment audit before
+alignment may stay `ready` / `done`:
+
+```sh
+python3 tools/audit_alignment_ai.py {book}
+```
+
+The audit writes `alignment/{nt|ot}/{book}/{book}-ai-alignment-audit.json`.
+`verdict` must be `pass`, every phrase covered, zero `fail`/`error`.
+Warnings are allowed. This is gloss-assisted AI verification, not a Hebraist
+stamp. Legacy `hand` / `manual` books without `mapped` are not forced through
+it until an audit file exists.
+
+`alignment_by` / `alignment_on` on `done` record **map acceptance**, not
+Hebraist review. Optional source-language review may be noted as
+`source-reviewed: Name YYYY-MM-DD` in the book's STATUS notes.
 
 If a `ready` file fails the checks, `verify.py` returns it to `draft`.
 If a `done` file changes, clear that signature yourself. It returns to `draft`.

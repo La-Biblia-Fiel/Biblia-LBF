@@ -72,11 +72,13 @@ Prohibido:
 
 `method` debe ser `hand` (o una razón explícita de no cubierto).
 Cero `auto-zip`. Cero `gloss-match`. Cero frases sin caminar presentadas como listas.
-Además, la frase debe tener estado humano `hand`, `manual` o
-`manual-realign`. `seeded-hand` sigue siendo una semilla, no una revisión
-humana, aunque sus unidades lleven `method: hand`.
+Además, la frase debe tener estado terminado: `mapped` (aceptación de
+integridad del mapa en Translator), o `hand` / `manual` /
+`manual-realign` (caminata fuente / legado). `seeded-hand` sigue siendo una
+semilla, no un mapa aceptado, aunque sus unidades lleven `method: hand`.
+Prohibido el volcado masivo `seeded-*` → `mapped` / `hand`.
 
-Tito hoy tiene 72 frases `auto-zip`. Eso no es alineación terminada.
+Tito hoy tiene frases `auto-zip` / semillas. Eso no es alineación terminada.
 
 ## Comprobar
 
@@ -119,11 +121,35 @@ rama del publicador** requiere otra confirmación explícita y llama únicamente
 Translator no llama a ese estado «publicado»: el paso siguiente permanece
 abierto hasta que la rama se empuje y el PR se fusione en `cgv-data/main`.
 
-En la etapa de alineación, **Continuar alineación** abre la primera frase no
-confirmada. Revise cada unidad contra los tokens de fuente, corrija cualquier
-enlace incorrecto y pulse **Confirmar frase completa**. Esa acción humana marca
-como `hand` solamente las unidades visibles y el estado de esa frase, y avanza a la
-siguiente; nunca confirma un libro entero ni ejecuta autoalineación.
+En la etapa de alineación hay dos caminos honestos (ninguno exige hebreo/griego):
+
+1. **Translator** — **Continuar alineación** abre frases sin mapa aceptado.
+   Revise el panel español ↔ superficie/glosa, corrija enlaces rotos y pulse
+   **Aceptar mapa y siguiente** (`status: mapped` frase a frase).
+2. **Auditoría estructural** — cuando el libro ya reconstruye el español y
+   cubre todos los tokens (sin auto/gloss):
+
+```sh
+python3 tools/audit_map_integrity.py {libro}
+python3 tools/audit_map_integrity.py {libro} --accept-maps
+```
+
+Eso acepta de una vez solo las frases **green**. No es un volcado ciego de
+`seeded-*`: exige cero rojos y confirmación explícita del slug.
+
+Después, la verificación léxica la hace la IA (Ollama), no un hebraísta:
+
+```sh
+python3 tools/audit_alignment_ai.py {libro}
+```
+
+Sin `verdict: pass` (todas las frases, cero fail/error) el libro con estados
+`mapped` no puede quedar `ready`/`done`. Corrija las frases fallidas y
+vuelva a correr con `--resume`.
+
+La firma `alignment_by` en `done` es aceptación del mapa; una revisión de
+lengua fuente, si la hay, va en las notas (`source-reviewed: …`).
+Esperar a un hebraísta **no** es requisito para terminar el mapa.
 
 ## Publicar
 

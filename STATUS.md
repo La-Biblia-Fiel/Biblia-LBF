@@ -83,4 +83,4 @@ Signed columns stay empty until a human writes a name and an ISO date.
 
 Nehemiah 7:68: OSHB/WLC has no source for this Protestant label (WLC Neh 7:68 is Protestant 7:69). First-pass may draft it only from Ezra 2:66 OSHB after explicit confirmation. Still draft until second-pass review. Apocalipsis Spanish: later TR revision accepted. Zacarías 11:2: `el cedro` already applied.
 
-Zacarías alignment (2026-09-15): false `done` cleared. All 211 links are `seeded-hand` from `seed_zacarias_reverse_links.py` — real phrase maps, but never confirmed in Translator. Translation signature kept. Next: walk phrases through Translator confirmation (no bulk status flip). Same class of gap: Titus (`seeded-auto`/`seeded-hand`), 1 Juan (`seeded-hand`). Judas is the clean contrast (`manual`).
+Zacarías alignment (2026-09-16): structural map accept done (211 `mapped`). Alignment `ready` now requires AI lexical audit: `python3 tools/audit_alignment_ai.py zacarias` → `{book}-ai-alignment-audit.json` with `verdict: pass`. Hebraist review remains optional (`source-reviewed:`), not a gate.

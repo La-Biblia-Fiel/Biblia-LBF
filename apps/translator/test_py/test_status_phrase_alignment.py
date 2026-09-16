@@ -64,7 +64,7 @@ class PhraseAlignmentStatusTests(unittest.TestCase):
                     ["sample 1:1: units do not reconstruct Spanish"],
                 )
 
-    def test_seeded_hand_units_are_not_human_confirmed(self):
+    def test_seeded_hand_units_are_not_map_accepted(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             self.write_book(root, link_status="seeded-hand")
@@ -74,9 +74,37 @@ class PhraseAlignmentStatusTests(unittest.TestCase):
                     [
                         "sample: alignment still has auto=0 gloss=0 unwalked=0 "
                         "unconfirmed=2 other=0",
-                        "sample: alignment has no hand units",
+                        "sample: alignment has no finished map units",
                     ],
                 )
+
+    def test_mapped_status_passes_when_spanish_reconstructs(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            self.write_book(root, link_status="mapped")
+            audit = {
+                "bookId": "sample",
+                "verdict": "pass",
+                "summary": {"pass": 2, "warn": 0, "fail": 0, "error": 0},
+                "phrases": [
+                    {"phraseIndex": 0, "verdict": "pass", "issues": []},
+                    {"phraseIndex": 1, "verdict": "pass", "issues": []},
+                ],
+            }
+            (root / "alignment" / "nt" / "sample" / "sample-ai-alignment-audit.json").write_text(
+                json.dumps(audit),
+                encoding="utf-8",
+            )
+            with patch.object(status, "ROOT", root):
+                self.assertEqual(status.alignment_errors("sample", "nt", 1), [])
+
+    def test_mapped_without_ai_audit_is_rejected(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            self.write_book(root, link_status="mapped")
+            with patch.object(status, "ROOT", root):
+                errors = status.alignment_errors("sample", "nt", 1)
+                self.assertTrue(any("AI alignment audit" in err for err in errors))
 
 
 if __name__ == "__main__":

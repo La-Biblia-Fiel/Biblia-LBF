@@ -88,7 +88,11 @@ REF_IN_LINK = re.compile(r"(\d+):(\d+)")
 AUTO_METHODS = {"auto", "auto-zip"}
 GLOSS_METHODS = {"gloss", "gloss-match", "gloss-seed", "verse-span-resynchronization"}
 HAND_METHODS = {"hand", "manual", "manual-realign"}
-HAND_LINK_STATUSES = {"hand", "manual", "manual-realign"}
+# Finished phrase statuses. `mapped` = map-integrity acceptance in Translator
+# (Spanish + gloss/Strong's pairing). `hand`/`manual`/`manual-realign` =
+# source walk or legacy. Seeded-* statuses remain unfinished.
+FINISHED_LINK_STATUSES = {"mapped", "hand", "manual", "manual-realign"}
+HAND_LINK_STATUSES = FINISHED_LINK_STATUSES  # alias for older callers
 CHECKED_STATES = {"ready", "done"}
 
 
@@ -150,10 +154,9 @@ def alignment_counts(path: Path) -> dict[str, int]:
             counts["auto"] += 1
         elif any(method in GLOSS_METHODS for method in methods):
             counts["gloss"] += 1
-        elif status not in HAND_LINK_STATUSES:
-            # Unit-level `method: hand` is not a human review signature.
-            # Seeded links become hand-confirmed only through explicit phrase
-            # confirmation in Translator (or an equivalent manual edit).
+        elif status not in FINISHED_LINK_STATUSES:
+            # Unit-level `method: hand` is not finished. Seeded links become
+            # `mapped` only through explicit phrase map-acceptance in Translator.
             counts["unconfirmed"] += 1
         elif all(method in HAND_METHODS for method in methods):
             counts["hand"] += 1
@@ -170,6 +173,52 @@ def translation_errors(book: str, testament: str, expected: int | None) -> list[
     if expected is not None and len(verses) != expected:
         return [f"{book}: translation verses are {len(verses)}, expected {expected}"]
     return []
+
+
+def ai_alignment_audit_path(book: str, testament: str) -> Path:
+    return ROOT / "alignment" / testament / book / f"{book}-ai-alignment-audit.json"
+
+
+def ai_alignment_audit_errors(book: str, testament: str, link_count: int) -> list[str]:
+    """Require a passing AI alignment audit covering every phrase."""
+    path = ai_alignment_audit_path(book, testament)
+    if not path.is_file():
+        return [
+            f"{book}: missing AI alignment audit "
+            f"(run: python3 tools/audit_alignment_ai.py {book})"
+        ]
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return [f"{book}: AI alignment audit is not valid JSON"]
+    errors: list[str] = []
+    if str(data.get("verdict") or "") != "pass":
+        summary = data.get("summary") or {}
+        errors.append(
+            f"{book}: AI alignment audit verdict is {data.get('verdict')!r} "
+            f"(fail={summary.get('fail', '?')} error={summary.get('error', '?')})"
+        )
+    phrases = data.get("phrases") or []
+    covered = {
+        int(row["phraseIndex"])
+        for row in phrases
+        if isinstance(row, dict) and "phraseIndex" in row
+    }
+    if link_count and len(covered) < link_count:
+        errors.append(
+            f"{book}: AI alignment audit covers {len(covered)} phrases, expected {link_count}"
+        )
+    bad = [
+        row
+        for row in phrases
+        if isinstance(row, dict) and str(row.get("verdict") or "") in {"fail", "error"}
+    ]
+    if bad:
+        sample = ", ".join(
+            f"{row.get('phraseIndex')}:{row.get('reference') or '?'}" for row in bad[:5]
+        )
+        errors.append(f"{book}: AI alignment audit still has fail/error phrases ({sample})")
+    return errors
 
 
 def alignment_errors(book: str, testament: str, expected: int | None) -> list[str]:
@@ -196,7 +245,7 @@ def alignment_errors(book: str, testament: str, expected: int | None) -> list[st
             f"other={counts['other']}"
         )
     if counts["hand"] == 0:
-        errors.append(f"{book}: alignment has no hand units")
+        errors.append(f"{book}: alignment has no finished map units")
 
     verses = parse_verses(translation_path(book, testament))
     links_by_verse: dict[tuple[int, int], list[dict]] = {}
@@ -234,6 +283,13 @@ def alignment_errors(book: str, testament: str, expected: int | None) -> list[st
     if missing:
         shown = ", ".join(f"{ch}:{vs}" for ch, vs in missing[:5])
         errors.append(f"{book}: alignment missing verses {shown}")
+
+    # AI lexical check: required for the `mapped` finish path (non-Hebraist owner).
+    # Legacy hand/manual books stay valid without an audit until one is written.
+    link_statuses = {str(link.get("status") or "") for link in links}
+    audit_file = ai_alignment_audit_path(book, testament)
+    if "mapped" in link_statuses or audit_file.is_file():
+        errors.extend(ai_alignment_audit_errors(book, testament, len(links)))
     return errors
 
 
