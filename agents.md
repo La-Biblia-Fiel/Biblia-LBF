@@ -15,7 +15,9 @@ phase, and validation procedure.
 When two copies differ, stop. Do not choose by timestamp, file size,
 apparent completeness, or Git history alone.
 
-Spanish lives in `translation/`. Alignment lives in `alignment/`.
+Spanish lives in `translation/`. Proper-name orthography:
+`translation/PROPER_NAMES.md` (Hebraize names only; Génesis `done` authority).
+Alignment lives in `alignment/`.
 Finished lives only in `STATUS.md`. States: `none` | `draft` | `ready` | `done`.
 `python3 tools/verify.py` may write `ready`. Never infer `done`.
 Translator may record `done` only after the user explicitly activates its

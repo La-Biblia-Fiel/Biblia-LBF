@@ -19,7 +19,8 @@ FREEZE — do not change:
   2pl stays Latin American ustedes, never vosotros)
 - conjunction sense
 - draft uncertainties
-- chosen readable names
+- locked proper names (translation/PROPER_NAMES.md; do not Spanishize
+  Yaakov→Jacob or dump Mitsráyim/Elohím)
 
 ALLOWED:
 - grammar, agreement, punctuation, sequence of tenses

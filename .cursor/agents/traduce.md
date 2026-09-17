@@ -29,6 +29,9 @@ GPT-5.6. Do not default to Claude, Grok, or Ollama.
 - Dual/open morphology stays open. Stem force stays.
 - **Spanish:** current Latin American (`tú` / *ustedes*). Never Spain *vosotros*.
   Live birth: `dar a luz`, never archaic `parir`.
+- **Proper names:** Hebraize names only per `translation/PROPER_NAMES.md`
+  (Génesis `done` authority). יהוה → Jehová; אלהים as God → Dios. No
+  lemma dumps; no Jacob/Egipto/José when the table locks Yaakov/Mizraim/Yosef.
 - JSON only: `spanish`, `units` with `sourceTokenIds`, `uncertainties`,
   `addedConcepts: []`.
 - Do not write `translation/*.md` or `STATUS.md`.

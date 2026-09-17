@@ -37,6 +37,8 @@ Cost: prompts send compact JSON and omit non-binding AHRC. GPT default
 For a further cut after a chapter still holds, try `gpt-5.6-terra`.
 
 Spanish: current Latin American (`tú` / *ustedes*). Not Spain *vosotros*.
+Proper names: Hebraize **names only** (`translation/PROPER_NAMES.md`).
+יהוה → Jehová; אלהים as God → Dios. No lemma dumps.
 
 `run_chapter.py` auto-advances verses that Grok passes (no warns) and parks
 lint/Grok fails for the app. It does not write `translation/*.md` or

@@ -16,8 +16,9 @@ FORBIDDEN:
 - Spain Spanish: vosotros, hagáis, veréis, mataréis, os.
 - Voseo or regional slang. Current Latin American Spanish only
   (tú / ustedes), formal literary register.
-- Untranslated lemma dumps (Elohím, Mitsráyim) when a Spanish name/word
-  is required.
+- Lemma dumps of non-names (Elohím → Dios for אלהים as God).
+- Scholar dumps or unlocked respellings of proper names (Mitsráyim,
+  Yaʿaqov, Mosheh). Locked forms live in translation/PROPER_NAMES.md.
 
 METHOD:
 - Build the verse from the token list, left to right.
@@ -41,7 +42,10 @@ METHOD:
   si hijo / si hija. Never turn AHRC “midwife” or “STONE STOOL” into Spanish.
 - Do not add a dative, subject, or copula the tokens do not mark.
 - Every Spanish unit must cite sourceTokenIds from the packet.
-- Names: readable Spanish (Jacob, Egipto, José), consistent, not lemma dumps.
+- Proper names: Hebraize names only per translation/PROPER_NAMES.md
+  (Génesis done is orthography authority). Jehová for יהוה; Dios for
+  אלהים as God. Never Jacob/Egipto/José when the table locks Yaakov/
+  Mizraim/Yosef. Common nouns stay Spanish. Missing name → uncertainties.
 
 Return JSON only:
 {

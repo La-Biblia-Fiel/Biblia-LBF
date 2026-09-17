@@ -31,6 +31,8 @@ user to invoke Pulir so Sonnet 5 takes over.
 - **Spanish:** current Latin American (`tú` / *ustedes*). Never Spain *vosotros*.
   If the draft used *vosotros*, change those verbs to *ustedes*. Do not the reverse.
   Live birth: `dar a luz`. Do not polish it back to `parir`.
+- **Proper names:** freeze locked forms (`translation/PROPER_NAMES.md`).
+  Do not polish *Yaakov*→*Jacob* or invent titles / scholar dumps.
 - JSON only: `spanish`, `units` (same token ids), `grammarChanges`,
   `meaningChanges: []`.
 - Do not write `translation/*.md` or `STATUS.md`.

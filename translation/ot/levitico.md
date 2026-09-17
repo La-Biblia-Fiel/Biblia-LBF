@@ -1,6 +1,6 @@
 # Levítico
 
-> La Biblia Fiel — Levítico. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> La Biblia Fiel — Levítico. Segunda pasada contra OSHB / WLC en curso (voz Génesis). Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
@@ -1727,953 +1727,960 @@ para enseñar en día del impuro y en día del puro; esta torá de la tsaráat.
 
 ### 15:1
 
-Y el SEÑOR habló a Moisés y a Aarón, diciendo:
+Y habló Jehová a Moisés y a Aarón, diciendo:
 
 ### 15:2
 
-Hablad a los hijos de Israel y decidle: Cualquiera que tenga flujo de su carne, su flujo será impuro.
+Hablen a hijos de Israel, y dirán a ellos: Varón varón, cuando fuere fluente desde su carne, su flujo impuro él.
 
 ### 15:3
 
-Y esto será su impureza en su flujo: la carne de su cuerpo se despega de su flujo o hay en su carne una erupción de su flujo, su impureza será.
+Y esta será su impureza en su flujo: destilando su carne su flujo, o selló su carne desde su flujo, su impureza ella.
 
 ### 15:4
 
-Todo lecho sobre el cual el que tiene flujo se acueste será impuro, y todo utensilio sobre el cual el que tiene flujo se siente será impuro.
+Todo el lecho que se acueste sobre él el fluente se impurecerá, y todo el utensilio que se siente sobre él se impurecerá.
 
 ### 15:5
 
-Y cualquiera que toque su lecho, lavará sus vestidos y se bañará en agua y será impuro hasta la tarde.
+Y varón que tocare en su lecho lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:6
 
-Y cualquiera que se siente sobre el utensilio sobre el cual el que tiene flujo se sentó, lavará sus vestidos y se bañará en agua y será impuro hasta la tarde.
+Y el sentante sobre el utensilio que se sentó sobre él el fluente lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:7
 
-Y cualquiera que toque la carne del que tiene flujo, lavará sus vestidos y se bañará en agua y será impuro hasta la tarde.
+Y el tocante en carne del fluente lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:8
 
-Y si el que tiene flujo se sienta limpio, lavará sus vestidos y se bañará en agua y será impuro hasta la tarde.
+Y cuando escupiere el fluente en el puro, y lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:9
 
-Y todo vehículo sobre el cual el que tiene flujo se sienta será impuro.
+Y toda la montura que montare sobre ella el fluente se impurecerá.
 
 ### 15:10
 
-Y todo lo que toque todo aquello que esté debajo de él quedará impuro hasta la tarde. Y el que lo lleve lavará sus vestidos y se bañará en agua y quedará impuro hasta la tarde.
+Y todo el tocante en todo lo que fuere debajo de él se impurecerá hasta la tarde, y el alzante a ellos lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:11
 
-Y todo lo que toque al que tiene flujo y no haya lavado sus manos en agua, lavará sus vestidos y se bañará en agua y quedará impuro hasta la tarde.
+Y todo al que tocare en él el fluente, y sus manos no enjuagó en las aguas, y lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:12
 
-Y todo utensilio de arcilla que toque el que tiene flujo será roto, y todo utensilio de madera se lavará en agua.
+Y utensilio de barro que tocare en él el fluente será quebrado, y todo utensilio de madera será enjuagado en las aguas.
 
 ### 15:13
 
-Y cuando el que tiene flujo se purifique de su flujo, contará siete días para su purificación y lavará sus vestidos y se bañará en agua viva y quedará limpio.
+Y cuando se purificare el fluente desde su flujo, y contará a él siete días a su purificación, y lavará sus vestidos, y lavará su carne en aguas vivas, y será puro.
 
 ### 15:14
 
-Y al octavo día tomará dos tordos o dos palomas y vendrá ante el SEÑOR al atrio de la tienda de reunión y las entregará al sacerdote.
+Y en el día el octavo tomará a él dos tórtolas o dos hijos de paloma, y vendrá delante de Jehová a abertura de tienda de reunión, y los dará al sacerdote.
 
 ### 15:15
 
-Y el sacerdote hará uno de ellos por pecado y el otro por holocausto y hará expiación por él ante el SEÑOR por su flujo.
+Y hará a ellos el sacerdote, uno pecado y el uno holocausto, y expiará sobre él el sacerdote delante de Jehová desde su flujo.
 
 ### 15:16
 
-Y cuando un hombre eyaculara, se lavará en agua su cuerpo y quedará impuro hasta la tarde.
+Y varón, cuando saliere desde él yacimiento de semilla, y lavará en las aguas toda su carne, y se impurecerá hasta la tarde.
 
 ### 15:17
 
-Y todo vestido y todo cuero en que haya eyaculación quedará impuro hasta la tarde.
+Y todo vestido y toda piel que fuere sobre él yacimiento de semilla, y será lavado en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:18
 
-Y la mujer a quien un hombre eyaculara, se lavarán ambos en agua y quedará impura hasta la tarde.
+Y mujer que se acostare varón con ella yacimiento de semilla, y se lavarán en las aguas, y se impurecerán hasta la tarde.
 
 ### 15:19
 
-Y la mujer que tuviera flujo de sangre, siete días será su flujo de sangre en su carne, y siete días quedará en su impureza de sangre, y todo lo que toque a ella quedará impuro hasta la tarde.
+Y mujer, cuando fuere fluente, sangre será su flujo en su carne, siete días será en su menstruación, y todo el tocante en ella se impurecerá hasta la tarde.
 
 ### 15:20
 
-Y todo lo que toque a ella en su impureza quedará impuro, y todo lo que ella toque quedará impuro.
+Y todo lo que se acueste sobre él en su menstruación se impurecerá, y todo lo que se siente sobre él se impurecerá.
 
 ### 15:21
 
-Y todo lo que toque a su lecho quedará impuro, y el que lo toque lavará sus vestidos y se bañará en agua y quedará impuro hasta la tarde.
+Y todo el tocante en su lecho lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:22
 
-Y todo lo que toque a ella en su lecho o en su asiento quedará impuro, y el que lo toque lavará sus vestidos y se bañará en agua y quedará impuro hasta la tarde.
+Y todo el tocante en todo utensilio que se siente sobre él lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:23
 
-Y si toca su lecho o su asiento, quedará impuro hasta la tarde.
+Y si sobre el lecho él o sobre el utensilio que ella sentante sobre él, en su tocar en él se impurecerá hasta la tarde.
 
 ### 15:24
 
-Y si un hombre se acuesta con ella, y ella está en su impureza, quedará impuro siete días, y todo lecho sobre el cual se acueste quedará impuro.
+Y si acostando se acostare varón con ella, y fuere su menstruación sobre él, y se impurecerá siete días, y todo el lecho que se acueste sobre él se impurecerá.
 
 ### 15:25
 
-Y si una mujer tiene un flujo de sangre por muchos días, fuera del tiempo de su impureza, o si tiene un flujo de sangre en el tiempo de su impureza, todo el tiempo de su flujo de sangre será como el tiempo de su impureza; estará impura.
+Y mujer, cuando fluyere flujo de su sangre días muchos, no en tiempo de su menstruación, o cuando fluyere sobre su menstruación, todos días de flujo de su impureza como días de su menstruación será; impure ella.
 
 ### 15:26
 
-Todo lecho sobre el cual ella se acuesta durante todo el tiempo de su flujo de sangre será como el lecho de su impureza, y todo utensilio sobre el cual ella se sienta quedará impuro, como la impureza de su impureza.
+Todo el lecho que se acueste sobre él todos días de su flujo, como lecho de su menstruación será a ella, y todo el utensilio que se siente sobre él impuro será, como impureza de su menstruación.
 
 ### 15:27
 
-Y todo el que toque a ella quedará impuro, y lavará sus vestidos y se bañará en agua y quedará impuro hasta la tarde.
+Y todo el tocante en ellos se impurecerá, y lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.
 
 ### 15:28
 
-Y si se purifica de su flujo de sangre, contará siete días para sí misma, y después quedará pura.
+Y si se purificare desde su flujo, y contará a ella siete días, y después será pura.
 
 ### 15:29
 
-Y en el octavo día tomará dos tordos o dos palomas, y los llevará al sacerdote, a la entrada de la tienda de reunión.
+Y en el día el octavo tomará a ella dos tórtolas o dos hijos de paloma, y los traerá al sacerdote, a abertura de tienda de reunión.
 
 ### 15:30
 
-Y el sacerdote hará uno por un pecado y uno por un holocausto, y hará expiación por ella delante de Jehová por su flujo de sangre.
+Y hará el sacerdote el uno pecado y el uno holocausto, y expiará sobre ella el sacerdote delante de Jehová desde flujo de su impureza.
 
 ### 15:31
 
-Y separaréis a los hijos de Israel de su impureza, para que no mueran en su impureza por contaminar mi tabernáculo que está en medio de ellos.
+Y apartarán a hijos de Israel desde su impureza, y no morirán en su impureza, en impurecer ellos mi mishkán que en medio de ellos.
 
 ### 15:32
 
-Esta es la ley del que tiene flujo de sangre y de quien mana sangre de su cuerpo para ser impuro.
+Esta torá del fluente y del que saliere desde él yacimiento de semilla para impurecerse en ella,
 
 ### 15:33
 
-Y la que tiene flujo de sangre y el que tiene flujo de sangre, tanto el varón como la mujer, y el varón que se acuesta con una mujer impura.
+y de la enferma en su menstruación, y del fluente su flujo, al macho y a la hembra, y al varón que se acostare con impura.
 
 ## Capítulo 16
 
 ### 16:1
 
-Y el SEÑOR habló a Moisés después de la muerte de los dos hijos de Aarón, cuando se acercaron ante el SEÑOR y murieron.
+Y habló Jehová a Moisés después de muerte de dos hijos de Aarón, en su acercarse delante de Jehová, y murieron.
 
 ### 16:2
 
-Y el SEÑOR dijo a Moisés: Habla a Aarón, tu hermano, y no entre en el santuario en cualquier momento, ante el velo, ante la propiciatoria que está sobre el arca, para que no muera, porque yo me apareceré en la nube sobre la propiciatoria.
+Y dijo Jehová a Moisés: Habla a Aarón tu hermano, y no entre en todo tiempo al santo, desde casa a la parójet, a faces de la kappóret que sobre el arca, y no muera, porque en la nube seré visto sobre la kappóret.
 
 ### 16:3
 
-Con esto entrará Aarón al santuario, con un becerro de toro para el pecado y un carnero para holocausto.
+Con esto entrará Aarón al santo: con toro hijo de ganado a pecado, y carnero a holocausto.
 
 ### 16:4
 
-Se pondrá una túnica de lino, y tendrá calzones de lino sobre su carne, y se cinturará con un cinto de lino, y se cubrirá la cabeza con un turbante de lino. Son vestidos de santidad. Y lavará su carne con agua y se pondrá estos.
+Túnica de lino de santidad vestirá, y calzones de lino serán sobre su carne, y con cinto de lino se ceñirá, y con turbante de lino se envolverá; vestidos de santidad ellos. Y lavará en las aguas su carne, y los vestirá.
 
 ### 16:5
 
-Y tomará de la congregación de los hijos de Israel dos cabritos para el pecado y un carnero para holocausto.
+Y desde congregación de hijos de Israel tomará dos machos cabríos de cabras a pecado, y un carnero a holocausto.
 
 ### 16:6
 
-Y ofrecerá Aarón el becerro del pecado que es para él, y hará expiación por él y por su casa.
+Y acercará Aarón el toro del pecado que a él, y expiará por él y por su casa.
 
 ### 16:7
 
-Y tomará los dos cabritos y los pondrá delante del SEÑOR en la entrada de la tienda de reunión.
+Y tomará los dos los machos cabríos, y los parará delante de Jehová, abertura de tienda de reunión.
 
 ### 16:8
 
-Y pondrá Aarón sobre los dos cabritos sortijas, una sortija para el SEÑOR y una sortija para Azazel.
+Y dará Aarón sobre los dos los machos cabríos suertes; suerte una a Jehová, y suerte una a Azazel.
 
 ### 16:9
 
-Y ofrecerá Aarón el cabrito sobre el cual ha caído la sortija para el SEÑOR, y hará expiación por él.
+Y acercará Aarón el macho cabrío sobre el cual subió sobre él la suerte a Jehová, y lo hará pecado.
 
 ### 16:10
 
-Y el cabrito sobre el cual ha caído la sortija para Azazel, lo pondrá vivo delante del SEÑOR para hacer expiación por él, para enviarlo al desierto a Azazel.
+Y el macho cabrío sobre el cual subió sobre él la suerte a Azazel, será parado vivo delante de Jehová para expiar sobre él, para enviar a él a Azazel al desierto.
 
 ### 16:11
 
-Y ofrecerá Aarón el becerro del pecado que es para él, y hará expiación por él y por su casa, y degollará el becerro del pecado que es para él.
+Y acercará Aarón el toro del pecado que a él, y expiará por él y por su casa, y degollará el toro del pecado que a él.
 
 ### 16:12
 
-Y tomará lleno el censer de carbones de fuego del altar delante del SEÑOR, y lleno el plato de incienso de especias finamente molida, y lo llevará desde el tabernáculo del testimonio.
+Y tomará lleno el incensario brasas de fuego de sobre el altar, de delante de Jehová, y lleno sus puños incienso de especias molida, y traerá desde casa a la parójet.
 
 ### 16:13
 
-Y pondrá la incienso sobre el fuego delante del SEÑOR, y el humo de la incienso cubrirá la tapa que está sobre el testimonio, y no morirá.
+Y dará el incienso sobre el fuego delante de Jehová, y cubrirá nube del incienso la kappóret que sobre el testimonio, y no morirá.
 
 ### 16:14
 
-Y tomará del sangre del novillo y la esparcirá con su dedo siete veces delante de la tapa, y delante de la tapa esparcirá la sangre siete veces con su dedo.
+Y tomará desde sangre del toro, y rociará en su dedo sobre faces de la kappóret kedmah; y delante de la kappóret rociará siete veces desde la sangre en su dedo.
 
 ### 16:15
 
-Y degollará el macho cabrío del pecado que es para el pueblo, y traerá su sangre al interior del velo, y hará con su sangre como hizo con la sangre del novillo, y la esparcirá sobre la tapa y delante de la tapa.
+Y degollará el macho cabrío del pecado que al pueblo, y traerá su sangre a desde casa a la parójet, y hará su sangre conforme a lo que hizo a sangre del toro, y rociará a ella sobre la kappóret y delante de la kappóret.
 
 ### 16:16
 
-Y hará expiación por el santuario por las impurezas de los hijos de Israel y por sus transgresiones y por todos sus pecados, y así hará por la tienda de reunión que habita con ellos en medio de sus impurezas.
+Y expiará sobre el santo desde inmundicias de hijos de Israel y desde sus rebeliones, a todos sus pecados; y así hará a tienda de reunión la habitante con ellos en medio de sus inmundicias.
 
 ### 16:17
 
-Y ningún hombre estará en la tienda de reunión cuando entre para hacer expiación en el santuario, hasta que salga. Y hará expiación por él y por su casa y por todo el pueblo de Israel.
+Y todo adam no será en tienda de reunión en su entrar para expiar en el santo, hasta su salir; y expiará por él y por su casa y por toda asamblea de Israel.
 
 ### 16:18
 
-Y saldrá al altar que está delante del SEÑOR, y hará expiación por él, y tomará del sangre del novillo y del sangre del macho cabrío y la pondrá sobre las puntas del altar alrededor.
+Y saldrá al altar que delante de Jehová, y expiará sobre él, y tomará desde sangre del toro y desde sangre del macho cabrío, y dará sobre cuernos del altar alrededor.
 
 ### 16:19
 
-Y esparcirá sobre él del sangre con su dedo siete veces, y lo purificará y lo santificará de las impurezas de los hijos de Israel.
+Y rociará sobre él desde la sangre en su dedo siete veces, y lo limpiará y lo santificará desde inmundicias de hijos de Israel.
 
 ### 16:20
 
-Y terminará de hacer expiación por el santuario y por la tienda de reunión y por el altar, y ofrecerá el macho cabrío vivo.
+Y acabará de expiar el santo y tienda de reunión y el altar, y acercará el macho cabrío el vivo.
 
 ### 16:21
 
-Y pondrá sus dos manos sobre la cabeza del macho cabrío vivo, y confesará sobre él todas las iniquidades del pueblo de Israel y todas sus transgresiones y todos sus pecados, y los pondrá sobre la cabeza del macho cabrío, y lo enviará al desierto por mano de un hombre designado.
+Y apoyará Aarón sus dos manos sobre cabeza del macho cabrío el vivo, y confesará sobre él todas iniquidades de hijos de Israel y todas sus rebeliones, a todos sus pecados, y los dará sobre cabeza del macho cabrío, y enviará en mano de varón oportuno al desierto.
 
 ### 16:22
 
-Y llevará el macho cabrío sobre él todas sus iniquidades a tierra apartada, y lo enviará al desierto.
+Y llevará el macho cabrío sobre él todas sus iniquidades a tierra cortada, y enviará el macho cabrío en el desierto.
 
 ### 16:23
 
-Y entrará Aarón en la tienda de reunión, y se desvestirá las vestiduras de lino que vistió para entrar al santuario, y las dejará allí.
+Y entrará Aarón a tienda de reunión, y desnudará los vestidos del lino que vistió en su entrar al santo, y los dejará allí.
 
 ### 16:24
 
-Y se lavará la carne con agua en un lugar santo, y se vestirá sus vestiduras, y saldrá y hará su holocausto y el holocausto del pueblo, y hará expiación por él y por el pueblo.
+Y lavará su carne en las aguas en lugar santo, y vestirá sus vestidos, y saldrá y hará su holocausto y holocausto del pueblo, y expiará por él y por el pueblo.
 
 ### 16:25
 
-Y quemará sobre el altar la grasa del toro de la expiación.
+Y la grasa del pecado hará humear hacia el altar.
 
 ### 16:26
 
-Y el que soltó el cabra llevará sus vestiduras y se lavará la carne con agua, y después vendrá al campamento.
+Y el enviante el macho cabrío a Azazel lavará sus vestidos, y lavará su carne en las aguas, y después así entrará al campamento.
 
 ### 16:27
 
-Y el toro de la expiación y el cabra que se llevó para hacer expiación en el santuario, los sacará fuera del campamento, y quemará en el fuego su piel, su carne y su excremento.
+Y el toro del pecado y el macho cabrío del pecado, que fue traída su sangre para expiar en el santo, sacará a fuera al campamento, y quemarán en el fuego sus pieles y su carne y su estiércol.
 
 ### 16:28
 
-Y el que los quema se lavará las vestiduras y se lavará la carne con agua, y después vendrá al campamento.
+Y el quemante a ellos lavará sus vestidos, y lavará su carne en las aguas, y después así entrará al campamento.
 
 ### 16:29
 
-Y será para vosotros por estatuto perpetuo en el mes séptimo, al diez del mes, que ayunaréis y haréis penitencia por vuestras almas; y toda obra no la haréis; el natural y el extranjero que mora entre vosotros.
+Y será a ustedes a estatuto de siempre: en el mes el séptimo, en el diez al mes, humillarán sus almas, y toda obra no harán, el nativo y el peregrino el morante en medio de ustedes.
 
 ### 16:30
 
-Porque en este día hará expiación por vosotros para limpiaros de todos vuestros pecados delante del SEÑOR, y seréis limpios.
+Porque en el día este expiará sobre ustedes para limpiar a ustedes; desde todos sus pecados delante de Jehová serán limpios.
 
 ### 16:31
 
-Sábado de reposo será para vosotros, y haréis penitencia por vuestras almas; estatuto perpetuo será.
+Shabat de shabatón ella a ustedes, y humillarán sus almas; estatuto de siempre.
 
 ### 16:32
 
-Y hará expiación el sacerdote que será ungido y que sucederá a su padre, vistiendo las vestiduras de lino, las vestiduras santas.
+Y expiará el sacerdote que ungirá a él, y que llenará su mano para sacerdotear en lugar de su padre, y vestirá los vestidos del lino, vestidos del santo.
 
 ### 16:33
 
-Y hará expiación por el santuario santo, y por la tienda de reunión, y por el altar; y hará expiación por los sacerdotes y por todo el pueblo.
+Y expiará santuario del santo, y tienda de reunión y el altar expiará, y sobre los sacerdotes y sobre todo pueblo de la asamblea expiará.
 
 ### 16:34
 
-Y será esto para vosotros por estatuto perpetuo, para hacer expiación por los hijos de Israel de todos sus pecados una vez al año; y lo hizo como el SEÑOR le había mandado a Moisés.
+Y será esto a ustedes a estatuto de siempre, para expiar sobre hijos de Israel desde todos sus pecados, una en el año. Y hizo conforme a lo que mandó Jehová a Moisés.
+
 
 ## Capítulo 17
 
 ### 17:1
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 17:2
 
-Habla a Aarón y a sus hijos y a todos los hijos de Israel, y dirás a ellos: Este es el orden que el SEÑOR ha mandado, diciendo:
+Habla a Aarón y a sus hijos y a todos hijos de Israel, y dirás a ellos: Esta la palabra que mandó Jehová, diciendo:
 
 ### 17:3
 
-Cualquier hombre de la casa de Israel que sacrifique un buey, o un carnero, o un cordero, en el campamento o fuera del campamento,
+Varón varón desde casa de Israel que degollare toro o cordero o cabra en el campamento, o que degollare fuera al campamento,
 
 ### 17:4
 
-y no lo lleve al frente de la tienda de reunión para ofrecerlo como ofrenda al SEÑOR delante del tabernáculo del SEÑOR, su sangre será contada como sangre derramada. Será cortado de su pueblo.
+y a abertura de tienda de reunión no lo trajere para acercar ofrenda a Jehová delante de mishkán de Jehová, sangre será contada al varón aquel; sangre derramó, y será cortado el varón aquel desde medio de su pueblo.
 
 ### 17:5
 
-Para que los hijos de Israel traigan sus sacrificios que sacrifican en el campo, y los lleven al SEÑOR al frente de la tienda de reunión al sacerdote, y sacrifiquen como ofrendas de paz al SEÑOR.
+A fin de que traigan hijos de Israel sus sacrificios que ellos sacrificantes sobre faces del campo, y los traigan a Jehová a abertura de tienda de reunión, al sacerdote, y sacrifiquen sacrificios de pazes a Jehová a ellos.
 
 ### 17:6
 
-Y el sacerdote derramará su sangre sobre el altar del SEÑOR al frente de la tienda de reunión, y quemará su grasa como aroma agradable al SEÑOR.
+Y rociará el sacerdote la sangre sobre altar de Jehová, abertura de tienda de reunión, y hará humear la grasa a olor de reposo a Jehová.
 
 ### 17:7
 
-Y no sacrificarán más sus sacrificios a los dioses, a los que se prostituyen tras ellos. Será una ley perpetua para ellos y para sus descendientes.
+Y no sacrificarán todavía sus sacrificios a los machos cabríos que ellos fornicantes detrás de ellos; estatuto de siempre será esto a ellos a sus generaciones.
 
 ### 17:8
 
-Y les dirás: Cualquier hombre de la casa de Israel, y cualquier extranjero que habite entre ellos, que sacrifique un holocausto o un sacrificio,
+Y a ellos dirás: Varón varón desde casa de Israel y desde el peregrino que peregrinare en medio de ellos, que hiciere subir holocausto o sacrificio,
 
 ### 17:9
 
-y no lo lleve al frente de la tienda de reunión para hacerlo al SEÑOR, será cortado de su pueblo.
+y a abertura de tienda de reunión no lo trajere para hacer a él a Jehová, y será cortado el varón aquel desde sus pueblos.
 
 ### 17:10
 
-Y cualquier hombre de la casa de Israel, y cualquier extranjero que habite entre ellos, que coma cualquier sangre, pondré mi rostro contra la persona que coma la sangre, y la cortaré de su pueblo.
+Y varón varón desde casa de Israel y desde el peregrino el peregrinante en medio de ellos, que comiere toda sangre, y daré mis faces en el alma la comedora la sangre, y cortaré a ella desde medio de su pueblo.
 
 ### 17:11
 
-Porque la sangre es la vida de la carne. Yo he dado a ustedes la sangre sobre el altar para hacer expiación por sus almas, porque la sangre es para hacer expiación por la vida.
+Porque alma de la carne en la sangre ella, y yo la di a ustedes sobre el altar para expiar sobre sus almas, porque la sangre ella en el alma expiará.
 
 ### 17:12
 
-Por eso les dije a los hijos de Israel: Ninguna persona de ustedes comerá sangre, y el extranjero que habite entre ustedes no comerá sangre.
+Por tanto dije a hijos de Israel: Toda alma desde ustedes no comerá sangre, y el peregrino el peregrinante en medio de ustedes no comerá sangre.
 
 ### 17:13
 
-Y cualquier hombre de los hijos de Israel, y cualquier extranjero que habite entre ellos, que cace una bestia o un ave que se coma, derramará su sangre y la cubrirá con tierra.
+Y varón varón desde hijos de Israel y desde el peregrino el peregrinante en medio de ellos, que cazare caza de bestia o ave que se comerá, y derramará su sangre y la cubrirá en el polvo.
 
 ### 17:14
 
-Porque la sangre de toda carne es su vida. Les dije a los hijos de Israel: No comerán la sangre de toda carne, porque la sangre de toda carne es su vida. Cualquier que la coma será cortado.
+Porque alma de toda carne su sangre en su alma ella, y dije a hijos de Israel: Sangre de toda carne no comerán, porque alma de toda carne su sangre ella; todo su comediente será cortado.
 
 ### 17:15
 
-Y toda alma que coma carne muerta o despedazada, ya sea un israelita o un extranjero que habite entre ellos, lavará sus vestidos y se bañará con agua, y será inmundo hasta la tarde, y será limpio.
+Y toda alma que comiere cadáver y despedazado, en el nativo y en el peregrino, y lavará sus vestidos y lavará en las aguas, e inmundo hasta la tarde, y limpio.
 
 ### 17:16
 
-Y si no lava sus vestidos ni se baña el cuerpo, llevará su pecado.
+Y si no lavare, y su carne no lavare, y llevará su iniquidad.
+
 
 ## Capítulo 18
 
 ### 18:1
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 18:2
 
-Habla a los hijos de Israel y di a ellos: Yo soy el SEÑOR, vuestro Dios.
+Habla a hijos de Israel, y dirás a ellos: Yo Jehová su Dios.
 
 ### 18:3
 
-No haréis conforme a las costumbres de la tierra de Egipto, en la cual vivisteis, ni conforme a las costumbres de la tierra de Canaán, a la cual yo os traigo, ni andaréis conforme a sus costumbres.
+Como hecho de tierra de Mizraim que habitaron en ella no harán, y como hecho de tierra de Canaán que yo trayente a ustedes allá no harán, y en sus estatutos no andarán.
 
 ### 18:4
 
-Haréis mis juicios y guardaréis mis estatutos para andar en ellos; yo soy el SEÑOR, vuestro Dios.
+Mis juicios harán, y mis estatutos guardarán para andar en ellos; yo Jehová su Dios.
 
 ### 18:5
 
-Guardad mis estatutos y mis juicios, que el hombre que los haga vivirá por ellos; yo soy el SEÑOR.
+Y guardarán mis estatutos y mis juicios, que hará a ellos el adam y vivirá en ellos; yo Jehová.
 
 ### 18:6
 
-No se acercará ningún hombre a toda sangre de su prójimo para descubrir la desnudez; yo soy el SEÑOR.
+Varón varón a toda carne de su carne no se acercarán para descubrir desnudez; yo Jehová.
 
 ### 18:7
 
-No descubrirás la desnudez de tu padre ni la desnudez de tu madre; la desnudez de tu madre no descubrirás.
+Desnudez de tu padre y desnudez de tu madre no descubrirás; tu madre ella, no descubrirás su desnudez.
 
 ### 18:8
 
-No descubrirás la desnudez de la mujer de tu padre; la desnudez de tu padre es ella.
+Desnudez de mujer de tu padre no descubrirás; desnudez de tu padre ella.
 
 ### 18:9
 
-No descubrirás la desnudez de tu hermana, ni la de tu madre, ni la de tu tía por parte de madre, ni la de tu hermanastra, ni la de tu cuñada; la desnudez de ellas no descubrirás.
+Desnudez de tu hermana, hija de tu padre o hija de tu madre, nacida casa o nacida fuera, no descubrirás su desnudez.
 
 ### 18:10
 
-No descubrirás la desnudez de la hija de tu hijo ni la de la hija de tu hija; la desnudez de ellas no descubrirás, porque es tu desnudez.
+Desnudez de hija de tu hijo o hija de tu hija no descubrirás su desnudez, porque desnudez tuya ellas.
 
 ### 18:11
 
-No descubrirás la desnudez de la hija de tu suegro o de tu suegra, es tu hermana.
+Desnudez de hija de mujer de tu padre, nacida de tu padre, tu hermana ella, no descubrirás su desnudez.
 
 ### 18:12
 
-No descubrirás la desnudez de la hermana de tu padre, porque es la hermana de tu padre.
+Desnudez de hermana de tu padre no descubrirás; carne de tu padre ella.
 
 ### 18:13
 
-No descubrirás la desnudez de la hermana de tu madre, porque es la hermana de tu madre.
+Desnudez de hermana de tu madre no descubrirás, porque carne de tu madre ella.
 
 ### 18:14
 
-No descubrirás la desnudez de tu tío, no te acercarás a su mujer, es tu pariente.
+Desnudez de hermano de tu padre no descubrirás; a su mujer no te acercarás; tu tía ella.
 
 ### 18:15
 
-No descubrirás la desnudez de tu novia, es la mujer de tu hijo, no descubrirás su desnudez.
+Desnudez de tu nuera no descubrirás; mujer de tu hijo ella, no descubrirás su desnudez.
 
 ### 18:16
 
-No descubrirás la desnudez de la mujer de tu hermano, es la desnudez de tu hermano.
+Desnudez de mujer de tu hermano no descubrirás; desnudez de tu hermano ella.
 
 ### 18:17
 
-No descubrirás la desnudez de una mujer y la de su hija, no tomarás a la hija de su hijo ni a la hija de su hija para descubrir su desnudez, es una vergüenza.
+Desnudez de mujer y su hija no descubrirás; a hija de su hijo y a hija de su hija no tomarás para descubrir su desnudez; carne ellas, vileza ella.
 
 ### 18:18
 
-No tomarás a una mujer a la hermana de ella para ser su amante y descubrir su desnudez mientras viva.
+Y mujer a su hermana no tomarás para angustiar, para descubrir su desnudez sobre ella en sus vidas.
 
 ### 18:19
 
-No te acercarás a una mujer en su menstruación para descubrir su desnudez.
+Y a mujer en menstruación de su inmundicia no te acercarás para descubrir su desnudez.
 
 ### 18:20
 
-No darás tu semilla a la mujer de tu vecino para que se contamine con ella.
+Y a mujer de tu prójimo no darás tu yacimiento a semilla, para contaminarte en ella.
 
 ### 18:21
 
-No darás a tu descendencia para que sea quemado al fuego del Molech, no profanarás el nombre de tu Dios, yo soy el SEÑOR.
+Y desde tu semilla no darás para hacer pasar a Molek, y no profanarás el nombre de tu Dios; yo Jehová.
 
 ### 18:22
 
-No te acostarás con un varón como con una mujer, es abominación.
+Y con macho no yacerás yacimientos de mujer; abominación ella.
 
 ### 18:23
 
-No te acostarás con ninguna bestia para contaminarte con ella, y no se presentará una mujer ante una bestia para copular con ella; es abominación.
+Y en toda bestia no darás tu yacimiento para contaminarte en ella, y mujer no se parará delante de bestia a su ayuntamiento; confusión él.
 
 ### 18:24
 
-No os contaminéis con todas estas cosas, porque con todas estas cosas se han contaminado las naciones que yo os envío a expulsar de delante de vosotros.
+No se contaminen en todas estas, porque en todas estas se contaminaron las naciones que yo enviando de faces de ustedes.
 
 ### 18:25
 
-La tierra se contaminó, y yo castigué su iniquidad; la tierra vomitó a sus habitantes.
+Y se contaminó la tierra, y visité su iniquidad sobre ella, y vomitó la tierra a sus habitantes.
 
 ### 18:26
 
-Guardaréis mis estatutos y mis juicios, y no haréis ninguna de todas estas abominaciones, ni el nativo ni el extranjero que habita en medio de vosotros.
+Y guardarán ustedes mis estatutos y mis juicios, y no harán desde todas las abominaciones estas, el nativo y el peregrino el peregrinante en medio de ustedes.
 
 ### 18:27
 
-Porque hicieron todas estas abominaciones las gentes que os precedieron, y la tierra se contaminó.
+Porque todas las abominaciones estas hicieron varones de la tierra que delante de ustedes, y se contaminó la tierra.
 
 ### 18:28
 
-No contaminaréis vosotros la tierra, para que no os vomite también ella, como vomitó a las naciones que os precedieron.
+Y no vomite la tierra a ustedes en su contaminar a ustedes a ella, conforme a lo que vomitó a la nación que delante de ustedes.
 
 ### 18:29
 
-Porque cualquiera que haga alguna de todas estas abominaciones, las almas que hiciere estas cosas serán cortadas de en medio de su pueblo.
+Porque todo que hiciere desde todas las abominaciones estas, y serán cortadas las almas las hacedoras desde medio de su pueblo.
 
 ### 18:30
 
-Guardaréis mi guardia, para no hacer ninguna de las costumbres de las abominaciones que se hicieron delante de vosotros, y no os contaminaréis con ellas; yo soy el SEÑOR vuestro Dios.
+Y guardarán mi guarda, para no hacer desde estatutos de las abominaciones que fueron hechas delante de ustedes, y no se contaminen en ellas; yo Jehová su Dios.
+
 
 ## Capítulo 19
 
 ### 19:1
 
-Y el SEÑOR habló a Moisés, diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 19:2
 
-Hablarás a toda la congregación de los hijos de Israel, y les dirás: Seréis santos, porque yo soy santo; yo soy el SEÑOR vuestro Dios.
+Habla a toda congregación de hijos de Israel, y dirás a ellos: Santos serán, porque santo yo Jehová su Dios.
 
 ### 19:3
 
-Cada uno temerá a su madre y a su padre, y guardaréis mis sábados; yo soy el SEÑOR vuestro Dios.
+Varón, a su madre y a su padre temerán, y mis shabats guardarán; yo Jehová su Dios.
 
 ### 19:4
 
-No os volváis a los ídolos ni a los dioses fundidos; no los haréis para vosotros; yo soy el SEÑOR vuestro Dios.
+No se vuelvan a los ídolos, y dioses de fundición no harán a ustedes; yo Jehová su Dios.
 
 ### 19:5
 
-Cuando ofrezcas un sacrificio de paz a YHWH, lo ofrezcas conforme a tu voluntad.
+Y cuando sacrificaren sacrificio de pazes a Jehová, a su agrado lo sacrificarán.
 
 ### 19:6
 
-Se comerá el sacrificio en el día en que lo ofrezcas, y lo que quede hasta el día siguiente, y lo que quede después hasta el tercer día, se quemará en el fuego.
+En día de su sacrificio se comerá, y desde mañana; y lo restante hasta día el tercero en el fuego se quemará.
 
 ### 19:7
 
-Si se come en el tercer día, será inmundo; no será aceptado.
+Y si de comer se comiere en el día el tercero, desecho él; no será aceptado.
 
 ### 19:8
 
-El que lo coma llevará su pecado, porque profanó la cosa santificada de YHWH; será cortado de su pueblo.
+Y su comediente su iniquidad llevará, porque santidad de Jehová profanó, y será cortada el alma aquella desde sus pueblos.
 
 ### 19:9
 
-Cuando siegues la siega de tu tierra, no la cortes por completo; no recogerás los desechos de tu siega.
+Y en su segar la cosecha de su tierra, no acabarás el extremo de tu campo a segar, y rebusco de tu cosecha no rebuscarás.
 
 ### 19:10
 
-No arrancarás las uvas de tu viña, y no recogerás los desechos de tu viña; los dejarás para el pobre y para el extranjero; yo soy YHWH vuestro Dios.
+Y tu viña no rebusques, y grano caído de tu viña no recojas; al pobre y al peregrino dejarás a ellos; yo Jehová su Dios.
 
 ### 19:11
 
-No robarás, no mentirás, no engañarás a tu prójimo.
+No hurtarán, y no negarán, y no mentirán varón en su prójimo.
 
 ### 19:12
 
-No jurarás por mi nombre en vano, y no profanarás el nombre de tu Dios; yo soy YHWH.
+Y no jurarán en mi nombre a mentira, y profanarás el nombre de tu Dios; yo Jehová.
 
 ### 19:13
 
-No oprimirás a tu prójimo, no robarás; no retendrás el salario de tu jornalero contigo hasta la mañana.
+No oprimirás a tu prójimo, y no robarás; no pernoctará salario de jornalero contigo hasta mañana.
 
 ### 19:14
 
-No maldigas al sordo, y no pondrás en lazo ante el ciego; temerás a tu Dios; yo soy YHWH.
+No maldecirás a sordo, y delante de ciego no darás tropiezo, y temerás desde tu Dios; yo Jehová.
 
 ### 19:15
 
-No harás injusticia en juicio, no aceptarás la persona del pobre, ni honrarás la persona del grande; juzgarás a tu prójimo con justicia.
+No harán iniquidad en el juicio; no alzarás faces de pobre, y no honrarás faces de grande; en justicia juzgarás a tu prójimo.
 
 ### 19:16
 
-No andarás como chismoso entre tu pueblo, no te pondrás delante del derramamiento de sangre de tu prójimo; yo soy YHWH.
+No andarás chismoso en tus pueblos; no te pararás sobre sangre de tu prójimo; yo Jehová.
 
 ### 19:17
 
-No aborrecerás en tu corazón a tu hermano, reprenderás a tu prójimo, y no llevarás sobre ti su pecado.
+No odiarás a tu hermano en tu corazón; de reprender reprenderás a tu prójimo, y no llevarás sobre él pecado.
 
 ### 19:18
 
-No te vengarás ni guardarás rencor a tu pueblo, amarás a tu prójimo como a ti mismo. Yo soy el SEÑOR.
+No te vengarás, y no guardarás rencor a hijos de tu pueblo, y amarás a tu prójimo como tú; yo Jehová.
 
 ### 19:19
 
-Cumplirás mis estatutos. No sembrarás tu ganado con dos razas diferentes, no sembrarás tu campo con dos semillas diferentes, y no te harás un vestido de dos tejidos diferentes.
+Mis estatutos guardarán; tu bestia no harás ayuntar dos especies; tu campo no sembrarás dos especies; y vestido de dos especies, mezcla, no subirá sobre ti.
 
 ### 19:20
 
-Y si un hombre se acuesta con una mujer en el tiempo de su menstruación, y ella es una esclava prometida a un hombre, y no ha sido rescatada ni ha recibido su libertad, no serán castigados, porque no ha sido liberada.
+Y varón, cuando yaciere con mujer yacimiento de semilla, y ella sierva desposada a varón, y de rescatar no fue rescatada, o libertad no fue dada a ella, investigación habrá; no serán muertos, porque no fue libertada.
 
 ### 19:21
 
-Y traerá su ofrenda al SEÑOR, al tabernáculo de reunión, un carnero por ofrenda.
+Y traerá su culpa a Jehová a abertura de tienda de reunión, carnero de culpa.
 
 ### 19:22
 
-Y el sacerdote hará expiación por él con el carnero del sacrificio por el pecado, delante del SEÑOR, por su pecado que cometió, y será perdonado de su pecado que cometió.
+Y expiará sobre él el sacerdote en carnero de la culpa delante de Jehová, sobre su pecado que pecó, y será perdonado a él desde su pecado que pecó.
 
 ### 19:23
 
-Y cuando entres en la tierra y plantes toda clase de árboles frutales, cortarás sus ramas, sus frutos no serán comidos durante tres años, estarán en estado de impureza.
+Y cuando entraren a la tierra, y plantaren todo árbol de comida, y circuncidarán su prepucio, su fruto; tres años será a ustedes incircuncisos; no se comerá.
 
 ### 19:24
 
-Y en el cuarto año todos sus frutos serán santos para alabanza a la SEÑOR.
+Y en el año el cuarto será todo su fruto santidad de alabanzas a Jehová.
 
 ### 19:25
 
-Y en el quinto año comeréis sus frutos para aumentar su cosecha. Yo soy el SEÑOR, vuestro Dios.
+Y en el año el quinto comerán su fruto, para añadir a ustedes su producto; yo Jehová su Dios.
 
 ### 19:26
 
-No comeréis sobre la sangre, no te adivinarás ni te arocerás.
+No comerán sobre la sangre; no agorarán, y no adivinarán.
 
 ### 19:27
 
-No te harás cortes en la cabeza, ni te harás rasurados alrededor de tu barba.
+No rodearán extremo de su cabeza, y no destruirás extremo de tu barba.
 
 ### 19:28
 
-Y no harás cortes en tu carne por un muerto, ni grabarás tatuajes en tu cuerpo. Yo soy el SEÑOR.
+Y corte por alma no darán en su carne, y escritura de tatuaje no darán en ustedes; yo Jehová.
 
 ### 19:29
 
-No profanas a tu hija, entregándola a la prostitución, ni la tierra se prostituirá. La tierra no se llenará de inmoralidad.
+No profanarás a tu hija para prostituirla, y no fornicará la tierra, y se llenará la tierra de vileza.
 
 ### 19:30
 
-Guardarás mis sábados y temerás mi santuario. Yo soy el SEÑOR.
+Mis shabatot guardarán, y mi santuario temerán; yo Jehová.
 
 ### 19:31
 
-No te dirijas a los médiums ni a los adivinos, no busques contaminarte con ellos. Yo soy el SEÑOR, tu Dios.
+No se vuelvan a los evocadores y a los adivinos; no busquen para contaminarse en ellos; yo Jehová su Dios.
 
 ### 19:32
 
-Ante la ancianidad te levantarás y honrarás al anciano. Temerás a tu Dios. Yo soy el SEÑOR.
+De faces de canas te levantarás, y honrarás faces de anciano, y temerás desde tu Dios; yo Jehová.
 
 ### 19:33
 
-Si un extranjero se establece contigo en tu tierra, no le harás daño.
+Y cuando peregrinare contigo peregrino en su tierra, no lo oprimirán.
 
 ### 19:34
 
-El extranjero que se establece contigo será como el nativo. Amarás al extranjero como a ti mismo, porque fuiste extranjero en la tierra de Egipto. Yo soy el SEÑOR, tu Dios.
+Como nativo desde ustedes será a ustedes el peregrino el peregrinante con ustedes, y lo amarás como tú, porque peregrinos fueron ustedes en tierra de Mizraim; yo Jehová su Dios.
 
 ### 19:35
 
-No harás injusticia en juicio, en medida, en peso ni en línea.
+No harán iniquidad en el juicio, en la medida, en el peso y en la capacidad.
 
 ### 19:36
 
-Tendrás justas balanzas, justas piedras de pesar, justa medida y justo cuerno. Yo soy el SEÑOR, tu Dios, que te saqué de la tierra de Egipto.
+Balanzas de justicia, piedras de justicia, efá de justicia e hin de justicia serán a ustedes; yo Jehová su Dios, que saqué a ustedes desde tierra de Mizraim.
 
 ### 19:37
 
-Guardarás todos mis preceptos y todos mis juicios, y los cumplirás. Yo soy el SEÑOR.
+Y guardarán todos mis estatutos y todos mis juicios, y los harán; yo Jehová.
+
 
 ## Capítulo 20
 
 ### 20:1
 
-El SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 20:2
 
-Decirás a los hijos de Israel: Cualquiera que entregue a su descendencia al Moloc será muerto. La gente de la tierra lo apedreará.
+Y a hijos de Israel dirás: Varón varón desde hijos de Israel y desde el peregrino el peregrinante en Israel, que diere desde su semilla a Molek, de morir morirá; pueblo de la tierra lo apedrearán en la piedra.
 
 ### 20:3
 
-Yo pondré mi rostro contra él, y lo cortaré de entre su pueblo, porque entregó a su descendencia al Moloc, para contaminar mi santuario y profanar mi nombre.
+Y yo daré mis faces en el varón aquel, y cortaré a él desde medio de su pueblo, porque desde su semilla dio a Molek, a fin de contaminar mi santuario y para profanar el nombre de mi santidad.
 
 ### 20:4
 
-Si la gente de la tierra oculta de él los ojos, permitiendo que entregue a su descendencia al Moloc y no lo mata, yo pondré mi rostro contra él y lo cortaré de entre su pueblo.
+Y si de ocultar ocultaren pueblo de la tierra sus ojos desde el varón aquel, en su dar desde su semilla a Molek, para no matar a él,
 
 ### 20:5
 
-Pondré mi rostro contra ese hombre y contra su familia, y los cortaré de entre su pueblo, a él y a todos los que se prostituyan con él, prostituyéndose con el Moloc.
+y pondré yo mis faces en el varón aquel y en su familia, y cortaré a él y a todos los fornicantes detrás de él, para fornicar detrás de Molek, desde medio de su pueblo.
 
 ### 20:6
 
-Y la persona que se vuelva hacia los adivinos y los hechiceros para prostituirse con ellos, pondré mi rostro contra esa persona y la cortaré de entre su pueblo.
+Y el alma que se volviere a los evocadores y a los adivinos, para fornicar detrás de ellos, y daré mis faces en el alma aquella, y cortaré a él desde medio de su pueblo.
 
 ### 20:7
 
-Santificaos y seáis santos, porque yo, el SEÑOR, soy vuestro Dios.
+Y se santificarán, y serán santos, porque yo Jehová su Dios.
 
 ### 20:8
 
-Guardad mis estatutos y cumplidlos, porque yo, el SEÑOR, os santificaré.
+Y guardarán mis estatutos, y los harán; yo Jehová su santificante.
 
 ### 20:9
 
-Cualquiera que maldiga a su padre o a su madre será muerto; maldiciendo a su padre o a su madre, derramará su propia sangre.
+Porque varón varón que maldijere a su padre y a su madre, de morir morirá; a su padre y a su madre maldijo; sus sangres en él.
 
 ### 20:10
 
-Cualquiera que tenga relaciones sexuales con la esposa de otro hombre, tanto el que tiene relaciones sexuales con la esposa de su vecino como la mujer, serán ejecutados.
+Y varón que adulterare con mujer de varón, que adulterare con mujer de su prójimo, de morir morirán el adúltero y la adúltera.
 
 ### 20:11
 
-Cualquiera que tenga relaciones sexuales con la madre de su padre, descubriendo la desnudez de su padre, serán ejecutados, la sangre de ellos será sobre ellos.
+Y varón que yaciere con mujer de su padre, desnudez de su padre descubrió; de morir morirán ambos; sus sangres en ellos.
 
 ### 20:12
 
-Cualquiera que tenga relaciones sexuales con su hija virgen, serán ejecutados, porque han cometido un acto de inmoralidad; la sangre de ellos será sobre ellos.
+Y varón que yaciere con su nuera, de morir morirán ambos; confusión hicieron; sus sangres en ellos.
 
 ### 20:13
 
-Cualquiera que tenga relaciones sexuales con un hombre como si fuera una mujer, han cometido una abominación; serán ejecutados, la sangre de ellos será sobre ellos.
+Y varón que yaciere con macho yacimientos de mujer, abominación hicieron ambos; de morir morirán; sus sangres en ellos.
 
 ### 20:14
 
-Cualquiera que tome a una mujer y a su madre, es una inmoralidad; serán quemados a fuego, tanto él como ellas, y no habrá inmoralidad en medio de vosotros.
+Y varón que tomare a mujer y a su madre, vileza ella; en el fuego quemarán a él y a ellas, y no habrá vileza en medio de ustedes.
 
 ### 20:15
 
-Cualquiera que tenga relaciones sexuales con un animal será ejecutado, y el animal será matado.
+Y varón que diere su yacimiento en bestia, de morir morirá, y a la bestia matarán.
 
 ### 20:16
 
-Si una mujer se acerca a un animal para tener relaciones sexuales con él, la mujer y el animal serán ejecutados. No habrá inmoralidad en medio de vosotros.
+Y mujer que se acercare a toda bestia a su ayuntamiento a ella, y matarás a la mujer y a la bestia; de morir morirán; sus sangres en ellos.
 
 ### 20:17
 
-Si un hombre toma a su hermana, hija de su padre o de su madre, y ve su desnudez, y ella ve su desnudez, es una vergüenza. Serán ejecutados delante de sus parientes. Un hombre ha descubierto la desnudez de su hermana; llevará su pecado.
+Y varón que tomare a su hermana, hija de su padre o hija de su madre, y viere su desnudez, y ella viere su desnudez, vergüenza él, y serán cortados a ojos de hijos de su pueblo; desnudez de su hermana descubrió; su iniquidad llevará.
 
 ### 20:18
 
-Si un hombre se acuesta con una mujer que está en sus días impuros y descubre su desnudez, ha descubierto la fuente de sus fluidos menstruales, y ella ha descubierto su fuente de sangre, serán ejecutados delante de sus parientes.
+Y varón que yaciere con mujer menstruante, y descubriere su desnudez, su fuente descubrió, y ella descubrió fuente de sus sangres, y serán cortados ambos desde medio de su pueblo.
 
 ### 20:19
 
-No descubrirás la desnudez de la hermana de tu madre ni la de la hermana de tu padre, porque han descubierto su propia desnudez; llevarán su pecado.
+Y desnudez de hermana de tu madre y hermana de tu padre no descubrirás, porque su carne descubrió; su iniquidad llevarán.
 
 ### 20:20
 
-Si un hombre se acuesta con su tío, ha descubierto la desnudez de su tío; llevarán su pecado; morirán sin hijos.
+Y varón que yaciere con su tía, desnudez de su tío descubrió; su pecado llevarán; sin hijos morirán.
 
 ### 20:21
 
-Si un hombre toma a la mujer de su hermano, es una vergüenza; ha descubierto la desnudez de su hermano; morirán sin hijos.
+Y varón que tomare a mujer de su hermano, impureza ella; desnudez de su hermano descubrió; sin hijos serán.
 
 ### 20:22
 
-Guardaréis todos mis estatutos y todos mis juicios, y los cumpliréis, para que la tierra no os vomite, la tierra que yo os traigo para que habitéis en ella.
+Y guardarán todos mis estatutos y todos mis juicios, y los harán, y no vomite a ustedes la tierra que yo trayente a ustedes allá para habitar en ella.
 
 ### 20:23
 
-No andaréis según las costumbres de la nación que yo os enviaré delante, porque han hecho todas estas cosas, y yo aborrezco a ellos.
+Y no andarán en estatutos de la nación que yo enviando de faces de ustedes, porque todas estas hicieron, y me asqueé en ellos.
 
 ### 20:24
 
-Os he dicho: ‘Ustedes heredarán su tierra, y yo la daré a ustedes para que la hereden, una tierra que mana leche y miel’. Yo soy el SEÑOR, vuestro Dios, que os he separado de los pueblos.
+Y dije a ustedes: Ustedes heredarán su suelo, y yo la daré a ustedes para heredar a ella, tierra manante leche y miel; yo Jehová su Dios, que separé a ustedes desde los pueblos.
 
 ### 20:25
 
-Distinguiréis entre la bestia limpia y la inmunda, y entre el ave limpia y la inmunda, y no contaminaréis a vosotros mismísimos con bestias, con aves y con todo animal que se arrastra en la tierra, que os he separado para ser inmundo.
+Y separarán entre la bestia la limpia a la inmunda, y entre el ave la inmunda a la limpia, y no abominarán sus almas en la bestia y en el ave y en todo lo que se arrastra el suelo, que separé a ustedes para contaminar.
 
 ### 20:26
 
-Seréis para mí santos, porque yo soy santo. Los he separado de las naciones para que seáis míos.
+Y serán a mí santos, porque santo yo Jehová, y separé a ustedes desde los pueblos para ser a mí.
 
 ### 20:27
 
-Si un hombre o una mujer tienen un espíritu de adivinación o son adivinos, serán ejecutados con piedras. Su sangre será sobre ellos.
+Y varón o mujer, cuando fuere en ellos evocador o adivino, de morir morirán; en la piedra los apedrearán; sus sangres en ellos.
+
 
 ## Capítulo 21
 
 ### 21:1
 
-El SEÑOR dijo a Moisés: Dile a los sacerdotes, hijos de Aarón: No se contaminarán para un muerto de su pueblo.
+Y dijo Jehová a Moisés: Di a los sacerdotes, hijos de Aarón, y dirás a ellos: Por alma no se contaminará en sus pueblos.
 
 ### 21:2
 
-Sólo para su pariente cercano al SEÑOR se contaminarán: para su madre, para su padre, para su hijo, para su hija, para su hermano.
+Sino por su carne la cercana a él: por su madre y por su padre y por su hijo y por su hija y por su hermano,
 
 ### 21:3
 
-Y para su hermana, la virgen que está cerca de él, que no ha estado con un hombre, se contaminará por ella.
+y por su hermana la virgen la cercana a él, que no fue a varón; por ella se contaminará.
 
 ### 21:4
 
-No se contaminará para un pariente cercano de su pueblo, para ser profanado.
+No se contaminará, señor en sus pueblos, para profanarse.
 
 ### 21:5
 
-No se rasurará la cabeza ni se cortará la barba, ni se hará cortes en la carne.
+No harán calva en su cabeza, y extremo de su barba no rasurarán, y en su carne no cortarán corte.
 
 ### 21:6
 
-Serán santos para su Dios, no profanarán el nombre de su Dios, porque ofrecen a Jehová el pan de su Dios; serán santos.
+Santos serán a su Dios, y no profanarán el nombre de su Dios, porque ofrendas de fuego de Jehová, pan de su Dios, ellos acercantes, y serán santidad.
 
 ### 21:7
 
-No tomarán una mujer que sea prostituta o profanada, ni una mujer divorciada; porque él es santo para su Dios.
+Mujer fornicaria y profanada no tomarán, y mujer divorciada desde su varón no tomarán, porque santo él a su Dios.
 
 ### 21:8
 
-Lo santificarás, porque él ofrece el pan de tu Dios; será santo para ti, porque yo, Jehová, los santifico.
+Y lo santificarás, porque pan de tu Dios él acercante; santo será a ti, porque santo yo Jehová su santificante.
 
 ### 21:9
 
-Y la hija de un sacerdote, si comienza a prostituirse, profanará a su padre; a fuego será quemada.
+Y hija de varón sacerdote, cuando se profanare a fornicar, a su padre ella profanante; en el fuego será quemada.
 
 ### 21:10
 
-El sacerdote mayor de entre sus hermanos, sobre quien se vierte el aceite de la unción y que llena sus manos para vestir las vestiduras, no despejará su cabeza ni deshará sus vestiduras.
+Y el sacerdote el grande desde sus hermanos, que fue derramado sobre su cabeza aceite de la unción, y llenó su mano para vestir los vestidos, su cabeza no descubrirá, y sus vestidos no rasgará.
 
 ### 21:11
 
-No entrará en la casa de un muerto, ni se contaminará para su padre ni para su madre.
+Y sobre todas almas de muerto no entrará; por su padre y por su madre no se contaminará.
 
 ### 21:12
 
-No saldrá del santuario ni profanará el santuario de su Dios, porque sobre él está el aceite de la unción de su Dios; yo, Jehová.
+Y desde el santuario no saldrá, y no profanará santuario de su Dios, porque consagración de aceite de unción de su Dios sobre él; yo Jehová.
 
 ### 21:13
 
-Él tomará una mujer virgen.
+Y él mujer en sus virginidades tomará.
 
 ### 21:14
 
-No tomará una viuda, ni una divorciada, ni una profanada, ni una prostituta; sino que tomará una virgen de su pueblo por mujer.
+Viuda y divorciada y profanada fornicaria, a estas no tomará, sino virgen desde sus pueblos tomará mujer.
 
 ### 21:15
 
-No contaminará su descendencia con su pueblo, porque yo, Jehová, soy quien lo consagra.
+Y no profanará su semilla en sus pueblos, porque yo Jehová su santificante.
 
 ### 21:16
 
-Y Jehová habló a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 21:17
 
-Habla a Aarón diciendo: Todo varón de tu descendencia en sus generaciones que tenga defecto no se acercará para ofrecer el pan de su Dios.
+Habla a Aarón, diciendo: Varón desde tu semilla a sus generaciones, que fuere en él defecto, no se acercará para acercar pan de su Dios.
 
 ### 21:18
 
-Porque todo varón que tenga defecto no se acercará: el ciego, el cojo, el manco, el que tiene una cicatriz, el que tiene un miembro corto.
+Porque todo varón que en él defecto no se acercará: varón ciego o cojo o chato o desigual,
 
 ### 21:19
 
-O el que tenga un pie cojo, o un pie corto.
+o varón que fuere en él quebradura de pie o quebradura de mano,
 
 ### 21:20
 
-O el que tenga un bulto en el ojo, o un cojo, o un manco, o un quebrantado, o un corto.
+o jorobado o enano, o nubla en su ojo, o sarna o tiña, o aplastado de testículo.
 
 ### 21:21
 
-Todo varón que tenga defecto de la descendencia de Aarón, el sacerdote, no se acercará para ofrecer las ofrendas de Jehová; porque tiene defecto, no se acercará para ofrecer el pan de su Dios.
+Todo varón que en él defecto, desde semilla de Aarón el sacerdote, no se acercará para acercar ofrendas de fuego de Jehová; defecto en él; el pan de su Dios no se acercará para acercar.
 
 ### 21:22
 
-El pan de su Dios, de las cosas santas y de las santísimas, comerá.
+Pan de su Dios, desde santidades de las santidades y desde las santidades, comerá.
 
 ### 21:23
 
-Pero no entrará al velo ni se acercará al altar, porque tiene defecto; no profanará el santuario de mí, porque yo, Jehová, los consagro.
+Solo a la parójet no entrará, y al altar no se acercará, porque defecto en él, y no profanará mis santuarios, porque yo Jehová su santificante.
 
 ### 21:24
 
-Y Moisés habló a Aarón, y a sus hijos, y a todo el pueblo de Israel.
+Y habló Moisés a Aarón y a sus hijos y a todos hijos de Israel.
+
 
 ## Capítulo 22
 
 ### 22:1
 
-Y Jehová habló a Moisés, diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 22:2
 
-Habla a Aarón y a sus hijos, y a todo el pueblo de Israel, y diles: Guardaos de los santos de los hijos de Israel, y no profanéis mi santo nombre, porque yo, Jehová, los consagro.
+Habla a Aarón y a sus hijos, y se apartarán desde santidades de hijos de Israel, y no profanarán el nombre de mi santidad, que ellos santificantes a mí; yo Jehová.
 
 ### 22:3
 
-Decid a ellos: Todo varón de vuestra simiente que se acerque a los santos que los hijos de Israel consagran a mí, y en él esté la impureza, será cortado de delante de mí; yo, Jehová.
+Di a ellos: A sus generaciones, todo varón que se acercare desde toda su semilla a las santidades que santificarán hijos de Israel a Jehová, y su inmundicia sobre él, y será cortada el alma aquella de delante de mí; yo Jehová.
 
 ### 22:4
 
-Todo varón de la simiente de Aarón, que sea leproso o que tenga flujo, no comerá de los santos hasta que sea limpio. Y todo varón que toque a cualquier cosa impura de alma, o a cualquier varón de quien salga semilla, no comerá de los santos.
+Varón varón desde semilla de Aarón, y él herido de tsaráat o fluxivo, en las santidades no comerá hasta que se limpie; y el tocante en todo inmundo de alma, o varón que saliere desde él yacimiento de semilla,
 
 ### 22:5
 
-O cualquier varón que toque a cualquier reptil que le haga impuro, o a cualquier varón que le haga impuro, por toda su impureza, no comerá de los santos.
+o varón que tocare en todo reptil que se contaminare a él, o en adam que se contaminare a él, a toda su inmundicia,
 
 ### 22:6
 
-La alma que toque a él, será impura hasta la tarde. Y no comerá de los santos, sino que lavará su carne en agua.
+alma que tocare en él, e inmunda hasta la tarde, y no comerá desde las santidades sino lavare su carne en las aguas.
 
 ### 22:7
 
-Y cuando el sol se ponga, será limpio, y después comerá de los santos, porque es su pan.
+Y entrare el sol, y limpio, y después comerá desde las santidades, porque su pan él.
 
 ### 22:8
 
-No comerá de la muerta ni de la despedazada para que no sea impuro en ella; yo, Jehová.
+Cadáver y despedazado no comerá para contaminarse en ella; yo Jehová.
 
 ### 22:9
 
-Y guardarán mi guardia, y no llevarán sobre ellos pecado, y morirán en ella, porque la profanarán; yo, Jehová, los consagro.
+Y guardarán mi guarda, y no llevarán sobre él pecado, y morirán en él porque lo profanaren; yo Jehová su santificante.
 
 ### 22:10
 
-Y todo extranjero no comerá los santos. El huésped del sacerdote y el jornalero no comerán los santos.
+Y todo extraño no comerá santidad; morador de sacerdote y jornalero no comerá santidad.
 
 ### 22:11
 
-Y el sacerdote, cuando adquiera una alma por su dinero, comerá en ella. Y los hijos de su casa comerán en su pan.
+Y sacerdote, cuando comprare alma compra de su plata, él comerá en él, y nacido de su casa, ellos comerán en su pan.
 
 ### 22:12
 
-Y la hija del sacerdote, cuando se case con un varón extranjero, no comerá de la ofrenda de los santos; porque es la ofrenda de los santos.
+Y hija de sacerdote, cuando fuere a varón extraño, ella en ofrenda alzada de las santidades no comerá.
 
 ### 22:13
 
-Y la hija del sacerdote, cuando sea viuda o repudiada y no tenga hijos, volverá a la casa de su padre, como en su juventud, y comerá del pan de su padre. Y ningún extranjero comerá en ella.
+Y hija de sacerdote, cuando fuere viuda y divorciada, y semilla no a ella, y volviere a casa de su padre como sus juventudes, desde pan de su padre comerá; y todo extraño no comerá en él.
 
 ### 22:14
 
-Y si un hombre come santos por error, añadirá la quinta parte a ellos y los dará al sacerdote, la cosa santificada.
+Y varón, cuando comiere santidad por error, y añadirá su quinto sobre él, y dará al sacerdote la santidad.
 
 ### 22:15
 
-Y no profanarán los santos de los hijos de Israel, los que ellos ofrecen a Yavé.
+Y no profanarán las santidades de hijos de Israel, que alzarán a Jehová,
 
 ### 22:16
 
-Y llevarán sobre ellos el pecado de culpa por comer los santos de ellos. Porque yo, Yavé, los santifico.
+y harán llevar a ellos iniquidad de culpa, en su comer sus santidades, porque yo Jehová su santificante.
 
 ### 22:17
 
-Y habló Yavé a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 22:18
 
-Habla a Aarón y a sus hijos y a todos los hijos de Israel y les dirás: Cualquiera de la casa de Israel o del extranjero que esté entre ellos que ofrezca un sacrificio de voluntad o de donación a Yavé, para holocausto,
+Habla a Aarón y a sus hijos y a todos hijos de Israel, y dirás a ellos: Varón varón desde casa de Israel y desde el peregrino en Israel, que acercare su ofrenda a todos sus votos y a todas sus voluntarias que acercarán a Jehová a holocausto,
 
 ### 22:19
 
-según su voluntad, un macho perfecto, vaca, carnero o cabra.
+a su agrado: íntegro macho, en el ganado, en los corderos y en las cabras.
 
 ### 22:20
 
-Todo lo que tenga defecto no lo ofreceréis, porque no será acepto para vosotros.
+Todo que en él defecto no acercarán, porque no a agrado será a ustedes.
 
 ### 22:21
 
-Y si un hombre ofrece un sacrificio de paz a Yavé, como voluntad o como donación, vaca o carnero, perfecto será para acepto, ningún defecto tendrá en él.
+Y varón, cuando acercare sacrificio de pazes a Jehová para extraordinario voto o a voluntaria, en el ganado o en el rebaño, íntegro será a agrado; todo defecto no será en él.
 
 ### 22:22
 
-Ciegas, cojos, retorcidas, escrofulosas, ulceradas, no las ofreceréis a Yavé, y no las quemaréis sobre el altar a Yavé.
+Ceguera o quebrado o hendido o verruga o sarna o tiña, no acercarán estas a Jehová, y ofrenda de fuego no darán desde ellas sobre el altar a Jehová.
 
 ### 22:23
 
-Y un toro o carnero con la pata rota o cortada, como donación lo haréis, pero como voluntario no será acepto.
+Y toro y cordero desigual y encogido, voluntaria harás a él, y a voto no será aceptado.
 
 ### 22:24
 
-Y un ciego, cojo, quebrado, ulcerado, no los ofreceréis a Yavé, y en vuestra tierra no los haréis.
+Y aplastado y machacado y arrancado y cortado no acercarán a Jehová, y en su tierra no harán.
 
 ### 22:25
 
-No ofreceréis a los dioses de ustedes de la mano de un extranjero, de todo esto, porque en ellos hay defecto; no serán aceptos para ustedes.
+Y desde mano de hijo de extranjero no acercarán el pan de su Dios desde todas estas, porque su corrupción en ellos, defecto en ellos; no serán aceptados a ustedes.
 
 ### 22:26
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 22:27
 
-Buey o carnero o oveja, cuando nazca, siete días estará con su madre; y desde el octavo día y en adelante será acepto para ofrenda de holocausto al SEÑOR.
+Toro o cordero o cabra, cuando naciere, y será siete días debajo de su madre, y desde día el octavo y adelante será aceptado a ofrenda, ofrenda de fuego a Jehová.
 
 ### 22:28
 
-Y buey o oveja, a él y a su hijo no los mataréis en el mismo día.
+Y toro o cordero, a él y a su hijo no degollarán en día uno.
 
 ### 22:29
 
-Y cuando ofrezcan en holocausto agradecimiento al SEÑOR, lo harán según su voluntad; lo harán.
+Y cuando sacrificaren sacrificio de acción de gracias a Jehová, a su agrado sacrificarán.
 
 ### 22:30
 
-En el mismo día será comido, no dejarán de él hasta la mañana; yo soy el SEÑOR.
+En el día aquel se comerá; no dejarán desde él hasta mañana; yo Jehová.
 
 ### 22:31
 
-Y guardarán mis mandamientos y los cumplirán; yo soy el SEÑOR.
+Y guardarán mis mandamientos, y los harán; yo Jehová.
 
 ### 22:32
 
-Y no profanarán el nombre santo de mí; yo seré santificado en medio de los hijos de Israel; yo soy el SEÑOR que los santifica.
+Y no profanarán el nombre de mi santidad, y seré santificado en medio de hijos de Israel; yo Jehová su santificante,
 
 ### 22:33
 
-El que los sacó de la tierra de Egipto para ser su Dios, yo soy el SEÑOR.
+el sacante a ustedes desde tierra de Mizraim para ser a ustedes a Dios; yo Jehová.
+
 
 ## Capítulo 23
 

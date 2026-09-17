@@ -1,13 +1,13 @@
 # Éxodo
 
-> La Biblia Fiel — Éxodo. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> La Biblia Fiel — Éxodo. Segunda pasada contra OSHB / WLC (voz Génesis). Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
 
 ### 1:1
 
-Y estos nombres de hijos de Israel los vinientes hacia Mizraim con Yaakov; varón y su casa vinieron.
+Y estos son los nombres de los hijos de Israel los vinientes hacia Mizraim con Yaakov; varón y su casa vinieron.
 
 ### 1:2
 

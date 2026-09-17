@@ -19,6 +19,7 @@ Working format:
 | Data | Path |
 | --- | --- |
 | Spanish | `translation/{nt\|ot}/{book}.md` |
+| Proper-name orthography | `translation/PROPER_NAMES.md` |
 | Alignment | `alignment/{nt\|ot}/{book}/{book}-reverse-links.json` |
 | Status | `STATUS.md` |
 | Sources | `source/` |
