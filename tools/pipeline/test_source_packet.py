@@ -1,0 +1,412 @@
+"""Tests for the LBF translation source packet."""
+
+from __future__ import annotations
+
+import sys
+import unittest
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from audit_lib import normalize_audit
+from draft_lib import normalize_draft
+from morph import expand_hebrew_morph
+from polish_lib import freeze_from, normalize_polish
+from source_packet import build_packet, dump_prompt, packet_for_prompt
+
+
+class SourcePacketTests(unittest.TestCase):
+    def test_exodo_1_16_dual_stones(self) -> None:
+        packet = build_packet("exodo", 1, 16)
+        self.assertEqual(packet["textualBasis"], "OSHB/WLC")
+        self.assertEqual(packet["verse"], 16)
+        self.assertGreaterEqual(len(packet["tokens"]), 12)
+        self.assertTrue(all("es" not in token for token in packet["tokens"]))
+        stones = next(
+            token for token in packet["tokens"] if token.get("strongs") == "H70"
+        )
+        self.assertIn("dual", stones["morphExpanded"])
+        self.assertIn("paleo", stones)
+        self.assertNotIn("kjv", stones.get("ahrc") or {})
+
+    def test_hebrew_dual_morph(self) -> None:
+        self.assertIn("dual", expand_hebrew_morph("HTd/Ncmda"))
+
+    def test_titus_1_1_tr_packet(self) -> None:
+        packet = build_packet("titus", 1, 1)
+        self.assertEqual(packet["textualBasis"], "TR1894")
+        self.assertGreaterEqual(len(packet["tokens"]), 10)
+        self.assertTrue(any(token.get("strongs") == "G3972" for token in packet["tokens"]))
+
+    def test_uncited_findings_are_discarded(self) -> None:
+        packet = build_packet("exodo", 1, 16)
+        raw = {
+            "findings": [
+                {
+                    "severity": "fail",
+                    "sourceTokenIds": ["not-a-token"],
+                    "issue": "memory of RV1909",
+                    "spanishSpan": "",
+                },
+                {
+                    "severity": "warn",
+                    "sourceTokenIds": ["h02001016007"],
+                    "issue": "dual unmarked",
+                    "spanishSpan": "las piedras",
+                },
+            ]
+        }
+        audit = normalize_audit(raw, packet, "vean sobre las piedras", "test")
+        self.assertEqual(audit["verdict"], "pass")
+        self.assertEqual(len(audit["findings"]), 1)
+        self.assertEqual(audit["discardedUncitedFindings"], 1)
+
+    def test_uncited_draft_units_are_dropped(self) -> None:
+        packet = build_packet("exodo", 1, 16)
+        raw = {
+            "spanish": "vean sobre las piedras",
+            "units": [
+                {"es": "from memory", "sourceTokenIds": ["nope"]},
+                {"es": "las piedras", "sourceTokenIds": ["h02001016007"]},
+            ],
+            "addedConcepts": [],
+        }
+        draft = normalize_draft(raw, packet, "test")
+        self.assertEqual(draft["droppedUncitedUnits"], 1)
+        self.assertEqual(len(draft["units"]), 1)
+
+    def test_polish_freeze_keeps_dual_and_vivira(self) -> None:
+        draft = {
+            "units": [
+                {"es": "las dos piedras", "sourceTokenIds": ["h02001016007"]},
+                {"es": "vivirá", "sourceTokenIds": ["h02001016016"]},
+            ],
+            "uncertainties": [],
+        }
+        audit = {
+            "verdict": "pass",
+            "findings": [
+                {"severity": "warn", "issue": "genitive parto", "spanishSpan": "parto"}
+            ],
+        }
+        freeze = " ".join(freeze_from(draft, audit))
+        self.assertIn("las dos piedras", freeze)
+        self.assertIn("vivirá", freeze)
+        self.assertIn("never a seat", freeze)
+
+    def test_polish_keeps_token_ids(self) -> None:
+        packet = build_packet("exodo", 1, 16)
+        draft = {"spanish": "vivirá", "units": []}
+        raw = {
+            "spanish": "y vivirá",
+            "units": [{"es": "vivirá", "sourceTokenIds": ["h02001016016"]}],
+            "grammarChanges": ["conjunction flow"],
+            "meaningChanges": [],
+        }
+        polish = normalize_polish(raw, packet, draft, "sonnet5")
+        self.assertEqual(polish["units"][0]["sourceTokenIds"], ["h02001016016"])
+        self.assertEqual(polish["meaningChanges"], [])
+
+    def test_polish_gate_requires_grok_pass(self) -> None:
+        from runner import gates
+        draft = {"spanish": "vivirá"}
+        fail = {"verdict": "fail", "spanish": "vivirá"}
+        passed = {"verdict": "pass", "spanish": "vivirá"}
+        self.assertFalse(gates(draft, fail, None)["canPolish"])
+        self.assertTrue(gates(draft, passed, None)["canPolish"])
+        self.assertFalse(gates(draft, {"verdict": "pass", "spanish": "other"}, None)["canPolish"])
+
+    def test_exodo_1_has_twenty_two_protestant_verses(self) -> None:
+        from source_packet import list_verses
+        self.assertEqual(list_verses("exodo", 1), list(range(1, 23)))
+
+    def test_titus_1_lists_tr_verses(self) -> None:
+        from source_packet import list_verses
+        verses = list_verses("titus", 1)
+        self.assertEqual(verses[0], 1)
+        self.assertGreaterEqual(len(verses), 16)
+
+    def test_hold_is_parked_on_resume(self) -> None:
+        from unittest.mock import patch
+        from runner import run_one_verse
+
+        def boom(*_args, **_kwargs):
+            raise AssertionError("parked verses must not call APIs")
+
+        with patch("runner.verse_disk_status", return_value="hold"):
+            result = run_one_verse(
+                "exodo",
+                1,
+                16,
+                resume=True,
+                steps={
+                    "draft": boom,
+                    "audit_draft": boom,
+                    "polish": boom,
+                    "audit_polish": boom,
+                },
+            )
+        self.assertEqual(result["status"], "skipped")
+        self.assertEqual(result["reason"], "hold")
+
+    def test_chapter_continues_after_a_hold(self) -> None:
+        from unittest.mock import patch
+        from runner import empty_queue, run_chapter
+
+        queue = empty_queue("exodo", 1, [1, 2])
+        outcomes = {
+            1: {"status": "passed", "verse": 1},
+            2: {
+                "status": "hold",
+                "verse": 2,
+                "stage": "audit-draft",
+                "verdict": "fail",
+                "findings": [],
+            },
+        }
+
+        with patch("runner.list_verses", return_value=[1, 2]), patch(
+            "runner.load_queue", return_value=queue
+        ), patch("runner.save_queue", side_effect=lambda item: item), patch(
+            "runner.run_one_verse",
+            side_effect=lambda slug, chapter, verse, **kwargs: outcomes[verse],
+        ):
+            out = run_chapter("exodo", 1, require_api_keys=False)
+
+        self.assertEqual(out["passed"], [1])
+        self.assertEqual(out["holds"][0]["verse"], 2)
+
+    def test_public_error_unwraps_openai_json(self) -> None:
+        from runner import hold_record, public_error
+
+        blob = '{"error": {"message": "You have no credits remaining.", "code": "credit_balance_exhausted"}}'
+        self.assertEqual(public_error(blob), "You have no credits remaining.")
+        hold = hold_record(
+            7,
+            "audit-draft",
+            {
+                "verdict": "fail",
+                "spanish": "vosotros veréis",
+                "notes": "2pl is Spain",
+                "findings": [
+                    {
+                        "severity": "fail",
+                        "issue": "Spain vosotros",
+                        "spanishSpan": "vosotros",
+                        "sourceTokenIds": ["h02001007001"],
+                    }
+                ],
+            },
+        )
+        self.assertEqual(hold["verse"], 7)
+        self.assertEqual(hold["notes"], "2pl is Spain")
+        self.assertEqual(hold["findings"][0]["spanishSpan"], "vosotros")
+
+    def test_lint_flags_known_anti_examples(self) -> None:
+        from lint_lib import lint_spanish
+
+        hits = {item["issue"] for item in lint_spanish("Cuando vosotros veáis el sexo, parid")}
+        self.assertIn("Spain vosotros", hits)
+        self.assertIn("Spain 2pl verb", hits)
+        self.assertIn("el sexo is not in the packet; gender is si hijo / si hija", hits)
+        self.assertIn("archaic parir", hits)
+        clean = lint_spanish(
+            "Y dijo: Cuando asistan a las hebreas a dar a luz, y verán sobre las dos piedras: si él es hijo, lo matarán; y si ella es hija, vivirá."
+        )
+        self.assertEqual(clean, [])
+
+    def test_needs_polish_only_on_warn(self) -> None:
+        from runner import needs_polish
+
+        silent = {"verdict": "pass", "findings": []}
+        warned = {"verdict": "pass", "findings": [{"severity": "warn", "issue": "dual"}]}
+        self.assertFalse(needs_polish(silent, polish="warn"))
+        self.assertTrue(needs_polish(warned, polish="warn"))
+        self.assertTrue(needs_polish(silent, polish="always"))
+        self.assertFalse(needs_polish(warned, polish="never"))
+
+    def test_lint_parks_without_grok(self) -> None:
+        from unittest.mock import patch
+        from runner import DRAFT_LABEL, draft_path, run_one_verse
+
+        store = {str(draft_path("exodo", 1, 99, DRAFT_LABEL)): {"spanish": "Cuando vosotros veáis"}}
+
+        def boom(*_args, **_kwargs):
+            raise AssertionError("lint holds must not call APIs")
+
+        with patch("runner.verse_disk_status", return_value="pending"), patch(
+            "runner._read", side_effect=lambda path: store.get(str(path))
+        ), patch("runner.write_json", lambda path, data: store.update({str(path): data}) or path):
+            result = run_one_verse(
+                "exodo",
+                1,
+                99,
+                resume=True,
+                steps={
+                    "draft": boom,
+                    "audit_draft": boom,
+                    "polish": boom,
+                    "audit_polish": boom,
+                },
+            )
+        self.assertEqual(result["status"], "hold")
+        self.assertEqual(result["stage"], "lint")
+
+    def test_grok_pass_without_warns_skips_sonnet(self) -> None:
+        from unittest.mock import patch
+        from runner import DRAFT_LABEL, audit_path, draft_path, run_one_verse
+
+        spanish = "Y dijo: Cuando asistan a las hebreas a dar a luz"
+        store = {
+            str(draft_path("exodo", 1, 99, DRAFT_LABEL)): {"spanish": spanish},
+            str(audit_path("exodo", 1, 99, DRAFT_LABEL)): {
+                "verdict": "pass",
+                "spanish": spanish,
+                "findings": [],
+            },
+        }
+
+        def boom(*_args, **_kwargs):
+            raise AssertionError("economy pass must not call Sonnet")
+
+        with patch("runner.verse_disk_status", return_value="pending"), patch(
+            "runner._read", side_effect=lambda path: store.get(str(path))
+        ):
+            result = run_one_verse(
+                "exodo",
+                1,
+                99,
+                resume=True,
+                polish="warn",
+                steps={
+                    "draft": boom,
+                    "audit_draft": boom,
+                    "polish": boom,
+                    "audit_polish": boom,
+                },
+            )
+        self.assertEqual(result["status"], "passed")
+        self.assertEqual(result["stage"], "audit-draft")
+
+    def test_grok_warn_calls_sonnet(self) -> None:
+        from unittest.mock import patch
+        from runner import (
+            DRAFT_LABEL,
+            POLISH_LABEL,
+            audit_path,
+            draft_path,
+            polish_path,
+            run_one_verse,
+        )
+
+        spanish = "Y dijo: Cuando asistan a las hebreas a dar a luz"
+        polished = "Y dijo: Cuando asistan a las hebreas a dar a luz."
+        store = {
+            str(draft_path("exodo", 1, 99, DRAFT_LABEL)): {"spanish": spanish},
+            str(audit_path("exodo", 1, 99, DRAFT_LABEL)): {
+                "verdict": "pass",
+                "spanish": spanish,
+                "findings": [
+                    {
+                        "severity": "warn",
+                        "issue": "dual unmarked",
+                        "sourceTokenIds": ["h02001016007"],
+                    }
+                ],
+            },
+        }
+
+        def do_polish(*_args, **_kwargs):
+            store[str(polish_path("exodo", 1, 99, "sonnet5"))] = {"spanish": polished}
+
+        def do_audit_polish(*_args, **_kwargs):
+            store[str(audit_path("exodo", 1, 99, POLISH_LABEL))] = {
+                "verdict": "pass",
+                "spanish": polished,
+            }
+
+        def boom(*_args, **_kwargs):
+            raise AssertionError("draft/grok already on disk")
+
+        with patch("runner.verse_disk_status", return_value="pending"), patch(
+            "runner._read", side_effect=lambda path: store.get(str(path))
+        ), patch("runner.keys", return_value={"openai": True, "xai": True, "anthropic": True}):
+            result = run_one_verse(
+                "exodo",
+                1,
+                99,
+                resume=True,
+                polish="warn",
+                steps={
+                    "draft": boom,
+                    "audit_draft": boom,
+                    "polish": do_polish,
+                    "audit_polish": do_audit_polish,
+                },
+            )
+        self.assertEqual(result["status"], "passed")
+        self.assertEqual(result["stage"], "audit-polish")
+
+    def test_usage_cost_does_not_double_count_reasoning(self) -> None:
+        from usage_lib import call_cost, extract_usage
+
+        usage = extract_usage(
+            "openai",
+            "gpt-5.6",
+            {
+                "usage": {
+                    "prompt_tokens": 2900,
+                    "completion_tokens": 3600,
+                    "completion_tokens_details": {"reasoning_tokens": 3000},
+                }
+            },
+        )
+        self.assertEqual(usage["input"], 2900)
+        self.assertEqual(usage["output"], 3600)
+        self.assertEqual(usage["reasoning"], 3000)
+        self.assertAlmostEqual(call_cost(usage), 2900 / 1_000_000 * 4 + 3600 / 1_000_000 * 20)
+
+    def test_prompt_packet_omits_ahrc_and_stays_compact(self) -> None:
+        packet = build_packet("exodo", 1, 16)
+        self.assertTrue(any(token.get("ahrc") for token in packet["tokens"]))
+        slim = packet_for_prompt(packet)
+        self.assertTrue(any(token.get("ahrc") for token in packet["tokens"]))
+        self.assertTrue(all("ahrc" not in token for token in slim["tokens"]))
+        self.assertTrue(all("paleo" in token for token in slim["tokens"] if "wlc" in token))
+        dumped = dump_prompt({"packet": slim})
+        self.assertNotIn("\n", dumped)
+        self.assertNotIn("ahrc", dumped)
+
+    def test_grok_reasoning_billed_when_above_output(self) -> None:
+        from usage_lib import call_cost, extract_usage
+
+        usage = extract_usage(
+            "xai",
+            "grok-4",
+            {
+                "usage": {
+                    "prompt_tokens": 4000,
+                    "completion_tokens": 25,
+                    "completion_tokens_details": {"reasoning_tokens": 991},
+                }
+            },
+        )
+        self.assertEqual(usage["output"], 25)
+        self.assertEqual(usage["reasoning"], 991)
+        self.assertAlmostEqual(
+            call_cost(usage),
+            4000 / 1_000_000 * 2 + (25 + 991) / 1_000_000 * 6,
+        )
+
+    def test_usage_rollup_scales_bible(self) -> None:
+        from usage_lib import BIBLE_VERSES, summarize_files
+
+        totals = summarize_files([])
+        self.assertEqual(totals["bibleAtThisRate"], 0)
+        self.assertEqual(BIBLE_VERSES, 31098)
+
+
+if __name__ == "__main__":
+    unittest.main()
+
+

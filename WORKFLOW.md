@@ -55,6 +55,18 @@ No trabaje de memoria ni desde la teología.
 La traducción queda `draft` hasta que usted lea el libro entero y firme
 `STATUS.md`. El script exige que estén todos los versículos protestantes.
 
+Un paquete de fuente y una auditoría Grok son opcionales y no firman nada:
+
+```sh
+python3 tools/pipeline/build_source_packet.py exodo 1 16
+python3 tools/pipeline/draft_gpt.py exodo 1 16
+python3 tools/pipeline/audit_grok.py exodo 1 16 --spanish '…' --label candidate
+python3 tools/pipeline/polish_sonnet.py exodo 1 16
+```
+
+El paquete solo admite TR1894 o OSHB + paleo/AHRC. Grok cita tokens o el
+hallazgo se descarta. El español aprobado sigue yendo a `translation/`.
+
 ## Alinear
 
 La alineación es un mapa hecho a mano, un capítulo a la vez.

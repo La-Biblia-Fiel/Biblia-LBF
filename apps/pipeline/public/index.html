@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LBF Pipeline</title>
+    <link rel="stylesheet" href="/styles.css?v=holds3" />
+  </head>
+  <body>
+    <main>
+      <header class="hero">
+        <p class="eyebrow">La Biblia Fiel</p>
+        <h1>Pipeline</h1>
+        <p class="lede">
+          Chapter runs GPT then Grok. Sonnet only if Grok warns. Holds come
+          back here. Verse buttons still run all four stations. Nothing is approved.
+        </p>
+      </header>
+
+      <p class="guard">Machine output stays draft. This app never writes STATUS.md or marks a book done.</p>
+
+      <section class="bar" aria-label="Verse">
+        <label>Book
+          <select id="book"></select>
+        </label>
+        <label>Chapter
+          <input id="chapter" type="number" min="1" value="1" />
+        </label>
+        <label>Verse
+          <input id="verse" type="number" min="1" value="16" />
+        </label>
+        <button id="load" type="button">Load</button>
+        <button id="run-chapter" type="button">Run chapter</button>
+        <p id="keys" class="keys"></p>
+      </section>
+
+      <p id="status" class="status" role="status"></p>
+
+      <section id="queue" class="queue" hidden>
+        <header>
+          <h2>Chapter</h2>
+          <p id="queue-summary" class="muted"></p>
+        </header>
+        <p id="queue-holds-label" class="who">Holds — repair these here</p>
+        <ul id="queue-holds" class="holds"></ul>
+        <p id="queue-errors-label" class="who" hidden>Errors — API or crash</p>
+        <ul id="queue-errors" class="errors"></ul>
+      </section>
+
+      <div id="work" class="work" hidden>
+        <span class="spinner" aria-hidden="true"></span>
+        <div>
+          <p id="work-title">Working</p>
+          <p id="work-hint" class="work-hint"></p>
+        </div>
+      </div>
+
+      <section class="packet" hidden>
+        <div class="packet-head">
+          <h2 id="reference">—</h2>
+          <p id="basis" class="muted"></p>
+        </div>
+        <div id="tokens" class="tokens"></div>
+      </section>
+
+      <ol class="stations">
+        <li class="station" data-station="draft">
+          <header>
+            <span class="n">1</span>
+            <h3>GPT draft</h3>
+            <p class="who">Traduce</p>
+          </header>
+          <p class="text" id="draft-text">—</p>
+          <button type="button" data-run="draft" data-idle="Run GPT">Run GPT</button>
+        </li>
+        <li class="station" data-station="audit-draft">
+          <header>
+            <span class="n">2</span>
+            <h3>Grok verify</h3>
+            <p class="who">source fidelity</p>
+          </header>
+          <p class="verdict" id="draft-verdict">—</p>
+          <ul class="findings" id="draft-findings"></ul>
+          <button type="button" data-run="audit-draft" data-idle="Verify draft">Verify draft</button>
+        </li>
+        <li class="station" data-station="polish">
+          <header>
+            <span class="n">3</span>
+            <h3>Sonnet polish</h3>
+            <p class="who">Pulir · grammar only</p>
+          </header>
+          <p class="text" id="polish-text">—</p>
+          <button type="button" data-run="polish" data-idle="Run Sonnet">Run Sonnet</button>
+        </li>
+        <li class="station" data-station="audit-polish">
+          <header>
+            <span class="n">4</span>
+            <h3>Grok verify</h3>
+            <p class="who">drift check</p>
+          </header>
+          <p class="verdict" id="polish-verdict">—</p>
+          <ul class="findings" id="polish-findings"></ul>
+          <button type="button" data-run="audit-polish" data-idle="Verify polish">Verify polish</button>
+        </li>
+      </ol>
+    </main>
+    <script src="/main.js?v=holds3"></script>
+  </body>
+</html>

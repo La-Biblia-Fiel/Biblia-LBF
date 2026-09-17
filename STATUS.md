@@ -49,7 +49,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | habacuc | ot | ready | none |  |  |  |  |  |
 | sofonias | ot | ready | none |  |  |  |  |  |
 | hageo | ot | ready | none |  |  |  |  |  |
-| zacarias | ot | done | done | John Wry | 2026-08-18 | John Wry | 2026-09-16 | 211 `mapped`; AI audit pass (93 pass / 118 warn / 0 fail; 9:17 H1715 false-fail overruled); awaiting alignment approval |
+| zacarias | ot | done | done | John Wry | 2026-08-18 | John Wry | 2026-09-16 | 211 `mapped`; AI audit pass (93/118/0; 9:17 H1715 false-fail overruled) |
 | malaquias | ot | ready | none |  |  |  |  |  |
 | mateo | nt | ready | none |  |  |  |  |  |
 | marcos | nt | ready | none |  |  |  |  |  |
@@ -83,4 +83,4 @@ Signed columns stay empty until a human writes a name and an ISO date.
 
 Nehemiah 7:68: OSHB/WLC has no source for this Protestant label (WLC Neh 7:68 is Protestant 7:69). First-pass may draft it only from Ezra 2:66 OSHB after explicit confirmation. Still draft until second-pass review. Apocalipsis Spanish: later TR revision accepted. Zacarías 11:2: `el cedro` already applied.
 
-Zacarías alignment (2026-09-16): structural map accept done (211 `mapped`). Alignment `ready` now requires AI lexical audit: `python3 tools/audit_alignment_ai.py zacarias` → `{book}-ai-alignment-audit.json` with `verdict: pass`. Hebraist review remains optional (`source-reviewed:`), not a gate.
+Zacarías (2026-09-16): translation + alignment both `done` (John Wry). Alignment path: structural map accept → AI audit pass → human approval.
