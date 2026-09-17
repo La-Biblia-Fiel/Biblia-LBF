@@ -7,7 +7,7 @@
 
 ### 1:1
 
-Y estos son los nombres de los hijos de Israel los vinientes hacia Mizraim con Yaakov; varón y su casa vinieron.
+Y estos son los nombres de los hijos de Israel - los vinientes hacia Mizraim con Yaakov; varón y su casa vinieron.
 
 ### 1:2
 
