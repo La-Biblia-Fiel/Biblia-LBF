@@ -1,4368 +1,4368 @@
 # Job
 
-> La Biblia Fiel — Job. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> La Biblia Fiel — Job. Segunda pasada contra OSHB / WLC (voz Génesis), pulida. Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
 
 ### 1:1
 
-Había una vez un hombre en la tierra de Uz, cuyo nombre era Job, y este hombre era perfecto, recto, temeroso de Dios y alejado del mal.
+Hombre hubo en tierra de Uts; Iyov su nombre; y fue aquel hombre íntegro y recto, y temeroso de Dios y apartado de mal.
 
 ### 1:2
 
-Y tuvo siete hijos y tres hijas.
+Y le nacieron siete hijos y tres hijas.
 
 ### 1:3
 
-Y tenía siete mil ovejas, tres mil camellos, quinientas parejas de bueyes y quinientas parejas de asnas, y un servicio muy grande, y este hombre era grande entre todos los del oriente.
+Y fue su ganado siete mil ovejas y tres mil camellos y quinientas yuntas de bueyes y quinientas asnas, y servicio mucho en gran manera; y fue aquel hombre grande más que todos los hijos del oriente.
 
 ### 1:4
 
-Y iban sus hijos y hacían fiestas en casa de cada uno por su día, y enviaban y llamaban a sus tres hermanos para comer y beber con ellos.
+Y andaban sus hijos y hacían banquete en casa de cada uno su día; y enviaban y llamaban a las tres a comer y a beber con ellos.
 
 ### 1:5
 
-Y sucedió que cuando terminaban los días de la fiesta, enviaba Job y santificaba a cada uno de ellos, y levantábase de mañana y ofrecía holocaustos según el número de todos ellos, porque decía Job: Quizás hayan pecado en sus almas, bendigan a Dios en sus corazones. Así hacía Job todos los días.
+Y fue cuando rodeaban los días del banquete, e enviaba Iyov y los santificaba; y madrugaba por la mañana y ofrecía holocaustos según el número de todos ellos; porque decía Iyov: Quizá pecaron mis hijos y bendijeron a Dios en su corazón. Así hacía Iyov todos los días.
 
 ### 1:6
 
-Y aconteció un día que vinieron a presentarse ante Jehová los hijos de Dios, y vino también el diablo entre ellos.
+Y fue el día, y vinieron los hijos de Dios a presentarse sobre Jehová; y vino también el satán en medio de ellos.
 
 ### 1:7
 
-Y dijo Jehová al diablo: ¿De dónde vienes? Y respondió el diablo a Jehová y dijo: He andado por la tierra y he recorrido por ella.
+Y dijo Jehová al satán: ¿De dónde vienes? Y respondió el satán a Jehová, y dijo: De recorrer la tierra y de andar en ella.
 
 ### 1:8
 
-Y dijo Jehová al diablo: ¿Has puesto a prueba el corazón de mi siervo Job, pues no hay en la tierra hombre como él, perfecto y recto, temeroso de Dios y alejado del mal?
+Y dijo Jehová al satán: ¿Has puesto tu corazón sobre mi siervo Iyov? Porque no hay como él en la tierra, hombre íntegro y recto, temeroso de Dios y apartado de mal.
 
 ### 1:9
 
-Y respondió el diablo a Jehová y dijo: ¿Acaso Job teme a Dios por nada?
+Y respondió el satán a Jehová, y dijo: ¿De balde teme Iyov a Dios?
 
 ### 1:10
 
-¿No has puesto a prueba a su persona y a su casa y a todo lo que tiene de todos modos? Has bendecido el trabajo de sus manos, y su ganado se ha multiplicado en la tierra.
+¿No cercaste en torno de él y en torno de su casa y en torno de todo lo que es suyo de alrededor? Obra de sus manos bendijiste, y su ganado se extendió en la tierra.
 
 ### 1:11
 
-Pero ahora, estírale la mano y toca todo lo que tiene, si no te bendice en tu rostro.
+Pero ahora extiende ahora tu mano y toca en todo lo que es suyo; si no sobre tu rostro te bendecirá.
 
 ### 1:12
 
-Y dijo Jehová al diablo: He aquí, todo lo que tiene está en tu mano, pero a su persona no estírale la mano. Y salió el diablo de la presencia de Jehová.
+Y dijo Jehová al satán: He aquí todo lo que es suyo en tu mano; solo a él no extiendas tu mano. Y salió el satán de delante del rostro de Jehová.
 
 ### 1:13
 
-Y aquel día, mis hijos y mis hijas estaban comiendo y bebiendo vino en casa de mi hijo mayor.
+Y fue el día, y sus hijos y sus hijas comían y bebían vino en casa de su hermano el primogénito.
 
 ### 1:14
 
-Y un ángel vino a Job y le dijo: Sus bueyes estaban labrando y sus asnas pastando junto a ellos.
+Y un mensajero vino a Iyov, y dijo: Los bueyes estaban arando, y las asnas pastando a sus manos;
 
 ### 1:15
 
-Y cayó Saba y los llevó cautivos, y a los jóvenes mató a espada, y yo solo escapé para contarte.
+y cayó Shevá y los tomó, y a los mozos golpearon a filo de espada; y escapé solo yo solo para anunciarte.
 
 ### 1:16
 
-Mientras esto decía, otro llegó y dijo: Un fuego de Dios cayó del cielo y lo consumió todo, y a los jóvenes mató a espada, y yo solo escapé para contarte.
+Aún este hablaba, y este vino y dijo: Fuego de Dios cayó desde los cielos y quemó en el ganado y en los mozos y los consumió; y escapé solo yo solo para anunciarte.
 
 ### 1:17
 
-Mientras esto decía, otro llegó y dijo: Los caldeos pusieron tres capitanes y atacaron a los camellos, y los llevaron cautivos, y a los jóvenes mataron a espada, y yo solo escapé para contarte.
+Aún este hablaba, y este vino y dijo: Kasdim pusieron tres cabezas y se extendieron sobre los camellos y los tomaron, y a los mozos golpearon a filo de espada; y escapé solo yo solo para anunciarte.
 
 ### 1:18
 
-Mientras esto decía, otro llegó y dijo: Tus hijos y tus hijas estaban comiendo y bebiendo vino en casa de tu hijo mayor.
+Aún este hablaba, y este vino y dijo: Tus hijos y tus hijas comían y bebían vino en casa de su hermano el primogénito;
 
 ### 1:19
 
-Y he aquí un viento muy fuerte vino del desierto y golpeó las cuatro esquinas de la casa, y cayó sobre los jóvenes y murieron, y yo solo escapé para contarte.
+y he aquí un viento grande vino de allende el desierto y tocó en las cuatro esquinas de la casa, y cayó sobre los mozos y murieron; y escapé solo yo solo para anunciarte.
 
 ### 1:20
 
-Entonces Job se levantó, rasgó su túnica, se cortó el cabello y se postró sobre el suelo.
+Y se levantó Iyov y rasgó su manto, y se rapó la cabeza, y cayó a tierra y se postró.
 
 ### 1:21
 
-Y dijo: Desnudo salí del vientre de mi madre, y desnudo volveré allí. El Señor dio, y el Señor quitó; bendito sea el nombre del Señor.
+Y dijo: Desnudo salí del vientre de mi madre, y desnudo volveré allá; Jehová dio y Jehová tomó; sea el nombre de Jehová bendito.
 
 ### 1:22
 
-En todo esto Job no pecó ni atribuyó a Dios una maldad.
+En todo esto no pecó Iyov, y no dio necedad a Dios.
 
 ## Capítulo 2
 
 ### 2:1
 
-Y aquel día vinieron los hijos de Dios para presentarse ante Jehová, y también vino el diablo entre ellos para presentarse ante Jehová.
+Y fue el día, y vinieron los hijos de Dios a presentarse sobre Jehová; y vino también el satán en medio de ellos a presentarse sobre Jehová.
 
 ### 2:2
 
-Y Jehová dijo al diablo: ¿De dónde vienes? Y el diablo respondió a Jehová y dijo: He estado dando vueltas por la tierra y he andado por ella.
+Y dijo Jehová al satán: ¿De dónde vienes? Y respondió el satán a Jehová, y dijo: De recorrer la tierra y de andar en ella.
 
 ### 2:3
 
-Y Jehová dijo al diablo: ¿Has puesto tu corazón contra mi siervo Job, pues no hay en la tierra nadie como él, hombre perfecto y recto, que teme a Dios y se aparta del mal? Y aún se mantiene firme en su integridad, y tú te has excitado contra él para devorarlo sin causa.
+Y dijo Jehová al satán: ¿Has puesto tu corazón hacia mi siervo Iyov? Porque no hay como él en la tierra, hombre íntegro y recto, temeroso de Dios y apartado de mal; y aún él se aferra a su integridad, y me incitaste contra él para tragarlo de balde.
 
 ### 2:4
 
-Y respondió el diablo a Jehová y dijo: Piel por piel, y todo lo que tiene un hombre, dará por su alma.
+Y respondió el satán a Jehová, y dijo: Piel por piel, y todo lo que es del hombre dará por su alma.
 
 ### 2:5
 
-Pero ahora, estírale la mano y toca su hueso y su carne; si no, no te bendecirá en tu presencia.
+Mas ahora extiende ahora tu mano y toca hacia su hueso y hacia su carne; si no hacia tu rostro te bendecirá.
 
 ### 2:6
 
-Y dijo Jehová al diablo: He aquí, está en tu mano; pero guarda su vida.
+Y dijo Jehová al satán: He aquí él en tu mano; solo su alma guarda.
 
 ### 2:7
 
-Y salió el diablo de la presencia de Jehová, y herió a Job con una llaga de pústulas desde la planta del pie hasta la coronilla.
+Y salió el satán de delante del rostro de Jehová, y golpeó a Iyov con úlcera mala desde la planta de su pie hasta su coronilla.
 
 ### 2:8
 
-Y tomó un pedazo de cerámica para rasparse en ella, y se sentó en medio del polvo.
+Y tomó para sí un tiesto para rascarse con él; y él sentado en medio de la ceniza.
 
 ### 2:9
 
-Y dijo a él su mujer: ¿Aún guardas tu integridad? Bendice a Dios y muere.
+Y le dijo su mujer: ¿Aún te aferras a tu integridad? Bendice a Dios y muere.
 
 ### 2:10
 
-Y respondió a ella: Habla ya por una vez la necedad; también el bien recibimos de la mano de Dios, y el mal no lo recibiremos. En esto no ha pecado Job con sus labios.
+Y le dijo: Como hablar de una de las necias hablas. ¿También el bien recibiremos de parte de Dios, y el mal no recibiremos? En todo esto no pecó Iyov con sus labios.
 
 ### 2:11
 
-Y oyeron tres amigos de Job que había venido sobre él toda esta adversidad; y vinieron cada uno de su lugar: Elifaz el temanita, y Bildad el suhita, y Zofar el naamatita; y vinieron juntos para llorar con él y consolarlo.
+Y oyeron tres amigos de Iyov todo este mal que vino sobre él, y vinieron cada uno de su lugar: Elifaz el temaní y Bildad el shují y Tsofar el naamatí; y se concertaron juntos para venir a condolerse por él y para consolarlo.
 
 ### 2:12
 
-Y levantaron los ojos de lejos, y no le reconocieron; y levantaron la voz y lloraron; y cada uno rompió su manto, y echó polvo al aire sobre sus cabezas hacia el cielo.
+Y alzaron sus ojos de lejos y no lo reconocieron; y alzaron su voz y lloraron; y rasgaron cada uno su manto, y echaron polvo sobre sus cabezas hacia los cielos.
 
 ### 2:13
 
-Y se sentaron con él sobre la tierra siete días y siete noches; y ninguno hablaba palabra con él, porque veían que su dolor era muy grande.
+Y se sentaron con él a tierra siete días y siete noches; y no hay hablante a él palabra, porque vieron que grande el dolor en gran manera.
 
 ## Capítulo 3
 
 ### 3:1
 
-Después abrió Job la boca y maldijo su día.
+Después de esto abrió Iyov su boca y maldijo su día.
 
 ### 3:2
 
-Respondió Job y dijo:
+Y respondió Iyov y dijo:
 
 ### 3:3
 
-Que pereciera el día en que nací, y la noche que dijo: Un varón ha sido concebido.
+Perezca el día en que yo nací, y la noche que dijo: Concebido ha sido un varón.
 
 ### 3:4
 
-Que ese día sea oscuridad; que no busque Dios sobre él, y que no haya luz sobre él.
+Aquel día sea tiniebla; no lo busque Dios desde arriba, y no resplandezca sobre él luminaria.
 
 ### 3:5
 
-Que sea oscuridad y no noche; que no haya en él luz; que no haya en él alborada.
+Lo reclamen tiniebla y sombra de muerte; more sobre él nube; lo aterren como amarguras de día.
 
 ### 3:6
 
-Que la noche de ese día sea oscura; que no haya en ella alegría; que no haya en ella mes ni cuarto de luna.
+Aquella noche la tome oscuridad; no se junte en los días del año; en el número de los meses no entre.
 
 ### 3:7
 
-Que esa noche sea oscura; que no haya en ella alegría; que no haya en ella alborada.
+He aquí aquella noche sea estéril; no venga en ella grito de júbilo.
 
 ### 3:8
 
-Que los que maldicen el día vengan sobre él; que los que están preparados para levantarse contra él lo amenacen.
+La maldigan los maldicientes de día, los dispuestos a despertar a Livyatán.
 
 ### 3:9
 
-Que los que esperan la luz se vuelvan a las tinieblas, y que no vean la luz, ni vean la alborada.
+Se oscurezcan las estrellas de su crepúsculo; espere a luz y no haya; y no vea los párpados del alba.
 
 ### 3:10
 
-Porque no cerró las puertas de mi vientre, ni ocultó de mis ojos el trabajo.
+Porque no cerró las puertas de mi vientre, y ocultó trabajo de mis ojos.
 
 ### 3:11
 
-¿Por qué no morí al nacer? ¿Por qué no expiré cuando salí del seno materno?
+¿Por qué no desde el vientre morí? Desde el seno salí y expirara.
 
 ### 3:12
 
-¿Por qué salieron antes mis codos que mis ojos, y por qué no se abrió la puerta de mi vientre?
+¿Por qué me anticiparon rodillas, y qué pechos para que mamara?
 
 ### 3:13
 
-Porque ahora duermo y duermo en paz; entonces descansaría.
+Porque ahora yacería y estaría quieto; dormiría; entonces me reposaría;
 
 ### 3:14
 
-Con reyes y consejeros de la tierra, los que edifican ruinas para ellos
+con reyes y consejeros de tierra, los que edifican ruinas para sí;
 
 ### 3:15
 
-O con príncipes de oro para ellos, los que llenan sus casas de plata
+o con príncipes oro para ellos, los que llenan sus casas de plata;
 
 ### 3:16
 
-O como un aborto oculto, no existiré; como niños que no vieron la luz
+o como aborto oculto no sería; como niños que no vieron luz.
 
 ### 3:17
 
-Allí los malvados cesan de la ira, y allí descansan los agotados
+Allí cesaron los impíos de agitación, y allí reposan los fatigados de fuerza.
 
 ### 3:18
 
-Juntos los prisioneros suspiran, no oyeron la voz del opresor
+Juntos los prisioneros están tranquilos; no oyeron voz de opresor.
 
 ### 3:19
 
-Pequeño y grande allí es uno, y el siervo es libre de su señor
+Pequeño y grande allí él es, y siervo libre de sus señores.
 
 ### 3:20
 
-¿Para qué da la luz al trabajador y la vida a los afligidos de espíritu?
+¿Por qué da al trabajado luz, y vida a los amargos de alma,
 
 ### 3:21
 
-Los que esperan la muerte y no la encuentran, la buscan entre los sepulcros
+los que esperan a la muerte y no está, y la cavan más que tesoros;
 
 ### 3:22
 
-Los que se alegran de la alegría, se cansan porque hallan un sepulcro
+los que se alegran hasta el júbilo, se gozan cuando hallan sepulcro;
 
 ### 3:23
 
-Para el hombre cuyo camino está oculto, y Dios le rodea
+al varón cuya vía está escondida, y cercó Dios en torno de él?
 
 ### 3:24
 
-Porque ante mi pan mi suspiro llega, y mis gritos se derraman como agua
+Porque delante de mi pan viene mi gemido, y se derraman como aguas mis rugidos.
 
 ### 3:25
 
-Porque temí el temor, y llegó a mí; y lo que temí, me llegó
+Porque temor temí y me vino, y lo que recelé viene a mí.
 
 ### 3:26
 
-No he tenido paz, ni he estado tranquilo, ni he descansado, y ha llegado la ira
+No estuve sosegado ni quieto ni reposé, y vino agitación.
 
 ## Capítulo 4
 
 ### 4:1
 
-Entonces Elifaz el teameo habló
+Y respondió Elifaz el temaní y dijo:
 
 ### 4:2
 
-¿Has probado algo a ti, y te has enojado? ¿Y quién puede contener las palabras?
+Si se prueba palabra hacia ti, ¿te fatigarás? Y contener en palabras, ¿quién podrá?
 
 ### 4:3
 
-Mira, has afligido a muchos, y has fortalecido las manos débiles
+He aquí, corregiste a muchos, y manos flojas fortalecías.
 
 ### 4:4
 
-El que tropieza levantarás tú, y a las rodillas caídas fortalecerás
+Al que tropieza levantaban tus palabras, y rodillas dobladas afirmabas.
 
 ### 4:5
 
-Porque ahora vendrás a ti, y te enojarás; tocarás el límite, y te asombrarás
+Porque ahora viene a ti y te fatigas; toca hasta ti y te turbas.
 
 ### 4:6
 
-¿No es tu temor tu tesoro, y tu esperanza la integridad de tus caminos?
+¿No es tu temor tu confianza, tu esperanza y la integridad de tus caminos?
 
 ### 4:7
 
-Acuérdate ahora, ¿quién es el justo que pereció, y dónde están los rectos que fueron cortados?
+Recuerda ahora: ¿quién es el inocente que pereció, y dónde los rectos fueron borrados?
 
 ### 4:8
 
-Como he visto a los que labran la maldad, y a los que siembran el trabajo, segarán sus frutos
+Según lo que vi, los que aran iniquidad y siembran trabajo, lo siegan.
 
 ### 4:9
 
-Por la mano de Dios perecen, y por el aliento de su ira perecen
+Por aliento de Dios perecen, y por soplo de su nariz se consumen.
 
 ### 4:10
 
-El rugido del león y el grito del león, y los dientes del leopardo se retuercen
+Rugido de león y voz de león joven, y dientes de leoncillos son arrancados.
 
 ### 4:11
 
-Para el que no tiene presa perece, y los hijos del león se dispersan
+León viejo perece por falta de presa, e hijos de leona se dispersan.
 
 ### 4:12
 
-Y a mí un mensaje me llega, y en él un murmullo escucho.
+Y a mí palabra fue hurtada, y tomó mi oído un susurro de ella.
 
 ### 4:13
 
-En ramas de visiones nocturnas, en caer en un sueño, sobre hombres.
+En pensamientos de visiones de noche, al caer sopor sobre hombres,
 
 ### 4:14
 
-El temor me llama y el espanto, y el peso de mis huesos me asusta.
+temor me encontró y temblor, y muchedumbre de mis huesos aterró.
 
 ### 4:15
 
-Y un espíritu sobre mi rostro pasa, y se eriza la piel de mi cuerpo.
+Y un espíritu sobre mi rostro pasa; eriza el pelo de mi carne.
 
 ### 4:16
 
-Se levanta, pero no reconozco su figura; una imagen frente a mis ojos, silencio y voz escucho.
+Se para, y no reconozco su aspecto; una figura delante de mis ojos; silencio, y voz oigo:
 
 ### 4:17
 
-¿El hombre puede ser justificado ante Dios, o puede ser limpiado el que es creado?
+¿El mortal de Dios será justo? ¿Si de su hacedor será puro el varón?
 
 ### 4:18
 
-He aquí, en sus siervos no cree, y en sus ángeles pone gloria.
+He aquí en sus siervos no confía, y en sus mensajeros pone locura;
 
 ### 4:19
 
-También los que habitan en casas de barro, cuyo fundamento está en la tierra, los oprime ante el opresor.
+cuánto más los moradores de casas de barro, cuyo fundamento en el polvo; los aplastan delante de una polilla.
 
 ### 4:20
 
-Desde la mañana hasta la tarde es golpeado, sin dejar de ser, hasta que perece.
+De mañana a tarde son golpeados; sin poner atención para siempre perecen.
 
 ### 4:21
 
-¿No va a ser llevado su tentativa entre ellos? Mueren, y no con sabiduría.
+¿No es arrancada su cuerda en ellos? Mueren, y no en sabiduría.
 
 ## Capítulo 5
 
 ### 5:1
 
-Grita, ¿tiene acaso respuesta? ¿A quién de los santos se volverá?
+Llama ahora: ¿hay quien te responda? Y hacia quién de los santos te volverás?
 
 ### 5:2
 
-Porque el necio matará a quien se enoja, y la envidia matará al engañador.
+Porque al necio mata el enojo, y al simple mata la envidia.
 
 ### 5:3
 
-He visto a un necio que se pavonea, y he jurado acerca de su casa de repente.
+Yo vi al necio echando raíz, y maldije de pronto su morada.
 
 ### 5:4
 
-Sus hijos se alejarán de la salvación, y en la plaza serán oprimidos, y no habrá quien los libere.
+Se alejan sus hijos de salvación, y son aplastados en la puerta, y no hay libertador.
 
 ### 5:5
 
-El hambriento comerá su cosecha, y al mendigo le dará suerte, y los sedientos se apoderarán de sus riquezas.
+Cuyo cosecha el hambriento come, y hacia de entre espinas la toma; y jadean sedientos su haber.
 
 ### 5:6
 
-Porque no saldrá del polvo la maldad, ni del barro brotarán los trabajos.
+Porque no sale del polvo iniquidad, y de la tierra no brota trabajo.
 
 ### 5:7
 
-Porque el hombre nace para el trabajo, y los hijos del malvado serán elevados por las aves.
+Porque hombre a trabajo nace, e hijos de llama alzan vuelo.
 
 ### 5:8
 
-Pero yo buscaré a Dios, y pondré mis palabras ante él.
+Mas yo buscaré a El, y a Dios pondré mi causa;
 
 ### 5:9
 
-Hace grandes cosas, y no hay investigación; hace maravillas, sin contarlas.
+que hace grandes cosas y no hay pesquisa, maravillas hasta no hay número;
 
 ### 5:10
 
-El que da lluvia sobre la faz de la tierra, y envía aguas sobre la faz de los campos.
+que da lluvia sobre faz de tierra, y envía aguas sobre faz de campos;
 
 ### 5:11
 
-Para poner a los humildes en lo alto, y a los que son bajos, los elevará para la salvación.
+para poner bajos a altura, y los enlutados son ensalzados salvación.
 
 ### 5:12
 
-Desvía los planes de los astutos, y sus manos no logran nada.
+Que frustra pensamientos de astutos, y no harán sus manos éxito;
 
 ### 5:13
 
-Atrapará a los sabios en su astucia, y la conseja de los astutos será precipitada.
+que captura sabios en su astucia, y consejo de torcidos es apresurado.
 
 ### 5:14
 
-Por la mañana se encontrarán con tinieblas, y por la noche se moverán como en pleno día.
+De día encuentran tiniebla, y como de noche tasan a mediodía.
 
 ### 5:15
 
-Salva de la espada de sus bocas y de la mano del fuerte, el pobre.
+Y salva de espada de su boca, y de mano de fuerte al necesitado.
 
 ### 5:16
 
-Es para el humilde la esperanza, y la boca de los impíos se apresura.
+Y hay para el pobre esperanza, e injusticia cierra su boca.
 
 ### 5:17
 
-He aquí que feliz es el hombre a quien Dios reprende y no desprecies la corrección de El-Shadday.
+He aquí bienaventurado el mortal a quien Dios reprende, y disciplina de Shadai no deseches.
 
 ### 5:18
 
-Porque él hiere y cura, hace daño y sanará.
+Porque él duele y venda; hiere, y sus manos sanan.
 
 ### 5:19
 
-En seis calamidades lo librará, y en siete no tocará a tu vida el mal.
+En seis angustias te librará, y en siete no tocará en ti mal.
 
 ### 5:20
 
-En la hambruna te libra de la muerte, y en la guerra de la espada.
+En hambre te rescatará de muerte, y en guerra de manos de espada.
 
 ### 5:21
 
-En el castigo de la lengua te esconderás, y no temerás de la destrucción cuando venga.
+Del azote de lengua serás escondido, y no temerás de destrucción cuando venga.
 
 ### 5:22
 
-Ríete de la destrucción y del pillaje, y no temas a los animales de la tierra.
+A destrucción y a hambre te reirás, y de bestia de la tierra no temerás.
 
 ### 5:23
 
-Porque con las piedras del campo tendrás un pacto, y los animales de la tierra te serán pacíficos.
+Porque con piedras del campo tu pacto, y bestia del campo es pacificada para ti.
 
 ### 5:24
 
-Y conocerás que tu tienda es en paz, y visitarás tu morada y no tendrás pecado.
+Y sabrás que paz tu tienda, y visitarás tu morada y no pecarás.
 
 ### 5:25
 
-Y conocerás que tu descendencia será numerosa, y tus descendientes como el hierba de la tierra.
+Y sabrás que mucho tu linaje, y tus descendientes como hierba de la tierra.
 
 ### 5:26
 
-Entrarás en el sepulcro en plenitud de días, como un montón de trigo se recoge en su tiempo.
+Entrarás en vejez madura al sepulcro, como subir montón en su tiempo.
 
 ### 5:27
 
-He aquí esto es el examen, esto es lo que es; escucha esto y tú sabrás para ti mismo.
+He aquí esto investigamos; así es; óyela, y tú conoce para ti.
 
 ## Capítulo 6
 
 ### 6:1
 
-Entonces respondió Job y dijo:
+Y respondió Iyov y dijo:
 
 ### 6:2
 
-¡Oh, que pesara mi carga según mi capacidad y que mis cargas fueran pesadas en la balanza juntas!
+¡Ojalá pesando se pesara mi enojo, y en balanza alzaran juntos!
 
 ### 6:3
 
-Porque ahora mi tiempo es como el polvo, por eso mis palabras son vanas.
+Porque ahora más que arena de mares pesaría; por eso mis palabras se tragaron.
 
 ### 6:4
 
-Porque las flechas del Todopoderoso están contra mí, cuyo ardor consume mi aliento; las tinieblas de la muerte me rodean.
+Porque flechas de Shadai conmigo, cuyo veneno bebe mi espíritu; terrores de Dios me ordenan.
 
 ### 6:5
 
-¿Gruñirá el ciervo en el pasto, o mugirá el buey en su estabulación?
+¿Rebuzna el asno montés sobre hierba? ¿Si muge el buey sobre su forraje?
 
 ### 6:6
 
-¿Se comerá el alimento sin sal, o tendrá sabor el jugo de la miel?
+¿Se come lo soso sin sal? ¿Si hay sabor en baba de malva?
 
 ### 6:7
 
-Mi alma se aborrece de la amargura; son como la escoria de mi alimento.
+Rehúsó tocar mi alma; ellas como enfermedad de mi pan.
 
 ### 6:8
 
-¿Quién dará que mi petición llegue, y que mi esperanza llegue ante Dios?
+¡Quién diera que viniera mi petición, y mi esperanza diera Dios!
 
 ### 6:9
 
-Y que Dios me haga y me deprime, que extienda su mano y me lastime.
+Y se digne Dios y me aplastara; suelte su mano y me corte.
 
 ### 6:10
 
-Y que sea mi consuelo aún más, y que me fortalezca en el dolor, que no tenga misericordia, porque no he contradicho las palabras del santo.
+Y sea aún mi consuelo, y saltaría en dolor no apiadándose; porque no oculté dichos de Santo.
 
 ### 6:11
 
-¿Qué fuerza tengo para esperar, y qué final tengo para prolongar mi vida?
+¿Qué mi fuerza para que espere, y qué mi fin para que prolongue mi alma?
 
 ### 6:12
 
-¿Si la fuerza de las piedras es mi fuerza, o mi cuerpo es de bronce?
+¿Si fuerza de piedras mi fuerza? ¿Si mi carne es bronce?
 
 ### 6:13
 
-¿Acaso no hay ayuda para mí, y la prudencia se ha apartado de mí?
+¿Acaso no hay mi ayuda en mí, y éxito es empujado de mí?
 
 ### 6:14
 
-La misericordia se da al enemigo por un tributo, y temer a Dios se deja de lado.
+Al desfallecido de su amigo misericordia, y temor de Shadai abandona.
 
 ### 6:15
 
-Mis amigos son inconstantes como un arroyo, como corrientes de arroyos que pasan.
+Mis hermanos traicionaron como torrente; como cauce de torrentes pasan,
 
 ### 6:16
 
-Los que se oscurecen de mí son como la nieve que se derrite.
+los oscurecidos por hielo; sobre ellos se esconde nieve.
 
 ### 6:17
 
-En el tiempo que se derrite la nieve, se derriten de su lugar en la sequía.
+En tiempo en que se derriten se aniquilan; en su calor se extinguen de su lugar.
 
 ### 6:18
 
-Sus caminos se desvían, suben en la soledad y perecen.
+Se tuercen senderos de su camino; suben en el vacío y perecen.
 
 ### 6:19
 
-Miraron los caminos de Tema, las marchas de Saba esperaron para ellos.
+Miraron senderos de Temá; caminos de Shevá esperaron a ellos.
 
 ### 6:20
 
-Se avergonzaron porque confiaron, vinieron al día de la calamidad y se escondieron.
+Se avergonzaron porque confiaron; vinieron hasta ella y se confundieron.
 
 ### 6:21
 
-Porque ahora habéis sido, no veréis calamidad y temeréis.
+Porque ahora ustedes han sido; ven terror y temen.
 
 ### 6:22
 
-¿Acaso dije: Traedme, y de vuestra fuerza dadme un rescate?
+¿Acaso dije: Denme a mí, y de su fuerza sobornen por mí;
 
 ### 6:23
 
-Y librarme de la mano del enemigo, y de la mano de los tiranos redimíosme.
+y líbrenme de mano de adversario, y de mano de tiranos me rescaten?
 
 ### 6:24
 
-Irradienme y yo callaré; ¿qué confusión he cometido, aclárenmela.
+Enséñenme, y yo callaré; y en qué erré, háganme entender.
 
 ### 6:25
 
-¿Qué son las palabras de rectitud y qué el que convence a los convencidos?
+¡Cuán penetrantes dichos de rectitud! Y qué reprende reprender de ustedes?
 
 ### 6:26
 
-¿Piensan convencer palabras y hablarán a la vez con espíritu inútil?
+¿Para reprender palabras piensan, y a viento dichos del desesperado?
 
 ### 6:27
 
-¿Abatirán a un huérfano y perseguirán a sus amigos?
+También sobre huérfano echan suertes, y cavan sobre su amigo.
 
 ### 6:28
 
-Ahora, pues, miradme a mí y si yo miento en mi rostro.
+Y ahora dígnense; vuelvan el rostro a mí, y sobre sus rostros si mentiré.
 
 ### 6:29
 
-Vuelvan, por favor, no sean injustos; si mi justicia está en ellos.
+Vuélvanse ahora; no haya injusticia; aún mi justicia en ella.
 
 ### 6:30
 
-¿Acaso hay maldad en mi lengua, o mi boca no entiende el error?
+¿Hay en mi lengua injusticia? ¿Si mi paladar no entiende calamidades?
 
 ## Capítulo 7
 
 ### 7:1
 
-¿Acaso no trabaja el hombre en la tierra como un jornalero, sus días como los de un alquilado?
+¿No es servicio para el mortal tierra, y como días de jornalero sus días?
 
 ### 7:2
 
-Como un siervo anhela la sombra, y como un jornalero espera su paga.
+Como siervo que jadea sombra, y como jornalero que espera su obra,
 
 ### 7:3
 
-Así me han dado meses de vanidad, y noches de trabajo me han contado.
+así me hicieron heredar meses de vanidad, y noches de trabajo me contaron a mí.
 
 ### 7:4
 
-Si duermo, digo: ¿Cuándo amanecerá? Y mido la tarde; y me canso hasta la alborada.
+Si me acuesto, y digo: ¿Cuándo me levantaré? Y se mide la tarde, y me sacio de inquietudes hasta el crepúsculo.
 
 ### 7:5
 
-Mi piel se viste de corrupción, y mi calva se llena de polvo; mi piel se seca y muere.
+Se vistió mi carne de gusano, polvo; mi piel se cuartea y se rechaza.
 
 ### 7:6
 
-Mis días se volvieron livianos en mi mano, y se acabaron en vanidad.
+Mis días fueron más ligeros que lanzadera, y se acabaron en ausencia de esperanza.
 
 ### 7:7
 
-Acuérdate de que mi espíritu es vida; no volverán mis ojos a ver el bien.
+Recuerda que viento mi vida; no volverá mi ojo a ver bien.
 
 ### 7:8
 
-No te busques con mi ojo, tus ojos están sobre mí, pero yo no estoy.
+No me mirará ojo de mi vidente; tus ojos en mí, y no estoy.
 
 ### 7:9
 
-Se acabó la nube y se fue; así el que baja al Sheol no volverá arriba.
+Se consume nube y va; así el que desciende a Sheol no sube.
 
 ### 7:10
 
-No volverá más a su casa, ni en su lugar lo reconocerán más.
+No vuelve más a su casa, y no lo reconoce más su lugar.
 
 ### 7:11
 
-Yo tampoco callaré mi boca; hablaré en mi espíritu angustiado, hablaré en mi alma amargada.
+También yo no refrenaré mi boca; hablaré en angustia de mi espíritu; me quejaré en amargura de mi alma.
 
 ### 7:12
 
-¿Soy yo el mar o la serpiente, que me pondrás guardia?
+¿Soy yo mar, o monstruo marino, que pones sobre mí guardia?
 
 ### 7:13
 
-Porque dije: Consolarte me dará mi lecho, tu habla me alzará mi cama.
+Porque dije: Me consolará mi lecho; llevará en mi queja mi cama;
 
 ### 7:14
 
-Y me acusarás en mis sueños, y en mis visiones me culparás.
+y me espantas con sueños, y con visiones me aterrorizas.
 
 ### 7:15
 
-Y elegiste la muerte para mi alma, muerte de mis huesos.
+Y escoge ahogo mi alma, muerte de mis huesos.
 
 ### 7:16
 
-Odio la vida, no viviré para siempre; aparta de mí, porque son vanos mis días.
+Aborrecí; no para siempre viviré; desiste de mí, porque vanidad mis días.
 
 ### 7:17
 
-¿Qué es el hombre, para que lo ensalces, y para que pongas tu corazón sobre él?
+¿Qué es el mortal para que lo engrandezcas, y para que pongas hacia él tu corazón,
 
 ### 7:18
 
-La buscas como un escarnio, como un examen cada momento.
+y lo visites por las mañanas, a momentos lo pruebes?
 
 ### 7:19
 
-¿Qué ganancia hay para que me veas con desprecio, para que no me permitas vivir hasta que no haya respiración en mí?
+¿Hasta cuándo no apartarás de mí? No me soltarás hasta que trague mi saliva.
 
 ### 7:20
 
-He pecado; ¿qué puedo hacer por ti? ¿Por qué me has puesto como blanco de tu ira, y me has hecho un objeto de carga para ti?
+Pequé; ¿qué haré a ti, guardian del hombre? ¿Por qué me pusiste por blanco a ti, y fui sobre mí carga?
 
 ### 7:21
 
-¿Y por qué no perdonas mi pecado y no remides mi iniquidad? Porque ahora estoy acostado en el polvo, y no hay remedio para mí.
+¿Y por qué no alzas mi transgresión y haces pasar mi iniquidad? Porque ahora al polvo me acostaré, y madrugarás a mí y no estaré.
 
 ## Capítulo 8
 
 ### 8:1
 
-Entonces Bildad el Suquiita respondió y dijo:
+Y respondió Bildad el shují, y dijo:
 
 ### 8:2
 
-¿Hasta cuándo hablarás estas cosas? ¿Y el espíritu de tu boca se enaltecerá?
+¿Hasta cuándo hablarás estas cosas, y viento caudaloso las palabras de tu boca?
 
 ### 8:3
 
-¿Acaso Dios pervertirá el juicio, y el Todopoderoso pervertirá la justicia?
+¿Torcerá Dios el juicio, y si Shadai torcerá la justicia?
 
 ### 8:4
 
-¿Acaso tus hijos pecaron contra él, y él los entregó en la mano de su pecado?
+Si tus hijos pecaron contra él, y los entregó en mano de su transgresión,
 
 ### 8:5
 
-¿Acaso tú te enojas con Dios, y con el Todopoderoso te quejas?
+si tú madrugas hacia Dios, y a Shadai te imploras,
 
 ### 8:6
 
-¿Acaso eres justo y sin culpa? Clama a Dios, y él te levantará, y la pureza de tu inocencia será tu recompensa.
+si puro y recto eres tú, porque ahora despertará sobre ti, y restaurará la morada de tu justicia.
 
 ### 8:7
 
-Y será que al principio serás poco, y al final serás muy grande.
+Y será tu principio pequeño, y tu fin crecerá mucho.
 
 ### 8:8
 
-Porque consulta a la generación pasada, y prepárate para el descubrimiento de tus padres.
+Porque pregunta ahora a la generación primera, y afirma a la pesquisa de sus padres;
 
 ### 8:9
 
-Porque ayer éramos desconocidos, y nuestros días eran como una sombra sobre la tierra.
+porque de ayer somos nosotros, y no sabemos, porque sombra nuestros días sobre la tierra.
 
 ### 8:10
 
-¿No te aconsejarán y no te hablarán de su corazón?
+¿No te enseñarán ellos, te dirán a ti, y de su corazón sacarán palabras?
 
 ### 8:11
 
-¿Se enojará el gamo en un lugar sin espinas, o el buey en un lugar sin agua?
+¿Crece el junco sin pantano? ¿Crece la hierba de agua sin agua?
 
 ### 8:12
 
-Mientras el trigo no esté en el heno, y antes de que brote toda hierba, se secará.
+Aún él en su verdor, no es cortado, y delante de toda hierba se seca.
 
 ### 8:13
 
-Así son los caminos de todos los que olvidan a Dios, y la esperanza del impío perecerá.
+Así las sendas de todos los olvidadizos de Dios, y la esperanza del impío perece;
 
 ### 8:14
 
-Confía en su vientre y en la casa de la serpiente.
+cuyo cordel se corta su confianza, y casa de araña su seguridad.
 
 ### 8:15
 
-Se apoyará en su casa, pero no se mantendrá firme; se aferrará a ella, pero no se levantará.
+Se apoyará sobre su casa, y no se mantendrá; se asirá en ella, y no se levantará.
 
 ### 8:16
 
-Se empapará de rocío antes del sol, y su planta será arrancada en su huerto.
+Él está húmedo delante del sol, y sobre su huerto su retoño sale.
 
 ### 8:17
 
-Se envolverán en la roca de sus raíces, y verá su casa de piedras.
+Sobre un montón sus raíces se entrelazan; casa de piedras contempla.
 
 ### 8:18
 
-Si lo devora de su lugar, y lo engaña, no lo verás.
+Si lo traga de su lugar, y mentirá acerca de él: No te vi.
 
 ### 8:19
 
-He aquí que se alegra en su camino, y de la tierra brotará otro.
+He aquí, él es el gozo de su camino, y del polvo otro brotarán.
 
 ### 8:20
 
-He aquí que Dios no desprecia al justo, y no sostiene la mano del pecador.
+He aquí, Dios no desechará al íntegro, y no asirá en mano de malhechores,
 
 ### 8:21
 
-Hasta que se llena de risa tu boca y tus labios de alabanza.
+hasta que llene de risa tu boca, y tus labios de grito.
 
 ### 8:22
 
-Los que te aborrecen se visten de vergüenza, y no hay morada para los malvados.
+Tus aborrecedores se vestirán de vergüenza, y la tienda de los malos no es.
 
 ## Capítulo 9
 
 ### 9:1
 
-Entonces respondió Job y dijo:
+Y respondió Iyov, y dijo:
 
 ### 9:2
 
-Cierto que lo sé bien, y ¿qué aprovechará el hombre a Dios?
+En verdad supe que así es; y ¿cómo se justificará el mortal con Dios?
 
 ### 9:3
 
-Si quiere contender con él, no le responderá una de mil.
+Si desea contender con él, no le responderá una de mil.
 
 ### 9:4
 
-¿Quién es el sabio de corazón y fuerte de fuerzas que se ha enfrentado con él y ha quedado en paz?
+Sabio de corazón y fuerte de fuerza; ¿quién endureció hacia él y quedó sano?
 
 ### 9:5
 
-¿Quién mueve las montañas sin que lo sepan, y las hace girar en su ira?
+El que remueve montes, y no saben, el que los volcó en su ira;
 
 ### 9:6
 
-¿Quién sacude la tierra de su lugar y sus columnas se estremecen?
+el que hace temblar la tierra de su lugar, y sus columnas se estremecen;
 
 ### 9:7
 
-¿Quién dice a la luz: No brilles, y a las estrellas: Se oculten?
+el que dice al sol, y no sale, y detrás de las estrellas sella;
 
 ### 9:8
 
-Que extiende los cielos solitariamente y cimenta su norte sobre el agua.
+extendiendo cielos solo, y hollando sobre las alturas del mar;
 
 ### 9:9
 
-Que hace el Cisne y la Estrella del Oriente, y las regiones del sur.
+haciendo Ash, Kesil y Kimá, y las cámaras de Temán;
 
 ### 9:10
 
-Que hace cosas grandes e inescrutables, y maravillas sin número.
+haciendo grandes hasta no hay pesquisa, y maravillas hasta no hay número.
 
 ### 9:11
 
-Que pasa sobre mí y no lo veo, que se va y no lo entiendo.
+He aquí, pasa sobre mí, y no veo; y pasa de largo, y no entiendo a él.
 
 ### 9:12
 
-¿Quién me devolverá lo que ha sido, y quién me dirá: ¿Qué harás?
+He aquí, arrebata; ¿quién lo hará volver? ¿Quién le dirá: Qué haces?
 
 ### 9:13
 
-Dios no se aparta enojado, sino que los que le ayudan a Rahab se doblan.
+Dios no vuelve su ira; se encorvaron los ayudadores de Rahav.
 
 ### 9:14
 
-Aunque yo también me defenderé, elegiré mis palabras con él.
+Cuánto más yo le responderé, escogeré mis palabras con él.
 
 ### 9:15
 
-Si soy justo, no me defenderé; suplicaré a mi juez.
+Que si fui justo, no responderé; a mi juez me imploraré.
 
 ### 9:16
 
-Si llamo y él me responde, no creeré que escuchará mi voz.
+Si llamé y me respondió, no creeré que prestará oído a mi voz;
 
 ### 9:17
 
-Si me golpea con un cabello y multiplica mis heridas sin motivo.
+quien con tempestad me aplastará, y multiplicó mis heridas de balde.
 
 ### 9:18
 
-No me devolverá mi aliento, sino que me saciará con amarguras.
+No me deja devolver mi aliento, porque me sacia de amarguras.
 
 ### 9:19
 
-Si es por fuerza, miren; si es por juicio, ¿quién me condenará?
+Si a fuerza, he aquí fuerte; y si a juicio, ¿quién me citará?
 
 ### 9:20
 
-Si soy justo, me condenará; soy inocente, pero me corrompe.
+Si me justifico, mi boca me condenará; íntegro yo, y me torcerá.
 
 ### 9:21
 
-Soy inocente, no entiendo mi alma; aborrezco mi vida.
+Íntegro yo; no conozco mi alma; rechazo mis vidas.
 
 ### 9:22
 
-Una cosa es esto: he dicho: Inocente y malvado, ambos son destruidos.
+Una es ella; por tanto dije: Al íntegro y al malo él consume.
 
 ### 9:23
 
-Si un golpe mata de pronto, se burlará el inocente.
+Si el azote mata de pronto, de la prueba de los inocentes se burla.
 
 ### 9:24
 
-La tierra se da a los malvados, y la faz de los jueces la oculta; ¿acaso no es en vano, pues, el que vive?
+Tierra fue dada en mano de malo; faces de sus jueces cubre; si no, entonces, ¿quién es él?
 
 ### 9:25
 
-Y sus días son como las sombras; como un barco que pasa, así corren, y no ven la felicidad.
+Y mis días fueron más ligeros que un corredor; huyeron; no vieron bien.
 
 ### 9:26
 
-Pasaron como barcos de pescadores, como águilas que vuelan hacia el alimento.
+Pasaron con naves de junco, como águila que se lanza sobre comida.
 
 ### 9:27
 
-Si digo: Olvidaré mi queja, y cambia mi rostro, y me consolaré.
+Si mi decir: Olvidaré mi queja, dejaré mi rostro y me alegraré,
 
 ### 9:28
 
-Temo todos mis afanes, sé que no me ayudarán.
+temí de todos mis dolores; supe que no me absolverás.
 
 ### 9:29
 
-Yo soy inicuo, ¿por qué lucharé en vano?
+Yo seré malo; ¿para qué esto en vano me fatigo?
 
 ### 9:30
 
-Si me lavo en la nieve y me purifico en el lodo, ¿qué provecho me reportará?
+Si me lavé en nieve, y limpié con lejía mis palmas,
 
 ### 9:31
 
-Entonces me sumergiré en el abismo, y me cubrirán mis vestiduras de inmundicia.
+entonces en la fosa me sumergirás, y me abominarán mis vestidos.
 
 ### 9:32
 
-Porque no hay hombre como yo para responderme, porque no hay quien me juzgue.
+Porque no es hombre como yo; le responderé; vengamos juntos al juicio.
 
 ### 9:33
 
-No hay quien medie entre nosotros, para poner su mano sobre ambos.
+No hay entre nosotros árbitro que ponga su mano sobre los dos de nosotros.
 
 ### 9:34
 
-Que su vara se aparte de mí, y no busques su temor.
+Quite de sobre mí su vara, y su terror no me espante.
 
 ### 9:35
 
-Hablaré y no temeré, porque no soy yo quien está en tu presencia.
+Hablaré, y no le temeré; porque no así yo conmigo.
 
 ## Capítulo 10
 
 ### 10:1
 
-Tomaré mi vida en mis manos; abandonaré mi queja y hablaré con amargura de mi alma.
+Aborreció mi alma en mi vida; dejaré sobre mí mi queja; hablaré en amargura de mi alma.
 
 ### 10:2
 
-Diré a Dios: No me condenes, enséñame por qué me acusas.
+Diré a Dios: No me condenes; hazme saber sobre qué contiendes conmigo.
 
 ### 10:3
 
-¿Es bueno para ti que te enfades, que te disgusten mis manos cansadas y que te enojes por el consejo de los malvados?
+¿Es bueno a ti que oprimas, que deseches el trabajo de tus palmas, y sobre el consejo de malos resplandeciste?
 
 ### 10:4
 
-¿Tienen tus ojos visto al hombre para que lo veas?
+¿Ojos de carne tienes tú? ¿O como ve mortal ves?
 
 ### 10:5
 
-¿Son los días del hombre tus días, o tus años los años de un hombre?
+¿Como días de mortal tus días? ¿O tus años como días de varón?
 
 ### 10:6
 
-Si buscas mi pecado y mi culpa, no encontrarás nada.
+Porque buscas mi iniquidad, y a mi pecado indagas,
 
 ### 10:7
 
-Por tu conocimiento sé que no peco, y no hay quien me libere de tu mano.
+sobre tu saber que no soy malo, y no hay de tu mano quien libre.
 
 ### 10:8
 
-Tus manos me han hecho sufrir y me han atado en su red.
+Tus manos me formaron y me hicieron; juntos alrededor, y me tragaste.
 
 ### 10:9
 
-Acuérdate de que como arcilla me hiciste, y a la tierra me volverás.
+Recuerda ahora que como barro me hiciste, y al polvo me harás volver.
 
 ### 10:10
 
-¿No me tratas como a la leche y como a la grasa me enfrias?
+¿No como leche me derramaste, y como queso me cuajaste?
 
 ### 10:11
 
-Con piel y carne me vestirás, y con huesos y músculos me cubrirás.
+Piel y carne me vestiste, y con huesos y tendones me entretejiste.
 
 ### 10:12
 
-Vida y misericordia me has hecho conmigo, y tu mandamiento guardará mi espíritu
+Vida y misericordia hiciste conmigo, y tu visita guardó mi espíritu.
 
 ### 10:13
 
-Y estos los has guardado en tu corazón, sabiendo que esto está contigo
+Y estas cosas escondiste en tu corazón; supe que esto está contigo.
 
 ### 10:14
 
-Si he pecado, ¿y me guardas? Y de mi maldad no me limpiarás
+Si pequé, y me guardaste, y de mi iniquidad no me absolverás.
 
 ### 10:15
 
-Si soy inicuo, ¿por qué me atormentas? Y si soy justo, no alzaré mi cabeza; saciedad de vergüenza y mira mi aflicción
+Si fui malo, ¡ay de mí!; y si fui justo, no alzaré mi cabeza; saciado de afrenta, y mira mi aflicción.
 
 ### 10:16
 
-Y rugirá como un león, y me atormentarás, y volverás a hacer maravillas contra mí
+Y se enaltece; como león me cazas, y vuelves, te muestras maravilloso en mí.
 
 ### 10:17
 
-Renovarás tus promesas delante de mí, y multiplicarás tus maravillas conmigo, y vendrás con cambios y con batallas conmigo
+Renuevas tus testigos frente a mí, y multiplicas tu enojo conmigo; relevos y ejército conmigo.
 
 ### 10:18
 
-¿Y por qué me sacaste del vientre para que yo gime y tus ojos no me vean?
+Y ¿por qué del vientre me sacaste? Expiraría, y ojo no me vería.
 
 ### 10:19
 
-Como no era, no existiré; desde el vientre hasta el sepulcro, soy inútil
+Como si no hubiera sido, sería; del vientre a la tumba sería llevado.
 
 ### 10:20
 
-¿No son pocos mis días? ¿Acaso cesaré y me detendré en la tierra de tinieblas y sombra de muerte?
+¿No son pocos mis días? Apártate de mí, y me alegraré un poco,
 
 ### 10:21
 
-Antes que yo vaya y no vuelva, a la tierra de oscuridad y sombra de muerte
+antes que vaya y no vuelva, a tierra de tiniebla y de sombra de muerte,
 
 ### 10:22
 
-Tierra de sombra como de tinieblas, de sombra de muerte sin ordenación, y se extenderá como tinieblas
+tierra de oscuridad como tiniebla, sombra de muerte y no órdenes, y resplandece como tiniebla.
 
 ## Capítulo 11
 
 ### 11:1
 
-Y respondió Sofar el amigo mío, y dijo
+Y respondió Tsofar el naamatí, y dijo:
 
 ### 11:2
 
-¿Acaso muchos discursos no son respondidos, y si alguien muchas palabras se justifica?
+¿Multitud de palabras no será respondida? ¿Y si hombre de labios se justificará?
 
 ### 11:3
 
-En tus días muertos callarán, y te burlarás, y no habrá quien te castigue.
+Tus vanidades ¿harán callar a hombres? ¿Y te burlarás, y no hay quien avergüence?
 
 ### 11:4
 
-Y dirá: Puro es mi tesoro, y soy recto en tus ojos.
+Y dijiste: Puro mi doctrina, y limpio fui en tus ojos.
 
 ### 11:5
 
-Mas ¿quién dará a Dios respuesta, y abrirá sus labios con ti?
+Mas ojalá Dios hablara, y abriera sus labios contigo,
 
 ### 11:6
 
-Y te declarará secretos de sabiduría, doblemente que la prudencia, y conocerás que te endereza a ti Dios de tu iniquidad.
+y te declarara secretos de sabiduría, porque el doble es para la cordura; y sabe que Dios te olvida de tu iniquidad.
 
 ### 11:7
 
-¿Podrás hallar el examen de Dios, o hasta el límite de la Altísima podrás hallar?
+¿Hallarás la pesquisa de Dios? ¿Hasta el límite de Shadai hallarás?
 
 ### 11:8
 
-¿Qué harás en lo alto de los cielos, y qué sabrás en lo profundo de la abysmo?
+Alturas de cielos; ¿qué harás? Más profunda que el sheol; ¿qué sabrás?
 
 ### 11:9
 
-¿Es larga la medida de la tierra, y qué es el ancho de la mar?
+Más larga que la tierra su medida, y más ancha que el mar.
 
 ### 11:10
 
-Si cambia y encierra, y reúne, ¿quién lo deshará?
+Si pasa y encierra y congrega, ¿y quién lo hará volver?
 
 ### 11:11
 
-Porque él conoce vanidades de muertos, y ha visto iniquidad, y no entenderá.
+Porque él conoce hombres de vanidad, y ve iniquidad, y no considera.
 
 ### 11:12
 
-Y el necio se volverá sabio, y el asno de labios dará a luz al hombre.
+Y hombre hueco se hará de corazón, y pollino de asno montés hombre nace.
 
 ### 11:13
 
-¿Acaso tú has endurecido tu corazón, y te has extendido contra mí la mano?
+Si tú preparaste tu corazón, y extendiste a él tu palma,
 
 ### 11:14
 
-Si hay malicia en tu mano, aleja de ti y no la hospedes en tu tienda.
+si iniquidad en tu mano, aléjala, y no hagas habitar en tus tiendas injusticia,
 
 ### 11:15
 
-Entonces alzarás tu rostro de la mancha y serás como el crisol, no temerás.
+porque entonces alzarás tu rostro sin mancha, y serás firme, y no temerás;
 
 ### 11:16
 
-Porque el trabajo lo olvidarás, como las aguas que pasan, lo recordarás.
+porque tú olvidarás trabajo; como aguas que pasaron recordarás.
 
 ### 11:17
 
-Y al mediodía se levantará el que duerme, como la mañana, estará cansado.
+Y más que el mediodía se levantará el tiempo; volarás; como la mañana serás.
 
 ### 11:18
 
-Y confiarás que hay esperanza, y excavarás, confiadamente descansarás.
+Y confiarás, porque hay esperanza; y cavarás; a seguridad te acostarás.
 
 ### 11:19
 
-Y te recostarás, y no habrá temor, y muchos rostros se desvanecerán.
+Y te echarás, y no hay quien espante; y rogarán tu rostro muchos.
 
 ### 11:20
 
-Y los ojos de los malvados se consumirán, y la huida desaparecerá de ellos, y su esperanza será un alarde de almas.
+Y los ojos de los malos se consumirán, y refugio pereció de ellos, y su esperanza es exhalar el alma.
 
 ## Capítulo 12
 
 ### 12:1
 
-Entonces respondió Job y dijo:
+Y respondió Iyov, y dijo:
 
 ### 12:2
 
-De veras que vosotros sois el pueblo, y con vosotros morirá la sabiduría.
+En verdad que ustedes son pueblo, y con ustedes morirá la sabiduría.
 
 ### 12:3
 
-También a mí me pertenece un corazón como el vuestro, no caigo yo de vosotros, ¿y a quién no hay como estos?
+También a mí hay corazón como ustedes; no caigo yo de ustedes; y ¿con quién no hay como estas cosas?
 
 ### 12:4
 
-Ríe a su amigo, y clama a Dios, y Él no responde, el justo y el perfecto se ríe.
+Risa a su prójimo soy, el que llama a Dios y él le responde; risa, justo íntegro.
 
 ### 12:5
 
-Para el que está en la burla, y para el que está en la iniquidad, y para el que está en la paz, es conveniente para los días de fiesta.
+A la antorcha desprecio, según pensamiento del reposado; preparado para los tropiezos del pie.
 
 ### 12:6
 
-Los tiendas serán para los ladrones, y las casas para los que provocan a Dios, para el que trae a Dios con su mano.
+Están en paz las tiendas de los saqueadores, y seguridades a los que provocan a Dios, a quien trajo Dios en su mano.
 
 ### 12:7
 
-Pero pregúntale a las bestias, y te enseñarán; a las aves del cielo, y te hablarán.
+Mas pregunta ahora a las bestias, y te enseñarán; y a las aves de los cielos, y te declararán;
 
 ### 12:8
 
-O habla con la tierra, y te enseñará; y las peces del mar te contarán.
+o habla a la tierra, y te enseñará; y te contarán los peces del mar.
 
 ### 12:9
 
-¿Quién no sabe entre todos estos que la mano de Jehová ha hecho esto?
+¿Quién no supo en todas estas cosas que mano de Jehová hizo esto,
 
 ### 12:10
 
-En su mano está la vida de toda criatura y el aliento de todo hombre.
+en cuya mano está el alma de todo viviente, y el espíritu de toda carne de hombre?
 
 ### 12:11
 
-¿No oirás las palabras y juzgarás el sabor de la comida?
+¿No prueba el oído palabras, y el paladar gusta comida para sí?
 
 ### 12:12
 
-En la vejez hay sabiduría, y con los años vino la inteligencia.
+En los ancianos está sabiduría, y longitud de días entendimiento.
 
 ### 12:13
 
-Con él está la sabiduría y la fuerza, con él el consejo y la inteligencia.
+Con él sabiduría y valor; suya es consejo y entendimiento.
 
 ### 12:14
 
-Él destruirá y no edificará; cerrará y no abrirá.
+He aquí, derriba, y no se edifica; cierra sobre un hombre, y no se abre.
 
 ### 12:15
 
-Él retendrá el agua y la secará; y la soltará y la hará correr por la tierra.
+He aquí, retiene las aguas, y se secan; y las envía, y trastornan la tierra.
 
 ### 12:16
 
-Con él está la fortaleza y la prudencia; con él el pecador y el que le hace pecar.
+Con él fuerza y cordura; suyo el que yerra y el que hace errar.
 
 ### 12:17
 
-Conducirá a los consejeros al despojo, y a los jueces a la ignominia.
+Hace andar consejeros despojados, y jueces hace enloquecer.
 
 ### 12:18
 
-La disciplina de los reyes es abierta, y él ata el cinto a sus lomos.
+Disciplina de reyes desata, y ata cinto en sus lomos.
 
 ### 12:19
 
-Conduce a los sacerdotes al pillaje y a los ancianos a la vergüenza.
+Hace andar sacerdotes despojados, y a permanentes trastorna.
 
 ### 12:20
 
-Arranca la lengua a los fieles y quita el sabor a los ancianos.
+Quita labio a los fieles, y gusto de ancianos quita.
 
 ### 12:21
 
-Vierte desprecio sobre los nobles y desplaza a los fuertes.
+Derrama desprecio sobre nobles, y cinto de fuertes afloja.
 
 ### 12:22
 
-Revela secretos en la oscuridad y hace salir a la luz las sombras.
+Descubre profundas de tiniebla, y saca a la luz sombra de muerte.
 
 ### 12:23
 
-Eleva a las naciones y las destruye; extiende a las naciones y las hace errar.
+Engrandece a las naciones, y las destruye; extiende a las naciones, y las guía.
 
 ### 12:24
 
-Quita el corazón a los jefes del pueblo de la tierra y los hace errar en un vacío sin camino.
+Quita corazón a las cabezas del pueblo de la tierra, y los hace errar en desolación sin camino.
 
 ### 12:25
 
-Tantean en la oscuridad y no hay luz; los hace errar como si estuvieran ebrios.
+Palpan tiniebla y no luz; y los hace errar como el borracho.
 
 ## Capítulo 13
 
 ### 13:1
 
-He visto todo con mis ojos, he oído con mis oídos y comprendo.
+He aquí, todo vio mi ojo; oyó mi oído, y entendió para sí.
 
 ### 13:2
 
-Como vosotros, yo también lo sé; no soy inferior a vosotros.
+Como el saber de ustedes supe también yo; no caigo yo de ustedes.
 
 ### 13:3
 
-Pero yo hablaré con Dios y contará conmigo el Todopoderoso.
+Mas yo a Shadai hablaré, y argüir a Dios deseo.
 
 ### 13:4
 
-Pero vosotros sois médicos de mentira, curanderos de ídolos, todos vosotros.
+Mas ustedes son embadurnadores de mentira; médicos de nada, todos ustedes.
 
 ### 13:5
 
-¿Quién me daría el silencio para callar, y que fueran para vosotros una sabiduría?
+¡Ojalá callando callaran, y fuera a ustedes por sabiduría!
 
 ### 13:6
 
-Escuchad ahora mi reprimenda, y que mis palabras sean como un juicio para vosotros.
+Oigan ahora mi reprensión, y a las contenciones de mis labios presten oído.
 
 ### 13:7
 
-¿Hablaréis con Dios mentiras, y con él engaños?
+¿Por Dios hablarán injusticia, y por él hablarán engaño?
 
 ### 13:8
 
-¿Levantaréis vosotros la cara ante él, o contendréis con él?
+¿Sus faces alzarán? ¿O por Dios contenderán?
 
 ### 13:9
 
-¿Es mejor que él os investigue, o que os humilléis ante un hombre?
+¿Es bueno que él los examine? ¿O como se burla en mortal se burlarán en él?
 
 ### 13:10
 
-Si él os reprocha, ¿no os humillaréis, o en secreto levantaréis la cara?
+Reprendiendo reprenderá a ustedes si en secreto faces alzan.
 
 ### 13:11
 
-¿No os temblará el espíritu delante de él, y caerá su temor sobre vosotros?
+¿No su majestad los espantará, y su pavor caerá sobre ustedes?
 
 ### 13:12
 
-Vuestras memorias son como la ceniza, y vuestros cuerpos como el carbón.
+Sus memorias son proverbios de ceniza; espaldas de barro sus espaldas.
 
 ### 13:13
 
-Calladme, y hablaré yo; ¿qué me sucederá después?
+Callen de mí, y hablaré yo, y pase sobre mí lo que sea.
 
 ### 13:14
 
-¿Por qué llevaré yo mi carne en mi boca, y mi vida en mis manos?
+¿Sobre qué alzaré mi carne en mis dientes, y mi alma pondré en mi palma?
 
 ### 13:15
 
-Aunque me maten, no esperaré; pero mis caminos defenderé ante él.
+He aquí, me matará; esperaré; solo mis caminos a su rostro argüiré.
 
 ### 13:16
 
-También él es mi salvación, porque no se acercará a él el impío.
+También él me es por salvación, porque no delante de él entrará el impío.
 
 ### 13:17
 
-Escuchad la palabra que os digo y tened mispiados en vuestros oídos.
+Oigan oyendo mi palabra, y mi declaración en los oídos de ustedes.
 
 ### 13:18
 
-He aquí, he dispuesto juicio, sé que seré justificado.
+He aquí ahora ordené juicio; supe que yo me justificaré.
 
 ### 13:19
 
-¿Quién es mi adversario, pues ahora callaré y no viviré.
+¿Quién es el que contenderá conmigo? Porque ahora callaré y expiraré.
 
 ### 13:20
 
-Pero no hagas conmigo dos cosas, entonces no me esconderé de tu rostro.
+Solo dos cosas no hagas conmigo; entonces de tu rostro no me esconderé:
 
 ### 13:21
 
-Aparta tu mano de mí y no me asedies con tu temor.
+Tu palma de sobre mí aleja, y tu terror no me espante.
 
 ### 13:22
 
-Y si llamo, responderé; o hablo, responde a mí.
+Y llama, y yo responderé; o yo hablaré, y me responde.
 
 ### 13:23
 
-¿Qué importa a mí tus culpas y tus pecados? Revela mis iniquidades y mis pecados.
+¿Cuántas a mí iniquidades y pecados? Mi transgresión y mi pecado hazme saber.
 
 ### 13:24
 
-¿Por qué te ocultas tu rostro y me consideras enemigo?
+¿Por qué escondes tu rostro, y me cuentas por enemigo a ti?
 
 ### 13:25
 
-El alimento que se desvanece temerás, y perseguirás el grano seco.
+¿A hoja arrebatada aterrarás, y a paja seca perseguirás?
 
 ### 13:26
 
-Porque escribes sobre mí amarguras y me acosas con los pecados de mi juventud.
+Porque escribes sobre mí amarguras, y me haces heredar iniquidades de mi juventud.
 
 ### 13:27
 
-Y pondrás en lajas mis pies y cuidarás de todos mis caminos; sobre las raíces de mis pies te esforzarás.
+Y pones en el cepo mis pies, y guardas todos mis caminos; sobre las raíces de mis pies marcas.
 
 ### 13:28
 
-Y él es como un saco de harina, se viste de harina.
+Y él como podredumbre se gasta, como vestido que comió la polilla.
 
 ## Capítulo 14
 
 ### 14:1
 
-Hombre nacido de mujer, días cortos y lleno de ira.
+Hombre nacido de mujer, corto de días y saciado de agitación.
 
 ### 14:2
 
-Como una flor brota y se marchita, y como una sombra se desvanece; no permanece.
+Como flor sale y es cortado, y huye como sombra y no se mantiene.
 
 ### 14:3
 
-Aun así, abres tus ojos y me traes a juicio contigo.
+También sobre este abriste tu ojo, y a mí traes a juicio contigo.
 
 ### 14:4
 
-¿Quién dará puro a impuro? No hay ninguno.
+¿Quién dará limpio de inmundo? No uno.
 
 ### 14:5
 
-Si mis días son contados, el número de mis meses con vosotros es limitado; has hecho un límite que no pasará.
+Si determinados sus días, número de sus meses contigo; hiciste, y no pasará.
 
 ### 14:6
 
-Mira de mí y descansa hasta que quiera, como un jornalero su día.
+Aparta de sobre él, y cesará, hasta que acepte como jornalero su día.
 
 ### 14:7
 
-Porque hay esperanza para el árbol, si es cortado, vuelve a brotar, y no desfallece su brote.
+Porque hay para el árbol esperanza; si es cortado, aún brotará, y su retoño no cesará.
 
 ### 14:8
 
-Si envejece su raíz en la tierra, y muere su tronco en el polvo.
+Si envejece en la tierra su raíz, y en el polvo muere su tronco,
 
 ### 14:9
 
-Del aroma del agua brotará, y hará cosecha como un plantado.
+de olor de aguas florecerá, e hará cosecha como planta.
 
 ### 14:10
 
-Y el hombre muere y se debilita, y el hombre se aflige y es inútil.
+Y el varón muere y se debilita; y expira el hombre, y ¿dónde está?
 
 ### 14:11
 
-Se secarán las aguas del mar y el río se secará y se secará.
+Se van aguas del mar, y río se seca y se reseca;
 
 ### 14:12
 
-Y el hombre se acuesta y no se levanta hasta que los cielos no se levanten de su sueño.
+y hombre yace y no se levanta; hasta no ser cielos no despertarán, y no se despertarán de su sueño.
 
 ### 14:13
 
-¿Quién da en el Sheol que me oculte hasta que tu ira se vuelva, que me establezcas un tiempo y no me recuerdes?
+¡Ojalá en el sheol me escondieras, me ocultaras hasta volver tu ira, pusieras para mí un límite y me recordaras!
 
 ### 14:14
 
-Si muere un hombre, ¿esperaré todos los días de mi servicio hasta que venga mi relevo?
+Si muere el varón, ¿vivirá? Todos los días de mi servicio esperaré, hasta venir mi relevo.
 
 ### 14:15
 
-Gritarás y yo responderé; ansiarás por las obras de tus manos.
+Llamarás, y yo te responderé; a la obra de tus manos anhelarás.
 
 ### 14:16
 
-Porque ahora mis pasos son contados, no guardarás mis pecados.
+Porque ahora mis pasos cuentas; no guardas sobre mi pecado.
 
 ### 14:17
 
-Sellado está mi delito en un saco, y tú te inclinas sobre mi iniquidad.
+Sellado en fardo está mi transgresión, y embadurnas sobre mi iniquidad.
 
 ### 14:18
 
-Pero el monte cae y se descompone, y la roca se desplaza de su lugar.
+Mas montaña que cae se deshace, y peña se mueve de su lugar;
 
 ### 14:19
 
-Las piedras se desmoronan por el agua, y el polvo de la tierra se disipa; y la esperanza del hombre perece.
+piedras desgastaron aguas; barrerá sus aluviones polvo de tierra; y la esperanza del mortal destruiste.
 
 ### 14:20
 
-Te enfurecerás para siempre y me perseguirás, cambiarás tu semblante y me echarás.
+Lo vences para siempre, y se va; mudando su rostro, y lo despides.
 
 ### 14:21
 
-Sus hijos se engrandecerán, pero no lo sabrá; y serán afligidos, pero no lo entenderá.
+Son honrados sus hijos, y no sabe; y son humillados, y no entiende a ellos.
 
 ### 14:22
 
-Pero su carne se dolerá de mí, y su espíritu se entristecerá de mí.
+Solo su carne sobre él duele, y su alma sobre él se lamenta.
 
 ## Capítulo 15
 
 ### 15:1
 
-Entonces Elihu el Temanita habló.
+Y respondió Elifaz el temaní, y dijo:
 
 ### 15:2
 
-El sabio responderá con prudencia, y el espíritu de los entendidos será lleno de sabiduría.
+¿Responderá el sabio conocimiento de viento, y llenará de oriente su vientre?
 
 ### 15:3
 
-La corrección por medio de palabras no cesará, y las palabras no le serán útiles.
+Argüir con palabra que no aprovecha, y con palabras con las que no beneficia.
 
 ### 15:4
 
-También tú te enojarás con la reverencia y quitarás la conversación delante de Dios.
+También tú anulas temor, y restas meditación delante de El.
 
 ### 15:5
 
-Porque enseñará tu boca tu maldad y escogerás las palabras de los astutos.
+Porque enseña tu iniquidad tu boca, y escoges lengua de astutos.
 
 ### 15:6
 
-Tu boca te condenará y no yo, y tus labios te responderán.
+Te condena tu boca, y no yo; y tus labios testifican contra ti.
 
 ### 15:7
 
-¿Es el primer hombre que nace y delante de las montañas que es engendrado?
+¿El primero hombre naciste, y delante de collados fuiste dado a luz?
 
 ### 15:8
 
-¿Has oído el consejo de Dios y has rechazado la sabiduría que te viene?
+¿En el secreto de Dios oyes, y restas hacia ti sabiduría?
 
 ### 15:9
 
-¿Qué sabes tú que no se nos ha revelado? ¿Entiendes tú algo que no está con nosotros?
+¿Qué sabes tú y no sabemos? ¿Entiendes, y no con nosotros es?
 
 ### 15:10
 
-También el sabio y el necio están contigo, el gran hombre de días supera a tu padre.
+También canoso también anciano en nosotros, más abundante que tu padre en días.
 
 ### 15:11
 
-¿Es poco para ti la consolación de Dios y la palabra que te reprende?
+¿Pocas para ti las consolaciones de El, y palabra suave contigo?
 
 ### 15:12
 
-¿Qué toma tu corazón y qué aprieta tus ojos?
+¿Qué te arrebata tu corazón, y qué guiñan tus ojos,
 
 ### 15:13
 
-Porque volverás a Dios tu espíritu y sacarás palabras de tu boca.
+que vuelves hacia El tu espíritu, y sacas de tu boca palabras?
 
 ### 15:14
 
-¿Qué es el hombre para que sea justo, y el hijo del hombre para que sea puro?
+¿Qué es el mortal, que sea limpio, y que sea justo el nacido de mujer?
 
 ### 15:15
 
-He aquí, los santos no creen, y los cielos no se purifican a sus ojos.
+He aquí no confía, y cielos no son puros en sus ojos;
 
 ### 15:16
 
-También se aborrece y se desprecia, y el hombre que bebe iniquidad como agua.
+cuánto menos el abominable y corrompido, hombre que bebe como aguas iniquidad.
 
 ### 15:17
 
-Oye mi voz, oh mi alma, y esto he visto; por tanto, lo declararé.
+Te declararé; óyeme; y esto vi, y lo contaré,
 
 ### 15:18
 
-Porque los sabios se declaran y no guardan el conocimiento con sus padres.
+lo que sabios anuncian, y no ocultaron de sus padres;
 
 ### 15:19
 
-Para ellos solos se les dio la tierra, y no pasó extranjero por medio de ellos.
+a ellos solos fue dada la tierra, y no pasó extranjero en medio de ellos.
 
 ### 15:20
 
-Todos los días del malvado es angustia, y el número de sus años se guarda para el tirano.
+Todos los días del impío él se retuerce, y número de años guardados al tirano.
 
 ### 15:21
 
-El grito de los temerosos está en sus oídos; en paz vendrá el ladrón.
+Voz de terrores en sus oídos; en la paz el devastador viene a él.
 
 ### 15:22
 
-No volverá a creer de mí la oscuridad, y será él el dios de la espada.
+No cree volver de tinieblas, y él hacia espada está destinado.
 
 ### 15:23
 
-Se aparta de la comida, dice: ¿Dónde está? Y sabe que su día oscuro está en su mano.
+Vaga él por pan: ¿dónde? Sabe que preparado en su mano está día de tinieblas.
 
 ### 15:24
 
-Le temerán la angustia y la miseria, y le atacará como un rey que está por venir.
+Lo aterran angustia y aprieto; lo vence como rey dispuesto para el combate.
 
 ### 15:25
 
-Porque se inclinó a un dios con su mano, y se engrandecerá contra el Todopoderoso.
+Porque extendió hacia El su mano, y hacia Shaday se hace fuerte.
 
 ### 15:26
 
-Correrá hacia él con el cuello, y andará en su camino tras su escudo.
+Corre contra él con cuello, con espesor de dorsos de sus escudos;
 
 ### 15:27
 
-Porque cubre su rostro con grasa, y hace un muslo sobre el vientre.
+porque cubrió su rostro con su grosura, y hizo sebo sobre el lomo.
 
 ### 15:28
 
-Y habita en ciudades aisladas, casas que no habitarán con él, que se han entregado a las arenas.
+Y habitó ciudades destruidas, casas en que no habitan, que estaban destinadas a montones.
 
 ### 15:29
 
-No se enriquecerá, y su ejército no se levantará; no se inclinará a la tierra de su poder.
+No se enriquecerá, y no se levantará su haber, y no extenderá a la tierra su ganancia.
 
 ### 15:30
 
-No se apartará del oscuro, su cuello se secará con la llama, y se apartará por el aliento de su boca.
+No se apartará de tinieblas; su renuevo secará llama, y se apartará por soplo de su boca.
 
 ### 15:31
 
-No confíes en la iniquidad, que será vanidad; su recompensa será la vergüenza.
+No confíe en vanidad el descarriado, porque vanidad será su cambio.
 
 ### 15:32
 
-No se llenará su día, y su calabaza no dará fruto.
+Antes de su día se cumplirá, y su rama no estará verde.
 
 ### 15:33
 
-Se secará como un racimo de viña, y como un olivo que echa sus frutos.
+Violenta como la vid su agraz, y echa como el olivo su flor.
 
 ### 15:34
 
-Porque la congregación de los hipócritas es como un montón de escombros, y el fuego devorará las tiendas de los sobornos.
+Porque congregación de hipócrita es estéril, y fuego come tiendas de soborno.
 
 ### 15:35
 
-Concebirá el trabajo y parirá la maldad, y su vientre preparará engaños.
+Conciben trabajo y paren iniquidad, y su vientre prepara engaño.
 
 ## Capítulo 16
 
 ### 16:1
 
-Entonces respondió Job y dijo:
+Y respondió Iyov, y dijo:
 
 ### 16:2
 
-He oído muchas palabras como estas; consoladores de trabajo sois todos vosotros.
+He oído muchas cosas como estas; consoladores de trabajo todos ustedes.
 
 ### 16:3
 
-¿Acaso hay fin a las palabras del Espírituve, o qué te mueve a responder?
+¿Hay fin a palabras de viento, o qué te provoca que respondas?
 
 ### 16:4
 
-También yo hablaría como ustedes, si tuvieran mi alma en lugar de la suya; consolaría con palabras y alentaría con mi cabeza.
+También yo como ustedes hablaría, si estuviera el alma de ustedes en lugar de mi alma; juntaría sobre ustedes con palabras, y movería sobre ustedes con mi cabeza.
 
 ### 16:5
 
-Amenazaría con mi boca, y mi lengua hablaría con amargura.
+Los fortalecería con mi boca, y movimiento de mis labios refrenaría.
 
 ### 16:6
 
-Si hablo, no se contenga mi dolor; ¿qué provecho me dará, que yo agote mi vida?
+Si hablo, no se refrena mi dolor; y si ceso, ¿qué de mí se va?
 
 ### 16:7
 
-Pero ahora no me escuchan, ni me toman en cuenta a mí y a mi congregación.
+Pero ahora me ha fatigado; has asolado toda mi congregación.
 
 ### 16:8
 
-Y me acusan como a un enemigo, y me atacan como a un adversario.
+Y me has arrugado; para testigo ha sido, y se levanta contra mí mi flacura; en mi rostro testifica.
 
 ### 16:9
 
-Se enfurecen contra mí, me desprecian, me muerden con sus dientes; mis enemigos me miran con ojos hostiles.
+Su ira desgarró y me aborreció; rechinó sobre mí con sus dientes; mi adversario aguza sus ojos contra mí.
 
 ### 16:10
 
-Abren sus bocas contra mí, me golpean con insultos; juntos me atacan.
+Abrieron sobre mí con su boca; con afrenta golpearon mis mejillas; juntos contra mí se juntan.
 
 ### 16:11
 
-Me entrega Dios a un enemigo, y a los malvados me hace caer.
+Me entrega El al muchacho, y sobre manos de impíos me arroja.
 
 ### 16:12
 
-Estaba tranquilo, pero me atacan; me sujetan por el cuello y me atacan; me levantan para ser objeto de burla.
+Estaba yo tranquilo, y me destrozó; y agarró en mi nuca y me despedazó, y me levantó a sí para blanco.
 
 ### 16:13
 
-Mis enemigos me rodean, me desgarran las entrañas y no tienen misericordia; vierten mi bilis sobre la tierra.
+Rodean sobre mí sus flecheros; parte mis riñones y no perdona; derrama a la tierra mi hiel.
 
 ### 16:14
 
-Me atacan sin cesar, y contra mí se levanta un atacante como un valiente.
+Me abre brecha sobre faces de brecha; corre sobre mí como guerrero.
 
 ### 16:15
 
-Se desgarran mis vestiduras, y me cubro con la ceniza mi cabeza.
+Saco cosí sobre mi piel, y hundí en el polvo mi cuerno.
 
 ### 16:16
 
-Mis ojos desbordan en lágrimas amargas, y mi vista se oscurece.
+Mi rostro de lloro está rojo, y sobre mis párpados sombra de muerte,
 
 ### 16:17
 
-No he usado la violencia con mis manos, y mi oración es pura.
+aunque no hay violencia en mis palmas, y mi oración es pura.
 
 ### 16:18
 
-¡Oh tierra, no te cubras mi sangre, y no haya lugar para mi clamor!
+¡Tierra, no cubras mi sangre, y no haya lugar a mi clamor!
 
 ### 16:19
 
-Ahora también miro al cielo, y mi testimonio está en lo alto.
+También ahora, he aquí en los cielos mi testigo, y mi testificante en las alturas.
 
 ### 16:20
 
-Mis amigos me traicionan, y a Dios miro con ojos desolados.
+Mis intérpretes son mis amigos; hacia Dios destila mi ojo,
 
 ### 16:21
 
-El hombre se enfrenta a Dios, y el hijo del hombre a su amigo.
+y que arbitre por el varón con Dios, y hijo de hombre por su compañero.
 
 ### 16:22
 
-Los años se cuentan, y no volveré a mi camino.
+Porque años de número vendrán, y camino que no volveré andaré.
 
 ## Capítulo 17
 
 ### 17:1
 
-Mi espíritu está desgarrado, mis días son llenos de aflicción; me dan la tumba.
+Mi espíritu está destruido; mis días se apagan; sepulcros para mí.
 
 ### 17:2
 
-Si no me han puesto en la cuerda, mis ojos se clavan en sus enredos.
+¿No hay burlas conmigo, y en sus provocaciones mora mi ojo?
 
 ### 17:3
 
-Ponme, te ruego, un árbitro conmigo; ¿quién es el que me hará sonar la trompeta?
+Pon ahora, sé mi fiador contigo; ¿quién es el que a mi mano se estrechará?
 
 ### 17:4
 
-Porque has guardado en su corazón la astucia, por eso no te alzarás.
+Porque su corazón escondiste de entendimiento; por eso no exaltarás.
 
 ### 17:5
 
-Para la porción de los amigos, y los ojos de mis hijos se consumen.
+Por porción anuncia amigos, y ojos de sus hijos desfallecerán.
 
 ### 17:6
 
-Y me presentarás para que reine sobre pueblos, y seré gobernador de ellos.
+Y me puso por proverbio de pueblos, y escupitajo delante de faces seré.
 
 ### 17:7
 
-Ella me ha herido de dolor en los ojos, y mis huesos son como una sombra.
+Y se oscureció de pesar mi ojo, y mis miembros como la sombra todos ellos.
 
 ### 17:8
 
-Los justos se maravillarán de esto, y el inocente se levantará contra el impío.
+Se asombran rectos sobre esto, y el inocente contra el hipócrita se despierta.
 
 ### 17:9
 
-El justo sostendrá su camino, y el que tiene manos limpias se fortalecerá.
+Y se aferra el justo a su camino, y el limpio de manos añadirá fuerza.
 
 ### 17:10
 
-Pero todos regresarán, y vendrán ahora, y no hallaré entre ellos a ningún sabio.
+Pero todos ustedes vuelvan, y vengan ahora, y no hallaré en ustedes sabio.
 
 ### 17:11
 
-Mis días han pasado, mis pensamientos se han quebrado; mis esperanzas de corazón se han ido.
+Mis días pasaron; mis planes se rompieron, posesiones de mi corazón.
 
 ### 17:12
 
-Por la noche se hace de día, la luz está cerca del oscuro.
+Noche por día ponen; luz cercana de faces de tinieblas.
 
 ### 17:13
 
-Si espero el sepulcro para mi casa, en la oscuridad he extendido mi lecho.
+Si espero, Sheol es mi casa; en tinieblas tendí mi lecho.
 
 ### 17:14
 
-A la destrucción he llamado a mi padre, a mi madre y a mi hermana: ¡Oh, que sean la podredumbre!
+A la fosa llamé: Padre mi eres; madre mía y hermana mía a la podredumbre.
 
 ### 17:15
 
-¿Y dónde está ahora mi esperanza? ¿Y quién me dará mi esperanza?
+Y ¿dónde pues mi esperanza? Y mi esperanza, ¿quién la verá?
 
 ### 17:16
 
-En los vasos del sepulcro descenderán, o juntos descenderán al polvo.
+A las barras de Sheol descenderán, si juntos sobre polvo hay reposo.
 
 ## Capítulo 18
 
 ### 18:1
 
-Entonces Baldad el suarita habló y dijo:
+Y respondió Bildad el shují, y dijo:
 
 ### 18:2
 
-Hasta cuándo haréis pedazos de palabras, entenderéis y luego hablaré yo.
+¿Hasta cuándo pondrán ustedes extremos a palabras? Entiendan, y después hablaremos.
 
 ### 18:3
 
-¿Por qué nos tratáis como a bestias, nos consideráis impuros en vuestros ojos?
+¿Por qué somos contados como bestia? Somos impuros en ojos de ustedes.
 
 ### 18:4
 
-Devora su alma con su ira; la tierra será abandonada por vuestra causa, y la roca será desalojada de su puesto.
+El que desgarra su alma en su ira, ¿por causa de ti será abandonada la tierra, y se moverá peña de su lugar?
 
 ### 18:5
 
-También la luz de los malvados será apagada, y su llama no iluminará.
+También luz de impíos se apaga, y no brilla chispa de su fuego.
 
 ### 18:6
 
-La luz se oscurecerá en su tienda, y su lámpara sobre él se apagará.
+Luz se oscurece en su tienda, y su lámpara sobre él se apaga.
 
 ### 18:7
 
-Sus pasos serán apresurados, y sus consejos lo arrojarán.
+Se estrechan pasos de su vigor, y lo derriba su consejo.
 
 ### 18:8
 
-Porque es echado en una red por sus pies, y sobre una red andará.
+Porque es enviado en red por sus pies, y sobre enrejado anda.
 
 ### 18:9
 
-Cogerá en su pie una zarza, y se apoyará sobre un lecho de alambre.
+Agarra en talón trampa; se afirma sobre él lazo.
 
 ### 18:10
 
-Su cordel está oculto en la tierra, y su sitial está sobre el camino.
+Escondido en la tierra su cordel, y su captura sobre senda.
 
 ### 18:11
 
-Alrededor de él danzan las calamidades, y la pobreza lo dispersa.
+Alrededor lo aterran terrores, y lo dispersan a sus pies.
 
 ### 18:12
 
-Hambre habrá en su hambre, y calamidad está preparada para su enfermedad.
+Sea hambriento su vigor, y calamidad preparada a su costado.
 
 ### 18:13
 
-Comerá la carne de su piel, y comerá la carne de su hueso, el primer fruto de la muerte.
+Come partes de su piel; come sus miembros el primogénito de la muerte.
 
 ### 18:14
 
-Se separará de su tienda de seguridad, y lo enviarán al rey de Babilonia.
+Es arrancado de su tienda su confianza, y lo hacen marchar al rey de terrores.
 
 ### 18:15
 
-Morará en su tienda sin nadie para él, y esparcirá polvo sobre su morada.
+Habitará en su tienda lo que no es suyo; será esparcida sobre su morada azufre.
 
 ### 18:16
 
-Debajo de sus raíces se secarán, y de arriba caerá su cosecha.
+Por debajo sus raíces se secan, y por arriba se marchita su cosecha.
 
 ### 18:17
 
-Su memoria perecerá de la tierra, y no habrá nombre para él en la plaza pública.
+Su memoria pereció de la tierra, y no hay nombre a él sobre faces de fuera.
 
 ### 18:18
 
-Será empujado del resplandor a las tinieblas, y será expulsado de la confusión.
+Lo empujan de luz a tinieblas, y del mundo lo expulsan.
 
 ### 18:19
 
-No tendrá hijo ni nieto en su pueblo, y no quedará sobrino en su morada.
+No hay progenie a él ni nieto en su pueblo, y no hay sobreviviente en sus moradas.
 
 ### 18:20
 
-Sus últimos días serán vacíos, y sus primeros días se apoderarán de la calvicie.
+Sobre su día se asombraron los posteriores, y los anteriores agarraron horror.
 
 ### 18:21
 
-Estas son las moradas de los malvados, y este es un lugar que no conoce a Dios.
+Ciertamente estas son moradas de iniquidad, y este es lugar de quien no conoció a El.
 
 ## Capítulo 19
 
 ### 19:1
 
-Entonces Job respondió y dijo:
+Y respondió Iyov, y dijo:
 
 ### 19:2
 
-Hasta cuándo me atormentarán mis huesos y me oprimirán con palabras.
+¿Hasta cuándo afligirán ustedes mi alma, y me aplastarán con palabras?
 
 ### 19:3
 
-Diez veces me insultan, no se avergüenzan de destruirme.
+Estas diez veces me afrentan; no se avergüenzan; me maltratan.
 
 ### 19:4
 
-Y aunque he pecado, ¿ustedes me reprocharán? ¿Acaso me guardarán la locura?
+Y también verdaderamente erré; conmigo mora mi error.
 
 ### 19:5
 
-Si en verdad me ensalzan, me reprocharán y me insultarán.
+Si verdaderamente contra mí se engrandecen, y arguyen contra mí mi afrenta,
 
 ### 19:6
 
-Conozcan esto: Dios me ha pervertido, y mi guarida me rodea.
+sepan pues que Dios me torció, y su red sobre mí cercó.
 
 ### 19:7
 
-Grito por ayuda y no me escuchan; suplico y no hay justicia.
+He aquí clamo: ¡Violencia!, y no soy respondido; grito, y no hay juicio.
 
 ### 19:8
 
-Mi camino está cercado y no puedo pasar; sobre mis senderos hay tinieblas.
+Mi senda cercó, y no paso; y sobre mis caminos tinieblas pone.
 
 ### 19:9
 
-Mi gloria se ha apartado de mí, y ha quitado la corona de mi cabeza.
+Mi gloria de sobre mí desnudó, y quitó corona de mi cabeza.
 
 ### 19:10
 
-Me rodea y me persigue, y mi esperanza se ha convertido en un árbol seco.
+Me derriba alrededor, y me voy; y arranca como árbol mi esperanza.
 
 ### 19:11
 
-Se ha enojado conmigo y me ha considerado como a un enemigo.
+Y se encendió sobre mí su ira, y me contó a sí como a sus enemigos.
 
 ### 19:12
 
-Juntos vienen mis compañeros y me rodean con sus tropas; acampan alrededor de mi tienda.
+Juntos vienen sus tropas, y allanaron sobre mí su camino, y acamparon alrededor de mi tienda.
 
 ### 19:13
 
-Mis amigos me han alejado, y mis conocidos me han rechazado.
+Mis hermanos de sobre mí alejaron, y mis conocidos ciertamente se hicieron extraños de mí.
 
 ### 19:14
 
-Mis parientes se han alejado, y mis conocidos me han olvidado.
+Cesaron mis cercanos, y mis conocidos me olvidaron.
 
 ### 19:15
 
-Mis criados y mis sirvientes me consideran extranjero; soy un forastero en sus ojos.
+Moradores de mi casa y mis siervas por extranjero me cuentan; extraño fui en sus ojos.
 
 ### 19:16
 
-Llamo a mi siervo y no me responde; suplico con mi boca a él.
+A mi siervo llamé, y no responde; con mi boca le suplico.
 
 ### 19:17
 
-Mi espíritu es ajeno a mi mujer, y a mis hijos soy despreciado.
+Mi aliento es extraño a mi mujer, y mi ruego a hijos de mi vientre.
 
 ### 19:18
 
-Hasta los sabios me aborrecen; levantándose, me maldicen.
+También muchachos me desecharon; me levanto, y hablan contra mí.
 
 ### 19:19
 
-Me aborrecen todos los amigos de mi confianza, y los que yo amaba se vuelven contra mí.
+Me abominaron todos los hombres de mi secreto, y este a quien amé se volvieron contra mí.
 
 ### 19:20
 
-Mi piel y mi carne se aferran a mi hueso, y grito por mi piel.
+A mi piel y a mi carne se pegó mi hueso, y escapé con piel de mis dientes.
 
 ### 19:21
 
-Compadecedme, compadecedme, vosotros mis amigos, porque la mano de Dios me ha herido.
+¡Apiádense de mí, apiádense de mí, ustedes mis amigos!, porque mano de Dios me tocó.
 
 ### 19:22
 
-¿Por qué me persiguen como a un Dios, y no se hartan de mi carne?
+¿Por qué me persiguen como El, y de mi carne no se sacian?
 
 ### 19:23
 
-¿Quién me dará alas como de paloma, para que yo volara y quedara en paz?
+¡Quién diese pues que se escribieran mis palabras! ¡Quién diese en el libro y se grabaran!
 
 ### 19:24
 
-Con un garrote de hierro y de bronce me serían grabados para siempre en una roca.
+Con cincel de hierro y plomo, para siempre en la peña se tallaran.
 
 ### 19:25
 
-Y yo sé que mi Redentor vive, y que al fin se levantará sobre la tierra.
+Y yo sé que mi redentor vive, y al último sobre polvo se levantará.
 
 ### 19:26
 
-Y después de que me golpean mi piel, de mi carne veo a Dios.
+Y después de mi piel desmenuzaron esto, y desde mi carne veré a Dios,
 
 ### 19:27
 
-A quien yo veo, y mis ojos no lo desconocen; consumidas están mis entrañas en mi interior.
+a quien yo veré para mí, y mis ojos verán y no extraño; desfallecieron mis riñones en mi seno.
 
 ### 19:28
 
-Porque me dirán: ¿Qué seguimos persiguiendo?, y se halla la causa de la disputa en mí.
+Porque ustedes dirán: ¿Cómo lo perseguimos?, y raíz de asunto se halló en mí.
 
 ### 19:29
 
-Apartaos de la espada, porque la ira de la espada es por sus pecados, para que sepáis que hay un juicio.
+Teman para ustedes de faces de espada, porque furor es iniquidades de espada, a fin de que sepan.
 
 ## Capítulo 20
 
 ### 20:1
 
-Por cuanto Zofar el Naamatita habló y dijo:
+Y respondió Tsofar el naamatí, y dijo:
 
 ### 20:2
 
-Por eso mis ramas se vuelven sobre mí, y mi espíritu se angustia en mí.
+Por eso mis pensamientos me hacen responder, y a causa de mi prisa en mí.
 
 ### 20:3
 
-Escucharé la corrección de mi deshonra, y el espíritu de mi entendimiento me responderá.
+Corrección de mi afrenta oigo, y espíritu de mi entendimiento me responde.
 
 ### 20:4
 
-¿Acaso esto lo sabes desde que naces, o desde que se pone al hombre sobre la tierra?
+¿Esto sabes desde siempre, desde poner hombre sobre tierra,
 
 ### 20:5
 
-Porque el griterío de los malvados está cerca, y la alegría del impío es breve.
+que júbilo de impíos es de cerca, y alegría de hipócrita hasta momento?
 
 ### 20:6
 
-Si sube al cielo, allí está su cima, y si se sienta en la punta de las estrellas, su cuello se desploma.
+Si sube a los cielos su altura, y su cabeza a la nube llega,
 
 ### 20:7
 
-Como un montón de estiércol será para siempre, y aquellos que lo vean dirán: ¡Lejos de él!
+como su estiércol para siempre perecerá; los que lo veían dirán: ¿Dónde está?
 
 ### 20:8
 
-Como un sueño se desvanece, y no se cumple, así se desvanece como una visión de la noche.
+Como sueño volará, y no lo hallarán; y será ahuyentado como visión de noche.
 
 ### 20:9
 
-Sus ojos se consumen, y no añade a su estatura, y ya no se levanta en su lugar.
+Ojo que lo miró no añadirá, y no más lo verá su lugar.
 
 ### 20:10
 
-Sus hijos se levantarán contra los pobres, y sus manos devolverán la iniquidad.
+Sus hijos aplacarán a pobres, y sus manos devolverán su vigor.
 
 ### 20:11
 
-Sus huesos están llenos de su juventud, y juntos con él se acostará en la tierra.
+Sus huesos se llenaron, y con él sobre polvo yacerá.
 
 ### 20:12
 
-Si endulzas con la lengua el mal, lo esconderá debajo de tu lengua.
+Si endulza en su boca el mal, lo esconde debajo de su lengua;
 
 ### 20:13
 
-Tendrá misericordia de él, pero no lo dejará, y lo retendrá en su garganta.
+lo escatima y no lo deja, y lo retiene en medio de su paladar;
 
 ### 20:14
 
-Su pan se revuelve en sus entrañas; la amargura de los serpientes está en su interior.
+su pan en sus entrañas se vuelve; hiel de áspides en su interior.
 
 ### 20:15
 
-Devora riquezas y las vomita; en su vientre las hereda Dios.
+Haber tragó y lo vomitará; de su vientre lo hará heredar El.
 
 ### 20:16
 
-Sucke la cabeza de los serpientes; lo matará la lengua de la víbora.
+Veneno de áspides mamará; lo matará lengua de víbora.
 
 ### 20:17
 
-No vea en las partes altas los ríos de miel y de leche.
+No vea en torrentes, ríos de arroyos de miel y cuajada.
 
 ### 20:18
 
-Devuelve el trabajo, pero no lo devora; como el valor de su intercambio, no lo guardará.
+Devuelve trabajo y no traga; según haber de su cambio, y no se regocijará.
 
 ### 20:19
 
-Porque aplasta a los pobres y abandona a los necesitados; el hogar que roba no lo construirá.
+Porque aplastó, abandonó a pobres; casa robó, y no la edificará.
 
 ### 20:20
 
-Porque no conoce la paz en su vientre; en su codicia no se librará.
+Porque no conoció quietud en su vientre; en su deseo no escapará.
 
 ### 20:21
 
-No queda nada para su alimento; por eso no tendrá envidia de su bienestar.
+No hay sobreviviente para su comida; por eso no permanecerá su bien.
 
 ### 20:22
 
-Cuando se llena su mano, su deseo lo engendra; toda mano laboriosa vendrá a él.
+En llenarse su suficiencia le estrechará; toda mano de trabajo vendrá a él.
 
 ### 20:23
 
-Deje que su vientre se llene, y él lo enviará; su ira vendrá sobre él, y lo llorará con su calor.
+Haya para llenar su vientre; enviará en él ardor de su ira, y hará llover sobre él en su combate.
 
 ### 20:24
 
-Huirá de la flecha de hierro, la saeta de bronce lo cambiará.
+Huirá de arma de hierro; lo atravesará arco de bronce.
 
 ### 20:25
 
-Sacará y saldrá de su vientre y llamará a la electricidad de su interior; sobre él irán temblores.
+Sacó y salió del cuerpo, y relámpago de su hiel anda; sobre él terrores.
 
 ### 20:26
 
-Todas las tinieblas están ocultas para él; el fuego no sopla, y en su tienda no hay mal.
+Toda tiniebla escondida para sus tesoros; lo comerá fuego no soplado; mal irá al sobreviviente en su tienda.
 
 ### 20:27
 
-Se revelarán los cielos por su iniquidad, y la tierra se levantará contra él.
+Revelarán cielos su iniquidad, y tierra se levantará contra él.
 
 ### 20:28
 
-Se revelará el fruto de su casa, y en el día de su ira se derramarán sus riquezas.
+Se irá producto de su casa, fluidos en día de su ira.
 
 ### 20:29
 
-Este es el destino del hombre perverso de parte de Dios, y esta es la herencia de su palabra de parte de El.
+Esta es porción de hombre impío de parte de Dios, y herencia de su dicho de parte de El.
 
 ## Capítulo 21
 
 ### 21:1
 
-Entonces respondió Job y dijo:
+Y respondió Iyov, y dijo:
 
 ### 21:2
 
-Escuchen mi palabra y que esto sea vuestra consolación.
+Oigan, oyendo mi palabra, y sea esto consolaciones de ustedes.
 
 ### 21:3
 
-Soportenme y yo hablaré; después que yo hable, rían.
+Sosténganme, y yo hablaré; y después de mi hablar, burlen.
 
 ### 21:4
 
-¿Acaso soy yo un hombre que habla sin sentido, y por qué no se acorta mi espíritu?
+¿Acaso yo para hombre es mi meditación? Y si, ¿por qué no se acorta mi espíritu?
 
 ### 21:5
 
-Véntense hacia mí y callen, pongan la mano sobre la boca.
+Vuélvanse a mí y asómbrense, y pongan mano sobre boca.
 
 ### 21:6
 
-Si recuerdo y temblo, mi carne se agarra de la angustia.
+Y si recuerdo, me turbó, y agarró en mi carne estremecimiento.
 
 ### 21:7
 
-¿Por qué los malvados vivirán? Se aferran, incluso triunfan.
+¿Por qué impíos viven, envejecen, también se fortalecen en haber?
 
 ### 21:8
 
-Sus descendientes están delante de ellos, y sus descendientes están ante sus ojos.
+Su simiente está firme delante de ellos con ellos, y sus descendientes a sus ojos.
 
 ### 21:9
 
-Sus casas están en paz de miedo, y no hay vara divina sobre ellos.
+Sus casas paz de terror, y no hay vara de Dios sobre ellos.
 
 ### 21:10
 
-Su buey se revuelve y no se cae, su vaca parirá y no tendrá aborto.
+Su toro preña y no aborta; escapa su vaca y no malpara.
 
 ### 21:11
 
-Enviarán como ovejas a sus fuertes, y sus hijos danzaran.
+Envían como ovejas a sus muchachos, y sus niños danzan.
 
 ### 21:12
 
-Tocarán tambor y arpa, y se alegrarán al sonido de la flauta.
+Alzan tamboril y cítara, y se alegran a voz de flauta.
 
 ### 21:13
 
-Serán llevados en la buena de sus días, y en un momento irán al Sheol.
+En el bien sus días, y en un momento a Sheol descienden.
 
 ### 21:14
 
-Dijeron a Dios: “Alejate de nosotros”, y no quisieron conocer tus caminos.
+Y dijeron a El: Apártate de nosotros, y conocimiento de tus caminos no deseamos.
 
 ### 21:15
 
-¿Qué provecho hay en servirnos a él? ¿Qué provecho hay en que nos castigue?
+¿Qué es Shaday, que le sirvamos, y qué aprovechamos si le pedimos?
 
 ### 21:16
 
-He aquí que no es en sus manos el bien que tienen, la conseja de los malvados está lejos de mí.
+He aquí no en su mano su bien; consejo de impíos lejos de mí.
 
 ### 21:17
 
-Como la llama de la vela, conocerán la luz de los malvados, y vendrá sobre ellos su calamidad, y repartirá enojos con su nariz.
+¿Cuántas veces lámpara de impíos se apaga, y viene sobre ellos su calamidad? Cuerdas reparte en su ira.
 
 ### 21:18
 
-Serán como paja delante del viento, y como polvo que el huracán arrastra.
+Son como paja delante de viento, y como tamo que robó torbellino.
 
 ### 21:19
 
-Dios proporcionará a mis hijos su calamidad, y la pagará a mí, y sabrá.
+Dios guarda para sus hijos su iniquidad; le pagará a él, y sabrá.
 
 ### 21:20
 
-Verán sus ojos la ignorancia, y beberán de la ira de Dios.
+Verán su destrozo, y de furor de Shaday beberá.
 
 ### 21:21
 
-Porque ¿qué le importa lo que él tiene en su casa, y el número de sus meses?
+Porque ¿qué es su deseo en su casa después de él, y número de sus meses cortados?
 
 ### 21:22
 
-¿Acaso Dios instruirá a los sabios, y él juzgará a los altivos?
+¿A El enseñará conocimiento, y él a altos juzga?
 
 ### 21:23
 
-Él morirá por su iniquidad, y por la abundancia de su ira todos los que le rodean serán consumidos.
+Este muere en hueso de su integridad; todo él quieto y tranquilo.
 
 ### 21:24
 
-Sus cuernos están llenos de leche, y sus huesos están empapados de grasa.
+Sus cubos llenos de leche, y tuétano de sus huesos está hidratado.
 
 ### 21:25
 
-Y él morirá por su enojo, y no comerá de lo bueno.
+Y este muere en alma amarga, y no comió en el bien.
 
 ### 21:26
 
-Juntos se acostarán en la tierra, y la corrupción los cubrirá.
+Juntos sobre polvo yacen, y podredumbre cubre sobre ellos.
 
 ### 21:27
 
-Sí, sé sus pensamientos, y sus planes contra mí.
+He aquí sé pensamientos de ustedes, y tramas contra mí forjan.
 
 ### 21:28
 
-Porque dirán: ¿Dónde está la casa del noble, y dónde la tienda de los malvados?
+Porque dicen ustedes: ¿Dónde casa del noble, y dónde tienda de moradas de impíos?
 
 ### 21:29
 
-¿No habéis preguntado a los que pasan por el camino, y no habéis reconocido sus marcas?
+¿No preguntaron a pasajeros de camino, y sus señales no desconocen?
 
 ### 21:30
 
-Porque en el día de la calamidad se ocultará el mal, y en el día de la ira serán llevados.
+Que para día de calamidad es reservado el malo, para día de iras son llevados.
 
 ### 21:31
 
-¿Quién ha anunciado ante él su camino, y él ha hecho, ¿quién le pagará?
+¿Quién anunciará sobre su rostro su camino, y él hizo, quién le pagará?
 
 ### 21:32
 
-Y él será llevado a sepulturas, y sobre un montón de escombros descansará.
+Y él a sepulcros es llevado, y sobre montón vigila.
 
 ### 21:33
 
-Se le han secado los regatos del río, y tras él todos los hombres lo atraerán, y delante de él no hay cuenta.
+Dulces le son terrones de valle, y tras él todo hombre arrastra, y delante de él no hay número.
 
 ### 21:34
 
-¿Y cómo me consolaréis con vanidad, y vuestras respuestas quedarán sobre la superficie?
+Y ¿cómo me consuelan ustedes vanidad, y respuestas de ustedes quedan engaño?
 
 ## Capítulo 22
 
 ### 22:1
 
-Entonces Elihu el temanita habló.
+Y respondió Elifaz el temaní, y dijo:
 
 ### 22:2
 
-¿Es para Dios que un hombre se refugie, cuando se refugia sobre él el sabio?
+¿Acaso al El aprovecha varón? Porque aprovecha sobre sí el inteligente.
 
 ### 22:3
 
-¿Es que a Dios le agrada que te justifiques, o que te aproveches de tu provecho y perfecciones tus caminos?
+¿Es deleite a Shadai que seas justo? ¿Y si ganancia que perfecciones tus caminos?
 
 ### 22:4
 
-¿Es que por el temor de ti te condenará alguno, o vendrá contigo en juicio?
+¿Acaso desde tu temor te reprende, vendrá contigo en el juicio?
 
 ### 22:5
 
-¿No es que tu maldad es grande, y que no hay fin a tus pecados?
+¿No es tu maldad mucha, y no hay fin a tus iniquidades?
 
 ### 22:6
 
-Porque te despojas de tu hermano gratuitamente, y te desnudas a los desnudos.
+Porque prendabas a tus hermanos de balde, y vestidos de desnudos despojabas.
 
 ### 22:7
 
-No darás de beber al que está exhausto de agua, ni le darás de comer al que tiene hambre.
+No agua al fatigado dabas de beber, y del hambriento detenías pan.
 
 ### 22:8
 
-Y el hombre de fuerza tiene la tierra, y el que es de semblante elevado habita en ella.
+Y hombre de brazo, a él la tierra, y el alzado de faces se asienta en ella.
 
 ### 22:9
 
-No envíes vacías las manos a las viudas, y oprime a los huérfanos.
+Viudas enviaste vacías, y brazos de huérfanos es quebrantado.
 
 ### 22:10
 
-Por eso te rodearán malvados, y el temor de ellos te asustará de repente.
+Por tanto alrededor de ti lazos, y te aterra terror de pronto.
 
 ### 22:11
 
-O la oscuridad no la verás, y las aguas te cubrirán.
+O tiniebla no ves, y abundancia de aguas te cubre.
 
 ### 22:12
 
-¿Acaso no es Dios el que eleva los cielos y ve el círculo de las estrellas, que son altas?
+¿No es Eloah altura de cielos? Y mira cabeza de estrellas, porque se alzaron.
 
 ### 22:13
 
-Y dirás: ¿Qué sabe Dios? ¿A través de la niebla juzgará.
+Y dijiste: ¿Qué sabe El? ¿Acaso tras de nube densa juzgará?
 
 ### 22:14
 
-Las nubes son su tapadera, y no las ve; y el círculo de los cielos le rodea.
+Nubes escondite a él, y no ve; y círculo de cielos anda.
 
 ### 22:15
 
-¿Acaso guardarás siempre el camino de los malvados?
+¿La senda de siempre guardarás, que anduvieron hombres de iniquidad,
 
 ### 22:16
 
-Que se levantan y no hay tiempo, se derrama el río sobre su fundamento.
+que fueron arrebatados, y no tiempo; río se derrama su fundamento?
 
 ### 22:17
 
-Que dicen a Dios: Alejate de nosotros, y ¿qué hará el Todopoderoso por ellos?
+Los que dicen a El: Apártate de nosotros; y ¿qué hará Shadai a ellos?
 
 ### 22:18
 
-Y él llena sus casas de bienes, y la conseja de los malvados está lejos de mí.
+Y él llenó sus casas de bien; y consejo de malos se alejó de mí.
 
 ### 22:19
 
-Verán los justos y se alegrarán, y el inocente se burlará de ellos.
+Ven justos y se alegran, y el limpio se burla de ellos.
 
 ### 22:20
 
-Si no se oculta nuestro establecimiento, y a ellos los devora el fuego.
+¿No es que fue cortado nuestro adversario, y su remanente comió fuego?
 
 ### 22:21
 
-Acuéstate ahora con él y haz que tu bienestar sea completo.
+Acostúmbrate ahora con él, y haz paz; en ellas tu entrada será buena.
 
 ### 22:22
 
-Toma ahora la ley de su boca y pon sus palabras en tu corazón.
+Toma ahora de su boca torá, y pon sus dichos en tu corazón.
 
 ### 22:23
 
-Si vuelves hasta él, edificarás; alejarás el mal de tu tienda.
+Si vuelves hasta Shadai, serás edificado; alejarás iniquidad de tu tienda.
 
 ### 22:24
 
-Y pondrás en la tierra la ceniza y en la roca los ríos de Ophir.
+Y pon sobre polvo el oro, y en peña de torrentes Ofir.
 
 ### 22:25
 
-Y será el Todopoderoso tu tesoro en la adversidad, y el dinero será abundante para ti.
+Y será Shadai tus baluartes, y plata de cumbradas a ti.
 
 ### 22:26
 
-Entonces te deleitarás en el Todopoderoso y levantarás tu rostro a Dios.
+Porque entonces sobre Shadai te deleitarás, y alzarás a Eloah tu rostro.
 
 ### 22:27
 
-Orarás a él, y él te escuchará, y pagarás tus votos.
+Suplicarás a él, y te oirá, y tus votos pagarás.
 
 ### 22:28
 
-Y determinarás un plan, y él lo hará para ti, y la luz brillará sobre tus caminos.
+Y decretarás dicho, y se levantará a ti; y sobre tus caminos brillará luz.
 
 ### 22:29
 
-Porque humillan y tú dices: Alto, y los ojos del impío son humillados.
+Porque humillaron, y dirás: Alzamiento; y al abatido de ojos salvará.
 
 ### 22:30
 
-El inocente será librado, y el malvado caerá en su propia trampa.
+Librará al no inocente; y será librado por pureza de tus manos.
 
 ## Capítulo 23
 
 ### 23:1
 
-Entonces respondió Job y dijo:
+Y respondió Iyov, y dijo:
 
 ### 23:2
 
-Aunque el día es de amargura, mi mano está pesada sobre mi gemido.
+También hoy rebelión es mi queja; mi mano pesa sobre mi suspiro.
 
 ### 23:3
 
-¡Oh, que sepa dónde encontrarle y que le busque! ¡Voy a su presencia perfecta!
+¡Quién diera que yo supiera y lo hallara! Vendría hasta su asiento.
 
 ### 23:4
 
-Presentaré mi caso ante él y llenaré mi boca de argumentos.
+Ordenaría delante de él juicio, y mi boca llenaría de reprensiones.
 
 ### 23:5
 
-Entenderé las palabras que me responderá y conoceré lo que me dirá.
+Sabría palabras que me respondería, y entendería qué me diría a mí.
 
 ### 23:6
 
-El poderoso contendrá conmigo, pero él no me tratará como a un enemigo.
+¿Acaso en grandeza de fuerza contenderá conmigo? No; solo él pondría en mí.
 
 ### 23:7
 
-Entonces estaré justamente en su presencia, y eternamente defenderé mi causa ante él.
+Allí el recto argüiría con él, y escaparía para siempre de mi juez.
 
 ### 23:8
 
-Miro hacia un lado, pero no está; miro hacia el otro, pero no lo veo.
+He aquí adelante ando, y no está; y atrás, y no percibo a él;
 
 ### 23:9
 
-Miro a la izquierda, pero no lo veo; gira a la derecha, pero no lo encuentro.
+a la izquierda en su hacer, y no asgo; se cubre a la derecha, y no veo.
 
 ### 23:10
 
-Porque él sabe mi camino; después de examinarme, me saldré como oro puro.
+Porque él conoció camino conmigo; me probó, como el oro saldré.
 
 ### 23:11
 
-Mis pies han seguido su camino; he guardado sus decretos y no he desviado mi pie.
+En su pisada asió mi pie; su camino guardé, y no me desvié.
 
 ### 23:12
 
-He guardado sus mandamientos con mi boca y no he desviado mi lengua de sus decretos.
+Mandamiento de sus labios, y no aparté; más que mi porción atesoré dichos de su boca.
 
 ### 23:13
 
-Él hace lo que quiere, ¿quién puede deshacerlo? Él hace lo que desea, ¿quién puede decirle: “¿Por qué lo hiciste?”
+Y él en uno, y ¿quién lo hará volver? Y su alma deseó, e hizo.
 
 ### 23:14
 
-Porque él cumple su decreto, y muchas son las cosas que él hace.
+Porque él cumplirá mi porción, y como estas muchas con él.
 
 ### 23:15
 
-Por eso me avergüenzo ante él, medito y temo ante él.
+Por tanto de su rostro me aterraré; consideraré, y temeré de él.
 
 ### 23:16
 
-Y Dios endureció mi corazón, y el Todopoderoso me asustó.
+Y El ablandó mi corazón, y Shadai me aterró.
 
 ### 23:17
 
-Porque no me cierro ante la oscuridad, y ante mí se extiende la sombra.
+Porque no fui aniquilado de faces de tiniebla, y de mi rostro cubrió densura.
 
 ## Capítulo 24
 
 ### 24:1
 
-¿Por qué Dios no estableció tiemlicas y no vio sus días?
+¿Por qué desde Shadai no fueron escondidos tiempos? No vieron sus días.
 
 ### 24:2
 
-Sus límites los alcanzan, aprisionan un rebaño y lo pastorean.
+Linderos remueven; rebaño robaron y pastaron.
 
 ### 24:3
 
-Pastorean a los huérfanos como un burro, y a la viuda, como un buey.
+Asno de huérfanos llevan; prenden buey de viuda.
 
 ### 24:4
 
-Los pobres se apartan del camino, juntos se ocultan los indigentes de la tierra.
+Desvían a necesitados del camino; juntos se esconden pobres de tierra.
 
 ### 24:5
 
-He aquí que en el desierto los animales salvajes salen a buscar alimento, y el sol se levanta para ellos como alimento para los jóvenes.
+He aquí onagros en el desierto salen en su obra, madrugadores al alimento; arabá a él pan a los muchachos.
 
 ### 24:6
 
-En el campo de noche se cosecha, y el viñedo del pecador se arranca.
+En el campo su forraje siegan, y viña del malo rebuscan.
 
 ### 24:7
 
-Duermen desnudos sin vestido, y no hay cobertura en el invierno.
+Desnudos pernoctan sin vestido, y no hay cobertura en el frío.
 
 ### 24:8
 
-Se empapan del rocío de los montes, y sin refugio abrazan la roca.
+De aguacero de montes se mojan, y sin refugio abrazan peña.
 
 ### 24:9
 
-Roban a los huérfanos, y a los pobres ejercen violencia.
+Arrebatan del pecho al huérfano, y sobre el pobre prenden.
 
 ### 24:10
 
-Andan desnudos sin vestido, y los hambrientos llevan el grano.
+Desnudos anduvieron sin vestido, y hambrientos llevaron gavilla.
 
 ### 24:11
 
-Entre sus filas se abren paso los ladrones, y los peregrinos andan sin agua.
+Entre sus muros exprimen aceite; lagares pisaron, y sediento quedan.
 
 ### 24:12
 
-Gimen desde la ciudad de los muertos, y el espíritu de los que están muertos clama; pero Dios no tiene misericordia.
+Desde ciudad hombres gimen, y alma de heridos clama; y Eloah no pone necedad.
 
 ### 24:13
 
-Estos eran ladrones de luz, no conocían mis caminos, y no habitaron en mis senderos.
+Ellos fueron en rebeldes de luz; no conocieron sus caminos, y no se asentaron en sus sendas.
 
 ### 24:14
 
-A la luz se levanta el asesino para matar al pobre y al necesitado, y de noche anda como ladrón.
+Al alba se levanta el asesino; mata pobre y necesitado; y en la noche es como el ladrón.
 
 ### 24:15
 
-Y el ojo del adultero guarda la noche, diciendo: Nadie me verá, y oculta su rostro.
+Y ojo del adúltero guarda el crepúsculo, diciendo: No me mirará ojo; y escondite de faces pone.
 
 ### 24:16
 
-Se rompe en la oscuridad, y de día cierran sus casas, no conocen la luz.
+Horada en la tiniebla casas; de día se sellaron a ellos; no conocieron luz.
 
 ### 24:17
 
-Porque al mismo tiempo la mañana es para ellos como la sombra de la muerte, porque reconocen la oscuridad de la sombra de la muerte.
+Porque juntamente mañana a ellos es sombra de muerte; porque conoce terrores de sombra de muerte.
 
 ### 24:18
 
-Leve es sobre la superficie de las aguas, su porción en la tierra es ligera; no gira el camino por los viñedos.
+Ligero él sobre faces de aguas; es maldecida su porción en la tierra; no vuelve camino de viñas.
 
 ### 24:19
 
-También el calor y la sed se apoderan de los que beben el agua de la nieve, y el infierno es para los pecadores.
+Sequedad también calor arrebatan aguas de nieve; Sheol a los que pecaron.
 
 ### 24:20
 
-Olvida la compasión, la misericordia se convierte en abominación, aún no se acuerda, y se rompe como un árbol torcido.
+Lo olvida el vientre; lo endulza el gusano; aún no es recordado; y es quebrada como árbol la iniquidad.
 
 ### 24:21
 
-El pastor de la mujer estéril no la hace parir, y la viuda no tendrá bienaventuranza.
+Pastorea a la estéril que no pare, y a viuda no hace bien.
 
 ### 24:22
 
-Y arrastra con su fuerza a los poderosos, se levanta y no confía en la vida.
+Y arrastra a poderosos con su fuerza; se levanta, y no confía en la vida.
 
 ### 24:23
 
-Da seguridad y descansa, y sus ojos están en sus caminos.
+Da a él para seguridad, y se apoya; y sus ojos sobre sus caminos.
 
 ### 24:24
 
-Suben un poco y no están, y se humillan y caen como todas las cosas, y como la caña seca se marchitan.
+Se alzaron un poco, y no está; y son abatidos; como todos se cierran, y como cabeza de espiga son cortados.
 
 ### 24:25
 
-Y si no lo hago yo, ¿quién me engañará? ¿Y quién pondrá mi palabra en ridículo?
+Y si no, pues, ¿quién me hará mentiroso, y pondrá a nada mi palabra?
 
 ## Capítulo 25
 
 ### 25:1
 
-Entonces Baldad el suhí y dijo:
+Y respondió Bildad el shují, y dijo:
 
 ### 25:2
 
-El dominio y el temor están con él, hace la paz en sus alturas.
+Dominio y terror con él; hace paz en sus alturas.
 
 ### 25:3
 
-¿Hay un número para sus ejércitos, y sobre quién no se levanta su luz?
+¿Hay número a sus escuadrones? Y sobre quién no se levanta su luz?
 
 ### 25:4
 
-¿Qué se justificará el hombre ante Dios, y qué se purificará el nacido de mujer?
+Y ¿cómo se justificará mortal con El? Y ¿cómo será limpio nacido de mujer?
 
 ### 25:5
 
-He aquí hasta el mes y no hay luz, y las estrellas no brillan ante sus ojos.
+He aquí hasta luna, y no brilla; y estrellas no son limpias en sus ojos.
 
 ### 25:6
 
-También el hombre es inmundo y el hijo del hombre es una gusana.
+¡Cuánto menos mortal, gusano, y hijo de hombre, verme!
 
 ## Capítulo 26
 
 ### 26:1
 
-Entonces Job respondió y dijo:
+Y respondió Iyov, y dijo:
 
 ### 26:2
 
-¿Qué ayuda has dado a quien no tiene fuerza? ¿Has salvado el brazo sin fuerza?
+¿Qué ayudaste al sin fuerza? Salvaste brazo no fuerte.
 
 ### 26:3
 
-¿Qué consejo has dado a quien no tiene sabiduría? ¿Has mostrado a muchos la utilidad?
+¿Qué aconsejaste al sin sabiduría? Y consejo a lo mucho diste a conocer.
 
 ### 26:4
 
-¿A quién has hablado con palabras, y cuál espiritu ha salido de ti?
+¿A quién declaraste palabras? Y aliento de quién salió de ti?
 
 ### 26:5
 
-Los muertos son afligidos, bajo las aguas y sus compañeros.
+Los refaim tiemblan debajo de aguas y sus moradores.
 
 ### 26:6
 
-El Sheol está desnudo ante él, y no hay tapa para la Abaddon.
+Desnudo Sheol delante de él, y no hay cobertura a Abadón.
 
 ### 26:7
 
-Estira el norte sobre el vacío, cuelga la tierra sobre nada.
+Extiende norte sobre vacío; cuelga tierra sobre no-qué.
 
 ### 26:8
 
-Ata las aguas en las nubes, y las nubes no se rompen.
+Ata aguas en sus nubes, y no se rajó nube debajo de ellas.
 
 ### 26:9
 
-Abarca las caras con nubes, y extiende sobre ellos un velo.
+Agarra faces de trono; despliega sobre él su nube.
 
 ### 26:10
 
-Ha puesto un límite al vacío, hasta donde la luz se mezcla con las tinieblas.
+Límite trazó sobre faces de aguas, hasta confín de luz con tiniebla.
 
 ### 26:11
 
-Los pilares del cielo se tambalean, y se estremecen ante su reprehen.
+Columnas de cielos se estremecen, y se asombran de su reprensión.
 
 ### 26:12
 
-Con su poder apaciguó el mar, y con su entendimiento aplastó Rahab.
+Con su fuerza aquietó el mar; hirió a Rahav.
 
 ### 26:13
 
-Con su espíritu cortó los cielos, y su mano herida al serpiente.
+Con su espíritu cielos hermosura; perforó su mano serpiente huyente.
 
 ### 26:14
 
-Mira, éstos son los confines de su camino, y ¿qué se oye de su voz? ¿Y quién puede entender su poder?
+He aquí estas extremos; y ¡qué susurro de palabra oímos en él! Y trueno, ¿quién entenderá?
 
 ## Capítulo 27
 
 ### 27:1
 
-Y Job prosiguió con su alegoría y dijo:
+Y añadió Iyov a alzar su proverbio, y dijo:
 
 ### 27:2
 
-Vivo yo, Dios ha quitado mi juicio, y el Todopoderoso ha turbado mi espíritu.
+Vive El, que removió mi juicio, y Shadai amargó mi alma,
 
 ### 27:3
 
-Porque mientras mi aliento esté en mí, y el espíritu de Dios en mis mandíbulas,
+porque todo aún mi aliento en mí, y espíritu de Eloah en mi nariz;
 
 ### 27:4
 
-Si mis labios pecan, y mi lengua habla engaño;
+si hablarán mis labios iniquidad, y mi lengua si murmurará engaño.
 
 ### 27:5
 
-¡Ay de mí si justifico a vosotros! Hasta que yo expire, no quitaré de mí mi integridad.
+¡Lejos a mí si justifique a ustedes! Hasta que expire, no quitaré mi integridad de mí.
 
 ### 27:6
 
-En mi justicia me sostengo, no me apartaré de ella; no me desviará mi corazón de los días de mi vida.
+En mi justicia me aferré, y no la soltaré; no afrentará mi corazón desde mis días.
 
 ### 27:7
 
-Que mi enemigo sea como el impío, y que mi adversario esté como el pecador.
+Sea como malo mi enemigo, y mi levantado contra mí como inicuo.
 
 ### 27:8
 
-Porque ¿qué esperanza tiene el impío, y qué sucederá cuando Dios le quita la vida?
+Porque ¿qué esperanza del impío cuando corta, cuando Eloah extrae su alma?
 
 ### 27:9
 
-¿Acaso escuchará Dios su clamor, cuando la adversidad viene sobre él?
+¿Acaso su clamor oirá El cuando venga sobre él angustia?
 
 ### 27:10
 
-Si se deleita en Dios, llamará a Dios en todo tiempo.
+¿Si sobre Shadai se deleitará? Llamará a Eloah en todo tiempo.
 
 ### 27:11
 
-Mostraré a vosotros la mano de Dios, que no ocultaré nada de lo que está con el Todopoderoso.
+Enseñaré a ustedes con mano de El; lo que con Shadai no ocultaré.
 
 ### 27:12
 
-Mirad, vosotros todos lo habéis visto; ¿por qué, pues, os volvéis vano?
+He aquí ustedes todos vieron; y ¿por qué esto vanidad vanizan ustedes?
 
 ### 27:13
 
-Este es el destino del hombre perverso con Dios, y la herencia de los violentos del Altísimo.
+Esta porción de hombre malo con El, y heredad de opresores desde Shadai tomarán.
 
 ### 27:14
 
-Si sus hijos son muchos para la espada, y sus descendientes no se llenarán de pan.
+Si se multiplican sus hijos para espada, y sus descendientes no se saciarán de pan.
 
 ### 27:15
 
-Sus sobrevivientes serán enterrados en la muerte, y sus viudas no llorarán por ellos.
+En la muerte serán sepultados, y sus viudas no llorarán.
 
 ### 27:16
 
-Si amontona como la arena el dinero, y se viste como el barro.
+Si amontona como polvo plata, y como barro prepara vestido,
 
 ### 27:17
 
-Se viste, pero el justo se viste con justicia, y el dinero puro se reparte.
+prepara, y justo vestirá, y plata inocente repartirá.
 
 ### 27:18
 
-Construye como el árbol su casa, pero como la choza la hace el guardián.
+Edificó como polilla su casa, y como cabaña hizo el guarda.
 
 ### 27:19
 
-El rico se acuesta, pero no se recoge; sus ojos se abren, pero no está.
+Rico se acuesta, y no es recogido; sus ojos abrió, y no está.
 
 ### 27:20
 
-Lo alcanzará como las aguas de la llanura, por la noche lo robará el huracán.
+Lo alcanzan como aguas terrores; noche lo roba torbellino.
 
 ### 27:21
 
-Lo llevará al este y caminará, y el viento lo sacudirá de su lugar.
+Lo alza el este, y va; y lo barre de su lugar.
 
 ### 27:22
 
-Lo arrojará sobre él y no perdonará; de su mano lo llevará el viento.
+Y echa sobre él, y no se apiada; de su mano huyendo huirá.
 
 ### 27:23
 
-Lo derramará sobre él las manos, y lo soplará sobre él desde su lugar.
+Palmotea sobre él sus manos, y silba sobre él desde su lugar.
 
 ## Capítulo 28
 
 ### 28:1
 
-Porque hay un lugar para el dinero, y un lugar para el oro se lo quitarán.
+Porque hay a la plata salida, y lugar al oro refinan.
 
 ### 28:2
 
-Se toma el hierro del polvo y se funde la plata en el horno.
+Hierro del polvo es tomado, y piedra se funde cobre.
 
 ### 28:3
 
-Hay un límite para el abismo y para todo lo que se oculta es un examen; la piedra oscura y la sombra de la muerte.
+Fin pone a la tiniebla, y a todo extremo él escudriña; piedra de densura y sombra de muerte.
 
 ### 28:4
 
-Rompe el torrente lo que habita en la soledad, que no ve el pie del hombre; se desvían de los hombres, y vagan.
+Abre torrente de junto al que mora; los olvidados de pie; se menguan de mortal, se mueven.
 
 ### 28:5
 
-La tierra produce pan, y debajo de ella se revuelve como el fuego.
+Tierra, de ella sale pan, y debajo de ella es trastornada como fuego.
 
 ### 28:6
 
-El lugar de las piedras preciosas tiene piedras, y el barro contiene oro.
+Lugar de zafiro sus piedras, y polvos de oro a él.
 
 ### 28:7
 
-No conoce el camino el halcón, ni sus ojos han visto el tesoro.
+Sendero no lo conoció ave de rapiña, y no lo divisó ojo de milano.
 
 ### 28:8
 
-No ha puesto en lazo al león, no ha cautivado su presa.
+No lo hollaron hijos de soberbia; no pasó sobre él león.
 
 ### 28:9
 
-En la roca dura extiende su mano, y desvía el monte de su raíz.
+En el pedernal envió su mano; trastornó desde raíz montes.
 
 ### 28:10
 
-En las rocas hace correr los ríos, y todo lo valioso ve su ojo.
+En las peñas canales abrió, y todo precioso vio su ojo.
 
 ### 28:11
 
-En las aguas de los ríos labra, y el oculto lo hace salir a la luz.
+De lloro de ríos ató, y lo oculto saca a luz.
 
 ### 28:12
 
-Y la sabiduría, ¿dónde se halla? ¿Y dónde está el lugar de la inteligencia?
+Y la sabiduría, ¿desde dónde se halla? Y ¿dónde este lugar de inteligencia?
 
 ### 28:13
 
-No la conoce el hombre, ni se puede hallar en la tierra de los vivientes.
+No conoció mortal su valor, y no se halla en tierra de los vivos.
 
 ### 28:14
 
-El abismo dice: No está en mí. Y el mar dice: No está conmigo.
+Abismo dijo: No en mí ella; y mar dijo: No conmigo.
 
 ### 28:15
 
-No se le puede dar un precio ni se le puede pesar el valor de la sabiduría.
+No se dará oro cerrado debajo de ella, y no se pesará plata su precio.
 
 ### 28:16
 
-No se puede pesar con el oro de Ofir ni con el lacre y el esmalte.
+No será valuada con oro fino de Ofir, con ónice precioso y zafiro.
 
 ### 28:17
 
-No se puede pesar con el oro y la plata, y no hay quien cambie por ella joyas de oro.
+No la igualará oro y vidrio, y su cambio vaso de oro puro.
 
 ### 28:18
 
-No se puede pesar con la onix y la jaspe, y la sabiduría no se puede comprar con piedras preciosas.
+Corales y cristal no se recordarán, y atracción de sabiduría más que perlas.
 
 ### 28:19
 
-No se puede pesar con el oro de Cuxe, ni con el lacre puro se puede pesar.
+No la igualará topacio de Kush; con oro fino puro no será valuada.
 
 ### 28:20
 
-¿De dónde vendrá la sabiduría? ¿Y dónde está el lugar de la inteligencia?
+Y la sabiduría, ¿desde dónde vendrá? Y ¿dónde este lugar de inteligencia?
 
 ### 28:21
 
-Se oculta de los ojos de todo ser viviente y de las aves del cielo se ha escondido.
+Y está oculta de ojos de todo vivo, y de ave de los cielos escondida.
 
 ### 28:22
 
-Abaddon y la muerte dicen: Con nuestros oídos hemos oído su fama.
+Abadón y muerte dijeron: Con nuestros oídos oímos su rumor.
 
 ### 28:23
 
-Dios comprende su camino, y él conoce su lugar.
+Dios entendió su camino, y él conoció su lugar.
 
 ### 28:24
 
-Porque él mira hasta el extremo de la tierra y ve debajo de todo el cielo.
+Porque él a extremos de la tierra mira; debajo de todos los cielos ve.
 
 ### 28:25
 
-Para dar a la brisa su peso y a las aguas su medida.
+Al hacer al viento peso, y aguas midió en medida;
 
 ### 28:26
 
-Porque él hace la lluvia como norma y el camino para los rayos de luz.
+al hacer a la lluvia estatuto, y camino a relámpago de voces;
 
 ### 28:27
 
-Entonces lo ve y lo declara; lo prepara, y también lo examina.
+entonces la vio y la contó; la preparó, y también la escudriñó.
 
 ### 28:28
 
-Y dijo a la persona: El temor del Señor es sabiduría, y apartarse del mal es inteligencia.
+Y dijo al hombre: He aquí temor de Adonai, ella es sabiduría; y apartarse de mal, inteligencia.
 
 ## Capítulo 29
 
 ### 29:1
 
-Y Job añadió más proverbios y dijo:
+Y añadió Iyov alzar su proverbio, y dijo:
 
 ### 29:2
 
-¿Quién me daría como los días de mi juventud, como los años cuando Dios me protegía?
+¡Quién me diera como meses de antaño, como días de Dios me guardaba!
 
 ### 29:3
 
-Cuando la luz de mi lámpara brillaba sobre mi cabeza, caminaba en la luz cuando estaba en la oscuridad.
+En brillar su lámpara sobre mi cabeza; a su luz ando tiniebla.
 
 ### 29:4
 
-Como cuando estaba en los días de mi vigor, en el consejo de Dios estaba sobre mi tienda.
+Como cuando yo era en días de mi otoño, en secreto de Dios sobre mi tienda;
 
 ### 29:5
 
-Cuando aún estaba con el Todopoderoso, jóvenes me rodeaban.
+en aún Shadai conmigo; alrededor de mí mis mozos;
 
 ### 29:6
 
-Cuando me lavaba en aceite y la roca vertía aceite sobre mí.
+en lavar mis caminos en cuajada, y peña derrama conmigo arroyos de aceite;
 
 ### 29:7
 
-Cuando salía al patio de la ciudad y tomaba mi asiento en la plaza.
+en salir yo puerta sobre ciudad, en plaza preparo mi asiento.
 
 ### 29:8
 
-Los jóvenes me veían y se escondían, y los ancianos se levantaban y se quedaban de pie.
+Me veían mozos y se escondían, y ancianos se levantaban, se quedaban en pie.
 
 ### 29:9
 
-Los príncipes guardaban silencio y ponían la mano sobre la boca.
+Príncipes refrenaban en palabras, y palma ponían a su boca.
 
 ### 29:10
 
-La voz de los nobles se oculta, y sus lenguas se pegan a sus paladares.
+Voz de nobles se escondía, y su lengua a su paladar se pegaba.
 
 ### 29:11
 
-Porque la oreja que escucha y me desprecia, y el ojo que ve y me miente.
+Porque oído oía y me dichaba, y ojo veía y me atestiguaba.
 
 ### 29:12
 
-Porque libraré al pobre que clama, y al huérfano, y no habrá quien le ayude.
+Porque libraba al pobre que clamaba, y al huérfano y no había ayudador para él.
 
 ### 29:13
 
-La bendición del que pierde vendrá sobre mí, y el corazón de la viuda responderá.
+Bendición del que perecía sobre mí venía, y corazón de viuda yo hacía cantar.
 
 ### 29:14
 
-La justicia me viste, y me viste como un manto y un turbante, mi juicio.
+Justicia vestí y me vistió; como manto y turbante mi juicio.
 
 ### 29:15
 
-He sido ojos para el ciego, y pies para el cojo soy yo.
+Ojos era yo al ciego, y pies al cojo yo.
 
 ### 29:16
 
-Padre de los que están en la miseria, y de la contienda no he sabido, y no la buscaré.
+Padre yo a los indigentes, y causa que no conocía la investigaba.
 
 ### 29:17
 
-Y quebraré las garras de los malvados, y sus dientes arrancaré y los tiraré como presa.
+Y quebraba quijadas de injusto, y de sus dientes echaba presa.
 
 ### 29:18
 
-Y diré: Con mi nido estaré en paz, y como el polvo multiplicaré mis días.
+Y decía: Con mi nido expiraré, y como arena multiplicaré días.
 
 ### 29:19
 
-Mis raíces están abiertas a las aguas, y la lluvia descansará en mi cosecha.
+Mi raíz abierta hacia aguas, y rocío pernocta en mi cosecha.
 
 ### 29:20
 
-Mi gloria es nueva conmigo, y mi arco en mi mano será cambiado.
+Mi gloria nueva conmigo, y mi arco en mi mano se renueva.
 
 ### 29:21
 
-Para mí escuchen y esperen, y se callarán para mis consejos.
+A mí escuchaban y esperaban, y callaban por mi consejo.
 
 ### 29:22
 
-Después de mi palabra no cambiarán, y sobre ellos mi enseñanza será depositada.
+Tras mi palabra no repetían, y sobre ellos goteaba mi dicho.
 
 ### 29:23
 
-Y esperarán como la lluvia, y sus bocas hablarán de sequía.
+Y esperaban como a lluvia a mí, y su boca abrían al aguacero tardío.
 
 ### 29:24
 
-Yo me reiré, pero ellos no creerán, y la luz de mi rostro no la despreciarán.
+Me reía hacia ellos, no creían; y luz de mi rostro no abatían.
 
 ### 29:25
 
-Elegiré su camino, y me sentaré como jefe, y me asentaré como rey en un grupo, como cuando los afligidos son consolados.
+Escogía su camino y me sentaba cabeza, y moraba como rey en la tropa, como cuando a enlutados consuela.
 
 ## Capítulo 30
 
 ### 30:1
 
-Y ahora, burlaos de mí, jóvenes, en unos días que desprecié a sus padres, para ponerme con los perros de mi rebaño.
+Y ahora se ríen de mí menores que yo en días, cuyos padres deseché para poner con perros de mi rebaño.
 
 ### 30:2
 
-¿De qué me sirve el poder de sus manos? Sobre ellos ha destruido todo su esfuerzo.
+También fuerza de sus manos, ¿para qué a mí? Sobre ellos se perdió vigor.
 
 ### 30:3
 
-Con corderos y con cabras, desnudos los quebrantadores del agua, ayer destrucción y hoy hambre.
+En falta y en hambre estéril; los que roen sequedad, anoche ruinación y desolación.
 
 ### 30:4
 
-Los que cortan leña, seco sobre la hierba, y la raíz de los espinos para su alimento.
+Los que arrancan malva sobre arbusto, y raíz de retamas su pan.
 
 ### 30:5
 
-De la espalda serán expulsados, tenderán sobre ellos como ladrones.
+De en medio son expulsados; gritan sobre ellos como al ladrón.
 
 ### 30:6
 
-En las cañadas de los arroyos se asentarán, en las grietas del polvo y de las rocas.
+En barranco de torrentes a habitar, agujeros de polvo y peñas.
 
 ### 30:7
 
-Entre los arbustos rugirán, bajo el cardo serán consumidos.
+Entre arbustos rebuznan; bajo ortiga se juntan.
 
 ### 30:8
 
-Hijos de necios, también hijos de los sin nombre, se consumirán de la tierra.
+Hijos de necio, también hijos de sin nombre; fueron aplastados de la tierra.
 
 ### 30:9
 
-Ahora su canción es para mí, y yo soy para ellos una broma.
+Y ahora su canción he sido, y soy a ellos por dicho.
 
 ### 30:10
 
-Me aborrecen, se alejan de mí, y no guardan saliva delante de mí.
+Me abominan, se alejan de mí, y de mi rostro no retienen saliva.
 
 ### 30:11
 
-Porque abrió más y me aflige, y me envían odio delante.
+Porque él soltó y me afligió, y freno de delante de mí enviaron.
 
 ### 30:12
 
-A mi derecha se levantan, mis pies me envían, y me rodean caminos de calamidad.
+Sobre derecha retoño se levantan; mis pies enviaron, y levantan contra mí caminos de su calamidad.
 
 ### 30:13
 
-Desvían mi camino para contra mí, no hay quien me ayude.
+Arruinaron mi senda; para mi ruina aprovechan; no hay ayudador para ellos.
 
 ### 30:14
 
-Como un lugar abierto y amplio, bajo la destrucción se desvanecen.
+Como rotura ancha vienen; bajo ruinación se rodaron.
 
 ### 30:15
 
-Voltean contra mí calamidades, persiguen como el viento mi generosidad, y como la nube mi salvación pasa.
+Se volvió sobre mí terrores; persigue como viento mi nobleza, y como nube pasó mi salvación.
 
 ### 30:16
 
-Y ahora sobre mí se derramará mi alma, los días de mi calamidad me tomarán.
+Y ahora sobre mí se derrama mi alma; me aferran días de aflicción.
 
 ### 30:17
 
-Por la noche mis huesos son descarnados de mí, y mis músculos no descansan.
+De noche mis huesos escarba de sobre mí, y mis nervios no yacen.
 
 ### 30:18
 
-Con gran fuerza me desgarra la ropa, y como la piel de un buey me envuelve.
+Por mucha fuerza se disfraza mi vestido; como boca de mi túnica me ciñe.
 
 ### 30:19
 
-Hacen de mí como la ceniza y el polvo.
+Me arrojó al limo, y me asemejo como polvo y ceniza.
 
 ### 30:20
 
-Clamo a ti, y no me respondes; me mantengo de pie, y me miras con atención.
+Clamo a ti y no me respondes; me paré y te fijaste en mí.
 
 ### 30:21
 
-Te volverás enemigo mío; con la fuerza de tu mano me despreciarás.
+Te vuelves cruel para mí; con fuerza de tu mano me odias.
 
 ### 30:22
 
-Me alzarás sobre el viento y me conducirás; me moverás en tus aguas turbulentas.
+Me alzas al viento, me haces montar, y me disuelves.
 
 ### 30:23
 
-Porque sé que me devolverás a la muerte; a la casa de todos los vivientes.
+Porque sé que a muerte me harás volver, y a casa de cita para todo viviente.
 
 ### 30:24
 
-Pero no enviará su mano en la angustia, ni le ayudará en la tribulación.
+Mas no a montón enviará mano, si en su desastre a ellos hay clamor.
 
 ### 30:25
 
-Si no he llorado por el día, mi alma se ha afligido por el pobre.
+¿Si no lloré por el de duro día? Se contristó mi alma por el indigente.
 
 ### 30:26
 
-Porque esperé el bien y llegó el mal; esperé la luz y llegó la oscuridad.
+Porque bien esperé, y vino mal; y aguardé a luz, y vino oscuridad.
 
 ### 30:27
 
-Mi entrañas se han agitado y no han descansado; mis días de aflicción han llegado.
+Mis entrañas hirvieron y no callaron; me precedieron días de aflicción.
 
 ### 30:28
 
-He andado con tristeza sin calor; he levantado mi súplica en la asamblea.
+Ennegrecido anduve sin calor; me levanté en la asamblea, clamo.
 
 ### 30:29
 
-He sido hermano de los dragones y compañero de las aves de rapiña.
+Hermano he sido a chacales, y compañero a hijas de avestruz.
 
 ### 30:30
 
-Mi piel se ha oscurecido sobre mí, y mis huesos se han quemado en el calor.
+Mi piel se ennegreció de sobre mí, y mi hueso ardió de sequedad.
 
 ### 30:31
 
-Mi arpa ha sido de lamento, y mi cítara de voz de llanto.
+Y fue a duelo mi cítara, y mi flauta a voz de llorones.
 
 ## Capítulo 31
 
 ### 31:1
 
-He hecho un pacto con mis ojos; ¿por qué, pues, debería mirar a la doncella?
+Pacto corté para mis ojos; ¿y qué contemplaría yo sobre virgen?
 
 ### 31:2
 
-¿Y qué parte de Dios hay en lo alto, y qué herencia del Todopoderoso desde los cielos?
+¿Y qué porción de Dios desde arriba, y heredad de Shadai desde alturas?
 
 ### 31:3
 
-¿No es un mal para el pecador, y un enemigo para los que trabajan la maldad?
+¿No es calamidad para el injusto, y extrañeza para obradores de iniquidad?
 
 ### 31:4
 
-¿No es él quien ve mis caminos, y cuenta todos mis pasos?
+¿No ve él mis caminos, y todos mis pasos cuenta?
 
 ### 31:5
 
-Si he caminado con engaño, y mi pie ha corrido tras astucia,
+Si anduve con vanidad, y se apresuró sobre engaño mi pie,
 
 ### 31:6
 
-Peséeme con balanzas justas, y con la balanza de la integridad pesará Dios mi alma.
+me pese en balanzas de justicia, y conozca Dios mi integridad.
 
 ### 31:7
 
-Si mi pie ha desviado el camino, y mi corazón ha corrido tras engaños, y mi mano ha manchado con mancillar;
+Si se desvía mi paso de la senda, y tras mis ojos anduvo mi corazón, y en mis palmas se pegó mancha,
 
 ### 31:8
 
-Si he sembrado, y otro ha comido, y mis frutos han sido arrancados.
+siembre yo y otro coma, y mis retoños sean desarraigados.
 
 ### 31:9
 
-Si mi corazón ha sido engañado por una mujer, y en la puerta de mis vecinos he puesto guardia;
+Si fue seducido mi corazón sobre mujer, y sobre puerta de mi prójimo aceché,
 
 ### 31:10
 
-Si he espolvoreado con polvo la cama de otro, y he corrido tras su puerta;
+muela para otro mi mujer, y sobre ella se arrodillen otros.
 
 ### 31:11
 
-Porque es un pecado, y un error para los jueces.
+Porque eso es infamia, iniquidad de jueces.
 
 ### 31:12
 
-Porque es un fuego que hasta la destrucción consume, y en toda mi cosecha se apoderará.
+Porque fuego es ella hasta Abadón come, y en toda mi cosecha desarraiga.
 
 ### 31:13
 
-Si he despreciado el juicio de mi siervo o de mi sierva, cuando han litigado conmigo;
+Si deseché juicio de mi siervo y de mi sierva en su pleito conmigo,
 
 ### 31:14
 
-¿Qué haré si se levanta Dios y me demanda, y me pregunta: ¿Qué es esto para ti?
+¿y qué haré cuando se levante El, y cuando visite, qué le responderé?
 
 ### 31:15
 
-¿Acaso no me formó en el vientre el que me hizo, y en el seno de una madre me moldeó?
+¿No en el vientre me hizo el que lo hizo, y nos formó en un mismo seno?
 
 ### 31:16
 
-Si he negado al necesitado su deseo, y he hecho llorar a los ojos de la viuda,
+Si retuve de deseo a los pobres, y ojos de viuda consumí,
 
 ### 31:17
 
-he comido mi pan solo, y el huérfano no ha comido de él.
+y comí mi bocado solo, y no comió huérfano de él,
 
 ### 31:18
 
-Porque desde mi juventud me crió como a un padre, y desde el seno de mi madre gemí.
+porque desde mi juventud me crió como padre, y desde el vientre de mi madre la guié;
 
 ### 31:19
 
-Si he visto a alguien desnudo y no he dado ropa, o a alguien que carecía de vestido.
+si veía al que perecía sin vestido, y no había cobertura para el indigente,
 
 ### 31:20
 
-Si no he bendecido con la ropa de los que la venden, y no ha calentado el lana de mis ovejas.
+si no me bendijeron sus lomos, y del vellón de mis corderos se calentaba;
 
 ### 31:21
 
-Si he levantado mi mano contra el huérfano, viendo en la puerta su ayuda.
+si agité sobre huérfano mi mano, porque veía en la puerta mi ayuda,
 
 ### 31:22
 
-Mi cuello se cae desde mi pecho, y mi brazo se rompe desde mi costado.
+mi hombro de su espalda caiga, y mi brazo de su canilla se quiebre.
 
 ### 31:23
 
-Porque el temor de Dios me asusta, y su terror me atemoriza; no puedo soportar su ira.
+Porque pavor a mí calamidad de El, y de su majestad no puedo.
 
 ### 31:24
 
-Si he puesto oro en mi cintura, y he dicho a la plata: Tú eres mi confianza.
+Si puse oro mi confianza, y al oro fino dije: Mi seguridad;
 
 ### 31:25
 
-Si me he alegrado porque era rico, y porque mi mano había encontrado mucho.
+si me alegré porque mucho mi caudal, y porque poderoso halló mi mano;
 
 ### 31:26
 
-Si he visto la luz brillar y la luna marchar con esplendor.
+si veía luz porque brillaba, y luna preciosa andando,
 
 ### 31:27
 
-Y he buscado en el secreto de mi corazón, y mi mano ha vendido mi boca.
+y fue seducido en secreto mi corazón, y besó mi mano a mi boca,
 
 ### 31:28
 
-También es un pecado a considerar, porque he negado a Dios en lo alto.
+también eso iniquidad judicial, porque negué a El desde arriba.
 
 ### 31:29
 
-Si me he regocijado en la maldad del que me aborrece, y me he alegrado cuando me hallaba mal.
+Si me alegré en desastre de mi odiador, y me excitó porque lo halló mal;
 
 ### 31:30
 
-Y no he dado a mi lengua lugar para mentir en juramentos que destruyen la vida.
+y no di a pecar a mi paladar, a pedir en maldición su alma.
 
 ### 31:31
 
-Si no han dicho los que me hospedan: ¿Quién dará de su carne que no se sacie?
+Si no dijeron hombres de mi tienda: ¡Quién diera de su carne! No nos saciamos.
 
 ### 31:32
 
-Fuera no ha dormido el extranjero, mi puerta a la calle no ha abierto.
+En fuera no pernocta forastero; mis puertas al caminante abro.
 
 ### 31:33
 
-Si he ocultado mis pecados como el hombre, he guardado en mi seno mi iniquidad.
+Si cubrí como Adán mis rebeliones, para esconder en mi seno mi iniquidad,
 
 ### 31:34
 
-Porque temo al tumulto del pueblo y a la burla de las familias, y he estado en silencio, y no he salido a la plaza.
+porque temía muchedumbre grande, y desprecio de familias me aterraba, y callé, no salí puerta;
 
 ### 31:35
 
-¿Quién me dará a mí que me escuche, y que vea mi deseo, y que me responda el Todopoderoso?
+¡quién me diera oidor a mí! He aquí mi marca; Shadai me responda, y escrito escribió hombre de mi pleito.
 
 ### 31:36
 
-Si no he llevado sobre mi hombro su carga, y no he enroscado su cinta en mi cabeza.
+Si no sobre mi hombro lo llevaré, lo ataré coronas para mí;
 
 ### 31:37
 
-He contado el número de mis pasos, como un gobernante he acercado mi camino.
+número de mis pasos le anunciaré; como príncipe me le acercaré.
 
 ### 31:38
 
-Si la tierra ha clamado contra mí, y sus surcos han llorado juntos.
+Si sobre mí mi tierra clama, y juntos sus surcos lloran;
 
 ### 31:39
 
-Si he comido la fuerza de sus vigorosos, y el alma de sus dueños ha disminuido.
+si su fuerza comí sin plata, y alma de sus dueños hice exhalar;
 
 ### 31:40
 
-En lugar de cebada saldrá cardo, y en lugar de trigo hierba ardiente; estas son las palabras de Job.
+en lugar de trigo salga espino, y en lugar de cebada cizaña. Acabaron palabras de Iyov.
 
 ## Capítulo 32
 
 ### 32:1
 
-Y se sentaron juntos los tres hombres sin responder a Job, porque él era justo a sus ojos.
+Y cesaron los tres hombres estos de responder a Iyov, porque él justo a sus ojos.
 
 ### 32:2
 
-Y se enojó Eliú hijo de Baraquel el Buzeita contra Job, y se enojó su espíritu contra Job, porque consideraba que tenía razón, y que Dios le había juzgado.
+Y se encendió nariz de Elihú hijo de Barakel el buzí, de familia de Ram; contra Iyov se encendió su nariz, sobre justificar él su alma más que Dios.
 
 ### 32:3
 
-Y se enojó su espíritu contra sus tres amigos, porque no habían encontrado respuesta, y habían juzgado a Job.
+Y contra sus tres amigos se encendió su nariz, sobre que no hallaron respuesta, y condenaron a Iyov.
 
 ### 32:4
 
-Y Eliú aguardó a Job con palabras, porque eran mayores que él en días.
+Y Elihú esperó a Iyov en palabras, porque ancianos ellos más que él en días.
 
 ### 32:5
 
-Y cuando vio Eliú que no había respuesta en la boca de los tres hombres, se enojó su espíritu.
+Y vio Elihú que no hay respuesta en boca de los tres hombres, y se encendió su nariz.
 
 ### 32:6
 
-Entonces Eliú hijo de Baraquel el Buzeita respondió y dijo: Soy joven, y vosotros sois viejos; por eso me asusté y temí, y no os hablé de lo que yo sabía.
+Y respondió Elihú hijo de Barakel el buzí, y dijo: Joven yo en días, y ustedes ancianos; por eso temí y temí de declarar mi saber a ustedes.
 
 ### 32:7
 
-Pensé: los días hablarán, y la multitud de años da sabiduría.
+Dije: Días hablarán, y muchedumbre de años darán a conocer sabiduría.
 
 ### 32:8
 
-Pero el espíritu está en el hombre, y el aliento del Todopoderoso les da inteligencia.
+Ciertamente espíritu hay en el mortal, y soplo de Shadai les da entendimiento.
 
 ### 32:9
 
-No son los muchos los que son sabios, ni los ancianos los que entienden el juicio.
+No los muchos se hacen sabios, y ancianos entienden juicio.
 
 ### 32:10
 
-Por eso dije: Escúchenme, quiero enseñarles, yo también deseo entender.
+Por eso dije: Escucha a mí; declararé mi saber también yo.
 
 ### 32:11
 
-He esperado vuestros dichos, he atendido a vuestros razones hasta que investigasteis mis palabras.
+He aquí esperé a palabras de ustedes; inclinaba oído hasta entendimientos de ustedes, hasta que escudriñaran dichos.
 
 ### 32:12
 
-Y ahora, yo también reflexionaré en vosotros; no veo a Job que le pueda contradecir, sino que responde a vuestros dichos.
+Y hasta ustedes me fijaba; y he aquí no hay para Iyov reprensor, respondiendo sus dichos de ustedes.
 
 ### 32:13
 
-Para que no digáis: Encontramos sabiduría, Dios la destruirá, no el hombre.
+No sea que digan ustedes: Hallamos sabiduría; El lo empujará, no hombre.
 
 ### 32:14
 
-Y no ha dispuesto Dios palabras para mí, y no responderé con vuestros dichos.
+Y no ordenó hacia mí dichos, y con dichos de ustedes no le responderé.
 
 ### 32:15
 
-Se han quedado sin respuesta, ya no tienen palabras para responder.
+Se quebrantaron; no respondieron más; se alejaron de ellos palabras.
 
 ### 32:16
 
-Y he esperado, porque no respondían, porque se habían quedado sin respuesta.
+Y esperé, porque no hablaban, porque se pararon, no respondieron más.
 
 ### 32:17
 
-Yo también responderé, yo también quiero enseñarles, yo también deseo entender.
+Responderé también yo mi parte; declararé mi saber también yo.
 
 ### 32:18
 
-Porque tengo palabras para decir, mi espíritu me aprieta dentro de mí.
+Porque estoy lleno de palabras; me aprieta espíritu de mi vientre.
 
 ### 32:19
 
-He aquí que mi interior es como vino que no puede contenerse, como botas nuevas que estallan.
+He aquí mi vientre como vino no abierto; como odres nuevos se raja.
 
 ### 32:20
 
-Hablaré y me aliviaré, abriré mis labios y responderé.
+Hablaré y me aliviará; abriré mis labios y responderé.
 
 ### 32:21
 
-No quiero mirar a ningún hombre, no quiero a ningún ser humano.
+No ahora alce yo rostros de hombre, y a humano no adularé.
 
 ### 32:22
 
-Porque no sé hacer mal, poco me sobra para que me haga pecador.
+Porque no sé adular; en poco me llevaría mi Hacedor.
 
 ## Capítulo 33
 
 ### 33:1
 
-Pero ahora escucha, Job, y toma en serio todas mis palabras.
+Mas ahora oye, por favor, Iyov, mis dichos, y todas mis palabras presta oído.
 
 ### 33:2
 
-Mira, ahora abro mi boca; mi lengua habla en mi paladar.
+He aquí ahora abrí mi boca; habló mi lengua en mi paladar.
 
 ### 33:3
 
-Mi corazón habla sinceramente, y mis labios conocen perfectamente.
+Rectitud de mi corazón mis dichos, y saber de mis labios puro hablaron.
 
 ### 33:4
 
-El espíritu de Dios me hizo, y la aliento de Shadday me vivifica.
+Espíritu de El me hizo, y soplo de Shadai me vivifica.
 
 ### 33:5
 
-Si puedes responderme, prepara tu caso ante mí y disponte.
+Si puedes, respóndeme; ordena delante de mí, ponte.
 
 ### 33:6
 
-Mira, yo soy como tú ante Dios; también yo soy hecho de arcilla.
+He aquí yo como tu boca para El; de limo fui cortado también yo.
 
 ### 33:7
 
-Mira, mi temor no te molesta, y mi mano no pesa sobre ti.
+He aquí mi terror no te espantará, y mi presión sobre ti no será pesada.
 
 ### 33:8
 
-Pero tú has hablado en mi oído, y el sonido de tus palabras las he escuchado.
+Ciertamente dijiste en mis oídos, y voz de dichos oigo:
 
 ### 33:9
 
-Soy inocente, sin pecado; soy limpio, y no hay iniquidad en mí.
+Puro yo, sin rebelión; limpio yo, y no hay iniquidad para mí.
 
 ### 33:10
 
-Mira, te afligen tormentos, y me consideras enemigo.
+He aquí pretextos sobre mí halla; me cuenta por enemigo para él.
 
 ### 33:11
 
-Pone en lajas mis pies, y guarda todas mis sendas.
+Pone en el cepo mis pies; guarda todos mis caminos.
 
 ### 33:12
 
-He aquí, esto no es justo: yo te responderé, porque Dios es más que un hombre.
+He aquí esto no fuiste justo; te responderé, porque es más Dios que mortal.
 
 ### 33:13
 
-¿Por qué me acusas tú, pues que no responde a todas mis palabras?
+¿Por qué a él contiende, porque todas sus palabras no responde?
 
 ### 33:14
 
-Porque en una vez hablará Dios, y no en dos veces.
+Porque en una habla El, y en dos no la contempla.
 
 ### 33:15
 
-En sueño, en visión de la noche, cuando cae el sueño sobre los hombres, en las visiones del sueño sobre la cama.
+En sueño, visión de noche, en caer sopor sobre hombres, en dormitar sobre lecho,
 
 ### 33:16
 
-Entonces oirán los hombres, y por su castigo serán sellados.
+entonces descubre oído de hombres, y con su disciplina sella,
 
 ### 33:17
 
-Para quitar al hombre su obra, y cubrir el rostro del varón.
+para apartar al hombre de obra, y orgullo de varón cubre,
 
 ### 33:18
 
-Guardará su alma de la sepultura, y su vida de pasar por el río.
+reta su alma de fosa, y su vida de pasar por el dardo.
 
 ### 33:19
 
-Será castigado con dolores sobre su lecho, y con el rigor de sus huesos.
+Y es reprendido con dolor sobre su lecho, y contienda de sus huesos continua.
 
 ### 33:20
 
-Su inmundicia será su alimento, y su alma el manjar de su apetito.
+Y le aborrece su vida pan, y su alma comida deseable.
 
 ### 33:21
 
-Su carne será sin vista, y sus huesos no se verán.
+Se consume su carne de verse; sus huesos no fueron vistos.
 
 ### 33:22
 
-Y se acercará a la muerte su alma, y sus fuerzas a los muertos.
+Y se acerca a la fosa su alma, y su vida a los matadores.
 
 ### 33:23
 
-Si hay un mensajero con él, un intérprete, uno de mil para declarar al hombre su rectitud.
+Si hay sobre él mensajero, intérprete, uno de mil, para anunciar al hombre su rectitud,
 
 ### 33:24
 
-Y lo perdonará y dirá: Libéralo de la red de la muerte, he encontrado un rescate.
+y le hace gracia y dice: Redímelo de bajar a fosa; hallé rescate;
 
 ### 33:25
 
-Su carne se corrompe desde la juventud, pero volverá a los días de su mocedad.
+se ablanda su carne más que de juventud; vuelve a días de su mocedad.
 
 ### 33:26
 
-Suplicará a Dios y le será grato, y verá su rostro en la alegría, y vivirá como un hombre por su justicia.
+Ruega a Dios y se agrada de él, y ve su rostro con júbilo, y vuelve al mortal su justicia.
 
 ### 33:27
 
-Será recto con los hombres y dirá: He pecado y he hecho injusticia, y no me ha sido útil.
+Canta sobre hombres y dice: Pequé y recto torcí, y no me valió;
 
 ### 33:28
 
-Redimirá su alma de pasar por la muerte, y vivirá para ver la luz.
+redimió mi alma de pasar por la fosa, y mi vida en la luz verá.
 
 ### 33:29
 
-Mira, todo esto hace Dios dos veces, tres veces con el hombre.
+He aquí todas estas hace El, dos veces, tres, con varón,
 
 ### 33:30
 
-Para devolver su alma de la muerte, a la luz de la vida.
+para hacer volver su alma de fosa, para iluminarse con luz de los vivos.
 
 ### 33:31
 
-Escucha, Job, presta atención a mí, guarda silencio y hablaré.
+Atiende, Iyov; oye a mí; calla, y yo hablaré.
 
 ### 33:32
 
-Si hay palabras, responde a mí, habla, porque he deseado tu justicia.
+Si hay dichos, respóndeme; habla, porque deseé justificarte.
 
 ### 33:33
 
-Si no, escucha a mí, guarda silencio y yo te enseñaré la sabiduría.
+Si no, tú oye a mí; calla, y te enseñaré sabiduría.
 
 ## Capítulo 34
 
 ### 34:1
 
-Y respondió Elihu y dijo:
+Y respondió Elihú, y dijo:
 
 ### 34:2
 
-Escuchen sabios mis palabras, y los que conocen, presten atención a mí.
+Oigan, sabios, mis palabras; y conocedores, escúchenme.
 
 ### 34:3
 
-Porque la oreja examina las palabras y el paladar saborea la comida.
+Porque el oído palabras prueba, y el paladar gusta para comer.
 
 ### 34:4
 
-Elegimos un juicio para nosotros, conozcamos entre nosotros qué es bueno.
+Juicio escojamos para nosotros; sepamos entre nosotros qué es bueno.
 
 ### 34:5
 
-Porque Job ha dicho: “Soy justo”, y Dios ha quitado mi juicio.
+Porque dijo Iyov: Fui justo, y Dios quitó mi juicio.
 
 ### 34:6
 
-En mi juicio me siento defraudado; soy justo, pero mi arco está en vano.
+Sobre mi juicio mentiré; incurable es mi flecha sin delito.
 
 ### 34:7
 
-¿Quién es como Job, que bebe la afrenta como agua?
+¿Quién es varón como Iyov, que bebe escarnio como aguas,
 
 ### 34:8
 
-Y camina con los malhechores y va con los hombres de iniquidad.
+y camina para compañía con obradores de iniquidad, y para andar con hombres de maldad?
 
 ### 34:9
 
-Porque ha dicho: “No temerá el hombre, pues está en paz con Dios”.
+Porque dijo: No aprovecha al varón en su complacencia con Dios.
 
 ### 34:10
 
-Por eso, hombres de corazón, escuchenme: ¡Ay del que hace mal ante Dios y del justo ante el Omnipotente!
+Por tanto, hombres de corazón, óiganme: Lejos a Dios de maldad, y a Shadai de iniquidad.
 
 ### 34:11
 
-Porque la obra del hombre le será pagada, y según el camino de cada uno, así le será hallado.
+Porque obra de hombre le pagará, y según camino de hombre le hará hallar.
 
 ### 34:12
 
-¡También Dios no perjudica al justo, y el Todopoderoso no corrompe el juicio!
+También ciertamente Dios no hará malvado, y Shadai no torcerá juicio.
 
 ### 34:13
 
-¿Quién ha puesto sobre mí la tierra y quién ha colocado el mundo en su lugar?
+¿Quién encargó sobre él la tierra? ¿Y quién puso el mundo todo él?
 
 ### 34:14
 
-Si Él pone su mente sobre mí, su espíritu y su aliento volverán a Él.
+Si pone a él su corazón, su espíritu y su aliento a él recoge,
 
 ### 34:15
 
-Se consumirá toda la carne juntos, y el hombre volverá a la tierra.
+expirará toda carne juntamente, y el hombre al polvo volverá.
 
 ### 34:16
 
-Si hay entendimiento en el oír esto, escucha la voz de mis palabras.
+Y si entendimiento, oye esto; escucha a la voz de mis palabras.
 
 ### 34:17
 
-¿Acaso odia el juez la justicia? Y si el justo es grande, condenará.
+¿Acaso el que odia juicio gobernará? ¿Y al justo poderoso condenarás?
 
 ### 34:18
 
-¿Acaso dices a un rey sin sentido: Perverso, a los nobles?
+¿El que dice al rey: Belial; malvado a los nobles;
 
 ### 34:19
 
-Que no ha tenido en cuenta a los grandes, ni ha reconocido el grito del pobre; porque todo lo que hago es mío.
+que no alza rostros de príncipes, y no reconoce al rico delante del pobre, porque obra de sus manos todos ellos?
 
 ### 34:20
 
-En un momento morirán, y a medianoche se consumirán los pueblos y pasarán; pero el fuerte no por sus manos.
+En un momento mueren, y a medianoche se sacuden pueblo y pasan; y quitan al poderoso no con mano.
 
 ### 34:21
 
-Porque mis ojos están sobre los caminos del hombre, y todo su andar veo.
+Porque sus ojos sobre caminos de hombre, y todos sus pasos ve.
 
 ### 34:22
 
-No hay tinieblas ni sombra de muerte para ocultar a los que hacen el mal.
+No hay tiniebla y no hay sombra de muerte para esconderse allí los obradores de iniquidad.
 
 ### 34:23
 
-Porque ya no pondrá más sobre el hombre para ir a Dios en juicio.
+Porque no sobre hombre pone aún para ir a Dios en juicio.
 
 ### 34:24
 
-No hay examen para los poderosos, y a otros los establecerá en su lugar.
+Quebranta a los poderosos sin pesquisa, y pone a otros en lugar de ellos.
 
 ### 34:25
 
-Por eso conocerá sus obras, y los dará de noche y los humillará.
+Por tanto conoce sus obras, y vuelca de noche, y son aplastados.
 
 ### 34:26
 
-Bajo los pecados de los malvados, en el lugar de los que los ven.
+En lugar de malos los golpea, en lugar de videntes.
 
 ### 34:27
 
-Por eso se apartaron de mí y no entendieron mis caminos.
+Que por eso se apartaron de detrás de él, y todos sus caminos no entendieron,
 
 ### 34:28
 
-Para traer sobre mí el grito del pobre y el clamor de los necesitados será escuchado.
+para hacer venir sobre él el clamor del pobre, y el clamor de los afligidos oye.
 
 ### 34:29
 
-Y él guardará silencio, ¿quién lo condenará? Y ocultará su rostro, ¿quién lo juzgará? Y para un pueblo y para un hombre juntos.
+Y él aquieta, ¿y quién condenará? Y esconde rostros, ¿y quién lo mirará? Y sobre nación y sobre hombre juntamente,
 
 ### 34:30
 
-Es mejor que un hombre impío reine que que los tramposos del pueblo gobiernen.
+de reinado de hombre hipócrita, de lazos de pueblo.
 
 ### 34:31
 
-Porque a Dios dije: No me acusarás, no me rebelaré.
+Porque a Dios ¿dijo: Llevé; no dañaré;
 
 ### 34:32
 
-Sin advertirme, tú me enseñas, si obré mal, no lo repetiré.
+aparte de lo que veo, tú enséñame; si iniquidad obré, no añadiré?
 
 ### 34:33
 
-¿Acaso de ti vendrá el pago, porque te has disgustado, porque tú eliges y no yo, ¿qué sabes, habla.
+¿De contigo la pagará, porque rechazaste? Porque tú escoges, y no yo; y qué sabes, habla.
 
 ### 34:34
 
-Los hombres de corazón me dirán y el hombre sabio me escuchará.
+Hombres de corazón me dirán, y varón sabio que me oye:
 
 ### 34:35
 
-Job no habla con conocimiento y sus palabras no son con entendimiento.
+Iyov no con conocimiento habla, y sus palabras no con entendimiento.
 
 ### 34:36
 
-Mi padre juzgará a Job hasta el fin, por la respuesta de los hombres malvados.
+Padre mío, sea probado Iyov hasta siempre, sobre respuestas en hombres de iniquidad.
 
 ### 34:37
 
-Porque añadirá a su pecado la transgresión, entre nosotros se rebelará y multiplicará sus palabras contra Dios.
+Porque añade sobre su pecado delito; entre nosotros aplaude, y multiplica sus dichos a Dios.
 
 ## Capítulo 35
 
 ### 35:1
 
-Entonces respondió a él y dijo:
+Y respondió Elihú, y dijo:
 
 ### 35:2
 
-¿Acaso esto es lo que consideras justo? Dices: ‘Mi rectitud es de Dios’.
+¿Esto pensaste por juicio, dijiste: Mi justicia más que Dios?
 
 ### 35:3
 
-¿Qué te aprovechará, o qué recibirás de mis manos, si dijeres: ‘Lo que me conviene’?
+Porque dices: ¿Qué te aprovecha? ¿Qué aprovecho más que mi pecado?
 
 ### 35:4
 
-Yo te responderé con palabras, y tus amigos estarán contigo.
+Yo te responderé palabras, y a tus amigos contigo.
 
 ### 35:5
 
-Mira al cielo y mira, y ve que el cielo es más alto que tú.
+Mira a los cielos y ve; y contempla las nubes, se alzaron de ti.
 
 ### 35:6
 
-Si has pecado, ¿qué harás contra él? Si tus transgresiones son muchas, ¿qué harás?
+Si pecaste, ¿qué obrarás en él? Y si se multiplicaron tus delitos, ¿qué le harás?
 
 ### 35:7
 
-Si has obrado con justicia, ¿qué darás a él, o qué recibirá de tus manos?
+Si fuiste justo, ¿qué le darás? ¿O qué de tu mano tomará?
 
 ### 35:8
 
-Para un hombre como tú, tu maldad; y para un hombre, tu justicia.
+A un hombre como tú tu maldad, y a hijo de hombre tu justicia.
 
 ### 35:9
 
-Por la multitud de los afligidos, se quejan; al hombre de muchas fuerzas ruegan.
+Por muchedumbre de opresiones claman; gritan por el brazo de los muchos.
 
 ### 35:10
 
-No dice: ‘¿Dónde está Dios, que me da canciones en la noche?’
+Y no dijo: ¿Dónde está Dios mi Hacedor, que da cánticos en la noche,
 
 ### 35:11
 
-Nos enseñan las bestias de la tierra, y las aves del cielo nos instruyen.
+que nos enseña más que las bestias de la tierra, y más que las aves de los cielos nos hace sabios?
 
 ### 35:12
 
-Allí claman, pero nadie responde, porque están ante la presunción de los malvados.
+Allí claman, y no responde, delante de la soberbia de los malos.
 
 ### 35:13
 
-Pero es vano que Dios no escuche, y que el Todopoderoso no preste atención.
+Ciertamente vanidad no oye Dios, y Shadai no la mira.
 
 ### 35:14
 
-También dirás: No hay juicio delante de él, y te expondrás a él.
+Aun cuando digas que no lo miras, el juicio delante de él; y espera en él.
 
 ### 35:15
 
-Y ahora, aunque no ha tenido en cuenta su ira, tampoco ha notado la grandeza de la maldad.
+Y ahora, porque no visitó su ira, y no conoció en la gran soberbia mucho,
 
 ### 35:16
 
-Y Job habla vanamente con su lengua, sin conocimiento multiplica palabras.
+e Iyov vanidad abre su boca; sin conocimiento multiplica palabras.
 
 ## Capítulo 36
 
 ### 36:1
 
-Y Elihu prosiguió y dijo:
+Y añadió Elihú y dijo:
 
 ### 36:2
 
-Espera un poco, y hablaré contigo, porque ahora tengo palabras para Dios.
+Espérame un poco, y te mostraré; porque aún para Dios hay palabras.
 
 ### 36:3
 
-Mis palabras procederán de la verdad, y el conocimiento del lejano te daré.
+Llevaré mi saber desde lejos, y a mi Hacedor daré justicia.
 
 ### 36:4
 
-Porque ciertamente no miento, tus palabras son las de un hombre perfecto, tus conocimientos están contigo.
+Porque de cierto no mentira mis palabras; íntegro de conocimientos contigo.
 
 ### 36:5
 
-Mira, Dios es grande, no desprecia a nadie, grande es su poder.
+He aquí El poderoso, y no desprecia; poderoso de fuerza de corazón.
 
 ### 36:6
 
-No permitirá que el malvado viva, juzgará a los pobres con justicia.
+No hará vivir al impío, y juicio de afligidos dará.
 
 ### 36:7
 
-No quitará de los ojos del justo, y pondrá a los reyes en su trono eterno, y los engrandecerá.
+No retirará del justo sus ojos; y con reyes al trono, y los asentará para siempre, y son ensalzados.
 
 ### 36:8
 
-Y si están atados en cadenas, serán sujetos a ellas, y en las cuerdas de la miseria.
+Y si atados en grillos, son apresados en cuerdas de aflicción,
 
 ### 36:9
 
-Y les anunciará sus obras, y sus transgresiones, porque se han ensoberbecido.
+entonces declara a ellos su obra, y sus rebeliones, porque se fortalecen.
 
 ### 36:10
 
-Y desplegará sus oídos para la corrección, y dirá: Si vuelven de la maldad.
+Y abre su oreja a la disciplina, y dice que se vuelvan de iniquidad.
 
 ### 36:11
 
-Si oyen, y sirven, acabarán sus días en bien, y sus años en deleites.
+Si escuchan y sirven, acabarán sus días en el bien, y sus años en lo agradable.
 
 ### 36:12
 
-Y si no oyen, en su envío pasarán, y sufrirán calamidades sin saber.
+Y si no escuchan, por lanza pasarán, y expirarán sin conocimiento.
 
 ### 36:13
 
-Y los hipócritas de corazón se enojarán, no clamarán, porque están encadenados.
+Y los hipócritas de corazón ponen ira; no claman cuando los ata.
 
 ### 36:14
 
-Morirá en juventud su alma, y sus años en la iniquidad.
+Muere en la juventud su alma, y su vida entre los consagrados.
 
 ### 36:15
 
-Salvará al pobre en su angustia, y desplegará sus oídos en la opresión.
+Libera al afligido en su aflicción, y abre en el aprieto su oreja.
 
 ### 36:16
 
-Y si te seduce de la boca del enemigo, no serás echado debajo, y tu mesa estará llena de grasa.
+Y también te atrajo de la boca del estrecho a lo ancho, no apretado debajo de ella; y reposo de tu mesa lleno de grosura.
 
 ### 36:17
 
-Y llenaste de juicio al impío, juicio y justicia sostendrán.
+Y juicio de impío llenaste; juicio y justicia sostienen.
 
 ### 36:18
 
-Porque la ira no te seduzca en duda, y no te inclines por el gran rescate.
+Porque furor, no sea que te atraiga con palmada; y grandeza de rescate no te incline.
 
 ### 36:19
 
-¿Acaso ordenará tu alimento en angustia, y todo el esfuerzo de tu fuerza?
+¿Ordenará tu clamor no en estrechez, y todos los esfuerzos de fuerza?
 
 ### 36:20
 
-No busques en vano la noche para subir a los pueblos.
+No anheles la noche, para subir pueblos debajo de ellos.
 
 ### 36:21
 
-Mira, no te inclines a la maldad, porque por esto elegiste de la pobreza.
+Guárdate, no mires a iniquidad; porque sobre esto escogiste de la aflicción.
 
 ### 36:22
 
-He aquí, Dios eleva con su poder, ¿quién como él enseña?
+He aquí El ensalza con su fuerza; ¿quién como él maestro?
 
 ### 36:23
 
-¿Quién ha puesto sobre mí su camino, y quién ha dicho: Has obrado injustamente?
+¿Quién encargó sobre él su camino? ¿Y quién dijo: Obraste iniquidad?
 
 ### 36:24
 
-Acuérdate de que él eleva su obra, que los hombres la miran.
+Acuerda que engrandezcas su obra, la cual cantaron hombres.
 
 ### 36:25
 
-Todos los hombres lo ven, el hombre mira desde lejos.
+Todo hombre la vio; mortal mira desde lejos.
 
 ### 36:26
 
-He aquí, Dios es grande, y nosotros no lo conocemos; el número de sus años no se puede contar.
+He aquí El grande, y no sabemos; número de sus años, y no pesquisa.
 
 ### 36:27
 
-Porque retira las gotas del agua, y hace llover lluvia sobre la llanura.
+Porque recoge gotas de aguas; destilan lluvia a su vapor,
 
 ### 36:28
 
-Que las nubes derraman rocío, y sobre el hombre en abundancia.
+la cual destilan nubes; gotean sobre hombre mucho.
 
 ### 36:29
 
-Aunque entienda los destellos del cielo, pero no comprenderá la obra de sus manos.
+¿También si entiende tendidos de nube, ruidos de su tienda?
 
 ### 36:30
 
-He aquí, Dios extiende su luz sobre él, y cubre las profundidades del mar.
+He aquí extendió sobre él su luz, y raíces del mar cubrió.
 
 ### 36:31
 
-Por ellos juzga a las naciones, y da de comer a los que están en la tierra.
+Porque con ellos juzga pueblos; da comida a abundancia.
 
 ### 36:32
 
-Sobre sus manos extiende la luz, y manda que ella se levante en la altura.
+Sobre palmas cubrió luz, y mandó sobre ella contra el que intercede.
 
 ### 36:33
 
-Anuncia sobre él su amistad, y el ganado también con él.
+Anuncia sobre él su estruendo; ganado también sobre el que sube.
 
 ## Capítulo 37
 
 ### 37:1
 
-También mi corazón se asusta, y se desplaza de su lugar.
+También por esto tiembla mi corazón, y salta de su lugar.
 
 ### 37:2
 
-Escuchen el rugido de su voz, y saldrá de su boca un murmullo.
+Escuchen, escuchar, en el enojo de su voz, y murmullo de su boca sale.
 
 ### 37:3
 
-Bajo todo el cielo se extiende su dominio, y su luz hasta las puntas de la tierra.
+Debajo de todos los cielos lo suelta, y su luz sobre alas de la tierra.
 
 ### 37:4
 
-Después de él rugirá un sonido, hará temblar a los que están en el cielo por su gloria, y no los oprimirá, porque su voz se oye.
+Tras él ruge voz; truena con voz de su majestad, y no los retiene cuando es oída su voz.
 
 ### 37:5
 
-Hará temblar a los dioses con su voz maravillosa, hace cosas grandes y no las entiende.
+Truena El con su voz maravillas; hace grandes cosas, y no sabemos.
 
 ### 37:6
 
-Porque dice a la nieve: “Sé tierra”, y a la lluvia de la lluvia, y la lluvia de las fuerzas.
+Porque a la nieve dice: Sé tierra; y lluvia de aguacero, y lluvia de aguaceros de su fuerza.
 
 ### 37:7
 
-Por la mano de todo hombre sellará, para que todos los hombres conozcan sus obras.
+En mano de todo hombre sella, para que sepan todos hombres de su obra.
 
 ### 37:8
 
-Y vendrá una bestia al escondite, y en sus moradas se quedará.
+Y entra bestia en emboscada, y en sus moradas mora.
 
 ### 37:9
 
-Del cuarto vendrá un viento huracanado, y del sur vendrá el frío.
+Desde la cámara viene torbellino, y desde esparcidores frío.
 
 ### 37:10
 
-Por la respiración de Dios vendrá el hielo, y las aguas se extenderán en las simas.
+De soplo de El da hielo, y anchura de aguas en aprieto.
 
 ### 37:11
 
-También su bruma se estirará, y esparcirá su nube de luz.
+También con humedad carga nube; esparce nube de su luz.
 
 ### 37:12
 
-Y él revuelve las aguas por su astucia, según el propósito de sus obras, todo lo que les ordena sobre la faz de la tierra.
+Y él en vueltas se revuelve a su obra; todo lo que les manda sobre faz de mundo tierra.
 
 ### 37:13
 
-Si es por el cetro, o por la tierra, o por el favor, lo encontrará.
+Si para vara, si para su tierra, si para misericordia lo hace hallar.
 
 ### 37:14
 
-Escucha esto, Job; detente y considera las maravillas de Dios.
+Escucha esto, Iyov; ponte, y entiende maravillas de El.
 
 ### 37:15
 
-¿Sabes que Dios coloca sobre ellos y hace brillar la luz de las nubes?
+¿Sabes cuando pone Dios sobre ellas, y hace brillar luz de su nube?
 
 ### 37:16
 
-¿Sabes que en la nube hay sabiduría y perfección en las maravillas?
+¿Sabes sobre equilibrios de nube, maravillas del íntegro de conocimientos?
 
 ### 37:17
 
-¿No te calientan tus vestidos cuando el cielo está tranquilo desde el sur?
+tú, cuyos vestidos son calientes cuando aquieta tierra desde el sur?
 
 ### 37:18
 
-¿No te solidificas con él en los cielos, fuertes como el vidrio fundido?
+¿Extenderás con él a nubes, fuertes como espejo colado?
 
 ### 37:19
 
-Enséñanos qué debemos decirle, no podemos ordenarle ante la oscuridad.
+Haznos saber qué digamos a él; no ordenamos a causa de oscuridad.
 
 ### 37:20
 
-¿Acaso se contará a él que hablo, o si un hombre dice que será tragado?
+¿Se contará a él que hablo? Si dijo hombre que será tragado.
 
 ### 37:21
 
-Ahora no ven la luz brillante en los cielos, el viento pasa y los purifica.
+Y ahora no vieron luz; brillante ella en las nubes, y viento pasó y las limpió.
 
 ### 37:22
 
-Del norte viene el oro, sobre Dios hay temor y gloria.
+Desde el norte oro viene; sobre Dios terrible esplendor.
 
 ### 37:23
 
-Dios no puede ser hallado, es muy poderoso, no juzga ni castiga la justicia.
+Shaday, no lo hallamos; grande de fuerza, y juicio y abundancia de justicia no aflige.
 
 ### 37:24
 
-Por eso los hombres lo temen, no lo ve el más sabio de corazón.
+Por tanto le temen hombres; no mira a todos sabios de corazón.
 
 ## Capítulo 38
 
 ### 38:1
 
-Entonces respondió Jehová a Job desde la tempestad y dijo:
+Y respondió Jehová a Iyov y dijo:
 
 ### 38:2
 
-¿Quién es este que oscurece el consejo con palabras sin conocimiento?
+¿Quién es este que oscurece consejo con palabras sin conocimiento?
 
 ### 38:3
 
-Viste ahora como un valiente, y te preguntaré cosas, y enseñaré a ti.
+Ciñe ahora como varón tus lomos; y te preguntaré, y hazme saber.
 
 ### 38:4
 
-¿Dónde estabas tú cuando fundé la tierra? ¿Decláralo, si tienes inteligencia.
+¿Dónde estabas cuando fundaba tierra? Declara, si sabes entendimiento.
 
 ### 38:5
 
-¿Quién puso las medidas de ella, si tú lo sabes? ¿O quién estiró la línea sobre ella?
+¿Quién puso sus medidas, porque sabes? ¿O quién extendió sobre ella cordel?
 
 ### 38:6
 
-¿Sobre qué se asentaron sus bases, o quién echó su piedra angular?
+¿Sobre qué sus basas fueron hundidas? ¿O quién lanzó piedra de su esquina,
 
 ### 38:7
 
-Junto con los hijos de Dios cantaron los que llevan la mañana, y todos los hijos de Dios se regocijaron.
+cuando cantaban juntos estrellas de mañana, y gritaban todos hijos de Dios?
 
 ### 38:8
 
-Y yo cerré el mar con puertas, cuando se rompió como un niño que sale del vientre.
+Y cercó con puertas mar, cuando irrumpiendo del vientre salía;
 
 ### 38:9
 
-Le puse nubes por vestido, y turbias tinieblas por manto.
+cuando puse nube su vestido, y densura su faja;
 
 ### 38:10
 
-Y fijé límites a su mar, y puse puertas y barreras.
+y quebré sobre él mi estatuto, y puse cerrojo y puertas;
 
 ### 38:11
 
-Y dije: Hasta aquí llegarás, y no pasarás; aquí se detendrá tu orgulloso oleaje.
+y dije: Hasta aquí vendrás y no añadirás, y aquí se pondrá en orgullo de tus olas.
 
 ### 38:12
 
-¿Has ordenado en tus días el albor, y conocido el amanecer de su lugar?
+¿Desde tus días mandaste mañana su lugar?
 
 ### 38:13
 
-¿Has tomado en tus manos las puntas de la tierra, y los malvados son sacudidos de ella?
+para asir en alas de la tierra, y sean sacudidos impíos de ella?
 
 ### 38:14
 
-Te darás vuelta como la arcilla bajo el sello, y te pondrás como la ropa.
+Se transforma como barro de sello, y se plantan como vestido.
 
 ### 38:15
 
-Se quitará la luz de los malvados, y la fuerza levantada será quebrada.
+Y es retenida de impíos su luz, y brazo alzado es quebrado.
 
 ### 38:16
 
-¿Has ido hasta los valles del mar, y has recorrido los abismos?
+¿Viniste hasta manantiales de mar, y en pesquisa de abismo anduviste?
 
 ### 38:17
 
-¿Se han revelado ante ti las puertas del muerto, y las puertas de la muerte has visto?
+¿Se descubrieron a ti puertas de muerte, y puertas de sombra de muerte viste?
 
 ### 38:18
 
-¿Has observado hasta los límites de la tierra? Dilo, si lo sabes todo.
+¿Entendiste hasta anchuras de tierra? Declara, si sabes toda ella.
 
 ### 38:19
 
-¿Dónde está el camino donde habita la luz, y dónde está el lugar del oscuro?
+¿Cuál es el camino donde mora luz? ¿Y oscuridad, cuál es su lugar,
 
 ### 38:20
 
-¿Has llevado a la frontera a la tierra, y has entendido los caminos de su casa?
+para que la tomes a su límite, y para que entiendas senderos de su casa?
 
 ### 38:21
 
-Sabes que naces en el tiempo, y que los días de tu vida son muchos.
+Sabes, porque entonces naciste, y número de tus días muchos.
 
 ### 38:22
 
-¿Has ido a los tesoros del hielo, y has visto los tesoros de la nieve?
+¿Viniste a tesoros de nieve, y tesoros de granizo viste,
 
 ### 38:23
 
-¿Has guardado para el tiempo de la angustia, para el día de la batalla?
+que guardé para tiempo de estrechez, para día de combate y guerra?
 
 ### 38:24
 
-¿Dónde está el camino por donde se divide la luz, y la luz se extiende en todas direcciones sobre la tierra?
+¿Cuál es el camino donde se reparte luz, se esparce oriente sobre tierra?
 
 ### 38:25
 
-¿Quién divide el torrente en sus vestigios y el camino de las tempestades?
+¿Quién partió al diluvio canal, y camino al relámpago de voces,
 
 ### 38:26
 
-¿Para que llueva sobre la tierra, si no es un hombre? ¿O el desierto, si no hay un ser humano en él?
+para hacer llover sobre tierra no hombre, desierto no hombre en él,
 
 ### 38:27
 
-¿Para saciar el hambre y la sed, y para hacer brotar la hierba verde?
+para saciar desolación y devastación, y para hacer brotar brote de hierba?
 
 ### 38:28
 
-¿Hay padre para la lluvia, o quién engendra las gotas de rocío?
+¿Hay a la lluvia padre? ¿O quién engendró gotas de rocío?
 
 ### 38:29
 
-¿De qué vientre sale el hielo, y quién da a luz las escarchas del cielo?
+¿De vientre de quién salió el hielo? ¿Y escarcha de cielos quién la parió?
 
 ### 38:30
 
-¿Como piedras se esconden las aguas, y las caras del abismo se juntan?
+Como piedra aguas se esconden, y faz de abismo se traba.
 
 ### 38:31
 
-¿Atarás las cadenas de las Pleiades, o abrirás las puertas del cielo?
+¿Atarás lazos de Kimá? ¿O cuerdas de Kesil abrirás?
 
 ### 38:32
 
-¿Sacarás a las Mazzaroth en su tiempo, o harás que las constelaciones de Orión se levanten?
+¿Sacarás Mazároth en su tiempo? ¿Y Áyish sobre sus hijos guiarás?
 
 ### 38:33
 
-¿Conoces las leyes del cielo, o establecerás su dominio sobre la tierra?
+¿Sabes estatutos de cielos? ¿Si pondrás su dominio en la tierra?
 
 ### 38:34
 
-¿Elevas tu voz al nubarrón, y te cubrirán las aguas?
+¿Alzarás a la nube tu voz, y abundancia de aguas te cubrirá?
 
 ### 38:35
 
-¿Enviarás relámpagos, y ellos irán, diciéndote: Aquí estamos?
+¿Enviarás rayos y irán, y te dirán: Hennos?
 
 ### 38:36
 
-¿Quién pone en el nido la sabiduría, o quién da al cuervo la inteligencia?
+¿Quién puso en las entrañas sabiduría? ¿O quién dio al gallo entendimiento?
 
 ### 38:37
 
-¿Quién enseña a los cielos en su sabiduría y quién da al firmamento su inteligencia?
+¿Quién cuenta nubes con sabiduría? ¿Y odres de cielos quién acostará,
 
 ### 38:38
 
-¿Con qué tierrales funde el cobre y funde el estaño en hule?
+cuando se vierte polvo a lo colado, y terrones se pegan?
 
 ### 38:39
 
-¿Tú cazas para el león presas y satisfaces el apetito de los cachorros de leopardo?
+¿Cazarás para leona presa, y vida de leoncillos llenarás,
 
 ### 38:40
 
-Porque se arrastran en sus moradas y se sientan en el escondite para acechar.
+cuando se agachan en las moradas, se sientan en la tienda a emboscada?
 
 ### 38:41
 
-¿Quién provee al cuervo su alimento, cuando sus crías claman a Dios y vagan sin alimento?
+¿Quién prepara al cuervo su caza, cuando a El claman, andan errantes sin comida?
 
 ## Capítulo 39
 
 ### 39:1
 
-¿Sabes el tiempo de la concepción de las cabras y el parto de las ciervas?
+¿Sabes tiempo de parir de cabras del peñasco? ¿Parir de ciervas guardas?
 
 ### 39:2
 
-¿Contas los meses que llevan y sabes el tiempo de su parto?
+¿Cuentas meses que cumplen, y sabes tiempo de su parir?
 
 ### 39:3
 
-¿Rompen las ciervas sus crías y las soltaran sus hijos?
+Se agachan; sus crías parten; sus dolores envían.
 
 ### 39:4
 
-¿Corren sus hijos y no vuelven a ellas?
+Se fortalecen sus hijos; crecen en el campo; salen y no vuelven a ellos.
 
 ### 39:5
 
-¿Quién soltó al ciervo salvaje y quién desató las cadenas del erizo?
+¿Quién envió al asno montés libre? ¿Y ataduras del onagro quién abrió,
 
 ### 39:6
 
-¿Quién puso el desierto como morada para él y las salinas como habitación?
+al cual puse aravá su casa, y sus moradas salina?
 
 ### 39:7
 
-¿Se divierte en la multitud de la ciudad y no escucha el rugido del que le aprieta?
+Se ríe del tumulto de ciudad; gritos de capataz no oye.
 
 ### 39:8
 
-Pastura de montañas le da, y luego de toda hierba verde busca.
+Escudriña montes su pasto, y detrás de todo verde busca.
 
 ### 39:9
 
-¿Quiere león que sea tu siervo, o que duerma en tus rocas?
+¿Querrá el rím servir te? ¿Si pernoctará sobre tu pesebre?
 
 ### 39:10
 
-¿Atarás león en jaula, o que en tus valles acecha?
+¿Atarás rím en surco con su coyunda? ¿Si rastrillará valles detrás de ti?
 
 ### 39:11
 
-¿Confías en él porque fuerte es, y abandonas su fatiga a mí?
+¿Confiarás en él porque grande su fuerza, y dejarás a él tu trabajo?
 
 ### 39:12
 
-¿Fiarás en él porque regresará tu siembra, y tu grano recogerá?
+¿Creerás en él que tu semilla y tu era recogerá?
 
 ### 39:13
 
-Cisne alado se va, o si paloma y gavilán.
+Ala de avestruces se alborota; ¿si pluma de cigueña y plumaje?
 
 ### 39:14
 
-Porque dejarás a la tierra sus huevos, y sobre el polvo incubarás.
+Porque deja a la tierra sus huevos, y sobre polvo los calienta;
 
 ### 39:15
 
-Y olvidarás que pie temes, y que bestia del campo te robará.
+y olvida que pie los aplastará, y bestia del campo los trillará.
 
 ### 39:16
 
-Hacer fuertes a sus hijos para contra ella, su fatiga en vano, sin temor.
+Endurece a sus hijos como no a ella; en vano su trabajo sin miedo;
 
 ### 39:17
 
-Porque su Dios sabiduría da, y no le da en inteligencia parte.
+porque Dios la hizo olvidar sabiduría, y no repartió a ella entendimiento.
 
 ### 39:18
 
-Tiempo hay en lo alto que se enoja, se ríe a caballo y a su jinete.
+Al tiempo en lo alto se alza, se ríe del caballo y de su jinete.
 
 ### 39:19
 
-¿Darás al caballo fuerza, o que su cuello conja?
+¿Darás al caballo valentía? ¿Vestirás su cuello de crin?
 
 ### 39:20
 
-Lo harás temblar como a langostas; su orgullo es su amenaza.
+¿Lo harás temblar como langosta? Esplendor de su resoplido terror.
 
 ### 39:21
 
-Excavará en el valle y se deleitará con la fuerza; sale a recibir la espada.
+Cavan en el valle, y se goza en fuerza; sale al encuentro de arma.
 
 ### 39:22
 
-Se burlará del terror y no temblará; no retrocederá ante la espada.
+Se ríe del miedo y no se espanta, y no vuelve de delante de espada.
 
 ### 39:23
 
-Para ti, el polvo es un desafío, la llama, la lanza y el escudo.
+Sobre él suena aljaba, hoja de lanza y jabalina.
 
 ### 39:24
 
-En el estruendo y la conmoción tiemlica la tierra, pero no cree que es el sonido de la trompeta.
+Con temblor y enojo traga tierra, y no cree que voz de shofar.
 
 ### 39:25
 
-Al son de la trompeta dice: ¡Aquí estoy! Y desde lejos percibe el alboroto de la batalla, el rugido de los jefes y el clamor.
+En suficiente de shofar dice: ¡Ja! Y desde lejos huele guerra, trueno de jefes y grito.
 
 ### 39:26
 
-¿Es por tu entendimiento que el halcón alza el vuelo y se extiende sus alas hacia el sur?
+¿Desde tu entendimiento vuela el halcón, extiende hacia el Temán?
 
 ### 39:27
 
-¿Es por tu boca que el águila se eleva y hace su nido en la roca?
+¿Si a tu boca se alza el águila, y que levanta su nido?
 
 ### 39:28
 
-Habita en la roca y se queja allí; sobre la roca y el acantilado.
+Peñasco mora y anida; sobre diente de peñasco y fortaleza.
 
 ### 39:29
 
-Desde allí escudriña la comida; desde lejos sus ojos la ven.
+Desde allí escarba comida; desde lejos sus ojos miran.
 
 ### 39:30
 
-Sus polluelos devoran la sangre, y donde hay cadáveres, allí está.
+Y sus polluelos chupan sangre; y donde muertos, allí él.
 
 ## Capítulo 40
 
 ### 40:1
 
-Entonces el SEÑOR respondió a Job y dijo:
+Y respondió Jehová a Iyov y dijo:
 
 ### 40:2
 
-¿Es mucho que te enojes con Dios, que te discutas con el Todopoderoso?
+¿Contendrá con Shaday el reprendido? El que redarguye a Dios, que responda.
 
 ### 40:3
 
-Entonces Job respondió a Yahvé y dijo:
+Y respondió Iyov a Jehová y dijo:
 
 ### 40:4
 
-He hablado, pero no tengo respuesta; ahora debo hablar, pero no tengo nada que decir.
+He aquí fui ligero; ¿qué te responderé? Mi mano puse a mi boca.
 
 ### 40:5
 
-Una vez he hablado, pero no replico; dos veces, y no añadiré nada más.
+Una vez hablé, y no responderé; y dos, y no añadiré.
 
 ### 40:6
 
-Entonces Yahvé respondió a Job desde la tormenta y dijo:
+Y respondió Jehová a Iyov y dijo:
 
 ### 40:7
 
-Viste ahora como un valiente, y te preguntaré cosas, y enseñaré a ti.
+Ciñe ahora como varón tus lomos; te preguntaré, y hazme saber.
 
 ### 40:8
 
-¿Acaso te enfurecerás con mis juicios, y condenarás a Dios para que te declare justo?
+¿También anularás mi juicio? ¿Me condenarás para que seas justificado?
 
 ### 40:9
 
-¿Acaso tienes poder como Dios, y puedes dar voz como él?
+¿Y si brazo como El tienes, y con voz como él tronarás?
 
 ### 40:10
 
-Viste ahora la grandeza y la altura, y viste la gloria y la majestad.
+Adorna ahora orgullo y altura, y esplendor y majestad vístete.
 
 ### 40:11
 
-Despójate de la ira de tu rostro, y mira a todos los altivos, y humílalos.
+Esparce ardores de tu ira, y mira a todo altivo y abátelo.
 
 ### 40:12
 
-Mira a todos los altivos, y humílalos; y a los malvados, aplástalos debajo.
+Mira a todo altivo; humíllalo, y hollará impíos debajo de ellos.
 
 ### 40:13
 
-Entierra a todos juntos en el polvo; encárgate de sus rostros en el sepulcro.
+Escóndelos en el polvo juntos; sus faces ata en lo oculto.
 
 ### 40:14
 
-Y yo te alabaré, porque tú me salvas con tu diestra.
+Y también yo te alabaré, porque te salvará tu diestra.
 
 ### 40:15
 
-He aquí ahora, los animales que he hecho contigo, pasto comen los bueyes.
+He aquí ahora Behemot, que hice contigo; hierba como buey come.
 
 ### 40:16
 
-He aquí ahora, su fuerza está en sus lomos, y su potencia en sus costillas.
+He aquí ahora su fuerza en sus lomos, y su vigor en músculos de su vientre.
 
 ### 40:17
 
-Preferirá su cola como cedro, los músculos de sus cuartos traseros están tensos.
+Enarca su cola como cedro; tendones se entrelazan.
 
 ### 40:18
 
-Sus huesos son como tuberías de plata, sus vértebras como barra de hierro.
+Sus huesos tubos de bronce; sus huesos como barra de hierro.
 
 ### 40:19
 
-Él es el primero de los caminos de Dios, el que lo hizo pondrá su espada en su lugar.
+Él principio de caminos de El; su Hacedor acerca su espada.
 
 ### 40:20
 
-Porque las montañas llevan a sus hijos para él, y todas las bestias del campo jugarán allí.
+Porque producto de montes le llevan, y toda bestia del campo juega allí.
 
 ### 40:21
 
-Bajo los sauces se acostará, en la sombra del arbusto y del espinillo.
+Debajo de lotos se echa, en secreto de caña y pantano.
 
 ### 40:22
 
-Los sauces lo cubrirán con su sombra, los sauces del arroyo lo rodearán.
+Lo cubren lotos su sombra; lo rodean sauces de torrente.
 
 ### 40:23
 
-He aquí, el río no lo asusta, confía porque el Jordán llega a su boca.
+He aquí oprime río, no se apresura; confía que irrumpe Yardén a su boca.
 
 ### 40:24
 
-Con sus ojos lo tomará, con las redes atravesará su nariz.
+¿Con sus ojos lo tomarán? ¿Con lazos se perforará nariz?
 
 ## Capítulo 41
 
 ### 41:1
 
-Atarás a Leviatán con un anzuelo, y con una cuerda pondrás su lengua.
+¿Sacarás a Livyatán con anzuelo, y con cuerda hundirás su lengua?
 
 ### 41:2
 
-¿Pondrás un cañaveral en su nariz, y con un anzuelo atravesarás su labio?
+¿Pondrás junco en su nariz, y con garfio horadarás su quijada?
 
 ### 41:3
 
-¿Multiplicarás tus súplicas para él, y hablará él con tiernas palabras?
+¿Multiplicará a ti ruegos? ¿Hablará a ti blanduras?
 
 ### 41:4
 
-¿Hacerás un pacto con él, tomaráslo para siervo eterno?
+¿Cortará pacto contigo? ¿Lo tomarás por siervo eterno?
 
 ### 41:5
 
-¿Te burlarás de él como de un pájaro, y lo atarás a tus niñas?
+¿Jugarás con él como con el ave, y lo atarás para tus muchachas?
 
 ### 41:6
 
-Se juntarán contra él los compañeros, lo dividirán entre los filisteos.
+¿Pactarán sobre él socios? ¿Lo repartirán entre mercaderes?
 
 ### 41:7
 
-¿Llenarás sus techos con su piel, y con sus huesos harás clavos?
+¿Llenarás con arpónes su piel, y con arpón de peces su cabeza?
 
 ### 41:8
 
-Pon tu mano sobre él, acuérdate de la batalla, no te atrevas a volver a hacerlo.
+Pon sobre él tu palma; recuerda la guerra; no añadas.
 
 ### 41:9
 
-Mira, la esperanza de ti será vanidad, ¿también a su aspecto te acercarás?
+He aquí su esperanza es mentira; ¿también a su vista será derribado?
 
 ### 41:10
 
-No me atreveré, porque él me despertará; ¿quién es ante mí que se plantará?
+No hay tan fiero que lo despierte; ¿y quién él delante de mí se presentará?
 
 ### 41:11
 
-¿Quién me precedió, y yo le pagué? Todo el cielo es mío.
+¿Quién me previno, y pagaré? Debajo de todos los cielos mío es él.
 
 ### 41:12
 
-No hablaré de sus fuerzas, y de su hermosura y de su poder.
+No callaré sus miembros, y palabra de poderes y gracia de su orden.
 
 ### 41:13
 
-¿Quién descubrió la faz de su vestido, y quién entrará en el doble de su garganta?
+¿Quién descubrió la faz de su vestido? En el doble de su freno ¿quién entrará?
 
 ### 41:14
 
-¿Quién abrió las puertas de su rostro? ¿Y alrededor de sus dientes hay temor?
+Las puertas de su rostro ¿quién abrió? Alrededor de sus dientes terror.
 
 ### 41:15
 
-Sus senderos son como senderos de escudos; su puerta está sellada con piedra.
+Soberbia, canales de escudos; cerrado sello estrecho.
 
 ### 41:16
 
-Uno se acerca a otro, pero no entra entre ellos el espíritu.
+Uno a uno se acercan, y viento no entra entre ellos.
 
 ### 41:17
 
-Cada uno se agarra a su hermano; se abrazan y no se separan.
+Varón a su hermano se pegan; se traban, y no se separan.
 
 ### 41:18
 
-En su lugar hay resplandor; sus ojos son como los rayos de la alborada.
+Sus estornudos hacen brillar luz, y sus ojos como párpados del alba.
 
 ### 41:19
 
-De su boca salen llamas de fuego; como chispas de fuego salen lasbras.
+De su boca antorchas andan; chispas de fuego se escapan.
 
 ### 41:20
 
-De sus narices sale humo; como tubos de horno y carbón encendido.
+De sus narices sale humo, como de olla soplada y junco.
 
 ### 41:21
 
-Su aliento es como brasas de fuego; de su boca sale llamarada.
+Su aliento carbones enciende, y llama de su boca sale.
 
 ### 41:22
 
-En su cuello descansa el poder; ante él se estremece la ira.
+En su cuello mora fuerza, y delante de él salta desaliento.
 
 ### 41:23
 
-Sus flancos están unidos; se derrama sobre él, pero no se mueve.
+Los pliegues de su carne se pegan; fundido sobre él, no se mueve.
 
 ### 41:24
 
-Su corazón es como una piedra; se derrama como el metal fundido.
+Su corazón fundido como piedra, y fundido como muela inferior.
 
 ### 41:25
 
-De su estómago salen piedras; de sus pedazos se forman carbones.
+De su levantamiento temen dioses; de quebrantamientos se purifican.
 
 ### 41:26
 
-La espada que le hiere no se levanta, el lanza no se mantiene firme.
+Lo alcanza espada sin levantarse; lanza, dardo y coraza.
 
 ### 41:27
 
-Piensa que es paja, el árbol es un hierro quebradizo.
+Estima por paja el hierro, por madera podrida el bronce.
 
 ### 41:28
 
-No lo hará temblar el arco, las flechas se volverán en su contra como piedras de escarcha.
+No lo hace huir hijo de arco; a paja se le vuelven piedras de honda.
 
 ### 41:29
 
-Como paja, se piensa en el arco, y se ríe como un trueno que se convierte en tempestad.
+Como paja son estimadas la maza, y se ríe del estruendo de la jabalina.
 
 ### 41:30
 
-Bajo él hay garras de hierro, pisa sobre los lomos de la tierra.
+Debajo de él agudos de tiesto; tiende trillo sobre el lodo.
 
 ### 41:31
 
-Deja huellas como un cazo lleno de agua, hace el mar como un embudo.
+Hace hervir como olla el abismo; el mar pone como unguentario.
 
 ### 41:32
 
-Después de él ilumina el camino, considera el abismo como un tesoro.
+Tras él ilumina senda; estima el abismo por canicie.
 
 ### 41:33
 
-No hay sobre la tierra quien lo domine, no hay quien lo haga temblar.
+No hay sobre polvo su igual, el hecho para sin temor.
 
 ### 41:34
 
-Todo lo que es alto lo ve, es rey sobre todos los hijos de orgullo.
+Todo lo alto ve; él rey sobre todos los hijos de soberbia.
 
 ## Capítulo 42
 
 ### 42:1
 
-Entonces Job respondió a Yahvé y dijo:
+Y respondió Iyov a Jehová y dijo:
 
 ### 42:2
 
-Sabes que todo lo puedes, no hay plan que te escape.
+Sé que todo puedes, y no es retenido de ti designio.
 
 ### 42:3
 
-¿Quién es este que eleva consejos sin conocimiento? Por eso hablé sin entender, maravillas que están más allá de mí, y no las entiendo.
+¿Quién es este que oculta consejo sin conocimiento? Por tanto declaré, y no entendía; maravillas de mí, y no sabía.
 
 ### 42:4
 
-Escucha, y yo hablaré; pregúntame y yo responderé.
+Escucha ahora, y yo hablaré; te preguntaré, y hazme saber.
 
 ### 42:5
 
-Para oír, oíste con la oreja; ahora con los ojos me ves.
+De oír de oreja te oí, y ahora mi ojo te ve.
 
 ### 42:6
 
-Por eso me aborrezco y me arrepiento en polvo y cenizas.
+Por tanto me aborrezco, y me arrepiento sobre polvo y ceniza.
 
 ### 42:7
 
-Y después que el Señor habló estas palabras a Job, el Señor dijo a Elifaz el Temanita: Mi ira se encendió contra ti y contra tus dos amigos, porque no me hablaste como es debido, como mi siervo Job.
+Y fue después de hablar Jehová estas palabras a Iyov, y dijo Jehová a Elifaz el temaní: Se encendió mi ira en ti y en tus dos amigos, porque no hablaron a mí lo recto como mi siervo Iyov.
 
 ### 42:8
 
-Ahora, pues, tomen siete bueyes y siete carneros, y vayan a mi siervo Job, y ofrezcan un holocausto por ustedes. Mi siervo Job orará por ustedes, para que yo no haga con ustedes una injusticia, porque no me hablaste como es debido, como mi siervo Job.
+Y ahora tomen ustedes siete toros y siete carneros, y vayan a mi siervo Iyov, y ofrezcan holocausto por ustedes; y Iyov mi siervo orará por ustedes, porque si su faz alzaré, para no hacer con ustedes necedad; porque no hablaron a mí lo recto como mi siervo Iyov.
 
 ### 42:9
 
-Entonces Elifaz el Temanita, Bildad el Suarita y Zofar el Naamatita fueron, y hicieron como el Señor les había dicho, y el Señor aceptó la cara de Job.
+Y fueron Elifaz el temaní y Bildad el shují, Tsófár el naamatí, e hicieron según lo que habló a ellos Jehová; y alzó Jehová la faz de Iyov.
 
 ### 42:10
 
-Y el Señor restauró a Job lo que Job había perdido, después de que Job oró por sus amigos. Y el Señor dio a Job el doble de todo lo que tenía antes.
+Y Jehová volvió a Iyov en su orar por su amigo; y añadió Jehová todo lo que a Iyov al doble.
 
 ### 42:11
 
-Y vinieron a él todos sus hermanos y todas sus hermanas y todos sus conocidos, y comieron con él en su casa, y lloraron por él y lo consolaron por todo el mal que el Señor había traído sobre él. Y cada uno le dio una pieza de plata y un collar de oro.
+Y vinieron a él todos sus hermanos y todas sus hermanas y todos sus conocidos de antes, y comieron con él pan en su casa; y meneaban por él y lo consolaban sobre todo el mal que trajo Jehová sobre él; y le dieron cada uno una qesitá, y cada uno un pendiente de oro uno.
 
 ### 42:12
 
-Y el Señor bendijo la última parte de Job más que la primera. Y Job tuvo catorce mil ovejas, seis mil camellos, mil parejas de bueyes y mil asnas.
+Y Jehová bendijo el postrer de Iyov más que su primero; y fue a él catorce mil ovejas y seis mil camellos y mil yuntas de bueyes y mil asnas.
 
 ### 42:13
 
-Y tuvo siete hijos y tres hijas.
+Y fue a él siete hijos y tres hijas.
 
 ### 42:14
 
-Y llamó a la primera Jemima, a la segunda Quetzia y a la tercera Querem-Hafuch.
+Y llamó nombre de la una Yemimá, y nombre de la segunda Qetsiá, y nombre de la tercera Qéren Hapuj.
 
 ### 42:15
 
-Y no se hallaron mujeres tan hermosas como las hijas de Job en toda la tierra. Y su padre les dio una porción con sus hermanos.
+Y no se hallaron mujeres hermosas como hijas de Iyov en toda la tierra; y les dio su padre heredad en medio de sus hermanos.
 
 ### 42:16
 
-Y vivió Job después de esto ciento y cuarenta años, y vio a sus hijos y a los hijos de sus hijos cuatro generaciones.
+Y vivió Iyov después de esto ciento cuarenta años, con sus hijos y con hijos de sus hijos, cuatro generaciones.
 
 ### 42:17
 
-Y murió Job viejo y lleno de días.
+Y murió Iyov anciano y saciado de días.

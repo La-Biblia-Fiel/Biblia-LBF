@@ -1,2684 +1,2684 @@
 # Josué
 
-> La Biblia Fiel — Josué. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> La Biblia Fiel — Josué. Segunda pasada contra OSHB / WLC (voz Génesis), pulida. Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
 
 ### 1:1
 
-Después de la muerte de Moisés, servidor de Jehová, Jehová dijo a Josué, hijo de Nun, que era servidor de Moisés:
+Y fue después de la muerte de Moisés, siervo de Jehová, y dijo Jehová a Yehoshúa hijo de Nun, ministro de Moisés, diciendo:
 
 ### 1:2
 
-Moisés, mi siervo, ha muerto. Ahora, levántate y atraviesa el Jordán, tú y todo este pueblo, para entrar en la tierra que yo doy a los israelitas.
+Moisés mi siervo murió; y ahora, levántate, pasa el Yarden este, tú y todo el pueblo este, a la tierra que yo dando a ellos, a hijos de Israel.
 
 ### 1:3
 
-Todo lugar donde pisen tus pies, yo te lo he dado, como hablé a Moisés.
+Todo lugar que pise planta de pie de ustedes en él, a ustedes lo di, como que hablé a Moisés.
 
 ### 1:4
 
-Desde el desierto y el Líbano hasta el gran río Éufrates, toda la tierra de los hititas, hasta el gran mar del Oriente, será tu frontera.
+Desde el desierto y el Lebanón este, y hasta el río el grande, río Perat, toda tierra de los hititas, y hasta el mar el grande, entrada del sol, será su límite de ustedes.
 
 ### 1:5
 
-Ningún hombre te resistirá en todos los días de tu vida, como yo estuve con Moisés, estaré contigo; no te dejaré ni te abandonaré.
+No se parará varón delante de ti todos los días de tus vidas; como que fui con Moisés, seré contigo; no te soltaré y no te dejaré.
 
 ### 1:6
 
-Sé fuerte y valiente, porque tú harás que este pueblo herede la tierra que juré a sus padres darles.
+Fortalécete y esfuérzate, porque tú harás heredar a este pueblo esta tierra que juré a sus padres dar a ellos.
 
 ### 1:7
 
-Sólo sé fuerte y valiente mucho, para guardar y hacer conforme a toda la ley que Moisés, mi siervo, te ha ordenado. No te apartes de ella ni a la derecha ni a la izquierda, para que tengas éxito en todo lo que hagas.
+Solo fortalécete y esfuérzate mucho, para guardar para hacer conforme a toda la torá que te mandó Moisés mi siervo; no te apartes de ella a derecha y a izquierda, a fin de que seas prudente en todo lo que andes.
 
 ### 1:8
 
-No se apartará de tu boca este libro de la ley, sino que meditarás en él día y noche, para que guardes y hagas conforme a todo lo escrito en él. Entonces tendrás éxito en tus caminos y serás sabio.
+No se apartará libro de la torá este de tu boca, y meditarás en él de día y noche, a fin de que guardes para hacer conforme a todo lo escrito en él; porque entonces harás prosperar tu camino, y entonces serás prudente.
 
 ### 1:9
 
-¿Acaso no te he ordenado que seas fuerte y valiente? No tengas miedo ni te desanimes, porque Jehová tu Dios está contigo en todo lo que hagas.
+¿No te mandé? Fortalécete y esfuérzate; no te aterrorices y no te quebrantes, porque contigo Jehová tu Dios en todo lo que andes.
 
 ### 1:10
 
-Y Josué ordenó a los oficiales del pueblo, diciendo:
+Y mandó Yehoshúa a los oficiales del pueblo, diciendo:
 
 ### 1:11
 
-Pasad por el campamento y ordenad al pueblo: Preparad provisiones, porque en tres días pasaréis el Jordán para entrar a poseer la tierra que Jehová, vuestro Dios, os da para poseerla.
+Pasen en medio del campamento, y manden al pueblo, diciendo: Preparen para ustedes provisión, porque dentro de todavía tres días ustedes pasando el Yarden este para entrar a poseer la tierra que Jehová Dios de ustedes dando a ustedes para poseerla.
 
 ### 1:12
 
-Y a los rubenitas, a los gaditas y a la mitad de la tribu de Manasés, Josué les dijo:
+Y al reuvéní y al gadí y a la mitad de tribu de Menashé dijo Yehoshúa, diciendo:
 
 ### 1:13
 
-Acuérdate de lo que te mandó Moisés, siervo de Jehová, diciendo: Jehová, vuestro Dios, os ha dado descanso y os ha dado esta tierra.
+Recuerden la palabra que mandó a ustedes Moisés, siervo de Jehová, diciendo: Jehová Dios de ustedes haciendo reposar a ustedes, y dará a ustedes esta tierra.
 
 ### 1:14
 
-Vuestras mujeres, vuestros hijos y vuestros ganados quedarán en la tierra que Moisés os dio al otro lado del Jordán, y vosotros pasaréis armados delante de vuestros hermanos, todos los valientes, y los ayudaréis.
+Sus mujeres de ustedes, su niño de ustedes y su ganado de ustedes habitarán en la tierra que dio a ustedes Moisés en éver del Yarden; y ustedes pasarán armados delante de sus hermanos, todos los fuertes de la fuerza, y ayudarán a ellos,
 
 ### 1:15
 
-Hasta que Jehová dé descanso a vuestros hermanos como a vosotros, y ellos también posean la tierra que Jehová, vuestro Dios, les da. Y luego volveréis a la tierra de vuestra herencia, y la poseeréis, la que Moisés, siervo de Jehová, os dio al otro lado del Jordán, al amanecer.
+hasta que dé reposo Jehová a sus hermanos como ustedes, y hereden también ellos la tierra que Jehová Dios de ustedes dando a ellos; y volverán a tierra de su heredad de ustedes, y la heredarán, que dio a ustedes Moisés, siervo de Jehová, en éver del Yarden, salida del sol.
 
 ### 1:16
 
-Respondieron a Josué diciendo: Todo lo que nos has mandado harémoslo, y a todo lo que nos envíes iremos.
+Y respondieron a Yehoshúa, diciendo: Todo lo que nos mandaste haremos, y a todo lo que nos envíes iremos.
 
 ### 1:17
 
-Como hemos obedecido a Moisés, así hemos obedecido a ti. Sólo que Jehová, tu Dios, esté contigo como estuvo con Moisés.
+Conforme a todo lo que oímos a Moisés, así oiremos a ti; solo sea Jehová tu Dios contigo, como que fue con Moisés.
 
 ### 1:18
 
-Todo hombre que se rebela contra tu palabra y no obedece tus mandamientos será muerto. Sólo que seas fuerte y valiente.
+Todo varón que amargue tu boca y no oiga tus palabras a todo lo que lo mandes, será muerto; solo fortalécete y esfuérzate.
 
 ## Capítulo 2
 
 ### 2:1
 
-Y Josué, hijo de Nun, envió de Jericó a dos hombres como espías secretamente, diciendo: Id y mirad la tierra y Jericó. Y fueron y entraron en la casa de una mujer prostituta, llamada Rahab, y allí se quedaron.
+Y envió Yehoshúa hijo de Nun desde los Shitím dos varones espiantes en secreto, diciendo: Vayan, vean la tierra y a Yerijó. Y fueron y vinieron a casa de mujer fornicante, y su nombre Rajav, y se acostaron allá.
 
 ### 2:2
 
-Y se le dijo al rey de Jericó: He aquí hombres han venido aquí esta noche de los hijos de Israel para espiar la tierra.
+Y fue dicho a rey de Yerijó, diciendo: He aquí, varones vinieron acá la noche, desde hijos de Israel, para cavar la tierra.
 
 ### 2:3
 
-Y el rey de Jericó envió a Rahab, diciendo: Trae a los hombres que han venido a ti, que han entrado en tu casa, porque han venido a espiar la tierra.
+Y envió rey de Yerijó a Rajav, diciendo: Saca a los varones los viniendo a ti, que vinieron a tu casa, porque para cavar toda la tierra vinieron.
 
 ### 2:4
 
-Y la mujer tomó a los dos hombres y los escondió. Y dijo: Sí, los hombres vinieron a mí, pero no sabía de dónde eran.
+Y tomó la mujer a los dos varones, y los escondió, y dijo: Así, vinieron a mí los varones, y no supe de dónde ellos.
 
 ### 2:5
 
-Y la puerta estaba cerrada en la oscuridad, y los hombres salieron, y no sabía yo a dónde habían ido. Corred tras ellos, que los alcanzaréis.
+Y fue, al cerrar la puerta en la oscuridad, y los varones salieron; no supe adónde fueron los varones; persigan pronto detrás de ellos, porque los alcanzarán.
 
 ### 2:6
 
-Y los subió al techo y los escondió entre las pajas que estaban dispuestas en el techo.
+Y ella los había hecho subir al techo, y los ocultó en el lino del árbol, las arregladas a ella sobre el techo.
 
 ### 2:7
 
-Y los hombres los persiguieron por el camino del Jordán hasta el puente, y la puerta se cerró tras ellos.
+Y los varones persiguieron detrás de ellos camino del Yarden, sobre las pasadas; y la puerta cerraron después de salir los persiguientes detrás de ellos.
 
 ### 2:8
 
-Y ellos no habían dormido, y ella subió sobre ellos al techo.
+Y ellos, antes de acostarse, y ella subió a ellos sobre el techo.
 
 ### 2:9
 
-Y les dijo: Sé que el Señor ha dado a ustedes la tierra, y que temen a ustedes; y que todos los que habitan la tierra se han desmayado ante ustedes.
+Y dijo a los varones: Supe que dio Jehová a ustedes la tierra, y que cayó el terror de ustedes sobre nosotros, y que se disolvieron todos los habitantes de la tierra de faces de ustedes.
 
 ### 2:10
 
-Porque hemos oído que el Señor secó el mar Rojo delante de ustedes cuando salieron de Egipto, y lo que hicieron a los dos reyes de los amorreos que estaban al otro lado del Jordán, a Sihón y a Og, a los cuales destruyeron.
+Porque oímos lo que secó Jehová aguas de mar de Suf de faces de ustedes en su salir ustedes desde Mizraim, y lo que hicieron a dos reyes del amorreo que en éver del Yarden, a Sijón y a Og, que ustedes hicieron anatema a ellos.
 
 ### 2:11
 
-Y nos han llegado estas noticias, y se ha desmayado nuestro corazón, y no ha quedado en nadie el valor para enfrentarse a ustedes, porque el Señor, su Dios, es Dios en los cielos arriba y en la tierra abajo.
+Y oímos, y se derritió nuestro corazón, y no se levantó más espíritu en varón de faces de ustedes, porque Jehová Dios de ustedes, él Dios en los cielos desde arriba y sobre la tierra desde abajo.
 
 ### 2:12
 
-Ahora, jurenme por el Señor que han tratado con bondad a mi familia, y yo también trataré con bondad a ustedes; y denme una señal de verdad.
+Y ahora, júrenme, por favor, a mí en Jehová, porque hice con ustedes misericordia, y harán también ustedes con casa de mi padre misericordia, y darán a mí señal de verdad,
 
 ### 2:13
 
-Y mantengan con vida a mi padre, a mi madre, a mis hermanos, a mis hermanas y a todos los que son suyos, y salven nuestras vidas de la muerte.
+y harán vivir a mi padre y a mi madre y a mis hermanos y a todo lo que a ellos, y librarán nuestras almas desde muerte.
 
 ### 2:14
 
-Y les dijeron: Nuestras vidas por las suyas, si no revelan nada de lo que han oído; y cuando el Señor nos dé la tierra, nosotros seremos bondadosos y fieles con ustedes.
+Y dijeron a ella los varones: Nuestra alma debajo de ustedes a muerte, si no denuncian nuestra palabra esta; y será, en dar Jehová a nosotros la tierra, y haremos contigo misericordia y verdad.
 
 ### 2:15
 
-Y los bajó por una cuerda por la ventana, porque su casa estaba en la muralla, y ella vivía en la muralla.
+Y los hizo bajar con la cuerda por la ventana, porque su casa en muro de la muralla, y en la muralla ella habitaba.
 
 ### 2:16
 
-Y les dijo: Id por el monte, para que no los encuentren los que los persiguen, y allí escondanse tres días, hasta que los perseguidores se vayan, y después sigan su camino.
+Y dijo a ellos: Al monte vayan, no sea que den con ustedes los persiguientes, y se oculten allá tres días hasta volver los persiguientes, y después irán a su camino de ustedes.
 
 ### 2:17
 
-Y les dijeron: Estamos libres de la promesa que nos hiciste.
+Y dijeron a ella los varones: Inocentes nosotros de tu juramento este que nos hiciste jurar.
 
 ### 2:18
 
-He aquí que estamos entrando en la tierra. Tíen la cuerda roja que les di, y atenla por la ventana por donde los bajaron. Y reúnan a su padre, a su madre, a sus hermanos y a todos los parientes suyos a su casa.
+He aquí nosotros viniendo en la tierra; el cordón de hilo del escarlata este atarás en la ventana por la que nos hiciste bajar, y a tu padre y a tu madre y a tus hermanos y a toda casa de tu padre reunirás a ti a la casa.
 
 ### 2:19
 
-Todo lo que salga de las puertas de tu casa y esté fuera será responsable de su propia sangre. Y todo lo que esté contigo en la casa será responsable de nuestra sangre si alguno toca a nadie.
+Y será, todo el que salga de puertas de tu casa afuera, su sangre en su cabeza, y nosotros inocentes; y todo el que esté contigo en la casa, su sangre en nuestra cabeza si mano sea en él.
 
 ### 2:20
 
-Si dices nuestra palabra, seremos libres de la promesa que hiciste.
+Y si denuncias nuestra palabra esta, y seremos inocentes de tu juramento que nos hiciste jurar.
 
 ### 2:21
 
-Ella dijo: Así es. Y la dejó irse. Y ató la cuerda roja en la ventana.
+Y dijo: Conforme a sus palabras de ustedes, así él. Y los envió, y fueron; y ató el cordón del escarlata en la ventana.
 
 ### 2:22
 
-Se fueron y llegaron a la montaña, donde permanecieron tres días, hasta que los perseguidores regresaron. Los perseguidores buscaron por todos los caminos, pero no los encontraron.
+Y fueron y vinieron al monte, y habitaron allí tres días hasta que volvieron los persiguientes; y buscaron los persiguientes en todo el camino, y no hallaron.
 
 ### 2:23
 
-Los dos hombres regresaron de la montaña, bajaron y cruzaron el río, llegaron a Josué, hijo de Nun, y le contaron todo lo que habían descubierto.
+Y volvieron los dos varones, y descendieron desde el monte, y pasaron, y vinieron a Yehoshúa hijo de Nun, y contaron a él todo lo hallado a ellos.
 
 ### 2:24
 
-Dijeron a Josué: El Señor nos ha entregado toda la tierra. Y todos los habitantes de la tierra se han desmoralizado ante nosotros.
+Y dijeron a Yehoshúa: Porque dio Jehová en nuestra mano toda la tierra; y también se disolvieron todos los habitantes de la tierra de nuestras faces.
 
 ## Capítulo 3
 
 ### 3:1
 
-Y al amanecer, Josué se levantó y partieron desde Silo. Llegaron al río Jordán, él y todo Israel, y acamparon allí hasta cruzar.
+Y madrugó Yehoshúa en la mañana, y partieron desde los Shitím, y vinieron hasta el Yarden, él y todos hijos de Israel, y pernoctaron allí antes de pasar.
 
 ### 3:2
 
-Pasaron tres días y los oficiales cruzaron en medio del campamento.
+Y fue, desde cabo de tres días, y pasaron los oficiales en medio del campamento.
 
 ### 3:3
 
-Les dijeron: Cuando vean el Arca de la Alianza del Señor, Dios de ustedes, y los sacerdotes levitas la lleven, ustedes deben partir de su lugar y seguir a la Arca.
+Y mandaron al pueblo, diciendo: En su ver ustedes el arca de pacto de Jehová Dios de ustedes, y los sacerdotes los levitas alzantes a él, y ustedes partirán desde su lugar de ustedes y andarán detrás de él.
 
 ### 3:4
 
-Pero deben mantenerse a distancia de ustedes, a dos mil codos, para que sepan el camino que deben seguir. Porque no han pasado por este camino desde ayer.
+Solo lejos habrá entre ustedes como dos mil codo en la medida; no se acerquen a él, a fin de que conozcan el camino que andarán en él, porque no pasaron en el camino desde ayer anteayer.
 
 ### 3:5
 
-Josué les dijo al pueblo: Santifíquense, porque mañana el Señor hará maravillas entre ustedes.
+Y dijo Yehoshúa al pueblo: Santifíquense, porque mañana hará Jehová en medio de ustedes maravillas.
 
 ### 3:6
 
-Josué dijo a los sacerdotes: Llevan el Arca de la Alianza del Señor y vayan delante del pueblo. Y llevaron el Arca de la Alianza del Señor y marcharon delante del pueblo.
+Y dijo Yehoshúa a los sacerdotes, diciendo: Alcen el arca del pacto, y pasen delante del pueblo. Y alzaron el arca del pacto, y anduvieron delante del pueblo.
 
 ### 3:7
 
-El Señor dijo a Josué: Hoy te engrandeceré ante todos los israelitas, para que sepan que, como estaba con Moisés, estaré contigo.
+Y dijo Jehová a Yehoshúa: El día este comenzaré a engrandecerte a ojos de todo Israel, que sabrán que como que fui con Moisés seré contigo.
 
 ### 3:8
 
-Y tú ordenarás a los sacerdotes que llevan el Arca de la Alianza que, cuando lleguen al borde del río Jordán, se detengan allí.
+Y tú mandarás a los sacerdotes alzantes del arca del pacto, diciendo: En su llegar ustedes hasta extremo de aguas del Yarden, en el Yarden se pararán.
 
 ### 3:9
 
-Josué dijo a los israelitas: Acérquense y escuchen las palabras del Señor, su Dios.
+Y dijo Yehoshúa a hijos de Israel: Acérquense acá, y oigan las palabras de Jehová Dios de ustedes.
 
 ### 3:10
 
-Josué dijo: Por esto sabrán que entre ustedes está un Dios viviente, y él los hará expulsar a los cananeos, hititas, hititas, perizitas, gergasitas, amoritas y jebuseos.
+Y dijo Yehoshúa: En esto sabrán que El vivo en medio de ustedes, y heredando heredará de faces de ustedes al cananeo y al hitita y al heveo y al ferezeo y al girgasí y al amorreo y al jebuseo.
 
 ### 3:11
 
-He aquí que el Arca del pacto, Señor de toda la tierra, pasa delante de ustedes por el río Jordán.
+He aquí arca del pacto de Adón de toda la tierra pasando delante de ustedes en el Yarden.
 
 ### 3:12
 
-Ahora, tomen de ustedes doce hombres, uno de cada tribu de Israel.
+Y ahora, tomen para ustedes doce varón desde tribus de Israel, varón uno, varón uno a la tribu.
 
 ### 3:13
 
-Y sucederá que cuando los pies de los sacerdotes que llevan el Arca del Señor, Señor de toda la tierra, toquen el agua del río Jordán, el agua del río Jordán se detendrá.
+Y será, al reposar plantas de pies de los sacerdotes alzantes del arca de Jehová, Adón de toda la tierra, en aguas del Yarden, aguas del Yarden serán cortadas, las aguas las descendientes desde arriba, y se pararán montón uno.
 
 ### 3:14
 
-Y cuando el pueblo se movió de sus tiendas para pasar el río Jordán, los sacerdotes que llevaban el Arca del pacto pasaron delante del pueblo.
+Y fue, en partir el pueblo desde sus tiendas para pasar el Yarden, y los sacerdotes alzantes del arca del pacto delante del pueblo.
 
 ### 3:15
 
-Y cuando los portadores del Arca del Señor llegaron al río Jordán, y los pies de los sacerdotes que llevaban el Arca se sumergieron en las aguas del río, el río estaba lleno de agua durante todo el tiempo de la cosecha.
+Y en llegar los alzantes del arca hasta el Yarden, y pies de los sacerdotes alzantes del arca se mojaron en extremo de las aguas, y el Yarden lleno sobre todas sus orillas todos los días de siega,
 
 ### 3:16
 
-Y los aguas que bajaban desde arriba se detuvieron, formando una montaña muy lejos, en dirección a Zartán, y las aguas que bajaban hacia el Mar de Arabá, el Mar de Sal, se detuvieron. Y el pueblo pasó frente a Jericó.
+y se pararon las aguas las descendientes desde arriba; se levantaron montón uno, lejos mucho la ciudad que desde lado de Tsaretán, y las descendientes sobre mar de la arabá, mar de la sal, se acabaron, fueron cortadas; y el pueblo pasó enfrente de Yerijó.
 
 ### 3:17
 
-Y los sacerdotes que llevaban el Arca del pacto del Señor se detuvieron en medio del río, y todo Israel pasó por el río en seco, hasta que todo el pueblo hubo cruzado el río.
+Y se pararon los sacerdotes alzantes del arca de pacto de Jehová en la seca, en medio del Yarden, firmes; y todo Israel pasando en la seca, hasta que se acabó toda la nación de pasar el Yarden.
 
 ## Capítulo 4
 
 ### 4:1
 
-Cuando todo el pueblo hubo cruzado el río Jordán, el Señor dijo a Josué:
+Y fue, cuando se acabó toda la nación de pasar el Yarden, y dijo Jehová a Yehoshúa, diciendo:
 
 ### 4:2
 
-Tomad de vosotros doce hombres, uno de cada tribu.
+Tomen para ustedes desde el pueblo doce varones, varón uno, varón uno desde tribu.
 
 ### 4:3
 
-Y ordenad a ellos diciendo: Tomad de este lugar doce piedras, una de cada tribu, y llevadlas con vosotros, y las pondréis en el lugar donde pernoctéis esta noche.
+Y manden a ellos, diciendo: Alcen para ustedes desde esto, desde medio del Yarden, desde estación de pies de los sacerdotes, firme, doce piedras, y las hagan pasar con ustedes, y las depositen en el alojamiento que pernoctarán en él la noche.
 
 ### 4:4
 
-Y Josué llamó a los doce hombres que había designado de los hijos de Israel, uno de cada tribu.
+Y llamó Yehoshúa a los doce varón que preparó desde hijos de Israel, varón uno, varón uno desde tribu.
 
 ### 4:5
 
-Y dijo Josué a ellos: Pasad delante del arca del SEÑOR vuestro Dios al medio del Jordán, y cada uno de vosotros tome una piedra sobre su hombro, según el número de las tribus de los hijos de Israel.
+Y dijo a ellos Yehoshúa: Pasen delante del arca de Jehová Dios de ustedes a medio del Yarden, y alcen para ustedes varón piedra una sobre su hombro, al número de tribus de hijos de Israel,
 
 ### 4:6
 
-Para que sea esto por señal en medio de vosotros, y que mañana, cuando vuestros hijos os pregunten, diciendo: ¿Qué significan estas piedras?
+a fin de que sea esto señal en medio de ustedes, porque preguntarán sus hijos de ustedes mañana, diciendo: ¿Qué las piedras estas a ustedes?
 
 ### 4:7
 
-Y responderéis a ellos: Porque el río de Jordán se cortó delante del arca del pacto de Jehová, cuando pasó por el río, y el río de Jordán se cortó. Y estas piedras serán para los hijos de Israel por memoria perpetua.
+Y dirán a ellos: Que fueron cortadas aguas del Yarden de faces del arca de pacto de Jehová; en su pasar él en el Yarden, fueron cortadas aguas del Yarden; y serán las piedras estas a memorial a hijos de Israel hasta siempre.
 
 ### 4:8
 
-Y los hijos de Israel hicieron como Josué les había mandado. Tomaron doce piedras del medio del Jordán, según Jehová había hablado a Josué, según el número de las tribus de los hijos de Israel, y las llevaron con ellos al lugar donde pernoctaron y las pusieron allí.
+Y hicieron así hijos de Israel como que mandó Yehoshúa, y alzaron doce piedras desde medio del Yarden como que habló Jehová a Yehoshúa, al número de tribus de hijos de Israel, y las hicieron pasar con ellos al alojamiento, y las depositaron allí.
 
 ### 4:9
 
-Y doce piedras puso Josué en medio del Jordán, en el lugar donde estaban los pies de los sacerdotes que llevaban el arca del pacto, y allí quedaron hasta el día de hoy.
+Y doce piedras levantó Yehoshúa en medio del Yarden, debajo de estación de pies de los sacerdotes alzantes del arca del pacto; y fueron allí hasta el día este.
 
 ### 4:10
 
-Y los sacerdotes que llevaban el arca estaban en medio del Jordán, hasta que todo lo que Jehová había mandado a Josué se hubo cumplido, según Jehová había hablado a Josué, como Moisés había mandado a Josué. Y el pueblo se apresuró y pasó.
+Y los sacerdotes alzantes del arca parados en medio del Yarden hasta acabar toda la palabra que mandó Jehová a Yehoshúa a hablar al pueblo, conforme a todo lo que mandó Moisés a Yehoshúa; y se apresuró el pueblo y pasaron.
 
 ### 4:11
 
-Y cuando todo el pueblo hubo pasado, el arca de Jehová y los sacerdotes delante del pueblo.
+Y fue, cuando se acabó todo el pueblo de pasar, y pasó arca de Jehová y los sacerdotes delante del pueblo.
 
 ### 4:12
 
-Y pasaron los hijos de Rubén y los hijos de Gad y la mitad de la tribu de Manasés, armados, delante de los hijos de Israel, como Moisés les había hablado.
+Y pasaron hijos de Reuvén e hijos de Gad y mitad de tribu de Menashé armados delante de hijos de Israel, como que habló a ellos Moisés.
 
 ### 4:13
 
-Cincuenta mil hombres de guerra pasaron delante de Jehová al campo de batalla a las llanuras de Jericó.
+Como cuarenta mil equipados del ejército pasaron delante de Jehová a la guerra, a arabot de Yerijó.
 
 ### 4:14
 
-En aquel día, el SEÑOR exaltó a Josué ante los ojos de todo Israel, y lo vieron como a Moisés.
+En el día aquel engrandeció Jehová a Yehoshúa a ojos de todo Israel, y temieron a él como que temieron a Moisés todos los días de sus vidas.
 
 ### 4:15
 
-Y el SEÑOR dijo a Josué:
+Y dijo Jehová a Yehoshúa, diciendo:
 
 ### 4:16
 
-Ordena a los sacerdotes que llevan el arca de la alianza que suban del Jordán.
+Manda a los sacerdotes alzantes del arca del testimonio, y subirán desde el Yarden.
 
 ### 4:17
 
-Y Josué ordenó a los sacerdotes: Suban del Jordán.
+Y mandó Yehoshúa a los sacerdotes, diciendo: Suban desde el Yarden.
 
 ### 4:18
 
-Y cuando los sacerdotes que llevaban el arca del SEÑOR salieron del medio del Jordán, y las plantas de los pies de los sacerdotes se tocaron la orilla, las aguas del Jordán volvieron a su lugar y corrieron como antes, a su cauce.
+Y fue, los sacerdotes alzantes del arca de pacto de Jehová desde medio del Yarden, fueron arrancadas plantas de pies de los sacerdotes a la seca, y volvieron aguas del Yarden a su lugar, y anduvieron como ayer anteayer sobre todas sus orillas.
 
 ### 4:19
 
-Y el pueblo subió del Jordán el día diez del primer mes, y acampó en Gilgal, al oriente de Jericó.
+Y el pueblo subió desde el Yarden en el diez al mes el primero, y acamparon en el Gilgal, en extremo de salida de sol de Yerijó.
 
 ### 4:20
 
-Y las doce piedras que tomaron del Jordán, Josué levantó en Gilgal.
+Y a las doce piedras estas que tomaron desde el Yarden levantó Yehoshúa en el Gilgal.
 
 ### 4:21
 
-Y dijo a los israelitas: Cuando mañana os pregunten vuestros hijos: ¿Qué significan estas piedras?
+Y dijo a hijos de Israel, diciendo: Que preguntarán sus hijos de ustedes mañana a sus padres, diciendo: ¿Qué las piedras estas?
 
 ### 4:22
 
-Y responderéis a vuestros hijos: Israel pasó por el Jordán a pie seco.
+Y harán saber a sus hijos de ustedes, diciendo: En la seca pasó Israel el Yarden este,
 
 ### 4:23
 
-Porque el SEÑOR, vuestro Dios, secó el agua del Jordán delante de vosotros hasta que habíais pasado, como hizo el SEÑOR, vuestro Dios, al mar Rojo, el cual secó delante de nosotros hasta que habíamos pasado.
+que secó Jehová Dios de ustedes aguas del Yarden de faces de ustedes hasta su pasar ustedes, como que hizo Jehová Dios de ustedes a mar de Suf, que secó de nuestras faces hasta nuestro pasar,
 
 ### 4:24
 
-Para que todos los pueblos de la tierra conozcan la mano del SEÑOR, que es poderosa, para que temáis al SEÑOR, vuestro Dios, siempre.
+a fin de conocer todos los pueblos de la tierra la mano de Jehová, que fuerte ella; a fin de que teman a Jehová Dios de ustedes todos los días.
 
 ## Capítulo 5
 
 ### 5:1
 
-Y cuando los reyes de Amorrea que estaban al otro lado del Jordán, al oriente, y los reyes de Canaán que estaban al mar, oyeron que el SEÑOR había secado las aguas del Jordán delante de los israelitas hasta que pasaron, se desmoralizaron y ya no tenían ánimo para combatir a los israelitas.
+Y fue al oír todos los reyes del amorreo que en éver del Yarden hacia el mar, y todos los reyes del cananeo que sobre el mar, aquello que secó Jehová las aguas del Yarden de faces de hijos de Israel, hasta que se derritió su corazón, y no hubo en ellos aún espíritu de faces de hijos de Israel.
 
 ### 5:2
 
-En ese tiempo el SEÑOR dijo a Josué: Haz espadas de piedra y vuelve a circuncidar a los israelitas.
+En el tiempo aquel dijo Jehová a Yehoshúa: Haz para ti espadas de pedernales, y vuelve, circuncida a hijos de Israel segunda vez.
 
 ### 5:3
 
-Josué hizo espadas de piedra y circuncidó a los israelitas en la colina de los quebrantos.
+Y hizo para él Yehoshúa espadas de pedernales, y circuncidó a hijos de Israel hacia collado de los prepucios.
 
 ### 5:4
 
-Esto es lo que circuncidó Josué: todo el pueblo que salió de Egipto, los varones de edad militar, habían muerto en el desierto durante el viaje desde Egipto.
+Y esta es la palabra que circuncidó Yehoshúa: todo el pueblo el saliente desde Mizraim, los machos, todos hombres de la batalla, murieron en el desierto en el camino en su salir ellos desde Mizraim.
 
 ### 5:5
 
-Porque todos los que salieron estaban circuncidados, pero todos los nacidos en el desierto durante el viaje desde Egipto no estaban circuncidados.
+Porque circuncidados fueron todo el pueblo los salientes; y todo el pueblo los nacidos en el desierto en el camino en su salir ellos desde Mizraim, no circuncidaron.
 
 ### 5:6
 
-Porque los israelitas anduvieron cuarenta años en el desierto hasta que murieron todos los varones de edad militar que salieron de Egipto, los que no habían escuchado la voz del SEÑOR, a quienes el SEÑOR juró que no les mostraría la tierra que juró a sus padres darles, una tierra que mana leche y miel.
+Porque cuarenta año anduvieron hijos de Israel en el desierto, hasta acabarse toda la nación, hombres de la batalla los salientes desde Mizraim, que no oyeron en voz de Jehová, a los que juró Jehová a ellos para no hacerles ver la tierra que juró Jehová a sus padres dar a nosotros, tierra manante leche y miel.
 
 ### 5:7
 
-Y a sus hijos los levantó en su lugar; a ellos los circuncidó Josué, porque eran incircuncisos, porque no se habían circuncidado en el camino.
+Y a sus hijos levantó debajo de ellos; a ellos circuncidó Yehoshúa, porque incircuncisos fueron, porque no circuncidaron a ellos en el camino.
 
 ### 5:8
 
-Y cuando todo el pueblo terminó de circuncidarse, se sentaron en su lugar en el campamento hasta que sanaron.
+Y fue cuando acabaron toda la nación de ser circuncidada, y se sentaron debajo de ellos en el campamento hasta su vivir.
 
 ### 5:9
 
-Y el SEÑOR dijo a Josué: En ese día quitaré la vergüenza de Egipto de encima de ustedes. Y llamó al lugar ese Gilgal hasta el día de hoy.
+Y dijo Jehová a Yehoshúa: Hoy rodé la afrenta de Mizraim de sobre ustedes. Y llamó nombre del lugar aquel Gilgal, hasta el día este.
 
 ### 5:10
 
-Los israelitas acamparon en Gilgal y celebraron la Pascua el día catorce del mes en la tarde en las llanuras de Jericó.
+Y acamparon hijos de Israel en el Gilgal, e hicieron el Pésaj en catorce día al mes, en la tarde, en arabot de Yerijó.
 
 ### 5:11
 
-Y comieron del fruto de la tierra el día después de la Pascua, pan sin levadura y cocido al horno, en el mismo día.
+Y comieron del grano de la tierra desde mañana del Pésaj, panes ázimos y tostado, en hueso del día este.
 
 ### 5:12
 
-Y el maná cesó el día después de que comieron del fruto de la tierra, y no hubo más maná para los israelitas; y comieron de la cosecha de la tierra de Canaán en ese año.
+Y cesó el man desde mañana en su comer ellos del grano de la tierra, y no hubo aún a hijos de Israel man; y comieron del producto de tierra de Canaán en el año aquel.
 
 ### 5:13
 
-Y cuando Josué estaba en Jericó, levantó los ojos y vio a un hombre con una espada desembainada en la mano. Y Josué se acercó a él y le dijo: ¿Eres nuestro aliado o enemigo?
+Y fue en ser Yehoshúa en Yerijó, y alzó sus ojos y vio, y he aquí hombre parado enfrente de él, y su espada sacada en su mano; y anduvo Yehoshúa a él, y dijo a él: ¿A nosotros tú, o a nuestros angustiadores?
 
 ### 5:14
 
-Y él dijo: No, sino que yo soy el jefe del ejército de Jehová. Ahora he venido. Y Josué se postró con su rostro en tierra y se inclinó, y le dijo: ¿Qué dice mi Señor al siervo de mi Señor?
+Y dijo: No, sino yo príncipe de ejército de Jehová; ahora vine. Y cayó Yehoshúa sobre sus faces a tierra, y se postró, y dijo a él: ¿Qué mi Adonai hablando a su siervo?
 
 ### 5:15
 
-Y el jefe del ejército de Jehová dijo a Josué: Quita el calzado de tus pies, porque el lugar donde estás es santo. Y Josué lo hizo.
+Y dijo príncipe de ejército de Jehová a Yehoshúa: Suelta tu sandalia de sobre tu pie, porque el lugar que tú parado sobre él, santo él. Y hizo Yehoshúa así.
 
 ## Capítulo 6
 
 ### 6:1
 
-Y Jericó estaba cerrada y fortificada por los hijos de Israel; no había quien saliera ni quien entrara.
+Y Yerijó cerrante y cerrada de faces de hijos de Israel; no hay saliente y no hay entrante.
 
 ### 6:2
 
-Y Jehová dijo a Josué: Mira, he entregado en tu mano a Jericó y a su rey y a los valientes de guerra.
+Y dijo Jehová a Yehoshúa: Ve, di en tu mano a Yerijó y a su rey, poderosos del valor.
 
 ### 6:3
 
-Y rodearás la ciudad toda, todo el pueblo de guerra rodeará la ciudad una vez cada día, así harás por seis días.
+Y rodearán ustedes la ciudad, todos hombres de la batalla, rodeando la ciudad una vez; así harás seis días.
 
 ### 6:4
 
-Y siete sacerdotes llevarán siete cuernos de trompeta de jubileo delante del arca; y el séptimo día rodearán la ciudad siete veces, y los sacerdotes tocarán las trompetas.
+Y siete sacerdotes alzarán siete shofarot de los yoveles delante del arca; y en el día el séptimo rodearán la ciudad siete veces, y los sacerdotes tocarán en los shofarot.
 
 ### 6:5
 
-Y cuando toquen la trompeta larga, cuando oigan el sonido de la trompeta, todo el pueblo dará un gran grito; y la muralla de la ciudad caerá abajo, y el pueblo subirá cada uno derecho ante sí.
+Y será en tirar en cuerno del yovel la voz del shofar, gritarán todo el pueblo grito grande, y caerá muralla de la ciudad debajo de ella, y subirán el pueblo, varón enfrente de él.
 
 ### 6:6
 
-Y Josué hijo de Nun llamó a los sacerdotes y les dijo: Tomad el arca del pacto, y siete sacerdotes tomarán siete cuernos de trompeta de jubileo delante del arca de Jehová.
+Y llamó Yehoshúa hijo de Nun a los sacerdotes, y dijo a ellos: Alcen arca del pacto, y siete sacerdotes alzarán siete shofarot de yoveles delante de arca de Jehová.
 
 ### 6:7
 
-Y dijeron al pueblo: Pasad y rodead la ciudad, y los que van delante del arca de Jehová pasarán delante.
+Y al pueblo: Pasen y rodeen la ciudad, y el extracto pasará delante de arca de Jehová.
 
 ### 6:8
 
-Y aconteció que cuando Josué habló al pueblo, siete sacerdotes llevaban siete cuernos de trompeta de jubileo delante de Jehová; y pasaron y tocaron las trompetas; y el arca del pacto de Jehová seguía detrás.
+Y fue como decir Yehoshúa al pueblo, y siete los sacerdotes alzantes siete shofarot de los yoveles delante de Jehová pasaron y tocaron en los shofarot, y arca de pacto de Jehová andante detrás de ellos.
 
 ### 6:9
 
-Y el que iba delante del arca tocaba las trompetas, y los que venían detrás del arca decían: Tocad las trompetas. Y el pueblo que iba delante del arca iba tocando las trompetas.
+Y el extracto andante delante de los sacerdotes los shofarot, y el recogedor andante detrás del arca, andando y tocando en los shofarot.
 
 ### 6:10
 
-Y Josué ordenó al pueblo, diciendo: No gritéis ni hagáis oír vuestra voz, ni salga palabra de vuestra boca, hasta el día que os diga: Gritad, entonces gritaréis.
+Y al pueblo mandó Yehoshúa, diciendo: No griten, y no hagan oír su voz, y no salga de su boca palabra, hasta día de mi decir a ustedes: Griten; y gritarán.
 
 ### 6:11
 
-Y el arca de Yavé rodeó la ciudad una vez, y regresaron al campamento y acamparon en el campamento.
+Y hizo rodear arca de Jehová la ciudad, rodeando una vez; y vinieron al campamento, y pernoctaron en el campamento.
 
 ### 6:12
 
-Y Josué se levantó de mañana, y los sacerdotes llevaron el arca de Yavé.
+Y madrugó Yehoshúa en la mañana, y alzaron los sacerdotes arca de Jehová.
 
 ### 6:13
 
-Y siete sacerdotes llevaban siete cuernos de tronos de jubileo delante del arca de Yavé, marchando y tocando los cuernos de tronos. El que iba delante tocaba los cuernos, y el que seguía después del arca de Yavé tocaba los cuernos.
+Y siete los sacerdotes alzantes siete shofarot de los yoveles delante de arca de Jehová andantes, andando y tocando en los shofarot; y el extracto andante delante de ellos, y el recogedor andante detrás de arca de Jehová, y tocando en los shofarot.
 
 ### 6:14
 
-Y rodearon la ciudad el segundo día una vez, y regresaron al campamento. Así hicieron seis días.
+Y rodearon la ciudad en el día el segundo una vez, y volvieron al campamento; así hicieron seis días.
 
 ### 6:15
 
-Y sucedió que al séptimo día, al amanecer, levantaron el campamento y rodearon la ciudad como en el día anterior, pero al séptimo día rodearon la ciudad siete veces.
+Y fue en el día el séptimo, y madrugaron al subir el alba, y rodearon la ciudad conforme al juicio este siete veces; solo en el día aquel rodearon la ciudad siete veces.
 
 ### 6:16
 
-Y cuando llegó el séptimo día, al séptimo turno, los sacerdotes tocaron los cuernos. Y Josué dijo al pueblo: Gritad, porque Yavé ha dado la ciudad en vuestras manos.
+Y fue en la vez la séptima, tocaron los sacerdotes en los shofarot, y dijo Yehoshúa al pueblo: Griten, porque dio Jehová a ustedes la ciudad.
 
 ### 6:17
 
-Y la ciudad y todo lo que en ella hay será consagrado a Yavé. Sólo Rahab la prostituta vivirá, ella y todos los que están con ella en su casa, porque la ha escondido a los mensajeros que les envié.
+Y será la ciudad anatema ella y todo lo que en ella a Jehová; solo Rajav la ramera vivirá, ella y todo lo que con ella en la casa, porque escondió a los mensajeros que enviamos.
 
 ### 6:18
 
-Y vosotros guardados estaréis de lo consagrado, para que no lo consagréis y toméis de lo consagrado, y no os hagáis culpables de consagración, y no os destruyáis con la destrucción de todo el campamento de Israel.
+Y solo ustedes, guarden del anatema, no sea que hagan anatema y tomen del anatema, y pongan campamento de Israel a anatema, y lo turben.
 
 ### 6:19
 
-Y todo el plata, el oro, los utensilios de bronce y de hierro, serán consagrados a Yavé, y vendrá a la tesorería de Yavé.
+Y todo plata y oro y utensilios de cobre y hierro, santo él a Jehová; a tesoro de Jehová vendrá.
 
 ### 6:20
 
-Y el pueblo gritó, y los sacerdotes tocaron los cuernos. Y cuando el pueblo oyó el sonido de los cuernos, el pueblo gritó un gran grito, y la muralla cayó abajo, y el pueblo subió a la ciudad, cada uno a su frente, y tomaron la ciudad.
+Y gritó el pueblo, y tocaron en los shofarot; y fue al oír el pueblo la voz del shofar, y gritaron el pueblo grito grande, y cayó la muralla debajo de ella, y subió el pueblo a la ciudad, varón enfrente de él, y tomaron la ciudad.
 
 ### 6:21
 
-Y consagraron todo lo que había en la ciudad, desde el hombre hasta la mujer, desde el niño hasta el anciano, desde el buey hasta el cordero, hasta el asno, con la espada.
+Y hicieron anatema todo lo que en la ciudad, desde varón y hasta mujer, desde joven y hasta anciano, y hasta buey y oveja y asno, a boca de espada.
 
 ### 6:22
 
-Y a los dos hombres que habían espiado la tierra, Josué dijo: Id a la casa de la mujer la prostituta, y sacad de allí a la mujer y a todo lo que es suyo, como habéis jurado a ella.
+Y a los dos hombres los espiantes la tierra dijo Yehoshúa: Entren a casa de la mujer la ramera, y saquen de allí a la mujer y a todo lo que a ella, conforme a lo que juraron a ella.
 
 ### 6:23
 
-Y los jóvenes espías la llevaron a Rahab, a su padre, a su madre, a sus hermanos y a todo lo que era suyo; y a todos sus parientes los sacaron y los dejaron fuera del campamento israelita.
+Y vinieron los jóvenes los espiantes, y sacaron a Rajav y a su padre y a su madre y a sus hermanos y a todo lo que a ella, y a todos sus clanes sacaron; y los depositaron fuera de campamento de Israel.
 
 ### 6:24
 
-Y la ciudad la quemaron con todo lo que había en ella; pero el dinero, el oro, los utensilios de bronce y el hierro, los pusieron en el tesoro de la casa de Jehová.
+Y la ciudad quemaron en el fuego, y todo lo que en ella; solo la plata y el oro y utensilios del cobre y el hierro dieron a tesoro de casa de Jehová.
 
 ### 6:25
 
-Y a Rahab la prostituta y a su familia y a todo lo que era suyo, Josué los salvó vivos; y ella vivió en medio de Israel hasta el día de hoy, porque había escondido a los mensajeros que Josué había enviado para espiar Jericó.
+Y a Rajav la ramera y a casa de su padre y a todo lo que a ella hizo vivir Yehoshúa, y habitó en medio de Israel hasta el día este, porque escondió a los mensajeros que envió Yehoshúa a espiar a Yerijó.
 
 ### 6:26
 
-Y Josué juró en aquel tiempo, diciendo: Maldito el hombre delante de Jehová que levante esta ciudad, Jericó, con su primogénito la fundará y con su más joven pondrá las puertas.
+Y juró Yehoshúa en el tiempo aquel, diciendo: Maldito el hombre delante de Jehová que se levante y edifique la ciudad esta, a Yerijó; en su primogénito la fundará, y en su menor asentará sus puertas.
 
 ### 6:27
 
-Y Jehová estuvo con Josué, y su fama se extendió por toda la tierra.
+Y fue Jehová con Yehoshúa, y fue su fama en toda la tierra.
 
 ## Capítulo 7
 
 ### 7:1
 
-Y los israelitas pecaron en la cosa consagrada, y Acaán, hijo de Carmi, hijo de Zabdi, hijo de Zera, de la tribu de Judá, tomó de la cosa consagrada, y la ira de Jehová se encendió contra los israelitas.
+Y prevaricaron hijos de Israel prevaricación en el anatema, y tomó Acán hijo de Carmi hijo de Zavdi hijo de Zéraj, a vara de Yehudá, del anatema; y se inflamó nariz de Jehová en hijos de Israel.
 
 ### 7:2
 
-Y Josué envió hombres de Jericó a Ai, que está junto a Betel, al oriente de Betel, y les dijo: Subid y espiad la tierra. Y subieron los hombres y espiaron la tierra.
+Y envió Yehoshúa hombres desde Yerijó al Ai, que está con Bet Avén, desde oriente a Bet El, y dijo a ellos, diciendo: Suban y espíen la tierra. Y subieron los hombres y espiaron al Ai.
 
 ### 7:3
 
-Y volvieron a Josué y le dijeron: No suban todos el pueblo, sino que suban dos mil o tres mil hombres, y los derrotarán a los de Ai. No suban todos el pueblo, porque son pocos.
+Y volvieron a Yehoshúa, y dijeron a él: No suba todo el pueblo; como dos mil varón, o como tres mil varón, suban y hieran al Ai; no fatiges allá a todo el pueblo, porque pocos son ellos.
 
 ### 7:4
 
-Y subieron de entre el pueblo a Ai tres mil hombres, y huyeron delante de los hombres de Ai.
+Y subieron del pueblo allá como tres mil varón, y huyeron de faces de hombres del Ai.
 
 ### 7:5
 
-Y mataron de ellos treinta y seis hombres de Ai, y los persiguieron hasta el borde de las puertas, y los mataron en el descenso, y el corazón del pueblo se derretió, y se volvió como agua.
+Y hirieron de ellos hombres del Ai como treinta y seis varón, y los persiguieron de faces de la puerta hasta los Shevarim, y los hirieron en la bajada; y se derritió corazón del pueblo, y fue a aguas.
 
 ### 7:6
 
-Y rasgó Josué sus vestiduras, y se postró sobre su rostro ante la arca de Jehová hasta la tarde, él y los ancianos de Israel, y se echaron polvo sobre sus cabezas.
+Y rasgó Yehoshúa sus vestidos, y cayó sobre sus faces a tierra delante de arca de Jehová hasta la tarde, él y ancianos de Israel, y alzaron polvo sobre su cabeza.
 
 ### 7:7
 
-Y dijo Josué: ¡Ay, Señor Jehová! ¿Por qué nos has hecho pasar el Jordán, para entregarnos en manos de los amorreos, para que nos destruyan? Y hubiéramos quedado al otro lado del Jordán.
+Y dijo Yehoshúa: ¡Ah, Adonai Jehová! ¿Por qué hiciste pasar, haciendo pasar, a este pueblo el Jordán, para dar a nosotros en mano del amorreo para destruirnos? Y ojalá nos hubiéramos contentado y hubiéramos habitado en éver del Jordán.
 
 ### 7:8
 
-Ay, Señor, ¿qué puedo decir? Israel ha dado la espalda a sus enemigos.
+Por favor, Adonai, ¿qué diré después que volvió Israel nuca de faces de sus enemigos?
 
 ### 7:9
 
-Y los cananeos y todos los que habitan la tierra oirán esto, y nos rodearán y nos cortarán el nombre de la tierra. ¿Qué harás por tu gran nombre?
+Y oirá el cananeo y todos habitantes de la tierra, y se rodearán sobre nosotros, y cortarán nuestro nombre de la tierra; y ¿qué harás a tu nombre el grande?
 
 ### 7:10
 
-Entonces Jehová dijo a Josué: Levántate, ¿por qué estás postrado sobre tu rostro?
+Y dijo Jehová a Yehoshúa: Levántate a ti; ¿por qué esto tú estás cayendo sobre tus faces?
 
 ### 7:11
 
-Israel ha pecado, han transgredido mi pacto que les ordené, han tomado de lo consagrado, han robado, han mentido, y han escondido entre sus cosas.
+Pecó Israel, y también pasaron mi pacto que mandé a ellos, y también tomaron del anatema, y también hurtaron, y también negaron, y también pusieron en sus utensilios.
 
 ### 7:12
 
-Por eso no podrán los hijos de Israel vencer a sus enemigos; darán la espalda a sus enemigos, porque han sido consagrados. No estaré con ustedes si no destruyen lo consagrado de entre ustedes.
+Y no podrán hijos de Israel levantarse de faces de sus enemigos; nuca volverán de faces de sus enemigos, porque fueron a anatema; no añadiré a ser con ustedes, si no destruyen el anatema de en medio de ustedes.
 
 ### 7:13
 
-Levántate, santifica al pueblo y dile: Santifíquense para mañana, porque Jehová, el Dios de Israel, ha dicho: Hay cosa consagrada en medio de ti, Israel, no podrás vencer a tus enemigos hasta que no la hayas quitado de entre ti.
+Levántate, santifica al pueblo, y dirás: Santifíquense para mañana, porque así dijo Jehová Dios de Israel: Anatema en medio de ti, Israel; no podrás levantarte de faces de tus enemigos hasta su quitar ustedes el anatema de en medio de ustedes.
 
 ### 7:14
 
-Y al amanecer se acercarán a las tribus, y la tribu que Jehová elija se acercará a las familias, y la familia que Jehová elija se acercará a las casas, y la casa que Jehové elija se acercará a los hombres.
+Y se acercarán en la mañana a sus tribus; y será la tribu que tome Jehová, se acercará a los clanes; y el clan que tome Jehová, se acercará a las casas; y la casa que tome Jehová, se acercará a los varones.
 
 ### 7:15
 
-Y el que sea hallado con lo consagrado será quemado, con todo lo que tiene, porque ha transgredido el pacto de Jehová y ha hecho lo malo en Israel.
+Y será el tomado en el anatema, será quemado en el fuego, a él y a todo lo que es a él, porque pasó pacto de Jehová, y porque hizo necedad en Israel.
 
 ### 7:16
 
-Y al amanecer Josué se levantó y se acercó a Israel a las tribus, y la tribu de Judá fue elegida.
+Y madrugó Yehoshúa en la mañana, y acercó a Israel a sus tribus, y fue tomada tribu de Yehudá.
 
 ### 7:17
 
-Y se acercó a la familia de Judá, y la familia de Zerah fue elegida, y se acercó a la familia de Zerah a los hombres, y Zabdi fue elegido.
+Y acercó a clan de Yehudá, y tomó a clan del zarjí; y acercó a clan del zarjí a los varones, y fue tomado Zavdi.
 
 ### 7:18
 
-Y se acercó a su casa a los hombres, y Acaán, hijo de Carmi, hijo de Zabdi, hijo de Zera, de la tribu de Judá, fue elegido.
+Y acercó a su casa a los varones, y fue tomado Acán hijo de Carmi hijo de Zavdi hijo de Zéraj, a vara de Yehudá.
 
 ### 7:19
 
-Y Josué dijo a Acaán: Hijo, da gloria a Jehová, el Dios de Israel, y dale las gracias. Y dile a mí: ¿Qué has hecho? No te ocultes de mí.
+Y dijo Yehoshúa a Acán: Hijo mío, pon, por favor, gloria a Jehová Dios de Israel, y da a él confesión, y anuncia, por favor, a mí qué hiciste; no ocultes de mí.
 
 ### 7:20
 
-Entonces Acaán respondió a Josué y dijo: Cierto, he pecado contra Jehová, el Dios de Israel, y he hecho esto y esto.
+Y respondió Acán a Yehoshúa, y dijo: De cierto, yo pequé a Jehová Dios de Israel, y como esto y como esto hice.
 
 ### 7:21
 
-Y vi entre el botín una túnica de Shinar, una pieza de buena calidad, y doscientos siclos de plata, y una lengua de oro de cincuenta siclos de peso, y me agradaron y los tomé. Y he aquí, están escondidos en tierra, dentro de mi tienda, y la plata debajo de ellos.
+Y vi en el despojo un manto de Shinar bueno, y doscientos siclos de plata, y lengua de oro una, cincuenta siclos su peso, y los codicié y los tomé; y he aquí ellos están escondidos en la tierra en medio de mi tienda, y la plata debajo de ella.
 
 ### 7:22
 
-Y Josué envió mensajeros, y corrieron a la tienda. Y he aquí, estaban escondidos en la tienda, y la plata debajo de ellos.
+Y envió Yehoshúa mensajeros, y corrieron a la tienda; y he aquí escondida en su tienda, y la plata debajo de ella.
 
 ### 7:23
 
-Y tomaron de en medio de la tienda y los llevaron a Josué y a todo Israel. Y los presentaron ante Jehová.
+Y los tomaron de medio de la tienda, y los trajeron a Yehoshúa y a todos hijos de Israel, y los derramaron delante de Jehová.
 
 ### 7:24
 
-Y tomó Josué a Acaán, hijo de Zera, y al dinero, y la túnica, y la lengua de oro, y a sus hijos y a sus hijas, y a su buey, y a su asno, y a su rebaño, y a su tienda, y todo lo que tenía. Y todo Israel con él los subió al valle de Acor.
+Y tomó Yehoshúa a Acán hijo de Zéraj, y a la plata y al manto y a lengua del oro, y a sus hijos y a sus hijas y a su buey y a su asno y a su rebaño y a su tienda y a todo lo que es a él, y todo Israel con él; y los hicieron subir a valle de Ajór.
 
 ### 7:25
 
-Y dijo Josué: ¿Qué has turbado a Israel? Turbará Jehová a ti este día. Y todos los de Israel le apedrearon con piedras y le quemaron con fuego, y le apedrearon con piedras.
+Y dijo Yehoshúa: ¿Qué nos turbaste? Te turbará Jehová en el día este. Y lo apedrearon todo Israel piedra, y los quemaron en el fuego, y los lapidaron con las piedras.
 
 ### 7:26
 
-Y levantaron sobre él una gran pila de piedras que permanece hasta hoy. Y el SEÑOR se apartó de su ira. Por eso se llamó a ese lugar Valle de Acor hasta el día de hoy.
+Y levantaron sobre él montón de piedras grande hasta el día este; y se volvió Jehová del ardor de su nariz. Por eso llamó nombre del lugar aquel valle de Ajór, hasta el día este.
 
 ## Capítulo 8
 
 ### 8:1
 
-Y el SEÑOR dijo a Josué: No temas ni te desanimes. Toma a todo el pueblo de guerra y sube a Ai. He dado en tus manos al rey de Ai, a su pueblo, a su ciudad y a su tierra.
+Y dijo Jehová a Yehoshúa: No temas y no te desmayes; toma contigo a todo pueblo de la batalla, y levántate, sube al Ai; ve, di en tu mano a rey del Ai y a su pueblo y a su ciudad y a su tierra.
 
 ### 8:2
 
-Haz con Ai y con su rey lo que hiciste con Jericó y con su rey, pero puedes tomar para ti el botín y el ganado. Coloca un ejército en acecho detrás de la ciudad.
+Y harás al Ai y a su rey como que hiciste a Yerijó y a su rey; solo su despojo y su bestia saquearán ustedes para ustedes. Pon para ti emboscada a la ciudad desde detrás de ella.
 
 ### 8:3
 
-Y Josué se levantó con todo el pueblo de guerra para subir a Ai. Y escogió a treinta mil hombres valientes y los envió de noche.
+Y se levantó Yehoshúa y todo pueblo de la batalla para subir al Ai; y escogió Yehoshúa treinta mil varón, poderosos del valor, y los envió de noche.
 
 ### 8:4
 
-Les ordenó: Veid que sois los que harán el acecho detrás de la ciudad. No os alejéis de la ciudad muy lejos. Estad todos vosotros dispuestos.
+Y mandó a ellos, diciendo: Vean, ustedes emboscantes a la ciudad desde detrás de la ciudad; no se alejen de la ciudad mucho, y serán todos ustedes preparados.
 
 ### 8:5
 
-Yo y todo el pueblo que estoy conmigo nos acercaremos a la ciudad. Y cuando salgan a enfrentarnos como la primera vez, huirán de nosotros.
+Y yo y todo el pueblo que conmigo nos acercaremos a la ciudad; y será que saldrán a nuestro encuentro como en la primera, y huiremos de faces de ellos.
 
 ### 8:6
 
-Y saldrán tras de nosotros hasta que los hayamos alejado de la ciudad, diciendo: Huyen delante de nosotros como la primera vez, y huirán delante de nosotros.
+Y saldrán detrás de nosotros hasta que los hayamos arrancado de la ciudad, porque dirán: Huyendo delante de nosotros como en la primera; y huiremos de faces de ellos.
 
 ### 8:7
 
-Y vosotros levantaros del acecho y los desalojaréis de la ciudad, porque el SEÑOR, vuestro Dios, os ha entregado la ciudad en sus manos.
+Y ustedes se levantarán desde la emboscada, y tomarán posesión de la ciudad; y la dará Jehová Dios de ustedes en su mano.
 
 ### 8:8
 
-Y cuando toméis la ciudad, la quemaréis, conforme a la palabra del SEÑOR, haréis conforme a lo que os he mandado. Mirad, os he dado ordenanza.
+Y será en su tomar ustedes la ciudad, prenderán la ciudad en el fuego; conforme a palabra de Jehová harán; vean, mandé a ustedes.
 
 ### 8:9
 
-Entonces Josué los envió, y ellos fueron al acecho, y se quedaron entre Betel y Ai, al oeste de Ai. Y Josué pasó aquella noche en medio del pueblo.
+Y los envió Yehoshúa, y anduvieron al emboscado, y se sentaron entre Bet El y entre el Ai, desde el mar al Ai; y pernoctó Yehoshúa en la noche aquella en medio del pueblo.
 
 ### 8:10
 
-Y al amanecer del día siguiente, Josué se levantó y ordenó al pueblo, y él y los ancianos de Israel se presentaron delante del pueblo de Ai.
+Y madrugó Yehoshúa en la mañana, y pasó revista al pueblo, y subió él y ancianos de Israel delante del pueblo al Ai.
 
 ### 8:11
 
-Y todo el ejército que estaba con él subió y se acercó, y llegaron frente a la ciudad, y acamparon al norte de Ai, con el valle entre ellos y Ai.
+Y todo el pueblo de la batalla que con él subieron, y se acercaron y vinieron enfrente de la ciudad, y acamparon desde norte al Ai; y el valle estaba entre él y el Ai.
 
 ### 8:12
 
-Y tomó cinco mil hombres y los puso en acecho entre Betel y Ai, al oeste de la ciudad.
+Y tomó como cinco mil varón, y los puso emboscada entre Bet El y entre el Ai, desde el mar a la ciudad.
 
 ### 8:13
 
-Y el pueblo puso todo el campamento al norte de la ciudad, y el resto de ellos al oeste de la ciudad. Y Josué pasó aquella noche en medio del valle.
+Y pusieron el pueblo a todo el campamento que desde norte a la ciudad, y a su retaguardia desde el mar a la ciudad; y anduvo Yehoshúa en la noche aquella en medio del valle.
 
 ### 8:14
 
-Y cuando el rey de Ai vio esto, se apresuró y salió temprano con todo su pueblo para la guerra, a la cita que les habían dado, sin saber que había un acecho tras de la ciudad.
+Y fue al ver rey del Ai, y se apresuraron y madrugaron y salieron hombres de la ciudad a encuentro de Israel a la batalla, él y todo su pueblo, al tiempo señalado, delante de la arabá; y él no sabía que había emboscada a él desde detrás de la ciudad.
 
 ### 8:15
 
-Y Josué y todo Israel se presentaron delante de ellos, y los persiguieron por el camino del desierto.
+Y fueron heridos Yehoshúa y todo Israel de faces de ellos, y huyeron camino del desierto.
 
 ### 8:16
 
-Y todo el pueblo que estaba en la ciudad se apresuró y salió tras ellos, y los persiguieron a Josué, y se desprendieron de la ciudad.
+Y fue convocado todo el pueblo que para perseguir detrás de ellos, y persiguieron detrás de Yehoshúa, y fueron arrancados de la ciudad.
 
 ### 8:17
 
-Y no quedó ningún hombre en Ai y en Betel que no saliera tras Israel. Y dejaron la ciudad abierta, y los persiguieron a Israel.
+Y no quedó varón en el Ai y Bet El que no salió detrás de Israel; y dejaron la ciudad abierta, y persiguieron detrás de Israel.
 
 ### 8:18
 
-Y el SEÑOR dijo a Josué: Extiende la lanza que tienes en la mano hacia Ai, porque Ai está en tu mano. Y Josué extendió la lanza que tenía en la mano hacia la ciudad.
+Y dijo Jehová a Yehoshúa: Extiende en el dardo que en tu mano hacia el Ai, porque en tu mano lo daré. Y extendió Yehoshúa en el dardo que en su mano hacia la ciudad.
 
 ### 8:19
 
-Y el grupo que estaba escondido se levantó rápidamente desde su lugar y corrió hacia la derecha de Ai. Entraron a la ciudad y la tomaron. Luego prendieron fuego a la ciudad.
+Y la emboscada se levantó pronto de su lugar, y corrieron al extender él su mano, y vinieron a la ciudad y la tomaron, y se apresuraron y prendieron la ciudad en el fuego.
 
 ### 8:20
 
-Y los hombres de Ai se volvieron tras ellos, y al ver que subía el humo de la ciudad al cielo, no pudieron ya huir en ninguna dirección, porque el pueblo que huía hacia el desierto se volvió contra los que los perseguían.
+Y volvieron hombres del Ai detrás de ellos, y vieron, y he aquí subió humo de la ciudad a los cielos, y no hubo en ellos manos para huir hacia acá y hacia allá; y el pueblo el huyente al desierto se volvió hacia el perseguidor.
 
 ### 8:21
 
-Y Josué y todo Israel vieron que el grupo que estaba escondido había tomado la ciudad, y que el humo subía de la ciudad. Entonces se volvieron y los atacaron.
+Y Yehoshúa y todo Israel vieron que tomó la emboscada la ciudad, y que subió humo de la ciudad, y volvieron e hirieron a hombres del Ai.
 
 ### 8:22
 
-Y aquellos que salían de la ciudad para enfrentarse a ellos estaban en medio de Israel, unos de un lado y otros del otro. Y los atacaron hasta que no quedó ninguno que escapara o que quedara con vida.
+Y estos salieron de la ciudad a su encuentro, y fueron a Israel en el medio, estos desde esto y estos desde esto; y los hirieron hasta no dejarle sobreviviente y escapado.
 
 ### 8:23
 
-Y tomaron al rey de Ai vivo y lo llevaron a Josué.
+Y a rey del Ai tomaron vivo, y lo acercaron a Yehoshúa.
 
 ### 8:24
 
-Y cuando Israel terminó de matar a todos los habitantes de Ai que estaban en el campo y en el desierto donde los perseguían, los mataron a todos con la espada hasta que no quedó ninguno que escapara o que quedara con vida. Y toda la gente de Israel regresó a Ai y la mató con la espada.
+Y fue al acabar Israel de matar a todos habitantes del Ai en el campo, en el desierto que los persiguieron en él, y cayeron todos ellos a boca de espada hasta su acabarse; y volvió todo Israel al Ai, y la hirieron a boca de espada.
 
 ### 8:25
 
-Y todos los que cayeron ese día, tanto hombres como mujeres, fueron doce mil, todos los habitantes de Ai.
+Y fueron todos los caídos en el día aquel, desde varón y hasta mujer, doce mil, todos hombres del Ai.
 
 ### 8:26
 
-Y Josué no retiró la mano que había extendido sobre el arco hasta que destruyó a todos los habitantes de Ai.
+Y Yehoshúa no volvió su mano que extendió en el dardo, hasta que hizo anatema a todos habitantes del Ai.
 
 ### 8:27
 
-Sólo el ganado y el botín de la ciudad los israelitas tomaron para sí, como había ordenado el Señor a Josué.
+Solo la bestia y despojo de la ciudad aquella saquearon para ellos Israel, conforme a palabra de Jehová que mandó a Yehoshúa.
 
 ### 8:28
 
-Y Josué quemó Ai y la hizo un montón de ruinas para siempre, hasta el día de hoy.
+Y quemó Yehoshúa al Ai, y lo puso túmulo de siempre, desolación, hasta el día este.
 
 ### 8:29
 
-Y colgó al rey de Ai en un árbol hasta la hora de la tarde. Y cuando el sol se puso, Josué ordenó que lo bajaran del árbol y lo arrojaron a la entrada de la puerta de la ciudad y levantaron sobre él una gran pila de piedras, hasta el día de hoy.
+Y a rey del Ai colgó sobre el árbol hasta tiempo de la tarde; y al entrar el sol mandó Yehoshúa, y bajaron su cadáver del árbol, y lo echaron a abertura de puerta de la ciudad, y levantaron sobre él montón de piedras grande hasta el día este.
 
 ### 8:30
 
-Entonces Josué construyó un altar al SEÑOR, el Dios de Israel, en el monte Ebal.
+Entonces edificó Yehoshúa altar a Jehová Dios de Israel en monte Eyval,
 
 ### 8:31
 
-Como Moisés, el siervo del SEÑOR, lo había ordenado a los israelitas conforme al libro de la ley de Moisés, un altar de piedras enteras, sobre las cuales no se había levantado hacha, y subieron sobre él ofrendas de holocausto al SEÑOR, y sacrificaron ofrendas de paz.
+como que mandó Moisés siervo de Jehová a hijos de Israel, como lo escrito en rollo de torá de Moisés, altar de piedras íntegras que no ondeó sobre ellas hierro; y alzaron sobre él holocaustos a Jehová, y sacrificaron pazes.
 
 ### 8:32
 
-Y allí escribió sobre las piedras, conforme a la copia de la ley de Moisés, que había escrito delante de los israelitas.
+Y escribió allí sobre las piedras el duplicado de torá de Moisés que escribió delante de hijos de Israel.
 
 ### 8:33
 
-Y todo Israel, con los ancianos, los oficiales, los jueces, estaban de pie, de un lado y de otro del arca, frente a los sacerdotes levitas que llevaban el arca del pacto del SEÑOR, los extranjeros y los nativos, la mitad de ellos al lado del monte Gerizim y la otra mitad al lado del monte Ebal, conforme a lo que Moisés, el siervo del SEÑOR, había ordenado para bendecir al pueblo de Israel en primer lugar.
+Y todo Israel y sus ancianos y oficiales y sus jueces parados desde esto y desde esto al arca, enfrente de los sacerdotes los levitas alzantes de arca de pacto de Jehová, como el peregrino como el natural; su mitad hacia frente de monte Gerizim, y su mitad hacia frente de monte Eyval, como que mandó Moisés siervo de Jehová para bendecir al pueblo Israel en la primera.
 
 ### 8:34
 
-Y después leyó todas las palabras de la ley, la bendición y la maldición, conforme a lo que estaba escrito en el libro de la ley.
+Y después de así leyó todas palabras de la torá, la bendición y la maldición, conforme a todo lo escrito en rollo de la torá.
 
 ### 8:35
 
-No hubo cosa de todo lo que Moisés había ordenado que Josué no leyera delante de toda la congregación de Israel, y de las mujeres y de los niños, y de los extranjeros que andaban en medio de ellos.
+No hubo palabra de todo lo que mandó Moisés que no leyó Yehoshúa enfrente de toda asamblea de Israel, y las mujeres y el pequeño y el peregrino el andante en medio de ellos.
 
 ## Capítulo 9
 
 ### 9:1
 
-Y cuando los reyes que estaban al otro lado del Jordán, en el monte y en la llanura, y en toda la costa del gran mar, al lado del Líbano, oyeron, los hititas, los amorreos, los cananeos, los perizitas, los heveos y los jebuseos;
+Y fue al oír todos los reyes que en éver del Jordán, en el monte y en la shefelá y en toda costa del mar el grande hacia frente del Lebanón, el hitita y el amorreo, el cananeo, el ferezeo, el heveo y el jebuseo,
 
 ### 9:2
 
-se juntaron para hacer guerra contra Josué y contra Israel, con una boca.
+y se reunieron juntos para pelear con Yehoshúa y con Israel, boca una.
 
 ### 9:3
 
-Y los de Gibeón oyeron lo que había hecho Josué para Jericó y para Ai.
+Y los habitantes de Givón oyeron lo que hizo Yehoshúa a Yerijó y al Ai,
 
 ### 9:4
 
-Y también ellos hicieron astucia y fueron y se disfrazaron como viajeros, y tomaron sacos viejos para sus asnos, y pan viejo y agrietado y roto.
+y también ellos hicieron con astucia, y anduvieron y se aprovisionaron, y tomaron sacos gastados para sus asnos, y odres de vino gastados y rotos y atados,
 
 ### 9:5
 
-Y sandalias desgastadas y rotas en los pies, y vestidos viejos y agrietados sobre ellos, y todo el pan de su provisión estaba seco y agrietado.
+y sandalias gastadas y remendadas en sus pies, y vestidos gastados sobre ellos, y todo pan de su provisión seco había sido, mohoso.
 
 ### 9:6
 
-Y fueron a Josué al campamento de Gilgal y dijeron a él y a los israelitas: “Venimos de una tierra lejana, ahora pues, haced con nosotros un pacto.”
+Y anduvieron a Yehoshúa, al campamento en el Gilgal, y dijeron a él y a varón de Israel: Desde tierra lejana hemos venido; y ahora, corten a nosotros pacto.
 
 ### 9:7
 
-Y dijo todo Israel a los de Hiv: ¿Acaso habitan entre nosotros? ¿Cómo te haremos pacto?
+Y dijo varón de Israel al heveo: Quizá en medio de mí tú eres habitante, y ¿cómo cortaré a ti pacto?
 
 ### 9:8
 
-Y dijeron a Josué: Somos tus siervos. Y dijo Josué a ellos: ¿Quiénes sois y de dónde venís?
+Y dijeron a Yehoshúa: Tus siervos somos nosotros. Y dijo a ellos Yehoshúa: ¿Quiénes ustedes, y de dónde vienen?
 
 ### 9:9
 
-Y dijeron a él: De una tierra muy lejana hemos venido, tus siervos, por el nombre de Jehová, nuestro Dios, porque habíamos oído de todo lo que había hecho por Egipto;
+Y dijeron a él: Desde tierra lejana mucho han venido tus siervos por nombre de Jehová tu Dios, porque oímos su fama, y todo lo que hizo en Mizraim,
 
 ### 9:10
 
-y de todo lo que había hecho a los dos reyes de los amorreos que estaban al otro lado del Jordán, a Sehon, rey de Hesbón, y a Og, rey de Basán, que estaba en Ashtarot;
+y todo lo que hizo a dos reyes del amorreo que en éver del Jordán, a Sihón rey de Jeshbón y a Og rey del Basán, que en Ashtarot.
 
 ### 9:11
 
-y dijeron a nosotros, a nuestros ancianos y a todo el habitante de nuestra tierra, diciendo: Tomad provisiones para el camino, y id a recibir a ellos, y decidle: Somos vuestros siervos, y ahora haced con nosotros un pacto.
+Y dijeron a nosotros nuestros ancianos y todos los habitantes de nuestra tierra, diciendo: Tomen en su mano provisión para el camino, y anden a su encuentro, y digan a ellos: Sus siervos somos nosotros, y ahora, corten a nosotros pacto.
 
 ### 9:12
 
-Este es nuestro pan caliente que hicimos ayer en nuestras casas cuando salimos para venir a vosotros, y he aquí está seco y agrietado.
+Este es nuestro pan: caliente nos aprovisionamos de él desde nuestras casas en día de nuestro salir para andar a ustedes; y ahora, he aquí seco, y ha sido mohoso.
 
 ### 9:13
 
-Y éstos son los odres de vino que llenamos, y he aquí están rotos; y éstos son nuestros vestidos y nuestros calzados están desgastados por el mucho camino.
+Y estos odres del vino que llenamos nuevos, y he aquí se han roto; y estos nuestros vestidos y nuestras sandalias se gastaron desde abundancia del camino mucho.
 
 ### 9:14
 
-Y tomaron provisiones de sus manos, pero no consultaron a Jehová.
+Y tomaron los hombres de su provisión, y a boca de Jehová no preguntaron.
 
 ### 9:15
 
-Y hizo Josué paz con ellos y les hizo un pacto para que vivieran; y jura la asamblea a ellos.
+Y hizo a ellos Yehoshúa paz, y cortó a ellos pacto para hacerlos vivir, y juraron a ellos príncipes de la congregación.
 
 ### 9:16
 
-Y pasados tres días después que les hicieron el pacto, se enteraron de que estaban cerca de ellos y vivían en medio de ellos.
+Y fue al cabo de tres días después de que cortaron a ellos pacto, y oyeron que cercanos eran ellos a él, y en medio de él ellos habitantes.
 
 ### 9:17
 
-Y los hijos de Israel se marcharon al tercer día y llegaron a sus ciudades, a Gibeón y a Chephirah y a Beeroth y a Kiriath-jearim.
+Y partieron hijos de Israel, y vinieron a sus ciudades en el día el tercero; y sus ciudades: Givón y ha-Kefirá y Beerot y Qiryat Yearim.
 
 ### 9:18
 
-Y no los mataron los hijos de Israel, porque habían jurado a ellos por Jehová, Dios de Israel; y se quejó toda la asamblea contra los ancianos.
+Y no los hirieron hijos de Israel, porque juraron a ellos príncipes de la congregación en Jehová Dios de Israel; y murmuró toda la congregación sobre los príncipes.
 
 ### 9:19
 
-Y dijeron todos los ancianos a toda la asamblea: Nosotros hemos jurado a ellos por Jehová, Dios de Israel, y no podemos tocarlos.
+Y dijeron todos los príncipes a toda la congregación: Nosotros juramos a ellos en Jehová Dios de Israel, y ahora no podemos tocar en ellos.
 
 ### 9:20
 
-Así lo haremos con ellos, y los mantendremos vivos, para que no haya sobre nosotros ira por el juramento que hemos jurado a ellos.
+Esto haremos a ellos, y hacer vivir a ellos, y no será sobre nosotros ira sobre el juramento que juramos a ellos.
 
 ### 9:21
 
-Y dijeron a ellos los ancianos: Vivirán. Y cortarán leña y sacarán agua para toda la asamblea, como los ancianos les habían hablado.
+Y dijeron a ellos los príncipes: Vivirán. Y fueron cortadores de leños y aguadores de agua para toda la congregación, como que hablaron a ellos los príncipes.
 
 ### 9:22
 
-Y llamó a ellos Josué y habló a ellos, diciendo: ¿Por qué nos engañasteis, diciendo: Lejos estamos de vosotros, y en medio de vosotros habitamos?
+Y llamó a ellos Yehoshúa, y habló a ellos, diciendo: ¿Por qué engañaron a nosotros, diciendo: Lejanos nosotros de ustedes mucho, y ustedes en medio de nosotros habitantes?
 
 ### 9:23
 
-Y ahora, malditos sois, y no será esclavo de vosotros, cortador de leña ni sacador de agua para la casa de mi Dios.
+Y ahora, malditos ustedes, y no será cortado de ustedes siervo y cortadores de leños y aguadores de agua para casa de mi Dios.
 
 ### 9:24
 
-Y respondieron a Josué, diciendo: Porque se nos había dicho lo que Jehová, Dios de vosotros, mandó a Moisés, su siervo, para daros toda la tierra y para destruir a todos los que habitan en la tierra delante de vosotros, y nos temimos mucho por nuestras vidas delante de vosotros, y hicimos este negocio.
+Y respondieron a Yehoshúa y dijeron: Porque siendo declarado se declaró a tus siervos lo que mandó Jehová tu Dios a Moisés su siervo, para dar a ustedes toda la tierra y para destruir a todos los habitantes de la tierra de delante de ustedes; y temimos mucho por nuestras almas de delante de ustedes, e hicimos la palabra esta.
 
 ### 9:25
 
-Y ahora, he aquí estamos en vuestras manos, como es bueno y recto en vuestros ojos, haced con nosotros.
+Y ahora, he aquí nosotros en tu mano; como lo bueno y como lo recto en tus ojos para hacer a nosotros, haz.
 
 ### 9:26
 
-Y los hizo así, y los libró de mano de los hijos de Israel, y no los mataron.
+Y hizo a ellos así, y los libró de mano de hijos de Israel, y no los mataron.
 
 ### 9:27
 
-Y los hizo Josué aquel día cortadores de leña y sacadores de agua para la asamblea, y para el altar de Jehová hasta el día de hoy, al lugar que él escogiere.
+Y los dio Yehoshúa en el día aquel cortadores de leños y aguadores de agua para la congregación y para altar de Jehová, hasta el día este, al lugar que escogerá.
 
 ## Capítulo 10
 
 ### 10:1
 
-Y cuando Adoni-zedec, rey de Jerusalén, oyó que Josué había tomado a Hai y la había destruido, como había hecho a Jericó y a su rey, así hizo a Hai y a su rey, y que los habitantes de Gibeón habían hecho paz con Israel y estaban en medio de ellos.
+Y fue al oír Adoni-Tsédeq, rey de Yerushaláyim, que tomó Yehoshúa al Ai y la hizo anatema, como que hizo a Yerijó y a su rey, así hizo al Ai y a su rey, y que hicieron paz los habitantes de Givón con Israel y fueron en medio de ellos,
 
 ### 10:2
 
-Y tuvieron mucho temor, porque Gibeón era una gran ciudad, como una de las ciudades reales, y era mayor que Hai, y todos los hombres de valor estaban en ella.
+y temieron mucho, porque ciudad grande era Givón, como una de ciudades del reino, y porque ella era grande más que el Ai, y todos sus hombres valientes.
 
 ### 10:3
 
-Y envió Adoni-zedec, rey de Jerusalén, a Hoham, rey de Hebrón, y a Piram, rey de Jarmut, y a Japhia, rey de Lajís, y a Debir, rey de Eglón, diciendo:
+Y envió Adoni-Tsédeq, rey de Yerushaláyim, a Hofam, rey de Jebrón, y a Piram, rey de Yarmut, y a Yafia, rey de Lakhish, y a Debir, rey de Eglón, diciendo:
 
 ### 10:4
 
-Ven a mí y ayúdame, y derrotaremos a Gibeón, porque han hecho una alianza con Josué y con los israelitas.
+Suban a mí y ayúdenme, e hiramos a Givón, porque hizo paz con Yehoshúa y con hijos de Israel.
 
 ### 10:5
 
-Entonces se reunieron cinco reyes amonitas: el rey de Jerusalén, el rey de Hebrón, el rey de Jarmut, el rey de Lakís y el rey de Eglón, y marcharon con todos sus ejércitos hacia Gibeón, y acamparon alrededor de la ciudad y la atacaron.
+Y se reunieron y subieron cinco reyes del amorreo, rey de Yerushaláyim, rey de Jebrón, rey de Yarmut, rey de Lakhish, rey de Eglón, ellos y todos sus campamentos, y acamparon sobre Givón, y pelearon sobre ella.
 
 ### 10:6
 
-Entonces los habitantes de Gibeón enviaron a Josué en el campamento de Gilgal, diciendo: “No te demores en venir a nosotros, porque todos los reyes de los amorreos que viven en las montañas han venido contra nosotros”.
+Y enviaron hombres de Givón a Yehoshúa, al campamento al Gilgal, diciendo: No aflojes tus manos de tus siervos; sube a nosotros pronto, y salva a nosotros, y ayúdanos, porque se han reunido a nosotros todos los reyes del amorreo, habitantes del monte.
 
 ### 10:7
 
-Entonces Josué subió de Gilgal, él y todo el pueblo de guerra con él, y todos los valientes.
+Y subió Yehoshúa desde el Gilgal, él y todo pueblo de la guerra con él, y todos los valientes de la fuerza.
 
 ### 10:8
 
-Y el SEÑOR dijo a Josué: “No temas a ellos, porque yo los he entregado en tus manos. Ninguno de ellos podrá resistirte”.
+Y dijo Jehová a Yehoshúa: No temas de ellos, porque en tu mano los he dado; no se parará varón de ellos delante de tus faces.
 
 ### 10:9
 
-Entonces Josué se acercó a ellos de improviso, toda la noche, subiendo desde Gilgal.
+Y vino a ellos Yehoshúa de repente; toda la noche subió desde el Gilgal.
 
 ### 10:10
 
-Y el SEÑOR los confundió delante de Israel, y los derrotó con gran fuerza en Gibeón. Y los persiguió por el camino que sube a Bet-Horón y los derrotó hasta Azeca y Maquedah.
+Y los confundió Jehová delante de Israel, y los hirió herida grande en Givón, y los persiguió camino de subida de Bet Jorón, y los hirió hasta Azeká y hasta Makkedá.
 
 ### 10:11
 
-Y mientras huían delante de Israel, el SEÑOR arrojó sobre ellos grandes piedras del cielo en Bet-Horón, y muchos murieron por las piedras de granizo; más murieron los israelitas con la espada.
+Y fue en su huir ellos de delante de Israel, ellos en la bajada de Bet Jorón, y Jehová arrojó sobre ellos piedras grandes desde los cielos hasta Azeká, y murieron; muchos los que murieron en piedras del granizo más que los que mataron hijos de Israel a espada.
 
 ### 10:12
 
-Entonces Josué habló al SEÑOR en el día que el SEÑOR entregó a los amorreos delante de los israelitas, y dijo delante de Israel: “¡Sol, detente sobre Gibeón! ¡Y luna, en el valle de Ajalom!”.
+Entonces habló Yehoshúa a Jehová en día de dar Jehová al amorreo delante de hijos de Israel, y dijo a ojos de Israel: Sol en Givón, calla, y luna en valle de Ayalón.
 
 ### 10:13
 
-Y el sol se detuvo y la luna se quedó quieta hasta que el pueblo se vengó de sus enemigos. ¿No está escrito en el libro de la rectitud? El sol se detuvo en medio del cielo y no apresuró su salida, como un día completo.
+Y calló el sol, y luna se paró, hasta que se vengó la nación de sus enemigos. ¿No está ella escrita sobre libro del Yashar? Y se paró el sol en mitad de los cielos, y no se apresuró a entrar como día entero.
 
 ### 10:14
 
-No hubo día como este, antes ni después, para que el SEÑOR escuchara la voz de un hombre, porque el SEÑOR peleó por Israel.
+Y no fue como el día aquel delante de él y detrás de él, para oír Jehová en voz de varón, porque Jehová peleaba por Israel.
 
 ### 10:15
 
-Entonces Josué y todo Israel volvieron al campamento de Gilgal.
+Y volvió Yehoshúa y todo Israel con él al campamento al Gilgal.
 
 ### 10:16
 
-Se escaparon esos cinco reyes y se escondieron en una cueva en Makeda.
+Y huyeron cinco los reyes estos, y se escondieron en la cueva en Makkedá.
 
 ### 10:17
 
-Se informó a Josué: 'Han sido encontrados los cinco reyes escondidos en una cueva en Makeda.'
+Y fue declarado a Yehoshúa, diciendo: Han sido hallados cinco los reyes, escondidos en la cueva en Makkedá.
 
 ### 10:18
 
-Josué dijo: 'Rocíen grandes piedras en la boca de la cueva y pongan hombres para guardarlos.'
+Y dijo Yehoshúa: Rueden piedras grandes a boca de la cueva, y pongan sobre ella hombres para guardarlos.
 
 ### 10:19
 
-No se detengan, persigan a sus enemigos y derrotalos. No los dejen entrar en sus ciudades, porque los he dado en vuestras manos, SEÑOR, vuestro Dios.'
+Y ustedes, no se paren; persigan detrás de sus enemigos, y atacen la retaguardia de ellos; no los den a entrar a sus ciudades, porque los ha dado Jehová Dios de ustedes en su mano.
 
 ### 10:20
 
-Cuando Josué y los israelitas terminaron de golpearlos con gran golpe hasta que no quedó ninguno, los que quedaban huyeron a las ciudades fortificadas.
+Y fue al acabar Yehoshúa e hijos de Israel de herirlos herida grande mucho, hasta acabarlos, y los sobrevivientes sobrevivieron de ellos y entraron a ciudades del fuerte,
 
 ### 10:21
 
-Todos los hombres regresaron al campamento a Josué en Makeda en paz; no se quejó ninguno de los israelitas.
+y volvió todo el pueblo al campamento, a Yehoshúa, Makkedá, en paz; no afiló a hijos de Israel, a varón, su lengua.
 
 ### 10:22
 
-Josué dijo: 'Abran la boca de la cueva y traigan a mí a esos cinco reyes.'
+Y dijo Yehoshúa: Abran boca de la cueva, y saquen a mí a cinco los reyes estos desde la cueva.
 
 ### 10:23
 
-Así lo hicieron, y sacaron a esos cinco reyes de la cueva: al rey de Jerusalén, al rey de Hebrón, al rey de Jarmut, al rey de Lajís y al rey de Eglón.
+Y hicieron así, y sacaron a él a cinco los reyes estos desde la cueva: al rey de Yerushaláyim, al rey de Jebrón, al rey de Yarmut, al rey de Lakhish, al rey de Eglón.
 
 ### 10:24
 
-Cuando sacaron a esos reyes a Josué, Josué llamó a todos los israelitas y les dijo a los jefes de los soldados: 'Acérquense a ellos. Colóquenles los pies en el cuello de esos reyes.' Y se acercaron y colocaron sus pies en el cuello de esos reyes.
+Y fue al sacar ellos a los reyes estos a Yehoshúa, y llamó Yehoshúa a todo varón de Israel, y dijo a jefes de hombres de la guerra los andantes con él: Acérquense, pongan sus pies sobre cuellos de los reyes estos. Y se acercaron, y pusieron sus pies sobre sus cuellos.
 
 ### 10:25
 
-Josué les dijo: 'No teman ni se asusten. Sean fuertes y valientes, porque así hará el SEÑOR a todos vuestros enemigos que luchan contra ustedes.'
+Y dijo a ellos Yehoshúa: No teman y no se acobarden; fortalézcanse y esfuércense, porque así hará Jehová a todos sus enemigos a los que ustedes pelean con ellos.
 
 ### 10:26
 
-Después Josué los golpeó y los mató, y los ahorcó en cinco árboles. Estuvieron ahorcados en los árboles hasta la tarde.
+Y los hirió Yehoshúa después de así, y los mató, y los colgó sobre cinco árboles; y fueron colgados sobre los árboles hasta la tarde.
 
 ### 10:27
 
-Cuando llegó el sol, Josué ordenó que los bajaran de los árboles y los arrojaron en la cueva donde se habían escondido, y colocaron grandes piedras en la boca de la cueva, que permanecen hasta hoy.
+Y fue a tiempo de entrar el sol, mandó Yehoshúa, y los bajaron de sobre los árboles, y los arrojaron a la cueva donde se escondieron allí, y pusieron piedras grandes sobre boca de la cueva, hasta este mismo día.
 
 ### 10:28
 
-Y Josué capturó a Makedá en ese día, la golpeó con la espada, y destruyó a su rey, a él y a toda persona que en ella había; no dejó sobreviviente. Y a la reina de Makedá hizo lo que había hecho a la reina de Jericó.
+Y a Makkedá tomó Yehoshúa en el día aquel, y la hirió a boca de espada, y a su rey; hizo anatema a ellos y a toda alma que en ella; no dejó sobreviviente. Y hizo a rey de Makkedá como que hizo a rey de Yerijó.
 
 ### 10:29
 
-Y Josué y todo Israel con él pasaron de Makedá a Libna, y lucharon contra Libna.
+Y pasó Yehoshúa y todo Israel con él desde Makkedá a Libná, y peleó con Libná.
 
 ### 10:30
 
-Y el SEÑOR entregó también a esta ciudad en manos de Israel, y a su rey; lo golpeó con la espada, y a toda persona que en ella había; no dejó sobreviviente. Y al rey de Libna hizo lo que había hecho al rey de Jericó.
+Y dio Jehová también a ella en mano de Israel, y a su rey, y la hirió a boca de espada, y a toda alma que en ella; no dejó en ella sobreviviente. Y hizo a su rey como que hizo a rey de Yerijó.
 
 ### 10:31
 
-Y Josué y todo Israel con él pasaron de Libna a Lajís, acamparon contra ella y lucharon contra ella.
+Y pasó Yehoshúa y todo Israel con él desde Libná a Lakhish, y acampó sobre ella, y peleó en ella.
 
 ### 10:32
 
-Y el SEÑOR entregó a Lajís en manos de Israel, y la capturaron al segundo día, la golpearon con la espada, y a toda persona que en ella había; como había hecho a Libna.
+Y dio Jehová a Lakhish en mano de Israel, y la tomó en el día el segundo, y la hirió a boca de espada, y a toda alma que en ella, conforme a todo lo que hizo a Libná.
 
 ### 10:33
 
-Entonces subió Horam, rey de Gezer, para ayudar a Lajís, pero Josué y su pueblo lo golpearon hasta no dejar sobreviviente.
+Entonces subió Horam, rey de Gézer, para ayudar a Lakhish, y lo hirió Yehoshúa y a su pueblo, hasta no dejarle a él sobreviviente.
 
 ### 10:34
 
-Y Josué y todo Israel con él pasaron de Lajís a Ajlon, acamparon contra ella y lucharon contra ella.
+Y pasó Yehoshúa y todo Israel con él desde Lakhish a Eglón, y acamparon sobre ella, y pelearon sobre ella.
 
 ### 10:35
 
-Y la capturaron en ese día, la golpearon con la espada, y a toda persona que en ella había; en ese día la destruyeron, como había hecho a Lajís.
+Y la tomaron en el día aquel, y la hirieron a boca de espada, y a toda alma que en ella en el día aquel hizo anatema, conforme a todo lo que hizo a Lakhish.
 
 ### 10:36
 
-Y subió Josué y todo Israel con él de Ajlon a Hebrón, y lucharon contra ella.
+Y subió Yehoshúa y todo Israel con él desde Eglón a Jebrón, y pelearon sobre ella.
 
 ### 10:37
 
-Y la capturaron, la golpearon con la espada, y a su rey, y a todas sus ciudades, y a toda persona que en ella había; no dejó sobreviviente, como había hecho a Ajlon. Y la destruyó, y a toda persona que en ella había.
+Y la tomaron, y la hirieron a boca de espada, y a su rey y a todas sus ciudades y a toda alma que en ella; no dejó sobreviviente, conforme a todo lo que hizo a Eglón. Y la hizo anatema, y a toda alma que en ella.
 
 ### 10:38
 
-Y Josué y todo Israel con él se establecieron en Debir, y lucharon contra ella.
+Y volvió Yehoshúa y todo Israel con él a Debir, y peleó sobre ella.
 
 ### 10:39
 
-Y la capturaron, a su rey, y a todas sus ciudades, la golpearon con la espada, y destruyeron a toda persona que en ella había; no dejó sobreviviente, como había hecho a Hebrón. Así hizo a Debir y a su rey, como había hecho a Libna y a su rey.
+Y la tomó, y a su rey y a todas sus ciudades, y los hirieron a boca de espada, y hicieron anatema a toda alma que en ella; no dejó sobreviviente. Como que hizo a Jebrón, así hizo a Debir y a su rey, y como que hizo a Libná y a su rey.
 
 ### 10:40
 
-Y Josué y todo Israel con él golpearon toda la tierra, la montaña, el Neguev, la llanura, y las regiones de Asdod, y a todos sus reyes; no dejó sobreviviente, como había hecho a Hebrón. Así hizo a Debir y a su rey, como había hecho a Libna y a su rey.
+Y hirió Yehoshúa a toda la tierra, el monte y el Néguev y la shefelá y las ashedot, y a todos sus reyes; no dejó sobreviviente, y a toda respiración hizo anatema, como que mandó Jehová Dios de Israel.
 
 ### 10:41
 
-Y Josué los golpeó desde Quades Barnea hasta Azah, y a toda la tierra de Gosén hasta Gibeón.
+Y los hirió Yehoshúa desde Qadesh Barnéa y hasta Azá, y a toda tierra de Gosén y hasta Givón.
 
 ### 10:42
 
-Y a todos estos reyes y a sus tierras los capturó Josué de una vez, porque Jehová, el Dios de Israel, luchó por Israel.
+Y a todos los reyes estos y a su tierra tomó Yehoshúa de una vez, porque Jehová Dios de Israel peleaba por Israel.
 
 ### 10:43
 
-Y Josué y todo Israel con él se establecieron en el campamento de Gilgal.
+Y volvió Yehoshúa y todo Israel con él al campamento al Gilgal.
 
 ## Capítulo 11
 
 ### 11:1
 
-Y cuando Yabín, rey de Hazor, oyó esto, envió a Jobab, rey de Madón, y a rey de Semeron, y a rey de Acshaf.
+Y fue al oír Yavin, rey de Hatsor, y envió a Yovav, rey de Madón, y a rey de Shimrón, y a rey de Akhshaf,
 
 ### 11:2
 
-Y a los reyes del norte, en la montaña, y en la llanura del sur, y en las ciudades de la llanura, y en las naves de Dor al mar.
+y a los reyes que desde el norte en el monte y en la arabá sur de Kinrot y en la shefelá y en nafot de Dor desde el mar,
 
 ### 11:3
 
-A los cananeos del este y del mar, y a los amorreos, y a los hititas, y a los perizitas, y a los yebuseos en la montaña, y a los heveos bajo Hermon, en la tierra de Mispa.
+el cananeo desde oriente y desde el mar, y el amorreo y el hitita y el ferezeo y el jebuseo en el monte, y el heveo debajo de Hermón, en tierra de ha-Mitspeh.
 
 ### 11:4
 
-Y salieron ellos y todos sus ejércitos con ellos, un pueblo numeroso como el polvo en la costa del mar, y caballos y carros en gran número.
+Y salieron ellos y todos sus campamentos con ellos, pueblo abundante como la arena que sobre labio del mar a muchedumbre, y caballo y carro abundante mucho.
 
 ### 11:5
 
-Y se reunieron todos estos reyes y vinieron y acamparon juntos en las aguas de Merom para luchar contra Israel.
+Y se concertaron todos los reyes estos, y vinieron y acamparon juntos a aguas de Merom, para pelear con Israel.
 
 ### 11:6
 
-Y Jehová dijo a Josué: No temas de ellos, porque mañana a esta hora los entregaré todos muertos delante de Israel. A sus caballos atarás y a sus carros quemarás con fuego.
+Y dijo Jehová a Yehoshúa: No temas de delante de ellos, porque mañana como el tiempo este yo dando a todos ellos heridos delante de Israel; a sus caballos desjarretarás, y a sus carros quemarás en el fuego.
 
 ### 11:7
 
-Y vino Josué y todo el pueblo de guerra con él sobre ellos de improviso en las aguas de Merom.
+Y vino Yehoshúa y todo pueblo de la guerra con él sobre ellos sobre aguas de Merom de repente, y cayeron en ellos.
 
 ### 11:8
 
-Y Jehová los entregó en manos de Israel, y los golpearon y los persiguieron hasta Sidón, hasta Misrefot Mayim, y hasta la llanura de Mispa al este; y los golpearon hasta que no quedó sobreviviente.
+Y los dio Jehová en mano de Israel, y los hirieron, y los persiguieron hasta Tsidón la grande, y hasta Misrefot Mayim, y hasta biqá de Mitspeh hacia oriente, y los hirieron hasta no dejarles a ellos sobreviviente.
 
 ### 11:9
 
-Y Josué les hizo como el Señor le había dicho: deshizo los caballos y quemó las carretas con fuego.
+Y hizo a ellos Yehoshúa como que dijo a él Jehová: a sus caballos desjarretó, y a sus carros quemó en el fuego.
 
 ### 11:10
 
-Entonces Josué regresó en aquel tiempo y tomó a Hazor, y mató al rey de ella con la espada, porque Hazor era la cabeza de todos los reinos.
+Y volvió Yehoshúa en el tiempo aquel, y tomó a Hatsor, y a su rey hirió a espada, porque Hatsor de antes era ella cabeza de todos los reinos estos.
 
 ### 11:11
 
-Y mataron a todos los que en ella había, según la espada del exterminio; no quedó nadie con vida, y quemaron Hazor con fuego.
+Y hirieron a toda alma que en ella a boca de espada, el anatema; no quedó toda respiración; y a Hatsor quemó en el fuego.
 
 ### 11:12
 
-Y tomó a todas las ciudades de los reyes y a todos sus reyes, y los mató según la espada del exterminio, como el Señor había ordenado a Moisés, siervo de Jehová.
+Y a todas ciudades de los reyes estos y a todos sus reyes tomó Yehoshúa, y los hirió a boca de espada; hizo anatema a ellos, como que mandó Moisés, siervo de Jehová.
 
 ### 11:13
 
-Pero todas las ciudades que estaban sobre montículos no las quemaron los hijos de Israel, sino Hazor, que Josué quemó.
+Solo todas las ciudades las paradas sobre su montículo no las quemó Israel, excepto a Hatsor sola; la quemó Yehoshúa.
 
 ### 11:14
 
-Y todo el botín de las ciudades y el ganado, tomaron los hijos de Israel como despojo para sí; pero a todos los hombres los mataron con la espada, hasta que los exterminaron, no dejaron a nadie con vida.
+Y todo despojo de las ciudades estas y la bestia saquearon para sí hijos de Israel; solo a todo el hombre hirieron a boca de espada hasta destruirlos a ellos; no dejaron toda respiración.
 
 ### 11:15
 
-Como Jehová había ordenado a Moisés, así Moisés había ordenado a Josué, y así Josué había hecho; no omitió nada de lo que Jehová había ordenado a Moisés.
+Como que mandó Jehová a Moisés su siervo, así mandó Moisés a Yehoshúa, y así hizo Yehoshúa; no apartó palabra de todo lo que mandó Jehová a Moisés.
 
 ### 11:16
 
-Y tomó Josué toda esta tierra: el monte y toda la llanura al sur y toda la tierra de Guesen y la llanura y la arboleda y el monte de Israel y su llanura.
+Y tomó Yehoshúa a toda la tierra esta: el monte, y a todo el Néguev, y a toda tierra de ha-Gosén, y a la shefelá, y a la arabá, y a monte de Israel y su shefelá,
 
 ### 11:17
 
-Desde el monte Halac que sube hacia Seir hasta Baal Gader, en la llanura de Lbnon debajo del monte Hermon, y a todos sus reyes los tomó y los mató.
+desde el monte ha-Jaláq el que sube a Seír, y hasta Baal Gad en biqá del Lebanón debajo de monte Hermón; y a todos sus reyes tomó, y los hirió, y los mató.
 
 ### 11:18
 
-Mucho tiempo hizo Josué guerra con todos esos reyes.
+Días muchos hizo Yehoshúa con todos los reyes estos guerra.
 
 ### 11:19
 
-No hubo ciudad que se rindiera a los hijos de Israel, sino a los de Gibeón, que vivían en ella, a ellos tomaron en la guerra.
+No hubo ciudad que hiciera paz a hijos de Israel, excepto el heveo, habitantes de Givón; a todo tomaron en la guerra.
 
 ### 11:20
 
-Porque Jehová quiso que se endurecieran sus corazones para venir a la guerra contra Israel, para que fueran exterminados, como Jehová había ordenado a Moisés.
+Porque de parte de Jehová fue para fortalecer su corazón a encontrar la guerra con Israel, a fin de hacerlos anatema, para no ser a ellos súplica, porque a fin de destruirlos, como que mandó Jehová a Moisés.
 
 ### 11:21
 
-Y en aquel tiempo Josué cortó a los anacim del monte, desde Hebrón, desde Debir, desde Anab, y desde todo el monte de Judá y todo el monte de Israel, con sus ciudades, las destruyó Josué.
+Y vino Yehoshúa en el tiempo aquel, y cortó a los anaquim desde el monte, desde Jebrón, desde Debir, desde Anav, y desde todo monte de Yehudá y desde todo monte de Israel; con sus ciudades los hizo anatema Yehoshúa.
 
 ### 11:22
 
-No quedaron anacim en la tierra de los hijos de Israel; solo quedaron en Gaza, en Gat y en Asdod.
+No quedó anaquim en tierra de hijos de Israel; solo en Azá, en Gat y en Ashdod quedaron.
 
 ### 11:23
 
-Y Josué tomó toda la tierra, conforme a lo que Jehová había hablado a Moisés, y la dio por herencia a Israel conforme a sus divisiones, a sus tribus, y la tierra se calmó de la guerra.
+Y tomó Yehoshúa a toda la tierra, conforme a todo lo que habló Jehová a Moisés, y la dio Yehoshúa a heredad a Israel conforme a sus repartos a sus tribus. Y la tierra reposó de guerra.
 
 ## Capítulo 12
 
 ### 12:1
 
-Y estos fueron los reyes de la tierra que los hijos de Israel vencieron y tomaron su tierra al otro lado del Jordán, al oriente del sol, desde el torrente de Arnon hasta el monte Hermon, y toda la llanura al oriente.
+Y estos son los reyes de la tierra que hirieron hijos de Israel, y poseyeron su tierra en éver del Jordán hacia oriente del sol, desde torrente Arnón hasta monte Hermón, y toda la arabá hacia oriente:
 
 ### 12:2
 
-Señor de los amorreos que habitaba en Hesbón, Señor de Aror, que está sobre el borde del torrente de Arnon, y en medio del torrente, y la mitad de la tierra de Galaad, y hasta el torrente de Jaboc, límite de los hijos de Amón.
+Sihón, rey del amorreo, el que habitaba en Jeshbón, dominando desde Aroer que sobre labio de torrente Arnón, y medio del torrente, y mitad del Gilad, y hasta Yaboq el torrente, límite de hijos de Amón,
 
 ### 12:3
 
-Y la llanura hasta el mar de Tiberiades al oriente, y hasta el mar de la llanura, el mar de Sal, al oriente, por el camino de Betjesimot, y del sur, bajo las colinas de Pisga.
+y la arabá hasta mar de Kinrot hacia oriente, y hasta mar de la arabá, mar de la sal, hacia oriente, camino de Bet Hayeshimot, y desde el sur debajo de ashedot de la Pisgá.
 
 ### 12:4
 
-Y el límite de Og, rey de Basán, de los refaim que habitaba en Ashtarot y en Edrei.
+Y límite de Og, rey del Basán, del resto de los refaím, el que habitaba en Ashtarot y en Edrei,
 
 ### 12:5
 
-Y señor del monte Hermon, y de Saleca, y de toda Basán, hasta el límite de los geshuritas y de los maacatitas, y la mitad de la tierra de Galaad, límite de Sehon, rey de Hesbón.
+y dominando en monte Hermón y en Salcá y en todo el Basán, hasta límite del gueshurí y del maacatí, y mitad del Gilad, límite de Sihón, rey de Jeshbón.
 
 ### 12:6
 
-Moisés, siervo de Jehová, y los hijos de Israel los vencieron, y Moisés, siervo de Jehová, dio por herencia a Rubén, a Gad y a la mitad de la tribu de Manasés.
+Moisés, siervo de Jehová, e hijos de Israel los hirieron; y la dio Moisés, siervo de Jehová, a posesión al reuvéní y al gadí y a la mitad de tribu de Menashé.
 
 ### 12:7
 
-Y estos fueron los reyes de la tierra que Josué y los hijos de Israel vencieron al otro lado del Jordán, al occidente, desde Baalgad en el valle de Lebano hasta el monte Halac que sube a Seir, y Josué dio por herencia a las tribus de Israel conforme a sus divisiones.
+Y estos son los reyes de la tierra que hirió Yehoshúa e hijos de Israel en éver del Jordán hacia el mar, desde Baal Gad en biqá del Lebanón y hasta el monte ha-Jaláq el que sube a Seír; y la dio Yehoshúa a tribus de Israel a posesión conforme a sus repartos,
 
 ### 12:8
 
-En el monte, en la llanura, en la llanura, en las colinas, en el desierto, en el Neguev, los hititas, los amorreos, los cananeos, los perizitas, los heveos y los jebuseos.
+en el monte y en la shefelá y en la arabá y en las ashedot y en el desierto y en el Néguev: el hitita, el amorreo y el cananeo, el ferezeo, el heveo y el jebuseo:
 
 ### 12:9
 
-Un rey de Jericó, un rey de Ai, que está al lado de Betel.
+rey de Yerijó, uno; rey del Ai que al lado de Bet El, uno;
 
 ### 12:10
 
-Un rey de Jerusalén, un rey de Hebrom.
+rey de Yerushaláyim, uno; rey de Jebrón, uno;
 
 ### 12:11
 
-Un rey de Yarmut, un rey de Lakish.
+rey de Yarmut, uno; rey de Lakhish, uno;
 
 ### 12:12
 
-Un rey de Eglón, un rey de Gezer.
+rey de Eglón, uno; rey de Gézer, uno;
 
 ### 12:13
 
-Un rey de Debir, un rey de Gedera.
+rey de Debir, uno; rey de Géder, uno;
 
 ### 12:14
 
-Un rey de Harmá, un rey de Arad.
+rey de Hormá, uno; rey de Arad, uno;
 
 ### 12:15
 
-Un rey de Libna, un rey de Adulam.
+rey de Libná, uno; rey de Adulam, uno;
 
 ### 12:16
 
-Un rey de Maquedá, un rey de Betel.
+rey de Makkedá, uno; rey de Bet El, uno;
 
 ### 12:17
 
-Un rey de Tafúch, un rey de Chefer.
+rey de Tapúaj, uno; rey de Héfer, uno;
 
 ### 12:18
 
-Un rey de Afek, un rey de Sharon.
+rey de Afek, uno; rey de Lasharón, uno;
 
 ### 12:19
 
-Un rey de Madón, un rey de Hatsor.
+rey de Madón, uno; rey de Hatsor, uno;
 
 ### 12:20
 
-Un rey de Shemerón, un rey de Achsaf.
+rey de Shimron Merón, uno; rey de Akhshaf, uno;
 
 ### 12:21
 
-Un rey de Taánec, un rey de Meguido.
+rey de Taanak, uno; rey de Meguidó, uno;
 
 ### 12:22
 
-Un rey de Quedesh, un rey de Yaqneam para Carmel.
+rey de Qedesh, uno; rey de Yoqneam al Carmelo, uno;
 
 ### 12:23
 
-Un rey de Dor para Nafat-Dor, un rey de Goyim para Gilgal.
+rey de Dor a nafat de Dor, uno; rey de goyim a Gilgal, uno;
 
 ### 12:24
 
-Un rey de Tirtza, todos los reyes treinta y uno.
+rey de Tirtsá, uno; todos los reyes treinta y uno.
 
 ## Capítulo 13
 
 ### 13:1
 
-Y Josué envejeció y llegó a los días, y el SEÑOR me dijo: Tú envejeciste y llegaste a los días, y la tierra queda muy grande para ser poseída.
+Y Yehoshúa envejeció, vino en los días; y dijo Jehová a él: Tú envejeciste, viniste en los días, y la tierra quedó mucha muy para poseerla.
 
 ### 13:2
 
-Esta es la tierra que queda: todas las regiones de los filisteos y toda la región de los geshurita.
+Esta la tierra la restante: todos los circuitos de los pelishtim y todo el gueshurí;
 
 ### 13:3
 
-Desde el Shihor que está al frente de Egipto hasta el límite de Acor al norte, para los cananeos, se considera cinco jefes de filisteos: el jefe de Azot, el jefe de Asdod, el jefe de Ascalón, el jefe de Gat y el jefe de Acor.
+desde el Shijor que sobre faces de Mizraim, y hasta límite de Ecrón hacia norte; al cananeo es contada; cinco señores de pelishtim: el azatí y el ashdodí, el ashqueloní, el guití y el ecroní, y los Avim;
 
 ### 13:4
 
-Al sur toda la tierra de los cananeos y desde la montaña de los sidonios hasta Aphek, hasta el límite de los amorreos.
+desde el sur, toda tierra del cananeo, y Meará que a los tsidonios, hasta Afeca, hasta límite del amorreo;
 
 ### 13:5
 
-Y la tierra de los gileadita y toda la montaña de Líbano desde el amanecer hasta Baal-Gad, bajo el monte Hermon, hasta el límite de Hamat.
+y la tierra del guiblí, y todo el Lebanón hacia salida del sol, desde Baal Gad bajo monte Hermón hasta Lebo Hamat;
 
 ### 13:6
 
-Todos los que habitan la montaña desde Líbano hasta Misrefet aguas, todos los sidonios, los expulsaré de delante de los hijos de Israel, pero los dividiré a los hijos de Israel como heredad, como me ordenaste.
+todos los habitantes del monte desde el Lebanón hasta Misrefot Mayim, todos tsidonios: yo los desalojaré de faces de hijos de Israel; solo hazla caer a Israel en heredad, como que te mandé.
 
 ### 13:7
 
-Y ahora, divide esta tierra como heredad a los nueve tribus y a la mitad de la tribu de Manasés.
+Y ahora, reparte la tierra esta en heredad a los nueve de las tribus y mitad de la tribu de Menashé.
 
 ### 13:8
 
-Con ellos, el rubenita y el gadez, tomaron su heredad que Moisés les dio al otro lado del Jordán al este, como Moisés, siervo del SEÑOR, les dio.
+Con él el reuvéní y el gadí tomaron su heredad que dio a ellos Moisés en éver del Jordán hacia oriente, como que dio a ellos Moisés, siervo de Jehová:
 
 ### 13:9
 
-Desde Aroer que está al borde del torrente Arnon, y la ciudad que está en medio del torrente, y toda la llanura de Mejea hasta Dibón.
+desde Aroer que sobre labio de torrente Arnón, y la ciudad que en medio del torrente, y todo el mishor Medevá hasta Divón;
 
 ### 13:10
 
-Todas las ciudades del rey Sehón de los amorreos, que reinó en Jazrén, hasta el límite de los hijos de Amón.
+y todas ciudades de Sihón, rey del amorreo, que reinó en Jeshbón, hasta límite de hijos de Amón;
 
 ### 13:11
 
-Y Galaad y el límite de los geshurita y maacate, y todo el monte Hermon, y toda la región de Basán hasta Saleca.
+y el Gilad y límite del gueshurí y del maacatí, y todo monte Hermón, y todo el Basán hasta Salcá;
 
 ### 13:12
 
-Todo el reino de Og en Basán, que reinó en Astarot y en Edrei, el cual quedó de los refaim, y Moisés lo derrotó y lo desplazó.
+todo reino de Og en el Basán, que reinó en Ashtarot y en Edrei; él quedó del resto de los refaím; y los hirió Moisés y los desalojó.
 
 ### 13:13
 
-Y no desplazaron a los hijos de Israel a los geshurita y a los maacate, y vivieron geshurita y maacate en medio de los hijos de Israel hasta el día de hoy.
+Y no desalojaron hijos de Israel al gueshurí y al maacatí; y habitó Gueshur y Maacat en medio de Israel hasta el día este.
 
 ### 13:14
 
-Sólo a la tribu de Leví no le dio posesión, porque las ofrendas del SEÑOR, el Dios de Israel, son su posesión, como él les habló.
+Solo a tribu del levita no dio heredad; ofrendas de fuego de Jehová Dios de Israel, él su heredad, como que habló a él.
 
 ### 13:15
 
-Y Moisés dio a la tribu de los hijos de Rubén según sus familias.
+Y dio Moisés a vara de hijos de Reuvén según sus clanes.
 
 ### 13:16
 
-Y les fue por límite desde Aroer que está al borde del torrente Arnon, y la ciudad que está en medio del torrente, y toda la llanura hasta Medeba.
+Y fue a ellos el límite desde Aroer que sobre labio de torrente Arnón, y la ciudad que en medio del torrente, y todo el mishor sobre Medevá;
 
 ### 13:17
 
-Jasor y todas las ciudades del llano, Dibón y las alturas de Bala y Bet Bala Meón.
+Jeshbón y todas sus ciudades que en el mishor: Divón y Bamot Baal y Bet Baal Meón,
 
 ### 13:18
 
-Y Jahzá y Kedemot y Mefaat.
+y Yahtsá y Qedemot y Mefaat,
 
 ### 13:19
 
-Y Queriataim y Sebam y Zeret Sajar en la montaña de Emec.
+y Qiryatáyim y Sivmá y Tzéret ha-Shájar en monte del valle,
 
 ### 13:20
 
-Y Bet Peor y las llanuras de Pisga y Bet Yeshimot.
+y Bet Peor y Ashdot ha-Pisgá y Bet ha-Yeshimot,
 
 ### 13:21
 
-Y todas las ciudades del llano y todo el reino de Sehón, rey de los amorreos, que reinó en Jazrén, al cual Moisés derrotó y a los príncipes de Midián, a Evi y a Rekem y a Sur y a Hur y a Reba, príncipes de Sehón, habitantes de la tierra.
+y todas ciudades del mishor, y todo reino de Sihón, rey del amorreo, que reinó en Jeshbón, a quien hirió Moisés a él y a los príncipes de Midián: a Eví y a Reqem y a Tsur y a Jur y a Réva, vasallos de Sihón, habitantes de la tierra.
 
 ### 13:22
 
-Y a Balaam hijo de Beor, el adivino, mataron los hijos de Israel a espada junto con los muertos.
+Y a Bilam hijo de Beor, el adivinante, mataron hijos de Israel a espada, hacia sus heridos.
 
 ### 13:23
 
-Y la frontera de los hijos de Reuben era el Jordán y su frontera. Esta es la heredad de los hijos de Reuben según sus familias, las ciudades y sus aldeas.
+Y fue límite de hijos de Reuvén el Jordán y límite. Esta heredad de hijos de Reuvén según sus clanes: las ciudades y sus aldeas.
 
 ### 13:24
 
-Y Moisés dio a la tribu de Gad a los hijos de Gad según sus familias.
+Y dio Moisés a vara de Gad, a hijos de Gad según sus clanes.
 
 ### 13:25
 
-Y su frontera era Yazer y todas las ciudades de Galaad y la mitad de la tierra de los hijos de Amón hasta Aroer, que está al frente de Rabá.
+Y fue a ellos el límite: Yazér y todas ciudades del Gilad, y mitad de tierra de hijos de Amón, hasta Aroer que sobre faces de Rabá;
 
 ### 13:26
 
-Y desde Chesbón hasta Ramath Mispeh y Betonim, y desde Mahanaim hasta la frontera de Debir.
+y desde Jeshbón hasta Ramat ha-Mitspé y Betonim, y desde Majanáyim hasta límite de Lidvir;
 
 ### 13:27
 
-Y en el valle, Bet Ram y Bet Nemra y Soco y Zareda, el resto del reino de Sihón, rey de los amorreos, en el Jordán y su frontera, hasta el extremo del mar de Tiberiades al este del Jordán.
+y en el valle: Bet Haram y Bet Nimrá y Sucot y Tzafón, resto de reino de Sihón, rey de Jeshbón; el Jordán y límite, hasta extremo de mar Kinéret, éver del Jordán hacia oriente.
 
 ### 13:28
 
-Esta es la heredad de los hijos de Gad según sus familias, las ciudades y sus aldeas.
+Esta heredad de hijos de Gad según sus clanes: las ciudades y sus aldeas.
 
 ### 13:29
 
-Y Moisés dio la mitad de la tribu de Manasés a la mitad de la tribu de Manasés según sus familias.
+Y dio Moisés a la mitad de tribu de Menashé; y fue a la mitad de vara de hijos de Menashé según sus clanes.
 
 ### 13:30
 
-Y su frontera era desde Mahanaim toda la Bashán, toda la realeza de Og, rey de Bashán, y todas las ciudades de Jair en Bashán, sesenta ciudades.
+Y fue su límite desde Majanáyim: todo el Basán, todo reino de Og, rey del Basán, y todas Javot Yair que en el Basán, sesenta ciudad;
 
 ### 13:31
 
-Y la mitad de la Galaad y Ashtarot y Edrei, ciudades del reino de Og en Bashán, a los hijos de Makir, hijo de Manasés, a la mitad de los hijos de Makir según sus familias.
+y mitad del Gilad, y Ashtarot y Edrei, ciudades de reino de Og en el Basán, a hijos de Makir hijo de Menashé, a la mitad de hijos de Makir según sus clanes.
 
 ### 13:32
 
-Estas son las heredades que Moisés dio en las llanuras de Moab al otro lado del Jordán, al oriente de Jericó.
+Estas son las que hizo heredar Moisés en arabot de Moab, desde éver al Jordán de Yerijó hacia oriente.
 
 ### 13:33
 
-Y a la tribu de Leví no dio Moisés heredad; Jehová, el Dios de Israel, es su heredad, como él les había hablado.
+Y a tribu del levita no dio Moisés heredad; Jehová Dios de Israel, él su heredad, como que habló a ellos.
 
 ## Capítulo 14
 
 ### 14:1
 
-Estas son las heredades que heredaron los hijos de Israel en la tierra de Canaán, que les heredaron Eleazar el sacerdote, Josué hijo de Nun y los jefes de las tribus de los hijos de Israel.
+Y estas son las que heredaron hijos de Israel en tierra de Canaán, que les hicieron heredar Elazar el sacerdote y Yehoshúa hijo de Nun y cabezas de padres de las varas a hijos de Israel.
 
 ### 14:2
 
-Por sorteo heredaron sus heredades, como el Señor había ordenado a través de Moisés, a las nueve tribus y a la mitad de la tribu.
+Por suerte su heredad, como que mandó Jehová por mano de Moisés, a los nueve de las varas y mitad de la vara.
 
 ### 14:3
 
-Porque Moisés había dado heredad a las dos tribus y a la mitad de la tribu más allá del Jordán, pero a los levitas no les dio heredad en medio de ellos.
+Porque dio Moisés heredad de las dos varas y mitad de la vara desde éver al Jordán; y a los levitas no dio heredad en medio de ellos.
 
 ### 14:4
 
-Porque los hijos de José eran dos tribus, Manasés y Efraín, y no dieron heredad a los levitas en la tierra, sino ciudades para habitar y sus campos para sus ganados y para sus bienes.
+Porque fueron hijos de Yosef dos varas: Menashé y Efráyim; y no dieron porción a los levitas en la tierra, sino ciudades para habitar, y sus ejidos para su ganado y para su posesión.
 
 ### 14:5
 
-Como el Señor había ordenado a Moisés, así hicieron los hijos de Israel, y repartieron la tierra.
+Como que mandó Jehová a Moisés, así hicieron hijos de Israel, y repartieron la tierra.
 
 ### 14:6
 
-Entonces se acercaron los hijos de Judá a Josué en Gilgal, y Caleb hijo de Jefuné, el quenita, le dijo: Como sabes lo que el Señor Dios de Israel había dicho a Moisés acerca de mí y de ti en Quiriat Arba, que es Hebrón.
+Y se acercaron hijos de Yehudá a Yehoshúa en el Gilgal, y dijo a él Calev hijo de Yefuné el quenizí: Tú conoces la palabra que habló Jehová a Moisés, hombre de Dios, acerca de mí y acerca de ti en Qadesh Barnéa.
 
 ### 14:7
 
-Cuarenta años tenía yo cuando Moisés, siervo del Señor, me envió desde Quiriat Arba, que es Hebrón, para recorrer la tierra, y guardé lo que estaba en mi corazón.
+Hijo de cuarenta año yo en el enviar Moisés, siervo de Jehová, a mí desde Qadesh Barnéa para espiar la tierra, y le traje palabra como que con mi corazón.
 
 ### 14:8
 
-Y mis hermanos que subieron conmigo hicieron desfallecer el corazón del pueblo, pero yo seguí al Señor mi Dios.
+Y mis hermanos que subieron conmigo derritieron el corazón del pueblo, y yo llené detrás de Jehová mi Dios.
 
 ### 14:9
 
-Y juró Moisés aquel día, diciendo: Si no es la tierra que tus pies han recorrido, será tuya y de tus hijos para siempre, porque has seguido al Señor tu Dios.
+Y juró Moisés en el día aquel, diciendo: Si no la tierra que pisó tu pie en ella, a ti será por heredad y a tus hijos hasta siempre, porque llenaste detrás de Jehová mi Dios.
 
 ### 14:10
 
-Y ahora, he aquí que el Señor me ha mantenido con vida, como lo había dicho, cuarenta y cinco años desde aquel día que el Señor había hablado a Moisés, mientras Israel andaba por el desierto, y ahora he aquí que hoy tengo ochenta y cinco años.
+Y ahora, he aquí, vivificó Jehová a mí como que habló; estos cuarenta y cinco año desde entonces que habló Jehová la palabra esta a Moisés, cuando anduvo Israel en el desierto; y ahora, he aquí yo hoy hijo de cinco y ochenta año.
 
 ### 14:11
 
-Mi fuerza hoy es como la fuerza que tenía cuando Moisés me envió, tanto entonces como ahora, para la guerra y para salir y entrar.
+Aún yo hoy soy fuerte como en el día de enviar a mí Moisés; como mi fuerza entonces y como mi fuerza ahora, para la guerra y para salir y para entrar.
 
 ### 14:12
 
-Ahora, danme tú esta montaña que el Señor habló aquel día, porque escuchaste en aquel día que había gigantes allí y ciudades grandes con muros altos, tal vez el Señor estará conmigo y los echaré, como el Señor había dicho.
+Y ahora, dame el monte este que habló Jehová en el día aquel, porque tú oíste en el día aquel que anaquim allí, y ciudades grandes fortificadas; quizás Jehová conmigo, y los desalojaré como que habló Jehová.
 
 ### 14:13
 
-Y Josué lo bendijo y le dio Hebrón a Caleb hijo de Jefuné como heredad.
+Y lo bendijo Yehoshúa, y dio a Hevrón a Calev hijo de Yefuné por heredad.
 
 ### 14:14
 
-Por eso Hebrón pertenece a Caleb hijo de Jefuné el quenizita como heredad hasta el día de hoy, porque había cumplido con el SEÑOR, el Dios de Israel.
+Por tanto fue Hevrón a Calev hijo de Yefuné el quenizí por heredad hasta el día este, porque llenó detrás de Jehová Dios de Israel.
 
 ### 14:15
 
-Y el nombre de Hebrón antes era Quiriat Arba, porque Arba era un hombre grande entre los anacim, y entonces la tierra estaba en paz.
+Y nombre de Hevrón antes: Qiryat Arbá; el hombre el grande en los anaquim él. Y la tierra reposó de guerra.
 
 ## Capítulo 15
 
 ### 15:1
 
-Y el sorteo fue para la tribu de los hijos de Judá según sus familias, hacia el límite de Edom, al sur del desierto de Zin, al sur.
+Y fue la suerte a vara de hijos de Yehudá según sus clanes, hacia límite de Edom, desierto de Tzin hacia el Néguev, desde extremo del sur.
 
 ### 15:2
 
-Y su límite al sur era desde el mar salado, desde la punta del lago que mira al sur.
+Y fue a ellos límite del Néguev desde extremo de mar de la sal, desde la lengua la que mira hacia el Néguev.
 
 ### 15:3
 
-Y saldrá al sur al este de Acrobim, y pasará por Zin, y subirá al sur hasta Kadesh-barnea, y subirá hasta Hezor, y subirá a Adar, y rodeará la tierra.
+Y salió hacia el sur a Maalé Aqrabim, y pasó a Tzin, y subió desde el sur a Qadesh Barnéa, y pasó Jetsrón, y subió Adará, y rodeó a Qarqá;
 
 ### 15:4
 
-Y pasará por Azmon, y saldrá el torrente de Egipto, y será su límite al oeste. Este será para ustedes el límite al sur.
+y pasó a Atsmón, y salió a torrente de Mizraim; y salidas del límite hacia el mar. Este será a ustedes límite del Néguev.
 
 ### 15:5
 
-Y su límite al este será el mar salado, hasta el extremo del río Jordán. Y su límite al norte será desde el lago salado hasta el extremo del río Jordán.
+Y límite hacia oriente: mar de la sal hasta extremo del Jordán. Y límite hacia lado del norte desde lengua del mar, desde extremo del Jordán.
 
 ### 15:6
 
-Y subirá el límite desde Bet-Hagla al norte hasta Bet-Araba, y subirá el límite a Eben-Eser, hijo de Reuben.
+Y subió el límite a Bet Joglá, y pasó desde el norte a Bet ha-Arabá, y subió el límite a Piedra de Bohan hijo de Reuvén.
 
 ### 15:7
 
-Y subirá el límite desde Debir al este del valle de Acor, y mirará hacia el norte a Gilgal, que está al norte de la cima de Adumim, que está al sur del torrente, y pasará el límite hasta las aguas de Ensimés, y sus salidas serán hasta Enrogel.
+Y subió el límite a Devir desde valle de Acor, y hacia el norte mirando al Gilgal que enfrente de Maalé Adumim, que desde el sur al torrente; y pasó el límite a aguas de Ein Shémesh, y fueron sus salidas a Ein Roguel.
 
 ### 15:8
 
-Y subirá el límite desde el valle de Ben-Hinom al sur del monte de Jerusalén, y subirá el límite al norte del monte de Jerusalén, hasta el extremo del valle de Ben-Hinom al oeste, al extremo del valle de Refaim al norte.
+Y subió el límite por valle de Ben Hinom al hombro del jebuseo desde el sur; ella Yerushaláim; y subió el límite a cabeza del monte que sobre faces de valle de Hinom hacia el mar, que en extremo de valle de Refaím hacia el norte.
 
 ### 15:9
 
-Y el límite subirá desde el extremo del monte al pozo de las aguas de Nephtoa, y saldrá a las ciudades de la montaña de Efraim, y el límite subirá a Betel, que es Quiriat-Jearim.
+Y se trazó el límite desde cabeza del monte a manantial de aguas de Neftóaj, y salió a ciudades de monte Efrón; y se trazó el límite a Baalá; ella Qiryat Yearim.
 
 ### 15:10
 
-Y el límite subirá desde Baala al sur del monte Seir, y pasará al norte del monte de la Selah, que es Quislon, y bajará a Bet Semes, y pasará a Timna.
+Y rodeó el límite desde Baalá hacia el mar a monte Seír, y pasó al hombro de monte Yearim desde el norte; ella Khesalón; y bajó a Bet Shémesh, y pasó Timná.
 
 ### 15:11
 
-Y el límite saldrá a la costa de Ekron al norte, y el límite se extenderá a Secarona, y pasará el monte de Baala, y saldrá a Iabneel, y las salidas del límite serán al sur.
+Y salió el límite al hombro de Ecrón hacia el norte; y se trazó el límite a Shikrón, y pasó monte de la Baalá, y salió Yavneel; y fueron salidas del límite hacia el mar.
 
 ### 15:12
 
-Y el límite del mar al sur, y este es el límite de los hijos de Judá alrededor de sus familias.
+Y límite del mar: el mar el grande y límite. Este límite de hijos de Yehudá alrededor según sus clanes.
 
 ### 15:13
 
-Y a Caleb, hijo de Jepuné, dio una porción entre los hijos de Judá, según la palabra de Jehová a Josué, la ciudad de Arba, padre de los Anacim, que es Hebrón.
+Y a Calev hijo de Yefuné dio porción en medio de hijos de Yehudá según boca de Jehová a Yehoshúa: Qiryat Arbá, padre del Anaq; ella Hevrón.
 
 ### 15:14
 
-Y Caleb echó de allí a tres hijos de Anac: a Sesai, a Ahiman y a Talmai, hijos de Anac.
+Y desalojó de allí Calev a tres hijos del Anaq: a Sheshai y a Ajiman y a Talmai, nacidos del Anaq.
 
 ### 15:15
 
-Y subió de allí a los habitantes de Debir. Y el nombre de Debir antes era Cadés.
+Y subió de allí a habitantes de Devir; y nombre de Devir antes: Qiryat Séfer.
 
 ### 15:16
 
-Y dijo Caleb: El que conquiste a Cadés y la toma, le daré a mi hija Acasa por mujer.
+Y dijo Calev: Quien hiera a Qiryat Séfer y la tome, y daré a él a Aksá mi hija por mujer.
 
 ### 15:17
 
-Y conquistóla Othniel, hijo de Quenaz, hermano de Caleb, y le dio a su hija Acasa por mujer.
+Y la tomó Otnel hijo de Qenaz, hermano de Calev; y le dio a Aksá su hija por mujer.
 
 ### 15:18
 
-Y cuando ella vino, le instó a que le pidiera tierra a su padre. Y se deslizó de su asno, y Caleb le dijo: ¿Qué quieres?
+Y fue en su venir ella, y lo impulsó a pedir de con su padre campo; y se bajó de sobre el asno, y dijo a ella Calev: ¿Qué a ti?
 
 ### 15:19
 
-Y ella dijo: Dádmelo un regalo, porque la tierra del sur me has dado. Y darás a mí también pozos de agua. Y le dio pozos de aguas superiores y pozos de aguas inferiores.
+Y dijo: Dame bendición, porque tierra del Néguev me diste, y dame pozos de aguas. Y le dio los pozos superiores y los pozos inferiores.
 
 ### 15:20
 
-Esto es la heredad de la tribu de los hijos de Judá según sus familias.
+Esta heredad de vara de hijos de Yehudá según sus clanes.
 
 ### 15:21
 
-Y las ciudades de la tribu de los hijos de Judá, desde el extremo del sur hasta el límite de Edom al sur, fueron Cadés, Edera y Jaugur.
+Y fueron las ciudades desde extremo a vara de hijos de Yehudá hacia límite de Edom en el Néguev: Qavtseel y Éder y Yagur,
 
 ### 15:22
 
-Y Quinah y Dimonah y Adadah.
+y Qiná y Dimóná y Adadá,
 
 ### 15:23
 
-Y Quedesh y Hatsor y Jitenan.
+y Qédesh y Hatsor y Yitnán,
 
 ### 15:24
 
-Zif y Telém y Baalot.
+Zif y Télem y Bealot,
 
 ### 15:25
 
-Y Hatsor Hadatá y Queriot, Hatsor es Hetser.
+y Hatsor Jadattá y Qeriyot Jetsrón; ella Hatsor,
 
 ### 15:26
 
-Amam y Semá y Moladá.
+Amam y Shemá y Moladá,
 
 ### 15:27
 
-Y Hatsar Gadá y Chesmon y Bet Pelat.
+y Hatsar Gadá y Jeshmon y Bet Pélet,
 
 ### 15:28
 
-Y Hatsar Shual y Ber Seba y Bizotyah.
+y Hatsar Shual y Beer Sheva y Bizyotyá,
 
 ### 15:29
 
-Baalah y Eiím y Asem.
+Baalá y Iyim y Étsem,
 
 ### 15:30
 
-Y Eltolad y Kesil y Harmá.
+y Eltolad y Kesil y Jormá,
 
 ### 15:31
 
-Y Tsiklag y Madmaná y Sansaná.
+y Tsiqlag y Madmaná y Sansaná,
 
 ### 15:32
 
-Y Lebóat y Shilhim y Aín y Rimón, todas las ciudades veintinueve y sus aldeas.
+y Levaot y Shiljim y Ayin y Rimón; todas ciudades veinte y nueve, y sus aldeas.
 
 ### 15:33
 
-En la llanura, Eshthaol y Tsareá y Asna.
+En la shefelá: Eshtaol y Tsorá y Ashná,
 
 ### 15:34
 
-Y Zanoah y Eyn Ganim, Tapuah y Eynam.
+y Zanoaj y Ein Ganim, Tapúaj y ha-Enam,
 
 ### 15:35
 
-Yermuta y Adulam, Socoh y Azekah.
+Yarmut y Adulam, Soco y Azecá,
 
 ### 15:36
 
-Y Shaaraim y Aditaim, y Gedera y Gederotaim, ciudades catorce con sus alquerías.
+y Shaaráyim y Aditáyim y ha-Guederá y Guederotáyim; ciudades catorce, y sus aldeas.
 
 ### 15:37
 
-Zenan y Hadasha, y Migdal Gad.
+Tsenán y Jadáshá y Migdal Gad,
 
 ### 15:38
 
-Y Dilan y Metsefe y Yeqteiel.
+y Dilán y ha-Mitspé y Yoqteel,
 
 ### 15:39
 
-Lachish y Bozkat y Eglon.
+Lajish y Botsqat y Eglón,
 
 ### 15:40
 
-Y Kabon y Lahmas y Kethlis.
+y Cabón y Lajmás y Kitlish,
 
 ### 15:41
 
-Y Gederot, Bet Dagon, Naama y Makedah, ciudades seis con sus alquerías.
+y Guederot, Bet Dagón y Naamá y Maquedá; ciudades dieciséis, y sus aldeas.
 
 ### 15:42
 
-Libna y Eter y Asan.
+Livná y Éter y Ashán,
 
 ### 15:43
 
-Y Yiftah y Ashnah y Netib.
+y Yiftaj y Ashná y Netsiv,
 
 ### 15:44
 
-Y Keilah y Akzib y Maaresh, ciudades nueve con sus alquerías.
+y Qeilá y Acziv y Maresá; ciudades nueve, y sus aldeas.
 
 ### 15:45
 
-Ekron y sus hijas y sus alquerías.
+Ecrón y sus hijas y sus aldeas;
 
 ### 15:46
 
-Desde Ekron hasta Yam, todo lo que está junto a Asdod y sus alquerías.
+desde Ecrón y hacia el mar, todo lo que sobre mano de Ashdod, y sus aldeas;
 
 ### 15:47
 
-Asdod y sus hijas y sus alquerías, Azza y sus hijas y sus alquerías, desde el río de Egipto hasta el mar y hasta la frontera.
+Ashdod, sus hijas y sus aldeas; Azá, sus hijas y sus aldeas, hasta torrente de Mizraim, y el mar y límite.
 
 ### 15:48
 
-Y en la montaña, Shimrón, Yatir y Socoh.
+Y en el monte: Shamir y Yatír y Soco,
 
 ### 15:49
 
-Y Dan y Quiriat-sehanah, que es Debir.
+y Daná y Qiryat Saná; ella Devir,
 
 ### 15:50
 
-Y Anab, y Estemoa, y Anim.
+y Anav y Eshtemó y Anim,
 
 ### 15:51
 
-Y Gosén, y Holón, y Gilo, ciudades una y diez con sus alquerías.
+y Goshén y Jolón y Guiló; ciudades once, y sus aldeas.
 
 ### 15:52
 
-Arab, y Romé, y Asem.
+Arav y Rumá y Eshan,
 
 ### 15:53
 
-Y Janoah, y Bet-tappuah, y Aphekah.
+y Bet Tapúaj y Afecá,
 
 ### 15:54
 
-Y Humtah, y Quiriat-arba, que es Hebrón, y Saanah, ciudades nueve con sus alquerías.
+y Jumtá y Qiryat Arbá; ella Hevrón; y Tsior; ciudades nueve, y sus aldeas.
 
 ### 15:55
 
-Maon, Carmel, y Ziph.
+Maón, Carmel y Zif y Yutá,
 
 ### 15:56
 
-Y Jezreel, y Jokdeam, y Zanoah.
+y Yizreel y Yoqdeam y Zanoaj,
 
 ### 15:57
 
-Kain, Geba y Timna, ciudades diez con sus alquerías.
+ha-Qayin, Guivá y Timná; ciudades diez, y sus aldeas.
 
 ### 15:58
 
-Halchul, Bet Zur y Gedora.
+Jaljul, Bet Tsur y Guedor,
 
 ### 15:59
 
-Maarat, Bet Anot y Eltekon, ciudades seis con sus alquerías.
+y Maarát y Bet Anot y Elteqón; ciudades seis, y sus aldeas.
 
 ### 15:60
 
-Kiriath Baal, que es Kiriath Yearim, y Rabba, ciudades dos con sus alquerías.
+Qiryat Baal; ella Qiryat Yearim; y ha-Rabá; ciudades dos, y sus aldeas.
 
 ### 15:61
 
-En el desierto, Bet Arabá, Midin y Secaca.
+En el desierto: Bet ha-Arabá, Midín y Secacá,
 
 ### 15:62
 
-Nabso, la ciudad de la sal y En Gedi, ciudades seis con sus alquerías.
+y ha-Nivshán y Ir ha-Mélaj y Ein Guedí; ciudades seis, y sus aldeas.
 
 ### 15:63
 
-Y a los yebuseos que habitaban en Jerusalén no pudieron los hijos de Judá expulsarlos, y los yebuseos habitaron con los hijos de Judá en Jerusalén hasta el día de hoy.
+Y al jebuseo, habitantes de Yerushaláim, no hijos de Yehudá para desalojarlos; y habitó el jebuseo con hijos de Yehudá en Yerushaláim hasta el día este.
 
 ## Capítulo 16
 
 ### 16:1
 
-Y salió el sorteo para los hijos de José desde el Jordán, al oriente de Jericó, hasta el desierto que sube desde Jericó hacia Betel.
+Y salió la suerte a hijos de Yosef desde el Jordán de Yerijó, a aguas de Yerijó hacia oriente, el desierto subiendo desde Yerijó en el monte a Bet El.
 
 ### 16:2
 
-Y salió desde Betel a Luz, que es Betel, y pasó al límite de los arquitas hasta Atarot.
+Y salió desde Bet El a Luz, y pasó a límite del arquí, Atarot.
 
 ### 16:3
 
-Y descendió al sur hasta el límite de los jafletitas, hasta el límite de Bet Horon inferior y hasta Gezer, y sus salidas al sur.
+Y bajó hacia el mar a límite del yafléti, hasta límite de Bet Jorón el inferior, y hasta Guézer; y fueron hacia el mar.
 
 ### 16:4
 
-Y heredaron los hijos de José, Manasés y Efraín.
+Y heredaron hijos de Yosef: Menashé y Efráyim.
 
 ### 16:5
 
-Y fue el límite de los hijos de Efraín según sus familias, y fue el límite de su heredad al oriente, desde Atarot Adar hasta Bet Horon superior.
+Y fue límite de hijos de Efráyim según sus clanes; y fue límite de su heredad hacia oriente: Atrot Adar hasta Bet Jorón el superior.
 
 ### 16:6
 
-Y salió el límite al sur desde el monte Carmelo, y rodeó el límite al este de Taanat Selim, y pasó por él al este de Jenuca.
+Y salió el límite hacia el mar: ha-Micmetat desde el norte; y rodeó el límite hacia oriente a Taanat Shiló, y pasó por él desde oriente a Yanója.
 
 ### 16:7
 
-Y descendió desde Janoah a Atarot y Naarat, y tocó a Jericó, y salió al río Jordán.
+Y bajó desde Yanója a Atarot y Naaratá, y topó en Yerijó, y salió al Jordán.
 
 ### 16:8
 
-Desde Tafach, el límite va al sur por el valle de Quena, y sus salidas son al sur. Esta es la heredad de la tribu de Efraín según sus familias.
+Desde Tapúaj irá el límite hacia el mar, torrente Qaná, y fueron sus salidas hacia el mar. Esta heredad de vara de hijos de Efráyim según sus clanes.
 
 ### 16:9
 
-Y las ciudades que se separan para los hijos de Efraín, en medio de la heredad de los hijos de Manasés, todas las ciudades y sus alquerías.
+Y las ciudades las apartadas a hijos de Efráyim en medio de heredad de hijos de Menashé: todas las ciudades y sus aldeas.
 
 ### 16:10
 
-Y no los expulsaron de los cananeos que habitaban en Gezer, y el cananeo habitó en medio de Efraín hasta el día de hoy, y fue para tributo de siervo.
+Y no desalojaron al cananeo el habitante en Guézer; y habitó el cananeo en medio de Efráyim hasta el día este, y fue a tributo sirviente.
 
 ## Capítulo 17
 
 ### 17:1
 
-Y el sorteo fue para la tribu de Manasés, porque era el primogénito de José, para Machir, el primogénito de Manasés, padre de Galaad, porque era un hombre de guerra, y le fue dado Galaad y Basán.
+Y fue la suerte a vara de Menashé, porque él era primogénito de Yosef: a Makir, primogénito de Menashé, padre del Gilad, porque él era hombre de guerra, y fue a él el Gilad y el Basán.
 
 ### 17:2
 
-Y para los hijos de Manasés, los que quedaban, según sus familias, para los hijos de Abiezer, y para los hijos de Heléc, y para los hijos de Asriel, y para los hijos de Sechem, y para los hijos de Hepher, y para los hijos de Semida. Estos son los hijos de Manasés, hijo de José, los varones, según sus familias.
+Y fue a hijos de Menashé los restantes según sus clanes: a hijos de Aviézer y a hijos de Jéleq y a hijos de Asriel y a hijos de Shejem y a hijos de Jéfer y a hijos de Shemidá; estos hijos de Menashé hijo de Yosef, los varones, según sus clanes.
 
 ### 17:3
 
-Y para Tslephad, hijo de Hepher, hijo de Galaad, hijo de Machir, hijo de Manasés, no le quedaron hijos, sino hijas. Y estos son los nombres de sus hijas: Malala, Noa, Hogla, Milca y Tirtza.
+Y a Tselofjad hijo de Jéfer hijo de Gilad hijo de Makir hijo de Menashé no hubo a él hijos, sino hijas; y estos nombres de sus hijas: Majlá y Noá, Joglá, Milká y Tirtsá.
 
 ### 17:4
 
-Y se presentaron delante de Eleazar el sacerdote, y delante de Josué hijo de Nun, y delante de los príncipes, diciendo: Jehová mandó a Moisés que nos diera heredad entre nuestros hermanos. Y les dio heredad conforme a la palabra de Jehová en medio de los hermanos de su padre.
+Y se acercaron a faces de Elazar el sacerdote y a faces de Yehoshúa hijo de Nun y a faces de los príncipes, diciendo: Jehová mandó a Moisés dar a nosotras heredad en medio de nuestros hermanos. Y les dio, a boca de Jehová, heredad en medio de hermanos de su padre.
 
 ### 17:5
 
-Y dividieron la heredad de Manasés en diez partes, además de la tierra de Galaad y Basán, que está al otro lado del Jordán.
+Y cayeron cordeles de Menashé diez, aparte de tierra del Gilad y el Basán que desde éver al Jordán.
 
 ### 17:6
 
-Porque las hijas de Manasés heredaron heredad en medio de los hijos, y la tierra de Galaad fue para los hijos de Manasés, los que quedaban.
+Porque hijas de Menashé heredaron heredad en medio de sus hijos, y tierra del Gilad fue a hijos de Menashé los restantes.
 
 ### 17:7
 
-Y el límite de Manasés era desde Asor hasta la frontera de Sechem, y el límite iba al sur a los que habitaban en En-Tafach.
+Y fue límite de Menashé desde Asher: ha-Micmetat que sobre faces de Shejem; y anduvo el límite hacia la derecha, a habitantes de Ein Tapúaj.
 
 ### 17:8
 
-La tierra de Tafach fue para Manasés, y Tafach era para el límite de Manasés, para los hijos de Efraín.
+A Menashé fue tierra de Tapúaj, y Tapúaj al límite de Menashé a hijos de Efráyim.
 
 ### 17:9
 
-Y el límite descendía por el arroyo de Qana al sur, hacia las ciudades de Efraín, en medio de las ciudades de Manasés, y el límite de Manasés iba al norte del arroyo, y su salida era al oeste.
+Y bajó el límite al torrente Qaná hacia el Néguev del torrente; ciudades estas a Efráyim en medio de ciudades de Menashé; y límite de Menashé desde el norte al torrente; y fueron sus salidas hacia el mar.
 
 ### 17:10
 
-Al sur estaba para Efraín, y al norte para Manasés, y el mar era su límite. Y en Asor se encontraban con los aseritas del norte, y con los isacaritas del este.
+Hacia el Néguev a Efráyim, y hacia el norte a Menashé; y fue el mar su límite; y en Asher topaban desde el norte, y en Yisasjar desde oriente.
 
 ### 17:11
 
-Y a Manasés pertenecían en Isacar y en Asor, Bet-Seten y sus aldeas, y Jiblam y sus aldeas, y los habitantes de Dor y sus aldeas, y los habitantes de Ien-Dor y sus aldeas, y los habitantes de Taanac y sus aldeas, y los habitantes de Megido y sus aldeas, tres naciones.
+Y fue a Menashé en Yisasjar y en Asher: Bet Sheán y sus hijas, y Yivleam y sus hijas, y a habitantes de Dor y sus hijas, y habitantes de Ein Dor y sus hijas, y habitantes de Taanaj y sus hijas, y habitantes de Meguidó y sus hijas: tres de las naphet.
 
 ### 17:12
 
-Pero los hijos de Manasés no pudieron expulsar a los habitantes de estas ciudades, y los cananeos quisieron quedarse en la tierra.
+Y no pudieron hijos de Menashé desalojar las ciudades estas, y se determinó el cananeo a habitar en la tierra esta.
 
 ### 17:13
 
-Y cuando los israelitas se hicieron fuertes, les impusieron un tributo a los cananeos, pero no los expulsaron de la tierra.
+Y fue cuando se hicieron fuertes hijos de Israel, y pusieron al cananeo a tributo, y desalojar no lo desalojó.
 
 ### 17:14
 
-Entonces los hijos de José hablaron con Josué, diciendo: ¿Por qué nos has dado una sola porción y un solo trozo de tierra, y somos un pueblo numeroso? ¿Acaso no me ha bendecido el Señor?
+Y hablaron hijos de Yosef con Yehoshúa, diciendo: ¿Por qué diste a mí heredad, suerte una y cordel uno, y yo pueblo abundante, hasta que hasta así me bendijo Jehová?
 
 ### 17:15
 
-Y Josué les dijo: Si sois un pueblo numeroso, subid a la montaña, y allí haced espacio para vosotros en la tierra de los feretes y de los refaitas, porque el monte de Efraín es estrecho.
+Y les dijo Yehoshúa: Si pueblo abundante eres tú, sube para ti al bosque, y despeja para ti allí en tierra del perizí y los refaím, porque estrecho es para ti monte de Efráyim.
 
 ### 17:16
 
-Y los hijos de José dijeron: No tenemos caballo de hierro ni carros para luchar contra los cananeos que habitan en la llanura, cerca de Bet-Seten y sus aldeas, y en la llanura de Jezreel.
+Y dijeron hijos de Yosef: No se halla para nosotros el monte, y carro de hierro en todo el cananeo el habitante en tierra del valle, para el que en Bet Sheán y sus hijas, y para el que en valle de Yizreel.
 
 ### 17:17
 
-Entonces Josué habló a la casa de José, a Efraín y a Manasés, diciendo: Sois un pueblo numeroso y tenéis fuerza, no os daré una sola porción.
+Y dijo Yehoshúa a casa de Yosef, a Efráyim y a Menashé, diciendo: Pueblo abundante eres tú, y fuerza grande a ti; no será a ti suerte una.
 
 ### 17:18
 
-Porque el monte será para vosotros, porque es boscoso, y allí haced espacio para vosotros, y serán vuestros límites, porque expulsaréis a los cananeos, porque tienen carros de hierro.
+Porque monte será a ti, porque bosque es él, y lo despejarás, y será a ti sus salidas; porque desalojarás al cananeo, porque carro de hierro a él, porque fuerte es él.
 
 ## Capítulo 18
 
 ### 18:1
 
-Y toda la asamblea de los hijos de Israel se reunió en Silo, y allí instalaron el tabernáculo de la reunión, y la tierra estaba pacificada delante de ellos.
+Y se congregó toda asamblea de hijos de Israel en Shiló, e hicieron habitar allí tienda de reunión; y la tierra fue sojuzgada a faces de ellos.
 
 ### 18:2
 
-Y quedaron siete tribus de los hijos de Israel que no habían recibido su porción de tierra.
+Y quedaron en hijos de Israel que no repartieron su heredad: siete tribus.
 
 ### 18:3
 
-Y Josué dijo a los hijos de Israel: ¿Hasta cuándo vais a dilatar el tiempo para tomar posesión de la tierra que el Señor, Dios de vuestros padres, os ha dado?
+Y dijo Yehoshúa a hijos de Israel: ¿Hasta dónde ustedes se aflojan para ir a poseer la tierra que dio a ustedes Jehová Dios de sus padres?
 
 ### 18:4
 
-Tomados tres hombres por cada tribu, y enviadlos para que se levanten y recorran la tierra y la dividan en siete partes. Y vendrán a mí.
+Den para ustedes tres hombres por la tribu, y los enviaré, y se levantarán y andarán por la tierra y la escribirán según boca de su heredad, y vendrán a mí.
 
 ### 18:5
 
-Y dividiréis la tierra en siete partes. Judá se quedará en el sur, y la casa de José en el norte.
+Y se repartirán ella a siete porciones; Yehudá se quedará sobre su límite desde el Néguev, y casa de Yosef se quedarán sobre su límite desde el norte.
 
 ### 18:6
 
-Y vosotros escribiréis la tierra en siete partes, y traeréisla a mí. Y la repartiré delante de Jehová por sorteo en Silo.
+Y ustedes escribirán la tierra siete porciones, y la traerán a mí acá, y echaré para ustedes suerte aquí a faces de Jehová nuestro Dios.
 
 ### 18:7
 
-Porque no hay herencia para los levitas en medio de vosotros, porque la ofrenda de Jehová es su heredad. Y Gad y Rubén y la mitad de la tribu de Manasés han tomado su heredad al otro lado del Jordán al oriente, que Moisés, siervo de Jehová, les dio.
+Porque no hay porción a los levitas en medio de ustedes, porque sacerdocio de Jehová su heredad; y Gad y Reuvén y mitad de tribu del Menashé tomaron su heredad desde éver al Jordán hacia oriente, que dio a ellos Moisés, siervo de Jehová.
 
 ### 18:8
 
-Y se levantaron los hombres y fueron. Y Josué dio orden a los que iban a escribir la tierra, diciendo: Id y recorrer la tierra y escribidla, y volved a mí. Y aquí os echaré el sorteo delante de Jehová en Silo.
+Y se levantaron los hombres y fueron; y mandó Yehoshúa a los que iban a escribir la tierra, diciendo: Vayan y anden por la tierra y escríbanla, y vuelvan a mí, y aquí echaré para ustedes suerte a faces de Jehová en Shiló.
 
 ### 18:9
 
-Y fueron los hombres y pasaron por la tierra y escribieron las ciudades para siete partes en un libro, y vinieron a Josué al campamento en Silo.
+Y fueron los hombres y pasaron por la tierra y la escribieron por las ciudades a siete porciones sobre un rollo, y vinieron a Yehoshúa al campamento Shiló.
 
 ### 18:10
 
-Y echó Josué el sorteo delante de Jehová en Silo, y allí repartió Josué la tierra a los hijos de Israel conforme a sus divisiones.
+Y les echó Yehoshúa suerte en Shiló a faces de Jehová, y repartió allí Yehoshúa la tierra a hijos de Israel según sus divisiones.
 
 ### 18:11
 
-Y subió el sorteo de la tribu de los hijos de Benjamín por sus familias, y salió el límite de su sorteo entre los hijos de Judá y entre los hijos de José.
+Y subió la suerte de vara de hijos de Binyamín según sus clanes, y salió límite de su suerte entre hijos de Yehudá y entre hijos de Yosef.
 
 ### 18:12
 
-Y su límite era al norte del Jordán, y subía el límite a la cumbre de Jericó al norte, y subía al monte al oeste, y salía al desierto de Betel.
+Y fue a ellos el límite a lado del norte desde el Jordán; y subió el límite al hombro de Yerijó desde el norte, y subió en el monte hacia el mar; y sus salidas al desierto de Bet Aven.
 
 ### 18:13
 
-Y pasaba el límite desde allí a Luz, que es Betel, al oeste de Luz, y bajaba el límite a Atarot-Adar, al sur del monte que está al norte de Bet-Horon.
+Y pasó desde allí el límite a Luz, al hombro de Luz hacia el Néguev; ella Bet El; y bajó el límite a Atrot Adar sobre el monte que desde el Néguev a Bet Jorón el inferior.
 
 ### 18:14
 
-Y el límite se extendía y daba vuelta al sur al mar, desde el monte que está al norte de Bet-Horon al sur, y salía a la ciudad de Baalá, que es Kirjat-Jearim, ciudad de los hijos de Judá. Esta es la parte del mar.
+Y se trazó el límite y rodeó a lado del mar hacia el Néguev desde el monte que sobre faces de Bet Jorón hacia el Néguev; y sus salidas a Qiryat Baal; ella Qiryat Yearim, ciudad de hijos de Yehudá. Este lado del mar.
 
 ### 18:15
 
-Y el límite pasaba desde allí al sur, desde la ciudad de Quiriat-Jearim, y salía el límite al oeste hasta el pozo de Mefatoa.
+Y lado del Néguev desde extremo de Qiryat Yearim; y salió el límite hacia el mar, y salió a manantial de aguas de Neftóaj.
 
 ### 18:16
 
-Y el límite descendía al monte que está al norte de Bet-Hinom, al oeste del valle de Refaim, y descendía al sur al valle de Hinom, al lado occidental de Jerusalén, y descendía a En-Rogel.
+Y bajó el límite a extremo del monte que sobre faces de valle de Ben Hinom, que en valle de Refaím hacia el norte; y bajó valle de Hinom al hombro del jebuseo hacia el Néguev, y bajó a Ein Roguel.
 
 ### 18:17
 
-Y el límite iba al norte, y salía el límite a En-Semes, y salía al norte a las montañas de Benjamín al norte de Bet-Adem, y descendía a En-Bodot, hijo de Reuben.
+Y se trazó desde el norte, y salió a Ein Shémesh, y salió a Gelilot que enfrente de Maalé Adumim, y bajó a Piedra de Bohan hijo de Reuvén.
 
 ### 18:18
 
-Y pasaba el límite al lado occidental del desierto al norte, y descendía al desierto al norte.
+Y pasó al hombro enfrente de la Arabá hacia el norte, y bajó a la Arabá.
 
 ### 18:19
 
-Y pasaba el límite al lado occidental de Bet-Hageber al norte, y salía el límite al cabo del mar Salado al norte, y salía al sur del río Jordán. Esta es la parte del sur.
+Y pasó el límite al hombro de Bet Joglá hacia el norte; el límite a lengua de mar de la sal hacia el norte, a extremo del Jordán hacia el Néguev. Este límite del Néguev.
 
 ### 18:20
 
-Y el río Jordán será la frontera para ellos al oriente. Esta es la heredad de los hijos de Benjamín, según sus familias, alrededor de sus fronteras.
+Y el Jordán lo limita a lado de oriente. Esta heredad de hijos de Binyamín a sus límites alrededor según sus clanes.
 
 ### 18:21
 
-Y las ciudades de los hijos de Benjamín según sus familias fueron Jericó, Bet-Hageber, Emek-Ketzits.
+Y fueron las ciudades a vara de hijos de Binyamín según sus clanes: Yerijó y Bet Joglá y Emeq Qetsits,
 
 ### 18:22
 
-Y Bet-Araba, y Tsamaraim, y Bet-El.
+y Bet ha-Arabá y Tsemaráyim y Bet El,
 
 ### 18:23
 
-Y Avvim, y Parah, y Ofra.
+y ha-Avim y ha-Pará y Ofrá,
 
 ### 18:24
 
-Y Querem-Haemni, y Oafni, y Gabba, ciudades doce con sus alquerías.
+y Kefar ha-Amoná y ha-Ofní y Guéva; ciudades doce, y sus aldeas.
 
 ### 18:25
 
-Gibeon, y Ramah, y Beeroth.
+Givón y ha-Ramá y Beerot,
 
 ### 18:26
 
-Y Mitzpe, y Kefirah, y Mozah.
+y ha-Mitspé y ha-Kefirá y ha-Motsá,
 
 ### 18:27
 
-Rekem, y Yirpeel, y Taralah.
+y Reqem y Yirpeel y Taralá,
 
 ### 18:28
 
-Y Tsela, la milicia y el Jebuseo, que es Jerusalén, Geba, ciudad de aldeas catorce, y sus alquerías. Esta es la heredad de los hijos de Benjamín, según sus familias.
+y Tsela, ha-Élef, y el jebuseo; ella Yerushaláim; Givat Qiryat; ciudades catorce, y sus aldeas. Esta heredad de hijos de Binyamín según sus clanes.
 
 ## Capítulo 19
 
 ### 19:1
 
-Y salió el sorteo segundo para Simón, para la tribu de los hijos de Simón, según sus familias, y fue su heredad.
+Y salió la suerte segunda a Shimón, a la tribu de hijos de Shimón a sus familias; y fue su heredad en medio de la heredad de hijos de Yehudá.
 
 ### 19:2
 
-Y fue en su heredad, Berseba y Besseba y Molada.
+Y fue a ellos en su heredad: Beer Sheva y Sheva y Moladá,
 
 ### 19:3
 
-Y Hatsar Suah y Balah y Azem.
+y Hatsar Shual y Balá y Átsem,
 
 ### 19:4
 
-Y Elteolad y Betul y Horma.
+y Eltolad y Betul y Jormá,
 
 ### 19:5
 
-Y Tsiklag y Bet-Marcabot y Hatsar-Susa.
+y Tsiqlag y Bet Hamarkavot y Hatsar Susá,
 
 ### 19:6
 
-Y Bet-Lebaoth y Sharuhen, ciudades tres y sus alquerías.
+y Bet Lebaot y Sharujén: ciudades trece, y sus aldeas.
 
 ### 19:7
 
-Ayin-Rimon y Eter y Asan, ciudades cuatro y sus alquerías.
+Ayin, Rimón y Éter y Ashán: ciudades cuatro, y sus aldeas;
 
 ### 19:8
 
-Y todas las alquerías que están alrededor de estas ciudades hasta Baalat-Beret-Ramat-Negueb. Esta es la heredad de la tribu de los hijos de Simón, según sus familias.
+y todas las aldeas que alrededor de estas ciudades, hasta Baalat Beer, Ramat Néguev. Esta es la heredad de la tribu de hijos de Shimón a sus familias.
 
 ### 19:9
 
-De la porción de los hijos de Judá, la heredad de los hijos de Simón, porque la porción de los hijos de Judá era grande para ellos, y los hijos de Simón heredaron en medio de su heredad.
+De la porción de hijos de Yehudá, la heredad de hijos de Shimón; porque fue la porción de hijos de Yehudá abundante de ellos, y heredaron hijos de Shimón en medio de su heredad.
 
 ### 19:10
 
-Y subió el sorteo tercero para los hijos de Zabulón, según sus familias, y fue el contorno de su heredad hasta Sarid.
+Y subió la suerte tercera a hijos de Zevulún a sus familias; y fue la frontera de su heredad hasta Sarid.
 
 ### 19:11
 
-Y subió su contorno al occidente hasta Maralá y tocó a Dabasete y tocó al arroyo que está frente a Janoam.
+Y subió su frontera hacia el mar y Maralá, y alcanzó a Dabáshet, y alcanzó al arroyo que sobre faces de Yokneam.
 
 ### 19:12
 
-Y volvió desde Sarid al este del sol, hasta el contorno de Kislot Tabor, y salió a Daberat y subió a Jafia.
+Y volvió desde Sarid hacia oriente, salida del sol, sobre la frontera de Kislot Tabor, y salió a la Daberat, y subió a Yafia.
 
 ### 19:13
 
-Y desde allí pasó al este, al noreste, Gat-Hepher, Hefzobah, y Atsin, y salió a Remón el alto Nea.
+Y desde allí pasó hacia oriente, hacia salida, a Guitá Jéfer, a Itá Katsín, y salió a Rimón Metoar Neá.
 
 ### 19:14
 
-Y rodeó su contorno al norte de Janoatón, y sus salidas serán los montes de Iftach El.
+Y rodeó a él la frontera desde el norte a Janatón; y fueron sus salidas el valle de Yiftaj El.
 
 ### 19:15
 
-Y Kattat, Nahalal, Shimron, Idael, y Bet-Lahem, ciudades doce y sus alquerías.
+Y Katat y Nahalal y Shimrón y Yidalá y Bet Léjem: ciudades doce, y sus aldeas.
 
 ### 19:16
 
-Esto es la heredad de los hijos de Zabulón según sus familias, las ciudades y sus alquerías.
+Esta es la heredad de hijos de Zevulún a sus familias, estas ciudades y sus aldeas.
 
 ### 19:17
 
-Para los hijos de Isaschar salió el sorteo cuarto, para los hijos de Isaschar según sus familias.
+A Yisasjar salió la suerte cuarta, a hijos de Yisasjar a sus familias.
 
 ### 19:18
 
-Y su contorno fue Jezrael, Kislot, y Senem.
+Y fue su frontera: Yizreel y las Kesulot y Shunem,
 
 ### 19:19
 
-Y Chapharaim, Sion, y Anaharat.
+y Jafarayim y Shión y Anajarat,
 
 ### 19:20
 
-Y Rabit, Quisjon, y Abez.
+y la Rabit y Kishyón y Ávets,
 
 ### 19:21
 
-Y Remet, Einganin, Eingaddor, y Bet-Pazzez.
+y Rémet y Ein Ganim y Ein Jadá y Bet Patséts.
 
 ### 19:22
 
-Y tocó el contorno a Tabor, a Sichem, y a Bet-Sete, y sus salidas serán el Jordán, ciudades dieciséis y sus alquerías.
+Y alcanzó la frontera a Tabor y Shahatsimá y Bet Shemesh; y fueron las salidas de su frontera el Jordán: ciudades dieciséis, y sus aldeas.
 
 ### 19:23
 
-Esta es la porción de la tribu de los hijos de Isasjar según sus familias, las ciudades y sus alquerías.
+Esta es la heredad de la tribu de hijos de Yisasjar a sus familias, las ciudades y sus aldeas.
 
 ### 19:24
 
-Y salió el sorteo quinto para la tribu de los hijos de Aser según sus familias.
+Y salió la suerte quinta a la tribu de hijos de Asher a sus familias.
 
 ### 19:25
 
-Y su frontera era Helcata y Hali y Beten y Acshaf.
+Y fue su frontera: Jelkat y Jalí y Béten y Ajshaf,
 
 ### 19:26
 
-Y Alammeleque y Amad y Misael, y tocó en Carmel al occidente y en Sichor al Libnath.
+y Alamelék y Amad y Mishal; y alcanzó a Karmel hacia el mar, y a Shijor Livnat.
 
 ### 19:27
 
-Y volvió al oriente del sol, Bet-Dagon, y tocó en Zebulón y en el valle de Jifta-Hel, al norte de Bet-Emek y Neiel, y salió a Cabel al norte.
+Y volvió hacia salida del sol a Bet Dagón, y alcanzó a Zevulún y al valle de Yiftaj El hacia el norte, a Bet Haemeq y Neiel; y salió a Kabúl desde la izquierda,
 
 ### 19:28
 
-Y Eberón y Rehob y Hammon y Kaná, hasta Zidon grande.
+y Evrón y Rejov y Jamón y Kaná, hasta Tsidón la grande.
 
 ### 19:29
 
-Y volvió el límite de Ramá y hasta la ciudad fortificada de Tsor, y volvió el límite a Hasor, y sus salidas serán al occidente desde el valle de Aczib.
+Y volvió la frontera a la Ramá, y hasta la ciudad fortificada de Tsor; y volvió la frontera a Josá, y sus salidas al mar, desde la porción de Ajzivá.
 
 ### 19:30
 
-Y Umá y Afeq y Rehob, veinte y dos ciudades y sus alquerías.
+Y Umá y Afek y Rejov: ciudades veintidós, y sus aldeas.
 
 ### 19:31
 
-Esta es la porción de la tribu de los hijos de Aser según sus familias, las ciudades y sus alquerías.
+Esta es la heredad de la tribu de hijos de Asher a sus familias, estas ciudades y sus aldeas.
 
 ### 19:32
 
-Para los hijos de Neftalí salió el sorteo sexto para los hijos de Neftalí según sus familias.
+A hijos de Naftalí salió la suerte sexta, a hijos de Naftalí a sus familias.
 
 ### 19:33
 
-Y su frontera era desde Helaf desde Elon hasta Zaanan y Adami y Nekeb y Jibneel hasta Jalam, y tocó en Simón.
+Y fue su frontera desde Jélef, desde Elón en Tsaananim, y Adamí Hanékeb y Yavneel, hasta Lakum; y fueron sus salidas el Jordán.
 
 ### 19:34
 
-Y volvió el límite al occidente a Aznoth-Tabor, y salió de allí Hukok, y tocó en Zebulón al sur, y tocó en Aser al mar, y tocó en Judá el Jordán al oriente del sol.
+Y volvió la frontera hacia el mar a Aznot Tabor, y salió de allí a Hukoká; y alcanzó a Zevulún desde el sur, y en Asher alcanzó desde el mar, y en Yehudá el Jordán hacia salida del sol.
 
 ### 19:35
 
-Y las ciudades fortificadas eran Tser, Hammat Rakkat y Kinneret
+Y ciudades de fortaleza: los Tsidim, Tser y Jamat, Rakat y Kinéret,
 
 ### 19:36
 
-y Adama y Ramah y Chazor
+y Adamá y la Ramá y Hatsor,
 
 ### 19:37
 
-y Qedesh y Edrei y En Chazor
+y Kédesh y Edreí y Ein Hatsor,
 
 ### 19:38
 
-y Yiron y Migdal El y Horem y Bet Anath y Bet Shemesh, ciudades diecinueve y sus aldeas
+y Yirón y Migdal El, Jorem y Bet Anat y Bet Shemesh: ciudades diecinueve, y sus aldeas.
 
 ### 19:39
 
-Esto es la heredad de la tribu de los hijos de Neftalí conforme a sus familias, las ciudades y sus aldeas
+Esta es la heredad de la tribu de hijos de Naftalí a sus familias, las ciudades y sus aldeas.
 
 ### 19:40
 
-Para la tribu de los hijos de Dan conforme a sus familias, salió el sétimo sorteo
+A la tribu de hijos de Dan a sus familias salió la suerte séptima.
 
 ### 19:41
 
-Y la heredad de ellos era Tsareadá y Eshtaol y Ir Shemesh
+Y fue la frontera de su heredad: Tsorá y Eshtaol e Ir Shemesh,
 
 ### 19:42
 
-y Shaalabbin y Aijalon y Ietlah
+y Shaalbín y Ayalón y Yitlá,
 
 ### 19:43
 
-y Elon y Temnata y Ekron
+y Elón y Timnatá y Ekrón,
 
 ### 19:44
 
-y Eltequ y Gibbethon y Baalath
+y Elteké y Guibetón y Baalat,
 
 ### 19:45
 
-y Jehud y Bene Berak y Gat Rimmon
+y Yehud y Bené Berak y Gat Rimón,
 
 ### 19:46
 
-y los aguas de Jano y Rakkon, con la frontera enfrente de Jafó
+y Mei Hayarkón y el Rakón, con la frontera frente a Yafó.
 
 ### 19:47
 
-Y salieron los límites de los hijos de Dan desde ellos, y subieron los hijos de Dan y lucharon contra Leshem y la tomaron y la golpearon con la espada y la tomaron y la habitaron en ella y llamaron a Leshem Dan, según el nombre de Dan, su padre.
+Y salió la frontera de hijos de Dan de ellos; y subieron hijos de Dan y pelearon con Leshem, y la tomaron y la hirieron a boca de espada, y la poseyeron y habitaron en ella, y llamaron a Leshem Dan, según el nombre de Dan su padre.
 
 ### 19:48
 
-Esta es la heredad de la tribu de los hijos de Dan según sus familias, las ciudades y sus alquerías.
+Esta es la heredad de la tribu de hijos de Dan a sus familias, estas ciudades y sus aldeas.
 
 ### 19:49
 
-Y terminaron de repartir la tierra por sus límites, y los hijos de Israel dieron heredad a Josué hijo de Nun en medio de ellos.
+Y acabaron de heredar la tierra a sus fronteras; y dieron hijos de Israel heredad a Yehoshúa hijo de Nun en medio de ellos.
 
 ### 19:50
 
-Según la palabra de Jehová le dieron la ciudad que había pedido, Timnatsara, en el monte de Efraín, y él edificó la ciudad y habitó en ella.
+Según la boca de Jehová dieron a él la ciudad que pidió, Timnat Séraj en el monte de Efráyim; y edificó la ciudad y habitó en ella.
 
 ### 19:51
 
-Estas son las heredades que Eléazar el sacerdote y Josué hijo de Nun y los jefes de las tribus de los hijos de Israel repartieron por sortija en Silo, delante de Jehová, en la entrada de la tienda de reunión; y terminaron de repartir la tierra.
+Estas son las heredades que hicieron heredar Eleazar el sacerdote y Yehoshúa hijo de Nun y las cabezas de los padres a las tribus de hijos de Israel, por suerte, en Shiló delante de Jehová, a la abertura de la tienda de reunión; y acabaron de repartir la tierra.
 
 ## Capítulo 20
 
 ### 20:1
 
-Y Jehová habló a Josué, diciendo:
+Y habló Jehová a Yehoshúa, diciendo:
 
 ### 20:2
 
-Di a los hijos de Israel: Decid entre vosotros las ciudades de refugio, de las que os he hablado por medio de Moisés.
+Habla a hijos de Israel, diciendo: Den para ustedes las ciudades de refugio que hablé a ustedes por mano de Moisés,
 
 ### 20:3
 
-Para que el que huyere allá, que mató a un hombre sin intención y sin malicia, tenga a donde huir de mano del vengador de sangre.
+para huir allá el matador que hiere alma por error, sin conocimiento; y serán a ustedes a refugio del redentor de la sangre.
 
 ### 20:4
 
-Y huirá a una de estas ciudades y se presentará en la puerta de la ciudad y hablará ante los ancianos de la ciudad y les dirá su causa, y los de la ciudad la recibirán y le darán un lugar para que habite entre ellos.
+Y huirá a una de estas ciudades, y se parará a la abertura de la puerta de la ciudad, y hablará en oídos de los ancianos de aquella ciudad sus palabras; y lo recogerán a la ciudad a ellos, y le darán lugar, y habitará con ellos.
 
 ### 20:5
 
-Y si el vengador de sangre persigue después de él, no lo entregarán en su mano, porque no lo mató con maldad y no era enemigo suyo, sino que lo mató sin intención.
+Y cuando persiga el redentor de la sangre detrás de él, no entregarán al matador en su mano, porque sin conocimiento hirió a su compañero, y no odiando él a él desde ayer tercero día.
 
 ### 20:6
 
-Y vivirá en aquella ciudad hasta que comparezca ante la congregación para juzgarlo, hasta que muera el sumo sacerdote que en aquel tiempo sea; entonces el homicida volverá a su ciudad y a su casa, a la ciudad de donde huyó.
+Y habitará en aquella ciudad hasta su pararse delante de la congregación al juicio, hasta la muerte del sacerdote el grande que sea en aquellos días; entonces volverá el matador y vendrá a su ciudad y a su casa, a la ciudad de donde huyó.
 
 ### 20:7
 
-Y consagraron a Quedesh en la montaña de Neftalí, y a Sichem en la montaña de Efraím, y a Qiryat-Arba, que es Hebrón, en la montaña de Judá.
+Y apartaron a Kédesh en el Galil, en el monte de Naftalí, y a Shejem en el monte de Efráyim, y a Kiryat Arba —ella Jevrón— en el monte de Yehudá.
 
 ### 20:8
 
-Y dieron al otro lado del río Jordán, al oriente, Betser en el desierto en el llano, Ramot en Galaad, y Golán en Basán.
+Y de allende al Jordán de Yerijó hacia oriente dieron a Bétser en el desierto, en la meseta, de la tribu de Reuvén, y a Ramot en el Gilad de la tribu de Gad, y a Golán en el Basán de la tribu de Menashé.
 
 ### 20:9
 
-Estas ciudades fueron para todos los israelitas y para el extranjero que vivía entre ellos, para huir allí de cualquier persona que matara sin intención, para que el vengador del sangre no muriera hasta que el asesino compareciera ante la congregación.
+Estas fueron las ciudades de la cita a todo hijo de Israel y al forastero el que mora en medio de ellos, para huir allá todo el que hiere alma por error, y no muera por mano del redentor de la sangre hasta su pararse delante de la congregación.
 
 ## Capítulo 21
 
 ### 21:1
 
-Entonces los jefes de las familias de Leví se acercaron a Eléazar el sacerdote, a Josué hijo de Nun y a los jefes de las familias de Israel.
+Y se acercaron cabezas de padres de los levitas a Elazar el sacerdote y a Yehoshúa hijo de Nun y a cabezas de padres de las tribus a hijos de Israel.
 
 ### 21:2
 
-Y hablaron con ellos en Silo, en la tierra de Canaán, diciendo: El Señor ha ordenado por medio de Moisés que nos dieran ciudades para habitar y sus campos para nuestros animales.
+Y hablaron a ellos en Shiló en tierra de Canaán, diciendo: Jehová mandó por mano de Moisés dar a nosotros ciudades para habitar, y sus ejidos para nuestra bestia.
 
 ### 21:3
 
-Entonces los israelitas dieron a los levitas, según la orden del Señor, estas ciudades y sus campos.
+Y dieron hijos de Israel a los levitas desde su heredad, a boca de Jehová, estas ciudades y sus ejidos.
 
 ### 21:4
 
-Y salió el sorteo para las familias de los hijos de Caat. Y a los hijos de Aarón, el sacerdote, de entre los levitas, les correspondieron por sorteo tres ciudades de la tribu de Judá, de la tribu de Simón y de la tribu de Benjamín.
+Y salió el lote a clanes del quehatí; y fue a hijos de Aarón el sacerdote, de entre los levitas, desde la tribu de Yehudá y desde la tribu del shimení y desde la tribu de Binyamín, por el lote, ciudades trece.
 
 ### 21:5
 
-Y a los hijos de Caat que quedaban, les correspondieron por sorteo una ciudad de la tribu de Efraín, una de la tribu de Dan y una de la mitad de la tribu de Manasés.
+Y a hijos de Quehat los restantes, desde clanes de la tribu de Efráyim y desde la tribu de Dan y desde la mitad de la tribu de Menashé, por el lote, ciudades diez.
 
 ### 21:6
 
-Y a los hijos de Gerson les correspondieron por sorteo una ciudad de la tribu de Isacar, una de la tribu de Aser, una de la tribu de Neftalí y una de la mitad de la tribu de Manasés en Basán.
+Y a hijos de Guershon, desde clanes de la tribu de Yisasjar y desde la tribu de Asher y desde la tribu de Naftalí y desde la mitad de la tribu de Menashé en el Basán, por el lote, ciudades trece.
 
 ### 21:7
 
-Y a los hijos de Merari les correspondieron por sorteo dos ciudades de la tribu de Rubén, dos de la tribu de Gad y dos de la tribu de Zabulón.
+A hijos de Merarí según sus clanes, desde la tribu de Reuvén y desde la tribu de Gad y desde la tribu de Zevulún, ciudades doce.
 
 ### 21:8
 
-Entonces los israelitas dieron a los levitas estas ciudades y sus campos, según el Señor había ordenado por medio de Moisés por sorteo.
+Y dieron hijos de Israel a los levitas estas ciudades y sus ejidos, como que mandó Jehová por mano de Moisés, por el lote.
 
 ### 21:9
 
-Y dieron de la tribu de Judá y de la tribu de Simeón estas ciudades que se llaman por sus nombres.
+Y dieron desde la tribu de hijos de Yehudá y desde la tribu de hijos de Shimón estas ciudades que se llaman a ellas por nombre.
 
 ### 21:10
 
-Y a los hijos de Aarón, de las familias de Caat, de entre los levitas, les correspondió el sorteo primero.
+Y fue a hijos de Aarón, desde clanes del quehatí, de entre hijos de Leví, porque a ellos fue el lote primero.
 
 ### 21:11
 
-Y dieron a ellos la ciudad de Arbah, padre de Anac, que es Hebrom, en el monte de Judá, con sus campos alrededor.
+Y dieron a ellos Qiryat Arba, padre del Anaq —ella Hevrón— en el monte de Yehudá, y sus ejidos alrededor de ella.
 
 ### 21:12
 
-Y dieron los campos de la ciudad y los patios a Caleb hijo de Jefuné, en su posesión.
+Y el campo de la ciudad y sus aldeas dieron a Calev hijo de Yefuné en su posesión.
 
 ### 21:13
 
-Y a los hijos de Aarón, el sacerdote, dieron la ciudad de refugio para el homicida, Hebrón y sus campos, y Libna y sus campos.
+Y a hijos de Aarón el sacerdote dieron la ciudad de refugio del matador, Hevrón y su ejido, y Livná y su ejido,
 
 ### 21:14
 
-Y dieron Jatir y sus campos, y Estemoa y sus campos.
+y Yatír y su ejido, y Eshtemoa y su ejido,
 
 ### 21:15
 
-Y dieron Holón y sus campos, y Debir y sus campos.
+y Jolón y su ejido, y Devir y su ejido,
 
 ### 21:16
 
-Y dieron Aín y sus campos, y Jutah y sus campos, y Betsemes y sus campos. Ciudades nueve de estos dos tribus.
+y Ayín y su ejido, y Yutá y su ejido, Bet Shémesh y su ejido: ciudades nueve desde estas dos tribus.
 
 ### 21:17
 
-Y dieron de la tribu de Benjamín a Gibeón y a su campo, a Geba y a su campo.
+Y desde la tribu de Binyamín: Givón y su ejido, Géva y su ejido,
 
 ### 21:18
 
-Y dieron a Anatot y a su campo, a Alamón y a su campo. Ciudades cuatro.
+Anatot y su ejido, y Almón y su ejido: ciudades cuatro.
 
 ### 21:19
 
-Todas las ciudades de los hijos de Aarón, los sacerdotes, trece ciudades y sus campos.
+Todas las ciudades de hijos de Aarón, los sacerdotes: trece ciudades y sus ejidos.
 
 ### 21:20
 
-Y a las familias de los hijos de Quisa, de Leví, los que quedaban de los hijos de Quisa, les cayeron por suerte ciudades de la tribu de Efraín.
+Y a clanes de hijos de Quehat, los levitas, los restantes de entre hijos de Quehat, fueron ciudades de su lote desde la tribu de Efráyim.
 
 ### 21:21
 
-Y dieron a ellos la ciudad de refugio para el homicida, a Sichem y a su campo en la montaña de Efraín, y a Gezer y a su campo.
+Y dieron a ellos la ciudad de refugio del matador, Shejém y su ejido en el monte de Efráyim, y Guézer y su ejido,
 
 ### 21:22
 
-Y dieron a Quetitsayim y a su campo, a Bet Horón y a su campo. Ciudades cuatro.
+y Qivtsáyim y su ejido, y Bet Jorón y su ejido: ciudades cuatro.
 
 ### 21:23
 
-Y dieron de la tribu de Dan a Eltequé y a su campo, a Gibetón y a su campo.
+Y desde la tribu de Dan: Elteqé y su ejido, Gibetón y su ejido,
 
 ### 21:24
 
-Y dieron a Aijalon y a su campo, a Gat Rimon y a su campo. Ciudades cuatro.
+Ayalón y su ejido, Gat Rimón y su ejido: ciudades cuatro.
 
 ### 21:25
 
-Y de la mitad de la tribu de Manasés dieron a Taanac y a su campo, a Gat Rimon y a su campo. Ciudades dos.
+Y desde la mitad de la tribu de Menashé: Taanaj y su ejido, y Gat Rimón y su ejido: ciudades dos.
 
 ### 21:26
 
-Todas las ciudades diez y sus campos para las familias de los hijos de Caat que quedaban.
+Todas las ciudades diez y sus ejidos a clanes de hijos de Quehat los restantes.
 
 ### 21:27
 
-Y a los hijos de Gesón, de las familias de los levitas, de la mitad de la tribu de Manasés, dieron la ciudad de refugio para el homicida, a Golan en Basán y a su campo, a Besetera y a su campo. Ciudades dos.
+Y a hijos de Guershon, desde clanes de los levitas, desde la mitad de la tribu de Menashé: la ciudad de refugio del matador, Golán en el Basán y su ejido, y Beeshterá y su ejido: ciudades dos.
 
 ### 21:28
 
-Y de la tribu de Isacar dieron a Qishion y a su campo, a Daberat y a su campo.
+Y desde la tribu de Yisasjar: Qishyón y su ejido, Davrat y su ejido,
 
 ### 21:29
 
-Y a Yarmut y a su campo, a En Ganim y a su campo. Ciudades cuatro.
+Yarmut y su ejido, En Ganim y su ejido: ciudades cuatro.
 
 ### 21:30
 
-Y de la tribu de Aser dieron a Misal y a su campo, a Abdon y a su campo.
+Y desde la tribu de Asher: Mishal y su ejido, Avdón y su ejido,
 
 ### 21:31
 
-Y a Helkat y a su campo, a Rehob y a su campo. Ciudades cuatro.
+Jelqat y su ejido, y Rejov y su ejido: ciudades cuatro.
 
 ### 21:32
 
-Y de la tribu de Neftalí dieron la ciudad de refugio para el homicida, a Qedesh en Galilea y a su campo, a Chamot Dor y a su campo, a Kartan y a su campo. Ciudades tres.
+Y desde la tribu de Naftalí: la ciudad de refugio del matador, Qédesh en el Galíl y su ejido, y Jamot Dor y su ejido, y Qartan y su ejido: ciudades tres.
 
 ### 21:33
 
-Todas las ciudades de los gesónidas para sus familias. Ciudades trece y sus campos.
+Todas las ciudades del guershoní según sus clanes: trece ciudades y sus ejidos.
 
 ### 21:34
 
-Y a las familias de los hijos de Merari, de los levitas que quedaban, de la tribu de Zabulón, dieron a Iakneam y a su campo, a Kartan y a su campo.
+Y a clanes de hijos de Merarí, los levitas los restantes, desde la tribu de Zevulún: Yoqneam y su ejido, Qartá y su ejido,
 
 ### 21:35
 
-Dimnah y su campo, Nahalal y su campo, ciudades cuatro.
+Dimná y su ejido, Nahalal y su ejido: ciudades cuatro.
 
 ### 21:36
 
-Betser y su campo, Jazer y su campo.
+Y desde la tribu de Reuvén: Bétser y su ejido, y Yahtsá y su ejido,
 
 ### 21:37
 
-Qedemot y su campo, Mefaat y su campo, ciudades cuatro.
+Qedemot y su ejido, y Mefaat y su ejido: ciudades cuatro.
 
 ### 21:38
 
-La ciudad de refugio para el homicida, Ramot en Gilead y su campo, Mahanaim y su campo.
+Y desde la tribu de Gad: la ciudad de refugio del matador, Ramot en el Gilad y su ejido, y Majanáyim y su ejido,
 
 ### 21:39
 
-Hesbón y su campo, Jazer y su campo, todas las ciudades cuatro.
+Jeshbón y su ejido, Yaazer y su ejido: todas ciudades cuatro.
 
 ### 21:40
 
-Todas las ciudades para las familias de Merari, de los levitas que quedaban, y el sorteo les dio ciudades veintidós.
+Todas las ciudades a hijos de Merarí según sus clanes, los restantes desde clanes de los levitas; y fue su lote ciudades doce.
 
 ### 21:41
 
-Todas las ciudades de los levitas en medio de la posesión de los hijos de Israel, ciudades cuarenta y ocho y sus campos.
+Todas las ciudades de los levitas en medio de la posesión de hijos de Israel: ciudades cuarenta y ocho y sus ejidos.
 
 ### 21:42
 
-Serán estas ciudades, ciudad por ciudad, y sus campos alrededor, así para todas las ciudades.
+Serán estas ciudades, ciudad ciudad, y su ejido alrededor de ella; así a todas estas ciudades.
 
 ### 21:43
 
-Y Jehová dio a Israel toda la tierra que juró dar a sus padres, y la heredaron y vivieron en ella.
+Y dio Jehová a Israel toda la tierra que juró dar a sus padres, y la poseyeron y habitaron en ella.
 
 ### 21:44
 
-Y Jehová les dio descanso alrededor, conforme a todo lo que juró a sus padres, y no se levantó nadie delante de ellos de todos sus enemigos, y entregó Jehová a todos sus enemigos en su mano.
+Y dio descanso Jehová a ellos alrededor, conforme a todo lo que juró a sus padres; y no se paró varón delante de faces de ellos desde todos sus enemigos; a todos sus enemigos dio Jehová en su mano.
 
 ### 21:45
 
-No faltó palabra alguna de toda la buena palabra que Jehová había hablado a la casa de Israel. Todo vino a ser.
+No cayó palabra de toda la buena palabra que habló Jehová a la casa de Israel; el todo vino.
 
 ## Capítulo 22
 
 ### 22:1
 
-Entonces Josué llamó a los rubenitas, a los gaditas y a la mitad de la tribu de Manasés.
+Entonces llamó Yehoshúa al reuvéní y al gadí y a la mitad de la tribu de Menashé,
 
 ### 22:2
 
-Les dijo: Ustedes han guardado todo lo que Moisés, el siervo de Jehová, les ordenó, y han escuchado mi voz en todo lo que les he ordenado.
+y dijo a ellos: Ustedes guardaron todo lo que mandó a ustedes Moisés, siervo de Jehová, y oyeron en mi voz a todo lo que mandé a ustedes.
 
 ### 22:3
 
-No han abandonado a sus hermanos durante muchos días hasta hoy, y han guardado la vigilancia de las ordenanzas de Jehová, Dios de ustedes.
+No abandonaron a sus hermanos estos muchos días hasta este día, y guardaron la guarda del mandamiento de Jehová Dios de ustedes.
 
 ### 22:4
 
-Y ahora Jehová, Dios de ustedes, ha dado descanso a sus hermanos, como les había hablado, y ahora vuelvan a sus tiendas, a la tierra que les dio Moisés, el siervo de Jehová, al otro lado del Jordán.
+Y ahora dio descanso Jehová Dios de ustedes a sus hermanos, como que habló a ellos; y ahora vuelvan y anden ustedes a sus tiendas, a la tierra de su posesión que dio a ustedes Moisés, siervo de Jehová, en éver del Jordán.
 
 ### 22:5
 
-Sólo guarden mucho lo que se les ordena hacer la ley y el mandamiento que Moisés, el siervo de Jehová, les ordenó, para amar a Jehová, Dios de ustedes, y para caminar en todos sus caminos, y para guardar sus mandamientos, y para adherirse a él, y para servirle con todo su corazón y con toda su alma.
+Solo guarden mucho para hacer el mandamiento y la torá que mandó a ustedes Moisés, siervo de Jehová, para amar a Jehová Dios de ustedes y para andar en todos sus caminos y para guardar sus mandamientos y para pegarse a él y para servirle con todo su corazón y con toda su alma.
 
 ### 22:6
 
-Y los bendijo Josué y los despidió, y ellos se fueron a sus tiendas.
+Y los bendijo Yehoshúa, y los envió, y anduvieron a sus tiendas.
 
 ### 22:7
 
-Y a la mitad del linaje de Manasés, Moisés dio en Basán, y a la otra mitad de él, Josué la dio con sus hermanos al otro lado del Jordán al oeste, y cuando Josué los despidió a sus tiendas, los bendijo.
+Y a la mitad de la tribu de Menashé dio Moisés en el Basán, y a su mitad dio Yehoshúa con sus hermanos en el Jordán hacia el mar; y también cuando los envió Yehoshúa a sus tiendas, los bendijo,
 
 ### 22:8
 
-Y les dijo: En riquezas abundantes, vuelvan a sus tiendas, y en ganado en gran cantidad, en plata y en oro, en cobre y en hierro y en piedras preciosas en gran cantidad, dividan el botín de sus enemigos con sus hermanos.
+y dijo a ellos, diciendo: Con riquezas muchas vuelvan a sus tiendas, y con ganado mucho muy, con plata y con oro y con cobre y con hierro y con vestidos mucho muy; repartan el botín de sus enemigos con sus hermanos.
 
 ### 22:9
 
-Y volvieron y se fueron los hijos de Rubén y los hijos de Gad y la mitad del linaje de Manasés desde los hijos de Israel de Silo, que está en la tierra de Canaán, para ir a la tierra de Galaad, a la tierra de su posesión que habían tomado en ella, conforme a la palabra de Jehová por mano de Moisés.
+Y volvieron y anduvieron hijos de Reuvén e hijos de Gad y la mitad de la tribu de Menashé de con hijos de Israel, desde Shiló que en tierra de Canaán, para andar a la tierra del Gilad, a la tierra de su posesión que fueron asidos en ella sobre boca de Jehová por mano de Moisés.
 
 ### 22:10
 
-Y llegaron a las regiones del Jordán, que están en la tierra de Canaán, y los hijos de Rubén y los hijos de Gad y la mitad del linaje de Manasés edificaron allí un altar junto al Jordán, un altar grande a la vista.
+Y vinieron a circuidos del Jordán que en tierra de Canaán, y edificaron hijos de Reuvén e hijos de Gad y la mitad de la tribu de Menashé allí altar sobre el Jordán, altar grande a la vista.
 
 ### 22:11
 
-Y los hijos de Israel oyeron decir: He aquí que los hijos de Rubén y los hijos de Gad y la mitad del linaje de Manasés han edificado un altar junto al Jordán, al lado de la tierra de Canaán, al lado de las regiones del Jordán, al lado de la otra parte de los hijos de Israel.
+Y oyeron hijos de Israel, diciendo: He aquí, edificaron hijos de Reuvén e hijos de Gad y la mitad de la tribu de Menashé el altar hacia frente de tierra de Canaán, a circuidos del Jordán, a éver de hijos de Israel.
 
 ### 22:12
 
-Y los hijos de Israel oyeron y se reunieron todos los hijos de Israel en Silo para subir contra ellos a la guerra.
+Y oyeron hijos de Israel, y se congregó toda la congregación de hijos de Israel a Shiló para subir sobre ellos al ejército.
 
 ### 22:13
 
-Y los hijos de Israel enviaron a los hijos de Rubén y a los hijos de Gad y a la mitad del linaje de Manasés a la tierra de Galaad, a Pinéses, hijo de Aarón, el sacerdote.
+Y enviaron hijos de Israel a hijos de Reuvén y a hijos de Gad y a la mitad de la tribu de Menashé a la tierra del Gilad a Pinjás hijo de Elazar el sacerdote,
 
 ### 22:14
 
-Y diez príncipes con él, un príncipe de cada familia, de todas las tribus de Israel, y cada jefe de su familia, ellos para los miles de Israel.
+y diez príncipes con él, príncipe uno príncipe uno a casa de padre a todas las tribus de Israel, y varón cabeza de casa de sus padres ellos a miles de Israel.
 
 ### 22:15
 
-Y vinieron a los hijos de Rubén y a los hijos de Gad y a la mitad del linaje de Manasés a la tierra de Galaad, y hablaron con ellos diciendo:
+Y vinieron a hijos de Reuvén y a hijos de Gad y a la mitad de la tribu de Menashé a la tierra del Gilad, y hablaron con ellos, diciendo:
 
 ### 22:16
 
-Así les dijeron todos los que se reunieron en el nombre de Jehová: ¿Qué es este pecado que habéis cometido contra Dios de Israel, para volver hoy de tras de Jehová, para construiros un altar hoy en contra de Jehová?
+Así dijeron toda la congregación de Jehová: ¿Qué es esta prevaricación que prevaricaron en Dios de Israel, para volver hoy de detrás de Jehová, en edificar ustedes a ustedes altar, para rebelarse ustedes hoy en Jehová?
 
 ### 22:17
 
-¿Es poco para nosotros el pecado de Peor, del cual no nos purificamos hasta hoy, y ha habido la plaga en la congregación de Jehová?
+¿Poco a nosotros la iniquidad de Peor, que no nos limpiamos de ella hasta este día, y fue la plaga en la congregación de Jehová?
 
 ### 22:18
 
-¿Y vosotros hoy os volvéis de tras de Jehová, y hoy os rebeláis contra Jehová, y mañana se enfadará contra toda la congregación de Israel.
+Y ustedes vuelven hoy de detrás de Jehová; y será, si ustedes se rebelan hoy en Jehová, mañana a toda la congregación de Israel se airará.
 
 ### 22:19
 
-Pero si la tierra que poseéis es inmunda, pasad a vosotros mismiesmo a la tierra que posee Jehová, que allí ha habitado su tabernáculo, y os habitaréis en medio de nosotros, y contra Jehová no os rebeléis, ni contra nosotros os rebeléis, en vuestras hijas para vosotros un altar, más que el altar de Jehová, nuestro Dios.
+Y si empero inmunda la tierra de su posesión, pasen ustedes a la tierra de posesión de Jehová donde moró allí el mishkán de Jehová, y asídanse en medio de nosotros; y en Jehová no se rebelen, y a nosotros no se rebelen en edificar ustedes a ustedes altar aparte del altar de Jehová Dios nuestro.
 
 ### 22:20
 
-¿Acaso no ha sido Acaán, hijo de Zera, el que ha pecado en la cosa prohibida, y ha habido la ira sobre toda la congregación de Israel, y él era un solo hombre que no ha perecido en su pecado?
+¿No Acán hijo de Zéraj prevaricó prevaricación en el jérem, y sobre toda la congregación de Israel fue ira? Y él, varón uno, no expiró en su iniquidad.
 
 ### 22:21
 
-Y respondieron los hijos de Rubén y los hijos de Gad y la mitad del linaje de Manasés, y hablaron con los jefes de las milicias de Israel.
+Y respondieron hijos de Reuvén e hijos de Gad y la mitad de la tribu de Menashé, y hablaron con cabezas de miles de Israel:
 
 ### 22:22
 
-Dios, Jehová, Dios, Jehová, él lo sabe, y Israel, él lo sabe, si en rebeldía o en pecado contra Jehová hoy no nos ayudéis.
+El Dios Jehová, El Dios Jehová, él sabe, e Israel él sabrá: si en rebelión y si en prevaricación en Jehová, no nos salves este día,
 
 ### 22:23
 
-¿Para construir un altar para volver de tras de Jehová, o para subir sobre él holocausto y ofrenda, o para hacer sobre él sacrificios de paz, Jehová, él lo buscará.
+para edificar a nosotros altar para volver de detrás de Jehová, y si para hacer subir sobre él holocausto y minjá, y si para hacer sobre él sacrificios de pazes, Jehová él busque;
 
 ### 22:24
 
-¿Y si no de cuidado de palabra hicimos esto, para decir mañana vuestros hijos a nuestros hijos, ¿qué es esto para vosotros, y para Jehová, Dios de Israel?
+y si no desde ansiedad desde palabra hicimos esto, diciendo: Mañana dirán sus hijos a nuestros hijos, diciendo: ¿Qué a ustedes y a Jehová Dios de Israel?
 
 ### 22:25
 
-Y ha dado Jehová un límite entre nosotros y entre vosotros, hijos de Rubén y de Gad, el Jordán, no tenéis parte en Jehová, y harán vuestros hijos a nuestros hijos para no temer a Jehová.
+Y límite dio Jehová entre nosotros y entre ustedes, hijos de Reuvén e hijos de Gad, el Jordán; no a ustedes porción en Jehová. Y harán cesar sus hijos a nuestros hijos de temer a Jehová.
 
 ### 22:26
 
-Y dijimos: Hagámoslo para nosotros, para edificar un altar, no para holocausto ni para sacrificio.
+Y dijimos: Hagamos, por favor, a nosotros para edificar el altar, no a holocausto y no a sacrificio,
 
 ### 22:27
 
-Porque será un testimonio entre nosotros y entre vosotros, y entre nuestros descendientes después de nosotros, para servir al servicio de Jehová con holocaustos y con sacrificios y con ofrendas de paz, y no dirán vuestros hijos mañana a nuestros hijos: No tenéis parte en Jehová.
+porque testigo él entre nosotros y entre ustedes y entre nuestras generaciones después de nosotros, para servir el servicio de Jehová delante de faces de él con nuestros holocaustos y con nuestros sacrificios y con nuestras pazes; y no dirán sus hijos mañana a nuestros hijos: No a ustedes porción en Jehová.
 
 ### 22:28
 
-Y dijimos: Y será que si nos dijeren mañana y a nuestros descendientes: Ved la forma del altar de Jehová que hicieron nuestros padres, no para holocausto ni para sacrificio, porque es un testimonio entre nosotros y entre vosotros.
+Y dijimos: Y será, cuando digan a nosotros y a nuestras generaciones mañana, y diremos: Vean la forma del altar de Jehová que hicieron nuestros padres, no a holocausto y no a sacrificio, porque testigo él entre nosotros y entre ustedes.
 
 ### 22:29
 
-¡Ay de nosotros si nos rebeláramos contra Jehová y nos apartáramos hoy de Jehová para edificar un altar para holocausto y para ofrenda y para sacrificio, además del altar de Jehová, nuestro Dios, que está delante de su tabernáculo!
+Lejos a nosotros de nosotros rebelar en Jehová y volver hoy de detrás de Jehová, para edificar altar a holocausto, a minjá y a sacrificio, aparte del altar de Jehová Dios nuestro que delante de faces de su mishkán.
 
 ### 22:30
 
-Y Pinces el sacerdote y los príncipes de la congregación y los jefes de mil de Israel que estaban con él, oyeron las palabras que dijeron los hijos de Rubén y los hijos de Gad y los hijos de Manasés, y les fue grato.
+Y oyó Pinjás el sacerdote y los príncipes de la congregación y cabezas de miles de Israel que con él las palabras que hablaron hijos de Reuvén e hijos de Gad e hijos de Menashé, y fue bueno en sus ojos.
 
 ### 22:31
 
-Y dijo Pinces hijo de Aarón el sacerdote a los hijos de Rubén y a los hijos de Gad y a los hijos de Manasés: El día que supimos que Jehová estaba en medio de nosotros, que no habéis pecado contra Jehová, no habéis cometido este pecado, entonces nos habéis librado de la mano de Jehová.
+Y dijo Pinjás hijo de Elazar el sacerdote a hijos de Reuvén y a hijos de Gad y a hijos de Menashé: Hoy conocimos que en medio de nosotros Jehová, porque no prevaricaron en Jehová esta prevaricación; entonces libraron a hijos de Israel de mano de Jehová.
 
 ### 22:32
 
-Y Pinches hijo de Aarón el sacerdote y los príncipes volvieron de la tierra de Galaad a la tierra de Canaán a los hijos de Israel, y les dieron razón.
+Y volvió Pinjás hijo de Elazar el sacerdote y los príncipes de con hijos de Reuvén y de con hijos de Gad, desde la tierra del Gilad a tierra de Canaán, a hijos de Israel, y les hicieron volver palabra.
 
 ### 22:33
 
-Y fue grato el asunto a los hijos de Israel, y bendijeron a Dios a los hijos de Israel, y no dijeron subir sobre ellos a la guerra para destruir la tierra que los hijos de Rubén y los hijos de Gad habitan en ella.
+Y fue buena la palabra en ojos de hijos de Israel, y bendijeron a Dios hijos de Israel; y no dijeron subir sobre ellos al ejército para destruir la tierra que hijos de Reuvén e hijos de Gad habitando en ella.
 
 ### 22:34
 
-Y llamaron los hijos de Rubén y los hijos de Gad al altar: porque es un testimonio entre nosotros, porque Jehová es Dios.
+Y llamaron hijos de Reuvén e hijos de Gad al altar, porque testigo él entre nosotros, porque Jehová el Dios.
 
 ## Capítulo 23
 
 ### 23:1
 
-Y pasados muchos días, después que Jehová había dado paz a Israel de todos sus enemigos alrededor, y Josué era viejo y entraba en días.
+Y fue desde muchos días después que dio descanso Jehová a Israel de todos sus enemigos alrededor; y Yehoshúa envejeció, vino en los días.
 
 ### 23:2
 
-Y llamó Josué a todo Israel, a los ancianos y a los príncipes y a los jueces y a los oficiales, y les dijo: Yo soy viejo y entrado en días.
+Y llamó Yehoshúa a todo Israel, a sus ancianos y a sus cabezas y a sus jueces y a sus oficiales, y dijo a ellos: Yo envejecí, vine en los días.
 
 ### 23:3
 
-Y vosotros habéis visto todo lo que Jehová vuestro Dios ha hecho a todos estos pueblos por delante de vosotros, porque Jehová vuestro Dios peleaba por vosotros.
+Y ustedes vieron todo lo que hizo Jehová Dios de ustedes a todas estas naciones de faces de ustedes, porque Jehová Dios de ustedes, él el que pelea a ustedes.
 
 ### 23:4
 
-Mirad, os he repartido entre vosotros las naciones que quedan, desde el río Jordán hasta el mar Occidental, con todo el país que yo he conquistado.
+Vean, hice caer a ustedes estas naciones las restantes estas en heredad a sus tribus, desde el Jordán y todas las naciones que corté, y el mar el grande entrada del sol.
 
 ### 23:5
 
-Y Jehová vuestro Dios es quien las echará de delante de vosotros y las desplazará para que vosotros las poseáis, como él os ha dicho.
+Y Jehová Dios de ustedes, él las empujará de faces de ustedes, y las hará heredar de delante de faces de ustedes, y heredarán su tierra, como que habló Jehová Dios de ustedes a ustedes.
 
 ### 23:6
 
-Aseguraos mucho de guardar y de hacer todo lo escrito en el libro de la ley de Moisés, no apartándoos de ella ni a la derecha ni a la izquierda.
+Y fortalezcan mucho para guardar y para hacer todo lo escrito en el libro de la torá de Moisés, para no apartarse de él derecha e izquierda,
 
 ### 23:7
 
-No os mezcléis con estas naciones que quedan a vuestro alrededor, ni invoquéis el nombre de sus dioses, ni os hagáis semejantes a ellos, ni los sirvais ni los adoreis.
+para no entrar en estas naciones las restantes estas estas con ustedes, y en nombre de sus dioses no hagan recordar, y no juren, y no los sirvan, y no se inclinen a ellos;
 
 ### 23:8
 
-Sólo a Jehová vuestro Dios os aferraréis, como lo habéis hecho hasta hoy.
+sino a Jehová Dios de ustedes se pegarán, como que hicieron hasta este día.
 
 ### 23:9
 
-Jehová ha echado a vuestro encuentro naciones grandes y fuertes, y hasta hoy no ha resistido ninguno de ellos ante vosotros.
+Y hizo heredar Jehová de faces de ustedes naciones grandes y fuertes; y ustedes, no se paró varón delante de faces de ustedes hasta este día.
 
 ### 23:10
 
-Un hombre de vosotros perseguirá a mil, porque Jehová vuestro Dios peleará por vosotros, como él os ha dicho.
+Varón uno de ustedes perseguirá mil, porque Jehová Dios de ustedes, él el que pelea a ustedes, como que habló a ustedes.
 
 ### 23:11
 
-Guardaos mucho de vuestras almas, amando a Jehová vuestro Dios.
+Y guárdense mucho a sus almas, para amar a Jehová Dios de ustedes.
 
 ### 23:12
 
-Pero si volvéis y os unís a las naciones que quedan a vuestro alrededor, y os casáis con ellas, y entráis en ellas y ellas en vosotros,
+Porque si volviendo vuelven y se pegan al resto de estas naciones las restantes estas estas con ustedes, y se emparentan en ellas, y entran en ellas y ellas en ustedes,
 
 ### 23:13
 
-Sabed que Jehová vuestro Dios no las echará de delante de vosotros, y serán para vosotros una trampa y un lazo, y un azote en vuestros costados y ceguedad en vuestros ojos, hasta que os destruyan de la buena tierra que Jehová vuestro Dios os ha dado.
+conociendo conocerán que no añadirá Jehová Dios de ustedes a hacer heredar estas naciones de delante de faces de ustedes, y serán a ustedes a lazo y a trampa y a azote en sus costados y a espinas en sus ojos, hasta perecer ustedes de sobre este suelo bueno que dio a ustedes Jehová Dios de ustedes.
 
 ### 23:14
 
-Y he aquí que hoy voy por todo el país, y sabréis en vuestros corazones y en vuestros espíritus que no ha faltado ni una sola palabra de todas las buenas palabras que Jehová vuestro Dios ha hablado acerca de vosotros; todo ha llegado a vosotros, no ha faltado ni una sola palabra.
+Y he aquí, yo andando hoy camino de toda la tierra; y conozcan en todo su corazón y en toda su alma que no cayó palabra una de todas las buenas palabras que habló Jehová Dios de ustedes sobre ustedes; el todo vino a ustedes; no cayó de él palabra una.
 
 ### 23:15
 
-Y como ha venido sobre vosotros toda la buena palabra que Jehová vuestro Dios ha hablado acerca de vosotros, así Jehová traerá sobre vosotros toda la mala palabra, hasta destruiros de la buena tierra que Jehová vuestro Dios os ha dado.
+Y será, como que vino sobre ustedes toda la buena palabra que habló Jehová Dios de ustedes a ustedes, así traerá Jehová sobre ustedes toda la mala palabra, hasta destruirlos de sobre este suelo bueno que dio a ustedes Jehová Dios de ustedes,
 
 ### 23:16
 
-Cuando paséis por el pacto de Jehová vuestro Dios que él os ha ordenado, y andéis y sirviéndole a dioses extranjeros y postrándoos ante ellos, se encenderá la ira de Jehová contra vosotros y os destruirá pronto de la buena tierra que Jehová vuestro Dios os ha dado.
+en traspasar ustedes el pacto de Jehová Dios de ustedes que mandó a ustedes, y anduvieron y sirvieron dioses otros y se inclinaron a ellos, y se encenderá la nariz de Jehová en ustedes, y perecerán pronto de sobre la buena tierra que dio a ustedes.
 
 ## Capítulo 24
 
 ### 24:1
 
-Y Josué reunió a todas las tribus de Israel en Siquem, y llamó a los ancianos de Israel, y a sus príncipes, y a sus jueces, y a sus oficiales, y se presentaron ante Dios.
+Y reunió Yehoshúa a todas las tribus de Israel a Shejém, y llamó a ancianos de Israel y a sus cabezas y a sus jueces y a sus oficiales, y se presentaron delante de faces de Dios.
 
 ### 24:2
 
-Y Josué dijo a todo el pueblo: Así ha dicho Jehová, el Dios de Israel: Cuando vuestros padres habitaban al otro lado del río, Teraj, padre de Abraham y padre de Nahor, sirvieron a dioses extranjeros.
+Y dijo Yehoshúa a todo el pueblo: Así dijo Jehová Dios de Israel: En éver del río habitaron sus padres desde siempre, Téraj padre de Abraham y padre de Najor, y sirvieron dioses otros.
 
 ### 24:3
 
-Y yo tomé a vuestro padre a Abraham de al otro lado del río, y le guié por toda la tierra de Canaán, y le multipliqué y le di a Isaac.
+Y tomé a su padre a Abraham de éver del río, y lo hice andar en toda tierra de Canaán, y multipliqué su semilla, y di a él a Yitsjaq.
 
 ### 24:4
 
-Y yo di a Isaac a Jacob y a Esaú, y a Esaú di el monte Seir para poseerlo, y Jacob y sus hijos descendieron a Egipto.
+Y di a Yitsjaq a Yaakov y a Esav; y di a Esav el monte Seír para poseerlo; y Yaakov y sus hijos descendieron a Mizraim.
 
 ### 24:5
 
-Y yo envié a Moisés y a Aarón, y castigué a Egipto como hice en su medio, y después os saqué.
+Y envié a Moisés y a Aarón, y herí a Mizraim como que hice en su seno, y después saqué a ustedes.
 
 ### 24:6
 
-Y los saqué de Egipto y vinieron al mar Rojo, y Egipto los persiguió con carros y jinetes hasta el mar Rojo.
+Y saqué a sus padres desde Mizraim, y vinieron al mar; y persiguieron mizraim detrás de sus padres con carro y con jinetes a mar de Suf.
 
 ### 24:7
 
-Y clamaron al SEÑOR, y él puso una oscuridad entre vosotros y Egipto, y trajo el mar sobre ellos, y vosotros los visteis, y los sepultó el mar, y vosotros vivisteis en el desierto muchos días.
+Y clamaron a Jehová, y puso oscuridad entre ustedes y entre los mizraim, y trajo sobre él el mar y lo cubrió; y vieron sus ojos lo que hice en Mizraim; y habitaron en el desierto muchos días.
 
 ### 24:8
 
-Y os hice entrar en la tierra de los amorreos que habitaba al otro lado del río Jordán, y lucharon contra vosotros, y yo los entregué en vuestras manos, y vosotros los desposestéis de su tierra, y yo los destruí delante de vosotros.
+Y traje a ustedes a la tierra del amorreo habitante en éver del Jordán, y pelearon con ustedes; y di a ellos en su mano, y poseyeron su tierra, y los destruí de faces de ustedes.
 
 ### 24:9
 
-Y Balac, hijo de Zipor, rey de Moab, se levantó y luchó contra Israel, y envió y llamó a Balaam, hijo de Beor, para que te maldeciera.
+Y se levantó Balaq hijo de Tsipor, rey de Moab, y peleó en Israel, y envió y llamó a Bilam hijo de Beor para maldecir a ustedes.
 
 ### 24:10
 
-Y no quise escuchar a Balaam, y bendijo a bendecirte, y yo te protegí de su mano.
+Y no quise oír a Bilam, y bendiciendo bendijo a ustedes, y los libré de su mano.
 
 ### 24:11
 
-Y pasasteis el río Jordán y vinisteis a Jericó, y lucharon contra vosotros los amorreos, y los perizitas, y los cananeos, y los hititas, y los girgasitas, y los heveos, y los jebuseos, y yo los entregué en vuestras manos.
+Y pasaron el Jordán y vinieron a Yerijó, y pelearon en ustedes dueños de Yerijó, el amorreo y el perizí y el cananeo y el hitita y el guirgashí, el jiví y el yevusí; y di a ellos en su mano.
 
 ### 24:12
 
-Y envié delante de ustedes a la serpiente, que las echó de delante de ustedes, a los dos reyes de los amorreos; no con espada ni con arco.
+Y envié delante de faces de ustedes la avispa, y los echó de faces de ustedes, dos reyes del amorreo; no con tu espada y no con tu arco.
 
 ### 24:13
 
-Y les di una tierra que no habían trabajado, y ciudades que no habían construido, y en ellas vivieron; viñedos y olivos que no habían plantado, y ustedes los comieron.
+Y di a ustedes tierra que no te fatigaste en ella, y ciudades que no edificaron, y habitaron en ellas; viñas y olivos que no plantaron, ustedes comiendo.
 
 ### 24:14
 
-Y ahora teman a Jehová y sirvanle con integridad y con verdad, y quiten los dioses que sus padres sirvieron al otro lado del río y en Egipto, y sirvan a Jehová.
+Y ahora, teman a Jehová y sírvanle en integridad y en verdad; y aparten dioses que sirvieron sus padres en éver del río y en Mizraim, y sirvan a Jehová.
 
 ### 24:15
 
-Y si es malo en sus ojos servir a Jehová, escogen hoy a quién servirán, si a los dioses que sus padres sirvieron al otro lado del río, o a los dioses de los amorreos en cuya tierra ustedes habitan; yo y mi casa serviremos a Jehová.
+Y si malo en sus ojos servir a Jehová, escojan ustedes hoy a quién servirán: si a dioses que sirvieron sus padres que en éver del río, y si a dioses del amorreo que ustedes habitando en su tierra; y yo y mi casa serviremos a Jehová.
 
 ### 24:16
 
-Y respondió el pueblo y dijo: ¡Ay de nosotros para dejar a Jehová para servir a dioses ajenos!
+Y respondió el pueblo y dijo: Lejos a nosotros abandonar a Jehová para servir dioses otros.
 
 ### 24:17
 
-Porque Jehová, nuestro Dios, es el que nos ha sacado a nosotros y a nuestros padres de la tierra de Egipto de la casa de servidumbre, y lo que hizo ante nuestros ojos las señales grandes estas, y nos ha guardado en todo el camino por donde hemos andado, y en todo el pueblo por donde hemos pasado en medio de ellos.
+Porque Jehová Dios nuestro, él el que nos hizo subir a nosotros y a nuestros padres desde tierra de Mizraim, desde casa de siervos, y que hizo a nuestros ojos estas señales las grandes estas, y nos guardó en todo el camino que anduvimos en él y en todos los pueblos que pasamos en medio de ellos.
 
 ### 24:18
 
-Y Jehová echó a todos los pueblos y al amorreo que habitaba en la tierra de delante de nosotros, también nosotros serviremos a Jehová, porque él es nuestro Dios.
+Y echó Jehová a todos los pueblos y al amorreo habitante de la tierra de faces de nosotros; también nosotros serviremos a Jehová, porque él Dios nuestro.
 
 ### 24:19
 
-Y dijo Josué al pueblo: No podrán servir a Jehová, porque es Dios santo; Dios celoso, no perdonará a sus pecados ni a sus iniquidades.
+Y dijo Yehoshúa al pueblo: No podrán servir a Jehová, porque Dios santos él; Dios celoso él; no alzará a su transgresión y a sus pecados.
 
 ### 24:20
 
-Porque si abandonan a Jehová y sirven a dioses extraños, volverá y les hará mal y consumirá a ustedes después de que les ha hecho bien.
+Cuando abandonen a Jehová y sirvan dioses de extranjero, y volverá y hará mal a ustedes y acabará a ustedes después que hizo bien a ustedes.
 
 ### 24:21
 
-Y dijo el pueblo a Josué: No, sino que a Jehová serviremos.
+Y dijo el pueblo a Yehoshúa: No, porque a Jehová serviremos.
 
 ### 24:22
 
-Y dijo Josué al pueblo: Testigos son ustedes de sí misms, que ustedes han elegido a Jehová para servirle, y dijeron: Testigos.
+Y dijo Yehoshúa al pueblo: Testigos ustedes en ustedes, que ustedes escogieron a ustedes a Jehová para servirle. Y dijeron: Testigos.
 
 ### 24:23
 
-Y ahora quiten de en medio de ustedes los dioses extraños a los que sirven, y vuelvan sus corazones a Jehová, el Dios de Israel.
+Y ahora, aparten dioses del extranjero que en medio de ustedes, e inclinen su corazón a Jehová Dios de Israel.
 
 ### 24:24
 
-Y el pueblo dijo a Josué: Al Señor nuestro Dios serviremos, y a su voz obedeceremos.
+Y dijo el pueblo a Yehoshúa: A Jehová Dios nuestro serviremos, y en su voz oiremos.
 
 ### 24:25
 
-Y Josué hizo con el pueblo un pacto en aquel día, y le estableció un estatuto y una ley en Siquem.
+Y cortó Yehoshúa pacto al pueblo en aquel día, y puso a él estatuto y juicio en Shejém.
 
 ### 24:26
 
-Y escribió Josué estas palabras en el libro de la ley de Dios, y tomó una piedra grande y la levantó allí, debajo del árbol que está en el santuario de Jehová.
+Y escribió Yehoshúa estas palabras en el libro de la torá de Dios; y tomó piedra grande y la levantó allí debajo de la encina que en el santuario de Jehová.
 
 ### 24:27
 
-Y dijo Josué a todo el pueblo: He aquí esta piedra será para nosotros por testimonio, porque ha oído ella todas las palabras de Jehová que habló con nosotros; y será para vosotros por testimonio, para que no neguéis a vuestros dioses.
+Y dijo Yehoshúa a todo el pueblo: He aquí, esta piedra será en nosotros a testigo, porque ella oyó todas las palabras de Jehová que habló con nosotros; y será en ustedes a testigo, no sea que nieguen a Dios de ustedes.
 
 ### 24:28
 
-Y envió Josué al pueblo, cada uno a su heredad.
+Y envió Yehoshúa al pueblo, varón a su heredad.
 
 ### 24:29
 
-Y después de estas cosas murió Josué, hijo de Nun, siervo de Jehová, de ciento y diez años.
+Y fue después de estas palabras, y murió Yehoshúa hijo de Nun, siervo de Jehová, hijo de ciento y diez años.
 
 ### 24:30
 
-Y lo enterraron en su heredad, en Timnath-Sera, que está en el monte de Efraín, al norte de la montaña de Gaas.
+Y lo sepultaron en el límite de su heredad, en Timnat Séraj que en el monte de Efráyim, al norte del monte Gaash.
 
 ### 24:31
 
-Y sirvió Israel al Señor todos los días de Josué, y todos los días de los ancianos que sobrevivieron a Josué, y que conocieron todas las obras de Jehová que hizo por Israel.
+Y sirvió Israel a Jehová todos los días de Yehoshúa, y todos los días de los ancianos que alargaron días después de Yehoshúa, y que conocieron todo hecho de Jehová que hizo a Israel.
 
 ### 24:32
 
-Y enterraron los huesos de José, que los hijos de Israel subieron de Egipto, en Siquem, en el campo que compró Jacob de los hijos de Hamor, padre de Siquem, por cien piezas de plata; y fueron heredad a los hijos de José.
+Y los huesos de Yosef que hicieron subir hijos de Israel desde Mizraim sepultaron en Shejém, en la porción del campo que compró Yaakov de con hijos de Jamor padre de Shejém en cien quesitá; y fueron a hijos de Yosef a heredad.
 
 ### 24:33
 
-Y murió Eleazar, hijo de Aarón, y lo enterraron en Gibetón de Peniel, que le dio a él.
+Y Elazar hijo de Aarón murió; y lo sepultaron en el collado de Pinjás su hijo, que fue dado a él en el monte de Efráyim.

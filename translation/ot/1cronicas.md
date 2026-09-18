@@ -1,3830 +1,3830 @@
 # 1 Crónicas
 
-> La Biblia Fiel — 1 Crónicas. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> La Biblia Fiel — 1 Crónicas. Segunda pasada contra OSHB / WLC (voz Génesis), pulida. Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
 
 ### 1:1
 
-Adán Set Enoc
+Adán, Set, Enós.
 
 ### 1:2
 
-Cainán Metusalén Jared
+Qenán, Mahalalel, Yered.
 
 ### 1:3
 
-Enoc Metusalén Lamec
+Janoc, Metusalaj, Lémej.
 
 ### 1:4
 
-Noé Sem Cam y Jafet
+Noaj, Sem, Cam y Yafet.
 
 ### 1:5
 
-Hijos de Jafet: Gomer, Magog, Madai, Javán, Tubal, Mesec y Tiras
+Hijos de Yafet: Gómer y Magog y Madai y Yaván y Tubal y Méshej y Tiras.
 
 ### 1:6
 
-Hijos de Gomer: Asnake, Difat y Torgama
+Y hijos de Gómer: Ashkenaz y Difát y Togarmá.
 
 ### 1:7
 
-Hijos de Javán: Elisa, Tarshis, Cetim y Rodanim
+Y hijos de Yaván: Elishá y Tarshishá, Kitim y Rodanim.
 
 ### 1:8
 
-Hijos de Cam: Cuse, Misraim, Put y Canaán
+Hijos de Cam: Cus y Mizraim, Put y Canaán.
 
 ### 1:9
 
-Hijos de Cuse: Saba, Havila, Sabta, Raamá y Sabteca; Hijos de Raamá: Sabá y Dedán
+Y hijos de Cus: Sebá y Havilá y Sabtá y Raamá y Sabteca; y hijos de Raamá: Shebá y Dedán.
 
 ### 1:10
 
-Y Cuse engendró a Némero, que comenzó a ser poderoso en la tierra
+Y Cus parió a Nimrod; él comenzó a ser valiente en la tierra.
 
 ### 1:11
 
-Y Misraim engendró a los Luditas, Anamitas, Lehabitas, Naphturitas
+Y Mizraim parió a los ludim y a los anamim y a los lehavim y a los naftujim
 
 ### 1:12
 
-Y a los Patrusitas, Casluitas, de quienes salieron los Filisteos, y a los Caphtoritas
+y a los patrusim y a los caslujim, que salieron de allí pelishtim, y a los caftorim.
 
 ### 1:13
 
-Y Canaán engendró a Sidón, su primogénito, y a Hete
+Y Canaán parió a Sidón su primogénito y a Jet
 
 ### 1:14
 
-y a los Jebuseos, y a los Amorreos, y a los Girgasitas
+y al yebuseo y al amorreo y al girgaseo
 
 ### 1:15
 
-y a los Hivitas, y a los Aroeritas, y a los Sinitas
+y al hiveo y al arqueo y al sineo
 
 ### 1:16
 
-y a los Arvaditas, y a los Zemaritas, y a los Hamatitas
+y al arvadeo y al zemareo y al hamateo.
 
 ### 1:17
 
-Los hijos de Sem fueron Elam, Asur, Arfaxad, Lud, Aram, Uz, Hul, Geter y Mesec
+Hijos de Sem: Elam y Asur y Arpaxshad y Lud y Aram y Uz y Jul y Guéter y Méshej.
 
 ### 1:18
 
-Y Arfaxad engendró a Shelah, y Shelah engendró a Eber
+Y Arpaxshad parió a Shélaj, y Shélaj parió a Éber.
 
 ### 1:19
 
-Y a Eber le nacieron dos hijos: el nombre del uno fue Peleg, porque en sus días se dividió la tierra, y el nombre de su hermano fue Jectan
+Y a Éber le nacieron dos hijos: nombre del uno Péleg, porque en sus días se dividió la tierra; y nombre de su hermano Yoqtán.
 
 ### 1:20
 
-Y Jectan engendró a Almodad, y a Shelaf, y a Hazarmavet, y a Jerah
+Y Yoqtán parió a Almodad y a Shélef y a Jazarmávet y a Yéraj
 
 ### 1:21
 
-y a Hadoram, y a Uzal, y a Diklah
+y a Hadoram y a Uzal y a Diclá
 
 ### 1:22
 
-y a Obal, y a Abimael, y a Sabá
+y a Eival y a Avimael y a Shebá
 
 ### 1:23
 
-y a Ofir, y a Havila, y a Jobab; todos estos fueron hijos de Jectan
+y a Ofir y a Havilá y a Yobab; todos estos hijos de Yoqtán.
 
 ### 1:24
 
-El nombre de Arfaxad fue Shelah
+Sem, Arpaxshad, Shélaj,
 
 ### 1:25
 
-Éver, Peléj, Reú
+Éber, Péleg, Reú,
 
 ### 1:26
 
-Sarúg, Nahor, Tarah
+Serug, Najor, Téraj,
 
 ### 1:27
 
-Abram era Abraham
+Abram; él Abraham.
 
 ### 1:28
 
-Los hijos de Abraham fueron Isaac y Ismael
+Hijos de Abraham: Yitsjaq y Yismael.
 
 ### 1:29
 
-Estos son sus descendientes: el primogénito de Ismael fue Nebajot, y luego Quedar, Adbeel, Mibsam
+Estas sus generaciones: primogénito de Yismael Nebayot, y Qedar y Adbeel y Mibsam,
 
 ### 1:30
 
-Misma, Dumá, Masá, Hadad y Tema
+Mishma y Dumá, Massá, Jadad y Teimá,
 
 ### 1:31
 
-Jetur, Nafis y Qedemah; estos son los hijos de Ismael
+Yetur, Nafish y Qedemá; estos ellos hijos de Yismael.
 
 ### 1:32
 
-Y los hijos de Ketura, la concubina de Abraham, a quien dio a Zimram, Iajshán, Medán, Midian, Iisbák y Súch, y los hijos de Iajshán fueron Sebá y Dedán
+Y hijos de Qeturá, concubina de Abraham: parió a Zimrán y a Yoqshán y a Medán y a Midyán y a Yishbaq y a Shúaj; y hijos de Yoqshán: Shebá y Dedán.
 
 ### 1:33
 
-Y los hijos de Midian fueron Efa, Efer, Hénoc, Abida y Eldaá; todos estos eran los hijos de Ketura
+Y hijos de Midyán: Eifá y Éfer y Janoc y Avida y Eldáa; todos estos hijos de Qeturá.
 
 ### 1:34
 
-Abraham engendró a Isaac; los hijos de Isaac fueron Esaú y Israel
+Y engendró Abraham a Yitsjaq; hijos de Yitsjaq: Esav e Israel.
 
 ### 1:35
 
-Los hijos de Esaú fueron Elifaz, Reuel, Iajús, Jaalam y Coré
+Hijos de Esav: Elifaz, Reuel y Yeush y Yalam y Qóraj.
 
 ### 1:36
 
-Los hijos de Elifaz fueron Temán, Omer, Seí, Gaat, Quenaz, Temna y Amalec
+Hijos de Elifaz: Temán y Omar, Tsefí y Gátam, Qenaz y Timná y Amaleq.
 
 ### 1:37
 
-Los hijos de Reuel fueron Nahat, Zerah, Shammah y Mizzah
+Hijos de Reuel: Nájat, Zéraj, Shamá y Mizá.
 
 ### 1:38
 
-Los hijos de Seir fueron Lotán, Shobal, Zibeon, Ana, Dishon, Ezer y Dishan
+Y hijos de Seír: Lotán y Shoval y Tsivón y Aná y Dishón y Étser y Dishán.
 
 ### 1:39
 
-Los hijos de Lotán fueron Hori y Homam, y la hermana de Lotán fue Timna
+Y hijos de Lotán: Jorí y Homam; y hermana de Lotán Timná.
 
 ### 1:40
 
-Los hijos de Shobal fueron Alján, Manachat, Ibán, Sefi y Onam, y los hijos de Zibeon fueron Aja y Ana
+Hijos de Shoval: Alyán y Manájat y Eival, Shefí y Onam; y hijos de Tsivón: Ayá y Aná.
 
 ### 1:41
 
-Los hijos de Ana fueron Dishón, y los hijos de Dishón fueron Hemran, Eshban, Itran y Keran
+Hijos de Aná: Dishón; y hijos de Dishón: Jamrán y Eshbán y Yitrán y Kerán.
 
 ### 1:42
 
-Los hijos de Ezer fueron Belán, Zaván y Jaacán, y los hijos de Dishón fueron Uz y Aran
+Hijos de Étser: Bilhán y Zaaván, Yaacán; hijos de Dishán: Uz y Arán.
 
 ### 1:43
 
-Estos fueron los reyes que reinaron en la tierra de Edom antes de que reinara rey alguno sobre los hijos de Israel: Bela, hijo de Beor, y el nombre de su ciudad era Dinhaba
+Y estos los reyes que reinaron en tierra de Edom, delante de reinar rey a hijos de Israel: Béla hijo de Beor, y nombre de su ciudad Dinhabá.
 
 ### 1:44
 
-Murió Bela, y reinó en su lugar Jobab, hijo de Zera, de Botsra
+Y murió Béla, y reinó debajo de él Yobab hijo de Zéraj desde Botsrá.
 
 ### 1:45
 
-Murió Jobab, y reinó en su lugar Husam, de la tierra de Teman
+Y murió Yobab, y reinó debajo de él Jusham desde tierra del temaní.
 
 ### 1:46
 
-Murió Husam, y reinó en su lugar Hadad, hijo de Bedad, que derrotó a Midián en los campos de Moab, y el nombre de su ciudad era Avith
+Y murió Jusham, y reinó debajo de él Hadad hijo de Bedad, el hiriente a Midyán en campo de Moab, y nombre de su ciudad Avit.
 
 ### 1:47
 
-Murió Hadad, y reinó en su lugar Samla, de Masrekah
+Y murió Hadad, y reinó debajo de él Samlá desde Masrecá.
 
 ### 1:48
 
-Murió Samla, y reinó en su lugar Saúl, de los campos del río
+Y murió Samlá, y reinó debajo de él Shaul desde Rejovot el río.
 
 ### 1:49
 
-Murió Saúl, y reinó en su lugar Balacán, hijo de Acbor
+Y murió Shaul, y reinó debajo de él Baal Janán hijo de Acbor.
 
 ### 1:50
 
-Murió Balacán, y reinó en su lugar Hadad, y la ciudad de este era Pai, y el nombre de su mujer era Mehetabel, hija de Matred, hija de Mezahab
+Y murió Baal Janán, y reinó debajo de él Hadad, y nombre de su ciudad Pai, y nombre de su mujer Meheitavel hija de Matred hija de Mei Zahav.
 
 ### 1:51
 
-Murió Hadad, y fueron jefes de Edom: jefe Temán, jefe Alaí, jefe Jetet
+Y murió Hadad; y fueron jefes de Edom: jefe Timná, jefe Alvá, jefe Yetet,
 
 ### 1:52
 
-jefe Aholibama, jefe Ela, jefe Penín
+jefe Oholibamá, jefe Elá, jefe Pinón,
 
 ### 1:53
 
-jefe Quenaz, jefe Temán, jefe Mibzar
+jefe Qenaz, jefe Temán, jefe Mivtsar,
 
 ### 1:54
 
-jefe Magdiel, jefe Iram, estos eran jefes de Edom
+jefe Magdiel, jefe Iram; estos jefes de Edom.
 
 ## Capítulo 2
 
 ### 2:1
 
-Estos son los hijos de Israel: Rubén, Simeón, Leví, Judá, Isacar, Zabulón
+Estos hijos de Israel: Reuvén, Shimón, Leví y Yehudá, Yisasjar y Zevulún,
 
 ### 2:2
 
-Dan, José, Benjamín, Neftalí, Gad, Aser
+Dan, Yosef y Binyamín, Naftalí, Gad y Asher.
 
 ### 2:3
 
-Los hijos de Judá fueron Er, Onán y Selá, tres nacieron de ella, de la hija de Cuaj, cananea. Y Er, el primogénito de Judá, fue malo ante el Señor, y el Señor lo mató
+Hijos de Yehudá: Er y Onán y Selá; tres le nacieron de hija de Shúa la cananea; y fue Er primogénito de Yehudá malo en ojos de Jehová, y lo mató.
 
 ### 2:4
 
-Y Tamar, su nuera, le dio a luz a Peres y a Zara, todos los hijos de Judá fueron cinco
+Y Tamar su nuera le parió a Pérez y a Zéraj; todos hijos de Yehudá cinco.
 
 ### 2:5
 
-Los hijos de Peres fueron Hetrom y Hamul
+Hijos de Pérez: Jetsrón y Jamul.
 
 ### 2:6
 
-Y los hijos de Zara fueron Zimri, Etán, Hemán, Calcol y Dara, todos ellos cinco
+Y hijos de Zéraj: Zimrí y Etán y Hemán y Calcol y Dará; todos ellos cinco.
 
 ### 2:7
 
-Los hijos de Carmi fueron Achar, el que hizo pecar a Israel al desobedecer el mandato
+Y hijos de Carmí: Akar, turbador de Israel, que se desvió en el jérem.
 
 ### 2:8
 
-Los hijos de Eitan fueron Azaraya
+Y hijos de Etán: Azaryá.
 
 ### 2:9
 
-Los hijos de Hetzron, nacidos para él, fueron Jerameel, Ram y Calubi
+Y hijos de Jetsrón que le nacieron: a Yerajmeel y a Ram y a Keluvai.
 
 ### 2:10
 
-Ram engendró a Aminadab, y Aminadab engendró a Nahshon, el jefe de los hijos de Judá
+Y Ram engendró a Aminadav, y Aminadav engendró a Najshón, príncipe de hijos de Yehudá.
 
 ### 2:11
 
-Nahshon engendró a Salma, y Salma engendró a Boaz
+Y Najshón engendró a Salmá, y Salmá engendró a Boaz.
 
 ### 2:12
 
-Boaz engendró a Obed, y Obed engendró a Jessé
+Y Boaz engendró a Obed, y Obed engendró a Yishai.
 
 ### 2:13
 
-Jessé engendró a su primogénito, Eliab, y a Abinadab el segundo, y a Semaja el tercero
+Y Yishai engendró a su primogénito a Eliav, y Avinadav el segundo, y Shimá el tercero,
 
 ### 2:14
 
-Natan el cuarto, Radai el quinto
+Netanel el cuarto, Radái el quinto,
 
 ### 2:15
 
-Azmavet el sexto, David el séptimo
+Otsem el sexto, David el séptimo.
 
 ### 2:16
 
-Sus hermanas fueron Tsruja y Abigaíl. Los hijos de Tsruja fueron Absalom, Joab y Asahel, tres en total
+Tseruyá y Avigáyil; y hijos de Tseruyá: Avishai y Yoav y Asáel; tres.
 
 ### 2:17
 
-Abigaíl dio a luz a Amasa, y el padre de Amasa era Jether el ismaelita
+Y Avigáyil parió a Amasá; y padre de Amasá Yéter el yishmaelí.
 
 ### 2:18
 
-Caleb, hijo de Hetzron, engendró a Azubah, mujer, y a Jerioth. Sus hijos fueron Jaser, Sobab y Ardon
+Y Calev hijo de Jetsrón engendró a Azuvá mujer y a Yeriot; y estos sus hijos: Yésher y Shovav y Ardon.
 
 ### 2:19
 
-Murió Azubah, y Caleb tomó a Efrafá, y Efrafá dio a luz a Hur.
+Y murió Azuvá, y tomó para sí Calev a Efrat, y ella le parió a Jur.
 
 ### 2:20
 
-Hur engendró a Uri, y Uri engendró a Betzaléel.
+Y Jur engendró a Urí, y Urí engendró a Betsalel.
 
 ### 2:21
 
-Después vino Hetzron a la hija de Makir, padre de Galaad, y la tomó por esposa; él tenía sesenta años, y ella dio a luz a Segub.
+Y después vino Jetsrón a hija de Majir padre de Guilad, y él la tomó, y él hijo de sesenta año, y ella le parió a Seguv.
 
 ### 2:22
 
-Y Segub engendró a Jaír, y tuvo veinte y tres ciudades en la tierra de Galaad.
+Y Seguv engendró a Yair; y hubo a él veinte y tres ciudades en tierra del Guilad.
 
 ### 2:23
 
-Y Geshur y Aram tomaron de ellos a los hijos de Jaír, a Quenat y a los sesenta ciudades.
+Y tomó Gueshur y Aram las aldeas de Yair de con ellos, a Qenat y a sus hijas, sesenta ciudad; todos estos hijos de Majir padre de Guilad.
 
 ### 2:24
 
-Y después de la muerte de Hetzron en Caleb Efrafá, tomó a Ezer, mujer de Hetzron, y ella dio a luz a Ashur, padre de Tekoa.
+Y después de muerte de Jetsrón en Calev Efratá, y mujer de Jetsrón Aviyá, y ella le parió a Ashjur padre de Teqoa.
 
 ### 2:25
 
-Y los hijos de Jerameel, el primogénito de Hetzron, fueron Ram, Buná, Oren y Otsem, y Ahiya.
+Y fueron hijos de Yerajmeel primogénito de Jetsrón: el primogénito Ram, y Buná y Oren y Otsem Ajíyá.
 
 ### 2:26
 
-Y tuvo otra mujer Jerameel, y su nombre era Atara, madre de Onam.
+Y hubo mujer otra a Yerajmeel, y su nombre Atará; ella madre de Onam.
 
 ### 2:27
 
-Y los hijos de Ram, el primogénito de Jerameel, fueron Maacés, Jamin y Eker.
+Y fueron hijos de Ram primogénito de Yerajmeel: Maats y Yamín y Éqer.
 
 ### 2:28
 
-Y los hijos de Onam fueron Samay y Yada, y los hijos de Samay fueron Nada y Abisur.
+Y fueron hijos de Onam: Shamai y Yadú; y hijos de Shamai: Nadav y Avishur.
 
 ### 2:29
 
-Y el nombre de la mujer de Abisur era Abihail, y ella dio a luz a Ahban y a Molid.
+Y nombre de mujer de Avishur Aviháil, y ella le parió a Ajbán y a Molid.
 
 ### 2:30
 
-Y los hijos de Nada fueron Selad y Afeim, y Selad murió sin hijos.
+Y hijos de Nadav: Séled y Apáyim; y murió Séled sin hijos.
 
 ### 2:31
 
-Y los hijos de Afayim fueron Yeshi, y los hijos de Yeshi fueron Sheshan, y los hijos de Sheshan fueron Achlay.
+Y hijos de Apáyim: Yishí; y hijos de Yishí: Sheshán; y hijos de Sheshán: Ajlái.
 
 ### 2:32
 
-Y los hijos de Yadá, hermano de Shammay, fueron Yeter y Jonatán, y murió Yeter sin hijos.
+Y hijos de Yadú hermano de Shamai: Yéter y Yonatán; y murió Yéter sin hijos.
 
 ### 2:33
 
-Y los hijos de Jonatán fueron Pelat y Zaza, estos fueron los hijos de Jerahmeel.
+Y hijos de Yonatán: Pélet y Zazá; estos fueron hijos de Yerajmeel.
 
 ### 2:34
 
-Y a Sheshan no le nacieron hijos, sino hijas, y a Sheshan tenía un esclavo egipcio, y su nombre era Jarah.
+Y no hubo a Sheshán hijos, sino hijas; y a Sheshán un siervo mizrí, y su nombre Yarjá.
 
 ### 2:35
 
-Y Sheshan dio a su hija a Jarah, su esclavo, por mujer, y ella le dio a luz a Atya.
+Y dio Sheshán su hija a Yarjá su siervo por mujer, y ella le parió a Atái.
 
 ### 2:36
 
-Y Atya engendró a Nathan, y Nathan engendró a Zabad.
+Y Atái engendró a Natán, y Natán engendró a Zavad.
 
 ### 2:37
 
-Y Zabad engendró a Eflal, y Eflal engendró a Obad.
+Y Zavad engendró a Eflal, y Eflal engendró a Obed.
 
 ### 2:38
 
-Y Obad engendró a Yeho, y Yeho engendró a Azarya.
+Y Obed engendró a Yehu, y Yehu engendró a Azaryá.
 
 ### 2:39
 
-Y Azarya engendró a Halez, y Halez engendró a Elasa.
+Y Azaryá engendró a Jélets, y Jélets engendró a Elasá.
 
 ### 2:40
 
-Y Elasa engendró a Sisamay, y Sisamay engendró a Shalum.
+Y Elasá engendró a Sismai, y Sismai engendró a Shalum.
 
 ### 2:41
 
-Y Shalum engendró a Yeqamya, y Yeqamya engendró a Elishama.
+Y Shalum engendró a Yeqamyá, y Yeqamyá engendró a Elishamá.
 
 ### 2:42
 
-Y los hijos de Caleb, hermano de Jerahmeel, fueron Meishá, su primogénito, fue padre de Zif, y los hijos de Maresa fueron padre de Hebrón.
+Y hijos de Calev hermano de Yerajmeel: Meshá su primogénito; él padre de Zif; y hijos de Mareshá padre de Hevrón.
 
 ### 2:43
 
-Y los hijos de Hebrón fueron Korah, Tappuah, Rekem y Shemam.
+Y hijos de Hevrón: Qóraj y Tapúaj y Réqem y Sháma.
 
 ### 2:44
 
-Y Shemam engendró a Raham, padre de Yerahmeel, y Rekem engendró a Shamma.
+Y Sháma engendró a Rajam padre de Yorqeam, y Réqem engendró a Shamai.
 
 ### 2:45
 
-Y el hijo de Shamma fue Maon, y Maon fue padre de Bet Zur.
+Y hijo de Shamai Maón, y Maón padre de Bet Tsur.
 
 ### 2:46
 
-Y Eipha, concubina de Caleb, engendró a Haran, a Moza y a Gazez; y Haran engendró a Gazez.
+Y Eifá, concubina de Calev, parió a Jarán y a Motsá y a Gazez; y Jarán engendró a Gazez.
 
 ### 2:47
 
-Y los hijos de Jahdai fueron Regem, Jotam, Gesha, Pelete, Eipha y Shaaph.
+Y hijos de Yahdái: Réguem y Yotam y Guéshan y Pélet y Eifá y Sháaf.
 
 ### 2:48
 
-Y la concubina de Caleb, Maacah, engendró a Sheber y a Tirhanah.
+Concubina de Calev Maacá parió a Shéver y a Tirjaná.
 
 ### 2:49
 
-Y Shaaph engendró a Madmannah, a Shua, padre de Machbenah y padre de Gibeon; y la hija de Caleb fue Acsah.
+Y parió Sháaf padre de Madmaná a Shevá padre de Majbená y padre de Givá; y hija de Calev Acsá.
 
 ### 2:50
 
-Estos fueron los hijos de Caleb, hijo de Hur, el primogénito de Efrata: Shobab, padre de Kiriath Jearim.
+Estos fueron hijos de Calev hijo de Jur primogénito de Efratá: Shoval padre de Qiryat Yearim,
 
 ### 2:51
 
-Salma, padre de Bet Lehem, y Haroeh, padre de Bet Gader.
+Salmá padre de Bet Léjem, Jaref padre de Bet Gader.
 
 ### 2:52
 
-Y los hijos de Shobab, padre de Kiriath Jearim, fueron Hare, la mitad de los Manahathitas.
+Y hubo hijos a Shoval padre de Qiryat Yearim: Haroé, mitad de los menujot.
 
 ### 2:53
 
-Y las familias de Kiriath Jearim fueron las de Yitrites, los de Puteites, los de Shumathites, los de Misraites, de los cuales salieron los de Zorathites y los de Eshtaolites.
+Y familias de Qiryat Yearim: el yitrí y el putí y el shumatí y el mishraí; de estos salieron el tsoratí y el eshtaolí.
 
 ### 2:54
 
-Y los hijos de Salma fueron Bet Lehem, Netophatites, Ataroth, Bet Joab, y la mitad de los Manahathitas, los Zorathites.
+Hijos de Salmá: Bet Léjem y el netofatí, Atrot Bet Yoav, y mitad del menajatí, el tsorí.
 
 ### 2:55
 
-Y las familias de escribas vivían en Iabes, Tirate, Semate, y Sucate; eran los quininos que vinieron de Camat, padre de los que habitan en Bet-Rebav.
+Y familias de escribas habitantes de Yabetz: tiratim, shimeatim, sucatim; ellos los qenitas venidos de Jamat padre de casa de Recav.
 
 ## Capítulo 3
 
 ### 3:1
 
-Estos fueron los hijos de David nacidos en Hebrón: el primogénito Amnón, de Ajinoam la yezraelita; el segundo, Daniel, de Abigail la carmelita;
+Y estos fueron hijos de David que le nacieron en Hevrón: el primogénito Amnón, de Ajinoam la yizreelit; segundo Daniel, de Avigáyil la karmelí;
 
 ### 3:2
 
-el tercero, Absalón, hijo de Maaca, hija de Talmai, rey de Gesur; el cuarto, Adonías, hijo de Hagita;
+el tercero Avshalom hijo de Maacá hija de Talmai rey de Gueshur; el cuarto Adoniyá hijo de Jaguit;
 
 ### 3:3
 
-el quinto, Saúl, hijo de Abitál; el sexto, Efer, esposo de Maaca.
+el quinto Shefatyá, de Avital; el sexto Yitream, de Eglá su mujer.
 
 ### 3:4
 
-En Hebrón nació seis hijos a David, y reinó allí siete años y seis meses. En Jerusalén reinó treinta y tres años.
+Seis le nacieron en Hevrón; y reinó allí siete años y seis meses; y treinta y tres años reinó en Yerushaláyim.
 
 ### 3:5
 
-Estos son los hijos nacidos a David en Jerusalén: Semaja, Sobab, Nathan, Salomón, cuatro hijos de Suá, hija de Ammiel.
+Y estos le nacieron en Yerushaláyim: Shimá y Shovav y Natán y Shelomó, cuatro, de Bat-Shúa hija de Amiël;
 
 ### 3:6
 
-Ibhar, Eliasam, Elipelete
+e Yivjar y Elishamá y Elifelet
 
 ### 3:7
 
-Nogah, Nepheg, Jafia
+y Nogá y Néfeg y Yafía
 
 ### 3:8
 
-Eliasam, Eliada, Elipelete, nueve.
+y Elishamá y Elyadá y Elifelet, nueve.
 
 ### 3:9
 
-Todos los hijos de David, aparte de los hijos de sus concubinas; y Tamar era hermana suya.
+Todos hijos de David, aparte de hijos de concubinas; y Tamar su hermana.
 
 ### 3:10
 
-Y el hijo de Salomón fue Roboam, Abías hijo suyo, Asa hijo suyo, Josafat hijo suyo,
+Y hijo de Shelomó Rejavam; Aviyá su hijo, Asá su hijo, Yehoshafat su hijo,
 
 ### 3:11
 
-Joram hijo suyo, Acasías hijo suyo, Joás hijo suyo.
+Yoram su hijo, Ajazyahu su hijo, Yoash su hijo,
 
 ### 3:12
 
-Amatías hijo suyo, Azarías hijo suyo, Joatham hijo suyo
+Amatsyahu su hijo, Azaryá su hijo, Yotam su hijo,
 
 ### 3:13
 
-Acas hijo suyo, Ezequías hijo suyo, Manasés hijo suyo
+Ajaz su hijo, Jizqiyahu su hijo, Menashé su hijo,
 
 ### 3:14
 
-Amón hijo suyo, Josías hijo suyo
+Amón su hijo, Yoshiyahu su hijo.
 
 ### 3:15
 
-Y los hijos de Josías: el primogénito Joacán, el segundo Jecónías, el tercero Sedecías, el cuarto Salum
+Y hijos de Yoshiyahu: el primogénito Yojanán, el segundo Yehoyaqim, el tercero Tsidqiyahu, el cuarto Shalum.
 
 ### 3:16
 
-Y los hijos de Jecónías: Jeconías hijo suyo, Sedecías hijo suyo
+Y hijos de Yehoyaqim: Yecanyá su hijo, Tsidqiyá su hijo.
 
 ### 3:17
 
-Y los hijos de Jeconías el cautivo: Salatías hijo suyo
+Y hijos de Yecanyá el cautivo: Shealtiel su hijo,
 
 ### 3:18
 
-Malquirjam y Pedaya y Senazar, Jeqamías y Hasamá, Nodabías
+y Malquiram y Pedayá y Shenatsar, Yeqamyá, Hoshamá y Nedavyá.
 
 ### 3:19
 
-Y los hijos de Pedaya: Zorobabel y Simi, y los hijos de Zorobabel: Mesulam, Hananías y Shelomit, hermana suya
+Y hijos de Pedayá: Zerubavel y Shimí; y hijo de Zerubavel Meshulam y Jananyá, y Shelomit su hermana,
 
 ### 3:20
 
-Y Hasuba y Aholiab, Berequías y Hasadejas, Joas, cinco
+y Jashuvá y Óhel y Berecyá y Jasadyá, Yushav Jésed; cinco.
 
 ### 3:21
 
-Y el hijo de Hananías: Pelatías y Jeseías, hijos de Repaja, hijos de Arnan, hijos de Obadias, hijos de Secanías
+Y hijo de Jananyá Pelatyá y Yeshayá; hijos de Refayá, hijos de Arnán, hijos de Ovadya, hijos de Shecanyá.
 
 ### 3:22
 
-Y los hijos de Secanías: Salu, y los hijos de Salu: Helam, Jegaal, Bariah, Nejerías, Safat, seis
+Y hijos de Shecanyá: Shemayá; y hijos de Shemayá: Jatush y Yigal y Baría y Neará y Shafat; seis.
 
 ### 3:23
 
-Y el hijo de Nejerías: Elíoenei, Hizquías y Azrikam, tres
+Y hijo de Neará: Elyoenai y Jizqiyá y Azriqam; tres.
 
 ### 3:24
 
-Y los hijos de Elíoenei: Eliashib, Pelaya, Acub, Joacán, Dalajah y Anani, siete
+Y hijos de Elyoenai: Hodavyahu y Elyashiv y Pelayá y Acuv y Yojanán y Delayá y Ananí; siete.
 
 ## Capítulo 4
 
 ### 4:1
 
-Los hijos de Judá: Peres, Querson, Carmi, Hur y Sobal
+Hijos de Yehudá: Pérez, Jetsrón y Carmí y Jur y Shoval.
 
 ### 4:2
 
-Y Raía, hijo de Sobal, engendró a Jahat, y Jahat engendró a Ahumai y a Lahad; estos son las tribus de los zorátitas
+Y Reayá hijo de Shoval engendró a Yájat, y Yájat engendró a Ajumai y a Láhad; estas familias del tsoratí.
 
 ### 4:3
 
-Y estos son los padres de Etam: Yiserael, Yisma y Yidbash; y el nombre de su hermana era Hazleponi
+Y estos del padre de Eitam: Yizreel y Yishmá y Yidvásh; y nombre de su hermana Hatslelponí.
 
 ### 4:4
 
-Y Fenuel, padre de Gedora, y Ezar, padre de Husa; estos son los hijos de Hur, el primogénito de Efrata, padre de Bet Lehem
+Y Penuel padre de Guedor, y Ézer padre de Jushá; estos hijos de Jur primogénito de Efratá, padre de Bet-Léjem.
 
 ### 4:5
 
-Y a Ashur, padre de Tekoa, tuvieron dos mujeres: Helah y una joven
+Y a Ashjur padre de Tekoa hubo dos mujeres: Jelá y Naará.
 
 ### 4:6
 
-Y la joven dio a luz a un hijo a quien llamó Acazum, y a Hefer, y a Temni, y al que se llamaba Haashtarí; estos son los hijos de la joven
+Y le parió Naará a Ajuzam y a Jéfer y a Teimní y a Haajastarí; estos hijos de Naará.
 
 ### 4:7
 
-Y los hijos de Helah: Zeret, Yashar y Etnán
+Y hijos de Jelá: Tséret y Etsnán.
 
 ### 4:8
 
-Y Coz engendró a Anub y a Hatzevah; y las tribus de Acharhel, hijo de Harum
+Y Qots engendró a Anuv y a Hatsovevá, y familias de Ajarjel hijo de Harum.
 
 ### 4:9
 
-Y fue Yabetz muy honrado entre sus hermanos; y su madre llamó a su hijo Yabetz, diciendo: Porque me ha dado a luz en mi aflicción
+Y fue Yaavets más honrado que sus hermanos; y su madre llamó su nombre Yaavets, diciendo: Porque lo parí con dolor.
 
 ### 4:10
 
-Y Yabetz llamó a Dios de Israel, diciendo: Si me bendices y multiplicas mi heredad, y tu mano está conmigo, y haces mal a mis enemigos, para que no me afligan; y Dios le dio lo que había pedido
+Y llamó Yaavets al Dios de Israel, diciendo: ¡Si de veras me bendijeras, y ensancharas mi término, y estuviera tu mano conmigo, y hicieras de mal para que no me duela! Y trajo Dios lo que pidió.
 
 ### 4:11
 
-Y Kelub, hermano de Shuah, engendró a Mehir, él es padre de Eshetón
+Y Keluv hermano de Shujá engendró a Mejir; él padre de Eshtón.
 
 ### 4:12
 
-Eshetón engendró a Bet-Rafa y a Paséj y a Tichná, padre de Ir-Nahash. Estos son los hombres de Reka.
+Y Eshtón engendró a Bet-Rafa y a Páséaj y a Tejiná padre de Ir-Najash; estos hombres de Recá.
 
 ### 4:13
 
-Los hijos de Qenaz fueron Ateniel y Serajah. Los hijos de Ateniel fueron Chatat.
+Y hijos de Qenaz: Otniel y Serayá; y hijos de Otniel: Jatat.
 
 ### 4:14
 
-Moenotai engendró a Ofra. Serajah engendró a Joab, padre del valle de los alfareros, porque eran alfareros.
+Y Meonotai engendró a Ofrá; y Serayá engendró a Yoav padre del valle de los artesanos, porque artesanos fueron.
 
 ### 4:15
 
-Los hijos de Caleb, hijo de Jefuné, fueron Iru, Ela y Naam. Los hijos de Ela fueron Quenaz.
+Y hijos de Calev hijo de Yefuné: Irú, Elá y Náam; y hijos de Elá: y Qenaz.
 
 ### 4:16
 
-Los hijos de Yehalelel fueron Zif, Zifa, Tira y Asareel.
+Y hijos de Yehallelél: Zif y Zifá, Tireyá y Asarel.
 
 ### 4:17
 
-El hijo de Ezrah fue Yeter, Mered, Efer y Jalon. Mered tuvo a Miriam, Shammai y Ishbah, padre de Eshtemoa.
+Y hijo de Ezrá: Yéter y Méred y Éfer y Yalón; y ella concibió a Miryam y a Shamai y a Yishbaj padre de Eshtemoa.
 
 ### 4:18
 
-Su esposa, la judía, tuvo a Jered, padre de Gedor, a Heber, padre de Socho, y a Jekuthiel, padre de Zanoah. Estos son los hijos de Bithiah, hija de Faraón, que tomó Mered.
+Y su mujer la yehudí parió a Yéred padre de Guedor y a Jéver padre de Socó y a Yekutiel padre de Zanóaj; y estos hijos de Bityá hija de Faraón, que tomó Méred.
 
 ### 4:19
 
-Los hijos de la esposa de Hodiyyah, hermana de Naham, padre de Keilah el garmite, fueron Eshtemoa el maacate.
+Y hijos de mujer de Hodiyá hermana de Najam: padre de Keilá el garmí, y Eshtemoa el maacatí.
 
 ### 4:20
 
-Los hijos de Simón fueron Amnon, Rinna, hijo de Hanan, Tilon y los hijos de Yishi, Zoheth y el hijo de Zoheth.
+Y hijos de Shimón: Amnón y Riná, Ben-Janán; y hijos de Yishí: Zójet y Ben-Zójet.
 
 ### 4:21
 
-Los hijos de Shelah, hijo de Judá, fueron Er, padre de Lecah, Laadah, padre de Mareshah, y las familias de los que habitaban en Beth-Aboda y Beth-Shara.
+Hijos de Selá hijo de Yehudá: Er padre de Lecá, y Laedá padre de Mareshá, y familias de casa del trabajo del lino de Bet-Ashbea;
 
 ### 4:22
 
-Yokim, los hombres de Cozba, Joash, Saraph, que subieron a Moab y a los que regresaron a los de Cemarim, y los que hablaban cosas antiguas.
+y Yoqim y hombres de Cozevá, y Yoash y Saraf, que se enseñorearon de Moav, y Yashuví-Léjem; y las cosas son antiguas.
 
 ### 4:23
 
-Ellos eran los que formaban y habitaban en plantaciones y en cercados. Trabajaban para el rey.
+Ellos los alfareros y habitantes de Netaim y Guederá; con el rey en su obra habitaron allí.
 
 ### 4:24
 
-Los hijos de Simeón: Nemuel, Yamín, Jarib, Zerah, Saúl
+Hijos de Shimón: Nemuel y Yamín, Yariv, Zéraj, Shaul;
 
 ### 4:25
 
-Salum, hijo de Bisham, hijo de Mishma
+Shalum su hijo, Mivsam su hijo, Mishmá su hijo.
 
 ### 4:26
 
-Y los hijos de Mishma: Hamuel, Zacur, Shimei
+Y hijos de Mishmá: Jamuel su hijo, Zacur su hijo, Shimí su hijo.
 
 ### 4:27
 
-Y a Shimei le nacieron dieciséis hijos y seis hijas, y a sus hermanos no les nacieron muchos hijos, y toda su familia no se multiplicó tanto como la de Judá
+Y a Shimí hijos dieciséis y hijas seis; y a sus hermanos no hubo hijos muchos; y toda su familia no se multiplicó hasta hijos de Yehudá.
 
 ### 4:28
 
-Y habitaron en Berseba, Molada y Hasar Suah
+Y habitaron en Beer-Sheva y Moladá y Hatsar-Shual
 
 ### 4:29
 
-Y en Bilhah, Ezem y Tolad
+y en Bilhá y en Étsem y en Tolad
 
 ### 4:30
 
-Y en Betuel, Horma y Ziklag
+y en Betuel y en Jormá y en Tsiqlag
 
 ### 4:31
 
-Y en Betmarcaboth, Hasarsusim, Betbiri y Soco. Estas son sus ciudades hasta el reinado de David
+y en Bet-Marcavot y en Hatsar-Susim y en Bet-Birí y en Shaaráyim; estas sus ciudades hasta reinado de David.
 
 ### 4:32
 
-Y sus aldeas: Etam, Ain, Rimón, Tochen y Ashan. Ciudades cinco
+Y sus aldeas: Eitam y Ayin, Rimón y Tocén y Ashán; ciudades cinco.
 
 ### 4:33
 
-Y todas sus aldeas que están alrededor de estas ciudades hasta Baal. Estas son sus moradas y sus establecimientos
+Y todas sus aldeas que alrededor de estas ciudades hasta Baal; esta su habitación, y su registro genealógico para ellos.
 
 ### 4:34
 
-Y Meshebabe, Jamlech y Joshah, hijo de Amaziah
+Y Meshovav y Yamlec y Yoshá hijo de Amatsyá
 
 ### 4:35
 
-Y Joel y Jehu, hijo de Josibiah, hijo de Seraiah, hijo de Asiel
+y Yoel y Yehú hijo de Yoshivyá hijo de Serayá hijo de Asiel
 
 ### 4:36
 
-Y Eleoinay, y Jacoba, y Joshajah, y Asajah, y Adiel, y Isimael, y Benajah
+y Elioenai y Yaacová y Yeshójaya y Asayá y Adiel y Yesimiel y Benayá
 
 ### 4:37
 
-Y Ziza, hijo de Sefai, hijo de Alon, hijo de Yediah, hijo de Shemri, hijo de Semaja
+y Zizá hijo de Shifí hijo de Alón hijo de Yedayá hijo de Shimrí hijo de Shemayá;
 
 ### 4:38
 
-Estos son los que vinieron con sus nombres, jefes de sus familias, y sus antepasados se multiplicaron en gran número
+estos los que vinieron por nombres, príncipes en sus familias; y casa de sus padres se extendió a muchedumbre.
 
 ### 4:39
 
-Y fueron al valle de Gedor hasta el este del valle para buscar pasto para sus ovejas
+Y fueron a entrada de Guedor hasta al oriente del valle, a buscar pastizal para su ganado.
 
 ### 4:40
 
-Y encontraron pasto graso y bueno, y la tierra era amplia y tranquila y pacífica, porque antes vivían allí los habitantes de Ham
+Y hallaron pastizal gordo y bueno, y la tierra ancha de manos y quieta y en paz; porque de Cam los habitantes allí antes.
 
 ### 4:41
 
-Y vinieron estos que estaban escritos por sus nombres en los días de Ezequías, rey de Judá, y los golpearon y destruyeron sus tiendas y sus pozos que encontraron allí, y los destruyeron hasta el día de hoy, y habitaron en sus tiendas, porque allí había pasto para sus ovejas
+Y vinieron estos los escritos por nombres en días de Yejizquiyáhu rey de Yehudá, y golpearon sus tiendas y a los que se hallaron allí, y los dedicaron al jérem hasta este día, y habitaron en lugar de ellos, porque pastizal para su ganado allí.
 
 ### 4:42
 
-Y de ellos, de los hijos de Simeón, cincocientos hombres, y Pelatías, y Nearías, y Refaja, y Uzías, hijos de Jesi, a su cabeza
+Y de ellos, de hijos de Shimón, fueron al monte Seir hombres quinientos, y Pelatyá y Nearvá y Refayá y Uziel hijos de Yishí a su cabeza.
 
 ### 4:43
 
-Y los golpearon a los restos de los filisteos y habitaron allí hasta el día de hoy
+Y golpearon el resto del escape de Amalec, y habitaron allí hasta este día.
 
 ## Capítulo 5
 
 ### 5:1
 
-Y los hijos de Rubén, el primogénito de Israel, porque era el primogénito, pero por la profanación de su linaje, su primogenitura fue dada a los hijos de José, hijo de Israel, y no para que se despreciara la primogenitura
+Y hijos de Reuvén, primogénito de Israel —porque él el primogénito, y en su profanar lechos de su padre fue dada su primogenitura a hijos de Yosef hijo de Israel, y no para hacerse linaje para la primogenitura.
 
 ### 5:2
 
-Porque Judá prevaleció sobre sus hermanos, y de él salió el príncipe, pero la primogenitura fue para José
+Porque Yehudá prevaleció en sus hermanos, y para naguíd de él, y la primogenitura a Yosef.
 
 ### 5:3
 
-Los hijos de Rubén, el primogénito de Israel: Hanoc, y Palu, y Hezron, y Carmi
+Hijos de Reuvén, primogénito de Israel: Janój y Palú, Hetzrón y Karmí.
 
 ### 5:4
 
-Los hijos de Joel: Semaja, su hijo, Gog, su hijo, Shimei, su hijo
+Hijos de Yoel: Shemayá su hijo, Gog su hijo, Shimí su hijo,
 
 ### 5:5
 
-Mica hijo, Reaja hijo, Baal hijo
+Mijá su hijo, Reayá su hijo, Baal su hijo,
 
 ### 5:6
 
-Berah hijo, el que llevó en cautiverio Tilgat-Pilneser, rey de Asiria, él era jefe para los rubenitas
+Beerá su hijo, a quien deportó Tilgat Pilnéser rey de Ashur; él naguíd al reuvení.
 
 ### 5:7
 
-Y sus hermanos por familias, en su registro, el jefe Yediael y Zaccur
+Y sus hermanos por sus clanes, en el hacerse linaje según sus generaciones: la cabeza Yeiel, y Zecaríahu,
 
 ### 5:8
 
-Y Bela hijo de Azaz, hijo de Semah, hijo de Joel, él habitaba en Aroer, hasta Nebo y Baal-Meon
+y Béla hijo de Azaz, hijo de Shéma, hijo de Yoel; él habitando en Aroer y hasta Nevó y Baal Meón.
 
 ### 5:9
 
-Y al este habitaban hasta el desierto de Haurán, al lado del río Eufrates, porque sus ganados eran muchos en la tierra de Galaad
+Y al oriente habitó hasta tu venir al desierto desde el río Perat, porque su ganado se multiplicó en tierra de Gilad.
 
 ### 5:10
 
-Y en los días de Saúl pelearon con los Hagarenes y los vencieron, y habitaron en sus tiendas por toda la orilla del este de Galaad
+Y en días de Shaúl hicieron guerra con los hagriim, y cayeron en su mano, y habitaron en sus tiendas sobre toda face de oriente al Gilad.
 
 ### 5:11
 
-Y los hijos de Gad habitaban en la tierra de Basán, hasta Saleca
+Y hijos de Gad frente a ellos habitaron en tierra del Basán hasta Salcá.
 
 ### 5:12
 
-Jael el jefe, y Sema el segundo, y Jaián y Saphat en Basán
+Yoel la cabeza, y Shafam el segundo, y Yanai y Shafat en el Basán.
 
 ### 5:13
 
-Y sus hermanos por familias, por padres, Micael y Mesulam y Saja y Jorai y Jakan y Zia y Heber, siete
+Y sus hermanos según casa de sus padres: Mijael y Meshulam y Shéva y Yorai y Yacán y Zía y Éver, siete.
 
 ### 5:14
 
-Estos son los hijos de Abihail, hijo de Huri, hijo de Jaroah, hijo de Galaad, hijo de Micael, hijo de Jesi, hijo de Jaddo, hijo de Boz
+Estos hijos de Avijáyil hijo de Jurí, hijo de Yáróaj, hijo de Gilad, hijo de Mijael, hijo de Yeshishai, hijo de Yajdó, hijo de Buz.
 
 ### 5:15
 
-Ahi hijo de Abdiel, hijo de Guni, jefe de la casa de sus padres
+Ají hijo de Avdiel, hijo de Guní, cabeza a casa de sus padres.
 
 ### 5:16
 
-Y habitaban en Galaad y en Basán y en sus aldeas, y en todas las pasturas de Sarón, por sus extremos
+Y habitaron en el Gilad, en el Basán y en sus hijas, y en todos ejidos de Sharón sobre sus salidas.
 
 ### 5:17
 
-Todos ellos se establecieron en los días de Josías, rey de Judá, y en los días de Jeroboam, rey de Israel.
+Todos ellos se hicieron linaje en días de Yotam rey de Yehudá y en días de Yarovam rey de Israel.
 
 ### 5:18
 
-Los hijos de Reuben, Gad y la mitad del linaje de Manasés, hombres valientes, que llevaban escudo y espada, y eran arqueros y expertos en guerra, cuarenta y cuatro mil setecientos sesenta y seis hombres de tropa.
+Hijos de Reuvén y el gadí y mitad de tribu de Menashé, de hijos de fuerza, hombres alzadores de escudo y espada y pisadores de arco y aprendidos de guerra: cuarenta y cuatro mil y setecientos y sesenta, salientes de ejército.
 
 ### 5:19
 
-Y lucharon contra los Hagarenes, Jetur, Nefis y Nodab.
+Y hicieron guerra con los hagriim y Yetur y Nafish y Nodav.
 
 ### 5:20
 
-Y los ayudaron, y pusieron en sus manos a los Hagarenes y a todos los que estaban con ellos, porque clamaron a Dios en la batalla, y él los envió un mensajero porque confiaban en él.
+Y fueron ayudados sobre ellos, y fueron dados en su mano los hagriim y todos con ellos, porque a Dios gritaron en la guerra, y fue intercedido a ellos porque confiaron en él.
 
 ### 5:21
 
-Y tomaron de sus ganados cincuenta mil camellos, doscientos cincuenta mil ovejas, dos mil asnos y cien mil almas de hombres.
+Y cautivaron su ganado: sus camellos cincuenta mil, y ovino doscientos y cincuenta mil, y asnos dos mil, y alma de hombre cien mil.
 
 ### 5:22
 
-Porque muchos murieron, porque el Señor luchó por ellos, y vivieron bajo ellos hasta la emigración.
+Porque heridos muchos cayeron, porque de Dios la guerra; y habitaron debajo de ellos hasta el cautiverio.
 
 ### 5:23
 
-Y los hijos de la mitad del linaje de Manasés vivían en la tierra desde Basán hasta Baal-Hermon, Senir y el monte Hermon; eran numerosos.
+Y hijos de mitad de tribu de Menashé habitaron en la tierra desde Basán hasta Baal Jermón y Senir y monte Jermón; ellos se multiplicaron.
 
 ### 5:24
 
-Estos eran los jefes de sus familias: Efer, Yishey, Eliel, Azriel, Yirmeya, Hodaviah, Yakhdiel, hombres valientes, jefes de sus familias.
+Y estos cabezas de casa de sus padres: y Éfer y Yishí y Eliel y Azriel y Yirmeyá y Hodavyá y Yajdiel, hombres poderosos de fuerza, hombres de nombres, cabezas a casa de sus padres.
 
 ### 5:25
 
-Se corrompieron con los dioses de sus padres y se prostituyeron con los dioses de los pueblos de la tierra, que el Señor había destruido de delante de ellos.
+Y transgredieron en dioses de sus padres, y fornicaron detrás de dioses de pueblos de la tierra que destruyó Dios de faces de ellos.
 
 ### 5:26
 
-Entonces el Dios de Israel despertó el espíritu de Pul, rey de Asiria, y el espíritu de Tilgat-Pilneser, rey de Asiria, y los llevó a Reuben, a Gad y a la mitad del linaje de Manasés, y los llevó a Halah, a Habor, a Hara y al río Gozan, hasta el día de hoy.
+Y despertó Dios de Israel el espíritu de Pul rey de Ashur y el espíritu de Tilgat Pilnéser rey de Ashur, y los deportó al reuvení y al gadí y a la mitad de tribu de Menashé, y los trajo a Jalaj y Javor y Hará y río Gozán hasta el día este.
 
 ## Capítulo 6
 
 ### 6:1
 
-Los hijos de Leví: Gerson, Quisa y Merari.
+Hijos de Leví: Guershon, Quehat y Merarí.
 
 ### 6:2
 
-Y los hijos de Quisa: Amram, Isar, Hebron y Uziel.
+Y hijos de Quehat: Amram, Yitshar y Hevrón y Uziel.
 
 ### 6:3
 
-Los hijos de Amram fueron Aarón, Moisés y Miriam. Los hijos de Aarón fueron Nadab, Abiú, Eléazar y Itamar.
+Y hijos de Amram: Aarón y Moisés y Miryam. Y hijos de Aarón: Nadav y Avihú, Elazar e Itamar.
 
 ### 6:4
 
-Eléazar engendró a Finés, y Finés engendró a Abisúa.
+Elazar engendró a Pinjás; Pinjás engendró a Avishúa;
 
 ### 6:5
 
-Abisúa engendró a Bukki, y Bukki engendró a Ozías.
+y Avishúa engendró a Buqí, y Buqí engendró a Uzí;
 
 ### 6:6
 
-Ozías engendró a Zororabías, y Zororabías engendró a Meriotos.
+y Uzí engendró a Zerajyá, y Zerajyá engendró a Merayot;
 
 ### 6:7
 
-Meriotos engendró a Amarías, y Amarías engendró a Acitub.
+Merayot engendró a Amaryá, y Amaryá engendró a Ajituv;
 
 ### 6:8
 
-Acitub engendró a Sadoc, y Sadoc engendró a Ahimac.
+y Ajituv engendró a Tsadóq, y Tsadóq engendró a Ajimaats;
 
 ### 6:9
 
-Ahimac engendró a Azarías, y Azarías engendró a Joacán.
+y Ajimaats engendró a Azaryá, y Azaryá engendró a Yojanán;
 
 ### 6:10
 
-Joacán engendró a Azarías, que fue sacerdote en la casa que Salomón construyó en Jerusalén.
+y Yojanán engendró a Azaryá; él el que sacerdoteó en la casa que edificó Shelomó en Yerushaláyim;
 
 ### 6:11
 
-Azarías engendró a Amarías, y Amarías engendró a Acitub.
+y engendró Azaryá a Amaryá, y Amaryá engendró a Ajituv;
 
 ### 6:12
 
-Acitub engendró a Sadoc, y Sadoc engendró a Salum.
+y Ajituv engendró a Tsadóq, y Tsadóq engendró a Shalum;
 
 ### 6:13
 
-Salum engendró a Helquías, y Helquías engendró a Azarías.
+y Shalum engendró a Jilqiyá, y Jilqiyá engendró a Azaryá;
 
 ### 6:14
 
-Azarías engendró a Serorías, y Serorías engendró a Joetsadaq.
+y Azaryá engendró a Serayá, y Serayá engendró a Yehotsadaq;
 
 ### 6:15
 
-Y Joetsadaq fue llevado en la deportación que el SEÑOR hizo de Judá y Jerusalén por medio de Nabucodonosor.
+y Yehotsadaq anduvo en el deportar Jehová a Yehudá y Yerushaláyim en mano de Nebukadnetsár.
 
 ### 6:16
 
-Los hijos de Leví fueron Gersón, Quis, y Merari.
+Hijos de Leví: Guershom, Quehat y Merarí.
 
 ### 6:17
 
-Y estos son los nombres de los hijos de Gersón: Libni y Shimí.
+Y estos nombres de hijos de Guershom: Livní y Shimí.
 
 ### 6:18
 
-Y los hijos de Quis fueron Amram, Isar, Hebrón, y Uziel.
+Y hijos de Quehat: Amram y Yitshar y Hevrón y Uziel.
 
 ### 6:19
 
-Los hijos de Merari fueron Mahli y Musi; estos son las familias de los levitas según sus padres.
+Hijos de Merarí: Majlí y Mushí. Y estos clanes del levita según sus padres.
 
 ### 6:20
 
-Para Gersón: Libni, hijo de Joetsadaq, Joetsadaq, hijo de Libni, Zimah, hijo de Joetsadaq.
+A Guershom: Livní su hijo, Yájat su hijo, Zimá su hijo,
 
 ### 6:21
 
-Joat, hijo de Zimah, Idom, hijo de Joat, Zerah, hijo de Idom, Jearot, hijo de Zerah.
+Yóaj su hijo, Idó su hijo, Zéraj su hijo, Yeaterai su hijo.
 
 ### 6:22
 
-Los hijos de Quis fueron Amram, hijo de Isar, Coré, hijo de Amram, Assir, hijo de Coré.
+Hijos de Quehat: Aminadav su hijo, Qóraj su hijo, Asir su hijo,
 
 ### 6:23
 
-Elkanah, hijo de Assir, Ebiasaf, hijo de Elkanah, Assir, hijo de Ebiasaf.
+Elqaná su hijo, y Aviasaf su hijo, y Asir su hijo,
 
 ### 6:24
 
-Substituyendo a Assir: Uriel, hijo de Assir, Uzziah, hijo de Uriel, y Saúl, hijo de Uzziah.
+Tájat su hijo, Uriel su hijo, Uzíyá su hijo, y Shaúl su hijo.
 
 ### 6:25
 
-Los hijos de Elkanah fueron Amasai y Ahimán.
+Y hijos de Elqaná: Amasai y Ajimot.
 
 ### 6:26
 
-Elkanah, hijo de Elkanah, Elkanah, hijo de Zuphi, y Nahath, hijo de Elkanah.
+Elqaná: Elqaná, Tsofí su hijo, y Náajat su hijo,
 
 ### 6:27
 
-Elías fue hijo de Jeroam, Jeroam fue hijo de Elcana.
+Eliav su hijo, Yerojam su hijo, Elqaná su hijo.
 
 ### 6:28
 
-Los hijos de Saúl fueron el primogénito, Vashni y Abi.
+Y hijos de Shemuel: el primogénito Vashní, y Aviyá.
 
 ### 6:29
 
-Los hijos de Merari fueron Mahli, Libni, hijo de Mahli, Simaí, hijo de Libni y Uzza, hijo de Simaí.
+Hijos de Merarí: Majlí, Livní su hijo, Shimí su hijo, Uzá su hijo,
 
 ### 6:30
 
-Semaja, hijo de Hagia, Azaja, hijo de Semaja.
+Shimá su hijo, Jagiyá su hijo, Asayá su hijo.
 
 ### 6:31
 
-Estos son los que David puso a cargo del canto en la casa del Señor, desde el Arca.
+Y estos a quienes hizo parar David sobre manos de canto de casa de Jehová desde el reposo del arca.
 
 ### 6:32
 
-Sirvieron delante de la tienda del encuentro en el canto hasta que Salomón edificó la casa del Señor en Jerusalén, y se mantuvieron en su cargo conforme a su servicio.
+Y fueron ministrando delante de faces de morada de tienda de reunión en el canto hasta el edificar Shelomó la casa de Jehová en Yerushaláyim, y se pararon según su juicio sobre su servicio.
 
 ### 6:33
 
-Estos son los que estaban y sus hijos: de los hijos de Core, Hemán, el cantor, hijo de Joel, hijo de Samuel.
+Y estos los que se paran y sus hijos: de hijos del quehatí, Hemán el cantor, hijo de Yoel, hijo de Shemuel,
 
 ### 6:34
 
-Hijo de Elcana, hijo de Jeroam, hijo de Elias, hijo de Toah.
+hijo de Elqaná, hijo de Yerojam, hijo de Eliel, hijo de Tóaj,
 
 ### 6:35
 
-Hijo de Zif, hijo de Elcana, hijo de Machat, hijo de Amasai.
+hijo de hijo de Elqaná, hijo de Máajat, hijo de Amasai,
 
 ### 6:36
 
-Hijo de Elcana, hijo de Joel, hijo de Azarías, hijo de Zefanja.
+hijo de Elqaná, hijo de Yoel, hijo de Azaryá, hijo de Tsefanyá,
 
 ### 6:37
 
-Hijo de Tahath, hijo de Asir, hijo de Abiasaf, hijo de Coré.
+hijo de Tájat, hijo de Asir, hijo de Aviasaf, hijo de Qóraj,
 
 ### 6:38
 
-Hijo de Jeshar, hijo de Core, hijo de Leví, hijo de Israel.
+hijo de Yitshar, hijo de Quehat, hijo de Leví, hijo de Israel.
 
 ### 6:39
 
-Y su hermano Asaf, que estaba a su derecha, era Asaf, hijo de Berequía, hijo de Semá.
+Y su hermano Asaf el que se para sobre su derecha: Asaf hijo de Berejyahu, hijo de Shimá,
 
 ### 6:40
 
-Hijo de Mical, hijo de Baaseya, hijo de Malquías.
+hijo de Mijael, hijo de Baaseyá, hijo de Malkiyá,
 
 ### 6:41
 
-Hijo de Etan, hijo de Zerah, hijo de Adajah.
+hijo de Etní, hijo de Zéraj, hijo de Adayá,
 
 ### 6:42
 
-Hijo de Eitán, hijo de Zimá, hijo de Semí.
+hijo de Eytán, hijo de Zimá, hijo de Shimí,
 
 ### 6:43
 
-Hijo de Jahat, hijo de Gersón, hijo de Leví.
+hijo de Yájat, hijo de Guershom, hijo de Leví.
 
 ### 6:44
 
-Y los hijos de Merari, sus hermanos, estaban a su izquierda, Eitán, hijo de Qishi, hijo de Avdi, hijo de Malúk.
+Y hijos de Merarí, sus hermanos, sobre la izquierda: Eytán hijo de Qishí, hijo de Avdí, hijo de Maluj,
 
 ### 6:45
 
-Hijo de Hasabías, hijo de Amatziá, hijo de Helquías.
+hijo de Jashavyá, hijo de Amatsyá, hijo de Jilqiyá,
 
 ### 6:46
 
-Hijo de Amzí, hijo de Bani, hijo de Semer.
+hijo de Amtsí, hijo de Baní, hijo de Shémer,
 
 ### 6:47
 
-Hijo de Mahli, hijo de Musi, hijo de Merari, hijo de Leví.
+hijo de Majlí, hijo de Mushí, hijo de Merarí, hijo de Leví.
 
 ### 6:48
 
-Y los demás levitas fueron asignados a toda la obra del tabernáculo, la casa de Dios.
+Y sus hermanos los levitas dados a todo servicio de morada de casa de Dios.
 
 ### 6:49
 
-Y Aarón y sus hijos quemaban sobre el altar de holocaustos y sobre el altar de incienso para toda obra de santidad santísima, y para hacer expiación por Israel, conforme a todo lo que Moisés, siervo de Dios, había ordenado.
+Y Aarón y sus hijos haciendo humear sobre altar del holocausto y sobre altar del incienso, a todo negocio de santo de los santos, y para cubrir sobre Israel conforme a todo lo que mandó Moisés siervo de Dios.
 
 ### 6:50
 
-Y estos eran los hijos de Aarón: Eleazar, su hijo, Pinjás, su hijo, Abisúa, su hijo.
+Y estos hijos de Aarón: Elazar su hijo, Pinjás su hijo, Avishúa su hijo,
 
 ### 6:51
 
-Buki, hijo de él, Uzi, hijo de él, Zerahía, hijo de él.
+Buqí su hijo, Uzí su hijo, Zerajyá su hijo,
 
 ### 6:52
 
-Meriota, hijo de él, Amaría, hijo de él, Ahitub, hijo de él.
+Merayot su hijo, Amaryá su hijo, Ajituv su hijo,
 
 ### 6:53
 
-Sadoc, hijo de él, Ahimaaz, hijo de él.
+Tsadóq su hijo, Ajimaats su hijo.
 
 ### 6:54
 
-Estas eran sus asientos para sus campamentos conforme a sus territorios, a los hijos de Aarón, a la familia de Quetúi, porque a ellos les correspondió el sorteo.
+Y estas sus habitaciones a sus campamentos en su frontera: a hijos de Aarón, a clan del quehatí, porque a ellos fue el lote.
 
 ### 6:55
 
-Y le dieron Hebrón en la tierra de Judá, y sus alrededores.
+Y dieron a ellos a Hevrón en tierra de Yehudá y sus ejidos alrededor de ella.
 
 ### 6:56
 
-Y le dieron el campo de la ciudad y los patios a Caleb, hijo de Jefuné.
+Y el campo de la ciudad y sus aldeas dieron a Calev hijo de Yefuné.
 
 ### 6:57
 
-Y a los hijos de Aarón dieron las ciudades de refugio, Hebrón, Libna, sus alrededores, Yatir, Eshtemoa, sus alrededores.
+Y a hijos de Aarón dieron las ciudades de refugio: a Hevrón y a Livná y su ejido, y a Yatír y a Eshtemoa y su ejido,
 
 ### 6:58
 
-Helzón y sus alrededores, Debir y sus alrededores.
+y a Jilez y su ejido, a Devir y su ejido,
 
 ### 6:59
 
-Asán y sus alrededores, Bet-Shemesh y sus alrededores.
+y a Ashán y su ejido, y a Bet Shémesh y su ejido.
 
 ### 6:60
 
-Y de la tribu de Benjamín, Geba y sus alrededores, Alemet y sus alrededores, Anatot y sus alrededores, todas sus ciudades, trece en número, conforme a sus familias.
+Y desde vara de Binyamín: a Géva y su ejido, y a Alémet y su ejido, y a Anatot y su ejido. Todas sus ciudades trece ciudad según sus clanes.
 
 ### 6:61
 
-Y a los hijos de Quetúi que quedaban de la familia de la tribu, la mitad de la tribu de Manasés, por sorteo, diez ciudades.
+Y a hijos de Quehat los restantes, desde clan de la vara, desde mitad de vara de mitad de Menashé, por el lote ciudades diez.
 
 ### 6:62
 
-Y a los hijos de Gesúm, conforme a sus familias, de la tribu de Isacar, de la tribu de Aser, de la tribu de Neftalí, de la mitad de la tribu de Manasés en Basán, trece ciudades.
+Y a hijos de Guershom según sus clanes, desde vara de Yisasjar y desde vara de Asher y desde vara de Naftalí y desde vara de Menashé en el Basán, ciudades trece.
 
 ### 6:63
 
-Y a los hijos de Merari, conforme a sus familias, de la tribu de Reuben, de la tribu de Gad, de la tribu de Zabulón, por sorteo, doce ciudades.
+A hijos de Merarí según sus clanes, desde vara de Reuvén y desde vara de Gad y desde vara de Zevulún, por el lote ciudades doce.
 
 ### 6:64
 
-Entonces los israelitas dieron a los levitas las ciudades y sus campos.
+Y dieron hijos de Israel a los levitas las ciudades y sus ejidos.
 
 ### 6:65
 
-Y sortearon de la tribu de Judá, de la tribu de Simeón y de la tribu de Benjamín estas ciudades que ellos llamarían por sus nombres.
+Y dieron por el lote desde vara de hijos de Yehudá y desde vara de hijos de Shimón y desde vara de hijos de Binyamín estas ciudades que llaman a ellas por nombres.
 
 ### 6:66
 
-Y de las familias de los hijos de Caat, fueron ciudades de su territorio de la tribu de Efraín.
+Y desde clanes de hijos de Quehat, y fueron ciudades de su frontera desde vara de Efráyim.
 
 ### 6:67
 
-Y dieron a ellos las ciudades de refugio, Shekem y sus campos en el monte de Efraín, y Gezer y sus campos.
+Y dieron a ellos las ciudades de refugio: a Shejém y su ejido en monte de Efráyim, y a Guézer y su ejido,
 
 ### 6:68
 
-Y Yammeam y sus campos, y Bet Horon y sus campos.
+y a Yoqmeam y su ejido, y a Bet Jorón y su ejido,
 
 ### 6:69
 
-Y Aiyyalon y sus campos, y Gat Rimon y sus campos.
+y a Ayalón y su ejido, y a Gat Rimón y su ejido.
 
 ### 6:70
 
-Y de la mitad de la tribu de Manasés, Anor y sus campos, y Belaam y sus campos, a la familia de los hijos de Caat que quedaban.
+Y desde mitad de vara de Menashé: a Aner y su ejido, y a Bilam y su ejido, a clan de los hijos de Quehat los restantes.
 
 ### 6:71
 
-A los hijos de Gesum, conforme a su familia, de la mitad de la tribu de Manasés, Golan en Basán y sus campos, y Ashtarot y sus campos.
+A hijos de Guershom desde clan de mitad de vara de Menashé: a Golán en el Basán y su ejido, y a Ashtarot y su ejido.
 
 ### 6:72
 
-Y de la tribu de Isacar, Qedés y sus campos, y Daberat y sus campos.
+Y desde vara de Yisasjar: a Qédesh y su ejido, a Davrat y su ejido,
 
 ### 6:73
 
-Y Ramot y sus campos, y Anem y sus campos.
+y a Ramot y su ejido, y a Anem y su ejido.
 
 ### 6:74
 
-Y de la tribu de Aser, Mashal y sus campos, y Abedón y sus campos.
+Y desde vara de Asher: a Mashal y su ejido, y a Avdón y su ejido,
 
 ### 6:75
 
-Y Chukok y sus campos, y Rechob y sus campos.
+y a Juqoq y su ejido, y a Rejov y su ejido.
 
 ### 6:76
 
-Y de la tribu de Neftalí, Qedesh en Galilea y sus campos, y Chamon y sus campos, y Qiryatayim y sus campos.
+Y desde vara de Naftalí: a Qédesh en el Galíl y su ejido, y a Jamón y su ejido, y a Qiryatáyim y su ejido.
 
 ### 6:77
 
-Para los hijos de Merari que quedaban de la tribu de Zabulón, Rimono y sus campos, y Tabor y sus campos.
+A hijos de Merarí los restantes, desde vara de Zevulún: a Rimóno y su ejido, a Tavór y su ejido.
 
 ### 6:78
 
-Y de la otra parte del Jordán, al este del Jordán, de la tribu de Rubén, Betser en el desierto y sus campos, y Yatza y sus campos.
+Y desde el otro lado del Yarden de Yerijó, al oriente del Yarden, desde vara de Reuvén: a Bétser en el desierto y su ejido, y a Yahtsá y su ejido,
 
 ### 6:79
 
-Y Qedemot y sus campos, y Miepaat y sus campos.
+y a Qedemot y su ejido, y a Mefaat y su ejido.
 
 ### 6:80
 
-Y de la tribu de Gad, Ramot en Galaad y sus campos, y Mahanayim y sus campos.
+Y desde vara de Gad: a Ramot en el Gilad y su ejido, y a Majanáyim y su ejido,
 
 ### 6:81
 
-Y Heshbon y sus campos, y Yaazer y sus campos.
+y a Jeshbón y su ejido, y a Yazer y su ejido.
 
 ## Capítulo 7
 
 ### 7:1
 
-Y para los hijos de Isaschar, Tolad y Puah y Yisib y Shemron, cuatro.
+Y a hijos de Yisasjar: Tola y Puá y Shimron, cuatro.
 
 ### 7:2
 
-Y los hijos de Tolad, Uzi y Refaya y Yireel y Yamai y Yibsam y Shemuel, jefes de sus familias para Tolad, guerreros de valor para sus generaciones. En los días de David, su número era veinte mil y seiscientas.
+Y hijos de Tola: Uzí y Refayá y Yeriel y Yajmai y Yivsam y Shemuel, cabezas a casa de sus padres a Tola, poderosos de fuerza según sus generaciones; su número en días de David veinte y dos mil y seiscientos.
 
 ### 7:3
 
-Y los hijos de Uzi, Yizrahiyah, y los hijos de Yizrahiyah, Micael y Obadia y Joel y Yissiyah, cinco jefes todos ellos.
+Y hijos de Uzí: Yizrajyá; y hijos de Yizrajyá: Mijael y Ovadya y Yoel, Yishiyá; cinco, cabezas todos ellos.
 
 ### 7:4
 
-Y para sus generaciones, para las familias de ellos, batallones de ejército de guerra, treinta y seis mil, porque se multiplicaron mujeres y niños.
+Y sobre ellos según sus generaciones, a casa de sus padres, bandas de ejército de guerra treinta y seis mil, porque multiplicaron mujeres e hijos.
 
 ### 7:5
 
-Y sus hermanos para todas las familias de Isaschar, guerreros de valor, ochenta y siete mil, se hicieron para todos.
+Y sus hermanos a todos clanes de Yisasjar, poderosos de fuerzas: ochenta y siete mil, su hacerse linaje a todo.
 
 ### 7:6
 
-Benjamín, Bela y Becer, y Yediael, tres.
+Binyamín: Béla y Béjer y Yediael, tres.
 
 ### 7:7
 
-Y los hijos de Bela: Ecson, Uzi, Uzijael, Jerimot, Oni, jefes de casas paternas, valientes guerreros, y su número era veinte y dos mil ciento treinta y cuatro.
+Y hijos de Béla: Etsvón y Uzí y Uziel y Yerimot y Irí, cinco, cabezas de casa de padres, poderosos de fuerzas; y su hacerse linaje veinte y dos mil y treinta y cuatro.
 
 ### 7:8
 
-Y los hijos de Becer: Zemira, Joash, Eliezer, Elioenai, Amri, Jeremot, Abiayah, Anatot, Alamet, todos estos hijos de Becer.
+Y hijos de Béjer: Zemirá y Yoash y Eliezer y Elioenai y Omri y Yerimot y Aviyá y Anatot y Alémet. Todos estos hijos de Béjer.
 
 ### 7:9
 
-Y su número por sus generaciones, jefes de casas paternas, valientes guerreros, veinte mil y doscientos.
+Y su hacerse linaje según sus generaciones, cabezas de casa de sus padres, poderosos de fuerza: veinte mil y doscientos.
 
 ### 7:10
 
-Y los hijos de Yediael: Belán, y los hijos de Belán: Iajish, Benjamín, Eud, Quenana, Zetán, Tarshis, Ahisahar.
+Y hijos de Yediael: Bilhán; y hijos de Bilhán: y Binyamín y Ehud y Kenaaná y Zetán y Tarshish y Ajishájar.
 
 ### 7:11
 
-Todos estos hijos de Yediael, jefes de casas paternas, valientes guerreros, siete mil ciento veinte, que salieron al ejército para la guerra.
+Todos estos hijos de Yediael a cabezas de los padres, poderosos de fuerzas: diecisiete mil y doscientos, salientes de ejército a la guerra.
 
 ### 7:12
 
-Y Safem y Chufem, hijos de Ir, Chusham, hijos de Aher.
+Y Shupim y Jupim, hijos de Ir; Hushim, hijos de Ájer.
 
 ### 7:13
 
-Los hijos de Naftalí: Jahziel, Guní, Jezer y Shillum, hijos de Bilhá.
+Hijos de Naftalí: Yajtsiel y Guní y Yétser y Shalum, hijos de Bilhá.
 
 ### 7:14
 
-Los hijos de Manasés: Asriel, que tuvo por madre una siria, que le dio a Machir, padre de Galaad.
+Hijos de Menashé: Asriel, a quien dio a luz su concubina la aramea; ella dio a luz a Makir padre de Gilad.
 
 ### 7:15
 
-Y Machir tomó mujer a Mefa y a Safem, y el nombre de su hermana era Maaca, y el nombre del segundo era Zelafcad, y fueron hijas de Zelafcad.
+Y Makir tomó mujer para Jupim y para Shupim; y nombre de su hermana Maajá; y nombre del segundo Tselofjad; y fueron a Tselofjad hijas.
 
 ### 7:16
 
-Y Maaca, mujer de Machir, dio a luz un hijo, y llamó su nombre Peres, y el nombre de su hermano fue Seres, y sus hijos fueron Ulam y Rame.
+Y dio a luz Maajá mujer de Makir un hijo, y llamó su nombre Péresh; y nombre de su hermano Shéresh; y sus hijos Ulam y Réquem.
 
 ### 7:17
 
-Y los hijos de Ulam: Bedán. Estos eran los hijos de Galaad, hijo de Machir, hijo de Manasés.
+Y hijos de Ulam: Bedán. Estos hijos de Gilad hijo de Makir hijo de Menashé.
 
 ### 7:18
 
-Y su hermana la reina dio a luz a su hijo, y llamó su nombre Iezer, y el nombre de su hermano fue Ieloán, y sus hijos fueron Ieú, y Iir, y Iaal.
+Y su hermana Hamoléjet dio a luz a Ishhod y a Aviezer y a Majlá.
 
 ### 7:19
 
-Y los hijos de Semida fueron Ahián y Sechem y Lequí y Aniam.
+Y fueron hijos de Shemidá: Ajyán y Shéjem y Liqjí y Aniam.
 
 ### 7:20
 
-Y los hijos de Efraín fueron Sutalá, y Bered, hijo suyo, y Taquán, hijo suyo, y Eláda, hijo suyo, y Taquán, hijo suyo.
+Y hijos de Efráyim: Shutélaj, y Béred su hijo, y Tájat su hijo, y Eladá su hijo, y Tájat su hijo,
 
 ### 7:21
 
-Y Zavdad, hijo suyo, y Shutelá, hijo suyo, y Ezer, y Eláda, y los mataron los hombres de Gat, nacidos en la tierra, porque bajaron a tomar sus ganados.
+y Zavad su hijo, y Shutélaj su hijo, y Ézer y Elad; y los mataron hombres de Gat los nacidos en la tierra, porque bajaron a tomar su ganado.
 
 ### 7:22
 
-Y Efraín, su padre, se entristeció muchos días, y vinieron sus hermanos para consolarlo.
+Y se enlutó Efráyim su padre días muchos, y vinieron sus hermanos a consolarlo.
 
 ### 7:23
 
-Y vino a su mujer, y ella concibió y dio a luz un hijo, y llamó su nombre Beriá, porque había mal en su casa.
+Y vino a su mujer, y concibió y dio a luz un hijo, y llamó su nombre Beriá, porque en mal fue en su casa.
 
 ### 7:24
 
-Y su hija era Serah, y ella edificó Bet-Horón la inferior y Bet-Horón la superior, y Aneser.
+Y su hija Sheerá; y ella edificó a Bet Jorón el inferior y el superior, y a Uzen Sheerá.
 
 ### 7:25
 
-Y Refaj, hijo suyo, y Resef, y Telah, hijo suyo, y Taquán, hijo suyo.
+Y Réfaj su hijo, y Réshef, y Télaj su hijo, y Taján su hijo,
 
 ### 7:26
 
-Y Ladán, hijo suyo, Ammiud, hijo suyo, Elisama, hijo suyo.
+Ladán su hijo, Amihud su hijo, Elishamá su hijo,
 
 ### 7:27
 
-Y Nón, hijo suyo, Josué, hijo suyo.
+Nun su hijo, Yehoshúa su hijo.
 
 ### 7:28
 
-Y sus posesiones y sus aldeas eran Betel y sus aldeas, y hacia el este Naarán, y hacia el oeste Gezer y sus aldeas, y Shechem y sus aldeas, hasta Aijah y sus aldeas.
+Y su posesión y sus habitaciones: Bet El y sus hijas, y al oriente Naarán, y al occidente Guézer y sus hijas, y Shejém y sus hijas hasta Ayá y sus hijas.
 
 ### 7:29
 
-Y sobre la mano de los hijos de Manasés, Bet-Shán y sus aldeas, y Taanach y sus aldeas, y Meguido y sus aldeas, y Dor y sus aldeas. En estas vivían los hijos de José, hijo de Israel.
+Y sobre manos de hijos de Menashé: Bet Sheán y sus hijas, Taanaj y sus hijas, Meguidó y sus hijas, Dor y sus hijas. En estas habitaron hijos de Yosef hijo de Israel.
 
 ### 7:30
 
-Los hijos de Aser: Imaná, Yishvá, Yishví, Beriá y Será, su hermana.
+Hijos de Asher: Yimná y Yishvá y Yishví y Beriá, y Séraj su hermana.
 
 ### 7:31
 
-Y los hijos de Beriá: Hebér y Malquiel, este es padre de Barzé.
+Y hijos de Beriá: Jéver y Malkiel; él padre.
 
 ### 7:32
 
-Y Hebér engendró a Jaflet, a Shomer, a Hotam y a Shúa, su hermana.
+Y Jéver engendró a Yaflat y a Shomer y a Jotam y a Shúa su hermana.
 
 ### 7:33
 
-Y los hijos de Jaflet: Pasach, Bimhal y Ashvát, estos son los hijos de Jaflet.
+Y hijos de Yaflat: Pásaj y Bimhal y Ashvat. Estos hijos de Yaflat.
 
 ### 7:34
 
-Y los hijos de Shomer: Ahí y Rohgah, y Jahbá y Aram.
+Y hijos de Shémer: Ají y Aram.
 
 ### 7:35
 
-Y el hijo de Helém: Achí, Tsopách, Yimná, Shelés y Amal.
+Y hijo de Hélem su hermano: Tsofaj y Yimná y Shélesh y Amal.
 
 ### 7:36
 
-Y los hijos de Tsopách: Suca, Harnefer, Shual, Beri y Yimra.
+Hijos de Tsofaj: Suaj y Jarnefer y Shual y Berí e Imrá,
 
 ### 7:37
 
-Betser, Hod, Shamma, Shilsha, Yitran y Beera.
+Bétser y Hod y Shamá y Shilshá y Yitrán y Beerá.
 
 ### 7:38
 
-Y los hijos de Yitran: Jefuné, Pisea y Ara.
+Y hijos de Yéter: Yefuné y Pispá y Ará.
 
 ### 7:39
 
-Y los hijos de Ula: Ara, Haniel y Rizia.
+Y hijos de Ula: Áraj y Janiel y Ritsiá.
 
 ### 7:40
 
-Todos estos eran hijos de Aser, jefes de casas paternas, fuertes guerreros, jefes de príncipes, y se alistaron para el ejército de guerra, su número de hombres, veintiséis mil.
+Todos estos hijos de Asher, cabezas de casa de los padres, escogidos, poderosos de fuerzas, cabezas de los naguídes; y su hacerse linaje en el ejército en la guerra, su número hombres veinte y seis mil.
 
 ## Capítulo 8
 
 ### 8:1
 
-Y Benjamín engendró a Belá, su primogénito, a Ashbel, el segundo, y a Aharah, el tercero.
+Y Binyamín engendró a Béla su primogénito, Ashbel el segundo, y Ajráj el tercero,
 
 ### 8:2
 
-Nocha el cuarto, y Rafa el quinto.
+Nojá el cuarto, y Rafa el quinto.
 
 ### 8:3
 
-Y tuvieron hijos Balá: Adar, Jerar y Abihud.
+Y fueron hijos a Béla: Adar y Guerá y Avihud,
 
 ### 8:4
 
-Y Abisúa, Naamán y Acoh.
+y Avishúa y Naamán y Ajoaj,
 
 ### 8:5
 
-Y Jerar, Shuppan y Huram.
+y Guerá y Shefufán y Jurám.
 
 ### 8:6
 
-Y estos eran hijos de Echod: estos eran jefes de padres que habitaban en Geba, y los trasladaron a Manahat.
+Y estos hijos de Ehud: estos ellos cabezas de padres a los habitantes de Guéva; y los deportaron a Manájat.
 
 ### 8:7
 
-Y Naamán, Ahia y Jerar los trasladaron, y engendró a Uza y a Ahichud.
+Y Naamán y Ajíá y Guerá; él el que los deportó; y engendró a Uzá y a Ajijud.
 
 ### 8:8
 
-Y Shacharayim engendró en el campo de Moab, desde allí los trasladó: Husim y Baara, sus mujeres.
+Y Shajaráyim engendró en campo de Moav desde su enviarlos — Jushim y a Baará, sus mujeres.
 
 ### 8:9
 
-Y engendró de su mujer en el mes: Jobab, Zibia, Meisa y Malcam.
+Y engendró de Jádesh su mujer a Yovav y a Tsivya y a Meshá y a Malkam,
 
 ### 8:10
 
-Y a Yeut, a Sachia y a Mera, estos eran sus hijos: jefes de padres.
+y a Yeuts y a Sajyá y a Mirmá. Estos sus hijos, cabezas de padres.
 
 ### 8:11
 
-Y de Husim engendró a Abitub y a Elpaal.
+Y de Jushim engendró a Avituv y a Elpaal.
 
 ### 8:12
 
-Y los hijos de Elpaal: Eber, Misham y Shamed, él construyó Ono y Lod, y sus aldeas.
+Y hijos de Elpaal: Éver y Misham y Shémed — él edificó a Onó y a Lod y sus hijas.
 
 ### 8:13
 
-Y Berah y Shema, ellos eran jefes de padres que habitaban en Aijalon, ellos hicieron huir a los habitantes de Gat.
+Y Beriá y Shéma; ellos cabezas de los padres a los habitantes de Ayalón; ellos hicieron huir a los habitantes de Gat.
 
 ### 8:14
 
-Y Achi, Shashak y Yeremot
+Y Ajyó, Shashaq y Yerimot,
 
 ### 8:15
 
-Y Zabadía y Arad y Ader
+y Zevadyá y Arad y Éder,
 
 ### 8:16
 
-Y Micael y Yisfa y Yoha, hijos de Berea
+y Mijael y Yishpá y Yojá, hijos de Beriá.
 
 ### 8:17
 
-Y Zabadía y Mesulam y Chizki y Chaver
+Y Zevadyá y Meshulam y Jizquí y Héver,
 
 ### 8:18
 
-Y Yishmari y Yizliah y Yovav, hijos de Elpaal
+y Yishmerai y Yizliá y Yovav, hijos de Elpaal.
 
 ### 8:19
 
-Y Yaqim y Zichri y Zabdi
+Y Yaqim y Zicrí y Zavdí,
 
 ### 8:20
 
-Y Eilenei y Tsiltai y Eilael
+y Elienai y Tsiletai y Eliel,
 
 ### 8:21
 
-Y Adaya y Barai y Shimrat, hijos de Shimi
+y Adayá y Berayá y Shimrat, hijos de Shimí.
 
 ### 8:22
 
-Y Yisphan y Ever y Eilael
+Y Yishpán y Éver y Eliel,
 
 ### 8:23
 
-Y Avdon y Zichri y Chanán
+y Avdón y Zicrí y Janán,
 
 ### 8:24
 
-Y Chananiah y Eilam y Anatotiah
+y Jananyá y Elam y Anatotyá,
 
 ### 8:25
 
-Y Yipdiah y Peniel, hijos de Shashak
+y Yifdeyá y Penuel, hijos de Shashaq.
 
 ### 8:26
 
-Y Shamshrai y Sharjah y Atalía
+Y Shamshrai y Shejaryá y Atalyá,
 
 ### 8:27
 
-Y Yareshiyah y Eliyah y Zichri, hijos de Jeroham
+y Yareshyá y Eliyá y Zicrí, hijos de Yeroham.
 
 ### 8:28
 
-Estos eran jefes de sus familias, jefes, estos habitaban en Jerusalén
+Estos cabezas de padres según sus generaciones, cabezas; estos habitaron en Yerushaláyim.
 
 ### 8:29
 
-Y en Geba habitaban Abi Geba y el nombre de su mujer Maacah
+Y en Giveón habitaron padre de Giveón, y nombre de su mujer Maajá;
 
 ### 8:30
 
-Y su hijo primogénito Abdon y Tsur y Kish y Baal y Nadaab
+y su hijo el primogénito Avdón, y Tsur y Qish y Baal y Nadav,
 
 ### 8:31
 
-Y Gedur y Ahio y Zacar
+y Guedor y Ajyó y Zéjer.
 
 ### 8:32
 
-Y Miklot engendró a Semah y también ellos estaban frente a sus hermanos habitando en Jerusalén con sus hermanos
+Y Miqlot engendró a Shimá. Y también ellos frente a sus hermanos habitaron en Yerushaláyim con sus hermanos.
 
 ### 8:33
 
-Y Ner engendró a Kish y Kish engendró a Saúl y Saúl engendró a Jonatán y a Malquisua y a Abinadab y a Esbaal
+Y Ner engendró a Qish, y Qish engendró a Shaúl, y Shaúl engendró a Yehonatán y a Malki-Shúa y a Avinadav y a Eshbaal.
 
 ### 8:34
 
-Y hijo de Jonatán era Meribbaal y Meribbaal engendró a Mica
+Y hijo de Yehonatán Meriv-Báal; y Meriv-Báal engendró a Mijá.
 
 ### 8:35
 
-Y hijos de Mica fueron Pito y Melequ y Tearea y Ahaz
+Y hijos de Mijá: Pitón y Mélek y Taréa y Ajaz.
 
 ### 8:36
 
-Y Ahaz engendró a Joadda y Joadda engendró a Alamet y a Azmavet y a Zimri y Zimri engendró a Motza
+Y Ajaz engendró a Yehoadá, y Yehoadá engendró a Alémet y a Azmavet y a Zimrí; y Zimrí engendró a Motsá.
 
 ### 8:37
 
-Y Motza engendró a Benaja y Rafah hijo suyo y Elasa hijo suyo y Azel hijo suyo
+Y Motsá engendró a Bineá; Rafa su hijo, Elasá su hijo, Átsel su hijo.
 
 ### 8:38
 
-Y a Azel le nacieron seis hijos, y sus nombres eran Azrikam, Yishmael, Saraja, Obadiya y Hanan; todos ellos hijos de Azel.
+Y a Átsel seis hijos, y estos sus nombres: Azriqam, Bokeru, y Yismael y Shearyá y Ovadya y Janán. Todos estos hijos de Átsel.
 
 ### 8:39
 
-Y los hijos de Eshek, hermano suyo, fueron Ulam, el primogénito, Yeush el segundo, y Yeiel el tercero.
+Y hijos de Ésheq su hermano: Ulam su primogénito, Yeush el segundo, y Elifelet el tercero.
 
 ### 8:40
 
-Y los hijos de Ulam eran hombres valientes, arqueros, y tenían muchos hijos e hijos de hijos; en total, ciento cincuenta, todos ellos de la tribu de Benjamín.
+Y fueron hijos de Ulam hombres poderosos de fuerza, tensadores de arco, y multiplicadores de hijos e hijos de hijos, ciento y cincuenta. Todos estos de hijos de Binyamín.
 
 ## Capítulo 9
 
 ### 9:1
 
-Y todo Israel se hizo escribir en el libro de los reyes de Israel, y Judá fue llevado a Babilonia por su maldad.
+Y todo Israel se empadronó, y he aquí ellos escritos sobre libro de reyes de Israel; y Yehudá fueron deportados a Bavel en su infidelidad.
 
 ### 9:2
 
-Y los primeros que habitaban en sus posesiones en sus ciudades eran israelitas, sacerdotes, levitas y neterim.
+Y los habitantes primeros que en su posesión en sus ciudades: Israel, los sacerdotes, los levitas y los netinim.
 
 ### 9:3
 
-Y en Jerusalén vivían de Judá, de Benjamín, de Efraín y de Manasés.
+Y en Yerushaláyim habitaron de hijos de Yehudá y de hijos de Binyamín y de hijos de Efráyim y Menashé.
 
 ### 9:4
 
-Uti hijo de Amihud, hijo de Amarí, hijo de Benjamín, hijo de Peres, hijo de Judá.
+Utai hijo de Amihud hijo de Omri hijo de Imrí hijo de hijos de Pérez hijo de Yehudá.
 
 ### 9:5
 
-Y de los silonitas, Asaya el primogénito y sus hermanos.
+Y del shiloní: Asayá el primogénito y sus hijos.
 
 ### 9:6
 
-Y de los hijos de Zera, Yeuel y sus hermanos, seiscientos noventa.
+Y de hijos de Zéraj: Yeuel y sus hermanos seiscientos y noventa.
 
 ### 9:7
 
-Y de los hijos de Benjamín, Salu hijo de Mesulam, hijo de Hodeva, hijo de Senaah.
+Y de hijos de Binyamín: Salú hijo de Meshulam hijo de Hodavyá hijo de Hasenuá.
 
 ### 9:8
 
-Y Yibniá hijo de Jeroham, y Elah hijo de Uzí, hijo de Mica, y Mesulam hijo de Safatía, hijo de Reuel, hijo de Yibniá.
+Y Yivneyá hijo de Yerojam, y Elá hijo de Uzí hijo de Mikrí, y Meshulam hijo de Shefatyá hijo de Reuel hijo de Yivniyá.
 
 ### 9:9
 
-Y sus hermanos según sus genealogías, novecientos cincuenta y seis, todos ellos hombres principales de sus padres según sus familias.
+Y sus hermanos según sus generaciones novecientos y cincuenta y seis; todos estos hombres cabezas de padres a casa de sus padres.
 
 ### 9:10
 
-Y de los sacerdotes: Yedaya, Joiarib y Jikin.
+Y de los sacerdotes: Yedaya y Yehoyariv y Yajín.
 
 ### 9:11
 
-Y Azarías, hijo de Helquía, hijo de Meselemías, hijo de Tsadoq, hijo de Merajot, hijo de Ajitub, jefe del templo del Señor.
+Y Azaryá hijo de Jilqiyá hijo de Meshulam hijo de Tsadóq hijo de Merayot hijo de Ajituv, príncipe de casa de Dios.
 
 ### 9:12
 
-Y Adaías, hijo de Jeroham, hijo de Pasur, hijo de Malquías, y Maasías, hijo de Adías, hijo de Jasera, hijo de Mesulam, hijo de Melquías, hijo de Immer.
+Y Adayá hijo de Yerojam hijo de Pashjur hijo de Malkiyá, y Maasai hijo de Adiel hijo de Jajzerá hijo de Meshulam hijo de Meshilemit hijo de Imer.
 
 ### 9:13
 
-Y sus hermanos, jefes de sus padres según sus familias, mil setecientos sesenta hombres valientes, que hacían el trabajo del servicio del templo del Señor.
+Y sus hermanos, cabezas a casa de sus padres, mil y setecientos y sesenta, poderosos de fuerza de obra de servicio de casa de Dios.
 
 ### 9:14
 
-Y de los levitas: Semaja, hijo de Hasabías, hijo de Azrikam, hijo de Hasabías, de los hijos de Merari.
+Y de los levitas: Shemayá hijo de Jashuv hijo de Azriqam hijo de Jashavyá, de hijos de Merarí.
 
 ### 9:15
 
-Y Bakbakkar, Heres, Galal y Matatías, hijo de Mica, hijo de Zicri, hijo de Asaf.
+Y Baqbaqar, Jéresh y Galal, y Matanyá hijo de Mijá hijo de Zicrí hijo de Asaf,
 
 ### 9:16
 
-Y Obadias, hijo de Semaja, hijo de Galal, hijo de Jedutún, y Berequías, hijo de Asa, hijo de Elcana, que vivía en las casas de Netofat.
+y Ovadyá hijo de Shemayá hijo de Galal hijo de Yedutún, y Berejyá hijo de Asá hijo de Elqaná, el que habita en atrios del netofatí.
 
 ### 9:17
 
-Y los porteros: Salum, Aqub, Talmon y Ahiman. Y sus hermanos Salum, el jefe.
+Y los porteros: Shalum y Acuv y Talmón y Ajimán, y su hermano Shalum la cabeza.
 
 ### 9:18
 
-Hasta ahora, en el lado del portón del rey hacia el este, estaban los porteros para los campamentos de los hijos de Leví.
+Y hasta aquí en puerta del rey hacia oriente; ellos los porteros a campamentos de hijos de Leví.
 
 ### 9:19
 
-Y Salum, hijo de Coré, hijo de Ezequías, hijo de Coré, y sus hermanos de la casa de su padre, los correyitas, que hacían el trabajo del servicio del tabernáculo, guardianes de las puertas del tabernáculo, y sus padres, guardianes de los campamentos del Señor, guardianes de la entrada.
+Y Shalum hijo de Qoré hijo de Evyasaf hijo de Qóraj, y sus hermanos a casa de su padre los qorajitas, sobre obra del servicio, guardadores de los umbrales a la tienda; y sus padres sobre campamento de Jehová, guardadores de la entrada.
 
 ### 9:20
 
-Y Finjas, hijo de Eleazar, era jefe de ellos delante de ellos, el Señor con él.
+Y Pinjás hijo de Elazar príncipe era sobre ellos en tiempos anteriores; Jehová con él.
 
 ### 9:21
 
-Zacarías, hijo de Mesulamías, portero del portón del tabernáculo del encuentro.
+Zejaryá hijo de Meshelemyá portero de abertura a tienda de reunión.
 
 ### 9:22
 
-Todos ellos eran escogidos para ser porteros en las divisiones, doscientos doce. Eran porteros en las cortes del templo, fieles a David y a Samuel, el vidente.
+Todos ellos los escogidos por porteros en los umbrales doscientos y doce. Ellos en sus atrios se empadronaron; ellos fundó David y Shemuel el vidente en su fidelidad.
 
 ### 9:23
 
-Y ellos y sus hijos estaban en las puertas del templo, en el tabernáculo del Señor, para la guardia.
+Y ellos y sus hijos sobre las puertas a casa de Jehová, a casa de la tienda, a guardias.
 
 ### 9:24
 
-Había puertas en cuatro direcciones: al este, al oeste, al norte y al sur.
+A cuatro vientos serán los porteros: oriente, mar, norte y sur.
 
 ### 9:25
 
-Sus parientes vivían en las cortes del templo y entraban en servicio por turnos, de siete en siete días, en su turno.
+Y sus hermanos en sus atrios para venir a los siete días de tiempo a tiempo con estos.
 
 ### 9:26
 
-Porque eran fieles, cuatro de ellos eran porteros principales entre los levitas. Guardaban las salas y los tesoros del templo.
+Porque en fidelidad ellos, los cuatro poderosos de los porteros; ellos los levitas; y estaban sobre las cámaras y sobre los tesoros de casa de Dios.
 
 ### 9:27
 
-Y alrededor del templo vivían, porque tenían la guardia. Estaban a cargo de las puertas y de la mañana a la mañana.
+Y alrededor de casa de Dios pernoctaban, porque sobre ellos guardia, y ellos sobre la llave, y a la mañana a la mañana.
 
 ### 9:28
 
-Y de ellos algunos cuidaban los utensilios del servicio, porque contaban el número de los que entraban y salían.
+Y de ellos sobre utensilios del servicio, porque por número los traían y por número los sacaban.
 
 ### 9:29
 
-Y de ellos algunos estaban a cargo de los utensilios sagrados, de la harina, del vino, del aceite, de la incienso y de las especias.
+Y de ellos designados sobre los utensilios y sobre todo utensilio de la santidad, y sobre la harina y el vino y el aceite y el incienso y las especias.
 
 ### 9:30
 
-Y de los hijos de los sacerdotes, los que preparaban la mezcla de incienso.
+Y de hijos de los sacerdotes mezcladores de la mezcla a las especias.
 
 ### 9:31
 
-Matatías, de los levitas, era el primogénito de Salum, el coracita, fiel en el trabajo de los panes de presentación.
+Y Matityá de los levitas —él el primogénito a Shalum el qorajita— en fidelidad sobre obra de las tortas.
 
 ### 9:32
 
-Y de los hijos de los coracitas, de sus parientes, estaban a cargo del pan de la disposición, para prepararlo cada sábado.
+Y de hijos del quehatí, de sus hermanos, sobre pan de la hilera, para preparar sábado sábado.
 
 ### 9:33
 
-Y estos eran los cantores, jefes de las familias de los levitas, en las salas, fieles en el trabajo, día y noche.
+Y estos los cantores, cabezas de padres a los levitas en las cámaras, porque de día y de noche sobre ellos en la obra.
 
 ### 9:34
 
-Estos eran los jefes de las familias de los levitas, según sus genealogías. Estos habitaban en Jerusalén.
+Estos cabezas de los padres a los levitas según sus generaciones, cabezas; estos habitaron en Yerushaláyim.
 
 ### 9:35
 
-Y en Gibeón habitaba Abi-gibeón, cuyo nombre era Jua, y el nombre de su mujer Maaca.
+Y en Guivón habitaron padre de Guivón, y nombre de su mujer Maacá.
 
 ### 9:36
 
-Y su hijo primogénito fue Abdon, y Zur, y Kish, y Baal, y Ner, y Nadab.
+Y su hijo el primogénito Avdón, y Tsur y Qish y Baal y Ner y Nadav,
 
 ### 9:37
 
-Y Gedur, y Ahio, y Zacarías, y Mikel.
+y Guedor y Ajyó y Zejaryá y Miqlot.
 
 ### 9:38
 
-Y Mikel engendró a Shamam, y ellos también estaban frente a sus hermanos en Jerusalén.
+Y Miqlot engendró a Shimám. Y también ellos frente a sus hermanos habitaron en Yerushaláyim con sus hermanos.
 
 ### 9:39
 
-Y Ner engendró a Quis, y Quis engendró a Saúl, y Saúl engendró a Jonatán, y a Malquisúa, y a Abinadab, y a Esbaal.
+Y Ner engendró a Qish, y Qish engendró a Shaúl, y Shaúl engendró a Yehonatán y a Malki-Shúa y a Avinadav y a Eshbaal.
 
 ### 9:40
 
-Y el hijo de Jonatán era Merib-baal, y Merib-baal engendró a Mica.
+Y hijo de Yehonatán Meriv-Báal; y Merí-Báal engendró a Mijá.
 
 ### 9:41
 
-Y los hijos de Mica fueron Pithon, y Melequ, y Taquer.
+Y hijos de Mijá: Pitón y Mélek y Tajréa.
 
 ### 9:42
 
-Y Acaz engendró a Yara, y Yara engendró a Alemet, y a Azmavet, y a Zimri, y Zimri engendró a Motza.
+Y Ajaz engendró a Yaará, y Yaará engendró a Alémet y a Azmavet y a Zimrí; y Zimrí engendró a Motsá.
 
 ### 9:43
 
-Y Motza engendró a Benaja, y Raphaja hijo suyo, y Eleasá hijo suyo, y Azel hijo suyo.
+Y Motsá engendró a Bineá; y Refayá su hijo, Elasá su hijo, Átsel su hijo.
 
 ### 9:44
 
-Y a Azel le nacieron seis hijos, cuyos nombres son Azrikam, Boquer, Yishmael, Sharyah, Obediá, Hanan. Estos eran los hijos de Azel.
+Y a Átsel seis hijos, y estos sus nombres: Azriqam, Bokeru, y Yismael y Shearyá y Ovadyá y Janán. Estos hijos de Átsel.
 
 ## Capítulo 10
 
 ### 10:1
 
-Y los filisteos lucharon contra Israel, y los israelitas huyeron de los filisteos, y cayeron muertos en el monte de Gilboa.
+Y filisteos pelearon contra Israel; y huyó hombre de Israel de delante de filisteos, y cayeron heridos en el monte Guilboa.
 
 ### 10:2
 
-Y los filisteos persiguieron a Saúl y a sus hijos, y los filisteos mataron a Jonatán, a Abinadab y a Malquisúa, hijos de Saúl.
+Y persiguieron filisteos tras Shaul y tras sus hijos; y golpearon filisteos a Yonatán y a Avinadav y a Malqui-Shúa, hijos de Shaul.
 
 ### 10:3
 
-La guerra se volvió pesada para Saúl, y los arqueros lo encontraron en gran apuro, y él se despojó de los tiradores.
+Y se agravó la guerra sobre Shaul, y lo hallaron los flecheros con el arco; y fue herido de los flecheros.
 
 ### 10:4
 
-Entonces Saúl dijo a su porteador: “Saca tu espada y atráznala en mí, para que los incircuncisos no vengan y me maltraten”. Pero el porteador no quiso, porque tenía miedo. Saúl tomó la espada y se asestó un golpe.
+Y dijo Shaul al que llevaba sus armas: Saca tu espada y traspásame con ella, no sea que vengan estos incircuncisos y se burlen de mí; y no quiso el que llevaba sus armas, porque temía mucho; y tomó Shaul la espada y se echó sobre ella.
 
 ### 10:5
 
-Cuando el porteador vio que Saúl estaba muerto, se asestó un golpe también sobre la espada y murió.
+Y vio el que llevaba sus armas que había muerto Shaul, y se echó también él sobre la espada y murió.
 
 ### 10:6
 
-Saúl murió, y sus tres hijos, y toda su casa murió juntos.
+Y murió Shaul y sus tres hijos; y toda su casa juntamente murieron.
 
 ### 10:7
 
-Y vieron todos los israelitas que estaban en el valle que se habían retirado, y que Saúl y sus hijos habían muerto, y abandonaron sus ciudades y se retiraron. Entonces los filisteos vinieron y se establecieron en ellas.
+Y vieron todo hombre de Israel que en el valle que habían huido, y que habían muerto Shaul y sus hijos; y abandonaron sus ciudades y huyeron; y vinieron filisteos y habitaron en ellas.
 
 ### 10:8
 
-Al día siguiente, los filisteos vinieron a despojar a los muertos, y encontraron a Saúl y a sus hijos caídos en el monte de Gilboa.
+Y fue al día siguiente, y vinieron filisteos a despojar a los heridos; y hallaron a Shaul y a sus hijos caídos en el monte Guilboa.
 
 ### 10:9
 
-Despojaron a Saúl, y cortaron su cabeza, y tomaron sus armas, y enviaron a todo el país de los filisteos para anunciar la buena nueva a sus ídolos y al pueblo.
+Y lo despojaron, y llevaron su cabeza y sus armas, y enviaron por tierra de filisteos alrededor para anunciar a sus ídolos y al pueblo.
 
 ### 10:10
 
-Colocaron sus armas en el templo de sus dioses, y clavaron su cabeza en el templo de Dagon.
+Y pusieron sus armas en casa de sus dioses, y su cráneo clavaron en casa de Dagón.
 
 ### 10:11
 
-Y todos los de Jabes de Galaad oyeron todo lo que los filisteos habían hecho a Saúl.
+Y oyeron todos Yavesh-Guilad todo lo que hicieron filisteos a Shaul.
 
 ### 10:12
 
-Y todos los hombres valerosos se levantaron, y tomaron el cuerpo de Saúl y los cuerpos de sus hijos, y los trajeron a Jabes, y enterraron sus huesos bajo el árbol de Jabes, y ayunaron siete días.
+Y se levantaron todos hombres de valor, y llevaron el cuerpo de Shaul y los cuerpos de sus hijos, y los trajeron a Yavesh; y sepultaron sus huesos debajo del terebinto en Yavesh, y ayunaron siete días.
 
 ### 10:13
 
-Saúl murió por su pecado contra el SEÑOR, porque no guardó la palabra del SEÑOR, y también consultó a un vidente para buscar.
+Y murió Shaul en su deslealtad que deslealmente obró contra Jehová, sobre la palabra de Jehová que no guardó; y también por consultar al espíritu de muerto para inquirir,
 
 ### 10:14
 
-Y no consultó al SEÑOR, y el SEÑOR lo mató, y entregó el reino a David hijo de Isaí.
+y no inquirió en Jehová; y lo mató, y hizo pasar el reino a David hijo de Yishai.
 
 ## Capítulo 11
 
 ### 11:1
 
-Y se juntaron todos los israelitas con David en Hebrom, diciendo: Somos tus huesos y tu carne.
+Y se reunieron todo Israel a David a Hevrón, diciendo: He aquí tu hueso y tu carne nosotros.
 
 ### 11:2
 
-También ayer y antes de ayer, cuando Saúl era rey, tú eras quien sacaba y traía a Israel. Y el SEÑOR, tu Dios, te dijo: Tú serás pastor de mi pueblo Israel, y serás príncipe sobre Israel.
+También ayer también anteayer, también en ser Shaul rey, tú el que saca y el que mete a Israel; y dijo Jehová tu Dios a ti: Tú apacentarás a mi pueblo, a Israel, y tú serás naguíd sobre mi pueblo Israel.
 
 ### 11:3
 
-Y vinieron a David todos los ancianos de Israel a Hebrom, y David hizo con ellos una alianza ante el SEÑOR, y ungieron a David como rey sobre Israel, conforme a la palabra del SEÑOR por mano de Samuel.
+Y vinieron todos los ancianos de Israel al rey a Hevrón, y cortó a ellos David pacto en Hevrón delante de Jehová; y ungieron a David por rey sobre Israel, conforme a la palabra de Jehová por mano de Shemuel.
 
 ### 11:4
 
-Y David y todo Israel fueron a Jerusalén, que era Jebús, y allí vivían los jebuseos, habitantes de la tierra.
+Y fue David y todo Israel a Yerushaláyim; ella Yevús; y allí el yebusí, habitantes de la tierra.
 
 ### 11:5
 
-Y dijeron los habitantes de Jebús a David: No entrarás aquí. Pero David tomó la fortaleza de Sión, y la llamó Ciudad de David.
+Y dijeron habitantes de Yevús a David: No entrarás acá; y tomó David la fortaleza de Tsiyón; ella ciudad de David.
 
 ### 11:6
 
-Y dijo David: El que golpee a los jebuseos primero será jefe y príncipe. Y subió primero Joab, hijo de Sarvia, y fue jefe.
+Y dijo David: Todo el que hiera yebusí al principio será por cabeza y por jefe; y subió al principio Yoav hijo de Tseruyá, y fue por cabeza.
 
 ### 11:7
 
-Y David habitó en la fortaleza, por lo cual se llamó Ciudad de David.
+Y habitó David en la fortaleza; por eso llamaron a ella Ciudad de David.
 
 ### 11:8
 
-Y David edificó la ciudad alrededor, desde el muro hasta alrededor, y Joab vivificó a los demás de la ciudad.
+Y edificó la ciudad alrededor, desde el Miló y hasta el contorno; y Yoav vivificaba al resto de la ciudad.
 
 ### 11:9
 
-Y David se hacía cada vez más grande, y el SEÑOR de los ejércitos estaba con él.
+Y anduvo David andando y grande; y Jehová de los ejércitos con él.
 
 ### 11:10
 
-Y estos eran los jefes de los valientes que estaban con David, que se fortalecían con él en su reino, y con todo Israel para hacerlo rey, conforme a la palabra del SEÑOR sobre Israel.
+Y estos cabezas de los poderosos que a David, los que se fortalecían con él en su reino, con todo Israel, para hacerlo rey, conforme a la palabra de Jehová sobre Israel.
 
 ### 11:11
 
-Y este era el número de los valientes que estaban con David: Jasobeam, hijo de Hachmoni, era el jefe de los tres, que despertó su lanza contra trescientos en una vez, y los mató.
+Y este número de los poderosos que a David: Yashovam hijo de Jakmoní, cabeza; él agitó su lanza sobre trescientos heridos en una vez.
 
 ### 11:12
 
-Y después de él, Elíasar, hermano de Joab, que era uno de los tres
+Y detrás de él Elazar hijo de Dodó el ajojí; él en los tres poderosos.
 
 ### 11:13
 
-Él estaba con David en el campo de las granadas, y los filisteos se habían reunido allí para la batalla, y el campo estaba lleno de granos de cebada, y el pueblo huía de los filisteos.
+Él estaba con David en Pas Damim, y filisteos se reunieron allí a la guerra; y fue la porción del campo llena de cebadas; y el pueblo huyó de delante de filisteos.
 
 ### 11:14
 
-Y se establecieron en medio del campo y lo defendieron, y mataron a los filisteos, y Jehová les dio una gran victoria.
+Y se plantaron en medio de la porción, y la liberaron, e hirieron a filisteos; y salvó Jehová salvación grande.
 
 ### 11:15
 
-Y tres de los treinta jefes bajaron a la roca a David, a la cueva de Adulam, y el campamento de los filisteos estaba en el valle de Refaim.
+Y bajaron tres de los treinta, cabeza, sobre la peña a David, a la cueva de Adulam; y campamento de filisteos acampaba en valle de Refaim.
 
 ### 11:16
 
-Y David estaba en la fortaleza, y el destacamento de los filisteos estaba en Belén.
+Y David entonces en la fortaleza; y guarnición de filisteos entonces en Bet Léjem.
 
 ### 11:17
 
-Y David ansiaba y dijo: ¿Quién me dará de beber agua del pozo de Belén, que está en la puerta?
+David, y dijo: ¿Quién me dará a beber aguas del pozo de Bet Léjem que en la puerta?
 
 ### 11:18
 
-Y los tres se abrieron camino en el campamento de los filisteos, y sacaron agua del pozo de Belén, que está en la puerta, y la trajeron y la dieron a David. Pero David no quiso beberla, y la derramó ante Jehová.
+Y hendieron los tres en el campamento de filisteos, y sacaron aguas del pozo de Bet Léjem que en la puerta, y alzaron y trajeron a David; y no quiso David beberlas, y las libó a Jehová.
 
 ### 11:19
 
-Y dijo: ¡Ay de mí, que haga esto! ¿Puedo beber yo el sangre de estos hombres y beberla en sus almas? Porque ellos han dado sus almas, y no quise beber. Estos son los tres héroes.
+Y dijo: Lejos a mí de mi Dios de hacer esto; ¿sangre de estos hombres beberé con sus almas? Porque con sus almas las trajeron; y no quiso beberlas. Estas hicieron los tres poderosos.
 
 ### 11:20
 
-Y Abisai, hermano de Joab, era el jefe de los tres, y él despertó su lanza sobre trescientos, y mató a ellos, y no tuvo fama entre los tres.
+Y Avishai hermano de Yoav, él era cabeza de los tres, y él agitó su lanza sobre trescientos heridos; y nombre en los tres.
 
 ### 11:21
 
-De los tres, dos eran muy dignos, y fueron capitanes, pero no entraron en los tres.
+De entre los tres, en los dos honorado, y fue a ellos por jefe; y hasta los tres no vino.
 
 ### 11:22
 
-Benaja, hijo de Joiada, hijo de un hombre valiente, de muchas empresas, de Quatseel, mató a dos arietes de Moab, y bajó y mató a un león en un pozo en un día de nieve.
+Benayá hijo de Yehoyadá, hijo de hombre de valor, abundante de hechos, desde Qavtseel; él hirió a dos Ariel de Moav; y él bajó e hirió al león en medio del pozo en día de la nieve.
 
 ### 11:23
 
-Y mató a un hombre de Egipto, de estatura de cinco codos, con una lanza de hierro en la mano, y se le acercó con un bastón, y le quitó la lanza de la mano, y lo mató con su lanza.
+Y él hirió al hombre el egipcio, hombre de estatura de cinco codos; y en mano del egipcio lanza como rodillo de tejedores; y bajó a él con el bastón, y arrebató la lanza de mano del egipcio, y lo mató con su lanza.
 
 ### 11:24
 
-Estos son los hechos de Benaja hijo de Joiada, y él era famoso entre los tres guerreros.
+Estas hizo Benayahu hijo de Yehoyadá; y a él nombre en los tres poderosos.
 
 ### 11:25
 
-Era de los treinta, pero no entraba en los tres, y el rey David lo puso a su cargo.
+De entre los treinta, he aquí él honorado, y a los tres no vino; y lo puso David sobre su obediencia.
 
 ### 11:26
 
-Los guerreros de los ejércitos eran: Elcana, hermano de Joab, de Betlehem.
+Y poderosos de las fuerzas: Asáel hermano de Yoav; Eljanán hijo de Dodó de Bet Léjem;
 
 ### 11:27
 
-Shammoth el harorí, Helcet el peflóni.
+Shamot el harorí; Jélets el peloní;
 
 ### 11:28
 
-Ira hijo de Iquesh el tequoeí, Abiezer el anatothí.
+Irá hijo de Iqésh el teqoí; Aviezer el anatotí;
 
 ### 11:29
 
-Sibbecay el husateí, Ilai el ahocheí.
+Sibecai el jushatí; Ilai el ajojí;
 
 ### 11:30
 
-Maharai el netofateí, Heled hijo de Banah el netofateí.
+Maharai el netofatí; Jéled hijo de Baaná el netofatí;
 
 ### 11:31
 
-Ithai hijo de Ribai de Betlehem, Benaja el peratóni.
+Itai hijo de Rivai de Givá de hijos de Binyamín; Benayá el piratoní;
 
 ### 11:32
 
-Hurai de las calles de Guesh, Abiel el arbatí.
+Jurai de los torrentes de Gaash; Aviel el aravatí;
 
 ### 11:33
 
-Azmaveth el baceromi, Eliab el saalbóni.
+Azmavet el bajurimí; Elyajbá el shaalvoní;
 
 ### 11:34
 
-Los hijos de Hashem el gizoní, Jonatan hijo de Sague el harorí.
+hijos de Hashem el guizoní; Yonatán hijo de Shagué el hararí;
 
 ### 11:35
 
-Ahiam hijo de Sacar el harorí, Elipale hijo de Ur.
+Ajíam hijo de Sacar el hararí; Elifal hijo de Ur;
 
 ### 11:36
 
-Hefr el mercenario, Ahia el de Peloni.
+Jéfer el mekeratí; Ajíá el peloní;
 
 ### 11:37
 
-Hetro el de Carmeli, Naara hijo de Ezbai.
+Jetsro el karmelí; Naarai hijo de Ezvai;
 
 ### 11:38
 
-Yoel hermano de Nathan, Mibhar hijo del Jeri.
+Yoel hermano de Natán; Mivjar hijo del hagri;
 
 ### 11:39
 
-Tselk el amonita, Nahara el beroteo, portador de los utensilios de Joab hijo de Zeruya.
+Tséleq el amoní; Najrai el beerotí, el que llevaba las armas de Yoav hijo de Tseruyá;
 
 ### 11:40
 
-Ira el jiteri, Gareb el jiteri.
+Irá el yitrí; Garev el yitrí;
 
 ### 11:41
 
-Uriah el hitita, Zabad hijo de Ahlay.
+Uríyá el jití; Zavad hijo de Ajlay;
 
 ### 11:42
 
-Adina hijo de Siza, jefe de los reubenitas, y sobre ellos treinta.
+Adiná hijo de Shizá el reuvení, cabeza a los reuvenitas, y sobre él treinta;
 
 ### 11:43
 
-Hanam hijo de Maaca, y Josafat el metenita.
+Janán hijo de Maacá; y Yehoshafat el mitní;
 
 ### 11:44
 
-Uzziya el ashterati, Semaja y Joel hijos de Hotham el aroerita.
+Uzíá el ashtarotí; Shamá, hijos de Jotam el aroerí;
 
 ### 11:45
 
-Jediael hijo de Shimri, y Jocha hermano de Jediael el tiziteo.
+Yediael hijo de Shimri; y Yojá su hermano el titsí;
 
 ### 11:46
 
-Elieel el machavite, Iri y Josuyah hijos de Elnaam, y Ithma el moabita.
+Eliel el majavim; y Yerivai y Yoshavyá, hijos de Elnaam; y Yitmá el moaví;
 
 ### 11:47
 
-Elieel, Obad, y Jaasiel el metsobita.
+Eliel y Oved y Yaasíel el metsobayá.
 
 ## Capítulo 12
 
 ### 12:1
 
-Estos son los que vinieron a David a Tsiklag, mientras estaba detenido por Saúl hijo de Qish, y eran guerreros valientes, guerreros de la guerra.
+Y estos los que vinieron a David a Tsiqlag, aún cerrado delante de Shaul hijo de Quish; y ellos entre los valientes, auxiliadores de la guerra,
 
 ### 12:2
 
-Tiradores de arco con la diestra y con la siniestra, lanzadores de piedras y flechas con la diestra, de los hermanos de Saúl de Benjamín.
+armados de arco, diestros de derecha y de izquierda en piedras y en flechas con el arco, de hermanos de Shaul de Binyamín.
 
 ### 12:3
 
-El hijo mayor de Semaja el gibeoteo, Jeezer y Jochanan; y de Azmaveth, Jozabad y Elnaam; y Jeremoth y Jochanan.
+La cabeza Ajiézer y Yoash, hijos de Hashemaá el guivatí; y Pélet hijos de Azmavet; y Beracá y Yehú el anatotí;
 
 ### 12:4
 
-Ishmayah el gibeoteo, un valiente entre los treinta, y jefe de los treinta; y Jeremías, Jahaziel, Jochanan y Jozabad el gederateo.
+e Yishmayá el guivoní, valiente entre los treinta y sobre los treinta.
 
 ### 12:5
 
-Eluzai, Irim, Bealiah, Jezochar, Jecohannan y Jodavaj.
+Eluzai y Yerimot y Bealyá y Shemaryáhu y Shefatyáhu
 
 ### 12:6
 
-Elkanah, Yisijah, Azarel, Joel y Zebadiah los kohathitas.
+Elqaná e Yishiyáhu y Azarel y Yoézer y Yashovam los qorjíes;
 
 ### 12:7
 
-Joel y Zebadiah hijos de Jeroham de Gedor.
+y Yoelá y Zevadyá, hijos de Yerójam de Guedor.
 
 ### 12:8
 
-Y de Gad, hombres que se apartaron para unirse a David en el desierto, valientes de guerra, guerreros para la guerra, que llevaban escudo y lanza, y cuyas caras eran como las de leones, y corriendo sobre los montes como los ciervos.
+Y de los gaditas se apartaron a David al fuerte al desierto, valientes de fuerza, hombres de ejército para la guerra, ordenadores de escudo y lanza; y rostros de león sus rostros, y como gacelas sobre los montes para apresurarse.
 
 ### 12:9
 
-Ezer el jefe, Obadión el segundo, Eliab el tercero.
+Ézer la cabeza, Ovadyá el segundo, Eliav el tercero,
 
 ### 12:10
 
-Mishmannah el cuarto, Jeremías el quinto.
+Mishmaná el cuarto, Yirmeyá el quinto,
 
 ### 12:11
 
-Atai el sexto, Eliel el séptimo.
+Atai el sexto, Eliel el séptimo,
 
 ### 12:12
 
-Johanan el octavo, Elzabad el noveno.
+Yojanán el octavo, Elzavad el noveno,
 
 ### 12:13
 
-Jeremías el décimo, Machbenai el duodécimo.
+Yirmeyáhu el décimo, Macbanai el undécimo.
 
 ### 12:14
 
-Estos son los hijos de Gad, jefes del ejército: uno por cien del menor y uno por mil del mayor.
+Estos de hijos de Gad, cabezas del ejército; uno a cien el menor, y el mayor a mil.
 
 ### 12:15
 
-Estos son los que pasaron el Jordán en el mes primero, cuando estaba lleno de agua, y dispersaron a todos los amonitas y moabitas al oriente y al occidente.
+Estos ellos los que pasaron el Yardén en el mes primero, y él llenaba sobre todas sus riberas; y hicieron huir a todos los valles al oriente y al occidente.
 
 ### 12:16
 
-Y vinieron de los hijos de Benjamín y de Judá hasta el lado de David.
+Y vinieron de hijos de Binyamín y Yehudá hasta el fuerte a David.
 
 ### 12:17
 
-Y salió David a su encuentro y les respondió: Si vienen en paz a mí para ayudarme, será para mí un corazón unido con ustedes. Pero si vienen para engañarme, Dios de nuestros padres juzgará.
+Y salió David delante de ellos, y respondió y les dijo: Si para paz vinieron a mí para auxiliarme, habrá para mí sobre ustedes corazón para unión; y si para engañarme a mis adversarios, sin violencia en mis palmas, vea el Dios de nuestros padres y reprenda.
 
 ### 12:18
 
-Y el Espíritu se apoderó de Amasai, jefe de los treinta, y dijo: David es nuestro jefe, y con él está Benjamín. Paz, paz a ti, y paz a tu ayudador, porque tu ayudador es Dios. Y David los recibió y los puso a cargo de la compañía.
+Y espíritu vistió a Amasai, cabeza de los treinta: Tuyo, David, y contigo hijo de Yishai; paz, paz a ti, y paz a tu auxiliador, porque te auxilió tu Dios. Y los recibió David, y los puso en cabezas de la banda.
 
 ### 12:19
 
-Y de Manasés cayeron sobre David cuando vino con los filisteos contra Saúl en la batalla, pero no lo ayudaron, porque los jefes de los filisteos habían enviado a Saúl a sus jefes.
+Y de Menashé cayeron sobre David al venir él con filisteos contra Shaul a la guerra, y no los auxiliaron; porque con consejo lo enviaron los príncipes de filisteos, diciendo: Con nuestras cabezas caerá a su señor Shaul.
 
 ### 12:20
 
-Cuando fue a Tziclag, cayeron sobre él de Manasés Adnah, Jozabad, Iddo, Michael, Jozabad, Elihu y Ziltai, jefes de mil de Manasés.
+Al ir él a Tsiqlag, cayeron sobre él de Menashé Adnaj y Yozavad y Yediaël y Mijaël y Yozavad y Elihú y Tsiletai, cabezas de los miles que de Menashé.
 
 ### 12:21
 
-Y ayudaron a David con la compañía, porque eran hombres de valor todos ellos, y fueron jefes en el ejército.
+Y ellos auxiliaron con David contra la banda, porque valientes de fuerza todos ellos; y fueron jefes en el ejército.
 
 ### 12:22
 
-Porque cada día, de día en día, venían a David para ayudarlo, hasta que se hizo un gran ejército, como el ejército de Dios.
+Porque a tiempo día tras día venían a David para auxiliarlo, hasta para campamento grande como campamento de Dios.
 
 ### 12:23
 
-Y estos son los números de los jefes de los valientes del ejército que vinieron a David a Hebrón para hacer la realeza de Saúl sobre él conforme al propósito de Jehová.
+Y estos los números de las cabezas del armado para el ejército que vinieron a David a Hevrón, para hacer pasar el reino de Shaul a él conforme a la boca de Jehová.
 
 ### 12:24
 
-Hijos de Judá, portadores de escudo y lanza, seis mil ochocientos valientes del ejército.
+Hijos de Yehudá, portadores de escudo y lanza, seis mil y ochocientos armados de ejército.
 
 ### 12:25
 
-De los hijos de Simeón, portadores de escudo y lanza, siete mil ciento
+De hijos de Shimón, valientes de fuerza para el ejército, siete mil y cien.
 
 ### 12:26
 
-De los hijos de Leví, cuatro mil seiscientos
+De hijos de Leví, cuatro mil y seiscientos.
 
 ### 12:27
 
-Y Jojada, el sacerdote, para Aarón, y con él tres mil setecientos
+Y Yehoyadá el príncipe para Aarón, y con él tres mil y setecientos.
 
 ### 12:28
 
-Y Sadoc, un joven valiente, y la casa de su padre, veintidós jefes
+Y Tsadoc muchacho valiente de fuerza, y casa de su padre jefes veintidós.
 
 ### 12:29
 
-Y de los hijos de Benjamín, hermanos de Saúl, tres mil, hasta ahora el mayor número, guardianes de la guardia de la casa de Saúl
+Y de hijos de Binyamín, hermanos de Shaul, tres mil; y hasta entonces la mayoría de ellos guardaban la guardia de la casa de Shaul.
 
 ### 12:30
 
-Y de los hijos de Efraín, veinte mil ochocientos, valientes del ejército, hombres de nombre para la casa de sus padres
+Y de hijos de Efráyim, veinte mil y ochocientos, valientes de fuerza, hombres de nombres a casa de sus padres.
 
 ### 12:31
 
-Y de la mitad de la tribu de Manasés, dieciocho mil, que fueron inscritos por nombre para venir a hacer rey a David
+Y de la mitad de la tribu de Menashé, dieciocho mil, que fueron designados por nombres para venir a hacer rey a David.
 
 ### 12:32
 
-Y de los hijos de Isacar, que entendían los tiempos para saber lo que Israel debía hacer, jefes de ellos doscientos, y todos sus hermanos por palabra
+Y de hijos de Yisasjar, conocedores de entendimiento para los tiempos, para saber qué haría Israel; sus cabezas doscientas, y todos sus hermanos sobre su boca.
 
 ### 12:33
 
-De Zabulón, salidores del ejército, que se ordenaban para la guerra con todo tipo de armas, cincuenta mil, y para la ordenación sin corazón y sin voluntad
+De Zevulún, salidores de ejército, ordenadores de guerra con todos utensilios de guerra, cincuenta mil; y para ayudar sin corazón doble.
 
 ### 12:34
 
-Y de Neftalí, jefes mil, y con ellos en la lanza y en la espada treinta y siete mil
+Y de Naftalí, jefes mil; y con ellos con escudo y lanza treinta y siete mil.
 
 ### 12:35
 
-Y de los hijos de Dan, que se ordenaban para la guerra, veinte mil ochocientos
+Y de los danitas, ordenadores de guerra, veintiocho mil y seiscientos.
 
 ### 12:36
 
-Y de Aser, salidores del ejército para la ordenación de la guerra, cuarenta mil
+Y de Asher, salidores de ejército para ordenar guerra, cuarenta mil.
 
 ### 12:37
 
-Y del otro lado del Jordán, de Rubén, de Gad y de la mitad de la tribu de Manasés, para la guerra, ciento veinte mil.
+Y de allende el Yardén, de los reuvenitas y los gaditas y media tribu de Menashé, con todos utensilios de ejército de guerra, ciento veinte mil.
 
 ### 12:38
 
-Todos estos hombres de guerra, que iban en orden de batalla, con un corazón perfecto, vinieron a Hebrón para hacer rey a David sobre todo Israel. Y todo el resto de Israel se unió con un solo corazón para hacer rey a David.
+Todos estos hombres de guerra, ordenadores de batalla con corazón íntegro, vinieron a Hevrón para hacer rey a David sobre todo Israel; y también todo el resto de Israel de un corazón para hacer rey a David.
 
 ### 12:39
 
-Y estuvieron con David tres días comiendo y bebiendo, porque sus hermanos les habían preparado.
+Y estuvieron allí con David tres días, comiendo y bebiendo; porque les habían preparado sus hermanos.
 
 ### 12:40
 
-Y también los parientes cercanos de ellos, hasta Issachar, Zabulón y Neftalí, traían pan en asnos, y camellos, y mulos, y bueyes, con pan, cebada, mostaza, miel, aceite, bueyes y ovejas en abundancia, porque había alegría en Israel.
+Y también los cercanos a ellos hasta Yisasjar y Zevulún y Naftalí traían pan sobre asnos y sobre camellos y sobre mulas y sobre ganado: comida, harina, tortas de higos y pasas y vino y aceite y ganado y ovejas en abundancia; porque alegría en Israel.
 
 ## Capítulo 13
 
 ### 13:1
 
-David consultó con los jefes de los miles y de los cientos, a todos los príncipes.
+Y consultó David con los jefes de los miles y de los cientos, a todo príncipe.
 
 ### 13:2
 
-Y David dijo a todo el pueblo de Israel: Si es bueno a vuestros ojos, y si es de Jehová nuestro Dios, enviemos a buscar a nuestros hermanos que quedaron en todas las tierras de Israel, y con ellos a los sacerdotes y a los levitas que están en sus ciudades, para que se reúnan con nosotros.
+Y dijo David a toda la asamblea de Israel: Si a ustedes es bueno, y de Jehová nuestro Dios, cundamos, enviemos a nuestros hermanos que quedan en todas las tierras de Israel, y con ellos los sacerdotes y los levitas en ciudades de sus ejidos; y se reúnan a nosotros,
 
 ### 13:3
 
-Y llevemos el arca de nuestro Dios a nosotros, porque no la buscaron en los días de Saúl.
+y hagamos volver el arca de nuestro Dios a nosotros, porque no la inquirimos en días de Shaul.
 
 ### 13:4
 
-Y todo el pueblo del convocado respondió que lo harían, porque era cosa buena en los ojos de todo el pueblo.
+Y dijeron toda la asamblea: Hacer así; porque era recto el asunto a ojos de todo el pueblo.
 
 ### 13:5
 
-Y David reunió a todo Israel, desde Sihor de Egipto hasta el río de Emaús, para traer el arca de Dios desde Quiriat-Jearim.
+Y reunió David a todo Israel desde Shijor de Mizraim hasta Lebo-Jamat, para traer el arca de Dios de Quiryat-Yearim.
 
 ### 13:6
 
-Y subió David y todo Israel a Baalatea, a Quiriat-Jearim, que está en la tierra de Judá, para subir de allí el arca de Dios, que se llama el nombre del Señor que habita entre los querubines.
+Y subió David y todo Israel a Baalá, a Quiryat-Yearim que de Yehudá, para hacer subir de allí el arca de Dios, Jehová que se sienta sobre los querubines, sobre el cual es llamado el Nombre.
 
 ### 13:7
 
-Y pusieron el arca de Dios sobre un carro nuevo, de la casa de Abinadab, y Uza y Aío guiaban el carro.
+Y montaron el arca de Dios sobre un carro nuevo desde casa de Avinadav; y Uzá y Ajyó conducían el carro.
 
 ### 13:8
 
-Y David y todo Israel danzaban delante de Dios con toda la fuerza, con cánticos, con arpas, con flautas, con tamboriles, con címbalos y con trompetas.
+Y David y todo Israel jugaban delante de Dios con toda fuerza, y con cánticos y con cítaras y con arpas y con tambores y con címbalos y con trompetas.
 
 ### 13:9
 
-Y llegaron hasta el corral de Quidón, y Uza extendió la mano para sostener el arca, porque los bueyes se habían desviado.
+Y vinieron hasta la era de Quidón; y extendió Uzá su mano para asir el arca, porque se soltaron los bueyes.
 
 ### 13:10
 
-Y se enojó el Señor con Uza, y lo golpeó por haber extendido la mano sobre el arca; y murió allí delante de Dios.
+Y se encendió la ira de Jehová contra Uzá, y lo golpeó porque extendió su mano sobre el arca; y murió allí delante de Dios.
 
 ### 13:11
 
-Y se enojó David porque el Señor había matado a Uza, y llamó al lugar ese Pérez-Uza hasta el día de hoy.
+Y se enojó David porque Jehová había abierto brecha en Uzá; y llamó a aquel lugar Péretz-Uzá hasta este día.
 
 ### 13:12
 
-Y David temió al Señor aquel día, y dijo: ¿Cómo llevaré yo el arca de Dios a casa?
+Y temió David a Dios en aquel día, diciendo: ¿Cómo traeré a mí el arca de Dios?
 
 ### 13:13
 
-Y no llevó David el arca a casa de David, sino que la llevó a casa de Obed-Edom el gético.
+Y no apartó David el arca hacia sí a la ciudad de David, y la desvió a casa de Oved-Edom el guití.
 
 ### 13:14
 
-Y el arca de Dios estuvo con la casa de Obed-Edom tres meses, y el Señor bendijo a la casa de Obed-Edom y a todo lo que tenía.
+Y habitó el arca de Dios con casa de Oved-Edom en su casa tres meses; y bendijo Jehová la casa de Oved-Edom y todo lo que era suyo.
 
 ## Capítulo 14
 
 ### 14:1
 
-Y envió Hiram, rey de Tiro, mensajeros a David, y troncos de cedro, y albañiles de piedra y albañiles de madera para construirle una casa.
+Y envió Jiram rey de Tsor mensajeros a David, y maderas de cedros y artífices de muro y artífices de madera, para edificarle casa.
 
 ### 14:2
 
-Y David supo que el Señor le había hecho rey sobre Israel, porque su reino se había elevado por causa del pueblo de Israel.
+Y conoció David que lo había afirmado Jehová por rey sobre Israel, porque había sido alzada en alto su realeza por causa de su pueblo Israel.
 
 ### 14:3
 
-Y tomó David otras mujeres en Jerusalén, y engendró David otros hijos y hijas.
+Y tomó David aún mujeres en Yerushaláyim; y engendró David aún hijos e hijas.
 
 ### 14:4
 
-Y estos son los nombres de los hijos que le nacieron en Jerusalén: Samuá, Sobab, Netán y Salomón.
+Y estos los nombres de los nacidos que le hubo en Yerushaláyim: Shamúa y Shovav, Natán y Shelomó,
 
 ### 14:5
 
-Y Ibhar, y Eleasá, y Eflet.
+e Yivjar y Elishúa y Elpelet
 
 ### 14:6
 
-Y Nogah, y Nepheg, y Jafia.
+y Nogá y Néfeg y Yafía
 
 ### 14:7
 
-Y Elisama, y Beeliada, y Eliptah.
+y Elishamá y Beelyadá y Elifelet.
 
 ### 14:8
 
-Y cuando los filisteos se enteraron de que David había sido ungido rey sobre toda Israel, subieron todos los filisteos para buscar a David. David se enteró y salió a su encuentro.
+Y oyeron filisteos que había sido ungido David por rey sobre todo Israel; y subieron todos los filisteos a buscar a David; y oyó David y salió delante de ellos.
 
 ### 14:9
 
-Y los filisteos vinieron y acamparon en el valle de Refaim.
+Y filisteos vinieron y se extendieron en el valle de Refaím.
 
 ### 14:10
 
-David consultó a Dios, diciendo: “¿Debo subir contra los filisteos y los entregará en mis manos?” Y Dios le respondió: “Sube, y los entregaré en tus manos.”
+Y preguntó David a Dios, diciendo: ¿Subiré contra los filisteos, y los darás en mi mano? Y le dijo Jehová: Sube, y los daré en tu mano.
 
 ### 14:11
 
-David subió a Bet-Perazim y allí los derrotó. Y David dijo: “Dios ha derrotado a mis enemigos como el agua se derrama.” Por eso llamaron a ese lugar Bet-Perazim.
+Y subieron a Baal-Peratsim, y los golpeó allí David; y dijo David: Abrió brecha Dios a mis enemigos por mi mano como brecha de aguas; por eso llamaron el nombre de aquel lugar Baal-Peratsim.
 
 ### 14:12
 
-Allí dejaron a sus dioses, y David les dijo: “Quemarlos.”
+Y abandonaron allí sus dioses; y dijo David, y los quemaron en el fuego.
 
 ### 14:13
 
-Los filisteos volvieron a acampar en el valle.
+Y volvieron aún filisteos y se extendieron en el valle.
 
 ### 14:14
 
-David volvió a consultar a Dios, y Dios le dijo: “No subas tras ellos. En cambio, danza alrededor de ellos y luego atácalos desde el lado de los arroyos de Betsaer.”
+Y preguntó aún David a Dios; y le dijo Dios: No subas tras ellos; rodéalos desde ellos, y vendrás a ellos frente a los bacáim.
 
 ### 14:15
 
-Cuando escuches el sonido de los pasos en las cabezas de los arroyos de Betsaer, sal a la batalla, porque Dios ha salido delante de ti para derrotar al campamento de los filisteos.”
+Y será cuando oigas la voz del marchar en las cimas de los bacáim, entonces saldrás a la guerra; porque ha salido Dios delante de ti para golpear el campamento de filisteos.
 
 ### 14:16
 
-David hizo lo que Dios le había ordenado, y derrotó al campamento de los filisteos desde Geba hasta Gazer.
+Y hizo David como le mandó Dios; y golpearon el campamento de filisteos desde Guivón hasta Guézerá.
 
 ### 14:17
 
-Y el nombre de David se extendió por todas las tierras, y el Señor puso su miedo sobre todos los pueblos.
+Y salió el nombre de David en todas las tierras; y Jehová puso su terror sobre todas las naciones.
 
 ## Capítulo 15
 
 ### 15:1
 
-David construyó casas para sí mismo en la ciudad de David y preparó un lugar para el arca de Dios y tendió una tienda.
+Y se hizo casas en la ciudad de David; y preparó lugar para el arca de Dios, y tendió para ella tienda.
 
 ### 15:2
 
-Entonces David dijo: No se llevará el arca de Dios sino los levitas, porque en ellos el Señor eligió para llevar el arca de Dios y para servirle por siempre.
+Entonces dijo David: No es para llevar el arca de Dios sino los levitas; porque en ellos escogió Jehová para llevar el arca de Jehová y para servirle hasta siempre.
 
 ### 15:3
 
-Y David reunió a todo Israel en Jerusalén para llevar el arca de Jehová a su lugar, que había preparado para él.
+Y reunió David a todo Israel a Yerushaláyim, para hacer subir el arca de Jehová a su lugar que le había preparado.
 
 ### 15:4
 
-Y David reunió a los hijos de Aarón y a los levitas.
+Y reunió David a los hijos de Aarón y a los levitas:
 
 ### 15:5
 
-De los hijos de Quet, Uriel el jefe, y sus hermanos ciento veinte.
+de los hijos de Quehat: Uriel el jefe, y sus hermanos ciento veinte;
 
 ### 15:6
 
-De los hijos de Merari, Asaías el jefe, y sus hermanos doscientos veinte.
+de los hijos de Merarí: Asayá el jefe, y sus hermanos doscientos veinte;
 
 ### 15:7
 
-De los hijos de Gesúm, Joel el jefe, y sus hermanos ciento treinta.
+de los hijos de Guershom: Yoel el jefe, y sus hermanos ciento treinta;
 
 ### 15:8
 
-De los hijos de Elisafán, Semaja el jefe, y sus hermanos ciento cincuenta.
+de los hijos de Elitsafán: Shemayá el jefe, y sus hermanos doscientos;
 
 ### 15:9
 
-De los hijos de Hebrón, Eleazar el jefe, y sus hermanos ochenta.
+de los hijos de Hevrón: Eliel el jefe, y sus hermanos ochenta;
 
 ### 15:10
 
-De los hijos de Uzziel, Amminadab el jefe, y sus hermanos ciento doce.
+de los hijos de Uziel: Aminadav el jefe, y sus hermanos ciento doce.
 
 ### 15:11
 
-Y David llamó a Sadoc y a Abiatar los sacerdotes, y a los levitas a Uriel, Asaías, Joel, Semaja, Eleazar y Amminadab.
+Y llamó David a Tsadoc y a Eviatar los sacerdotes, y a los levitas, a Uriel, Asayá y Yoel, Shemayá y Eliel y Aminadav.
 
 ### 15:12
 
-Y les dijo: Ustedes son jefes de los levitas. Santifíquense ustedes y sus hermanos, y lleven el arca de Jehová, el Dios de Israel, a la casa que yo he preparado para él.
+Y les dijo: Ustedes cabezas de los padres a los levitas; santifíquense ustedes y sus hermanos, y hagan subir el arca de Jehová Dios de Israel al que le he preparado.
 
 ### 15:13
 
-Porque no fue ustedes los que en la primera vez rompieron el pacto de Jehová, nuestro Dios, sino que no le buscaron según el orden.
+Porque al principio no ustedes —abrió brecha Jehová nuestro Dios en nosotros, porque no lo inquirimos según el juicio.
 
 ### 15:14
 
-Se santificaron los sacerdotes y los levitas para llevar el arca de Jehová, el Dios de Israel.
+Y se santificaron los sacerdotes y los levitas para hacer subir el arca de Jehová Dios de Israel.
 
 ### 15:15
 
-Los hijos de los levitas levantaron el arca de Dios, como Moisés había ordenado conforme a la palabra de Jehová, sobre sus hombros con varas.
+Y llevaron los hijos de los levitas el arca de Dios como mandó Moisés según la palabra de Jehová, sobre sus hombros con las varas sobre ellos.
 
 ### 15:16
 
-David dijo a los jefes de los levitas: Colocad a vuestros hermanos, los músicos, con instrumentos de alabanza, con cítaras, arpas y címbalos, para que hagan sonar con voz fuerte.
+Y dijo David a los jefes de los levitas que pusieran a sus hermanos los cantores con instrumentos de canto, arpas y cítaras y címbalos, haciendo oír para alzar con voz a alegría.
 
 ### 15:17
 
-Los levitas colocaron a Hemán, hijo de Joel, a Asaf, hijo de Berequía, y a Eitan, hijo de Kushaiah, a sus hermanos.
+Y pusieron los levitas a Hemán hijo de Yoel, y de sus hermanos Asaf hijo de Berejyáhu; y de los hijos de Merarí sus hermanos, Eitán hijo de Qushayáhu;
 
 ### 15:18
 
-Con ellos estaban sus hermanos, los segundones: Zaccur, Iajziel, Shemiramot, Iajiel, Iuní, Eliab, Benaja, Maaseya, Mattithia, Samiel, Iedutún, Iajiel y Obéd-Edom, los porteros.
+y con ellos sus hermanos de segundo orden: Zecaryáhu, Ben y Yaaziel y Shemiramot y Yejiël y Uní, Eliav y Benayáhu y Maaseyáhu y Matityáhu y Eliflehu y Miqneyáhu y Oved-Edom y Yeiel, los porteros.
 
 ### 15:19
 
-Los músicos eran Hemán, Asaf y Eitan, con címbalos de cobre para hacer sonar.
+Y los cantores Hemán, Asaf y Eitán, con címbalos de bronce para hacer oír;
 
 ### 15:20
 
-Zaccur, Iajziel, Shemiramot, Iajiel, Iuní, Eliab, Maaseya y Benaja tocaban nebulas sobre las alamandas.
+y Zecaryá y Aziel y Shemiramot y Yejiël y Uní y Eliav y Maaseyáhu y Benayáhu, con arpas sobre alamot;
 
 ### 15:21
 
-Matitía, Samiel, Iedutún, Iajiel, Iazaziel tocaban arpas sobre la octava para dar un sonido constante.
+y Matityáhu y Eliflehu y Miqneyáhu y Oved-Edom y Yeiel y Azazyáhu, con cítaras sobre la sheminit para dirigir.
 
 ### 15:22
 
-Kenaniah, jefe de los levitas en música, tocaba con ellos, porque entendía bien.
+Y Kenanyáhu jefe de los levitas en la carga; instruía en la carga, porque era entendido.
 
 ### 15:23
 
-Berquía y Elcana eran porteros del arca.
+Y Berejyá y Elqaná porteros para el arca.
 
 ### 15:24
 
-Sefanías, Josafat, Nethanías, Amasías, Zacarías, Benaja, Ielizur, los sacerdotes tocaban trompetas, y Obéd-Edom y Iehiay eran porteros del arca.
+Y Shevanyáhu y Yoshafat y Netanel y Amasai y Zecaryáhu y Benayáhu y Eliezer los sacerdotes con trompetas delante del arca de Dios; y Oved-Edom y Yejiyá porteros para el arca.
 
 ### 15:25
 
-David, los ancianos de Israel y los jefes de miles que iban a llevar el arca de la alianza de Jehová desde la casa de Obéd-Edom, con alegría.
+Y fue David y los ancianos de Israel y los jefes de los miles los que iban a hacer subir el arca del pacto de Jehová desde casa de Oved-Edom con alegría.
 
 ### 15:26
 
-Y el Señor ayudó a los levitas que llevaban el arca del pacto del Señor, y sacrificaron siete bueyes y siete carneros.
+Y fue al auxiliar Dios a los levitas portadores del arca del pacto de Jehová, y sacrificaron siete toros y siete carneros.
 
 ### 15:27
 
-David estaba vestido con una túnica de lana, y todos los levitas que llevaban el arca, los cantores y Kenania, el portador de la carga de los cantores, estaban con David, que llevaba el efod de lino.
+Y David envuelto en un manto de lino fino, y todos los levitas que llevaban el arca, y los cantores, y Kenanyá el jefe de la carga de los cantores; y sobre David un efod de lino.
 
 ### 15:28
 
-Todo Israel llevó el arca del pacto del Señor con gritos de júbilo, con sonidos de trompetas, de cuernos de buey, de címbalos, de arpas y de liras.
+Y todo Israel hacía subir el arca del pacto de Jehová con clamor y con voz de shofar y con trompetas y con címbalos, haciendo oír con arpas y cítaras.
 
 ### 15:29
 
-El arca del pacto del Señor llegó a la ciudad de David, y Mical, hija de Saúl, miró por la ventana y vio al rey David danzando y saltando, y se burló de él en su corazón.
+Y fue el arca del pacto de Jehová llegando hasta la ciudad de David; y Mical hija de Shaul miraba por la ventana, y vio al rey David saltando y jugando, y lo despreció en su corazón.
 
 ## Capítulo 16
 
 ### 16:1
 
-Llevaron el arca de Dios y la colocaron en medio de la tienda que David había tendido para ella. Ofrecieron holocaustos y sacrificios de paz ante el Señor.
+Y trajeron el arca de Dios, y la pusieron en medio de la tienda que tendió para ella David; y acercaron holocaustos y paz delante de Dios.
 
 ### 16:2
 
-Cuando David terminó de ofrecer las ofrendas de holocausto y de paz, bendijo al pueblo en nombre del Señor.
+Y acabó David de hacer subir el holocausto y las paz, y bendijo al pueblo en nombre de Jehová.
 
 ### 16:3
 
-David repartió a cada hombre de Israel, desde el mayor hasta la menor, un pan, un pedazo de carne y un panecillo.
+Y repartió a todo hombre de Israel, desde hombre y hasta mujer, a hombre torta de pan, y ashpar y ashishá.
 
 ### 16:4
 
-Entonces entregó a los levitas, ministros delante del arca del Señor, para que ofrecieran, para alabar y para dar gracias a Jehová, Dios de Israel.
+Y puso delante del arca de Jehová de los levitas ministrantes, y para hacer memoria y para dar gracias y para alabar a Jehová Dios de Israel.
 
 ### 16:5
 
-Asaf era el jefe, y con él Zaccur, Ieiel, Semiramot, Iehiél, Matitía, Eliab, Benayahu, Iedutún y Asaf tocaba címbalos.
+Asaf el cabeza, y su segundo Zecaryá; Yeiel y Shemiramot y Yejiël y Matityá y Eliav y Benayáhu y Oved-Edom y Yeiel, con instrumentos de arpas y con cítaras; y Asaf con los címbalos haciendo oír.
 
 ### 16:6
 
-Benayahu y Jahzíel, los sacerdotes, tocaban siempre las trompetas delante del arca del pacto de Dios.
+Y Benayáhu y Yajaziel los sacerdotes con trompetas continuamente delante del arca del pacto de Dios.
 
 ### 16:7
 
-En aquel día David designó a Asaf y a sus hermanos para alabar al Señor con instrumentos musicales.
+En aquel día entonces dio David al principio para dar gracias a Jehová por mano de Asaf y sus hermanos:
 
 ### 16:8
 
-Alabad al Señor, llamadle por su nombre, dad a conocer entre las naciones sus maravillas.
+Den gracias a Jehová, invoquen en su nombre, hagan saber en los pueblos sus hazañas.
 
 ### 16:9
 
-Cantad al Señor, tocad su nombre, hablad de todas sus maravillas.
+Canten a él, salmodien a él, mediten en todas sus maravillas.
 
 ### 16:10
 
-Glorificad su santo nombre; que el corazón de los que buscan al Señor se alegrará.
+Gloríense en el nombre de su santidad; se alegre el corazón de los que buscan a Jehová.
 
 ### 16:11
 
-Buscad al Señor y a su fuerza; buscad siempre su rostro.
+Inquieran a Jehová y su fuerza; busquen su rostro continuamente.
 
 ### 16:12
 
-Acordaros de sus maravillas, de sus prodigios y de sus decretos.
+Acuérdense de sus maravillas que hizo, sus prodigios y juicios de su boca,
 
 ### 16:13
 
-Semen de Israel, su siervo, hijos de Jacob, sus elegidos.
+semilla de Israel su siervo, hijos de Yaakov sus escogidos.
 
 ### 16:14
 
-Él es el Señor, nuestro Dios, en toda la tierra, su juicio.
+Él Jehová nuestro Dios; en toda la tierra sus juicios.
 
 ### 16:15
 
-Acordaros siempre de su alianza, de la palabra que mandó a mil generaciones.
+Acuérdense para siempre de su pacto, palabra que mandó a mil generación,
 
 ### 16:16
 
-Que hizo con Abraham, y su juramento a Isaac.
+que cortó con Abraham, y su juramento a Yitsjaq;
 
 ### 16:17
 
-Y confirmó a Jacob por estatuto, a Israel por alianza eterna.
+y la afirmó a Yaakov por estatuto, a Israel pacto de siempre,
 
 ### 16:18
 
-Diciendo: A vosotros daré la tierra de Canaán, por heredad.
+diciendo: A ti daré tierra de Canaán, cordel de la heredad de ustedes;
 
 ### 16:19
 
-Cuando vosotros sois pocos en número y extranjeros en ella.
+en ser ustedes hombres de número, como pocos, y forasteros en ella.
 
 ### 16:20
 
-Y anduvieron de nación a nación, y de reino a pueblo extranjero.
+Y anduvieron de nación a nación, y de reino a pueblo otro.
 
 ### 16:21
 
-No permitió que nadie los oprimiera, y los acusó ante los reyes.
+No permitió a hombre oprimirlos, y reprendió por ellos a reyes:
 
 ### 16:22
 
-No los toquen a mí y a mis profetas, no les hagan daño.
+No toquen a mis ungidos, y a mis profetas no hagan mal.
 
 ### 16:23
 
-Canten al Señor todos los pueblos, anuncien cada día su salvación.
+Canten a Jehová toda la tierra; anuncien de día a día su salvación.
 
 ### 16:24
 
-Den a conocer entre las naciones su gloria, entre todos los pueblos sus maravillas.
+Cuenten en las naciones su gloria, en todos los pueblos sus maravillas.
 
 ### 16:25
 
-Porque el Señor es grande y muy alabado, es temible sobre todos los dioses.
+Porque grande Jehová y muy alabado, y temible él sobre todos los dioses.
 
 ### 16:26
 
-Porque todos los dioses de las naciones son ídolos, pero el Señor hizo los cielos.
+Porque todos los dioses de los pueblos ídolos, y Jehová cielos hizo.
 
 ### 16:27
 
-Honor y majestad ante él, poder y alegría en su lugar.
+Majestad y esplendor delante de él; fuerza y alegría en su lugar.
 
 ### 16:28
 
-Den al Señor familias de pueblos, den al Señor gloria y poder.
+Den a Jehová, familias de pueblos, den a Jehová gloria y fuerza.
 
 ### 16:29
 
-Den al Señor la gloria de su nombre, traigan ofrendas y vengan ante él, adoren al Señor en su santidad.
+Den a Jehová la gloria de su nombre; lleven ofrenda y vengan delante de él; adórense a Jehová en esplendor de santidad.
 
 ### 16:30
 
-Tremebundo ante él esté todo el país, también él establecerá el mundo y no lo moverá.
+Tiemblen delante de él toda la tierra; también será afirmada el orbe, no se moverá.
 
 ### 16:31
 
-Se alegrarán los cielos y se regocijará la tierra, y se dirán entre las naciones: El Señor reina.
+Se alegren los cielos y se regocije la tierra, y digan en las naciones: Jehová reinó.
 
 ### 16:32
 
-Rugirá el mar y todo lo que contiene, se regocijará el campo y todo lo que en él hay.
+Truene el mar y su plenitud; se regocije el campo y todo lo que en él.
 
 ### 16:33
 
-Entonces cantarán los árboles del bosque ante el SEÑOR, porque él viene para juzgar la tierra.
+Entonces gritarán de júbilo los árboles del bosque delante de Jehová, porque vino a juzgar la tierra.
 
 ### 16:34
 
-Alabad al SEÑOR, porque es bueno; porque su fidelidad es eterna.
+Den gracias a Jehová porque bueno, porque para siempre su misericordia.
 
 ### 16:35
 
-Decid: ¡Salvadnos, Dios de nuestra salvación! Recogednos y libradnos de entre las naciones para alabar vuestro santo nombre y glorificaros con tus alabanzas.
+Y digan: Sálvanos, Dios de nuestra salvación, y reúnenos y líbranos de las naciones, para dar gracias al nombre de tu santidad, para gloriarnos en tu alabanza.
 
 ### 16:36
 
-Bendito sea el SEÑOR, el Dios de Israel, desde ahora y hasta siempre. Y todo el pueblo dijo: Amén. Alabad al SEÑOR.
+Bendito Jehová Dios de Israel desde el siempre y hasta el siempre. Y dijeron todo el pueblo: Amén, y alabanza a Jehová.
 
 ### 16:37
 
-Y dejó allí, delante del arca de la alianza del SEÑOR, a Asaf y a sus hermanos para que sirvieran delante del arca permanentemente, día tras día.
+Y dejó allí delante del arca del pacto de Jehová a Asaf y a sus hermanos, para ministrar delante del arca continuamente, según asunto de día en su día;
 
 ### 16:38
 
-Y a Obadión y a sus hermanos sesenta y ocho, y a Obadión, hijo de Jedutún, y a Hosa para las puertas.
+y Oved-Edom y sus hermanos sesenta y ocho; y Oved-Edom hijo de Yeditún y Hosá por porteros.
 
 ### 16:39
 
-Y a Sadoc el sacerdote y a sus hermanos los sacerdotes delante del tabernáculo del SEÑOR en la alta colina de Gibeón.
+Y a Tsadoc el sacerdote y sus hermanos los sacerdotes delante de la morada de Jehová en el alto que en Guivón,
 
 ### 16:40
 
-Para ofrecer holocaustos al SEÑOR sobre el altar del holocausto permanentemente por la mañana y por la tarde, y conforme a todo lo que está escrito en la ley del SEÑOR, que ordenó a Israel.
+para hacer subir holocaustos a Jehová sobre el altar del holocausto continuamente, a la mañana y a la tarde, y para todo lo escrito en la torá de Jehová que mandó sobre Israel;
 
 ### 16:41
 
-Y con ellos a Hemán, Jedutún y a los demás elegidos que fueron designados por sus nombres para alabar al SEÑOR, porque su fidelidad es eterna.
+y con ellos Hemán y Yedutún y el resto de los escogidos que fueron designados por nombres para dar gracias a Jehová, porque para siempre su misericordia;
 
 ### 16:42
 
-Y con ellos a Hemán, Jedutún, trompetas y címbalos para anunciar, y instrumentos de música de Dios, y a los hijos de Jedutún para las puertas.
+y con ellos Hemán y Yedutún trompetas y címbalos para los que hacen oír, e instrumentos de canto de Dios; e hijos de Yedutún para la puerta.
 
 ### 16:43
 
-Y todo el pueblo se fue a su casa, y David regresó a bendecir a su casa.
+Y anduvieron todo el pueblo, hombre a su casa; y se volvió David a bendecir su casa.
 
 ## Capítulo 17
 
 ### 17:1
 
-Y aconteció que cuando David estaba en su casa, dijo a Natán el profeta: He aquí que yo habito en una casa de cedros, pero el arca de la alianza del SEÑOR está bajo cortinas.
+Y fue cuando se sentó David en su casa, y dijo David a Natán el profeta: He aquí yo habito en casa de cedros, y el arca del pacto de Jehová debajo de cortinas.
 
 ### 17:2
 
-Y dijo Natán a David: Todo lo que está en tu corazón, hazlo, porque Dios está contigo.
+Y dijo Natán a David: Todo lo que en tu corazón, haz; porque Dios está contigo.
 
 ### 17:3
 
-Y aquella noche vino la palabra de Dios a Natán, diciendo:
+Y fue en aquella noche, y fue palabra de Dios a Natán, diciendo:
 
 ### 17:4
 
-Ve y dile a mi siervo David: Así dice el SEÑOR: No tú edificarás la casa para mí para que yo habite en ella.
+Ve y di a David mi siervo: Así dijo Jehová: No tú edificarás para mí la casa para habitar;
 
 ### 17:5
 
-Porque no he habitado en casa desde el día que hice subir a Israel hasta hoy, sino que he estado de tienda en tienda y de morada en morada.
+porque no he habitado en casa desde el día que hice subir a Israel hasta este día, y he estado de tienda a tienda y de morada.
 
 ### 17:6
 
-En todo el tiempo que he andado con Israel, ¿he hablado con alguno de los jueces de Israel, a quien he encargado de pastorear a mi pueblo, diciendo: ¿Por qué no has edificado para mí una casa de cedros?
+En todo cuanto anduve en todo Israel, ¿palabra hablé con uno de los jueces de Israel a quienes mandé apacentar a mi pueblo, diciendo: Por qué no me edificaron casa de cedros?
 
 ### 17:7
 
-Y ahora así le dirás a mi siervo David: Así dice el SEÑOR de los ejércitos: Yo te tomaré de entre el rebaño, de tras de los ovejas, para que seas príncipe sobre mi pueblo Israel.
+Y ahora así dirás a mi siervo a David: Así dijo Jehová de los ejércitos: Yo te tomé del redil, de detrás del ganado, para ser príncipe sobre mi pueblo Israel;
 
 ### 17:8
 
-Y estaré contigo y te haré que todos tus enemigos se aparten de ti, y haré tu nombre como el nombre de los grandes de la tierra.
+y he estado contigo en todo lo que anduviste, y corté a todos tus enemigos de delante de ti; y he hecho para ti nombre como el nombre de los grandes que en la tierra.
 
 ### 17:9
 
-Y pondré un lugar para mi pueblo Israel, y plantarélo, y habitaré entre ellos, y no serán más temerosos, ni los hijos de maldad los volverán a confundir, como antes.
+Y pondré lugar a mi pueblo Israel, y lo plantaré, y habitará debajo de sí, y no temblará más; y no volverán hijos de iniquidad a consumirlo como al principio,
 
 ### 17:10
 
-Y desde los días que he hecho jueces sobre mi pueblo Israel, y he humillado a todos tus enemigos, y te he hablado, y he dicho: Tu casa edificará el SEÑOR para ti.
+y desde los días que mandé jueces sobre mi pueblo Israel; y humillaré a todos tus enemigos; y te anuncio que casa te edificará Jehová.
 
 ### 17:11
 
-Y será que cuando tus días se cumplan para que vayas con tus padres, levantaré tu simiente después de ti, que será de tus hijos, y prepararé su reino.
+Y será cuando se llenen tus días para ir con tus padres, y levantaré tu simiente después de ti, que será de tus hijos, y afirmaré su reino.
 
 ### 17:12
 
-Él edificará la casa para mí, y estableceré su trono para siempre.
+Él me edificará casa, y afirmaré su trono hasta siempre.
 
 ### 17:13
 
-Yo seré para él por padre, y él será para mí por hijo; y mi misericordia no le quitaré, como la quité de aquel que fue antes de ti.
+Yo seré a él por padre, y él será a mí por hijo; y mi misericordia no quitaré de con él, como la quité de aquel que fue delante de ti.
 
 ### 17:14
 
-Y lo estableceré en mi casa y en mi reino para siempre; su trono será firme para siempre.
+Y lo haré estar en mi casa y en mi reino hasta el siempre; y su trono será firme hasta siempre.
 
 ### 17:15
 
-Todo esto y todo este visión ha hablado Nathan a David.
+Conforme a todas estas palabras y conforme a toda esta visión, así habló Natán a David.
 
 ### 17:16
 
-Entonces el rey David se presentó ante Jehová y dijo: ¿Quién soy yo, oh Jehová Dios, y qué es mi casa, que me hayas traído hasta aquí?
+Y vino el rey David y se sentó delante de Jehová, y dijo: ¿Quién soy yo, Jehová Dios, y qué es mi casa, que me has traído hasta aquí?
 
 ### 17:17
 
-Y esto es pequeño en tus ojos, oh Dios, y has hablado acerca de la casa de tu siervo, lejos, y has visto a tu siervo como un ave de paso, oh Jehová Dios.
+Y fue pequeña esto a tus ojos, Dios; y has hablado sobre la casa de tu siervo a lo lejos; y me has mirado según la norma del hombre de lo alto, Jehová Dios.
 
 ### 17:18
 
-¿Qué más añadirá David a ti para honrar a tu siervo, y tú conoces a tu siervo?
+¿Qué añadirá aún David a ti para gloria a tu siervo? Y tú a tu siervo conoces.
 
 ### 17:19
 
-Jehová, por amor a tu siervo y a tu corazón, has hecho toda esta grandeza para dar a conocer tus grandes cosas.
+Jehová, por causa de tu siervo y según tu corazón has hecho toda esta grandeza, para hacer saber todas las grandezas.
 
 ### 17:20
 
-Jehová, no hay como ti, y no hay dioses aparte de ti, en todo lo que hemos oído con nuestros oídos.
+Jehová, no hay como tú, y no hay Dios fuera de ti, en todo lo que hemos oído con nuestros oídos.
 
 ### 17:21
 
-¿Y quién es como tu pueblo Israel, un solo pueblo en la tierra, que has ido a redimir para ti un pueblo, para que te hicieses un nombre grande y terrible, para echar a tu pueblo, que has redimido de Egipto, de entre las naciones?
+Y ¿quién como tu pueblo Israel, nación una en la tierra, a quien fue Dios a redimir para sí pueblo, para ponerte nombre de grandezas y terribles, para echar de delante de tu pueblo que redimiste de Mizraim naciones?
 
 ### 17:22
 
-Y has dado a tu pueblo Israel a ti por un pueblo para siempre, y tú, Jehová, has sido para ellos por Dios.
+Y diste a tu pueblo Israel a ti por pueblo hasta siempre; y tú, Jehová, fuiste a ellos por Dios.
 
 ### 17:23
 
-Y ahora, Jehová, la palabra que has hablado acerca de tu siervo y de su casa, sea cierta para siempre, y haz como has hablado.
+Y ahora, Jehová, la palabra que hablaste sobre tu siervo y sobre su casa, sea firmada hasta siempre, y haz conforme a lo que hablaste.
 
 ### 17:24
 
-Y sea cierto y sea grande tu nombre para siempre, diciendo: Jehová de los ejércitos, Dios de Israel, Dios de Israel, y la casa de David tu siervo sea firme delante de ti.
+Y sea firmado y sea engrandecido tu nombre hasta siempre, diciendo: Jehová de los ejércitos, Dios de Israel, es Dios para Israel; y casa de David tu siervo firme delante de ti.
 
 ### 17:25
 
-Porque tú, oh Dios, has hecho oír la oreja de tu siervo para edificarle una casa, por eso tu siervo ha hallado para orar delante de ti.
+Porque tú, Dios mío, revelaste el oído de tu siervo para edificarle casa; por eso halló tu siervo para orar delante de ti.
 
 ### 17:26
 
-Y ahora, Jehová, tú eres Dios, y has hablado con tu siervo acerca de esta buena cosa.
+Y ahora, Jehová, tú eres él el Dios; y has hablado sobre tu siervo este bien.
 
 ### 17:27
 
-Y ahora, has bendecido la casa de tu siervo para que sea siempre delante de ti, porque tú, Jehová, has bendecido y serás bendecido para siempre.
+Y ahora te has complacido en bendecir la casa de tu siervo para que esté para siempre delante de ti; porque tú, Jehová, has bendecido, y es bendita para siempre.
 
 ## Capítulo 18
 
 ### 18:1
 
-Y después, David derrotó a los filisteos y los humilló, y tomó Gat y sus aldeas de manos de los filisteos.
+Y fue después de esto, y golpeó David a los filisteos y los humilló; y tomó Gat y sus hijas de mano de los filisteos.
 
 ### 18:2
 
-Y derrotó a Moab, y los moabitas fueron siervos de David, que les llevaban ofrendas.
+Y golpeó a Moav; y fueron Moav siervos a David, portadores de presente.
 
 ### 18:3
 
-Y David derrotó a Hadadezer, rey de Zobah, en Hamat, cuando salió para establecer su dominio en el río Éufrates.
+Y golpeó David a Hadadezer rey de Tsobá hacia Jamat, al ir él a afirmar su mano junto al río Perat.
 
 ### 18:4
 
-Y David tomó de él mil carros, siete mil jinetes y veinte mil infantes. Y David deshizo todos los carros, y dejó de ellos solo cien carros.
+Y capturó David de él mil carros y siete mil jinetes y veinte mil hombres de a pie; y desjarretó David todos los carros, y dejó de ellos cien carros.
 
 ### 18:5
 
-Y Aram-Damasco vino a ayudar a Hadadezer, rey de Zobah, y David derrotó a Aram, matando a veinte mil hombres.
+Y vino Aram-Darmesec a auxiliar a Hadadezer rey de Tsobá; y golpeó David en Aram veintidós mil hombres.
 
 ### 18:6
 
-Y David puso en Aram-Damasco, y Aram fue siervo de David, que les llevaba ofrendas. Y Jehová hizo prosperar a David en todas sus empresas.
+Y puso David en Aram-Darmesec, y fue Aram a David siervos portadores de presente; y salvó Jehová a David en todo lo que anduvo.
 
 ### 18:7
 
-Y David tomó los escudos de oro que había sobre los siervos de Hadadezer, y los llevó a Jerusalén.
+Y tomó David los escudos de oro que había sobre los siervos de Hadadezer, y los trajo a Yerushaláyim.
 
 ### 18:8
 
-Y de la carnicería y de los arsenales de Hadadezer, David tomó mucho cobre, con el cual hizo Salomón el mar de cobre, y los columnas, y los utensilios de cobre.
+Y de Tivjat y de Cun, ciudades de Hadadezer, tomó David bronce muchísimo; con él hizo Shelomó el mar de bronce y las columnas y los utensilios de bronce.
 
 ### 18:9
 
-Y Toi, rey de Hamat, oyó que David había derrotado a todo el ejército de Hadadezer, rey de Zobah.
+Y oyó Toú rey de Jamat que David había golpeado todo el ejército de Hadadezer rey de Tsobá,
 
 ### 18:10
 
-Y envió a Hadoram, su hijo, a David, para saludarlo y bendecirlo por haber luchado contra Hadadezer, porque Hadadezer era un hombre de guerra. Y con él llevó toda clase de utensilios de oro, plata y cobre.
+y envió a Hadoram su hijo al rey David para preguntarle por paz y para bendecirlo, porque había peleado contra Hadadezer y lo había golpeado —porque hombre de guerras de Toú era Hadadezer— y todos utensilios de oro y plata y bronce.
 
 ### 18:11
 
-También a ellos dedicó el rey David al SEÑOR, junto con el plata y el oro que había tomado de todos los pueblos: de Edom, de Moab, de los hijos de Amón, de los Filisteos y de Amalec.
+También ellos consagró el rey David a Jehová, con la plata y el oro que había traído de todas las naciones: de Edom y de Moav y de hijos de Amón y de filisteos y de Amalec.
 
 ### 18:12
 
-Y Avishai, hijo de Zeruiah, derrotó a Edom en la llanura salobre, matando a dieciocho mil.
+Y Avishai hijo de Tseruyá golpeó a Edom en el valle de la Sal, dieciocho mil.
 
 ### 18:13
 
-Y David estableció gobernadores en Edom, y todos los edomitas se hicieron siervos de David. El SEÑOR hizo prosperar a David en todo lo que emprendió.
+Y puso en Edom gobernadores, y fueron todos Edom siervos a David; y salvó Jehová a David en todo lo que anduvo.
 
 ### 18:14
 
-Y David se hizo rey sobre toda Israel, y juzgó y obró justicia a todo su pueblo.
+Y reinó David sobre todo Israel; y era haciendo juicio y justicia a todo su pueblo.
 
 ### 18:15
 
-Y Joab, hijo de Zeruiah, estaba al frente del ejército, y Jehoshaphat, hijo de Ahilud, era secretario.
+Y Yoav hijo de Tseruyá sobre el ejército, y Yehoshafat hijo de Ajilud el recordador.
 
 ### 18:16
 
-Y Zadoque, hijo de Ajitob, y Abimelech, hijo de Abiatar, eran sacerdotes, y Simei era el escriba.
+Y Tsadoc hijo de Ajituv y Avimélec hijo de Eviatar sacerdotes, y Shavsha escriba.
 
 ### 18:17
 
-Y Benayahu, hijo de Joiada, estaba al frente de los Kereteos y de los Peleteos, y los hijos de David eran los primeros en el servicio del rey.
+Y Benayahu hijo de Yehoyadá sobre el queretí y el peletí; e hijos de David los primeros a la mano del rey.
 
 ## Capítulo 19
 
 ### 19:1
 
-Y después de esto murió Nahash, rey de los hijos de Amón, y su hijo reinó en su lugar.
+Y fue después de esto, y murió Najash rey de hijos de Amón, y reinó su hijo en lugar de él.
 
 ### 19:2
 
-Y David dijo: Haré bien con Hanun, hijo de Nahash, porque su padre me hizo bien. Y envió David mensajeros para consolarlo por su padre. Y los siervos de David llegaron a la tierra de los hijos de Amón a Hanun para consolarlo.
+Y dijo David: Haré misericordia con Janún hijo de Najash, porque hizo su padre conmigo misericordia; y envió David mensajeros a consolarlo sobre su padre; y vinieron los siervos de David a la tierra de hijos de Amón, a Janún, a consolarlo.
 
 ### 19:3
 
-Y los jefes de los hijos de Amón dijeron a Hanun: ¿No te honró David a tu padre, y no envió mensajeros a ti para consolarte? ¿No es esto para buscar ocasión, para entrar en la ciudad y espionarla?
+Y dijeron los príncipes de hijos de Amón a Janún: ¿Honra David a tu padre a tus ojos porque te ha enviado consoladores? ¿No es por escudriñar y por trastornar y por espiar la tierra que han venido sus siervos a ti?
 
 ### 19:4
 
-Y Hanun tomó a los siervos de David, y les cortó la mitad de la barba, y les cortó las mangas de las túnicas hasta la cadera, hasta la juntura de las caderas, y los envió.
+Y tomó Janún a los siervos de David y los rapó, y cortó sus vestidos por la mitad hasta la ingle, y los envió.
 
 ### 19:5
 
-Y ellos se fueron y le dijeron a David. Y David los envió a Jericó para que se quedaran allí hasta que creciera su barba, y luego regresaran.
+Y fueron y anunciaron a David acerca de los hombres; y envió a su encuentro, porque los hombres estaban muy avergonzados; y dijo el rey: Quédense en Yerijó hasta que crezca su barba, y vuelvan.
 
 ### 19:6
 
-Y vieron los hijos de Amón que David se había enojado con ellos, y Hanun y los hijos de Amón enviaron a mil kors de plata a Aram Naharayim, a Aram Maacah y a Soba, para que les enviaran carros y jinetes.
+Y vieron hijos de Amón que se habían hecho odiosos con David; y envió Janún e hijos de Amón mil talentos de plata para alquilarse de Aram-Naharayim y de Aram-Maacá y de Tsobá carros y jinetes.
 
 ### 19:7
 
-Y los alquilaron a dos mil trescientos carros, y al rey de Maacah y a sus hombres, y vinieron y acamparon frente a Medeba, y los hijos de Amón se reunieron de sus ciudades y vinieron a la guerra.
+Y se alquilaron treinta y dos mil carros, y al rey de Maacá y a su pueblo; y vinieron y acamparon delante de Meidvá; e hijos de Amón se reunieron de sus ciudades y vinieron a la guerra.
 
 ### 19:8
 
-Y David oyó esto y envió a Joab con todo el ejército de los valientes.
+Y oyó David, y envió a Yoav y a todo el ejército de los valientes.
 
 ### 19:9
 
-Y salieron los hijos de Amón y se pusieron en formación para la guerra a la entrada de la ciudad, y los reyes que habían venido se pusieron en formación en el campo.
+Y salieron hijos de Amón y ordenaron batalla a la entrada de la ciudad; y los reyes que vinieron aparte en el campo.
 
 ### 19:10
 
-Y Joab vio que la batalla estaba delante y detrás, y escogió de todo el joven de Israel y se puso en formación para enfrentar a Aram.
+Y vio Yoav que estaba el frente de la guerra hacia él, frente y atrás; y escogió de todos los escogidos en Israel, y ordenó al encuentro de Aram.
 
 ### 19:11
 
-Y al resto del pueblo dejó en manos de Abisai, su hermano, y se puso en formación para enfrentar a los hijos de Amón.
+Y el resto del pueblo puso en mano de Avishai su hermano, y ordenaron al encuentro de hijos de Amón.
 
 ### 19:12
 
-Y dijo: Si Aram se fortalece contra mí, tú serás mi ayuda; y si los hijos de Amón se fortalecen contra ti, yo te ayudaré.
+Y dijo: Si se fortalece más que yo Aram, serás tú para mí por salvación; y si hijos de Amón se fortalecen más que tú, yo te salvaré.
 
 ### 19:13
 
-Fortalece y que se fortalezcan tus brazos para nuestro pueblo y para las ciudades de nuestro Dios, y que el Señor, que es bueno en mis ojos, haga.
+Sé fuerte, y fortalezcámonos por nuestro pueblo y por las ciudades de nuestro Dios; y Jehová lo bueno en sus ojos hará.
 
 ### 19:14
 
-Y Joab y el pueblo que estaba con él se acercaron a Aram para la batalla, y huyeron de su presencia.
+Y se acercó Yoav y el pueblo que con él delante de Aram a la guerra; y huyeron de delante de él.
 
 ### 19:15
 
-Y los hijos de Amón vieron que Aram huía, y también ellos huyeron de la presencia de Abisai, su hermano, y entraron en la ciudad, y Joab volvió a Jerusalén.
+E hijos de Amón vieron que había huido Aram, y huyeron también ellos de delante de Avishai su hermano, y entraron a la ciudad; y vino Yoav a Yerushaláyim.
 
 ### 19:16
 
-Y vieron los de Aram que los de Israel los habían vencido, y enviaron mensajeros y sacaron a Aram que estaba al otro lado del río, y Shophach, el general del ejército de Hadadezer, salió delante de ellos.
+Y vio Aram que habían sido heridos delante de Israel, y enviaron mensajeros y sacaron a Aram que de allende el río; y Shofaj jefe del ejército de Hadadezer delante de ellos.
 
 ### 19:17
 
-Y se le dio a David la noticia, y David reunió a todo Israel y pasó el Jordán, y vino a ellos y se puso en formación contra ellos, y David se puso en formación para enfrentar a Aram en la batalla, y lucharon con él.
+Y fue anunciado a David; y reunió a todo Israel y pasó el Yardén, y vino a ellos y ordenó contra ellos; y ordenó David al encuentro de Aram batalla, y pelearon con él.
 
 ### 19:18
 
-Y los de Aram huyeron de los de Israel, y David mató a Aram siete mil carros y cuarenta mil a pie, y mató a Shophach, el general del ejército de Hadadezer.
+Y huyó Aram de delante de Israel; y mató David de Aram siete mil carros y cuarenta mil hombres de a pie; y a Shofaj jefe del ejército mató.
 
 ### 19:19
 
-Y vieron los siervos de Hadadezer que los de Israel los habían vencido, y se sometieron a David, y no quisieron que Aram los ayudara más a los hijos de Amón.
+Y vieron los siervos de Hadadezer que habían sido heridos delante de Israel, e hicieron paz con David y le sirvieron; y no quiso Aram salvar a hijos de Amón aún.
 
 ## Capítulo 20
 
 ### 20:1
 
-Y cuando llegó la estación de los reyes, Joab llevó el ejército y devastó la tierra de los hijos de Amón, y vino y asedió a Rabbah, y David estaba en Jerusalén. Y Joab atacó a Rabbah y la destruyó.
+Y fue al tiempo del retorno del año, al tiempo de salir los reyes, y condujo Yoav la fuerza del ejército y destruyó la tierra de hijos de Amón, y vino y cercó a Rabá; y David estaba habitando en Yerushaláyim; y golpeó Yoav a Rabá y la derribó.
 
 ### 20:2
 
-Y David tomó la corona de su rey, que pesaba un talento de oro, y en ella había una piedra preciosa, y la puso sobre su cabeza. Y el botín de la ciudad fue muy abundante.
+Y tomó David la corona de su rey de sobre su cabeza, y halló su peso un talento de oro, y en ella piedra preciosa; y fue sobre la cabeza de David; y el botín de la ciudad sacó mucho en gran manera.
 
 ### 20:3
 
-Y sacó a la gente de ella y la hizo trabajar en la muela, en las sierras de hierro y en las picas. Y así hizo David con todas las ciudades de los hijos de Amón. Y David y todo el pueblo regresaron a Jerusalén.
+Y al pueblo que en ella sacó, y los aserró con sierra y con trillos de hierro y con sierras; y así hacía David a todas las ciudades de hijos de Amón; y volvió David y todo el pueblo a Yerushaláyim.
 
 ### 20:4
 
-Y después hubo una batalla en Gezer con los filisteos, entonces Sibbecai el husita mató a Sapha, uno de los hijos de los gigantes, y los filisteos huyeron.
+Y fue después de esto, y se levantó guerra en Guézer con filisteos; entonces golpeó Sibecai el jushatí a Sipai, de los nacidos de los refaím; y fueron humillados.
 
 ### 20:5
 
-Y hubo otra batalla con los filisteos, y Elhanan hijo de Jair mató a Lahmi, hermano de Goliat el gittita, cuyo lanza tenía un peso de trescientos shekels de bronce.
+Y hubo aún guerra con filisteos; y golpeó Eljanán hijo de Et a Lajmí hermano de Goliat el guití, y el leño de su lanza como rodillo de tejedores.
 
 ### 20:6
 
-Y hubo otra batalla en Gat, y había un hombre de gran estatura, con seis dedos en cada mano y seis dedos en cada pie, veinte y cuatro en total, y también él nació a los hijos de los gigantes.
+Y hubo aún guerra en Gat; y hubo un hombre de medida, y sus dedos seis y seis, veinticuatro; y también él había nacido al Rafa.
 
 ### 20:7
 
-Y blasfemó contra Israel, y Jonatán hijo de Shimea, hermano de David, lo mató.
+Y desafió a Israel; y lo golpeó Yehonatán hijo de Shimá hermano de David.
 
 ### 20:8
 
-Estos nacieron a los hijos de los gigantes en Gat, y fueron derribados por David y por sus siervos.
+Estos nacieron al Rafa en Gat; y cayeron en mano de David y en mano de sus siervos.
 
 ## Capítulo 21
 
 ### 21:1
 
-Y se levantó Satanás contra Israel, y movió a David para que contara a Israel.
+Y se levantó satán contra Israel, e incitó a David a contar a Israel.
 
 ### 21:2
 
-Y David dijo a Joab y a los capitanes del pueblo: Id y contad a Israel desde Beerseba hasta Dan, y traedme el número, para que yo sepa el número de ellos.
+Y dijo David a Yoav y a los jefes del pueblo: Vayan, cuenten a Israel desde Beer-Sheva hasta Dan, y tráiganme, y sabré su número.
 
 ### 21:3
 
-Y Joab dijo: ¿Acaso Jehová no hace con su pueblo según le place? ¿No son todos ellos sus siervos? ¿Por qué hace el rey esto? ¿Por qué será esto un pecado para Israel?
+Y dijo Yoav: Añada Jehová sobre su pueblo como ellos cien veces; ¿no son todos, señor mío el rey, siervos a mi señor? ¿Por qué busca esto mi señor? ¿Por qué será por culpa a Israel?
 
 ### 21:4
 
-Pero la palabra del rey se hizo fuerte contra Joab, y salió Joab y recorrió toda Israel y vino a Jerusalén.
+Pero la palabra del rey prevaleció sobre Yoav; y salió Yoav y anduvo por todo Israel, y vino a Yerushaláyim.
 
 ### 21:5
 
-Y Joab dio el número del censo del pueblo a David; y todo Israel era un millón y medio de hombres que llevaban espada, y Judá era cuatrocientos y setenta mil hombres que llevaban espada.
+Y dio Yoav el número del censo del pueblo a David; y fue todo Israel mil miles y cien mil hombres sacadores de espada; y Yehudá cuatrocientos setenta mil hombres sacadores de espada.
 
 ### 21:6
 
-Mas a Leví y a Benjamín no contó, porque el asunto del rey disgustó a Joab.
+Y a Leví y a Binyamín no contó en medio de ellos, porque abominable era la palabra del rey a Yoav.
 
 ### 21:7
 
-Y fue malo esto a los ojos de Jehová, y castigó a Israel.
+Y fue malo a ojos de Dios sobre este asunto; y golpeó a Israel.
 
 ### 21:8
 
-Y David dijo a Jehová: He pecado mucho en lo que he hecho. Ahora, pues, perdona, te ruego, el pecado de tu siervo, porque he obrado muy neciamente.
+Y dijo David a Dios: Pequé mucho en que hice este asunto; y ahora pasa ahora la iniquidad de tu siervo, porque obré muy neciamente.
 
 ### 21:9
 
-Y Jehová habló a Gad, el vidente de David, diciendo:
+Y habló Jehová a Gad, vidente de David, diciendo:
 
 ### 21:10
 
-Ve y dile a David: Así dice Jehová: Tres cosas te doy; escoge una de ellas, y te haré.
+Ve y habla a David, diciendo: Así dijo Jehová: Tres cosas tiendo sobre ti; escoge para ti una de ellas, y haré a ti.
 
 ### 21:11
 
-Y vino Gad a David y le dijo: Así dice Jehová: Escoge y recibe.
+Y vino Gad a David, y le dijo: Así dijo Jehová: Acepta para ti:
 
 ### 21:12
 
-¿Tres años de hambre, o tres meses de que te acosen tus enemigos y la espada de tus enemigos te sobreven, o tres días de plaga en el territorio de Israel? Ahora pues, mira y dime qué responderé al que me envió.
+o tres años de hambre, o tres meses ser consumido delante de tus adversarios y espada de tu enemigo alcanzando, o tres días espada de Jehová y pestilencia en la tierra, y ángel de Jehová destruyendo en todo el término de Israel; y ahora mira qué responderé al que me envió palabra.
 
 ### 21:13
 
-Y David dijo a Gad: Es muy angustioso para mí. Pero ahora, hazme caer, te ruego, en la mano de Jehová, porque sus misericordias son muchas; y no en la mano del hombre.
+Y dijo David a Gad: Estrecho me es mucho; caiga yo ahora en mano de Jehová, porque muchos son sus misericordias muy; y en mano de hombre no caiga yo.
 
 ### 21:14
 
-Y Jehová envió plaga a Israel; y murieron de Israel setenta mil hombres.
+Y dio Jehová pestilencia en Israel; y cayeron de Israel setenta mil hombres.
 
 ### 21:15
 
-Entonces envió Dios un ángel a Jerusalén para destruirla. Pero cuando el ángel extendió su mano para destruir Jerusalén, el Señor se arrepintió de la calamidad y dijo al ángel que destruía: “¡Basta ya!”. El ángel del Señor estaba junto al arado de Arauna el jebuseo.
+Y envió Dios un ángel a Yerushaláyim para destruirla; y al destruir, vio Jehová y se arrepintió sobre el mal, y dijo al ángel destructor: Basta ahora; suelta tu mano; y el ángel de Jehová estaba junto a la era de Ornán el yevusí.
 
 ### 21:16
 
-David levantó la vista y vio al ángel del Señor que estaba entre la tierra y el cielo, con una espada desenvainada en su mano, extendida sobre Jerusalén. Entonces David y los ancianos se cubrieron con cilicios y se postraron de cara a la tierra.
+Y alzó David sus ojos y vio al ángel de Jehová parado entre la tierra y entre los cielos, y su espada desenvainada en su mano extendida sobre Yerushaláyim; y cayó David y los ancianos, cubiertos de sacos, sobre sus rostros.
 
 ### 21:17
 
-David dijo al Señor: “¿No era yo quien había dicho que contara al pueblo? Yo soy el pecador, yo soy el malvado, ¿qué han hecho estos corderos? Señor, Dios mío, que tu mano esté sobre mí y sobre la casa de mi padre, pero no sobre tu pueblo para causar la plaga.”
+Y dijo David a Dios: ¿No yo dije para contar en el pueblo? Y yo soy el que pequé y haciendo mal hice mal; y estos, el rebaño, ¿qué hicieron? Jehová Dios mío, sea ahora tu mano en mí y en casa de mi padre, y en tu pueblo no por plaga.
 
 ### 21:18
 
-El ángel del Señor dijo a Gad: “Dile a David que suba a levantar un altar al Señor en el arado de Arauna el jebuseo.”
+Y el ángel de Jehová dijo a Gad, diciendo a David, que suba David a levantar altar a Jehová en la era de Ornán el yevusí.
 
 ### 21:19
 
-David subió conforme a la palabra de Gad, que había hablado en nombre del Señor.
+Y subió David según la palabra de Gad que habló en nombre de Jehová.
 
 ### 21:20
 
-Arauna estaba y vio al ángel con sus cuatro hijos con él, escondidos; y Arauna estaba segando trigo.
+Y se volvió Ornán y vio al ángel, y sus cuatro hijos con él se escondían; y Ornán trillaba trigo.
 
 ### 21:21
 
-David llegó a Arauna, y Arauna salió y vio a David. Se postró ante David con la cara en tierra.
+Y vino David hasta Ornán; y miró Ornán y vio a David, y salió de la era y se postró a David, rostros a tierra.
 
 ### 21:22
 
-David dijo a Arauna: “Dame el lugar del arado para que lo construya en él un altar al Señor. Con plata llena te lo pagaré, y la plaga cesará de sobre el pueblo.”
+Y dijo David a Ornán: Dame el lugar de la era, y edificaré en él altar a Jehová; por plata completa dámelo, y se detendrá la plaga de sobre el pueblo.
 
 ### 21:23
 
-Arauna respondió a David: “Tómalo para ti, mi señor el rey, que es bueno en tus ojos. Mira, he dado las vacas para holocaustos, los mohorgines para leña y el trigo para la ofrenda; todo lo he dado.”
+Y dijo Ornán a David: Tómate, y haga mi señor el rey lo bueno a sus ojos; mira, doy el ganado para holocaustos, y los trillos para leña, y el trigo para ofrenda; todo doy.
 
 ### 21:24
 
-El rey David dijo a Arauna: “No, porque yo debo comprarlo con plata llena. No sacrificaré a Jehová lo que es tuyo, sino que ofreceré holocaustas gratuitas.”
+Y dijo el rey David a Ornán: No, sino comprando compraré por plata completa; porque no tomaré lo que es tuyo para Jehová, y ofrecer holocausto de balde.
 
 ### 21:25
 
-David dio a Arauna en el lugar, pesos de oro, un peso de cien.
+Y dio David a Ornán por el lugar siclos de oro de peso seiscientos.
 
 ### 21:26
 
-Allí David levantó un altar al Señor y ofreció holocaustos y paz, y llamó al Señor, y el Señor le respondió con fuego del cielo sobre el altar del holocausto.
+Y edificó allí David altar a Jehová, y ofreció holocaustos y paz; e invocó a Jehová, y le respondió con fuego desde los cielos sobre el altar del holocausto.
 
 ### 21:27
 
-Y el SEÑOR dijo al ángel: Y el ángel guardó su espada en su lugar.
+Y dijo Jehová al ángel, y volvió su espada a su vaina.
 
 ### 21:28
 
-En aquel tiempo, cuando David vio que el SEÑOR respondía a él en el corral de Arauna el jebuseo, sacrificó allí.
+En aquel tiempo, al ver David que le había respondido Jehová en la era de Ornán el yevusí, sacrificó allí.
 
 ### 21:29
 
-Y la tienda que hizo Moisés en el desierto, y el altar de holocaustos en aquel tiempo, estaban en la alta colina de Gibeón.
+Y la morada de Jehová que hizo Moisés en el desierto, y el altar del holocausto, en aquel tiempo en el alto en Guivón.
 
 ### 21:30
 
-Y David no pudo ir delante de él para buscar a Dios, porque se había enfurecido contra él por la espada del ángel del SEÑOR.
+Y no pudo David ir delante de él a inquirir a Dios, porque estaba aterrado delante de la espada del ángel de Jehová.
 
 ## Capítulo 22
 
 ### 22:1
 
-Y dijo David: Este es el templo de Jehová, y este es el altar de holocausto para Israel.
+Y dijo David: Este es la casa de Jehová Dios, y este el altar para holocausto para Israel.
 
 ### 22:2
 
-Y dijo David: Reúnanse a los extranjeros que están en la tierra de Israel, y hagan que los canteros cancelem las piedras para edificar el templo de Dios.
+Y dijo David que juntaran a los forasteros que en tierra de Israel; y puso canteros para labrar piedras de sillería para edificar la casa de Dios.
 
 ### 22:3
 
-Y hierro en abundancia para clavos para las puertas y para las uniones, preparó David; y no había peso de bronce.
+Y hierro en abundancia para los clavos de las puertas de las puertas y para las junturas preparó David, y bronce en abundancia sin peso.
 
 ### 22:4
 
-Y cedros en abundancia, porque los sidonios y los tirios habían traído cedros en abundancia para David.
+Y maderas de cedros sin número; porque trajeron los sidonios y los de Tsor maderas de cedros en abundancia a David.
 
 ### 22:5
 
-Y dijo David: Salomón, mi hijo, es joven y tierno; y la casa que se ha de edificar para Jehová ha de ser grande y gloriosa para todas las naciones. Prepararé ahora para él. Y David preparó en abundancia antes de su muerte.
+Y dijo David: Shelomó mi hijo es muchacho y tierno, y la casa de edificar a Jehová para engrandecer en alto, para nombre y para hermosura a todas las tierras; prepararé ahora para él; y preparó David en abundancia delante de su muerte.
 
 ### 22:6
 
-Y llamó a Salomón, su hijo, y le mandó que edificara una casa para Jehová, el Dios de Israel.
+Y llamó a Shelomó su hijo, y le mandó edificar casa a Jehová Dios de Israel.
 
 ### 22:7
 
-Y dijo David a Salomón: Hijo mío, ha estado en mi corazón edificar una casa para el nombre de Jehová, mi Dios.
+Y dijo David a Shelomó: Yo tuve con mi corazón edificar casa al nombre de Jehová mi Dios.
 
 ### 22:8
 
-Y vino sobre mí la palabra del SEÑOR, diciendo: Has derramado sangre en abundancia, y has hecho guerras grandes; no edificarás casa para mi nombre, porque has derramado sangre en abundancia en la tierra delante de mí.
+Y fue sobre mí palabra de Jehová, diciendo: Sangre en abundancia derramaste, y guerras grandes hiciste; no edificarás casa a mi nombre, porque sangres muchas derramaste a tierra delante de mí.
 
 ### 22:9
 
-He aquí, nació un hijo para ti, él será hombre de descanso; y le daré descanso de todos sus enemigos alrededor. Porque será su nombre Salomón, y daré paz y sosiego a Israel en mis días.
+He aquí un hijo nacido a ti; él será hombre de reposo, y le daré descanso de todos sus enemigos de alrededor; porque Shelomó será su nombre, y paz y quietud daré sobre Israel en sus días.
 
 ### 22:10
 
-Él edificará casa para mi nombre, y él será para mí hijo, y yo seré para él padre; y prepararé su trono para el reino de él sobre Israel para siempre.
+Él edificará casa a mi nombre, y él será a mí por hijo, y yo a él por padre; y afirmaré el trono de su reino sobre Israel hasta siempre.
 
 ### 22:11
 
-Ahora, hijo mío, que Jehová esté contigo, y que prosperes, y edifiques la casa de Jehová tu Dios, como él ha hablado acerca de ti.
+Ahora, hijo mío, sea Jehová contigo, y prosperarás, y edificarás casa de Jehová tu Dios, como habló sobre ti.
 
 ### 22:12
 
-Mas Jehová te dará entendimiento y sabiduría, y te ordenará sobre Israel, y guardarás la ley de Jehová tu Dios.
+Solo te dé Jehová inteligencia y entendimiento, y te mande sobre Israel, y para guardar la torá de Jehová tu Dios.
 
 ### 22:13
 
-Entonces prosperarás, si guardas para hacer los estatutos y los decretos que Jehová ha mandado a Moisés para Israel. Sé fuerte y valiente, no temas ni desmayes.
+Entonces prosperarás si guardas para hacer los estatutos y los juicios que mandó Jehová a Moisés sobre Israel; sé fuerte y sé valiente; no temas y no te desalientes.
 
 ### 22:14
 
-Y he aquí, en mi aflicción he preparado para la casa de Jehová cien talentos de oro, mil talentos de plata, y bronce y hierro sin peso, porque era en abundancia; y madera y piedras he preparado, y añadirás a ellas.
+Y he aquí en mi aflicción preparé para la casa de Jehová oro talentos cien mil, y plata mil miles de talentos; y para el bronce y para el hierro no hay peso, porque en abundancia era; y maderas y piedras preparé, y sobre ellas añadirás.
 
 ### 22:15
 
-Y contigo, en abundancia, obreros hábiles, talladores y fundidores de hierro y de cobre, y todo hombre hábil en toda obra.
+Y contigo en abundancia hacedores de obra: canteros y artífices de piedra y madera, y todo sabio en toda obra,
 
 ### 22:16
 
-Para el oro, para la plata, para el cobre y para el hierro, no hay cuenta; levántate y hazlo, y que Jehová esté contigo.
+para el oro, para la plata y para el bronce y para el hierro, no hay número; levántate y haz, y sea Jehová contigo.
 
 ### 22:17
 
-Y mandó David a todos los príncipes de Israel para que ayudaran a Salomón hijo suyo.
+Y mandó David a todos los jefes de Israel ayudar a Shelomó su hijo:
 
 ### 22:18
 
-¿Acaso no está Jehová, vuestro Dios, con vosotros, y os dará descanso alrededor? Porque ha puesto en mi mano a los moradores de la tierra, y la tierra será sujeta delante de Jehová y delante de su pueblo.
+¿No está Jehová su Dios con ustedes, y les ha dado descanso de alrededor? Porque dio en mi mano a los habitantes de la tierra, y fue sometida la tierra delante de Jehová y delante de su pueblo.
 
 ### 22:19
 
-Ahora echad el corazón y el alma para buscar a Jehová, vuestro Dios; y levantaos y edificad el santuario de Jehová, para que se traiga el arca de la alianza de Jehová y los utensilios santos del Dios de los santuarios al templo que se ha de edificar para el nombre de Jehová.
+Ahora den su corazón y su alma a inquirir a Jehová su Dios; y levántense y edifiquen el santuario de Jehová Dios, para traer el arca del pacto de Jehová y los utensilios de santidad de Dios a la casa que se edifica al nombre de Jehová.
 
 ## Capítulo 23
 
 ### 23:1
 
-Y David era viejo y lleno de días; y puso a Salomón hijo suyo por rey sobre Israel.
+Y David envejeció y se sació de días, e hizo rey a Shelomó su hijo sobre Israel.
 
 ### 23:2
 
-Y David reunió a todos los jefes de Israel, a los sacerdotes y a los levitas.
+Y reunió a todos los jefes de Israel y a los sacerdotes y a los levitas.
 
 ### 23:3
 
-Los levitas contaron desde los treinta años en adelante, y el número de ellos para el servicio fue de treinta y ocho mil hombres.
+Y fueron contados los levitas desde hijo de treinta años y arriba; y fue su número por sus cráneos, para varones, treinta y ocho mil.
 
 ### 23:4
 
-De ellos, veinticuatro mil para el servicio en la casa de Jehová, seis mil oficiales y jueces.
+De estos, para dirigir sobre la obra de la casa de Jehová, veinticuatro mil; y oficiales y jueces, seis mil;
 
 ### 23:5
 
-Cuatro mil porteros y cuatro mil alabadores de Jehová, con instrumentos que yo hice para alabar.
+y cuatro mil porteros; y cuatro mil alabadores a Jehová con los instrumentos que hice para alabar.
 
 ### 23:6
 
-David los dividió en grupos para los hijos de Leví: a Gersón, a Quis, y a Merari.
+Y los dividió David en divisiones a los hijos de Leví: a Guershón, Quehat y Merarí.
 
 ### 23:7
 
-Para Gersón: Laedán y Shimí.
+A los guershuníes: Laedán y Shimí.
 
 ### 23:8
 
-Los hijos de Laedán: Jahiel, Zetham y Joel, tres en total.
+Hijos de Laedán: la cabeza Yejiël, y Zetam y Yoel, tres.
 
 ### 23:9
 
-Los hijos de Shimí: Shemuel, Hachiel y Haran, tres en total. Estos eran los jefes de las familias de Laedán.
+Hijos de Shimí: Jaziel y Harán, tres; estos cabezas de los padres a Laedán.
 
 ### 23:10
 
-Los hijos de Shimí: Jahat, Zina, Jeush y Beriah, cuatro en total.
+Y hijos de Shimí: Yájat, Ziná y Yeush y Beriá; estos hijos de Shimí, cuatro.
 
 ### 23:11
 
-Jahat era el jefe, Zizah el segundo, Jeush y Beriah no tuvieron muchos hijos, y fueron considerados una sola familia.
+Y fue Yájat la cabeza, y Zizá el segundo; y Yeush y Beriá no multiplicaron hijos, y fueron a casa de padre por censo una.
 
 ### 23:12
 
-Los hijos de Quis: Amram, Jeser, Hebrón y Uziel, cuatro en total.
+Hijos de Quehat: Amram, Yitsjar, Hevrón y Uziel, cuatro.
 
 ### 23:13
 
-Los hijos de Amram: Aarón y Moisés. Aarón fue apartado para consagrarlo, él y sus hijos para siempre, para quemar incienso delante de Jehová y para servirle y bendecir en su nombre para siempre.
+Hijos de Amram: Aarón y Moisés; y fue separado Aarón para santificarlo santidad de santidades, él y sus hijos hasta siempre, para quemar incienso delante de Jehová, para servirle y para bendecir en su nombre hasta siempre.
 
 ### 23:14
 
-Moisés, hombre de Dios, sus hijos serán llamados sobre el linaje de Leví.
+Y Moisés, hombre de Dios —sus hijos serían llamados sobre la tribu de Leví.
 
 ### 23:15
 
-Los hijos de Moisés: Gersón y Eliezer.
+Hijos de Moisés: Guershom y Eliezer.
 
 ### 23:16
 
-Los hijos de Gersón: Shubael, el jefe.
+Hijos de Guershom: Shevuel la cabeza.
 
 ### 23:17
 
-Los hijos de Eliezer: Rehaviá, el jefe; y a Eliezer no le nacieron otros hijos, y los hijos de Rehaviá fueron numerosos.
+Y fueron hijos de Eliezer: Rejavyá la cabeza; y no hubo a Eliezer otros hijos; e hijos de Rejavyá se multiplicaron en alto.
 
 ### 23:18
 
-Los hijos de Itamar: Selomit, el jefe.
+Hijos de Yitsjar: Shelomit la cabeza.
 
 ### 23:19
 
-Los hijos de Hebrón: Jeriáhu, el jefe; Ammariá, el segundo; Jahaziel, el tercero; y Jikamám, el cuarto.
+Hijos de Hevrón: Yeriyáhu la cabeza, Amaryá el segundo, Yajaziel el tercero, y Yekamam el cuarto.
 
 ### 23:20
 
-Los hijos de Uziel: Mica, el jefe; y Jesiá, el segundo.
+Hijos de Uziel: Micá la cabeza, e Yishiyá el segundo.
 
 ### 23:21
 
-Los hijos de Merari: Malquí y Musí. Los hijos de Malquí: Eleazar y Quis.
+Hijos de Merarí: Majlí y Mushí; hijos de Majlí: Eleazar y Quish.
 
 ### 23:22
 
-Eleazar murió y no tuvo hijos, sino hijas; y los hijos de Quis, sus hermanos, tomaron a sus hijas por esposas.
+Y murió Eleazar, y no hubo a él hijos sino hijas; y las tomaron hijos de Quish sus hermanos.
 
 ### 23:23
 
-Los hijos de Musí: Malquí, Jedero y Jeremot, tres en total.
+Hijos de Mushí: Majlí y Éder y Yerimot, tres.
 
 ### 23:24
 
-Estos son los hijos de Leví por sus casas paternas, jefes de sus padres, según el censo de sus nombres, según el número de sus cabezas, que hacen el trabajo en la casa de Jehová, desde los veinte años y en adelante.
+Estos hijos de Leví a casa de sus padres, cabezas de los padres a sus censos, en número de nombres por sus cráneos, hacedores de la obra para el servicio de la casa de Jehová, desde hijo de veinte años y arriba.
 
 ### 23:25
 
-Porque David dijo: Jehová, el Dios de Israel, ha dado descanso a su pueblo Israel, y ha habitado en Jerusalén para siempre.
+Porque dijo David: Dio descanso Jehová Dios de Israel a su pueblo, y habitó en Yerushaláyim hasta para siempre.
 
 ### 23:26
 
-Y también a los levitas no se les contó para llevar el tabernáculo y todos sus utensilios para su servicio.
+Y también a los levitas: no hay para llevar la morada y todos sus utensilios para su servicio.
 
 ### 23:27
 
-Porque en las últimas palabras de David se daban cuenta del número de los hijos de Leví, desde los veinte años y en adelante.
+Porque según las palabras de David las últimas, ellos el número de hijos de Leví desde hijo de veinte años y arriba.
 
 ### 23:28
 
-Porque su puesto era al lado de los hijos de Aarón para el servicio en la casa de Jehová, en las cortes y en los aposentos, y para la purificación de todo lugar santo, y para el trabajo del servicio en la casa de Dios.
+Porque su puesto a la mano de hijos de Aarón para el servicio de la casa de Jehová, sobre los atrios y sobre las cámaras y sobre la pureza de toda santidad, y obra del servicio de la casa de Dios;
 
 ### 23:29
 
-Y para el pan de la disposición y para la harina de la ofrenda y para los panes de torta y para el pan de azafrán y para el pan de cocción y para toda medida y medida.
+y para el pan de la disposición y para la harina fina para ofrenda y para las tortas de los panes ázimos y para la sartén y para lo cocido, y para toda medida y medida;
 
 ### 23:30
 
-Y para estar de guardia por la mañana y por la mañana para dar gracias y alabar a Jehová, y así por la tarde.
+y para estar por la mañana por la mañana para agradecer y para alabar a Jehová, y asimismo a la tarde;
 
 ### 23:31
 
-Y para todas las ofrendas de holocausto a Jehová en los sábados, en las nuevas lunas y en las fiestas, según el número, según el juicio, constantemente delante de Jehová.
+y para todo ofrecer holocaustos a Jehová, para los sábados, para las lunas nuevas y para las fiestas, en número según el juicio sobre ellos, continuamente delante de Jehová;
 
 ### 23:32
 
-Y guardarán la guardia del tabernáculo de reunión y la guardia del santuario y la guardia de los hermanos de Aarón, para el servicio en la casa de Jehová.
+y guardarán la guardia de la tienda de reunión y la guardia de la santidad y la guardia de hijos de Aarón sus hermanos, para el servicio de la casa de Jehová.
 
 ## Capítulo 24
 
 ### 24:1
 
-Y a los hijos de Aarón, sus divisiones; los hijos de Aarón, Nodab, Abiú, Eleazar y Itamar.
+Y a los hijos de Aarón sus divisiones: hijos de Aarón Nadav y Avihú, Eleazar e Itamar.
 
 ### 24:2
 
-Y murió Nodab y Abiú delante de su padre, y no tuvieron hijos, y Eleazar y Itamar fueron sacerdotes.
+Y murió Nadav y Avihú delante de su padre, e hijos no hubo a ellos; y sacerdotearon Eleazar e Itamar.
 
 ### 24:3
 
-Y los dividió David y Zadoque de los hijos de Eleazar, y Ahimelec de los hijos de Itamar, según su guardia para su servicio.
+Y los dividió David, y Tsadoc de los hijos de Eleazar, y Ajimélec de los hijos de Itamar, a su censo en su servicio.
 
 ### 24:4
 
-Y hallaron entre los hijos de Eleazar muchos cabezas de hombres, y entre los hijos de Itamar, y los dividieron; a los hijos de Eleazar cabezas de casas paternas, seis, y a los hijos de Itamar, cabezas de casas paternas, ocho.
+Y fueron hallados hijos de Eleazar más numerosos a cabezas de los varones que de hijos de Itamar; y los dividieron: a los hijos de Eleazar cabezas a casa de padres dieciséis, y a los hijos de Itamar a casa de sus padres ocho.
 
 ### 24:5
 
-Y los dividieron por sorteo, uno con otro, porque eran jefes de santuario y jefes de Dios, de los hijos de Eleazar y de los hijos de Itamar.
+Y los dividieron por suertes, estos con estos; porque hubo jefes de santidad y jefes de Dios de los hijos de Eleazar y de los hijos de Itamar.
 
 ### 24:6
 
-Y escribiólos Semajah hijo de Netanahel, el contable, del levita, delante del rey, y de los príncipes, y de Sadoc el sacerdote, y de Ajimelech hijo de Abiatar, y de los cabezas de las casas paternas de los sacerdotes y de los levitas, una casa paterna para Eleazar, y una casa paterna para Itamar.
+Y los escribió Shemayá hijo de Netanel el escriba, de los levitas, delante del rey y de los jefes y Tsadoc el sacerdote y Ajimélec hijo de Eviatar y cabezas de los padres a los sacerdotes y a los levitas: casa de padre una tomada a Eleazar, y tomada tomada a Itamar.
 
 ### 24:7
 
-Y salió el sorteo el primero para Joiarib, el segundo para Jedaías,
+Y salió la suerte primera a Yehoyariv; a Yedayá la segunda;
 
 ### 24:8
 
-el tercero para Harim, el cuarto para Seorim,
+a Jarim la tercera; a Seorim la cuarta;
 
 ### 24:9
 
-el quinto para Malquías, el sexto para Mijamín,
+a Malquiyá la quinta; a Miyamín la sexta;
 
 ### 24:10
 
-el séptimo para Hakoz, el octavo para Abías,
+a Haqots la séptima; a Aviyá la octava;
 
 ### 24:11
 
-el noveno para Jesúa, el décimo para Sicanías,
+a Yeshúa la novena; a Shejanyáhu la décima;
 
 ### 24:12
 
-el undécimo para Eljasib, el duodécimo para Jecim,
+a Elyashiv la undécima; a Yaquim la duodécima;
 
 ### 24:13
 
-el decimotercero para Chuppa, el decimocuarto para Jesebab,
+a Jupá la decimotercera; a Yeshevav la decimocuarta;
 
 ### 24:14
 
-el decimoquinto para Bilgá, el decimosexto para Amram,
+a Bilgá la decimoquinta; a Imer la decimosexta;
 
 ### 24:15
 
-el decimoséptimo para Hezir, el decimoctavo para Pectajin,
+a Jezir la decimoséptima; a Hapitséts la decimoctava;
 
 ### 24:16
 
-el decimonoveno para Pethajah, el vigésimo para Jecel,
+a Petajyá la decimonovena; a Yejezqel la vigésima;
 
 ### 24:17
 
-el vigésimo primero para Jakin, el vigésimo segundo para Gamul,
+a Yaquin la vigésima primera; a Gamul la vigésima segunda;
 
 ### 24:18
 
-para Delajahu veintitrés, para Maaziah veinticuatro
+a Delayáhu la vigésima tercera; a Maazyáhu la vigésima cuarta.
 
 ### 24:19
 
-Estos son sus asignaciones para su servicio para entrar en la casa de Jehová conforme a su ordenanza, a manos de Aarón, conforme a lo que Jehová, el Dios de Israel, les mandó
+Estos su censo para su servicio, para entrar a la casa de Jehová según su juicio por mano de Aarón su padre, como le mandó Jehová Dios de Israel.
 
 ### 24:20
 
-y para los hijos de Leví que quedaban, para los hijos de Amram, Sobael, para los hijos de Sobael, Jedajah
+Y a los hijos de Leví los restantes: a los hijos de Amram Shubael; a los hijos de Shubael Yejdeyáhu.
 
 ### 24:21
 
-para Rehaviyah, para los hijos de Rehaviyah, el jefe, Jesijah
+A Rejavyáhu: a los hijos de Rejavyáhu la cabeza Yishiyá.
 
 ### 24:22
 
-para Yitzhari, Shalom, para los hijos de Shalom, Jahat
+A los yitsjaríes Shelomot; a los hijos de Shelomot Yájat.
 
 ### 24:23
 
-y los hijos de Jeriayah, Amarayah el segundo, Jahaziel el tercero, Yeqamam el cuarto
+Y hijos: Yeriyáhu; Amaryáhu el segundo, Yajaziel el tercero, Yekamam el cuarto.
 
 ### 24:24
 
-los hijos de Uzziel, Mica, para los hijos de Mica, Semarim
+Hijos de Uziel Micá; a los hijos de Micá.
 
 ### 24:25
 
-el hermano de Mica, Jesijah, para los hijos de Jesijah, Zaccur
+Hermano de Micá Yishiyá; a los hijos de Yishiyá Zecaryáhu.
 
 ### 24:26
 
-los hijos de Merari, Mahli y Musi, los hijos de Jaazijah, su hijo
+Hijos de Merarí Majlí y Mushí; hijos de Yaaziyáhu su hijo.
 
 ### 24:27
 
-los hijos de Merari, para Jaazijah, su hijo, y Shoham, Zaccur y Ibbi
+Hijos de Merarí a Yaaziyáhu su hijo: y Shóham y Zacur e Ivrí.
 
 ### 24:28
 
-para Mahli, Elazar, y no tuvo hijos
+A Majlí Eleazar; y no hubo a él hijos.
 
 ### 24:29
 
-para Qish, los hijos de Qish, Jerameel
+A Quish: hijos de Quish Yerajmeel.
 
 ### 24:30
 
-Los hijos de Mushí son Mahli, Eder y Yirimot. Estos son los hijos de los levitas según las casas de sus padres.
+Y hijos de Mushí: Majlí y Éder y Yerimot; estos hijos de los levitas a casa de sus padres.
 
 ### 24:31
 
-También ellos echaban suerte, junto con sus hermanos, hijos de Aarón, ante David el rey, junto con Tsadoq y Ajimelec, y los jefes de las casas paternas, para los sacerdotes y los levitas, jefes de las casas paternas, junto con su hermano menor.
+Y echaron también ellos suertes frente a sus hermanos hijos de Aarón, delante de David el rey y Tsadoc y Ajimélec y cabezas de los padres a los sacerdotes y a los levitas: padres la cabeza frente a su hermano el menor.
 
 ## Capítulo 25
 
 ### 25:1
 
-David y los jefes del ejército designaron a los hijos de Asaf, Hemán y Yedutún, los profetas, para que tocaran arpas, gaitas y címbalos en el servicio. El número de los que realizaban el trabajo en el servicio era contado.
+Y separó David y los jefes del ejército al servicio a los hijos de Asaf y Hemán y Yedutún, con cítaras, con arpas y con címbalos; y fue su número hombres de obra para su servicio.
 
 ### 25:2
 
-Los hijos de Asaf: Zacur, Josafat, Netánías y Asarela, hijos de Asaf, el profeta que profetizaba a la mano del rey.
+A los hijos de Asaf: Zacur y Yosef y Netanyá y Asarela, hijos de Asaf, sobre mano de Asaf el que profetiza sobre manos del rey.
 
 ### 25:3
 
-Los hijos de Yedutún: Gedeleyah, Zeri, Jessajah, Hashabías, Mattatías, seis, a la mano de su padre Yedutún, con arpas, que profetizaban alabanzas y himnos a Yahvé.
+A Yedutún: hijos de Yedutún Gedalyáhu y Tserí y Yeshayáhu, Jashavyáhu y Matityáhu, seis, sobre manos de su padre Yedutún con la cítara, el que profetiza sobre dar gracias y alabar a Jehová.
 
 ### 25:4
 
-Los hijos de Hemán: Bukías, Matatías, Uzías, Selamías, Jerimot, Hananiah, Hanani, Eliatá, Gedelet, Yirmot, Hananías, Joshavías, Hanilías, Piltay, Hupnías, Hézquila, Aromot, Benaías. Todos estos eran de los hijos de Hemán, el profeta, el hijo de Joel, y designados para el servicio con su padre.
+A Hemán: hijos de Hemán Buqiyáhu, Matanyáhu, Uziel, Shevuel y Yerimot, Jananyá, Jananí, Eliatá, Gidaltí y Romamtí Ézer, Yoshbeqashá, Malotí, Hotir, Majaziot.
 
 ### 25:5
 
-Todos estos eran hijos de Hemán, el profeta, el vidente del rey, en palabras de Dios para los montes de Sión. Dios dio a Hemán catorce hijos y tres hijas.
+Todos estos hijos a Hemán, vidente del rey en palabras de Dios para alzar cuerno; y dio Dios a Hemán hijos catorce e hijas tres.
 
 ### 25:6
 
-Todos estos, junto con sus padres, sirvieron en el templo de Jehová, tocando címbalos, arpas y cítaras, para el servicio del templo, bajo el rey, Asaf, Yedutún y Hemán.
+Todos estos sobre manos de su padre en el canto de casa de Jehová, con címbalos, arpas y cítaras, para servicio de casa de Dios, sobre manos del rey, Asaf y Yedutún y Hemán.
 
 ### 25:7
 
-El número de ellos, junto con sus hermanos, que eran maestros de canción para Jehová, era de doscientos ochenta y ocho, todos entendidos.
+Y fue su número con sus hermanos, enseñados de canto a Jehová, todo el que entiende, doscientos ochenta y ocho.
 
 ### 25:8
 
-Lanzaron sortijas para el servicio, tanto para el más joven como para el más anciano, entre los entendidos y sus discípulos.
+Y echaron suertes de guardia, a la par, como el pequeño como el grande, el que entiende con el discípulo.
 
 ### 25:9
 
-El primer sorteo salió para Asaf, para Josafat. El segundo salió para Gedalyah, él y sus hermanos y sus hijos, doce en total.
+Y salió la suerte primera a Asaf, a Yosef; Gedalyáhu el segundo; él y sus hermanos y sus hijos doce.
 
 ### 25:10
 
-El tercer sorteo salió para Zacur, él y sus hijos y hermanos, doce en total.
+El tercero Zacur, sus hijos y sus hermanos doce.
 
 ### 25:11
 
-El cuarto salió para Yitsraí, sus hijos y hermanos, doce en total.
+El cuarto a Yitsrí, sus hijos y sus hermanos doce.
 
 ### 25:12
 
-El quinto salió para Netanías, sus hijos y hermanos, doce en total.
+El quinto Netanyáhu, sus hijos y sus hermanos doce.
 
 ### 25:13
 
-El sexto salió para Bukías, sus hijos y hermanos, doce en total.
+El sexto Buqiyáhu, sus hijos y sus hermanos doce.
 
 ### 25:14
 
-El séptimo salió para Yisraelá, sus hijos y hermanos, doce en total.
+El séptimo Yesarela, sus hijos y sus hermanos doce.
 
 ### 25:15
 
-El octavo salió para Yeshaías, sus hijos y hermanos, doce en total.
+El octavo Yeshayáhu, sus hijos y sus hermanos doce.
 
 ### 25:16
 
-El noveno salió para Matanías, sus hijos y hermanos, doce en total.
+El noveno Matanyáhu, sus hijos y sus hermanos doce.
 
 ### 25:17
 
-El décimo salió para Simí, sus hijos y hermanos, doce en total.
+El décimo Shimí, sus hijos y sus hermanos doce.
 
 ### 25:18
 
-El onceavo salió para Azarél, sus hijos y hermanos, doce en total.
+Once Azarel, sus hijos y sus hermanos doce.
 
 ### 25:19
 
-El doceavo salió para Hashabías, sus hijos y hermanos, doce en total.
+El duodécimo a Jashavyá, sus hijos y sus hermanos doce.
 
 ### 25:20
 
-El treceavo salió para Subael, sus hijos y hermanos, doce en total.
+Al decimotercero Shuvael, sus hijos y sus hermanos doce.
 
 ### 25:21
 
-El catorceavo salió para Matatías, sus hijos y hermanos, doce en total.
+Al decimocuarto Matityáhu, sus hijos y sus hermanos doce.
 
 ### 25:22
 
-El quinceavo salió para Jeremot, sus hijos y hermanos, doce en total.
+Al decimoquinto a Yeremot, sus hijos y sus hermanos doce.
 
 ### 25:23
 
-El decimosexto salió para Hananías, sus hijos y hermanos, doce en total.
+Al decimosexto a Jananyáhu, sus hijos y sus hermanos doce.
 
 ### 25:24
 
-El decimoséptimo salió para Jasbakejas, sus hijos y hermanos, doce en total.
+Al decimoséptimo a Yoshbeqashá, sus hijos y sus hermanos doce.
 
 ### 25:25
 
-El decimoctavo salió para Hanani, sus hijos y hermanos, doce en total.
+Al decimoctavo a Jananí, sus hijos y sus hermanos doce.
 
 ### 25:26
 
-El decimonoveno salió para Maloti, sus hijos y hermanos, doce en total.
+Al decimonoveno a Malotí, sus hijos y sus hermanos doce.
 
 ### 25:27
 
-El vigésimo salió para Eliata, sus hijos y hermanos, doce en total.
+Al vigésimo a Eliatá, sus hijos y sus hermanos doce.
 
 ### 25:28
 
-El vigésimo primero salió para Hotir, sus hijos y hermanos, doce en total.
+Al vigésimo primero a Hotir, sus hijos y sus hermanos doce.
 
 ### 25:29
 
-Para veintidós para Gidealti, sus hijos y hermanos, doce en total.
+Al vigésimo segundo a Gidaltí, sus hijos y sus hermanos doce.
 
 ### 25:30
 
-Para veintitrés para Mahazioth, sus hijos y hermanos, doce en total.
+Al vigésimo tercero a Majaziot, sus hijos y sus hermanos doce.
 
 ### 25:31
 
-Para veinticuatro para Romamti-Ezer, sus hijos y hermanos, doce en total.
+Al vigésimo cuarto a Romamtí Ézer, sus hijos y sus hermanos doce.
 
 ## Capítulo 26
 
 ### 26:1
 
-Para las divisiones de los porteros, para los Korajitas, Mesuel hijo de Kore, de los hijos de Asaf.
+A las divisiones a los porteros: a los qorajitas Meshelemyáhu hijo de Qoré, de hijos de Asaf.
 
 ### 26:2
 
-Y para Mesuel, hijos: Zacarías el primogénito, Jediael el segundo, Zabadías el tercero, Jatniel el cuarto.
+Y a Meshelemyáhu hijos: Zecaryáhu el primogénito, Yediael el segundo, Zevadyáhu el tercero, Yatniel el cuarto,
 
 ### 26:3
 
-El quinto, Aielam; el sexto, Jochanan; el séptimo, Elioenai.
+Elam el quinto, Yehojanán el sexto, Elyehoenai el séptimo.
 
 ### 26:4
 
-Y para Obéd Edom, hijos: Semajah el primogénito, Jozabad el segundo, Joaquín el tercero, Sacar el cuarto, Netanel el quinto.
+Y a Oved-Edom hijos: Shemayá el primogénito, Yehozavad el segundo, Yoaj el tercero, y Sacar el cuarto, y Netanel el quinto,
 
 ### 26:5
 
-Amiel el sexto, Isaschar el séptimo, Peultay el octavo, porque lo bendijo Dios.
+Amiel el sexto, Yisasjar el séptimo, Peulatái el octavo; porque lo bendijo Dios.
 
 ### 26:6
 
-Y para Semajah, hijo suyo, nacieron hijos que gobernaban en la casa de sus padres, porque eran valientes.
+Y a Shemayá su hijo nacieron hijos, los que dominan a casa de su padre; porque poderosos de fuerza ellos.
 
 ### 26:7
 
-Hijos de Semajah: Ateni, Refael, Obéd, Elzabad, sus hermanos, hombres valientes.
+Hijos de Shemayá: Otní y Refael y Oved, Elzavad, sus hermanos, hijos de fuerza, Elihú y Semakyáhu.
 
 ### 26:8
 
-Todos ellos, Obéd Edom y sus hijos y hermanos, eran hombres valientes, con fuerza para el trabajo; sesenta y dos para Obéd Edom.
+Todos estos de hijos de Oved-Edom, ellos y sus hijos y sus hermanos, hombre de fuerza en el poder para el servicio, sesenta y dos a Oved-Edom.
 
 ### 26:9
 
-Y para Meslemías, hijos y hermanos, hijos valientes, dieciocho.
+Y a Meshelemyáhu hijos y hermanos, hijos de fuerza, dieciocho.
 
 ### 26:10
 
-Y para Chosa, de los hijos de Merari, hijos valientes, Shimri el jefe, porque no era primogénito, y su padre lo hizo jefe.
+Y a Josá, de hijos de Merarí, hijos: Shimrí la cabeza —porque no había primogénito, y lo puso su padre por cabeza—,
 
 ### 26:11
 
-Chilquía el segundo, Tubiyah el tercero, Zaccur el cuarto, todos los hijos y hermanos de Chosa, trece en total.
+Jilqiyáhu el segundo, Tevalyáhu el tercero, Zecaryáhu el cuarto; todos hijos y hermanos a Josá trece.
 
 ### 26:12
 
-Estas eran las divisiones de los porteros, jefes de los hombres valientes, para las guardias, junto a sus hermanos, para servir en la casa de Jehová.
+A estos divisiones de los porteros, a cabezas de los varones, guardias a la par de sus hermanos, para ministrar en casa de Jehová.
 
 ### 26:13
 
-Y echaron suertes, como para el menor, como para el mayor, para las casas de sus padres, para la puerta y la puerta.
+Y echaron suertes, como el pequeño como el grande, a casa de sus padres, a puerta y puerta.
 
 ### 26:14
 
-Y cayó el sorteo del este para Shelomía, y para Zaccur, hijo suyo, un consejero, echaron suertes, y salió el sorteo de él al norte.
+Y cayó la suerte hacia oriente a Shelemyáhu; y a Zecaryáhu su hijo, consejero con inteligencia, echaron suertes, y salió su suerte hacia norte.
 
 ### 26:15
 
-Para Obéd Edom el sur, y para sus hijos, la casa de los almacenes.
+A Oved-Edom hacia sur, y a sus hijos casa de los acopios.
 
 ### 26:16
 
-Para Shupim y para Hosa al oeste, junto a la puerta de la desechada, en la escalera que sube, guardaban junto a la guardia.
+A Shupim y a Josá hacia el oeste, con puerta Shalechet en la calzada que sube; guardia a la par de guardia.
 
 ### 26:17
 
-Para Levíes al este seis, al norte al día cuatro, al sur al día cuatro, y para los que recogían dos y dos.
+Al oriente los levitas seis; al norte para el día cuatro; al sur para el día cuatro; y a los acopios dos dos.
 
 ### 26:18
 
-Para Parob al oeste cuatro, para la escalera dos, para Parob.
+Al parbar hacia el oeste cuatro a la calzada, dos al parbar.
 
 ### 26:19
 
-Estos son los sectores de las puertas para los hijos de Qorhí y para los hijos de Merari.
+Estas divisiones de los porteros a hijos del qorajita y a hijos de Merarí.
 
 ### 26:20
 
-Y los Levitas, Ahijá sobre los tesoros de la casa de Dios, y sobre los tesoros santos.
+Y los levitas: Ajíá sobre tesoros de casa de Dios y a tesoros de las santidades.
 
 ### 26:21
 
-Los hijos de Laadán, hijos de Gersón, para Laadán, jefes de padres para Laadán, Gersón, Yehielí.
+Hijos de Ladan, hijos del guershuní a Ladan, cabezas de los padres a Ladan el guershuní: Yejiëlí.
 
 ### 26:22
 
-Los hijos de Yehielí, Zetam y Joel, hermano suyo, sobre los tesoros de la casa de Jehová.
+Hijos de Yejiëlí: Zetam y Yoel su hermano, sobre tesoros de casa de Jehová.
 
 ### 26:23
 
-Para Amramí, Yitzhahrí, Chevroní, Azazílí.
+Al amramí, al yitsharí, al jevroní, al uzielí.
 
 ### 26:24
 
-Y Shubael, hijo de Gersón, hijo de Moisés, jefe sobre los tesoros.
+Y Shevuel hijo de Guershom hijo de Moisés, príncipe sobre los tesoros.
 
 ### 26:25
 
-Y sus hermanos a Eleazar, Rehaviah, hijo suyo, y Yeshayah, hijo suyo, y Yoram, hijo suyo, y Zichri, hijo suyo, y Shlomot, hijo suyo.
+Y sus hermanos a Eliezer: Rejavyáhu su hijo, y Yeshayáhu su hijo, y Yoram su hijo, y Zicrí su hijo, su hijo.
 
 ### 26:26
 
-Él es Shlomot y sus hermanos sobre todos los tesoros santos que David, el rey, consagró, y sobre los jefes de padres para los jefes de miles, y de cientos, y de los jefes del ejército.
+Él Shelomot y sus hermanos sobre todos tesoros de las santidades que santificó David el rey y cabezas de los padres a jefes de los miles y de las centenas y jefes del ejército.
 
 ### 26:27
 
-De la guerra y del botín consagraron para fortalecer la casa de Jehová.
+De las guerras y del botín santificaron para fortalecer a casa de Jehová.
 
 ### 26:28
 
-Y todo lo que consagró Saúl hijo de Qish, Abner hijo de Ner, Joab hijo de Zeruya, y todos los que consagraron sobre mano de Shlomot y sus hermanos.
+Y todo lo que santificó Shemuel el vidente, y Shaúl hijo de Qish, y Avner hijo de Ner, y Yoav hijo de Tseruyá; todo el que santifica, sobre mano de Shelomit y sus hermanos.
 
 ### 26:29
 
-Para los itzharitas, Kananiah y sus hijos, para el trabajo exterior sobre Israel, para los superintendentes y jueces.
+Al yitsharí: Kenanyáhu y sus hijos a la obra de afuera sobre Israel, a oficiales y a jueces.
 
 ### 26:30
 
-Para los hebrónitas, Hashabiah y sus hermanos, hombres de valor, mil setecientos, sobre el censo de Israel, al otro lado del Jordán, al occidente, para toda obra del Señor y para el servicio del rey.
+Al jevroní: Jashavyáhu y sus hermanos, hijos de fuerza, mil y setecientos, sobre la visita de Israel de allende al Yardén hacia oeste, a toda obra de Jehová y al servicio del rey.
 
 ### 26:31
 
-Para los hebrónitas, Jeri el jefe, para los hebrónitas, por sus familias, por sus padres, en el año cuarenta del reinado de David, fueron buscados y se encontraron entre ellos hombres de valor en Jazer de Galaad.
+Al jevroní Yeriyá la cabeza, al jevroní según sus generaciones a padres; en el año cuadragésimo del reinado de David fueron inquiridos, y se halló en ellos poderosos de fuerza en Yazer de Guilead.
 
 ### 26:32
 
-Y sus hermanos, hombres de valor, dos mil setecientos jefes de padres, y el rey David los asignó sobre el Reubenita, y sobre el Gadita, y sobre la mitad del tributo de Manasés, para toda palabra de Dios y para toda palabra del rey.
+Y sus hermanos, hijos de fuerza, dos mil y setecientos, cabezas de los padres; y los puso David el rey sobre el reubenita y el gadita y mitad de tribu del menashita, a toda palabra de Dios y palabra del rey.
 
 ## Capítulo 27
 
 ### 27:1
 
-Y los hijos de Israel por su número, jefes de padres, y jefes de miles, y de cientos, y los superintendentes de ellos, que servían al rey, para toda obra de las divisiones que entraban y salían cada mes, para todo mes del año, la división una veinte y cuatro mil.
+Y hijos de Israel según su número, cabezas de los padres y jefes de los miles y de las centenas y sus oficiales, los que ministran al rey a toda palabra de las divisiones, la que entra y la que sale, mes en mes, a todos meses del año; la división una veinte y cuatro mil.
 
 ### 27:2
 
-Sobre la primera división del primer mes, Ben Zabdiel juró, y sobre su división, veinticuatro mil.
+Sobre la división primera al mes primero: Yashoveam hijo de Zavdiel; y sobre su división veinte y cuatro mil.
 
 ### 27:3
 
-De los hijos de Peres, el jefe de todos los capitanes del ejército para el primer mes.
+De hijos de Pérez, la cabeza a todos jefes de los ejércitos al mes primero.
 
 ### 27:4
 
-Y sobre la división del segundo mes, mi hermano Dodai, y sobre su división, veinticuatro mil.
+Y sobre división del mes segundo: Dodai el ajojí, y su división, y Miqlot el príncipe; y sobre su división veinte y cuatro mil.
 
 ### 27:5
 
-El jefe del tercer ejército para el tercer mes, Benaia, hijo de Joiada, el sacerdote, jefe, y sobre su división, veinticuatro mil.
+Jefe del ejército el tercero al mes tercero: Benayáhu hijo de Yehoyadá el sacerdote, cabeza; y sobre su división veinte y cuatro mil.
 
 ### 27:6
 
-Él, Benaia, uno de los tres, y sobre los tres, Amizabad, su hijo.
+Él Benayáhu, poderoso de los treinta y sobre los treinta; y su división Amizavad su hijo.
 
 ### 27:7
 
-El cuarto para el cuarto mes, Asa el hermano de Joab, y Zabdiya, su hijo, después de él, y sobre su división, veinticuatro mil.
+El cuarto al mes cuarto: Asael hermano de Yoav, y Zevadyá su hijo después de él; y sobre su división veinte y cuatro mil.
 
 ### 27:8
 
-El quinto para el quinto mes, Shammua, el que se levanta, y sobre su división, veinticuatro mil.
+El quinto al mes quinto, el jefe: Shamhut el yizraj; y sobre su división veinte y cuatro mil.
 
 ### 27:9
 
-El sexto para el sexto mes, Ira, hijo de Ikkesh, el Tekoita, y sobre su división, veinticuatro mil.
+El sexto al mes sexto: Irá hijo de Iqesh el teqoíta; y sobre su división veinte y cuatro mil.
 
 ### 27:10
 
-El séptimo para el séptimo mes, Helcón, el Pelonita, de los hijos de Efraín, y sobre su división, veinticuatro mil.
+El séptimo al mes séptimo: Jélets el peloní, de hijos de Efráyim; y sobre su división veinte y cuatro mil.
 
 ### 27:11
 
-El octavo para el octavo mes, Sibbecai, el Husita, de Zaraj, y sobre su división, veinticuatro mil.
+El octavo al mes octavo: Sibecai el jushatí, al zarjí; y sobre su división veinte y cuatro mil.
 
 ### 27:12
 
-El noveno para el noveno mes, Abiezer, el Anathothita, de Benjamín, y sobre su división, veinticuatro mil.
+El noveno al mes noveno: Aviezer el anatotí; y sobre su división veinte y cuatro mil.
 
 ### 27:13
 
-El décimo para el décimo mes, Maharai, el Netofatita, de Zaraj, y sobre su división, veinticuatro mil.
+El décimo al mes décimo: Majrai el netofatí, al zarjí; y sobre su división veinte y cuatro mil.
 
 ### 27:14
 
-El duodécimo para el duodécimo mes, Benayah el perizita, de los hijos de Efraín, y sobre su división, veinticuatro mil.
+Once al undécimo el mes: Benayá el piratoní, de hijos de Efráyim; y sobre su división veinte y cuatro mil.
 
 ### 27:15
 
-El decimosexto para el decimosexto mes, Helyada el netofatita, para Atenai, y sobre su división, veinticuatro mil.
+El duodécimo al duodécimo el mes: Jeldai el netofatí, a Otníel; y sobre su división veinte y cuatro mil.
 
 ### 27:16
 
-Y para los hijos de Israel, para Rubén, el jefe, Elisézer hijo de Zicri; para Simeón, Semajah hijo de Maaca.
+Y sobre tribus de Israel: al reubenita, príncipe Eliezer hijo de Zicrí; al shimonita, Shefatyáhu hijo de Maacá.
 
 ### 27:17
 
-Para Leví, Jasavías hijo de Quemuel; para Aarón, Sadoc.
+A Leví, Jashavyá hijo de Quemuel; a Aarón, Tsadóq.
 
 ### 27:18
 
-Para Judá, Elihu, de los hermanos de David; para Isacar, Amri hijo de Micah.
+A Yehudá, Elihú de hermanos de David; a Yisasjar, Omri hijo de Mijael.
 
 ### 27:19
 
-Para Zabulón, Ismaías hijo de Obadias; para Neftalí, Jerimot hijo de Azriel.
+A Zevulún, Yishmayáhu hijo de Ovadyáhu; a Naftalí, Yerimot hijo de Azriel.
 
 ### 27:20
 
-Para los hijos de Efraín, Oseas hijo de Azazías; para la mitad del linaje de Manasés, Joel hijo de Pedaías.
+A hijos de Efráyim, Hoshea hijo de Azazyáhu; a mitad de tribu de Menashé, Yoel hijo de Pedayáhu.
 
 ### 27:21
 
-Para la mitad del linaje de Manasés en Galaad, Ido hijo de Zacarías; para Benjamín, Jaasael hijo de Abner.
+A mitad del Menashé Guileadá, Ido hijo de Zecaryáhu; a Binyamín, Yaasiel hijo de Avner.
 
 ### 27:22
 
-Para Dan, Azarías hijo de Jeroham. Estos eran los jefes de las tribus de Israel.
+A Dan, Azarel hijo de Yerojam. Estos jefes de tribus de Israel.
 
 ### 27:23
 
-Y David no contó a ninguno de ellos desde veinte años para abajo, porque Jehová había dicho: Multiplicaré a Israel como las estrellas del cielo.
+Y no tomó David su número de desde hijo de veinte año y hacia abajo; porque dijo Jehová multiplicar a Israel como estrellas de los cielos.
 
 ### 27:24
 
-Joab hijo de Zeruía comenzó a contar, pero no acabó. Y por esto hubo ira contra Israel, y el número no se registró en el libro de los días del rey David.
+Yoav hijo de Tseruyá comenzó a contar y no acabó; y fue en esto ira sobre Israel; y no subió el número en número de palabras de los días al rey David.
 
 ### 27:25
 
-Y sobre los tesoros del rey, Azmavet hijo de Adiël; y sobre los tesoros en el campo, en las ciudades, en los pueblos y en las torres, Jonatán hijo de Uzías.
+Y sobre tesoros del rey: Azmavet hijo de Adiel; y sobre los tesoros en el campo, en las ciudades y en las aldeas y en las torres: Yehonatán hijo de Uziyáhu.
 
 ### 27:26
 
-Y sobre los que trabajaban en el campo para el servicio de la tierra, Ezri hijo de Kelub.
+Y sobre hacedores de obra del campo para servicio de la tierra: Ezrí hijo de Queluv.
 
 ### 27:27
 
-Y sobre los viñedos, Semaja el Ramateo; y sobre los depósitos de vino, Zabdi el Shiphmite.
+Y sobre las viñas: Shimí el ramatí; y sobre lo que en las viñas a tesoros del vino: Zavdí el shifmí.
 
 ### 27:28
 
-Y sobre los olivos y los higueras en la llanura, Baal-Hanán el Gederita; y sobre los depósitos de aceite, Joas.
+Y sobre los olivos y los sicómoros que en la Shefelá: Baal-Janán el guederí; y sobre tesoros del aceite: Yoash.
 
 ### 27:29
 
-Y sobre los pastores de ganado en Sharon, Shitrai el Sharonita; y sobre el ganado en las llanuras, Shaphat hijo de Adael.
+Y sobre el ganado, los que pastorean en el Sharón: el sharoní; y sobre el ganado en los valles: Shafat hijo de Adlai.
 
 ### 27:30
 
-Y sobre los camellos, Obil el Ishmaelita; y sobre las mulas, Jehdiyah el Meronothite.
+Y sobre los camellos: Obil el yishmaelita; y sobre las asnas: Yejdeyáhu el meronotí.
 
 ### 27:31
 
-Y sobre el ganado, Jaziz el Hagarita. Todos estos eran los jefes de los bienes que tenían el rey David.
+Y sobre el ganado menor: Yaziz el hagrita. Todos estos jefes de la hacienda que al rey David.
 
 ### 27:32
 
-Y Jonatán, el pariente de David, era consejero; era un hombre inteligente y escriba. Y Ijaiel, hijo de Hachmoni, estaba con los hijos del rey.
+Y Yehonatán tío de David, consejero, hombre que entiende y escriba él; y Yejiël hijo de Jacmoní con hijos del rey.
 
 ### 27:33
 
-Y Ahitofel era consejero del rey, y Hushai el arquita era amigo del rey.
+Y Ajitofel consejero al rey; y Jushai el arquita, amigo del rey.
 
 ### 27:34
 
-Y después de Ahitofel, Yehoyada hijo de Benayahu, y Abiatar, y el capitán del ejército del rey Joab.
+Y después de Ajitofel: Yehoyadá hijo de Benayáhu y Eviatar; y jefe de ejército al rey: Yoav.
 
 ## Capítulo 28
 
 ### 28:1
 
-Entonces David reunió a todos los jefes de Israel, los jefes de los tribunos, los jefes de los que servían al rey, los jefes de los miles, los jefes de los cientos, los jefes de todo el tesoro y ganado del rey y de sus hijos, con los eunucos y los valientes, y a todos los valientes de fortaleza, a Jerusalén.
+Y reunió David a todos los jefes de Israel, jefes de las tribus y jefes de las divisiones que servían al rey, y jefes de los miles y jefes de los cientos, y jefes de toda hacienda y ganado del rey y de sus hijos, con los eunucos y los valientes y a todo valiente de fuerza, a Yerushaláyim.
 
 ### 28:2
 
-Y se levantó el rey David sobre sus pies y dijo: Escuchadme, hermanos y mi pueblo. Mi corazón está en construir un lugar de descanso para el arca de la alianza de Jehová y para los pies del trono de nuestro Dios, y para prepararla para construirla.
+Y se levantó David el rey sobre sus pies, y dijo: Óiganme, hermanos míos y pueblo mío; yo con mi corazón edificar casa de reposo para el arca del pacto de Jehová y para estrado de pies de nuestro Dios, y preparé para edificar.
 
 ### 28:3
 
-Y Dios me dijo: No construirás casa para mi nombre, porque eres un hombre de guerra y has derramado sangre.
+Y Dios me dijo: No edificarás casa a mi nombre, porque hombre de guerras eres tú, y sangres derramaste.
 
 ### 28:4
 
-Y Jehová, el Dios de Israel, me eligió de entre todos los de mi familia para ser rey sobre Israel para siempre, porque escogió a Judá para ser gobernante y a mi familia para ser rey, y entre los hijos de mi familia me eligió para ser rey sobre todo Israel.
+Y escogió Jehová Dios de Israel en mí de toda casa de mi padre para ser rey sobre Israel para siempre; porque en Yehudá escogió por príncipe, y en casa de Yehudá la casa de mi padre, y en hijos de mi padre en mí se complacía para hacerme rey sobre todo Israel.
 
 ### 28:5
 
-Y de entre todos mis hijos, porque me dio Jehová muchos hijos, escogió a Salomón, mi hijo, para que se siente en el trono de la realeza de Jehová sobre Israel.
+Y de todos mis hijos —porque muchos hijos me dio Jehová— escogió en Shelomó mi hijo para sentarse sobre el trono del reino de Jehová sobre Israel.
 
 ### 28:6
 
-Y me dijo: Tu hijo Salomón es quien construirá mi casa y mis atrios, porque yo lo escogí para ser hijo mío, y yo seré para él padre.
+Y me dijo: Shelomó tu hijo, él edificará mi casa y mis atrios; porque lo escogí a mí por hijo, y yo seré a él por padre.
 
 ### 28:7
 
-Y prepararé su reino para siempre, si se aferra a hacer mis mandamientos y mis juicios como hoy.
+Y afirmaré su reino hasta para siempre, si se fortalece para hacer mis mandamientos y mis juicios como este día.
 
 ### 28:8
 
-Y ahora, ante los ojos de todo Israel, la congregación de Jehová, y en la presencia de nuestro Dios, guarden y busquen todos los mandamientos de Jehová, su Dios, para que posean la tierra buena y la hereden a sus hijos después de ellos para siempre.
+Y ahora, a ojos de todo Israel, asamblea de Jehová, y en oídos de nuestro Dios: guarden e inquieran todos los mandamientos de Jehová su Dios, para que hereden la tierra buena y la hagan heredar a sus hijos después de ustedes hasta siempre.
 
 ### 28:9
 
-Y tú, Salomón, hijo mío, conoce a Dios, el Dios de tu padre, y sirvele de todo corazón y con toda voluntad, porque Jehová busca a todo corazón y a toda disposición de pensamiento, y si te buscan te hallarán, y si te abandonan te despreciarán para siempre.
+Y tú, Shelomó hijo mío, conoce al Dios de tu padre, y sírvele con corazón íntegro y con alma deseosa; porque todos los corazones inquiere Jehová, y toda forma de pensamientos entiende; si lo inquieres, será hallado para ti; y si lo abandonas, te desechará para siempre.
 
 ### 28:10
 
-Mira ahora que Jehová ha elegido a ti para que construyas un templo santo. Sé fuerte y hazlo.
+Mira ahora, porque Jehová te escogió para edificar casa para santuario; sé fuerte y haz.
 
 ### 28:11
 
-Entonces David dio a Salomón, su hijo, el diseño del pórtico, las casas, los almacenes, las escaleras, los aposentos internos y la casa del santuario.
+Y dio David a Shelomó su hijo el modelo del vestíbulo y de sus casas y de sus tesoros y de sus salas altas y de sus cámaras interiores y de la casa del propiciatorio;
 
 ### 28:12
 
-Y el diseño de todo lo que estaba en su espíritu para los patios del templo de Jehová, para todas las habitaciones alrededor, para los almacenes del templo de Dios y para los almacenes santos.
+y el modelo de todo lo que había en el espíritu con él, para los atrios de la casa de Jehová y para todas las cámaras alrededor, para tesoros de la casa de Dios y para tesoros de las santidades;
 
 ### 28:13
 
-Y para las divisiones de los sacerdotes y de los levitas, y para todo el trabajo de servicio en el templo de Jehová, y para todo el utensilio de servicio en el templo de Jehová.
+y para las divisiones de los sacerdotes y de los levitas, y para toda obra del servicio de la casa de Jehová, y para todos los utensilios del servicio de la casa de Jehová;
 
 ### 28:14
 
-Para el peso del oro para el oro, para todo utensilio de servicio y servicio, para todo utensilio de plata al peso, para todo utensilio de servicio y servicio.
+para el oro, por el peso, para el oro, para todos los utensilios de servicio y servicio; para todos los utensilios de plata por peso, para todos los utensilios de servicio y servicio;
 
 ### 28:15
 
-Y el peso para las lámparas de oro y sus luces de oro al peso de la lámpara y de la lámpara y sus luces, y para las lámparas de plata al peso para la lámpara y sus luces, como el servicio de la lámpara y de la lámpara.
+y peso para los candelabros de oro y sus lámparas, oro, por peso de candelabro y candelabro y sus lámparas; y para los candelabros de plata por peso, para candelabro y sus lámparas, según el servicio de candelabro y candelabro;
 
 ### 28:16
 
-Y el peso del oro para los tabernáculos de la mesa, para la mesa y la mesa, y la plata para los tabernáculos de la plata.
+y el oro, peso para las mesas de la disposición, para mesa y mesa; y plata para las mesas de la plata;
 
 ### 28:17
 
-Y las escudillas, las cacerolas y las tazas de oro puro, y para los censeros de oro al peso, para el censero y el censero, y para los censeros de plata al peso, para el censero y el censero.
+y los tenedores y los tazones y las jarras, oro puro; y para las copas de oro por peso, para copa y copa; y para las copas de plata por peso, para copa y copa;
 
 ### 28:18
 
-Y para el altar de la incienso, oro fino al peso, y para la forma de los carros de los querubines, oro para los que se extienden y los que cubren sobre el arca de la alianza de Yavé.
+y para el altar del incienso, oro refinado por peso; y para el modelo del carro, los querubines de oro que extendían y cubrían sobre el arca del pacto de Jehová.
 
 ### 28:19
 
-Todo está escrito por mano de Yavé para mí, todo el servicio de las construcciones.
+Todo en escritura de mano de Jehová sobre mí hizo entender todas las obras del modelo.
 
 ### 28:20
 
-Entonces David dijo a Salomón, su hijo: Sé fuerte y valiente, y haz, no temas ni te desanimes, porque Yavé, dios mío, está contigo. No te dejará ni te abandonará hasta que hayas terminado toda la obra del servicio de la casa de Yavé.
+Y dijo David a Shelomó su hijo: Sé fuerte y sé valiente, y haz; no temas y no te desalientes, porque Jehová Dios, mi Dios, está contigo; no te soltará y no te abandonará hasta acabar toda la obra del servicio de la casa de Jehová.
 
 ### 28:21
 
-Y he aquí que las divisiones de los sacerdotes y de los levitas para toda la obra del servicio de la casa de dios, y contigo en toda obra, para todo hombre sabio en toda obra, y los jefes y todo el pueblo para todas tus palabras.
+Y he aquí las divisiones de los sacerdotes y de los levitas para todo el servicio de la casa de Dios; y contigo en toda obra, para todo voluntario en sabiduría para todo servicio; y los jefes y todo el pueblo para todas tus palabras.
 
 ## Capítulo 29
 
 ### 29:1
 
-Entonces David, el rey, dijo a todo el pueblo: Mi hijo Salomón, un niño y un recién llegado, ha sido elegido por Dios. La obra es grande, porque no es para un hombre la casa, sino para Jehová, Dios.
+Y dijo David el rey a toda la asamblea: Shelomó mi hijo, uno, escogió en él Dios, muchacho y tierno; y la obra es grande, porque no para hombre es la fortaleza, sino para Jehová Dios.
 
 ### 29:2
 
-Y según toda mi fuerza he preparado para la casa de mi Dios el oro al peso del oro, la plata al peso de la plata, el bronce al peso del bronce, el hierro al peso del hierro, la madera al peso de la madera, piedras de ónice y piedras de colores, y piedras preciosas y piedras de jaspe en abundancia.
+Y conforme a toda mi fuerza preparé para la casa de mi Dios el oro para el oro, y la plata para la plata, y el bronce para el bronce, el hierro para el hierro, y las maderas para las maderas; piedras de shóham y engastes, piedras de antimonio y bordado, y toda piedra preciosa y piedras de mármol en abundancia.
 
 ### 29:3
 
-Y además, en el deseo de la casa de mi Dios, tengo un tesoro de oro y plata que he dado para la casa de mi Dios sobre y encima de todo lo que he preparado para la casa santísima.
+Y aún, en mi complacencia en la casa de mi Dios, hay para mí tesoro propio de oro y plata; di a la casa de mi Dios por encima de todo lo que preparé para la casa de la santidad:
 
 ### 29:4
 
-Tres mil talentos de oro de Ophir y siete mil talentos de plata, plata fina, para los techos de las casas.
+tres mil talentos de oro de oro de Ofir, y siete mil talentos de plata refinada para revestir las paredes de las casas;
 
 ### 29:5
 
-Para el oro, oro; para la plata, plata; y para toda obra hecha por manos hábiles, y quien quiera que ofrezca voluntariamente su mano para hacerlo, hágalo hoy para Jehová.
+para el oro para el oro, y para la plata para la plata, y para toda obra por mano de artífices; ¿y quién se ofrece voluntariamente para llenar su mano hoy a Jehová?
 
 ### 29:6
 
-Entonces se ofrecieron voluntariamente los jefes de las familias, los jefes de las tribus de Israel, los jefes de los mil y los jefes de los cien, y los jefes de la obra del rey.
+Y se ofrecieron voluntariamente los jefes de los padres y los jefes de las tribus de Israel y los jefes de los miles y de los cientos, y para los jefes de la obra del rey.
 
 ### 29:7
 
-Entonces ofrecieron para el servicio de la casa de Dios cinco mil talentos de oro, diez mil de plata, y para toda obra hecha por manos hábiles, diez mil de bronce, ochenta talentos de hierro y cien mil de cobre.
+Y dieron para el servicio de la casa de Dios oro talentos cinco mil y dáricos diez mil, y plata talentos diez mil, y bronce diez mil y ocho mil talentos, e hierro cien mil talentos.
 
 ### 29:8
 
-Y los que tenían piedras las dieron para el tesoro de la casa del Señor, a cargo de Iahiel, gersonita.
+Y el que se hallaba con él piedras, las dieron al tesoro de la casa de Jehová, por mano de Yejiël el guershuní.
 
 ### 29:9
 
-Y el pueblo se alegró por sus ofrendas, porque dieron de corazón; y también el rey David se alegró con gran alegría.
+Y se alegró el pueblo sobre su ofrecimiento voluntario, porque con corazón íntegro se ofrecieron voluntariamente a Jehová; y también David el rey se alegró con alegría grande.
 
 ### 29:10
 
-Entonces bendijo David al Señor en presencia de toda la congregación, y dijo David: Bendito seas tú, Señor, Dios de Israel, nuestro padre, desde la eternidad hasta la eternidad.
+Y bendijo David a Jehová a ojos de toda la asamblea; y dijo David: Bendito eres tú, Jehová Dios de Israel nuestro padre, desde siempre y hasta siempre.
 
 ### 29:11
 
-Tuya, Señor, es la grandeza y el poder y la gloria y la victoria y la majestad, porque todo en el cielo y en la tierra es tuyo; tuya es la realeza, y sobre todo eres tú quien te exalzas.
+Tuya, Jehová, es la grandeza y el poder y la hermosura y la victoria y la majestad; porque todo en los cielos y en la tierra; tuya, Jehová, es el reino, y el que se ensalza por sobre todo por cabeza.
 
 ### 29:12
 
-Y la abundancia y el esplendor delante de ti, y tú dominas sobre todo, y en tu mano está la fuerza y el poder, y en tu mano para engrandecer y para fortalecer a todos.
+Y la riqueza y la gloria de delante de ti, y tú dominas en todo; y en tu mano fuerza y poder; y en tu mano para engrandecer y para fortalecer a todos.
 
 ### 29:13
 
-Y ahora, oh Dios nuestro, te damos gracias y alabamos tu gloria.
+Y ahora, Dios nuestro, te damos gracias, y alabamos al nombre de tu hermosura.
 
 ### 29:14
 
-¿Y quién somos nosotros y nuestro pueblo para poder ofrecer voluntariamente lo que ofrecemos, ya que todo es tuyo y de tu mano que nos has dado?
+Y porque ¿quién soy yo, y quién es mi pueblo, que retenemos fuerza para ofrecernos voluntariamente así? Porque de ti es todo, y de tu mano dimos a ti.
 
 ### 29:15
 
-Porque somos extranjeros delante de ti y huéspedes como nuestros padres, como sombra de nuestros días sobre la tierra, y no hay esperanza.
+Porque forasteros somos delante de ti y residentes como todos nuestros padres; como sombra nuestros días sobre la tierra, y no hay esperanza.
 
 ### 29:16
 
-Señor, Dios nuestro, todo este gran montón que hemos preparado para construir un templo en tu nombre, es tuyo y todo es tuyo.
+Jehová Dios nuestro, toda esta muchedumbre que preparamos para edificar a ti casa al nombre de tu santidad, de tu mano es, y tuya es toda.
 
 ### 29:17
 
-Y yo sé, oh Dios, que tú pruebas el corazón y te complaces en la rectitud. Con rectitud de corazón he ofrecido todo esto, y ahora tu pueblo que está aquí se alegra de ofrecer voluntariamente.
+Y sé, Dios mío, que tú pruebas corazón, y rectitudes te complacen; yo en rectitud de mi corazón me ofrecí voluntariamente todas estas cosas; y ahora tu pueblo que se hallan aquí, vi con alegría ofrecerse voluntariamente a ti.
 
 ### 29:18
 
-Señor, Dios de Abraham, Isaac y Jacob, padres nuestros, guarda esto para siempre, para que no se aparten de ti el corazón de tu pueblo, y prepara su corazón hacia ti.
+Jehová Dios de Abraham, Yitsjaq e Israel nuestros padres, guarda esto para siempre a la forma de pensamientos del corazón de tu pueblo, y dirige su corazón a ti.
 
 ### 29:19
 
-Y dan, oh Señor, un corazón perfecto a Salomón, tu hijo, para guardar tus mandamientos, tus testimonios y tus estatutos, y para hacer todo y para construir la ciudad que he preparado.
+Y a Shelomó mi hijo da corazón íntegro para guardar tus mandamientos, tus testimonios y tus estatutos, y para hacer el todo, y para edificar la fortaleza que preparé.
 
 ### 29:20
 
-Entonces David dijo a toda la asamblea: Bendigan ahora al Señor a vuestro Dios. Y toda la asamblea bendijo al Señor, el Dios de sus padres, y se postraron y se inclinaron ante el Señor y ante el rey.
+Y dijo David a toda la asamblea: Bendigan ahora a Jehová su Dios; y bendijeron toda la asamblea a Jehová Dios de sus padres, e inclinaron y se postraron a Jehová y al rey.
 
 ### 29:21
 
-Y sacrificaron a Jehová sacrificios de comunión y ofrecieron holocaustos a Jehová, el día siguiente, mil bueyes, mil carneros y mil corderos, con sus libaciones, y sacrificios en gran número para todo Israel.
+Y sacrificaron a Jehová sacrificios, y ofrecieron holocaustos a Jehová al día siguiente de aquel día: toros mil, carneros mil, corderos mil, y sus libaciones, y sacrificios en abundancia para todo Israel.
 
 ### 29:22
 
-Y comieron y bebieron delante de Jehová con gran alegría aquel día, y coronaron a Salomón hijo de David rey por segunda vez, y ungieron a Jehová como príncipe y a Zadoque como sacerdote.
+Y comieron y bebieron delante de Jehová en aquel día con alegría grande; e hicieron rey segunda vez a Shelomó hijo de David, y lo ungieron a Jehová por príncipe, y a Tsadoc por sacerdote.
 
 ### 29:23
 
-Y Salomón se sentó en el trono de Jehová como rey, en lugar de David su padre, y prosperó, y todo Israel le obedeció.
+Y se sentó Shelomó sobre el trono de Jehová por rey en lugar de David su padre, y prosperó; y le oyeron todo Israel.
 
 ### 29:24
 
-Y todos los príncipes y los valientes, y también todos los hijos del rey David, pusieron la mano bajo Salomón, el rey.
+Y todos los jefes y los valientes, y también todos los hijos del rey David, dieron mano debajo de Shelomó el rey.
 
 ### 29:25
 
-Y Jehová engrandeció a Salomón delante de todo Israel, y puso sobre él el honor de su reino, honor que no había sido sobre ningún rey de Israel antes de él.
+Y engrandeció Jehová a Shelomó en alto a ojos de todo Israel, y puso sobre él majestad de realeza que no había habido sobre todo rey delante de él sobre Israel.
 
 ### 29:26
 
-David, hijo de Isaí, fue rey de todo Israel.
+Y David hijo de Yishai reinó sobre todo Israel.
 
 ### 29:27
 
-Y los días que David fue rey de Israel fueron cuarenta años. En Hebrón reinó siete años, y en Jerusalén reinó treinta y tres años.
+Y los días que reinó sobre Israel cuarenta años; en Hevrón reinó siete años, y en Yerushaláyim reinó treinta y tres.
 
 ### 29:28
 
-Y murió en buena vejez, lleno de días y riquezas y gloria, y Salomón su hijo reinó en su lugar.
+Y murió en vejez buena, saciado de días, riqueza y gloria; y reinó Shelomó su hijo en lugar de él.
 
 ### 29:29
 
-Y las palabras del rey David, desde el principio hasta el final, están escritas en los libros de Samuel el vidente, y en los libros de Natán el profeta, y en los libros de Gad el vidente.
+Y los hechos de David el rey, los primeros y los últimos, he aquí escritos sobre los hechos de Shemuel el vidente, y sobre los hechos de Natán el profeta, y sobre los hechos de Gad el vidente,
 
 ### 29:30
 
-Con todo su reinado y su fuerza, y los tiempos que pasaron sobre él y sobre Israel, y sobre todas las naciones.
+con todo su reino y su poder, y los tiempos que pasaron sobre él y sobre Israel y sobre todos los reinos de las tierras.

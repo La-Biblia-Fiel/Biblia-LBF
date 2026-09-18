@@ -35,16 +35,82 @@ def local_name(tag: str) -> str:
     return tag.rsplit("}", 1)[-1]
 
 
+def _kjv_ref_from_note(note_text: str, osis: str) -> tuple[int, int] | None:
+    match = re.search(rf"\bKJV:{re.escape(osis)}\.(\d+)\.(\d+)\b", note_text)
+    if not match:
+        return None
+    return int(match.group(1)), int(match.group(2))
+
+
 def protestant_ref(verse: ET.Element, osis: str, oshb_ch: int, oshb_vs: int) -> tuple[int, int]:
     """Use an explicit KJV note when OSHB supplies one. Never print MT labels."""
     for child in list(verse):
         if local_name(child.tag) != "note":
             continue
-        note_text = "".join(child.itertext()).strip()
-        match = re.search(rf"\bKJV:{re.escape(osis)}\.(\d+)\.(\d+)\b", note_text)
-        if match:
-            return int(match.group(1)), int(match.group(2))
+        ref = _kjv_ref_from_note("".join(child.itertext()).strip(), osis)
+        if ref:
+            return ref
     return oshb_ch, oshb_vs
+
+
+def protestant_segments(
+    verse: ET.Element, osis: str, oshb_ch: int, oshb_vs: int
+) -> list[tuple[int, int, list[ET.Element]]]:
+    """Protestant (ch, vs) spans inside one OSHB verse, with their word nodes.
+
+    OSHB may put several KJV notes in one verse (e.g. Ps 13:6 → KJV 13:5 then 13:6).
+    Words after each note belong to that Protestant verse until the next KJV note.
+    Words before the first note stay with that note if it names the same chapter
+    (Ps 14:1 title+body); if it names another chapter they keep this OSHB label
+    (Isa 63:19 before KJV:Isa.64.1). Verses with no KJV note keep OSHB numbering.
+    """
+    children = list(verse)
+    has_kjv = False
+    for child in children:
+        if local_name(child.tag) != "note":
+            continue
+        if _kjv_ref_from_note("".join(child.itertext()).strip(), osis):
+            has_kjv = True
+            break
+    if not has_kjv:
+        return [(oshb_ch, oshb_vs, direct_words(verse))]
+
+    segments: list[tuple[int, int, list[ET.Element]]] = []
+    current: tuple[int, int] | None = None
+    words: list[ET.Element] = []
+    pending_before: list[ET.Element] = []
+    for child in children:
+        name = local_name(child.tag)
+        if name == "note":
+            ref = _kjv_ref_from_note("".join(child.itertext()).strip(), osis)
+            if ref is None:
+                continue
+            if current is not None:
+                segments.append((current[0], current[1], words))
+                words = []
+            current = ref
+            # Words before the first KJV note:
+            # same chapter → that Protestant verse (Ps 14:1 title+body);
+            # other chapter → this OSHB verse's own Protestant label (Isa 63:19
+            # before KJV:Isa.64.1).
+            if pending_before:
+                if ref[0] == oshb_ch:
+                    words = pending_before + words
+                else:
+                    segments.append((oshb_ch, oshb_vs, pending_before))
+                pending_before = []
+            continue
+        if name != "w" or child.get("type") == "x-ketiv":
+            continue
+        if current is None:
+            pending_before.append(child)
+            continue
+        words.append(child)
+    if current is not None:
+        segments.append((current[0], current[1], words))
+    elif pending_before:
+        segments.append((oshb_ch, oshb_vs, pending_before))
+    return segments
 
 
 def direct_words(verse: ET.Element) -> list[ET.Element]:
@@ -56,7 +122,6 @@ def direct_words(verse: ET.Element) -> list[ET.Element]:
             continue
         words.append(child)
     return words
-
 
 def surface(word: ET.Element) -> str:
     return "".join(word.itertext()).strip().replace("/", "")
@@ -77,12 +142,32 @@ def packet_path(book: Book, chapter: int, verse: int) -> Path:
     )
 
 
-def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
+def ot_chapter_protestant_map(
+    book: Book, chapter: int
+) -> dict[int, tuple[list[ET.Element], list[str]]]:
+    """Map Protestant verse → (word nodes, OSHB OSIS parts) for one chapter.
+
+    Scan the whole OSHB book. A KJV note wins; a verse with no note keeps its
+    OSHB chapter.verse as the Protestant label. Psalm titles (OSHB v1, no note)
+    therefore merge with the following KJV:Book.N.1 body into Protestant v1.
+    Cross-chapter offsets (Eccl 4:17 = Protestant 5:1; Joel 3 = Protestant 2:28)
+    are collected when their KJV note names this chapter. Never print MT labels.
+    """
     if not book.xml_path.is_file():
         raise FileNotFoundError(f"OSHB XML missing: {book.xml_path}")
     tree = ET.parse(book.xml_path)
-    target = None
-    oshb_ch = oshb_vs = None
+    out: dict[int, tuple[list[ET.Element], list[str]]] = {}
+
+    def append_verse(pvs: int, words: list[ET.Element], osis_parts: list[str]) -> None:
+        if not words:
+            return
+        if pvs not in out:
+            out[pvs] = ([], [])
+        out[pvs][0].extend(words)
+        for part in osis_parts:
+            if part not in out[pvs][1]:
+                out[pvs][1].append(part)
+
     for element in tree.getroot().iter():
         if local_name(element.tag) != "verse":
             continue
@@ -91,16 +176,24 @@ def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
         if not match:
             continue
         src_ch, src_vs = int(match.group(1)), int(match.group(2))
-        pch, pvs = protestant_ref(element, book.osis, src_ch, src_vs)
-        if pch == chapter and pvs == verse:
-            target = element
-            oshb_ch, oshb_vs = src_ch, src_vs
-            break
-    if target is None:
+        osis_part = f"{book.osis}.{src_ch}.{src_vs}"
+        for pch, pvs, words in protestant_segments(
+            element, book.osis, src_ch, src_vs
+        ):
+            if pch != chapter:
+                continue
+            append_verse(pvs, words, [osis_part])
+    return out
+
+
+def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
+    chapter_map = ot_chapter_protestant_map(book, chapter)
+    if verse not in chapter_map or not chapter_map[verse][0]:
         raise KeyError(f"{book.slug} {chapter}:{verse} not in {book.xml_path.name}")
+    word_nodes, oshb_osis_parts = chapter_map[verse]
 
     tokens = []
-    for position, word in enumerate(direct_words(target), start=1):
+    for position, word in enumerate(word_nodes, start=1):
         lemma = word.get("lemma") or ""
         morph = word.get("morph") or ""
         strongs = strongs_from_lemma(lemma)
@@ -130,7 +223,7 @@ def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
         "reference": f"{book.label} {chapter}:{verse}",
         "chapter": chapter,
         "verse": verse,
-        "oshbOsis": f"{book.osis}.{oshb_ch}.{oshb_vs}",
+        "oshbOsis": "+".join(oshb_osis_parts),
         "allowedSources": ["OSHB/WLC", "paleo-hebrew", "AHRC-nonbinding"],
         "forbiddenSources": [
             "memory",
@@ -141,7 +234,6 @@ def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
         ],
         "tokens": tokens,
     }
-
 
 def beta_to_unicode(beta: str) -> str:
     out: list[str] = []
@@ -257,25 +349,11 @@ def build_nt_packet(book: Book, chapter: int, verse: int) -> dict:
 
 
 def list_ot_verses(book: Book, chapter: int) -> list[int]:
-    if not book.xml_path.is_file():
-        raise FileNotFoundError(f"OSHB XML missing: {book.xml_path}")
-    verses: set[int] = set()
-    tree = ET.parse(book.xml_path)
-    for element in tree.getroot().iter():
-        if local_name(element.tag) != "verse":
-            continue
-        osis_id = str(element.get("osisID") or "")
-        match = re.fullmatch(rf"{re.escape(book.osis)}\.(\d+)\.(\d+)", osis_id)
-        if not match:
-            continue
-        src_ch, src_vs = int(match.group(1)), int(match.group(2))
-        pch, pvs = protestant_ref(element, book.osis, src_ch, src_vs)
-        if pch == chapter:
-            verses.add(pvs)
+    chapter_map = ot_chapter_protestant_map(book, chapter)
+    verses = sorted(v for v, (words, _) in chapter_map.items() if words)
     if not verses:
         raise KeyError(f"{book.slug} chapter {chapter} not in {book.xml_path.name}")
-    return sorted(verses)
-
+    return verses
 
 def list_nt_verses(book: Book, chapter: int) -> list[int]:
     if not book.utr_path.is_file():

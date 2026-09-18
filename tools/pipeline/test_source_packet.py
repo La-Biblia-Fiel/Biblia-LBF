@@ -120,6 +120,48 @@ class SourcePacketTests(unittest.TestCase):
         from source_packet import list_verses
         self.assertEqual(list_verses("exodo", 1), list(range(1, 23)))
 
+    def test_eclesiastes_cross_chapter_kjv_offset(self) -> None:
+        from source_packet import list_verses
+        self.assertEqual(list_verses("eclesiastes", 4), list(range(1, 17)))
+        self.assertEqual(list_verses("eclesiastes", 5), list(range(1, 21)))
+        packet = build_packet("eclesiastes", 5, 1)
+        self.assertEqual(packet["oshbOsis"], "Eccl.4.17")
+        self.assertEqual(packet["tokens"][0]["strongs"], "H8104")
+
+    def test_salmos_title_merges_into_protestant_v1(self) -> None:
+        from source_packet import list_verses
+        self.assertEqual(list_verses("salmos", 3)[0], 1)
+        packet = build_packet("salmos", 3, 1)
+        self.assertIn("Ps.3.1", packet["oshbOsis"])
+        self.assertIn("Ps.3.2", packet["oshbOsis"])
+
+    def test_joel_hebrew_chapter_offset_is_protestant(self) -> None:
+        from source_packet import list_verses
+        self.assertEqual(list_verses("joel", 2), list(range(1, 33)))
+        self.assertEqual(list_verses("joel", 3), list(range(1, 22)))
+
+    def test_isaias_63_19_not_swallowed_by_64_1(self) -> None:
+        from source_packet import list_verses
+        self.assertEqual(list_verses("isaias", 63), list(range(1, 20)))
+        self.assertEqual(list_verses("isaias", 64), list(range(1, 13)))
+        v19 = build_packet("isaias", 63, 19)
+        v64 = build_packet("isaias", 64, 1)
+        self.assertEqual(v19["oshbOsis"], "Isa.63.19")
+        self.assertEqual(v64["oshbOsis"], "Isa.63.19")
+        self.assertEqual(v19["tokens"][0]["strongs"], "H1961")
+        self.assertEqual(v64["tokens"][0]["strongs"], "H3863")
+
+    def test_isaias_9_starts_at_hebrew_8_23(self) -> None:
+        from source_packet import list_verses
+        self.assertEqual(list_verses("isaias", 9), list(range(1, 22)))
+        packet = build_packet("isaias", 9, 1)
+        self.assertEqual(packet["oshbOsis"], "Isa.8.23")
+
+    def test_salmos_14_title_stays_in_v1(self) -> None:
+        packet = build_packet("salmos", 14, 1)
+        self.assertIn("Ps.14.1", packet["oshbOsis"])
+        self.assertEqual(packet["tokens"][0]["strongs"], "H5329")
+
     def test_titus_1_lists_tr_verses(self) -> None:
         from source_packet import list_verses
         verses = list_verses("titus", 1)

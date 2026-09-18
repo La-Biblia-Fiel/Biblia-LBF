@@ -1,692 +1,692 @@
 # Ester
 
-> La Biblia Fiel — Ester. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> La Biblia Fiel — Ester. Segunda pasada contra OSHB / WLC (voz Génesis), pulida. Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
 
 ### 1:1
 
-En los días de Acashverosh, este Acashverosh, que gobernaba desde la India hasta Kush, ciento veinte provincias
+Y fue en días de Ajashverosh; él Ajashverosh el que reinaba desde Hodú y hasta Kush, siete y veinte y cien provincias.
 
 ### 1:2
 
-En aquellos días, cuando el rey Acashverosh estaba sentado en el trono de su reino, en Shushan la capital
+En los días aquellos, como sentarse el rey Ajashverosh sobre trono de su reino, que en Shushán la fortaleza.
 
 ### 1:3
 
-En el tercer año de su reinado, el rey Acashverosh dio un banquete para todos sus príncipes y servidores, para los jefes de Persia y Media, los gobernadores de las provincias, en su presencia
+En año tres a su reinar, hizo banquete a todos sus príncipes y sus siervos; fuerza de Páras y Madai, los partemím y príncipes de las provincias, delante de él.
 
 ### 1:4
 
-Para mostrar la riqueza de la gloria de su reino y la majestuosidad de su grandeza, durante muchos días, ciento ochenta días
+En su mostrar la riqueza de gloria de su reino y el honor de esplendor de su grandeza, días muchos, ochenta y cien día.
 
 ### 1:5
 
-Cuando se cumplieron estos días, el rey dio un banquete para todos los pueblos que estaban en Shushan la capital, tanto para los grandes como para los pequeños, durante siete días, en el patio de la jardinería del palacio del rey
+Y al cumplirse estos días, hizo el rey a todo el pueblo hallados en Shushán la fortaleza, desde grande y hasta pequeño, banquete de siete días, en el patio del jardín del palacio del rey.
 
 ### 1:6
 
-Tapices de lino y de púrpura, de lino fino y de escarlata, hechos de lino fino y de lana, sobre andamios de plata, sobre columnas de mármol, tronos de oro y plata sobre pavimento de piedra de Onix y de mármol, de piedra de Onix y de jaspe, y de piedra de Sardis, de piedra de Sardis y de carbunclo
+Lienzo blanco, algodón y azul, asido en cuerdas de lino fino y púrpura, sobre cilindros de plata y columnas de mármol; lechos de oro y plata sobre pavimento de alabastro y mármol y nácar y piedra negra.
 
 ### 1:7
 
-Y la bebida era servida en vasos de oro, y cada vaso era diferente, y la bebida era como el rey dispuso
+Y el dar de beber en vasos de oro, y vasos distintos de vasos; y vino de reino abundante según mano del rey.
 
 ### 1:8
 
-Y la bebida era según la ley, no había obligación, porque el rey había dado orden a todos los servidores de su casa para que hicieran según el deseo de cada uno
+Y el beber según ley, no hay forzador; porque así fundó el rey sobre todo gran oficial de su casa, para hacer según voluntad de hombre y hombre.
 
 ### 1:9
 
-También la reina Vashati dio un banquete para las mujeres en el palacio del rey Acashverosh
+También Vashtí la reina hizo banquete de mujeres en casa del reino que al rey Ajashverosh.
 
 ### 1:10
 
-En el séptimo día, cuando el rey estaba alegre con el vino, ordenó a Mehumán, Bizta, Carvano, Bigta, Abagta, Zetar y Carcas, los siete eunucos que servían a la cara del rey Acashverosh
+En el día séptimo, como bueno corazón del rey en el vino, dijo a Mehúmán, Bizta, Jarboná, Bigtá y Avagta, Zetar y Carcas, siete los eunucos que ministran la faz del rey Ajashverosh,
 
 ### 1:11
 
-Para que trajeran a la reina Vashati ante el rey con la corona real, para que los pueblos y los príncipes la vieran, porque era hermosa de vista
+para traer a Vashtí la reina delante del rey con corona de reino, para mostrar a los pueblos y a los príncipes su hermosura, porque buena de vista ella.
 
 ### 1:12
 
-Y la reina Vashati se negó a venir al rey según la orden del rey dada por medio de los eunucos. Entonces el rey se enojó mucho y su ira se encendió en él
+Y rehusó la reina Vashtí venir en palabra del rey que por mano de los eunucos; y se enfureció el rey mucho, y su furor ardió en él.
 
 ### 1:13
 
-El rey dijo a los sabios que conocían el tiempo: ‘Según la ley del rey, ante todos los que conocen la ley y el juicio’
+Y dijo el rey a los sabios conocedores de los tiempos —porque así palabra del rey delante de todos conocedores de ley y juicio—
 
 ### 1:14
 
-Y se acercaron a él: Carshena, Shethar, Admatha, Tarshish, Meres, Marsena y Memucan, los siete consejeros del rey, los que veían la cara del rey y ocupaban el primer lugar en el reino
+y el cercano a él: Carshena, Shetar, Admata, Tarshish, Méres, Marsena, Memucán, siete príncipes de Páras y Madai, videntes de la faz del rey, los que se sientan primero en el reino:
 
 ### 1:15
 
-Según la ley, ¿qué se debe hacer con la reina Vashti, por no haber cumplido la orden del rey Ahasuero, dada por medio de los eunucos?
+Según ley, ¿qué hacer con la reina Vashtí, sobre que no hizo el dicho del rey Ajashverosh por mano de los eunucos?
 
 ### 1:16
 
-Entonces Memucan dijo ante el rey y los consejeros: ‘No es sólo contra el rey que ha pecado la reina Vashti, sino contra todos los consejeros y contra todo el pueblo que está en todas las provincias del rey Ahasuero’
+Y dijo delante del rey y de los príncipes Memucán: No sobre el rey solo delinquió Vashtí la reina, sino sobre todos los príncipes y sobre todos los pueblos que en todas provincias del rey Ajashverosh.
 
 ### 1:17
 
-Porque la palabra de la reina saldrá a todas las mujeres para que menosprecien a sus maridos en sus ojos, diciendo: ‘El rey Ahasuero mandó traer a la reina Vashti ante él, y no vino’
+Porque saldrá palabra de la reina sobre todas las mujeres, para despreciar a sus maridos en sus ojos, al decir ellas: El rey Ajashverosh dijo traer a Vashtí la reina delante de él, y no vino.
 
 ### 1:18
 
-Y en este día las mujeres de Persia y Media que han oído la palabra de la reina, dirán a todos los consejeros del rey, cada uno según su lengua, en desprecio y en ira
+Y este día dirán princesas de Páras y Madai, que oyeron la palabra de la reina, a todos príncipes del rey; y según bastante desprecio y furor.
 
 ### 1:19
 
-Si al rey le parece bien, que salga un decreto del rey y sea escrito según la ley de Persia y Media, que no se puede revocar, que no entre Vashti ante el rey Ahasuero, y que dé el rey su reino a otra que sea mejor que ella
+Si sobre el rey bueno, salga palabra de reino de delante de él, y se escriba en leyes de Páras y Madai, y no pase, que no venga Vashtí delante del rey Ajashverosh, y su reino dé el rey a su compañera la mejor que ella.
 
 ### 1:20
 
-Y se oirá el decreto del rey que hará en todo su reino, porque es grande, y todas las mujeres darán honra a sus maridos, desde el mayor hasta el menor
+Y se oirá el edicto del rey que hará en todo su reino —porque grande él— y todas las mujeres darán honor a sus maridos, desde grande y hasta pequeño.
 
 ### 1:21
 
-Y el decreto agradó al rey y a los consejeros, y el rey hizo según la palabra de Memucan
+Y fue bueno el asunto en ojos del rey y de los príncipes; y hizo el rey según palabra de Memucán.
 
 ### 1:22
 
-Y envió cartas a todas las provincias del rey, a cada provincia según su escritura, y a cada pueblo según su lengua, que cada hombre fuera señor en su casa y hablara la lengua de su pueblo
+Y envió cartas a todas provincias del rey, a provincia y provincia según su escritura, y a pueblo y pueblo según su lengua, para ser todo hombre soberano en su casa, y hablando según lengua de su pueblo.
 
 ## Capítulo 2
 
 ### 2:1
 
-Después de estas cosas, cuando se aplacó la ira del rey Ahasuero, se acordó del rey de Vashti y de lo que había hecho, y de lo que se había determinado contra ella
+Después de estas palabras, al calmarse el furor del rey Ajashverosh, recordó a Vashtí y lo que ella hizo y lo que fue decretado sobre ella.
 
 ### 2:2
 
-Y dijeron los jóvenes del rey, que servían a él: ‘Que se busquen jóvenes vírgenes buenas de aspecto para el rey’
+Y dijeron mozos del rey, sus ministros: Busquen para el rey mozas vírgenes buenas de vista.
 
 ### 2:3
 
-Y el rey ordenó a los funcionarios de toda su provincia que buscaran a todas las doncellas vírgenes y bellas para llevarlas a la ciudad de Susa, a la casa de las mujeres, a la mano de Hegai, el eunuco que cuidaba de las mujeres, y les diera ungüentos.
+Y ponga el rey oficiales en todas provincias de su reino, y reúnan a toda moza virgen buena de vista a Shushán la fortaleza, a casa de las mujeres, a mano de Hegai eunuco del rey, guarda de las mujeres; y den sus ungüentos.
 
 ### 2:4
 
-La doncella que agradara al rey se convertiría en reina en lugar de Vashti. El rey encontró buena la idea y la puso en práctica.
+Y la moza que sea buena en ojos del rey reinará en lugar de Vashtí. Y fue bueno el asunto en ojos del rey, e hizo así.
 
 ### 2:5
 
-Había un judío en la ciudad de Susa, la capital, llamado Mardoqueo, hijo de Iair, hijo de Simi, hijo de Quis, de la tribu de Benjamín.
+Hombre judío había en Shushán la fortaleza, y su nombre Mordojai hijo de Yaír hijo de Shimí hijo de Kish, hombre yeminí,
 
 ### 2:6
 
-Era descendiente de aquellos que Nabucodonosor, rey de Babilonia, había deportado de Jerusalén.
+que fue deportado de Yerushaláyim con la deportación que fue deportada con Yekonyá rey de Yehudá, que deportó Nebukadnetsár rey de Bavel.
 
 ### 2:7
 
-Mardoqueo adoptó a su prima Hadasa, que se llamaba Estera, porque sus padres habían muerto. Era una joven muy hermosa y atractiva. Cuando murieron su padre y su madre, Mardoqueo la adoptó como hija.
+Y él era criando a Hadassá —ella Ester— hija de su tío, porque no hay a ella padre y madre; y la moza hermosa de figura y buena de vista; y a la muerte de su padre y de su madre la tomó Mordojai a sí por hija.
 
 ### 2:8
 
-Cuando el rey dio la orden y se reunió a muchas doncellas, Estera fue llevada a la casa del rey, a la mano de Hegai, el eunuco que cuidaba de las mujeres.
+Y fue al oírse palabra del rey y su ley, y al reunirse mozas muchas a Shushán la fortaleza a mano de Hegai, y fue tomada Ester a casa del rey a mano de Hegai guarda de las mujeres.
 
 ### 2:9
 
-Estera agradó a Hegai, quien tuvo misericordia de ella y le dio a ella y a las siete doncellas que le asignó del palacio del rey, provisiones para el cuidado. Y le dio a ella y a sus doncellas el mejor lugar en la casa de las mujeres.
+Y fue buena la moza en sus ojos, y alzó favor delante de él; y apresuró sus ungüentos y sus porciones para dar a ella, y las siete mozas debidas para dar a ella de casa del rey; y la mudó a ella y a sus mozas a lo bueno de casa de las mujeres.
 
 ### 2:10
 
-Estera no reveló que era judía ni de qué lugar era, porque Mardoqueo le había ordenado que no lo hiciera.
+No declaró Ester su pueblo y su nacimiento, porque Mordojai le mandó sobre ella que no declare.
 
 ### 2:11
 
-Todos los días, Mardoqueo iba y venía frente a la plaza de la casa de las mujeres para saber cómo estaba Estera y qué le sucedía.
+Y en todo día y día Mordojai andaba delante del patio de casa de las mujeres, para saber la paz de Ester y qué se hace con ella.
 
 ### 2:12
 
-Cuando llegaba el turno de cada doncella para ir al rey, después de estar en la casa de las mujeres doce meses, seis meses con aceite de mirra y seis meses con perfumes y con ungüentos de las mujeres.
+Y al llegar turno de moza y moza para venir al rey Ajashverosh, al cabo de ser a ella según ley de las mujeres doce meses —porque así se llenan días de sus ungüentos: seis meses en aceite del mirra, y seis meses en los aromas y en ungüentos de las mujeres—
 
 ### 2:13
 
-Cada doncella iba al rey con todo lo que ella y sus amigas quisieran darle para ir con ella desde la casa de las mujeres hasta la casa del rey.
+y en esto la moza viene al rey; todo lo que ella diga se dará a ella para venir con ella de casa de las mujeres hasta casa del rey.
 
 ### 2:14
 
-Por la noche, la doncella iba al rey, y por la mañana regresaba a la segunda casa, a la mano de Shaashgaz, el eunuco que cuidaba de las concubinas. No volvería a ver al rey, a menos que el rey la llamara por su nombre.
+En la tarde ella viene, y en la mañana ella vuelve a casa de las mujeres segunda, a mano de Shaashgaz eunuco del rey, guarda de las concubinas; no vendrá más al rey sino si se deleita en ella el rey y es llamada por nombre.
 
 ### 2:15
 
-Y cuando llegó la vez de Ester, hija de Abihail, prima de Mardoqueo, que la había tomado por esposa para que fuera a ver al rey, ella no pidió nada, sino lo que Hegai, el eunuco que cuidaba de las mujeres, le dijo. Ester encontró gracia ante todos los que la veían.
+Y al llegar turno de Ester hija de Avijáil tío de Mordojai, que tomó a sí por hija, para venir al rey, no buscó cosa sino lo que diga Hegai eunuco del rey, guarda de las mujeres; y fue Ester alzando gracia en ojos de todos sus videntes.
 
 ### 2:16
 
-Ester fue llevada a ver al rey Ahasuero en el séptimo año del reinado, en el mes de tebet, que es el décimo mes.
+Y fue tomada Ester al rey Ajashverosh a casa de su reino, en el mes décimo —él mes Tevet— en año siete a su reino.
 
 ### 2:17
 
-El rey amó a Ester más que a todas las mujeres, y ella encontró gracia y misericordia ante él más que todas las vírgenes. Puso la corona real sobre su cabeza y la hizo reina en lugar de Vashti.
+Y amó el rey a Ester más que a todas las mujeres, y alzó gracia y favor delante de él más que a todas las vírgenes; y puso corona de reino en su cabeza, y la hizo reinar en lugar de Vashtí.
 
 ### 2:18
 
-El rey hizo una gran fiesta para todos sus príncipes y siervos, la fiesta de Ester, y concedió un día de descanso a las provincias. Y dio regalos con la mano del rey.
+Y hizo el rey banquete grande a todos sus príncipes y sus siervos, el banquete de Ester; y descanso a las provincias hizo, y dio dádiva según mano del rey.
 
 ### 2:19
 
-Cuando se recogieron las vírgenes por segunda vez, Mardoqueo estaba sentado en la puerta del rey.
+Y al reunirse vírgenes segunda vez, y Mordojai sentado en puerta del rey.
 
 ### 2:20
 
-Ester no revelaba su origen ni su pueblo, como le había ordenado Mardoqueo, y Ester cumplía con el mandato de Mardoqueo, como siempre había hecho.
+No Ester declara su nacimiento y su pueblo, como le mandó sobre ella Mordojai; y el dicho de Mordojai Ester hace, como cuando estaba en crianza con él.
 
 ### 2:21
 
-En aquellos días, Mardoqueo estaba sentado en la puerta del rey. Bigtán y Teresh, dos eunucos del rey que guardaban la puerta, intentaron levantar la mano contra el rey Ahasuero.
+En los días aquellos, y Mordojai sentado en puerta del rey, se enfurecieron Bigtán y Téresh, dos eunucos del rey de los guardas del umbral, y buscaron enviar mano en el rey Ajashverosh.
 
 ### 2:22
 
-Se supo el asunto a Mardoqueo, quien lo contó a Ester la reina, y Ester lo dijo al rey en nombre de Mardoqueo.
+Y fue conocido el asunto a Mordojai, y lo declaró a Ester la reina; y dijo Ester al rey en nombre de Mordojai.
 
 ### 2:23
 
-Se investigó el asunto y se encontró que era cierto, y a los dos fueron ahorcados en un árbol. Esto fue escrito en el libro de los anales delante del rey.
+Y fue buscado el asunto y fue hallado, y fueron colgados los dos sobre árbol; y fue escrito en libro de palabras de los días delante del rey.
 
 ## Capítulo 3
 
 ### 3:1
 
-Después de estos hechos, el rey Ahasuero elevó a Haman, hijo de Hammedata el agareno, y le dio un puesto superior a todos los príncipes que estaban con él.
+Después de estas palabras, engrandeció el rey Ajashverosh a Hamán hijo de Hamdatá el agaguí, y lo alzó, y puso su trono de sobre todos los príncipes que con él.
 
 ### 3:2
 
-Todos los servidores del rey que estaban en la puerta del rey se postraban y se inclinaban ante Haman, porque el rey así lo había ordenado. Pero Mardoqueo no se postraba ni se inclinaba ante él.
+Y todos siervos del rey que en puerta del rey se arrodillan y se postran a Hamán, porque así mandó a él el rey; y Mordojai no se arrodilla y no se postra.
 
 ### 3:3
 
-Entonces los servidores del rey que estaban en la puerta del rey dijeron a Mardoqueo: ¿Por qué desobedeces la orden del rey?
+Y dijeron siervos del rey que en puerta del rey a Mordojai: ¿Por qué tú traspasas el mandato del rey?
 
 ### 3:4
 
-Y sus servidores que estaban en la puerta del rey hablaron a Mardoqueo cada día, pero él no escuchaba a ellos. Entonces sus servidores dijeron a Haman para ver si las palabras de Mardoqueo se cumplirían, porque Mardoqueo les había dicho que era judío.
+Y fue a él día y día, y no escuchó a ellos; y declararon a Hamán para ver si se sostendrán las palabras de Mordojai, porque les declaró que él judío.
 
 ### 3:5
 
-Cuando Haman vio que Mardoqueo no se postraba ni se inclinaba ante él, se llenó de ira.
+Y vio Hamán que no Mordojai se arrodilla y se postra a él, y se llenó Hamán de furor.
 
 ### 3:6
 
-Haman despreció a Mardoqueo en su presencia, pero no quiso levantar la mano contra Mardoqueе solo. Se le había dicho que Mardoquee era judío, así que Haman buscó destruir a todos los judíos que estaban en el reino de Ahasuerus, el pueblo de Mardoquee.
+Y despreció en sus ojos enviar mano en Mordojai solo, porque le declararon el pueblo de Mordojai; y buscó Hamán destruir a todos los judíos que en todo reino de Ajashverosh, pueblo de Mordojai.
 
 ### 3:7
 
-En el mes primero, que es el mes de Nisán, en el año décimo tercero del reinado de Ahasuerus, Haman echó el pur (el sortilegio) delante de él, desde el día hasta el día, desde el mes hasta el mes, hasta el mes duodécimo, que es el mes de Adar.
+En el mes primero —él mes Nisán— en año doce al rey Ajashverosh, se echó Pur —él la suerte— delante de Hamán, de día a día y de mes a mes, doce —él mes Adar.
 
 ### 3:8
 
-Entonces Haman dijo al rey Ahasuerus: “Hay un pueblo disperso y separado entre los pueblos en todas las provincias de tu reino, y sus costumbres son diferentes de las de todos los demás pueblos, y no observan las leyes del rey; por eso no es conveniente para el rey dejarlos en paz.”
+Y dijo Hamán al rey Ajashverosh: Hay pueblo uno esparcido y separado entre los pueblos en todas provincias de tu reino, y sus leyes distintas de todo pueblo, y las leyes del rey ellos no hacen; y al rey no conviene dejarlos.
 
 ### 3:9
 
-Si al rey le parece bien, que se escriba para que sean destruidos, y que se le den diez mil talentos de plata para que se depositen en la tesorería del rey.
+Si sobre el rey bueno, se escriba para destruirlos; y diez miles de talentos de plata pesaré sobre manos de los hacedores de la obra, para traer a tesoros del rey.
 
 ### 3:10
 
-Entonces el rey quitó su anillo de la mano y se lo dio a Haman, hijo de Hemdatha, el amonita, enemigo de los judíos.
+Y quitó el rey su anillo de sobre su mano, y lo dio a Hamán hijo de Hamdatá el agaguí, opresor de los judíos.
 
 ### 3:11
 
-El rey dijo a Haman: “La plata se te ha dado, y el pueblo es tuyo para hacer con él lo que te parezca bien.”
+Y dijo el rey a Hamán: La plata dada a ti, y el pueblo, para hacer en él como bueno en tus ojos.
 
 ### 3:12
 
-En el mes primero, que es el mes de Nisán, en el día trece del mes, escribieron los escribas del rey a la presencia del rey conforme a todo lo que Haman había ordenado a los gobernadores del rey y a los oficiales que estaban en cada provincia, y a los jefes del pueblo, a cada provincia conforme a su escritura, y a cada pueblo conforme a su lengua, en el nombre del rey Ahasuerus, y sellada con el sello del rey.
+Y fueron llamados escribas del rey en el mes primero, en trece día en él; y fue escrito según todo lo que mandó Hamán a los ajashdarpenes del rey y a los gobernadores que sobre provincia y provincia y a príncipes de pueblo y pueblo, provincia y provincia según su escritura, y pueblo y pueblo según su lengua; en nombre del rey Ajashverosh escrito, y sellado con anillo del rey.
 
 ### 3:13
 
-Se enviaron cartas por mensajeros a todas las provincias del rey, para que destruyeran, mataran y aniquilaran a todos los judíos, tanto jóvenes como ancianos, mujeres e hijos, en un solo día, el trece del duodécimo mes, que es el mes de Adar, y que tomaran el botín de ellos.
+Y envío de cartas por mano de los corredores a todas provincias del rey, para destruir, para matar y para aniquilar a todos los judíos, desde mozo y hasta anciano, niño y mujeres, en día uno, en trece al mes doce —él mes Adar— y su botín para saquear.
 
 ### 3:14
 
-La copia de la carta fue dada por edicto en cada provincia, para que se cumpliera en cada provincia y en cada pueblo, para que todos los pueblos estuvieran preparados para el día señalado.
+Copia del escrito para ser dada ley en toda provincia y provincia, descubierta a todos los pueblos, para estar preparados para este día.
 
 ### 3:15
 
-Los mensajeros salieron apresuradamente por orden del rey, y la ley fue dada en Shushan la capital. El rey y Haman se sentaron para beber, pero la ciudad de Shushan estaba confusa.
+Los corredores salieron apresurados en palabra del rey, y la ley fue dada en Shushán la fortaleza; y el rey y Hamán se sentaron a beber, y la ciudad Shushán perpleja.
 
 ## Capítulo 4
 
 ### 4:1
 
-Mordejai supo lo que había sucedido y se desgarró las vestiduras, se puso saco y cenizas, salió por la ciudad y gritó con gran voz y dolor.
+Y Mordojai supo todo lo que fue hecho; y rasgó Mordojai sus vestidos, y vistió saco y ceniza, y salió en medio de la ciudad, y clamó clamor grande y amargo.
 
 ### 4:2
 
-Llegó hasta la puerta del palacio, porque no se puede entrar al palacio con saco.
+Y vino hasta delante de puerta del rey, porque no hay entrar a puerta del rey con vestido de saco.
 
 ### 4:3
 
-En toda provincia y ciudad, donde llegara la palabra del rey y su decreto, había gran luto entre los judíos, ayuno, llanto y lamento; saco y cenizas se ofrecían en multitud.
+Y en toda provincia y provincia, lugar donde palabra del rey y su ley llega, duelo grande a los judíos, y ayuno y llanto y lamento; saco y ceniza se tiende a los muchos.
 
 ### 4:4
 
-Entonces las doncellas de Ester y sus eunucos le informaron, y la reina se angustió mucho y envió vestidos para que vistiera a Mordejai y para que quitara el saco de él, pero él no lo aceptó.
+Y vinieron mozas de Ester y sus eunucos y le declararon; y se estremeció la reina mucho; y envió vestidos para vestir a Mordojai y para quitar su saco de sobre él, y no recibió.
 
 ### 4:5
 
-Ester llamó a Hasquen, el eunuco del rey, que estaba a su servicio, y le ordenó que fuera a ver a Mordejai para saber qué era y por qué.
+Y llamó Ester a Hatak de los eunucos del rey que puso delante de ella, y lo mandó sobre Mordojai, para saber qué esto y sobre qué esto.
 
 ### 4:6
 
-Hasquen salió a ver a Mordejai en la plaza de la ciudad, frente a la puerta del palacio.
+Y salió Hatak a Mordojai a plaza de la ciudad que delante de puerta del rey.
 
 ### 4:7
 
-Mordejai le contó a Hasquen todo lo que le había sucedido y el resumen del dinero que Haman había propuesto para depositar en los tesoros del rey para destruir a los judíos.
+Y le declaró Mordojai todo lo que le sucedió, y la cuenta de la plata que dijo Hamán para pesar sobre tesoros del rey por los judíos, para destruirlos.
 
 ### 4:8
 
-Y le dio el texto de la ley que se había dado en Shushan para destruirlos, para que Ester lo viera y se lo explicara, y para que la ordenara a ella que entrara al rey para suplicar por él y pedir ante él por su pueblo.
+Y la copia del escrito de la ley que fue dada en Shushán para destruirlos dio a él, para mostrar a Ester y para declararle, y para mandarle sobre ella venir al rey a implorarle y a pedir de delante de él sobre su pueblo.
 
 ### 4:9
 
-Hasquen volvió y le contó a Ester las palabras de Mordejai.
+Y vino Hatak y declaró a Ester las palabras de Mordojai.
 
 ### 4:10
 
-Ester dijo a Hasquen y le ordenó a Mordejai.
+Y dijo Ester a Hatak, y lo mandó a Mordojai:
 
 ### 4:11
 
-Todos los siervos del rey y el pueblo de las provincias del rey saben que nadie puede entrar al rey al patio interior sin ser llamado, a menos que el rey le dé la vara de oro y entonces vive; yo no fui llamada a entrar al rey durante treinta días.
+Todos siervos del rey y pueblo de provincias del rey saben que todo hombre y mujer que entre al rey al patio interior que no es llamado, una su ley: para matar; solo de aquel a quien el rey extienda el cetro de oro, y vivirá; y yo no he sido llamada a venir al rey estos treinta días.
 
 ### 4:12
 
-Se informaron a Mordejai las palabras de Ester.
+Y declararon a Mordojai las palabras de Ester.
 
 ### 4:13
 
-Mordejai le respondió a Ester: No te engañes en tu propia mente para que te salves en la casa del rey de todos los judíos.
+Y dijo Mordojai para responder a Ester: No imagines en tu alma escapar en casa del rey de todos los judíos.
 
 ### 4:14
 
-Porque si callas en este tiempo, alivio y salvación vendrán a los judíos desde otro lugar, pero tú y la familia de tu padre perecerán. ¿Quién sabe si no has llegado a la realeza para un tiempo como este?
+Porque si callando callas en este tiempo, alivio y liberación se levantará a los judíos de lugar otro, y tú y casa de tu padre perecerán; y quién sabe si para tiempo como este llegaste al reino.
 
 ### 4:15
 
-Ester respondió a Mordejai:
+Y dijo Ester para responder a Mordojai:
 
 ### 4:16
 
-Ve, reúne a todos los judíos que se encuentran en Susa y ayuna por mí durante tres días, noche y día. También yo y mis doncellas ayunaremos de la misma manera. Luego iré al rey, aunque sea contra la ley, y si perece, pereceré.
+Ve, reúne a todos los judíos hallados en Shushán, y ayunen sobre mí, y no coman y no beban tres días, noche y día; también yo y mis mozas ayunaré así; y en esto vendré al rey, que no según ley; y como perezca, perezco.
 
 ### 4:17
 
-Mordejai se fue, y Ester hizo todo lo que le había ordenado.
+Y pasó Mordojai, e hizo según todo lo que le mandó sobre él Ester.
 
 ## Capítulo 5
 
 ### 5:1
 
-En el tercer día, Ester se vistió de vestimenta real y se paró en la mitad del patio interior de la casa del rey, frente a la casa del rey. El rey estaba sentado en su trono en el palacio, frente a la puerta de la casa.
+Y fue en el día tercero, y vistió Ester reino, y se plantó en el patio de casa del rey el interior, frente a casa del rey; y el rey sentado sobre trono de su reino en casa del reino, frente a abertura de la casa.
 
 ### 5:2
 
-Cuando el rey vio a Ester la reina parada en el patio, tuvo gracia ante sus ojos. El rey extendió el bastón de oro que tenía en la mano, y Ester se acercó y tocó el extremo del bastón.
+Y fue al ver el rey a Ester la reina de pie en el patio, alzó gracia en sus ojos; y extendió el rey a Ester el cetro de oro que en su mano; y se acercó Ester y tocó en cabeza del cetro.
 
 ### 5:3
 
-El rey le dijo: ¿Qué deseas, Ester la reina? ¿Qué es tu petición? Hasta la mitad del reino se te dará.
+Y le dijo el rey: ¿Qué a ti, Ester la reina, y qué tu petición? Hasta mitad del reino, y se dará a ti.
 
 ### 5:4
 
-Ester respondió: Si al rey le agrada, que el rey y Haman vengan hoy a la fiesta que he preparado para él.
+Y dijo Ester: Si sobre el rey bueno, venga el rey y Hamán hoy al banquete que hice para él.
 
 ### 5:5
 
-El rey dijo: Haz que Haman venga hoy a la fiesta que Ester ha preparado. El rey y Haman fueron a la fiesta que Ester había preparado.
+Y dijo el rey: Apresuren a Hamán para hacer la palabra de Ester. Y vino el rey y Hamán al banquete que hizo Ester.
 
 ### 5:6
 
-El rey le dijo a Ester en la fiesta de vino: ¿Qué deseas, Ester? Se te dará. ¿Qué es tu petición? Hasta la mitad del reino se te dará.
+Y dijo el rey a Ester en banquete del vino: ¿Qué tu pregunta, y se dará a ti? Y ¿qué tu petición? Hasta mitad del reino, y se hará.
 
 ### 5:7
 
-Ester respondió: Mi petición y mi deseo.
+Y respondió Ester y dijo: Mi pregunta y mi petición:
 
 ### 5:8
 
-Si he encontrado gracia ante los ojos del rey y si es agradable al rey conceder mi petición y hacer mi súplica, que venga el rey y Haman al banquete que prepararé para ellos, y mañana haré lo que el rey ordene.
+Si hallé gracia en ojos del rey, y si sobre el rey bueno dar mi pregunta y hacer mi petición, venga el rey y Hamán al banquete que haré a ellos, y mañana haré según palabra del rey.
 
 ### 5:9
 
-Y Haman salió ese día alegre y con buen ánimo, pero al ver a Mardoqueo en la puerta del palacio y que no se levantaba ni se movía de su lugar, se llenó de ira contra Mardoqueo.
+Y salió Hamán en aquel día alegre y bueno de corazón; y al ver Hamán a Mordojai en puerta del rey, y no se levantó y no se movió de él, se llenó Hamán sobre Mordojai de furor.
 
 ### 5:10
 
-Y Haman se contuvo y fue a su casa, y envió a traer a sus amigos y a Zares su mujer.
+Y se contuvo Hamán, y vino a su casa; y envió y trajo a sus amadores y a Zéresh su mujer.
 
 ### 5:11
 
-Y Haman les contó la grandeza de su riqueza y la multitud de sus hijos, y todo lo que el rey le había dado, y cómo lo había exaltado sobre los príncipes y los servidores del rey.
+Y contó a ellos Hamán la gloria de su riqueza y la muchedumbre de sus hijos, y todo lo que lo engrandeció el rey, y lo que lo alzó sobre los príncipes y siervos del rey.
 
 ### 5:12
 
-Y Haman dijo: “¡No ha traído la reina Ester a nadie más al banquete que yo, y mañana también estoy invitado a ella con el rey!”
+Y dijo Hamán: También no trajo Ester la reina con el rey al banquete que hizo sino a mí; y también para mañana yo llamado a ella con el rey.
 
 ### 5:13
 
-Pero todo esto no me sirve de nada, mientras veo a Mardoqueo, el judío, sentado en la puerta del palacio.
+Y todo esto no me conviene en todo tiempo que yo veo a Mordojai el judío sentado en puerta del rey.
 
 ### 5:14
 
-Y Zares su mujer le dijo: “Hagan un poste alto de cincuenta codos y mañana digan al rey que lo use para colgar a Mardoqueo. Y vayan con el rey al banquete alegres.” Y la idea le agradó a Haman, y ordenó que se hiciera el poste.
+Y le dijo Zéresh su mujer y todos sus amadores: Hagan árbol alto cincuenta codos, y en la mañana di al rey y cuelguen a Mordojai sobre él, y ven con el rey al banquete alegre. Y fue bueno el asunto delante de Hamán, e hizo el árbol.
 
 ## Capítulo 6
 
 ### 6:1
 
-Esa noche el rey no pudo dormir, y ordenó traer el libro de los anales, y se leyeron ante él.
+En aquella noche huyó el sueño del rey; y dijo traer el libro de los memoriales, palabras de los días; y fueron leídos delante del rey.
 
 ### 6:2
 
-Y se encontró escrito que Mardoqueo había denunciado a Bigtana y a Teresh, dos eunucos del rey que guardaban la puerta, que habían intentado matar al rey Ahasuero.
+Y se halló escrito que declaró Mordojai sobre Bigtaná y Téresh, dos eunucos del rey de los guardas del umbral, que buscaron enviar mano en el rey Ajashverosh.
 
 ### 6:3
 
-Y el rey dijo: “¿Qué honor y qué gloria se le ha dado a Mardoqueo por esto?” Y los servidores del rey dijeron: “Nada se le ha hecho.”
+Y dijo el rey: ¿Qué se hizo honor y grandeza a Mordojai sobre esto? Y dijeron mozos del rey, sus ministros: No se hizo con él cosa.
 
 ### 6:4
 
-Y el rey dijo: “¿Quién está en el patio?” Y Haman había entrado al patio del palacio para decir al rey que colgara a Mardoqueo en el poste que había preparado para él.
+Y dijo el rey: ¿Quién en el patio? Y Hamán vino al patio de casa del rey el exterior, para decir al rey colgar a Mordojai sobre el árbol que preparó para él.
 
 ### 6:5
 
-Y los servidores del rey dijeron al rey: “Haman está en el patio.” Y el rey dijo: “Que entre.”
+Y dijeron mozos del rey a él: He aquí Hamán de pie en el patio. Y dijo el rey: Entre.
 
 ### 6:6
 
-Haman entró y dijo al rey: “¿Qué se debe hacer con el hombre al que el rey quiere honrar?” Haman pensó: “¿A quién quiere el rey honrar más que a mí?”
+Y vino Hamán; y le dijo el rey: ¿Qué hacer al hombre que el rey se deleita en su honor? Y dijo Hamán en su corazón: ¿A quién se deleitará el rey en hacer honor más que a mí?
 
 ### 6:7
 
-Haman dijo al rey: “El hombre al que el rey quiere honrar.”
+Y dijo Hamán al rey: Hombre que el rey se deleita en su honor:
 
 ### 6:8
 
-Que traigan la ropa real que el rey usa y un caballo con el que el rey monta, y que se le ponga una corona real en su cabeza.
+Traigan vestido de reino que vistió en él el rey, y caballo que montó sobre él el rey, y que fue puesta corona de reino en su cabeza;
 
 ### 6:9
 
-Que se le dé la ropa y el caballo a uno de los oficiales del rey, los partermos, y que lo vistan al hombre al que el rey quiere honrar, y que lo monten en el caballo por las calles de la ciudad, y que digan delante de él: “Así se hará al hombre al que el rey quiere honrar.”
+y den el vestido y el caballo sobre mano de hombre de príncipes del rey los partemím, y vistan al hombre que el rey se deleita en su honor, y lo monten sobre el caballo en plaza de la ciudad, y clamen delante de él: Así se hará al hombre que el rey se deleita en su honor.
 
 ### 6:10
 
-El rey dijo a Haman: “Rápido, toma la ropa y el caballo como hablaste, y hazlo así con Mardoqueo el judío que está en la puerta del rey. No faltes en nada de lo que hablaste.”
+Y dijo el rey a Hamán: Apresúrate, toma el vestido y el caballo como hablaste, y haz así a Mordojai el judío el que se sienta en puerta del rey; no hagas caer cosa de todo lo que hablaste.
 
 ### 6:11
 
-Haman tomó la ropa y el caballo y vistió a Mardoqueo, y lo montó en el caballo por las calles de la ciudad, y dijeron delante de él: “Así se hará al hombre al que el rey quiere honrar.”
+Y tomó Hamán el vestido y el caballo, y vistió a Mordojai, y lo montó en plaza de la ciudad, y clamó delante de él: Así se hará al hombre que el rey se deleita en su honor.
 
 ### 6:12
 
-Mardoqueo volvió a la puerta del rey, y Haman se fue a su casa con dolor y con la cabeza cubierta.
+Y volvió Mordojai a puerta del rey; y Hamán fue empujado a su casa, de duelo y cubierta la cabeza.
 
 ### 6:13
 
-Haman contó a Zeres su esposa y a todos sus amigos lo que le había sucedido. Y sus amigos y su esposa le dijeron: “Si Mardoqueo es de los judíos, no podrás vencerle, porque caerás ante él.”
+Y contó Hamán a Zéresh su mujer y a todos sus amadores todo lo que le sucedió; y le dijeron sus sabios y Zéresh su mujer: Si de simiente de los judíos Mordojai, ante quien comenzaste a caer, no podrás a él, porque cayendo caerás delante de él.
 
 ### 6:14
 
-Mientras aún hablaban con él, llegaron los eunucos del rey para llevar a Haman al banquete que Esther había preparado.
+Aún ellos hablando con él, y eunucos del rey llegaron, y apresuraron traer a Hamán al banquete que hizo Ester.
 
 ## Capítulo 7
 
 ### 7:1
 
-El rey y Haman vinieron a beber con la reina Esther.
+Y vino el rey y Hamán a beber con Ester la reina.
 
 ### 7:2
 
-El rey dijo a Esther: “¿Qué quieres, reina Esther? Y se te dará. ¿Qué es lo que pides? Hasta la mitad del reino y se te hará.”
+Y dijo el rey a Ester también en el día segundo en banquete del vino: ¿Qué tu pregunta, Ester la reina, y se dará a ti? Y ¿qué tu petición? Hasta mitad del reino, y se hará.
 
 ### 7:3
 
-Entonces Esther la reina respondió: “Si he encontrado gracia ante tus ojos, oh rey, y si es agradable al rey, que se me dé mi vida en mi petición y que se me dé mi pueblo en mi súplica.”
+Y respondió Ester la reina y dijo: Si hallé gracia en tus ojos, el rey, y si sobre el rey bueno, se dé a mí mi alma en mi pregunta, y mi pueblo en mi petición.
 
 ### 7:4
 
-Porque yo y mi pueblo hemos sido vendidos para ser destruidos, matados y aniquilados. Pero si hubiéramos sido vendidos como esclavos y esclavas, habría callado, porque no conviene al rey que se haga tal cosa.
+Porque hemos sido vendidos, yo y mi pueblo, para destruir, para matar y para aniquilar; y si para siervos y para siervas hubiéramos sido vendidos, hubiera callado, porque no el opresor conviene en daño del rey.
 
 ### 7:5
 
-Entonces el rey Ahasveros dijo a la reina Esther: ¿Quién es este y quién es el que ha llenado su corazón para hacer así?
+Y dijo el rey Ajashverosh, y dijo a Ester la reina: ¿Quién él este, y dónde él este, cuyo corazón lo llenó para hacer así?
 
 ### 7:6
 
-Y dijo Esther: Es un enemigo y un malvado, Haman, este malvado. Y Haman se turbó delante del rey y de la reina.
+Y dijo Ester: Hombre opresor y enemigo, Hamán el malo este. Y Hamán se aterró de delante del rey y de la reina.
 
 ### 7:7
 
-Y el rey se levantó en su ira del banquete de vino hacia el jardín del palacio, y Haman se quedó para pedir su vida a Esther la reina, porque vio que el mal había salido del rey.
+Y el rey se levantó en su furor de banquete del vino al jardín del palacio; y Hamán se quedó para pedir sobre su alma de Ester la reina, porque vio que se consumó a él el mal de parte del rey.
 
 ### 7:8
 
-Y el rey volvió del jardín del palacio al banquete de vino, y Haman cayó sobre la cama donde estaba Esther, y el rey dijo: ¿También para violar a la reina en mi casa? La palabra salió de la boca del rey, y la cara de Haman se descompuso.
+Y el rey volvió del jardín del palacio a casa de banquete del vino, y Hamán cayendo sobre el lecho que Ester sobre él; y dijo el rey: ¿También para forzar a la reina conmigo en la casa? La palabra salió de boca del rey, y faz de Hamán fue cubierta.
 
 ### 7:9
 
-Y dijo Harbona, uno de los eunucos del rey, delante del rey: He aquí también el poste que Haman hizo para Mardoqueo, que habló bien por el rey. Está en la casa de Haman, de cincuenta codos de altura. Y el rey dijo: Colóquenlo sobre él.
+Y dijo Jarboná, uno de los eunucos delante del rey: También he aquí el árbol que hizo Hamán para Mordojai, que habló bien sobre el rey, de pie en casa de Hamán, alto cincuenta codos. Y dijo el rey: Cuélguenlo sobre él.
 
 ### 7:10
 
-Y colgaron a Haman en el poste que había preparado para Mardoqueo, y la ira del rey cesó.
+Y colgaron a Hamán sobre el árbol que preparó para Mordojai; y el furor del rey se calmó.
 
 ## Capítulo 8
 
 ### 8:1
 
-En aquel día el rey Ahasveros dio a Esther la reina la casa de Haman, el enemigo de los judíos. Y Mardoqueo vino a la presencia del rey, porque Esther había revelado lo que él era para ella.
+En aquel día dio el rey Ajashverosh a Ester la reina la casa de Hamán el opresor; y Mordojai vino delante del rey, porque declaró Ester qué él a ella.
 
 ### 8:2
 
-Y el rey quitó el anillo que había quitado de Haman y lo dio a Mardoqueo. Y Esther puso a Mardoqueo sobre la casa de Haman.
+Y quitó el rey su anillo que hizo pasar de Hamán, y lo dio a Mordojai; y puso Ester a Mordojai sobre casa de Hamán.
 
 ### 8:3
 
-Y Esther se acercó más y habló delante del rey y se postró a sus pies y lloró y suplicó que se quitara la maldad de Haman el agareno y su pensamiento que había pensado contra los judíos.
+Y añadió Ester y habló delante del rey, y cayó delante de sus pies, y lloró e imploró a él para hacer pasar el mal de Hamán el agaguí y su pensamiento que pensó sobre los judíos.
 
 ### 8:4
 
-Y el rey extendió el bastón de oro a Esther, y ella se levantó y se puso de pie delante del rey.
+Y extendió el rey a Ester el cetro de oro; y se levantó Ester y se plantó delante del rey.
 
 ### 8:5
 
-Y dijo: Si al rey le place y si he hallado gracia ante sus ojos, y si el asunto es justo ante el rey y yo soy buena a sus ojos, que se escriba para que se anule la carta que Haman hijo de Hamdatha el agareno escribió para destruir a los judíos que están en todas las provincias del rey.
+Y dijo: Si sobre el rey bueno, y si hallé gracia delante de él, y recto el asunto delante del rey, y buena yo en sus ojos, se escriba para devolver las cartas, pensamiento de Hamán hijo de Hamdatá el agaguí, que escribió para aniquilar a los judíos que en todas provincias del rey.
 
 ### 8:6
 
-¿Cómo puedo soportar y ver el mal que les viene a mi pueblo? ¿Cómo puedo soportar y ver la destrucción de mi linaje?
+Porque ¿cómo podré y veré en el mal que hallará a mi pueblo? ¿Y cómo podré y veré en la destrucción de mi nacimiento?
 
 ### 8:7
 
-Entonces el rey Ahasverosh dijo a la reina Ester y a Mordejai el judío: He entregado la casa de Haman, el enemigo de los judíos, a Ester, y han ahorcado a él en la horca, a quien había levantado la mano contra los judíos.
+Y dijo el rey Ajashverosh a Ester la reina y a Mordojai el judío: He aquí casa de Hamán di a Ester, y a él colgaron sobre el árbol, sobre que envió su mano.
 
 ### 8:8
 
-Y vosotros escribid a los judíos conforme a lo que os parezca bien, en nombre del rey, y sellad con el sello del rey, porque cualquier carta sellada con el sello del rey no puede ser revocada.
+Y ustedes escriban sobre los judíos como bueno en ojos de ustedes, en nombre del rey, y sellen con anillo del rey; porque escrito que es escrito en nombre del rey y sellado con anillo del rey, no hay devolver.
 
 ### 8:9
 
-Entonces llamaron a los escribas del rey en el mes tercero, que es el mes de Sivan, el veintitrés del mes, y se escribió conforme a todo lo que Mordejai había ordenado a los judíos, a los gobernadores, a los gobernantes y a los príncipes de las provincias desde India hasta Cuse, que son ciento veinte provincias, cada provincia conforme a su escritura y cada pueblo conforme a su lengua, y a los judíos conforme a su escritura y a su lengua.
+Y fueron llamados escribas del rey en aquel tiempo, en el mes tercero —él mes Siván— en tres y veinte en él; y fue escrito según todo lo que mandó Mordojai a los judíos y a los ajashdarpenes y los gobernadores y príncipes de las provincias que desde Hodú y hasta Kush, siete y veinte y cien provincia, provincia y provincia según su escritura, y pueblo y pueblo según su lengua, y a los judíos según su escritura y según su lengua.
 
 ### 8:10
 
-Se escribió en nombre del rey Ahasverosh y sellado con el sello del rey, y se enviaron cartas por medio de los corredores montados en caballos de raleza, montados en caballos de raleza, corredores de caballos de raleza, hijos de los camellos.
+Y escribió en nombre del rey Ajashverosh, y selló con anillo del rey; y envió cartas por mano de los corredores en los caballos, jinetes del corcel de los ajashteranim, hijos de las yeguas.
 
 ### 8:11
 
-Que el rey había dado a los judíos que estaban en cada ciudad y ciudad para que se juntaran y se pusieran en pie por sus almas, para destruir, matar y aniquilar a todo el ejército del pueblo y de la provincia que les fuera enemigo, a sus hijos y a sus mujeres, y para tomar sus bienes.
+Que dio el rey a los judíos que en toda ciudad y ciudad reunirse y estar sobre su alma, para destruir y para matar y para aniquilar a toda fuerza de pueblo y provincia que los oprimen, niño y mujeres, y su botín para saquear,
 
 ### 8:12
 
-En un día, en todas las provincias del rey Ahasverosh, el trece del duodécimo mes, que es el mes de Adar.
+en día uno en todas provincias del rey Ajashverosh, en trece al mes doce —él mes Adar.
 
 ### 8:13
 
-Se publicó la ordenanza para dar a conocer la ley en todas las provincias y en todas las provincias, a todos los pueblos, y para que los judíos estuvieran preparados para el día señalado para vengarse de sus enemigos.
+Copia del escrito para ser dada ley en toda provincia y provincia, descubierta a todos los pueblos, y para estar para este día para vengarse de sus enemigos.
 
 ### 8:14
 
-Los corredores montados en caballos de raleza, corredores de caballos de raleza, salieron apresurados y con fuerza conforme a la ordenanza del rey, y la ordenanza se dio en Shushan la capital.
+Los corredores jinetes del corcel de los ajashteranim salieron apresurados y urgidos en palabra del rey; y la ley fue dada en Shushán la fortaleza.
 
 ### 8:15
 
-Y Mordejai salió delante del rey con vestiduras reales de púrpura y blanco, y una corona de oro grande, y un manto de lino y púrpura, y la ciudad de Shushan se alegró y se regocijó.
+Y Mordojai salió de delante del rey en vestido de reino azul y blanco, y corona de oro grande, y manto de lino fino y púrpura; y la ciudad Shushán gritó y se alegró.
 
 ### 8:16
 
-Para los judíos había luz y alegría, gozo y gloria.
+A los judíos hubo luz y alegría y gozo y honor.
 
 ### 8:17
 
-Y en todas las provincias y en todas las ciudades, dondequiera que se daba la palabra del rey y su ordenanza, había alegría y gozo para los judíos, banquetes y días festivos, y muchos de los pueblos de la tierra se hicieron judíos, porque el temor de los judíos había caído sobre ellos.
+Y en toda provincia y provincia y en toda ciudad y ciudad, lugar donde palabra del rey y su ley llega, alegría y gozo a los judíos, banquete y día bueno; y muchos de pueblos de la tierra se judizaban, porque cayó terror de los judíos sobre ellos.
 
 ## Capítulo 9
 
 ### 9:1
 
-En el mes de Adar, en el día trece del mismo mes, cuando llegó la palabra del rey y su decreto, el día en que sus enemigos esperaban dominar sobre ellos, se volvió al revés, y los judíos dominaron sobre sus enemigos.
+Y en doce mes —él mes Adar— en trece día en él, que llegó palabra del rey y su ley para ser hecha, en el día que esperaron enemigos de los judíos señorear en ellos, y fue vuelto él, que señorearán los judíos ellos en sus aborrecedores.
 
 ### 9:2
 
-En sus ciudades, los judíos se reunieron para castigar a quienes les buscaban mal, y nadie se atrevió a resistirles, porque el temor de ellos había caído sobre todos los pueblos.
+Se reunieron los judíos en sus ciudades en todas provincias del rey Ajashverosh, para enviar mano en buscadores de su mal; y hombre no se plantó delante de ellos, porque cayó su terror sobre todos los pueblos.
 
 ### 9:3
 
-Todos los gobernadores de las provincias, los oficiales y los funcionarios del rey, que estaban en servicio del rey, mostraban respeto a los judíos, porque el temor de Mardoqueo había caído sobre ellos.
+Y todos príncipes de las provincias y los ajashdarpenes y los gobernadores y hacedores de la obra que al rey alzaban a los judíos, porque cayó terror de Mordojai sobre ellos.
 
 ### 9:4
 
-Porque Mardoqueo era grande en la casa del rey, y su fama se extendía por todas las provincias, porque el hombre Mardoqueo iba en aumento y era cada vez más importante.
+Porque grande Mordojai en casa del rey, y su fama anda en todas las provincias, porque el hombre Mordojai anda y grande.
 
 ### 9:5
 
-Los judíos golpearon a todos sus enemigos con la espada, el asesinato y la destrucción, y hicieron con sus enemigos lo que quisieron.
+Y hirieron los judíos en todos sus enemigos golpe de espada y matanza y aniquilación, e hicieron en sus aborrecedores según su voluntad.
 
 ### 9:6
 
-En Susa la capital, los judíos mataron a cincocientos hombres.
+Y en Shushán la fortaleza mataron los judíos y aniquilaron cinco cientos hombre.
 
 ### 9:7
 
-Y a Parshandatha, a Dalphon, a Aspata,
+Y a Parshandata y a Dalfón y a Aspata
 
 ### 9:8
 
-y a Poratha, a Adalia, a Aridatha,
+y a Porata y a Adalyá y a Aridata
 
 ### 9:9
 
-y a Parmashta, a Arisai, a Aridai, y a Vaizatha,
+y a Parmashta y a Arisai y a Aridai y a Vaizata,
 
 ### 9:10
 
-diez hijos de Haman, hijo de Hammedatha, el enemigo de los judíos, los mataron, pero no tocaron la mano de nadie que no fuera enemigo.
+diez hijos de Hamán hijo de Hamdatá, opresor de los judíos, mataron; y en el botín no enviaron su mano.
 
 ### 9:11
 
-En aquel día, se contó el número de los muertos en Susa la capital, ante el rey.
+En aquel día vino número de los matados en Shushán la fortaleza delante del rey.
 
 ### 9:12
 
-Entonces el rey dijo a la reina Ester: En Susa la capital, los judíos mataron a cincocientos hombres y a los diez hijos de Haman. ¿Qué hicieron en las demás provincias del rey? ¿Qué es lo que pides ahora y te será concedido? ¿Qué es lo que deseas aún y se te hará?
+Y dijo el rey a Ester la reina: En Shushán la fortaleza mataron los judíos y aniquilaron cinco cientos hombre y los diez hijos de Hamán; en resto de provincias del rey ¿qué hicieron? Y ¿qué tu pregunta, y se dará a ti? Y ¿qué tu petición aún, y se hará?
 
 ### 9:13
 
-Entonces Esther dijo: Si al rey le place, déjenme vivir mañana también en Susa a los judíos para que hagan lo que hoy es ley, y crucifiquen a los diez hijos de Haman.
+Y dijo Ester: Si sobre el rey bueno, se dé también mañana a los judíos que en Shushán hacer según ley de hoy, y a los diez hijos de Hamán cuelguen sobre el árbol.
 
 ### 9:14
 
-El rey respondió: Háganlo así. Se dio la orden en Susa, y crucificaron a los diez hijos de Haman.
+Y dijo el rey para ser hecho así; y fue dada ley en Shushán; y a los diez hijos de Hamán colgaron.
 
 ### 9:15
 
-Los judíos que estaban en Susa se reunieron el día catorce del mes de Adar. En Susa mataron a trescientos hombres, pero no tomaron nada de lo que les pertenecía.
+Y se reunieron los que en Shushán también en día catorce al mes Adar, y mataron en Shushán tres cientos hombre; y en el botín no enviaron su mano.
 
 ### 9:16
 
-Los judíos que estaban en las provincias del rey se reunieron para protegerse de sus enemigos y mataron a setenta y cinco mil enemigos, pero no tomaron nada de lo que les pertenecía.
+Y resto de los judíos que en provincias del rey se reunieron y estar sobre su alma, y reposo de sus enemigos, y matar en sus aborrecedores cinco y setenta mil; y en el botín no enviaron su mano.
 
 ### 9:17
 
-El día trece del mes de Adar, los judíos descansaron y celebraron el día catorce con una fiesta y alegría.
+En día trece al mes Adar, y reposo en catorce en él, y hacerlo día de banquete y alegría.
 
 ### 9:18
 
-Los judíos de Susa se reunieron el día trece y descansaron el día catorce, y celebraron el día quince con una fiesta y alegría.
+Los que en Shushán se reunieron en trece en él y en catorce en él, y reposo en quince en él, y hacerlo día de banquete y alegría.
 
 ### 9:19
 
-Por eso los judíos que vivían en las ciudades no fortificadas celebraban el día catorce del mes de Adar con alegría, fiesta y día de regocijo, y enviaban regalos a sus amigos.
+Por tanto los judíos los que habitan en ciudades de las aldeas abiertas hacen el día catorce al mes Adar alegría y banquete y día bueno, y envío de porciones hombre a su prójimo.
 
 ### 9:20
 
-Mardoqueo escribió estas cosas y las envió a todos los judíos en todas las provincias del rey Ahasveros, tanto a los cercanos como a los lejanos.
+Y escribió Mordojai estas palabras, y envió cartas a todos los judíos que en todas provincias del rey Ajashverosh, los cercanos y los lejanos,
 
 ### 9:21
 
-Les ordenó que celebraran el día catorce del mes de Adar y el día quince del mismo mes cada año.
+para confirmar sobre ellos ser haciendo el día catorce al mes Adar y el día quince en él, en todo año y año,
 
 ### 9:22
 
-Estos días en que los judíos descansaron de sus enemigos, y el mes que se convirtió de tristeza a alegría y de luto a fiesta, se celebrarían como días de fiesta y alegría, y enviarían regalos a sus amigos y a los pobres.
+como los días en que reposaron en ellos los judíos de sus enemigos, y el mes que fue vuelto a ellos de tristeza a alegría y de duelo a día bueno, para hacerlos días de banquete y alegría y envío de porciones hombre a su prójimo y dones a los pobres.
 
 ### 9:23
 
-Los judíos aceptaron lo que habían comenzado a hacer y lo que Mardoqueo les había escrito.
+Y recibieron los judíos lo que comenzaron a hacer y lo que escribió Mordojai a ellos.
 
 ### 9:24
 
-Porque Haman, hijo de Hamdatha, el agagita, enemigo de los judíos, había planeado destruir a los judíos, y había echado suertes para su destrucción y exterminio.
+Porque Hamán hijo de Hamdatá el agaguí, opresor de todos los judíos, pensó sobre los judíos para destruirlos, y echó Pur —él la suerte— para turbarlos y para destruirlos.
 
 ### 9:25
 
-Cuando llegó ante el rey, dijo con respecto al libro: Su mala intención contra los judíos ha vuelto sobre su propia cabeza, y lo colgaron a él y a sus hijos en la horca.
+Y al venir ella delante del rey, dijo con el escrito: Vuelva su pensamiento malo que pensó sobre los judíos sobre su cabeza; y colgaron a él y a sus hijos sobre el árbol.
 
 ### 9:26
 
-Por eso se llaman a estos días Purim, por el nombre de la pura. Por eso, por todas las palabras de la carta y por lo que vieron y lo que les llegó, los judíos guardan estos días.
+Por tanto llamaron a estos días Purim, sobre nombre del Pur. Por tanto, sobre todas palabras de esta carta, y qué vieron sobre así, y qué llegó a ellos,
 
 ### 9:27
 
-Los judíos se comprometieron a aceptar y a hacer esto para ellos y para sus descendientes, y para todos los que se unieron a ellos, y no pasará que hagan estas dos fiestas cada año, según lo escrito y en su tiempo.
+confirmaron los judíos sobre ellos y sobre su simiente y sobre todos los unidos a ellos —y no pasará— ser haciendo estos dos días según su escrito y según su tiempo, en todo año y año.
 
 ### 9:28
 
-Estos días se recordarán y se harán en cada generación y en cada familia, en cada provincia y en cada ciudad, y los días de Purim no pasarán de los judíos ni su memoria de sus descendientes.
+Y estos días recordados y hechos en toda generación y generación, familia y familia, provincia y provincia, y ciudad y ciudad; y días de estos Purim no pasarán de en medio de los judíos, y su memoria no cesará de su simiente.
 
 ### 9:29
 
-Entonces escribió la reina Ester, hija de Abihail, y Mardoqueo el judío todo lo que era importante para confirmar la carta de los Purim, la segunda.
+Y escribió Ester la reina hija de Avijáil y Mordojai el judío todo poder, para confirmar esta carta de los Purim la segunda.
 
 ### 9:30
 
-Y envió libros a todos los judíos, a los setenta y cinco provincias del reino de Ahasverosh, palabras de paz y verdad.
+Y envió cartas a todos los judíos a siete y veinte y cien provincia, reino de Ajashverosh, palabras de paz y verdad,
 
 ### 9:31
 
-Para confirmar los días de Purim en su tiempo, según lo que Mardoquei el judío y la reina Ester habían confirmado para ellos, y según lo que habían aceptado para sus almas y para sus descendientes, palabras de ayuno y de lamento.
+para confirmar estos días de los Purim en sus tiempos, como confirmó sobre ellos Mordojai el judío y Ester la reina, y como confirmaron sobre su alma y sobre su simiente, palabras de los ayunos y su clamor.
 
 ### 9:32
 
-Y la palabra de Ester confirmó los días de Purim, y se escribió en el libro.
+Y dicho de Ester confirmó palabras de estos Purim; y fue escrito en el libro.
 
 ## Capítulo 10
 
 ### 10:1
 
-El rey Ahasverosh impuso un tributo sobre la tierra y sobre las islas del mar.
+Y puso el rey tributo sobre la tierra y islas del mar.
 
 ### 10:2
 
-Y todo el acto de su poder y de su grandeza, y la declaración de la grandeza de Mardoqueo, que el rey había elevado, ¿no están escritos en el libro de los días de los reyes de Media y Persia?
+Y toda obra de su poder y su valor, y cuenta de grandeza de Mordojai que lo engrandeció el rey, ¿no ellos escritos sobre libro de palabras de los días a reyes de Madai y Páras?
 
 ### 10:3
 
-Porque Mardoqueo el judío era segundo al rey Ahasverosh, y grande entre los judíos, y aceptado por la mayoría de sus hermanos, buscaba el bienestar de su pueblo y hablaba paz a todos sus descendientes.
+Porque Mordojai el judío segundo al rey Ajashverosh, y grande a los judíos, y acepto a muchedumbre de sus hermanos, buscando bien a su pueblo y hablando paz a toda su simiente.

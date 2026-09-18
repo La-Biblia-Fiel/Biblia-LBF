@@ -1,6 +1,6 @@
 # Levítico
 
-> La Biblia Fiel — Levítico. Segunda pasada contra OSHB / WLC en curso (voz Génesis). Requiere revisión humana completa antes de `done`.
+> La Biblia Fiel — Levítico. Segunda pasada contra OSHB / WLC (voz Génesis), pulida. Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
@@ -11,7 +11,7 @@ Y llamó a Moisés, y habló Jehová a él desde tienda de reunión, diciendo:
 
 ### 1:2
 
-Habla a hijos de Israel, y dirás a ellos: Adam, cuando acercare de ustedes ofrenda a Jehová, desde la bestia, desde el ganado y desde el rebaño, acercarán su ofrenda.
+Habla a hijos de Israel, y dirás a ellos: Adam, cuando acerque de ustedes ofrenda a Jehová, desde la bestia, desde el ganado y desde el rebaño, acercarán su ofrenda.
 
 ### 1:3
 
@@ -23,7 +23,7 @@ Y apoyará su mano sobre cabeza del holocausto, y será aceptado a él para expi
 
 ### 1:5
 
-Y degollará al hijo del ganado delante de Jehová, y acercarán hijos de Aarón, los sacerdotes, la sangre, y echarán la sangre sobre el altar alrededor, que abertura de tienda de reunión.
+Y degollará al hijo del ganado delante de Jehová, y acercarán hijos de Aarón, los sacerdotes, la sangre, y echarán la sangre sobre el altar alrededor, que a abertura de tienda de reunión.
 
 ### 1:6
 
@@ -77,7 +77,7 @@ Y lo rasgará en sus alas; no separará. Y hará humear a él el sacerdote hacia
 
 ### 2:1
 
-Y alma, cuando acercare ofrenda de minjá a Jehová, sólet será su ofrenda, y derramará sobre ella aceite, y dará sobre ella incienso.
+Y alma, cuando acerque ofrenda de minjá a Jehová, sólet será su ofrenda, y derramará sobre ella aceite, y dará sobre ella incienso.
 
 ### 2:2
 
@@ -89,7 +89,7 @@ Y lo restante desde la minjá a Aarón y a sus hijos; santidad de santidades des
 
 ### 2:4
 
-Y cuando acercares ofrenda de minjá, cocido de horno, sólet, tortas ázimas amasadas en el aceite, y obleas ázimas untadas en el aceite.
+Y cuando acerques ofrenda de minjá, cocido de horno, sólet, tortas ázimas amasadas en el aceite, y obleas ázimas untadas en el aceite.
 
 ### 2:5
 
@@ -129,7 +129,7 @@ Y toda ofrenda de tu minjá con sal salarás, y no harás cesar sal de pacto de 
 
 ### 2:14
 
-Y si acercares minjá de primicias a Jehová, Aviv tostado en el fuego, grosero de karmel acercarás la minjá de tus primicias.
+Y si acerques minjá de primicias a Jehová, Aviv tostado en el fuego, grosero de karmel acercarás la minjá de tus primicias.
 
 ### 2:15
 
@@ -147,7 +147,7 @@ Y si sacrificio de pazes su ofrenda, si desde el ganado él acercante, si macho 
 
 ### 3:2
 
-Y apoyará su mano sobre cabeza de su ofrenda, y la degollará abertura de tienda de reunión, y echarán hijos de Aarón, los sacerdotes, la sangre sobre el altar alrededor.
+Y apoyará su mano sobre cabeza de su ofrenda, y la degollará a abertura de tienda de reunión, y echarán hijos de Aarón, los sacerdotes, la sangre sobre el altar alrededor.
 
 ### 3:3
 
@@ -217,7 +217,7 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 4:2
 
-Habla a hijos de Israel, diciendo: Alma, cuando pecare por error desde todas mandamientos de Jehová que no se harán, y hiciere desde una desde ellas:
+Habla a hijos de Israel, diciendo: Alma, cuando peque por error desde todos mandamientos de Jehová que no se harán, y hiciere desde una desde ellas:
 
 ### 4:3
 
@@ -237,7 +237,7 @@ Y mojará el sacerdote su dedo en la sangre, y rociará desde la sangre siete ve
 
 ### 4:7
 
-Y dará el sacerdote desde la sangre sobre cuernos de altar de incienso de los aromas delante de Jehová que en tienda de reunión, y toda sangre del toro derramará a base de altar del holocausto que abertura de tienda de reunión.
+Y dará el sacerdote desde la sangre sobre cuernos de altar de incienso de los aromas delante de Jehová que en tienda de reunión, y toda sangre del toro derramará a base de altar del holocausto que a abertura de tienda de reunión.
 
 ### 4:8
 
@@ -265,7 +265,7 @@ Y si toda congregación de Israel errare, y se ocultare cosa desde ojos de la as
 
 ### 4:14
 
-y fuere conocida el pecado que pecaron sobre ella, y acercarán la asamblea toro hijo de ganado a pecado, y lo traerán delante de tienda de reunión.
+y fuere conocido el pecado que pecaron sobre ella, y acercarán la asamblea toro hijo de ganado a pecado, y lo traerán delante de tienda de reunión.
 
 ### 4:15
 
@@ -281,7 +281,7 @@ Y mojará el sacerdote su dedo desde la sangre, y rociará siete veces delante d
 
 ### 4:18
 
-Y desde la sangre dará sobre cuernos del altar que delante de Jehová que en tienda de reunión, y toda la sangre derramará a base de altar del holocausto que abertura de tienda de reunión.
+Y desde la sangre dará sobre cuernos del altar que delante de Jehová que en tienda de reunión, y toda la sangre derramará a base de altar del holocausto que a abertura de tienda de reunión.
 
 ### 4:19
 
@@ -355,7 +355,7 @@ Y toda su grasa quitará, conforme a lo que se quita grasa del cordero desde sac
 
 ### 5:1
 
-Y alma, cuando pecare, y oyere voz de maldición, y él testigo, o vio o conoció, si no declarare, y alzará su iniquidad.
+Y alma, cuando peque, y oyere voz de maldición, y él testigo, o vio o conoció, si no declarare, y alzará su iniquidad.
 
 ### 5:2
 
@@ -437,11 +437,11 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 6:2
 
-Alma, cuando pecare y perpetrare perpetración en Jehová, y mentire en su compañero en depósito, o en puesta de mano, o en robo, o oprimiere a su compañero,
+Alma, cuando pecare y perpetrare perpetración en Jehová, y mintiere en su compañero en depósito, o en puesta de mano, o en robo, o oprimiere a su compañero,
 
 ### 6:3
 
-o hallare pérdida y mentire en ella, y jurare sobre mentira, sobre una desde todo lo que hiciere el adam a pecar en ellas:
+o hallare pérdida y mintiere en ella, y jurare sobre mentira, sobre una desde todo lo que hiciere el adam a pecar en ellas:
 
 ### 6:4
 
@@ -829,7 +829,7 @@ Y tomó Moisés desde aceite de la unción y desde la sangre que sobre el altar,
 
 ### 8:31
 
-Y dijo Moisés a Aarón y a sus hijos: Cocerán la carne abertura de tienda de reunión, y allí la comerán, y el pan que en canasta de las llenuras, conforme a lo que mandé, diciendo: Aarón y sus hijos lo comerán.
+Y dijo Moisés a Aarón y a sus hijos: Cocerán la carne a abertura de tienda de reunión, y allí la comerán, y el pan que en canasta de las llenuras, conforme a lo que mandé, diciendo: Aarón y sus hijos lo comerán.
 
 ### 8:32
 
@@ -845,11 +845,11 @@ Conforme a lo que hizo en el día este, mandó Jehová a hacer para expiar sobre
 
 ### 8:35
 
-Y abertura de tienda de reunión se sentarán día y noche siete días, y guardarán guarda de Jehová, y no morirán, porque así fui mandado.
+Y a abertura de tienda de reunión se sentarán día y noche siete días, y guardarán guarda de Jehová, y no morirán, porque así fui mandado.
 
 ### 8:36
 
-Y hizo Aarón y sus hijos todas las palabras que mandó Jehová en mano de Moisés.
+Y hicieron Aarón y sus hijos todas las palabras que mandó Jehová en mano de Moisés.
 
 ## Capítulo 9
 
@@ -871,7 +871,7 @@ y toro y carnero a pazes, a sacrificar delante de Jehová, y minjá amasada en e
 
 ### 9:5
 
-Y tomaron lo que mandó Moisés a faces de tienda de reunión, y se acercaron toda la congregación, y se pararon delante de Jehová.
+Y tomaron lo que mandó Moisés a faces de tienda de reunión, y se acercó toda la congregación, y se pararon delante de Jehová.
 
 ### 9:6
 
@@ -943,7 +943,7 @@ Y alzó Aarón su mano al pueblo, y los bendijo, y descendió desde hacer el pec
 
 ### 9:23
 
-Y entró Moisés y Aarón a tienda de reunión, y salieron y bendijeron al pueblo, y se apareció gloria de Jehová a todo el pueblo.
+Y entraron Moisés y Aarón a tienda de reunión, y salieron y bendijeron al pueblo, y se apareció gloria de Jehová a todo el pueblo.
 
 ### 9:24
 
@@ -953,7 +953,7 @@ Y salió fuego de delante de Jehová, y comió sobre el altar el holocausto y la
 
 ### 10:1
 
-Y tomaron hijos de Aarón, Nadav y Avihú, varón su brasero, y dieron en ellas fuego, y pusieron sobre ella incienso, y acercaron delante de Jehová fuego extraño, que no mandó a ellos.
+Y tomaron hijos de Aarón, Nadav y Avihú, varón su brasero, y dieron en ellos fuego, y pusieron sobre él incienso, y acercaron delante de Jehová fuego extraño, que no mandó a ellos.
 
 ### 10:2
 
@@ -961,11 +961,11 @@ Y salió fuego de delante de Jehová, y los comió, y murieron delante de Jehov�
 
 ### 10:3
 
-Y dijo Moisés a Aarón: Ello lo que habló Jehová, diciendo: En mis cercanos seré santificado, y sobre faces de todo el pueblo seré glorificado. Y calló Aarón.
+Y dijo Moisés a Aarón: Esto es lo que habló Jehová, diciendo: En mis cercanos seré santificado, y sobre faces de todo el pueblo seré glorificado. Y calló Aarón.
 
 ### 10:4
 
-Y llamó Moisés a Mishael y a Eltsafán, hijos de Uziel, tío de Aarón, y dijo a ellos: Acercaos, alcen a sus hermanos de parte de faces de la santidad a fuera al campamento.
+Y llamó Moisés a Mishael y a Eltsafán, hijos de Uziel, tío de Aarón, y dijo a ellos: Acérquense, alcen a sus hermanos de parte de faces de la santidad a fuera al campamento.
 
 ### 10:5
 
@@ -973,7 +973,7 @@ Y se acercaron, y los alzaron en sus túnicas a fuera al campamento, conforme a 
 
 ### 10:6
 
-Y dijo Moisés a Aarón y a Elazar y a Itamar, sus hijos: Sus cabezas no desmelenen, y sus vestidos no rasgarán, y no morirán, y sobre toda la congregación no se enfurecerá; y sus hermanos, toda casa de Israel, llorarán la quema que quemó Jehová.
+Y dijo Moisés a Aarón y a Elazar y a Itamar, sus hijos: Sus cabezas no desmelenen, y sus vestidos no rasguen, y no morirán, y sobre toda la congregación no se enfurecerá; y sus hermanos, toda casa de Israel, llorarán la quema que quemó Jehová.
 
 ### 10:7
 
@@ -997,7 +997,7 @@ y para enseñar a hijos de Israel todos los estatutos que habló Jehová a ellos
 
 ### 10:12
 
-Y habló Moisés a Aarón y a Elazar y a Itamar, sus hijos los restantes: Tomen la minjá la restante desde ofrendas de fuego de Jehová, y la coman ázimos junto al altar, porque santidad de santidades ella.
+Y habló Moisés a Aarón y a Elazar y a Itamar, sus hijos los restantes: Tomen la minjá la restante desde ofrendas de fuego de Jehová, y cómanla ázimos junto al altar, porque santidad de santidades ella.
 
 ### 10:13
 
@@ -1017,7 +1017,7 @@ Y el macho cabrío del pecado buscando buscó Moisés, y he aquí quemado, y se 
 
 ### 10:17
 
-¿Por qué no comieron el pecado en lugar de la santidad, porque santidad de santidades ella, y a ella dio a ustedes para alzar iniquidad de la congregación, para expiar sobre ellos delante de Jehová?
+¿Por qué no comieron el pecado en lugar de la santidad? Porque santidad de santidades ella, y a ella dio a ustedes para alzar iniquidad de la congregación, para expiar sobre ellos delante de Jehová.
 
 ### 10:18
 
@@ -1025,7 +1025,7 @@ He aquí no fue traída su sangre a la santidad adentro; comiendo comerán a ell
 
 ### 10:19
 
-Y habló Aarón a Moisés: He aquí hoy acercaron su pecado y su holocausto delante de Jehová, y me hallaron como estas, y comí pecado hoy; ¿será bueno en ojos de Jehová?
+Y habló Aarón a Moisés: He aquí hoy acercaron su pecado y su holocausto delante de Jehová, y me han hallado como estas, y comí pecado hoy; ¿será bueno en ojos de Jehová?
 
 ### 10:20
 
@@ -1039,7 +1039,7 @@ Y habló Jehová a Moisés y a Aarón, diciendo a ellos:
 
 ### 11:2
 
-Hablen a hijos de Israel, diciendo: Esta la bestia viva que comerán desde todo el animal que sobre la tierra.
+Hablen a hijos de Israel, diciendo: Esta es la bestia viva que comerán desde todo el animal que sobre la tierra.
 
 ### 11:3
 
@@ -1237,11 +1237,11 @@ Y en el día el octavo será circuncidada carne de su prepucio.
 
 ### 12:4
 
-Y treinta día y tres días se sentará en sangres de purificación; en toda santidad no tocará, y a el mikdash no vendrá hasta llenarse días de su purificación.
+Y treinta días y tres días se sentará en sangres de purificación; en toda santidad no tocará, y al mikdash no vendrá hasta llenarse días de su purificación.
 
 ### 12:5
 
-Y si hembra diere a luz, y se impurecerá dos semanas como su menstruación, y sesenta día y seis días se sentará sobre sangres de purificación.
+Y si hembra diere a luz, y se impurecerá dos semanas como su menstruación, y sesenta días y seis días se sentará sobre sangres de purificación.
 
 ### 12:6
 
@@ -1249,7 +1249,7 @@ Y en llenarse días de su purificación a hijo o a hija, traerá cordero hijo de
 
 ### 12:7
 
-Y lo acercará delante de Jehová, y expiará sobre ella, y será pura desde fuente de sus sangres. Esta torá de la pariente, al macho o a la hembra.
+Y lo acercará delante de Jehová, y expiará sobre ella, y será pura desde fuente de sus sangres. Esta torá de la que da a luz, al macho o a la hembra.
 
 ### 12:8
 
@@ -1509,7 +1509,7 @@ Y saldrá el sacerdote a fuera al campamento, y verá el sacerdote, y he aquí s
 
 ### 14:4
 
-Y mandará el sacerdote, y tomará al que se purifica dos pájaros vivas, puras, y madera de erez y carmesí y ezov.
+Y mandará el sacerdote, y tomará al que se purifica dos pájaros vivos, puros, y madera de erez y carmesí y ezov.
 
 ### 14:5
 
@@ -1529,7 +1529,7 @@ Y lavará el que se purifica sus vestidos, y afeitará todo su pelo, y se lavar�
 
 ### 14:9
 
-Y será en el día el séptimo afeitará todo su pelo: su cabeza y su barba y cejas de sus ojos, y todo su pelo afeitará, y lavará sus vestidos, y lavará su carne en las aguas, y será puro.
+Y será en el día el séptimo: afeitará todo su pelo —su cabeza y su barba y cejas de sus ojos—, y todo su pelo afeitará, y lavará sus vestidos, y lavará su carne en las aguas, y será puro.
 
 ### 14:10
 
@@ -1629,7 +1629,7 @@ Y habló Jehová a Moisés y a Aarón, diciendo:
 
 ### 14:34
 
-Cuando entraren a tierra de Kenáan que yo dando a ustedes a posesión, y daré plaga de tsaráat en casa de tierra de su posesión,
+Cuando entraren a tierra de Canaán que yo dando a ustedes a posesión, y daré plaga de tsaráat en casa de tierra de su posesión,
 
 ### 14:35
 
@@ -1823,7 +1823,7 @@ Y si acostando se acostare varón con ella, y fuere su menstruación sobre él, 
 
 ### 15:25
 
-Y mujer, cuando fluyere flujo de su sangre días muchos, no en tiempo de su menstruación, o cuando fluyere sobre su menstruación, todos días de flujo de su impureza como días de su menstruación será; impure ella.
+Y mujer, cuando fluyere flujo de su sangre días muchos, no en tiempo de su menstruación, o cuando fluyere sobre su menstruación, todos días de flujo de su impureza como días de su menstruación será; impura ella.
 
 ### 15:26
 
@@ -1905,7 +1905,7 @@ Y acercará Aarón el toro del pecado que a él, y expiará por él y por su cas
 
 ### 16:12
 
-Y tomará lleno el incensario brasas de fuego de sobre el altar, de delante de Jehová, y lleno sus puños incienso de especias molida, y traerá desde casa a la parójet.
+Y tomará lleno el incensario brasas de fuego de sobre el altar, de delante de Jehová, y llenos sus puños incienso de especias molida, y traerá desde casa a la parójet.
 
 ### 16:13
 
@@ -1995,7 +1995,6 @@ Y expiará santuario del santo, y tienda de reunión y el altar expiará, y sobr
 
 Y será esto a ustedes a estatuto de siempre, para expiar sobre hijos de Israel desde todos sus pecados, una en el año. Y hizo conforme a lo que mandó Jehová a Moisés.
 
-
 ## Capítulo 17
 
 ### 17:1
@@ -2004,7 +2003,7 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 17:2
 
-Habla a Aarón y a sus hijos y a todos hijos de Israel, y dirás a ellos: Esta la palabra que mandó Jehová, diciendo:
+Habla a Aarón y a sus hijos y a todos hijos de Israel, y dirás a ellos: Esta es la palabra que mandó Jehová, diciendo:
 
 ### 17:3
 
@@ -2061,7 +2060,6 @@ Y toda alma que comiere cadáver y despedazado, en el nativo y en el peregrino, 
 ### 17:16
 
 Y si no lavare, y su carne no lavare, y llevará su iniquidad.
-
 
 ## Capítulo 18
 
@@ -2184,7 +2182,6 @@ Porque todo que hiciere desde todas las abominaciones estas, y serán cortadas l
 ### 18:30
 
 Y guardarán mi guarda, para no hacer desde estatutos de las abominaciones que fueron hechas delante de ustedes, y no se contaminen en ellas; yo Jehová su Dios.
-
 
 ## Capítulo 19
 
@@ -2686,816 +2683,816 @@ el sacante a ustedes desde tierra de Mizraim para ser a ustedes a Dios; yo Jehov
 
 ### 23:1
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 23:2
 
-Hablarás a los hijos de Israel y les dirás: Los festivales del SEÑOR que llamarán, serán convocatorias santas; estas son mis festivales.
+Habla a hijos de Israel, y dirás a ellos: Tiempos señalados de Jehová, que ustedes llamarán a ellos convocaciones de santidad; estos ellos, mis tiempos señalados.
 
 ### 23:3
 
-Seis días harán sus labores, pero el séptimo día será día de reposo, convocatoria santa; toda labor no harán; será día de reposo para el SEÑOR en todas sus moradas.
+Seis días será hecha obra, y en el día el séptimo shabat de shabatón, convocación de santidad; toda obra no harán; shabat ella a Jehová en todas moradas de ustedes.
 
 ### 23:4
 
-Estos son los festivales del SEÑOR, convocatorias santas; estas son mis festivales.
+Estos tiempos señalados de Jehová, convocaciones de santidad, que ustedes llamarán a ellos en su tiempo señalado.
 
 ### 23:5
 
-En el mes primero, a los catorce del mes, entre las dos tardes, será la pascua del SEÑOR.
+En el mes el primero, en catorce al mes, entre las tardes, Pésaj a Jehová.
 
 ### 23:6
 
-Y al quince del mes, festividad de los panes sin levadura al SEÑOR; siete días comeréis panes sin levadura.
+Y en quince día a este mes, fiesta de los panes ázimos a Jehová; siete días panes ázimos comerán.
 
 ### 23:7
 
-En el día primero será convocatoria santa; toda labor servil no haréis.
+En el día el primero convocación de santidad será a ustedes; toda obra de servicio no harán.
 
 ### 23:8
 
-Y ofreceréis holocausto al SEÑOR siete días; en el día séptimo será convocatoria santa; toda labor servil no haréis.
+Y acercarán ofrenda de fuego a Jehová siete días; en el día el séptimo convocación de santidad; toda obra de servicio no harán.
 
 ### 23:9
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 23:10
 
-Hablarás a los hijos de Israel y les dirás: Cuando entréis en la tierra que yo os doy, y recogáis la cosecha, traeréis al sacerdote un manojo de la primera cosecha.
+Habla a hijos de Israel, y dirás a ellos: Cuando entren a la tierra que yo dando a ustedes, y sieguen su cosecha, y traerán ómer de principio de cosecha de ustedes al sacerdote.
 
 ### 23:11
 
-Y el sacerdote lo elevará delante del SEÑOR por vuestra voluntad, el día después del sábado, el sacerdote lo elevará.
+Y balanceará el ómer delante de Jehová a agrado de ustedes; desde mañana del shabat lo balanceará el sacerdote.
 
 ### 23:12
 
-Y haréis en el día que elevéis el manojo, un cordero sin defecto de un año por holocausto al SEÑOR.
+Y harán en día de su balancear el ómer cordero íntegro hijo de su año a holocausto a Jehová.
 
 ### 23:13
 
-Y su ofrenda de harina será dos décimos de un efa de harina amasada con aceite, incienso al SEÑOR por aroma grato, y su libación será cuarto de hin de vino.
+Y su minjá dos décimos sólet mezclada en el aceite, ofrenda de fuego a Jehová, olor de reposo; y su libación vino cuarto del hin.
 
 ### 23:14
 
-Y pan y mosto y higos secos no comeréis hasta el día siguiente, hasta traer vuestra ofrenda a vuestro Dios; estatuto perpetuo para vuestras generaciones en todas vuestras moradas.
+Y pan y tostado y karmel no comerán hasta hueso de este día, hasta su traer la ofrenda de Dios de ustedes; estatuto de siempre a generaciones de ustedes en todas moradas de ustedes.
 
 ### 23:15
 
-Y contaréis para vosotros desde el día después del sábado, desde el día que trajisteis el manojo de la ofrenda de elevación, siete semanas completas contaréis.
+Y contarán a ustedes desde mañana del shabat, desde día de su traer el ómer del balanceo; siete shabats íntegros serán.
 
 ### 23:16
 
-Hasta el día después del sábado séptimo contaréis cincuenta días, y ofreceréis un pan nuevo al SEÑOR.
+Hasta desde mañana del shabat el séptimo contarán cincuenta día; y acercarán minjá nueva a Jehová.
 
 ### 23:17
 
-Traeréis de vuestros lugares pan de ofrenda de dos corderos de un año, harina de cebada serán, horneados con levadura, primicias para el SEÑOR.
+Desde moradas de ustedes traerán pan de balanceo, dos; dos décimos sólet serán; leudado serán horneadas; primicias a Jehová.
 
 ### 23:18
 
-Ofreceréis sobre el pan siete corderos sin defecto de un año, un becerro de vaca, y dos carneros; serán holocausto al SEÑOR, y su ofrenda y sus libaciones, fuego de aroma agradable al SEÑOR.
+Y acercarán sobre el pan siete corderos íntegros hijos de año, y toro hijo de ganado uno, y carneros dos; serán holocausto a Jehová, y su minjá y sus libaciones, ofrenda de fuego, olor de reposo a Jehová.
 
 ### 23:19
 
-Haréis un cabrito de cabra por pecado, y dos corderos de un año por ofrenda de paz.
+Y harán macho cabrío de cabras uno a pecado, y dos corderos hijos de año a sacrificio de pazes.
 
 ### 23:20
 
-El sacerdote los elevará sobre el pan de las primicias como ofrenda delante del SEÑOR, sobre los dos corderos; santo serán al SEÑOR para el sacerdote.
+Y balanceará el sacerdote a ellos sobre pan de las primicias balanceo delante de Jehová sobre dos corderos; santidad serán a Jehová al sacerdote.
 
 ### 23:21
 
-Y proclamaréis en el día de este día una convocatoria santísima será para vosotros; toda obra servil no haréis, estatuto perpetuo en todos vuestros lugares para vuestras generaciones.
+Y llamarán en hueso de este día convocación de santidad será a ustedes; toda obra de servicio no harán; estatuto de siempre en todas moradas de ustedes a generaciones de ustedes.
 
 ### 23:22
 
-Y en la siega de vuestra siega no recogeréis todo el borde de tu campo, ni recogerás la espigada de tu siega; la dejarás para el pobre y para el extranjero; yo soy el SEÑOR vuestro Dios.
+Y en su segar la cosecha de su tierra, no acabarás el extremo de tu campo en tu segar, y rebusco de tu cosecha no rebuscarás; al pobre y al peregrino dejarás a ellos; yo Jehová Dios de ustedes.
 
 ### 23:23
 
-Y habló el SEÑOR a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 23:24
 
-Habla a los hijos de Israel diciendo: En el mes séptimo, en el primer día del mes, será para vosotros día de reposo, recordadlo como toque de trompeta, convocatoria santísima.
+Habla a hijos de Israel, diciendo: En el mes el séptimo, en uno al mes, será a ustedes shabatón, memorial de teruá, convocación de santidad.
 
 ### 23:25
 
-Toda obra servil no haréis, y ofreceréis un holocausto al SEÑOR.
+Toda obra de servicio no harán, y acercarán ofrenda de fuego a Jehová.
 
 ### 23:26
 
-Y habló el SEÑOR a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 23:27
 
-Pero en el diez del mes séptimo este día será de expiación, será convocatoria santísima para vosotros, y afligiréis vuestras almas, y ofreceréis un holocausto al SEÑOR.
+Solo en el diez al mes el séptimo este, día de las expiaciones él; convocación de santidad será a ustedes, y humillarán sus almas, y acercarán ofrenda de fuego a Jehová.
 
 ### 23:28
 
-Y no haréis ningún trabajo en aquel mismo día, porque es día de propiciación para haceros propicia la SEÑOR, ante Jehová vuestro Dios.
+Y toda obra no harán en hueso de este día, porque día de expiaciones él, para expiar sobre ustedes delante de Jehová Dios de ustedes.
 
 ### 23:29
 
-Porque toda alma que no se afligiere en aquel mismo día será cortada de entre su pueblo.
+Porque toda el alma que no se humillare en hueso de este día, y será cortada desde sus pueblos.
 
 ### 23:30
 
-Y toda alma que hiciere trabajo en aquel mismo día, yo destruiré a aquella alma de en medio de su pueblo.
+Y toda el alma que hiciere toda obra en hueso de este día, y haré perecer el alma aquella desde medio de su pueblo.
 
 ### 23:31
 
-No haréis ningún trabajo, estatuto perpetuo para vuestras generaciones, en todas vuestras moradas.
+Toda obra no harán; estatuto de siempre a generaciones de ustedes en todas moradas de ustedes.
 
 ### 23:32
 
-Es sábado de reposo para vosotros, y afligiréis vuestras almas en el noveno día del mes al atardecer, desde la tarde hasta la tarde, reposaréis el sábado.
+Shabat de shabatón él a ustedes, y humillarán sus almas; en nueve al mes, en la tarde, desde tarde hasta tarde cesarán shabat de ustedes.
 
 ### 23:33
 
-Y habló Jehová a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 23:34
 
-Habla a los hijos de Israel diciendo: Al quince del mes séptimo, en este día, será fiesta de cabañas a Jehová, siete días.
+Habla a hijos de Israel, diciendo: En quince día al mes el séptimo este, fiesta de las cabañas siete días a Jehová.
 
 ### 23:35
 
-En el día primero será convocatoria santísima, todo trabajo servil no haréis.
+En el día el primero convocación de santidad; toda obra de servicio no harán.
 
 ### 23:36
 
-Siete días ofreceréis ofrenda a Jehová, en el día octavo será convocatoria santísima para vosotros, y ofreceréis ofrenda a Jehová, festividad será, todo trabajo servil no haréis.
+Siete días acercarán ofrenda de fuego a Jehová; en el día el octavo convocación de santidad será a ustedes, y acercarán ofrenda de fuego a Jehová; atséret ella; toda obra de servicio no harán.
 
 ### 23:37
 
-Estos son los festivales de Jehová, que convocaréis por convocatorias santas, para ofrecer ofrenda a Jehová, holocausto, y ofrenda de cereal, sacrificio y libación, conforme al día en su día.
+Estos tiempos señalados de Jehová, que ustedes llamarán a ellos convocaciones de santidad, para acercar ofrenda de fuego a Jehová, holocausto y minjá, sacrificio y libaciones, palabra de día en su día,
 
 ### 23:38
 
-Aparte de los sábados de Jehová, y aparte de vuestras ofrendas voluntarias, y aparte de todos vuestros votos y aparte de todos vuestros ofrecimientos voluntarios, que ofreciereis a Jehová.
+aparte de shabats de Jehová, y aparte de dones de ustedes, y aparte de todos votos de ustedes, y aparte de todas voluntarias de ustedes que darán a Jehová.
 
 ### 23:39
 
-Pero al quince del mes séptimo, cuando recogiereis la cosecha de la tierra, celebrareis la fiesta a Jehová siete días, en el día primero será sábado de reposo, y en el día octavo será sábado de reposo.
+Solo en quince día al mes el séptimo, en su recoger el producto de la tierra, celebrarán la fiesta de Jehová siete días; en el día el primero shabatón, y en el día el octavo shabatón.
 
 ### 23:40
 
-Tomad para vosotros en el día primero frutos de árboles de hermosura, palmas, ramas de árboles de hojas verdes y sauces, y gozaréis delante del SEÑOR vuestro Dios siete días.
+Y tomarán a ustedes en el día el primero fruto de árbol de hermosura, palmas de palmeras, y rama de árbol espeso, y sauces de torrente, y se alegrarán delante de Jehová Dios de ustedes siete días.
 
 ### 23:41
 
-Celebraréislo como fiesta al SEÑOR siete días al año; por siempre será ley perpetua para vuestras generaciones en el séptimo mes celebraréislo.
+Y la celebrarán fiesta a Jehová siete días en el año; estatuto de siempre a generaciones de ustedes; en el mes el séptimo la celebrarán.
 
 ### 23:42
 
-Dormiréis en cabañas siete días; todo varón de Israel dormirá en cabañas.
+En las cabañas habitarán siete días; todo el nativo en Israel habitarán en las cabañas,
 
 ### 23:43
 
-Para que vuestros hijos sepan que en cabañas me hicieron morar a los hijos de Israel cuando los saqué de la tierra de Egipto. Yo soy el SEÑOR vuestro Dios.
+a fin de que conozcan generaciones de ustedes que en las cabañas hice habitar a hijos de Israel en mi sacar a ellos desde tierra de Mizraim; yo Jehová Dios de ustedes.
 
 ### 23:44
 
-Y habló Moisés a los hijos de Israel las fiestas del SEÑOR.
+Y habló Moisés los tiempos señalados de Jehová a hijos de Israel.
 
 ## Capítulo 24
 
 ### 24:1
 
-Y habló el SEÑOR a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 24:2
 
-Ordena a los hijos de Israel que te traigan aceite de oliva puro, de la mejor calidad, para la luz, para encender la lámpara siempre.
+Manda a hijos de Israel, y tomen a ti aceite de olivo puro molido a la lumbrera, para hacer subir lámpara siempre.
 
 ### 24:3
 
-Fuera del velo del testimonio, en la tienda de reunión, Aaron la ordenará de la tarde hasta la mañana delante del SEÑOR siempre; ley perpetua para vuestras generaciones.
+Desde fuera a la parójet del testimonio en tienda de reunión lo ordenará Aarón desde tarde hasta mañana delante de Jehová siempre; estatuto de siempre a generaciones de ustedes.
 
 ### 24:4
 
-Sobre la lámpara pura ordenará las luces delante del SEÑOR siempre.
+Sobre la menorá la pura ordenará las lámparas delante de Jehová siempre.
 
 ### 24:5
 
-Y tomarás harina y la harás panes, doce panes; doce codos será el pan.
+Y tomarás sólet, y la hornearás doce tortas; dos décimos será la torta la una.
 
 ### 24:6
 
-Y pondráslos en dos filas sobre el altar puro delante del SEÑOR.
+Y pondrás a ellos dos filas, seis la fila, sobre la mesa la pura delante de Jehová.
 
 ### 24:7
 
-Y pondrás sobre cada fila incienso puro, y será pan de ofrenda recordatoria, holocausto al SEÑOR.
+Y darás sobre la fila incienso puro, y será al pan a memorial, ofrenda de fuego a Jehová.
 
 ### 24:8
 
-Y en el día de la semana de la semana pondráslo delante del SEÑOR en orden continuo; será un pacto eterno con los israelitas.
+En día del shabat, en día del shabat, lo ordenará delante de Jehová siempre, de parte de hijos de Israel, pacto de siempre.
 
 ### 24:9
 
-Y será para Aarón y para sus hijos, y lo comerán en un lugar santo, porque es muy santo para él de entre las llamas del SEÑOR; será un decreto eterno.
+Y será a Aarón y a sus hijos, y lo comerán en lugar santo, porque santidad de santidades él a él desde ofrendas de fuego de Jehová, estatuto de siempre.
 
 ### 24:10
 
-Y salió un hijo de una mujer israelita, y su padre era egipcio, en medio de los israelitas; y un hijo de la mujer israelita y un israelita se pelearon en el campamento.
+Y salió hijo de mujer israelita, y él hijo de varón mizrí, en medio de hijos de Israel; y riñeron en el campamento el hijo de la israelita y varón el israelita.
 
 ### 24:11
 
-Y el hijo de la mujer israelita profirió el nombre y maldijo, y lo llevaron a Moisés. El nombre de su madre era Shelomith, hija de Dibri, de la tribu de Dan.
+Y perforó el hijo de la mujer la israelita el Nombre, y maldijo; y lo trajeron a Moisés. Y nombre de su madre Shelomít, hija de Divrí, a tribu de Dan.
 
 ### 24:12
 
-Y lo dejaron en la prisión para que se le diera sentencia conforme a la ley del SEÑOR.
+Y lo depositaron en la guarda, para aclarar a ellos sobre boca de Jehová.
 
 ### 24:13
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 24:14
 
-Sácalo fuera del campamento y todos los que lo oyeron pondrán sus manos sobre su cabeza y toda la congregación lo apedreará.
+Saca al maldiciente a fuera al campamento, y apoyarán todos los oidores sus manos sobre su cabeza, y lo apedrearán toda la congregación.
 
 ### 24:15
 
-Y hablarás a los israelitas diciendo: Cualquiera que maldiga a su Dios llevará su culpa.
+Y a hijos de Israel hablarás, diciendo: Varón varón cuando maldijere a su Dios, y alzará su pecado.
 
 ### 24:16
 
-Y quien profiera el nombre del SEÑOR morirá; toda la congregación lo apedreará, al extranjero y al natural, al profiriendo el nombre morirá.
+Y perforante de nombre de Jehová, de morir morirá; apedreando lo apedrearán toda la congregación; como el peregrino como el nativo, en su perforar Nombre, morirá.
 
 ### 24:17
 
-Y si alguien hiera a un ser humano, morirá.
+Y varón cuando hiriere toda alma de adam, de morir morirá.
 
 ### 24:18
 
-Y quien hiera a un animal, lo reemplazará con otro; vida por vida.
+Y hiriente de alma de bestia, la pagará; alma debajo de alma.
 
 ### 24:19
 
-Y si alguien causa un daño a su prójimo, se le hará lo mismo que él hizo.
+Y varón cuando diere defecto en su compañero, conforme a lo que hizo, así será hecho a él:
 
 ### 24:20
 
-diente por diente, ojo por ojo, mano por mano, pie por pie, quemadura por quemadura, herida por herida, golpe por golpe.
+quebradura debajo de quebradura, ojo debajo de ojo, diente debajo de diente; conforme a lo que diere defecto en el adam, así será dado en él.
 
 ### 24:21
 
-El que hiera a un animal, lo reemplazará; y el que hiera a un hombre morirá.
+Y hiriente de bestia, la pagará; y hiriente de adam, morirá.
 
 ### 24:22
 
-Tendrá un solo juicio para ustedes: como el extranjero, así el natural; porque yo, el SEÑOR, soy su Dios.
+Juicio uno será a ustedes; como el peregrino como el nativo será; porque yo Jehová Dios de ustedes.
 
 ### 24:23
 
-Moshé habló a los israelitas, y sacaron al que maldijo fuera del campamento, y lo apedrearon; y los israelitas hicieron como el SEÑOR había ordenado a Moshé.
+Y habló Moisés a hijos de Israel, y sacaron al maldiciente a fuera al campamento, y lo apedrearon piedra; e hijos de Israel hicieron conforme a lo que mandó Jehová a Moisés.
 
 ## Capítulo 25
 
 ### 25:1
 
-El SEÑOR habló a Moshé en el monte Sinaí, diciendo:
+Y habló Jehová a Moisés en monte Sinai, diciendo:
 
 ### 25:2
 
-Habla a los israelitas y diles: Cuando entren a la tierra que yo les doy, la tierra descansará en el día de reposo del SEÑOR.
+Habla a hijos de Israel, y dirás a ellos: Cuando entraren a la tierra que yo dando a ustedes, y cesará la tierra shabat a Jehová.
 
 ### 25:3
 
-Siembran seis años, y podan seis años los viñedos, y recogerán su cosecha.
+Seis años sembrarás tu campo, y seis años podarás tu viña, y recogerás su producto.
 
 ### 25:4
 
-Pero en el séptimo año será un día de reposo para la tierra, un día de reposo para el SEÑOR; no sembrarán su campo, ni podarán sus viñedos.
+Y en el año el séptimo, shabat de shabatón será a la tierra, shabat a Jehová; tu campo no sembrarás, y tu viña no podarás.
 
 ### 25:5
 
-No segarán la espiga que crezca por sí misma, ni recogerán las uvas de los viñedos que no han podado; será un año de reposo para la tierra.
+El espontáneo de tu siega no segarás, y uvas de tu nazir no vendimiarás; año de shabatón será a la tierra.
 
 ### 25:6
 
-Y la cosecha de la tierra será para ustedes para comer, para el siervo y para la sierva, para el jornalero y para el extranjero que vive con ustedes.
+Y será shabat de la tierra a ustedes para comida, a ti y a tu siervo y a tu sierva y a tu jornalero y a tu residente, los peregrinantes contigo.
 
 ### 25:7
 
-Y para el ganado y para la bestia que está en sus tierras, será toda la cosecha para comer.
+Y a tu bestia y a la viva que en tu tierra, será todo su producto para comer.
 
 ### 25:8
 
-Contarán siete años, siete veces siete años; los días de los siete años siete veces, cuarenta y nueve años.
+Y contarás a ti siete shabats de años, siete años siete veces; y serán a ti días de siete shabats de los años, nueve y cuarenta año.
 
 ### 25:9
 
-Y proclamaréis la trompeta en el mes séptimo, al día diez del mes; en el día de la expiación proclamaréis la trompeta por toda vuestra tierra.
+Y harás pasar shofar de teruá en el mes el séptimo, en el diez al mes; en día de las expiaciones harán pasar shofar en toda su tierra.
 
 ### 25:10
 
-Y santificaréis el año de la quincuagésima, y proclamaréis la libertad por toda la tierra a todos sus habitantes. Será para vosotros el año de la jubileo; volveréis cada uno a su posesión y cada uno a su familia.
+Y santificarán año de los cincuenta año, y proclamarán libertad en la tierra a todos sus habitantes; yovel ella será a ustedes, y volverán varón a su posesión, y varón a su familia volverán.
 
 ### 25:11
 
-Será el año de la jubileo, el año de la quincuagésima, y no sembraréis, ni recogeréis lo que crezca por sí mismo, ni recogeréis las uvas de la viña no podada.
+Yovel ella, año de los cincuenta año, será a ustedes; no sembrarán, y no segarán su espontáneo, y no vendimiarán sus nazires.
 
 ### 25:12
 
-Porque será el año de la jubileo, será santo para vosotros; comeréis de lo que crezca en el campo.
+Porque yovel ella; santo será a ustedes; desde el campo comerán su producto.
 
 ### 25:13
 
-En el año de la jubileo, cada uno volverá a su posesión.
+En año del yovel este volverán varón a su posesión.
 
 ### 25:14
 
-Y cuando vendas algo a tu vecino, o compres algo de la mano de tu vecino, no te aprovecharás de él.
+Y cuando vendieren venta a tu prójimo, o comprar desde mano de tu prójimo, no oprimirán varón a su hermano.
 
 ### 25:15
 
-Según el número de años después del jubileo, comprarás de tu vecino y según el número de cosechas, venderá para ti.
+En número de años después del yovel comprarás desde tu prójimo; en número de años de productos venderá a ti.
 
 ### 25:16
 
-Según el número de años abundará la compra que haga, y según el número de años disminuirá la compra que haga; porque según el número de cosechas vende para ti.
+Según boca de abundancia de los años aumentarás su compra, y según boca de escasez de los años disminuirás su compra; porque número de productos él vendiendo a ti.
 
 ### 25:17
 
-Y no te aprovecharás de tu vecino, y temerás a tu Dios; porque yo soy el Señor, vuestro Dios.
+Y no oprimirán varón a su prójimo, y temerás desde tu Dios; porque yo Jehová Dios de ustedes.
 
 ### 25:18
 
-Y haréis mis estatutos y guardaréis mis mandamientos y los cumpliréis; y moraréis en la tierra seguros.
+Y harán mis estatutos, y mis juicios guardarán, y los harán; y habitarán sobre la tierra a seguridad.
 
 ### 25:19
 
-Y dará la tierra su fruto, y comeréis hasta estar saciados y moraréis en ella seguros.
+Y dará la tierra su fruto, y comerán a saciedad, y habitarán a seguridad sobre ella.
 
 ### 25:20
 
-Y si decís: ¿Qué comeremos en el séptimo año, si no sembraremos ni recogeremos nuestra cosecha?
+Y cuando dijeren: ¿Qué comeremos en el año el séptimo? He aquí no sembramos, y no recogemos nuestro producto.
 
 ### 25:21
 
-Y daré mi bendición a ustedes en el sexto año, y hará que la tierra produzca suficiente para tres años.
+Y mandaré mi bendición a ustedes en el año el sexto, y hará el producto a tres los años.
 
 ### 25:22
 
-Y sembrarán la cosecha del octavo año, y comerán del antiguo alimento hasta el año noveno, hasta que llegue su cosecha.
+Y sembrarán el año el octavo, y comerán desde el producto viejo; hasta el año el noveno, hasta venir su producto, comerán viejo.
 
 ### 25:23
 
-Y la tierra no se venderá para siempre, porque la tierra es mía, y ustedes son extranjeros y residentes conmigo.
+Y la tierra no se venderá a perpetuidad, porque mía la tierra; porque peregrinos y residentes ustedes conmigo.
 
 ### 25:24
 
-Y en toda la tierra que poseen, darán la redención a la tierra.
+Y en toda tierra de su posesión, redención darán a la tierra.
 
 ### 25:25
 
-Si tu hermano se empobrece y vende su posesión, y su redentor se acerca a él, entonces el redentor podrá comprar lo que vendió su hermano.
+Cuando se empobreciere tu hermano y vendiere desde su posesión, y viniere su redentor el cercano a él, y redimirá la venta de su hermano.
 
 ### 25:26
 
-Y si no tiene redentor, y sus manos encuentran lo suficiente, entonces podrá redimir lo que vendió.
+Y varón, cuando no hubiere a él redentor, y alcanzare su mano y hallare suficiente de su redención,
 
 ### 25:27
 
-Y contará los años de la venta y devolverá el exceso al hombre al que vendió, y volverá a su posesión.
+y contará los años de su venta, y devolverá el excedente al varón que vendió a él, y volverá a su posesión.
 
 ### 25:28
 
-Y si no encuentra lo suficiente para devolver, entonces lo que vendió quedará en manos del comprador hasta el año de la libertad, y saldrá en el año de la libertad, y volverá a su posesión.
+Y si no hallare su mano suficiente para devolver a él, y será su venta en mano del comprante a él hasta año del yovel, y saldrá en el yovel, y volverá a su posesión.
 
 ### 25:29
 
-Y si vende una casa en una ciudad con murallas, la redención de ella será hasta el año de la libertad, y saldrá en el año de la libertad.
+Y varón, cuando vendiere casa de morada de ciudad muralla, y será su redención hasta completar año de su venta; días será su redención.
 
 ### 25:30
 
-Y si no redime la casa en la ciudad sin murallas, entonces la casa quedará en manos del comprador hasta el año de la libertad, y no saldrá en el año de la libertad.
+Y si no se redimiere hasta llenarse a él año íntegro, y se levantará la casa que en la ciudad que muralla a perpetuidad al comprante a ella, a sus generaciones; no saldrá en el yovel.
 
 ### 25:31
 
-Y las casas de los campos sin murallas alrededor, en los campos de la tierra, la redención de ellas será para ellos, y saldrán en el año de la libertad.
+Y casas de las aldeas que no hay a ellas muralla alrededor, sobre campo de la tierra se contará; redención será a ella, y en el yovel saldrá.
 
 ### 25:32
 
-Y las ciudades de los levitas, las casas de las ciudades de su posesión, la redención de ellas será para siempre para los levitas.
+Y ciudades de los levitas, casas de ciudades de su posesión, redención de siempre será a los levitas.
 
 ### 25:33
 
-Y si uno de los levitas redime una casa en la ciudad que posee, la redención de ella será en el año de la libertad.
+Y lo que redimiere desde los levitas, y saldrá venta de casa y ciudad de su posesión en el yovel; porque casas de ciudades de los levitas, ella posesión de ellos en medio de hijos de Israel.
 
 ### 25:34
 
-Y el campo de sus ciudades no se venderá, porque es una posesión eterna para ellos.
+Y campo de ejido de sus ciudades no se venderá, porque posesión de siempre él a ellos.
 
 ### 25:35
 
-Si tu hermano se empobrece y su mano se debilita contigo, sosténlo con él, como extranjero y como residente, para que viva contigo.
+Y cuando se empobreciere tu hermano y vacilare su mano contigo, y lo fortalecerás, peregrino y residente, y vivirá contigo.
 
 ### 25:36
 
-No le tomarás usura ni interés, y temerás a tu Dios; así vivirá tu hermano contigo.
+No tomarás desde él usura e interés, y temerás desde tu Dios; y vivirá tu hermano contigo.
 
 ### 25:37
 
-No le darás tu dinero a usura ni le darás tu comida a interés, para que la vida de tu hermano viva contigo.
+Tu plata no darás a él en usura, y en interés no darás tu comida.
 
 ### 25:38
 
-Yo soy el Señor tu Dios, que te saqué de la tierra de Egipto para darte la tierra de Canaán para ser tu Dios.
+Yo Jehová Dios de ustedes, que saqué a ustedes desde tierra de Mizraim, para dar a ustedes tierra de Canaán, para ser a ustedes a Dios.
 
 ### 25:39
 
-Si tu hermano se empobrece contigo y se vende a ti, no lo tratarás como siervo.
+Y cuando se empobreciere tu hermano contigo y se vendiere a ti, no lo servirás servicio de siervo.
 
 ### 25:40
 
-Será contigo como jornalero y como residente; hasta el año de la libertad vivirá contigo.
+Como jornalero, como residente, será contigo; hasta año del yovel servirá contigo.
 
 ### 25:41
 
-Y saldrá de tu lado él y sus hijos con él, y volverá a su familia y a la posesión de sus padres.
+Y saldrá de contigo él y sus hijos con él, y volverá a su familia, y a posesión de sus padres volverá.
 
 ### 25:42
 
-Porque son mis siervos, a quienes saqué de la tierra de Egipto; no los venderán como siervos de venta.
+Porque siervos míos ellos, que saqué a ellos desde tierra de Mizraim; no se venderán venta de siervo.
 
 ### 25:43
 
-No los tratarás con rigor, y temerás a tu Dios.
+No dominarás en él en dureza, y temerás desde tu Dios.
 
 ### 25:44
 
-Y a tu siervo y a tu sierva que te pertenecen, que proceden de las naciones que están a tu alrededor, de ellos comprarás siervos y siervas.
+Y tu siervo y tu sierva que serán a ti, desde las naciones que alrededor de ustedes, desde ellos comprarán siervo y sierva.
 
 ### 25:45
 
-También de los hijos de los extranjeros que habitan con ustedes, de ellos comprarán siervos y siervas, y de las familias que están con ustedes, que nacen en su tierra, serán su propiedad.
+Y también desde hijos de los residentes los peregrinantes con ustedes, desde ellos comprarán, y desde su familia que con ustedes, que engendraron en su tierra, y serán a ustedes a posesión.
 
 ### 25:46
 
-Y heredarán a ellos a sus hijos después de ustedes para que sean su propiedad por siempre. A ellos servirán, pero a sus hermanos, los israelitas, no los tratarán con rigor.
+Y los heredarán a sus hijos después de ustedes para poseer posesión a siempre; en ellos servirán; y en sus hermanos, hijos de Israel, varón en su hermano, no dominarás en él en dureza.
 
 ### 25:47
 
-Si un extranjero y un residente con ustedes son perseguidos, y uno de sus hermanos es herido, y él es vendido como siervo a un extranjero o a un residente con ustedes, o a un jefe de extranjeros,
+Y cuando alcanzare mano de peregrino y residente contigo, y se empobreciere tu hermano con él, y se vendiere a peregrino residente contigo, o a tronco de familia de peregrino,
 
 ### 25:48
 
-Después de que él es vendido, la redención será para él. Uno de sus hermanos lo redimirá.
+después de ser vendido, redención será a él; uno desde sus hermanos lo redimirá.
 
 ### 25:49
 
-O un tío, o el hijo de un tío, o un pariente cercano de su familia lo redimirá. O si él gana dinero, él será redimido.
+O su tío, o hijo de su tío, lo redimirá, o desde resto de su carne desde su familia lo redimirá, o alcanzare su mano y se redimirá.
 
 ### 25:50
 
-Y calculará con el que lo compró, desde el año de su venta hasta el año de la liberación, y el precio de su venta será según el número de años, como el salario de un jornalero será con él.
+Y contará con su comprante desde año de su venderse a él hasta año del yovel, y será plata de su venta en número de años; como días de jornalero será con él.
 
 ### 25:51
 
-Si muchos años quedan, pagará la redención de su venta según los años.
+Si todavía muchas en los años, según boca de ellas devolverá su redención desde plata de su compra.
 
 ### 25:52
 
-Si pocos años quedan hasta el año de la liberación, calculará con él, y según el número de años pagará la redención de su venta.
+Y si poco quedare en los años hasta año del yovel, y contará a él; según boca de sus años devolverá su redención.
 
 ### 25:53
 
-Como jornalero por año será con él, no lo tratarán con rigor en sus ojos.
+Como jornalero año en año será con él; no lo dominará en dureza a tus ojos.
 
 ### 25:54
 
-Y si no es redimido, saldrá en el año de la liberación, él y sus hijos con él.
+Y si no se redimiere en estos, y saldrá en año del yovel, él y sus hijos con él.
 
 ### 25:55
 
-Porque los hijos de Israel son mis siervos, yo los saqué de la tierra de Egipto. Yo soy el Señor, su Dios.
+Porque a mí hijos de Israel siervos; siervos míos ellos, que saqué a ellos desde tierra de Mizraim; yo Jehová Dios de ustedes.
 
 ## Capítulo 26
 
 ### 26:1
 
-No harán para ustedes ídolos ni esculturas, ni plantarán una piedra de memoria. No se postrarán ante ella, porque yo soy el Señor, su Dios.
+No harán para ustedes ídolos, y escultura y estela no levantarán para ustedes, y piedra de imaginería no darán en su tierra para postrarse sobre ella, porque yo Jehová su Dios.
 
 ### 26:2
 
-Guardaréis mis sábados y temeréis mi santuario. Yo soy el Señor.
+Mis shabatot guardarán, y mi santuario temerán; yo Jehová.
 
 ### 26:3
 
-Si andáis en mis estatutos y guardáis mis mandamientos, y los cumplís.
+Si en mis estatutos andan, y mis mandamientos guardan, y los hacen,
 
 ### 26:4
 
-Derramaré sobre ustedes las lluvias en su tiempo, y la tierra dará sus frutos, y el árbol del campo dará su fruto.
+y daré sus lluvias en su tiempo, y dará la tierra su producto, y árbol del campo dará su fruto.
 
 ### 26:5
 
-Haré que la siega alcance a la simiente, y la simiente alcance a la siega, y comerán pan en abundancia y vivirán seguros en su tierra.
+Y alcanzará a ustedes la trilla a la vendimia, y la vendimia alcanzará a la siembra, y comerán su pan a saciedad, y habitarán seguros en su tierra.
 
 ### 26:6
 
-Daré paz en la tierra, y dormirán, y no habrá temor. Y haré que la bestia feroz desaparezca de la tierra, y la espada no pasará por vuestra tierra.
+Y daré paz en la tierra, y se acostarán, y no hay quien espante; y haré cesar bestia mala desde la tierra, y espada no pasará en su tierra.
 
 ### 26:7
 
-Perseguirán a sus enemigos, y caerán a vuestro lado a espada.
+Y perseguirán a sus enemigos, y caerán delante de ustedes a espada.
 
 ### 26:8
 
-Cinco de ustedes perseguirán a cien, y cien de ustedes perseguirán a diez mil, y caerán a vuestro lado a espada sus enemigos.
+Y perseguirán desde ustedes cinco a ciento, y ciento desde ustedes a diez mil perseguirán, y caerán sus enemigos delante de ustedes a espada.
 
 ### 26:9
 
-Me volveré hacia ustedes, y los haré fructificar, y los multiplicaré, y estableceré mi pacto con ustedes.
+Y me volveré a ustedes, y los haré fructificar, y los multiplicaré, y estableceré mi pacto con ustedes.
 
 ### 26:10
 
-Comerán viejo por viejo, y viejo por nuevo sacarán.
+Y comerán viejo añejo, y viejo de faces de nuevo sacarán.
 
 ### 26:11
 
-Daré mi morada en medio de ustedes, y no me desagradarán sus almas.
+Y daré mi morada en medio de ustedes, y no aborrecerá mi alma a ustedes.
 
 ### 26:12
 
-Caminaré en medio de ustedes, y seré para ustedes por Dios, y ustedes serán para mí por pueblo.
+Y andaré en medio de ustedes, y seré a ustedes a Dios, y ustedes serán a mí a pueblo.
 
 ### 26:13
 
-Yo soy el Señor, vuestro Dios, que os saqué de la tierra de Egipto para que no fueseis siervos de ellos, y quebré las cadenas de su yugo y os hice caminar con rectitud.
+Yo Jehová su Dios, que saqué a ustedes desde tierra de Mizraim, de ser a ellos siervos, y quebré varas de su yugo, y los hice andar erectos.
 
 ### 26:14
 
-Y si no me escucháis y no hacéis todo este mandamiento
+Y si no oyen a mí, y no hacen todos estos mandamientos,
 
 ### 26:15
 
-Y si en mis estatutos despreciais y mi juicio aborreciereis, para no hacer todos mis mandamientos, para quebrantar mi pacto
+y si en mis estatutos desechan, y si mis juicios aborrece su alma, para no hacer todos mis mandamientos, para quebrantar ustedes mi pacto,
 
 ### 26:16
 
-Yo también haré esto con vosotros: enviaré sobre vosotros temor, catarros y escarlatina, que castrarán los ojos y consumirán el alma, y sembraréis en vano, y vuestros enemigos comerán lo que sembráis
+también yo haré esto a ustedes: y visitaré sobre ustedes terror, la tisis y la fiebre, acabando ojos y haciendo languidecer alma; y sembrarán en vacío su semilla, y la comerán sus enemigos.
 
 ### 26:17
 
-Y pondré mi rostro contra vosotros, y os castigaré por delante de vuestros enemigos, y os perseguirán vuestros adversarios, y caeréis, y no habrá quien os persiga
+Y daré mis faces en ustedes, y serán heridos delante de sus enemigos, y regirán en ustedes sus aborrecedores, y huirán, y no hay perseguidor a ustedes.
 
 ### 26:18
 
-Y si aún a esto no me escucháis, añadiré más castigos a vosotros, siete veces por vuestras culpas
+Y si hasta estas no oyen a mí, y añadiré para disciplinar a ustedes siete sobre sus pecados.
 
 ### 26:19
 
-Y quebrantaré la soberbia de vuestra fuerza, y haré vuestros cielos como hierro y vuestra tierra como bronce
+Y quebraré orgullo de su fuerza, y daré sus cielos como hierro, y su tierra como bronce.
 
 ### 26:20
 
-Y vuestro vigor será inútil, y vuestra tierra no dará su fruto, y los árboles de vuestra tierra no darán su fruto
+Y se gastará en vacío su fuerza, y no dará su tierra su producto, y árbol de la tierra no dará su fruto.
 
 ### 26:21
 
-Y si andáis conmigo en rebeldía y no queréis escucharme, añadiré sobre vosotros golpes, siete veces por vuestras culpas
+Y si andan conmigo en contrario, y no quieren oír a mí, y añadiré sobre ustedes golpe siete como sus pecados.
 
 ### 26:22
 
-Y enviaré sobre vosotros las fieras del campo, y destruirán a vosotros, y quitarán vuestros ganados, y disminuiré vuestro número, y vuestros caminos se desolaren
+Y enviaré en ustedes bestia del campo, y los dejará sin hijos, y cortará su ganado, y los disminuirá, y serán desolados sus caminos.
 
 ### 26:23
 
-Y si aún a esto no os humilláis delante de mí, y andáis conmigo en rebeldía
+Y si en estas no son disciplinados a mí, y andan conmigo en contrario,
 
 ### 26:24
 
-Y yo también andaré con vosotros en rebeldía, y os castigaré yo también, siete veces por vuestras culpas
+también yo andaré con ustedes en contrario, y los heriré también yo siete sobre sus pecados.
 
 ### 26:25
 
-Y traeré sobre vosotros la espada de venganza por el pacto, y seréis recogidos en vuestras ciudades, y enviaré peste en medio de vosotros, y caeréis en mano de vuestros enemigos
+Y traeré sobre ustedes espada vengadora, venganza de pacto, y serán reunidos a sus ciudades, y enviaré peste en medio de ustedes, y serán dados en mano de enemigo.
 
 ### 26:26
 
-Y yo haré que el pan que comáis sea en medida y que diez mujeres harán pan en un horno, y lo devolverán en medida, y comeréis y no os saciaréis.
+En mi quebrar a ustedes vara de pan, y cocerán diez mujeres su pan en un horno, y devolverán su pan en peso, y comerán, y no se saciarán.
 
 ### 26:27
 
-Y si no os arrepentís de esto, os castigaré con rebeldía.
+Y si en esto no oyen a mí, y andan conmigo en contrario,
 
 ### 26:28
 
-Y yo andaré con vosotros en rebeldía, y os castigaré yo también, siete veces por vuestras culpas.
+y andaré con ustedes en furor de contrario, y los disciplinaré también yo siete sobre sus pecados.
 
 ### 26:29
 
-Y comeréis la carne de vuestros hijos y la carne de vuestras hijas comeréis.
+Y comerán carne de sus hijos, y carne de sus hijas comerán.
 
 ### 26:30
 
-Y destruiré vuestros altares y quitaré vuestros imágenes, y echaré vuestros cadáveres sobre los cadáveres de vuestros ídolos, y aborreceré vuestros almas.
+Y destruiré sus altos, y cortaré sus pilares del sol, y daré sus cadáveres sobre cadáveres de sus ídolos, y aborrecerá mi alma a ustedes.
 
 ### 26:31
 
-Y haré que vuestras ciudades sean desiertas y destruiré vuestros santuarios, y no oleré el olor de vuestros sacrificios.
+Y daré sus ciudades ruina, y desolaré sus santuarios, y no oleré en olor de su reposo.
 
 ### 26:32
 
-Y yo destruiré la tierra, y vuestros enemigos que habitan en ella la desolación tendrán sobre ella.
+Y desolaré yo la tierra, y se asombrarán sobre ella sus enemigos los habitantes en ella.
 
 ### 26:33
 
-Y os dispersaré entre las naciones y echaré sobre vosotros la espada, y vuestra tierra será desolada y vuestras ciudades serán desiertas.
+Y a ustedes esparciré en las naciones, y desenvainaré detrás de ustedes espada, y será su tierra desolación, y sus ciudades serán ruina.
 
 ### 26:34
 
-Entonces la tierra descansará sus sábados todo el tiempo que esté desolada, mientras estéis en la tierra de vuestros enemigos; entonces descansará la tierra y osará sus sábados.
+Entonces aceptará la tierra sus shabatot todos los días de su ser desolada, y ustedes en tierra de sus enemigos; entonces cesará la tierra, y aceptará sus shabatot.
 
 ### 26:35
 
-Todo el tiempo que esté desolada descansará, lo que no descansó en vuestros sábados, cuando estabais en ella.
+Todos los días de su ser desolada cesará, lo que no cesó en sus shabatot en su habitar ustedes sobre ella.
 
 ### 26:36
 
-Y los que queden de vosotros haré que tengan un corazón de miedo en las tierras de vuestros enemigos, y perseguirlos hará el sonido de una hoja que se deshoja, y huirán delante de la espada y caerán, y no habrá quien los persiga.
+Y los restantes en ustedes, y traeré blandura en su corazón en tierras de sus enemigos, y perseguirá a ellos voz de hoja impulsada, y huirán huida de espada, y caerán, y no hay perseguidor.
 
 ### 26:37
 
-Y caerán cada uno sobre su hermano como delante de la espada, y el que los persigue no habrá, y no os levantaréis delante de vuestros enemigos.
+Y tropezarán varón en su hermano como de faces de espada, y perseguidor no hay, y no habrá a ustedes levantamiento delante de sus enemigos.
 
 ### 26:38
 
-Y os consumirán entre las naciones, y la tierra de vuestros enemigos os consumirá.
+Y perecerán en las naciones, y comerá a ustedes tierra de sus enemigos.
 
 ### 26:39
 
-Y los que queden de vosotros perecerán en sus pecados en las tierras de vuestros enemigos, y también en los pecados de sus padres perecerán con ellos.
+Y los restantes en ustedes se pudrirán en su iniquidad en tierras de sus enemigos, y también en iniquidades de sus padres con ellos se pudrirán.
 
 ### 26:40
 
-Y confesarán sus pecados y los pecados de sus padres, por haberse rebelado contra mí, y también por haber andado conmigo a la ligera.
+Y confesarán su iniquidad y iniquidad de sus padres, en su prevaricación que prevaricaron en mí, y también que anduvieron conmigo en contrario.
 
 ### 26:41
 
-Y yo también andaré con ellos a la ligera, y los llevaré a la tierra de sus enemigos; quizás se humillará el corazón inmundo de ellos, y entonces perdonarán sus pecados.
+También yo andaré con ellos en contrario, y los traeré en tierra de sus enemigos; o entonces se humillará su corazón el prepuciado, y entonces aceptarán su iniquidad.
 
 ### 26:42
 
-Y recordaré mi pacto con Jacob, y también mi pacto con Isaac, y también mi pacto con Abraham, y recordaré la tierra.
+Y recordaré mi pacto Yaakov, y también mi pacto Yitsjaq, y también mi pacto Abraham recordaré, y la tierra recordaré.
 
 ### 26:43
 
-Y la tierra descansará de ellos, y cumplirá mis sábados por causa de ellos, mientras que ellos se humillarán por sus pecados, porque despreciaron mis decretos y mi ley aborrecieron su alma.
+Y la tierra será dejada desde ellos, y aceptará sus shabatot en su ser desolada desde ellos, y ellos aceptarán su iniquidad, porque y porque en mis juicios desecharon, y mis estatutos aborreció su alma.
 
 ### 26:44
 
-Y tampoco los aborreceré ni los despreciaré, para destruirlos y romper mi pacto con ellos, porque yo soy el SEÑOR su Dios.
+Y también también esto, en su ser ellos en tierra de sus enemigos, no los deseché, y no los aborrecí para acabarlos, para quebrantar mi pacto con ellos, porque yo Jehová su Dios.
 
 ### 26:45
 
-Y me acordaré del pacto con ellos, cuando los saqué de la tierra de Egipto delante de las naciones para ser su Dios; yo soy el SEÑOR.
+Y recordaré a ellos pacto de primeros, que saqué a ellos desde tierra de Mizraim a ojos de las naciones, a ser a ellos a Dios; yo Jehová.
 
 ### 26:46
 
-Estos son los estatutos, las leyes y los decretos que el SEÑOR estableció entre él y los israelitas en el monte Sinaí por medio de Moisés.
+Estos los estatutos y los juicios y las torot que dio Jehová entre él y entre hijos de Israel en monte Sinai en mano de Moisés.
 
 ## Capítulo 27
 
 ### 27:1
 
-Y el SEÑOR habló a Moisés diciendo:
+Y habló Jehová a Moisés, diciendo:
 
 ### 27:2
 
-Habla a los hijos de Israel y di a ellos: Cualquiera que haga un voto de voluntad, de valor de almas a Jehová, hombre por hombre:
+Habla a hijos de Israel, y dirás a ellos: Varón, cuando extraordinario hiciere voto, en tu valoración almas a Jehová,
 
 ### 27:3
 
-Y será el valor de tu alma, del varón, de veinte años hasta sesenta años, cincuenta siclos de plata, conforme al siclo del santuario;
+y será tu valoración el macho, desde hijo de veinte año y hasta hijo de sesenta año, y será tu valoración cincuenta siclo plata en siclo de la santidad.
 
 ### 27:4
 
-Y si es una mujer, su valor será de treinta siclos de plata.
+Y si hembra ella, y será tu valoración treinta siclo.
 
 ### 27:5
 
-Y si es de cinco años hasta veinte años, el valor del varón será de veinte siclos de plata, y el de la mujer, de diez siclos de plata.
+Y si desde hijo de cinco años y hasta hijo de veinte año, y será tu valoración el macho veinte siclos, y a la hembra diez siclos.
 
 ### 27:6
 
-Y si es de un mes hasta cinco años, el valor del varón será de cinco siclos de plata, y el de la mujer, de tres siclos de plata.
+Y si desde hijo de mes y hasta hijo de cinco años, y será tu valoración el macho cinco siclos plata, y a la hembra tu valoración tres siclos plata.
 
 ### 27:7
 
-Y si es de sesenta años y más, el valor del varón será de quince siclos de plata, y el de la mujer, de diez siclos de plata.
+Y si desde hijo de sesenta año y arriba, si macho, y será tu valoración quince siclo, y a la hembra diez siclos.
 
 ### 27:8
 
-Y si es menos de lo que ha prometido, se presentará ante el sacerdote, y el sacerdote lo valorará conforme a lo que pueda dar el que hace el voto.
+Y si menguado él desde tu valoración, y lo hará estar delante del sacerdote, y valorará a él el sacerdote; sobre boca de lo que alcance mano del votante lo valorará el sacerdote.
 
 ### 27:9
 
-Y si ofrece un animal que se puede ofrecer como sacrificio a Jehová, todo lo que ofrece de su propiedad a Jehová será santo.
+Y si bestia que acercan desde ella ofrenda a Jehová, todo lo que dé desde ella a Jehová será santidad.
 
 ### 27:10
 
-No cambiará por otro ni por uno mejor ni por uno peor. Si cambia un animal por otro animal, tanto el que cambia como el que recibe serán santos.
+No la cambiará, y no la mudará, bueno en malo o malo en bueno; y si mudando mudare bestia en bestia, y será ella y su mudanza santidad.
 
 ### 27:11
 
-Y si ofrece un animal inmundo que no se puede ofrecer como sacrificio a Jehová, el animal se presentará ante el sacerdote.
+Y si toda bestia inmunda que no acercan desde ella ofrenda a Jehová, y hará estar la bestia delante del sacerdote.
 
 ### 27:12
 
-El sacerdote lo valorará, ya sea por lo mejor o por lo peor, según el valor que el sacerdote determine, será el valor.
+Y valorará el sacerdote a ella entre bueno y entre malo; conforme a tu valoración el sacerdote, así será.
 
 ### 27:13
 
-Y si redime el animal, añadirá un quinto sobre el valor que el sacerdote ha determinado.
+Y si redimiendo la redimiere, y añadirá su quinto sobre tu valoración.
 
 ### 27:14
 
-Y si un hombre consagra su casa como santo para Jehová, el sacerdote la valorará, ya sea por lo mejor o por lo peor, según el valor que el sacerdote determine, será el valor.
+Y varón, cuando santificare su casa santidad a Jehová, y lo valorará el sacerdote entre bueno y entre malo; conforme a lo que valore a él el sacerdote, así se levantará.
 
 ### 27:15
 
-Y si el que consagra redime su casa, añadirá un quinto sobre el valor que el sacerdote ha determinado, y será suyo.
+Y si el santificante redimiere su casa, y añadirá quinto de plata de tu valoración sobre ella, y será a él.
 
 ### 27:16
 
-Y si consagra un campo de su posesión a Jehová, el valor será según la siembra de semillas de cebada, cincuenta siclos de plata.
+Y si desde campo de su posesión santificare varón a Jehová, y será tu valoración a boca de su semilla; semilla de jómer de cebadas en cincuenta siclo plata.
 
 ### 27:17
 
-Si consagra después del año de jubileo, el valor será como el valor, y permanecerá.
+Si desde año del yovel santificare su campo, conforme a tu valoración se levantará.
 
 ### 27:18
 
-Y si después del año de jubileo consagra un campo, el sacerdote calculará para él el valor hasta el año de jubileo, y se reducirá el valor.
+Y si después del yovel santificare su campo, y calculará a él el sacerdote la plata sobre boca de los años los restantes hasta año del yovel, y será restado desde tu valoración.
 
 ### 27:19
 
-Y si redime el que consagra, añadirá un quinto sobre el valor, y será suyo.
+Y si redimiendo redimiere el campo el santificante a él, y añadirá quinto de plata de tu valoración sobre él, y se levantará a él.
 
 ### 27:20
 
-Y si no redime, o si lo vendió a otro, no podrá redimirlo más.
+Y si no redimiere el campo, y si vendió el campo a varón otro, no será redimido más.
 
 ### 27:21
 
-Y el campo saldrá en el año de jubileo, y será santo para Jehová, como la tierra consagrada; será para el sacerdote como la posesión de un sacerdote.
+Y será el campo en su salir en el yovel santidad a Jehová, como campo del jérem; al sacerdote será su posesión.
 
 ### 27:22
 
-Y si consagra un campo que no es de su posesión, sino de lo que compró, a Jehová.
+Y si campo de su compra que no desde campo de su posesión santificare a Jehová,
 
 ### 27:23
 
-Y el sacerdote calculará para él el valor hasta el año de jubileo, y pagará el valor en el día de la consagración, y será santo para Jehová.
+y calculará a él el sacerdote la cuenta de tu valoración hasta año del yovel, y dará tu valoración en el día aquel; santidad a Jehová.
 
 ### 27:24
 
-En el año de jubileo el campo volverá al que lo compró, porque la tierra es suya.
+En año del yovel volverá el campo al que lo compró desde él, al que a él posesión de la tierra.
 
 ### 27:25
 
-Y todo valor será según el siclo del santuario, veinte geras será el siclo.
+Y toda tu valoración será en siclo de la santidad; veinte gera será el siclo.
 
 ### 27:26
 
-Pero el primogénito de las bestias, no lo consagrará nadie, ya sea toro o cordero, es de Jehová.
+Solo primogénito que es primogenitado a Jehová en bestia, no santificará varón a él; si toro si cordero, a Jehová él.
 
 ### 27:27
 
-Y si consagra un animal impuro, y lo redime, añadirá un quinto sobre el valor, y si no lo redime, será vendido según el valor.
+Y si en la bestia la inmunda, y la rescatará en tu valoración, y añadirá su quinto sobre ella; y si no es redimida, y será vendida en tu valoración.
 
 ### 27:28
 
-Pero todo lo que alguien consagre a Jehová, de lo que le pertenece, ya sea de hombre, de animal o de su posesión, no se venderá ni se redimirá; todo lo consagrado es santísimo a Jehová.
+Solo todo jérem que jermare varón a Jehová desde todo lo que a él, desde adam y bestia y desde campo de su posesión, no será vendido, y no será redimido; todo jérem santidad de santidades él a Jehová.
 
 ### 27:29
 
-Todo lo que alguien consagre de hombre no se redimirá; morirá por la muerte.
+Todo jérem que sea jermado desde el adam no será rescatado; morir será muerto.
 
 ### 27:30
 
-Y todo el diezmo de la tierra, del fruto de la tierra y del fruto de los árboles, es de Jehová; es santísimo a Jehová.
+Y todo diezmo de la tierra, desde semilla de la tierra, desde fruto del árbol, a Jehová él; santidad a Jehová.
 
 ### 27:31
 
-Si alguien redime algo de su diezmo, añadirá un quinto sobre el valor.
+Y si redimiendo redimiere varón desde su diezmo, su quinto añadirá sobre él.
 
 ### 27:32
 
-Y todo el diezmo del ganado y del rebaño, todo lo que pase bajo el bastón, será el décimo para Jehová; es santísimo.
+Y todo diezmo de ganado y rebaño, todo lo que pase bajo la vara, el décimo será santidad a Jehová.
 
 ### 27:33
 
-No distinguirá entre lo bueno y lo malo, ni cambiará por uno por otro; si cambia uno por otro, tanto el que cambia como el que recibe serán santos y no se redimirán.
+No escudriñará entre bueno a malo, y no lo mudará; y si mudando lo mudare, y será él y su mudanza santidad; no será redimido.
 
 ### 27:34
 
-Estas son las ordenanzas que Jehová dio a Moisés para los hijos de Israel en el monte Sinaí.
+Estos los mandamientos que mandó Jehová a Moisés a hijos de Israel en monte Sinai.

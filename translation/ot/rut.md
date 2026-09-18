@@ -1,352 +1,352 @@
 # Rut
 
-> La Biblia Fiel — Rut. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> La Biblia Fiel — Rut. Segunda pasada contra OSHB / WLC (voz Génesis), pulida. Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
 
 ### 1:1
 
-En los días de los jueces, hubo hambre en la tierra. Un hombre de Belén de Judá salió a vivir en los campos de Moab, junto con su esposa y sus dos hijos.
+Y fue en los días de juzgar los jueces, y fue hambre en la tierra; y anduvo un hombre de Bet Léjem de Yehudá para peregrinar en campos de Moav, él y su mujer y dos de sus hijos.
 
 ### 1:2
 
-El nombre del hombre era Elimelec, el de su esposa Noemí, y el de sus dos hijos Mahelón y Quelión, de la tribu de Efrata, de Belén de Judá. Ellos llegaron a los campos de Moab y allí permanecieron.
+Y nombre del hombre Elimelek, y nombre de su mujer Noomí, y nombre de dos de sus hijos Majlón y Kilión, efratim de Bet Léjem de Yehudá; y vinieron a campos de Moav, y fueron allí.
 
 ### 1:3
 
-Murió Elimelec, el marido de Noemí, y ella quedó con sus dos hijos.
+Y murió Elimelek, hombre de Noomí, y quedó ella y dos de sus hijos.
 
 ### 1:4
 
-Tomaron esposas moabitas: el nombre de la una era Orfa, y el de la otra Rut. Vivieron allí durante diez años.
+Y tomaron para ellos mujeres moaviyot; nombre de la una Orpá, y nombre de la segunda Rut; y habitaron allí como diez años.
 
 ### 1:5
 
-Murieron también Mahelón y Quelión, y la mujer quedó sola, sin sus dos hijos y sin su marido.
+Y murieron también los dos de ellos, Majlón y Kilión, y quedó la mujer de dos de sus niños y de su hombre.
 
 ### 1:6
 
-Entonces ella se levantó con sus dos nuera y regresó de los campos de Moab, porque había oído que el Señor había visitado a su pueblo para darles pan.
+Y se levantó ella y sus nueras, y volvió de campos de Moav, porque oyó en campo de Moav que visitó Jehová a su pueblo para dar a ellos pan.
 
 ### 1:7
 
-Salieron del lugar donde estaban y ella y sus dos nuera emprendieron el camino para regresar a la tierra de Judá.
+Y salió del lugar donde estaba allí, y dos de sus nueras con ella; y anduvieron en el camino para volver a tierra de Yehudá.
 
 ### 1:8
 
-Noemí les dijo a sus dos nuera: “Vayan, regresen a su madre y a su familia. Que el Señor les haga misericordia, como ustedes han hecho con los muertos y conmigo”.
+Y dijo Noomí a dos de sus nueras: Vayan, vuelvan, mujer a casa de su madre; Jehová haga con ustedes misericordia como que hicieron con los muertos y conmigo.
 
 ### 1:9
 
-Que el Señor les conceda que encuentren descanso en casas de maridos. Y las besó y las alentó a que se fueran, pero ellas comenzaron a llorar.
+Dé Jehová a ustedes, y hallen descanso, mujer en casa de su hombre. Y las besó, y alzaron su voz y lloraron.
 
 ### 1:10
 
-Dijeron: “Vamos contigo a tu pueblo”.
+Y dijeron a ella: Porque contigo volveremos a tu pueblo.
 
 ### 1:11
 
-Noemí les dijo: “Vayan, hijas mías, ¿para qué irán conmigo? ¿Tengo aún hijos en mi vientre para que sean maridos suyos?”
+Y dijo Noomí: Vuelvan, hijas mías; ¿para qué andarán conmigo? ¿Aún hay a mí hijos en mis entrañas, y serán a ustedes por hombres?
 
 ### 1:12
 
-Vayan, hijas mías, que yo soy vieja para tener un marido. Aunque dije: ‘Tengo esperanza’, ya no soy joven para tener un marido ni para dar a luz hijos.
+Vuelvan, hijas mías, vayan, porque envejecí de ser a hombre; porque dije: Hay a mí esperanza —también fui esta noche a hombre, y también di a luz hijos—,
 
 ### 1:13
 
-¿Hijas mías, podrán esperar hasta que crezcan? ¿Podrán soportar no ser esposas? No, hijas mías, porque es muy amargo para mí, más que para ustedes, que la mano de Jehová ha salido contra mí.
+¿Acaso por ellas esperarán hasta que crezcan? ¿Acaso se encerrarán para no ser a hombre? No, hijas mías, porque amargo a mí mucho más que a ustedes, porque salió en mí mano de Jehová.
 
 ### 1:14
 
-Entonces se pusieron a gritar y lloraron de nuevo. Orfa besó a su suegra, pero Rut se aferró a ella.
+Y alzaron su voz y lloraron aún; y besó Orpá a su suegra, y Rut se pegó en ella.
 
 ### 1:15
 
-Entonces dijo: “Mira, tu nuera vuelve a su pueblo y a sus dioses. Vuelve tras tu nuera”.
+Y dijo: He aquí, volvió tu cuñada a su pueblo y a sus dioses; vuelve detrás de tu cuñada.
 
 ### 1:16
 
-Entonces dijo Rut: “No me obligues a dejarte y a volverme atrás. Dondequiera que vayas, iré yo; dondequiera que te quedes, quedaré yo. Tu pueblo será mi pueblo, tu Dios será mi Dios.
+Y dijo Rut: No me encuentres para abandonarte, para volver de detrás de ti; porque a donde andes andaré, y donde pernoctes pernoctaré; tu pueblo mi pueblo, y tu Dios mi Dios.
 
 ### 1:17
 
-Donde tú mueras, moriré yo, y allí seré enterrada. Que Jehová me haga esto y más si no me hace morir yo y no estar en el sepulcro contigo”.
+Donde mueras moriré, y allí seré enterrada; así haga Jehová a mí, y así añada, porque la muerte separará entre mí y entre ti.
 
 ### 1:18
 
-Vio que estaba decidida a ir con ella, y dejó de hablarle.
+Y vio que ella se esforzaba para andar con ella, y cesó de hablar a ella.
 
 ### 1:19
 
-Y salieron las dos juntas hasta llegar a Bet Lehem. Cuando llegaron a Bet Lehem, toda la ciudad se agitó por ellas, y las mujeres dijeron: “¿Es esta Noemí?”
+Y anduvieron las dos de ellas hasta su venir a Bet Léjem; y fue en su venir a Bet Léjem, y se alborotó toda la ciudad sobre ellas, y dijeron: ¿Esta Noomí?
 
 ### 1:20
 
-Y ella les dijo: “No me llaméis Noemí, llamadme Maravilla, porque el Señor me ha llenado de amargura”.
+Y dijo a ellas: No llamen a mí Noomí; llamen a mí Mará, porque amargó Shadai a mí mucho.
 
 ### 1:21
 
-Yo salí llena, y el Señor me ha devuelto vacía. ¿Por qué me llamarán Noemí, y el Señor me ha hecho amargura, y mi enemigo ha hecho daño?”
+Yo llena anduve, y vacía me hizo volver Jehová; ¿por qué llamarán a mí Noomí, y Jehová testificó en mí, y Shadai hizo mal a mí?
 
 ### 1:22
 
-Y Noemí y Rut la moabita, su nuera, regresaron de los campos de Moab. Llegaron a Bet Lehem al comienzo de la cosecha de cebada.
+Y volvió Noomí, y Rut la moaviyah su nuera con ella, la que volvió de campos de Moav; y ellas vinieron a Bet Léjem en comienzo de cosecha de cebadas.
 
 ## Capítulo 2
 
 ### 2:1
 
-Y Noemí tenía un pariente de su marido, un hombre poderoso de la familia de Elimelec, llamado Booz.
+Y a Noomí había un conocido de su hombre, hombre poderoso de valor, de familia de Elimelek, y su nombre Boaz.
 
 ### 2:2
 
-Entonces Rut la moabita dijo a Noemí: “Voy a recoger espigas en los campos detrás de quien me permita”. Y Noemí le dijo: “Ve, hija mía”.
+Y dijo Rut la moaviyah a Noomí: Ande yo por favor al campo, y espigue yo en las espigas detrás de quien halle gracia en sus ojos. Y dijo a ella: Anda, hija mía.
 
 ### 2:3
 
-Y ella salió y fue a recoger espigas en el campo detrás de los segadores, y por casualidad llegó a la porción del campo de Booz, que pertenecía a la familia de Elimelec.
+Y anduvo, y vino, y espigó en el campo detrás de los segadores; y acertó su acaso parcela del campo a Boaz, que era de familia de Elimelek.
 
 ### 2:4
 
-Y he aquí que Booz bajó del templo de Belén y dijo a los segadores: “Que el Señor esté con ustedes”. Y ellos le respondieron: “El Señor te bendiga”.
+Y he aquí, Boaz vino de Bet Léjem, y dijo a los segadores: Jehová con ustedes. Y dijeron a él: Te bendiga Jehová.
 
 ### 2:5
 
-Entonces Booz le dijo a su joven que estaba al mando de los segadores: “¿A quién pertenece esta joven?”.
+Y dijo Boaz a su muchacho el parado sobre los segadores: ¿De quién la muchacha esta?
 
 ### 2:6
 
-Y el joven que estaba al mando de los segadores respondió: “Es una joven moabita que ha venido con Noemí desde el campo de Moab”.
+Y respondió el muchacho el parado sobre los segadores, y dijo: Muchacha moaviyah es ella, la que volvió con Noomí de campo de Moav.
 
 ### 2:7
 
-Y ella dijo: “Te suplico que me permitas recoger espigas detrás de los segadores”. Y desde la mañana hasta ahora ha estado recogiendo en el campo.
+Y dijo: Espigue yo por favor, y reuniré en las gavillas detrás de los segadores. Y vino y se paró desde entonces la mañana y hasta ahora; este su sentarse la casa poco.
 
 ### 2:8
 
-Entonces Booz le dijo a Rut: “Hija mía, ¿no has oído que no debes recoger espigas en otro campo, sino que debes quedarte aquí con mis segadores? Y cuando tengas sed, ve a los recipientes y bebe”.
+Y dijo Boaz a Rut: ¿No oíste, hija mía? No andes a espigar en campo otro, y también no pases de este; y así te pegarás con mis muchachas.
 
 ### 2:9
 
-Mira los campos donde los segadores están trabajando, y síguelos. No debes faltar a ellos, sino que debes beber del agua que los jóvenes han sacado”.
+Tus ojos en el campo que segarán, y andarás detrás de ellas; ¿no mandé a los muchachos para no tocarte? Y si tienes sed, andarás a las vasijas, y beberás de lo que saquen los muchachos.
 
 ### 2:10
 
-Y ella se postró con la cara en tierra y dijo: “¿Por qué has tenido en cuenta a tu sierva para mostrarte amable conmigo, siendo yo una extranjera?”.
+Y cayó sobre sus faces, y se postró a tierra, y dijo a él: ¿Por qué hallé gracia en tus ojos para reconocerme, y yo extranjera?
 
 ### 2:11
 
-Entonces Booz le respondió: “Se me ha dicho todo lo que has hecho por tu suegra desde la muerte de tu marido, y cómo has dejado a tu padre y a tu madre y a tu tierra natal para venir a un pueblo que no conocías”.
+Y respondió Boaz y dijo a ella: Anunciando se anunció a mí todo lo que hiciste con tu suegra después de la muerte de tu hombre, y abandonaste a tu padre y a tu madre y tierra de tu nacimiento, y anduviste a pueblo que no conociste ayer anteayer.
 
 ### 2:12
 
-El Señor, el Dios de Israel, te recompensará por tu lealtad. Que tu recompensa sea completa delante del Señor, el Dios de Israel, a quien has venido a buscar refugio”.
+Pague Jehová tu obra, y sea tu salario completo de con Jehová Dios de Israel, a quien viniste a refugiarte debajo de sus alas.
 
 ### 2:13
 
-Y ella respondió: “Encuentro gracia ante tus ojos, señor, porque me has hablado amablemente, y tus siervos me han hablado con respeto”.
+Y dijo: Halle yo gracia en tus ojos, mi señor, porque me consolaste, y porque hablaste sobre corazón de tu sierva; y yo no seré como una de tus siervas.
 
 ### 2:14
 
-Entonces Booz le dijo: “Ven y come algo de la comida. Acércate y come un pedazo de pan, y moja tu pan en el vinagre”. Y ella se sentó junto a los segadores, y él le sirvió un pedazo de pan, y ella comió y se sació, y guardó algo para después.
+Y dijo a ella Boaz a tiempo de la comida: Acércate acá, y comerás del pan, y mojarás tu bocado en el vinagre. Y se sentó al lado de los segadores, y le alcanzó grano tostado, y comió y se sació y dejó resto.
 
 ### 2:15
 
-Y ella se levantó para recoger, y Booz le dijo a sus jóvenes: ‘También entre los racimos recoja, y no la reprendan.’
+Y se levantó a espigar; y mandó Boaz a sus muchachos, diciendo: También entre las gavillas espigará, y no la avergüencen.
 
 ### 2:16
 
-Y también le dijeron: ‘También de los racimos le dejarán caer algo, y lo recogerá; no la reprendan.’
+Y también arrancando arrancarán para ella de los manojos, y dejarán, y espigará, y no la reprendan.
 
 ### 2:17
 
-Y ella recogió en el campo hasta la tarde, y se sacudió el paño, y resultó que eran unos cuarenta bat de cebada.
+Y espigó en el campo hasta la tarde, y golpeó lo que espigó, y fue como efa de cebadas.
 
 ### 2:18
 
-Y ella tomó y entró en la ciudad, y su suegra vio lo que había recogido. Y ella sacó y le dio a ella lo que había dejado después de comer.
+Y alzó y vino a la ciudad, y vio su suegra lo que espigó; y sacó y dio a ella lo que dejó resto de su saciedad.
 
 ### 2:19
 
-Y le dijo: ‘¿Dónde recogiste hoy? Y dónde trabajaste? Que el que te conoce sea bendito. Y le contó a su suegra lo que había hecho con él. Y le dijo: ‘El nombre del hombre con quien trabajé hoy es Booz.’
+Y dijo a ella su suegra: ¿Dónde espigaste hoy, y adónde hiciste? Sea tu reconocedor bendito. Y anunció a su suegra lo que hizo con él, y dijo: Nombre del hombre con quien hice hoy Boaz.
 
 ### 2:20
 
-Y le dijo Noemí a su nuera: ‘Bendito sea él por Jehová, que no ha dejado que su misericordia falte, tanto a los vivos como a los muertos.’ Y le dijo Noemí: ‘Es un pariente cercano nuestro.’
+Y dijo Noomí a su nuera: Bendito él a Jehová, que no abandonó su misericordia con los vivos y con los muertos. Y dijo a ella Noomí: Cercano a nosotros el hombre; de nuestros redentores es él.
 
 ### 2:21
 
-Y le dijo: ‘Rut la moabita, que él me dijo: Con los jóvenes que me pertenecen, hasta que hayan terminado de recoger todo lo que me pertenece, te quedes con ellos.’
+Y dijo Rut la moaviyah: También porque dijo a mí: Con los muchachos que a mí te pegarás hasta que acaben toda la cosecha que a mí.
 
 ### 2:22
 
-Y le dijo Noemí a Rut su nuera: ‘Bien, hija mía, que salgas con las jóvenes de Booz, y no te hagan daño en el campo, ni en el campo de otro.’
+Y dijo Noomí a Rut su nuera: Bueno, hija mía, porque salgas con sus muchachas, y no te encuentren en campo otro.
 
 ### 2:23
 
-Y ella se quedó con las jóvenes de Booz para recoger, hasta que terminaron de recoger el trigo y el cebada, y se quedó con su suegra.
+Y se pegó en muchachas de Boaz para espigar hasta acabar cosecha de las cebadas y cosecha de los trigos; y habitó con su suegra.
 
 ## Capítulo 3
 
 ### 3:1
 
-Y le dijo Noemí a ella: ‘Hija mía, ¿no te buscaré un lugar de descanso, que te vaya bien?’
+Y dijo a ella Noomí su suegra: Hija mía, ¿no buscaré a ti descanso que sea bueno a ti?
 
 ### 3:2
 
-Y ahora, ¿no es Booz nuestro pariente, con quien tú estuviste recogiendo? Mira, él está segando en el granero de la cebada hoy por la noche.
+Y ahora, ¿no es Boaz nuestro conocido, con cuyas muchachas estuviste? He aquí, él aventando era de las cebadas esta noche.
 
 ### 3:3
 
-Y lava y unge y pon ropa limpia, y baja al granero, pero no te hagas conocer del hombre hasta que él haya terminado de comer y beber.
+Y te lavarás y te ungirás y pondrás tus vestidos sobre ti, y bajarás a la era; no te des a conocer al hombre hasta acabar él de comer y de beber.
 
 ### 3:4
 
-Y cuando él se acueste, sabrás el lugar donde él se acostará; y tú vendrás y descubrirás tus pies en su cama, y él te dirá lo que debes hacer.
+Y sea en su acostar, y conocerás el lugar donde se acueste allí, y vendrás y descubrirás lugares de sus pies, y te acostarás; y él anunciará a ti lo que harás.
 
 ### 3:5
 
-Y ella le dijo: Todo lo que me digas haré.
+Y dijo a ella: Todo lo que digas a mí haré.
 
 ### 3:6
 
-Y ella bajó al granero y hizo todo lo que su suegra le había mandado.
+Y bajó a la era, e hizo conforme a todo lo que le mandó su suegra.
 
 ### 3:7
 
-Y Booz comió y bebió, y su corazón se alegró; y vino a acostarse al final del montón de grano. Y ella se acercó en silencio y se descubrió los pies y se acostó.
+Y comió Boaz y bebió, y fue bueno su corazón, y vino a acostarse en extremo del montón; y vino ella en secreto, y descubrió lugares de sus pies, y se acostó.
 
 ### 3:8
 
-Y a media noche, el hombre se despertó y se asustó, y he aquí que una mujer estaba acostada a sus pies.
+Y fue en mitad de la noche, y tembló el hombre, y se volvió; y he aquí, mujer acostada a lugares de sus pies.
 
 ### 3:9
 
-Y él dijo: ¿Quién eres tú? Y ella respondió: Soy Rut, tu sierva, y cubríte con tu manto, porque eres redentor.
+Y dijo: ¿Quién eres tú? Y dijo: Yo Rut tu sierva; y extiende tu ala sobre tu sierva, porque redentor eres tú.
 
 ### 3:10
 
-Y él dijo: Bendita seas tú a Jehová, hija mía; que has mostrado tu gracia al final más que al principio, no has ido tras los jóvenes, ni has ido tras los ricos.
+Y dijo: Bendita tú a Jehová, hija mía; mejoraste tu misericordia la última más que la primera, para no andar detrás de los jóvenes, sea pobre o sea rico.
 
 ### 3:11
 
-Y ahora, hija mía, no temas; todo lo que me digas haré por ti, porque conozco a todos los hombres de mi pueblo, y que eres mujer valiente.
+Y ahora, hija mía, no temas; todo lo que digas haré a ti, porque sabe toda puerta de mi pueblo que mujer de valor eres tú.
 
 ### 3:12
 
-Y ahora, ciertamente, yo soy redentor, pero hay otro redentor más cercano que yo.
+Y ahora, porque de verdad porque redentor soy yo; y también hay redentor más cercano que yo.
 
 ### 3:13
 
-Duermes esta noche, y por la mañana, si él te redime bien, será él el redentor; pero si no quiere redimirte, yo te redimiré yo mismo; Jehová me juzgue hoy.
+Pernocta la noche, y será en la mañana: si te redime, bueno, redime; y si no desea redimirte, y te redimiré yo —vivo Jehová—. Acuéstate hasta la mañana.
 
 ### 3:14
 
-Y ella se acostó a los pies hasta la mañana, y se levantó antes que el hombre la conociera; y él dijo: No sepa nadie que la mujer vino al granero.
+Y se acostó a lugares de sus pies hasta la mañana, y se levantó antes que reconociera hombre a su compañero; y dijo: No se sepa que vino la mujer a la era.
 
 ### 3:15
 
-Y él dijo: Trae la capa que tienes puesta, y cójela. Y ella la tomó, y él midió seis medidas de cebada y las puso sobre ella, y se fue a la ciudad.
+Y dijo: Trae el manto que sobre ti, y áselo; y lo asió; y midió seis cebadas, y las puso sobre ella; y vino a la ciudad.
 
 ### 3:16
 
-Y ella llegó a su suegra y le dijo: ¿Quién eres, hija mía? Y ella le contó todo lo que el hombre había hecho por ella.
+Y vino a su suegra, y dijo: ¿Quién eres tú, hija mía? Y le anunció todo lo que hizo a ella el hombre.
 
 ### 3:17
 
-Y ella dijo: Este seis medidas de cebada me dio, porque me dijo: No vayas sin nada a tu suegra.
+Y dijo: Estas seis cebadas me dio, porque dijo a mí: No vengas vacía a tu suegra.
 
 ### 3:18
 
-Y ella dijo: Quéjate, hija mía, hasta que sepas qué sucederá, porque el hombre no descansará hasta que se cumpla la cosa hoy.
+Y dijo: Siéntate, hija mía, hasta que sepas cómo cae el asunto; porque no descansará el hombre sino que acabará el asunto hoy.
 
 ## Capítulo 4
 
 ### 4:1
 
-Y Booz subió al portal y se sentó allí. Y he aquí que el pariente que tenía derecho de redención pasaba, y Booz le dijo: Ven aquí y siéntate. Y él se sentó.
+Y Boaz subió a la puerta, y se sentó allí; y he aquí, el redentor pasando, de quien habló Boaz; y dijo: Apártate, siéntate acá, Peloní Almoní. Y se apartó y se sentó.
 
 ### 4:2
 
-Y tomó diez hombres de los ancianos de la ciudad y les dijo: Siéntense aquí. Y ellos se sentaron.
+Y tomó diez hombres de ancianos de la ciudad, y dijo: Siéntense acá. Y se sentaron.
 
 ### 4:3
 
-Y dijo al pariente que tenía derecho de redención: El campo de nuestro hermano Elimelec vendió Noemí que volvió de Moab.
+Y dijo al redentor: Parcela del campo que a nuestro hermano, a Elimelek, vendió Noomí la que volvió de campo de Moav.
 
 ### 4:4
 
-Y yo pensé que te anunciaría y diría: Adquiere en presencia de los que habitan y en presencia de los ancianos de mi pueblo. Si quieres redimir, redime; y si no quieres redimir, di que no, porque no hay otro que tú para redimir, y yo soy después de ti. Y él dijo: Yo redimiré.
+Y yo dije: Descubriré tu oreja, diciendo: Compra delante de los sentados y delante de ancianos de mi pueblo; si redimirás, redime; y si no redime, anuncia a mí, porque no hay fuera de ti para redimir, y yo después de ti. Y dijo: Yo redimiré.
 
 ### 4:5
 
-Y Booz dijo: En el día que adquieras el campo de Noemí, también de Rut la moabita, mujer del muerto, yo adquiriré para levantar nombre sobre la heredad del muerto.
+Y dijo Boaz: En día de tu comprar el campo de mano de Noomí, y de Rut la moaviyah mujer del muerto comprarás, para levantar nombre del muerto sobre su heredad.
 
 ### 4:6
 
-Y dijo el pariente que tenía derecho de redención: No puedo redimir para mí, para que no destruya mi heredad. Redímelo tú para mí, tú redime mi derecho de redención, porque no puedo redimirlo.
+Y dijo el redentor: No puedo redimir a mí, no sea que destruya mi heredad; redime tú a ti mi redención, porque no puedo redimir.
 
 ### 4:7
 
-Y esto es la costumbre en Israel para el derecho de redención y para el intercambio: para confirmar toda cosa, el hombre descalza su calzado y da a su hermano, y esto es testimonio en Israel.
+Y esto antes en Israel sobre la redención y sobre el cambio, para confirmar todo asunto: sacaba hombre su sandalia y daba a su compañero; y esto era el testimonio en Israel.
 
 ### 4:8
 
-Y dijo el pariente que tenía derecho de redención a Booz: Adquiere para ti. Y descalzó su calzado.
+Y dijo el redentor a Boaz: Compra para ti. Y sacó su sandalia.
 
 ### 4:9
 
-Y Booz dijo a los ancianos y a todo el pueblo: Sois testigos hoy que yo he adquirido todo lo que era de Elimelec y de Quilión y de Mahel de la mano de Noemí.
+Y dijo Boaz a los ancianos y a todo el pueblo: Testigos ustedes hoy, porque compré todo lo que a Elimelek y todo lo que a Kilión y Majlón de mano de Noomí.
 
 ### 4:10
 
-Además, he adquirido a Rut la moabita, mujer de Mahel, para ser mi esposa, para levantar el nombre del muerto y no desaparecer su nombre de entre su familia y de su lugar. Testigos sois vosotros hoy.
+Y también a Rut la moaviyah mujer de Majlón compré a mí por mujer, para levantar nombre del muerto sobre su heredad, y no será cortado nombre del muerto de con sus hermanos y de puerta de su lugar; testigos ustedes hoy.
 
 ### 4:11
 
-Y todo el pueblo que estaba en la puerta y los ancianos dijeron: Que el Señor haga crecer a la mujer que entra en tu casa como a Raquel y a Lea, que juntas dieron a luz a la casa de Israel, y que hagas valentía en Efrata y que tu nombre sea grande en Belén.
+Y dijeron todo el pueblo que en la puerta, y los ancianos: Testigos. Dé Jehová a la mujer la que viene a tu casa como Rajel y como Leá, que las dos de ellas edificaron casa de Israel; y haz valor en Efratá, y llama nombre en Bet Léjem.
 
 ### 4:12
 
-Que tu casa sea como la casa de Peretz, a quien Tamar dio a luz a Judá, del linaje que el Señor te dé de esta joven.
+Y sea tu casa como casa de Pérez, que dio a luz Tamar a Yehudá, de la simiente que dé Jehová a ti de la muchacha esta.
 
 ### 4:13
 
-Y Booz tomó a Rut, y ella fue su esposa, y él vino a ella, y el Señor le dio concepción, y ella dio a luz un hijo.
+Y tomó Boaz a Rut, y fue a él por mujer; y vino a ella, y dio Jehová a ella concepción, y dio a luz un hijo.
 
 ### 4:14
 
-Y las mujeres dijeron a Noemí: Bendito sea el Señor, que no ha dejado de ti hoy un redentor, y que su nombre sea famoso en Israel.
+Y dijeron las mujeres a Noomí: Bendito Jehová, que no hizo cesar a ti redentor hoy; y sea llamado su nombre en Israel.
 
 ### 4:15
 
-Y será para ti un que te restituya el alma y un que te sustente en tu vejez, porque tu nuera, que te ama, ha dado a luz a un hijo, que es mejor para ti que siete hijos.
+Y será a ti para restituidor de alma y para sustentar tu canicie; porque tu nuera, que te amó, lo dio a luz, que ella es buena a ti más que siete hijos.
 
 ### 4:16
 
-Y Noemí tomó al niño y lo puso en su seno, y lo amamantó.
+Y tomó Noomí al niño, y lo puso en su seno, y fue a él por nodriza.
 
 ### 4:17
 
-Y las vecinas le dieron un nombre, diciendo: Un hijo ha nacido a Noemí. Y le pusieron por nombre Obed, él es el padre de Isaí, padre de David.
+Y llamaron a él las vecinas nombre, diciendo: Nacido hijo a Noomí; y llamaron su nombre Obed; él padre de Yishai, padre de David.
 
 ### 4:18
 
-Estas son las generaciones de Peretz: Peretz engendró a Queretón.
+Y estas generaciones de Pérez: Pérez engendró a Hetzrón,
 
 ### 4:19
 
-Y Queretón engendró a Ram, y Ram engendró a Aminadab.
+y Hetzrón engendró a Ram, y Ram engendró a Aminadav,
 
 ### 4:20
 
-Y Aminadab engendró a Nahson, y Nahson engendró a Salma.
+y Aminadav engendró a Najshón, y Najshón engendró a Salmá,
 
 ### 4:21
 
-Y Salma engendró a Booz, y Booz engendró a Obed.
+y Salmón engendró a Boaz, y Boaz engendró a Obed,
 
 ### 4:22
 
-Y Obed engendró a Isaí, y Isaí engendró a David.
+y Obed engendró a Yishai, y Yishai engendró a David.

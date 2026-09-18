@@ -1,3312 +1,3312 @@
 # 1 Reyes
 
-> La Biblia Fiel — 1 Reyes. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+> La Biblia Fiel — 1 Reyes. Segunda pasada contra OSHB / WLC (voz Génesis), pulida. Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
 
 ### 1:1
 
-Y el rey David estaba viejo, y se calentaban a él con ropa, pero no se calentaba él.
+Y el rey David envejeció; vino en los días; y lo cubrieron con los vestidos, y no se calentaba a él.
 
 ### 1:2
 
-Y le dijeron a él sus siervos: Busquen para el rey, mi señor, una doncella virgen, y esté ella ante el rey y sea para él una criada y duerma en su seno, para que se caliente el rey, mi señor.
+Y le dijeron a él sus siervos: Busquen para mi señor el rey una joven virgen, y esté delante de faces del rey, y sea a él sokenet, y se acueste en tu seno, y se caliente a mi señor el rey.
 
 ### 1:3
 
-Y buscaron una doncella hermosa en toda la frontera de Israel, y hallaron a Abisgat la sunamita, y la trajeron al rey.
+Y buscaron una joven hermosa en todo el límite de Israel, y hallaron a Avishag la shunamit, y la trajeron al rey.
 
 ### 1:4
 
-Y la doncella era muy hermosa, y fue para el rey una criada y le sirvió, pero el rey no la conoció.
+Y la joven era hermosa hasta mucho; y fue al rey sokenet, y le ministraba, y el rey no la conoció.
 
 ### 1:5
 
-Y Adonías, hijo de Hagit, se exaltó diciendo: Yo seré rey, y le hizo un carro y caballeros, y cincuenta hombres corredores delante de él.
+Y Adoniyá hijo de Jaguit se exaltaba diciendo: Yo reinaré; e hizo para él carro y jinetes, y cincuenta hombres corriendo delante de faces de él.
 
 ### 1:6
 
-Y no le afligió mi padre en sus días, diciendo: ¿Por qué has hecho así? Y él es de hermosura muy buena, y después de Absalom lo engendró.
+Y no lo afligió su padre desde sus días, diciendo: ¿Por qué así hiciste? Y también él era bueno de forma mucho; y a él dio a luz después de Avshalom.
 
 ### 1:7
 
-Y sus palabras fueron con Joab hijo de Zeruía y con Abiatar el sacerdote, y les ayudaron después de Adonías.
+Y fueron sus palabras con Yoav hijo de Tseruyá y con Evyatar el sacerdote; y ayudaron detrás de Adoniyá.
 
 ### 1:8
 
-Y Sadoc el sacerdote y Benayahu hijo de Joiada y Natán el profeta y Simi y los valientes de David no estuvieron con Adonías.
+Y Tsadóq el sacerdote y Benayahu hijo de Yehoyadá y Natán el profeta y Shimí y Reí y los poderosos que a David no fueron con Adoniyá.
 
 ### 1:9
 
-Y sacrificó Adonías ovejas y bueyes y becerros, junto a la piedra de Zoheleth, que está junto a En Rogel, y llamó a todos sus hermanos, hijos del rey, y a todos los hombres de Judá, siervos del rey.
+Y sacrificó Adoniyá ovejas y ganado y cebado junto a Even ha-Zojélet que está junto a Ein Roguel; y llamó a todos sus hermanos, hijos del rey, y a todos los hombres de Yehudá, siervos del rey.
 
 ### 1:10
 
-Y a Natán el profeta y a Benayahu y a los valientes y a Salomón, mi hermano, no llamó.
+Y a Natán el profeta y a Benayahu y a los poderosos y a Shelomó su hermano no llamó.
 
 ### 1:11
 
-Y dijo Natán a Bat-Sheba madre de Salomón: ¿No has oído que Adonías hijo de Hagit ha sido rey, y que nuestro señor David no lo sabe?
+Y dijo Natán a Bat-Shéva madre de Shelomó, diciendo: ¿No oíste que reinó Adoniyá hijo de Jaguit, y nuestro señor David no conoció?
 
 ### 1:12
 
-Y ahora, ve, yo te aconsejaré, y salva tu alma y la alma de tu hijo Salomón.
+Y ahora, anda; te aconsejaré, por favor, consejo; y escapa tu alma y el alma de tu hijo Shelomó.
 
 ### 1:13
 
-Porque ve, entra al rey David y di a él: ¿No juraste a tu sierva que Solomon tu hijo reinaría después de ti y que él se sentaría en tu trono? ¿Y por qué ha reinado Adonías?
+Anda y entra al rey David, y dirás a él: ¿No tú, mi señor el rey, juraste a tu sierva, diciendo: Que Shelomó tu hijo reinará después de mí, y él se asentará sobre mi trono? ¿Y por qué reinó Adoniyá?
 
 ### 1:14
 
-Mira, aún estás hablando con el rey, y yo vendré después de ti y cumpliré tus palabras.
+He aquí aún tú hablando allí con el rey, y yo vendré detrás de ti y llenaré tus palabras.
 
 ### 1:15
 
-Y entró Bat-Sheba en la cámara del rey, que estaba muy anciano, y Abishag la Sunamita servía al rey.
+Y vino Bat-Shéva al rey, a la cámara; y el rey envejeció mucho; y Avishag la shunamit ministraba al rey.
 
 ### 1:16
 
-Y se inclinó Bat-Sheba y se postró ante el rey. Y el rey dijo: ¿Qué quieres?
+Y inclinó Bat-Shéva y se postró al rey; y dijo el rey: ¿Qué a ti?
 
 ### 1:17
 
-Y ella dijo: Mi señor, juraste a Jehová, tu Dios, a tu sierva, diciendo: Solomon tu hijo reinará después de ti y él se sentará en tu trono. ¿Por qué, pues, ha reinado Adonías?
+Y le dijo a él: Mi señor, tú juraste por Jehová tu Dios a tu sierva: Que Shelomó tu hijo reinará después de mí, y él se asentará sobre mi trono.
 
 ### 1:18
 
-Y ahora, he aquí, Adonías ha reinado, y tú, mi señor el rey, no lo sabes.
+Y ahora, he aquí Adoniyá reinó; y ahora, mi señor el rey, no conociste.
 
 ### 1:19
 
-Y sacrificó un buey, un becerro y ovejas en gran número, y llamó a todos los hijos del rey, y a Abiatar el sacerdote, y a Joab el general del ejército, pero a Solomon tu siervo no lo llamó.
+Y sacrificó buey y cebado y ovejas a abundancia, y llamó a todos los hijos del rey y a Evyatar el sacerdote y a Yoav jefe del ejército; y a Shelomó tu siervo no llamó.
 
 ### 1:20
 
-Y tú, mi señor el rey, los ojos de todo Israel están sobre ti para que les digas quién sentará en el trono de mi señor el rey después de ti.
+Y tú, mi señor el rey, los ojos de todo Israel están sobre ti, para anunciar a ellos quién se asentará sobre el trono de mi señor el rey después de él.
 
 ### 1:21
 
-Y cuando tu señor el rey durmiere con sus padres, yo y mi hijo Solomon seremos siervos.
+Y será al acostarse mi señor el rey con sus padres, y seré yo y mi hijo Shelomó culpables.
 
 ### 1:22
 
-Y he aquí que aún habla con el rey, y el profeta vendrá.
+Y he aquí aún ella hablando con el rey, y Natán el profeta vino.
 
 ### 1:23
 
-Y se lo dijeron al rey, diciendo: He aquí que Natán el profeta viene. Y vino a la presencia del rey y se postró ante el rey con su rostro en tierra.
+Y anunciaron al rey, diciendo: He aquí Natán el profeta; y vino delante de faces del rey, y se postró al rey sobre sus narices a tierra.
 
 ### 1:24
 
-Y dijo Natán: Mi señor el rey, has dicho: Adonías reinará después de ti, y él se sentará en tu trono. ¿Y por qué ha reinado Adonías?
+Y dijo Natán: Mi señor el rey, ¿tú dijiste: Adoniyá reinará después de mí, y él se asentará sobre mi trono?
 
 ### 1:25
 
-Porque ha descendido hoy y ha sacrificado un buey, un becerro y ovejas en gran número, y ha llamado a todos los hijos del rey, a los jefes del ejército y a Eviatar el sacerdote, y he aquí que comen y beben delante de él, y dicen: Vive el rey Adonías.
+Porque bajó hoy y sacrificó buey y cebado y ovejas a abundancia, y llamó a todos los hijos del rey y a jefes del ejército y a Evyatar el sacerdote; y he aquí ellos comiendo y bebiendo delante de faces de él; y dijeron: ¡Viva el rey Adoniyá!
 
 ### 1:26
 
-Y yo soy tu siervo, y a Sadoc el sacerdote, a Benayahu hijo de Joiada y a Shlomo tu siervo no ha llamado.
+Y a mí, yo tu siervo, y a Tsadóq el sacerdote y a Benayahu hijo de Yehoyadá y a Shelomó tu siervo no llamó.
 
 ### 1:27
 
-¿Acaso este asunto ha salido de mi señor el rey? Si así es, ¿por qué no me has hecho saber a tu siervo quién sentaráse sobre el trono de mi señor el rey después de él?
+¿Si de parte de mi señor el rey fue la palabra esta, y no diste a conocer a quién se asentará sobre el trono de mi señor el rey después de él?
 
 ### 1:28
 
-Entonces respondió el rey David y dijo: Traedme a Bat Sheva. Y ella vino a la presencia del rey y se paró ante el rey.
+Y respondió el rey David y dijo: Llamen a mí a Bat-Shéva. Y vino delante de faces del rey, y se paró delante de faces del rey.
 
 ### 1:29
 
-Y el rey juró y dijo: Vive Jehová, que me ha librado de toda angustia, que ciertamente haré como has hablado.
+Y juró el rey y dijo: Vive Jehová, que rescató mi alma de toda angustia,
 
 ### 1:30
 
-Porque como he jurado a ti por Jehová, Dios de Israel, diciendo: Cierto que tu hijo Shlomo será rey después de mí, y él se sentará sobre mi trono en mi lugar, así lo haré hoy.
+que como juré a ti por Jehová Dios de Israel, diciendo: Que Shelomó tu hijo reinará después de mí, y él se asentará sobre mi trono debajo de mí, que así haré el día este.
 
 ### 1:31
 
-Y Bat Sheva se postró sobre la tierra y se inclinó ante el rey. Y dijo: Vive el rey David para siempre.
+Y inclinó Bat-Shéva narices a tierra, y se postró al rey, y dijo: ¡Viva mi señor el rey David para siempre!
 
 ### 1:32
 
-Entonces dijo el rey David: Traedme a Sadoc el sacerdote, a Natán el profeta y a Benayahu hijo de Joiada. Y vinieron ante el rey.
+Y dijo el rey David: Llamen a mí a Tsadóq el sacerdote y a Natán el profeta y a Benayahu hijo de Yehoyadá. Y vinieron delante de faces del rey.
 
 ### 1:33
 
-Y el rey les dijo: Tomad a vosotros a los siervos de vuestro señor, y haced subir a Shlomo mi hijo sobre la mula que es mía, y llevadlo a Gichon.
+Y dijo el rey a ellos: Tomen con ustedes a los siervos de sus señores, y hagan montar a Shelomó mi hijo sobre la mula que es a mí, y háganlo bajar a Guijón.
 
 ### 1:34
 
-Y allí ungiréislo Sadoc el sacerdote y Natán el profeta para que sea rey sobre Israel. Y tocaréis la trompeta y diréis: Vive el rey Shlomo.
+Y unge a él allí Tsadóq el sacerdote y Natán el profeta por rey sobre Israel; y toquen ustedes en el shofar, y digan: ¡Viva el rey Shelomó!
 
 ### 1:35
 
-Y subiréis tras él, y él vendrá y se sentará sobre mi trono, y él será rey en mi lugar. Y yo le he ordenado que sea jefe sobre Israel y sobre Judá.
+Y suban ustedes detrás de él, y vendrá y se asentará sobre mi trono, y él reinará debajo de mí; y a él mandé para ser naguíd sobre Israel y sobre Yehudá.
 
 ### 1:36
 
-Entonces Benayahu hijo de Joiada respondió al rey y dijo: Amén. Que así hable Jehová, Dios de mi señor el rey.
+Y respondió Benayahu hijo de Yehoyadá al rey y dijo: Amén; así diga Jehová Dios de mi señor el rey.
 
 ### 1:37
 
-Como Jehová estuvo con mi señor el rey, así esté con Salomón, y haga grande su trono sobre el trono de mi señor el rey David.
+Como fue Jehová con mi señor el rey, así sea con Shelomó; y engrandeza su trono más que el trono de mi señor el rey David.
 
 ### 1:38
 
-Zadoque el sacerdote, Natan el profeta, Benayahu hijo de Joiada, el creteo y el pleteo lo montaron sobre el caballo del rey David, y lo llevaron sobre el Gichon.
+Y bajó Tsadóq el sacerdote y Natán el profeta y Benayahu hijo de Yehoyadá y el keretí y el peletí, e hicieron montar a Shelomó sobre la mula del rey David, y lo llevaron sobre Guijón.
 
 ### 1:39
 
-Zadoque el sacerdote tomó el frasco de aceite del tabernáculo y ungío a Salomón. Soplaron la trompeta, y todo el pueblo dijo: ¡Viva el rey Salomón!
+Y tomó Tsadóq el sacerdote el cuerno del aceite de la tienda, y ungió a Shelomó; y tocaron en el shofar, y dijo todo el pueblo: ¡Viva el rey Shelomó!
 
 ### 1:40
 
-Todo el pueblo subió tras él, y el pueblo tocaba trompetas y se alegraba con gran alegría, y la tierra se partió por el ruido de ellos.
+Y subió todo el pueblo detrás de él, y el pueblo flautando con flautas y alegrándose alegría grande; y se rajó la tierra con su voz.
 
 ### 1:41
 
-Adonías y todos los que estaban con él, que habían terminado de comer, oyeron el sonido de la trompeta. Y Joab oyó el ruido de la ciudad y dijo: ¿Por qué hay tanto ruido en la ciudad?
+Y oyó Adoniyá y todos los llamados que estaban con él, y ellos acabaron de comer; y oyó Yoav la voz del shofar, y dijo: ¿Por qué la voz de la ciudad rugiendo?
 
 ### 1:42
 
-Mientras hablaba, he aquí que Jonathan hijo de Abiatar el sacerdote llegó. Adonías le dijo: Ven, porque eres un hombre valiente y puedes dar buenas noticias.
+Aún él hablando, y he aquí Yonatán hijo de Evyatar el sacerdote vino; y dijo Adoniyá: Entra, porque hombre de valor eres tú, y bueno anunciarás.
 
 ### 1:43
 
-Y Jonathan respondió a Adonías: Pero nuestro señor el rey David ha hecho rey a Salomón.
+Y respondió Yonatán y dijo a Adoniyá: Empero nuestro señor el rey David hizo rey a Shelomó.
 
 ### 1:44
 
-El rey envió con él a Zadoque el sacerdote, a Natan el profeta, a Benayahu hijo de Joiada, al creteo y al pleteo, y los montaron sobre el caballo del rey.
+Y envió con él el rey a Tsadóq el sacerdote y a Natán el profeta y Benayahu hijo de Yehoyadá y el keretí y el peletí, e hicieron montar a él sobre la mula del rey.
 
 ### 1:45
 
-Zadoque el sacerdote y Natan el profeta ungieron a él como rey en Gichon, y subieron de allí alegres. La ciudad se agitó, ese es el ruido que han oído.
+Y ungieron a él Tsadóq el sacerdote y Natán el profeta por rey en Guijón, y subieron de allí alegres, y rugió la ciudad; esa es la voz que ustedes oyeron.
 
 ### 1:46
 
-Y Salomón se sentó sobre el trono de la realeza.
+Y también se asentó Shelomó sobre el trono del reino.
 
 ### 1:47
 
-También llegaron los servidores del rey para bendecir a nuestro señor el rey David, diciendo: Que tu Dios haga bien el nombre de Salomón sobre tu nombre, y haga grande su trono sobre tu trono. Y el rey se postró sobre su lecho.
+Y también vinieron los siervos del rey a bendecir a nuestro señor el rey David, diciendo: Haga bien el nombre de Shelomó más que tu nombre, y engrandeza su trono más que tu trono; y se postró el rey sobre el lecho.
 
 ### 1:48
 
-También el rey dijo: Bendito sea Jehová, el Dios de Israel, que ha puesto hoy a alguien sentado sobre mi trono, y mis ojos lo ven.
+Y también así dijo el rey: Bendito Jehová Dios de Israel, que dio hoy un asentado sobre mi trono, y mis ojos viendo.
 
 ### 1:49
 
-Todos los que Adonías había convocado se asustaron y se levantaron, cada uno se fue por su camino.
+Y temblaron y se levantaron todos los llamados que a Adoniyá, y anduvieron hombre a su camino.
 
 ### 1:50
 
-Adonías temió a Salomón y se levantó y se fue, y se aferró a las cuernas del altar.
+Y Adoniyá temió de faces de Shelomó, y se levantó y anduvo, y agarró en cuernos del altar.
 
 ### 1:51
 
-Se informó a Salomón diciendo: He aquí que Adonías teme al rey Salomón, y he aquí que ha agarrado las cuernas del altar diciendo: Que el rey Salomón me jure hoy que no matará a su siervo con la espada.
+Y fue anunciado a Shelomó, diciendo: He aquí Adoniyá temió al rey Shelomó; y he aquí agarró en cuernos del altar, diciendo: Jure a mí como el día el rey Shelomó si matará a su siervo con la espada.
 
 ### 1:52
 
-Entonces Salomón dijo: Si es un hombre valiente, no caerá de su cabello al suelo, pero si se encuentra con él alguna maldad, morirá.
+Y dijo Shelomó: Si será a hijo de valor, no caerá de su cabello a tierra; y si mal se hallará en él, y morirá.
 
 ### 1:53
 
-Entonces el rey Salomón envió y lo hicieron bajar del altar, y él vino y se postró ante el rey Salomón, y Salomón le dijo: Ve a tu casa.
+Y envió el rey Shelomó, y lo hicieron bajar de sobre el altar; y vino y se postró al rey Shelomó; y le dijo a él Shelomó: Anda a tu casa.
 
 ## Capítulo 2
 
 ### 2:1
 
-Se acercaban los días de David para morir, y él dio instrucciones a su hijo Salomón diciendo:
+Y se acercaron los días de David a morir; y mandó a Shelomó su hijo, diciendo:
 
 ### 2:2
 
-Yo ando por todos los caminos de la tierra, y tú serás fuerte y serás un hombre.
+Yo ando por el camino de toda la tierra; y fortalécete, y sé a hombre.
 
 ### 2:3
 
-Y guardarás el cuidado de Jehová tu Dios para andar en sus caminos, para guardar sus estatutos, sus mandamientos, sus juicios y sus testimonios, como está escrito en la ley de Moisés, para que entiendas todo lo que haces y todo lo que te inclinas.
+Y guarda la guarda de Jehová tu Dios, para andar en sus caminos, para guardar sus estatutos, sus mandamientos y sus juicios y sus testimonios, como está escrito en torá de Moisés, a fin de que seas prudente en todo lo que hagas y en todo a donde te vuelvas allí.
 
 ### 2:4
 
-Para que Jehová establezca su palabra que habló acerca de mí diciendo: Si tus hijos guardan su camino para andar delante de mí en verdad, con todo su corazón y con toda su alma, diciendo: No será cortado de ti un hombre del trono de Israel.
+A fin de que levante Jehová su palabra que habló sobre mí, diciendo: Si guardan tus hijos su camino, para andar delante de faces mías en verdad, con todo su corazón y con toda su alma, diciendo: No será cortado a ti hombre de sobre el trono de Israel.
 
 ### 2:5
 
-Y también tú sabes lo que hizo Joab hijo de Zeruía, que hizo a los dos jefes de los ejércitos de Israel, a Abner hijo de Ner y a Amasa hijo de Jeter, y los mató, y puso la sangre de guerra en paz, y puso la sangre de guerra en su cinto que estaba en su cintura y en su calzado que estaba en sus pies.
+Y también tú conociste lo que me hizo Yoav hijo de Tseruyá, lo que hizo a dos jefes de ejércitos de Israel, a Avner hijo de Ner y a Amasá hijo de Yéter, y los mató, y puso sangres de guerra en paz, y dio sangres de guerra en su cinturón que estaba en sus lomos y en su sandalia que estaba en sus pies.
 
 ### 2:6
 
-Y harás según tu sabiduría, y no bajarás la cabeza de él en paz.
+Y harás conforme a tu sabiduría, y no harás bajar su canicie en paz al sheol.
 
 ### 2:7
 
-Y a los hijos de Barzilai el Galaadita harás bien, y serán comensales de tu mesa, porque así se acercaron a mí en mi huida de mi hermano Absalón.
+Y a los hijos de Barzilai el giladí harás misericordia, y serán entre los que comen de tu mesa, porque así se acercaron a mí en mi huir de faces de Avshalom tu hermano.
 
 ### 2:8
 
-Y he aquí que con usted está Shim‘i hijo de Gera, de los hijos del Benjamín, y él me ha maldecido con una maldición violenta el día que salí de Mahanaim, y él bajó a encontrarme al Jordán, y juréle por Jehová, diciendo: No mataré a ti con la espada.
+Y he aquí contigo Shimí hijo de Guerá, hijo del yeminí, de Bahurím; y él me maldijo maldición dolorosa en el día de mi ir a Majanáyim; y él bajó a mi encuentro al Yardén, y le juré a él por Jehová, diciendo: Si te mataré con la espada.
 
 ### 2:9
 
-Y ahora no lo mates, porque tú eres un hombre sabio, y sabrás lo que debes hacer con él, y harás que su ancianidad descienda al sepulcro en sangre.
+Y ahora, no lo absolverás, porque hombre sabio eres tú; y conocerás lo que harás a él, y harás bajar su canicie en sangre al sheol.
 
 ### 2:10
 
-Y David se acostó con sus padres, y fue sepultado en la ciudad de David.
+Y se acostó David con sus padres, y fue sepultado en la ciudad de David.
 
 ### 2:11
 
-Y los días que David reinó sobre Israel fueron cuarenta años; en Hebrón reinó siete años, y en Jerusalén reinó treinta y tres años.
+Y los días que reinó David sobre Israel fueron cuarenta años; en Hevrón reinó siete años, y en Yerushaláyim reinó treinta y tres años.
 
 ### 2:12
 
-Y Salomón se sentó sobre el trono de David, su padre, y su reino se estableció mucho.
+Y Shelomó se asentó sobre el trono de David su padre, y fue preparada su realeza mucho.
 
 ### 2:13
 
-Y Adonías hijo de Hagit vino a Bat Sheva, madre de Salomón, y ella dijo: ¿Estás en paz? Y él dijo: Sí, estoy en paz.
+Y vino Adoniyá hijo de Jaguit a Bat-Shéva madre de Shelomó; y dijo: ¿Paz tu venir? Y dijo: Paz.
 
 ### 2:14
 
-Y él dijo: Tengo un favor que pedirte, y ella dijo: Dilo.
+Y dijo: Palabra a mí a ti. Y dijo: Habla.
 
 ### 2:15
 
-Y él dijo: Sabes que la realeza era mía, y todo Israel tenía sus ojos puestos en mí para que yo fuera rey, y la realeza se volvió y fue para mi hermano, porque de Jehová era para él.
+Y dijo: Tú conociste que a mí era el reino, y sobre mí pusieron todo Israel sus faces para reinar; y rodeó el reino y fue a mi hermano, porque de Jehová fue a él.
 
 ### 2:16
 
-Y ahora un favor tengo que pedirte, no me rechaces, y ella dijo: Dilo.
+Y ahora, una petición yo pido de ti; no hagas volver mi face. Y le dijo a él: Habla.
 
 ### 2:17
 
-Y él dijo: Dile a Salomón, el rey, que no me rechaza, y que me dé a Abishag la Sunamita por mujer.
+Y dijo: Di, por favor, a Shelomó el rey, porque no hará volver tu face, y me dé a Avishag la shunamit por mujer.
 
 ### 2:18
 
-Y Bat Sheva dijo: Bien, hablaré por ti al rey.
+Y dijo Bat-Shéva: Bueno; yo hablaré sobre ti al rey.
 
 ### 2:19
 
-Y Bat Sheva vino al rey Salomón para hablarle de Adonías, y el rey se levantó para recibirla, y se postró ante ella, y se sentó en su trono, y puso un trono para la madre del rey, y ella se sentó a su derecha.
+Y vino Bat-Shéva al rey Shelomó para hablarle a él sobre Adoniyá; y se levantó el rey a su encuentro, y se postró a ella, y se asentó sobre su trono, y puso trono para la madre del rey, y se asentó a su derecha.
 
 ### 2:20
 
-Y ella dijo: Pido un favor, que me lo concedas. Y el rey le dijo: Pídeme lo que quieras, no te negaré.
+Y dijo: Una petición pequeña yo pido de ti; no hagas volver mi face. Y le dijo a ella el rey: Pide, madre mía, porque no haré volver tu face.
 
 ### 2:21
 
-Y ella dijo: Dá a Abisag la sunamita a Adonías, mi hermano, por esposa.
+Y dijo: Sea dada Avishag la shunamit a Adoniyá tu hermano por mujer.
 
 ### 2:22
 
-Y el rey Salomón respondió a su madre: ¿Por qué pides a Abisag la sunamita para Adonías? Pídela el reino para él, pues es mi hermano mayor, y para Abiatar el sacerdote y para Joab hijo de Zeruyah.
+Y respondió el rey Shelomó y dijo a su madre: ¿Y por qué tú pides a Avishag la shunamit para Adoniyá? Y pide para él el reino, porque él es mi hermano el mayor que yo, y a él y a Evyatar el sacerdote y a Yoav hijo de Tseruyá.
 
 ### 2:23
 
-Y el rey Salomón juró por el Señor, diciendo: Así haga Dios conmigo y así me añada, si Adonías habla con palabras como estas.
+Y juró el rey Shelomó por Jehová, diciendo: Así me haga Dios, y así añada, que contra su alma habló Adoniyá la palabra esta.
 
 ### 2:24
 
-Y ahora vive el Señor, que me ha establecido y ha puesto sobre el trono de David mi padre, y que ha hecho para mí una casa como él había hablado, que hoy Adonías morirá.
+Y ahora, vive Jehová, que me preparó sobre el trono de David mi padre, y que me hizo casa como habló, que hoy será muerto Adoniyá.
 
 ### 2:25
 
-Y el rey Salomón envió a Benayahu hijo de Joada, y él lo encontró y lo mató.
+Y envió el rey Shelomó por mano de Benayahu hijo de Yehoyadá, y embistió en él, y murió.
 
 ### 2:26
 
-Y al sacerdote Abiatar dijo el rey: Ve a Anatea, a tus campos, porque eres un hombre de muerte. Pero hoy no te mataré, porque llevaste el arca de Jehová, mi Dios, delante de David, mi padre, y ayunaste por todo lo que ayunó mi padre.
+Y a Evyatar el sacerdote dijo el rey: Anatot anda sobre tus campos, porque hombre de muerte eres tú; y en el día este no te mataré, porque alzaste el arca de Adonai Jehová delante de faces de David mi padre, y porque te afligiste en todo lo que se afligió mi padre.
 
 ### 2:27
 
-Y Salomón apartó a Abiatar de ser sacerdote de Jehová, para que cumpliera la palabra de Jehová que había hablado acerca de la casa de Elí en Silo.
+Y echó Shelomó a Evyatar de ser sacerdote a Jehová, para llenar la palabra de Jehová que habló sobre la casa de Elí en Shiló.
 
 ### 2:28
 
-Y la noticia llegó a Joab, porque Joab había adherido a Adonías, pero no a Absalón. Y Joab huyó a la casa del Señor y se aferró a los cuernos del altar.
+Y el informe vino hasta Yoav, porque Yoav se inclinó detrás de Adoniyá, y detrás de Avshalom no se inclinó; y huyó Yoav a la tienda de Jehová, y agarró en cuernos del altar.
 
 ### 2:29
 
-Y se le dio a Salomón la noticia de que Joab había huido a la casa del Señor y que estaba junto al altar. Y Salomón envió a Benayahu hijo de Joada, diciendo: Ve y encuentralo.
+Y fue anunciado al rey Shelomó que huyó Yoav a la tienda de Jehová, y he aquí junto al altar; y envió Shelomó a Benayahu hijo de Yehoyadá, diciendo: Anda, embístele.
 
 ### 2:30
 
-Y Benayahu vino a la casa del Señor y le dijo: Así ha dicho el rey: Sal. Y él dijo: No, porque aquí moriré. Y Benayahu se sentó con el rey y le dijo: Así habló Joab y así me respondió.
+Y vino Benayahu a la tienda de Jehová, y le dijo a él: Así dijo el rey: Sal. Y dijo: No, porque aquí moriré. Y devolvió Benayahu al rey palabra, diciendo: Así habló Yoav, y así me respondió.
 
 ### 2:31
 
-Y el rey le dijo: Haz lo que él ha hablado y encuentralo y entiérralo, para que quites de mí y de la casa de mi padre la sangre que Joab derramó sin causa.
+Y le dijo a él el rey: Haz como habló, y embístele, y sepúltale, y quita sangres de gracia que derramó Yoav de sobre mí y de sobre la casa de mi padre.
 
 ### 2:32
 
-Y el Señor devolverá su sangre sobre su propia cabeza, porque golpeó a dos hombres inocentes y buenos y los mató, y mi padre David no lo sabía: a Abner hijo de Ner, jefe del ejército de Israel, y a Amasa hijo de Jeter, jefe del ejército de Judá.
+Y hará volver Jehová su sangre sobre su cabeza, que embistió en dos hombres justos y mejores que él, y los mató con la espada, y mi padre David no conoció: a Avner hijo de Ner, jefe de ejército de Israel, y a Amasá hijo de Yéter, jefe de ejército de Yehudá.
 
 ### 2:33
 
-Y sus sangres caerán sobre la cabeza de Joab y sobre la cabeza de su descendencia para siempre. Y a David y a su descendencia y a su casa y a su trono vendrá paz de parte del Señor para siempre.
+Y volverán sus sangres en la cabeza de Yoav y en la cabeza de su simiente para siempre; y a David y a su simiente y a su casa y a su trono será paz hasta siempre de con Jehová.
 
 ### 2:34
 
-Entonces Benayahu hijo de Joiada subió y lo encontró, y lo mató. Y lo enterró en su tumba en el desierto.
+Y subió Benayahu hijo de Yehoyadá, y embistió en él, y lo mató; y fue sepultado en su casa en el midbar.
 
 ### 2:35
 
-El rey entregó a Benayahu hijo de Joiada en lugar de él al mando del ejército, y entregó a Zadoque el sacerdote en lugar de Abiatar.
+Y dio el rey a Benayahu hijo de Yehoyadá debajo de él sobre el ejército; y a Tsadóq el sacerdote dio el rey debajo de Evyatar.
 
 ### 2:36
 
-El rey envió y llamó a Shimí y le dijo: Construye una casa para ti en Jerusalén y vive allí. No saldrás de allí a ningún lugar.
+Y envió el rey y llamó a Shimí, y le dijo a él: Edifica para ti casa en Yerushaláyim, y asienta allí, y no salgas de allí aquí y allá.
 
 ### 2:37
 
-Y será que en el día en que salgas y pases el arroyo de Cedrón, sabrás que morirás. Tu sangre vendrá sobre tu propia cabeza.
+Y será en el día de tu salir y cruzar el wadi Qidrón, conociendo conocerás que muriendo morirás; tu sangre será en tu cabeza.
 
 ### 2:38
 
-Shimí dijo al rey: Bien ha hablado mi señor el rey. Así lo hará tu siervo. Y Shimí vivió en Jerusalén muchos días.
+Y dijo Shimí al rey: Buena es la palabra; como habló mi señor el rey, así hará tu siervo. Y habitó Shimí en Yerushaláyim días muchos.
 
 ### 2:39
 
-Pasados tres años, dos siervos de Shimí huyeron a Achis hijo de Maacá, rey de Gat. Y se lo dijeron a Shimí diciendo: He aquí tus siervos en Gat.
+Y fue de cabo de tres años, y huyeron dos siervos de Shimí a Ajish hijo de Maaká, rey de Gat; y anunciaron a Shimí, diciendo: He aquí tus siervos en Gat.
 
 ### 2:40
 
-Entonces Shimí se levantó, preparó su asno y fue a Gat a buscar a sus siervos. Y Shimí salió y trajo a sus siervos de Gat.
+Y se levantó Shimí y ensilló su asno, y anduvo a Gat, a Ajish, para buscar a sus siervos; y anduvo Shimí y trajo a sus siervos de Gat.
 
 ### 2:41
 
-Se informó a Salomón que Shimí había salido de Jerusalén a Gat y que había vuelto.
+Y fue anunciado a Shelomó que anduvo Shimí de Yerushaláyim a Gat, y volvió.
 
 ### 2:42
 
-El rey envió y llamó a Shimí y le dijo: ¿No me juraste por el Señor y no me prometiste que en el día que salieras y fueras a cualquier lugar, sabrías que morirías? Y tú me dijiste: Bien ha hablado mi señor el rey. He escuchado.
+Y envió el rey y llamó a Shimí, y le dijo a él: ¿No te hice jurar por Jehová, y te amonesté, diciendo: En el día de tu salir y andares aquí y allá, conociendo conocerás que muriendo morirás? Y me dijiste a mí: Buena es la palabra; oí.
 
 ### 2:43
 
-¿Y por qué no has guardado el juramento que hiciste al Señor y la orden que te di?
+¿Y por qué no guardaste el juramento de Jehová y el mandamiento que te mandé sobre ti?
 
 ### 2:44
 
-El rey le dijo a Shimí: Tú sabías todo el mal que tu corazón sabía que había hecho contra David, tu señor. Y el Señor ha devuelto tu maldad sobre tu cabeza.
+Y dijo el rey a Shimí: Tú conociste todo el mal que conoció tu corazón, que hiciste a David mi padre; y hará volver Jehová tu mal en tu cabeza.
 
 ### 2:45
 
-Y el rey Salomón fue bendito, y el trono de David fue estable delante del Señor para siempre.
+Y el rey Shelomó es bendito, y el trono de David será preparado delante de faces de Jehová hasta siempre.
 
 ### 2:46
 
-El rey ordenó a Benayahu hijo de Joiada, quien salió y lo encontró y lo mató. Y el reino fue estable en manos de Salomón.
+Y mandó el rey a Benayahu hijo de Yehoyadá, y salió y embistió en él, y murió; y el reino fue preparado en mano de Shelomó.
 
 ## Capítulo 3
 
 ### 3:1
 
-Salomón se casó con la hija del faraón, rey de Egipto. Tomó a la hija del faraón y la llevó a la ciudad de David hasta que terminó de construir su casa, la casa del Señor y el muro de Jerusalén alrededor.
+Y se emparentó Shelomó con Faraón rey de Mizraim, y tomó a la hija de Faraón, y la trajo a la ciudad de David hasta acabar él de edificar su casa y la casa de Jehová y el muro de Yerushaláyim alrededor.
 
 ### 3:2
 
-Pero el pueblo sacrificaba en los altares, porque no habían construido un templo para el nombre del Señor hasta ese tiempo.
+Solo el pueblo sacrificaba en las bamot, porque no fue edificada casa para el nombre de Jehová hasta los días aquellos.
 
 ### 3:3
 
-Salomón amó al Señor para caminar en las normas de David, su padre, pero en los altares él sacrificaba y quemaba incienso.
+Y amó Shelomó a Jehová, para andar en estatutos de David su padre; solo en las bamot él sacrificaba y quemaba incienso.
 
 ### 3:4
 
-El rey fue a Gibeón para sacrificar allí, porque era la altares más grande. Salomón ofreció mil holocaustos sobre ese altar.
+Y anduvo el rey a Givón para sacrificar allí, porque ella era la bamá la grande; mil olot hacía subir Shelomó sobre el altar aquel.
 
 ### 3:5
 
-En Gibeón, el Señor se apareció a Salomón en sueños durante la noche y le dijo: Pide lo que te daré.
+En Givón se apareció Jehová a Shelomó en sueño de la noche; y dijo Dios: Pide qué te dé a ti.
 
 ### 3:6
 
-Salomón dijo: Tú has actuado con tu siervo David, mi padre, con gran misericordia, como él caminó delante de ti con verdad, justicia y rectitud de corazón contigo. Y has guardado la gran misericordia y le has dado un hijo que se sienta en su trono, como hoy.
+Y dijo Shelomó: Tú hiciste con tu siervo David mi padre misericordia grande, como anduvo delante de faces tuyas en verdad y en justicia y en rectitud de corazón contigo; y guardaste a él la misericordia la grande esta, y le diste a él hijo asentado sobre su trono como el día este.
 
 ### 3:7
 
-Ahora, Señor, mi Dios, tú me has hecho rey en lugar de David, mi padre, y yo soy un joven sin experiencia, no sé salir ni entrar.
+Y ahora, Jehová Dios mío, tú hiciste rey a tu siervo debajo de David mi padre; y yo soy joven pequeño; no sé salir y entrar.
 
 ### 3:8
 
-Tu siervo está en medio de tu pueblo, que has escogido, un pueblo numeroso que no puede ser contado ni medido.
+Y tu siervo está en medio de tu pueblo que elegiste, pueblo abundante que no será contado y no será numerado de abundancia.
 
 ### 3:9
 
-Dáselo a tu siervo un corazón que escuche para juzgar a tu pueblo para distinguir entre el bien y el mal, porque ¿quién puede juzgar a tu pueblo tan numeroso?
+Y da a tu siervo corazón oidor para juzgar a tu pueblo, para discernir entre bueno a malo; porque ¿quién podrá juzgar a tu pueblo el pesado este?
 
 ### 3:10
 
-Fue agradable el asunto ante los ojos del Señor, porque Solomon había pedido ese asunto.
+Y fue buena la palabra en ojos de Adonai, porque pidió Shelomó la palabra esta.
 
 ### 3:11
 
-Dijo Dios a mí: Porque has pedido este asunto, y no has pedido para ti días largos, ni riquezas, ni la vida de tus enemigos, sino que has pedido para ti discernir el juicio.
+Y le dijo a él Dios: Por cuanto pediste la palabra esta, y no pediste para ti días muchos, y no pediste para ti riquezas, y no pediste alma de tus enemigos, y pediste para ti discernir para oír juicio,
 
 ### 3:12
 
-He hecho conforme a tu palabra. He dado a ti un corazón sabio y entendido, que como tú no ha habido antes de ti, ni después de ti habrá quien sea como tú.
+he aquí hice conforme a tus palabras; he aquí di a ti corazón sabio y entendido, que como tú no fue delante de ti, y detrás de ti no se levantará como tú.
 
 ### 3:13
 
-Y también lo que no has pedido te he dado: riquezas y gloria, que como tú no ha habido rey en todo el tiempo.
+Y también lo que no pediste di a ti, también riquezas también gloria, que no fue como tú hombre entre los reyes todos tus días.
 
 ### 3:14
 
-Y si andas en mis caminos para guardar mis estatutos y mis mandamientos, como anduvo David tu padre, prolongaré tus días.
+Y si andas en mis caminos, para guardar mis estatutos y mis mandamientos, como anduvo David tu padre, y alargaré tus días.
 
 ### 3:15
 
-Entonces se levantó Solomon y vino a Jerusalén y se puso delante del arca de la alianza del Señor, y ofreció holocaustos y hizo sacrificios de paz y hizo una fiesta para todos sus siervos.
+Y despertó Shelomó, y he aquí sueño; y vino a Yerushaláyim, y se paró delante de faces del arca de pacto de Adonai, e hizo subir olot, e hizo shelamím, e hizo banquete a todos sus siervos.
 
 ### 3:16
 
-Entonces vinieron dos mujeres meretrices a ver al rey, y se pusieron delante de él.
+Entonces vinieron dos mujeres, prostitutas, al rey, y se pararon delante de faces de él.
 
 ### 3:17
 
-Y dijo una de las mujeres: Mi señor, yo y esta mujer moramos en una casa, y yo parí con ella en la casa.
+Y dijo la mujer la una: Ay, mi señor, yo y esta mujer asentadas en casa una, y di a luz con ella en la casa.
 
 ### 3:18
 
-Y sucedió que al tercer día de mi parto, esta mujer también parió, y nosotros estábamos solos en la casa, y no había otro con nosotros en la casa, sino que nosotros dos estábamos en la casa.
+Y fue en el día el tercero de mi dar a luz, y dio a luz también la mujer esta; y nosotras juntas; no hay extraño con nosotras en la casa; solo dos nosotras en la casa.
 
 ### 3:19
 
-Y murió el hijo de esta mujer, que había acostado conmigo.
+Y murió el hijo de la mujer esta de noche, que se acostó sobre él.
 
 ### 3:20
 
-Y se levantó en medio de la noche y tomó a mi hijo y lo echó a su lado, y a su hijo muerto echó a mi lado.
+Y se levantó en medio de la noche, y tomó a mi hijo de junto a mí, y tu sierva dormida, y lo acostó en su seno, y a su hijo el muerto acostó en mi seno.
 
 ### 3:21
 
-Y me levanté por la mañana para amamantar a mi hijo, y he aquí que estaba muerto, y me miré por la mañana, y he aquí que no estaba mi hijo que había parido.
+Y me levanté en la mañana para amamantar a mi hijo, y he aquí muerto; y miré a él en la mañana, y he aquí no era mi hijo que di a luz.
 
 ### 3:22
 
-Y la otra mujer dijo: No, mi hijo es el que vive, y tu hijo es el muerto. Y ella decía: No, tu hijo es el muerto, y mi hijo es el que vive. Y hablaron ante el rey.
+Y dijo la mujer la otra: No, porque mi hijo el vivo, y tu hijo el muerto. Y esta decía: No, porque tu hijo el muerto, y mi hijo el vivo. Y hablaban delante de faces del rey.
 
 ### 3:23
 
-Y el rey dijo: Esta dice: Mi hijo es el que vive, y tu hijo es el muerto. Y la otra decía: No, tu hijo es el muerto, y mi hijo es el que vive.
+Y dijo el rey: Esta dice: Este mi hijo el vivo, y tu hijo el muerto; y esta dice: No, porque tu hijo el muerto, y mi hijo el vivo.
 
 ### 3:24
 
-Y el rey dijo: Traedme una espada. Y trajeron una espada ante el rey.
+Y dijo el rey: Tomen a mí espada. Y trajeron la espada delante de faces del rey.
 
 ### 3:25
 
-Y el rey dijo: Partid al niño vivo en dos, y dad la mitad a una y la mitad a la otra.
+Y dijo el rey: Corten al niño el vivo a dos, y den la mitad a la una y la mitad a la una.
 
 ### 3:26
 
-Y la mujer cuyo hijo estaba vivo se acercó al rey, y dijo: ¡Oh, mi señor! Ten misericordia de mí, y danle a ella al niño vivo, y no lo mates. Y la otra decía: ¡No! Mi hijo y tu hijo.
+Y dijo la mujer que su hijo el vivo al rey, porque se encendieron sus entrañas sobre su hijo, y dijo: Ay, mi señor, den a ella al nacido el vivo, y matando no lo maten. Y esta decía: También a mí también a ti no será; córtenlo.
 
 ### 3:27
 
-Y respondió el rey, y dijo: Danle a ella al niño vivo, y no lo mates. Ella es su madre.
+Y respondió el rey y dijo: Den a ella al nacido el vivo, y matando no lo maten; ella su madre.
 
 ### 3:28
 
-Y oyeron todos los israelitas el juicio que juzgó el rey, y temieron al rey, porque vieron que la sabiduría de Dios estaba en él para juzgar.
+Y oyó todo Israel el juicio que juzgó el rey, y temieron de faces del rey, porque vieron que sabiduría de Dios estaba en su interior para hacer juicio.
 
 ## Capítulo 4
 
 ### 4:1
 
-Y Salomón fue rey sobre todo Israel.
+Y fue el rey Shelomó rey sobre todo Israel.
 
 ### 4:2
 
-Y estos fueron los principales que tenía: Azarías hijo de Sadoc, el sacerdote.
+Y estos son los jefes que a él: Azaryahu hijo de Tsadóq el sacerdote;
 
 ### 4:3
 
-Elíasor y Ahia, hijos de Sisamá, escribanos; Josafat hijo de Hilud, el que registraba.
+Elijóref y Ajiyá, hijos de Shishá, escribas; Yehoshafat hijo de Ajilud el recordador;
 
 ### 4:4
 
-Y Benayahu hijo de Joiada sobre el ejército; y Sadoc y Abiatar, sacerdotes;
+y Benayahu hijo de Yehoyadá sobre el ejército; y Tsadóq y Evyatar sacerdotes;
 
 ### 4:5
 
-Y Azarías hijo de Natán sobre los que estaban de guardia; y Zabud hijo de Natán, sacerdote, amigo del rey.
+y Azaryahu hijo de Natán sobre los nitsavim; y Zabud hijo de Natán sacerdote, amigo del rey;
 
 ### 4:6
 
-Y Achishar sobre la casa; y Adoniram hijo de Abda sobre el tributo
+y Ajishar sobre la casa; y Adoniram hijo de Avdá sobre el mas.
 
 ### 4:7
 
-Y a Salomón le daban doce administradores sobre todo Israel, los cuales proveían al rey y a su casa; cada mes cambiaban uno para proveer
+Y a Shelomó doce nitsavim sobre todo Israel, y sustentaban al rey y a su casa; un mes en el año era sobre uno para sustentar.
 
 ### 4:8
 
-Estos son los nombres: Ben-Hur en el monte Efraín
+Y estos sus nombres: Ben-Jur en el monte de Efráyim;
 
 ### 4:9
 
-Ben-Deker en Makaz y en Shaalbim y en Bet-Shemesh y en Elon-Bet-Hanan
+Ben-Déqer en Maqats y en Shaalbím y Bet Shémesh y Ayalón Bet Janán;
 
 ### 4:10
 
-Ben-Hesed en Arubot, su hijo Socoh y toda la tierra de Hepher
+Ben-Jésed en Arubot; a él Sokhó y toda la tierra de Jéfer;
 
 ### 4:11
 
-Ben-Abinadab, toda la Nafat-Dor, Taphath hija de Salomón fue su mujer
+Ben-Avinadav todo Nafat Dor; Tafat hija de Shelomó fue a él por mujer;
 
 ### 4:12
 
-Baana hijo de Ahilud, Taanach y Megido y toda la casa de Senán que está cerca de Zartanah, debajo de Iezrael, desde Senán hasta Abel-Meholah hasta el lado de Iakmeam
+Baaná hijo de Ajilud: Taanak y Meguidó y todo Bet Sheán que está junto a Tsaratan debajo de Yizreel, de Bet Sheán hasta Avel Mejolá, hasta más allá de Yoqmeam;
 
 ### 4:13
 
-Ben-Gebber en Ramot-Gilead, su hijo Havoth-Jair, hijo de Manasés, que está en Gilead, su Hevel-Argob en Bashan, sesenta ciudades fortificadas con puertas de bronce y barrotes de bronce
+Ben-Guéver en Ramot Gilad; a él Javot Yair hijo de Menashé que en el Gilad; a él jevel Argov que en el Bashán, sesenta ciudades grandes, muro y barra de cobre;
 
 ### 4:14
 
-Ahi-nadab hijo de Ido, Mahanaim
+Ajinadav hijo de Idó, Majanáyim;
 
 ### 4:15
 
-Ahi-maase en Neftalí, él tomó a Basemath hija de Salomón por mujer
+Ajimáats en Naftalí; también él tomó a Basemat hija de Shelomó por mujer;
 
 ### 4:16
 
-Baana hijo de Husai, en Aser y en Aloth
+Baaná hijo de Jushái en Asher y en Bealot;
 
 ### 4:17
 
-Josafat hijo de Paruah, en Iezrael
+Yehoshafat hijo de Parúaj en Yisasjar;
 
 ### 4:18
 
-Shimei hijo de Ela, en Benjamín
+Shimí hijo de Ela en Binyamín;
 
 ### 4:19
 
-Gibeón hijo de Uri, en la tierra de Galaad, la tierra de Sehón, rey de los amorreos, y de Og, rey de Basán, y un gobernador en la tierra
+Guéver hijo de Uri en tierra de Gilad, tierra de Sijón rey del amorí y de Og rey del Bashán; y nitsav uno que estaba en la tierra.
 
 ### 4:20
 
-Judá e Israel eran numerosos como el polvo en la costa del mar, comiendo y bebiendo y gozando
+Yehudá e Israel abundantes como la arena que sobre el mar a abundancia, comiendo y bebiendo y alegrándose.
 
 ### 4:21
 
-Y Salomón dominaba sobre todos los reyes desde el río hasta la tierra de los filisteos y hasta el límite de Egipto. Todos los días de su vida le traían presentes y servían a Salomón
+Y Shelomó dominaba en todos los reinos desde el Río, tierra de pelishtim, y hasta el límite de Mizraim; presentando minjá y sirviendo a Shelomó todos los días de su vida.
 
 ### 4:22
 
-Y el pan de Salomón cada día era treinta coros de harina fina y sesenta coros de harina común
+Y fue el pan de Shelomó para día uno: treinta kor de flor de harina y sesenta kor de harina;
 
 ### 4:23
 
-Diez bueyes de cebo, veinte bueyes de pasto, cien ovejas, además de ciervos, cabras, javalíes y aves de corral
+diez ganado cebados y veinte ganado de pasto y cien ovejas, aparte de ciervo y tsví y yajmur y aves cebadas.
 
 ### 4:24
 
-Porque él dominaba sobre todos los reyes que estaban al otro lado del río desde Tifsa hasta Asdod, y tenía paz en todos los lados
+Porque él dominaba en todo el otro lado del Río, desde Tipsaj y hasta Azá, en todos los reyes del otro lado del Río; y paz era a él de todos sus lados alrededor.
 
 ### 4:25
 
-Y vivían Judá e Israel en seguridad, cada uno bajo su viña y bajo su higuera, desde Dan hasta Beerseba, todos los días de Salomón
+Y habitó Yehudá e Israel en seguridad, hombre debajo de su vid y debajo de su higuera, desde Dan y hasta Beer Sheva, todos los días de Shelomó.
 
 ### 4:26
 
-Y Salomón tenía cuarenta mil corrales de caballos y doce mil jinetes
+Y fue a Shelomó cuarenta mil pesebres de caballos para sus carros, y doce mil jinetes.
 
 ### 4:27
 
-Y los gobernadores proporcionaban al rey Salomón y a todos los que se acercaban al trono del rey Salomón, cada uno en su turno, sin falta de nada
+Y sustentaban estos nitsavim al rey Shelomó y a todo el que se acercaba a la mesa del rey Shelomó, hombre su mes; no faltaba cosa.
 
 ### 4:28
 
-Y los segadores y los labradores traían al lugar que estuviera, cada uno según su turno, heno y paja para los caballos y para los carros
+Y la cebada y la paja para los caballos y para el réjesh traían al lugar que sería allí, hombre conforme a su juicio.
 
 ### 4:29
 
-Y Dios dio sabiduría a Salomón y gran entendimiento y espíritu amplio como el polvo en la costa del mar
+Y dio Dios sabiduría a Shelomó y entendimiento mucho mucho, y anchura de corazón como la arena que sobre el labio del mar.
 
 ### 4:30
 
-La sabiduría de Salomón superó la sabiduría de todos los pueblos del oriente y la sabiduría de Egipto.
+Y abundó la sabiduría de Shelomó más que la sabiduría de todos los hijos de Qédem y más que toda la sabiduría de Mizraim.
 
 ### 4:31
 
-Salomón era más sabio que todos los hombres, incluyendo a Etán, a Heman, a Calcol y a Darda, hijos de Mahol. Su fama se extendió por todas las naciones alrededor.
+Y fue sabio más que todo el hombre, más que Etán el ezrají y Hemán y Kalkol y Dardá, hijos de Majol; y fue su nombre en todas las naciones alrededor.
 
 ### 4:32
 
-Salomón pronunció tres mil proverbios y cantó mil y cinco canciones.
+Y habló tres mil mashal; y fue su canto cinco y mil.
 
 ### 4:33
 
-Habló sobre los árboles, desde el cedro del Líbano hasta el hisopo que crece en el muro, y sobre los animales, las aves, los reptiles y los peces.
+Y habló sobre los árboles, desde el cedro que en el Levanón y hasta el hisopo que sale en el muro; y habló sobre la bestia y sobre el ave y sobre el reptil y sobre los peces.
 
 ### 4:34
 
-Vinieron a escuchar la sabiduría de Salomón, desde todos los reinos de la tierra, porque habían oído hablar de su sabiduría.
+Y vinieron de todos los pueblos para oír la sabiduría de Shelomó, de parte de todos los reyes de la tierra que oyeron su sabiduría.
 
 ## Capítulo 5
 
 ### 5:1
 
-Hiram, rey de Tiro, envió a sus servidores a Salomón, porque había oído que lo habían ungido rey en lugar de su padre. Hiram siempre había amado a David.
+Y envió Jiram rey de Tsor a sus siervos a Shelomó, porque oyó que a él ungieron por rey debajo de su padre, porque amante era Jiram a David todos los días.
 
 ### 5:2
 
-Salomón envió a Hiram esta carta.
+Y envió Shelomó a Jiram, diciendo:
 
 ### 5:3
 
-Sabes que mi padre David no pudo construir un templo para el nombre de Jehová, su Dios, debido a las guerras que lo rodeaban, hasta que Jehová puso a sus enemigos bajo sus pies.
+Tú conociste a David mi padre, que no pudo edificar casa para el nombre de Jehová su Dios de faces de la guerra que lo rodearon, hasta dar Jehová a ellos debajo de palmas.
 
 ### 5:4
 
-Ahora Jehová, mi Dios, me ha dado paz alrededor, no hay enemigo ni calamidad alguna.
+Y ahora, dio reposo Jehová Dios mío a mí alrededor; no hay satán y no hay encuentro malo.
 
 ### 5:5
 
-Por eso digo que voy a construir un templo para el nombre de Jehová, mi Dios, tal como Dios habló a David, mi padre, diciendo: Tu hijo, que pondré en tu lugar, él construirá el templo para mi nombre.
+Y he aquí yo digo edificar casa para el nombre de Jehová Dios mío, como habló Jehová a David mi padre, diciendo: Tu hijo que daré debajo de ti sobre tu trono, él edificará la casa para mi nombre.
 
 ### 5:6
 
-Ahora, envía y corta para mí cedros del Líbano. Mis hombres trabajarán con los tuyos, y yo pagaré a tus hombres, según lo que decidas, porque sabes que no tenemos en nosotros a nadie que sepa cortar madera como los sidonios.
+Y ahora, manda, y cortarán a mí cedros del Levanón; y mis siervos serán con tus siervos, y salario de tus siervos daré a ti conforme a todo lo que digas; porque tú conociste que no hay entre nosotros hombre que sepa cortar árboles como los tsidonim.
 
 ### 5:7
 
-Cuando Hiram escuchó las palabras de Salomón, se alegró mucho y dijo: Bendito sea Jehová en el día en que dio a David un hijo sabio para este gran pueblo.
+Y fue al oír Jiram las palabras de Shelomó, y se alegró mucho, y dijo: Bendito Jehová hoy, que dio a David hijo sabio sobre el pueblo el abundante este.
 
 ### 5:8
 
-Hiram le respondió a Salomón: He escuchado lo que me has enviado a decir, y haré todo lo que me pides en cuanto a los cedros del Líbano y los cipreses.
+Y envió Jiram a Shelomó, diciendo: Oí lo que enviaste a mí; yo haré todo tu deseo en árboles de cedros y en árboles de cipreses.
 
 ### 5:9
 
-Mis hombres los llevarán desde el Líbano al mar, y los armaré en barcos para que vayan al lugar que me indiques. Los desembarcaré allí, y tú los cargarás para que hagas lo que te pido, para proveer la comida para mi casa.
+Mis siervos bajarán del Levanón al mar, y yo los pondré dovrot en el mar hasta el lugar que envíes a mí, y los desataré allí, y tú alzarás; y tú harás mi deseo, para dar pan de mi casa.
 
 ### 5:10
 
-Hiram dio a Salomón los cedros y los cipreses que él le pedía.
+Y fue Jiram dando a Shelomó árboles de cedros y árboles de cipreses todo su deseo.
 
 ### 5:11
 
-Salomón dio a Hiram veinte mil coros de trigo para alimento, y veinte coros de aceite de higos cada año.
+Y Shelomó dio a Jiram veinte mil kor de trigo, sustento para su casa, y veinte kor de aceite machacado; así daba Shelomó a Jiram año en año.
 
 ### 5:12
 
-El SEÑOR dio a Salomón sabiduría como le había prometido. Entonces hubo paz entre Hiram y Salomón, y sellaron un pacto.
+Y Jehová dio sabiduría a Shelomó como habló a él; y fue paz entre Jiram y entre Shelomó, y cortaron pacto los dos de ellos.
 
 ### 5:13
 
-El rey Salomón impuso un tributo sobre todo Israel, y el tributo fue de treinta mil hombres.
+Y alzó el rey Shelomó mas de todo Israel; y fue el mas treinta mil hombres.
 
 ### 5:14
 
-Los llevó a Líbano en turnos de diez mil cada mes, un mes en Líbano y dos meses en casa. Adonirám estaba al mando del tributo.
+Y los envió al Levanón, diez mil en el mes por turnos; un mes estaban en el Levanón, dos meses en su casa; y Adoniram sobre el mas.
 
 ### 5:15
 
-Salomón tenía setenta mil cargadores y ochenta mil cortadores de piedra en el monte.
+Y fue a Shelomó setenta mil alzadores de carga y ochenta mil cortadores en el monte,
 
 ### 5:16
 
-Además de los jefes de obra que tenía Salomón, tres mil y trescientos que estaban sobre el pueblo, los que trabajaban en la obra.
+aparte de jefes de los nitsavim de Shelomó que sobre la obra, tres mil y trescientos, dominando en el pueblo los que hacían en la obra.
 
 ### 5:17
 
-El rey ordenó que trajeran grandes piedras, piedras preciosas para cimentar el templo, piedras de sillería.
+Y mandó el rey, y movieron piedras grandes, piedras preciosas, para cimentar la casa, piedras de gazit.
 
 ### 5:18
 
-Los constructores de Salomón, los constructores de Hiram y los gibeonitas prepararon la madera y las piedras para construir el templo.
+Y labraron los edificadores de Shelomó y los edificadores de Jiram y los guivlim, y prepararon los árboles y las piedras para edificar la casa.
 
 ## Capítulo 6
 
 ### 6:1
 
-En el año cuatrocientos ochenta del exilio de los hijos de Israel de la tierra de Egipto, en el cuarto año del reinado de Salomón, en el mes de ziv, que es el segundo mes, Salomón comenzó a construir el templo para el SEÑOR.
+Y fue en ochenta año y cuatro cientos año al salir hijos de Israel de tierra de Mizraim, en el año el cuarto, en el mes Ziv —él el mes el segundo— al reinar Shelomó sobre Israel, y edificó la casa a Jehová.
 
 ### 6:2
 
-La casa que construyó el rey Salomón para el SEÑOR tenía sesenta codos de largo, veinte de ancho y treinta de alto.
+Y la casa que edificó el rey Shelomó a Jehová: sesenta codo su largo, y veinte su ancho, y treinta codo su altura.
 
 ### 6:3
 
-El pórtico de la casa tenía veinte codos de largo, en la longitud de la casa, y diez codos de ancho, en la anchura de la casa.
+Y el ulám sobre faces del hejal de la casa: veinte codo su largo sobre faces del ancho de la casa; diez en el codo su ancho sobre faces de la casa.
 
 ### 6:4
 
-Hizo para la casa ventanas con marcos redondos.
+Y hizo a la casa ventanas de marcos cerradas.
 
 ### 6:5
 
-Construyó alrededor de la casa, en el muro de la casa, salientes y columnatas alrededor del templo y del santuario interior, y construyó salientes alrededor.
+Y edificó sobre el muro de la casa alrededor los muros de la casa alrededor al hejal y al debír, e hizo costillas alrededor.
 
 ### 6:6
 
-El saliente de la planta baja tenía cinco codos de ancho, el de la planta media seis codos de ancho y el de la planta superior siete codos de ancho, porque había escalones para el templo alrededor fuera, para no entrar en los muros de la casa.
+La inferior: cinco en el codo su ancho; y la media: seis en el codo su ancho; y la tercera: siete en el codo su ancho; porque resaltos dio a la casa alrededor afuera, para no asir en los muros de la casa.
 
 ### 6:7
 
-Cuando se construyó la casa, se hizo de piedras preparadas; no se oyó el sonido de martillo, de sierra ni de cualquier herramienta de hierro en la casa mientras se construía.
+Y la casa en su edificarse: piedra completa de cantera fue edificada; y martillos y el hacha, todo utensilio de hierro, no fue oído en la casa en su edificarse.
 
 ### 6:8
 
-El acceso a la sala media era hacia el costado derecho de la casa, y subían escaleras hacia la sala media, y desde la sala media hacia la sala superior.
+Abertura de la costilla la media hacia el hombro de la casa el derecho; y por caracoles subían sobre la media, y de la media hacia los terceros.
 
 ### 6:9
 
-Construyó la casa y la terminó, y la revistió de madera de cedro y de tabiques de madera de cedro.
+Y edificó la casa y la acabó, y techó la casa con vigas y filas en cedros.
 
 ### 6:10
 
-Construyó el saliente alrededor de toda la casa, de cinco codos de alto, y la revistió de madera de cedro.
+Y edificó el sobre toda la casa: cinco codos su altura; y asió la casa con árboles de cedros.
 
 ### 6:11
 
-El SEÑOR habló a Salomón diciendo:
+Y fue palabra de Jehová a Shelomó diciendo:
 
 ### 6:12
 
-Si andas en mis estatutos, guardas mis mandamientos y haces todas mis ordenanzas y las guardas, caminando en ellas, yo afirmaré mi palabra que di a David tu padre.
+La casa esta que tú estás edificando: si andas en mis estatutos y mis juicios haces, y guardas todos mis mandamientos para andar en ellos, y levantaré mi palabra contigo que hablé a David tu padre;
 
 ### 6:13
 
-Moraré en medio de los hijos de Israel, y no los dejaré en suerte.
+y habitaré en medio de hijos de Israel, y no abandonaré a mi pueblo Israel.
 
 ### 6:14
 
-Salomón construyó la casa y la terminó.
+Y edificó Shelomó la casa y la acabó.
 
 ### 6:15
 
-Construyó las paredes de la casa con maderas de cedro, desde el suelo hasta los tabiques del techo. Todo el espacio interior estaba recubierto de madera; el suelo estaba recubierto de maderas de ciprés.
+Y edificó los muros de la casa por dentro con costillas de cedros, desde el suelo de la casa hasta los muros del techo: recubrió madera por dentro; y recubrió el suelo de la casa con costillas de cipreses.
 
 ### 6:16
 
-Construyó veinte codos de la casa con maderas de cedro, desde el suelo hasta los tabiques. Construyó para ella un lugar en el interior, para el santuario, el lugar santísimo.
+Y edificó los veinte codo de la casa con costillas de cedros desde el suelo hasta los muros; y edificó para él por dentro para debír, para santo de los santos.
 
 ### 6:17
 
-La casa tenía cuarenta codos; era el salón hacia delante.
+Y cuarenta en el codo era la casa —él el hejal— delante.
 
 ### 6:18
 
-Contra la casa había madera de cedro interior, desde el suelo hasta los tabiques, con tabiques de madera de cedro. Todo era madera de cedro; no se veía piedra.
+Y cedro hacia la casa por dentro: talla de calabazas y abiertos de flores; todo cedro, no piedra vista.
 
 ### 6:19
 
-Hizo el santuario en el interior, para poner allí el arca de la alianza del Señor.
+Y el debír en medio de la casa por dentro preparó, para dar allí el arca de pacto de Jehová.
 
 ### 6:20
 
-Ante el santuario había veinte codos de largo, veinte codos de ancho y veinte codos de alto. La recubrió de oro fino y recubrió el altar de cedro.
+Y delante del debír: veinte codo largo, y veinte codo ancho, y veinte codo su altura; y lo recubrió oro cerrado; y recubrió el altar de cedro.
 
 ### 6:21
 
-Salomón recubrió la casa por dentro de oro fino. Cubrió con láminas de oro el lugar del santuario, y recubrió de oro el lugar del santuario.
+Y recubrió Shelomó la casa por dentro oro cerrado; y pasó cadenas de oro delante del debír, y lo recubrió oro.
 
 ### 6:22
 
-Recubrió de oro toda la casa hasta terminar toda la casa. Recubrió de oro el altar que estaba en el santuario.
+Y toda la casa recubrió oro hasta acabar toda la casa; y todo el altar que al debír recubrió oro.
 
 ### 6:23
 
-Hizo en el santuario dos querubines de madera de olivo, de diez codos de altura.
+Y hizo en el debír dos keruvim de árboles de aceite: diez codos su altura.
 
 ### 6:24
 
-Cinco codos era la longitud de la ala del querubín, y cinco codos la longitud de la ala del otro querubín. Desde el extremo de una ala hasta el extremo de la otra ala, era de diez codos.
+Y cinco codos ala del keruv la una, y cinco codos ala del keruv la segunda: diez codos de extremos de sus alas hasta extremos de sus alas.
 
 ### 6:25
 
-El segundo querubín tenía diez codos de altura; la medida era la misma para ambos querubines.
+Y diez en el codo el keruv el segundo: medida una y talla una a los dos keruvim.
 
 ### 6:26
 
-La altura del primer querubín era de diez codos; la del segundo querubín era la misma.
+Altura del keruv el uno: diez en el codo; y así el keruv el segundo.
 
 ### 6:27
 
-Colocó a los querubines en el interior del santuario, y extendieron sus alas. La ala del uno tocaba el muro, y la ala del otro querubín tocaba el muro opuesto, y las alas de los dos tocaban una a la otra en el centro del santuario.
+Y puso los keruvim en medio de la casa la interior; y desplegaron las alas de los keruvim, y tocó ala del uno en el muro, y ala del keruv el segundo tocando en el muro el segundo; y sus alas hacia el medio de la casa: tocando ala a ala.
 
 ### 6:28
 
-Forjó los querubines con oro.
+Y recubrió los keruvim oro.
 
 ### 6:29
 
-Y en todas las paredes del templo, desde el suelo hasta el techo, grabó figuras de querubines, palmeras y flores de loto, tanto en el interior como en el exterior.
+Y todos los muros de la casa alrededor talló grabados de tallas: keruvim y palmeras y abiertos de flores, por dentro y al exterior.
 
 ### 6:30
 
-Forró el suelo del templo con oro, tanto en el interior como en el exterior.
+Y el suelo de la casa recubrió oro, por dentro y al exterior.
 
 ### 6:31
 
-Hizo la entrada del santuario con puertas de cedro; las hojas de las puertas estaban hechas de palos de cedro, con marcos de cinco lados.
+Y la abertura del debír hizo: puertas de árboles de aceite; el dintel, postes: quinta.
 
 ### 6:32
 
-Y en las dos hojas de cedro grabó figuras de querubines, palmeras y flores de loto, y forró de oro las hojas de las puertas, y el oro descendía sobre los querubines y las palmeras.
+Y dos puertas de árboles de aceite; y talló sobre ellas tallas de keruvim y palmeras y abiertos de flores, y recubrió oro; y extendió sobre los keruvim y sobre las palmeras el oro.
 
 ### 6:33
 
-Así hizo también la entrada del templo con puertas de cedro, con marcos de cuatro lados.
+Y así hizo a la abertura del hejal: postes de árboles de aceite, de cuarta.
 
 ### 6:34
 
-Y las dos hojas de las puertas estaban hechas de ciprés; dos hojas de la una puerta estaban hechas de marcos, y dos hojas de la otra puerta estaban hechas de marcos.
+Y dos puertas de árboles de cipreses: dos costillas de la puerta la una giratorias, y dos hojas de la puerta la segunda giratorias.
 
 ### 6:35
 
-Grabó querubines, palmeras y flores de loto, y forró de oro las hojas de las puertas, y el oro estaba nivelado sobre el grabado.
+Y talló keruvim y palmeras y abiertos de flores, y recubrió oro enderezado sobre lo grabado.
 
 ### 6:36
 
-Construyó la cortina interior con tres filas de piedra de cedro y una fila de marcos de ciprés.
+Y edificó el patio el interior: tres filas de piedra labrada, y fila de cortados de cedros.
 
 ### 6:37
 
-En el cuarto año, en el mes de ziv, se comenzó a construir el templo del Señor.
+En el año el cuarto fue fundada casa de Jehová en luna Ziv.
 
 ### 6:38
 
-Y en el año quince, en el mes de bul, que es el octavo mes, se acabó la casa conforme a todos sus diseños y conforme a todas sus instrucciones, y la construyó en siete años.
+Y en el año el undécimo, en luna Bul —él el mes el octavo— acabó la casa a todas sus cosas y a todo; y la edificó siete años.
 
 ## Capítulo 7
 
 ### 7:1
 
-Y Salomón construyó su casa; la construyó en trece años y acabó su casa.
+Y su casa edificó Shelomó trece año, y acabó toda su casa.
 
 ### 7:2
 
-Y construyó la casa del bosque de lebánón; cien codos su longitud, cincuenta codos su anchura y treinta codos su altura; sobre cuatro filas de columnas de cedro había veinte codos de columnas.
+Y edificó la casa de bosque del Livanón: cien codo su largo, y cincuenta codo su ancho, y treinta codo su altura, sobre cuatro filas de pilares de cedros, y vigas de cedros sobre los pilares.
 
 ### 7:3
 
-Y cubrió de cedro desde el suelo hasta las junturas que estaban sobre las columnas, cuarenta y cinco, quince filas.
+Y techado en cedro desde arriba sobre las costillas que sobre los pilares: cuarenta y cinco, quince la fila.
 
 ### 7:4
 
-Y tres filas de ventanas, y una vista se abría a otra vista tres veces.
+Y marcos: tres filas; y vista a vista tres veces.
 
 ### 7:5
 
-Y todas las entradas y las puertas cuadradas, ventanas; y una vista se abría a otra vista tres veces.
+Y todas las aberturas y los postes cuadrados de marco; y frente a vista a vista tres veces.
 
 ### 7:6
 
-Y hizo el pórtico de las columnas, cincuenta codos su longitud, y treinta codos su anchura; y el pórtico estaba delante de ellos, y columnas y un velo delante de ellos.
+Y el ulám de los pilares hizo: cincuenta codo su largo, y treinta codo su ancho; y ulám sobre sus faces, y pilares y umbral sobre sus faces.
 
 ### 7:7
 
-Y el pórtico del trono, donde juzgaba, hizo el pórtico de la sentencia; y cubrió de cedro desde el suelo hasta el suelo.
+Y el ulám del trono donde juzgaba allí —ulám del juicio— hizo; y techado en cedro desde el suelo hasta el suelo.
 
 ### 7:8
 
-Y la casa donde él habitaba, la otra mitad de la casa desde la casa hasta el pórtico conforme a esta obra la hizo; y para la hija de faraón haría una casa conforme a esta obra.
+Y su casa donde se sentaba allí: el patio el otro, por dentro al ulám; como la obra esta era; y casa hacía a hija de Faraón que tomó Shelomó, como el ulám este.
 
 ### 7:9
 
-Todas estas piedras eran preciosas, conforme a las medidas de piedra cuadrada, cortadas con sierra, desde la casa hasta fuera, y desde el fundamento hasta los cimientos, y desde fuera hasta la gran plaza.
+Todas estas: piedras preciosas según medidas de labrada, aserradas con la sierra, por dentro y por fuera, y desde el cimiento hasta los remates, y por fuera hasta el patio el grande.
 
 ### 7:10
 
-Y desde el fundamento eran piedras preciosas, piedras grandes, piedras de diez codos y piedras de ocho codos.
+Y cimentado: piedras preciosas, piedras grandes —piedras de diez codos y piedras de ocho codos.
 
 ### 7:11
 
-Y desde arriba eran piedras preciosas, conforme a las medidas de piedra cuadrada, y de cedro.
+Y desde arriba: piedras preciosas según medidas de labrada, y cedro.
 
 ### 7:12
 
-Y alrededor estaba una gran corte con tres filas de piedra tallada y una fila de madera de cedro. Y la corte interior del templo y el atrio del templo tenían esta disposición.
+Y el patio el grande alrededor: tres filas de labrada, y fila de cortados de cedros; y al patio de casa de Jehová el interior, y al ulám de la casa.
 
 ### 7:13
 
-El rey Salomón envió y trajo a Huram de Tiro.
+Y envió el rey Shelomó y tomó a Jiram de Tsor.
 
 ### 7:14
 
-Era hijo de una viuda de la tribu de Naftalí, y su padre era de Tiro, herrero de cobre. Él estaba lleno de sabiduría, entendimiento y conocimiento para hacer toda clase de trabajo en cobre. Y vino a Salomón, el rey, y realizó toda su obra.
+Hijo de mujer viuda era él, de vara de Naftalí, y su padre hombre tsorí, artesano de cobre; y se llenó de la sabiduría y de la inteligencia y del conocimiento para hacer toda obra en el cobre; y vino al rey Shelomó y hizo toda su obra.
 
 ### 7:15
 
-Y forjó dos columnas de cobre; cada columna tenía dieciocho codos de altura. La altura de una columna era de dieciocho codos, y un cordel de veintidós codos rodeaba la columna.
+Y formó los dos pilares de cobre: dieciocho codo altura del pilar el uno, y hilo de doce codo rodeaba el pilar el segundo.
 
 ### 7:16
 
-Y hizo dos capiteles de cobre para ponerlos sobre las columnas, fundidos; cada capitel tenía cinco codos de altura. El capitel de una columna tenía cinco codos de altura, y el capitel de la otra columna tenía cinco codos de altura.
+Y dos koterot hizo para poner sobre cabezas de los pilares, fundición de cobre: cinco codos altura de la koteret la una, y cinco codos altura de la koteret la segunda.
 
 ### 7:17
 
-Las mallas de la red, obra de mallas de red, altas, obra de cadenas, para los capiteles, que estaban sobre la cabeza de las columnas; siete para el capitel de una columna y siete para el capitel de la otra columna.
+Redes, obra de red, trenzas, obra de cadenas, a las koterot que sobre cabeza de los pilares: siete a la koteret la una, y siete a la koteret la segunda.
 
 ### 7:18
 
-Y hizo las columnas y dos filas alrededor de la red de una, para cubrir los capiteles, que estaban sobre la cabeza de los pomegranatos, y así hizo para el capitel de la otra columna.
+Y hizo los pilares, y dos filas alrededor sobre la red la una para cubrir las koterot que sobre cabeza de los granados; y así hizo a la koteret la segunda.
 
 ### 7:19
 
-Y los capiteles que estaban sobre la cabeza de las columnas eran obra de flores de lis en el patio, cuatro codos.
+Y las koterot que sobre cabeza de los pilares: obra de lirio, en el ulám, cuatro codos.
 
 ### 7:20
 
-Y los capiteles estaban sobre las dos columnas, y también sobre lo alto, junto al vientre, que estaba al lado de la entrada, y los pomegranatos, doscientas filas alrededor del capitel de la otra columna.
+Y las koterot sobre los dos pilares también desde arriba, junto al vientre que al otro lado; y los granados doscientos, filas alrededor sobre la koteret la segunda.
 
 ### 7:21
 
-Y levantó las columnas para el atrio del templo; levantó la columna derecha y llamó su nombre Jachin, y levantó la columna izquierda y llamó su nombre Boaz.
+Y levantó los pilares a ulám del hejal; y levantó el pilar el derecho, y llamó su nombre Yajín; y levantó el pilar el izquierdo, y llamó su nombre Boaz.
 
 ### 7:22
 
-Y sobre la cabeza de las columnas había obra de flores de lis. Y terminó la obra de las columnas.
+Y sobre cabeza de los pilares obra de lirio; y se acabó la obra de los pilares.
 
 ### 7:23
 
-Y hizo el mar fundido; diez codos de ancho de borde a borde, redondo alrededor, y cinco codos de altura. Y rodeaba el mar treinta codos.
+Y hizo el mar fundido: diez en el codo de su labio hasta su labio, redondo alrededor, y cinco en el codo su altura; treinta en el codo lo rodeaba alrededor.
 
 ### 7:24
 
-Y sobre la boca del mar había diez candelabros de bronce, rodeándolo a cinco codos de distancia, dos filas de candelabros fundidos.
+Y calabazas debajo de su labio alrededor rodeando a él: diez en el codo, cercando el mar alrededor; dos filas las calabazas fundidas en su fundición.
 
 ### 7:25
 
-Se colocó sobre doce bueyes, tres mirando hacia el norte, tres hacia el sur, tres hacia el este y tres hacia el oeste. El mar estaba sobre ellos, y sus espaldas estaban hacia el interior del edificio.
+Estando sobre doce bueyes: tres faces al norte, y tres faces al oeste, y tres faces al sur, y tres faces al oriente; y el mar sobre ellos desde arriba, y todos sus traseros hacia la casa.
 
 ### 7:26
 
-Su grosor era de un codo, y su borde era como el borde de un cáliz de flor de loto. Podía contener dos mil bat.
+Y su grosor: palmo; y su labio como obra de labio de copa, flor de lirio; dos mil bat contenía.
 
 ### 7:27
 
-Hizo diez carros de bronce, cuatro codos de largo cada carro, cuatro codos de ancho y tres codos de alto.
+Y hizo las mejonot diez de cobre: cuatro en el codo largo de la mejoná la una, y cuatro en el codo su ancho, y tres en el codo su altura.
 
 ### 7:28
 
-Así era el carro: tenían puertas para ellos, y puertas entre los soportes.
+Y esto obra de la mejoná: marcos a ellas, y marcos entre las junturas.
 
 ### 7:29
 
-Y sobre las puertas que estaban entre los soportes había leones, bueyes y querubines, y sobre los soportes, de arriba hacia abajo, estaban leones y bueyes, y todo era obra de bronce.
+Y sobre los marcos que entre las junturas: leones, buey y keruvim; y sobre las junturas así desde arriba; y debajo a los leones y al buey: guirnaldas, obra de descenso.
 
 ### 7:30
 
-Y a cada carro había cuatro ruedas de bronce, y sus ejes de bronce, y sus cuatro ruedas de un codo de altura, y sus ejes estaban fundidos desde el cáliz, un codo de distancia de cada lado, y sus ruedas estaban fundidas.
+Y cuatro ruedas de cobre a la mejoná la una, y ejes de cobre; y cuatro sus pies: hombros a ellos debajo al kiyor; los hombros fundidos, del otro lado, cada uno guirnaldas.
 
 ### 7:31
 
-Y su boca era de un codo de ancho, y su boca era redonda como la boca de un cáliz, un codo y medio de ancho, y sobre su boca había grabados, y sus puertas eran cuadradas y no redondas.
+Y su boca por dentro a la koteret y arriba: en el codo; y su boca redonda, obra de base, codo y medio el codo; y también sobre su boca tallas; y sus marcos cuadrados, no redondos.
 
 ### 7:32
 
-Y las cuatro ruedas estaban bajo las puertas, y sus ejes estaban en el carro, y la altura de una rueda era un codo y medio.
+Y las cuatro ruedas hacia debajo a los marcos; y manos de las ruedas en la mejoná; y altura de la rueda la una: codo y medio el codo.
 
 ### 7:33
 
-Y el trabajo de las ruedas era como el trabajo de una rueda de carro, sus ejes, sus radios y sus aros eran de bronce, todo estaba fundido.
+Y obra de las ruedas como obra de rueda del carro: sus manos y sus aros y sus cubos y sus rayos —todo fundido.
 
 ### 7:34
 
-Y cuatro soportes a cada lado de cada carro, a los cuatro lados del carro, desde el carro salían cuatro soportes.
+Y cuatro hombros a cuatro esquinas de la mejoná la una: de la mejoná sus hombros.
 
 ### 7:35
 
-Y en la parte superior del carro había media codo de altura, redonda alrededor, y sobre la parte superior del carro había ejes y puertas, hacia adelante.
+Y en cabeza de la mejoná: medio el codo altura, redondo alrededor; y sobre cabeza de la mejoná sus manos y sus marcos de ella.
 
 ### 7:36
 
-Y abrió en los lados de los carros, en los soportes, querubines, leones y palmeras, alrededor conforme al espacio de un hombre, rodeándolos.
+Y grabó sobre las tablas sus manos, y sobre keruvim, leones y palmeras, según espacio de cada uno, y guirnaldas alrededor.
 
 ### 7:37
 
-Así hizo diez carros, de una medida, de un tamaño, de un molde para todos.
+Como esta hizo las diez mejonot: fundición una, medida una, talla una a todas ellas.
 
 ### 7:38
 
-Y hizo diez calderos de cobre, cuarenta bat contenía cada caldero, cuarenta bat contenía cada caldero, un caldero sobre cada carro para los diez carros.
+Y hizo diez kiyores de cobre: cuarenta bat contenía el kiyor el uno; cuatro en el codo el kiyor el uno; kiyor uno sobre la mejoná la una, a las diez mejonot.
 
 ### 7:39
 
-Y puso los carros, cinco sobre la parte derecha del templo y cinco sobre la parte izquierda del templo, y el mar puso al lado derecho del templo hacia el oriente, al sur.
+Y puso las mejonot: cinco sobre hombro de la casa a la derecha, y cinco sobre hombro de la casa a su izquierda; y el mar puso de hombro de la casa el derecho, oriente, frente a sur.
 
 ### 7:40
 
-Y Hebrón hizo los calderos, las ollas y los recipientes, y Hebrón acabó de hacer toda la obra que hizo para el rey Salomón en la casa de Jehová.
+Y hizo Jiróm los kiyores y las palas y los tazones; y acabó Jiram de hacer toda la obra que hizo al rey Shelomó, casa de Jehová:
 
 ### 7:41
 
-Dos columnas, y las copas de las columnas que estaban sobre la cabeza de las columnas, dos, y las redes para cubrir las dos copas de las columnas que estaban sobre la cabeza de las columnas.
+pilares dos, y bolas de las koterot que sobre cabeza de los pilares dos, y las redes dos para cubrir las dos bolas de las koterot que sobre cabeza de los pilares;
 
 ### 7:42
 
-Y colocó cuatrocientos granados para las dos redes, dos filas de granados para una red, para cubrir las dos juntas de las columnas.
+y los granados cuatrocientos a las dos redes: dos filas granados a la red la una, para cubrir las dos bolas de las koterot que sobre faces de los pilares;
 
 ### 7:43
 
-Y hizo diez calderos y diez lavaderos sobre los calderos.
+y las mejonot diez, y los kiyores diez sobre las mejonot;
 
 ### 7:44
 
-Y hizo el mar de una pieza y doce bueyes debajo del mar.
+y el mar el uno, y los bueyes doce debajo del mar;
 
 ### 7:45
 
-Y hizo las ollas, las cacerolas, los recipientes y todos los utensilios del tabernáculo que Hiram hizo para el rey Salomón en la casa de Jehová, de bronce bruñido.
+y las ollas y las palas y los tazones, y todos los utensilios que hizo Jiram al rey Shelomó, casa de Jehová: cobre bruñido.
 
 ### 7:46
 
-En el valle de Bered, entre Socho y Tsor, el rey los fundió en el lodo.
+En el círculo del Yardén los fundió el rey en espesura de la tierra, entre Sukot y entre Tsaretán.
 
 ### 7:47
 
-Y colocó Salomón todos los utensilios en gran número, de bronce no se pesó el peso de ellos.
+Y depositó Shelomó todos los utensilios; de abundancia muy muy no fue examinado el peso del cobre.
 
 ### 7:48
 
-Salomón hizo todos los utensilios del templo de Jehová: el altar de oro y la mesa de panes de propina, de oro.
+Y hizo Shelomó todos los utensilios que casa de Jehová: el altar del oro, y la mesa que sobre ella pan de las faces, oro;
 
 ### 7:49
 
-Y las luces, cinco a la derecha y cinco a la izquierda frente al recinto, de oro puro; también las flores y las lámparas y los tenedores, de oro.
+y las menorot: cinco a la derecha y cinco a la izquierda, delante del debír, oro cerrado; y la flor y las lámparas y las tenazas, oro;
 
 ### 7:50
 
-Y las copas, y las tijeras, y los cucharones, y las escudillas, y los braseros, de oro puro; también las pinzas para las puertas del templo interior, para el santuario de los santos, para las puertas del templo, para el tabernáculo, de oro.
+y las tazas y las despabiladeras y los tazones y las cucharas y los braseros, oro cerrado; y los quicios a puertas de la casa la interior, a santo de los santos, a puertas de la casa al hejal, oro.
 
 ### 7:51
 
-Y se acabó toda la obra que hizo el rey Salomón para el templo de Jehová. Y Salomón trajo las cosas santas de David, su padre, el oro, y la plata, y los utensilios, y los puso en los tesoros del templo de Jehová.
+Y se completó toda la obra que hizo el rey Shelomó, casa de Jehová; e hizo entrar Shelomó los santos de David su padre: la plata y el oro y los utensilios; puso en tesoros de casa de Jehová.
 
 ## Capítulo 8
 
 ### 8:1
 
-Entonces convocó Salomón a todo Israel, a todos los jefes de las tribus de Israel, a los príncipes de las familias de los hijos de Israel, a Salomón, el rey, en Jerusalén, para subir el arca del pacto de Jehová desde la ciudad de David, que es Sión.
+Entonces congregó Shelomó a los ancianos de Israel, a todos los cabezas de las varas, príncipes de los padres, a hijos de Israel, hacia el rey Shelomó, a Yerushaláyim, para hacer subir el arca de pacto de Jehová de ciudad de David —ella Tsiyón.
 
 ### 8:2
 
-Y se reunieron a Salomón, el rey, todos los hijos de Israel en el mes de Étanim, en el séptimo mes, en la fiesta.
+Y se congregaron hacia el rey Shelomó todo hombre de Israel en luna de los Etaním, en la fiesta —él el mes el séptimo.
 
 ### 8:3
 
-Y vinieron todos los ancianos de Israel, y levantaron los sacerdotes el arca.
+Y vinieron todos los ancianos de Israel, y alzaron los sacerdotes el arca.
 
 ### 8:4
 
-Y subieron el arca de Jehová, y el tabernáculo de la reunión, y todo el utensilio del santuario que había en el tabernáculo; y los subieron los sacerdotes y los levitas.
+Y hicieron subir el arca de Jehová y la tienda de reunión y todos los utensilios del santo que en la tienda; y los hicieron subir los sacerdotes y los leviim.
 
 ### 8:5
 
-Y el rey Salomón y toda la congregación de Israel que se había reunido a él, delante del arca, sacrificaban ovejas y bueyes, que no se podían contar ni numerar por la multitud.
+Y el rey Shelomó y toda la asamblea de Israel los convocados sobre él con él, delante del arca, sacrificando oveja y buey que no se contaban y no se numeraban de abundancia.
 
 ### 8:6
 
-Y los sacerdotes trajeron el arca del pacto de Jehová a su lugar, al recinto del templo, al santuario de los santos, al lugar de los querubines.
+Y hicieron venir los sacerdotes el arca de pacto de Jehová a su lugar, a debír de la casa, a santo de los santos, hacia debajo de las alas de los keruvim.
 
 ### 8:7
 
-Porque los querubines extendían las alas sobre el lugar del arca, y los querubines cubrían el arca y las astas del arca desde arriba.
+Porque los keruvim estaban desplegando las alas hacia el lugar del arca; y cubrieron los keruvim sobre el arca y sobre sus varas desde arriba.
 
 ### 8:8
 
-Y alargaron los astas, y las cabezas de los astas se veían en el santuario, delante del recinto, pero no se veían fuera; y allí estuvieron hasta el día de hoy.
+Y alargaron las varas, y se veían las cabezas de las varas desde el santo sobre faces del debír, y no se veían afuera; y fueron allí hasta el día este.
 
 ### 8:9
 
-No había nada en el arca, sino los dos tablones de piedra que Moisés puso allí en Horeb, que el SEÑOR hizo con los israelitas cuando salieron de Egipto.
+No había en el arca sino solo dos tablas de las piedras que depositó allí Moisés en Jorev, que cortó Jehová con hijos de Israel a su salir de tierra de Mizraim.
 
 ### 8:10
 
-Y cuando los sacerdotes salieron del santuario, el velo llenó toda la casa del SEÑOR.
+Y fue al salir los sacerdotes del santo, y la nube llenó la casa de Jehová.
 
 ### 8:11
 
-Y los sacerdotes no pudieron permanecer para servir, porque la gloria del SEÑOR llenó la casa del SEÑOR.
+Y no pudieron los sacerdotes estar para ministrar de faces de la nube, porque llenó la gloria de Jehová la casa de Jehová.
 
 ### 8:12
 
-Entonces Salomón dijo: El SEÑOR ha dicho que habitaría en la espesa nube.
+Entonces dijo Shelomó: Jehová dijo para habitar en la densanube.
 
 ### 8:13
 
-He construido un templo para ti, un lugar de morada para tu eternidad.
+Edificar edifiqué casa de morada a ti, lugar fijo para tu sentarte siglos.
 
 ### 8:14
 
-Y el rey dio la espalda y bendijo a todo el pueblo de Israel, y todo el pueblo de Israel estaba de pie.
+Y volvió el rey sus faces y bendijo a toda la asamblea de Israel; y toda la asamblea de Israel de pie.
 
 ### 8:15
 
-Y dijo: Bendito sea el SEÑOR, el Dios de Israel, que habló con mi padre David y cumplió su palabra.
+Y dijo: Bendito Jehová Dios de Israel, que habló con su boca a David mi padre, y con su mano llenó, diciendo:
 
 ### 8:16
 
-Desde el día en que saqué a mi pueblo israel de Egipto, no elegí ninguna ciudad de todas las tribus de Israel para construir un templo para que mi nombre estuviera allí, sino que elegí a David para que gobernara sobre mi pueblo Israel.
+Desde el día que saqué a mi pueblo, a Israel, de Mizraim, no elegí en ciudad de todos los cetros de Israel para edificar casa para ser mi nombre allí; y elegí en David para ser sobre mi pueblo Israel.
 
 ### 8:17
 
-Y con el corazón de mi padre David estaba para construir un templo para el nombre del SEÑOR, el Dios de Israel.
+Y fue con el corazón de David mi padre edificar casa a nombre de Jehová Dios de Israel.
 
 ### 8:18
 
-Y el SEÑOR dijo a mi padre David: Porque tu corazón estaba para construir un templo para mi nombre, has hecho bien, porque tu corazón estaba para ello.
+Y dijo Jehová a David mi padre: Por cuanto que fue con tu corazón edificar casa a mi nombre, bien hiciste porque fue con tu corazón.
 
 ### 8:19
 
-Pero tú no construirás el templo, sino tu hijo, que saldrá de tus entrañas, él lo construirá para mi nombre.
+Solo tú no edificarás la casa, sino si tu hijo el saliente de tus lomos: él edificará la casa a mi nombre.
 
 ### 8:20
 
-Y el SEÑOR cumplió su palabra, y yo me senté en el trono de Israel, como el SEÑOR había hablado, y he construido el templo para el nombre del SEÑOR, el Dios de Israel.
+Y levantó Jehová su palabra que habló; y me levanté debajo de David mi padre, y me senté sobre el trono de Israel como habló Jehová, y edifiqué la casa a nombre de Jehová Dios de Israel.
 
 ### 8:21
 
-Y puse allí el lugar para el arca, que está en ella, que hizo el pacto con nuestros padres, cuando los sacó de la tierra de Egipto.
+Y puse allí lugar al arca donde allí el pacto de Jehová que cortó con nuestros padres a su sacar a ellos de tierra de Mizraim.
 
 ### 8:22
 
-Y se puso Salomón delante del altar del SEÑOR, frente a todo el pueblo de Israel, y extendió las manos hacia el cielo.
+Y se paró Shelomó delante del altar de Jehová frente a toda la asamblea de Israel, y desplegó sus palmas los cielos.
 
 ### 8:23
 
-Y dijo: SEÑOR, Dios de Israel, no hay como ti contigo en los cielos arriba ni en la tierra abajo, que guardas el pacto y la misericordia para con tus siervos que caminan delante de ti con todo su corazón.
+Y dijo: Jehová Dios de Israel, no hay como tú Dios en los cielos desde arriba y sobre la tierra desde debajo, guardando el pacto y la misericordia a tus siervos los andantes delante de ti en todo su corazón;
 
 ### 8:24
 
-Que guardaste lo que prometiste a tu siervo David, mi padre, lo que hablaste con él, y has cumplido con tu boca y con tu mano lo que has hecho hasta hoy.
+que guardaste a tu siervo David mi padre lo que hablaste a él, y hablaste con tu boca y con tu mano llenaste como el día este.
 
 ### 8:25
 
-Y ahora, SEÑOR, Dios de Israel, guarda a tu siervo David, mi padre, lo que prometiste a él, diciendo: No cesará de ti un hombre que se siente sobre el trono de Israel, siempre que tus hijos guarden su camino para andar delante de mí, como tú anduviste delante de mí.
+Y ahora, Jehová Dios de Israel, guarda a tu siervo David mi padre lo que hablaste a él diciendo: No será cortado a ti hombre de delante de mí sentado sobre el trono de Israel, solo si guardan tus hijos su camino para andar delante de mí como anduviste delante de mí.
 
 ### 8:26
 
-Y ahora, Dios de Israel, que se cumplan tus palabras que hablaste a tu siervo David, mi padre.
+Y ahora, Dios de Israel, sea firmado por favor lo que hablaste a tu siervo David mi padre.
 
 ### 8:27
 
-Porque ciertamente habita el Dios en la tierra, he aquí los cielos y los cielos de los cielos no te pueden contener, ni este templo que he edificado.
+Porque ¿de veras se sentará Dios sobre la tierra? He aquí los cielos y cielos de los cielos no te contienen, cuánto menos la casa esta que edifiqué.
 
 ### 8:28
 
-Y inclina tu oído a la oración de tu siervo y a su súplica, SEÑOR, Dios mío, para escuchar el grito y la oración que tu siervo hace delante de ti hoy.
+Y te vuelvas a la oración de tu siervo y a su súplica, Jehová Dios mío, para oír al clamor y a la oración que tu siervo ora delante de ti hoy;
 
 ### 8:29
 
-Para que tus ojos estén abiertos a este templo de día y de noche, a este lugar que dijiste: Mi nombre estará allí, para escuchar la oración que tu siervo haga en este lugar.
+para ser tus ojos abiertos hacia la casa esta noche y día, hacia el lugar que dijiste: Será mi nombre allí; para oír a la oración que orará tu siervo hacia el lugar este.
 
 ### 8:30
 
-Y escucha la súplica de tu siervo y del pueblo de Israel, que ora en este lugar, y tú escucha desde tu morada en los cielos, y escucha y perdona.
+Y oigas a la súplica de tu siervo y de tu pueblo Israel que orarán hacia el lugar este; y tú oigas hacia el lugar de tu sentarte, hacia los cielos; y oigas y perdones.
 
 ### 8:31
 
-Lo que un hombre haga a su vecino y le imponga una maldición, y venga la maldición a tu altar en este templo.
+Lo que pecará hombre a su compañero, y levante sobre él juramento para hacerlo jurar, y venga el juramento delante de tu altar en la casa esta:
 
 ### 8:32
 
-Y tú escucha desde los cielos y juzga y venga el pecador según su pecado, y al justo según su justicia.
+y tú oigas los cielos, y hagas y juzgues a tus siervos, condenando al malo para dar su camino en su cabeza, y justificando al justo para darle según su justicia.
 
 ### 8:33
 
-Si tu pueblo, Israel, es afligido por un enemigo, por haberse rebelado contra ti, y vuelven a ti, te confiesan tu nombre, y te ruegan y te suplican en este templo,
+Al ser herido tu pueblo Israel delante de enemigo porque pecarán a ti, y vuelvan a ti y confiesen tu nombre, y oren y se supliquen a ti en la casa esta:
 
 ### 8:34
 
-entonces escucharás desde el cielo, perdonarás el pecado de tu pueblo Israel, y los devolverás a la tierra que les diste a sus padres.
+y tú oigas los cielos, y perdones a pecado de tu pueblo Israel, y los hagas volver a la tierra que diste a sus padres.
 
 ### 8:35
 
-Si cierran los cielos para que no llueva, por haberse rebelado contra ti, y ruegan hacia este lugar, te confiesan tu nombre, y se apartan de sus pecados, entonces escucharás desde el cielo, perdonarás su pecado, y restaurarás su tierra.
+Al ser detenidos los cielos y no habrá lluvia porque pecarán a ti, y oren hacia el lugar este y confiesen tu nombre, y de su pecado vuelvan porque los afliges:
 
 ### 8:36
 
-Y si escuchas desde el cielo, perdonas el pecado de tus siervos y de tu pueblo Israel, porque han andado en el camino recto que has prescrito, entonces harás llover sobre tu tierra que les diste a tu pueblo por herencia.
+y tú oigas los cielos, y perdones a pecado de tus siervos y de tu pueblo Israel, porque les enseñas el camino el bueno que andarán en él, y des lluvia sobre tu tierra que diste a tu pueblo por heredad.
 
 ### 8:37
 
-Y si hay hambre en la tierra, o peste, o escarcies, o sequía, o gusano, o langosta, o enfermedad de cualquier tipo, o guerra, o cualquier enfermedad y plaga,
+Hambre si habrá en la tierra, peste si habrá, tizón, añublo, langosta, saltón si habrá; si apretará a él su enemigo en tierra de sus puertas: toda plaga, toda enfermedad;
 
 ### 8:38
 
-cualquier oración o súplica que sea hecha por cualquier hombre, por todo tu pueblo Israel, cada uno según su propio dolor y su propia angustia, y extiende sus manos hacia este templo,
+toda oración, toda súplica que será a todo el hombre, a todo tu pueblo Israel, que conozcan hombre la plaga de su corazón, y despliegue sus palmas hacia la casa esta:
 
 ### 8:39
 
-entonces escucharás desde el cielo, desde tu morada, y perdonarás, y actuarás conforme a todo lo que el hombre te pide, porque tú conoces su corazón, y tú, oh Dios, conoces el corazón de todos los hijos de los hombres.
+y tú oigas los cielos, lugar fijo de tu sentarte, y perdones y hagas y des al hombre según todos sus caminos que conozcas su corazón, porque tú conociste solo tú el corazón de todos los hijos del hombre;
 
 ### 8:40
 
-Para que teman a ti, a todos los días de su vida, mientras vivan sobre la tierra que tú les diste a nuestros padres.
+para que te teman todos los días que ellos están vivos sobre faces de la tierra que diste a nuestros padres.
 
 ### 8:41
 
-Y también al extranjero, que no es de tu pueblo Israel, que viene de una tierra lejana por tu nombre,
+Y también al extranjero que no es de tu pueblo Israel él, y venga de tierra lejana por causa de tu nombre —
 
 ### 8:42
 
-porque oirán hablar de tu gran nombre y de tu fuerte mano y de tu brazo extendido, y vendrá y orará hacia este templo.
+porque oirán tu nombre el grande y tu mano la fuerte y tu brazo el extendido — y venga y ore hacia la casa esta:
 
 ### 8:43
 
-Entonces escucharás desde el cielo, desde tu morada, y actuarás conforme a todo lo que el extranjero te pide, para que todos los pueblos de la tierra te conozcan tu nombre, para que te teman como tu pueblo Israel, y para que sepan que tu nombre ha sido llamado sobre este templo que he edificado.
+tú oigas los cielos, lugar fijo de tu sentarte, y hagas según todo lo que clame a ti el extranjero, para que conozcan todos los pueblos de la tierra tu nombre para temer a ti como tu pueblo Israel, y para saber que tu nombre es llamado sobre la casa esta que edifiqué.
 
 ### 8:44
 
-Porque cuando tu pueblo sale a la guerra contra su enemigo por el camino que tú les has prescrito, y ruegan hacia el camino de la ciudad que has elegido y hacia el templo que he edificado para tu nombre,
+Si sale tu pueblo a la guerra sobre su enemigo por el camino que los envíes, y oren a Jehová camino de la ciudad que elegiste en ella, y la casa que edifiqué a tu nombre:
 
 ### 8:45
 
-Entonces escucharás desde los cielos, y actuarás conforme a toda su oración y a toda su súplica, y harás justicia a ellos.
+y oigas los cielos su oración y su súplica, y hagas su juicio.
 
 ### 8:46
 
-Porque pecarán contra ti, porque no hay hombre que no peca; y te enojarás con ellos, y los entregarás a sus enemigos, y ellos los llevarán cautivos a una tierra lejana o cercana.
+Si pecarán a ti —porque no hay hombre que no peque— y te enfurezcas en ellos y los des delante de enemigo, y los capturen sus capturadores a tierra del enemigo lejana o cercana;
 
 ### 8:47
 
-Y volverán a sus corazones en la tierra de sus cautiverio, y volverán y se humillarán ante ti en la tierra de su cautiverio, diciendo: Hemos pecado, hemos sido rebeldes, hemos sido malvados.
+y vuelvan a su corazón en la tierra que fueron capturados allí, y vuelvan y se supliquen a ti en tierra de sus capturadores diciendo: Pecamos y torcimos, hicimos mal;
 
 ### 8:48
 
-Y volverán a ti con todo su corazón y con toda su alma, en la tierra de sus enemigos, a la cual los has echado por causa de su rebelión, y orarán hacia tu camino, la tierra que diste a sus padres, la ciudad que elegiste y la casa que has edificado para tu nombre.
+y vuelvan a ti con todo su corazón y con todo su alma en tierra de sus enemigos que capturaron a ellos, y oren a ti camino de su tierra que diste a sus padres, la ciudad que elegiste, y la casa que a tu nombre:
 
 ### 8:49
 
-Y escucharás desde el cielo, desde tu morada, y actuarás conforme a toda su oración y a toda su súplica, y harás justicia a ellos.
+y oigas los cielos, lugar fijo de tu sentarte, su oración y su súplica, y hagas su juicio;
 
 ### 8:50
 
-Y perdonarás a tu pueblo, que ha pecado contra ti, y a todos sus pecados en que han pecado contra ti, y los darás a misericordia delante de sus enemigos, y los tendrán misericordia.
+y perdones a tu pueblo que pecaron a ti, y a todas sus rebeliones que rebelaron en ti, y los des a misericordias delante de sus capturadores, y tengan compasión de ellos;
 
 ### 8:51
 
-Porque son tu pueblo y tu heredad, que has sacado de Egipto, de la fragua del hierro.
+porque tu pueblo y tu heredad son ellos, que sacaste de Mizraim de medio del horno del hierro.
 
 ### 8:52
 
-Para que tus ojos estén abiertos a la súplica de tu siervo y a la súplica de tu pueblo Israel, para escucharles en todo lugar donde llamen a ti.
+Para ser tus ojos abiertos hacia la súplica de tu siervo y hacia la súplica de tu pueblo Israel, para oír a ellos en todo su clamar a ti;
 
 ### 8:53
 
-Porque tú los has apartado para ti por heredad de entre todos los pueblos de la tierra, como hablaste por mano de Moisés, tu siervo, cuando sacaste a nuestros padres de Egipto, Señor Dios.
+porque tú los separaste a ti por heredad de todos los pueblos de la tierra, como hablaste por mano de Moisés tu siervo a tu sacar a nuestros padres de Mizraim, Adonai Jehová.
 
 ### 8:54
 
-Y cuando acabó Salomón de orar a Jehová, subió de la presencia del altar de Jehová desde el hino y las manos extendidas al cielo.
+Y fue al acabar Shelomó de orar a Jehová toda la oración y la súplica esta, se levantó de delante del altar de Jehová de arrodillarse sobre sus rodillas y sus palmas desplegadas los cielos.
 
 ### 8:55
 
-Y se levantó y bendijo a todo el pueblo de Israel con una voz fuerte, diciendo:
+Y se paró y bendijo a toda la asamblea de Israel, voz grande, diciendo:
 
 ### 8:56
 
-Bendito sea Jehová, que ha dado reposo a su pueblo Israel, conforme a todo lo que habló, no ha faltado palabra alguna de toda la bondad que habló por mano de Moisés, su siervo.
+Bendito Jehová que dio reposo a su pueblo Israel según todo lo que habló; no cayó palabra una de toda su palabra la buena que habló por mano de Moisés su siervo.
 
 ### 8:57
 
-Que Jehová nuestro Dios esté con nosotros como estuvo con nuestros padres; no nos abandone ni nos desampare.
+Sea Jehová nuestro Dios con nosotros como fue con nuestros padres; no nos abandone y no nos deje,
 
 ### 8:58
 
-Para que no nos desvíe nuestro corazón hacia él, para que caminemos en todos sus caminos, guardando sus mandamientos, sus estatutos y sus decretos, que ordenó a nuestros padres.
+para inclinar nuestro corazón a él para andar en todos sus caminos, y para guardar sus mandamientos y sus estatutos y sus juicios que mandó a nuestros padres.
 
 ### 8:59
 
-Que estos mis ruegos que he ofrecido ante Jehová estén cerca de Jehová, nuestro Dios, de día y de noche, para hacer justicia a su siervo y a su pueblo Israel cada día.
+Y sean mis palabras estas que supliqué delante de Jehová cercanas a Jehová nuestro Dios de día y noche, para hacer juicio de su siervo y juicio de su pueblo Israel, cosa de día en su día;
 
 ### 8:60
 
-Para que sepan todos los pueblos de la tierra que Jehová es Dios, y que no hay otro.
+para que sepan todos los pueblos de la tierra que Jehová es él el Dios; no aún.
 
 ### 8:61
 
-Que vuestros corazones sean enteramente con Jehová, nuestro Dios, para caminar en sus estatutos y guardar sus mandamientos como hoy.
+Y sea el corazón de ustedes completo con Jehová nuestro Dios para andar en sus estatutos y para guardar sus mandamientos como el día este.
 
 ### 8:62
 
-Y el rey y todo Israel con él ofrecieron sacrificio delante de Jehová.
+Y el rey y todo Israel con él sacrificando sacrificio delante de Jehová.
 
 ### 8:63
 
-Y Salomón ofreció en sacrificio de paz a Jehová, vacas veinte mil y corderos ciento veinte mil; y consagró el rey y todo Israel a la casa de Jehová.
+Y sacrificó Shelomó el sacrificio de los shelamím que sacrificó a Jehová: buey veintidós mil, y oveja ciento veinte mil; y dedicaron casa de Jehová el rey y todos hijos de Israel.
 
 ### 8:64
 
-En aquel día consagró el rey el interior del patio que estaba delante de la casa de Jehová, porque allí ofreció holocaustos y ofrendas de cereal, y las grasa de los sacrificios de paz, porque el altar de bronce que estaba delante de Jehová era pequeño para contener el holocausto y la ofrenda de cereal, y la grasa de los sacrificios de paz.
+En el día aquel santificó el rey el medio del patio que delante de casa de Jehová, porque hizo allí la olá y la ofrenda y grasas de los shelamím; porque el altar del cobre que delante de Jehová era pequeño de contener la olá y la ofrenda y grasas de los shelamím.
 
 ### 8:65
 
-Y en aquel tiempo Salomón ofreció la fiesta; y todo Israel con él, un gran concierto, de Hamat hasta el río de Egipto, delante de Jehová, nuestro Dios, siete días y siete días, dieciséis días.
+Y hizo Shelomó en el tiempo aquel la fiesta, y todo Israel con él, asamblea grande, desde Lebo Jamat hasta el torrente de Mizraim, delante de Jehová nuestro Dios: siete días y siete días, catorce día.
 
 ### 8:66
 
-En el día octavo envió el pueblo, y bendijeron al rey; y volvieron a sus tiendas, alegres y de buen corazón, por toda la bondad que Jehová había hecho a David, su siervo, y a Israel, su pueblo.
+En el día el octavo envió al pueblo, y bendijeron al rey; y anduvieron a sus tiendas alegres y buenos de corazón sobre toda la bondad que hizo Jehová a David su siervo y a Israel su pueblo.
 
 ## Capítulo 9
 
 ### 9:1
 
-Y cuando Salomón hubo acabado de edificar la casa de Jehová y la casa del rey, y todo lo que Salomón deseaba hacer.
+Y fue al acabar Shelomó de edificar la casa de Jehová y la casa del rey y todo deseo de Shelomó que deseó hacer.
 
 ### 9:2
 
-Y Jehová se apareció a Salomón por segunda vez, como se le había aparecido en Gibeón.
+Y se apareció Jehová a Shelomó segunda vez, como se apareció a él en Givón.
 
 ### 9:3
 
-Y Jehová me dijo: He oído tu oración y tu súplica que me hiciste. He consagrado la casa que has construido para poner mi nombre allí para siempre, y estarán mis ojos y mi corazón allí siempre.
+Y dijo Jehová a él: Oí tu oración y tu súplica que te humillaste delante de mí; santifiqué la casa esta que edificaste, para poner mi nombre allí hasta siempre; y serán mis ojos y mi corazón allí todos los días.
 
 ### 9:4
 
-Y tú, si andas delante de mí como anduvo David tu padre, con integridad de corazón y con rectitud, para hacer conforme a todo lo que te he mandado, guardarás mis estatutos y mis decretos.
+Y tú, si andas delante de mí como anduvo David tu padre, en integridad de corazón y en rectitud, para hacer conforme a todo lo que te mandé, mis estatutos y mis juicios guardarás,
 
 ### 9:5
 
-Y estableceré el trono de tu reino sobre Israel para siempre, como lo prometí a David tu padre, diciendo: No faltará a ti un hombre sobre el trono de Israel.
+y levantaré el trono de tu reino sobre Israel para siempre, como hablé sobre David tu padre, diciendo: No será cortado a ti hombre de sobre el trono de Israel.
 
 ### 9:6
 
-Si vuelven tú y tus hijos a mí, y no guardáis mis mandamientos, mis estatutos que os he puesto delante, y andáis y servís a dioses ajenos, y os postráis ante ellos.
+Si volviendo vuelven ustedes y sus hijos de detrás de mí, y no guardan mis mandamientos, mis estatutos que di delante de ustedes, y andan y sirven a dioses otros, y se postran a ellos,
 
 ### 9:7
 
-Y cortaré a Israel de sobre la tierra que les he dado, y apartaré de sobre mí la casa que he consagrado a mi nombre, y será Israel para un proverbio y para un chiste entre todos los pueblos.
+y cortaré a Israel de sobre faces de la tierra que di a ellos, y a la casa que santifiqué a mi nombre enviaré de sobre mis faces; y será Israel por proverbio y por burla en todos los pueblos.
 
 ### 9:8
 
-Y esta casa será alta; todo el que pasare por ella dirá: ¿Por qué ha hecho Jehová así a esta tierra y a esta casa?
+Y la casa esta será alta; todo el que pasa sobre ella se asombrará y silbará; y dirán: ¿Sobre qué hizo Jehová así a la tierra esta y a la casa esta?
 
 ### 9:9
 
-Y dirán: Porque abandonaron a Jehová, Dios de sus padres, que los sacó de la tierra de Egipto, y se aferraron a dioses ajenos, y se postraron ante ellos y los sirvieron; por eso ha traído Jehová sobre ellos todo este mal.
+Y dirán: Sobre que abandonaron a Jehová su Dios, que sacó a sus padres de tierra de Mizraim, y se aferraron a dioses otros, y se postraron a ellos y los sirvieron; por eso trajo Jehová sobre ellos todo el mal este.
 
 ### 9:10
 
-Y cuando acabó de construir Salomón los dos templos, el templo de Jehová y el templo del rey, veintiún años después.
+Y fue al cabo de veinte años en que edificó Shelomó las dos casas, la casa de Jehová y la casa del rey,
 
 ### 9:11
 
-Hiram, rey de Tiro, envió a Salomón madera de cedros y de cipreses, y oro para todo lo que deseaba; entonces el rey Salomón dio a Hiram veinte ciudades en la tierra de Galilea.
+Jiram rey de Tsor había alzado a Shelomó en árboles de cedros y en árboles de cipreses y en el oro para todo su deseo; entonces dio el rey Shelomó a Jiram veinte ciudades en tierra del Galil.
 
 ### 9:12
 
-Y salió Hiram de Tiro para ver las ciudades que le había dado Salomón, y no le agradaron.
+Y salió Jiram de Tsor a ver las ciudades que le dio Shelomó, y no fueron rectas en sus ojos.
 
 ### 9:13
 
-Y dijo: ¿Qué son estas ciudades que me has dado, hermano mío? Y las llamó tierra de Cabul hasta el día de hoy.
+Y dijo: ¿Qué son las ciudades estas que diste a mí, hermano mío? Y llamó a ellas tierra de Kabul hasta el día este.
 
 ### 9:14
 
-Y envió Hiram al rey ciento veinte talentos de oro.
+Y envió Jiram al rey ciento veinte kikar de oro.
 
 ### 9:15
 
-Y esto es el tributo que el rey Salomón subió para construir la casa de Jehová, su casa, el relleno, la muralla de Jerusalén, Hazor, Meguido y Gezer.
+Y esta es la palabra del mas que hizo subir el rey Shelomó para edificar la casa de Jehová y su casa y el Miló y la muralla de Yerushaláyim y Hatsor y Meguidó y Gézer.
 
 ### 9:16
 
-El faraón, rey de Egipto, subió y tomó Gezer y la quemó con fuego, y mató a los cananeos que habitaban en la ciudad, y la dio por herencia a su hija, mujer de Salomón.
+Faraón rey de Mizraim subió y tomó a Gézer y la quemó en el fuego, y al kenaaní el que habitaba en la ciudad mató, y la dio por envío a su hija, mujer de Shelomó.
 
 ### 9:17
 
-Y Salomón edificó Gezer y Bet-Horón la inferior.
+Y edificó Shelomó a Gézer y a Bet Jorón el inferior,
 
 ### 9:18
 
-Y Baalat y Tamar en el desierto en la tierra.
+y a Baalat y a — en el desierto en la tierra,
 
 ### 9:19
 
-Y todas las ciudades de los asentamientos que tenían para Salomón, y las ciudades de los carros y las de los caballerizas, y lo que Salomón amaba para construir en Jerusalén y en el Líbano y en toda la tierra de su dominio.
+y a todas las ciudades de los almacenes que eran a Shelomó, y a las ciudades del carro y a las ciudades de los jinetes, y al deseo de Shelomó que deseó edificar en Yerushaláyim y en el Levanón y en toda tierra de su dominio.
 
 ### 9:20
 
-Todos los pueblos que quedaron de los amorreos, hititas, perizitas, heveos y jebuseos, que no eran de los hijos de Israel.
+Todo el pueblo el restante del amorí, el jití, el perizí, el jiví y el yevusí, que no eran de hijos de Israel ellos,
 
 ### 9:21
 
-Sus hijos, que quedaron después de ellos en la tierra, que no pudieron los hijos de Israel destruir, y los subió Salomón como tributo de siervos hasta el día de hoy.
+sus hijos que quedaron después de ellos en la tierra, que no pudieron hijos de Israel dedicarlos al anatema, y los hizo subir Shelomó a mas de siervo hasta el día este.
 
 ### 9:22
 
-Y de los hijos de Israel no subió Salomón como siervos, porque eran hombres de guerra, y sus oficiales, y sus capitanes, y sus centuriones, y sus jefes de carros y de caballerizas.
+Y de hijos de Israel no dio Shelomó siervo, porque ellos eran hombres de la guerra y sus siervos y sus jefes y sus shalishím y jefes de su carro y sus jinetes.
 
 ### 9:23
 
-Estos eran los capitanes que estaban sobre la obra para Salomón, cincuenta y cinco mil hombres que contaban al pueblo y que trabajaban en la obra.
+Estos eran jefes de los puestos que estaban sobre la obra a Shelomó, cincuenta y cinco cientos, los que gobernaban en el pueblo los que hacían en la obra.
 
 ### 9:24
 
-Pero la hija del faraón subió de la ciudad de David a su casa que había hecho para ella, entonces hizo el relleno.
+Solo la hija de Faraón subió de ciudad de David a su casa que edificó a ella; entonces edificó el Miló.
 
 ### 9:25
 
-Y subía Salomón tres veces al año ofrendas y paz ofrendas sobre el altar que había hecho para Jehová, y quemaba incienso con él, que delante de Jehová, y completaba la casa.
+Y hacía subir Shelomó tres veces en el año olot y shelamím sobre el altar que edificó a Jehová, y quemar incienso con él que estaba delante de Jehová; y completó la casa.
 
 ### 9:26
 
-Y barcos hizo el rey Salomón en Etiógena, que en Eloth sobre el mar Rojo en la tierra de Edom.
+Y flota hizo el rey Shelomó en Etsión Gáver, que estaba con Elot, sobre labio del mar de Suf, en tierra de Edom.
 
 ### 9:27
 
-Y Hiram envió en barcos a sus hombres, que eran marineros, con los siervos de Salomón.
+Y envió Jiram en la flota a sus siervos, hombres de naves, conocedores del mar, con siervos de Shelomó.
 
 ### 9:28
 
-Y llegaron a Ofir y tomaron de allí cuatrocientos veinte talentos de oro, y los llevaron al rey Salomón.
+Y vinieron a Ofirá, y tomaron de allí oro, cuatrocientos veinte kikar, y los trajeron al rey Shelomó.
 
 ## Capítulo 10
 
 ### 10:1
 
-Y la reina de Seba oyó hablar de la fama de Salomón, en nombre de Jehová, y vino para ponerlo a prueba con acertijos.
+Y la reina de Shevá oyó el informe de Shelomó para el nombre de Jehová, y vino a probarlo con enigmas.
 
 ### 10:2
 
-Y vino a Jerusalén con un gran ejército, con camellos cargados de especias y mucho oro y piedras preciosas; y vino a Salomón y le habló de todo lo que tenía en su mente.
+Y vino a Yerushaláyim con fuerza pesada muy, camellos llevando especias y oro mucho muy y piedra preciosa; y vino a Shelomó, y habló a él todo lo que era con su corazón.
 
 ### 10:3
 
-Y Salomón le contó todo lo que había dicho, y no hubo nada oculto del rey que no le hubiera contado.
+Y declaró a ella Shelomó todas sus palabras; no había palabra oculta del rey que no declaró a ella.
 
 ### 10:4
 
-Y la reina de Seba vio la sabiduría de Salomón, y la casa que había construido.
+Y vio la reina de Shevá toda la sabiduría de Shelomó y la casa que edificó,
 
 ### 10:5
 
-Y la comida de su mesa, y los asientos de sus siervos, y los lugares de servicio, y sus vestidos, y los vasos de vino, y la ofrenda que subía al templo de Jehová; y no había espíritu en ella que no hubiera ya.
+y la comida de su mesa y el asiento de sus siervos y la estación y sus vestidos y sus coperos y su olá que hacía subir casa de Jehová; y no hubo en ella aún espíritu.
 
 ### 10:6
 
-Y dijo al rey: Cierto es lo que oí en mi tierra, acerca de tus palabras y de tu sabiduría.
+Y dijo al rey: Verdad era la palabra que oí en mi tierra sobre tus palabras y sobre tu sabiduría.
 
 ### 10:7
 
-No creí en las palabras, hasta que vine y vi con mis propios ojos; y he aquí que no se me había dicho la mitad; has añadido sabiduría y bondad a la fama que había oído.
+Y no creí a las palabras hasta que vine, y vieron mis ojos; y he aquí no fue declarada a mí la mitad; añadiste sabiduría y bien al informe que oí.
 
 ### 10:8
 
-¡Felices tus hombres, felices tus siervos, que siempre están delante de ti y oyen tu sabiduría!
+Dichosos tus hombres, dichosos tus siervos estos los que están delante de ti siempre, los que oyen tu sabiduría.
 
 ### 10:9
 
-Que Jehová tu Dios sea bendito, que ha tenido por bien ponerte sobre el trono de Israel; porque Jehová ama a Israel para siempre, y te ha puesto rey para hacer justicia y verdad.
+Sea Jehová tu Dios bendito, que se deleitó en ti para darte sobre trono de Israel; en el amar Jehová a Israel para siempre, y te puso por rey para hacer juicio y justicia.
 
 ### 10:10
 
-Y le dio a la reina cien y veinte talentos de oro, y especias en gran cantidad, y piedras preciosas; no se había traído especias como aquéllas en gran cantidad, que la reina de Seba dio al rey Salomón.
+Y dio al rey ciento veinte kikar de oro y especias mucha muy y piedra preciosa; no vino como el bálsamo aquel aún a abundancia que dio la reina de Shevá al rey Shelomó.
 
 ### 10:11
 
-Y también la nave de Hiram que llevaba oro desde Ofir, trajo desde Ofir madera de almug y piedras preciosas en gran cantidad; no se había traído madera de almug en gran cantidad como aquélla.
+Y también la flota de Jiram que alzó oro de Ofir, trajo de Ofir árboles de almugím mucha muy y piedra preciosa.
 
 ### 10:12
 
-El rey hizo con la madera de almug tablas para el templo del Señor y para el palacio real, y arpas y flautas para los músicos; no se había traído madera de almug y no se había visto hasta ese día.
+Y hizo el rey los árboles de los almugím apoyos para casa de Jehová y para casa del rey, y cítaras y liras para los cantores; no vino así árboles de almugím y no se vio hasta el día este.
 
 ### 10:13
 
-Y el rey Salomón dio a la reina de Seba todo lo que ella había pedido, además de lo que el rey Salomón le dio a ella según su mano. Y ella se volvió y se fue a su tierra, ella y sus siervos.
+Y el rey Shelomó dio a la reina de Shevá todo su deseo que pidió, aparte de lo que dio a ella según mano del rey Shelomó; y se volvió y anduvo a su tierra, ella y sus siervos.
 
 ### 10:14
 
-La cantidad de oro que entraba a Salomón en un año era de seiscientas sesenta y seis talentos de oro.
+Y fue el peso del oro que vino a Shelomó en año uno: seiscientos sesenta y seis kikar de oro,
 
 ### 10:15
 
-Aparte de los mercaderes y de los camellos de los mercaderes, y de todos los reyes de la tierra y de los sabios.
+aparte de los hombres de los tarím y del comercio de los mercaderes y todos los reyes de Arav y pejot de la tierra.
 
 ### 10:16
 
-Y el rey Salomón hizo doscientas grandes tazas de oro puro; seiscientos talentos de oro entraba en una taza.
+Y hizo el rey Shelomó doscientos escudos de oro batido; seiscientos de oro subía sobre el escudo el uno.
 
 ### 10:17
 
-Y trescientas grandes escudillas de oro puro; tres talentos de oro entraba en una escudilla. Y el rey las puso en el bosque de Lebán.
+Y trescientos escudos de oro batido; tres maním de oro subía sobre el escudo el uno; y los puso el rey en casa de bosque del Levanón.
 
 ### 10:18
 
-Y el rey hizo un trono de marfil y lo revistió de oro puro.
+Y hizo el rey trono de diente grande, y lo recubrió de oro refinado.
 
 ### 10:19
 
-Seis gradas para el trono y un asiento redondo para el trono, y de un lado y del otro de las gradas, manijas; y dos leones a cada lado de las manijas.
+Seis gradas al trono, y cabeza redonda al trono por detrás de él, y brazos de este y de este al lugar del asiento, y dos leones de pie junto a los brazos.
 
 ### 10:20
 
-Y doce leones a cada lado de las gradas, seis a cada lado; no se había hecho así para ninguna de las demás realezas.
+Y doce leones de pie allí sobre las seis gradas, de este y de este; no se hizo así a todos los reinos.
 
 ### 10:21
 
-Y todo el vajilla de la mesa del rey Salomón era de oro, y todo el vajilla del bosque de Lebán era de oro puro; no se contaba plata por nada en los días de Salomón.
+Y todos los utensilios de bebida del rey Shelomó eran oro, y todos los utensilios de casa de bosque del Levanón oro cerrado; no había plata; no era contada en días de Shelomó por nada.
 
 ### 10:22
 
-Porque la nave de Tarsis para el rey venía una vez cada tres años cargada de oro y plata, de aves de rapiña y de marfil y de piedras preciosas.
+Porque flota de Tarshísh había al rey en el mar con flota de Jiram; una a tres años venía flota de Tarshísh llevando oro y plata, shenhavím y qofím y tukiyím.
 
 ### 10:23
 
-Y el rey Salomón se hizo grande de todos los reyes de la tierra en riqueza y en sabiduría.
+Y se engrandeció el rey Shelomó más que todos los reyes de la tierra en riqueza y en sabiduría.
 
 ### 10:24
 
-Y toda la tierra buscaba la presencia de Salomón para oír su sabiduría, que Dios había dado en su corazón.
+Y toda la tierra buscaba faces de Shelomó para oír su sabiduría que dio Dios en su corazón.
 
 ### 10:25
 
-Y ellos traían cada uno su regalo: vasijas de plata y de oro, vestidos, armas, especias, caballos y mulas, año tras año.
+Y ellos traían hombre su ofrenda: utensilios de plata y utensilios de oro y vestidos y arma y especias, caballos y mulos, palabra de año en año.
 
 ### 10:26
 
-Y Salomón reunió carros y jinetes; tenía mil cuatrocientos carros y doce mil jinetes, que colocaba en las ciudades de los carros y con el rey en Jerusalén.
+Y reunió Shelomó carro y jinetes; y fue a él mil y cuatrocientos carro y doce mil jinetes; y los colocó en ciudades del carro y con el rey en Yerushaláyim.
 
 ### 10:27
 
-Y el rey ponía el plata en Jerusalén como piedras, y los cedros como sicomoros en el valle, en abundancia.
+Y dio el rey la plata en Yerushaláyim como piedras, y los cedros dio como shikmím que en la Shefelá a abundancia.
 
 ### 10:28
 
-Y la salida de los caballos de Salomón provenía de Egipto; los compraban los mercaderes del rey por un precio.
+Y la salida de los caballos que a Shelomó de Mizraim y de Mikvé; mercaderes del rey tomaban Mikvé por precio.
 
 ### 10:29
 
-Y subían y bajaban carros de Egipto por seiscientos siclos de plata, y un caballo por cincuenta y un siclos, y así para todos los reyes de Hitita y para los reyes de Siria, que los enviaban.
+Y subía y salía un carro de Mizraim por seiscientos de plata, y un caballo por cincuenta y ciento; y así a todos los reyes de los jititas y a los reyes de Aram, por su mano salían.
 
 ## Capítulo 11
 
 ### 11:1
 
-Y el rey Salomón amó a muchas mujeres extranjeras, y a la hija de Faraón, a mujeres de Moab, Amón, Edom, Sidón y Hitita.
+Y el rey Shelomó amó mujeres extranjeras muchas, y a hija de Faraón: moaviyot, amoniyot, edomiyot, tsidoniyot, jitiyot,
 
 ### 11:2
 
-De las naciones que el Señor había dicho a los hijos de Israel: No entraréis en su medio, y ellos no entrarán en medio de vosotros, porque ciertamente apartarán vuestros corazones tras sus dioses. Así se aferró Salomón al amor.
+de las naciones que dijo Jehová a hijos de Israel: No entren ustedes en ellos, y ellos no entrarán en ustedes; ciertamente inclinarán su corazón detrás de sus dioses; en ellos se aferró Shelomó para amar.
 
 ### 11:3
 
-Y tenía mujeres setecientas, y concubinas trescientas, y sus mujeres apartaron su corazón tras otros dioses.
+Y fue a él mujeres sarot setecientas y pilegashím trescientas; e inclinaron sus mujeres su corazón.
 
 ### 11:4
 
-Y cuando Salomón envejeció, sus mujeres apartaron su corazón tras otros dioses, y no fue el corazón de Salomón perfecto con el Señor, su Dios, como el corazón de David, su padre.
+Y fue al tiempo de vejez de Shelomó: sus mujeres inclinaron su corazón detrás de dioses otros, y no fue su corazón íntegro con Jehová su Dios como el corazón de David su padre.
 
 ### 11:5
 
-Y Salomón siguió a Astarte, diosa de los sidonios, y a Milcom, abominación de los amonitas.
+Y anduvo Shelomó detrás de Ashtóret dioses de tsidoním y detrás de Milkom abominación de amoním.
 
 ### 11:6
 
-Y Salomón hizo lo malo a los ojos del SEÑOR, y no fue fiel al SEÑOR como David, su padre.
+Y hizo Shelomó el malo en ojos de Jehová, y no llenó detrás de Jehová como David su padre.
 
 ### 11:7
 
-Entonces construyó Salomón un altar a Quemosh, abominación de Moab, en el monte que está frente a Jerusalén, y un altar a Molech, abominación de los hijos de Amón.
+Entonces edificará Shelomó bamá a Kemosh abominación de Moav, en el monte que está sobre faces de Yerushaláyim, y a Molek abominación de hijos de Amón.
 
 ### 11:8
 
-Y así hizo con todas sus mujeres extranjeras, que quemaban incienso y ofrecían sacrificios a sus dioses.
+Y así hizo a todas sus mujeres las extranjeras, quemando incienso y sacrificando a sus dioses.
 
 ### 11:9
 
-Y el SEÑOR se enfureció con Salomón, porque su corazón se apartó del SEÑOR, Dios de Israel, que se le había aparecido dos veces.
+Y se enfureció Jehová en Shelomó, porque inclinó su corazón de con Jehová Dios de Israel, el aparecido a él dos veces,
 
 ### 11:10
 
-Y me ordenó en cuanto a esto: No te apartes de los dioses extranjeros, y no guardó lo que el SEÑOR había ordenado.
+y mandó a él sobre la palabra esta, de no andar detrás de dioses otros; y no guardó lo que mandó Jehová.
 
 ### 11:11
 
-Y el SEÑOR dijo a Salomón: Porque esto ha sucedido contigo, y no has guardado mi pacto y mis estatutos que yo te había ordenado, haré que se te quite el reino y se lo daré a tu siervo.
+Y dijo Jehová a Shelomó: Por cuanto fue esta contigo, y no guardaste mi pacto y mis estatutos que mandé sobre ti, rasgando rasgaré el reino de sobre ti, y lo daré a tu siervo.
 
 ### 11:12
 
-Pero en tus días no lo haré por David, tu padre, por amor a él; pero de tu mano lo quitaré.
+Solo en tus días no lo haré, por causa de David tu padre; de mano de tu hijo lo rasgaré.
 
 ### 11:13
 
-Pero no quitaré todo el reino; daré un reino a tu hijo por amor a David, mi siervo, y por amor a Jerusalén, que he elegido.
+Solo todo el reino no rasgaré; tribu una daré a tu hijo, por causa de David mi siervo y por causa de Yerushaláyim que elegí.
 
 ### 11:14
 
-Y el SEÑOR levantó un adversario contra Salomón: Él era de la familia del rey en Edom.
+Y levantó Jehová satán a Shelomó: a Hadad el edomí, de simiente del rey; él estaba en Edom.
 
 ### 11:15
 
-Y cuando David estaba en Edom, Joab, el capitán del ejército, subió a sepultar a los muertos, y mató a todos los varones en Edom.
+Y fue en estar David con Edom, en subir Yoav jefe del ejército a enterrar a los heridos, e hirió a todo varón en Edom.
 
 ### 11:16
 
-Porque Joab y todo Israel estuvieron seis meses en Edom, hasta que mataron a todos los varones en Edom.
+Porque seis meses se sentó allí Yoav y todo Israel, hasta cortar a todo varón en Edom.
 
 ### 11:17
 
-Y Adad, él y algunos edomitas, huyeron de los siervos de su padre y fueron a Egipto; y Adad era un muchacho.
+Y huyó Adad, él y hombres edomím de siervos de su padre con él, a venir a Mizraim; y Hadad era joven pequeño.
 
 ### 11:18
 
-Y se levantaron de Mediana y llegaron a Paran, y tomaron hombres de Paran con ellos, y llegaron a Egipto al faraón, y el faraón les dio una casa y pan, y les dio tierra.
+Y se levantaron de Midyán y vinieron a Parán, y tomaron hombres con ellos de Parán, y vinieron a Mizraim a Faraón rey de Mizraim; y dio a él casa, y pan dijo a él, y tierra dio a él.
 
 ### 11:19
 
-Y Haddad halló gracia ante los ojos del faraón, y le dio una mujer, la hermana de su mujer, la hermana de Thaphnais, la grande.
+Y halló Hadad gracia en ojos de Faraón muy, y dio a él mujer: a hermana de su mujer, hermana de Tajpenés la gevirá.
 
 ### 11:20
 
-Y Thaphnais, la hermana de Thaphnais, le dio a su hijo a Genubat, y lo crió en la casa del faraón, y Genubat fue como uno de los hijos del faraón.
+Y dio a luz a él hermana de Tajpenés a Genuvat su hijo, y lo destetó Tajpenés en medio de casa de Faraón; y fue Genuvat en casa de Faraón en medio de hijos de Faraón.
 
 ### 11:21
 
-Y Haddad oyó en Egipto que David estaba con sus padres, y que Joab, el capitán del ejército, había muerto, y Haddad dijo al faraón: “Déjame ir a mi tierra”.
+Y Hadad oyó en Mizraim que se acostó David con sus padres, y que murió Yoav jefe del ejército; y dijo Hadad a Faraón: Envíame, y andaré a mi tierra.
 
 ### 11:22
 
-Y el faraón le dijo: “¿Qué te falta conmigo para que buscas ir a tu tierra?”, y él dijo: “No, sino que me enviarás”.
+Y le dijo Faraón: ¿Por qué tú faltando conmigo, y he aquí buscando andar a tu tierra? Y dijo: No, sino enviando me enviarás.
 
 ### 11:23
 
-Y Dios levantó a Hadadezer, el rey de Zoba, a su enemigo, a Rezon, hijo de Elyada, que había huido de su señor, de Hadadezer.
+Y levantó Dios a él satán: a Rezón hijo de Eliadá, que huyó de junto a Hadadézer rey de Tsová su señor.
 
 ### 11:24
 
-Y reunió gente contra él, y fue jefe de un ejército, y mató a David, y fueron a Damasco, y se establecieron en ella, y reinaron en Damasco.
+Y reunió sobre él hombres, y fue jefe de banda cuando mataba David a ellos; y anduvieron a Dameseq y se sentaron en ella, y reinaron en Dameseq.
 
 ### 11:25
 
-Y fue enemigo de Israel todo el tiempo de Salomón, y lo que Haddad hizo fue malo para Israel, y él castigó a Israel, y reinó sobre Aram.
+Y fue satán a Israel todos los días de Shelomó, y el mal que Hadad; y aborreció en Israel, y reinó sobre Aram.
 
 ### 11:26
 
-Y Jeroboam, hijo de Nebat, de Efraim, de Zereda, y el nombre de su madre era Zeruah, una viuda, y era siervo de Salomón, y levantó la mano contra el rey.
+Y Yarovam hijo de Nevat, efratí de la Tseréda, y nombre de su madre Tseruá, mujer viuda, siervo a Shelomó; y alzó mano en el rey.
 
 ### 11:27
 
-Y esto es lo que levantó la mano contra el rey: Salomón construyó el Millo, y cerró a Peres, la ciudad de David, su padre.
+Y esta es la palabra por la que alzó mano en el rey: Shelomó edificó el Miló, cerró la brecha de ciudad de David su padre.
 
 ### 11:28
 
-Y el hombre Jeroboam era un hombre valiente, y Salomón vio al joven que hacía trabajo, y lo puso a cargo de todo el servicio de la casa de José.
+Y el hombre Yarovam valiente de fuerza; y vio Shelomó al joven que estaba haciendo obra él, y lo puso sobre todo el cargo de casa de Yosef.
 
 ### 11:29
 
-Y en aquel tiempo, Jeroboam salió de Jerusalén, y Achia, el silonita, el profeta, lo encontró en el camino, y él estaba cubierto con una nueva piel de cabra, y los dos estaban solos en el campo.
+Y fue en el tiempo aquel, y Yarovam salió de Yerushaláyim; y lo halló Ajiyá el shiloní el profeta en el camino, y él cubriéndose con manto nuevo; y los dos ellos solos en el campo.
 
 ### 11:30
 
-Y Ahiya agarró la piel de cabra que llevaba y la rasgó en doce pedazos.
+Y agarró Ajiyá en el manto el nuevo que sobre él, y lo rasgó doce pedazos.
 
 ### 11:31
 
-Y le dijo a Jeroboam: “Toma diez pedazos, porque así dice el Señor, el Dios de Israel: ‘Voy a desgarrar la realeza de la mano de Salomón y te daré diez tribus’.
+Y dijo a Yarovam: Toma a ti diez pedazos; porque así dijo Jehová Dios de Israel: He aquí yo rasgando el reino de mano de Shelomó, y daré a ti los diez las tribus.
 
 ### 11:32
 
-Y a la tribu le quedará una, para mi siervo David y para Jerusalén, la ciudad que he elegido entre todas las tribus de Israel.
+Y la tribu la una será a él por causa de mi siervo David y por causa de Yerushaláyim la ciudad que elegí en ella de todas las tribus de Israel.
 
 ### 11:33
 
-Porque han abandonado a mí y han servido a Astarte, diosa de Sidón, a Quemosh, dios de Moab, y a Milcom, dios de los amonitas; no han andado en mis caminos ni han hecho lo recto a mis ojos, ni han guardado mis estatutos y mis decretos como David, mi siervo.
+Por cuanto me abandonaron y se postraron a Ashtóret dioses de tsidonín, a Kemosh dioses de Moav y a Milkom dioses de hijos de Amón, y no anduvieron en mis caminos para hacer lo recto en mis ojos, y mis estatutos y mis juicios, como David su padre.
 
 ### 11:34
 
-No tomaré toda la realeza de su mano, porque he hecho a Jeroboam un jefe, para que sea fuerte durante todos los días de su vida, por el bien de David, mi siervo, al que elegí y que guardó mis mandamientos y mis estatutos.
+Y no tomaré todo el reino de su mano, porque nasí lo pondré todos los días de su vida, por causa de David mi siervo que elegí a él, que guardó mis mandamientos y mis estatutos.
 
 ### 11:35
 
-Tomaré la realeza de la mano de su hijo y te daré diez tribus.
+Y tomaré el reino de mano de su hijo, y lo daré a ti: las diez las tribus.
 
 ### 11:36
 
-Y a su hijo daré un trono por causa de David, mi siervo, para que siempre tenga un lugar delante de mí en Jerusalén, la ciudad que he elegido para mí, para que ponga mi nombre allí.
+Y a su hijo daré tribu una, para que haya nir a David mi siervo todos los días delante de mí en Yerushaláyim la ciudad que elegí a mí para poner mi nombre allí.
 
 ### 11:37
 
-Y te tomaré y serás rey de todo lo que tu alma desee, y serás rey sobre Israel.
+Y a ti tomaré, y reinarás en todo lo que anhele tu alma, y serás rey sobre Israel.
 
 ### 11:38
 
-Si escuchas a todo lo que te ordeno y andas en mis caminos, haciendo lo recto a mis ojos, guardando mis estatutos y mis mandamientos como David, mi siervo, haré contigo lo que hice con él: estaré contigo y edificaré para ti una casa segura como la que edifiqué para David, y te daré a Israel.
+Y será si oyes todo lo que te mande, y andas en mis caminos, y haces lo recto en mis ojos, para guardar mis estatutos y mis mandamientos como hizo David mi siervo, y seré contigo, y edificaré a ti casa fiel como edifiqué a David, y daré a ti a Israel.
 
 ### 11:39
 
-Y haré que el linaje de David tenga estabilidad por esta causa, pero no para siempre.
+Y afligiré a simiente de David por causa de esto; solo no todos los días.
 
 ### 11:40
 
-Y Salomón buscó matar a Jeroboam, y Jeroboam se levantó y huyó a Egipto, a Sísac, rey de Egipto, y estuvo en Egipto hasta la muerte de Salomón.
+Y buscó Shelomó matar a Yarovam; y se levantó Yarovam y huyó a Mizraim a Shishaq rey de Mizraim; y fue en Mizraim hasta muerte de Shelomó.
 
 ### 11:41
 
-Y el resto de las palabras de Salomón y todo lo que hizo y su sabiduría, ¿no están escritas en el libro de las palabras de Salomón?
+Y el resto de las palabras de Shelomó y todo lo que hizo y su sabiduría, ¿no están escritas sobre sefer de palabras de Shelomó?
 
 ### 11:42
 
-Y el tiempo que reinó Salomón en Jerusalén sobre todo Israel fue cuarenta años.
+Y los días que reinó Shelomó en Yerushaláyim sobre todo Israel: cuarenta años.
 
 ### 11:43
 
-Y Salomón se durmió con sus padres, y fue sepultado en la ciudad de David, su padre; y Rehoboam su hijo reinó en su lugar.
+Y se acostó Shelomó con sus padres, y fue enterrado en ciudad de David su padre; y reinó Rejavam su hijo debajo de él.
 
 ## Capítulo 12
 
 ### 12:1
 
-Y Rehoboam fue a Siquem, porque toda la casa de Israel se había reunido a Siquem para hacerle rey.
+Y anduvo Rejavam a Shejem, porque a Shejem vino todo Israel a hacerlo rey a él.
 
 ### 12:2
 
-Y aconteció que cuando Jeroboam hijo de Nebat supo que Rehoboam había vuelto de Jerusalén (porque Jeroboam estaba en Egipto, donde había huido de la presencia del rey Salomón), y Jeroboam habitaba en Egipto.
+Y fue al oír Yarovam hijo de Nevat —y él aún en Mizraim, que huyó de faces del rey Shelomó—, y se sentó Yarovam en Mizraim.
 
 ### 12:3
 
-Y enviaron y le llamaron, y vino Jeroboam y toda la congregación de Israel a Rehoboam.
+Y enviaron y llamaron a él; Yarovam y toda la asamblea de Israel, y hablaron a Rejavam, diciendo:
 
 ### 12:4
 
-Tu padre nos hizo pesados el yugo, pero tú aligerarás el servicio de tu padre y el peso pesado que él puso sobre nosotros, y seremos siervos tuyos.
+Tu padre endureció nuestro yugo; y tú ahora aligera del servicio de tu padre el duro y de su yugo el pesado que puso sobre nosotros, y te serviremos.
 
 ### 12:5
 
-Y les dijo: Idos, pasad tres días, y luego volved a mí. Y el pueblo se fue.
+Y les dijo: Vayan aún tres días, y vuelvan a mí. Y anduvo el pueblo.
 
 ### 12:6
 
-Y el rey Rehoboam consultó a los ancianos que estaban delante de Salomón su padre mientras vivía, diciendo: ¿Cómo aconsejáis que respondamos a este pueblo?
+Y se aconsejó el rey Rejavam con los ancianos que estaban de pie con faces de Shelomó su padre en su ser vivo, diciendo: ¿Cómo ustedes aconsejan para devolver al pueblo este palabra?
 
 ### 12:7
 
-Y les habló diciendo: Si hoy sois siervos del pueblo, y los servís y los complais y les habláis palabras buenas, serán siervos tuyos siempre.
+A él, diciendo: Si hoy eres siervo al pueblo este, y los sirves, y les respondes, y hablas a ellos palabras buenas, y serán a ti siervos todos los días.
 
 ### 12:8
 
-Y dejó el consejo de los ancianos que le habían aconsejado, y consultó a los jóvenes que habían crecido con él, que estaban delante de él.
+Y dejó el consejo de los ancianos que le aconsejaron, y se aconsejó con los muchachos que crecieron con él, que los que están delante de él.
 
 ### 12:9
 
-Y les dijo: ¿Qué aconsejáis que respondamos a este pueblo que nos ha hablado, diciendo: Aligerarás el yugo que tu padre puso sobre nosotros?
+Y les dijo: ¿Qué ustedes aconsejan, y devolvamos palabra al pueblo este que hablaron a mí, diciendo: Aligera del yugo que puso tu padre sobre nosotros?
 
 ### 12:10
 
-Y los jóvenes que habían crecido con él le hablaron diciendo: Así hablarás a este pueblo que te ha hablado, diciendo: Tu padre nos hizo pesados el yugo, pero tú aligerarás el yugo sobre nosotros. Así les hablarás: Mi pequeño dedo es más grueso que el lomo de mi padre.
+Y hablaron a él los muchachos que crecieron con él, diciendo: Así dirás al pueblo este que hablaron a ti, diciendo: Tu padre agravó nuestro yugo, y tú aligera de sobre nosotros; así hablarás a ellos: Mi meñique es más grueso que los lomos de mi padre.
 
 ### 12:11
 
-Y ahora mi padre os ha puesto un yugo pesado, y yo añadiré a vuestro yugo. Mi padre os castigaba con azotes, y yo os castigaré con cardenales.
+Y ahora mi padre cargó sobre ustedes yugo pesado, y yo añadiré sobre el yugo de ustedes; mi padre los disciplinó con azotes, y yo los disciplinaré con akrabím.
 
 ### 12:12
 
-Y Roboam y todo el pueblo volvieron a Roboam al tercer día, como el rey les había dicho: “Volved a mí al tercer día”.
+Yarovam y todo el pueblo a Rejavam en el día el tercero, como habló el rey, diciendo: Vuelvan a mí en el día el tercero.
 
 ### 12:13
 
-Y el rey respondió al pueblo con dureza y desoyó el consejo de los ancianos.
+Y respondió el rey al pueblo duro, y dejó el consejo de los ancianos que le aconsejaron.
 
 ### 12:14
 
-Y habló con ellos según el consejo de los jóvenes, diciendo: Mi padre os hizo pesado el yugo, y yo añadiré a vuestro yugo. Mi padre os castigaba con azotes, y yo os castigaré con cardenales.
+Y habló a ellos conforme al consejo de los muchachos, diciendo: Mi padre agravó el yugo de ustedes, y yo añadiré sobre el yugo de ustedes; mi padre los disciplinó con azotes, y yo los disciplinaré con akrabím.
 
 ### 12:15
 
-Y el rey no escuchó al pueblo, porque fue de Jehová para cumplir su palabra que había hablado por medio de Ahijah el silonita a Jeroboam hijo de Nebat.
+Y no oyó el rey al pueblo, porque fue vuelta de con Jehová, para levantar su palabra que habló Jehová por mano de Ajiyá el shiloní a Yarovam hijo de Nevat.
 
 ### 12:16
 
-Y todo Israel vio que el rey no escuchaba al pueblo, y el pueblo respondió al rey diciendo: ¿Qué parte tenemos nosotros en David, ni heredad en hijo de Isaí? Ahora, pues, Israel, regresa a tus propias casas. Y fueron a sus casas.
+Y vio todo Israel que no oyó el rey a ellos; y devolvió el pueblo al rey palabra, diciendo: ¿Qué hay a nosotros porción en David? Y no herencia en hijo de Yishai; a tus tiendas, Israel; ahora ve tu casa, David. Y anduvo Israel a sus tiendas.
 
 ### 12:17
 
-Y los hijos de Israel que habitaban en las ciudades de Judá, y Roboam reinó sobre ellos.
+Y a hijos de Israel los que habitaban en ciudades de Yehudá reinó sobre ellos Rejavam.
 
 ### 12:18
 
-Y envió el rey Roboam a Adoram, que estaba sobre el tributo, y todo Israel le apedreó hasta la muerte. Y el rey Roboam subió en su carro para huir a Jerusalén.
+Y envió el rey Rejavam a Adoram que estaba sobre el mas; y apedrearon todo Israel en él piedra, y murió; y el rey Rejavam se esforzó a subir en el carro a huir a Yerushaláyim.
 
 ### 12:19
 
-Y los hijos de Israel se apartaron de la casa de David hasta el día de hoy.
+Y se rebeló Israel en casa de David hasta el día este.
 
 ### 12:20
 
-Y cuando todo Israel oyó que Jeroboam había vuelto, le enviaron y le llamaron a la asamblea y le hicieron rey sobre todo Israel, excepto la tribu de Judá.
+Y fue al oír todo Israel que volvió Yarovam, y enviaron y lo llamaron a la congregación, y lo hicieron rey sobre todo Israel; no hubo detrás de casa de David sino tribu de Yehudá sola.
 
 ### 12:21
 
-Y Roboam llegó a Jerusalén, y reunió a toda la casa de Judá y a la tribu de Benjamín, ciento ochenta mil hombres de edad viril para la guerra, para luchar contra la casa de Israel para devolver la realeza a Roboam hijo de Salomón.
+Rejavam Yerushaláyim; y reunió a toda casa de Yehudá y a tribu de Binyamín, ciento y ochenta mil escogido hacedor de guerra, para pelear con casa de Israel, para devolver el reino a Rejavam hijo de Shelomó.
 
 ### 12:22
 
-Y Jehová habló a Semajah, el hombre de Dios, diciendo:
+Y fue palabra de Dios a Shemayá hombre de Dios, diciendo:
 
 ### 12:23
 
-Dile a Roboam hijo de Salomón, rey de Judá, y a toda la casa de Judá y a Benjamín, y al resto del pueblo:
+Di a Rejavam hijo de Shelomó rey de Yehudá y a toda casa de Yehudá y Binyamín y resto del pueblo, diciendo:
 
 ### 12:24
 
-Así ha dicho Jehová: No suban ni luchen contra sus hermanos, los hijos de Israel. Cada uno vuelva a su casa, porque de mí ha salido esta palabra. Y oyeron la palabra de Jehová y volvieron para no ir conforme a la palabra de Jehová.
+Así dijo Jehová: No suban ustedes y no peleen con sus hermanos hijos de Israel; vuelvan hombre a su casa, porque de conmigo fue la palabra esta. Y oyeron la palabra de Jehová, y volvieron a andar conforme a la palabra de Jehová.
 
 ### 12:25
 
-Y Roboam edificó a Siquem en el monte de Efraín y habitó en ella. Y salió de allí y edificó a Peniel.
+Y edificó Yarovam a Shejem en monte de Efráyim, y se sentó en ella; y salió de allí y edificó a Penuel.
 
 ### 12:26
 
-Y Roboam dijo en su corazón: Ahora volverá la realeza a la casa de David.
+Y dijo Yarovam en su corazón: Ahora volverá el reino a casa de David.
 
 ### 12:27
 
-Si sube este pueblo a sacrificar en el templo de Jehová en Jerusalén, entonces se volverá el corazón de este pueblo a su señor, a Roboam rey de Judá, y me matarán y volverán a Roboam rey de Judá.
+Si sube el pueblo este a hacer sacrificios en casa de Jehová en Yerushaláyim, y volverá el corazón del pueblo este a sus señores, a Rejavam rey de Yehudá, y me matarán y volverán a Rejavam rey de Yehudá.
 
 ### 12:28
 
-Y el rey consultó y hizo dos becerros de oro. Y les dijo: Es mucho para vosotros subir a Jerusalén. He aquí vuestros dioses, Israel, que os sacaron de la tierra de Egipto.
+Y se aconsejó el rey, e hizo dos becerros de oro; y les dijo: Mucho a ustedes de subir a Yerushaláyim; he aquí tus dioses, Israel, que te hicieron subir de tierra de Mizraim.
 
 ### 12:29
 
-Y puso uno en Betel y el otro en Dan.
+Y puso el uno en Bet El, y al uno dio en Dan.
 
 ### 12:30
 
-Y esto fue pecado. Y el pueblo iba delante del uno hasta Dan.
+Y fue la palabra esta por pecado; y anduvo el pueblo delante del uno hasta Dan.
 
 ### 12:31
 
-Y estableció casas de altas y puso sacerdotes de los confines del pueblo, los cuales no eran de la tribu de Leví.
+E hizo casa de bamot, e hizo sacerdotes de extremos del pueblo que no eran de hijos de Leví.
 
 ### 12:32
 
-Y Roboam hizo un festivo en el mes octavo, en el quince del mes, como el festivo que hay en Judá, y subió al altar, según hizo en Betel para sacrificar a los becerros que hizo. Y puso en Betel a los sacerdotes de las altas que había hecho.
+E hizo Yarovam fiesta en el mes el octavo, en el quince día al mes, como la fiesta que en Yehudá; y subió sobre el altar. Así hizo en Bet El, a sacrificar a los becerros que hizo; e hizo estar en Bet El a sacerdotes de las bamot que hizo.
 
 ### 12:33
 
-Y subió al altar que hizo en Betel en el quince del mes octavo, en el mes que comenzó, y celebró festivo a los hijos de Israel y subió al altar para quemar ofrendas.
+Y subió sobre el altar que hizo en Bet El en el quince día en el mes el octavo, en el mes que ideó; e hizo fiesta a hijos de Israel, y subió sobre el altar a quemar incienso.
 
 ## Capítulo 13
 
 ### 13:1
 
-Y he aquí un hombre de Dios vino de Judá a Betel, según la palabra de Jehová, y Roboam estaba de pie sobre el altar para quemar ofrendas.
+Y he aquí hombre de Dios vino de Yehudá en palabra de Jehová a Bet El; y Yarovam estaba de pie sobre el altar a quemar incienso.
 
 ### 13:2
 
-Y llamó sobre el altar, según la palabra de Jehová, y dijo: Altar sobre altar, así dice Jehová: He aquí un hijo nacido de la casa de David, Josías será su nombre, y sacrificará sobre ti a los sacerdotes de las alturas que queman sobre ti, y huesos de hombres quemará sobre ti.
+Y clamó sobre el altar en palabra de Jehová, y dijo: Altar, altar, así dijo Jehová: He aquí hijo nacido a casa de David, Yoshiyahu su nombre; y sacrificará sobre ti a sacerdotes de las bamot los que queman incienso sobre ti, y huesos de humano quemarán sobre ti.
 
 ### 13:3
 
-Y dio un milagro en aquel día, diciendo: Este es el milagro que habló Jehová: He aquí el altar se ha roto y el polvo que está sobre él se ha derramado.
+Y dio en el día aquel señal, diciendo: Esta es la señal que habló Jehová: He aquí el altar rasgado, y derramado el deshen que sobre él.
 
 ### 13:4
 
-Y cuando el rey oyó la palabra del hombre de Dios que llamó sobre el altar en Betel, extendió la mano desde el altar, diciendo: Apresúrate, y se secó la mano que extendió sobre él, y no pudo volverla a sí mismo.
+Y fue al oír el rey la palabra de hombre de Dios que clamó sobre el altar en Bet El, y envió Yarovam su mano de sobre el altar, diciendo: ¡Agárrenlo! Y se secó su mano que envió sobre él, y no pudo devolverla a él.
 
 ### 13:5
 
-Y el altar se rompió y el polvo que estaba sobre el altar se derramó desde el altar, como el milagro que dio el hombre de Dios según la palabra de Jehová.
+Y el altar se rasgó, y se derramó el deshen del altar, conforme a la señal que dio hombre de Dios en palabra de Jehová.
 
 ### 13:6
 
-Y respondió el rey y dijo al hombre de Dios: Ruega ahora ante Jehová tu Dios y ora por mí, y volverá la mano del rey a sí mismo. Y rogó el hombre de Dios ante Jehová, y volvió la mano del rey a sí mismo, como antes.
+Y respondió el rey y dijo a hombre de Dios: Ruega, por favor, faces de Jehová tu Dios, y ora por mí, y vuelva mi mano a mí. Y rogó hombre de Dios faces de Jehová, y volvió mano del rey a él, y fue como al principio.
 
 ### 13:7
 
-Y habló el rey al hombre de Dios: Ven conmigo a la casa y come pan, y te daré un regalo.
+Y habló el rey a hombre de Dios: Ven conmigo a la casa, y sustenta, y daré a ti don.
 
 ### 13:8
 
-Y dijo el hombre de Dios al rey: Si me das la mitad de tu casa, no iré contigo, ni comeré pan ni beberé agua en este lugar.
+Y dijo hombre de Dios al rey: Si das a mí la mitad de tu casa, no vendré contigo, y no comeré pan y no beberé aguas en el lugar este.
 
 ### 13:9
 
-Porque así me ha mandado Jehová, según su palabra, diciendo: No comerás pan ni beberás agua, y no volverás por el camino por donde viniste.
+Porque así mandó a mí en palabra de Jehová, diciendo: No comas pan y no bebas aguas, y no vuelvas por el camino que anduviste.
 
 ### 13:10
 
-Y fue por otro camino, y no volvió por el camino por donde había venido a Betel.
+Y anduvo por camino otro, y no volvió por el camino que vino en él a Bet El.
 
 ### 13:11
 
-Y un profeta anciano vivía en Betel, y vino su hijo y le contó todo el hecho que el hombre de Dios había hecho aquel día en Betel, y las palabras que había hablado al rey, y se las contó a su padre.
+Y un profeta uno anciano habitaba en Bet El; y vino su hijo y contó a él toda la obra que hizo hombre de Dios hoy en Bet El, las palabras que habló al rey; y las contaron a su padre.
 
 ### 13:12
 
-Y habló su padre a ellos: ¿Es este el camino por donde ha ido? Y vieron sus hijos el camino por donde había ido el hombre de Dios que había venido de Judá.
+Y habló a ellos su padre: ¿Dónde está este el camino que anduvo? Y vieron sus hijos el camino que anduvo hombre de Dios que vino de Yehudá.
 
 ### 13:13
 
-Y dijo a sus hijos: Atadme a mí el asno, y lo ataron a él, y subió sobre él.
+Y dijo a sus hijos: Ensillen a mí el asno. Y le ensillaron el asno, y montó sobre él.
 
 ### 13:14
 
-Y fue tras el hombre de Dios y lo encontró sentado bajo el árbol. Y le dijo: ¿Eres tú el hombre de Dios que vino de Judá? Y él dijo: Yo soy.
+Y anduvo detrás de hombre de Dios, y lo halló sentado bajo la ela; y le dijo: ¿Tú eres hombre de Dios que viniste de Yehudá? Y dijo: Yo.
 
 ### 13:15
 
-Y le dijo: Ven conmigo a casa y come pan.
+Y le dijo: Anda conmigo a la casa, y come pan.
 
 ### 13:16
 
-Y él dijo: No puedo volver contigo ni ir contigo. No comeré pan ni beberé agua en este lugar.
+Y dijo: No puedo volver contigo y venir contigo, y no comeré pan y no beberé contigo aguas en el lugar este.
 
 ### 13:17
 
-Porque me ha dado una orden de parte de Jehová: no comerás pan ni beberás agua en este lugar, no volverás a caminar por el camino por donde viniste.
+Porque palabra a mí en palabra de Jehová: No comas pan y no bebas allí aguas; no vuelvas a andar por el camino que anduviste en él.
 
 ### 13:18
 
-Y le dijo: También yo soy profeta como tú, y un ángel me habló en nombre de Jehová, diciendo: Haz volver a este hombre contigo a tu casa, y que coma pan y beba agua. Calla para él.
+Y le dijo: También yo soy profeta como tú, y mensajero habló a mí en palabra de Jehová, diciendo: Devuélvelo contigo a tu casa, y coma pan y beba aguas. Mintió a él.
 
 ### 13:19
 
-Y se quedó con él y comió pan en su casa y bebió agua.
+Y volvió con él, y comió pan en su casa, y bebió aguas.
 
 ### 13:20
 
-Y mientras estaban sentados a la mesa, vino la palabra de Jehová al profeta que lo había hecho volver.
+Y fue que ellos estaban sentados a la mesa, y fue palabra de Jehová al profeta que lo devolvió.
 
 ### 13:21
 
-Y llamó al hombre de Dios que vino de Judá, diciendo: Así ha dicho Jehová: Porque has levantado contra la palabra de Jehová y no has guardado la orden que Jehová tu Dios te dio.
+Y clamó a hombre de Dios que vino de Yehudá, diciendo: Así dijo Jehová: Por cuanto amargaste boca de Jehová, y no guardaste el mandamiento que te mandó Jehová tu Dios,
 
 ### 13:22
 
-Y volvió y comió pan y bebió agua en el lugar donde le había dicho: No comerás pan ni beberás agua. Tu cadáver no entrará en el sepulcro de tus padres.
+y volviste y comiste pan y bebiste aguas en el lugar que habló a ti: No comas pan y no bebas aguas — no vendrá tu cadáver a sepulcro de tus padres.
 
 ### 13:23
 
-Y después de comer y beber, atóle el asno para el profeta que lo había hecho volver.
+Y fue después de su comer pan y después de su beber, y le ensilló el asno al profeta que lo devolvió.
 
 ### 13:24
 
-Y fue y lo encontró un león en el camino y lo mató. Y su cadáver estaba tirado en el camino, y el asno estaba parado junto a él, y el león estaba parado junto al cadáver.
+Y anduvo, y lo halló león en el camino, y lo mató; y fue su cadáver echado en el camino, y el asno de pie junto a ella, y el león de pie junto al cadáver.
 
 ### 13:25
 
-Y he aquí que pasaban hombres y vieron el cadáver tirado en el camino y al león parado junto al cadáver. Y vinieron y hablaron en la ciudad donde el anciano profeta vivía.
+Y he aquí hombres que pasaban, y vieron el cadáver echado en el camino y al león de pie junto al cadáver; y vinieron y hablaron en la ciudad que el profeta el anciano habitaba en ella.
 
 ### 13:26
 
-Y el profeta que había enviado de vuelta oyó esto y dijo: ‘Ese es el hombre de Dios que desobedeció a la palabra de Jehová. Y Jehová le entregó al león, que lo rompió y lo mató, según la palabra de Jehová que había hablado a él.
+Y oyó el profeta que lo devolvió del camino, y dijo: Hombre de Dios él, que amargó boca de Jehová; y lo dio Jehová al león, y lo quebró y lo mató, conforme a la palabra de Jehová que habló a él.
 
 ### 13:27
 
-Y habló a sus hijos diciendo: ‘Atádenme al asno y lo hicieron.’
+Y habló a sus hijos, diciendo: Ensillen a mí el asno. Y ensillaron.
 
 ### 13:28
 
-Y fue y encontró su cadáver tirado en el camino, y el asno y el león estaban parados junto a la cadáver. El león no había comido la cadáver ni había roto el asno.
+Y anduvo y halló su cadáver echado en el camino, y el asno y el león de pie junto al cadáver; no comió el león el cadáver y no quebró el asno.
 
 ### 13:29
 
-Y el profeta levantó la cadáver del hombre de Dios y lo puso sobre el asno y lo devolvió. Y vino a la ciudad del profeta anciano para enterrarlo y llorarlo.
+Y alzó el profeta el cadáver de hombre de Dios, y lo depositó al asno, y lo devolvió; y vino a ciudad del profeta el anciano, a lamentar y a enterrarlo.
 
 ### 13:30
 
-Y puso su cadáver en su tumba, y lloraron sobre él, diciendo: ‘¡Oh, hermano!’
+Y depositó su cadáver en su sepulcro; y lamentaron sobre él: ¡Ay, hermano mío!
 
 ### 13:31
 
-Y después de que lo enterró, le dijo a sus hijos: ‘Cuando yo muera, enterradme en la tumba en la que está enterrado el hombre de Dios. Junto a sus huesos, dejad mis huesos.’
+Y fue después de enterrarlo, y dijo a sus hijos, diciendo: En mi morir, entiérrenme en el sepulcro que hombre de Dios está enterrado en él; junto a sus huesos depositen mis huesos.
 
 ### 13:32
 
-Porque lo que Jehová había hablado por el profeta acerca del altar en Betel y acerca de todos los altares en las ciudades de Samaria, ciertamente será.
+Porque siendo será la palabra que clamó en palabra de Jehová sobre el altar que en Bet El y sobre todas las casas de las bamot que en ciudades de Shomerón.
 
 ### 13:33
 
-Después de esto, Jeroboam no volvió de su camino malo, sino que estableció sacerdotes en los altos, cualquiera que le agradaba, y los hizo sacerdotes de los altares.
+Después de la palabra esta no volvió Yarovam de su camino el malo, y volvió e hizo de extremos del pueblo sacerdotes de bamot; el que deseaba llenaba su mano, y sea sacerdotes de bamot.
 
 ### 13:34
 
-Y fue en este tiempo un pecado para la casa de Jeroboam, para que fuera destruido y para que fuera aniquilado de la tierra.
+Y fue en la palabra esta por pecado de casa de Yarovam, y para aniquilar y para destruir de sobre faces de la tierra.
 
 ## Capítulo 14
 
 ### 14:1
 
-En aquel tiempo Abiá, hijo de Jeroboam, enfermó.
+En el tiempo aquel enfermó Aviyá hijo de Yerovam.
 
 ### 14:2
 
-Y Jeroboam le dijo a su mujer: ‘Levántate y disfrazaos, para que no sepan que eres la mujer de Jeroboam. Ve a Silo, porque allí está Ahías el profeta, que habló acerca de mí para ser rey sobre el pueblo.’
+Y dijo Yerovam a su mujer: Levántate, por favor, y transfórmate, y no sabrán que eres mujer de Yerovam; e irás a Shiló; he aquí allí Ajiyá el profeta; él habló sobre mí por rey sobre el pueblo este.
 
 ### 14:3
 
-Y toma en tu mano diez panes, bollos y un odre de miel, y ve a él. Él te dirá lo que será del niño.
+Y tomarás en tu mano diez panes y galletas y botella de miel, y vendrás a él; él anunciará a ti qué será al muchacho.
 
 ### 14:4
 
-Y ella lo hizo. Se levantó y fue a Silo. Entró en la casa de Ahías, y Ahías no podía ver, porque sus ojos se habían nublado por la vejez.
+Y hizo así la mujer de Yerovam, y se levantó y fue a Shiló, y vino a casa de Ajiyá; y Ajiyahu no podía ver, porque se levantaron sus ojos de su vejez.
 
 ### 14:5
 
-Y Jehová le dijo a Ahías: ‘He aquí que la mujer de Jeroboam viene a preguntarte acerca de su hijo, que está enfermo. Así y así debes hablarle cuando venga, y ella se disfrazará.’
+Y Jehová dijo a Ajiyahu: He aquí mujer de Yerovam viniendo a buscar palabra de contigo a su hijo, porque enfermo él; como esto y como esto hablarás a ella; y sea en su venir, y ella disfrazándose.
 
 ### 14:6
 
-Y cuando Ahías oyó el ruido de los pies de la mujer que entraba por la puerta, dijo: ‘Ven, mujer de Jeroboam, ¿por qué te disfrazas? Yo soy enviado a ti con una dura palabra.’
+Y fue, en oír Ajiyahu la voz de sus pies viniendo en la puerta, y dijo: Entra, mujer de Yerovam; ¿por qué esto tú disfrazándote? Y yo soy enviado a ti duro.
 
 ### 14:7
 
-Porque di a Jeroboam: ‘Así dice Jehová, el Dios de Israel: Porque te alzé del pueblo y te hice príncipe sobre mi pueblo Israel,
+Anda, di a Yerovam: Así dijo Jehová Dios de Israel: A causa de que te alcé de medio del pueblo, y te di naguíd sobre mi pueblo Israel,
 
 ### 14:8
 
-y desgajé el reino de la casa de David y se lo di a ti, y tú no has sido como David, mi siervo, que guardó mis mandamientos y anduvo trasmí, con todo su corazón, para hacer lo que es recto ante mis ojos.’
+y rasgué el reino de casa de David, y la di a ti; y no fuiste como mi siervo David, que guardó mis mandamientos, y que anduvo detrás de mí en todo su corazón, para hacer solo lo recto en mis ojos;
 
 ### 14:9
 
-Pero tú hiciste lo malo, más que todas las naciones; porque has hecho otros dioses y imágenes para provocarme a ira; y has echado tras tu cuello a mí, tu Señor.
+y hiciste mal para hacer de todo lo que fueron delante de ti, y fuiste y hiciste para ti dioses otros e imágenes de fundición para provocarme, y a mí echaste detrás de tu espalda.
 
 ### 14:10
 
-Por tanto, he aquí que traeré el mal sobre la casa de Jeroboam, y cortaré de Jeroboam a quien se aferra, y a quien se aparta, en Israel; y arrancaré a la casa de Jeroboam, como se quema el estiércol hasta que se consuma.
+Por tanto, he aquí yo trayendo mal a casa de Yerovam, y cortaré a Yerovam orinante en pared, cerrado y abandonado, en Israel; y quemaré detrás de casa de Yerovam como quema el estiércol hasta su acabar.
 
 ### 14:11
 
-El que muera de Jeroboam en la ciudad, los perros lo comerán; y el que muera en el campo, las aves del cielo lo comerán; porque Jehová ha hablado.
+El muerto a Yerovam en la ciudad comerán los perros, y el muerto en el campo comerán ave de los cielos, porque Jehová habló.
 
 ### 14:12
 
-Y tú levántate, vete a tu casa. Cuando tus pies entren en la ciudad, el niño morirá.
+Y tú, levántate, anda a tu casa; en venir tus pies a la ciudad, y morirá el niño.
 
 ### 14:13
 
-Y todos los de Israel lo llorarán y lo enterrarán, porque en Jeroboam solo él ha hallado algo bueno hacia Jehová, el Dios de Israel, en toda la casa de Jeroboam.
+Y harán duelo a él todo Israel, y enterrarán a él, porque este solo vendrá a Yerovam a sepulcro, a causa de hallarse en él cosa buena a Jehová Dios de Israel en casa de Yerovam.
 
 ### 14:14
 
-Y Jehová levantará para él un rey sobre Israel, que cortará a la casa de Jeroboam hoy mismo. ¿Y qué? Ahora también.
+Y levantará Jehová a él rey sobre Israel que cortará a casa de Yerovam; esto el día; y qué también ahora.
 
 ### 14:15
 
-Y Jehová golpeará a Israel como se balancea el cañaveral en el agua, y los dispersará más allá del río, porque han hecho los aseritas, que provocan a Jehová.
+E hirirá Jehová a Israel como se mueve la caña en las aguas, y arrancará a Israel de sobre el suelo el bueno este que dio a sus padres, y los aventará de éver al río, a causa de que hicieron sus asherás provocando a Jehová.
 
 ### 14:16
 
-Y entregará a Israel por las culpas de Jeroboam, que pecó, y por las que hizo pecar a Israel.
+Y dará a Israel por causa de pecados de Yerovam que pecó, y que hizo pecar a Israel.
 
 ### 14:17
 
-Y se levantó la mujer de Jeroboam y fue y llegó a su casa; el niño murió.
+Y se levantó mujer de Yerovam, y fue, y vino a Tirtsá; ella viniendo en umbral de la casa, y el muchacho murió.
 
 ### 14:18
 
-Y lo enterraron y todo Israel lo lamentó, según la palabra de Jehová que había hablado por su siervo el profeta Ahías.
+Y enterraron a él, y hicieron duelo a él todo Israel, conforme a palabra de Jehová que habló en mano de su siervo Ajiyahu el profeta.
 
 ### 14:19
 
-Y los demás hechos de Jeroboam, que peleó y que reinó, están escritos en el libro de los días de los reyes de Israel.
+Y resto de palabras de Yerovam que combatió y que reinó, he aquí ellos escritos sobre rollo de palabras de los días a reyes de Israel.
 
 ### 14:20
 
-Y los años que reinó Jeroboam fueron veinte y dos años, y murió con sus padres, y reinó en su lugar su hijo Nadab.
+Y los días que reinó Yerovam veinte y dos año; y se acostó con sus padres, y reinó Nadav su hijo debajo de él.
 
 ### 14:21
 
-Y Roboam hijo de Salomón reinó en Judá, hijo de cuarenta y un años; Roboam reinó setenta años en Jerusalén, la ciudad que Jehová había elegido para poner su nombre entre todas las tribus de Israel. Y el nombre de su madre era Naamá la amonita.
+Y Rejavam hijo de Shelomó reinó en Yehudá; hijo de cuarenta y un año Rejavam en su reinar, y diecisiete año reinó en Yerushaláyim, la ciudad que escogió Jehová para poner su nombre allí de todas tribus de Israel; y nombre de su madre Naamá la ammonít.
 
 ### 14:22
 
-Y Judá hizo lo malo a los ojos de Jehová, y le enojó como a sus padres habían enojado por sus pecados que habían cometido.
+E hizo Yehudá lo malo en ojos de Jehová, y lo celaron de todo lo que hicieron sus padres en sus pecados que pecaron.
 
 ### 14:23
 
-Y también ellos edificaron para ellos altas, y columnas, y aserás, en cada monte alto y debajo de cada árbol frondoso.
+Y edificaron también ellos para ellos bamot y matsévot y asherím sobre toda colina alta y debajo de todo árbol verde.
 
 ### 14:24
 
-Y también había un culto en la tierra, hicieron conforme a todas las abominaciones de las naciones que Jehová había echado de delante de los hijos de Israel.
+Y también qadesh fue en la tierra; hicieron como todo de las abominaciones de las naciones que desposeyó Jehová de faces de hijos de Israel.
 
 ### 14:25
 
-Y en el año quinto del rey Roboam subió Sosías, rey de Egipto, a Jerusalén.
+Y fue en el año el quinto al rey Rejavam; subió rey de Mizraim sobre Yerushaláyim.
 
 ### 14:26
 
-Y tomó los tesoros de la casa de Jehová y los tesoros de la casa del rey, y tomó todo, y tomó todos los escudos de oro que había hecho Salomón.
+Y tomó los tesoros de casa de Jehová y los tesoros de casa del rey, y el todo tomó; y tomó todos los escudos del oro que hizo Shelomó.
 
 ### 14:27
 
-Y el rey Roboam hizo escudos de bronce en lugar de ellos, y los puso en manos de los capitanes de los guardias que guardaban la entrada del palacio real.
+E hizo el rey Rejavam debajo de ellos escudos de bronce, y encargó sobre mano de jefes de los corredores, los guardantes de la puerta de casa del rey.
 
 ### 14:28
 
-Y cuando el rey entró en la casa de Jehová, los corredores lo llevaron a su cámara.
+Y fue, de bastante de venir el rey a casa de Jehová, los alzaban los corredores, y los devolvían a cámara de los corredores.
 
 ### 14:29
 
-Y los demás hechos de Roboam, y todo lo que hizo, ¿no están escritos en el libro de los días de los reyes de Judá?
+Y resto de palabras de Rejavam y todo lo que hizo, ¿no ellos escritos sobre rollo de palabras de los días a reyes de Yehudá?
 
 ### 14:30
 
-Y hubo guerra entre Roboam y Jeroboam todo el tiempo.
+Y guerra fue entre Rejavam y entre Yerovam todos los días.
 
 ### 14:31
 
-Y Roboam se acostó con sus padres, y fue sepultado con sus padres en la ciudad de David; su madre se llamaba Naamá la amonita. Y Abijam, su hijo, reinó en su lugar.
+Y se acostó Rejavam con sus padres, y fue enterrado con sus padres en ciudad de David; y nombre de su madre Naamá la ammonít; y reinó Aviyam su hijo debajo de él.
 
 ## Capítulo 15
 
 ### 15:1
 
-Y en el año dieciocho del reinado de Jeroboam, hijo de Nebat, Abijam comenzó a reinar sobre Judá.
+Y en año de dieciocho al rey Yerovam hijo de Nevat reinó Aviyam sobre Yehudá.
 
 ### 15:2
 
-Tres años reinó en Jerusalén; y el nombre de su madre era Maacá, hija de Abisalom.
+Tres años reinó en Yerushaláyim; y nombre de su madre Maajá hija de Avshalom.
 
 ### 15:3
 
-Y él anduvo según todas las iniquidades de su padre, que había hecho delante de mí, y su corazón no estuvo íntegro con el SEÑOR, su Dios, como el corazón de David, su padre.
+Y anduvo en todos los pecados de su padre que hizo delante de él; y no fue su corazón completo con Jehová su Dios como corazón de David su padre.
 
 ### 15:4
 
-Porque por amor de David, el SEÑOR, su Dios, le dio un lugar de fortaleza en Jerusalén, para que estableciera a su hijo después de él, y para que estableciera a Jerusalén.
+Porque por causa de David dio Jehová su Dios a él lámpara en Yerushaláyim, para levantar a su hijo detrás de él, y para hacer estar a Yerushaláyim;
 
 ### 15:5
 
-Lo que hizo David conforme a lo recto ante el SEÑOR, y no se apartó de todo lo que él le mandó, todos los días de su vida, excepto en el caso de Urias el heteo.
+que hizo David lo recto en ojos de Jehová, y no se apartó de todo lo que le mandó todos los días de su vida, solo en asunto de Uriyá el jití.
 
 ### 15:6
 
-Y hubo guerra entre Roboam y Jeroboam todos los días de su vida.
+Y guerra fue entre Rejavam y entre Yerovam todos los días de su vida.
 
 ### 15:7
 
-Y los demás hechos de Abiá, y todo lo que hizo, ¿no están escritos en el libro de los días de los reyes de Judá? Y hubo guerra entre Abiá y Jeroboam.
+Y resto de palabras de Aviyam y todo lo que hizo, ¿no ellos escritos sobre rollo de palabras de los días a reyes de Yehudá? Y guerra fue entre Aviyam y entre Yerovam.
 
 ### 15:8
 
-Y Abiá durmió con sus padres, y lo enterraron en la ciudad de David; y Asa, su hijo, reinó en su lugar.
+Y se acostó Aviyam con sus padres, y lo enterraron en ciudad de David; y reinó Asá su hijo debajo de él.
 
 ### 15:9
 
-Y en el año veinte de Jeroboam, rey de Israel, reinó Asa, rey de Judá.
+Y en año de veinte a Yerovam rey de Israel reinó Asá rey de Yehudá.
 
 ### 15:10
 
-Y reinó cuarenta y un años en Jerusalén; y el nombre de su madre era Maaca, hija de Abisalom.
+Y cuarenta y un año reinó en Yerushaláyim; y nombre de su madre Maajá hija de Avshalom.
 
 ### 15:11
 
-Y Asa hizo lo que era recto a los ojos de Jehová, como David su padre.
+E hizo Asá lo recto en ojos de Jehová como David su padre.
 
 ### 15:12
 
-Y sacó los santos de la tierra, y quitó todos los ídolos que habían hecho sus padres.
+Y hizo pasar los qadeshím de la tierra, y quitó todos los ídolos que hicieron sus padres.
 
 ### 15:13
 
-Y a Maaca, su madre, también la sacó de la dignidad de reina, porque había hecho una imagen de Asereba; y Asa cortó su imagen, y la quemó en el arroyo Cedrón.
+Y también a Maajá su madre la quitó de guevirá, que hizo horror a la asherá; y cortó Asá su horror, y quemó en torrente Qidrón.
 
 ### 15:14
 
-Pero las alturas no las quitó; sin embargo, el corazón de Asa estaba íntegro con Jehová toda su vida.
+Y las bamot no se apartaron; solo corazón de Asá fue completo con Jehová todos sus días.
 
 ### 15:15
 
-Y trajo los santos de su padre, y los santos que halló en su tierra, a la casa de Jehová; plata y oro y vasos.
+Y trajo las cosas santas de su padre a casa de Jehová: plata y oro y utensilios.
 
 ### 15:16
 
-Y hubo guerra entre Asa y Baesa, rey de Israel, toda su vida.
+Y guerra fue entre Asá y entre Baashá rey de Israel todos sus días.
 
 ### 15:17
 
-Y subió Baesa, rey de Israel, contra Judá; y edificó Ramá, para que no saliera ni entrara a Asa, rey de Judá.
+Y subió Baashá rey de Israel sobre Yehudá, y edificó a ha-Ramá, para no dar saliente y entrante a Asá rey de Yehudá.
 
 ### 15:18
 
-Y tomó Asa todo el plata y el oro que quedaba en los tesoros de la casa de Jehová y en los tesoros del rey, y los dio en manos de sus siervos; y envió el rey Asa a Benhadad, hijo de Tabrimón, hijo de Hezion, rey de Aram, que habitaba en Damasco, diciendo:
+Y tomó Asá toda la plata y el oro los restantes en tesoros de casa de Jehová y tesoros de casa, y los dio en mano de sus siervos; y los envió el rey Asá a Ben Hadad hijo de Tavrimón hijo de Jezión, rey de Aram, el habitante en Dameseq, diciendo:
 
 ### 15:19
 
-Tenemos un pacto entre mí y ti, y entre mi padre y tu padre; he aquí que te envío plata y oro, ven y rompe tu pacto con Baesa, rey de Israel, y él se apartará de mí.
+Pacto entre mí y entre ti, entre mi padre y entre tu padre; he aquí envié a ti soborno de plata y oro; anda, rompe tu pacto con Baashá rey de Israel, y subirá de sobre mí.
 
 ### 15:20
 
-Y oyó Benhadad a la rey Asa, y envió a sus capitanes sobre las ciudades de Israel; y golpeó a Ijon, y Dan, y Abel-maaca, y todas las ciudades de Nefatim.
+Y oyó Ben Hadad al rey Asá, y envió a los jefes de los ejércitos que a él sobre ciudades de Israel, e hirió a Iyyón y a Dan y a Avel Bet Maajá y a todo Kinrot sobre toda tierra de Naftalí.
 
 ### 15:21
 
-Y cuando Baesa oyó esto, dejó de construir Ramah y se quedó en Tirsa.
+Y fue, en oír Baashá, y cesó de edificar a ha-Ramá, y habitó en Tirtsá.
 
 ### 15:22
 
-El rey Asa anunció a todo Judá que no había inocente, y tomaron las piedras de Ramah y los árboles que Baesa había construido, y el rey Asa construyó con ellos Geba de Benjamín y Mizpá.
+Y el rey Asá hizo oír a todo Yehudá; no hay inocente; y alzaron las piedras de ha-Ramá y sus maderos que edificó Baashá; y edificó con ellos el rey Asá a Géva de Binyamín y a ha-Mitspá.
 
 ### 15:23
 
-Y el resto de las palabras de Asa, y todas sus hazañas, y todo lo que hizo, y las ciudades que construyó, ¿no están escritas en el libro de los días de los reyes de Judá? Pero cuando envejeció, se le enfermó el pie.
+Y resto de todas las palabras de Asá y toda su fuerza y todo lo que hizo y las ciudades que edificó, ¿no ellos escritos sobre rollo de palabras de los días a reyes de Yehudá? Solo a tiempo de su vejez enfermó con sus pies.
 
 ### 15:24
 
-Y Asa se durmió con sus padres y fue sepultado con sus padres en la ciudad de David, su padre, y reinó en su lugar su hijo Josafat.
+Y se acostó Asá con sus padres, y fue enterrado con sus padres en ciudad de David su padre; y reinó Yehoshafat su hijo debajo de él.
 
 ### 15:25
 
-Y Nadab, hijo de Jeroboam, reinó sobre Israel en el segundo año de Asa, rey de Judá, y reinó sobre Israel dos años.
+Y Nadav hijo de Yerovam reinó sobre Israel en año de dos a Asá rey de Yehudá; y reinó sobre Israel dos años.
 
 ### 15:26
 
-Y hizo el mal a los ojos del SEÑOR, y anduvo en el camino de su padre, y en su pecado con el que hizo pecar a Israel.
+E hizo lo malo en ojos de Jehová, y anduvo en camino de su padre y en su pecado que hizo pecar a Israel.
 
 ### 15:27
 
-Y Asa le atacó a él, Baesa hijo de Ahia, de la casa de Issachar, y le derrotó a Baesa en Geba de los filisteos, y Nadab y todo Israel sufrieron por Geba.
+Y conspiró sobre él Baashá hijo de Ajiyá a casa de Yisasjar; e hirió a él Baashá en Gibetón que a los pelishtim; y Nadav y todo Israel sitiantes sobre Gibetón.
 
 ### 15:28
 
-Y Asa le mató a él, Baesa, en el tercer año de Asa, rey de Judá, y reinó en su lugar.
+Y lo mató Baashá en año de tres a Asá rey de Yehudá, y reinó debajo de él.
 
 ### 15:29
 
-Y cuando comenzó a reinar, atacó a toda la casa de Jeroboam, no dejó a Jeroboam alma alguna, hasta destruirlo, como había hablado el SEÑOR por medio de su siervo Ahia de Silo.
+Y fue, en su reinar, hirió a toda casa de Yerovam; no dejó toda aliento a Yerovam hasta su destruir, conforme a palabra de Jehová que habló en mano de su siervo Ajiyá el shiloní,
 
 ### 15:30
 
-Por las transgresiones de Jeroboam, que pecó, y que hizo pecar a Israel, en su ira que enfureció al SEÑOR, el Dios de Israel.
+sobre pecados de Yerovam que pecó y que hizo pecar a Israel, en su provocación que provocó a Jehová Dios de Israel.
 
 ### 15:31
 
-Y el resto de las palabras de Nadab, y todo lo que hizo, ¿no están escritas en el libro de los días de los reyes de Israel?
+Y resto de palabras de Nadav y todo lo que hizo, ¿no ellos escritos sobre rollo de palabras de los días a reyes de Israel?
 
 ### 15:32
 
-Y hubo guerra entre Asa y Baesa, rey de Israel, todo el tiempo de sus días.
+Y guerra fue entre Asá y entre Baashá rey de Israel todos sus días.
 
 ### 15:33
 
-En el tercer año de Asa, rey de Judá, Baesa hijo de Ahia se hizo rey de Israel en Tirza, y reinó veinticuatro años.
+En año de tres a Asá rey de Yehudá reinó Baashá hijo de Ajiyá sobre todo Israel en Tirtsá veinte y cuatro año.
 
 ### 15:34
 
-Hizo el mal a los ojos del SEÑOR, y siguió el camino de Jeroboam y en su pecado lo llevó a pecar a Israel.
+E hizo lo malo en ojos de Jehová, y anduvo en camino de Yerovam y en su pecado que hizo pecar a Israel.
 
 ## Capítulo 16
 
 ### 16:1
 
-Y vino la palabra del SEÑOR a Yehú hijo de Hananí contra Baesa, diciendo:
+Y fue palabra de Jehová a Yehú hijo de Jananí sobre Baashá, diciendo:
 
 ### 16:2
 
-Porque te levanté del polvo y te hice gobernante sobre mi pueblo Israel, y tú has andado en el camino de Jeroboam y has hecho pecar a mi pueblo Israel, provocándome con los pecados de ellos;
+A causa de que te alcé del polvo, y te di naguíd sobre mi pueblo Israel, y anduviste en camino de Yerovam, e hiciste pecar a mi pueblo Israel para provocarme en sus pecados,
 
 ### 16:3
 
-He aquí que yo extirparé a Baesa y a su casa, como extirpé a la casa de Jeroboam hijo de Nabat.
+he aquí yo quemando detrás de Baashá y detrás de su casa, y daré tu casa como casa de Yerovam hijo de Nevat.
 
 ### 16:4
 
-El que muera de Baesa en la ciudad, los perros lo comerán, y el que muera de él en el campo, las aves del cielo lo comerán.
+El muerto a Baashá en la ciudad comerán los perros, y el muerto a él en el campo comerán ave de los cielos.
 
 ### 16:5
 
-Y el resto de las palabras de Baesa y todo lo que hizo, y su poderío, ¿no están escritos en el libro de los días de los reyes de Israel?
+Y resto de palabras de Baashá y lo que hizo y su fuerza, ¿no ellos escritos sobre rollo de palabras de los días a reyes de Israel?
 
 ### 16:6
 
-Y Baesa se acostó con sus padres, y lo enterraron en Tirza; y reinó en su lugar su hijo Elá.
+Y se acostó Baashá con sus padres, y fue enterrado en Tirtsá; y reinó Elá su hijo debajo de él.
 
 ### 16:7
 
-Y también por mano de Yehú hijo de Hananí, el profeta, vino la palabra del SEÑOR contra Baesa y contra su casa, y sobre toda la maldad que hizo a los ojos del SEÑOR para provocarlo con las obras de sus manos, para ser como la casa de Jeroboam, y por haberlo golpeado.
+Y también en mano de Yehú hijo de Jananí el profeta palabra de Jehová fue a Baashá y a su casa, y sobre todo el mal que hizo en ojos de Jehová para provocarlo en obra de sus manos, para ser como casa de Yerovam, y sobre que hirió a él.
 
 ### 16:8
 
-En el año veintiséis de Asa, rey de Judá, Elá hijo de Baesa se hizo rey de Israel en Tirza, y reinó dos años.
+En año de veinte y seis año a Asá rey de Yehudá reinó Elá hijo de Baashá sobre Israel en Tirtsá dos años.
 
 ### 16:9
 
-Y su siervo Zimri, jefe de la mitad de la carreta, lo conspiró contra él en Tirza, y él estaba en Tirza bebiendo en la casa de Arza, que estaba sobre la casa.
+Y conspiró sobre él su siervo Zimrí, jefe de mitad del carro; y él en Tirtsá bebiendo ebrio en casa de Artsá que sobre la casa en Tirtsá.
 
 ### 16:10
 
-Y entró Zimri y lo golpeó y lo mató en el año veintisiete de Asa, rey de Judá, y se hizo rey en su lugar.
+Y vino Zimrí e hirió a él y lo mató en año de veinte y siete a Asá rey de Yehudá, y reinó debajo de él.
 
 ### 16:11
 
-Y cuando comenzó a reinar y a sentarse en su trono, Zimri lo golpeó y mató a todo el linaje de Baasa, no dejó sobrevivientes en Kir, y a sus parientes y amigos.
+Y fue, en su reinar, en su sentarse sobre su trono, hirió a toda casa de Baashá; no dejó a él orinante en pared, y sus redentores y su amigo.
 
 ### 16:12
 
-Zimri destruyó a todo el linaje de Baasa, conforme a la palabra del Señor que había hablado por medio del profeta Yehu a Baasa.
+Y destruyó Zimrí a toda casa de Baashá conforme a palabra de Jehová que habló a Baashá en mano de Yehú el profeta,
 
 ### 16:13
 
-Por todas las transgresiones de Baasa y de Elá, su hijo, que pecaron y llevaron a Israel a pecar, para provocar la ira del Señor Dios de Israel con sus vanidades.
+a todos los pecados de Baashá y pecados de Elá su hijo que pecaron y que hicieron pecar a Israel para provocar a Jehová Dios de Israel en sus vanidades.
 
 ### 16:14
 
-Y los demás hechos de Elá y todo lo que hizo, ¿no están escritos en el libro de los días de los reyes de Israel?
+Y resto de palabras de Elá y todo lo que hizo, ¿no ellos escritos sobre rollo de palabras de los días a reyes de Israel?
 
 ### 16:15
 
-En el año veintisiete del reinado de Asa, rey de Judá, Zimri rey por siete días en Tirza, y el pueblo estaba acampado en Gibetón, que pertenecía a los filisteos.
+En año de veinte y siete año a Asá rey de Yehudá reinó Zimrí siete días en Tirtsá; y el pueblo acampantes sobre Gibetón que a los pelishtim.
 
 ### 16:16
 
-Y el pueblo que estaba acampado oyó decir: Zimri ha conspirado y ha matado al rey. Entonces todo Israel coronó a Omri, jefe del ejército, rey sobre Israel ese mismo día en el campamento.
+Y oyó el pueblo los acampantes, diciendo: Conspiró Zimrí, y también hirió al rey; e hicieron reinar todo Israel a Omrí jefe de ejército sobre Israel en el día aquel en el campamento.
 
 ### 16:17
 
-Y subió Omri con todo Israel con él desde Gibetón, y sitiaron a Tirza.
+Y subió Omrí y todo Israel con él de Gibetón, y sitiaron sobre Tirtsá.
 
 ### 16:18
 
-Y cuando Zimri vio que la ciudad era tomada, entró en el palacio del rey y quemó el palacio con fuego y murió.
+Y fue, en ver Zimrí que fue tomada la ciudad, y vino a ciudadela de casa del rey, y quemó sobre él casa del rey en el fuego, y murió,
 
 ### 16:19
 
-Por su pecado de hacer el mal a los ojos del Señor, para seguir el camino de Jeroboam y pecar con el pecado de Jeroboam, para llevar a Israel a pecar.
+sobre que pecó para hacer lo malo en ojos de Jehová, para andar en camino de Yerovam y en su pecado que hizo para hacer pecar a Israel.
 
 ### 16:20
 
-Y los demás hechos de Zimri y su conspiración que conspiró, ¿no están escritos en el libro de los días de los reyes de Israel?
+Y resto de palabras de Zimrí y su conspiración que conspiró, ¿no ellos escritos sobre rollo de palabras de los días a reyes de Israel?
 
 ### 16:21
 
-Entonces el pueblo de Israel se dividió en dos partes: la mitad del pueblo siguió a Tibni hijo de Ginat para hacerlo rey, y la mitad del pueblo siguió a Omri.
+Entonces se dividió el pueblo Israel a la mitad; mitad del pueblo fue detrás de Tibní hijo de Guinat para hacerlo rey, y la mitad detrás de Omrí.
 
 ### 16:22
 
-Y el pueblo que siguió a Omri se unió al pueblo que siguió a Tibni hijo de Ginat, y Tibni murió, y Omri se hizo rey.
+Y se fortaleció el pueblo que detrás de Omrí con el pueblo que detrás de Tibní hijo de Guinat; y murió Tibní, y reinó Omrí.
 
 ### 16:23
 
-En el trigésimo primer año del reinado de Asa, rey de Judá, Omri se hizo rey sobre Israel por doce años; en Tersa reinó seis años.
+En año de treinta y un año a Asá rey de Yehudá reinó Omrí sobre Israel doce año; en Tirtsá reinó seis años.
 
 ### 16:24
 
-Compró el monte Sormón a Semer por plata y construyó el monte. Y llamó al nombre de la ciudad que construyó, Sormón, en nombre de Semer, dueño del monte.
+Y compró el monte Shomrón de con Shémer en dos talentos de plata, y edificó el monte, y llamó el nombre de la ciudad que edificó sobre nombre de Shémer señores del monte: Shomrón.
 
 ### 16:25
 
-Omri hizo lo malo a los ojos del SEÑOR y se hizo más malo que todos sus antecesores.
+E hizo Omrí lo malo en ojos de Jehová, e hizo mal de todo lo que delante de él.
 
 ### 16:26
 
-Y siguió el camino de Jeroboam hijo de Nabo, que hizo pecar a Israel, para provocar la ira del SEÑOR, Dios de Israel, con sus pecados.
+Y anduvo en todo camino de Yerovam hijo de Nevat que hizo pecar a Israel, para provocar a Jehová Dios de Israel en sus vanidades.
 
 ### 16:27
 
-Y los demás hechos de Omri, y su poderío que hizo, ¿no están escritos en el libro de los días de los reyes de Israel?
+Y resto de palabras de Omrí que hizo y su fuerza que hizo, ¿no ellos escritos sobre rollo de palabras de los días a reyes de Israel?
 
 ### 16:28
 
-Y murió Omri con sus padres y lo enterraron en Sormón. Y reinó Acab, su hijo, en su lugar.
+Y se acostó Omrí con sus padres, y fue enterrado en Shomrón; y reinó Ajab su hijo debajo de él.
 
 ### 16:29
 
-Y Acab, hijo de Omri, se hizo rey sobre Israel en el trigésimo octavo año del reinado de Asa, rey de Judá. Y reinó Acab, hijo de Omri, sobre Israel en Sormón veinte y dos años.
+Y Ajab hijo de Omrí reinó sobre Israel en año de treinta y ocho año a Asá rey de Yehudá; y reinó Ajab hijo de Omrí sobre Israel en Shomrón veinte y dos año.
 
 ### 16:30
 
-Y Acab, hijo de Omri, hizo lo malo a los ojos del SEÑOR, más que todos sus antecesores.
+E hizo Ajab hijo de Omrí lo malo en ojos de Jehová de todo lo que delante de él.
 
 ### 16:31
 
-Y fue ligero para seguir los pecados de Jeroboam hijo de Nabo. Y tomó por mujer a Izebel, hija de Etbaal, rey de Sidón, y fue y sirvió al Baal y se postró ante él.
+Y fue, ¿fue ligero su andar en pecados de Yerovam hijo de Nevat? Y tomó mujer a Izevel hija de Etbaal rey de tsidoním, y anduvo y sirvió al baal, y se postró a él.
 
 ### 16:32
 
-Y levantó un altar para el Baal en la casa del Baal que construyó en Sormón.
+Y levantó altar al baal en casa del baal que edificó en Shomrón.
 
 ### 16:33
 
-Y Acab hizo un aserá. Y Acab hizo más para provocar la ira del SEÑOR, Dios de Israel, que todos los reyes de Israel que lo precedieron.
+E hizo Ajab la asherá; y añadió Ajab para hacer para provocar a Jehová Dios de Israel de todos los reyes de Israel que fueron delante de él.
 
 ### 16:34
 
-En mis días Hiel, hijo de Abiel, construyó Jericó. En Abirám, su primogénito, la fundó, y en Segub, el menor, pusieron las puertas, según la palabra del SEÑOR que habló por mano de Josué, hijo de Nun.
+En sus días edificó Jiel bet ha-elí a Yerijó; en Aviram su primogénito la fundó; su menor alzó sus puertas, conforme a palabra de Jehová que habló en mano de Yehoshúa hijo de Nun.
 
 ## Capítulo 17
 
 ### 17:1
 
-Elías el Tisbita, de los habitantes de Gilboá, dijo a Acab: Vive el SEÑOR, el Dios de Israel, que estoy en su presencia, si no hay lluvia en los años venideros, conforme a mi palabra.
+Y dijo Eliyahu el tishbí de habitantes de Gilad a Ajab: Vive Jehová Dios de Israel que me paré delante de él, si será los años estos rocío y lluvia, porque si a boca de mi palabra.
 
 ### 17:2
 
-Y vino la palabra del SEÑOR a mí, diciendo:
+Y fue palabra de Jehová a él, diciendo:
 
 ### 17:3
 
-Vete de aquí y te escondes en el sur, y te esconderás en el arroyo de Querite, que está al oriente del Jordán.
+Anda de esto, y te volverás a ti oriente, y te esconderás en torrente Kerit que sobre faces del Yardén.
 
 ### 17:4
 
-Y de allí beberás del arroyo, y te ordenaré a los cuervos que te alimenten allí.
+Y será, del torrente beberás; y a los cuervos mandé para sustentarte allí.
 
 ### 17:5
 
-Y fue y hizo conforme a la palabra del SEÑOR, y fue y habitó en el arroyo de Querite, que está al oriente del Jordán.
+Y fue e hizo conforme a palabra de Jehová; y fue y habitó en torrente Kerit que sobre faces del Yardén.
 
 ### 17:6
 
-Y los cuervos traían a él pan y carne por la mañana, y pan y carne por la tarde, y de allí bebía.
+Y los cuervos trayendo a él pan y carne en la mañana, y pan y carne en la tarde; y del torrente beberá.
 
 ### 17:7
 
-Y pasados algunos días, se secó el arroyo, porque no había llovido en la tierra.
+Y fue, de cabo de días, y se secó el torrente, porque no fue lluvia en la tierra.
 
 ### 17:8
 
-Y vino la palabra del SEÑOR a mí, diciendo:
+Y fue palabra de Jehová a él, diciendo:
 
 ### 17:9
 
-Levántate, vete a Sarfat, que está en Sidón, y habitarás allí. He aquí que he ordenado allí a una viuda para que te alimente.
+Levántate, anda a Tsarefát que a Tsidón, y habitarás allí; he aquí mandé allí mujer viuda para sustentarte.
 
 ### 17:10
 
-Y se levantó y fue a Sarfat, y llegó a la entrada de la ciudad, y he aquí que allí estaba una viuda recogiendo leña. Y le llamó y le dijo: Tómate un poco de agua en un vaso y beberé.
+Y se levantó y fue a Tsarefát, y vino a puerta de la ciudad, y he aquí allí mujer viuda recogiendo maderos; y llamó a ella y dijo: Toma, por favor, a mí poco de aguas en el utensilio, y beberé.
 
 ### 17:11
 
-Y fue a tomarlo, y le llamó y le dijo: Tómate un poco de pan en la mano.
+Y fue para tomar; y llamó a ella y dijo: Toma, por favor, a mí pedazo de pan en tu mano.
 
 ### 17:12
 
-Y ella dijo: Vive el SEÑOR, el Dios de tu vida, que no tengo pan, sino un puñado de harina en un cántaro, y un poco de aceite en un frasco, y ahora voy a recoger dos leños, y vendré y haré para mí y para mi hijo, y comeremos y moriremos.
+Y dijo: Vive Jehová tu Dios, si hay a mí torta, porque si lleno de palma harina en la tinaja y poco de aceite en la vasija; y he aquí yo recogiendo dos maderos, y vendré y lo haré a mí y a mi hijo, y lo comeremos, y moriremos.
 
 ### 17:13
 
-Y él le dijo: No temas, ve y haz como has dicho, pero hazme primero un panecillo pequeño y tráemelo, y después harás para ti y para tu hijo.
+Y dijo a ella Eliyahu: No temas; entra, haz conforme a tu palabra; solo haz a mí de allí torta pequeña en lo primero, y saca a mí, y a ti y a tu hijo harás en lo posterior.
 
 ### 17:14
 
-Porque así ha dicho Jehová, el Dios de Israel: El tarro de harina no se agotará, y el frasco de aceite no se acabará, hasta el día que Jehová haga llover sobre la tierra.
+Porque así dijo Jehová Dios de Israel: Tinaja de la harina no se acabará, y vasija del aceite no faltará, hasta día de Jehová lluvia sobre faces del suelo.
 
 ### 17:15
 
-Y ella fue y lo hizo conforme a la palabra de Elías, y ella y su casa comieron días.
+Y fue e hizo conforme a palabra de Eliyahu; y comió ella y su casa días.
 
 ### 17:16
 
-El tarro de harina no se agotó, y el frasco de aceite no se acabó, conforme a la palabra de Jehová que había hablado por medio de Elías.
+Tinaja de la harina no se acabó, y vasija del aceite no faltó, conforme a palabra de Jehová que habló en mano de Eliyahu.
 
 ### 17:17
 
-Y después de estas cosas, el hijo de la mujer, la dueña de la casa, enfermó y su enfermedad fue tan grave que no quedó en él aliento.
+Y fue, después de las palabras estas, enfermó hijo de la mujer, señora de la casa; y fue su enfermedad fuerte mucho, hasta que no quedó en él aliento.
 
 ### 17:18
 
-Y ella dijo a Elías: ¿Qué tengo yo y qué tienes tú, oh hombre de Dios? Has venido a mí para recordar mi pecado y para matar a mi hijo.
+Y dijo a Eliyahu: ¿Qué a mí y a ti, varón de Dios? Viniste a mí para recordar mi iniquidad y para matar a mi hijo.
 
 ### 17:19
 
-Y él le dijo: Dámelo. Y tomándolo de sus brazos, subiólo a la habitación donde él moraba y lo acostó en su lecho.
+Y dijo a ella: Dame a mí a tu hijo. Y lo tomó de su seno, y lo hizo subir a la cámara alta que él habitante allí, y lo acostó sobre su cama.
 
 ### 17:20
 
-Y clamó a Jehová y dijo: Jehová, oh Dios mío, ¿has de causar males también a la viuda con quien yo me alojo, para que muera su hijo?
+Y clamó a Jehová y dijo: Jehová mi Dios, ¿también sobre la viuda que yo peregrinando con ella hiciste mal para matar a su hijo?
 
 ### 17:21
 
-Y se postró sobre el niño tres veces, y clamó a Jehová y dijo: Jehová, oh Dios mío, envía, te ruego, el alma de este niño sobre él.
+Y se midió sobre el niño tres veces, y clamó a Jehová y dijo: Jehová mi Dios, vuelva, por favor, alma del niño este sobre su interior.
 
 ### 17:22
 
-Y Jehová escuchó la voz de Elías, y el espírituve del niño volvió sobre él y vivió.
+Y oyó Jehová en voz de Eliyahu, y volvió alma del niño sobre su interior, y vivió.
 
 ### 17:23
 
-Y tomó Elías al niño y bajólo de la habitación a la casa y lo entregó a su madre, y dijo: Mira, tu hijo vive.
+Y tomó Eliyahu al niño, y lo hizo bajar de la cámara alta a la casa, y lo dio a su madre; y dijo Eliyahu: Ve, vivo tu hijo.
 
 ### 17:24
 
-Y la mujer dijo a Elías: Ahora sé que eres un hombre de Dios y que la palabra de Jehová en tu boca es verdad.
+Y dijo la mujer a Eliyahu: Ahora esto supe que varón de Dios tú, y palabra de Jehová en tu boca verdad.
 
 ## Capítulo 18
 
 ### 18:1
 
-Pasaron muchos días, y la palabra de Jehová vino a Elías en el tercer año, diciendo: Ve a aparecer a Acab, porque ya he dado orden de que la lluvia caiga sobre la tierra.
+Y fue días muchos, y palabra de Jehová fue a Eliyahu en el año el tercero, diciendo: Anda, muéstrate a Ajab, y daré lluvia sobre faces del suelo.
 
 ### 18:2
 
-Entonces Elías se fue a aparecer a Acab, y la hambruna era muy grave en Samaria.
+Y fue Eliyahu para mostrarse a Ajab; y el hambre fuerte en Shomrón.
 
 ### 18:3
 
-Acab llamó a Obedías, que estaba al cargo de la casa, y Obedías temía a Jehová con todo su corazón.
+Y llamó Ajab a Ovadiyahu que sobre la casa; y Ovadiyahu era temeroso a Jehová mucho.
 
 ### 18:4
 
-Cuando Izabel mató a los profetas de Jehová, Obedías tomó cien profetas y los escondió en cincuenta grupos en una cueva, y les dio pan y agua.
+Y fue, en cortar Izevel a profetas de Jehová, y tomó Ovadiyahu cien profetas, y los escondió cincuenta varón en la cueva, y los sustentó pan y aguas.
 
 ### 18:5
 
-Acab dijo a Obedías: Ve por toda la tierra a los manantiales y a los arroyos, tal vez encuentres hierba y mantengas vivo a los animales.
+Y dijo Ajab a Ovadiyahu: Anda en la tierra a todos los manantiales de las aguas y a todos los torrentes; quizá hallaremos hierba, y haremos vivir caballo y mulo, y no cortaremos de la bestia.
 
 ### 18:6
 
-Dividieron la tierra para recorrerla. Acab fue por un camino solo, y Obedías fue por otro camino solo.
+Y se repartieron a ellos la tierra para pasar en ella; Ajab anduvo en camino uno solo, y Ovadiyahu anduvo en camino uno solo.
 
 ### 18:7
 
-Obedías estaba en el camino, y de repente vio a Elías que venía a su encuentro. Reconoció a Elías y cayó de rodillas ante él, diciendo: ¿Eres tú tú, mi señor Elías?
+Y fue Ovadiyahu en el camino, y he aquí Eliyahu a su encuentro; y lo reconoció, y cayó sobre sus faces, y dijo: ¿Tú esto, mi señor Eliyahu?
 
 ### 18:8
 
-Le dijo: Yo soy. Ve y di a tu señor: He aquí que Elías.
+Y dijo a él: Yo; anda, di a tu señor: He aquí Eliyahu.
 
 ### 18:9
 
-Él respondió: ¿Qué he hecho para que me entregues a Acab para que me mate?
+Y dijo: ¿Qué pequé, que tú dando a tu siervo en mano de Ajab para matarme?
 
 ### 18:10
 
-Vive Jehová, el Dios de tu padre, que no hay nación ni reino a donde mi señor no haya enviado a buscarte, y han respondido: No está allí. Y han jurado a la nación y al reino que no lo encontrarán.
+Vive Jehová tu Dios, si hay nación y reino que no envió mi señor allí para buscarte, y dijeron: No hay; e hizo jurar al reino y a la nación que no te hallará.
 
 ### 18:11
 
-Ahora dices: Ve y di a tu señor: He aquí que Elías.
+Y ahora tú diciendo: Anda, di a tu señor: He aquí Eliyahu.
 
 ### 18:12
 
-Yo me iré de tu lado, y el Espíritu de Jehová me llevará a donde no sé, y vendré a decirle a Acab, y no me hallará, y me matará. Y yo he temido a Jehová desde mi juventud.
+Y será, yo iré de contigo, y espíritu de Jehová te alzará sobre que no sé; y vendré para anunciar a Ajab, y no te hallará, y me matará; y tu siervo temeroso a Jehová desde mis juventudes.
 
 ### 18:13
 
-¿No se te ha dicho lo que hice al matar a los profetas de Jehová? Y yo he escondido a cien hombres de los profetas de Jehová, cincuenta a la vez, en una cueva, y les he dado de comer pan y agua.
+¿No fue anunciado a mi señor lo que hice en matar Izevel a profetas de Jehová, y escondí de profetas de Jehová cien varón, cincuenta cincuenta varón en la cueva, y los sustenté pan y aguas?
 
 ### 18:14
 
-Y ahora dices: Ve y di a tu señor: He aquí Elías, y mátame.
+Y ahora tú diciendo: Anda, di a tu señor: He aquí Eliyahu; y me matará.
 
 ### 18:15
 
-Y dijo Elías: Vive Jehová de los ejércitos, por quien me he puesto a esperar, que hoy veré al Señor.
+Y dijo Eliyahu: Vive Jehová de ejércitos que me paré delante de él, que hoy me mostraré a él.
 
 ### 18:16
 
-Y Obadias fue a buscar a Acab y le dio el aviso, y Acab fue a encontrarse con Elías.
+Y fue Ovadiyahu a encuentro de Ajab, y anunció a él; y fue Ajab a encuentro de Eliyahu.
 
 ### 18:17
 
-Y cuando Acab vio a Elías, le dijo: ¿Eres tú quien perturba a Israel?
+Y fue, en ver Ajab a Eliyahu, y dijo Ajab a él: ¿Tú esto, turbador de Israel?
 
 ### 18:18
 
-Y dijo: No he perturbado a Israel, sino tú y la casa de tu padre, porque vosotros habéis abandonado los mandamientos de Jehová y habéis seguido a los baales.
+Y dijo: No turbé a Israel, porque si tú y casa de tu padre, en abandonar ustedes los mandamientos de Jehová, y anduviste detrás de los baales.
 
 ### 18:19
 
-Y ahora envía a reunir a todo Israel en el monte Carmelo, y a los profetas del baal cuatrocientos cincuenta, y a los profetas de la asereh cuatrocientos, que comen del pan de Izabel.
+Y ahora envía, reúne a mí a todo Israel a monte del Karmel, y a profetas del baal cuatrocientos y cincuenta, y profetas de la asherá cuatrocientos, comientes mesa de Izevel.
 
 ### 18:20
 
-Y envió Acab a todo Israel, y reunió a los profetas en el monte Carmelo.
+Y envió Ajab en todos los hijos de Israel, y reunió a los profetas a monte del Karmel.
 
 ### 18:21
 
-Y se acercó Elías a todo el pueblo y dijo: ¿Hasta cuándo vais a titubear entre dos opiniones? Si Jehová es Dios, seguidle; y si el baal, seguidle. Pero el pueblo no le respondió palabra alguna.
+Y se acercó Eliyahu a todo el pueblo, y dijo: ¿Hasta cuándo ustedes cojeando sobre dos las ramas? Si Jehová el Dios, anden detrás de él; y si el baal, anden detrás de él. Y no respondió el pueblo a él palabra.
 
 ### 18:22
 
-Y dijo Elías al pueblo: Yo soy el único profeta de Jehová que queda, y los profetas del baal son cuatrocientos cincuenta hombres.
+Y dijo Eliyahu al pueblo: Yo quedé profeta a Jehová solo; y profetas del baal cuatrocientos y cincuenta varón.
 
 ### 18:23
 
-Y dadnos dos novillos; y ellos elijan uno y lo despedazarán, y lo pondrán sobre los leños; pero el fuego no lo pondrán. Y yo prepararé el otro novillo y lo pondré sobre los leños, pero el fuego no lo pondré.
+Y den a nosotros dos toros, y escojan para ellos el toro el uno, y lo descuartizarán, y pondrán sobre los maderos, y fuego no pondrán; y yo haré al toro el uno, y daré sobre los maderos, y fuego no pondré.
 
 ### 18:24
 
-Y vosotros llamad en el nombre de vuestro dios, y yo llamaré en el nombre de Jehová, y el dios que responda con fuego, él es el dios. Y todo el pueblo respondió: Bueno es lo que dices.
+Y llamarán ustedes en nombre de sus dioses de ustedes, y yo llamaré en nombre de Jehová; y será el Dios que responda en el fuego, él el Dios. Y respondió todo el pueblo y dijeron: Bueno el asunto.
 
 ### 18:25
 
-Y dijo Elías a los profetas del Baal: Tomad un buey y dadlo a vosotros primero, pues sois muchos, y preparadlo primero, y llamad en el nombre de vuestro dios, pero el fuego no lo pondréis.
+Y dijo Eliyahu a profetas del baal: Escojan para ustedes el toro el uno, y hagan primero, porque ustedes los muchos; y llamen en nombre de sus dioses de ustedes, y fuego no pondrán.
 
 ### 18:26
 
-Tomaron, pues, el buey que les había sido dado, y lo prepararon, y llamaron en el nombre del Baal desde la mañana hasta la tarde, diciendo: ¡Oh Baal, responde a nosotros! Pero no había voz, ni respuesta, ni quien se moviera.
+Y tomaron al toro que dio a ellos, e hicieron, y llamaron en nombre del baal desde la mañana y hasta el mediodía, diciendo: ¡Baal, respóndenos! Y no hay voz y no hay respondiente; y cojearon sobre el altar que hizo.
 
 ### 18:27
 
-Y cuando llegó la hora del atardecer, Elías se burló de ellos y dijo: Gritad en voz alta, pues es dios, ciertamente que él está pensando, o está dormido, o está en viaje, o está de visita, o quizás está durmiendo y no ha despertado.
+Y fue en el mediodía, y se burló de ellos Eliyahu, y dijo: Llamen en voz grande, porque Dios él, porque meditación y porque negocio a él y porque camino a él; quizá dormido él, y despertará.
 
 ### 18:28
 
-Y gritaron en voz alta y se cortaron con cuchillos y lanzas, conforme a su costumbre, hasta que se derramó su sangre alrededor del altar.
+Y llamaron en voz grande, y se sajaron conforme a su juicio con las espadas y con las lanzas hasta derramar sangre sobre ellos.
 
 ### 18:29
 
-Y cuando pasó el atardecer, profetizaron hasta la hora de la ofrenda vespertina, pero no había voz, ni respuesta, ni quien escuchara.
+Y fue, en pasar el mediodía, y se profetizaron hasta alzar la ofrenda; y no hay voz y no hay respondiente y no hay atención.
 
 ### 18:30
 
-Y dijo Elías a todo el pueblo: Acérquense a mí. Y se acercaron a él todo el pueblo. Y reconstruyó el altar de Jehová que estaba en ruinas.
+Y dijo Eliyahu a todo el pueblo: Acérquense a mí. Y se acercó todo el pueblo a él; y reparó altar de Jehová el destruido.
 
 ### 18:31
 
-Y tomó Elías doce piedras, conforme al número de los hijos de Jacob, a quienes Jehová había dicho: Israel será tu nombre.
+Y tomó Eliyahu doce piedras conforme a número de tribus de hijos de Yaakov, que fue palabra de Jehová a él, diciendo: Israel será tu nombre.
 
 ### 18:32
 
-Y construyó el altar con las piedras en el nombre de Jehová, y levantó una ofrenda de tierra, como un cordero, alrededor del altar.
+Y edificó las piedras altar en nombre de Jehová; e hizo zanja como casa de dos seás de semilla alrededor al altar.
 
 ### 18:33
 
-Y dispuso los leños, y despedazó el buey, y lo puso sobre los leños.
+Y ordenó los maderos, y descuartizó al toro, y puso sobre los maderos.
 
 ### 18:34
 
-Y dijo: Llenen cuatro tinajas de agua y viertanla sobre el holocausto y sobre los leños. Y la derramaron cuatro veces.
+Y dijo: Llenen cuatro tinajas de aguas, y derramen sobre el holocausto y sobre los maderos. Y dijo: Hagan segunda. Y hicieron segunda. Y dijo: Hagan tercera. Y hicieron tercera.
 
 ### 18:35
 
-Y corrió el agua alrededor del altar, y llenó también la ofrenda de tierra con agua.
+Y anduvieron las aguas alrededor al altar; y también a la zanja llenó aguas.
 
 ### 18:36
 
-Y cuando llegó la hora de la ofrenda vespertina, Elías el profeta se acercó y dijo: Jehová, dios de Abraham, Isaac y Jacob, hoy se hará manifiesto que tú eres dios en Israel, y que yo soy tu siervo, y que he hecho todo esto conforme a tu palabra.
+Y fue, en alzar la ofrenda, y se acercó Eliyahu el profeta, y dijo: Jehová Dios de Abraham, Yitsjaq e Israel, hoy sea sabido que tú Dios en Israel, y yo tu siervo; hice todos los asuntos estos.
 
 ### 18:37
 
-Contesta, Jehová, contesta, y que este pueblo sepa que tú eres Jehová, el Dios, y que tú has vuelto sus corazones atrás.
+Respóndeme, Jehová, respóndeme, y sabrá el pueblo este que tú Jehová el Dios, y tú hiciste volver su corazón atrás.
 
 ### 18:38
 
-Y cayó fuego del Señor y devoró la ofrenda, las maderas, las piedras, la tierra y el agua que estaba en el surco.
+Y cayó fuego de Jehová, y comió al holocausto y a los maderos y a las piedras y al polvo, y a las aguas que en la zanja lamió.
 
 ### 18:39
 
-Y vio todo el pueblo y cayeron sobre sus rostros; y dijeron: Jehová, él es Dios; Jehová, él es Dios.
+Y vio todo el pueblo, y cayeron sobre sus faces, y dijeron: Jehová, él el Dios; Jehová, él el Dios.
 
 ### 18:40
 
-Y dijo Elías a ellos: Aprehended a los profetas del Baal, a cada uno de ellos; y los aprehendieron. Y Elías los llevó a la ribera del río Quisón y los degolló allí.
+Y dijo Eliyahu a ellos: Agarren a profetas del baal; varón no escape de ellos. Y los agarraron; y los hizo bajar Eliyahu a torrente Qishón, y los degolló allí.
 
 ### 18:41
 
-Y dijo Elías a Acab: Sube a comer y a beber, porque ya se oye el estruendo de la lluvia.
+Y dijo Eliyahu a Ajab: Sube, come y bebe, porque voz de tumulto de la lluvia.
 
 ### 18:42
 
-Y subió Acab para comer y beber, y Elías subió al cumbre del Carmelo y se postró en tierra y puso su rostro entre sus rodillas.
+Y subió Ajab para comer y para beber; y Eliyahu subió a cabeza del Karmel, y se encorvó a tierra, y puso sus faces entre.
 
 ### 18:43
 
-Y dijo a su joven: Sube, mira por el mar. Y subió y miró, y dijo: No hay nada. Y dijo: Sube siete veces.
+Y dijo a su muchacho: Sube, por favor, mira camino de mar. Y subió y miró, y dijo: No hay nada. Y dijo: Vuelve siete veces.
 
 ### 18:44
 
-Y en la séptima vez dijo: He aquí una nube pequeña como la mano de un hombre subiendo del mar. Y dijo: Sube, di a Acab: Abrid y bajad, no impida la lluvia.
+Y fue en la séptima, y dijo: He aquí nube pequeña como palma de varón subiendo de mar. Y dijo: Sube, di a Ajab: Ata y baja, y no te detendrá la lluvia.
 
 ### 18:45
 
-Y cuando el cielo se oscureció con nubes y viento, y cayó una lluvia muy grande, Acab subió y fue a Jezreel.
+Y fue hasta así y hasta así, y los cielos se oscurecieron nubes y viento, y fue lluvia grande; y montó Ajab y fue a Yizreel.
 
 ### 18:46
 
-Y la mano del Señor estaba sobre Elías, y se ceñió sus lomos y corrió delante de Acab hasta llegar a Jezreel.
+Y mano de Jehová fue a Eliyahu, y ciñó sus lomos, y corrió delante de Ajab hasta tu venir a Yizreel.
 
 ## Capítulo 19
 
 ### 19:1
 
-Y Acab contó a Izebel todo lo que había hecho Elías y todo lo que había matado a los profetas con la espada.
+Y anunció Ajab a Izevel todo lo que hizo Eliyahu, y todo lo que mató a todos los profetas a espada.
 
 ### 19:2
 
-Y Izebel envió un mensajero a Elías para decirle: Así harán los dioses y así añadirán, porque mañana a esta hora tu vida estará como la de uno de ellos.
+Y envió Izevel mensajero a Eliyahu, diciendo: Así harán dioses y así añadirán, porque como el tiempo de mañana pondré tu alma como alma de uno de ellos.
 
 ### 19:3
 
-Y vio y se levantó y se fue a su lugar y llegó a Beer-Sheba, que está en Judá, y dejó a su criado allí.
+Y vio, y se levantó, y anduvo a su alma, y vino a Beer Sheva que es a Yehudá, y dejó a su joven allí.
 
 ### 19:4
 
-Y él caminó por el desierto un día entero y llegó y se sentó debajo de un arbusto solitario y pidió a su vida que muriera, y dijo: ¡Oh, Señor mío, ¡tómame la vida, porque no soy mejor que mis padres!
+Y él anduvo en el desierto camino de un día, y vino y se sentó bajo una retama, y pidió su alma para morir, y dijo: Bastante ahora, Jehová; toma mi alma, porque no soy bueno yo más que mis padres.
 
 ### 19:5
 
-Y se echó y durmió bajo un arbusto solitario, y he aquí que un ángel lo tocó y le dijo: Levántate y come.
+Y se acostó y durmió bajo una retama, y he aquí este ángel tocando en él, y le dijo a él: Levántate, come.
 
 ### 19:6
 
-Y miró, y he aquí que había un pan cocido sobre su cabeza y un jarro de agua, y comió y bebió y se sentó y se echó y durmió.
+Y miró, y he aquí a sus cabezales torta de brasas y jarro de aguas, y comió y bebió y volvió y se acostó.
 
 ### 19:7
 
-Y el ángel de Jehová vino de nuevo y lo tocó y le dijo: Levántate y come, porque grande es el camino delante de ti.
+Y volvió el ángel de Jehová segunda vez, y tocó en él, y dijo: Levántate, come, porque grande es desde ti el camino.
 
 ### 19:8
 
-Y se levantó y comió y bebió y se fue en el poder de la comida que había comido, cuarenta días y cuarenta noches hasta el monte de Dios, Horeb.
+Y se levantó y comió y bebió, y anduvo en fuerza de aquella comida cuarenta días y cuarenta noches hasta el monte de Dios, Jorev.
 
 ### 19:9
 
-Y llegó allí al monte y se quedó allí, y he aquí que la palabra de Jehová vino a él y le dijo: ¿Qué haces aquí, Elías?
+Y vino allí a la cueva y pasó la noche allí, y he aquí palabra de Jehová a él, y le dijo a él: ¿Qué a ti aquí, Eliyahu?
 
 ### 19:10
 
-Y dijo: Me he enojado por Jehová, Dios de los ejércitos, porque los hijos de Israel han abandonado tu pacto, han derribado tus altos, y han matado a tus profetas a espada, y yo solo me he quedado, y buscan mi vida para quitármela.
+Y dijo: Celando celeé por Jehová Dios de ejércitos, porque abandonaron tu pacto los hijos de Israel, tus altares derribaron, y a tus profetas mataron a espada, y quedé yo solo, y buscaron mi alma para tomarla.
 
 ### 19:11
 
-Y le dijo: Sal y estaciónte en el monte delante de Jehová, y he aquí que Jehová pasó, y un viento fuerte y poderoso que despedazaba montañas y quebraba rocas delante de Jehová, no en el viento, Jehová; y después del viento un terremoto, no en el terremoto, Jehová;
+Y dijo: Sal y te pararás en el monte delante de Jehová; y he aquí Jehová pasando, y viento grande y fuerte desgarrando montes y quebrando peñas delante de Jehová; no en el viento Jehová; y después del viento temblor; no en el temblor Jehová;
 
 ### 19:12
 
-y después del terremoto un fuego, no en el fuego, Jehová; y después del fuego un murmullo suave.
+y después del temblor fuego; no en el fuego Jehová; y después del fuego voz de silencio delgada.
 
 ### 19:13
 
-Y cuando oyó Elías, se cubrió su rostro con su manto y salió y se puso en la entrada de la cueva, y he aquí que vino a él una voz y le dijo: ¿Qué haces aquí, Elías?
+Y fue al oír Eliyahu, y envolvió sus faces en su manto, y salió y se paró a la abertura de la cueva, y he aquí a él voz, y dijo: ¿Qué a ti aquí, Eliyahu?
 
 ### 19:14
 
-Y dijo: Me he enojado por Jehová, Dios de los ejércitos, porque los hijos de Israel han abandonado tu pacto, han derribado tus altos, y han matado a tus profetas a espada, y yo solo me he quedado, y buscan mi vida para quitármela.
+Y dijo: Celando celeé por Jehová Dios de ejércitos, porque abandonaron tu pacto los hijos de Israel, tus altares derribaron, y a tus profetas mataron a espada, y quedé yo solo, y buscaron mi alma para tomarla.
 
 ### 19:15
 
-Y Jehová dijo: Ve, vuelve por el camino del desierto de Damasco, y cuando hayas llegado, ungirás a Hazael como rey sobre Siria.
+Y dijo Jehová a él: Anda, vuelve a tu camino hacia el desierto de Dameseq, y vendrás y ungirás a Jazael por rey sobre Aram.
 
 ### 19:16
 
-Y ungirás a Yehú hijo de Nimshi como rey sobre Israel, y ungirás a Eliseo hijo de Safat de Abel-Mehola como profeta en tu lugar.
+Y a Yehú hijo de Nimshí ungirás por rey sobre Israel, y a Elisha hijo de Shafat de Avel Mejolá ungirás por profeta debajo de ti.
 
 ### 19:17
 
-Y el que escape de la espada de Hazael será asesinado por Yehú, y el que escape de la espada de Yehú será asesinado por Eliseo.
+Y será: al escapado de espada de Jazael matará Yehú, y al escapado de espada de Yehú matará Elisha.
 
 ### 19:18
 
-Pero dejaré en Israel siete mil hombres que no han doblado la rodilla ante Baal y que no han besado a Baal.
+Y dejaré en Israel siete miles, todas las rodillas que no se arrodillaron al Baal, y toda boca que no lo besó.
 
 ### 19:19
 
-Y partió de allí y encontró a Eliseo hijo de Safat, quien estaba arando con doce parejas de bueyes delante de él, y él estaba con los doce. Y pasó Elías por él y arrojó su manto sobre él.
+Y anduvo de allí y halló a Elisha hijo de Shafat, y él arando: doce yuntas delante de él, y él en la duodécima; y pasó Eliyahu a él y echó su manto a él.
 
 ### 19:20
 
-Y dejó a los bueyes y corrió tras Elías, y dijo: Permíteme que besé a mi padre y a mi madre, y luego iré tras ti. Y él le dijo: Vete, ¿qué he hecho por ti?
+Y dejó el ganado y corrió detrás de Eliyahu, y dijo: Besaré, por favor, a mi padre y a mi madre, e iré detrás de ti. Y le dijo a él: Anda, vuelve, porque ¿qué hice a ti?
 
 ### 19:21
 
-Y volvió tras él y tomó un par de bueyes y los sacrificó y con el utensilio de los bueyes cocinó la carne y la dio al pueblo, y comieron. Y se levantó y fue tras Elías y le sirvió.
+Y volvió de detrás de él, y tomó el yugo del ganado y lo sacrificó, y con el ajuar del ganado coció la carne, y dio al pueblo y comieron; y se levantó y anduvo detrás de Eliyahu, y le ministró.
 
 ## Capítulo 20
 
 ### 20:1
 
-Y Ben-Hadad, rey de Siria, reunió todo su ejército y treinta y dos reyes con él, y caballos y carros, y subió y sitió Samaria y luchó contra ella.
+Y Ben-Hadad rey de Aram reunió todo su ejército, y treinta y dos rey con él, y caballo y carro; y subió y sitió sobre Shomrón, y peleó en ella.
 
 ### 20:2
 
-Y envió mensajeros a Acab, rey de Israel, a la ciudad.
+Y envió mensajeros a Ajab rey de Israel, a la ciudad.
 
 ### 20:3
 
-Y le dijo: Así dice Ben-Hadad: Tu plata y tu oro son míos, y tus mujeres e hijos mejores son míos.
+Y le dijo a él: Así dijo Ben-Hadad: Tu plata y tu oro míos son, y tus mujeres y tus hijos los buenos míos son.
 
 ### 20:4
 
-Y respondió el rey de Israel y dijo: Como dice mi señor el rey, yo y todo lo mío son suyos.
+Y respondió el rey de Israel y dijo: Según tu palabra, mi señor el rey: a ti soy yo y todo lo que es mío.
 
 ### 20:5
 
-Y volvieron los mensajeros y dijeron: Así dice Ben-Hadad: He enviado a ti para decir: Tu plata y tu oro y tus mujeres e hijos serán míos.
+Y volvieron los mensajeros y dijeron: Así dijo Ben-Hadad, diciendo: Porque envié a ti, diciendo: Tu plata y tu oro y tus mujeres y tus hijos a mí darás.
 
 ### 20:6
 
-Pero si no, envío a mis servidores mañana, y registrarán tu casa y la casa de tus servidores. Todo lo que a tus ojos parezca valioso, lo pondrán en sus manos y se lo llevarán.
+Porque si no, como el tiempo de mañana enviaré a mis siervos a ti, y escudriñarán tu casa y las casas de tus siervos, y será: todo deseo de tus ojos pondrán en su mano y tomarán.
 
 ### 20:7
 
-Entonces el rey de Israel convocó a todos los ancianos de la tierra y les dijo: ¿No ven que este hombre busca mal? Porque me ha enviado a mis mujeres, a mis hijos, a mi plata y a mi oro, y no he negado nada.
+Y llamó el rey de Israel a todos los ancianos de la tierra, y dijo: Sepan, por favor, y vean que este mal busca, porque envió a mí por mis mujeres y por mis hijos y por mi plata y por mi oro, y no retuve de él.
 
 ### 20:8
 
-Y todos los ancianos y todo el pueblo le dijeron: No lo escuches y no te sometas.
+Y le dijeron a él todos los ancianos y todo el pueblo: No oigas, y no quieras.
 
 ### 20:9
 
-Y le dijo a los mensajeros de Ben-Hadad: Decidle a mi señor el rey: Todo lo que me enviaste antes haré, pero esta cosa no puedo hacer. Y los mensajeros se fueron y le dieron respuesta.
+Y dijo a los mensajeros de Ben-Hadad: Digan a mi señor el rey: Todo lo que enviaste a tu siervo al principio haré, y esta palabra no podré hacer. Y anduvieron los mensajeros y le devolvieron palabra.
 
 ### 20:10
 
-Entonces Ben-Hadad le envió y dijo: Así harán conmigo los dioses, y así me añadirán, si el polvo de Siquem no llega a llenar el surco de las semillas para todo el pueblo que está a mis pies.
+Y envió a él Ben-Hadad y dijo: Así harán a mí dioses y así añadirán, si bastará el polvo de Shomrón a puñados para todo el pueblo que está en mis pies.
 
 ### 20:11
 
-Y respondió el rey de Israel y dijo: Hablad, no se enorgullezca el que se ceñía la cota de malla.
+Y respondió el rey de Israel y dijo: Hablen: No se alabe el ceñidor como el que abre.
 
 ### 20:12
 
-Y sucedió que cuando oyó esto, él y los reyes estaban bebiendo en sus tiendas, y le dijo a sus servidores: Ponedlo, y lo pusieron sobre la ciudad.
+Y fue al oír esta palabra, y él bebiendo, él y los reyes, en las cabañas, y dijo a sus siervos: Pongan. Y pusieron sobre la ciudad.
 
 ### 20:13
 
-Y he aquí que un profeta vino a Acab, rey de Israel, y dijo: Así ha dicho Jehová: ¿Has visto a todo este gran ejército? Hoy lo entregaré en tus manos, y sabrás que soy Jehová.
+Y he aquí un profeta se acercó a Ajab rey de Israel, y dijo: Así dijo Jehová: ¿Viste todo este tumulto grande? Heme aquí dándolo en tu mano hoy, y sabrás que yo soy Jehová.
 
 ### 20:14
 
-Y dijo Acab: ¿En quién? Y le dijo: Así ha dicho Jehová: En los jóvenes de los gobernadores de las provincias. Y dijo: ¿Quién tomará la batalla? Y le dijo: Tú.
+Y dijo Ajab: ¿Con quién? Y dijo: Así dijo Jehová: Con los jóvenes de los príncipes de las provincias. Y dijo: ¿Quién atará la guerra? Y dijo: Tú.
 
 ### 20:15
 
-Y ordenó a los jóvenes de los gobernadores de las provincias, y fueron doscientos treinta y dos, y después de ellos ordenó a todo el pueblo, todos los hijos de Israel, siete mil.
+Y contó a los jóvenes de los príncipes de las provincias, y fueron doscientos treinta y dos; y detrás de ellos contó a todo el pueblo, todos los hijos de Israel, siete miles.
 
 ### 20:16
 
-Y salieron a mediodía, y Ben-Hadad estaba bebiendo vino en sus tiendas, él y los reyes, treinta y dos reyes ayudándole.
+Y salieron al mediodía, y Ben-Hadad bebiendo ebrio en las cabañas, él y los reyes, treinta y dos rey ayudando a él.
 
 ### 20:17
 
-Y salieron los jóvenes de los gobernadores de las provincias primero, y Ben-Hadad envió y les dijeron: Hombres salieron de Siquem.
+Y salieron los jóvenes de los príncipes de las provincias al principio, y envió Ben-Hadad, y le anunciaron a él, diciendo: Hombres salieron de Shomrón.
 
 ### 20:18
 
-Si salieron en paz, que los saquen vivos; pero si salieron para la guerra, que los saquen vivos.
+Y dijo: Si a paz salieron, tómenlos vivos, y si a guerra salieron, vivos tómenlos.
 
 ### 20:19
 
-Y estos salieron de la ciudad: los jóvenes de los gobernadores de las provincias, y el ejército que estaba tras ellos.
+Y estos salieron de la ciudad: los jóvenes de los príncipes de las provincias, y el ejército que iba detrás de ellos.
 
 ### 20:20
 
-Cada uno hirió a su vecino, y los arameos huyeron. Israel los persiguió, y Ben-Hadad, rey de Aram, escapó a caballo con sus carros.
+E hirieron cada uno a su hombre, y huyeron Aram, y los persiguió Israel; y escapó Ben-Hadad rey de Aram sobre caballo y jinetes.
 
 ### 20:21
 
-El rey de Israel salió y hirió a los caballos y carros. Golpeó a los arameos con gran fuerza.
+Y salió el rey de Israel e hirió al caballo y al carro, e hirió en Aram herida grande.
 
 ### 20:22
 
-El profeta se acercó al rey de Israel y le dijo: “¡Sé fuerte! Y ve y haz lo que veas, porque al año regresará el rey de Aram para contigo.”
+Y se acercó el profeta al rey de Israel, y le dijo a él: Anda, fortalécete, y sabe y ve lo que harás, porque al retorno del año el rey de Aram está subiendo sobre ti.
 
 ### 20:23
 
-Y los siervos del rey de Aram le dijeron: “Los dioses de las montañas son sus dioses, por eso son fuertes. Pero nosotros lucharemos contra ellos en el llano, y no seremos más fuertes que ellos.”
+Y los siervos del rey de Aram dijeron a él: Dioses de montes son sus dioses; por eso se fortalecieron más que nosotros; y más: pelearemos con ellos en la llanura: si no, nos fortaleceremos más que ellos.
 
 ### 20:24
 
-Y esto es lo que deben hacer: quita a cada rey de su puesto y pon a un hombre en su lugar.
+Y esta palabra haz: quita a los reyes, cada uno de su lugar, y pon gobernadores debajo de ellos.
 
 ### 20:25
 
-Y tú cuenta a tu ejército como el que cayó de ti, y a tus caballos como los caballos, y a tus carros como los carros. Y lucha contra ellos en el llano, porque no seremos más fuertes que ellos. Y el rey escuchó a ellos y lo hizo así.
+Y tú te contarás para ti un ejército como el ejército caído de contigo, y caballo como el caballo, y carro como el carro, y pelearemos con ellos en la llanura: si no, nos fortaleceremos más que ellos. Y oyó a su voz, e hizo así.
 
 ### 20:26
 
-Al año regresó Ben-Hadad y convocó a los arameos, y subió a Aphek para la guerra contra Israel.
+Y fue al retorno del año, y contó Ben-Hadad a Aram, y subió a Afec a la guerra con Israel.
 
 ### 20:27
 
-Y los hijos de Israel se contaron y comieron, y fueron a encontrarse con ellos. Y los hijos de Israel acamparon frente a ellos como dos rebaños de cabras, y los arameos llenaron la tierra.
+E hijos de Israel fueron contados y fueron sustentados, y anduvieron a su encuentro; y acamparon los hijos de Israel frente a ellos como dos rebañitos de cabras, y Aram llenaron la tierra.
 
 ### 20:28
 
-Y se acercó un hombre de Dios y dijo al rey de Israel: “Así ha dicho Jehová: Porque han dicho los arameos: ‘Los dioses de las montañas son Jehová, pero no los dioses de las llanuras’. Y pondré a tu disposición a todo este gran ejército, y sabrás que yo soy Jehová.”
+Y se acercó un hombre de Dios, y dijo al rey de Israel, y dijo: Así dijo Jehová: Por cuanto dijeron Aram: Dioses de montes es Jehová, y no dioses de valles él, y daré todo este tumulto grande en tu mano, y ustedes sabrán que yo soy Jehová.
 
 ### 20:29
 
-Y acamparon unos frente a otros siete días. Y en el día séptimo, la batalla se acercó, y los hijos de Israel hirieron a los arameos a cien mil hombres en un día.
+Y acamparon estos frente a estos siete días; y fue en el día séptimo, y se acercó la guerra, e hirieron los hijos de Israel a Aram cien mil de a pie en un día.
 
 ### 20:30
 
-Y los que quedaban huyeron a Aphek, y la muralla cayó sobre veintisiete mil hombres que quedaban. Y Ben-Hadad huyó a la ciudad, y se refugió en una habitación.
+Y huyeron los restantes a Afec, a la ciudad, y cayó el muro sobre veinte y siete mil hombre los restantes; y Ben-Hadad huyó y vino a la ciudad, aposento en aposento.
 
 ### 20:31
 
-Y me dijeron sus servidores: ‘He aquí que hemos oído que los reyes de Israel son reyes de misericordia. Pónganse ahora sacos en las cinturas y cuerdas en las cabezas, y vayamos al rey de Israel, quizás nos dé la vida’.
+Y le dijeron a él sus siervos: He aquí, por favor, oímos que los reyes de la casa de Israel son reyes de hesed; pongamos, por favor, sacos en nuestros lomos y cuerdas en nuestra cabeza, y salgamos al rey de Israel; quizá vivifique tu alma.
 
 ### 20:32
 
-Y se ceñieron sacos en las cinturas y cuerdas en las cabezas, y vinieron al rey de Israel y dijeron: ‘Tu siervo Ben-Hadad dice: Que viva mi alma’. Y él dijo: ‘¿Vive aún tu hermano?’
+Y se ciñeron sacos en sus lomos y cuerdas en sus cabezas, y vinieron al rey de Israel, y dijeron: Tu siervo Ben-Hadad dijo: Viva, por favor, mi alma. Y dijo: ¿Aún él vivo? Hermano mío es él.
 
 ### 20:33
 
-Y los hombres divinizaron y se apresuraron, y dijeron: ‘¿Vive tu hermano Ben-Hadad?’. Y él dijo: ‘Traedlo’. Y salió Ben-Hadad a él, y lo hizo subir a su carro.
+Y los hombres agoraron y se apresuraron y lo afirmaron de él, y dijeron: Tu hermano Ben-Hadad. Y dijo: Vengan, tómenlo. Y salió a él Ben-Hadad, y lo subió sobre el carro.
 
 ### 20:34
 
-Y dijo: ‘Las ciudades que mi padre tomó de tu padre las devolveré, y daré campos en Damasco como tu padre dio en Samaria. Y yo iré en paz contigo’. Y le hizo un pacto y lo dejó ir.
+Y le dijo a él: Las ciudades que tomó mi padre de con tu padre devolveré, y calles pondrás para ti en Dameseq como que puso mi padre en Shomrón, y yo en el pacto te enviaré. Y cortó a él pacto y lo envió.
 
 ### 20:35
 
-Y un hombre de los profetas dijo a su compañero en nombre de Jehová: ‘Golpéame’. Y su compañero se negó a golpearlo.
+Y un hombre de los hijos de los profetas dijo a su compañero en palabra de Jehová: Hiéreme, por favor. Y rehusó el hombre herirlo.
 
 ### 20:36
 
-Y le dijo: ‘Porque no has escuchado la voz de Jehová, te irás de mi presencia y un león te matará’. Y salió de su presencia, y un león lo encontró y lo mató.
+Y le dijo a él: Por cuanto no oíste en la voz de Jehová, he aquí tú andando de conmigo, y te herirá el león. Y anduvo de junto a él, y lo halló el león y lo hirió.
 
 ### 20:37
 
-Y encontró otro hombre y le dijo: ‘Golpéame’. Y el hombre lo golpeó y le rompió el hueso.
+Y halló a otro hombre, y dijo: Hiéreme, por favor. Y lo hirió el hombre, hiriendo y hiriendo.
 
 ### 20:38
 
-Y el profeta se fue y se paró delante del rey en el camino, y se disfrazó de polvo en los ojos.
+Y anduvo el profeta y se paró al rey sobre el camino, y se disfrazó con la venda sobre sus ojos.
 
 ### 20:39
 
-Y el rey pasaba y él gritó al rey: ‘Tu siervo salió a la batalla, y un hombre se apartó, y me trajo a un hombre y me dijo: Guarda a este hombre, si es herido, pagarás una vida por una vida, o una medida de trigo por una medida de plata’.
+Y fue el rey pasando, y él clamó al rey, y dijo: Tu siervo salió en medio de la guerra, y he aquí un hombre se apartó y trajo a mí un hombre, y dijo: Guarda a este hombre; si faltando faltare, será tu alma debajo de su alma, o talento de plata pesarás.
 
 ### 20:40
 
-Y tu siervo hizo esto y aquello, y no estaba allí, y el rey de Israel me dijo: ‘Así es tu juicio, tú lo has determinado’.
+Y fue tu siervo haciendo acá y acá, y él no está. Y le dijo a él el rey de Israel: Así es tu juicio; tú decidiste.
 
 ### 20:41
 
-Y se apresuró y se quitó el polvo de los ojos, y el rey de Israel lo reconoció como uno de los profetas.
+Y se apresuró y quitó la venda de sus ojos, y lo reconoció el rey de Israel que de los profetas era él.
 
 ### 20:42
 
-Y me dijo: Así ha hablado Jehová: Por haber soltado al hombre que era mío, tu vida será por la suya, y tu pueblo por el suyo.
+Y le dijo a él: Así dijo Jehová: Por cuanto enviaste al hombre de mi herem de mano, será tu alma debajo de su alma, y tu pueblo debajo de su pueblo.
 
 ### 20:43
 
-Y el rey de Israel se fue a su casa deprimido y enfermo, y llegó a Samaria.
+Y anduvo el rey de Israel sobre su casa, ceñudo y airado, y vino a Shomrón.
 
 ## Capítulo 21
 
 ### 21:1
 
-Después de estos hechos, Nabot el jizraelita tenía una viña en Jizreel, cerca del palacio de Acab, rey de Samaria.
+Y fue después de estas palabras: viña había a Navot el yizreelí que estaba en Yizreel, junto al palacio de Ajab rey de Shomrón.
 
 ### 21:2
 
-Acab habló con Nabot diciendo: Dáme tu viña por un precio o si prefieres, te daré otra viña mejor que ella. Si me parece bien, te daré dinero por ella.
+Y habló Ajab a Navot, diciendo: Dame tu viña, y sea a mí por huerto de verdura, porque ella está cercana junto a mi casa, y te daré debajo de ella viña buena más que ella; si es bueno en tus ojos, te daré plata de precio de esta.
 
 ### 21:3
 
-Nabot respondió a Acab: ¡No, no lo haré! No daré a Jehová mi heredad.
+Y dijo Navot a Ajab: Lejos a mí de Jehová, de dar yo la herencia de mis padres a ti.
 
 ### 21:4
 
-Acab volvió a su casa deprimido y enfermo por lo que Nabot el jizraelita le había dicho. Y se echó en su cama, se volvió de lado y no comió nada.
+Y vino Ajab a su casa ceñudo y airado sobre la palabra que le habló Navot el yizreelí, y dijo: No daré a ti la herencia de mis padres. Y se acostó sobre su lecho y volvió sus faces, y no comió pan.
 
 ### 21:5
 
-Entonces Izabela, su mujer, vino a él y le dijo: ¿Por qué estás deprimido y no comes?
+Y vino a él Izevel su mujer, y habló a él: ¿Qué es esto? Tu espíritu ceñudo, y no estás comiendo pan.
 
 ### 21:6
 
-Y le dijo: Hablé con Nabot el jizraelita y le dije: Dáme tu viña por un precio o si prefieres, te daré otra viña mejor que ella. Pero él me dijo: No te daré mi viña.
+Y habló a ella: Porque hablé a Navot el yizreelí, y le dije a él: Dame tu viña en plata, o si deseoso eres tú, te daré viña debajo de ella. Y dijo: No daré a ti mi viña.
 
 ### 21:7
 
-Entonces Izabela, su mujer, le dijo: Ahora harás que te coronen rey sobre Israel. Levántate y come pan, y tu corazón se alegrará. Yo te daré la viña de Nabot el jizraelita.
+Y le dijo a él Izevel su mujer: Tú ahora harás reinado sobre Israel. Levántate, come pan, y se alegrará tu corazón; yo daré a ti la viña de Navot el yizreelí.
 
 ### 21:8
 
-Escribió cartas en nombre de Acab, selló con su sello y las envió a los ancianos y a los nobles que vivían con Nabot en su ciudad.
+Y escribió cartas en nombre de Ajab, y selló con su sello, y envió a los ancianos y a los nobles que estaban en su ciudad, los asentados con Navot.
 
 ### 21:9
 
-Escribió en las cartas: Proclamad ayuno y sentad a Nabot en la cabeza del pueblo.
+Y escribió en las cartas, diciendo: Clamen ayuno, y asienten a Navot a la cabeza del pueblo.
 
 ### 21:10
 
-Y sentarán dos hombres malvados frente a él y los testigos le dirán: Has bendecido a dioses y al rey. Y lo sacarán y lo apedrearán hasta que muera.
+Y asienten dos hombres, hijos de beliyaal, frente a él, y lo testifiquen, diciendo: Bendijiste a Dios y al rey; y sáquenlo y apedréenlo, y muera.
 
 ### 21:11
 
-Y los ancianos y los nobles de su ciudad hicieron según Isabela les había escrito en las cartas que les había enviado.
+E hicieron los hombres de su ciudad, los ancianos y los nobles que estaban asentados en su ciudad, como que envió a ellos Izevel, como escrito en las cartas que envió a ellos.
 
 ### 21:12
 
-Proclamaron ayuno y sentaron a Nabot en la cabeza del pueblo.
+Clamaron ayuno, y asentaron a Navot a la cabeza del pueblo.
 
 ### 21:13
 
-Entonces vinieron dos hombres malvados y se sentaron frente a él. Y los hombres malvados testificaron contra Nabot ante el pueblo, diciendo: Nabot ha bendecido a dioses y al rey. Y lo sacaron de la ciudad y lo apedrearon hasta que murió.
+Y vinieron dos de los hombres, hijos de beliyaal, y se asentaron frente a él, y lo testificaron los hombres del beliyaal a Navot delante del pueblo, diciendo: Bendijo Navot a Dios y al rey. Y lo sacaron fuera de la ciudad, y lo apedrearon con las piedras, y murió.
 
 ### 21:14
 
-Y le enviaron a Isabela a decir: Han apedreado a Nabot y ha muerto.
+Y enviaron a Izevel, diciendo: Fue apedreado Navot, y murió.
 
 ### 21:15
 
-Y cuando Isabela supo que habían apedreado a Nabot y que había muerto, dijo a Acab: Levántate, toma el viñedo de Nabot el Jizraelita, que se negó a darte por dinero, porque Nabot no vive, sino que ha muerto.
+Y fue al oír Izevel que fue apedreado Navot y murió, y dijo Izevel a Ajab: Levántate, toma posesión de la viña de Navot el yizreelí que rehusó dar a ti en plata, porque no hay Navot vivo, porque murió.
 
 ### 21:16
 
-Y cuando Acab supo que Nabot había muerto, se levantó para ir al viñedo de Nabot el Jizraelita para tomarlo.
+Y fue al oír Ajab que murió Navot, y se levantó Ajab para descender a la viña de Navot el yizreelí para tomarla en posesión.
 
 ### 21:17
 
-Y vino la palabra de Jehová a Elías el Tisbita, diciendo:
+Y fue palabra de Jehová a Eliyahu el tishbí, diciendo:
 
 ### 21:18
 
-Levántate, baja a encontrarte con Acab, rey de Israel, que está en Samaria, en el viñedo de Nabot, donde ha descendido para tomarlo.
+Levántate, desciende al encuentro de Ajab rey de Israel que está en Shomrón; he aquí en la viña de Navot, que descendió allí para tomarla en posesión.
 
 ### 21:19
 
-Y hablarás con él, diciendo: Así ha dicho Jehová: ¿Has matado y también tomado? Y hablarás con él, diciendo: Así ha dicho Jehová: En el lugar donde los perros lamen el sangre de Nabot, lamerán tus sangres también tú.
+Y hablarás a él, diciendo: Así dijo Jehová: ¿Asesinaste, y también tomaste posesión? Y hablarás a él, diciendo: Así dijo Jehová: En el lugar que lamieron los perros la sangre de Navot, lamerán los perros tu sangre, también tú.
 
 ### 21:20
 
-Y Acab dijo a Elías: ¿Has encontrado a tu enemigo? Y él dijo: He encontrado, porque te has vendido para hacer el mal a los ojos de Jehová.
+Y dijo Ajab a Eliyahu: ¿Me hallaste, enemigo mío? Y dijo: Hallé, por cuanto te vendiste para hacer el mal en ojos de Jehová.
 
 ### 21:21
 
-He aquí, yo te traeré mal y te perseguiré, y cortaré a Acab de Israel, a perros y a aves del cielo.
+Heme aquí a ti mal, y quemaré detrás de ti, y cortaré a Ajab meador en pared, y cerrado y abandonado en Israel.
 
 ### 21:22
 
-Y pondré tu casa como la casa de Jeroboam hijo de Nabat y como la casa de Baasa hijo de Ajía, por el enojo con que te enojaste y por haber hecho pecar a Israel.
+Y daré tu casa como casa de Yarovam hijo de Nevat, y como casa de Bashá hijo de Ajíá, por el enojo que enojaste, e hiciste pecar a Israel.
 
 ### 21:23
 
-Y también a Izabela dijo Jehová: Los perros comerán a Izabela en Jezreel.
+Y también a Izevel habló Jehová, diciendo: Los perros comerán a Izevel en el muro de Yizreel.
 
 ### 21:24
 
-El que muere en la ciudad, los perros lo comerán, y el que muere en el campo, las aves del cielo lo comerán.
+El muerto a Ajab en la ciudad comerán los perros, y el muerto en el campo comerán ave de los cielos.
 
 ### 21:25
 
-Pero no hubo quien pecara tanto ante Jehová como Acab, quien se vendió para hacer el mal a los ojos de Jehová, a quien Izabela su mujer lo indujo.
+Solo no hubo como Ajab que se vendió para hacer el mal en ojos de Jehová, que lo incitó Izevel su mujer.
 
 ### 21:26
 
-Y se disgustó mucho por seguir los ídolos, como lo hicieron los amorreos, a quienes Jehová expulsó de delante de los hijos de Israel.
+Y abominó mucho para andar detrás de los ídolos, como todo lo que hicieron el amorí que desalojó Jehová de faces de los hijos de Israel.
 
 ### 21:27
 
-Y sucedió que cuando Acab oyó estas palabras, rasgó sus vestidos y puso cilicio sobre su carne, ayunó, y se acostó en cilicio, y anduvo lentamente.
+Y fue al oír Ajab estas palabras, y rasgó sus vestidos, y puso saco sobre su carne, y ayunó, y se acostó en el saco, y anduvo despacio.
 
 ### 21:28
 
-Y fue la palabra de Jehová a Elías el Tisbita, diciendo:
+Y fue palabra de Jehová a Eliyahu el tishbí, diciendo:
 
 ### 21:29
 
-¿Viste que Acab se humilló ante mí? Porque se humilló ante mí, no traeré el mal en sus días; pero en los días de su hijo traeré el mal sobre su casa.
+¿Viste que se humilló Ajab de delante de mí? Por cuanto se humilló de mis faces, no traeré el mal en sus días; en días de su hijo traeré el mal sobre su casa.
 
 ## Capítulo 22
 
 ### 22:1
 
-Y estuvieron tres años sin guerra entre Aram y Israel.
+Y se asentaron tres años: no hubo guerra entre Aram y entre Israel.
 
 ### 22:2
 
-Y sucedió en el tercer año que Josafat, rey de Judá, descendió a Acab, rey de Israel.
+Y fue en el año tercero, y descendió Yehoshafat rey de Yehudá al rey de Israel.
 
 ### 22:3
 
-Y dijo el rey de Israel a sus siervos: ¿Sabéis que Ramot de Galaad nos pertenece, y que nos guardamos de tomarla de manos del rey de Aram?
+Y dijo el rey de Israel a sus siervos: ¿Saben ustedes que es de nosotros Ramot Gilad, y nosotros callando de tomarla de mano del rey de Aram?
 
 ### 22:4
 
-Y dijo a Josafat: ¿Vas tú conmigo a la guerra a Ramot de Galaad? Y Josafat dijo al rey de Israel: Como yo soy como tú, mi pueblo como tu pueblo, mis caballos como tus caballos.
+Y dijo a Yehoshafat: ¿Andarás conmigo a la guerra a Ramot Gilad? Y dijo Yehoshafat al rey de Israel: Como yo, como tú; como mi pueblo, como tu pueblo; como mis caballos, como tus caballos.
 
 ### 22:5
 
-Y dijo Josafat al rey de Israel: Consulta hoy la palabra de Jehová.
+Y dijo Yehoshafat al rey de Israel: Consulta, por favor, como hoy la palabra de Jehová.
 
 ### 22:6
 
-Entonces el rey de Israel reunió a cuatrocientos profetas y les dijo: ¿Voy yo a la guerra a Ramot de Galaad o me quedo? Y ellos dijeron: Sube, porque el Señor te entregará la ciudad.
+Y reunió el rey de Israel a los profetas, como cuatrocientos hombre, y dijo a ellos: ¿Iré sobre Ramot Gilad a la guerra, o cesaré? Y dijeron: Sube, y dé Adonai en mano del rey.
 
 ### 22:7
 
-Entonces Josafat dijo: ¿No hay aquí otro profeta del Señor para consultarle?
+Y dijo Yehoshafat: ¿No hay aquí aún profeta de Jehová, y consultemos de él?
 
 ### 22:8
 
-El rey de Israel dijo a Josafat: ¿No hay aquí otro profeta para consultarle? Hay uno, Micaías hijo de Yimlah, pero yo lo odio, porque nunca profetiza bien acerca de mí, sino mal. Y Josafat dijo: No hables así, rey.
+Y dijo el rey de Israel a Yehoshafat: Aún hay un hombre para consultar a Jehová de él, y yo lo aborrecí, porque no profetiza sobre mí bien sino mal: Mikayahu hijo de Yimlá. Y dijo Yehoshafat: No diga el rey así.
 
 ### 22:9
 
-El rey de Israel llamó a un eunuco y le dijo: Trae pronto a Micaías hijo de Yimlah.
+Y llamó el rey de Israel a un eunuco, y dijo: Date prisa a Mikayahu hijo de Yimlá.
 
 ### 22:10
 
-Entonces el rey de Israel y Josafat, rey de Judá, se sentaron cada uno en su trono, vestidos con túnicas de lino, en el borde de un corral, a la entrada de la puerta de Samaria, y todos los profetas profetizaban delante de ellos.
+Y el rey de Israel y Yehoshafat rey de Yehudá estaban asentados, cada uno sobre su trono, vestidos de vestidos, en la era, a la abertura de la puerta de Shomrón, y todos los profetas profetizando delante de ellos.
 
 ### 22:11
 
-Entonces Zidquías hijo de Quenaana hizo cuernos de hierro y dijo: Así dice el Señor: Con estos golpearás a Aram hasta que queden destruidos.
+E hizo para él Tsidqiyá hijo de Kenaaná cuernos de hierro, y dijo: Así dijo Jehová: Con estos embestirás a Aram hasta consumirlos.
 
 ### 22:12
 
-Todos los profetas profetizaron así, diciendo: Sube a Ramot de Galaad y triunfarás, porque el Señor entregará al rey en sus manos.
+Y todos los profetas profetizaban así, diciendo: Sube a Ramot Gilad y prosperarás, y dará Jehová en mano del rey.
 
 ### 22:13
 
-El mensajero que había ido a llamar a Micaías le dijo: He aquí que las palabras de los profetas son buenas para el rey. Por favor, profetiza como ellos y di algo bueno.
+Y el mensajero que anduvo a llamar a Mikayahu habló a él, diciendo: He aquí, por favor, las palabras de los profetas son de una boca bien al rey; sea, por favor, como palabra de uno de ellos, y hablarás bien.
 
 ### 22:14
 
-Entonces Micaías dijo: Vive el Señor que diré lo que el Señor me diga.
+Y dijo Mikayahu: Vive Jehová, porque lo que diga Jehová a mí, a ello hablaré.
 
 ### 22:15
 
-Entonces vino a ver al rey y el rey le dijo: Micaías, ¿subiremos a Ramot de Galaad a la guerra o nos quedamos? Y él le dijo: Sube y triunfarás, porque el Señor entregará al rey en tus manos.
+Y vino al rey, y dijo el rey a él: Mikayahu, ¿iremos a Ramot Gilad a la guerra, o cesaremos? Y le dijo a él: Sube y prosperarás, y dará Jehová en mano del rey.
 
 ### 22:16
 
-Entonces el rey le dijo: ¿Cuántas veces te he jurado que dirás la verdad en el nombre del Señor?
+Y le dijo a él el rey: ¿Hasta cuántas veces yo te conjuro que no hables a mí sino verdad en nombre de Jehová?
 
 ### 22:17
 
-Entonces dijo: He visto a todo Israel disperso por las montañas como ovejas sin pastor. Y el Señor dijo: No tendrán dueño, cada uno volverá a su casa en paz.
+Y dijo: Vi a todo Israel esparcidos a los montes como el rebaño que no hay a ellos pastor. Y dijo Jehová: No hay señores a estos; vuelvan cada uno a su casa en paz.
 
 ### 22:18
 
-Entonces el rey de Israel dijo a Josafat: ¿No te he dicho que no profetizarán sobre mí sino mal?
+Y dijo el rey de Israel a Yehoshafat: ¿No dije a ti? No profetiza sobre mí bien sino mal.
 
 ### 22:19
 
-Entonces dijo: Escucha la palabra del Señor. He visto al Señor sentado en su trono, y todo el ejército de los cielos estaba de pie a su lado, a su derecha y a su izquierda.
+Y dijo: Por tanto oye la palabra de Jehová: Vi a Jehová asentado sobre su trono, y todo el ejército de los cielos parado sobre él, de su derecha y de su izquierda.
 
 ### 22:20
 
-Y el Señor dijo: ¿Quién engañará a Acab y subirá y caerá en Ramot de Galaad? Y dijo: Uno dice esto, y otro dice aquello.
+Y dijo Jehová: ¿Quién engañará a Ajab, y suba y caiga en Ramot Gilad? Y dijo este así, y este diciendo así.
 
 ### 22:21
 
-Y salió el espíritu y se paró ante el Señor y dijo: Yo lo engañaré.
+Y salió el espíritu y se paró delante de Jehová, y dijo: Yo lo engañaré.
 
 ### 22:22
 
-Y el Señor me dijo: ¿En qué? Y yo dije: Saldré y seré espíritu de mentira en boca de todos los profetas. Y el Señor dijo: Engañarás y también tendrás éxito. Ve y hazlo.
+Y salió el espíritu y se paró delante de Jehová, y dijo: Yo lo engañaré. Y dijo Jehová a él: ¿En qué?
 
 ### 22:23
 
-Y ahora, he aquí que el Señor ha puesto un espíritu de mentira en boca de todos tus profetas, y el Señor ha hablado sobre ti mal.
+Y ahora, he aquí dio Jehová espíritu de mentira en boca de todos estos tus profetas, y Jehová habló sobre ti mal.
 
 ### 22:24
 
-Y Zedecías hijo de Quenaana se acercó y golpeó a Micaías en la mandíbula, y dijo: ¿Acaso ha pasado el espíritu de Jehová de mí a ti para hablarte?
+Y se acercó Tsidqiyahu hijo de Kenaaná e hirió a Mikayahu sobre la mejilla, y dijo: ¿Dónde pasó esto el espíritu de Jehová de conmigo para hablar a ti?
 
 ### 22:25
 
-Y Micaías respondió: ¿Ves en el día que vienes a tu casa, que vendrás a tu casa para esconderse?
+Y dijo Mikayahu: He aquí tú viendo en aquel día que vendrás aposento en aposento para esconderte.
 
 ### 22:26
 
-Y el rey de Israel dijo: Toma a Micaías y devuélvelo a Amon, el gobernador de la ciudad, y a Joas, hijo del rey.
+Y dijo el rey de Israel: Toma a Mikayahu y devuélvelo a Amón príncipe de la ciudad y a Yoash hijo del rey.
 
 ### 22:27
 
-Y le dirás: Así ha dicho el rey: Enciérrenlo en la cárcel y danle pan escaso y agua escasa hasta que yo vuelva en paz.
+Y dirás: Así dijo el rey: Pongan a este en casa de la cárcel, y háganlo comer pan de opresión y aguas de opresión hasta mi venir en paz.
 
 ### 22:28
 
-Y Micaías dijo: Si vuelves en paz, Jehová no ha hablado por mí. Y dijo: Escuchad, pueblos todos.
+Y dijo Mikayahu: Si volviendo vuelves en paz, no habló Jehová en mí. Y dijo: Oigan, pueblos todos ellos.
 
 ### 22:29
 
-Y subió el rey de Israel y Josafat, rey de Judá, a Ramot de Galaad.
+Y subió el rey de Israel y Yehoshafat rey de Yehudá a Ramot Gilad.
 
 ### 22:30
 
-El rey de Israel dijo a Josafat: Disfrazate y ve a la guerra. Y el rey de Israel se disfrazó y fue a la guerra.
+Y dijo el rey de Israel a Yehoshafat: Disfrázate y entra en la guerra, y tú viste tus vestidos. Y se disfrazó el rey de Israel y entró en la guerra.
 
 ### 22:31
 
-Y el rey de Aram había ordenado a los capitanes de su carroza treinta y dos: No luchéis ni contra el pequeño ni contra el grande, sino únicamente contra el rey de Israel.
+Y el rey de Aram mandó a los príncipes del carro que eran a él, treinta y dos, diciendo: No peleen ustedes con pequeño ni con grande, sino con el rey de Israel solo él.
 
 ### 22:32
 
-Y cuando los capitanes de la carroza vieron a Josafat, dijeron: Este es el rey de Israel. Y se volvieron contra él para luchar, y Josafat gritó.
+Y fue al ver los príncipes del carro a Yehoshafat, y ellos dijeron: Solo el rey de Israel es él. Y se apartaron sobre él para pelear, y clamó Yehoshafat.
 
 ### 22:33
 
-Y cuando los capitanes de la carroza vieron que no era el rey de Israel, se apartaron de él.
+Y fue al ver los príncipes del carro que no era el rey de Israel él, y volvieron de detrás de él.
 
 ### 22:34
 
-Y un hombre disparó una flecha al azar, y la hirió al rey de Israel entre las costillas y entre las junturas del arnés. Y dijo a su carro: Da la vuelta, y saca de la campamento, porque estoy herido.
+Y un hombre atrajo en el arco a su integridad, e hirió al rey de Israel entre las junturas y entre la coraza. Y dijo a su auriga: Vuelve tu mano y sácame del campamento, porque fui herido.
 
 ### 22:35
 
-Y la batalla se libró ese día, y el rey estaba de pie en su carro frente a Aram. Y murió al atardecer, y el sangre de la herida corrió sobre el arnés.
+Y subió la guerra en aquel día, y el rey estaba parado en el carro frente a Aram, y murió en la tarde, y se derramó la sangre de la herida al seno del carro.
 
 ### 22:36
 
-Y se extendió el grito por el campamento: Al atardecer, cuando salió el sol, decían: Cada uno a su ciudad y cada uno a su tierra.
+Y pasó el grito en el campamento al entrar el sol, diciendo: Cada uno a su ciudad, y cada uno a su tierra.
 
 ### 22:37
 
-Y el rey murió y fue llevado a Samaria, y lo enterraron en Samaria.
+Y murió el rey, y vino a Shomrón, y sepultaron al rey en Shomrón.
 
 ### 22:38
 
-Y lavaron el carro sobre la piscina de Samaria, y los perros lamió la sangre, y las prostitutas se bañaron en ella, según la palabra de Jehová que había hablado.
+Y lavaron el carro sobre el estanque de Shomrón, y lamieron los perros su sangre, y las rameras lavaron, según la palabra de Jehová que habló.
 
 ### 22:39
 
-Y el resto de las palabras de Acab y todo lo que hizo, y la casa de Senón que edificó, y todas las ciudades que edificó, ¿no están escritas en el libro de los días de los reyes de Israel?
+Y el resto de las palabras de Ajab y todo lo que hizo, y la casa del marfil que edificó, y todas las ciudades que edificó, ¿no están ellos escritos sobre el libro de las palabras de los días de los reyes de Israel?
 
 ### 22:40
 
-Y Acab se acostó con sus padres, y reinó Acazías su hijo en su lugar.
+Y se acostó Ajab con sus padres, y reinó Ajazyahu su hijo debajo de él.
 
 ### 22:41
 
-Y Josafat hijo de Asa fue rey sobre Judá en el cuarto año de Acab, rey de Israel.
+Y Yehoshafat hijo de Asá reinó sobre Yehudá en el año cuatro de Ajab rey de Israel.
 
 ### 22:42
 
-Josafat tenía treinta y cinco años cuando comenzó a reinar, y gobernó en Jerusalén veinte y cinco años. El nombre de su madre era Azuba, hija de Shelah.
+Yehoshafat era hijo de treinta y cinco años en su reinar, y veinte y cinco años reinó en Yerushaláyim; y el nombre de su madre era Azuvá hija de Shiljí.
 
 ### 22:43
 
-Y caminó en todos los caminos de Asa, su padre, y no se apartó de ellos, haciendo lo recto a los ojos del SEÑOR. Pero las altas colinas no se apartaron, y el pueblo aún sacrificaba y quemaba incienso en las altas colinas.
+Y anduvo en todo el camino de Asá su padre; no se apartó de él, para hacer lo recto en ojos de Jehová.
 
 ### 22:44
 
-Y Josafat hizo la paz con el rey de Israel.
+Y pacíficó Yehoshafat con el rey de Israel.
 
 ### 22:45
 
-Y el resto de las palabras de Josafat, y su poder, y lo que hizo, y la guerra que libró, ¿no están escritas en el libro de los días de los reyes de Judá?
+Y el resto de las palabras de Yehoshafat y su valentía que hizo, y que peleó, ¿no están ellos escritos sobre el libro de las palabras de los días de los reyes de Yehudá?
 
 ### 22:46
 
-Y el resto del sacerdocio que quedó en los días de Asa, su padre, lo quito de la tierra.
+Y el resto del consagrado que quedó en días de Asá su padre, quitó de la tierra.
 
 ### 22:47
 
-Y no hubo rey en Edom, sino que un gobernador.
+Y no había rey en Edom: parado rey.
 
 ### 22:48
 
-Josafat hizo diez naves de Tarshish para ir a Ofir por oro, pero no fueron, porque las naves se rompieron en Ezeón-Gaber.
+Yehoshafat: naves de Tarshish para ir a Ofir al oro, y no anduvo, porque naves en Etsyón Gáver.
 
 ### 22:49
 
-Entonces Acazías hijo de Acab dijo a Josafat: Vayan mis servidores con tus servidores en las naves. Pero Josafat no quiso ir.
+Entonces dijo Ajazyahu hijo de Ajab a Yehoshafat: Anden mis siervos con tus siervos en las naves. Y no quiso Yehoshafat.
 
 ### 22:50
 
-Y Josafat se acostó con sus padres, y fue sepultado con sus padres en la ciudad de David, su padre, y reinó en su lugar su hijo Joram.
+Y se acostó Yehoshafat con sus padres, y fue sepultado con sus padres en la ciudad de David su padre, y reinó Yehoram su hijo debajo de él.
 
 ### 22:51
 
-Acazías hijo de Acab fue rey sobre Israel en Samaria en el año diecisiete del reinado de Josafat, rey de Judá, y reinó sobre Israel dos años.
+Ajazyahu hijo de Ajab reinó sobre Israel en Shomrón en el año diecisiete de Yehoshafat rey de Yehudá, y reinó sobre Israel dos años.
 
 ### 22:52
 
-Y hizo lo malo a los ojos del SEÑOR, y caminó en el camino de su padre y en el camino de su madre, y en el camino de Jeroboam hijo de Nebat, que hizo pecar a Israel.
+E hizo el mal en ojos de Jehová, y anduvo en el camino de su padre y en el camino de su madre y en el camino de Yarovam hijo de Nevat que hizo pecar a Israel.
 
 ### 22:53
 
-Y sirvió a Baal, y se postró ante él, y enfureció al SEÑOR, el Dios de Israel, como lo hizo su padre.
+Y sirvió al Baal y se postró a él, y enojó a Jehová Dios de Israel como todo lo que hizo su padre.

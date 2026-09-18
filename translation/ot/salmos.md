@@ -1,1607 +1,1638 @@
 # Salmos
 
-> La Biblia Fiel — Salmos. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+
+> La Biblia Fiel — Salmos. Segunda pasada contra OSHB / WLC (voz Génesis), pulida. Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
 
+
 ### 1:1
 
-Afortunado el hombre que no sigue el consejo de los malvados, ni se detiene en el camino de los pecadores, ni se sienta en la asamblea de los burlones.
+Dichoso el hombre que no anduvo en consejo de malvados, y en camino de pecadores no se paró, y en asiento de burladores no se sentó.
 
 ### 1:2
 
-Sino que en la ley de Jehová es su deleite, y en su ley medita de día y de noche.
+Sino que en la torá de Jehová está su deleite, y en su torá medita de día y de noche.
 
 ### 1:3
 
-Y será como un árbol plantado junto a las aguas, que da fruto en su tiempo, y cuya hoja no marchita; y todo lo que hace prospera.
+Y será como árbol plantado sobre canales de aguas, que da su fruto en su tiempo, y su hoja no se marchita; y todo lo que hace prosperará.
 
 ### 1:4
 
-No así los malvados, sino que serán como el polvo que el viento dispersa.
+No así los malvados; sino como el tamo que el viento empuja.
 
 ### 1:5
 
-Por eso no se levantarán los malvados en juicio, ni los pecadores en la asamblea de los justos.
+Por tanto no se levantarán malvados en el juicio, ni pecadores en congregación de justos.
 
 ### 1:6
 
-Porque Jehová conoce el camino de los justos, pero el camino de los pecadores perecerá.
+Porque conoce Jehová el camino de justos, y el camino de malvados perecerá.
 
 ## Capítulo 2
 
+
 ### 2:1
 
-¿Por qué se enojan las naciones, y los pueblos conspiran en vano?
+¿Por qué se agitan las naciones, y los pueblos meditan vacío?
 
 ### 2:2
 
-Se levantan los reyes de la tierra y los gobernantes se reúnen contra Jehová y contra su Ungido.
+Se presentan los reyes de la tierra, y los gobernantes se consultan juntos, sobre Jehová y sobre su Ungido:
 
 ### 2:3
 
-Atarán nuestros grilletes y lanzarán lejos de nosotros nuestros cadenas.
+Rompamos sus coyundas, y echemos de nosotros sus sogas.
 
 ### 2:4
 
-El que habita en los cielos se ríe; Jehová se burla de ellos.
+El que se sienta en los cielos se ríe; Adonai se burla de ellos.
 
 ### 2:5
 
-Entonces hablará con ellos en su ira, y en su cólera los amenazará.
+Entonces hablará a ellos en su nariz, y en su ardor los turbará:
 
 ### 2:6
 
-Yo he ungido mi Rey en Sión, mi monte santo.
+Y yo instalé a mi rey sobre Tsiyón, monte de mi santidad.
 
 ### 2:7
 
-Haré conocer tu decreto, Yahveh, me ha dicho: “Tú eres mi Hijo, hoy te he engendrado.”
+Contaré hacia el estatuto: Jehová me dijo: Hijo mío eres tú; yo hoy te engendré.
 
 ### 2:8
 
-Pregunta de mí, y te daré las naciones por heredad, y los confines de la tierra por posesión.
+Pide de mí, y daré naciones tu heredad, y tu posesión los extremos de la tierra.
 
 ### 2:9
 
-Los quebrarás con un bastón de hierro, como un vaso de alfarero los esparcirás.
+Los quebrarás con vara de hierro; como vaso de alfarero los desmenuzarás.
 
 ### 2:10
 
-Ahora, pues, sed sabios, reyes, y juzgad con rectitud, príncipes de la tierra.
+Y ahora, reyes, sean prudentes; sean corregidos, jueces de la tierra.
 
 ### 2:11
 
-Adorad a Yahveh con temor, y alegraos con temblor.
+Sirvan a Jehová con temor, y gocen con temblor.
 
 ### 2:12
 
-Besaos los labios, hijos, para que Yahveh no se enoje, y perezcáis por el camino; porque su ira se enciende en un instante. Bienaventurados todos los que en él confían.
+Besen al hijo, no sea que se enoje y ustedes perezcan en el camino, porque se enciende como poco su nariz. Dichosos todos los que se refugian en él.
 
 ## Capítulo 3
 
+
 ### 3:1
 
-Salmo de David. Cuando huía de su hijo Absalón: Oh Yahveh, cuántos son mis enemigos, muchos son los que me levantan contra mí.
+Salmo de David, en su huir de faces de Avshalom su hijo. Jehová, cuánto se multiplicaron mis angustiadores; muchos se levantan sobre mí.
 
 ### 3:2
 
-Muchos dicen a mi alma: No hay salvación para ti en Dios. Selah.
+Muchos dicen a mi alma: No hay salvación para él en Dios. Selah.
 
 ### 3:3
 
-Pero tú, Yahveh, eres mi escudo, mi gloria y el que levanta mi cabeza.
+Y tú, Jehová, eres escudo en derredor de mí, mi gloria, y el que alza mi cabeza.
 
 ### 3:4
 
-A Yahveh clamo con mi voz, y él me responde desde su monte santo. Selah.
+Con mi voz a Jehová clamo, y me responde desde el monte de su santidad. Selah.
 
 ### 3:5
 
-Yo me acosté, y dormí; desperté, porque Yahveh me sostiene.
+Yo me acosté y dormí; desperté, porque Jehová me sostiene.
 
 ### 3:6
 
-No temeré a multitudes de pueblo, que en derredor me han rodeado.
+No temeré de miríadas de pueblo que alrededor se pusieron sobre mí.
 
 ### 3:7
 
-Levántate, Yahveh, salva-me, Dios, porque has golpeado a todos mis enemigos en la mandíbula; has roto los dientes de los malvados.
+Levántate, Jehová; sálvame, Dios mío; porque heriste a todos mis enemigos en la mejilla; los dientes de malvados quebraste.
 
 ### 3:8
 
-A Yahveh pertenece la salvación; sobre tu pueblo es tu bendición, Selah.
+A Jehová la salvación; sobre tu pueblo tu bendición. Selah.
 
 ## Capítulo 4
 
+
 ### 4:1
 
-Para el director, con instrumentos musicales, un cántico de David: En mi llamada, responde-me, Dios de mi justicia; en la angustia has ampliado mi lugar; muestra misericordia y escucha mi oración.
+Al director, en neghinot. Salmo de David. En mi llamar, respóndeme, Dios de mi justicia; en la angustia ensanchaste a mí; tenme misericordia y oye mi oración.
 
 ### 4:2
 
-Hijos de hombres, hasta cuándo amaréis la vanidad y buscaréis la mentira? Selah.
+Hijos de hombre, ¿hasta cuándo mi gloria a afrenta; aman ustedes vacío, buscan mentira. Selah.
 
 ### 4:3
 
-Y sabed que Yahveh distingue al justo para él; Yahveh escucha en mi llamada a mí.
+Y sepan ustedes que apartó Jehová un leal para sí; Jehová oirá en mi llamar a él.
 
 ### 4:4
 
-Enfureceos, pero no ofendáis; hablad en vuestros corazones sobre vuestros lechos y callad, Selah.
+Tiembelen ustedes, y no pequen; digan en su corazón sobre su lecho, y callen. Selah.
 
 ### 4:5
 
-Ofrece sacrificios de justicia y confía en Yahveh.
+Sacrifiquen ustedes sacrificios de justicia, y confíen hacia Jehová.
 
 ### 4:6
 
-Muchos dicen: ¿Quién nos mostrará bondad? Haznos probar tu luz, Yahveh.
+Muchos dicen: ¿Quién nos hará ver bien? Alza sobre nosotros la luz de tu rostro, Jehová.
 
 ### 4:7
 
-Has puesto alegría en mi corazón; en tiempo de cosecha y de vino abundante.
+Diste alegría en mi corazón, más que el tiempo en que su grano y su mosto se multiplicaron.
 
 ### 4:8
 
-En paz me acostaré y me dormiré, porque tú, Yahveh, solo, me habitas en confianza.
+En paz juntamente me acostaré y dormiré, porque tú, Jehová, solo, en seguridad me harás habitar.
 
 ## Capítulo 5
 
+
 ### 5:1
 
-Para el director, al sheminith, un cántico de David: Escucha, Yahveh, mi palabra; entiende mi grito.
+Al director, a las nejilot. Salmo de David. Mis dichos, da oído, Jehová; entiende mi meditación.
 
 ### 5:2
 
-Oye la voz de mi clamor, oh rey y Dios mío, porque a ti me postraré en oración.
+Atiende a la voz de mi clamor, rey mío y Dios mío, porque a ti oro.
 
 ### 5:3
 
-Señor, por la mañana escucharás mi voz; por la mañana te postraré y te buscaré.
+Jehová, por la mañana oirás mi voz; por la mañana ordenaré a ti, y esperaré.
 
 ### 5:4
 
-Porque no eres Dios de maldad; no te complacerás con los que hacen el mal.
+Porque no eres Dios que se deleita en maldad tú; no morará contigo el mal.
 
 ### 5:5
 
-No se establecerán los necios delante de tus ojos; aborreces a todos los que hacen el mal.
+No se presentarán los locos delante de tus ojos; aborreciste a todos los hacedores de iniquidad.
 
 ### 5:6
 
-Destruirás a los que hablan mentiras; aborrecerá a los que derraman sangre y engañan, oh Señor.
+Destruirás a los habladores de mentira; al varón de sangres y de engaño abominará Jehová.
 
 ### 5:7
 
-Y yo, en la multitud de tu misericordia, entraré en tu casa; adoraré en tu santuario con temor.
+Y yo, en abundancia de tu misericordia, entraré en tu casa; me postraré hacia el hekal de tu santidad en tu temor.
 
 ### 5:8
 
-Señor, ten misericordia de mí por tu justicia; por amor a tus siervos, guía mis pasos delante de mí.
+Jehová, guíame en tu justicia, por causa de mis acechadores; endereza delante de mí tu camino.
 
 ### 5:9
 
-Porque no hay en su boca sinceridad; su corazón es como un sepulcro abierto; su lengua se desliza con doblez.
+Porque no hay en su boca cosa firme; su interior es destrucciones; sepulcro abierto es su garganta; su lengua suavizan.
 
 ### 5:10
 
-Destruirás a los que te maldicen, porque caerán de sus montes; por la multitud de sus pecados los apartarás, porque se rebelan contra ti.
+Hazlos culpables, Dios; caigan de sus consejos; en abundancia de sus rebeliones empújalos, porque se rebelaron en ti.
 
 ### 5:11
 
-Y se alegrarán todos los que te temen; cantarán para siempre; sobre ellos te regocijarás; en ti se alegrarán los que aman tu nombre.
+Y se alegrarán todos los que se refugian en ti; para siempre gritarán de júbilo, y tú los cubrirás; y se gozarán en ti los amadores de tu nombre.
 
 ### 5:12
 
-Porque tú bendecirás al justo, oh Señor; como una corona de espinas, darás placer a los que te aman.
+Porque tú bendecirás al justo, Jehová; como con escudo, con favor lo coronarás.
 
 ## Capítulo 6
 
+
 ### 6:1
 
-Para el director, al sheminith, un cántico de David: Señor, no me reprendas en tu ira, ni me castigues en tu cólera.
+Al director, en neghinot, sobre la sheminit. Salmo de David. Jehová, no en tu nariz me reprendas, y no en tu furor me corrijas.
 
 ### 6:2
 
-Ten misericordia de mí, oh Señor, porque estoy afligido; cura a tu siervo, oh Señor, porque mi alma está angustiada.
+Tenme misericordia, Jehová, porque yo languidezco; sáname, Jehová, porque se turbaron mis huesos.
 
 ### 6:3
 
-Mi alma está muy angustiada, ¿hasta cuándo, oh Señor?
+Y mi alma se turbó mucho; y tú, Jehová, ¿hasta cuándo?
 
 ### 6:4
 
-Vuelve, oh Señor, líbrame, oh Señor, por tu misericordia.
+Vuelve, Jehová, libra mi alma; sálvame por causa de tu misericordia.
 
 ### 6:5
 
-Porque no hay en la muerte memoria de ti, en el Sheol, ¿quién te alabará?
+Porque no hay en la muerte memoria de ti; en el Sheol, ¿quién te dará gracias?
 
 ### 6:6
 
-Fatigado estoy con gemidos, toda la noche mojaré mi cama, en mis lágrimas mi lecho está empapado.
+Me cansé en mi gemir; hago nadar en toda noche mi lecho; con mi lágrima mi catre derrito.
 
 ### 6:7
 
-Se secó mi ojo por el enojo, estoy lejos de todos mis enemigos.
+Se consumió de pesar mi ojo; envejeció por todos mis angustiadores.
 
 ### 6:8
 
-Alejaos de mí, todos los obreros de iniquidad, porque el Señor ha oído el sonido de mis lamentos.
+Apártense de mí, todos los hacedores de iniquidad, porque oyó Jehová la voz de mi llanto.
 
 ### 6:9
 
-El Señor ha oído mi súplica, el Señor ha tomado mi oración.
+Oyó Jehová mi súplica; Jehová mi oración tomará.
 
 ### 6:10
 
-Se avergonzarán y temblarán mucho todos mis enemigos, se volverán y se avergonzarán pronto.
+Se avergonzarán y se turbarán mucho todos mis enemigos; volverán, se avergonzarán en un momento.
 
 ## Capítulo 7
 
+
 ### 7:1
 
-Para David, que cantó al Señor por las palabras de Cush, hijo de Yemini: Señor, mi Dios, en ti he hallado refugio, líbrame de todos mis perseguidores y sálvame.
+Shigayón de David, que cantó a Jehová sobre palabras de Kush hijo de Yeminí. Jehová Dios mío, en ti me refugié; sálvame de todos mis perseguidores, y líbrame,
 
 ### 7:2
 
-Para que no me devore como león mi alma, que no haya quien me libere.
+no sea que desgarre como león mi alma, despedazando, y no hay libertador.
 
 ### 7:3
 
-Señor, mi Dios, ¿he hecho esto? ¿Hay iniquidad en mis manos?
+Jehová Dios mío, si hice esto, si hay iniquidad en mis palmas,
 
 ### 7:4
 
-¿He tratado mal a mi amigo? ¿He librado a mis enemigos sin motivo?
+si pagué a mi pacificador mal, y despojé a mi angustiador en vacío,
 
 ### 7:5
 
-El enemigo me persigue y me alcanza, y me aplasta en la tierra; mi vida se dispersa en la tierra, y mi honor se convierte en polvo. Sela.
+persiga el enemigo mi alma, y alcance, y pisotee a tierra mi vida, y mi gloria al polvo haga habitar. Selah.
 
 ### 7:6
 
-¡Levántate, oh Señor, en tu ira, y en tu cólera sube sobre mis enemigos! Y despiértame conforme a tu juicio, oh Señor, conforme a tu ley.
+Levántate, Jehová, en tu nariz; álzate en furores de mis angustiadores; y despierta hacia mí; juicio mandaste.
 
 ### 7:7
 
-Y una multitud de pueblos rodeará, y sobre ella subirán al monte.
+Y congregación de pueblos te rodeará; y sobre ella, a la altura, vuelve.
 
 ### 7:8
 
-El Señor juzgará a las naciones; júzgame a mí, oh Señor, conforme a mi justicia y a mi integridad en mi interior.
+Jehová juzgará a los pueblos; júzgame, Jehová, conforme a mi justicia y conforme a mi integridad sobre mí.
 
 ### 7:9
 
-Acaba pronto con el mal, oh Dios; establece al justo, porque examinas los corazones y las entrañas, oh Dios, que eres justo.
+Acabe, por favor, el mal de los malvados, y establece al justo; y el que examina corazones y riñones es Dios justo.
 
 ### 7:10
 
-Mi escudo está en Dios, quien salva al hombre recto de corazón.
+Mi escudo está sobre Dios, salvador de los rectos de corazón.
 
 ### 7:11
 
-Dios juzga al justo, y Dios encolerizado cada día.
+Dios es juez justo, y Dios se indigna en todo día.
 
 ### 7:12
 
-Si no vuelve, hará girar su espada; su arco está preparado, y él lo ha hecho.
+Si no vuelve, su espada afilará; su arco tensó y lo preparó.
 
 ### 7:13
 
-Y le prepara armas de muerte; sus flechas son para matar.
+Y para sí preparó instrumentos de muerte; sus flechas para perseguidores hace.
 
 ### 7:14
 
-He aquí que da a luz al aborto y da a luz al trabajo, y da a luz a la mentira.
+He aquí, concibe iniquidad, y está preñado de trabajo, y da a luz mentira.
 
 ### 7:15
 
-Excava un pozo y lo abre, y cae en la misma trampa que preparó.
+Pozo cavó y lo ahondó, y cayó en la fosa que hace.
 
 ### 7:16
 
-Su trabajo volverá sobre su cabeza, y su violencia descenderá sobre su cuero cabelludo.
+Volverá su trabajo sobre su cabeza, y sobre su coronilla su violencia descenderá.
 
 ### 7:17
 
-Alabaré al Señor conforme a su justicia, y cantaré el nombre del Señor Altísimo.
+Daré gracias a Jehová conforme a su justicia, y salmodiaré el nombre de Jehová Altísimo.
 
 ## Capítulo 8
 
+
 ### 8:1
 
-Para el director: Al cítara gítica. De David. Señor nuestro, ¿cuán grande es tu nombre en toda la tierra! Has elevado tu gloria sobre los cielos.
+Al director, sobre la guitit. Salmo de David. Jehová, Adonai nuestro, cuán majestuoso es tu nombre en toda la tierra, que diste tu esplendor sobre los cielos.
 
 ### 8:2
 
-De la boca de los niños y de los lactantes estableces la fuerza para tus enemigos, para que deseches al enemigo y al que te odia.
+De boca de niños y lactantes fundaste fuerza, por causa de tus angustiadores, para hacer cesar al enemigo y al vengador.
 
 ### 8:3
 
-Porque contemplo tus cielos, obra de tus dedos, la luna y las estrellas, que has establecido.
+Cuando veo tus cielos, obra de tus dedos, luna y estrellas que estableciste,
 
 ### 8:4
 
-¿Qué es el hombre para que tú le recuerdes, y el hijo del hombre para que le tengas en cuenta?
+¿qué es el mortal, que te acuerdas de él, y el hijo de hombre, que lo visitas?
 
 ### 8:5
 
-Le faltas poco para ser Dios, y le pones una corona de gloria y de esplendor.
+Y lo hiciste faltar poco de Dios, y de gloria y honor lo coronas.
 
 ### 8:6
 
-Le subyugas a tus obras; todo lo que has puesto debajo de sus pies.
+Lo haces dominar en las obras de tus manos; todo pusiste debajo de sus pies:
 
 ### 8:7
 
-Las ovejas y los bueyes, todo eso, y también las bestias del campo.
+ovejas y bueyes, todos ellos, y también las bestias del campo,
 
 ### 8:8
 
-Las aves del cielo y los peces del mar, que pasan por los caminos del mar.
+ave de los cielos y peces del mar, el que pasa por las sendas de los mares.
 
 ### 8:9
 
-Señor nuestro, ¿cuán grande es tu nombre en toda la tierra!
+Jehová, Adonai nuestro, cuán majestuoso es tu nombre en toda la tierra.
 
 ## Capítulo 9
 
+
 ### 9:1
 
-Para el director: Al cítara de siete cuerdas. De David. Alabaré al Señor con todo mi corazón; recitaré todas tus maravillas.
+Al director, Almut-labén. Salmo de David. Daré gracias a Jehová con todo mi corazón; contaré todas tus maravillas.
 
 ### 9:2
 
-Me alegraré y me gozaré en ti; cantaré tu nombre, oh Altísimo.
+Me alegraré y me gozaré en ti; salmodiaré tu nombre, Altísimo.
 
 ### 9:3
 
-Cuando se alejan mis enemigos, tropiezan y perecen delante de ti.
+En el volver mis enemigos atrás, tropezarán y perecerán de tus faces.
 
 ### 9:4
 
-Porque juzgas mi causa y me das la razón; tomas asiento como juez justo.
+Porque hiciste mi juicio y mi causa; te sentaste a trono, juez de justicia.
 
 ### 9:5
 
-Has condenado a las naciones, has destruido a los malvados; has borrado su nombre para siempre.
+Reprendiste naciones, destruiste al malvado; su nombre borraste para siempre y perpetuo.
 
 ### 9:6
 
-Has destruido a tus enemigos; las ruinas han desaparecido para siempre; has abandonado las ciudades; han perecido sus nombres.
+El enemigo: se acabaron las destrucciones para siempre; y ciudades arrancaste; pereció su memoria ellos.
 
 ### 9:7
 
-Pero el Señor reina para siempre; él se establece como juez justo.
+Y Jehová para siempre se sienta; estableció para el juicio su trono.
 
 ### 9:8
 
-Y él juzgará al mundo con justicia; dirimirá a las naciones con rectitud.
+Y él juzgará el mundo en justicia; juzgará a los pueblos en rectitudes.
 
 ### 9:9
 
-Y Yahvé sea un refugio para ti, un refugio en tiempos de angustia.
+Y sea Jehová fortaleza al oprimido, fortaleza para tiempos en angustia.
 
 ### 9:10
 
-Y confiarán en ti los que conocen tu nombre, porque no abandonas a los que te buscan, Yahvé.
+Y confiarán en ti los conocedores de tu nombre, porque no abandonaste a tus buscadores, Jehová.
 
 ### 9:11
 
-Cantad a Yahvé, que habita en Sion; dad a conocer entre las naciones sus maravillas.
+Salmodien a Jehová, el que se sienta en Tsiyón; anuncien en los pueblos sus hechos.
 
 ### 9:12
 
-Porque el que busca la justicia la recuerda; no olvida el clamor de los pobres.
+Porque el que busca sangres a ellos recordó; no olvidó el clamor de los anavím.
 
 ### 9:13
 
-Sé bondadoso conmigo, Yahvé; mira mi angustia de los que me aborrecen; líbrame de las puertas de la muerte.
+Tenme misericordia, Jehová; ve mi aflicción de mis aborrecedores, tú que me levantas de las puertas de la muerte,
 
 ### 9:14
 
-Para que proclame todas tus alabanzas en las puertas de la hija de Sion; me alegraré en tu salvación.
+para que yo cuente todas tus alabanzas en las puertas de la hija de Tsiyón; me gozaré en tu salvación.
 
 ### 9:15
 
-Han hundido naciones en el abismo, han caído en un pozo que hicieron; en una trampa que urdieron, se han quedado atrapados sus pies.
+Se hundieron las naciones en la fosa que hicieron; en la red que ocultaron, quedó presa su pie.
 
 ### 9:16
 
-Se ha hecho conocer Yahvé con juicio; en la obra de sus manos ha castigado al malvado. Selah.
+Fue conocido Jehová; juicio hizo; en la obra de sus palmas es atrapado el malvado. Higayón. Selah.
 
 ### 9:17
 
-Los malvados volverán al Sheol; todas las naciones que olvidan a Dios.
+Volverán los malvados al Sheol; todas las naciones olvidadizas de Dios.
 
 ### 9:18
 
-Porque no para siempre olvidará el pobre; la esperanza de los humildes no perecerá para siempre.
+Porque no para siempre será olvidado el necesitado; la esperanza de los aniyím no perecerá para siempre.
 
 ### 9:19
 
-Levántate, Yahvé; no permitas que el hombre se fortalezca. Juzgarán las naciones ante tu presencia. Selah.
+Levántate, Jehová; no se fortalezca el mortal; sean juzgadas las naciones sobre tu rostro.
 
 ### 9:20
 
-Establece, Yahvé, una enseñanza para ellos; las naciones la conocerán. El hombre es él mismo. Selah.
+Pon, Jehová, terror a ellos; sepan las naciones: mortal ellos. Selah.
 
 ## Capítulo 10
 
+
 ### 10:1
 
-¿Por qué, Yahvé, te mantienes lejos? ¿Por qué te ocultas en momentos de angustia?
+¿Por qué, Jehová, te paras en lejanía, te ocultas para tiempos en angustia?
 
 ### 10:2
 
-En la soberbia del malvado arderá el pobre; en sus planes, en los que se han esforzado, caerán.
+En la soberbia del malvado persigue al pobre; son atrapados en las maquinaciones que idearon.
 
 ### 10:3
 
-Porque el malvado se gloría en su codicia; el que se aparta de la ley bendecirá, pero Yahvé desprecia.
+Porque alabó el malvado sobre el deseo de su alma, y el avaro bendice, desprecia a Jehová.
 
 ### 10:4
 
-El malvado se ensoberbece con arrogancia; no buscará a Dios. Todo lo que planea no tiene a Dios.
+Malvado, conforme a la altura de su nariz: no busca; no hay Dios, todas sus maquinaciones.
 
 ### 10:5
 
-Se encomiendan a su camino en todo momento; piensan que tus juicios son muy altos para ellos. Todos sus adversarios exhalarán fuego contra ellos.
+Prosperan sus caminos en todo tiempo; altura tus juicios frente a él; a todos sus angustiadores sopla en ellos.
 
 ### 10:6
 
-Dice en su corazón: ‘No temblaré jamás’. En cada generación, no habrá calamidad.
+Dijo en su corazón: No seré movido; de generación y generación, que no en mal.
 
 ### 10:7
 
-Su boca maldice, su lengua está llena de engaños; bajo su lengua hay trabajo y calamidad.
+Maldición llena su boca, y engaños y fraude; debajo de su lengua trabajo e iniquidad.
 
 ### 10:8
 
-Se sienta en emboscadas en las casas, en los secretos mata al inocente; sus ojos están en lo que es malo.
+Se sienta en emboscada de aldeas; en los ocultos mata al inocente; sus ojos al desvalido acechan.
 
 ### 10:9
 
-Se embosca en los secretos como un león en su guarida; embosca al pobre en su casa para atraparlo; lo atrapa enredándolo en redes.
+Acecha en el oculto como león en su guarida; acecha para arrebatar al pobre; arrebata al pobre al arrastrarlo en su red.
 
 ### 10:10
 
-Se corrompe y caerá en la abundancia de sus riquezas.
+Se encorva, se agacha, y cae el desvalido en sus fuertes.
 
 ### 10:11
 
-Dice en su corazón: ‘Ha olvidado Dios; él se ha escondido su rostro, no verá para siempre’.
+Dijo en su corazón: Olvidó El; ocultó su rostro; no vio para siempre.
 
 ### 10:12
 
-¡Levántate, oh Jehová, oh Dios! Alza tu mano; no olvides a los pobres.
+Levántate, Jehová; Dios, alza tu mano; no olvides a los anavím.
 
 ### 10:13
 
-¿Por qué desprecia el pecador a Dios? Dice en su corazón: ‘No te importa’.
+¿Sobre qué despreció el malvado a Dios? Dijo en su corazón: No buscarás.
 
 ### 10:14
 
-Ves que estás trabajando y enfadado; te miras para dar con tu mano contra ellos. El pobre será abandonado; tú fuiste un ayudador.
+Viste, porque tú el trabajo y la ira miras, para dar en tu mano; a ti deja el desvalido; al huérfano tú fuiste ayudador.
 
 ### 10:15
 
-Rompe el brazo del pecador; busca su maldad, pero no la encontrarás.
+Quiebra el brazo del malvado; y al malo, busca su maldad; no hallarás.
 
 ### 10:16
 
-Jehová es rey para siempre y para siempre; los pueblos perecerán de su tierra.
+Jehová rey eterno y perpetuo; perecieron las naciones de su tierra.
 
 ### 10:17
 
-Has escuchado la súplica de los humildes, oh Jehová; preparas su corazón; escuchas su oreja.
+El deseo de los humildes oíste, Jehová; prepararás su corazón, harás atento tu oído,
 
 ### 10:18
 
-Para juzgar al huérfano y al oprimido, no añadirá más; para hacer temblar a los hombres en la tierra.
+para juzgar al huérfano y al oprimido; no añadirá más aterrorizar mortal de la tierra.
 
 ## Capítulo 11
 
+
 ### 11:1
 
-Para el director. De David. En Jehová he hallado refugio. ¿Cómo dirán a mi alma: Huye a las aves?
+Al director. De David. En Jehová me refugié; ¿cómo dicen ustedes a mi alma: Monte de ustedes, pájaro?
 
 ### 11:2
 
-Porque he aquí que los malvados preparan sus arcos, ponen sus flechas en la cuerda para disparar en las tinieblas a los rectos de corazón.
+Porque he aquí los malvados tensan el arco; prepararon su flecha sobre la cuerda, para disparar en oscuridad a los rectos de corazón.
 
 ### 11:3
 
-Porque los impíos caerán; pero el justo actuará con fidelidad.
+Porque los cimientos son derribados; el justo, ¿qué hizo?
 
 ### 11:4
 
-Jehová está en su santuario; Jehová está en los cielos; su trono está sobre los cielos; sus ojos miran, sus pestañas examinan a los hijos de los hombres.
+Jehová está en el hekal de su santidad; Jehová, en los cielos su trono; sus ojos ven; sus párpados examinan a los hijos de hombre.
 
 ### 11:5
 
-Jehová juzga a los justos, y a los malvados y a los que aman la violencia, su alma aborrece.
+Jehová al justo examina; y al malvado y al amador de violencia aborreció su alma.
 
 ### 11:6
 
-Hará llover sobre los malvados carbones ardientes y llamas y nubes de viento.
+Lloverá sobre los malvados lazos, fuego y azufre, y viento de ardores, porción de su copa.
 
 ### 11:7
 
-Porque Jehová es justo; ama la justicia; la rectitud ve su rostro.
+Porque justo es Jehová; justicias ama; el recto verá su rostro.
 
 ## Capítulo 12
 
+
 ### 12:1
 
-Para el director. Al sheminith. De David. Salva, Jehová, porque el fiel ha acabado; porque los fieles se han desvanecido de entre los hombres.
+Al director, sobre la sheminit. Salmo de David. Salva, Jehová, porque se acabó el leal; porque desaparecieron los fieles de entre los hijos de hombre.
 
 ### 12:2
 
-Mentirán el uno al otro con labios engañosos; hablarán con lengua doble.
+Vanidad hablan, varón con su prójimo; labio de suavidades; con corazón y corazón hablan.
 
 ### 12:3
 
-Jehová cortará toda lengua engañosa, la lengua que habla cosas grandes.
+Cortará Jehová todos los labios de suavidades, lengua que habla grandezas,
 
 ### 12:4
 
-Que dicen: Con nuestra lengua haremos lo que nos plazca; ¿quién es nuestro señor?
+que dijeron: Con nuestra lengua nos haremos fuertes; nuestros labios están con nosotros; ¿quién señor a nosotros?
 
 ### 12:5
 
-Del robo de los pobres y del acoso de los necesitados, ahora levantará la voz; Jehová dirá: Yo pondré en Sión un Salvador, que será para los pobres un motivo de gloria.
+Por el saqueo de los pobres, por el gemir de los necesitados, ahora me levantaré, dice Jehová; pondré en salvación al que sopla por él.
 
 ### 12:6
 
-Las palabras de Jehová son puras palabras, como el oro refinado en un crisol, probado siete veces.
+Dichos de Jehová, dichos puros; plata refinada en crisol a tierra, depurada siete veces.
 
 ### 12:7
 
-Tú, Jehová, los guardarás; tú los protegerás de la generación de este mundo para siempre.
+Tú, Jehová, los guardarás; lo preservarás de esta generación para siempre.
 
 ### 12:8
 
-Los malvados andan en círculo, como la escoria de los hijos de Adán.
+Alrededor los malvados andan, cuando se exalta vileza a los hijos de hombre.
 
 ## Capítulo 13
 
+
 ### 13:1
 
-Al músico director: Un salmo de David. Hasta cuándo, Jehová, te olvidarás de mí para siempre? Hasta cuándo te esconderás tu rostro de mí?
+Al director. Salmo de David. ¿Hasta cuándo, Jehová, me olvidarás para siempre? ¿Hasta cuándo ocultarás tu rostro de mí?
 
 ### 13:2
 
-Hasta cuándo pondré consejos en mi alma? Todo el día tengo dolor en mi corazón. Hasta cuándo mi enemigo me pisoteará?
+¿Hasta cuándo pondré consejos en mi alma, dolor en mi corazón de día? ¿Hasta cuándo se alzará mi enemigo sobre mí?
 
 ### 13:3
 
-Mírame, Jehová, Dios mío; ilumina mis ojos, para que no duerma la muerte.
+Mira, respóndeme, Jehová Dios mío; ilumina mis ojos, no sea que duerma la muerte,
 
 ### 13:4
 
-Para que no diga mi enemigo: Lo he vencido. Mis adversarios se alegrarán, porque yo vacilo.
+no sea que diga mi enemigo: Lo pude; mis angustiadores se gocen cuando yo sea movido.
 
 ### 13:5
 
-Pero yo me he refugiado en tu gracia. Mi corazón se alegra en tu salvación.
+Y yo en tu misericordia confié; se gozará mi corazón en tu salvación.
 
 ### 13:6
 
-Cantaré a Jehová, porque me ha recompensado.
+Cantaré a Jehová, porque pagó sobre mí.
 
 ## Capítulo 14
 
+
 ### 14:1
 
-Al músico director: Un salmo de David. El necio dice en su corazón: No hay Dios. Se corrompieron, hicieron abominable la obra; no hay quien haga el bien.
+Al director. De David. Dijo el necio en su corazón: No hay Dios. Corrompieron, hicieron abominable hecho; no hay hacedor de bien.
 
 ### 14:2
 
-Jehová desde los cielos miró a los hijos de Adán, para ver si hay algún entendido, que busque a Dios.
+Jehová desde los cielos miró sobre los hijos de hombre, para ver si hay entendido, buscador de Dios.
 
 ### 14:3
 
-Todos se corrompieron juntos; no hay quien haga el bien, no hay siquiera uno.
+El todo se apartó; juntos se corrompieron; no hay hacedor de bien; no hay tampoco uno.
 
 ### 14:4
 
-¿No saben todos los que hacen el mal que comen el pan del Señor, pero no le invocan?
+¿No conocieron todos los hacedores de iniquidad, comedores de mi pueblo comieron pan; a Jehová no invocaron?
 
 ### 14:5
 
-Allí temen el temor, porque Dios está en la generación de los justos.
+Allí temieron temor, porque Dios está en la generación del justo.
 
 ### 14:6
 
-La conseja del pobre se burlan, porque el Señor es su refugio.
+El consejo del pobre avergonzarán ustedes, porque Jehová es su refugio.
 
 ### 14:7
 
-¿Quién dará de Sion la salvación de Israel? Cuando el Señor devuelva la cautividad de su pueblo, Jacob se alegrará, Israel se regocijará.
+¡Quién diera desde Tsiyón la salvación de Israel! En el volver Jehová el cautiverio de su pueblo, se gozará Yaakov, se alegrará Israel.
 
 ## Capítulo 15
 
+
 ### 15:1
 
-Salmo de David. Señor, ¿quién morará en tu tienda? ¿Quién vivirá en tu monte santo?
+Salmo de David. Jehová, ¿quién morará en tu tienda? ¿Quién habitará en el monte de tu santidad?
 
 ### 15:2
 
-El que anda con integridad y obra la justicia, y habla la verdad en su corazón.
+El que anda íntegro, y hace justicia, y habla verdad en su corazón;
 
 ### 15:3
 
-No ha hablado con engaño con su lengua, no ha hecho daño a su prójimo, y no ha recibido sobre su compañero una calumnia.
+no calumnió sobre su lengua, no hizo a su prójimo mal, y afrenta no alzó sobre su cercano;
 
 ### 15:4
 
-En mi presencia ha sido menospreciado, ha sido aborrecido, pero a los que temen al Señor los honrará, jura mal y no teme.
+despreciado en sus ojos el rechazado, y a los temerosos de Jehová honra; juró para mal, y no cambia;
 
 ### 15:5
 
-No ha dado su dinero a interés, ni ha tomado soborno contra el inocente. El que hace estas cosas no será inestable para siempre.
+su plata no dio a interés, y soborno sobre inocente no tomó. El hacedor de estas no será movido para siempre.
 
 ## Capítulo 16
 
+
 ### 16:1
 
-Oración de David. Señor, guarda a tu siervo, porque yo me he refugiado en ti.
+Mictam de David. Guárdame, Dios, porque me refugié en ti.
 
 ### 16:2
 
-Al Señor, mi Señor, he dicho: Eres tú mi Señor, no eres tú mi bien.
+Dijiste a Jehová: Adonai eres tú; mi bien no está sobre ti.
 
 ### 16:3
 
-Para los santos que están en la tierra son ellos, y para los grandes de todos mis bienes en ellos.
+A los santos que en la tierra ellos, y los majestuosos: todo mi deleite en ellos.
 
 ### 16:4
 
-Se multiplicarán sus amarguras, pero yo no llevaré sus sacrificios de sangre; no pronunciaré su nombre sobre mis labios.
+Se multiplicarán sus dolores; otro apresuraron. No derramaré sus libaciones de sangre, y no alzaré sus nombres sobre mis labios.
 
 ### 16:5
 
-Señor, mi porción y mi copa; tú eres quien sostiene mi suerte.
+Jehová, porción de mi sorteo y mi copa; tú sostienes mi suerte.
 
 ### 16:6
 
-Han caído sobre mí en lugares de bondad; también mi herencia se ha mejorado sobre mí.
+Cuerdas cayeron a mí en los placenteros; también herencia hermoseó sobre mí.
 
 ### 16:7
 
-Bendeciré al Señor que me aconseja; también por las noches me corrije.
+Bendeciré a Jehová, que me aconsejó; también de noches me disciplinan mis riñones.
 
 ### 16:8
 
-Hice al Señor mi constante delante; porque a mi derecha no vacilaré.
+Puse a Jehová delante de mí siempre; porque está a mi derecha, no seré movido.
 
 ### 16:9
 
-Por eso se alegra mi corazón y se regocija mi gloria; también mi carne descansará en confianza.
+Por tanto se alegró mi corazón, y se gozó mi gloria; también mi carne habitará en confianza.
 
 ### 16:10
 
-Porque no me dejarás en el abismo, no permitirás que tu fiel vea corrupción.
+Porque no abandonarás mi alma al sheol; no darás a tu hasid a ver fosa.
 
 ### 16:11
 
-Me enseñarás el camino de la vida; pleno de alegrías delante de ti, las delicias a tu derecha para siempre.
+Me harás conocer la senda de vidas; hartura de alegrías con tu rostro; placenteras a tu derecha para siempre.
 
 ## Capítulo 17
 
+
 ### 17:1
 
-Oración de David: Señor, escucha justicia, presta oídos a mi alabanza, escucha mi oración sin mentira.
+Oración de David. Oye, Jehová, justicia; atiende mi grito; inclina el oído a mi oración, sin labios de engaño.
 
 ### 17:2
 
-Delante de ti sale mi juicio; tus ojos miran a los rectos.
+De delante de ti salga mi juicio; tus ojos vean rectitudes.
 
 ### 17:3
 
-Has probado mi corazón, has visitado de noche; has purificado a mi espíritu; no hallaste impureza en tus labios no ha pasado mi propósito.
+Escudriñaste mi corazón, visitaste de noche; me refinaste, no hallarás; tramé, no pasará mi boca.
 
 ### 17:4
 
-Por las obras de los hombres, por la palabra de tus labios, he guardado los caminos del rebelde.
+En cuanto a las obras de hombre, por la palabra de tus labios yo guardé las sendas del violento.
 
 ### 17:5
 
-Sostengo mis pasos en tus huellas; no se tambalean mis pies.
+Sostén mis pasos en tus surcos; no titubearon mis pies.
 
 ### 17:6
 
-Te he llamado, oh Dios, porque me respondes; inclina tu oído a mí, escucha mis palabras.
+Yo te invoqué, porque me responderás, Dios; inclina tu oído a mí, oye mi dicho.
 
 ### 17:7
 
-Separa tu misericordia de los que te ayudan, oh Salvador de los que te aman, de los que se levantan contra mí.
+Haz maravillosos tus hesed, salvador de los que se refugian de los que se levantan, con tu derecha.
 
 ### 17:8
 
-Guíame como a un ojo de una hija, en la sombra de tus alas me escondes.
+Guárdame como pupila, hija de ojo; a la sombra de tus alas me esconderás.
 
 ### 17:9
 
-De los malvados me has apartado; mis enemigos me rodean con furia.
+De delante de los malos que me despojaron; mis enemigos con alma me cercan sobre mí.
 
 ### 17:10
 
-Sus bocas están selladas, hablan con arrogancia.
+Su grasa cerraron; con su boca hablaron con soberbia.
 
 ### 17:11
 
-Ahora me rodean, sus ojos me buscan para tirarme al suelo.
+Nuestros pasos ahora; sus ojos pusieron para inclinar en la tierra.
 
 ### 17:12
 
-Como un león acecha para devorar, así se esconde el malvado en la sombra.
+Su semejanza como león que anhela desgarrar, y como leoncello sentado en escondrijos.
 
 ### 17:13
 
-Levántate, oh Señor, adelante tus rostros, derriba al enemigo; líbrame de los malvados con tu espada.
+Levántate, Jehová; adelántate a su rostro, abátelo; libera mi alma del malo, tu espada.
 
 ### 17:14
 
-Oh Señor, destruye a tus enemigos, destruye a los malvados desde la cuna; su porción en la vida es llenar sus vientres, engordan con hijos y dejan a sus pequeños.
+De mortales, tu mano, Jehová, de mortales del mundo; su porción en las vidas; llenas su vientre; se saciarán hijos, y dejarán su resto a sus pequeñuelos.
 
 ### 17:15
 
-En justicia miraré tu rostro, me saciaré con tu imagen en la mañana.
+Yo en justicia veré tu rostro; me saciaré al despertar de tu forma.
 
 ## Capítulo 18
 
+
 ### 18:1
 
-Para el director: de David, el siervo de Jehová, que habló estas palabras a Jehová en el día en que Jehová le libró de la mano de todos sus enemigos y de Saúl, y dijo: Tú me mostrarás tu gracia, Jehová, fortalecerás mi espíritu.
+Al director. Del siervo de Jehová, de David, que habló a Jehová las palabras de esta canción en el día que Jehová lo libró de la palma de todos sus enemigos y de la mano de Shaúl. Y dijo: Te amaré, Jehová, mi fuerza.
 
 ### 18:2
 
-Señor, mi roca y mi fortaleza, mi libertador, mi roca, en él me refugio, mi escudo y mi cuerno de salvación, mi alto refugio.
+Jehová es mi peñasco y mi fortaleza y mi escapador; mi Dios, mi peña, me refugiaré en él; mi escudo y cuerno de mi salvación, mi alto.
 
 ### 18:3
 
-En ti, Señor, me glorío, y a mis enemigos me quejo.
+Alabado invocaré a Jehová, y de mis enemigos seré salvado.
 
 ### 18:4
 
-Me rodean las redes de la muerte, y los torrentes de la muerte me asaltan.
+Me cercaron cuerdas de muerte, y torrentes de beliyaal me aterraron.
 
 ### 18:5
 
-Las redes del abismo me rodean, las mallas de la muerte me alcanzan.
+Cuerdas de sheol me rodearon; me anticiparon lazos de muerte.
 
 ### 18:6
 
-En la angustia me llamo a ti, Señor, y a mi Dios suplico. De su templo escucha mi voz, y ante él llega mi súplica.
+En la angustia a mí invocaré a Jehová, y a mi Dios clamaré; oirá desde su palacio mi voz, y mi clamor delante de él vendrá a sus oídos.
 
 ### 18:7
 
-Temblo la tierra y tiembla, los cimientos de los montes se estremecen, se estremece porque se enoja con él.
+Y tembló y se sacudió la tierra, y los fundamentos de los montes se estremecieron, y se sacudieron, porque ardió a él.
 
 ### 18:8
 
-Sube el humo de su nariz, y de su boca sale fuego que devora, carbones arden a su alrededor.
+Subió humo en su nariz, y fuego de su boca come; brasas ardieron de él.
 
 ### 18:9
 
-Tuerce los cielos y baja, y sobre sus pies nubes.
+Y extendió los cielos y bajó, y densura debajo de sus pies.
 
 ### 18:10
 
-Monta sobre los querubines y vuela; sobre las alas del viento se desliza.
+Y montó sobre keruv y voló, y se deslizó sobre alas de viento.
 
 ### 18:11
 
-Pone la oscuridad como su tienda, alrededor de él como cortina, oscuro como las aguas, nubes de las nubes.
+Pone oscuridad su escondite; alrededor de él su cabaña, oscuridad de aguas, nubes de polvos finos.
 
 ### 18:12
 
-En la luz de su presencia pasan nubes, enjaretas y carbones de fuego.
+Desde el resplandor delante de él sus nubes pasaron, granizo y brasas de fuego.
 
 ### 18:13
 
-En los cielos los hace temblar, el Altísimo hace oír su voz, enjaretas y carbones de fuego.
+Y tronó en los cielos Jehová, y Elión dio su voz; granizo y brasas de fuego.
 
 ### 18:14
 
-Lancé mis flechas y las dispersé, y con muchos relámpagos los confundí.
+Y envió sus flechas y los esparció, y relámpagos abundó y los confundió.
 
 ### 18:15
 
-Se hicieron visibles los cauces de los ríos, y las bases del mundo se desvanecieron por tu alarma, Señor, por el soplo de tu ira.
+Y se vieron cauces de aguas, y se descubrieron los fundamentos de tevel desde tu reprensión, Jehová, desde el soplo del aliento de tu nariz.
 
 ### 18:16
 
-Desde lo alto me envía, me toma de los muchos ríos.
+Enviará desde la altura, me tomará; me sacará de aguas muchas.
 
 ### 18:17
 
-Me salva de mi enemigo poderoso y de mis adversarios, porque se han fortalecido contra mí.
+Me librará de mi enemigo fuerte, y de mis odiadores, porque se fortalecieron más que yo.
 
 ### 18:18
 
-Me preceden en el día de mi angustia, y el Señor se convierte en mi apoyo.
+Me anticiparán en el día de mi calamidad; y fue Jehová apoyo a mí.
 
 ### 18:19
 
-Me saca al amplio espacio, me libra porque me agrada.
+Y me sacó a ensanche; me soltará, porque se deleitó en mí.
 
 ### 18:20
 
-El Señor me recompensará según mi justicia, según la integridad de mis manos me restituirá.
+Me retribuirá Jehová conforme a mi justicia; conforme a la limpieza de mis manos hará volver a mí.
 
 ### 18:21
 
-Porque guardé los caminos del Señor, y no me desvié de mi Dios.
+Porque guardé los caminos de Jehová, y no me hice malo de mi Dios.
 
 ### 18:22
 
-Porque todos mis juicios están delante de mí, y no he desviado de mis leyes.
+Porque todos sus juicios están delante de mí, y sus estatutos no apartaré de mí.
 
 ### 18:23
 
-Y fui sincero con él, y guardéme de mi pecado.
+Y fui íntegro con él, y me guardé de mi iniquidad.
 
 ### 18:24
 
-Y el Señor me sienta según mi justicia, según la integridad de mis manos delante de él.
+Y Jehová hizo volver a mí conforme a mi justicia, conforme a la limpieza de mis manos delante de sus ojos.
 
 ### 18:25
 
-Con el hombre piadoso muestra misericordia, con el hombre recto muestra rectitud.
+Con el hasid te harás hasid; con el valiente íntegro te harás íntegro.
 
 ### 18:26
 
-Con el hombre sincero serás sincero, y con el doblez serás astuto.
+Con el puro te harás puro, y con el torcido te enredarás.
 
 ### 18:27
 
-Porque tú eres quien salva al pobre, y los ojos altivos abatirás.
+Porque tú al pueblo afligido salvarás, y ojos altos abatirás.
 
 ### 18:28
 
-Porque tú iluminas mi lámpara, Jehová, mi Dios, iluminará mis tinieblas.
+Porque tú alumbrarás mi lámpara; Jehová mi Dios alumbrará mi oscuridad.
 
 ### 18:29
 
-Porque contigo romperé ejércitos, y con Dios derribaré murallas.
+Porque en ti correré tropa, y en mi Dios saltaré muro.
 
 ### 18:30
 
-Dios es perfecto en su camino, la palabra de Jehová es pura; él es escudo para todos los que en él confían.
+El El, íntegro es su camino; el dicho de Jehová es refinada; escudo es él a todos los que se refugian en él.
 
 ### 18:31
 
-¿Quién es Dios además de Jehová, y quién es la roca aparte de nuestro Dios?
+Porque ¿quién es Dios aparte de Jehová? Y ¿quién peña aparte de nuestro Dios?
 
 ### 18:32
 
-El Dios que me viste de fuerza, y que me enseñó mis caminos.
+El El que me ciñe de fuerza, y dio íntegro mi camino.
 
 ### 18:33
 
-Que me endereza mis pies como los de los ciervos, y me pone en las alturas.
+Igualando mis pies como las ciervas, y sobre mis alturas me hará parar.
 
 ### 18:34
 
-Que me enseña mis manos para la guerra, y mis brazos para el arco de bronce.
+Enseñando mis manos a la batalla, y tensó arco de bronce mis brazos.
 
 ### 18:35
 
-Y me da la espada de tu salvación, y tu derecha me sostiene, y tu bondad me engrandece.
+Y me diste el escudo de tu salvación, y tu derecha me sostendrá, y tu mansedumbre me agrandará.
 
 ### 18:36
 
-Ampliarás mis pasos debajo de mí, y mis huellas no se moverán.
+Ensanchas mi paso debajo de mí, y no titubearon mis tobillos.
 
 ### 18:37
 
-Persiguiré a mis enemigos y los alcanzaré, y no volveré hasta que los destruya.
+Perseguiré a mis enemigos y los alcanzaré, y no volveré hasta acabarlos.
 
 ### 18:38
 
-Los apretaré y no podrán levantarse, caerán bajo mis pies.
+Los heriré y no podrán levantarse; caerán debajo de mis pies.
 
 ### 18:39
 
-Me ceñiste de fuerza para la guerra, derribaste a mis enemigos bajo mis pies.
+Y me ceñiste fuerza a la batalla; abatirás a mis levantados debajo de mí.
 
 ### 18:40
 
-Has dado la espalda a mis enemigos y a mis adversarios los he derrotado.
+Y a mis enemigos diste a mí nuca, y a mis odiadores los exterminaré.
 
 ### 18:41
 
-Claman, pero no hay quien los salve; miran a Dios, pero Él no responde.
+Clamarán, y no hay salvador; sobre Jehová, y no les respondió.
 
 ### 18:42
 
-Los haré como polvo en la cara del viento, como lodo en las calles los esparciré.
+Y los moleré como polvo sobre la faz del viento; como lodo de calles los vaciaré.
 
 ### 18:43
 
-Me librarás de los pleitos del pueblo, me pondrás a la cabeza de las naciones; un pueblo que no conocía me servirá.
+Me escaparás de las contenciones del pueblo; me pondrás por cabeza de naciones; pueblo que no conocí me servirán.
 
 ### 18:44
 
-Para escuchar la oreja escucharán a mí; los hijos de extraños mentirán acerca de mí.
+Al oír oído me oirán; hijos de extranjero se fingirán a mí.
 
 ### 18:45
 
-Los hijos de extraños se desvanecerán y temblarán fuera de sus fortalezas.
+Hijos de extranjero se marchitarán, y temblarán de sus encierros.
 
 ### 18:46
 
-Viva el Señor y bendito sea mi Roca, y exaltado sea el Dios de mi salvación.
+Vivo es Jehová, y bendita mi peña, y se alce el Dios de mi salvación.
 
 ### 18:47
 
-El Dios que me da venganza, y que somete a las naciones bajo mí.
+El El que da venganzas a mí, y somete pueblos debajo de mí;
 
 ### 18:48
 
-Me libra de mis enemigos y también de mis adversarios me exalta; de un hombre violento me salva.
+mi escapador de mis enemigos; también de mis levantados me exaltarás; de hombre de violencia me librarás.
 
 ### 18:49
 
-Por eso te alabo entre las naciones, Señor, y te entono himnos por tu nombre.
+Por tanto te alabaré en las naciones, Jehová, y a tu nombre cantaré.
 
 ### 18:50
 
-Es un monte de salvaciones para su rey, obra de bondad para su ungido, a David y a sus descendientes por siempre.
+Salvaciones de su rey, y haciendo hesed a su ungido, a David y a su semilla hasta olam.
 
 ## Capítulo 19
 
+
 ### 19:1
 
-Para el director: Salmo de David. Los cielos anuncian la gloria de Dios, y el firmamento anuncia la obra de sus manos.
+Al director. Salmo de David. Los cielos cuentan la gloria de Dios, y la obra de sus manos declara el firmamento.
 
 ### 19:2
 
-Día tras día emite una declaración, y noche tras noche revela el conocimiento.
+Día a día brota dicho, y noche a noche revela conocimiento.
 
 ### 19:3
 
-No hay habla, ni palabras, por donde no se oiga su voz.
+No hay dicho y no hay palabras; sin ser oída su voz.
 
 ### 19:4
 
-En toda la tierra sale su voz, y sus palabras a los confines del mundo. Ha puesto en ellos un tabernáculo para el sol.
+En toda la tierra salió su cuerda, y en el extremo de tevel sus palabras; para el sol puso tienda en ellos.
 
 ### 19:5
 
-Y él como novio sale de su recámara, se regocija como un gigante para correr el camino.
+Y él como novio sale de su dosel; se goza como valiente a correr senda.
 
 ### 19:6
 
-Desde el extremo del cielo sale su disco, y su curso hasta el extremo de él. Y nada se oculta de su calor.
+Desde el extremo de los cielos su salida, y su circuito hasta sus extremos, y no hay escondido de su calor.
 
 ### 19:7
 
-La ley de Jehová es perfecta, restaura el alma. La testimonio de Jehová es fiel, hace sabio al sencillo.
+La ley de Jehová es íntegra, que hace volver el alma; el testimonio de Jehová es fiel, que hace sabio al simple.
 
 ### 19:8
 
-Los preceptos de Jehová son rectos, alegran el corazón. El mandamiento de Jehová es puro, ilumina los ojos.
+Los preceptos de Jehová son rectos, que alegran el corazón; el mandamiento de Jehová es puro, que alumbra los ojos.
 
 ### 19:9
 
-El temor de Jehová es puro, permanece para siempre. Los juicios de Jehová son verdaderos, son justos juntos.
+El temor de Jehová es limpio, que permanece para siempre; los juicios de Jehová son verdad; se justificaron juntos.
 
 ### 19:10
 
-Más deseados que el oro, que el oro fino; y más dulces que el miel, que la gota del panal.
+Los deseables más que el oro y que el oro fino mucho, y más dulces que la miel y el panal de panales.
 
 ### 19:11
 
-También tu siervo los guarda; en guardarlos hay gran recompensa.
+También tu siervo es advertido en ellos; en guardarlos, galardón grande.
 
 ### 19:12
 
-¿Quién entenderá mis faltas? Líbrame de los secretos.
+Errores, ¿quién entenderá? De las ocultas límpiame.
 
 ### 19:13
 
-También guarda a tu siervo de los rebeldes; no los dejes gobernar sobre mí, entonces estaré limpio de muchos pecados.
+También de los soberbios refrena a tu siervo; no señoreen en mí; entonces seré íntegro, y seré limpio de delito grande.
 
 ### 19:14
 
-Que sean agradable a tus oídos las palabras de mi boca y la meditación de mi corazón ante ti, oh Jehová, mi roca y mi redentor.
+Sean para agrado los dichos de mi boca y la meditación de mi corazón delante de ti, Jehová, mi peña y mi redentor.
 
 ## Capítulo 20
 
+
 ### 20:1
 
-Para el director: Salmo de David. En el día de la adversidad, oh Jehová, respóndeme; en el día de la adversidad, exalta mi nombre, oh Dios de Jacob.
+Al director. Salmo de David. Te responda Jehová en el día de angustia; te ensalce el nombre del Dios de Yaakov.
 
 ### 20:2
 
-Envía ayuda desde tu santidad y respóndeme desde Sion.
+Envíe tu ayuda desde la santidad, y desde Tsiyón te sostenga.
 
 ### 20:3
 
-Acuérdate de todas mis ofrendas y de mis holocaustos; sáttalos, oh Jehová.
+Recuerde todas tus ofrendas, y tu holocausto engorde. Selá.
 
 ### 20:4
 
-Dale a ti lo que le pides en tu corazón y sáttalos todos tus planes.
+Te dé conforme a tu corazón, y todo tu consejo cumpla.
 
 ### 20:5
 
-Cantaremos de tu salvación y alzaremos la voz en el nombre de nuestro Dios. Llena, oh Jehová, todas tus peticiones.
+Gritaremos de júbilo en tu salvación, y en el nombre de nuestro Dios alzaremos bandera; cumpla Jehová todas tus peticiones.
 
 ### 20:6
 
-Ahora sé que salvará Jehová a su ungido; responderá desde el cielo, desde su santuario con poder. Salvará a su diestra.
+Ahora supe que salvó Jehová a su ungido; le responderá desde los cielos de su santidad, con proezas de salvación de su derecha.
 
 ### 20:7
 
-Algunos confían en carros, otros en caballos, pero nosotros en el nombre de Jehová, nuestro Dios.
+Estos en carro y estos en caballos, y nosotros en el nombre de Jehová nuestro Dios haremos memoria.
 
 ### 20:8
 
-Ellos caen, pero nosotros nos levantamos y nos alegramos.
+Ellos se arrodillaron y cayeron, y nosotros nos levantamos y nos afirmamos.
 
 ### 20:9
 
-Oh Jehová, sálvanos; el rey nos responderá en el día que nos llama.
+Jehová, salva; el rey nos responda en el día de nuestro llamar.
 
 ## Capítulo 21
 
+
 ### 21:1
 
-Señor, en tu poder se alegra el rey, y en tu salvación, ¡cuán grande es su júbilo!
+Al director. Salmo de David. Jehová, en tu fuerza se alegrará el rey, y en tu salvación ¡cuánto!
 
 ### 21:2
 
-Has concedido a su deseo, y a su lengua has no permitido que maldiga. Selah.
+El deseo de su corazón diste a él, y la petición de sus labios no retuviste. Selá.
 
 ### 21:3
 
-Porque le presentas bendiciones buenas; pones sobre su cabeza una corona de oro puro.
+Porque le adelantarás con bendiciones de bien; pondrás sobre su cabeza corona de oro fino.
 
 ### 21:4
 
-Vida le has concedido a él; larga vida eterna y perpetua.
+Vidas pidió de ti; diste a él; longitud de días, olam y perpetuo.
 
 ### 21:5
 
-Grande es su gloria en tu salvación; honor y majestad le das.
+Grande es su gloria en tu salvación; esplendor y majestad pondrás sobre él.
 
 ### 21:6
 
-Porque le das bendiciones para siempre; le haces reinar en la alegría.
+Porque lo pondrás bendiciones para siempre; lo alegrarás con gozo con tu rostro.
 
 ### 21:7
 
-Porque el rey se apoya en el Señor, y en la bondad del Altísimo no vacilará.
+Porque el rey confía en Jehová, y en el hesed de Elión no será movido.
 
 ### 21:8
 
-Encuentra tu mano a todos sus enemigos; tu diestra a sus adversarios.
+Hallará tu mano a todos tus enemigos; tu derecha hallará a tus odiadores.
 
 ### 21:9
 
-Los juzgarás como a un horno de fuego, a tu presencia, oh Señor, los devorará en su ira; los comerá el fuego.
+Los pondrás como horno de fuego al tiempo de tu rostro; Jehová en su nariz los tragará, y los comerá fuego.
 
 ### 21:10
 
-La cosecha de sus enemigos será destruida de la tierra, y sus semillas de entre los hijos de los hombres.
+Su fruto de la tierra destruirás, y su semilla de los hijos de hombre.
 
 ### 21:11
 
-Porque se han inclinado sobre ti para hacer el mal; han urdido planes, pero no podrán.
+Porque inclinaron sobre ti mal; pensaron trama, no podrán.
 
 ### 21:12
 
-Porque los juzgarás, oh Señor, en la cuerda de la arquea; en la arquea establecerás al rey sobre ellos.
+Porque los pondrás espalda; con tus cuerdas apuntarás sobre sus rostros.
 
 ### 21:13
 
-Alza, oh Señor, en tu fuerza; cantaremos y alabaremos tu grandeza.
+Álzate, Jehová, en tu fuerza; cantaremos y salmodiaremos tu proeza.
 
 ## Capítulo 22
 
+
 ### 22:1
 
-Para el director: sobre el shushan-eleph. Salmo de David. Oh Dios, oh Dios, ¿por qué me has abandonado? Estás lejos de mi salvación; los gritos de mi alma en la noche.
+Al director. Sobre la cierva de la aurora. Salmo de David. Dios mío, Dios mío, ¿por qué me abandonaste? Lejos de mi salvación, palabras de mi rugido.
 
 ### 22:2
 
-Oh Dios, te invoco de día y no me respondes; de noche y no me quedas en silencio.
+Dios mío, clamaré de día y no responderás, y de noche, y no hay silencio a mí.
 
 ### 22:3
 
-Pero tú eres santo, que habita entre los himnos de Israel.
+Y tú santo, sentado, alabanzas de Israel.
 
 ### 22:4
 
-En ti confiaron nuestros padres; en ti confiaron y fuiste su salvación.
+En ti confiaron nuestros padres; confiaron, y los escapaste.
 
 ### 22:5
 
-A ti clamaron y se salvaron; en ti confiaron y no fueron avergonzados.
+A ti gritaron y escaparon; en ti confiaron y no se avergonzaron.
 
 ### 22:6
 
-Soy un gusano y no un hombre; soy un escarnio de los hombres y un burla del pueblo.
+Y yo gusano y no hombre; oprobio de hombre y despreciado de pueblo.
 
 ### 22:7
 
-Todos los que me ven se burlan de mí; me mastican con los labios, mueven la cabeza.
+Todos los que me ven se burlan de mí; abren con labio, menean la cabeza.
 
 ### 22:8
 
-Tú que eres un bulto, al Señor clama; él te salvará, él te librará porque te agrada.
+Encomendó a Jehová; lo escape; lo libre, porque se deleitó en él.
 
 ### 22:9
 
-Pues tú eres el que me sacaste del vientre, mi esperanza desde el seno de mi madre.
+Porque tú eres el que me sacó de vientre; el que me hizo confiar sobre pechos de mi madre.
 
 ### 22:10
 
-Sobre ti me has arrojado desde el vientre; desde el seno de mi madre, oh Dios, eres tú.
+Sobre ti fui echado desde matriz; desde el vientre de mi madre, Dios mío eres tú.
 
 ### 22:11
 
-No te alejes de mí, porque la angustia está cerca; no hay quien me ayude.
+No te alejes de mí, porque la angustia está cercana, porque no hay ayudador.
 
 ### 22:12
 
-Alrededor de mí pon muchos bueyes, potentes animales de Basán.
+Me rodearon toros muchos; fuertes de Bashán me cercaron.
 
 ### 22:13
 
-Abren contra mí su boca; un león rugiente y devorador está sobre mí.
+Abrieron sobre mí su boca, león desgarrador y rugiente.
 
 ### 22:14
 
-Como el agua me han derramado; se han separado todas mis costillas; mi corazón se ha vuelto como la piedra de Sela; mi espíritu se ha desvanecido en medio de mí.
+Como aguas fui derramado, y se descoyuntaron todos mis huesos; fue mi corazón como cera, derretido en medio de mis entrañas.
 
 ### 22:15
 
-Se ha secado como un barroco mi vigor; mi lengua se ha adherido a mi paladar; a la tierra de polvo me echas.
+Secó como tiesto mi fuerza, y mi lengua pegada a mis mandíbulas; y al polvo de muerte me pondrás.
 
 ### 22:16
 
-Porque alrededor de mí se han juntado como perros; una banda de malhechores me rodea; como un león están sobre mis manos y mis pies.
+Porque me rodearon perros; congregación de malhechores me cercaron; cavaron mis manos y mis pies.
 
 ### 22:17
 
-Contaré todas mis costillas; ellos mirarán y se maravillarán de mí.
+Contaré todos mis huesos; ellos miran, ven en mí.
 
 ### 22:18
 
-Se repartirán mis vestidos entre ellos; sobre mi ropa echarán suertes.
+Reparten mis vestidos a ellos, y sobre mi ropa echan suerte.
 
 ### 22:19
 
-Pero tú, oh Jehová, no te apartes de mí; mi ayuda es mi protector; despiértate para ayudarme.
+Y tú, Jehová, no te alejes; mi fuerza, a mi ayuda apresúrate.
 
 ### 22:20
 
-Sálvame de la espada, oh mi Dios; de la mano del perro, mi único amigo.
+Libera de la espada mi alma; de la mano del perro mi única.
 
 ### 22:21
 
-Sálvame de la boca del león y de las cuernas de los bueyes me has librado.
+Sálvame de la boca del león, y de los cuernos de los búfalos me respondiste.
 
 ### 22:22
 
-Anunciaré tu nombre a mis hermanos; en medio de la congregación te alabaré.
+Contaré tu nombre a mis hermanos; en medio de la asamblea te alabaré.
 
 ### 22:23
 
-Temerosos de Jehová, alabadle; toda la simiente de Jacob, glorificadle; temedle, toda la simiente de Israel.
+Temerosos de Jehová, alábenlo; toda la semilla de Yaakov, hónrenlo; y teman de él toda la semilla de Israel.
 
 ### 22:24
 
-Porque no despreció ni aborreció la humillación del humilde, ni ocultó su rostro del que le suplicaba, sino que oyó a su súplica.
+Porque no despreció y no abominó la aflicción del afligido, y no escondió su rostro de él, y en su clamar a él oyó.
 
 ### 22:25
 
-Contigo me gloriaré en la multitud; te pagaré mis votos en presencia de los que temen a Dios.
+De ti es mi alabanza en asamblea grande; mis votos pagaré delante de sus temerosos.
 
 ### 22:26
 
-Los humildes comerán y se saciarán; alabarán al Señor los que buscan a Dios. Levantaos, oh corazón, para siempre.
+Comerán los humildes y se saciarán; alabarán a Jehová sus buscadores; viva su corazón para siempre.
 
 ### 22:27
 
-Recordarán y se volverán al Señor todas las extremidades de la tierra; se postrarán ante ti todas las familias de las naciones.
+Recordarán y volverán a Jehová todos los extremos de la tierra, y se postrarán delante de ti todas las familias de las naciones.
 
 ### 22:28
 
-Porque la realeza es del Señor, y él gobierna entre las naciones.
+Porque de Jehová es el reino, y gobernante en las naciones.
 
 ### 22:29
 
-Comerán y se postrarán todos los que bajan a la tierra; ante él se postrarán todos los que descienden al polvo. Su alma no vivirá.
+Comieron y se postraron todos los robustos de la tierra; delante de él se arrodillarán todos los que bajan a polvo, y su alma no vivificó.
 
 ### 22:30
 
-Sus descendientes los servirán; se anunciará a su generación.
+Semilla le servirá; será contado al Adonai para la generación.
 
 ### 22:31
 
-Vendrán y anunciarán su justicia a un pueblo que nacerá, porque él ha hecho.
+Vendrán y declararán su justicia a pueblo nacido, porque hizo.
 
 ## Capítulo 23
 
+
 ### 23:1
 
-Salmo de David. El Señor es mi pastor; nada me faltará.
+Salmo de David. Jehová es mi pastor; no faltaré.
 
 ### 23:2
 
-En verdes praderas me hace descansar; me conduce a aguas tranquilas.
+En pastos de hierba me hará echar; sobre aguas de reposos me guiará.
 
 ### 23:3
 
-Restaura mi alma; me guía por sendas de justicia por su nombre.
+Mi alma restaurará; me conducirá en surcos de justicia por causa de su nombre.
 
 ### 23:4
 
-Aunque pase por el valle de la sombra de la muerte, no temeré mal alguno, porque tú estás conmigo; tu vara y tu cetro me consuelan.
+También cuando ande en valle de sombra de muerte, no temeré mal, porque tú estás conmigo; tu vara y tu cayado ellos me consuelan.
 
 ### 23:5
 
-Preparas un banquete ante mí en presencia de mis enemigos; me ungues la cabeza con aceite y mi copa rebosa.
+Preparas delante de mí mesa frente a mis angustiadores; ungiste con aceite mi cabeza; mi copa es abundancia.
 
 ### 23:6
 
-Sólo bondad y misericordia me seguirán todos los días de mi vida; y habitaré en la casa del Señor por largo tiempo.
+Ciertamente bien y hesed me perseguirán todos los días de mi vida, y habitaré en la casa de Jehová para longitud de días.
 
 ## Capítulo 24
 
+
 ### 24:1
 
-De David. Salmo para Jehová, la tierra y todo lo que contiene; el mundo y sus habitantes.
+De David. Salmo. De Jehová es la tierra y su plenitud, tevel y los que habitan en ella.
 
 ### 24:2
 
-Porque él la fundó sobre los mares y la estableció sobre los ríos.
+Porque él sobre mares la fundó, y sobre ríos la afirmó.
 
 ### 24:3
 
-¿Quién subirá al monte de Jehová? ¿Y quién podrá levantarse en su lugar santo?
+¿Quién subirá al monte de Jehová, y quién se levantará en el lugar de su santidad?
 
 ### 24:4
 
-El que tiene manos limpias y corazón sincero, que no ha levantado su alma en vano ni jurado engaño.
+Limpio de palmas y puro de corazón, que no alzó a la vanidad mi alma, y no juró a engaño.
 
 ### 24:5
 
-Recibirá bendición de Jehová y justicia del Dios de su salvación.
+Llevará bendición de parte de Jehová, y justicia del Dios de su salvación.
 
 ### 24:6
 
-Este es el linaje que busca tu rostro, Jacob; selah.
+Esta es la generación de los que buscan tu rostro, Yaakov. Selá.
 
 ### 24:7
 
-Alzad, oh puertas, vuestras cabezas, oh portones, y levantaos, y entrará el Rey de gloria.
+Alcen, puertas, sus cabezas, y álcense las entradas de olam, y entre el rey de la gloria.
 
 ### 24:8
 
-¿Quién es este Rey de gloria? Jehová, fuerte y poderoso; Jehová, poderoso en batalla.
+¿Quién es este, el rey de la gloria? Jehová fuerte y valiente, Jehová valiente de guerra.
 
 ### 24:9
 
-Alzad, oh puertas, vuestras cabezas, oh portones, y levantaos, y entrará el Rey de gloria.
+Alcen, puertas, sus cabezas, y alcen las entradas de olam, y entre el rey de la gloria.
 
 ### 24:10
 
-¿Quién es este Rey de gloria? Jehová de los ejércitos, él es el Rey de gloria; selah.
+¿Quién es él, este, el rey de la gloria? Jehová de ejércitos; él es el rey de la gloria. Selá.
 
 ## Capítulo 25
 
+
 ### 25:1
 
-A ti, oh Dios, alzo mi alma.
+De David. A ti, Jehová, mi alma alzo.
 
 ### 25:2
 
-En ti, oh Dios, he puesto mi confianza; no me avergüence eternamente.
+Dios mío, en ti confié; no sea yo avergonzado; no se alegren mis enemigos sobre mí.
 
 ### 25:3
 
-Tampoco se avergonzarán todos los que esperan en ti; se avergonzarán los que traicionan, por sufra.
+También todos tus esperantes no serán avergonzados; serán avergonzados los traidores vanamente.
 
 ### 25:4
 
-Enséñame tus caminos, oh Señor; guíame por tus veredas.
+Tus caminos, Jehová, hazme conocer; tus sendas enséñame.
 
 ### 25:5
 
-Guiame en tu verdad y enséñame, porque eres tú mi Dios de salvación; en ti he esperado todo el día.
+Hazme andar en tu verdad y enséñame, porque tú eres Dios de mi salvación; a ti esperé todo el día.
 
 ### 25:6
 
-Acuérdate de tus misericordias, oh Señor, y de tu bondad, porque son eternas.
+Acuérdate de tus compasiones, Jehová, y de tus misericordias, porque desde siempre ellas.
 
 ### 25:7
 
-No recuerdes los pecados de mi juventud ni mis transgresiones; acuérdate de mí por tu bondad, oh Señor, por tu bondad.
+Los pecados de mi juventud y mis rebeliones no recuerdes; conforme a tu misericordia acuérdate de mí tú, por causa de tu bondad, Jehová.
 
 ### 25:8
 
-Bueno y recto es el Señor; por eso instruye a los pecadores en su camino.
+Bueno y recto es Jehová; por eso instruye a pecadores en el camino.
 
 ### 25:9
 
-Guía a los humildes en el derecho y enseña a los humildes tu camino.
+Guía a los humildes en el juicio, y enseña a los humildes su camino.
 
 ### 25:10
 
-Todas las veredas del Señor son misericordia y verdad para los que guardan su pacto y sus testimonios.
+Todas las sendas de Jehová son misericordia y verdad para los guardadores de su pacto y de sus testimonios.
 
 ### 25:11
 
-Por tu nombre, oh Señor, perdona mi pecado, porque es grande.
+Por causa de tu nombre, Jehová, y perdonarás mi iniquidad, porque grande es ella.
 
 ### 25:12
 
-¿Quién es este hombre que teme al Señor? Guíale en el camino que elija.
+¿Quién es este, el hombre temeroso de Jehová? Él lo instruirá en el camino que escogerá.
 
 ### 25:13
 
-Tu vida, oh Señor, la prolongarás en bien, y tu descendencia heredará la tierra.
+Su alma en bien pernoctará, y su simiente heredará la tierra.
 
 ### 25:14
 
-El secreto del Señor es para los que le temen, y su pacto para que se lo haga saber.
+El secreto de Jehová es para sus temerosos, y su pacto para hacerles conocer.
 
 ### 25:15
 
-Mis ojos siempre al Señor, porque él me sacará de la red de mis pies.
+Mis ojos continuamente hacia Jehová, porque él sacará de la red mis pies.
 
 ### 25:16
 
-Vuelve hacia mí y ten misericordia de mí, porque soy huérfano y necesitado.
+Vuélvete hacia mí y tenme gracia, porque solo y afligido soy yo.
 
 ### 25:17
 
-Las aflicciones de mi corazón me han ampliado, me ha sacado de mis angustias.
+Las angustias de mi corazón se ensancharon; de mis aprietos sácame.
 
 ### 25:18
 
-Mira mi aflicción y mi trabajo, y líbrame de todas mis culpas.
+Mira mi aflicción y mi trabajo, y alza todos mis pecados.
 
 ### 25:19
 
-Mira a mis enemigos, porque son muchos, y los que me odian por odio violento.
+Mira mis enemigos, porque se multiplicaron, y odio de violencia me odiaron.
 
 ### 25:20
 
-Guarda mi vida y líbrame, no me avergüences, porque en ti he confiado.
+Guarda mi alma y líbrame; no sea yo avergonzado, porque me refugié en ti.
 
 ### 25:21
 
-Que sean perfectos y rectos mis caminos, porque en ti he esperado.
+Integridad y rectitud me guardarán, porque te esperé.
 
 ### 25:22
 
-Redime, oh Dios, a Israel de todas sus aflicciones.
+Redime, Dios, a Israel de todas sus angustias.
 
 ## Capítulo 26
 
+
 ### 26:1
 
-Juzgarme, oh Señor, porque he andado con integridad, y en el Señor he confiado, no me desanimaré.
+De David. Júzgame, Jehová, porque yo en mi integridad anduve, y en Jehová confié; no resbalaré.
 
 ### 26:2
 
-Prueba y enséñame, oh Señor, examina mi corazón y mi mente.
+Examíname, Jehová, y pruébame; mis riñones y mi corazón.
 
 ### 26:3
 
-Porque tu misericordia está delante de mis ojos, y andaré en tu verdad.
+Porque tu misericordia está delante de mis ojos, y anduve en tu verdad.
 
 ### 26:4
 
-No me sentaré con los que mienten, y no entraré con los ocultos.
+No me senté con hombres de vanidad, y con encubiertos no entraré.
 
 ### 26:5
 
-Odio la congregación de los malvados, y no viviré con los pecadores.
+Odié la asamblea de malhechores, y con malos no me sentaré.
 
 ### 26:6
 
-Lavaré mis manos en inocencia, y rodearé tu altar, Señor.
+Lavaré en inocencia mis palmas, y rodearé tu altar, Jehová,
 
 ### 26:7
 
-Para escuchar el sonido de la alabanza, y para contar tus maravillas.
+para hacer oír con voz de acción de gracias, y para contar todas tus maravillas.
 
 ### 26:8
 
-Señor, amo tu morada y tu habitación, lugar de tu gloria.
+Jehová, amé la morada de tu casa, y el lugar del tabernáculo de tu gloria.
 
 ### 26:9
 
-No recojas mi alma con los pecadores, ni mi vida con los que derraman sangre.
+No juntes con pecadores mi alma, y con hombres de sangres mi vida,
 
 ### 26:10
 
-Que en sus manos hay engaño, y su derecha está llena de soborno.
+en cuyas manos hay trama, y su derecha llena de soborno.
 
 ### 26:11
 
-Y yo iré en tu verdad, líbrame y ten misericordia de mí.
+Y yo en mi integridad andaré; redímeme y tenme gracia.
 
 ### 26:12
 
-Mi pie se ha mantenido en rectitud, en la asamblea bendeciré al Señor.
+Mi pie se paró en terreno llano; en asambleas bendeciré a Jehová.
 
 ## Capítulo 27
 
+
 ### 27:1
 
-Para David: El Señor es mi luz y mi salvación, ¿de quién temeré? El Señor es mi fortaleza y mi salvación, ¿de quién me espantaré?
+De David. Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es fortaleza de mi vida; ¿de quién me asustaré?
 
 ### 27:2
 
-Cerca de mí están los malvados para comer mi carne; mis enemigos y adversarios me caen y se desploman.
+Cuando se acercaron sobre mí malhechores para comer mi carne, mis adversarios y mis enemigos a mí, ellos tropezaron y cayeron.
 
 ### 27:3
 
-Si se acampa contra mí un ejército, no temerá mi corazón; si se levanta contra mí una guerra, en esto confiaré.
+Si acampa sobre mí campamento, no temerá mi corazón; si se levanta sobre mí guerra, en esto yo confío.
 
 ### 27:4
 
-Una cosa he pedido al Señor, eso buscaré: que pueda yo morar en la casa del Señor todos los días de mi vida, para contemplar la belleza del Señor y para visitar su templo.
+Una cosa pedí de Jehová, esa buscaré: mi sentarme en la casa de Jehová todos los días de mi vida, para contemplar en la hermosura de Jehová y para indagar en su templo.
 
 ### 27:5
 
-Porque me esconderá en su tienda en el día del mal; me ocultará en su tabernáculo; en la roca me elevará.
+Porque me esconderá en su cabaña en el día de mal; me ocultará en el secreto de su tienda; sobre peña me levantará.
 
 ### 27:6
 
-Y ahora elevaré mi cabeza sobre mis enemigos que me rodean; y ofrendaré en su tabernáculo sacrificios de alabanza; cantaré y alabaré al Señor.
+Y ahora se alzará mi cabeza sobre mis enemigos alrededor de mí, y sacrificaré en su tienda sacrificios de júbilo; cantaré y salmodiaré a Jehová.
 
 ### 27:7
 
-Oye, Señor, mi voz; clamo y ten misericordia de mí; y responde a mí.
+Oye, Jehová, mi voz; llamo, y tenme gracia y respóndeme.
 
 ### 27:8
 
-A ti, Señor, ha dicho mi corazón: Buscad mi rostro; tu rostro, Señor, buscaré.
+A ti dijo mi corazón: Busquen mi rostro. Tu rostro, Jehová, buscaré.
 
 ### 27:9
 
-No te escondas de mí en el día de angustia; no te enfades con tu siervo; tú eres mi ayuda. No me rechaces ni me desampares, Dios de mi salvación.
+No escondas tu rostro de mí; no apartes en ira a tu siervo; mi ayuda has sido; no me abandones y no me dejes, Dios de mi salvación.
 
 ### 27:10
 
-Porque mi padre y mi madre me abandonaron, pero el Señor me recogerá.
+Porque mi padre y mi madre me dejaron, y Jehová me recogerá.
 
 ### 27:11
 
-Enséñame tu camino, Señor, y guíame por el camino recto, por amor a tus enemigos.
+Enséñame, Jehová, tu camino, y guíame en senda de rectitud por causa de mis acechadores.
 
 ### 27:12
 
-No me entregues a mis enemigos, que levantan contra mí testigos falsos; y que aman la violencia.
+No me entregues al deseo de mis adversarios, porque se levantaron contra mí testigos de mentira, y el que exhala violencia.
 
 ### 27:13
 
-Si no hubiera creído para ver la bondad del Señor en la tierra de los vivientes.
+Si no hubiera yo creído para ver en el bien de Jehová en la tierra de vivos—
 
 ### 27:14
 
-Espera en el Señor, sé fuerte, y fortalecerá tu corazón; espera en el Señor.
+Espera a Jehová; sé fuerte, y se fortalezca tu corazón, y espera a Jehová.
 
 ## Capítulo 28
 
+
 ### 28:1
 
-A David. Al Señor le clamo, mi roca, no te callarás para conmigo, no te esconderás para conmigo, y yo seré gobernado con los que bajan al pozo.
+De David. A ti, Jehová, llamo; mi peña, no te ensordezcas de mí, no sea que calles de mí y yo sea igualado con los que bajan al hoyo.
 
 ### 28:2
 
-Oye la voz de mis súplicas en mi clamor a ti, en la elevación de mis manos al atril de tu santidad.
+Oye la voz de mis ruegos cuando clamo a ti, al alzar yo mis manos hacia el debir de tu santidad.
 
 ### 28:3
 
-No me arrastres con los malvados y con los obreros de la maldad, que hablan paz con sus vecinos, pero en sus corazones hay malicia.
+No me arrastres con malos y con obradores de iniquidad, habladores de paz con sus compañeros, y mal en su corazón.
 
 ### 28:4
 
-Dales según sus obras y según el fruto de sus manos, dáselos según la obra de sus manos; revierte su pago a ellos.
+Dales conforme a su obra y conforme a la maldad de sus hechos; conforme a la obra de sus manos dales; haz volver su retribución a ellos.
 
 ### 28:5
 
-Porque no entienden las obras del Señor ni lo que hace con sus manos; por eso los confundirá y no los edificará.
+Porque no entienden hacia las obras de Jehová y hacia la obra de sus manos; él los derribará y no los edificará.
 
 ### 28:6
 
-Bendito es el Señor, porque ha oído la voz de mis súplicas.
+Bendito Jehová, porque oyó la voz de mis ruegos.
 
 ### 28:7
 
-El Señor es mi fortaleza y mi escudo; en él confió mi corazón, y él me hizo saltar de gozo, y mi corazón se alegró, y cantaré con alabanza.
+Jehová es mi fuerza y mi escudo; en él confió mi corazón y fui ayudado, y exultó mi corazón, y desde mi canción le alabaré.
 
 ### 28:8
 
-El Señor es fortaleza para ellos, y su salvación es un refugio; él es su Mesías.
+Jehová es fuerza para ellos, y fortaleza de salvaciones de su ungido es él.
 
 ### 28:9
 
-Salva a tu pueblo y bendice a tu heredad, y ríen a tus hijos y los levantas hasta siempre.
+Salva a tu pueblo y bendice a tu heredad, y pastoréalos y levántalos hasta la eternidad.
 
 ## Capítulo 29
 
+
 ### 29:1
 
-Salmo de David. Dad al Señor, hijos de Dios, dad al Señor gloria y fortaleza.
+Salmo de David. Den a Jehová, hijos de dioses; den a Jehová gloria y fuerza.
 
 ### 29:2
 
-Dad al Señor gloria a su nombre, adoradle en la gloria de su santidad.
+Den a Jehová la gloria de su nombre; postrense a Jehová en esplendor de santidad.
 
 ### 29:3
 
-La voz del Señor sobre las aguas, el Dios de gloria tronó, el Señor sobre las aguas muchas.
+Voz de Jehová sobre las aguas; el Dios de la gloria tronó; Jehová sobre aguas muchas.
 
 ### 29:4
 
-La voz del Señor en poder, la voz del Señor en gloria.
+Voz de Jehová en el poder; voz de Jehová en el esplendor.
 
 ### 29:5
 
-La voz del Señor rompe cedros, y el Señor rompió los cedros del Líbano.
+Voz de Jehová quebrando cedros, y quebró Jehová los cedros del Levanón.
 
 ### 29:6
 
-Los hizo danzar como un becerro, el Líbano y Sirión como un becerro de los ciervos.
+Y los hizo saltar como becerro; Levanón y Sirión como hijo de búfalos.
 
 ### 29:7
 
-La voz del Señor corta en pedazos las llamas del fuego.
+Voz de Jehová cortando llamas de fuego.
 
 ### 29:8
 
-La voz del Señor hace temblar el desierto, hace temblar el desierto de Kadesh.
+Voz de Jehová hace temblar el desierto; hace temblar Jehová el desierto de Qadesh.
 
 ### 29:9
 
-La voz del Señor hace temblar a los ciervos, y descubre los bosques; en su santuario todo dice: ¡Santo!
+Voz de Jehová hace dar a luz a las ciervas, y desnuda bosques, y en su templo todo él dice: Gloria.
 
 ### 29:10
 
-El Señor se sienta en el diluvio, el Señor reina para siempre.
+Jehová al diluvio se sentó, y se sentó Jehová rey para siempre.
 
 ### 29:11
 
-El Señor da fuerza a su pueblo, el Señor bendice a su pueblo con paz.
+Jehová fuerza a su pueblo dará; Jehová bendecirá a su pueblo con la paz.
 
 ## Capítulo 30
 
+
 ### 30:1
 
-Salmo. Cántico para la dedicación del templo. Alabadme, Señor, porque me humillé, y no me alegraste a mis enemigos.
+Salmo; cántico de dedicación de la casa; de David. Te exaltaré, Jehová, porque me alzaste, y no alegraste a mis enemigos sobre mí.
 
 ### 30:2
 
-Señor, mi Dios, clamé a ti y me curaste.
+Jehová Dios mío, clamé a ti, y me sanaste.
 
 ### 30:3
 
-Señor, me sacaste de la muerte, me hiciste vivir entre los que descienden al pozo.
+Jehová, hiciste subir del Seol mi alma; me vivificaste del hoyo.
 
 ### 30:4
 
-Cantad al Señor, oh siervos suyos, y dad gracias a su santo nombre.
+Salmodien a Jehová sus misericordiosos, y den gracias al memorial de su santidad.
 
 ### 30:5
 
-Porque un momento en su ira hay vida, en su favor hay vida; por la noche llora y por la mañana canta.
+Porque un momento en su ira; vidas en su favor. En la tarde pernocta el llanto, y a la mañana júbilo.
 
 ### 30:6
 
@@ -1609,7543 +1640,7645 @@ Y yo dije en mi tranquilidad: No seré movido para siempre.
 
 ### 30:7
 
-Señor, en tu voluntad me hiciste estar en el monte de la fortaleza; ocultaste tu rostro, yo fui confundido.
+Jehová, en tu favor afirmaste a mi monte fuerza; escondiste tu rostro, fui turbado.
 
 ### 30:8
 
-A ti, Señor, clamo; a mi Señor suplico.
+A ti, Jehová, llamo, y a Adonai me ruego.
 
 ### 30:9
 
-¿Qué provecho hay en mi sangre, cuando bajo a la sepultura? ¿Será tu verdad proclamada por el polvo? ¿Anunciará tu fidelidad?
+¿Qué ganancia en mi sangre, en mi bajar a corrupción? ¿Te alabará el polvo? ¿Anunciará tu verdad?
 
 ### 30:10
 
-Señor, escucha y ten misericordia de mí; Señor, sé mi auxiliador.
+Oye, Jehová, y tenme gracia; Jehová, sé ayudador para mí.
 
 ### 30:11
 
-Volcaste mi luto en danza, me quitaste mi saco y me cubriste de alegría.
+Volviste mi duelo en danza para mí; abriste mi saco y me ceñiste alegría,
 
 ### 30:12
 
-Para que te alaben con gloria y no guarden silencio, oh Señor, Dios mío, para siempre te alabaré.
+para que te salmodie la gloria y no calle. Jehová Dios mío, para siempre te alabaré.
 
 ## Capítulo 31
 
+
 ### 31:1
 
-Para el director. Salmo de David. En ti, Señor, he hallado refugio; no me avergüence para siempre; en tu justicia, líbrame.
+Para el director. Salmo de David. En ti, Jehová, me refugié; no sea yo avergonzado para siempre; en tu justicia líbrame.
 
 ### 31:2
 
-Inclina a mí tu oído, líbrame pronto; sé para mí un roca de refugio, un fuerte de defensa, para salvarme.
+Inclina hacia mí tu oído; pronto líbrame. Sé para mí peña de fortaleza, casa de plazas fuertes, para salvarme.
 
 ### 31:3
 
-Porque tú eres mi roca y mi fortaleza; por tu nombre guíame y guíame.
+Porque mi peña y mi plaza fuerte eres tú; y por causa de tu nombre me guiarás y me conducirás.
 
 ### 31:4
 
-Sáname de la red que me han tendido, porque tú eres mi fortaleza.
+Me sacarás de la red que escondieron para mí, porque tú eres mi fortaleza.
 
 ### 31:5
 
-En tu mano entrego mi espíritu; me redimiste, oh Jehová, Dios fiel.
+En tu mano encomiendo mi espíritu; me redimiste, Jehová, Dios de verdad.
 
 ### 31:6
 
-Odio a los que guardan vanidades; yo me refugio en Jehová.
+Odié a los que guardan vanidades de vacío, y yo hacia Jehová confié.
 
 ### 31:7
 
-Me alegraré y gozaré en tu misericordia, porque has visto mi aflicción; has conocido las angustias de mi alma.
+Me alegraré y me gozaré en tu misericordia, porque viste mi aflicción; conociste en las angustias de mi alma,
 
 ### 31:8
 
-No me has entregado en la mano del enemigo; me has puesto en un lugar espacioso.
+y no me entregaste en mano de enemigo; afirmaste en lo ancho mis pies.
 
 ### 31:9
 
-Ten misericordia de mí, Jehová, porque estoy afligido; mis ojos se consumen con ira, mi alma y mi vientre.
+Tenme gracia, Jehová, porque estrecho estoy; se consumió de pesar mi ojo, mi alma y mi vientre.
 
 ### 31:10
 
-Porque mis días se han consumido en aflicción, y mis años en gemidos; mi fuerza se ha desvanecido por mi iniquidad, y mis huesos se han consumido.
+Porque se acabaron en tristeza mis vidas, y mis años en gemido; tropezó en mi iniquidad mi fuerza, y mis huesos se consumieron.
 
 ### 31:11
 
-De todos mis enemigos he sido objeto de burla, y de mis vecinos, de gran temor; a los que me conocían, me han temido fuera; me han alejado de ellos.
+De todos mis opresores fui oprobio, y a mis vecinos mucho, y terror a mis conocidos; los que me veían en la calle huyeron de mí.
 
 ### 31:12
 
-Olvidado estoy como muerto de corazón; he sido como un vaso quebrado.
+Fui olvidado como muerto de corazón; fui como vaso perdido.
 
 ### 31:13
 
-Porque he oído la voz de muchos, que me rodean de guerra; juntos han conspirado contra mí para tomar mi alma.
+Porque oí murmuración de muchos; terror alrededor; cuando se concertaban juntos sobre mí, para tomar mi alma tramaron.
 
 ### 31:14
 
-Yo me he refugiado en ti, Jehová; he dicho: Eres tú, oh Dios mío.
+Y yo en ti confié, Jehová; dije: Dios mío eres tú.
 
 ### 31:15
 
-En tu mano están mis tiempos; líbrame de la mano del enemigo y del perseguidor.
+En tu mano están mis tiempos; líbrame de la mano de mis enemigos y de mis perseguidores.
 
 ### 31:16
 
-Ilumina tu rostro sobre tu siervo; líbrame en tu misericordia.
+Haz brillar tu rostro sobre tu siervo; sálvame en tu misericordia.
 
 ### 31:17
 
-Señor, no me avergüence, porque te he llamado; avergüéncense los malvados, que van a la sepultura.
+Jehová, no sea yo avergonzado, porque te llamé; sean avergonzados los malos; callen al Seol.
 
 ### 31:18
 
-Se han llenado de vergüenza las bocas que hablan mentiras contra el justo, porque el orgullo y el desprecio los han engañado.
+Sean mudos los labios de mentira, los que hablan contra el justo arrogancia con orgullo y menosprecio.
 
 ### 31:19
 
-¡Cuánto es grande tu bondad, que has guardado para los que te temen! Haces obra para los que te aman, en presencia de los hijos de los hombres.
+¡Cuán grande tu bondad que guardaste para tus temerosos, que obraste para los que se refugian en ti, delante de los hijos de hombre!
 
 ### 31:20
 
-Los esconderás en el escondite de tu rostro de los que se enojan con los hombres; los ocultarás en una tienda de la contienda de lenguas.
+Los esconderás en el secreto de tu rostro de las conspiraciones de hombre; los ocultarás en cabaña de contienda de lenguas.
 
 ### 31:21
 
-Bendito sea el Señor, porque ha mostrado su maravillosa misericordia conmigo en la ciudad de fortaleza.
+Bendito Jehová, porque maravilló su misericordia para mí en ciudad de asedio.
 
 ### 31:22
 
-Y yo dije en mi prisa: “Me has apartado de tu presencia”. ¡Verdaderamente has oído la voz de mis súplicas en mi clamor hacia ti!
+Y yo dije en mi precipitación: Fui cortado de delante de tus ojos; pero oíste la voz de mis ruegos cuando clamé a ti.
 
 ### 31:23
 
-Amo al Señor, porque todos sus fieles son amados; son fieles los que guardan al Señor y que pagan por exceso los que hacen soberbia.
+Amen a Jehová, todos sus misericordiosos; a los fieles guarda Jehová, y paga sobre el exceso al hacedor de orgullo.
 
 ### 31:24
 
-Fortaleced y animad el corazón de todos los que esperan en el Señor.
+Sean fuertes, y se fortalezca el corazón de ustedes, todos los que esperan a Jehová.
 
 ## Capítulo 32
 
+
 ### 32:1
 
-De David. Salmo instruccional. Dichoso el que no tiene pecado y cuyo pecado está cubierto.
+De David. Instrucción. Dichosos el perdonado de rebelión, el cubierto de pecado.
 
 ### 32:2
 
-Dichoso el hombre a quien el Señor no imputa pecado y en cuyo espírituve no hay engaño.
+Dichoso el hombre a quien no imputa Jehová iniquidad, y no hay en su espíritu engaño.
 
 ### 32:3
 
-Porque callé, se me consumieron los huesos; a causa de mis gemidos todo el día.
+Porque callé, se envejecieron mis huesos en mi rugido todo el día.
 
 ### 32:4
 
-Porque día y noche tu mano pesa sobre mí; mi vigor se ha vuelto como la estación de la siega. Selah.
+Porque de día y de noche se agravaba sobre mí tu mano; se volvió mi vigor en ardores de verano. Selá.
 
 ### 32:5
 
-Confesé mis pecados a ti, y no oculté mis iniquidades; dije: Confesaré a Jehová mis transgresiones, y tú perdonaste la maldad de mi pecado. Sela.
+Mi pecado te hice conocer, y mi iniquidad no encubrí. Dije: Confesaré sobre mis rebeliones a Jehová; y tú alzaste la iniquidad de mi pecado. Selá.
 
 ### 32:6
 
-Por eso todo el que es fiel a ti orará a ti en tiempo de hallar agua en abundancia; a ti no llegarán.
+Por esto orará todo misericordioso a ti en tiempo de hallar; solo al diluvio de aguas muchas, a él no llegarán.
 
 ### 32:7
 
-Tú eres mi refugio de la angustia; me cercarás con gritos de salvación. Sela.
+Tú eres escondite para mí; de angustia me guardarás; cantos de liberación me rodearás. Selá.
 
 ### 32:8
 
-Te instruiré y te iluminaré en el camino que debes seguir; con mis ojos te aconsejaré.
+Te haré entender y te enseñaré en el camino que andarás; aconsejaré sobre ti mi ojo.
 
 ### 32:9
 
-No seas como el caballo y el asno, que no entienden con la brida y la cuerda; su alimento será para su hambre, y cerca no estarán de ti.
+No sean como caballo, como mulo, sin entender; con freno y cabestro su adorno para refrenar; si no, no se acercan a ti.
 
 ### 32:10
 
-Muchos son los dolores del impío, pero el que confía en Jehová hallará misericordia.
+Muchos dolores para el malo; y el que confía en Jehová, misericordia lo rodeará.
 
 ### 32:11
 
-Alegraos en Jehová, y gozaos, oh justos, y regocijaos en el Señor todos los rectos de corazón.
+Alégrense en Jehová y júbilo, justos; y den voces de júbilo, todos los rectos de corazón.
 
 ## Capítulo 33
 
+
 ### 33:1
 
-Alegraos en Jehová, oh justos, y sea hermosa la alabanza a los rectos.
+Griten de júbilo, justos, en Jehová; para los rectos es hermosa la alabanza.
 
 ### 33:2
 
-Alabad a Jehová con la cítara, con el arpa y con instrumento musical de diez cuerdas, y cantadle con alabanza.
+Den gracias a Jehová con cítara; con salterio de diez denle salmodia.
 
 ### 33:3
 
-Cantad a él un nuevo cántico, y tocad con bienaventuranza en la trompeta.
+Canten a él cántico nuevo; hagan bien el tañer con júbilo.
 
 ### 33:4
 
-Porque justo es el Señor en su palabra, y toda su obra es en verdad.
+Porque recta es la palabra de Jehová, y toda su obra en fidelidad.
 
 ### 33:5
 
-Ama la justicia y el juicio; la misericordia de Jehová llena la tierra.
+Ama justicia y juicio; la misericordia de Jehová llena la tierra.
 
 ### 33:6
 
-Por la palabra de Jehová fueron hechos los cielos, y por el aliento de su boca todas las fuerzas del ejército.
+Por la palabra de Jehová los cielos fueron hechos, y por el aliento de su boca todo su ejército.
 
 ### 33:7
 
-Reúne las aguas como un montón; pon en sus depósitos las profundidades.
+El que junta como montón las aguas del mar; pone en tesoros abismos.
 
 ### 33:8
 
-Teme a Jehová toda la tierra; a él se refugian todos los habitantes del mundo.
+Teman de Jehová toda la tierra; de él tengan miedo todos los habitantes del mundo.
 
 ### 33:9
 
-Porque él habló, y se hizo; ordenó, y se estableció.
+Porque él dijo, y fue; él mandó, y se mantuvo.
 
 ### 33:10
 
-Jehová desprecia el consejo de las naciones; menosprecia los pensamientos de los pueblos.
+Jehová anuló el consejo de las naciones; frustró los pensamientos de los pueblos.
 
 ### 33:11
 
-El consejo de Jehová permanecerá por siempre; los pensamientos de su corazón de generación en generación.
+El consejo de Jehová para siempre se mantendrá; los pensamientos de su corazón de generación en generación.
 
 ### 33:12
 
-Bienaventurado el pueblo cuyo Dios es Jehová, el pueblo que él escogió para su heredad.
+Dichosa la nación cuyo Dios es Jehová, el pueblo que escogió por heredad para sí.
 
 ### 33:13
 
-Desde los cielos mira Jehová, ve a todos los hijos de los hombres.
+Desde los cielos miró Jehová; vio a todos los hijos del hombre.
 
 ### 33:14
 
-Desde su morada ve a todos los habitantes de la tierra.
+Desde el asiento de su morada contempló hacia todos los habitantes de la tierra,
 
 ### 33:15
 
-El que forma el corazón juntos, el que entiende todo su obrar.
+el que forma a una su corazón, el que entiende hacia todas sus obras.
 
 ### 33:16
 
-No se salva el rey por la multitud de la fuerza, ni el valiente por la multitud de la fortaleza.
+No hay rey salvado por muchedumbre de ejército; el valiente no es librado por muchedumbre de fuerza.
 
 ### 33:17
 
-Falso es el caballo para la salvación, y no se escapa por la multitud de su fuerza.
+Mentira es el caballo para salvación, y en muchedumbre de su fuerza no escapará.
 
 ### 33:18
 
-He aquí que el ojo de Jehová está sobre los que le temen, sobre los que esperan en su misericordia.
+He aquí el ojo de Jehová hacia sus temerosos, hacia los que esperan su misericordia,
 
 ### 33:19
 
-Para salvarles de la muerte y para mantenerles vivos en tiempo de hambre.
+para librar de la muerte su alma, y para vivificarlos en el hambre.
 
 ### 33:20
 
-Nuestro alma ha esperado en Jehová, él es nuestro auxilio y nuestro escudo.
+Nuestra alma esperó a Jehová; nuestro ayuda y nuestro escudo es él.
 
 ### 33:21
 
-Porque en él se alegra nuestro corazón, y en su santo nombre nos hemos confiado.
+Porque en él se alegrará nuestro corazón, porque en el nombre de su santidad confiamos.
 
 ### 33:22
 
-Que tu misericordia, Jehová, esté sobre nosotros, como esperamos en ti.
+Sea tu misericordia, Jehová, sobre nosotros, conforme a lo que esperamos en ti.
 
 ## Capítulo 34
 
+
 ### 34:1
 
-Para David en los días que hice su escape ante Abimelec, y él me echó; y yo me aparté. Bendeciré a Jehová en todo tiempo; su alabanza será siempre en mi boca.
+De David, cuando cambió su gusto delante de Abimélek, y lo expulsó, y se fue. Bendeciré a Jehová en todo tiempo; continuamente su alabanza en mi boca.
 
 ### 34:2
 
-En Jehová se gloriará mi alma; los humildes oirán y se alegrarán.
+En Jehová se gloriará mi alma; oirán los humildes y se alegrarán.
 
 ### 34:3
 
-Grandesciendo a Jehová conmigo, engrandecamos su nombre juntos.
+Engrandezcan a Jehová conmigo, y exaltemos su nombre juntos.
 
 ### 34:4
 
-He buscado a Jehová, y él me ha oído de todas mis aflicciones me ha librado.
+Busqué a Jehová, y me respondió, y de todos mis terrores me libró.
 
 ### 34:5
 
-Mirad a mí y sed iluminados, y no os apartéis de entre vosotros.
+Miraron a él y resplandecieron, y sus rostros no serán avergonzados.
 
 ### 34:6
 
-Este es el pobre que clama, y Jehová le oye, y de todas sus aflicciones le salva.
+Este pobre clamó, y Jehová oyó, y de todas sus angustias lo salvó.
 
 ### 34:7
 
-He aquí que el ángel de Jehová acampa alrededor de los que le temen, y los libra.
+Acampa el ángel de Jehová alrededor de sus temerosos, y los rescata.
 
 ### 34:8
 
-Prueba y mira cuán bueno es Jehová; afortunado el hombre que en él confía.
+Prueben y vean que bueno es Jehová; dichoso el varón que se refugia en él.
 
 ### 34:9
 
-Temed a Jehová, oh santos, porque nada le falta a los que le temen.
+Teman a Jehová, sus santos, porque no hay falta para sus temerosos.
 
 ### 34:10
 
-Los jóvenes devoran y tienen hambre, pero los que buscan a Jehová no carecen de ningún bien.
+Los leoncillos empobrecieron y tuvieron hambre, y los buscadores de Jehová no carecerán de todo bien.
 
 ### 34:11
 
-Venid, hijos, escuchadme; yo enseñaré el temor de Jehová a vosotros.
+Vengan, hijos, oigan a mí; el temor de Jehová les enseñaré.
 
 ### 34:12
 
-¿Quién es el hombre que desea la vida y ama los días para ver el bien?
+¿Quién es el hombre deseoso de vidas, amante de días para ver bien?
 
 ### 34:13
 
-Guarda tu lengua del mal y tus labios de hablar engaño.
+Guarda tu lengua de mal, y tus labios de hablar engaño.
 
 ### 34:14
 
-Aparta de mal y haz bien; busca la paz y persíguela.
+Apártate de mal y haz bien; busca paz y persíguela.
 
 ### 34:15
 
-Los ojos de Jehová están sobre los rectos, y sus oídos atienden a sus clamores.
+Los ojos de Jehová hacia los justos, y sus oídos hacia su clamor.
 
 ### 34:16
 
-La faz de Jehová está contra los que hacen el mal para cortar de la tierra la memoria de ellos.
+El rostro de Jehová contra los hacedores de mal, para cortar de la tierra su memoria.
 
 ### 34:17
 
-Claman y Jehová los oye, y de todas sus aflicciones los salva.
+Clamaron, y Jehová oyó, y de todas sus angustias los libró.
 
 ### 34:18
 
-Jehová está cerca de los quebrantados de corazón, y a los abatidos de espíritu salvará.
+Cercano está Jehová a los quebrantados de corazón, y a los aplastados de espíritu salva.
 
 ### 34:19
 
-Mucho sufren los justos, pero Jehová los libra de todas sus calamidades.
+Muchos son los males del justo, y de todos ellos lo librará Jehová.
 
 ### 34:20
 
-Guarda todas mis costillas, ninguna de ellas se ha roto.
+Guarda todos sus huesos; uno de ellos no fue quebrado.
 
 ### 34:21
 
-La muerte del malvado es mala, y los que odian al justo serán avergonzados.
+Matará al malo la maldad, y los odiadores del justo serán culpables.
 
 ### 34:22
 
-El Señor rescatará la vida de sus siervos, y no serán avergonzados todos los que en él confían.
+Redime Jehová el alma de sus siervos, y no serán culpables todos los que se refugian en él.
 
 ## Capítulo 35
 
+
 ### 35:1
 
-Para David: El Señor peleará contra mis enemigos, y comerá a mis adversarios.
+De David. Contiende, Jehová, con mis contendientes; pelea con mis peleadores.
 
 ### 35:2
 
-Fortalécete con el escudo y la lanza, y levántate en mi ayuda.
+Agarra escudo y pavés, y levántate en mi ayuda.
 
 ### 35:3
 
-Y afila la lanza y cierra la puerta ante mis perseguidores, di a mi alma: Tu salvación es mía.
+Y saca lanza, y cierra al encuentro de mis perseguidores; di a mi alma: Tu salvación soy yo.
 
 ### 35:4
 
-Se avergonzarán y quedarán confundidos, los que buscan mi vida retrocederán y huirán, los que piensan en mi maldad.
+Sean avergonzados y humillados los que buscan mi alma; vuelvan atrás y sean confundidos los que piensan mi mal.
 
 ### 35:5
 
-Se convertirán en polvo ante el viento, y el ángel del Señor los empujará.
+Sean como paja delante del viento, y el ángel de Jehová empujando.
 
 ### 35:6
 
-Que su camino sea oscuridad y tinieblas, y el ángel del Señor los persiga.
+Sea su camino tinieblas y resbaladeros, y el ángel de Jehová persiguiéndolos.
 
 ### 35:7
 
-Porque gratuitamente cavaron una trampa para mí, y gratuitamente cavaron para mi alma.
+Porque de balde escondieron para mí fosa de su red; de balde cavaron para mi alma.
 
 ### 35:8
 
-La destrucción vendrá sobre ellos sin que lo sepan, y la trampa que cavaron para mí los atrapará, en la destrucción caerán.
+Que le venga desolación que no conozca, y su red que escondió lo atrape; en desolación caiga en ella.
 
 ### 35:9
 
-Y mi alma se alegrará en el Señor, se regocijará en su salvación.
+Y mi alma se alegrará en Jehová; se gozará en su salvación.
 
 ### 35:10
 
-Todas mis costillas dirán: Jehová, ¿quién como tú que salva al oprimido de la mano del fuerte? Y al afligido y al necesitado de la mano del opresor.
+Todos mis huesos dirán: Jehová, ¿quién como tú, que libras al pobre del más fuerte que él, y al pobre y al necesitado del que lo roba?
 
 ### 35:11
 
-Levantarán testigos de violencia que no conocí; me interrogarán.
+Se levantan testigos de violencia; lo que no conocí me preguntan.
 
 ### 35:12
 
-Me pagarán el mal por el bien, la porción de mi alma.
+Me pagan mal por bien, orfandad para mi alma.
 
 ### 35:13
 
-Y yo, mientras ellos se enferman, me vistí de saco, me humillé con ayuno; y mi oración fue sobre mi pecho.
+Y yo, en su enfermedad, mi vestido era saco; afligí con ayuno mi alma, y mi oración sobre mi seno volvía.
 
 ### 35:14
 
-Como un hermano me he comportado, como un madre afligida me he vestido de saco.
+Como por amigo, como por hermano para mí anduve; como de duelo de madre, enlutado me encorvé.
 
 ### 35:15
 
-Y en mi enfermedad se alegraron, se juntaron contra mí los que no conocían, me desgarraron sin derramar sangre.
+Y en mi cojera se alegraron y se reunieron; se reunieron contra mí golpeadores, y no lo supe; rasgaron y no callaron.
 
 ### 35:16
 
-Con los burlones de Maacah, han desgarrado mis dientes.
+Con hipócritas burladores de pastel, rechinaron sobre mí sus dientes.
 
 ### 35:17
 
-Señor, ¿cómo te veré? Restitúeme la vida de los que me oprimen, de los leones, mi única persona.
+Adonai, ¿hasta cuándo mirarás? Haz volver mi alma de sus desolaciones, de los leoncillos mi única.
 
 ### 35:18
 
-Te alabaré en gran congregación, en un pueblo grande te glorificaré.
+Te daré gracias en asamblea grande; en pueblo numeroso te alabaré.
 
 ### 35:19
 
-No se alegren de mí, mis enemigos, sin causa; mis odiadores, sin motivo, se regocijen con los ojos.
+No se alegren de mí mis enemigos de mentira; los que me odian de balde no guiñen ojo.
 
 ### 35:20
 
-Porque no hablarán de paz, sino de palabras engañosas, de palabras de engaño.
+Porque no paz hablan, y contra los quietos de la tierra palabras de engaños piensan.
 
 ### 35:21
 
-Y se ensancharon contra mí la boca, dijeron: ¿No es este el que ha visto?
+Y ensancharon sobre mí su boca; dijeron: ¡Ea, ea! Lo vio nuestro ojo.
 
 ### 35:22
 
-Viste, Señor, no te quedes mudo; oh Señor, no te alejes de mí.
+Lo viste, Jehová; no calles; Adonai, no te alejes de mí.
 
 ### 35:23
 
-Despierta, ciudad, a mi juicio, oh Dios mío, y Señor, a mi pleito.
+Despierta y levántate para mi juicio, Dios mío y Adonai, para mi contienda.
 
 ### 35:24
 
-Juzgarme conforme a tu justicia, oh Señor, Dios mío, y no se regocijen conmigo.
+Júzgame según tu justicia, Jehová Dios mío, y no se alegren de mí.
 
 ### 35:25
 
-No digan en su corazón: ¡Ah, tenemos su alma! No digan: ¡Nos comernos a él!
+No digan en su corazón: ¡Ea, nuestra alma! No digan: Lo tragamos.
 
 ### 35:26
 
-Se avergüencen y se escondan juntos los que se regocijan en mi maldad; cubranse de vergüenza y de confusión los que me alzan la mano.
+Sean avergonzados y confundidos juntamente los que se alegran de mi mal; vístanse de vergüenza y de humillación los que se engrandecen sobre mí.
 
 ### 35:27
 
-Se regocijen y se alegran los que aman mi justicia; siempre digan: Se engrandece Jehová. El Señor ama la paz de su siervo.
+Canten y se alegren los que se complacen en mi justicia, y digan siempre: Sea engrandecido Jehová, el que se complace en la paz de su siervo.
 
 ### 35:28
 
-Y mi lengua hablará de tu justicia; todo el día la alabanza de ti.
+Y mi lengua meditará tu justicia; todo el día tu alabanza.
 
 ## Capítulo 36
 
+
 ### 36:1
 
-Para el director, de un siervo de Jehová, de David. Palabra de pecado para el impío: No hay temor de Dios delante de sus ojos.
+Al director; del siervo de Jehová, de David. Oráculo de transgresión al impío en medio de mi corazón: no hay temor de Dios delante de sus ojos.
 
 ### 36:2
 
-Porque envidia me mira con los ojos, para hallar en mí pecado.
+Porque se lisonjeó a sí mismo en sus ojos, para hallar su iniquidad, para odiar.
 
 ### 36:3
 
-Sus palabras son perversidad y engaño; ha dejado de entender para hacer el bien.
+Las palabras de su boca son iniquidad y engaño; cesó de entender, de hacer bien.
 
 ### 36:4
 
-Piensa en la maldad sobre su lecho; se levanta, anda por el camino que no es bueno; el mal no aborrece.
+Iniquidad piensa sobre su lecho; se pone sobre camino no bueno; el mal no aborrece.
 
 ### 36:5
 
-Jehová, tu misericordia está en los cielos; tu fidelidad hasta los confines del cielo.
+Jehová, en los cielos está tu misericordia; tu fidelidad hasta las nubes.
 
 ### 36:6
 
-Tu justicia es como las montañas de Dios; tu juicio es un gran abismo. Tú salvas a los hombres y a los animales, Señor.
+Tu justicia como montes de El; tus juicios abismo grande; hombre y bestia salvas, Jehová.
 
 ### 36:7
 
-¡Cuán valioso es tu amor, Dios! Y los hijos de los hombres se refugian en la sombra de tus alas.
+¡Cuán preciosa es tu misericordia, Dios! Y los hijos de hombre en la sombra de tus alas se refugian.
 
 ### 36:8
 
-Se sacian de la abundancia de tu casa, y tú los haces beber de un río de placeres.
+Se sacian de la grosura de tu casa, y del torrente de tus delicias los abrevas.
 
 ### 36:9
 
-Porque contigo está la fuente de la vida; en tu luz vemos la luz.
+Porque contigo está el manantial de vidas; en tu luz veremos luz.
 
 ### 36:10
 
-Extiende tu amor a los que te conocen, y tu justicia a los que son rectos de corazón.
+Extiende tu misericordia a los que te conocen, y tu justicia a los rectos de corazón.
 
 ### 36:11
 
-No me traigas a la presunción de los pies, ni me muevas con la mano de los malvados.
+No me venga pie de soberbia, y mano de impíos no me haga vagar.
 
 ### 36:12
 
-Allí caen los que hacen el mal; son echados y no pueden levantarse.
+Allí cayeron los obradores de iniquidad; fueron empujados y no pudieron levantarse.
 
 ## Capítulo 37
 
+
 ### 37:1
 
-No te enojes con los malvados, ni tengas celos de los que hacen la maldad.
+De David. No te enfurezcas por causa de los malhechores; no envidies a los que hacen iniquidad.
 
 ### 37:2
 
-Porque como la hierba pronto se marchita, y como la hierba verde pronto se seca.
+Porque como hierba pronto serán cortados, y como verdor de hierba se secarán.
 
 ### 37:3
 
-Confía en el Señor y haz el bien; habita en la tierra y sierva de la verdad.
+Confía en Jehová y haz bien; habita la tierra y apacienta fidelidad.
 
 ### 37:4
 
-Y goza del Señor, y él te dará lo que tu corazón desea.
+Y deleítate en Jehová, y él te dará las peticiones de tu corazón.
 
 ### 37:5
 
-Lanza sobre el Señor tu camino, y confía en él, y él lo hará.
+Encomienda a Jehová tu camino, y confía en él, y él hará.
 
 ### 37:6
 
-Y hará salir tu justicia como la luz, y tu juicio como el mediodía.
+Y hará salir como luz tu justicia, y tu juicio como el mediodía.
 
 ### 37:7
 
-Cálmate ante Jehová, y espera en él; no te enojes con el que triunfa en su camino, con el que obra sus planes.
+Calla a Jehová y espérale; no te enfurezcas por el que prospera su camino, por el hombre que hace maquinaciones.
 
 ### 37:8
 
-Aparta de ti la ira, y deja la cólera; no te enojes, pues el malvado será castigado.
+Déjate de la ira y abandona el furor; no te enfurezcas; solo para hacer mal.
 
 ### 37:9
 
-Porque los malvados serán cortados, pero los que esperan en Jehová heredarán la tierra.
+Porque los malhechores serán cortados, y los que esperan a Jehová, ellos heredarán la tierra.
 
 ### 37:10
 
-Y un poco más tarde no habrá malvado, y mirarás en su lugar, y no estará.
+Y aún un poco, y no hay impío; y mirarás sobre su lugar, y no está.
 
 ### 37:11
 
-Y los humildes heredarán la tierra, y se deleitarán en la abundancia de la paz.
+Y los humildes heredarán la tierra, y se deleitarán sobre abundancia de paz.
 
 ### 37:12
 
-El malvado tramada contra el justo, y muerde con sus dientes.
+Maquina el impío contra el justo, y rechina sobre él sus dientes.
 
 ### 37:13
 
-El Señor se ríe de él, porque ve que vendrá su día.
+Adonai se ríe de él, porque vio que viene su día.
 
 ### 37:14
 
-La espada abre la boca a los malvados, y su camino es para tirar al pobre y al necesitado, para matar a los que andan en rectitud.
+Espada abrieron los impíos, y tensaron su arco, para derribar al pobre y al necesitado, para matar a los rectos de camino.
 
 ### 37:15
 
-Su espada vendrá en su corazón, y sus arcos se quebrarán.
+Su espada entrará en su corazón, y sus arcos serán quebrados.
 
 ### 37:16
 
-Mejor es poco para el justo que la abundancia de los malvados.
+Mejor es lo poco del justo que la abundancia de muchos impíos.
 
 ### 37:17
 
-Porque las fuerzas de los malvados se quebrarán, pero Jehová sostendrá a los justos.
+Porque los brazos de los impíos serán quebrados, y Jehová sostiene a los justos.
 
 ### 37:18
 
-El SEÑOR conoce los días de los integros, y su heredad durará para siempre.
+Conoce Jehová los días de los íntegros, y su heredad para siempre será.
 
 ### 37:19
 
-No serán avergonzados en tiempo de calamidad, y en días de hambre se saciarán.
+No serán avergonzados en tiempo de mal, y en días de hambre serán saciados.
 
 ### 37:20
 
-Porque los malvados perecerán, y los enemigos del SEÑOR serán como la gloria de las ciudades, consumidos para siempre.
+Porque los impíos perecerán, y los enemigos de Jehová como lo precioso de corderos; se consumieron; en humo se consumieron.
 
 ### 37:21
 
-El que presta a usura a los impíos y a los que no pagan, el justo lo ayuda y lo salva.
+El impío toma prestado y no paga, y el justo se apiada y da.
 
 ### 37:22
 
-Porque los bendecidos por él heredarán la tierra, y los malditos por él serán cortados.
+Porque sus benditos heredarán la tierra, y sus malditos serán cortados.
 
 ### 37:23
 
-Porque del SEÑOR vienen los pasos del hombre, y el camino del hombre es recto delante de él.
+Por Jehová los pasos del varón son afirmados, y su camino él se complace.
 
 ### 37:24
 
-Porque si cae, no quedará tirado, porque el SEÑOR le sostiene la mano.
+Cuando caiga, no será arrojado, porque Jehová sostiene su mano.
 
 ### 37:25
 
-Yo fui joven, y ahora soy viejo; nunca he visto al justo abandonado, ni a su descendencia mendigando pan.
+Muchacho fui, también envejecí, y no vi justo abandonado, ni su simiente buscando pan.
 
 ### 37:26
 
-Todo el día es compasivo y presta, y su descendencia es bendecida.
+Todo el día se apiada y presta, y su simiente es para bendición.
 
 ### 37:27
 
-Aparta de ti el mal y haz el bien, y habitarás para siempre.
+Apártate del mal y haz bien, y habita para siempre.
 
 ### 37:28
 
-Porque el SEÑOR ama la justicia, y no abandonará a sus fieles; serán guardados para siempre, y la descendencia de los malvados será cortada.
+Porque Jehová ama el juicio, y no abandona a sus piadosos; para siempre son guardados; y la simiente de impíos es cortada.
 
 ### 37:29
 
-Los justos heredarán la tierra, y habitarán en ella para siempre.
+Los justos heredarán la tierra, y habitarán para siempre sobre ella.
 
 ### 37:30
 
-La boca del justo medita sabiduría, y su lengua habla justicia.
+La boca del justo medita sabiduría, y su lengua habla juicio.
 
 ### 37:31
 
-La ley de mi Dios está en mi corazón, no me desviaré de tus mandamientos.
+La torá de su Dios está en su corazón; no resbalan sus pasos.
 
 ### 37:32
 
-El malvado mira al justo y se esfuerza por matarlo.
+Acecha el impío al justo, y busca matarlo.
 
 ### 37:33
 
-El SEÑOR no abandonará al justo en sus manos, ni lo condenará cuando juzga.
+Jehová no lo dejará en su mano, y no lo condenará cuando sea juzgado.
 
 ### 37:34
 
-Confía en el SEÑOR y guarda su camino, y él te elevará para que heredes la tierra; cuando sepa la ruina de los malvados, la verás.
+Espera a Jehová y guarda su camino, y te ensalzará para heredar la tierra; cuando sean cortados los impíos, verás.
 
 ### 37:35
 
-He visto al malvado arrogante, y se ha alzado como un ciudadano próspero.
+Vi al impío violento, y extendiéndose como árbol nativo verde.
 
 ### 37:36
 
-Pero pasa, y ya no está; busco, pero no lo encuentro.
+Y pasó, y he aquí no estaba; y lo busqué, y no fue hallado.
 
 ### 37:37
 
-Guarda el camino y ve el derecho, porque al final el hombre encontrará paz.
+Guarda al íntegro y mira al recto, porque el fin del hombre de paz.
 
 ### 37:38
 
-Pero los pecadores perecerán juntos; al final los malvados serán destruidos.
+Y los transgresores son destruidos juntamente; el fin de los impíos es cortado.
 
 ### 37:39
 
-La salvación de los justos es del SEÑOR; en el tiempo de la adversidad, su fortaleza es refugio.
+Y la salvación de los justos es de Jehová; su fortaleza en tiempo de angustia.
 
 ### 37:40
 
-El SEÑOR los ayudará y los librará; los librará de los malvados y los salvará, porque en él confían.
+Y Jehová los ayudó y los libró; los librará de los impíos y los salvará, porque se refugiaron en él.
 
 ## Capítulo 38
 
+
 ### 38:1
 
-Salmo de David para recordar al SEÑOR: No me reprendas en tu ira, ni me castigues en tu cólera.
+Salmo de David, para recordar. Jehová, no en tu enojo me reprendas, ni en tu furor me disciplines.
 
 ### 38:2
 
-Porque tus flechas han caído sobre mí, y tu mano pesada pesa sobre mí.
+Porque tus flechas descendieron en mí, y descendió sobre mí tu mano.
 
 ### 38:3
 
-No hay salud en mi carne por tu ira, no hay paz en mis huesos por mi pecado.
+No hay integridad en mi carne a causa de tu indignación; no hay paz en mis huesos a causa de mi pecado.
 
 ### 38:4
 
-Porque mis pecados han superado mi cabeza; son como una carga pesada que me pesa.
+Porque mis iniquidades pasaron mi cabeza; como carga pesada pesan más que yo.
 
 ### 38:5
 
-Se han vuelto contra mí, se han unido mis llagas por mi locura.
+Hieden, se pudren mis llagas a causa de mi locura.
 
 ### 38:6
 
-Me he vuelto vil, he estado postrado todo el día; he andado triste.
+Estoy torcido, me encorvé hasta mucho; todo el día enlutado anduve.
 
 ### 38:7
 
-Porque mis callos están llenos de escarnio, y no hay salud en mi carne.
+Porque mis lomos están llenos de ardor, y no hay integridad en mi carne.
 
 ### 38:8
 
-Estoy desfallecido y afligido mucho; he gemido por el peso de mi corazón.
+Estoy entumecido y quebrantado hasta mucho; rugí por el gemido de mi corazón.
 
 ### 38:9
 
-Señor, delante de ti está toda mi ansiedad, y mis gemidos no te han sido ocultos.
+Adonai, delante de ti está todo mi deseo, y mi suspiro de ti no está oculto.
 
 ### 38:10
 
-Mi corazón está agitado, mi fuerza me ha abandonado; también mis ojos no tienen luz.
+Mi corazón palpita; me dejó mi fuerza, y la luz de mis ojos, también ellos no están conmigo.
 
 ### 38:11
 
-Mis amantes y mis amigos se han alejado de mi enfermedad, y mis parientes están lejos.
+Mis amadores y mis compañeros delante de mi llaga se paran, y mis cercanos de lejos se pararon.
 
 ### 38:12
 
-Y buscan mi vida los que me buscan, y los que buscan mi malurden cosas vanas y tramados todo el día.
+Y pusieron lazos los que buscan mi alma, y los que buscan mi mal hablaron destrucciones, y engaños todo el día meditan.
 
 ### 38:13
 
-Y yo soy como el sordo que no oye, y como el mudo que no abre la boca.
+Y yo, como sordo, no oigo; y como mudo, que no abre su boca.
 
 ### 38:14
 
-Y yo soy como un hombre que no oye, y no hay palabras en mi boca.
+Y fui como hombre que no oye, y no hay en su boca reprensiones.
 
 ### 38:15
 
-Porque a ti, Señor, espero; tú me responderás, Señor, mi Dios.
+Porque en ti, Jehová, esperé; tú responderás, Adonai Dios mío.
 
 ### 38:16
 
-Porque dije: ¿Acaso se alegrarán de mí? En mi inestabilidad me han aumentado.
+Porque dije: No sea que se alegren de mí; cuando resbala mi pie, sobre mí se engrandecieron.
 
 ### 38:17
 
-Porque soy un hueso de mi costado, y mi dolor está siempre delante de mí.
+Porque yo para cojera estoy dispuesto, y mi dolor delante de mí siempre.
 
 ### 38:18
 
-Porque confesaré mi pecado, y gemiré por mi culpa.
+Porque mi iniquidad declararé; me angustiaré por mi pecado.
 
 ### 38:19
 
-Y mis enemigos son fuertes, y los que me aborrecen son falsos.
+Y mis enemigos vivos se fortalecieron, y se multiplicaron los que me odian de mentira.
 
 ### 38:20
 
-Los que pagan el mal por el bien perseguirán al hombre bueno.
+Y los que pagan mal por bien me adversan por causa del bien.
 
 ### 38:21
 
-No te apartes de mí, SEÑOR; no me desampares.
+No me abandones, Jehová; Dios mío, no te alejes de mí.
 
 ### 38:22
 
-Oye mi súplica, SEÑOR; tú eres mi salvación.
+Date prisa a mi ayuda, Adonai, mi salvación.
 
 ## Capítulo 39
 
+
 ### 39:1
 
-Decía yo: Guardaré mis caminos para no pecar con mi lengua; guardaré silencio en el mal que está delante de mí.
+Al director; salmo de David. Dije: Guardaré mis caminos de pecar con mi lengua; guardaré a mi boca bozal mientras el impío esté delante de mí.
 
 ### 39:2
 
-Me afligí en silencio; callé y guardé silencio de bien; pero mi dolor se agitaba en mí.
+Enmudecí en silencio; callé del bien, y mi dolor se agitó.
 
 ### 39:3
 
-Mi corazón ardía en mi interior; mientras que en mi lengua ardía el fuego.
+Se calentó mi corazón dentro de mí; en mi meditación ardió fuego; hablé con mi lengua.
 
 ### 39:4
 
-Señor, házmelo conocer, cuánto tiempo me queda, cuántos días me quedan; sé cuánto tiempo me queda.
+Hazme saber, Jehová, mi fin, y la medida de mis días qué es; sepa yo cuán cesante soy.
 
 ### 39:5
 
-He aquí que has puesto mis días en número; cuánto tiempo me queda es como nada frente a ti. ¡Sólo vanidad es toda la vida de un hombre! ¡Sólo vanidad! ¡Sí, es vanidad!
+He aquí palmos diste mis días, y mi edad como nada delante de ti; solo todo vapor es todo hombre que está en pie. Sela.
 
 ### 39:6
 
-Pero el hombre camina en vanidad; en vanidad se afana, y no sabe quién lo recogerá.
+Solo en imagen anda el hombre; solo vapor alborotan; amontona y no sabe quién los recoge.
 
 ### 39:7
 
-Ahora, ¿qué espero yo, Señor? Mi deseo es para ti.
+Y ahora, ¿qué esperé, Adonai? Mi esperanza a ti es.
 
 ### 39:8
 
-Libra de todos mis pecados; no me deshonres con la ignominia de los necios.
+De todas mis transgresiones líbrame; oprobio de necio no me pongas.
 
 ### 39:9
 
-Me afligí y no abrí la boca, porque tú lo hiciste.
+Enmudecí; no abriré mi boca, porque tú hiciste.
 
 ### 39:10
 
-Aparta de mí tu mano, y no me castigues con tu vara, porque estoy lleno de dolores.
+Quita de sobre mí tu llaga; por el embate de tu mano yo me consumí.
 
 ### 39:11
 
-En tus reprimendas te castigas al hombre por su pecado; en tus castigos te humillas al hombre, y en tus iras te humillas al hombre. ¡Sólo vanidad es toda la vida de un hombre! ¡Sí, es vanidad!
+Con reprensiones sobre iniquidad corriges al hombre, y haces derretir como polilla lo deseado de él; solo vapor es todo hombre. Sela.
 
 ### 39:12
 
-Oye, Señor, mi oración; escucha mi clamor; no te cierres a mi llanto, porque soy un extranjero en la tierra, un forastero como mis padres.
+Oye mi oración, Jehová, y a mi clamor presta oído; a mi lágrima no calles; porque forastero soy yo contigo, morador como todos mis padres.
 
 ### 39:13
 
-Aparta de mí tu rostro y yo me apresuraré; antes de que me vaya y no esté contigo.
+Aparta de mí la mirada, y me reanime, antes que yo vaya y no sea.
 
 ## Capítulo 40
 
+
 ### 40:1
 
-Para el director. De David. Salmo. Esperé en el Señor, y él se inclinó hacia mí y me oyó.
+Al director; de David; salmo. Esperando esperé a Jehová, e inclinó a mí y oyó mi clamor.
 
 ### 40:2
 
-Me sacó de un pozo de destrucción, de la lodo del pantano, y me puso sobre una roca; me estableció sobre mis pies.
+Y me subió de pozo de estruendo, de lodo de cieno; y puso sobre peña mis pies; afirmó mis pasos.
 
 ### 40:3
 
-Puso en mi boca un himno nuevo, un himno de alabanza a nuestro Dios. Muchos lo verán y temerán, y confiarán en Jehová.
+Y puso en mi boca cántico nuevo, alabanza a nuestro Dios; verán muchos y temerán, y confiarán en Jehová.
 
 ### 40:4
 
-Dichoso el hombre que pone a Jehová por refugio, y no mira a los vanos y a los engañadores.
+Bienaventurado el varón que puso a Jehová su confianza, y no se volvió a los soberbios y a los que se desvían a mentira.
 
 ### 40:5
 
-Mucho, oh Jehová, has hecho maravillas y pensamientos maravillosos. No hay límite para ellos; quisiera yo declarar y contar, pero no hay suficiente espacio para ello.
+Muchas cosas hiciste tú, Jehová Dios mío; tus maravillas y tus pensamientos hacia nosotros; no hay ordenamiento hacia ti; anunciaría y hablaría; se multiplicaron más que contar.
 
 ### 40:6
 
-No has querido sacrificios ni ofrendas, has abierto mis oídos. No has pedido holocaustos ni pecados.
+Sacrificio y ofrenda no quisiste; oídos me abriste; holocausto y ofrenda por pecado no pediste.
 
 ### 40:7
 
-Entonces dije: He aquí vengo; en el rollo del libro está escrito acerca de mí.
+Entonces dije: He aquí, vengo; en rollo de libro está escrito sobre mí.
 
 ### 40:8
 
-Para hacer tu voluntad, oh Dios, me complazco; y tu ley está en medio de mi corazón.
+Hacer tu voluntad, Dios mío, deseé; y tu torá en medio de mis entrañas.
 
 ### 40:9
 
-En la asamblea grande he proclamado justicia; he aquí, no he guardado silencio; oh Jehová, tú lo sabes.
+Anuncié justicia en asamblea grande; he aquí mis labios no refrené; Jehová, tú conociste.
 
 ### 40:10
 
-No he ocultado tu justicia en medio de mi corazón; tu fidelidad y tu salvación he declarado, no he escondido tu misericordia y tu verdad a la asamblea grande.
+Tu justicia no oculté dentro de mi corazón; tu fidelidad y tu salvación dije; no escondí tu misericordia y tu verdad a asamblea grande.
 
 ### 40:11
 
-Tú, oh Jehová, no retires tus misericordias de mí; tu misericordia y tu verdad me han criado siempre.
+Tú, Jehová, no refrenes tus misericordias de mí; tu misericordia y tu verdad siempre me guarden.
 
 ### 40:12
 
-Porque mis males me han rodeado hasta no tener cuenta, mis pecados me han alcanzado y no puedo verlos; son más que los cabellos de mi cabeza, y mi corazón se ha desvanecido.
+Porque me rodearon males hasta no haber número; me alcanzaron mis iniquidades y no pude ver; se multiplicaron más que los cabellos de mi cabeza, y mi corazón me dejó.
 
 ### 40:13
 
-Oh Jehová, ten misericordia para salvarme; oh Jehová, apresúrate a ayudarme.
+Sé complacido, Jehová, en librarme; Jehová, a mi ayuda date prisa.
 
 ### 40:14
 
-Se avergüencen y se confundan juntos, los que buscan mi vida para destruirla; se aparten y sean confundidos, los que tienen enemistad conmigo.
+Sean avergonzados y confundidos juntos los que buscan mi alma para acabar con ella; vuelvan atrás y sean humillados los que se complacen en mi mal.
 
 ### 40:15
 
-Se avergüenzan y se confunden los que dicen: ¿Ah, ah?
+Sean desolados a causa de su vergüenza los que me dicen: ¡Ea, ea!
 
 ### 40:16
 
-Se alegran y se regocijan en ti todos los que te buscan; siempre dicen: Se ensalza Jehová. Amén.
+Se gocen y se alegren en ti todos los que te buscan; digan siempre: Sea engrandecido Jehová, los que aman tu salvación.
 
 ### 40:17
 
-Y yo soy pobre y necesitado, Jehová, contigo te cuentas mi ayuda y mi liberador; no tardes, oh Dios mío.
+Y yo pobre y necesitado; Adonai piensa en mí; mi ayuda y mi libertador eres tú; Dios mío, no te tardes.
 
 ## Capítulo 41
 
+
 ### 41:1
 
-Para el director. Salmo de David. Dichoso el que tiene entendimiento y se compadece del pobre en el día malo; Jehová lo libra.
+Al director; salmo de David. Bienaventurado el que atiende al pobre; en día de mal lo librará Jehová.
 
 ### 41:2
 
-Jehová lo guardará y vivirá, y bendecirá en la tierra; y no lo entregará en el poder de sus enemigos.
+Jehová lo guardará y lo vivificará en la tierra; y no lo entregues al deseo de sus enemigos.
 
 ### 41:3
 
-Jehová lo sostendrá en la cama de dolores; todo su lecho lo volvió en su enfermedad.
+Jehová lo sostendrá sobre lecho de dolencia; todo su lecho volviste en su enfermedad.
 
 ### 41:4
 
-Yo dije: Jehová, ten misericordia de mí; cura mi alma, porque he pecado contra ti.
+Yo dije: Jehová, tenme misericordia; sana mi alma, porque pequé contra ti.
 
 ### 41:5
 
-Mis enemigos dicen mal de mí: ¿Cuándo morirá y desaparecerá su nombre?
+Mis enemigos dicen mal de mí: ¿Cuándo morirá y perecerá su nombre?
 
 ### 41:6
 
-Y si viene a verme, habla en vanidad; reúne en su corazón la maldad; sale y la profiere.
+Y si viene a ver, vanidad habla; su corazón recoge iniquidad para sí; sale afuera, habla.
 
 ### 41:7
 
-Juntos me murmuran todos mis enemigos; contra mí piensan hacerme mal.
+Juntos contra mí murmuran todos los que me odian; contra mí piensan mal para mí.
 
 ### 41:8
 
-Habla mal de mí, y el que se acostó no se levantará más.
+Cosa de belial es derramada en él; y el que se acostó no volverá a levantarse.
 
 ### 41:9
 
-Incluso el hombre de paz, en quien confié, come mi pan; se ensalza contra mí.
+También hombre de mi paz, en quien confié, que come mi pan, levantó contra mí el calcañar.
 
 ### 41:10
 
-Y tú, SEÑOR, ten misericordia de mí y levántame; pagaré a ellos.
+Y tú, Jehová, tenme misericordia y levántame, y les pagaré a ellos.
 
 ### 41:11
 
-Por esto sé que me amas; porque mi enemigo no me vence.
+En esto conocí que te complaciste en mí: porque no grita mi enemigo sobre mí.
 
 ### 41:12
 
-Y yo, en tu fidelidad, tú me sostienes; y me estableces delante de ti para siempre.
+Y yo, en mi integridad me sostuviste, y me hiciste estar delante de ti para siempre.
 
 ### 41:13
 
-Bendito seas, SEÑOR, dios de Israel, desde la eternidad hasta la eternidad. Amén y amén.
+Bendito Jehová Dios de Israel, desde la eternidad y hasta la eternidad. Amén y amén.
 
 ## Capítulo 42
 
+
 ### 42:1
 
-Para el director, un himno de los hijos de Coré. Como el ciervo deseará el agua, así mi alma te desea, oh Dios.
+Al director; Maskil de los hijos de Koraj. Como el ciervo brama por arroyos de aguas, así mi alma brama hacia ti, Dios.
 
 ### 42:2
 
-Se sequía mi alma por Dios, por el Dios vivo. ¿Cuándo vendré y veré la faz de Dios?
+Sedienta está mi alma de Dios, del El vivo; ¿cuándo vendré y veré el rostro de Dios?
 
 ### 42:3
 
-Mi llanto fue mi alimento de día y de noche; me decían todos los días: ¿Dónde está tu Dios?
+Fue para mí mi lágrima pan de día y de noche, al decirme a mí todo el día: ¿Dónde está tu Dios?
 
 ### 42:4
 
-Estos recuerdo y derramaré mi alma sobre mí, porque paso por el valle de los habitantes, hasta la casa de Dios, con alabanza y confesión, en multitud de quejumbrosos.
+Estas cosas recordaré y derramaré sobre mí mi alma, porque pasaba en la muchedumbre; los conducía hasta la casa de Dios, con voz de canto y de acción de gracias, multitud festejante.
 
 ### 42:5
 
-¿Por qué te desmayas, alma mía, y te angustias en mí? Espera a Dios, porque aún te alabaré, oh Dios, la salvación de mi rostro.
+¿Por qué te abates, alma mía, y te agitas sobre mí? Espera en Dios, porque aún le daré gracias, salvaciones de su rostro.
 
 ### 42:6
 
-Dios mío, sobre mí desmaye mi alma; por eso te recordaré desde la tierra de Jordán y de Hermon, desde el monte de Mispar.
+Dios mío, sobre mí mi alma se abate; por tanto te recuerdo desde tierra de Yardén y de los Hermonim, desde monte Mitsar.
 
 ### 42:7
 
-Abismo a abismo clama a la voz de tus arpas; todos tus quebrantos y tus olas sobre mí han pasado.
+Abismo a abismo llama a la voz de tus cascadas; todas tus rompientes y tus olas sobre mí pasaron.
 
 ### 42:8
 
-Por la mañana me da el SEÑOR su misericordia, y por la noche me canta conmigo; oración a Dios viviente.
+De día Jehová mandará su misericordia, y de noche conmigo está oración al El de mi vida.
 
 ### 42:9
 
-Digo a Dios roca: ¿Por qué me olvidas? ¿Por qué me tratas con hostilidad en el tiempo de la adversidad?
+Diré a El, mi peña: ¿Por qué me olvidaste? ¿Por qué enlutado ando por opresión de enemigo?
 
 ### 42:10
 
-En la violencia de los que me oprimen me desprecian con sus huesos; todo el día me dicen: ¿Dónde está tu Dios?
+Con quebranto en mis huesos me afrentaron mis adversarios, al decirme a mí todo el día: ¿Dónde está tu Dios?
 
 ### 42:11
 
-¿Por qué te abates, alma mía, y por qué te angustias en mí? Espera a Dios, porque aún te alabaré, la salvación de mi rostro y mi Dios.
+¿Por qué te abates, alma mía, y por qué te agitas sobre mí? Espera en Dios, porque aún le daré gracias, salvaciones de mi rostro y mi Dios.
 
 ## Capítulo 43
 
+
 ### 43:1
 
-Juzga a Dios y defiende mi causa de un pueblo sin lealtad, de un hombre engañoso y fraudulento, líbrame.
+Júzgame, Dios, y contiende mi contienda de gente no fiel; de hombre de engaño e iniquidad líbrame.
 
 ### 43:2
 
-Porque eres mi Dios de refugio, ¿por qué me olvidas? ¿Por qué me tratas con hostilidad en el tiempo de la adversidad?
+Porque tú eres Dios de mi fortaleza; ¿por qué me rechazaste? ¿Por qué ando enlutado por opresión de enemigo?
 
 ### 43:3
 
-Envía tu luz y tu verdad; sean éstas las que me guíen; háganme llegar a tu monte santo y a tus moradas.
+Envía tu luz y tu verdad; ellas me guiarán; me traerán al monte de tu santidad y a tus moradas.
 
 ### 43:4
 
-Y yo iré al altar de Dios, al Dios que alegra mi juventud; te alabaré con la harpa, oh Dios, mi Dios.
+Y vendré al altar de Dios, al El de alegría de mi gozo; y te agradeceré con cítara, Dios, Dios mío.
 
 ### 43:5
 
-¿Por qué te abates, alma mía, y por qué te angustias en mí? Espera a Dios, porque aún te alabaré, la salvación de mi rostro y mi Dios.
+¿Qué te abates, alma mía, y qué murmuras sobre mí? Espera a Dios, porque aún lo agradeceré, salvaciones de mi rostro y Dios mío.
 
 ## Capítulo 44
 
+
 ### 44:1
 
-Para el director, de los hijos de Coré, un himno: Dios escuchó en nuestros oídos lo que nuestros padres nos contaron, las obras que hizo en los días de ellos, en los días de antiguo.
+Al director; de hijos de Qóraj; maskil. Dios, con nuestros oídos oímos; nuestros padres nos contaron obra que obraste en sus días, en días de antaño.
 
 ### 44:2
 
-Tú, con tu mano echaste a las naciones y plantaste a los pueblos; tú castigaste a los pueblos y echaste a los reinos.
+Tú, tu mano, naciones desposeíste, y los plantaste; afligiste pueblos, y los enviaste.
 
 ### 44:3
 
-Porque no conquistaron la tierra con la espada, ni su brazo les dio la victoria; sino que tu diestra y tu brazo, y la luz de tu rostro, porque te complacías en ellos.
+Porque no con su espada heredaron tierra, y su brazo no les salvó; sino tu derecha y tu brazo y luz de tu rostro, porque te complaciste en ellos.
 
 ### 44:4
 
-Tú eres mi rey, oh Dios; danza, salvas a Jacob.
+Tú eres él, mi rey, Dios; manda salvaciones de Yaakov.
 
 ### 44:5
 
-En ti, oh Señor, nos empujaron nuestros enemigos; en tu nombre, oh Dios, nos pisotearon nuestros adversarios.
+En ti a nuestros adversarios cornearemos; en tu nombre pisotearemos a los que se levantan contra nosotros.
 
 ### 44:6
 
-No confío en mi arco, y mi espada no me salva.
+Porque no en mi arco confiaré, y mi espada no me salvará.
 
 ### 44:7
 
-Tú nos has librado de nuestros enemigos y de nuestros adversarios nos has humillado.
+Porque tú nos salvaste de nuestros adversarios, y a nuestros aborrecedores avergonzaste.
 
 ### 44:8
 
-En Dios gloriamos todo el día, y tu nombre para siempre damos gracias. Selah.
+En Dios alabamos todo el día, y tu nombre para siempre agradeceremos. Selá.
 
 ### 44:9
 
-También nos has rechazado y nos has humillado, y no sales en nuestros ejércitos.
+También rechazaste y nos avergonzaste, y no sales en nuestros ejércitos.
 
 ### 44:10
 
-Nos has dado la espalda en el tiempo del enemigo, y nuestros adversarios se han burlado de nosotros.
+Nos haces volver atrás de delante del adversario, y nuestros aborrecedores saquearon para sí.
 
 ### 44:11
 
-Nos has vendido como ganado de matanza, y entre las naciones nos has esparcido.
+Nos das como ovejas de comida, y entre las naciones nos esparciste.
 
 ### 44:12
 
-Has vendido tu pueblo por nada, y no has aumentado tu tesoro con el precio de ellos.
+Vendes tu pueblo sin riqueza, y no aumentaste con sus precios.
 
 ### 44:13
 
-Nos has hecho una burla para nuestros vecinos, un escarnio y un chiste para los alrededores.
+Nos pones oprobio a nuestros vecinos, burla y escarnio a nuestros alrededores.
 
 ### 44:14
 
-Nos has hecho un chiste entre las naciones, la risa y la burla de los pueblos.
+Nos pones proverbio entre las naciones, meneo de cabeza entre los pueblos.
 
 ### 44:15
 
-Todo el día nos avergüenzan, y mi rostro está cubierto de vergüenza.
+Todo el día mi vergüenza está delante de mí, y vergüenza de mi rostro me cubrió.
 
 ### 44:16
 
-De la voz del que me insulta y del que me maldice, del enemigo y del que me vengará.
+De voz de ultrajador y de blasfemo, de delante de enemigo y vengador.
 
 ### 44:17
 
-Todo esto nos ha sucedido, y no te hemos olvidado ni hemos mentido en tu pacto.
+Todo esto nos vino, y no te olvidamos, y no mentimos en tu pacto.
 
 ### 44:18
 
-No hemos retrocedido en nuestro corazón, y has inclinado tus ojos desde el camino.
+No se volvió atrás nuestro corazón, ni se apartaron nuestros pasos de tu senda.
 
 ### 44:19
 
-Porque nos has humillado en el lugar de los dragones y has cubierto nuestras sombras con tinieblas.
+Porque nos aplastaste en lugar de chacales, y cubriste sobre nosotros con sombra de muerte.
 
 ### 44:20
 
-¿Acaso hemos olvidado tu nombre, oh Dios, y hemos extendido nuestras manos a un dios extranjero?
+Si olvidamos el nombre de nuestro Dios, y extendimos nuestras palmas a un dios extraño,
 
 ### 44:21
 
-¿Acaso no es Dios quien investiga esto? Porque él conoce los secretos del corazón.
+¿no investigará Dios esto? Porque él conoce ocultamientos de corazón.
 
 ### 44:22
 
-Porque contra nosotros has estado enojado todo el día; nos has considerado como ovejas de matanza.
+Porque por ti somos matados todo el día; somos contados como ovejas de matanza.
 
 ### 44:23
 
-Despiértate, ¿por qué duermes, oh Señor? Levántate, no te rehuses para siempre.
+Despierta; ¿por qué duermes, Adonai? Despiértate; no rechaces para siempre.
 
 ### 44:24
 
-¿Por qué ocultas tu rostro y olvidas nuestro aflicción y opresión?
+¿Por qué ocultas tu rostro, olvidas nuestra aflicción y nuestra opresión?
 
 ### 44:25
 
-Porque nuestra alma se ha hundido en la tierra, y nuestra carne se ha adherido a la tierra.
+Porque se abatió al polvo nuestra alma; se pegó a la tierra nuestro vientre.
 
 ### 44:26
 
-Levántate, ayúdanos, y redímennos por tu misericordia.
+Levántate, ayuda para nosotros, y redímenos por causa de tu misericordia.
 
 ## Capítulo 45
 
+
 ### 45:1
 
-Para el director, sobre los lirios, de los hijos de Coré. Un poema de amor. Mi corazón ha susurrado un buen mensaje: digo yo mis obras al rey. Mi lengua es un pincel de un escriba veloz.
+Al director; sobre lirios; de hijos de Qóraj; maskil; cántico de amores. Bulló mi corazón palabra buena; digo yo mis obras al rey; mi lengua es estilo de escriba veloz.
 
 ### 45:2
 
-Eres más hermoso que los hijos de los hombres; gracia se derrama en tus labios. Por eso te bendice Dios por siempre.
+Hermoseaste más que hijos de hombre; fue derramada gracia en tus labios; por eso te bendijo Dios para siempre.
 
 ### 45:3
 
-Cintura de espada al costado del valiente, tu gloria y tu majestad.
+Cíñete tu espada sobre muslo, valiente, tu esplendor y tu majestad.
 
 ### 45:4
 
-Que tu majestad triunfe, monta sobre la verdad, y la humildad te guía en la justicia. Que tu enseñanza sea terrible en tu diestra.
+Y en tu majestad, prospera; cabalga sobre palabra de verdad y humildad, justicia; y te enseñará cosas temibles tu derecha.
 
 ### 45:5
 
-Tus flechas son afiladas, pueblos caerán bajo ti, en el corazón de los enemigos del rey.
+Tus flechas afiladas; pueblos debajo de ti caerán; en corazón de enemigos del rey.
 
 ### 45:6
 
-Tu trono es de Dios por siempre y para siempre, un cetro de justicia es el cetro de tu reino.
+Tu trono, Dios, es siglo y eternidad; cetro de rectitud es cetro de tu reino.
 
 ### 45:7
 
-Amaste la justicia y aborreciste la maldad, por eso te ungió Dios, tu Dios, con el aceite de alegría de tus compañeros.
+Amaste justicia y aborreciste maldad; por eso te ungió Dios, tu Dios, con aceite de gozo más que a tus compañeros.
 
 ### 45:8
 
-Mirra y almizcles, y todas tus vestiduras son de cedros de Lebán, de los bosques de la sierra, de los que te alegran.
+Mirra y áloes, casias, todas tus vestiduras; de palacios de marfil, instrumentos de cuerda te alegraron.
 
 ### 45:9
 
-Hijas de reyes en tus honores, se presenta la reina a tu diestra, en oro de Ofir.
+Hijas de reyes entre tus preciosas; está puesta la reina a tu derecha en oro de Ofir.
 
 ### 45:10
 
-Escucha, hija, y ve, inclina tu oído, olvida tu pueblo y la casa de tu padre.
+Escucha, hija, y ve, e inclina tu oído, y olvida tu pueblo y casa de tu padre.
 
 ### 45:11
 
-Y el deseo del rey será tu hermosura, porque él es tu señor, y te postrarás ante él.
+Y deseará el rey tu hermosura, porque él es tu señor; y póstrate a él.
 
 ### 45:12
 
-Y la hija de Tiro traerá tus dones, los ricos del pueblo te adorarán.
+Y hija de Tsor con ofrenda; tu rostro rogarán ricos de pueblo.
 
 ### 45:13
 
-Toda la gloria de la hija del rey está en el interior, vestida de oro de Tesoro.
+Toda gloriosa es hija de rey por dentro; de engastes de oro su vestido.
 
 ### 45:14
 
-Para los tapices serás llevada al rey, tras de ti las doncellas, llevadas a ti.
+Con bordados será llevada al rey; vírgenes detrás de ella, sus compañeras, traídas a ti.
 
 ### 45:15
 
-Serás llevada en alegría y gozo, entraras en el palacio del rey.
+Serán llevadas con alegrías y gozo; entrarán en palacio de rey.
 
 ### 45:16
 
-Tus hijos serán como tus padres, los pondrás como príncipes en toda la tierra.
+En lugar de tus padres serán tus hijos; los pondrás por príncipes en toda la tierra.
 
 ### 45:17
 
-Recordaré tu nombre de generación en generación; por eso los pueblos te alabarán siempre.
+Haré recordar tu nombre en toda generación y generación; por eso pueblos te agradecerán por siempre y eternamente.
 
 ## Capítulo 46
 
+
 ### 46:1
 
-Para los hijos de Coré, sobre Alamoth: Salmo de Dios para nosotros: sombra y fortaleza, ayuda en las angustias, gran ayuda.
+Al director; de hijos de Qóraj; sobre alamot; cántico. Dios es para nosotros refugio y fuerza; ayuda en angustias, hallada mucho.
 
 ### 46:2
 
-Por eso no tememos, aunque tiemble la tierra; y aunque los montes se desplacen al mar.
+Por eso no temeremos al mudarse tierra, y al tambalear montes en corazón de mares.
 
 ### 46:3
 
-Tremolarán, se moverán los montes por su ardor; Selah.
+Braman, espuman sus aguas; tiemblan montes en su orgullo. Selá.
 
 ### 46:4
 
-Fluyen ríos de agua, se alegran la ciudad de Dios, su santuario.
+Río; sus corrientes alegrarán ciudad de Dios, santo de moradas de Altísimo.
 
 ### 46:5
 
-Dios está en su santuario, la tierra no temblará; Dios ayudará al amanecer.
+Dios está en medio de ella; no se tambaleará; la ayudará Dios al volverse la mañana.
 
 ### 46:6
 
-Los pueblos se agitan, las naciones se tambalean; en su voz tiembla la tierra.
+Bramaron naciones, se tambalearon reinos; dio su voz, se derrite tierra.
 
 ### 46:7
 
-El Señor de los ejércitos está con nosotros; nuestro refugio es el Dios de Jacob. Selah.
+Jehová de los ejércitos está con nosotros; alcázar para nosotros es el Dios de Yaakov. Selá.
 
 ### 46:8
 
-Venid, ved las obras del Señor, que ha hecho maravillas en la tierra.
+Vayan, vean las obras de Jehová, que puso desolaciones en la tierra.
 
 ### 46:9
 
-Acaba las guerras hasta el extremo de la tierra; rompe el arco, corta la lanza, quema los carros en el fuego.
+Hace cesar guerras hasta extremo de la tierra; arco quebrará y corta lanza; carros quemará en el fuego.
 
 ### 46:10
 
-Descansen y sabed que yo soy Dios. Yo soy el que humilla a las naciones, yo humillo la tierra.
+Desistan y sepan que yo soy Dios; seré exaltado en las naciones, seré exaltado en la tierra.
 
 ### 46:11
 
-El Señor de los ejércitos está con nosotros; él es nuestro refugio, Dios de Jacob. Sela.
+Jehová de los ejércitos está con nosotros; alcázar para nosotros es el Dios de Yaakov. Selá.
 
 ## Capítulo 47
 
+
 ### 47:1
 
-Para el director, de los hijos de Coré, un salmo: Clamad con la trompeta a todas las naciones, haced resonar la trompeta para Dios con un sonido de júbilo.
+Al director; de hijos de Qóraj; salmo. Todos los pueblos, golpeen palma; den grito a Dios con voz de júbilo.
 
 ### 47:2
 
-Porque el Señor es el Altísimo, temible, rey grande sobre toda la tierra.
+Porque Jehová Altísimo es temible; rey grande sobre toda la tierra.
 
 ### 47:3
 
-Decid a las naciones que están debajo de nosotros, y a los pueblos que están bajo nuestros pies.
+Somete pueblos debajo de nosotros, y naciones debajo de nuestros pies.
 
 ### 47:4
 
-Elige para nosotros nuestra heredad, la gloria de Jacob, a quien ama. Sela.
+Escoge para nosotros nuestra heredad, orgullo de Yaakov, a quien amó. Selá.
 
 ### 47:5
 
-Sube, oh Dios, con el sonido de la trompeta, el Señor con el sonido del cuerno.
+Subió Dios con grito; Jehová con voz de shofar.
 
 ### 47:6
 
-Cantad a Dios, cantad, cantad a nuestro rey, cantad.
+Canten a Dios, canten; canten a nuestro rey, canten.
 
 ### 47:7
 
-Porque el rey de toda la tierra es Dios. Cantad sabiamente.
+Porque rey de toda la tierra es Dios; canten maskil.
 
 ### 47:8
 
-El Dios reina sobre las naciones; Dios se sienta en su trono santo.
+Reinó Dios sobre naciones; Dios se sentó sobre trono de su santidad.
 
 ### 47:9
 
-Los nobles de las naciones se reúnen, el pueblo de Dios, el Dios de Abraham, porque a Dios pertenecen las defensas de la tierra, muy poderosas.
+Nobles de pueblos se reunieron; pueblo del Dios de Abraham; porque a Dios son los escudos de tierra; es muy exaltado.
 
 ## Capítulo 48
 
+
 ### 48:1
 
-Un salmo de los hijos de Coré: Grande es el Señor y muy digno de alabanza, en la ciudad de nuestro Dios, en el monte santo.
+Cántico; salmo; de hijos de Qóraj. Grande es Jehová y muy alabado en ciudad de nuestro Dios, monte de su santidad.
 
 ### 48:2
 
-Hermosa la ciudad de la montaña de Sion, la ciudad del gran rey, en el norte.
+Hermoso de altura, gozo de toda la tierra es monte de Tsiyón, extremos del norte, ciudad de rey grande.
 
 ### 48:3
 
-Dios se hizo conocido en las alturas.
+Dios en sus palacios es conocido por alcázar.
 
 ### 48:4
 
-Porque he aquí que los reyes se reúnen, pasan juntos.
+Porque he aquí los reyes se congregaron; pasaron juntos.
 
 ### 48:5
 
-Se maravillan, se asombran, se retuercen.
+Ellos vieron; así se asombraron; se turbaron; se apresuraron.
 
 ### 48:6
 
-Temblores los agarran allí, estremece como el parto.
+Temblor los agarró allí; dolor como de la que da a luz.
 
 ### 48:7
 
-Con el viento del norte se rompen las naves de Tarshish.
+Con viento de oriente quebrantarás naves de Tarshísh.
 
 ### 48:8
 
-Como habíamos oído, así lo vimos en la ciudad del Señor de los ejércitos, en la ciudad de nuestro Dios. Dios la establecerá para siempre. Amén.
+Como oímos, así vimos en ciudad de Jehová de los ejércitos, en ciudad de nuestro Dios; Dios la afirmará hasta siempre. Selá.
 
 ### 48:9
 
-Dad gracias a Dios por su bondad en su templo.
+Hemos meditado, Dios, tu misericordia en medio de tu palacio.
 
 ### 48:10
 
-Como tu nombre, Dios, así tu alabanza hasta los confines de la tierra. Tu derecha está llena de justicia.
+Como tu nombre, Dios, así tu alabanza sobre extremos de tierra; justicia llenó tu derecha.
 
 ### 48:11
 
-Se alegrará el monte Sion, se regocijarán las hijas de Judá, por tus juicios.
+Se alegrará monte de Tsiyón; se regocijarán hijas de Yehudá por causa de tus juicios.
 
 ### 48:12
 
-Digan alrededor de Sion: ‘Contad sus torres’.
+Rodeen Tsiyón y la circunden; cuenten sus torres.
 
 ### 48:13
 
-Fijen su mente en su fortaleza, anden por sus murallas, para que puedan contar a la generación venidera.
+Pongan su corazón a su muro; pasen por sus palacios, para que cuenten a generación posterior.
 
 ### 48:14
 
-Porque este es nuestro Dios para siempre y para siempre; él nos guiará por la muerte.
+Porque este Dios es nuestro Dios por siempre y eternamente; él nos guiará hasta la muerte.
 
 ## Capítulo 49
 
+
 ### 49:1
 
-Para el director, de los hijos de Coré, un himno: Escuchad esto, todos los pueblos; oíd, todos los que habitáis en el mundo.
+Al director; de hijos de Qóraj; salmo. Escuchen esto, todos los pueblos; presten oído, todos habitantes de mundo.
 
 ### 49:2
 
-Hijos de hombres, hijos de hombre, juntos el rico y el pobre.
+También hijos de hombre, también hijos de varón, juntos rico y necesitado.
 
 ### 49:3
 
-Mi boca hablará de sabiduría, y la meditación de mi corazón será de inteligencia.
+Mi boca hablará sabidurías, y meditación de mi corazón inteligencias.
 
 ### 49:4
 
-Inclinadme a la parábola, escuchad con la oreja; abriré en el arpa mi enigma.
+Inclinaré a proverbio mi oído; abriré con cítara mi enigma.
 
 ### 49:5
 
-¿Por qué temeré en los días malos, cuando la iniquidad de mis pies me rodea?
+¿Por qué temeré en días de mal, cuando iniquidad de mis talones me rodea?
 
 ### 49:6
 
-Los que confían en su riqueza y se glorían en su abundancia.
+Los que confían sobre su fuerza, y en abundancia de su riqueza se jactan—
 
 ### 49:7
 
-No podrá redimir un hermano, ni dar a Dios su rescate.
+hermano de ningún modo redimirá a hombre; no dará a Dios su rescate.
 
 ### 49:8
 
-Y el precio de la redención de su alma será caro, y vivirá para siempre.
+Y es costoso el rescate de su alma, y cesó para siempre,
 
 ### 49:9
 
-Y vivirá para siempre, no verá la corrupción.
+para que viva aún para siempre; no verá la fosa.
 
 ### 49:10
 
-Porque verá la sabiduría morirá juntamente con el necio y el insensato perecerá; y dejarán su riqueza a otros.
+Porque verá: sabios mueren; juntos necio e insensato perecen, y dejan a otros su fuerza.
 
 ### 49:11
 
-Sus casas están en la ciudad para siempre, sus moradas de generación en generación; llamarán por sus nombres en la tierra.
+Su interior: sus casas para siempre, sus moradas de generación en generación; llamaron por sus nombres sobre tierras.
 
 ### 49:12
 
-Porque el hombre no permanece en gloria; se asemeja a los animales que perecen.
+Y hombre en honor no pernocta; es semejante a bestias; se asemejaron.
 
 ### 49:13
 
-Este es su camino: son necios, y después de ellos vendrán sus hijos para hacer lo que ellos hicieron. Sela.
+Este su camino es necedad para ellos, y tras ellos con su boca se complacen. Selá.
 
 ### 49:14
 
-Como ovejas para el Seol, ellos la preparan; en ella pastorean; la mañana los devora, y su esplendor se desvanece en el Seol.
+Como ovejas para Sheol fueron puestos; muerte los pastorea; y dominarán en ellos rectos a la mañana; y su forma para Sheol, para consumir de morada a él.
 
 ### 49:15
 
-Pero Dios me redimirá de la mano del Seol, porque me tomará. Sela.
+Pero Dios redimirá mi alma de mano de Sheol, porque me tomará. Selá.
 
 ### 49:16
 
-No temas cuando un hombre se enriquezca, cuando aumente el honor de su casa.
+No temas cuando se enriquezca hombre, cuando se multiplique gloria de su casa.
 
 ### 49:17
 
-Porque no llevará consigo sus riquezas cuando muera; su gloria no descenderá tras él.
+Porque no en su muerte tomará el todo; no descenderá tras él su gloria.
 
 ### 49:18
 
-Porque en vida bendecirá su alma, y serán sus bienaventurados cuando le vaya bien.
+Porque su alma en sus vidas bendice, y te agradecen cuando le va bien a ti.
 
 ### 49:19
 
-Entrará en la generación de sus padres, nunca más verá la luz.
+Vendrá hasta generación de sus padres; hasta eternidad no verán luz.
 
 ### 49:20
 
-El hombre no entiende, y es como los animales que perecen.
+Hombre en honor y no entiende; es semejante a bestias; se asemejaron.
 
 ## Capítulo 50
 
+
 ### 50:1
 
-Salmo de Asaf. Dios, el Dios de Dioses, habla y convoca a la tierra desde el amanecer hasta el ocaso.
+Salmo de Asaf. El, Dios, Jehová, habló y llamó tierra desde salida de sol hasta su puesta.
 
 ### 50:2
 
-Desde Sion, la perfección de la belleza, Dios se manifiesta.
+Desde Tsiyón, perfección de hermosura, Dios resplandeció.
 
 ### 50:3
 
-Viene nuestro Dios y no guarda silencio; delante de él arde el fuego, consume a su alrededor y se levanta una gran tempestad.
+Vendrá nuestro Dios y no callará; fuego delante de él comerá, y alrededor de él tempestad mucho.
 
 ### 50:4
 
-Llama al cielo desde arriba y a la tierra para juzgar a su pueblo.
+Llamará a los cielos desde arriba, y a la tierra, para juzgar a su pueblo.
 
 ### 50:5
 
-Reúnanse a mí, mis fieles, los que hacen pacto conmigo en sacrificio.
+Reúnanme a mis fieles, cortadores de mi pacto sobre sacrificio.
 
 ### 50:6
 
-Anuncian los cielos su justicia, porque Dios es juez. Sela.
+Y anunciaron cielos su justicia, porque Dios juez es él. Selá.
 
 ### 50:7
 
-Escucha, pueblo mío, y hablaré; Israel, y te acusaré. Dios, tu Dios, soy yo.
+Escucha, pueblo mío, y hablaré; Israel, y testificaré contra ti: Dios, tu Dios, soy yo.
 
 ### 50:8
 
-No te reprocharé por tus sacrificios, y tus ofrendas constantemente ante mí.
+No sobre tus sacrificios te reprenderé, y tus holocaustos delante de mí continuamente.
 
 ### 50:9
 
-No tomaré de tu casa un buey, ni de tus corderos, un macho cabrío.
+No tomaré de tu casa toro, de tus apriscos machos cabríos.
 
 ### 50:10
 
-Porque para mí son todos los animales del bosque, y las bestias del monte.
+Porque mía es toda bestia de bosque, animales en montes de mil.
 
 ### 50:11
 
-Conozco a todos los pájaros del monte, y a los animales del campo.
+Conozco toda ave de montes, y lo que se mueve de campo está conmigo.
 
 ### 50:12
 
-Si tuviera hambre, no te lo diría; porque el mundo y todo lo que contiene es mío.
+Si tuviera hambre, no te lo diría a ti; porque mía es el mundo y su plenitud.
 
 ### 50:13
 
-¿Acaso comería la carne de toros y bebería la sangre de carneros?
+¿Comeré carne de toros fuertes, y sangre de machos cabríos beberé?
 
 ### 50:14
 
-Sacrifica a Dios acción de gracias, y paga tus votos a lo Alto.
+Sacrifica a Dios acción de gracias, y paga al Altísimo tus votos.
 
 ### 50:15
 
-Y clama a mí en el día de la adversidad; yo te libraré, y tú me glorificarás.
+Y llámame en día de angustia; te libraré, y me honrarás.
 
 ### 50:16
 
-Al pecador le dije: ¿Qué te importa hablar de mis estatutos, y has traído mi pacto en tus labios?
+Y al malvado dijo Dios: ¿Qué a ti para contar mis estatutos, y tomas mi pacto sobre tu boca?
 
 ### 50:17
 
-Y tú odiaste la corrección y echaste mis palabras tras de ti.
+Y tú aborreciste corrección, y echaste mis palabras detrás de ti.
 
 ### 50:18
 
-Si viste al ladrón, y lo defendiste, y con los adúlteros has tenido parte.
+Si viste ladrón, y corriste con él, y con adúlteros tu porción.
 
 ### 50:19
 
-Tu boca hablaste mal y tu lengua urdió engaño.
+Tu boca enviaste en mal, y tu lengua trama engaño.
 
 ### 50:20
 
-Vivirás con tu hermano, hablarás con el hijo de tu madre.
+Te sientas; contra tu hermano hablas; contra hijo de tu madre das difamación.
 
 ### 50:21
 
-Estas cosas hiciste, y callé; pensaste que yo era como tú. Te reprenderé, y esto pondré delante de tus ojos.
+Estas cosas hiciste, y callé; imaginaste ser yo como tú; te reprenderé y las pondré en orden a tus ojos.
 
 ### 50:22
 
-Entiende esto, oh olvidador de Dios, que yo te desgarraré, y no habrá quien te libre.
+Entiendan, por favor, esto, olvidadizos de Dios, no sea que despedace y no haya quien libre.
 
 ### 50:23
 
-Ofrecerás sacrificio de acción de gracias, y honrarás a mí, y pondrás tu camino delante de mí en la presencia de Dios.
+El que sacrifica acción de gracias me honra; y el que pone camino, le haré ver en salvación de Dios.
 
 ## Capítulo 51
 
+
 ### 51:1
 
-Al músico director, de David. Ten misericordia de mí, oh Dios, según tu misericordia; según la multitud de tus misericordias, borra mis iniquidades.
+Al director; salmo de David; cuando vino a él Natán el profeta, como cuando vino a Bat-Shava. Ten misericordia de mí, Dios, conforme a tu misericordia; conforme a la abundancia de tus compasiones borra mis rebeliones.
 
 ### 51:2
 
-En tu ira, oh Dios, la revelación del profeta me vino, como vino a Bat-Sabá: lava mí iniquidad, y de mi pecado límpiame.
+Lávame de mi iniquidad, y de mi pecado límpiame.
 
 ### 51:3
 
-Porque yo sé mis iniquidades, y mi pecado está siempre delante de mí.
+Porque mis rebeliones yo conozco, y mi pecado delante de mí continuamente.
 
 ### 51:4
 
-Contigo, y contigo solamente, he pecado, y lo malo delante de tus ojos he hecho, para que seas justificado en tus palabras, y vengas a ser limpio en tus juicios.
+A ti, a ti solo, pequé, y lo malo en tus ojos hice; para que seas justo en tu hablar, seas limpio en tu juzgar.
 
 ### 51:5
 
-He aquí, en pecado fui concebido, y en maldad nací mi madre.
+He aquí, en iniquidad fui formado, y en pecado me concibió mi madre.
 
 ### 51:6
 
-He aquí, la verdad tú la amas, y en sospechas la sabiduría me enseñará.
+He aquí, verdad deseaste en lo íntimo, y en lo oculto sabiduría me harás conocer.
 
 ### 51:7
 
-Manchame con ezov y quedaré purificado, lávelame y quedaré blanco como la nieve.
+Purifícame con hisopo, y seré limpio; lávame, y más que nieve seré blanco.
 
 ### 51:8
 
-Háblame de gozo y alegría, que se regocijen tus huesos que duermen en la tierra.
+Hazme oír gozo y alegría; se regocijarán los huesos que aplastaste.
 
 ### 51:9
 
-Oculta tu rostro de mis pecados, y borra todos mis pecados.
+Esconde tu rostro de mis pecados, y todas mis iniquidades borra.
 
 ### 51:10
 
-Dios, crea en mí un corazón limpio, y renueva en mi interior un espíritu recto.
+Corazón puro crea para mí, Dios, y espíritu firme renueva dentro de mí.
 
 ### 51:11
 
-No me apartes de tu presencia, y tu Espíritu Santo no me quites.
+No me eches de delante de tu rostro, y el espíritu de tu santidad no tomes de mí.
 
 ### 51:12
 
-Devuélveme la alegría de tu salvación, y un espíritu generoso sosténme.
+Devuélveme el gozo de tu salvación, y espíritu generoso me sostenga.
 
 ### 51:13
 
-Enséñale a los pecadores tus caminos, y a los transgresores vuelve a ti.
+Enseñaré a rebeldes tus caminos, y pecadores a ti volverán.
 
 ### 51:14
 
-Salvame de la sangre, Dios, Dios de mi salvación; que mi lengua cante tus justicias.
+Líbrame de sangres, Dios, Dios de mi salvación; cantará mi lengua tu justicia.
 
 ### 51:15
 
-Señor, abre mis labios, y mi boca proclamará tu alabanza.
+Adonai, mis labios abrirás, y mi boca anunciará tu alabanza.
 
 ### 51:16
 
-Porque no has querido sacrificio, y ofrenda no has buscado.
+Porque no deseas sacrificio, y yo daría; holocausto no te agrada.
 
 ### 51:17
 
-Sacrificios de Dios son un espíritu quebrantado, un corazón quebrantado y humillado, oh Dios, no los menosprecies.
+Sacrificios de Dios son espíritu quebrantado; corazón quebrantado y aplastado, Dios, no despreciarás.
 
 ### 51:18
 
-Haz bien en tu voluntad a Sion, edifica las murallas de Jerusalén.
+Haz bien en tu beneplácito a Tsiyón; edifica muros de Yerushaláyim.
 
 ### 51:19
 
-Entonces te complacerás en sacrificios de justicia, en holocaustos y en toda ofrenda; entonces se presentarán sobre tu altar novillos.
+Entonces desearás sacrificios de justicia, holocausto y completo; entonces subirán sobre tu altar toros.
 
 ## Capítulo 52
 
+
 ### 52:1
 
-Para el director, de David: ¿Qué te gloriarás en el mal, oh valiente? La bondad de Dios es todo el día.
+Al director; maskil de David; cuando vino Doeg el edomí y anunció a Shaúl y le dijo: Vino David a casa de Ajimélek. ¿Qué te jactas en mal, oh poderoso? Misericordia de El es todo el día.
 
 ### 52:2
 
-Cuando llegó Doeg el edomita y le contó a Saúl, dijo: David ha llegado a casa de Ajimelec. Piensa en tus palabras como en un cuchillo afilado, que hace mentiras.
+Destrucciones trama tu lengua; como navaja afilada, haciendo engaño.
 
 ### 52:3
 
-Amaste el mal más que el bien, la mentira más que la verdad. Selah.
+Amaste mal más que bien, mentira más que hablar justicia. Selá.
 
 ### 52:4
 
-Amaste todas las palabras de Balá, la lengua de engaño.
+Amaste todas las palabras de tragar, lengua de engaño.
 
 ### 52:5
 
-También Dios te castigará para siempre, te humillará y te arrancará de tu tienda, y tus raíces de la tierra de la vida. Selah.
+También El te derribará para siempre; te arrebatará y te arrancará de tienda, y te desarraigará de la tierra de vivos. Selá.
 
 ### 52:6
 
-Y verán los justos y temerán, y se burlarán de ellos.
+Y verán justos y temerán, y sobre él se reirán:
 
 ### 52:7
 
-He aquí el hombre no pondrá a Dios por refugio, sino que confiará en la abundancia de su riqueza. Su fuerza será en su maldad.
+He aquí el varón que no pone a Dios su fortaleza, y confió en la abundancia de su riqueza; se fortalece en su destrucción.
 
 ### 52:8
 
-Y yo como olivo frondoso en la casa de Dios, confiaré en la bondad de Dios para siempre y para siempre.
+Y yo como olivo verde en la casa de Dios; confié en la misericordia de Dios por siempre y eternamente.
 
 ### 52:9
 
-Te alabaré para siempre, porque me has hecho; y esperaré tu nombre, porque es bueno delante de tus santos.
+Te agradeceré para siempre, porque hiciste; y esperaré tu nombre, porque es bueno, delante de tus fieles.
 
 ## Capítulo 53
 
+
 ### 53:1
 
-Un necio dice en su corazón: No hay Dios. Corrompen y abominan; no hay quien haga el bien.
+Al director; sobre majalat; maskil de David. Dijo el necio en su corazón: No hay Dios. Corrompieron y abominaron iniquidad; no hay quien haga bien.
 
 ### 53:2
 
-Dios mira desde los cielos para ver si hay quien entienda, quien busque a Dios entre los hijos de los hombres.
+Dios desde los cielos miró sobre los hijos de hombre, para ver si hay entendimiento, buscador de Dios.
 
 ### 53:3
 
-Todos se corrompen juntos; no hay quien haga el bien. No hay tampoco ninguno.
+Todos se desviaron; juntos se corrompieron; no hay quien haga bien; no hay ni siquiera uno.
 
 ### 53:4
 
-¿No saben los que hacen el mal que comen el pan de mi pueblo? No invocan a Dios.
+¿No conocieron los obradores de iniquidad, comedores de mi pueblo? Comieron pan; a Dios no invocaron.
 
 ### 53:5
 
-Allí temen el temor que no había; porque Dios ha dispersado las costillas de los que se refugian. Ha humillado, porque Dios ha rechazado a ellos.
+Allí temieron terror; no hubo terror; porque Dios esparció los huesos del que te acampa; avergonzaste, porque Dios los desechó.
 
 ### 53:6
 
-¿Quién dará de Sion la salvación de Israel? Cuando Dios vuelva a juntar a su pueblo, Jacob se alegrará, Israel se regocijará.
+¿Quién dará desde Tsiyón salvaciones de Israel? Cuando vuelva Dios el cautiverio de su pueblo, se regocijará Yaakov, se alegrará Israel.
 
 ## Capítulo 54
 
+
 ### 54:1
 
-Dios, en tu nombre me salva, y en tu fuerza me juzgas.
+Al director; en neguinot; maskil de David; al venir los zifim y decir a Shaúl: ¿No David se esconde con nosotros? Dios, en tu nombre sálvame, y en tu valentía júzgame.
 
 ### 54:2
 
-Cuando vinieron los zifeos y dijeron a Saúl: ¿No está David escondido con nosotros? Dios, escucha mi oración; presta oído a las palabras de mi boca.
+Dios, oye mi oración; presta oído a los dichos de mi boca.
 
 ### 54:3
 
-Porque extranjeros se levantaron contra mí, y los violentos buscan mi vida; no pusieron a Dios delante de ellos. ¡Selah!
+Porque extraños se levantaron contra mí, y violentos buscaron mi alma; no pusieron a Dios delante de ellos. Selá.
 
 ### 54:4
 
-He aquí que Dios me ayuda; el Señor es el sostén de mi alma.
+He aquí Dios es ayudador a mí; Adonai entre los que sostienen mi alma.
 
 ### 54:5
 
-Hago mal a mis enemigos que me dominan; en tu verdad los destruiré.
+El mal a mis acechadores; en tu verdad aniquílalos.
 
 ### 54:6
 
-En voluntario sacrificio te ofrezco; te alabo, Señor, porque eres bueno.
+Con ofrenda voluntaria sacrificaré a ti; alabaré tu nombre, Jehová, porque es bueno.
 
 ### 54:7
 
-Porque me ha librado de toda angustia, y mis enemigos han visto mi gozo.
+Porque de toda angustia me libró, y en mis enemigos vio mi ojo.
 
 ## Capítulo 55
 
+
 ### 55:1
 
-Al que me enseña, en la música de David, escucha, oh Dios, mi oración, y no des oídos a mis súplicas.
+Al director; en neguinot; maskil de David. Presta oído, Dios, a mi oración, y no te escondas de mi súplica.
 
 ### 55:2
 
-Oye mi voz y resuénndeme; en el murmullo de mi voz gime.
+Atiende a mí y respóndeme; me agito en mi meditación y gimo.
 
 ### 55:3
 
-Del clamor del enemigo, del rostro de los impíos, porque se han levantado contra mí para hacerme mal y me desprecian con ira.
+Por causa de la voz de enemigo, por faces de opresión de malvado; porque hacen tambalear sobre mí iniquidad, y con ira me odian.
 
 ### 55:4
 
-Mi corazón se angustia dentro de mí, y el temor de la muerte cae sobre mí.
+Mi corazón se retuerce dentro de mí, y terrores de muerte cayeron sobre mí.
 
 ### 55:5
 
-Terror y temblor me sobrevienen, y la desolación me cubre.
+Temor y temblor vienen en mí, y horror me cubrió.
 
 ### 55:6
 
-Y dije: ¿Quién me dará alas como las de una paloma, para que yo vuele y alíe en el desierto?
+Y dije: ¿Quién dará a mí ala como la paloma? Volaré y habitaré.
 
 ### 55:7
 
-He aquí que me aparto lejos, alíe en el desierto. Sela.
+He aquí, alejaré huyendo; pernoctaré en el desierto. Selá.
 
 ### 55:8
 
-Huyo de la seguridad, de la tormenta y del huracán.
+Me apresuraré escape para mí de viento tempestuoso, de tormenta.
 
 ### 55:9
 
-El Señor ha devorado la lengua de los que hablan con doblez, porque he visto violencia y contienda en la ciudad.
+Traga, Adonai; divide su lengua; porque vi violencia y contienda en la ciudad.
 
 ### 55:10
 
-Día y noche se mueven alrededor de sus murallas, y en su interior hay maldad y trabajo.
+De día y de noche la rodean sobre sus murallas, e iniquidad y trabajo dentro de ella.
 
 ### 55:11
 
-En su interior hay engaños, y no se aparta de sus calles la mentira y la trampa.
+Desastres dentro de ella, y no se aparta de su plaza engaño y dolo.
 
 ### 55:12
 
-Porque no me insulta mi enemigo, y no levanta contra mí al que me aborrece. Cuando se ensancha, no me oculto de él.
+Porque no enemigo me afrenta, y lo soportaría; no mi odiador sobre mí se engrandeció, y me escondería de él.
 
 ### 55:13
 
-Pero tú eres como yo, un hombre entre hombres, mi amigo y mi conocido.
+Sino tú, hombre conforme a mi rango, mi jefe y mi conocido.
 
 ### 55:14
 
-Que juntos guardamos secretos en la casa de Dios, andando con temor.
+Que juntos endulzábamos consejo; en la casa de Dios andábamos en tumulto.
 
 ### 55:15
 
-Descienden al abismo de los vivos, porque en sus moradas hay malicia en su interior.
+Sobre ellos desciendan Sheol vivos, porque males en su morada, dentro de ellos.
 
 ### 55:16
 
-A Dios clamo yo, y Jehová me salvará.
+Yo a Dios llamaré, y Jehová me salvará.
 
 ### 55:17
 
-Por la tarde, por la mañana y al mediodía, gimo y lloro, y él oye mi voz.
+Tarde y mañana y mediodía meditaré y gemiré, y oyó mi voz.
 
 ### 55:18
 
-Redime en paz mi alma del cercano peligro, porque muchos estaban conmigo.
+Rescató en paz mi alma de la guerra contra mí, porque en muchos estaban conmigo.
 
 ### 55:19
 
-Oye, oh Dios, y responde a ellos. El que habita en el oriente, Selah. Que no hay cambios para ellos, y no temen a Dios.
+Oirá El y les responderá, y el que se sienta desde antiguo. Selá. A los que no hay cambios para ellos, y no temieron a Dios.
 
 ### 55:20
 
-Extendió su mano en paz conmigo, pero profanó su alianza.
+Extendió sus manos contra sus pacíficos; profanó su pacto.
 
 ### 55:21
 
-Dividió las palabras de mi boca, y su corazón se volvió leal con mis palabras untadas de aceite, pero ellos son traicioneros.
+Suaves como manteca su boca, y guerra su corazón; se ablandaron sus palabras más que aceite, y ellas espadas desenvainadas.
 
 ### 55:22
 
-Lanza sobre Jehová tu carga, y él te sostendrá; no permitirá que el justo se tambalee para siempre.
+Echa sobre Jehová tu carga, y él te sustentará; no dará para siempre tambaleo al justo.
 
 ### 55:23
 
-Pero tú, oh Dios, los arrojarás a la cisterna de la ruina, a los hombres de sangre y engaño; sus días no serán divididos, y yo me confiaré en ti.
+Y tú, Dios, los harás bajar al pozo de fosa; hombres de sangres y engaño no alcanzarán la mitad de sus días; y yo confiaré en ti.
 
 ## Capítulo 56
 
+
 ### 56:1
 
-Suplica a Jehová tu carga, y él te sostendrá; cuando los filisteos me tomaron en Gat, clamé a Dios, porque soy un hombre que todo el día lucha y es oprimido.
+Al director; sobre Yonat Élem Rejoqim; de David; miktam; al asir a él pelishtim en Gat. Tenme gracia, Dios, porque me tragó hombre; todo el día el que pelea me oprime.
 
 ### 56:2
 
-Mis enemigos me atacan todo el día, porque hay muchos que me combaten desde lo alto.
+Tragaron mis acechadores todo el día, porque muchos los que pelean a mí desde lo alto.
 
 ### 56:3
 
-En el día que temo, confío en ti.
+Día que temo, yo a ti confío.
 
 ### 56:4
 
-En Dios alabaré sus palabras; en Dios confiaré, no temeré; ¿qué puede hacer la carne contra mí?
+En Dios alabaré su palabra; en Dios confié; no temeré; ¿qué hará la carne a mí?
 
 ### 56:5
 
-Todo el día me atacan mis palabras; contra mí piensan mal todos sus pensamientos.
+Todo el día mis palabras afligen; sobre mí todos sus pensamientos para el mal.
 
 ### 56:6
 
-Se reúnen y me vigilan; guardan mis pasos como si esperaran mi vida.
+Moran ellos; mis talones guardan, como que esperaron mi alma.
 
 ### 56:7
 
-Por la maldad los he echado; con ira hacia los pueblos, Dios los hace descender.
+Sobre iniquidad, ¿escape para ellos? Con ira pueblos haz bajar, Dios.
 
 ### 56:8
 
-Contaste mi nido, ¿no lo hiciste tú? Guardaste mis lágrimas en tu aljibe; ¿no están en tu libro?
+Mi andar contaste tú; pon mi lágrima en tu odre; ¿no en tu libro?
 
 ### 56:9
 
-Entonces se volverán mis enemigos atrás en el día que los llamo; esto lo sé, porque Dios es para mí.
+Entonces volverán mis enemigos atrás en el día que yo llame; esto supe, que Dios para mí.
 
 ### 56:10
 
-En Dios alabaré sus palabras; en Jehová alabaré sus palabras.
+En Dios alabaré palabra; en Jehová alabaré palabra.
 
 ### 56:11
 
-En Dios confiaré, no temeré; ¿qué puede hacer el hombre contra mí?
+En Dios confié; no temeré; ¿qué hará hombre a mí?
 
 ### 56:12
 
-Oh Dios, guardas mis votos; pagaré mis ofrendas a ti.
+Sobre mí, Dios, tus votos; pagaré acciones de gracias a ti.
 
 ### 56:13
 
-Porque me has librado de la muerte; ¿no me has librado de caer en el pozo para caminar ante Dios en la luz de la vida?
+Porque libraste mi alma de muerte; ¿no mis pies de tropiezo, para andar delante de Dios en la luz de los vivos?
 
 ## Capítulo 57
 
+
 ### 57:1
 
-Para el que toca el arpa, no destruyas, de David, cuando huía de Saúl en la cueva. Ten piedad de mí, Dios, ten piedad de mí, porque en ti he confiado mi alma y en la sombra de tus alas me esconderé hasta que pase la calamidad.
+Al director; Al tashjét; de David; miktam; al huir él de faces de Shaúl en la cueva. Tenme gracia, Dios, tenme gracia, porque en ti se refugió mi alma, y en la sombra de tus alas me refugio hasta que pasen desastres.
 
 ### 57:2
 
-Clamo a Dios Altísimo, al Dios que cumple su palabra sobre mí.
+Clamaré a Dios Altísimo, al El que completa sobre mí.
 
 ### 57:3
 
-Emitirá desde los cielos y me salvará; escupirá mi aliento. Dios enviará su misericordia y su verdad.
+Enviará desde los cielos y me salvará; afrentó el que me traga. Selá. Enviará Dios su misericordia y su verdad.
 
 ### 57:4
 
-Mi alma está entre los leones; duermo entre los hijos de los hombres, cuyos dientes son lanzas y flechas, y cuya lengua es una espada afilada.
+Mi alma en medio de leones; me acuesto entre los que arden; hijos de hombre, sus dientes lanza y flechas, y su lengua espada afilada.
 
 ### 57:5
 
-Eleva tu poder sobre los cielos, Dios; sobre toda la tierra tu gloria.
+Exáltate sobre los cielos, Dios; sobre toda la tierra tu gloria.
 
 ### 57:6
 
-Redes prepararon para mí, han doblado sus redes; han caído en ellos, Selah.
+Red prepararon a mis pasos; inclinó mi alma; cavaron delante de mí fosa; cayeron en medio de ella. Selá.
 
 ### 57:7
 
-Mi corazón está recto, oh Dios, mi corazón está recto; cantaré y alabaré.
+Firme mi corazón, Dios, firme mi corazón; cantaré y tañeré.
 
 ### 57:8
 
-Despierta mi gloria, despierta la arpa y la cítara; alborada, tocaré.
+Despierta, gloria mía; despierta, nével y kinor; despertaré el alba.
 
 ### 57:9
 
-Te alabaré entre los pueblos, oh Señor; entre las naciones tocaré tus alabanzas.
+Te alabaré entre los pueblos, Adonai; te tañeré entre las naciones.
 
 ### 57:10
 
-Porque tu misericordia es grande hasta los cielos, y tu verdad hasta los confines del cielo.
+Porque grande hasta los cielos tu misericordia, y hasta las nubes tu verdad.
 
 ### 57:11
 
-Eleva tu poder sobre los cielos, oh Dios; sobre toda la tierra tu gloria.
+Exáltate sobre los cielos, Dios; sobre toda la tierra tu gloria.
 
 ## Capítulo 58
 
+
 ### 58:1
 
-Por la misericordia, no destruyas, para David, secreto de verdad. Hablarán de justicia, juzgarán a los hombres rectos.
+Al director; Al tashjét; de David; miktam. ¿Acaso muda justicia hablarán ustedes? Rectitudes juzgarán ustedes, hijos de hombre?
 
 ### 58:2
 
-También en el corazón harán ofrendas en la tierra, y molerán la violencia de sus manos.
+Antes, en el corazón maldades hacen ustedes; en la tierra violencia de sus manos pesan ustedes.
 
 ### 58:3
 
-Separarán a los malvados desde el vientre, y los mentirosos hablarán desde la matriz.
+Se alienaron los malvados desde el vientre; erraron desde el seno los que hablan mentira.
 
 ### 58:4
 
-Su ira es como la de un serpiente, como la de un ciego que tropieza, atontarán su oído.
+Veneno de ellos como semejanza de veneno de serpiente; como áspid sordo que tapa su oído.
 
 ### 58:5
 
-Que no escucha el ruido de los que le hablan, se une con los que le unen, son unidos.
+Que no oye a la voz de encantadores, juntador de juntas el sabio.
 
 ### 58:6
 
-Dios destruirá sus dientes en su boca, los que erran como leones, destruirá Jehová.
+Dios, derriba sus dientes en su boca; colmillos de leoncillos quiebra, Jehová.
 
 ### 58:7
 
-Se aburrirán como el agua, andarán en su camino, doblarán su espada como si se retorcieran.
+Se disuelvan como aguas; anden para ellos; tense él su arco, y sean como se cortan.
 
 ### 58:8
 
-Como un montón de basura andará, como un aborto de mujer, no han visto el sol.
+Como caracol que se derrite ande; aborto de mujer no vieron sol.
 
 ### 58:9
 
-Antes de que entiendan sus tazones, serán como un gusano, como un hombre viviente, como un hombre enojado, se enojarán.
+Antes que entiendan sus ollas el espino, como vivo, como ardor, los arrebatará.
 
 ### 58:10
 
-Se alegrará el justo cuando vea la venganza, lavará sus pies en la sangre del pecador.
+Se alegrará el justo porque vio venganza; sus pies bañará en la sangre del malvado.
 
 ### 58:11
 
-Y dirá el hombre: Sólo el fruto del justo, sólo hay Dios que juzga en la tierra.
+Y dirá hombre: Ciertamente fruto para el justo; ciertamente hay Dios jueces en la tierra.
 
 ## Capítulo 59
 
+
 ### 59:1
 
-Por la misericordia, no destruyas, para David, secreto en la huida de Saúl. Y guardaron la casa para matarlo. Rescátame de mis enemigos, Dios mío, de los que se levantan contra mí, exaltadme.
+Al director; Al tashjét; de David; miktam; al enviar Shaúl y guardar la casa para matarlo. Líbrame de mis enemigos, Dios mío; de los que se levantan contra mí ensálzame.
 
 ### 59:2
 
-Salvame de los que hacen el mal y librame de los hombres violentos.
+Líbrame de hacedores de iniquidad, y de hombres de sangres sálvame.
 
 ### 59:3
 
-Porque he aquí que acechan mi vida; se han hecho fuertes contra mí; no hay en mí pecado ni maldad, oh Señor.
+Porque he aquí acecharon a mi alma; se juntan contra mí fuertes; no mi rebelión y no mi pecado, Jehová.
 
 ### 59:4
 
-Sin culpa conspiran y se establecen; despiértate para recibirme y mira.
+Sin iniquidad corren y se preparan; despierta a mi encuentro y mira.
 
 ### 59:5
 
-Y tú, oh Señor Dios de los ejércitos, Dios de Israel, despiértate para castigar a todos los pueblos; no seas tibio con todos los traidores, ¡oh Señor! Sela.
+Y tú, Jehová Dios de ejércitos, Dios de Israel, despierta para visitar a todas las naciones; no tengas gracia a todos los traidores de iniquidad. Selá.
 
 ### 59:6
 
-Vuelven al atardecer, se mueven como un lebrel; recorren la ciudad.
+Vuelven a la tarde; aullan como el perro, y rodean la ciudad.
 
 ### 59:7
 
-He aquí que en sus bocas brotan palabras de violencia, y en sus labios hay maldad; ¿quién las oirá?
+He aquí vomitan con su boca; espadas en sus labios, porque ¿quién oye?
 
 ### 59:8
 
-Y tú, oh Señor, te burlas de ellos; te mofas de todos los pueblos.
+Y tú, Jehová, te reirás de ellos; te burlarás de todas las naciones.
 
 ### 59:9
 
-Mi fuerza la guardaré contigo, porque eres mi Dios, oh refugio mío.
+Su fuerza a ti guardaré, porque Dios es mi torre alta.
 
 ### 59:10
 
-Dios de misericordias, adelántame; Dios, muestra a tu siervo a los que me dominan.
+Dios mío me saldrá al encuentro; Dios me hará ver en mis acechadores.
 
 ### 59:11
 
-No los mates, para que no olviden mi pueblo; aleja a los que me oprimen; haz que bajen, oh Señor, nuestro escudo.
+No los mates, no sea que olvide mi pueblo; hazlos tambalear con tu ejército y hazlos bajar, escudo nuestro, Adonai.
 
 ### 59:12
 
-Por la maldad de su boca y por las palabras de sus labios, sean atrapados en su soberbia; por maldiciones y por engaños hablarán.
+Pecado de su boca, palabra de sus labios, y sean atrapados en su soberbia, y de maldición y de mentira que cuentan.
 
 ### 59:13
 
-Acabas con ira, acabas; no los hay, y sabrán que Dios reina en Jacob, hasta los confines de la tierra. Sela.
+Acaba con furor, acaba y no sean; y sepan que Dios rige en Yaakov hasta los confines de la tierra. Selá.
 
 ### 59:14
 
-Y volverán al atardecer, como lebayeros, y recorrerán la ciudad.
+Y vuelven a la tarde; aullan como el perro, y rodean la ciudad.
 
 ### 59:15
 
-Se moverán para comer, si no se sacian; y pasarán la noche.
+Ellos para comer; si no se sacian, y pernoctan.
 
 ### 59:16
 
-Y yo cantaré tu fortaleza y al amanecer cantaré tu misericordia, porque tú eres mi elevación y mi refugio en el día de la adversidad.
+Y yo cantaré tu fuerza, y gritaré de gozo a la mañana tu misericordia, porque fuiste torre alta a mí y escape en día de angustia a mí.
 
 ### 59:17
 
-Mi fortaleza a ti la alzaré, porque Dios es mi elevación y mi Dios es el de mi misericordia.
+Fuerza mía, a ti tañeré, porque Dios es mi torre alta, Dios de mi misericordia.
 
 ## Capítulo 60
 
+
 ### 60:1
 
-Para el director, sobre shoshannim, un salmo de David para enseñar: Dios nos ha despreciado, nos ha roto, ha enojado y ha vuelto a nosotros.
+Al director; sobre Shushan Edut; miktam de David para enseñar; al pelear él a Aram Nahráyim y a Aram Tsová, y volvió Yoav y hirió a Edom en Guey Melaj doce mil. Dios, nos rechazaste, nos quebraste; te airaste; restáuranos.
 
 ### 60:2
 
-Cuando te enfrentaste a Aram-Naharaim y a Aram-Zobah, y Joab volvió, y derrotó a Edom en el valle de Salim, doce mil los derribaste; la tierra estremecida, la has desgarrado; descansa, quebrantada estás.
+Hiciste temblar la tierra; la hendiste; sana sus quiebros, porque se tambalea.
 
 ### 60:3
 
-Has mostrado a tu pueblo dureza, has dado a beber a tu siervo vino de espinas.
+Hiciste ver a tu pueblo dureza; nos diste a beber vino de vértigo.
 
 ### 60:4
 
-Has dado a tus temerosos una bandera para que se refugien de la flecha, Sela.
+Diste a los que te temen bandera para alzarla por causa de verdad. Selá.
 
 ### 60:5
 
-Para que sean liberados tus amigos, salva con tu diestra y escúchanos.
+Para que sean liberados tus amados; salva tu diestra.
 
 ### 60:6
 
-Dios ha hablado en su santidad: yo me alegraré, dividiré a Siquem, y mediré el valle de Sukkot.
+Dios habló en su santidad: Me regocijaré; repartiré Shejem, y el valle de Sukot mediré.
 
 ### 60:7
 
-Galaad es mío, y Manasés es mío, y Efraín es mi fortaleza de cabeza, y Judá es mi ley.
+Mío Gilad, y mío Menashé, y Efráyim fortaleza de mi cabeza; Yehudá mi legislador.
 
 ### 60:8
 
-Moab es mi tina para lavar, sobre Edom derramaré mis sandalias, sobre ti, Filistea, te retorcerás.
+Moav olla de mi lavado; sobre Edom echaré mi sandalia; sobre mí, Peleshet, grita.
 
 ### 60:9
 
-¿Quién me llevará a la ciudad fortificada? ¿Quién me guiará hasta Edom?
+¿Quién me llevará a ciudad de asedio? ¿Quién me guió hasta Edom?
 
 ### 60:10
 
-¿Acaso no eres tú, Dios, quien nos ha despreciado? ¿No saldrá Dios con nuestras tropas?
+¿No tú, Dios, que nos rechazaste? ¿Y no saldrás, Dios, en nuestros ejércitos?
 
 ### 60:11
 
-Dánnos ayuda de la adversidad, y la salvación del hombre es vanidad.
+Danos ayuda desde angustia, porque vanidad es la salvación de hombre.
 
 ### 60:12
 
-Con Dios haremos valentía, y él será nuestro enemigo.
+En Dios haremos fuerza, y él hollará a nuestros angustidores.
 
 ## Capítulo 61
 
+
 ### 61:1
 
-Para el director, al son del arpa de David: Oye, Dios, el canto de mi alabanza; escúchame la oración.
+Al director; sobre neguinat; de David. Oye, Dios, mi grito; atiende mi oración.
 
 ### 61:2
 
-Desde el extremo de la tierra te invoco, con el corazón enhiesto te suplico; en la roca que es más alta que yo, sáname.
+Desde el extremo de la tierra a ti clamaré cuando desfallece mi corazón; a la peña que se alza más que yo me guiarás.
 
 ### 61:3
 
-Porque tú has sido mi refugio, un baluarte de fortaleza ante el enemigo.
+Porque fuiste refugio a mí, torre de fuerza de faces de enemigo.
 
 ### 61:4
 
-Conservaré en tu tienda por siempre, me esconderé bajo tus alas, Selah.
+Habitaré en tu tienda por siempre; me refugiaré en el secreto de tus alas. Selá.
 
 ### 61:5
 
-Porque tú, Dios, has escuchado mis votos, has dado a los que temen tu nombre una herencia.
+Porque tú, Dios, oíste a mis votos; diste heredad de los que temen tu nombre.
 
 ### 61:6
 
-Añadirás días al rey como los días de la eternidad; como generación y generación tus años.
+Días sobre días de rey añadirás; sus años como generación y generación.
 
 ### 61:7
 
-Se sentará para siempre ante Dios, la misericordia y la verdad lo guardarán.
+Se sentará para siempre delante de Dios; misericordia y verdad asigna; lo guardarán.
 
 ### 61:8
 
-Así cantaré tu nombre por siempre, por la satisfacción de mis votos cada día.
+Así tañeré tu nombre para siempre, para pagar mis votos día a día.
 
 ## Capítulo 62
 
+
 ### 62:1
 
-A Dios solamente guardaré silencio, de él viene mi salvación.
+Al director; sobre Yedutún; salmo de David. Solo a Dios silencio mi alma; de él mi salvación.
 
 ### 62:2
 
-Sólo él es mi roca y mi salvación, mi fortaleza, no vacilaré.
+Solo él mi peña y mi salvación; mi torre alta; no me tambalearé mucho.
 
 ### 62:3
 
-Hasta cuándo se desvanecerán sobre el hombre, se inclinarán todos como una pared hundida, como un muro que se derrumba.
+¿Hasta cuándo asaltarán ustedes sobre un hombre? Matarán ustedes todos; como pared inclinada, seto empujado.
 
 ### 62:4
 
-Sólo de él se aconsejan para apartarlo, querrán engañar con sus labios, pero en su interior maldicen. Selah.
+Solo desde su exaltación aconsejaron derribar; aceptan mentira; con su boca bendicen, y dentro de ellos maldicen. Selá.
 
 ### 62:5
 
-Sólo a Dios guardaré silencio, porque de él viene mi esperanza.
+Solo a Dios calla, alma mía, porque de él mi esperanza.
 
 ### 62:6
 
-Sólo él es mi roca y mi salvación, mi fortaleza, no vacilaré.
+Solo él mi peña y mi salvación; mi torre alta; no me tambalearé.
 
 ### 62:7
 
-Sobre Dios es mi salvación y mi gloria, mi roca es mi fortaleza y mi refugio.
+Sobre Dios mi salvación y mi gloria; peña de mi fuerza, mi refugio en Dios.
 
 ### 62:8
 
-Confían en él en todo tiempo, pueblo, derraman ante él su corazón. Dios es nuestro refugio. Selah.
+Confíen ustedes en él en todo tiempo, pueblo; derramen delante de él su corazón; Dios es refugio para nosotros. Selá.
 
 ### 62:9
 
-Sólo son vanidad los hijos del hombre, son mentira los hijos del hombre, pesados en balanzas, juntos son vanidad.
+Solo vanidad hijos de hombre; mentira hijos de varón; en balanzas para subir, ellos de vanidad juntos.
 
 ### 62:10
 
-No confíen en el opresor ni en el ladrón, no se desesperen por el fruto de sus trabajos, porque el fruto de sus trabajos se pierde. No se enojen.
+No confíen ustedes en opresión, y en robo no se vanaglorien ustedes; caudal cuando florece, no pongan ustedes corazón.
 
 ### 62:11
 
-Una cosa ha dicho Dios, dos veces la he oído: que es poderoso Dios.
+Una cosa habló Dios; dos estas oí: que fuerza a Dios.
 
 ### 62:12
 
-Y a ti, Señor, es tu misericordia, porque tú recompensas a cada uno según sus obras.
+Y a ti, Adonai, misericordia, porque tú pagas a hombre conforme a su obra.
 
 ## Capítulo 63
 
+
 ### 63:1
 
-Salmo de David. Cuando estaba en el desierto de Judá: Dios mío, tú eres mi Dios, a ti te busco; mi alma tiene sed de ti; mi carne anhela por ti en tierra seca y sin agua.
+Salmo de David; al estar él en el desierto de Yehudá. Dios, El mío eres tú; te busco de madrugada; sedienta de ti mi alma; te anhela mi carne en tierra seca y cansada sin agua.
 
 ### 63:2
 
-Así en el santo templo te he visto, para contemplar tu poder y tu gloria.
+Así en el santuario te contemplé, para ver tu fuerza y tu gloria.
 
 ### 63:3
 
-Porque tu bondad es mejor que la vida; mis labios te alabarán.
+Porque mejor tu misericordia que las vidas; mis labios te alabarán.
 
 ### 63:4
 
-Así te bendeciré en mi vida; en tu nombre alzaré mis manos.
+Así te bendeciré en mis vidas; en tu nombre alzaré mis palmas.
 
 ### 63:5
 
-Como la grasa y la carne magra te satisfacen mi alma; y mis labios de alabanza te cantarán.
+Como sebo y grosura se saciará mi alma, y labios de gritos de gozo alabará mi boca.
 
 ### 63:6
 
-Si te recuerdo en la noche, meditaré sobre ti en las horas de vigilia.
+Si te recordé sobre mis lechos, en las vigilias meditaré en ti.
 
 ### 63:7
 
-Porque tú has sido mi ayuda, y en la sombra de tus alas me regocijaré.
+Porque fuiste ayuda a mí, y en la sombra de tus alas gritaré de gozo.
 
 ### 63:8
 
-Mi alma se aferra a ti; en tu derecha tienes la victoria.
+Se pegó mi alma detrás de ti; en mí sostuvo tu diestra.
 
 ### 63:9
 
-Pero ellos serán destruidos; buscarán mi vida, pero caerán en el abismo.
+Y ellos para ruina buscan mi alma; entrarán en lo bajo de la tierra.
 
 ### 63:10
 
-Serán dispersos por la espada; serán la presa de los chacales.
+Lo derramarán sobre las manos de espada; porción de zorros serán.
 
 ### 63:11
 
-Y el rey se alegrará en Dios; todos los que juran por él se regocijarán, porque la boca de los que hablan mentiras será cubierta.
+Y el rey se alegrará en Dios; se gloriará todo el que jura en él, porque será cerrada la boca de los que hablan mentira.
 
 ## Capítulo 64
 
+
 ### 64:1
 
-Para el director: Salmo de David. Señor, escucha mi voz en mi clamor; en el temor del enemigo, guarda mi vida.
+Al director; salmo de David. Oye, Dios, mi voz en mi meditación; de terror de enemigo guarda mi vida.
 
 ### 64:2
 
-Escondeme de la conspiración de los malvados, de la compañía de los que hacen el mal.
+Escóndeme de consejo de malhechores, de tumulto de hacedores de iniquidad.
 
 ### 64:3
 
-Que afilan la lengua como una espada, cuyos dardos son palabras amargas.
+Que afilaron como la espada su lengua; tensaron su flecha, palabra amarga.
 
 ### 64:4
 
-Para disparar desde los lugares ocultos contra el justo; de repente disparan y no temen.
+Para disparar en los escondites al íntegro; de pronto lo disparan y no temen.
 
 ### 64:5
 
-Fortalecen su maldad, hablan de ocultar lazos mortales y dicen: ¿Quién nos verá hacerlo?
+Se fortalecen a ellos palabra mala; cuentan para esconder trampas; dijeron: ¿Quién verá a ellos?
 
 ### 64:6
 
-Exploran la justicia, buscan la trampa del injusto y su corazón y mente son profundamente maliciosos.
+Escudriñan maldades; acabamos pesquisa pesquisada; e interior de hombre y corazón profundo.
 
 ### 64:7
 
-Pero Dios les dispara una flecha de repente; se convierten en sus propias víctimas.
+Y Dios les disparó flecha; de pronto fueron sus heridas.
 
 ### 64:8
 
-Y los hacen tropezar con sus propias palabras; todos los que los ven se alegran.
+Y los harán caer sobre ellos su lengua; se moverán todos los que ven en ellos.
 
 ### 64:9
 
-Y todos temen, y declaran las obras de Dios y entienden sus acciones.
+Y temieron todos hombre, y anunciaron la obra de Dios, y su hecho entendieron.
 
 ### 64:10
 
-El justo se alegra en Jehová y se refugia en él, y todos los rectos de corazón se glorían.
+Se alegrará el justo en Jehová y se refugiará en él; y se gloriarán todos los rectos de corazón.
 
 ## Capítulo 65
 
+
 ### 65:1
 
-Para el director: Salmo de David. Cántico a ti, silencio y alabanza, oh Dios, en Sion; a ti se te pagará el voto.
+Al director; salmo de David; canción. A ti silencio alabanza, Dios en Tsiyón; y a ti se pagará voto.
 
 ### 65:2
 
-Escuchas la oración, a ti vendrá toda carne.
+Oyente de oración; hasta ti toda carne vendrá.
 
 ### 65:3
 
-Las palabras de nuestros pecados nos han sobrepasado; tú, oh Dios, las perdonas.
+Palabras de iniquidades prevalecieron sobre mí; nuestras rebeliones tú las cubrirás.
 
 ### 65:4
 
-Bienaventurado el que elige y se acerca; habitarán en tus atrios; se sacian de tus bienes; se llenan de la gracia de tu casa; temen tu santo templo.
+Dichoso el que escoges y acercas; habitará tus atrios; nos saciaremos en el bien de tu casa, santo de tu palacio.
 
 ### 65:5
 
-En justicia nos responderás, oh Dios de nuestra salvación; esperanza de todas las extremidades de la tierra y de los mares lejanos.
+Cosas temibles en justicia nos responderás, Dios de nuestra salvación; confianza de todos los confines de la tierra y mar lejanos.
 
 ### 65:6
 
-Fundas los montes con tu fuerza; te ceñes de poder.
+El que prepara montes con su fuerza; ceñido de valentía.
 
 ### 65:7
 
-Elevas el rugido de los mares, el rugido de sus olas y el tumulto de los pueblos.
+El que aquieta el estruendo de mares, el estruendo de sus olas, y el tumulto de pueblos.
 
 ### 65:8
 
-Se asustan los que habitan en los extremos de la tierra por tus señales; salen la mañana y la tarde y cantan.
+Y temieron los habitantes de confines de tus señales; salidas de mañana y tarde haces gritar de gozo.
 
 ### 65:9
 
-Visitaste la tierra y la regaron; la hiciste rica; la hiciste abundante; el río de Dios está lleno de agua; preparas su grano; así la preparas.
+Visitaste la tierra y la regaste; en gran manera la enriqueces; arroyo de Dios lleno de aguas; preparas su grano, porque así la preparas.
 
 ### 65:10
 
-Regarás sus surcos; harás que gotee su lluvia; harás que crezca su hierba.
+Sus surcos empapa; asienta sus terrones; con lluvias la disuelves; su brote bendices.
 
 ### 65:11
 
-Coronas el año de tu bondad; tus senderos se llenarán de grasa.
+Coronaste el año de tu bien, y tus sendas destilan grosura.
 
 ### 65:12
 
-Se llenarán los valles de abundancia; el gozo de las colinas los rodeará.
+Destilan pastos de desierto, y de júbilo los collados se ciñen.
 
 ### 65:13
 
-Se visten de pastos los montes y los valles se cubren de trigo; se regocijan y cantan.
+Se vistieron los prados de ovejas, y los valles se cubren de grano; gritan de gozo, también cantan.
 
 ## Capítulo 66
 
+
 ### 66:1
 
-Para el director, un himno. Tocad a Dios, toda la tierra.
+Al director. Cántico. Salmo. Griten a Dios, toda la tierra.
 
 ### 66:2
 
-Cantad la gloria de su nombre; dadle gloria; alabadlo.
+Canten la gloria de su nombre; pongan gloria su alabanza.
 
 ### 66:3
 
-Decid a Dios: ¿Qué es tan temible de tus obras? En tu grandeza, tus enemigos mienten acerca de ti.
+Digan a Dios: ¡Qué temible tus obras! En la muchedumbre de tu fuerza mentirán a ti tus enemigos.
 
 ### 66:4
 
-Toda la tierra te adorará y te cantará; cantarán tu nombre, Selah.
+Toda la tierra se postrará a ti y cantarán a ti; cantarán tu nombre. Selá.
 
 ### 66:5
 
-Venid y ved las obras de Dios; temibles son sus acciones para con los hijos de los hombres.
+Vayan y vean las obras de Dios; temible hazaña sobre los hijos de hombre.
 
 ### 66:6
 
-Volcó el mar en tierra firme; en el río caminarán a pie; allí se alegrará.
+Volvió el mar a sequedad; en el río pasarán a pie; allí nos alegramos en él.
 
 ### 66:7
 
-Rige con tu poder eternamente; tus ojos miran a las naciones; los rebeldes no alzaran la mano contra ti, Selah.
+Gobernante en su poder eternidad; sus ojos en las naciones acechan; los rebeldes, no a ellos. Selá.
 
 ### 66:8
 
-Bendecid a Dios, pueblos, y haced oír la voz de su alabanza.
+Bendigan, pueblos, a nuestro Dios, y hagan oír la voz de su alabanza,
 
 ### 66:9
 
-Nos has puesto la vida; no has permitido que nuestros pies vacilen.
+el que pone nuestra alma en las vidas, y no dio al tambaleo nuestro pie.
 
 ### 66:10
 
-Porque nos has probado, Dios; nos has refinado como el oro se refina.
+Porque nos probaste, Dios; nos refinaste como refinar plata.
 
 ### 66:11
 
-Nos has llevado a la angustia; nos has puesto en la miseria.
+Nos trajiste en la red; pusiste opresión en nuestros lomos.
 
 ### 66:12
 
-Nos has puesto como un pájaro en la jaula; nos has llevado en el fuego y en el agua; nos has sacado a la abundancia.
+Hiciste montar hombre a nuestra cabeza; entramos en el fuego y en las aguas, y nos sacaste a hartura.
 
 ### 66:13
 
-Entraré en tu casa con holocaustos; te pagaré mis votos.
+Entraré a tu casa con holocaustos; pagaré a ti mis votos
 
 ### 66:14
 
-Porque mis labios se han abierto; mi lengua ha hablado en mi angustia.
+que abrieron mis labios, y habló mi boca en la angustia a mí.
 
 ### 66:15
 
-Ofreceré holocaustos de fuego contigo, con el incienso de carneros; haré novillos con toros, Selah.
+Holocaustos de cebados haré subir a ti, con incienso de carneros; haré novillos con machos cabríos. Selá.
 
 ### 66:16
 
-Venid, oíd y contaré todo lo que ha hecho por mí, oh todos los que teméis a Dios.
+Vayan, oigan, y contaré, todos los temerosos de Dios, lo que hizo a mi alma.
 
 ### 66:17
 
-A ti, oh Dios, he llamado con mi boca, y mi lengua ha proclamado tu alabanza.
+A él mi boca llamé, y exaltación debajo de mi lengua.
 
 ### 66:18
 
-Si he visto en mi corazón, no escuchará Jehová.
+Iniquidad si vi en mi corazón, no oirá Adonai.
 
 ### 66:19
 
-Jehová ha escuchado, ha prestado oídos a la voz de mi súplica.
+Ciertamente oyó Dios; atendió en la voz de mi oración.
 
 ### 66:20
 
-Bendito sea Dios, que no ha apartado mi súplica ni su misericordia de mí.
+Bendito Dios, que no apartó mi oración ni su misericordia de conmigo.
 
 ## Capítulo 67
 
+
 ### 67:1
 
-Para el director: Sobre las cuerdas, un cántico. Dios nos ha bendecido y nos ha bendecido; ilumina tu rostro sobre nosotros, Selah.
+Al director. En instrumentos de cuerda. Salmo. Cántico. Dios nos haga gracia y nos bendiga; haga brillar su rostro con nosotros. Selá.
 
 ### 67:2
 
-Para que se sepa en la tierra tu camino, y entre todas las naciones tu salvación.
+Para conocer en la tierra tu camino, en todas las naciones tu salvación.
 
 ### 67:3
 
-Los pueblos te alabarán, oh Dios; los pueblos te alabarán, todos ellos.
+Te confesarán pueblos, Dios; te confesarán pueblos, todos ellos.
 
 ### 67:4
 
-Se alegrarán y cantarán de gozo los pueblos, porque juzgarás a las naciones con justicia y guiarás a los pueblos de la tierra, Selah.
+Se alegrarán y gritarán de júbilo las naciones, porque juzgarás pueblos con equidad, y a las naciones en la tierra guiarás. Selá.
 
 ### 67:5
 
-Los pueblos te alabarán, oh Dios; los pueblos te alabarán, todos ellos.
+Te confesarán pueblos, Dios; te confesarán pueblos, todos ellos.
 
 ### 67:6
 
-La tierra ha dado su fruto; Dios, nuestro Dios, nos bendecirá.
+La tierra dio su producto; nos bendecirá Dios, nuestro Dios.
 
 ### 67:7
 
-Que nos bendiga Dios, y temanle todos los confines de la tierra.
+Nos bendecirá Dios, y le temerán todos los confines de la tierra.
 
 ## Capítulo 68
 
+
 ### 68:1
 
-Para el director, de David: Un salmo. Cántico. Levántate, Dios, dispersa a mis enemigos, huye de mí todo el que me odia.
+Al director. De David. Salmo. Cántico. Se levantará Dios; serán dispersados sus enemigos, y huirán sus aborrecedores de delante de su rostro.
 
 ### 68:2
 
-Como se disipa el humo, así se disiparán; como se derrite la cera ante el fuego, así perecerán los malvados ante Dios.
+Como disipar humo, disiparás; como derretirse cera de delante de fuego, perecerán los malvados de delante de Dios.
 
 ### 68:3
 
-Y los justos se alegrarán, se regocijarán ante Dios, y se gozarán en júbilo.
+Y los justos se alegrarán; exultarán delante de Dios, y se regocijarán con alegría.
 
 ### 68:4
 
-Cantad a Dios, tocad su nombre, exaltadle que monta en los cielos; su nombre es el SEÑOR; ante él se regocijen.
+Canten a Dios, salmodien su nombre; hagan calzada al que cabalga en las árabot; en Yah su nombre, y exulten delante de él.
 
 ### 68:5
 
-Padre de los huérfanos y juez de las viudas es Dios en su santo habitación.
+Padre de huérfanos y juez de viudas es Dios en la morada de su santidad.
 
 ### 68:6
 
-Dios hace morar a los solitarios en la casa, saca a los cautivos a la libertad, pero los rebeldes habitan en un desierto.
+Dios hace habitar solitarios hacia casa; saca cautivos en prosperidades; mas rebeldes habitaron tierra reseca.
 
 ### 68:7
 
-Dios, al salir en tu presencia, al paso de tu camino, en el desierto, Selah.
+Dios, en tu salir delante de tu pueblo, en tu marchar en yermo. Selá.
 
 ### 68:8
 
-Tierra, tembló; cielos, derramaron gotas de lluvia ante Dios, Sinaí, ante Dios, Dios de Israel.
+La tierra tembló; también los cielos gotearon de delante de Dios; este Sinaí, de delante de Dios, Dios de Israel.
 
 ### 68:9
 
-Derramaste, oh Dios, lluvia de bendiciones; tú preparaste tu heredad; tú hiciste que la desierta se convirtiera en un manantial.
+Lluvia de liberalidades sacudirás, Dios; tu heredad, y ella agotada, tú la afirmaste.
 
 ### 68:10
 
-Los que habitan en ella se llenarán de tus bienes; tú preparas para el pobre, oh Dios.
+Tu viviente habitaron en ella; prepararás en tu bondad para el pobre, Dios.
 
 ### 68:11
 
-Señor, que das la palabra: Muchos son los que anuncian la buena nueva.
+Adonai dará palabra; las anunciadoras: ejército grande.
 
 ### 68:12
 
-Los reyes se deleitan, los reyes se deleitan, y la hermosura de tu casa reparte el botín.
+Reyes de ejércitos huirán, huirán; y la moradora de casa repartirá despojo.
 
 ### 68:13
 
-Si duermes entre las dos cimas, como las alas de una paloma cubiertas de plata, y sus plumas de oro puro.
+Si ustedes yacen entre los rediles: alas de paloma cubierta de plata, y sus plumas de verdoso oro.
 
 ### 68:14
 
-En los picos del Océano, los reyes se reúnen; la nieve en el Zelmon.
+Cuando esparcía Shaday reyes en ella, nevaba en Tzalmon.
 
 ### 68:15
 
-Monte de Dios, monte de Basán, monte de Basán, monte de Gabalones.
+Monte de Dios, monte de Bashán; monte de cumbres, monte de Bashán.
 
 ### 68:16
 
-¿Por qué te desearon, montes de Gabalones? El monte que Dios ama para su morada; el Señor morará en él para siempre.
+¿Por qué acechan, montes de cumbres, el monte que deseó Dios para su morada? También Jehová habitará para siempre.
 
 ### 68:17
 
-El carro de Dios, millares de millares, el Señor está entre ellos en Sinaí, en su santuario.
+Carro de Dios miríadas, millares de repetición; Adonai en ellos; Sinaí en la santidad.
 
 ### 68:18
 
-Subiste al cielo, capturaste prisioneros, recibiste dones entre los hombres, y también a los rebeldes para que habiten con Dios.
+Subiste a la altura; cautivaste cautiverio; tomaste dones en el hombre; y también rebeldes, para habitar Yah Dios.
 
 ### 68:19
 
-Bendito sea el Señor, día tras día nos carga; el Dios de nuestra salvación, ¡aleluya!
+Bendito Adonai; día a día carga por nosotros; el Dios de nuestra salvación. Selá.
 
 ### 68:20
 
-Dios es nuestro refugio, Dios de nuestras salvaciones, y del Señor, nuestro Dios, salidas de la muerte.
+El Dios a nosotros, Dios de salvaciones; y a Jehová Adonai, salidas a la muerte.
 
 ### 68:21
 
-Pero Dios aplastará la cabeza de mis enemigos, la calva de mi adversario; caminará por el camino de mis impiedades.
+Ciertamente Dios aplastará la cabeza de sus enemigos, coronilla de pelo del que anda en sus culpas.
 
 ### 68:22
 
-Dijo el Señor: Desde Basán los traeré de nuevo, los traeré de nuevo desde los abismos del mar.
+Dijo Adonai: Desde Bashán haré volver; haré volver desde los abismos de mar,
 
 ### 68:23
 
-Para que pise tu pie en sangre, y la lengua de tu perro en los enemigos.
+para que aplaste tu pie en sangre; lengua de tus perros, de enemigos, de él.
 
 ### 68:24
 
-Vieron tus caminos, Dios, tus caminos para mí, oh rey, en el santo lugar.
+Vieron tus andanzas, Dios; andanzas de mi Dios, mi rey, en la santidad.
 
 ### 68:25
 
-Antecedan los músicos, tras ellos los que tocan la cítara, en medio de las doncellas, las que tocan el tambor.
+Precedieron cantores; detrás tañedores; en medio doncellas tamborileras.
 
 ### 68:26
 
-En las asambleas bendecid a Dios, bendecid al Señor desde el origen de Israel.
+En asambleas bendigan a Dios, a Jehová, desde la fuente de Israel.
 
 ### 68:27
 
-Allí está Benjamin, el menor, que los gobierna, los jefes de Judá, sus consejeros, los jefes de Zabulón, los jefes de Nefetali.
+Allí Binyamín, el pequeño, el que los rige; príncipes de Yehudá, su tropa; príncipes de Zevulún, príncipes de Naftalí.
 
 ### 68:28
 
-Ordenó tu Dios tu fortaleza, fortaleza de Dios, tú la hiciste para nosotros.
+Mandó tu Dios tu fuerza; fortalece, Dios, esto que obraste para nosotros.
 
 ### 68:29
 
-Desde tu santuario, oh Jerusalén, a ti te ofrecerán, a ti, oh rey, presentarán regalos.
+Desde tu templo sobre Yerushaláyim, a ti llevarán reyes ofrenda.
 
 ### 68:30
 
-Enfurecióse contra la jauría de bueyes, congregó a los toros, con los rebaños de los pueblos, con el oro de los pueblos, con los que se deleitan en las guerras.
+Increpa fiera de caña, congregación de toros con becerros de pueblos, humillándose con piezas de plata; esparció pueblos que guerras desean.
 
 ### 68:31
 
-Vendrán con ofrendas, los hijos de Etiopía, a ti, oh Dios, extenderán sus manos.
+Vendrán nobles desde Mizraim; Cus hará correr sus manos a Dios.
 
 ### 68:32
 
-Cantad a Dios, oh naciones, cantad al Señor, alabad a Jehová, Selah.
+Reinos de la tierra, canten a Dios; salmodien Adonai. Selá.
 
 ### 68:33
 
-Al que monta en los cielos celestiales, allí está su voz, su voz de poder.
+Al que cabalga en cielos de cielos de antigüedad; he aquí dará en su voz voz de fuerza.
 
 ### 68:34
 
-Dad al Señor fortaleza, dadle gloria en Israel, dadle fortaleza en los cielos.
+Den fuerza a Dios; sobre Israel su majestad, y su fuerza en las nubes.
 
 ### 68:35
 
-Terrible es Dios en los santuarios de su gloria, el Dios de Israel, él da fortaleza y poder al pueblo, bendito sea Dios.
+Temible Dios desde tus santuarios; el Dios de Israel, él da fuerza y poderes al pueblo. Bendito Dios.
 
 ## Capítulo 69
 
+
 ### 69:1
 
-Salva mi vida, Dios, porque el agua ha llegado hasta el alma.
+Al director. Sobre lirios. De David. Sálvame, Dios, porque vinieron aguas hasta el alma.
 
 ### 69:2
 
-He hundido en el lodo, y no hay piedra donde apoyarme; he entrado en aguas profundas, y las corrientes me han cubierto.
+Me hundí en limo de profundidad, y no hay firmeza; entré en honduras de aguas, y la corriente me arrastró.
 
 ### 69:3
 
-He trabajado en llamar, mi garganta se ha secado, mis ojos se han consumido, esperando en Dios.
+Me cansé en mi llamar; se inflamó mi garganta; se consumieron mis ojos, esperando a mi Dios.
 
 ### 69:4
 
-Mis enemigos me han multiplicado las calvicie de mi cabeza; me han atacado sin motivo, me han oprimido sin razón, aunque no he robado, así me responderán.
+Se multiplicaron más que los cabellos de mi cabeza los que me aborrecen de balde; se fortalecieron mis exterminadores, mis enemigos de mentira; lo que no robé, entonces devolveré.
 
 ### 69:5
 
-Dios, tú conociste mi ignorancia desde antiguo, y mis pecados no te han sido ocultos.
+Dios, tú conociste mi necedad, y mis culpas de ti no se ocultaron.
 
 ### 69:6
 
-Que no se avergüencen los que esperan en ti, Señor, Dios de los ejércitos; que no se desanimen los que te buscan, Dios de Israel.
+No se avergüencen en mí tus esperantes, Adonai Jehová de ejércitos; no se avergüencen en mí tus buscadores, Dios de Israel.
 
 ### 69:7
 
-Porque sobre mí han llevado la afrenta, he cubierto mi rostro con la vergüenza.
+Porque sobre ti llevé afrenta; cubrió vergüenza mi rostro.
 
 ### 69:8
 
-Me han hecho extraño a mis hermanos, a mis madre he sido extranjero.
+Extraño fui a mis hermanos, y extranjero a los hijos de mi madre.
 
 ### 69:9
 
-Porque la celosía de tu casa me ha consumido, y las afrentas de tus enemigos han caído sobre mí.
+Porque el celo de tu casa me consumió, y afrentas de tus afrentadores cayeron sobre mí.
 
 ### 69:10
 
-Y he llorado en ayuno, y mi alma ha sido para la afrenta.
+Y lloré con el ayuno mi alma, y fue a afrentas a mí.
 
 ### 69:11
 
-Y he puesto mi ropa por saco, y he sido para ellos en burla.
+Y di por mi vestido saco, y fui a ellos por proverbio.
 
 ### 69:12
 
-Han hablado de mí los que viven en la puerta, y los músicos que beben vino.
+Charlan de mí los sentados de puerta, y cánticos de bebedores de bebida fuerte.
 
 ### 69:13
 
-Y mi oración a ti, Señor, en el tiempo de tu bondad, en la multitud de tu misericordia; en la verdad de tu salvación, respóndeme.
+Y yo, mi oración a ti, Jehová, tiempo de favor; Dios, en la muchedumbre de tu misericordia, respóndeme en la verdad de tu salvación.
 
 ### 69:14
 
-Sálvame del lodo, para que no me sumerja; líbrame de mis enemigos y de las profundidades de las aguas.
+Líbrame del lodo, y no me hunda; sea yo librado de mis aborrecedores y de honduras de aguas.
 
 ### 69:15
 
-No me ahogues en las aguas de la corriente, ni me sumerjas en las profundidades del agua; no permitas que los abismos se cierren sobre mí.
+No me arrastre corriente de aguas, y no me trague profundidad, y no cierre sobre mí pozo su boca.
 
 ### 69:16
 
-Respóndeme, Señor, porque es buena tu misericordia; en la multitud de tus misericordias, vuélvete a mí.
+Respóndeme, Jehová, porque buena es tu misericordia; según la muchedumbre de tus entrañas, vuélvete a mí.
 
 ### 69:17
 
-No escondas tu rostro de tu siervo, porque estoy angustiado; prontamente respóndeme.
+Y no escondas tu rostro de tu siervo, porque angustia a mí; apresúrate, respóndeme.
 
 ### 69:18
 
-Acércate a mi alma, ríndeme libre; por amor a mis enemigos, líbrame.
+Acércate a mi alma; redímela; por causa de mis enemigos, rescátame.
 
 ### 69:19
 
-Tú conoces mi vergüenza y mi humillación, mi afrenta; en tu presencia está todo mi enemigo.
+Tú conociste mi afrenta y mi vergüenza y mi humillación; delante de ti todos mis adversarios.
 
 ### 69:20
 
-La afrenta me ha roto el corazón, y he estado triste; he esperado para que me consolaran, pero no lo han hecho.
+Afrenta quebró mi corazón, y estoy enfermo; y esperé a quien menease la cabeza, y no hay, y a consoladores, y no hallé.
 
 ### 69:21
 
-Han puesto en mi hambre pedazos de pan, y cuando tenía sed, me dieron vinagre para beber.
+Y dieron en mi comida veneno, y para mi sed me hicieron beber vinagre.
 
 ### 69:22
 
-Que su mesa sea ante ellos un lazo, y que sus amistades sean un cepo.
+Sea su mesa delante de ellos por lazo, y a los en paz por trampa.
 
 ### 69:23
 
-Que sus ojos se oscurezcan para no ver, y que sus lumbres estén siempre dobladas.
+Oscurézcanse sus ojos de ver, y sus lomos continuamente haz tambalear.
 
 ### 69:24
 
-Derrama sobre ellos tu ira, y que tu enojo los alcance.
+Derrama sobre ellos tu indignación, y el ardor de tu nariz los alcance.
 
 ### 69:25
 
-Que su aliento sea asfixiante en sus tiendas, que no haya quien habite.
+Sea su campamento desolado; en sus tiendas no haya habitante.
 
 ### 69:26
 
-Porque tú, que los golpeaste, los persiguen, y a los heridos por ti hablarán de dolores.
+Porque tú, al que heriste, persiguieron, y al dolor de tus traspasados cuentan.
 
 ### 69:27
 
-Pon pecado sobre sus pecados, y no entren en tu justicia.
+Da iniquidad sobre su iniquidad, y no entren en tu justicia.
 
 ### 69:28
 
-Se borren del libro de la vida, y no sean escritos con los justos.
+Sean borrados del libro de vivos, y con justos no sean escritos.
 
 ### 69:29
 
-Yo soy pobre y afligido, pero tú, oh Dios, me salvarás con tu ayuda.
+Y yo pobre y dolorido; tu salvación, Dios, me ponga en alto.
 
 ### 69:30
 
-Alabaré tu nombre en un himno, y te engrandeceré en acción de gracias.
+Alabaré el nombre de Dios con cántico, y lo engrandeceré con confesión.
 
 ### 69:31
 
-Será mejor para el Señor que yo ofrezca un sacrificio de alabanza que un novillo de un año.
+Y será bueno a Jehová más que toro, novillo cornudo de pezuña hendida.
 
 ### 69:32
 
-Los humildes verán y se alegrarán, los que buscan a Dios, y su corazón vivirá.
+Vieron humildes; se alegrarán; buscadores de Dios, y vivirá el corazón de ustedes.
 
 ### 69:33
 
-Porque el Señor escucha a los pobres y no desprecia a los cautivos.
+Porque oye a indigentes Jehová, y a sus cautivos no despreció.
 
 ### 69:34
 
-Alabenle los cielos y la tierra, los mares y todo lo que se mueve en ellos.
+Lo alaben cielos y tierra, mares y todo lo que repta en ellos.
 
 ### 69:35
 
-Porque Dios salvará a Sion y edificará las ciudades de Judá, y allí habitarán y poseerán.
+Porque Dios salvará a Tsiyón y edificará ciudades de Yehudá, y habitarán allí y la poseerán.
 
 ### 69:36
 
-Y el linaje de sus siervos los poseerá, y los que aman su nombre habitarán en ella.
+Y la simiente de sus siervos la heredarán, y amadores de su nombre habitarán en ella.
 
 ## Capítulo 70
 
+
 ### 70:1
 
-Para el director. De David. Para recordar a Dios: salva, Señor, a tu siervo, apúrate a ayudarme.
+Al director. De David. Para recordar. Dios, para librarme; Jehová, a mi ayuda apresúrate.
 
 ### 70:2
 
-Se avergonzarán y buscarán, los que buscan mi vida retrocederán y se confundirán, los que desean mi mal.
+Se avergüencen y sean confundidos los buscadores de mi alma; se retiren atrás y se avergüencen los deseosos de mi mal.
 
 ### 70:3
 
-Volverán sobre sus pasos, avergonzados, los que dicen: ¡Ah, ah!
+Se vuelvan sobre el talón de su vergüenza los que dicen: ¡Ah! ¡Ah!
 
 ### 70:4
 
-Se alegrarán y se regocijarán en ti todos los que te buscan, y siempre dirán: Se glorifica Dios. Amen a tu salvación.
+Se regocijen y se alegren en ti todos tus buscadores, y digan siempre: Sea engrandecido Dios, los amadores de tu salvación.
 
 ### 70:5
 
-Y yo soy pobre y necesitado, Dios, apúrate a ayudarme, a ser mi salvador. No tardes, Señor.
+Y yo pobre e indigente; Dios, apresúrate a mí; mi ayuda y mi librador eres tú; Jehová, no te tardes.
 
 ## Capítulo 71
 
+
 ### 71:1
 
-En ti, Señor, he hallado refugio, no me avergüence para siempre.
+En ti, Jehová, me refugié; no sea yo avergonzado para siempre.
 
 ### 71:2
 
-En tu justicia me salvarás y me librarás, inclina tu oído a mí y sálvame.
+En tu justicia me librarás y me harás escapar; inclina a mí tu oído y sálvame.
 
 ### 71:3
 
-Sé para mí un lugar fuerte, a donde vengo siempre, me has ordenado para ser salvado, porque eres mi roca y mi fortaleza.
+Sé a mí por peña de morada para entrar siempre; mandaste para salvarme, porque mi peña y mi fortaleza eres tú.
 
 ### 71:4
 
-Dios, líbrame de la mano del malvado, de la mano del pecador y del enemigo.
+Dios mío, hazme escapar de la mano de malvado, de la palma de perverso y violento.
 
 ### 71:5
 
-Porque tú eres mi esperanza, Señor, mi Dios, mi confianza desde la juventud.
+Porque tú eres mi esperanza, Adonai Jehová, mi confianza desde mi juventud.
 
 ### 71:6
 
-En ti me apoyé desde el vientre, desde el seno de mi madre, tú eres mi fortaleza, en ti es mi alabanza siempre.
+Sobre ti me apoyé desde el vientre; desde las entrañas de mi madre tú eres mi cortador; en ti mi alabanza siempre.
 
 ### 71:7
 
-Soy un milagro para muchos, y tú eres mi refugio, mi fuerza.
+Como portento fui a muchos, y tú mi refugio de fuerza.
 
 ### 71:8
 
-Mi boca llena tu alabanza, toda el día tu gloria.
+Se llene mi boca de tu alabanza, todo el día de tu hermosura.
 
 ### 71:9
 
-No me arrojes en la vejez, cuando se acabe mi fuerza, no me desampares.
+No me eches a tiempo de vejez; al acabarse mi fuerza, no me desampares.
 
 ### 71:10
 
-Porque mis enemigos me dicen, y los que guardan mi vida me aconsejan juntos.
+Porque dijeron mis enemigos a mí, y los guardadores de mi alma se aconsejaron juntos,
 
 ### 71:11
 
-Para decir: Dios lo ha abandonado, persíguenlo y atrapenlo, porque no hay quien lo libere.
+diciendo: Dios lo desamparó; persigan y lo prendan, porque no hay librador.
 
 ### 71:12
 
-Dios, no te apartes de mí, Dios mío, a mi ayuda hasta el fin.
+Dios, no te alejes de mí; Dios mío, a mi ayuda.
 
 ### 71:13
 
-Se avergüencen y se confundan los que me odian, se cubran de vergüenza y de deshonra los que buscan mi mal.
+Se avergüencen; se acaben los adversarios de mi alma; se cubran de afrenta y de vergüenza los buscadores de mi mal.
 
 ### 71:14
 
-Y yo siempre esperaré, y añadiré a toda tu alabanza.
+Y yo siempre esperaré, y añadiré sobre toda tu alabanza.
 
 ### 71:15
 
-Mi boca hablará de tu justicia todo el día, tu salvación, porque no sé contar.
+Mi boca contará tu justicia, todo el día tu salvación, porque no supe números.
 
 ### 71:16
 
-Entraré en tu poder, Señor, y contaré tu justicia por tu sola gloria.
+Vendré en hazañas de Adonai Jehová; haré memoria de tu justicia, solo tuya.
 
 ### 71:17
 
-Dios me ha enseñado desde la juventud, hasta ahora contaré tus maravillas.
+Dios, me enseñaste desde mi juventud, y hasta aquí anunciaré tus maravillas.
 
 ### 71:18
 
-Y también hasta la vejez y la ancianidad, Dios, no me desampares hasta que cuente tu brazo a todas las generaciones que vendrán.
+Y también hasta vejez y canas, Dios, no me desampares, hasta que anuncie tu brazo a generación; a todo el que venga, tu poderío.
 
 ### 71:19
 
-Y tu justicia, Dios, hasta lo alto, lo que has hecho es grande, Dios, ¿quién como tú?
+Y tu justicia, Dios, hasta altura, porque hiciste grandes cosas; Dios, ¿quién como tú?
 
 ### 71:20
 
-Has visto mis muchas aflicciones y males, y me revivirás y me traerás de las profundidades de la tierra.
+Que angustias muchas y malas — volverás; y desde los abismos de la tierra volverás; me harás subir.
 
 ### 71:21
 
-Multiplicaré tu grandeza y te consolaré.
+Multiplicarás mi grandeza, y te volverás; me consolarás.
 
 ### 71:22
 
-También yo te alabaré con el arpa, oh Dios mío, con la verdad te alabaré, te cantaré con la cítara, oh Israel santo.
+También yo te confesaré con instrumento de laúd tu verdad, Dios mío; te salmodiaré con cítara, Santo de Israel.
 
 ### 71:23
 
-Alegraránse mis labios cuando te alabe, y mi espíritu, que has redimido.
+Gritarán de júbilo mis labios cuando te salmodie, y mi alma que redimiste.
 
 ### 71:24
 
-También mi lengua toda el día hablará de tu justicia, porque se avergüenzan los que buscan mi mal.
+También mi lengua todo el día meditará tu justicia, porque fueron avergonzados, porque fueron confundidos, los buscadores de mi mal.
 
 ## Capítulo 72
 
+
 ### 72:1
 
-Oh Dios, da al rey tus juicios y a tu hijo el rey tu justicia.
+De Shelomó. Dios, tus juicios al rey da, y tu justicia al hijo de rey.
 
 ### 72:2
 
-Juzgará tu pueblo con justicia y a tus pobres con rectitud.
+Juzgará tu pueblo con justicia, y tus pobres con juicio.
 
 ### 72:3
 
-Los montes llevarán paz al pueblo y las colinas con justicia.
+Llevarán los montes paz al pueblo, y las colinas, en justicia.
 
 ### 72:4
 
-Juzgará a los pobres de su pueblo, salvará a los hijos del necesitado y oprimirá al opresor.
+Juzgará a los pobres de pueblo; salvará a los hijos de indigente, y aplastará opresor.
 
 ### 72:5
 
-Temerán de ti en el sol y delante de la luna, a través de generaciones y generaciones.
+Te temerán con sol, y delante de luna, generación de generaciones.
 
 ### 72:6
 
-Descenderá como la lluvia sobre la hierba, como la lluvia que rega la tierra.
+Descenderá como lluvia sobre siega, como lluvias que rocían la tierra.
 
 ### 72:7
 
-Florecerán en mis días los justos y abundará la paz hasta que no haya luna.
+Florecerá en sus días justo, y muchedumbre de paz hasta no haber luna.
 
 ### 72:8
 
-Reinará desde el mar hasta el mar, desde el río hasta los confines de la tierra.
+Y dominará de mar hasta mar, y desde el río hasta los confines de la tierra.
 
 ### 72:9
 
-Ante él se postrarán los desertores, y sus enemigos lamerán el polvo.
+Delante de él se arrodillarán los habitantes del desierto, y sus enemigos polvo lamerán.
 
 ### 72:10
 
-Los reyes de Tarshish y de las islas le ofrecerán presentes, los reyes de Sabá y de Seba le traerán regalos.
+Reyes de Tarshish y de islas ofrenda devolverán; reyes de Shebá y de Sebá tributo acercarán.
 
 ### 72:11
 
-Todos los reyes se postrarán ante él, todas las naciones le servirán.
+Y se postrarán a él todos los reyes; todas las naciones le servirán.
 
 ### 72:12
 
-Porque salvará al necesitado que clama, y al oprimido que no tiene ayuda.
+Porque librará a indigente que clama, y a pobre, y no hay ayudador a él.
 
 ### 72:13
 
-Tendrá compasión del pobre y del necesitado, y salvará las vidas de los necesitados.
+Se apiadará sobre débil e indigente, y las almas de indigentes salvará.
 
 ### 72:14
 
-Rescatará sus vidas de la muerte y de la violencia, y valorará su sangre.
+De opresión y de violencia redimirá su alma, y será preciosa su sangre en sus ojos.
 
 ### 72:15
 
-Vivirá, y le darán oro de Sabá; y orará por él sin cesar, todos los días de su vida.
+Y vivirá, y le dará del oro de Shebá; y orará por él siempre; todo el día lo bendecirá.
 
 ### 72:16
 
-Habrá abundancia de pan en la tierra; en las cumbres de los montes se moverá como el Líbano; sus frutos florecerán en la ciudad como el hierba de la tierra.
+Haya porción de grano en la tierra en cima de montes; se agite como el Levanón su fruto, y florezcan de ciudad como hierba de la tierra.
 
 ### 72:17
 
-Que su nombre sea eterno; su nombre será continuamente mencionado ante el sol, y que sean bendecidos en él todas las naciones.
+Sea su nombre para siempre; delante de sol su nombre; y se bendecirán en él; todas las naciones lo llamarán dichoso.
 
 ### 72:18
 
-Bendito sea Jehová, el Dios de Israel, que hace maravillas.
+Bendito Jehová Dios, Dios de Israel, hacedor de maravillas solo él.
 
 ### 72:19
 
-Y bendito sea el nombre de su gloria por siempre; que su gloria se extienda por toda la tierra. Amén y amén.
+Y bendito el nombre de su gloria para siempre, y se llene su gloria toda la tierra. Amén y amén.
 
 ### 72:20
 
-Terminaron las oraciones de David, hijo de Isaí.
+Se acabaron las oraciones de David hijo de Yishai.
 
 ## Capítulo 73
 
+
 ### 73:1
 
-Salmo de Asaf: ¡Es bueno para Israel el Dios de los corazones rectos!
+Salmo de Asaf. Ciertamente bueno a Israel es Dios, a los limpios de corazón.
 
 ### 73:2
 
-Yo, sin embargo, estoy cansado y mis pies están casi resbalando.
+Y yo, casi mis pies; como nada mis pasos.
 
 ### 73:3
 
-Porque celé a los necios, vi la paz de los malvados.
+Porque envidié a los insolentes; paz de malvados veía.
 
 ### 73:4
 
-Porque no hay falta de protección para ellos, y su salud es sin límites.
+Porque no hay ataduras para su muerte, y gordo está su vigor.
 
 ### 73:5
 
-En el trabajo del hombre no hay dificultad, y con los demás no sufren.
+En trabajo de mortal no están ellos, y con hombre no son tocados.
 
 ### 73:6
 
-Por eso su arrogancia es grande, y sus vestidos son de violencia.
+Por tanto orgullo los ciñe como collar; se envuelve manto de violencia para ellos.
 
 ### 73:7
 
-Salen de la grasa de sus ojos, sus ojos pasan por las corrientes de su corazón.
+Sale de grasa su ojo; pasaron las imaginaciones del corazón.
 
 ### 73:8
 
-Se levantan y hablan mal, desde lo alto hablan.
+Se burlan y hablan con mal; opresión desde lo alto hablan.
 
 ### 73:9
 
-Ponen sus palabras en el cielo, y su lengua camina por la tierra.
+Pusieron en los cielos su boca, y su lengua camina en la tierra.
 
 ### 73:10
 
-Por eso su pueblo los sostiene, y sus aguas se vacían para ellos.
+Por tanto su pueblo vuelve acá, y aguas llenas se les exprimen.
 
 ### 73:11
 
-Y dicen: ¿Cómo puede Dios saberlo? ¿Y hay conocimiento en lo alto?
+Y dijeron: ¿Cómo sabe El? ¿Y hay conocimiento en Elyón?
 
 ### 73:12
 
-He aquí, estos son malvados, y los tranquilos del mundo han adquirido riquezas.
+He aquí, estos son malvados, y tranquilos de siempre aumentaron fuerza.
 
 ### 73:13
 
-Pero fui vano en mi inocencia; lavé mis manos en la pureza.
+Ciertamente en vano limpié mi corazón, y lavé en inocencia mis palmas.
 
 ### 73:14
 
-Y fui herido todo el día, y tuve reprimendas por las mañanas.
+Y fui herido todo el día, y mi reprensión a las mañanas.
 
 ### 73:15
 
-Si dije: “Haré como ellos”, he aquí, me consideraría la generación de tus hijos como traidores.
+Si yo dije: Contaré así; he aquí, a la generación de tus hijos traicionaría.
 
 ### 73:16
 
-Y medité para conocer esto: es un trabajo para mis ojos.
+Y pensé para conocer esto; trabajo era en mis ojos.
 
 ### 73:17
 
-Hasta que llegué a los santuarios de Dios, entendí hasta el final.
+Hasta que entré a los santuarios de El; entendí su fin.
 
 ### 73:18
 
-Pero tú los has puesto en lugares resbaladizos; has echado a los malvados a la destrucción.
+Ciertamente en lugares resbaladizos los pones; los derribaste a desolaciones.
 
 ### 73:19
 
-¿Cómo llegaron a ser como el agua que se va, como la hierba que se seca en un momento?
+¡Cómo fueron a desolación en un instante! Se acabaron, fueron consumidos desde terrores.
 
 ### 73:20
 
-Como un sueño cuando se despierta, así, Señor, cuando te despiertas, desechas su imagen.
+Como sueño desde el despertar, Adonai, al despertar su imagen desprecias.
 
 ### 73:21
 
-Porque se me encendió el corazón, y mis entrañas se agitaron.
+Porque se agriaba mi corazón, y mis riñones me punzaba.
 
 ### 73:22
 
-Pero yo soy necio y no entiendo; soy como un animal delante de ti.
+Y yo, torpe, y no sabía; como bestias fui contigo.
 
 ### 73:23
 
-Pero yo estoy siempre contigo; tú me sostienes con tu mano derecha.
+Y yo continuamente contigo; agarraste de la mano de mi derecha.
 
 ### 73:24
 
-En tu consejo me guías y después me recibirás con gloria.
+Con tu consejo me guiarás, y después gloria me tomarás.
 
 ### 73:25
 
-¿Quién me da en los cielos? Y no deseo nada en la tierra con respecto a ti.
+¿Quién para mí en los cielos? Y contigo no deseé en la tierra.
 
 ### 73:26
 
-Mi fin está consumado, y mi corazón es firme en ti; mi porción eres tú, oh Dios, para siempre.
+Se consume mi carne y mi corazón; roca de mi corazón y mi porción es Dios para siempre.
 
 ### 73:27
 
-Porque he aquí que los lejanos se pierden, y la desolación consume a todos los que son impuros contigo.
+Porque he aquí, tus alejados perecerán; exterminaste a todo el que fornica lejos de ti.
 
 ### 73:28
 
-Y yo estoy cerca de Dios, y es bueno para mí estar en el Señor Jehová mi refugio, para contar todas tus maravillas.
+Y yo, cercanía de Dios para mí es bueno; puse en Adonai Jehová mi refugio, para contar todas tus obras.
 
 ## Capítulo 74
 
+
 ### 74:1
 
-Para Asaf: ¿Por qué, oh Dios, has rechazado para siempre a tu cordero? ¿Por qué te enfadas con las ovejas de tu pasto?
+Maskil de Asaf. ¿Por qué, Dios, rechazaste para siempre? Fuma tu nariz contra el rebaño de tu pastoreo.
 
 ### 74:2
 
-Acuérdate de tu congregación, que has adquirido desde antiguo; redimiste a la tribu de tu heredad, al monte Sion, donde has habitado.
+Acuerda tu congregación que compraste de antiguo; redimiste la vara de tu heredad; el monte Sión este, en el que habitaste.
 
 ### 74:3
 
-Eleva tus pies hasta el perpetuo desolamiento; todo mal ha afligido al enemigo en tu santuario.
+Alza tus pasos a desolaciones eternas; todo el mal que hizo el enemigo en el santuario.
 
 ### 74:4
 
-Gritan tus adversarios en medio de tu fiesta; han puesto tus señales como señales.
+Rugieron tus adversarios en medio de tu cita; pusieron sus señales por señales.
 
 ### 74:5
 
-Se ha sabido que han llevado al enemigo a lo alto, con tu ayuda han cortado los árboles.
+Se conoce como quien trae hacia arriba en matorral de árbol hachas.
 
 ### 74:6
 
-Y han destruido a la vez puertas y piedras, han quemado con fuego tus santuarios.
+Sus tallados juntos con hacha y martillos golpean.
 
 ### 74:7
 
-Han lanzado fuego sobre tu santuario y han profanado la morada de tu nombre en la tierra.
+Echaron al fuego tu santuario; a tierra profanaron la morada de tu nombre.
 
 ### 74:8
 
-Han dicho en sus corazones: Juntos los han quemado, han quemado todos los lugares de reunión de Dios en la tierra.
+Dijeron en su corazón: Oprimámoslos juntos; quemaron todas las citas de El en la tierra.
 
 ### 74:9
 
-No hemos visto tus señales, no hay más profetas, y no hay entre nosotros quien conozca hasta cuándo.
+Nuestras señales no vimos; no hay ya profeta, y no hay con nosotros quien sepa hasta cuándo.
 
 ### 74:10
 
-Hasta cuándo, oh Dios, humillará el enemigo tu nombre, humillará el adversario tu nombre para siempre?
+¿Hasta cuándo, Dios, afrentará el opresor? ¿Despreciará el enemigo tu nombre para siempre?
 
 ### 74:11
 
-¿Por qué retiras tu mano y tu derecha? Acaba de tu pacto, y no la retires.
+¿Por qué haces volver tu mano y tu derecha? Desde dentro de tu seno, acaba.
 
 ### 74:12
 
-Dios es mi rey desde antiguo, obrador de salvaciones en medio de la tierra.
+Y Dios es mi rey desde antiguo, obrador de salvaciones en medio de la tierra.
 
 ### 74:13
 
-Tú has roto con tu poder las aguas, has partido las cabezas de los monstruos en el mar.
+Tú, con tu fuerza, rompiste el mar; quebraste cabezas de tanines sobre las aguas.
 
 ### 74:14
 
-Tú has desgarrado las cabezas de Leviatán, has dado de comer a los pueblos de los desiertos.
+Tú aplastaste cabezas de Liviatán; lo diste por comida a pueblo de desérticos.
 
 ### 74:15
 
-Tú has abierto fuentes y torrentes, has secado los ríos perpetuos.
+Tú abriste fuente y torrente; tú secaste ríos perennes.
 
 ### 74:16
 
-Para ti es el día, para ti la noche; tú has hecho la luz y el sol.
+Tuyo es el día, también tuya la noche; tú preparaste luminar y sol.
 
 ### 74:17
 
-Para ti son todos los confines de la tierra; tú has hecho el calor y el frío.
+Tú fijaste todos los límites de la tierra; verano e invierno, tú los formaste.
 
 ### 74:18
 
-Acuérdate de esto, enemigo, que el Señor se ha enojado; el pueblo necio ha menospreciado tu nombre.
+Acuerda esto: el enemigo afrentó, Jehová, y pueblo necio despreció tu nombre.
 
 ### 74:19
 
-No des a la bestia de la tierra tu torre, no olvides para siempre a la bestia de tus desiertos.
+No des a la fiera el alma de tu tórtola; la vida de tus pobres no olvides para siempre.
 
 ### 74:20
 
-Mira esto, pacto, que están llenos de tinieblas la tierra de las naciones violentas.
+Mira al pacto, porque se llenaron los rincones oscuros de la tierra de moradas de violencia.
 
 ### 74:21
 
-No permitas que se humille el oprimido, el pobre y el necesitado te alaben.
+No vuelva el oprimido avergonzado; pobre y necesitado alaben tu nombre.
 
 ### 74:22
 
-Levántate, Dios, juzga tu juicio, acuérdate de tu afrenta de un necio todo el día.
+Levántate, Dios, contiende tu contienda; acuerda tu afrenta de parte del necio todo el día.
 
 ### 74:23
 
-No olvides el clamor de tus enemigos, el alboroto de tus adversarios siempre sube.
+No olvides la voz de tus adversarios; el tumulto de los que se levantan contra ti sube continuamente.
 
 ## Capítulo 75
 
+
 ### 75:1
 
-Para el director: No destruyas, salmo de Asaf. Alabad a Dios, alabad, y cercano es tu nombre. Contad maravillas.
+Al director; Al-tashjet; salmo de Asaf; cántico. Te damos gracias, Dios, te damos gracias, y cerca está tu nombre; contaron tus maravillas.
 
 ### 75:2
 
-Porque tomaré un tiempo, yo juzgaré a los rectos.
+Porque tomaré cita; yo, rectitudes juzgaré.
 
 ### 75:3
 
-Tiemblo la tierra y todos los que la habitan; yo estableceré los pilares de ella.
+Se derriten la tierra y todos sus moradores; yo afirmé sus columnas. Selá.
 
 ### 75:4
 
-Dije a los necios: No seáis necios, y a los malvados: No levantéis la cornamenta.
+Dije a los insolentes: No insolenten; y a los malvados: No alcen cuerno.
 
 ### 75:5
 
-No levantéis la cornamenta al cielo, hablad en la garganta del valle.
+No alcen ustedes a lo alto su cuerno; no hablen ustedes con cuello insolente.
 
 ### 75:6
 
-Porque no del oriente ni del occidente, ni del desierto de los montes.
+Porque no desde salida ni desde poniente, ni desde desierto, el alzar.
 
 ### 75:7
 
-Porque Dios juzga, esto humillará y esto elevará.
+Porque Dios es juez; a este abaja, y a este levanta.
 
 ### 75:8
 
-Porque un cáliz está en la mano de Jehová, y vino espumoso lleno de mezcla; y de esto beberán todos los malvados de la tierra.
+Porque hay copa en la mano de Jehová, y vino fermentado, lleno de mezcla, y derrama de ella; pero sus heces exprimirán, beberán todos los malvados de la tierra.
 
 ### 75:9
 
-Y yo daré a conocer por siempre, cantaré a Dios de Jacob
+Y yo anunciaré para siempre; salmodiaré al Dios de Yaakov.
 
 ### 75:10
 
-Y todas las cuernos de los malvados las aplastaré; las cuernos de los justos se elevarán
+Y todos los cuernos de malvados cortaré; serán exaltados los cuernos del justo.
 
 ## Capítulo 76
 
+
 ### 76:1
 
-Para el director, con instrumentos musicales, un salmo de Asaf, famoso en Judá, Dios en Israel, grande es su nombre
+Al director; en neguinot; salmo de Asaf; cántico. Conocido en Yehudá es Dios; en Israel grande su nombre.
 
 ### 76:2
 
-Y fue en Salem su morada, y en su ciudad, Sion
+Y fue en Shalem su tienda, y su morada en Sión.
 
 ### 76:3
 
-Allí rompió los rayos de la flecha, escudo y espada, y la guerra; alabanza
+Allí quebró flechas de arco, escudo y espada y guerra. Selá.
 
 ### 76:4
 
-Eres hermoso y fuerte, más que los montes de la presa
+Luminoso eres tú, majestuoso desde montes de presa.
 
 ### 76:5
 
-Se desvanecen los valientes, duermen su sueño, y no hallan la mano de los hombres de valor
+Fueron despojados los valientes de corazón; durmieron su sueño, y no hallaron todos los hombres de fuerza sus manos.
 
 ### 76:6
 
-Por tu ira, oh Dios de Jacob, se estremece el carro y el caballo
+Desde tu reprensión, Dios de Yaakov, quedó dormido carro y caballo.
 
 ### 76:7
 
-Tú eres temible, ¿y quién se sostendrá delante de ti? Desde entonces se enfureció tu ira
+Tú, temible eres tú; y ¿quién se estará delante de ti desde entonces tu nariz?
 
 ### 76:8
 
-Del cielo hiciste oír juicio, la tierra temió y calló
+Desde los cielos hiciste oír juicio; la tierra temió y quedó quieta,
 
 ### 76:9
 
-En levantarse para el juicio, oh Dios, para salvar a todos los humildes de la tierra; alabanza
+al levantarse para el juicio Dios, para salvar a todos los mansos de la tierra. Selá.
 
 ### 76:10
 
-Porque la ira del hombre te hará justicia, y la restante ira te envolverá
+Porque furia de hombre te agradecerá; resto de furores ceñirás.
 
 ### 76:11
 
-Juraron y cumplieron con Jehová, su Dios, con todos los que los rodean; ofrezcan sacrificios de triunfo a temor.
+Hagan votos y paguen a Jehová su Dios; todos los de alrededor de él lleven presente al Temible.
 
 ### 76:12
 
-Fortificará el espíritu de los poderosos, terrible para los reyes de la tierra.
+Cortará el espíritu de príncipes; temible a los reyes de la tierra.
 
 ## Capítulo 77
 
+
 ### 77:1
 
-Para el director, sobre Jedutún, de Asaf; salmo: Mi voz a Dios, y clamo; mi voz a Dios, y él me escucha.
+Al director; sobre Yedutún; de Asaf; salmo. Mi voz a Dios, y clamaré; mi voz a Dios, y prestará oído a mí.
 
 ### 77:2
 
-En el día de mi angustia, Jehová, busqué con mi mano de noche, y no cesó; de amargura, mi alma se consoló.
+En el día de mi angustia Adonai busqué; mi mano de noche se derramó y no se entumece; rehusó ser consolada mi alma.
 
 ### 77:3
 
-Acuérdate de Dios y me quejo; medito y mi espíritu se desmaya, selah.
+Me acuerdo de Dios y gimo; medito, y se desmaya mi espíritu. Selá.
 
 ### 77:4
 
-Has tomado las ataduras de mis ojos; estoy desfalleciendo y no hablo.
+Sujetaste las vigilias de mis ojos; estoy agitado y no hablo.
 
 ### 77:5
 
-Conté los días desde antiguo, los años de todos los siglos.
+Pensé días de antiguo, años de eternidades.
 
 ### 77:6
 
-Acuérdate de mi música en la noche, con mi corazón medito y mi espíritu busca.
+Me acuerdo de mi canción en la noche; con mi corazón medito, y escudriña mi espíritu.
 
 ### 77:7
 
-¿Acaso olvidará para siempre Jehová, y no volverá a tener misericordia?
+¿Para las eternidades rechazará Adonai, y no añadirá a complacerme ya?
 
 ### 77:8
 
-¿Acaso ha rechazado para siempre su misericordia? Acabó su promesa para generación y generación.
+¿Se acabó para siempre su misericordia? ¿Terminó el dicho de generación y generación?
 
 ### 77:9
 
-¿Acaso ha olvidado la misericordia de Dios? ¿Acaso ha enfurecido su compasión, selah?
+¿Olvidó tener gracia El? ¿O cerró en ira sus entrañas? Selá.
 
 ### 77:10
 
-Y dije: Esto es la angustia; son las noches de la mano derecha del Altísimo.
+Y dije: Mi enfermar es esto: el cambiar de la derecha de Elyón.
 
 ### 77:11
 
-Recordaré las obras de Dios, porque recordaré tus maravillas desde antiguo.
+Las hazañas de Yah: porque recordaré desde antiguo tu maravilla.
 
 ### 77:12
 
-Cantaré todos tus actos y tus prodigios hablaré.
+Y meditaré en toda tu obra, y en tus hechos hablaré.
 
 ### 77:13
 
-Dios en tu santo camino, ¿quién es un Dios tan grande como tú?
+Dios, en santidad tu camino; ¿quién es El grande como Dios?
 
 ### 77:14
 
-Tú eres el Dios que obra maravillas, has dado a conocer tu fuerza entre los pueblos.
+Tú eres el El que hace maravilla; hiciste conocer en los pueblos tu fuerza.
 
 ### 77:15
 
-Has rescatado con tu brazo a tu pueblo, a los hijos de Jacob y a José, selah.
+Redimiste con brazo a tu pueblo, a los hijos de Yaakov y Yosef. Selá.
 
 ### 77:16
 
-Vieron tu obra los mares, los mares vieron, se pusieron en movimiento; las profundidades temblaron.
+Te vieron aguas, Dios; te vieron aguas, se retorcieron; también temblaron abismos.
 
 ### 77:17
 
-Se amontonaron las aguas, los nubarrones dieron voces, también las nubes de tu presencia se movieron.
+Derramaron aguas las nubes; voz dieron los cielos; también tus saetas anduvieron.
 
 ### 77:18
 
-Tu voz resonó en las olas, brillaron los relámpagos, la tierra tembló y se estremeció.
+Voz de tu trueno en el torbellino; iluminaron relámpagos el mundo; tembló y se estremeció la tierra.
 
 ### 77:19
 
-Tu camino estaba en el mar, y tus huellas en las aguas inmensas, y tus pisadas no se conocieron.
+En el mar tu camino, y tus sendas en aguas muchas, y tus huellas no fueron conocidas.
 
 ### 77:20
 
-Conduciste a tu pueblo como ovejas, con la mano de Moisés y Aarón.
+Guiaste como rebaño a tu pueblo, por mano de Moisés y Aarón.
 
 ## Capítulo 78
 
+
 ### 78:1
 
-Instrucción de Asaf: Escuchad, pueblo mío, mi ley; inclinaos, y escuchad las palabras de mi boca.
+Maskil de Asaf. Presta oído, pueblo mío, a mi torá; inclinen el oído de ustedes a dichos de mi boca.
 
 ### 78:2
 
-Abierta con parábolas mi boca, esconderé misterios desde la antigüedad.
+Abriré en parábola mi boca; haré fluir enigmas desde antiguo.
 
 ### 78:3
 
-Que hemos oído y sabido, y nuestros padres nos lo han contado.
+Que oímos y conocimos, y nuestros padres contaron a nosotros.
 
 ### 78:4
 
-No ocultamos a sus hijos a la siguiente generación, sino que les contamos las alabanzas de Yahvé, su poder y sus maravillas que él ha hecho.
+No ocultaremos de sus hijos, a la generación posterior, contando alabanzas de Jehová y su fuerza y sus maravillas que hizo.
 
 ### 78:5
 
-Y estableció un testimonio en Jacob y una ley en Israel, que ordenó a nuestros padres que se la hicieran saber a sus hijos.
+Y levantó testimonio en Yaakov, y torá puso en Israel, que mandó a nuestros padres para hacerlas conocer a sus hijos,
 
 ### 78:6
 
-Para que supiera la generación siguiente, y los hijos que nacieran la supieran a su vez, y la hicieran saber a sus hijos.
+para que sepan la generación posterior, hijos que nacerán; se levanten y cuenten a sus hijos,
 
 ### 78:7
 
-Y pongan en Dios su confianza, y no olviden las obras de Dios, ni sus mandamientos guarden.
+y pongan en Dios su confianza, y no olviden hechos de El, y sus mandamientos guarden,
 
 ### 78:8
 
-Y no sean como sus padres, generación rebelde y contraria, generación que no preparó su corazón, ni se fió de Dios.
+y no sean como sus padres, generación rebelde y contumaz, generación que no preparó su corazón, y no fue fiel con El su espíritu.
 
 ### 78:9
 
-Los hijos de Efraín, que blanden arcos de plata, se volvieron en el día del combate.
+Hijos de Efráyim, armados tiradores de arco, volvieron en el día de combate.
 
 ### 78:10
 
-No guardaron el pacto con Dios, y su ley no quisieron observar.
+No guardaron el pacto de Dios, y en su torá rehusaron andar.
 
 ### 78:11
 
-Olvidaron sus hazañas y sus maravillas que les había mostrado.
+Y olvidaron sus obras y sus maravillas que les mostró.
 
 ### 78:12
 
-En presencia de sus padres hizo maravillas en la tierra de Egipto, en el campo de Zoán.
+Delante de sus padres hizo prodigio en tierra de Mizraim, campo de Tsoán.
 
 ### 78:13
 
-Dividió el mar y los hizo pasar, y el agua se amontonó como una muralla.
+Hendió el mar y los hizo pasar, y hizo estar las aguas como montón.
 
 ### 78:14
 
-Los guió con nube de día, y toda la noche con luz de fuego.
+Y los guió en la nube de día, y toda la noche en luz de fuego.
 
 ### 78:15
 
-Dividió rocas en el desierto y sacó abundantes manantiales.
+Hendía peñas en el desierto, y daba de beber como de abismos abundantes.
 
 ### 78:16
 
-Sacó agua de la roca y la hizo correr como ríos.
+Y sacaba manantiales de peña, y hacía bajar como ríos aguas.
 
 ### 78:17
 
-Y volvieron a pecar contra él, provocándolo en el desierto.
+Y añadían aún pecar contra él, para rebelarse contra el Altísimo en el sequedal.
 
 ### 78:18
 
-Pusieron a prueba a Dios con su corazón, pidiendo comida para sus vidas.
+Y tentaron a El en su corazón, pidiendo comida para su alma.
 
 ### 78:19
 
-Hablaron con Dios: ¿Podrá Dios preparar una mesa en el desierto?
+Y hablaron contra Dios; dijeron: ¿Podrá El disponer mesa en el desierto?
 
 ### 78:20
 
-¿Acaso golpeó la roca y salieron aguas, y ríos se llenaron? ¿Podrá también dar pan o preparar comida para sus hijos?
+He aquí, hirió peña y fluyeron aguas, y torrentes se desbordaron; ¿también pan podrá dar? ¿O preparará carne para su pueblo?
 
 ### 78:21
 
-Por eso oyó el Señor y se enojó; encendió fuego contra Jacob y su ira subió sobre Israel.
+Por tanto oyó Jehová y se airó, y fuego se encendió en Yaakov, y también furor subió en Israel,
 
 ### 78:22
 
-Porque no creyeron en Dios ni confiaron en su salvación.
+porque no creyeron en Dios, y no confiaron en su salvación.
 
 ### 78:23
 
-Ordenó los cielos desde arriba y abrió las puertas del cielo.
+Y mandó a nubes desde arriba, y puertas de cielos abrió,
 
 ### 78:24
 
-Rindió maná sobre ellos para comer y les dio trigo del cielo.
+y llovió sobre ellos maná para comer, y grano de cielos dio a ellos.
 
 ### 78:25
 
-Comieron el pan de los poderosos; Dios envió caza en abundancia.
+Pan de poderosos comió hombre; provisión envió a ellos para hartura.
 
 ### 78:26
 
-Hizo volar el viento del este desde el cielo y guió con su fuerza hacia el sur.
+Hizo partir solano en los cielos, y condujo con su fuerza austro,
 
 ### 78:27
 
-Hizo llover sobre ellos como polvo la harina y como arena del mar aves voladoras.
+y llovió sobre ellos como polvo carne, y como arena de mares ave de ala,
 
 ### 78:28
 
-Y arrojó en medio del campamento, alrededor de sus tiendas, lluvia.
+y la hizo caer en medio de su campamento, alrededor de sus moradas.
 
 ### 78:29
 
-Y comieron y se hartaron mucho, y su deseo le llevó a ellos.
+Y comieron y se hartaron mucho, y su deseo trajo a ellos.
 
 ### 78:30
 
-No se desviaron de su deseo; en su boca aún estaba su comida.
+No se habían apartado de su deseo; aún su comida en su boca,
 
 ### 78:31
 
-Y también Dios se enfadó con ellos y los mató por sus grasa y por los jóvenes de Israel.
+y el furor de Dios subió en ellos, y mató entre sus robustos, y jóvenes de Israel derribó.
 
 ### 78:32
 
-En todo esto pecaron de nuevo y no creyeron en sus maravillas.
+En todo esto pecaron aún, y no creyeron en sus maravillas.
 
 ### 78:33
 
-Y en vano pasaron sus días, y sus años en temor.
+Y consumió en vanidad sus días, y sus años en terror.
 
 ### 78:34
 
-Si los mató y los hizo buscarlo, y luego se volvieron y buscaban a Dios.
+Si los mataba, entonces lo buscaban, y volvían y madrugaban a El.
 
 ### 78:35
 
-Y recordaron que Dios es su roca y que el Dios Altísimo es su redentor.
+Y recordaban que Dios su peña, y El Altísimo su redentor.
 
 ### 78:36
 
-Y con sus labios lo engañaron, y con su lengua mintieron a él.
+Y lo engañaban con su boca, y con su lengua le mentían.
 
 ### 78:37
 
-Y su corazón no era recto con él, y no fueron fieles a su pacto.
+Y su corazón no estaba firme con él, y no fueron fieles en su pacto.
 
 ### 78:38
 
-Y él es misericordioso, perdonando el pecado y no destruyendo; muchas veces volvió a arrepentirse y no desató toda su ira.
+Mas él, compasivo, cubría iniquidad y no destruía; y muchas veces hacía volver su furor, y no despertaba toda su ira.
 
 ### 78:39
 
-Y se acordó de que eran carne, espíritu que va y no vuelve.
+Y recordaba que carne ellos, soplo que va y no vuelve.
 
 ### 78:40
 
-Cuánto se quejaron de él en el desierto, cómo lo afligieron en Yeshimon.
+¡Cuántas veces lo rebelaban en el desierto, lo entristecían en el yermo!
 
 ### 78:41
 
-Y volvieron a probar a Dios, y santificaron a Israel.
+Y volvían y tentaban a El, y al Santo de Israel limitaban.
 
 ### 78:42
 
-No recordaron su mano poderosa, el día en que los libró de la adversidad.
+No recordaron su mano, el día en que los redimió de angustia,
 
 ### 78:43
 
-Cuando puso en Egipto señales y prodigios en el campo de Zoán.
+cuando puso en Mizraim sus señales, y sus prodigios en campo de Tsoán;
 
 ### 78:44
 
-Y volvió a sangre sus corrientes, y sus fuentes no pudieron beber.
+y convirtió en sangre sus yeores, y sus manantiales, que no bebiesen.
 
 ### 78:45
 
-Envíales langostas que los devoraran, y saltamenteros que los destruyeron.
+Enviaba en ellos enjambre, y los comía, y rana, y los destruía.
 
 ### 78:46
 
-Y envió entre ellos langosta que devoró sus productos, y saltamenteros que consumieron sus cosechas.
+Y dio al pulgón su producto, y su trabajo a la langosta.
 
 ### 78:47
 
-Mata con granizo sus viñas, y con escarcha sus higueras.
+Mataba con granizo su vid, y sus sicómoros con escarcha.
 
 ### 78:48
 
-Y cerró con granizo sus ciudades, y con escarcha sus ganados.
+Y entregaba al granizo su ganado, y sus posesiones a los rayos.
 
 ### 78:49
 
-Envía contra ellos el ardor de su ira, con ira y con furor, con calamidades enviadas por mensajeros malvados.
+Enviaba en ellos ardor de su nariz, furia e indignación y angustia, misión de mensajeros de males.
 
 ### 78:50
 
-Prepara un camino para su ira; no detiene la muerte de sus almas, y entrega a sus bestias a la destrucción.
+Allanaba senda a su furor; no retuvo de muerte su alma, y su vida a la pestilencia entregó.
 
 ### 78:51
 
-Golpeó a todos los primogénitos en Egipto, el primer fruto de sus fuerzas en las tiendas de Cam.
+E hirió todo primogénito en Mizraim, primicia de fuerzas en tiendas de Cam.
 
 ### 78:52
 
-Los llevó como ovejas y los guio como un rebaño en el desierto.
+E hizo partir como ovejas a su pueblo, y los condujo como rebaño en el desierto.
 
 ### 78:53
 
-Los hizo descansar en seguridad, y no temieron; y a sus enemigos los cubrió el mar.
+Y los guió con seguridad, y no temieron, y a sus enemigos cubrió el mar.
 
 ### 78:54
 
-Los trajo a la frontera de su santuario, a este monte que adquirió con su mano derecha.
+Y los trajo al límite de su santidad, monte este que compró su derecha.
 
 ### 78:55
 
-Expulsó a las naciones frente a ellos y les dio sus tierras como heredad, y en sus tiendas hicieron morada las tribus de Israel.
+Y expulsó de sus faces naciones, y las hizo caer en cordel de heredad, y hizo habitar en sus tiendas a tribus de Israel.
 
 ### 78:56
 
-Se tentaron y se rebelaron contra Dios Altísimo y sus testimonios no guardaron.
+Y tentaron y se rebelaron contra Dios Altísimo, y sus testimonios no guardaron.
 
 ### 78:57
 
-Se volvieron y se engañaron como sus padres, se volvieron como un arco que se dobla.
+Y se volvieron atrás y trajeron como sus padres; se torcieron como arco engañoso.
 
 ### 78:58
 
-Lo irritaron con sus altas montañas y con sus imágenes lo provocaron a celos.
+Y lo provocaron con sus altos, y con sus ídolos lo hicieron celar.
 
 ### 78:59
 
-Oyó Dios y se enfureció, y se desanimó mucho en Israel.
+Oyó Dios y se airó, y rechazó mucho a Israel.
 
 ### 78:60
 
-Y abandonó el tabernáculo de Silo, el tabernáculo que habitaba entre los hombres.
+Y abandonó la morada de Shiló, tienda que hizo habitar entre hombres.
 
 ### 78:61
 
-Entregó su poder al cautivo y su gloria en manos del enemigo.
+Y dio a cautiverio su fuerza, y su hermosura en mano de opresor.
 
 ### 78:62
 
-Entregó a su pueblo a la espada y en su heredad se enfureció.
+Y entregó a la espada a su pueblo, y en su heredad se airó.
 
 ### 78:63
 
-Sus jóvenes los consumió el fuego, y sus doncellas no se lamentaron.
+A sus jóvenes comió fuego, y sus vírgenes no fueron alabadas.
 
 ### 78:64
 
-Sus sacerdotes cayeron a filo de espada, y sus viudas no lloraron.
+Sus sacerdotes a espada cayeron, y sus viudas no lloraban.
 
 ### 78:65
 
-Y despertó como de sueño, el Señor, como un guerrero que se enardece con vino.
+Y despertó como dormido Adonai, como valiente que grita por vino.
 
 ### 78:66
 
-Y castigó a sus enemigos por atrás, y dio a sufrir eternidad a ellos.
+E hirió a sus opresores atrás; afrenta de siempre dio a ellos.
 
 ### 78:67
 
-Y desechó la tienda de José, y al linaje de Efraín no eligió.
+Y rechazó la tienda de Yosef, y en la tribu de Efráyim no escogió.
 
 ### 78:68
 
-Y eligió el linaje de Judá, y el monte Sión, que amó.
+Y escogió la tribu de Yehudá, el monte Tsión que amó.
 
 ### 78:69
 
-Y edificó como montañas su santuario, como tierra fundóla para siempre.
+Y edificó como alturas su santuario, como tierra que fundó para siempre.
 
 ### 78:70
 
-Y eligió a David, su siervo, y lo tomó de entre las ovejas del rebaño.
+Y escogió a David su siervo, y lo tomó de corrales de ovejas;
 
 ### 78:71
 
-Después de que subió, lo trajo a pastorear a su pueblo Jacob, y a Israel fue su heredad.
+de detrás de ovejas de leche lo trajo, para apacentar en Yaakov su pueblo, y en Israel su heredad.
 
 ### 78:72
 
-Y lo hizo pastorear con rectitud de corazón, y con sus manos guio a ellos.
+Y los apacentó según la integridad de su corazón, y con entendimientos de sus palmas los guió.
 
 ## Capítulo 79
 
+
 ### 79:1
 
-Salmo de Asaf. Dios, los pueblos entraron en tu heredad, profanaron tu santo templo, pusieron a Jerusalén en ruinas.
+Salmo de Asaf. Dios, vinieron naciones en tu heredad; contaminaron el templo de tu santidad; pusieron a Yerushaláim en montones de ruinas.
 
 ### 79:2
 
-Dieron a comer a las aves del cielo a tus siervos, la carne de tus santos a las fieras de la tierra.
+Dieron el cadáver de tus siervos por comida a ave de los cielos, carne de tus fieles a bestia de tierra.
 
 ### 79:3
 
-Derramaron su sangre como agua alrededor de Jerusalén, y no había quien los enterrara.
+Derramaron su sangre como aguas alrededor de Yerushaláim, y no hay quien entierre.
 
 ### 79:4
 
-Nos han convertido en burla entre los vecinos, en escarnio y risa entre los alrededores.
+Fuimos afrenta a nuestros vecinos, burla y escarnio a nuestros alrededores.
 
 ### 79:5
 
-¿Hasta cuándo, oh Señor, te enfadarás para siempre? ¿Tu ira arderá como fuego por tu celo?
+¿Hasta cuándo, Jehová? ¿Te enojarás para siempre? ¿Arderá como fuego tu celo?
 
 ### 79:6
 
-Derrama tu ira sobre las naciones que no te conocen, y sobre los reinos que no invocan tu nombre.
+Derrama tu furor hacia las naciones que no te conocieron, y sobre reinos que en tu nombre no invocaron,
 
 ### 79:7
 
-Porque han devorado a Jacob y han destruido su morada.
+porque comió a Yaakov, y su morada asolaron.
 
 ### 79:8
 
-No te acuerdes de nuestros pecados antiguos; apresúrate a tenernos en misericordia, porque somos muy humildes.
+No recuerdes a nosotros iniquidades de primeros; pronto nos salgan al encuentro tus misericordias, porque estamos muy abatidos.
 
 ### 79:9
 
-Ayúdanos, oh Dios de nuestra salvación, por el honor de tu nombre; líbranos y perdona nuestros pecados por tu nombre.
+Ayúdanos, Dios de nuestra salvación, por causa de la gloria de tu nombre; y líbranos y cubre sobre nuestros pecados por causa de tu nombre.
 
 ### 79:10
 
-¿Por qué dirán las naciones: Dónde está su Dios? ¿No se conocerá entre las naciones tu justicia, ante nuestros ojos? ¿No se vengará la sangre de tus siervos que se ha derramado?
+¿Por qué dirán las naciones: Dónde está su Dios? Sea conocida a nuestros ojos la venganza de la sangre de tus siervos derramada.
 
 ### 79:11
 
-Que venga ante ti la ayuda del cautivo, por la grandeza de tu brazo; que te den gracias los que mueren de hambre.
+Llegue delante de ti el gemido del preso; según la grandeza de tu brazo, deja vivos a hijos de muerte.
 
 ### 79:12
 
-Y devuelve siete veces la ofensa de nuestros vecinos, que han ofendido a ti, Señor.
+Y devuelve a nuestros vecinos siete veces al seno de ellos su afrenta con que te afrentaron, Adonai.
 
 ### 79:13
 
-Y nosotros somos tu pueblo, ovejas de tu pastoreo; te daremos gracias por siempre jamás, de generación en generación; cantaremos tus alabanzas.
+Y nosotros, tu pueblo y ovejas de tu pastoreo, te daremos gracias para siempre; de generación en generación contaremos tu alabanza.
 
 ## Capítulo 80
 
+
 ### 80:1
 
-Para el director: sobre shoshannim. De Asaf. Salmo. Pastor de Israel, escucha. Guíanos como a un rebaño; sienta Jacob a José en un trono de gloria.
+Al director, a lirios; testimonio; de Asaf; salmo. Pastor de Israel, presta oído, el que conduce como ovejas a Yosef; el que se sienta en los querubines, resplandece.
 
 ### 80:2
 
-Ante Efraín y Benjamín y Manasés, despiértate, oh tu fuerza, y ven a nuestra ayuda.
+Delante de Efráyim y Binyamín y Menashé despierta tu poderío, y anda a salvación para nosotros.
 
 ### 80:3
 
-Dios, vuélvete a nosotros y ilumina tu rostro, y seremos salvados.
+Dios, haznos volver, y haz brillar tu rostro, y seremos salvos.
 
 ### 80:4
 
-Oh Dios, Dios de los ejércitos, ¿hasta cuándo te enfadarás con la oración de tu pueblo?
+Jehová Dios de los ejércitos, ¿hasta cuándo humearás contra la oración de tu pueblo?
 
 ### 80:5
 
-Los has alimentado con el pan de lágrimas y les has dado a beber lágrimas en grandes cantidades.
+Les diste a comer pan de lágrima, y les diste a beber con lágrimas a medida de tres.
 
 ### 80:6
 
-Nos has convertido en burla para nuestros vecinos y en escarnio para nuestros enemigos alrededor de nosotros.
+Nos pones contienda a nuestros vecinos, y nuestros enemigos se burlan entre sí.
 
 ### 80:7
 
-Dios, Dios de los ejércitos, vuélvete a nosotros y ilumina tu rostro, y seremos salvados.
+Dios de los ejércitos, haznos volver, y haz brillar tu rostro, y seremos salvos.
 
 ### 80:8
 
-Has transplantado un viñedo desde Egipto; has echado a las naciones y has plantadolo.
+Vid desde Mizraim trasplantaste; expulsaste naciones y la plantaste.
 
 ### 80:9
 
-Has preparado un lugar para él, y has plantado sus raíces, y ha llenado la tierra.
+Preparaste delante de ella, y arraigaste sus raíces, y llenó la tierra.
 
 ### 80:10
 
-Los montes han cubierto su sombra, y sus ramas son como cedros de Dios.
+Cubrieron montes su sombra, y sus ramas cedros de El.
 
 ### 80:11
 
-Ha extendido sus frutos hasta el mar, y hasta el río sus ramas.
+Extendía sus sarmientos hasta el mar, y hacia el río sus renuevos.
 
 ### 80:12
 
-¿Por qué has abierto sus cercas, para que todos los que pasan por el camino la devoren?
+¿Por qué rompiste sus cercas, y la vendimian todos los pasantes de camino?
 
 ### 80:13
 
-El cerdo del bosque la ha despedazado, y el ganado del campo la ha pastoreado.
+La destroza el jabalí del bosque, y alimaña de campo la pasta.
 
 ### 80:14
 
-Dios de los ejércitos, vuelve, por favor, y mira desde los cielos, y atiende a esta viña.
+Dios de los ejércitos, vuelve ahora; mira desde los cielos y ve, y visita esta vid,
 
 ### 80:15
 
-Y defiéndela que plantaste con tu diestra, y al hijo que has fortalecido para ti.
+y el plantío que plantó tu derecha, y sobre el hijo que fortaleciste para ti.
 
 ### 80:16
 
-Quemada con fuego, cubierta con maleza, por el rugir de tu rostro perecen.
+Quemada a fuego, cortada; de reprensión de tu rostro perecen.
 
 ### 80:17
 
-Que tu mano esté sobre el hombre de tu diestra, sobre el hijo del hombre que has fortalecido para ti.
+Sea tu mano sobre el varón de tu derecha, sobre el hijo de hombre que fortaleciste para ti.
 
 ### 80:18
 
-Y no te apartes de nosotros, vivifica a nosotros y en tu nombre nos llamaremos.
+Y no nos retiraremos de ti; vivifícanos, y en tu nombre invocaremos.
 
 ### 80:19
 
-Señor, Dios de los ejércitos, vuélvete a nosotros, ilumina tu rostro y seremos salvos.
+Jehová Dios de los ejércitos, haznos volver; haz brillar tu rostro, y seremos salvos.
 
 ## Capítulo 81
 
+
 ### 81:1
 
-Para el director, sobre el instrumento de gittith, de Asaf: Alabad a Dios nuestro refugio. Alzad la voz a Dios, el Dios de Jacob.
+Al director, sobre la guitit; de Asaf. Canten con júbilo a Dios, nuestra fuerza; den grito a Dios de Yaakov.
 
 ### 81:2
 
-Llevad la alabanza y tocad el tambor, la arpa dulce con el arpa.
+Alcen cántico y den pandero, cítara agradable con salterio.
 
 ### 81:3
 
-Soplad el cuerno en el mes, en la luna llena, para el día festivo.
+Toquen en el mes nuevo shofar, en la luna llena, para el día de nuestra fiesta.
 
 ### 81:4
 
-Porque es ley para Israel, un juicio para el Dios de Jacob.
+Porque estatuto para Israel es él, juicio para el Dios de Yaakov.
 
 ### 81:5
 
-Testimonio en José lo puso, cuando salió sobre la tierra de Egipto, con lengua que no conocía yo.
+Testimonio en Yosef lo puso, al salir él sobre tierra de Mizraim; lengua que no conocí oiré.
 
 ### 81:6
 
-Aparté de su carga, sus manos de la jarra que pasa.
+Aparté de la carga su hombro; sus palmas del cesto pasaron.
 
 ### 81:7
 
-En angustia me llamaste, te libré en la sombra del trueno, te probé en las aguas de Meribá.
+En la angustia llamaste, y te libré; te respondí en el secreto de trueno; te probé sobre las aguas de Meribá. Selá.
 
 ### 81:8
 
-Escucha, pueblo mío, y yo te daré testimonio: si escuchas a Israel, yo seré tu Dios.
+Oye, pueblo mío, y te amonestaré; Israel, si me oyes.
 
 ### 81:9
 
-No habrá en ti dios extraño ni te postrarás ante dios extranjero.
+No haya en ti dios extraño, y no te postrarás a dios extranjero.
 
 ### 81:10
 
-Yo soy Jehová tu Dios, quien te exaltó de la tierra de Egipto; abre tu boca y la llenaré.
+Yo soy Jehová tu Dios, el que te hizo subir de tierra de Mizraim; ensancha tu boca, y la llenaré.
 
 ### 81:11
 
-Pero mi pueblo no me escuchó, y Israel no quiso a Jehová.
+Y no oyó mi pueblo a mi voz, e Israel no quiso a mí.
 
 ### 81:12
 
-Y yo los enviaré en la dureza de sus corazones; irán por sus propias ideas.
+Y lo envié en la dureza de su corazón; andarán en sus consejos.
 
 ### 81:13
 
-¡Oh, que mi pueblo me escuchara! ¡Que Israel anduviera en mis caminos!
+¡Ojalá mi pueblo me oyese, Israel en mis caminos anduviese!
 
 ### 81:14
 
-Pocos serían sus enemigos que yo vencería, y sobre sus adversarios pondría mi mano.
+En breve a sus enemigos humillaría, y sobre sus opresores volvería mi mano.
 
 ### 81:15
 
-Los que aborrecen a Jehová se apartarán de él, y su tiempo será para siempre.
+Los que odian a Jehová se le someterían, y sería su tiempo para siempre.
 
 ### 81:16
 
-Y te alimentaría con la grasa de trigo y te saciaría con roca de miel.
+Y lo alimentaría de grosura de trigo, y de la peña miel te saciaría.
 
 ## Capítulo 82
 
+
 ### 82:1
 
-Salmo de Asaf: Dios se ha puesto en la asamblea de los dioses, juzga en medio de los dioses.
+Salmo de Asaf. Dios está de pie en la asamblea de El; en medio de dioses juzga.
 
 ### 82:2
 
-Hasta cuándдуnto juzgaréis injusticia y favoreceréis a los malvados? ¡Selah!
+¿Hasta cuándo juzgarán iniquidad, y rostros de malos levantarán? Selá.
 
 ### 82:3
 
-Juzguen al necesitado y al huérfano, hagan justicia al pobre y al desvalido.
+Juzguen al débil y al huérfano; al afligido y al pobre justifiquen.
 
 ### 82:4
 
-Defiendan al necesitado y al indigente, libren al pobre de manos de los malvados.
+Libren al débil y al necesitado; de mano de malos salven.
 
 ### 82:5
 
-No conocen ni entienden, andan en tinieblas; todos los cimientos de la tierra se tambalean.
+No conocieron y no entienden; en tinieblas andan; se tambalean todos los cimientos de la tierra.
 
 ### 82:6
 
-Yo he dicho: “Ustedes son dioses, y ustedes todos hijos del Altísimo”.
+Yo dije: Dioses son ustedes, e hijos del Altísimo todos ustedes.
 
 ### 82:7
 
-Sin embargo, morirán como un hombre, caerán como uno de los príncipes.
+Mas como hombre morirán, y como uno de los príncipes caerán.
 
 ### 82:8
 
-Levántate, Dios, juzga la tierra, porque tú debes heredar entre todas las naciones.
+Levántate, Dios, juzga la tierra, porque tú heredarás en todas las naciones.
 
 ## Capítulo 83
 
+
 ### 83:1
 
-Cántico. De Asaf. Dios, no te calles, no te quedes en silencio, oh Dios.
+Cántico; salmo de Asaf. Dios, no silencio a ti; no calles, y no te aquietes, El.
 
 ### 83:2
 
-Porque he aquí que tus enemigos se agitan, y tus adversarios alzan la cabeza.
+Porque he aquí, tus enemigos se agitan, y tus odiadores alzaron cabeza.
 
 ### 83:3
 
-Contra tu pueblo conspiran secretos, y contra tus tesoros consultan.
+Sobre tu pueblo maquinan secreto, y se aconsejan contra tus guardados.
 
 ### 83:4
 
-Dicen: Venid, destruyamoslos de entre los pueblos, y que el nombre de Israel no se recuerde más.
+Dijeron: Vengan, y los ocultemos de nación, y no se recuerde el nombre de Israel aún.
 
 ### 83:5
 
-Porque conspiran juntos el corazón, contra ti hacen alianzas.
+Porque se aconsejaron de corazón juntos; contra ti pacto cortarán:
 
 ### 83:6
 
-Los de Edom y de Ismael, Moab y los Ammonitas.
+tiendas de Edom y yismaelim, Moab y los hagrim,
 
 ### 83:7
 
-Gabal, Amón y Amalec, los filisteos y los que habitan en Sión.
+Geval y Amón y Amaleq, Peléshet con moradores de Tsor.
 
 ### 83:8
 
-Asiria también se unió con ellos. Los hijos de Lot son su brazo, Selah.
+También Ashur se juntó con ellos; fueron brazo a hijos de Lot. Selá.
 
 ### 83:9
 
-Hazles lo que hiciste a Madian y a Sísara en el arroyo de Quisón, a Yabin.
+Hazles como a Midyán, como a Siserá, como a Yavin en el torrente Qishón;
 
 ### 83:10
 
-Los destruyeron en En-Dor; se convirtieron en estiércol en la tierra.
+fueron destruidos en En-Dor; fueron estiércol para el suelo.
 
 ### 83:11
 
-Hazles lo que hiciste a sus nobles como a Oreb y a Zeeb, como a Zabaoth en Quemuel.
+Pon a ellos, a sus nobles, como a Orev y como a Zeev, y como a Zévaj y como a Tsalmuna, a todos sus príncipes,
 
 ### 83:12
 
-Los que dijeron: ‘Nosotros heredaremos para nosotros las tierras de Dios.’
+que dijeron: Poseamos para nosotros las dehesas de Dios.
 
 ### 83:13
 
-Oh Dios, hazles como a Golgotes, como a paja delante del viento.
+Dios mío, ponlos como rueda, como paja delante de viento.
 
 ### 83:14
 
-Como el fuego consume el bosque, y como la llama consume las montañas.
+Como fuego que quema bosque, y como llama que abrasa montes,
 
 ### 83:15
 
-Así los perseguirás con tu tempestad, y los asustarás con tu huracán.
+así los persigue con tu tempestad, y con tu torbellino los aterra.
 
 ### 83:16
 
-Llena sus rostros de vergüenza, y busquen tu nombre, oh Señor.
+Llena sus rostros de afrenta, y busquen tu nombre, Jehová.
 
 ### 83:17
 
-Se avergüencen y teman siempre, y se desvanecen y perecen.
+Sean avergonzados y aterrados hasta perpetuo, y se avergüencen y perezcan,
 
 ### 83:18
 
-Y sabrán que tú, oh Señor, eres el único, sobre toda la tierra.
+y sepan que tú, tu nombre Jehová, tú solo, Altísimo sobre toda la tierra.
 
 ## Capítulo 84
 
+
 ### 84:1
 
-Para el director musical. De los hijos de Coré. Un salmo. ¡Cuán amados son tus moradas, Señor del ejército!
+Al director, sobre la guitit; de hijos de Qóraj; salmo. ¡Cuán amadas son tus moradas, Jehová de los ejércitos!
 
 ### 84:2
 
-Mi alma anhela y se consume por las estancias del Señor. Mi corazón y mi carne se alegran en el Dios viviente.
+Anheló y también desfalleció mi alma por los atrios de Jehová; mi corazón y mi carne cantan a El vivo.
 
 ### 84:3
 
-También el pájaro ha encontrado un hogar y la golondrina un nido para sus crías, junto a tus altares, oh Señor del ejército, Rey mío y Dios mío.
+También el pájaro halló casa, y la golondrina nido para sí, donde puso sus polluelos, tus altares, Jehová de los ejércitos, mi rey y mi Dios.
 
 ### 84:4
 
-¡Dichosos los que habitan en tu casa, siempre te alaban! Sela.
+Dichosos los que habitan tu casa; aún te alabarán. Selá.
 
 ### 84:5
 
-¡Dichoso el hombre cuya fuerza está en ti, cuyas sendas en el corazón!
+Dichoso el hombre cuya fuerza está en ti; caminos en su corazón.
 
 ### 84:6
 
-Los que pasan por el valle de las lágrimas hacen en él manantiales; también en él el que da la provisión los bendice.
+Pasantes por el valle de Bacá, manantial lo ponen; también con bendiciones lo cubre la lluvia temprana.
 
 ### 84:7
 
-Van de fortaleza a fortaleza; en Sion te aparecerá a Dios.
+Andarán de fuerza a fuerza; será visto hacia Dios en Tsión.
 
 ### 84:8
 
-Señor Dios de los ejércitos, escucha mi oración; oye, Dios de Jacob. ¡Selah!
+Jehová Dios de los ejércitos, oye mi oración; presta oído, Dios de Yaakov. Selá.
 
 ### 84:9
 
-Mira a tu guardia, Dios, y presta atención a la cara de tu ungido.
+Nuestro escudo, mira, Dios, y contempla el rostro de tu ungido.
 
 ### 84:10
 
-Porque es mejor un día en tus atrios que mil fuera de ellos. Prefiero estar en la casa de mi Dios, que estar en los atrios de los malvados.
+Porque mejor es un día en tus atrios que mil; escogí estar al umbral en la casa de mi Dios, más que habitar en tiendas de maldad.
 
 ### 84:11
 
-Porque el Señor es un sol y un escudo; el Señor concede gracia y gloria; no niega la buena cosa a los que andan en la integridad.
+Porque sol y escudo es Jehová Dios; gracia y gloria dará Jehová; no retendrá bien a los que andan en integridad.
 
 ### 84:12
 
-Señor de los ejércitos, dichoso el hombre que en ti confía.
+Jehová de los ejércitos, dichoso el hombre que confía en ti.
 
 ## Capítulo 85
 
+
 ### 85:1
 
-Para el director, de los hijos de Coré, un salmo. Señor, has deseado tu tierra; has restaurado a Jacob.
+Para el director. De hijos de Qóraj. Salmo. Te complaciste, Jehová, en tu tierra; hiciste volver a Yaakov.
 
 ### 85:2
 
-Has perdonado, Señor, la culpa de tu pueblo; has cubierto todos sus pecados. Sela.
+Alzaste la iniquidad de tu pueblo; cubriste todo su pecado. Selá.
 
 ### 85:3
 
-Has recogido toda tu ira; has vuelto a ponerte en calma después de tu ira.
+Recogiste toda tu indignación; volviste de la furia de tu nariz.
 
 ### 85:4
 
-Vuelve a nosotros, Dios de nuestra salvación, y aparta tu ira de nosotros.
+Haznos volver, Dios de nuestra salvación, y rompe tu enojo con nosotros.
 
 ### 85:5
 
-¿Acaso te enfadarás con nosotros para siempre? ¿Acaso prolongarás tu ira a través de las generaciones?
+¿Para siempre te enfadarás contra nosotros? ¿Arrastrarás tu nariz de generación y generación?
 
 ### 85:6
 
-¿Acaso no volverás a vivificarnos, para que tu pueblo se regocije en ti?
+¿No volverás tú a vivificarnos, y tu pueblo se alegrará en ti?
 
 ### 85:7
 
-Muéstranos, SEÑOR, tu gracia y dan tu salvación a nosotros.
+Muéstranos, Jehová, tu misericordia, y tu salvación da a nosotros.
 
 ### 85:8
 
-Escucharé lo que dice el Dios, SEÑOR, porque él hablará paz a su pueblo y a sus fieles, y no volverán a la insolencia.
+Oiré qué hablará el Dios Jehová, porque hablará paz a su pueblo y a sus fieles; y no vuelvan ellos a necedad.
 
 ### 85:9
 
-Pero la salvación está cerca para los que temen, para que el honor se asiente en nuestra tierra.
+Ciertamente cerca de los que le temen está su salvación, para que habite gloria en nuestra tierra.
 
 ### 85:10
 
-La gracia y la verdad se han encontrado, la justicia y la paz se han besado.
+Misericordia y verdad se encontraron; justicia y paz se besaron.
 
 ### 85:11
 
-La verdad brotará de la tierra, y la justicia mirará desde los cielos.
+Verdad desde la tierra brotará, y justicia desde los cielos mirará.
 
 ### 85:12
 
-También el SEÑOR dará el bien, y nuestra tierra dará su fruto.
+También Jehová dará el bien, y nuestra tierra dará su producto.
 
 ### 85:13
 
-La justicia caminará delante de mí, y pondrá mis pies en el camino.
+Justicia delante de él andará, y pondrá a camino sus pasos.
 
 ## Capítulo 86
 
+
 ### 86:1
 
-Oración de David: Inclina tu oído, SEÑOR, y escúchame, porque soy pobre y necesitado.
+Oración de David. Inclina, Jehová, tu oído; respóndeme, porque pobre y necesitado soy yo.
 
 ### 86:2
 
-Guarda mi vida, porque soy fiel; líbrame, SEÑOR, porque soy tu siervo, que confía en ti.
+Guarda mi alma, porque fiel soy yo; salva a tu siervo tú, Dios mío, el que confía en ti.
 
 ### 86:3
 
-Sé misericordioso conmigo, SEÑOR, porque a ti clamo todo el día.
+Ten misericordia de mí, Adonai, porque a ti clamo todo el día.
 
 ### 86:4
 
-Alegra el alma de tu siervo, porque a ti, SEÑOR, alzo mi alma.
+Alegra el alma de tu siervo, porque a ti, Adonai, mi alma alzo.
 
 ### 86:5
 
-Porque tú, SEÑOR, eres bueno y perdonas, y eres lleno de misericordia para con todos los que te invocan.
+Porque tú, Adonai, eres bueno y perdonador, y grande de misericordia a todos los que te llaman.
 
 ### 86:6
 
-Oye, SEÑOR, mi oración y escucha el clamor de mis súplicas.
+Escucha, Jehová, mi oración, y atiende a la voz de mis ruegos.
 
 ### 86:7
 
-En el día de mi angustia te invoco, porque me respondes.
+En el día de mi angustia te llamaré, porque me responderás.
 
 ### 86:8
 
-No hay como ti en los dioses, SEÑOR, y no hay como tus obras.
+No hay como tú entre los dioses, Adonai, y no hay como tus obras.
 
 ### 86:9
 
-Todos los pueblos que has hecho vendrán y se postrarán ante ti, SEÑOR, y glorificarán tu nombre.
+Todas las naciones que hiciste vendrán y se postrarán delante de ti, Adonai, y honrarán a tu nombre.
 
 ### 86:10
 
-Porque eres grande y haces maravillas; eres Dios solo.
+Porque grande eres tú, y hacedor de maravillas; tú eres Dios tú solo.
 
 ### 86:11
 
-Enséñame tu camino, SEÑOR, y yo andaré en tu verdad; únete mi corazón para temer tu nombre.
+Enséñame, Jehová, tu camino; andaré en tu verdad; une mi corazón para temer tu nombre.
 
 ### 86:12
 
-Te alabaré, SEÑOR, Dios mío, con todo mi corazón, y engrandeceré tu nombre por siempre jamás.
+Te alabaré, Adonai Dios mío, con todo mi corazón, y honraré tu nombre para siempre.
 
 ### 86:13
 
-Porque tu bondad es grande hacia mí, y me has librado de la muerte infernal.
+Porque grande es tu misericordia sobre mí, y libraste mi alma del Seol inferior.
 
 ### 86:14
 
-Los dioses rebeldes se levantaron contra mí, y una congregación de hombres violentos buscan mi vida, y no pusieron tu Dios delante de ellos.
+Dios, soberbios se levantaron contra mí, y asamblea de violentos buscaron mi alma, y no te pusieron delante de ellos.
 
 ### 86:15
 
-Pero tú, SEÑOR, eres Dios misericordioso y bondadoso, paciente y lleno de amor y verdad.
+Y tú, Adonai, Dios misericordioso y clemente, largo de narices y grande de misericordia y verdad.
 
 ### 86:16
 
-Vuelve tu rostro hacia mí y ten misericordia de mí, fortalece a tu siervo, y salva a la criatura de tu sierva.
+Vuélvete a mí y ten misericordia de mí; da tu fuerza a tu siervo, y salva al hijo de tu sierva.
 
 ### 86:17
 
-Haz un signo conmigo para bien, y vean mis enemigos y se avergüencen, porque tú, SEÑOR, me has ayudado y me has consolado.
+Haz conmigo una señal para bien, y vean mis aborrecedores y se avergüencen, porque tú, Jehová, me ayudaste y me consolaste.
 
 ## Capítulo 87
 
+
 ### 87:1
 
-Para los hijos de Coré, un cántico. Fundación de su casa en los montes santos.
+De hijos de Qóraj. Salmo. Canción. Su fundamento está en montes de santidad.
 
 ### 87:2
 
-Ama el SEÑOR las puertas de Sion, más que todas las moradas de Jacob.
+Ama Jehová las puertas de Sión más que todas las moradas de Yaakov.
 
 ### 87:3
 
-Nobles son las que hablan de ti, ciudad de los dioses. Sela.
+Cosas gloriosas se hablan en ti, ciudad de Dios. Selá.
 
 ### 87:4
 
-Recordaré a Rahab y a Babilonia, a los que conocen, he aquí a Palestina y a Tiro, con Kush, en esto nació.
+Mencionaré a Rajav y a Bavel a los que me conocen; he aquí, Peleshet y Tsor con Kush: este nació allí.
 
 ### 87:5
 
-Y a Sion se le dirá: Cada uno de ellos nació en ella, y él la establecerá en lo alto.
+Y de Sión se dirá: Varón y varón nació en ella, y él mismo la establecerá, Elyón.
 
 ### 87:6
 
-El SEÑOR contará, escribirá los pueblos: en esto nació allí. Sela.
+Jehová contará al escribir pueblos: Este nació allí. Selá.
 
 ### 87:7
 
-Y cantores como que nacen, todos mis ojos en ti.
+Y cantores como flautistas: Todas mis fuentes están en ti.
 
 ## Capítulo 88
 
+
 ### 88:1
 
-Salmo de Heman, hijo de Korah, para el director, a la escala de Mahalath, para enseñar. A Dios, oh Dios mío, te clamo de día; en la noche delante de ti estoy.
+Canción. Salmo. De hijos de Qóraj. Para el director. Sobre Majalat, para afligir. Maskil de Heimán el ezrají. Jehová, Dios de mi salvación, de día clamé, de noche delante de ti.
 
 ### 88:2
 
-Que venga tu respuesta delante de ti, inclina tu oído a mi alabanza.
+Entre delante de ti mi oración; inclina tu oído a mi grito.
 
 ### 88:3
 
-Porque llena está mi alma de males, y mis años a la muerte se han ido.
+Porque se sació de males mi alma, y mi vida al Seol llegó.
 
 ### 88:4
 
-Contado soy con los que bajan al pozo; soy como un hombre sin esperanza.
+Fui contado con los que bajan al pozo; fui como varón sin fuerza.
 
 ### 88:5
 
-Con los muertos estoy libre como los que están en el sepulcro, a quienes tú olvidaste, y a quienes has entregado.
+Entre los muertos libre, como los traspasados que yacen en la sepultura, a los que no recuerdas más, y ellos de tu mano fueron cortados.
 
 ### 88:6
 
-Has puesto a tu siervo en el pozo más profundo, en las tinieblas y en las profundidades.
+Me pusiste en el pozo de lo más bajo, en lugares oscuros, en profundidades.
 
 ### 88:7
 
-Sobre mí pesa tu ira, y has afligido a todos tus enojos.
+Sobre mí se apoyó tu furor, y con todas tus olas me afligiste. Selá.
 
 ### 88:8
 
-Has apartado de mí tus conocimientos, me has entregado a las cosas abominables, me has encerrado, y no saldré.
+Alejaste de mí a mis conocidos; me pusiste abominaciones a ellos; encerrado, y no salgo.
 
 ### 88:9
 
-Mis ojos se consumen de hambre, clamo a ti, oh Jehová, cada día; extiendo a ti mis manos.
+Mi ojo languideció de aflicción; te llamé, Jehová, todo el día; extendí a ti mis palmas.
 
 ### 88:10
 
-¿Haces milagros a los muertos? ¿Los que están en el sepulcro te alabarán?
+¿A los muertos harás maravilla? ¿O se levantarán los refaim y te alabarán? Selá.
 
 ### 88:11
 
-¿Se contará tu misericordia en el sepulcro, tu fidelidad en la destrucción?
+¿Se contará en la sepultura tu misericordia, tu fidelidad en el Abadón?
 
 ### 88:12
 
-¿Se conocerá tu maravilla en las tinieblas, y tu justicia en la tierra de olvido?
+¿Se conocerá en la oscuridad tu maravilla, y tu justicia en tierra de olvido?
 
 ### 88:13
 
-A ti, Señor, he clamado, y por la mañana mi oración te precederá.
+Y yo a ti, Jehová, clamé, y por la mañana mi oración te anticipará.
 
 ### 88:14
 
-¿Por qué, Señor, rechazas mi alma y ocultas tu rostro de mí?
+¿Por qué, Jehová, rechazas mi alma, escondes tu rostro de mí?
 
 ### 88:15
 
-Soy pobre y cansado desde la juventud; tus terrores me han afligido.
+Afligido soy yo y expirando desde la juventud; he llevado tus terrores; estoy desconcertado.
 
 ### 88:16
 
-Sobre mí han pasado tus iras, tus tormentos me han rodeado.
+Sobre mí pasaron tus furias; tus espantos me aniquilaron.
 
 ### 88:17
 
-Como las aguas me han cubierto todo el día; me han rodeado juntos.
+Me rodearon como aguas todo el día; me cercaron juntos.
 
 ### 88:18
 
-Has alejado de mí a mi amado y a mi compañero; a mis conocidos, la oscuridad.
+Alejaste de mí amante y amigo; mis conocidos son tiniebla.
 
 ## Capítulo 89
 
+
 ### 89:1
 
-Saber a Eitan, hijo de Ezrás, cantaré siempre tus misericordias, oh Señor; con mi boca anunciaré tu fidelidad a todas las generaciones.
+Maskil de Eitán el ezrají. Las misericordias de Jehová para siempre cantaré; de generación y generación haré conocer tu fidelidad con mi boca.
 
 ### 89:2
 
-Porque he dicho: Tu misericordia es eterna; juraste con verdad a David tu siervo.
+Porque dije: Para siempre misericordia será edificada; los cielos, establecerás tu fidelidad en ellos.
 
 ### 89:3
 
-He hecho un pacto con mi elegido, he jurado a David mi siervo.
+Corté pacto a mi escogido; juré a David mi siervo:
 
 ### 89:4
 
-Hasta siempre confirmaré tu linaje, y edificaré tu trono por todas las generaciones. Sela.
+Hasta siempre estableceré tu semilla, y edificaré de generación y generación tu trono. Selá.
 
 ### 89:5
 
-Y los cielos proclamarán tus maravillas, oh Señor, y tu fidelidad entre el pueblo santo.
+Y alabarán los cielos tu maravilla, Jehová; también tu fidelidad en la asamblea de santos.
 
 ### 89:6
 
-¿Quién en el cielo te igualará a Dios, y entre los hijos de Dios te comparará?
+Porque ¿quién en la nube se igualará a Jehová? ¿Quién se asemejará a Jehová entre hijos de elím?
 
 ### 89:7
 
-Dios temible en su consejo santo, grande y terrible a su alrededor.
+Dios temible en el consejo de santos en gran manera, y terrible sobre todos alrededor de él.
 
 ### 89:8
 
-Señor, Dios de los ejércitos, ¿quién es como tú, fuerte en tu santuario? Y tu fidelidad alrededor de ti.
+Jehová, Dios de los ejércitos, ¿quién como tú, fuerte Yah? Y tu fidelidad alrededor de ti.
 
 ### 89:9
 
-Tú dominas en la grandeza del mar; cuando las olas se levantan, tú las calmas.
+Tú dominas en la soberbia del mar; en el alzarse de sus olas, tú las aquietas.
 
 ### 89:10
 
-Tú aplastaste a Rahab como un cadáver; con tu brazo fuerte dispersaste tus enemigos.
+Tú aplastaste como traspasado a Rajav; con brazo de tu fuerza esparciste a tus enemigos.
 
 ### 89:11
 
-Los cielos son tuyos, la tierra también es tuya; tú fundaste el mundo y todo lo que está en él.
+Tuyos son los cielos, también tuya la tierra; el mundo y su plenitud, tú los fundaste.
 
 ### 89:12
 
-El norte y el sur, tú los has creado; Tabor y Hermon te alabarán en tu nombre.
+Norte y sur, tú los creaste; Tavór y Jermón en tu nombre gritarán de júbilo.
 
 ### 89:13
 
-Tú tienes un brazo poderoso; tu mano derecha te sostiene, te alza.
+Tuyo es el brazo con poderío; se fortalecerá tu mano; se alzará tu derecha.
 
 ### 89:14
 
-Justicia y juicio son el fundamento de tu trono; misericordia y fidelidad te preceden.
+Justicia y juicio son base de tu trono; misericordia y verdad irán delante de tu rostro.
 
 ### 89:15
 
-¡Dichoso el pueblo que conoce la alabanza! En la luz de tu rostro andarán.
+Dichoso el pueblo conocedor de aclamación; Jehová, en la luz de tu rostro andarán.
 
 ### 89:16
 
-En tu nombre se alegrarán todo el día, y en tu justicia se exaltarán.
+En tu nombre se regocijarán todo el día, y en tu justicia serán exaltados.
 
 ### 89:17
 
-Porque la gloria de su fortaleza está en ti; con tu voluntad exaltas la cornamenta.
+Porque ornato de su fuerza eres tú, y en tu favor nuestro cuerno.
 
 ### 89:18
 
-Porque para nosotros es tu escudo, y para tu santo, el rey de Israel.
+Porque de Jehová es nuestro escudo, y del Santo de Israel nuestro rey.
 
 ### 89:19
 
-Entonces hablaste en visión a tus santos: ‘He puesto a un valiente como jefe, he exaltado a un joven de entre el pueblo.’
+Entonces hablaste en visión a tus fieles, y dijiste: Puse ayuda sobre un valiente; exalté a un escogido del pueblo.
 
 ### 89:20
 
-Encontré a David, mi siervo; con el aceite de mi santidad lo uní.
+Hallé a David mi siervo; con aceite de mi santidad lo ungí.
 
 ### 89:21
 
-Mi mano lo confirmará, mi brazo lo fortalecerá.
+Con quien mi mano se afirmará con él; también mi brazo lo fortalecerá.
 
 ### 89:22
 
-No alzará enemigo contra él, ni hijo de maldad lo oprimirá.
+No lo engañará enemigo, y hijo de iniquidad no lo afligirá.
 
 ### 89:23
 
-Y aplastaré a sus enemigos delante de él y a sus adversarios lo golpearé.
+Y aplastaré delante de él a sus opresores, y a sus aborrecedores heriré.
 
 ### 89:24
 
-Y mi fidelidad y mi misericordia estarán con él, y en mi nombre exaltarán su cuerno.
+Y mi fidelidad y mi misericordia con él, y en mi nombre será exaltado su cuerno.
 
 ### 89:25
 
-Y pondré mi mano en el mar a su mano derecha, y en los ríos a su diestra.
+Y pondré en el mar su mano, y en los ríos su derecha.
 
 ### 89:26
 
-Él me llamará: ‘Padre’, y me dirá: ‘Dios mío’, y ‘Roca de mi salvación’.
+Él me llamará: Padre mío eres tú, Dios mío y roca de mi salvación.
 
 ### 89:27
 
-También yo lo haré primero entre hermanos, sobre la cumbre de los reyes de la tierra.
+También yo primogénito lo pondré, Elyón a los reyes de la tierra.
 
 ### 89:28
 
-Conservaré mi misericordia para él por siempre, y mi alianza será fiel para él.
+Para siempre a él mi misericordia, y mi pacto fiel a él.
 
 ### 89:29
 
-Y pondré su descendencia para siempre, y su trono como los días del cielo.
+Y pondré para siempre su semilla, y su trono como días de cielos.
 
 ### 89:30
 
-Si abandonan mi ley, si no andan según mis decretos,
+Si abandonan sus hijos mi torá, y en mis juicios no andan,
 
 ### 89:31
 
-si profanan mis mandamientos, si no guardan mis preceptos,
+si mis estatutos profanan, y mis mandamientos no guardan,
 
 ### 89:32
 
-yo castigaré con vara su maldad y con azotes sus pecados,
+entonces visitaré con vara su rebelión, y con azotes su iniquidad.
 
 ### 89:33
 
-pero no retiraré mi misericordia de él, ni seré infiel a mi fidelidad.
+Mas mi misericordia no quitaré de con él, ni mentiré contra mi fidelidad.
 
 ### 89:34
 
-No profanaré mi alianza, ni cambiaré lo que salió de mis labios.
+No profanaré mi pacto, y lo que sale de mis labios no mudaré.
 
 ### 89:35
 
-Una vez juré por mi santidad que no mentiría a David.
+Una vez juré por mi santidad: Si a David mentiré.
 
 ### 89:36
 
-Su descendencia será eterna, y su trono como el sol ante mí.
+Su semilla para siempre será, y su trono como el sol delante de mí.
 
 ### 89:37
 
-Como la luna será estable para siempre, y será testigo en el cielo fiel, Selah.
+Como la luna será establecido para siempre, y testigo en la nube fiel. Selá.
 
 ### 89:38
 
-Pero tú has rechazado y despreciado, te has enojado con tu Mesías.
+Y tú rechazaste y despreciaste; te enfureciste con tu ungido.
 
 ### 89:39
 
-Has deshonrado el pacto con tu siervo, has profanado la corona de él en la tierra.
+Abominaste el pacto de tu siervo; profanaste a la tierra su diadema.
 
 ### 89:40
 
-Has roto todas sus murallas, has hecho sus fortalezas un desastre.
+Derribaste todos sus cercados; pusiste sus fortalezas en ruina.
 
 ### 89:41
 
-Todo el que pasa por el camino se ha burlado de ellos, han sido una vergüenza para sus vecinos.
+Lo saquearon todos los pasantes de camino; fue afrenta a sus vecinos.
 
 ### 89:42
 
-Has alzado la mano de mis enemigos, has regocijado a todos mis adversarios.
+Exaltaste la derecha de sus opresores; alegraste a todos sus enemigos.
 
 ### 89:43
 
-También has devuelto la roca de su espada, y no has hecho que él triunfe en la batalla.
+También volverás el filo de su espada, y no lo levantaste en la guerra.
 
 ### 89:44
 
-Has apartado su pureza, y su trono ha sido derribado a la tierra.
+Hiciste cesar de su esplendor, y su trono a la tierra derribaste.
 
 ### 89:45
 
-Has acortado los días de mi juventud, y has cubierto sobre mí con vergüenza, ¡Selah!
+Acortaste los días de su juventud; cubriste sobre él vergüenza. Selá.
 
 ### 89:46
 
-Hasta cuándo, oh Yahveh, te esconderás para siempre? Cuándo arderás como fuego de tu ira.
+¿Hasta cuándo, Jehová, te esconderás para siempre? ¿Arderá como fuego tu furor?
 
 ### 89:47
 
-Acuérdate de cuánto he vivido, por qué has creado en vano a todos los hijos del hombre.
+Recuerda: yo qué duración; sobre qué vanidad creaste a todos los hijos de Adán.
 
 ### 89:48
 
-¿Quién es el hombre que vivirá y no verá la muerte? ¿Quién librará su alma de la mano del Sheol, ¡Selah!
+¿Qué varón vivirá y no verá muerte? ¿Librará su alma de mano del Seol? Selá.
 
 ### 89:49
 
-¿Dónde están tus antiguos favores, oh Yahveh? Has jurado a David con tu fidelidad.
+¿Dónde están tus misericordias primeras, Adonai, que juraste a David en tu fidelidad?
 
 ### 89:50
 
-Acuérdate, oh Yahveh, de la afrenta de tus siervos, de su reproche que está en mi seno, de todos los pueblos.
+Recuerda, Adonai, la afrenta de tus siervos; yo llevo en mi seno a todos los muchos pueblos,
 
 ### 89:51
 
-Que tus enemigos han insultado a Yahveh, que han insultado a los pies de tu Ungido.
+con que afrentaron tus enemigos, Jehová, con que afrentaron las pisadas de tu ungido.
 
 ### 89:52
 
-Bendito sea Yahveh por siempre, amén y amén.
+Bendito sea Jehová para siempre. Amén y amén.
 
 ## Capítulo 90
 
+
 ### 90:1
 
-Oración de Moisés, el hombre de Dios, oh Yahveh, has sido nuestro refugio de generación en generación.
+Oración de Moisés, varón de Dios. Adonai, morada eres tú; has sido a nosotros de generación y generación.
 
 ### 90:2
 
-Antes de que los montes dieran a luz y antes de que la tierra diera a luz y antes de que el mundo existiera, tú eres Dios.
+Antes que los montes nacieran, y dieras a luz tierra y mundo, y desde siempre hasta siempre, tú eres Dios.
 
 ### 90:3
 
-Haces volver al hombre a la derrota y dices: Devuélvete, hijos de Adán.
+Haces volver al mortal hasta pulverización, y dices: Vuelvan, hijos de Adán.
 
 ### 90:4
 
-Porque mil años en tus ojos son como un día que pasa, como una guardia de la noche.
+Porque mil años en tus ojos son como día de ayer cuando pasa, y una vigilia en la noche.
 
 ### 90:5
 
-Los llevas a la derrota; en un año se vuelven, por la mañana como hierba que seca.
+Los arrasaste; sueño serán; por la mañana como hierba que pasa.
 
 ### 90:6
 
-Por la mañana florece y se marchita; por la tarde seca y se marchita.
+Por la mañana florece y pasa; a la tarde se marchita y se seca.
 
 ### 90:7
 
-Porque nos consumes en tu ira y nos asusta tu enojo.
+Porque nos consumimos en tu nariz, y en tu furor somos turbados.
 
 ### 90:8
 
-Ponemos nuestros pecados delante de ti, nuestros crímenes a la luz de tu rostro.
+Nuestras iniquidades delante de ti, nuestro oculto a la luz de tu rostro.
 
 ### 90:9
 
-Porque todos nuestros días se vuelven en tu ira; consumimos nuestros años como un soplo.
+Porque todos nuestros días se volvieron en tu indignación; consumimos nuestros años como un suspiro.
 
 ### 90:10
 
-Los días de nuestros años son setenta, o si en fuerza ochenta, y toda su gloria es trabajo y aflicción; pronto pasa, y volamos.
+Los días de nuestros años en ellos setenta años, y si en fuerzas ochenta años, y su orgullo trabajo y iniquidad; porque pasa pronto, y volamos.
 
 ### 90:11
 
-¿Quién conoce el poder de tu ira? Y según tu temor, tu ira.
+¿Quién conoce la fuerza de tu nariz, y conforme a tu temor tu indignación?
 
 ### 90:12
 
-Enséñanos cuántos días nos quedan, para que podamos meditar en la sabiduría de nuestro corazón.
+Para contar nuestros días, así haz conocer, y traeremos corazón de sabiduría.
 
 ### 90:13
 
-Vuelve, Yahveh, ¿hasta cuándo? Haz que se apiaden de tus siervos.
+Vuelve, Jehová; ¿hasta cuándo? Y arrepiéntete sobre tus siervos.
 
 ### 90:14
 
-Sátiate en la mañana de tu gracia y cantaremos y seremos alegres en todos nuestros días.
+Sácianos por la mañana de tu misericordia, y cantaremos y nos alegraremos en todos nuestros días.
 
 ### 90:15
 
-Sáturanos como los días en que nos afligiste, años en que hemos visto adversidad.
+Alégranos conforme a los días que nos afligiste, años en que vimos mal.
 
 ### 90:16
 
-Que se muestre a tus siervos tu obra y tu gloria sobre sus hijos.
+Sea vista a tus siervos tu obra, y tu esplendor sobre sus hijos.
 
 ### 90:17
 
-Que sea grato el Señor nuestro Dios sobre nosotros y que la obra de nuestras manos sea confirmada sobre nosotros, y que la obra de nuestras manos sea confirmada.
+Y sea la hermosura de Adonai nuestro Dios sobre nosotros, y la obra de nuestras manos confirma sobre nosotros, y la obra de nuestras manos confírmala.
 
 ## Capítulo 91
 
+
 ### 91:1
 
-El que habita en el escondite del Altísimo, bajo la sombra del Omnipotente descansará.
+El que habita en el secreto de Elyón, en la sombra de Shadai se alojará.
 
 ### 91:2
 
-Diré al Señor: “Eres mi refugio y mi fortaleza, mi Dios en quien confío.”
+Diré a Jehová: Mi refugio y mi fortaleza; Dios mío, confiaré en él.
 
 ### 91:3
 
-Porque él te librará del lazo del cazador y de la peste destructora.
+Porque él te librará del lazo de cazador, de peste de destrucciones.
 
 ### 91:4
 
-Con sus plumas te cubrirá, y debajo de sus alas te refugiarás; su verdad será tu escudo y tu baluarte.
+Con su pluma te cubrirá, y bajo sus alas te refugiarás; escudo y adarga es su verdad.
 
 ### 91:5
 
-No temerás del terror de la noche ni de la flecha que vuela de día.
+No temerás de terror de noche, de flecha que vuela de día,
 
 ### 91:6
 
-No temerás de la plaga que anda en la oscuridad ni de la peste que destruye al mediodía.
+de peste que en tiniebla anda, de mortandad que destruye al mediodía.
 
 ### 91:7
 
-Caerán mil a tu lado, y diez mil a tu derecha, pero no te acercarán.
+Caerán de tu lado mil, y diez mil de tu derecha; a ti no se acercará.
 
 ### 91:8
 
-Sólo con los ojos mirarás y verás el pago de los malvados.
+Solo con tus ojos mirarás, y retribución de malvados verás.
 
 ### 91:9
 
-Porque tú, SEÑOR, eres mi refugio; pusiste a El Elyón como morada.
+Porque tú pusiste a Jehová, mi refugio, Elyón tu morada.
 
 ### 91:10
 
-No te acercará mal alguno, ni plaga a tu tienda.
+No te acontecerá mal, y plaga no se acercará en tu tienda.
 
 ### 91:11
 
-Porque él mandará a sus ángeles por tu causa, para guardarte en todos tus caminos.
+Porque a sus mensajeros mandará por ti, para guardarte en todos tus caminos.
 
 ### 91:12
 
-En sus manos te llevarán, para que no tropezas con piedra en tu camino.
+Sobre palmas te llevarán, no sea que tropiece en piedra tu pie.
 
 ### 91:13
 
-Pisarás las serpientes y las águilas, aplastarás al león y al dragón.
+Sobre león y áspid pisarás; hollarás leoncello y dragón.
 
 ### 91:14
 
-Porque él tiene simpatía por mí; me libra, me engrandece, porque conoce mi nombre.
+Porque en mí se apegó, y lo libraré; lo pondré en alto, porque conoció mi nombre.
 
 ### 91:15
 
-Clamará a mí, y yo le responderé; estaré con él en la angustia; le libraré y le engrandeceré.
+Me llamará, y le responderé; con él yo en angustia; lo libraré y lo honraré.
 
 ### 91:16
 
-Satisfaré a tu vida con largos días, y te mostraré la salvación de mi Dios.
+De largura de días lo saciaré, y le haré ver en mi salvación.
 
 ## Capítulo 92
 
+
 ### 92:1
 
-Salmo y himno para el día de reposo. Te doy gracias, SEÑOR, y canto tu nombre, El Elyón.
+Salmo. Canción para el día del shabat. Bueno es dar gracias a Jehová, y cantar a tu nombre, Elyón,
 
 ### 92:2
 
-Para declarar tu misericordia por la mañana y tu fidelidad por las noches.
+para anunciar por la mañana tu misericordia, y tu fidelidad en las noches,
 
 ### 92:3
 
-Al son de laúd y al son de arpa, al son de instrumento musical.
+sobre el de diez, y sobre el nebel, sobre meditación con kinor.
 
 ### 92:4
 
-Porque me alegraste, SEÑOR, por tus obras; en tus acciones de tus manos me regocijaré.
+Porque me alegraste, Jehová, en tu obra; en las obras de tus manos cantaré.
 
 ### 92:5
 
-¡Cuán grandes son tus obras, SEÑOR! ¡Cuán profundos son tus pensamientos!
+¡Cuán grandes son tus obras, Jehová! Muy profundos tus pensamientos.
 
 ### 92:6
 
-El necio no entiende esto, ni el impío la conoce.
+Varón bruto no conoce, y necio no entiende esto.
 
 ### 92:7
 
-Los impíos florecen como la hierba, y todos los que hacen el mal brotan; para que sean destruidos por siempre.
+Cuando florecen los malvados como hierba, y brotan todos los hacedores de iniquidad, para ser destruidos hasta siempre.
 
 ### 92:8
 
-Pero tú, SEÑOR, eres eternamente alto.
+Y tú eres excelso para siempre, Jehová.
 
 ### 92:9
 
-Porque he aquí tus enemigos, SEÑOR, he aquí tus enemigos perecerán; todos los que hacen el mal se dispersarán.
+Porque he aquí, tus enemigos, Jehová, porque he aquí, tus enemigos perecerán; se dispersarán todos los hacedores de iniquidad.
 
 ### 92:10
 
-Has alzado mis cuernos como los de los unicornios; he ungido mis cuerdas con aceite fresco.
+Y exaltaste como de un reem mi cuerno; fui ungido con aceite fresco.
 
 ### 92:11
 
-Mis ojos han visto a mis adversarios, a mis enemigos que se levantaban contra mí; he oído su alarido.
+Y miró mi ojo en mis acechadores; de los que se levantan contra mí, malhechores, oirán mis oídos.
 
 ### 92:12
 
-El justo florecerá como el cedro; como el abeto del Líbano crecerá.
+El justo como la palmera florecerá; como cedro en el Líbano crecerá.
 
 ### 92:13
 
-Plantados están en la casa del SEÑOR, en los atrios de nuestro Dios florecerán.
+Plantados en la casa de Jehová, en los atrios de nuestro Dios florecerán.
 
 ### 92:14
 
-Aun en la vejez darán fruto, serán llenos de savia y de frescura.
+Aún fructificarán en canicie; pingües y frescos serán,
 
 ### 92:15
 
-Para declarar que el SEÑOR es justo, mi roca, y que no hay injusticia en él.
+para anunciar que recto es Jehová, mi roca, y no hay injusticia en él.
 
 ## Capítulo 93
 
+
 ### 93:1
 
-El SEÑOR reina, está revestido de majestad; el SEÑOR viste de poder y se arroba; la tierra es estable, no temblará.
+Jehová reinó; soberbia se vistió; se vistió Jehová; fuerza se ciñó; también se afirma el mundo; no se moverá.
 
 ### 93:2
 
-Tu trono está establecido desde antiguo; desde la eternidad estás.
+Firme está tu trono desde entonces; desde siempre eres tú.
 
 ### 93:3
 
-Se levantan tus ríos, se levantan tus ríos, se levantan tus ríos, rugen tus ríos.
+Alzaron ríos, Jehová, alzaron ríos su voz; alzarán ríos su embate.
 
 ### 93:4
 
-Más que el rugir de las aguas, más que el estruendo de las mareas, grande es el SEÑOR en su majestad.
+Más que voces de aguas muchas, majestuosos rompientes de mar, majestuoso en la altura es Jehová.
 
 ### 93:5
 
-Tus promesas son muy fieles; tu templo es amado por largo tiempo.
+Tus testimonios son muy fieles; a tu casa conviene santidad, Jehová, por largura de días.
 
 ## Capítulo 94
 
+
 ### 94:1
 
-Dios vengativo, SEÑOR, Dios vengativo, Dios que castiga.
+Dios de venganzas, Jehová; Dios de venganzas, aparece.
 
 ### 94:2
 
-¿Hasta cuándo, SEÑOR, juzgará la tierra? ¿Hasta cuándo juzgará la tierra?
+Levántate, juez de la tierra; haz volver retribución sobre los soberbios.
 
 ### 94:3
 
-Hablan los impíos, hablan sin cesar, hablan todos los que hacen el mal.
+¿Hasta cuándo los impíos, Jehová, hasta cuándo los impíos triunfarán?
 
 ### 94:4
 
-Afligen a tu pueblo, SEÑOR, afligen a tu heredad.
+Brotan, hablan arrogancia; se jactan todos los hacedores de iniquidad.
 
 ### 94:5
 
-Matan a viudas e huérfanos.
+A tu pueblo, Jehová, aplastan; y a tu heredad afligen.
 
 ### 94:6
 
-Dicen: No verá el SEÑOR, no lo sabrá Dios de Jacob.
+Viuda y forastero matan; y a huérfanos asesinan.
 
 ### 94:7
 
-Entienden los necios, entienden los necios, ¿cuándo se volverán sabios?
+Y dijeron: No verá Yah, y no entenderá el Dios de Yaakov.
 
 ### 94:8
 
-Entienden los necios, entienden los necios, ¿cuándo se volverán sabios?
+Entiendan, brutales en el pueblo; y necios, ¿cuándo tendrán juicio?
 
 ### 94:9
 
-¿Acaso planta oídos para no escuchar? ¿Acaso forma ojos para no ver?
+El que planta oído, ¿acaso no oirá? Si el que forma ojo, ¿acaso no mirará?
 
 ### 94:10
 
-¿Acaso instruye a las naciones para no juzgarlas? ¿Acaso enseña a los hombres la sabiduría?
+El que disciplina naciones, ¿acaso no reprenderá? El que enseña a hombre conocimiento—
 
 ### 94:11
 
-El SEÑOR conoce los pensamientos del hombre, que son vanidad.
+Jehová conoce los pensamientos de hombre, que ellos son vanidad.
 
 ### 94:12
 
-¡Dichoso el hombre que Tú le corrijes y enseñas de Tu ley!
+Dichoso el varón a quien disciplinas, Yah, y de tu torá le enseñas,
 
 ### 94:13
 
-Para humillarlo en días de adversidad, hasta que no quede más que ruina para el malvado.
+para aquietarle de días de mal, hasta que se cave para el impío fosa.
 
 ### 94:14
 
-Porque el SEÑOR no abandonará a Su pueblo ni dejará sin heredad a Su heredad.
+Porque no abandonará Jehová su pueblo, y su heredad no dejará.
 
 ### 94:15
 
-Porque la justicia volverá al juicio, y después de ella vendrán todos los rectos de corazón.
+Porque hasta justicia volverá el juicio, y tras él todos los rectos de corazón.
 
 ### 94:16
 
-¿Quién se levantará para mí contra los malvados? ¿Quién se pondrá de mi lado contra los obreros de la maldad?
+¿Quién se levantará por mí contra malhechores? ¿Quién se pondrá por mí contra hacedores de iniquidad?
 
 ### 94:17
 
-Si no fuera por el SEÑOR, que es mi ayuda, mi alma habitaría en silencio.
+Si no fuera Jehová ayuda a mí, como poco moraría en silencio mi alma.
 
 ### 94:18
 
-Si digo: Mi pie resbala, tu misericordia, SEÑOR, me sostendrá.
+Si dije: Se resbala mi pie — tu misericordia, Jehová, me sostiene.
 
 ### 94:19
 
-Cuando estoy lleno de ansiedad, tus consuelos me alegran el alma.
+En la muchedumbre de mis inquietudes dentro de mí, tus consolaciones deleitan mi alma.
 
 ### 94:20
 
-¿Acaso el trono de la vanidad te une? ¿Acaso el que forma el trabajo en la ley?
+¿Se unirá a ti trono de destrucciones, el que forma trabajo sobre estatuto?
 
 ### 94:21
 
-Acopian la vida del justo y declaran culpable la sangre inocente.
+Se juntan sobre el alma de justo, y sangre inocente condenan.
 
 ### 94:22
 
-Y el Señor fue para mí un refugio, y Dios mi roca de refugio.
+Y fue Jehová a mí por alto refugio, y mi Dios por peña de mi amparo.
 
 ### 94:23
 
-Y él los hizo descansar sobre sus cargas, y en su maldad los hizo descansar; él los hizo descansar, oh Señor, nuestro Dios.
+Y hizo volver sobre ellos su iniquidad, y en su maldad los destruirá; los destruirá Jehová nuestro Dios.
 
 ## Capítulo 95
 
+
 ### 95:1
 
-Vamos a cantar al Señor, vamos a alabar a la roca de nuestra salvación.
+Vengan, cantemos a Jehová; gritemos a la peña de nuestra salvación.
 
 ### 95:2
 
-Ante él vamos a adorar con alabanza, con himnos vamos a alabarle.
+Adelantémonos a su rostro con acción de gracias; con cánticos gritamos a él.
 
 ### 95:3
 
-Porque Dios es grande, y el rey grande sobre todos los dioses.
+Porque Dios grande es Jehová, y rey grande sobre todos los dioses.
 
 ### 95:4
 
-En sus manos están las profundidades de la tierra, y las cumbres de los montes son suyas.
+En cuya mano están las profundidades de la tierra, y las cumbres de los montes son suyas.
 
 ### 95:5
 
-El mar es suyo, él lo hizo; sus manos formaron la tierra seca.
+Cuyo es el mar, y él lo hizo, y la tierra seca sus manos formaron.
 
 ### 95:6
 
-Venid, postrémonos y adoraremos, postrémonos y bendeciremos; postrémonos ante el Señor que nos hizo.
+Vengan, postrémonos y arrodillémonos; bendigamos delante de Jehová nuestro hacedor.
 
 ### 95:7
 
-Porque él es nuestro Dios, y nosotros su pueblo, y ovejas de su pasto; hoy, si escucháis su voz.
+Porque él es nuestro Dios, y nosotros pueblo de su pastoreo y ovejas de su mano. Hoy, si a su voz ustedes escuchan:
 
 ### 95:8
 
-No endurezcamos el corazón como en Masá, como el día de Masá en el desierto.
+No endurezcan el corazón de ustedes como en Meribá, como el día de Masá en el desierto,
 
 ### 95:9
 
-Porque allí me tentaron vuestros padres, me pusieron a prueba, y vieron mis obras.
+donde me probaron los padres de ustedes; me examinaron, también vieron mi obra.
 
 ### 95:10
 
-Cuarenta años me enfurecí con la generación, y dije: Pueblo de corazones insensatos, no conocen mis obras.
+Cuarenta años abominé en generación, y dije: Pueblo errante de corazón son ellos; y ellos no conocieron mis caminos;
 
 ### 95:11
 
-Porque juré en mi ira: No entrarán en mi descanso.
+de modo que juré en mi ira: Si entrarán a mi reposo.
 
 ## Capítulo 96
 
+
 ### 96:1
 
-Cantad al Señor un nuevo cántico, cantad al Señor, toda la tierra.
+Canten a Jehová cántico nuevo; canten a Jehová toda la tierra.
 
 ### 96:2
 
-Cantad al Señor, bendecid su nombre, proclamad de día en día su salvación.
+Canten a Jehová, bendigan su nombre; anuncien de día en día su salvación.
 
 ### 96:3
 
-Decid entre las naciones su gloria, entre los pueblos sus maravillas.
+Cuenten en las naciones su gloria; en todos los pueblos sus maravillas.
 
 ### 96:4
 
-Porque grande es el Señor y muy digno de alabanza, temible sobre todos los dioses.
+Porque grande es Jehová y muy alabado; temible es él sobre todos los dioses.
 
 ### 96:5
 
-Porque todos los dioses de las naciones son ídolos, pero el Señor hizo los cielos.
+Porque todos los dioses de los pueblos son ídolos; y Jehová los cielos hizo.
 
 ### 96:6
 
-Gloria y majestad están delante de él, poder y belleza en su santuario.
+Honor y majestad delante de él; fuerza y hermosura en su santuario.
 
 ### 96:7
 
-Presentad al Señor, familias de las naciones, presentad al Señor gloria y poder.
+Den a Jehová, familias de pueblos; den a Jehová gloria y fuerza.
 
 ### 96:8
 
-Presentad al Señor la gloria de su nombre, traed ofrendas y venid a sus cortes.
+Den a Jehová la gloria de su nombre; traigan ofrenda y vengan a sus atrios.
 
 ### 96:9
 
-Adorad al Señor en la hermosura de santidad, temedle, toda la tierra.
+Postrense a Jehová en el esplendor de santidad; tiemblen de delante de él toda la tierra.
 
 ### 96:10
 
-Decid entre las naciones: El Señor es rey, el mundo está establecido, no será movido, juzgará a las naciones con justicia.
+Digan en las naciones: Jehová reinó; también se afirma el mundo, no se moverá; juzgará pueblos en rectitudes.
 
 ### 96:11
 
-Se regocijen los cielos y alegrémonos la tierra, ruga el mar y cuanto lo contiene.
+Alégrense los cielos y regocíjese la tierra; truene el mar y su plenitud.
 
 ### 96:12
 
-Se regocije la campiña, y cuanto en ella hay, entonces se regocien todos los árboles del bosque.
+Regocíjese el campo y todo lo que en él; entonces cantarán todos los árboles del bosque
 
 ### 96:13
 
-Ante Jehová, porque él viene, porque viene a juzgar la tierra, juzgará al mundo con justicia, y a los pueblos con rectitud.
+delante de Jehová, porque viene, porque viene a juzgar la tierra; juzgará el mundo en justicia, y pueblos en su fidelidad.
 
 ## Capítulo 97
 
+
 ### 97:1
 
-Jehová reina, se regocije la tierra, se regocijen muchos isles.
+Jehová reinó; regocíjese la tierra; alégrense islas muchas.
 
 ### 97:2
 
-En torno a él nube y oscuridad, justicia y juicio son el fundamento de su trono.
+Nube y densas tinieblas alrededor de él; justicia y juicio son base de su trono.
 
 ### 97:3
 
-Delante de él marcha fuego, y se enciende alrededor de sus enemigos.
+Fuego delante de él anda, y abrasa alrededor a sus adversarios.
 
 ### 97:4
 
-Sus relámpagos iluminan la tierra, la ve y se estremece.
+Iluminaron sus relámpagos el mundo; vio y tembló la tierra.
 
 ### 97:5
 
-Los montes se derriten como cera delante de Jehová, delante del Señor de toda la tierra.
+Montes como cera se derritieron de delante de Jehová, de delante de Adón de toda la tierra.
 
 ### 97:6
 
-Anuncien los cielos su justicia, y vean todos los pueblos su gloria.
+Anunciaron los cielos su justicia, y vieron todos los pueblos su gloria.
 
 ### 97:7
 
-Se avergüencen todos los que sirven a la estatua, los que se glorían en las vanidades, se postran ante él todos los dioses.
+Sean avergonzados todos los siervos de imagen tallada, los que se glorían en los ídolos; póstrense a él todos los dioses.
 
 ### 97:8
 
-Oye y se regocija Sión, se alegran las hijas de Judá, por tus juicios, Jehová.
+Oyó y se alegró Tsiyón, y se regocijaron las hijas de Yehudá, por causa de tus juicios, Jehová.
 
 ### 97:9
 
-Porque tú, Jehová, eres el Altísimo sobre toda la tierra, muy exaltado sobre todos los dioses.
+Porque tú, Jehová, eres Altísimo sobre toda la tierra; muy te alzaste sobre todos los dioses.
 
 ### 97:10
 
-Amaréis al Señor, aborreceréis el mal, guardáis las almas de vuestros fieles, los libráis de la mano de los malvados.
+Amadores de Jehová, aborrezcan el mal; guarda las almas de sus misericordiosos; de mano de impíos los libra.
 
 ### 97:11
 
-La luz es sembrada para el justo, y la alegría para los rectos de corazón.
+Luz sembrada al justo, y a los rectos de corazón alegría.
 
 ### 97:12
 
-Alegraos, justos, en el Señor, y dad gracias al recuerdo de su santidad.
+Alégrense los justos en Jehová, y den gracias a memorial de su santidad.
 
 ## Capítulo 98
 
+
 ### 98:1
 
-Cántico. Cantad al Señor un nuevo cántico, porque ha hecho maravillas. Su mano derecha y su brazo santo lo han salvado.
+Salmo. Canten a Jehová cántico nuevo, porque maravillas hizo; le salvó su diestra y el brazo de su santidad.
 
 ### 98:2
 
-Ha dado a conocer al Señor su salvación, ha revelado su justicia a las naciones.
+Dio a conocer Jehová su salvación; a ojos de las naciones descubrió su justicia.
 
 ### 98:3
 
-Ha recordado su misericordia y su fidelidad para con la casa de Israel. Todas las extremidades de la tierra han visto la salvación de nuestro Dios.
+Recordó su misericordia y su fidelidad a la casa de Israel; vieron todos los extremos de la tierra la salvación de nuestro Dios.
 
 ### 98:4
 
-Soplad para el Señor, toda la tierra. Alegraos y regocijaos, y cantad.
+Griten a Jehová toda la tierra; prorrumpan y canten y salmodien.
 
 ### 98:5
 
-Cantad al Señor con la cítara, con la cítara y con el sonido de la música.
+Salmodien a Jehová con cítara; con cítara y voz de cántico.
 
 ### 98:6
 
-Con trompetas y sonido de cuerno, soplad ante el rey, el Señor.
+Con trompetas y voz de shofar, griten delante del rey Jehová.
 
 ### 98:7
 
-Gritará el mar y todo lo que lo llena, la tierra y los que en ella habitan.
+Truene el mar y su plenitud; el mundo y los que habitan en él.
 
 ### 98:8
 
-Los ríos aplaudirán, juntos los montes cantarán.
+Ríos aplaudan palma; juntos montes canten
 
 ### 98:9
 
-Ante el Señor, porque viene para juzgar la tierra. Juzgará el mundo con justicia, y a los pueblos con rectitud.
+delante de Jehová, porque viene a juzgar la tierra; juzgará el mundo en justicia, y pueblos en rectitudes.
 
 ## Capítulo 99
 
+
 ### 99:1
 
-El Señor reina; tiemblen las naciones. El que habita entre los querubines; tiemble la tierra.
+Jehová reinó; tiemblen pueblos; sentado de los keruvim, tiemble la tierra.
 
 ### 99:2
 
-El Señor es grande en Sion y es exaltado sobre todas las naciones.
+Jehová en Tsiyón es grande, y alto es él sobre todos los pueblos.
 
 ### 99:3
 
-Glorifiquen su nombre, es grande y temible; es santo.
+Den gracias a tu nombre grande y temible; santo es él.
 
 ### 99:4
 
-Y al rey ama el juicio; erigió a los rectos. Juicio y justicia ha hecho en Jacob.
+Y fuerza de rey juicio ama; tú afirmaste rectitudes; juicio y justicia en Yaakov tú hiciste.
 
 ### 99:5
 
-Alabad al Señor nuestro Dios y postraos ante sus pies, porque es santo.
+Ensalcen a Jehová nuestro Dios, y póstrense al estrado de sus pies; santo es él.
 
 ### 99:6
 
-Mosiés y Aarón entre sus sacerdotes y Samuel que invocaba su nombre, invocaban al Señor y él les respondía.
+Moisés y Aarón entre sus sacerdotes, y Shemuel entre los que llaman su nombre; llamaban a Jehová, y él les respondía.
 
 ### 99:7
 
-En la columna de nube les hablaba, guardaron sus testimonios y ley les dio.
+En columna de nube hablaba a ellos; guardaron sus testimonios y el estatuto que les dio.
 
 ### 99:8
 
-El Señor nuestro Dios, tú le respondiste; Dios portador, tú fuiste para ellos; castigador, tú fuiste por sus iniquidades.
+Jehová nuestro Dios, tú les respondiste; Dios perdonador fuiste a ellos, y vengador sobre sus hechos.
 
 ### 99:9
 
-Alabad al Señor nuestro Dios y postraos ante su monte santo, porque es santo el Señor nuestro Dios.
+Ensalcen a Jehová nuestro Dios, y póstrense a monte de su santidad; porque santo es Jehová nuestro Dios.
 
 ## Capítulo 100
 
+
 ### 100:1
 
-Salmo de alabanza. Alaben al Señor todos los confines de la tierra.
+Salmo para acción de gracias. Griten a Jehová toda la tierra.
 
 ### 100:2
 
-Sirvan al Señor con alegría; entren ante él con cantos.
+Sirvan a Jehová con alegría; vengan delante de él con canto.
 
 ### 100:3
 
-Saben que el Señor es Dios; él nos hizo y no nosotros; su pueblo somos y sus ovejas.
+Sepan que Jehová, él es Dios; él nos hizo, y nosotros su pueblo y ovejas de su pastoreo.
 
 ### 100:4
 
-Entrad en sus puertas con acción de gracias; en sus atrios con alabanza. Alabadle por su nombre; dadle gracias.
+Entren sus puertas con acción de gracias, sus atrios con alabanza; denle gracias, bendigan su nombre.
 
 ### 100:5
 
-Porque es bueno el SEÑOR para siempre; su fidelidad llega hasta la eternidad.
+Porque bueno es Jehová; para siempre su misericordia, y hasta generación y generación su fidelidad.
 
 ## Capítulo 101
 
+
 ### 101:1
 
-Para David. Salmo: Cantaré de la misericordia y del juicio a ti, SEÑOR; yo cantaré.
+De David. Salmo. Misericordia y juicio cantaré; a ti, Jehová, salmodiaré.
 
 ### 101:2
 
-Haré caminar mis pasos en la senda de la integridad, cuándo vendrás a mí? Caminaré con rectitud de corazón en medio de mi casa.
+Atenderé al camino íntegro; ¿cuándo vendrás a mí? Andaré en integridad de mi corazón en medio de mi casa.
 
 ### 101:3
 
-No pondré cosa inútil delante de mis ojos; odio a los que hacen cosas torcidas; no se me pegarán.
+No pondré delante de mis ojos cosa de beliyaal; hacer de desviados aborrecí; no se pegará a mí.
 
 ### 101:4
 
-El corazón torcido se apartará de mí; la maldad no conoceré.
+Corazón torcido se apartará de mí; mal no conoceré.
 
 ### 101:5
 
-No me mezclaré con los que tienen doblez de corazón; sus ojos son altivos y su corazón es amplio. A ellos no los comeré.
+Al que en secreto calumnia a su prójimo, a él destruiré; altivo de ojos y ancho de corazón, a él no podré.
 
 ### 101:6
 
-Mis ojos estarán en los fieles de la tierra para que habiten conmigo; el que anda en la senda de la integridad me servirá.
+Mis ojos en los fieles de la tierra, para que habiten conmigo; el que anda en camino íntegro, él me servirá.
 
 ### 101:7
 
-No se sentará en medio de mi casa quien hace engaños; no hablará mentiras. No se establecerá delante de mis ojos.
+No se asentará en medio de mi casa hacedor de engaño; hablador de mentiras no se afirmará delante de mis ojos.
 
 ### 101:8
 
-A los que hacen el mal castigaré a todos; de la ciudad del SEÑOR haré salir a todos los que hacen iniquidad.
+Por las mañanas destruiré todos los impíos de la tierra, para cortar de la ciudad de Jehová todos los hacedores de iniquidad.
 
 ## Capítulo 102
 
+
 ### 102:1
 
-Oración del afligido, cuando se postra y derrama su queja ante el SEÑOR. Oye, SEÑOR, mi oración; a ti vendrá mi clamor.
+Oración al afligido cuando desmaya, y delante de Jehová derrama su queja. Jehová, oye mi oración, y mi clamor a ti venga.
 
 ### 102:2
 
-No te ocultes de mí en el día de mi angustia; inclina a mí tu oído en el día que te llamo; prontamente responde a mí.
+No escondas tu rostro de mí en el día de angustia para mí; inclina a mí tu oído; en el día que clamo, pronto respóndeme.
 
 ### 102:3
 
-Porque se consumieron mis días con humo, y mis huesos se secaron como un pedazo de tierra quemada.
+Porque se consumieron en humo mis días, y mis huesos como hogar ardieron.
 
 ### 102:4
 
-Me golpearon como hierba y mi corazón se secó, porque olvidé comer pan.
+Herido como hierba y se secó mi corazón, porque olvidé de comer mi pan.
 
 ### 102:5
 
-Por el sonido de mi gemido, se adherieron mis huesos a mi carne.
+De la voz de mi gemido se pegó mi hueso a mi carne.
 
 ### 102:6
 
-Me parecía un búho en el desierto; estaba como un cáliz entre las ruinas.
+Me asemejé a pelícano de desierto; fui como búho de ruinas.
 
 ### 102:7
 
-Desperté y estaba como un pájaro solitario sobre el tejado.
+Velé y fui como pájaro solitario sobre tejado.
 
 ### 102:8
 
-Todo el día me insultan mis enemigos, me menosprecian y juran contra mí.
+Todo el día me afrentaron mis enemigos; los que me enloquecen contra mí juraron.
 
 ### 102:9
 
-Porque he comido cenizas como pan y he mezclado mis lágrimas con vino.
+Porque ceniza como pan comí, y mi bebida con llanto mezclé
 
 ### 102:10
 
-Por tu ira y tu furor me levantaste y me echaste.
+de delante de tu indignación y tu furor; porque me alzaste y me arrojaste.
 
 ### 102:11
 
-Mis días son como la sombra que se dobla, y yo soy como hierba seca.
+Mis días como sombra inclinada, y yo como hierba me seco.
 
 ### 102:12
 
-Pero tú, SEÑOR, te sientas para siempre, y tu memoria de generación en generación.
+Y tú, Jehová, para siempre te asientas, y tu memorial a generación y generación.
 
 ### 102:13
 
-Tú te levantarás y tendrás misericordia de Sion, porque ha llegado el tiempo de mostrarle favor, porque ha llegado el día prometido.
+Tú te levantarás, tendrás misericordia de Tsiyón; porque es tiempo de apiadarla, porque vino el plazo.
 
 ### 102:14
 
-Porque tus siervos desearon las piedras de su templo y se consolaron con su polvo.
+Porque agradaron a tus siervos sus piedras, y a su polvo se apiadan.
 
 ### 102:15
 
-Y se asombrarán las naciones del nombre de Jehová, y todos los reyes de la tierra de su gloria.
+Y temerán las naciones el nombre de Jehová, y todos los reyes de la tierra tu gloria.
 
 ### 102:16
 
-Porque Jehová ha edificado a Sion, y se ha manifestado en su gloria.
+Porque edificó Jehová Tsiyón; fue visto en su gloria.
 
 ### 102:17
 
-Se ha inclinado hacia la oración del encarcelado, y no ha despreciado su súplica.
+Se volvió a la oración del despojado, y no despreció su oración.
 
 ### 102:18
 
-Se escribirá esto para la generación venidera, y un pueblo que aún no ha nacido lo alabará.
+Se escribirá esto para generación posterior, y pueblo creado alabará a Yah.
 
 ### 102:19
 
-Porque ha mirado desde su santo cielo, Jehová desde los cielos ha visto la tierra.
+Porque miró desde la altura de su santidad; Jehová desde los cielos a la tierra miró,
 
 ### 102:20
 
-Para escuchar el grito del cautivo, para liberar a los que mueren.
+para oír el gemido de prisionero, para soltar a los hijos de muerte;
 
 ### 102:21
 
-Para contar en Sion el nombre de Jehová, y su alabanza en Jerusalén.
+para contar en Tsiyón el nombre de Jehová, y su alabanza en Yerushaláyim,
 
 ### 102:22
 
-Cuando se reúnan los pueblos juntos, y las naciones para servir a Jehová.
+al reunirse pueblos juntos, y reinos para servir a Jehová.
 
 ### 102:23
 
-En el camino de mi fuerza me afligí, y he acortado mis días.
+Afligió en el camino; acortó mis días.
 
 ### 102:24
 
-Dijiste: No me extiendas hasta el término de mis días, hasta los siglos de tu vida.
+Digo: Dios mío, no me subas a la mitad de mis días; en generación de generaciones están tus años.
 
 ### 102:25
 
-Antes que existiera la tierra, tú la fundaste, y los cielos son obra de tus manos.
+De antemano la tierra fundaste, y obra de tus manos los cielos.
 
 ### 102:26
 
-Ellos perecerán, pero tú permanecerás; y todos ellos se consumirán como un vestido, y como un manto los cambiarás, y ellos serán cambiados.
+Ellos perecerán, y tú permanecerás; y todos ellos como vestido se envejecerán; como ropa los mudarás y serán mudados.
 
 ### 102:27
 
-Tú eres el mismo, y tus años no tienen fin.
+Y tú eres el mismo, y tus años no se acabarán.
 
 ### 102:28
 
-Sus hijos habitarán, y su descendencia estará delante de ti.
+Hijos de tus siervos habitarán, y su simiente delante de ti será afirmada.
 
 ## Capítulo 103
 
+
 ### 103:1
 
-Para David: Bendice, alma mía, al Señor, y toda mi ser, al nombre santo de él.
+De David. Bendice, alma mía, a Jehová, y todo mi interior al nombre de su santidad.
 
 ### 103:2
 
-Bendice, alma mía, al Señor, y no olvides ninguno de sus beneficios.
+Bendice, alma mía, a Jehová, y no olvides todas sus retribuciones;
 
 ### 103:3
 
-El que perdona toda tu iniquidad, el que sana todas tus enfermedades.
+el que perdona a todas tus iniquidades, el que sana a todas tus enfermedades;
 
 ### 103:4
 
-El que redime tu vida de la destrucción, el que te corona de misericordia y bondad.
+el que redime de la fosa tu vida, el que te corona de misericordia y compasiones;
 
 ### 103:5
 
-El que satisface tu deseo con bienes, te renueva como águila tus años.
+el que sacia de bien tu ornato; se renueva como el águila tu juventud.
 
 ### 103:6
 
-El que hace justicia al Señor, y sus juicios a todos los oprimidos.
+Hacedor de justicias es Jehová, y juicios a todos los oprimidos.
 
 ### 103:7
 
-El que hace conocer sus caminos a Moisés, sus actos a los hijos de Israel.
+Dio a conocer sus caminos a Moisés, a los hijos de Israel sus hechos.
 
 ### 103:8
 
-Dulce y misericordioso es el Señor, lento para la ira y lleno de gracia.
+Compasivo y clemente es Jehová, lento de ira y grande de misericordia.
 
 ### 103:9
 
-No retiene su ira para siempre, ni guarda eternamente su enojo.
+No para siempre contenderá, y no para siempre guardará rencor.
 
 ### 103:10
 
-No trata con nosotros según nuestros pecados, ni nos retribuye según nuestras iniquidades.
+No conforme a nuestros pecados hizo con nosotros, y no conforme a nuestras iniquidades retribuyó sobre nosotros.
 
 ### 103:11
 
-Porque tanto como el cielo está lejos de la tierra, tanto excede su misericordia a los que le temen.
+Porque como altos son los cielos sobre la tierra, prevaleció su misericordia sobre sus temerosos.
 
 ### 103:12
 
-Tan lejos como el oriente del occidente, apartó de nosotros nuestras transgresiones.
+Como lejos está el oriente del occidente, alejó de nosotros nuestras rebeliones.
 
 ### 103:13
 
-Como un padre se compadece de sus hijos, así se compadece el SEÑOR de los que le temen.
+Como se apiada un padre sobre hijos, se apiadó Jehová sobre sus temerosos.
 
 ### 103:14
 
-Porque él conoce nuestra formación; él recordó que somos polvo.
+Porque él conoce nuestra formación; acordado de que polvo somos nosotros.
 
 ### 103:15
 
-El hombre es como la hierba; como la flor del campo, así pasa.
+Hombre, como hierba son sus días; como flor del campo, así florece.
 
 ### 103:16
 
-Porque pasa como el viento, y no está; ni su lugar lo conoce más.
+Porque viento pasó por él y no es; y no lo reconoce más su lugar.
 
 ### 103:17
 
-Y su misericordia se prolonga a los que le temen de generación en generación; y su fidelidad a los hijos de sus hijos.
+Y la misericordia de Jehová desde siempre y hasta siempre sobre sus temerosos, y su justicia a hijos de hijos,
 
 ### 103:18
 
-A los que guardan su pacto y a los que recuerdan sus mandamientos para cumplirlos.
+a guardadores de su pacto, y a recordadores de sus preceptos para hacerlos.
 
 ### 103:19
 
-El SEÑOR se ha establecido en los cielos; y su reino domina sobre toda la tierra.
+Jehová en los cielos afirmó su trono, y su reino en todo domina.
 
 ### 103:20
 
-Bendecid al SEÑOR, sus ángeles fuertes, que cumplen su palabra, que obedecen la voz de su mandato.
+Bendigan a Jehová sus ángeles, fuertes de fuerza, hacedores de su palabra, para oír en la voz de su palabra.
 
 ### 103:21
 
-Bendecid al SEÑOR, toda suerte de sus criados, que cumplen su voluntad.
+Bendigan a Jehová todos sus ejércitos, sus ministros hacedores de su voluntad.
 
 ### 103:22
 
-Bendecid al SEÑOR, toda obra suya en todos los lugares de su dominio. Bendice tú, alma mía, al SEÑOR.
+Bendigan a Jehová todas sus obras, en todos los lugares de su dominio. Bendice, alma mía, a Jehová.
 
 ## Capítulo 104
 
+
 ### 104:1
 
-Bendice, alma mía, al SEÑOR, SEÑOR, Dios mío, has magnificado tu gloria, has vestido de majestad.
+Bendice, alma mía, a Jehová; Jehová Dios mío, te engrandeciste mucho; majestad y esplendor te vestiste.
 
 ### 104:2
 
-Teje la luz como un manto, extiendes los cielos como una tienda.
+Cubriendo luz como el manto, extendiendo cielos como la cortina.
 
 ### 104:3
 
-Fijas las nubes sobre las aguas, haces que los vapores sean carros para ti, que caminas sobre las alas del viento.
+El que pone con las aguas sus aposentos altos, el que pone las nubes su carro, el que anda sobre alas de viento.
 
 ### 104:4
 
-Haces tus mensajeros los espíritus, tus siervos, el fuego que arde.
+Haciendo sus mensajeros vientos, sus ministros fuego llameante.
 
 ### 104:5
 
-Fundaste la tierra sobre sus cimientos, que no se muevan para siempre y para siempre.
+Fundó la tierra sobre sus bases; no se moverá por siempre y eternamente.
 
 ### 104:6
 
-El abismo está vestido como un traje, sobre los montes se levantan las aguas.
+Abismo como el vestido lo cubriste; sobre los montes se paraban las aguas.
 
 ### 104:7
 
-Al rugir de ti huyen, al sonido de tu trueno se apresuran.
+De tu reprensión huyen; de la voz de tu trueno se apresuran.
 
 ### 104:8
 
-Suben los montes, bajan los valles, a este lugar has fijado para ellos.
+Suben montes, bajan valles, al lugar este que fundaste para ellos.
 
 ### 104:9
 
-Has puesto un límite para que no pasen, no vuelvan a cubrir la tierra.
+Límite pusiste; no pasarán; no volverán a cubrir la tierra.
 
 ### 104:10
 
-Envías fuentes en los valles, entre las montañas corren.
+El que envía manantiales en los torrentes; entre montes andan.
 
 ### 104:11
 
-Riegan todas las bestias del campo, los animales salvajes sacian su sed.
+Abrevan a toda bestia del campo; quebrantan onagros su sed.
 
 ### 104:12
 
-Sobre ellos los pájaros del cielo hacen su nido, desde entre los ramos dan su voz.
+Sobre ellos ave de los cielos mora; de entre las ramas dan voz.
 
 ### 104:13
 
-Rega los montes de las aguas, y la tierra sacia su sed con tus frutos.
+Regando montes desde sus aposentos altos; del fruto de tus obras se sacia la tierra.
 
 ### 104:14
 
-Haz crecer hierba para el ganado y plantas para el trabajo del hombre, para que de la tierra salga pan.
+Haciendo brotar hierba para la bestia, y verdura para el servicio del hombre, para sacar pan de la tierra,
 
 ### 104:15
 
-Y el vino alegra el corazón del hombre, y el aceite hace brillar la cara, y el pan fortalece el corazón del hombre.
+y vino que alegra el corazón de hombre, para hacer brillar faces desde aceite, y pan el corazón de hombre sostiene.
 
 ### 104:16
 
-Se satisfacen los árboles de Jehová, los cedros de Líbano que él plantó.
+Se sacian los árboles de Jehová, cedros del Lebanón que plantó,
 
 ### 104:17
 
-Allí anidan las aves, la cigüeña en los pinos, su casa.
+donde allí aves anidan; cigüeña, cipreses su casa.
 
 ### 104:18
 
-Los montes altos para los rebecos, las rocas refugio para las cabras.
+Montes los altos para los íbices; peñascos refugio para los damanes.
 
 ### 104:19
 
-Hizo la luna para las estaciones, el sol conoce su salida.
+Hizo la luna para tiempos señalados; el sol conoce su entrada.
 
 ### 104:20
 
-Pones la oscuridad, y es noche, en ella se mueven todas las bestias del bosque.
+Pones oscuridad y es noche; en él se mueve toda bestia del bosque.
 
 ### 104:21
 
-Los leones rugen por la presa, y buscan de Dios su alimento.
+Los leoncillos rugiendo por la presa, y para buscar de Dios su comida.
 
 ### 104:22
 
-Cuando sale el sol, se recogen, y a sus cuevas se retiran.
+Sale el sol, se recogen, y a sus guaridas se echan.
 
 ### 104:23
 
-Sale el hombre a su trabajo, a su labor hasta la tarde.
+Sale el hombre a su trabajo y a su servicio hasta tarde.
 
 ### 104:24
 
-¡Cuántas son tus obras, Jehová! Tú las hiciste con sabiduría; la tierra está llena de tus bienes.
+¡Cuán se multiplicaron tus obras, Jehová! Todas ellas en sabiduría hiciste; llena está la tierra de tus posesiones.
 
 ### 104:25
 
-Este es el mar grande y amplio; allí hay serpientes sin número, criaturas pequeñas con grandes.
+Este es el mar grande y ancho de manos; allí reptil y no hay número, animales pequeños con grandes.
 
 ### 104:26
 
-Allí navegan los barcos; allí se divierte el gran leviatán, que tú hiciste para divertirte.
+Allí naves andan; Livyatán este formaste para jugar en él.
 
 ### 104:27
 
-Todos a ti se dirigen para que les des de comer en su tiempo.
+Todos ellos a ti esperan, para dar su comida en su tiempo.
 
 ### 104:28
 
-Les das, y ellos recogen; abres tu mano, y se sacian con lo bueno.
+Das a ellos, recogen; abres tu mano, se sacian de bien.
 
 ### 104:29
 
-Si te ocultas, se asustan; vuelves a soplar su espíritu, y mueren y vuelven a su polvo.
+Escondes tu rostro, se turban; recoges su espíritu, expiran, y a su polvo vuelven.
 
 ### 104:30
 
-Envías tu espíritu, y se crean; así renovas la faz de la tierra.
+Envías tu espíritu, son creados, y renuevas la faz del suelo.
 
 ### 104:31
 
-Que sea la gloria del Señor por siempre; que se regocije el Señor en sus obras.
+Sea la gloria de Jehová para siempre; se alegre Jehová en sus obras.
 
 ### 104:32
 
-Mira a la tierra, y tiembla; toca a los montes, y humilla.
+El que mira a la tierra y ella tiembla; toca en los montes y humean.
 
 ### 104:33
 
-Cantaré al Señor en mi vida; alabaré a mi Dios mientras exista.
+Cantaré a Jehová en mi vida; salmodiaré a mi Dios en mi aún.
 
 ### 104:34
 
-Que mi alabanza se mezcle con ellos; yo me regocijaré en el Señor.
+Sea dulce sobre él mi meditación; yo me alegraré en Jehová.
 
 ### 104:35
 
-Que desaparezcan los pecadores de la tierra, y que no sean más los malvados. Bendice al Señor, oh mi alma; alabad, oh siervos de Jehová.
+Se acaben pecadores de la tierra, y malvados aún no son; bendice, alma mía, a Jehová. ¡Alaben a Yah!
 
 ## Capítulo 105
 
+
 ### 105:1
 
-Alabad al Señor, invocadle por su nombre; dad a conocer entre las naciones sus maravillas.
+Den gracias a Jehová, invoquen en su nombre, hagan saber en los pueblos sus hazañas.
 
 ### 105:2
 
-Cantadle, dadle gracias, cantadle, tocadle con instrumentos, alabad todas sus maravillas.
+Canten a él, salmodien a él, mediten en todas sus maravillas.
 
 ### 105:3
 
-Alabadlo en su santo nombre; que se regocije el corazón de los que buscan al Señor.
+Gloríense en el nombre de su santidad; se alegre el corazón de los que buscan a Jehová.
 
 ### 105:4
 
-Buscad al Señor y a su fuerza; buscadle siempre.
+Inquieran a Jehová y su fuerza; busquen su rostro continuamente.
 
 ### 105:5
 
-Acuérdate de sus maravillas, de sus prodigios y de sus juicios.
+Acuérdense de sus maravillas que hizo, sus prodigios y juicios de su boca,
 
 ### 105:6
 
-Semen de Abraham, su siervo; hijos de Jacob, sus elegidos.
+semilla de Abraham su siervo, hijos de Yaakov sus escogidos.
 
 ### 105:7
 
-Él es el Señor, nuestro Dios, en toda la tierra, su juicio.
+Él es Jehová nuestro Dios; en toda la tierra sus juicios.
 
 ### 105:8
 
-Acordóse para siempre de su pacto, de la palabra que mandó por mil generaciones.
+Recordó para siempre su pacto, palabra que mandó a mil generación,
 
 ### 105:9
 
-Que hizo con Abraham, y su juramento a Isaac.
+que cortó con Abraham, y su juramento a Yitsjaq;
 
 ### 105:10
 
-Y estableciólo para Jacob por estatuto, y para Israel por pacto eterno.
+y la afirmó a Yaakov por estatuto, a Israel pacto de siempre,
 
 ### 105:11
 
-Diciendo: A ti te daré la tierra de Canaán por heredad.
+diciendo: A ti daré tierra de Canaán, cordel de la heredad de ustedes;
 
 ### 105:12
 
-Cuando eran pocos en número, extranjeros en ella.
+en ser ellos hombres de número, como pocos, y forasteros en ella.
 
 ### 105:13
 
-Y anduvieron de nación en nación, de reino en pueblo.
+Y anduvieron de nación a nación, de reino a pueblo otro.
 
 ### 105:14
 
-No permitió que nadie los oprimiera y reprendió a sus enemigos por su causa.
+No permitió a hombre oprimirlos, y reprendió por ellos a reyes:
 
 ### 105:15
 
-No toquen a mi ungido, ni a mis profetas hagan daño.
+No toquen a mis ungidos, y a mis profetas no hagan mal.
 
 ### 105:16
 
-Llamó a una hambruna sobre la tierra; destruyó toda fuente de alimento.
+Y llamó hambre sobre la tierra; todo bastón de pan quebró.
 
 ### 105:17
 
-Envió delante de ellos a un hombre; vendieron a José como esclavo.
+Envió delante de ellos a un hombre; por siervo fue vendido Yosef.
 
 ### 105:18
 
-Lastimaron sus pies con cadenas de hierro; su espíritu fue afligido.
+Afligieron con el grillete su pie; hierro entró su alma.
 
 ### 105:19
 
-Hasta que sus palabras se cumplieron, la palabra de Jehová lo probó.
+Hasta el tiempo de venir su palabra; el dicho de Jehová lo acrisoló.
 
 ### 105:20
 
-Envió a un rey que lo liberó; lo hizo gobernador de naciones y príncipe de reyes.
+Envió rey y lo soltó; dominador de pueblos y lo abrió.
 
 ### 105:21
 
-Lo hizo señor de su casa y administrador de todos sus bienes.
+Lo puso señor de su casa, y dominador en toda su posesión,
 
 ### 105:22
 
-Lo hizo responsable de sus príncipes y de sus ancianos lo hizo consejero.
+para atar a sus príncipes en su alma, y a sus ancianos hace sabios.
 
 ### 105:23
 
-Y vino Israel a Egipto; Jacob habitó en la tierra de Cam.
+Y vino Israel a Mizraim; y Yaakov forasteró en tierra de Cam.
 
 ### 105:24
 
-Multiplicó su pueblo mucho y lo hizo más fuerte que sus enemigos.
+Y fecundó a su pueblo mucho, y lo fortaleció más que sus opresores.
 
 ### 105:25
 
-Volvió sus corazones para odiar a su pueblo y para tratar a sus siervos con crueldad.
+Volvió su corazón a odiar a su pueblo, a engañar en sus siervos.
 
 ### 105:26
 
-Mandó Moisés a su siervo Aarón, al que había elegido.
+Envió a Moisés su siervo, Aarón a quien eligió en él.
 
 ### 105:27
 
-Puso entre ellos sus palabras de señales y milagros en la tierra de Ham.
+Pusieron en ellos palabras de sus señales, y prodigios en tierra de Cam.
 
 ### 105:28
 
-Hizo venir la oscuridad y la oscuridad cubrió el país; y no se desviaron de sus palabras.
+Envió oscuridad y oscureció; y no se rebelaron contra su palabra.
 
 ### 105:29
 
-Transformó sus aguas en sangre, y mató a sus peces.
+Volvió sus aguas a sangre, y mató a su pez.
 
 ### 105:30
 
-Hizo que en su tierra se llenara de ranas, en las habitaciones de sus reyes.
+Hirvió su tierra ranas, en cámaras de sus reyes.
 
 ### 105:31
 
-Dijo, y vino langosta, y polilla en toda su frontera.
+Dijo, y vino enjambre; piojos en todo su límite.
 
 ### 105:32
 
-Dio lluvia de granizo, fuego en llamas en su tierra.
+Dio sus lluvias granizo, fuego de llamas en su tierra.
 
 ### 105:33
 
-Hirió a sus viñas y a sus higueras, y quebró el árbol de su frontera.
+E hirió su vid y su higuera, y quebró árbol de su límite.
 
 ### 105:34
 
-Dijo, y vino langosta, y polilla, y no había cuenta.
+Dijo, y vino langosta y pulgón, y no hay número;
 
 ### 105:35
 
-Y comió toda hierba de su tierra, y comió el fruto de su tierra.
+y comió toda hierba en su tierra, y comió fruto de su suelo.
 
 ### 105:36
 
-Y hirió a todo primogénito en su tierra, el primero de todos sus hijos.
+E hirió a todo primogénito en su tierra, principio de toda su fuerza.
 
 ### 105:37
 
-Y los sacó con plata y con oro, y no hubo entre sus tribus quien tropezara.
+Y los sacó con plata y oro, y no hay en sus tribus quien tropiece.
 
 ### 105:38
 
-Se alegró Egipto al verlos marchar, porque su temor cayó sobre ellos.
+Se alegró Mizraim en su salida, porque cayó su terror sobre ellos.
 
 ### 105:39
 
-Extendió el velo como nube y el fuego para iluminar la noche.
+Extendió nube por pantalla, y fuego para alumbrar de noche.
 
 ### 105:40
 
-Suplicó y lo trajo, y con maná sació a sus hambrientos.
+Pidió, y trajo codornices; y pan de cielos los sació.
 
 ### 105:41
 
-Abrió la roca y brotó agua; corrieron por el desierto como un río.
+Abrió peña y fluyeron aguas; anduvieron en las sequedades río.
 
 ### 105:42
 
-Porque acordóse de su palabra santa, de Abraham, su siervo.
+Porque recordó la palabra de su santidad, a Abraham su siervo.
 
 ### 105:43
 
-Y sacó a su pueblo con júbilo, a los elegidos de él con alabanza.
+Y sacó a su pueblo con gozo, con canto de júbilo a sus escogidos.
 
 ### 105:44
 
-Y dioles las tierras de los pueblos y el trabajo de los pueblos heredarán.
+Y dio a ellos tierras de naciones, y trabajo de pueblos heredarán,
 
 ### 105:45
 
-Para que guarden sus estatutos y sus leyes observen. Alabad al Señor.
+a causa de que guarden sus estatutos, y sus torot observen. ¡Alaben a Yah!
 
 ## Capítulo 106
 
+
 ### 106:1
 
-Alabad al Señor, dad gracias a Yahvé, porque es bueno; porque su misericordia dura por siempre.
+¡Alaben a Yah! Den gracias a Jehová porque es bueno, porque para siempre su misericordia.
 
 ### 106:2
 
-¿Quién anunciará las hazañas de Yahvé? ¿Quién hará oír todas sus alabanzas?
+¿Quién dirá las proezas de Jehová? ¿Hará oír toda su alabanza?
 
 ### 106:3
 
-Dichoso el que guarda el derecho, el que obra justicia en todo tiempo.
+Dichosos los guardadores de juicio, el hacedor de justicia en todo tiempo.
 
 ### 106:4
 
-Acuérdate de mí, Yahvé, en la bondad de tu pueblo; visitame en tu salvación.
+Acuérdate de mí, Jehová, en el favor de tu pueblo; visítame en tu salvación,
 
 ### 106:5
 
-Para ver la bondad de tus elegidos, para alegrarte con tu pueblo, para alabarte con tu heredad.
+para ver en el bien de tus escogidos, para alegrarme en la alegría de tu nación, para gloriarme con tu heredad.
 
 ### 106:6
 
-Nosotros pecamos, hicimos iniquidad, nos corrompimos.
+Pecamos con nuestros padres; torcimos, hicimos mal.
 
 ### 106:7
 
-Nuestros padres en Egipto no entendieron tus maravillas, no recordaron tus grandes misericordias, y se rebelaron en el mar Rojo.
+Nuestros padres en Mizraim no entendieron tus maravillas; no recordaron la muchedumbre de tus misericordias; y se rebelaron sobre mar, en Yam Suf.
 
 ### 106:8
 
-Pero él los libró por amor a su nombre, para manifestar su poder.
+Y los salvó por causa de su nombre, para hacer saber su proeza.
 
 ### 106:9
 
-Castigó el mar Rojo y lo hizo secar, y los llevó por el mar como por un desierto.
+Y reprendió a Yam Suf y se secó; y los condujo en los abismos como el desierto.
 
 ### 106:10
 
-Los libró de la mano del enemigo y los rescató de la mano del adversario.
+Y los salvó de mano de odiador, y los redimió de mano de enemigo.
 
 ### 106:11
 
-Los cubrieron las aguas que los oprimían, ninguno de ellos quedó.
+Y cubrieron aguas a sus opresores; uno de ellos no quedó.
 
 ### 106:12
 
-Pero creyeron en sus palabras y cantaron alabanzas a él.
+Y creyeron en sus palabras; cantaron su alabanza.
 
 ### 106:13
 
-Pronto olvidaron sus obras, no esperaron su consejo.
+Se apresuraron, olvidaron sus obras; no esperaron a su consejo.
 
 ### 106:14
 
-Tuvieron hambre en el desierto y pusieron a prueba a Dios.
+Y codiciaron codicia en el desierto, y probaron a El en el yermo.
 
 ### 106:15
 
-Dioles lo que pidieron, y envió la enfermedad en su alma.
+Y dio a ellos su petición, y envió consunción en su alma.
 
 ### 106:16
 
-Se envidiaron a Moisés en el campamento y a Aarón, santo de Jehová.
+Y envidiaron a Moisés en el campamento, a Aarón santo de Jehová.
 
 ### 106:17
 
-Abrió la tierra y la hizo tragar a Datán, y la cubrió a la congregación de Abirám.
+Abrió la tierra y tragó a Datán, y cubrió sobre la congregación de Abirám.
 
 ### 106:18
 
-Encendió fuego en su congregación, y la llama consumió a los rebeldes.
+Y ardió fuego en su congregación; llama quemó a malvados.
 
 ### 106:19
 
-Hicieron un becerro en Horeb y se postraron ante una imagen fundida.
+Hicieron becerro en Jorev, y se postraron a una fundición.
 
 ### 106:20
 
-Y cambiaron su gloria por la imagen de un buey que come hierba.
+Y cambiaron su gloria en figura de toro que come hierba.
 
 ### 106:21
 
-Olvidaron a Dios que los había salvado, que había hecho maravillas en Egipto.
+Olvidaron a El su salvador, hacedor de grandezas en Mizraim,
 
 ### 106:22
 
-Milagros en la tierra de Ham, terribles cosas en el mar Rojo.
+maravillas en tierra de Cam, terribles sobre Yam Suf.
 
 ### 106:23
 
-Y dijo que los destruiría, si Moisés, su elegido, no se había puesto delante de él en la brecha para desviar su ira de destruirlos.
+Y dijo para destruirlos, de no ser Moisés su escogido que se paró en la brecha delante de él, para hacer volver su furor de destruir.
 
 ### 106:24
 
-Se negaron en la tierra de gozo, no creyeron en sus palabras.
+Y menospreciaron en tierra de deseo; no creyeron a su palabra.
 
 ### 106:25
 
-Se quejaron en sus tiendas, no oyeron la voz de Jehová.
+Y murmuraron en sus tiendas; no oyeron en la voz de Jehová.
 
 ### 106:26
 
-Y levantó contra ellos su mano para derribarlos en el desierto.
+Y alzó su mano a ellos, para derribarlos en el desierto,
 
 ### 106:27
 
-Y para dispersar su semilla entre las naciones y sus despojos entre las tierras.
+y para derribar su semilla en las naciones, y para esparcirlos en las tierras.
 
 ### 106:28
 
-Y se unieron a Baal-Peor y comieron sacrificios de muertos.
+Y se unieron a Baal Peor, y comieron sacrificios de muertos.
 
 ### 106:29
 
-Y los enojaron con sus acciones, y la plaga los destruyó.
+Y provocaron con sus hechos; y brotó en ellos plaga.
 
 ### 106:30
 
-Y se puso Pínchas y oró, y la plaga cesó.
+Y se paró Pinjás y ejecutó juicio; y se detuvo la plaga.
 
 ### 106:31
 
-Y se le contó como justicia, por generación y generación, para siempre.
+Y le fue contado a él por justicia, a generación y generación hasta siempre.
 
 ### 106:32
 
-Y se enojaron con el agua de Meribá, y fue malo para Moisés por su causa.
+Y provocaron sobre aguas de Meribá, y fue mal a Moisés por causa de ellos,
 
 ### 106:33
 
-Porque los enfurecieron, y habló con sus labios.
+porque amargaron su espíritu, y habló precipitadamente con sus labios.
 
 ### 106:34
 
-No exterminaron a los pueblos, como había dicho Yahvé a ellos.
+No destruyeron a los pueblos que dijo Jehová a ellos,
 
 ### 106:35
 
-Y se mezclaron entre las naciones, y aprendieron sus acciones.
+y se mezclaron en las naciones y aprendieron sus obras,
 
 ### 106:36
 
-Y sirvieron a sus ídolos, y se convirtieron en una trampa para ellos.
+y sirvieron a sus ídolos, y fueron a ellos por lazo.
 
 ### 106:37
 
-Y sacrificaron a sus hijos y a sus hijas a los dioses.
+Y sacrificaron a sus hijos y a sus hijas a los demonios,
 
 ### 106:38
 
-Y derramaron sangre inocente, sangre de sus hijos y de sus hijas, que sacrificaron a los ídolos de Canaán, y la tierra se contaminó con la sangre.
+y derramaron sangre inocente, sangre de sus hijos y de sus hijas que sacrificaron a ídolos de Canaán; y fue contaminada la tierra en las sangres.
 
 ### 106:39
 
-Y se contaminaron con sus acciones, y se prostituyeron con sus acciones.
+Y se contaminaron en sus obras, y fornicaron en sus hechos.
 
 ### 106:40
 
-Y se enojó Yahvé con su pueblo, y aborreció su heredad.
+Y ardió la nariz de Jehová en su pueblo, y abominó a su heredad.
 
 ### 106:41
 
-Y los entregó en manos de las naciones, y en manos de sus enemigos los dominaron.
+Y los dio en mano de naciones, y dominaron en ellos sus odiadores.
 
 ### 106:42
 
-Y los oprimieron sus enemigos, y fueron humillados bajo sus manos.
+Y los oprimieron sus enemigos, y fueron humillados debajo de su mano.
 
 ### 106:43
 
-Muchas veces los libró, y ellos se rebelaron con sus consejos, y fueron humillados por sus pecados.
+Muchas veces los libraba; y ellos se rebelaban en su consejo, y se abatían en su iniquidad.
 
 ### 106:44
 
-Y al ver su angustia, oyó sus quejas.
+Y miró en la angustia a ellos, en su oír él su clamor.
 
 ### 106:45
 
-Y acordóse de su pacto, y tuvo misericordia de ellos conforme a la multitud de sus bondades.
+Y recordó a ellos su pacto, y se arrepintió según la muchedumbre de sus misericordias.
 
 ### 106:46
 
-Y les dio misericordia delante de todos los que los oprimían.
+Y dio a ellos a misericordias delante de todos sus cautivadores.
 
 ### 106:47
 
-Salvadnos, oh Jehová, nuestro Dios, y recogednos de entre las naciones para dar gracias al nombre de tu santidad, y para alabarte con tus alabanzas.
+Sálvanos, Jehová Dios nuestro, y reúnenos de las naciones, para dar gracias al nombre de tu santidad, para gloriarnos en tu alabanza.
 
 ### 106:48
 
-Bendito sea Jehová Dios de Israel, desde la eternidad hasta la eternidad. Y dirán todos los pueblos: Amén. Alabad a Jehová.
+Bendito sea Jehová Dios de Israel desde el siempre y hasta el siempre. Y diga todo el pueblo: Amén. ¡Alaben a Yah!
 
 ## Capítulo 107
 
+
 ### 107:1
 
-Dad gracias a Jehová, porque es bueno; porque su misericordia dura para siempre.
+Den gracias a Jehová, porque es bueno; porque para siempre su misericordia.
 
 ### 107:2
 
-Digan los que son redimidos por Jehová: Él nos ha redimido de la mano del enemigo.
+Digan los redimidos de Jehová, a quienes redimió de mano de adversario,
 
 ### 107:3
 
-De las regiones del oriente y del occidente, del norte y del sur, los ha recogido.
+y de las tierras los reunió, de oriente y de occidente, de norte y de mar.
 
 ### 107:4
 
-Erraron en el desierto de Asirión, no hallaron camino de ciudad habitada.
+Erraron en el desierto, en yermo de camino; ciudad de morada no hallaron.
 
 ### 107:5
 
-Hambrientos y sedientos, sus almas se desvanecieron en ellos.
+Hambrientos también sedientos, su alma en ellos se desmayaba.
 
 ### 107:6
 
-Gritaron a Yahvé en su angustia, y los libró de sus aflicciones.
+Y clamaron a Jehová en la angustia para ellos; de sus estrecheces los libró.
 
 ### 107:7
 
-Los guió por el camino recto para llegar a una ciudad habitada.
+Y los guió por camino recto, para ir a ciudad de morada.
 
 ### 107:8
 
-Alaben a Yahvé por su bondad y por sus maravillas para con los hijos de los hombres.
+Den gracias a Jehová por su misericordia, y sus maravillas a los hijos del hombre.
 
 ### 107:9
 
-Porque sació a los hambrientos y a los sedientos los llenó de bienes.
+Porque sació alma sedienta, y alma hambrienta llenó de bien.
 
 ### 107:10
 
-Los que habitan en tinieblas y en sombras de muerte, prisioneros del hambre y de cadenas.
+Moradores de tiniebla y de sombra de muerte, prisioneros de aflicción y de hierro,
 
 ### 107:11
 
-Porque desobedecieron las palabras de Dios y menospreciaron el consejo del Altísimo.
+porque se rebelaron contra dichos de El, y consejo del Altísimo menospreciaron.
 
 ### 107:12
 
-Entonces se humillaron por el trabajo de sus manos; cayeron, y no había quien los ayudara.
+Y abatió con trabajo su corazón; tropezaron, y no hubo ayudador.
 
 ### 107:13
 
-Gritaron a Yahvé en su angustia, y los salvó de sus aflicciones.
+Y clamaron a Jehová en la angustia para ellos; de sus estrecheces los salvó.
 
 ### 107:14
 
-Los sacó de las tinieblas y de las sombras de muerte, y les rompió las cadenas.
+Los sacó de tiniebla y de sombra de muerte, y sus coyundas rompió.
 
 ### 107:15
 
-Alaben a Yahvé por su bondad y por sus maravillas para con los hijos de los hombres.
+Den gracias a Jehová por su misericordia, y sus maravillas a los hijos del hombre.
 
 ### 107:16
 
-Porque rompió las puertas de bronce y cortó las barras de hierro.
+Porque quebrantó puertas de bronce, y barras de hierro cortó.
 
 ### 107:17
 
-Tontos por el camino de su rebelión y de sus pecados se afligen.
+Insensatos, por camino de su rebelión y por sus iniquidades, se afligen.
 
 ### 107:18
 
-Todo alimento les repugna, y llegan hasta las puertas de la muerte.
+Toda comida aborrece su alma, y llegaron hasta puertas de muerte.
 
 ### 107:19
 
-Gritan a Yahvé en su angustia, y él los salva de sus calamidades.
+Y clamaron a Jehová en la angustia para ellos; de sus estrecheces los salvó.
 
 ### 107:20
 
-Envía su palabra y los cura, y los libra de sus calamidades.
+Envía su palabra y los sana, y libra de sus destrucciones.
 
 ### 107:21
 
-Alaben a Yahvé por su bondad y por sus maravillas para con los hijos de los hombres.
+Den gracias a Jehová por su misericordia, y sus maravillas a los hijos del hombre.
 
 ### 107:22
 
-Ofrecen sacrificios de acción de gracias y cuentan sus maravillas con alabanza.
+Y ofrezcan sacrificios de acción de gracias, y cuenten sus obras con canto.
 
 ### 107:23
 
-Los que bajan al mar en barcos, que hacen su trabajo en aguas profundas.
+Los que bajan al mar en naves, hacedores de obra en aguas muchas,
 
 ### 107:24
 
-Ellos ven las obras de Yahvé y sus maravillas en las profundidades.
+ellos vieron las obras de Jehová, y sus maravillas en lo profundo.
 
 ### 107:25
 
-Dice: Se levanta un viento huracanado, que levanta las olas.
+Y dijo, y levantó viento de tempestad, y ella alzó sus olas.
 
 ### 107:26
 
-Suben al cielo, bajan a las profundidades; su alma se desmaya en la adversidad.
+Suben a los cielos, bajan a abismos; su alma por el mal se disuelve.
 
 ### 107:27
 
-Temblando y balanceándose como borrachos, y toda su sabiduría se pierde.
+Dan vueltas y se tambalean como el ebrio, y toda su sabiduría es tragada.
 
 ### 107:28
 
-Gritan a Yahvé en su angustia, y él los saca de sus calamidades.
+Y clamaron a Jehová en la angustia para ellos, y de sus estrecheces los sacó.
 
 ### 107:29
 
-Alza la tempestad en calma, y se humillan las olas.
+Hace la tempestad en calma, y callan sus olas.
 
 ### 107:30
 
-Se alegran porque se acallan, y los conduce a un lugar seguro.
+Y se alegraron porque se aquietaron, y los guió al puerto de su deseo.
 
 ### 107:31
 
-Dan gracias a Yahvé por su bondad y maravillan a los seres humanos con sus maravillas.
+Den gracias a Jehová por su misericordia, y sus maravillas a los hijos del hombre.
 
 ### 107:32
 
-Lo alaban en la asamblea del pueblo y lo bendicen en la reunión de ancianos.
+Y lo exalten en la asamblea de pueblo, y en asiento de ancianos lo alaben.
 
 ### 107:33
 
-Convierte los ríos en desierto y las fuentes de agua en tierra seca.
+Pone ríos en desierto, y salidas de aguas en sequedad;
 
 ### 107:34
 
-Tierra que produce frutos, pero se convierte en salobre por la maldad de sus habitantes.
+tierra de fruto en salina, por la maldad de los que moran en ella.
 
 ### 107:35
 
-Convierte el desierto en charcas de agua y la tierra seca en fuentes de agua.
+Pone desierto en estanque de aguas, y tierra seca en salidas de aguas.
 
 ### 107:36
 
-Allí se asientan los hambrientos y fundan una ciudad.
+Y hace habitar allí a hambrientos, y establecen ciudad de morada.
 
 ### 107:37
 
-Siembran campos y plantan viñas, y obtienen una cosecha abundante.
+Y siembran campos y plantan viñas, y hacen fruto de cosecha.
 
 ### 107:38
 
-Los bendice y se multiplican en gran número, y sus animales no disminuyen.
+Y los bendice, y se multiplican mucho, y su ganado no mengua.
 
 ### 107:39
 
-Se reducen y se desvanecen por la opresión y el dolor.
+Y son disminuidos y abatidos por opresión de mal y de dolor.
 
 ### 107:40
 
-Vierte desprecio sobre los nobles y los hace errar por un camino sin salida.
+Derrama menosprecio sobre nobles, y los hace errar en vacío sin camino.
 
 ### 107:41
 
-Enseña al humilde a ser rico y multiplica como ovejas a sus familias.
+Y levanta al necesitado de la aflicción, y pone como rebaño familias.
 
 ### 107:42
 
-Ven los justos y se alegran; y todos los malvados callan.
+Ven los rectos y se alegran, y toda iniquidad cierra su boca.
 
 ### 107:43
 
-¿Quién es sabio y guardará esto? Que los que entiendan consideren las bondades de Jehová.
+¿Quién es sabio y guarde estas cosas, y entiendan las misericordias de Jehová?
 
 ## Capítulo 108
 
+
 ### 108:1
 
-Salmo de David. Mi corazón está firme, oh Dios; cantaré y alabaré, y mi gloria también.
+Cántico; salmo de David. Firme está mi corazón, Dios; cantaré y salmearé, también mi gloria.
 
 ### 108:2
 
-Despierta, arpa, y cítara; al alba tocaré.
+Despierta, oh arpa y lira; despertaré el alba.
 
 ### 108:3
 
-Te alabaré entre las naciones, oh Jehová; y te cantaré entre los pueblos.
+Te daré gracias entre los pueblos, Jehová, y te salmearé entre las naciones.
 
 ### 108:4
 
-Porque tu misericordia es mayor que los cielos, y tu verdad hasta los cielos.
+Porque grande sobre los cielos es tu misericordia, y hasta las nubes tu verdad.
 
 ### 108:5
 
-Eleva tu majestad sobre los cielos, oh Dios, y tu gloria sobre toda la tierra.
+Ensalzado seas sobre los cielos, Dios, y sobre toda la tierra tu gloria.
 
 ### 108:6
 
-Para que sean librados tus amigos; salva con tu derecha y respóndeme.
+Para que sean librados tus amados, salva con tu diestra y respóndeme.
 
 ### 108:7
 
-Dios habló en su santidad: “Alegraréme, dividiré a Siquem, mediré el valle de Sukkot.”
+Dios habló en su santidad: Me regocijaré; repartiré Shejem, y el valle de Sukot mediré.
 
 ### 108:8
 
-Gilead es mío, y Manasés es mío; Efraín es mi fortaleza de cabeza; Judá es mi rector.
+Mío es Gilad, mío es Menashé, y Efráyim es fortaleza de mi cabeza; Yehudá es mi legislador.
 
 ### 108:9
 
-Moab es mi lavadero, y sobre Edom echaré mis sandalias; sobre los filisteos griterío.
+Moav es vasija de mi lavado; sobre Edom echaré mi calzado; sobre Péleshet gritaré.
 
 ### 108:10
 
-¿Quién me llevará a la ciudad fortaleza? ¿Quién me guiará hasta Edom?
+¿Quién me llevará a ciudad fortificada? ¿Quién me guiará hasta Edom?
 
 ### 108:11
 
-¿Acaso Dios nos ha abandonado? ¿Acaso no sale Dios con nuestras tropas?
+¿No eres tú, Dios, que nos desechaste? ¿Y no saldrás, Dios, en nuestras huestes?
 
 ### 108:12
 
-Danos ayuda de la adversidad, y la salvación del hombre es vanidad.
+Danos ayuda desde el adversario, porque vanidad es la salvación de hombre.
 
 ### 108:13
 
-Con Dios hacemos valentía, y él es nuestro enemigo.
+En Dios haremos valor, y él hollará a nuestros adversarios.
 
 ## Capítulo 109
 
+
 ### 109:1
 
-Para el director, de David. Salmo. Dios de mi alabanza, no te quedes mudo.
+Al director; de David; salmo. Dios de mi alabanza, no calles.
 
 ### 109:2
 
-Porque la boca del impío y la lengua de engaño se abrieron contra mí; hablaron conmigo con lengua falsa.
+Porque boca de impío y boca de engaño contra mí abrieron; hablaron conmigo con lengua de mentira.
 
 ### 109:3
 
-Y las palabras de odio me rodearon, y pelearon contra mí sin motivo.
+Y con palabras de odio me rodearon, y pelearon contra mí de balde.
 
 ### 109:4
 
-En lugar de mi amor me aborrecen, y yo soy oración.
+En lugar de mi amor me acusan, y yo soy oración.
 
 ### 109:5
 
-Y pusieron sobre mí mal en lugar de bien, y aborrecimiento en lugar de mi amor.
+Y pusieron sobre mí mal en lugar de bien, y odio en lugar de mi amor.
 
 ### 109:6
 
-Pon sobre mí al impío, y que el adversario se ponga a su derecha.
+Pon sobre él a un impío, y un adversario se pare a su derecha.
 
 ### 109:7
 
-Que el impío salga por su juicio, y su oración sea por pecado.
+Cuando sea juzgado, salga impío, y su oración sea para pecado.
 
 ### 109:8
 
-Que mis días sean pocos, y que su designio lo tome otro.
+Sean sus días pocos; su cargo tome otro.
 
 ### 109:9
 
-Que sus hijos sean huérfanos y su mujer viuda.
+Sean sus hijos huérfanos, y su mujer viuda.
 
 ### 109:10
 
-Que oscilen y tengan hambre sus hijos, y busquen en las ruinas.
+Y andando anden sus hijos y pidan, y busquen desde sus ruinas.
 
 ### 109:11
 
-Que un usurero exija prestamos por todo lo que tiene, y extraños saqueen sus bienes.
+Aceche el acreedor todo lo que es suyo, y saqueen extraños su trabajo.
 
 ### 109:12
 
-Que no tenga quien le haga favores ni quien le sea misericordioso con sus huérfanos.
+No haya para él quien prolongue misericordia, ni haya quien se apiade de sus huérfanos.
 
 ### 109:13
 
-Que su final sea destrucción, y su nombre sea borrado en otra generación.
+Sea su posteridad para cortar; en generación otra sea borrado su nombre.
 
 ### 109:14
 
-Que se recuerde ante Jehová el pecado de sus padres, y no se borre la culpa de su madre.
+Sea recordada la iniquidad de sus padres ante Jehová, y el pecado de su madre no sea borrado.
 
 ### 109:15
 
-Que estén siempre delante de Jehová, y que sean destruidos de la tierra su memoria.
+Estén delante de Jehová siempre, y corte de la tierra su memoria.
 
 ### 109:16
 
-Porque no recordó hacer misericordia, y persiguió a un hombre pobre y necesitado, y su corazón se endureció para matar.
+Por cuanto no se acordó de hacer misericordia, y persiguió a hombre pobre y necesitado, y al quebrantado de corazón, para matar.
 
 ### 109:17
 
-Y amó la maldición, y la maldición llegó a él; y no quiso bendición, y la bendición se alejó de él.
+Y amó maldición, y ella le vino; y no se complacía en bendición, y ella se alejó de él.
 
 ### 109:18
 
-Y se vistió de maldición como de ropa, y la maldición entró en él como agua, y como aceite en sus huesos.
+Y se vistió de maldición como su manto, y entró como aguas en su interior, y como aceite en sus huesos.
 
 ### 109:19
 
-Que sea para él como una túnica que se desgarra, y que siempre se ajuste a él como un cinto.
+Séale como vestido que se pone, y como cinturón con que siempre se ciñe.
 
 ### 109:20
 
-Esto es la obra de mi enemigo, que viene de Jehová, y quien habla mal de mi alma.
+Esta es la paga de mis acusadores de parte de Jehová, y de los que hablan mal sobre mi alma.
 
 ### 109:21
 
-Pero tú, Señor, haz conmigo por tu nombre, porque es bueno tu misericordia; líbrame.
+Y tú, Jehová Adonai, haz conmigo por causa de tu nombre; porque buena es tu misericordia, líbrame.
 
 ### 109:22
 
-Porque soy pobre y necesitado, y mi corazón está herido dentro de mí.
+Porque pobre y necesitado soy yo, y mi corazón está herido dentro de mí.
 
 ### 109:23
 
-Como la sombra de un árbol que se inclina he andado; he sido humillado como un gusano.
+Como sombra cuando se inclina, me voy; soy sacudido como la langosta.
 
 ### 109:24
 
-Mis rodillas han temblado por ayunar, y mi carne ha desfallecido por falta de grasa.
+Mis rodillas tropezaron por el ayuno, y mi carne desfalleció de gordura.
 
 ### 109:25
 
-Y yo he sido una burla para ellos; me miran y mueven la cabeza.
+Y yo fui oprobio para ellos; me ven, menean su cabeza.
 
 ### 109:26
 
-Ayúdame, Señor Dios mío; líbrame por tu misericordia.
+Ayúdame, Jehová mi Dios; sálvame conforme a tu misericordia.
 
 ### 109:27
 
-Y sabrán que tu mano ha hecho esto, tú, Señor, lo has hecho.
+Y sepan que tu mano es esta; tú, Jehová, la hiciste.
 
 ### 109:28
 
-Ellos maldicen, pero tú los bendices; se levantan, pero tú los avergüenzas; tu siervo se alegra.
+Maldigan ellos, y tú bendice; se levantaron y serán avergonzados, y tu siervo se alegrará.
 
 ### 109:29
 
-Se vistan de vergüenza mis enemigos, y anden avergonzados como en un manto de vergüenza.
+Se vistan mis acusadores de afrenta, y se cubran como manto de su vergüenza.
 
 ### 109:30
 
-Alabaré al Señor mucho con mi boca, y en medio de muchos lo alabaré.
+Daré gracias a Jehová mucho con mi boca, y en medio de muchos lo alabaré.
 
 ### 109:31
 
-Porque se pondrá a la derecha del necesitado para salvarlo de los jueces de su alma.
+Porque se para a la derecha del necesitado, para salvar de los que juzgan su alma.
 
 ## Capítulo 110
 
+
 ### 110:1
 
-Para David, salmo. Palabra del Señor al Señor: “Sé a mi derecha hasta que ponga a tus enemigos como un tapete bajo tus pies.”
+De David; salmo. Oráculo de Jehová a mi Adonai: Siéntate a mi derecha, hasta que ponga a tus enemigos por estrado de tus pies.
 
 ### 110:2
 
-Extenderá el Señor tu cetro desde Sion. Domina en medio de tus enemigos.
+La vara de tu fuerza enviará Jehová desde Tsiyón: Domina en medio de tus enemigos.
 
 ### 110:3
 
-En el día de tu poder te darán ofrendas de voluntad en la hermosura de la santidad, de la mañana del rocío. Te dará la lluvia de tu juventud.
+Tu pueblo ofrendas voluntarias en día de tu poder, en esplendores de santidad; desde el vientre de la aurora, tuyo es el rocío de tu juventud.
 
 ### 110:4
 
-Jura el Señor y no le dará marcha atrás: “Tú eres sacerdote para siempre, según el orden de Melquisedec.”
+Juró Jehová y no se arrepentirá: Tú eres sacerdote para siempre, según el orden de Malki-Tsédeq.
 
 ### 110:5
 
-El Señor está a tu derecha. En el día de su ira, te quebrará a los reyes.
+Adonai a tu derecha quebrantará en el día de su ira a reyes.
 
 ### 110:6
 
-Juzgarás a las naciones. Llenarás de cadáveres. Destruirás a los jefes de la tierra extensa.
+Juzgará entre las naciones; lleno de cadáveres; quebrantará cabeza sobre tierra ancha.
 
 ### 110:7
 
-Del arroyo por el camino beberás. Por eso alzará la cabeza.
+Del arroyo en el camino beberá; por tanto levantará cabeza.
 
 ## Capítulo 111
 
+
 ### 111:1
 
-Alabad al Señor. Te alabaré, Señor, con todo mi corazón, en la asamblea de los justos y en la congregación.
+¡Alaben a Yah! Daré gracias a Jehová con todo el corazón, en consejo de rectos y asamblea.
 
 ### 111:2
 
-Grandes son las obras del Señor. Buscadas por todos sus deseos.
+Grandes son las obras de Jehová, buscadas de todos los que se complacen en ellas.
 
 ### 111:3
 
-Honor y majestad son el trabajo de él. Su justicia permanece para siempre.
+Esplendor y majestad es su obra, y su justicia permanece para siempre.
 
 ### 111:4
 
-Ha recordado sus maravillas. El Señor es bondadoso y misericordioso.
+Memorial hizo de sus maravillas; clemente y compasivo es Jehová.
 
 ### 111:5
 
-Ha dado de comer a los que temen a él. Recordará su pacto para siempre.
+Manjar dio a los que le temen; se acordará para siempre de su pacto.
 
 ### 111:6
 
-Ha revelado a su pueblo la fuerza de sus obras. Les dará como herencia las naciones.
+Poder de sus obras declaró a su pueblo, para darles herencia de naciones.
 
 ### 111:7
 
-Los hechos de mis manos son verdad y justicia. Todo precepto de ellos es fiel.
+Obras de sus manos son verdad y juicio; fieles todos sus preceptos,
 
 ### 111:8
 
-Permanecen para siempre, hechos en verdad y rectitud.
+afirmados para siempre, para eternidad, hechos en verdad y rectitud.
 
 ### 111:9
 
-Ha enviado su rescate a su pueblo, ha dado su ley para siempre. Su nombre es santo y temible.
+Redención envió a su pueblo; mandó para siempre su pacto; santo y temible es su nombre.
 
 ### 111:10
 
-El temor de Jehová es el principio de la sabiduría. El buen entendimiento a todos los que obran con él. Su alabanza permanece para siempre.
+Principio de sabiduría es el temor de Jehová; buen entendimiento a todos los que los hacen; su alabanza permanece para siempre.
 
 ## Capítulo 112
 
+
 ### 112:1
 
-Alabad a Jehová. Afortunado el hombre que teme a Jehová, que en sus mandamientos tiene gran placer.
+¡Alaben a Yah! Dichoso el hombre que teme a Jehová; en sus mandamientos se complace mucho.
 
 ### 112:2
 
-En la tierra será fuerte su descendencia. La generación de los justos será bendecida.
+Poderoso en la tierra será su simiente; generación de rectos será bendita.
 
 ### 112:3
 
-En su casa hay riquezas y abundancia. Su justicia permanece para siempre.
+Hacienda y riqueza en su casa, y su justicia permanece para siempre.
 
 ### 112:4
 
-En la oscuridad resplandece la luz para los justos. Es misericordioso y compasivo y justo.
+Amaneció en las tinieblas luz a los rectos; clemente y compasivo y justo.
 
 ### 112:5
 
-Bueno es el hombre que es misericordioso y presta. En sus palabras actúa con justicia.
+Bueno es el hombre que se apiada y presta; sostiene sus asuntos con juicio.
 
 ### 112:6
 
-Por siempre jamás no será movido. Será recordado para siempre el justo.
+Porque para siempre no será movido; para memoria eterna será el justo.
 
 ### 112:7
 
-No teme a la mala noticia. Su corazón está firme, confiado en Jehová.
+De noticia mala no temerá; firme está su corazón, confiado en Jehová.
 
 ### 112:8
 
-Su corazón está firme, no teme. Hasta que vea lo que le sucede.
+Afirmado está su corazón, no temerá, hasta que vea en sus adversarios.
 
 ### 112:9
 
-Distribuye, da a los pobres, tu justicia perdura para siempre; tu cuerno será exaltado en gloria.
+Esparció, dio a los necesitados; su justicia permanece para siempre; su cuerno se alzará en gloria.
 
 ### 112:10
 
-El malvado verá y se enfurecerá, morderá sus dientes y desfallecerá; la codicia de los malvados perecerá.
+El impío verá y se enfurecerá; sus dientes rechinarán y se derretirá; el deseo de impíos perecerá.
 
 ## Capítulo 113
 
+
 ### 113:1
 
-Alabad a Yahvé, alabad a sus siervos, alabad el nombre de Yahvé.
+¡Alaben a Yah! Alaben, siervos de Jehová; alaben el nombre de Jehová.
 
 ### 113:2
 
-Que el nombre de Yahvé sea bendito desde ahora y para siempre.
+Sea el nombre de Jehová bendito desde ahora y hasta siempre.
 
 ### 113:3
 
-Desde el amanecer hasta el ocaso, el nombre de Yahvé es alabado.
+Desde el orto del sol hasta su ocaso, alabado es el nombre de Jehová.
 
 ### 113:4
 
-Yahvé es alto sobre todas las naciones, su gloria está sobre los cielos.
+Alto sobre todas las naciones es Jehová; sobre los cielos está su gloria.
 
 ### 113:5
 
-¿Quién es como Yahvé, nuestro Dios, que se eleva sobre los que se sientan?
+¿Quién como Jehová nuestro Dios, que se ensalza para sentarse,
 
 ### 113:6
 
-El que baja a ver en los cielos y en la tierra.
+que se humilla para mirar en los cielos y en la tierra?
 
 ### 113:7
 
-Eleva al pobre del polvo, al necesitado de entre los desechos.
+Levanta del polvo al pobre; del muladar alza al necesitado,
 
 ### 113:8
 
-Para sentarlo con los nobles, con los nobles de su pueblo.
+para hacerlo sentar con nobles, con nobles de su pueblo.
 
 ### 113:9
 
-Sienta a la viuda en la casa, a la madre de los hijos, alegre; alabad a Yahvé.
+Hace habitar a la estéril de la casa como madre de hijos alegre. ¡Alaben a Yah!
 
 ## Capítulo 114
 
+
 ### 114:1
 
-Cuando Israel salió de Egipto, la casa de Jacob de entre el pueblo extranjero.
+Al salir Israel de Mizraim, la casa de Yaakov de pueblo de lengua extraña,
 
 ### 114:2
 
-Judá se hizo su santidad, Israel, su reino.
+fue Yehudá para su santuario, Israel sus dominios.
 
 ### 114:3
 
-El mar vio y huyó, el Jordán dio vuelta atrás.
+El mar vio y huyó; el Yardén se volvió atrás.
 
 ### 114:4
 
-Los montes saltaron como ciervos, las colinas como corderitos.
+Los montes saltaron como carneros, las colinas como hijos de rebaño.
 
 ### 114:5
 
-¿Qué te hizo, mar, para que te alejaras? ¿Qué te hizo, Jordán, para que dieras vuelta atrás?
+¿Qué tienes, oh mar, que huyes? ¿Yardén, que te vuelves atrás?
 
 ### 114:6
 
-Los montes saltaron como ciervos, las colinas como corderitos.
+¿Montes, que saltan como carneros? ¿Colinas, como hijos de rebaño?
 
 ### 114:7
 
-Tembló la tierra ante el Señor, tembló el monte ante el Dios de Jacob.
+De delante del señor, tiembla, oh tierra; de delante del Dios de Yaakov,
 
 ### 114:8
 
-El que convirtió la roca en un estanque de agua, la roca caliza en manantiales de agua.
+que convierte la peña en estanque de aguas, el pedernal en manantial de aguas.
 
 ## Capítulo 115
 
+
 ### 115:1
 
-No para nosotros, Señor, no para nosotros, sino para tu nombre da gloria, por tu bondad, por tu verdad.
+No a nosotros, Jehová, no a nosotros, sino a tu nombre da gloria, por tu misericordia, por tu verdad.
 
 ### 115:2
 
-¿Qué dirán las naciones: Dónde está su Dios?
+¿Por qué dirán las naciones: Dónde está ahora su Dios?
 
 ### 115:3
 
-Nuestros dioses están en los cielos; él hace todo lo que quiere.
+Y nuestro Dios está en los cielos; todo cuanto se complacía, hizo.
 
 ### 115:4
 
-Sus ídolos son de plata y oro, obra de manos de hombres.
+Sus ídolos son plata y oro, obra de manos de hombre.
 
 ### 115:5
 
-Tienen boca, pero no hablan; tienen ojos, pero no ven.
+Boca tienen, y no hablan; ojos tienen, y no ven;
 
 ### 115:6
 
-Tienen oídos, pero no oyen; tienen nariz, pero no olfatean.
+orejas tienen, y no oyen; nariz tienen, y no huelen;
 
 ### 115:7
 
-Tienen manos, pero no manejan; tienen pies, pero no caminan; no hacen sonar en su garganta.
+sus manos, y no palpan; sus pies, y no andan; no murmuran con su garganta.
 
 ### 115:8
 
-Como ellos son los que los hacen; todo aquel que confía en ellos será como ellos.
+Como ellos serán los que los hacen, todo el que confía en ellos.
 
 ### 115:9
 
-Israel confía en Jehová; él es su ayuda y su escudo.
+Israel, confía en Jehová; su ayuda y su escudo es él.
 
 ### 115:10
 
-La casa de Aarón confía en Jehová; él es su ayuda y su escudo.
+Casa de Aarón, confíen en Jehová; su ayuda y su escudo es él.
 
 ### 115:11
 
-Los que temen a Jehová confían en Jehová; él es su ayuda y su escudo.
+Temerosos de Jehová, confíen en Jehová; su ayuda y su escudo es él.
 
 ### 115:12
 
-Jehová los recuerde y los bendiga: bendiga a la casa de Israel; bendiga a la casa de Aarón.
+Jehová se acordó de nosotros; bendecirá; bendecirá la casa de Israel; bendecirá la casa de Aarón.
 
 ### 115:13
 
-Bendiga Jehová a los que temen a Jehová, a los pequeños y a los grandes.
+Bendecirá a los temerosos de Jehová, a los pequeños con los grandes.
 
 ### 115:14
 
-Jehová los aumente; los aumente, y a sus hijos también.
+Añada Jehová sobre ustedes, sobre ustedes y sobre sus hijos.
 
 ### 115:15
 
-Benditos vosotros de Jehová, que hizo los cielos y la tierra.
+Benditos son ustedes de Jehová, hacedor de cielos y tierra.
 
 ### 115:16
 
-Los cielos son del Señor, pero la tierra ha dado a los hijos de los hombres.
+Los cielos son cielos de Jehová, y la tierra dio a los hijos del hombre.
 
 ### 115:17
 
-No alaban Jehová los muertos, ni todos los que descenderán al silencio.
+No los muertos alabarán a Yah, ni todos los que bajan al silencio.
 
 ### 115:18
 
-Nosotros bendeciremos Yahvé desde ahora y hasta siempre. Alabad a Yahvé.
+Y nosotros bendeciremos a Yah desde ahora y hasta siempre. ¡Alaben a Yah!
 
 ## Capítulo 116
 
+
 ### 116:1
 
-Amo porque Yahvé escucha mi voz, mis súplicas.
+Amo porque oye Jehová mi voz, mis súplicas.
 
 ### 116:2
 
-Porque inclinó su oído a mí, y en mis días lo invocaré.
+Porque inclinó su oído a mí, y en mis días invocaré.
 
 ### 116:3
 
-Me rodearon las redes de la muerte, y las trampas del Sheol me alcanzaron; angustia y dolor me encontraron.
+Me cercaron cuerdas de muerte, y estrecheces de Sheol me hallaron; angustia y dolor hallo.
 
 ### 116:4
 
-Y en el nombre de Yahvé lo invocaré; oh Yahvé, líbrame la vida.
+Y en nombre de Jehová invocaré: ¡Ah, Jehová, libra mi alma!
 
 ### 116:5
 
-Yahvé es bondadoso y justo, y nuestro Dios es misericordioso.
+Misericordioso es Jehová y justo, y nuestro Dios compasivo.
 
 ### 116:6
 
-Yahvé guarda a los simples, yo soy pobre y él me ayuda.
+Guardián de los sencillos es Jehová; fui empobrecido, y a mí salva.
 
 ### 116:7
 
-Vuelve, alma mía, a tu descanso, porque Yahvé ha sido bueno conmigo.
+Vuelve, alma mía, a tus descansos, porque Jehová recompensó sobre ti.
 
 ### 116:8
 
-Porque me libraste la vida de la muerte, los ojos de las lágrimas, los pies del tropiezo.
+Porque libraste mi alma de muerte, mi ojo de lágrima, mi pie de tropiezo.
 
 ### 116:9
 
-Caminaré ante Yahvé en las tierras de la vida.
+Andaré delante de Jehová en tierras de los vivos.
 
 ### 116:10
 
-He creído que hablaré, yo he dicho: ‘En gran medida he sido afligido’.
+Creí, porque hablaré; yo fui afligido mucho.
 
 ### 116:11
 
-Yo dije en mi prisa: ‘Todos los hombres son mentirosos’.
+Yo dije en mi prisa: Todo el hombre mentiroso.
 
 ### 116:12
 
-¿Qué responderé a Jehová por todas sus bendiciones sobre mí?
+¿Qué devolveré a Jehová por todos sus beneficios sobre mí?
 
 ### 116:13
 
-Elevaré el cáliz de salvación y invocaré el nombre de Jehová.
+Copa de salvaciones levantaré, y en nombre de Jehová invocaré.
 
 ### 116:14
 
-Cumpliré mis votos a Jehová, frente a su pueblo, en su presencia.
+Mis votos a Jehová pagaré, delante ahora de todo su pueblo.
 
 ### 116:15
 
-Valioso ante Jehová es el muerto que perece por su lealtad.
+Preciosa en ojos de Jehová es la muerte de sus piadosos.
 
 ### 116:16
 
-¡Oh Jehová! Porque soy tu siervo, hijo de tu sierva; rompes mis cadenas.
+¡Ah, Jehová! Porque yo soy tu siervo, yo tu siervo, hijo de tu sierva; abriste a mis ataduras.
 
 ### 116:17
 
-Te ofreceré un sacrificio de acción de gracias y invocaré tu nombre, Jehová.
+A ti sacrificaré sacrificio de acción de gracias, y en nombre de Jehová invocaré.
 
 ### 116:18
 
-Cumpliré mis votos a Jehová, frente a su pueblo, en su presencia.
+Mis votos a Jehová pagaré, delante ahora de todo su pueblo.
 
 ### 116:19
 
-En los atrios de la casa de Jehová, en medio de ti, Jerusalén, alabad a Jehová.
+En atrios de la casa de Jehová, en medio de ti, Yerushaláyim. ¡Alaben a Yah!
 
 ## Capítulo 117
 
+
 ### 117:1
 
-Alabad a Jehová, todas las naciones; proclamad su gloria, todas las gentes.
+¡Alaben a Jehová, todas las naciones; alábenlo, todos los pueblos!
 
 ### 117:2
 
-Porque su gracia y fidelidad son eternas; alabad a Jehová.
+Porque prevaleció sobre nosotros su misericordia, y la verdad de Jehová para siempre. ¡Alaben a Yah!
 
 ## Capítulo 118
 
+
 ### 118:1
 
-Alabad a Jehová, porque es bueno; porque su gracia es eterna.
+Den gracias a Jehová porque es bueno, porque para siempre su misericordia.
 
 ### 118:2
 
-Diga ahora Israel: Porque su gracia es eterna.
+Diga ahora Israel: porque para siempre su misericordia.
 
 ### 118:3
 
-Digan ahora la casa de Aarón: Porque su gracia es eterna.
+Digan ahora casa de Aarón: porque para siempre su misericordia.
 
 ### 118:4
 
-Digan ahora los que temen al Señor: Porque su gracia es eterna.
+Digan ahora los temerosos de Jehová: porque para siempre su misericordia.
 
 ### 118:5
 
-Del estrecho llamé al Señor, y me respondió en el amplio.
+Desde la estrechez invoqué a Yah; me respondió en el ensanche Yah.
 
 ### 118:6
 
-El Señor es para mí, no temeré; ¿qué puede hacerme el hombre?
+Jehová está por mí; no temeré; ¿qué me hará el hombre?
 
 ### 118:7
 
-El Señor es para mí, mi auxilio; y yo veré a mis enemigos.
+Jehová está por mí entre mis ayudadores, y yo miraré en mis odiadores.
 
 ### 118:8
 
-Es mejor confiar en Jehová que en el hombre.
+Mejor refugiarse en Jehová que confiar en el hombre.
 
 ### 118:9
 
-Es mejor confiar en Jehová que en los príncipes.
+Mejor refugiarse en Jehová que confiar en los nobles.
 
 ### 118:10
 
-Todos los pueblos me rodearon; en el nombre del Señor los destruí.
+Todas las naciones me rodearon; en nombre de Jehová, porque las cortaré.
 
 ### 118:11
 
-Me rodearon, también me rodearon; en el nombre del Señor los destruí.
+Me rodearon, también me rodearon; en nombre de Jehová, porque las cortaré.
 
 ### 118:12
 
-Me rodearon como abejas; se quemaron como llamas de espinos; en el nombre del Señor los destruí.
+Me rodearon como abejas; se apagaron como fuego de espinos; en nombre de Jehová, porque las cortaré.
 
 ### 118:13
 
-Me empujaron para que cayera, pero el Señor me sostuvo.
+Empujar me empujaste para caer, y Jehová me ayudó.
 
 ### 118:14
 
-Mi fuerza y mi canción es Jehová, y él me ha sido por salvación.
+Mi fuerza y canción es Yah, y fue a mí a salvación.
 
 ### 118:15
 
-Voz de alegría y salvación en las tiendas de los justos. La diestra del Señor hace valentía.
+Voz de júbilo y salvación en tiendas de justos; la diestra de Jehová hace valentía.
 
 ### 118:16
 
-La diestra del Señor sube, la diestra del Señor hace valentía.
+La diestra de Jehová exaltada; la diestra de Jehová hace valentía.
 
 ### 118:17
 
-No moriré, viviré, y contaré las obras del Señor.
+No moriré, porque viviré, y contaré las obras de Yah.
 
 ### 118:18
 
-Me corrigió el Señor, y no me entregó a la muerte.
+Disciplinar me disciplinó Yah, y a la muerte no me entregó.
 
 ### 118:19
 
-Abrídanme las puertas de la justicia, entraré por ellas y daré gracias al Señor.
+Abran para mí las puertas de justicia; entraré por ellas, daré gracias a Yah.
 
 ### 118:20
 
-Este es el portal del Señor, por él entrarán los justos.
+Esta es la puerta de Jehová; justos entrarán por ella.
 
 ### 118:21
 
-Te alabaré porque me ayudaste, y has sido mi salvación.
+Te daré gracias porque me respondiste, y fuiste a mí a salvación.
 
 ### 118:22
 
-Piedra que los constructores rechazaron se ha convertido en piedra angular.
+Piedra desecharon los edificadores; fue a cabeza de esquina.
 
 ### 118:23
 
-Esta es obra del Señor, es maravillosa a nuestros ojos.
+De parte de Jehová fue esto; ella es maravillosa en nuestros ojos.
 
 ### 118:24
 
-Este es el día que el Señor hizo, vamos a alegrarnos y a gozarlo.
+Este es el día que hizo Jehová; nos alegraremos y nos gozaremos en él.
 
 ### 118:25
 
-Señor, sálvanos, por favor. Señor, prospera, por favor.
+¡Ah, Jehová, salva ahora! ¡Ah, Jehová, haz prosperar ahora!
 
 ### 118:26
 
-Bendito el que viene en nombre del Señor. Bendecimos a los que vienen de la casa del Señor.
+Bendito el que viene en nombre de Jehová; los bendijimos a ustedes desde la casa de Jehová.
 
 ### 118:27
 
-Dios es Jehová, Él nos iluminó. Atad el festivo en los cuerdas hasta las puntas del altar.
+Dios es Jehová, y alumbró a nosotros; aten fiesta con cuerdas hasta los cuernos del altar.
 
 ### 118:28
 
-Tú eres mío, te alabaré. Dios mío, te ensalzaré.
+Dios mío eres tú, y te daré gracias; Dios mío, te ensalzaré.
 
 ### 118:29
 
-Alabad al Señor, porque es bueno. Porque su misericordia dura para siempre.
+Den gracias a Jehová porque es bueno, porque para siempre su misericordia.
 
 ## Capítulo 119
 
+
 ### 119:1
 
-Dichosos los que tienen un camino recto, que caminan conforme a la ley de Jehová.
+Dichosos los íntegros de camino, los que andan en la ley de Jehová.
 
 ### 119:2
 
-Dichosos los que guardan sus testimonios con todo el corazón, que buscan a Dios con todo el corazón.
+Dichosos los que guardan sus testimonios; con todo corazón le buscan.
 
 ### 119:3
 
-Tampoco han hecho maldad, han andado conforme a tus caminos.
+También no obraron iniquidad; en sus caminos anduvieron.
 
 ### 119:4
 
-Tú me has enseñado tus mandamientos para guardárselos con diligencia.
+Tú mandaste tus preceptos para guardar en gran manera.
 
 ### 119:5
 
-¡Oh, que mis caminos se establezcan para guardar tus estatutos!
+¡Ojalá se afirmen mis caminos para guardar tus estatutos!
 
 ### 119:6
 
-Entonces no me avergonzaré cuando mire a todos tus mandamientos.
+Entonces no me avergonzaré al mirar yo hacia todos tus mandamientos.
 
 ### 119:7
 
-Te alabaré con un corazón recto, cuando aprenda tus sentencias de justicia.
+Te alabaré con rectitud de corazón, al aprender yo los juicios de tu justicia.
 
 ### 119:8
 
-Guardo tus estatutos, no me desampares hasta el fin.
+Tus estatutos guardaré; no me dejes en gran manera.
 
 ### 119:9
 
-¿Con qué purificará el joven su camino para guardar tus palabras?
+¿Con qué limpiará el joven su senda, para guardar conforme a tu palabra?
 
 ### 119:10
 
-Con todo mi corazón te busco, no me apartes de tus mandamientos.
+Con todo mi corazón te busqué; no me hagas errar de tus mandamientos.
 
 ### 119:11
 
-En mi corazón he guardado tus palabras para no pecar contra ti.
+En mi corazón guardé tu dicho, a fin de que no peque contra ti.
 
 ### 119:12
 
-Bendito eres, Señor, que me enseñas tus estatutos.
+Bendito eres tú, Jehová; enséñame tus estatutos.
 
 ### 119:13
 
-Con mis labios he contado todos tus preceptos.
+Con mis labios conté todos los juicios de tu boca.
 
 ### 119:14
 
-En el camino de tus testimonios me he regocijado como en todas las riquezas.
+En el camino de tus testimonios me alegré como sobre toda riqueza.
 
 ### 119:15
 
-En tus preceptos meditaré y te observaré con atención.
+En tus preceptos meditaré, y miraré tus sendas.
 
 ### 119:16
 
-En tus estatutos me deleitaré, no olvidaré tus palabras.
+En tus estatutos me deleitaré; no olvidaré tu palabra.
 
 ### 119:17
 
-Recompénsame conforme a tu bondad, viviré y guardaré tus palabras.
+Haz bien sobre tu siervo; viviré y guardaré tu palabra.
 
 ### 119:18
 
-Despierta mis ojos para que contemple las maravillas de tu ley.
+Descubre mis ojos, y miraré las maravillas de tu ley.
 
 ### 119:19
 
-Soy extranjero en la tierra, no me ocultes tus mandamientos.
+Peregrino soy yo en la tierra; no ocultes de mí tus mandamientos.
 
 ### 119:20
 
-Mi alma anhela tu juicio en todo tiempo.
+Se quebranta mi alma de anhelo hacia tus juicios en todo tiempo.
 
 ### 119:21
 
-Has reprendido a los malvados, malditos, que se apartan de tus mandamientos.
+Reprendiste a insolentes, malditos, los que erran de tus mandamientos.
 
 ### 119:22
 
-Quita de mí la afrenta y el desprecio, porque guardo tus mandamientos.
+Quita de sobre mí la afrenta y el desprecio, porque tus testimonios guardé.
 
 ### 119:23
 
-También los príncipes hablan conmigo; tu siervo medita en tus estatutos.
+También se sentaron príncipes; contra mí hablaron; tu siervo medita en tus estatutos.
 
 ### 119:24
 
-También tus mandamientos son mi deleite; son mi consejeros.
+También tus testimonios son mis deleites, hombres de mi consejo.
 
 ### 119:25
 
-Mi alma se aferra a la tierra; vivifica a tu palabra.
+Se pegó al polvo mi alma; vivifícame conforme a tu palabra.
 
 ### 119:26
 
-Conté tus testimonios y te respondí; enséñame tus estatutos.
+Mis caminos conté, y me respondiste; enséñame tus estatutos.
 
 ### 119:27
 
-Enséñame el camino de tus mandamientos y meditaré en tus maravillas.
+El camino de tus preceptos hazme entender, y meditaré en tus maravillas.
 
 ### 119:28
 
-Mi alma se desvanece de aflicción; fortaléceme conforme a tu palabra.
+Gotea mi alma de tristeza; susténtame conforme a tu palabra.
 
 ### 119:29
 
-Aparta de mí el camino de la mentira y hazme amar tu ley.
+El camino de mentira quita de mí, y tu ley concédeme.
 
 ### 119:30
 
-El camino de la fe elegí; tus juicios he establecido.
+El camino de fidelidad elegí; tus juicios puse delante.
 
 ### 119:31
 
-Me he aferrado a tus testimonios, Jehová; no me avergüences.
+Me pegué a tus testimonios, Jehová; no me avergüences.
 
 ### 119:32
 
-Por el camino de tus mandamientos correré, porque me ensanchas el corazón.
+Por el camino de tus mandamientos correré, porque ensancharás mi corazón.
 
 ### 119:33
 
-Enséñame, Jehová, el camino de tus estatutos y lo guardaré con todo cuidado.
+Enséñame, Jehová, el camino de tus estatutos, y lo guardaré hasta el fin.
 
 ### 119:34
 
-Enséñame y guardaré tus enseñanzas con todo cuidado.
+Hazme entender, y guardaré tu ley, y la observaré con todo corazón.
 
 ### 119:35
 
-Guiame en el camino de tus mandamientos, porque en él me complazco.
+Hazme andar en la senda de tus mandamientos, porque en ella me complací.
 
 ### 119:36
 
-Inclina mi corazón hacia tus testimonios y no hacia el vano lucimiento.
+Inclina mi corazón hacia tus testimonios, y no hacia ganancia.
 
 ### 119:37
 
-Aparta mis ojos de ver lo vano, y vivifica con tu camino.
+Pasa mis ojos de ver vanidad; en tu camino vivifícame.
 
 ### 119:38
 
-Establece la palabra de tu siervo, según tu temor.
+Establece a tu siervo tu dicho, que es para tu temor.
 
 ### 119:39
 
-Aparta la afrenta que temo, porque tus juicios son buenos.
+Pasa mi afrenta que temí, porque tus juicios son buenos.
 
 ### 119:40
 
-He anhelado tus preceptos, vivifica con tu justicia.
+He aquí, anhelé tus preceptos; en tu justicia vivifícame.
 
 ### 119:41
 
-Que tu misericordia me alcance, Jehová, y tu salvación, según tu palabra.
+Y vengan a mí tus misericordias, Jehová, tu salvación conforme a tu dicho.
 
 ### 119:42
 
-Y responderé a mi adversario, porque he confiado en tu palabra.
+Y responderé al que me afrenta palabra, porque confié en tu palabra.
 
 ### 119:43
 
-No alejes de mi boca la palabra de verdad, hasta el extremo, porque en tu juicio he esperado.
+Y no arrebates de mi boca palabra de verdad hasta el extremo, porque a tu juicio esperé.
 
 ### 119:44
 
-Guardaré tu ley siempre y para siempre.
+Y guardaré tu ley continuamente, por siempre y jamás.
 
 ### 119:45
 
-Caminaré en anchura, porque he buscado tus preceptos.
+Y andaré en anchura, porque tus preceptos busqué.
 
 ### 119:46
 
-Y hablaré de tus estatutos delante de los reyes y no me avergonzaré.
+Y hablaré en tus testimonios delante de reyes, y no me avergonzaré.
 
 ### 119:47
 
-Y me deleitaré en tus mandamientos, que amo.
+Y me deleitaré en tus mandamientos, que amé.
 
 ### 119:48
 
-Y levantaré mis manos hacia tus mandamientos, que amo, y hablaré de tus preceptos.
+Y alzaré mis palmas hacia tus mandamientos, que amé, y meditaré en tus estatutos.
 
 ### 119:49
 
-Acuérdate de la palabra para tu siervo, porque en ella he confiado.
+Acuerda la palabra a tu siervo, sobre la cual me hiciste esperar.
 
 ### 119:50
 
-Esta es mi consolación en mi aflicción, porque tu palabra me da vida.
+Esta es mi consolación en mi aflicción, porque tu dicho me vivificó.
 
 ### 119:51
 
-Los soberbios me han perseguido en vano; de tu ley no me he desviado.
+Insolentes me escarnecieron hasta el extremo; de tu ley no me desvié.
 
 ### 119:52
 
-He recordado tus decretos desde la antigüedad, oh Jehová, y he tenido esperanza en ellos.
+Recordé tus juicios desde siempre, Jehová, y me consolé.
 
 ### 119:53
 
-La aflicción me ha asido de los malvados, que abandonan tu ley.
+Horror me tomó a causa de malos, abandonadores de tu ley.
 
 ### 119:54
 
-Tus preceptos han sido mi canto en mi morada.
+Cánticos fueron para mí tus estatutos en casa de mis moradas.
 
 ### 119:55
 
-He recordado tu nombre en la noche, oh Jehová, y he guardado tu ley.
+Recordé en la noche tu nombre, Jehová, y guardé tu ley.
 
 ### 119:56
 
-Esta ha sido mi porción, porque tus mandamientos he guardado.
+Esto fue para mí, porque tus preceptos guardé.
 
 ### 119:57
 
-Mi porción, Jehová, he dicho, es guardar tus palabras.
+Mi porción es Jehová, dije, para guardar tus palabras.
 
 ### 119:58
 
-Con todo mi corazón te he buscado, ten piedad de mí conforme a tu palabra.
+Imploré tu rostro con todo corazón; tenme misericordia conforme a tu dicho.
 
 ### 119:59
 
-He meditado mi camino y he vuelto mis pies a tus testimonios.
+Consideré mis caminos, y volví mis pies hacia tus testimonios.
 
 ### 119:60
 
-Reflexioné y no me demoré en guardar tus mandamientos.
+Me apresuré y no me demoré para guardar tus mandamientos.
 
 ### 119:61
 
-Sus redes me han rodeado, pero tu ley no he olvidado.
+Lazos de malos me rodearon; tu ley no olvidé.
 
 ### 119:62
 
-A medianoche me levanto para alabarte por tus justos juicios.
+A medianoche me levanto para alabarte sobre los juicios de tu justicia.
 
 ### 119:63
 
-Soy amigo de todos los que temen a ti y guardan tus preceptos.
+Compañero soy yo a todos los que te temen y a guardadores de tus preceptos.
 
 ### 119:64
 
-Tu misericordia, oh Jehová, llena la tierra; enseñame tus decretos.
+De tu misericordia, Jehová, está llena la tierra; tus estatutos enséñame.
 
 ### 119:65
 
-Has hecho bien, oh Jehová, con tu siervo conforme a tu palabra.
+Bien hiciste con tu siervo, Jehová, conforme a tu palabra.
 
 ### 119:66
 
-Enséñame buen juicio y conocimiento, porque en tus mandamientos he confiado.
+Buen gusto y conocimiento enséñame, porque en tus mandamientos creí.
 
 ### 119:67
 
-Antes de que me corrigieras, yo erraba, pero ahora guardo tus palabras.
+Antes de ser yo afligido, yo erraba; y ahora tu dicho guardé.
 
 ### 119:68
 
-Eres bueno y haces bien; enséñame tus decretos.
+Bueno eres tú y haces bien; enséñame tus estatutos.
 
 ### 119:69
 
-Los malvados me han tendido una trampa, pero yo, con todo mi corazón, guardo tus preceptos.
+Pegaron sobre mí mentira insolentes; yo con todo corazón guardaré tus preceptos.
 
 ### 119:70
 
-Son torpes sus corazones, pero yo, tu ley, la he amado.
+Se engrosó como sebo su corazón; yo en tu ley me deleité.
 
 ### 119:71
 
-Es bueno para mí que me hayas afligido, para que aprenda tus mandamientos.
+Bueno es para mí que fui afligido, a fin de que aprenda tus estatutos.
 
 ### 119:72
 
-Es bueno para mí tu ley más que el oro y la plata.
+Buena es para mí la ley de tu boca más que miles de oro y plata.
 
 ### 119:73
 
-Tus manos me hicieron y me formaron; entiéndeme para que aprenda tus mandamientos.
+Tus manos me hicieron y me establecieron; hazme entender, y aprenderé tus mandamientos.
 
 ### 119:74
 
-Tus temerosos te verán y se alegrarán, porque a tus palabras he esperado.
+Tus temerosos me verán y se alegrarán, porque a tu palabra esperé.
 
 ### 119:75
 
-Sé, SEÑOR, que tus juicios son justos, y que con fidelidad me has afligido.
+Supe, Jehová, que justicia son tus juicios, y en fidelidad me afligiste.
 
 ### 119:76
 
-Que tu misericordia me alcance, como has prometido a tu siervo.
+Sea ahora tu misericordia para consolarme, conforme a tu dicho a tu siervo.
 
 ### 119:77
 
-Que tus misericordias me alcancen y viviré, porque tu ley es mi deleite.
+Vengan a mí tus misericordias, y viviré, porque tu ley es mis deleites.
 
 ### 119:78
 
-Se avergüencen los soberbios, porque me han mentido; yo, sin embargo, meditaré en tus preceptos.
+Sean avergonzados insolentes, porque con mentira me torcieron; yo medito en tus preceptos.
 
 ### 119:79
 
-Vuelvan a mí tus temerosos, y sabrán tus testimonios.
+Vuelvan a mí tus temerosos, y los conocedores de tus testimonios.
 
 ### 119:80
 
-Que mi corazón sea leal en tus mandamientos, para que no me avergüence.
+Sea mi corazón íntegro en tus estatutos, a fin de que no me avergüence.
 
 ### 119:81
 
-Mi alma se ha cansado de tu salvación; a tus palabras he esperado.
+Se consume por tu salvación mi alma; a tu palabra esperé.
 
 ### 119:82
 
-Se cansaron mis ojos buscando tu palabra, diciendo: ¿Cuándo me consolarás?
+Se consumieron mis ojos por tu dicho, diciendo: ¿Cuándo me consolarás?
 
 ### 119:83
 
-He sido como un odre en el humo; tus decretos no he olvidado.
+Porque fui como odre en humo; tus estatutos no olvidé.
 
 ### 119:84
 
-Como los días de tu siervo, ¿cuándo harás justicia a los que me persiguen?
+¿Cuántos son los días de tu siervo? ¿Cuándo harás juicio en mis perseguidores?
 
 ### 119:85
 
-Los soberbios me han cavado trampas, que no son según tu ley.
+Cavaron para mí insolentes fosas, que no conforme a tu ley.
 
 ### 119:86
 
-Tus mandamientos son verdad; me persiguen en vano; ayúdame.
+Todos tus mandamientos son fidelidad; con mentira me persiguieron; ayúdame.
 
 ### 119:87
 
-Poco me queda en la tierra, pero no he abandonado tus preceptos.
+Casi me acabaron en la tierra, y yo no abandoné tus preceptos.
 
 ### 119:88
 
-Por tu misericordia me sostienes la vida, y guardaré tus testimonios.
+Conforme a tu misericordia vivifícame, y guardaré el testimonio de tu boca.
 
 ### 119:89
 
-Para siempre, oh Jehová, tu palabra está establecida en los cielos.
+Para siempre, Jehová, tu palabra está firme en los cielos.
 
 ### 119:90
 
-Para siempre es tu fidelidad; has fundado la tierra, y permanece.
+De generación en generación tu fidelidad; estableciste la tierra, y se mantuvo.
 
 ### 119:91
 
-Para tus juicios he permanecido; porque yo soy tu siervo.
+Conforme a tus juicios se mantuvieron hoy, porque el todo son tus siervos.
 
 ### 119:92
 
-Si no tuviera tu ley, mi delicia sería perdida; en mi aflicción me habría extraviado.
+Si no fuera tu ley mis deleites, entonces hubiera perecido en mi aflicción.
 
 ### 119:93
 
-Nunca dejaré tus mandamientos; porque en ellos vivo yo.
+Para siempre no olvidaré tus preceptos, porque en ellos me vivificaste.
 
 ### 119:94
 
-Tú me salvas, porque he buscado tus preceptos.
+Tuyo soy yo; sálvame, porque tus preceptos busqué.
 
 ### 119:95
 
-Los malvados me han tramado la perdición, pero yo medito tus testimonios.
+A mí esperaron malos para destruirme; tus testimonios consideraré.
 
 ### 119:96
 
-Para todo tu decreto veo un fin, porque tu mandamiento es muy amplio.
+A toda consumación vi fin; ancha es tu mandamiento en gran manera.
 
 ### 119:97
 
-¡Cuánto amo tu ley! Todo el día medito en ella como en conversación.
+¡Cuánto amé tu ley! Todo el día ella es mi meditación.
 
 ### 119:98
 
-De mis enemigos me enseñas tus mandamientos, porque son eternos para mí.
+Más que mis enemigos me hacen sabio tus mandamientos, porque para siempre ella es para mí.
 
 ### 119:99
 
-De todos mis maestros he aprendido sabiduría, porque tus testimonios son conversación para mí.
+Más que todos mis maestros entendí, porque tus testimonios son meditación para mí.
 
 ### 119:100
 
-Entiendo tus preceptos de los ancianos, porque he guardado tus mandamientos.
+Más que ancianos considero, porque tus preceptos guardé.
 
 ### 119:101
 
-De todo camino malo he guardado mis pies, para guardar tus palabras.
+De toda senda mala refrené mis pies, a fin de guardar tu palabra.
 
 ### 119:102
 
-De tus juicios no me he apartado, porque me has enseñado.
+De tus juicios no me aparté, porque tú me enseñaste.
 
 ### 119:103
 
-¿Qué me será dulce a mi boca como tu palabra? Es más dulce que miel a mi paladar.
+¡Cuán suaves son a mi paladar tu dicho, más que miel a mi boca!
 
 ### 119:104
 
-Entiendo tus preceptos, por eso aborrezco todo camino de mentira.
+De tus preceptos considero; por eso aborrecí toda senda de mentira.
 
 ### 119:105
 
-Tu palabra es luz para mis pies y luz para mi camino.
+Lámpara a mi pie es tu palabra, y luz a mi sendero.
 
 ### 119:106
 
-Juro y confirmo que guardaré tus decretos de justicia.
+Juré y lo cumpliré, para guardar los juicios de tu justicia.
 
 ### 119:107
 
-Estoy cansado, Jehová, vivifica mi espíritu conforme a tu palabra.
+Fui afligido hasta el extremo; Jehová, vivifícame conforme a tu palabra.
 
 ### 119:108
 
-Acepta, Señor, las intenciones de mi boca y enseñame tus decretos.
+Ofrendas voluntarias de mi boca acepta ahora, Jehová, y tus juicios enséñame.
 
 ### 119:109
 
-Mi vida está en mis manos constantemente, y tu ley no he olvidado.
+Mi alma está en mi palma continuamente, y tu ley no olvidé.
 
 ### 119:110
 
-Los malvados me han puesto una trampa, pero de tus mandamientos no me apartaré.
+Pusieron malos lazo para mí, y de tus preceptos no me extravié.
 
 ### 119:111
 
-He heredado tus testimonios para siempre, porque son mi alegría.
+Heredé tus testimonios para siempre, porque gozo de mi corazón son ellos.
 
 ### 119:112
 
-He inclinado mi corazón a cumplir tus preceptos para siempre, por amor a ellos.
+Incliné mi corazón a hacer tus estatutos, para siempre, hasta el fin.
 
 ### 119:113
 
-Odio a los que se apartan de ti, pero a tu ley amo.
+A los de doble ánimo aborrecí, y tu ley amé.
 
 ### 119:114
 
-Eres mi refugio y mi escudo; en tus palabras espero.
+Mi escondite y mi escudo eres tú; a tu palabra esperé.
 
 ### 119:115
 
-Aleja de mí a los malvados y guardaré tus mandamientos.
+Apártense de mí, malhechores, y guardaré los mandamientos de mi Dios.
 
 ### 119:116
 
-Sosténme conforme a tu palabra y viviré, y no me avergüences.
+Sosténme conforme a tu dicho, y viviré; y no me avergüences de mi esperanza.
 
 ### 119:117
 
-Sosténme y yo guardaré tus mandamientos, y meditaré en tus decretos constantemente.
+Apóyame, y seré salvo, y miraré en tus estatutos continuamente.
 
 ### 119:118
 
-Apartaste a todos los que se desvían de tus preceptos, porque mentiran sobre ellos.
+Desechaste a todos los que erran de tus estatutos, porque mentira es su engaño.
 
 ### 119:119
 
-Has silenciado a todos los malvados de la tierra, por eso amo tus testimonios.
+Escorias hiciste cesar a todos los malos de la tierra; por eso amé tus testimonios.
 
 ### 119:120
 
-Se ha endurecido mi carne por el temor de ti, y temo tus mandamientos.
+Se eriza de tu temor mi carne, y de tus juicios temí.
 
 ### 119:121
 
-He hecho justicia y rectitud, no me dejarás a los que me oprimen.
+Hice juicio y justicia; no me dejes a mis opresores.
 
 ### 119:122
 
-Trata a tu siervo con bondad, no me dejen oprimir los soberbios.
+Sal fiador por tu siervo para bien; no me opriman insolentes.
 
 ### 119:123
 
-Mis ojos se consumen por tu salvación y por la palabra de tu justicia.
+Mis ojos se consumieron por tu salvación y por el dicho de tu justicia.
 
 ### 119:124
 
-Haz con tu siervo conforme a tu misericordia y enseñame tus estatutos.
+Haz con tu siervo conforme a tu misericordia, y tus estatutos enséñame.
 
 ### 119:125
 
-Yo soy tu siervo, enséñame y conoceré tus testimonios.
+Tu siervo soy yo; hazme entender, y conoceré tus testimonios.
 
 ### 119:126
 
-Es tiempo de hacer por Jehová, han quebrantado tu ley.
+Tiempo de hacer para Jehová; quebrantaron tu ley.
 
 ### 119:127
 
-Por eso amo tus mandamientos más que el oro y la plata.
+Por eso amé tus mandamientos más que oro y más que oro fino.
 
 ### 119:128
 
-Por eso guardo todos tus preceptos, aborrezco todo camino de engaño.
+Por eso todos los preceptos de todo estimé rectos; toda senda de mentira aborrecí.
 
 ### 119:129
 
-Maravillas son tus testimonios, por eso guardo tu ley en mi alma.
+Maravillas son tus testimonios; por eso los guardó mi alma.
 
 ### 119:130
 
-La entrada de tus palabras ilumina, entiendo tus preceptos.
+La apertura de tus palabras alumbra, hace entender a sencillos.
 
 ### 119:131
 
-He abierto mi boca y he suspirado, porque tus mandamientos me amanecieron.
+Mi boca abrí y jadeé, porque a tus mandamientos anhelé.
 
 ### 119:132
 
-Vuelve tu rostro hacia mí y ten misericordia de mí, según el juicio de los que aman tu nombre.
+Vuélvete hacia mí y tenme misericordia, conforme a juicio para amadores de tu nombre.
 
 ### 119:133
 
-Establece mis pasos conforme a tu palabra, y no permitas que el mal domine sobre mí.
+Mis pasos afirma en tu dicho, y no dejes señorear en mí toda iniquidad.
 
 ### 119:134
 
-Redímeme de los que me oprimen, y guardaré tus mandamientos.
+Redímeme de la opresión de hombre, y guardaré tus preceptos.
 
 ### 119:135
 
-Ilumina tu rostro sobre tu siervo, y enséñame tus estatutos.
+Tu rostro haz brillar sobre tu siervo, y enséñame tus estatutos.
 
 ### 119:136
 
-Mis ojos derraman ríos de lágrimas, porque no guardan tu ley.
+Arroyos de aguas bajaron mis ojos, sobre que no guardaron tu ley.
 
 ### 119:137
 
-Eres justo, Señor, y tus juicios son rectos.
+Justo eres tú, Jehová, y rectos tus juicios.
 
 ### 119:138
 
-Has dado mandamientos justos, tus testimonios son fieles y muy amables.
+Mandaste en justicia tus testimonios, y fidelidad en gran manera.
 
 ### 119:139
 
-Mi aflicción se ha vuelto mi enemigo, porque tus palabras han sido olvidadas por mis enemigos.
+Me consumió mi celo, porque olvidaron tus palabras mis adversarios.
 
 ### 119:140
 
-Tus palabras están muy bien ordenadas, y tu siervo las ama.
+Acrisolado es tu dicho en gran manera, y tu siervo lo ama.
 
 ### 119:141
 
-Soy pequeño y menospreciado, pero tus mandamientos no he olvidado.
+Pequeño soy yo y despreciado; tus preceptos no olvidé.
 
 ### 119:142
 
-Tu justicia es justa para siempre, y tu ley es verdad.
+Tu justicia es justicia para siempre, y tu ley verdad.
 
 ### 119:143
 
-Necesitado y afligido estoy, tus mandamientos son mi deleite.
+Angustia y aprieto me hallaron; tus mandamientos son mis deleites.
 
 ### 119:144
 
-Justa es la testimonio de tus preceptos para siempre, enséñame y viviré.
+Justicia son tus testimonios para siempre; hazme entender, y viviré.
 
 ### 119:145
 
-Clamé con todo el corazón, escúchame, Jehová; tus mandamientos guardaré.
+Clamé con todo corazón; respóndeme, Jehová; tus estatutos guardaré.
 
 ### 119:146
 
-Clamé a ti: ‘Salvame’, y guardaré tus testimonios.
+Te clamé; sálvame, y guardaré tus testimonios.
 
 ### 119:147
 
-En la mañana me adelanté y clamé; esperé tu palabra.
+Me anticipé en el alba y clamé; a tu palabra esperé.
 
 ### 119:148
 
-Mis ojos se adelantaron a la guardia, para meditar en tus palabras.
+Se anticiparon mis ojos a las vigilias, para meditar en tu dicho.
 
 ### 119:149
 
-Escúchame conforme a tu misericordia, Jehová; según tu juicio da vida a mi espíritu.
+Mi voz oye conforme a tu misericordia; Jehová, conforme a tu juicio vivifícame.
 
 ### 119:150
 
-Se acercaron los que buscan la maldad, de tu ley se alejaron.
+Se acercaron perseguidores de maldad; de tu ley se alejaron.
 
 ### 119:151
 
-Tú estás cerca, Jehová, y todos tus mandamientos son verdad.
+Cercano eres tú, Jehová, y todos tus mandamientos son verdad.
 
 ### 119:152
 
-Desde antiguo he sabido de tus testimonios, que para siempre estableciste.
+De antemano supe de tus testimonios, porque para siempre los fundaste.
 
 ### 119:153
 
-Mira mi aflicción y líbrame, porque tu ley no he olvidado.
+Mira mi aflicción y líbrame, porque tu ley no olvidé.
 
 ### 119:154
 
-Contesta mi causa y líbrame, porque tu palabra me da vida.
+Aboga mi causa y redímeme; conforme a tu dicho vivifícame.
 
 ### 119:155
 
-La salvación está lejos de los malvados, porque tus preceptos no los han buscado.
+Lejos de malos es salvación, porque tus estatutos no buscaron.
 
 ### 119:156
 
-Tus misericordias son muchas, oh Señor; según tus juicios me has dado vida.
+Tus misericordias son muchas, Jehová; conforme a tus juicios vivifícame.
 
 ### 119:157
 
-Muchos son los que me persiguen y me amenazan, pero de tus testimonios no me he desviado.
+Muchos son mis perseguidores y mis adversarios; de tus testimonios no me desvié.
 
 ### 119:158
 
-He visto a los traidores y me he burlado de ellos, porque tus palabras no los han guardado.
+Vi traidores y me disgusté, que tu dicho no guardaron.
 
 ### 119:159
 
-Mira que tus mandamientos amo, oh Señor; según tu misericordia me has dado vida.
+Mira que tus preceptos amé; Jehová, conforme a tu misericordia vivifícame.
 
 ### 119:160
 
-La verdad es el principio de tus palabras, y todo tu juicio es la justicia eterna.
+La cabeza de tu palabra es verdad, y para siempre todo juicio de tu justicia.
 
 ### 119:161
 
-Los príncipes me persiguen sin motivo, pero tu palabra me da temor.
+Príncipes me persiguieron de balde; y de tu palabra temió mi corazón.
 
 ### 119:162
 
-Me alegro de tu palabra, como quien halla gran botín.
+Me alegro yo sobre tu dicho como el que halla botín mucho.
 
 ### 119:163
 
-Odié la mentira y aborrecí la maldad; tu ley amo.
+Mentira aborrecí y abominé; tu ley amé.
 
 ### 119:164
 
-En siete días te alabo, porque tus juicios son la justicia.
+Siete veces en el día te alabé sobre los juicios de tu justicia.
 
 ### 119:165
 
-La paz es abundante para los que aman tu ley, y no hay tropiezo para ellos.
+Paz mucha a los amadores de tu ley, y no hay para ellos tropiezo.
 
 ### 119:166
 
-En ti espero, Jehová, y guardo tus mandamientos.
+Esperé tu salvación, Jehová, y tus mandamientos hice.
 
 ### 119:167
 
-Guarda mi vida, y amaré tus testimonios con todo mi corazón.
+Guardó mi alma tus testimonios, y los amé en gran manera.
 
 ### 119:168
 
-Guardo tus preceptos y tus testimonios, porque todo mi camino está delante de ti.
+Guardé tus preceptos y tus testimonios, porque todos mis caminos están delante de ti.
 
 ### 119:169
 
-Que mi alabanza se acerque a ti, Jehová, conforme a tu palabra, instrúyeme.
+Acérquese mi clamor delante de ti, Jehová; conforme a tu palabra hazme entender.
 
 ### 119:170
 
-Que mi súplica se acerque a ti, Jehová, conforme a tu palabra, líbrame.
+Venga mi súplica delante de ti; conforme a tu dicho líbrame.
 
 ### 119:171
 
-Abren mis labios para alabarte, porque enseñas tus preceptos.
+Broten mis labios alabanza, porque me enseñas tus estatutos.
 
 ### 119:172
 
-Que mi lengua proclame tu palabra, porque todos tus mandamientos son justos.
+Responda mi lengua tu dicho, porque todos tus mandamientos son justicia.
 
 ### 119:173
 
-Que tu mano me ayude, porque elegí tus preceptos.
+Sea tu mano para ayudarme, porque tus preceptos elegí.
 
 ### 119:174
 
-Espero en tu salvación, Jehová, y tus enseñanzas son mi deleite.
+Anhelé tu salvación, Jehová, y tu ley es mis deleites.
 
 ### 119:175
 
-Que viva mi alma y te alabe, y tus juicios me ayuden.
+Viva mi alma y te alabe, y tus juicios me ayuden.
 
 ### 119:176
 
-Espero en ti, Jehová, como un cordero perdido; busca a tu siervo, porque tus mandamientos no he olvidado.
+Erré como oveja perdida; busca a tu siervo, porque tus mandamientos no olvidé.
 
 ## Capítulo 120
 
+
 ### 120:1
 
-Salmo de subida a Jehová en mi angustia; clamé a él, y me respondió.
+Cántico de las subidas. A Jehová en la angustia a mí clamé, y me respondió.
 
 ### 120:2
 
-Señor, líbrame de la lengua de mentira, de la lengua engañosa.
+Jehová, libra mi alma de labio de mentira, de lengua engañosa.
 
 ### 120:3
 
-¿Qué te dará y qué te añadirá la lengua engañosa?
+¿Qué te dará, y qué te añadirá, lengua engañosa?
 
 ### 120:4
 
-Flechas afiladas de los guerreros, junto a los carbones de los espinos.
+Flechas de valiente afiladas, con brasas de retamas.
 
 ### 120:5
 
-Ay de mí, que he vivido mucho tiempo en Mesec, que he habitado con los tiendas de Qedar.
+¡Ay de mí, porque peregriné en Méshek, habité con tiendas de Qedar!
 
 ### 120:6
 
-Mucho tiempo he vivido con los que odian la paz.
+Mucho habitó para ella mi alma con el que odia la paz.
 
 ### 120:7
 
-Yo soy por la paz, pero cuando hablo, ellos son por la guerra.
+Yo soy paz; y cuando hablo, ellos para la guerra.
 
 ## Capítulo 121
 
+
 ### 121:1
 
-Salmo de subida. Alzaré mis ojos a los montes, ¿de dónde vendrá mi ayuda?
+Cántico para las subidas. Alzaré mis ojos a los montes: ¿de dónde vendrá mi ayuda?
 
 ### 121:2
 
-Mi ayuda viene de Jehová, el que hizo los cielos y la tierra.
+Mi ayuda es de parte de Jehová, hacedor de cielos y tierra.
 
 ### 121:3
 
-No permita que tus pies se tambaleen, no duerma tu guardián.
+No dé al tambaleo tu pie; no se adormezca tu guardián.
 
 ### 121:4
 
-He aquí que no duerme ni duerme, el guardián de Israel.
+He aquí no se adormece ni duerme el guardián de Israel.
 
 ### 121:5
 
-Jehová es tu guardián, Jehová es tu sombra a tu derecha.
+Jehová es tu guardián; Jehová es tu sombra sobre la mano de tu derecha.
 
 ### 121:6
 
-De día el sol no te dañará, ni la luna de noche.
+De día el sol no te herirá, ni la luna en la noche.
 
 ### 121:7
 
-Jehová te guarda de todo mal, guarda tu vida.
+Jehová te guardará de todo mal; guardará tu alma.
 
 ### 121:8
 
-Jehová guarda tu salida y tu entrada desde ahora y hasta siempre.
+Jehová guardará tu salir y tu entrar, desde ahora y hasta siempre.
 
 ## Capítulo 122
 
+
 ### 122:1
 
-Cántico de los degradados de David. Me alegré cuando me dijeron: ‘Vamos a la casa de Jehová’.
+Cántico de las subidas; de David. Me alegré en los que me decían: A la casa de Jehová iremos.
 
 ### 122:2
 
-Nuestras piernas estaban de pie en tus puertas, Jerusalén.
+Estando estaban nuestros pies en tus puertas, Yerushaláyim.
 
 ### 122:3
 
-Jerusalén, la edificada, es como una ciudad que se une para ella.
+Yerushaláyim la edificada como ciudad que se juntó a ella juntamente.
 
 ### 122:4
 
-Allí subieron tribus, tribus de Jehová, testimonio para Israel, para dar gracias al nombre de Jehová.
+Que allá subieron las tribus, tribus de Yah, testimonio a Israel, para dar gracias al nombre de Jehová.
 
 ### 122:5
 
-Porque allí se sientan los tronos para el juicio, tronos para la casa de David.
+Porque allá se sentaron tronos para juicio, tronos para la casa de David.
 
 ### 122:6
 
-Preguntad por la paz de Jerusalén: la amarán sus amigos.
+Pidan paz de Yerushaláyim; reposen los que te aman.
 
 ### 122:7
 
-Que haya paz en tu ciudadela, y sosiego en tus torres.
+Sea paz en tu muralla, sosiego en tus palacios.
 
 ### 122:8
 
-Por amor a mi hermano y a mi amigo, digo: ‘¡Que haya paz en ti!’
+Por causa de mis hermanos y mis compañeros, hablaré ahora: Paz en ti.
 
 ### 122:9
 
-Por amor a la casa de Jehová, nuestro Dios, busco tu bienestar.
+Por causa de la casa de Jehová nuestro Dios, buscaré bien para ti.
 
 ## Capítulo 123
 
+
 ### 123:1
 
-Cántico de los degradados. Hacia ti levanto mis ojos, que habita en los cielos.
+Cántico de las subidas. A ti alcé mis ojos, el que habita en los cielos.
 
 ### 123:2
 
-Como los ojos de los siervos a la mano de sus amos, como los ojos de la sierva a la mano de su señora, así nuestros ojos a Jehová, nuestro Dios, hasta que se compadezca de nosotros.
+He aquí como ojos de siervos a la mano de sus señores, como ojos de sierva a la mano de su señora, así nuestros ojos a Jehová nuestro Dios, hasta que tenga misericordia de nosotros.
 
 ### 123:3
 
-Ten piedad de nosotros, Jehová, ten piedad de nosotros, porque somos hartos de menosprecio.
+Ten misericordia de nosotros, Jehová, ten misericordia de nosotros, porque mucho nos saciamos de menosprecio.
 
 ### 123:4
 
-Harto está de menosprecio nuestra alma; de la risa de los que nos desprecian y del desprecio de los soberbios.
+Mucho se sació para ella nuestra alma: el escarnio de los despreocupados, el menosprecio de los soberbios.
 
 ## Capítulo 124
 
+
 ### 124:1
 
-Salmo de los degradados. Si Jehová no estuviera a nuestro lado, diríjase ahora, Israel.
+Cántico de las subidas; de David. Si no Jehová que estaba por nosotros —diga ahora Israel—
 
 ### 124:2
 
-Si Jehová no estuviera a nuestro lado, cuando se levantara contra nosotros el hombre.
+si no Jehová que estaba por nosotros cuando se levantó sobre nosotros hombre,
 
 ### 124:3
 
-Entonces nos hubieran devorado los vivos por la ira de sus rostros.
+entonces vivos nos habrían tragado, cuando ardió su nariz en nosotros;
 
 ### 124:4
 
-Entonces nos hubieran cubierto las aguas, el torrente nos habría pasado por encima.
+entonces las aguas nos habrían inundado; el torrente pasó sobre nuestra alma;
 
 ### 124:5
 
-Entonces nos hubieran cubierto las aguas, las aguas de los soberbios.
+entonces pasaron sobre nuestra alma las aguas las insolentes.
 
 ### 124:6
 
-Bendito sea Jehová, que no nos dio de comer a sus dientes.
+Bendito Jehová, que no nos dio por presa a sus dientes.
 
 ### 124:7
 
-Nuestra alma se ha librado como un pájaro de la trampa de los cazadores; la trampa se ha roto y nosotros hemos escapado.
+Nuestra alma como pájaro escapó del lazo de los cazadores; el lazo se rompió, y nosotros escapamos.
 
 ### 124:8
 
-Nuestro auxilio está en el nombre de Jehová, que hizo los cielos y la tierra.
+Nuestra ayuda está en el nombre de Jehová, hacedor de cielos y tierra.
 
 ## Capítulo 125
 
+
 ### 125:1
 
-Salmo de los degradados. Los que confían en Jehová son como el monte Sion, que no se mueve para siempre.
+Cántico de las subidas. Los que confían en Jehová como el monte Tsiyón: no se mueve; para siempre permanece.
 
 ### 125:2
 
-Jerusalén está rodeada de montañas, y Jehová está alrededor de su pueblo, desde ahora hasta siempre.
+Yerushaláyim: montes alrededor de ella, y Jehová alrededor de su pueblo, desde ahora y hasta siempre.
 
 ### 125:3
 
-Porque el bastón de la maldad no descansará sobre la porción de los justos, para que no extiendan las manos de los justos en maldad.
+Porque no reposará la vara de la maldad sobre la suerte de los justos, a fin de que no envíen los justos en injusticia sus manos.
 
 ### 125:4
 
-Jehová hace bien a los buenos y a los rectos en sus corazones.
+Haz bien, Jehová, a los buenos y a los rectos en sus corazones.
 
 ### 125:5
 
-Y los que se inclinan serán llevados a las redes que han preparado; Jehová hará que los obreros de la maldad sean llevados. Paz sobre Israel.
+Y a los que tuercen sus caminos torcidos, los hará ir Jehová con los hacedores de iniquidad. Paz sobre Israel.
 
 ## Capítulo 126
 
+
 ### 126:1
 
-Salmo de los degradados. Cuando Jehová devolvió la captividad de Sion, éramos como soñadores.
+Cántico de las subidas. Al volver Jehová la vuelta de Tsiyón, éramos como soñadores.
 
 ### 126:2
 
-Entonces se llenará de risa la boca nuestra, y la lengua nuestra de alabanza. Entonces se dirán entre las naciones: Grande ha hecho Jehová con ellos.
+Entonces se llenó de risa nuestra boca, y nuestra lengua de canto; entonces dirán en las naciones: Grande hizo Jehová para hacer con estos.
 
 ### 126:3
 
-Grande ha hecho Jehová con nosotros, y nosotros nos alegramos.
+Grande hizo Jehová para hacer con nosotros; éramos alegres.
 
 ### 126:4
 
-Devuelve, Jehová, la captividad de los cautivos, como ríos en el desierto.
+Haz volver, Jehová, nuestra cautividad como torrentes en el Néguev.
 
 ### 126:5
 
-Los que siembran en lágrimas cosecharán en alabanza.
+Los que siembran con lágrima, con canto segarán.
 
 ### 126:6
 
-El que va y llora, llevando la simiente, vendrá con alabanza, trayendo sus racimos.
+Andando andará y llorando, llevando la bolsa de la semilla; viniendo vendrá con canto, llevando sus gavillas.
 
 ## Capítulo 127
 
+
 ### 127:1
 
-Salmo de los degradados. Si Jehová no edifica la casa, en vano trabajan los que la edifican. Si Jehová no guarda la ciudad, en vano velan los que la guardan.
+Cántico de las subidas; de Shelomó. Si Jehová no edifica la casa, en vano trabajan en ella sus edificadores; si Jehová no guarda la ciudad, en vano vela el guardián.
 
 ### 127:2
 
-En vano se levantan temprano, se levantan tarde, y comen el pan de la aflicción; porque su compañero duerme.
+En vano es a ustedes los que madrugan a levantarse, los que tardan en sentarse, comedores de pan de dolores; así da a su amado sueño.
 
 ### 127:3
 
-He aquí, la herencia del SEÑOR son hijos, el fruto del vientre su salario.
+He aquí herencia de Jehová: hijos; salario, fruto del vientre.
 
 ### 127:4
 
-Como flechas en la mano del valiente, así son los hijos de la juventud.
+Como flechas en mano de valiente, así los hijos de la juventud.
 
 ### 127:5
 
-Bienaventurado el varón que llena su aljibe, no se avergonzarán de ellos, porque hablarán a sus enemigos en la puerta.
+Dichoso el varón que llenó su aljaba de ellos; no se avergonzarán, porque hablarán con enemigos en la puerta.
 
 ## Capítulo 128
 
+
 ### 128:1
 
-Salmo de las subidas. Bienaventurado todo el que teme al SEÑOR, que anda en sus caminos.
+Cántico de las subidas. Dichoso todo el que teme a Jehová, el que anda en sus caminos.
 
 ### 128:2
 
-Fatiga tus manos, porque comerás; bienaventurado eres, y te irá bien.
+El trabajo de tus palmas cuando comas: dichoso tú, y bien a ti.
 
 ### 128:3
 
-Tu mujer será como la vid fructífera en los extremos de tu casa, tus hijos como plantas de olivo alrededor de tu mesa.
+Tu mujer como vid fructífera en los lados de tu casa; tus hijos como plantones de olivos alrededor de tu mesa.
 
 ### 128:4
 
-He aquí que así será bendecido el varón que teme al SEÑOR.
+He aquí que así será bendecido el varón que teme a Jehová.
 
 ### 128:5
 
-Te bendecirá el SEÑOR desde Sion; veas la prosperidad de Jerusalén todos los días de tu vida.
+Te bendiga Jehová desde Tsiyón, y veas en el bien de Yerushaláyim todos los días de tu vida.
 
 ### 128:6
 
-Veas a tus hijos hijos de tus hijos; paz sobre Israel.
+Y veas hijos a tus hijos. Paz sobre Israel.
 
 ## Capítulo 129
 
+
 ### 129:1
 
-Salmo de las subidas. Muchas veces me han oprimido desde mi juventud, Israel, dícelo ahora.
+Cántico de las subidas. Mucho me angustieron desde mi juventud —diga ahora Israel—
 
 ### 129:2
 
-Muchas veces me han oprimido desde mi juventud, aún no pudieron conmigo.
+mucho me angustieron desde mi juventud; también no pudieron contra mí.
 
 ### 129:3
 
-Sobre mí han cavado, han cavado profundos, han alargado su mano.
+Sobre mi espalda araron aradores; alargaron sus surcos.
 
 ### 129:4
 
-El SEÑOR es justo; corta las cuerdas de los malvados.
+Jehová justo cortó las cuerdas de los impíos.
 
 ### 129:5
 
-Se avergonzarán y retrocederán; todos los que odian a Sion.
+Sean avergonzados y vuelvan atrás todos los que odian a Tsiyón.
 
 ### 129:6
 
-Serán como la hierba del tejado, antes de que la siega seca.
+Sean como hierba de tejados, que antes de arrancarse se seca,
 
 ### 129:7
 
-No llenó su mano de la siega, ni su brazo de la recogida.
+con la que no llenó su palma el segador, ni su seno el que junta gavillas,
 
 ### 129:8
 
-Y no dijeron los que pasan: Bendito sea el SEÑOR, al vosotros. Bendecimos a vosotros en el nombre del SEÑOR.
+y no dijeron los pasantes: Bendición de Jehová a ustedes; los bendijimos a ustedes en el nombre de Jehová.
 
 ## Capítulo 130
 
+
 ### 130:1
 
-Cántico de los canticos. Desde lo más profundo te heclamado, SEÑOR.
+Cántico de las subidas. Desde las profundidades te clamé, Jehová.
 
 ### 130:2
 
-Señor, escucha mi voz; que tus oídos estén atentos a la voz de mis súplicas.
+Adonai, oye en mi voz; estén tus oídos atentos a la voz de mis ruegos.
 
 ### 130:3
 
-Si guardas los pecados, Señor, ¿quién podrá subsistir?
+Si iniquidades guardas, Yah, Adonai, ¿quién se parará?
 
 ### 130:4
 
-Porque contigo está el perdón, para que seamos temidos.
+Porque contigo está el perdón, a fin de que seas temido.
 
 ### 130:5
 
-En el SEÑOR he puesto mi esperanza; mi alma ha esperado, y he esperado por su palabra.
+Esperé a Jehová; esperó mi alma, y a su palabra aguardé.
 
 ### 130:6
 
-Mi alma a mi Señor; de los que guardan la mañana, guardan la mañana.
+Mi alma a Adonai más que los guardianes a la mañana, guardianes a la mañana.
 
 ### 130:7
 
-Israel esperará en el SEÑOR; porque con el SEÑOR hay misericordia, y mucha redención con él.
+Espere Israel a Jehová, porque con Jehová está la misericordia, y mucha con él redención.
 
 ### 130:8
 
-Él redimirá a Israel de todos sus pecados.
+Y él redimirá a Israel de todas sus iniquidades.
 
 ## Capítulo 131
 
+
 ### 131:1
 
-Salmo de las subidas de David. Señor, no se ha elevado mi corazón, ni han mirado con altivez mis ojos, ni he andado en cosas grandes y maravillosas más allá de mí.
+Cántico de las subidas; de David. Jehová, no se ensoberbeció mi corazón, ni se alzaron mis ojos, ni anduve en grandes ni en maravillas más que yo.
 
 ### 131:2
 
-Si no he puesto mi alma como un niño pequeño, como un niño pequeño en brazos de su madre, así es mi alma enmudecida.
+Si no igualé y aquieté mi alma como destetado sobre su madre, como el destetado está sobre mí mi alma.
 
 ### 131:3
 
-Israel esperará en el SEÑOR desde ahora y hasta siempre.
+Espere Israel a Jehová, desde ahora y hasta siempre.
 
 ## Capítulo 132
 
+
 ### 132:1
 
-Salmo de las subidas. Acuérdate, SEÑOR, de David y de todas sus aflicciones.
+Cántico de las subidas. Acuérdate, Jehová, a David de todas sus aflicciones,
 
 ### 132:2
 
-Que juró al SEÑOR, y prometió al Dios de Jacob.
+que juró a Jehová, votó al Fuerte de Yaakov:
 
 ### 132:3
 
-Si entro en la tienda de mi casa, o si me acuesto en mi lecho.
+Si entro en la tienda de mi casa, si subo sobre el lecho de mi yacija,
 
 ### 132:4
 
-Si no doy descanso a mis ojos, a mis sienes no daré sueño.
+si doy sueño a mis ojos, a mis párpados adormecimiento,
 
 ### 132:5
 
-Hasta que hallare un lugar para el SEÑOR, moradas para el Dios de Jacob.
+hasta que halle lugar para Jehová, moradas para el Fuerte de Yaakov.
 
 ### 132:6
 
-He aquí que hemos oído de Efrata, hemos hallado en los campos del bosque.
+He aquí la oímos en Efratá; la hallamos en campos de Yaar.
 
 ### 132:7
 
-Vamos a sus moradas, nos postraremos ante el tabernáculo de sus pies.
+Entremos a sus moradas; postrémonos al estrado de sus pies.
 
 ### 132:8
 
-Levántate, SEÑOR, a tu descanso, tú y el arca de tu fortaleza.
+Levántate, Jehová, a tu reposo, tú y el arca de tu fuerza.
 
 ### 132:9
 
@@ -9153,996 +9286,1014 @@ Tus sacerdotes se vistan de justicia, y tus fieles canten.
 
 ### 132:10
 
-Por amor a David, tu siervo, no apartes tu rostro del Mesías, tu ungido.
+Por causa de David tu siervo, no hagas volver el rostro de tu ungido.
 
 ### 132:11
 
-Jurarás a David la verdad, no la cambiarás: de la simiente de tu vientre estableceré un trono para él.
+Juró Jehová a David verdad; no se volverá de ella: Del fruto de tu vientre pondré para trono a ti.
 
 ### 132:12
 
-Si guardan tus pactos y tus testimonios, yo les enseñaré a sus hijos, para que guarden siempre tu trono.
+Si guardan tus hijos mi pacto y mi testimonio este que les enseñaré, también sus hijos hasta perpetuidad se sentarán para trono a ti.
 
 ### 132:13
 
-Porque ha elegido a Sion para que sea su morada.
+Porque eligió Jehová a Tsiyón; la deseó para asiento para él:
 
 ### 132:14
 
-Esta es mi reposo para siempre, aquí me quedaré, porque he deseado.
+Este es mi reposo hasta perpetuidad; aquí me sentaré, porque la deseé.
 
 ### 132:15
 
-Haré que sus pobres coman pan, y que sus mendigos se regocijen.
+Su provisión bendiciendo bendeciré; a sus pobres hartaré de pan.
 
 ### 132:16
 
-Sus sacerdotes se vistan de salvación, y sus fieles canten.
+Y a sus sacerdotes vestiré de salvación, y sus fieles cantando cantarán.
 
 ### 132:17
 
-Allí engrandeceré la corona de David, prepararé una lámpara para su ungido.
+Allí haré brotar cuerno a David; preparé lámpara a mi ungido.
 
 ### 132:18
 
-Sus enemigos los cubriré de vergüenza, y sobre ellos brillará su corona.
+A sus enemigos vestiré de vergüenza, y sobre él florecerá su diadema.
 
 ## Capítulo 133
 
+
 ### 133:1
 
-Cántico de los peregrinos de David: He aquí cuán bueno y cuán agradable es que los hermanos vivan juntos.
+Cántico de las subidas; de David. He aquí qué bueno y qué agradable: habitar hermanos también juntos.
 
 ### 133:2
 
-Como el aceite precioso sobre la cabeza, que desciende al vestido sacerdotal de Aarón, así desciende la gracia sobre los que la reciben.
+Como el aceite el bueno sobre la cabeza, que desciende sobre la barba, barba de Aarón, que desciende sobre la boca de sus vestiduras;
 
 ### 133:3
 
-Como el rocío de Hérmón que desciende sobre los montes de Sion, porque allí ha dado el Señor la bendición: vida para siempre.
+como rocío de Jermón que desciende sobre los montes de Tsiyón, porque allí mandó Jehová la bendición, vida hasta el siempre.
 
 ## Capítulo 134
 
+
 ### 134:1
 
-Salmo de las subidas: He aquí bendecid al Señor, todos sus siervos, los que se levantan en la casa del Señor de noche.
+Cántico de las subidas. He aquí, bendigan a Jehová todos los siervos de Jehová, los que están en la casa de Jehová en las noches.
 
 ### 134:2
 
-Alza las manos santas y bendecid al Señor.
+Alcen sus manos en santidad, y bendigan a Jehová.
 
 ### 134:3
 
-Bendiga ti, Señor, desde Sion, el que hizo los cielos y la tierra.
+Te bendiga Jehová desde Tsiyón, hacedor de cielos y tierra.
 
 ## Capítulo 135
 
+
 ### 135:1
 
-Alabad al Señor, alabad el nombre del Señor, alabad al Señor, sus siervos.
+¡Alaben a Yah! Alaben el nombre de Jehová; alaben, siervos de Jehová,
 
 ### 135:2
 
-Que se levanten en la casa del Señor, en sus atrios, en la casa de nuestro Dios.
+los que están en la casa de Jehová, en los atrios de la casa de nuestro Dios.
 
 ### 135:3
 
-Alabad al Señor, porque es bueno, cantad al Señor, porque es agradable.
+¡Alaben a Yah!, porque bueno es Jehová; salmodien a su nombre, porque agradable.
 
 ### 135:4
 
-Porque Jacob eligió para sí al Señor, a Israel para su heredad.
+Porque a Yaakov eligió para sí Yah, a Israel para su posesión.
 
 ### 135:5
 
-Porque yo sé que el Señor es grande, y que nuestro Señor es sobre todos los dioses.
+Porque yo sé que grande es Jehová, y nuestro Adonai más que todos los dioses.
 
 ### 135:6
 
-Todo lo que el Señor quiere, lo hace en los cielos y en la tierra, en los mares y en todas las profundidades.
+Todo lo que deseó Jehová hizo en los cielos y en la tierra, en los mares y todos los abismos;
 
 ### 135:7
 
-Que hace subir las nubes desde el extremo de la tierra, que hace salir el rayo con la lluvia, que saca el viento de sus tesoros.
+el que hace subir nubes desde el extremo de la tierra; relámpagos para la lluvia hizo; el que saca viento de sus tesoros;
 
 ### 135:8
 
-Que hirió a los primogénitos de Egipto, desde el hombre hasta el animal.
+el que hirió a los primogénitos de Mizraim, desde hombre hasta bestia;
 
 ### 135:9
 
-Envío señales y maravillas en medio de ti, Egipto, contra Faraón y contra todos sus siervos.
+envió señales y prodigios en medio de ti, Mizraim, en Faraón y en todos sus siervos;
 
 ### 135:10
 
-Golpeó a muchos pueblos y mató a reyes poderosos.
+el que hirió naciones muchas, y mató reyes fuertes:
 
 ### 135:11
 
-A Sehón, rey de los amorreos, y a Og, rey de Basán, y a todos los reyes de Canaán.
+a Sijón rey del amorí, y a Og rey del Bashán, y a todos los reinos de Canaán;
 
 ### 135:12
 
-Y les dio su tierra por herencia, herencia a Israel, su pueblo.
+y dio su tierra por herencia, herencia a Israel su pueblo.
 
 ### 135:13
 
-Yahveh, tu nombre es para siempre; Yahveh, tu memoria de generación en generación.
+Jehová, tu nombre para siempre; Jehová, tu memorial a generación y generación.
 
 ### 135:14
 
-Porque Yahveh juzga a su pueblo y a sus siervos se apiada.
+Porque juzgará Jehová a su pueblo, y sobre sus siervos se arrepentirá.
 
 ### 135:15
 
-Los ídolos de las naciones son plata y oro, obra de manos humanas.
+Los ídolos de las naciones son plata y oro, obra de manos de hombre.
 
 ### 135:16
 
-Tienen boca y no hablan, tienen ojos y no ven.
+Boca a ellos y no hablan; ojos a ellos y no ven;
 
 ### 135:17
 
-Tienen oídos y no oyen, no hay espíritu en su boca.
+oídos a ellos y no escuchan; también no hay aliento en su boca.
 
 ### 135:18
 
-Como ellos son sus fabricantes; todo aquel que en ellos confía será como ellos.
+Como ellos serán sus hacedores, todo el que confía en ellos.
 
 ### 135:19
 
-La casa de Israel bendiga a Yahveh; la casa de Aarón bendiga a Yahveh.
+Casa de Israel, bendigan a Jehová; casa de Aarón, bendigan a Jehová;
 
 ### 135:20
 
-La casa de Leví bendiga a Yahveh; los que temen a Yahveh bendigan a Yahveh.
+casa de Leví, bendigan a Jehová; temerosos de Jehová, bendigan a Jehová.
 
 ### 135:21
 
-Bendito Yahveh desde Sion, el que habita en Jerusalén. Alabad a Yahveh.
+Bendito Jehová desde Tsiyón, el que habita en Yerushaláyim. ¡Alaben a Yah!
 
 ## Capítulo 136
 
+
 ### 136:1
 
-Alabad a Yahveh, porque es bueno; porque su misericordia dura por siempre.
+Den gracias a Jehová, porque bueno; porque para siempre su misericordia.
 
 ### 136:2
 
-Alabad al Dios de dioses, porque su misericordia dura por siempre.
+Den gracias al Dios de los dioses; porque para siempre su misericordia.
 
 ### 136:3
 
-Alabad al Señor de señores, porque su misericordia dura por siempre.
+Den gracias al Adonai de los señores; porque para siempre su misericordia.
 
 ### 136:4
 
-Porque hace maravillas grandes, porque su misericordia dura por siempre.
+Al hacedor de maravillas grandes solo él; porque para siempre su misericordia.
 
 ### 136:5
 
-Porque hizo los cielos con entendimiento, porque su misericordia dura por siempre.
+Al hacedor de los cielos con entendimiento; porque para siempre su misericordia.
 
 ### 136:6
 
-Porque extendió la tierra sobre el mar, porque su misericordia dura por siempre.
+Al que extiende la tierra sobre las aguas; porque para siempre su misericordia.
 
 ### 136:7
 
-Porque hizo las grandes luces, porque su misericordia dura por siempre.
+Al hacedor de luces grandes; porque para siempre su misericordia.
 
 ### 136:8
 
-A la sol para que reine durante el día, porque su misericordia dura por siempre.
+El sol para dominio en el día; porque para siempre su misericordia.
 
 ### 136:9
 
-A la luna y a las estrellas para que gobiernen durante la noche, porque su misericordia dura por siempre.
+La luna y estrellas para dominios en la noche; porque para siempre su misericordia.
 
 ### 136:10
 
-Porque castigó a Egipto con sus primogénitos, porque su misericordia dura por siempre.
+Al que hirió a Mizraim en sus primogénitos; porque para siempre su misericordia.
 
 ### 136:11
 
-Y sacó a Israel del medio de ellos, porque su misericordia dura por siempre.
+Y sacó a Israel de en medio de ellos; porque para siempre su misericordia.
 
 ### 136:12
 
-Con mano fuerte y brazo extendido, porque su misericordia dura por siempre.
+Con mano fuerte y con brazo extendido; porque para siempre su misericordia.
 
 ### 136:13
 
-Y cortó el mar Rojo en pedazos, porque su misericordia dura por siempre.
+Al que cortó el mar de Suf en cortes; porque para siempre su misericordia.
 
 ### 136:14
 
-Y sacó a Israel por medio de él, porque su misericordia dura por siempre.
+Y hizo pasar a Israel en medio de él; porque para siempre su misericordia.
 
 ### 136:15
 
-Y desvaneció a Faraón y a su ejército en el mar Rojo, porque su misericordia dura por siempre.
+Y sacudió a Faraón y su ejército en el mar de Suf; porque para siempre su misericordia.
 
 ### 136:16
 
-Y guió a su pueblo en el desierto, porque su misericordia dura por siempre.
+Al que hizo andar a su pueblo en el desierto; porque para siempre su misericordia.
 
 ### 136:17
 
-Y derribó a los reyes poderosos, porque su misericordia dura por siempre.
+Al que hirió reyes grandes; porque para siempre su misericordia.
 
 ### 136:18
 
-Y mató a los reyes poderosos, porque su misericordia dura por siempre.
+Y mató reyes majestuosos; porque para siempre su misericordia.
 
 ### 136:19
 
-A Sihón, rey de los amorreos, porque su misericordia dura por siempre.
+A Sijón rey del amorí; porque para siempre su misericordia.
 
 ### 136:20
 
-Y a Og, rey de Basán, porque su misericordia dura por siempre.
+Y a Og rey del Bashán; porque para siempre su misericordia.
 
 ### 136:21
 
-Y dio sus tierras por heredad, porque su misericordia dura por siempre.
+Y dio su tierra por herencia; porque para siempre su misericordia.
 
 ### 136:22
 
-Por heredad a Israel, su siervo, porque su misericordia dura por siempre.
+Herencia a Israel su siervo; porque para siempre su misericordia.
 
 ### 136:23
 
-En nuestra humillación se acordó de nosotros, porque su misericordia dura por siempre.
+Que en nuestro abatimiento se acordó de nosotros; porque para siempre su misericordia.
 
 ### 136:24
 
-Nos libró de nuestros enemigos, porque su misericordia dura por siempre.
+Y nos libró de nuestros opresores; porque para siempre su misericordia.
 
 ### 136:25
 
-Da de comer a toda criatura, porque su misericordia dura por siempre.
+El que da pan a toda carne; porque para siempre su misericordia.
 
 ### 136:26
 
-Alabad al Dios de los cielos, porque su misericordia dura por siempre.
+Den gracias al Dios de los cielos; porque para siempre su misericordia.
 
 ## Capítulo 137
 
+
 ### 137:1
 
-Sobre los ríos de Babilonia, allí nos sentamos y lloramos al recordar a Sion.
+Sobre los ríos de Bavel, allí nos sentamos, también lloramos al acordarnos de Tsiyón.
 
 ### 137:2
 
-Sobre los sauces en medio de ella, colgamos nuestros arpa.
+Sobre sauces en medio de ella colgamos nuestras cítaras.
 
 ### 137:3
 
-Porque allí nos pidieron que cantáramos una canción y los que se burlaban nos pedían alegría: cantadnos una canción de Sion.
+Porque allí nos pidieron nuestros cautivadores palabras de cántico, y nuestros tormentores alegría: Canten a nosotros de cántico de Tsiyón.
 
 ### 137:4
 
-¿Cómo cantaremos el cántico del Señor en tierra extraña?
+¿Cómo cantaremos el cántico de Jehová sobre tierra de extranjero?
 
 ### 137:5
 
-Si no recuerdo a ti, Jerusalén, que mi mano derecha se olvide.
+Si te olvido, Yerushaláyim, olvide mi derecha.
 
 ### 137:6
 
-Se pegará mi lengua a mi paladar si no recuerdo a ti, si no alzo a Jerusalén sobre la cumbre de mi alegría.
+Péguese mi lengua a mi paladar si no me acuerdo de ti, si no alzo a Yerushaláyim sobre la cabeza de mi alegría.
 
 ### 137:7
 
-Acuérdate, Señor, de los hijos de Edom, de aquel día de Jerusalén, que dijeron: ¡Arrasen, arrasen hasta la fundación!
+Acuérdate, Jehová, a los hijos de Edom el día de Yerushaláyim, los que decían: ¡Arrasen, arrasen hasta el cimiento en ella!
 
 ### 137:8
 
-Hija de Babilonia, la devastada, ¡feliz el que te devuelva el pago que te hiciste a ti misma!
+Hija de Bavel la devastada: dichoso el que te pague a ti tu retribución que retribuyiste a nosotros.
 
 ### 137:9
 
-¡Feliz el que te agarre y te arroje a las rocas tus hijos!
+Dichoso el que tome y estrelle a tus pequeñuelos contra la peña.
 
 ## Capítulo 138
 
+
 ### 138:1
 
-Te alabo en todo mi corazón, ante los dioses te alabo.
+De David. Te daré gracias con todo mi corazón; delante de los dioses te salmodiaré.
 
 ### 138:2
 
-Me postraré en tu santuario y te alabaré por tu misericordia y por tu verdad, porque has exaltado tus palabras sobre todo tu nombre.
+Me postraré hacia el templo de tu santidad, y daré gracias a tu nombre por tu misericordia y por tu verdad; porque engrandeciste sobre todo tu nombre tu dicho.
 
 ### 138:3
 
-En el día que te llamé, me respondiste y me exaltaste en mi alma con fuerza.
+En el día que clamé, me respondiste; me envalentonaste en mi alma con fuerza.
 
 ### 138:4
 
-Te alabarán, Señor, todos los reyes de la tierra, porque han oído las palabras de tu boca.
+Te darán gracias, Jehová, todos los reyes de la tierra, porque oyeron los dichos de tu boca.
 
 ### 138:5
 
-Y cantarán en los caminos del Señor, porque grande es la gloria del Señor.
+Y cantarán en los caminos de Jehová, porque grande es la gloria de Jehová.
 
 ### 138:6
 
-Porque el Señor es alto, pero mira a los humildes; y desde lejos ve el alto.
+Porque excelso es Jehová, y al humilde mira; y al altivo desde lejos conoce.
 
 ### 138:7
 
-Si camino en medio de la angustia, me darás la vida; a la derecha de tus enemigos extenderás tu mano y me salvarás.
+Si ando en medio de angustia, me vivificarás; contra el furor de mis enemigos enviarás tu mano, y me salvará tu derecha.
 
 ### 138:8
 
-El Señor completará en mi favor, el Señor tu misericordia es para siempre; no destruyas las obras de tus manos.
+Jehová completará por mí; Jehová, tu misericordia para siempre; las obras de tus manos no abandones.
 
 ## Capítulo 139
 
+
 ### 139:1
 
-Para el director, de David, un salmo: Señor, me has examinado y conocido.
+Al director. De David. Salmo. Jehová, me escudriñaste y conociste.
 
 ### 139:2
 
-Tú conoces mi descanso y mi levantamiento; has formado a mi vecino lejos.
+Tú conociste mi sentarme y mi levantarme; entendiste mi pensamiento desde lejos.
 
 ### 139:3
 
-Mis caminos y mis lechos me has tejiendo; y has conocido todos mis caminos.
+Mi senda y mi acostarme cribas, y todos mis caminos acostumbras.
 
 ### 139:4
 
-Porque no hay palabra en mi lengua; he aquí, Señor, tú la conoces toda.
+Porque no hay palabra en mi lengua: he aquí, Jehová, conociste toda ella.
 
 ### 139:5
 
-Detrás y delante me has cercado; y has puesto sobre mí tu mano.
+Detrás y delante me cercaste, y pusiste sobre mí tu palma.
 
 ### 139:6
 
-Tus maravillas son demasiado altas para mí; no puedo alcanzarlas.
+Conocimiento demasiado maravilloso para mí; alto es; no puedo a él.
 
 ### 139:7
 
-¿Adónde iré de tu espíritu? ¿Adónde huiré de tu presencia?
+¿Adónde iré de tu espíritu? ¿Y adónde de tu rostro huiré?
 
 ### 139:8
 
-Si subo a los cielos, allí estás; si bajo a la abisal, allí también estás.
+Si subo a los cielos, allí tú; y si tiendo Sheol, he aquí tú.
 
 ### 139:9
 
-Elevaré mis alas al amanecer; me asentaré en el extremo del mar.
+Si tomo alas de alba, si habito en el extremo del mar,
 
 ### 139:10
 
-Incluso allí tu mano me guiará; tu derecha me sostendrá.
+también allí tu mano me guiará, y me asirá tu derecha.
 
 ### 139:11
 
-Y diré: ¡Ah, la oscuridad me consumirá! ¡La noche será para mí luz!
+Y dije: Ciertamente tinieblas me aplastarán, y noche luz alrededor de mí.
 
 ### 139:12
 
-Incluso la oscuridad no oculta de ti; la noche es como el día; la oscuridad y la luz son iguales.
+También las tinieblas no oscurecen de ti, y la noche como el día alumbra; como la oscuridad, como la luz.
 
 ### 139:13
 
-Porque tú me has formado; me has tejido en el seno de mi madre.
+Porque tú adquiriste mis riñones; me tejiste en el vientre de mi madre.
 
 ### 139:14
 
-Te alabaré porque tus maravillas son temibles; tus obras son maravillosas; mi alma lo sabe muy bien.
+Te daré gracias, porque de modo temible fui diferenciado; maravillosas son tus obras, y mi alma lo sabe mucho.
 
 ### 139:15
 
-No se oculta de ti mi hueso; en el secreto te fui formado; tejido en las profundidades de la tierra.
+No fue oculto mi hueso de ti, cuando fui hecho en secreto, bordado en las profundidades de la tierra.
 
 ### 139:16
 
-Mis ojos vieron tu obra no formada; según tu libro todos fueron escritos; fueron formados y no uno de ellos.
+Mi embrión vieron tus ojos, y en tu libro todos ellos fueron escritos; días fueron formados, y no uno entre ellos.
 
 ### 139:17
 
-¿Qué valor tienen tus amigos, oh Dios? ¿Qué peso tienen los mortales?
+Y a mí, ¡cuán preciosos tus pensamientos, El! ¡Cuán fuertes sus cabezas!
 
 ### 139:18
 
-Si los cuento, son más que los granos de arena; al despertar, estoy contigo.
+Si los cuento, más que la arena se multiplican; desperté, y aún estoy contigo.
 
 ### 139:19
 
-Si matas, oh Dios, a los malvados, los hombres de sangre huirán de ti.
+¡Si mataras, Dios, al malvado! Y hombres de sangre, apártense de mí,
 
 ### 139:20
 
-Los que te hablan con mentira, los que levantan contra ti falsas acusaciones.
+los que te dicen para trama; alzaron para vanidad tus enemigos.
 
 ### 139:21
 
-¿No aborreceré a tus enemigos, oh Señor? ¿No me opondré a los que se levantan contra ti?
+¿No a tus aborrecedores, Jehová, aborreceré, y con tus levantados contendré?
 
 ### 139:22
 
-La totalidad del odio que siento es para mis enemigos; para los que me odian serán ellos.
+Con odio completo los aborrecí; por enemigos me fueron.
 
 ### 139:23
 
-Examina/me, oh Dios, y conoce mi corazón; pruébame y conoce mis pensamientos.
+Escudríñame, El, y conoce mi corazón; pruébame, y conoce mis inquietudes;
 
 ### 139:24
 
-Ve si hay en mí algún camino de desviación, y guíame en el camino eterno.
+y ve si hay camino de dolor en mí, y guíame en camino eterno.
 
 ## Capítulo 140
 
+
 ### 140:1
 
-Para el director: Salmo de David. Señor, líbrame de hombre malvado, del hombre violento resguarda/me.
+Al director. Salmo de David. Líbrame, Jehová, de hombre malo; de hombre de violencias guárdame,
 
 ### 140:2
 
-Que piensan mal en su corazón, cada día se preparan para la guerra.
+que pensaron males en el corazón; todo el día provocan guerras.
 
 ### 140:3
 
-Afilan su lengua como serpiente venenosa, como cobra tóxica, bajo sus labios, ¡Selah!
+Aguzaron su lengua como serpiente; veneno de áspid bajo sus labios. Selá.
 
 ### 140:4
 
-Señor, guarda/me de la mano del malvado, del hombre violento resguarda/me, que piensan apartar mis pasos.
+Guárdame, Jehová, de las manos del malvado; de hombre de violencias guárdame, que pensaron derribar mis pasos.
 
 ### 140:5
 
-Enterraron trampas para mí en el camino, y extendieron redes a la orilla del camino. Pusieron cepos para mí. ¡Selah!
+Escondieron los soberbios lazo para mí, y cuerdas; tendieron red al lado de la vereda; trampas pusieron para mí. Selá.
 
 ### 140:6
 
-Dije al Señor: “Eres mi Dios”. Señor, escucha mi voz de súplica.
+Dije a Jehová: Mi El eres tú; presta oído, Jehová, a la voz de mis ruegos.
 
 ### 140:7
 
-Señor, mi Señor, eres la fortaleza de mi salvación. Cubre mi cabeza en el día de batalla.
+Jehová Adonai, fuerza de mi salvación, cubriste mi cabeza en el día de armas.
 
 ### 140:8
 
-Señor, no des a los malvados sus deseos. No permitas que sus planes prosperen. ¡Selah!
+No des, Jehová, los deseos del malvado; su trama no cumplas, se alzarán. Selá.
 
 ### 140:9
 
-Cubren mi cabeza con la calumnia de sus labios.
+Cabeza de los que me rodean: el trabajo de sus labios los cubra.
 
 ### 140:10
 
-Echarán sobre ellos una red, los atraparán en redes de fuego. En las profundidades caerán en la ruina.
+Sean sacudidas sobre ellos brasas; en fuego los derribe, en fosas, no se levanten.
 
 ### 140:11
 
-No se establecerá en la tierra el hombre de lengua engañosa. El hombre violento y malvado será cazado en redes de la ruina.
+Hombre de lengua no se afirmará en la tierra; hombre de violencia malo: lo cazará a empujones.
 
 ### 140:12
 
-Sé que el Señor hace justicia para el afligido, juzga a los necesitados.
+Sé que hará Jehová el juicio del pobre, el derecho de los necesitados.
 
 ### 140:13
 
-Pero los justos alabarán tu nombre. Los rectos vivirán en tu presencia.
+Ciertamente los justos darán gracias a tu nombre; se sentarán los rectos ante tu rostro.
 
 ## Capítulo 141
 
+
 ### 141:1
 
-Salmo de David. Señor, te he llamado. Presta atención a mi voz. Escucha mi clamor cuando te llamo.
+Salmo de David. Jehová, a ti clamé; date prisa a mí; presta oído a mi voz al clamar yo a ti.
 
 ### 141:2
 
-Ordena mi oración como incienso delante de ti. Que la elevación de mis manos sea como ofrenda de la tarde.
+Sea afirmada mi oración incienso delante de ti; el alzar de mis palmas ofrenda de tarde.
 
 ### 141:3
 
-Señor, guarda mi boca. Guarda las puertas de mis labios.
+Pon, Jehová, guarda a mi boca; custodia sobre la puerta de mis labios.
 
 ### 141:4
 
-No inclines mi corazón a la maldad para que yo cometa pecados con los hombres impíos, ni que yo participe en sus riquezas.
+No inclines mi corazón a cosa mala, a practicar prácticas en maldad con hombres hacedores de iniquidad; y no coma en sus delicadezas.
 
 ### 141:5
 
-Dirige mi camino, oh justo, por la gracia; y corrigeme con aceite de cabeza, no me humille mi cabeza, porque aún mi oración es contra sus males.
+Que me hiera el justo: misericordia; y me reprenda: aceite de cabeza no rechace mi cabeza; porque aún mi oración en sus males.
 
 ### 141:6
 
-Se deslizarán en las manos de la roca, sus jueces; y escucharán mis palabras, porque son agradables.
+Fueron derribados en manos de peña sus jueces, y oyeron mis dichos, porque fueron agradables.
 
 ### 141:7
 
-Como el que labra y corta en la tierra, se dispersarán nuestros huesos a la boca del abismo.
+Como quien hiende y raja en la tierra, fueron esparcidos nuestros huesos a la boca de Sheol.
 
 ### 141:8
 
-Porque a ti, oh Jehová, Señor, están dirigidas mis miradas; en ti he confiado, no me desampares el alma.
+Porque a ti, Jehová Adonai, mis ojos; en ti me refugié; no desnudes mi alma.
 
 ### 141:9
 
-Guarda a mi lado del lazo, los que me acechan; y de las trampas los que hacen el mal.
+Guárdame de las manos del lazo que tendieron para mí, y de las trampas de los hacedores de iniquidad.
 
 ### 141:10
 
-Caerán en mis redes los impíos, juntamente yo pasaré.
+Caigan en sus redes los malvados; juntamente yo, hasta que pase.
 
 ## Capítulo 142
 
+
 ### 142:1
 
-De David, cuando estaba en la cueva. Oración. Al Señor clamé con mi voz, al Señor rogué con mi voz.
+Maskil de David; al estar él en la cueva; oración. Con mi voz a Jehová clamo; con mi voz a Jehová ruego.
 
 ### 142:2
 
-Derramaré delante de ti mi queja, mi angustia delante de ti declararé.
+Derramo delante de él mi queja; mi angustia delante de él cuento.
 
 ### 142:3
 
-Cuando me envuelve el espíritu, tú conoces mi camino; en este camino iré, han escondido lazo para mí.
+Cuando se desmaya sobre mí mi espíritu, y tú conociste mi senda; en el camino en que ando escondieron lazo para mí.
 
 ### 142:4
 
-Mira a mi derecha y mira, no hay quien me conozca; no hay quien busque mi alma.
+Mira a la derecha y ve: y no hay para mí conocedor; pereció escape de mí; no hay quien busque mi alma.
 
 ### 142:5
 
-Clamé a ti, oh Jehová, dije: Tú eres mi refugio; mi porción en la tierra de vida.
+Clamé a ti, Jehová; dije: Tú eres mi refugio, mi porción en la tierra de los vivos.
 
 ### 142:6
 
-Escucha mi canto, porque soy muy pobre; líbrame de mis perseguidores, porque son más fuertes que yo.
+Atiende a mi grito, porque estoy muy abatido; líbrame de mis perseguidores, porque se fortalecieron más que yo.
 
 ### 142:7
 
-Sáname de la prisión para que alabe tu nombre; los justos me buscarán, porque tú me recompensarás.
+Saca de la cárcel mi alma para dar gracias a tu nombre; me rodearán justos, porque remunerarás sobre mí.
 
 ## Capítulo 143
 
+
 ### 143:1
 
-Salmo de David. Señor, escucha mi oración; presta oído a mis súplicas. En tu fidelidad respóndeme, y en tu justicia sálvame.
+Salmo de David. Jehová, oye mi oración; presta oído a mis ruegos; en tu fidelidad respóndeme, en tu justicia.
 
 ### 143:2
 
-No juzgues a tu siervo, porque ningún viviente será justificado delante de ti.
+Y no entres en juicio con tu siervo, porque no será justo delante de ti ningún vivo.
 
 ### 143:3
 
-Porque el enemigo me persigue y me abate a la tierra; me hace vivir en tinieblas como los muertos eternamente.
+Porque persiguió el enemigo mi alma; aplastó a tierra mi vida; me hizo sentar en tinieblas como muertos de siempre.
 
 ### 143:4
 
-Y tú envuelves tu manto sobre mí; en tu presencia se estremece mi corazón.
+Y se desmayó sobre mí mi espíritu; dentro de mí se desolaba mi corazón.
 
 ### 143:5
 
-Acuérdate de los días antiguos, medito en todos tus hechos; en tus obras me maravillo.
+Me acordé de días desde antiguo; medité en toda tu obra; en el hecho de tus manos musito.
 
 ### 143:6
 
-Extiendo mis manos hacia ti; mi alma es como la tierra seca para ti, Selah.
+Extendí mis manos a ti; mi alma como tierra sedienta hacia ti. Selá.
 
 ### 143:7
 
-Date prisa en responderme, Señor, porque mi espíritu se agota; no ocultes tu rostro de mí, para que no sea como los que bajan al pozo.
+Date prisa, respóndeme, Jehová; se acabó mi espíritu; no escondas tu rostro de mí, y seré semejante a los que descienden al foso.
 
 ### 143:8
 
-Háblame en la mañana de tu misericordia, porque en ti confío; enséñame el camino en el que debo andar, porque a ti he levantado mi alma.
+Hazme oír en la mañana tu misericordia, porque en ti confié; hazme conocer el camino en que andaré, porque a ti alcé mi alma.
 
 ### 143:9
 
-Líbrame de mis enemigos, Señor; a ti me refugio.
+Líbrame de mis enemigos, Jehová; a ti me cubrí.
 
 ### 143:10
 
-Enséñame a hacer tu voluntad, porque eres mi Dios; tu espíritu es bueno; guíame en la tierra de la integridad.
+Enséñame a hacer tu voluntad, porque tú eres mi Dios; tu espíritu bueno me guíe en tierra de llanura.
 
 ### 143:11
 
-Por tu nombre, Señor, me darás la vida; en tu justicia me sacarás de la angustia.
+Por causa de tu nombre, Jehová, me vivificarás; en tu justicia sacarás de angustia mi alma.
 
 ### 143:12
 
-Y en tu misericordia acabarás con mis enemigos y destruirás a todos los que me oprimen, porque soy tu siervo.
+Y en tu misericordia exterminarás a mis enemigos, y destruirás a todos los adversarios de mi alma, porque yo soy tu siervo.
 
 ## Capítulo 144
 
+
 ### 144:1
 
-Para David: Bendito seas, Señor, mi roca, que me enseñas a las manos para la guerra y a los dedos para la batalla.
+De David. Bendito Jehová mi roca, el que adiestra mis manos para la pelea, mis dedos para la guerra.
 
 ### 144:2
 
-Mi gracia y mi fortaleza son de mi altura; y tú me rescatarás; bajo tu sombra me escondo, que me oprime el pueblo.
+Mi misericordia y mi fortaleza, mi alto refugio y mi libertador para mí, mi escudo, y en él me refugié, el que sujeta a mi pueblo bajo mí.
 
 ### 144:3
 
-Señor, ¿qué es el hombre para que tú lo conozcas, y el hijo del hombre para que tú lo consideres?
+Jehová, ¿qué es el hombre, que lo conoces, hijo de hombre, que lo cuentas?
 
 ### 144:4
 
-El hombre es como la sombra que pasa; sus días son como la sombra que se arrastra.
+El hombre a vapor se asemeja; sus días como sombra que pasa.
 
 ### 144:5
 
-Señor, inclina los cielos y bájate; toca los montes y se derrumbarán.
+Jehová, inclina tus cielos y desciende; toca los montes, y humeen.
 
 ### 144:6
 
-Dispara flechas y dispersa a los enemigos; envía saetas y los destruye.
+Relampaguea relámpago y dispérsalos; envía tus flechas y contúrbalos.
 
 ### 144:7
 
-Extiende tu mano desde lo alto y líbrame; rescátame de las aguas profundas, de la mano de los extranjeros.
+Envía tus manos desde lo alto; rescátame y líbrame de aguas muchas, de la mano de hijos de extranjero,
 
 ### 144:8
 
-Que su boca habla mentiras y su mano derecha es mano derecha de engaño.
+cuya boca habló vanidad, y su derecha derecha de mentira.
 
 ### 144:9
 
-Dios, cantaré un nuevo himno a ti; con la arpa de diez cuerdas tocaré para ti.
+Dios, cántico nuevo cantaré a ti; en salterio de diez te salmodiaré.
 
 ### 144:10
 
-El que da la salvación a los reyes, que desata a David, su siervo, de la espada malvada.
+El que da salvación a los reyes, el que rescata a David su siervo de espada mala.
 
 ### 144:11
 
-Destruye y salva, Señor, a tu siervo del poder de los extranjeros, cuyo lenguaje es mentira y cuya mano es la mano de la falsedad.
+Rescátame y líbrame de la mano de hijos de extranjero, cuya boca habló vanidad, y su derecha derecha de mentira.
 
 ### 144:12
 
-Que nuestros hijos sean como plantas crecidas en su juventud, y nuestras hijas como columnas talladas para el templo.
+Que nuestros hijos como plantas crecidos en su juventud; nuestras hijas como esquinas labradas, figura de templo;
 
 ### 144:13
 
-Nuestros pastores están llenos de leche, nuestros ovejas están llenas de crías, nuestras cabras están llenas de cabritos.
+nuestros graneros llenos, suministrando de clase a clase; nuestras ovejas multiplicándose por miles, miríadas en nuestras plazas;
 
 ### 144:14
 
-Nuestros machos son fuertes, no hay quebrantos ni partos ni gritos en nuestras calles.
+nuestros bueyes cargados; no hay brecha y no hay salida, y no hay grito en nuestras plazas.
 
 ### 144:15
 
-Dichoso el pueblo cuyo Dios es el Señor, dichoso el pueblo cuyo Dios es Jehová.
+Dichoso el pueblo a quien así le es; dichoso el pueblo cuyo Dios es Jehová.
 
 ## Capítulo 145
 
+
 ### 145:1
 
-Salmo de David. Te alabaré, oh Dios, mi rey, y bendeciré tu nombre por siempre jamás.
+Alabanza de David. Te exaltaré, Dios mío el Rey, y bendeciré tu nombre por siempre y jamás.
 
 ### 145:2
 
-Cada día te bendeciré y te alabaré tu nombre por siempre jamás.
+En todo día te bendeciré, y alabaré tu nombre por siempre y jamás.
 
 ### 145:3
 
-Grande es el Señor y digno de toda alabanza, y su grandeza no tiene límite.
+Grande es Jehová y muy alabado, y a su grandeza no hay pesquisa.
 
 ### 145:4
 
-De generación en generación se alabarán tus obras, y tus hazañas se contarán.
+Generación a generación alabará tus obras, y tus proezas anunciarán.
 
 ### 145:5
 
-La gloria de tu majestad es hermosa, y tus maravillas contaré.
+El esplendor de la gloria de tu majestad, y las palabras de tus maravillas, musitaré.
 
 ### 145:6
 
-Y la grandeza de tu terror hablarán, y contaré tus maravillas.
+Y el poder de tus temibles dirán, y tu grandeza contaré.
 
 ### 145:7
 
-Recordarán tu bondad en gran número, y tus justicias cantarán.
+El memorial de tu mucho bien derramarán, y tu justicia gritarán de júbilo.
 
 ### 145:8
 
-Eres misericordioso y bondadoso, lento para la ira y grande en misericordia.
+Clemente y compasivo es Jehová, lento de narices y grande de misericordia.
 
 ### 145:9
 
-Eres bueno para todos y tu misericordia se extiende sobre todas tus obras.
+Bueno es Jehová a todos, y sus compasiones sobre todas sus obras.
 
 ### 145:10
 
-Alaban tu nombre, oh Señor, todas tus obras, y tus fieles te bendicen.
+Te darán gracias, Jehová, todas tus obras, y tus fieles te bendecirán.
 
 ### 145:11
 
-Anuncian la gloria de tu reino y hablan de tu poder.
+La gloria de tu reino dirán, y tu proeza hablarán,
 
 ### 145:12
 
-Para que los hijos de los hombres conozcan tu poder y la gloria de la majestad de tu reino.
+para hacer saber a los hijos de hombre sus proezas, y la gloria del esplendor de su reino.
 
 ### 145:13
 
-Tu reino es un reino por todos los siglos, y tu dominio por todas las generaciones.
+Tu reino es reino de todos los siglos, y tu dominio en toda generación y generación.
 
 ### 145:14
 
-El Señor sostiene a todos los que caen y levanta a todos los que están doblados.
+Sostiene Jehová a todos los que caen, y endereza a todos los encorvados.
 
 ### 145:15
 
-Los ojos de todos están puestos en ti, y tú les das su alimento en su tiempo.
+Los ojos de todos a ti esperan, y tú das a ellos su comida a su tiempo.
 
 ### 145:16
 
-Abres tu mano y satisfaces el deseo de todos los vivientes.
+Abres tu mano, y sacias a todo vivo de voluntad.
 
 ### 145:17
 
-El Señor es justo en todos sus caminos y fiel en todas sus obras.
+Justo es Jehová en todos sus caminos, y fiel en todas sus obras.
 
 ### 145:18
 
-El Señor está cerca de todos los que le llaman, de todos los que le llaman con sinceridad.
+Cercano es Jehová a todos los que lo llaman, a todos los que lo llaman en verdad.
 
 ### 145:19
 
-Cumple el deseo de los que le temen y escucha su clamor y los salva.
+La voluntad de los que lo temen hará, y su clamor oirá y los salvará.
 
 ### 145:20
 
-El Señor guarda a todos los que le aman; a todos los malvados los destruirá.
+Guarda Jehová a todos los que lo aman, y a todos los malvados destruirá.
 
 ### 145:21
 
-La alabanza del Señor hablará mi boca, y bendecirá toda carne el nombre santo del Señor para siempre y para siempre.
+Alabanza de Jehová hablará mi boca, y bendiga toda carne el nombre de su santidad por siempre y jamás.
 
 ## Capítulo 146
 
+
 ### 146:1
 
-Alabad, oh alabad, oh alma mía, al Señor.
+¡Alaben a Yah! Alaba, alma mía, a Jehová.
 
 ### 146:2
 
-Alabaré al Señor en mi vida; cantaré a mi Dios mientras yo exista.
+Alabaré a Jehová en mi vida; salmodiaré a mi Dios mientras yo exista.
 
 ### 146:3
 
-No os fiéis en los príncipes, en el hijo del hombre que no tiene salvación.
+No confíen ustedes en nobles, en hijo de hombre, en quien no hay salvación.
 
 ### 146:4
 
-Se exhalará su aliento, volverá a su tierra; en aquel día perecerán todos sus planes.
+Sale su espíritu, vuelve a su tierra; en aquel día perecieron sus pensamientos.
 
 ### 146:5
 
-Bienaventurado el que en Jacob busca ayuda, cuyo esperanza está en el Señor su Dios.
+Dichoso aquel cuya ayuda es El de Yaakov, cuya esperanza está sobre Jehová su Dios,
 
 ### 146:6
 
-El que hace los cielos y la tierra, el mar y todo lo que en ellos hay, guarda la verdad para siempre.
+hacedor de cielos y tierra, el mar y todo lo que en ellos; el que guarda verdad para siempre;
 
 ### 146:7
 
-El que hace justicia para los oprimidos, da pan a los hambrientos, el Señor libera a los cautivos.
+el que hace juicio a los oprimidos; el que da pan a los hambrientos; Jehová suelta a los apresados.
 
 ### 146:8
 
-El Señor da vista a los ciegos, el Señor endereza a los doblados, el Señor ama a los justos.
+Jehová abre a los ciegos; Jehová endereza a los encorvados; Jehová ama a los justos.
 
 ### 146:9
 
-El Señor guarda a los extranjeros, sostiene al huérfano y a la viuda, pero el camino de los malvados es recto.
+Jehová guarda a forasteros; al huérfano y a la viuda anima; y el camino de los malvados tuerce.
 
 ### 146:10
 
-El Señor reinará para siempre; tu Dios, oh Sión, de generación en generación. Alabad, oh alabad, al Señor.
+Reinará Jehová para siempre; tu Dios, Tsiyón, a generación y generación. ¡Alaben a Yah!
 
 ## Capítulo 147
 
+
 ### 147:1
 
-Alabad a Yahvé, porque es bueno cantar alabanza a nuestro Dios; es grato y hermoso alabar.
+¡Alaben a Yah! Porque bueno es salmodiar a nuestro Dios, porque agradable; hermosa es la alabanza.
 
 ### 147:2
 
-El Señor edifica Jerusalén; reúne a los dispersos de Israel.
+Edificador de Yerushaláyim es Jehová; a los dispersos de Israel reunirá.
 
 ### 147:3
 
-Sanifica a los quebrantados de corazón y cura a los deprimidos.
+El que sana a los quebrados de corazón, y venda sus heridas.
 
 ### 147:4
 
-Cuenta el número de las estrellas; a todas les pone nombre.
+El que cuenta número a las estrellas; a todas ellas nombres llama.
 
 ### 147:5
 
-Grande es nuestro Señor y poderoso en fuerza; su inteligencia no tiene cuenta.
+Grande es nuestro Adonai, y mucho de poder; a su entendimiento no hay número.
 
 ### 147:6
 
-El Señor da ánimo a los humildes y a los malvados les da decaimiento.
+El que anima a los humildes es Jehová; abaja a los malvados hasta tierra.
 
 ### 147:7
 
-Cantadle a Yahvé con alabanza; cantadle a nuestro Dios con arpa.
+Respondan ustedes a Jehová con acción de gracias; salmodien a nuestro Dios con cítara.
 
 ### 147:8
 
-El que cubre los cielos con nubes, que prepara la lluvia para la tierra, que hace crecer los montes con hierba.
+El que cubre los cielos con nubes, el que prepara a la tierra lluvia, el que hace brotar montes hierba;
 
 ### 147:9
 
-Da alimento a los animales y a los hijos de las aves que chillan.
+el que da a la bestia su pan, a los hijos de cuervo que claman.
 
 ### 147:10
 
-No tiene en cuenta la fuerza del caballo ni la potencia del hombre.
+No en la valentía del caballo se complace; no en las piernas del hombre se agrada.
 
 ### 147:11
 
-Ama el Señor a los que le temen, a los que esperan su gracia.
+Se agrada Jehová en los que lo temen, en los que esperan a su misericordia.
 
 ### 147:12
 
-Alabad a Yahvé, Jerusalén; alabad a tu Dios, Sión.
+Alaba, Yerushaláyim, a Jehová; alaba a tu Dios, Tsiyón.
 
 ### 147:13
 
-Porque fortalece las barras de tus puertas; bendice a tus hijos en tu interior.
+Porque fortaleció las barras de tus puertas; bendijo a tus hijos en medio de ti.
 
 ### 147:14
 
-Pone en tus fronteras paz; la grasa de los granos te saciará.
+El que pone tu límite paz; grosura de trigos te sacia.
 
 ### 147:15
 
-El que envía su palabra a la tierra, de prisa correrá su mensaje.
+El que envía su dicho a la tierra; hasta pronto corre su palabra.
 
 ### 147:16
 
-El que da la nieve como lana, el polvo como ceniza, esparce.
+El que da nieve como lana; escarcha como ceniza esparce.
 
 ### 147:17
 
-Lanza el hielo como pedazos de cordero; ¿quién puede resistir su frío?
+El que echa su hielo como migajas; delante de su frío, ¿quién se parará?
 
 ### 147:18
 
-Envía su palabra y la hace cumplir; sopla su aliento y el agua se congela.
+Envía su palabra y los derrite; hace soplar su viento, fluyen aguas.
 
 ### 147:19
 
-Anuncia su palabra a Jacob, sus decretos y sus leyes a Israel.
+El que anuncia sus palabras a Yaakov, sus estatutos y sus juicios a Israel.
 
 ### 147:20
 
-No ha hecho esto para ninguna otra nación; sus leyes no las conocen. Alabad al Señor.
+No hizo así a toda nación, y juicios no los conocieron. ¡Alaben a Yah!
 
 ## Capítulo 148
 
+
 ### 148:1
 
-Alabad al Señor, alabad a Yahvé desde los cielos; alabadlo en las alturas.
+¡Alaben a Yah! Alaben a Jehová desde los cielos; alábenlo en las alturas.
 
 ### 148:2
 
-Alabadlo, todos sus ángeles; alabadlo, todos sus ejércitos.
+Alábenlo todos sus ángeles; alábenlo todos sus ejércitos.
 
 ### 148:3
 
-Alabadlo, sol y luna; alabadlo, todas las estrellas de la luz.
+Alábenlo sol y luna; alábenlo todas las estrellas de luz.
 
 ### 148:4
 
-Alabadlo, cielos de los cielos, y las aguas que están sobre los cielos.
+Alábenlo cielos de los cielos, y las aguas que están sobre los cielos.
 
 ### 148:5
 
-Alaben a su nombre, porque él dio la orden y se crearon
+Alaben el nombre de Jehová, porque él mandó y fueron creados.
 
 ### 148:6
 
-Y los estableció para siempre, ha dado una ley que no pasará
+Y los afirmó para perpetuo, para siempre; estatuto dio, y no pasará.
 
 ### 148:7
 
-Alaben a Yahvé desde la tierra, las serpientes y todas las profundidades
+Alaben a Jehová desde la tierra, dragones y todos los abismos;
 
 ### 148:8
 
-Fuego y granizo, nieve y humo, viento huracanado que cumple su palabra
+fuego y granizo, nieve y humo, viento de tormenta, hacedor de su palabra;
 
 ### 148:9
 
-Montañas y todas las colinas, árboles frutales y todos los cedros
+los montes y todos los collados, árbol de fruto y todos los cedros;
 
 ### 148:10
 
-Animales salvajes y todos los animales, reptiles y aves con alas
+la fiera y todo ganado, reptil y ave de ala;
 
 ### 148:11
 
-Reyes de la tierra y todos los pueblos, príncipes y todos los jueces de la tierra
+reyes de la tierra y todos los pueblos, príncipes y todos los jueces de la tierra;
 
 ### 148:12
 
-Jóvenes y también doncellas, ancianos con jóvenes
+jóvenes y también vírgenes, ancianos con muchachos.
 
 ### 148:13
 
-Alaben a su nombre, porque su nombre es elevado solo, su gloria sobre la tierra y los cielos
+Alaben el nombre de Jehová, porque excelso es su nombre solo él; su esplendor sobre tierra y cielos.
 
 ### 148:14
 
-Y levantó cuerno para su pueblo, alabanza para todos sus fieles, para los hijos de Israel, su pueblo cercano, alaben a Yahvé
+Y alzó cuerno a su pueblo, alabanza a todos sus fieles, a los hijos de Israel, pueblo cercano a él. ¡Alaben a Yah!
 
 ## Capítulo 149
 
+
 ### 149:1
 
-Alaben a Yahvé, canten a Yahvé un nuevo himno, su alabanza en la asamblea de los fieles
+¡Alaben a Yah! Canten a Jehová cántico nuevo, su alabanza en la asamblea de los fieles.
 
 ### 149:2
 
-Israel se alegrará de su Hacedor, los hijos de Sion se regocijarán de su rey
+Se alegre Israel en sus hacedores; los hijos de Tsiyón se regocijen en su rey.
 
 ### 149:3
 
-Alaben su nombre con danza, toquen tambor y cítara para él.
+Alaben su nombre con danza; con tamboril y cítara salmodien a él.
 
 ### 149:4
 
-Porque Yahvé desea a su pueblo, glorifique a los humildes con salvación.
+Porque se complace Jehová en su pueblo; hermosea a los humildes con salvación.
 
 ### 149:5
 
-Sean alegres los fieles en gloria, canten alabanzas en sus camas.
+Gocen los fieles en gloria; canten de júbilo sobre sus lechos.
 
 ### 149:6
 
-Gocen de Dios con cánticos, y con la espada de la lengua en sus manos.
+Exaltaciones de El en su garganta, y espada de dos filos en su mano,
 
 ### 149:7
 
-Para hacer venganza entre las naciones, para castigar a los pueblos.
+para hacer venganza en las naciones, reprensiones en los pueblos;
 
 ### 149:8
 
-Para atar a los reyes con cadenas, y a los nobles con grillos de hierro.
+para atar a sus reyes con grillos, y a sus nobles con cadenas de hierro;
 
 ### 149:9
 
-Para hacer entre ellos juicio escrito, esto es gloria para todos sus fieles. Alaben a Yahvé.
+para hacer en ellos juicio escrito: esplendor es él a todos sus fieles. ¡Alaben a Yah!
 
 ## Capítulo 150
 
+
 ### 150:1
 
-Alaben a Yahvé, alaben a Dios en su santidad, alabenle en el firmamento de su poder.
+¡Alaben a Yah! Alaben a El en su santidad; alábenlo en el firmamento de su fuerza.
 
 ### 150:2
 
-Alabenle por sus hazañas, alabenle por su grandeza.
+Alábenlo en sus proezas; alábenlo conforme a la muchedumbre de su grandeza.
 
 ### 150:3
 
-Alabenle con el sonido del cuerno, alabenle con la cítara y el arpa.
+Alábenlo con toque de shofar; alábenlo con salterio y cítara.
 
 ### 150:4
 
-Alabenle con el tambor y la danza, alabenle con los instrumentos musicales y la flauta.
+Alábenlo con tamboril y danza; alábenlo con cuerdas y órgano.
 
 ### 150:5
 
-Alabenle con el sonido de la trompeta, alabenle con el sonido de la trompa.
+Alábenlo con címbalos de oído; alábenlo con címbalos de júbilo.
 
 ### 150:6
 
-Todo lo que tiene aliento, alabe a Yahvé, alabad a Yahvé.
+Todo lo que respira alabe a Yah. ¡Alaben a Yah!

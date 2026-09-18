@@ -97,12 +97,41 @@ Forms below are locked. Add rows; do not silently respell.
 | Milcá | — |
 | Eliezer | — |
 | Efrón | — |
+| Agur | — |
+| Yaké | Jaqué / Jakeh |
+| Itiel | — |
+| Ukal | Ucal |
+| Lemuél | Lemuel |
+| Qohélet | Qohelet / Eclesiastés as a name |
+| Shelomó | Salomón |
+| Yeshayahu | Isaías (person) |
+| Amots | Amoz |
+| Uzziyahu | Uzías / Ozías |
+| Yotam | Jotam |
+| Ajaz | Acaz |
+| Jizqiyahu | Ezequías |
+| Tartán | Tartan |
+| Sargón | — |
+| Shevná | Sebna |
+| Elyaqim | Eliaquim |
+| Jilqiyahu | Hilcías |
 
 ### Places / peoples (sample spine)
 
 | Spanish | Not |
 | --- | --- |
 | Mizraim | Egipto / Mitsráyim |
+| Yerushaláyim | Jerusalén |
+| Qedar | Cedar / Cedar tents |
+| Sharón | Sarón |
+| Ein Guedí | Engadi / En-gedi |
+| Báter | Beter |
+| Levanón | Líbano |
+| Tsiyón | Sión |
+| Gilad | Galaad |
+| Amaná | Amana |
+| Senir | — |
+| Jermón | Hermón |
 | Canaán | Kenáan (Génesis locks *Canaán*) |
 | Sedom | Sodoma |
 | Amoré | Gomorra |
@@ -122,5 +151,29 @@ Forms below are locked. Add rows; do not silently respell.
 | Pitom | — |
 | Azazel | chivo emisario / interpretaciones |
 | Molek | Moloc |
+| Aroer | Aroer / Aroer cities |
+| Aram | — |
+| Kush | Cus / Etiopía |
+| Ashur | Asiria |
+| Tsoán | Zoán |
+| Nof | Menfis |
+| Matsor | poetic Mizraim / fortress |
+| Ashdod | Asdod |
+| Elam | — |
+| Madai | Media |
+| Dumá | Duma |
+| Seir | Seír |
+| Arav | Arabia |
+| Dedán | Dedán / Dedanim |
+| Teimá | Tema |
+| Bavel | Babilonia |
+| Kir | — |
+| Tsor | Tiro |
+| Tsidón | Sidón |
+| Tarshish | Tarsis |
+| Kittim | Quitim / Chipre |
+| Kasdim | caldeos |
+| Shihor | Sihor |
+| Refaím | Refaim / Rephaim valley |
 
 Génesis remains the orthography authority when this table and a verse disagree: fix the table to match Génesis, then the other books.

@@ -1,916 +1,929 @@
 # Eclesiastés
 
-> La Biblia Fiel — Eclesiastés. Borrador de primera pasada generado por IA con Ollama; requiere revisión humana completa.
+
+> La Biblia Fiel — Eclesiastés. Segunda pasada contra OSHB / WLC (voz Génesis), pulida. Requiere revisión humana completa antes de `done`.
 > Fuente: OSHB / WLC.
 
 ## Capítulo 1
 
+
 ### 1:1
 
-Palabras de Qohelet, hijo de David, rey en Jerusalén.
+Palabras de Qohélet, hijo de David, rey en Yerushaláyim.
 
 ### 1:2
 
-Vanidad de vanidades, dice Qohelet; vanidad de vanidades, todo es vanidad.
+Vanidad de vanidades, dijo Qohélet; vanidad de vanidades, el todo es vanidad.
 
 ### 1:3
 
-¿Qué provecho tiene el hombre en todos sus trabajos que hace bajo el sol?
+¿Qué ventaja hay al hombre en todo su trabajo que trabaja bajo el sol?
 
 ### 1:4
 
-Generación va y generación viene, pero la tierra permanece para siempre.
+Generación va y generación viene, y la tierra para siempre está en pie.
 
 ### 1:5
 
-Sale el sol y vuelve al lugar donde salió, y vuelve allí para subir.
+Y sale el sol y viene el sol, y hacia su lugar jadea; allí sale él.
 
 ### 1:6
 
-Viento al sur y vira al norte; vira vira vira el viento, y vuelve a girar alrededor.
+Va hacia el sur y rodea hacia el norte; rodea, rodea, va el viento, y sobre sus circuitos vuelve el viento.
 
 ### 1:7
 
-Todos los ríos corren al mar, pero el mar no se llena; a donde los ríos corren, allí vuelven a correr.
+Todos los arroyos van al mar, y el mar no está lleno; al lugar adonde van los arroyos, allí ellos vuelven para ir.
 
 ### 1:8
 
-Todo es cansancio; no se puede decir: “¿Qué es esto?”; no se puede decir: “¿Qué es esto?”; el ojo no se sacia de ver, ni el oído se llena de oír.
+Todos los asuntos están fatigados; no puede el varón hablar; no se sacia el ojo de ver, y no se llena el oído de oír.
 
 ### 1:9
 
-Lo que fue, eso será; lo que se hizo, eso se hará; no hay nada nuevo bajo el sol.
+Lo que fue, él es lo que será, y lo que fue hecho, él es lo que será hecho; y no hay todo nuevo bajo el sol.
 
 ### 1:10
 
-Hay algo que se dice: “Mira esto, es nuevo”; pero ya existía antes de que nosotros estuviérams aquí.
+Hay asunto que dirá: Mira, esto es nuevo; ya fue a siglos que fue de delante de nosotros.
 
 ### 1:11
 
-No hay recuerdo de los primeros tiempos, ni de los últimos tiempos; tampoco habrá recuerdo de los últimos tiempos para los que vendrán después.
+No hay recuerdo a los primeros, y también a los últimos que serán no habrá a ellos recuerdo con los que serán a lo último.
 
 ### 1:12
 
-Yo, Qohelet, fui rey sobre Israel en Jerusalén.
+Yo, Qohélet, fui rey sobre Israel en Yerushaláyim.
 
 ### 1:13
 
-Y puse mi corazón a buscar y a investigar la sabiduría, todo lo que se hace bajo el cielo. Dios ha dado a los hijos de los hombres la tarea de angustiarse con ella.
+Y di mi corazón a buscar y a explorar en sabiduría sobre todo lo que fue hecho bajo los cielos; él es asunto malo que dio Dios a los hijos del hombre para ocuparse en él.
 
 ### 1:14
 
-Vi todo lo que se hace bajo el sol, y he aquí que todo es vanidad y afán de espíritu.
+Vi todos los hechos que fueron hechos bajo el sol, y he aquí el todo es vanidad y pastoreo de viento.
 
 ### 1:15
 
-Lo retorcido no puede ser rectificado, y lo que falta no puede ser contado.
+Lo torcido no puede ser enderezado, y la falta no puede ser contada.
 
 ### 1:16
 
-Hablé con mi corazón, diciendo: Yo soy, he aquí, grande y he añadido sabiduría sobre todos los que estaban antes de mí en Jerusalén. Y mi corazón ha visto mucha sabiduría y conocimiento.
+Hablé yo con mi corazón, diciendo: Yo, he aquí, engrandecí y añadí sabiduría sobre todo lo que fue delante de mí sobre Yerushaláyim; y mi corazón vio mucha sabiduría y conocimiento.
 
 ### 1:17
 
-Y puse mi corazón a conocer la sabiduría y el conocimiento de las locuras y la insensatez. Sabía que también esto es un afán de espíritu.
+Y di mi corazón a conocer sabiduría, y a conocer locuras y necedad; supe que también esto, él es pensamiento de viento.
 
 ### 1:18
 
-Porque en la abundancia de la sabiduría hay abundancia de dolores, y el que añade conocimiento añade aflicción.
+Porque en abundancia de sabiduría hay abundancia de enojo; y el que añade conocimiento añade dolor.
 
 ## Capítulo 2
 
+
 ### 2:1
 
-Dije yo en mi corazón: Ven, pruébate con alegría y ve con bienestar. Y he aquí que también esto es vanidad.
+Dije yo en mi corazón: Anda ahora, te probaré en alegría, y mira en bien; y he aquí también él es vanidad.
 
 ### 2:2
 
-Para reírme dije: La locura. Y para alegrarme dije: ¿Qué provecho hay en eso?
+A la risa dije: Enloquecido; y a la alegría: ¿Qué hace esto?
 
 ### 2:3
 
-Busqué con mi corazón la tentación del vino y a mi carne para caminar con la sabiduría, y mi corazón se inclinó a la insensatez hasta que vi que esto es vanidad y afán de espíritu.
+Exploré en mi corazón a atraer con el vino mi carne, y mi corazón conduciendo en sabiduría, y a asir en necedad, hasta que vea cuál es esto bueno a los hijos del hombre, que harán bajo los cielos el número de los días de sus vidas.
 
 ### 2:4
 
-Grandes fueron mis obras; edifiqué para mí casas y planté para mí viñas.
+Engrandecí mis hechos; edifiqué para mí casas; planté para mí viñas.
 
 ### 2:5
 
-Hice para mí jardines y huertos, y planté en ellos toda clase de árboles frutales.
+Hice para mí huertos y parques, y planté en ellos árbol de todo fruto.
 
 ### 2:6
 
-Hice para mí estanques de agua para regar con ellos el bosque de crecimiento de árboles.
+Hice para mí estanques de aguas, para regar de ellos el bosque que brota árboles.
 
 ### 2:7
 
-Compré esclavos y siervas, y tenía hijos de mi casa; también tenía ganado vacuno y ovejas en gran número, de todo lo que había en Jerusalén antes de mí.
+Adquirí siervos y siervas, e hijos de casa hubo a mí; también ganado de vacas y ovejas, mucho, hubo a mí, más que todos los que fueron delante de mí en Yerushaláyim.
 
 ### 2:8
 
-Reuní para mí plata y oro, y las riquezas de reyes y provincias; hice para mí cantores y cantoras, y gozos de los hijos de los hombres, salterios y cítaras.
+Junté para mí también plata y oro, y tesoro de reyes y de las provincias; hice para mí cantores y cantoras, y delicias de los hijos del hombre, concubina y concubinas.
 
 ### 2:9
 
-Y crecí y aumenté más de todo lo que había en Jerusalén antes de mí; también mi sabiduría permaneció conmigo.
+Y me engrandecí y añadí más que todos los que fueron delante de mí en Yerushaláyim; también mi sabiduría estuvo en pie para mí.
 
 ### 2:10
 
-Y todo lo que deseaban mis ojos no lo negué, ni guardé mi corazón de ninguna alegría, porque mi corazón gozaba de todo mi trabajo, y esto era mi porción de todo mi trabajo.
+Y todo lo que pidieron mis ojos no retuve de ellos; no impedí mi corazón de toda alegría, porque mi corazón estaba alegre de todo mi trabajo, y esto fue mi porción de todo mi trabajo.
 
 ### 2:11
 
-Y volví a considerar en todas las obras que mis manos habían hecho y en el trabajo que había trabajado, y he aquí todo era vanidad y afán de espíritu, y no hay provecho debajo del sol.
+Y me volví yo a todos mis hechos que hicieron mis manos, y al trabajo que trabajé para hacer; y he aquí el todo es vanidad y pastoreo de viento, y no hay ventaja bajo el sol.
 
 ### 2:12
 
-Y volví a considerar en la sabiduría, y en la locura y en la necedad, que el hombre no tiene provecho alguno que venga después del rey, que ya lo hicieron antes.
+Y me volví yo a ver sabiduría y locuras y necedad, porque ¿qué es el hombre que vendrá después del rey, lo que ya lo hicieron?
 
 ### 2:13
 
-Y vi que hay provecho para la sabiduría contra la necedad, como hay provecho para la luz contra las tinieblas.
+Y vi yo que hay ventaja a la sabiduría más que la necedad, como la ventaja de la luz más que la oscuridad.
 
 ### 2:14
 
-El sabio tiene los ojos en su cabeza, y el necio anda en las tinieblas; y yo conocí que también a uno y a otro sucederá lo mismo.
+El sabio, sus ojos están en su cabeza, y el necio en la oscuridad va; y supe también yo que un suceso sucederá a todos ellos.
 
 ### 2:15
 
-Y dije en mi corazón: Como al necio sucede, así a mí me sucederá; y ¿para qué he sido más sabio? Y hablé con mi corazón, diciendo: Esto también es vanidad.
+Y dije yo en mi corazón: Como el suceso del necio, también a mí me sucederá; y ¿para qué me hice sabio yo entonces de más? Y hablé en mi corazón que también esto es vanidad.
 
 ### 2:16
 
-Porque no hay memoria del sabio más que del necio para siempre, porque en los días por venir todos serán olvidados; y ¿cómo morirá el sabio más que el necio?
+Porque no hay recuerdo al sabio con el necio para siempre; en que ya los días que vienen el todo es olvidado; y ¿cómo muere el sabio con el necio?
 
 ### 2:17
 
-Y aborrecí la vida, porque el trabajo que se hace bajo el sol es malo; porque todo es vanidad y afán de espíritu.
+Y odié las vidas, porque es malo sobre mí el hecho que fue hecho bajo el sol, porque el todo es vanidad y pastoreo de viento.
 
 ### 2:18
 
-Y aborrecí toda mi obra que había hecho con diligencia bajo el sol, porque para el hombre que viene después de mí no quedará nada.
+Y odié yo todo mi trabajo que yo soy trabajador bajo el sol, que lo dejaré al hombre que será después de mí.
 
 ### 2:19
 
-¿Quién sabe si un sabio o un necio gobernará con todo mi trabajo y sabiduría que he adquirido bajo el sol? Esto también es vanidad.
+Y ¿quién sabe? ¿El sabio será, o necio? Y señoreará en todo mi trabajo que trabajé y que me hice sabio bajo el sol; también esto es vanidad.
 
 ### 2:20
 
-Entonces me desanimé el corazón con todo el trabajo que he hecho bajo el sol.
+Y me volví yo a desesperar mi corazón sobre todo el trabajo que trabajé bajo el sol.
 
 ### 2:21
 
-Porque hay un hombre que trabaja con sabiduría, conocimiento y habilidad, y a otro que no ha trabajado, se le da su porción. Esto también es vanidad y una gran calamidad.
+Porque hay hombre que su trabajo es en sabiduría y en conocimiento y en destreza, y a hombre que no trabajó en él se lo da su porción; también esto es vanidad y maldad mucha.
 
 ### 2:22
 
-Porque ¿qué tiene el hombre en todo su trabajo y en su preocupación de corazón, que es su trabajo bajo el sol?
+Porque ¿qué aconteciendo al hombre en todo su trabajo y en el pensamiento de su corazón, que él es trabajador bajo el sol?
 
 ### 2:23
 
-Porque todos mis días son amargura y queja; mi preocupación es constante. Ni siquiera duermo por la noche. Esto también es vanidad.
+Porque todos sus días son dolores, y enojo su asunto; también en la noche no se acostó su corazón; también esto es vanidad él.
 
 ### 2:24
 
-No hay nada mejor para el hombre que comer y beber y disfrutar de su trabajo, que él hace bajo el sol durante los días de su vida, que Dios le da. Esto también lo he visto, que esto procede de la mano de Dios.
+No hay bueno en el hombre que coma y beba y haga ver a su alma bien en su trabajo; también esto vi yo, que de mano de Dios es ella.
 
 ### 2:25
 
-Porque ¿quién puede comer o disfrutar fuera de mí?
+Porque ¿quién comerá y quién gozará fuera de mí?
 
 ### 2:26
 
-Porque a un hombre le es bueno que Dios le dé sabiduría y conocimiento y alegría, pero a un pecador le da la preocupación de acumular y recoger para dar a quien Dios le agrada. Esto también es vanidad y una aflicción de espíritu.
+Porque a hombre que es bueno delante de él dio sabiduría y conocimiento y alegría; y al pecador dio asunto para recoger y para juntar, para dar al bueno delante de Dios; también esto es vanidad y pastoreo de viento.
 
 ## Capítulo 3
 
+
 ### 3:1
 
-Para todo tiempo hay un tiempo para todo propósito bajo el cielo.
+A todo hay plazo, y tiempo a todo deseo bajo los cielos.
 
 ### 3:2
 
-Un tiempo para nacer y un tiempo para morir; un tiempo para plantar y un tiempo para arrancar lo que se ha plantado.
+Tiempo de dar a luz y tiempo de morir; tiempo de plantar y tiempo de arrancar lo plantado.
 
 ### 3:3
 
-Un tiempo para matar y un tiempo para curar; un tiempo para derribar y un tiempo para construir.
+Tiempo de matar y tiempo de sanar; tiempo de romper y tiempo de edificar.
 
 ### 3:4
 
-Un tiempo para llorar y un tiempo para reír; un tiempo para lamentarse y un tiempo para bailar.
+Tiempo de llorar y tiempo de reír; tiempo de lamentar y tiempo de danzar.
 
 ### 3:5
 
-Un tiempo para tirar piedras y un tiempo para recoger piedras; un tiempo para abrazar y un tiempo para alejarse del abrazo.
+Tiempo de arrojar piedras y tiempo de recoger piedras; tiempo de abrazar y tiempo de alejarse de abrazar.
 
 ### 3:6
 
-Un tiempo para buscar y un tiempo para perder; un tiempo para guardar y un tiempo para tirar.
+Tiempo de buscar y tiempo de hacer perecer; tiempo de guardar y tiempo de arrojar.
 
 ### 3:7
 
-Un tiempo para rasgar y un tiempo para coser; un tiempo para callar y un tiempo para hablar.
+Tiempo de rasgar y tiempo de coser; tiempo de callar y tiempo de hablar.
 
 ### 3:8
 
-Un tiempo para amar y un tiempo para odiar; un tiempo para la guerra y un tiempo para la paz.
+Tiempo de amar y tiempo de odiar; tiempo de guerra y tiempo de paz.
 
 ### 3:9
 
-¿Qué provecho tiene el que hace en lo que se esfuerza?
+¿Qué ventaja del que hace, en lo que él es trabajador?
 
 ### 3:10
 
-Vi lo que Dios ha puesto en el corazón de los hijos del hombre para que se aflijan con ello.
+Vi el asunto que dio Dios a los hijos del hombre para ocuparse en él.
 
 ### 3:11
 
-Todo lo que hizo Dios se hizo bien en su tiempo, y también puso en el corazón del hombre que no hallará después de él el trabajo que hace Dios desde el principio hasta el fin.
+El todo hizo hermoso en su tiempo; también el siglo dio en su corazón, sin que no halle el hombre el hecho que hizo Dios desde la cabeza y hasta el fin.
 
 ### 3:12
 
-Sé que no hay nada mejor para ellos que gozar y hacer bien en su vida.
+Supe que no hay bueno en ellos, sino alegrarse y hacer bien en sus vidas.
 
 ### 3:13
 
-Y también todo hombre come y bebe y ve el bien en todo su trabajo, esto es don de Dios.
+Y también todo el hombre que coma y beba y vea bien en todo su trabajo, don de Dios es ella.
 
 ### 3:14
 
-Sé que todo lo que hace Dios permanecerá para siempre; no hay nada que añadir ni que quitarle, y Dios hace que se vean sus obras desde el principio hasta el fin.
+Supe que todo lo que hará Dios, él será para siempre; sobre él no hay añadir, y de él no hay quitar; y Dios hizo que teman de delante de él.
 
 ### 3:15
 
-Lo que ha sido, ya es; y lo que será, ya fue; y Dios busca lo que pasa.
+Lo que fue, ya es él; y lo que ha de ser, ya fue; y Dios busca lo perseguido.
 
 ### 3:16
 
-Y vi también bajo el sol que el lugar del juicio es lugar de maldad, y el lugar de la justicia es lugar de maldad.
+Y aún vi bajo el sol: el lugar del juicio, allá la maldad; y el lugar de la justicia, allá la maldad.
 
 ### 3:17
 
-Dije en mi corazón: El justo y el malvado juzga a Dios; porque hay tiempo para todo propósito y para toda obra.
+Dije yo en mi corazón: Al justo y al malo juzgará Dios, porque hay tiempo a todo deseo, y sobre todo el hecho, allí.
 
 ### 3:18
 
-Dije en mi corazón: Hablando de los hijos del hombre, que Dios los juzga como a bestias, y que su suerte es la misma.
+Dije yo en mi corazón sobre razón de los hijos del hombre, para cribarlos Dios, y para ver que ellos son bestia ellos a ellos.
 
 ### 3:19
 
-Porque la suerte de los hijos del hombre y la suerte de las bestias es una, y la suerte de ambos es la misma: como muere éste, así muere éste; y la misma suerte tiene el espíritu de todos, y no hay ventaja para el hombre sobre la bestia, porque ambas son vanidad.
+Porque suceso de los hijos del hombre y suceso de la bestia, y un suceso a ellos; como muerte de este, así muerte de este, y un viento a todo; y ventaja del hombre más que la bestia, no hay, porque el todo es vanidad.
 
 ### 3:20
 
-Todo va a un lugar: todo vino del polvo y todo volverá al polvo.
+El todo va a un lugar; el todo fue del polvo, y el todo volvió al polvo.
 
 ### 3:21
 
-¿Quién sabe el espíritu de los hijos del hombre que sube hacia arriba, y el espíritu de la bestia que baja hacia abajo a la tierra?
+¿Quién sabe el viento de los hijos del hombre, el que sube, él, hacia arriba, y el viento de la bestia, el que baja, él, hacia abajo a la tierra?
 
 ### 3:22
 
-Vi que no hay nada mejor para el hombre que gozar de sus obras, porque eso es su porción; porque ¿quién traerá a la persona para que vea lo que después de ella sucederá?
+Y vi que no hay bueno más que que se alegre el hombre en sus hechos, porque él es su porción; porque ¿quién lo traerá a ver en qué será después de él?
 
 ## Capítulo 4
 
+
 ### 4:1
 
-Y volví a considerar todas las aflicciones que se hacen bajo el sol, y he aquí la aflicción de los afligidos y no hay consuelo para ellos, y de la mano de sus opresores está el poder y no hay consuelo para ellos.
+Y volví yo y vi todos los oprimidos que son hechos bajo el sol, y he aquí la lágrima de los oprimidos, y no hay a ellos consolador; y de mano de sus opresores, fuerza, y no hay a ellos consolador.
 
 ### 4:2
 
-Bendigo a los muertos que ya murieron más que los vivos que aún viven.
+Y alabando yo a los muertos que ya murieron, más que a los vivos que ellos están vivos todavía.
 
 ### 4:3
 
-Mejor es ser el que no ha existido y no ha visto la obra mala que se hace bajo el sol.
+Y mejor que los dos de ellos, al que todavía no fue, que no vio el hecho malo que fue hecho bajo el sol.
 
 ### 4:4
 
-Vi yo que todo trabajo y que todo esforzarse en el trabajo es vanidad y afán de espíritu.
+Y vi yo todo trabajo y toda destreza del hecho, que ella es celo de varón de su compañero; también esto es vanidad y pastoreo de viento.
 
 ### 4:5
 
-El necio aprieta la mano y se come su carne.
+El necio abraza sus manos y come su carne.
 
 ### 4:6
 
-Mejor es la mano llena con contentamiento que la mano llena de trabajo y afán de espíritu.
+Mejor un lleno de palma, reposo, que un lleno de dos puños, trabajo y pastoreo de viento.
 
 ### 4:7
 
-Y volví a ver la vanidad bajo el sol.
+Y volví yo y vi vanidad bajo el sol.
 
 ### 4:8
 
-Hay uno solo y no hay otro con él, ni hijo ni hermano; y no hay fin a su trabajo, y sus ojos no se satisfacen con riquezas, y dice: Para quién trabajo y privo a mi alma de gozo? Esto también es vanidad y un trabajo penoso.
+Hay uno y no hay segundo; también hijo y hermano no hay a él, y no hay fin a todo su trabajo; también no se sacia la riqueza; y ¿para quién soy yo trabajador y privando mi alma de bien? También esto es vanidad y asunto malo él.
 
 ### 4:9
 
-Mejor es ser dos que uno, porque tienen el salario de su trabajo.
+Buenos son los dos más que el uno, que hay a ellos salario bueno en su trabajo.
 
 ### 4:10
 
-Porque si cae uno, el otro lo levanta; pero desgraciado el que está solo, porque si cae, no hay otro que lo levante.
+Porque si caen, el uno levantará a su compañero; y ¡ay de él, el uno que cae, y no hay segundo para levantarlo!
 
 ### 4:11
 
-También si duermen juntos, uno se calienta al otro; pero desgraciado el que duerme solo.
+También si se acuestan dos, hay calor a ellos; y al uno, ¿cómo se calentará?
 
 ### 4:12
 
-Y si vence uno, los dos resisten; pero desgraciado el que está solo y no tiene a quien le ayude. Y la cuerda triple no se rompe fácilmente.
+Y si lo vence el uno, los dos se mantendrán frente a él; y el hilo triple no se rompe en prisa.
 
 ### 4:13
 
-Es mejor un niño pobre y sabio que un rey anciano y necio, que no sabe cuidarse.
+Mejor el muchacho pobre y sabio que el rey viejo y necio, que no supo precaverse ya.
 
 ### 4:14
 
-Porque de la casa de los pobres sale a reinar, y también en su reino nace un pobre.
+Porque de la casa de los atados salió para reinar, porque también en su reino nació pobre.
 
 ### 4:15
 
-Vi a todos los vivos que andan bajo el sol, junto con el segundo joven que se pondrá en su lugar.
+Vi todos los vivos que andan bajo el sol, con el muchacho segundo que se mantendrá bajo él.
 
 ### 4:16
 
-No hay fin para todo el pueblo, para todos los que están delante de ellos; tampoco los últimos se alegrarán en él, porque también esto es vanidad y aflicción de espíritu.
+No hay fin a todo el pueblo, a todo lo que fue delante de ellos; también los últimos no se alegrarán en él; porque también esto es vanidad y pensamiento de viento.
 
 ## Capítulo 5
 
+
 ### 5:1
 
-Guarda tus pies cuando vayas al templo de Dios, y más cerca esté para oír que para ofrecer sacrificios de necios, porque no saben hacer mal.
+Guarda cuando vayas a casa de Dios, y cercano a oír más que a dar los necios sacrificio, porque ellos no están sabiendo hacer mal.
 
 ### 5:2
 
-No te apresures con tu boca y no te apresures tu corazón a pronunciar palabra delante de Dios, porque Dios está en los cielos y tú en la tierra; por eso tus palabras deben ser pocas.
+No te apresures sobre tu boca, y tu corazón no se apresure a sacar palabra delante de Dios, porque Dios en los cielos y tú sobre la tierra; por tanto, sean pocas tus palabras.
 
 ### 5:3
 
-Porque el sueño se multiplica con el asunto, y la voz del necio con muchas palabras.
+Porque el sueño viene en muchedumbre de asunto, y voz de necio en muchedumbre de palabras.
 
 ### 5:4
 
-Si ofreces un voto a Dios, no lo retras, porque no agrada a los necios; lo que ofrezcas, págalo.
+Cuando a Dios votes voto, no tardes en pagarlo, porque no hay deleite en los necios; lo que votes, paga.
 
 ### 5:5
 
-Es mejor no hacer un voto que hacerlo y no cumplirlo.
+Mejor que no votes, que el que votes y no pagues.
 
 ### 5:6
 
-No pongas tu boca para pecar con tu carne, y no digas delante del ángel: fue un error, para que no se enoje Dios por tu voz y haga perder el trabajo de tus manos.
+No des tu boca a hacer pecar tu carne, y no digas delante del mensajero: «Error es ella». ¿Por qué se airará Dios sobre tu voz y dañará la obra de tus manos?
 
 ### 5:7
 
-Porque en muchos sueños y vanidades hay muchas palabras, pero teme a Dios.
+Porque en muchedumbre de sueños y vanidades y de palabras muchas; porque a Dios teme.
 
 ### 5:8
 
-Si ves la opresión de los pobres y la injusticia y la corrupción en la ciudad, no te maravilles, porque un alto se levanta sobre otro alto, y hay altos sobre ellos.
+Si ves opresión de pobre y rapiña de juicio y justicia en la provincia, no te asombres sobre el deleite, porque alto de sobre alto guarda, y altos sobre ellos.
 
 ### 5:9
 
-Y toda la tierra se da a quien la posee, y es un trabajo para quien la posee.
+Y ventaja de la tierra en el todo: rey a campo es servido.
 
 ### 5:10
 
-El que ama la plata no se sacia con plata, y quien ama la riqueza no se sacia con ganancias; también esto es vanidad.
+El amante de plata no se saciará de plata, y quien ama en el tumulto, no producto; también esto vanidad.
 
 ### 5:11
 
-Cuando hay muchas cosas buenas, hay muchos que las comen, y ¿qué provecho tiene para el dueño, sino ver con sus ojos?
+Al multiplicarse el bien, se multiplicaron sus comedores; ¿y qué acierto a sus dueños, sino sus ojos?
 
 ### 5:12
 
-Dulce es el sueño del trabajador, ya sea poco o mucho que coma; pero el saciado del rico no tiene tiempo para dormir.
+Dulce el sueño del que sirve, si poco y si mucho come; y la hartura al rico no lo deja a él reposar para dormir.
 
 ### 5:13
 
-Vi algo malo bajo el sol: riquezas guardadas por su dueño para su mal.
+Hay maldad enferma que vi bajo el sol: riqueza guardada a sus dueños, para su mal.
 
 ### 5:14
 
-Y esas riquezas se pierden por un mal motivo, y nace un hijo, pero no tiene nada en sus manos.
+Y pereció aquella riqueza en asunto malo, y engendró hijo, y no hay nada en su mano.
 
 ### 5:15
 
-Sale desnudo y vuelve a morir desnudo; y en cuanto a sus manos, nada obtiene para su trabajo, para la cualidad de su mano.
+Como salió del vientre de su madre, desnudo volverá a ir como vino, y no llevará nada en su trabajo que haga ir en su mano.
 
 ### 5:16
 
-También esto es malo: que a quien vino, así vuelve, y qué provecho tiene para él que se afana por el viento?
+Y también esto maldad enferma: todo a par de que vino, así irá; ¿y qué ventaja a él, que trabaja al viento?
 
 ### 5:17
 
-También todo el tiempo de mis días en la oscuridad comoo, y mucho trabajo y enfermedad.
+También todos sus días en la tiniebla come, y mucho se enoja, y su enfermedad y furor.
 
 ### 5:18
 
-He aquí lo que vi que es bueno y hermoso: comer y beber y ver lo bueno, y que es provecho para el hombre que se afana en ello bajo el sol durante el número de los días de su vida, que Dios le da; porque esa es su porción.
+He aquí lo que yo vi: bueno que hermoso, comer y beber y ver bien en todo su trabajo que trabaja bajo el sol, número de días que Dios dio a él, porque ello es su porción.
 
 ### 5:19
 
-También todo lo que Dios da al hombre, riquezas y bienes, y le da facultad para comer de ellos y para recibir la herencia, y para gozar de su trabajo, esto es don de Dios.
+También todo el hombre a quien Dios dio a él riqueza y haciendas, y lo hizo señorear para comer de ello y para alzar su porción y para alegrarse en su trabajo: esto don de Dios es ella.
 
 ### 5:20
 
-Porque no mucho se acuerda de los días de su vida, porque Dios le da contentamiento en su corazón.
+Porque no recordará mucho los días de sus vidas, porque Dios ocupa en alegría de su corazón.
 
 ## Capítulo 6
 
+
 ### 6:1
 
-Hay mal que veo bajo el sol, y mucho que pesa sobre el hombre.
+Hay mal que vi bajo el sol, y ella es mucha sobre el hombre.
 
 ### 6:2
 
-El hombre a quien Dios da riquezas y bienes y gloria, y no le da facultad para comer de ellos, sino que a un extraño le da facultad para comer; esto es vanidad y gran mal.
+Varón a quien Dios dé a él riqueza y haciendas y gloria, y no está él falto a su alma de todo lo que desea, y Dios no lo hará señorear para comer de ello, porque varón extraño lo comerá; esto vanidad, y enfermedad mala es él.
 
 ### 6:3
 
-Si un hombre vive cien años y muchos los días de sus años, y su alma no se satisface con el bien, y no tiene sepultura; digo: Mejor es el aborto que él.
+Si varón engendra cien, y años muchos viva, y mucho que sean los días de sus años, y su alma no se sacie del bien, y también sepultura no hubo a él, dije: mejor que él el caído.
 
 ### 6:4
 
-Porque viene con vanidad y va en tinieblas; y en tinieblas su nombre será cubierto.
+Porque en la vanidad vino, y en la tiniebla irá, y en la tiniebla será cubierto su nombre.
 
 ### 6:5
 
-También no ha visto el sol y no ha sabido, ni tiene reposo de esto a lo otro.
+También sol no vio, y no conoció; reposo a este más que a este.
 
 ### 6:6
 
-Y si vive cien años y dos veces, y no ha visto el bien, ¿no va todo al mismo lugar?
+Y aunque vivió mil años dos veces, y bien no vio, ¿no va el todo a lugar uno?
 
 ### 6:7
 
-Todo el trabajo del hombre es para su boca, y también el alma no se sacia.
+Todo trabajo del hombre es a su boca, y también el alma no se llena.
 
 ### 6:8
 
-Porque ¿qué tiene el sabio más que el necio? ¿Qué tiene el pobre que sabe andar por la vida?
+Porque ¿qué de más al sabio que al necio? ¿Qué al pobre, que sabe andar frente a los vivos?
 
 ### 6:9
 
-Es mejor ver con los ojos que andar con el alma, también esto es vanidad y aflicción de espíritu.
+Mejor es vista de ojos que andar de alma; también esto vanidad y pastoreo de viento.
 
 ### 6:10
 
-¿Qué tiene lo que fue ya, que se le ha llamado su nombre, y se le ha sabido que es hombre, y no puede contender con el que viene después de él?
+Lo que fue, ya su nombre es llamado, y es conocido que él es hombre, y no podrá contender con el más que él.
 
 ### 6:11
 
-Porque hay muchas palabras que multiplican vanidad, ¿qué tiene el hombre más que lo que le toca?
+Porque hay palabras muchas que multiplican vanidad. ¿Qué de más al hombre?
 
 ### 6:12
 
-Porque ¿quién sabe qué es bueno para el hombre en la vida, el número de sus días de vanidad, y que él los hace como una sombra? ¿Quién le dice al hombre qué será después de él bajo el sol?
+Porque ¿quién sabe qué es bueno al hombre en las vidas, número de días de vidas de su vanidad, y los hace como la sombra? Lo que, ¿quién declarará al hombre qué será después de él bajo el sol?
 
 ## Capítulo 7
 
+
 ### 7:1
 
-Es mejor un buen nombre que el aceite bueno, y el día de la muerte que el día del nacimiento.
+Mejor es nombre que aceite bueno, y día de la muerte que día de su nacer.
 
 ### 7:2
 
-Es mejor ir a la casa del lamento que ir a la casa de la fiesta, porque al fin es para todos los hombres, y el viviente dará a su corazón.
+Mejor es ir a casa de duelo que ir a casa de banquete, en que ello es fin de todo el hombre, y el vivo dará a su corazón.
 
 ### 7:3
 
-Es mejor el enojo que la risa, porque con la cara triste el corazón se alegra.
+Mejor enojo que risa, porque en mal de faces se hará bueno el corazón.
 
 ### 7:4
 
-El corazón de los sabios está en la casa del lamento, y el corazón de los necios está en la casa de la alegría.
+El corazón de sabios en casa de duelo, y el corazón de necios en casa de alegría.
 
 ### 7:5
 
-Es mejor oír la reprimenda del sabio que a un hombre que oye la canción de los necios.
+Mejor es oír reprensión de sabio que varón que oye canto de necios.
 
 ### 7:6
 
-Porque como el ruido de los tazones bajo el tazón, así es la risa del necio, también esto es vanidad.
+Porque como voz de las espinas bajo la olla, así la risa del necio; y también esto vanidad.
 
 ### 7:7
 
-Porque el que aflige a un sabio se gloriará, pero el que atiende a un hombre generoso será perjudicado.
+Porque la opresión enloquecerá al sabio, y la dádiva perderá el corazón.
 
 ### 7:8
 
-Es mejor el final de un asunto que su principio, y es mejor ser paciente que ser altivo.
+Mejor es postrimería de asunto que su principio; mejor largo de espíritu que alto de espíritu.
 
 ### 7:9
 
-No te gloríes en tu espíritu para enojarte, porque el enojo descansa en el pecho de los necios.
+No te apresures en tu espíritu a enojarte, porque enojo reposa en seno de necios.
 
 ### 7:10
 
-No digas: ¿Cómo eran los días pasados mejores que estos? No has preguntado con sabiduría sobre esto.
+No digas: «¿Qué fue, que los días primeros fueron buenos más que estos?» Porque no de sabiduría preguntaste sobre esto.
 
 ### 7:11
 
-Es bueno tener sabiduría junto con una herencia; y es mejor para los que ven el sol.
+Buena es sabiduría con heredad, y de más a los que ven el sol.
 
 ### 7:12
 
-Porque en la sombra de la sabiduría está la sombra del dinero, y el aumento del conocimiento hace que la sabiduría viva a su dueño.
+Porque en sombra la sabiduría, en sombra la plata; y ventaja de conocimiento, la sabiduría hará vivir a sus dueños.
 
 ### 7:13
 
-Mira el trabajo de Dios, porque ¿quién puede rectificar lo que él ha torcido?
+Mira la obra de Dios, porque ¿quién podrá enderezar lo que torció él?
 
 ### 7:14
 
-En el día de la alegría, sé alegre, y en el día de la adversidad, mira también esto: Dios ha hecho esto para que no encuentres nada después de él.
+En día de bien, sé en bien, y en día de mal, mira: también esto a par de esto hizo Dios, sobre orden de que el hombre no halle nada después de él.
 
 ### 7:15
 
-He visto todo en los días de mi vanidad: hay un justo que perece en su justicia, y hay un malvado que vive en su maldad.
+El todo vi en los días de mi vanidad: hay justo que perece en su justicia, y hay malvado que alarga en su maldad.
 
 ### 7:16
 
-No seas demasiado justo ni seas demasiado sabio; ¿por qué te destruirás?
+No seas justo mucho, y no te hagas sabio de más. ¿Por qué te asolarás?
 
 ### 7:17
 
-No seas demasiado malvado ni seas necio; ¿por qué morirás antes de tu tiempo?
+No hagas mal mucho, y no seas insensato. ¿Por qué morirás sin tu tiempo?
 
 ### 7:18
 
-Es mejor que te agarres de esto y de esto no apartes tu mano, porque el temor de Dios saldrá de todo esto.
+Mejor que agarres en esto, y también de esto no sueltes tu mano, porque el temeroso de Dios saldrá con todos ellos.
 
 ### 7:19
 
-La sabiduría fortalecerá al sabio, más que diez príncipes que hay en la ciudad.
+La sabiduría fortalecerá al sabio, más que diez gobernantes que fueron en la ciudad.
 
 ### 7:20
 
-Porque no hay justo en la tierra que haga bien y no peca.
+Porque no hay hombre justo en la tierra que haga bien y no peque.
 
 ### 7:21
 
-Tampoco te pongas celoso de todas las palabras que se dicen, porque no escucharás a tu siervo que te maldice.
+También no des tu corazón a todas las palabras que hablarán, que no oigas a tu siervo maldiciéndote.
 
 ### 7:22
 
-Porque también muchas veces sabrá tu corazón que también tú has maldito a otros.
+Porque también muchas veces conoció tu corazón que también maldijiste a otros.
 
 ### 7:23
 
-Todo esto lo probé con la sabiduría y dije: “Seré sabio”, pero la sabiduría se me alejó.
+Todo esto probé en sabiduría. Dije: «Me haré sabio», y ella lejos de mí.
 
 ### 7:24
 
-Lejano está lo que fue, y profundo, ¿quién lo hallará?
+Lejos está lo que fue, y hondo hondo: ¿quién lo hallará?
 
 ### 7:25
 
-Me esforcé yo y mi corazón para conocer y para buscar, y para buscar sabiduría y entendimiento, y para conocer la maldad, la locura y la vanidad.
+Giré yo y mi corazón a conocer y a explorar y buscar sabiduría y cómputo, y a conocer impiedad, estulticia y la insensatez locuras.
 
 ### 7:26
 
-Y hallé amargo más que la muerte a la mujer que es cazadora y redonda su corazón, sus manos están atadas. El que es bueno delante de Dios se librará de ella, pero el pecador será atrapado por ella.
+Y hallando yo amarga más que muerte a la mujer que ella lazos y redes su corazón, ataduras sus manos; bueno delante de Dios se librará de ella, y pecador será cazado en ella.
 
 ### 7:27
 
-Mira esto, esto hallé, dijo el sabio, uno a uno para hallar el entendimiento.
+Mira: esto hallé, dijo ella, Qohélet: una a una para hallar cómputo.
 
 ### 7:28
 
-Que aún busqué con mi alma y no lo hallé, un hombre entre mil hallé, pero una mujer no hallé entre todas.
+Lo que aún mi alma buscó y no hallé: hombre uno de mil hallé, y mujer en todos estos no hallé.
 
 ### 7:29
 
-Porque esto hallé, que hizo Dios al hombre recto, pero ellos buscaron muchos pretextos.
+Solamente mira, esto hallé: que Dios hizo al hombre recto, y ellos buscaron cómputos muchos.
 
 ## Capítulo 8
 
+
 ### 8:1
 
-¿Quién es como el sabio? ¿Y quién conoce el significado de las cosas? La sabiduría del hombre ilumina su rostro, pero el vigor de su rostro se desvanece.
+¿Quién como el sabio, y quién conoce solución de asunto? Sabiduría de hombre iluminará sus faces, y la fuerza de sus faces será cambiada.
 
 ### 8:2
 
-Yo soy el guardián de la boca del rey y de la palabra de sus juramentos.
+Yo: guarda boca de rey, y sobre orden de juramento de Dios.
 
 ### 8:3
 
-No te burles delante de él, no te places en un mal propósito, porque todo lo que agrada, él lo hace.
+No te apresures de su faz; irás. No te pares en asunto malo, porque todo lo que desea hará.
 
 ### 8:4
 
-Porque la palabra del rey tiene poder, y ¿quién puede decirle: ¿Qué haces tú?
+En que palabra de rey es señorío, ¿y quién le dirá: «Qué haces»?
 
 ### 8:5
 
-El que guarda la ley no conoce el mal, y el tiempo y el juicio conoce el corazón del sabio.
+Guarda de mandato no conocerá asunto malo, y tiempo y juicio conocerá el corazón sabio.
 
 ### 8:6
 
-Porque a todo deseo hay un tiempo y un juicio, porque la maldad del hombre es grande sobre mí.
+Porque a todo deleite hay tiempo y juicio, porque la maldad del hombre mucha sobre él.
 
 ### 8:7
 
-Porque no hay quien sepa lo que será, porque como será, ¿quién se lo dirá?
+Porque él no está sabiendo qué será, porque como será, ¿quién le declarará?
 
 ### 8:8
 
-No hay quien domine sobre el espíritu para sujetarlo, ni quien tenga poder en el día de la muerte, ni quien tenga misericordia en el tiempo de la guerra, ni quien perdone a un malvado.
+No hay hombre señor en el viento para encerrar el viento, y no hay señorío en día de la muerte, y no hay envío en la guerra, y impiedad no librará a sus dueños.
 
 ### 8:9
 
-Vi todo esto y puse mi corazón a todo trabajo que se hace bajo el sol, cuando el hombre tiene poder sobre otro para hacerlo mal.
+Todo esto vi, y dar mi corazón a toda obra que se hizo bajo el sol: tiempo en que el hombre señoreó en hombre para mal a él.
 
 ### 8:10
 
-Vi también que los malvados son enterrados, y que van de un lugar santo a otro, y andan en la ciudad donde hicieron lo malo. Esto también es vanidad.
+Y así vi malvados enterrados, y vinieron; y de lugar santo andarán, y se olvidarán en la ciudad que así hicieron; también esto vanidad.
 
 ### 8:11
 
-Porque no se hace un decreto que el mal se haga pronto, por eso el corazón de los hijos del hombre está lleno de hacer el mal.
+Que no se hace edicto de obra de la maldad pronto; por tanto, se llenó el corazón de hijos del hombre en ellos a hacer mal.
 
 ### 8:12
 
-Porque el pecador hace el mal y vive cien años, y el que teme a Dios vive ante él. Porque sé que esto es bueno para los que temen a Dios.
+Que pecador haciendo mal cien, y alarga a él; porque también yo sé que será bien a los temerosos de Dios, que temerán de delante de él.
 
 ### 8:13
 
-Y no será bueno para el malvado, ni prolongará sus días como la sombra, porque no teme a Dios.
+Y bien no será al malvado, y no alargará días como la sombra, que él no está temiendo de delante de Dios.
 
 ### 8:14
 
-Hay vanidad que se hace en la tierra: hay justos a quienes les llega como a los malvados, y hay malvados a quienes les llega como a los justos. Dije: Esto también es vanidad.
+Hay vanidad que se hace sobre la tierra, que hay justos a quienes llega a ellos como obra de los malvados, y hay malvados a quienes llega a ellos como obra de los justos; dije que también esto vanidad.
 
 ### 8:15
 
-Y bendeciré al gozo, porque no hay nada mejor para el hombre bajo el sol que comer y beber y gozarse, y que sea con sus trabajos durante los días de su vida, que Dios le da bajo el sol.
+Y yo alabé la alegría, que no hay bien al hombre bajo el sol sino comer y beber y alegrarse, y ello lo acompañará en su trabajo los días de sus vidas que Dios dio a él bajo el sol.
 
 ### 8:16
 
-Porque he puesto mi corazón a conocer la sabiduría y a ver el trabajo que se hace en la tierra, porque no hay día ni noche en que no vea con los ojos lo que se hace.
+Cuando di mi corazón a conocer sabiduría y a ver el asunto que se hizo sobre la tierra, porque también de día y de noche, sueño en sus ojos no lo está viendo.
 
 ### 8:17
 
-Y he visto los trabajos de Dios, que el hombre no puede hallar el trabajo que se hace bajo el sol. Porque aunque se esforzara para hallarlo, no lo hallaría; aunque dijera el sabio que lo conoce, no lo hallará.
+Y vi toda obra de Dios, que el hombre no podrá hallar la obra que se hizo bajo el sol, a causa de que el hombre trabajará para buscar y no hallará; y también si dijera el sabio saber, no podrá hallar.
 
 ## Capítulo 9
 
+
 ### 9:1
 
-Porque todo esto he puesto en mi corazón para examinarlo todo: que el justo, el sabio y sus siervos están en manos de Dios. El amor y el odio, la guerra y la paz, no se saben por qué vienen.
+Porque todo esto di a mi corazón, y para examinar todo esto: que los justos y los sabios y sus obras están en mano de Dios; también amor, también odio, no hay conociendo el hombre; el todo a faces de ellos.
 
 ### 9:2
 
-Todo es un solo suceso para el justo y para el malvado, para el bueno y para el malo, para el limpio y para el impuro, para el que sacrifica y para el que no sacrifica. Como vive el bueno, vive el pecador; como jura el juramento el uno, jura el otro.
+El todo como al todo: suceso uno al justo y al impío, al bueno y al puro y al inmundo, y al que sacrifica y al que no es él sacrificando; como el bueno, como el pecador; el que jura como el que teme juramento.
 
 ### 9:3
 
-Esto es malo en todo lo que se hace bajo el sol: que un mismo suceso le toca a todos. Y el corazón de los hijos del hombre está lleno de mal y de locuras en sus días, y después de ellos van a los muertos.
+Esto es malo en todo lo que se hizo bajo el sol, porque suceso uno al todo; y también el corazón de los hijos del hombre está lleno de malo, y locuras en su corazón en sus vidas, y después de él a los muertos.
 
 ### 9:4
 
-Porque ¿quién elegiría la vida sobre la muerte? Es mejor vivir que morir, y mejor el que vive que el que está muerto.
+Porque quién que a todos los vivos hay confianza; porque a perro vivo él es bueno más que el león el muerto.
 
 ### 9:5
 
-Porque los vivos saben que morirán, pero los muertos no saben nada, ni tienen ya recompensa, porque se olvida de ellos.
+Porque los vivos saben que morirán, y los muertos no están ellos sabiendo nada, y no hay más salario a ellos, porque se olvidó su memoria.
 
 ### 9:6
 
-También su amor, su odio y su celo ya han desaparecido, y no tienen ya parte para siempre en todo lo que se hace bajo el sol.
+También su amor, también su odio, también su celo, ya pereció; y no hay porción a ellos más para siempre en todo lo que se hizo bajo el sol.
 
 ### 9:7
 
-Come con gozo tu pan y bebe con alegría tu vino, porque Dios te ha aprobado en todo tu trabajo.
+Anda, come con alegría tu pan, y bebe tu vino con corazón bueno, porque ya se agradó Dios de tus obras.
 
 ### 9:8
 
-En todo tiempo que sea, que tus vestidos sean blancos, y que el aceite no falte sobre tu cabeza.
+En todo tiempo tus vestidos serán blancos, y aceite sobre tu cabeza no falte.
 
 ### 9:9
 
-Ve con la mujer a quien amaste toda tu vida efímera, la que Dios te ha dado bajo el sol, toda tu vida efímera, porque es tu porción en la vida y en el trabajo que realizas bajo el sol.
+Mira vida con la mujer que amaste, todos los días de vida de tu vanidad que dio a ti bajo el sol, todos los días de tu vanidad; porque él es tu porción en la vida y en tu trabajo que tú trabajas bajo el sol.
 
 ### 9:10
 
-Hace todo lo que encuentres a mano y a tu alcance, porque no hay obra ni pensamiento ni conocimiento ni sabiduría en el sepulcro, a donde tú vas.
+Todo lo que halle tu mano para hacer, con tu fuerza haz; porque no hay obra ni cuenta ni conocimiento ni sabiduría en Sheol, adonde tú vas allá.
 
 ### 9:11
 
-Vi que bajo el sol no corren los veloces, ni los valientes ganan la batalla, ni los sabios tienen pan, ni los inteligentes riquezas, ni los entendidos favor, porque el tiempo y la adversidad caen sobre todos.
+Volví y vi bajo el sol, que no es a los ligeros la carrera, y no a los valientes la guerra, y también no a los sabios pan, y también no a los entendidos riqueza, y también no a los que saben gracia; porque tiempo y percance acontece a todos ellos.
 
 ### 9:12
 
-Porque tampoco el hombre sabe su tiempo, como los peces que son atrapados en una red mala y como las aves que son atrapadas en una red, así son atrapados los hijos del hombre en un tiempo adverso, cuando cae sobre ellos de pronto.
+Porque también el hombre no sabe su tiempo, como los peces que son agarrados en red mala, y como las aves las agarradas en el lazo; como ellos son enlazados los hijos del hombre a tiempo malo, cuando caiga sobre ellos de pronto.
 
 ### 9:13
 
-Vi también bajo el sol que la sabiduría es grande y que es grande ante mí.
+También esto vi: sabiduría bajo el sol, y grande es ella a mí.
 
 ### 9:14
 
-Vi una ciudad pequeña y pocos hombres en ella, y vino un rey grande y rodeó a la ciudad y construyó alrededor de ella fortalezas.
+Ciudad pequeña, y hombres pocos en ella; y vino a ella rey grande y rodeó a ella, y edificó sobre ella redes grandes.
 
 ### 9:15
 
-Y encontró en ella un pobre sabio, y este salvó la ciudad con su sabiduría, pero nadie recordó al pobre sabio.
+Y halló en ella varón pobre sabio, y él libró la ciudad con su sabiduría; y hombre no recordó al varón el pobre aquel.
 
 ### 9:16
 
-Y dije: Mejor es la sabiduría que la fuerza, y la sabiduría del pobre es menospreciada, y sus palabras no son escuchadas.
+Y dije yo: Buena es sabiduría más que fuerza; y sabiduría del pobre es despreciada, y sus palabras no son ellas oídas.
 
 ### 9:17
 
-Las palabras de los sabios son escuchadas con benevolencia, más que el grito del gobernante entre los necios.
+Palabras de sabios en reposo se oyen más que el grito de gobernante en los necios.
 
 ### 9:18
 
-Mejor es la sabiduría que los instrumentos de guerra, y un solo pecador puede destruir la mucha sabiduría.
+Buena es sabiduría más que instrumentos de combate, y pecador uno perderá mucho bien.
 
 ## Capítulo 10
 
+
 ### 10:1
 
-Los bichos de la muerte hacen fermentar el aceite del perfumista, y la necedad es más valiosa que la sabiduría, y la gloria es más valiosa que la prudencia.
+Moscas de muerte hace heder, hace brotar, aceite de perfumista; más preciosa que sabiduría, más que honra, necedad de poco.
 
 ### 10:2
 
-El corazón del sabio está a su derecha, y el corazón del necio está a su izquierda.
+El corazón de sabio está a su derecha, y el corazón de necio a su izquierda.
 
 ### 10:3
 
-Y en el camino del necio va su corazón, y dice a todo el mundo: “¡Estúpido!”
+Y también en el camino, andando, su corazón falta, y dice al todo: Necio es él.
 
 ### 10:4
 
-Si el espíritu del príncipe sube sobre ti, no abandones tu puesto, porque el castigo de grandes pecados lo hará descansar.
+Si el espíritu del que gobierna sube sobre ti, tu lugar no dejes; porque sanidad hará reposar pecados grandes.
 
 ### 10:5
 
-Vi algo malo bajo el sol: una equivocación que sale de la presencia del gobernante.
+Hay mal que vi bajo el sol, como yerro que sale de las faces del que manda.
 
 ### 10:6
 
-El necio es puesto en alturas, y los ricos en la miseria.
+Fue dada la necedad en las alturas muchas, y los ricos en lo bajo se sientan.
 
 ### 10:7
 
-Vi a siervos montados en caballos, y a príncipes que caminan como siervos sobre la tierra.
+Vi siervos sobre caballos; y príncipes andando como siervos sobre la tierra.
 
 ### 10:8
 
-El que cava un agujero se caerá en él, y el que rompe un muro, una serpiente lo morderá.
+El que cava foso, en él caerá; y el que rompe vallado, serpiente le morderá.
 
 ### 10:9
 
-El que mueve piedras se lastimará con ellas, y el que corta madera será herido por ella.
+El que mueve piedras, se lastimará en ellas; el que hiende leños, se pondrá en peligro en ellos.
 
 ### 10:10
 
-Si afilas el hierro y no lo afilas bien, es inútil, y se esfuerza el que lleva armas, pero el hombre de talento prevalece por su sabiduría.
+Si se embotó el hierro, y él no aguzó faces, y fuerzas fortalecerá; y ventaja de sabiduría.
 
 ### 10:11
 
-Si muerde la serpiente sin ruido, no hay provecho para el dueño de la lengua.
+Si la serpiente muerde sin encanto, y no hay ventaja al dueño de la lengua.
 
 ### 10:12
 
-Las palabras del sabio son graciosas, pero las bocas del necio devoran.
+Palabras de boca de sabio son gracia, y labios de necio lo tragarán.
 
 ### 10:13
 
-El comienzo de las palabras de su boca es necedad, y el final de su boca es una locura mala.
+Principio de palabras de su boca es necedad, y fin de su boca locuras malas.
 
 ### 10:14
 
-El necio multiplica palabras, pero el hombre no sabe qué será, y quién le dirá lo que será después de él.
+Y el necio multiplica palabras; no sabe el hombre lo que será, y lo que será después de él, ¿quién le declarará?
 
 ### 10:15
 
-El trabajo de los necios les agota, porque no saben ir a la ciudad.
+El trabajo de los necios lo fatiga, que no supo ir a ciudad.
 
 ### 10:16
 
-¿Si no tienes tierra, el rey es joven y tus príncipes comerán en la mañana?
+¡Ay de ti, tierra, cuyo rey es muchacho, y tus príncipes comerán en la mañana!
 
 ### 10:17
 
-¡Dichoso tú, tierra, cuyo rey es hijo de nobles y cuyos príncipes comerán a tiempo, con fuerza y no con vino!
+¡Dichosa tú, tierra, cuyo rey es hijo de libres, y tus príncipes comerán a tiempo, en valentía y no en beber!
 
 ### 10:18
 
-En la pereza se desmorona el techo, y por la negligencia de las manos se desmorona la casa.
+Por las dos perezas se hunde el cabio, y en la bajeza de las dos manos gotea la casa.
 
 ### 10:19
 
-Se ríen de comer pan y vino alegra la vida, y la plata responde a todo.
+Para risa hacen pan, y el vino alegra vida, y la plata responde el todo.
 
 ### 10:20
 
-Tampoco maldigas en presencia del rey, ni maldigas a los ricos en tu cama, porque el ave del cielo llevará la voz, y el que tiene alas revelará el asunto.
+También en tu conocimiento no maldigas a rey, y en cámaras de tu lecho no maldigas a rico; porque ave de los cielos llevará la voz, y dueño declarará palabra.
 
 ## Capítulo 11
 
+
 ### 11:1
 
-Lanza tu pan sobre la superficie de las aguas, porque después de muchos días lo encontrarás.
+Envía tu pan sobre las faces de las aguas, porque en muchedumbre de los días lo hallarás.
 
 ### 11:2
 
-Dale una parte a siete, y a ocho, porque no sabrás qué mal habrá en la tierra.
+Da porción a siete, y también a ocho; porque no sabrás qué será mal sobre la tierra.
 
 ### 11:3
 
-Si los cielos se llenan de lluvia, la lluvia caerá sobre la tierra. Si un árbol cae al sur o al norte, donde caiga el árbol, allí quedará.
+Si se llenan las nubes de lluvia, sobre la tierra vaciarán; y si cae árbol en el sur, y si en el norte, el lugar que caiga el árbol, allí él será.
 
 ### 11:4
 
-El que guarda el espírituve no sembrará, y el que mira las nubes no segará.
+El que guarda viento, no sembrará, y el que mira en las nubes, no segará.
 
 ### 11:5
 
-Como no sabes el camino del viento, así no sabrás los actos de Dios, que hace todo.
+Como no estás tú sabiendo qué camino del viento, como los huesos en el vientre de la llena, así no sabrás la obra de Dios, que hará el todo.
 
 ### 11:6
 
-Siembra tu semilla por la mañana, y no dejes tu mano por la tarde, porque no sabrás si esto prosperará o aquello, si los dos juntos son buenos.
+En la mañana siembra tu semilla, y a la tarde no dejes tu mano; porque no estás tú sabiendo cuál este será apto, si este o este, y si los dos de ellos como uno son buenos.
 
 ### 11:7
 
-Y dulce es la luz, y agradable a los ojos ver el sol.
+Y dulce es la luz, y bueno a los ojos ver el sol.
 
 ### 11:8
 
-Porque si muchos años vive el hombre, se alegrará en todos ellos, y recordará los días de la oscuridad, porque muchos han sido los años de vanidad.
+Porque si años muchos vivirá el hombre, en todos ellos se alegrará, y recuerde los días de la tiniebla, porque muchos serán; todo lo que viene es vanidad.
 
 ### 11:9
 
-Alegra al joven en sus días de juventud, y que su corazón sea alegre en los días de su juventud, y que vaya por el camino de su corazón y por la vista de sus ojos, y que sepa que por todo eso lo llevará Dios en juicio.
+Alégrate, joven, en tu niñez, y tu corazón te haga bien en días de tus mocedades, y anda en caminos de tu corazón y en vistas de tus ojos; y sabe que sobre todos estos te traerá Dios en el juicio.
 
 ### 11:10
 
-Y quita el enojo de tu corazón, y quita el mal de tu carne, porque la juventud y la mañana son vanidad.
+Y quita enojo de tu corazón, y pasa mal de tu carne; porque la niñez y la negrura son vanidad.
 
 ## Capítulo 12
 
+
 ### 12:1
 
-Acuérdate de tu Creador en los días de tu juventud, antes de que lleguen los días malos y los años se acerquen de los cuales dirás: No tengo en ellos placer.
+Y acuérdate de tus creadores en los días de tus mocedades, hasta que no vengan los días del mal, y lleguen años de los que dirás: No hay a mí en ellos deleite.
 
 ### 12:2
 
-Antes que se oscurezca el sol y la luz, la luna y las estrellas, y que se vuelvan las nubes después de la lluvia.
+Hasta que no se oscurezca el sol, y la luz, y la luna, y las estrellas, y vuelvan las nubes después de la lluvia.
 
 ### 12:3
 
-En el día que los guardianes de la casa tiemblen, y los fuertes se doblen, y los molineros se cansen, porque se acercan, y los que miran a través de las ventanas se oscurecen.
+En el día en que tiemblen los guardadores de la casa, y se tuerzan los hombres de la fuerza, y cesen las moliendas porque se menguaron, y se oscurezcan las que ven en las celosías.
 
 ### 12:4
 
-Y se cierran las puertas en la calle, y se oirá la voz del molino baja, y se levantará a la voz del pájaro, y todos los cantores se estremecerán.
+Y se cierren las dos puertas en la calle, en el bajar de la voz de la molienda; y se levantará a voz del ave, y se encorvarán todas las hijas del canto.
 
 ### 12:5
 
-También de los altos temblarán, y los caminantes se asombrarán, y el higo se caerá antes de tiempo, y el capullo de la vid se secará, porque el hombre va al lugar eterno, y los que dan alaridos en la plaza se dispersarán.
+También desde lo alto temerán, y terrores en el camino; y el almendro despreciará, y se cargará la langosta, y anulará la alcaparra; porque va el hombre a casa de su siempre, y rodearán en la calle los plañideros.
 
 ### 12:6
 
-Hasta que el hilo de la plata se aleje, y la correa de oro se rompa, y la olla se rompa en el pozo, y el polvo se dispersará en el molino.
+Hasta que no el cordón de la plata, y se aplaste la copa del oro, y se rompa cántaro sobre el manantial, y se aplaste la rueda al pozo.
 
 ### 12:7
 
-Y volverá el polvo a la tierra como era, y el espíritu volverá a Dios que lo dio.
+Y el polvo volverá sobre la tierra como era, y el espíritu volverá a Dios que la dio.
 
 ### 12:8
 
-Vana vanidad, dice el Pastor; todo es vanidad.
+Vanidad de vanidades, dijo el Qohélet; el todo es vanidad.
 
 ### 12:9
 
-Y además, que el Pastor era sabio, y enseñó al pueblo el conocimiento y la inteligencia, y aseveró y examinó los proverbios, los cuales son muchos.
+Y de más, que Qohélet fue sabio; aún enseñó conocimiento al pueblo, y pesó y escudriñó, ordenó proverbios muchos.
 
 ### 12:10
 
-El Pastor buscó hallar palabras agradables, y escribió rectas palabras de verdad.
+Qohélet buscó hallar palabras de deleite, y escrito rectitud, palabras de verdad.
 
 ### 12:11
 
-Las palabras de los sabios son como clavos de estacas, y como clavos de estacas que se clavan, dadas por un pastor.
+Palabras de sabios son como aguijones, y como clavos plantados, dueños de colecciones; fueron dadas de un pastor.
 
 ### 12:12
 
-Y más que estas cosas, hijo mío, ten cuidado de hacer muchos libros sin fin, y de mucho estudio cansa la carne.
+Y de más que ellas, hijo mío, guárdate; hacer libros muchos no hay fin, y mucho estudio es fatiga de carne.
 
 ### 12:13
 
-El fin de todo es oído. Temer a Dios y guardar sus mandamientos, porque esto es para todo hombre.
+Fin de cosa; el todo es oído: a Dios teme, y sus mandamientos guarda, porque esto es todo el hombre.
 
 ### 12:14
 
-Porque Dios juzgará toda obra, oculta que sea, si es buena o si es mala.
+Porque toda obra Dios traerá en juicio sobre todo lo oculto, si es bueno y si es malo.
