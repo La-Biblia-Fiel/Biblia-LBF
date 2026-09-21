@@ -16,16 +16,10 @@ const progressBar = document.querySelector("#progress-bar");
 const currentReference = document.querySelector("#current-reference");
 const jobLog = document.querySelector("#job-log");
 const sourcePreview = document.querySelector("#source-preview");
-const sourceGapActions = document.querySelector("#source-gap-actions");
-const gapAcknowledgement = document.querySelector("#gap-acknowledgement");
-const resolveGapButton = document.querySelector("#resolve-gap");
-const gapMessage = document.querySelector("#gap-message");
 
 let books = [];
 let modelsAvailable = false;
 let pollTimer = null;
-let previewBook = "";
-let previewHasGap = false;
 
 function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>'"]/gu, char => ({
@@ -49,7 +43,6 @@ function selectedBooks() {
 
 function updateStartButton() {
   startButton.disabled = !modelsAvailable || !modelSelect.value || !selectedBooks().length || !acknowledgement.checked;
-  resolveGapButton.disabled = !previewHasGap || !gapAcknowledgement.checked;
 }
 
 function formatBytes(value) {
@@ -97,69 +90,45 @@ function renderBooks() {
     const complete = book.missingVerses === 0;
     const checked = book.eligible ? " checked" : "";
     const disabled = book.eligible ? "" : " disabled";
-    return `<label class="book-row" data-protected="${book.protected}" data-complete="${complete}" data-gap="${Boolean(book.gapResolvable)}">
+    return `<label class="book-row" data-protected="${book.protected}" data-complete="${complete}">
       <input type="checkbox" value="${escapeHtml(book.slug)}"${checked}${disabled} />
       <span>
         <span class="book-name">${escapeHtml(book.title)}</span>
         <span class="book-count">${book.existingVerses.toLocaleString()} / ${book.sourceVerses.toLocaleString()} verses · ${escapeHtml(book.textualBasis)}${book.blockedVerses ? ` · ${book.blockedVerses} source gap` : ""}</span>
       </span>
-      <span class="badge">${complete ? "complete" : book.protected ? "protected" : book.gapResolvable && !book.translatableMissingVerses ? "source gap" : `${book.translatableMissingVerses} missing`}</span>
+      <span class="badge">${complete ? "complete" : book.protected ? "protected" : book.blockedVerses === book.missingVerses ? "source gap" : `${book.translatableMissingVerses} missing`}</span>
     </label>`;
   }).join("");
   bookList.querySelectorAll("input").forEach(input => input.addEventListener("change", () => {
     updateStartButton();
     if (input.checked) void loadPreview(input.value);
   }));
-  bookList.querySelectorAll(".book-row").forEach(row => row.addEventListener("click", () => {
-    const input = row.querySelector("input");
-    if (input) void loadPreview(input.value);
-  }));
-  updateGapCard();
+  updateStartButton();
 }
 
 async function loadBooks() {
   const result = await api("/api/books");
   books = result.books;
   renderBooks();
-  const first = books.find(book => book.gapResolvable) || books.find(book => book.eligible);
+  const first = books.find(book => book.eligible);
   if (first) await loadPreview(first.slug);
 }
 
-function updateGapCard() {
-  const gapBook = books.find(book => book.gapResolvable);
-  sourceGapActions.hidden = !gapBook;
-  if (gapBook) previewBook = gapBook.slug;
-  updateStartButton();
-}
-
 async function loadPreview(slug) {
-  previewBook = slug;
-  previewHasGap = false;
   sourcePreview.innerHTML = `<p class="help">Loading source…</p>`;
   try {
     const result = await api(`/api/book?book=${encodeURIComponent(slug)}`);
     if (!result.preview.length) {
       sourcePreview.innerHTML = `<p class="help">${escapeHtml(result.book.title)} has no missing source verses.</p>`;
-      updateGapCard();
       return;
     }
-    sourcePreview.innerHTML = result.preview.map(item => {
-      const parallel = item.parallelSource;
-      const gap = item.sourceUnavailable;
-      if (gap) previewHasGap = true;
-      return `<article class="source-verse${gap ? " source-gap" : ""}">
+    sourcePreview.innerHTML = result.preview.map(item => `<article class="source-verse">
       <h3>${escapeHtml(item.reference)}</h3>
       <p class="source-text" dir="auto">${escapeHtml(item.sourceText || item.sourceNote)}</p>
-      ${parallel ? `<p class="help">Parallel OSHB source: Esdras ${escapeHtml(parallel.reference)}</p>
-      <p class="source-text" dir="auto">${escapeHtml(parallel.sourceText)}</p>` : ""}
-      <details><summary>Morphology evidence</summary><pre class="morphology">${escapeHtml(parallel?.morphology || item.morphology || "No morphology helper available.")}</pre></details>
-    </article>`;
-    }).join("");
-    if (previewHasGap) previewBook = slug;
-    updateGapCard();
+      <details><summary>Morphology evidence</summary><pre class="morphology">${escapeHtml(item.morphology || "No morphology helper available.")}</pre></details>
+    </article>`).join("");
   } catch (error) {
     sourcePreview.innerHTML = `<p class="help">${escapeHtml(error.message)}</p>`;
-    updateGapCard();
   }
 }
 
@@ -203,29 +172,6 @@ modelSelect.addEventListener("change", () => {
   updateStartButton();
 });
 acknowledgement.addEventListener("change", updateStartButton);
-gapAcknowledgement.addEventListener("change", updateStartButton);
-resolveGapButton.addEventListener("click", async () => {
-  resolveGapButton.disabled = true;
-  gapMessage.textContent = "Drafting Nehemiah 7:68 from Ezra 2:66 OSHB…";
-  try {
-    const job = await api("/api/source-gap/resolve", {
-      method: "POST",
-      body: JSON.stringify({
-        book: previewBook,
-        model: modelSelect.value,
-        basis: "ezra-2-66-oshb",
-        acknowledged: gapAcknowledgement.checked
-      })
-    });
-    gapMessage.textContent = "";
-    renderJob(job);
-    await loadBooks();
-    if (previewBook) await loadPreview(previewBook);
-  } catch (error) {
-    gapMessage.textContent = error.message;
-    updateStartButton();
-  }
-});
 selectMissingButton.addEventListener("click", () => {
   bookList.querySelectorAll("input:not(:disabled)").forEach(input => { input.checked = true; });
   updateStartButton();

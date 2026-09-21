@@ -37,9 +37,6 @@ test("known source gap and Spanish Protestant 3 John split are explicit", async 
   const gap = nehemiah.find(verse => verse.chapter === 7 && verse.verse === 68);
   assert.equal(gap.sourceUnavailable, true);
   assert.match(gap.sourceNote, /no source text/i);
-  assert.equal(gap.parallelSource?.book, "esdras");
-  assert.equal(gap.parallelSource?.reference, "2:66");
-  assert.match(gap.parallelSource.sourceText, /סוּסֵי/u);
 
   const thirdJohn = await loadBookSource(repoRoot, findBook("3juan"));
   assert.equal(thirdJohn.length, 15);

@@ -4,7 +4,6 @@ import { promisify } from "node:util";
 import { BOOKS, findBook } from "./catalog.js";
 import { translateChunk } from "./ollama.js";
 import { readStatusRows } from "./project-status.js";
-import { NEHEMIAH_GAP_BASIS, NEHEMIAH_GAP_REFERENCE, draftNehemiahGap } from "./source-gap.js";
 import { loadBookSource } from "./source-loader.js";
 import {
   readTranslationDocument,
@@ -85,7 +84,6 @@ export class BatchRunner {
         translatableMissingVerses,
         blockedVerses,
         eligible: ["none", "draft"].includes(status) && translatableMissingVerses > 0,
-        gapResolvable: ["none", "draft"].includes(status) && blockedVerses > 0,
         protected: ["ready", "done"].includes(status)
       };
     }));
@@ -126,76 +124,6 @@ export class BatchRunner {
     this.job.stopRequested = true;
     this.job.state = "stopping";
     log(this.job, "Stop requested. The current Ollama request will finish before the job stops.", "warning");
-    return this.status();
-  }
-
-  async resolveSourceGap({ book: slug, model, acknowledged = false, basis }) {
-    if (["running", "stopping"].includes(this.job.state)) {
-      throw Object.assign(new Error("A first-pass job is already running."), { code: "JOB_RUNNING" });
-    }
-    if (acknowledged !== true) {
-      throw Object.assign(new Error("Confirm that Nehemiah 7:68 will be drafted from Ezra 2:66 OSHB, not invented Hebrew."), { code: "CONFIRMATION_REQUIRED" });
-    }
-    if (basis !== NEHEMIAH_GAP_BASIS) {
-      throw Object.assign(new Error("The only allowed source-gap basis is Ezra 2:66 OSHB."), { code: "INVALID_GAP_BASIS" });
-    }
-    const book = findBook(slug);
-    if (book?.slug !== "nehemias") {
-      throw Object.assign(new Error("The only first-pass source gap is Protestant Nehemiah 7:68."), { code: "UNKNOWN_SOURCE_GAP" });
-    }
-    const scan = (await this.scanBooks()).find(item => item.slug === book.slug);
-    if (scan?.protected) {
-      throw Object.assign(new Error("Ready and done books are protected."), { code: "BOOK_PROTECTED" });
-    }
-    const source = await loadBookSource(this.repoRoot, book);
-    const path = join(this.repoRoot, "translation", book.testament, `${book.slug}.md`);
-    const existing = await readTranslationDocument(path);
-    if (existing.verses.has(NEHEMIAH_GAP_REFERENCE)) {
-      throw Object.assign(new Error("Nehemiah 7:68 already has Spanish. Existing verses are not replaced."), { code: "VERSE_EXISTS" });
-    }
-    const gap = source.find(verse => `${verse.chapter}:${verse.verse}` === NEHEMIAH_GAP_REFERENCE);
-    const ezraPath = join(this.repoRoot, "translation", "ot", "esdras.md");
-    const ezraDocument = await readTranslationDocument(ezraPath);
-    const draft = draftNehemiahGap(gap, ezraDocument.verses.get("2:66"));
-    let spanish = draft.spanish;
-    if (!spanish) {
-      if (!String(model || "").trim()) {
-        throw Object.assign(new Error("Ezra 2:66 has no Spanish yet. Choose an Ollama model to draft Nehemiah 7:68 from that Hebrew."), { code: "MODEL_REQUIRED" });
-      }
-      const translated = await translateChunk({
-        model: String(model).trim(),
-        book,
-        verses: [{
-          chapter: 7,
-          verse: 68,
-          sourceText: draft.sourceText,
-          morphology: draft.morphology
-        }],
-        previousSpanish: this.previousContext(
-          source.findIndex(verse => `${verse.chapter}:${verse.verse}` === NEHEMIAH_GAP_REFERENCE),
-          source,
-          existing.verses
-        )
-      });
-      spanish = translated.get(NEHEMIAH_GAP_REFERENCE);
-    }
-    const document = { ...existing, path };
-    document.verses.set(NEHEMIAH_GAP_REFERENCE, spanish);
-    await writeTranslationDocument(path, book, document.verses);
-    await this.ensureDraftStatus(book, document.verses.size);
-    this.job = {
-      ...this.blankJob(),
-      state: "complete",
-      model: String(model || "").trim(),
-      selectedBooks: [book.slug],
-      completedVerses: 1,
-      totalVerses: 1,
-      currentBook: book.slug,
-      currentReference: `${book.title} ${NEHEMIAH_GAP_REFERENCE}`,
-      startedAt: new Date().toISOString(),
-      finishedAt: new Date().toISOString()
-    };
-    log(this.job, `${book.title} 7:68: drafted from Ezra 2:66 OSHB (${draft.origin}). Status remains draft.`);
     return this.status();
   }
 

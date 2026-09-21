@@ -36,11 +36,8 @@ again resumes from the next missing verse.
   `tools/verify.py <book>` command while the book is incomplete.
 - The verifier is not run at completion, so AI output is never promoted to
   `ready` automatically.
-- OSHB/WLC has no source text for Protestant Nehemiah 7:68 (WLC 7:68 is
-  Protestant 7:69). The app never invents Hebrew for that label. After an
-  explicit confirmation it may draft 7:68 from Ezra 2:66 OSHB: it copies that
-  verse's existing Spanish when present, otherwise it translates the Ezra
-  Hebrew with the selected model. The result stays `draft`.
+- OSHB/WLC has no source text for the canonical LBF label Nehemiah 7:68. The app
+  exposes that one source gap and refuses to invent a translation for it.
 
 Set `LBF_OLLAMA_BASE_URL` if Ollama is not listening at
 `http://127.0.0.1:11434`.
