@@ -7,11 +7,11 @@
 
 ### 1:1
 
-Y fue en los días de juzgar los jueces, y fue hambre en la tierra; y anduvo un hombre de Bet Léjem de Yehudá para peregrinar en campos de Moav, él y su mujer y dos de sus hijos.
+Y fue en los días de juzgar los jueces, y fue hambre en la tierra; y anduvo un hombre de Bet Léjem de Judá para peregrinar en campos de Moav, él y su mujer y dos de sus hijos.
 
 ### 1:2
 
-Y nombre del hombre Elimelek, y nombre de su mujer Noomí, y nombre de dos de sus hijos Majlón y Kilión, efratim de Bet Léjem de Yehudá; y vinieron a campos de Moav, y fueron allí.
+Y nombre del hombre Elimelek, y nombre de su mujer Noomí, y nombre de dos de sus hijos Majlón y Kilión, efratim de Bet Léjem de Judá; y vinieron a campos de Moav, y fueron allí.
 
 ### 1:3
 
@@ -31,7 +31,7 @@ Y se levantó ella y sus nueras, y volvió de campos de Moav, porque oyó en cam
 
 ### 1:7
 
-Y salió del lugar donde estaba allí, y dos de sus nueras con ella; y anduvieron en el camino para volver a tierra de Yehudá.
+Y salió del lugar donde estaba allí, y dos de sus nueras con ella; y anduvieron en el camino para volver a tierra de Judá.
 
 ### 1:8
 
@@ -305,11 +305,11 @@ Y también a Rut la moaviyah mujer de Majlón compré a mí por mujer, para leva
 
 ### 4:11
 
-Y dijeron todo el pueblo que en la puerta, y los ancianos: Testigos. Dé Jehová a la mujer la que viene a tu casa como Rajel y como Leá, que las dos de ellas edificaron casa de Israel; y haz valor en Efratá, y llama nombre en Bet Léjem.
+Y dijeron todo el pueblo que en la puerta, y los ancianos: Testigos. Dé Jehová a la mujer la que viene a tu casa como Raquel y como Lea, que las dos de ellas edificaron casa de Israel; y haz valor en Efratá, y llama nombre en Bet Léjem.
 
 ### 4:12
 
-Y sea tu casa como casa de Pérez, que dio a luz Tamar a Yehudá, de la simiente que dé Jehová a ti de la muchacha esta.
+Y sea tu casa como casa de Pérez, que dio a luz Tamar a Judá, de la simiente que dé Jehová a ti de la muchacha esta.
 
 ### 4:13
 

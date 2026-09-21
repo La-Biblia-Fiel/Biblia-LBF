@@ -9,15 +9,15 @@ Y fue después de la muerte de Yehoshúa, y preguntaron hijos de Israel en Jehov
 
 ### 1:2
 
-Y dijo Jehová: Yehudá subirá; he aquí, di la tierra en su mano.
+Y dijo Jehová: Judá subirá; he aquí, di la tierra en su mano.
 
 ### 1:3
 
-Y dijo Yehudá a Shimón su hermano: Sube conmigo en mi suerte, y pelearemos en el cananeo, y andaré también yo contigo en tu suerte. Y anduvo con él Shimón.
+Y dijo Judá a Simeón su hermano: Sube conmigo en mi suerte, y pelearemos en el cananeo, y andaré también yo contigo en tu suerte. Y anduvo con él Simeón.
 
 ### 1:4
 
-Y subió Yehudá, y dio Jehová al cananeo y al perizeo en su mano, y los hirieron en Bezeq, diez miles varón.
+Y subió Judá, y dio Jehová al cananeo y al perizeo en su mano, y los hirieron en Bezeq, diez miles varón.
 
 ### 1:5
 
@@ -33,15 +33,15 @@ Y dijo Adoni-bézeq: Setenta reyes, pulgares de sus manos y de sus pies cortados
 
 ### 1:8
 
-Y pelearon hijos de Yehudá en Yerushaláim, y la tomaron, y la hirieron a boca de espada, y a la ciudad enviaron en el fuego.
+Y pelearon hijos de Judá en Yerushaláim, y la tomaron, y la hirieron a boca de espada, y a la ciudad enviaron en el fuego.
 
 ### 1:9
 
-Y después bajaron hijos de Yehudá a pelear en el cananeo habitante del monte y del Néguev y de la shefelá.
+Y después bajaron hijos de Judá a pelear en el cananeo habitante del monte y del Neguev y de la shefelá.
 
 ### 1:10
 
-Y anduvo Yehudá al cananeo el habitante en Hevrón —y nombre de Hevrón a faces: Qiryat Arbá—, e hirieron a Sheshai y a Ajiman y a Talmai.
+Y anduvo Judá al cananeo el habitante en Hevrón —y nombre de Hevrón a faces: Qiryat Arbá—, e hirieron a Sheshai y a Ajiman y a Talmai.
 
 ### 1:11
 
@@ -61,23 +61,23 @@ Y fue en su venir ella, y lo impulsó a pedir de con su padre el campo; y se baj
 
 ### 1:15
 
-Y dijo a él: Dame bendición, porque tierra del Néguev me diste, y dame pozos de aguas. Y le dio Calev los pozos superiores y los pozos inferiores.
+Y dijo a él: Dame bendición, porque tierra del Neguev me diste, y dame pozos de aguas. Y le dio Calev los pozos superiores y los pozos inferiores.
 
 ### 1:16
 
-Y hijos del qení, suegro de Moisés, subieron de ciudad de las palmeras con hijos de Yehudá a desierto de Yehudá que en Néguev de Arad; y anduvo y habitó con el pueblo.
+Y hijos del qení, suegro de Moisés, subieron de ciudad de las palmeras con hijos de Judá a desierto de Judá que en Neguev de Arad; y anduvo y habitó con el pueblo.
 
 ### 1:17
 
-Y anduvo Yehudá con Shimón su hermano, e hirieron al cananeo habitante de Tsefat, y la anatematizaron, y llamó el nombre de la ciudad Hormá.
+Y anduvo Judá con Simeón su hermano, e hirieron al cananeo habitante de Tsefat, y la anatematizaron, y llamó el nombre de la ciudad Hormá.
 
 ### 1:18
 
-Y tomó Yehudá a Azá y a su límite, y a Ashqelón y a su límite, y a Eqrón y a su límite.
+Y tomó Judá a Azá y a su límite, y a Ashqelón y a su límite, y a Eqrón y a su límite.
 
 ### 1:19
 
-Y fue Jehová con Yehudá, e hizo poseer el monte; porque no para hacer poseer a habitantes del valle, porque carro de hierro a ellos.
+Y fue Jehová con Judá, e hizo poseer el monte; porque no para hacer poseer a habitantes del valle, porque carro de hierro a ellos.
 
 ### 1:20
 
@@ -85,15 +85,15 @@ Y dieron a Calev a Hevrón, como que habló Moisés; e hizo poseer de allí a tr
 
 ### 1:21
 
-Y al jebuseo habitante de Yerushaláim no hicieron poseer hijos de Binyamín; y habitó el jebuseo con hijos de Binyamín en Yerushaláim hasta el día este.
+Y al jebuseo habitante de Yerushaláim no hicieron poseer hijos de Benjamín; y habitó el jebuseo con hijos de Benjamín en Yerushaláim hasta el día este.
 
 ### 1:22
 
-Y subieron casa de Yosef también ellos a Bet El, y Jehová con ellos.
+Y subieron casa de José también ellos a Bet El, y Jehová con ellos.
 
 ### 1:23
 
-Y exploraron casa de Yosef en Bet El —y nombre de la ciudad a faces: Luz—.
+Y exploraron casa de José en Bet El —y nombre de la ciudad a faces: Luz—.
 
 ### 1:24
 
@@ -109,7 +109,7 @@ Y anduvo el varón a tierra de los hititas, y edificó ciudad, y llamó su nombr
 
 ### 1:27
 
-Y no hizo poseer Menashé a Bet Sheán y a sus hijas, y a Taanak y a sus hijas, y a Dor y a sus hijas, y a habitantes de Yivleam y a sus hijas, y a habitantes de Meguidó y a sus hijas; y se determinó el cananeo a habitar en la tierra esta.
+Y no hizo poseer Manasés a Bet Sheán y a sus hijas, y a Taanak y a sus hijas, y a Dor y a sus hijas, y a habitantes de Yivleam y a sus hijas, y a habitantes de Meguidó y a sus hijas; y se determinó el cananeo a habitar en la tierra esta.
 
 ### 1:28
 
@@ -117,15 +117,15 @@ Y fue cuando se fortaleció Israel, y puso al cananeo a tributo, y hacer poseer 
 
 ### 1:29
 
-Y Efráyim no hizo poseer al cananeo el habitante en Gezer; y habitó el cananeo en su interior, en Gezer.
+Y Efraín no hizo poseer al cananeo el habitante en Gezer; y habitó el cananeo en su interior, en Gezer.
 
 ### 1:30
 
-Zevulún no hizo poseer a habitantes de Kitron y a habitantes de Nahalol; y habitó el cananeo en su interior, y fueron a tributo.
+Zabulón no hizo poseer a habitantes de Kitron y a habitantes de Nahalol; y habitó el cananeo en su interior, y fueron a tributo.
 
 ### 1:31
 
-Asher no hizo poseer a habitantes de Ako y a habitantes de Tsidón y a Ajláv y a Ajziv y a Jelbá y a Afeq y a Rejov.
+Aser no hizo poseer a habitantes de Ako y a habitantes de Sidón y a Ajláv y a Ajziv y a Jelbá y a Afeq y a Rejov.
 
 ### 1:32
 
@@ -133,7 +133,7 @@ Y habitó el asherí en interior del cananeo, habitantes de la tierra, porque no
 
 ### 1:33
 
-Naftalí no hizo poseer a habitantes de Bet Shemesh y a habitantes de Bet Anat; y habitó en interior del cananeo, habitantes de la tierra; y habitantes de Bet Shemesh y Bet Anat fueron a ellos a tributo.
+Neftalí no hizo poseer a habitantes de Bet Shemesh y a habitantes de Bet Anat; y habitó en interior del cananeo, habitantes de la tierra; y habitantes de Bet Shemesh y Bet Anat fueron a ellos a tributo.
 
 ### 1:34
 
@@ -141,7 +141,7 @@ Y apretaron el amorreo a hijos de Dan al monte, porque no lo dio a bajar al vall
 
 ### 1:35
 
-Y se determinó el amorreo a habitar en Har Jeres, en Ayalón y en Shaalbim; y se hizo pesada mano de casa de Yosef, y fueron a tributo.
+Y se determinó el amorreo a habitar en Har Jeres, en Ayalón y en Shaalbim; y se hizo pesada mano de casa de José, y fueron a tributo.
 
 ### 1:36
 
@@ -149,7 +149,7 @@ Y límite del amorreo desde Maalé Aqrabbim, desde ha-Sela y arriba.
 
 ### 2:1
 
-Y subió mensajero de Jehová desde el Gilgal a ha-Bokim, y dijo: Yo hice subir a ustedes de Mizraim, y traje a ustedes a la tierra que juré a padres de ustedes, y dije: No romperé mi pacto con ustedes para siempre.
+Y subió mensajero de Jehová desde el Gilgal a ha-Bokim, y dijo: Yo hice subir a ustedes de Egipto, y traje a ustedes a la tierra que juré a padres de ustedes, y dije: No romperé mi pacto con ustedes para siempre.
 
 ### 2:2
 
@@ -181,7 +181,7 @@ Y murió Yehoshúa hijo de Nun, siervo de Jehová, hijo de cien y diez años.
 
 ### 2:9
 
-Y lo sepultaron en el límite de su heredad, en Timnat Jeres, en monte de Efráyim, al norte del monte Gaash.
+Y lo sepultaron en el límite de su heredad, en Timnat Jeres, en monte de Efraín, al norte del monte Gaash.
 
 ### 2:10
 
@@ -193,7 +193,7 @@ Y hicieron hijos de Israel el mal en ojos de Jehová, y sirvieron a los baales.
 
 ### 2:12
 
-Y abandonaron a Jehová Dios de sus padres, el sacante a ellos de tierra de Mizraim, y anduvieron detrás de dioses otros, de dioses de los pueblos que alrededor de ellos, y se inclinaron a ellos, e irritaron a Jehová.
+Y abandonaron a Jehová Dios de sus padres, el sacante a ellos de tierra de Egipto, y anduvieron detrás de dioses otros, de dioses de los pueblos que alrededor de ellos, y se inclinaron a ellos, e irritaron a Jehová.
 
 ### 2:13
 
@@ -249,7 +249,7 @@ solo a fin de conocimiento de generaciones de hijos de Israel, para enseñarles 
 
 ### 3:3
 
-cinco señores de pelishtim, y todo el cananeo, y el tsidoní, y el jiví habitante de monte del Lebanón, desde monte Baal Jermón hasta Lebó Jamat.
+cinco señores de filisteos, y todo el cananeo, y el tsidoní, y el jiví habitante de monte del Lebanón, desde monte Baal Hermón hasta Lebó Jamat.
 
 ### 3:4
 
@@ -345,7 +345,7 @@ Y Ehud se escapó hasta su demorarse ellos, y él pasó los ídolos, y se escap�
 
 ### 3:27
 
-Y fue en su venir, y tocó en el shofar en monte de Efráyim, y bajaron con él hijos de Israel desde el monte, y él a faces de ellos.
+Y fue en su venir, y tocó en el shofar en monte de Efraín, y bajaron con él hijos de Israel desde el monte, y él a faces de ellos.
 
 ### 3:28
 
@@ -361,7 +361,7 @@ Y fue humillado Moab en el día aquel debajo de mano de Israel; y reposó la tie
 
 ### 3:31
 
-Y después de él fue Shamgar hijo de Anat, e hirió a pelishtim seiscientos varón con aguijada del ganado; y salvó también él a Israel.
+Y después de él fue Shamgar hijo de Anat, e hirió a filisteos seiscientos varón con aguijada del ganado; y salvó también él a Israel.
 
 ### 4:1
 
@@ -381,11 +381,11 @@ Y Devorá, mujer profetisa, mujer de Lapidot, ella juzgando a Israel en el tiemp
 
 ### 4:5
 
-Y ella sentada debajo de palmera de Devorá, entre ha-Ramá y entre Bet El, en monte de Efráyim; y subían a ella hijos de Israel al juicio.
+Y ella sentada debajo de palmera de Devorá, entre ha-Ramá y entre Bet El, en monte de Efraín; y subían a ella hijos de Israel al juicio.
 
 ### 4:6
 
-Y envió y llamó a Baraq hijo de Avinoam, desde Qédesh Naftalí, y dijo a él: ¿No mandó Jehová Dios de Israel: Anda, y arrastra en monte Tabor, y tomarás contigo diez miles varón de hijos de Naftalí y de hijos de Zevulún?
+Y envió y llamó a Baraq hijo de Avinoam, desde Qédesh Neftalí, y dijo a él: ¿No mandó Jehová Dios de Israel: Anda, y arrastra en monte Tabor, y tomarás contigo diez miles varón de hijos de Neftalí y de hijos de Zabulón?
 
 ### 4:7
 
@@ -401,7 +401,7 @@ Y dijo: Andando andaré contigo; solo que no será tu gloria sobre el camino que
 
 ### 4:10
 
-Y convocó Baraq a Zevulún y a Naftalí a Qédesh, y subió a sus pies diez miles varón; y subió con él Devorá.
+Y convocó Baraq a Zabulón y a Neftalí a Qédesh, y subió a sus pies diez miles varón; y subió con él Devorá.
 
 ### 4:11
 
@@ -513,23 +513,23 @@ Entonces dominó resto a nobles; pueblo; Jehová dominó a mí en los fuertes.
 
 ### 5:14
 
-Desde Efráyim su raíz en Amaleq; detrás de ti Binyamín en tus pueblos; desde Makir bajaron inscriptores, y desde Zevulún arrastrantes con vara de escriba.
+Desde Efraín su raíz en Amaleq; detrás de ti Benjamín en tus pueblos; desde Makir bajaron inscriptores, y desde Zabulón arrastrantes con vara de escriba.
 
 ### 5:15
 
-Y mis jefes en Yisasjar con Devorá; y Yisasjar así Baraq; en el valle enviado a sus pies. En divisiones de Reuvén grandes resoluciones de corazón.
+Y mis jefes en Isacar con Devorá; y Isacar así Baraq; en el valle enviado a sus pies. En divisiones de Rubén grandes resoluciones de corazón.
 
 ### 5:16
 
-¿Por qué te sentaste entre los apriscos, a oír silbidos de rebaños? A divisiones de Reuvén grandes pesquisas de corazón.
+¿Por qué te sentaste entre los apriscos, a oír silbidos de rebaños? A divisiones de Rubén grandes pesquisas de corazón.
 
 ### 5:17
 
-Gilad en éver del Yarden habitó; y Dan, ¿por qué mora naves? Asher se sentó a costa de mares, y sobre sus puertos habita.
+Galaad en éver del Yarden habitó; y Dan, ¿por qué mora naves? Aser se sentó a costa de mares, y sobre sus puertos habita.
 
 ### 5:18
 
-Zevulún pueblo que menospreció su alma a morir, y Naftalí sobre alturas de campo.
+Zabulón pueblo que menospreció su alma a morir, y Neftalí sobre alturas de campo.
 
 ### 5:19
 
@@ -615,11 +615,11 @@ Y fue, cuando clamaron hijos de Israel a Jehová sobre asuntos de Midyán,
 
 ### 6:8
 
-y envió Jehová varón profeta a hijos de Israel, y dijo a ellos: Así dijo Jehová Dios de Israel: Yo hice subir a ustedes desde Mizraim, y saqué a ustedes de casa de siervos;
+y envió Jehová varón profeta a hijos de Israel, y dijo a ellos: Así dijo Jehová Dios de Israel: Yo hice subir a ustedes desde Egipto, y saqué a ustedes de casa de siervos;
 
 ### 6:9
 
-y libré a ustedes de mano de Mizraim y de mano de todos sus opresores de ustedes, y los eché de faces de ustedes, y di a ustedes su tierra.
+y libré a ustedes de mano de Egipto y de mano de todos sus opresores de ustedes, y los eché de faces de ustedes, y di a ustedes su tierra.
 
 ### 6:10
 
@@ -635,7 +635,7 @@ Y se apareció a él mensajero de Jehová, y dijo a él: Jehová contigo, podero
 
 ### 6:13
 
-Y dijo a él Gidón: Bi, mi señor, y si hay Jehová con nosotros, ¿y por qué nos halló todo esto? ¿Y dónde están todas sus maravillas que contaron a nosotros nuestros padres, diciendo: ¿No desde Mizraim nos hizo subir Jehová? Y ahora nos abandonó Jehová, y nos dio en palma de Midyán.
+Y dijo a él Gidón: Bi, mi señor, y si hay Jehová con nosotros, ¿y por qué nos halló todo esto? ¿Y dónde están todas sus maravillas que contaron a nosotros nuestros padres, diciendo: ¿No desde Egipto nos hizo subir Jehová? Y ahora nos abandonó Jehová, y nos dio en palma de Midyán.
 
 ### 6:14
 
@@ -643,7 +643,7 @@ Y se volvió a él Jehová, y dijo: Anda en tu fuerza esta, y salvarás a Israel
 
 ### 6:15
 
-Y dijo a él: Bi, Adonai, ¿con qué salvaré a Israel? He aquí mi mil es el débil en Menashé, y yo soy el menor en casa de mi padre.
+Y dijo a él: Bi, Adonai, ¿con qué salvaré a Israel? He aquí mi mil es el débil en Manasés, y yo soy el menor en casa de mi padre.
 
 ### 6:16
 
@@ -723,7 +723,7 @@ Y espíritu de Jehová vistió a Gidón, y tocó en el shofar, y fue convocado A
 
 ### 6:35
 
-Y mensajeros envió en todo Menashé, y fue convocado también él detrás de él; y mensajeros envió en Asher y en Zevulún y en Naftalí, y subieron a su encuentro.
+Y mensajeros envió en todo Manasés, y fue convocado también él detrás de él; y mensajeros envió en Aser y en Zabulón y en Neftalí, y subieron a su encuentro.
 
 ### 6:36
 
@@ -757,7 +757,7 @@ Y dijo Jehová a Gidón: Mucho es el pueblo que contigo para mi dar a Midyán en
 
 ### 7:3
 
-Y ahora, llama por favor en oídos del pueblo, diciendo: ¿Quién es temeroso y temblante? Vuelva y parta temprano desde monte del Gilad. Y volvió desde el pueblo veinte y dos mil, y diez mil quedaron.
+Y ahora, llama por favor en oídos del pueblo, diciendo: ¿Quién es temeroso y temblante? Vuelva y parta temprano desde monte del Galaad. Y volvió desde el pueblo veinte y dos mil, y diez mil quedaron.
 
 ### 7:4
 
@@ -837,11 +837,11 @@ Y tocaron los trescientos los shofarot, y puso Jehová espada de varón en su co
 
 ### 7:23
 
-Y fue convocado varón de Israel desde Naftalí y desde Asher y desde todo Menashé, y persiguieron detrás de Midyán.
+Y fue convocado varón de Israel desde Neftalí y desde Aser y desde todo Manasés, y persiguieron detrás de Midyán.
 
 ### 7:24
 
-Y mensajeros envió Gidón en todo monte de Efráyim, diciendo: Bajen al encuentro de Midyán, y capturen para ellos las aguas hasta Bet Bará, y el Yarden. Y fue convocado todo varón de Efráyim, y capturaron las aguas hasta Bet Bará y el Yarden.
+Y mensajeros envió Gidón en todo monte de Efraín, diciendo: Bajen al encuentro de Midyán, y capturen para ellos las aguas hasta Bet Bará, y el Yarden. Y fue convocado todo varón de Efraín, y capturaron las aguas hasta Bet Bará y el Yarden.
 
 ### 7:25
 
@@ -851,11 +851,11 @@ Y capturaron dos jefes de Midyán, a Orev y a Zeev, y mataron a Orev en peña de
 
 ### 8:1
 
-Y dijeron a él varón de Efráyim: ¿Qué es la palabra esta que hiciste a nosotros, de no llamar a nosotros cuando anduviste para pelear en Midyán? Y contendieron con él con fuerza.
+Y dijeron a él varón de Efraín: ¿Qué es la palabra esta que hiciste a nosotros, de no llamar a nosotros cuando anduviste para pelear en Midyán? Y contendieron con él con fuerza.
 
 ### 8:2
 
-Y dijo a ellos: ¿Qué hice ahora como ustedes? ¿No mejor las rebuscas de Efráyim que la vendimia de Aviezer?
+Y dijo a ellos: ¿Qué hice ahora como ustedes? ¿No mejor las rebuscas de Efraín que la vendimia de Aviezer?
 
 ### 8:3
 
@@ -971,7 +971,7 @@ Y a Gidón hubo setenta hijos salientes de su muslo, porque mujeres muchas hubo 
 
 ### 8:31
 
-Y su concubina que en Siquem dio a luz a él también ella hijo, y puso su nombre Abimélek.
+Y su concubina que en Siquem dio a luz a él también ella hijo, y puso su nombre Abimelec.
 
 ### 8:32
 
@@ -993,7 +993,7 @@ Y no hicieron misericordia con casa de Yerubaal Gidón conforme a todo el bien q
 
 ### 9:1
 
-Y anduvo Abimélek hijo de Yerubaal a Siquem, a hermanos de su madre, y habló a ellos y a todo clan de casa de padre de su madre, diciendo:
+Y anduvo Abimelec hijo de Yerubaal a Siquem, a hermanos de su madre, y habló a ellos y a todo clan de casa de padre de su madre, diciendo:
 
 ### 9:2
 
@@ -1001,23 +1001,23 @@ Hablen por favor en oídos de todos dueños de Siquem: ¿Qué es bueno a ustedes
 
 ### 9:3
 
-Y hablaron hermanos de su madre sobre él en oídos de todos dueños de Siquem todas las palabras estas; e inclinó su corazón detrás de Abimélek, porque dijeron: Nuestro hermano es él.
+Y hablaron hermanos de su madre sobre él en oídos de todos dueños de Siquem todas las palabras estas; e inclinó su corazón detrás de Abimelec, porque dijeron: Nuestro hermano es él.
 
 ### 9:4
 
-Y dieron a él setenta plata desde casa de Baal Berit; y contrató con ellos Abimélek varones vacíos y temerarios, y anduvieron detrás de él.
+Y dieron a él setenta plata desde casa de Baal Berit; y contrató con ellos Abimelec varones vacíos y temerarios, y anduvieron detrás de él.
 
 ### 9:5
 
-Y vino a casa de su padre, a Ofra, y mató a sus hermanos hijos de Yerubaal, setenta varón, sobre piedra una; y quedó Yotam hijo de Yerubaal el pequeño, porque se escondió.
+Y vino a casa de su padre, a Ofra, y mató a sus hermanos hijos de Yerubaal, setenta varón, sobre piedra una; y quedó Jotam hijo de Yerubaal el pequeño, porque se escondió.
 
 ### 9:6
 
-Y se reunieron todos dueños de Siquem y toda casa de Milo, y fueron y reinaron a Abimélek por rey junto a elón mutsav que está en Siquem.
+Y se reunieron todos dueños de Siquem y toda casa de Milo, y fueron y reinaron a Abimelec por rey junto a elón mutsav que está en Siquem.
 
 ### 9:7
 
-Y anunciaron a Yotam, y anduvo y se paró en cabeza de monte Guerizim, y alzó su voz y clamó, y dijo a ellos: Oigan a mí, dueños de Siquem, y oirá a ustedes Dios.
+Y anunciaron a Jotam, y anduvo y se paró en cabeza de monte Guerizim, y alzó su voz y clamó, y dijo a ellos: Oigan a mí, dueños de Siquem, y oirá a ustedes Dios.
 
 ### 9:8
 
@@ -1053,7 +1053,7 @@ Y dijo el atad a los árboles: Si en verdad ustedes uniéndome por rey sobre ust
 
 ### 9:16
 
-Y ahora, si en verdad y en integridad hicieron, y reinaron a Abimélek, y si bien hicieron con Yerubaal y con su casa, y si conforme a galardón de sus manos hicieron a él—
+Y ahora, si en verdad y en integridad hicieron, y reinaron a Abimelec, y si bien hicieron con Yerubaal y con su casa, y si conforme a galardón de sus manos hicieron a él—
 
 ### 9:17
 
@@ -1061,35 +1061,35 @@ que peleó mi padre sobre ustedes, y echó su alma de enfrente, y libró a usted
 
 ### 9:18
 
-y ustedes se levantaron sobre casa de mi padre hoy, y mataron a sus hijos setenta varón sobre piedra una, y reinaron a Abimélek hijo de su sierva sobre dueños de Siquem, porque hermano de ustedes él—
+y ustedes se levantaron sobre casa de mi padre hoy, y mataron a sus hijos setenta varón sobre piedra una, y reinaron a Abimelec hijo de su sierva sobre dueños de Siquem, porque hermano de ustedes él—
 
 ### 9:19
 
-y si en verdad y en integridad hicieron con Yerubaal y con su casa el día este, alégrense en Abimélek, y se alegre también él en ustedes.
+y si en verdad y en integridad hicieron con Yerubaal y con su casa el día este, alégrense en Abimelec, y se alegre también él en ustedes.
 
 ### 9:20
 
-Y si no, saldrá fuego desde Abimélek y comerá a dueños de Siquem y a casa de Milo, y saldrá fuego desde dueños de Siquem y desde casa de Milo y comerá a Abimélek.
+Y si no, saldrá fuego desde Abimelec y comerá a dueños de Siquem y a casa de Milo, y saldrá fuego desde dueños de Siquem y desde casa de Milo y comerá a Abimelec.
 
 ### 9:21
 
-Y huyó Yotam, y escapó, y anduvo a Beer, y habitó allí de faces de Abimélek su hermano.
+Y huyó Jotam, y escapó, y anduvo a Beer, y habitó allí de faces de Abimelec su hermano.
 
 ### 9:22
 
-Y principió Abimélek sobre Israel tres años.
+Y principió Abimelec sobre Israel tres años.
 
 ### 9:23
 
-Y envió Dios espíritu malo entre Abimélek y entre dueños de Siquem; y traicionaron dueños de Siquem en Abimélek,
+Y envió Dios espíritu malo entre Abimelec y entre dueños de Siquem; y traicionaron dueños de Siquem en Abimelec,
 
 ### 9:24
 
-para venir violencia de setenta hijos de Yerubaal, y su sangre para poner sobre Abimélek su hermano que mató a ellos, y sobre dueños de Siquem que fortalecieron sus manos para matar a sus hermanos.
+para venir violencia de setenta hijos de Yerubaal, y su sangre para poner sobre Abimelec su hermano que mató a ellos, y sobre dueños de Siquem que fortalecieron sus manos para matar a sus hermanos.
 
 ### 9:25
 
-Y pusieron a él dueños de Siquem emboscadores sobre cabezas de los montes, y robaban a todo el que pasaba sobre ellos en el camino; y fue anunciado a Abimélek.
+Y pusieron a él dueños de Siquem emboscadores sobre cabezas de los montes, y robaban a todo el que pasaba sobre ellos en el camino; y fue anunciado a Abimelec.
 
 ### 9:26
 
@@ -1097,15 +1097,15 @@ Y vino Gaal hijo de Éved y sus hermanos, y pasaron en Siquem; y confiaron en é
 
 ### 9:27
 
-Y salieron al campo, y vendimiaron sus viñas, y pisaron, e hicieron hilulim, y vinieron a casa de sus dioses, y comieron y bebieron, y maldijeron a Abimélek.
+Y salieron al campo, y vendimiaron sus viñas, y pisaron, e hicieron hilulim, y vinieron a casa de sus dioses, y comieron y bebieron, y maldijeron a Abimelec.
 
 ### 9:28
 
-Y dijo Gaal hijo de Éved: ¿Quién es Abimélek, y quién es Siquem, que le sirvamos? ¿No es hijo de Yerubaal, y Zevul su prefecto? Sirvan a varones de Jamor padre de Siquem; ¿y por qué le serviremos nosotros?
+Y dijo Gaal hijo de Éved: ¿Quién es Abimelec, y quién es Siquem, que le sirvamos? ¿No es hijo de Yerubaal, y Zevul su prefecto? Sirvan a varones de Jamor padre de Siquem; ¿y por qué le serviremos nosotros?
 
 ### 9:29
 
-Y ¿quién diera a este pueblo en mi mano, y removería a Abimélek? Y dijo a Abimélek: Multiplica tu ejército y sal.
+Y ¿quién diera a este pueblo en mi mano, y removería a Abimelec? Y dijo a Abimelec: Multiplica tu ejército y sal.
 
 ### 9:30
 
@@ -1113,7 +1113,7 @@ Y oyó Zevul, jefe de la ciudad, las palabras de Gaal hijo de Éved, y se encend
 
 ### 9:31
 
-Y envió mensajeros a Abimélek en Tormá, diciendo: He aquí Gaal hijo de Éved y sus hermanos viniendo a Siquem, y he aquí ellos sitiando la ciudad sobre ti.
+Y envió mensajeros a Abimelec en Tormá, diciendo: He aquí Gaal hijo de Éved y sus hermanos viniendo a Siquem, y he aquí ellos sitiando la ciudad sobre ti.
 
 ### 9:32
 
@@ -1125,11 +1125,11 @@ Y será en la mañana, al salir el sol, madrugarás y acometerás sobre la ciuda
 
 ### 9:34
 
-Y se levantó Abimélek y todo el pueblo que con él de noche, y se emboscaron sobre Siquem cuatro cabezas.
+Y se levantó Abimelec y todo el pueblo que con él de noche, y se emboscaron sobre Siquem cuatro cabezas.
 
 ### 9:35
 
-Y salió Gaal hijo de Éved, y se paró apertura de puerta de la ciudad; y se levantó Abimélek y el pueblo que con él desde la emboscada.
+Y salió Gaal hijo de Éved, y se paró apertura de puerta de la ciudad; y se levantó Abimelec y el pueblo que con él desde la emboscada.
 
 ### 9:36
 
@@ -1141,23 +1141,23 @@ Y añadió todavía Gaal a hablar, y dijo: He aquí pueblo bajando desde ombligo
 
 ### 9:38
 
-Y dijo a él Zevul: ¿Dónde pues tu boca que dices: ¿Quién es Abimélek que le sirvamos? ¿No es este el pueblo que despreciaste en él? Sal por favor ahora y pelea en él.
+Y dijo a él Zevul: ¿Dónde pues tu boca que dices: ¿Quién es Abimelec que le sirvamos? ¿No es este el pueblo que despreciaste en él? Sal por favor ahora y pelea en él.
 
 ### 9:39
 
-Y salió Gaal delante de faces de dueños de Siquem, y peleó en Abimélek.
+Y salió Gaal delante de faces de dueños de Siquem, y peleó en Abimelec.
 
 ### 9:40
 
-Y lo persiguió Abimélek, y huyó de sus faces; y cayeron heridos muchos hasta apertura de la puerta.
+Y lo persiguió Abimelec, y huyó de sus faces; y cayeron heridos muchos hasta apertura de la puerta.
 
 ### 9:41
 
-Y habitó Abimélek en Arumá; y echó Zevul a Gaal y a sus hermanos de habitar en Siquem.
+Y habitó Abimelec en Arumá; y echó Zevul a Gaal y a sus hermanos de habitar en Siquem.
 
 ### 9:42
 
-Y fue al día siguiente, y salió el pueblo al campo, y anunciaron a Abimélek.
+Y fue al día siguiente, y salió el pueblo al campo, y anunciaron a Abimelec.
 
 ### 9:43
 
@@ -1165,11 +1165,11 @@ Y tomó al pueblo, y los dividió a tres cabezas, y se emboscó en el campo; y v
 
 ### 9:44
 
-Y Abimélek y las cabezas que con él acometieron, y se pararon apertura de puerta de la ciudad; y dos las cabezas acometieron sobre todo el que en el campo, y los hirieron.
+Y Abimelec y las cabezas que con él acometieron, y se pararon apertura de puerta de la ciudad; y dos las cabezas acometieron sobre todo el que en el campo, y los hirieron.
 
 ### 9:45
 
-Y Abimélek peleó en la ciudad todo el día aquel, y capturó la ciudad, y al pueblo que en ella mató, y derribó la ciudad, y la sembró sal.
+Y Abimelec peleó en la ciudad todo el día aquel, y capturó la ciudad, y al pueblo que en ella mató, y derribó la ciudad, y la sembró sal.
 
 ### 9:46
 
@@ -1177,19 +1177,19 @@ Y oyeron todos dueños de torre de Siquem, y vinieron al tseríaj de Bet El Beri
 
 ### 9:47
 
-Y fue anunciado a Abimélek que se habían congregado todos dueños de torre de Siquem.
+Y fue anunciado a Abimelec que se habían congregado todos dueños de torre de Siquem.
 
 ### 9:48
 
-Y subió Abimélek monte Tsalmón, él y todo el pueblo que con él; y tomó Abimélek las hachas en su mano, y cortó rama de árboles, y la alzó, y la puso sobre su hombro, y dijo al pueblo que con él: ¿Qué vieron que hice? Apresúrense, hagan como yo.
+Y subió Abimelec monte Tsalmón, él y todo el pueblo que con él; y tomó Abimelec las hachas en su mano, y cortó rama de árboles, y la alzó, y la puso sobre su hombro, y dijo al pueblo que con él: ¿Qué vieron que hice? Apresúrense, hagan como yo.
 
 ### 9:49
 
-Y cortaron también todo el pueblo, varón su rama, y anduvieron detrás de Abimélek, y pusieron sobre el tseríaj, e inflamaron sobre ellos el tseríaj en el fuego; y murieron también todos varones de torre de Siquem, como mil varón y mujer.
+Y cortaron también todo el pueblo, varón su rama, y anduvieron detrás de Abimelec, y pusieron sobre el tseríaj, e inflamaron sobre ellos el tseríaj en el fuego; y murieron también todos varones de torre de Siquem, como mil varón y mujer.
 
 ### 9:50
 
-Y anduvo Abimélek a Tévets, y acampó en Tévets, y la capturó.
+Y anduvo Abimelec a Tévets, y acampó en Tévets, y la capturó.
 
 ### 9:51
 
@@ -1197,11 +1197,11 @@ Y torre de fuerza había en medio de la ciudad, y huyeron allá todos los varone
 
 ### 9:52
 
-Y vino Abimélek hasta la torre, y peleó en ella, y se acercó hasta apertura de la torre para quemarla en el fuego.
+Y vino Abimelec hasta la torre, y peleó en ella, y se acercó hasta apertura de la torre para quemarla en el fuego.
 
 ### 9:53
 
-Y echó mujer una pedazo de muela superior sobre cabeza de Abimélek, y aplastó su cráneo.
+Y echó mujer una pedazo de muela superior sobre cabeza de Abimelec, y aplastó su cráneo.
 
 ### 9:54
 
@@ -1209,21 +1209,21 @@ Y llamó pronto al joven portante sus utensilios, y dijo a él: Saca tu espada y
 
 ### 9:55
 
-Y vieron varón de Israel que murió Abimélek, y anduvieron varón a su lugar.
+Y vieron varón de Israel que murió Abimelec, y anduvieron varón a su lugar.
 
 ### 9:56
 
-Y devolvió Dios el mal de Abimélek que hizo a su padre, para matar a setenta sus hermanos.
+Y devolvió Dios el mal de Abimelec que hizo a su padre, para matar a setenta sus hermanos.
 
 ### 9:57
 
-Y todo el mal de varones de Siquem devolvió Dios en su cabeza; y vino a ellos maldición de Yotam hijo de Yerubaal.
+Y todo el mal de varones de Siquem devolvió Dios en su cabeza; y vino a ellos maldición de Jotam hijo de Yerubaal.
 
 ## Capítulo 10
 
 ### 10:1
 
-Y se levantó después de Abimélek para salvar a Israel Tola hijo de Púa hijo de Dodó, varón de Yisasjar; y él era habitante en Shamir en monte de Efráyim.
+Y se levantó después de Abimelec para salvar a Israel Tola hijo de Púa hijo de Dodó, varón de Isacar; y él era habitante en Shamir en monte de Efraín.
 
 ### 10:2
 
@@ -1235,7 +1235,7 @@ Y se levantó después de él Yair el guiladí, y juzgó a Israel veinte y dos a
 
 ### 10:4
 
-Y hubo a él treinta hijos montantes sobre treinta asnos, y treinta ciudades a ellos; a ellos llaman Javot Yair hasta el día este, que están en tierra del Gilad.
+Y hubo a él treinta hijos montantes sobre treinta asnos, y treinta ciudades a ellos; a ellos llaman Javot Yair hasta el día este, que están en tierra del Galaad.
 
 ### 10:5
 
@@ -1243,19 +1243,19 @@ Y murió Yair, y fue sepultado en Qamón.
 
 ### 10:6
 
-Y añadieron hijos de Israel a hacer el malo en ojos de Jehová, y sirvieron a los baales y a las Ashtarot y a dioses de Aram y a dioses de Tsidón y a dioses de Moab y a dioses de hijos de Amón y a dioses de pelishtim; y abandonaron a Jehová, y no le sirvieron.
+Y añadieron hijos de Israel a hacer el malo en ojos de Jehová, y sirvieron a los baales y a las Ashtarot y a dioses de Aram y a dioses de Sidón y a dioses de Moab y a dioses de hijos de Amón y a dioses de filisteos; y abandonaron a Jehová, y no le sirvieron.
 
 ### 10:7
 
-Y se encendió nariz de Jehová en Israel, y los vendió en mano de pelishtim y en mano de hijos de Amón.
+Y se encendió nariz de Jehová en Israel, y los vendió en mano de filisteos y en mano de hijos de Amón.
 
 ### 10:8
 
-Y quebrantaron y oprimieron a hijos de Israel en el año aquel, dieciocho años, a todos hijos de Israel que en éver del Yarden, en tierra del amorreo que en el Gilad.
+Y quebrantaron y oprimieron a hijos de Israel en el año aquel, dieciocho años, a todos hijos de Israel que en éver del Yarden, en tierra del amorreo que en el Galaad.
 
 ### 10:9
 
-Y pasaron hijos de Amón el Yarden para pelear también en Yehudá y en Binyamín y en casa de Efráyim; y fue angustiado a Israel mucho.
+Y pasaron hijos de Amón el Yarden para pelear también en Judá y en Benjamín y en casa de Efraín; y fue angustiado a Israel mucho.
 
 ### 10:10
 
@@ -1263,7 +1263,7 @@ Y clamaron hijos de Israel a Jehová, diciendo: Pecamos a ti, y porque abandonam
 
 ### 10:11
 
-Y dijo Jehová a hijos de Israel: ¿No desde Mizraim y desde el amorreo y desde hijos de Amón y desde pelishtim,
+Y dijo Jehová a hijos de Israel: ¿No desde Egipto y desde el amorreo y desde hijos de Amón y desde filisteos,
 
 ### 10:12
 
@@ -1287,7 +1287,7 @@ Y removieron a dioses de la extranjería de en medio de ellos, y sirvieron a Jeh
 
 ### 10:17
 
-Y fueron convocados hijos de Amón, y acamparon en el Gilad; y se reunieron hijos de Israel, y acamparon en la Mitspe.
+Y fueron convocados hijos de Amón, y acamparon en el Galaad; y se reunieron hijos de Israel, y acamparon en la Mitspe.
 
 ### 10:18
 
@@ -1297,11 +1297,11 @@ Y dijeron el pueblo, jefes de Guilad, varón a su compañero: ¿Quién es el var
 
 ### 11:1
 
-Y Yiftaj el giladí era poderoso de fuerza, y él era hijo de mujer prostituta; y engendró Gilad a Yiftaj.
+Y Yiftaj el giladí era poderoso de fuerza, y él era hijo de mujer prostituta; y engendró Galaad a Yiftaj.
 
 ### 11:2
 
-Y dio a luz la mujer de Gilad a él hijos; y crecieron los hijos de la mujer, y echaron a Yiftaj, y dijeron a él: No heredarás en casa de nuestro padre, porque hijo de otra mujer eres tú.
+Y dio a luz la mujer de Galaad a él hijos; y crecieron los hijos de la mujer, y echaron a Yiftaj, y dijeron a él: No heredarás en casa de nuestro padre, porque hijo de otra mujer eres tú.
 
 ### 11:3
 
@@ -1313,7 +1313,7 @@ Y fue de días, y pelearon hijos de Amón con Israel.
 
 ### 11:5
 
-Y fue cuando pelearon hijos de Amón con Israel, y anduvieron ancianos de Gilad a tomar a Yiftaj desde tierra de Tov.
+Y fue cuando pelearon hijos de Amón con Israel, y anduvieron ancianos de Galaad a tomar a Yiftaj desde tierra de Tov.
 
 ### 11:6
 
@@ -1321,23 +1321,23 @@ Y dijeron a Yiftaj: Anda, y serás a nosotros por caudillo, y peleemos con hijos
 
 ### 11:7
 
-Y dijo Yiftaj a ancianos de Gilad: ¿No me odiaron ustedes, y me echaron de casa de mi padre? ¿Y por qué vinieron a mí ahora cuando estrecho a ustedes?
+Y dijo Yiftaj a ancianos de Galaad: ¿No me odiaron ustedes, y me echaron de casa de mi padre? ¿Y por qué vinieron a mí ahora cuando estrecho a ustedes?
 
 ### 11:8
 
-Y dijeron ancianos de Gilad a Yiftaj: Por tanto ahora volvimos a ti, y andarás con nosotros, y pelearás con hijos de Amón, y serás a nosotros por cabeza a todos los habitantes de Gilad.
+Y dijeron ancianos de Galaad a Yiftaj: Por tanto ahora volvimos a ti, y andarás con nosotros, y pelearás con hijos de Amón, y serás a nosotros por cabeza a todos los habitantes de Galaad.
 
 ### 11:9
 
-Y dijo Yiftaj a ancianos de Gilad: Si ustedes me hacen volver para pelear con hijos de Amón, y da Jehová a ellos delante de mí, yo seré a ustedes por cabeza.
+Y dijo Yiftaj a ancianos de Galaad: Si ustedes me hacen volver para pelear con hijos de Amón, y da Jehová a ellos delante de mí, yo seré a ustedes por cabeza.
 
 ### 11:10
 
-Y dijeron ancianos de Gilad a Yiftaj: Jehová será oyendo entre nosotros, si no conforme a tu palabra así haremos.
+Y dijeron ancianos de Galaad a Yiftaj: Jehová será oyendo entre nosotros, si no conforme a tu palabra así haremos.
 
 ### 11:11
 
-Y anduvo Yiftaj con ancianos de Gilad, y pusieron el pueblo a él sobre ellos por cabeza y por caudillo; y habló Yiftaj todas sus palabras delante de Jehová en ha-Mitspá.
+Y anduvo Yiftaj con ancianos de Galaad, y pusieron el pueblo a él sobre ellos por cabeza y por caudillo; y habló Yiftaj todas sus palabras delante de Jehová en ha-Mitspá.
 
 ### 11:12
 
@@ -1345,7 +1345,7 @@ Y envió Yiftaj mensajeros a rey de hijos de Amón, diciendo: ¿Qué a mí y a t
 
 ### 11:13
 
-Y dijo rey de hijos de Amón a mensajeros de Yiftaj: Porque tomó Israel mi tierra en su subir desde Mizraim, desde Arnón y hasta ha-Yaboq y hasta ha-Yardén; y ahora haz volver a ellas en paz.
+Y dijo rey de hijos de Amón a mensajeros de Yiftaj: Porque tomó Israel mi tierra en su subir desde Egipto, desde Arnón y hasta ha-Yaboq y hasta ha-Yardén; y ahora haz volver a ellas en paz.
 
 ### 11:14
 
@@ -1357,7 +1357,7 @@ Y dijo a él: Así dijo Yiftaj: No tomó Israel tierra de Moav y tierra de hijos
 
 ### 11:16
 
-Porque en su subir desde Mizraim, anduvo Israel en el desierto hasta mar de Suf, y vino a Qadesh.
+Porque en su subir desde Egipto, anduvo Israel en el desierto hasta mar de Suf, y vino a Qadesh.
 
 ### 11:17
 
@@ -1409,7 +1409,7 @@ Y no oyó rey de hijos de Amón a palabras de Yiftaj que envió a él.
 
 ### 11:29
 
-Y fue sobre Yiftaj espíritu de Jehová, y pasó el Gilad y a Menashé, y pasó Mitspé de Gilad, y desde Mitspé de Gilad pasó a hijos de Amón.
+Y fue sobre Yiftaj espíritu de Jehová, y pasó el Galaad y a Manasés, y pasó Mitspé de Galaad, y desde Mitspé de Galaad pasó a hijos de Amón.
 
 ### 11:30
 
@@ -1460,7 +1460,7 @@ De días a días andarán hijas de Israel a conmemorar a hija de Yiftaj el gilad
 
 ### 12:1
 
-Y fue convocado hombre de Efráyim, y pasó hacia el norte, y dijeron a Yiftaj: ¿Por qué pasaste a pelear con hijos de Amón, y a nosotros no llamaste a andar contigo? Tu casa quemaremos sobre ti en el fuego.
+Y fue convocado hombre de Efraín, y pasó hacia el norte, y dijeron a Yiftaj: ¿Por qué pasaste a pelear con hijos de Amón, y a nosotros no llamaste a andar contigo? Tu casa quemaremos sobre ti en el fuego.
 
 ### 12:2
 
@@ -1472,19 +1472,19 @@ Y vi que no eras tú salvando, y puse mi alma en mi palma, y pasé a hijos de Am
 
 ### 12:4
 
-Y reunió Yiftaj a todos los hombres de Gilad, y peleó con Efráyim; e hirieron hombres de Gilad a Efráyim, porque dijeron: Fugitivos de Efráyim ustedes, Gilad, en medio de Efráyim, en medio de Menashé.
+Y reunió Yiftaj a todos los hombres de Galaad, y peleó con Efraín; e hirieron hombres de Galaad a Efraín, porque dijeron: Fugitivos de Efraín ustedes, Galaad, en medio de Efraín, en medio de Manasés.
 
 ### 12:5
 
-Y tomó Gilad los vados del Yardén a Efráyim; y fue cuando decían fugitivos de Efráyim: Pase yo, y decían a él hombres de Gilad: ¿Efratí eres tú? Y decía: No.
+Y tomó Galaad los vados del Yardén a Efraín; y fue cuando decían fugitivos de Efraín: Pase yo, y decían a él hombres de Galaad: ¿Efratí eres tú? Y decía: No.
 
 ### 12:6
 
-Y decían a él: Di, por favor, shibolet; y decía sibolet, y no preparaba hablar así; y lo tomaban, y lo degollaban a los vados del Yardén; y cayó en aquel tiempo de Efráyim cuarenta y dos mil.
+Y decían a él: Di, por favor, shibolet; y decía sibolet, y no preparaba hablar así; y lo tomaban, y lo degollaban a los vados del Yardén; y cayó en aquel tiempo de Efraín cuarenta y dos mil.
 
 ### 12:7
 
-Y juzgó Yiftaj a Israel seis años; y murió Yiftaj el giladí, y fue enterrado en ciudades de Gilad.
+Y juzgó Yiftaj a Israel seis años; y murió Yiftaj el giladí, y fue enterrado en ciudades de Galaad.
 
 ### 12:8
 
@@ -1504,7 +1504,7 @@ Y juzgó después de él a Israel Elón el zevuluní; y juzgó a Israel diez añ
 
 ### 12:12
 
-Y murió Elón el zevuluní, y fue enterrado en Ayalón en tierra de Zevulún.
+Y murió Elón el zevuluní, y fue enterrado en Ayalón en tierra de Zabulón.
 
 ### 12:13
 
@@ -1516,14 +1516,14 @@ Y hubo a él cuarenta hijos y treinta hijos de hijos, montando sobre setenta pol
 
 ### 12:15
 
-Y murió Avdón hijo de Hilél el piratoní, y fue enterrado en Piratón en tierra de Efráyim, en monte del amalequí.
+Y murió Avdón hijo de Hilél el piratoní, y fue enterrado en Piratón en tierra de Efraín, en monte del amalequí.
 
 
 ## Capítulo 13
 
 ### 13:1
 
-Y añadieron hijos de Israel a hacer el mal en ojos de Jehová; y los dio Jehová en mano de pelishtim cuarenta años.
+Y añadieron hijos de Israel a hacer el mal en ojos de Jehová; y los dio Jehová en mano de filisteos cuarenta años.
 
 ### 13:2
 
@@ -1539,7 +1539,7 @@ Y ahora guárdate, por favor, y no bebas vino ni sidra, y no comas toda cosa inm
 
 ### 13:5
 
-Porque he aquí tú estás preñada y darás a luz un hijo, y navaja no subirá sobre su cabeza, porque nazir de Dios será el muchacho desde el vientre; y él comenzará a salvar a Israel de mano de pelishtim.
+Porque he aquí tú estás preñada y darás a luz un hijo, y navaja no subirá sobre su cabeza, porque nazir de Dios será el muchacho desde el vientre; y él comenzará a salvar a Israel de mano de filisteos.
 
 ### 13:6
 
@@ -1626,19 +1626,19 @@ Y comenzó espíritu de Jehová a impulsarlo en Majané Dan, entre Tsorá y entr
 
 ### 14:1
 
-Y bajó Shimshón a Timná, y vio mujer en Timná de hijas de pelishtim.
+Y bajó Shimshón a Timná, y vio mujer en Timná de hijas de filisteos.
 
 ### 14:2
 
-Y subió y declaró a su padre y a su madre, y dijo: Mujer vi en Timná de hijas de pelishtim; y ahora tomen a ella a mí por mujer.
+Y subió y declaró a su padre y a su madre, y dijo: Mujer vi en Timná de hijas de filisteos; y ahora tomen a ella a mí por mujer.
 
 ### 14:3
 
-Y dijo a él su padre y su madre: ¿No hay en hijas de tus hermanos y en todo mi pueblo mujer, que tú andando a tomar mujer de pelishtim los incircuncisos? Y dijo Shimshón a su padre: A ella toma a mí, porque ella enderezó en mis ojos.
+Y dijo a él su padre y su madre: ¿No hay en hijas de tus hermanos y en todo mi pueblo mujer, que tú andando a tomar mujer de filisteos los incircuncisos? Y dijo Shimshón a su padre: A ella toma a mí, porque ella enderezó en mis ojos.
 
 ### 14:4
 
-Y su padre y su madre no sabían que de Jehová era ella, porque ocasión él buscando de pelishtim; y en aquel tiempo pelishtim dominaban en Israel.
+Y su padre y su madre no sabían que de Jehová era ella, porque ocasión él buscando de filisteos; y en aquel tiempo filisteos dominaban en Israel.
 
 ### 14:5
 
@@ -1717,7 +1717,7 @@ Y dijo su padre: Diciendo dije que odiando la odiaste, y la di a tu compañero; 
 
 ### 15:3
 
-Y dijo a ellos Shimshón: Quedé limpio esta vez de pelishtim, porque haciendo yo con ellos mal.
+Y dijo a ellos Shimshón: Quedé limpio esta vez de filisteos, porque haciendo yo con ellos mal.
 
 ### 15:4
 
@@ -1725,11 +1725,11 @@ Y anduvo Shimshón y tomó trescientas zorras, y tomó antorchas, e hizo volver 
 
 ### 15:5
 
-Y encendió fuego en las antorchas, y envió en mieses de pelishtim, y quemó desde montón y hasta mies en pie, y hasta viña de olivo.
+Y encendió fuego en las antorchas, y envió en mieses de filisteos, y quemó desde montón y hasta mies en pie, y hasta viña de olivo.
 
 ### 15:6
 
-Y dijeron pelishtim: ¿Quién hizo esto? Y dijeron: Shimshón, yerno del timní, porque tomó su mujer y la dio a su compañero. Y subieron pelishtim y quemaron a ella y a su padre en el fuego.
+Y dijeron filisteos: ¿Quién hizo esto? Y dijeron: Shimshón, yerno del timní, porque tomó su mujer y la dio a su compañero. Y subieron filisteos y quemaron a ella y a su padre en el fuego.
 
 ### 15:7
 
@@ -1741,19 +1741,19 @@ Y los hirió pierna sobre muslo, herida grande; y bajó y se asentó en grieta d
 
 ### 15:9
 
-Y subieron pelishtim y acamparon en Yehudá, y se extendieron en ha-Lejí.
+Y subieron filisteos y acamparon en Judá, y se extendieron en ha-Lejí.
 
 ### 15:10
 
-Y dijeron hombre de Yehudá: ¿Por qué subieron sobre nosotros? Y dijeron: Para atar a Shimshón subimos, para hacer a él como que hizo a nosotros.
+Y dijeron hombre de Judá: ¿Por qué subieron sobre nosotros? Y dijeron: Para atar a Shimshón subimos, para hacer a él como que hizo a nosotros.
 
 ### 15:11
 
-Y bajaron tres mil hombres de Yehudá a grieta de peña de Eitam, y dijeron a Shimshón: ¿No sabías que pelishtim dominaban en nosotros? ¿Y qué esto hiciste a nosotros? Y dijo a ellos: Como que hicieron a mí, así hice a ellos.
+Y bajaron tres mil hombres de Judá a grieta de peña de Eitam, y dijeron a Shimshón: ¿No sabías que filisteos dominaban en nosotros? ¿Y qué esto hiciste a nosotros? Y dijo a ellos: Como que hicieron a mí, así hice a ellos.
 
 ### 15:12
 
-Y dijeron a él: Para atarte bajamos, para darte en mano de pelishtim. Y dijo a ellos Shimshón: Júrenme a mí, no sea que tropiecen en mí ustedes.
+Y dijeron a él: Para atarte bajamos, para darte en mano de filisteos. Y dijo a ellos Shimshón: Júrenme a mí, no sea que tropiecen en mí ustedes.
 
 ### 15:13
 
@@ -1761,7 +1761,7 @@ Y dijeron a él, diciendo: No, porque atando te ataremos y te daremos en su mano
 
 ### 15:14
 
-Él viniendo hasta Lejí, y pelishtim gritaron a su encuentro; y prosperó sobre él espíritu de Jehová, y fueron las cuerdas que sobre sus brazos como el lino que ardieron en el fuego, y se fundieron sus ataduras de sobre sus manos.
+Él viniendo hasta Lejí, y filisteos gritaron a su encuentro; y prosperó sobre él espíritu de Jehová, y fueron las cuerdas que sobre sus brazos como el lino que ardieron en el fuego, y se fundieron sus ataduras de sobre sus manos.
 
 ### 15:15
 
@@ -1785,7 +1785,7 @@ Y hendió Dios el mortero que en ha-Lejí, y salieron de él aguas, y bebió, y 
 
 ### 15:20
 
-Y juzgó a Israel en días de pelishtim veinte años.
+Y juzgó a Israel en días de filisteos veinte años.
 
 ## Capítulo 16
 
@@ -1807,7 +1807,7 @@ Y fue después de así, y amó una mujer en torrente de Soreq, y su nombre era D
 
 ### 16:5
 
-Y subieron a ella los señores de los pelishtim, y dijeron a ella: Engáñalo, y ve en qué es su fuerza grande, y en qué podamos a él, y lo atemos para afligirlo; y nosotros daremos a ti, cada hombre, mil y cien de plata.
+Y subieron a ella los señores de los filisteos, y dijeron a ella: Engáñalo, y ve en qué es su fuerza grande, y en qué podamos a él, y lo atemos para afligirlo; y nosotros daremos a ti, cada hombre, mil y cien de plata.
 
 ### 16:6
 
@@ -1819,11 +1819,11 @@ Y dijo a ella Shimshón: Si me atan con siete cuerdas húmedas que no han sido s
 
 ### 16:8
 
-Y hicieron subir a ella los señores de los pelishtim siete cuerdas húmedas que no habían sido secadas, y lo ató con ellas.
+Y hicieron subir a ella los señores de los filisteos siete cuerdas húmedas que no habían sido secadas, y lo ató con ellas.
 
 ### 16:9
 
-Y el acecho estaba asentando a ella en la cámara; y dijo a él: ¡Pelishtim sobre ti, Shimshón! Y rompió las cuerdas como que se rompe cordón de estopa al oler fuego; y no fue conocida su fuerza.
+Y el acecho estaba asentando a ella en la cámara; y dijo a él: ¡filisteos sobre ti, Shimshón! Y rompió las cuerdas como que se rompe cordón de estopa al oler fuego; y no fue conocida su fuerza.
 
 ### 16:10
 
@@ -1835,7 +1835,7 @@ Y dijo a ella: Si atar me atan con sogas nuevas que no ha sido hecha en ellas ob
 
 ### 16:12
 
-Y tomó Delilá sogas nuevas, y lo ató con ellas, y dijo a él: ¡Pelishtim sobre ti, Shimshón! Y el acecho estaba asentando en la cámara; y las rompió de sobre sus brazos como un hilo.
+Y tomó Delilá sogas nuevas, y lo ató con ellas, y dijo a él: ¡filisteos sobre ti, Shimshón! Y el acecho estaba asentando en la cámara; y las rompió de sobre sus brazos como un hilo.
 
 ### 16:13
 
@@ -1843,7 +1843,7 @@ Y dijo Delilá a Shimshón: Hasta acá has engañado en mí, y has hablado a mí
 
 ### 16:14
 
-Y clavó con la estaca, y dijo a él: ¡Pelishtim sobre ti, Shimshón! Y despertó de su sueño, y arrancó la estaca del telar y la trama.
+Y clavó con la estaca, y dijo a él: ¡filisteos sobre ti, Shimshón! Y despertó de su sueño, y arrancó la estaca del telar y la trama.
 
 ### 16:15
 
@@ -1859,7 +1859,7 @@ Y declaró a ella todo su corazón, y dijo a ella: Navaja no ha subido sobre mi 
 
 ### 16:18
 
-Y vio Delilá que había declarado a ella todo su corazón, y envió y llamó a los señores de los pelishtim, diciendo: Suban esta vez, porque ha declarado todo su corazón. Y subieron a ella los señores de los pelishtim, e hicieron subir la plata en su mano.
+Y vio Delilá que había declarado a ella todo su corazón, y envió y llamó a los señores de los filisteos, diciendo: Suban esta vez, porque ha declarado todo su corazón. Y subieron a ella los señores de los filisteos, e hicieron subir la plata en su mano.
 
 ### 16:19
 
@@ -1867,11 +1867,11 @@ Y lo hizo dormir sobre sus rodillas, y llamó al hombre, y rapó las siete trenz
 
 ### 16:20
 
-Y dijo: ¡Pelishtim sobre ti, Shimshón! Y despertó de su sueño, y dijo: Saldré como vez en vez, y me sacudiré. Y él no sabía que Jehová se había apartado de sobre él.
+Y dijo: ¡filisteos sobre ti, Shimshón! Y despertó de su sueño, y dijo: Saldré como vez en vez, y me sacudiré. Y él no sabía que Jehová se había apartado de sobre él.
 
 ### 16:21
 
-Y lo asieron los pelishtim, y sacaron sus ojos, y lo hicieron bajar a Azáta, y lo ataron con los bronces, y fue moliendo en casa de los atados.
+Y lo asieron los filisteos, y sacaron sus ojos, y lo hicieron bajar a Azáta, y lo ataron con los bronces, y fue moliendo en casa de los atados.
 
 ### 16:22
 
@@ -1879,7 +1879,7 @@ Y comenzó el pelo de su cabeza a brotar como que fue rapado.
 
 ### 16:23
 
-Y los señores de los pelishtim se reunieron para sacrificar sacrificio grande a Dagón su dios, y a alegría; y dijeron: Ha dado nuestro dios en nuestra mano a Shimshón nuestro enemigo.
+Y los señores de los filisteos se reunieron para sacrificar sacrificio grande a Dagón su dios, y a alegría; y dijeron: Ha dado nuestro dios en nuestra mano a Shimshón nuestro enemigo.
 
 ### 16:24
 
@@ -1895,11 +1895,11 @@ Y dijo Shimshón al muchacho el que asía en su mano: Haz reposar a mí con las 
 
 ### 16:27
 
-Y la casa estaba llena de los hombres y las mujeres, y allí todos los señores de los pelishtim; y sobre el techo como tres mil, hombre y mujer, los que veían en risa de Shimshón.
+Y la casa estaba llena de los hombres y las mujeres, y allí todos los señores de los filisteos; y sobre el techo como tres mil, hombre y mujer, los que veían en risa de Shimshón.
 
 ### 16:28
 
-Y llamó Shimshón a Jehová, y dijo: Adonai Jehová, acuérdate de mí, por favor, y fortaléceme, por favor, solo esta vez esta, el Dios, y me vengaré venganza una de mis dos ojos de los pelishtim.
+Y llamó Shimshón a Jehová, y dijo: Adonai Jehová, acuérdate de mí, por favor, y fortaléceme, por favor, solo esta vez esta, el Dios, y me vengaré venganza una de mis dos ojos de los filisteos.
 
 ### 16:29
 
@@ -1907,7 +1907,7 @@ Y asió Shimshón las dos columnas del medio que la casa está preparada sobre e
 
 ### 16:30
 
-Y dijo Shimshón: Muera mi alma con los pelishtim. Y extendió con fuerza, y cayó la casa sobre los señores y sobre todo el pueblo que en ella; y fueron los muertos que mató en su muerte muchos más que los que mató en sus vidas.
+Y dijo Shimshón: Muera mi alma con los filisteos. Y extendió con fuerza, y cayó la casa sobre los señores y sobre todo el pueblo que en ella; y fueron los muertos que mató en su muerte muchos más que los que mató en sus vidas.
 
 ### 16:31
 
@@ -1917,7 +1917,7 @@ Y bajaron sus hermanos y toda casa de su padre, y alzaron a él, y subieron, y e
 
 ### 17:1
 
-Y fue un hombre de monte de Efráyim, y su nombre era Mijáyehu.
+Y fue un hombre de monte de Efraín, y su nombre era Mijáyehu.
 
 ### 17:2
 
@@ -1941,15 +1941,15 @@ En los días aquellos no hay rey en Israel; hombre lo recto en sus ojos hacía.
 
 ### 17:7
 
-Y fue un muchacho de Bet Léjem de Yehudá, de clan de Yehudá, y él era levita, y él estaba peregrinando allí.
+Y fue un muchacho de Bet Léjem de Judá, de clan de Judá, y él era levita, y él estaba peregrinando allí.
 
 ### 17:8
 
-Y anduvo el hombre de la ciudad, de Bet Léjem de Yehudá, para peregrinar en donde halle; y vino a monte de Efráyim, hasta casa de Mijá, para hacer su camino.
+Y anduvo el hombre de la ciudad, de Bet Léjem de Judá, para peregrinar en donde halle; y vino a monte de Efraín, hasta casa de Mijá, para hacer su camino.
 
 ### 17:9
 
-Y dijo a él Mijá: ¿De dónde vienes? Y dijo a él: Levita soy yo, de Bet Léjem de Yehudá, y yo andando para peregrinar en donde halle.
+Y dijo a él Mijá: ¿De dónde vienes? Y dijo a él: Levita soy yo, de Bet Léjem de Judá, y yo andando para peregrinar en donde halle.
 
 ### 17:10
 
@@ -1975,7 +1975,7 @@ En los días aquellos no hay rey en Israel; y en los días aquellos vara del dan
 
 ### 18:2
 
-Y enviaron hijos de Dan de su clan cinco hombres de sus extremos, hombres hijos de fuerza, de Tsorá y de Eshtaol, para espiar la tierra y para explorarla; y dijeron a ellos: Vayan, exploren la tierra. Y vinieron a monte de Efráyim, hasta casa de Mijá, y pernoctaron allí.
+Y enviaron hijos de Dan de su clan cinco hombres de sus extremos, hombres hijos de fuerza, de Tsorá y de Eshtaol, para espiar la tierra y para explorarla; y dijeron a ellos: Vayan, exploren la tierra. Y vinieron a monte de Efraín, hasta casa de Mijá, y pernoctaron allí.
 
 ### 18:3
 
@@ -2015,11 +2015,11 @@ Y partieron de allí de clan del daní, de Tsorá y de Eshtaol, seiscientos homb
 
 ### 18:12
 
-Y subieron y acamparon en Qiryat Yearim en Yehudá; por eso llamaron al lugar aquel Majané-Dan hasta el día este; he aquí detrás de Qiryat Yearim.
+Y subieron y acamparon en Qiryat Yearim en Judá; por eso llamaron al lugar aquel Majané-Dan hasta el día este; he aquí detrás de Qiryat Yearim.
 
 ### 18:13
 
-Y pasaron de allí a monte de Efráyim, y vinieron hasta casa de Mijá.
+Y pasaron de allí a monte de Efraín, y vinieron hasta casa de Mijá.
 
 ### 18:14
 
@@ -2079,7 +2079,7 @@ Y ellos tomaron lo que hizo Mijá y al sacerdote que era a él, y vinieron sobre
 
 ### 18:28
 
-Y no hay libertador, porque lejos ella de Tsidón, y palabra no hay a ellos con hombre; y ella en el valle que a Bet Rejov; y edificaron la ciudad, y asentaron en ella.
+Y no hay libertador, porque lejos ella de Sidón, y palabra no hay a ellos con hombre; y ella en el valle que a Bet Rejov; y edificaron la ciudad, y asentaron en ella.
 
 ### 18:29
 
@@ -2087,7 +2087,7 @@ Y llamaron nombre de la ciudad Dan, en nombre de Dan su padre que fue nacido a I
 
 ### 18:30
 
-Y levantaron a ellos hijos de Dan la escultura; y Yehonatán hijo de Guershom hijo de Menashé, él y sus hijos, fueron sacerdotes a vara del daní hasta día de cautiverio de la tierra.
+Y levantaron a ellos hijos de Dan la escultura; y Jonatán hijo de Guershom hijo de Manasés, él y sus hijos, fueron sacerdotes a vara del daní hasta día de cautiverio de la tierra.
 
 ### 18:31
 
@@ -2097,11 +2097,11 @@ Y pusieron a ellos escultura de Mijá que hizo, todos los días de existir casa 
 
 ### 19:1
 
-Y fue en los días aquellos, y rey no hay en Israel; y fue un hombre levita peregrinando en flancos de monte de Efráyim, y tomó a sí una mujer concubina de Bet Léjem de Yehudá.
+Y fue en los días aquellos, y rey no hay en Israel; y fue un hombre levita peregrinando en flancos de monte de Efraín, y tomó a sí una mujer concubina de Bet Léjem de Judá.
 
 ### 19:2
 
-Y fornicó sobre él su concubina, y anduvo de con él a casa de su padre, a Bet Léjem de Yehudá, y fue allí días, cuatro meses.
+Y fornicó sobre él su concubina, y anduvo de con él a casa de su padre, a Bet Léjem de Judá, y fue allí días, cuatro meses.
 
 ### 19:3
 
@@ -2149,7 +2149,7 @@ Y dijo a su muchacho: Anda, y nos acerquemos en uno de los lugares, y pernoctemo
 
 ### 19:14
 
-Y pasaron y anduvieron, y vino a ellos el sol cerca de ha-Guivá que a Binyamín.
+Y pasaron y anduvieron, y vino a ellos el sol cerca de ha-Guivá que a Benjamín.
 
 ### 19:15
 
@@ -2157,7 +2157,7 @@ Y se apartaron allí para venir para pernoctar en ha-Guivá; y vino y asentó en
 
 ### 19:16
 
-Y he aquí un hombre anciano viniendo de su obra del campo en la tarde; y el hombre de monte de Efráyim, y él peregrinando en ha-Guivá; y hombres del lugar hijos de yeminí.
+Y he aquí un hombre anciano viniendo de su obra del campo en la tarde; y el hombre de monte de Efraín, y él peregrinando en ha-Guivá; y hombres del lugar hijos de yeminí.
 
 ### 19:17
 
@@ -2165,7 +2165,7 @@ Y alzó sus ojos, y vio al hombre el viajero en plaza de la ciudad; y dijo el ho
 
 ### 19:18
 
-Y dijo a él: Pasando nosotros de Bet Léjem de Yehudá hasta flancos de monte de Efráyim; de allí yo, y anduve hasta Bet Léjem de Yehudá; y a casa de Jehová yo andando, y no hay hombre recogiendo a mí a la casa.
+Y dijo a él: Pasando nosotros de Bet Léjem de Judá hasta flancos de monte de Efraín; de allí yo, y anduve hasta Bet Léjem de Judá; y a casa de Jehová yo andando, y no hay hombre recogiendo a mí a la casa.
 
 ### 19:19
 
@@ -2213,13 +2213,13 @@ Y vino a su casa, y tomó el cuchillo, y asió en su concubina, y la descuartiz�
 
 ### 19:30
 
-Y será: todo el que vea, y diga: No ha sido, y no ha sido vista como esto, desde día de subir hijos de Israel de tierra de Mizraim hasta el día este; pongan ustedes sobre ella; aconsejen, y hablen.
+Y será: todo el que vea, y diga: No ha sido, y no ha sido vista como esto, desde día de subir hijos de Israel de tierra de Egipto hasta el día este; pongan ustedes sobre ella; aconsejen, y hablen.
 
 ## Capítulo 20
 
 ### 20:1
 
-Y salieron todos hijos de Israel, y se congregó la asamblea como hombre uno, desde Dan y hasta Beer Shéva, y tierra del Gilad, a Jehová, a ha-Mitspá.
+Y salieron todos hijos de Israel, y se congregó la asamblea como hombre uno, desde Dan y hasta Beer Shéva, y tierra del Galaad, a Jehová, a ha-Mitspá.
 
 ### 20:2
 
@@ -2227,11 +2227,11 @@ Y se presentaron los ángulos de todo el pueblo, todas varas de Israel, en asamb
 
 ### 20:3
 
-Y oyeron hijos de Binyamín que subieron hijos de Israel a ha-Mitspá; y dijeron hijos de Israel: Hablen: ¿Cómo ha sido el mal este?
+Y oyeron hijos de Benjamín que subieron hijos de Israel a ha-Mitspá; y dijeron hijos de Israel: Hablen: ¿Cómo ha sido el mal este?
 
 ### 20:4
 
-Y respondió el hombre el levita, hombre de la mujer la asesinada, y dijo: A Guiváta que a Binyamín vine yo y mi concubina para pernoctar.
+Y respondió el hombre el levita, hombre de la mujer la asesinada, y dijo: A Guiváta que a Benjamín vine yo y mi concubina para pernoctar.
 
 ### 20:5
 
@@ -2255,7 +2255,7 @@ Y ahora, esta es la cosa que haremos a ha-Guivá: sobre ella por suerte.
 
 ### 20:10
 
-Y tomaremos diez hombres al ciento, a todas varas de Israel, y cien al mil, y mil a la miríada, para tomar provisión al pueblo, para hacer a su venir a Guéva de Binyamín, conforme a toda la necedad que hizo en Israel.
+Y tomaremos diez hombres al ciento, a todas varas de Israel, y cien al mil, y mil a la miríada, para tomar provisión al pueblo, para hacer a su venir a Guéva de Benjamín, conforme a toda la necedad que hizo en Israel.
 
 ### 20:11
 
@@ -2263,19 +2263,19 @@ Y se reunió todo hombre de Israel a la ciudad como hombre uno, compañeros.
 
 ### 20:12
 
-Y enviaron varas de Israel hombres en todas varas de Binyamín, diciendo: ¿Qué es el mal este que ha sido en ustedes?
+Y enviaron varas de Israel hombres en todas varas de Benjamín, diciendo: ¿Qué es el mal este que ha sido en ustedes?
 
 ### 20:13
 
-Y ahora, den a los hombres, hijos de beliaal, que en ha-Guivá, y los mataremos, y quemaremos mal de Israel. Y no quisieron hijos de Binyamín oír en voz de sus hermanos, hijos de Israel.
+Y ahora, den a los hombres, hijos de beliaal, que en ha-Guivá, y los mataremos, y quemaremos mal de Israel. Y no quisieron hijos de Benjamín oír en voz de sus hermanos, hijos de Israel.
 
 ### 20:14
 
-Y se reunieron hijos de Binyamín de las ciudades a Guiváta, para salir a la guerra con hijos de Israel.
+Y se reunieron hijos de Benjamín de las ciudades a Guiváta, para salir a la guerra con hijos de Israel.
 
 ### 20:15
 
-Y fueron contados hijos de Binyamín en el día aquel de las ciudades: veintiséis mil hombre desenvainando espada, aparte de habitantes de ha-Guivá; fueron contados setecientos hombre escogido.
+Y fueron contados hijos de Benjamín en el día aquel de las ciudades: veintiséis mil hombre desenvainando espada, aparte de habitantes de ha-Guivá; fueron contados setecientos hombre escogido.
 
 ### 20:16
 
@@ -2283,11 +2283,11 @@ De todo el pueblo este, setecientos hombre escogido, impedido de mano de su dere
 
 ### 20:17
 
-Y hombre de Israel fueron contados, aparte de Binyamín, cuatrocientos mil hombre desenvainando espada; todo este hombre de guerra.
+Y hombre de Israel fueron contados, aparte de Benjamín, cuatrocientos mil hombre desenvainando espada; todo este hombre de guerra.
 
 ### 20:18
 
-Y se levantaron y subieron a Bet El, y preguntaron en Dios; y dijeron hijos de Israel: ¿Quién subirá a nosotros al principio a la guerra con hijos de Binyamín? Y dijo Jehová: Yehudá al principio.
+Y se levantaron y subieron a Bet El, y preguntaron en Dios; y dijeron hijos de Israel: ¿Quién subirá a nosotros al principio a la guerra con hijos de Benjamín? Y dijo Jehová: Judá al principio.
 
 ### 20:19
 
@@ -2295,11 +2295,11 @@ Y se levantaron hijos de Israel en la mañana, y acamparon sobre ha-Guivá.
 
 ### 20:20
 
-Y salió hombre de Israel a la guerra con Binyamín; y ordenaron con ellos hombre de Israel guerra hacia ha-Guivá.
+Y salió hombre de Israel a la guerra con Benjamín; y ordenaron con ellos hombre de Israel guerra hacia ha-Guivá.
 
 ### 20:21
 
-Y salieron hijos de Binyamín de ha-Guivá, y destruyeron en Israel en el día aquel veintidós mil hombre a tierra.
+Y salieron hijos de Benjamín de ha-Guivá, y destruyeron en Israel en el día aquel veintidós mil hombre a tierra.
 
 ### 20:22
 
@@ -2307,15 +2307,15 @@ Y se fortaleció el pueblo, hombre de Israel, y añadieron a ordenar guerra en e
 
 ### 20:23
 
-Y subieron hijos de Israel, y lloraron delante de faces de Jehová hasta la tarde, y preguntaron en Jehová, diciendo: ¿Añadiré a acercarme a la guerra con hijos de Binyamín mi hermano? Y dijo Jehová: Suban a él.
+Y subieron hijos de Israel, y lloraron delante de faces de Jehová hasta la tarde, y preguntaron en Jehová, diciendo: ¿Añadiré a acercarme a la guerra con hijos de Benjamín mi hermano? Y dijo Jehová: Suban a él.
 
 ### 20:24
 
-Y se acercaron hijos de Israel a hijos de Binyamín en el día el segundo.
+Y se acercaron hijos de Israel a hijos de Benjamín en el día el segundo.
 
 ### 20:25
 
-Y salió Binyamín a su encuentro de ha-Guivá en el día el segundo, y destruyeron en hijos de Israel aún dieciocho mil hombre a tierra; todos estos desenvainando espada.
+Y salió Benjamín a su encuentro de ha-Guivá en el día el segundo, y destruyeron en hijos de Israel aún dieciocho mil hombre a tierra; todos estos desenvainando espada.
 
 ### 20:26
 
@@ -2327,7 +2327,7 @@ Y preguntaron hijos de Israel en Jehová; y allí estaba arca de pacto de Dios e
 
 ### 20:28
 
-Y Pinjás hijo de Elazar hijo de Aarón estando delante de faces de él en los días aquellos, diciendo: ¿Añadiré aún a salir a la guerra con hijos de Binyamín mi hermano, o cesaré? Y dijo Jehová: Suban, porque mañana lo daré en tu mano.
+Y Pinjás hijo de Elazar hijo de Aarón estando delante de faces de él en los días aquellos, diciendo: ¿Añadiré aún a salir a la guerra con hijos de Benjamín mi hermano, o cesaré? Y dijo Jehová: Suban, porque mañana lo daré en tu mano.
 
 ### 20:29
 
@@ -2335,15 +2335,15 @@ Y puso Israel acechos a ha-Guivá alrededor.
 
 ### 20:30
 
-Y subieron hijos de Israel a hijos de Binyamín en el día el tercero, y ordenaron a ha-Guivá como vez en vez.
+Y subieron hijos de Israel a hijos de Benjamín en el día el tercero, y ordenaron a ha-Guivá como vez en vez.
 
 ### 20:31
 
-Y salieron hijos de Binyamín al encuentro del pueblo; fueron arrancados de la ciudad, y comenzaron a herir del pueblo heridos como vez en vez, en los caminos que uno subiendo a Bet El y uno a Guiváta, en el campo, como treinta hombre en Israel.
+Y salieron hijos de Benjamín al encuentro del pueblo; fueron arrancados de la ciudad, y comenzaron a herir del pueblo heridos como vez en vez, en los caminos que uno subiendo a Bet El y uno a Guiváta, en el campo, como treinta hombre en Israel.
 
 ### 20:32
 
-Y dijeron hijos de Binyamín: Golpeados ellos delante de faces de nosotros como al principio. Y hijos de Israel dijeron: Huyamos, y lo arrancaremos de la ciudad a los caminos.
+Y dijeron hijos de Benjamín: Golpeados ellos delante de faces de nosotros como al principio. Y hijos de Israel dijeron: Huyamos, y lo arrancaremos de la ciudad a los caminos.
 
 ### 20:33
 
@@ -2355,11 +2355,11 @@ Y vinieron de enfrente a ha-Guivá diez mil hombre escogido de todo Israel, y la
 
 ### 20:35
 
-Y golpeó Jehová a Binyamín delante de faces de Israel; y destruyeron hijos de Israel en Binyamín en el día aquel veinticinco mil y cien hombre; todos estos desenvainando espada.
+Y golpeó Jehová a Benjamín delante de faces de Israel; y destruyeron hijos de Israel en Benjamín en el día aquel veinticinco mil y cien hombre; todos estos desenvainando espada.
 
 ### 20:36
 
-Y vieron hijos de Binyamín que fueron golpeados; y dieron hombre de Israel lugar a Binyamín, porque confiaron al acecho que pusieron a ha-Guivá.
+Y vieron hijos de Benjamín que fueron golpeados; y dieron hombre de Israel lugar a Benjamín, porque confiaron al acecho que pusieron a ha-Guivá.
 
 ### 20:37
 
@@ -2371,15 +2371,15 @@ Y la señal era a hombre de Israel con el acecho: multiplicar para hacerles subi
 
 ### 20:39
 
-Y se volvió hombre de Israel en la guerra; y Binyamín comenzó a herir heridos en hombre de Israel como treinta hombre, porque dijeron: Solo golpeando es golpeado él delante de faces de nosotros como la guerra la primera.
+Y se volvió hombre de Israel en la guerra; y Benjamín comenzó a herir heridos en hombre de Israel como treinta hombre, porque dijeron: Solo golpeando es golpeado él delante de faces de nosotros como la guerra la primera.
 
 ### 20:40
 
-Y la alzada comenzó a subir de la ciudad, columna de humo; y se volvió Binyamín detrás de sí, y he aquí subió el todo de la ciudad a los cielos.
+Y la alzada comenzó a subir de la ciudad, columna de humo; y se volvió Benjamín detrás de sí, y he aquí subió el todo de la ciudad a los cielos.
 
 ### 20:41
 
-Y hombre de Israel se volvió, y se turbó hombre de Binyamín, porque vio que tocó sobre él el mal.
+Y hombre de Israel se volvió, y se turbó hombre de Benjamín, porque vio que tocó sobre él el mal.
 
 ### 20:42
 
@@ -2387,11 +2387,11 @@ Y se volvieron delante de faces de hombre de Israel a camino del desierto, y la 
 
 ### 20:43
 
-Rodearon a Binyamín; lo persiguieron; descanso lo pisaron hasta enfrente de ha-Guivá, desde salida de sol.
+Rodearon a Benjamín; lo persiguieron; descanso lo pisaron hasta enfrente de ha-Guivá, desde salida de sol.
 
 ### 20:44
 
-Y cayeron de Binyamín dieciocho mil hombre; a todos estos hombres de fuerza.
+Y cayeron de Benjamín dieciocho mil hombre; a todos estos hombres de fuerza.
 
 ### 20:45
 
@@ -2399,7 +2399,7 @@ Y se volvieron y huyeron al desierto, a peña de ha-Rimón; y espigaron en los c
 
 ### 20:46
 
-Y fueron todos los caídos de Binyamín veinticinco mil hombre desenvainando espada en el día aquel; a todos estos hombres de fuerza.
+Y fueron todos los caídos de Benjamín veinticinco mil hombre desenvainando espada en el día aquel; a todos estos hombres de fuerza.
 
 ### 20:47
 
@@ -2407,13 +2407,13 @@ Y se volvieron y huyeron al desierto, a peña de ha-Rimón, seiscientos hombre; 
 
 ### 20:48
 
-Y hombre de Israel volvieron a hijos de Binyamín, y los hirieron a boca de espada, desde ciudad de integridad hasta bestia, hasta todo lo hallado; también todas las ciudades las halladas enviaron en el fuego.
+Y hombre de Israel volvieron a hijos de Benjamín, y los hirieron a boca de espada, desde ciudad de integridad hasta bestia, hasta todo lo hallado; también todas las ciudades las halladas enviaron en el fuego.
 
 ## Capítulo 21
 
 ### 21:1
 
-Y hombre de Israel juró en ha-Mitspá, diciendo: Hombre de nosotros no dará su hija a Binyamín por mujer.
+Y hombre de Israel juró en ha-Mitspá, diciendo: Hombre de nosotros no dará su hija a Benjamín por mujer.
 
 ### 21:2
 
@@ -2433,7 +2433,7 @@ Y dijeron hijos de Israel: ¿Quién que no subió en la asamblea de todas varas 
 
 ### 21:6
 
-Y se arrepintieron hijos de Israel a Binyamín su hermano, y dijeron: Ha sido cortada hoy vara una de Israel.
+Y se arrepintieron hijos de Israel a Benjamín su hermano, y dijeron: Ha sido cortada hoy vara una de Israel.
 
 ### 21:7
 
@@ -2441,15 +2441,15 @@ Y se arrepintieron hijos de Israel a Binyamín su hermano, y dijeron: Ha sido co
 
 ### 21:8
 
-Y dijeron: ¿Quién uno de varas de Israel que no subió a Jehová a ha-Mitspá? Y he aquí no vino hombre al campamento de Yavesh Gilad a la asamblea.
+Y dijeron: ¿Quién uno de varas de Israel que no subió a Jehová a ha-Mitspá? Y he aquí no vino hombre al campamento de Yavesh Galaad a la asamblea.
 
 ### 21:9
 
-Y fue contado el pueblo, y he aquí no hay allí hombre de habitantes de Yavesh Gilad.
+Y fue contado el pueblo, y he aquí no hay allí hombre de habitantes de Yavesh Galaad.
 
 ### 21:10
 
-Y enviaron allí la asamblea doce mil hombre de hijos de la fuerza, y mandaron a ellos, diciendo: Vayan, e hieran a habitantes de Yavesh Gilad a boca de espada, y las mujeres y el niño.
+Y enviaron allí la asamblea doce mil hombre de hijos de la fuerza, y mandaron a ellos, diciendo: Vayan, e hieran a habitantes de Yavesh Galaad a boca de espada, y las mujeres y el niño.
 
 ### 21:11
 
@@ -2457,31 +2457,31 @@ Y esta es la cosa que harán: todo macho, y toda mujer conocedora de lecho de ma
 
 ### 21:12
 
-Y hallaron de habitantes de Yavesh Gilad cuatrocientas muchacha virgen que no conoció hombre a lecho de macho, y las hicieron venir al campamento Shiló, que en tierra de Canaán.
+Y hallaron de habitantes de Yavesh Galaad cuatrocientas muchacha virgen que no conoció hombre a lecho de macho, y las hicieron venir al campamento Shiló, que en tierra de Canaán.
 
 ### 21:13
 
-Y envió toda la asamblea, y hablaron a hijos de Binyamín que en peña de Rimón, y llamaron a ellos paz.
+Y envió toda la asamblea, y hablaron a hijos de Benjamín que en peña de Rimón, y llamaron a ellos paz.
 
 ### 21:14
 
-Y volvió Binyamín en el tiempo aquel, y dieron a ellos las mujeres que hicieron vivir de mujeres de Yavesh Gilad; y no hallaron a ellos así.
+Y volvió Benjamín en el tiempo aquel, y dieron a ellos las mujeres que hicieron vivir de mujeres de Yavesh Galaad; y no hallaron a ellos así.
 
 ### 21:15
 
-Y el pueblo estaba arrepentido a Binyamín, porque hizo Jehová brecha en varas de Israel.
+Y el pueblo estaba arrepentido a Benjamín, porque hizo Jehová brecha en varas de Israel.
 
 ### 21:16
 
-Y dijeron ancianos de la asamblea: ¿Qué haremos a los restantes por mujeres? Porque ha sido destruida de Binyamín mujer.
+Y dijeron ancianos de la asamblea: ¿Qué haremos a los restantes por mujeres? Porque ha sido destruida de Benjamín mujer.
 
 ### 21:17
 
-Y dijeron: Heredad de escape a Binyamín, y no será borrada vara de Israel.
+Y dijeron: Heredad de escape a Benjamín, y no será borrada vara de Israel.
 
 ### 21:18
 
-Y nosotros no podremos dar a ellos mujeres de nuestras hijas, porque juraron hijos de Israel, diciendo: Maldito el que da mujer a Binyamín.
+Y nosotros no podremos dar a ellos mujeres de nuestras hijas, porque juraron hijos de Israel, diciendo: Maldito el que da mujer a Benjamín.
 
 ### 21:19
 
@@ -2489,11 +2489,11 @@ Y dijeron: He aquí fiesta de Jehová en Shiló de días a días, que desde nort
 
 ### 21:20
 
-Y mandaron a hijos de Binyamín, diciendo: Vayan, y acechen en las viñas.
+Y mandaron a hijos de Benjamín, diciendo: Vayan, y acechen en las viñas.
 
 ### 21:21
 
-Y vean, y he aquí si salen hijas de Shiló a danzar en las danzas, y salgan de las viñas, y arrebaten a ustedes, hombre su mujer, de hijas de Shiló, y anden a tierra de Binyamín.
+Y vean, y he aquí si salen hijas de Shiló a danzar en las danzas, y salgan de las viñas, y arrebaten a ustedes, hombre su mujer, de hijas de Shiló, y anden a tierra de Benjamín.
 
 ### 21:22
 
@@ -2501,7 +2501,7 @@ Y será cuando vengan sus padres o sus hermanos a contender a nosotros, y diremo
 
 ### 21:23
 
-Y hicieron así hijos de Binyamín, y alzaron mujeres a su número de las danzantes que robaron, y anduvieron y volvieron a su heredad, y edificaron las ciudades, y asentaron en ellas.
+Y hicieron así hijos de Benjamín, y alzaron mujeres a su número de las danzantes que robaron, y anduvieron y volvieron a su heredad, y edificaron las ciudades, y asentaron en ellas.
 
 ### 21:24
 

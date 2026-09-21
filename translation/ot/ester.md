@@ -15,7 +15,7 @@ En los días aquellos, como sentarse el rey Ajashverosh sobre trono de su reino,
 
 ### 1:3
 
-En año tres a su reinar, hizo banquete a todos sus príncipes y sus siervos; fuerza de Páras y Madai, los partemím y príncipes de las provincias, delante de él.
+En año tres a su reinar, hizo banquete a todos sus príncipes y sus siervos; fuerza de Páras y Media, los partemím y príncipes de las provincias, delante de él.
 
 ### 1:4
 
@@ -59,7 +59,7 @@ Y dijo el rey a los sabios conocedores de los tiempos —porque así palabra del
 
 ### 1:14
 
-y el cercano a él: Carshena, Shetar, Admata, Tarshish, Méres, Marsena, Memucán, siete príncipes de Páras y Madai, videntes de la faz del rey, los que se sientan primero en el reino:
+y el cercano a él: Carshena, Shetar, Admata, Tarsis, Méres, Marsena, Memucán, siete príncipes de Páras y Media, videntes de la faz del rey, los que se sientan primero en el reino:
 
 ### 1:15
 
@@ -75,11 +75,11 @@ Porque saldrá palabra de la reina sobre todas las mujeres, para despreciar a su
 
 ### 1:18
 
-Y este día dirán princesas de Páras y Madai, que oyeron la palabra de la reina, a todos príncipes del rey; y según bastante desprecio y furor.
+Y este día dirán princesas de Páras y Media, que oyeron la palabra de la reina, a todos príncipes del rey; y según bastante desprecio y furor.
 
 ### 1:19
 
-Si sobre el rey bueno, salga palabra de reino de delante de él, y se escriba en leyes de Páras y Madai, y no pase, que no venga Vashtí delante del rey Ajashverosh, y su reino dé el rey a su compañera la mejor que ella.
+Si sobre el rey bueno, salga palabra de reino de delante de él, y se escriba en leyes de Páras y Media, y no pase, que no venga Vashtí delante del rey Ajashverosh, y su reino dé el rey a su compañera la mejor que ella.
 
 ### 1:20
 
@@ -117,7 +117,7 @@ Hombre judío había en Shushán la fortaleza, y su nombre Mordojai hijo de Yaí
 
 ### 2:6
 
-que fue deportado de Yerushaláyim con la deportación que fue deportada con Yekonyá rey de Yehudá, que deportó Nebukadnetsár rey de Bavel.
+que fue deportado de Jerusalén con la deportación que fue deportada con Yekonyá rey de Judá, que deportó Nebukadnetsár rey de Babilonia.
 
 ### 2:7
 
@@ -685,7 +685,7 @@ Y puso el rey tributo sobre la tierra y islas del mar.
 
 ### 10:2
 
-Y toda obra de su poder y su valor, y cuenta de grandeza de Mordojai que lo engrandeció el rey, ¿no ellos escritos sobre libro de palabras de los días a reyes de Madai y Páras?
+Y toda obra de su poder y su valor, y cuenta de grandeza de Mordojai que lo engrandeció el rey, ¿no ellos escritos sobre libro de palabras de los días a reyes de Media y Páras?
 
 ### 10:3
 

@@ -1211,7 +1211,7 @@ Porque yo Jehová Dios de ustedes, y se santificarán, y serán santos, porque s
 
 ### 11:45
 
-Porque yo Jehová el haciendo subir a ustedes desde tierra de Mizraim, a ser a ustedes a Dios, y serán santos, porque santo yo.
+Porque yo Jehová el haciendo subir a ustedes desde tierra de Egipto, a ser a ustedes a Dios, y serán santos, porque santo yo.
 
 ### 11:46
 
@@ -2073,7 +2073,7 @@ Habla a hijos de Israel, y dirás a ellos: Yo Jehová su Dios.
 
 ### 18:3
 
-Como hecho de tierra de Mizraim que habitaron en ella no harán, y como hecho de tierra de Canaán que yo trayente a ustedes allá no harán, y en sus estatutos no andarán.
+Como hecho de tierra de Egipto que habitaron en ella no harán, y como hecho de tierra de Canaán que yo trayente a ustedes allá no harán, y en sus estatutos no andarán.
 
 ### 18:4
 
@@ -2145,7 +2145,7 @@ Y a mujer de tu prójimo no darás tu yacimiento a semilla, para contaminarte en
 
 ### 18:21
 
-Y desde tu semilla no darás para hacer pasar a Molek, y no profanarás el nombre de tu Dios; yo Jehová.
+Y desde tu semilla no darás para hacer pasar a Moloc, y no profanarás el nombre de tu Dios; yo Jehová.
 
 ### 18:22
 
@@ -2319,7 +2319,7 @@ Y cuando peregrinare contigo peregrino en su tierra, no lo oprimirán.
 
 ### 19:34
 
-Como nativo desde ustedes será a ustedes el peregrino el peregrinante con ustedes, y lo amarás como tú, porque peregrinos fueron ustedes en tierra de Mizraim; yo Jehová su Dios.
+Como nativo desde ustedes será a ustedes el peregrino el peregrinante con ustedes, y lo amarás como tú, porque peregrinos fueron ustedes en tierra de Egipto; yo Jehová su Dios.
 
 ### 19:35
 
@@ -2327,7 +2327,7 @@ No harán iniquidad en el juicio, en la medida, en el peso y en la capacidad.
 
 ### 19:36
 
-Balanzas de justicia, piedras de justicia, efá de justicia e hin de justicia serán a ustedes; yo Jehová su Dios, que saqué a ustedes desde tierra de Mizraim.
+Balanzas de justicia, piedras de justicia, efá de justicia e hin de justicia serán a ustedes; yo Jehová su Dios, que saqué a ustedes desde tierra de Egipto.
 
 ### 19:37
 
@@ -2342,19 +2342,19 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 20:2
 
-Y a hijos de Israel dirás: Varón varón desde hijos de Israel y desde el peregrino el peregrinante en Israel, que diere desde su semilla a Molek, de morir morirá; pueblo de la tierra lo apedrearán en la piedra.
+Y a hijos de Israel dirás: Varón varón desde hijos de Israel y desde el peregrino el peregrinante en Israel, que diere desde su semilla a Moloc, de morir morirá; pueblo de la tierra lo apedrearán en la piedra.
 
 ### 20:3
 
-Y yo daré mis faces en el varón aquel, y cortaré a él desde medio de su pueblo, porque desde su semilla dio a Molek, a fin de contaminar mi santuario y para profanar el nombre de mi santidad.
+Y yo daré mis faces en el varón aquel, y cortaré a él desde medio de su pueblo, porque desde su semilla dio a Moloc, a fin de contaminar mi santuario y para profanar el nombre de mi santidad.
 
 ### 20:4
 
-Y si de ocultar ocultaren pueblo de la tierra sus ojos desde el varón aquel, en su dar desde su semilla a Molek, para no matar a él,
+Y si de ocultar ocultaren pueblo de la tierra sus ojos desde el varón aquel, en su dar desde su semilla a Moloc, para no matar a él,
 
 ### 20:5
 
-y pondré yo mis faces en el varón aquel y en su familia, y cortaré a él y a todos los fornicantes detrás de él, para fornicar detrás de Molek, desde medio de su pueblo.
+y pondré yo mis faces en el varón aquel y en su familia, y cortaré a él y a todos los fornicantes detrás de él, para fornicar detrás de Moloc, desde medio de su pueblo.
 
 ### 20:6
 
@@ -2676,7 +2676,7 @@ Y no profanarán el nombre de mi santidad, y seré santificado en medio de hijos
 
 ### 22:33
 
-el sacante a ustedes desde tierra de Mizraim para ser a ustedes a Dios; yo Jehová.
+el sacante a ustedes desde tierra de Egipto para ser a ustedes a Dios; yo Jehová.
 
 
 ## Capítulo 23
@@ -2851,7 +2851,7 @@ En las cabañas habitarán siete días; todo el nativo en Israel habitarán en l
 
 ### 23:43
 
-a fin de que conozcan generaciones de ustedes que en las cabañas hice habitar a hijos de Israel en mi sacar a ellos desde tierra de Mizraim; yo Jehová Dios de ustedes.
+a fin de que conozcan generaciones de ustedes que en las cabañas hice habitar a hijos de Israel en mi sacar a ellos desde tierra de Egipto; yo Jehová Dios de ustedes.
 
 ### 23:44
 
@@ -3103,7 +3103,7 @@ Tu plata no darás a él en usura, y en interés no darás tu comida.
 
 ### 25:38
 
-Yo Jehová Dios de ustedes, que saqué a ustedes desde tierra de Mizraim, para dar a ustedes tierra de Canaán, para ser a ustedes a Dios.
+Yo Jehová Dios de ustedes, que saqué a ustedes desde tierra de Egipto, para dar a ustedes tierra de Canaán, para ser a ustedes a Dios.
 
 ### 25:39
 
@@ -3119,7 +3119,7 @@ Y saldrá de contigo él y sus hijos con él, y volverá a su familia, y a poses
 
 ### 25:42
 
-Porque siervos míos ellos, que saqué a ellos desde tierra de Mizraim; no se venderán venta de siervo.
+Porque siervos míos ellos, que saqué a ellos desde tierra de Egipto; no se venderán venta de siervo.
 
 ### 25:43
 
@@ -3171,7 +3171,7 @@ Y si no se redimiere en estos, y saldrá en año del yovel, él y sus hijos con 
 
 ### 25:55
 
-Porque a mí hijos de Israel siervos; siervos míos ellos, que saqué a ellos desde tierra de Mizraim; yo Jehová Dios de ustedes.
+Porque a mí hijos de Israel siervos; siervos míos ellos, que saqué a ellos desde tierra de Egipto; yo Jehová Dios de ustedes.
 
 ## Capítulo 26
 
@@ -3225,7 +3225,7 @@ Y andaré en medio de ustedes, y seré a ustedes a Dios, y ustedes serán a mí 
 
 ### 26:13
 
-Yo Jehová su Dios, que saqué a ustedes desde tierra de Mizraim, de ser a ellos siervos, y quebré varas de su yugo, y los hice andar erectos.
+Yo Jehová su Dios, que saqué a ustedes desde tierra de Egipto, de ser a ellos siervos, y quebré varas de su yugo, y los hice andar erectos.
 
 ### 26:14
 
@@ -3341,7 +3341,7 @@ También yo andaré con ellos en contrario, y los traeré en tierra de sus enemi
 
 ### 26:42
 
-Y recordaré mi pacto Yaakov, y también mi pacto Yitsjaq, y también mi pacto Abraham recordaré, y la tierra recordaré.
+Y recordaré mi pacto Jacob, y también mi pacto Isaac, y también mi pacto Abraham recordaré, y la tierra recordaré.
 
 ### 26:43
 
@@ -3353,7 +3353,7 @@ Y también también esto, en su ser ellos en tierra de sus enemigos, no los dese
 
 ### 26:45
 
-Y recordaré a ellos pacto de primeros, que saqué a ellos desde tierra de Mizraim a ojos de las naciones, a ser a ellos a Dios; yo Jehová.
+Y recordaré a ellos pacto de primeros, que saqué a ellos desde tierra de Egipto a ojos de las naciones, a ser a ellos a Dios; yo Jehová.
 
 ### 26:46
 

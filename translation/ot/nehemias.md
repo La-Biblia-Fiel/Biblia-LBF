@@ -11,11 +11,11 @@ Palabras de Nejemyá hijo de Jakalyá. Y fue en mes de año veinte, y yo estaba 
 
 ### 1:2
 
-Y vino Janani, uno de mis hermanos, él y hombres de Yehudá; y les pregunté sobre los yehudíes la escapada que quedaron del cautiverio, y sobre Yerushaláyim.
+Y vino Janani, uno de mis hermanos, él y hombres de Judá; y les pregunté sobre los yehudíes la escapada que quedaron del cautiverio, y sobre Jerusalén.
 
 ### 1:3
 
-Y me dijeron: Los restantes que quedaron del cautiverio allí en la provincia, en mal grande y en afrenta; y muro de Yerushaláyim derribado, y sus puertas quemadas en el fuego.
+Y me dijeron: Los restantes que quedaron del cautiverio allí en la provincia, en mal grande y en afrenta; y muro de Jerusalén derribado, y sus puertas quemadas en el fuego.
 
 ### 1:4
 
@@ -69,7 +69,7 @@ Y me dijo el rey: ¿Sobre qué es esto que tú buscas? Y oré al Dios de los cie
 
 ### 2:5
 
-Y dije al rey: Si sobre el rey bien, y si bien tu siervo delante de ti, que me envíes a Yehudá, a ciudad de sepulcros de mis padres, y la edifique.
+Y dije al rey: Si sobre el rey bien, y si bien tu siervo delante de ti, que me envíes a Judá, a ciudad de sepulcros de mis padres, y la edifique.
 
 ### 2:6
 
@@ -77,7 +77,7 @@ Y me dijo el rey, y la reina sentada junto a él: ¿Hasta cuándo será tu camin
 
 ### 2:7
 
-Y dije al rey: Si sobre el rey bien, cartas den a mí sobre gobernadores de Más Allá del Río, que me hagan pasar hasta que yo venga a Yehudá;
+Y dije al rey: Si sobre el rey bien, cartas den a mí sobre gobernadores de Más Allá del Río, que me hagan pasar hasta que yo venga a Judá;
 
 ### 2:8
 
@@ -93,15 +93,15 @@ Y oyó Sanbalat el joroní y Toviyá el siervo el amoní, y les fue malo, mal gr
 
 ### 2:11
 
-Y vine a Yerushaláyim, y fui allí días tres.
+Y vine a Jerusalén, y fui allí días tres.
 
 ### 2:12
 
-Y me levanté de noche, yo y hombres pocos conmigo; y no anuncié a hombre qué mi Dios da a mi corazón para hacer por Yerushaláyim; y bestia no hay conmigo sino la bestia en que yo monto.
+Y me levanté de noche, yo y hombres pocos conmigo; y no anuncié a hombre qué mi Dios da a mi corazón para hacer por Jerusalén; y bestia no hay conmigo sino la bestia en que yo monto.
 
 ### 2:13
 
-Y salí por puerta del valle de noche, y hacia frente de fuente del dragón, y hacia puerta de las basuras; y fui inspeccionando en muros de Yerushaláyim que quebrantados, y sus puertas comidas en el fuego.
+Y salí por puerta del valle de noche, y hacia frente de fuente del dragón, y hacia puerta de las basuras; y fui inspeccionando en muros de Jerusalén que quebrantados, y sus puertas comidas en el fuego.
 
 ### 2:14
 
@@ -117,7 +117,7 @@ Y los prefectos no sabían a dónde fui y qué yo hago; y a los yehudíes y a lo
 
 ### 2:17
 
-Y les dije: Ustedes ven el mal en que nosotros estamos, que Yerushaláyim desolada y sus puertas quemadas en el fuego; vengan y edifiquemos el muro de Yerushaláyim, y no seamos más afrenta.
+Y les dije: Ustedes ven el mal en que nosotros estamos, que Jerusalén desolada y sus puertas quemadas en el fuego; vengan y edifiquemos el muro de Jerusalén, y no seamos más afrenta.
 
 ### 2:18
 
@@ -129,7 +129,7 @@ Y oyó Sanbalat el joroní y Toviyá el siervo el amoní y Geshem el árabe, y s
 
 ### 2:20
 
-Y les devolví palabra y les dije: El Dios de los cielos, él prosperará a nosotros, y nosotros sus siervos nos levantaremos y edificaremos; y a ustedes no hay porción ni justicia ni memorial en Yerushaláyim.
+Y les devolví palabra y les dije: El Dios de los cielos, él prosperará a nosotros, y nosotros sus siervos nos levantaremos y edificaremos; y a ustedes no hay porción ni justicia ni memorial en Jerusalén.
 
 ## Capítulo 3
 
@@ -163,11 +163,11 @@ Y sobre su mano reforzó Melatyá el guibeoní y Yadón el meronotí, hombres de
 
 ### 3:8
 
-Sobre su mano reforzó Uziel hijo de Jarjayá, de los orfebres; y sobre su mano reforzó Jananyá hijo de los perfumistas; y dejaron Yerushaláyim hasta el muro el ancho.
+Sobre su mano reforzó Uziel hijo de Jarjayá, de los orfebres; y sobre su mano reforzó Jananyá hijo de los perfumistas; y dejaron Jerusalén hasta el muro el ancho.
 
 ### 3:9
 
-Y sobre su mano reforzó Refayá hijo de Jur, jefe de mitad de distrito de Yerushaláyim.
+Y sobre su mano reforzó Refayá hijo de Jur, jefe de mitad de distrito de Jerusalén.
 
 ### 3:10
 
@@ -179,7 +179,7 @@ Medida segunda reforzó Malkiyá hijo de Jarim y Jashuv hijo de Pajat Moav, y la
 
 ### 3:12
 
-Y sobre su mano reforzó Shalum hijo de Haloésh, jefe de mitad de distrito de Yerushaláyim, él y sus hijas.
+Y sobre su mano reforzó Shalum hijo de Haloésh, jefe de mitad de distrito de Jerusalén, él y sus hijas.
 
 ### 3:13
 
@@ -223,7 +223,7 @@ Y después de él reforzaron los sacerdotes, hombres del círculo.
 
 ### 3:23
 
-Después de él reforzó Binyamín y Jashuv frente a su casa; después de él reforzó Azaryá hijo de Maaseyá hijo de Ananyá, junto a su casa.
+Después de él reforzó Benjamín y Jashuv frente a su casa; después de él reforzó Azaryá hijo de Maaseyá hijo de Ananyá, junto a su casa.
 
 ### 3:24
 
@@ -289,11 +289,11 @@ Y edificamos el muro, y se juntó todo el muro hasta su mitad; y fue corazón al
 
 ### 4:7
 
-Y fue cuando oyó Sanbalat y Toviyá y los árabes y los amonitas y los ashdodíes que subió sanación a muros de Yerushaláyim, que comenzaron las brechas a cerrarse, y se encendió a ellos muy.
+Y fue cuando oyó Sanbalat y Toviyá y los árabes y los amonitas y los ashdodíes que subió sanación a muros de Jerusalén, que comenzaron las brechas a cerrarse, y se encendió a ellos muy.
 
 ### 4:8
 
-Y se conjuraron todos juntos para venir a pelear en Yerushaláyim y para hacerle daño.
+Y se conjuraron todos juntos para venir a pelear en Jerusalén y para hacerle daño.
 
 ### 4:9
 
@@ -301,7 +301,7 @@ Y oramos a nuestro Dios, y pusimos guarda sobre ellos de día y de noche por del
 
 ### 4:10
 
-Y dijo Yehudá: Flaqueó fuerza del cargador, y el polvo mucho; y nosotros no podemos edificar en el muro.
+Y dijo Judá: Flaqueó fuerza del cargador, y el polvo mucho; y nosotros no podemos edificar en el muro.
 
 ### 4:11
 
@@ -325,7 +325,7 @@ Y fue cuando oyeron nuestros enemigos que fue conocido a nosotros, y frustró el
 
 ### 4:16
 
-Y fue desde el día aquel, mitad de mis mozos haciendo en la obra, y su mitad sosteniendo, y las lanzas, los escudos y los arcos y las corazas; y los jefes detrás de toda casa de Yehudá.
+Y fue desde el día aquel, mitad de mis mozos haciendo en la obra, y su mitad sosteniendo, y las lanzas, los escudos y los arcos y las corazas; y los jefes detrás de toda casa de Judá.
 
 ### 4:17
 
@@ -349,7 +349,7 @@ Y nosotros haciendo en la obra, y su mitad sosteniendo en las lanzas, desde subi
 
 ### 4:22
 
-También en el tiempo aquel dije al pueblo: Hombre y su mozo pernocten en medio de Yerushaláyim, y sean a nosotros la noche guarda y el día obra.
+También en el tiempo aquel dije al pueblo: Hombre y su mozo pernocten en medio de Jerusalén, y sean a nosotros la noche guarda y el día obra.
 
 ### 4:23
 
@@ -411,7 +411,7 @@ También mi seno sacudí, y dije: Así sacuda Dios a todo hombre que no levante 
 
 ### 5:14
 
-También desde el día que me mandó ser su gobernador en tierra de Yehudá, desde el año veinte y hasta el año treinta y dos de Artajshastá el rey, años doce, yo y mis hermanos el pan del gobernador no comí.
+También desde el día que me mandó ser su gobernador en tierra de Judá, desde el año veinte y hasta el año treinta y dos de Artajshastá el rey, años doce, yo y mis hermanos el pan del gobernador no comí.
 
 ### 5:15
 
@@ -461,7 +461,7 @@ Escrito en ella: En las naciones se oye, y Gashmu dice: Tú y los yehudíes pien
 
 ### 6:7
 
-Y también profetas asentaste para pregonar sobre ti en Yerushaláyim, diciendo: Rey en Yehudá. Y ahora será oído al rey conforme a estas palabras; y ahora ven, y nos aconsejemos juntos.
+Y también profetas asentaste para pregonar sobre ti en Jerusalén, diciendo: Rey en Judá. Y ahora será oído al rey conforme a estas palabras; y ahora ven, y nos aconsejemos juntos.
 
 ### 6:8
 
@@ -501,11 +501,11 @@ Y fue cuando oyeron todos nuestros enemigos, y vieron todas las naciones que alr
 
 ### 6:17
 
-También en aquellos días muchos nobles de Yehudá sus cartas iban sobre Toviyá, y las de Toviyá venían a ellos.
+También en aquellos días muchos nobles de Judá sus cartas iban sobre Toviyá, y las de Toviyá venían a ellos.
 
 ### 6:18
 
-Porque muchos en Yehudá dueños de juramento a él, porque yerno él a Shekanyá hijo de Áraj, y Yehojanán su hijo tomó a hija de Meshulam hijo de Berekyá.
+Porque muchos en Judá dueños de juramento a él, porque yerno él a Shekanyá hijo de Áraj, y Yehojanán su hijo tomó a hija de Meshulam hijo de Berekyá.
 
 ### 6:19
 
@@ -519,11 +519,11 @@ Y fue cuando fue edificada la muralla, y yo erigí las puertas, y fueron nombrad
 
 ### 7:2
 
-Y encargué a Jananí mi hermano y a Jananyá jefe de la ciudadela sobre Yerushaláyim, porque él como hombre de verdad, y temeroso al Dios más que muchos.
+Y encargué a Jananí mi hermano y a Jananyá jefe de la ciudadela sobre Jerusalén, porque él como hombre de verdad, y temeroso al Dios más que muchos.
 
 ### 7:3
 
-A ellos: no se abrirán puertas de Yerushaláyim hasta calor del sol, y hasta ellos estando cerrarán las puertas y agarren; y erijan guardias de habitantes de Yerushaláyim, hombre en su guardia, y hombre frente a su casa.
+A ellos: no se abrirán puertas de Jerusalén hasta calor del sol, y hasta ellos estando cerrarán las puertas y agarren; y erijan guardias de habitantes de Jerusalén, hombre en su guardia, y hombre frente a su casa.
 
 ### 7:4
 
@@ -535,7 +535,7 @@ Y dio mi Dios a mi corazón, y reuní a los nobles y a los prefectos y al pueblo
 
 ### 7:6
 
-Estos hijos de la provincia los que suben del cautiverio de la deportación que deportó Nebukadnetsár rey de Bavel; y volvieron a Yerushaláyim y a Yehudá, hombre a su ciudad;
+Estos hijos de la provincia los que suben del cautiverio de la deportación que deportó Nebukadnetsár rey de Babilonia; y volvieron a Jerusalén y a Judá, hombre a su ciudad;
 
 ### 7:7
 
@@ -739,7 +739,7 @@ hijos de Netsíaj, hijos de Jatifá.
 
 ### 7:57
 
-Hijos de siervos de Shelomó: hijos de Sotay, hijos de Soferet, hijos de Peridá;
+Hijos de siervos de Salomón: hijos de Sotay, hijos de Soferet, hijos de Peridá;
 
 ### 7:58
 
@@ -751,7 +751,7 @@ hijos de Shefatyá, hijos de Jatil, hijos de Poqueret Hatsvayim, hijos de Amón.
 
 ### 7:60
 
-Todos los netiním e hijos de siervos de Shelomó: tres cientos noventa y dos.
+Todos los netiním e hijos de siervos de Salomón: tres cientos noventa y dos.
 
 ### 7:61
 
@@ -865,11 +865,11 @@ Y hallaron escrito en la torá que mandó Jehová por mano de Moisés, que habit
 
 ### 8:15
 
-y que hagan oír y hagan pasar voz en todas sus ciudades y en Yerushaláyim, diciendo: Salgan al monte y traigan hojas de olivo y hojas de árbol de aceite y hojas de mirto y hojas de palmeras y hojas de árbol espeso, para hacer sucot como lo escrito.
+y que hagan oír y hagan pasar voz en todas sus ciudades y en Jerusalén, diciendo: Salgan al monte y traigan hojas de olivo y hojas de árbol de aceite y hojas de mirto y hojas de palmeras y hojas de árbol espeso, para hacer sucot como lo escrito.
 
 ### 8:16
 
-Y salió el pueblo y trajeron, e hicieron a ellos sucot, hombre sobre su techo y en sus patios y en patios de casa del Dios y en plaza de puerta de las aguas y en plaza de puerta de Efráyim.
+Y salió el pueblo y trajeron, e hicieron a ellos sucot, hombre sobre su techo y en sus patios y en patios de casa del Dios y en plaza de puerta de las aguas y en plaza de puerta de Efraín.
 
 ### 8:17
 
@@ -915,7 +915,7 @@ y hallaste su corazón fiel delante de ti, y cortaste con él el pacto para dar 
 
 ### 9:9
 
-Y viste la aflicción de nuestros padres en Mizraim, y su clamor oíste sobre mar Suf;
+Y viste la aflicción de nuestros padres en Egipto, y su clamor oíste sobre mar Suf;
 
 ### 9:10
 
@@ -951,7 +951,7 @@ y rehusaron oír, y no recordaron tus maravillas que hiciste con ellos, y endure
 
 ### 9:18
 
-Aun cuando hicieron a ellos becerro de fundición, y dijeron: Este tus dioses que te hicieron subir de Mizraim; e hicieron provocaciones grandes.
+Aun cuando hicieron a ellos becerro de fundición, y dijeron: Este tus dioses que te hicieron subir de Egipto; e hicieron provocaciones grandes.
 
 ### 9:19
 
@@ -1007,7 +1007,7 @@ Y en tus misericordias las muchas no los hiciste consumación, y no los abandona
 
 ### 9:32
 
-Y ahora nuestro Dios, el Dios el grande, el fuerte y el temible, guardador del pacto y de la misericordia: no sea poco delante de ti todo el sufrimiento que nos halló, a nuestros reyes, a nuestros jefes y a nuestros sacerdotes y a nuestros profetas y a nuestros padres y a todo tu pueblo, desde días de reyes de Ashur hasta el día este.
+Y ahora nuestro Dios, el Dios el grande, el fuerte y el temible, guardador del pacto y de la misericordia: no sea poco delante de ti todo el sufrimiento que nos halló, a nuestros reyes, a nuestros jefes y a nuestros sacerdotes y a nuestros profetas y a nuestros padres y a todo tu pueblo, desde días de reyes de Asiria hasta el día este.
 
 ### 9:33
 
@@ -1125,7 +1125,7 @@ Pelatyá, Janán, Anayá;
 
 ### 10:23
 
-Hoshea, Jananyá, Jashuv;
+Oseas, Jananyá, Jashuv;
 
 ### 10:24
 
@@ -1195,19 +1195,19 @@ Porque a las cámaras traerán hijos de Israel e hijos de Leví la ofrenda del g
 
 ### 11:1
 
-Y habitaron jefes del pueblo en Yerushaláyim; y resto del pueblo echaron suertes para traer uno de los diez para habitar en Yerushaláyim ciudad de la santidad, y nueve las manos en las ciudades.
+Y habitaron jefes del pueblo en Jerusalén; y resto del pueblo echaron suertes para traer uno de los diez para habitar en Jerusalén ciudad de la santidad, y nueve las manos en las ciudades.
 
 ### 11:2
 
-Y bendijo el pueblo a todos los hombres los que se ofrecen voluntarios para habitar en Yerushaláyim.
+Y bendijo el pueblo a todos los hombres los que se ofrecen voluntarios para habitar en Jerusalén.
 
 ### 11:3
 
-Y estos cabezas de la provincia que habitaron en Yerushaláyim; y en ciudades de Yehudá habitaron hombre en su posesión en sus ciudades: Israel, los sacerdotes y los levitas y los netiním e hijos de siervos de Shelomó.
+Y estos cabezas de la provincia que habitaron en Jerusalén; y en ciudades de Judá habitaron hombre en su posesión en sus ciudades: Israel, los sacerdotes y los levitas y los netiním e hijos de siervos de Salomón.
 
 ### 11:4
 
-Y en Yerushaláyim habitaron de hijos de Yehudá y de hijos de Binyamín. De hijos de Yehudá: Atayá hijo de Uziyá hijo de Zecaryá hijo de Amaryá hijo de Shefatyá hijo de Mahalalel, de hijos de Péretz.
+Y en Jerusalén habitaron de hijos de Judá y de hijos de Benjamín. De hijos de Judá: Atayá hijo de Uziyá hijo de Zecaryá hijo de Amaryá hijo de Shefatyá hijo de Mahalalel, de hijos de Péretz.
 
 ### 11:5
 
@@ -1215,11 +1215,11 @@ Y Maaseyá hijo de Baruj hijo de Col Jozé hijo de Jazayá hijo de Adayá hijo d
 
 ### 11:6
 
-Todos hijos de Péretz los que habitan en Yerushaláyim: cuatro cientos sesenta y ocho hombres de valor.
+Todos hijos de Péretz los que habitan en Jerusalén: cuatro cientos sesenta y ocho hombres de valor.
 
 ### 11:7
 
-Y estos hijos de Binyamín: Salú hijo de Meshulam hijo de Yoed hijo de Pedayá hijo de Qolayá hijo de Maaseyá hijo de Itiel hijo de Yeshayá;
+Y estos hijos de Benjamín: Salú hijo de Meshulam hijo de Yoed hijo de Pedayá hijo de Qolayá hijo de Maaseyá hijo de Itiel hijo de Yeshayá;
 
 ### 11:8
 
@@ -1227,7 +1227,7 @@ y tras él Gabay, Salay: nueve cientos veinte y ocho.
 
 ### 11:9
 
-Y Yoel hijo de Zicrí prefecto sobre ellos; y Yehudá hijo del Senuá sobre la ciudad segundo.
+Y Yoel hijo de Zicrí prefecto sobre ellos; y Judá hijo del Senuá sobre la ciudad segundo.
 
 ### 11:10
 
@@ -1271,7 +1271,7 @@ Y los porteros: Acuv, Talmón, y sus hermanos los que guardan en las puertas: ci
 
 ### 11:20
 
-Y resto de Israel, los sacerdotes, los levitas, en todas ciudades de Yehudá, hombre en su heredad.
+Y resto de Israel, los sacerdotes, los levitas, en todas ciudades de Judá, hombre en su heredad.
 
 ### 11:21
 
@@ -1279,7 +1279,7 @@ Y los netiním habitando en el Ófel; y Tsijá y Guishpá sobre los netiním.
 
 ### 11:22
 
-Y prefecto de los levitas en Yerushaláyim: Uzí hijo de Baní hijo de Jashavyá hijo de Matanyá hijo de Mijá, de hijos de Asaf los cantores, frente a obra de casa del Dios.
+Y prefecto de los levitas en Jerusalén: Uzí hijo de Baní hijo de Jashavyá hijo de Matanyá hijo de Mijá, de hijos de Asaf los cantores, frente a obra de casa del Dios.
 
 ### 11:23
 
@@ -1287,11 +1287,11 @@ Porque mandato del rey sobre ellos, y firmeza sobre los cantores asunto de día 
 
 ### 11:24
 
-Y Petajyá hijo de Meshizavel, de hijos de Zéraj hijo de Yehudá, a mano del rey para todo asunto al pueblo.
+Y Petajyá hijo de Meshizavel, de hijos de Zéraj hijo de Judá, a mano del rey para todo asunto al pueblo.
 
 ### 11:25
 
-Y a las aldeas en sus campos, de hijos de Yehudá habitaron en Quiryat HaArba y sus hijas, y en Divón y sus hijas, y en Yecavtseel y sus aldeas,
+Y a las aldeas en sus campos, de hijos de Judá habitaron en Quiryat HaArba y sus hijas, y en Divón y sus hijas, y en Yecavtseel y sus aldeas,
 
 ### 11:26
 
@@ -1299,7 +1299,7 @@ y en Yeshúa y en Moladá y en Bet Pélet,
 
 ### 11:27
 
-y en Hatsar Shual y en Beer Sheva y sus hijas,
+y en Hatsar Shual y en Beerseba y sus hijas,
 
 ### 11:28
 
@@ -1311,11 +1311,11 @@ y en En Rimón y en Tsorá y en Yarmut,
 
 ### 11:30
 
-Zanóaj, Adulam y sus aldeas, Lajish y sus campos, Azecá y sus hijas; y acamparon desde Beer Sheva hasta valle de Hinom.
+Zanóaj, Adulam y sus aldeas, Lajish y sus campos, Azecá y sus hijas; y acamparon desde Beerseba hasta valle de Hinom.
 
 ### 11:31
 
-Y hijos de Binyamín desde Guéva: Micmash y Ayá y Bet El y sus hijas,
+Y hijos de Benjamín desde Guéva: Micmash y Ayá y Bet El y sus hijas,
 
 ### 11:32
 
@@ -1335,7 +1335,7 @@ Lod y Onó, valle de los artesanos.
 
 ### 11:36
 
-Y de los levitas: divisiones de Yehudá a Binyamín.
+Y de los levitas: divisiones de Judá a Benjamín.
 
 ## Capítulo 12
 
@@ -1369,7 +1369,7 @@ Salú, Amoc, Jilqiyá, Yedaiyá; estos cabezas de los sacerdotes y sus hermanos 
 
 ### 12:8
 
-Y los levitas: Yeshúa, Binuy, Qadmiel, Sherevyá, Yehudá, Matanyá; sobre las acciones de gracias él y sus hermanos.
+Y los levitas: Yeshúa, Binuy, Qadmiel, Sherevyá, Judá, Matanyá; sobre las acciones de gracias él y sus hermanos.
 
 ### 12:9
 
@@ -1393,7 +1393,7 @@ a Ezra Meshulam, a Amaryá Yehojanán;
 
 ### 12:14
 
-Yonatán, a Shevanyá Yosef;
+Yonatán, a Shevanyá José;
 
 ### 12:15
 
@@ -1409,7 +1409,7 @@ a Aviyá Zicrí, a Minyamín, a Moadyá Piltay;
 
 ### 12:18
 
-a Bilgá Shamúa, a Shemayá Yehonatán;
+a Bilgá Shamúa, a Shemayá Jonatán;
 
 ### 12:19
 
@@ -1445,15 +1445,15 @@ Estos en días de Yoyaquim hijo de Yeshúa hijo de Yotsadac, y en días de Nejem
 
 ### 12:27
 
-Y en la dedicación de muralla de Yerushaláyim buscaron a los levitas de todos sus lugares para traerlos a Yerushaláyim, para hacer dedicación y alegría y con acciones de gracias y con canto, címbalos, liras y con arpas.
+Y en la dedicación de muralla de Jerusalén buscaron a los levitas de todos sus lugares para traerlos a Jerusalén, para hacer dedicación y alegría y con acciones de gracias y con canto, címbalos, liras y con arpas.
 
 ### 12:28
 
-Y se reunieron hijos de los cantores y de la llanura alrededor de Yerushaláyim y de aldeas del netofatí;
+Y se reunieron hijos de los cantores y de la llanura alrededor de Jerusalén y de aldeas del netofatí;
 
 ### 12:29
 
-y de Bet Guilgal y de campos de Guéva y Azmavet; porque aldeas edificaron a ellos los cantores alrededor de Yerushaláyim.
+y de Bet Guilgal y de campos de Guéva y Azmavet; porque aldeas edificaron a ellos los cantores alrededor de Jerusalén.
 
 ### 12:30
 
@@ -1461,11 +1461,11 @@ Y se purificaron los sacerdotes y los levitas; y purificaron al pueblo y a las p
 
 ### 12:31
 
-Y hice subir a jefes de Yehudá desde sobre la muralla, y erigí dos acciones de gracias grandes y procesiones a la derecha desde sobre la muralla a puerta de las basuras.
+Y hice subir a jefes de Judá desde sobre la muralla, y erigí dos acciones de gracias grandes y procesiones a la derecha desde sobre la muralla a puerta de las basuras.
 
 ### 12:32
 
-Y fue tras ellos Hoshayá y mitad de jefes de Yehudá,
+Y fue tras ellos Hoshayá y mitad de jefes de Judá,
 
 ### 12:33
 
@@ -1473,7 +1473,7 @@ y Azaryá, Ezra y Meshulam,
 
 ### 12:34
 
-Yehudá y Binyamín y Shemayá y Yirmeyá;
+Judá y Benjamín y Shemayá y Yirmeyá;
 
 ### 12:35
 
@@ -1481,7 +1481,7 @@ y de hijos de los sacerdotes con trompetas: Zecaryá hijo de Yonatán hijo de Sh
 
 ### 12:36
 
-y sus hermanos Shemayá y Azarel, Milalay, Guilalay, Maay, Netanel y Yehudá, Jananí, con utensilios de canto de David hombre del Dios; y Ezra el escriba delante de ellos.
+y sus hermanos Shemayá y Azarel, Milalay, Guilalay, Maay, Netanel y Judá, Jananí, con utensilios de canto de David hombre del Dios; y Ezra el escriba delante de ellos.
 
 ### 12:37
 
@@ -1493,7 +1493,7 @@ Y la acción de gracias la segunda la que va al opuesto, y yo tras ella, y mitad
 
 ### 12:39
 
-y desde sobre a puerta de Efráyim y sobre puerta de la vieja y sobre puerta de los peces y torre de Jananel y torre de la Cien y hasta puerta del ganado; y se pararon en puerta de la guardia.
+y desde sobre a puerta de Efraín y sobre puerta de la vieja y sobre puerta de los peces y torre de Jananel y torre de la Cien y hasta puerta del ganado; y se pararon en puerta de la guardia.
 
 ### 12:40
 
@@ -1509,15 +1509,15 @@ y Maaseyá y Shemayá y Elazar y Uzí y Yehojanán y Malkiyá y Elam y Ézer; y 
 
 ### 12:43
 
-Y sacrificaron en el día aquel sacrificios grandes, y se alegraron porque el Dios los alegró alegría grande; y también las mujeres y los niños se alegraron; y fue oída alegría de Yerushaláyim desde lejos.
+Y sacrificaron en el día aquel sacrificios grandes, y se alegraron porque el Dios los alegró alegría grande; y también las mujeres y los niños se alegraron; y fue oída alegría de Jerusalén desde lejos.
 
 ### 12:44
 
-Y fueron nombrados en el día aquel hombres sobre las cámaras a los tesoros, a las ofrendas, a la primicia y a los diezmos, para reunir en ellas de campos de las ciudades porciones de la torá a los sacerdotes y a los levitas; porque alegría de Yehudá sobre los sacerdotes y sobre los levitas los que están.
+Y fueron nombrados en el día aquel hombres sobre las cámaras a los tesoros, a las ofrendas, a la primicia y a los diezmos, para reunir en ellas de campos de las ciudades porciones de la torá a los sacerdotes y a los levitas; porque alegría de Judá sobre los sacerdotes y sobre los levitas los que están.
 
 ### 12:45
 
-Y guardaron guardia de su Dios y guardia de la pureza, y los cantores y los porteros, conforme a mandato de David, Shelomó su hijo.
+Y guardaron guardia de su Dios y guardia de la pureza, y los cantores y los porteros, conforme a mandato de David, Salomón su hijo.
 
 ### 12:46
 
@@ -1551,11 +1551,11 @@ e hizo a él cámara grande, y allí estaban antes dando la ofrenda, el incienso
 
 ### 13:6
 
-Y en todo esto no yo estaba en Yerushaláyim, porque en año treinta y dos a Artajshasta rey de Bavel vine al rey; y al cabo de días pedí del rey,
+Y en todo esto no yo estaba en Jerusalén, porque en año treinta y dos a Artajshasta rey de Babilonia vine al rey; y al cabo de días pedí del rey,
 
 ### 13:7
 
-y vine a Yerushaláyim; y entendí en el mal que hizo Elyashiv a Toviyá, para hacer a él cámara en patios de casa del Dios.
+y vine a Jerusalén; y entendí en el mal que hizo Elyashiv a Toviyá, para hacer a él cámara en patios de casa del Dios.
 
 ### 13:8
 
@@ -1575,7 +1575,7 @@ Y contendí a los prefectos, y dije: ¿Por qué es abandonada casa del Dios? Y l
 
 ### 13:12
 
-Y todo Yehudá trajeron diezmo del grano y el mosto y el aceite a los tesoros.
+Y todo Judá trajeron diezmo del grano y el mosto y el aceite a los tesoros.
 
 ### 13:13
 
@@ -1587,15 +1587,15 @@ Acuérdate a mí, mi Dios, sobre esto, y no borres mis misericordias que hice en
 
 ### 13:15
 
-En los días aquellos vi en Yehudá pisando lagares en el shabat, y trayendo los montones y cargando sobre los asnos, y también vino, uvas e higos y toda carga, y trayendo a Yerushaláyim en día del shabat; y testifiqué en día de su vender provisión.
+En los días aquellos vi en Judá pisando lagares en el shabat, y trayendo los montones y cargando sobre los asnos, y también vino, uvas e higos y toda carga, y trayendo a Jerusalén en día del shabat; y testifiqué en día de su vender provisión.
 
 ### 13:16
 
-Y los tsorim habitaron en ella, trayendo pez y toda mercadería, y vendiendo en el shabat a hijos de Yehudá y en Yerushaláyim.
+Y los tsorim habitaron en ella, trayendo pez y toda mercadería, y vendiendo en el shabat a hijos de Judá y en Jerusalén.
 
 ### 13:17
 
-Y contendí a nobles de Yehudá, y dije a ellos: ¿Qué el asunto el malo este que ustedes hacen, y profanando el día del shabat?
+Y contendí a nobles de Judá, y dije a ellos: ¿Qué el asunto el malo este que ustedes hacen, y profanando el día del shabat?
 
 ### 13:18
 
@@ -1603,11 +1603,11 @@ Y contendí a nobles de Yehudá, y dije a ellos: ¿Qué el asunto el malo este q
 
 ### 13:19
 
-Y fue cuando se oscurecieron puertas de Yerushaláyim delante del shabat, y dije, y fueron cerradas las puertas; y dije que no las abran hasta después del shabat; y de mis jóvenes erigí sobre las puertas: no entre carga en día del shabat.
+Y fue cuando se oscurecieron puertas de Jerusalén delante del shabat, y dije, y fueron cerradas las puertas; y dije que no las abran hasta después del shabat; y de mis jóvenes erigí sobre las puertas: no entre carga en día del shabat.
 
 ### 13:20
 
-Y pernoctaron los mercaderes y vendedores de toda venta fuera a Yerushaláyim una vez y dos.
+Y pernoctaron los mercaderes y vendedores de toda venta fuera a Jerusalén una vez y dos.
 
 ### 13:21
 
@@ -1631,7 +1631,7 @@ Y contendí con ellos y los maldije, y herí de ellos hombres y los arranqué pe
 
 ### 13:26
 
-¿No sobre estas pecó Shelomó rey de Israel? Y en las naciones las muchas no hubo rey como él, y amado a su Dios era, y lo dio Dios rey sobre todo Israel; también a él hicieron pecar las mujeres las extranjeras.
+¿No sobre estas pecó Salomón rey de Israel? Y en las naciones las muchas no hubo rey como él, y amado a su Dios era, y lo dio Dios rey sobre todo Israel; también a él hicieron pecar las mujeres las extranjeras.
 
 ### 13:27
 

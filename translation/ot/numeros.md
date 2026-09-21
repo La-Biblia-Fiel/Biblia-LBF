@@ -7,7 +7,7 @@
 
 ### 1:1
 
-Y habló Jehová a Moisés en desierto de Sinai, en tienda de reunión, en el uno al mes el segundo, en el año el segundo a su salir desde tierra de Mizraim, diciendo:
+Y habló Jehová a Moisés en desierto de Sinai, en tienda de reunión, en el uno al mes el segundo, en el año el segundo a su salir desde tierra de Egipto, diciendo:
 
 ### 1:2
 
@@ -23,31 +23,31 @@ Y con ustedes serán varón varón a la tribu; varón cabeza a casa de sus padre
 
 ### 1:5
 
-Y estos nombres de los hombres que se pararán con ustedes: a Reuvén, Elitsur hijo de Shedéur.
+Y estos nombres de los hombres que se pararán con ustedes: a Rubén, Elitsur hijo de Shedéur.
 
 ### 1:6
 
-A Shimón, Shelumiél hijo de Tsurishadai.
+A Simeón, Shelumiél hijo de Tsurishadai.
 
 ### 1:7
 
-A Yehudá, Najshón hijo de Aminadav.
+A Judá, Najshón hijo de Aminadav.
 
 ### 1:8
 
-A Yisasjar, Netanel hijo de Tsuar.
+A Isacar, Netanel hijo de Tsuar.
 
 ### 1:9
 
-A Zevulún, Eliav hijo de Jelón.
+A Zabulón, Eliav hijo de Jelón.
 
 ### 1:10
 
-A hijos de Yosef: a Efráyim, Elishamá hijo de Amihud; a Menashé, Gamliel hijo de Pedatsur.
+A hijos de José: a Efraín, Elishamá hijo de Amihud; a Manasés, Gamliel hijo de Pedatsur.
 
 ### 1:11
 
-A Binyamín, Avidán hijo de Gideoni.
+A Benjamín, Avidán hijo de Gideoni.
 
 ### 1:12
 
@@ -55,7 +55,7 @@ A Dan, Ajiezer hijo de Amishadai.
 
 ### 1:13
 
-A Asher, Pagiel hijo de Ocrán.
+A Aser, Pagiel hijo de Ocrán.
 
 ### 1:14
 
@@ -63,7 +63,7 @@ A Gad, Eliasaf hijo de Deuel.
 
 ### 1:15
 
-A Naftalí, Ajirá hijo de Enán.
+A Neftalí, Ajirá hijo de Enán.
 
 ### 1:16
 
@@ -83,19 +83,19 @@ Como que mandó Jehová a Moisés, y los contó en desierto de Sinai.
 
 ### 1:20
 
-Y fueron hijos de Reuvén, primogénito de Israel, sus generaciones a sus familias a casa de sus padres, en número de nombres a sus cráneos, todo macho desde hijo de veinte año y arriba, todo saliente ejército.
+Y fueron hijos de Rubén, primogénito de Israel, sus generaciones a sus familias a casa de sus padres, en número de nombres a sus cráneos, todo macho desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:21
 
-Sus contados a tribu de Reuvén: seis y cuarenta mil y cinco cientos.
+Sus contados a tribu de Rubén: seis y cuarenta mil y cinco cientos.
 
 ### 1:22
 
-A hijos de Shimón, sus generaciones a sus familias a casa de sus padres, sus contados en número de nombres a sus cráneos, todo macho desde hijo de veinte año y arriba, todo saliente ejército.
+A hijos de Simeón, sus generaciones a sus familias a casa de sus padres, sus contados en número de nombres a sus cráneos, todo macho desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:23
 
-Sus contados a tribu de Shimón: nueve y cincuenta mil y tres cientos.
+Sus contados a tribu de Simeón: nueve y cincuenta mil y tres cientos.
 
 ### 1:24
 
@@ -107,51 +107,51 @@ Sus contados a tribu de Gad: cinco y cuarenta mil y seis cientos y cincuenta.
 
 ### 1:26
 
-A hijos de Yehudá, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
+A hijos de Judá, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:27
 
-Sus contados a tribu de Yehudá: cuatro y setenta mil y seis cientos.
+Sus contados a tribu de Judá: cuatro y setenta mil y seis cientos.
 
 ### 1:28
 
-A hijos de Yisasjar, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
+A hijos de Isacar, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:29
 
-Sus contados a tribu de Yisasjar: cuatro y cincuenta mil y cuatro cientos.
+Sus contados a tribu de Isacar: cuatro y cincuenta mil y cuatro cientos.
 
 ### 1:30
 
-A hijos de Zevulún, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
+A hijos de Zabulón, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:31
 
-Sus contados a tribu de Zevulún: siete y cincuenta mil y cuatro cientos.
+Sus contados a tribu de Zabulón: siete y cincuenta mil y cuatro cientos.
 
 ### 1:32
 
-A hijos de Yosef, a hijos de Efráyim, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
+A hijos de José, a hijos de Efraín, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:33
 
-Sus contados a tribu de Efráyim: cuarenta mil y cinco cientos.
+Sus contados a tribu de Efraín: cuarenta mil y cinco cientos.
 
 ### 1:34
 
-A hijos de Menashé, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
+A hijos de Manasés, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:35
 
-Sus contados a tribu de Menashé: dos y treinta mil y doscientos.
+Sus contados a tribu de Manasés: dos y treinta mil y doscientos.
 
 ### 1:36
 
-A hijos de Binyamín, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
+A hijos de Benjamín, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:37
 
-Sus contados a tribu de Binyamín: cinco y treinta mil y cuatro cientos.
+Sus contados a tribu de Benjamín: cinco y treinta mil y cuatro cientos.
 
 ### 1:38
 
@@ -163,19 +163,19 @@ Sus contados a tribu de Dan: dos y sesenta mil y siete cientos.
 
 ### 1:40
 
-A hijos de Asher, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
+A hijos de Aser, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:41
 
-Sus contados a tribu de Asher: uno y cuarenta mil y cinco cientos.
+Sus contados a tribu de Aser: uno y cuarenta mil y cinco cientos.
 
 ### 1:42
 
-Hijos de Naftalí, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
+Hijos de Neftalí, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.
 
 ### 1:43
 
-Sus contados a tribu de Naftalí: tres y cincuenta mil y cuatro cientos.
+Sus contados a tribu de Neftalí: tres y cincuenta mil y cuatro cientos.
 
 ### 1:44
 
@@ -233,7 +233,7 @@ Varón sobre su bandera, en señales a casa de sus padres, acamparán hijos de I
 
 ### 2:3
 
-Y los acampantes kedmah mizrajah: bandera de campamento de Yehudá a sus ejércitos; y príncipe a hijos de Yehudá, Najshón hijo de Aminadav.
+Y los acampantes kedmah mizrajah: bandera de campamento de Judá a sus ejércitos; y príncipe a hijos de Judá, Najshón hijo de Aminadav.
 
 ### 2:4
 
@@ -241,7 +241,7 @@ Y su ejército y sus contados: cuatro y setenta mil y seis cientos.
 
 ### 2:5
 
-Y los acampantes sobre él: tribu de Yisasjar; y príncipe a hijos de Yisasjar, Netanel hijo de Tsuar.
+Y los acampantes sobre él: tribu de Isacar; y príncipe a hijos de Isacar, Netanel hijo de Tsuar.
 
 ### 2:6
 
@@ -249,7 +249,7 @@ Y su ejército y sus contados: cuatro y cincuenta mil y cuatro cientos.
 
 ### 2:7
 
-Tribu de Zevulún; y príncipe a hijos de Zevulún, Eliav hijo de Jelón.
+Tribu de Zabulón; y príncipe a hijos de Zabulón, Eliav hijo de Jelón.
 
 ### 2:8
 
@@ -257,11 +257,11 @@ Y su ejército y sus contados: siete y cincuenta mil y cuatro cientos.
 
 ### 2:9
 
-Todos los contados a campamento de Yehudá: cien mil y ochenta mil y seis mil y cuatro cientos a sus ejércitos; primera partirán.
+Todos los contados a campamento de Judá: cien mil y ochenta mil y seis mil y cuatro cientos a sus ejércitos; primera partirán.
 
 ### 2:10
 
-Bandera de campamento de Reuvén temánah a sus ejércitos; y príncipe a hijos de Reuvén, Elitsur hijo de Shedéur.
+Bandera de campamento de Rubén temánah a sus ejércitos; y príncipe a hijos de Rubén, Elitsur hijo de Shedéur.
 
 ### 2:11
 
@@ -269,7 +269,7 @@ Y su ejército y sus contados: seis y cuarenta mil y cinco cientos.
 
 ### 2:12
 
-Y los acampantes sobre él: tribu de Shimón; y príncipe a hijos de Shimón, Shelumiél hijo de Tsurishadai.
+Y los acampantes sobre él: tribu de Simeón; y príncipe a hijos de Simeón, Shelumiél hijo de Tsurishadai.
 
 ### 2:13
 
@@ -285,7 +285,7 @@ Y su ejército y sus contados: cinco y cuarenta mil y seis cientos y cincuenta.
 
 ### 2:16
 
-Todos los contados a campamento de Reuvén: cien mil y uno y cincuenta mil y cuatro cientos y cincuenta a sus ejércitos; y segundos partirán.
+Todos los contados a campamento de Rubén: cien mil y uno y cincuenta mil y cuatro cientos y cincuenta a sus ejércitos; y segundos partirán.
 
 ### 2:17
 
@@ -293,7 +293,7 @@ Y partirá tienda de reunión, campamento de los levitas, en medio de los campam
 
 ### 2:18
 
-Bandera de campamento de Efráyim a sus ejércitos yamah; y príncipe a hijos de Efráyim, Elishamá hijo de Amihud.
+Bandera de campamento de Efraín a sus ejércitos yamah; y príncipe a hijos de Efraín, Elishamá hijo de Amihud.
 
 ### 2:19
 
@@ -301,7 +301,7 @@ Y su ejército y sus contados: cuarenta mil y cinco cientos.
 
 ### 2:20
 
-Y sobre él tribu de Menashé; y príncipe a hijos de Menashé, Gamliel hijo de Pedatsur.
+Y sobre él tribu de Manasés; y príncipe a hijos de Manasés, Gamliel hijo de Pedatsur.
 
 ### 2:21
 
@@ -309,7 +309,7 @@ Y su ejército y sus contados: dos y treinta mil y doscientos.
 
 ### 2:22
 
-Y tribu de Binyamín; y príncipe a hijos de Binyamín, Avidán hijo de Gideoni.
+Y tribu de Benjamín; y príncipe a hijos de Benjamín, Avidán hijo de Gideoni.
 
 ### 2:23
 
@@ -317,7 +317,7 @@ Y su ejército y sus contados: cinco y treinta mil y cuatro cientos.
 
 ### 2:24
 
-Todos los contados a campamento de Efráyim: cien mil y ocho mil y cien a sus ejércitos; y terceros partirán.
+Todos los contados a campamento de Efraín: cien mil y ocho mil y cien a sus ejércitos; y terceros partirán.
 
 ### 2:25
 
@@ -329,7 +329,7 @@ Y su ejército y sus contados: dos y sesenta mil y siete cientos.
 
 ### 2:27
 
-Y los acampantes sobre él: tribu de Asher; y príncipe a hijos de Asher, Pagiel hijo de Ocrán.
+Y los acampantes sobre él: tribu de Aser; y príncipe a hijos de Aser, Pagiel hijo de Ocrán.
 
 ### 2:28
 
@@ -337,7 +337,7 @@ Y su ejército y sus contados: uno y cuarenta mil y cinco cientos.
 
 ### 2:29
 
-Y tribu de Naftalí; y príncipe a hijos de Naftalí, Ajirá hijo de Enán.
+Y tribu de Neftalí; y príncipe a hijos de Neftalí, Ajirá hijo de Enán.
 
 ### 2:30
 
@@ -411,7 +411,7 @@ Y yo, he aquí tomé a los levitas desde medio de hijos de Israel en lugar de to
 
 ### 3:13
 
-Porque a mí todo primogénito; en día de mi herir todo primogénito en tierra de Mizraim santifiqué a mí todo primogénito en Israel desde adam hasta bestia; a mí serán; yo Jehová.
+Porque a mí todo primogénito; en día de mi herir todo primogénito en tierra de Egipto santifiqué a mí todo primogénito en Israel desde adam hasta bestia; a mí serán; yo Jehová.
 
 ### 3:14
 
@@ -1047,7 +1047,7 @@ Y dijo Jehová a Moisés: Príncipe uno al día, príncipe uno al día, acercar�
 
 ### 7:12
 
-Y fue el acercante en el día el primero su ofrenda: Najshón hijo de Aminadav, a tribu de Yehudá.
+Y fue el acercante en el día el primero su ofrenda: Najshón hijo de Aminadav, a tribu de Judá.
 
 ### 7:13
 
@@ -1071,7 +1071,7 @@ Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos 
 
 ### 7:18
 
-En el día el segundo acercó Netanel hijo de Tsuar, príncipe de Yisasjar.
+En el día el segundo acercó Netanel hijo de Tsuar, príncipe de Isacar.
 
 ### 7:19
 
@@ -1095,7 +1095,7 @@ Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos 
 
 ### 7:24
 
-En el día el tercero, príncipe a hijos de Zevulún: Eliav hijo de Jelón.
+En el día el tercero, príncipe a hijos de Zabulón: Eliav hijo de Jelón.
 
 ### 7:25
 
@@ -1119,7 +1119,7 @@ Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos 
 
 ### 7:30
 
-En el día el cuarto, príncipe a hijos de Reuvén: Elitsur hijo de Shedéur.
+En el día el cuarto, príncipe a hijos de Rubén: Elitsur hijo de Shedéur.
 
 ### 7:31
 
@@ -1143,7 +1143,7 @@ Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos 
 
 ### 7:36
 
-En el día el quinto, príncipe a hijos de Shimón: Shelumiél hijo de Tsurishadai.
+En el día el quinto, príncipe a hijos de Simeón: Shelumiél hijo de Tsurishadai.
 
 ### 7:37
 
@@ -1191,7 +1191,7 @@ Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos 
 
 ### 7:48
 
-En el día el séptimo, príncipe a hijos de Efráyim: Elishamá hijo de Amihud.
+En el día el séptimo, príncipe a hijos de Efraín: Elishamá hijo de Amihud.
 
 ### 7:49
 
@@ -1215,7 +1215,7 @@ Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos 
 
 ### 7:54
 
-En el día el octavo, príncipe a hijos de Menashé: Gamliel hijo de Pedatsur.
+En el día el octavo, príncipe a hijos de Manasés: Gamliel hijo de Pedatsur.
 
 ### 7:55
 
@@ -1239,7 +1239,7 @@ Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos 
 
 ### 7:60
 
-En el día el noveno, príncipe a hijos de Binyamín: Avidán hijo de Gideoni.
+En el día el noveno, príncipe a hijos de Benjamín: Avidán hijo de Gideoni.
 
 ### 7:61
 
@@ -1287,7 +1287,7 @@ Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos 
 
 ### 7:72
 
-En día de once día, príncipe a hijos de Asher: Pagiel hijo de Ocrán.
+En día de once día, príncipe a hijos de Aser: Pagiel hijo de Ocrán.
 
 ### 7:73
 
@@ -1311,7 +1311,7 @@ Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos 
 
 ### 7:78
 
-En día de doce día, príncipe a hijos de Naftalí: Ajirá hijo de Enán.
+En día de doce día, príncipe a hijos de Neftalí: Ajirá hijo de Enán.
 
 ### 7:79
 
@@ -1425,7 +1425,7 @@ Porque dados dados ellos a mí desde medio de hijos de Israel; en lugar de abert
 
 ### 8:17
 
-Porque a mí todo primogénito en hijos de Israel, en el adam y en el animal; en día de mi herir todo primogénito en tierra de Mizraim, santifiqué a ellos a mí.
+Porque a mí todo primogénito en hijos de Israel, en el adam y en el animal; en día de mi herir todo primogénito en tierra de Egipto, santifiqué a ellos a mí.
 
 ### 8:18
 
@@ -1467,7 +1467,7 @@ Y ministrará a sus hermanos en tienda de reunión para guardar guarda, y servic
 
 ### 9:1
 
-Y habló Jehová a Moisés en desierto de Sinai, en el año el segundo a su salir desde tierra de Mizraim, en el mes el primero, diciendo:
+Y habló Jehová a Moisés en desierto de Sinai, en el año el segundo a su salir desde tierra de Egipto, en el mes el primero, diciendo:
 
 ### 9:2
 
@@ -1613,15 +1613,15 @@ Y partieron al principio sobre boca de Jehová por mano de Moisés.
 
 ### 10:14
 
-Y partió estandarte de campamento de hijos de Yehudá al principio según sus ejércitos; y sobre su ejército Najshón hijo de Aminadav.
+Y partió estandarte de campamento de hijos de Judá al principio según sus ejércitos; y sobre su ejército Najshón hijo de Aminadav.
 
 ### 10:15
 
-Y sobre ejército de tribu de hijos de Yisasjar, Netanel hijo de Tsuar.
+Y sobre ejército de tribu de hijos de Isacar, Netanel hijo de Tsuar.
 
 ### 10:16
 
-Y sobre ejército de tribu de hijos de Zevulún, Eliav hijo de Jelón.
+Y sobre ejército de tribu de hijos de Zabulón, Eliav hijo de Jelón.
 
 ### 10:17
 
@@ -1629,11 +1629,11 @@ Y fue bajado el mishkán, y partieron hijos de Guershon e hijos de Merarí, port
 
 ### 10:18
 
-Y partió estandarte de campamento de Reuvén según sus ejércitos; y sobre su ejército Elitsur hijo de Shedéur.
+Y partió estandarte de campamento de Rubén según sus ejércitos; y sobre su ejército Elitsur hijo de Shedéur.
 
 ### 10:19
 
-Y sobre ejército de tribu de hijos de Shimón, Shelumiél hijo de Tsurishadai.
+Y sobre ejército de tribu de hijos de Simeón, Shelumiél hijo de Tsurishadai.
 
 ### 10:20
 
@@ -1645,15 +1645,15 @@ Y partieron los quehatitas, porteadores del santuario, y levantaron el mishkán 
 
 ### 10:22
 
-Y partió estandarte de campamento de hijos de Efráyim según sus ejércitos; y sobre su ejército Elishamá hijo de Amihud.
+Y partió estandarte de campamento de hijos de Efraín según sus ejércitos; y sobre su ejército Elishamá hijo de Amihud.
 
 ### 10:23
 
-Y sobre ejército de tribu de hijos de Menashé, Gamliel hijo de Pedatsur.
+Y sobre ejército de tribu de hijos de Manasés, Gamliel hijo de Pedatsur.
 
 ### 10:24
 
-Y sobre ejército de tribu de hijos de Binyamín, Avidán hijo de Gideoni.
+Y sobre ejército de tribu de hijos de Benjamín, Avidán hijo de Gideoni.
 
 ### 10:25
 
@@ -1661,11 +1661,11 @@ Y partió estandarte de campamento de hijos de Dan, recogedor para todos los cam
 
 ### 10:26
 
-Y sobre ejército de tribu de hijos de Asher, Pagiel hijo de Ocrán.
+Y sobre ejército de tribu de hijos de Aser, Pagiel hijo de Ocrán.
 
 ### 10:27
 
-Y sobre ejército de tribu de hijos de Naftalí, Ajirá hijo de Enán.
+Y sobre ejército de tribu de hijos de Neftalí, Ajirá hijo de Enán.
 
 ### 10:28
 
@@ -1723,7 +1723,7 @@ Y la mezcla que en medio de él codició codicia; y volvieron y lloraron tambié
 
 ### 11:5
 
-Recordamos el pez que comíamos en Mizraim de balde, los pepinos y los melones y el puerro y las cebollas y los ajos.
+Recordamos el pez que comíamos en Egipto de balde, los pepinos y los melones y el puerro y las cebollas y los ajos.
 
 ### 11:6
 
@@ -1775,7 +1775,7 @@ Y descenderé y hablaré contigo allí, y apartaré desde el espíritu que sobre
 
 ### 11:18
 
-Y al pueblo dirás: Santifíquense ustedes para mañana, y comerán carne, porque lloraron en oídos de Jehová, diciendo: ¿Quién nos dará a comer carne? Porque bueno a nosotros en Mizraim. Y dará Jehová a ustedes carne, y comerán.
+Y al pueblo dirás: Santifíquense ustedes para mañana, y comerán carne, porque lloraron en oídos de Jehová, diciendo: ¿Quién nos dará a comer carne? Porque bueno a nosotros en Egipto. Y dará Jehová a ustedes carne, y comerán.
 
 ### 11:19
 
@@ -1783,7 +1783,7 @@ No día uno comerán ustedes, y no dos días, y no cinco días, y no diez días,
 
 ### 11:20
 
-hasta mes de días, hasta que salga de nariz de ustedes y sea a ustedes a asco, porque despreciaron a Jehová que en medio de ustedes, y lloraron delante de él, diciendo: ¿Para qué esto salimos desde Mizraim?
+hasta mes de días, hasta que salga de nariz de ustedes y sea a ustedes a asco, porque despreciaron a Jehová que en medio de ustedes, y lloraron delante de él, diciendo: ¿Para qué esto salimos desde Egipto?
 
 ### 11:21
 
@@ -1815,7 +1815,7 @@ Y corrió el joven, e hizo saber a Moisés, y dijo: Eldad y Medad profetizantes 
 
 ### 11:28
 
-Y respondió Yehoshua hijo de Nun, ministro de Moisés desde sus mocedades, y dijo: Adonai Moisés, detenlos.
+Y respondió Josué hijo de Nun, ministro de Moisés desde sus mocedades, y dijo: Adonai Moisés, detenlos.
 
 ### 11:29
 
@@ -1927,35 +1927,35 @@ Y los envió Moisés desde desierto de Parán sobre boca de Jehová; todos ellos
 
 ### 13:4
 
-Y estos sus nombres: a vara de Reuvén, Shamuá hijo de Zakur;
+Y estos sus nombres: a vara de Rubén, Shamuá hijo de Zakur;
 
 ### 13:5
 
-a vara de Shimón, Shafat hijo de Jori;
+a vara de Simeón, Shafat hijo de Jori;
 
 ### 13:6
 
-a vara de Yehudá, Calev hijo de Yefuné;
+a vara de Judá, Calev hijo de Yefuné;
 
 ### 13:7
 
-a vara de Yisasjar, Yigal hijo de Yosef;
+a vara de Isacar, Yigal hijo de José;
 
 ### 13:8
 
-a vara de Efráyim, Hoshea hijo de Nun;
+a vara de Efraín, Oseas hijo de Nun;
 
 ### 13:9
 
-a vara de Binyamín, Palti hijo de Rafú;
+a vara de Benjamín, Palti hijo de Rafú;
 
 ### 13:10
 
-a vara de Zevulún, Gadiel hijo de Sodi;
+a vara de Zabulón, Gadiel hijo de Sodi;
 
 ### 13:11
 
-a vara de Yosef, a vara de Menashé, Gadi hijo de Susi;
+a vara de José, a vara de Manasés, Gadi hijo de Susi;
 
 ### 13:12
 
@@ -1963,11 +1963,11 @@ a vara de Dan, Amiel hijo de Gemali;
 
 ### 13:13
 
-a vara de Asher, Setur hijo de Mijael;
+a vara de Aser, Setur hijo de Mijael;
 
 ### 13:14
 
-a vara de Naftalí, Najbi hijo de Vofsi;
+a vara de Neftalí, Najbi hijo de Vofsi;
 
 ### 13:15
 
@@ -1975,11 +1975,11 @@ a vara de Gad, Geuel hijo de Maqui.
 
 ### 13:16
 
-Estos nombres de los varones que envió Moisés a recorrer la tierra; y llamó Moisés a Hoshea hijo de Nun Yehoshua.
+Estos nombres de los varones que envió Moisés a recorrer la tierra; y llamó Moisés a Oseas hijo de Nun Josué.
 
 ### 13:17
 
-Y los envió Moisés a recorrer tierra de Canaán, y dijo a ellos: Suban esto en el Néguev, y subirán el monte.
+Y los envió Moisés a recorrer tierra de Canaán, y dijo a ellos: Suban esto en el Neguev, y subirán el monte.
 
 ### 13:18
 
@@ -1999,7 +1999,7 @@ Y subieron, y recorrieron la tierra desde desierto de Tsin hasta Rejov, Levo Jam
 
 ### 13:22
 
-Y subieron en el Néguev, y vino hasta Jebrón; y allí Ajiman, Sheshai y Talmai, nacidos del anáq. Y Jebrón siete años fue edificada delante de Tsoán de Mizraim.
+Y subieron en el Neguev, y vino hasta Jebrón; y allí Ajiman, Sheshai y Talmai, nacidos del anáq. Y Jebrón siete años fue edificada delante de Zoán de Egipto.
 
 ### 13:23
 
@@ -2027,7 +2027,7 @@ Solo que fuerte el pueblo el habitante en la tierra, y las ciudades fortificadas
 
 ### 13:29
 
-Amaleq habitante en tierra del Néguev, y el hitita y el jebuseo y el amorreo habitante en el monte, y el cananeo habitante sobre el mar y sobre mano del Yordán.
+Amaleq habitante en tierra del Neguev, y el hitita y el jebuseo y el amorreo habitante en el monte, y el cananeo habitante sobre el mar y sobre mano del Yordán.
 
 ### 13:30
 
@@ -2053,15 +2053,15 @@ Y alzó toda la congregación, y dieron su voz, y lloró el pueblo en la noche a
 
 ### 14:2
 
-Y murmuraron sobre Moisés y sobre Aarón todos hijos de Israel, y dijeron a ellos toda la congregación: ¡Ojalá hubiéramos muerto en tierra de Mizraim, o en el desierto este ojalá hubiéramos muerto!
+Y murmuraron sobre Moisés y sobre Aarón todos hijos de Israel, y dijeron a ellos toda la congregación: ¡Ojalá hubiéramos muerto en tierra de Egipto, o en el desierto este ojalá hubiéramos muerto!
 
 ### 14:3
 
-Y ¿por qué Jehová trayendo a nosotros a la tierra esta para caer en la espada? Nuestras mujeres y nuestro pequeño serán a botín. ¿No bueno a nosotros volver a Mizraim?
+Y ¿por qué Jehová trayendo a nosotros a la tierra esta para caer en la espada? Nuestras mujeres y nuestro pequeño serán a botín. ¿No bueno a nosotros volver a Egipto?
 
 ### 14:4
 
-Y dijeron varón a su hermano: Demos cabeza, y volvamos a Mizraim.
+Y dijeron varón a su hermano: Demos cabeza, y volvamos a Egipto.
 
 ### 14:5
 
@@ -2069,7 +2069,7 @@ Y cayó Moisés y Aarón sobre sus faces delante de toda asamblea de congregaci�
 
 ### 14:6
 
-Y Yehoshua hijo de Nun y Calev hijo de Yefuné, desde los recorrientes la tierra, rasgaron sus vestidos.
+Y Josué hijo de Nun y Calev hijo de Yefuné, desde los recorrientes la tierra, rasgaron sus vestidos.
 
 ### 14:7
 
@@ -2097,7 +2097,7 @@ Lo heriré en la pestilencia, y lo desheredaré; y te haré a nación grande y f
 
 ### 14:13
 
-Y dijo Moisés a Jehová: Y oirán Mizraim, porque subiste en tu fuerza al pueblo este desde su medio,
+Y dijo Moisés a Jehová: Y oirán Egipto, porque subiste en tu fuerza al pueblo este desde su medio,
 
 ### 14:14
 
@@ -2121,7 +2121,7 @@ Jehová, largo de narices y mucho de misericordia, alzante iniquidad y delito, y
 
 ### 14:19
 
-Perdona ahora a iniquidad del pueblo este según grandeza de tu misericordia, y como que alzaste al pueblo este desde Mizraim y hasta acá.
+Perdona ahora a iniquidad del pueblo este según grandeza de tu misericordia, y como que alzaste al pueblo este desde Egipto y hasta acá.
 
 ### 14:20
 
@@ -2133,7 +2133,7 @@ Pero vivo yo, y será llenada gloria de Jehová toda la tierra.
 
 ### 14:22
 
-Porque todos los varones los videntes mi gloria y mis señales que hice en Mizraim y en el desierto, y me tentaron esto diez veces, y no oyeron en mi voz,
+Porque todos los varones los videntes mi gloria y mis señales que hice en Egipto y en el desierto, y me tentaron esto diez veces, y no oyeron en mi voz,
 
 ### 14:23
 
@@ -2165,7 +2165,7 @@ En el desierto este caerán sus cadáveres, y todos sus contados a todo número 
 
 ### 14:30
 
-Si ustedes entrarán a la tierra que alcé mi mano para hacer habitar a ustedes en ella, sino Calev hijo de Yefuné y Yehoshua hijo de Nun.
+Si ustedes entrarán a la tierra que alcé mi mano para hacer habitar a ustedes en ella, sino Calev hijo de Yefuné y Josué hijo de Nun.
 
 ### 14:31
 
@@ -2197,7 +2197,7 @@ y murieron los varones sacantes difamación de la tierra mala en la plaga delant
 
 ### 14:38
 
-Y Yehoshua hijo de Nun y Calev hijo de Yefuné vivieron desde los varones aquellos los andantes a recorrer la tierra.
+Y Josué hijo de Nun y Calev hijo de Yefuné vivieron desde los varones aquellos los andantes a recorrer la tierra.
 
 ### 14:39
 
@@ -2391,13 +2391,13 @@ a fin de que recuerden y hagan todos mis mandamientos, y sean santos a su Dios.
 
 ### 15:41
 
-Yo Jehová Dios de ustedes, que saqué a ustedes desde tierra de Mizraim para ser a ustedes a Dios; yo Jehová Dios de ustedes.
+Yo Jehová Dios de ustedes, que saqué a ustedes desde tierra de Egipto para ser a ustedes a Dios; yo Jehová Dios de ustedes.
 
 ## Capítulo 16
 
 ### 16:1
 
-Y tomó Córaj hijo de Yitsjar hijo de Quehat hijo de Leví, y Datán y Abirám hijos de Eliav, y On hijo de Pelet, hijos de Reuvén,
+Y tomó Córaj hijo de Yitsjar hijo de Quehat hijo de Leví, y Datán y Abirám hijos de Eliav, y On hijo de Pelet, hijos de Rubén,
 
 ### 16:2
 
@@ -2889,7 +2889,7 @@ Y ¿por qué trajeron la asamblea de Jehová a este desierto, para morir allí n
 
 ### 20:5
 
-Y ¿por qué nos subieron desde Mizraim para traernos a este lugar malo? No lugar de semilla y higuera y vid y granado, y aguas no hay para beber.
+Y ¿por qué nos subieron desde Egipto para traernos a este lugar malo? No lugar de semilla y higuera y vid y granado, y aguas no hay para beber.
 
 ### 20:6
 
@@ -2929,11 +2929,11 @@ Y envió Moisés mensajeros desde Qadesh a rey de Edom: Así dijo tu hermano Isr
 
 ### 20:15
 
-y descendieron nuestros padres a Mizraim, y habitamos en Mizraim días muchos, y maltrataron a nosotros Mizraim y a nuestros padres;
+y descendieron nuestros padres a Egipto, y habitamos en Egipto días muchos, y maltrataron a nosotros Egipto y a nuestros padres;
 
 ### 20:16
 
-y clamamos a Jehová, y oyó nuestra voz, y envió mensajero, y nos sacó desde Mizraim; y he aquí nosotros en Qadesh, ciudad de extremo de tu límite.
+y clamamos a Jehová, y oyó nuestra voz, y envió mensajero, y nos sacó desde Egipto; y he aquí nosotros en Qadesh, ciudad de extremo de tu límite.
 
 ### 20:17
 
@@ -2991,7 +2991,7 @@ Y vio toda la congregación que había expirado Aarón, y lloraron a Aarón trei
 
 ### 21:1
 
-Y oyó el cananeo, rey de Arad, habitante del Néguev, que vino Israel camino de los Atarim, y peleó en Israel, y tomó de él cautivo.
+Y oyó el cananeo, rey de Arad, habitante del Neguev, que vino Israel camino de los Atarim, y peleó en Israel, y tomó de él cautivo.
 
 ### 21:2
 
@@ -3007,7 +3007,7 @@ Y partieron desde Hor el monte, camino de mar de Suf, para rodear tierra de Edom
 
 ### 21:5
 
-Y habló el pueblo en Dios y en Moisés: ¿Por qué nos subieron desde Mizraim para morir en el desierto? Porque no hay pan y no hay aguas, y nuestra alma se hastió en el pan liviano.
+Y habló el pueblo en Dios y en Moisés: ¿Por qué nos subieron desde Egipto para morir en el desierto? Porque no hay pan y no hay aguas, y nuestra alma se hastió en el pan liviano.
 
 ### 21:6
 
@@ -3149,7 +3149,7 @@ Y dijo Moab a ancianos de Midyán: Ahora lamerá la asamblea todo nuestro alrede
 
 ### 22:5
 
-Y envió mensajeros a Bilam hijo de Beor, a Petor, que sobre el río, tierra de hijos de su pueblo, para llamar a él, diciendo: He aquí un pueblo salió desde Mizraim; he aquí cubrió el ojo de la tierra, y él habitante enfrente de mí.
+Y envió mensajeros a Bilam hijo de Beor, a Petor, que sobre el río, tierra de hijos de su pueblo, para llamar a él, diciendo: He aquí un pueblo salió desde Egipto; he aquí cubrió el ojo de la tierra, y él habitante enfrente de mí.
 
 ### 22:6
 
@@ -3173,7 +3173,7 @@ Y dijo Bilam a Dios: Balaq hijo de Tsipor, rey de Moab, envió a mí:
 
 ### 22:11
 
-He aquí el pueblo el saliente desde Mizraim, y cubrió el ojo de la tierra; ahora, anda, maldice para mí a él; quizá pueda pelear en él, y lo expulsaré.
+He aquí el pueblo el saliente desde Egipto, y cubrió el ojo de la tierra; ahora, anda, maldice para mí a él; quizá pueda pelear en él, y lo expulsaré.
 
 ### 22:12
 
@@ -3323,7 +3323,7 @@ Y volvió a él, y he aquí parado sobre su holocausto, él y todos los príncip
 
 ### 23:7
 
-Y alzó su comparación y dijo: Desde Aram me guía Balaq, rey de Moav, desde montes de oriente: Anda, maldice a mí a Yaakov, y anda, aira a Israel.
+Y alzó su comparación y dijo: Desde Aram me guía Balaq, rey de Moav, desde montes de oriente: Anda, maldice a mí a Jacob, y anda, aira a Israel.
 
 ### 23:8
 
@@ -3335,7 +3335,7 @@ Porque desde cabeza de peñascos lo veo, y desde collados lo miro; he aquí pueb
 
 ### 23:10
 
-¿Quién contó polvo de Yaakov, y número, la cuarta de Israel? Muera mi alma muerte de rectos, y sea mi fin como él.
+¿Quién contó polvo de Jacob, y número, la cuarta de Israel? Muera mi alma muerte de rectos, y sea mi fin como él.
 
 ### 23:11
 
@@ -3379,15 +3379,15 @@ He aquí bendición tomé, y bendijo, y no la haré volver.
 
 ### 23:21
 
-No miró iniquidad en Yaakov, y no vio trabajo en Israel; Jehová su Dios con él, y grito de rey en él.
+No miró iniquidad en Jacob, y no vio trabajo en Israel; Jehová su Dios con él, y grito de rey en él.
 
 ### 23:22
 
-El sacándolos desde Mizraim; como fuerzas de reem a él.
+El sacándolos desde Egipto; como fuerzas de reem a él.
 
 ### 23:23
 
-Porque no hay encantamiento en Yaakov, y no adivinación en Israel; como el tiempo se dirá a Yaakov y a Israel qué hizo El.
+Porque no hay encantamiento en Jacob, y no adivinación en Israel; como el tiempo se dirá a Jacob y a Israel qué hizo El.
 
 ### 23:24
 
@@ -3437,7 +3437,7 @@ oráculo del oyente dichos de El, que visión de Shadai contempla, caído y desc
 
 ### 24:5
 
-¡Qué buenos tus tiendas, Yaakov, tus moradas, Israel!
+¡Qué buenos tus tiendas, Jacob, tus moradas, Israel!
 
 ### 24:6
 
@@ -3449,7 +3449,7 @@ Fluirán aguas desde sus cubos, y su simiente en aguas muchas; y se alzará desd
 
 ### 24:8
 
-El sacándolo desde Mizraim; como fuerzas de reem a él. Comerá naciones, sus opresores, y sus huesos roerá, y sus flechas traspasará.
+El sacándolo desde Egipto; como fuerzas de reem a él. Comerá naciones, sus opresores, y sus huesos roerá, y sus flechas traspasará.
 
 ### 24:9
 
@@ -3485,7 +3485,7 @@ oráculo del oyente dichos de El, y conocedor conocimiento de Elyón; visión de
 
 ### 24:17
 
-Lo veo, y no ahora; lo miro, y no cercano. Pisó estrella desde Yaakov, y se levantó cetro desde Israel, y traspasó sienes de Moav, y destrozó a todos hijos de Shet.
+Lo veo, y no ahora; lo miro, y no cercano. Pisó estrella desde Jacob, y se levantó cetro desde Israel, y traspasó sienes de Moav, y destrozó a todos hijos de Shet.
 
 ### 24:18
 
@@ -3493,7 +3493,7 @@ Y será Edom posesión, y será posesión Seír, sus enemigos; e Israel haciendo
 
 ### 24:19
 
-Y dominará desde Yaakov, y hará perecer sobreviviente desde ciudad.
+Y dominará desde Jacob, y hará perecer sobreviviente desde ciudad.
 
 ### 24:20
 
@@ -3609,11 +3609,11 @@ Y habló Moisés y Eleazar el sacerdote a ellos en arábot de Moab, sobre Jordá
 
 ### 26:4
 
-Desde hijo de veinte año y arriba, como que mandó Jehová a Moisés y a hijos de Israel los salientes de tierra de Mizraim.
+Desde hijo de veinte año y arriba, como que mandó Jehová a Moisés y a hijos de Israel los salientes de tierra de Egipto.
 
 ### 26:5
 
-Reuvén, primogénito de Israel; hijos de Reuvén: Janoc, familia del janoquí; a Palú, familia del paluí;
+Rubén, primogénito de Israel; hijos de Rubén: Janoc, familia del janoquí; a Palú, familia del paluí;
 
 ### 26:6
 
@@ -3641,11 +3641,11 @@ Y hijos de Córaj no murieron.
 
 ### 26:12
 
-Hijos de Shimón a sus familias: a Nemuel, familia del nemuelí; a Yamín, familia del yaminí; a Yakín, familia del yakiní;
+Hijos de Simeón a sus familias: a Nemuel, familia del nemuelí; a Yamín, familia del yaminí; a Yakín, familia del yakiní;
 
 ### 26:13
 
-a Zéraj, familia del zerají; a Shaúl, familia del shaulí.
+a Zéraj, familia del zerají; a Saúl, familia del shaulí.
 
 ### 26:14
 
@@ -3669,11 +3669,11 @@ Estas familias de hijos de Gad a sus contados: cuarenta mil y cinco cientos.
 
 ### 26:19
 
-Hijos de Yehudá: Er y Onán; y murió Er y Onán en tierra de Canaán.
+Hijos de Judá: Er y Onán; y murió Er y Onán en tierra de Canaán.
 
 ### 26:20
 
-Y fueron hijos de Yehudá a sus familias: a Selá, familia del selaní; a Parets, familia del paretsí; a Zéraj, familia del zerají.
+Y fueron hijos de Judá a sus familias: a Selá, familia del selaní; a Parets, familia del paretsí; a Zéraj, familia del zerají.
 
 ### 26:21
 
@@ -3681,11 +3681,11 @@ Y fueron hijos de Parets: a Jetsrón, familia del jetsroní; a Jamul, familia de
 
 ### 26:22
 
-Estas familias de Yehudá a sus contados: seis y setenta mil y cinco cientos.
+Estas familias de Judá a sus contados: seis y setenta mil y cinco cientos.
 
 ### 26:23
 
-Hijos de Yisasjar a sus familias: Tolá, familia del tolaí; a Puvá, familia del puní;
+Hijos de Isacar a sus familias: Tolá, familia del tolaí; a Puvá, familia del puní;
 
 ### 26:24
 
@@ -3693,11 +3693,11 @@ a Yashuv, familia del yashuví; a Shimrón, familia del shimroní.
 
 ### 26:25
 
-Estas familias de Yisasjar a sus contados: cuatro y sesenta mil y tres cientos.
+Estas familias de Isacar a sus contados: cuatro y sesenta mil y tres cientos.
 
 ### 26:26
 
-Hijos de Zevulún a sus familias: a Sered, familia del seredí; a Elón, familia del eloní; a Yajleel, familia del yajleelí.
+Hijos de Zabulón a sus familias: a Sered, familia del seredí; a Elón, familia del eloní; a Yajleel, familia del yajleelí.
 
 ### 26:27
 
@@ -3705,15 +3705,15 @@ Estas familias del zevuloní a sus contados: sesenta mil y cinco cientos.
 
 ### 26:28
 
-Hijos de Yosef a sus familias: Menashé y Efráyim.
+Hijos de José a sus familias: Manasés y Efraín.
 
 ### 26:29
 
-Hijos de Menashé: a Makir, familia del makirí; y Makir engendró a Gilad; a Gilad, familia del giladí.
+Hijos de Manasés: a Makir, familia del makirí; y Makir engendró a Galaad; a Galaad, familia del giladí.
 
 ### 26:30
 
-Estos hijos de Gilad: Iezer, familia del iezerí; a Jélek, familia del jelekí;
+Estos hijos de Galaad: Iezer, familia del iezerí; a Jélek, familia del jelekí;
 
 ### 26:31
 
@@ -3725,15 +3725,15 @@ y Shemidá, familia del shemidaí; y Jéfer, familia del jeferí.
 
 ### 26:33
 
-Y Tselofjad hijo de Jéfer no hubo a él hijos, sino hijas; y nombre de hijas de Tselofjad: Majlá y Nóá, Joglá, Milcá y Tirtsá.
+Y Tselofjad hijo de Jéfer no hubo a él hijos, sino hijas; y nombre de hijas de Tselofjad: Majlá y Nóá, Joglá, Milca y Tirtsá.
 
 ### 26:34
 
-Estas familias de Menashé, y sus contados: dos y cincuenta mil y siete cientos.
+Estas familias de Manasés, y sus contados: dos y cincuenta mil y siete cientos.
 
 ### 26:35
 
-Estos hijos de Efráyim a sus familias: a Shutélaj, familia del shutelají; a Béker, familia del bekerí; a Taján, familia del tajaní.
+Estos hijos de Efraín a sus familias: a Shutélaj, familia del shutelají; a Béker, familia del bekerí; a Taján, familia del tajaní.
 
 ### 26:36
 
@@ -3741,11 +3741,11 @@ Y estos hijos de Shutélaj: a Erán, familia del eraní.
 
 ### 26:37
 
-Estas familias de hijos de Efráyim a sus contados: dos y treinta mil y cinco cientos. Estos hijos de Yosef a sus familias.
+Estas familias de hijos de Efraín a sus contados: dos y treinta mil y cinco cientos. Estos hijos de José a sus familias.
 
 ### 26:38
 
-Hijos de Binyamín a sus familias: a Béla, familia del belaí; a Ashbel, familia del ashbelí; a Ajíram, familia del ajiramí;
+Hijos de Benjamín a sus familias: a Béla, familia del belaí; a Ashbel, familia del ashbelí; a Ajíram, familia del ajiramí;
 
 ### 26:39
 
@@ -3757,7 +3757,7 @@ Y fueron hijos de Béla: Ard y Naamán; familia del ardí; a Naamán, familia de
 
 ### 26:41
 
-Estos hijos de Binyamín a sus familias, y sus contados: cinco y cuarenta mil y seis cientos.
+Estos hijos de Benjamín a sus familias, y sus contados: cinco y cuarenta mil y seis cientos.
 
 ### 26:42
 
@@ -3769,7 +3769,7 @@ Todas familias del shujamí a sus contados: cuatro y sesenta mil y cuatro ciento
 
 ### 26:44
 
-Hijos de Asher a sus familias: a Yimná, familia de la Yimná; a Yishví, familia del yishví; a Beriyá, familia del beriaí.
+Hijos de Aser a sus familias: a Yimná, familia de la Yimná; a Yishví, familia del yishví; a Beriyá, familia del beriaí.
 
 ### 26:45
 
@@ -3777,15 +3777,15 @@ A hijos de Beriyá: a Jéber, familia del jeberí; a Malkiel, familia del malkie
 
 ### 26:46
 
-Y nombre de hija de Asher: Séraj.
+Y nombre de hija de Aser: Séraj.
 
 ### 26:47
 
-Estas familias de hijos de Asher a sus contados: tres y cincuenta mil y cuatro cientos.
+Estas familias de hijos de Aser a sus contados: tres y cincuenta mil y cuatro cientos.
 
 ### 26:48
 
-Hijos de Naftalí a sus familias: a Yajtsel, familia del yajtselí; a Guní, familia del guní;
+Hijos de Neftalí a sus familias: a Yajtsel, familia del yajtselí; a Guní, familia del guní;
 
 ### 26:49
 
@@ -3793,7 +3793,7 @@ a Yétser, familia del yetserí; a Shilém, familia del shilemí.
 
 ### 26:50
 
-Estas familias de Naftalí a sus familias, y sus contados: cinco y cuarenta mil y cuatro cientos.
+Estas familias de Neftalí a sus familias, y sus contados: cinco y cuarenta mil y cuatro cientos.
 
 ### 26:51
 
@@ -3829,7 +3829,7 @@ Estas familias de Leví: familia del livní, familia del jebroní, familia del m
 
 ### 26:59
 
-Y nombre de mujer de Amram: Yojéved hija de Leví, que dio a luz a ella a Leví en Mizraim; y dio a luz a Amram a Aarón y a Moisés y a Miryam su hermana.
+Y nombre de mujer de Amram: Yojéved hija de Leví, que dio a luz a ella a Leví en Egipto; y dio a luz a Amram a Aarón y a Moisés y a Miryam su hermana.
 
 ### 26:60
 
@@ -3859,7 +3859,7 @@ Porque dijo Jehová a ellos: De morir morirán en el desierto; y no quedó de el
 
 ### 27:1
 
-Y se acercaron hijas de Tselafjad, hijo de Héfer, hijo de Gilad, hijo de Makir, hijo de Menashé, a familias de Menashé, hijo de Yosef; y estos nombres de sus hijas: Majlá, Noá, y Hoglá, y Milcá, y Tirtsá.
+Y se acercaron hijas de Tselafjad, hijo de Héfer, hijo de Galaad, hijo de Makir, hijo de Manasés, a familias de Manasés, hijo de José; y estos nombres de sus hijas: Majlá, Noá, y Hoglá, y Milca, y Tirtsá.
 
 ### 27:2
 
@@ -3927,7 +3927,7 @@ que salga delante de ellos y que entre delante de ellos, y que saque a ellos y q
 
 ### 27:18
 
-Y dijo Jehová a Moisés: Toma a ti a Yehoshua hijo de Nun, varón que espíritu en él, y apoyarás tu mano sobre él.
+Y dijo Jehová a Moisés: Toma a ti a Josué hijo de Nun, varón que espíritu en él, y apoyarás tu mano sobre él.
 
 ### 27:19
 
@@ -3943,7 +3943,7 @@ Y delante de Eleazar el sacerdote se parará, y preguntará a él en juicio de l
 
 ### 27:22
 
-Y hizo Moisés conforme a lo que mandó Jehová a él, y tomó a Yehoshua, y lo hizo parar delante de Eleazar el sacerdote y delante de toda la congregación.
+Y hizo Moisés conforme a lo que mandó Jehová a él, y tomó a Josué, y lo hizo parar delante de Eleazar el sacerdote y delante de toda la congregación.
 
 ### 27:23
 
@@ -4525,11 +4525,11 @@ Y tomó Moisés y Eleazar el sacerdote el oro desde jefes de los miles y las cie
 
 ### 32:1
 
-Y ganado mucho fue a hijos de Reuvén y a hijos de Gad, poderoso mucho; y vieron tierra de Yaazer y tierra de Gilad, y he aquí el lugar lugar de ganado.
+Y ganado mucho fue a hijos de Rubén y a hijos de Gad, poderoso mucho; y vieron tierra de Yaazer y tierra de Galaad, y he aquí el lugar lugar de ganado.
 
 ### 32:2
 
-Y vinieron hijos de Gad e hijos de Reuvén, y dijeron a Moisés y a Eleazar el sacerdote y a príncipes de la congregación, diciendo:
+Y vinieron hijos de Gad e hijos de Rubén, y dijeron a Moisés y a Eleazar el sacerdote y a príncipes de la congregación, diciendo:
 
 ### 32:3
 
@@ -4545,7 +4545,7 @@ Y dijeron: Si hallamos gracia en tus ojos, sea dada la tierra esta a tus siervos
 
 ### 32:6
 
-Y dijo Moisés a hijos de Gad y a hijos de Reuvén: ¿Sus hermanos vendrán a la guerra, y ustedes se sentarán aquí?
+Y dijo Moisés a hijos de Gad y a hijos de Rubén: ¿Sus hermanos vendrán a la guerra, y ustedes se sentarán aquí?
 
 ### 32:7
 
@@ -4565,11 +4565,11 @@ Y se encendió nariz de Jehová en el día aquel, y juró, diciendo:
 
 ### 32:11
 
-Si verán los varones los subientes desde Mizraim, desde hijo de veinte año y arriba, la tierra que juré a Abraham, a Yitsjaq y a Yaakov, porque no llenaron detrás de mí,
+Si verán los varones los subientes desde Egipto, desde hijo de veinte año y arriba, la tierra que juré a Abraham, a Isaac y a Jacob, porque no llenaron detrás de mí,
 
 ### 32:12
 
-salvo Kalév hijo de Yefuné el quenizí y Yehoshua hijo de Nun, porque llenaron detrás de Jehová.
+salvo Kalév hijo de Yefuné el quenizí y Josué hijo de Nun, porque llenaron detrás de Jehová.
 
 ### 32:13
 
@@ -4621,11 +4621,11 @@ Edifiquen a ustedes ciudades a su niño, y cercados a su rebaño, y lo saliente 
 
 ### 32:25
 
-Y dijeron hijos de Gad e hijos de Reuvén a Moisés, diciendo: Tus siervos harán como que señor mío manda.
+Y dijeron hijos de Gad e hijos de Rubén a Moisés, diciendo: Tus siervos harán como que señor mío manda.
 
 ### 32:26
 
-Nuestro niño, nuestras mujeres, nuestro ganado y toda nuestra bestia serán allí en ciudades del Gilad.
+Nuestro niño, nuestras mujeres, nuestro ganado y toda nuestra bestia serán allí en ciudades del Galaad.
 
 ### 32:27
 
@@ -4633,11 +4633,11 @@ Y tus siervos pasarán, todo extracto de ejército, delante de Jehová a la guer
 
 ### 32:28
 
-Y mandó a ellos Moisés a Eleazar el sacerdote y a Yehoshua hijo de Nun y a cabezas de padres de las tribus a hijos de Israel.
+Y mandó a ellos Moisés a Eleazar el sacerdote y a Josué hijo de Nun y a cabezas de padres de las tribus a hijos de Israel.
 
 ### 32:29
 
-Y dijo Moisés a ellos: Si pasaren hijos de Gad e hijos de Reuvén con ustedes el Jordán, todo extracto a la guerra delante de Jehová, y sea sojuzgada la tierra delante de ustedes, y darán a ellos tierra del Gilad a posesión.
+Y dijo Moisés a ellos: Si pasaren hijos de Gad e hijos de Rubén con ustedes el Jordán, todo extracto a la guerra delante de Jehová, y sea sojuzgada la tierra delante de ustedes, y darán a ellos tierra del Galaad a posesión.
 
 ### 32:30
 
@@ -4645,7 +4645,7 @@ Y si no pasaren extractos con ustedes, y serán asidos en medio de ustedes en ti
 
 ### 32:31
 
-Y respondieron hijos de Gad e hijos de Reuvén, diciendo: Lo que habló Jehová a tus siervos, así haremos.
+Y respondieron hijos de Gad e hijos de Rubén, diciendo: Lo que habló Jehová a tus siervos, así haremos.
 
 ### 32:32
 
@@ -4653,7 +4653,7 @@ Nosotros pasaremos extractos delante de Jehová a tierra de Canaán, y con nosot
 
 ### 32:33
 
-Y dio a ellos Moisés, a hijos de Gad y a hijos de Reuvén y a la mitad de tribu de Menashé hijo de Yosef, el reino de Sijón rey del amorreo y el reino de Og rey de Bashán, la tierra a sus ciudades en fronteras, ciudades de la tierra alrededor.
+Y dio a ellos Moisés, a hijos de Gad y a hijos de Rubén y a la mitad de tribu de Manasés hijo de José, el reino de Sijón rey del amorreo y el reino de Og rey de Bashán, la tierra a sus ciudades en fronteras, ciudades de la tierra alrededor.
 
 ### 32:34
 
@@ -4669,7 +4669,7 @@ y a Bet Nimrá y a Bet Harán, ciudades de fortaleza y cercados de rebaño.
 
 ### 32:37
 
-Y hijos de Reuvén edificaron a Jeshbón y a Elealé y a Qiryatáyim,
+Y hijos de Rubén edificaron a Jeshbón y a Elealé y a Qiryatáyim,
 
 ### 32:38
 
@@ -4677,15 +4677,15 @@ y a Nevó y a Baal Meón, vueltas de nombre, y a Sivmá; y llamaron en nombres a
 
 ### 32:39
 
-Y anduvieron hijos de Majir hijo de Menashé a Giladah, y la tomaron, y desalojó al amorreo que en ella.
+Y anduvieron hijos de Majir hijo de Manasés a Giladah, y la tomaron, y desalojó al amorreo que en ella.
 
 ### 32:40
 
-Y dio Moisés el Gilad a Majir hijo de Menashé, y habitó en ella.
+Y dio Moisés el Galaad a Majir hijo de Manasés, y habitó en ella.
 
 ### 32:41
 
-Y Yair hijo de Menashé anduvo, y tomó sus aldeas, y las llamó Javot Yair.
+Y Yair hijo de Manasés anduvo, y tomó sus aldeas, y las llamó Javot Yair.
 
 ### 32:42
 
@@ -4695,7 +4695,7 @@ Y Nobaj anduvo, y tomó a Kenat y a sus hijas, y llamó a ella Nobaj en su nombr
 
 ### 33:1
 
-Estas las partidas de hijos de Israel que salieron desde tierra de Mizraim a sus ejércitos, en mano de Moisés y Aarón.
+Estas las partidas de hijos de Israel que salieron desde tierra de Egipto a sus ejércitos, en mano de Moisés y Aarón.
 
 ### 33:2
 
@@ -4703,15 +4703,15 @@ Y escribió Moisés sus salidas a sus partidas sobre boca de Jehová; y estas su
 
 ### 33:3
 
-Y partieron desde Raamsés en el mes el primero, en el quince día al mes el primero; desde mañana de la Pascua salieron hijos de Israel en mano alzada, a ojos de todo Mizraim.
+Y partieron desde Raamses en el mes el primero, en el quince día al mes el primero; desde mañana de la Pascua salieron hijos de Israel en mano alzada, a ojos de todo Egipto.
 
 ### 33:4
 
-Y Mizraim enterrantes a los que hirió Jehová en ellos, todo primogénito; y en sus dioses hizo Jehová juicios.
+Y Egipto enterrantes a los que hirió Jehová en ellos, todo primogénito; y en sus dioses hizo Jehová juicios.
 
 ### 33:5
 
-Y partieron hijos de Israel desde Raamsés, y acamparon en Sucot.
+Y partieron hijos de Israel desde Raamses, y acamparon en Sucot.
 
 ### 33:6
 
@@ -4843,7 +4843,7 @@ Y partieron desde Qadesh, y acamparon en Hor el monte, en extremo de tierra de E
 
 ### 33:38
 
-Y subió Aarón el sacerdote a Hor el monte sobre boca de Jehová, y murió allí, en el año el cuadragésimo a salir hijos de Israel desde tierra de Mizraim, en el mes el quinto, en el uno al mes.
+Y subió Aarón el sacerdote a Hor el monte sobre boca de Jehová, y murió allí, en el año el cuadragésimo a salir hijos de Israel desde tierra de Egipto, en el mes el quinto, en el uno al mes.
 
 ### 33:39
 
@@ -4851,7 +4851,7 @@ Y Aarón hijo de tres y veinte y cien año en su muerte en Hor el monte.
 
 ### 33:40
 
-Y oyó el cananeo, rey de Arad, y él habitante en el Néguev en tierra de Canaán, en venir hijos de Israel.
+Y oyó el cananeo, rey de Arad, y él habitante en el Neguev en tierra de Canaán, en venir hijos de Israel.
 
 ### 33:41
 
@@ -4929,15 +4929,15 @@ Manda a hijos de Israel, y dirás a ellos: Cuando ustedes vengan a la tierra Can
 
 ### 34:3
 
-Y será a ustedes lado de Néguev desde desierto de Tsin sobre manos de Edom; y será a ustedes límite de Néguev desde extremo de mar de la sal hacia oriente.
+Y será a ustedes lado de Neguev desde desierto de Tsin sobre manos de Edom; y será a ustedes límite de Neguev desde extremo de mar de la sal hacia oriente.
 
 ### 34:4
 
-Y rodeará a ustedes el límite desde el Néguev a Maalé Aqrabim, y pasará a Tsin, y serán sus salidas desde el Néguev a Qadesh Barnéa, y saldrá a Hatsar Adar, y pasará a Atsmoná.
+Y rodeará a ustedes el límite desde el Neguev a Maalé Aqrabim, y pasará a Tsin, y serán sus salidas desde el Neguev a Qadesh Barnéa, y saldrá a Hatsar Adar, y pasará a Atsmoná.
 
 ### 34:5
 
-Y rodeará el límite desde Atsmón a torrente de Mizraim, y serán sus salidas al mar.
+Y rodeará el límite desde Atsmón a torrente de Egipto, y serán sus salidas al mar.
 
 ### 34:6
 
@@ -4973,7 +4973,7 @@ Y mandó Moisés a hijos de Israel, diciendo: Esta la tierra que heredarán a el
 
 ### 34:14
 
-Porque tomaron tribu de hijos del reuvenita a casa de sus padres, y tribu de hijos del gadita a casa de sus padres, y mitad de tribu de Menashé, tomaron su heredad.
+Porque tomaron tribu de hijos del reuvenita a casa de sus padres, y tribu de hijos del gadita a casa de sus padres, y mitad de tribu de Manasés, tomaron su heredad.
 
 ### 34:15
 
@@ -4985,7 +4985,7 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 34:17
 
-Estos nombres de los varones que heredarán a ustedes la tierra: Elazar el sacerdote, y Yehoshua hijo de Nun.
+Estos nombres de los varones que heredarán a ustedes la tierra: Elazar el sacerdote, y Josué hijo de Nun.
 
 ### 34:18
 
@@ -4993,15 +4993,15 @@ Y príncipe uno, príncipe uno desde tribu, tomarán para heredar la tierra.
 
 ### 34:19
 
-Y estos nombres de los varones: a tribu de Yehudá, Kaleb hijo de Yefuné;
+Y estos nombres de los varones: a tribu de Judá, Kaleb hijo de Yefuné;
 
 ### 34:20
 
-y a tribu de hijos de Shimón, Shemuel hijo de Amihud;
+y a tribu de hijos de Simeón, Shemuel hijo de Amihud;
 
 ### 34:21
 
-a tribu de Binyamín, Elidad hijo de Kislón;
+a tribu de Benjamín, Elidad hijo de Kislón;
 
 ### 34:22
 
@@ -5009,27 +5009,27 @@ y a tribu de hijos de Dan, príncipe Buqi hijo de Yogli;
 
 ### 34:23
 
-a hijos de Yosef: a tribu de hijos de Menashé, príncipe Janiel hijo de Efod;
+a hijos de José: a tribu de hijos de Manasés, príncipe Janiel hijo de Efod;
 
 ### 34:24
 
-y a tribu de hijos de Efráyim, príncipe Qemuel hijo de Shiftán;
+y a tribu de hijos de Efraín, príncipe Qemuel hijo de Shiftán;
 
 ### 34:25
 
-y a tribu de hijos de Zevulún, príncipe Elitsafán hijo de Parnaj;
+y a tribu de hijos de Zabulón, príncipe Elitsafán hijo de Parnaj;
 
 ### 34:26
 
-y a tribu de hijos de Yisasjar, príncipe Paltiel hijo de Azán;
+y a tribu de hijos de Isacar, príncipe Paltiel hijo de Azán;
 
 ### 34:27
 
-y a tribu de hijos de Asher, príncipe Ajihud hijo de Shelomi;
+y a tribu de hijos de Aser, príncipe Ajihud hijo de Shelomi;
 
 ### 34:28
 
-y a tribu de hijos de Naftalí, príncipe Pedahel hijo de Amihud.
+y a tribu de hijos de Neftalí, príncipe Pedahel hijo de Amihud.
 
 ### 34:29
 
@@ -5055,7 +5055,7 @@ Y ejidos de las ciudades que darán a los levitas, desde muro de la ciudad y afu
 
 ### 35:5
 
-Y medirán desde fuera a la ciudad el lado hacia oriente dos mil en el codo, y el lado de Néguev dos mil en el codo, y el lado de mar dos mil en el codo, y el lado de norte dos mil en el codo, y la ciudad en el medio; esto será a ellos ejidos de las ciudades.
+Y medirán desde fuera a la ciudad el lado hacia oriente dos mil en el codo, y el lado de Neguev dos mil en el codo, y el lado de mar dos mil en el codo, y el lado de norte dos mil en el codo, y la ciudad en el medio; esto será a ellos ejidos de las ciudades.
 
 ### 35:6
 
@@ -5177,7 +5177,7 @@ Y no contaminarás la tierra que ustedes habitantes en ella, que yo morador en m
 
 ### 36:1
 
-Y se acercaron cabezas de los padres a familia de hijos de Gilad hijo de Makir hijo de Menashé, desde familias de hijos de Yosef, y hablaron delante de Moisés y delante de los príncipes, cabezas de padres a hijos de Israel.
+Y se acercaron cabezas de los padres a familia de hijos de Galaad hijo de Makir hijo de Manasés, desde familias de hijos de José, y hablaron delante de Moisés y delante de los príncipes, cabezas de padres a hijos de Israel.
 
 ### 36:2
 
@@ -5193,7 +5193,7 @@ Y si fuere el yovel a hijos de Israel, y será añadida su heredad sobre heredad
 
 ### 36:5
 
-Y mandó Moisés a hijos de Israel sobre boca de Jehová, diciendo: Así tribu de hijos de Yosef hablantes.
+Y mandó Moisés a hijos de Israel sobre boca de Jehová, diciendo: Así tribu de hijos de José hablantes.
 
 ### 36:6
 
@@ -5217,11 +5217,11 @@ Como mandó Jehová a Moisés, así hicieron hijas de Tselofjad.
 
 ### 36:11
 
-Y fueron Majlá, Tirtsá y Joglá y Milcá y Noá, hijas de Tselofjad, a hijos de sus tíos a mujeres.
+Y fueron Majlá, Tirtsá y Joglá y Milca y Noá, hijas de Tselofjad, a hijos de sus tíos a mujeres.
 
 ### 36:12
 
-Desde familias de hijos de Menashé hijo de Yosef fueron a mujeres, y fue su heredad sobre tribu de familia de su padre.
+Desde familias de hijos de Manasés hijo de José fueron a mujeres, y fue su heredad sobre tribu de familia de su padre.
 
 ### 36:13
 

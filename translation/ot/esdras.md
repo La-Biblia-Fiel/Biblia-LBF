@@ -7,23 +7,23 @@
 
 ### 1:1
 
-Y en año uno a Koresh rey de Páras, para completar palabra de Jehová por boca de Yirmeyahu, despertó Jehová el espíritu de Koresh rey de Páras, e hizo pasar voz en todo su reino, y también en escrito, diciendo:
+Y en año uno a Koresh rey de Páras, para completar palabra de Jehová por boca de Jeremías, despertó Jehová el espíritu de Koresh rey de Páras, e hizo pasar voz en todo su reino, y también en escrito, diciendo:
 
 ### 1:2
 
-Así dijo Koresh rey de Páras: Todas reinos de la tierra dio a mí Jehová Dios de los cielos, y él encargó sobre mí para edificar a él casa en Yerushaláyim que en Yehudá.
+Así dijo Koresh rey de Páras: Todas reinos de la tierra dio a mí Jehová Dios de los cielos, y él encargó sobre mí para edificar a él casa en Jerusalén que en Judá.
 
 ### 1:3
 
-¿Quién en ustedes de todo su pueblo? Sea su Dios con él, y suba a Yerushaláyim que en Yehudá, y edifique la casa de Jehová Dios de Israel; él el Dios que en Yerushaláyim.
+¿Quién en ustedes de todo su pueblo? Sea su Dios con él, y suba a Jerusalén que en Judá, y edifique la casa de Jehová Dios de Israel; él el Dios que en Jerusalén.
 
 ### 1:4
 
-Y todo el restante de todos los lugares donde él mora allí, lo alzarán hombres de su lugar en plata y en oro y en hacienda y en bestia, con la ofrenda voluntaria para casa del Dios que en Yerushaláyim.
+Y todo el restante de todos los lugares donde él mora allí, lo alzarán hombres de su lugar en plata y en oro y en hacienda y en bestia, con la ofrenda voluntaria para casa del Dios que en Jerusalén.
 
 ### 1:5
 
-Y se levantaron cabezas de los padres a Yehudá y Binyamín, y los sacerdotes y los levitas, a todo al que despertó el Dios su espíritu para subir a edificar la casa de Jehová que en Yerushaláyim.
+Y se levantaron cabezas de los padres a Judá y Benjamín, y los sacerdotes y los levitas, a todo al que despertó el Dios su espíritu para subir a edificar la casa de Jehová que en Jerusalén.
 
 ### 1:6
 
@@ -31,11 +31,11 @@ Y todos sus alrededores fortalecieron en sus manos con utensilios de plata, en e
 
 ### 1:7
 
-Y el rey Koresh sacó los utensilios de casa de Jehová que sacó Nebukadnetsár de Yerushaláyim, y los dio en casa de su dios.
+Y el rey Koresh sacó los utensilios de casa de Jehová que sacó Nebukadnetsár de Jerusalén, y los dio en casa de su dios.
 
 ### 1:8
 
-Y los sacó Koresh rey de Páras sobre mano de Mitredat el tesorero, y los contó a Sheshbatzar el príncipe a Yehudá.
+Y los sacó Koresh rey de Páras sobre mano de Mitredat el tesorero, y los contó a Sheshbatzar el príncipe a Judá.
 
 ### 1:9
 
@@ -47,13 +47,13 @@ Cuencos de oro treinta, cuencos de plata segundos cuatro cientos y diez, utensil
 
 ### 1:11
 
-Todos utensilios al oro y a la plata cinco miles y cuatro cientos; el todo hizo subir Sheshbatzar con el subir de la deportación de Bavel a Yerushaláyim.
+Todos utensilios al oro y a la plata cinco miles y cuatro cientos; el todo hizo subir Sheshbatzar con el subir de la deportación de Babilonia a Jerusalén.
 
 ## Capítulo 2
 
 ### 2:1
 
-Y estos hijos de la provincia los que suben del cautiverio de la deportación que deportó rey de Bavel a Bavel; y volvieron a Yerushaláyim y Yehudá, hombre a su ciudad,
+Y estos hijos de la provincia los que suben del cautiverio de la deportación que deportó rey de Babilonia a Babilonia; y volvieron a Jerusalén y Judá, hombre a su ciudad,
 
 ### 2:2
 
@@ -269,7 +269,7 @@ hijos de Netsíaj, hijos de Jatifá.
 
 ### 2:55
 
-Hijos de siervos de Shelomó: hijos de Sotay, hijos de Hasoferet, hijos de Perudá;
+Hijos de siervos de Salomón: hijos de Sotay, hijos de Hasoferet, hijos de Perudá;
 
 ### 2:56
 
@@ -281,7 +281,7 @@ hijos de Shefatyá, hijos de Jatil, hijos de Poqueret Hatsvayim, hijos de Amí.
 
 ### 2:58
 
-Todos los netiním e hijos de siervos de Shelomó: tres cientos noventa y dos.
+Todos los netiním e hijos de siervos de Salomón: tres cientos noventa y dos.
 
 ### 2:59
 
@@ -321,7 +321,7 @@ sus camellos cuatro cientos treinta y cinco; asnos seis miles siete cientos y ve
 
 ### 2:68
 
-Y de cabezas de los padres, al venir ellos a casa de Jehová que en Yerushaláyim, se ofrecieron voluntarios a casa del Dios para afirmarlo sobre su basa.
+Y de cabezas de los padres, al venir ellos a casa de Jehová que en Jerusalén, se ofrecieron voluntarios a casa del Dios para afirmarlo sobre su basa.
 
 ### 2:69
 
@@ -335,7 +335,7 @@ Y habitaron los sacerdotes y los levitas y de el pueblo y los cantores y los por
 
 ### 3:1
 
-Y llegó el mes el séptimo, e hijos de Israel en las ciudades; y se reunió el pueblo como hombre uno a Yerushaláyim.
+Y llegó el mes el séptimo, e hijos de Israel en las ciudades; y se reunió el pueblo como hombre uno a Jerusalén.
 
 ### 3:2
 
@@ -359,15 +359,15 @@ Desde día uno al mes el séptimo comenzaron a hacer subir holocaustos a Jehová
 
 ### 3:7
 
-Y dieron plata a los canteros y a los artesanos, y comida y bebida y aceite a los tsidoníes y a los tsuríes, para traer maderos de cedros del Levanón al mar Yafó, según permiso de Koresh rey de Páras sobre ellos.
+Y dieron plata a los canteros y a los artesanos, y comida y bebida y aceite a los tsidoníes y a los tsuríes, para traer maderos de cedros del Líbano al mar Yafó, según permiso de Koresh rey de Páras sobre ellos.
 
 ### 3:8
 
-Y en el año el segundo a su venir a casa del Dios a Yerushaláyim, en el mes el segundo, comenzaron Zerubavel hijo de Shealtiel y Yeshúa hijo de Yotsadac y resto de sus hermanos los sacerdotes y los levitas y todos los que vienen del cautiverio Yerushaláyim, y pusieron a los levitas desde hijo de veinte año y arriba para dirigir sobre obra de casa de Jehová.
+Y en el año el segundo a su venir a casa del Dios a Jerusalén, en el mes el segundo, comenzaron Zerubavel hijo de Shealtiel y Yeshúa hijo de Yotsadac y resto de sus hermanos los sacerdotes y los levitas y todos los que vienen del cautiverio Jerusalén, y pusieron a los levitas desde hijo de veinte año y arriba para dirigir sobre obra de casa de Jehová.
 
 ### 3:9
 
-Y se paró Yeshúa sus hijos y sus hermanos, Qadmiel y sus hijos, hijos de Yehudá, como uno, para dirigir sobre hacedor de la obra en casa del Dios; hijos de Jenadad, sus hijos y sus hermanos los levitas.
+Y se paró Yeshúa sus hijos y sus hermanos, Qadmiel y sus hijos, hijos de Judá, como uno, para dirigir sobre hacedor de la obra en casa del Dios; hijos de Jenadad, sus hijos y sus hermanos los levitas.
 
 ### 3:10
 
@@ -389,11 +389,11 @@ Y no el pueblo reconociendo voz de grito de la alegría a voz de llanto del pueb
 
 ### 4:1
 
-Y oyeron adversarios de Yehudá y Binyamín que hijos de la deportación edifican hecal a Jehová Dios de Israel.
+Y oyeron adversarios de Judá y Benjamín que hijos de la deportación edifican hecal a Jehová Dios de Israel.
 
 ### 4:2
 
-Y se acercaron a Zerubavel y a cabezas de los padres, y dijeron a ellos: Edificaremos con ustedes, porque como ustedes buscamos a su Dios de ustedes; nosotros sacrificamos desde días de Esar Jadón rey de Ashur el que hizo subir a nosotros acá.
+Y se acercaron a Zerubavel y a cabezas de los padres, y dijeron a ellos: Edificaremos con ustedes, porque como ustedes buscamos a su Dios de ustedes; nosotros sacrificamos desde días de Esar Jadón rey de Asiria el que hizo subir a nosotros acá.
 
 ### 4:3
 
@@ -401,7 +401,7 @@ Y les dijo a ellos Zerubavel y Yeshúa y resto de cabezas de los padres a Israel
 
 ### 4:4
 
-Y fue pueblo de la tierra debilitando manos de pueblo de Yehudá, ellos para edificar.
+Y fue pueblo de la tierra debilitando manos de pueblo de Judá, ellos para edificar.
 
 ### 4:5
 
@@ -409,7 +409,7 @@ Y alquilan sobre ellos consejeros para frustrar su consejo, todos días de Kores
 
 ### 4:6
 
-Y en reino de Ajashverosh, en comienzo de su reino, escribieron acusación sobre habitantes de Yehudá y Yerushaláyim.
+Y en reino de Ajashverosh, en comienzo de su reino, escribieron acusación sobre habitantes de Judá y Jerusalén.
 
 ### 4:7
 
@@ -417,7 +417,7 @@ Y en días de Artajshastá escribió Bishlam, Mitredat, Taveel y resto sobre rey
 
 ### 4:8
 
-Rejum señor de decreto y Shimshay el escriba escribieron carta una sobre Yerushaláyim a Artajshastá el rey así:
+Rejum señor de decreto y Shimshay el escriba escribieron carta una sobre Jerusalén a Artajshastá el rey así:
 
 ### 4:9
 
@@ -433,7 +433,7 @@ Esta copia de la carta que enviaron sobre él, sobre Artajshastá el rey: Tus si
 
 ### 4:12
 
-Sea conocido al rey que los yehudíes que subieron de junto a ti sobre nosotros vinieron a Yerushaláyim; la ciudad la rebelde edifican, y los cimientos completan.
+Sea conocido al rey que los yehudíes que subieron de junto a ti sobre nosotros vinieron a Jerusalén; la ciudad la rebelde edifican, y los cimientos completan.
 
 ### 4:13
 
@@ -465,7 +465,7 @@ Y de mí fue puesto decreto, y buscaron y hallaron que la ciudad esa desde días
 
 ### 4:20
 
-Y reyes fuertes hubo sobre Yerushaláyim, y dominadores en todo Más Allá del Río, y tributo, impuesto y peaje se daba a ellos.
+Y reyes fuertes hubo sobre Jerusalén, y dominadores en todo Más Allá del Río, y tributo, impuesto y peaje se daba a ellos.
 
 ### 4:21
 
@@ -477,21 +477,21 @@ Y cuidadosos sean; descuido para hacer sobre esto, ¿por qué crecerá el daño 
 
 ### 4:23
 
-Entonces desde que copia del documento que el rey fue leída delante de Rejum y Shimshay el escriba y sus colegas, anduvieron con prisa a Yerushaláyim sobre los yehudíes, e hicieron cesar a ellos con brazo y fuerza.
+Entonces desde que copia del documento que el rey fue leída delante de Rejum y Shimshay el escriba y sus colegas, anduvieron con prisa a Jerusalén sobre los yehudíes, e hicieron cesar a ellos con brazo y fuerza.
 
 ### 4:24
 
-Entonces cesó obra de casa del Dios que en Yerushaláyim; y fue cesando hasta año dos a reino de Daryavesh rey de Páras.
+Entonces cesó obra de casa del Dios que en Jerusalén; y fue cesando hasta año dos a reino de Daryavesh rey de Páras.
 
 ## Capítulo 5
 
 ### 5:1
 
-Y profetizó Hagay y Zecaryá hijo de Idó sobre los yehudíes que en Yehud y en Yerushaláyim, en nombre de Dios de Israel sobre ellos.
+Y profetizó Hagay y Zecaryá hijo de Idó sobre los yehudíes que en Yehud y en Jerusalén, en nombre de Dios de Israel sobre ellos.
 
 ### 5:2
 
-Entonces se levantaron Zerubavel hijo de Shealtiel y Yeshúa hijo de Yotsadac, y comenzaron a edificar casa del Dios que en Yerushaláyim; y con ellos los de Dios ayudando a ellos.
+Entonces se levantaron Zerubavel hijo de Shealtiel y Yeshúa hijo de Yotsadac, y comenzaron a edificar casa del Dios que en Jerusalén; y con ellos los de Dios ayudando a ellos.
 
 ### 5:3
 
@@ -531,27 +531,27 @@ Y así la palabra nos devolvieron para decir: Nosotros ellos siervos de Dios de 
 
 ### 5:12
 
-Sino desde que irritaron nuestros padres a Dios de cielos, dio a ellos en mano de Nebukadnetsár rey de Bavel, y esta la casa la derribó, y al pueblo deportó a Bavel.
+Sino desde que irritaron nuestros padres a Dios de cielos, dio a ellos en mano de Nebukadnetsár rey de Babilonia, y esta la casa la derribó, y al pueblo deportó a Babilonia.
 
 ### 5:13
 
-Pero en año uno a Koresh el rey que de Bavel, Koresh el rey puso decreto esta casa del Dios para edificar.
+Pero en año uno a Koresh el rey que de Babilonia, Koresh el rey puso decreto esta casa del Dios para edificar.
 
 ### 5:14
 
-Y también los utensilios de casa del Dios que el oro y la plata que Nebukadnetsár sacó del hecal que en Yerushaláyim, y los llevó al hecal que en Bavel, los sacó Koresh el rey del hecal que en Bavel, y fueron dados a Sheshbatzar, su nombre, al que gobernador lo puso.
+Y también los utensilios de casa del Dios que el oro y la plata que Nebukadnetsár sacó del hecal que en Jerusalén, y los llevó al hecal que en Babilonia, los sacó Koresh el rey del hecal que en Babilonia, y fueron dados a Sheshbatzar, su nombre, al que gobernador lo puso.
 
 ### 5:15
 
-Y le dijo a él: Los utensilios toma, ve, haz bajar a ellos en el hecal que en Yerushaláyim, y casa del Dios sea edificada sobre su lugar.
+Y le dijo a él: Los utensilios toma, ve, haz bajar a ellos en el hecal que en Jerusalén, y casa del Dios sea edificada sobre su lugar.
 
 ### 5:16
 
-Entonces Sheshbatzar ese vino, dio los cimientos de casa del Dios que en Yerushaláyim; y desde entonces y hasta ahora es edificada, y no completa.
+Entonces Sheshbatzar ese vino, dio los cimientos de casa del Dios que en Jerusalén; y desde entonces y hasta ahora es edificada, y no completa.
 
 ### 5:17
 
-Y ahora, si sobre el rey bueno, sea buscado en casa de los tesoros del rey allá que en Bavel, si hay que de Koresh el rey fue puesto decreto para edificar esta casa del Dios en Yerushaláyim; y voluntad del rey sobre esto envíe sobre nosotros.
+Y ahora, si sobre el rey bueno, sea buscado en casa de los tesoros del rey allá que en Babilonia, si hay que de Koresh el rey fue puesto decreto para edificar esta casa del Dios en Jerusalén; y voluntad del rey sobre esto envíe sobre nosotros.
 
 ## Capítulo 6
 
@@ -561,11 +561,11 @@ Entonces Dariyavesh el rey puso decreto, y buscaron en casa de los libros donde 
 
 ### 6:2
 
-Y se halló en Ajmetá, en la ciudadela que en Madai la provincia, un rollo; y así escrito en su interior un memorial:
+Y se halló en Ajmetá, en la ciudadela que en Media la provincia, un rollo; y así escrito en su interior un memorial:
 
 ### 6:3
 
-En año uno a Koresh el rey, Koresh el rey puso decreto: Casa de Dios en Yerushaláyim, la casa sea edificada, lugar donde sacrifican sacrificios, y sus cimientos sostenidos; su altura codos sesenta, su anchura codos sesenta,
+En año uno a Koresh el rey, Koresh el rey puso decreto: Casa de Dios en Jerusalén, la casa sea edificada, lugar donde sacrifican sacrificios, y sus cimientos sostenidos; su altura codos sesenta, su anchura codos sesenta,
 
 ### 6:4
 
@@ -573,7 +573,7 @@ hiladas de piedra rodada tres, y hilada de madera una; y el gasto de casa del re
 
 ### 6:5
 
-Y también utensilios de casa de Dios, que de oro y de plata, que Nebukadnetsár hizo salir del hekal que en Yerushaláyim y trajo a Babel, sean devueltos, y vayan al hekal que en Yerushaláyim a su lugar, y sean puestos en casa de Dios.
+Y también utensilios de casa de Dios, que de oro y de plata, que Nebukadnetsár hizo salir del hekal que en Jerusalén y trajo a Babel, sean devueltos, y vayan al hekal que en Jerusalén a su lugar, y sean puestos en casa de Dios.
 
 ### 6:6
 
@@ -589,7 +589,7 @@ Y de mí puesto decreto de lo que harán con los ancianos de los yehudaye aquell
 
 ### 6:9
 
-Y lo que necesiten —y hijos de toros y carneros y corderos para holocaustos al Dios de los cielos, trigo, sal, vino y aceite, conforme a palabra de los sacerdotes que en Yerushaláyim— sea dado a ellos día en día, que no haya negligencia,
+Y lo que necesiten —y hijos de toros y carneros y corderos para holocaustos al Dios de los cielos, trigo, sal, vino y aceite, conforme a palabra de los sacerdotes que en Jerusalén— sea dado a ellos día en día, que no haya negligencia,
 
 ### 6:10
 
@@ -601,7 +601,7 @@ Y de mí puesto decreto: que todo hombre que altere esta palabra, sea arrancada 
 
 ### 6:12
 
-Y el Dios que hizo habitar su nombre allá derribe a todo rey y pueblo que envíe su mano para alterar, para dañar casa de Dios aquella que en Yerushaláyim. Yo Dariyavesh puse decreto; diligentemente sea hecho.
+Y el Dios que hizo habitar su nombre allá derribe a todo rey y pueblo que envíe su mano para alterar, para dañar casa de Dios aquella que en Jerusalén. Yo Dariyavesh puse decreto; diligentemente sea hecho.
 
 ### 6:13
 
@@ -625,7 +625,7 @@ Y ofrecieron a la dedicación de casa de Dios esta toros cien, carneros doscient
 
 ### 6:18
 
-Y levantaron a los sacerdotes en sus divisiones y a los levitas en sus turnos sobre la obra de Dios que en Yerushaláyim, conforme a escrito del libro de Moisés.
+Y levantaron a los sacerdotes en sus divisiones y a los levitas en sus turnos sobre la obra de Dios que en Jerusalén, conforme a escrito del libro de Moisés.
 
 ### 6:19
 
@@ -641,7 +641,7 @@ Y comieron hijos de Israel los que volvieron de la golá, y todo el separado de 
 
 ### 6:22
 
-E hicieron fiesta de matsot siete días con alegría, porque los alegró Jehová y volvió corazón de rey de Ashur sobre ellos, para fortalecer sus manos en la obra de casa del Dios, Dios de Israel.
+E hicieron fiesta de matsot siete días con alegría, porque los alegró Jehová y volvió corazón de rey de Asiria sobre ellos, para fortalecer sus manos en la obra de casa del Dios, Dios de Israel.
 
 ## Capítulo 7
 
@@ -671,15 +671,15 @@ hijo de Avishúa, hijo de Pinchás, hijo de Elazar, hijo de Aarón el sacerdote 
 
 ### 7:7
 
-Y subieron de hijos de Israel y de los sacerdotes y los levitas y los cantores y los porteros y los netinim a Yerushaláyim, en año siete a Artajshasta el rey.
+Y subieron de hijos de Israel y de los sacerdotes y los levitas y los cantores y los porteros y los netinim a Jerusalén, en año siete a Artajshasta el rey.
 
 ### 7:8
 
-Y vino a Yerushaláyim en el mes el quinto; ella año el séptimo al rey.
+Y vino a Jerusalén en el mes el quinto; ella año el séptimo al rey.
 
 ### 7:9
 
-Porque en uno al mes el primero él fue el fundamento de la subida de Babel, y en uno al mes el quinto vino a Yerushaláyim, conforme a mano de su Dios la buena sobre él.
+Porque en uno al mes el primero él fue el fundamento de la subida de Babel, y en uno al mes el quinto vino a Jerusalén, conforme a mano de su Dios la buena sobre él.
 
 ### 7:10
 
@@ -695,23 +695,23 @@ Artajshasta rey de los reyes, a Ezrá el sacerdote, escriba de la ley del Dios d
 
 ### 7:13
 
-De mí puesto decreto: que todo el que se ofrezca voluntario en mi reino del pueblo Israel y sus sacerdotes y levitas a ir a Yerushaláyim contigo, vaya.
+De mí puesto decreto: que todo el que se ofrezca voluntario en mi reino del pueblo Israel y sus sacerdotes y levitas a ir a Jerusalén contigo, vaya.
 
 ### 7:14
 
-Por cuanto de delante del rey y de sus siete consejeros eres enviado a investigar sobre Yehud y Yerushaláyim con la ley de tu Dios que en tu mano,
+Por cuanto de delante del rey y de sus siete consejeros eres enviado a investigar sobre Yehud y Jerusalén con la ley de tu Dios que en tu mano,
 
 ### 7:15
 
-y para llevar plata y oro que el rey y sus consejeros ofrecieron voluntariamente al Dios de Israel, que en Yerushaláyim su morada,
+y para llevar plata y oro que el rey y sus consejeros ofrecieron voluntariamente al Dios de Israel, que en Jerusalén su morada,
 
 ### 7:16
 
-y toda plata y oro que halles en toda provincia de Babel, con la ofrenda voluntaria del pueblo y de los sacerdotes que se ofrecen voluntarios a casa de su Dios que en Yerushaláyim.
+y toda plata y oro que halles en toda provincia de Babel, con la ofrenda voluntaria del pueblo y de los sacerdotes que se ofrecen voluntarios a casa de su Dios que en Jerusalén.
 
 ### 7:17
 
-Por tanto, diligentemente compra con esta plata toros, carneros, corderos y sus ofrendas y sus libaciones, y ofrécelos sobre el altar de casa de su Dios de ustedes que en Yerushaláyim.
+Por tanto, diligentemente compra con esta plata toros, carneros, corderos y sus ofrendas y sus libaciones, y ofrécelos sobre el altar de casa de su Dios de ustedes que en Jerusalén.
 
 ### 7:18
 
@@ -719,7 +719,7 @@ Y lo que a ustedes y a él bien parezca en el resto de la plata y el oro para ha
 
 ### 7:19
 
-Y los utensilios que son dados a ti para el servicio de casa de tu Dios, entrégalos delante del Dios de Yerushaláyim.
+Y los utensilios que son dados a ti para el servicio de casa de tu Dios, entrégalos delante del Dios de Jerusalén.
 
 ### 7:20
 
@@ -751,7 +751,7 @@ Y todo el que no sea hacedor de la ley de tu Dios y de la ley del rey, diligente
 
 ### 7:27
 
-Bendito Jehová Dios de nuestros padres, que puso como esto en corazón del rey para embellecer la casa de Jehová que en Yerushaláyim,
+Bendito Jehová Dios de nuestros padres, que puso como esto en corazón del rey para embellecer la casa de Jehová que en Jerusalén,
 
 ### 7:28
 
@@ -873,19 +873,19 @@ Y les dije: Ustedes santidad a Jehová, y los utensilios santidad, y la plata y 
 
 ### 8:29
 
-Velen y guarden hasta que pesen delante de príncipes de los sacerdotes y los levitas y príncipes de los padres a Israel en Yerushaláyim, las cámaras de casa de Jehová.
+Velen y guarden hasta que pesen delante de príncipes de los sacerdotes y los levitas y príncipes de los padres a Israel en Jerusalén, las cámaras de casa de Jehová.
 
 ### 8:30
 
-Y recibieron los sacerdotes y los levitas peso de la plata y el oro y los utensilios, para traer a Yerushaláyim a casa de nuestro Dios.
+Y recibieron los sacerdotes y los levitas peso de la plata y el oro y los utensilios, para traer a Jerusalén a casa de nuestro Dios.
 
 ### 8:31
 
-Y partimos del río Ahavá en doce al mes el primero para ir a Yerushaláyim; y mano de nuestro Dios estaba sobre nosotros, y nos libró de palma de enemigo y de emboscador sobre el camino.
+Y partimos del río Ahavá en doce al mes el primero para ir a Jerusalén; y mano de nuestro Dios estaba sobre nosotros, y nos libró de palma de enemigo y de emboscador sobre el camino.
 
 ### 8:32
 
-Y vinimos a Yerushaláyim, y nos sentamos allí días tres.
+Y vinimos a Jerusalén, y nos sentamos allí días tres.
 
 ### 8:33
 
@@ -939,7 +939,7 @@ Y ahora, como por poco momento, hubo gracia de parte de Jehová nuestro Dios par
 
 ### 9:9
 
-Porque siervos nosotros, y en nuestra servidumbre no nos dejó nuestro Dios, e inclinó sobre nosotros misericordia delante de reyes de Páras, para darnos vida para alzar la casa de nuestro Dios y para levantar sus ruinas, y para darnos muro en Yehudá y en Yerushaláyim.
+Porque siervos nosotros, y en nuestra servidumbre no nos dejó nuestro Dios, e inclinó sobre nosotros misericordia delante de reyes de Páras, para darnos vida para alzar la casa de nuestro Dios y para levantar sus ruinas, y para darnos muro en Judá y en Jerusalén.
 
 ### 9:10
 
@@ -993,7 +993,7 @@ Y se levantó Ezrá de delante de casa del Dios y fue a la cámara de Yehojanán
 
 ### 10:7
 
-Y hicieron pasar voz en Yehudá y Yerushaláyim a todos hijos de la golá, a reunirse a Yerushaláyim.
+Y hicieron pasar voz en Judá y Jerusalén a todos hijos de la golá, a reunirse a Jerusalén.
 
 ### 10:8
 
@@ -1001,7 +1001,7 @@ Y todo el que no viniera a los tres días, conforme a consejo de los príncipes 
 
 ### 10:9
 
-Y se reunieron todos hombres de Yehudá y Binyamín a Yerushaláyim a los tres días; él mes el noveno, en veinte al mes; y se sentó todo el pueblo en plaza de casa del Dios, temblando sobre la palabra y por las lluvias.
+Y se reunieron todos hombres de Judá y Benjamín a Jerusalén a los tres días; él mes el noveno, en veinte al mes; y se sentó todo el pueblo en plaza de casa del Dios, temblando sobre la palabra y por las lluvias.
 
 ### 10:10
 
@@ -1053,11 +1053,11 @@ Y de hijos de Jarim: Maaseyá y Eliyá y Shemayá y Yejiuel y Uziyá.
 
 ### 10:22
 
-Y de hijos de Pashjur: Elyoenai, Maaseyá, Yismael, Netanel, Yozavad y Elasá.
+Y de hijos de Pashjur: Elyoenai, Maaseyá, Ismael, Netanel, Yozavad y Elasá.
 
 ### 10:23
 
-Y de los levitas: Yozavad y Shimí y Qelayá —él Qelita—, Petajyá, Yehudá y Eliezer.
+Y de los levitas: Yozavad y Shimí y Qelayá —él Qelita—, Petajyá, Judá y Eliezer.
 
 ### 10:24
 
@@ -1085,19 +1085,19 @@ Y de hijos de Baní: Meshulam, Maluj y Adayá, Yashuv y Sheal.
 
 ### 10:30
 
-Y de hijos de Pajat Moav: Adná y Kelal, Benayá, Maaseyá, Matanyá, Betsalel y Binui y Menashé.
+Y de hijos de Pajat Moav: Adná y Kelal, Benayá, Maaseyá, Matanyá, Betsalel y Binui y Manasés.
 
 ### 10:31
 
-Y hijos de Jarim: Eliezer, Yishiyá, Malkiyá, Shemayá, Shimón,
+Y hijos de Jarim: Eliezer, Yishiyá, Malkiyá, Shemayá, Simeón,
 
 ### 10:32
 
-Binyamín, Maluj, Shemaryá.
+Benjamín, Maluj, Shemaryá.
 
 ### 10:33
 
-De hijos de Jashum: Matnai, Matatá, Zavad, Elifelet, Yeremaí, Menashé, Shimí.
+De hijos de Jashum: Matnai, Matatá, Zavad, Elifelet, Yeremaí, Manasés, Shimí.
 
 ### 10:34
 
@@ -1133,7 +1133,7 @@ Azarel y Shelemyahu, Shemaryá,
 
 ### 10:42
 
-Shalum, Amaryá, Yosef.
+Shalum, Amaryá, José.
 
 ### 10:43
 

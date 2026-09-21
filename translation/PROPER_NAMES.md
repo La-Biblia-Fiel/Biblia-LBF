@@ -1,16 +1,34 @@
 # LBF proper names
 
-Status: normative for Traduce, Pulir, Audita, and second-pass OT rewrite.
+Status: normative for Traduce, Pulir, Audita, and second-pass OT work.
 
-## Rule
+## Rule (2026-09-19)
 
-Hebraize **proper names only**. Everything else is Spanish.
+When a Hebrew or Greek proper name has a **conventional Spanish
+equivalent**, use the traditional Spanish form.
+
+When a translation would require **identifying or interpreting the
+referent** rather than translating the actual name, preserve the
+traditional (formally transparent) name and explain the identification
+in a note when useful.
+
+| Hebrew (example) | Prefer (name) | Avoid (interpretation / wrong class) |
+| --- | --- | --- |
+| יָוָן (*Yāwān*) | Javán | Grecia |
+| מִצְרַיִם (*Miṣrayim*) | Egipto | Mizraim / Mitsráyim |
+| אַשּׁוּר (*Aššūr*) | Asiria | Ashur as a scholar dump |
+| אֱדוֹם (*ʾĚdôm*) | Edom | — |
+| יִשְׂרָאֵל (*Yiśrāʾēl*) | Israel | — |
+| יְהוּדָה (*Yehûdāh*) | Judá | Yehudá |
+
+### Classes
 
 | Class | Render |
 | --- | --- |
-| Person, clan, tribe | Locked Hebraic Spanish form |
-| Place, river, mountain, region | Locked Hebraic Spanish form |
-| People / ethnonym as a name | Locked form (`los mizraim`, `el cananeo`) |
+| Person, clan, tribe | Conventional Spanish Bible form when one exists |
+| Place, river, mountain, region | Conventional Spanish form when one exists |
+| People / ethnonym | Conventional Spanish (*los egipcios*, *el cananeo*) |
+| Name whose usual “translation” is a modern/geographic ID | Keep the traditional name; note the ID if useful (*Javán* → Grecia) |
 | יהוה | **Jehová** (never SEÑOR, Yavé, YHWH in running text) |
 | אלהים as “God” | **Dios** (never *Elohím*) |
 | אדני as fixed address | **Adonai** (as in Génesis) |
@@ -21,31 +39,41 @@ Hebraize **proper names only**. Everything else is Spanish.
 
 Fail:
 
-- Scholar dumps: *Elohím*, *Mitsráyim*, *Yaʿaqov*, *Mosheh*
-- RVR castilianization when a locked Hebraic form exists: *Jacob*, *Egipto*, *José*, *Isaac* for OT referents locked below
+- Scholar dumps in running text: *Elohím*, *Mitsráyim*, *Yaʿaqov*, *Mosheh*, *Yeshayahu*
+- Hebraizing a name that already has a locked conventional Spanish form: *Yehudá*, *Yerushaláyim*, *Mizraim* for Judá / Jerusalén / Egipto
+- Replacing a name with an interpretive geography when the Hebrew is the name: *Grecia* for יָוָן, *Etiopía* for כּוּשׁ when the locked form is the name itself
 - Transliterating a common noun because the lemma is Hebrew (*casa* stays *casa*)
 
 Pass:
 
-- Locked forms: *Yaakov*, *Mizraim*, *Yosef*, *Yitsjaq*
+- Conventional forms: *Jacob*, *Egipto*, *José*, *Isaías*, *Jerusalén*
+- Transparent names kept when ID would be interpretation: *Javán* (note: Grecia), *Cus* (note: Etiopía) when locked that way
 
 ## Orthography
 
-1. Consonants from OSHB / Paleo; Spanish vowels.
-2. One form per referent for the whole OT once locked.
-3. Prefer the form already used in **Génesis** (`done`) when present.
-4. Soft begadkefat after a vowel follows the locked spelling, not a new scheme per verse.
+1. One form per referent for the whole Bible once locked.
+2. Prefer the form already locked in this file.
+3. Books already signed `done` under the old Hebraizing rule (e.g. Génesis)
+   need a names correction pass; do not treat old Hebraized Génesis as
+   authority against this rule.
+4. Soft begadkefat follows the locked Spanish spelling, not a new scheme
+   per verse.
 5. Do not mark ayin/aleph with `ʿ` / `ʾ` in running Spanish.
 
 ## How to extend
 
-1. Check this file and Génesis.
-2. If absent, add a row here with the locked Spanish form before using it in a book.
-3. Never invent a second spelling for the same referent.
+1. Check this file.
+2. If a conventional Spanish Bible form exists, lock that.
+3. If the only common “translation” identifies the referent (modern
+   country, city ID, etc.), lock the traditional name and optionally
+   note the ID.
+4. Add a row here before using a new spelling in a book.
+5. Never invent a second spelling for the same referent.
 
-## Seed table (from Génesis `done` + Éxodo spine)
+## Seed table
 
-Forms below are locked. Add rows; do not silently respell.
+Forms below are locked under the **conventional Spanish** rule.
+“Not” = scholar dump, old Hebraizing, or interpretive ID in running text.
 
 ### Divine / address
 
@@ -53,127 +81,133 @@ Forms below are locked. Add rows; do not silently respell.
 | --- | --- |
 | Jehová | יהוה |
 | Dios | אלהים as God |
-| Adonai | אדני address (Génesis) |
+| Adonai | אדני address |
 
 ### Persons (sample spine)
 
 | Spanish | Not |
 | --- | --- |
-| Havá | Eva |
-| Hével | Abel |
-| Noaj | Noé |
+| Eva | Havá |
+| Abel | Hével |
+| Noé | Noaj |
 | Abram / Abraham | — |
-| Sarái / Sara | — |
-| Hagar | — |
-| Yismael | Ismael |
-| Yitsjaq | Isaac |
-| Ribqá | Rebeca |
+| Sarai / Sara | Sarái |
+| Agar | Hagar |
+| Ismael | Yismael |
+| Isaac | Yitsjaq |
+| Rebeca | Ribqá |
 | Labán | — |
-| Esav | Esaú / Esau |
-| Yaakov | Jacob |
-| Leá | Lea |
-| Rajel | Raquel |
-| Reuvén | Rubén |
-| Shimón | Simeón |
+| Esaú | Esav |
+| Jacob | Yaakov |
+| Lea | Leá |
+| Raquel | Rajel |
+| Rubén | Reuvén |
+| Simeón | Shimón |
 | Leví | — |
-| Yehudá | Judá |
+| Judá | Yehudá |
 | Dan | — |
-| Naftalí | Neftalí |
+| Neftalí | Naftalí |
 | Gad | — |
-| Asher | Aser |
-| Yisasjar | Isacar |
-| Zevulún | Zabulón |
-| Yosef | José |
-| Binyamín | Benjamín |
-| Menashé | Manasés |
-| Efráyim | Efraín |
+| Aser | Asher |
+| Isacar | Yisasjar |
+| Zabulón | Zevulún |
+| José | Yosef |
+| Benjamín | Binyamín |
+| Manasés | Menashé |
+| Efraín | Efráyim |
 | Moisés | Moshe / Mosheh |
 | Aarón | Aharon |
 | Faraón | — |
-| Abimélek | — |
+| Abimelec | Abimélek |
 | Lot | — |
-| Najor | — |
+| Nacor | Najor |
 | Betuel | — |
-| Milcá | — |
+| Milca | Milcá |
 | Eliezer | — |
 | Efrón | — |
 | Agur | — |
-| Yaké | Jaqué / Jakeh |
+| Jaqué | Yaké |
 | Itiel | — |
-| Ukal | Ucal |
-| Lemuél | Lemuel |
-| Qohélet | Qohelet / Eclesiastés as a name |
-| Shelomó | Salomón |
-| Yeshayahu | Isaías (person) |
-| Amots | Amoz |
-| Uzziyahu | Uzías / Ozías |
-| Yotam | Jotam |
-| Ajaz | Acaz |
-| Jizqiyahu | Ezequías |
+| Ucal | Ukal |
+| Lemuel | Lemuél |
+| Cohélet | Qohélet (as a name; book title may differ) |
+| Salomón | Shelomó |
+| Isaías | Yeshayahu |
+| Amoz | Amots |
+| Uzías | Uzziyahu / Ozías |
+| Jotam | Yotam |
+| Acaz | Ajaz |
+| Ezequías | Jizqiyahu |
 | Tartán | Tartan |
 | Sargón | — |
-| Shevná | Sebna |
-| Elyaqim | Eliaquim |
-| Jilqiyahu | Hilcías |
+| Sebna | Shevná |
+| Eliaquim | Elyaqim |
+| Hilcías | Jilqiyahu |
 
 ### Places / peoples (sample spine)
 
-| Spanish | Not |
+| Spanish | Not (scholar / interpretive ID in text) |
 | --- | --- |
-| Mizraim | Egipto / Mitsráyim |
-| Yerushaláyim | Jerusalén |
-| Qedar | Cedar / Cedar tents |
-| Sharón | Sarón |
-| Ein Guedí | Engadi / En-gedi |
-| Báter | Beter |
-| Levanón | Líbano |
-| Tsiyón | Sión |
-| Gilad | Galaad |
-| Amaná | Amana |
+| Egipto | Mizraim / Mitsráyim |
+| Jerusalén | Yerushaláyim |
+| Cedar | Qedar |
+| Sarón | Sharón |
+| Engadi | Ein Guedí |
+| Béter | Báter |
+| Líbano | Levanón |
+| Sión | Tsiyón |
+| Galaad | Gilad |
+| Amana | Amaná |
 | Senir | — |
-| Jermón | Hermón |
-| Canaán | Kenáan (Génesis locks *Canaán*) |
-| Sedom | Sodoma |
-| Amoré | Gomorra |
+| Hermón | Jermón |
+| Canaán | Kenáan |
+| Sodoma | Sedom |
+| Gomorra | Amoré |
 | Edén | — |
-| Néguev | — |
-| Gosén | Gosén / Goshen variants — keep *Gosén* |
-| Mamré | — |
-| Macpelá | — |
-| Moriyá | — |
+| Neguev | Néguev |
+| Gosén | Goshen variants |
+| Mamre | Mamré |
+| Macpela | Macpelá |
+| Moria | Moriyá |
 | Gerar | — |
 | Parán | — |
-| Dameseq | Damasco |
-| Beer Sheva | — |
-| Yeor | Nilo |
-| Pelishtim | filisteos (when the ethnonym is the name) |
-| Raamsés | — |
+| Damasco | Dameseq |
+| Beerseba | Beer Sheva |
+| Yeor | Nilo (ID — keep name; note if useful) |
+| filisteos | Pelishtim as scholar dump |
+| Raamses | Raamsés |
 | Pitom | — |
-| Azazel | chivo emisario / interpretaciones |
-| Molek | Moloc |
-| Aroer | Aroer / Aroer cities |
+| Azazel | chivo emisario as forced ID |
+| Moloc | Molek |
+| Aroer | — |
 | Aram | — |
-| Kush | Cus / Etiopía |
-| Ashur | Asiria |
-| Tsoán | Zoán |
-| Nof | Menfis |
-| Matsor | poetic Mizraim / fortress |
-| Ashdod | Asdod |
+| Cus | Etiopía (ID — keep *Cus*; note if useful) |
+| Asiria | Ashur scholar dump |
+| Zoán | Tsoán |
+| Nof | Menfis (ID — keep *Nof*; note if useful) |
+| Matsor | poetic “Egipto” as forced ID |
+| Asdod | Ashdod |
 | Elam | — |
-| Madai | Media |
-| Dumá | Duma |
-| Seir | Seír |
-| Arav | Arabia |
-| Dedán | Dedán / Dedanim |
-| Teimá | Tema |
-| Bavel | Babilonia |
+| Media | Madai when used as the name Media |
+| Duma | Dumá |
+| Seír | Seir |
+| Arabia | Arav when the text means Arabia as conventional |
+| Dedán | — |
+| Tema | Teimá |
+| Babilonia | Bavel |
 | Kir | — |
-| Tsor | Tiro |
-| Tsidón | Sidón |
-| Tarshish | Tarsis |
-| Kittim | Quitim / Chipre |
-| Kasdim | caldeos |
-| Shihor | Sihor |
-| Refaím | Refaim / Rephaim valley |
+| Tiro | Tsor |
+| Sidón | Tsidón |
+| Tarsis | Tarshish |
+| Quitim | Chipre (ID — keep *Quitim*; note if useful) |
+| caldeos | Kasdim scholar dump |
+| Sihor | Shihor |
+| Refaim | Refaím valley scholar dump |
+| Javán | Grecia (ID — keep *Javán*; note if useful) |
+| Edom | — |
+| Israel | — |
+| Judá | Yehudá (place/people) |
 
-Génesis remains the orthography authority when this table and a verse disagree: fix the table to match Génesis, then the other books.
+Correction scope: Genesis through Isaiah (and later second-pass books)
+still carry many Hebraized forms from the previous rule. Fix by names
+pass, not by full retranslation.

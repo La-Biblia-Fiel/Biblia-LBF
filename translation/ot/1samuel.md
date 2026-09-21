@@ -7,7 +7,7 @@
 
 ### 1:1
 
-Y fue un hombre uno de ha-Ramatáyim Tsofim, del monte de Efráyim, y su nombre Elkaná, hijo de Yeroham, hijo de Elihú, hijo de Tóju, hijo de Tzuf, efratí.
+Y fue un hombre uno de ha-Ramatáyim Tsofim, del monte de Efraín, y su nombre Elkaná, hijo de Yeroham, hijo de Elihú, hijo de Tóju, hijo de Tzuf, efratí.
 
 ### 1:2
 
@@ -225,7 +225,7 @@ Y el muchacho Shemuel andando y creciendo y bueno también con Jehová y tambié
 
 ### 2:27
 
-Y vino hombre de Dios a Elí, y dijo a él: Así dijo Jehová: ¿Revelando me revelé a casa de tu padre en su ser ellos en Mizraim a casa de Faraón?
+Y vino hombre de Dios a Elí, y dijo a él: Así dijo Jehová: ¿Revelando me revelé a casa de tu padre en su ser ellos en Egipto a casa de Faraón?
 
 ### 2:28
 
@@ -343,7 +343,7 @@ Y creció Shemuel, y Jehová fue con él, y no hizo caer de todas sus palabras a
 
 ### 3:20
 
-Y conoció todo Israel desde Dan y hasta Beer Sheva que Shemuel fiel a profeta a Jehová.
+Y conoció todo Israel desde Dan y hasta Beerseba que Shemuel fiel a profeta a Jehová.
 
 ### 3:21
 
@@ -353,15 +353,15 @@ Y añadió Jehová a ser visto en Shiló, porque se reveló Jehová a Shemuel en
 
 ### 4:1
 
-Y fue palabra de Shemuel a todo Israel. Y salió Israel a encuentro de pelishtim a la guerra, y acamparon sobre ha-Éven ha-Ézer, y pelishtim acamparon en Afec.
+Y fue palabra de Shemuel a todo Israel. Y salió Israel a encuentro de filisteos a la guerra, y acamparon sobre ha-Éven ha-Ézer, y filisteos acamparon en Afec.
 
 ### 4:2
 
-Y ordenaron pelishtim a encuentro de Israel, y se extendió la guerra, y fue herido Israel a faces de pelishtim, e hirieron en la fila en el campo como cuatro miles varón.
+Y ordenaron filisteos a encuentro de Israel, y se extendió la guerra, y fue herido Israel a faces de filisteos, e hirieron en la fila en el campo como cuatro miles varón.
 
 ### 4:3
 
-Y vino el pueblo al campamento, y dijeron ancianos de Israel: ¿Por qué nos hirió Jehová hoy a faces de pelishtim? Tomemos a nosotros desde Shiló el arca de pacto de Jehová, y venga en nuestro interior y nos salve de palma de nuestros enemigos.
+Y vino el pueblo al campamento, y dijeron ancianos de Israel: ¿Por qué nos hirió Jehová hoy a faces de filisteos? Tomemos a nosotros desde Shiló el arca de pacto de Jehová, y venga en nuestro interior y nos salve de palma de nuestros enemigos.
 
 ### 4:4
 
@@ -373,23 +373,23 @@ Y fue como venir arca de pacto de Jehová al campamento, y gritaron todo Israel 
 
 ### 4:6
 
-Y oyeron pelishtim la voz del grito, y dijeron: ¿Qué voz del grito el grande este en campamento de los hebreos? Y conocieron que arca de Jehová vino al campamento.
+Y oyeron filisteos la voz del grito, y dijeron: ¿Qué voz del grito el grande este en campamento de los hebreos? Y conocieron que arca de Jehová vino al campamento.
 
 ### 4:7
 
-Y temieron los pelishtim, porque dijeron: Vino Dios al campamento. Y dijeron: ¡Ay a nosotros!, porque no fue como esto ayer anteayer.
+Y temieron los filisteos, porque dijeron: Vino Dios al campamento. Y dijeron: ¡Ay a nosotros!, porque no fue como esto ayer anteayer.
 
 ### 4:8
 
-¡Ay a nosotros! ¿Quién nos librará de mano de los dioses los magníficos estos? Estos ellos los dioses los que hieren a Mizraim con toda herida en el desierto.
+¡Ay a nosotros! ¿Quién nos librará de mano de los dioses los magníficos estos? Estos ellos los dioses los que hieren a Egipto con toda herida en el desierto.
 
 ### 4:9
 
-Esfuércense y sean a hombres, pelishtim, no sea que sirvan a los hebreos como que sirvieron a ustedes; y sean a hombres y peleen.
+Esfuércense y sean a hombres, filisteos, no sea que sirvan a los hebreos como que sirvieron a ustedes; y sean a hombres y peleen.
 
 ### 4:10
 
-Y pelearon pelishtim, y fue herido Israel, y huyeron varón a sus tiendas, y fue la herida grande mucho, y cayó de Israel treinta mil a pie.
+Y pelearon filisteos, y fue herido Israel, y huyeron varón a sus tiendas, y fue la herida grande mucho, y cayó de Israel treinta mil a pie.
 
 ### 4:11
 
@@ -397,7 +397,7 @@ Y arca de Dios fue tomada, y dos hijos de Elí murieron, Hofní y Pinjas.
 
 ### 4:12
 
-Y corrió un hombre de Binyamín de la fila, y vino a Shiló en el día aquel, y sus vestidos rasgados y tierra sobre su cabeza.
+Y corrió un hombre de Benjamín de la fila, y vino a Shiló en el día aquel, y sus vestidos rasgados y tierra sobre su cabeza.
 
 ### 4:13
 
@@ -417,7 +417,7 @@ Y dijo el hombre a Elí: Yo el que viene de la fila, y yo de la fila huí hoy. Y
 
 ### 4:17
 
-Y respondió el anunciante y dijo: Huyó Israel a faces de pelishtim, y también plaga grande fue en el pueblo, y también dos de tus hijos murieron, Hofní y Pinjas, y arca de Dios fue tomada.
+Y respondió el anunciante y dijo: Huyó Israel a faces de filisteos, y también plaga grande fue en el pueblo, y también dos de tus hijos murieron, Hofní y Pinjas, y arca de Dios fue tomada.
 
 ### 4:18
 
@@ -443,11 +443,11 @@ Y dijo: Se fue gloria de Israel, porque fue tomada arca de Dios.
 
 ### 5:1
 
-Y pelishtim tomaron el arca de Dios, y la trajeron desde Éven ha-Ézer a Ashdod.
+Y filisteos tomaron el arca de Dios, y la trajeron desde Éven ha-Ézer a Ashdod.
 
 ### 5:2
 
-Y tomaron pelishtim el arca de Dios, y la trajeron a casa de Dagón, y la colocaron junto a Dagón.
+Y tomaron filisteos el arca de Dios, y la trajeron a casa de Dagón, y la colocaron junto a Dagón.
 
 ### 5:3
 
@@ -471,7 +471,7 @@ Y vieron hombres de Ashdod que así, y dijeron: No se sentará arca de Dios de I
 
 ### 5:8
 
-Y enviaron y reunieron a todos los señores de pelishtim a ellos, y dijeron: ¿Qué haremos al arca de Dios de Israel? Y dijeron: A Gat rodeará arca de Dios de Israel. Y rodearon el arca de Dios de Israel.
+Y enviaron y reunieron a todos los señores de filisteos a ellos, y dijeron: ¿Qué haremos al arca de Dios de Israel? Y dijeron: A Gat rodeará arca de Dios de Israel. Y rodearon el arca de Dios de Israel.
 
 ### 5:9
 
@@ -483,7 +483,7 @@ Y enviaron el arca de Dios a Eqrón; y fue como venir arca de Dios a Eqrón, y g
 
 ### 5:11
 
-Y enviaron y reunieron a todos los señores de pelishtim, y dijeron: Envíen el arca de Dios de Israel, y vuelva a su lugar, y no mate a mí y a mi pueblo; porque fue tumulto de muerte en toda la ciudad; se agravó mucho mano de Dios allí.
+Y enviaron y reunieron a todos los señores de filisteos, y dijeron: Envíen el arca de Dios de Israel, y vuelva a su lugar, y no mate a mí y a mi pueblo; porque fue tumulto de muerte en toda la ciudad; se agravó mucho mano de Dios allí.
 
 ### 5:12
 
@@ -493,11 +493,11 @@ Y los hombres que no murieron fueron heridos, y subió el clamor de la ciudad a 
 
 ### 6:1
 
-Y fue arca de Jehová en campo de pelishtim siete meses.
+Y fue arca de Jehová en campo de filisteos siete meses.
 
 ### 6:2
 
-Y llamaron pelishtim a los sacerdotes y a los adivinos diciendo: ¿Qué haremos al arca de Jehová? Háganos saber en qué lo enviaremos a su lugar.
+Y llamaron filisteos a los sacerdotes y a los adivinos diciendo: ¿Qué haremos al arca de Jehová? Háganos saber en qué lo enviaremos a su lugar.
 
 ### 6:3
 
@@ -505,7 +505,7 @@ Y dijeron: Si enviando el arca de Dios de Israel, no lo envíen vacío, porque d
 
 ### 6:4
 
-Y dijeron: ¿Qué es el asham que devolveremos a él? Y dijeron: Número de señores de pelishtim: cinco oro y cinco ratones de oro; porque plaga una a todos ellos y a señores de ustedes.
+Y dijeron: ¿Qué es el asham que devolveremos a él? Y dijeron: Número de señores de filisteos: cinco oro y cinco ratones de oro; porque plaga una a todos ellos y a señores de ustedes.
 
 ### 6:5
 
@@ -513,7 +513,7 @@ Y harán imágenes e imágenes de sus ratones los que devastan la tierra, y dar�
 
 ### 6:6
 
-Y ¿por qué endurecen su corazón como que endurecieron Mizraim y Faraón su corazón? ¿No como que se burló en ellos, y los enviaron y anduvieron?
+Y ¿por qué endurecen su corazón como que endurecieron Egipto y Faraón su corazón? ¿No como que se burló en ellos, y los enviaron y anduvieron?
 
 ### 6:7
 
@@ -537,7 +537,7 @@ Y pusieron el arca de Jehová al carro, y el cofre y los ratones de oro y las im
 
 ### 6:12
 
-Y enderezaron las vacas en el camino sobre camino de Bet Shemesh; en calzada una anduvieron andando y mugiendo, y no se apartaron derecha e izquierda; y señores de pelishtim andando detrás de ellas hasta límite de Bet Shemesh.
+Y enderezaron las vacas en el camino sobre camino de Bet Shemesh; en calzada una anduvieron andando y mugiendo, y no se apartaron derecha e izquierda; y señores de filisteos andando detrás de ellas hasta límite de Bet Shemesh.
 
 ### 6:13
 
@@ -553,15 +553,15 @@ Y los levitas bajaron el arca de Jehová y el cofre que con él, que en él uten
 
 ### 6:16
 
-Y cinco señores de pelishtim vieron, y volvieron a Eqrón en el día aquel.
+Y cinco señores de filisteos vieron, y volvieron a Eqrón en el día aquel.
 
 ### 6:17
 
-Y estas hemorroides de oro que devolvieron pelishtim asham a Jehová: a Ashdod uno, a Azá uno, a Ashquelón uno, a Gat uno, a Eqrón uno.
+Y estas hemorroides de oro que devolvieron filisteos asham a Jehová: a Ashdod uno, a Azá uno, a Ashquelón uno, a Gat uno, a Eqrón uno.
 
 ### 6:18
 
-Y ratones de oro número de todas ciudades de pelishtim a los cinco de los señores, desde ciudad de fortaleza y hasta aldea del perazí; y hasta Ável ha-Guedolá sobre la que depositaron el arca de Jehová hasta el día este, en campo de Yehoshúa bet-shimshí.
+Y ratones de oro número de todas ciudades de filisteos a los cinco de los señores, desde ciudad de fortaleza y hasta aldea del perazí; y hasta Ável ha-Guedolá sobre la que depositaron el arca de Jehová hasta el día este, en campo de Yehoshúa bet-shimshí.
 
 ### 6:19
 
@@ -573,7 +573,7 @@ Y dijeron hombres de Bet Shemesh: ¿Quién podrá estar a faces de Jehová el Di
 
 ### 6:21
 
-Y enviaron mensajeros a habitantes de Qiryat Yearim diciendo: Devolvieron pelishtim el arca de Jehová; bajen, háganlo subir a ustedes.
+Y enviaron mensajeros a habitantes de Qiryat Yearim diciendo: Devolvieron filisteos el arca de Jehová; bajen, háganlo subir a ustedes.
 
 ## Capítulo 7
 
@@ -587,7 +587,7 @@ Y fue desde el día de sentarse el arca en Qiryat Yearim, y se multiplicaron los
 
 ### 7:3
 
-Y dijo Shemuel a toda casa de Israel diciendo: Si con todo su corazón ustedes están volviendo a Jehová, aparten los dioses del extranjero de en medio de ustedes y las Ashtarot, y preparen su corazón a Jehová y sírvanlo solo a él, y los librará de mano de pelishtim.
+Y dijo Shemuel a toda casa de Israel diciendo: Si con todo su corazón ustedes están volviendo a Jehová, aparten los dioses del extranjero de en medio de ustedes y las Ashtarot, y preparen su corazón a Jehová y sírvanlo solo a él, y los librará de mano de filisteos.
 
 ### 7:4
 
@@ -603,11 +603,11 @@ Y se reunieron a ha-Mitzpá, y sacaron aguas y derramaron a faces de Jehová, y 
 
 ### 7:7
 
-Y oyeron pelishtim que se reunieron hijos de Israel a ha-Mitzpá, y subieron señores de pelishtim a Israel; y oyeron hijos de Israel y temieron de faces de pelishtim.
+Y oyeron filisteos que se reunieron hijos de Israel a ha-Mitzpá, y subieron señores de filisteos a Israel; y oyeron hijos de Israel y temieron de faces de filisteos.
 
 ### 7:8
 
-Y dijeron hijos de Israel a Shemuel: No calles de nosotros de clamar a Jehová nuestro Dios, y nos salve de mano de pelishtim.
+Y dijeron hijos de Israel a Shemuel: No calles de nosotros de clamar a Jehová nuestro Dios, y nos salve de mano de filisteos.
 
 ### 7:9
 
@@ -615,11 +615,11 @@ Y tomó Shemuel cordero de leche uno, olá entera a Jehová, y clamó Shemuel a 
 
 ### 7:10
 
-Y fue Shemuel haciendo subir la olá, y pelishtim se acercaron a la guerra en Israel; y tronó Jehová con voz grande en el día aquel sobre pelishtim, y los confundió, y fueron heridos a faces de Israel.
+Y fue Shemuel haciendo subir la olá, y filisteos se acercaron a la guerra en Israel; y tronó Jehová con voz grande en el día aquel sobre filisteos, y los confundió, y fueron heridos a faces de Israel.
 
 ### 7:11
 
-Y salieron hombres de Israel desde ha-Mitzpá y persiguieron a pelishtim, y los hirieron hasta debajo de Bet Kar.
+Y salieron hombres de Israel desde ha-Mitzpá y persiguieron a filisteos, y los hirieron hasta debajo de Bet Kar.
 
 ### 7:12
 
@@ -627,11 +627,11 @@ Y tomó Shemuel piedra una y la puso entre ha-Mitzpá y entre ha-Shen, y llamó 
 
 ### 7:13
 
-Y fueron humillados los pelishtim, y no añadieron aún a venir en límite de Israel; y fue mano de Jehová en los pelishtim todos los días de Shemuel.
+Y fueron humillados los filisteos, y no añadieron aún a venir en límite de Israel; y fue mano de Jehová en los filisteos todos los días de Shemuel.
 
 ### 7:14
 
-Y volvieron las ciudades que tomaron pelishtim de con Israel a Israel, desde Eqrón y hasta Gat, y su límite libró Israel de mano de pelishtim; y fue paz entre Israel y entre el amorreo.
+Y volvieron las ciudades que tomaron filisteos de con Israel a Israel, desde Eqrón y hasta Gat, y su límite libró Israel de mano de filisteos; y fue paz entre Israel y entre el amorreo.
 
 ### 7:15
 
@@ -653,7 +653,7 @@ Y fue como que envejeció Shemuel, y puso a sus hijos jueces a Israel.
 
 ### 8:2
 
-Y fue nombre de su hijo el primogénito Yoel, y nombre de su segundo Aviyá, jueces en Beer Sheva.
+Y fue nombre de su hijo el primogénito Yoel, y nombre de su segundo Aviyá, jueces en Beerseba.
 
 ### 8:3
 
@@ -677,7 +677,7 @@ Y dijo Jehová a Shemuel: Oye a voz del pueblo a todo lo que digan a ti, porque 
 
 ### 8:8
 
-Conforme a todas las obras que hicieron desde el día de mi hacerlos subir de Mizraim y hasta el día este, y me abandonaron y sirvieron a dioses otros, así ellos están haciendo también a ti.
+Conforme a todas las obras que hicieron desde el día de mi hacerlos subir de Egipto y hasta el día este, y me abandonaron y sirvieron a dioses otros, así ellos están haciendo también a ti.
 
 ### 8:9
 
@@ -743,19 +743,19 @@ Y fue un hombre, y su nombre Qish, hijo de Aviel, hijo de Tseror, hijo de Bejora
 
 ### 9:2
 
-Y a él era hijo, y su nombre Shaúl, joven y bueno, y no había hombre de hijos de Israel bueno más que él; desde su hombro y arriba alto más que todo el pueblo.
+Y a él era hijo, y su nombre Saúl, joven y bueno, y no había hombre de hijos de Israel bueno más que él; desde su hombro y arriba alto más que todo el pueblo.
 
 ### 9:3
 
-Y se perdieron las asnas de Qish, padre de Shaúl; y dijo Qish a Shaúl su hijo: Toma, por favor, contigo a uno de los jóvenes, y levántate, anda, busca las asnas.
+Y se perdieron las asnas de Qish, padre de Saúl; y dijo Qish a Saúl su hijo: Toma, por favor, contigo a uno de los jóvenes, y levántate, anda, busca las asnas.
 
 ### 9:4
 
-Y pasó en monte de Efráyim, y pasó en tierra de Shalishá, y no hallaron; y pasaron en tierra de Shaalím, y no había; y pasó en tierra del yeminí, y no hallaron.
+Y pasó en monte de Efraín, y pasó en tierra de Shalishá, y no hallaron; y pasaron en tierra de Shaalím, y no había; y pasó en tierra del yeminí, y no hallaron.
 
 ### 9:5
 
-Ellos vinieron en tierra de Tsuf, y Shaúl dijo a su joven que estaba con él: Anda, y volvamos, no sea que deje mi padre de las asnas y se angustie por nosotros.
+Ellos vinieron en tierra de Tsuf, y Saúl dijo a su joven que estaba con él: Anda, y volvamos, no sea que deje mi padre de las asnas y se angustie por nosotros.
 
 ### 9:6
 
@@ -763,11 +763,11 @@ Y le dijo: He aquí, por favor, hombre de Dios en esta ciudad, y el hombre es ho
 
 ### 9:7
 
-Y dijo Shaúl a su joven: Y he aquí andamos, y ¿qué traeremos al hombre? Porque el pan se acabó de nuestros utensilios, y ofrenda no hay para traer al hombre de Dios; ¿qué hay con nosotros?
+Y dijo Saúl a su joven: Y he aquí andamos, y ¿qué traeremos al hombre? Porque el pan se acabó de nuestros utensilios, y ofrenda no hay para traer al hombre de Dios; ¿qué hay con nosotros?
 
 ### 9:8
 
-Y añadió el joven a responder a Shaúl, y dijo: He aquí se halla en mi mano un cuarto de sheqel de plata, y lo daré al hombre de Dios, y declarará a nosotros nuestro camino.
+Y añadió el joven a responder a Saúl, y dijo: He aquí se halla en mi mano un cuarto de sheqel de plata, y lo daré al hombre de Dios, y declarará a nosotros nuestro camino.
 
 ### 9:9
 
@@ -775,7 +775,7 @@ Antes, en Israel, así decía el hombre en su andar a consultar a Dios: Vayan, y
 
 ### 9:10
 
-Y dijo Shaúl a su joven: Buena tu palabra; anda, andemos. Y anduvieron a la ciudad donde allá estaba hombre de Dios.
+Y dijo Saúl a su joven: Buena tu palabra; anda, andemos. Y anduvieron a la ciudad donde allá estaba hombre de Dios.
 
 ### 9:11
 
@@ -795,23 +795,23 @@ Y subieron a la ciudad; ellos viniendo en medio de la ciudad, y he aquí Shemuel
 
 ### 9:15
 
-Y Jehová descubrió el oído de Shemuel día uno antes de venir Shaúl, diciendo:
+Y Jehová descubrió el oído de Shemuel día uno antes de venir Saúl, diciendo:
 
 ### 9:16
 
-Como el tiempo mañana enviaré a ti un hombre de tierra de Binyamín, y lo ungirás por naguíd sobre mi pueblo Israel, y salvará a mi pueblo de mano de pelishtim; porque vi a mi pueblo, porque vino su clamor a mí.
+Como el tiempo mañana enviaré a ti un hombre de tierra de Benjamín, y lo ungirás por naguíd sobre mi pueblo Israel, y salvará a mi pueblo de mano de filisteos; porque vi a mi pueblo, porque vino su clamor a mí.
 
 ### 9:17
 
-Y Shemuel vio a Shaúl, y Jehová le respondió: He aquí el hombre de quien dije a ti: Este refrenará en mi pueblo.
+Y Shemuel vio a Saúl, y Jehová le respondió: He aquí el hombre de quien dije a ti: Este refrenará en mi pueblo.
 
 ### 9:18
 
-Y se acercó Shaúl a Shemuel en medio de la puerta, y dijo: Declara, por favor, a mí: ¿dónde está la casa del vidente?
+Y se acercó Saúl a Shemuel en medio de la puerta, y dijo: Declara, por favor, a mí: ¿dónde está la casa del vidente?
 
 ### 9:19
 
-Y respondió Shemuel a Shaúl, y dijo: Yo soy el vidente; sube delante de mí a la bamá, y comerán conmigo hoy, y te enviaré en la mañana, y todo lo que está en tu corazón declararé a ti.
+Y respondió Shemuel a Saúl, y dijo: Yo soy el vidente; sube delante de mí a la bamá, y comerán conmigo hoy, y te enviaré en la mañana, y todo lo que está en tu corazón declararé a ti.
 
 ### 9:20
 
@@ -819,11 +819,11 @@ Y a las asnas perdidas a ti hoy, tres de los días, no pongas tu corazón a ella
 
 ### 9:21
 
-Y respondió Shaúl, y dijo: ¿No hijo yeminí soy yo, de los pequeños de las varas de Israel, y mi clan el menor de todos los clanes de las varas de Binyamín? ¿Y por qué hablaste a mí como esta palabra?
+Y respondió Saúl, y dijo: ¿No hijo yeminí soy yo, de los pequeños de las varas de Israel, y mi clan el menor de todos los clanes de las varas de Benjamín? ¿Y por qué hablaste a mí como esta palabra?
 
 ### 9:22
 
-Y tomó Shemuel a Shaúl y a su joven, y los trajo a la cámara, y les dio lugar en cabeza de los llamados; y ellos como treinta hombre.
+Y tomó Shemuel a Saúl y a su joven, y los trajo a la cámara, y les dio lugar en cabeza de los llamados; y ellos como treinta hombre.
 
 ### 9:23
 
@@ -831,19 +831,19 @@ Y dijo Shemuel al matarife: Da la porción que di a ti, de la cual dije a ti: Po
 
 ### 9:24
 
-Y alzó el matarife el muslo y lo sobre ella, y puso delante de Shaúl; y dijo: He aquí lo restante; pon delante de ti, come, porque para el tiempo señalado guardado a ti, diciendo: Al pueblo llamé. Y comió Shaúl con Shemuel en aquel día.
+Y alzó el matarife el muslo y lo sobre ella, y puso delante de Saúl; y dijo: He aquí lo restante; pon delante de ti, come, porque para el tiempo señalado guardado a ti, diciendo: Al pueblo llamé. Y comió Saúl con Shemuel en aquel día.
 
 ### 9:25
 
-Y bajaron de la bamá a la ciudad, y habló con Shaúl sobre el techo.
+Y bajaron de la bamá a la ciudad, y habló con Saúl sobre el techo.
 
 ### 9:26
 
-Y madrugaron, y fue en el subir el alba, y llamó Shemuel a Shaúl, diciendo: Levántate, y te enviaré. Y se levantó Shaúl, y salieron los dos de ellos, él y Shemuel, afuera.
+Y madrugaron, y fue en el subir el alba, y llamó Shemuel a Saúl, diciendo: Levántate, y te enviaré. Y se levantó Saúl, y salieron los dos de ellos, él y Shemuel, afuera.
 
 ### 9:27
 
-Ellos bajando en extremo de la ciudad, y Shemuel dijo a Shaúl: Di al joven, y pase delante de nosotros —y pasó—; y tú párate como el día, y te haré oír la palabra de Dios.
+Ellos bajando en extremo de la ciudad, y Shemuel dijo a Saúl: Di al joven, y pase delante de nosotros —y pasó—; y tú párate como el día, y te haré oír la palabra de Dios.
 
 ## Capítulo 10
 
@@ -853,7 +853,7 @@ Y tomó Shemuel el frasco del aceite, y lo derramó sobre su cabeza, y lo besó,
 
 ### 10:2
 
-En tu andar hoy de conmigo, y hallarás dos hombres junto a sepulcro de Rajel, en límite de Binyamín, en Tseltsaj; y dirán a ti: Se hallaron las asnas que anduviste a buscar; y he aquí dejó tu padre las palabras de las asnas, y se angustia por ustedes, diciendo: ¿Qué haré por mi hijo?
+En tu andar hoy de conmigo, y hallarás dos hombres junto a sepulcro de Raquel, en límite de Benjamín, en Tseltsaj; y dirán a ti: Se hallaron las asnas que anduviste a buscar; y he aquí dejó tu padre las palabras de las asnas, y se angustia por ustedes, diciendo: ¿Qué haré por mi hijo?
 
 ### 10:3
 
@@ -865,7 +865,7 @@ Y preguntarán a ti por paz, y te darán dos panes, y tomarás de su mano.
 
 ### 10:5
 
-Después, así, vendrás a Givá de Dios, donde allá están puestos de pelishtim; y será en tu venir allá a la ciudad, y toparás con cuerda de profetas bajando de la bamá, y delante de ellos nével y tamboril y flauta y kinor, y ellos profetizando.
+Después, así, vendrás a Givá de Dios, donde allá están puestos de filisteos; y será en tu venir allá a la ciudad, y toparás con cuerda de profetas bajando de la bamá, y delante de ellos nével y tamboril y flauta y kinor, y ellos profetizando.
 
 ### 10:6
 
@@ -889,11 +889,11 @@ Y vinieron allá a la Givá, y he aquí cuerda de profetas a su encuentro; y pro
 
 ### 10:11
 
-Y fue, todos sus conocedores de ayer anteayer, y vieron, y he aquí con profetas profetizando; y dijo el pueblo, hombre a su compañero: ¿Qué es esto que fue al hijo de Qish? ¿También Shaúl entre los profetas?
+Y fue, todos sus conocedores de ayer anteayer, y vieron, y he aquí con profetas profetizando; y dijo el pueblo, hombre a su compañero: ¿Qué es esto que fue al hijo de Qish? ¿También Saúl entre los profetas?
 
 ### 10:12
 
-Y respondió un hombre de allí, y dijo: ¿Y quién es su padre? Por eso fue por proverbio: ¿También Shaúl entre los profetas?
+Y respondió un hombre de allí, y dijo: ¿Y quién es su padre? Por eso fue por proverbio: ¿También Saúl entre los profetas?
 
 ### 10:13
 
@@ -901,15 +901,15 @@ Y acabó de profetizar, y vino a la bamá.
 
 ### 10:14
 
-Y dijo el tío de Shaúl a él y a su joven: ¿Adónde anduvieron ustedes? Y dijo: A buscar las asnas; y vimos que no había, y vinimos a Shemuel.
+Y dijo el tío de Saúl a él y a su joven: ¿Adónde anduvieron ustedes? Y dijo: A buscar las asnas; y vimos que no había, y vinimos a Shemuel.
 
 ### 10:15
 
-Y dijo el tío de Shaúl: Declara, por favor, a mí: ¿qué dijo a ustedes Shemuel?
+Y dijo el tío de Saúl: Declara, por favor, a mí: ¿qué dijo a ustedes Shemuel?
 
 ### 10:16
 
-Y dijo Shaúl a su tío: Declarando declaró a nosotros que se hallaron las asnas; y la palabra del reino no declaró a él, lo que dijo Shemuel.
+Y dijo Saúl a su tío: Declarando declaró a nosotros que se hallaron las asnas; y la palabra del reino no declaró a él, lo que dijo Shemuel.
 
 ### 10:17
 
@@ -917,7 +917,7 @@ Y convocó Shemuel al pueblo a Jehová a ha-Mitspá.
 
 ### 10:18
 
-Y dijo a hijos de Israel: Así dijo Jehová, Dios de Israel: Yo hice subir a Israel de Mizraim, y los libré a ustedes de mano de Mizraim y de mano de todos los reinos que oprimen a ustedes.
+Y dijo a hijos de Israel: Así dijo Jehová, Dios de Israel: Yo hice subir a Israel de Egipto, y los libré a ustedes de mano de Egipto y de mano de todos los reinos que oprimen a ustedes.
 
 ### 10:19
 
@@ -925,11 +925,11 @@ Y ustedes hoy rechazaron a su Dios, que él es salvador a ustedes de todos sus m
 
 ### 10:20
 
-Y acercó Shemuel a todas las varas de Israel, y fue tomada la vara de Binyamín.
+Y acercó Shemuel a todas las varas de Israel, y fue tomada la vara de Benjamín.
 
 ### 10:21
 
-Y acercó a la vara de Binyamín por clanes, y fue tomado el clan del matrí; y fue tomado Shaúl hijo de Qish; y lo buscaron, y no fue hallado.
+Y acercó a la vara de Benjamín por clanes, y fue tomado el clan del matrí; y fue tomado Saúl hijo de Qish; y lo buscaron, y no fue hallado.
 
 ### 10:22
 
@@ -949,7 +949,7 @@ Y habló Shemuel al pueblo el juicio del reino, y escribió en el rollo, y lo de
 
 ### 10:26
 
-Y también Shaúl anduvo a su casa, a Giváta; y anduvieron con él el ejército que tocó Dios en su corazón.
+Y también Saúl anduvo a su casa, a Giváta; y anduvieron con él el ejército que tocó Dios en su corazón.
 
 ### 10:27
 
@@ -959,7 +959,7 @@ Y hijos de beliyaal dijeron: ¿Qué nos salvará este? Y lo despreciaron, y no t
 
 ### 11:1
 
-Y subió Najash el ammoní, y acampó sobre Yavesh Gilad; y dijeron todos los hombres de Yavesh a Najash: Corta a nosotros pacto, y te serviremos.
+Y subió Najash el ammoní, y acampó sobre Yavesh Galaad; y dijeron todos los hombres de Yavesh a Najash: Corta a nosotros pacto, y te serviremos.
 
 ### 11:2
 
@@ -971,27 +971,27 @@ Y le dijeron a él los ancianos de Yavesh: Afloja a nosotros siete días, y envi
 
 ### 11:4
 
-Y vinieron los mensajeros a Givá de Shaúl, y hablaron las palabras en oídos del pueblo; y alzó todo el pueblo su voz, y lloraron.
+Y vinieron los mensajeros a Givá de Saúl, y hablaron las palabras en oídos del pueblo; y alzó todo el pueblo su voz, y lloraron.
 
 ### 11:5
 
-Y he aquí Shaúl viniendo detrás del ganado desde el campo; y dijo Shaúl: ¿Qué al pueblo, que lloran? Y le contaron a él las palabras de los hombres de Yavesh.
+Y he aquí Saúl viniendo detrás del ganado desde el campo; y dijo Saúl: ¿Qué al pueblo, que lloran? Y le contaron a él las palabras de los hombres de Yavesh.
 
 ### 11:6
 
-Y prosperó espíritu de Dios sobre Shaúl a estas palabras, y se encendió su nariz mucho.
+Y prosperó espíritu de Dios sobre Saúl a estas palabras, y se encendió su nariz mucho.
 
 ### 11:7
 
-Y tomó un par de ganado, y lo cortó en pedazos, y envió en todo límite de Israel por mano de los mensajeros, diciendo: Quien no sale detrás de Shaúl y detrás de Shemuel, así se hará a su ganado. Y cayó terror de Jehová sobre el pueblo, y salieron como hombre uno.
+Y tomó un par de ganado, y lo cortó en pedazos, y envió en todo límite de Israel por mano de los mensajeros, diciendo: Quien no sale detrás de Saúl y detrás de Shemuel, así se hará a su ganado. Y cayó terror de Jehová sobre el pueblo, y salieron como hombre uno.
 
 ### 11:8
 
-Y los pasó revista en Bázeq; y fueron hijos de Israel trescientos mil, y hombre de Yehudá treinta mil.
+Y los pasó revista en Bázeq; y fueron hijos de Israel trescientos mil, y hombre de Judá treinta mil.
 
 ### 11:9
 
-Y dijeron a los mensajeros los viniendo: Así dirán a hombre de Yavesh Gilad: Mañana será a ustedes salvación, al calor del sol. Y vinieron los mensajeros, y declararon a hombres de Yavesh, y se alegraron.
+Y dijeron a los mensajeros los viniendo: Así dirán a hombre de Yavesh Galaad: Mañana será a ustedes salvación, al calor del sol. Y vinieron los mensajeros, y declararon a hombres de Yavesh, y se alegraron.
 
 ### 11:10
 
@@ -999,15 +999,15 @@ Y dijeron hombres de Yavesh: Mañana saldremos a ustedes, y harán a nosotros se
 
 ### 11:11
 
-Y fue al día siguiente, y puso Shaúl al pueblo tres cabezas; y vinieron en medio del campamento en vigilia de la mañana, e hirieron a Amón hasta el calor del día; y fueron los restantes, y se dispersaron, y no quedaron en ellos dos juntos.
+Y fue al día siguiente, y puso Saúl al pueblo tres cabezas; y vinieron en medio del campamento en vigilia de la mañana, e hirieron a Amón hasta el calor del día; y fueron los restantes, y se dispersaron, y no quedaron en ellos dos juntos.
 
 ### 11:12
 
-Y dijo el pueblo a Shemuel: ¿Quién es el que dice: Shaúl reinará sobre nosotros? Den a los hombres, y los mataremos.
+Y dijo el pueblo a Shemuel: ¿Quién es el que dice: Saúl reinará sobre nosotros? Den a los hombres, y los mataremos.
 
 ### 11:13
 
-Y dijo Shaúl: No será muerto hombre en este día, porque hoy hizo Jehová salvación en Israel.
+Y dijo Saúl: No será muerto hombre en este día, porque hoy hizo Jehová salvación en Israel.
 
 ### 11:14
 
@@ -1015,7 +1015,7 @@ Y dijo Shemuel al pueblo: Vayan, y andemos al Gilgal, y renovemos allá el reino
 
 ### 11:15
 
-Y anduvieron todo el pueblo al Gilgal, e hicieron reinar allá a Shaúl delante de Jehová en el Gilgal; y sacrificaron allá sacrificios de shelamím delante de Jehová; y se alegró allá Shaúl y todos los hombres de Israel hasta mucho.
+Y anduvieron todo el pueblo al Gilgal, e hicieron reinar allá a Saúl delante de Jehová en el Gilgal; y sacrificaron allá sacrificios de shelamím delante de Jehová; y se alegró allá Saúl y todos los hombres de Israel hasta mucho.
 
 ## Capítulo 12
 
@@ -1041,7 +1041,7 @@ Y les dijo a ellos: Testigo es Jehová en ustedes, y testigo su ungido, este dí
 
 ### 12:6
 
-Y dijo Shemuel al pueblo: Jehová, que hizo a Moisés y a Aarón, y que hizo subir a sus padres de tierra de Mizraim.
+Y dijo Shemuel al pueblo: Jehová, que hizo a Moisés y a Aarón, y que hizo subir a sus padres de tierra de Egipto.
 
 ### 12:7
 
@@ -1049,11 +1049,11 @@ Y ahora plantense, y juzgaré con ustedes delante de Jehová todas las justicias
 
 ### 12:8
 
-Cuando vino Yaakov a Mizraim, y clamaron sus padres a Jehová, y envió Jehová a Moisés y a Aarón, y sacaron a sus padres de Mizraim, y los hicieron habitar en este lugar.
+Cuando vino Jacob a Egipto, y clamaron sus padres a Jehová, y envió Jehová a Moisés y a Aarón, y sacaron a sus padres de Egipto, y los hicieron habitar en este lugar.
 
 ### 12:9
 
-Y olvidaron a Jehová su Dios, y los vendió en mano de Siserá, jefe de ejército de Hatsor, y en mano de pelishtim, y en mano de rey de Moav, y pelearon en ellos.
+Y olvidaron a Jehová su Dios, y los vendió en mano de Siserá, jefe de ejército de Hatsor, y en mano de filisteos, y en mano de rey de Moav, y pelearon en ellos.
 
 ### 12:10
 
@@ -1123,23 +1123,23 @@ Y si haciendo mal hacen mal, también ustedes, también su rey, serán consumido
 
 ### 13:1
 
-Hijo de año Shaúl en su reinar; y dos años reinó sobre Israel.
+Hijo de año Saúl en su reinar; y dos años reinó sobre Israel.
 
 ### 13:2
 
-Y escogió para sí Shaúl tres miles de Israel; y fueron con Shaúl dos miles en Mikmash y en monte de Bet El, y mil fueron con Yonatán en Givá de Binyamín; y el resto del pueblo envió, hombre a sus tiendas.
+Y escogió para sí Saúl tres miles de Israel; y fueron con Saúl dos miles en Mikmash y en monte de Bet El, y mil fueron con Yonatán en Givá de Benjamín; y el resto del pueblo envió, hombre a sus tiendas.
 
 ### 13:3
 
-Y hirió Yonatán el puesto de pelishtim que estaba en Géva, y oyeron pelishtim; y Shaúl tocó en el shofar en toda la tierra, diciendo: Oigan los hebreos.
+Y hirió Yonatán el puesto de filisteos que estaba en Géva, y oyeron filisteos; y Saúl tocó en el shofar en toda la tierra, diciendo: Oigan los hebreos.
 
 ### 13:4
 
-Y todo Israel oyó, diciendo: Hirió Shaúl el puesto de pelishtim, y también se hizo hediondo Israel en los pelishtim; y se convocó el pueblo detrás de Shaúl al Gilgal.
+Y todo Israel oyó, diciendo: Hirió Saúl el puesto de filisteos, y también se hizo hediondo Israel en los filisteos; y se convocó el pueblo detrás de Saúl al Gilgal.
 
 ### 13:5
 
-Y pelishtim se reunieron para pelear con Israel, treinta mil carro y seis miles jinetes, y pueblo como la arena que está sobre labio del mar a multitud; y subieron y acamparon en Mikmash, al oriente de Bet Avén.
+Y filisteos se reunieron para pelear con Israel, treinta mil carro y seis miles jinetes, y pueblo como la arena que está sobre labio del mar a multitud; y subieron y acamparon en Mikmash, al oriente de Bet Avén.
 
 ### 13:6
 
@@ -1147,7 +1147,7 @@ Y hombre de Israel vio que estrecho a él, porque era empujado el pueblo; y se e
 
 ### 13:7
 
-Y hebreos pasaron el Yardén, tierra de Gad y Gilad; y Shaúl aún él en el Gilgal, y todo el pueblo tembló detrás de él.
+Y hebreos pasaron el Yardén, tierra de Gad y Galaad; y Saúl aún él en el Gilgal, y todo el pueblo tembló detrás de él.
 
 ### 13:8
 
@@ -1155,23 +1155,23 @@ Siete días al tiempo señalado que Shemuel, y no vino Shemuel al Gilgal; y se d
 
 ### 13:9
 
-Y dijo Shaúl: Acerquen a mí el holocausto y los shelamím. Y hizo subir el holocausto.
+Y dijo Saúl: Acerquen a mí el holocausto y los shelamím. Y hizo subir el holocausto.
 
 ### 13:10
 
-Y fue en su acabar de hacer subir el holocausto, y he aquí Shemuel vino; y salió Shaúl a su encuentro para bendecirlo.
+Y fue en su acabar de hacer subir el holocausto, y he aquí Shemuel vino; y salió Saúl a su encuentro para bendecirlo.
 
 ### 13:11
 
-Y dijo Shemuel: ¿Qué hiciste? Y dijo Shaúl: Porque vi que se dispersaba el pueblo de sobre mí, y tú no viniste al tiempo señalado de los días, y pelishtim se reúnen en Mikmash.
+Y dijo Shemuel: ¿Qué hiciste? Y dijo Saúl: Porque vi que se dispersaba el pueblo de sobre mí, y tú no viniste al tiempo señalado de los días, y filisteos se reúnen en Mikmash.
 
 ### 13:12
 
-Y dije: Ahora bajarán pelishtim a mí al Gilgal, y cara de Jehová no aplaqué; y me contuve, e hice subir el holocausto.
+Y dije: Ahora bajarán filisteos a mí al Gilgal, y cara de Jehová no aplaqué; y me contuve, e hice subir el holocausto.
 
 ### 13:13
 
-Y dijo Shemuel a Shaúl: Hiciste neciamente; no guardaste el mandato de Jehová tu Dios que te mandó; porque ahora hubiera preparado Jehová tu reino a Israel hasta olam.
+Y dijo Shemuel a Saúl: Hiciste neciamente; no guardaste el mandato de Jehová tu Dios que te mandó; porque ahora hubiera preparado Jehová tu reino a Israel hasta olam.
 
 ### 13:14
 
@@ -1179,15 +1179,15 @@ Y ahora tu reino no se levantará; buscó Jehová para sí un hombre como su cor
 
 ### 13:15
 
-Y se levantó Shemuel, y subió del Gilgal a Givá de Binyamín; y pasó revista Shaúl al pueblo hallado con él, como seiscientos hombre.
+Y se levantó Shemuel, y subió del Gilgal a Givá de Benjamín; y pasó revista Saúl al pueblo hallado con él, como seiscientos hombre.
 
 ### 13:16
 
-Y Shaúl y Yonatán su hijo, y el pueblo hallado con ellos, habitaban en Géva de Binyamín; y pelishtim acamparon en Mikmash.
+Y Saúl y Yonatán su hijo, y el pueblo hallado con ellos, habitaban en Géva de Benjamín; y filisteos acamparon en Mikmash.
 
 ### 13:17
 
-Y salió el destructor del campamento de pelishtim, tres cabezas: la cabeza una se vuelve al camino de Ofrá, a tierra de Shuál;
+Y salió el destructor del campamento de filisteos, tres cabezas: la cabeza una se vuelve al camino de Ofrá, a tierra de Shuál;
 
 ### 13:18
 
@@ -1195,11 +1195,11 @@ y la cabeza una se vuelve camino de Bet Jorón; y la cabeza una se vuelve camino
 
 ### 13:19
 
-Y herrero no se halla en toda tierra de Israel, porque dijeron pelishtim: No sea que hagan los hebreos espada o lanza.
+Y herrero no se halla en toda tierra de Israel, porque dijeron filisteos: No sea que hagan los hebreos espada o lanza.
 
 ### 13:20
 
-Y bajaron todo Israel a los pelishtim, para afilar hombre su reja y su azadón y su hacha y su reja.
+Y bajaron todo Israel a los filisteos, para afilar hombre su reja y su azadón y su hacha y su reja.
 
 ### 13:21
 
@@ -1207,21 +1207,21 @@ Y era la afiladura un pim para las rejas y para los azadones y para el tridente 
 
 ### 13:22
 
-Y fue en día de batalla, y no se halló espada y lanza en mano de todo el pueblo que estaba con Shaúl y con Yonatán; y se halló a Shaúl y a Yonatán su hijo.
+Y fue en día de batalla, y no se halló espada y lanza en mano de todo el pueblo que estaba con Saúl y con Yonatán; y se halló a Saúl y a Yonatán su hijo.
 
 ### 13:23
 
-Y salió el puesto de pelishtim hacia el paso de Mikmash.
+Y salió el puesto de filisteos hacia el paso de Mikmash.
 
 ## Capítulo 14
 
 ### 14:1
 
-Y fue el día, y dijo Yonatán hijo de Shaúl al joven alzador de sus utensilios: Anda, y pasemos al puesto de pelishtim que de aquella parte; y a su padre no declaró.
+Y fue el día, y dijo Yonatán hijo de Saúl al joven alzador de sus utensilios: Anda, y pasemos al puesto de filisteos que de aquella parte; y a su padre no declaró.
 
 ### 14:2
 
-Y Shaúl habitando en extremo de la Givá, debajo del granado que está en Migrón; y el pueblo que con él como seiscientos hombre.
+Y Saúl habitando en extremo de la Givá, debajo del granado que está en Migrón; y el pueblo que con él como seiscientos hombre.
 
 ### 14:3
 
@@ -1229,15 +1229,15 @@ Y Ajiyá hijo de Ajituv, hermano de Ijavod, hijo de Pinjás, hijo de Elí, sacer
 
 ### 14:4
 
-Y entre los pasos que buscó Yonatán para pasar sobre el puesto de pelishtim, diente de la peña de la parte de este, y diente de la peña de la parte de este; y nombre del uno Bozéts, y nombre del uno Seneh.
+Y entre los pasos que buscó Yonatán para pasar sobre el puesto de filisteos, diente de la peña de la parte de este, y diente de la peña de la parte de este; y nombre del uno Bozéts, y nombre del uno Seneh.
 
 ### 14:5
 
-El diente el uno pilar desde el norte frente a Mikmash, y el uno desde el Néguev frente a Géva.
+El diente el uno pilar desde el norte frente a Mikmash, y el uno desde el Neguev frente a Géva.
 
 ### 14:6
 
-Y dijo Yehonatán al joven alzador de sus utensilios: Anda, y pasemos al puesto de estos incircuncisos; quizá haga Jehová por nosotros, porque no hay a Jehová restricción para salvar en mucho o en poco.
+Y dijo Jonatán al joven alzador de sus utensilios: Anda, y pasemos al puesto de estos incircuncisos; quizá haga Jehová por nosotros, porque no hay a Jehová restricción para salvar en mucho o en poco.
 
 ### 14:7
 
@@ -1245,7 +1245,7 @@ Y le dijo a él el alzador de sus utensilios: Haz todo lo que está en tu coraz�
 
 ### 14:8
 
-Y dijo Yehonatán: He aquí nosotros pasando a los hombres, y nos descubriremos a ellos.
+Y dijo Jonatán: He aquí nosotros pasando a los hombres, y nos descubriremos a ellos.
 
 ### 14:9
 
@@ -1257,7 +1257,7 @@ Y si así dicen: Suban sobre nosotros; y subiremos, porque los dio Jehová en nu
 
 ### 14:11
 
-Y se descubrieron los dos de ellos al puesto de pelishtim; y dijeron pelishtim: He aquí hebreos saliendo de los agujeros donde se escondieron allá.
+Y se descubrieron los dos de ellos al puesto de filisteos; y dijeron filisteos: He aquí hebreos saliendo de los agujeros donde se escondieron allá.
 
 ### 14:12
 
@@ -1277,31 +1277,31 @@ Y fue temblor en el campamento, en el campo y en todo el pueblo; el puesto y el 
 
 ### 14:16
 
-Y vieron los atalayas de Shaúl en Givá de Binyamín, y he aquí la muchedumbre se derretía, y andaba y hacia acá.
+Y vieron los atalayas de Saúl en Givá de Benjamín, y he aquí la muchedumbre se derretía, y andaba y hacia acá.
 
 ### 14:17
 
-Y dijo Shaúl al pueblo que con él: Pasen revista, por favor, y vean quién anduvo de con nosotros. Y pasaron revista, y he aquí no hay Yonatán y el alzador de sus utensilios.
+Y dijo Saúl al pueblo que con él: Pasen revista, por favor, y vean quién anduvo de con nosotros. Y pasaron revista, y he aquí no hay Yonatán y el alzador de sus utensilios.
 
 ### 14:18
 
-Y dijo Shaúl a Ajiyá: Acerca el arca de Dios —porque era el arca de Dios en aquel día y hijos de Israel—.
+Y dijo Saúl a Ajiyá: Acerca el arca de Dios —porque era el arca de Dios en aquel día y hijos de Israel—.
 
 ### 14:19
 
-Y fue mientras hablaba Shaúl al sacerdote, y la muchedumbre que en campamento de pelishtim andaba andando y aumentando; y dijo Shaúl al sacerdote: Recoge tu mano.
+Y fue mientras hablaba Saúl al sacerdote, y la muchedumbre que en campamento de filisteos andaba andando y aumentando; y dijo Saúl al sacerdote: Recoge tu mano.
 
 ### 14:20
 
-Y se convocó Shaúl y todo el pueblo que con él, y vinieron hasta la batalla; y he aquí era espada de hombre en su compañero, tumulto grande mucho.
+Y se convocó Saúl y todo el pueblo que con él, y vinieron hasta la batalla; y he aquí era espada de hombre en su compañero, tumulto grande mucho.
 
 ### 14:21
 
-Y los hebreos que eran a los pelishtim como ayer anteayer, que subieron con ellos en el campamento alrededor, también ellos para ser con Israel que con Shaúl y Yonatán.
+Y los hebreos que eran a los filisteos como ayer anteayer, que subieron con ellos en el campamento alrededor, también ellos para ser con Israel que con Saúl y Yonatán.
 
 ### 14:22
 
-Y todo hombre de Israel los que se escondían en monte de Efráyim oyeron que huyeron pelishtim, y se pegaron también ellos detrás de ellos en la batalla.
+Y todo hombre de Israel los que se escondían en monte de Efraín oyeron que huyeron filisteos, y se pegaron también ellos detrás de ellos en la batalla.
 
 ### 14:23
 
@@ -1309,7 +1309,7 @@ Y salvó Jehová en aquel día a Israel; y la batalla pasó a Bet Avén.
 
 ### 14:24
 
-Y hombre de Israel era empujado en aquel día; e hizo jurar Shaúl al pueblo, diciendo: Maldito el hombre que coma pan hasta la tarde, y me vengaré de mis enemigos. Y no gustó todo el pueblo pan.
+Y hombre de Israel era empujado en aquel día; e hizo jurar Saúl al pueblo, diciendo: Maldito el hombre que coma pan hasta la tarde, y me vengaré de mis enemigos. Y no gustó todo el pueblo pan.
 
 ### 14:25
 
@@ -1333,11 +1333,11 @@ Y dijo Yonatán: Turbó mi padre la tierra; vean, por favor, que brillaron mis o
 
 ### 14:30
 
-¡Cuánto más si comiendo hubiera comido hoy el pueblo del despojo de sus enemigos que halló! Porque ahora no se aumentó herida en los pelishtim.
+¡Cuánto más si comiendo hubiera comido hoy el pueblo del despojo de sus enemigos que halló! Porque ahora no se aumentó herida en los filisteos.
 
 ### 14:31
 
-E hirieron en aquel día en los pelishtim desde Mikmash hasta Ayalón; y desfalleció el pueblo mucho.
+E hirieron en aquel día en los filisteos desde Mikmash hasta Ayalón; y desfalleció el pueblo mucho.
 
 ### 14:32
 
@@ -1345,27 +1345,27 @@ El pueblo a; y tomaron oveja y ganado y hijos de ganado, y degollaron a tierra, 
 
 ### 14:33
 
-Y declararon a Shaúl, diciendo: He aquí el pueblo pecando a Jehová, para comer sobre la sangre. Y dijo: Traicionaron; rueden a mí hoy una piedra grande.
+Y declararon a Saúl, diciendo: He aquí el pueblo pecando a Jehová, para comer sobre la sangre. Y dijo: Traicionaron; rueden a mí hoy una piedra grande.
 
 ### 14:34
 
-Y dijo Shaúl: Dispérsense en el pueblo, y digan a ellos: Acerquen a mí hombre su buey y hombre su res, y degüellen en este, y coman, y no pequen a Jehová para comer hacia la sangre. Y acercaron todo el pueblo hombre su buey en su mano la noche, y degollaron allá.
+Y dijo Saúl: Dispérsense en el pueblo, y digan a ellos: Acerquen a mí hombre su buey y hombre su res, y degüellen en este, y coman, y no pequen a Jehová para comer hacia la sangre. Y acercaron todo el pueblo hombre su buey en su mano la noche, y degollaron allá.
 
 ### 14:35
 
-Y edificó Shaúl altar a Jehová; él comenzó a edificar altar a Jehová.
+Y edificó Saúl altar a Jehová; él comenzó a edificar altar a Jehová.
 
 ### 14:36
 
-Y dijo Shaúl: Bajemos detrás de pelishtim de noche, y saqueemos en ellos hasta luz de la mañana, y no dejemos en ellos hombre. Y dijeron: Todo lo bueno en tus ojos haz. Y dijo el sacerdote: Acerquémonos acá a Dios.
+Y dijo Saúl: Bajemos detrás de filisteos de noche, y saqueemos en ellos hasta luz de la mañana, y no dejemos en ellos hombre. Y dijeron: Todo lo bueno en tus ojos haz. Y dijo el sacerdote: Acerquémonos acá a Dios.
 
 ### 14:37
 
-Y preguntó Shaúl en Dios: ¿Bajaré detrás de pelishtim? ¿Los darás en mano de Israel? Y no le respondió en aquel día.
+Y preguntó Saúl en Dios: ¿Bajaré detrás de filisteos? ¿Los darás en mano de Israel? Y no le respondió en aquel día.
 
 ### 14:38
 
-Y dijo Shaúl: Acérquense acá todas las esquinas del pueblo, y sepan y vean en qué fue este pecado hoy.
+Y dijo Saúl: Acérquense acá todas las esquinas del pueblo, y sepan y vean en qué fue este pecado hoy.
 
 ### 14:39
 
@@ -1373,35 +1373,35 @@ Porque vive Jehová, el que salva a Israel, que si es en Yonatán mi hijo, murie
 
 ### 14:40
 
-Y dijo a todo Israel: Ustedes serán a un lado uno, y yo y Yonatán mi hijo seremos a un lado uno. Y dijo el pueblo a Shaúl: Lo bueno en tus ojos haz.
+Y dijo a todo Israel: Ustedes serán a un lado uno, y yo y Yonatán mi hijo seremos a un lado uno. Y dijo el pueblo a Saúl: Lo bueno en tus ojos haz.
 
 ### 14:41
 
-Y dijo Shaúl a Jehová, Dios de Israel: Da tamím. Y fue tomado Yonatán y Shaúl, y el pueblo salió.
+Y dijo Saúl a Jehová, Dios de Israel: Da tamím. Y fue tomado Yonatán y Saúl, y el pueblo salió.
 
 ### 14:42
 
-Y dijo Shaúl: Hagan caer entre mí y entre Yonatán mi hijo. Y fue tomado Yonatán.
+Y dijo Saúl: Hagan caer entre mí y entre Yonatán mi hijo. Y fue tomado Yonatán.
 
 ### 14:43
 
-Y dijo Shaúl a Yonatán: Declara a mí qué hiciste. Y le declaró a él Yonatán, y dijo: Gustando gusté en extremo de la vara que en mi mano poco de miel; heme aquí, moriré.
+Y dijo Saúl a Yonatán: Declara a mí qué hiciste. Y le declaró a él Yonatán, y dijo: Gustando gusté en extremo de la vara que en mi mano poco de miel; heme aquí, moriré.
 
 ### 14:44
 
-Y dijo Shaúl: Así haga Dios, y así añada; porque muriendo morirás, Yonatán.
+Y dijo Saúl: Así haga Dios, y así añada; porque muriendo morirás, Yonatán.
 
 ### 14:45
 
-Y dijo el pueblo a Shaúl: ¿Yonatán morirá, que hizo esta gran salvación en Israel? Lejos; vive Jehová, si caerá de cabello de su cabeza a tierra, porque con Dios hizo este día. Y rescató el pueblo a Yonatán, y no murió.
+Y dijo el pueblo a Saúl: ¿Yonatán morirá, que hizo esta gran salvación en Israel? Lejos; vive Jehová, si caerá de cabello de su cabeza a tierra, porque con Dios hizo este día. Y rescató el pueblo a Yonatán, y no murió.
 
 ### 14:46
 
-Y subió Shaúl de detrás de pelishtim; y pelishtim anduvieron a su lugar.
+Y subió Saúl de detrás de filisteos; y filisteos anduvieron a su lugar.
 
 ### 14:47
 
-Y Shaúl tomó el reino sobre Israel, y peleó alrededor en todos sus enemigos, en Moav y en hijos de Amón y en Edom y en reyes de Tsová y en los pelishtim; y en todo donde se volvía, condenaba.
+Y Saúl tomó el reino sobre Israel, y peleó alrededor en todos sus enemigos, en Moav y en hijos de Amón y en Edom y en reyes de Tsová y en los filisteos; y en todo donde se volvía, condenaba.
 
 ### 14:48
 
@@ -1409,29 +1409,29 @@ Y hizo fuerza, e hirió a Amaleq, y libró a Israel de mano de su saqueador.
 
 ### 14:49
 
-Y fueron hijos de Shaúl Yonatán y Yishví y Malki-Shúa; y nombre de dos de sus hijas: nombre de la mayor Merav, y nombre de la menor Mijal.
+Y fueron hijos de Saúl Yonatán y Yishví y Malki-Shúa; y nombre de dos de sus hijas: nombre de la mayor Merav, y nombre de la menor Mijal.
 
 ### 14:50
 
-Y nombre de mujer de Shaúl Ajinoam, hija de Ajimaats; y nombre de jefe de su ejército Aviner, hijo de Ner, tío de Shaúl.
+Y nombre de mujer de Saúl Ajinoam, hija de Ajimaats; y nombre de jefe de su ejército Aviner, hijo de Ner, tío de Saúl.
 
 ### 14:51
 
-Y Qish padre de Shaúl, y Ner padre de Avner, hijo de Aviel.
+Y Qish padre de Saúl, y Ner padre de Avner, hijo de Aviel.
 
 ### 14:52
 
-Y era la batalla fuerte sobre pelishtim todos los días de Shaúl; y veía Shaúl todo hombre valiente y todo hijo de fuerza, y lo reunía a sí.
+Y era la batalla fuerte sobre filisteos todos los días de Saúl; y veía Saúl todo hombre valiente y todo hijo de fuerza, y lo reunía a sí.
 
 ## Capítulo 15
 
 ### 15:1
 
-Y dijo Shemuel a Shaúl: A mí envió Jehová para ungirte por rey sobre su pueblo, sobre Israel; y ahora, oye a la voz de las palabras de Jehová.
+Y dijo Shemuel a Saúl: A mí envió Jehová para ungirte por rey sobre su pueblo, sobre Israel; y ahora, oye a la voz de las palabras de Jehová.
 
 ### 15:2
 
-Así dijo Jehová de ejércitos: Registré lo que hizo Amaleq a Israel, lo que puso a él en el camino en su subir desde Mizraim.
+Así dijo Jehová de ejércitos: Registré lo que hizo Amaleq a Israel, lo que puso a él en el camino en su subir desde Egipto.
 
 ### 15:3
 
@@ -1439,19 +1439,19 @@ Ahora anda, e hiere a Amaleq, y hagan anatema a todo lo que a él, y no te apiad
 
 ### 15:4
 
-Y convocó Shaúl al pueblo, y los registró en ha-Telaim: doscientos mil de a pie, y diez mil con hombre de Yehudá.
+Y convocó Saúl al pueblo, y los registró en ha-Telaim: doscientos mil de a pie, y diez mil con hombre de Judá.
 
 ### 15:5
 
-Y vino Shaúl hasta la ciudad de Amaleq, y tendió emboscada en el torrente.
+Y vino Saúl hasta la ciudad de Amaleq, y tendió emboscada en el torrente.
 
 ### 15:6
 
-Y dijo Shaúl al qení: Anden, apártense, bajen de en medio del amalequí, no sea que te recoja con él; y tú hiciste misericordia con todos los hijos de Israel en su subir desde Mizraim. Y se apartó el qení de en medio de Amaleq.
+Y dijo Saúl al qení: Anden, apártense, bajen de en medio del amalequí, no sea que te recoja con él; y tú hiciste misericordia con todos los hijos de Israel en su subir desde Egipto. Y se apartó el qení de en medio de Amaleq.
 
 ### 15:7
 
-Y hirió Shaúl a Amaleq desde Javilá, tu venir a Shur, que sobre faces de Mizraim.
+Y hirió Saúl a Amaleq desde Javilá, tu venir a Shur, que sobre faces de Egipto.
 
 ### 15:8
 
@@ -1459,7 +1459,7 @@ Y tomó a Agag, rey de Amaleq, vivo; y a todo el pueblo hizo anatema a boca de e
 
 ### 15:9
 
-Y se apiadó Shaúl y el pueblo sobre Agag, y sobre lo mejor del rebaño y del ganado y de los segundos y sobre los carneros y sobre todo lo bueno, y no quisieron hacerlos anatema; y toda la obra despreciada y derretida, a ella hicieron anatema.
+Y se apiadó Saúl y el pueblo sobre Agag, y sobre lo mejor del rebaño y del ganado y de los segundos y sobre los carneros y sobre todo lo bueno, y no quisieron hacerlos anatema; y toda la obra despreciada y derretida, a ella hicieron anatema.
 
 ### 15:10
 
@@ -1467,15 +1467,15 @@ Y fue palabra de Jehová a Shemuel, diciendo:
 
 ### 15:11
 
-Me arrepentí de que hice reinar a Shaúl por rey, porque volvió de detrás de mí, y mis palabras no levantó. Y se inflamó a Shemuel, y clamó a Jehová toda la noche.
+Me arrepentí de que hice reinar a Saúl por rey, porque volvió de detrás de mí, y mis palabras no levantó. Y se inflamó a Shemuel, y clamó a Jehová toda la noche.
 
 ### 15:12
 
-Y madrugó Shemuel para encontrar a Shaúl en la mañana; y fue anunciado a Shemuel, diciendo: Vino Shaúl a ha-Carmelá, y he aquí erigiendo a sí mano, y giró y pasó y bajó a ha-Gilgal.
+Y madrugó Shemuel para encontrar a Saúl en la mañana; y fue anunciado a Shemuel, diciendo: Vino Saúl a ha-Carmelá, y he aquí erigiendo a sí mano, y giró y pasó y bajó a ha-Gilgal.
 
 ### 15:13
 
-Y vino Shemuel a Shaúl, y le dijo Shaúl: Bendito tú a Jehová; levanté palabra de Jehová.
+Y vino Shemuel a Saúl, y le dijo Saúl: Bendito tú a Jehová; levanté palabra de Jehová.
 
 ### 15:14
 
@@ -1483,11 +1483,11 @@ Y dijo Shemuel: ¿Y qué voz del rebaño este en mis oídos, y voz del ganado qu
 
 ### 15:15
 
-Y dijo Shaúl: Desde el amalequí los trajeron, lo que se apiadó el pueblo sobre lo mejor del rebaño y del ganado, a fin de sacrificar a Jehová tu Dios; y lo restante hicimos anatema.
+Y dijo Saúl: Desde el amalequí los trajeron, lo que se apiadó el pueblo sobre lo mejor del rebaño y del ganado, a fin de sacrificar a Jehová tu Dios; y lo restante hicimos anatema.
 
 ### 15:16
 
-Y dijo Shemuel a Shaúl: Cesa, y te anunciaré lo que habló Jehová a mí la noche. Y le dijo: Habla.
+Y dijo Shemuel a Saúl: Cesa, y te anunciaré lo que habló Jehová a mí la noche. Y le dijo: Habla.
 
 ### 15:17
 
@@ -1503,7 +1503,7 @@ Y te envió Jehová en camino, y dijo: Anda, y haz anatema a los pecadores, a Am
 
 ### 15:20
 
-Y dijo Shaúl a Shemuel: Que oí en voz de Jehová, y anduve en el camino que me envió Jehová, y traje a Agag, rey de Amaleq, y a Amaleq hice anatema.
+Y dijo Saúl a Shemuel: Que oí en voz de Jehová, y anduve en el camino que me envió Jehová, y traje a Agag, rey de Amaleq, y a Amaleq hice anatema.
 
 ### 15:21
 
@@ -1519,7 +1519,7 @@ Porque pecado de adivinación es rebeldía, e iniquidad y terafim es porfiar; po
 
 ### 15:24
 
-Y dijo Shaúl a Shemuel: Pequé, porque pasé boca de Jehová y tus palabras, porque temí al pueblo, y oí en su voz.
+Y dijo Saúl a Shemuel: Pequé, porque pasé boca de Jehová y tus palabras, porque temí al pueblo, y oí en su voz.
 
 ### 15:25
 
@@ -1527,7 +1527,7 @@ Y ahora, alza, por favor, mi pecado, y vuelve conmigo, y me postraré a Jehová.
 
 ### 15:26
 
-Y dijo Shemuel a Shaúl: No volveré contigo, porque rechazaste palabra de Jehová, y te rechazó Jehová de ser rey sobre Israel.
+Y dijo Shemuel a Saúl: No volveré contigo, porque rechazaste palabra de Jehová, y te rechazó Jehová de ser rey sobre Israel.
 
 ### 15:27
 
@@ -1547,7 +1547,7 @@ Y dijo: Pequé; ahora, honra, por favor, delante de ancianos de mi pueblo y dela
 
 ### 15:31
 
-Y volvió Shemuel detrás de Shaúl, y se postró Shaúl a Jehová.
+Y volvió Shemuel detrás de Saúl, y se postró Saúl a Jehová.
 
 ### 15:32
 
@@ -1559,21 +1559,21 @@ Y dijo Shemuel: Como que dejó sin hijos a mujeres tu espada, así quedará sin 
 
 ### 15:34
 
-Y anduvo Shemuel a ha-Ramata, y Shaúl subió a su casa, Guivat Shaúl.
+Y anduvo Shemuel a ha-Ramata, y Saúl subió a su casa, Guivat Saúl.
 
 ### 15:35
 
-Y no añadió Shemuel a ver a Shaúl hasta día de su muerte, porque se enlutó Shemuel a Shaúl; y Jehová se arrepintió de que hizo reinar a Shaúl sobre Israel.
+Y no añadió Shemuel a ver a Saúl hasta día de su muerte, porque se enlutó Shemuel a Saúl; y Jehová se arrepintió de que hizo reinar a Saúl sobre Israel.
 
 ## Capítulo 16
 
 ### 16:1
 
-Y dijo Jehová a Shemuel: ¿Hasta cuándo tú enlutándote a Shaúl, y yo lo rechacé de reinar sobre Israel? Llena tu cuerno de aceite, y anda; te enviaré a Yishai el bet-lejemí, porque vi en sus hijos a mí rey.
+Y dijo Jehová a Shemuel: ¿Hasta cuándo tú enlutándote a Saúl, y yo lo rechacé de reinar sobre Israel? Llena tu cuerno de aceite, y anda; te enviaré a Yishai el bet-lejemí, porque vi en sus hijos a mí rey.
 
 ### 16:2
 
-Y dijo Shemuel: ¿Cómo andaré, y oirá Shaúl y me matará? Y dijo Jehová: Novilla de ganado tomarás en tu mano, y dirás: Para sacrificar a Jehová vine.
+Y dijo Shemuel: ¿Cómo andaré, y oirá Saúl y me matará? Y dijo Jehová: Novilla de ganado tomarás en tu mano, y dirás: Para sacrificar a Jehová vine.
 
 ### 16:3
 
@@ -1621,11 +1621,11 @@ Y tomó Shemuel el cuerno del aceite, y lo ungió en medio de sus hermanos; y pr
 
 ### 16:14
 
-Y espíritu de Jehová se apartó de con Shaúl, y lo aterrorizaba espíritu malo de parte de Jehová.
+Y espíritu de Jehová se apartó de con Saúl, y lo aterrorizaba espíritu malo de parte de Jehová.
 
 ### 16:15
 
-Y dijeron siervos de Shaúl a él: He aquí, por favor, espíritu de Dios malo te aterroriza.
+Y dijeron siervos de Saúl a él: He aquí, por favor, espíritu de Dios malo te aterroriza.
 
 ### 16:16
 
@@ -1633,7 +1633,7 @@ Diga, por favor, nuestro señor; tus siervos delante de ti busquen un hombre con
 
 ### 16:17
 
-Y dijo Shaúl a sus siervos: Vean, por favor, a mí un hombre que hace bien para tañer, y tráiganlo a mí.
+Y dijo Saúl a sus siervos: Vean, por favor, a mí un hombre que hace bien para tañer, y tráiganlo a mí.
 
 ### 16:18
 
@@ -1641,41 +1641,41 @@ Y respondió uno de los muchachos, y dijo: He aquí, vi un hijo a Yishai el bet-
 
 ### 16:19
 
-Y envió Shaúl mensajeros a Yishai, y dijo: Envía a mí a David tu hijo, que en el rebaño.
+Y envió Saúl mensajeros a Yishai, y dijo: Envía a mí a David tu hijo, que en el rebaño.
 
 ### 16:20
 
-Y tomó Yishai asno, pan y odre de vino y cabrito de cabras uno, y envió por mano de David su hijo a Shaúl.
+Y tomó Yishai asno, pan y odre de vino y cabrito de cabras uno, y envió por mano de David su hijo a Saúl.
 
 ### 16:21
 
-Y vino David a Shaúl, y se paró delante de él; y lo amó mucho, y fue a él alzante de utensilios.
+Y vino David a Saúl, y se paró delante de él; y lo amó mucho, y fue a él alzante de utensilios.
 
 ### 16:22
 
-Y envió Shaúl a Yishai, diciendo: Se pare, por favor, David delante de mí, porque halló gracia en mis ojos.
+Y envió Saúl a Yishai, diciendo: Se pare, por favor, David delante de mí, porque halló gracia en mis ojos.
 
 ### 16:23
 
-Y era en ser espíritu de Dios a Shaúl, y tomaba David el kinor y tañía con su mano; y se ensanchaba a Shaúl, y bien a él, y se apartaba de sobre él el espíritu el malo.
+Y era en ser espíritu de Dios a Saúl, y tomaba David el kinor y tañía con su mano; y se ensanchaba a Saúl, y bien a él, y se apartaba de sobre él el espíritu el malo.
 
 ## Capítulo 17
 
 ### 17:1
 
-Y reunieron pelishtim sus campamentos a la guerra, y se reunieron en Sokó que a Yehudá; y acamparon entre Sokó y entre Azeqá, en Éfes Damim.
+Y reunieron filisteos sus campamentos a la guerra, y se reunieron en Sokó que a Judá; y acamparon entre Sokó y entre Azeqá, en Éfes Damim.
 
 ### 17:2
 
-Y Shaúl y hombre de Israel se reunieron, y acamparon en valle de ha-Elá, y ordenaron guerra a encuentro de pelishtim.
+Y Saúl y hombre de Israel se reunieron, y acamparon en valle de ha-Elá, y ordenaron guerra a encuentro de filisteos.
 
 ### 17:3
 
-Y pelishtim parados hacia el monte de este, e Israel parados hacia el monte de este, y el valle entre ellos.
+Y filisteos parados hacia el monte de este, e Israel parados hacia el monte de este, y el valle entre ellos.
 
 ### 17:4
 
-Y salió hombre de los entremedios de campamentos de pelishtim, Golyat su nombre, de Gat; su altura seis codos y un palmo.
+Y salió hombre de los entremedios de campamentos de filisteos, Golyat su nombre, de Gat; su altura seis codos y un palmo.
 
 ### 17:5
 
@@ -1691,7 +1691,7 @@ Y asta de su lanza como rodillo de tejedores, y la hoja de su lanza seiscientos 
 
 ### 17:8
 
-Y se paró y llamó a filas de Israel, y les dijo: ¿Por qué salen ustedes a ordenar guerra? ¿No yo el pelishtí, y ustedes siervos a Shaúl? Escojan para ustedes un hombre, y baje a mí.
+Y se paró y llamó a filas de Israel, y les dijo: ¿Por qué salen ustedes a ordenar guerra? ¿No yo el pelishtí, y ustedes siervos a Saúl? Escojan para ustedes un hombre, y baje a mí.
 
 ### 17:9
 
@@ -1703,23 +1703,23 @@ Y dijo el pelishtí: Yo afrenté las filas de Israel el día este; den a mí un 
 
 ### 17:11
 
-Y oyó Shaúl y todo Israel las palabras del pelishtí estas, y se desalentaron y temieron mucho.
+Y oyó Saúl y todo Israel las palabras del pelishtí estas, y se desalentaron y temieron mucho.
 
 ### 17:12
 
-Y David hijo de un hombre efratí este, de Bet Léjem de Yehudá, y su nombre Yishai, y a él ocho hijos; y el hombre en días de Shaúl era anciano, entrado en hombres.
+Y David hijo de un hombre efratí este, de Bet Léjem de Judá, y su nombre Yishai, y a él ocho hijos; y el hombre en días de Saúl era anciano, entrado en hombres.
 
 ### 17:13
 
-Y anduvieron tres hijos de Yishai los grandes; anduvieron detrás de Shaúl a la guerra; y nombre de tres de sus hijos que anduvieron en la guerra: Eliav el primogénito, y su segundo Avinadav, y el tercero Shamá.
+Y anduvieron tres hijos de Yishai los grandes; anduvieron detrás de Saúl a la guerra; y nombre de tres de sus hijos que anduvieron en la guerra: Eliav el primogénito, y su segundo Avinadav, y el tercero Shamá.
 
 ### 17:14
 
-Y David él el pequeño; y los tres los grandes anduvieron detrás de Shaúl.
+Y David él el pequeño; y los tres los grandes anduvieron detrás de Saúl.
 
 ### 17:15
 
-Y David andando y volviendo de sobre Shaúl para pastorear el rebaño de su padre en Bet Léjem.
+Y David andando y volviendo de sobre Saúl para pastorear el rebaño de su padre en Bet Léjem.
 
 ### 17:16
 
@@ -1735,7 +1735,7 @@ Y diez cortes del queso estos llevarás a jefe del millar, y a tus hermanos regi
 
 ### 17:19
 
-Y Shaúl y ellos y todo hombre de Israel en valle de ha-Elá, peleando con pelishtim.
+Y Saúl y ellos y todo hombre de Israel en valle de ha-Elá, peleando con filisteos.
 
 ### 17:20
 
@@ -1743,7 +1743,7 @@ Y madrugó David en la mañana, y dejó el rebaño sobre guardador, y alzó y an
 
 ### 17:21
 
-Y ordenó Israel y pelishtim fila a encuentro de fila.
+Y ordenó Israel y filisteos fila a encuentro de fila.
 
 ### 17:22
 
@@ -1751,7 +1751,7 @@ Y dejó David los utensilios de sobre él sobre mano de guardador de los utensil
 
 ### 17:23
 
-Y él hablando con ellos, y he aquí hombre de los entremedios subiendo, Golyat el pelishtí su nombre, de Gat, de pelishtim; y habló conforme a las palabras estas, y oyó David.
+Y él hablando con ellos, y he aquí hombre de los entremedios subiendo, Golyat el pelishtí su nombre, de Gat, de filisteos; y habló conforme a las palabras estas, y oyó David.
 
 ### 17:24
 
@@ -1783,19 +1783,19 @@ Y giró de su lado hacia enfrente de otro, y dijo conforme a la palabra esta; y 
 
 ### 17:31
 
-Y fueron oídas las palabras que habló David, y las anunciaron delante de Shaúl, y lo tomó.
+Y fueron oídas las palabras que habló David, y las anunciaron delante de Saúl, y lo tomó.
 
 ### 17:32
 
-Y dijo David a Shaúl: No caiga corazón de hombre sobre él; tu siervo irá y peleará con el pelishtí este.
+Y dijo David a Saúl: No caiga corazón de hombre sobre él; tu siervo irá y peleará con el pelishtí este.
 
 ### 17:33
 
-Y dijo Shaúl a David: No podrás andar al pelishtí este para pelear con él, porque muchacho tú, y él hombre de guerra desde sus mocedades.
+Y dijo Saúl a David: No podrás andar al pelishtí este para pelear con él, porque muchacho tú, y él hombre de guerra desde sus mocedades.
 
 ### 17:34
 
-Y dijo David a Shaúl: Pastoreando era tu siervo a su padre en el rebaño, y venía el león y el oso, y alzaba oveja del rebaño.
+Y dijo David a Saúl: Pastoreando era tu siervo a su padre en el rebaño, y venía el león y el oso, y alzaba oveja del rebaño.
 
 ### 17:35
 
@@ -1807,15 +1807,15 @@ También al león, también al oso hirió tu siervo; y será el pelishtí el inc
 
 ### 17:37
 
-Y dijo David: Jehová que me libró de mano del león y de mano del oso, él me librará de mano del pelishtí este. Y dijo Shaúl a David: Anda, y Jehová será contigo.
+Y dijo David: Jehová que me libró de mano del león y de mano del oso, él me librará de mano del pelishtí este. Y dijo Saúl a David: Anda, y Jehová será contigo.
 
 ### 17:38
 
-Y vistió Shaúl a David sus vestidos, y puso casco de bronce sobre su cabeza, y lo vistió coraza.
+Y vistió Saúl a David sus vestidos, y puso casco de bronce sobre su cabeza, y lo vistió coraza.
 
 ### 17:39
 
-Y ciñó David su espada de sobre sus vestidos, y se empeñó a andar, porque no había probado; y dijo David a Shaúl: No puedo andar en estos, porque no probé. Y se los quitó David de sobre él.
+Y ciñó David su espada de sobre sus vestidos, y se empeñó a andar, porque no había probado; y dijo David a Saúl: No puedo andar en estos, porque no probé. Y se los quitó David de sobre él.
 
 ### 17:40
 
@@ -1843,7 +1843,7 @@ Y dijo David al pelishtí: Tú viniendo a mí con espada y con lanza y con jabal
 
 ### 17:46
 
-El día este te entregará Jehová en mi mano, y te heriré, y quitaré tu cabeza de sobre ti, y daré cadáver de campamento de pelishtim el día este a ave de los cielos y a animal de la tierra; y sabrán toda la tierra que hay Dios a Israel.
+El día este te entregará Jehová en mi mano, y te heriré, y quitaré tu cabeza de sobre ti, y daré cadáver de campamento de filisteos el día este a ave de los cielos y a animal de la tierra; y sabrán toda la tierra que hay Dios a Israel.
 
 ### 17:47
 
@@ -1863,15 +1863,15 @@ Y prevaleció David del pelishtí con la honda y con la piedra, e hirió al peli
 
 ### 17:51
 
-Y corrió David y se paró al pelishtí, y tomó su espada y la sacó de su vaina, y lo remató, y cortó con ella su cabeza; y vieron los pelishtim que murió su poderoso, y huyeron.
+Y corrió David y se paró al pelishtí, y tomó su espada y la sacó de su vaina, y lo remató, y cortó con ella su cabeza; y vieron los filisteos que murió su poderoso, y huyeron.
 
 ### 17:52
 
-Y se levantaron hombres de Israel y Yehudá, y gritaron, y persiguieron a los pelishtim hasta tu venir a gai, y hasta puertas de Eqrón; y cayeron heridos de pelishtim en camino de Shaaráyim, y hasta Gat y hasta Eqrón.
+Y se levantaron hombres de Israel y Judá, y gritaron, y persiguieron a los filisteos hasta tu venir a gai, y hasta puertas de Eqrón; y cayeron heridos de filisteos en camino de Shaaráyim, y hasta Gat y hasta Eqrón.
 
 ### 17:53
 
-Y volvieron hijos de Israel de encender detrás de pelishtim, y saquearon sus campamentos.
+Y volvieron hijos de Israel de encender detrás de filisteos, y saquearon sus campamentos.
 
 ### 17:54
 
@@ -1879,7 +1879,7 @@ Y tomó David la cabeza del pelishtí, y la trajo a Yerushaláim; y sus utensili
 
 ### 17:55
 
-Y al ver Shaúl a David saliente a encuentro del pelishtí, dijo a Avner, jefe del ejército: ¿Hijo de quién este el muchacho, Avner? Y dijo Avner: Vive tu alma, oh rey, si conocí.
+Y al ver Saúl a David saliente a encuentro del pelishtí, dijo a Avner, jefe del ejército: ¿Hijo de quién este el muchacho, Avner? Y dijo Avner: Vive tu alma, oh rey, si conocí.
 
 ### 17:56
 
@@ -1887,21 +1887,21 @@ Y dijo el rey: Pregunta tú hijo de quién este el joven.
 
 ### 17:57
 
-Y al volver David de herir al pelishtí, lo tomó Avner y lo trajo delante de Shaúl, y cabeza del pelishtí en su mano.
+Y al volver David de herir al pelishtí, lo tomó Avner y lo trajo delante de Saúl, y cabeza del pelishtí en su mano.
 
 ### 17:58
 
-Y le dijo Shaúl: ¿Hijo de quién tú, el muchacho? Y dijo David: Hijo de tu siervo Yishai el bet-lejemí.
+Y le dijo Saúl: ¿Hijo de quién tú, el muchacho? Y dijo David: Hijo de tu siervo Yishai el bet-lejemí.
 
 ## Capítulo 18
 
 ### 18:1
 
-Y fue al consumir él de hablar a Shaúl, y alma de Yonatán se ató en alma de David; y lo amó Yonatán como su alma.
+Y fue al consumir él de hablar a Saúl, y alma de Yonatán se ató en alma de David; y lo amó Yonatán como su alma.
 
 ### 18:2
 
-Y lo tomó Shaúl en el día aquel, y no lo dio a volver a casa de su padre.
+Y lo tomó Saúl en el día aquel, y no lo dio a volver a casa de su padre.
 
 ### 18:3
 
@@ -1913,39 +1913,39 @@ Y se despojó Yonatán el manto que sobre él, y lo dio a David, y sus vestidos,
 
 ### 18:5
 
-Y salía David en todo lo que lo enviaba Shaúl; prosperaba, y lo puso Shaúl sobre hombres de la guerra; y fue bien en ojos de todo el pueblo, y también en ojos de siervos de Shaúl.
+Y salía David en todo lo que lo enviaba Saúl; prosperaba, y lo puso Saúl sobre hombres de la guerra; y fue bien en ojos de todo el pueblo, y también en ojos de siervos de Saúl.
 
 ### 18:6
 
-Y fue en su venir, en volver David de herir al pelishtí, y salieron las mujeres de todas las ciudades de Israel, y las danzas, a encuentro de Shaúl el rey, con panderos, con alegría y con triángulos.
+Y fue en su venir, en volver David de herir al pelishtí, y salieron las mujeres de todas las ciudades de Israel, y las danzas, a encuentro de Saúl el rey, con panderos, con alegría y con triángulos.
 
 ### 18:7
 
-Y respondían las mujeres las jugando, y decían: Hirió Shaúl en sus miles, y David en sus miríadas.
+Y respondían las mujeres las jugando, y decían: Hirió Saúl en sus miles, y David en sus miríadas.
 
 ### 18:8
 
-Y se inflamó a Shaúl mucho, y fue malo en sus ojos la palabra esta, y dijo: Dieron a David miríadas, y a mí dieron los miles; y aún a él solo el reino.
+Y se inflamó a Saúl mucho, y fue malo en sus ojos la palabra esta, y dijo: Dieron a David miríadas, y a mí dieron los miles; y aún a él solo el reino.
 
 ### 18:9
 
-Y fue Shaúl ojeando a David desde el día aquel y adelante.
+Y fue Saúl ojeando a David desde el día aquel y adelante.
 
 ### 18:10
 
-Y fue al día siguiente, y prosperó espíritu de Dios malo a Shaúl, y se profetizaba en medio de la casa, y David tañendo con su mano como día en día, y la lanza en mano de Shaúl.
+Y fue al día siguiente, y prosperó espíritu de Dios malo a Saúl, y se profetizaba en medio de la casa, y David tañendo con su mano como día en día, y la lanza en mano de Saúl.
 
 ### 18:11
 
-Y arrojó Shaúl la lanza, y dijo: Heriré en David y en la pared. Y giró David de sus faces dos veces.
+Y arrojó Saúl la lanza, y dijo: Heriré en David y en la pared. Y giró David de sus faces dos veces.
 
 ### 18:12
 
-Y temió Shaúl de delante de David, porque era Jehová con él, y de con Shaúl se apartó.
+Y temió Saúl de delante de David, porque era Jehová con él, y de con Saúl se apartó.
 
 ### 18:13
 
-Y lo apartó Shaúl de con él, y lo puso a él jefe de mil; y salía y entraba delante del pueblo.
+Y lo apartó Saúl de con él, y lo puso a él jefe de mil; y salía y entraba delante del pueblo.
 
 ### 18:14
 
@@ -1953,47 +1953,47 @@ Y era David a todos sus caminos prosperante, y Jehová con él.
 
 ### 18:15
 
-Y vio Shaúl que él prosperante mucho, y se temió de sus faces.
+Y vio Saúl que él prosperante mucho, y se temió de sus faces.
 
 ### 18:16
 
-Y todo Israel y Yehudá amando a David, porque él saliente y entrante delante de ellos.
+Y todo Israel y Judá amando a David, porque él saliente y entrante delante de ellos.
 
 ### 18:17
 
-Y dijo Shaúl a David: He aquí mi hija la grande, Merav; a ella daré a ti por mujer; solo sé a mí por hijo de valor, y pelea guerras de Jehová. Y Shaúl dijo: No sea mi mano en él, y sea en él mano de pelishtim.
+Y dijo Saúl a David: He aquí mi hija la grande, Merav; a ella daré a ti por mujer; solo sé a mí por hijo de valor, y pelea guerras de Jehová. Y Saúl dijo: No sea mi mano en él, y sea en él mano de filisteos.
 
 ### 18:18
 
-Y dijo David a Shaúl: ¿Quién yo, y quién mi vida, clan de mi padre en Israel, que sea yerno al rey?
+Y dijo David a Saúl: ¿Quién yo, y quién mi vida, clan de mi padre en Israel, que sea yerno al rey?
 
 ### 18:19
 
-Y fue en tiempo de dar a Merav hija de Shaúl a David, y ella fue dada a Adriel el mejolatí por mujer.
+Y fue en tiempo de dar a Merav hija de Saúl a David, y ella fue dada a Adriel el mejolatí por mujer.
 
 ### 18:20
 
-Y amó Mikal hija de Shaúl a David; y anunciaron a Shaúl, y fue recta la palabra en sus ojos.
+Y amó Mikal hija de Saúl a David; y anunciaron a Saúl, y fue recta la palabra en sus ojos.
 
 ### 18:21
 
-Y dijo Shaúl: La daré a él, y sea a él por lazo, y sea en él mano de pelishtim. Y dijo Shaúl a David: En dos te emparentarás en mí hoy.
+Y dijo Saúl: La daré a él, y sea a él por lazo, y sea en él mano de filisteos. Y dijo Saúl a David: En dos te emparentarás en mí hoy.
 
 ### 18:22
 
-Y mandó Shaúl a sus siervos: Hablen a David en secreto, diciendo: He aquí, se deleita en ti el rey, y todos sus siervos te amaron; y ahora, emparéntate en el rey.
+Y mandó Saúl a sus siervos: Hablen a David en secreto, diciendo: He aquí, se deleita en ti el rey, y todos sus siervos te amaron; y ahora, emparéntate en el rey.
 
 ### 18:23
 
-Y hablaron siervos de Shaúl en oídos de David las palabras estas; y dijo David: ¿Es ligera en ojos de ustedes emparentarse en el rey? Y yo hombre pobre y despreciado.
+Y hablaron siervos de Saúl en oídos de David las palabras estas; y dijo David: ¿Es ligera en ojos de ustedes emparentarse en el rey? Y yo hombre pobre y despreciado.
 
 ### 18:24
 
-Y anunciaron siervos de Shaúl a él, diciendo: Conforme a las palabras estas habló David.
+Y anunciaron siervos de Saúl a él, diciendo: Conforme a las palabras estas habló David.
 
 ### 18:25
 
-Y dijo Shaúl: Así dirán ustedes a David: No hay deleite al rey en dote, sino en cien prepucios de pelishtim, para vengarse en enemigos del rey. Y Shaúl pensó para hacer caer a David en mano de pelishtim.
+Y dijo Saúl: Así dirán ustedes a David: No hay deleite al rey en dote, sino en cien prepucios de filisteos, para vengarse en enemigos del rey. Y Saúl pensó para hacer caer a David en mano de filisteos.
 
 ### 18:26
 
@@ -2001,29 +2001,29 @@ Y anunciaron sus siervos a David las palabras estas, y fue recta la palabra en o
 
 ### 18:27
 
-Y se levantó David y anduvo él y sus hombres, e hirió en los pelishtim doscientos hombres; y trajo David sus prepucios, y los llenaron al rey para emparentarse en el rey; y le dio Shaúl a Mikal su hija por mujer.
+Y se levantó David y anduvo él y sus hombres, e hirió en los filisteos doscientos hombres; y trajo David sus prepucios, y los llenaron al rey para emparentarse en el rey; y le dio Saúl a Mikal su hija por mujer.
 
 ### 18:28
 
-Y vio Shaúl y conoció que Jehová con David, y Mikal hija de Shaúl lo amó.
+Y vio Saúl y conoció que Jehová con David, y Mikal hija de Saúl lo amó.
 
 ### 18:29
 
-Y añadió Shaúl a temer de faces de David aún; y fue Shaúl enemigo a David todos los días.
+Y añadió Saúl a temer de faces de David aún; y fue Saúl enemigo a David todos los días.
 
 ### 18:30
 
-Y salían jefes de pelishtim; y era de cuanto su salir, prosperaba David más que todos siervos de Shaúl, y fue precioso su nombre mucho.
+Y salían jefes de filisteos; y era de cuanto su salir, prosperaba David más que todos siervos de Saúl, y fue precioso su nombre mucho.
 
 ## Capítulo 19
 
 ### 19:1
 
-Y habló Shaúl a Yonatán su hijo y a todos sus siervos para matar a David; y Yonatán hijo de Shaúl se deleitaba en David mucho.
+Y habló Saúl a Yonatán su hijo y a todos sus siervos para matar a David; y Yonatán hijo de Saúl se deleitaba en David mucho.
 
 ### 19:2
 
-Y anunció Yonatán a David, diciendo: Buscando Shaúl mi padre para matarte; y ahora, guárdate, por favor, en la mañana, y asentarás en el secreto y te esconderás.
+Y anunció Yonatán a David, diciendo: Buscando Saúl mi padre para matarte; y ahora, guárdate, por favor, en la mañana, y asentarás en el secreto y te esconderás.
 
 ### 19:3
 
@@ -2031,7 +2031,7 @@ Y yo saldré y me pararé a lado de mi padre en el campo que tú allí, y yo hab
 
 ### 19:4
 
-Y habló Yonatán en David bien a Shaúl su padre, y le dijo: No peque el rey en su siervo, en David, porque no pecó a ti, y porque sus obras buenas a ti mucho.
+Y habló Yonatán en David bien a Saúl su padre, y le dijo: No peque el rey en su siervo, en David, porque no pecó a ti, y porque sus obras buenas a ti mucho.
 
 ### 19:5
 
@@ -2039,27 +2039,27 @@ Y puso su alma en su palma, e hirió al pelishtí, e hizo Jehová salvación gra
 
 ### 19:6
 
-Y oyó Shaúl en voz de Yonatán, y juró Shaúl: Vive Jehová, si será muerto.
+Y oyó Saúl en voz de Yonatán, y juró Saúl: Vive Jehová, si será muerto.
 
 ### 19:7
 
-Y llamó Yonatán a David, y le anunció Yonatán todas las palabras estas; y trajo Yonatán a David a Shaúl, y fue delante de él como ayer tercero.
+Y llamó Yonatán a David, y le anunció Yonatán todas las palabras estas; y trajo Yonatán a David a Saúl, y fue delante de él como ayer tercero.
 
 ### 19:8
 
-Y añadió la guerra a ser, y salió David y peleó en los pelishtim, e hirió en ellos herida grande, y huyeron de sus faces.
+Y añadió la guerra a ser, y salió David y peleó en los filisteos, e hirió en ellos herida grande, y huyeron de sus faces.
 
 ### 19:9
 
-Y fue espíritu de Jehová malo a Shaúl, y él en su casa asentado, y su lanza en su mano, y David tañendo con la mano.
+Y fue espíritu de Jehová malo a Saúl, y él en su casa asentado, y su lanza en su mano, y David tañendo con la mano.
 
 ### 19:10
 
-Y buscó Shaúl para herir con la lanza en David y en la pared, y se escapó de faces de Shaúl, e hirió la lanza en la pared; y David huyó y se libró en la noche aquella.
+Y buscó Saúl para herir con la lanza en David y en la pared, y se escapó de faces de Saúl, e hirió la lanza en la pared; y David huyó y se libró en la noche aquella.
 
 ### 19:11
 
-Y envió Shaúl mensajeros a casa de David para guardarlo y para matarlo en la mañana; y anunció a David Mikal su mujer, diciendo: Si no estás librando tu alma la noche, mañana tú muerto.
+Y envió Saúl mensajeros a casa de David para guardarlo y para matarlo en la mañana; y anunció a David Mikal su mujer, diciendo: Si no estás librando tu alma la noche, mañana tú muerto.
 
 ### 19:12
 
@@ -2071,11 +2071,11 @@ Y tomó Mikal los terafim, y puso hacia la cama, y red de las cabras puso a su c
 
 ### 19:14
 
-Y envió Shaúl mensajeros para tomar a David, y dijo ella: Enfermo él.
+Y envió Saúl mensajeros para tomar a David, y dijo ella: Enfermo él.
 
 ### 19:15
 
-Y envió Shaúl a los mensajeros para ver a David, diciendo: Súbanlo en la cama a mí para matarlo.
+Y envió Saúl a los mensajeros para ver a David, diciendo: Súbanlo en la cama a mí para matarlo.
 
 ### 19:16
 
@@ -2083,23 +2083,23 @@ Y vinieron los mensajeros, y he aquí los terafim hacia la cama, y red de las ca
 
 ### 19:17
 
-Y dijo Shaúl a Mikal: ¿Por qué así me engañaste, y enviaste a mi enemigo, y se libró? Y dijo Mikal a Shaúl: Él dijo a mí: Envíame; ¿por qué te mataré?
+Y dijo Saúl a Mikal: ¿Por qué así me engañaste, y enviaste a mi enemigo, y se libró? Y dijo Mikal a Saúl: Él dijo a mí: Envíame; ¿por qué te mataré?
 
 ### 19:18
 
-Y David huyó y se libró, y vino a Shemuel a ha-Ramata, y le anunció todo lo que le hizo Shaúl; y anduvo él y Shemuel, y se asentaron en Nayot.
+Y David huyó y se libró, y vino a Shemuel a ha-Ramata, y le anunció todo lo que le hizo Saúl; y anduvo él y Shemuel, y se asentaron en Nayot.
 
 ### 19:19
 
-Y fue anunciado a Shaúl, diciendo: He aquí David en ha-Ramá.
+Y fue anunciado a Saúl, diciendo: He aquí David en ha-Ramá.
 
 ### 19:20
 
-Y envió Shaúl mensajeros para tomar a David; y vio la compañía de los profetas profetizando, y Shemuel parado erguido sobre ellos; y fue sobre mensajeros de Shaúl espíritu de Dios, y se profetizaron también ellos.
+Y envió Saúl mensajeros para tomar a David; y vio la compañía de los profetas profetizando, y Shemuel parado erguido sobre ellos; y fue sobre mensajeros de Saúl espíritu de Dios, y se profetizaron también ellos.
 
 ### 19:21
 
-Y anunciaron a Shaúl, y envió mensajeros otros, y se profetizaron también ellos; y añadió Shaúl y envió mensajeros terceros, y se profetizaron también ellos.
+Y anunciaron a Saúl, y envió mensajeros otros, y se profetizaron también ellos; y añadió Saúl y envió mensajeros terceros, y se profetizaron también ellos.
 
 ### 19:22
 
@@ -2111,13 +2111,13 @@ Y anduvo allá a ha-Ramá; y fue sobre él también él espíritu de Dios, y and
 
 ### 19:24
 
-Y se despojó también él sus vestidos, y se profetizó también él delante de Shemuel, y cayó desnudo todo el día aquel y toda la noche; por tanto dicen: ¿También Shaúl entre los profetas?
+Y se despojó también él sus vestidos, y se profetizó también él delante de Shemuel, y cayó desnudo todo el día aquel y toda la noche; por tanto dicen: ¿También Saúl entre los profetas?
 
 ## Capítulo 20
 
 ### 20:1
 
-Y huyó David de Ramá, y vino y dijo delante de Yehonatán: ¿Qué hice? ¿Qué es mi iniquidad y qué mi pecado delante de tu padre, que busca mi ser?
+Y huyó David de Ramá, y vino y dijo delante de Jonatán: ¿Qué hice? ¿Qué es mi iniquidad y qué mi pecado delante de tu padre, que busca mi ser?
 
 ### 20:2
 
@@ -2125,15 +2125,15 @@ Y le dijo: ¡Lejos! No morirás. He aquí, mi padre no descubre mi oreja palabra
 
 ### 20:3
 
-Y juró aún David, y dijo: Saber sabe tu padre que hallé gracia en tus ojos, y dijo: No sepa esto Yehonatán, no sea que se aflija; pero vivo Jehová y viva tu ser, que hay como un paso entre mí y entre la muerte.
+Y juró aún David, y dijo: Saber sabe tu padre que hallé gracia en tus ojos, y dijo: No sepa esto Jonatán, no sea que se aflija; pero vivo Jehová y viva tu ser, que hay como un paso entre mí y entre la muerte.
 
 ### 20:4
 
-Y dijo Yehonatán a David: Lo que diga tu ser, yo haré por ti.
+Y dijo Jonatán a David: Lo que diga tu ser, yo haré por ti.
 
 ### 20:5
 
-Y dijo David a Yehonatán: He aquí, mañana luna nueva, y yo asentando asentaré con el rey para comer; y me enviarás, y me esconderé en el campo hasta la tarde tercera.
+Y dijo David a Jonatán: He aquí, mañana luna nueva, y yo asentando asentaré con el rey para comer; y me enviarás, y me esconderé en el campo hasta la tarde tercera.
 
 ### 20:6
 
@@ -2149,23 +2149,23 @@ Y harás misericordia sobre tu siervo, porque en pacto de Jehová trajiste a tu 
 
 ### 20:9
 
-Y dijo Yehonatán: ¡Lejos a ti! Porque si saber sé que se consumió el mal de con mi padre para venir sobre ti, ¿y no te lo anunciaré?
+Y dijo Jonatán: ¡Lejos a ti! Porque si saber sé que se consumió el mal de con mi padre para venir sobre ti, ¿y no te lo anunciaré?
 
 ### 20:10
 
-Y dijo David a Yehonatán: ¿Quién me anunciará, o qué te responderá tu padre duro?
+Y dijo David a Jonatán: ¿Quién me anunciará, o qué te responderá tu padre duro?
 
 ### 20:11
 
-Y dijo Yehonatán a David: Anda, y salgamos al campo. Y salieron los dos de ellos al campo.
+Y dijo Jonatán a David: Anda, y salgamos al campo. Y salieron los dos de ellos al campo.
 
 ### 20:12
 
-Y dijo Yehonatán a David: Jehová Dios de Israel: Si examino a mi padre como el tiempo de mañana la tercera, y he aquí bueno hacia David, ¿y entonces no enviaré a ti y descubriré tu oreja?
+Y dijo Jonatán a David: Jehová Dios de Israel: Si examino a mi padre como el tiempo de mañana la tercera, y he aquí bueno hacia David, ¿y entonces no enviaré a ti y descubriré tu oreja?
 
 ### 20:13
 
-Así haga Jehová a Yehonatán, y así añada: si hace bien a mi padre el mal sobre ti, descubriré tu oreja y te enviaré, y andarás a paz; y sea Jehová contigo como que fue con mi padre.
+Así haga Jehová a Jonatán, y así añada: si hace bien a mi padre el mal sobre ti, descubriré tu oreja y te enviaré, y andarás a paz; y sea Jehová contigo como que fue con mi padre.
 
 ### 20:14
 
@@ -2177,15 +2177,15 @@ Y no cortarás tu misericordia de con mi casa hasta remoto; y no, al cortar Jeho
 
 ### 20:16
 
-Y cortó Yehonatán con casa de David; y busque Jehová de mano de enemigos de David.
+Y cortó Jonatán con casa de David; y busque Jehová de mano de enemigos de David.
 
 ### 20:17
 
-Y añadió Yehonatán para hacer jurar a David en su amor a él, porque amor de su ser lo amó.
+Y añadió Jonatán para hacer jurar a David en su amor a él, porque amor de su ser lo amó.
 
 ### 20:18
 
-Y le dijo Yehonatán: Mañana luna nueva, y serás visitado, porque será visitado tu asiento.
+Y le dijo Jonatán: Mañana luna nueva, y serás visitado, porque será visitado tu asiento.
 
 ### 20:19
 
@@ -2213,19 +2213,19 @@ Y se escondió David en el campo; y fue la luna nueva, y se sentó el rey al pan
 
 ### 20:25
 
-Y se sentó el rey sobre su asiento como vez en vez, al asiento de la pared; y se levantó Yehonatán, y se sentó Avner al lado de Shaúl; y fue visitado lugar de David.
+Y se sentó el rey sobre su asiento como vez en vez, al asiento de la pared; y se levantó Jonatán, y se sentó Avner al lado de Saúl; y fue visitado lugar de David.
 
 ### 20:26
 
-Y no habló Shaúl nada en aquel día, porque dijo: Accidente es; no está limpio él, porque no está limpio.
+Y no habló Saúl nada en aquel día, porque dijo: Accidente es; no está limpio él, porque no está limpio.
 
 ### 20:27
 
-Y fue de mañana de la luna nueva la segunda, y fue visitado lugar de David; y dijo Shaúl a Yehonatán su hijo: ¿Por qué no vino hijo de Yishái también ayer también hoy al pan?
+Y fue de mañana de la luna nueva la segunda, y fue visitado lugar de David; y dijo Saúl a Jonatán su hijo: ¿Por qué no vino hijo de Yishái también ayer también hoy al pan?
 
 ### 20:28
 
-Y respondió Yehonatán a Shaúl: Pedir fue pedido David de conmigo hasta Bet Léjem.
+Y respondió Jonatán a Saúl: Pedir fue pedido David de conmigo hasta Bet Léjem.
 
 ### 20:29
 
@@ -2233,7 +2233,7 @@ Y dijo: Envíame, por favor, porque sacrificio de familia a nosotros en la ciuda
 
 ### 20:30
 
-Y se encendió nariz de Shaúl en Yehonatán, y le dijo: Hijo de perversa de la rebelión, ¿no sé que eligiendo eres a hijo de Yishái, para tu vergüenza y para vergüenza de desnudez de tu madre?
+Y se encendió nariz de Saúl en Jonatán, y le dijo: Hijo de perversa de la rebelión, ¿no sé que eligiendo eres a hijo de Yishái, para tu vergüenza y para vergüenza de desnudez de tu madre?
 
 ### 20:31
 
@@ -2241,19 +2241,19 @@ Porque todos los días que hijo de Yishái vivo sobre la tierra, no serás prepa
 
 ### 20:32
 
-Y respondió Yehonatán a Shaúl su padre, y le dijo: ¿Por qué será muerto? ¿Qué hizo?
+Y respondió Jonatán a Saúl su padre, y le dijo: ¿Por qué será muerto? ¿Qué hizo?
 
 ### 20:33
 
-Y arrojó Shaúl la lanza sobre él para herirlo; y supo Yehonatán que consumación ella de con su padre para matar a David.
+Y arrojó Saúl la lanza sobre él para herirlo; y supo Jonatán que consumación ella de con su padre para matar a David.
 
 ### 20:34
 
-Y se levantó Yehonatán de con la mesa en ardor de nariz, y no comió en día de la luna nueva la segunda pan, porque se afligió por David, porque lo avergonzó su padre.
+Y se levantó Jonatán de con la mesa en ardor de nariz, y no comió en día de la luna nueva la segunda pan, porque se afligió por David, porque lo avergonzó su padre.
 
 ### 20:35
 
-Y fue en la mañana, y salió Yehonatán al campo al encuentro de David, y muchacho pequeño con él.
+Y fue en la mañana, y salió Jonatán al campo al encuentro de David, y muchacho pequeño con él.
 
 ### 20:36
 
@@ -2261,27 +2261,27 @@ Y dijo a su muchacho: Corre, halla, por favor, las flechas que yo tiro. El mucha
 
 ### 20:37
 
-Y vino el muchacho hasta lugar de la flecha que tiró Yehonatán; y llamó Yehonatán detrás del muchacho, y dijo: ¿No está la flecha desde ti y más allá?
+Y vino el muchacho hasta lugar de la flecha que tiró Jonatán; y llamó Jonatán detrás del muchacho, y dijo: ¿No está la flecha desde ti y más allá?
 
 ### 20:38
 
-Y llamó Yehonatán detrás del muchacho: Prisa, apresúrate, no te pares. Y recogió el muchacho de Yehonatán las flechas, y vino a su señor.
+Y llamó Jonatán detrás del muchacho: Prisa, apresúrate, no te pares. Y recogió el muchacho de Jonatán las flechas, y vino a su señor.
 
 ### 20:39
 
-Y el muchacho no sabía nada; solo Yehonatán y David sabían la palabra.
+Y el muchacho no sabía nada; solo Jonatán y David sabían la palabra.
 
 ### 20:40
 
-Y dio Yehonatán sus utensilios al muchacho que a él, y le dijo: Anda, lleva a la ciudad.
+Y dio Jonatán sus utensilios al muchacho que a él, y le dijo: Anda, lleva a la ciudad.
 
 ### 20:41
 
-El muchacho vino, y David se levantó de junto al Néguev, y cayó a sus narices tierra, y se postró tres veces; y se besaron varón a su compañero, y lloraron varón a su compañero, hasta que David engrandeció.
+El muchacho vino, y David se levantó de junto al Neguev, y cayó a sus narices tierra, y se postró tres veces; y se besaron varón a su compañero, y lloraron varón a su compañero, hasta que David engrandeció.
 
 ### 20:42
 
-Y dijo Yehonatán a David: Anda a paz, lo que juramos los dos de nosotros en nombre de Jehová, diciendo: Jehová será entre mí y entre ti, y entre mi semilla y entre tu semilla, hasta remoto. Y se levantó y anduvo; y Yehonatán vino a la ciudad.
+Y dijo Jonatán a David: Anda a paz, lo que juramos los dos de nosotros en nombre de Jehová, diciendo: Jehová será entre mí y entre ti, y entre mi semilla y entre tu semilla, hasta remoto. Y se levantó y anduvo; y Jonatán vino a la ciudad.
 
 ## Capítulo 21
 
@@ -2311,7 +2311,7 @@ Y le dio el sacerdote santo, porque no hubo allí pan sino pan de las faces, qui
 
 ### 21:7
 
-Y allí había varón de siervos de Shaúl en aquel día detenido delante de Jehová, y su nombre Doeg el edomí, fuerte de los pastores que a Shaúl.
+Y allí había varón de siervos de Saúl en aquel día detenido delante de Jehová, y su nombre Doeg el edomí, fuerte de los pastores que a Saúl.
 
 ### 21:8
 
@@ -2323,11 +2323,11 @@ Y dijo el sacerdote: Espada de Golyat el pelishtí que heriste en valle de ha-El
 
 ### 21:10
 
-Y se levantó David y huyó en aquel día de faces de Shaúl, y vino a Ajish rey de Gat.
+Y se levantó David y huyó en aquel día de faces de Saúl, y vino a Ajish rey de Gat.
 
 ### 21:11
 
-Y dijeron siervos de Ajish a él: ¿No es este David rey de la tierra? ¿No a este responden en las danzas, diciendo: Hirió Shaúl en sus miles, y David en sus miríadas?
+Y dijeron siervos de Ajish a él: ¿No es este David rey de la tierra? ¿No a este responden en las danzas, diciendo: Hirió Saúl en sus miles, y David en sus miríadas?
 
 ### 21:12
 
@@ -2365,15 +2365,15 @@ Y los guió a faces de rey de Moav, y habitaron con él todos los días de ser D
 
 ### 22:5
 
-Y dijo Gad el profeta a David: No habites en la plaza fuerte; anda y ven para ti a tierra de Yehudá. Y anduvo David y vino a bosque de Járet.
+Y dijo Gad el profeta a David: No habites en la plaza fuerte; anda y ven para ti a tierra de Judá. Y anduvo David y vino a bosque de Járet.
 
 ### 22:6
 
-Y oyó Shaúl que fue conocido David y varones que con él; y Shaúl asentado en ha-Givá bajo el tamarisco en la altura, y su lanza en su mano, y todos sus siervos parados sobre él.
+Y oyó Saúl que fue conocido David y varones que con él; y Saúl asentado en ha-Givá bajo el tamarisco en la altura, y su lanza en su mano, y todos sus siervos parados sobre él.
 
 ### 22:7
 
-Y dijo Shaúl a sus siervos los parados sobre él: Oigan, por favor, hijos de yeminí: ¿También a todos ustedes dará hijo de Yishái campos y viñas? ¿A todos ustedes pondrá jefes de miles y jefes de cientos?
+Y dijo Saúl a sus siervos los parados sobre él: Oigan, por favor, hijos de yeminí: ¿También a todos ustedes dará hijo de Yishái campos y viñas? ¿A todos ustedes pondrá jefes de miles y jefes de cientos?
 
 ### 22:8
 
@@ -2381,7 +2381,7 @@ Porque conspiraron todos ustedes sobre mí, y no hay descubridor de mi oreja al 
 
 ### 22:9
 
-Y respondió Doeg el edomí, y él parado sobre siervos de Shaúl, y dijo: Vi al hijo de Yishái viniendo a Nov, a Ajimélek hijo de Ajituv.
+Y respondió Doeg el edomí, y él parado sobre siervos de Saúl, y dijo: Vi al hijo de Yishái viniendo a Nov, a Ajimélek hijo de Ajituv.
 
 ### 22:10
 
@@ -2393,11 +2393,11 @@ Y envió el rey para llamar a Ajimélek hijo de Ajituv el sacerdote, y a toda ca
 
 ### 22:12
 
-Y dijo Shaúl: Oye, por favor, hijo de Ajituv. Y dijo: Heme aquí, mi señor.
+Y dijo Saúl: Oye, por favor, hijo de Ajituv. Y dijo: Heme aquí, mi señor.
 
 ### 22:13
 
-Y dijo Shaúl: ¿Por qué conspiraron sobre mí tú e hijo de Yishái, en tu dar a él pan y espada, y preguntar por él en Dios, para levantarse a mí para emboscador como este día?
+Y dijo Saúl: ¿Por qué conspiraron sobre mí tú e hijo de Yishái, en tu dar a él pan y espada, y preguntar por él en Dios, para levantarse a mí para emboscador como este día?
 
 ### 22:14
 
@@ -2429,11 +2429,11 @@ Y se escapó un hijo a Ajimélek hijo de Ajituv, y su nombre Evyatar, y huyó de
 
 ### 22:21
 
-Y anunció Evyatar a David que mató Shaúl a sacerdotes de Jehová.
+Y anunció Evyatar a David que mató Saúl a sacerdotes de Jehová.
 
 ### 22:22
 
-Y dijo David a Evyatar: Supe en aquel día que allí el edomí, que de anunciar anunciaría a Shaúl; yo rodeé en todo ser de casa de tu padre.
+Y dijo David a Evyatar: Supe en aquel día que allí el edomí, que de anunciar anunciaría a Saúl; yo rodeé en todo ser de casa de tu padre.
 
 ### 22:23
 
@@ -2443,23 +2443,23 @@ Siéntate conmigo; no temas, porque el que busca mi ser busca tu ser, porque cus
 
 ### 23:1
 
-Y anunciaron a David, diciendo: He aquí pelishtim peleando en Keilá, y ellos saqueando las eras.
+Y anunciaron a David, diciendo: He aquí filisteos peleando en Keilá, y ellos saqueando las eras.
 
 ### 23:2
 
-Y preguntó David en Jehová, diciendo: ¿Iré y heriré en estos pelishtim? Y dijo Jehová a David: Anda y herirás en los pelishtim, y salvarás a Keilá.
+Y preguntó David en Jehová, diciendo: ¿Iré y heriré en estos filisteos? Y dijo Jehová a David: Anda y herirás en los filisteos, y salvarás a Keilá.
 
 ### 23:3
 
-Y dijeron varones de David a él: He aquí nosotros aquí en Yehudá temerosos; ¿y aun si andamos a Keilá, a filas de pelishtim?
+Y dijeron varones de David a él: He aquí nosotros aquí en Judá temerosos; ¿y aun si andamos a Keilá, a filas de filisteos?
 
 ### 23:4
 
-Y añadió aún David para preguntar en Jehová, y le respondió Jehová, y dijo: Levántate, baja a Keilá, porque yo doy a los pelishtim en tu mano.
+Y añadió aún David para preguntar en Jehová, y le respondió Jehová, y dijo: Levántate, baja a Keilá, porque yo doy a los filisteos en tu mano.
 
 ### 23:5
 
-Y anduvo David a Keilá, y pelearon en los pelishtim, y condujo su ganado, y hirió en ellos herida grande; y salvó David a habitantes de Keilá.
+Y anduvo David a Keilá, y pelearon en los filisteos, y condujo su ganado, y hirió en ellos herida grande; y salvó David a habitantes de Keilá.
 
 ### 23:6
 
@@ -2467,55 +2467,55 @@ Y fue al huir Evyatar hijo de Ajimélek a David a Keilá, efod bajó en su mano.
 
 ### 23:7
 
-Y fue anunciado a Shaúl que vino David a Keilá; y dijo Shaúl: Lo enajenó Dios en mi mano, porque se cerró para venir en ciudad de puertas y cerrojo.
+Y fue anunciado a Saúl que vino David a Keilá; y dijo Saúl: Lo enajenó Dios en mi mano, porque se cerró para venir en ciudad de puertas y cerrojo.
 
 ### 23:8
 
-Y convocó Shaúl a todo el pueblo a la guerra, para bajar a Keilá, para cercar a David y a sus varones.
+Y convocó Saúl a todo el pueblo a la guerra, para bajar a Keilá, para cercar a David y a sus varones.
 
 ### 23:9
 
-Y supo David que Shaúl maquinando el mal sobre él; y dijo a Evyatar el sacerdote: Acerca el efod.
+Y supo David que Saúl maquinando el mal sobre él; y dijo a Evyatar el sacerdote: Acerca el efod.
 
 ### 23:10
 
-Y dijo David: Jehová Dios de Israel, oír oyó tu siervo que Shaúl buscando para venir a Keilá para destruir a la ciudad por causa de mí.
+Y dijo David: Jehová Dios de Israel, oír oyó tu siervo que Saúl buscando para venir a Keilá para destruir a la ciudad por causa de mí.
 
 ### 23:11
 
-¿Me entregarán dueños de Keilá en su mano? ¿Bajará Shaúl como que oyó tu siervo? Jehová Dios de Israel, anuncia, por favor, a tu siervo. Y dijo Jehová: Bajará.
+¿Me entregarán dueños de Keilá en su mano? ¿Bajará Saúl como que oyó tu siervo? Jehová Dios de Israel, anuncia, por favor, a tu siervo. Y dijo Jehová: Bajará.
 
 ### 23:12
 
-Y dijo David: ¿Entregarán dueños de Keilá a mí y a mis varones en mano de Shaúl? Y dijo Jehová: Entregarán.
+Y dijo David: ¿Entregarán dueños de Keilá a mí y a mis varones en mano de Saúl? Y dijo Jehová: Entregarán.
 
 ### 23:13
 
-Y se levantó David y sus varones como seiscientos varón, y salieron de Keilá, y anduvieron donde anduvieran; y a Shaúl fue anunciado que se escapó David de Keilá, y cesó de salir.
+Y se levantó David y sus varones como seiscientos varón, y salieron de Keilá, y anduvieron donde anduvieran; y a Saúl fue anunciado que se escapó David de Keilá, y cesó de salir.
 
 ### 23:14
 
-Y habitó David en el desierto en las plazas fuertes, y habitó en el monte en desierto de Zif; y lo buscó Shaúl todos los días, y no lo dio Dios en su mano.
+Y habitó David en el desierto en las plazas fuertes, y habitó en el monte en desierto de Zif; y lo buscó Saúl todos los días, y no lo dio Dios en su mano.
 
 ### 23:15
 
-Y vio David que salió Shaúl para buscar su ser; y David en desierto de Zif en ha-Joreshá.
+Y vio David que salió Saúl para buscar su ser; y David en desierto de Zif en ha-Joreshá.
 
 ### 23:16
 
-Y se levantó Yehonatán hijo de Shaúl, y anduvo a David a Joreshá, y fortaleció su mano en Dios.
+Y se levantó Jonatán hijo de Saúl, y anduvo a David a Joreshá, y fortaleció su mano en Dios.
 
 ### 23:17
 
-Y le dijo: No temas, porque no te hallará mano de Shaúl mi padre, y tú reinarás sobre Israel, y yo seré a ti por segundo; y también Shaúl mi padre sabe así.
+Y le dijo: No temas, porque no te hallará mano de Saúl mi padre, y tú reinarás sobre Israel, y yo seré a ti por segundo; y también Saúl mi padre sabe así.
 
 ### 23:18
 
-Y cortaron los dos de ellos pacto delante de Jehová; y habitó David en ha-Joreshá, y Yehonatán anduvo a su casa.
+Y cortaron los dos de ellos pacto delante de Jehová; y habitó David en ha-Joreshá, y Jonatán anduvo a su casa.
 
 ### 23:19
 
-Y subieron zifim a Shaúl a ha-Givá, diciendo: ¿No está David escondiéndose con nosotros en las plazas fuertes, en ha-Joreshá, en collado de ha-Jakilá, que a la derecha del yeshimón?
+Y subieron zifim a Saúl a ha-Givá, diciendo: ¿No está David escondiéndose con nosotros en las plazas fuertes, en ha-Joreshá, en collado de ha-Jakilá, que a la derecha del yeshimón?
 
 ### 23:20
 
@@ -2523,7 +2523,7 @@ Y ahora, conforme a todo deseo de tu ser, oh rey, para bajar, baja; y a nosotros
 
 ### 23:21
 
-Y dijo Shaúl: Benditos ustedes a Jehová, porque se compadecieron sobre mí.
+Y dijo Saúl: Benditos ustedes a Jehová, porque se compadecieron sobre mí.
 
 ### 23:22
 
@@ -2531,53 +2531,53 @@ Anden, por favor, preparen aún, y sepan y vean su lugar donde estará su pie, q
 
 ### 23:23
 
-Y vean y sepan de todos los escondites donde se esconde allí, y vuelvan a mí a lo preparado, y andaré con ustedes; y será, si está en la tierra, lo buscaré en todos los miles de Yehudá.
+Y vean y sepan de todos los escondites donde se esconde allí, y vuelvan a mí a lo preparado, y andaré con ustedes; y será, si está en la tierra, lo buscaré en todos los miles de Judá.
 
 ### 23:24
 
-Y se levantaron y anduvieron a Zif delante de Shaúl; y David y sus varones en desierto de Maón, en la aravá, a la derecha del yeshimón.
+Y se levantaron y anduvieron a Zif delante de Saúl; y David y sus varones en desierto de Maón, en la aravá, a la derecha del yeshimón.
 
 ### 23:25
 
-Y anduvo Shaúl y sus varones para buscar, y anunciaron a David, y bajó a la peña y habitó en desierto de Maón; y oyó Shaúl, y persiguió detrás de David desierto de Maón.
+Y anduvo Saúl y sus varones para buscar, y anunciaron a David, y bajó a la peña y habitó en desierto de Maón; y oyó Saúl, y persiguió detrás de David desierto de Maón.
 
 ### 23:26
 
-Y anduvo Shaúl desde lado del monte de este, y David y sus varones desde lado del monte de este; y fue David apresurándose para andar de faces de Shaúl, y Shaúl y sus varones rodeando a David y a sus varones para asirlos.
+Y anduvo Saúl desde lado del monte de este, y David y sus varones desde lado del monte de este; y fue David apresurándose para andar de faces de Saúl, y Saúl y sus varones rodeando a David y a sus varones para asirlos.
 
 ### 23:27
 
-Y un mensajero vino a Shaúl, diciendo: Apresúrate y anda, porque se extendieron pelishtim sobre la tierra.
+Y un mensajero vino a Saúl, diciendo: Apresúrate y anda, porque se extendieron filisteos sobre la tierra.
 
 ### 23:28
 
-Y volvió Shaúl de perseguir detrás de David, y anduvo al encuentro de pelishtim; por eso llamaron a aquel lugar Sela ha-Majlekot.
+Y volvió Saúl de perseguir detrás de David, y anduvo al encuentro de filisteos; por eso llamaron a aquel lugar Sela ha-Majlekot.
 
 ### 23:29
 
-Y subió David de allí, y habitó en plazas fuertes de Ein Guedí.
+Y subió David de allí, y habitó en plazas fuertes de Engadi.
 
 ## Capítulo 24
 
 ### 24:1
 
-Y fue cuando volvió Shaúl de detrás de pelishtim, y le anunciaron, diciendo: He aquí David en desierto de Ein Guedí.
+Y fue cuando volvió Saúl de detrás de filisteos, y le anunciaron, diciendo: He aquí David en desierto de Engadi.
 
 ### 24:2
 
-Y tomó Shaúl tres miles varón escogido de todo Israel, y anduvo para buscar a David y a sus varones sobre faces de peñas de los yaelim.
+Y tomó Saúl tres miles varón escogido de todo Israel, y anduvo para buscar a David y a sus varones sobre faces de peñas de los yaelim.
 
 ### 24:3
 
-Y vino a cercados del rebaño sobre el camino, y allí cueva; y vino Shaúl para cubrir sus pies; y David y sus varones en lados de la cueva asentados.
+Y vino a cercados del rebaño sobre el camino, y allí cueva; y vino Saúl para cubrir sus pies; y David y sus varones en lados de la cueva asentados.
 
 ### 24:4
 
-Y dijeron varones de David a él: He aquí el día que dijo Jehová a ti: He aquí yo dando a tu enemigo en tu mano, y harás a él como que bien en tus ojos. Y se levantó David y cortó el borde del manto que a Shaúl en secreto.
+Y dijeron varones de David a él: He aquí el día que dijo Jehová a ti: He aquí yo dando a tu enemigo en tu mano, y harás a él como que bien en tus ojos. Y se levantó David y cortó el borde del manto que a Saúl en secreto.
 
 ### 24:5
 
-Y fue después de así, y golpeó corazón de David a él sobre que cortó el borde que a Shaúl.
+Y fue después de así, y golpeó corazón de David a él sobre que cortó el borde que a Saúl.
 
 ### 24:6
 
@@ -2585,15 +2585,15 @@ Y dijo a sus varones: ¡Lejos a mí de Jehová si hago esta palabra a mi señor,
 
 ### 24:7
 
-Y desgarró David a sus varones con las palabras, y no los dio para levantarse a Shaúl; y Shaúl se levantó de la cueva y anduvo en el camino.
+Y desgarró David a sus varones con las palabras, y no los dio para levantarse a Saúl; y Saúl se levantó de la cueva y anduvo en el camino.
 
 ### 24:8
 
-Y se levantó David después de así, y salió y llamó detrás de Shaúl, diciendo: ¡Mi señor el rey! Y miró Shaúl detrás de él, e inclinó David narices tierra y se postró.
+Y se levantó David después de así, y salió y llamó detrás de Saúl, diciendo: ¡Mi señor el rey! Y miró Saúl detrás de él, e inclinó David narices tierra y se postró.
 
 ### 24:9
 
-Y dijo David a Shaúl: ¿Por qué oyes palabras de hombre, diciendo: He aquí David buscando tu mal?
+Y dijo David a Saúl: ¿Por qué oyes palabras de hombre, diciendo: He aquí David buscando tu mal?
 
 ### 24:10
 
@@ -2621,7 +2621,7 @@ Y sea Jehová por juez, y juzgue entre mí y entre ti, y vea y contienda mi cont
 
 ### 24:16
 
-Y fue al acabar David de hablar estas palabras a Shaúl, y dijo Shaúl: ¿Tu voz esta, hijo mío David? Y alzó Shaúl su voz y lloró.
+Y fue al acabar David de hablar estas palabras a Saúl, y dijo Saúl: ¿Tu voz esta, hijo mío David? Y alzó Saúl su voz y lloró.
 
 ### 24:17
 
@@ -2645,7 +2645,7 @@ Y ahora, júrame en Jehová que no cortarás mi semilla detrás de mí, y que no
 
 ### 24:22
 
-Y juró David a Shaúl; y anduvo Shaúl a su casa, y David y sus varones subieron sobre la plaza fuerte.
+Y juró David a Saúl; y anduvo Saúl a su casa, y David y sus varones subieron sobre la plaza fuerte.
 
 ## Capítulo 25
 
@@ -2823,37 +2823,37 @@ Y a Ajinoam tomó David de Yizreel, y fueron también las dos de ellas a él por
 
 ### 25:44
 
-Y Shaúl dio a Mikal su hija, mujer de David, a Palti hijo de Layish, que de Galim.
+Y Saúl dio a Mikal su hija, mujer de David, a Palti hijo de Layish, que de Galim.
 
 ## Capítulo 26
 
 ### 26:1
 
-Y vinieron los zifim a Shaúl a ha-Givá, diciendo: ¿No está David escondiéndose en la colina de ha-Jajilá, sobre faces del yeshimón?
+Y vinieron los zifim a Saúl a ha-Givá, diciendo: ¿No está David escondiéndose en la colina de ha-Jajilá, sobre faces del yeshimón?
 
 ### 26:2
 
-Y se levantó Shaúl, y bajó al desierto de Tzif, y con él tres miles hombre, escogidos de Israel, para buscar a David en el desierto de Tzif.
+Y se levantó Saúl, y bajó al desierto de Tzif, y con él tres miles hombre, escogidos de Israel, para buscar a David en el desierto de Tzif.
 
 ### 26:3
 
-Y acampó Shaúl en la colina de ha-Jajilá que sobre faces del yeshimón, sobre el camino; y David habitaba en el desierto, y vio que vino Shaúl detrás de él al desierto.
+Y acampó Saúl en la colina de ha-Jajilá que sobre faces del yeshimón, sobre el camino; y David habitaba en el desierto, y vio que vino Saúl detrás de él al desierto.
 
 ### 26:4
 
-Y envió David espías, y conoció que vino Shaúl a preparado.
+Y envió David espías, y conoció que vino Saúl a preparado.
 
 ### 26:5
 
-Y se levantó David, y vino al lugar donde acampó allí Shaúl; y vio David el lugar donde yacía allí Shaúl, y Avner hijo de Ner, jefe de su ejército; y Shaúl estaba yaciendo en el círculo, y el pueblo acampando.
+Y se levantó David, y vino al lugar donde acampó allí Saúl; y vio David el lugar donde yacía allí Saúl, y Avner hijo de Ner, jefe de su ejército; y Saúl estaba yaciendo en el círculo, y el pueblo acampando.
 
 ### 26:6
 
-Y respondió David y dijo a Ajimélek el hitita y a Avishai hijo de Tseruyá, hermano de Yoav, diciendo: ¿Quién bajará conmigo a Shaúl, al campamento? Y dijo Avishai: Yo bajaré contigo.
+Y respondió David y dijo a Ajimélek el hitita y a Avishai hijo de Tseruyá, hermano de Yoav, diciendo: ¿Quién bajará conmigo a Saúl, al campamento? Y dijo Avishai: Yo bajaré contigo.
 
 ### 26:7
 
-Y vino David y Avishai al pueblo de noche, y he aquí Shaúl yaciendo dormido en el círculo, y su lanza clavada en la tierra, y Avner y el pueblo yaciendo.
+Y vino David y Avishai al pueblo de noche, y he aquí Saúl yaciendo dormido en el círculo, y su lanza clavada en la tierra, y Avner y el pueblo yaciendo.
 
 ### 26:8
 
@@ -2873,7 +2873,7 @@ lejos a mí desde Jehová, de enviar mi mano en el ungido de Jehová; y ahora to
 
 ### 26:12
 
-Y tomó David la lanza y el cántaro de las aguas de la cabecera de Shaúl, y anduvieron a ellos; y no hay vidente, y no hay conocedor, y no hay despertador, porque todos dormidos, porque sueño profundo de Jehová cayó sobre ellos.
+Y tomó David la lanza y el cántaro de las aguas de la cabecera de Saúl, y anduvieron a ellos; y no hay vidente, y no hay conocedor, y no hay despertador, porque todos dormidos, porque sueño profundo de Jehová cayó sobre ellos.
 
 ### 26:13
 
@@ -2893,7 +2893,7 @@ No es bueno el asunto este que hiciste. Vivo Jehová, que hijos de muerte son us
 
 ### 26:17
 
-Y reconoció Shaúl la voz de David, y dijo: ¿Es tu voz esta, hijo mío David? Y dijo David: Mi voz, señor mío el rey.
+Y reconoció Saúl la voz de David, y dijo: ¿Es tu voz esta, hijo mío David? Y dijo David: Mi voz, señor mío el rey.
 
 ### 26:18
 
@@ -2909,7 +2909,7 @@ Y ahora no caiga mi sangre a tierra desde delante de faces de Jehová; porque sa
 
 ### 26:21
 
-Y dijo Shaúl: Pequé; vuelve, hijo mío David, porque no haré malo a ti aún, a causa de que preciosa es mi alma en tus ojos el día este; he aquí obré neciamente y erré mucho muy.
+Y dijo Saúl: Pequé; vuelve, hijo mío David, porque no haré malo a ti aún, a causa de que preciosa es mi alma en tus ojos el día este; he aquí obré neciamente y erré mucho muy.
 
 ### 26:22
 
@@ -2925,13 +2925,13 @@ Y he aquí como que se engrandeció tu alma el día este en mis ojos, así se en
 
 ### 26:25
 
-Y dijo Shaúl a David: Bendito tú, hijo mío David; también haciendo harás, y también pudiendo podrás. Y anduvo David a su camino, y Shaúl volvió a su lugar.
+Y dijo Saúl a David: Bendito tú, hijo mío David; también haciendo harás, y también pudiendo podrás. Y anduvo David a su camino, y Saúl volvió a su lugar.
 
 ## Capítulo 27
 
 ### 27:1
 
-Y dijo David a su corazón: Ahora seré consumido día uno en mano de Shaúl; no hay a mí bueno, sino escapando escaparé a tierra de pelishtim, y desesperará de mí Shaúl de buscarme aún en todo límite de Israel, y escaparé de su mano.
+Y dijo David a su corazón: Ahora seré consumido día uno en mano de Saúl; no hay a mí bueno, sino escapando escaparé a tierra de filisteos, y desesperará de mí Saúl de buscarme aún en todo límite de Israel, y escaparé de su mano.
 
 ### 27:2
 
@@ -2943,7 +2943,7 @@ Y habitó David con Aquis en Gat, él y sus hombres, hombre y su casa; David y s
 
 ### 27:4
 
-Y se declaró a Shaúl que huyó David a Gat, y no aún para buscarlo.
+Y se declaró a Saúl que huyó David a Gat, y no aún para buscarlo.
 
 ### 27:5
 
@@ -2951,15 +2951,15 @@ Y dijo David a Aquis: Si, por favor, hallé gracia en tus ojos, den a mí lugar 
 
 ### 27:6
 
-Y dio a él Aquis en el día aquel a Tsiklag; por eso fue Tsiklag a reyes de Yehudá hasta el día este.
+Y dio a él Aquis en el día aquel a Tsiklag; por eso fue Tsiklag a reyes de Judá hasta el día este.
 
 ### 27:7
 
-Y fue número de los días que habitó David en campo de pelishtim: días y cuatro meses.
+Y fue número de los días que habitó David en campo de filisteos: días y cuatro meses.
 
 ### 27:8
 
-Y subió David y sus hombres, y se esparcieron hacia el geshurí y el amaleqí; porque ellas habitadoras la tierra que desde siempre, en tu venir a Shurá y hasta tierra de Mizraim.
+Y subió David y sus hombres, y se esparcieron hacia el geshurí y el amaleqí; porque ellas habitadoras la tierra que desde siempre, en tu venir a Shurá y hasta tierra de Egipto.
 
 ### 27:9
 
@@ -2967,11 +2967,11 @@ Y hería David la tierra, y no dejaba vivir hombre ni mujer, y tomaba oveja y ga
 
 ### 27:10
 
-Y dijo Aquis: ¿Adónde se esparcieron hoy? Y dijo David: Sobre Néguev de Yehudá, y sobre Néguev del yerajmeelí, y a Néguev del qení.
+Y dijo Aquis: ¿Adónde se esparcieron hoy? Y dijo David: Sobre Neguev de Judá, y sobre Neguev del yerajmeelí, y a Neguev del qení.
 
 ### 27:11
 
-Y hombre y mujer no dejaba vivir David para traer a Gat, diciendo: No sea que declaren sobre nosotros, diciendo: Así hizo David, y así su juicio, todos los días que habitó en campo de pelishtim.
+Y hombre y mujer no dejaba vivir David para traer a Gat, diciendo: No sea que declaren sobre nosotros, diciendo: Así hizo David, y así su juicio, todos los días que habitó en campo de filisteos.
 
 ### 27:12
 
@@ -2981,7 +2981,7 @@ Y creyó Aquis en David, diciendo: Hedor he hedido en su pueblo en Israel, y ser
 
 ### 28:1
 
-Y fue en los días aquellos, y reunieron pelishtim sus campamentos al ejército, para pelear en Israel; y dijo Aquis a David: Conociendo conocerás que conmigo saldrás en el campamento, tú y tus hombres.
+Y fue en los días aquellos, y reunieron filisteos sus campamentos al ejército, para pelear en Israel; y dijo Aquis a David: Conociendo conocerás que conmigo saldrás en el campamento, tú y tus hombres.
 
 ### 28:2
 
@@ -2989,35 +2989,35 @@ Y dijo David a Aquis: Por eso tú conocerás lo que hará tu siervo. Y dijo Aqui
 
 ### 28:3
 
-Y Shemuel murió, y lo lamentaron todo Israel, y lo sepultaron en ha-Ramá y en su ciudad; y Shaúl había quitado los ovot y a los yidonim de la tierra.
+Y Shemuel murió, y lo lamentaron todo Israel, y lo sepultaron en ha-Ramá y en su ciudad; y Saúl había quitado los ovot y a los yidonim de la tierra.
 
 ### 28:4
 
-Y se reunieron pelishtim, y vinieron, y acamparon en Shunem; y reunió Shaúl a todo Israel, y acamparon en ha-Gilboa.
+Y se reunieron filisteos, y vinieron, y acamparon en Shunem; y reunió Saúl a todo Israel, y acamparon en ha-Gilboa.
 
 ### 28:5
 
-Y vio Shaúl el campamento de pelishtim, y temió, y tembló su corazón mucho.
+Y vio Saúl el campamento de filisteos, y temió, y tembló su corazón mucho.
 
 ### 28:6
 
-Y preguntó Shaúl en Jehová, y no le respondió Jehová, también por sueños, también por los urim, también por los profetas.
+Y preguntó Saúl en Jehová, y no le respondió Jehová, también por sueños, también por los urim, también por los profetas.
 
 ### 28:7
 
-Y dijo Shaúl a sus siervos: Busquen a mí mujer dueña de ov, y andaré a ella y consultaré en ella. Y dijeron sus siervos a él: He aquí mujer dueña de ov en Ein Dor.
+Y dijo Saúl a sus siervos: Busquen a mí mujer dueña de ov, y andaré a ella y consultaré en ella. Y dijeron sus siervos a él: He aquí mujer dueña de ov en Ein Dor.
 
 ### 28:8
 
-Y se disfrazó Shaúl, y vistió vestidos otros, y anduvo él y dos hombres con él, y vinieron a la mujer de noche; y dijo: Adivina, por favor, a mí en el ov, y haz subir a mí a quien diga a ti.
+Y se disfrazó Saúl, y vistió vestidos otros, y anduvo él y dos hombres con él, y vinieron a la mujer de noche; y dijo: Adivina, por favor, a mí en el ov, y haz subir a mí a quien diga a ti.
 
 ### 28:9
 
-Y dijo la mujer a él: He aquí tú conoces lo que hizo Shaúl, que cortó a los ovot y al yidoní de la tierra; ¿y por qué tú te enredas en mi alma para matarme?
+Y dijo la mujer a él: He aquí tú conoces lo que hizo Saúl, que cortó a los ovot y al yidoní de la tierra; ¿y por qué tú te enredas en mi alma para matarme?
 
 ### 28:10
 
-Y juró a ella Shaúl en Jehová, diciendo: Vivo Jehová, no te encontrará iniquidad en el asunto este.
+Y juró a ella Saúl en Jehová, diciendo: Vivo Jehová, no te encontrará iniquidad en el asunto este.
 
 ### 28:11
 
@@ -3025,19 +3025,19 @@ Y dijo la mujer: ¿A quién haré subir a ti? Y dijo: A Shemuel haz subir a mí.
 
 ### 28:12
 
-Y vio la mujer a Shemuel, y gritó en voz grande; y dijo la mujer a Shaúl, diciendo: ¿Por qué me engañaste? ¡Y tú Shaúl!
+Y vio la mujer a Shemuel, y gritó en voz grande; y dijo la mujer a Saúl, diciendo: ¿Por qué me engañaste? ¡Y tú Saúl!
 
 ### 28:13
 
-Y dijo a ella el rey: No temas; porque ¿qué viste? Y dijo la mujer a Shaúl: Dioses vi subiendo de la tierra.
+Y dijo a ella el rey: No temas; porque ¿qué viste? Y dijo la mujer a Saúl: Dioses vi subiendo de la tierra.
 
 ### 28:14
 
-Y dijo a ella: ¿Cuál es su forma? Y dijo: Hombre viejo subiendo, y él envuelto en manto. Y conoció Shaúl que Shemuel él, e inclinó narices a tierra, y se postró.
+Y dijo a ella: ¿Cuál es su forma? Y dijo: Hombre viejo subiendo, y él envuelto en manto. Y conoció Saúl que Shemuel él, e inclinó narices a tierra, y se postró.
 
 ### 28:15
 
-Y dijo Shemuel a Shaúl: ¿Por qué me inquietaste para hacerme subir? Y dijo Shaúl: Estrecho a mí mucho, y pelishtim pelean en mí, y Dios se apartó de sobre mí, y no me respondió aún, también por mano de los profetas, también por sueños; y te llamé para hacerme saber qué haré.
+Y dijo Shemuel a Saúl: ¿Por qué me inquietaste para hacerme subir? Y dijo Saúl: Estrecho a mí mucho, y filisteos pelean en mí, y Dios se apartó de sobre mí, y no me respondió aún, también por mano de los profetas, también por sueños; y te llamé para hacerme saber qué haré.
 
 ### 28:16
 
@@ -3053,15 +3053,15 @@ Como que no oíste en voz de Jehová, y no hiciste ardor de su nariz en Amaleq, 
 
 ### 28:19
 
-Y dará Jehová también a Israel contigo en mano de pelishtim, y mañana tú y tus hijos conmigo; también el campamento de Israel dará Jehová en mano de pelishtim.
+Y dará Jehová también a Israel contigo en mano de filisteos, y mañana tú y tus hijos conmigo; también el campamento de Israel dará Jehová en mano de filisteos.
 
 ### 28:20
 
-Y se apresuró Shaúl, y cayó llenura de su estatura a tierra, y temió mucho de las palabras de Shemuel; también fuerza no había en él, porque no comió pan todo el día y toda la noche.
+Y se apresuró Saúl, y cayó llenura de su estatura a tierra, y temió mucho de las palabras de Shemuel; también fuerza no había en él, porque no comió pan todo el día y toda la noche.
 
 ### 28:21
 
-Y vino la mujer a Shaúl, y vio que turbado mucho; y dijo a él: He aquí oyó tu sierva en tu voz, y puse mi alma en mi palma, y oí tus palabras que hablaste a mí.
+Y vino la mujer a Saúl, y vio que turbado mucho; y dijo a él: He aquí oyó tu sierva en tu voz, y puse mi alma en mi palma, y oí tus palabras que hablaste a mí.
 
 ### 28:22
 
@@ -3077,29 +3077,29 @@ Y a la mujer becerro cebado en la casa, y se apresuró y lo sacrificó; y tomó 
 
 ### 28:25
 
-Y acercó a faces de Shaúl y a faces de sus siervos, y comieron; y se levantaron y anduvieron en la noche aquella.
+Y acercó a faces de Saúl y a faces de sus siervos, y comieron; y se levantaron y anduvieron en la noche aquella.
 
 ## Capítulo 29
 
 ### 29:1
 
-Y reunieron pelishtim todos sus campamentos a Afeqá; e Israel acampando en la fuente que en Yizreel.
+Y reunieron filisteos todos sus campamentos a Afeqá; e Israel acampando en la fuente que en Yizreel.
 
 ### 29:2
 
-Y los sarney de pelishtim pasando a cientas y a miles; y David y sus hombres pasando en la última con Aquis.
+Y los sarney de filisteos pasando a cientas y a miles; y David y sus hombres pasando en la última con Aquis.
 
 ### 29:3
 
-Y dijeron jefes de pelishtim: ¿Qué los ivrim estos? Y dijo Aquis a jefes de pelishtim: ¿No es este David, siervo de Shaúl rey de Israel, que fue conmigo esto días o esto años, y no hallé en él nada desde día de su caer hasta el día este?
+Y dijeron jefes de filisteos: ¿Qué los ivrim estos? Y dijo Aquis a jefes de filisteos: ¿No es este David, siervo de Saúl rey de Israel, que fue conmigo esto días o esto años, y no hallé en él nada desde día de su caer hasta el día este?
 
 ### 29:4
 
-Y se airaron sobre él jefes de pelishtim, y dijeron a él jefes de pelishtim: Haz volver al hombre, y vuelva a su lugar donde lo encargaste allí, y no baje con nosotros en la guerra, y no sea a nosotros por adversario en la guerra; ¿y en qué se hará acepto este a sus señores? ¿No en cabezas de los hombres aquellos?
+Y se airaron sobre él jefes de filisteos, y dijeron a él jefes de filisteos: Haz volver al hombre, y vuelva a su lugar donde lo encargaste allí, y no baje con nosotros en la guerra, y no sea a nosotros por adversario en la guerra; ¿y en qué se hará acepto este a sus señores? ¿No en cabezas de los hombres aquellos?
 
 ### 29:5
 
-¿No es este David, a quien responden en las danzas, diciendo: Hirió Shaúl en sus miles, y David—
+¿No es este David, a quien responden en las danzas, diciendo: Hirió Saúl en sus miles, y David—
 
 ### 29:6
 
@@ -3107,7 +3107,7 @@ Y llamó Aquis a David, y dijo a él: Vivo Jehová, que recto eres tú, y bueno 
 
 ### 29:7
 
-Y ahora vuelve y anda en paz, y no hagas malo en ojos de sarney de pelishtim.
+Y ahora vuelve y anda en paz, y no hagas malo en ojos de sarney de filisteos.
 
 ### 29:8
 
@@ -3115,7 +3115,7 @@ Y dijo David a Aquis: Porque ¿qué hice, y qué hallaste en tu siervo desde el 
 
 ### 29:9
 
-Y respondió Aquis y dijo a David: Sé que bueno eres tú en mis ojos como mensajero de Dios; solo jefes de pelishtim dijeron: No suba con nosotros en la guerra.
+Y respondió Aquis y dijo a David: Sé que bueno eres tú en mis ojos como mensajero de Dios; solo jefes de filisteos dijeron: No suba con nosotros en la guerra.
 
 ### 29:10
 
@@ -3123,13 +3123,13 @@ Y ahora madruga en la mañana, y siervos de tus señores que vinieron contigo; y
 
 ### 29:11
 
-Y madrugó David, él y sus hombres, para andar en la mañana, para volver a tierra de pelishtim; y pelishtim subieron a Yizreel.
+Y madrugó David, él y sus hombres, para andar en la mañana, para volver a tierra de filisteos; y filisteos subieron a Yizreel.
 
 ## Capítulo 30
 
 ### 30:1
 
-Y fue en venir David y sus hombres a Tsiklag en el día el tercero, y amaleqí se esparcieron a Néguev y a Tsiklag, e hirieron a Tsiklag, y la quemaron en el fuego.
+Y fue en venir David y sus hombres a Tsiklag en el día el tercero, y amaleqí se esparcieron a Neguev y a Tsiklag, e hirieron a Tsiklag, y la quemaron en el fuego.
 
 ### 30:2
 
@@ -3181,7 +3181,7 @@ Y dijo a él David: ¿De quién eres, y de dónde esto eres? Y dijo: Joven mizri
 
 ### 30:14
 
-Nosotros nos esparcimos Néguev del keretí, y sobre lo de Yehudá, y sobre Néguev de Calev, y a Tsiklag quemamos en el fuego.
+Nosotros nos esparcimos Neguev del keretí, y sobre lo de Judá, y sobre Neguev de Calev, y a Tsiklag quemamos en el fuego.
 
 ### 30:15
 
@@ -3189,7 +3189,7 @@ Y dijo a él David: ¿Me harás bajar a la banda esta? Y dijo: Jura a mí en Dio
 
 ### 30:16
 
-Y lo hizo bajar, y he aquí esparcidos sobre faces de toda la tierra, comiendo y bebiendo y festejando en todo el botín el grande que tomaron de tierra de pelishtim y de tierra de Yehudá.
+Y lo hizo bajar, y he aquí esparcidos sobre faces de toda la tierra, comiendo y bebiendo y festejando en todo el botín el grande que tomaron de tierra de filisteos y de tierra de Judá.
 
 ### 30:17
 
@@ -3229,11 +3229,11 @@ Y fue desde el día aquel y arriba, y la puso por estatuto y por juicio a Israel
 
 ### 30:26
 
-Y vino David a Tsiklag, y envió del botín a ancianos de Yehudá, a sus compañeros, diciendo: He aquí a ustedes bendición del botín de enemigos de Jehová.
+Y vino David a Tsiklag, y envió del botín a ancianos de Judá, a sus compañeros, diciendo: He aquí a ustedes bendición del botín de enemigos de Jehová.
 
 ### 30:27
 
-A los de Bet El, y a los de Ramot Néguev, y a los de Yatír,
+A los de Bet El, y a los de Ramot Neguev, y a los de Yatír,
 
 ### 30:28
 
@@ -3255,39 +3255,39 @@ y a los de Hevrón, y a todos los lugares donde anduvo allí David, él y sus ho
 
 ### 31:1
 
-Y pelishtim pelean en Israel; y huyeron hombres de Israel de faces de pelishtim, y cayeron heridos en monte de ha-Gilboa.
+Y filisteos pelean en Israel; y huyeron hombres de Israel de faces de filisteos, y cayeron heridos en monte de ha-Gilboa.
 
 ### 31:2
 
-Y pegaron pelishtim a Shaúl y a sus hijos; e hirieron pelishtim a Yehonatán y a Avinadav y a Malki-shúa, hijos de Shaúl.
+Y pegaron filisteos a Saúl y a sus hijos; e hirieron filisteos a Jonatán y a Avinadav y a Malki-shúa, hijos de Saúl.
 
 ### 31:3
 
-Y se agravó la guerra hacia Shaúl, y lo hallaron los flechadores, hombres con el arco; y se retorció mucho de los flechadores.
+Y se agravó la guerra hacia Saúl, y lo hallaron los flechadores, hombres con el arco; y se retorció mucho de los flechadores.
 
 ### 31:4
 
-Y dijo Shaúl a portador de sus utensilios: Saca tu espada y traspásame en ella, no sea que vengan los incircuncisos estos y me traspasen y se burlen en mí. Y no quiso portador de sus utensilios, porque temió mucho; y tomó Shaúl la espada, y cayó sobre ella.
+Y dijo Saúl a portador de sus utensilios: Saca tu espada y traspásame en ella, no sea que vengan los incircuncisos estos y me traspasen y se burlen en mí. Y no quiso portador de sus utensilios, porque temió mucho; y tomó Saúl la espada, y cayó sobre ella.
 
 ### 31:5
 
-Y vio portador de sus utensilios que murió Shaúl, y cayó también él sobre su espada, y murió con él.
+Y vio portador de sus utensilios que murió Saúl, y cayó también él sobre su espada, y murió con él.
 
 ### 31:6
 
-Y murió Shaúl, y tres de sus hijos, y portador de sus utensilios, también todos sus hombres, en el día aquel juntos.
+Y murió Saúl, y tres de sus hijos, y portador de sus utensilios, también todos sus hombres, en el día aquel juntos.
 
 ### 31:7
 
-Y vieron hombres de Israel que en éver del valle y que en éver del Yardén, que huyeron hombres de Israel, y que murieron Shaúl y sus hijos; y dejaron las ciudades y huyeron, y vinieron pelishtim y habitaron en ellas.
+Y vieron hombres de Israel que en éver del valle y que en éver del Yardén, que huyeron hombres de Israel, y que murieron Saúl y sus hijos; y dejaron las ciudades y huyeron, y vinieron filisteos y habitaron en ellas.
 
 ### 31:8
 
-Y fue de mañana, y vinieron pelishtim para despojar a los heridos; y hallaron a Shaúl y a tres de sus hijos caídos en monte de ha-Gilboa.
+Y fue de mañana, y vinieron filisteos para despojar a los heridos; y hallaron a Saúl y a tres de sus hijos caídos en monte de ha-Gilboa.
 
 ### 31:9
 
-Y cortaron su cabeza, y despojaron sus utensilios, y enviaron en tierra de pelishtim alrededor, para anunciar en casa de sus ídolos y al pueblo.
+Y cortaron su cabeza, y despojaron sus utensilios, y enviaron en tierra de filisteos alrededor, para anunciar en casa de sus ídolos y al pueblo.
 
 ### 31:10
 
@@ -3295,11 +3295,11 @@ Y pusieron sus utensilios en casa de Ashtarot, y su cuerpo clavaron en muralla d
 
 ### 31:11
 
-Y oyeron a él habitantes de Yavesh Gilad lo que hicieron pelishtim a Shaúl.
+Y oyeron a él habitantes de Yavesh Galaad lo que hicieron filisteos a Saúl.
 
 ### 31:12
 
-Y se levantaron todo hombre de valor, y anduvieron toda la noche, y tomaron el cuerpo de Shaúl y los cuerpos de sus hijos de muralla de Bet Shan, y vinieron a Yaveshá, y los quemaron allí.
+Y se levantaron todo hombre de valor, y anduvieron toda la noche, y tomaron el cuerpo de Saúl y los cuerpos de sus hijos de muralla de Bet Shan, y vinieron a Yaveshá, y los quemaron allí.
 
 ### 31:13
 

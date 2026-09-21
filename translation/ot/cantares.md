@@ -9,7 +9,7 @@
 
 ### 1:1
 
-Cántico de los cánticos, que es de Shelomó.
+Cántico de los cánticos, que es de Salomón.
 
 ### 1:2
 
@@ -25,7 +25,7 @@ Atráeme detrás de ti, corramos; me trajo el rey a sus cámaras; exultemos y al
 
 ### 1:5
 
-Negra yo y hermosa, hijas de Yerushaláyim, como tiendas de Qedar, como cortinas de Shelomó.
+Negra yo y hermosa, hijas de Jerusalén, como tiendas de Cedar, como cortinas de Salomón.
 
 ### 1:6
 
@@ -61,7 +61,7 @@ Saquito de la mirra mi amado a mí; entre mis pechos pernoctará.
 
 ### 1:14
 
-Racimo de la alheña mi amado a mí, en viñas de Ein Guedí.
+Racimo de la alheña mi amado a mí, en viñas de Engadi.
 
 ### 1:15
 
@@ -80,7 +80,7 @@ Vigas de nuestras casas, cedros; cipreses.
 
 ### 2:1
 
-Yo narciso del Sharón, lirio de los valles.
+Yo narciso del Sarón, lirio de los valles.
 
 ### 2:2
 
@@ -104,7 +104,7 @@ Su izquierda debajo de mi cabeza, y su derecha me abraza.
 
 ### 2:7
 
-He hecho jurar a ustedes, hijas de Yerushaláyim, por las gacelas o por las ciervas del campo, si despiertan ustedes y si despiertan el amor hasta que ella desee.
+He hecho jurar a ustedes, hijas de Jerusalén, por las gacelas o por las ciervas del campo, si despiertan ustedes y si despiertan el amor hasta que ella desee.
 
 ### 2:8
 
@@ -167,7 +167,7 @@ Como poco que pasé de ellos, hasta que hallé al que amó mi alma; lo así, y n
 
 ### 3:5
 
-He hecho jurar a ustedes, hijas de Yerushaláyim, por las gacelas o por las ciervas del campo, si despiertan ustedes y si despiertan el amor hasta que ella desee.
+He hecho jurar a ustedes, hijas de Jerusalén, por las gacelas o por las ciervas del campo, si despiertan ustedes y si despiertan el amor hasta que ella desee.
 
 ### 3:6
 
@@ -175,7 +175,7 @@ He hecho jurar a ustedes, hijas de Yerushaláyim, por las gacelas o por las cier
 
 ### 3:7
 
-He aquí su lecho, el de Shelomó; sesenta valientes alrededor de ella, de los valientes de Israel.
+He aquí su lecho, el de Salomón; sesenta valientes alrededor de ella, de los valientes de Israel.
 
 ### 3:8
 
@@ -183,22 +183,22 @@ Todos ellos asidos de espada, enseñados de guerra; varón su espada sobre su mu
 
 ### 3:9
 
-Un palanquín hizo para él el rey Shelomó, de árboles del Levanón.
+Un palanquín hizo para él el rey Salomón, de árboles del Líbano.
 
 ### 3:10
 
-Sus columnas hizo de plata, su respaldo de oro, su asiento púrpura; su interior embutido de amor, de hijas de Yerushaláyim.
+Sus columnas hizo de plata, su respaldo de oro, su asiento púrpura; su interior embutido de amor, de hijas de Jerusalén.
 
 ### 3:11
 
-Salgan y vean, hijas de Tsiyón, al rey Shelomó, en la corona que le ciñó su madre en día de su boda y en día de alegría de su corazón.
+Salgan y vean, hijas de Sión, al rey Salomón, en la corona que le ciñó su madre en día de su boda y en día de alegría de su corazón.
 
 ## Capítulo 4
 
 
 ### 4:1
 
-He aquí tú hermosa, compañera mía; he aquí tú hermosa; tus ojos palomas desde detrás de tu velo; tu cabello como rebaño de las cabras que se deslizaron desde el monte de Gilad.
+He aquí tú hermosa, compañera mía; he aquí tú hermosa; tus ojos palomas desde detrás de tu velo; tu cabello como rebaño de las cabras que se deslizaron desde el monte de Galaad.
 
 ### 4:2
 
@@ -226,7 +226,7 @@ Toda tú hermosa, compañera mía, y tacha no hay en ti.
 
 ### 4:8
 
-Conmigo desde el Levanón, novia, conmigo desde el Levanón ven; mira desde cabeza de Amaná, desde cabeza de Senir y Jermón, desde moradas de leones, desde montes de leopardos.
+Conmigo desde el Líbano, novia, conmigo desde el Líbano ven; mira desde cabeza de Amaná, desde cabeza de Senir y Hermón, desde moradas de leones, desde montes de leopardos.
 
 ### 4:9
 
@@ -238,7 +238,7 @@ Qué hermosos tus amores, hermana mía, novia; qué buenos tus amores más que e
 
 ### 4:11
 
-Panal gotean tus labios, novia; miel y leche debajo de tu lengua, y olor de tus vestidos como olor del Levanón.
+Panal gotean tus labios, novia; miel y leche debajo de tu lengua, y olor de tus vestidos como olor del Líbano.
 
 ### 4:12
 
@@ -254,7 +254,7 @@ Nardo y azafrán, caña y canela, con todos árboles de incienso; mirra y áloes
 
 ### 4:15
 
-Manantial de huertos, pozo de aguas vivas, y fluentes desde el Levanón.
+Manantial de huertos, pozo de aguas vivas, y fluentes desde el Líbano.
 
 ### 4:16
 
@@ -293,7 +293,7 @@ Me hallaron los guardas que rodean en la ciudad; me golpearon, me hirieron; alza
 
 ### 5:8
 
-Las he conjurado a ustedes, hijas de Yerushaláyim: si hallan a mi amado, ¿qué le dirán? Que enferma de amor soy yo.
+Las he conjurado a ustedes, hijas de Jerusalén: si hallan a mi amado, ¿qué le dirán? Que enferma de amor soy yo.
 
 ### 5:9
 
@@ -317,15 +317,15 @@ Sus mejillas como una era de bálsamo, torres de ungüentos; sus labios, lirios,
 
 ### 5:14
 
-Sus manos, cilindros de oro llenos de tarshish; su vientre, obra de marfil cubierta de zafiros.
+Sus manos, cilindros de oro llenos de tarsis; su vientre, obra de marfil cubierta de zafiros.
 
 ### 5:15
 
-Sus piernas, columnas de mármol fundadas sobre basas de oro fino; su aspecto como el Levanón, escogido como los cedros.
+Sus piernas, columnas de mármol fundadas sobre basas de oro fino; su aspecto como el Líbano, escogido como los cedros.
 
 ### 5:16
 
-Su paladar, dulzuras, y todo él, deseos. Este es mi amado, y este es mi amigo, hijas de Yerushaláyim.
+Su paladar, dulzuras, y todo él, deseos. Este es mi amado, y este es mi amigo, hijas de Jerusalén.
 
 ## Capítulo 6
 
@@ -344,11 +344,11 @@ Yo soy de mi amado, y mi amado es mío, el que apacienta entre los lirios.
 
 ### 6:4
 
-Hermosa eres, compañera mía, como Tirtsá; agraciada como Yerushaláyim; terrible como las abanderadas.
+Hermosa eres, compañera mía, como Tirtsá; agraciada como Jerusalén; terrible como las abanderadas.
 
 ### 6:5
 
-Aparta tus ojos de delante de mí, que ellos me han sobrecogido. Tu cabello, como rebaño de las cabras que se deslizaron desde el Gilad.
+Aparta tus ojos de delante de mí, que ellos me han sobrecogido. Tu cabello, como rebaño de las cabras que se deslizaron desde el Galaad.
 
 ### 6:6
 
@@ -399,7 +399,7 @@ Tus dos pechos, como dos cervatillos, gemelos de gacela.
 
 ### 7:4
 
-Tu cuello, como torre del marfil; tus ojos, estanques en Jeshbón junto a la puerta de Bat-rabbím; tu nariz, como torre del Levanón, que mira faces de Dameseq.
+Tu cuello, como torre del marfil; tus ojos, estanques en Jeshbón junto a la puerta de Bat-rabbím; tu nariz, como torre del Líbano, que mira faces de Damasco.
 
 ### 7:5
 
@@ -454,7 +454,7 @@ Su izquierda debajo de mi cabeza, y su derecha me abraza.
 
 ### 8:4
 
-Las he conjurado a ustedes, hijas de Yerushaláyim: ¿qué despertarán y qué despertarán el amor hasta que desee?
+Las he conjurado a ustedes, hijas de Jerusalén: ¿qué despertarán y qué despertarán el amor hasta que desee?
 
 ### 8:5
 
@@ -482,11 +482,11 @@ Yo soy muro, y mis pechos, como las torres; entonces fui en sus ojos como hallad
 
 ### 8:11
 
-Viña hubo a Shelomó en Baal Hamón; dio la viña a los guardas; un hombre traerá en su fruto mil de plata.
+Viña hubo a Salomón en Baal Hamón; dio la viña a los guardas; un hombre traerá en su fruto mil de plata.
 
 ### 8:12
 
-Mi viña, la mía, delante de mí; el mil para ti, Shelomó, y doscientos para los que guardan su fruto.
+Mi viña, la mía, delante de mí; el mil para ti, Salomón, y doscientos para los que guardan su fruto.
 
 ### 8:13
 

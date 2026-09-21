@@ -51,7 +51,7 @@ Pasen en medio del campamento, y manden al pueblo, diciendo: Preparen para usted
 
 ### 1:12
 
-Y al reuvéní y al gadí y a la mitad de tribu de Menashé dijo Yehoshúa, diciendo:
+Y al reuvéní y al gadí y a la mitad de tribu de Manasés dijo Yehoshúa, diciendo:
 
 ### 1:13
 
@@ -117,7 +117,7 @@ Y dijo a los varones: Supe que dio Jehová a ustedes la tierra, y que cayó el t
 
 ### 2:10
 
-Porque oímos lo que secó Jehová aguas de mar de Suf de faces de ustedes en su salir ustedes desde Mizraim, y lo que hicieron a dos reyes del amorreo que en éver del Yarden, a Sijón y a Og, que ustedes hicieron anatema a ellos.
+Porque oímos lo que secó Jehová aguas de mar de Suf de faces de ustedes en su salir ustedes desde Egipto, y lo que hicieron a dos reyes del amorreo que en éver del Yarden, a Sijón y a Og, que ustedes hicieron anatema a ellos.
 
 ### 2:11
 
@@ -293,7 +293,7 @@ Y fue, cuando se acabó todo el pueblo de pasar, y pasó arca de Jehová y los s
 
 ### 4:12
 
-Y pasaron hijos de Reuvén e hijos de Gad y mitad de tribu de Menashé armados delante de hijos de Israel, como que habló a ellos Moisés.
+Y pasaron hijos de Rubén e hijos de Gad y mitad de tribu de Manasés armados delante de hijos de Israel, como que habló a ellos Moisés.
 
 ### 4:13
 
@@ -359,15 +359,15 @@ Y hizo para él Yehoshúa espadas de pedernales, y circuncidó a hijos de Israel
 
 ### 5:4
 
-Y esta es la palabra que circuncidó Yehoshúa: todo el pueblo el saliente desde Mizraim, los machos, todos hombres de la batalla, murieron en el desierto en el camino en su salir ellos desde Mizraim.
+Y esta es la palabra que circuncidó Yehoshúa: todo el pueblo el saliente desde Egipto, los machos, todos hombres de la batalla, murieron en el desierto en el camino en su salir ellos desde Egipto.
 
 ### 5:5
 
-Porque circuncidados fueron todo el pueblo los salientes; y todo el pueblo los nacidos en el desierto en el camino en su salir ellos desde Mizraim, no circuncidaron.
+Porque circuncidados fueron todo el pueblo los salientes; y todo el pueblo los nacidos en el desierto en el camino en su salir ellos desde Egipto, no circuncidaron.
 
 ### 5:6
 
-Porque cuarenta año anduvieron hijos de Israel en el desierto, hasta acabarse toda la nación, hombres de la batalla los salientes desde Mizraim, que no oyeron en voz de Jehová, a los que juró Jehová a ellos para no hacerles ver la tierra que juró Jehová a sus padres dar a nosotros, tierra manante leche y miel.
+Porque cuarenta año anduvieron hijos de Israel en el desierto, hasta acabarse toda la nación, hombres de la batalla los salientes desde Egipto, que no oyeron en voz de Jehová, a los que juró Jehová a ellos para no hacerles ver la tierra que juró Jehová a sus padres dar a nosotros, tierra manante leche y miel.
 
 ### 5:7
 
@@ -379,7 +379,7 @@ Y fue cuando acabaron toda la nación de ser circuncidada, y se sentaron debajo 
 
 ### 5:9
 
-Y dijo Jehová a Yehoshúa: Hoy rodé la afrenta de Mizraim de sobre ustedes. Y llamó nombre del lugar aquel Gilgal, hasta el día este.
+Y dijo Jehová a Yehoshúa: Hoy rodé la afrenta de Egipto de sobre ustedes. Y llamó nombre del lugar aquel Gilgal, hasta el día este.
 
 ### 5:10
 
@@ -519,7 +519,7 @@ Y fue Jehová con Yehoshúa, y fue su fama en toda la tierra.
 
 ### 7:1
 
-Y prevaricaron hijos de Israel prevaricación en el anatema, y tomó Acán hijo de Carmi hijo de Zavdi hijo de Zéraj, a vara de Yehudá, del anatema; y se inflamó nariz de Jehová en hijos de Israel.
+Y prevaricaron hijos de Israel prevaricación en el anatema, y tomó Acán hijo de Carmi hijo de Zavdi hijo de Zéraj, a vara de Judá, del anatema; y se inflamó nariz de Jehová en hijos de Israel.
 
 ### 7:2
 
@@ -579,15 +579,15 @@ Y será el tomado en el anatema, será quemado en el fuego, a él y a todo lo qu
 
 ### 7:16
 
-Y madrugó Yehoshúa en la mañana, y acercó a Israel a sus tribus, y fue tomada tribu de Yehudá.
+Y madrugó Yehoshúa en la mañana, y acercó a Israel a sus tribus, y fue tomada tribu de Judá.
 
 ### 7:17
 
-Y acercó a clan de Yehudá, y tomó a clan del zarjí; y acercó a clan del zarjí a los varones, y fue tomado Zavdi.
+Y acercó a clan de Judá, y tomó a clan del zarjí; y acercó a clan del zarjí a los varones, y fue tomado Zavdi.
 
 ### 7:18
 
-Y acercó a su casa a los varones, y fue tomado Acán hijo de Carmi hijo de Zavdi hijo de Zéraj, a vara de Yehudá.
+Y acercó a su casa a los varones, y fue tomado Acán hijo de Carmi hijo de Zavdi hijo de Zéraj, a vara de Judá.
 
 ### 7:19
 
@@ -799,7 +799,7 @@ Y dijeron a Yehoshúa: Tus siervos somos nosotros. Y dijo a ellos Yehoshúa: ¿Q
 
 ### 9:9
 
-Y dijeron a él: Desde tierra lejana mucho han venido tus siervos por nombre de Jehová tu Dios, porque oímos su fama, y todo lo que hizo en Mizraim,
+Y dijeron a él: Desde tierra lejana mucho han venido tus siervos por nombre de Jehová tu Dios, porque oímos su fama, y todo lo que hizo en Egipto,
 
 ### 9:10
 
@@ -877,7 +877,7 @@ Y los dio Yehoshúa en el día aquel cortadores de leños y aguadores de agua pa
 
 ### 10:1
 
-Y fue al oír Adoni-Tsédeq, rey de Yerushaláyim, que tomó Yehoshúa al Ai y la hizo anatema, como que hizo a Yerijó y a su rey, así hizo al Ai y a su rey, y que hicieron paz los habitantes de Givón con Israel y fueron en medio de ellos,
+Y fue al oír Adoni-Tsédeq, rey de Jerusalén, que tomó Yehoshúa al Ai y la hizo anatema, como que hizo a Yerijó y a su rey, así hizo al Ai y a su rey, y que hicieron paz los habitantes de Givón con Israel y fueron en medio de ellos,
 
 ### 10:2
 
@@ -885,7 +885,7 @@ y temieron mucho, porque ciudad grande era Givón, como una de ciudades del rein
 
 ### 10:3
 
-Y envió Adoni-Tsédeq, rey de Yerushaláyim, a Hofam, rey de Jebrón, y a Piram, rey de Yarmut, y a Yafia, rey de Lakhish, y a Debir, rey de Eglón, diciendo:
+Y envió Adoni-Tsédeq, rey de Jerusalén, a Hofam, rey de Jebrón, y a Piram, rey de Yarmut, y a Yafia, rey de Lakhish, y a Debir, rey de Eglón, diciendo:
 
 ### 10:4
 
@@ -893,7 +893,7 @@ Suban a mí y ayúdenme, e hiramos a Givón, porque hizo paz con Yehoshúa y con
 
 ### 10:5
 
-Y se reunieron y subieron cinco reyes del amorreo, rey de Yerushaláyim, rey de Jebrón, rey de Yarmut, rey de Lakhish, rey de Eglón, ellos y todos sus campamentos, y acamparon sobre Givón, y pelearon sobre ella.
+Y se reunieron y subieron cinco reyes del amorreo, rey de Jerusalén, rey de Jebrón, rey de Yarmut, rey de Lakhish, rey de Eglón, ellos y todos sus campamentos, y acamparon sobre Givón, y pelearon sobre ella.
 
 ### 10:6
 
@@ -965,7 +965,7 @@ Y dijo Yehoshúa: Abran boca de la cueva, y saquen a mí a cinco los reyes estos
 
 ### 10:23
 
-Y hicieron así, y sacaron a él a cinco los reyes estos desde la cueva: al rey de Yerushaláyim, al rey de Jebrón, al rey de Yarmut, al rey de Lakhish, al rey de Eglón.
+Y hicieron así, y sacaron a él a cinco los reyes estos desde la cueva: al rey de Jerusalén, al rey de Jebrón, al rey de Yarmut, al rey de Lakhish, al rey de Eglón.
 
 ### 10:24
 
@@ -1033,7 +1033,7 @@ Y la tomó, y a su rey y a todas sus ciudades, y los hirieron a boca de espada, 
 
 ### 10:40
 
-Y hirió Yehoshúa a toda la tierra, el monte y el Néguev y la shefelá y las ashedot, y a todos sus reyes; no dejó sobreviviente, y a toda respiración hizo anatema, como que mandó Jehová Dios de Israel.
+Y hirió Yehoshúa a toda la tierra, el monte y el Neguev y la shefelá y las ashedot, y a todos sus reyes; no dejó sobreviviente, y a toda respiración hizo anatema, como que mandó Jehová Dios de Israel.
 
 ### 10:41
 
@@ -1079,7 +1079,7 @@ Y vino Yehoshúa y todo pueblo de la guerra con él sobre ellos sobre aguas de M
 
 ### 11:8
 
-Y los dio Jehová en mano de Israel, y los hirieron, y los persiguieron hasta Tsidón la grande, y hasta Misrefot Mayim, y hasta biqá de Mitspeh hacia oriente, y los hirieron hasta no dejarles a ellos sobreviviente.
+Y los dio Jehová en mano de Israel, y los hirieron, y los persiguieron hasta Sidón la grande, y hasta Misrefot Mayim, y hasta biqá de Mitspeh hacia oriente, y los hirieron hasta no dejarles a ellos sobreviviente.
 
 ### 11:9
 
@@ -1111,7 +1111,7 @@ Como que mandó Jehová a Moisés su siervo, así mandó Moisés a Yehoshúa, y 
 
 ### 11:16
 
-Y tomó Yehoshúa a toda la tierra esta: el monte, y a todo el Néguev, y a toda tierra de ha-Gosén, y a la shefelá, y a la arabá, y a monte de Israel y su shefelá,
+Y tomó Yehoshúa a toda la tierra esta: el monte, y a todo el Neguev, y a toda tierra de ha-Gosén, y a la shefelá, y a la arabá, y a monte de Israel y su shefelá,
 
 ### 11:17
 
@@ -1131,7 +1131,7 @@ Porque de parte de Jehová fue para fortalecer su corazón a encontrar la guerra
 
 ### 11:21
 
-Y vino Yehoshúa en el tiempo aquel, y cortó a los anaquim desde el monte, desde Jebrón, desde Debir, desde Anav, y desde todo monte de Yehudá y desde todo monte de Israel; con sus ciudades los hizo anatema Yehoshúa.
+Y vino Yehoshúa en el tiempo aquel, y cortó a los anaquim desde el monte, desde Jebrón, desde Debir, desde Anav, y desde todo monte de Judá y desde todo monte de Israel; con sus ciudades los hizo anatema Yehoshúa.
 
 ### 11:22
 
@@ -1149,7 +1149,7 @@ Y estos son los reyes de la tierra que hirieron hijos de Israel, y poseyeron su 
 
 ### 12:2
 
-Sihón, rey del amorreo, el que habitaba en Jeshbón, dominando desde Aroer que sobre labio de torrente Arnón, y medio del torrente, y mitad del Gilad, y hasta Yaboq el torrente, límite de hijos de Amón,
+Sihón, rey del amorreo, el que habitaba en Jeshbón, dominando desde Aroer que sobre labio de torrente Arnón, y medio del torrente, y mitad del Galaad, y hasta Yaboq el torrente, límite de hijos de Amón,
 
 ### 12:3
 
@@ -1157,15 +1157,15 @@ y la arabá hasta mar de Kinrot hacia oriente, y hasta mar de la arabá, mar de 
 
 ### 12:4
 
-Y límite de Og, rey del Basán, del resto de los refaím, el que habitaba en Ashtarot y en Edrei,
+Y límite de Og, rey del Basán, del resto de los refaim, el que habitaba en Ashtarot y en Edrei,
 
 ### 12:5
 
-y dominando en monte Hermón y en Salcá y en todo el Basán, hasta límite del gueshurí y del maacatí, y mitad del Gilad, límite de Sihón, rey de Jeshbón.
+y dominando en monte Hermón y en Salcá y en todo el Basán, hasta límite del gueshurí y del maacatí, y mitad del Galaad, límite de Sihón, rey de Jeshbón.
 
 ### 12:6
 
-Moisés, siervo de Jehová, e hijos de Israel los hirieron; y la dio Moisés, siervo de Jehová, a posesión al reuvéní y al gadí y a la mitad de tribu de Menashé.
+Moisés, siervo de Jehová, e hijos de Israel los hirieron; y la dio Moisés, siervo de Jehová, a posesión al reuvéní y al gadí y a la mitad de tribu de Manasés.
 
 ### 12:7
 
@@ -1173,7 +1173,7 @@ Y estos son los reyes de la tierra que hirió Yehoshúa e hijos de Israel en év
 
 ### 12:8
 
-en el monte y en la shefelá y en la arabá y en las ashedot y en el desierto y en el Néguev: el hitita, el amorreo y el cananeo, el ferezeo, el heveo y el jebuseo:
+en el monte y en la shefelá y en la arabá y en las ashedot y en el desierto y en el Neguev: el hitita, el amorreo y el cananeo, el ferezeo, el heveo y el jebuseo:
 
 ### 12:9
 
@@ -1181,7 +1181,7 @@ rey de Yerijó, uno; rey del Ai que al lado de Bet El, uno;
 
 ### 12:10
 
-rey de Yerushaláyim, uno; rey de Jebrón, uno;
+rey de Jerusalén, uno; rey de Jebrón, uno;
 
 ### 12:11
 
@@ -1247,11 +1247,11 @@ Y Yehoshúa envejeció, vino en los días; y dijo Jehová a él: Tú envejeciste
 
 ### 13:2
 
-Esta la tierra la restante: todos los circuitos de los pelishtim y todo el gueshurí;
+Esta la tierra la restante: todos los circuitos de los filisteos y todo el gueshurí;
 
 ### 13:3
 
-desde el Shijor que sobre faces de Mizraim, y hasta límite de Ecrón hacia norte; al cananeo es contada; cinco señores de pelishtim: el azatí y el ashdodí, el ashqueloní, el guití y el ecroní, y los Avim;
+desde el Shijor que sobre faces de Egipto, y hasta límite de Ecrón hacia norte; al cananeo es contada; cinco señores de filisteos: el azatí y el ashdodí, el ashqueloní, el guití y el ecroní, y los Avim;
 
 ### 13:4
 
@@ -1267,7 +1267,7 @@ todos los habitantes del monte desde el Lebanón hasta Misrefot Mayim, todos tsi
 
 ### 13:7
 
-Y ahora, reparte la tierra esta en heredad a los nueve de las tribus y mitad de la tribu de Menashé.
+Y ahora, reparte la tierra esta en heredad a los nueve de las tribus y mitad de la tribu de Manasés.
 
 ### 13:8
 
@@ -1283,11 +1283,11 @@ y todas ciudades de Sihón, rey del amorreo, que reinó en Jeshbón, hasta lími
 
 ### 13:11
 
-y el Gilad y límite del gueshurí y del maacatí, y todo monte Hermón, y todo el Basán hasta Salcá;
+y el Galaad y límite del gueshurí y del maacatí, y todo monte Hermón, y todo el Basán hasta Salcá;
 
 ### 13:12
 
-todo reino de Og en el Basán, que reinó en Ashtarot y en Edrei; él quedó del resto de los refaím; y los hirió Moisés y los desalojó.
+todo reino de Og en el Basán, que reinó en Ashtarot y en Edrei; él quedó del resto de los refaim; y los hirió Moisés y los desalojó.
 
 ### 13:13
 
@@ -1299,7 +1299,7 @@ Solo a tribu del levita no dio heredad; ofrendas de fuego de Jehová Dios de Isr
 
 ### 13:15
 
-Y dio Moisés a vara de hijos de Reuvén según sus clanes.
+Y dio Moisés a vara de hijos de Rubén según sus clanes.
 
 ### 13:16
 
@@ -1331,7 +1331,7 @@ Y a Bilam hijo de Beor, el adivinante, mataron hijos de Israel a espada, hacia s
 
 ### 13:23
 
-Y fue límite de hijos de Reuvén el Jordán y límite. Esta heredad de hijos de Reuvén según sus clanes: las ciudades y sus aldeas.
+Y fue límite de hijos de Rubén el Jordán y límite. Esta heredad de hijos de Rubén según sus clanes: las ciudades y sus aldeas.
 
 ### 13:24
 
@@ -1339,7 +1339,7 @@ Y dio Moisés a vara de Gad, a hijos de Gad según sus clanes.
 
 ### 13:25
 
-Y fue a ellos el límite: Yazér y todas ciudades del Gilad, y mitad de tierra de hijos de Amón, hasta Aroer que sobre faces de Rabá;
+Y fue a ellos el límite: Yazér y todas ciudades del Galaad, y mitad de tierra de hijos de Amón, hasta Aroer que sobre faces de Rabá;
 
 ### 13:26
 
@@ -1355,7 +1355,7 @@ Esta heredad de hijos de Gad según sus clanes: las ciudades y sus aldeas.
 
 ### 13:29
 
-Y dio Moisés a la mitad de tribu de Menashé; y fue a la mitad de vara de hijos de Menashé según sus clanes.
+Y dio Moisés a la mitad de tribu de Manasés; y fue a la mitad de vara de hijos de Manasés según sus clanes.
 
 ### 13:30
 
@@ -1363,7 +1363,7 @@ Y fue su límite desde Majanáyim: todo el Basán, todo reino de Og, rey del Bas
 
 ### 13:31
 
-y mitad del Gilad, y Ashtarot y Edrei, ciudades de reino de Og en el Basán, a hijos de Makir hijo de Menashé, a la mitad de hijos de Makir según sus clanes.
+y mitad del Galaad, y Ashtarot y Edrei, ciudades de reino de Og en el Basán, a hijos de Makir hijo de Manasés, a la mitad de hijos de Makir según sus clanes.
 
 ### 13:32
 
@@ -1389,7 +1389,7 @@ Porque dio Moisés heredad de las dos varas y mitad de la vara desde éver al Jo
 
 ### 14:4
 
-Porque fueron hijos de Yosef dos varas: Menashé y Efráyim; y no dieron porción a los levitas en la tierra, sino ciudades para habitar, y sus ejidos para su ganado y para su posesión.
+Porque fueron hijos de José dos varas: Manasés y Efraín; y no dieron porción a los levitas en la tierra, sino ciudades para habitar, y sus ejidos para su ganado y para su posesión.
 
 ### 14:5
 
@@ -1397,7 +1397,7 @@ Como que mandó Jehová a Moisés, así hicieron hijos de Israel, y repartieron 
 
 ### 14:6
 
-Y se acercaron hijos de Yehudá a Yehoshúa en el Gilgal, y dijo a él Calev hijo de Yefuné el quenizí: Tú conoces la palabra que habló Jehová a Moisés, hombre de Dios, acerca de mí y acerca de ti en Qadesh Barnéa.
+Y se acercaron hijos de Judá a Yehoshúa en el Gilgal, y dijo a él Calev hijo de Yefuné el quenizí: Tú conoces la palabra que habló Jehová a Moisés, hombre de Dios, acerca de mí y acerca de ti en Qadesh Barnéa.
 
 ### 14:7
 
@@ -1439,11 +1439,11 @@ Y nombre de Hevrón antes: Qiryat Arbá; el hombre el grande en los anaquim él.
 
 ### 15:1
 
-Y fue la suerte a vara de hijos de Yehudá según sus clanes, hacia límite de Edom, desierto de Tzin hacia el Néguev, desde extremo del sur.
+Y fue la suerte a vara de hijos de Judá según sus clanes, hacia límite de Edom, desierto de Tzin hacia el Neguev, desde extremo del sur.
 
 ### 15:2
 
-Y fue a ellos límite del Néguev desde extremo de mar de la sal, desde la lengua la que mira hacia el Néguev.
+Y fue a ellos límite del Neguev desde extremo de mar de la sal, desde la lengua la que mira hacia el Neguev.
 
 ### 15:3
 
@@ -1451,7 +1451,7 @@ Y salió hacia el sur a Maalé Aqrabim, y pasó a Tzin, y subió desde el sur a 
 
 ### 15:4
 
-y pasó a Atsmón, y salió a torrente de Mizraim; y salidas del límite hacia el mar. Este será a ustedes límite del Néguev.
+y pasó a Atsmón, y salió a torrente de Egipto; y salidas del límite hacia el mar. Este será a ustedes límite del Neguev.
 
 ### 15:5
 
@@ -1459,7 +1459,7 @@ Y límite hacia oriente: mar de la sal hasta extremo del Jordán. Y límite haci
 
 ### 15:6
 
-Y subió el límite a Bet Joglá, y pasó desde el norte a Bet ha-Arabá, y subió el límite a Piedra de Bohan hijo de Reuvén.
+Y subió el límite a Bet Joglá, y pasó desde el norte a Bet ha-Arabá, y subió el límite a Piedra de Bohan hijo de Rubén.
 
 ### 15:7
 
@@ -1467,7 +1467,7 @@ Y subió el límite a Devir desde valle de Acor, y hacia el norte mirando al Gil
 
 ### 15:8
 
-Y subió el límite por valle de Ben Hinom al hombro del jebuseo desde el sur; ella Yerushaláim; y subió el límite a cabeza del monte que sobre faces de valle de Hinom hacia el mar, que en extremo de valle de Refaím hacia el norte.
+Y subió el límite por valle de Ben Hinom al hombro del jebuseo desde el sur; ella Yerushaláim; y subió el límite a cabeza del monte que sobre faces de valle de Hinom hacia el mar, que en extremo de valle de Refaim hacia el norte.
 
 ### 15:9
 
@@ -1483,11 +1483,11 @@ Y salió el límite al hombro de Ecrón hacia el norte; y se trazó el límite a
 
 ### 15:12
 
-Y límite del mar: el mar el grande y límite. Este límite de hijos de Yehudá alrededor según sus clanes.
+Y límite del mar: el mar el grande y límite. Este límite de hijos de Judá alrededor según sus clanes.
 
 ### 15:13
 
-Y a Calev hijo de Yefuné dio porción en medio de hijos de Yehudá según boca de Jehová a Yehoshúa: Qiryat Arbá, padre del Anaq; ella Hevrón.
+Y a Calev hijo de Yefuné dio porción en medio de hijos de Judá según boca de Jehová a Yehoshúa: Qiryat Arbá, padre del Anaq; ella Hevrón.
 
 ### 15:14
 
@@ -1511,15 +1511,15 @@ Y fue en su venir ella, y lo impulsó a pedir de con su padre campo; y se bajó 
 
 ### 15:19
 
-Y dijo: Dame bendición, porque tierra del Néguev me diste, y dame pozos de aguas. Y le dio los pozos superiores y los pozos inferiores.
+Y dijo: Dame bendición, porque tierra del Neguev me diste, y dame pozos de aguas. Y le dio los pozos superiores y los pozos inferiores.
 
 ### 15:20
 
-Esta heredad de vara de hijos de Yehudá según sus clanes.
+Esta heredad de vara de hijos de Judá según sus clanes.
 
 ### 15:21
 
-Y fueron las ciudades desde extremo a vara de hijos de Yehudá hacia límite de Edom en el Néguev: Qavtseel y Éder y Yagur,
+Y fueron las ciudades desde extremo a vara de hijos de Judá hacia límite de Edom en el Neguev: Qavtseel y Éder y Yagur,
 
 ### 15:22
 
@@ -1547,7 +1547,7 @@ y Hatsar Gadá y Jeshmon y Bet Pélet,
 
 ### 15:28
 
-y Hatsar Shual y Beer Sheva y Bizyotyá,
+y Hatsar Shual y Beerseba y Bizyotyá,
 
 ### 15:29
 
@@ -1623,7 +1623,7 @@ desde Ecrón y hacia el mar, todo lo que sobre mano de Ashdod, y sus aldeas;
 
 ### 15:47
 
-Ashdod, sus hijas y sus aldeas; Azá, sus hijas y sus aldeas, hasta torrente de Mizraim, y el mar y límite.
+Ashdod, sus hijas y sus aldeas; Azá, sus hijas y sus aldeas, hasta torrente de Egipto, y el mar y límite.
 
 ### 15:48
 
@@ -1643,7 +1643,7 @@ y Goshén y Jolón y Guiló; ciudades once, y sus aldeas.
 
 ### 15:52
 
-Arav y Rumá y Eshan,
+Arabia y Rumá y Eshan,
 
 ### 15:53
 
@@ -1683,17 +1683,17 @@ En el desierto: Bet ha-Arabá, Midín y Secacá,
 
 ### 15:62
 
-y ha-Nivshán y Ir ha-Mélaj y Ein Guedí; ciudades seis, y sus aldeas.
+y ha-Nivshán y Ir ha-Mélaj y Engadi; ciudades seis, y sus aldeas.
 
 ### 15:63
 
-Y al jebuseo, habitantes de Yerushaláim, no hijos de Yehudá para desalojarlos; y habitó el jebuseo con hijos de Yehudá en Yerushaláim hasta el día este.
+Y al jebuseo, habitantes de Yerushaláim, no hijos de Judá para desalojarlos; y habitó el jebuseo con hijos de Judá en Yerushaláim hasta el día este.
 
 ## Capítulo 16
 
 ### 16:1
 
-Y salió la suerte a hijos de Yosef desde el Jordán de Yerijó, a aguas de Yerijó hacia oriente, el desierto subiendo desde Yerijó en el monte a Bet El.
+Y salió la suerte a hijos de José desde el Jordán de Yerijó, a aguas de Yerijó hacia oriente, el desierto subiendo desde Yerijó en el monte a Bet El.
 
 ### 16:2
 
@@ -1705,11 +1705,11 @@ Y bajó hacia el mar a límite del yafléti, hasta límite de Bet Jorón el infe
 
 ### 16:4
 
-Y heredaron hijos de Yosef: Menashé y Efráyim.
+Y heredaron hijos de José: Manasés y Efraín.
 
 ### 16:5
 
-Y fue límite de hijos de Efráyim según sus clanes; y fue límite de su heredad hacia oriente: Atrot Adar hasta Bet Jorón el superior.
+Y fue límite de hijos de Efraín según sus clanes; y fue límite de su heredad hacia oriente: Atrot Adar hasta Bet Jorón el superior.
 
 ### 16:6
 
@@ -1721,29 +1721,29 @@ Y bajó desde Yanója a Atarot y Naaratá, y topó en Yerijó, y salió al Jord�
 
 ### 16:8
 
-Desde Tapúaj irá el límite hacia el mar, torrente Qaná, y fueron sus salidas hacia el mar. Esta heredad de vara de hijos de Efráyim según sus clanes.
+Desde Tapúaj irá el límite hacia el mar, torrente Qaná, y fueron sus salidas hacia el mar. Esta heredad de vara de hijos de Efraín según sus clanes.
 
 ### 16:9
 
-Y las ciudades las apartadas a hijos de Efráyim en medio de heredad de hijos de Menashé: todas las ciudades y sus aldeas.
+Y las ciudades las apartadas a hijos de Efraín en medio de heredad de hijos de Manasés: todas las ciudades y sus aldeas.
 
 ### 16:10
 
-Y no desalojaron al cananeo el habitante en Guézer; y habitó el cananeo en medio de Efráyim hasta el día este, y fue a tributo sirviente.
+Y no desalojaron al cananeo el habitante en Guézer; y habitó el cananeo en medio de Efraín hasta el día este, y fue a tributo sirviente.
 
 ## Capítulo 17
 
 ### 17:1
 
-Y fue la suerte a vara de Menashé, porque él era primogénito de Yosef: a Makir, primogénito de Menashé, padre del Gilad, porque él era hombre de guerra, y fue a él el Gilad y el Basán.
+Y fue la suerte a vara de Manasés, porque él era primogénito de José: a Makir, primogénito de Manasés, padre del Galaad, porque él era hombre de guerra, y fue a él el Galaad y el Basán.
 
 ### 17:2
 
-Y fue a hijos de Menashé los restantes según sus clanes: a hijos de Aviézer y a hijos de Jéleq y a hijos de Asriel y a hijos de Shejem y a hijos de Jéfer y a hijos de Shemidá; estos hijos de Menashé hijo de Yosef, los varones, según sus clanes.
+Y fue a hijos de Manasés los restantes según sus clanes: a hijos de Aviézer y a hijos de Jéleq y a hijos de Asriel y a hijos de Shejem y a hijos de Jéfer y a hijos de Shemidá; estos hijos de Manasés hijo de José, los varones, según sus clanes.
 
 ### 17:3
 
-Y a Tselofjad hijo de Jéfer hijo de Gilad hijo de Makir hijo de Menashé no hubo a él hijos, sino hijas; y estos nombres de sus hijas: Majlá y Noá, Joglá, Milká y Tirtsá.
+Y a Tselofjad hijo de Jéfer hijo de Galaad hijo de Makir hijo de Manasés no hubo a él hijos, sino hijas; y estos nombres de sus hijas: Majlá y Noá, Joglá, Milká y Tirtsá.
 
 ### 17:4
 
@@ -1751,35 +1751,35 @@ Y se acercaron a faces de Elazar el sacerdote y a faces de Yehoshúa hijo de Nun
 
 ### 17:5
 
-Y cayeron cordeles de Menashé diez, aparte de tierra del Gilad y el Basán que desde éver al Jordán.
+Y cayeron cordeles de Manasés diez, aparte de tierra del Galaad y el Basán que desde éver al Jordán.
 
 ### 17:6
 
-Porque hijas de Menashé heredaron heredad en medio de sus hijos, y tierra del Gilad fue a hijos de Menashé los restantes.
+Porque hijas de Manasés heredaron heredad en medio de sus hijos, y tierra del Galaad fue a hijos de Manasés los restantes.
 
 ### 17:7
 
-Y fue límite de Menashé desde Asher: ha-Micmetat que sobre faces de Shejem; y anduvo el límite hacia la derecha, a habitantes de Ein Tapúaj.
+Y fue límite de Manasés desde Aser: ha-Micmetat que sobre faces de Shejem; y anduvo el límite hacia la derecha, a habitantes de Ein Tapúaj.
 
 ### 17:8
 
-A Menashé fue tierra de Tapúaj, y Tapúaj al límite de Menashé a hijos de Efráyim.
+A Manasés fue tierra de Tapúaj, y Tapúaj al límite de Manasés a hijos de Efraín.
 
 ### 17:9
 
-Y bajó el límite al torrente Qaná hacia el Néguev del torrente; ciudades estas a Efráyim en medio de ciudades de Menashé; y límite de Menashé desde el norte al torrente; y fueron sus salidas hacia el mar.
+Y bajó el límite al torrente Qaná hacia el Neguev del torrente; ciudades estas a Efraín en medio de ciudades de Manasés; y límite de Manasés desde el norte al torrente; y fueron sus salidas hacia el mar.
 
 ### 17:10
 
-Hacia el Néguev a Efráyim, y hacia el norte a Menashé; y fue el mar su límite; y en Asher topaban desde el norte, y en Yisasjar desde oriente.
+Hacia el Neguev a Efraín, y hacia el norte a Manasés; y fue el mar su límite; y en Aser topaban desde el norte, y en Isacar desde oriente.
 
 ### 17:11
 
-Y fue a Menashé en Yisasjar y en Asher: Bet Sheán y sus hijas, y Yivleam y sus hijas, y a habitantes de Dor y sus hijas, y habitantes de Ein Dor y sus hijas, y habitantes de Taanaj y sus hijas, y habitantes de Meguidó y sus hijas: tres de las naphet.
+Y fue a Manasés en Isacar y en Aser: Bet Sheán y sus hijas, y Yivleam y sus hijas, y a habitantes de Dor y sus hijas, y habitantes de Ein Dor y sus hijas, y habitantes de Taanaj y sus hijas, y habitantes de Meguidó y sus hijas: tres de las naphet.
 
 ### 17:12
 
-Y no pudieron hijos de Menashé desalojar las ciudades estas, y se determinó el cananeo a habitar en la tierra esta.
+Y no pudieron hijos de Manasés desalojar las ciudades estas, y se determinó el cananeo a habitar en la tierra esta.
 
 ### 17:13
 
@@ -1787,19 +1787,19 @@ Y fue cuando se hicieron fuertes hijos de Israel, y pusieron al cananeo a tribut
 
 ### 17:14
 
-Y hablaron hijos de Yosef con Yehoshúa, diciendo: ¿Por qué diste a mí heredad, suerte una y cordel uno, y yo pueblo abundante, hasta que hasta así me bendijo Jehová?
+Y hablaron hijos de José con Yehoshúa, diciendo: ¿Por qué diste a mí heredad, suerte una y cordel uno, y yo pueblo abundante, hasta que hasta así me bendijo Jehová?
 
 ### 17:15
 
-Y les dijo Yehoshúa: Si pueblo abundante eres tú, sube para ti al bosque, y despeja para ti allí en tierra del perizí y los refaím, porque estrecho es para ti monte de Efráyim.
+Y les dijo Yehoshúa: Si pueblo abundante eres tú, sube para ti al bosque, y despeja para ti allí en tierra del perizí y los refaim, porque estrecho es para ti monte de Efraín.
 
 ### 17:16
 
-Y dijeron hijos de Yosef: No se halla para nosotros el monte, y carro de hierro en todo el cananeo el habitante en tierra del valle, para el que en Bet Sheán y sus hijas, y para el que en valle de Yizreel.
+Y dijeron hijos de José: No se halla para nosotros el monte, y carro de hierro en todo el cananeo el habitante en tierra del valle, para el que en Bet Sheán y sus hijas, y para el que en valle de Yizreel.
 
 ### 17:17
 
-Y dijo Yehoshúa a casa de Yosef, a Efráyim y a Menashé, diciendo: Pueblo abundante eres tú, y fuerza grande a ti; no será a ti suerte una.
+Y dijo Yehoshúa a casa de José, a Efraín y a Manasés, diciendo: Pueblo abundante eres tú, y fuerza grande a ti; no será a ti suerte una.
 
 ### 17:18
 
@@ -1825,7 +1825,7 @@ Den para ustedes tres hombres por la tribu, y los enviaré, y se levantarán y a
 
 ### 18:5
 
-Y se repartirán ella a siete porciones; Yehudá se quedará sobre su límite desde el Néguev, y casa de Yosef se quedarán sobre su límite desde el norte.
+Y se repartirán ella a siete porciones; Judá se quedará sobre su límite desde el Neguev, y casa de José se quedarán sobre su límite desde el norte.
 
 ### 18:6
 
@@ -1833,7 +1833,7 @@ Y ustedes escribirán la tierra siete porciones, y la traerán a mí acá, y ech
 
 ### 18:7
 
-Porque no hay porción a los levitas en medio de ustedes, porque sacerdocio de Jehová su heredad; y Gad y Reuvén y mitad de tribu del Menashé tomaron su heredad desde éver al Jordán hacia oriente, que dio a ellos Moisés, siervo de Jehová.
+Porque no hay porción a los levitas en medio de ustedes, porque sacerdocio de Jehová su heredad; y Gad y Rubén y mitad de tribu del Manasés tomaron su heredad desde éver al Jordán hacia oriente, que dio a ellos Moisés, siervo de Jehová.
 
 ### 18:8
 
@@ -1849,7 +1849,7 @@ Y les echó Yehoshúa suerte en Shiló a faces de Jehová, y repartió allí Yeh
 
 ### 18:11
 
-Y subió la suerte de vara de hijos de Binyamín según sus clanes, y salió límite de su suerte entre hijos de Yehudá y entre hijos de Yosef.
+Y subió la suerte de vara de hijos de Benjamín según sus clanes, y salió límite de su suerte entre hijos de Judá y entre hijos de José.
 
 ### 18:12
 
@@ -1857,23 +1857,23 @@ Y fue a ellos el límite a lado del norte desde el Jordán; y subió el límite 
 
 ### 18:13
 
-Y pasó desde allí el límite a Luz, al hombro de Luz hacia el Néguev; ella Bet El; y bajó el límite a Atrot Adar sobre el monte que desde el Néguev a Bet Jorón el inferior.
+Y pasó desde allí el límite a Luz, al hombro de Luz hacia el Neguev; ella Bet El; y bajó el límite a Atrot Adar sobre el monte que desde el Neguev a Bet Jorón el inferior.
 
 ### 18:14
 
-Y se trazó el límite y rodeó a lado del mar hacia el Néguev desde el monte que sobre faces de Bet Jorón hacia el Néguev; y sus salidas a Qiryat Baal; ella Qiryat Yearim, ciudad de hijos de Yehudá. Este lado del mar.
+Y se trazó el límite y rodeó a lado del mar hacia el Neguev desde el monte que sobre faces de Bet Jorón hacia el Neguev; y sus salidas a Qiryat Baal; ella Qiryat Yearim, ciudad de hijos de Judá. Este lado del mar.
 
 ### 18:15
 
-Y lado del Néguev desde extremo de Qiryat Yearim; y salió el límite hacia el mar, y salió a manantial de aguas de Neftóaj.
+Y lado del Neguev desde extremo de Qiryat Yearim; y salió el límite hacia el mar, y salió a manantial de aguas de Neftóaj.
 
 ### 18:16
 
-Y bajó el límite a extremo del monte que sobre faces de valle de Ben Hinom, que en valle de Refaím hacia el norte; y bajó valle de Hinom al hombro del jebuseo hacia el Néguev, y bajó a Ein Roguel.
+Y bajó el límite a extremo del monte que sobre faces de valle de Ben Hinom, que en valle de Refaim hacia el norte; y bajó valle de Hinom al hombro del jebuseo hacia el Neguev, y bajó a Ein Roguel.
 
 ### 18:17
 
-Y se trazó desde el norte, y salió a Ein Shémesh, y salió a Gelilot que enfrente de Maalé Adumim, y bajó a Piedra de Bohan hijo de Reuvén.
+Y se trazó desde el norte, y salió a Ein Shémesh, y salió a Gelilot que enfrente de Maalé Adumim, y bajó a Piedra de Bohan hijo de Rubén.
 
 ### 18:18
 
@@ -1881,15 +1881,15 @@ Y pasó al hombro enfrente de la Arabá hacia el norte, y bajó a la Arabá.
 
 ### 18:19
 
-Y pasó el límite al hombro de Bet Joglá hacia el norte; el límite a lengua de mar de la sal hacia el norte, a extremo del Jordán hacia el Néguev. Este límite del Néguev.
+Y pasó el límite al hombro de Bet Joglá hacia el norte; el límite a lengua de mar de la sal hacia el norte, a extremo del Jordán hacia el Neguev. Este límite del Neguev.
 
 ### 18:20
 
-Y el Jordán lo limita a lado de oriente. Esta heredad de hijos de Binyamín a sus límites alrededor según sus clanes.
+Y el Jordán lo limita a lado de oriente. Esta heredad de hijos de Benjamín a sus límites alrededor según sus clanes.
 
 ### 18:21
 
-Y fueron las ciudades a vara de hijos de Binyamín según sus clanes: Yerijó y Bet Joglá y Emeq Qetsits,
+Y fueron las ciudades a vara de hijos de Benjamín según sus clanes: Yerijó y Bet Joglá y Emeq Qetsits,
 
 ### 18:22
 
@@ -1917,17 +1917,17 @@ y Reqem y Yirpeel y Taralá,
 
 ### 18:28
 
-y Tsela, ha-Élef, y el jebuseo; ella Yerushaláim; Givat Qiryat; ciudades catorce, y sus aldeas. Esta heredad de hijos de Binyamín según sus clanes.
+y Tsela, ha-Élef, y el jebuseo; ella Yerushaláim; Givat Qiryat; ciudades catorce, y sus aldeas. Esta heredad de hijos de Benjamín según sus clanes.
 
 ## Capítulo 19
 
 ### 19:1
 
-Y salió la suerte segunda a Shimón, a la tribu de hijos de Shimón a sus familias; y fue su heredad en medio de la heredad de hijos de Yehudá.
+Y salió la suerte segunda a Simeón, a la tribu de hijos de Simeón a sus familias; y fue su heredad en medio de la heredad de hijos de Judá.
 
 ### 19:2
 
-Y fue a ellos en su heredad: Beer Sheva y Sheva y Moladá,
+Y fue a ellos en su heredad: Beerseba y Sheva y Moladá,
 
 ### 19:3
 
@@ -1951,15 +1951,15 @@ Ayin, Rimón y Éter y Ashán: ciudades cuatro, y sus aldeas;
 
 ### 19:8
 
-y todas las aldeas que alrededor de estas ciudades, hasta Baalat Beer, Ramat Néguev. Esta es la heredad de la tribu de hijos de Shimón a sus familias.
+y todas las aldeas que alrededor de estas ciudades, hasta Baalat Beer, Ramat Neguev. Esta es la heredad de la tribu de hijos de Simeón a sus familias.
 
 ### 19:9
 
-De la porción de hijos de Yehudá, la heredad de hijos de Shimón; porque fue la porción de hijos de Yehudá abundante de ellos, y heredaron hijos de Shimón en medio de su heredad.
+De la porción de hijos de Judá, la heredad de hijos de Simeón; porque fue la porción de hijos de Judá abundante de ellos, y heredaron hijos de Simeón en medio de su heredad.
 
 ### 19:10
 
-Y subió la suerte tercera a hijos de Zevulún a sus familias; y fue la frontera de su heredad hasta Sarid.
+Y subió la suerte tercera a hijos de Zabulón a sus familias; y fue la frontera de su heredad hasta Sarid.
 
 ### 19:11
 
@@ -1983,11 +1983,11 @@ Y Katat y Nahalal y Shimrón y Yidalá y Bet Léjem: ciudades doce, y sus aldeas
 
 ### 19:16
 
-Esta es la heredad de hijos de Zevulún a sus familias, estas ciudades y sus aldeas.
+Esta es la heredad de hijos de Zabulón a sus familias, estas ciudades y sus aldeas.
 
 ### 19:17
 
-A Yisasjar salió la suerte cuarta, a hijos de Yisasjar a sus familias.
+A Isacar salió la suerte cuarta, a hijos de Isacar a sus familias.
 
 ### 19:18
 
@@ -2011,11 +2011,11 @@ Y alcanzó la frontera a Tabor y Shahatsimá y Bet Shemesh; y fueron las salidas
 
 ### 19:23
 
-Esta es la heredad de la tribu de hijos de Yisasjar a sus familias, las ciudades y sus aldeas.
+Esta es la heredad de la tribu de hijos de Isacar a sus familias, las ciudades y sus aldeas.
 
 ### 19:24
 
-Y salió la suerte quinta a la tribu de hijos de Asher a sus familias.
+Y salió la suerte quinta a la tribu de hijos de Aser a sus familias.
 
 ### 19:25
 
@@ -2027,15 +2027,15 @@ y Alamelék y Amad y Mishal; y alcanzó a Karmel hacia el mar, y a Shijor Livnat
 
 ### 19:27
 
-Y volvió hacia salida del sol a Bet Dagón, y alcanzó a Zevulún y al valle de Yiftaj El hacia el norte, a Bet Haemeq y Neiel; y salió a Kabúl desde la izquierda,
+Y volvió hacia salida del sol a Bet Dagón, y alcanzó a Zabulón y al valle de Yiftaj El hacia el norte, a Bet Haemeq y Neiel; y salió a Kabúl desde la izquierda,
 
 ### 19:28
 
-y Evrón y Rejov y Jamón y Kaná, hasta Tsidón la grande.
+y Evrón y Rejov y Jamón y Kaná, hasta Sidón la grande.
 
 ### 19:29
 
-Y volvió la frontera a la Ramá, y hasta la ciudad fortificada de Tsor; y volvió la frontera a Josá, y sus salidas al mar, desde la porción de Ajzivá.
+Y volvió la frontera a la Ramá, y hasta la ciudad fortificada de Tiro; y volvió la frontera a Josá, y sus salidas al mar, desde la porción de Ajzivá.
 
 ### 19:30
 
@@ -2043,11 +2043,11 @@ Y Umá y Afek y Rejov: ciudades veintidós, y sus aldeas.
 
 ### 19:31
 
-Esta es la heredad de la tribu de hijos de Asher a sus familias, estas ciudades y sus aldeas.
+Esta es la heredad de la tribu de hijos de Aser a sus familias, estas ciudades y sus aldeas.
 
 ### 19:32
 
-A hijos de Naftalí salió la suerte sexta, a hijos de Naftalí a sus familias.
+A hijos de Neftalí salió la suerte sexta, a hijos de Neftalí a sus familias.
 
 ### 19:33
 
@@ -2055,7 +2055,7 @@ Y fue su frontera desde Jélef, desde Elón en Tsaananim, y Adamí Hanékeb y Ya
 
 ### 19:34
 
-Y volvió la frontera hacia el mar a Aznot Tabor, y salió de allí a Hukoká; y alcanzó a Zevulún desde el sur, y en Asher alcanzó desde el mar, y en Yehudá el Jordán hacia salida del sol.
+Y volvió la frontera hacia el mar a Aznot Tabor, y salió de allí a Hukoká; y alcanzó a Zabulón desde el sur, y en Aser alcanzó desde el mar, y en Judá el Jordán hacia salida del sol.
 
 ### 19:35
 
@@ -2075,7 +2075,7 @@ y Yirón y Migdal El, Jorem y Bet Anat y Bet Shemesh: ciudades diecinueve, y sus
 
 ### 19:39
 
-Esta es la heredad de la tribu de hijos de Naftalí a sus familias, las ciudades y sus aldeas.
+Esta es la heredad de la tribu de hijos de Neftalí a sus familias, las ciudades y sus aldeas.
 
 ### 19:40
 
@@ -2119,7 +2119,7 @@ Y acabaron de heredar la tierra a sus fronteras; y dieron hijos de Israel hereda
 
 ### 19:50
 
-Según la boca de Jehová dieron a él la ciudad que pidió, Timnat Séraj en el monte de Efráyim; y edificó la ciudad y habitó en ella.
+Según la boca de Jehová dieron a él la ciudad que pidió, Timnat Séraj en el monte de Efraín; y edificó la ciudad y habitó en ella.
 
 ### 19:51
 
@@ -2153,11 +2153,11 @@ Y habitará en aquella ciudad hasta su pararse delante de la congregación al ju
 
 ### 20:7
 
-Y apartaron a Kédesh en el Galil, en el monte de Naftalí, y a Shejem en el monte de Efráyim, y a Kiryat Arba —ella Jevrón— en el monte de Yehudá.
+Y apartaron a Kédesh en el Galil, en el monte de Neftalí, y a Shejem en el monte de Efraín, y a Kiryat Arba —ella Jevrón— en el monte de Judá.
 
 ### 20:8
 
-Y de allende al Jordán de Yerijó hacia oriente dieron a Bétser en el desierto, en la meseta, de la tribu de Reuvén, y a Ramot en el Gilad de la tribu de Gad, y a Golán en el Basán de la tribu de Menashé.
+Y de allende al Jordán de Yerijó hacia oriente dieron a Bétser en el desierto, en la meseta, de la tribu de Rubén, y a Ramot en el Galaad de la tribu de Gad, y a Golán en el Basán de la tribu de Manasés.
 
 ### 20:9
 
@@ -2179,19 +2179,19 @@ Y dieron hijos de Israel a los levitas desde su heredad, a boca de Jehová, esta
 
 ### 21:4
 
-Y salió el lote a clanes del quehatí; y fue a hijos de Aarón el sacerdote, de entre los levitas, desde la tribu de Yehudá y desde la tribu del shimení y desde la tribu de Binyamín, por el lote, ciudades trece.
+Y salió el lote a clanes del quehatí; y fue a hijos de Aarón el sacerdote, de entre los levitas, desde la tribu de Judá y desde la tribu del shimení y desde la tribu de Benjamín, por el lote, ciudades trece.
 
 ### 21:5
 
-Y a hijos de Quehat los restantes, desde clanes de la tribu de Efráyim y desde la tribu de Dan y desde la mitad de la tribu de Menashé, por el lote, ciudades diez.
+Y a hijos de Quehat los restantes, desde clanes de la tribu de Efraín y desde la tribu de Dan y desde la mitad de la tribu de Manasés, por el lote, ciudades diez.
 
 ### 21:6
 
-Y a hijos de Guershon, desde clanes de la tribu de Yisasjar y desde la tribu de Asher y desde la tribu de Naftalí y desde la mitad de la tribu de Menashé en el Basán, por el lote, ciudades trece.
+Y a hijos de Guershon, desde clanes de la tribu de Isacar y desde la tribu de Aser y desde la tribu de Neftalí y desde la mitad de la tribu de Manasés en el Basán, por el lote, ciudades trece.
 
 ### 21:7
 
-A hijos de Merarí según sus clanes, desde la tribu de Reuvén y desde la tribu de Gad y desde la tribu de Zevulún, ciudades doce.
+A hijos de Merarí según sus clanes, desde la tribu de Rubén y desde la tribu de Gad y desde la tribu de Zabulón, ciudades doce.
 
 ### 21:8
 
@@ -2199,7 +2199,7 @@ Y dieron hijos de Israel a los levitas estas ciudades y sus ejidos, como que man
 
 ### 21:9
 
-Y dieron desde la tribu de hijos de Yehudá y desde la tribu de hijos de Shimón estas ciudades que se llaman a ellas por nombre.
+Y dieron desde la tribu de hijos de Judá y desde la tribu de hijos de Simeón estas ciudades que se llaman a ellas por nombre.
 
 ### 21:10
 
@@ -2207,7 +2207,7 @@ Y fue a hijos de Aarón, desde clanes del quehatí, de entre hijos de Leví, por
 
 ### 21:11
 
-Y dieron a ellos Qiryat Arba, padre del Anaq —ella Hevrón— en el monte de Yehudá, y sus ejidos alrededor de ella.
+Y dieron a ellos Qiryat Arba, padre del Anaq —ella Hevrón— en el monte de Judá, y sus ejidos alrededor de ella.
 
 ### 21:12
 
@@ -2231,7 +2231,7 @@ y Ayín y su ejido, y Yutá y su ejido, Bet Shémesh y su ejido: ciudades nueve 
 
 ### 21:17
 
-Y desde la tribu de Binyamín: Givón y su ejido, Géva y su ejido,
+Y desde la tribu de Benjamín: Givón y su ejido, Géva y su ejido,
 
 ### 21:18
 
@@ -2243,11 +2243,11 @@ Todas las ciudades de hijos de Aarón, los sacerdotes: trece ciudades y sus ejid
 
 ### 21:20
 
-Y a clanes de hijos de Quehat, los levitas, los restantes de entre hijos de Quehat, fueron ciudades de su lote desde la tribu de Efráyim.
+Y a clanes de hijos de Quehat, los levitas, los restantes de entre hijos de Quehat, fueron ciudades de su lote desde la tribu de Efraín.
 
 ### 21:21
 
-Y dieron a ellos la ciudad de refugio del matador, Shejém y su ejido en el monte de Efráyim, y Guézer y su ejido,
+Y dieron a ellos la ciudad de refugio del matador, Shejém y su ejido en el monte de Efraín, y Guézer y su ejido,
 
 ### 21:22
 
@@ -2263,7 +2263,7 @@ Ayalón y su ejido, Gat Rimón y su ejido: ciudades cuatro.
 
 ### 21:25
 
-Y desde la mitad de la tribu de Menashé: Taanaj y su ejido, y Gat Rimón y su ejido: ciudades dos.
+Y desde la mitad de la tribu de Manasés: Taanaj y su ejido, y Gat Rimón y su ejido: ciudades dos.
 
 ### 21:26
 
@@ -2271,11 +2271,11 @@ Todas las ciudades diez y sus ejidos a clanes de hijos de Quehat los restantes.
 
 ### 21:27
 
-Y a hijos de Guershon, desde clanes de los levitas, desde la mitad de la tribu de Menashé: la ciudad de refugio del matador, Golán en el Basán y su ejido, y Beeshterá y su ejido: ciudades dos.
+Y a hijos de Guershon, desde clanes de los levitas, desde la mitad de la tribu de Manasés: la ciudad de refugio del matador, Golán en el Basán y su ejido, y Beeshterá y su ejido: ciudades dos.
 
 ### 21:28
 
-Y desde la tribu de Yisasjar: Qishyón y su ejido, Davrat y su ejido,
+Y desde la tribu de Isacar: Qishyón y su ejido, Davrat y su ejido,
 
 ### 21:29
 
@@ -2283,7 +2283,7 @@ Yarmut y su ejido, En Ganim y su ejido: ciudades cuatro.
 
 ### 21:30
 
-Y desde la tribu de Asher: Mishal y su ejido, Avdón y su ejido,
+Y desde la tribu de Aser: Mishal y su ejido, Avdón y su ejido,
 
 ### 21:31
 
@@ -2291,7 +2291,7 @@ Jelqat y su ejido, y Rejov y su ejido: ciudades cuatro.
 
 ### 21:32
 
-Y desde la tribu de Naftalí: la ciudad de refugio del matador, Qédesh en el Galíl y su ejido, y Jamot Dor y su ejido, y Qartan y su ejido: ciudades tres.
+Y desde la tribu de Neftalí: la ciudad de refugio del matador, Qédesh en el Galíl y su ejido, y Jamot Dor y su ejido, y Qartan y su ejido: ciudades tres.
 
 ### 21:33
 
@@ -2299,7 +2299,7 @@ Todas las ciudades del guershoní según sus clanes: trece ciudades y sus ejidos
 
 ### 21:34
 
-Y a clanes de hijos de Merarí, los levitas los restantes, desde la tribu de Zevulún: Yoqneam y su ejido, Qartá y su ejido,
+Y a clanes de hijos de Merarí, los levitas los restantes, desde la tribu de Zabulón: Yoqneam y su ejido, Qartá y su ejido,
 
 ### 21:35
 
@@ -2307,7 +2307,7 @@ Dimná y su ejido, Nahalal y su ejido: ciudades cuatro.
 
 ### 21:36
 
-Y desde la tribu de Reuvén: Bétser y su ejido, y Yahtsá y su ejido,
+Y desde la tribu de Rubén: Bétser y su ejido, y Yahtsá y su ejido,
 
 ### 21:37
 
@@ -2315,7 +2315,7 @@ Qedemot y su ejido, y Mefaat y su ejido: ciudades cuatro.
 
 ### 21:38
 
-Y desde la tribu de Gad: la ciudad de refugio del matador, Ramot en el Gilad y su ejido, y Majanáyim y su ejido,
+Y desde la tribu de Gad: la ciudad de refugio del matador, Ramot en el Galaad y su ejido, y Majanáyim y su ejido,
 
 ### 21:39
 
@@ -2349,7 +2349,7 @@ No cayó palabra de toda la buena palabra que habló Jehová a la casa de Israel
 
 ### 22:1
 
-Entonces llamó Yehoshúa al reuvéní y al gadí y a la mitad de la tribu de Menashé,
+Entonces llamó Yehoshúa al reuvéní y al gadí y a la mitad de la tribu de Manasés,
 
 ### 22:2
 
@@ -2373,7 +2373,7 @@ Y los bendijo Yehoshúa, y los envió, y anduvieron a sus tiendas.
 
 ### 22:7
 
-Y a la mitad de la tribu de Menashé dio Moisés en el Basán, y a su mitad dio Yehoshúa con sus hermanos en el Jordán hacia el mar; y también cuando los envió Yehoshúa a sus tiendas, los bendijo,
+Y a la mitad de la tribu de Manasés dio Moisés en el Basán, y a su mitad dio Yehoshúa con sus hermanos en el Jordán hacia el mar; y también cuando los envió Yehoshúa a sus tiendas, los bendijo,
 
 ### 22:8
 
@@ -2381,15 +2381,15 @@ y dijo a ellos, diciendo: Con riquezas muchas vuelvan a sus tiendas, y con ganad
 
 ### 22:9
 
-Y volvieron y anduvieron hijos de Reuvén e hijos de Gad y la mitad de la tribu de Menashé de con hijos de Israel, desde Shiló que en tierra de Canaán, para andar a la tierra del Gilad, a la tierra de su posesión que fueron asidos en ella sobre boca de Jehová por mano de Moisés.
+Y volvieron y anduvieron hijos de Rubén e hijos de Gad y la mitad de la tribu de Manasés de con hijos de Israel, desde Shiló que en tierra de Canaán, para andar a la tierra del Galaad, a la tierra de su posesión que fueron asidos en ella sobre boca de Jehová por mano de Moisés.
 
 ### 22:10
 
-Y vinieron a circuidos del Jordán que en tierra de Canaán, y edificaron hijos de Reuvén e hijos de Gad y la mitad de la tribu de Menashé allí altar sobre el Jordán, altar grande a la vista.
+Y vinieron a circuidos del Jordán que en tierra de Canaán, y edificaron hijos de Rubén e hijos de Gad y la mitad de la tribu de Manasés allí altar sobre el Jordán, altar grande a la vista.
 
 ### 22:11
 
-Y oyeron hijos de Israel, diciendo: He aquí, edificaron hijos de Reuvén e hijos de Gad y la mitad de la tribu de Menashé el altar hacia frente de tierra de Canaán, a circuidos del Jordán, a éver de hijos de Israel.
+Y oyeron hijos de Israel, diciendo: He aquí, edificaron hijos de Rubén e hijos de Gad y la mitad de la tribu de Manasés el altar hacia frente de tierra de Canaán, a circuidos del Jordán, a éver de hijos de Israel.
 
 ### 22:12
 
@@ -2397,7 +2397,7 @@ Y oyeron hijos de Israel, y se congregó toda la congregación de hijos de Israe
 
 ### 22:13
 
-Y enviaron hijos de Israel a hijos de Reuvén y a hijos de Gad y a la mitad de la tribu de Menashé a la tierra del Gilad a Pinjás hijo de Elazar el sacerdote,
+Y enviaron hijos de Israel a hijos de Rubén y a hijos de Gad y a la mitad de la tribu de Manasés a la tierra del Galaad a Pinjás hijo de Elazar el sacerdote,
 
 ### 22:14
 
@@ -2405,7 +2405,7 @@ y diez príncipes con él, príncipe uno príncipe uno a casa de padre a todas l
 
 ### 22:15
 
-Y vinieron a hijos de Reuvén y a hijos de Gad y a la mitad de la tribu de Menashé a la tierra del Gilad, y hablaron con ellos, diciendo:
+Y vinieron a hijos de Rubén y a hijos de Gad y a la mitad de la tribu de Manasés a la tierra del Galaad, y hablaron con ellos, diciendo:
 
 ### 22:16
 
@@ -2429,7 +2429,7 @@ Y si empero inmunda la tierra de su posesión, pasen ustedes a la tierra de pose
 
 ### 22:21
 
-Y respondieron hijos de Reuvén e hijos de Gad y la mitad de la tribu de Menashé, y hablaron con cabezas de miles de Israel:
+Y respondieron hijos de Rubén e hijos de Gad y la mitad de la tribu de Manasés, y hablaron con cabezas de miles de Israel:
 
 ### 22:22
 
@@ -2445,7 +2445,7 @@ y si no desde ansiedad desde palabra hicimos esto, diciendo: Mañana dirán sus 
 
 ### 22:25
 
-Y límite dio Jehová entre nosotros y entre ustedes, hijos de Reuvén e hijos de Gad, el Jordán; no a ustedes porción en Jehová. Y harán cesar sus hijos a nuestros hijos de temer a Jehová.
+Y límite dio Jehová entre nosotros y entre ustedes, hijos de Rubén e hijos de Gad, el Jordán; no a ustedes porción en Jehová. Y harán cesar sus hijos a nuestros hijos de temer a Jehová.
 
 ### 22:26
 
@@ -2465,23 +2465,23 @@ Lejos a nosotros de nosotros rebelar en Jehová y volver hoy de detrás de Jehov
 
 ### 22:30
 
-Y oyó Pinjás el sacerdote y los príncipes de la congregación y cabezas de miles de Israel que con él las palabras que hablaron hijos de Reuvén e hijos de Gad e hijos de Menashé, y fue bueno en sus ojos.
+Y oyó Pinjás el sacerdote y los príncipes de la congregación y cabezas de miles de Israel que con él las palabras que hablaron hijos de Rubén e hijos de Gad e hijos de Manasés, y fue bueno en sus ojos.
 
 ### 22:31
 
-Y dijo Pinjás hijo de Elazar el sacerdote a hijos de Reuvén y a hijos de Gad y a hijos de Menashé: Hoy conocimos que en medio de nosotros Jehová, porque no prevaricaron en Jehová esta prevaricación; entonces libraron a hijos de Israel de mano de Jehová.
+Y dijo Pinjás hijo de Elazar el sacerdote a hijos de Rubén y a hijos de Gad y a hijos de Manasés: Hoy conocimos que en medio de nosotros Jehová, porque no prevaricaron en Jehová esta prevaricación; entonces libraron a hijos de Israel de mano de Jehová.
 
 ### 22:32
 
-Y volvió Pinjás hijo de Elazar el sacerdote y los príncipes de con hijos de Reuvén y de con hijos de Gad, desde la tierra del Gilad a tierra de Canaán, a hijos de Israel, y les hicieron volver palabra.
+Y volvió Pinjás hijo de Elazar el sacerdote y los príncipes de con hijos de Rubén y de con hijos de Gad, desde la tierra del Galaad a tierra de Canaán, a hijos de Israel, y les hicieron volver palabra.
 
 ### 22:33
 
-Y fue buena la palabra en ojos de hijos de Israel, y bendijeron a Dios hijos de Israel; y no dijeron subir sobre ellos al ejército para destruir la tierra que hijos de Reuvén e hijos de Gad habitando en ella.
+Y fue buena la palabra en ojos de hijos de Israel, y bendijeron a Dios hijos de Israel; y no dijeron subir sobre ellos al ejército para destruir la tierra que hijos de Rubén e hijos de Gad habitando en ella.
 
 ### 22:34
 
-Y llamaron hijos de Reuvén e hijos de Gad al altar, porque testigo él entre nosotros, porque Jehová el Dios.
+Y llamaron hijos de Rubén e hijos de Gad al altar, porque testigo él entre nosotros, porque Jehová el Dios.
 
 ## Capítulo 23
 
@@ -2557,27 +2557,27 @@ Y reunió Yehoshúa a todas las tribus de Israel a Shejém, y llamó a ancianos 
 
 ### 24:2
 
-Y dijo Yehoshúa a todo el pueblo: Así dijo Jehová Dios de Israel: En éver del río habitaron sus padres desde siempre, Téraj padre de Abraham y padre de Najor, y sirvieron dioses otros.
+Y dijo Yehoshúa a todo el pueblo: Así dijo Jehová Dios de Israel: En éver del río habitaron sus padres desde siempre, Téraj padre de Abraham y padre de Nacor, y sirvieron dioses otros.
 
 ### 24:3
 
-Y tomé a su padre a Abraham de éver del río, y lo hice andar en toda tierra de Canaán, y multipliqué su semilla, y di a él a Yitsjaq.
+Y tomé a su padre a Abraham de éver del río, y lo hice andar en toda tierra de Canaán, y multipliqué su semilla, y di a él a Isaac.
 
 ### 24:4
 
-Y di a Yitsjaq a Yaakov y a Esav; y di a Esav el monte Seír para poseerlo; y Yaakov y sus hijos descendieron a Mizraim.
+Y di a Isaac a Jacob y a Esaú; y di a Esaú el monte Seír para poseerlo; y Jacob y sus hijos descendieron a Egipto.
 
 ### 24:5
 
-Y envié a Moisés y a Aarón, y herí a Mizraim como que hice en su seno, y después saqué a ustedes.
+Y envié a Moisés y a Aarón, y herí a Egipto como que hice en su seno, y después saqué a ustedes.
 
 ### 24:6
 
-Y saqué a sus padres desde Mizraim, y vinieron al mar; y persiguieron mizraim detrás de sus padres con carro y con jinetes a mar de Suf.
+Y saqué a sus padres desde Egipto, y vinieron al mar; y persiguieron egipto detrás de sus padres con carro y con jinetes a mar de Suf.
 
 ### 24:7
 
-Y clamaron a Jehová, y puso oscuridad entre ustedes y entre los mizraim, y trajo sobre él el mar y lo cubrió; y vieron sus ojos lo que hice en Mizraim; y habitaron en el desierto muchos días.
+Y clamaron a Jehová, y puso oscuridad entre ustedes y entre los egipcios, y trajo sobre él el mar y lo cubrió; y vieron sus ojos lo que hice en Egipto; y habitaron en el desierto muchos días.
 
 ### 24:8
 
@@ -2605,7 +2605,7 @@ Y di a ustedes tierra que no te fatigaste en ella, y ciudades que no edificaron,
 
 ### 24:14
 
-Y ahora, teman a Jehová y sírvanle en integridad y en verdad; y aparten dioses que sirvieron sus padres en éver del río y en Mizraim, y sirvan a Jehová.
+Y ahora, teman a Jehová y sírvanle en integridad y en verdad; y aparten dioses que sirvieron sus padres en éver del río y en Egipto, y sirvan a Jehová.
 
 ### 24:15
 
@@ -2617,7 +2617,7 @@ Y respondió el pueblo y dijo: Lejos a nosotros abandonar a Jehová para servir 
 
 ### 24:17
 
-Porque Jehová Dios nuestro, él el que nos hizo subir a nosotros y a nuestros padres desde tierra de Mizraim, desde casa de siervos, y que hizo a nuestros ojos estas señales las grandes estas, y nos guardó en todo el camino que anduvimos en él y en todos los pueblos que pasamos en medio de ellos.
+Porque Jehová Dios nuestro, él el que nos hizo subir a nosotros y a nuestros padres desde tierra de Egipto, desde casa de siervos, y que hizo a nuestros ojos estas señales las grandes estas, y nos guardó en todo el camino que anduvimos en él y en todos los pueblos que pasamos en medio de ellos.
 
 ### 24:18
 
@@ -2669,7 +2669,7 @@ Y fue después de estas palabras, y murió Yehoshúa hijo de Nun, siervo de Jeho
 
 ### 24:30
 
-Y lo sepultaron en el límite de su heredad, en Timnat Séraj que en el monte de Efráyim, al norte del monte Gaash.
+Y lo sepultaron en el límite de su heredad, en Timnat Séraj que en el monte de Efraín, al norte del monte Gaash.
 
 ### 24:31
 
@@ -2677,8 +2677,8 @@ Y sirvió Israel a Jehová todos los días de Yehoshúa, y todos los días de lo
 
 ### 24:32
 
-Y los huesos de Yosef que hicieron subir hijos de Israel desde Mizraim sepultaron en Shejém, en la porción del campo que compró Yaakov de con hijos de Jamor padre de Shejém en cien quesitá; y fueron a hijos de Yosef a heredad.
+Y los huesos de José que hicieron subir hijos de Israel desde Egipto sepultaron en Shejém, en la porción del campo que compró Jacob de con hijos de Jamor padre de Shejém en cien quesitá; y fueron a hijos de José a heredad.
 
 ### 24:33
 
-Y Elazar hijo de Aarón murió; y lo sepultaron en el collado de Pinjás su hijo, que fue dado a él en el monte de Efráyim.
+Y Elazar hijo de Aarón murió; y lo sepultaron en el collado de Pinjás su hijo, que fue dado a él en el monte de Efraín.

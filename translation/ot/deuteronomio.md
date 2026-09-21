@@ -31,11 +31,11 @@ Jehová nuestro Dios habló a nosotros en Joreb, diciendo: Bastante a ustedes el
 
 ### 1:7
 
-Volteen faces y partan para ustedes, y entren a monte del amorreo y a todos sus vecinos, en la arabá, en el monte y en la shefelá y en el Néguev y en costa del mar, tierra del cananeo y el Lebanón, hasta el río el grande, río Perat.
+Volteen faces y partan para ustedes, y entren a monte del amorreo y a todos sus vecinos, en la arabá, en el monte y en la shefelá y en el Neguev y en costa del mar, tierra del cananeo y el Lebanón, hasta el río el grande, río Perat.
 
 ### 1:8
 
-Ve: di delante de ustedes la tierra; entren y hereden la tierra que juró Jehová a padres de ustedes, a Abraham, a Yitsjaq y a Yaakov, para dar a ellos y a su semilla después de ellos.
+Ve: di delante de ustedes la tierra; entren y hereden la tierra que juró Jehová a padres de ustedes, a Abraham, a Isaac y a Jacob, para dar a ellos y a su semilla después de ellos.
 
 ### 1:9
 
@@ -111,7 +111,7 @@ Y no quisieron subir, y se rebelaron contra boca de Jehová Dios de ustedes.
 
 ### 1:27
 
-Y murmuraron en tiendas de ustedes, y dijeron: En odio de Jehová a nosotros nos sacó de tierra de Mizraim, para dar a nosotros en mano del amorreo para destruirnos.
+Y murmuraron en tiendas de ustedes, y dijeron: En odio de Jehová a nosotros nos sacó de tierra de Egipto, para dar a nosotros en mano del amorreo para destruirnos.
 
 ### 1:28
 
@@ -123,7 +123,7 @@ Y dije a ustedes: No se aterroricen y no teman de ellos.
 
 ### 1:30
 
-Jehová Dios de ustedes, el andante delante de ustedes, él peleará por ustedes, conforme a todo lo que hizo con ustedes en Mizraim a ojos de ustedes,
+Jehová Dios de ustedes, el andante delante de ustedes, él peleará por ustedes, conforme a todo lo que hizo con ustedes en Egipto a ojos de ustedes,
 
 ### 1:31
 
@@ -155,7 +155,7 @@ También conmigo se enojó Jehová por causa de ustedes, diciendo: También tú 
 
 ### 1:38
 
-Yehoshua hijo de Nun, el parado delante de ti, él entrará allá; a él fortalece, porque él la hará heredar a Israel.
+Josué hijo de Nun, el parado delante de ti, él entrará allá; a él fortalece, porque él la hará heredar a Israel.
 
 ### 1:39
 
@@ -205,11 +205,11 @@ Bastante a ustedes el rodear este monte; volteen faces para ustedes hacia el nor
 
 ### 2:4
 
-Y al pueblo manda, diciendo: Ustedes pasando por límite de hermanos de ustedes, hijos de Esav, los habitantes en Seír, y temerán de ustedes, y se guardarán mucho.
+Y al pueblo manda, diciendo: Ustedes pasando por límite de hermanos de ustedes, hijos de Esaú, los habitantes en Seír, y temerán de ustedes, y se guardarán mucho.
 
 ### 2:5
 
-No se peleen con ellos, porque no daré a ustedes de su tierra hasta pisada de planta de pie, porque posesión a Esav di el monte Seír.
+No se peleen con ellos, porque no daré a ustedes de su tierra hasta pisada de planta de pie, porque posesión a Esaú di el monte Seír.
 
 ### 2:6
 
@@ -221,7 +221,7 @@ Porque Jehová tu Dios te bendijo en toda obra de tu mano; conoció tu andar est
 
 ### 2:8
 
-Y pasamos de con nuestros hermanos, hijos de Esav, los habitantes en Seír, desde camino de la arabá, desde Eilat y desde Etsión Guéver, y volteamos faces y pasamos camino de desierto de Moab.
+Y pasamos de con nuestros hermanos, hijos de Esaú, los habitantes en Seír, desde camino de la arabá, desde Eilat y desde Etsión Guéver, y volteamos faces y pasamos camino de desierto de Moab.
 
 ### 2:9
 
@@ -233,11 +233,11 @@ Los emim antes habitaron en ella, pueblo grande y mucho y alto como los anáqim.
 
 ### 2:11
 
-Refaím son contados también ellos como los anáqim, y los moabitas llaman a ellos emim.
+Refaim son contados también ellos como los anáqim, y los moabitas llaman a ellos emim.
 
 ### 2:12
 
-Y en Seír habitaron los jorím antes, e hijos de Esav los heredaron, y los destruyeron de sus faces, y habitaron en lugar de ellos, como que hizo Israel a tierra de su posesión que dio Jehová a ellos.
+Y en Seír habitaron los jorím antes, e hijos de Esaú los heredaron, y los destruyeron de sus faces, y habitaron en lugar de ellos, como que hizo Israel a tierra de su posesión que dio Jehová a ellos.
 
 ### 2:13
 
@@ -269,7 +269,7 @@ Y te acercarás frente a hijos de Amón; no los angusties y no te pelees con ell
 
 ### 2:20
 
-Tierra de refaím es contada también ella; refaím habitaron en ella antes, y los amonitas llaman a ellos zamzumim,
+Tierra de refaim es contada también ella; refaim habitaron en ella antes, y los amonitas llaman a ellos zamzumim,
 
 ### 2:21
 
@@ -277,7 +277,7 @@ pueblo grande y mucho y alto como los anáqim, y los destruyó Jehová de sus fa
 
 ### 2:22
 
-como que hizo a hijos de Esav, los habitantes en Seír, que destruyó al jorí de sus faces, y los heredaron, y habitaron en lugar de ellos hasta este día.
+como que hizo a hijos de Esaú, los habitantes en Seír, que destruyó al jorí de sus faces, y los heredaron, y habitaron en lugar de ellos hasta este día.
 
 ### 2:23
 
@@ -305,7 +305,7 @@ Comida en la plata me venderás, y comeré, y aguas en la plata darás a mí, y 
 
 ### 2:29
 
-como que hicieron a mí hijos de Esav, los habitantes en Seír, y los moabitas, los habitantes en Ar, hasta que pase el Jordán a la tierra que Jehová nuestro Dios dando a nosotros.
+como que hicieron a mí hijos de Esaú, los habitantes en Seír, y los moabitas, los habitantes en Ar, hasta que pase el Jordán a la tierra que Jehová nuestro Dios dando a nosotros.
 
 ### 2:30
 
@@ -333,7 +333,7 @@ Solo el ganado saqueamos para nosotros, y despojo de las ciudades que tomamos.
 
 ### 2:36
 
-Desde Aroer que sobre labio de torrente Arnón, y la ciudad que en el torrente, y hasta el Gilad, no hubo ciudad que se alzó desde nosotros; el todo dio Jehová nuestro Dios delante de nosotros.
+Desde Aroer que sobre labio de torrente Arnón, y la ciudad que en el torrente, y hasta el Galaad, no hubo ciudad que se alzó desde nosotros; el todo dio Jehová nuestro Dios delante de nosotros.
 
 ### 2:37
 
@@ -379,31 +379,31 @@ Y tomamos en el tiempo aquel la tierra de mano de dos reyes del amorreo que en �
 
 ### 3:10
 
-todas ciudades del mishor y todo el Gilad y todo el Basán hasta Salcá y Edrei, ciudades de reino de Og en el Basán.
+todas ciudades del mishor y todo el Galaad y todo el Basán hasta Salcá y Edrei, ciudades de reino de Og en el Basán.
 
 ### 3:11
 
-Porque solo Og, rey del Basán, quedó del resto de los refaím; he aquí su lecho, lecho de hierro, ¿no es él en Rabá de hijos de Amón? Nueve codos su largo y cuatro codos su ancho, en codo de varón.
+Porque solo Og, rey del Basán, quedó del resto de los refaim; he aquí su lecho, lecho de hierro, ¿no es él en Rabá de hijos de Amón? Nueve codos su largo y cuatro codos su ancho, en codo de varón.
 
 ### 3:12
 
-Y esta tierra heredamos en el tiempo aquel; desde Aroer que sobre torrente Arnón, y mitad de monte del Gilad y sus ciudades, di al reuvéní y al gadí.
+Y esta tierra heredamos en el tiempo aquel; desde Aroer que sobre torrente Arnón, y mitad de monte del Galaad y sus ciudades, di al reuvéní y al gadí.
 
 ### 3:13
 
-Y el resto del Gilad y todo el Basán, reino de Og, di a la mitad de tribu de Menashé; todo cordón del Argov a todo el Basán; aquel es llamado tierra de refaím.
+Y el resto del Galaad y todo el Basán, reino de Og, di a la mitad de tribu de Manasés; todo cordón del Argov a todo el Basán; aquel es llamado tierra de refaim.
 
 ### 3:14
 
-Yair hijo de Menashé tomó todo cordón de Argov hasta límite del gueshurí y del maacatí, y llamó a ellos sobre su nombre el Basán Javot Yair, hasta este día.
+Yair hijo de Manasés tomó todo cordón de Argov hasta límite del gueshurí y del maacatí, y llamó a ellos sobre su nombre el Basán Javot Yair, hasta este día.
 
 ### 3:15
 
-Y a Makir di el Gilad.
+Y a Makir di el Galaad.
 
 ### 3:16
 
-Y al reuvéní y al gadí di desde el Gilad y hasta torrente Arnón, medio del torrente y límite, y hasta Yaboq el torrente, límite de hijos de Amón,
+Y al reuvéní y al gadí di desde el Galaad y hasta torrente Arnón, medio del torrente y límite, y hasta Yaboq el torrente, límite de hijos de Amón,
 
 ### 3:17
 
@@ -423,7 +423,7 @@ hasta que dé descanso Jehová a hermanos de ustedes como ustedes, y hereden tam
 
 ### 3:21
 
-Y a Yehoshua mandé en el tiempo aquel, diciendo: Tus ojos las que ven todo lo que hizo Jehová Dios de ustedes a los dos reyes estos; así hará Jehová a todos los reinos que tú pasando allá.
+Y a Josué mandé en el tiempo aquel, diciendo: Tus ojos las que ven todo lo que hizo Jehová Dios de ustedes a los dos reyes estos; así hará Jehová a todos los reinos que tú pasando allá.
 
 ### 3:22
 
@@ -451,7 +451,7 @@ Sube cabeza de la Pisgá, y alza tus ojos hacia el mar y hacia el norte y hacia 
 
 ### 3:28
 
-Y manda a Yehoshua, y fortalécelo y anímalo, porque él pasará delante de este pueblo, y él los hará heredar la tierra que verás.
+Y manda a Josué, y fortalécelo y anímalo, porque él pasará delante de este pueblo, y él los hará heredar la tierra que verás.
 
 ### 3:29
 
@@ -537,7 +537,7 @@ Y no sea que alces tus ojos a los cielos y veas el sol y la luna y las estrellas
 
 ### 4:20
 
-Y a ustedes tomó Jehová, y los sacó desde horno del hierro, desde Mizraim, para ser a él a pueblo de herencia como el día este.
+Y a ustedes tomó Jehová, y los sacó desde horno del hierro, desde Egipto, para ser a él a pueblo de herencia como el día este.
 
 ### 4:21
 
@@ -593,7 +593,7 @@ Porque pregunta ahora a días primeros que fueron delante de ti, desde el día q
 
 ### 4:34
 
-O ¿ha probado Dios a venir a tomar a él nación desde medio de nación, con pruebas, con señales y con prodigios y con guerra y con mano fuerte y con brazo extendido y con temores grandes, conforme a todo lo que hizo a ustedes Jehová Dios de ustedes en Mizraim a tus ojos?
+O ¿ha probado Dios a venir a tomar a él nación desde medio de nación, con pruebas, con señales y con prodigios y con guerra y con mano fuerte y con brazo extendido y con temores grandes, conforme a todo lo que hizo a ustedes Jehová Dios de ustedes en Egipto a tus ojos?
 
 ### 4:35
 
@@ -605,7 +605,7 @@ Desde los cielos te hizo oír su voz para disciplinarte, y sobre la tierra te hi
 
 ### 4:37
 
-Y porque amó a tus padres y escogió en su semilla después de él, y te sacó en sus faces con su fuerza la grande desde Mizraim,
+Y porque amó a tus padres y escogió en su semilla después de él, y te sacó en sus faces con su fuerza la grande desde Egipto,
 
 ### 4:38
 
@@ -629,7 +629,7 @@ para huir allá matador que mate a su compañero sin conocimiento, y él no abor
 
 ### 4:43
 
-a Bétser en el desierto, en tierra de la llanura, al ruvení; y a Ramot en el Gilad, al gadí; y a Golán en el Bashán, al menashí.
+a Bétser en el desierto, en tierra de la llanura, al ruvení; y a Ramot en el Galaad, al gadí; y a Golán en el Bashán, al menashí.
 
 ### 4:44
 
@@ -637,11 +637,11 @@ Y esta la torá que puso Moisés delante de hijos de Israel.
 
 ### 4:45
 
-Estas las testimonios y los estatutos y los juicios que habló Moisés a hijos de Israel en su salir ellos desde Mizraim,
+Estas las testimonios y los estatutos y los juicios que habló Moisés a hijos de Israel en su salir ellos desde Egipto,
 
 ### 4:46
 
-en otro lado del Jordán, en el valle enfrente de Bet Peor, en tierra de Sijón rey del amorreo que habitaba en Jeshbón, que hirió Moisés e hijos de Israel en su salir ellos desde Mizraim.
+en otro lado del Jordán, en el valle enfrente de Bet Peor, en tierra de Sijón rey del amorreo que habitaba en Jeshbón, que hirió Moisés e hijos de Israel en su salir ellos desde Egipto.
 
 ### 4:47
 
@@ -679,7 +679,7 @@ Yo parado entre Jehová y entre ustedes en el tiempo aquel para declarar a usted
 
 ### 5:6
 
-Yo Jehová tu Dios, que te saqué desde tierra de Mizraim, desde casa de siervos.
+Yo Jehová tu Dios, que te saqué desde tierra de Egipto, desde casa de siervos.
 
 ### 5:7
 
@@ -715,7 +715,7 @@ Y día el séptimo shabat a Jehová tu Dios; no harás toda obra, tú y tu hijo 
 
 ### 5:15
 
-Y recordarás que siervo fuiste en tierra de Mizraim, y te sacó Jehová tu Dios desde allí con mano fuerte y con brazo extendido; por eso te mandó Jehová tu Dios para hacer el día del shabat.
+Y recordarás que siervo fuiste en tierra de Egipto, y te sacó Jehová tu Dios desde allí con mano fuerte y con brazo extendido; por eso te mandó Jehová tu Dios para hacer el día del shabat.
 
 ### 5:16
 
@@ -829,7 +829,7 @@ Y las escribirás sobre postes de tu casa y en tus puertas.
 
 ### 6:10
 
-Y será cuando te traiga Jehová tu Dios a la tierra que juró a tus padres, a Abraham, a Yitsjaq y a Yaakov, a dar a ti, ciudades grandes y buenas que no edificaste,
+Y será cuando te traiga Jehová tu Dios a la tierra que juró a tus padres, a Abraham, a Isaac y a Jacob, a dar a ti, ciudades grandes y buenas que no edificaste,
 
 ### 6:11
 
@@ -837,7 +837,7 @@ y casas llenas de todo bien que no llenaste, y cisternas cavadas que no cavaste,
 
 ### 6:12
 
-guárdate a ti, no sea que olvides a Jehová que te sacó desde tierra de Mizraim, desde casa de siervos.
+guárdate a ti, no sea que olvides a Jehová que te sacó desde tierra de Egipto, desde casa de siervos.
 
 ### 6:13
 
@@ -873,11 +873,11 @@ Cuando te pregunte tu hijo mañana, diciendo: ¿Qué las testimonios y los estat
 
 ### 6:21
 
-Y dirás a tu hijo: Siervos fuimos a Faraón en Mizraim, y nos sacó Jehová desde Mizraim con mano fuerte.
+Y dirás a tu hijo: Siervos fuimos a Faraón en Egipto, y nos sacó Jehová desde Egipto con mano fuerte.
 
 ### 6:22
 
-Y dio Jehová señales y prodigios grandes y malos en Mizraim, en Faraón y en toda su casa, a nuestros ojos.
+Y dio Jehová señales y prodigios grandes y malos en Egipto, en Faraón y en toda su casa, a nuestros ojos.
 
 ### 6:23
 
@@ -923,7 +923,7 @@ No desde abundancia de ustedes desde todos los pueblos se apegó Jehová en uste
 
 ### 7:8
 
-sino desde amor de Jehová a ustedes y desde guardar él el juramento que juró a padres de ustedes, sacó Jehová a ustedes con mano fuerte, y te rescató desde casa de siervos, desde mano de Faraón rey de Mizraim.
+sino desde amor de Jehová a ustedes y desde guardar él el juramento que juró a padres de ustedes, sacó Jehová a ustedes con mano fuerte, y te rescató desde casa de siervos, desde mano de Faraón rey de Egipto.
 
 ### 7:9
 
@@ -951,7 +951,7 @@ Bendito serás desde todos los pueblos; no habrá en ti estéril y estéril, y e
 
 ### 7:15
 
-Y apartará Jehová de ti toda enfermedad, y todas enfermedades de Mizraim las malas que conociste no las pondrá en ti, y las dará en todos tus aborrecedores.
+Y apartará Jehová de ti toda enfermedad, y todas enfermedades de Egipto las malas que conociste no las pondrá en ti, y las dará en todos tus aborrecedores.
 
 ### 7:16
 
@@ -963,7 +963,7 @@ Cuando digas en tu corazón: Muchas las naciones estas más que yo; ¿cómo podr
 
 ### 7:18
 
-No temas de ellos; recordando recordarás lo que hizo Jehová tu Dios a Faraón y a todo Mizraim,
+No temas de ellos; recordando recordarás lo que hizo Jehová tu Dios a Faraón y a todo Egipto,
 
 ### 7:19
 
@@ -1053,7 +1053,7 @@ y tu ganado y tu rebaño se multipliquen, y plata y oro se multiplique a ti, y t
 
 ### 8:14
 
-y se alce tu corazón, y olvides a Jehová tu Dios, el sacándote desde tierra de Mizraim, desde casa de siervos,
+y se alce tu corazón, y olvides a Jehová tu Dios, el sacándote desde tierra de Egipto, desde casa de siervos,
 
 ### 8:15
 
@@ -1099,7 +1099,7 @@ No digas en tu corazón, en empujar Jehová tu Dios a ellos de delante de ti, di
 
 ### 9:5
 
-No en tu justicia y en rectitud de tu corazón tú entrante a poseer su tierra, porque en maldad de las naciones estas Jehová tu Dios las desposee de tus faces, y a fin de levantar la palabra que juró Jehová a tus padres, a Abraham, a Yitsjaq y a Yaakov.
+No en tu justicia y en rectitud de tu corazón tú entrante a poseer su tierra, porque en maldad de las naciones estas Jehová tu Dios las desposee de tus faces, y a fin de levantar la palabra que juró Jehová a tus padres, a Abraham, a Isaac y a Jacob.
 
 ### 9:6
 
@@ -1107,7 +1107,7 @@ Y conocerás que no en tu justicia Jehová tu Dios te da la tierra la buena esta
 
 ### 9:7
 
-Recuerda, no olvides, lo que provocaste a ira a Jehová tu Dios en el desierto; desde el día que saliste desde tierra de Mizraim hasta venir ustedes hasta el lugar este, rebeldes fueron con Jehová.
+Recuerda, no olvides, lo que provocaste a ira a Jehová tu Dios en el desierto; desde el día que saliste desde tierra de Egipto hasta venir ustedes hasta el lugar este, rebeldes fueron con Jehová.
 
 ### 9:8
 
@@ -1127,7 +1127,7 @@ Y fue al cabo de cuarenta día y cuarenta noche, dio Jehová a mí las dos tabla
 
 ### 9:12
 
-Y dijo Jehová a mí: Levántate, desciende pronto desde esto, porque se corrompió tu pueblo que sacaste desde Mizraim; se apartaron pronto desde el camino que les mandé; se hicieron fundición.
+Y dijo Jehová a mí: Levántate, desciende pronto desde esto, porque se corrompió tu pueblo que sacaste desde Egipto; se apartaron pronto desde el camino que les mandé; se hicieron fundición.
 
 ### 9:13
 
@@ -1183,11 +1183,11 @@ Y me postré delante de Jehová los cuarenta el día y los cuarenta la noche que
 
 ### 9:26
 
-Y oré a Jehová, y dije: Adonai Jehová, no destruyas a tu pueblo y a tu heredad que redimiste en tu grandeza, que sacaste desde Mizraim con mano fuerte.
+Y oré a Jehová, y dije: Adonai Jehová, no destruyas a tu pueblo y a tu heredad que redimiste en tu grandeza, que sacaste desde Egipto con mano fuerte.
 
 ### 9:27
 
-Recuerda a tus siervos, a Abraham, a Yitsjaq y a Yaakov; no mires hacia dureza de este pueblo, y hacia su maldad y hacia su pecado,
+Recuerda a tus siervos, a Abraham, a Isaac y a Jacob; no mires hacia dureza de este pueblo, y hacia su maldad y hacia su pecado,
 
 ### 9:28
 
@@ -1273,7 +1273,7 @@ haciente juicio de huérfano y viuda, y amante al peregrino, para dar a él pan 
 
 ### 10:19
 
-Y amen al peregrino, porque peregrinos fueron en tierra de Mizraim.
+Y amen al peregrino, porque peregrinos fueron en tierra de Egipto.
 
 ### 10:20
 
@@ -1285,7 +1285,7 @@ A Jehová tu Dios temerás; a él servirás, y en él te aferrarás, y en su nom
 
 ### 10:22
 
-En setenta alma descendieron tus padres a Mizraim, y ahora te puso Jehová tu Dios como estrellas de los cielos a abundancia.
+En setenta alma descendieron tus padres a Egipto, y ahora te puso Jehová tu Dios como estrellas de los cielos a abundancia.
 
 ## Capítulo 11
 
@@ -1299,11 +1299,11 @@ Y conocerán hoy, porque no con hijos de ustedes que no conocieron y que no vier
 
 ### 11:3
 
-y sus señales y sus obras que hizo en medio de Mizraim, a Faraón rey de Mizraim y a toda su tierra,
+y sus señales y sus obras que hizo en medio de Egipto, a Faraón rey de Egipto y a toda su tierra,
 
 ### 11:4
 
-y lo que hizo a ejército de Mizraim, a sus caballos y a sus carros, que hizo fluir las aguas de mar de Suf sobre faces de ellos en perseguir ellos detrás de ustedes, y los hizo perecer Jehová hasta el día este,
+y lo que hizo a ejército de Egipto, a sus caballos y a sus carros, que hizo fluir las aguas de mar de Suf sobre faces de ellos en perseguir ellos detrás de ustedes, y los hizo perecer Jehová hasta el día este,
 
 ### 11:5
 
@@ -1311,7 +1311,7 @@ y lo que hizo a ustedes en el desierto hasta venir ustedes hasta el lugar este,
 
 ### 11:6
 
-y lo que hizo a Datán y a Aviram, hijos de Eliav, hijo de Reuvén, que abrió la tierra su boca y los tragó, y a sus casas y a sus tiendas y a todo el ser viviente que a sus pies, en medio de todo Israel;
+y lo que hizo a Datán y a Aviram, hijos de Eliav, hijo de Rubén, que abrió la tierra su boca y los tragó, y a sus casas y a sus tiendas y a todo el ser viviente que a sus pies, en medio de todo Israel;
 
 ### 11:7
 
@@ -1327,7 +1327,7 @@ y a fin de que alarguen días sobre el suelo que juró Jehová a padres de usted
 
 ### 11:10
 
-Porque la tierra que tú entrante allá para poseerla, no como tierra de Mizraim ella, que salieron desde allí, que sembraban tu semilla y regaban con tu pie como huerto de verdura.
+Porque la tierra que tú entrante allá para poseerla, no como tierra de Egipto ella, que salieron desde allí, que sembraban tu semilla y regaban con tu pie como huerto de verdura.
 
 ### 11:11
 
@@ -1383,7 +1383,7 @@ y desposeerá Jehová a todas estas las naciones de faces de ustedes, y poseerá
 
 ### 11:24
 
-Todo el lugar que pise planta de su pie en él, a ustedes será; desde el desierto y el Levanón, desde el río, río Perat, y hasta el mar el postrero será su límite.
+Todo el lugar que pise planta de su pie en él, a ustedes será; desde el desierto y el Líbano, desde el río, río Perat, y hasta el mar el postrero será su límite.
 
 ### 11:25
 
@@ -1567,7 +1567,7 @@ Detrás de Jehová Dios de ustedes irán, y a él temerán, y sus mandamientos g
 
 ### 13:5
 
-Y el profeta aquel o soñador del sueño aquel será muerto, porque habló desviación sobre Jehová Dios de ustedes, el sacante a ustedes desde tierra de Mizraim, y el redimiente a ti desde casa de esclavos, para empujarte desde el camino que te mandó Jehová tu Dios a andar en él; y quemarás el mal desde tu interior.
+Y el profeta aquel o soñador del sueño aquel será muerto, porque habló desviación sobre Jehová Dios de ustedes, el sacante a ustedes desde tierra de Egipto, y el redimiente a ti desde casa de esclavos, para empujarte desde el camino que te mandó Jehová tu Dios a andar en él; y quemarás el mal desde tu interior.
 
 ### 13:6
 
@@ -1587,7 +1587,7 @@ Sino matando lo matarás; tu mano será en él en lo primero para matarlo, y man
 
 ### 13:10
 
-Y lo apedrearás con las piedras, y morirá, porque buscó empujarte de sobre Jehová tu Dios, el sacante a ti desde tierra de Mizraim, desde casa de esclavos.
+Y lo apedrearás con las piedras, y morirá, porque buscó empujarte de sobre Jehová tu Dios, el sacante a ti desde tierra de Egipto, desde casa de esclavos.
 
 ### 13:11
 
@@ -1799,7 +1799,7 @@ Collarando collararás a él desde tu rebaño y desde tu era y desde tu lagar; l
 
 ### 15:15
 
-Y recordarás que siervo fuiste en tierra de Mizraim, y te redimió Jehová tu Dios; por tanto yo mandándote la palabra esta hoy.
+Y recordarás que siervo fuiste en tierra de Egipto, y te redimió Jehová tu Dios; por tanto yo mandándote la palabra esta hoy.
 
 ### 15:16
 
@@ -1837,7 +1837,7 @@ Solo su sangre no comerás; sobre la tierra la derramarás como las aguas.
 
 ### 16:1
 
-Guardarás el mes del Aviv, y harás Pésaj a Jehová tu Dios, porque en mes del Aviv te sacó Jehová tu Dios desde Mizraim, noche.
+Guardarás el mes del Aviv, y harás Pésaj a Jehová tu Dios, porque en mes del Aviv te sacó Jehová tu Dios desde Egipto, noche.
 
 ### 16:2
 
@@ -1845,7 +1845,7 @@ Y sacrificarás Pésaj a Jehová tu Dios, rebaño y ganado, en el lugar que esco
 
 ### 16:3
 
-No comerás sobre él leudado; siete días comerás sobre él panes ázimos, pan de aflicción, porque en prisa saliste desde tierra de Mizraim, a fin de que recuerdes el día de tu salida desde tierra de Mizraim todos los días de tus vidas.
+No comerás sobre él leudado; siete días comerás sobre él panes ázimos, pan de aflicción, porque en prisa saliste desde tierra de Egipto, a fin de que recuerdes el día de tu salida desde tierra de Egipto todos los días de tus vidas.
 
 ### 16:4
 
@@ -1857,7 +1857,7 @@ No podrás sacrificar el Pésaj en uno de tus puertas que Jehová tu Dios dando 
 
 ### 16:6
 
-Sino al lugar que escogerá Jehová tu Dios para hacer habitar su nombre allí, sacrificarás el Pésaj en la tarde, al entrar el sol, tiempo de tu salida desde Mizraim.
+Sino al lugar que escogerá Jehová tu Dios para hacer habitar su nombre allí, sacrificarás el Pésaj en la tarde, al entrar el sol, tiempo de tu salida desde Egipto.
 
 ### 16:7
 
@@ -1881,7 +1881,7 @@ Y te alegrarás delante de Jehová tu Dios, tú y tu hijo y tu hija y tu siervo 
 
 ### 16:12
 
-Y recordarás que siervo fuiste en Mizraim, y guardarás y harás los estatutos estos.
+Y recordarás que siervo fuiste en Egipto, y guardarás y harás los estatutos estos.
 
 ### 16:13
 
@@ -2185,7 +2185,7 @@ Y no se apiadará tu ojo: alma por alma, ojo por ojo, diente por diente, mano po
 
 ### 20:1
 
-Cuando salgas a la guerra sobre tus enemigos, y veas caballo y carro, pueblo mucho más que tú, no temerás desde ellos, porque Jehová tu Dios contigo, el sacante a ti desde tierra de Mizraim.
+Cuando salgas a la guerra sobre tus enemigos, y veas caballo y carro, pueblo mucho más que tú, no temerás desde ellos, porque Jehová tu Dios contigo, el sacante a ti desde tierra de Egipto.
 
 ### 20:2
 
@@ -2495,7 +2495,7 @@ No entrará amonita y moabita en asamblea de Jehová; también generación déci
 
 ### 23:4
 
-sobre palabra de que no los anticiparon a ustedes con el pan y con las aguas en el camino en salir ustedes desde Mizraim, y de que alquiló sobre ti a Bilam hijo de Beor desde Petor Aram Naharáyim para maldecirte.
+sobre palabra de que no los anticiparon a ustedes con el pan y con las aguas en el camino en salir ustedes desde Egipto, y de que alquiló sobre ti a Bilam hijo de Beor desde Petor Aram Naharáyim para maldecirte.
 
 ### 23:5
 
@@ -2617,7 +2617,7 @@ Guárdate en plaga de la lepra, para guardar mucho y para hacer conforme a todo 
 
 ### 24:9
 
-Recordar lo que hizo Jehová tu Dios a Miryam en el camino en salir ustedes desde Mizraim.
+Recordar lo que hizo Jehová tu Dios a Miryam en el camino en salir ustedes desde Egipto.
 
 ### 24:10
 
@@ -2653,7 +2653,7 @@ No torcerás juicio de forastero, huérfano, y no prendarás vestido de viuda.
 
 ### 24:18
 
-Y recordarás que siervo fuiste en Mizraim, y te rescató Jehová tu Dios desde allí; por tanto yo mandándote a hacer esta palabra.
+Y recordarás que siervo fuiste en Egipto, y te rescató Jehová tu Dios desde allí; por tanto yo mandándote a hacer esta palabra.
 
 ### 24:19
 
@@ -2669,7 +2669,7 @@ Cuando vendimies tu viña, no rebusques detrás de ti; al forastero, al huérfan
 
 ### 24:22
 
-Y recordarás que siervo fuiste en tierra de Mizraim; por tanto yo mandándote a hacer esta palabra.
+Y recordarás que siervo fuiste en tierra de Egipto; por tanto yo mandándote a hacer esta palabra.
 
 ## Capítulo 25
 
@@ -2739,7 +2739,7 @@ Porque abominación de Jehová tu Dios todo hacedor de estos, todo hacedor de in
 
 ### 25:17
 
-Recordar lo que te hizo Amaleq en el camino en salir ustedes desde Mizraim,
+Recordar lo que te hizo Amaleq en el camino en salir ustedes desde Egipto,
 
 ### 25:18
 
@@ -2769,11 +2769,11 @@ Y tomará el sacerdote el cesto desde tu mano, y lo dejará delante del altar de
 
 ### 26:5
 
-Y responderás y dirás delante de Jehová tu Dios: Arameo pereciente mi padre, y descendió a Mizraim, y peregrinó allí en hombres de pocos, y fue allí a nación grande, fuerte y numerosa.
+Y responderás y dirás delante de Jehová tu Dios: Arameo pereciente mi padre, y descendió a Egipto, y peregrinó allí en hombres de pocos, y fue allí a nación grande, fuerte y numerosa.
 
 ### 26:6
 
-Y nos maltrataron los mizraim, y nos afligieron, y pusieron sobre nosotros servicio duro.
+Y nos maltrataron los egipcios, y nos afligieron, y pusieron sobre nosotros servicio duro.
 
 ### 26:7
 
@@ -2781,7 +2781,7 @@ Y clamamos a Jehová, Dios de nuestros padres, y oyó Jehová nuestra voz, y vio
 
 ### 26:8
 
-Y nos sacó Jehová desde Mizraim con mano fuerte y con brazo extendido y con temor grande y con señales y con prodigios.
+Y nos sacó Jehová desde Egipto con mano fuerte y con brazo extendido y con temor grande y con señales y con prodigios.
 
 ### 26:9
 
@@ -2875,11 +2875,11 @@ Y mandó Moisés al pueblo en aquel día, diciendo:
 
 ### 27:12
 
-Estos se pararán para bendecir al pueblo sobre monte Gerizim en su pasar ustedes el Jordán: Shimón y Leví y Yehudá y Yisasjar y Yosef y Binyamín.
+Estos se pararán para bendecir al pueblo sobre monte Gerizim en su pasar ustedes el Jordán: Simeón y Leví y Judá y Isacar y José y Benjamín.
 
 ### 27:13
 
-Y estos se pararán sobre la maldición en monte Eyval: Reuvén, Gad y Asher y Zevulún, Dan y Naftalí.
+Y estos se pararán sobre la maldición en monte Eyval: Rubén, Gad y Aser y Zabulón, Dan y Neftalí.
 
 ### 27:14
 
@@ -3041,7 +3041,7 @@ Y será tu cadáver a comida a toda ave de los cielos y a bestia de la tierra, y
 
 ### 28:27
 
-Te herirá Jehová con úlcera de Mizraim y con hemorroides y con sarna y con comezón, que no podrás ser sanado.
+Te herirá Jehová con úlcera de Egipto y con hemorroides y con sarna y con comezón, que no podrás ser sanado.
 
 ### 28:28
 
@@ -3173,7 +3173,7 @@ y hará maravillar Jehová tus heridas y heridas de tu semilla, heridas grandes 
 
 ### 28:60
 
-Y hará volver en ti toda enfermedad de Mizraim que temiste de faces de ellas, y se pegarán en ti.
+Y hará volver en ti toda enfermedad de Egipto que temiste de faces de ellas, y se pegarán en ti.
 
 ### 28:61
 
@@ -3205,7 +3205,7 @@ En la mañana dirás: ¡Quién diera tarde! Y en la tarde dirás: ¡Quién diera
 
 ### 28:68
 
-Y te hará volver Jehová a Mizraim en naves, por el camino que dije a ti: No añadirás todavía a verlo; y se venderán ustedes allí a tus enemigos a siervos y a siervas, y no hay comprador.
+Y te hará volver Jehová a Egipto en naves, por el camino que dije a ti: No añadirás todavía a verlo; y se venderán ustedes allí a tus enemigos a siervos y a siervas, y no hay comprador.
 
 ## Capítulo 29
 
@@ -3215,7 +3215,7 @@ Estas las palabras del pacto que mandó Jehová a Moisés a cortar con hijos de 
 
 ### 29:2
 
-Y llamó Moisés a todo Israel, y dijo a ellos: Ustedes vieron todo lo que hizo Jehová a ojos de ustedes en tierra de Mizraim, a Faraón y a todos sus siervos y a toda su tierra,
+Y llamó Moisés a todo Israel, y dijo a ellos: Ustedes vieron todo lo que hizo Jehová a ojos de ustedes en tierra de Egipto, a Faraón y a todos sus siervos y a toda su tierra,
 
 ### 29:3
 
@@ -3259,7 +3259,7 @@ para tu pasar en pacto de Jehová tu Dios y en su juramento que Jehová tu Dios 
 
 ### 29:13
 
-a fin de levantar a ti hoy a él a pueblo, y él será a ti a Dios, como que habló a ti, y como que juró a tus padres, a Abraham, a Yitsjaq y a Yaakov.
+a fin de levantar a ti hoy a él a pueblo, y él será a ti a Dios, como que habló a ti, y como que juró a tus padres, a Abraham, a Isaac y a Jacob.
 
 ### 29:14
 
@@ -3271,7 +3271,7 @@ sino con el que hay aquí con nosotros parado hoy delante de Jehová nuestro Dio
 
 ### 29:16
 
-Porque ustedes conocieron lo que habitamos en tierra de Mizraim, y lo que pasamos en medio de las naciones que pasaron ustedes,
+Porque ustedes conocieron lo que habitamos en tierra de Egipto, y lo que pasamos en medio de las naciones que pasaron ustedes,
 
 ### 29:17
 
@@ -3299,7 +3299,7 @@ Y dirá la generación la posterior, sus hijos que se levantarán de detrás de 
 
 ### 29:23
 
-azufre y sal, quemazón, toda su tierra; no será sembrada, y no brotará, y no subirá en ella toda hierba, como derribo de Sedom y Amoré, Admá y Zeboim, que derribó Jehová en su nariz y en su furor.
+azufre y sal, quemazón, toda su tierra; no será sembrada, y no brotará, y no subirá en ella toda hierba, como derribo de Sodoma y Amoré, Admá y Zeboim, que derribó Jehová en su nariz y en su furor.
 
 ### 29:24
 
@@ -3307,7 +3307,7 @@ Y dirán todas las naciones: ¿Sobre qué hizo Jehová así a esta tierra? ¿Qu�
 
 ### 29:25
 
-Y dirán: Sobre que abandonaron el pacto de Jehová, Dios de sus padres, que cortó con ellos en su sacar a ellos desde tierra de Mizraim,
+Y dirán: Sobre que abandonaron el pacto de Jehová, Dios de sus padres, que cortó con ellos en su sacar a ellos desde tierra de Egipto,
 
 ### 29:26
 
@@ -3405,7 +3405,7 @@ He atestiguado en ustedes hoy los cielos y la tierra; la vida y la muerte he pue
 
 ### 30:20
 
-para amar a Jehová tu Dios, para oír en su voz y para pegarte a él, porque él tus vidas y largura de tus días, para habitar sobre el suelo que juró Jehová a tus padres, a Abraham, a Yitsjaq y a Yaakov, a dar a ellos.
+para amar a Jehová tu Dios, para oír en su voz y para pegarte a él, porque él tus vidas y largura de tus días, para habitar sobre el suelo que juró Jehová a tus padres, a Abraham, a Isaac y a Jacob, a dar a ellos.
 
 ## Capítulo 31
 
@@ -3565,7 +3565,7 @@ Al hacer heredar Altísimo naciones, al separar él hijos de adam, fijó límite
 
 ### 32:9
 
-Porque porción de Jehová su pueblo; Yaakov cordel de su heredad.
+Porque porción de Jehová su pueblo; Jacob cordel de su heredad.
 
 ### 32:10
 
@@ -3657,7 +3657,7 @@ Porque no como nuestra Roca su roca, y nuestros enemigos jueces.
 
 ### 32:32
 
-Porque de vid de Sedom su vid, y de campos de Amoré; sus uvas uvas de veneno, racimos de amarguras a ellos.
+Porque de vid de Sodoma su vid, y de campos de Amoré; sus uvas uvas de veneno, racimos de amarguras a ellos.
 
 ### 32:33
 
@@ -3705,7 +3705,7 @@ Griten de júbilo, naciones, su pueblo, porque sangre de sus siervos vengará, y
 
 ### 32:44
 
-Y vino Moisés y habló todas las palabras de la canción esta en oídos del pueblo, él y Hoshea hijo de Nun.
+Y vino Moisés y habló todas las palabras de la canción esta en oídos del pueblo, él y Oseas hijo de Nun.
 
 ### 32:45
 
@@ -3755,7 +3755,7 @@ También amante de pueblos; todos sus santos en tu mano; y ellos se asentaron a 
 
 ### 33:4
 
-Ley mandó a nosotros Moisés, posesión de asamblea de Yaakov.
+Ley mandó a nosotros Moisés, posesión de asamblea de Jacob.
 
 ### 33:5
 
@@ -3763,11 +3763,11 @@ Y fue en Yeshurún rey, al reunirse cabezas de pueblo, juntos tribus de Israel.
 
 ### 33:6
 
-Viva Reuvén, y no muera, y sean sus hombres número.
+Viva Rubén, y no muera, y sean sus hombres número.
 
 ### 33:7
 
-Y esta a Yehudá; y dijo: Oye, Jehová, voz de Yehudá, y a su pueblo lo traerás; sus manos contendieron por él, y ayuda de sus adversarios serás.
+Y esta a Judá; y dijo: Oye, Jehová, voz de Judá, y a su pueblo lo traerás; sus manos contendieron por él, y ayuda de sus adversarios serás.
 
 ### 33:8
 
@@ -3779,7 +3779,7 @@ el diciendo a su padre y a su madre: No lo vi; y a sus hermanos no reconoció, y
 
 ### 33:10
 
-Enseñarán tus juicios a Yaakov, y tu ley a Israel; pondrán incienso en tu nariz, y entero sobre tu altar.
+Enseñarán tus juicios a Jacob, y tu ley a Israel; pondrán incienso en tu nariz, y entero sobre tu altar.
 
 ### 33:11
 
@@ -3787,11 +3787,11 @@ Bendice, Jehová, su fuerza, y obra de sus manos acepta; hiende lomos de levanta
 
 ### 33:12
 
-A Binyamín dijo: Amado de Jehová habitará confiado sobre él; cubriéndolo sobre él todo el día, y entre sus hombros habitó.
+A Benjamín dijo: Amado de Jehová habitará confiado sobre él; cubriéndolo sobre él todo el día, y entre sus hombros habitó.
 
 ### 33:13
 
-Y a Yosef dijo: Bendita de Jehová su tierra, de excelencia de cielos, de rocío, y de abismo acostado debajo;
+Y a José dijo: Bendita de Jehová su tierra, de excelencia de cielos, de rocío, y de abismo acostado debajo;
 
 ### 33:14
 
@@ -3803,15 +3803,15 @@ y de cabeza de montes de antiguo, y de excelencia de collados de siempre;
 
 ### 33:16
 
-y de excelencia de tierra y su plenitud, y favor del habitante de zarza; venga a cabeza de Yosef, y a coronilla de nazir de sus hermanos.
+y de excelencia de tierra y su plenitud, y favor del habitante de zarza; venga a cabeza de José, y a coronilla de nazir de sus hermanos.
 
 ### 33:17
 
-Primogénito de su toro, majestad a él, y cuernos de búfalo sus cuernos; con ellos pueblos corneará juntos extremos de tierra; y ellos miríadas de Efráyim, y ellos miles de Menashé.
+Primogénito de su toro, majestad a él, y cuernos de búfalo sus cuernos; con ellos pueblos corneará juntos extremos de tierra; y ellos miríadas de Efraín, y ellos miles de Manasés.
 
 ### 33:18
 
-Y a Zevulún dijo: Alégrate, Zevulún, en tu salir, e Yisasjar en tus tiendas.
+Y a Zabulón dijo: Alégrate, Zabulón, en tu salir, e Isacar en tus tiendas.
 
 ### 33:19
 
@@ -3831,11 +3831,11 @@ Y a Dan dijo: Dan cachorro de león; saltará desde el Bashán.
 
 ### 33:23
 
-Y a Naftalí dijo: Naftalí saciado de favor, y lleno de bendición de Jehová; mar y sur hereda.
+Y a Neftalí dijo: Neftalí saciado de favor, y lleno de bendición de Jehová; mar y sur hereda.
 
 ### 33:24
 
-Y a Asher dijo: Bendito de hijos Asher; sea acepto de sus hermanos, y mojante en el aceite su pie.
+Y a Aser dijo: Bendito de hijos Aser; sea acepto de sus hermanos, y mojante en el aceite su pie.
 
 ### 33:25
 
@@ -3851,7 +3851,7 @@ Morada Dios de antiguo, y debajo brazos de siempre; y expulsó de tus faces enem
 
 ### 33:28
 
-Y habitó Israel confiado, solo, ojo de Yaakov, a tierra de grano y mosto; también sus cielos destilan rocío.
+Y habitó Israel confiado, solo, ojo de Jacob, a tierra de grano y mosto; también sus cielos destilan rocío.
 
 ### 33:29
 
@@ -3861,19 +3861,19 @@ Y habitó Israel confiado, solo, ojo de Yaakov, a tierra de grano y mosto; tambi
 
 ### 34:1
 
-Y subió Moisés desde arabot de Moab a monte Nebó, cabeza de la Pisgá, que sobre faces de Yerijó; y le hizo ver Jehová toda la tierra, el Gilad hasta Dan,
+Y subió Moisés desde arabot de Moab a monte Nebó, cabeza de la Pisgá, que sobre faces de Yerijó; y le hizo ver Jehová toda la tierra, el Galaad hasta Dan,
 
 ### 34:2
 
-y todo Naftalí, y tierra de Efráyim y Menashé, y toda tierra de Yehudá hasta el mar el postrero,
+y todo Neftalí, y tierra de Efraín y Manasés, y toda tierra de Judá hasta el mar el postrero,
 
 ### 34:3
 
-y el Néguev, y el círculo, valle de Yerijó, ciudad de las palmeras, hasta Sóar.
+y el Neguev, y el círculo, valle de Yerijó, ciudad de las palmeras, hasta Sóar.
 
 ### 34:4
 
-Y dijo Jehová a él: Esta la tierra que juré a Abraham, a Yitsjaq y a Yaakov, diciendo: A tu simiente la daré; te la hice ver con tus ojos, y allá no pasarás.
+Y dijo Jehová a él: Esta la tierra que juré a Abraham, a Isaac y a Jacob, diciendo: A tu simiente la daré; te la hice ver con tus ojos, y allá no pasarás.
 
 ### 34:5
 
@@ -3901,7 +3901,7 @@ Y no se levantó profeta más en Israel como Moisés, que lo conoció Jehová fa
 
 ### 34:11
 
-a todas las señales y los prodigios que lo envió Jehová a hacer en tierra de Mizraim, a Faraón y a todos sus siervos y a toda su tierra,
+a todas las señales y los prodigios que lo envió Jehová a hacer en tierra de Egipto, a Faraón y a todos sus siervos y a toda su tierra,
 
 ### 34:12
 

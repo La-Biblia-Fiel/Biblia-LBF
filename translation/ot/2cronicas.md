@@ -7,35 +7,35 @@
 
 ### 1:1
 
-Y se fortaleció Shelomó hijo de David sobre su reino; y Jehová su Dios con él, y lo engrandeció en alto.
+Y se fortaleció Salomón hijo de David sobre su reino; y Jehová su Dios con él, y lo engrandeció en alto.
 
 ### 1:2
 
-Y dijo Shelomó a todo Israel, a los jefes de los miles y de los cientos y a los jueces y a todo príncipe a todo Israel, cabezas de los padres.
+Y dijo Salomón a todo Israel, a los jefes de los miles y de los cientos y a los jueces y a todo príncipe a todo Israel, cabezas de los padres.
 
 ### 1:3
 
-Y fueron Shelomó y toda la asamblea con él al alto que en Guivón, porque allí estaba tienda de reunión de Dios, que hizo Moisés siervo de Jehová en el desierto.
+Y fueron Salomón y toda la asamblea con él al alto que en Guivón, porque allí estaba tienda de reunión de Dios, que hizo Moisés siervo de Jehová en el desierto.
 
 ### 1:4
 
-Pero el arca de Dios había hecho subir David de Quiryat-Yearim al preparar David para ella, porque tendió para ella tienda en Yerushaláyim.
+Pero el arca de Dios había hecho subir David de Quiryat-Yearim al preparar David para ella, porque tendió para ella tienda en Jerusalén.
 
 ### 1:5
 
-Y el altar de bronce que hizo Betsalel hijo de Uri hijo de Jur, puso delante de la morada de Jehová; e inquirió a él Shelomó y la asamblea.
+Y el altar de bronce que hizo Betsalel hijo de Uri hijo de Jur, puso delante de la morada de Jehová; e inquirió a él Salomón y la asamblea.
 
 ### 1:6
 
-Y ofreció Shelomó allí sobre el altar de bronce delante de Jehová, que a la tienda de reunión; y ofreció sobre él holocaustos mil.
+Y ofreció Salomón allí sobre el altar de bronce delante de Jehová, que a la tienda de reunión; y ofreció sobre él holocaustos mil.
 
 ### 1:7
 
-En aquella noche se apareció Dios a Shelomó, y le dijo: Pide qué te dé.
+En aquella noche se apareció Dios a Salomón, y le dijo: Pide qué te dé.
 
 ### 1:8
 
-Y dijo Shelomó a Dios: Tú hiciste con David mi padre misericordia grande, y me hiciste rey en lugar de él.
+Y dijo Salomón a Dios: Tú hiciste con David mi padre misericordia grande, y me hiciste rey en lugar de él.
 
 ### 1:9
 
@@ -47,7 +47,7 @@ Ahora sabiduría y conocimiento dame, y saldré delante de este pueblo y entrar�
 
 ### 1:11
 
-Y dijo Dios a Shelomó: Porque esto hubo con tu corazón, y no pediste riquezas, bienes y gloria, ni el alma de tus enemigos, y también días muchos no pediste, y pediste para ti sabiduría y conocimiento con que juzgues a mi pueblo sobre el cual te hice rey,
+Y dijo Dios a Salomón: Porque esto hubo con tu corazón, y no pediste riquezas, bienes y gloria, ni el alma de tus enemigos, y también días muchos no pediste, y pediste para ti sabiduría y conocimiento con que juzgues a mi pueblo sobre el cual te hice rey,
 
 ### 1:12
 
@@ -55,37 +55,37 @@ la sabiduría y el conocimiento dados a ti; y riquezas y bienes y gloria te dar�
 
 ### 1:13
 
-Y vino Shelomó al alto que en Guivón a Yerushaláyim, de delante de la tienda de reunión; y reinó sobre Israel.
+Y vino Salomón al alto que en Guivón a Jerusalén, de delante de la tienda de reunión; y reinó sobre Israel.
 
 ### 1:14
 
-Y reunió Shelomó carros y jinetes; y hubo a él mil cuatrocientos carros y doce mil jinetes; y los puso en ciudades del carro y con el rey en Yerushaláyim.
+Y reunió Salomón carros y jinetes; y hubo a él mil cuatrocientos carros y doce mil jinetes; y los puso en ciudades del carro y con el rey en Jerusalén.
 
 ### 1:15
 
-Y puso el rey la plata y el oro en Yerushaláyim como las piedras; y los cedros puso como los sicómoros que en la Sefelá en abundancia.
+Y puso el rey la plata y el oro en Jerusalén como las piedras; y los cedros puso como los sicómoros que en la Sefelá en abundancia.
 
 ### 1:16
 
-Y la salida de los caballos que a Shelomó de Mizraim y de Coa; mercaderes del rey de Coa tomaban a precio.
+Y la salida de los caballos que a Salomón de Egipto y de Coa; mercaderes del rey de Coa tomaban a precio.
 
 ### 1:17
 
-Y subían y sacaban de Mizraim un carro por seiscientos de plata, y un caballo por ciento cincuenta; y así a todos los reyes de los hititas y a los reyes de Aram, por su mano sacaban.
+Y subían y sacaban de Egipto un carro por seiscientos de plata, y un caballo por ciento cincuenta; y así a todos los reyes de los hititas y a los reyes de Aram, por su mano sacaban.
 
 ## Capítulo 2
 
 ### 2:1
 
-Y dijo Shelomó edificar casa al nombre de Jehová, y casa para su reino.
+Y dijo Salomón edificar casa al nombre de Jehová, y casa para su reino.
 
 ### 2:2
 
-Y contó Shelomó setenta mil hombre porteador, y ochenta mil hombre cortador en el monte, y mandadores sobre ellos tres mil y seiscientos.
+Y contó Salomón setenta mil hombre porteador, y ochenta mil hombre cortador en el monte, y mandadores sobre ellos tres mil y seiscientos.
 
 ### 2:3
 
-Y envió Shelomó a Juram rey de Tsor, diciendo: Como hiciste con David mi padre, y enviaste a él cedros para edificarle casa para habitar en ella,
+Y envió Salomón a Juram rey de Tiro, diciendo: Como hiciste con David mi padre, y enviaste a él cedros para edificarle casa para habitar en ella,
 
 ### 2:4
 
@@ -101,11 +101,11 @@ Y ¿quién retendrá fuerza para edificarle casa? Porque los cielos y los cielos
 
 ### 2:7
 
-Y ahora envía a mí hombre sabio para hacer en el oro y en la plata y en el bronce y en el hierro y en la púrpura y carmesí y azul, y conocedor de abrir aberturas, con los sabios que conmigo en Yehudá y en Yerushaláyim, que preparó David mi padre.
+Y ahora envía a mí hombre sabio para hacer en el oro y en la plata y en el bronce y en el hierro y en la púrpura y carmesí y azul, y conocedor de abrir aberturas, con los sabios que conmigo en Judá y en Jerusalén, que preparó David mi padre.
 
 ### 2:8
 
-Y envía a mí árboles de cedros, cipreses y algumim del Levanón, porque yo sé que tus siervos conocen cortar árboles del Levanón; y he aquí mis siervos con tus siervos,
+Y envía a mí árboles de cedros, cipreses y algumim del Líbano, porque yo sé que tus siervos conocen cortar árboles del Líbano; y he aquí mis siervos con tus siervos,
 
 ### 2:9
 
@@ -117,7 +117,7 @@ Y he aquí a los leñadores, a los cortadores de los árboles, di trigo machacad
 
 ### 2:11
 
-Y dijo Juram rey de Tsor en escrito, y envió a Shelomó: En el amor de Jehová a su pueblo te dio sobre ellos por rey.
+Y dijo Juram rey de Tiro en escrito, y envió a Salomón: En el amor de Jehová a su pueblo te dio sobre ellos por rey.
 
 ### 2:12
 
@@ -137,11 +137,11 @@ Y ahora el trigo y la cebada, el aceite y el vino que dijo mi señor, envíe a s
 
 ### 2:16
 
-Y nosotros cortaremos árboles del Levanón conforme a todo tu necesidad, y los traeremos a ti balsas sobre mar de Yafó; y tú los harás subir a Yerushaláyim.
+Y nosotros cortaremos árboles del Líbano conforme a todo tu necesidad, y los traeremos a ti balsas sobre mar de Yafó; y tú los harás subir a Jerusalén.
 
 ### 2:17
 
-Y contó Shelomó todos los hombres forasteros que en tierra de Israel, después del censo que los contó David su padre; y fueron hallados ciento cincuenta mil y tres mil y seiscientos.
+Y contó Salomón todos los hombres forasteros que en tierra de Israel, después del censo que los contó David su padre; y fueron hallados ciento cincuenta mil y tres mil y seiscientos.
 
 ### 2:18
 
@@ -151,7 +151,7 @@ Y hizo de ellos setenta mil porteador, y ochenta mil cortador en el monte, y tre
 
 ### 3:1
 
-Y comenzó Shelomó a edificar la casa de Jehová en Yerushaláyim en el monte Moriyá, donde se había aparecido a David su padre, en el lugar que preparó David en la era de Ornán el yevusí.
+Y comenzó Salomón a edificar la casa de Jehová en Jerusalén en el monte Moria, donde se había aparecido a David su padre, en el lugar que preparó David en la era de Ornán el yevusí.
 
 ### 3:2
 
@@ -159,7 +159,7 @@ Y comenzó a edificar en el mes segundo, en el segundo, en el año cuarto de su 
 
 ### 3:3
 
-Y estos el cimiento que fundó Shelomó para edificar la casa de Dios: la longitud en codos a la medida primera, codos sesenta, y anchura codos veinte.
+Y estos el cimiento que fundó Salomón para edificar la casa de Dios: la longitud en codos a la medida primera, codos sesenta, y anchura codos veinte.
 
 ### 3:4
 
@@ -261,7 +261,7 @@ Y el mar puso del hombro derecho, oriente, frente al sur.
 
 ### 4:11
 
-Y hizo Juram las ollas y las palas y los tazones; y acabó de hacer la obra que hizo al rey Shelomó en casa de Dios:
+Y hizo Juram las ollas y las palas y los tazones; y acabó de hacer la obra que hizo al rey Salomón en casa de Dios:
 
 ### 4:12
 
@@ -281,7 +281,7 @@ el mar uno, y los bueyes doce debajo de él;
 
 ### 4:16
 
-y las ollas y las palas y los tenedores y todos sus utensilios hizo Juram su padre al rey Shelomó, para casa de Jehová, bronce bruñido.
+y las ollas y las palas y los tenedores y todos sus utensilios hizo Juram su padre al rey Salomón, para casa de Jehová, bronce bruñido.
 
 ### 4:17
 
@@ -289,11 +289,11 @@ En el círculo del Yardén los fundió el rey, en espesura de la tierra, entre S
 
 ### 4:18
 
-Y hizo Shelomó todos estos utensilios a muchedumbre muy mucha, porque no fue examinado el peso del bronce.
+Y hizo Salomón todos estos utensilios a muchedumbre muy mucha, porque no fue examinado el peso del bronce.
 
 ### 4:19
 
-Y hizo Shelomó todos los utensilios que en casa de Dios, y el altar del oro, y las mesas, y sobre ellas pan de las faces;
+Y hizo Salomón todos los utensilios que en casa de Dios, y el altar del oro, y las mesas, y sobre ellas pan de las faces;
 
 ### 4:20
 
@@ -311,11 +311,11 @@ y las despabiladeras y los tazones y las cucharas y los braseros, oro cerrado; y
 
 ### 5:1
 
-Y se completó toda la obra que hizo Shelomó para casa de Jehová; e hizo entrar Shelomó los santos de David su padre: y la plata y el oro y todos los utensilios puso en tesoros de casa de Dios.
+Y se completó toda la obra que hizo Salomón para casa de Jehová; e hizo entrar Salomón los santos de David su padre: y la plata y el oro y todos los utensilios puso en tesoros de casa de Dios.
 
 ### 5:2
 
-Entonces congregó Shelomó a los ancianos de Israel y a todos los cabezas de las varas, príncipes de los padres, a hijos de Israel, a Yerushaláyim, para hacer subir el arca del pacto de Jehová de ciudad de David —ella Tsiyón.
+Entonces congregó Salomón a los ancianos de Israel y a todos los cabezas de las varas, príncipes de los padres, a hijos de Israel, a Jerusalén, para hacer subir el arca del pacto de Jehová de ciudad de David —ella Sión.
 
 ### 5:3
 
@@ -331,7 +331,7 @@ Y hicieron subir el arca y la tienda de reunión y todos los utensilios del sant
 
 ### 5:6
 
-Y el rey Shelomó y toda la asamblea de Israel los convocados sobre él delante del arca, sacrificando oveja y buey que no se contaban y no se numeraban de muchedumbre.
+Y el rey Salomón y toda la asamblea de Israel los convocados sobre él delante del arca, sacrificando oveja y buey que no se contaban y no se numeraban de muchedumbre.
 
 ### 5:7
 
@@ -347,7 +347,7 @@ Y alargaron las varas, y se veían las cabezas de las varas desde el arca sobre 
 
 ### 5:10
 
-No había en el arca sino solo las dos tablas que puso Moisés en Jorev, que cortó Jehová con hijos de Israel a su salir de Mizraim.
+No había en el arca sino solo las dos tablas que puso Moisés en Jorev, que cortó Jehová con hijos de Israel a su salir de Egipto.
 
 ### 5:11
 
@@ -369,7 +369,7 @@ y no pudieron los sacerdotes estar para ministrar de faces de la nube, porque ll
 
 ### 6:1
 
-Entonces dijo Shelomó: Jehová dijo para habitar en la densanube.
+Entonces dijo Salomón: Jehová dijo para habitar en la densanube.
 
 ### 6:2
 
@@ -385,11 +385,11 @@ Y dijo: Bendito Jehová Dios de Israel, que habló con su boca a David mi padre,
 
 ### 6:5
 
-Desde el día que saqué a mi pueblo de tierra de Mizraim, no elegí en ciudad de todos los cetros de Israel para edificar casa para ser mi nombre allí, y no elegí en hombre para ser príncipe sobre mi pueblo Israel;
+Desde el día que saqué a mi pueblo de tierra de Egipto, no elegí en ciudad de todos los cetros de Israel para edificar casa para ser mi nombre allí, y no elegí en hombre para ser príncipe sobre mi pueblo Israel;
 
 ### 6:6
 
-y elegí en Yerushaláyim para ser mi nombre allí, y elegí en David para ser sobre mi pueblo Israel.
+y elegí en Jerusalén para ser mi nombre allí, y elegí en David para ser sobre mi pueblo Israel.
 
 ### 6:7
 
@@ -417,7 +417,7 @@ Y se paró delante del altar de Jehová frente a toda la asamblea de Israel, y d
 
 ### 6:13
 
-Porque hizo Shelomó un kiyor de bronce y lo puso en medio de la azará: cinco codos su largo, y cinco codos su ancho, y tres codos su altura; y se paró sobre él, y se arrodilló sobre sus rodillas frente a toda la asamblea de Israel, y desplegó sus palmas a los cielos.
+Porque hizo Salomón un kiyor de bronce y lo puso en medio de la azará: cinco codos su largo, y cinco codos su ancho, y tres codos su altura; y se paró sobre él, y se arrodilló sobre sus rodillas frente a toda la asamblea de Israel, y desplegó sus palmas a los cielos.
 
 ### 6:14
 
@@ -539,7 +539,7 @@ Jehová Dios, no vuelvas faces de tus ungidos; acuérdate de las misericordias d
 
 ### 7:1
 
-Y al acabar Shelomó de orar, y el fuego bajó de los cielos y comió el holocausto y los sacrificios; y gloria de Jehová llenó la casa.
+Y al acabar Salomón de orar, y el fuego bajó de los cielos y comió el holocausto y los sacrificios; y gloria de Jehová llenó la casa.
 
 ### 7:2
 
@@ -555,7 +555,7 @@ Y el rey y todo el pueblo sacrificando sacrificio delante de Jehová.
 
 ### 7:5
 
-Y sacrificó el rey Shelomó el sacrificio del ganado, veintidós mil, y oveja ciento veinte mil; y dedicaron la casa de Dios el rey y todo el pueblo.
+Y sacrificó el rey Salomón el sacrificio del ganado, veintidós mil, y oveja ciento veinte mil; y dedicaron la casa de Dios el rey y todo el pueblo.
 
 ### 7:6
 
@@ -563,11 +563,11 @@ Y los sacerdotes sobre sus guardias de pie, y los levitas con instrumentos de ca
 
 ### 7:7
 
-Y santificó Shelomó el medio del atrio que delante de casa de Jehová, porque hizo allí los holocaustos y grasas de los shelamím; porque el altar de bronce que hizo Shelomó no pudo contener el holocausto y la ofrenda y las grasas.
+Y santificó Salomón el medio del atrio que delante de casa de Jehová, porque hizo allí los holocaustos y grasas de los shelamím; porque el altar de bronce que hizo Salomón no pudo contener el holocausto y la ofrenda y las grasas.
 
 ### 7:8
 
-Y hizo Shelomó la fiesta en el tiempo aquel siete días, y todo Israel con él, asamblea grande muy, desde Lebo-Jamat hasta el torrente de Mizraim.
+Y hizo Salomón la fiesta en el tiempo aquel siete días, y todo Israel con él, asamblea grande muy, desde Lebo-Jamat hasta el torrente de Egipto.
 
 ### 7:9
 
@@ -575,15 +575,15 @@ Y hicieron en el día el octavo asamblea solemne, porque dedicación del altar h
 
 ### 7:10
 
-Y en día veintitrés del mes el séptimo envió al pueblo a sus tiendas, alegres y buenos de corazón sobre la bondad que hizo Jehová a David y a Shelomó y a Israel su pueblo.
+Y en día veintitrés del mes el séptimo envió al pueblo a sus tiendas, alegres y buenos de corazón sobre la bondad que hizo Jehová a David y a Salomón y a Israel su pueblo.
 
 ### 7:11
 
-Y acabó Shelomó la casa de Jehová y la casa del rey; y todo lo que vino sobre corazón de Shelomó para hacer en casa de Jehová y en su casa prosperó.
+Y acabó Salomón la casa de Jehová y la casa del rey; y todo lo que vino sobre corazón de Salomón para hacer en casa de Jehová y en su casa prosperó.
 
 ### 7:12
 
-Y se apareció Jehová a Shelomó de noche, y le dijo: Oí tu oración, y escogí en este lugar para mí para casa de sacrificio.
+Y se apareció Jehová a Salomón de noche, y le dijo: Oí tu oración, y escogí en este lugar para mí para casa de sacrificio.
 
 ### 7:13
 
@@ -623,21 +623,21 @@ Y esta casa que fue alta, a todo el que pase sobre ella se asombrará, y dirá: 
 
 ### 7:22
 
-Y dirán: Sobre que abandonaron a Jehová Dios de sus padres que los sacó de tierra de Mizraim, y se aferraron a dioses otros, y se postraron a ellos y los sirvieron; por tanto trajo sobre ellos todo este mal.
+Y dirán: Sobre que abandonaron a Jehová Dios de sus padres que los sacó de tierra de Egipto, y se aferraron a dioses otros, y se postraron a ellos y los sirvieron; por tanto trajo sobre ellos todo este mal.
 
 ## Capítulo 8
 
 ### 8:1
 
-Y fue al cabo de veinte años que edificó Shelomó la casa de Jehová y su casa,
+Y fue al cabo de veinte años que edificó Salomón la casa de Jehová y su casa,
 
 ### 8:2
 
-y las ciudades que dio Huram a Shelomó, edificó Shelomó a ellas, e hizo habitar allí a hijos de Israel.
+y las ciudades que dio Huram a Salomón, edificó Salomón a ellas, e hizo habitar allí a hijos de Israel.
 
 ### 8:3
 
-Y anduvo Shelomó a Jamat-Tsová, y se fortaleció sobre ella.
+Y anduvo Salomón a Jamat-Tsová, y se fortaleció sobre ella.
 
 ### 8:4
 
@@ -649,7 +649,7 @@ Y edificó a Bet-Jorón el superior y a Bet-Jorón el inferior, ciudades de fort
 
 ### 8:6
 
-y a Baalat y todas las ciudades de los almacenes que eran a Shelomó, y todas las ciudades del carro y las ciudades de los jinetes, y todo el deseo de Shelomó que deseó edificar en Yerushaláyim y en el Levanón y en toda tierra de su dominio.
+y a Baalat y todas las ciudades de los almacenes que eran a Salomón, y todas las ciudades del carro y las ciudades de los jinetes, y todo el deseo de Salomón que deseó edificar en Jerusalén y en el Líbano y en toda tierra de su dominio.
 
 ### 8:7
 
@@ -657,23 +657,23 @@ Todo el pueblo el restante del hitita y el amorreo y el perizeo y el hiveo y el 
 
 ### 8:8
 
-de sus hijos que quedaron después de ellos en la tierra, que no acabaron a ellos hijos de Israel, y los hizo subir Shelomó a mas hasta el día este.
+de sus hijos que quedaron después de ellos en la tierra, que no acabaron a ellos hijos de Israel, y los hizo subir Salomón a mas hasta el día este.
 
 ### 8:9
 
-Y de hijos de Israel que no dio Shelomó por siervos para su obra, porque ellos hombres de guerra y jefes de sus oficiales y jefes de su carro y sus jinetes.
+Y de hijos de Israel que no dio Salomón por siervos para su obra, porque ellos hombres de guerra y jefes de sus oficiales y jefes de su carro y sus jinetes.
 
 ### 8:10
 
-Y estos jefes que al rey Shelomó, cincuenta y doscientos, los que mandaban en el pueblo.
+Y estos jefes que al rey Salomón, cincuenta y doscientos, los que mandaban en el pueblo.
 
 ### 8:11
 
-Y a hija de Faraón hizo subir Shelomó de ciudad de David a la casa que edificó para ella, porque dijo: No habitará mujer a mí en casa de David rey de Israel, porque santidad ellas a las que vino a ellas arca de Jehová.
+Y a hija de Faraón hizo subir Salomón de ciudad de David a la casa que edificó para ella, porque dijo: No habitará mujer a mí en casa de David rey de Israel, porque santidad ellas a las que vino a ellas arca de Jehová.
 
 ### 8:12
 
-Entonces hizo subir Shelomó holocaustos a Jehová sobre altar de Jehová que edificó delante del vestíbulo,
+Entonces hizo subir Salomón holocaustos a Jehová sobre altar de Jehová que edificó delante del vestíbulo,
 
 ### 8:13
 
@@ -689,29 +689,29 @@ Y no se apartaron del mandato del rey sobre los sacerdotes y los levitas para to
 
 ### 8:16
 
-Y fue establecida toda obra de Shelomó hasta el día del cimiento de casa de Jehová y hasta su acabar; completa casa de Jehová.
+Y fue establecida toda obra de Salomón hasta el día del cimiento de casa de Jehová y hasta su acabar; completa casa de Jehová.
 
 ### 8:17
 
-Entonces anduvo Shelomó a Etsyón-Gáver y a Elot sobre labio del mar en tierra de Edom.
+Entonces anduvo Salomón a Etsyón-Gáver y a Elot sobre labio del mar en tierra de Edom.
 
 ### 8:18
 
-Y envió a él Huram por mano de sus siervos, y siervos conocedores de mar, y vinieron con siervos de Shelomó a Ofirá, y tomaron de allí cuatrocientos cincuenta kikar de oro, y los trajeron al rey Shelomó.
+Y envió a él Huram por mano de sus siervos, y siervos conocedores de mar, y vinieron con siervos de Salomón a Ofirá, y tomaron de allí cuatrocientos cincuenta kikar de oro, y los trajeron al rey Salomón.
 
 ## Capítulo 9
 
 ### 9:1
 
-Y la reina de Shevá oyó el informe de Shelomó, y vino a probar a Shelomó con enigmas en Yerushaláyim, con fuerza pesada muy, y camellos llevando especias y oro a abundancia y piedra preciosa; y vino a Shelomó, y habló con él todo lo que era con su corazón.
+Y la reina de Shevá oyó el informe de Salomón, y vino a probar a Salomón con enigmas en Jerusalén, con fuerza pesada muy, y camellos llevando especias y oro a abundancia y piedra preciosa; y vino a Salomón, y habló con él todo lo que era con su corazón.
 
 ### 9:2
 
-Y declaró a ella Shelomó todas sus palabras; y no se ocultó palabra de Shelomó que no declaró a ella.
+Y declaró a ella Salomón todas sus palabras; y no se ocultó palabra de Salomón que no declaró a ella.
 
 ### 9:3
 
-Y vio la reina de Shevá la sabiduría de Shelomó y la casa que edificó,
+Y vio la reina de Shevá la sabiduría de Salomón y la casa que edificó,
 
 ### 9:4
 
@@ -735,35 +735,35 @@ Sea Jehová tu Dios bendito, que se deleitó en ti para darte sobre su trono por
 
 ### 9:9
 
-Y dio al rey ciento veinte kikar de oro y especias a abundancia muy y piedra preciosa; y no hubo como el bálsamo aquel que dio la reina de Shevá al rey Shelomó.
+Y dio al rey ciento veinte kikar de oro y especias a abundancia muy y piedra preciosa; y no hubo como el bálsamo aquel que dio la reina de Shevá al rey Salomón.
 
 ### 9:10
 
-Y también siervos y siervos de Shelomó que trajeron oro de Ofir, trajeron árboles de algumím y piedra preciosa.
+Y también siervos y siervos de Salomón que trajeron oro de Ofir, trajeron árboles de algumím y piedra preciosa.
 
 ### 9:11
 
-Y hizo el rey los árboles de los algumím andenes para casa de Jehová y para casa del rey, y cítaras y liras para los cantores; y no se vieron como ellos delante en tierra de Yehudá.
+Y hizo el rey los árboles de los algumím andenes para casa de Jehová y para casa del rey, y cítaras y liras para los cantores; y no se vieron como ellos delante en tierra de Judá.
 
 ### 9:12
 
-Y el rey Shelomó dio a la reina de Shevá todo su deseo que pidió, aparte de lo que trajo al rey; y se volvió y anduvo a su tierra, ella y sus siervos.
+Y el rey Salomón dio a la reina de Shevá todo su deseo que pidió, aparte de lo que trajo al rey; y se volvió y anduvo a su tierra, ella y sus siervos.
 
 ### 9:13
 
-Y fue el peso del oro que vino a Shelomó en año uno: seiscientos sesenta y seis kikar de oro,
+Y fue el peso del oro que vino a Salomón en año uno: seiscientos sesenta y seis kikar de oro,
 
 ### 9:14
 
-aparte de los hombres de los tarím y los mercaderes trayendo, y todos los reyes de Arav y pejot de la tierra trayendo oro y plata a Shelomó.
+aparte de los hombres de los tarím y los mercaderes trayendo, y todos los reyes de Arabia y pejot de la tierra trayendo oro y plata a Salomón.
 
 ### 9:15
 
-Y hizo el rey Shelomó doscientos escudos de oro batido; seiscientos de oro batido subía sobre el escudo el uno.
+Y hizo el rey Salomón doscientos escudos de oro batido; seiscientos de oro batido subía sobre el escudo el uno.
 
 ### 9:16
 
-Y trescientos escudos de oro batido; trescientos de oro subía sobre el escudo el uno; y los puso el rey en casa de bosque del Levanón.
+Y trescientos escudos de oro batido; trescientos de oro subía sobre el escudo el uno; y los puso el rey en casa de bosque del Líbano.
 
 ### 9:17
 
@@ -779,7 +779,7 @@ Y doce leones de pie allí sobre las seis gradas, de este y de este; no se hizo 
 
 ### 9:20
 
-Y todos los utensilios de bebida del rey Shelomó oro, y todos los utensilios de casa de bosque del Levanón oro cerrado; no plata contada en días de Shelomó por nada.
+Y todos los utensilios de bebida del rey Salomón oro, y todos los utensilios de casa de bosque del Líbano oro cerrado; no plata contada en días de Salomón por nada.
 
 ### 9:21
 
@@ -787,11 +787,11 @@ Porque naves al rey yendo a Tarshísh con siervos de Huram; una a tres años ven
 
 ### 9:22
 
-Y se engrandeció el rey Shelomó más que todos los reyes de la tierra en riqueza y sabiduría.
+Y se engrandeció el rey Salomón más que todos los reyes de la tierra en riqueza y sabiduría.
 
 ### 9:23
 
-Y todos los reyes de la tierra buscando faces de Shelomó para oír su sabiduría que dio Dios en su corazón.
+Y todos los reyes de la tierra buscando faces de Salomón para oír su sabiduría que dio Dios en su corazón.
 
 ### 9:24
 
@@ -799,31 +799,31 @@ Y ellos trayendo hombre su ofrenda, utensilios de plata y utensilios de oro y ve
 
 ### 9:25
 
-Y hubo a Shelomó cuatro mil pesebres de caballos y carros, y doce mil jinetes; y los puso en ciudades del carro y con el rey en Yerushaláyim.
+Y hubo a Salomón cuatro mil pesebres de caballos y carros, y doce mil jinetes; y los puso en ciudades del carro y con el rey en Jerusalén.
 
 ### 9:26
 
-Y fue gobernante en todos los reyes desde el Río y hasta tierra de Pelishtim y hasta frontera de Mizraim.
+Y fue gobernante en todos los reyes desde el Río y hasta tierra de filisteos y hasta frontera de Egipto.
 
 ### 9:27
 
-Y puso el rey la plata en Yerushaláyim como las piedras, y los cedros puso como los sicómoros que en la Sefelá a abundancia.
+Y puso el rey la plata en Jerusalén como las piedras, y los cedros puso como los sicómoros que en la Sefelá a abundancia.
 
 ### 9:28
 
-Y sacaban caballos de Mizraim a Shelomó y de todas las tierras.
+Y sacaban caballos de Egipto a Salomón y de todas las tierras.
 
 ### 9:29
 
-Y resto de palabras de Shelomó, las primeras y las últimas, ¿no ellas escritas sobre palabras de Natán el profeta y sobre profecía de Ajiyá el shiloní y en las visiones del vidente sobre Yarovam hijo de Nevat?
+Y resto de palabras de Salomón, las primeras y las últimas, ¿no ellas escritas sobre palabras de Natán el profeta y sobre profecía de Ajiyá el shiloní y en las visiones del vidente sobre Yarovam hijo de Nevat?
 
 ### 9:30
 
-Y reinó Shelomó en Yerushaláyim sobre todo Israel cuarenta años.
+Y reinó Salomón en Jerusalén sobre todo Israel cuarenta años.
 
 ### 9:31
 
-Y se acostó Shelomó con sus padres, y lo enterraron en ciudad de David su padre; y reinó Rejavam su hijo debajo de él.
+Y se acostó Salomón con sus padres, y lo enterraron en ciudad de David su padre; y reinó Rejavam su hijo debajo de él.
 
 ## Capítulo 10
 
@@ -833,7 +833,7 @@ Y anduvo Rejavam a Shejem, porque Shejem vinieron todo Israel para hacerlo rey a
 
 ### 10:2
 
-Y fue al oír Yarovam hijo de Nevat —y él en Mizraim, que huyó de faces de Shelomó el rey—, y volvió Yarovam de Mizraim.
+Y fue al oír Yarovam hijo de Nevat —y él en Egipto, que huyó de faces de Salomón el rey—, y volvió Yarovam de Egipto.
 
 ### 10:3
 
@@ -849,7 +849,7 @@ Y les dijo: Aún tres días, y vuelvan a mí. Y anduvo el pueblo.
 
 ### 10:6
 
-Y se aconsejó el rey Rejavam con los ancianos que estaban de pie delante de Shelomó su padre en su ser vivo, diciendo: ¿Cómo ustedes aconsejan para devolver a este pueblo palabra?
+Y se aconsejó el rey Rejavam con los ancianos que estaban de pie delante de Salomón su padre en su ser vivo, diciendo: ¿Cómo ustedes aconsejan para devolver a este pueblo palabra?
 
 ### 10:7
 
@@ -893,11 +893,11 @@ Y todo Israel, porque no oyó el rey a ellos, y devolvieron el pueblo al rey, di
 
 ### 10:17
 
-Y a hijos de Israel los que habitaban en ciudades de Yehudá reinó sobre ellos Rejavam.
+Y a hijos de Israel los que habitaban en ciudades de Judá reinó sobre ellos Rejavam.
 
 ### 10:18
 
-Y envió el rey Rejavam a Hadoram que sobre el mas, y lo apedrearon hijos de Israel piedra, y murió; y el rey Rejavam se esforzó a subir en el carro a huir a Yerushaláyim.
+Y envió el rey Rejavam a Hadoram que sobre el mas, y lo apedrearon hijos de Israel piedra, y murió; y el rey Rejavam se esforzó a subir en el carro a huir a Jerusalén.
 
 ### 10:19
 
@@ -907,7 +907,7 @@ Y se rebeló Israel en casa de David hasta el día este.
 
 ### 11:1
 
-Y vino Rejavam a Yerushaláyim, y reunió a casa de Yehudá y Binyamín, ciento y ochenta mil escogido hacedor de guerra, para pelear con Israel, para devolver el reino a Rejavam.
+Y vino Rejavam a Jerusalén, y reunió a casa de Judá y Benjamín, ciento y ochenta mil escogido hacedor de guerra, para pelear con Israel, para devolver el reino a Rejavam.
 
 ### 11:2
 
@@ -915,7 +915,7 @@ Y fue palabra de Jehová a Shemayahu, hombre de Dios, diciendo:
 
 ### 11:3
 
-Di a Rejavam hijo de Shelomó rey de Yehudá, y a todo Israel en Yehudá y Binyamín, diciendo:
+Di a Rejavam hijo de Salomón rey de Judá, y a todo Israel en Judá y Benjamín, diciendo:
 
 ### 11:4
 
@@ -923,7 +923,7 @@ Así dijo Jehová: No suban y no peleen con hermanos de ustedes; vuelvan hombre 
 
 ### 11:5
 
-Y habitó Rejavam en Yerushaláyim, y edificó ciudades para sitio en Yehudá.
+Y habitó Rejavam en Jerusalén, y edificó ciudades para sitio en Judá.
 
 ### 11:6
 
@@ -943,7 +943,7 @@ y a Adoráyim y a Lajish y a Azecá,
 
 ### 11:10
 
-y a Tsorá y a Ayalón y a Hevrón, que en Yehudá y en Binyamín, ciudades de fortalezas.
+y a Tsorá y a Ayalón y a Hevrón, que en Judá y en Benjamín, ciudades de fortalezas.
 
 ### 11:11
 
@@ -951,7 +951,7 @@ Y fortaleció las fortalezas, y puso en ellas naguídes, y tesoros de comida y a
 
 ### 11:12
 
-Y en toda ciudad y ciudad escudos y lanzas, y las fortaleció a mucho muy; y fue a él Yehudá y Binyamín.
+Y en toda ciudad y ciudad escudos y lanzas, y las fortaleció a mucho muy; y fue a él Judá y Benjamín.
 
 ### 11:13
 
@@ -959,7 +959,7 @@ Y los sacerdotes y los levitas que en todo Israel se presentaron sobre él de to
 
 ### 11:14
 
-Porque abandonaron los levitas sus migreshím y su posesión, y anduvieron a Yehudá y a Yerushaláyim, porque los rechazó Yarovam y sus hijos de sacerdotear a Jehová.
+Porque abandonaron los levitas sus migreshím y su posesión, y anduvieron a Judá y a Jerusalén, porque los rechazó Yarovam y sus hijos de sacerdotear a Jehová.
 
 ### 11:15
 
@@ -967,11 +967,11 @@ Y levantó para sí sacerdotes a las bamot y a los seirim y a los becerros que h
 
 ### 11:16
 
-Y detrás de ellos, de todas tribus de Israel los que dan su corazón para buscar a Jehová Dios de Israel, vinieron Yerushaláyim a sacrificar a Jehová Dios de sus padres.
+Y detrás de ellos, de todas tribus de Israel los que dan su corazón para buscar a Jehová Dios de Israel, vinieron Jerusalén a sacrificar a Jehová Dios de sus padres.
 
 ### 11:17
 
-Y fortalecieron el reino de Yehudá, y fortificaron a Rejavam hijo de Shelomó a años tres, porque anduvieron en camino de David y Shelomó a años tres.
+Y fortalecieron el reino de Judá, y fortificaron a Rejavam hijo de Salomón a años tres, porque anduvieron en camino de David y Salomón a años tres.
 
 ### 11:18
 
@@ -995,7 +995,7 @@ Y levantó a la cabeza Rejavam a Aviyá hijo de Maacá por naguíd en sus herman
 
 ### 11:23
 
-Y entendió, y dispersó de todos sus hijos a todas tierras de Yehudá y Binyamín, a todas ciudades de las fortalezas, y dio a ellos el alimento a la abundancia; y pidió muchedumbre de mujeres.
+Y entendió, y dispersó de todos sus hijos a todas tierras de Judá y Benjamín, a todas ciudades de las fortalezas, y dio a ellos el alimento a la abundancia; y pidió muchedumbre de mujeres.
 
 ## Capítulo 12
 
@@ -1005,19 +1005,19 @@ Y fue, al establecer reino de Rejavam y a su fortalecimiento, abandonó la torá
 
 ### 12:2
 
-Y fue en el año el quinto al rey Rejavam, subió Shishaq rey de Mizraim sobre Yerushaláyim, porque prevaricaron en Jehová.
+Y fue en el año el quinto al rey Rejavam, subió Shishaq rey de Egipto sobre Jerusalén, porque prevaricaron en Jehová.
 
 ### 12:3
 
-Con mil y doscientos carro y con sesenta mil jinetes; y no hay número al pueblo que vinieron con él de Mizraim, Lubim, Sukiyim y Cushim.
+Con mil y doscientos carro y con sesenta mil jinetes; y no hay número al pueblo que vinieron con él de Egipto, Lubim, Sukiyim y Cushim.
 
 ### 12:4
 
-Y tomó las ciudades de las fortalezas que a Yehudá, y vino hasta Yerushaláyim.
+Y tomó las ciudades de las fortalezas que a Judá, y vino hasta Jerusalén.
 
 ### 12:5
 
-Y Shemayá el profeta vino a Rejavam y jefes de Yehudá que se reunieron a Yerushaláyim de faces de Shishaq, y dijo a ellos: Así dijo Jehová: Ustedes me abandonaron, y también yo abandoné a ustedes en mano de Shishaq.
+Y Shemayá el profeta vino a Rejavam y jefes de Judá que se reunieron a Jerusalén de faces de Shishaq, y dijo a ellos: Así dijo Jehová: Ustedes me abandonaron, y también yo abandoné a ustedes en mano de Shishaq.
 
 ### 12:6
 
@@ -1025,7 +1025,7 @@ Y se humillaron jefes de Israel y el rey, y dijeron: Justo Jehová.
 
 ### 12:7
 
-Y al ver Jehová que se humillaron, fue palabra de Jehová a Shemayá, diciendo: Se humillaron; no los destruiré, y daré a ellos como poco para escape, y no se derramará mi furor en Yerushaláyim en mano de Shishaq.
+Y al ver Jehová que se humillaron, fue palabra de Jehová a Shemayá, diciendo: Se humillaron; no los destruiré, y daré a ellos como poco para escape, y no se derramará mi furor en Jerusalén en mano de Shishaq.
 
 ### 12:8
 
@@ -1033,7 +1033,7 @@ Porque serán a él por siervos, y conocerán mi servicio y servicio de reinos d
 
 ### 12:9
 
-Y subió Shishaq rey de Mizraim sobre Yerushaláyim, y tomó los tesoros de casa de Jehová y los tesoros de casa del rey; el todo tomó; y tomó los escudos del oro que hizo Shelomó.
+Y subió Shishaq rey de Egipto sobre Jerusalén, y tomó los tesoros de casa de Jehová y los tesoros de casa del rey; el todo tomó; y tomó los escudos del oro que hizo Salomón.
 
 ### 12:10
 
@@ -1045,11 +1045,11 @@ Y fue, de bastante de venir el rey casa de Jehová, venían los corredores y los
 
 ### 12:12
 
-Y en su humillarse, se volvió de él ira de Jehová, y no para destruir a acabamiento; y también en Yehudá hubo cosas buenas.
+Y en su humillarse, se volvió de él ira de Jehová, y no para destruir a acabamiento; y también en Judá hubo cosas buenas.
 
 ### 12:13
 
-Y se fortaleció el rey Rejavam en Yerushaláyim, y reinó; porque hijo de cuarenta y una año Rejavam en su reinar, y diecisiete año reinó en Yerushaláyim, la ciudad que escogió Jehová para poner su nombre allí de todas tribus de Israel; y nombre de su madre Naamá la ammonít.
+Y se fortaleció el rey Rejavam en Jerusalén, y reinó; porque hijo de cuarenta y una año Rejavam en su reinar, y diecisiete año reinó en Jerusalén, la ciudad que escogió Jehová para poner su nombre allí de todas tribus de Israel; y nombre de su madre Naamá la ammonít.
 
 ### 12:14
 
@@ -1067,11 +1067,11 @@ Y se acostó Rejavam con sus padres, y fue enterrado en ciudad de David; y rein�
 
 ### 13:1
 
-En año dieciocho al rey Yarovam, y reinó Aviyá sobre Yehudá.
+En año dieciocho al rey Yarovam, y reinó Aviyá sobre Judá.
 
 ### 13:2
 
-Tres años reinó en Yerushaláyim; y nombre de su madre Micayahu hija de Uriel de Givá. Y guerra hubo entre Aviyá y entre Yarovam.
+Tres años reinó en Jerusalén; y nombre de su madre Micayahu hija de Uriel de Givá. Y guerra hubo entre Aviyá y entre Yarovam.
 
 ### 13:3
 
@@ -1079,7 +1079,7 @@ Y ató Aviyá la guerra con ejército de poderosos de guerra, cuatrocientos mil 
 
 ### 13:4
 
-Y se levantó Aviyá de sobre el monte Tsemaráyim que en monte de Efráyim, y dijo: Óiganme, Yarovam y todo Israel.
+Y se levantó Aviyá de sobre el monte Tsemaráyim que en monte de Efraín, y dijo: Óiganme, Yarovam y todo Israel.
 
 ### 13:5
 
@@ -1087,11 +1087,11 @@ Y se levantó Aviyá de sobre el monte Tsemaráyim que en monte de Efráyim, y d
 
 ### 13:6
 
-Y se levantó Yarovam hijo de Nevat, siervo de Shelomó hijo de David, y se rebeló sobre su señor.
+Y se levantó Yarovam hijo de Nevat, siervo de Salomón hijo de David, y se rebeló sobre su señor.
 
 ### 13:7
 
-Y se reunieron sobre él hombres vacíos, hijos de beliyaal, y se fortificaron sobre Rejavam hijo de Shelomó; y Rejavam era muchacho y tierno de corazón, y no se fortaleció delante de ellos.
+Y se reunieron sobre él hombres vacíos, hijos de beliyaal, y se fortificaron sobre Rejavam hijo de Salomón; y Rejavam era muchacho y tierno de corazón, y no se fortaleció delante de ellos.
 
 ### 13:8
 
@@ -1115,19 +1115,19 @@ Y he aquí con nosotros a la cabeza el Dios, y sus sacerdotes, y trompetas del g
 
 ### 13:13
 
-Y Yarovam hizo rodear la emboscada para venir de detrás de ellos; y fueron delante de Yehudá, y la emboscada de detrás de ellos.
+Y Yarovam hizo rodear la emboscada para venir de detrás de ellos; y fueron delante de Judá, y la emboscada de detrás de ellos.
 
 ### 13:14
 
-Y se volvieron Yehudá, y he aquí a ellos la guerra faces y atrás; y clamaron a Jehová, y los sacerdotes con las trompetas.
+Y se volvieron Judá, y he aquí a ellos la guerra faces y atrás; y clamaron a Jehová, y los sacerdotes con las trompetas.
 
 ### 13:15
 
-Y gritaron hombre de Yehudá; y fue, al gritar hombre de Yehudá, y el Dios hirió a Yarovam y a todo Israel delante de Aviyá y Yehudá.
+Y gritaron hombre de Judá; y fue, al gritar hombre de Judá, y el Dios hirió a Yarovam y a todo Israel delante de Aviyá y Judá.
 
 ### 13:16
 
-Y huyeron hijos de Israel de faces de Yehudá, y los dio Dios en su mano.
+Y huyeron hijos de Israel de faces de Judá, y los dio Dios en su mano.
 
 ### 13:17
 
@@ -1135,7 +1135,7 @@ E hirieron en ellos Aviyá y su pueblo herida grande; y cayeron heridos de Israe
 
 ### 13:18
 
-Y se humillaron hijos de Israel en el tiempo aquel, y se fortificaron hijos de Yehudá, porque se apoyaron sobre Jehová Dios de sus padres.
+Y se humillaron hijos de Israel en el tiempo aquel, y se fortificaron hijos de Judá, porque se apoyaron sobre Jehová Dios de sus padres.
 
 ### 13:19
 
@@ -1169,23 +1169,23 @@ Y apartó los altares del extranjero y las bamot, y rompió las matsévot, y cor
 
 ### 14:4
 
-Y dijo a Yehudá para buscar a Jehová Dios de sus padres, y para hacer la torá y el mandamiento.
+Y dijo a Judá para buscar a Jehová Dios de sus padres, y para hacer la torá y el mandamiento.
 
 ### 14:5
 
-Y apartó de todas ciudades de Yehudá las bamot y los hammanim; y reposó el reino delante de él.
+Y apartó de todas ciudades de Judá las bamot y los hammanim; y reposó el reino delante de él.
 
 ### 14:6
 
-Y edificó ciudades de fortaleza en Yehudá, porque reposó la tierra, y no hay con él guerra en los años estos, porque dio reposo Jehová a él.
+Y edificó ciudades de fortaleza en Judá, porque reposó la tierra, y no hay con él guerra en los años estos, porque dio reposo Jehová a él.
 
 ### 14:7
 
-Y dijo a Yehudá: Edifiquemos las ciudades estas, y cerquemos muro y torres, puertas y barras; aún la tierra delante de nosotros, porque buscamos a Jehová nuestro Dios; buscamos, y dio reposo a nosotros de alrededor. Y edificaron, y prosperaron.
+Y dijo a Judá: Edifiquemos las ciudades estas, y cerquemos muro y torres, puertas y barras; aún la tierra delante de nosotros, porque buscamos a Jehová nuestro Dios; buscamos, y dio reposo a nosotros de alrededor. Y edificaron, y prosperaron.
 
 ### 14:8
 
-Y hubo a Asá ejército portador de escudo y lanza de Yehudá trescientos mil, y de Binyamín portadores de escudo y tensadores de arco doscientos y ochenta mil; todos estos poderosos de fuerza.
+Y hubo a Asá ejército portador de escudo y lanza de Judá trescientos mil, y de Benjamín portadores de escudo y tensadores de arco doscientos y ochenta mil; todos estos poderosos de fuerza.
 
 ### 14:9
 
@@ -1201,7 +1201,7 @@ Y clamó Asá a Jehová su Dios, y dijo: Jehová, no hay con ti para ayudar entr
 
 ### 14:12
 
-Y hirió Jehová a los cushim delante de Asá y delante de Yehudá, y huyeron los cushim.
+Y hirió Jehová a los cushim delante de Asá y delante de Judá, y huyeron los cushim.
 
 ### 14:13
 
@@ -1213,7 +1213,7 @@ E hirieron todas las ciudades alrededor de Gerar, porque hubo pavor de Jehová s
 
 ### 14:15
 
-Y también tiendas de ganado hirieron, y cautivaron oveja a la abundancia y camellos, y volvieron Yerushaláyim.
+Y también tiendas de ganado hirieron, y cautivaron oveja a la abundancia y camellos, y volvieron Jerusalén.
 
 ## Capítulo 15
 
@@ -1223,7 +1223,7 @@ Y Azaryahu hijo de Oded, hubo sobre él espíritu de Dios.
 
 ### 15:2
 
-Y salió delante de Asá, y le dijo a él: Óiganme, Asá y todo Yehudá y Binyamín: Jehová con ustedes en ser ustedes con él; y si lo buscan, será hallado a ustedes; y si lo dejan, los dejará a ustedes.
+Y salió delante de Asá, y le dijo a él: Óiganme, Asá y todo Judá y Benjamín: Jehová con ustedes en ser ustedes con él; y si lo buscan, será hallado a ustedes; y si lo dejan, los dejará a ustedes.
 
 ### 15:3
 
@@ -1247,15 +1247,15 @@ Y ustedes, fortalézcanse, y no se aflojen sus manos; porque hay salario a su ob
 
 ### 15:8
 
-Y al oír Asá las palabras estas y la profecía, Oded el profeta, se fortaleció, e hizo pasar los abominables de toda tierra de Yehudá y Binyamín y de las ciudades que tomó del monte de Efráyim; y renovó el altar de Jehová que delante del pórtico de Jehová.
+Y al oír Asá las palabras estas y la profecía, Oded el profeta, se fortaleció, e hizo pasar los abominables de toda tierra de Judá y Benjamín y de las ciudades que tomó del monte de Efraín; y renovó el altar de Jehová que delante del pórtico de Jehová.
 
 ### 15:9
 
-Y reunió a todo Yehudá y Binyamín y los residentes con ellos de Efráyim y Menashé y de Shimón; porque cayeron sobre él de Israel a abundancia, al ver ellos que Jehová su Dios con él.
+Y reunió a todo Judá y Benjamín y los residentes con ellos de Efraín y Manasés y de Simeón; porque cayeron sobre él de Israel a abundancia, al ver ellos que Jehová su Dios con él.
 
 ### 15:10
 
-Y se reunieron a Yerushaláyim en el mes el tercero, al año quince al reinado de Asá.
+Y se reunieron a Jerusalén en el mes el tercero, al año quince al reinado de Asá.
 
 ### 15:11
 
@@ -1275,7 +1275,7 @@ Y juraron a Jehová con voz grande y con grito y con trompetas y con shofarot.
 
 ### 15:15
 
-Y se alegraron todo Yehudá sobre el juramento, porque con todo su corazón juraron, y con todo su deseo lo buscaron, y fue hallado a ellos; y dio reposo Jehová a ellos de alrededor.
+Y se alegraron todo Judá sobre el juramento, porque con todo su corazón juraron, y con todo su deseo lo buscaron, y fue hallado a ellos; y dio reposo Jehová a ellos de alrededor.
 
 ### 15:16
 
@@ -1297,11 +1297,11 @@ Y guerra no hubo hasta año treinta y cinco al reinado de Asá.
 
 ### 16:1
 
-En año treinta y seis al reinado de Asá, subió Baashá rey de Israel sobre Yehudá, y edificó a ha-Ramá, para no dar saliente y entrante a Asá rey de Yehudá.
+En año treinta y seis al reinado de Asá, subió Baashá rey de Israel sobre Judá, y edificó a ha-Ramá, para no dar saliente y entrante a Asá rey de Judá.
 
 ### 16:2
 
-Y sacó Asá plata y oro de tesoros de casa de Jehová y casa del rey, y envió a Ben Hadad rey de Aram, el habitante en Dameseq, diciendo:
+Y sacó Asá plata y oro de tesoros de casa de Jehová y casa del rey, y envió a Ben Hadad rey de Aram, el habitante en Damasco, diciendo:
 
 ### 16:3
 
@@ -1309,7 +1309,7 @@ Pacto entre mí y entre ti, y entre mi padre y entre tu padre; he aquí envié a
 
 ### 16:4
 
-Y oyó Ben Hadad a el rey Asá, y envió a los jefes de los ejércitos que a él a ciudades de Israel, e hirió a Iyyón y a Dan y a Avel Mayim y a todos los almacenes de ciudades de Naftalí.
+Y oyó Ben Hadad a el rey Asá, y envió a los jefes de los ejércitos que a él a ciudades de Israel, e hirió a Iyyón y a Dan y a Avel Mayim y a todos los almacenes de ciudades de Neftalí.
 
 ### 16:5
 
@@ -1317,11 +1317,11 @@ Y fue, al oír Baashá, y cesó de edificar a ha-Ramá, e hizo cesar su obra.
 
 ### 16:6
 
-Y Asá el rey tomó a todo Yehudá, y alzaron las piedras de ha-Ramá y sus maderos que edificó Baashá; y edificó con ellos a Géva y a ha-Mitspá.
+Y Asá el rey tomó a todo Judá, y alzaron las piedras de ha-Ramá y sus maderos que edificó Baashá; y edificó con ellos a Géva y a ha-Mitspá.
 
 ### 16:7
 
-Y en el tiempo aquel vino Jananí el vidente a Asá rey de Yehudá, y le dijo a él: En tu apoyarte sobre rey de Aram y no te apoyaste sobre Jehová tu Dios, por eso escapó ejército de rey de Aram de tu mano.
+Y en el tiempo aquel vino Jananí el vidente a Asá rey de Judá, y le dijo a él: En tu apoyarte sobre rey de Aram y no te apoyaste sobre Jehová tu Dios, por eso escapó ejército de rey de Aram de tu mano.
 
 ### 16:8
 
@@ -1337,7 +1337,7 @@ Y se enfureció Asá hacia el vidente, y lo puso en casa del cepo, porque en fur
 
 ### 16:11
 
-Y he aquí palabras de Asá, las primeras y las últimas, he aquí ellas escritas sobre rollo de los reyes a Yehudá y Israel.
+Y he aquí palabras de Asá, las primeras y las últimas, he aquí ellas escritas sobre rollo de los reyes a Judá y Israel.
 
 ### 16:12
 
@@ -1355,15 +1355,15 @@ Y lo sepultaron en sus sepulcros que cavó para él en ciudad de David, y lo aco
 
 ### 17:1
 
-Y reinó Yehoshafat su hijo debajo de él, y se fortaleció sobre Israel.
+Y reinó Josafat su hijo debajo de él, y se fortaleció sobre Israel.
 
 ### 17:2
 
-Y puso ejército en todas las ciudades de Yehudá las fortificadas, y puso gobernadores en tierra de Yehudá y en ciudades de Efráyim que tomó Asá su padre.
+Y puso ejército en todas las ciudades de Judá las fortificadas, y puso gobernadores en tierra de Judá y en ciudades de Efraín que tomó Asá su padre.
 
 ### 17:3
 
-Y fue Jehová con Yehoshafat, porque anduvo en caminos de David su padre los primeros, y no buscó a los baales.
+Y fue Jehová con Josafat, porque anduvo en caminos de David su padre los primeros, y no buscó a los baales.
 
 ### 17:4
 
@@ -1371,15 +1371,15 @@ Porque al Dios de su padre buscó, y en sus mandamientos anduvo, y no como obra 
 
 ### 17:5
 
-Y afirmó Jehová el reino en su mano; y dieron todo Yehudá presente a Yehoshafat, y hubo a él riqueza y gloria a abundancia.
+Y afirmó Jehová el reino en su mano; y dieron todo Judá presente a Josafat, y hubo a él riqueza y gloria a abundancia.
 
 ### 17:6
 
-Y se enalteció su corazón en caminos de Jehová; y aún quitó las bamot y las asherim de Yehudá.
+Y se enalteció su corazón en caminos de Jehová; y aún quitó las bamot y las asherim de Judá.
 
 ### 17:7
 
-Y en año tres a su reinar envió a sus jefes, a Ben Jayil y a Ovadyá y a Zekaryá y a Netanel y a Mikayahu, para enseñar en ciudades de Yehudá.
+Y en año tres a su reinar envió a sus jefes, a Ben Jayil y a Ovadyá y a Zekaryá y a Netanel y a Micaías, para enseñar en ciudades de Judá.
 
 ### 17:8
 
@@ -1387,27 +1387,27 @@ Y con ellos los levitas: Shemayahu y Netanyahu y Zevadyahu y Asahel y Yehonatan 
 
 ### 17:9
 
-Y enseñaron en Yehudá, y con ellos rollo de torá de Jehová; y rodearon en todas las ciudades de Yehudá, y enseñaron en el pueblo.
+Y enseñaron en Judá, y con ellos rollo de torá de Jehová; y rodearon en todas las ciudades de Judá, y enseñaron en el pueblo.
 
 ### 17:10
 
-Y fue pavor de Jehová sobre todos los reinos de las tierras que alrededor de Yehudá, y no pelearon con Yehoshafat.
+Y fue pavor de Jehová sobre todos los reinos de las tierras que alrededor de Judá, y no pelearon con Josafat.
 
 ### 17:11
 
-Y de los pelishtim trayendo a Yehoshafat presente y plata carga; también los aravíes trayendo a él ganado menor: carneros siete mil y setecientos, y machos cabríos siete mil y setecientos.
+Y de los filisteos trayendo a Josafat presente y plata carga; también los aravíes trayendo a él ganado menor: carneros siete mil y setecientos, y machos cabríos siete mil y setecientos.
 
 ### 17:12
 
-Y fue Yehoshafat andando y engrandeciéndose hasta arriba; y edificó en Yehudá fortalezas y ciudades de almacenes.
+Y fue Josafat andando y engrandeciéndose hasta arriba; y edificó en Judá fortalezas y ciudades de almacenes.
 
 ### 17:13
 
-Y obra mucha hubo a él en ciudades de Yehudá; y hombres de guerra, héroes de ejército, en Yerushaláyim.
+Y obra mucha hubo a él en ciudades de Judá; y hombres de guerra, héroes de ejército, en Jerusalén.
 
 ### 17:14
 
-Y estos su alistamiento a casa de sus padres: a Yehudá, jefes de miles: Adná el jefe, y con él héroes de ejército trescientos mil.
+Y estos su alistamiento a casa de sus padres: a Judá, jefes de miles: Adná el jefe, y con él héroes de ejército trescientos mil.
 
 ### 17:15
 
@@ -1419,7 +1419,7 @@ Y sobre su mano Amasyá hijo de Zikrí, el que se ofrece voluntario a Jehová, y
 
 ### 17:17
 
-Y de Binyamín, héroe de ejército Elyadá, y con él manejadores de arco y escudo doscientos mil.
+Y de Benjamín, héroe de ejército Elyadá, y con él manejadores de arco y escudo doscientos mil.
 
 ### 17:18
 
@@ -1427,37 +1427,37 @@ Y sobre su mano Yehozavad, y con él ciento y ochenta mil armados de ejército.
 
 ### 17:19
 
-Estos los que sirven al rey, aparte de lo que puso el rey en ciudades de la fortaleza en todo Yehudá.
+Estos los que sirven al rey, aparte de lo que puso el rey en ciudades de la fortaleza en todo Judá.
 
 ## Capítulo 18
 
 ### 18:1
 
-Y hubo a Yehoshafat riqueza y gloria a abundancia; y se emparentó con Ajab.
+Y hubo a Josafat riqueza y gloria a abundancia; y se emparentó con Acab.
 
 ### 18:2
 
-Y descendió al cabo de años a Ajab a Shomrón; y sacrificó a él Ajab ganado menor y ganado vacuno a abundancia, y al pueblo que con él; y lo sedujo para subir a Ramot Gilad.
+Y descendió al cabo de años a Acab a Samaria; y sacrificó a él Acab ganado menor y ganado vacuno a abundancia, y al pueblo que con él; y lo sedujo para subir a Ramot Galaad.
 
 ### 18:3
 
-Y dijo Ajab rey de Israel a Yehoshafat rey de Yehudá: ¿Andarás conmigo a Ramot Gilad? Y le dijo a él: Como yo como tú, y como tu pueblo mi pueblo, y contigo en la guerra.
+Y dijo Acab rey de Israel a Josafat rey de Judá: ¿Andarás conmigo a Ramot Galaad? Y le dijo a él: Como yo como tú, y como tu pueblo mi pueblo, y contigo en la guerra.
 
 ### 18:4
 
-Y dijo Yehoshafat a rey de Israel: Consulta, por favor, como hoy la palabra de Jehová.
+Y dijo Josafat a rey de Israel: Consulta, por favor, como hoy la palabra de Jehová.
 
 ### 18:5
 
-Y reunió rey de Israel a los profetas cuatrocientos hombre, y dijo a ellos: ¿Iremos a Ramot Gilad a la guerra, o cesaré? Y dijeron: Sube, y dará el Dios en mano del rey.
+Y reunió rey de Israel a los profetas cuatrocientos hombre, y dijo a ellos: ¿Iremos a Ramot Galaad a la guerra, o cesaré? Y dijeron: Sube, y dará el Dios en mano del rey.
 
 ### 18:6
 
-Y dijo Yehoshafat: ¿No hay aquí profeta a Jehová aún, y consultemos de él?
+Y dijo Josafat: ¿No hay aquí profeta a Jehová aún, y consultemos de él?
 
 ### 18:7
 
-Y dijo rey de Israel a Yehoshafat: Aún hombre uno para consultar a Jehová de él, y yo lo aborrecí, porque no hay él profetizando sobre mí a bien, porque todos sus días a mal: él Mikayahu hijo de Yimlá. Y dijo Yehoshafat: No diga el rey así.
+Y dijo rey de Israel a Josafat: Aún hombre uno para consultar a Jehová de él, y yo lo aborrecí, porque no hay él profetizando sobre mí a bien, porque todos sus días a mal: él Micaías hijo de Yimlá. Y dijo Josafat: No diga el rey así.
 
 ### 18:8
 
@@ -1465,27 +1465,27 @@ Y llamó rey de Israel a eunuco uno, y dijo: Date prisa a hijo de Yimlá.
 
 ### 18:9
 
-Y rey de Israel y Yehoshafat rey de Yehudá asentados, cada uno sobre su trono, vestidos de vestidos, y asentados en era, abertura de puerta de Shomrón, y todos los profetas profetizando delante de ellos.
+Y rey de Israel y Josafat rey de Judá asentados, cada uno sobre su trono, vestidos de vestidos, y asentados en era, abertura de puerta de Samaria, y todos los profetas profetizando delante de ellos.
 
 ### 18:10
 
-E hizo para él Tsidqiyahu hijo de Kenaaná cuernos de hierro, y dijo: Así dijo Jehová: Con estos embestirás a Aram hasta consumirlos.
+E hizo para él Sedequías hijo de Kenaaná cuernos de hierro, y dijo: Así dijo Jehová: Con estos embestirás a Aram hasta consumirlos.
 
 ### 18:11
 
-Y todos los profetas profetizando así, diciendo: Sube a Ramot Gilad y prosperarás, y dará Jehová en mano del rey.
+Y todos los profetas profetizando así, diciendo: Sube a Ramot Galaad y prosperarás, y dará Jehová en mano del rey.
 
 ### 18:12
 
-Y el mensajero que anduvo a llamar a Mikayahu habló a él, diciendo: He aquí palabras de los profetas boca una bien al rey; sea, por favor, tu palabra como uno de ellos, y hablarás bien.
+Y el mensajero que anduvo a llamar a Micaías habló a él, diciendo: He aquí palabras de los profetas boca una bien al rey; sea, por favor, tu palabra como uno de ellos, y hablarás bien.
 
 ### 18:13
 
-Y dijo Mikayahu: Vive Jehová, porque lo que diga mi Dios, a ello hablaré.
+Y dijo Micaías: Vive Jehová, porque lo que diga mi Dios, a ello hablaré.
 
 ### 18:14
 
-Y vino al rey, y dijo el rey a él: Miká, ¿iremos a Ramot Gilad a la guerra, o cesaré? Y dijo: Suban ustedes y prosperen, y serán dados en mano de ustedes.
+Y vino al rey, y dijo el rey a él: Miká, ¿iremos a Ramot Galaad a la guerra, o cesaré? Y dijo: Suban ustedes y prosperen, y serán dados en mano de ustedes.
 
 ### 18:15
 
@@ -1497,7 +1497,7 @@ Y dijo: Vi a todo Israel esparcidos sobre los montes como el rebaño que no hay 
 
 ### 18:17
 
-Y dijo rey de Israel a Yehoshafat: ¿No dije a ti? No profetiza sobre mí bien, sino a mal.
+Y dijo rey de Israel a Josafat: ¿No dije a ti? No profetiza sobre mí bien, sino a mal.
 
 ### 18:18
 
@@ -1505,7 +1505,7 @@ Y dijo: Por tanto oigan ustedes palabra de Jehová: Vi a Jehová asentado sobre 
 
 ### 18:19
 
-Y dijo Jehová: ¿Quién engañará a Ajab rey de Israel, y suba y caiga en Ramot Gilad? Y dijo este diciendo así, y este diciendo así.
+Y dijo Jehová: ¿Quién engañará a Acab rey de Israel, y suba y caiga en Ramot Galaad? Y dijo este diciendo así, y este diciendo así.
 
 ### 18:20
 
@@ -1521,15 +1521,15 @@ Y ahora, he aquí dio Jehová espíritu de mentira en boca de tus profetas estos
 
 ### 18:23
 
-Y se acercó Tsidqiyahu hijo de Kenaaná e hirió a Mikayahu sobre la mejilla, y dijo: ¿Cuál esto el camino pasó espíritu de Jehová de conmigo para hablar a ti?
+Y se acercó Sedequías hijo de Kenaaná e hirió a Micaías sobre la mejilla, y dijo: ¿Cuál esto el camino pasó espíritu de Jehová de conmigo para hablar a ti?
 
 ### 18:24
 
-Y dijo Mikayahu: He aquí tú viendo en el día aquel que vendrás aposento en aposento para esconderte.
+Y dijo Micaías: He aquí tú viendo en el día aquel que vendrás aposento en aposento para esconderte.
 
 ### 18:25
 
-Y dijo rey de Israel: Tomen ustedes a Mikayahu y devuélvanlo a Amón príncipe de la ciudad y a Yoash hijo del rey.
+Y dijo rey de Israel: Tomen ustedes a Micaías y devuélvanlo a Amón príncipe de la ciudad y a Yoash hijo del rey.
 
 ### 18:26
 
@@ -1537,15 +1537,15 @@ Y digan ustedes: Así dijo el rey: Pongan a este en casa de la cárcel, y hágan
 
 ### 18:27
 
-Y dijo Mikayahu: Si volviendo vuelves en paz, no habló Jehová en mí. Y dijo: Oigan ustedes, pueblos todos ellos.
+Y dijo Micaías: Si volviendo vuelves en paz, no habló Jehová en mí. Y dijo: Oigan ustedes, pueblos todos ellos.
 
 ### 18:28
 
-Y subió rey de Israel y Yehoshafat rey de Yehudá a Ramot Gilad.
+Y subió rey de Israel y Josafat rey de Judá a Ramot Galaad.
 
 ### 18:29
 
-Y dijo rey de Israel a Yehoshafat: Disfrázate y entra en la guerra, y tú viste tus vestidos. Y se disfrazó rey de Israel, y entraron en la guerra.
+Y dijo rey de Israel a Josafat: Disfrázate y entra en la guerra, y tú viste tus vestidos. Y se disfrazó rey de Israel, y entraron en la guerra.
 
 ### 18:30
 
@@ -1553,7 +1553,7 @@ Y rey de Aram mandó a príncipes del carro que a él, diciendo: No peleen usted
 
 ### 18:31
 
-Y fue, al ver príncipes del carro a Yehoshafat, y ellos dijeron: Rey de Israel él. Y rodearon sobre él para pelear; y clamó Yehoshafat, y Jehová lo ayudó, y los sedujo Dios de él.
+Y fue, al ver príncipes del carro a Josafat, y ellos dijeron: Rey de Israel él. Y rodearon sobre él para pelear; y clamó Josafat, y Jehová lo ayudó, y los sedujo Dios de él.
 
 ### 18:32
 
@@ -1571,11 +1571,11 @@ Y subió la guerra en el día aquel, y rey de Israel estaba haciendo estar en el
 
 ### 19:1
 
-Y volvió Yehoshafat rey de Yehudá a su casa en paz a Yerushaláyim.
+Y volvió Josafat rey de Judá a su casa en paz a Jerusalén.
 
 ### 19:2
 
-Y salió a su rostro Yehú hijo de Jananí el vidente, y dijo al rey Yehoshafat: ¿Al impío para ayudar, y a los que odian a Jehová amas? Y en esto sobre ti furor de delante de Jehová.
+Y salió a su rostro Yehú hijo de Jananí el vidente, y dijo al rey Josafat: ¿Al impío para ayudar, y a los que odian a Jehová amas? Y en esto sobre ti furor de delante de Jehová.
 
 ### 19:3
 
@@ -1583,11 +1583,11 @@ Pero palabras buenas fueron halladas contigo, porque quemaste las asherot de la 
 
 ### 19:4
 
-Y habitó Yehoshafat en Yerushaláyim; y volvió y salió en el pueblo desde Beer Sheva hasta monte de Efráyim, y los hizo volver a Jehová Dios de sus padres.
+Y habitó Josafat en Jerusalén; y volvió y salió en el pueblo desde Beerseba hasta monte de Efraín, y los hizo volver a Jehová Dios de sus padres.
 
 ### 19:5
 
-Y puso jueces en la tierra, en todas las ciudades de Yehudá las fortificadas, a ciudad y ciudad.
+Y puso jueces en la tierra, en todas las ciudades de Judá las fortificadas, a ciudad y ciudad.
 
 ### 19:6
 
@@ -1599,7 +1599,7 @@ Y ahora sea pavor de Jehová sobre ustedes; guarden y hagan, porque no hay con J
 
 ### 19:8
 
-Y también en Yerushaláyim puso Yehoshafat de los levitas y los sacerdotes y de cabezas de los padres a Israel, para juicio de Jehová y para la contienda; y volvieron a Yerushaláyim.
+Y también en Jerusalén puso Josafat de los levitas y los sacerdotes y de cabezas de los padres a Israel, para juicio de Jehová y para la contienda; y volvieron a Jerusalén.
 
 ### 19:9
 
@@ -1611,29 +1611,29 @@ Y toda contienda que venga sobre ustedes de sus hermanos los habitantes en sus c
 
 ### 19:11
 
-Y he aquí Amaryahu sacerdote la cabeza sobre ustedes a todo asunto de Jehová, y Zevadyahu hijo de Yishmael el naguid a casa de Yehudá a todo asunto del rey, y oficiales los levitas delante de ustedes; fortalézcanse y hagan, y sea Jehová con el bueno.
+Y he aquí Amaryahu sacerdote la cabeza sobre ustedes a todo asunto de Jehová, y Zevadyahu hijo de Yishmael el naguid a casa de Judá a todo asunto del rey, y oficiales los levitas delante de ustedes; fortalézcanse y hagan, y sea Jehová con el bueno.
 
 ## Capítulo 20
 
 ### 20:1
 
-Y fue después de así, vinieron hijos de Moav e hijos de Amón y con ellos de los amonitas sobre Yehoshafat a la guerra.
+Y fue después de así, vinieron hijos de Moav e hijos de Amón y con ellos de los amonitas sobre Josafat a la guerra.
 
 ### 20:2
 
-Y vinieron y anunciaron a Yehoshafat, diciendo: Vino sobre ti muchedumbre grande de allende al mar, de Aram; y he aquí ellos en Jatsatsón Tamar, ella En Guedí.
+Y vinieron y anunciaron a Josafat, diciendo: Vino sobre ti muchedumbre grande de allende al mar, de Aram; y he aquí ellos en Jatsatsón Tamar, ella En Guedí.
 
 ### 20:3
 
-Y temió, y dio Yehoshafat su rostro para buscar a Jehová, y proclamó ayuno sobre todo Yehudá.
+Y temió, y dio Josafat su rostro para buscar a Jehová, y proclamó ayuno sobre todo Judá.
 
 ### 20:4
 
-Y se reunieron Yehudá para buscar de Jehová; también de todas las ciudades de Yehudá vinieron para buscar a Jehová.
+Y se reunieron Judá para buscar de Jehová; también de todas las ciudades de Judá vinieron para buscar a Jehová.
 
 ### 20:5
 
-Y se paró Yehoshafat en asamblea de Yehudá y Yerushaláyim en casa de Jehová, delante del atrio el nuevo.
+Y se paró Josafat en asamblea de Judá y Jerusalén en casa de Jehová, delante del atrio el nuevo.
 
 ### 20:6
 
@@ -1653,7 +1653,7 @@ Si viene sobre nosotros mal, espada de juicio y pestilencia y hambre, nos parare
 
 ### 20:10
 
-Y ahora, he aquí hijos de Amón y Moav y monte de Seír, que no diste a Israel para entrar en ellos al venir ellos de tierra de Mizraim, porque se apartaron de sobre ellos y no los destruyeron,
+Y ahora, he aquí hijos de Amón y Moav y monte de Seír, que no diste a Israel para entrar en ellos al venir ellos de tierra de Egipto, porque se apartaron de sobre ellos y no los destruyeron,
 
 ### 20:11
 
@@ -1665,7 +1665,7 @@ Dios nuestro, ¿no juzgarás en ellos? Porque no hay en nosotros poder delante d
 
 ### 20:13
 
-Y todo Yehudá parados delante de Jehová, también sus niños, sus mujeres y sus hijos.
+Y todo Judá parados delante de Jehová, también sus niños, sus mujeres y sus hijos.
 
 ### 20:14
 
@@ -1673,7 +1673,7 @@ Y Yajaziel hijo de Zekaryahu hijo de Benayá hijo de Yeiel hijo de Matanyá el l
 
 ### 20:15
 
-Y dijo: Presten atención, todo Yehudá y habitantes de Yerushaláyim y el rey Yehoshafat: Así dijo Jehová a ustedes: Ustedes no teman y no se desmayen de delante de esta muchedumbre grande esta, porque no a ustedes la guerra sino a Dios.
+Y dijo: Presten atención, todo Judá y habitantes de Jerusalén y el rey Josafat: Así dijo Jehová a ustedes: Ustedes no teman y no se desmayen de delante de esta muchedumbre grande esta, porque no a ustedes la guerra sino a Dios.
 
 ### 20:16
 
@@ -1681,11 +1681,11 @@ Mañana desciendan ustedes sobre ellos; he aquí ellos subiendo por la subida de
 
 ### 20:17
 
-No a ustedes para pelear en esto; párense, estén ustedes y vean la salvación de Jehová con ustedes, Yehudá y Yerushaláyim; no teman y no se desmayen; mañana salgan delante de ellos, y Jehová con ustedes.
+No a ustedes para pelear en esto; párense, estén ustedes y vean la salvación de Jehová con ustedes, Judá y Jerusalén; no teman y no se desmayen; mañana salgan delante de ellos, y Jehová con ustedes.
 
 ### 20:18
 
-Y se inclinó Yehoshafat, narices a tierra; y todo Yehudá y habitantes de Yerushaláyim cayeron delante de Jehová para postrarse a Jehová.
+Y se inclinó Josafat, narices a tierra; y todo Judá y habitantes de Jerusalén cayeron delante de Jehová para postrarse a Jehová.
 
 ### 20:19
 
@@ -1693,7 +1693,7 @@ Y se levantaron los levitas de los hijos de los quehatitas y de los hijos de los
 
 ### 20:20
 
-Y madrugaron en la mañana, y salieron a desierto de Tekoa; y al salir ellos se paró Yehoshafat, y dijo: Óiganme, Yehudá y habitantes de Yerushaláyim: Crean en Jehová su Dios de ustedes, y serán afirmados; crean en sus profetas, y prosperarán.
+Y madrugaron en la mañana, y salieron a desierto de Tekoa; y al salir ellos se paró Josafat, y dijo: Óiganme, Judá y habitantes de Jerusalén: Crean en Jehová su Dios de ustedes, y serán afirmados; crean en sus profetas, y prosperarán.
 
 ### 20:21
 
@@ -1701,7 +1701,7 @@ Y se aconsejó al pueblo, y puso cantores a Jehová y alabadores a esplendor de 
 
 ### 20:22
 
-Y en el tiempo comenzaron en canto y alabanza, dio Jehová emboscadas sobre hijos de Amón, Moav y monte de Seír, los que vienen a Yehudá, y fueron heridos.
+Y en el tiempo comenzaron en canto y alabanza, dio Jehová emboscadas sobre hijos de Amón, Moav y monte de Seír, los que vienen a Judá, y fueron heridos.
 
 ### 20:23
 
@@ -1709,11 +1709,11 @@ Y se levantaron hijos de Amón y Moav sobre habitantes de monte de Seír, para d
 
 ### 20:24
 
-Y Yehudá vino sobre la atalaya al desierto, y se volvieron a la muchedumbre, y he aquí ellos cadáveres caídos a tierra, y no hay escape.
+Y Judá vino sobre la atalaya al desierto, y se volvieron a la muchedumbre, y he aquí ellos cadáveres caídos a tierra, y no hay escape.
 
 ### 20:25
 
-Y vino Yehoshafat y su pueblo a saquear su botín, y hallaron en ellos a abundancia y bienes y cadáveres y utensilios deseables, y se despojaron a ellos hasta no carga; y fueron días tres saqueando el botín, porque mucho él.
+Y vino Josafat y su pueblo a saquear su botín, y hallaron en ellos a abundancia y bienes y cadáveres y utensilios deseables, y se despojaron a ellos hasta no carga; y fueron días tres saqueando el botín, porque mucho él.
 
 ### 20:26
 
@@ -1721,11 +1721,11 @@ Y en el día el cuarto se reunieron a valle de Berajá, porque allí bendijeron 
 
 ### 20:27
 
-Y volvieron todo hombre de Yehudá y Yerushaláyim, y Yehoshafat a su cabeza, para volver a Yerushaláyim con alegría, porque los alegró Jehová de sus enemigos.
+Y volvieron todo hombre de Judá y Jerusalén, y Josafat a su cabeza, para volver a Jerusalén con alegría, porque los alegró Jehová de sus enemigos.
 
 ### 20:28
 
-Y vinieron a Yerushaláyim con liras y con cítaras y con trompetas a casa de Jehová.
+Y vinieron a Jerusalén con liras y con cítaras y con trompetas a casa de Jehová.
 
 ### 20:29
 
@@ -1733,11 +1733,11 @@ Y fue pavor de Dios sobre todos los reinos de las tierras, al oír ellos que pel
 
 ### 20:30
 
-Y reposó reino de Yehoshafat, y dio reposo a él su Dios de alrededor.
+Y reposó reino de Josafat, y dio reposo a él su Dios de alrededor.
 
 ### 20:31
 
-Y reinó Yehoshafat sobre Yehudá: hijo de treinta y cinco año en su reinar, y veinte y cinco año reinó en Yerushaláyim; y nombre de su madre Azuvá hija de Shiljí.
+Y reinó Josafat sobre Judá: hijo de treinta y cinco año en su reinar, y veinte y cinco año reinó en Jerusalén; y nombre de su madre Azuvá hija de Shiljí.
 
 ### 20:32
 
@@ -1749,33 +1749,33 @@ Solo las bamot no se apartaron, y aún el pueblo no preparó su corazón a Dios 
 
 ### 20:34
 
-Y resto de palabras de Yehoshafat, las primeras y las últimas, he aquí ellas escritas en palabras de Yehú hijo de Jananí, que fue hecho subir sobre rollo de reyes de Israel.
+Y resto de palabras de Josafat, las primeras y las últimas, he aquí ellas escritas en palabras de Yehú hijo de Jananí, que fue hecho subir sobre rollo de reyes de Israel.
 
 ### 20:35
 
-Y después de así se asoció Yehoshafat rey de Yehudá con Ajazyá rey de Israel; él hizo impío para hacer.
+Y después de así se asoció Josafat rey de Judá con Ajazyá rey de Israel; él hizo impío para hacer.
 
 ### 20:36
 
-Y lo asoció con él para hacer naves para ir a Tarshish; e hicieron naves en Etsyón Gáver.
+Y lo asoció con él para hacer naves para ir a Tarsis; e hicieron naves en Etsyón Gáver.
 
 ### 20:37
 
-Y profetizó Eliezer hijo de Dodavahu de Maréshá sobre Yehoshafat, diciendo: En tu asociarte con Ajazyahu, rompió Jehová tus obras; y se quebraron las naves, y no retuvieron para ir a Tarshish.
+Y profetizó Eliezer hijo de Dodavahu de Maréshá sobre Josafat, diciendo: En tu asociarte con Ajazyahu, rompió Jehová tus obras; y se quebraron las naves, y no retuvieron para ir a Tarsis.
 
 ## Capítulo 21
 
 ### 21:1
 
-Y se acostó Yehoshafat con sus padres, y fue sepultado con sus padres en ciudad de David; y reinó Yehoram su hijo debajo de él.
+Y se acostó Josafat con sus padres, y fue sepultado con sus padres en ciudad de David; y reinó Yehoram su hijo debajo de él.
 
 ### 21:2
 
-Y a él hermanos, hijos de Yehoshafat: Azaryá y Yejiel y Zekaryahu y Azaryahu y Mijael y Shefatyahu; todos estos hijos de Yehoshafat rey de Israel.
+Y a él hermanos, hijos de Josafat: Azaryá y Yejiel y Zekaryahu y Azaryahu y Mijael y Shefatyahu; todos estos hijos de Josafat rey de Israel.
 
 ### 21:3
 
-Y dio a ellos su padre dones muchos, a plata y a oro y a cosas preciosas, con ciudades de fortalezas en Yehudá; y el reino dio a Yehoram, porque él el primogénito.
+Y dio a ellos su padre dones muchos, a plata y a oro y a cosas preciosas, con ciudades de fortalezas en Judá; y el reino dio a Yehoram, porque él el primogénito.
 
 ### 21:4
 
@@ -1783,11 +1783,11 @@ Y se levantó Yehoram sobre reino de su padre, y se fortaleció, y mató a todos
 
 ### 21:5
 
-Hijo de treinta y dos año Yehoram en su reinar, y ocho años reinó en Yerushaláyim.
+Hijo de treinta y dos año Yehoram en su reinar, y ocho años reinó en Jerusalén.
 
 ### 21:6
 
-Y anduvo en camino de reyes de Israel, como hicieron casa de Ajab, porque hija de Ajab fue a él mujer; e hizo lo malo en ojos de Jehová.
+Y anduvo en camino de reyes de Israel, como hicieron casa de Acab, porque hija de Acab fue a él mujer; e hizo lo malo en ojos de Jehová.
 
 ### 21:7
 
@@ -1795,7 +1795,7 @@ Y no quiso Jehová destruir a casa de David, por causa del pacto que cortó a Da
 
 ### 21:8
 
-En sus días se rebeló Edóm de debajo de mano de Yehudá, e hicieron reinar sobre ellos rey.
+En sus días se rebeló Edóm de debajo de mano de Judá, e hicieron reinar sobre ellos rey.
 
 ### 21:9
 
@@ -1803,19 +1803,19 @@ Y pasó Yehoram con sus jefes, y todo el carro con él; y fue levantándose de n
 
 ### 21:10
 
-Y se rebeló Edóm de debajo de mano de Yehudá hasta el día este; entonces se rebeló Livná en el tiempo aquel de debajo de su mano, porque abandonó a Jehová Dios de sus padres.
+Y se rebeló Edóm de debajo de mano de Judá hasta el día este; entonces se rebeló Livná en el tiempo aquel de debajo de su mano, porque abandonó a Jehová Dios de sus padres.
 
 ### 21:11
 
-También él hizo bamot en montes de Yehudá, y prostituyó a moradores de Yerushaláyim, e hizo desviar a Yehudá.
+También él hizo bamot en montes de Judá, y prostituyó a moradores de Jerusalén, e hizo desviar a Judá.
 
 ### 21:12
 
-Y vino a él escrito de Eliyahu el profeta, diciendo: Así dijo Jehová Dios de David tu padre: Por cuanto no anduviste en caminos de Yehoshafat tu padre y en caminos de Asá rey de Yehudá,
+Y vino a él escrito de Eliyahu el profeta, diciendo: Así dijo Jehová Dios de David tu padre: Por cuanto no anduviste en caminos de Josafat tu padre y en caminos de Asá rey de Judá,
 
 ### 21:13
 
-y anduviste en camino de reyes de Israel, y prostituiste a Yehudá y a moradores de Yerushaláyim como prostituir casa de Ajab, y también a tus hermanos, casa de tu padre, los buenos más que tú, mataste,
+y anduviste en camino de reyes de Israel, y prostituiste a Judá y a moradores de Jerusalén como prostituir casa de Acab, y también a tus hermanos, casa de tu padre, los buenos más que tú, mataste,
 
 ### 21:14
 
@@ -1827,11 +1827,11 @@ y tú en enfermedades muchas en enfermedad de tus entrañas, hasta que salgan tu
 
 ### 21:16
 
-Y despertó Jehová sobre Yehoram a espíritu de los pelishtim y de los aravím que sobre mano de cushím.
+Y despertó Jehová sobre Yehoram a espíritu de los filisteos y de los aravím que sobre mano de cushím.
 
 ### 21:17
 
-Y subieron en Yehudá, y la abrieron, y cautivaron a todo el haber el hallado a casa del rey, y también sus hijos y sus mujeres; y no quedó a él hijo sino Yehóajaz, el pequeño de sus hijos.
+Y subieron en Judá, y la abrieron, y cautivaron a todo el haber el hallado a casa del rey, y también sus hijos y sus mujeres; y no quedó a él hijo sino Yehóajaz, el pequeño de sus hijos.
 
 ### 21:18
 
@@ -1843,49 +1843,49 @@ Y fue a días de desde días, y como tiempo de salir el fin a días dos, saliero
 
 ### 21:20
 
-Hijo de treinta y dos era en su reinar, y ocho años reinó en Yerushaláyim; y anduvo sin deseo, y lo sepultaron en ciudad de David, y no en sepulcros de los reyes.
+Hijo de treinta y dos era en su reinar, y ocho años reinó en Jerusalén; y anduvo sin deseo, y lo sepultaron en ciudad de David, y no en sepulcros de los reyes.
 
 ## Capítulo 22
 
 ### 22:1
 
-E hicieron reinar moradores de Yerushaláyim a Ajazyahu su hijo el pequeño debajo de él, porque a todos los primeros mató el escuadrón el venido con los aravím al campamento; y reinó Ajazyahu hijo de Yehoram rey de Yehudá.
+E hicieron reinar moradores de Jerusalén a Ajazyahu su hijo el pequeño debajo de él, porque a todos los primeros mató el escuadrón el venido con los aravím al campamento; y reinó Ajazyahu hijo de Yehoram rey de Judá.
 
 ### 22:2
 
-Hijo de cuarenta y dos año Ajazyahu en su reinar, y año uno reinó en Yerushaláyim; y nombre de su madre Atalyahu hija de Omrí.
+Hijo de cuarenta y dos año Ajazyahu en su reinar, y año uno reinó en Jerusalén; y nombre de su madre Atalyahu hija de Omrí.
 
 ### 22:3
 
-También él anduvo en caminos de casa de Ajab, porque su madre fue su consejera para hacer mal.
+También él anduvo en caminos de casa de Acab, porque su madre fue su consejera para hacer mal.
 
 ### 22:4
 
-E hizo lo malo en ojos de Jehová como casa de Ajab, porque ellos fueron a él consejeros después de muerte de su padre, para destrucción a él.
+E hizo lo malo en ojos de Jehová como casa de Acab, porque ellos fueron a él consejeros después de muerte de su padre, para destrucción a él.
 
 ### 22:5
 
-También en su consejo anduvo, y anduvo con Yehoram hijo de Ajab rey de Israel a la guerra sobre Jazael rey de Aram en Ramot Guilad; e hirieron los aramím a Yoram.
+También en su consejo anduvo, y anduvo con Yehoram hijo de Acab rey de Israel a la guerra sobre Jazael rey de Aram en Ramot Guilad; e hirieron los aramím a Yoram.
 
 ### 22:6
 
-Y volvió para sanarse en Yizreel, porque las heridas que lo hirieron en Ramá al pelear él con Jazael rey de Aram; y Azaryahu hijo de Yehoram rey de Yehudá bajó para ver a Yehoram hijo de Ajab en Yizreel, porque enfermo él.
+Y volvió para sanarse en Yizreel, porque las heridas que lo hirieron en Ramá al pelear él con Jazael rey de Aram; y Azaryahu hijo de Yehoram rey de Judá bajó para ver a Yehoram hijo de Acab en Yizreel, porque enfermo él.
 
 ### 22:7
 
-Y de Dios fue el derribo de Ajazyahu para venir hacia Yoram; y en su venir salió con Yehoram hacia Yehú hijo de Nimsí, que ungió Jehová para cortar a casa de Ajab.
+Y de Dios fue el derribo de Ajazyahu para venir hacia Yoram; y en su venir salió con Yehoram hacia Yehú hijo de Nimsí, que ungió Jehová para cortar a casa de Acab.
 
 ### 22:8
 
-Y fue al juzgar Yehú con casa de Ajab, y halló a jefes de Yehudá y hijos de hermanos de Ajazyahu sirviendo a Ajazyahu, y los mató.
+Y fue al juzgar Yehú con casa de Acab, y halló a jefes de Judá y hijos de hermanos de Ajazyahu sirviendo a Ajazyahu, y los mató.
 
 ### 22:9
 
-Y buscó a Ajazyahu, y lo prendieron —y él escondiéndose en Shomrón—, y lo trajeron hacia Yehú, y lo mataron, y lo sepultaron, porque dijeron: Hijo de Yehoshafat él, que buscó a Jehová con todo su corazón. Y no había a casa de Ajazyahu para retener fuerza para reino.
+Y buscó a Ajazyahu, y lo prendieron —y él escondiéndose en Samaria—, y lo trajeron hacia Yehú, y lo mataron, y lo sepultaron, porque dijeron: Hijo de Josafat él, que buscó a Jehová con todo su corazón. Y no había a casa de Ajazyahu para retener fuerza para reino.
 
 ### 22:10
 
-Y Atalyahu madre de Ajazyahu vio que murió su hijo, y se levantó y exterminó a toda semilla del reino a casa de Yehudá.
+Y Atalyahu madre de Ajazyahu vio que murió su hijo, y se levantó y exterminó a toda semilla del reino a casa de Judá.
 
 ### 22:11
 
@@ -1903,7 +1903,7 @@ Y en el año el séptimo se fortaleció Yehoadá, y tomó a jefes de las cientas
 
 ### 23:2
 
-Y rodearon en Yehudá, y reunieron a los levitas de todas ciudades de Yehudá y cabezas de los padres a Israel, y vinieron a Yerushaláyim.
+Y rodearon en Judá, y reunieron a los levitas de todas ciudades de Judá y cabezas de los padres a Israel, y vinieron a Jerusalén.
 
 ### 23:3
 
@@ -1927,7 +1927,7 @@ Y cercarán los levitas al rey alrededor, varón y sus utensilios en su mano; y 
 
 ### 23:8
 
-E hicieron los levitas y todo Yehudá conforme a todo lo que mandó Yehoadá el sacerdote; y tomaron varón a sus hombres, entrantes del shabat con salientes del shabat, porque no despachó Yehoadá el sacerdote a las divisiones.
+E hicieron los levitas y todo Judá conforme a todo lo que mandó Yehoadá el sacerdote; y tomaron varón a sus hombres, entrantes del shabat con salientes del shabat, porque no despachó Yehoadá el sacerdote a las divisiones.
 
 ### 23:9
 
@@ -1985,7 +1985,7 @@ Y se alegraron todo pueblo de la tierra, y la ciudad reposó; y a Atalyahu matar
 
 ### 24:1
 
-Hijo de siete años Yoash en su reinar, y cuarenta año reinó en Yerushaláyim; y nombre de su madre Tsivyá de Beer Sheva.
+Hijo de siete años Yoash en su reinar, y cuarenta año reinó en Jerusalén; y nombre de su madre Tsivyá de Beerseba.
 
 ### 24:2
 
@@ -2001,11 +2001,11 @@ Y fue después de así, hubo con corazón de Yoash renovar a casa de Jehová.
 
 ### 24:5
 
-Y reunió a los sacerdotes y a los levitas, y dijo a ellos: Salgan a ciudades de Yehudá, y reúnan de todo Israel plata para reforzar a casa de su Dios de año en año, y ustedes apresúrense a la cosa. Y no se apresuraron los levitas.
+Y reunió a los sacerdotes y a los levitas, y dijo a ellos: Salgan a ciudades de Judá, y reúnan de todo Israel plata para reforzar a casa de su Dios de año en año, y ustedes apresúrense a la cosa. Y no se apresuraron los levitas.
 
 ### 24:6
 
-Y llamó el rey a Yehoadá el cabeza, y dijo a él: ¿Por qué no buscaste sobre los levitas para traer de Yehudá y de Yerushaláyim a la contribución de Moisés siervo de Jehová y de la asamblea a Israel, a tienda del testimonio?
+Y llamó el rey a Yehoadá el cabeza, y dijo a él: ¿Por qué no buscaste sobre los levitas para traer de Judá y de Jerusalén a la contribución de Moisés siervo de Jehová y de la asamblea a Israel, a tienda del testimonio?
 
 ### 24:7
 
@@ -2017,7 +2017,7 @@ Y dijo el rey, e hicieron arón uno, y lo pusieron en puerta de casa de Jehová 
 
 ### 24:9
 
-Y dieron voz en Yehudá y en Yerushaláyim para traer a Jehová contribución de Moisés siervo de Dios sobre Israel en el desierto.
+Y dieron voz en Judá y en Jerusalén para traer a Jehová contribución de Moisés siervo de Dios sobre Israel en el desierto.
 
 ### 24:10
 
@@ -2049,11 +2049,11 @@ Y lo sepultaron en ciudad de David con los reyes, porque hizo bien en Israel y c
 
 ### 24:17
 
-Y después de muerte de Yehoadá vinieron jefes de Yehudá, y se postraron al rey; entonces oyó el rey a ellos.
+Y después de muerte de Yehoadá vinieron jefes de Judá, y se postraron al rey; entonces oyó el rey a ellos.
 
 ### 24:18
 
-Y abandonaron a casa de Jehová Dios de sus padres, y sirvieron a las asherím y a los ídolos; y fue ira sobre Yehudá y Yerushaláyim en su culpa esta.
+Y abandonaron a casa de Jehová Dios de sus padres, y sirvieron a las asherím y a los ídolos; y fue ira sobre Judá y Jerusalén en su culpa esta.
 
 ### 24:19
 
@@ -2073,7 +2073,7 @@ Y no recordó Yoash el rey la misericordia que hizo Yehoadá su padre con él, y
 
 ### 24:23
 
-Y fue a vuelta del año, subió sobre él ejército de Aram, y vinieron a Yehudá y Yerushaláyim, y destruyeron a todos jefes del pueblo de desde pueblo, y todo su botín enviaron a rey de Darméseq.
+Y fue a vuelta del año, subió sobre él ejército de Aram, y vinieron a Judá y Jerusalén, y destruyeron a todos jefes del pueblo de desde pueblo, y todo su botín enviaron a rey de Darméseq.
 
 ### 24:24
 
@@ -2095,7 +2095,7 @@ Y sus hijos, y la carga sobre él, y fundación de casa de Dios, he aquí ellos 
 
 ### 25:1
 
-Hijo de veinte y cinco año reinó Amatzyahu, y veinte y nueve año reinó en Yerushaláyim; y nombre de su madre Yehoyadán de Yerushaláyim.
+Hijo de veinte y cinco año reinó Amatzyahu, y veinte y nueve año reinó en Jerusalén; y nombre de su madre Yehoyadán de Jerusalén.
 
 ### 25:2
 
@@ -2111,7 +2111,7 @@ Y a sus hijos no mató, porque como escrito en la torá, en libro de Moisés que
 
 ### 25:5
 
-Y reunió Amatzyahu a Yehudá, y los puso a casa de padres, a jefes de los miles y a jefes de las cientas, a todo Yehudá y Binyamín; y los contó de desde hijo de veinte año y arriba, y los halló trescientos mil joven saliente de ejército, asiendo lanza y escudo.
+Y reunió Amatzyahu a Judá, y los puso a casa de padres, a jefes de los miles y a jefes de las cientas, a todo Judá y Benjamín; y los contó de desde hijo de veinte año y arriba, y los halló trescientos mil joven saliente de ejército, asiendo lanza y escudo.
 
 ### 25:6
 
@@ -2119,7 +2119,7 @@ Y alquiló de Israel cien mil valiente de fuerza en cien talento de plata.
 
 ### 25:7
 
-Y varón de Dios vino a él, diciendo: El rey, no venga contigo ejército de Israel, porque no Jehová con Israel, todo hijos de Efráyim.
+Y varón de Dios vino a él, diciendo: El rey, no venga contigo ejército de Israel, porque no Jehová con Israel, todo hijos de Efraín.
 
 ### 25:8
 
@@ -2131,7 +2131,7 @@ Y dijo Amatzyahu a varón de Dios: Y qué hacer a la cien del talento que di a e
 
 ### 25:10
 
-Y los separó Amatzyahu al escuadrón que vino a él de Efráyim, para ir a su lugar; e hirvió su nariz muy en Yehudá, y volvieron a su lugar en ardor de nariz.
+Y los separó Amatzyahu al escuadrón que vino a él de Efraín, para ir a su lugar; e hirvió su nariz muy en Judá, y volvieron a su lugar en ardor de nariz.
 
 ### 25:11
 
@@ -2139,11 +2139,11 @@ Y Amatzyahu se fortaleció, y condujo a su pueblo, y anduvo valle de la Sal, e h
 
 ### 25:12
 
-Y diez miles vivos cautivaron hijos de Yehudá, y los trajeron a cabeza de la peña, y los echaron de desde cabeza de la peña, y todos ellos se abrieron.
+Y diez miles vivos cautivaron hijos de Judá, y los trajeron a cabeza de la peña, y los echaron de desde cabeza de la peña, y todos ellos se abrieron.
 
 ### 25:13
 
-Y hijos del escuadrón que devolvió Amatzyahu de ir con él a la guerra, saquearon en ciudades de Yehudá de desde Shomrón y hasta Bet Jorón, e hirieron de ellos tres miles, y saquearon botín grande.
+Y hijos del escuadrón que devolvió Amatzyahu de ir con él a la guerra, saquearon en ciudades de Judá de desde Samaria y hasta Bet Jorón, e hirieron de ellos tres miles, y saquearon botín grande.
 
 ### 25:14
 
@@ -2159,15 +2159,15 @@ Y fue al hablar él a él, y dijo a él: ¿Por consejero al rey te dimos? Cesa a
 
 ### 25:17
 
-Y se aconsejó Amatzyahu rey de Yehudá, y envió hacia Yoash hijo de Yehóajaz hijo de Yehú rey de Israel, diciendo: Veámonos faces.
+Y se aconsejó Amatzyahu rey de Judá, y envió hacia Yoash hijo de Yehóajaz hijo de Yehú rey de Israel, diciendo: Veámonos faces.
 
 ### 25:18
 
-Y envió Yoash rey de Israel hacia Amatzyahu rey de Yehudá, diciendo: El cardo que en el Levanón envió al cedro que en el Levanón, diciendo: Da tu hija a mi hijo por mujer; y pasó bestia del campo que en el Levanón, y pisó al cardo.
+Y envió Yoash rey de Israel hacia Amatzyahu rey de Judá, diciendo: El cardo que en el Líbano envió al cedro que en el Líbano, diciendo: Da tu hija a mi hijo por mujer; y pasó bestia del campo que en el Líbano, y pisó al cardo.
 
 ### 25:19
 
-Dijiste: He aquí heriste a Edóm, y te alzó tu corazón para engrandecer; ahora siéntate en tu casa; ¿por qué te enzarzas en mal, y caerás tú y Yehudá contigo?
+Dijiste: He aquí heriste a Edóm, y te alzó tu corazón para engrandecer; ahora siéntate en tu casa; ¿por qué te enzarzas en mal, y caerás tú y Judá contigo?
 
 ### 25:20
 
@@ -2175,49 +2175,49 @@ Y no oyó Amatzyahu, porque de Dios ella, a fin de darlos en mano, porque buscar
 
 ### 25:21
 
-Y subió Yoash rey de Israel, y se vieron faces él y Amatzyahu rey de Yehudá en Bet Shémesh que a Yehudá.
+Y subió Yoash rey de Israel, y se vieron faces él y Amatzyahu rey de Judá en Bet Shémesh que a Judá.
 
 ### 25:22
 
-Y fue herido Yehudá delante de Israel, y huyeron hombre a sus tiendas.
+Y fue herido Judá delante de Israel, y huyeron hombre a sus tiendas.
 
 ### 25:23
 
-Y a Amatzyahu rey de Yehudá hijo de Yoash hijo de Yehóajaz tomó Yoash rey de Israel en Bet Shémesh, y lo trajo a Yerushaláyim, y rompió en muralla de Yerushaláyim desde puerta de Efráyim hasta puerta la que mira, cuatrocientos codo.
+Y a Amatzyahu rey de Judá hijo de Yoash hijo de Yehóajaz tomó Yoash rey de Israel en Bet Shémesh, y lo trajo a Jerusalén, y rompió en muralla de Jerusalén desde puerta de Efraín hasta puerta la que mira, cuatrocientos codo.
 
 ### 25:24
 
-Y todo el oro y la plata y a todos los utensilios los hallados en casa de Dios con Oved Edóm, y a tesoros de casa del rey, y a hijos de las prendas, y volvió a Shomrón.
+Y todo el oro y la plata y a todos los utensilios los hallados en casa de Dios con Oved Edóm, y a tesoros de casa del rey, y a hijos de las prendas, y volvió a Samaria.
 
 ### 25:25
 
-Y vivió Amatzyahu hijo de Yoash rey de Yehudá después de muerte de Yoash hijo de Yehóajaz rey de Israel quince año.
+Y vivió Amatzyahu hijo de Yoash rey de Judá después de muerte de Yoash hijo de Yehóajaz rey de Israel quince año.
 
 ### 25:26
 
-Y resto de palabras de Amatzyahu, las primeras y las últimas, ¿no he aquí ellas escritas sobre libro de reyes de Yehudá e Israel?
+Y resto de palabras de Amatzyahu, las primeras y las últimas, ¿no he aquí ellas escritas sobre libro de reyes de Judá e Israel?
 
 ### 25:27
 
-Y desde tiempo que se apartó Amatzyahu de detrás de Jehová, conspiraron sobre él conspiración en Yerushaláyim, y huyó a Lajish; y enviaron detrás de él a Lajish, y lo mataron allí.
+Y desde tiempo que se apartó Amatzyahu de detrás de Jehová, conspiraron sobre él conspiración en Jerusalén, y huyó a Lajish; y enviaron detrás de él a Lajish, y lo mataron allí.
 
 ### 25:28
 
-Y lo alzaron sobre los caballos, y sepultaron a él con sus padres en ciudad de Yehudá.
+Y lo alzaron sobre los caballos, y sepultaron a él con sus padres en ciudad de Judá.
 
 ## Capítulo 26
 
 ### 26:1
 
-Y tomaron todo pueblo de Yehudá a Uzziyahu —y él hijo de dieciséis año—, y lo hicieron reinar debajo de su padre Amatzyahu.
+Y tomaron todo pueblo de Judá a Uzías —y él hijo de dieciséis año—, y lo hicieron reinar debajo de su padre Amatzyahu.
 
 ### 26:2
 
-Él edificó a Eilot, y la devolvió a Yehudá después de acostarse el rey con sus padres.
+Él edificó a Eilot, y la devolvió a Judá después de acostarse el rey con sus padres.
 
 ### 26:3
 
-Hijo de dieciséis año Uzziyahu en su reinar, y cincuenta y dos año reinó en Yerushaláyim; y nombre de su madre Min de Yerushaláyim.
+Hijo de dieciséis año Uzías en su reinar, y cincuenta y dos año reinó en Jerusalén; y nombre de su madre Min de Jerusalén.
 
 ### 26:4
 
@@ -2229,19 +2229,19 @@ Y fue para buscar a Dios en días de Zekaryahu el que entiende en visiones de Di
 
 ### 26:6
 
-Y salió y peleó en los pelishtim, y rompió a muralla de Gat y a muralla de Yavné y a muralla de Ashdod, y edificó ciudades en Ashdod y en los pelishtim.
+Y salió y peleó en los filisteos, y rompió a muralla de Gat y a muralla de Yavné y a muralla de Ashdod, y edificó ciudades en Ashdod y en los filisteos.
 
 ### 26:7
 
-Y lo ayudó Dios sobre pelishtim y sobre los moradores en Gur Baal y los meuním.
+Y lo ayudó Dios sobre filisteos y sobre los moradores en Gur Baal y los meuním.
 
 ### 26:8
 
-Y dieron los amonitas ofrenda a Uzziyahu; y anduvo su nombre hasta entrada de Mizraim, porque se fortaleció hasta arriba.
+Y dieron los amonitas ofrenda a Uzías; y anduvo su nombre hasta entrada de Egipto, porque se fortaleció hasta arriba.
 
 ### 26:9
 
-Y edificó Uzziyahu torres en Yerushaláyim sobre puerta de la esquina y sobre puerta del valle y sobre el ángulo, y las fortaleció.
+Y edificó Uzías torres en Jerusalén sobre puerta de la esquina y sobre puerta del valle y sobre el ángulo, y las fortaleció.
 
 ### 26:10
 
@@ -2249,7 +2249,7 @@ Y edificó torres en el desierto, y excavó cisternas muchas, porque ganado much
 
 ### 26:11
 
-Y hubo a Uzziyahu ejército hacedor de guerra, salientes de ejército a escuadrón, en número de su contada por mano del escriba y Maaseyahu el oficial, sobre mano de Jananyahu de jefes del rey.
+Y hubo a Uzías ejército hacedor de guerra, salientes de ejército a escuadrón, en número de su contada por mano del escriba y Maaseyahu el oficial, sobre mano de Jananyahu de jefes del rey.
 
 ### 26:12
 
@@ -2261,11 +2261,11 @@ Y sobre su mano ejército de ejército trescientos mil y siete miles y quiniento
 
 ### 26:14
 
-Y preparó a ellos Uzziyahu a todo el ejército escudos y lanzas y yelmos y corazas y arcos y a piedras de hondas.
+Y preparó a ellos Uzías a todo el ejército escudos y lanzas y yelmos y corazas y arcos y a piedras de hondas.
 
 ### 26:15
 
-E hizo en Yerushaláyim ingenios, invento de inventor, para ser sobre las torres y sobre las esquinas, para disparar con las flechas y con las piedras grandes; y salió su nombre hasta lejos, porque se maravilló para ser ayudado hasta que se fortaleció.
+E hizo en Jerusalén ingenios, invento de inventor, para ser sobre las torres y sobre las esquinas, para disparar con las flechas y con las piedras grandes; y salió su nombre hasta lejos, porque se maravilló para ser ayudado hasta que se fortaleció.
 
 ### 26:16
 
@@ -2277,11 +2277,11 @@ Y entró detrás de él Azaryahu el sacerdote, y con él sacerdotes a Jehová oc
 
 ### 26:18
 
-Y se pararon sobre Uzziyahu el rey, y dijeron a él: No a ti, Uzziyahu, quemar incienso a Jehová, porque a los sacerdotes hijos de Aarón los santificados para quemar incienso; sal de desde el santuario, porque prevaricaste, y no a ti para gloria de desde Jehová Dios.
+Y se pararon sobre Uzías el rey, y dijeron a él: No a ti, Uzías, quemar incienso a Jehová, porque a los sacerdotes hijos de Aarón los santificados para quemar incienso; sal de desde el santuario, porque prevaricaste, y no a ti para gloria de desde Jehová Dios.
 
 ### 26:19
 
-Y se enfureció Uzziyahu, y en su mano incensario para quemar incienso; y en su enfurecerse con los sacerdotes, la tsaráat brotó en su frente delante de los sacerdotes en casa de Jehová de sobre al altar del incienso.
+Y se enfureció Uzías, y en su mano incensario para quemar incienso; y en su enfurecerse con los sacerdotes, la tsaráat brotó en su frente delante de los sacerdotes en casa de Jehová de sobre al altar del incienso.
 
 ### 26:20
 
@@ -2289,21 +2289,21 @@ Y se volvió hacia él Azaryahu sacerdote el cabeza y todos los sacerdotes, y he
 
 ### 26:21
 
-Y fue Uzziyahu el rey leproso hasta día de su muerte, y habitó casa de leproso, porque fue cortado de desde casa de Jehová; y Yotam su hijo sobre casa del rey, juzgando a pueblo de la tierra.
+Y fue Uzías el rey leproso hasta día de su muerte, y habitó casa de leproso, porque fue cortado de desde casa de Jehová; y Jotam su hijo sobre casa del rey, juzgando a pueblo de la tierra.
 
 ### 26:22
 
-Y resto de palabras de Uzziyahu, las primeras y las últimas, escribió Yeshayahu hijo de Amots el profeta.
+Y resto de palabras de Uzías, las primeras y las últimas, escribió Isaías hijo de Amoz el profeta.
 
 ### 26:23
 
-Y se acostó Uzziyahu con sus padres, y sepultaron a él con sus padres en campo del sepulcro que a los reyes, porque dijeron: Leproso él; y reinó Yotam su hijo debajo de él.
+Y se acostó Uzías con sus padres, y sepultaron a él con sus padres en campo del sepulcro que a los reyes, porque dijeron: Leproso él; y reinó Jotam su hijo debajo de él.
 
 ## Capítulo 27
 
 ### 27:1
 
-Hijo de veinte y cinco año Yotam en su reinar, y dieciséis año reinó en Yerushaláyim; y nombre de su madre Yerushá hija de Tsadóq.
+Hijo de veinte y cinco año Jotam en su reinar, y dieciséis año reinó en Jerusalén; y nombre de su madre Yerushá hija de Tsadóq.
 
 ### 27:2
 
@@ -2315,7 +2315,7 @@ E hizo el recto en ojos de Jehová, conforme a todo lo que hizo Uzíyahu su padr
 
 ### 27:4
 
-Y ciudades edificó en monte de Yehudá; y en los bosques edificó fortalezas y torres.
+Y ciudades edificó en monte de Judá; y en los bosques edificó fortalezas y torres.
 
 ### 27:5
 
@@ -2323,25 +2323,25 @@ Y él combatió con rey de hijos de Amón, y se fortaleció sobre ellos; y diero
 
 ### 27:6
 
-Y se fortaleció Yotam, porque preparó sus caminos delante de Jehová su Dios.
+Y se fortaleció Jotam, porque preparó sus caminos delante de Jehová su Dios.
 
 ### 27:7
 
-Y resto de palabras de Yotam, y todas sus guerras y sus caminos, he aquí ellos escritos sobre libro de reyes de Israel y Yehudá.
+Y resto de palabras de Jotam, y todas sus guerras y sus caminos, he aquí ellos escritos sobre libro de reyes de Israel y Judá.
 
 ### 27:8
 
-Hijo de veinte y cinco año fue en su reinar, y dieciséis año reinó en Yerushaláyim.
+Hijo de veinte y cinco año fue en su reinar, y dieciséis año reinó en Jerusalén.
 
 ### 27:9
 
-Y se acostó Yotam con sus padres, y lo sepultaron en ciudad de David; y reinó Ajaz su hijo debajo de él.
+Y se acostó Jotam con sus padres, y lo sepultaron en ciudad de David; y reinó Acaz su hijo debajo de él.
 
 ## Capítulo 28
 
 ### 28:1
 
-Hijo de veinte año Ajaz en su reinar, y dieciséis año reinó en Yerushaláyim; y no hizo el recto en ojos de Jehová como David su padre.
+Hijo de veinte año Acaz en su reinar, y dieciséis año reinó en Jerusalén; y no hizo el recto en ojos de Jehová como David su padre.
 
 ### 28:2
 
@@ -2361,23 +2361,23 @@ Y lo dio Jehová su Dios en mano de rey de Aram, y lo hirieron, y cautivaron de 
 
 ### 28:6
 
-Y mató Peqaj hijo de Remalyahu en Yehudá ciento y veinte mil en día uno, todos hijos de valor, en su dejar a Jehová Dios de sus padres.
+Y mató Peqaj hijo de Remalyahu en Judá ciento y veinte mil en día uno, todos hijos de valor, en su dejar a Jehová Dios de sus padres.
 
 ### 28:7
 
-Y mató Zijrí, valiente de Efráyim, a Maaséyahu hijo del rey, y a Azriqam, príncipe de la casa, y a Elqaná, segundo del rey.
+Y mató Zijrí, valiente de Efraín, a Maaséyahu hijo del rey, y a Azriqam, príncipe de la casa, y a Elqaná, segundo del rey.
 
 ### 28:8
 
-Y cautivaron hijos de Israel de sus hermanos doscientos mil, mujeres, hijos e hijas; y también botín mucho saquearon de ellos, y trajeron el botín a Shomrón.
+Y cautivaron hijos de Israel de sus hermanos doscientos mil, mujeres, hijos e hijas; y también botín mucho saquearon de ellos, y trajeron el botín a Samaria.
 
 ### 28:9
 
-Y allí había profeta a Jehová, Odéd su nombre; y salió delante del ejército que venía a Shomrón, y les dijo a ellos: He aquí, en furor de Jehová Dios de sus padres de ustedes sobre Yehudá, los dio en mano de ustedes, y mataron en ellos en rabia hasta a los cielos llegó.
+Y allí había profeta a Jehová, Odéd su nombre; y salió delante del ejército que venía a Samaria, y les dijo a ellos: He aquí, en furor de Jehová Dios de sus padres de ustedes sobre Judá, los dio en mano de ustedes, y mataron en ellos en rabia hasta a los cielos llegó.
 
 ### 28:10
 
-Y ahora, hijos de Yehudá y Yerushaláyim ustedes están diciendo para sojuzgar por siervos y por siervas a ustedes; ¿no solo ustedes con ustedes culpas a Jehová Dios de ustedes?
+Y ahora, hijos de Judá y Jerusalén ustedes están diciendo para sojuzgar por siervos y por siervas a ustedes; ¿no solo ustedes con ustedes culpas a Jehová Dios de ustedes?
 
 ### 28:11
 
@@ -2385,7 +2385,7 @@ Y ahora óiganme, y devuelvan el cautiverio que cautivaron de sus hermanos de us
 
 ### 28:12
 
-Y se levantaron hombres de cabezas de hijos de Efráyim, Azaryahu hijo de Yehojanán, Berajyahu hijo de Meshillemot, y Yijizqiyahu hijo de Shalum, y Amasá hijo de Jadlay, sobre los que venían del ejército.
+Y se levantaron hombres de cabezas de hijos de Efraín, Azaryahu hijo de Yehojanán, Berajyahu hijo de Meshillemot, y Yijizqiyahu hijo de Shalum, y Amasá hijo de Jadlay, sobre los que venían del ejército.
 
 ### 28:13
 
@@ -2397,35 +2397,35 @@ Y dejó el armado el cautiverio y el botín delante de los jefes y de toda la as
 
 ### 28:15
 
-Y se levantaron los hombres que fueron designados por nombres, y asieron en el cautiverio, y a todos sus desnudos vistieron del botín, y los vistieron, y los calzaron, y los alimentaron, y los dieron de beber, y los ungieron, y los condujeron en asnos a todo el que tropezaba, y los trajeron a Yerijó, ciudad de las palmeras, junto a sus hermanos; y volvieron a Shomrón.
+Y se levantaron los hombres que fueron designados por nombres, y asieron en el cautiverio, y a todos sus desnudos vistieron del botín, y los vistieron, y los calzaron, y los alimentaron, y los dieron de beber, y los ungieron, y los condujeron en asnos a todo el que tropezaba, y los trajeron a Yerijó, ciudad de las palmeras, junto a sus hermanos; y volvieron a Samaria.
 
 ### 28:16
 
-En el tiempo aquel envió el rey Ajaz a reyes de Ashur para ayudarlo a él.
+En el tiempo aquel envió el rey Acaz a reyes de Asiria para ayudarlo a él.
 
 ### 28:17
 
-Y aún adomím vinieron, e hirieron en Yehudá, y cautivaron cautiverio.
+Y aún adomím vinieron, e hirieron en Judá, y cautivaron cautiverio.
 
 ### 28:18
 
-Y pelishtim se extendieron en ciudades de la Shefelá y el Néguev a Yehudá, y tomaron a Bet Shémesh y a Ayalón y a ha-Guederot y a Sokó y sus hijas y a Timná y sus hijas y a Gimzó y a sus hijas; y habitaron allí.
+Y filisteos se extendieron en ciudades de la Shefelá y el Neguev a Judá, y tomaron a Bet Shémesh y a Ayalón y a ha-Guederot y a Sokó y sus hijas y a Timná y sus hijas y a Gimzó y a sus hijas; y habitaron allí.
 
 ### 28:19
 
-Porque humilló Jehová a Yehudá por causa de Ajaz rey de Israel, porque se desenfrenó en Yehudá, y prevaricó prevaricación en Jehová.
+Porque humilló Jehová a Judá por causa de Acaz rey de Israel, porque se desenfrenó en Judá, y prevaricó prevaricación en Jehová.
 
 ### 28:20
 
-Y vino sobre él Tilgat Pilneser rey de Ashur, y lo angustió a él, y no lo fortaleció.
+Y vino sobre él Tilgat Pilneser rey de Asiria, y lo angustió a él, y no lo fortaleció.
 
 ### 28:21
 
-Porque repartió Ajaz la casa de Jehová y la casa del rey y los jefes, y dio a rey de Ashur; y no para ayuda a él.
+Porque repartió Acaz la casa de Jehová y la casa del rey y los jefes, y dio a rey de Asiria; y no para ayuda a él.
 
 ### 28:22
 
-Y en tiempo de angustiarle a él, y añadió para prevaricar en Jehová; él el rey Ajaz.
+Y en tiempo de angustiarle a él, y añadió para prevaricar en Jehová; él el rey Acaz.
 
 ### 28:23
 
@@ -2433,25 +2433,25 @@ Y sacrificó a dioses de Darméseq los que lo herían; y dijo: Porque dioses de 
 
 ### 28:24
 
-Y reunió Ajaz los utensilios de casa de Dios, y cortó los utensilios de casa de Dios, y cerró las puertas de casa de Jehová, e hizo a él altares en toda esquina en Yerushaláyim.
+Y reunió Acaz los utensilios de casa de Dios, y cortó los utensilios de casa de Dios, y cerró las puertas de casa de Jehová, e hizo a él altares en toda esquina en Jerusalén.
 
 ### 28:25
 
-Y en toda ciudad y ciudad a Yehudá hizo bamot para quemar incienso a dioses otros, e irritó a Jehová Dios de sus padres.
+Y en toda ciudad y ciudad a Judá hizo bamot para quemar incienso a dioses otros, e irritó a Jehová Dios de sus padres.
 
 ### 28:26
 
-Y resto de sus palabras y todos sus caminos, los primeros y los últimos, he aquí ellos escritos sobre libro de reyes de Yehudá y Israel.
+Y resto de sus palabras y todos sus caminos, los primeros y los últimos, he aquí ellos escritos sobre libro de reyes de Judá y Israel.
 
 ### 28:27
 
-Y se acostó Ajaz con sus padres, y lo sepultaron en la ciudad, en Yerushaláyim, porque no lo trajeron a sepulcros de reyes de Israel; y reinó Jizqiyahu su hijo debajo de él.
+Y se acostó Acaz con sus padres, y lo sepultaron en la ciudad, en Jerusalén, porque no lo trajeron a sepulcros de reyes de Israel; y reinó Ezequías su hijo debajo de él.
 
 ## Capítulo 29
 
 ### 29:1
 
-Jizqiyahu reinó, hijo de veinte y cinco año, y veinte y nueve año reinó en Yerushaláyim; y nombre de su madre Abiyá hija de Zekaryahu.
+Ezequías reinó, hijo de veinte y cinco año, y veinte y nueve año reinó en Jerusalén; y nombre de su madre Abiyá hija de Zekaryahu.
 
 ### 29:2
 
@@ -2479,7 +2479,7 @@ También cerraron puertas del ulam, y apagaron las lámparas, y incienso no quem
 
 ### 29:8
 
-Y fue furor de Jehová sobre Yehudá y Yerushaláyim, y los dio a devastación y a silbido, como ustedes ven con sus ojos de ustedes.
+Y fue furor de Jehová sobre Judá y Jerusalén, y los dio a devastación y a silbido, como ustedes ven con sus ojos de ustedes.
 
 ### 29:9
 
@@ -2519,19 +2519,19 @@ Y comenzaron en uno al mes el primero a santificar; y en día ocho al mes vinier
 
 ### 29:18
 
-Y vinieron adentro a Jizqiyahu el rey, y dijeron: Limpiamos toda casa de Jehová, el altar del holocausto y todos sus utensilios, y la mesa de la ordenación y todos sus utensilios;
+Y vinieron adentro a Ezequías el rey, y dijeron: Limpiamos toda casa de Jehová, el altar del holocausto y todos sus utensilios, y la mesa de la ordenación y todos sus utensilios;
 
 ### 29:19
 
-y todos los utensilios que desechó el rey Ajaz en su reinado en su prevaricar, preparamos y santificamos; y he aquí ellos delante de altar de Jehová.
+y todos los utensilios que desechó el rey Acaz en su reinado en su prevaricar, preparamos y santificamos; y he aquí ellos delante de altar de Jehová.
 
 ### 29:20
 
-Y madrugó Jizqiyahu el rey, y reunió a jefes de la ciudad, y subió a casa de Jehová.
+Y madrugó Ezequías el rey, y reunió a jefes de la ciudad, y subió a casa de Jehová.
 
 ### 29:21
 
-Y trajeron toros siete, y carneros siete, y corderos siete, y machos de cabras siete para ofrenda por el pecado, sobre el reino y sobre el santuario y sobre Yehudá; y dijo a hijos de Aarón los sacerdotes para hacer subir sobre altar de Jehová.
+Y trajeron toros siete, y carneros siete, y corderos siete, y machos de cabras siete para ofrenda por el pecado, sobre el reino y sobre el santuario y sobre Judá; y dijo a hijos de Aarón los sacerdotes para hacer subir sobre altar de Jehová.
 
 ### 29:22
 
@@ -2555,7 +2555,7 @@ Y se colocaron los levitas con utensilios de David, y los sacerdotes con las tro
 
 ### 29:27
 
-Y dijo Jizqiyahu para hacer subir el holocausto al altar; y en tiempo de comenzar el holocausto, comenzó canto de Jehová y las trompetas, y sobre manos de utensilios de David rey de Israel.
+Y dijo Ezequías para hacer subir el holocausto al altar; y en tiempo de comenzar el holocausto, comenzó canto de Jehová y las trompetas, y sobre manos de utensilios de David rey de Israel.
 
 ### 29:28
 
@@ -2567,11 +2567,11 @@ Y al acabar de hacer subir, se arrodillaron el rey y todos los hallados con él,
 
 ### 29:30
 
-Y dijo Jizqiyahu el rey y los jefes a los levitas para alabar a Jehová con palabras de David y de Asaf el vidente; y alabaron hasta a alegría, e inclinaron la cabeza y se postraron.
+Y dijo Ezequías el rey y los jefes a los levitas para alabar a Jehová con palabras de David y de Asaf el vidente; y alabaron hasta a alegría, e inclinaron la cabeza y se postraron.
 
 ### 29:31
 
-Y respondió Jizqiyahu, y dijo: Ahora ustedes llenaron su mano a Jehová; acérquense y traigan sacrificios y agradecimientos a casa de Jehová. Y trajo la asamblea sacrificios y agradecimientos, y todo dispuesto de corazón holocaustos.
+Y respondió Ezequías, y dijo: Ahora ustedes llenaron su mano a Jehová; acérquense y traigan sacrificios y agradecimientos a casa de Jehová. Y trajo la asamblea sacrificios y agradecimientos, y todo dispuesto de corazón holocaustos.
 
 ### 29:32
 
@@ -2591,21 +2591,21 @@ Y también holocausto a lo mucho, con sebos de las ofrendas de paz y con las lib
 
 ### 29:36
 
-Y se alegró Jizqiyahu y todo el pueblo sobre lo que preparó Dios al pueblo; porque de pronto fue la cosa.
+Y se alegró Ezequías y todo el pueblo sobre lo que preparó Dios al pueblo; porque de pronto fue la cosa.
 
 ## Capítulo 30
 
 ### 30:1
 
-Y envió Jizqiyahu sobre todo Israel y Yehudá, y también cartas escribió sobre Efráyim y Menashé, para venir a casa de Jehová en Yerushaláyim, para hacer Pesaj a Jehová Dios de Israel.
+Y envió Ezequías sobre todo Israel y Judá, y también cartas escribió sobre Efraín y Manasés, para venir a casa de Jehová en Jerusalén, para hacer Pesaj a Jehová Dios de Israel.
 
 ### 30:2
 
-Y se aconsejó el rey y sus jefes y toda la asamblea en Yerushaláyim, para hacer el Pesaj en el mes el segundo.
+Y se aconsejó el rey y sus jefes y toda la asamblea en Jerusalén, para hacer el Pesaj en el mes el segundo.
 
 ### 30:3
 
-Porque no pudieron hacerlo en el tiempo aquel, porque los sacerdotes no se santificaron a lo suficiente, y el pueblo no se reunió a Yerushaláyim.
+Porque no pudieron hacerlo en el tiempo aquel, porque los sacerdotes no se santificaron a lo suficiente, y el pueblo no se reunió a Jerusalén.
 
 ### 30:4
 
@@ -2613,11 +2613,11 @@ Y fue recta la cosa en ojos del rey y en ojos de toda la asamblea.
 
 ### 30:5
 
-Y establecieron palabra para hacer pasar voz en todo Israel desde Beer Sheva y hasta Dan, para venir a hacer Pesaj a Jehová Dios de Israel en Yerushaláyim; porque no a lo mucho hicieron como lo escrito.
+Y establecieron palabra para hacer pasar voz en todo Israel desde Beerseba y hasta Dan, para venir a hacer Pesaj a Jehová Dios de Israel en Jerusalén; porque no a lo mucho hicieron como lo escrito.
 
 ### 30:6
 
-Y anduvieron los corredores con las cartas de mano del rey y sus jefes en todo Israel y Yehudá, y conforme a mandato del rey, diciendo: Hijos de Israel, vuelvan a Jehová Dios de Abraham, Yitsjaq e Israel, y volverá a la escapada la restante a ustedes de palma de reyes de Ashur.
+Y anduvieron los corredores con las cartas de mano del rey y sus jefes en todo Israel y Judá, y conforme a mandato del rey, diciendo: Hijos de Israel, vuelvan a Jehová Dios de Abraham, Isaac e Israel, y volverá a la escapada la restante a ustedes de palma de reyes de Asiria.
 
 ### 30:7
 
@@ -2633,23 +2633,23 @@ Porque en su volver de ustedes a Jehová, sus hermanos de ustedes y sus hijos de
 
 ### 30:10
 
-Y fueron los corredores pasando de ciudad a ciudad en tierra de Efráyim y Menashé y hasta Zevulún; y fueron riéndose de ellos y burlándose en ellos.
+Y fueron los corredores pasando de ciudad a ciudad en tierra de Efraín y Manasés y hasta Zabulón; y fueron riéndose de ellos y burlándose en ellos.
 
 ### 30:11
 
-Solo hombres de Asher y de Menashé y de Zevulún se humillaron, y vinieron a Yerushaláyim.
+Solo hombres de Aser y de Manasés y de Zabulón se humillaron, y vinieron a Jerusalén.
 
 ### 30:12
 
-También en Yehudá fue mano de Dios para darles a ellos corazón uno para hacer mandato del rey y de los jefes por palabra de Jehová.
+También en Judá fue mano de Dios para darles a ellos corazón uno para hacer mandato del rey y de los jefes por palabra de Jehová.
 
 ### 30:13
 
-Y se reunieron Yerushaláyim pueblo mucho para hacer la fiesta de los panes ázimos en el mes el segundo, asamblea a lo mucho muy.
+Y se reunieron Jerusalén pueblo mucho para hacer la fiesta de los panes ázimos en el mes el segundo, asamblea a lo mucho muy.
 
 ### 30:14
 
-Y se levantaron, y quitaron los altares que en Yerushaláyim, y todos los quemadores de incienso quitaron, y echaron a arroyo Qidrón.
+Y se levantaron, y quitaron los altares que en Jerusalén, y todos los quemadores de incienso quitaron, y echaron a arroyo Qidrón.
 
 ### 30:15
 
@@ -2665,7 +2665,7 @@ Porque muchos en la asamblea que no se santificaron; y los levitas sobre degüel
 
 ### 30:18
 
-Porque muchedumbre del pueblo, muchos de Efráyim y Menashé, Yisasjar y Zevulún, no se limpiaron, porque comieron el Pesaj no como lo escrito; porque oró Jizqiyahu sobre ellos, diciendo: Jehová el bueno expiará por
+Porque muchedumbre del pueblo, muchos de Efraín y Manasés, Isacar y Zabulón, no se limpiaron, porque comieron el Pesaj no como lo escrito; porque oró Ezequías sobre ellos, diciendo: Jehová el bueno expiará por
 
 ### 30:19
 
@@ -2673,15 +2673,15 @@ todo el que su corazón preparó para buscar a Dios, Jehová Dios de sus padres,
 
 ### 30:20
 
-Y oyó Jehová a Jizqiyahu, y sanó al pueblo.
+Y oyó Jehová a Ezequías, y sanó al pueblo.
 
 ### 30:21
 
-E hicieron hijos de Israel los hallados en Yerushaláyim la fiesta de los panes ázimos siete días con alegría grande; y alabando a Jehová día en día los levitas y los sacerdotes con utensilios de fuerza a Jehová.
+E hicieron hijos de Israel los hallados en Jerusalén la fiesta de los panes ázimos siete días con alegría grande; y alabando a Jehová día en día los levitas y los sacerdotes con utensilios de fuerza a Jehová.
 
 ### 30:22
 
-Y habló Jizqiyahu sobre corazón de todos los levitas los que entendían entendimiento bueno a Jehová; y comieron la fiesta señalada siete los días, sacrificando sacrificios de ofrendas de paz, y confesándose a Jehová Dios de sus padres.
+Y habló Ezequías sobre corazón de todos los levitas los que entendían entendimiento bueno a Jehová; y comieron la fiesta señalada siete los días, sacrificando sacrificios de ofrendas de paz, y confesándose a Jehová Dios de sus padres.
 
 ### 30:23
 
@@ -2689,15 +2689,15 @@ Y se aconsejó toda la asamblea para hacer siete días otros; e hicieron siete d
 
 ### 30:24
 
-Porque Jizqiyahu rey de Yehudá alzó a la asamblea mil toros y siete mil rebaño; y los jefes alzaron a la asamblea toros mil y rebaño diez mil; y se santificaron sacerdotes a lo mucho.
+Porque Ezequías rey de Judá alzó a la asamblea mil toros y siete mil rebaño; y los jefes alzaron a la asamblea toros mil y rebaño diez mil; y se santificaron sacerdotes a lo mucho.
 
 ### 30:25
 
-Y se alegraron toda asamblea de Yehudá, y los sacerdotes y los levitas, y toda la asamblea los que venían de Israel, y los forasteros los que venían de tierra de Israel y los habitantes en Yehudá.
+Y se alegraron toda asamblea de Judá, y los sacerdotes y los levitas, y toda la asamblea los que venían de Israel, y los forasteros los que venían de tierra de Israel y los habitantes en Judá.
 
 ### 30:26
 
-Y fue alegría grande en Yerushaláyim; porque desde días de Shelomó hijo de David rey de Israel no como esto en Yerushaláyim.
+Y fue alegría grande en Jerusalén; porque desde días de Salomón hijo de David rey de Israel no como esto en Jerusalén.
 
 ### 30:27
 
@@ -2707,11 +2707,11 @@ Y se levantaron los sacerdotes los levitas, y bendijeron al pueblo; y fue oída 
 
 ### 31:1
 
-Y al acabar todo esto, salieron todo Israel los hallados a ciudades de Yehudá, y rompieron las matsévot, y cortaron las asherím, y derribaron las bamot y los altares de todo Yehudá y Binyamín y en Efráyim y Menashé hasta acabar; y volvieron todos hijos de Israel, hombre a su posesión, a sus ciudades.
+Y al acabar todo esto, salieron todo Israel los hallados a ciudades de Judá, y rompieron las matsévot, y cortaron las asherím, y derribaron las bamot y los altares de todo Judá y Benjamín y en Efraín y Manasés hasta acabar; y volvieron todos hijos de Israel, hombre a su posesión, a sus ciudades.
 
 ### 31:2
 
-Y colocó Jizqiyahu las divisiones de los sacerdotes y los levitas sobre sus divisiones, hombre conforme a su servicio, a los sacerdotes y a los levitas, para holocausto y para ofrendas de paz, para ministrar y para dar gracias y para alabar en puertas de campamentos de Jehová.
+Y colocó Ezequías las divisiones de los sacerdotes y los levitas sobre sus divisiones, hombre conforme a su servicio, a los sacerdotes y a los levitas, para holocausto y para ofrendas de paz, para ministrar y para dar gracias y para alabar en puertas de campamentos de Jehová.
 
 ### 31:3
 
@@ -2719,7 +2719,7 @@ Y porción del rey de su hacienda para los holocaustos: para holocaustos de la m
 
 ### 31:4
 
-Y dijo al pueblo, a habitantes de Yerushaláyim, para dar porción de los sacerdotes y los levitas, a fin de que se fortalezcan en torá de Jehová.
+Y dijo al pueblo, a habitantes de Jerusalén, para dar porción de los sacerdotes y los levitas, a fin de que se fortalezcan en torá de Jehová.
 
 ### 31:5
 
@@ -2727,7 +2727,7 @@ Y al irrumpir la cosa, multiplicaron hijos de Israel primicias de grano, mosto y
 
 ### 31:6
 
-E hijos de Israel y Yehudá los habitantes en ciudades de Yehudá, también ellos diezmo de ganado y rebaño, y diezmo de cosas santas las santificadas a Jehová su Dios, trajeron; y pusieron montones montones.
+E hijos de Israel y Judá los habitantes en ciudades de Judá, también ellos diezmo de ganado y rebaño, y diezmo de cosas santas las santificadas a Jehová su Dios, trajeron; y pusieron montones montones.
 
 ### 31:7
 
@@ -2735,11 +2735,11 @@ En el mes el tercero comenzaron los montones a fundar, y en el mes el séptimo a
 
 ### 31:8
 
-Y vinieron Jizqiyahu y los jefes, y vieron los montones, y bendijeron a Jehová y a su pueblo Israel.
+Y vinieron Ezequías y los jefes, y vieron los montones, y bendijeron a Jehová y a su pueblo Israel.
 
 ### 31:9
 
-E inquirió Jizqiyahu sobre los sacerdotes y los levitas sobre los montones.
+E inquirió Ezequías sobre los sacerdotes y los levitas sobre los montones.
 
 ### 31:10
 
@@ -2747,7 +2747,7 @@ Y le dijo a él Azaryahu el sacerdote la cabeza a casa de Tsadóq, y dijo: Desde
 
 ### 31:11
 
-Y dijo Jizqiyahu para preparar cámaras en casa de Jehová; y prepararon.
+Y dijo Ezequías para preparar cámaras en casa de Jehová; y prepararon.
 
 ### 31:12
 
@@ -2755,7 +2755,7 @@ Y trajeron la ofrenda y el diezmo y las cosas santas con fidelidad; y sobre ello
 
 ### 31:13
 
-Y Yejiel y Azazyahu y Najat y Asael y Yerimot y Yozavad y Eliel y Yismakyahu y Majat y Benayahu, sobrestantes de mano de y Shimí su hermano, por mandato de Jizqiyahu el rey y de Azaryahu príncipe de casa de Dios.
+Y Yejiel y Azazyahu y Najat y Asael y Yerimot y Yozavad y Eliel y Yismakyahu y Majat y Benayahu, sobrestantes de mano de y Shimí su hermano, por mandato de Ezequías el rey y de Azaryahu príncipe de casa de Dios.
 
 ### 31:14
 
@@ -2783,7 +2783,7 @@ Y a hijos de Aarón los sacerdotes en campos de pastizal de sus ciudades, en tod
 
 ### 31:20
 
-E hizo así Jizqiyahu en todo Yehudá; e hizo el bueno y el recto y la verdad delante de Jehová su Dios.
+E hizo así Ezequías en todo Judá; e hizo el bueno y el recto y la verdad delante de Jehová su Dios.
 
 ### 31:21
 
@@ -2793,11 +2793,11 @@ Y en toda obra que comenzó en servicio de casa de Dios y en la torá y en el ma
 
 ### 32:1
 
-Después de las palabras y la verdad estas, vino Sanjerib rey de Ashur, y vino en Yehudá, y acampó sobre las ciudades las fortificadas, y dijo para rendirlas a él.
+Después de las palabras y la verdad estas, vino Sanjerib rey de Asiria, y vino en Judá, y acampó sobre las ciudades las fortificadas, y dijo para rendirlas a él.
 
 ### 32:2
 
-Y vio Jizqiyahu que vino Sanjerib, y sus faces a la guerra sobre Yerushaláyim.
+Y vio Ezequías que vino Sanjerib, y sus faces a la guerra sobre Jerusalén.
 
 ### 32:3
 
@@ -2805,7 +2805,7 @@ Y se aconsejó con sus príncipes y sus valientes para tapar las aguas de los ma
 
 ### 32:4
 
-Y se reunió pueblo mucho, y taparon todos los manantiales y el torrente el que fluye en medio de la tierra, diciendo: ¿Por qué vendrán reyes de Ashur y hallarán aguas muchas?
+Y se reunió pueblo mucho, y taparon todos los manantiales y el torrente el que fluye en medio de la tierra, diciendo: ¿Por qué vendrán reyes de Asiria y hallarán aguas muchas?
 
 ### 32:5
 
@@ -2817,27 +2817,27 @@ Y dio príncipes de guerras sobre el pueblo, y los reunió a él a plaza de puer
 
 ### 32:7
 
-Fórtense y ánimense; no teman y no se abatan de faces de rey de Ashur y de faces de toda la muchedumbre que con él, porque con nosotros más que con él.
+Fórtense y ánimense; no teman y no se abatan de faces de rey de Asiria y de faces de toda la muchedumbre que con él, porque con nosotros más que con él.
 
 ### 32:8
 
-Con él brazo de carne, y con nosotros Jehová nuestro Dios para ayudarnos y para pelear nuestras guerras. Y se apoyó el pueblo sobre palabras de Jizqiyahu rey de Yehudá.
+Con él brazo de carne, y con nosotros Jehová nuestro Dios para ayudarnos y para pelear nuestras guerras. Y se apoyó el pueblo sobre palabras de Ezequías rey de Judá.
 
 ### 32:9
 
-Después de esto envió Sanjerib rey de Ashur sus siervos a Yerushaláyim —y él sobre Lajish, y todo su dominio con él— sobre Jizqiyahu rey de Yehudá y sobre todo Yehudá que en Yerushaláyim, diciendo:
+Después de esto envió Sanjerib rey de Asiria sus siervos a Jerusalén —y él sobre Lajish, y todo su dominio con él— sobre Ezequías rey de Judá y sobre todo Judá que en Jerusalén, diciendo:
 
 ### 32:10
 
-Así dijo Sanjerib rey de Ashur: ¿Sobre qué ustedes confiando, y habitando en matsor en Yerushaláyim?
+Así dijo Sanjerib rey de Asiria: ¿Sobre qué ustedes confiando, y habitando en matsor en Jerusalén?
 
 ### 32:11
 
-¿Acaso no Jizqiyahu incitando a ustedes para dar a ustedes a morir en hambre y en sed, diciendo: Jehová nuestro Dios nos librará de palma de rey de Ashur?
+¿Acaso no Ezequías incitando a ustedes para dar a ustedes a morir en hambre y en sed, diciendo: Jehová nuestro Dios nos librará de palma de rey de Asiria?
 
 ### 32:12
 
-¿Acaso no él, Jizqiyahu, apartó sus bamot y sus altares, y dijo a Yehudá y a Yerushaláyim, diciendo: Delante de altar uno se postrarán, y sobre él quemarán incienso?
+¿Acaso no él, Ezequías, apartó sus bamot y sus altares, y dijo a Judá y a Jerusalén, diciendo: Delante de altar uno se postrarán, y sobre él quemarán incienso?
 
 ### 32:13
 
@@ -2849,55 +2849,55 @@ Así dijo Sanjerib rey de Ashur: ¿Sobre qué ustedes confiando, y habitando en 
 
 ### 32:15
 
-Y ahora, no engañe a ustedes Jizqiyahu, y no incite a ustedes como esto, y no crean a él, porque no podrá todo dios de toda nación y reino para librar a su pueblo de mi mano y de mano de mis padres; cuánto menos que dios de ustedes no librará a ustedes de mi mano.
+Y ahora, no engañe a ustedes Ezequías, y no incite a ustedes como esto, y no crean a él, porque no podrá todo dios de toda nación y reino para librar a su pueblo de mi mano y de mano de mis padres; cuánto menos que dios de ustedes no librará a ustedes de mi mano.
 
 ### 32:16
 
-Y aún hablaron sus siervos sobre Jehová el Dios y sobre Jizqiyahu su siervo.
+Y aún hablaron sus siervos sobre Jehová el Dios y sobre Ezequías su siervo.
 
 ### 32:17
 
-Y escritos escribió para afrentar a Jehová Dios de Israel, y para decir sobre él, diciendo: Como dioses de naciones de las tierras que no libraron a su pueblo de mi mano, así no librará dios de Jizqiyahu a su pueblo de mi mano.
+Y escritos escribió para afrentar a Jehová Dios de Israel, y para decir sobre él, diciendo: Como dioses de naciones de las tierras que no libraron a su pueblo de mi mano, así no librará dios de Ezequías a su pueblo de mi mano.
 
 ### 32:18
 
-Y clamaron en voz grande yehudit sobre pueblo de Yerushaláyim que sobre la muralla, para atemorizarlos y para turbarlos, a fin de que asiesen la ciudad.
+Y clamaron en voz grande yehudit sobre pueblo de Jerusalén que sobre la muralla, para atemorizarlos y para turbarlos, a fin de que asiesen la ciudad.
 
 ### 32:19
 
-Y hablaron a dios de Yerushaláyim como sobre dioses de pueblos de la tierra, obra de manos del hombre.
+Y hablaron a dios de Jerusalén como sobre dioses de pueblos de la tierra, obra de manos del hombre.
 
 ### 32:20
 
-Y oró Jizqiyahu el rey y Yeshayahu hijo de Amots el profeta sobre esto, y clamaron a los cielos.
+Y oró Ezequías el rey y Isaías hijo de Amoz el profeta sobre esto, y clamaron a los cielos.
 
 ### 32:21
 
-Y envió Jehová mensajero, y exterminó a todo valiente de fuerza y nagid y príncipe en campamento de rey de Ashur; y volvió con vergüenza de faces a su tierra, y vino a casa de su dios, y de sus entrañas allí lo hicieron caer a espada.
+Y envió Jehová mensajero, y exterminó a todo valiente de fuerza y nagid y príncipe en campamento de rey de Asiria; y volvió con vergüenza de faces a su tierra, y vino a casa de su dios, y de sus entrañas allí lo hicieron caer a espada.
 
 ### 32:22
 
-Y salvó Jehová a Jizqiyahu y a habitantes de Yerushaláyim de mano de Sanjerib rey de Ashur y de mano de todo; y los guió desde alrededor.
+Y salvó Jehová a Ezequías y a habitantes de Jerusalén de mano de Sanjerib rey de Asiria y de mano de todo; y los guió desde alrededor.
 
 ### 32:23
 
-Y muchos trayendo ofrenda a Jehová a Yerushaláyim, y preciosidades a Jizqiyahu rey de Yehudá; y se enalteció a ojos de todas las naciones desde después de así.
+Y muchos trayendo ofrenda a Jehová a Jerusalén, y preciosidades a Ezequías rey de Judá; y se enalteció a ojos de todas las naciones desde después de así.
 
 ### 32:24
 
-En los días aquellos enfermó Jizqiyahu hasta para morir; y oró a Jehová, y le dijo a él, y señal dio a él.
+En los días aquellos enfermó Ezequías hasta para morir; y oró a Jehová, y le dijo a él, y señal dio a él.
 
 ### 32:25
 
-Y no conforme a la recompensa sobre él devolvió Jizqiyahu, porque se ensoberbeció su corazón; y hubo sobre él furor y sobre Yehudá y Yerushaláyim.
+Y no conforme a la recompensa sobre él devolvió Ezequías, porque se ensoberbeció su corazón; y hubo sobre él furor y sobre Judá y Jerusalén.
 
 ### 32:26
 
-Y se humilló Jizqiyahu en soberbia de su corazón, él y habitantes de Yerushaláyim; y no vino sobre ellos furor de Jehová en días de Jizqiyahu.
+Y se humilló Ezequías en soberbia de su corazón, él y habitantes de Jerusalén; y no vino sobre ellos furor de Jehová en días de Ezequías.
 
 ### 32:27
 
-Y hubo a Jizqiyahu riqueza y gloria mucho muy; y tesoros hizo para él para plata y para oro y para piedra preciosa y para aromas y para escudos y para todos utensilios de deseo.
+Y hubo a Ezequías riqueza y gloria mucho muy; y tesoros hizo para él para plata y para oro y para piedra preciosa y para aromas y para escudos y para todos utensilios de deseo.
 
 ### 32:28
 
@@ -2909,7 +2909,7 @@ Y ciudades hizo para él, y ganado de oveja y ganado mayor a abundancia, porque 
 
 ### 32:30
 
-Y él, Jizqiyahu, tapó la salida de aguas de Gijón el superior, y las enderezó abajo hacia el oeste a ciudad de David; y prosperó Jizqiyahu en toda su obra.
+Y él, Ezequías, tapó la salida de aguas de Gijón el superior, y las enderezó abajo hacia el oeste a ciudad de David; y prosperó Ezequías en toda su obra.
 
 ### 32:31
 
@@ -2917,17 +2917,17 @@ Y así en los intérpretes de príncipes de Babel los enviantes sobre él para i
 
 ### 32:32
 
-Y resto de palabras de Jizqiyahu y sus misericordias, he aquí ellas escritas en visión de Yeshayahu hijo de Amots el profeta, sobre rollo de reyes de Yehudá e Israel.
+Y resto de palabras de Ezequías y sus misericordias, he aquí ellas escritas en visión de Isaías hijo de Amoz el profeta, sobre rollo de reyes de Judá e Israel.
 
 ### 32:33
 
-Y se acostó Jizqiyahu con sus padres, y lo enterraron en subida de sepulcros de hijos de David; y gloria hicieron a él en su muerte todo Yehudá y habitantes de Yerushaláyim; y reinó Menashé su hijo debajo de él.
+Y se acostó Ezequías con sus padres, y lo enterraron en subida de sepulcros de hijos de David; y gloria hicieron a él en su muerte todo Judá y habitantes de Jerusalén; y reinó Manasés su hijo debajo de él.
 
 ## Capítulo 33
 
 ### 33:1
 
-Hijo de doce año Menashé en su reinar, y cincuenta y cinco año reinó en Yerushaláyim.
+Hijo de doce año Manasés en su reinar, y cincuenta y cinco año reinó en Jerusalén.
 
 ### 33:2
 
@@ -2935,11 +2935,11 @@ E hizo el malo en ojos de Jehová, como abominaciones de las naciones que despos
 
 ### 33:3
 
-Y volvió y edificó las bamot que derribó Jizqiyahu su padre, y levantó altares a los baales, e hizo asherot, y se postró a todo ejército de los cielos, y los sirvió.
+Y volvió y edificó las bamot que derribó Ezequías su padre, y levantó altares a los baales, e hizo asherot, y se postró a todo ejército de los cielos, y los sirvió.
 
 ### 33:4
 
-Y edificó altares en casa de Jehová, que dijo Jehová: En Yerushaláyim será mi nombre para siempre.
+Y edificó altares en casa de Jehová, que dijo Jehová: En Jerusalén será mi nombre para siempre.
 
 ### 33:5
 
@@ -2951,7 +2951,7 @@ Y él pasó a sus hijos en el fuego en valle de Ben Hinom, y agoró y adivinó y
 
 ### 33:7
 
-Y puso el ídolo del semel que hizo en casa del Dios, que dijo Dios a David y a Shelomó su hijo: En la casa esta y en Yerushaláyim que elegí de todas tribus de Israel, pondré mi nombre para siempre.
+Y puso el ídolo del semel que hizo en casa del Dios, que dijo Dios a David y a Salomón su hijo: En la casa esta y en Jerusalén que elegí de todas tribus de Israel, pondré mi nombre para siempre.
 
 ### 33:8
 
@@ -2959,15 +2959,15 @@ Y no añadiré para apartar pie de Israel de sobre el suelo que hice estar a pad
 
 ### 33:9
 
-Y hizo errar Menashé a Yehudá y habitantes de Yerushaláyim para hacer malo más que las naciones que exterminó Jehová de faces de hijos de Israel.
+Y hizo errar Manasés a Judá y habitantes de Jerusalén para hacer malo más que las naciones que exterminó Jehová de faces de hijos de Israel.
 
 ### 33:10
 
-Y habló Jehová a Menashé y a su pueblo, y no prestaron atención.
+Y habló Jehová a Manasés y a su pueblo, y no prestaron atención.
 
 ### 33:11
 
-Y trajo Jehová sobre ellos a príncipes del ejército que a rey de Ashur, y asieron a Menashé en los ganchos, y lo ataron en las nechoshetáyim, y lo condujeron a Babelá.
+Y trajo Jehová sobre ellos a príncipes del ejército que a rey de Asiria, y asieron a Manasés en los ganchos, y lo ataron en las nechoshetáyim, y lo condujeron a Babelá.
 
 ### 33:12
 
@@ -2975,19 +2975,19 @@ Y cuando lo angustió a él, rogó faces de Jehová su Dios, y se humilló mucho
 
 ### 33:13
 
-Y oró a él, y se dejó rogar a él, y oyó su súplica, y lo hizo volver a Yerushaláyim a su reino; y conoció Menashé que Jehová él el Dios.
+Y oró a él, y se dejó rogar a él, y oyó su súplica, y lo hizo volver a Jerusalén a su reino; y conoció Manasés que Jehová él el Dios.
 
 ### 33:14
 
-Y después de así edificó muralla exterior a ciudad de David hacia el oeste a Gijón en el torrente, y a la entrada en puerta de los peces, y rodeó al Ofel, y la alzó mucho; y puso príncipes de fuerza en todas las ciudades las fortificadas en Yehudá.
+Y después de así edificó muralla exterior a ciudad de David hacia el oeste a Gijón en el torrente, y a la entrada en puerta de los peces, y rodeó al Ofel, y la alzó mucho; y puso príncipes de fuerza en todas las ciudades las fortificadas en Judá.
 
 ### 33:15
 
-Y apartó a dioses del extranjero y al semel de casa de Jehová, y todos los altares que edificó en monte de casa de Jehová y en Yerushaláyim, y los echó fuera a la ciudad.
+Y apartó a dioses del extranjero y al semel de casa de Jehová, y todos los altares que edificó en monte de casa de Jehová y en Jerusalén, y los echó fuera a la ciudad.
 
 ### 33:16
 
-El altar de Jehová, y sacrificó sobre él sacrificios de paces y todá, y dijo a Yehudá para servir a Jehová Dios de Israel.
+El altar de Jehová, y sacrificó sobre él sacrificios de paces y todá, y dijo a Judá para servir a Jehová Dios de Israel.
 
 ### 33:17
 
@@ -2995,7 +2995,7 @@ Pero aún el pueblo sacrificando en las bamot, solo a Jehová su Dios.
 
 ### 33:18
 
-Y resto de palabras de Menashé y su oración a su Dios, y palabras de los videntes los que hablan a él en nombre de Jehová Dios de Israel, he aquí ellas sobre palabras de reyes de Israel.
+Y resto de palabras de Manasés y su oración a su Dios, y palabras de los videntes los que hablan a él en nombre de Jehová Dios de Israel, he aquí ellas sobre palabras de reyes de Israel.
 
 ### 33:19
 
@@ -3003,19 +3003,19 @@ Y su oración y el dejarse rogar a él, y todo su pecado y su delito, y los luga
 
 ### 33:20
 
-Y se acostó Menashé con sus padres, y lo enterraron en su casa; y reinó Amón su hijo debajo de él.
+Y se acostó Manasés con sus padres, y lo enterraron en su casa; y reinó Amón su hijo debajo de él.
 
 ### 33:21
 
-Hijo de veinte y dos año Amón en su reinar, y dos años reinó en Yerushaláyim.
+Hijo de veinte y dos año Amón en su reinar, y dos años reinó en Jerusalén.
 
 ### 33:22
 
-E hizo el malo en ojos de Jehová, como que hizo Menashé su padre; y a todos los ídolos que hizo Menashé su padre sacrificó Amón, y los sirvió.
+E hizo el malo en ojos de Jehová, como que hizo Manasés su padre; y a todos los ídolos que hizo Manasés su padre sacrificó Amón, y los sirvió.
 
 ### 33:23
 
-Y no se humilló de faces de Jehová como el humillarse de Menashé su padre, porque él, Amón, multiplicó culpa.
+Y no se humilló de faces de Jehová como el humillarse de Manasés su padre, porque él, Amón, multiplicó culpa.
 
 ### 33:24
 
@@ -3029,7 +3029,7 @@ E hirió pueblo de la tierra a todos los conspiradores sobre el rey Amón; e hic
 
 ### 34:1
 
-Hijo de ocho años Yoshiyahu en su reinar, y treinta y uno año reinó en Yerushaláyim.
+Hijo de ocho años Yoshiyahu en su reinar, y treinta y uno año reinó en Jerusalén.
 
 ### 34:2
 
@@ -3037,7 +3037,7 @@ E hizo el recto en ojos de Jehová, y anduvo en caminos de David su padre, y no 
 
 ### 34:3
 
-Y en ocho años a su reinar, y él aún muchacho, comenzó a inquirir a Dios de David su padre; y en doce año comenzó a purificar a Yehudá y Yerushaláyim de las bamot y las asherim y los ídolos y las masas fundidas.
+Y en ocho años a su reinar, y él aún muchacho, comenzó a inquirir a Dios de David su padre; y en doce año comenzó a purificar a Judá y Jerusalén de las bamot y las asherim y los ídolos y las masas fundidas.
 
 ### 34:4
 
@@ -3045,15 +3045,15 @@ Y derribaron delante de él a altares de los baales, y los hamánim que por enci
 
 ### 34:5
 
-Y huesos de sacerdotes quemó sobre; y purificó a Yehudá y a Yerushaláyim.
+Y huesos de sacerdotes quemó sobre; y purificó a Judá y a Jerusalén.
 
 ### 34:6
 
-Y en ciudades de Menashé y Efráyim y Shimón y hasta Naftalí, alrededor.
+Y en ciudades de Manasés y Efraín y Simeón y hasta Neftalí, alrededor.
 
 ### 34:7
 
-Y derribó a los altares y a las asherim, y los ídolos trituró para moler, y todos los hamánim cortó en toda tierra de Israel; y volvió a Yerushaláyim.
+Y derribó a los altares y a las asherim, y los ídolos trituró para moler, y todos los hamánim cortó en toda tierra de Israel; y volvió a Jerusalén.
 
 ### 34:8
 
@@ -3061,7 +3061,7 @@ Y en año dieciocho a su reinar, para purificar la tierra y la casa, envió a Sh
 
 ### 34:9
 
-Y vinieron a Jilqiyahu el sacerdote el grande, y dieron la plata la traída casa de Dios, que recogieron los levitas guardianes del umbral de mano de Menashé y Efráyim y de todo resto de Israel y de todo Yehudá y Binyamín; Yerushaláyim.
+Y vinieron a Hilcías el sacerdote el grande, y dieron la plata la traída casa de Dios, que recogieron los levitas guardianes del umbral de mano de Manasés y Efraín y de todo resto de Israel y de todo Judá y Benjamín; Jerusalén.
 
 ### 34:10
 
@@ -3069,7 +3069,7 @@ Y dieron sobre mano de hacedor de la obra los encargados en casa de Jehová; y d
 
 ### 34:11
 
-Y dieron a los artesanos y a los edificadores para comprar piedras de cantera y maderas para los ensambles y para techar a las casas que destruyeron reyes de Yehudá.
+Y dieron a los artesanos y a los edificadores para comprar piedras de cantera y maderas para los ensambles y para techar a las casas que destruyeron reyes de Judá.
 
 ### 34:12
 
@@ -3081,11 +3081,11 @@ Y sobre los cargadores y dirigiendo a todo hacedor de obra a servicio y servicio
 
 ### 34:14
 
-Y en sacar ellos la plata la traída casa de Jehová, halló Jilqiyahu el sacerdote el rollo de torá de Jehová por mano de Moisés.
+Y en sacar ellos la plata la traída casa de Jehová, halló Hilcías el sacerdote el rollo de torá de Jehová por mano de Moisés.
 
 ### 34:15
 
-Y respondió Jilqiyahu y dijo a Shafán el escriba: Rollo de la torá hallé en casa de Jehová. Y dio Jilqiyahu el rollo a Shafán.
+Y respondió Hilcías y dijo a Shafán el escriba: Rollo de la torá hallé en casa de Jehová. Y dio Hilcías el rollo a Shafán.
 
 ### 34:16
 
@@ -3097,7 +3097,7 @@ Y fundieron la plata la hallada en casa de Jehová, y la dieron sobre mano de lo
 
 ### 34:18
 
-Y anunció Shafán el escriba al rey, diciendo: Rollo dio a mí Jilqiyahu el sacerdote. Y leyó en él Shafán delante del rey.
+Y anunció Shafán el escriba al rey, diciendo: Rollo dio a mí Hilcías el sacerdote. Y leyó en él Shafán delante del rey.
 
 ### 34:19
 
@@ -3105,15 +3105,15 @@ Y fue, en oír el rey las palabras de la torá, y rasgó sus vestidos.
 
 ### 34:20
 
-Y mandó el rey a Jilqiyahu y a Ajikam hijo de Shafán y a Avdón hijo de Mijá y a Shafán el escriba y a Asayá siervo del rey, diciendo:
+Y mandó el rey a Hilcías y a Ajikam hijo de Shafán y a Avdón hijo de Mijá y a Shafán el escriba y a Asayá siervo del rey, diciendo:
 
 ### 34:21
 
-Anden, consulten a Jehová por mí y por el restante en Israel y en Yehudá sobre palabras del rollo que hallado, porque grande furor de Jehová que se derramó en nosotros, sobre que no guardaron nuestros padres la palabra de Jehová, para hacer conforme a todo lo escrito sobre el rollo este.
+Anden, consulten a Jehová por mí y por el restante en Israel y en Judá sobre palabras del rollo que hallado, porque grande furor de Jehová que se derramó en nosotros, sobre que no guardaron nuestros padres la palabra de Jehová, para hacer conforme a todo lo escrito sobre el rollo este.
 
 ### 34:22
 
-Y fue Jilqiyahu y los que del rey a Juldá la profetisa, mujer de Shalum hijo de hijo de Hasrá, guardian de los vestidos; y ella habitando en Yerushaláyim en el Mishné; y hablaron a ella como esto.
+Y fue Hilcías y los que del rey a Juldá la profetisa, mujer de Shalum hijo de hijo de Hasrá, guardian de los vestidos; y ella habitando en Jerusalén en el Mishné; y hablaron a ella como esto.
 
 ### 34:23
 
@@ -3121,7 +3121,7 @@ Y dijo a ellos: Así dijo Jehová Dios de Israel: Digan al varón que envió a u
 
 ### 34:24
 
-Así dijo Jehová: He aquí yo trayendo mal sobre el lugar este y sobre sus habitantes, a todas las maldiciones las escritas sobre el rollo que leyeron delante de rey de Yehudá,
+Así dijo Jehová: He aquí yo trayendo mal sobre el lugar este y sobre sus habitantes, a todas las maldiciones las escritas sobre el rollo que leyeron delante de rey de Judá,
 
 ### 34:25
 
@@ -3129,7 +3129,7 @@ a causa de que me abandonaron, y quemaron incienso a dioses otros, a fin de prov
 
 ### 34:26
 
-Y a rey de Yehudá el que envía a ustedes para inquirir en Jehová, así dirán a él: Así dijo Jehová Dios de Israel: Las palabras que oíste —
+Y a rey de Judá el que envía a ustedes para inquirir en Jehová, así dirán a él: Así dijo Jehová Dios de Israel: Las palabras que oíste —
 
 ### 34:27
 
@@ -3141,11 +3141,11 @@ He aquí yo reuniéndote a tus padres, y serás reunido a tus sepulcros en paz, 
 
 ### 34:29
 
-Y envió el rey, y reunió a todos ancianos de Yehudá y Yerushaláyim.
+Y envió el rey, y reunió a todos ancianos de Judá y Jerusalén.
 
 ### 34:30
 
-Y subió el rey casa de Jehová, y todo varón de Yehudá y habitantes de Yerushaláyim y los sacerdotes y los levitas y todo el pueblo, desde grande y hasta pequeño; y leyó en sus oídos todas palabras de rollo del pacto el hallado casa de Jehová.
+Y subió el rey casa de Jehová, y todo varón de Judá y habitantes de Jerusalén y los sacerdotes y los levitas y todo el pueblo, desde grande y hasta pequeño; y leyó en sus oídos todas palabras de rollo del pacto el hallado casa de Jehová.
 
 ### 34:31
 
@@ -3153,7 +3153,7 @@ Y se paró el rey sobre su puesto, y cortó el pacto delante de Jehová, para an
 
 ### 34:32
 
-Y hizo parar a todo el hallado en Yerushaláyim y en Binyamín; e hicieron habitantes de Yerushaláyim conforme a pacto de Dios, Dios de sus padres.
+Y hizo parar a todo el hallado en Jerusalén y en Benjamín; e hicieron habitantes de Jerusalén conforme a pacto de Dios, Dios de sus padres.
 
 ### 34:33
 
@@ -3163,7 +3163,7 @@ Y apartó Yoshiyahu a todas las abominaciones de todas las tierras que a hijos d
 
 ### 35:1
 
-E hizo Yoshiyahu en Yerushaláyim pesaj a Jehová; y degollaron el pesaj en catorce al mes el primero.
+E hizo Yoshiyahu en Jerusalén pesaj a Jehová; y degollaron el pesaj en catorce al mes el primero.
 
 ### 35:2
 
@@ -3171,11 +3171,11 @@ Y hizo parar a los sacerdotes sobre sus guardias, y los fortaleció al servicio 
 
 ### 35:3
 
-Y dijo a los levitas, a todo Israel los santos a Jehová: Den el arca de la santidad en la casa que edificó Shelomó hijo de David rey de Israel; no hay a ustedes carga en el hombro; ahora sirvan a Jehová Dios de ustedes y a su pueblo Israel.
+Y dijo a los levitas, a todo Israel los santos a Jehová: Den el arca de la santidad en la casa que edificó Salomón hijo de David rey de Israel; no hay a ustedes carga en el hombro; ahora sirvan a Jehová Dios de ustedes y a su pueblo Israel.
 
 ### 35:4
 
-Y prepárense a casa de padres de ustedes conforme a sus divisiones, en escrito de David rey de Israel y en escrito de Shelomó su hijo.
+Y prepárense a casa de padres de ustedes conforme a sus divisiones, en escrito de David rey de Israel y en escrito de Salomón su hijo.
 
 ### 35:5
 
@@ -3231,7 +3231,7 @@ E hicieron hijos de Israel los hallados el pesaj en el tiempo aquel, y la fiesta
 
 ### 35:18
 
-Y no se hizo pesaj como él en Israel desde días de Shemuel el profeta; y todos reyes de Israel no hicieron como el pesaj que hizo Yoshiyahu y los sacerdotes y los levitas y todo Yehudá e Israel el hallado y habitantes de Yerushaláyim.
+Y no se hizo pesaj como él en Israel desde días de Shemuel el profeta; y todos reyes de Israel no hicieron como el pesaj que hizo Yoshiyahu y los sacerdotes y los levitas y todo Judá e Israel el hallado y habitantes de Jerusalén.
 
 ### 35:19
 
@@ -3239,11 +3239,11 @@ En dieciocho año a reino de Yoshiyahu se hizo el pesaj este.
 
 ### 35:20
 
-Después de todo esto que preparó Yoshiyahu la casa, subió Nekó rey de Mizraim para pelear en Karkemish sobre Perat; y salió a su encuentro Yoshiyahu.
+Después de todo esto que preparó Yoshiyahu la casa, subió Nekó rey de Egipto para pelear en Karkemish sobre Perat; y salió a su encuentro Yoshiyahu.
 
 ### 35:21
 
-Y envió a él mensajeros, diciendo: ¿Qué a mí y a ti, rey de Yehudá? No sobre ti tú hoy, porque a casa de mi guerra; y Dios dijo para apresurarme; cesa a ti de Dios que conmigo, y no te destruya.
+Y envió a él mensajeros, diciendo: ¿Qué a mí y a ti, rey de Judá? No sobre ti tú hoy, porque a casa de mi guerra; y Dios dijo para apresurarme; cesa a ti de Dios que conmigo, y no te destruya.
 
 ### 35:22
 
@@ -3255,11 +3255,11 @@ Y dispararon los flecheros al rey Yoshiyahu; y dijo el rey a sus siervos: Hágan
 
 ### 35:24
 
-Y lo hicieron pasar sus siervos del carro, y lo hicieron montar sobre carro del segundo que a él, y lo condujeron a Yerushaláyim, y murió, y fue enterrado en sepulcros de sus padres; y todo Yehudá y Yerushaláyim endechando sobre Yoshiyahu.
+Y lo hicieron pasar sus siervos del carro, y lo hicieron montar sobre carro del segundo que a él, y lo condujeron a Jerusalén, y murió, y fue enterrado en sepulcros de sus padres; y todo Judá y Jerusalén endechando sobre Yoshiyahu.
 
 ### 35:25
 
-Y endechó Yirmeyahu sobre Yoshiyahu; y dijeron todos los cantores y las cantoras en sus elegías sobre Yoshiyahu hasta el día, y las dieron a estatuto sobre Israel; y he aquí ellas escritas sobre las elegías.
+Y endechó Jeremías sobre Yoshiyahu; y dijeron todos los cantores y las cantoras en sus elegías sobre Yoshiyahu hasta el día, y las dieron a estatuto sobre Israel; y he aquí ellas escritas sobre las elegías.
 
 ### 35:26
 
@@ -3267,29 +3267,29 @@ Y resto de palabras de Yoshiyahu y sus misericordias, como lo escrito en torá d
 
 ### 35:27
 
-y sus palabras las primeras y las postreras, he aquí ellas escritas sobre rollo de reyes de Israel y Yehudá.
+y sus palabras las primeras y las postreras, he aquí ellas escritas sobre rollo de reyes de Israel y Judá.
 
 ## Capítulo 36
 
 ### 36:1
 
-Y tomó pueblo de la tierra a Yehoajaz hijo de Yoshiyahu, y lo hicieron reinar debajo de su padre en Yerushaláyim.
+Y tomó pueblo de la tierra a Yehoajaz hijo de Yoshiyahu, y lo hicieron reinar debajo de su padre en Jerusalén.
 
 ### 36:2
 
-Hijo de veinte y tres año Yoajaz en su reinar, y tres meses reinó en Yerushaláyim.
+Hijo de veinte y tres año Yoajaz en su reinar, y tres meses reinó en Jerusalén.
 
 ### 36:3
 
-Y lo apartó rey de Mizraim en Yerushaláyim, y multó a la tierra cien kikar de plata y kikar de oro.
+Y lo apartó rey de Egipto en Jerusalén, y multó a la tierra cien kikar de plata y kikar de oro.
 
 ### 36:4
 
-E hizo reinar rey de Mizraim a Elyaqim su hermano sobre Yehudá y Yerushaláyim, y volvió su nombre Yehoyaqim; y a Yoajaz su hermano tomó Nekó, y lo trajo a Mizraimá.
+E hizo reinar rey de Egipto a Eliaquim su hermano sobre Judá y Jerusalén, y volvió su nombre Joacim; y a Yoajaz su hermano tomó Nekó, y lo trajo a Mizraimá.
 
 ### 36:5
 
-Hijo de veinte y cinco año Yehoyaqim en su reinar, y once año reinó en Yerushaláyim; e hizo el malo en ojos de Jehová su Dios.
+Hijo de veinte y cinco año Joacim en su reinar, y once año reinó en Jerusalén; e hizo el malo en ojos de Jehová su Dios.
 
 ### 36:6
 
@@ -3301,23 +3301,23 @@ Y de utensilios de casa de Jehová trajo Nebukadnetsár a Babel, y los dio en su
 
 ### 36:8
 
-Y resto de palabras de Yehoyaqim y sus abominaciones que hizo, y lo hallado sobre él, he aquí ellas escritas sobre rollo de reyes de Israel y Yehudá; y reinó Yehoyakín su hijo debajo de él.
+Y resto de palabras de Joacim y sus abominaciones que hizo, y lo hallado sobre él, he aquí ellas escritas sobre rollo de reyes de Israel y Judá; y reinó Joaquín su hijo debajo de él.
 
 ### 36:9
 
-Hijo de ocho años Yehoyakín en su reinar, y tres meses y diez días reinó en Yerushaláyim; e hizo el malo en ojos de Jehová.
+Hijo de ocho años Joaquín en su reinar, y tres meses y diez días reinó en Jerusalén; e hizo el malo en ojos de Jehová.
 
 ### 36:10
 
-Y al retorno del año envió el rey Nebukadnetsár, y lo trajo a Babelá con utensilios de deseo de casa de Jehová; e hizo reinar a Tsidqiyahu su hermano sobre Yehudá y Yerushaláyim.
+Y al retorno del año envió el rey Nebukadnetsár, y lo trajo a Babelá con utensilios de deseo de casa de Jehová; e hizo reinar a Sedequías su hermano sobre Judá y Jerusalén.
 
 ### 36:11
 
-Hijo de veinte y una año Tsidqiyahu en su reinar, y once año reinó en Yerushaláyim.
+Hijo de veinte y una año Sedequías en su reinar, y once año reinó en Jerusalén.
 
 ### 36:12
 
-E hizo el malo en ojos de Jehová su Dios; no se humilló de faces de Yirmeyahu el profeta de boca de Jehová.
+E hizo el malo en ojos de Jehová su Dios; no se humilló de faces de Jeremías el profeta de boca de Jehová.
 
 ### 36:13
 
@@ -3325,7 +3325,7 @@ Y también en el rey Nebukadnetsár se rebeló, que lo hizo jurar en Dios; y end
 
 ### 36:14
 
-También todos príncipes de los sacerdotes y el pueblo multiplicaron para prevaricar prevaricación, conforme a todas abominaciones de las naciones; e impurificaron a casa de Jehová que santificó en Yerushaláyim.
+También todos príncipes de los sacerdotes y el pueblo multiplicaron para prevaricar prevaricación, conforme a todas abominaciones de las naciones; e impurificaron a casa de Jehová que santificó en Jerusalén.
 
 ### 36:15
 
@@ -3345,7 +3345,7 @@ Y todos utensilios de casa del Dios, los grandes y los pequeños, y tesoros de c
 
 ### 36:19
 
-Y quemaron a casa del Dios, y derribaron a muralla de Yerushaláyim, y todos sus palacios quemaron en el fuego, y todos utensilios de sus deseos para destruir.
+Y quemaron a casa del Dios, y derribaron a muralla de Jerusalén, y todos sus palacios quemaron en el fuego, y todos utensilios de sus deseos para destruir.
 
 ### 36:20
 
@@ -3353,12 +3353,12 @@ Y exilió al resto de la espada a Babel; y fueron a él y a sus hijos a siervos 
 
 ### 36:21
 
-para llenar palabra de Jehová por boca de Yirmeyahu, hasta que disfrutó la tierra sus shabatot; todos días de su desolación descansó, para llenar setenta año.
+para llenar palabra de Jehová por boca de Jeremías, hasta que disfrutó la tierra sus shabatot; todos días de su desolación descansó, para llenar setenta año.
 
 ### 36:22
 
-Y en año uno a Koresh rey de Páras, para completar palabra de Jehová por boca de Yirmeyahu, despertó Jehová el espíritu de Koresh rey de Páras, e hizo pasar voz en todo su reino, y también en escrito, diciendo:
+Y en año uno a Koresh rey de Páras, para completar palabra de Jehová por boca de Jeremías, despertó Jehová el espíritu de Koresh rey de Páras, e hizo pasar voz en todo su reino, y también en escrito, diciendo:
 
 ### 36:23
 
-Así dijo Koresh rey de Páras: Todas reinos de la tierra dio a mí Jehová Dios de los cielos, y él encargó sobre mí para edificar a él casa en Yerushaláyim que en Yehudá; ¿quién en ustedes de todo su pueblo? Jehová su Dios con él, y suba.
+Así dijo Koresh rey de Páras: Todas reinos de la tierra dio a mí Jehová Dios de los cielos, y él encargó sobre mí para edificar a él casa en Jerusalén que en Judá; ¿quién en ustedes de todo su pueblo? Jehová su Dios con él, y suba.

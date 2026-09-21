@@ -56,7 +56,7 @@ Entonces hablará a ellos en su nariz, y en su ardor los turbará:
 
 ### 2:6
 
-Y yo instalé a mi rey sobre Tsiyón, monte de mi santidad.
+Y yo instalé a mi rey sobre Sión, monte de mi santidad.
 
 ### 2:7
 
@@ -401,7 +401,7 @@ Y confiarán en ti los conocedores de tu nombre, porque no abandonaste a tus bus
 
 ### 9:11
 
-Salmodien a Jehová, el que se sienta en Tsiyón; anuncien en los pueblos sus hechos.
+Salmodien a Jehová, el que se sienta en Sión; anuncien en los pueblos sus hechos.
 
 ### 9:12
 
@@ -413,7 +413,7 @@ Tenme misericordia, Jehová; ve mi aflicción de mis aborrecedores, tú que me l
 
 ### 9:14
 
-para que yo cuente todas tus alabanzas en las puertas de la hija de Tsiyón; me gozaré en tu salvación.
+para que yo cuente todas tus alabanzas en las puertas de la hija de Sión; me gozaré en tu salvación.
 
 ### 9:15
 
@@ -636,7 +636,7 @@ El consejo del pobre avergonzarán ustedes, porque Jehová es su refugio.
 
 ### 14:7
 
-¡Quién diera desde Tsiyón la salvación de Israel! En el volver Jehová el cautiverio de su pueblo, se gozará Yaakov, se alegrará Israel.
+¡Quién diera desde Sión la salvación de Israel! En el volver Jehová el cautiverio de su pueblo, se gozará Jacob, se alegrará Israel.
 
 ## Capítulo 15
 
@@ -776,7 +776,7 @@ Yo en justicia veré tu rostro; me saciaré al despertar de tu forma.
 
 ### 18:1
 
-Al director. Del siervo de Jehová, de David, que habló a Jehová las palabras de esta canción en el día que Jehová lo libró de la palma de todos sus enemigos y de la mano de Shaúl. Y dijo: Te amaré, Jehová, mi fuerza.
+Al director. Del siervo de Jehová, de David, que habló a Jehová las palabras de esta canción en el día que Jehová lo libró de la palma de todos sus enemigos y de la mano de Saúl. Y dijo: Te amaré, Jehová, mi fuerza.
 
 ### 18:2
 
@@ -1038,11 +1038,11 @@ Sean para agrado los dichos de mi boca y la meditación de mi corazón delante d
 
 ### 20:1
 
-Al director. Salmo de David. Te responda Jehová en el día de angustia; te ensalce el nombre del Dios de Yaakov.
+Al director. Salmo de David. Te responda Jehová en el día de angustia; te ensalce el nombre del Dios de Jacob.
 
 ### 20:2
 
-Envíe tu ayuda desde la santidad, y desde Tsiyón te sostenga.
+Envíe tu ayuda desde la santidad, y desde Sión te sostenga.
 
 ### 20:3
 
@@ -1220,7 +1220,7 @@ Contaré tu nombre a mis hermanos; en medio de la asamblea te alabaré.
 
 ### 22:23
 
-Temerosos de Jehová, alábenlo; toda la semilla de Yaakov, hónrenlo; y teman de él toda la semilla de Israel.
+Temerosos de Jehová, alábenlo; toda la semilla de Jacob, hónrenlo; y teman de él toda la semilla de Israel.
 
 ### 22:24
 
@@ -1306,7 +1306,7 @@ Llevará bendición de parte de Jehová, y justicia del Dios de su salvación.
 
 ### 24:6
 
-Esta es la generación de los que buscan tu rostro, Yaakov. Selá.
+Esta es la generación de los que buscan tu rostro, Jacob. Selá.
 
 ### 24:7
 
@@ -1585,11 +1585,11 @@ Voz de Jehová en el poder; voz de Jehová en el esplendor.
 
 ### 29:5
 
-Voz de Jehová quebrando cedros, y quebró Jehová los cedros del Levanón.
+Voz de Jehová quebrando cedros, y quebró Jehová los cedros del Líbano.
 
 ### 29:6
 
-Y los hizo saltar como becerro; Levanón y Sirión como hijo de búfalos.
+Y los hizo saltar como becerro; Líbano y Sirión como hijo de búfalos.
 
 ### 29:7
 
@@ -1904,7 +1904,7 @@ Sea tu misericordia, Jehová, sobre nosotros, conforme a lo que esperamos en ti.
 
 ### 34:1
 
-De David, cuando cambió su gusto delante de Abimélek, y lo expulsó, y se fue. Bendeciré a Jehová en todo tiempo; continuamente su alabanza en mi boca.
+De David, cuando cambió su gusto delante de Abimelec, y lo expulsó, y se fue. Bendeciré a Jehová en todo tiempo; continuamente su alabanza en mi boca.
 
 ### 34:2
 
@@ -2678,7 +2678,7 @@ Porque no con su espada heredaron tierra, y su brazo no les salvó; sino tu dere
 
 ### 44:4
 
-Tú eres él, mi rey, Dios; manda salvaciones de Yaakov.
+Tú eres él, mi rey, Dios; manda salvaciones de Jacob.
 
 ### 44:5
 
@@ -2817,7 +2817,7 @@ Y deseará el rey tu hermosura, porque él es tu señor; y póstrate a él.
 
 ### 45:12
 
-Y hija de Tsor con ofrenda; tu rostro rogarán ricos de pueblo.
+Y hija de Tiro con ofrenda; tu rostro rogarán ricos de pueblo.
 
 ### 45:13
 
@@ -2868,7 +2868,7 @@ Bramaron naciones, se tambalearon reinos; dio su voz, se derrite tierra.
 
 ### 46:7
 
-Jehová de los ejércitos está con nosotros; alcázar para nosotros es el Dios de Yaakov. Selá.
+Jehová de los ejércitos está con nosotros; alcázar para nosotros es el Dios de Jacob. Selá.
 
 ### 46:8
 
@@ -2884,7 +2884,7 @@ Desistan y sepan que yo soy Dios; seré exaltado en las naciones, seré exaltado
 
 ### 46:11
 
-Jehová de los ejércitos está con nosotros; alcázar para nosotros es el Dios de Yaakov. Selá.
+Jehová de los ejércitos está con nosotros; alcázar para nosotros es el Dios de Jacob. Selá.
 
 ## Capítulo 47
 
@@ -2903,7 +2903,7 @@ Somete pueblos debajo de nosotros, y naciones debajo de nuestros pies.
 
 ### 47:4
 
-Escoge para nosotros nuestra heredad, orgullo de Yaakov, a quien amó. Selá.
+Escoge para nosotros nuestra heredad, orgullo de Jacob, a quien amó. Selá.
 
 ### 47:5
 
@@ -2934,7 +2934,7 @@ Cántico; salmo; de hijos de Qóraj. Grande es Jehová y muy alabado en ciudad d
 
 ### 48:2
 
-Hermoso de altura, gozo de toda la tierra es monte de Tsiyón, extremos del norte, ciudad de rey grande.
+Hermoso de altura, gozo de toda la tierra es monte de Sión, extremos del norte, ciudad de rey grande.
 
 ### 48:3
 
@@ -2970,11 +2970,11 @@ Como tu nombre, Dios, así tu alabanza sobre extremos de tierra; justicia llenó
 
 ### 48:11
 
-Se alegrará monte de Tsiyón; se regocijarán hijas de Yehudá por causa de tus juicios.
+Se alegrará monte de Sión; se regocijarán hijas de Judá por causa de tus juicios.
 
 ### 48:12
 
-Rodeen Tsiyón y la circunden; cuenten sus torres.
+Rodeen Sión y la circunden; cuenten sus torres.
 
 ### 48:13
 
@@ -3076,7 +3076,7 @@ Salmo de Asaf. El, Dios, Jehová, habló y llamó tierra desde salida de sol has
 
 ### 50:2
 
-Desde Tsiyón, perfección de hermosura, Dios resplandeció.
+Desde Sión, perfección de hermosura, Dios resplandeció.
 
 ### 50:3
 
@@ -3235,7 +3235,7 @@ Sacrificios de Dios son espíritu quebrantado; corazón quebrantado y aplastado,
 
 ### 51:18
 
-Haz bien en tu beneplácito a Tsiyón; edifica muros de Yerushaláyim.
+Haz bien en tu beneplácito a Sión; edifica muros de Jerusalén.
 
 ### 51:19
 
@@ -3246,7 +3246,7 @@ Entonces desearás sacrificios de justicia, holocausto y completo; entonces subi
 
 ### 52:1
 
-Al director; maskil de David; cuando vino Doeg el edomí y anunció a Shaúl y le dijo: Vino David a casa de Ajimélek. ¿Qué te jactas en mal, oh poderoso? Misericordia de El es todo el día.
+Al director; maskil de David; cuando vino Doeg el edomí y anunció a Saúl y le dijo: Vino David a casa de Ajimélek. ¿Qué te jactas en mal, oh poderoso? Misericordia de El es todo el día.
 
 ### 52:2
 
@@ -3305,14 +3305,14 @@ Allí temieron terror; no hubo terror; porque Dios esparció los huesos del que 
 
 ### 53:6
 
-¿Quién dará desde Tsiyón salvaciones de Israel? Cuando vuelva Dios el cautiverio de su pueblo, se regocijará Yaakov, se alegrará Israel.
+¿Quién dará desde Sión salvaciones de Israel? Cuando vuelva Dios el cautiverio de su pueblo, se regocijará Jacob, se alegrará Israel.
 
 ## Capítulo 54
 
 
 ### 54:1
 
-Al director; en neguinot; maskil de David; al venir los zifim y decir a Shaúl: ¿No David se esconde con nosotros? Dios, en tu nombre sálvame, y en tu valentía júzgame.
+Al director; en neguinot; maskil de David; al venir los zifim y decir a Saúl: ¿No David se esconde con nosotros? Dios, en tu nombre sálvame, y en tu valentía júzgame.
 
 ### 54:2
 
@@ -3438,7 +3438,7 @@ Y tú, Dios, los harás bajar al pozo de fosa; hombres de sangres y engaño no a
 
 ### 56:1
 
-Al director; sobre Yonat Élem Rejoqim; de David; miktam; al asir a él pelishtim en Gat. Tenme gracia, Dios, porque me tragó hombre; todo el día el que pelea me oprime.
+Al director; sobre Yonat Élem Rejoqim; de David; miktam; al asir a él filisteos en Gat. Tenme gracia, Dios, porque me tragó hombre; todo el día el que pelea me oprime.
 
 ### 56:2
 
@@ -3493,7 +3493,7 @@ Porque libraste mi alma de muerte; ¿no mis pies de tropiezo, para andar delante
 
 ### 57:1
 
-Al director; Al tashjét; de David; miktam; al huir él de faces de Shaúl en la cueva. Tenme gracia, Dios, tenme gracia, porque en ti se refugió mi alma, y en la sombra de tus alas me refugio hasta que pasen desastres.
+Al director; Al tashjét; de David; miktam; al huir él de faces de Saúl en la cueva. Tenme gracia, Dios, tenme gracia, porque en ti se refugió mi alma, y en la sombra de tus alas me refugio hasta que pasen desastres.
 
 ### 57:2
 
@@ -3587,7 +3587,7 @@ Y dirá hombre: Ciertamente fruto para el justo; ciertamente hay Dios jueces en 
 
 ### 59:1
 
-Al director; Al tashjét; de David; miktam; al enviar Shaúl y guardar la casa para matarlo. Líbrame de mis enemigos, Dios mío; de los que se levantan contra mí ensálzame.
+Al director; Al tashjét; de David; miktam; al enviar Saúl y guardar la casa para matarlo. Líbrame de mis enemigos, Dios mío; de los que se levantan contra mí ensálzame.
 
 ### 59:2
 
@@ -3635,7 +3635,7 @@ Pecado de su boca, palabra de sus labios, y sean atrapados en su soberbia, y de 
 
 ### 59:13
 
-Acaba con furor, acaba y no sean; y sepan que Dios rige en Yaakov hasta los confines de la tierra. Selá.
+Acaba con furor, acaba y no sean; y sepan que Dios rige en Jacob hasta los confines de la tierra. Selá.
 
 ### 59:14
 
@@ -3682,7 +3682,7 @@ Dios habló en su santidad: Me regocijaré; repartiré Shejem, y el valle de Suk
 
 ### 60:7
 
-Mío Gilad, y mío Menashé, y Efráyim fortaleza de mi cabeza; Yehudá mi legislador.
+Mío Galaad, y mío Manasés, y Efraín fortaleza de mi cabeza; Judá mi legislador.
 
 ### 60:8
 
@@ -3795,7 +3795,7 @@ Y a ti, Adonai, misericordia, porque tú pagas a hombre conforme a su obra.
 
 ### 63:1
 
-Salmo de David; al estar él en el desierto de Yehudá. Dios, El mío eres tú; te busco de madrugada; sedienta de ti mi alma; te anhela mi carne en tierra seca y cansada sin agua.
+Salmo de David; al estar él en el desierto de Judá. Dios, El mío eres tú; te busco de madrugada; sedienta de ti mi alma; te anhela mi carne en tierra seca y cansada sin agua.
 
 ### 63:2
 
@@ -3885,7 +3885,7 @@ Se alegrará el justo en Jehová y se refugiará en él; y se gloriarán todos l
 
 ### 65:1
 
-Al director; salmo de David; canción. A ti silencio alabanza, Dios en Tsiyón; y a ti se pagará voto.
+Al director; salmo de David; canción. A ti silencio alabanza, Dios en Sión; y a ti se pagará voto.
 
 ### 65:2
 
@@ -4158,7 +4158,7 @@ En asambleas bendigan a Dios, a Jehová, desde la fuente de Israel.
 
 ### 68:27
 
-Allí Binyamín, el pequeño, el que los rige; príncipes de Yehudá, su tropa; príncipes de Zevulún, príncipes de Naftalí.
+Allí Benjamín, el pequeño, el que los rige; príncipes de Judá, su tropa; príncipes de Zabulón, príncipes de Neftalí.
 
 ### 68:28
 
@@ -4166,7 +4166,7 @@ Mandó tu Dios tu fuerza; fortalece, Dios, esto que obraste para nosotros.
 
 ### 68:29
 
-Desde tu templo sobre Yerushaláyim, a ti llevarán reyes ofrenda.
+Desde tu templo sobre Jerusalén, a ti llevarán reyes ofrenda.
 
 ### 68:30
 
@@ -4174,7 +4174,7 @@ Increpa fiera de caña, congregación de toros con becerros de pueblos, humillá
 
 ### 68:31
 
-Vendrán nobles desde Mizraim; Cus hará correr sus manos a Dios.
+Vendrán nobles desde Egipto; Cus hará correr sus manos a Dios.
 
 ### 68:32
 
@@ -4333,7 +4333,7 @@ Lo alaben cielos y tierra, mares y todo lo que repta en ellos.
 
 ### 69:35
 
-Porque Dios salvará a Tsiyón y edificará ciudades de Yehudá, y habitarán allí y la poseerán.
+Porque Dios salvará a Sión y edificará ciudades de Judá, y habitarán allí y la poseerán.
 
 ### 69:36
 
@@ -4466,7 +4466,7 @@ También mi lengua todo el día meditará tu justicia, porque fueron avergonzado
 
 ### 72:1
 
-De Shelomó. Dios, tus juicios al rey da, y tu justicia al hijo de rey.
+De Salomón. Dios, tus juicios al rey da, y tu justicia al hijo de rey.
 
 ### 72:2
 
@@ -4502,7 +4502,7 @@ Delante de él se arrodillarán los habitantes del desierto, y sus enemigos polv
 
 ### 72:10
 
-Reyes de Tarshish y de islas ofrenda devolverán; reyes de Shebá y de Sebá tributo acercarán.
+Reyes de Tarsis y de islas ofrenda devolverán; reyes de Shebá y de Sebá tributo acercarán.
 
 ### 72:11
 
@@ -4526,7 +4526,7 @@ Y vivirá, y le dará del oro de Shebá; y orará por él siempre; todo el día 
 
 ### 72:16
 
-Haya porción de grano en la tierra en cima de montes; se agite como el Levanón su fruto, y florezcan de ciudad como hierba de la tierra.
+Haya porción de grano en la tierra en cima de montes; se agite como el Líbano su fruto, y florezcan de ciudad como hierba de la tierra.
 
 ### 72:17
 
@@ -4791,7 +4791,7 @@ Porque hay copa en la mano de Jehová, y vino fermentado, lleno de mezcla, y der
 
 ### 75:9
 
-Y yo anunciaré para siempre; salmodiaré al Dios de Yaakov.
+Y yo anunciaré para siempre; salmodiaré al Dios de Jacob.
 
 ### 75:10
 
@@ -4802,7 +4802,7 @@ Y todos los cuernos de malvados cortaré; serán exaltados los cuernos del justo
 
 ### 76:1
 
-Al director; en neguinot; salmo de Asaf; cántico. Conocido en Yehudá es Dios; en Israel grande su nombre.
+Al director; en neguinot; salmo de Asaf; cántico. Conocido en Judá es Dios; en Israel grande su nombre.
 
 ### 76:2
 
@@ -4822,7 +4822,7 @@ Fueron despojados los valientes de corazón; durmieron su sueño, y no hallaron 
 
 ### 76:6
 
-Desde tu reprensión, Dios de Yaakov, quedó dormido carro y caballo.
+Desde tu reprensión, Dios de Jacob, quedó dormido carro y caballo.
 
 ### 76:7
 
@@ -4909,7 +4909,7 @@ Tú eres el El que hace maravilla; hiciste conocer en los pueblos tu fuerza.
 
 ### 77:15
 
-Redimiste con brazo a tu pueblo, a los hijos de Yaakov y Yosef. Selá.
+Redimiste con brazo a tu pueblo, a los hijos de Jacob y José. Selá.
 
 ### 77:16
 
@@ -4952,7 +4952,7 @@ No ocultaremos de sus hijos, a la generación posterior, contando alabanzas de J
 
 ### 78:5
 
-Y levantó testimonio en Yaakov, y torá puso en Israel, que mandó a nuestros padres para hacerlas conocer a sus hijos,
+Y levantó testimonio en Jacob, y torá puso en Israel, que mandó a nuestros padres para hacerlas conocer a sus hijos,
 
 ### 78:6
 
@@ -4968,7 +4968,7 @@ y no sean como sus padres, generación rebelde y contumaz, generación que no pr
 
 ### 78:9
 
-Hijos de Efráyim, armados tiradores de arco, volvieron en el día de combate.
+Hijos de Efraín, armados tiradores de arco, volvieron en el día de combate.
 
 ### 78:10
 
@@ -4980,7 +4980,7 @@ Y olvidaron sus obras y sus maravillas que les mostró.
 
 ### 78:12
 
-Delante de sus padres hizo prodigio en tierra de Mizraim, campo de Tsoán.
+Delante de sus padres hizo prodigio en tierra de Egipto, campo de Zoán.
 
 ### 78:13
 
@@ -5016,7 +5016,7 @@ He aquí, hirió peña y fluyeron aguas, y torrentes se desbordaron; ¿también 
 
 ### 78:21
 
-Por tanto oyó Jehová y se airó, y fuego se encendió en Yaakov, y también furor subió en Israel,
+Por tanto oyó Jehová y se airó, y fuego se encendió en Jacob, y también furor subió en Israel,
 
 ### 78:22
 
@@ -5104,7 +5104,7 @@ No recordaron su mano, el día en que los redimió de angustia,
 
 ### 78:43
 
-cuando puso en Mizraim sus señales, y sus prodigios en campo de Tsoán;
+cuando puso en Egipto sus señales, y sus prodigios en campo de Zoán;
 
 ### 78:44
 
@@ -5136,7 +5136,7 @@ Allanaba senda a su furor; no retuvo de muerte su alma, y su vida a la pestilenc
 
 ### 78:51
 
-E hirió todo primogénito en Mizraim, primicia de fuerzas en tiendas de Cam.
+E hirió todo primogénito en Egipto, primicia de fuerzas en tiendas de Cam.
 
 ### 78:52
 
@@ -5200,11 +5200,11 @@ E hirió a sus opresores atrás; afrenta de siempre dio a ellos.
 
 ### 78:67
 
-Y rechazó la tienda de Yosef, y en la tribu de Efráyim no escogió.
+Y rechazó la tienda de José, y en la tribu de Efraín no escogió.
 
 ### 78:68
 
-Y escogió la tribu de Yehudá, el monte Tsión que amó.
+Y escogió la tribu de Judá, el monte Tsión que amó.
 
 ### 78:69
 
@@ -5216,7 +5216,7 @@ Y escogió a David su siervo, y lo tomó de corrales de ovejas;
 
 ### 78:71
 
-de detrás de ovejas de leche lo trajo, para apacentar en Yaakov su pueblo, y en Israel su heredad.
+de detrás de ovejas de leche lo trajo, para apacentar en Jacob su pueblo, y en Israel su heredad.
 
 ### 78:72
 
@@ -5251,7 +5251,7 @@ Derrama tu furor hacia las naciones que no te conocieron, y sobre reinos que en 
 
 ### 79:7
 
-porque comió a Yaakov, y su morada asolaron.
+porque comió a Jacob, y su morada asolaron.
 
 ### 79:8
 
@@ -5282,11 +5282,11 @@ Y nosotros, tu pueblo y ovejas de tu pastoreo, te daremos gracias para siempre; 
 
 ### 80:1
 
-Al director, a lirios; testimonio; de Asaf; salmo. Pastor de Israel, presta oído, el que conduce como ovejas a Yosef; el que se sienta en los querubines, resplandece.
+Al director, a lirios; testimonio; de Asaf; salmo. Pastor de Israel, presta oído, el que conduce como ovejas a José; el que se sienta en los querubines, resplandece.
 
 ### 80:2
 
-Delante de Efráyim y Binyamín y Menashé despierta tu poderío, y anda a salvación para nosotros.
+Delante de Efraín y Benjamín y Manasés despierta tu poderío, y anda a salvación para nosotros.
 
 ### 80:3
 
@@ -5310,7 +5310,7 @@ Dios de los ejércitos, haznos volver, y haz brillar tu rostro, y seremos salvos
 
 ### 80:8
 
-Vid desde Mizraim trasplantaste; expulsaste naciones y la plantaste.
+Vid desde Egipto trasplantaste; expulsaste naciones y la plantaste.
 
 ### 80:9
 
@@ -5361,7 +5361,7 @@ Jehová Dios de los ejércitos, haznos volver; haz brillar tu rostro, y seremos 
 
 ### 81:1
 
-Al director, sobre la guitit; de Asaf. Canten con júbilo a Dios, nuestra fuerza; den grito a Dios de Yaakov.
+Al director, sobre la guitit; de Asaf. Canten con júbilo a Dios, nuestra fuerza; den grito a Dios de Jacob.
 
 ### 81:2
 
@@ -5373,11 +5373,11 @@ Toquen en el mes nuevo shofar, en la luna llena, para el día de nuestra fiesta.
 
 ### 81:4
 
-Porque estatuto para Israel es él, juicio para el Dios de Yaakov.
+Porque estatuto para Israel es él, juicio para el Dios de Jacob.
 
 ### 81:5
 
-Testimonio en Yosef lo puso, al salir él sobre tierra de Mizraim; lengua que no conocí oiré.
+Testimonio en José lo puso, al salir él sobre tierra de Egipto; lengua que no conocí oiré.
 
 ### 81:6
 
@@ -5397,7 +5397,7 @@ No haya en ti dios extraño, y no te postrarás a dios extranjero.
 
 ### 81:10
 
-Yo soy Jehová tu Dios, el que te hizo subir de tierra de Mizraim; ensancha tu boca, y la llenaré.
+Yo soy Jehová tu Dios, el que te hizo subir de tierra de Egipto; ensancha tu boca, y la llenaré.
 
 ### 81:11
 
@@ -5487,11 +5487,11 @@ tiendas de Edom y yismaelim, Moab y los hagrim,
 
 ### 83:7
 
-Geval y Amón y Amaleq, Peléshet con moradores de Tsor.
+Geval y Amón y Amaleq, Peléshet con moradores de Tiro.
 
 ### 83:8
 
-También Ashur se juntó con ellos; fueron brazo a hijos de Lot. Selá.
+También Asiria se juntó con ellos; fueron brazo a hijos de Lot. Selá.
 
 ### 83:9
 
@@ -5566,7 +5566,7 @@ Andarán de fuerza a fuerza; será visto hacia Dios en Tsión.
 
 ### 84:8
 
-Jehová Dios de los ejércitos, oye mi oración; presta oído, Dios de Yaakov. Selá.
+Jehová Dios de los ejércitos, oye mi oración; presta oído, Dios de Jacob. Selá.
 
 ### 84:9
 
@@ -5589,7 +5589,7 @@ Jehová de los ejércitos, dichoso el hombre que confía en ti.
 
 ### 85:1
 
-Para el director. De hijos de Qóraj. Salmo. Te complaciste, Jehová, en tu tierra; hiciste volver a Yaakov.
+Para el director. De hijos de Qóraj. Salmo. Te complaciste, Jehová, en tu tierra; hiciste volver a Jacob.
 
 ### 85:2
 
@@ -5719,7 +5719,7 @@ De hijos de Qóraj. Salmo. Canción. Su fundamento está en montes de santidad.
 
 ### 87:2
 
-Ama Jehová las puertas de Sión más que todas las moradas de Yaakov.
+Ama Jehová las puertas de Sión más que todas las moradas de Jacob.
 
 ### 87:3
 
@@ -5727,7 +5727,7 @@ Cosas gloriosas se hablan en ti, ciudad de Dios. Selá.
 
 ### 87:4
 
-Mencionaré a Rajav y a Bavel a los que me conocen; he aquí, Peleshet y Tsor con Kush: este nació allí.
+Mencionaré a Rajav y a Babilonia a los que me conocen; he aquí, Peleshet y Tiro con Kush: este nació allí.
 
 ### 87:5
 
@@ -5865,7 +5865,7 @@ Tuyos son los cielos, también tuya la tierra; el mundo y su plenitud, tú los f
 
 ### 89:12
 
-Norte y sur, tú los creaste; Tavór y Jermón en tu nombre gritarán de júbilo.
+Norte y sur, tú los creaste; Tavór y Hermón en tu nombre gritarán de júbilo.
 
 ### 89:13
 
@@ -6280,7 +6280,7 @@ Viuda y forastero matan; y a huérfanos asesinan.
 
 ### 94:7
 
-Y dijeron: No verá Yah, y no entenderá el Dios de Yaakov.
+Y dijeron: No verá Yah, y no entenderá el Dios de Jacob.
 
 ### 94:8
 
@@ -6481,7 +6481,7 @@ Sean avergonzados todos los siervos de imagen tallada, los que se glorían en lo
 
 ### 97:8
 
-Oyó y se alegró Tsiyón, y se regocijaron las hijas de Yehudá, por causa de tus juicios, Jehová.
+Oyó y se alegró Sión, y se regocijaron las hijas de Judá, por causa de tus juicios, Jehová.
 
 ### 97:9
 
@@ -6547,7 +6547,7 @@ Jehová reinó; tiemblen pueblos; sentado de los keruvim, tiemble la tierra.
 
 ### 99:2
 
-Jehová en Tsiyón es grande, y alto es él sobre todos los pueblos.
+Jehová en Sión es grande, y alto es él sobre todos los pueblos.
 
 ### 99:3
 
@@ -6555,7 +6555,7 @@ Den gracias a tu nombre grande y temible; santo es él.
 
 ### 99:4
 
-Y fuerza de rey juicio ama; tú afirmaste rectitudes; juicio y justicia en Yaakov tú hiciste.
+Y fuerza de rey juicio ama; tú afirmaste rectitudes; juicio y justicia en Jacob tú hiciste.
 
 ### 99:5
 
@@ -6688,7 +6688,7 @@ Y tú, Jehová, para siempre te asientas, y tu memorial a generación y generaci
 
 ### 102:13
 
-Tú te levantarás, tendrás misericordia de Tsiyón; porque es tiempo de apiadarla, porque vino el plazo.
+Tú te levantarás, tendrás misericordia de Sión; porque es tiempo de apiadarla, porque vino el plazo.
 
 ### 102:14
 
@@ -6700,7 +6700,7 @@ Y temerán las naciones el nombre de Jehová, y todos los reyes de la tierra tu 
 
 ### 102:16
 
-Porque edificó Jehová Tsiyón; fue visto en su gloria.
+Porque edificó Jehová Sión; fue visto en su gloria.
 
 ### 102:17
 
@@ -6720,7 +6720,7 @@ para oír el gemido de prisionero, para soltar a los hijos de muerte;
 
 ### 102:21
 
-para contar en Tsiyón el nombre de Jehová, y su alabanza en Yerushaláyim,
+para contar en Sión el nombre de Jehová, y su alabanza en Jerusalén,
 
 ### 102:22
 
@@ -7009,7 +7009,7 @@ Acuérdense de sus maravillas que hizo, sus prodigios y juicios de su boca,
 
 ### 105:6
 
-semilla de Abraham su siervo, hijos de Yaakov sus escogidos.
+semilla de Abraham su siervo, hijos de Jacob sus escogidos.
 
 ### 105:7
 
@@ -7021,11 +7021,11 @@ Recordó para siempre su pacto, palabra que mandó a mil generación,
 
 ### 105:9
 
-que cortó con Abraham, y su juramento a Yitsjaq;
+que cortó con Abraham, y su juramento a Isaac;
 
 ### 105:10
 
-y la afirmó a Yaakov por estatuto, a Israel pacto de siempre,
+y la afirmó a Jacob por estatuto, a Israel pacto de siempre,
 
 ### 105:11
 
@@ -7053,7 +7053,7 @@ Y llamó hambre sobre la tierra; todo bastón de pan quebró.
 
 ### 105:17
 
-Envió delante de ellos a un hombre; por siervo fue vendido Yosef.
+Envió delante de ellos a un hombre; por siervo fue vendido José.
 
 ### 105:18
 
@@ -7077,7 +7077,7 @@ para atar a sus príncipes en su alma, y a sus ancianos hace sabios.
 
 ### 105:23
 
-Y vino Israel a Mizraim; y Yaakov forasteró en tierra de Cam.
+Y vino Israel a Egipto; y Jacob forasteró en tierra de Cam.
 
 ### 105:24
 
@@ -7137,7 +7137,7 @@ Y los sacó con plata y oro, y no hay en sus tribus quien tropiece.
 
 ### 105:38
 
-Se alegró Mizraim en su salida, porque cayó su terror sobre ellos.
+Se alegró Egipto en su salida, porque cayó su terror sobre ellos.
 
 ### 105:39
 
@@ -7196,7 +7196,7 @@ Pecamos con nuestros padres; torcimos, hicimos mal.
 
 ### 106:7
 
-Nuestros padres en Mizraim no entendieron tus maravillas; no recordaron la muchedumbre de tus misericordias; y se rebelaron sobre mar, en Yam Suf.
+Nuestros padres en Egipto no entendieron tus maravillas; no recordaron la muchedumbre de tus misericordias; y se rebelaron sobre mar, en Yam Suf.
 
 ### 106:8
 
@@ -7252,7 +7252,7 @@ Y cambiaron su gloria en figura de toro que come hierba.
 
 ### 106:21
 
-Olvidaron a El su salvador, hacedor de grandezas en Mizraim,
+Olvidaron a El su salvador, hacedor de grandezas en Egipto,
 
 ### 106:22
 
@@ -7570,7 +7570,7 @@ Dios habló en su santidad: Me regocijaré; repartiré Shejem, y el valle de Suk
 
 ### 108:8
 
-Mío es Gilad, mío es Menashé, y Efráyim es fortaleza de mi cabeza; Yehudá es mi legislador.
+Mío es Galaad, mío es Manasés, y Efraín es fortaleza de mi cabeza; Judá es mi legislador.
 
 ### 108:9
 
@@ -7728,7 +7728,7 @@ De David; salmo. Oráculo de Jehová a mi Adonai: Siéntate a mi derecha, hasta 
 
 ### 110:2
 
-La vara de tu fuerza enviará Jehová desde Tsiyón: Domina en medio de tus enemigos.
+La vara de tu fuerza enviará Jehová desde Sión: Domina en medio de tus enemigos.
 
 ### 110:3
 
@@ -7880,11 +7880,11 @@ Hace habitar a la estéril de la casa como madre de hijos alegre. ¡Alaben a Yah
 
 ### 114:1
 
-Al salir Israel de Mizraim, la casa de Yaakov de pueblo de lengua extraña,
+Al salir Israel de Egipto, la casa de Jacob de pueblo de lengua extraña,
 
 ### 114:2
 
-fue Yehudá para su santuario, Israel sus dominios.
+fue Judá para su santuario, Israel sus dominios.
 
 ### 114:3
 
@@ -7904,7 +7904,7 @@ Los montes saltaron como carneros, las colinas como hijos de rebaño.
 
 ### 114:7
 
-De delante del señor, tiembla, oh tierra; de delante del Dios de Yaakov,
+De delante del señor, tiembla, oh tierra; de delante del Dios de Jacob,
 
 ### 114:8
 
@@ -8062,7 +8062,7 @@ Mis votos a Jehová pagaré, delante ahora de todo su pueblo.
 
 ### 116:19
 
-En atrios de la casa de Jehová, en medio de ti, Yerushaláyim. ¡Alaben a Yah!
+En atrios de la casa de Jehová, en medio de ti, Jerusalén. ¡Alaben a Yah!
 
 ## Capítulo 117
 
@@ -8922,7 +8922,7 @@ Flechas de valiente afiladas, con brasas de retamas.
 
 ### 120:5
 
-¡Ay de mí, porque peregriné en Méshek, habité con tiendas de Qedar!
+¡Ay de mí, porque peregriné en Méshek, habité con tiendas de Cedar!
 
 ### 120:6
 
@@ -8976,11 +8976,11 @@ Cántico de las subidas; de David. Me alegré en los que me decían: A la casa d
 
 ### 122:2
 
-Estando estaban nuestros pies en tus puertas, Yerushaláyim.
+Estando estaban nuestros pies en tus puertas, Jerusalén.
 
 ### 122:3
 
-Yerushaláyim la edificada como ciudad que se juntó a ella juntamente.
+Jerusalén la edificada como ciudad que se juntó a ella juntamente.
 
 ### 122:4
 
@@ -8992,7 +8992,7 @@ Porque allá se sentaron tronos para juicio, tronos para la casa de David.
 
 ### 122:6
 
-Pidan paz de Yerushaláyim; reposen los que te aman.
+Pidan paz de Jerusalén; reposen los que te aman.
 
 ### 122:7
 
@@ -9065,11 +9065,11 @@ Nuestra ayuda está en el nombre de Jehová, hacedor de cielos y tierra.
 
 ### 125:1
 
-Cántico de las subidas. Los que confían en Jehová como el monte Tsiyón: no se mueve; para siempre permanece.
+Cántico de las subidas. Los que confían en Jehová como el monte Sión: no se mueve; para siempre permanece.
 
 ### 125:2
 
-Yerushaláyim: montes alrededor de ella, y Jehová alrededor de su pueblo, desde ahora y hasta siempre.
+Jerusalén: montes alrededor de ella, y Jehová alrededor de su pueblo, desde ahora y hasta siempre.
 
 ### 125:3
 
@@ -9088,7 +9088,7 @@ Y a los que tuercen sus caminos torcidos, los hará ir Jehová con los hacedores
 
 ### 126:1
 
-Cántico de las subidas. Al volver Jehová la vuelta de Tsiyón, éramos como soñadores.
+Cántico de las subidas. Al volver Jehová la vuelta de Sión, éramos como soñadores.
 
 ### 126:2
 
@@ -9100,7 +9100,7 @@ Grande hizo Jehová para hacer con nosotros; éramos alegres.
 
 ### 126:4
 
-Haz volver, Jehová, nuestra cautividad como torrentes en el Néguev.
+Haz volver, Jehová, nuestra cautividad como torrentes en el Neguev.
 
 ### 126:5
 
@@ -9115,7 +9115,7 @@ Andando andará y llorando, llevando la bolsa de la semilla; viniendo vendrá co
 
 ### 127:1
 
-Cántico de las subidas; de Shelomó. Si Jehová no edifica la casa, en vano trabajan en ella sus edificadores; si Jehová no guarda la ciudad, en vano vela el guardián.
+Cántico de las subidas; de Salomón. Si Jehová no edifica la casa, en vano trabajan en ella sus edificadores; si Jehová no guarda la ciudad, en vano vela el guardián.
 
 ### 127:2
 
@@ -9154,7 +9154,7 @@ He aquí que así será bendecido el varón que teme a Jehová.
 
 ### 128:5
 
-Te bendiga Jehová desde Tsiyón, y veas en el bien de Yerushaláyim todos los días de tu vida.
+Te bendiga Jehová desde Sión, y veas en el bien de Jerusalén todos los días de tu vida.
 
 ### 128:6
 
@@ -9181,7 +9181,7 @@ Jehová justo cortó las cuerdas de los impíos.
 
 ### 129:5
 
-Sean avergonzados y vuelvan atrás todos los que odian a Tsiyón.
+Sean avergonzados y vuelvan atrás todos los que odian a Sión.
 
 ### 129:6
 
@@ -9254,7 +9254,7 @@ Cántico de las subidas. Acuérdate, Jehová, a David de todas sus aflicciones,
 
 ### 132:2
 
-que juró a Jehová, votó al Fuerte de Yaakov:
+que juró a Jehová, votó al Fuerte de Jacob:
 
 ### 132:3
 
@@ -9266,7 +9266,7 @@ si doy sueño a mis ojos, a mis párpados adormecimiento,
 
 ### 132:5
 
-hasta que halle lugar para Jehová, moradas para el Fuerte de Yaakov.
+hasta que halle lugar para Jehová, moradas para el Fuerte de Jacob.
 
 ### 132:6
 
@@ -9298,7 +9298,7 @@ Si guardan tus hijos mi pacto y mi testimonio este que les enseñaré, también 
 
 ### 132:13
 
-Porque eligió Jehová a Tsiyón; la deseó para asiento para él:
+Porque eligió Jehová a Sión; la deseó para asiento para él:
 
 ### 132:14
 
@@ -9333,7 +9333,7 @@ Como el aceite el bueno sobre la cabeza, que desciende sobre la barba, barba de 
 
 ### 133:3
 
-como rocío de Jermón que desciende sobre los montes de Tsiyón, porque allí mandó Jehová la bendición, vida hasta el siempre.
+como rocío de Hermón que desciende sobre los montes de Sión, porque allí mandó Jehová la bendición, vida hasta el siempre.
 
 ## Capítulo 134
 
@@ -9348,7 +9348,7 @@ Alcen sus manos en santidad, y bendigan a Jehová.
 
 ### 134:3
 
-Te bendiga Jehová desde Tsiyón, hacedor de cielos y tierra.
+Te bendiga Jehová desde Sión, hacedor de cielos y tierra.
 
 ## Capítulo 135
 
@@ -9367,7 +9367,7 @@ los que están en la casa de Jehová, en los atrios de la casa de nuestro Dios.
 
 ### 135:4
 
-Porque a Yaakov eligió para sí Yah, a Israel para su posesión.
+Porque a Jacob eligió para sí Yah, a Israel para su posesión.
 
 ### 135:5
 
@@ -9383,11 +9383,11 @@ el que hace subir nubes desde el extremo de la tierra; relámpagos para la lluvi
 
 ### 135:8
 
-el que hirió a los primogénitos de Mizraim, desde hombre hasta bestia;
+el que hirió a los primogénitos de Egipto, desde hombre hasta bestia;
 
 ### 135:9
 
-envió señales y prodigios en medio de ti, Mizraim, en Faraón y en todos sus siervos;
+envió señales y prodigios en medio de ti, Egipto, en Faraón y en todos sus siervos;
 
 ### 135:10
 
@@ -9435,7 +9435,7 @@ casa de Leví, bendigan a Jehová; temerosos de Jehová, bendigan a Jehová.
 
 ### 135:21
 
-Bendito Jehová desde Tsiyón, el que habita en Yerushaláyim. ¡Alaben a Yah!
+Bendito Jehová desde Sión, el que habita en Jerusalén. ¡Alaben a Yah!
 
 ## Capítulo 136
 
@@ -9478,7 +9478,7 @@ La luna y estrellas para dominios en la noche; porque para siempre su misericord
 
 ### 136:10
 
-Al que hirió a Mizraim en sus primogénitos; porque para siempre su misericordia.
+Al que hirió a Egipto en sus primogénitos; porque para siempre su misericordia.
 
 ### 136:11
 
@@ -9549,7 +9549,7 @@ Den gracias al Dios de los cielos; porque para siempre su misericordia.
 
 ### 137:1
 
-Sobre los ríos de Bavel, allí nos sentamos, también lloramos al acordarnos de Tsiyón.
+Sobre los ríos de Babilonia, allí nos sentamos, también lloramos al acordarnos de Sión.
 
 ### 137:2
 
@@ -9557,7 +9557,7 @@ Sobre sauces en medio de ella colgamos nuestras cítaras.
 
 ### 137:3
 
-Porque allí nos pidieron nuestros cautivadores palabras de cántico, y nuestros tormentores alegría: Canten a nosotros de cántico de Tsiyón.
+Porque allí nos pidieron nuestros cautivadores palabras de cántico, y nuestros tormentores alegría: Canten a nosotros de cántico de Sión.
 
 ### 137:4
 
@@ -9565,19 +9565,19 @@ Porque allí nos pidieron nuestros cautivadores palabras de cántico, y nuestros
 
 ### 137:5
 
-Si te olvido, Yerushaláyim, olvide mi derecha.
+Si te olvido, Jerusalén, olvide mi derecha.
 
 ### 137:6
 
-Péguese mi lengua a mi paladar si no me acuerdo de ti, si no alzo a Yerushaláyim sobre la cabeza de mi alegría.
+Péguese mi lengua a mi paladar si no me acuerdo de ti, si no alzo a Jerusalén sobre la cabeza de mi alegría.
 
 ### 137:7
 
-Acuérdate, Jehová, a los hijos de Edom el día de Yerushaláyim, los que decían: ¡Arrasen, arrasen hasta el cimiento en ella!
+Acuérdate, Jehová, a los hijos de Edom el día de Jerusalén, los que decían: ¡Arrasen, arrasen hasta el cimiento en ella!
 
 ### 137:8
 
-Hija de Bavel la devastada: dichoso el que te pague a ti tu retribución que retribuyiste a nosotros.
+Hija de Babilonia la devastada: dichoso el que te pague a ti tu retribución que retribuyiste a nosotros.
 
 ### 137:9
 
@@ -10068,7 +10068,7 @@ Sale su espíritu, vuelve a su tierra; en aquel día perecieron sus pensamientos
 
 ### 146:5
 
-Dichoso aquel cuya ayuda es El de Yaakov, cuya esperanza está sobre Jehová su Dios,
+Dichoso aquel cuya ayuda es El de Jacob, cuya esperanza está sobre Jehová su Dios,
 
 ### 146:6
 
@@ -10088,7 +10088,7 @@ Jehová guarda a forasteros; al huérfano y a la viuda anima; y el camino de los
 
 ### 146:10
 
-Reinará Jehová para siempre; tu Dios, Tsiyón, a generación y generación. ¡Alaben a Yah!
+Reinará Jehová para siempre; tu Dios, Sión, a generación y generación. ¡Alaben a Yah!
 
 ## Capítulo 147
 
@@ -10099,7 +10099,7 @@ Reinará Jehová para siempre; tu Dios, Tsiyón, a generación y generación. ¡
 
 ### 147:2
 
-Edificador de Yerushaláyim es Jehová; a los dispersos de Israel reunirá.
+Edificador de Jerusalén es Jehová; a los dispersos de Israel reunirá.
 
 ### 147:3
 
@@ -10139,7 +10139,7 @@ Se agrada Jehová en los que lo temen, en los que esperan a su misericordia.
 
 ### 147:12
 
-Alaba, Yerushaláyim, a Jehová; alaba a tu Dios, Tsiyón.
+Alaba, Jerusalén, a Jehová; alaba a tu Dios, Sión.
 
 ### 147:13
 
@@ -10167,7 +10167,7 @@ Envía su palabra y los derrite; hace soplar su viento, fluyen aguas.
 
 ### 147:19
 
-El que anuncia sus palabras a Yaakov, sus estatutos y sus juicios a Israel.
+El que anuncia sus palabras a Jacob, sus estatutos y sus juicios a Israel.
 
 ### 147:20
 
@@ -10241,7 +10241,7 @@ Y alzó cuerno a su pueblo, alabanza a todos sus fieles, a los hijos de Israel, 
 
 ### 149:2
 
-Se alegre Israel en sus hacedores; los hijos de Tsiyón se regocijen en su rey.
+Se alegre Israel en sus hacedores; los hijos de Sión se regocijen en su rey.
 
 ### 149:3
 

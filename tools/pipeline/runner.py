@@ -139,14 +139,20 @@ def load_state(slug: str, chapter: int, verse: int, build_if_missing: bool = Tru
     }
 
 
-def run_draft(slug: str, chapter: int, verse: int) -> dict:
+def ensure_packet(slug: str, chapter: int, verse: int) -> dict:
     book = get_book(slug)
     stored = packet_path(book, chapter, verse)
     if stored.is_file():
-        packet = json.loads(stored.read_text(encoding="utf-8"))
-    else:
-        packet = build_packet(slug, chapter, verse)
-        stored = write_packet(packet)
+        return json.loads(stored.read_text(encoding="utf-8"))
+    packet = build_packet(slug, chapter, verse)
+    write_packet(packet)
+    return packet
+
+
+def run_draft(slug: str, chapter: int, verse: int) -> dict:
+    book = get_book(slug)
+    packet = ensure_packet(slug, chapter, verse)
+    stored = packet_path(book, chapter, verse)
     system = gpt_system()
     user = gpt_user_prompt(packet)
     write_json(
@@ -163,7 +169,7 @@ def run_draft(slug: str, chapter: int, verse: int) -> dict:
 
 def run_audit_draft(slug: str, chapter: int, verse: int) -> dict:
     book = get_book(slug)
-    packet = json.loads(packet_path(book, chapter, verse).read_text(encoding="utf-8"))
+    packet = ensure_packet(slug, chapter, verse)
     draft = _read(draft_path(slug, chapter, verse, DRAFT_LABEL))
     if not draft or not draft.get("spanish"):
         raise RuntimeError("no GPT draft to audit")
@@ -183,7 +189,7 @@ def run_audit_draft(slug: str, chapter: int, verse: int) -> dict:
 
 def run_polish(slug: str, chapter: int, verse: int) -> dict:
     book = get_book(slug)
-    packet = json.loads(packet_path(book, chapter, verse).read_text(encoding="utf-8"))
+    packet = ensure_packet(slug, chapter, verse)
     draft = _read(draft_path(slug, chapter, verse, DRAFT_LABEL))
     audit = _read(audit_path(slug, chapter, verse, DRAFT_LABEL))
     if not gates(draft, audit, None)["canPolish"]:
@@ -206,7 +212,7 @@ def run_polish(slug: str, chapter: int, verse: int) -> dict:
 
 def run_audit_polish(slug: str, chapter: int, verse: int) -> dict:
     book = get_book(slug)
-    packet = json.loads(packet_path(book, chapter, verse).read_text(encoding="utf-8"))
+    packet = ensure_packet(slug, chapter, verse)
     polish = _read(polish_path(slug, chapter, verse, "sonnet5"))
     if not polish or not polish.get("spanish"):
         raise RuntimeError("no Sonnet polish to audit")

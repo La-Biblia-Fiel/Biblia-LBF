@@ -7,7 +7,7 @@
 
 ### 1:1
 
-Hombre hubo en tierra de Uts; Iyov su nombre; y fue aquel hombre íntegro y recto, y temeroso de Dios y apartado de mal.
+Hombre hubo en tierra de Uts; Job su nombre; y fue aquel hombre íntegro y recto, y temeroso de Dios y apartado de mal.
 
 ### 1:2
 
@@ -23,7 +23,7 @@ Y andaban sus hijos y hacían banquete en casa de cada uno su día; y enviaban y
 
 ### 1:5
 
-Y fue cuando rodeaban los días del banquete, e enviaba Iyov y los santificaba; y madrugaba por la mañana y ofrecía holocaustos según el número de todos ellos; porque decía Iyov: Quizá pecaron mis hijos y bendijeron a Dios en su corazón. Así hacía Iyov todos los días.
+Y fue cuando rodeaban los días del banquete, e enviaba Job y los santificaba; y madrugaba por la mañana y ofrecía holocaustos según el número de todos ellos; porque decía Job: Quizá pecaron mis hijos y bendijeron a Dios en su corazón. Así hacía Job todos los días.
 
 ### 1:6
 
@@ -35,11 +35,11 @@ Y dijo Jehová al satán: ¿De dónde vienes? Y respondió el satán a Jehová, 
 
 ### 1:8
 
-Y dijo Jehová al satán: ¿Has puesto tu corazón sobre mi siervo Iyov? Porque no hay como él en la tierra, hombre íntegro y recto, temeroso de Dios y apartado de mal.
+Y dijo Jehová al satán: ¿Has puesto tu corazón sobre mi siervo Job? Porque no hay como él en la tierra, hombre íntegro y recto, temeroso de Dios y apartado de mal.
 
 ### 1:9
 
-Y respondió el satán a Jehová, y dijo: ¿De balde teme Iyov a Dios?
+Y respondió el satán a Jehová, y dijo: ¿De balde teme Job a Dios?
 
 ### 1:10
 
@@ -59,7 +59,7 @@ Y fue el día, y sus hijos y sus hijas comían y bebían vino en casa de su herm
 
 ### 1:14
 
-Y un mensajero vino a Iyov, y dijo: Los bueyes estaban arando, y las asnas pastando a sus manos;
+Y un mensajero vino a Job, y dijo: Los bueyes estaban arando, y las asnas pastando a sus manos;
 
 ### 1:15
 
@@ -71,7 +71,7 @@ Aún este hablaba, y este vino y dijo: Fuego de Dios cayó desde los cielos y qu
 
 ### 1:17
 
-Aún este hablaba, y este vino y dijo: Kasdim pusieron tres cabezas y se extendieron sobre los camellos y los tomaron, y a los mozos golpearon a filo de espada; y escapé solo yo solo para anunciarte.
+Aún este hablaba, y este vino y dijo: caldeos pusieron tres cabezas y se extendieron sobre los camellos y los tomaron, y a los mozos golpearon a filo de espada; y escapé solo yo solo para anunciarte.
 
 ### 1:18
 
@@ -83,7 +83,7 @@ y he aquí un viento grande vino de allende el desierto y tocó en las cuatro es
 
 ### 1:20
 
-Y se levantó Iyov y rasgó su manto, y se rapó la cabeza, y cayó a tierra y se postró.
+Y se levantó Job y rasgó su manto, y se rapó la cabeza, y cayó a tierra y se postró.
 
 ### 1:21
 
@@ -91,7 +91,7 @@ Y dijo: Desnudo salí del vientre de mi madre, y desnudo volveré allá; Jehová
 
 ### 1:22
 
-En todo esto no pecó Iyov, y no dio necedad a Dios.
+En todo esto no pecó Job, y no dio necedad a Dios.
 
 ## Capítulo 2
 
@@ -105,7 +105,7 @@ Y dijo Jehová al satán: ¿De dónde vienes? Y respondió el satán a Jehová, 
 
 ### 2:3
 
-Y dijo Jehová al satán: ¿Has puesto tu corazón hacia mi siervo Iyov? Porque no hay como él en la tierra, hombre íntegro y recto, temeroso de Dios y apartado de mal; y aún él se aferra a su integridad, y me incitaste contra él para tragarlo de balde.
+Y dijo Jehová al satán: ¿Has puesto tu corazón hacia mi siervo Job? Porque no hay como él en la tierra, hombre íntegro y recto, temeroso de Dios y apartado de mal; y aún él se aferra a su integridad, y me incitaste contra él para tragarlo de balde.
 
 ### 2:4
 
@@ -121,7 +121,7 @@ Y dijo Jehová al satán: He aquí él en tu mano; solo su alma guarda.
 
 ### 2:7
 
-Y salió el satán de delante del rostro de Jehová, y golpeó a Iyov con úlcera mala desde la planta de su pie hasta su coronilla.
+Y salió el satán de delante del rostro de Jehová, y golpeó a Job con úlcera mala desde la planta de su pie hasta su coronilla.
 
 ### 2:8
 
@@ -133,11 +133,11 @@ Y le dijo su mujer: ¿Aún te aferras a tu integridad? Bendice a Dios y muere.
 
 ### 2:10
 
-Y le dijo: Como hablar de una de las necias hablas. ¿También el bien recibiremos de parte de Dios, y el mal no recibiremos? En todo esto no pecó Iyov con sus labios.
+Y le dijo: Como hablar de una de las necias hablas. ¿También el bien recibiremos de parte de Dios, y el mal no recibiremos? En todo esto no pecó Job con sus labios.
 
 ### 2:11
 
-Y oyeron tres amigos de Iyov todo este mal que vino sobre él, y vinieron cada uno de su lugar: Elifaz el temaní y Bildad el shují y Tsofar el naamatí; y se concertaron juntos para venir a condolerse por él y para consolarlo.
+Y oyeron tres amigos de Job todo este mal que vino sobre él, y vinieron cada uno de su lugar: Elifaz el temaní y Bildad el shují y Tsofar el naamatí; y se concertaron juntos para venir a condolerse por él y para consolarlo.
 
 ### 2:12
 
@@ -151,11 +151,11 @@ Y se sentaron con él a tierra siete días y siete noches; y no hay hablante a �
 
 ### 3:1
 
-Después de esto abrió Iyov su boca y maldijo su día.
+Después de esto abrió Job su boca y maldijo su día.
 
 ### 3:2
 
-Y respondió Iyov y dijo:
+Y respondió Job y dijo:
 
 ### 3:3
 
@@ -453,7 +453,7 @@ He aquí esto investigamos; así es; óyela, y tú conoce para ti.
 
 ### 6:1
 
-Y respondió Iyov y dijo:
+Y respondió Job y dijo:
 
 ### 6:2
 
@@ -751,7 +751,7 @@ Tus aborrecedores se vestirán de vergüenza, y la tienda de los malos no es.
 
 ### 9:1
 
-Y respondió Iyov, y dijo:
+Y respondió Job, y dijo:
 
 ### 9:2
 
@@ -1065,7 +1065,7 @@ Y los ojos de los malos se consumirán, y refugio pereció de ellos, y su espera
 
 ### 12:1
 
-Y respondió Iyov, y dijo:
+Y respondió Job, y dijo:
 
 ### 12:2
 
@@ -1513,7 +1513,7 @@ Conciben trabajo y paren iniquidad, y su vientre prepara engaño.
 
 ### 16:1
 
-Y respondió Iyov, y dijo:
+Y respondió Job, y dijo:
 
 ### 16:2
 
@@ -1755,7 +1755,7 @@ Ciertamente estas son moradas de iniquidad, y este es lugar de quien no conoció
 
 ### 19:1
 
-Y respondió Iyov, y dijo:
+Y respondió Job, y dijo:
 
 ### 19:2
 
@@ -1991,7 +1991,7 @@ Esta es porción de hombre impío de parte de Dios, y herencia de su dicho de pa
 
 ### 21:1
 
-Y respondió Iyov, y dijo:
+Y respondió Job, y dijo:
 
 ### 21:2
 
@@ -2251,7 +2251,7 @@ Librará al no inocente; y será librado por pureza de tus manos.
 
 ### 23:1
 
-Y respondió Iyov, y dijo:
+Y respondió Job, y dijo:
 
 ### 23:2
 
@@ -2449,7 +2449,7 @@ He aquí hasta luna, y no brilla; y estrellas no son limpias en sus ojos.
 
 ### 26:1
 
-Y respondió Iyov, y dijo:
+Y respondió Job, y dijo:
 
 ### 26:2
 
@@ -2507,7 +2507,7 @@ He aquí estas extremos; y ¡qué susurro de palabra oímos en él! Y trueno, ¿
 
 ### 27:1
 
-Y añadió Iyov a alzar su proverbio, y dijo:
+Y añadió Job a alzar su proverbio, y dijo:
 
 ### 27:2
 
@@ -2715,7 +2715,7 @@ Y dijo al hombre: He aquí temor de Adonai, ella es sabiduría; y apartarse de m
 
 ### 29:1
 
-Y añadió Iyov alzar su proverbio, y dijo:
+Y añadió Job alzar su proverbio, y dijo:
 
 ### 29:2
 
@@ -3099,25 +3099,25 @@ si su fuerza comí sin plata, y alma de sus dueños hice exhalar;
 
 ### 31:40
 
-en lugar de trigo salga espino, y en lugar de cebada cizaña. Acabaron palabras de Iyov.
+en lugar de trigo salga espino, y en lugar de cebada cizaña. Acabaron palabras de Job.
 
 ## Capítulo 32
 
 ### 32:1
 
-Y cesaron los tres hombres estos de responder a Iyov, porque él justo a sus ojos.
+Y cesaron los tres hombres estos de responder a Job, porque él justo a sus ojos.
 
 ### 32:2
 
-Y se encendió nariz de Elihú hijo de Barakel el buzí, de familia de Ram; contra Iyov se encendió su nariz, sobre justificar él su alma más que Dios.
+Y se encendió nariz de Elihú hijo de Barakel el buzí, de familia de Ram; contra Job se encendió su nariz, sobre justificar él su alma más que Dios.
 
 ### 32:3
 
-Y contra sus tres amigos se encendió su nariz, sobre que no hallaron respuesta, y condenaron a Iyov.
+Y contra sus tres amigos se encendió su nariz, sobre que no hallaron respuesta, y condenaron a Job.
 
 ### 32:4
 
-Y Elihú esperó a Iyov en palabras, porque ancianos ellos más que él en días.
+Y Elihú esperó a Job en palabras, porque ancianos ellos más que él en días.
 
 ### 32:5
 
@@ -3149,7 +3149,7 @@ He aquí esperé a palabras de ustedes; inclinaba oído hasta entendimientos de 
 
 ### 32:12
 
-Y hasta ustedes me fijaba; y he aquí no hay para Iyov reprensor, respondiendo sus dichos de ustedes.
+Y hasta ustedes me fijaba; y he aquí no hay para Job reprensor, respondiendo sus dichos de ustedes.
 
 ### 32:13
 
@@ -3195,7 +3195,7 @@ Porque no sé adular; en poco me llevaría mi Hacedor.
 
 ### 33:1
 
-Mas ahora oye, por favor, Iyov, mis dichos, y todas mis palabras presta oído.
+Mas ahora oye, por favor, Job, mis dichos, y todas mis palabras presta oído.
 
 ### 33:2
 
@@ -3315,7 +3315,7 @@ para hacer volver su alma de fosa, para iluminarse con luz de los vivos.
 
 ### 33:31
 
-Atiende, Iyov; oye a mí; calla, y yo hablaré.
+Atiende, Job; oye a mí; calla, y yo hablaré.
 
 ### 33:32
 
@@ -3345,7 +3345,7 @@ Juicio escojamos para nosotros; sepamos entre nosotros qué es bueno.
 
 ### 34:5
 
-Porque dijo Iyov: Fui justo, y Dios quitó mi juicio.
+Porque dijo Job: Fui justo, y Dios quitó mi juicio.
 
 ### 34:6
 
@@ -3353,7 +3353,7 @@ Sobre mi juicio mentiré; incurable es mi flecha sin delito.
 
 ### 34:7
 
-¿Quién es varón como Iyov, que bebe escarnio como aguas,
+¿Quién es varón como Job, que bebe escarnio como aguas,
 
 ### 34:8
 
@@ -3465,11 +3465,11 @@ Hombres de corazón me dirán, y varón sabio que me oye:
 
 ### 34:35
 
-Iyov no con conocimiento habla, y sus palabras no con entendimiento.
+Job no con conocimiento habla, y sus palabras no con entendimiento.
 
 ### 34:36
 
-Padre mío, sea probado Iyov hasta siempre, sobre respuestas en hombres de iniquidad.
+Padre mío, sea probado Job hasta siempre, sobre respuestas en hombres de iniquidad.
 
 ### 34:37
 
@@ -3539,7 +3539,7 @@ Y ahora, porque no visitó su ira, y no conoció en la gran soberbia mucho,
 
 ### 35:16
 
-e Iyov vanidad abre su boca; sin conocimiento multiplica palabras.
+e Job vanidad abre su boca; sin conocimiento multiplica palabras.
 
 ## Capítulo 36
 
@@ -3731,7 +3731,7 @@ Si para vara, si para su tierra, si para misericordia lo hace hallar.
 
 ### 37:14
 
-Escucha esto, Iyov; ponte, y entiende maravillas de El.
+Escucha esto, Job; ponte, y entiende maravillas de El.
 
 ### 37:15
 
@@ -3777,7 +3777,7 @@ Por tanto le temen hombres; no mira a todos sabios de corazón.
 
 ### 38:1
 
-Y respondió Jehová a Iyov y dijo:
+Y respondió Jehová a Job y dijo:
 
 ### 38:2
 
@@ -4065,7 +4065,7 @@ Y sus polluelos chupan sangre; y donde muertos, allí él.
 
 ### 40:1
 
-Y respondió Jehová a Iyov y dijo:
+Y respondió Jehová a Job y dijo:
 
 ### 40:2
 
@@ -4073,7 +4073,7 @@ Y respondió Jehová a Iyov y dijo:
 
 ### 40:3
 
-Y respondió Iyov a Jehová y dijo:
+Y respondió Job a Jehová y dijo:
 
 ### 40:4
 
@@ -4085,7 +4085,7 @@ Una vez hablé, y no responderé; y dos, y no añadiré.
 
 ### 40:6
 
-Y respondió Jehová a Iyov y dijo:
+Y respondió Jehová a Job y dijo:
 
 ### 40:7
 
@@ -4301,7 +4301,7 @@ Todo lo alto ve; él rey sobre todos los hijos de soberbia.
 
 ### 42:1
 
-Y respondió Iyov a Jehová y dijo:
+Y respondió Job a Jehová y dijo:
 
 ### 42:2
 
@@ -4325,19 +4325,19 @@ Por tanto me aborrezco, y me arrepiento sobre polvo y ceniza.
 
 ### 42:7
 
-Y fue después de hablar Jehová estas palabras a Iyov, y dijo Jehová a Elifaz el temaní: Se encendió mi ira en ti y en tus dos amigos, porque no hablaron a mí lo recto como mi siervo Iyov.
+Y fue después de hablar Jehová estas palabras a Job, y dijo Jehová a Elifaz el temaní: Se encendió mi ira en ti y en tus dos amigos, porque no hablaron a mí lo recto como mi siervo Job.
 
 ### 42:8
 
-Y ahora tomen ustedes siete toros y siete carneros, y vayan a mi siervo Iyov, y ofrezcan holocausto por ustedes; y Iyov mi siervo orará por ustedes, porque si su faz alzaré, para no hacer con ustedes necedad; porque no hablaron a mí lo recto como mi siervo Iyov.
+Y ahora tomen ustedes siete toros y siete carneros, y vayan a mi siervo Job, y ofrezcan holocausto por ustedes; y Job mi siervo orará por ustedes, porque si su faz alzaré, para no hacer con ustedes necedad; porque no hablaron a mí lo recto como mi siervo Job.
 
 ### 42:9
 
-Y fueron Elifaz el temaní y Bildad el shují, Tsófár el naamatí, e hicieron según lo que habló a ellos Jehová; y alzó Jehová la faz de Iyov.
+Y fueron Elifaz el temaní y Bildad el shují, Tsófár el naamatí, e hicieron según lo que habló a ellos Jehová; y alzó Jehová la faz de Job.
 
 ### 42:10
 
-Y Jehová volvió a Iyov en su orar por su amigo; y añadió Jehová todo lo que a Iyov al doble.
+Y Jehová volvió a Job en su orar por su amigo; y añadió Jehová todo lo que a Job al doble.
 
 ### 42:11
 
@@ -4345,7 +4345,7 @@ Y vinieron a él todos sus hermanos y todas sus hermanas y todos sus conocidos d
 
 ### 42:12
 
-Y Jehová bendijo el postrer de Iyov más que su primero; y fue a él catorce mil ovejas y seis mil camellos y mil yuntas de bueyes y mil asnas.
+Y Jehová bendijo el postrer de Job más que su primero; y fue a él catorce mil ovejas y seis mil camellos y mil yuntas de bueyes y mil asnas.
 
 ### 42:13
 
@@ -4357,12 +4357,12 @@ Y llamó nombre de la una Yemimá, y nombre de la segunda Qetsiá, y nombre de l
 
 ### 42:15
 
-Y no se hallaron mujeres hermosas como hijas de Iyov en toda la tierra; y les dio su padre heredad en medio de sus hermanos.
+Y no se hallaron mujeres hermosas como hijas de Job en toda la tierra; y les dio su padre heredad en medio de sus hermanos.
 
 ### 42:16
 
-Y vivió Iyov después de esto ciento cuarenta años, con sus hijos y con hijos de sus hijos, cuatro generaciones.
+Y vivió Job después de esto ciento cuarenta años, con sus hijos y con hijos de sus hijos, cuatro generaciones.
 
 ### 42:17
 
-Y murió Iyov anciano y saciado de días.
+Y murió Job anciano y saciado de días.

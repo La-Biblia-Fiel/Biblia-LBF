@@ -9,7 +9,7 @@
 
 ### 1:1
 
-Proverbios de Shelomó hijo de David, rey de Israel.
+Proverbios de Salomón hijo de David, rey de Israel.
 
 ### 1:2
 
@@ -212,7 +212,7 @@ la que deja al compañero de su juventud, y el pacto de su Dios olvidó.
 
 ### 2:18
 
-Porque se inclinó a muerte su casa, y a Refaím sus surcos.
+Porque se inclinó a muerte su casa, y a Refaim sus surcos.
 
 ### 2:19
 
@@ -787,7 +787,7 @@ Por tanto, salí a tu encuentro, a buscar de madrugada tu rostro, y te hallé.
 
 ### 7:16
 
-Colchas tendí mi lecho, labradas de lino de Mizraim.
+Colchas tendí mi lecho, labradas de lino de Egipto.
 
 ### 7:17
 
@@ -1053,14 +1053,14 @@ Las aguas hurtadas se endulzan, y el pan de ocultamientos es agradable.
 
 ### 9:18
 
-Y no sabe que allá hay refaím; en las profundidades de Sheol están sus convocados.
+Y no sabe que allá hay refaim; en las profundidades de Sheol están sus convocados.
 
 ## Capítulo 10
 
 
 ### 10:1
 
-Proverbios de Shelomó. El hijo sabio alegra a padre, y el hijo necio es tristeza de su madre.
+Proverbios de Salomón. El hijo sabio alegra a padre, y el hijo necio es tristeza de su madre.
 
 ### 10:2
 
@@ -2933,7 +2933,7 @@ y vendrá andando tu pobreza, y tus escaseces como hombre de escudo.
 
 ### 25:1
 
-También estos son proverbios de Shelomó que copiaron los hombres de Jizqiyá, rey de Yehudá.
+También estos son proverbios de Salomón que copiaron los hombres de Jizqiyá, rey de Judá.
 
 ### 25:2
 
@@ -3500,7 +3500,7 @@ Abominación de justos es el hombre de iniquidad, y abominación del malvado es 
 
 ### 30:1
 
-Palabras de Agur hijo de Yaké, la carga; oráculo del varón a Itiel, a Itiel y a Ukal:
+Palabras de Agur hijo de Jaqué, la carga; oráculo del varón a Itiel, a Itiel y a Ukal:
 
 ### 30:2
 
@@ -3635,7 +3635,7 @@ Porque el batir de leche saca mantequilla, y el batir de nariz saca sangre, y el
 
 ### 31:1
 
-Palabras de Lemuél rey, carga, que lo instruyó su madre.
+Palabras de Lemuel rey, carga, que lo instruyó su madre.
 
 ### 31:2
 
@@ -3647,7 +3647,7 @@ No des a las mujeres tu fuerza, ni tus caminos a las que borran reyes.
 
 ### 31:4
 
-No a los reyes, Lemuél, no a los reyes beber vino, ni a los gobernantes sidra,
+No a los reyes, Lemuel, no a los reyes beber vino, ni a los gobernantes sidra,
 
 ### 31:5
 

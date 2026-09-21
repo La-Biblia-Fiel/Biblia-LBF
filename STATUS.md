@@ -12,28 +12,28 @@ Signed columns stay empty until a human writes a name and an ISO date.
 
 | book | testament | translation | alignment | translation_by | translation_on | alignment_by | alignment_on | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| genesis | ot | done | done | John Wry | 2026-08-28 | John Wry | 2026-08-28 |  |
-| exodo | ot | ready | none |  |  |  |  |  |
-| levitico | ot | ready | none |  |  |  |  |  |
-| numeros | ot | ready | none |  |  |  |  |  |
-| deuteronomio | ot | ready | none |  |  |  |  |  |
-| josue | ot | ready | none |  |  |  |  |  |
-| jueces | ot | ready | none |  |  |  |  |  |
-| rut | ot | ready | none |  |  |  |  |  |
-| 1samuel | ot | ready | none |  |  |  |  |  |
-| 2samuel | ot | ready | none |  |  |  |  |  |
-| 1reyes | ot | ready | none |  |  |  |  |  |
-| 2reyes | ot | ready | none |  |  |  |  |  |
-| 1cronicas | ot | ready | none |  |  |  |  |  |
-| 2cronicas | ot | ready | none |  |  |  |  |  |
-| esdras | ot | ready | none |  |  |  |  |  |
-| nehemias | ot | ready | none |  |  |  |  |  |
-| ester | ot | ready | none |  |  |  |  |  |
-| job | ot | ready | none |  |  |  |  |  |
-| salmos | ot | ready | none |  |  |  |  |  |
-| proverbios | ot | ready | none |  |  |  |  |  |
-| eclesiastes | ot | ready | none |  |  |  |  |  |
-| cantares | ot | ready | none |  |  |  |  |  |
+| genesis | ot | draft | draft | | | | | names pass 2026-09-19 — re-approve |
+| exodo | ot | draft | none | | | | | names pass 2026-09-19 |
+| levitico | ot | draft | none | | | | | names pass 2026-09-19 |
+| numeros | ot | draft | none | | | | | names pass 2026-09-19 |
+| deuteronomio | ot | draft | none | | | | | names pass 2026-09-19 |
+| josue | ot | draft | none | | | | | names pass 2026-09-19 |
+| jueces | ot | draft | none | | | | | names pass 2026-09-19 |
+| rut | ot | draft | none | | | | | names pass 2026-09-19 |
+| 1samuel | ot | draft | none | | | | | names pass 2026-09-19 |
+| 2samuel | ot | draft | none | | | | | names pass 2026-09-19 |
+| 1reyes | ot | draft | none | | | | | names pass 2026-09-19 |
+| 2reyes | ot | draft | none | | | | | names pass 2026-09-19 |
+| 1cronicas | ot | draft | none | | | | | names pass 2026-09-19 |
+| 2cronicas | ot | draft | none | | | | | names pass 2026-09-19 |
+| esdras | ot | draft | none | | | | | names pass 2026-09-19 |
+| nehemias | ot | draft | none | | | | | names pass 2026-09-19 |
+| ester | ot | draft | none | | | | | names pass 2026-09-19 |
+| job | ot | draft | none | | | | | names pass 2026-09-19 |
+| salmos | ot | draft | none | | | | | names pass 2026-09-19 |
+| proverbios | ot | draft | none | | | | | names pass 2026-09-19 |
+| eclesiastes | ot | draft | none | | | | | names pass 2026-09-19 |
+| cantares | ot | draft | none | | | | | names pass 2026-09-19 |
 | isaias | ot | draft | none |  |  |  |  |  |
 | jeremias | ot | draft | none |  |  |  |  |  |
 | lamentaciones | ot | draft | none |  |  |  |  |  |

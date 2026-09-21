@@ -9,11 +9,11 @@
 
 ### 1:1
 
-Palabras de Qohélet, hijo de David, rey en Yerushaláyim.
+Palabras de Cohélet, hijo de David, rey en Jerusalén.
 
 ### 1:2
 
-Vanidad de vanidades, dijo Qohélet; vanidad de vanidades, el todo es vanidad.
+Vanidad de vanidades, dijo Cohélet; vanidad de vanidades, el todo es vanidad.
 
 ### 1:3
 
@@ -53,7 +53,7 @@ No hay recuerdo a los primeros, y también a los últimos que serán no habrá a
 
 ### 1:12
 
-Yo, Qohélet, fui rey sobre Israel en Yerushaláyim.
+Yo, Cohélet, fui rey sobre Israel en Jerusalén.
 
 ### 1:13
 
@@ -69,7 +69,7 @@ Lo torcido no puede ser enderezado, y la falta no puede ser contada.
 
 ### 1:16
 
-Hablé yo con mi corazón, diciendo: Yo, he aquí, engrandecí y añadí sabiduría sobre todo lo que fue delante de mí sobre Yerushaláyim; y mi corazón vio mucha sabiduría y conocimiento.
+Hablé yo con mi corazón, diciendo: Yo, he aquí, engrandecí y añadí sabiduría sobre todo lo que fue delante de mí sobre Jerusalén; y mi corazón vio mucha sabiduría y conocimiento.
 
 ### 1:17
 
@@ -108,7 +108,7 @@ Hice para mí estanques de aguas, para regar de ellos el bosque que brota árbol
 
 ### 2:7
 
-Adquirí siervos y siervas, e hijos de casa hubo a mí; también ganado de vacas y ovejas, mucho, hubo a mí, más que todos los que fueron delante de mí en Yerushaláyim.
+Adquirí siervos y siervas, e hijos de casa hubo a mí; también ganado de vacas y ovejas, mucho, hubo a mí, más que todos los que fueron delante de mí en Jerusalén.
 
 ### 2:8
 
@@ -116,7 +116,7 @@ Junté para mí también plata y oro, y tesoro de reyes y de las provincias; hic
 
 ### 2:9
 
-Y me engrandecí y añadí más que todos los que fueron delante de mí en Yerushaláyim; también mi sabiduría estuvo en pie para mí.
+Y me engrandecí y añadí más que todos los que fueron delante de mí en Jerusalén; también mi sabiduría estuvo en pie para mí.
 
 ### 2:10
 
@@ -587,7 +587,7 @@ Y hallando yo amarga más que muerte a la mujer que ella lazos y redes su coraz�
 
 ### 7:27
 
-Mira: esto hallé, dijo ella, Qohélet: una a una para hallar cómputo.
+Mira: esto hallé, dijo ella, Cohélet: una a una para hallar cómputo.
 
 ### 7:28
 
@@ -902,15 +902,15 @@ Y el polvo volverá sobre la tierra como era, y el espíritu volverá a Dios que
 
 ### 12:8
 
-Vanidad de vanidades, dijo el Qohélet; el todo es vanidad.
+Vanidad de vanidades, dijo el Cohélet; el todo es vanidad.
 
 ### 12:9
 
-Y de más, que Qohélet fue sabio; aún enseñó conocimiento al pueblo, y pesó y escudriñó, ordenó proverbios muchos.
+Y de más, que Cohélet fue sabio; aún enseñó conocimiento al pueblo, y pesó y escudriñó, ordenó proverbios muchos.
 
 ### 12:10
 
-Qohélet buscó hallar palabras de deleite, y escrito rectitud, palabras de verdad.
+Cohélet buscó hallar palabras de deleite, y escrito rectitud, palabras de verdad.
 
 ### 12:11
 

@@ -5,6 +5,10 @@
 
 ## Capítulo 1
 
+## Capítulo 1
+
+## Capítulo 1
+
 ### 1:1
 
 Palabras de Jeremías, hijo de Hilquías, de los sacerdotes que estaban en Anatót, en la tierra de Benjamín.
@@ -83,6 +87,12 @@ Y lucharán contigo, pero no podrán contigo, porque yo estoy contigo, dice el S
 
 ## Capítulo 2
 
+
+## Capítulo 2
+
+
+## Capítulo 2
+
 ### 2:1
 
 Y vino a mí la palabra del Señor diciendo:
@@ -101,15 +111,15 @@ Oíd palabra del Señor, casa de Jacob, y todas las tribus de Israel.
 
 ### 2:5
 
-Así ha dicho el Señor: ¿Qué hallaron vuestros padres en mí de iniquidad, que se apartaron de mí y anduvieron tras vanidad y se volvieron vanos?
+Así ha dicho el Señor: ¿Qué hallaron sus padres en mí de iniquidad, que se apartaron de mí y anduvieron tras vanidad y se volvieron vanos?
 
 ### 2:6
 
-¿No dijeron vuestros padres: Dónde está el SEÑOR, que nos sacó de la tierra de Egipto, que nos llevó por el desierto, por tierra árida y desolada, por tierra seca y deshabitada, por tierra donde no había pasado hombre ni habitado ser humano?
+¿No dijeron sus padres: Dónde está el SEÑOR, que nos sacó de la tierra de Egipto, que nos llevó por el desierto, por tierra árida y desolada, por tierra seca y deshabitada, por tierra donde no había pasado hombre ni habitado ser humano?
 
 ### 2:7
 
-Y los llevé a la tierra de Carmel para que comieran sus frutos y sus buenas cosas, pero vosotros os contaminasteis la tierra y mi heredad la hicisteis abominación.
+Y los llevé a la tierra de Carmel para que comieran sus frutos y sus buenas cosas, pero ustedes os contaminasteis la tierra y mi heredad la hicisteis abominación.
 
 ### 2:8
 
@@ -117,7 +127,7 @@ Los sacerdotes no dijeron: ¿Dónde está el SEÑOR? Y los que guardan la ley no
 
 ### 2:9
 
-Por tanto, aún contendré con vosotros, dice el SEÑOR, y con vuestros hijos contendré.
+Por tanto, aún contendré con ustedes, dice el SEÑOR, y con sus hijos contendré.
 
 ### 2:10
 
@@ -201,11 +211,11 @@ Dicen a la madera: Eres mi padre; y a la piedra: Eres mi madre. ¿Acaso se vuelv
 
 ### 2:30
 
-Golpeé en vano a vuestros hijos; no aceptaron corrección. Vuestros profetas comieron a la espada como león devorador.
+Golpeé en vano a sus hijos; no aceptaron corrección. sus profetas comieron a la espada como león devorador.
 
 ### 2:31
 
-¿Es este vuestro pueblo, oh generación, que ha visto la palabra del SEÑOR? ¿Fui para con Israel como desierto, o como tierra de tinieblas? ¿Por qué dice mi pueblo: No volveremos a ti?
+¿Es este su pueblo, oh generación, que ha visto la palabra del SEÑOR? ¿Fui para con Israel como desierto, o como tierra de tinieblas? ¿Por qué dice mi pueblo: No volveremos a ti?
 
 ### 2:32
 
@@ -230,6 +240,12 @@ Y dijiste: Estoy limpia, pero su ira se ha vuelto contra mí. Ahora juzgaré a t
 ### 2:37
 
 También de aquí te sacaré, y tus manos estarán sobre tu cabeza, porque el SEÑOR ha rechazado tu confianza, y no prosperarás con ellos.
+
+## Capítulo 3
+
+
+## Capítulo 3
+
 
 ## Capítulo 3
 
@@ -311,7 +327,7 @@ Y yo dije: ¿Cómo te plantaré como un hijo y te daré una tierra deseada, here
 
 ### 3:20
 
-En verdad, una mujer engaña a su compañera, así también vosotros, casa de Israel, ha dicho Yavé.
+En verdad, una mujer engaña a su compañera, así también ustedes, casa de Israel, ha dicho Yavé.
 
 ### 3:21
 
@@ -319,7 +335,7 @@ Se oye un grito en las montañas, el llanto de los hijos de Israel, porque han p
 
 ### 3:22
 
-Volved, hijos rebeldes, porque yo os he perdonado. Porque vosotros sois Yavé, nuestro Dios.
+Volved, hijos rebeldes, porque yo os he perdonado. Porque ustedes son Yavé, nuestro Dios.
 
 ### 3:23
 
@@ -335,6 +351,12 @@ Nos hemos acostado en nuestra vergüenza, y nos ha cubierto nuestra culpa, porqu
 
 ## Capítulo 4
 
+
+## Capítulo 4
+
+
+## Capítulo 4
+
 ### 4:1
 
 Si Israel vuelve a mí, dice Yavé, y aparta tus abominaciones de delante de mí, y no te moverás.
@@ -345,11 +367,11 @@ Y jurarás por la vida de Yavé en verdad, en justicia y en rectitud, y las naci
 
 ### 4:3
 
-Porque así ha dicho Yavé a la casa de Judá y a Jerusalén: Plantad para vosotros, pero no sembréis en espinos.
+Porque así ha dicho Yavé a la casa de Judá y a Jerusalén: Plantad para ustedes, pero no sembréis en espinos.
 
 ### 4:4
 
-Circuncidados seáis al SEÑOR, quitad las cubiertas de vuestros corazones, oh hombres de Judá y habitantes de Jerusalén, para que no salga como fuego mi ira y arda, y no quede quien la apague, por la maldad de vuestras obras.
+Circuncidados seáis al SEÑOR, quitad las cubiertas de sus corazones, oh hombres de Judá y habitantes de Jerusalén, para que no salga como fuego mi ira y arda, y no quede quien la apague, por la maldad de sus obras.
 
 ### 4:5
 
@@ -365,7 +387,7 @@ Subirá un león de su covacha, y devorará a las naciones; saldrá de su lugar 
 
 ### 4:8
 
-Por eso, cíñete con cilicio, lúgubremente llora y lamenta, porque no ha cesado el enojo del SEÑOR de sobre vosotros.
+Por eso, cíñete con cilicio, lúgubremente llora y lamenta, porque no ha cesado el enojo del SEÑOR de sobre ustedes.
 
 ### 4:9
 
@@ -461,6 +483,12 @@ Porque he oído el ruido de un enfermo, como el ruido de una mujer que da a luz;
 
 ## Capítulo 5
 
+
+## Capítulo 5
+
+
+## Capítulo 5
+
 ### 5:1
 
 Buscad en las calles de Jerusalén y ved, y sabed, y buscad en sus plazas si halláis un hombre que haga justicia y busque la verdad, para que yo le perdone.
@@ -515,11 +543,11 @@ Y los profetas serán como el viento, y no habrá palabra en ellos. Así les suc
 
 ### 5:14
 
-Por tanto, así dice el SEÑOR, el Dios de los ejércitos: Porque habéis hablado esta palabra, he puesto mis palabras en tu boca como fuego, y este pueblo como madera para ser quemada.
+Por tanto, así dice el SEÑOR, el Dios de los ejércitos: Porque han hablado esta palabra, he puesto mis palabras en tu boca como fuego, y este pueblo como madera para ser quemada.
 
 ### 5:15
 
-He aquí que traeré sobre vosotros un pueblo de lejos, oh casa de Israel, dice el SEÑOR. Es un pueblo fuerte, un pueblo antiguo, un pueblo cuya lengua no conocéis, ni podéis entender lo que dice.
+He aquí que traeré sobre ustedes un pueblo de lejos, oh casa de Israel, dice el SEÑOR. Es un pueblo fuerte, un pueblo antiguo, un pueblo cuya lengua no conocéis, ni podéis entender lo que dice.
 
 ### 5:16
 
@@ -531,11 +559,11 @@ Y comerán tu cosecha y tu pan, comerán a tus hijos y a tus hijas, comerán a t
 
 ### 5:18
 
-Y también en aquellos días, dice el SEÑOR, no haré con vosotros destrucción total.
+Y también en aquellos días, dice el SEÑOR, no haré con ustedes destrucción total.
 
 ### 5:19
 
-Y sucederá que cuando os preguntéis: ¿Por qué ha hecho el SEÑOR nuestro Dios todas estas cosas contra nosotros? responderéis: Porque habéis abandonado al SEÑOR, vuestro Dios, y habéis servido a dioses extranjeros en vuestra tierra, serviréis a extranjeros en una tierra que no es vuestra.
+Y sucederá que cuando os preguntéis: ¿Por qué ha hecho el SEÑOR nuestro Dios todas estas cosas contra nosotros? responderéis: Porque han abandonado al SEÑOR, su Dios, y han servido a dioses extranjeros en su tierra, serviréis a extranjeros en una tierra que no es su.
 
 ### 5:20
 
@@ -584,6 +612,12 @@ La maldad y la corrupción se han extendido por toda la tierra.
 ### 5:31
 
 Los profetas han profetizado mentiras, y los sacerdotes han consentido en sus manos; y el pueblo ama a los que hablan así. ¿Qué harán al final?
+
+## Capítulo 6
+
+
+## Capítulo 6
+
 
 ## Capítulo 6
 
@@ -649,15 +683,15 @@ Hicieron vergüenza, pero no se avergüenzan; no conocen la vergüenza. Por tant
 
 ### 6:16
 
-Así dice el Señor: Estad en los caminos y mirad, y preguntad por los senderos antiguos, ¿dónde está el buen camino, y andad por él? Y encontraréis descanso para vuestra alma; pero dijeron: No iremos.
+Así dice el Señor: Estad en los caminos y mirad, y preguntad por los senderos antiguos, ¿dónde está el buen camino, y andad por él? Y encontraréis descanso para su alma; pero dijeron: No iremos.
 
 ### 6:17
 
-Y pondré sobre vosotros centinelas; escuchad la voz del cuerno; pero dijeron: No escucharemos.
+Y pondré sobre ustedes centinelas; escuchad la voz del cuerno; pero dijeron: No escucharemos.
 
 ### 6:18
 
-Por tanto, oigan las naciones y conozcan, oh congregación, lo que entre vosotros hay.
+Por tanto, oigan las naciones y conozcan, oh congregación, lo que entre ustedes hay.
 
 ### 6:19
 
@@ -665,7 +699,7 @@ Oye, tierra, he aquí que traigo sobre este pueblo el mal, fruto de sus pensamie
 
 ### 6:20
 
-¿Por qué me traéis incienso de Saba y aceites preciosos de tierra lejana? Vuestros holocaustos no me son agradables, y vuestros sacrificios no me agradan.
+¿Por qué me traéis incienso de Saba y aceites preciosos de tierra lejana? sus holocaustos no me son agradables, y sus sacrificios no me agradan.
 
 ### 6:21
 
@@ -709,6 +743,12 @@ Se desprecia la plata; a ellos se les llama plata despreciable, porque el Señor
 
 ## Capítulo 7
 
+
+## Capítulo 7
+
+
+## Capítulo 7
+
 ### 7:1
 
 La palabra que vino a Jeremías de parte del Señor, diciendo:
@@ -719,23 +759,23 @@ Establece a la puerta de la casa del Señor y anuncia allí estas palabras y di:
 
 ### 7:3
 
-Así ha dicho el Señor de los ejércitos, el Dios de Israel: Mejorad vuestros caminos y vuestros actos, y yo os habituaré en este lugar.
+Así ha dicho el Señor de los ejércitos, el Dios de Israel: Mejorad sus caminos y sus actos, y yo os habituaré en este lugar.
 
 ### 7:4
 
-No os fiéis de vosotros mismos, diciendo: El templo del Señor, el templo del Señor, el templo del Señor son estos.
+No os fiéis de ustedes mismos, diciendo: El templo del Señor, el templo del Señor, el templo del Señor son estos.
 
 ### 7:5
 
-Pero si mejoráis vuestros caminos y vuestros actos, si juzgáis justamente entre uno y otro, entonces haréis bien.
+Pero si mejoráis sus caminos y sus actos, si juzgáis justamente entre uno y otro, entonces harán bien.
 
 ### 7:6
 
-No oprimiréis al extranjero, al huérfano y a la viuda, no derramaréis sangre inocente en este lugar, ni andaréis tras dioses ajenos para vuestro mal.
+No oprimiréis al extranjero, al huérfano y a la viuda, no derramaréis sangre inocente en este lugar, ni andaréis tras dioses ajenos para su mal.
 
 ### 7:7
 
-Y yo os habituaré en este lugar, en la tierra que di a vuestros padres desde antiguo hasta siempre.
+Y yo os habituaré en este lugar, en la tierra que di a sus padres desde antiguo hasta siempre.
 
 ### 7:8
 
@@ -751,7 +791,7 @@ Y vendréis y os presentaréis ante mí en esta casa que se llama por mi nombre,
 
 ### 7:11
 
-Esta casa que se llama por mi nombre, que vosotros la habéis convertido en cueva de ladrones, delante de vosotros la he visto, dice el SEÑOR.
+Esta casa que se llama por mi nombre, que ustedes la han convertido en cueva de ladrones, delante de ustedes la he visto, dice el SEÑOR.
 
 ### 7:12
 
@@ -759,15 +799,15 @@ Porque id ahora al lugar de Silo, donde habité primero, y mirad lo que hice all
 
 ### 7:13
 
-Y ahora, por hacer vosotros todas estas obras, dice el SEÑOR, hablé yo a vosotros, levanté mi voz, pero no me escuchasteis; llamé a vosotros, pero no me respondisteis.
+Y ahora, por hacer ustedes todas estas obras, dice el SEÑOR, hablé yo a ustedes, levanté mi voz, pero no me escuchasteis; llamé a ustedes, pero no me respondisteis.
 
 ### 7:14
 
-Y haré a esta casa, que se llama por mi nombre, a la cual confiáis, y a este lugar que os he dado a vosotros y a vuestros padres, lo que hice a Silo.
+Y haré a esta casa, que se llama por mi nombre, a la cual confiáis, y a este lugar que os he dado a ustedes y a sus padres, lo que hice a Silo.
 
 ### 7:15
 
-Y os echaré de delante de mí, como eché a todos vuestros hermanos, a toda la simiente de Efraín.
+Y os echaré de delante de mí, como eché a todos sus hermanos, a toda la simiente de Efraín.
 
 ### 7:16
 
@@ -795,11 +835,11 @@ Así dice el SEÑOR de los ejércitos, el Dios de Israel: Quemad las ofrendas de
 
 ### 7:22
 
-Porque no hablé con vuestros padres ni les dije en el día que los saqué de la tierra de Egipto acerca de ofrendas de paz y sacrificios.
+Porque no hablé con sus padres ni les dije en el día que los saqué de la tierra de Egipto acerca de ofrendas de paz y sacrificios.
 
 ### 7:23
 
-Pero os dije: Escuchad mi voz y yo seré para vosotros por Dios, y vosotros seréis para mí por pueblo, y andaréis en todo el camino que yo os mandare, para que os vaya bien.
+Pero os dije: Escuchad mi voz y yo seré para ustedes por Dios, y ustedes serán para mí por pueblo, y andaréis en todo el camino que yo os mandare, para que os vaya bien.
 
 ### 7:24
 
@@ -844,6 +884,12 @@ Y será la carne de este pueblo alimento para las aves del cielo y para las best
 ### 7:34
 
 Y haré callar en las ciudades de Judá y en las alrededores de Jerusalén el grito de alegría y el grito de júbilo, el grito de novio y el grito de novia, porque será un desierto la tierra.
+
+## Capítulo 8
+
+
+## Capítulo 8
+
 
 ## Capítulo 8
 
@@ -909,11 +955,11 @@ Esperad la paz, pero no habrá bien; en el tiempo de la curación, y he aquí qu
 
 ### 8:16
 
-Desde Dan se ha oído el ruido de los caballos de vuestros enemigos, y el estruendo de los potentes de vuestros enemigos; tiembla toda la tierra; y han venido y han devorado la tierra y todo lo que está en ella, la ciudad y los que habitan en ella.
+Desde Dan se ha oído el ruido de los caballos de sus enemigos, y el estruendo de los potentes de sus enemigos; tiembla toda la tierra; y han venido y han devorado la tierra y todo lo que está en ella, la ciudad y los que habitan en ella.
 
 ### 8:17
 
-Porque he aquí que envío entre vosotros serpientes, escorpiones, a las cuales no hay encantamiento para ellas; y morderán a vosotros, dice el SEÑOR.
+Porque he aquí que envío entre ustedes serpientes, escorpiones, a las cuales no hay encantamiento para ellas; y morderán a ustedes, dice el SEÑOR.
 
 ### 8:18
 
@@ -934,6 +980,7 @@ Por la desolación de la hija de mi pueblo he sido desgarrado; he puesto enlutam
 ### 8:22
 
 ¿No hay ungüento en Galaad, ¿no hay médico allí? ¿Por qué no ha subido la curación de la hija de mi pueblo?
+
 
 ## Capítulo 9
 
@@ -1015,7 +1062,7 @@ Porque el sonido de lamento se oye de Sion: ¡Cómo nos han despojado! ¡Nos ave
 
 ### 9:20
 
-Porque hemos oído a las mujeres la palabra de Jehová, y vosotras tomad en vuestros oídos la palabra de su boca, y enseñad a vuestros hijos el lamento y a vuestras hijas el himno.
+Porque hemos oído a las mujeres la palabra de Jehová, y ustedes tomad en sus oídos la palabra de su boca, y enseñad a sus hijos el lamento y a sus hijas el himno.
 
 ### 9:21
 
@@ -1043,9 +1090,15 @@ A Egipto, a Judá, a Edom, a los hijos de Amón, a Moab, a todos los que se cort
 
 ## Capítulo 10
 
+
+## Capítulo 10
+
+
+## Capítulo 10
+
 ### 10:1
 
-Oíd la palabra que ha hablado Jehová contra vosotros, oh casa de Israel.
+Oíd la palabra que ha hablado Jehová contra ustedes, oh casa de Israel.
 
 ### 10:2
 
@@ -1145,6 +1198,12 @@ Derrama tu ira sobre las naciones que no te conocen, y sobre las tribus que en t
 
 ## Capítulo 11
 
+
+## Capítulo 11
+
+
+## Capítulo 11
+
 ### 11:1
 
 La palabra que vino a Jeremías de parte de Jehová, diciendo:
@@ -1159,11 +1218,11 @@ Y diréis a ellos: Así ha dicho Jehová, Dios de Israel: Maldito el hombre que 
 
 ### 11:4
 
-Que os mandé a vuestros padres en el día que los saqué de la tierra de Egipto de la casa de hierro, diciendo: Obedeced mi voz y haced conforme a todo lo que os mando, y seréis para mí por pueblo, y yo seré para vosotros por Dios.
+Que os mandé a sus padres en el día que los saqué de la tierra de Egipto de la casa de hierro, diciendo: Obedeced mi voz y haced conforme a todo lo que os mando, y serán para mí por pueblo, y yo seré para ustedes por Dios.
 
 ### 11:5
 
-Para confirmar la alianza que juré a vuestros padres, para darles una tierra llena de leche y miel, como es hoy. Y yo dije: Amén, Jehová.
+Para confirmar la alianza que juré a sus padres, para darles una tierra llena de leche y miel, como es hoy. Y yo dije: Amén, Jehová.
 
 ### 11:6
 
@@ -1171,7 +1230,7 @@ Y Jehová me dijo: Anuncia estas palabras en las ciudades de Judá y en las call
 
 ### 11:7
 
-Porque juré a vuestros padres en el día que los saqué de la tierra de Egipto, hasta hoy, levantándome y jurando, diciendo: Obedeced mi voz.
+Porque juré a sus padres en el día que los saqué de la tierra de Egipto, hasta hoy, levantándome y jurando, diciendo: Obedeced mi voz.
 
 ### 11:8
 
@@ -1195,7 +1254,7 @@ Y andad por las ciudades de Judá y por los habitantes de Jerusalén, y clamad a
 
 ### 11:13
 
-Porque el número de tus ciudades, oh Judá, es el número de tus dioses; y en el número de las calles de Jerusalén habéis puesto altares para la vergüenza, altares para quemar incienso a Baal.
+Porque el número de tus ciudades, oh Judá, es el número de tus dioses; y en el número de las calles de Jerusalén han puesto altares para la vergüenza, altares para quemar incienso a Baal.
 
 ### 11:14
 
@@ -1236,6 +1295,12 @@ Por eso el SEÑOR de los ejércitos ha dicho: ‘He aquí que castigaré a estos
 ### 11:23
 
 Y no quedarán de ellos más que unos pocos, porque traeré sobre los hombres de Anatot un año de castigo.
+
+## Capítulo 12
+
+
+## Capítulo 12
+
 
 ## Capítulo 12
 
@@ -1309,6 +1374,12 @@ Y si no escuchan, los echaré de su nación, los echaré y los destruiré, dice 
 
 ## Capítulo 13
 
+
+## Capítulo 13
+
+
+## Capítulo 13
+
 ### 13:1
 
 Así ha dicho Jehová: Ve y compra un cinto de lino, y ponlo sobre tu cintura, y no lo pongas en el agua.
@@ -1371,15 +1442,15 @@ Escuchad y oíd, no os ensoberbecáis, porque Jehová ha hablado.
 
 ### 13:16
 
-Dad gloria a Jehová, vuestro Dios, antes que os oscurezca y antes que vuestras pierns se tambaleen sobre los montes de la tarde, y esperéis la luz y os convierta en tinieblas.
+Dad gloria a Jehová, su Dios, antes que os oscurezca y antes que sus pierns se tambaleen sobre los montes de la tarde, y esperéis la luz y os convierta en tinieblas.
 
 ### 13:17
 
-Si no me escucháis, mi alma gemirá en secreto por vuestra causa, y lloraré amargamente, y mis ojos derramarán lágrimas, porque el rebaño del SEÑOR ha sido llevado cautivo.
+Si no me escucháis, mi alma gemirá en secreto por su causa, y lloraré amargamente, y mis ojos derramarán lágrimas, porque el rebaño del SEÑOR ha sido llevado cautivo.
 
 ### 13:18
 
-Decidle al rey y a la reina: Sed humildes y sentaos, porque caerán de vuestras cabezas las coronas de vuestra gloria.
+Decidle al rey y a la reina: Sed humildes y sentaos, porque caerán de sus cabezas las coronas de su gloria.
 
 ### 13:19
 
@@ -1387,11 +1458,11 @@ Las ciudades del sur están cerradas, y no hay quien las abra. La cautividad de 
 
 ### 13:20
 
-Mirad y ved a los que vienen del norte: ¿dónde está el rebaño que os fue dado, la grey de vuestra gloria?
+Mirad y ved a los que vienen del norte: ¿dónde está el rebaño que os fue dado, la grey de su gloria?
 
 ### 13:21
 
-¿Qué diréis cuando os castigue y os enseñare a vosotros, a cada uno por cabeza, dos mil hombres? ¿No os sujetarán cuerdas como a una mujer que da a luz?
+¿Qué diréis cuando os castigue y os enseñare a ustedes, a cada uno por cabeza, dos mil hombres? ¿No os sujetarán cuerdas como a una mujer que da a luz?
 
 ### 13:22
 
@@ -1399,7 +1470,7 @@ Y cuando digas en tu corazón: ¿Por qué me ha llamado el SEÑOR estas cosas? P
 
 ### 13:23
 
-¿Podrá el negro cambiar su piel, o el leopardo dejar sus manchas? También vosotros podréis hacer el bien, siendo acostumbrados a hacer el mal.
+¿Podrá el negro cambiar su piel, o el leopardo dejar sus manchas? También ustedes podréis hacer el bien, siendo acostumbrados a hacer el mal.
 
 ### 13:24
 
@@ -1416,6 +1487,12 @@ Y también yo he descubierto tus calvas delante de ti; y tus pecados son vistos.
 ### 13:27
 
 Tus encantamientos y tus placeres son la iniquidad de tu fornicación en las colinas en el campo; he visto tu abominación, ¡ay de ti, Jerusalén! No te purificarás; cuándo acabará el tiempo?
+
+## Capítulo 14
+
+
+## Capítulo 14
+
 
 ## Capítulo 14
 
@@ -1509,6 +1586,12 @@ No te avergüences por tu nombre, no deshonres tu trono; acuérdate, no rompas t
 
 ## Capítulo 15
 
+
+## Capítulo 15
+
+
+## Capítulo 15
+
 ### 15:1
 
 Entonces dijo el SEÑOR: Aunque Moisés y Samuel estuvieran ante mí, no tendría misericordia de este pueblo; envíalos fuera de mi presencia, y que salgan.
@@ -1563,7 +1646,7 @@ Tus riquezas y tus tesoros te serán robados sin precio, por todas tus iniquidad
 
 ### 15:14
 
-Y haré que tus enemigos pasen por una tierra que no conoces; porque un fuego ha salido de mi nariz, y sobre vosotros seréis quemados.
+Y haré que tus enemigos pasen por una tierra que no conoces; porque un fuego ha salido de mi nariz, y sobre ustedes serán quemados.
 
 ### 15:15
 
@@ -1592,6 +1675,7 @@ Y te daré a este pueblo como una muralla de bronce; lucharán contra ti, pero n
 ### 15:21
 
 Te libraré de la mano de los malvados y te redimiré de la mano de los tiranos.
+
 
 ## Capítulo 16
 
@@ -1629,7 +1713,7 @@ No entrarás en la casa de fiesta para sentarte con ellos a comer y a beber.
 
 ### 16:9
 
-Porque dice el SEÑOR de los ejércitos, el Dios de Israel: He aquí que quitaré de este lugar, ante vuestros ojos y en vuestros días, el sonido de la alegría y el sonido de la gozo, el sonido del novio y el sonido de la novia.
+Porque dice el SEÑOR de los ejércitos, el Dios de Israel: He aquí que quitaré de este lugar, ante sus ojos y en sus días, el sonido de la alegría y el sonido de la gozo, el sonido del novio y el sonido de la novia.
 
 ### 16:10
 
@@ -1641,11 +1725,11 @@ Y les dirás: Porque abandonaron a sus padres a mí, el SEÑOR, y anduvieron tra
 
 ### 16:12
 
-Y vosotros habéis hecho peor que vuestros padres, porque cada uno anda tras la rebeldía de su corazón malo, para no oírme.
+Y ustedes han hecho peor que sus padres, porque cada uno anda tras la rebeldía de su corazón malo, para no oírme.
 
 ### 16:13
 
-Y os echaré de la tierra de este lugar a una tierra que no conocisteis vosotros ni vuestros padres, y allí serviréis a dioses ajenos de día y de noche, y no os daré misericordia.
+Y os echaré de la tierra de este lugar a una tierra que no conocisteis ustedes ni sus padres, y allí serviréis a dioses ajenos de día y de noche, y no os daré misericordia.
 
 ### 16:14
 
@@ -1678,6 +1762,12 @@ El SEÑOR es mi fortaleza y mi refugio, mi salvación en el día del mal. A ti, 
 ### 16:21
 
 Por eso, he aquí que yo les revelaré en este tiempo mi mano y mi poderío, y sabrán que yo soy el SEÑOR.
+
+## Capítulo 17
+
+
+## Capítulo 17
+
 
 ## Capítulo 17
 
@@ -1763,11 +1853,11 @@ Y dirás a ellos: Oíd la palabra de Jehová, reyes de Judá y todo Judá, y tod
 
 ### 17:21
 
-Así ha dicho Jehová: Guardaos en vuestras almas, y no carguéis carga en el día de reposo, y no la traigáis por las puertas de Jerusalén.
+Así ha dicho Jehová: Guardaos en sus almas, y no carguéis carga en el día de reposo, y no la traigáis por las puertas de Jerusalén.
 
 ### 17:22
 
-Y no saquen mercancías de sus casas en el día de reposo, ni hagan trabajo alguno, y santificarán el día de reposo, como yo lo mandé a vuestros padres.
+Y no saquen mercancías de sus casas en el día de reposo, ni hagan trabajo alguno, y santificarán el día de reposo, como yo lo mandé a sus padres.
 
 ### 17:23
 
@@ -1788,6 +1878,12 @@ Y vendrán de las ciudades de Judá y de los alrededores de Jerusalén, y de la 
 ### 17:27
 
 Pero si no escuchan a mí para santificar el día de reposo, no trayendo mercancías y no entrando por las puertas de Jerusalén en el día de reposo, entonces pondré fuego en las puertas de esta ciudad, y el fuego consumirá las casas de Jerusalén, y no se apagará.
+
+## Capítulo 18
+
+
+## Capítulo 18
+
 
 ## Capítulo 18
 
@@ -1813,7 +1909,7 @@ Y vino la palabra de Jehová a mí, diciendo:
 
 ### 18:6
 
-¿Acaso no puede el alfarero, como este, hacer de vosotros, casa de Israel, lo que le place, oh casa de Israel? He aquí que como la arcilla en la mano del alfarero, así sois vosotros en mi mano, oh casa de Israel.
+¿Acaso no puede el alfarero, como este, hacer de ustedes, casa de Israel, lo que le place, oh casa de Israel? He aquí que como la arcilla en la mano del alfarero, así son ustedes en mi mano, oh casa de Israel.
 
 ### 18:7
 
@@ -1833,7 +1929,7 @@ Pero si hace el mal a mis ojos para no escuchar mi voz, entonces me arrepiento d
 
 ### 18:11
 
-Ahora, pues, di a los hombres de Judá y a los habitantes de Jerusalén: Así ha dicho el Señor: He aquí que yo formo el mal contra vosotros y planeo un pensamiento contra vosotros; volved cada uno de su camino malo y caminad en los caminos y en las obras buenos.
+Ahora, pues, di a los hombres de Judá y a los habitantes de Jerusalén: Así ha dicho el Señor: He aquí que yo formo el mal contra ustedes y planeo un pensamiento contra ustedes; volved cada uno de su camino malo y caminad en los caminos y en las obras buenos.
 
 ### 18:12
 
@@ -1882,6 +1978,12 @@ Se oirá un grito en sus casas, porque tú los traerás un ejército de pronto, 
 ### 18:23
 
 Y tú, Señor, conoces todas sus consultas contra mí para la muerte; no te excuses por su pecado ni por su maldad delante de ti, y no los quite de tu presencia en el tiempo de tu ira, haz con ellos lo que te place.
+
+## Capítulo 19
+
+
+## Capítulo 19
+
 
 ## Capítulo 19
 
@@ -1947,6 +2049,12 @@ Así ha dicho el Señor de los ejércitos, el Dios de Israel: He aquí que traer
 
 ## Capítulo 20
 
+
+## Capítulo 20
+
+
+## Capítulo 20
+
 ### 20:1
 
 Y Pashhur, hijo de Immer, el sacerdote, y que era gobernador en el templo del Señor, oyó a Jeremías profetizar estas palabras.
@@ -1969,7 +2077,7 @@ Y entregaré a toda la ciudad fortaleza, a toda su gente cansada, a toda su riqu
 
 ### 20:6
 
-Y tú, Pashhur, y todos los que habitan en tu casa, iréis al destierro, y Babilonia os recibirá, y allí moriréis y allí seréis enterrados, tú y todos tus amados a quienes has profetizado falsamente.
+Y tú, Pashhur, y todos los que habitan en tu casa, iréis al destierro, y Babilonia os recibirá, y allí moriréis y allí serán enterrados, tú y todos tus amados a quienes has profetizado falsamente.
 
 ### 20:7
 
@@ -2019,6 +2127,7 @@ Que no me mató en el vientre, y ella es mi madre para siempre, y mis entrañas 
 
 ¿Para qué salí yo del vientre para ver la fatiga y el dolor? Y mis días se consumen en vergüenza.
 
+
 ## Capítulo 21
 
 ### 21:1
@@ -2035,11 +2144,11 @@ Y dijo Jeremías a ellos: Así les diréis a Sedecías:
 
 ### 21:4
 
-Así ha dicho el SEÑOR Dios de Israel: He aquí, pongo las armas de la guerra que está en vuestras manos en manos del rey de Babilonia y de los caldeos, sus enemigos, que están fuera de la muralla; y los juntaré dentro de esta ciudad.
+Así ha dicho el SEÑOR Dios de Israel: He aquí, pongo las armas de la guerra que está en sus manos en manos del rey de Babilonia y de los caldeos, sus enemigos, que están fuera de la muralla; y los juntaré dentro de esta ciudad.
 
 ### 21:5
 
-Y yo pelearé contra vosotros con mano extendida y con brazo fuerte, y con ira y con celos y con gran enojo.
+Y yo pelearé contra ustedes con mano extendida y con brazo fuerte, y con ira y con celos y con gran enojo.
 
 ### 21:6
 
@@ -2051,7 +2160,7 @@ Y después dice Jehová: Entregaré a Zedequías rey de Judá, y a sus siervos, 
 
 ### 21:8
 
-Y a este pueblo dirás: Así ha dicho Jehová: He aquí que pongo delante de vosotros la senda de la vida y la senda de la muerte.
+Y a este pueblo dirás: Así ha dicho Jehová: He aquí que pongo delante de ustedes la senda de la vida y la senda de la muerte.
 
 ### 21:9
 
@@ -2076,6 +2185,7 @@ He aquí que yo estoy contra ustedes que habitan en la llanura, en la roca del c
 ### 21:14
 
 Y visitaré sobre ustedes el fruto de sus obras, dice Jehová, y encenderé fuego en el bosque, y consumirá todo su alrededor.
+
 
 ## Capítulo 22
 
@@ -2201,13 +2311,19 @@ Así ha dicho Jehová: Escribe al hombre este: estéril, varón que no prosperar
 
 ## Capítulo 23
 
+
+## Capítulo 23
+
+
+## Capítulo 23
+
 ### 23:1
 
 Ay, pastores que destruyen y dispersan el rebaño de mi prado, dice Jehová.
 
 ### 23:2
 
-Por tanto, así ha dicho Jehová, el Dios de Israel, acerca de los pastores que pastorean mi pueblo: vosotros los habéis dispersado y los habéis echado, y no los habéis cuidado; he aquí que yo os cuidaré con el cuidado de vuestros malos pastores, dice Jehová.
+Por tanto, así ha dicho Jehová, el Dios de Israel, acerca de los pastores que pastorean mi pueblo: ustedes los han dispersado y los han echado, y no los han cuidado; he aquí que yo os cuidaré con el cuidado de sus malos pastores, dice Jehová.
 
 ### 23:3
 
@@ -2267,7 +2383,7 @@ Así dice el Señor de los ejércitos: No les escuchen cuando profetizan en vana
 
 ### 23:17
 
-Dicen a los que los desprecian: El Señor dice paz a ustedes. Pero todo el que anda en la rebeldía de su corazón dice: No vendrá sobre vosotros ningún mal.
+Dicen a los que los desprecian: El Señor dice paz a ustedes. Pero todo el que anda en la rebeldía de su corazón dice: No vendrá sobre ustedes ningún mal.
 
 ### 23:18
 
@@ -2363,6 +2479,12 @@ Y pondré sobre ustedes una maldición eterna y un deshonor eterno que no olvida
 
 ## Capítulo 24
 
+
+## Capítulo 24
+
+
+## Capítulo 24
+
 ### 24:1
 
 El Señor me mostró dos cestas de higos, colocadas delante del templo del Señor, después que Nabucodonosor, rey de Babilonia, había llevado a cautivo a Jeconías, hijo de Joaquín, rey de Judá, y a los nobles de Judá, a los artesanos y a los forzados de Jerusalén, y los había llevado a Babilonia.
@@ -2403,6 +2525,7 @@ Y los entregaré para ser objeto de maldición, de desprecio, de escarnio y de m
 
 Y enviaré entre ellos la espada, la hambruna y la peste, hasta que sean consumidos de la tierra que les di y a sus padres.
 
+
 ## Capítulo 25
 
 ### 25:1
@@ -2415,27 +2538,27 @@ Así habló Jeremías el profeta a todo el pueblo de Judá y a todos los habitan
 
 ### 25:3
 
-Desde el año trece del reinado de Josías, hijo de Amón, rey de Judá, hasta este día, han sido treinta y nueve años que la palabra del Señor ha venido a mí, y yo os he hablado, pero no me habéis escuchado.
+Desde el año trece del reinado de Josías, hijo de Amón, rey de Judá, hasta este día, han sido treinta y nueve años que la palabra del Señor ha venido a mí, y yo os he hablado, pero no me han escuchado.
 
 ### 25:4
 
-Y el Señor os ha enviado a todos sus siervos los profetas, levantándolos y enviándolos, pero no me habéis escuchado.
+Y el Señor os ha enviado a todos sus siervos los profetas, levantándolos y enviándolos, pero no me han escuchado.
 
 ### 25:5
 
-Decía: ‘Volved cada uno de vuestro mal camino y de la maldad de vuestros actos, y habitad en la tierra que el Señor ha dado a vosotros y a vuestros padres desde antiguo hasta siempre.’
+Decía: ‘Volved cada uno de su mal camino y de la maldad de sus actos, y habitad en la tierra que el Señor ha dado a ustedes y a sus padres desde antiguo hasta siempre.’
 
 ### 25:6
 
-Y no andéis tras dioses ajenos para servirles y adorarles, ni me provocaréis con vuestros actos, para que no os haga mal.
+Y no andéis tras dioses ajenos para servirles y adorarles, ni me provocaréis con sus actos, para que no os haga mal.
 
 ### 25:7
 
-Y no me habéis escuchado, palabra del Señor, para que me provocarais con vuestros actos, para que os hiciera mal.
+Y no me han escuchado, palabra del Señor, para que me provocarais con sus actos, para que os hiciera mal.
 
 ### 25:8
 
-Por tanto, dice el Señor de los ejércitos, porque no me habéis escuchado a mí, a mis palabras:
+Por tanto, dice el Señor de los ejércitos, porque no me han escuchado a mí, a mis palabras:
 
 ### 25:9
 
@@ -2511,7 +2634,7 @@ Y a todos los reyes del norte, tanto los cercanos como los lejanos, cada uno con
 
 ### 25:27
 
-Y dirás a ellos: Así ha dicho el Señor de los ejércitos, el Dios de Israel: Bebed y embriagaos, y caed, no os levantéis de la espada que yo enviaré entre vosotros.
+Y dirás a ellos: Así ha dicho el Señor de los ejércitos, el Dios de Israel: Bebed y embriagaos, y caed, no os levantéis de la espada que yo enviaré entre ustedes.
 
 ### 25:28
 
@@ -2519,7 +2642,7 @@ Y será que cuando se nieguen a tomar la copa de tu mano para beber, dirás a el
 
 ### 25:29
 
-Porque he aquí que en la ciudad a la que se llama mi nombre, yo empiezo a hacer mal, y vosotros os purgaréis, pero no os purgaréis; porque yo llamo la espada sobre todos los moradores de la tierra, dice el Señor de los ejércitos.
+Porque he aquí que en la ciudad a la que se llama mi nombre, yo empiezo a hacer mal, y ustedes os purgaréis, pero no os purgaréis; porque yo llamo la espada sobre todos los moradores de la tierra, dice el Señor de los ejércitos.
 
 ### 25:30
 
@@ -2539,7 +2662,7 @@ Y los muertos del Señor en aquel día serán desde el extremo de la tierra hast
 
 ### 25:34
 
-Gimiendo gemirán los pastores, y aullarán los jefes del rebaño, porque se llenarán vuestros días para ser degollados, y yo haré que se disperse a vosotros, y caeréis como un objeto deseable.
+Gimiendo gemirán los pastores, y aullarán los jefes del rebaño, porque se llenarán sus días para ser degollados, y yo haré que se disperse a ustedes, y caeréis como un objeto deseable.
 
 ### 25:35
 
@@ -2559,6 +2682,12 @@ Abandonará como león su morada, porque la tierra se ha convertido en un desier
 
 ## Capítulo 26
 
+
+## Capítulo 26
+
+
+## Capítulo 26
+
 ### 26:1
 
 En el principio del reinado de Joaquín, hijo de Josías, rey de Judá, esta palabra vino de parte del SEÑOR, diciendo:
@@ -2573,7 +2702,7 @@ Quizás escuchen y se vuelvan, cada uno de su mala senda; y yo me arrepentiré d
 
 ### 26:4
 
-Y dirás a ellos: Así ha dicho el SEÑOR: Si no escuchan a mí para andar en mi ley que puse delante de vosotros,
+Y dirás a ellos: Así ha dicho el SEÑOR: Si no escuchan a mí para andar en mi ley que puse delante de ustedes,
 
 ### 26:5
 
@@ -2601,23 +2730,23 @@ Y oyeron los señores de Judá estas palabras y subieron del palacio real a la c
 
 ### 26:11
 
-Y los sacerdotes y los profetas dijeron a los señores y a todo el pueblo: Este hombre merece la muerte, porque ha profetizado contra esta ciudad, como habéis oído con vuestros oídos.
+Y los sacerdotes y los profetas dijeron a los señores y a todo el pueblo: Este hombre merece la muerte, porque ha profetizado contra esta ciudad, como han oído con sus oídos.
 
 ### 26:12
 
-Entonces Jeremías dijo a todos los señores y a todo el pueblo: Jehová me ha enviado a profetizar contra este templo y contra esta ciudad, conforme a todo lo que habéis oído.
+Entonces Jeremías dijo a todos los señores y a todo el pueblo: Jehová me ha enviado a profetizar contra este templo y contra esta ciudad, conforme a todo lo que han oído.
 
 ### 26:13
 
-Ahora, pues, enmiendaos en vuestros caminos y en vuestros actos, y escuchad la voz de Jehová, vuestro Dios, y Jehová os perdonará el mal que ha hablado contra vosotros.
+Ahora, pues, enmiendaos en sus caminos y en sus actos, y escuchad la voz de Jehová, su Dios, y Jehová os perdonará el mal que ha hablado contra ustedes.
 
 ### 26:14
 
-Y yo estoy en vuestras manos; haced conmigo lo que os parezca bien y justo en vuestros ojos.
+Y yo estoy en sus manos; haced conmigo lo que os parezca bien y justo en sus ojos.
 
 ### 26:15
 
-Pero sabed bien que si me matáis, seréis vosotros los que derramáis sangre inocente, y la ciudad y sus habitantes serán responsables, porque Jehová me ha enviado a vosotros en verdad para hablaros conforme a todo lo que habéis oído.
+Pero sabed bien que si me matáis, serán ustedes los que derramáis sangre inocente, y la ciudad y sus habitantes serán responsables, porque Jehová me ha enviado a ustedes en verdad para hablaros conforme a todo lo que han oído.
 
 ### 26:16
 
@@ -2657,6 +2786,12 @@ Pero la mano de Aquicam, hijo de Safán, fue con Jeremías para que no lo entreg
 
 ## Capítulo 27
 
+
+## Capítulo 27
+
+
+## Capítulo 27
+
 ### 27:1
 
 En el año en que comenzó a reinar Joaquín, hijo de Josías, rey de Judá, vino esta palabra a Jeremías de parte de Jehová, diciendo:
@@ -2691,11 +2826,11 @@ Y será que la nación y la realeza que no sirva a Nabucodonosor, rey de Babilon
 
 ### 27:9
 
-Y vosotros no os dejéis engañar por vuestros profetas ni por vuestros adivinos ni por vuestros sueños, ni por vuestros hechiceros ni por vuestros encantadores, que os dicen: No serviréis al rey de Babilonia.
+Y ustedes no os dejéis engañar por sus profetas ni por sus adivinos ni por sus sueños, ni por sus hechiceros ni por sus encantadores, que os dicen: No serviréis al rey de Babilonia.
 
 ### 27:10
 
-Porque son mentirosos los profetas que os profetizan, para apartaros de vuestra tierra, y os apartaré y os perderé.
+Porque son mentirosos los profetas que os profetizan, para apartaros de su tierra, y os apartaré y os perderé.
 
 ### 27:11
 
@@ -2703,11 +2838,11 @@ Y el pueblo que traiga su cuello en el yugo del rey de Babilonia y le sirva, lo 
 
 ### 27:12
 
-Y a Zedequías, rey de Judá, hablé conforme a todas estas palabras, diciendo: Traed vuestros cuellos en el yugo del rey de Babilonia y servidle y a su pueblo, y viviréis.
+Y a Zedequías, rey de Judá, hablé conforme a todas estas palabras, diciendo: Traed sus cuellos en el yugo del rey de Babilonia y servidle y a su pueblo, y viviréis.
 
 ### 27:13
 
-¿Por qué moriréis vosotros y vuestro pueblo con la espada, con el hambre y con la peste, como ha hablado el SEÑOR a los pueblos que no sirven al rey de Babilonia?
+¿Por qué moriréis ustedes y su pueblo con la espada, con el hambre y con la peste, como ha hablado el SEÑOR a los pueblos que no sirven al rey de Babilonia?
 
 ### 27:14
 
@@ -2715,11 +2850,11 @@ No os dejéis engañar por las palabras de los profetas que os dicen: No servir�
 
 ### 27:15
 
-Porque no los envié, dice el SEÑOR, y profetizan en mi nombre falsedades para apartaros, para que muráis vosotros y los profetas que profetizan en vuestro nombre.
+Porque no los envié, dice el SEÑOR, y profetizan en mi nombre falsedades para apartaros, para que muráis ustedes y los profetas que profetizan en su nombre.
 
 ### 27:16
 
-Y a los sacerdotes y a todo este pueblo dije: Así ha dicho el SEÑOR: No os dejéis engañar por las palabras de los profetas que profetizan en vuestro nombre, diciendo: He aquí que los utensilios de la casa del SEÑOR están ya en Babilonia; pronto vendrán. Porque son mentirosos los profetas.
+Y a los sacerdotes y a todo este pueblo dije: Así ha dicho el SEÑOR: No os dejéis engañar por las palabras de los profetas que profetizan en su nombre, diciendo: He aquí que los utensilios de la casa del SEÑOR están ya en Babilonia; pronto vendrán. Porque son mentirosos los profetas.
 
 ### 27:17
 
@@ -2744,6 +2879,12 @@ Porque así ha dicho el SEÑOR de los ejércitos, Dios de Israel: Sobre los uten
 ### 27:22
 
 En Babilonia los llevarán y allí quedarán hasta el día en que yo los visite, dice el SEÑOR, y los haré subir y los haré volver a este lugar.
+
+## Capítulo 28
+
+
+## Capítulo 28
+
 
 ## Capítulo 28
 
@@ -2815,6 +2956,7 @@ Por tanto, así ha dicho el SEÑOR: He aquí que te quito de sobre la faz de la 
 
 Y murió Hananías el profeta en ese año, en el séptimo mes.
 
+
 ## Capítulo 29
 
 ### 29:1
@@ -2839,27 +2981,27 @@ Edificad casas y vivid en ellas, plantad huertos y comed de sus frutos.
 
 ### 29:6
 
-Tomad mujeres y engendrad hijos e hijas, y dadas a vuestros hijos y a vuestras hijas, tomad mujeres de entre ellos, para que engendren hijos e hijas, y crezcáis y no disminuyáis.
+Tomad mujeres y engendrad hijos e hijas, y dadas a sus hijos y a sus hijas, tomad mujeres de entre ellos, para que engendren hijos e hijas, y crezcáis y no disminuyáis.
 
 ### 29:7
 
-Buscad el bien de la ciudad a la cual yo os he desterrado, y orad por ella al SEÑOR, porque en su bienestar estará vuestro bienestar.
+Buscad el bien de la ciudad a la cual yo os he desterrado, y orad por ella al SEÑOR, porque en su bienestar estará su bienestar.
 
 ### 29:8
 
-Porque Jehová de los ejércitos, el Dios de Israel, dice: No os dejéis engañar por vuestros profetas que están en medio de vosotros, ni por vuestros adivinos, ni escuchéis los sueños que vosotros soñáis.
+Porque Jehová de los ejércitos, el Dios de Israel, dice: No os dejéis engañar por sus profetas que están en medio de ustedes, ni por sus adivinos, ni escuchéis los sueños que ustedes soñáis.
 
 ### 29:9
 
-Porque en vanidad profetizan en vuestro nombre, a quien no envié yo, dice Jehová.
+Porque en vanidad profetizan en su nombre, a quien no envié yo, dice Jehová.
 
 ### 29:10
 
-Porque dice Jehová: Por cuanto ha llenado Babilonia de orgullo durante setenta años, yo os visitaré conforme a vuestros hechos, y cumpliré con vosotros mis palabras buenas para traeros de nuevo a este lugar.
+Porque dice Jehová: Por cuanto ha llenado Babilonia de orgullo durante setenta años, yo os visitaré conforme a sus hechos, y cumpliré con ustedes mis palabras buenas para traeros de nuevo a este lugar.
 
 ### 29:11
 
-Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz y no de mal, para daros un fin y una esperanza.
+Porque yo sé los pensamientos que tengo acerca de ustedes, dice Jehová, pensamientos de paz y no de mal, para daros un fin y una esperanza.
 
 ### 29:12
 
@@ -2867,19 +3009,19 @@ Y me llamareis, y vendréis, y oraréis a mí, y yo os escucharé.
 
 ### 29:13
 
-Y me buscaréis, y me hallaréis, porque me buscaréis con todo vuestro corazón.
+Y me buscaréis, y me hallaréis, porque me buscaréis con todo su corazón.
 
 ### 29:14
 
-Y yo me dejaré hallar por vosotros, dice Jehová, y os reuniré de entre todas las naciones y de entre todos los lugares a donde os he echado, y os traeré de nuevo al lugar de donde os eché.
+Y yo me dejaré hallar por ustedes, dice Jehová, y os reuniré de entre todas las naciones y de entre todos los lugares a donde os he echado, y os traeré de nuevo al lugar de donde os eché.
 
 ### 29:15
 
-Porque habéis dicho: Levantará Jehová para nosotros profetas en Babilonia.
+Porque han dicho: Levantará Jehová para nosotros profetas en Babilonia.
 
 ### 29:16
 
-Porque dice Jehová: Al rey que está sentado en el trono de David, y a todo el pueblo que está en esta ciudad, a vuestros hermanos que no salieron con vosotros en el destierro.
+Porque dice Jehová: Al rey que está sentado en el trono de David, y a todo el pueblo que está en esta ciudad, a sus hermanos que no salieron con ustedes en el destierro.
 
 ### 29:17
 
@@ -2895,11 +3037,11 @@ Porque no escucharon mis palabras, dice Jehová, a los cuales envié a ellos a m
 
 ### 29:20
 
-Y vosotros, los que habéis sido llevados cautivos a Babilonia, escuchad la palabra de Jehová: Así ha dicho Jehová de los ejércitos, Dios de Israel, acerca de Acajo hijo de Caloia y de Sedequías hijo de Maaseja, los profetas que han profetizado falsamente en mi nombre: He aquí que los entregaré en manos de Nabucodonosor, rey de Babilonia, y él los matará delante de vosotros.
+Y ustedes, los que han sido llevados cautivos a Babilonia, escuchad la palabra de Jehová: Así ha dicho Jehová de los ejércitos, Dios de Israel, acerca de Acajo hijo de Caloia y de Sedequías hijo de Maaseja, los profetas que han profetizado falsamente en mi nombre: He aquí que los entregaré en manos de Nabucodonosor, rey de Babilonia, y él los matará delante de ustedes.
 
 ### 29:21
 
-Así ha dicho Jehová de los ejércitos, Dios de Israel, a Acajo hijo de Caloia y a Sedequías hijo de Maaseja, los profetas que han profetizado falsamente en mi nombre: He aquí que los entregaré en manos de Nabucodonosor, rey de Babilonia, y él los matará delante de vosotros.
+Así ha dicho Jehová de los ejércitos, Dios de Israel, a Acajo hijo de Caloia y a Sedequías hijo de Maaseja, los profetas que han profetizado falsamente en mi nombre: He aquí que los entregaré en manos de Nabucodonosor, rey de Babilonia, y él los matará delante de ustedes.
 
 ### 29:22
 
@@ -2939,11 +3081,17 @@ Y vino la palabra de Jehová a Jeremías, diciendo:
 
 ### 29:31
 
-Envía a todo el cautiverio diciendo: Así ha dicho Jehová a Semajah el adivino: Porque ha profetizado en vuestro nombre Semajah, y yo no le he enviado, y ha engañado a vosotros con mentira.
+Envía a todo el cautiverio diciendo: Así ha dicho Jehová a Semajah el adivino: Porque ha profetizado en su nombre Semajah, y yo no le he enviado, y ha engañado a ustedes con mentira.
 
 ### 29:32
 
 Por eso, así ha dicho Jehová: He aquí que haré venir sobre Semajah el adivino y sobre su descendencia la calamidad. No habrá en medio del pueblo este un hombre que se asiente, y no verá el bien que yo hago a mi pueblo, porque ha hablado con soberbia contra Jehová.
+
+## Capítulo 30
+
+
+## Capítulo 30
+
 
 ## Capítulo 30
 
@@ -3033,7 +3181,7 @@ Y será grande su poder, y de su medio saldrá su gobernante, y yo lo acercaré 
 
 ### 30:22
 
-Y seréis para mí un pueblo, y yo seré para vosotros un Dios.
+Y serán para mí un pueblo, y yo seré para ustedes un Dios.
 
 ### 30:23
 
@@ -3042,6 +3190,12 @@ He aquí que viene la ira de Jehová, una tormenta; la tormenta sale, y se levan
 ### 30:24
 
 No se apartará la ira del Señor hasta que haga y cumpla lo que su corazón desea. En los últimos días lo entenderán.
+
+## Capítulo 31
+
+
+## Capítulo 31
+
 
 ## Capítulo 31
 
@@ -3204,6 +3358,12 @@ Y saldrá otra vez la medida en su frente, sobre la colina de Gareb, y rodeará 
 ### 31:40
 
 Y todo el valle de los cadáveres y de la ceniza, y todo el campo de las cenizas hasta el arroyo de Kidron, hasta el ángulo de la puerta de los caballos al oriente, será santo al SEÑOR; no será arrancado ni derribado más para siempre.
+
+## Capítulo 32
+
+
+## Capítulo 32
+
 
 ## Capítulo 32
 
@@ -3385,6 +3545,12 @@ Comprarán campos en la tierra de Benjamín y alrededor de Jerusalén, y en las 
 
 ## Capítulo 33
 
+
+## Capítulo 33
+
+
+## Capítulo 33
+
 ### 33:1
 
 Ocurrió otra vez la palabra de Jehová a Jeremías, mientras aún estaba encadenado en la corte de la guardia, diciendo:
@@ -3491,6 +3657,12 @@ Tampoco despreciaré a la descendencia de Jacob y a David, mi siervo, para no to
 
 ## Capítulo 34
 
+
+## Capítulo 34
+
+
+## Capítulo 34
+
 ### 34:1
 
 La palabra que vino a Jeremías del Señor, cuando Nabucodonosor, rey de Babilonia, y todo su ejército, con todos los reinos de la tierra bajo su dominio, y todos los pueblos de la tierra, estaban en guerra contra Jerusalén y contra todas las ciudades de Judá, diciendo:
@@ -3541,23 +3713,23 @@ Y vino la palabra del Señor a Jeremías, del Señor, diciendo:
 
 ### 34:13
 
-Así ha dicho el Señor, el Dios de Israel: Yo hice un pacto con vuestros padres en el día que los saqué de la tierra de Egipto, de la casa de esclavitud, diciendo:
+Así ha dicho el Señor, el Dios de Israel: Yo hice un pacto con sus padres en el día que los saqué de la tierra de Egipto, de la casa de esclavitud, diciendo:
 
 ### 34:14
 
-Al cabo de siete años, cada uno de vosotros liberará a su hermano hebreo que ha vendido a otro, y lo servirá seis años, y luego lo dejará ir libre. Pero vuestros padres no me escucharon, ni inclinaron el oído.
+Al cabo de siete años, cada uno de ustedes liberará a su hermano hebreo que ha vendido a otro, y lo servirá seis años, y luego lo dejará ir libre. Pero sus padres no me escucharon, ni inclinaron el oído.
 
 ### 34:15
 
-Y vosotros hoy habéis vuelto y habéis hecho lo recto delante de mí, para proclamar libertad a cada uno a su hermano y a cada uno a su vecino, y habéis hecho un pacto delante de mí en la casa que se llama por mi nombre.
+Y ustedes hoy han vuelto y han hecho lo recto delante de mí, para proclamar libertad a cada uno a su hermano y a cada uno a su vecino, y han hecho un pacto delante de mí en la casa que se llama por mi nombre.
 
 ### 34:16
 
-Y habéis vuelto y habéis profanado mi nombre, y habéis devuelto a cada uno a su siervo y a cada uno a su sierva que habíais liberado libremente, y los habéis esclavizado de nuevo para que fueran vuestros siervos y siervas.
+Y han vuelto y han profanado mi nombre, y han devuelto a cada uno a su siervo y a cada uno a su sierva que habíais liberado libremente, y los han esclavizado de nuevo para que fueran sus siervos y siervas.
 
 ### 34:17
 
-Por tanto, dice el Señor: No habéis escuchadome para proclamar libertad a cada uno a su hermano y a cada uno a su vecino. He aquí que yo os proclamo libertad a vosotros, a la espada, a la peste y a la hambruna, y os entregaré en manos de todas las naciones de la tierra.
+Por tanto, dice el Señor: No han escuchadome para proclamar libertad a cada uno a su hermano y a cada uno a su vecino. He aquí que yo os proclamo libertad a ustedes, a la espada, a la peste y a la hambruna, y os entregaré en manos de todas las naciones de la tierra.
 
 ### 34:18
 
@@ -3573,11 +3745,17 @@ Y los entregaré en manos de sus enemigos y en manos de los que buscan sus vidas
 
 ### 34:21
 
-Y a Zedequías, rey de Judá, y a sus líderes, los entregaré en manos de sus enemigos y en manos de los que buscan sus vidas, y en manos del ejército del rey de Babilonia que sube contra vosotros.
+Y a Zedequías, rey de Judá, y a sus líderes, los entregaré en manos de sus enemigos y en manos de los que buscan sus vidas, y en manos del ejército del rey de Babilonia que sube contra ustedes.
 
 ### 34:22
 
 He aquí, os mando, dice el SEÑOR, y os haré volver a esta ciudad, y lucharán contra ella y la tomarán y la quemarán con fuego, y haré que las ciudades de Judá sean desolación sin habitantes.
+
+## Capítulo 35
+
+
+## Capítulo 35
+
 
 ## Capítulo 35
 
@@ -3603,11 +3781,11 @@ Y puse delante de los hijos de Jonadab hijo de Recab copas llenas de vino y jarr
 
 ### 35:6
 
-Y dijeron: No bebemos vino, porque Jonadab hijo de Recab, nuestro padre, nos mandó diciendo: No bebáis vino vosotros ni vuestros hijos por siempre.
+Y dijeron: No bebemos vino, porque Jonadab hijo de Recab, nuestro padre, nos mandó diciendo: No bebáis vino ustedes ni sus hijos por siempre.
 
 ### 35:7
 
-Y casa no edificaréis, ni sembraréis semilla, ni plantaréis viña, ni será para vosotros, para que habitéis en tiendas toda vuestra vida, para que viváis muchos días sobre la tierra donde sois extranjeros.
+Y casa no edificaréis, ni sembraréis semilla, ni plantaréis viña, ni será para ustedes, para que habitéis en tiendas toda su vida, para que viváis muchos días sobre la tierra donde son extranjeros.
 
 ### 35:8
 
@@ -3639,7 +3817,7 @@ Han levantado los hijos de Jonadab, hijo de Recab, la ordenanza de su padre, que
 
 ### 35:15
 
-Y envié a vosotros a todos mis siervos los profetas, levantándome y enviándolos, diciendo: Volved cada uno de su mala senda, y haced bien en vuestros caminos, y no andéis tras dioses ajenos para servirles; y sed habitantes de la tierra que os di a vosotros y a vuestros padres, y no me inclinasteis oídos, y no me escuchasteis.
+Y envié a ustedes a todos mis siervos los profetas, levantándome y enviándolos, diciendo: Volved cada uno de su mala senda, y haced bien en sus caminos, y no andéis tras dioses ajenos para servirles; y sed habitantes de la tierra que os di a ustedes y a sus padres, y no me inclinasteis oídos, y no me escuchasteis.
 
 ### 35:16
 
@@ -3651,11 +3829,17 @@ Por tanto, así ha dicho Jehová, el Dios de los ejércitos, el Dios de Israel: 
 
 ### 35:18
 
-Y a la casa de Recab dijo Jeremías: Así ha dicho Jehová, el Dios de Israel: Porque habéis guardado la ordenanza de Jonadab, vuestro padre, y habéis guardado todas mis ordenanzas, y habéis hecho conforme a todo lo que os mandó vuestro padre;
+Y a la casa de Recab dijo Jeremías: Así ha dicho Jehová, el Dios de Israel: Porque han guardado la ordenanza de Jonadab, su padre, y han guardado todas mis ordenanzas, y han hecho conforme a todo lo que os mandó su padre;
 
 ### 35:19
 
 Por tanto, así ha dicho Jehová, el Dios de Israel: No cesará de ser servidor de Jehová, delante de mí, Jonadab, hijo de Recab, y su simiente para siempre.
+
+## Capítulo 36
+
+
+## Capítulo 36
+
 
 ## Capítulo 36
 
@@ -3789,6 +3973,12 @@ Y Jeremías tomó otra hoja y la dio a Baruc, hijo de Nerías, el escriba, y esc
 
 ## Capítulo 37
 
+
+## Capítulo 37
+
+
+## Capítulo 37
+
 ### 37:1
 
 Y reinó el rey Sedequías, hijo de Josías, en lugar de Conías, hijo de Joaquín, que Nabucodonosor, rey de Babilonia, había puesto en la tierra de Judá.
@@ -3827,7 +4017,7 @@ Así dice Jehová: No os engañéis diciendo: Se han ido los caldeos de nosotros
 
 ### 37:10
 
-Porque si los hubierais herido a todos los que pelean contra vosotros, y hubieran quedado entre ellos hombres heridos, cada uno en su tienda, se levantarían y quemarían esta ciudad con fuego.
+Porque si los hubierais herido a todos los que pelean contra ustedes, y hubieran quedado entre ellos hombres heridos, cada uno en su tienda, se levantarían y quemarían esta ciudad con fuego.
 
 ### 37:11
 
@@ -3859,11 +4049,11 @@ Y envió el rey Zedequías y le tomó, y le preguntó el rey en secreto, y dijo:
 
 ### 37:18
 
-Y dijo Jeremías al rey Zedequías: ¿Qué he hecho yo contra ti, ni contra tus siervos, ni contra este pueblo, que me habéis puesto en la casa de la cárcel?
+Y dijo Jeremías al rey Zedequías: ¿Qué he hecho yo contra ti, ni contra tus siervos, ni contra este pueblo, que me han puesto en la casa de la cárcel?
 
 ### 37:19
 
-Y vuestros profetas que profetizaronos, diciendo: No vendrá el rey de Babilonia sobre vosotros, ni sobre esta tierra.
+Y sus profetas que profetizaronos, diciendo: No vendrá el rey de Babilonia sobre ustedes, ni sobre esta tierra.
 
 ### 37:20
 
@@ -3872,6 +4062,12 @@ Y ahora, te ruego, oh mi señor el rey, escucha mi súplica y no me eches en la 
 ### 37:21
 
 El rey Zedequías ordenó que se guardara a Jeremías en la corte de la cárcel y que se le diera un cuartillo de pan cada día fuera del horno, hasta que se acabara todo el pan en la ciudad. Jeremías permaneció en la corte de la cárcel.
+
+## Capítulo 38
+
+
+## Capítulo 38
+
 
 ## Capítulo 38
 
@@ -3893,7 +4089,7 @@ Los oficiales dijeron al rey: ¡Matadle a este hombre! Porque así es que él cu
 
 ### 38:5
 
-El rey Zedequías respondió: ¡Está en vuestras manos! Porque el rey no puede hacer nada contra vosotros.
+El rey Zedequías respondió: ¡Está en sus manos! Porque el rey no puede hacer nada contra ustedes.
 
 ### 38:6
 
@@ -3987,6 +4183,7 @@ Y vinieron todos los príncipes a Jeremías y le preguntaron, y él les contó t
 
 Y Jeremías se quedó en la corte de la guardia hasta el día que fue tomada Jerusalén, y fue como cuando fue tomada Jerusalén.
 
+
 ## Capítulo 39
 
 ### 39:1
@@ -4061,6 +4258,7 @@ Y te salvaré en aquel día, dice Jehová, y no caerás en manos de los hombres 
 
 Porque te libraré, y no caerás a espada, y tu vida será para ti como botín, porque confiaste en mí, dice Jehová.
 
+
 ## Capítulo 40
 
 ### 40:1
@@ -4073,7 +4271,7 @@ Entonces el jefe de los carniceros tomó a Jeremías y le dijo: “Así ha habla
 
 ### 40:3
 
-Y el Señor hizo conforme había hablado, porque habéis pecado contra Jehová y no habéis escuchado su voz; por tanto, ha sucedido esto.
+Y el Señor hizo conforme había hablado, porque han pecado contra Jehová y no han escuchado su voz; por tanto, ha sucedido esto.
 
 ### 40:4
 
@@ -4097,11 +4295,11 @@ Y vinieron a Gedalía el escriba, Yishmael hijo de Netanya, y Jonatán y Shimai,
 
 ### 40:9
 
-Y juro a ellos Gedalía hijo de Achikam hijo de Safán, y a sus hombres, diciendo: No temáis servir a los caldeos; vivid en la tierra y servid al rey de Babilonia, y será bien para vosotros.
+Y juro a ellos Gedalía hijo de Achikam hijo de Safán, y a sus hombres, diciendo: No temáis servir a los caldeos; vivid en la tierra y servid al rey de Babilonia, y será bien para ustedes.
 
 ### 40:10
 
-Y yo estoy sentado en Mizpa para estar delante de los caldeos que vienen a nosotros, y vosotros recolectad vino y aceite y miel, y guardadlos en vasijos, y vivid en vuestras ciudades que habéis tomado.
+Y yo estoy sentado en Mizpa para estar delante de los caldeos que vienen a nosotros, y ustedes recolectad vino y aceite y miel, y guardadlos en vasijos, y vivid en sus ciudades que han tomado.
 
 ### 40:11
 
@@ -4126,6 +4324,7 @@ Y Jonatán hijo de Keret le dijo a Gedalía en secreto en Mizpa: “Voy a matar 
 ### 40:16
 
 Gedalía hijo de Achikam le dijo a Jonatán hijo de Keret: “No hagas eso, porque estás mintiendo acerca de Ishmael.”
+
 
 ## Capítulo 41
 
@@ -4203,6 +4402,12 @@ Por miedo a los caldeos, porque temían a ellos, pues Ismael, hijo de Netanías,
 
 ## Capítulo 42
 
+
+## Capítulo 42
+
+
+## Capítulo 42
+
 ### 42:1
 
 Todos los jefes de los soldados, Johánán, hijo de Carej, y Jezanías, hijo de Hosajías, y todo el pueblo, desde el más pequeño hasta el más grande, se acercaron.
@@ -4237,7 +4442,7 @@ Entonces llamó a Jonatán, hijo de Queret, y a todos los capitanes de los ejér
 
 ### 42:9
 
-Y les dijo: ‘Así ha dicho el Señor, Dios de Israel, al que enviasteis a mí para que intercediera por vosotros ante él:’
+Y les dijo: ‘Así ha dicho el Señor, Dios de Israel, al que enviasteis a mí para que intercediera por ustedes ante él:’
 
 ### 42:10
 
@@ -4245,11 +4450,11 @@ Si habitáis en esta tierra, os edificaré y no os destruiré; os plantaré y no
 
 ### 42:11
 
-No temáis al rey de Babilonia, al que teméis, dice el Señor. No temáis de él, porque yo estoy con vosotros para salvaros y para libraros de su mano.
+No temáis al rey de Babilonia, al que teméis, dice el Señor. No temáis de él, porque yo estoy con ustedes para salvaros y para libraros de su mano.
 
 ### 42:12
 
-Os daré misericordia y os tendré misericordia, y os haré volver a vuestra tierra.
+Os daré misericordia y os tendré misericordia, y os haré volver a su tierra.
 
 ### 42:13
 
@@ -4261,11 +4466,11 @@ Para decir: No, no iremos a Egipto, donde no veremos la guerra, ni oiremos el so
 
 ### 42:15
 
-Ahora pues, escuchad la palabra del Señor, resto de Judá. Así ha dicho el Señor de los ejércitos, Dios de Israel: Si ponéis vuestros rostros para ir a Egipto y entráis para habitar allí,
+Ahora pues, escuchad la palabra del Señor, resto de Judá. Así ha dicho el Señor de los ejércitos, Dios de Israel: Si ponéis sus rostros para ir a Egipto y entráis para habitar allí,
 
 ### 42:16
 
-Y la espada que teméis, allí os alcanzará en Egipto, y el hambre de la cual estáis temerosos, allí os alcanzará en Egipto, y allí moriréis.
+Y la espada que teméis, allí os alcanzará en Egipto, y el hambre de la cual están temerosos, allí os alcanzará en Egipto, y allí moriréis.
 
 ### 42:17
 
@@ -4273,33 +4478,34 @@ Todos los hombres que pusieron sus rostros para ir a Egipto a habitar allí mori
 
 ### 42:18
 
-Porque así ha dicho el Señor de los ejércitos, el Dios de Israel: Como me enfadé con los habitantes de Jerusalén, así me enfadaré con vosotros cuando entréis en Egipto, y seréis maldición, desolación, maldición, escarnio, y no veréis más este lugar.
+Porque así ha dicho el Señor de los ejércitos, el Dios de Israel: Como me enfadé con los habitantes de Jerusalén, así me enfadaré con ustedes cuando entréis en Egipto, y serán maldición, desolación, maldición, escarnio, y no verán más este lugar.
 
 ### 42:19
 
-Así ha hablado el Señor acerca de vosotros, resto de Judá: No vayáis a Egipto, sabréis que os he jurado hoy.
+Así ha hablado el Señor acerca de ustedes, resto de Judá: No vayáis a Egipto, sabréis que os he jurado hoy.
 
 ### 42:20
 
-Porque os he dado en el corazón, porque me enviasteis a Jehová, vuestro Dios, diciendo: Ruego por nosotros a Jehová, nuestro Dios, y todo lo que Jehová, nuestro Dios, dijere, así os lo declararemos y lo haremos.
+Porque os he dado en el corazón, porque me enviasteis a Jehová, su Dios, diciendo: Ruego por nosotros a Jehová, nuestro Dios, y todo lo que Jehová, nuestro Dios, dijere, así os lo declararemos y lo haremos.
 
 ### 42:21
 
-Y os he declarado hoy, y no habéis escuchado la voz de Jehová, vuestro Dios, ni todo lo que os envié a vosotros.
+Y os he declarado hoy, y no han escuchado la voz de Jehová, su Dios, ni todo lo que os envié a ustedes.
 
 ### 42:22
 
 Y ahora sabréis que por la espada, por el hambre y por la plaga moriréis en el lugar que deseasteis entrar para habitar allí.
 
+
 ## Capítulo 43
 
 ### 43:1
 
-Y cuando Jeremías hubo hablado a todo el pueblo todas las palabras de Jehová, vuestro Dios, que os había enviado Jehová, vuestro Dios, a vosotros, todas estas palabras.
+Y cuando Jeremías hubo hablado a todo el pueblo todas las palabras de Jehová, su Dios, que os había enviado Jehová, su Dios, a ustedes, todas estas palabras.
 
 ### 43:2
 
-Y dijo Azarías hijo de Hosaja y Jonatán hijo de Queret, y todo el pueblo rebelde, diciendo a Jeremías: Mientes, Jehová, vuestro Dios, no te ha enviado a decir: No entréis a Egipto para habitar allí.
+Y dijo Azarías hijo de Hosaja y Jonatán hijo de Queret, y todo el pueblo rebelde, diciendo a Jeremías: Mientes, Jehová, su Dios, no te ha enviado a decir: No entréis a Egipto para habitar allí.
 
 ### 43:3
 
@@ -4347,6 +4553,12 @@ Y romperé las estatuas de Bet-Shemesh, que están en la tierra de Egipto, y que
 
 ## Capítulo 44
 
+
+## Capítulo 44
+
+
+## Capítulo 44
+
 ### 44:1
 
 La palabra que vino a Jeremías a todos los judíos que habitaban en la tierra de Egipto, en Migdol, en Tafnes, en Nof y en la tierra de Patros, diciendo:
@@ -4357,11 +4569,11 @@ Así ha dicho Jehová de los ejércitos, el Dios de Israel: Visteis toda la mald
 
 ### 44:3
 
-Por la maldad que hicieron para enojarme, para ir a quemar incienso a otros dioses que no conocían, ni vosotros ni vuestros padres.
+Por la maldad que hicieron para enojarme, para ir a quemar incienso a otros dioses que no conocían, ni ustedes ni sus padres.
 
 ### 44:4
 
-Y envié a vosotros a todos mis siervos los profetas, levantándolos y enviándolos, diciendo: No hagáis esta cosa abominable que aborrezco.
+Y envié a ustedes a todos mis siervos los profetas, levantándolos y enviándolos, diciendo: No hagan esta cosa abominable que aborrezco.
 
 ### 44:5
 
@@ -4373,23 +4585,23 @@ Y se enojó mi ira y ardí contra las ciudades de Judá y contra las calles de J
 
 ### 44:7
 
-Y ahora dice Jehová, el Dios de los ejércitos, el Dios de Israel: ¿Por qué hacéis un mal grande a vuestras almas para cortar a vosotros hombre y mujer, niño y lactante, de la tierra de Judá, para no dejaros una simiente?
+Y ahora dice Jehová, el Dios de los ejércitos, el Dios de Israel: ¿Por qué hacéis un mal grande a sus almas para cortar a ustedes hombre y mujer, niño y lactante, de la tierra de Judá, para no dejaros una simiente?
 
 ### 44:8
 
-Para enojarme con las obras de vuestras manos, para quemar incienso a dioses extranjeros en la tierra de Egipto, donde venís a habitar, para cortaros y para que seáis maldición y escarnio entre todas las gentes de la tierra.
+Para enojarme con las obras de sus manos, para quemar incienso a dioses extranjeros en la tierra de Egipto, donde venís a habitar, para cortaros y para que seáis maldición y escarnio entre todas las gentes de la tierra.
 
 ### 44:9
 
-¿Habéis olvidado las malas obras de vuestros padres y las malas obras de los reyes de Judá y las malas obras de sus mujeres, y vuestras malas obras y las malas obras de vuestras mujeres, que hicieron en la tierra de Judá y en las calles de Jerusalén?
+¿han olvidado las malas obras de sus padres y las malas obras de los reyes de Judá y las malas obras de sus mujeres, y sus malas obras y las malas obras de sus mujeres, que hicieron en la tierra de Judá y en las calles de Jerusalén?
 
 ### 44:10
 
-No se han humillado hasta este día, ni temieron, ni anduvieron en mi ley y en mis estatutos que puse delante de vosotros y delante de vuestros padres.
+No se han humillado hasta este día, ni temieron, ni anduvieron en mi ley y en mis estatutos que puse delante de ustedes y delante de sus padres.
 
 ### 44:11
 
-Por tanto, dice Jehová, el Dios de los ejércitos, el Dios de Israel: He aquí que pongo mi rostro sobre vosotros para mal, y para cortar a toda Judá.
+Por tanto, dice Jehová, el Dios de los ejércitos, el Dios de Israel: He aquí que pongo mi rostro sobre ustedes para mal, y para cortar a toda Judá.
 
 ### 44:12
 
@@ -4429,15 +4641,15 @@ Y respondió Jeremías a todo el pueblo, a los hombres y a las mujeres y a todo 
 
 ### 44:21
 
-¿No es cierto que el incienso que quemasteis en las ciudades de Judá y en las calles de Jerusalén, vosotros y vuestros padres, vuestros reyes y vuestros príncipes y el pueblo de la tierra, Jehová lo recordó y subió sobre su corazón?
+¿No es cierto que el incienso que quemasteis en las ciudades de Judá y en las calles de Jerusalén, ustedes y sus padres, sus reyes y sus príncipes y el pueblo de la tierra, Jehová lo recordó y subió sobre su corazón?
 
 ### 44:22
 
-Y Jehová no pudo más soportar la maldad de vuestros actos, por las abominaciones que hicisteis, y vuestra tierra se convirtió en desolación y en desolación y en maldición, sin habitante como hoy.
+Y Jehová no pudo más soportar la maldad de sus actos, por las abominaciones que hicisteis, y su tierra se convirtió en desolación y en desolación y en maldición, sin habitante como hoy.
 
 ### 44:23
 
-Porque habéis quemado incienso y habéis pecado contra Jehová, y no habéis escuchado la voz de Jehová ni su ley ni sus estatutos ni sus testimonios, y no habéis andado en ellos; por eso os ha llamado la maldad que hoy estáis padeciendo.
+Porque han quemado incienso y han pecado contra Jehová, y no han escuchado la voz de Jehová ni su ley ni sus estatutos ni sus testimonios, y no han andado en ellos; por eso os ha llamado la maldad que hoy están padeciendo.
 
 ### 44:24
 
@@ -4445,7 +4657,7 @@ Y respondió Jeremías a todo el pueblo y a todas las mujeres: Oíd la palabra d
 
 ### 44:25
 
-Así ha dicho Jehovas de los ejércitos, el Dios de Israel, diciendo: Vosotros y vuestras mujeres decís con vuestros labios y con vuestras manos: Haremos lo que hemos prometido, que hemos prometido para quemar incienso a la reina de los cielos y derramar libaciones a ella. Confirmaréis vuestros votos y cumpliréis vuestros votos.
+Así ha dicho Jehovas de los ejércitos, el Dios de Israel, diciendo: ustedes y sus mujeres decís con sus labios y con sus manos: Haremos lo que hemos prometido, que hemos prometido para quemar incienso a la reina de los cielos y derramar libaciones a ella. Confirmaréis sus votos y cumpliréis sus votos.
 
 ### 44:26
 
@@ -4461,11 +4673,12 @@ Y los que escapen de la espada volverán de tierra de Egipto a tierra de Judá e
 
 ### 44:29
 
-Y esto es para vosotros una señal, dice el SEÑOR: Pues yo estoy guardando sobre vosotros este lugar para el mal, para que sepáis que mis palabras se levantarán contra vosotros para el mal.
+Y esto es para ustedes una señal, dice el SEÑOR: Pues yo estoy guardando sobre ustedes este lugar para el mal, para que sepáis que mis palabras se levantarán contra ustedes para el mal.
 
 ### 44:30
 
 Así ha dicho el SEÑOR: He aquí que entrego a Farao Hophra, rey de Egipto, en manos de sus enemigos y en manos de los que buscan su vida, como entregué a Zedequías, rey de Judá, en manos de Nabucodonosor, rey de Babilonia, su enemigo y el que buscaba su vida.
+
 
 ## Capítulo 45
 
@@ -4488,6 +4701,7 @@ Así le dirás: Así ha dicho el SEÑOR: He aquí que yo, que edifico, destruir�
 ### 45:5
 
 Y tú buscas para ti cosas grandes, no busques; porque he aquí que traigo mal sobre toda carne, dice el SEÑOR; y te entregaré tu vida por despojo en todos los lugares a donde vayas.
+
 
 ## Capítulo 46
 
@@ -4605,6 +4819,12 @@ Tú, no temas, siervo mío Jacob, dice el Señor, porque contigo estoy, para que
 
 ## Capítulo 47
 
+
+## Capítulo 47
+
+
+## Capítulo 47
+
 ### 47:1
 
 Que la palabra del Señor vino a Jeremías el profeta contra los filisteos antes que Faraón golpeara a Azot.
@@ -4632,6 +4852,12 @@ Ha llegado la calvicie a Gaza, Ascalón está avergonzada, los sobrevivientes de
 ### 47:7
 
 ¿Cómo podrás estar tranquila, cuando el Señor ha dado órdenes contra ti, a Ascalón y al litoral del mar, allí será tu destino.
+
+## Capítulo 48
+
+
+## Capítulo 48
+
 
 ## Capítulo 48
 
@@ -4673,7 +4899,7 @@ Pon una señal para Moab, porque será evacuada, y sus ciudades estarán desiert
 
 ### 48:10
 
-Maldito el que haga la obra de Jehová engañosamente, y maldito el que retenga su espada del sangre.
+Maldito el que haga la obra de Jehová engañosamente, y maldito el que retenga su espada de la sangre.
 
 ### 48:11
 
@@ -4825,6 +5051,12 @@ Pero yo haré volver el cautiverio de Moab al fin de los días, dice el SEÑOR. 
 
 ## Capítulo 49
 
+
+## Capítulo 49
+
+
+## Capítulo 49
+
 ### 49:1
 
 Para los hijos de Amón, así dice el SEÑOR: ¿No tienen hijos los israelitas, o no tienen herederos? ¿Por qué, pues, ha heredado su rey a Gad y su pueblo en sus ciudades?
@@ -4843,7 +5075,7 @@ Gime, Hesbón, porque ha sido destruida Ai; gritan las hijas de Rabba, visten sa
 
 ### 49:5
 
-He aquí que traigo sobre ti el terror, dice el SEÑOR, el Dios de los ejércitos, de todos tus alrededores, y seréis dispersados cada uno delante de mí, y no habrá quien los recogiere.
+He aquí que traigo sobre ti el terror, dice el SEÑOR, el Dios de los ejércitos, de todos tus alrededores, y serán dispersados cada uno delante de mí, y no habrá quien los recogiere.
 
 ### 49:6
 
@@ -4980,6 +5212,12 @@ Y pondré mi trono en Elam, y haré desaparecer de allí rey y príncipes, dice 
 ### 49:39
 
 Y será en los días postreros que volveré a la casa de Elam, dice Jehová.
+
+## Capítulo 50
+
+
+## Capítulo 50
+
 
 ## Capítulo 50
 
@@ -5169,6 +5407,12 @@ Por el estruendo de Babilonia se estremece la tierra, y se oye un grito en las n
 
 ## Capítulo 51
 
+
+## Capítulo 51
+
+
+## Capítulo 51
+
 ### 51:1
 
 Así dice el Señor: He aquí que yo levanto contra Babilonia y contra los habitantes de Leb Kamai un espíritu destructor.
@@ -5263,7 +5507,7 @@ Y te destruiré a ti en medio del pastor y de su rebaño, y te destruiré a ti e
 
 ### 51:24
 
-Y pagaré a Babilonia y a todos los que habitan en la tierra de los caldeos todo el mal que hicieron en Sión a vuestros ojos, dice Jehová.
+Y pagaré a Babilonia y a todos los que habitan en la tierra de los caldeos todo el mal que hicieron en Sión a sus ojos, dice Jehová.
 
 ### 51:25
 
@@ -5271,7 +5515,7 @@ He aquí que a ti, oh monte de destrucción, dice Jehová, monte que destruye to
 
 ### 51:26
 
-Y no tomarán de ti piedra para esquina ni piedra para fundamentos, porque serás desolación perpetua, dice Jehová.
+Y no tomarán de ti piedra de esquina ni piedra de fundamentos, porque serás desolación perpetua, dice Jehová.
 
 ### 51:27
 
@@ -5367,7 +5611,7 @@ También Babilonia caerá, y los muertos de Israel caerán en ella; también Bab
 
 ### 51:50
 
-Huid de la espada, huid, no os detengáis; acordaos de lejos del Señor, y Jerusalén suba a vuestro corazón.
+Huid de la espada, huid, no os detengáis; acordaos de lejos del Señor, y Jerusalén suba a su corazón.
 
 ### 51:51
 
@@ -5424,6 +5668,12 @@ Y cuando hayas terminado de leer este libro, atarás una piedra a él y lo arroj
 ### 51:64
 
 Y dirás: Así se hundirá Babilonia y no se levantará jamás de la calamidad que traigo sobre ella; y se fatigarán. Estas son las palabras de Jeremías.
+
+## Capítulo 52
+
+
+## Capítulo 52
+
 
 ## Capítulo 52
 

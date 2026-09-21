@@ -50,13 +50,17 @@ FAIL when the Spanish:
 - lets AHRC override lemma/morphology
 - inserts theology, titles, or doctrinal capitalization not in the tokens
 - dumps untranslated non-name lemmas as Spanish (Elohím for אלהים → Dios)
-- scholar-dumps or respells locked proper names (Mitsráyim / Jacob /
-  Egipto / José when the packet referent is locked as Mizraim / Yaakov /
-  Yosef in translation/PROPER_NAMES.md)
+- scholar-dumps or Hebraizes locked proper names (Mitsráyim / Yehudá /
+  Yosef when the packet referent is locked as Egipto / Judá / José in
+  translation/PROPER_NAMES.md)
+- replaces a name with an interpretive geographic ID in running text
+  when PROPER_NAMES.md keeps the traditional name (Grecia for Javán)
 - changes number, person, stem force, or participants
 
-PROPER NAMES: Hebraize names only. יהוה → Jehová. Common nouns stay
-Spanish. Génesis done forms are orthography authority.
+PROPER NAMES: conventional Spanish form when one exists
+(translation/PROPER_NAMES.md). יהוה → Jehová. If a rendering would only
+identify the referent, keep the traditional name. Common nouns stay
+Spanish.
 
 TARGET SPANISH: current Latin American (tú / ustedes). Vosotros (hagáis,
 veréis, mataréis, os) is the wrong variety. Hebrew/Greek 2pl including 2fp

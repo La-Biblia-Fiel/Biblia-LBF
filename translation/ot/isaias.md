@@ -5,49 +5,51 @@
 
 ## Capítulo 1
 
+## Capítulo 1
+
 ### 1:1
 
-Visión de Isaías hijo de Amoz, que vio acerca de Judá y Jerusalén en los días de Ozías, Joatam, Acas, y Ezequías, reyes de Judá.
+Visión de Isaías hijo de Amoz, que vio sobre Judá y Jerusalén, en días de Uzías, Jotam, Acaz, Ezequías, reyes de Judá.
 
 ### 1:2
 
-Escuchen cielos y presten atención tierra, porque habla el Señor: ‘Crié hijos y los elevé, pero ellos me desobedecen.’
+Oigan, cielos, y escucha, tierra, porque Jehová habló: Hijos crié y ensalcé, y ellos prevaricaron en mí.
 
 ### 1:3
 
-El toro conoce a su dueño y el burro a la jaula de su amo, pero Israel no conoce, mi pueblo no reflexiona.
+Conoció el buey a su dueño, y el asno el pesebre de sus señores; Israel no conoció, mi pueblo no entendió.
 
 ### 1:4
 
-Ay, pueblo de pecadores, gente cargada de iniquidad, descendencia de malhechores, hijos que corrompen. Han abandonado al Señor, despreciado al Santo de Israel, se han vuelto atrás.
+¡Ay, nación pecadora, pueblo pesado de iniquidad, simiente de malhechores, hijos corruptores! Dejaron a Jehová, despreciaron al Santo de Israel, se extrañaron atrás.
 
 ### 1:5
 
-¿Para qué te fatigas aún más, te multiplicas en la rebelión? Cada cabeza herida y cada corazón doliente.
+¿Sobre qué serán heridos aún, que añadirán desvío? Toda cabeza para enfermedad, y todo corazón doliente.
 
 ### 1:6
 
-Desde la planta del pie hasta la cabeza, no hay en ti herida alguna que no tenga llagas, raspaduras y golpes frescos; no se han vendado ni curado, ni se han ungido con aceite.
+Desde la planta del pie y hasta la cabeza no hay en él sanidad: herida y cardenal y llaga fresca; no fueron exprimidas, y no fueron vendadas, y no fue ablandada con el aceite.
 
 ### 1:7
 
-Tu tierra está desolada, tus ciudades están en llamas, tu tierra, frente a ti, está siendo devorada por extraños, y está desolada como si fuera un desastre de extraños.
+Su tierra de ustedes, desolación; sus ciudades de ustedes, quemadas de fuego; su suelo de ustedes, delante de ustedes extraños lo comen, y desolación como trastornamiento de extraños.
 
 ### 1:8
 
-Pero queda en Sion una hija como una choza en un viñedo, como una cabaña en un campo de almendros, como una ciudad sitiada.
+Y quedó la hija de Sión como enramada en viña, como albergue en pepinar, como ciudad sitiada.
 
 ### 1:9
 
-Si no fuera por el Señor de los ejércitos, nos quedaría un remanente muy pequeño. Seríamos como Sodoma, seríamos como Gomorra.
+Si no Jehová de ejércitos nos hubiera dejado sobreviviente como poco, como Sodoma habríamos sido, a Amoré nos habríamos asemejado.
 
 ### 1:10
 
-Escuchen la palabra del Señor, príncipes de Sodoma; presten atención a la ley de nuestro Dios, pueblo de Gomorra.
+Oigan la palabra de Jehová, jefes de Sodoma; escuchen la torá de nuestro Dios, pueblo de Amoré.
 
 ### 1:11
 
-¿Para qué me traéis en multitud vuestros sacrificios? Dice el Señor: ‘He tenido bastante de los holocaustos de carneros y de la grasa de bueyes; no me agrada la sangre de toros, de carneros y de cabritos.’
+¿Para qué a mí muchedumbre de sus sacrificios de ustedes? dice Jehová. Harté de holocaustos de carneros y sebo de cebados; y sangre de novillos y corderos y machos cabríos no deseé.
 
 ### 1:12
 
@@ -55,11 +57,11 @@ Porque cuando vengan a verme, ¿quién me ha pedido esto de vuestra mano? Pisan 
 
 ### 1:13
 
-No sigan trayendo en multitud holocaustos inútiles; incienso abominable me es. Luna nueva y sábado, convocatoria de reunión; no puedo soportar la maldad y la asamblea.
+No añadan traer ofrenda de vanidad; incienso, abominación es ella a mí; luna nueva y shabat, llamar convocación; no podré iniquidad y asamblea.
 
 ### 1:14
 
-Vuestras lunes y vuestras fiestas, odio las tiene mi alma; han sido para mí un fastidio. Me canso de llevarlas.
+Sus lunas nuevas de ustedes y sus tiempos señalados de ustedes aborreció mi alma; fueron sobre mí para carga; me cansé de llevar.
 
 ### 1:15
 
@@ -67,55 +69,55 @@ Y cuando extendan las manos, yo volveré los ojos de mí a vosotros; aunque mult
 
 ### 1:16
 
-Lavad, purificad, apartad el mal de vuestros actos de delante de mis ojos; dejad de hacer el mal.
+Lávense, límpiense, aparten el mal de sus hechos de ustedes de delante de mis ojos; cesen de hacer mal.
 
 ### 1:17
 
-Aprendan a hacer el bien, busquen la justicia, alienten al afligido, defiendan al huérfano, hagan justicia a la viuda.
+Aprendan a hacer bien, busquen juicio, enderecen al oprimido, juzguen al huérfano, aboguen por la viuda.
 
 ### 1:18
 
-Vengan, pues, y discutamos, dice el Señor: Si vuestros pecados fueren como la escarcha, los haré blanco; si fueren rojos como el carmesí, serán como la lana.
+Vengan ahora, y disputemos, dice Jehová. Si fueren sus pecados de ustedes como escarlatas, como nieve emblanquecerán; si enrojecieren como el gusano, como lana serán.
 
 ### 1:19
 
-Si se arrepienten y obedecen, comerán la buena tierra.
+Si quisieren y oyeren, lo bueno de la tierra comerán.
 
 ### 1:20
 
-Y si se rebelan y se oponen, comerán la espada, porque la boca del Señor lo ha dicho.
+Y si rehusaren y se rebelaren, a espada serán comidos, porque la boca de Jehová habló.
 
 ### 1:21
 
-¡Ay de la ciudad fiel! ¿Cómo se ha convertido en una prostituta? Fue llena de justicia; la noche y el día permanecían en ella; y ahora los asesinos andan por ella.
+¿Cómo se hizo ramera la ciudad fiel? Llena de juicio, justicia alojaba en ella, y ahora homicidas.
 
 ### 1:22
 
-Vuestro dinero se ha convertido en argollas, y vuestro vino se ha derramado en las calles.
+Tu plata se hizo escorias; tu bebida mezclada con las aguas.
 
 ### 1:23
 
-Vuestras autoridades son rebeldes, compañeros de ladrones; todos aman el soborno y persiguen el soborno; no juzgan al huérfano, y el pleito de la viuda no llega a ellos.
+Tus príncipes rebeldes y compañeros de ladrones; todo él amante de soborno y perseguidor de recompensas; al huérfano no juzgan, y el pleito de la viuda no viene a ellos.
 
 ### 1:24
 
-Por eso dice el Señor, el Dios de los ejércitos, el poderoso de Israel: ¡Ay de vosotros! Os dejaré en vuestros enemigos y os entregaré en manos de vuestros adversarios.
+Por tanto, dicho del señor, Jehová de ejércitos, Fuerte de Israel: ¡Ay, me consolaré de mis adversarios, y me vengaré de mis enemigos!
 
 ### 1:25
 
-Y extenderé mi mano contra ti, y amontonaré tus piedras en un pozo, y encerraré a todos tus hilos.
+Y volveré mi mano sobre ti, y refinaré como potasa tus escorias, y quitaré todo tu estaño.
 
 ### 1:26
 
-Y extenderé a tus jueces al principio, y a tus consejeros al comienzo; después te llamarán ciudad de justicia, ciudad fiel.
+Y volveré tus jueces como al principio, y tus consejeros como al comienzo; después de así será llamado a ti Ciudad de la justicia, villa fiel.
 
 ### 1:27
 
-Zion será redimida en juicio, y los que la redimen en justicia.
+Sión en juicio será redimida, y sus vueltos en justicia.
 
 ### 1:28
 
-Y el fruto de los pecadores y de los que transgreden juntos, y los que abandonan al SEÑOR perecerán.
+Y quebrantamiento de prevaricadores y pecadores a una, y los que dejan a Jehová se acabarán.
 
 ### 1:29
 
@@ -123,57 +125,58 @@ Porque se avergonzarán de los cedros que codiciaste, y buscarán en los jardine
 
 ### 1:30
 
-Porque seréis como un roble cuyo fruto se marchita, y como un jardín sin agua.
+Porque serán como encina marchitándose su hoja, y como huerto que aguas no hay a ella.
 
 ### 1:31
 
-Y será el tesoro para la cosecha, y su trabajo para la simiente; y los dos juntos se quemarán, y no habrá quien apague.
+Y será el fuerte para estopa, y su hacedor para chispa, y arderán ambos a una, y no hay quien apague.
+
 
 ## Capítulo 2
 
 ### 2:1
 
-El mensaje que vio Isaías hijo de Amoz acerca de Judá y Jerusalén.
+La palabra que vio Isaías hijo de Amoz sobre Judá y Jerusalén.
 
 ### 2:2
 
-Y será en los últimos días que el monte de la casa del SEÑOR será establecido en lo más alto de los montes, y será exaltado sobre los collados, y fluirán a él todas las naciones.
+Y será en lo posterior de los días: establecido será el monte de la casa de Jehová en cabeza de los montes, y será alzado de los collados, y fluirán a él todas las naciones.
 
 ### 2:3
 
-Y vendrán muchas gentes y dirán: Venid, y vamos a la montaña del SEÑOR, a la casa de Dios de Jacob, y él nos enseñará sus caminos, y andaremos en sus senderos; porque de Sion saldrá la ley, y la palabra del SEÑOR desde Jerusalén.
+Y andarán pueblos muchos, y dirán: Vengan, y subamos al monte de Jehová, a la casa del Dios de Jacob, y nos enseñará de sus caminos, y andemos en sus sendas; porque de Sión saldrá torá, y palabra de Jehová de Jerusalén.
 
 ### 2:4
 
-Y juzgará entre las naciones, y reprenderá a muchos pueblos; y convertirán sus espadas en arados, y sus lanzas en podaderas; no levantará pueblo contra pueblo espada, ni se enseñarán más la guerra.
+Y juzgará entre las naciones, y reprenderá a pueblos muchos; y machacarán sus espadas a azadones, y sus lanzas a podaderas; no alzará nación a nación espada, y no aprenderán aún guerra.
 
 ### 2:5
 
-Casa de Jacob, venid, y andemos en la luz del SEÑOR.
+Casa de Jacob, vengan, y andemos en la luz de Jehová.
 
 ### 2:6
 
-Porque tu pueblo, oh casa de Jacob, ha sido abandonado; están llenos de orientales, y ahora son pastores de naciones extranjeras; y tu tierra está llena de hijos de extraños.
+Porque abandonaste a tu pueblo, casa de Jacob, porque se llenaron desde oriente, y agoreros como los filisteos, y en hijos de extraños aplauden.
 
 ### 2:7
 
-Y tu tierra está llena de plata y oro, y no hay límite a tus tesoros; y tu tierra está llena de caballos, y no hay límite a tus carros.
+Y se llenó su tierra de plata y oro, y no hay fin a sus tesoros; y se llenó su tierra de caballos, y no hay fin a sus carros.
 
 ### 2:8
 
-Y tu tierra está llena de ídolos, a los cuales adoran por obra de mis manos; y a lo que hice con mis dedos.
+Y se llenó su tierra de ídolos; a la obra de sus manos se inclinan, a lo que hicieron sus dedos.
 
 ### 2:9
 
-Y se humilla el hombre, y se abaja el hombre; y no los exaltes.
+Y se encorvó el hombre, y se abatió el varón; y no alces a ellos.
 
 ### 2:10
 
-Ven en la roca, y esconde en el polvo, por miedo al SEÑOR, y por la gloria de su majestad.
+Entra en la peña, y escóndete en el polvo, de faces de pavor de Jehová y de esplendor de su altivez.
 
 ### 2:11
 
-Los ojos de la altivez del hombre se humillarán, y el hombre abajado será exaltado; y el SEÑOR será exaltado solamente en aquel día.
+Ojos de altivez de hombre serán abatidos, y se encorvará la altura de varones, y será ensalzado Jehová solo en el día aquel.
 
 ### 2:12
 
@@ -181,57 +184,58 @@ Porque el día del SEÑOR de los ejércitos será sobre todo lo alto y sobre tod
 
 ### 2:13
 
-Y sobre todos los cedros de Lebán, altos y exaltados, y sobre todos los cipreses de Basán.
+y sobre todos los cedros del Líbano, los altos y los alzados, y sobre todas las encinas del Bashán;
 
 ### 2:14
 
-Y sobre todos los montes altos, y sobre todos los collados exaltados.
+y sobre todos los montes los altos, y sobre todos los collados los alzados;
 
 ### 2:15
 
-Y sobre todos los muros altos, y sobre todos los fortines de piedra.
+y sobre toda torre alta, y sobre todo muro fortificado;
 
 ### 2:16
 
-Y sobre todos los navíos de Tarsis, y sobre todos los barcos preciosos.
+y sobre todas las naves de Tarsis, y sobre todas las vistas de deseo.
 
 ### 2:17
 
-Y se humillará la altivez del hombre, y el hombre abajado será exaltado; y el SEÑOR será exaltado solamente en aquel día.
+Y se encorvará la altivez del hombre, y se abatirá la altura de varones, y será ensalzado Jehová solo en el día aquel.
 
 ### 2:18
 
-Y todos los ídolos serán completamente cambiados.
+Y los ídolos por completo pasarán.
 
 ### 2:19
 
-Y entrarán en las cuevas de las rocas y en los agujeros de la tierra, por el temor del SEÑOR y por la gloria de su majestad, cuando se levante para castigar la tierra.
+Y entrarán en cuevas de peñas y en cavernas de polvo, de faces de pavor de Jehová y de esplendor de su altivez, en su levantarse para aterrar la tierra.
 
 ### 2:20
 
-En aquel día el hombre arrojará sus ídolos de plata y sus ídolos de oro, que hicieron para adorarlos, para las ratas y para las aves del cielo.
+En el día aquel lanzará el hombre los ídolos de su plata y los ídolos de su oro, que le hicieron para inclinarse, a los topos y a los murciélagos,
 
 ### 2:21
 
-Entrarán en las grietas de las rocas y en los agujeros de las rocas, por el temor del SEÑOR y por la gloria de su majestad, cuando se levante para castigar la tierra.
+para entrar en hendiduras de las peñas y en grietas de las rocas, de faces de pavor de Jehová y de esplendor de su altivez, en su levantarse para aterrar la tierra.
 
 ### 2:22
 
-Dejad a los hombres, pues tienen el aliento en sus narices; ¿qué son ellos?
+Cesen ustedes del hombre, que aliento en su nariz; porque ¿en qué es contado él?
+
 
 ## Capítulo 3
 
 ### 3:1
 
-Porque he aquí que el Señor, el Dios de los ejércitos, quita de Jerusalén y de Judá apoyo y apoyo, todo apoyo de pan y todo apoyo de agua.
+Porque he aquí el señor, Jehová de ejércitos, aparta de Jerusalén y de Judá apoyo y bastón, todo apoyo de pan y todo apoyo de aguas:
 
 ### 3:2
 
-El valiente y el hombre de guerra, el juez y el profeta, el adivino y el anciano.
+valiente y varón de guerra, juez y profeta y adivino y anciano,
 
 ### 3:3
 
-El gobernante de cincuenta y el noble, el consejero y el hábil artesano, el entendido en charlas.
+jefe de cincuenta y alzado de faces, y consejero y sabio de artífices y entendido de encanto.
 
 ### 3:4
 
@@ -239,11 +243,11 @@ Y pondré jóvenes como sus gobernantes, y los insolentes dominarán sobre ellos
 
 ### 3:5
 
-Y el pueblo se apoyará, cada uno en su prójimo, y cada uno en su hermano, diciendo: El que es joven será el gobernante del que es viejo, y el que es vil será el gobernante del que es noble.
+Y será oprimido el pueblo, varón en varón y varón en su prójimo; se ensoberbecerán el muchacho en el anciano, y el vil en el honrado.
 
 ### 3:6
 
-Porque el hombre tomará a su hermano de la casa de su padre, diciendo: Tú tienes vestido, y dirás: Dádmelo a prestar; y será el que sea derribado por ti.
+Cuando asirá varón en su hermano, casa de su padre: Manto a ti, jefe serás a nosotros, y este tropiezo bajo tu mano.
 
 ### 3:7
 
@@ -255,15 +259,15 @@ Porque Jerusalén tropieza y Judá cae, porque su lengua y sus acciones son haci
 
 ### 3:9
 
-La corta de sus rostros ha respondido contra ellos, y sus pecados han dado a conocer, no han ocultado. ¡Ay de su alma, porque han hecho mal a ellos!
+El reconocimiento de sus faces testificó en ellos, y su pecado como Sodoma anunciaron, no encubrieron. ¡Ay a su alma, porque retribuyeron a ellos mal!
 
 ### 3:10
 
-Decid al justo que es bueno, porque el fruto de sus acciones comerá.
+Digan: Justo, porque bueno; porque fruto de sus hechos comerán.
 
 ### 3:11
 
-¡Ay del malvado, porque el fruto de sus manos le será hecho!
+¡Ay al malvado, mal, porque retribución de sus manos será hecha a él!
 
 ### 3:12
 
@@ -271,11 +275,11 @@ Mi pueblo es oprimido por sus gobernantes y mujeres dominan sobre ellos. Mi pueb
 
 ### 3:13
 
-El Señor se establece para el juicio y se presenta para juzgar a las naciones.
+Está puesto para contender Jehová, y está de pie para juzgar pueblos.
 
 ### 3:14
 
-El Señor vendrá en juicio con los ancianos de su pueblo y sus príncipes, y ustedes han saqueado el viñedo, el robo del pobre en sus casas.
+Jehová en juicio vendrá con ancianos de su pueblo y sus príncipes: Y ustedes consumieron la viña; despojo del afligido en sus casas de ustedes.
 
 ### 3:15
 
@@ -283,7 +287,7 @@ Por vosotros oprimiréis al pueblo, y las caras de los pobres hundiréis. Palabr
 
 ### 3:16
 
-Y dijo el Señor: Porque las hijas de Sión se han ensoberbecido y andan con paso altivo y engañan con los ojos, andarán y tocarán la cítara, y en sus pies tropezarán.
+Y dijo Jehová: Por cuanto se altivaron hijas de Sión, y anduvieron cuello extendido y guiñando ojos, andando y menéandose andan, y con sus pies tintinean,
 
 ### 3:17
 
@@ -295,19 +299,19 @@ En aquel día hará el Señor que se quite la gloria de las mujeres que se adorn
 
 ### 3:19
 
-Las que se embellecen, las que dan canciones y las que se pavonean.
+los pendientes y los brazaletes y los velos,
 
 ### 3:20
 
-Los adornos, los zapatos, los cinturones, las casas de placer y los secretos.
+los turbantes y las cadenillas y las fajas, y las casas del alma y los amuletos,
 
 ### 3:21
 
-Los sellos y las joyas de la nariz.
+los anillos y los zarcillos de la nariz,
 
 ### 3:22
 
-Los vestidos, las capas, los mantos y los pañuelos.
+los vestidos de fiesta y los mantos y las tocas y las bolsas,
 
 ### 3:23
 
@@ -315,29 +319,30 @@ Los cinturones, los tapetes, las capuchas y los velos.
 
 ### 3:24
 
-Y en lugar de perfume habrá hedor, y en lugar de cinturón, un cordón, y en lugar de vestido bordado, un saco, y en lugar de cinta, un cuello de saco, porque habrá hambre.
+Y será: en lugar de balsamo, podredumbre habrá, y en lugar de cinto, soga, y en lugar de obra de peinado, calvicie, y en lugar de manto de gala, ceñidor de saco, porque en lugar de hermosura.
 
 ### 3:25
 
-Sus cuerpos caerán a espada, y su fuerza en la guerra.
+Tus varones a espada caerán, y tu valentía en la guerra.
 
 ### 3:26
 
-Y llorarán y se lamentarán los que abren, y la tierra será su sepultura.
+Y gemirán y se enlutarán sus puertas, y vaciada a tierra se sentará.
+
 
 ## Capítulo 4
 
 ### 4:1
 
-Y tomarán a siete mujeres una sola persona en aquel día, diciendo: Comeremos nuestro pan y vestiremos nuestras ropas, pero llamaremos al nombre del Señor para que nos recoja y nos libere de la vergüenza.
+Y asirán siete mujeres en varón uno en el día aquel, diciendo: Nuestro pan comeremos, y nuestro manto vestiremos; solamente sea llamado tu nombre sobre nosotras; recoge nuestra afrenta.
 
 ### 4:2
 
-En aquel día será el Señor la gloria y la hermosura, y el fruto de la tierra será la gloria y la hermosura para la salvación de Israel.
+En el día aquel será el germen de Jehová para hermosura y para gloria, y fruto de la tierra para orgullo y para ornato a la escapada de Israel.
 
 ### 4:3
 
-Y será el que quede en Sión y el que sobreviva en Jerusalén, santo; y se le dirá: El que está en Sión y en Jerusalén, está escrito para la vida.
+Y será el restante en Sión y el dejado en Jerusalén, santo será dicho a él, todo el escrito a las vidas en Jerusalén,
 
 ### 4:4
 
@@ -345,7 +350,7 @@ Si el Señor lava la sangre de las hijas de Sión y las manchas de Jerusalén, l
 
 ### 4:5
 
-Y el Señor creará sobre toda la morada del monte de Sión y sobre sus reuniones un velo de día, y humo, y resplandor de fuego por la noche; porque sobre toda gloria habrá una cubierta.
+Y creará Jehová sobre todo asiento del monte de Sión y sobre su convocación nube de día y humo, y resplandor de fuego de llama de noche, porque sobre toda gloria, dosel.
 
 ### 4:6
 
@@ -353,9 +358,12 @@ Y será un refugio de sombra de día contra el calor, y un refugio y un escondit
 
 ## Capítulo 5
 
+
+## Capítulo 5
+
 ### 5:1
 
-Cantaré al mi amigo una canción acerca de su viña: Mi amigo tenía una viña en un valle fértil.
+Cantaré ahora a mi amado canto de mi amado a su viña. Viña hubo a mi amado en cuerno hijo de aceite.
 
 ### 5:2
 
@@ -363,15 +371,15 @@ Y la cultivó, y la cercó, y plantó en ella cepa de vid, y edificó una torre 
 
 ### 5:3
 
-Y ahora, habitantes de Jerusalén y hombres de Judá, juzguen entre mí y mi viña.
+Y ahora, morador de Jerusalén y varón de Judá, juzguen ahora entre mí y entre mi viña.
 
 ### 5:4
 
-¿Qué más podía hacer para mi viña, que no lo hice? ¿Por qué esperaba cosechar uvas, y dio espinas?
+¿Qué hacer aún a mi viña y no hice en ella? ¿Por qué esperé hacer uvas, y ella hizo podridas?
 
 ### 5:5
 
-Y ahora os declaro lo que hago con mi viña: la quitaré de su tapa y la dejaré desierta; la cercaré y la dejaré en ruinas.
+Y ahora haré saber ahora a ustedes lo que yo hago a mi viña: quitar su seto, y será para quemar; romper su muro, y será para pisoteo.
 
 ### 5:6
 
@@ -379,7 +387,7 @@ Y la plantaré en un lugar donde no la cultivarán ni la cercarán, y crecerá z
 
 ### 5:7
 
-Porque el viñedo del Señor de los ejércitos es el pueblo de Israel, y el hombre de Judá es la planta de su deleite; y esperaba juzgar y vería justicia, pero ve clamor.
+Porque viña de Jehová de ejércitos es casa de Israel, y varón de Judá plantío de sus deleites; y esperó juicio, y he aquí derramamiento; a justicia, y he aquí clamor.
 
 ### 5:8
 
@@ -387,11 +395,11 @@ Ay, los que añoran una casa a otra casa, y un campo a otro campo, hasta que no 
 
 ### 5:9
 
-En presencia del Señor de los ejércitos he jurado: No serán casas grandes y hermosas para morar en ellas.
+En mis oídos Jehová de ejércitos: Si no casas muchas para desolación serán, grandes y buenas, de no habitar.
 
 ### 5:10
 
-Porque diez surcos de viña producirán una medida, y un cuarterón de semilla producirá una medida.
+Porque diez yuntas de viña harán bato uno, y simiente de jómer hará efa.
 
 ### 5:11
 
@@ -403,19 +411,19 @@ Por eso habrá arpa y flauta, tambor y flauta de pico, y vino; pero no mirarán 
 
 ### 5:13
 
-Por tanto, mi pueblo se ha perdido por falta de conocimiento. Por eso son afligidos por la hambruna y su gloria por la sed.
+Por tanto fue desterrado mi pueblo de no conocimiento; y su gloria hombres de hambre, y su muchedumbre reseca de sed.
 
 ### 5:14
 
-Por eso ha ampliado su sepulcro y ha abierto su tumba, porque no hay ley. Se hundirá su gloria y su riqueza, y su tumba será su gozo.
+Por tanto ensanchó Sheol su alma, y abrió su boca sin medida; y bajará su esplendor y su muchedumbre y su tumulto y el que se alegra en ella.
 
 ### 5:15
 
-Se humillará el hombre y se abatirá el hombre, y los ojos altivos se abatirán.
+Y se encorvó hombre, y se abatió varón; y ojos de altos serán abatidos.
 
 ### 5:16
 
-El SEÑOR de los ejércitos se glorificará en juicio, y el santo Dios santificaráse en justicia.
+Y se ensalzó Jehová de ejércitos en el juicio, y el Dios el santo se santificó en justicia.
 
 ### 5:17
 
@@ -423,27 +431,27 @@ Pastorearán los corderos como si fueran hombres, y los que habitan en las ruina
 
 ### 5:18
 
-¡Ay de los que arrastran el pecado con cuerdas de mentira, y como con lazos de yugo, pecan!
+¡Ay, los que arrastran la iniquidad con cuerdas de la vanidad, y como coyundas del carro el pecado!
 
 ### 5:19
 
-Los que dicen: “¡Pronto se desvanecerá su obra para que se vea!”, y que dicen: “¡Acércate y acércate para que se sepa la conseja del santo de Israel!”
+Los que dicen: Se apresure, acelere su obra, a fin de que veamos; y se acerque y venga consejo del Santo de Israel, y conozcamos.
 
 ### 5:20
 
-¡Ay de los que llaman al mal bien y al bien mal, a la oscuridad luz y a la luz oscuridad, a la amargura dulzura y a la dulzura amargura!
+¡Ay, los que dicen al mal bueno, y al bueno malo; poniendo tinieblas a luz y luz a tinieblas; poniendo amargo a dulce y dulce a amargo!
 
 ### 5:21
 
-¡Ay de los que son sabios a sus propios ojos y prudentes a su propia vista!
+¡Ay, sabios en sus ojos, y delante de sus faces entendidos!
 
 ### 5:22
 
-¡Ay de los valientes para beber vino y de los hombres de coraje para mezclar licor!
+¡Ay, valientes para beber vino, y varones de potencia para mezclar sidra!
 
 ### 5:23
 
-Los que justifican al malvado por soborno y privan al justo de su derecho.
+Justificadores de malvado por causa de soborno, y justicia de justos quitan de él.
 
 ### 5:24
 
@@ -451,19 +459,19 @@ Por eso, comer cizaña es como lamer fuego y morder brasas, su raíz se volverá
 
 ### 5:25
 
-Por eso se encendió la ira de Jehová contra su pueblo y extendió su mano contra ellos y los golpeó, y los montes temblaron, y sus cadáveres se convirtieron en como estiércol en medio de las calles. A pesar de todo esto, su ira no se apaciguó y su mano aún está extendida.
+Por tanto ardió nariz de Jehová en su pueblo, y extendió su mano sobre él e hiriólo, y temblaron los montes, y fue su cadáver como estiércol en seno de calles. En todo esto no se volvió su nariz, y aún su mano extendida.
 
 ### 5:26
 
-Y levantará una bandera a las naciones lejanas y silbará a ellas desde el extremo de la tierra, y he aquí en un momento vendrá.
+Y alzará enseña a las naciones de lejos, y silbará a él desde extremo de la tierra; y he aquí presto, ligero vendrá.
 
 ### 5:27
 
-No hay cansancio ni caída en él, no duerme ni duerme, ni se abre el cinto de su cintura, ni se rompe el cordón de sus sandalias.
+No hay cansado y no hay tropezante en él; no dormitará y no dormirá; y no se abre ceñidor de sus lomos, y no se rompe correa de sus sandalias.
 
 ### 5:28
 
-Cuyas flechas están afiladas y todas sus arqueras son fuertes. Sus caballos están como la tormenta, y sus ruedas como el viento.
+Cuyas flechas afiladas, y todas sus arcos tensadas; pezuñas de sus caballos como pedernal son contadas, y sus ruedas como torbellino.
 
 ### 5:29
 
@@ -471,21 +479,22 @@ Grita para él como un lobo y rugen como leones, y devora la presa y la arrastra
 
 ### 5:30
 
-Y rugirá sobre él en aquel día como el rugido del mar, y mirará a la tierra y he aquí oscuridad y penumbra, oscuridad y luz apagada en las nubes.
+Y rugirá sobre él en el día aquel como bramido de mar; y mirará a la tierra, y he aquí tinieblas, angustia, y luz se oscureció en sus cielos.
+
 
 ## Capítulo 6
 
 ### 6:1
 
-En el año de la muerte del rey Uzías, vi a Jehová sentado sobre un trono alto y elevado, y sus pies llenaban el templo.
+En año de muerte del rey Uzías, y vi a Adonai sentado sobre trono alto y alzado, y sus faldas llenan el templo.
 
 ### 6:2
 
-Los serafines estaban de pie sobre él, cada uno tenía seis alas: con dos cubría su rostro, con dos cubría sus pies y con dos volaba.
+Serafines de pie por encima de él; seis alas, seis alas a uno: con dos cubre sus faces, y con dos cubre sus pies, y con dos vuela.
 
 ### 6:3
 
-Y uno llamaba a otro y decía: Santo, santo, santo es Jehová de los ejércitos, toda la tierra está llena de su gloria.
+Y clamaba este a este, y decía: Santo, santo, santo, Jehová de ejércitos; llenura de toda la tierra su gloria.
 
 ### 6:4
 
@@ -493,23 +502,23 @@ Y las puertas del templo se movieron al sonido del que llamaba, y el templo se l
 
 ### 6:5
 
-Y yo dije: ¡Ay de mí! Porque estoy destruido, porque soy un hombre de labios impuros y vivo en medio de un pueblo de labios impuros, porque con mis ojos he visto al rey Jehová de los ejércitos.
+Y dije: ¡Ay a mí, porque soy destruido! Porque varón inmundo de labios yo, y en medio de pueblo inmundo de labios yo habito; porque al rey, Jehová de ejércitos, vieron mis ojos.
 
 ### 6:6
 
-Y voló hacia mí uno de los serafines, y en su mano había un instrumento de hierro, y con él tomó carbones del altar.
+Y voló a mí uno de los serafines, y en su mano brasa; con tenazas tomó de sobre el altar.
 
 ### 6:7
 
-Y tocó sobre mis labios, y dijo: He aquí que este carbón ha tocado tus labios, y tu pecado se quitará y tu maldad será perdonada.
+Y tocó sobre mi boca, y dijo: He aquí tocó esto sobre tus labios; y se apartó tu iniquidad, y tu pecado será expiado.
 
 ### 6:8
 
-Y oí la voz del Señor que decía: ¿A quién enviaré y quién irá por nosotros? Y yo dije: Aquí estoy, envíame.
+Y oí voz de Adonai diciendo: ¿A quién enviaré, y quién irá por nosotros? Y dije: Heme aquí, envíame.
 
 ### 6:9
 
-Y me dijo: Ve y di al pueblo: Escuchad con oídos y no entendáis, y ved con ojos y no veáis.
+Y dijo: Anda, y dirás a este pueblo: Oigan oyendo, y no entiendan; y vean viendo, y no conozcan.
 
 ### 6:10
 
@@ -525,21 +534,22 @@ Y separó Jehová a los hombres, y quedaron muchas ciudades desiertas.
 
 ### 6:13
 
-Y aún habrá un año de cosecha, y vendrá la higuera y el higo silvestre, y será como almez y como roble, cuyo tronco quedará en su tierra.
+Y aún en ella décima, y volverá y será para quemar, como la terebinto y como la encina que en tala hay cepa en ellas: simiente de santidad su cepa.
+
 
 ## Capítulo 7
 
 ### 7:1
 
-En los días de Achaz, hijo de Joat, hijo de Ozías, rey de Judá, subió Rezin, rey de Siria, y Pekah, hijo de Remalías, rey de Israel, a Jerusalén para hacer guerra, pero no pudieron.
+Y fue en días de Acaz hijo de Jotam hijo de Uzías, rey de Judá: subió Retsín rey de Aram y Peqaj hijo de Remalyahu rey de Israel a Jerusalén a la guerra sobre ella, y no pudo pelear sobre ella.
 
 ### 7:2
 
-Se les informó a la casa de David que Siria había acampado contra Efraín, y el corazón de ellos y el corazón del pueblo se movió como los árboles del bosque se mueven ante el viento.
+Y fue anunciado a casa de David, diciendo: Descansó Aram sobre Efraín; y se estremeció su corazón y corazón de su pueblo como estremecimiento de árboles de bosque de faces de viento.
 
 ### 7:3
 
-Y Jehová dijo a Isaías: Ve a encontrarte con Achaz, tú y tu hijo Shearjashub, al final del camino del pozo superior, al camino de los lavaderos.
+Y dijo Jehová a Isaías: Sal ahora al encuentro de Acaz, tú y Shear Yashuv tu hijo, al extremo del canal de la alberca la superior, a la calzada de campo de lavador.
 
 ### 7:4
 
@@ -555,7 +565,7 @@ Vamos a hacer que Judá sea nuestro pie, y lo haremos temblar, y lo haremos caer
 
 ### 7:7
 
-Así dice el Señor Jehová: No subirá, ni será.
+Así dijo Adonai Jehová: No se levantará y no será.
 
 ### 7:8
 
@@ -567,15 +577,15 @@ Y la cabeza de Efraín es Samaria, y la cabeza de Samaria es el hijo de Remalía
 
 ### 7:10
 
-Y Jehová añadió a Ahaz, diciendo:
+Y añadió Jehová hablar a Acaz, diciendo:
 
 ### 7:11
 
-Pide un signo a Jehová tu Dios, en lo alto o en lo bajo.
+Pide para ti señal de con Jehová tu Dios; profundiza petición, o alza hacia arriba.
 
 ### 7:12
 
-Y dijo Ahaz: No lo pediré, ni lo pondré a prueba.
+Y dijo Acaz: No pediré, y no tentaré a Jehová.
 
 ### 7:13
 
@@ -587,19 +597,19 @@ Por tanto, el Señor mismo os dará un signo: He aquí la virgen concebirá y da
 
 ### 7:15
 
-Le comerá leche y miel, para que conozca el mal y el bien.
+Cuajada y miel comerá, para su conocer desechar el mal y escoger el bien.
 
 ### 7:16
 
-Porque antes que el niño sepa rechazar el mal y escoger el bien, la tierra que tú aborreces será desechada por causa de los dos reyes.
+Porque antes que sepa el muchacho desechar en el mal y escoger en el bien, será abandonada la tierra que tú aborreces de faces de sus dos reyes.
 
 ### 7:17
 
-Traerá Jehová sobre ti y sobre tu pueblo y sobre la casa de tu padre días que no han venido desde que Efraín se apartó de Judá, con el rey de Asiria.
+Traerá Jehová sobre ti y sobre tu pueblo y sobre casa de tu padre días que no vinieron desde día de apartarse Efraín de sobre Judá: al rey de Asiria.
 
 ### 7:18
 
-Y en aquel día hará Jehová estruendo al zumbón que está en el extremo de los ríos de Egipto, y al abejorro que está en la tierra de Asiria.
+Y será en el día aquel: silbará Jehová a la mosca que en extremo de ríos de Egipto, y a la abeja que en tierra de Asiria.
 
 ### 7:19
 
@@ -615,7 +625,7 @@ Y será en aquel día que cada uno llevará una vaca de un año y dos ovejas.
 
 ### 7:22
 
-Y será que de la abundancia de leche comerá grasa, porque grasa y miel comerá todo el que quede en medio de la tierra.
+Y será de muchedumbre de hacer leche, comerá cuajada; porque cuajada y miel comerá todo el restante en seno de la tierra.
 
 ### 7:23
 
@@ -623,33 +633,34 @@ Y será en aquel día que todo lugar donde haya mil viñas por mil piezas de pla
 
 ### 7:24
 
-Con flechas y con arco vendrá allá, porque espinos y zarzas serán toda la tierra.
+Con las flechas y con el arco vendrá allá, porque espino y cardo será toda la tierra.
 
 ### 7:25
 
-Y todos los montes del alrededor serán desechados, no vendrá allá temor de espinos y zarzas, y será para enviar un buey y para pastar una oveja.
+Y todos los montes que con el azadón son azadonados, no vendrás allá por temor de espino y cardo; y será para enviar buey y para pisoteo de oveja.
+
 
 ## Capítulo 8
 
 ### 8:1
 
-Y me dijo Jehová: Toma para ti un rollo grande y escribe en él con estilete de hombre: Apresurado es el botín, ligero el saqueo.
+Y dijo Jehová a mí: Toma para ti tablilla grande, y escribe sobre ella con estilo de hombre: Maher shalal jash baz.
 
 ### 8:2
 
-Y me juró testigos fieles: Urias el sacerdote y Zecharías hijo de Berequías.
+Y haré testificar para mí testigos fieles, a Uriyá el sacerdote y a Zekaryahu hijo de Yeverekyahu.
 
 ### 8:3
 
-Y me acerqué al profeta, y concibió y dio a luz un hijo, y me dijo Jehová: Llámale Apresurado es el botín, ligero el saqueo.
+Y me acerqué a la profetisa, y concibió y dio a luz hijo; y dijo Jehová a mí: Llama su nombre Maher shalal jash baz.
 
 ### 8:4
 
-Porque antes de que el niño sepa decir: ‘Mi padre’ y ‘Mi madre’, la fuerza de Damasco y el botín de Samaria caerán ante el rey de Asiria.
+Porque antes que sepa el muchacho llamar: Padre mío, y madre mía, llevará la riqueza de Damasco y el despojo de Samaria delante de rey de Asiria.
 
 ### 8:5
 
-Entonces el Señor me habló otra vez, diciendo:
+Y añadió Jehová hablar a mí aún, diciendo:
 
 ### 8:6
 
@@ -657,15 +668,15 @@ Porque este pueblo ha desechado las aguas tranquilas de Siloé en favor de Rets�
 
 ### 8:7
 
-Por eso, he aquí que el Señor trae sobre ellos aguas poderosas y numerosas, el rey de Asiria y toda su gloria, y subirá sobre todos sus cauces y correrá sobre todos sus arroyos.
+y por tanto he aquí Adonai hace subir sobre ellos las aguas del río las fuertes y las muchas, al rey de Asiria y a toda su gloria; y subirá sobre todos sus cauces y andará sobre todas sus riberas.
 
 ### 8:8
 
-Y pasará por Judá, que lo inundará y lo cubrirá hasta el cuello, y sus alas llenarán la anchura de tu tierra, oh E1.
+Y pasará en Judá, inundará y atravesará; hasta cuello llegará; y será extensión de sus alas llenura de anchura de tu tierra, Immanu El.
 
 ### 8:9
 
-Pastoread, naciones, y destruidos estéis, y escuchad, todos los de la tierra lejana, vestíos de armadura y destruidos estéis, vestíos de armadura y destruidos estéis.
+Sean quebrantados, pueblos, y sean destrozados; y presten oído, todos lejanos de tierra; cíñanse y sean destrozados; cíñanse y sean destrozados.
 
 ### 8:10
 
@@ -673,19 +684,19 @@ Consejad, y será derribado; hablad, y no se cumplirá, porque con nosotros est�
 
 ### 8:11
 
-Porque así me ha dicho el Señor: ‘Como la firmeza de la mano, me corregirá para que no ande por el camino de este pueblo, diciendo:’
+Porque así dijo Jehová a mí como fortaleza de la mano, y me disciplinó de andar en camino de este pueblo, diciendo:
 
 ### 8:12
 
-No diréis: ‘Todo lo que diga este pueblo es bueno’, y no temeréis su temor ni lo temeréis.
+No digan ustedes conspiración a todo lo que diga este pueblo conspiración; y su temor no teman ustedes, y no se aterroricen.
 
 ### 8:13
 
-Al Señor de los ejércitos lo santificaréis, y él será vuestro temor y vuestro espanto.
+A Jehová de ejércitos, a él santifiquen ustedes; y él, temor de ustedes, y él, terror de ustedes.
 
 ### 8:14
 
-Y será para un santuario y para una piedra de tropiezo y para una roca de escándalo para las dos casas de Israel, para una trampa y para una red para los habitantes de Jerusalén.
+Y será a santuario, y a piedra de tropiezo y a peña de obstáculo a las dos casas de Israel, a lazo y a trampa al morador de Jerusalén.
 
 ### 8:15
 
@@ -693,7 +704,7 @@ Y muchos caerán en ella, caerán y se romperán, serán atrapados y capturados.
 
 ### 8:16
 
-Será una piedra de testimonio, sellada con la ley, aprendida.
+Ata testimonio; sella torá en mis discípulos.
 
 ### 8:17
 
@@ -701,7 +712,7 @@ Esperaré al Señor, el que oculta su rostro de la casa de Jacob; también le ag
 
 ### 8:18
 
-He aquí, yo y los niños que me ha dado el Señor, por señales y por milagros en Israel; desde el Señor de los ejércitos, que habita en el monte Sion.
+He aquí yo y los niños que dio a mí Jehová para señales y para prodigios en Israel, de con Jehová de ejércitos el que mora en monte de Sión.
 
 ### 8:19
 
@@ -709,33 +720,34 @@ Y si se os dice: Consultad a los que tienen espíritus de adivinación y a los q
 
 ### 8:20
 
-A la ley y al testimonio, si no se dice: Al dicho de este hombre que no tiene mañana.
+A torá y a testimonio. Si no hablaren como esta palabra, que no hay a él alba.
 
 ### 8:21
 
-Y pasará por ella un hambre y un deseo, y será que cuando tenga hambre y se enoje y maldiga a su rey y a su Dios, se volverá hacia arriba.
+Y pasará por ella endurecido y hambriento; y será cuando tenga hambre y se enfurezca y maldiga en su rey y en su Dios, y se vuelva hacia arriba.
 
 ### 8:22
 
-Y mirará a la tierra, y he aquí turbación y tinieblas, nube de polvo y de nube espesa.
+Y a tierra mirará, y he aquí angustia y tiniebla, oscuridad de aprieto, y oscuridad expulsada.
+
 
 ## Capítulo 9
 
 ### 9:1
 
-Porque no se desvanece lo que se funde para él; en el tiempo primero se hizo ligera la tierra de Zabulón y la tierra de Nefat, y en el tiempo después se hizo pesada; por el camino del mar, al otro lado del Jordán, Galilea de las gentes.
+Porque no hay oscurecimiento a la que tuvo aprieto; como el tiempo primero aligeró hacia tierra de Zabulón y hacia tierra de Neftalí, y el postrero agravó: camino del mar, allende el Yardén, Galíl de las naciones.
 
 ### 9:2
 
-El pueblo que andaba en tinieblas vio una gran luz; los que habitaban en tierra de sombra de muerte, luz brillante sobre ellos.
+El pueblo los andantes en la tiniebla vieron luz grande; moradores en tierra de sombra de muerte, luz resplandeció sobre ellos.
 
 ### 9:3
 
-Multiplicaste el pueblo, no has aumentado la alegría; se alegraron delante de ti como de la alegría de la siega, como se alegran cuando reparten el despojo.
+Multiplicaste la nación, engrandeciste la alegría; se alegraron delante de ti como alegría en la siega, como se regocijan en su repartir botín.
 
 ### 9:4
 
-Porque llevó su carga y su báculo de carga, el bastón de su carga; tú has hecho como en el día de Madian.
+Porque el yugo de su carga y la vara de su hombro, la vara del opresor en él, quebraste como día de Midyán.
 
 ### 9:5
 
@@ -747,7 +759,7 @@ Porque un niño nos ha nacido, un hijo nos ha sido dado; y la autoridad está so
 
 ### 9:7
 
-Multiplicará su autoridad y no habrá fin de la paz, sobre el trono de David y sobre su reino para establecerlo y para sostenerlo con justicia y con rectitud desde ahora y hasta siempre. La envidia del SEÑOR de los ejércitos hará esto.
+Al principado y a la paz no hay fin, sobre trono de David y sobre su reino, para establecerla y para sostenerla en juicio y en justicia, desde ahora y hasta olam; celo de Jehová de ejércitos hará esto.
 
 ### 9:8
 
@@ -755,7 +767,7 @@ Habla el SEÑOR a Jacob y caerá en Israel.
 
 ### 9:9
 
-Y conocerá todo el pueblo, Efraín y los que habitan en Samaria, en altivez y en orgullo de corazón, diciendo:
+Y conocerán el pueblo, todo él, Efraín y morador de Samaria, en orgullo y en grandeza de corazón, diciendo:
 
 ### 9:10
 
@@ -763,11 +775,11 @@ Caen los ladrillos y se cogerán piedras; se cortan los sicómoros y se plantar�
 
 ### 9:11
 
-Y exaltará el SEÑOR a los enemigos de Rezín contra él y a sus adversarios los aplastará.
+Y ensalzará Jehová a los adversarios de Retsín sobre él, y a sus enemigos revolverá.
 
 ### 9:12
 
-Aram desde el oriente y los filisteos desde el occidente comerán a Israel con toda la boca; en todo esto no se ha vuelto su rostro, y su mano aún está extendida.
+Aram desde oriente y filisteos desde atrás, y comieron a Israel con toda boca. En todo esto no se volvió su nariz, y aún su mano extendida.
 
 ### 9:13
 
@@ -779,11 +791,11 @@ Y cortará el SEÑOR a Israel la cabeza y la cola en un día, el cimero y el poz
 
 ### 9:15
 
-El anciano y el noble es la cabeza, y el profeta que miente es la cola.
+Anciano y alzado de faces, él la cabeza; y profeta maestro de mentira, él la cola.
 
 ### 9:16
 
-Y serán dichosos los de este pueblo que son confundidos, y los que son malditos serán devorados.
+Y serán los guiadores de este pueblo, extraviadores; y sus guiados, tragados.
 
 ### 9:17
 
@@ -791,11 +803,11 @@ Por eso no se alegrará el SEÑOR de sus jóvenes, ni tendrá misericordia de su
 
 ### 9:18
 
-Porque la maldad se ha encendido como fuego que devora la hierba seca y la paja; la llama ha envuelto en humo la espesura de los bosques, y la soberbia se ha consumido.
+Porque ardió como fuego impiedad; espino y cardo comerá, y se encenderá en espesuras del bosque, y se enrollarán majestad de humo.
 
 ### 9:19
 
-Por obra del SEÑOR de los ejércitos la tierra se ha desmoronado, y el pueblo se ha vuelto como comida de fuego, cada uno contra su hermano.
+En furor de Jehová de ejércitos se oscureció tierra, y fue el pueblo como pasto de fuego; hombre a su hermano no se apiadarán.
 
 ### 9:20
 
@@ -803,25 +815,26 @@ Dividió a la derecha y tuvo hambre, y a la izquierda comió y no se sació; cad
 
 ### 9:21
 
-Manasés devora a Efraín, y Efraín a Manasés; juntos devoran a Judá. En todo esto no ha cambiado su rostro, y su mano aún está extendida.
+Manasés a Efraín, y Efraín a Manasés; juntos ellos sobre Judá. En todo esto no se volvió su nariz, y aún su mano extendida.
+
 
 ## Capítulo 10
 
 ### 10:1
 
-Ay, los que hacen leyes injustas y escriben decretos inicuos.
+¡Ay, los decretadores de decretos de iniquidad, y escribiendo afán escribieron!
 
 ### 10:2
 
-Para torcer el juicio de los pobres y privar a los necesitados de su derecho, para que las viudas sean saqueadas y los huérfanos sean perseguidos.
+para torcer de juicio a pobres, y para robar derecho de afligidos de mi pueblo, para ser viudas su botín, y a huérfanos saquearán.
 
 ### 10:3
 
-¿Qué harán en el día de la visita y en la calamidad que viene de lejos? ¿A quién se refugiarán para buscar ayuda? ¿Dónde dejarán su gloria?
+¿Y qué harán ustedes para día de visitación, y para devastación desde lejos vendrá? ¿Sobre quién huirán ustedes para ayuda, y adónde dejarán ustedes su gloria de ustedes?
 
 ### 10:4
 
-No se postrarán ante el cautivo ni caerán ante los muertos; en todo esto no ha cambiado su rostro, y su mano aún está extendida.
+Sin encorvarse debajo de preso, y debajo de matados caerán. En todo esto no se volvió su nariz, y aún su mano extendida.
 
 ### 10:5
 
@@ -833,11 +846,11 @@ Enviaré a un pueblo lejano, a un pueblo que me es enemigo, para que saquee sus 
 
 ### 10:7
 
-Pero no lo piensa así, ni su corazón lo entiende, porque en su corazón está la destrucción, y en su mente está la destrucción de naciones numerosas.
+Y él no así imaginará, y su corazón no así pensará; porque para destruir en su corazón, y para cortar naciones no pocas.
 
 ### 10:8
 
-Porque dice: ¿Acaso no son mis príncipes todos reyes?
+Porque dirá: ¿No mis príncipes a una reyes?
 
 ### 10:9
 
@@ -845,15 +858,15 @@ Porque dice: ¿Acaso no son mis príncipes todos reyes?
 
 ### 10:10
 
-Como encontró mi mano a las naciones que adoran ídolos, así haré con los ídolos de Jerusalén y de Samaría.
+Como halló mi mano a reinos del ídolo, y sus esculturas de Jerusalén y de Samaria,
 
 ### 10:11
 
-¿Acaso no es como hice con Samaría y con sus ídolos, que haré con Jerusalén y con sus imágenes?
+¿No como hice a Samaria y a sus ídolos, así haré a Jerusalén y a sus ídolos?
 
 ### 10:12
 
-Porque cuando el Señor castigue a todo el trabajo de su mano en el monte Sion y en Jerusalén, registraré la grandeza del corazón del rey de Asiria y la gloria de la altivez de sus ojos.
+Y será, cuando acabe Adonai toda su obra en monte de Sión y en Jerusalén, visitaré sobre fruto de grandeza de corazón de rey de Asiria, y sobre gloria de altura de sus ojos.
 
 ### 10:13
 
@@ -861,7 +874,7 @@ Porque dice: Con la fuerza de mi mano he hecho esto, y con la sabiduría de mi i
 
 ### 10:14
 
-Y ha encontrado como un nido mi mano para el ejército de los pueblos; y como quien recoge huevos abandonados, así he recogido toda la tierra; y no ha quedado desviado ni una pluma, ni ha abierto la boca, ni ha chirriado.
+Y halló como nido mi mano a la fuerza de los pueblos, y como juntar huevos abandonados, toda la tierra yo junté, y no hubo aleteante de ala y abriente boca y piando.
 
 ### 10:15
 
@@ -869,11 +882,11 @@ Y ha encontrado como un nido mi mano para el ejército de los pueblos; y como qu
 
 ### 10:16
 
-Por eso enviará el Señer, el Señor de los ejércitos, en su grasa un espíritu de confusión, y bajo su gloria será quemado como se quema la paja.
+Por tanto enviará el señor, Jehová de ejércitos, en sus gorduras flaqueza, y debajo de su gloria arderá ardor como ardor de fuego.
 
 ### 10:17
 
-Y será la luz de Israel como un fuego, y su santo como una llama; y devorará y consumirá la hierba y el trigo en un día.
+Y será luz de Israel para fuego, y su Santo para llama, y arderá y comerá su cardo y su espino en día uno.
 
 ### 10:18
 
@@ -881,19 +894,19 @@ Y será la gloria del bosque y del viñedo como si fuera de la carne y de la san
 
 ### 10:19
 
-Y el resto de los árboles del bosque será contado, y un joven escribirá sus nombres.
+Y resto de árbol de su bosque número serán, y muchacho los escribirá.
 
 ### 10:20
 
-Y en aquel día no se apoyará más el resto de Israel y la remanente de la casa de Jacob; sino que se apoyará en el Señor, el Santo de Israel, en verdad.
+Y será en el día aquel: no añadirá más resto de Israel y escapada de casa de Jacob a apoyarse sobre el que lo hirió, y se apoyará sobre Jehová, Santo de Israel, en verdad.
 
 ### 10:21
 
-El resto de Jacob volverá, el resto de Jacob se apoyará en el Señor, el Poderoso.
+Resto volverá, resto de Jacob, a El poderoso.
 
 ### 10:22
 
-Pero si el pueblo de Israel es como el polvo del mar, el resto será contado como el polvo que se escapa de un cedazo; la justicia será su redentor.
+Porque si fuere tu pueblo Israel como arena del mar, resto volverá en él; consumación decretada inunda justicia.
 
 ### 10:23
 
@@ -901,15 +914,15 @@ Porque el Señor, el Dios de los ejércitos, ha decidido hacerlo en medio de tod
 
 ### 10:24
 
-Por eso dice el Señor, el Dios de los ejércitos: «No temas, pueblo que habita en Sión, a Asiria, porque el bastón que levanta contra ti es un palo que levanta en el camino de Egipto».
+Por tanto así dijo Adonai Jehová de ejércitos: No temas, pueblo mío morador de Sión, de Asiria; con vara te herirá, y su bastón alzará sobre ti en camino de Egipto.
 
 ### 10:25
 
-Porque aún hay un poco de tiempo, y luego se acabará la ira y mi enojo contra ellos.
+Porque aún poco, poquito, y se acabará indignación, y mi nariz sobre su destrucción.
 
 ### 10:26
 
-Y el Señor de los ejércitos despertará contra él un látigo como el que castigó a Madian en el roca de Oreb; y levantará su vara sobre el mar, y la llevará por el camino de Egipto.
+Y despertará sobre él Jehová de ejércitos azote, como herida de Midyán en peña de Oreb; y su bastón sobre el mar, y lo alzará en camino de Egipto.
 
 ### 10:27
 
@@ -917,19 +930,19 @@ Y en aquel día se apartará el yugo de tu cuello, y el fardo de tus hombros se 
 
 ### 10:28
 
-Viene a Aiath, pasa por Migron, deja sus bagajes en Mikhmash.
+Vino sobre Ayát, pasó en Migrón; a Mikmás depositará sus utensilios.
 
 ### 10:29
 
-Pasaron por Madmenah, se quedaron en Guibeá, en Ramah se alarmaron; en Geba se fortalecieron, Saul se retiró.
+Pasaron el vado; Guéva alojamiento para nosotros; tembló ha-Ramá; Givá de Saúl huyó.
 
 ### 10:30
 
-Grita, hija de Galim, escucha, Bet-Anath, hija de desolación.
+Grita tu voz, hija de Galím; presta oído, Layishá; afligida Anatot.
 
 ### 10:31
 
-Se retiró Madmenea, los habitantes de Gebim huyeron.
+Huyó Madmená; moradores de ha-Guevím se pusieron a salvo.
 
 ### 10:32
 
@@ -937,21 +950,22 @@ En aquel día, en Nob, hará una parada; la mano del monte de la Casa de Sión, 
 
 ### 10:33
 
-He aquí, el Señor, el Señor de los ejércitos, azotará con tormento a los altivos, y a los orgullosos los humillará, y a los altos los abatirá.
+He aquí el señor, Jehová de ejércitos, desgajando rama con terror; y los altos de estatura cortados, y los elevados serán abatidos.
 
 ### 10:34
 
-Y golpeará a los bosques con hierro, y al Líbano caerá con un poderoso.
+Y cortará espesuras del bosque con el hierro, y el Líbano por un poderoso caerá.
+
 
 ## Capítulo 11
 
 ### 11:1
 
-Y saldrá un brote de la raíz de Isaí, y un retoño de sus raíces producirá fruto.
+Y saldrá vara de tronco de Yishai, y renuevo de sus raíces fructificará.
 
 ### 11:2
 
-Y reposará sobre él el Espíritu del Señor, el Espíritu de sabiduría y de entendimiento, el Espíritu de consejo y de fortaleza, el Espíritu de conocimiento y de temor del Señor.
+Y reposará sobre él espíritu de Jehová, espíritu de sabiduría y de inteligencia, espíritu de consejo y de valentía, espíritu de conocimiento y de temor de Jehová.
 
 ### 11:3
 
@@ -959,61 +973,62 @@ Y olfateará con el temor del Señor, y no juzgará según la vista de sus ojos,
 
 ### 11:4
 
-Y juzgará con justicia a los pobres, y con rectitud condenará a los afligidos de la tierra; y con el bastón de su boca matará a la tierra, y con el aliento de sus labios matará al impío.
+Y juzgará en justicia a pobres, y reprenderá con equidad a mansos de tierra; e herirá tierra con vara de su boca, y con espíritu de sus labios matará al impío.
 
 ### 11:5
 
-Y será la justicia cinturón de sus caderas, y la fidelidad cinto de su vientre.
+Y será justicia cinturón de sus lomos, y la fidelidad cinturón de sus caderas.
 
 ### 11:6
 
-Y habitará el lobo con el cordero, y el leopardo se acostará con el cabrito; y el becerro y el león y el buey juntos comerán, y un niño pequeño los pastoreará.
+Y morará lobo con cordero, y leopardo con cabrito se echará; y becerro y leoncillo y cebado a una, y muchacho pequeño los pastorea.
 
 ### 11:7
 
-Y la vaca y el oso pastarán juntos, y sus hijos se acostarán juntos; y el león comerá paja como el buey.
+Y vaca y oso pastarán; a una se echarán sus crías; y león como ganado comerá paja.
 
 ### 11:8
 
-Y el niño que está amamantando se jugará junto a la cueva de la víbora, y junto a la madriguera de la serpiente se pondrá su mano.
+Y deleitará el lactante sobre agujero de áspid, y sobre guarida de víbora el destetado su mano meterá.
 
 ### 11:9
 
-No harán daño ni destruirán en todo el monte santo, porque la tierra estará llena de conocimiento del SEÑOR, como las aguas cubren el mar.
+No dañarán y no destruirán en todo monte de mi santidad; porque se llenó la tierra de conocimiento de Jehová, como las aguas al mar cubriendo.
 
 ### 11:10
 
-Y en aquel día se plantará un trozo de la raíz de Jessé, y un león se levantará para estandarte de los pueblos; a él vendrán los pueblos, y su reposo será gloria.
+Y será en el día aquel: raíz de Yishai, que está para bandera de pueblos; a él naciones buscarán, y será su reposo gloria.
 
 ### 11:11
 
-Y en aquel día el Señor añadirá a su pueblo, que quedará de Asiria, Egipto, Put, Cuxe, Elam, Sinar, Cuta y de los isleños del mar.
+Y será en el día aquel: añadirá Adonai segunda vez su mano para comprar el resto de su pueblo que quede de Asiria y de Egipto y de Patros y de Kush y de Elam y de Shinar y de Jamat y de islas del mar.
 
 ### 11:12
 
-Y levantará una bandera a las naciones, y recogerá el despojo de Israel; y reunirá a los dispersos de Judá de los cuatro confines de la tierra.
+Y alzará bandera a las naciones, y juntará expulsados de Israel, y dispersas de Judá recogerá de cuatro alas de la tierra.
 
 ### 11:13
 
-Y desaparecerá la envidia de Efraín, y los que molestan a Judá serán destruidos. Efraín no envidiará a Judá, y Judá no molestará a Efraín.
+Y se apartará celo de Efraín, y angustiadores de Judá serán cortados; Efraín no celará a Judá, y Judá no angustiará a Efraín.
 
 ### 11:14
 
-Y volarán sobre el hombro de los filisteos al occidente; juntos despojarán a los hijos del oriente. Edom y Moab serán de su mano, y los hijos de Amón de su voz.
+Y volarán en hombro de filisteos hacia mar; a una saquearán a hijos de Kedem; Edom y Moav envío de su mano, e hijos de Amón su obediencia.
 
 ### 11:15
 
-Y el Señor hará desaparecer la lengua del mar de Egipto, y levantará su mano sobre el río, y soplará con su aliento, y hundirálo en siete canales, y hará pasar a través de sandalias.
+Y destruirá Jehová la lengua del mar de Egipto, y agitará su mano sobre el río con violencia de su espíritu, y lo herirá a siete arroyos, y hará andar en sandalias.
 
 ### 11:16
 
-Y habrá un camino para el resto de su pueblo, que quedará de Asiria, como hubo para Israel en el día de su subida de la tierra de Egipto.
+Y habrá calzada para resto de su pueblo que quede de Asiria, como hubo para Israel en día de su subir de tierra de Egipto.
+
 
 ## Capítulo 12
 
 ### 12:1
 
-Y dirás en aquel día: Te alabo, Señor, porque tu ira se ha vuelto y me consuelas.
+Y dirás en el día aquel: Te alabaré, Jehová, porque te airaste en mí; se vuelve tu nariz y me consuelas.
 
 ### 12:2
 
@@ -1021,11 +1036,11 @@ He aquí que Dios es mi salvación; confiaré y no temeré, porque el Señor es 
 
 ### 12:3
 
-Y sacaréis agua con alegría de los pozos de la salvación.
+Y sacarán ustedes aguas con gozo de fuentes de la salvación.
 
 ### 12:4
 
-Y en aquel día diréis: Alabad al Señor, invocadle por su nombre; anunciad entre las gentes sus hechos, proclamad que su nombre es grande.
+Y dirán ustedes en el día aquel: Den gracias a Jehová, llamen en su nombre, anuncien en los pueblos sus hazañas, hagan recordar que ensalzado su nombre.
 
 ### 12:5
 
@@ -1033,45 +1048,46 @@ Cantad al Señor, porque ha hecho grande; esto se ha sabido en toda la tierra.
 
 ### 12:6
 
-Alegra y ríe, habitante de Sión, porque grande es en tu medio el Santo de Israel.
+Grita y canta, moradora de Sión, porque grande es en tu seno el Santo de Israel.
+
 
 ## Capítulo 13
 
 ### 13:1
 
-Anuncio de Babilonia, que vio Isaías hijo de Amoz.
+Carga de Babilonia, que vio Isaías hijo de Amoz.
 
 ### 13:2
 
-En la montaña elevada levantad la señal, alzad la voz a ellos, levantad la mano, y entren por las puertas de los nobles.
+Sobre monte despejado alcen enseña, alcen voz a ellos; agiten mano, y vengan a entradas de nobles.
 
 ### 13:3
 
-Yo he ordenado a mis santos, he llamado a mis valientes, a los que se alegran en mi gloria.
+Yo mandé a mis consagrados; también llamé a mis valientes para mi ira, exultantes de mi altivez.
 
 ### 13:4
 
-El sonido de un gran tumulto en las montañas, como el ruido de un gran pueblo; el sonido de un estruendo de reinos, de naciones juntándose. Porque el Señor de los ejércitos hace guerra.
+Voz de muchedumbre en los montes, semejanza de pueblo mucho; voz de tumulto de reinos de naciones reunidas; Jehová de ejércitos visita ejército de guerra.
 
 ### 13:5
 
-Viene de una tierra lejana, del extremo del cielo. El Señor y sus instrumentos de ira para hacer presa de toda la tierra.
+Vienen de tierra de lejos, desde extremo de los cielos, Jehová y utensilios de su indignación, para destruir toda la tierra.
 
 ### 13:6
 
-¡Ay, porque el día del Señor está cerca, y vendrá como destrucción de Babel!
+Aúllen, porque cercano día de Jehová; como destrozo desde Shadai vendrá.
 
 ### 13:7
 
-Por eso todas las manos se debilitarán, y todo corazón de hombre se derretirá.
+Por tanto todas manos se aflojarán, y todo corazón de mortal se derretirá.
 
 ### 13:8
 
-Y se asombrarán los valientes, y los hombres fuertes se doblarán, y como mujer que da a luz, se asombrarán unos a otros; su rostro se encenderá de fuego.
+Y se turbarán; dolores y angustias asirán; como la que da a luz se retorcirán; hombre a su compañero se asombrarán; faces de llamas sus faces.
 
 ### 13:9
 
-He aquí que el día del Señor viene, cruel y con ira, para hacer la tierra desolada, y acabará con los pecadores de ella.
+He aquí día de Jehová viene, cruel, y furor y ardor de ira, para poner la tierra a desolación, y sus pecadores destruirá de ella.
 
 ### 13:10
 
@@ -1079,23 +1095,23 @@ Porque los cielos y sus estrellas no darán su luz, y el sol se oscurecerá en s
 
 ### 13:11
 
-Y visitaré sobre la tierra el mal, y sobre los pecadores sus pecados; y haré cesar la soberbia de los soberbios, y la altivez de los violentos será humillada.
+Y visitaré sobre el mundo mal, y sobre malvados su iniquidad; y haré cesar soberbia de insolentes, y altivez de tiranos abatiré.
 
 ### 13:12
 
-El hombre será más valioso que el oro, y el hombre más precioso que el oro de Ofir.
+Haré más precioso al mortal que oro fino, y al hombre que oro de Ofir.
 
 ### 13:13
 
-Por eso los cielos retumbarán y la tierra temblará en su lugar, por la ira del Señor de los ejércitos y en el día de su cólera.
+Por tanto cielos haré temblar, y se estremecerá la tierra de su lugar, en furor de Jehová de ejércitos y en día de ardor de su ira.
 
 ### 13:14
 
-Y será como un brillante que se desvanece, y como ovejas sin nadie que las reúna. Cada uno volverá a su pueblo y cada uno correrá a su tierra.
+Y será como gacela ahuyentada, y como oveja y no hay quien reúna; hombre a su pueblo se volverán, y hombre a su tierra huirán.
 
 ### 13:15
 
-Todo lo que se encuentre será apuñalado, y todo lo que se escape será caído a espada.
+Todo el hallado será traspasado, y todo el juntado caerá a espada.
 
 ### 13:16
 
@@ -1103,7 +1119,7 @@ Y los niños de ellos serán arrojados a sus ojos, sus casas serán saqueadas y 
 
 ### 13:17
 
-He aquí que levantaré contra ellos a Media, cuyo oro no valoran y cuyo plata no aprecian.
+Heme aquí despertando sobre ellos a Media, que plata no estimarán, y oro no se deleitarán en él.
 
 ### 13:18
 
@@ -1127,17 +1143,20 @@ Y los chacales aullarán en sus palacios, y los leones en sus templos de placer,
 
 ## Capítulo 14
 
+
+## Capítulo 14
+
 ### 14:1
 
-Porque el Señor tendrá misericordia de Jacob y elegirá a Israel de nuevo, y los dejará en su tierra. Y los extranjeros se unirán a ellos, y se adherirán a la casa de Jacob.
+Porque compadecerá Jehová a Jacob, y escogerá aún en Israel, y los asentará sobre su suelo; y se juntará el forastero sobre ellos, y se adherirán sobre casa de Jacob.
 
 ### 14:2
 
-Y los llevarán los pueblos y los traerán a su lugar. Y la casa de Israel heredará a ellos la tierra del Señor como siervos y como siervas. Y serán devueltos a sus cautivos, y serán oprimidos por sus opresores.
+Y los tomarán pueblos, y los traerán a su lugar, y los heredará casa de Israel sobre suelo de Jehová para siervos y para siervas; y serán captores a sus captores, y dominarán en sus opresores.
 
 ### 14:3
 
-Y dejará Jehová de castigarte y de afligirte y de la servidumbre dura con la cual te serviste.
+Y será en día de hacer reposar Jehová a ti de tu dolor y de tu turbación y de la servidumbre dura que fue servida en ti,
 
 ### 14:4
 
@@ -1145,7 +1164,7 @@ Y llevarás este refrán sobre el rey de Babilonia y dirás: ¿Cómo se ha desva
 
 ### 14:5
 
-Ha roto Jehová el bastón de los malvados, el cetro de los que dominan.
+Quebró Jehová vara de malvados, cetro de dominadores,
 
 ### 14:6
 
@@ -1153,11 +1172,11 @@ Golpea a las naciones en la ira, golpea sin ser tocado; castiga a los pueblos en
 
 ### 14:7
 
-Se ha calmado toda la tierra, se ha abierto la boca para dar voces de júbilo.
+Reposó, sosegó toda la tierra; prorrumpieron en canto.
 
 ### 14:8
 
-También en los bosques se alegrarán por ti, cedros de Líbano, desde que has dormido no ha subido sobre ti el cortador con sus instrumentos.
+También cipreses se alegraron por ti, cedros de Líbano: Desde que te acostaste, no sube el cortador sobre nosotros.
 
 ### 14:9
 
@@ -1173,15 +1192,15 @@ Has sido llevado al abismo tu orgullo, tu cuerpo ha sido echado a la tierra, deb
 
 ### 14:12
 
-¿Cómo has caído del cielo, oh lucero, hijo de la alborada? Has sido cortado a la tierra, enfermo entre las naciones.
+¡Cómo caíste desde cielos, Heilél hijo de Shájar! Fuiste cortado a la tierra, debilitador sobre naciones.
 
 ### 14:13
 
-Y tú dijiste en tu corazón: Subiré al cielo, encima de las estrellas de Dios elevaré mi trono, y en el monte de la reunión, en los confines del norte, me sentaré en el monte de la asamblea.
+Y tú dijiste en tu corazón: A los cielos subiré; por encima de estrellas de El alzaré mi trono, y me sentaré en monte de reunión, en confines de Tsafoón.
 
 ### 14:14
 
-Subiré sobre las nubes, semejante a lo alto.
+Subiré sobre alturas de nube; me asemejaré a Elyón.
 
 ### 14:15
 
@@ -1189,23 +1208,23 @@ Pero a la sepultura te llevarán, a la parte baja del pozo.
 
 ### 14:16
 
-A ti te observarán, a ti te mirarán: ¿Acaso este es el hombre que turbaba la tierra, que sacudía las naciones?
+Tus miradores a ti fijarán mirada, a ti contemplarán: ¿Es este el hombre que hacía estremecer la tierra, que hacía temblar reinos,
 
 ### 14:17
 
-Allí pondrás tu cama como en el desierto, y las ciudades que has destruido no las reconstruirás; los cautivos no saldrán de la prisión.
+que ponía mundo como desierto, y sus ciudades derribó; a sus prisioneros no abrió hacia casa?
 
 ### 14:18
 
-Todos los reyes de las naciones, todos ellos, se acostarán en el sepulcro; cada uno en su cama.
+Todos reyes de naciones, todos ellos, se acostaron en gloria, cada uno en su casa.
 
 ### 14:19
 
-Y tú, echado de tu sepulcro como un brote abominable, con la ropa de los muertos, de los que fueron heridos por la espada, que descenderán a las piedras del pozo como un cadáver pisoteado.
+Y tú fuiste echado de tu sepulcro como renuevo abominado, vestido de matados, traspasados de espada, descendientes a piedras de pozo, como cadáver pisoteado.
 
 ### 14:20
 
-No te juntarás con ellos en el sepulcro, porque has profanado tu tierra, has matado a tu pueblo; no será perpetuo el linaje de los malhechores.
+No serás unido con ellos en sepultura, porque tu tierra destruiste, tu pueblo mataste; no será llamado para siempre simiente de malhechores.
 
 ### 14:21
 
@@ -1217,31 +1236,31 @@ Y levantaré contra ellos, dice el Señor de los ejércitos, y los destruiré a 
 
 ### 14:23
 
-Y pondré a los chacales y a las ranas de agua en tu heredad, y haré que duerman en el lecho de destrucción, dice el Señor de los ejércitos.
+Y la pondré a posesión de erizo y estanques de aguas, y la barreré con escoba de exterminio, dicho de Jehová de ejércitos.
 
 ### 14:24
 
-Jura el Señor de los ejércitos, diciendo: Como yo he imaginado, así ha sucedido, y como yo he aconsejado, así se ha cumplido.
+Juró Jehová de ejércitos, diciendo: Si no como pensé, así fue, y como aconsejé, ella se levantará:
 
 ### 14:25
 
-Para quebrantar a Asiria en mi tierra, y sobre los montes de Asiria los deponga; y su carga se apartará de sobre ellos, y su yugo de sobre su cuello se quitará.
+para quebrar a Asiria en mi tierra, y sobre mis montes lo pisaré; y se apartará de sobre ellos su yugo, y su carga de sobre su hombro se apartará.
 
 ### 14:26
 
-Esta es la conseja que se ha dado a toda la tierra, y esta es la mano que se ha extendido sobre todas las naciones.
+Esta el consejo aconsejado sobre toda la tierra, y esta la mano extendida sobre todas las naciones.
 
 ### 14:27
 
-Porque Jehová de los ejércitos ha aconsejado, ¿y quién podrá desmentirlo? Y su mano se ha extendido, ¿y quién podrá volverla atrás?
+Porque Jehová de ejércitos aconsejó, y ¿quién anulará? Y su mano la extendida, y ¿quién la hará volver?
 
 ### 14:28
 
-En el año de la muerte del rey Acas, tuvo lugar este anuncio.
+En año de muerte del rey Acaz fue esta carga.
 
 ### 14:29
 
-No te alegres, Filistea, toda tú, porque se ha roto el bastón que te golpeaba. Porque de la raíz del serpiente saldrá un escorpión, y su fruto será una serpiente que vuelva a morder.
+No te alegres, Peleshet, toda tú, porque fue quebrado el cetro de tu heridor; porque de raíz de serpiente saldrá víbora, y su fruto serpiente voladora.
 
 ### 14:30
 
@@ -1249,29 +1268,30 @@ Y los primeros nacidos entre los pobres y los necesitados se alimentarán, y los
 
 ### 14:31
 
-Grita, puerta de la ciudad, ¡grita, Sion! Porque se tambalea Palestina, toda ella, porque viene humo del norte y no hay quien lo detenga.
+Aúlla, puerta; grita, ciudad; se disolvió Peleshet, toda tú; porque desde norte humo vino, y no hay aislado en sus convocaciones.
 
 ### 14:32
 
-¿Qué responderán los mensajeros de las naciones? Porque Jehová ha establecido a Sion, y en ella se refugiarán los pobres de su pueblo.
+Y ¿qué responderá a mensajeros de nación? Que Jehová fundó Sión, y en ella se refugiarán pobres de su pueblo.
+
 
 ## Capítulo 15
 
 ### 15:1
 
-Anuncio contra Moab, porque en la noche se ha destruido la ciudad de Moab, porque en la noche se ha destruido el muro de Moab.
+Carga de Moav. Porque en noche fue devastada Ar-Moav, fue silenciada; porque en noche fue devastada Kir-Moav, fue silenciada.
 
 ### 15:2
 
-Sube a la cima, Dibón, para llorar en medio de Nebo y Medeba, porque Moab se desgarra por ti; sobre todas tus calvas se desgarra.
+Subió la casa y Dibón a los altos para llanto; sobre Nebó y sobre Medevá Moav aullará; en toda su cabeza calvicie, toda barba rapada.
 
 ### 15:3
 
-En tus calles se visten de saco, en tus techos y en tus plazas, en todas partes se desgarra.
+En sus calles ciñeron saco; sobre sus techos y en sus plazas, todo él aullará, descendiendo en el llanto.
 
 ### 15:4
 
-Y se lamenta Hesbón y Eleale, hasta Yazer se oye su voz; por eso los valientes de Moab se lamentan, y su alma se desgarra.
+Y gritó Jeshbón y Elalé; hasta Yahats fue oída su voz; por tanto armados de Moav gritarán; su alma tembló a él.
 
 ### 15:5
 
@@ -1279,15 +1299,15 @@ Mi corazón está con Moab, porque en Rímac se lamenta hasta Zoar, porque sube 
 
 ### 15:6
 
-Porque los ríos de Nimrim se secarán, porque el pasto se seca, y no hay hierba verde.
+Porque aguas de Nimrim desolaciones serán; porque se secó hierba, se acabó verdor, verdura no hubo.
 
 ### 15:7
 
-Por eso se ha vuelto y se ha ido a la aldea de los Arabitas, porque su destino está en el valle de Arabitas.
+Por tanto abundancia hecha, y su depósito, sobre torrente de los Árabes los llevarán.
 
 ### 15:8
 
-Porque la alarma rodea a Moab, hasta Eglaim su quejido y en Beer-Elim su quejido.
+Porque rodeó el grito el límite de Moav; hasta Egláyim su aullido, y Beer-Eilim su aullido.
 
 ### 15:9
 
@@ -1295,21 +1315,24 @@ Porque los ríos de Dimón están llenos de sangre, porque pondré sobre Dimón 
 
 ## Capítulo 16
 
+
+## Capítulo 16
+
 ### 16:1
 
-Envían mensajeros desde la ciudad de Sela al desierto de Ar, a la montaña de Bet-Zion.
+Envíen cordero de dominador de tierra desde Sela hacia desierto, al monte de hija de Sión.
 
 ### 16:2
 
-Y serán como pájaros dispersos, nidos destruidos, hijas de Moab, en el Arnon.
+Y será como ave errante, nido echado; serán hijas de Moav vados de Arnón.
 
 ### 16:3
 
-Traed consejo, ejecutad juicio, pongo en tinieblas tu refugio en medio del día, no os descubráis a los que huyen, no os descubráis.
+Consejo hagan, juicio; pon como noche tu sombra en medio de mediodía; esconde a empujados; errante no descubras.
 
 ### 16:4
 
-Se refugiarán en ti los que han sido dispersos, Moab, seas refugio de ellos de la presa, porque el cuchillo ha cesado, ha acabado el robo, el despojo ha pasado de la tierra.
+Morarán en ti mis empujados; Moav, sé escondite a ellos de faces de devastador; porque cesó el opresor, se acabó destrozo, se consumieron pisoteadores de la tierra.
 
 ### 16:5
 
@@ -1317,7 +1340,7 @@ Y se preparará en gracia el trono, y se sentará sobre él en verdad en la tien
 
 ### 16:6
 
-Hemos oído la arrogancia de Moab, su soberbia y su orgullo, su cólera no es tal.
+Oímos soberbia de Moav, muy soberbio; su altivez y su soberbia y su furor; no así sus vanidades.
 
 ### 16:7
 
@@ -1329,7 +1352,7 @@ Porque las alturas de Sibma están desoladas, las viñas de Sibma han sido destr
 
 ### 16:9
 
-Por eso, lloraré por Sibma, sus viñas de Sibma, sus lágrimas correrán por ti, por Heshbon y Eleale, porque sobre tu fruto y sobre tu cosecha ha caído la destrucción.
+Por tanto lloraré con llanto de Yaazer vid de Sivmá; te regaré mi lágrima, Jeshbón y Elalé; porque sobre tu verano y sobre tu siega heidad cayó.
 
 ### 16:10
 
@@ -1337,11 +1360,11 @@ Se ha recogido la alegría y el gozo del Carmel, no hay quien cante en los viñe
 
 ### 16:11
 
-Por eso, de lejos, por Moab, llorarán como si tocaran un arpa, y mi corazón está como un instrumento de alfarero.
+Por tanto mis entrañas a Moav como cítara resonarán, y mi interior a Kir-Járes.
 
 ### 16:12
 
-Y sucederá que cuando Moab vea que está despreciado en la cumbre, vendrá a su santuario para orar, pero no podrá.
+Y será cuando se muestre que se cansó Moav sobre el alto, y venga a su santuario para orar, y no podrá.
 
 ### 16:13
 
@@ -1349,37 +1372,38 @@ Esto es lo que el Señor ha dicho acerca de Moab desde antiguo.
 
 ### 16:14
 
-Y ahora dice el Señor: En tres años, como el salario de un jornalero, quedará humillado el orgullo de Moab, con todo su gran gentío, y lo que queda será muy escaso y no será importante.
+Y ahora habló Jehová, diciendo: En tres años como años de jornalero, y será envilecida gloria de Moav en toda la muchedumbre mucha, y resto poco, pequeño, no poderoso.
+
 
 ## Capítulo 17
 
 ### 17:1
 
-Anuncio acerca de Damasco: He aquí que Damasco será despojada como ciudad, y será un montón de ruinas.
+Carga de Damasco. He aquí Damasco quitada de ciudad, y será montón de ruina.
 
 ### 17:2
 
-Las ciudades de Aroer quedarán abandonadas, y serán pasto para los camellos, y se tumbarán allí, y no habrá quien los moleste.
+Abandonadas ciudades de Aroer; para rebaños serán, y se echarán, y no hay quien espante.
 
 ### 17:3
 
-Y cesará la fortaleza de Efraín, y la realeza de Damasco, y el resto de Aram, como la gloria de los hijos de Israel, dice el Señor de los ejércitos.
+Y cesará fortaleza de Efraín, y reino de Damasco, y resto de Aram; como gloria de hijos de Israel serán, dicho de Jehová de ejércitos.
 
 ### 17:4
 
-Y en aquel día se desvanecerá la gloria de Jacob, y su carne y su grasa se consumirán.
+Y será en el día aquel: adelgazará gloria de Jacob, y grosura de su carne será enflaquecida.
 
 ### 17:5
 
-Y será como si recogieran el trigo al final de la cosecha, y sus brazos recojan espigas; y será como si recogieran espigas en el valle de Refaim.
+Y será como recoger cosecha de en pie, y su brazo espigas segará; y será como el que rebusca espigas en valle de Refaim.
 
 ### 17:6
 
-Y quedará en él como el recogedor de olivas, dos o tres uvas en la cima de la encina, cuatro o cinco en los ramilletes de los almendros, dice el Señor, el Dios de Israel.
+Y quedará en él rebuscos como vareo de olivo: dos tres bayas en cabeza de rama, cuatro cinco en sus ramajes fructíferos, dicho de Jehová Dios de Israel.
 
 ### 17:7
 
-En aquel día el hombre buscará refugio en el que lo hizo, y sus ojos mirarán al Santo de Israel.
+En el día aquel mirará el hombre hacia su Hacedor, y sus ojos al Santo de Israel verán.
 
 ### 17:8
 
@@ -1387,7 +1411,7 @@ Y no invocará a los altares que sus manos hicieron, ni a los postes que sus ded
 
 ### 17:9
 
-En aquel día serán sus ciudades desiertas como el desolado campo y como el desierto que abandonaron por causa de los hijos de Israel; y será desolación.
+En el día aquel serán ciudades de su plaza fuerte como abandono del bosque y de la rama alta que abandonaron de faces de hijos de Israel, y será desolación.
 
 ### 17:10
 
@@ -1395,11 +1419,11 @@ Porque olvidaste a tu Dios, y la roca de tu fortaleza no recordaste; por tanto, 
 
 ### 17:11
 
-En el día que plantes, te cubrirás de hierba; y en la mañana tu siembra florecerá; pero vendrá el fruto de la siega en el día de la enfermedad y en la angustia.
+En día de tu plantío harás crecer, y en la mañana tu simiente harás brotar; montón de cosecha en día de enfermedad y dolor desesperado.
 
 ### 17:12
 
-Ay, pueblo numeroso como el mar inmenso, que hace ruido como el mar; y nación numerosa que hace ruido como el mar inmenso que hace ruido.
+¡Ay, tumulto de pueblos muchos, como tumultos de mares tumultuarán, y estruendo de naciones como estruendo de aguas poderosas estruendarán!
 
 ### 17:13
 
@@ -1407,17 +1431,18 @@ Como el ruido de las aguas inmensas, harán ruido las naciones; y él se quejar�
 
 ### 17:14
 
-A la hora de la tarde, y he aquí oscura; antes de la mañana, no hay nada. Esto es la porción de los que te robaron, y la suerte de los que te despojaron.
+Al tiempo de tarde, y he aquí terror; antes de mañana no hay él. Esta porción de nuestros saqueadores, y suerte a nuestros despojadores.
+
 
 ## Capítulo 18
 
 ### 18:1
 
-Ay, tierra que tiemlica de alas, que está más allá de los ríos de Egipto.
+¡Ay, tierra de zumbido de alas, que de allende a ríos de Kush!
 
 ### 18:2
 
-El que envía mensajeros en barcos sobre las aguas, que son ágiles como los ángeles, a una nación que se extiende y se estira, a un pueblo terrible, de gran y pequeño, que ha despreciado mis ríos.
+La que envía en el mar enviados, y en vasos de junco sobre faces de aguas. Vayan, mensajeros ligeros, a nación estirada y raída, a pueblo temible desde él y adelante, nación de línea línea y pisoteo, cuya tierra ríos cortaron.
 
 ### 18:3
 
@@ -1425,7 +1450,7 @@ Todos los moradores de la tierra y los habitantes de ella, alzando la bandera so
 
 ### 18:4
 
-Porque así ha dicho Jehová a mí: En silencio y en reposo miraré en mi morada; como el calor del sol en la luz, como la nube de rocío en el calor de la siega.
+Porque así dijo Jehová a mí: Y miraré en mi lugar, como calor claro sobre luz, como nube de rocío en calor de cosecha.
 
 ### 18:5
 
@@ -1433,25 +1458,26 @@ Porque antes de la siega, cuando florece la flor, y el fruto maduro, vendrá la 
 
 ### 18:6
 
-Serán abandonados juntos al halcón y a la bestia de la tierra; el halcón se apoderará de ellos, y toda bestia de la tierra los devorará.
+Serán dejados juntos a ave de montes y a bestia de la tierra, y veraneará sobre él el ave, y toda bestia de la tierra sobre él invernará.
 
 ### 18:7
 
-En aquel tiempo sembrará Jehová un cereal en el monte de Sión, y en su cosecha vendrá un pueblo de la nación, y de un pueblo terrible; y el Señor de los ejércitos vendrá con juicio contra la montaña de Sión y contra el valle de Jerusalén, y se apoderará de la cima de la roca, y el valle será arrojado, y el monte y el valle serán nivelados, como la tarea de un arado, y como la obra de un hombre que limpia la siega.
+En el tiempo aquel será llevado presente a Jehová de ejércitos, pueblo estirado y raído, y de pueblo temible desde él y adelante, nación de línea línea y pisoteo, cuya tierra ríos cortaron, al lugar de nombre de Jehová de ejércitos, monte Sión.
+
 
 ## Capítulo 19
 
 ### 19:1
 
-Visión sobre Egipto: He aquí que Jehová viene sobre una nube liviana y vendrá a Egipto; y los ídolos de Egipto se asombrarán ante él, y el corazón de Egipto se derramará dentro de él.
+Carga de Egipto. He aquí Jehová cabalgando sobre nube ligera, y viene a Egipto, y se moverán ídolos de Egipto de sus faces, y corazón de Egipto se derretirá en su seno.
 
 ### 19:2
 
-Y haré tambalear a Egipto en medio de Egipto, y cada uno luchará contra su hermano y cada uno contra su vecino; ciudad contra ciudad, reino contra reino.
+Y revolveré Egipto en Egipto, y pelearán varón en su hermano, y varón en su compañero, ciudad en ciudad, reino en reino.
 
 ### 19:3
 
-Y se secará el espírituve Egipto en medio de él, y su consejo será confuso; y buscarán a los ídolos y a los encantadores, a los hechiceros y a los adivinos.
+Y se vaciará espíritu de Egipto en su seno, y su consejo tragaré, y buscarán a los ídolos y a los susurradores y a los evocadores y a los adivinos.
 
 ### 19:4
 
@@ -1459,11 +1485,11 @@ Y castigaré a Egipto con la mano de sus señores duros, y un rey fuerte los dom
 
 ### 19:5
 
-Y beberán agua del mar, y el río se secará y se volverá enjuto.
+Y se agotarán aguas del mar, y río se secará y se secará.
 
 ### 19:6
 
-Y se secarán los ríos, y se secarán los cañaverales y los juncos se secarán.
+Y hederán ríos; se empobrecerán y se secarán Yeores de Matsor; caña y junco se marchitarán.
 
 ### 19:7
 
@@ -1471,7 +1497,7 @@ Los pescadores sobre el río, sobre su orilla, y todo sembrador de semillas sobr
 
 ### 19:8
 
-Y nosotros los pescadores, y todos los que lanzan anzuelos sobre el río, y los que extienden redes sobre las aguas, se desvanecerán.
+Y gemirán los pescadores, y se enlutarán todos los que echan en Yeor anzuelo, y los que extienden red sobre faces de aguas se debilitarán.
 
 ### 19:9
 
@@ -1479,23 +1505,23 @@ Y se avergonzarán los que tejen telas de seda y de lana, y los que tejen redes.
 
 ### 19:10
 
-Y serán humillados los que tejen telas de lana, y todos los que hacen trampas serán afligidos.
+Y serán sus fundamentos aplastados; todos hacedores de salario, estanques de alma.
 
 ### 19:11
 
-Pero los necios, los jefes de Zoán, los sabios consejeros de Faraón, su consejo es vano. ¿Cómo dirán a Faraón: Somos hijos de sabios, somos hijos de reyes antiguos?
+Ciertamente necios príncipes de Zoán; sabios de consejeros de Faraón, consejo embrutecido. ¿Cómo dirán ustedes a Faraón: Hijo de sabios yo, hijo de reyes de antiguo?
 
 ### 19:12
 
-¿Acaso son sabios, pues, tus consejeros, oh Faraón, para decirte: Consultemos ahora, y sepamos qué responde Jehová de los ejércitos acerca de Egipto?
+¿Dónde ellos, pues, tus sabios? Y anuncien ahora a ti, y sepan qué aconsejó Jehová de ejércitos sobre Egipto.
 
 ### 19:13
 
-Se avergonzarán los jefes de Zoán, se humillarán los jefes de Nof, y Egipto hará confusión, porque ha confiado en vano.
+Se entontecieron príncipes de Zoán, fueron engañados príncipes de Nof; extraviaron a Egipto, ángulo de sus tribus.
 
 ### 19:14
 
-Jehová ha echado en el interior de Egipto un espíritu de torpeza, y Egipto hará confusión en todas sus obras, como el borracho en su vómito.
+Jehová mezcló en su seno espíritu de mareos, y extraviaron a Egipto en toda su obra, como se extravía borracho en su vómito.
 
 ### 19:15
 
@@ -1503,35 +1529,35 @@ Y no habrá obra en Egipto que haga el principio y el fin, que sea una vara y un
 
 ### 19:16
 
-En aquel día será Egipto como una mujer; y temblará y se espantará por la turbación de la mano de Jehová de los ejércitos, que agita sobre ellos.
+En el día aquel será Egipto como las mujeres, y temblará y temerá de faces de vaivén de mano de Jehová de ejércitos, que él menea sobre él.
 
 ### 19:17
 
-Y será la tierra de Judá para Egipto por santuario; y todo el que invocare a su nombre de ella, temerá por la conseja de Jehová de los ejércitos, que él la aconseja.
+Y será suelo de Judá a Egipto para temblor; todo el que la mencione a él temerá, de faces de consejo de Jehová de ejércitos, que él aconseja sobre él.
 
 ### 19:18
 
-En aquel día habrá cinco ciudades en tierra de Egipto que hablen lengua de Canaán y jurarán por Jehová de los ejércitos; una ciudad será llamada la ciudad de la destrucción.
+En el día aquel serán cinco ciudades en tierra de Egipto hablantes labio de Canaán, y jurantes a Jehová de ejércitos; Ciudad del Derribo será dicha a una.
 
 ### 19:19
 
-En aquel día habrá un altar para Jehová en medio de tierra de Egipto, y un monumento junto a su frontera para Jehová.
+En el día aquel habrá altar a Jehová en medio de tierra de Egipto, y estela junto a su límite a Jehová.
 
 ### 19:20
 
-Y será por señal y por testimonio a Jehová de los ejércitos en tierra de Egipto; porque invocarán a Jehová por causa de los que los oprimen, y él les enviará un salvador y un gran príncipe, y los librarán.
+Y será para señal y para testigo a Jehová de ejércitos en tierra de Egipto, porque clamarán a Jehová de faces de opresores, y enviará a ellos salvador y contendedor, y los librará.
 
 ### 19:21
 
-Y conocerá Jehová a Egipto, y Egipto conocerá a Jehová en aquel día, y servirá Egipto con sacrificio y ofrenda, y hará votos y pagará.
+Y será conocido Jehová a Egipto, y conocerán Egipto a Jehová en el día aquel, y servirán sacrificio y ofrenda, y votarán voto a Jehová, y pagarán.
 
 ### 19:22
 
-Y castigará Jehová a Egipto, castigará y sanará; y volverán a Jehová, y se conmoverá por ellos, y los sanará.
+Y herirá Jehová a Egipto, hiriendo y sanando, y volverán hasta Jehová, y será rogado a ellos, y los sanará.
 
 ### 19:23
 
-En aquel día habrá una carretera desde Egipto hasta Asiria, y los asirios entrarán en Egipto y los egipcios en Asiria, y los egipcios servirán a los asirios.
+En el día aquel habrá calzada de Egipto a Asiria, y vendrá Asiria en Egipto y Egipto en Asiria, y servirán Egipto a Asiria.
 
 ### 19:24
 
@@ -1539,13 +1565,14 @@ En aquel día, Israel será el tercero entre Egipto y Asiria, una bendición en 
 
 ### 19:25
 
-Porque el Señor de los ejércitos los bendecirá, diciendo: Bendito sea mi pueblo Egipto, obra de mis manos Asiria, y heredad mía Israel.
+que lo bendijo Jehová de ejércitos, diciendo: Bendito mi pueblo Egipto, y obra de mis manos Asiria, y mi heredad Israel.
+
 
 ## Capítulo 20
 
 ### 20:1
 
-En el año en que vino Tartero a Asdod, envió Sargón, rey de Asiria, contra él, y luchó contra Asdod y la capturó.
+En año de venir Tartán a Ashdod, al enviarlo Sargón rey de Asiria, y peleó en Ashdod y la tomó,
 
 ### 20:2
 
@@ -1553,37 +1580,38 @@ En aquel tiempo habló el Señor por Isaías, hijo de Amoz, diciendo: Ve y desat
 
 ### 20:3
 
-Y dijo el Señor: Como mi siervo Isaías ha andado desnudo y descalzo tres años como señal y milagro para Egipto y para Etiopía.
+Y dijo Jehová: Como anduvo mi siervo Isaías desnudo y descalzo tres años, señal y prodigio sobre Egipto y sobre Kush,
 
 ### 20:4
 
-Así hará el rey de Asiria con el cautivo de Egipto y con el destierro de Etiopía, tanto a jóvenes como a ancianos, desnudos y descalzos; y la vergüenza de Egipto será descubierta.
+así conducirá rey de Asiria el cautiverio de Egipto y la deportación de Kush, mozos y ancianos, desnudo y descalzo, y descubiertas nalgas, desnudez de Egipto.
 
 ### 20:5
 
-Y se avergonzarán y se confundirán, tanto por su vista de Etiopía como por su gloria de Egipto.
+Y se desalentarán y se avergonzarán de Kush su expectativa, y de Egipto su orgullo.
 
 ### 20:6
 
-Y dirá el que habita en la isla: He aquí que así es nuestra vista, a la cual nos hemos confiado para ayudarnos y para librarnos de la mano del rey de Asiria, y ¿cómo podremos librarnos?
+Y dirá morador de esta costa en el día aquel: He aquí así nuestra expectativa, a donde huimos allá para ayuda, para ser librados de faces de rey de Asiria; y ¿cómo escaparemos nosotros?
+
 
 ## Capítulo 21
 
 ### 21:1
 
-Visión acerca del desierto de la mar: como nubes de la llanura del sur, viene de un desierto, de una tierra terrible.
+Carga de desierto de mar. Como tempestades en el Neguev para pasar, desde desierto viene, de tierra temible.
 
 ### 21:2
 
-Se me ha anunciado una visión difícil: el que trae la mala nueva trae la mala nueva, y el que trae la mala nueva trae la mala nueva. Ali, sobre Elam, fortaleza de Madai, toda la angustia se ha callado.
+Visión dura fue anunciada a mí: el traidor traiciona, y el devastador devasta. Sube, Elam; cerca, Media; todo su gemido hice cesar.
 
 ### 21:3
 
-Por eso se llenaron mis costillas de espanto; los nervios me aferraron, como los nervios de una mujer que da a luz. Me avergüenzo al oírlo, me espanto al verlo.
+Por tanto se llenaron mis lomos de estremecimiento; dolores me asieron como dolores de la que da a luz; me torcí de oír, me aterroricé de ver.
 
 ### 21:4
 
-Se ha desviado mi corazón, la angustia me ha asaltado; he puesto la sombra de mi amado por temor.
+Erró mi corazón; horripilación me sobresaltó; el crepúsculo de mi deseo puso a mí para temblor.
 
 ### 21:5
 
@@ -1591,15 +1619,15 @@ Preparen la mesa, los que vigilan, coman y beban. Levántense, príncipes, ungan
 
 ### 21:6
 
-Porque así me ha dicho mi Señor: Ve y coloca al que vigila, que lo que vea, lo anuncie.
+Porque así dijo a mí Adonai: Anda, haz estar el atalaya, que vea, anunciará.
 
 ### 21:7
 
-Y vio un carro, un par de jinetes, un carro de asnos, un carro de camellos, y escuchó un gran ruido: ¡escucha!
+Y vio carro, yunta de jinetes, carro de asno, carro de camello, y atendió atención, mucha atención.
 
 ### 21:8
 
-Y llamó león: sobre la vigilancia de mi Señor estoy de pie día y noche, y sobre mi guardia estoy de pie toda la noche.
+Y gritó: León. Sobre atalaya, Adonai, yo estoy de pie siempre de día, y sobre mi guardia yo estoy apostado todas las noches.
 
 ### 21:9
 
@@ -1607,15 +1635,15 @@ Y he aquí viene un carro de un hombre, un par de jinetes, y respondió y dijo: 
 
 ### 21:10
 
-Medio deshecho y el fruto de mi vientre, que he oído de Jehová de los ejércitos, el Dios de Israel, he declarado a vosotros.
+Mi trillada y hijo de mi era, lo que oí de Jehová de ejércitos, Dios de Israel, anuncié a ustedes.
 
 ### 21:11
 
-Oráculo de Dumah: Me llama de Seir: ¿Qué es la noche? ¿Qué es la noche?
+Carga de Duma. A mí llama desde Seir: Guardián, ¿qué de la noche? Guardián, ¿qué de la noche?
 
 ### 21:12
 
-Dice el que vigila: Ahora es la mañana y también la noche; si os preguntáis, preguntad; volved, volved.
+Dijo guardián: Vino mañana, y también noche. Si inquieren ustedes, inquieran; vuelvan, vengan.
 
 ### 21:13
 
@@ -1627,57 +1655,58 @@ Para los sedientos, dadles agua, los que habitáis en la tierra del Sur, dadles 
 
 ### 21:15
 
-Porque de la desolación huyen, de la espada quebrada, de la flecha quebrada, y de la carga pesada de la guerra.
+Porque de faces de espadas huyeron, de faces de espada desenvainada, y de faces de arco tensado, y de faces de peso de guerra.
 
 ### 21:16
 
-Porque así ha dicho el Señor a mí: En un año como el de los jornaleros, y al cabo de dos años, toda la gloria de Quedar será acabada.
+Porque así dijo Adonai a mí: Aún un año como años de jornalero, y se acabará toda gloria de Cedar.
 
 ### 21:17
 
-Y el resto del número de los arqueros, los valientes de los hijos de Quedar, será poco, porque el Señor Dios de Israel ha hablado.
+Y resto de número de arco de valientes de hijos de Cedar disminuirán, porque Jehová Dios de Israel habló.
+
 
 ## Capítulo 22
 
 ### 22:1
 
-Predicción del valle de visión: ¿Qué pasa ahora que subes a las azoteas en toda la ciudad?
+Carga de valle de visión. ¿Qué a ti, pues, que subiste toda tú a los techos?
 
 ### 22:2
 
-Ciudad llena de voces, ciudad bulliciosa, ciudad alegre. Tus muertos no son muertos de espada, ni tus caídos de batalla.
+Llena de alborotos, ciudad ruidosa, villa alegre; tus heridos no heridos de espada, y no muertos de guerra.
 
 ### 22:3
 
-Todos tus oficiales se han ido juntos, desde el arco han sido llevados cautivos; todos los que han sido hallados han sido llevados cautivos juntos, desde lejos han huido.
+Todos tus jefes huyeron juntos; de arco fueron atados; todos tus hallados fueron atados juntos; de lejos huyeron.
 
 ### 22:4
 
-Por eso he dicho: Llorad con amargura, no me consoléis, porque la destrucción de la hija de mi pueblo ha llegado.
+Por tanto dije: Apártense ustedes de mí; amargaré en el llanto. No apremien ustedes a consolarme sobre devastación de hija de mi pueblo.
 
 ### 22:5
 
-Porque el día de confusión y de caída y de destrucción para el Señor Jehová de los ejércitos en el valle de visión, en el monte y en la torre y en el muro.
+Porque día de tumulto y de pisoteo y de confusión a Adonai Jehová de ejércitos en valle de visión; derribando muro, y grito al monte.
 
 ### 22:6
 
-Y Elam ha llevado la ceniza en el carro y en el caballo, y Kir ha desplegado la bandera.
+Y Elam alzó aljaba, en carro de hombre, jinetes, y Kir descubrió escudo.
 
 ### 22:7
 
-Y ha habido elección de las llanuras, llenas de carros, y los jinetes han dormido en el día de la guardia.
+Y fue: lo escogido de tus valles se llenó de carro, y los jinetes poniendo pusieron hacia la puerta.
 
 ### 22:8
 
-Y ha desvelado el muro de Judá, y en aquel día ha mirado hacia el arsenal en el bosque.
+Y descubrió el velo de Judá, y miraste en el día aquel hacia armadura de casa del bosque.
 
 ### 22:9
 
-Y también habéis visto las brechas de la ciudad de David, que son muchas, y habéis recogido el agua de la cisterna baja.
+Y las brechas de ciudad de David vieron ustedes que se multiplicaron, y juntaron ustedes las aguas de la alberca la inferior.
 
 ### 22:10
 
-Y también habéis contado las casas de Jerusalén, y habéis dividido las casas para fortificar la muralla.
+Y las casas de Jerusalén contaron ustedes, y derribaron ustedes las casas para fortificar el muro.
 
 ### 22:11
 
@@ -1685,15 +1714,15 @@ Y habéis hecho un estanque entre las murallas, para el agua de la cisterna viej
 
 ### 22:12
 
-Y el Señor de los ejércitos clamará en aquel día por llanto, por lamento, por penitencia y por vestido de saco.
+Y llamó Adonai Jehová de ejércitos en el día aquel a llanto y a endecha y a rapadura y a ceñir saco.
 
 ### 22:13
 
-Y he aquí, gozo y alegría, matan bueyes, sacrifican ovejas, comen carne y beben vino, comen y beben, porque mañana moriremos.
+Y he aquí gozo y alegría, matar ganado y degollar oveja, comer carne y beber vino: comer y beber, porque mañana moriremos.
 
 ### 22:14
 
-Y se me reveló en mis oídos el Señor de los ejércitos: ¿Será perdonado este pecado vuestro hasta que muráis? dice el Señor de los ejércitos.
+Y se descubrió en mis oídos Jehová de ejércitos: Si será expiada esta iniquidad a ustedes hasta que mueran ustedes, dijo Adonai Jehová de ejércitos.
 
 ### 22:15
 
@@ -1701,27 +1730,27 @@ Así ha dicho el Señor de los ejércitos: Ve, entra en el consistorio, a Semaí
 
 ### 22:16
 
-¿Qué tienes tú aquí y quién te ha dado a ti aquí, que has cavado para ti aquí un sepulcro? Cavas sepulcro en lo alto y grabas tu morada en la roca.
+¿Qué a ti aquí, y quién a ti aquí, que excavaste para ti aquí sepulcro, excavando en altura su sepulcro, cincelando en la peña morada para él?
 
 ### 22:17
 
-He aquí que el Señor te moverá con la mano, moverá un hombre, y te despojará de tu manto, despojará un hombre.
+He aquí Jehová te zarandea zarandeo de varón, y te envuelve envolviendo.
 
 ### 22:18
 
-Encogerás tu cuello como un cesto, a tierra de anchura de manos, allí morirás y allí tu carroza de gloria será confusión, casa de tu señor.
+Enrollando te enrollará enrolladura como pelota a tierra ancha de manos; allá morirás, y allá carros de tu gloria, afrenta de casa de tus señores.
 
 ### 22:19
 
-Y te apartaré de tu puesto y de tu estación te derribará.
+Y te empujaré de tu puesto, y de tu estación te derribará.
 
 ### 22:20
 
-Y en aquel día llamaré a mi siervo, a Elías hijo de Hilquías.
+Y será en el día aquel, y llamaré a mi siervo, a Eliaquim hijo de Hilcías.
 
 ### 22:21
 
-Y vestiré a él tu túnica y tu cinto le ataré, y tu gobierno pondré en su mano, y será padre a los habitantes de Jerusalén y a la casa de Judá.
+Y lo vestiré tu túnica, y tu cíngulo lo afirmaré, y tu señorío daré en su mano, y será para padre a morador de Jerusalén y a casa de Judá.
 
 ### 22:22
 
@@ -1733,37 +1762,38 @@ Y clavaré un clavo en un lugar seguro, y será un trono de gloria para la casa 
 
 ### 22:24
 
-Y colgarán sobre mí todo el esplendor de la casa de mi padre, los descendientes y los pájaros, todos los instrumentos pequeños, desde los grandes hasta todos los instrumentos de los címbalos.
+Y colgarán sobre él toda gloria de casa de su padre, los retoños y las ramificaciones, todos utensilios de lo pequeño, de utensilios de las tazas y hasta todos utensilios de los cántaros.
 
 ### 22:25
 
-En aquel día, dice el Señor de los ejércitos, el clavo clavado en un lugar seguro se desgastará y caerá, y se romperá el peso que lleva, porque el Señor ha hablado.
+En el día aquel, dicho de Jehová de ejércitos, se moverá el clavo hincado en lugar fiel, y será cortado y caerá, y será cortada la carga que sobre él, porque Jehová habló.
+
 
 ## Capítulo 23
 
 ### 23:1
 
-Profetía contra Tiro. ¡Oh, naves de Tarshish, se ha robado de tu casa, de tu fortaleza, desde la tierra de los Quitas, y se ha revelado a ellos!
+Carga de Tiro. Giman, naves de Tarsis, porque fue devastada de casa, de entrada; de tierra de Quitim fue descubierto a ellos.
 
 ### 23:2
 
-Los habitantes de Egipto son como mercaderes de Tiro, que cruzan el mar y llenan sus almacenes.
+Callen ustedes, moradores de costa; mercader de Sidón, cruzando mar, te llenaron.
 
 ### 23:3
 
-Y en aguas profundas sembrarás semillas negras, cosecharás la hierba del Nilo, y será comercio para las naciones.
+Y en aguas muchas simiente de Sihor, cosecha de Yeor, su renta, y fue comercio de naciones.
 
 ### 23:4
 
-Se avergüenza Tiro, porque ha dicho: El mar es mi fortaleza, diciendo: No he dado a luz, no he parido, no he criado jóvenes, no he elevado vírgenes.
+Avergüénzate, Sidón, porque dijo mar, plaza fuerte del mar, diciendo: No tuve dolores, y no di a luz, y no crié mancebos, ensalcé vírgenes.
 
 ### 23:5
 
-Como oyeron a Egipto, se alegrarán los de Tiro al oír a Tiro.
+Como oído a Egipto, se dolerán como oído de Tiro.
 
 ### 23:6
 
-Pasad a Tarshish, ¡oh, habitantes de Egipto! ¡Oh, habitantes de Egipto, llorad por Tiro!
+Pasen ustedes a Tarsis; giman, moradores de costa.
 
 ### 23:7
 
@@ -1771,39 +1801,39 @@ Pasad a Tarshish, ¡oh, habitantes de Egipto! ¡Oh, habitantes de Egipto, llorad
 
 ### 23:8
 
-¿Quién ha aconsejado esto a Tiro, la perfumada, cuyos mercaderes son príncipes, cuyos comerciantes son los nobles de la tierra?
+¿Quién aconsejó esto sobre Tiro la coronadora, cuyos mercaderes príncipes, sus cananeos honrados de tierra?
 
 ### 23:9
 
-El Señor de los ejércitos ha aconsejado para destruir la gloria de toda la tierra, para humillar a todos los nobles de la tierra.
+Jehová de ejércitos la aconsejó, para profanar orgullo de toda hermosura, para aligerar todos honrados de tierra.
 
 ### 23:10
 
-Tu tierra, oh Sidonia, es como el Nilo, oh Tarshish; ya no hay comercio.
+Pasa tu tierra como Yeor, hija de Tarsis; no hay ceñidor aún.
 
 ### 23:11
 
-Su mano se extendió sobre el mar, agitó a las naciones; Jehová ordenó a Canaán destruir sus fortalezas.
+Su mano extendió sobre el mar, hizo temblar reinos; Jehová mandó a Canaán para destruir sus plazas fuertes.
 
 ### 23:12
 
-No te gloriarás más, oh Sidonia; la virgen de la nación de Sidón, levántate, pasa; allí tampoco tendrás descanso.
+Y dijo: No añadirás aún a exultar, oprimida, virgen hija de Sidón; levántate, pasa; también allá no hay reposo para ti.
 
 ### 23:13
 
-Mira la tierra de los caldeos; este pueblo no existía; Asiria fundóla para los sidonios; levantaron fortalezas para caer.
+He aquí tierra de caldeos; este el pueblo no fue; Asiria la fundó para criaturas del desierto; levantaron, despertaron sus palacios, la puso para ruina.
 
 ### 23:14
 
-Lamenten, oh navíos de Tarshish, porque han sido saqueadas tus fortalezas.
+Lamenten, oh navíos de Tarsis, porque han sido saqueadas tus fortalezas.
 
 ### 23:15
 
-Y en aquel día olvidará Tiro setenta años, según el tiempo de un rey; al cabo de setenta años Tiro cantará como una prostituta.
+Y será en el día aquel, y será olvidada Tiro setenta año, como días de rey uno; desde cabo de setenta año será a Tiro como cántico de la ramera.
 
 ### 23:16
 
-Toma laúd, camina ciudad de la prostituta olvidada; haz música, canta muchos cantos para que seas recordada.
+Toma cítara, rodea ciudad, ramera olvidada; haz bien tañer, multiplica cántico, a fin de que seas recordada.
 
 ### 23:17
 
@@ -1815,53 +1845,56 @@ Y será su comercio y sus ganancias santas a Jehová; no se guardarán ni se acu
 
 ## Capítulo 24
 
+
+## Capítulo 24
+
 ### 24:1
 
 Mira, Jehová vacía la tierra y despoja, y se doblará la faz, y dispersará a los habitantes.
 
 ### 24:2
 
-Y será como el pueblo, como el sacerdote; como el siervo, como su señor; como la sierva, como su señora; como el comprador, como el vendedor; como el acreedor, como el deudor; como el que da en préstamo, como el que toma en préstamo.
+Y será como el pueblo como el sacerdote, como el siervo como sus señores, como la sierva como su señora, como el comprador como el vendedor, como el prestamista como el prestatario, como el acreedor como aquel a quien debe en él.
 
 ### 24:3
 
-Vacía será vaciada la tierra, y despojada será despojada; porque Jehová ha hablado esta palabra.
+Vaciando será vaciada la tierra, y saqueando será saqueada, porque Jehová habló esta palabra.
 
 ### 24:4
 
-Se afligirá la tierra, se desolará la tierra; se desolará la ciudad, se desolará la tierra; se desolará la gente de la tierra.
+Enlutó, se marchitó la tierra; se debilitó, se marchitó el mundo; se debilitaron altura de pueblo de la tierra.
 
 ### 24:5
 
-Y la tierra será desolada bajo sus habitantes, porque han transgredido la ley, han cambiado la alianza eterna.
+Y la tierra se profanó bajo sus moradores, porque traspasaron torot, pasaron estatuto, rompieron pacto de siempre.
 
 ### 24:6
 
-Por eso la tierra será maldita, y sus habitantes se consumirán; por eso se quemarán sus habitantes, y quedarán pocos hombres.
+Por tanto maldición comió tierra, y se hicieron culpables moradores en ella; por tanto se quemaron moradores de tierra, y quedó hombre de poco.
 
 ### 24:7
 
-Se desolará el vino, se desolará la vid; los que se alegran en el corazón se lamentarán.
+Enlutó mosto, se debilitó vid; gimieron todos alegres de corazón.
 
 ### 24:8
 
-Se acabará la alegría de los tamboriles, se callará el alboroto de los festivos, se acabará la alegría de los arpas.
+Cesó alegría de panderos, cesó estruendo de alegres, cesó alegría de cítara.
 
 ### 24:9
 
-En el canto no beberán vino; los que beben vino se quejarán de la bebida.
+Con el cántico no beberán vino; amargará sidra a sus bebedores.
 
 ### 24:10
 
-Se romperá la ciudad desolada, se cerrará toda casa para que nadie entre.
+Fue quebrada villa de vacío; fue cerrado todo casa de entrar.
 
 ### 24:11
 
-Gritará en la calle por el vino, toda alegría se acabará, se desvanecerá la alegría de la tierra.
+Alarido sobre el vino en las calles; se oscureció toda alegría; se desterró gozo de la tierra.
 
 ### 24:12
 
-Quedará en la ciudad un hombre que maldice, y el que le responde será herido en la puerta.
+Quedó en la ciudad desolación, y ruina será golpeada puerta.
 
 ### 24:13
 
@@ -1869,27 +1902,27 @@ Porque así será en medio de la tierra, en medio de los pueblos, como quien pis
 
 ### 24:14
 
-Entonces alzarán su voz, cantarán en alta voz, se alegrarán en el Señor desde el mar.
+Ellos alzarán su voz, gritarán; en orgullo de Jehová relincharon desde mar.
 
 ### 24:15
 
-Por eso bendecirán al Señor en Ur, en las islas del mar, el nombre del Señor, el Dios de Israel.
+Por tanto en las luces honren ustedes a Jehová; en islas del mar nombre de Jehová Dios de Israel.
 
 ### 24:16
 
-Desde la punta de la tierra hemos oído cánticos: ¡Zabí para el justo! Y he dicho: Es un secreto, es un secreto, ¡ay de mí! Los traidores han traicionado, los traidores han traicionado.
+Desde ala de la tierra cánticos oímos, hermosura al justo. Y dije: Flaqueza a mí, flaqueza a mí, ¡ay a mí! Traidores traicionaron, y traición de traidores traicionaron.
 
 ### 24:17
 
-Terror y temor y angustia sobre los que habitan la tierra.
+Pavor y fosa y lazo sobre ti, morador de la tierra.
 
 ### 24:18
 
-Y el que huye del sonido del terror caerá en la trampa, y el que sube de la trampa será atrapado en la red, porque las trampas desde lo alto se han abierto, y tiemlica la tierra.
+Y será: el que huye de voz del pavor caerá a la fosa, y el que sube de en medio de la fosa será prendido en el lazo, porque ventanas desde altura fueron abiertas, y se estremecieron fundamentos de tierra.
 
 ### 24:19
 
-La tierra se estremece, la tierra se desgarra, la tierra se tambalea.
+Quebrantando se quebró la tierra; rajando se rajó tierra; tambaleando se tambaleó tierra.
 
 ### 24:20
 
@@ -1897,25 +1930,26 @@ La tierra se moverá como un borracho, y se tambaleará como una cama de campañ
 
 ### 24:21
 
-Y en aquel día el Señor enviará a su ejército al cielo, y a los reyes de la tierra en la tierra.
+Y será en el día aquel: visitará Jehová sobre ejército de la altura en la altura, y sobre reyes del suelo sobre el suelo.
 
 ### 24:22
 
-Y serán recogidos en una recogida, aprisionados en una prisión, y después de muchos días serán castigados.
+Y serán reunidos reunión de preso sobre foso, y serán cerrados sobre encierro, y desde muchedumbre de días serán visitados.
 
 ### 24:23
 
-Y la luna se avergonzará, y el sol se humillará, porque el Señor de los ejércitos reinará en el monte Sion y en Jerusalén, y ante sus ancianos será gloria.
+Y se sonrojará la luna, y se avergonzará el sol, porque reinó Jehová de ejércitos en monte Sión y en Jerusalén, y delante de sus ancianos gloria.
+
 
 ## Capítulo 25
 
 ### 25:1
 
-Señor, Dios mío, tú eres mi refugio, te alabo, te bendigo por tu nombre, porque has hecho maravillas, consejos de lejos son fidelidad, sí.
+Jehová, Dios mío, tú; te ensalzaré, alabaré tu nombre, porque hiciste maravilla: consejos desde lejos, fidelidad, verdad.
 
 ### 25:2
 
-Porque has puesto la ciudad como un montón de ruinas, la ciudad fortificada como un montón de ruinas, la ciudad de los extranjeros será abandonada para siempre, no será edificada.
+Porque pusiste de ciudad a montón, ciudad fortificada a ruina; palacio de extraños de ciudad; para siempre no será edificado.
 
 ### 25:3
 
@@ -1923,15 +1957,15 @@ Por eso te honrarán los pueblos fuertes, la ciudad de los pueblos violentos te 
 
 ### 25:4
 
-Porque has sido un refugio para el pobre, un refugio para el necesitado, un refugio en la angustia, un sombra de tormenta, un refugio del calor; porque el aliento de los violentos es como tormenta, como pared de arena.
+Porque fuiste fortaleza al pobre, fortaleza al menesteroso en aprieto a él, refugio de aguacero, sombra de calor, porque soplo de violentos como aguacero de muro.
 
 ### 25:5
 
-Como calentura en Sion, como sombra de tormenta en una nube, como voz de violentos, como pared de arena, la voz de los violentos hará cesar la voz de los extranjeros.
+Como calor en sequedal, estruendo de extraños abatirás; calor en sombra de nube, cántico de violentos responderá.
 
 ### 25:6
 
-Hará Jehová de los ejércitos en el monte de Sion y en Jerusalén un festín de vino y de leche, un festín de vino refinado y de leche pura.
+Y hará Jehová de ejércitos a todos los pueblos en este monte banquete de gorduras, banquete de lías, gorduras de tuétanos, lías filtradas.
 
 ### 25:7
 
@@ -1939,23 +1973,24 @@ Y comerá en el monte de Sion y en Jerusalén lo que queda de los lodos y los lo
 
 ### 25:8
 
-Devorará la muerte para siempre, y Jehová Dios limpiará la lágrima de toda cara, y la afrenta de su pueblo apartará de toda la tierra, porque Jehová ha hablado.
+Tragó la muerte para siempre, y enjugará Adonai Jehová lágrima de sobre todos faces, y afrenta de su pueblo quitará de sobre toda la tierra, porque Jehová habló.
 
 ### 25:9
 
-Y en aquel día se dirá: He aquí nuestro Dios, por el cual esperábamos, para que nos salvara: este es Jehová, por el cual esperábamos, nos alegraremos y nos gozaremos en su salvación.
+Y dirá en aquel día: He aquí, nuestro Dios este; esperamos a él, y nos salvará; este Jehová; esperamos a él; gocemos y alegrémonos en su salvación.
 
 ### 25:10
 
-Porque la mano de Jehová reposará en el monte de Sion, y Moab será pisado en su lugar, como el estiércol pisado en la calle.
+Porque reposará mano de Jehová en este monte, y será trillado Moav debajo de él como trilladura de paja de estercolero.
 
 ### 25:11
 
-Y extenderá sus manos como el que extiende el cordero para matarlo, y humillará su soberbia con la multitud de sus manos.
+Y extenderá sus manos en medio de él como extiende el nadador para nadar, y abatirá su altivez con acechanzas de sus manos.
 
 ### 25:12
 
-Y el baluarte de la fortaleza de tus muros será abatido, y será echado al suelo, hasta el polvo.
+Y fortaleza de altura de tus muros abatió, humilló, hizo llegar a la tierra hasta polvo.
+
 
 ## Capítulo 26
 
@@ -1965,27 +2000,27 @@ En aquel día se cantará este cántico en la tierra de Judá: Ciudad de fortale
 
 ### 26:2
 
-Abrirán las puertas, y entrará la nación justa, la que guarda la fe.
+Abran puertas, y entre nación justa, guardadora de fidelidades.
 
 ### 26:3
 
-Preparará tu trabajo cercano, y te dará paz, paz, porque en ti confiarás.
+Formación apoyada guardarás, paz, paz, porque en ti confiado.
 
 ### 26:4
 
-Confiad en Jehová para siempre, porque Jehová es un roca eterna.
+Confíen en Jehová hasta perpetuidad, porque en Yah Jehová, Roca de siglos.
 
 ### 26:5
 
-Porque el que habita en lo alto, la ciudad fortificada, hará descenderla hasta la tierra; la hundirá hasta el polvo.
+Porque abatió a moradores de altura, ciudad encumbrada; la humillará, la humillará hasta tierra, la hará llegar hasta polvo.
 
 ### 26:6
 
-La pisará el pie; los pasos del pobre y del necesitado.
+La pisará pie, pies de afligido, pisadas de pobres.
 
 ### 26:7
 
-El camino del justo es derecho; el sendero del justo es recto.
+Senda al justo, derechuras; recto, carril de justo, nivelas.
 
 ### 26:8
 
@@ -1997,51 +2032,52 @@ Mi alma te anhela de noche; también mi espírituve en mí te busca. Porque tus 
 
 ### 26:10
 
-El impío se corrompe, no aprende la justicia; en la tierra recta se corrompe, y no ve la gloria de Jehová.
+Sea agraciado el impío, no aprendió justicia; en tierra de derechuras pervertirá, y no verá alteza de Jehová.
 
 ### 26:11
 
-Jehová alza la mano; no la verán los impíos; verán y se avergonzarán; la envidia del pueblo será consumida por el fuego de tus enemigos.
+Jehová, se alzó tu mano, no verán; verán y se avergonzarán, celo de pueblo; también fuego de tus adversarios los comerá.
 
 ### 26:12
 
-Jehová, tú das paz a nosotros, porque has hecho todo lo que hemos hecho.
+Jehová, pondrás paz a nosotros, porque también todas nuestras obras obraste a nosotros.
 
 ### 26:13
 
-Jehová, nuestro Dios, nos has dominado; no tenemos otro señor que tú; en ti solos recordamos tu nombre.
+Jehová, Dios nuestro, señorearon sobre nosotros señores fuera de ti; solo en ti recordaremos tu nombre.
 
 ### 26:14
 
-Los muertos no vivirán, los sombríos no se levantarán; por eso tú los visitaste y los destruiste, y has hecho desaparecer toda memoria de ellos.
+Muertos no vivirán, refaim no se levantarán; por tanto visitaste y los destruiste, y hiciste perecer todo recuerdo a ellos.
 
 ### 26:15
 
-Has aumentado al pueblo, Señor; has aumentado al pueblo, te has engrandecido; has alejado a todos los confines de la tierra.
+Añadiste a la nación, Jehová, añadiste a la nación; fuiste honrado; alejaste todos confines de tierra.
 
 ### 26:16
 
-En la adversidad, Jehová te visita; tu castigo es un susurro; tu enseñanza es para ellos.
+Jehová, en el aprieto te visitaron; derramaron susurro, tu disciplina a ellos.
 
 ### 26:17
 
-Como una mujer que está a punto de dar a luz, que se retuerce y grita en el parto, así hemos estado delante de ti, Señor.
+Como preñada acerca para dar a luz, se retuerce, grita en sus dolores; así fuimos de tus faces, Jehová.
 
 ### 26:18
 
-Nos han herido, nos han oprimido; como si hubiéramos dado a luz un espíritu, no hemos tenido tierra; no hemos visto a los habitantes del mundo.
+Concebimos, tuvimos dolores, como dimos a luz viento; salvaciones no hicimos tierra, y no cayeron moradores de mundo.
 
 ### 26:19
 
-Vivan tus muertos, tus cadáveres, resuciten y canten, habitantes de la tierra, porque tu rocío será como la luz, y la tierra dará a luz a los muertos.
+Vivirán tus muertos, mi cadáver se levantarán; despierten y canten, moradores de polvo, porque rocío de luces tu rocío, y tierra refaim hará caer.
 
 ### 26:20
 
-Vete, pueblo mío, entra en tus habitaciones y cierra tus puertas tras de ti; escondete por un momento hasta que pase la ira.
+Ve, pueblo mío, entra en tus aposentos, y cierra tras de ti; escóndete como poco momento hasta furor.
 
 ### 26:21
 
-Porque he aquí que el Señor sale de su lugar para castigar el pecado de los habitantes de la tierra; y la tierra revelará su sangre, y ya no cubrirá a los asesinados.
+Porque he aquí Jehová sale de su lugar para visitar iniquidad de morador de la tierra sobre él, y descubrirá la tierra sus sangres, y no cubrirá más sobre sus muertos.
+
 
 ## Capítulo 27
 
@@ -2051,19 +2087,19 @@ En aquel día el Señor castigará con su espada afilada, grande y fuerte, a Lev
 
 ### 27:2
 
-En aquel día harán de un viñedo de deleite un campo de tristeza.
+En aquel día, viña de deleite, canten a ella.
 
 ### 27:3
 
-Yo, el Señor, lo guardo para momentos de sequía; para que no me castigue de noche y de día, lo guardo para mí.
+Yo Jehová la guardo; a momentos la regaré; no sea que visite sobre ella; noche y día la guardaré.
 
 ### 27:4
 
-No tengo ira; ¿quién me dará enemigos que luchen conmigo? Contra ellos lucharé y los consumiré juntos.
+Furor no hay a mí; ¿quién me dará espino, zarza en la guerra? Pasaré en ella, la prenderé juntamente.
 
 ### 27:5
 
-O que se apoye en mi fortaleza, hará paz conmigo; hará paz conmigo.
+O se aferrará en mi fortaleza, hará paz a mí; paz hará a mí.
 
 ### 27:6
 
@@ -2071,7 +2107,7 @@ Los que vienen, plantarán a Jacob, brotarán y florecerán los israelitas, y ll
 
 ### 27:7
 
-Como la herida del que hiere, así le hiere; como el que mata, así es matado.
+¿Como herida de su heridor lo hirió? ¿O como matanza de sus muertos fue muerto?
 
 ### 27:8
 
@@ -2083,11 +2119,11 @@ Por eso, en esto se le perdonará a Jacob el pecado, y este será el fruto de la
 
 ### 27:10
 
-Porque la ciudad fortificada será desierta, la casa abandonada y vacía, como el desierto. Allí pastoreará el buey, allí descansará, y se consumirán sus ramas.
+Porque ciudad fortificada sola, morada enviada y abandonada como el desierto; allí pastará becerro, y allí se echará, y acabará sus ramajes.
 
 ### 27:11
 
-Se avergonzará de su cosecha, las mujeres se fatigarán de luz, y sus huellas serán como huellas de serpientes. Porque no es un pueblo de entendimiento, por eso el que lo hizo no tendrá misericordia de él, y el que lo formó no se apiadará de él.
+En secarse su cosecha serán quebradas; mujeres viniendo, alumbrándola; porque no pueblo de entendimientos es él; por tanto no lo compadecerá su hacedor, y su formador no le hará gracia.
 
 ### 27:12
 
@@ -2095,21 +2131,22 @@ Y en aquel día hará Jehová sonar el cuerno desde el torrente de Siboa hasta e
 
 ### 27:13
 
-Y en aquel día hará sonar el gran cuerno, y vendrán los que se habían perdido en la tierra de Asiria, y los que se habían dispersado en la tierra de Egipto, y adorarán a Jehová en el monte santo de Jerusalén.
+Y será en aquel día: será tocado en shofar grande, y vendrán los perdidos en tierra de Asiria y los empujados en tierra de Egipto, y se inclinarán a Jehová en el monte de la santidad en Jerusalén.
+
 
 ## Capítulo 28
 
 ### 28:1
 
-Ay, corona de gloria de los embriagados de Efraín, y adorno de florecimiento, ornamento de belleza, que está sobre la cabeza del valle de Siquem, embriagados de vino.
+¡Ay, corona de soberbia de borrachos de Efraín, y flor marchita, hermosura de su ornato, que sobre cabeza de valle de gorduras, heridos de vino!
 
 ### 28:2
 
-He aquí, es fuerte y valiente para Jehová, como la lluvia de granizo, como la lluvia de nieve, como la lluvia de aguas copiosas, que lavan la tierra en la mano.
+He aquí fuerte y recio al Adonai, como aguacero de granizo, tempestad de destrucción, como aguacero de aguas caudalosas inundantes; hizo reposar a la tierra con mano.
 
 ### 28:3
 
-Serán aplastados con los pies la corona de gloria de los embriagados de Efraín.
+Con los pies será pisoteada corona de soberbia de borrachos de Efraín.
 
 ### 28:4
 
@@ -2117,11 +2154,11 @@ Y será el adorno de florecimiento, ornamento de belleza, que está sobre la cab
 
 ### 28:5
 
-En aquel día será Jehová de los ejércitos corona de gloria y adorno de hermosura para el resto de su pueblo.
+En aquel día será Jehová de ejércitos para corona de hermosura y para diadema de ornato al resto de su pueblo,
 
 ### 28:6
 
-Y será espírituve justicia para el que se sienta en el juicio, y fortaleza para los que hacen la guerra, para los que pasan por las puertas.
+y para espíritu de juicio al que se sienta sobre el juicio, y para valentía a los que hacen volver guerra a puerta.
 
 ### 28:7
 
@@ -2129,7 +2166,7 @@ Y también en vino se tambalearán, y en cerveza se desviarán; el sacerdote y e
 
 ### 28:8
 
-Porque todas las mesas están llenas de vómito de inmundicia sin lugar.
+Porque todas mesas se llenaron de vómito, inmundicia; no hay lugar.
 
 ### 28:9
 
@@ -2137,19 +2174,19 @@ Porque todas las mesas están llenas de vómito de inmundicia sin lugar.
 
 ### 28:10
 
-Porque ordena a la ordenanza, ordena a la ordenanza, límite al límite, límite al límite; lo pequeño será pequeño, lo pequeño será pequeño.
+Porque precepto a precepto, precepto a precepto, cordel a cordel, cordel a cordel, poco allí, poco allí.
 
 ### 28:11
 
-Porque con lengua de mofa y con lengua extranjera hablará a este pueblo.
+Porque con tartamudeos de labio y con lengua otra hablará a este pueblo,
 
 ### 28:12
 
-Al que le dice: Esta es la tranquilidad, descansen los cansados, y esta es la reposición, y no quieren oír.
+que les dijo: Esta es el reposo, den reposo al cansado, y esta es el descanso; y no quisieron oír.
 
 ### 28:13
 
-Y será para ellos la palabra de Jehová: ordena a la ordenanza, ordena a la ordenanza, límite al límite, límite al límite; lo pequeño será pequeño, lo pequeño será pequeño, para que vayan y caigan atrás, y se rompan, y sean atrapados.
+Y será a ellos palabra de Jehová precepto a precepto, precepto a precepto, cordel a cordel, cordel a cordel, poco allí, poco allí, a fin de que anden y tropiecen atrás y sean quebrados y enredados y presos.
 
 ### 28:14
 
@@ -2169,7 +2206,7 @@ Y pondré juicio por línea, y justicia por nivel; y será un torrente de graniz
 
 ### 28:18
 
-Y será anulado vuestro pacto con la muerte, y vuestra visión con el Sheol no se levantará; el torrente, el torrente que pasa, y seréis para él para un saqueo.
+Y será cubierto su pacto de ustedes con muerte, y su visión de ustedes con Sheol no se levantará; azote inundante, porque pasará, y serán ustedes a él para pisoteo.
 
 ### 28:19
 
@@ -2177,23 +2214,23 @@ Por su paso os tomará, porque de mañana por la mañana pasa, de día y de noch
 
 ### 28:20
 
-Porque el cortador corta de lo que se extiende, y el que recoge se cansa de recoger.
+Porque se acortó el lecho de extenderse, y la cubierta estrecha al recogerse.
 
 ### 28:21
 
-Porque como un monte de brechas se levantará Jehová, como un valle en Betajón temblará para hacer obra extraña, obra que no ha hecho, y para obrar servicio extranjero, servicio que no ha obrado.
+Porque como monte Peratsim se levantará Jehová, como valle en Givón se agitará, para hacer su hecho, extraño su hecho, y para obrar su obra, extranjera su obra.
 
 ### 28:22
 
-Y ahora, no os burléis, para que no os hagan fuertes los que os sujetan, porque ha acabado y ha sido aclarado lo que he oído de Jehová de los ejércitos, para toda la tierra.
+Y ahora no se escarnezcan, no sea que se fortalezcan sus ataduras de ustedes; porque consumación y determinada oí de parte de Adonai Jehová de ejércitos sobre toda la tierra.
 
 ### 28:23
 
-Escuchad y oíd mi voz, prestad oídos y oíd mis palabras.
+Presten oído y oigan mi voz; atiendan y oigan mi dicho.
 
 ### 28:24
 
-¿Acaso todo el día el labrador labrará para sembrar, abrirá y deshará la tierra?
+¿Acaso todo el día arará el arador para sembrar? ¿Abrirá y rastrillará su tierra?
 
 ### 28:25
 
@@ -2201,11 +2238,11 @@ Escuchad y oíd mi voz, prestad oídos y oíd mis palabras.
 
 ### 28:26
 
-Y a su juicio le enseñará Dios.
+Y lo disciplina al juicio; su Dios le enseña.
 
 ### 28:27
 
-Porque no en el hacha se machacará el grano, y la rueda del carro no se moverá sobre el mosto, porque el grano se machacará con el mazo y el mosto con el bastón.
+Porque no con trillo será trillada neguilla, y rueda de carro sobre comino será vuelta; porque con vara será sacudida neguilla, y comino con palo.
 
 ### 28:28
 
@@ -2213,21 +2250,22 @@ El pan será machacado, porque no para siempre será machacado; y el carro de su
 
 ### 28:29
 
-También esto ha salido de Jehová de los ejércitos; ha hecho maravillosa la conseja, ha hecho grande la sabiduría.
+También esto de parte de Jehová de ejércitos salió; hizo maravillar consejo, engrandeció tino.
+
 
 ## Capítulo 29
 
 ### 29:1
 
-Ay, Ariel, Ariel, la ciudad de David, añorada añorada; año tras año vendrán los festivales.
+¡Ay, Ariél, Ariél, ciudad que acampó David! Añadan año sobre año; fiestas rodearán.
 
 ### 29:2
 
-Y apretaré a Ariel, y será afligida y angustiada, y será a mí como Ariel.
+Y apretaré a Ariél, y será lamento y gemido, y será a mí como Ariél.
 
 ### 29:3
 
-Y pondré contra ti un círculo de defensa, y te apretaré con un asedio, y te levantaré contra ti fortalezas.
+Y acamparé como círculo sobre ti, y sitiaré sobre ti puesto, y levantaré sobre ti fuertes.
 
 ### 29:4
 
@@ -2235,15 +2273,15 @@ Y humillaré tu voz de la tierra, y tu habla caerá en polvo, y será tu voz com
 
 ### 29:5
 
-Y será tu multitud como polvo fino, y tu multitud de opresores como polvo levantado por el viento, y será de pronto y de repente.
+Y será como polvo fino muchedumbre de tus extraños, y como tamo que pasa muchedumbre de violentos; y será de pronto, de repente.
 
 ### 29:6
 
-Por orden del Señor de los ejércitos te será contado en truenos y en ruidos, y en voz de gran tumulto, en tempestad y en huracán, y en llamarada de fuego consumidor.
+De parte de Jehová de ejércitos serás visitado con trueno y con terremoto y voz grande, torbellino y tempestad y llama de fuego comiente.
 
 ### 29:7
 
-Y será como un sueño de la noche para toda la multitud de todas las naciones que se levantan contra Ariel, y para toda la que se levanta contra Ariel para la guerra, y para el asedio de ella y para el que la aflige.
+Y será como sueño, visión de noche, muchedumbre de todas las naciones que combaten sobre Ariél, y todos sus combatientes y su fortaleza y los que aprietan a ella.
 
 ### 29:8
 
@@ -2255,11 +2293,11 @@ Entonteceréis y os entonteceréis, os embriagaréis y os embriagaréis, beberé
 
 ### 29:10
 
-Porque el Señor ha derramado sobre vosotros un espíritu de sopor, y ha cerrado vuestros ojos, a los profetas y a los que ven visiones, y ha cubiertolos.
+Porque derramó sobre ustedes Jehová espíritu de sopor, y cerró sus ojos de ustedes, los profetas, y sus cabezas de ustedes, los videntes, cubrió.
 
 ### 29:11
 
-Y será para vosotros como las palabras del libro cerrado, que se os dará para decir: Lee esto, y dirán: No podemos, porque está cerrado.
+Y fue a ustedes visión del todo como palabras del libro sellado, que dan a él al que sabe libro, diciendo: Lee ahora esto; y dice: No podré, porque sellado es él.
 
 ### 29:12
 
@@ -2267,7 +2305,7 @@ Y se pondrá el libro a los que no saben leer, y se les dirá: Lee esto, y dirá
 
 ### 29:13
 
-Y dijo el Señor: Por cuanto este pueblo se acerca con sus labios y con sus labios me honra, mas su corazón se aparta de mí, y su temor para conmigo está en mandamiento de hombres aprendido.
+Y dijo Adonai: Porque se acercó este pueblo con su boca y con sus labios me honraron, y su corazón alejó de mí, y fue su temor de ellos a mí mandamiento de hombres enseñado.
 
 ### 29:14
 
@@ -2287,19 +2325,19 @@ Convertíos, ¿o seréis como el arcilla en manos del alfarero, que dice del que
 
 ### 29:18
 
-Y en aquel día oirán los sordos las palabras del libro, y de la oscuridad y de las tinieblas los ojos de los ciegos verán.
+Y oirán en aquel día los sordos palabras de libro, y de oscuridad y de tinieblas ojos de ciegos verán.
 
 ### 29:19
 
-Y se añadirán los humildes en Jehová, y los pobres de la tierra se alegrarán en el santo de Israel.
+Y añadirán mansos en Jehová alegría, y menesterosos de hombre en el Santo de Israel se gozarán.
 
 ### 29:20
 
-Porque el soberbio será desechado, y el escarnecedor será consumido, y los que buscan la maldad serán cortados.
+Porque cesó violento, y se acabó escarnecedor, y serán cortados todos veladores de iniquidad,
 
 ### 29:21
 
-Los que hacen pecar al hombre con una palabra, y los que juzgan en la puerta se avergonzarán, y los justos en vano se turbarán.
+los que hacen pecar a hombre en palabra, y al que reprende en la puerta acechan, y apartaron en el tohu al justo.
 
 ### 29:22
 
@@ -2311,17 +2349,18 @@ Porque al ver a sus hijos, obra de mis manos en su interior, santificarán mi no
 
 ### 29:24
 
-Y conocerán los errantes de espírituve inteligencia, y los necios aprenderán consejo.
+Y conocerán errantes de espíritu entendimiento, y murmuradores aprenderán doctrina.
+
 
 ## Capítulo 30
 
 ### 30:1
 
-Ay, hijos rebeldes, dice Jehová, que hacen consejo, y no de mí; y vienen a beber a la fuente de las aguas, y no de mí; para llenar de pecado sobre pecado.
+¡Ay, hijos rebeldes, dicho de Jehová, para hacer consejo y no de mí, y para verter libación y no mi espíritu, a fin de añadir pecado sobre pecado;
 
 ### 30:2
 
-Los que van a Egipto sin consultarme, que buscan ayuda en el refugio de Faraón y se refugian en la sombra de Egipto, conocerán vergüenza.
+los que andan para bajar a Egipto, y mi boca no preguntaron, para fortalecerse en fortaleza de Faraón, y para refugiarse en sombra de Egipto!
 
 ### 30:3
 
@@ -2329,7 +2368,7 @@ Egipto será para ustedes una vergüenza, y su refugio en la sombra de Egipto se
 
 ### 30:4
 
-Porque en Zoán sus príncipes son vanidad, y sus embajadores llegan a Cesenna.
+Porque estaban en Zoán sus príncipes, y sus mensajeros a Janés llegan.
 
 ### 30:5
 
@@ -2337,7 +2376,7 @@ Todas las naciones son vanidad ante el pueblo, no les será útil, ni para ayuda
 
 ### 30:6
 
-Se llevarán a las bestias del sur, a un país de angustia y de tribulación, a un león y a un basilisco, a serpientes voladoras; sobre las murallas de sus ciudades y sobre sus tesoros de camellos y de abejas, no les será útil.
+Carga de bestias del Neguev. En tierra de angustia y de aprieto, leona y león de ellos, áspid y serpiente voladora, llevan sobre hombro de asnos sus riquezas, y sobre giba de camellos sus tesoros, sobre pueblo que no aprovecha.
 
 ### 30:7
 
@@ -2345,39 +2384,39 @@ Y Egipto será vanidad y vanidad; por eso le he llamado Rahab, que se sienta.
 
 ### 30:8
 
-Ahora, ven, escribe esto en una tabla y en un libro, y sea para el día final, para siempre.
+Ahora ve, escríbela sobre tabla con ellos, y sobre libro grábalo, y sea para día postrero, para testimonio hasta siempre.
 
 ### 30:9
 
-Porque es un pueblo rebelde, hijos engreídos, hijos que no quieren escuchar la ley de Jehová.
+Porque pueblo rebelde es él, hijos mentirosos, hijos que no quisieron oír torá de Jehová;
 
 ### 30:10
 
-Que dicen a los videntes: No veas, y a los que profetizan: No profetices a nosotros lo que es recto; habla a nosotros de lo que es vano, profetiza mentiras.
+que dijeron a los videntes: No vean; y a los que ven visiones: No vean para nosotros cosas rectas; hablen a nosotros blanduras, vean engaños.
 
 ### 30:11
 
-Apartaos del camino, desvíense del sendero, apartad de nosotros al santo de Israel.
+Aparten de camino, desvíen de senda; hagan cesar de nuestras faces al Santo de Israel.
 
 ### 30:12
 
-Por eso dice el santo de Israel: Porque los aborrecieron por esta palabra, y confiaron en el quebrantador y en el que huye, y se apoyaron en mí.
+Por tanto así dijo el Santo de Israel: Porque rechazaron ustedes en la palabra esta, y confiaron en opresión y torcido, y se apoyaron sobre él,
 
 ### 30:13
 
-Por eso será para ustedes un pecado este, como una muralla alta y fortificada, que de pronto y en un momento será derribada.
+por tanto será a ustedes esta iniquidad como brecha cayente, hinchada en muro alto, cuya de pronto, de repente, viene su quebrantamiento.
 
 ### 30:14
 
-Y su fragmento será como el fragmento de un vaso de alfarero; no tendrá compasión, y no se encontrará en él un pedazo para tomar, ni para calentar el horno, ni para vaciar agua.
+Y la quebrará como quebrantamiento de vaso de alfareros, molido, no perdonará; y no se hallará en su molimiento tiesto para tomar fuego de hogar, y para sacar agua de cisterna.
 
 ### 30:15
 
-Porque así dice el Señor Jehová, el santo de Israel: En la vuelta y en la paz seréis salvos; en el silencio y en la confianza será vuestra fuerza, y no haréis lo que os pido.
+Porque así dijo Adonai Jehová, Santo de Israel: En volver y reposo serán salvados ustedes; en quietud y en confianza será su fuerza de ustedes; y no quisieron.
 
 ### 30:16
 
-Y dijeron: No, porque sobre un caballo corremos, por eso correréis; y sobre un carruaje, por eso serán ligeros vuestros perseguidores.
+Y dijeron ustedes: No, porque sobre caballo huiremos —por tanto huirán ustedes; y sobre ligero montaremos —por tanto serán ligeros sus perseguidores de ustedes.
 
 ### 30:17
 
@@ -2385,7 +2424,7 @@ Un millar a causa del grito de uno, y a causa del grito de cinco, huiréis hasta
 
 ### 30:18
 
-Por eso el Señor aguardará para tener misericordia de vosotros, y por eso se elevará para mostrar compasión de vosotros; porque Dios es juez, Jehová, bendito el que confía en él.
+Y por tanto esperará Jehová para hacer gracia a ustedes, y por tanto se alzará para compadecerlos a ustedes; porque Dios de juicio Jehová; bienaventurados todos los que esperan a él.
 
 ### 30:19
 
@@ -2405,23 +2444,23 @@ Y te limpiarás de la pintura de tu plata y de la fundición de tu oro, y la amo
 
 ### 30:23
 
-Y te dará lluvia de tu siembra, que sembrarás en la tierra; y el pan de la tierra será abundante y grasa, y tus ganados pastarán en aquel día, como un ancho prado.
+Y dará lluvia de tu simiente con que siembres la tierra, y pan, producto de la tierra, y será pingüe y graso; pastará tu ganado en el día aquel en pastizal ensanchado.
 
 ### 30:24
 
-Y los dos mil y los habitantes de la ciudad, que trabajan en la tierra, comerán en la noche de fermentación, que siegan en el campo y en el llano.
+Y los bueyes y los asnos trabajadores de la tierra forraje sazonado comerán, que se aventó con pala y con aventador.
 
 ### 30:25
 
-Y será en toda montaña alta y en toda cumbre levantada, torrentes de agua y lluvias de lluvia en el día de la matanza grande, cuando caigan los altos.
+Y será sobre todo monte alto y sobre todo collado alzado arroyos, canales de aguas, en día de matanza mucha, en caer torres.
 
 ### 30:26
 
-Y la luz de la luna será como la luz del sol, y la luz del sol será siete veces más brillante como la luz de los siete días, en el día en que el Señor cure la herida de su pueblo y la enfermedad de él la sanará.
+Y será luz de la luna como luz del sol, y luz del sol será siete veces, como luz de siete días, en día de vendar Jehová el quebranto de su pueblo, y herida de su herida sanará.
 
 ### 30:27
 
-He aquí que el nombre del Señor viene desde lejos, arde su ira, y su carga pesada; sus labios están llenos de ira, y su lengua como fuego que devora.
+He aquí nombre de Jehová viene de lejos, ardiendo su nariz, y pesada la carga; sus labios se llenaron de indignación, y su lengua como fuego comiente.
 
 ### 30:28
 
@@ -2429,15 +2468,15 @@ Y su aliento como un torrente que llega hasta el cuello, para zarandear a las na
 
 ### 30:29
 
-Será el canto para vosotros como un día de fiesta de santificación, y alegría de corazón como el que va con flauta a la montaña del Señor, a la roca de Israel.
+El cántico será a ustedes como noche de santificarse fiesta, y alegría de corazón como el que anda con flauta para venir al monte de Jehová, al peñasco de Israel.
 
 ### 30:30
 
-Y hará oír el Señor la voz de su gloria, y verá la tranquilidad de su brazo, con ira ardiente y llamarada de fuego consumidor, tempestad, lluvia y piedra de granizo.
+Y hará oír Jehová la majestad de su voz, y descanso de su brazo mostrará, en furor de nariz y llama de fuego comiente, destrozo y aguacero y piedra de granizo.
 
 ### 30:31
 
-Porque al oír la voz del Señor temblará Asiria, con bastón será golpeada.
+Porque de voz de Jehová se quebrantará Asiria; con la vara herirá.
 
 ### 30:32
 
@@ -2445,7 +2484,8 @@ Y será que todo el que pase por el haz de la vara que el Señor pondrá sobre �
 
 ### 30:33
 
-Porque está dispuesto desde lejos, la encenderá, también él está dispuesto para el rey, ha hundido, ha ensanchado, su hoguera es mucha leña, el aliento del Señor como torrente de lodo la encenderá.
+Porque ordenado desde ayer es Tófet; también para el rey está preparado; profundizó, ensanchó; su pira fuego y leños muchos; soplo de Jehová como torrente de azufre ardiendo en ella.
+
 
 ## Capítulo 31
 
@@ -2455,7 +2495,7 @@ Ay de los que descienden a Egipto por ayuda, montan sobre caballos y confían en
 
 ### 31:2
 
-Y también él es sabio y hace mal, y no aparta sus palabras, y se levanta sobre la casa de los que le ayudan, y sobre la ayuda de los que hacen obra inicua.
+Y también él sabio, y trajo mal, y sus palabras no quitó; y se levantará sobre casa de malhechores, y sobre ayuda de obradores de iniquidad.
 
 ### 31:3
 
@@ -2471,7 +2511,7 @@ Como las aves de las nubes así protegerá Jehová de los ejércitos a Jerusalé
 
 ### 31:6
 
-Volved a vuestro Dios, oh hijos de Israel, a quien habéis profanado con vuestros dioses foráneos.
+Vuelvan a aquel a quien profundizaron apartamiento, hijos de Israel.
 
 ### 31:7
 
@@ -2487,13 +2527,16 @@ Y su roca pasará de la fortaleza, y sus príncipes huirán de la bandera; dice 
 
 ## Capítulo 32
 
+
+## Capítulo 32
+
 ### 32:1
 
-Mira, un rey reinará por justicia, y príncipes por sentencia.
+He aquí para justicia reinará rey, y para príncipes para juicio gobernarán.
 
 ### 32:2
 
-Y será como el que esconde su rostro de la brisa, y como el que se esconde de la lluvia, como las corrientes de las aguas en Sion, como la sombra de una roca en tierra de sed.
+Y será varón como escondrijo de viento y cobertura de aguacero, como arroyos de aguas en sequedal, como sombra de peñasco pesado en tierra fatigada.
 
 ### 32:3
 
@@ -2501,7 +2544,7 @@ Y no se cansarán los ojos de los que miran, y las oídos de los que oyen presta
 
 ### 32:4
 
-Y el corazón de los apresurados entenderá el conocimiento, y la lengua de los torpes hablará con prontitud.
+Y corazón de apresurados entenderá para conocer, y lengua de tartamudos se apresurará para hablar claras.
 
 ### 32:5
 
@@ -2509,7 +2552,7 @@ No se llamará más a un necio noble, ni a un ladrón príncipe.
 
 ### 32:6
 
-Porque el necio habla necedades, y su corazón obra maldad, para hacer la iniquidad y hablar a Jehová con engaño, para privar al hambriento de alimento y al sediento de agua.
+Porque necio necedad hablará, y su corazón hará iniquidad, para hacer hipocresía y para hablar hacia Jehová extravío, para vaciar alma de hambriento, y bebida de sediento hará faltar.
 
 ### 32:7
 
@@ -2517,31 +2560,31 @@ Y sus vasijas son vasijas de maldad; él es un traidor que aconseja para hacer d
 
 ### 32:8
 
-Y el noble aconseja con nobleza, y él se levanta sobre la nobleza.
+Y noble liberalidades aconseja, y él sobre liberalidades se levantará.
 
 ### 32:9
 
-Mujeres vanas, escuchad mi palabra, hijas confiadas, presta atención a mis palabras.
+Mujeres descansadas, levántense, oigan mi voz; hijas confiadas, presten oído a mi dicho.
 
 ### 32:10
 
-Años sobre años temblarán las confiadas, porque el tiempo del segador ha llegado y no vendrá.
+Días sobre año temblarán confiadas, porque se acabó vendimia; cosecha no vendrá.
 
 ### 32:11
 
-Tengan cuidado las vanas, temblarán las confiadas, se despojarán y se desnudarán, y se ceñirán con sus cinturones.
+Tiemblen, descansadas; estremézcanse, confiadas; despójense y desnúdense, y cíñanse sobre lomos.
 
 ### 32:12
 
-Sobre los montes de Sodoma, sobre la tierra de Gomorra, sobre la viña de excelente fruto.
+Sobre pechos se lamentan, sobre campos de deleite, sobre vid fructífera.
 
 ### 32:13
 
-Sobre la tierra de mi pueblo crecerá espinas, porque sobre todas las casas de gozo habrá ciudad desierta.
+Sobre suelo de mi pueblo espino y abrojo subirá; porque sobre todas casas de alegría, ciudad jubilosa.
 
 ### 32:14
 
-Porque la fortaleza está desierta, la ciudad abandonada, la torre y la muralla serán para siempre un refugio de aves y bestias.
+Porque palacio está abandonado, muchedumbre de ciudad dejada; Ofel y torre será para cuevas hasta siempre, gozo de onagros, pastizal de rebaños;
 
 ### 32:15
 
@@ -2553,11 +2596,11 @@ Y habitará la justicia en el desierto, y la rectitud en el viñedo.
 
 ### 32:17
 
-Y será la obra de la justicia paz, y la labor de la justicia tranquilidad y seguridad para siempre.
+Y será obra de la justicia paz, y servicio de la justicia quietud y confianza hasta siempre.
 
 ### 32:18
 
-Y habitará mi pueblo en un lugar de paz, y en moradas seguras y en lugares de descanso.
+Y habitará mi pueblo en morada de paz, y en tabernáculos de confianzas, y en reposos sosegados.
 
 ### 32:19
 
@@ -2565,7 +2608,8 @@ Y vendrá la helada sobre el monte de Sodoma, y la nieve sobre la tierra de Gomo
 
 ### 32:20
 
-Dichosos los que siembran junto a todo río, que envían rebaños de bueyes y de asnos.
+Bienaventurados ustedes, sembradores sobre todas aguas, enviadores pie del buey y del asno.
+
 
 ## Capítulo 33
 
@@ -2575,11 +2619,11 @@ Ay de ti, ladrón, aunque no se ha robado; ay de ti, perjuro, aunque no se ha me
 
 ### 33:2
 
-Señor, ten piedad de nosotros, a ti esperamos. Sé el brazo de los que pastorean, y nuestra salvación en tiempo de angustia.
+Jehová, haznos gracia; a ti esperamos; sé brazo de ellos a las mañanas, también nuestra salvación en tiempo de angustia.
 
 ### 33:3
 
-Al sonido del tumulto, las naciones se retiran; al ver tu grandeza, las gentes huyen.
+De voz de tumulto huyeron pueblos; de tu alzamiento se dispersaron naciones.
 
 ### 33:4
 
@@ -2591,19 +2635,19 @@ Elevado está el Señor, porque habita en lo alto; llena está Sion de juicio y 
 
 ### 33:6
 
-Y será tu fe en los días de tu vida firmeza de salvación, sabiduría y conocimiento; el temor del Señor es su tesoro.
+Y será fidelidad de tus tiempos, riqueza de salvaciones, sabiduría y conocimiento; temor de Jehová ella su tesoro.
 
 ### 33:7
 
-He aquí que Aram vocifera fuera; los mensajeros de paz lloran amargamente.
+He aquí sus valientes clamaron afuera; mensajeros de paz amargamente llorarán.
 
 ### 33:8
 
-Se han vaciado los caminos; el que pasa por el camino se detiene. Ha roto el pacto, ha aborrecido las ciudades, no ha pensado en el hombre.
+Desolados caminos; cesó el que pasa por senda; quebrantó pacto, desechó ciudades, no estimó hombre.
 
 ### 33:9
 
-Ah, la tierra está desolada; el Líbano se avergüenza y se desvanece; el Sharon se ha vuelto como un desierto; Bashan y Carmel se marchitan.
+Ah, la tierra está desolada; el Líbano se avergüenza y se desvanece; el Sarón se ha vuelto como un desierto; Bashan y Carmel se marchitan.
 
 ### 33:10
 
@@ -2615,19 +2659,19 @@ Haréis sombra, pero será de polvo; daréis a luz, pero será de paja; vuestro 
 
 ### 33:12
 
-Serán naciones como brasas de estiércol, ciudades como espinas secas; en llamas las consumirá el fuego.
+Y serán pueblos quemaduras de cal; espinos cortados en el fuego se encienden.
 
 ### 33:13
 
-Escuchad, pueblos, lo que hice, y sabed, naciones, mi poder.
+Oigan, lejanos, lo que hice; y sepan, cercanos, mi valentía.
 
 ### 33:14
 
-Teme, Sion, a los pecadores, tiembla, a los impíos. ¿Quién nos hospeda en el fuego que devora? ¿Quién nos hospeda en los fuegos eternos?
+Temieron en Sión pecadores; sobrecogió temblor a hipócritas: ¿Quién morará para nosotros fuego comiente? ¿Quién morará para nosotros hogueras de siempre?
 
 ### 33:15
 
-El que camina en justicia, habla con rectitud, aborrece la ganancia de los impíos, sacude la mano de los sobornos, tapa los oídos para no oír la sangre, cierra los ojos para no ver el mal.
+El que anda en justicias y habla rectitudes; el que rechaza en ganancia de opresiones; el que sacude sus palmas de retener en soborno; el que tapa su oído de oír sangres, y cierra sus ojos de ver en mal.
 
 ### 33:16
 
@@ -2635,15 +2679,15 @@ El que camina en justicia, habla con rectitud, aborrece la ganancia de los impí
 
 ### 33:17
 
-Verás a tu rey con hermosura, sus ojos te verán de lejos.
+Rey en su hermosura verán tus ojos; verán tierra de lejanías.
 
 ### 33:18
 
-Tu corazón meditará en el temor: ¿dónde está el que cuenta? ¿dónde el que pesa? ¿dónde el que cuenta los torres?
+Tu corazón meditará terror: ¿Dónde el escriba? ¿Dónde el pesador? ¿Dónde el que cuenta las torres?
 
 ### 33:19
 
-No verás al pueblo de Nevoaz, al pueblo de lengua profunda, que se burla con lengua sin entendimiento.
+Al pueblo feroz no verás, pueblo de lengua profunda de oír, de lengua balbuciente, no hay entendimiento.
 
 ### 33:20
 
@@ -2651,11 +2695,11 @@ Mira a Sion, ciudad de nuestra solemnidad; tus ojos verán a Jerusalén, habitac
 
 ### 33:21
 
-Porque allí está el Señor, fuerte para nosotros; lugar de ríos, de corrientes, de ríos anchos; no pasará por allí un barco de remos, ni navegará un gran barco allí.
+Sino allí majestuoso Jehová a nosotros, lugar de ríos, canales anchos de manos; no irá en él barco de remo, y nave majestuosa no lo pasará.
 
 ### 33:22
 
-Porque el Señor es nuestro juez, el Señor es nuestro legislador, el Señor es nuestro rey; él nos salvará.
+Porque Jehová nuestro juez, Jehová nuestro legislador, Jehová nuestro rey; él nos salvará.
 
 ### 33:23
 
@@ -2663,33 +2707,34 @@ Deja caer tus redes, no las fortalezcas; así las tenderás, no las extenderás.
 
 ### 33:24
 
-No dirá: Habito en paz; el pueblo que habita en ella será arrancado con la violencia.
+Y no dirá morador: Enfermé; el pueblo el que habita en ella, levantado de iniquidad.
+
 
 ## Capítulo 34
 
 ### 34:1
 
-Acérquense, naciones, y escuchen; oigan, pueblos; la tierra y todo lo que en ella hay, el mundo y todo lo que de él sale.
+Acérquense, naciones, para oír, y pueblos, presten atención; oiga la tierra y su plenitud, el mundo y todos sus retoños.
 
 ### 34:2
 
-Porque el Señor se enfurecerá contra todas las naciones, y se indignará contra todo su ejército; las entregará a la matanza.
+Porque indignación a Jehová sobre todas las naciones, y furor sobre todo su ejército; los consignó al anatema, los dio a la matanza.
 
 ### 34:3
 
-Sus cadáveres serán arrojados, y su carne se consumirá con el fuego; y los montes se derramarán con su sangre.
+Y sus heridos serán arrojados, y de sus cadáveres subirá su hedor, y los montes se derretirán con su sangre.
 
 ### 34:4
 
-Y se consumirán todos los ejércitos del cielo, y los cielos serán enrollados como un libro; y todos sus ejércitos caerán, como cae la hoja del olivo, y como caen los frutos maduros del ciruelo.
+Y se deshará todo el ejército de los cielos, y se enrollarán como el rollo los cielos, y todo su ejército se marchitará como se marchita la hoja de vid, y como marchitez de higuera.
 
 ### 34:5
 
-Porque mi espada ha bebido en el cielo; he aquí que ha descendido sobre Edom, y sobre el pueblo de mi maldición para el juicio.
+Porque se embriagó en los cielos mi espada; he aquí sobre Edom bajará, y sobre el pueblo de mi anatema para juicio.
 
 ### 34:6
 
-Porque la espada del Señor está llena de sangre, hasta el cuello; su cimitarra, de la sangre de los toros y de los carneros, de la grasa de los rebaños de ovejas; porque ha ofrecido sacrificios en Bozra, y ha inmolado a los grandes animales en la tierra de Edom.
+Espada a Jehová llena de sangre, engordada de sebo, de sangre de corderos y machos cabríos, de sebo de riñones de carneros; porque sacrificio a Jehová en Botsrá, y matanza grande en tierra de Edom.
 
 ### 34:7
 
@@ -2701,31 +2746,31 @@ Porque el día de la venganza del Señor ha llegado, el año de la retribución 
 
 ### 34:9
 
-Y se convertirán sus torrentes en aceite, y su polvo en cinabrio; y su tierra se convertirá en azufre ardiendo.
+Y se volverán sus torrentes a pez, y su polvo a azufre, y será su tierra a pez ardiendo.
 
 ### 34:10
 
-Por la noche y por el día no se apagará; su humo no se dispersará para siempre; generación tras generación estará en ruinas; para siempre y para siempre no habrá quien pase por ella.
+Noche y día no se apagará; para siempre subirá su humo; de generación a generación será desolada; para perpetuidad de perpetuidades no hay quien pase en ella.
 
 ### 34:11
 
-Y herirán la cuña y el abrecaminos, y el búho y el cuervo habitarán en ella; y se extenderá sobre ella la línea de desolación, y sus piedras serán desechas.
+Y la heredarán el pelícano y el erizo, y el búho y el cuervo habitarán en ella; y extenderá sobre ella cordel de tohu y piedras de bohu.
 
 ### 34:12
 
-Serán lugares de hacheros y no habrá reina allí; todos los príncipes serán confundidos.
+Sus nobles —y no hay allí reino que llamen—, y todos sus príncipes serán nada.
 
 ### 34:13
 
-Subirán las torres de Sirenes, y Kemos y Hohot en sus fortalezas; será un lugar para chacales, un pasto para aves de rapiña.
+Y subirán en sus palacios espinos, ortiga y cardo en sus fortalezas; y será morada de chacales, patio para hijas de avestruz.
 
 ### 34:14
 
-Se encontrarán chacales con zorros, y el ciervo encontrará un compañero; allí descansará la lechuza y hallará un lugar para anidar.
+Y se encontrarán las criaturas del desierto con hienas, y el sátiro sobre su compañero clamará; solo allí reposará Lilít, y hallará para sí descanso.
 
 ### 34:15
 
-Allí hará su nido el cuervo y pondrá sus huevos, incubará y cría a sus crías en su sombra; allí se juntarán las aves de rapiña, una compañera para cada una.
+Allí anidará la flecha-serpiente, y pondrá huevos y abrirá y incubará en su sombra; solo allí se reunirán milanos, hembra su compañera.
 
 ### 34:16
 
@@ -2737,33 +2782,36 @@ Buscad en el libro de Jehová, y leed; ninguna de ellas ha faltado, ninguna comp
 
 ## Capítulo 35
 
+
+## Capítulo 35
+
 ### 35:1
 
 Se alegrará el desierto y el erial, y la llanura se regocijará y florecerá como la hortensia.
 
 ### 35:2
 
-Florirá y se regocijará, y gozará de gloria y canto; la gloria del Líbano le será dada, la hermosura del Carmelo y del Sharon; verán la gloria de Jehová, la hermosura de nuestro Dios.
+Floreciendo florecerá, y se gozará, también con gozo y cantar; gloria del Líbano fue dada a ella, esplendor del Karmel y del Sarón; ellos verán gloria de Jehová, esplendor de nuestro Dios.
 
 ### 35:3
 
-Fortaleced las manos flacas y las rodillas temblorosas, animaos.
+Fortalezcan manos flojas, y rodillas vacilantes afirmen.
 
 ### 35:4
 
-Decid a los de corazón valiente: Animados, no teman; he aquí que vino vuestro Dios para vengar; vendrá la recompensa de Dios y os salvará.
+Digan a apresurados de corazón: Sean fuertes, no teman; he aquí su Dios de ustedes, venganza vendrá, recompensa de Dios; él vendrá, y los salvará a ustedes.
 
 ### 35:5
 
-Entonces se abrirán los ojos de los ciegos y las oídos de los sordos se abrirán.
+Entonces se abrirán ojos de ciegos, y oídos de sordos se abrirán.
 
 ### 35:6
 
-Entonces saltará como ciervo el cojo, y el lenguaje del mudo será cantado; porque en el desierto brotarán aguas, y ríos en la llanura.
+Entonces saltará como ciervo el cojo, y cantará lengua de mudo; porque brotaron en el desierto aguas, y torrentes en la Arabá.
 
 ### 35:7
 
-Y el desierto se convertirá en estanque, y la tierra seca en fuentes de agua. En los lugares donde había serpientes, pastarán, y donde había barro, crecerá hierba y caña.
+Y será el ardor a estanque, y la sequedad a manantiales de aguas; en morada de chacales, su yacimiento, hierba para caña y junco.
 
 ### 35:8
 
@@ -2771,11 +2819,14 @@ Y habrá allí un camino y una senda, y se llamará el camino santo. No pasará 
 
 ### 35:9
 
-No habrá allí león ni depredador que suba a él, no se hallará allí, y los redimidos andarán.
+No habrá allí león, y fiera de animales no subirá en él; no se hallará allí; y andarán redimidos.
 
 ### 35:10
 
 Y los que han sido redimidos por el Señor volverán, y vendrán a Sion con alabanza, y la gloria de los siglos estará sobre sus cabezas. Alegría y gozo los alcanzarán, y tristeza y gemido huirán.
+
+## Capítulo 36
+
 
 ## Capítulo 36
 
@@ -2797,7 +2848,7 @@ Y dijo Rabshakeh a ellos: Decidle a Ezequías: Así dice el gran rey de Asiria: 
 
 ### 36:5
 
-Dices: En palabras de boca, en consejo y en fuerza para la guerra. Ahora, ¿en quién confías que te has rebelado contra mí?
+Dije: Solo palabra de labios, consejo y fuerza para la guerra. Ahora, ¿sobre quién confiaste, que te rebelaste en mí?
 
 ### 36:6
 
@@ -2809,7 +2860,7 @@ Y si dices a mí: Con el Señor nuestro Dios confiamos. ¿No es él el que echó
 
 ### 36:8
 
-Y ahora, concédeme ahora a mi señor el rey de Asiria, y daré a ti dos mil caballos, si tú puedes dar a ti los jinetes para ellos.
+Y ahora, apuesta, por favor, con mi señor el rey de Asiria, y daré a ti dos miles caballos, si puedes dar a ti jinetes sobre ellos.
 
 ### 36:9
 
@@ -2817,7 +2868,7 @@ Y ahora, concédeme ahora a mi señor el rey de Asiria, y daré a ti dos mil cab
 
 ### 36:10
 
-¿Acaso no es el Señor quien me ha enviado a destruir esta tierra? El Señor me ha dicho: ‘Sube a esta tierra y destrúyela’.
+Y ahora, ¿acaso aparte de Jehová subí sobre la tierra esta para destruirla? Jehová dijo a mí: Sube sobre la tierra esta y destrúyela.
 
 ### 36:11
 
@@ -2829,7 +2880,7 @@ Y Rab-shakeh les dijo: ‘¿Acaso ha hablado vuestro señor y yo con vosotros m�
 
 ### 36:13
 
-Y Rab-shakeh se puso y clamó en voz alta en judío: ‘Escuchad las palabras del gran rey de Asiria’.
+Y se paró Rav-shaqé, y clamó en voz grande yehudit, y dijo: Oigan las palabras del rey el grande, rey de Asiria.
 
 ### 36:14
 
@@ -2845,11 +2896,11 @@ No escuchéis a Hezekías, porque así ha dicho el rey de Asiria: ‘Hacedme ali
 
 ### 36:17
 
-Hasta que venga y os lleve a una tierra como vuestra tierra, a una tierra de pan y vino, de pan y viñas’.
+hasta mi venir, y tomaré a ustedes a tierra como su tierra de ustedes, tierra de grano y mosto, tierra de pan y viñas.
 
 ### 36:18
 
-Para que no os engañe Hezekías diciendo: ‘El Señor nos librará’. ¿Ha librado acaso alguno de los dioses de las naciones a su tierra de mano del rey de Asiria?
+No sea que incite a ustedes Ezequías, diciendo: Jehová nos librará. ¿Acaso libraron dioses de las naciones, varón, su tierra de mano de rey de Asiria?
 
 ### 36:19
 
@@ -2865,7 +2916,8 @@ Se callaron y no le respondieron palabra, porque el rey les había ordenado: “
 
 ### 36:22
 
-Entonces Elijacim, hijo de Hilquías, quien estaba al frente de la casa, y Sefnay el escriba y Joaquín, hijo de Asaf, el cantor, se pusieron trajes de luto y fueron a Hezekías con la noticia de lo que Rabacal había dicho.
+Y vino Eliaquim hijo de Hilcías, que sobre la casa, y Sebna el escriba, y Yoaj hijo de Asaf el recordador, a Ezequías, rasgados de vestidos, y anunciaron a él las palabras de Rav-shaqé.
+
 
 ## Capítulo 37
 
@@ -2895,7 +2947,7 @@ Y les dijo: “Así les dirán a sus amos: ‘Así ha dicho el SEÑOR: No tengan
 
 ### 37:7
 
-He aquí, pondré en él un espíritu, y oirá una noticia y volverá a su tierra, y yo lo haré caer a espada en su tierra’”.
+He aquí yo dando en él espíritu, y oirá rumor, y volverá a su tierra, y lo haré caer en la espada en su tierra.
 
 ### 37:8
 
@@ -2911,7 +2963,7 @@ Así les dirán a Hezekías, rey de Judá: ‘No te engañe tu Dios en quien con
 
 ### 37:11
 
-He aquí, has oído lo que han hecho los reyes de Asiria con todas las naciones, para destruirlas. ¿Serás tú el único que se librará?
+He aquí tú oíste lo que hicieron reyes de Asiria a todas las tierras, para anatema a ellas; ¿y tú serás librado?
 
 ### 37:12
 
@@ -2927,7 +2979,7 @@ Entonces Hezekías tomó el libro de las cartas de los mensajeros y leyólo dela
 
 ### 37:15
 
-Y Hezekías oró a Jehová, diciendo:
+Y oró Ezequías a Jehová, diciendo:
 
 ### 37:16
 
@@ -2935,11 +2987,11 @@ Oh Jehová, Dios de Israel, que estás sentado sobre los querubines, tú eres el
 
 ### 37:17
 
-Oh Jehová, inclina tu oído y escucha; oh Jehová, abre tus ojos y ve, y escucha todas las palabras de Sennacherib, que ha enviado para insultar al Dios viviente.
+Inclina, Jehová, tu oído y oye; abre, Jehová, tus ojos y ve; y oye todas las palabras de Sanjerib que envió para afrentar a Dios vivo.
 
 ### 37:18
 
-Verdaderamente, Jehová, han destruido los reyes de Asiria a todas las naciones y a sus tierras.
+De veras, Jehová, asolaron reyes de Asiria todas las tierras y su tierra,
 
 ### 37:19
 
@@ -2959,7 +3011,7 @@ Esto ha dicho Jehová acerca de ti: Has hablado con desprecio de mi santo lugar,
 
 ### 37:23
 
-¿A quién insultaste y blasfemaste, y contra quién levantaste la voz y te elevaste con los ojos contra el santo de Israel?
+¿A quién afrentaste y blasfemaste, y sobre quién alzaste voz, y alzaste altura tus ojos? Hacia Santo de Israel.
 
 ### 37:24
 
@@ -2971,7 +3023,7 @@ Yo he cavado y he bebido agua, y con el pie he secado todos los ríos de Masora.
 
 ### 37:26
 
-¿No has oído desde lejos lo que he hecho desde los días de antiguo? Ahora lo he traído a tu presencia, y tú harás que las olas de las aguas se estrellen contra las ciudades fortificadas.
+¿No oíste? Desde lejos a ella hice, desde días de antaño y la formé; ahora la traje, y seas para asolar montones desolados, ciudades fortificadas.
 
 ### 37:27
 
@@ -2979,15 +3031,15 @@ Y los que habitaban en ellas eran cortos de mano, se secaron y se avergonzaron; 
 
 ### 37:28
 
-Y tu entrada y tu salida y tu ir y venir, yo lo sé; y tu ira contra mí.
+Y tu sentar y tu salir y tu entrar conocí, y tu enardecerte a mí.
 
 ### 37:29
 
-Por tu ira contra mí y tu alarido en mis oídos, pondré sobre tu nariz un collar y sobre tus labios un bozal, y te haré volver por el camino por el que viniste.
+A causa de tu enardecerte a mí, y tu tranquilidad subió en mis oídos, y pondré mi anzuelo en tu nariz y mi freno en tus labios, y te haré volver en el camino que viniste en él.
 
 ### 37:30
 
-Y esto es para ti por señal: comerás este año hierba, y el segundo año hierba seca, y al tercer año siembras y siegas y plantas viñas y comes sus frutos.
+Y esto a ti la señal: Comer el año este espontáneo, y en el año el segundo retoño; y en el año el tercero siembren y cosechen y planten viñas, su fruto.
 
 ### 37:31
 
@@ -2999,7 +3051,7 @@ Porque de Jerusalén saldrá la remanente y los que quedan del monte Sion; la ce
 
 ### 37:33
 
-Por eso así ha dicho el Señor acerca del rey de Asiria: No entrará en esta ciudad ni lanzará saetas contra ella, ni levantará escudo contra ella, ni hará montones de tierra contra ella.
+Por tanto, así dijo Jehová a rey de Asiria: No vendrá a la ciudad esta, y no disparará allí flecha, y no la adelantará escudo, y no derramará sobre ella terraplén.
 
 ### 37:34
 
@@ -3007,19 +3059,22 @@ Por el camino por el que vino vendrá, y a esta ciudad no entrará, dice el Señ
 
 ### 37:35
 
-Y yo guardaré a esta ciudad para salvarla, por mi propio bien y por el bien de David mi siervo.
+Y protegeré sobre la ciudad esta para salvarla, por mí y por David mi siervo.
 
 ### 37:36
 
-Y salió un ángel del Señor y mató en el campamento de Asiria ciento ochenta y cinco mil hombres. Y al amanecer se levantaron, y he aquí que todos eran cadáveres.
+Y salió mensajero de Jehová e hirió en campamento de Asiria cien y ochenta y cinco mil; y madrugaron en la mañana, y he aquí todos ellos cadáveres muertos.
 
 ### 37:37
 
-Y salió y volvió a su tierra. Y Sennacherib, rey de Asiria, se retiró a Nínive.
+Y partió y fue y volvió Sanjerib rey de Asiria, y habitó en Nínve.
 
 ### 37:38
 
 Y sucedió que mientras él estaba adorando en el templo de Nisroque, sus hijos Adrametés y Sararet lo mataron con la espada. Y ellos escaparon a la tierra de Ararat, y su hijo Esar-Hadon reinó en su lugar.
+
+## Capítulo 38
+
 
 ## Capítulo 38
 
@@ -3049,11 +3104,11 @@ Y te libraré de la mano del rey de Asiria y te defenderé a esta ciudad, y yo g
 
 ### 38:7
 
-Y esto es para ti por señal del Señor: He aquí que el Señor hará lo que ha dicho.
+Y esto a ti la señal de parte de Jehová, que hará Jehová la palabra esta que habló:
 
 ### 38:8
 
-He aquí que hago volver el sol diez escalones atrás, en los que había descendido en el reloj de Acas. Y el sol volvió diez escalones en los que había descendido.
+He aquí yo haciendo volver la sombra de los escalones que bajó en escalones de Acaz con el sol, atrás diez escalones. Y volvió el sol diez escalones en los escalones que bajó.
 
 ### 38:9
 
@@ -3061,11 +3116,11 @@ Carta a Hezekías, rey de Judá, en su enfermedad y en su recuperación de la en
 
 ### 38:10
 
-Decía: En el silencio de mis días, iré al portal del Sheol; he aquí que he sido contado con los que descansan en la tumba.
+Yo dije: En el silencio de mis días iré a puertas de Sheol; fui visitado resto de mis años.
 
 ### 38:11
 
-Decía: No veré más al Señor, al Señor en la tierra de los vivos; no miraré más a los hombres en la morada de los que están en silencio.
+Dije: No veré a Yah, Yah en tierra de los vivos; no miraré humano aún con moradores de cese.
 
 ### 38:12
 
@@ -3073,15 +3128,15 @@ Mi generación se ha marchado y ha sido apartada de mí como una tienda de pasto
 
 ### 38:13
 
-Hasta la mañana he sido como un león, así que ha roto todas mis costillas; de día y de noche me ha acabado.
+Igualé hasta mañana; como león así quebranta todos mis huesos; de día hasta noche me acabas.
 
 ### 38:14
 
-Como un caballo atado, así me he apretado; he vuelto a ser como una paloma solitaria; he mirado hacia arriba, Señor, tú me has respondido en el día de mi angustia.
+Como golondrina, como grulla, así chillé; gemí como la paloma; se debilitaron mis ojos a la altura; Adonai, opresión a mí; sé fiador por mí.
 
 ### 38:15
 
-¿Qué puedo decir y qué puedo responder? Él ha hecho esto. He contado todos mis días en amargura de espíritu.
+¿Qué hablaré? Y me dijo, y él hizo; andaré despacio todos mis años sobre amargura de mi alma.
 
 ### 38:16
 
@@ -3089,15 +3144,15 @@ Señor, sobre ellos vivirán, y para todos ellos vivirán mis días de vida; tú
 
 ### 38:17
 
-He aquí que la paz es amarga para mí, amarga; y tú has amado mi alma de la muerte, porque has echado tras de ti todos mis pecados.
+He aquí para paz me fue amarga amarga; y tú deseaste mi alma de fosa de destrucción, porque echaste detrás de tu espalda todos mis pecados.
 
 ### 38:18
 
-Porque no en el Sheol te alabarán, ni los muertos te darán gloria; no esperarán los que descenderán al pozo tu verdad.
+Porque no Sheol te agradecerá, muerte te alabará; no esperarán los que bajan a pozo a tu verdad.
 
 ### 38:19
 
-Vivo, vivo, él me alaba como yo hoy; el padre de hijos lo enseña a tu verdad.
+Vivo, vivo, él te agradecerá, como yo hoy; padre a hijos hará saber a tu verdad.
 
 ### 38:20
 
@@ -3113,17 +3168,20 @@ Y dijo Hezekías: ¿Cuál es la señal de que subiré al templo del Señor?
 
 ## Capítulo 39
 
+
+## Capítulo 39
+
 ### 39:1
 
 En aquel tiempo Merodac-baladán, hijo de Baladán, rey de Babilonia, envió cartas y regalos a Hezekías, y cuando supo que estaba enfermo, se fortaleció.
 
 ### 39:2
 
-Y se alegró Hezekías de ellos, y les mostró su tesoro, el oro, la plata, las especias, el aceite excelente, y todo su arsenal y todo lo que había en sus arcas; no hubo cosa que no le mostrara Hezekías en su palacio y en toda su posesión.
+Y se alegró sobre ellos Ezequías, y les mostró casa del tesoro, la plata y el oro y los aromas y el aceite el bueno y toda casa de sus utensilios y todo lo que fue hallado en sus tesoros; no fue cosa que no les mostró Ezequías en su casa y en todo su dominio.
 
 ### 39:3
 
-Y vino Isaías el profeta a Hezekías y le dijo: ¿Qué dijeron estos hombres? ¿De dónde vienen a ti? Y respondió Hezekías: Vienen de un país lejano, de Babilonia.
+Y vino Isaías el profeta al rey Ezequías, y dijo a él: ¿Qué dijeron los varones estos, y de dónde vinieron a ti? Y dijo Ezequías: Desde tierra lejana vinieron a mí, desde Babilonia.
 
 ### 39:4
 
@@ -3143,7 +3201,8 @@ Y de tus hijos que saldrán de ti, que tú engendrarás, tomarán y serán eunuc
 
 ### 39:8
 
-Y dijo Hezekías a Isaías: Bien ha dicho el Señor lo que has hablado. Porque habrá paz y verdad en mis días.
+Y dijo Ezequías a Isaías: Buena palabra de Jehová que hablaste. Y dijo: Porque habrá paz y verdad en mis días.
+
 
 ## Capítulo 40
 
@@ -3153,31 +3212,31 @@ Consolad, consolad a mi pueblo, dice vuestro Dios.
 
 ### 40:2
 
-Decid a Jerusalén que su servicio se ha cumplido, que su pecado se ha perdonado; porque ha recibido del Señor doble por todas sus iniquidades.
+Hablen sobre corazón de Jerusalén, y clamen a ella, que se llenó su ejército, que fue aceptada su iniquidad, que tomó de mano de Jehová dobles en todos sus pecados.
 
 ### 40:3
 
-¡Voz que clama en el desierto: Preparen el camino del Señor, enderecen en la llanura una senda para nuestro Dios!
+Voz de clamante: En el desierto allanen camino de Jehová; enderecen en la Arabá calzada a nuestro Dios.
 
 ### 40:4
 
-Todo valle se elevará, y toda montaña y colina se achatarán; lo irregular se enderezará, y lo accidentado se convertirá en llanura.
+Todo valle será alzado, y todo monte y collado serán abajados; y será lo torcido a llanura, y lo escabroso a valle abierto.
 
 ### 40:5
 
-Se manifestará la gloria del Señor, y toda la humanidad la verá juntos, porque ha hablado la boca del Señor.
+Y será revelada gloria de Jehová, y verá toda carne juntamente, porque boca de Jehová habló.
 
 ### 40:6
 
-Una voz dice: “¡Clama!”, y responde: “¿Qué debo clamar?” Todo la humanidad es hierba, y toda su bondad es como la flor del campo.
+Voz diciendo: Clama. Y dijo: ¿Qué clamaré? Toda la carne hierba, y toda su misericordia como flor del campo.
 
 ### 40:7
 
-Se seca la hierba, se marchita la flor, porque sopla sobre ellas el aliento del Señor. La hierba es la humanidad.
+Se secó hierba, se marchitó flor, porque espíritu de Jehová sopló en él; de veras hierba el pueblo.
 
 ### 40:8
 
-Se seca la hierba, se marchita la flor, pero la palabra de nuestro Dios perdura para siempre.
+Se secó hierba, se marchitó flor; y palabra de nuestro Dios se levantará para siempre.
 
 ### 40:9
 
@@ -3185,11 +3244,11 @@ Se seca la hierba, se marchita la flor, pero la palabra de nuestro Dios perdura 
 
 ### 40:10
 
-¡He aquí que el Señor viene con poder, y su brazo dominará para él! He aquí su recompensa con él, y su obra delante de él.
+He aquí Adonai Jehová con fuerte vendrá, y su brazo gobernando a él; he aquí su salario con él, y su obra delante de él.
 
 ### 40:11
 
-Como pastor pastoreará su rebaño; con su brazo reunirá los corderos, y en su seno los llevará; guiará a las hembras con cuidado.
+Como pastor su rebaño apacentará; en su brazo reunirá corderos, y en su seno alzará; las que crían conducirá.
 
 ### 40:12
 
@@ -3197,7 +3256,7 @@ Como pastor pastoreará su rebaño; con su brazo reunirá los corderos, y en su 
 
 ### 40:13
 
-¿Quién ha enseñado al Espíritu del Señor, o quién ha sido su consejero y le ha instruido?
+¿Quién midió espíritu de Jehová, y varón de su consejo le hará saber?
 
 ### 40:14
 
@@ -3213,7 +3272,7 @@ Y el Líbano no es suficiente para la leña, ni los animales de la tierra para e
 
 ### 40:17
 
-Todas las naciones son como nada delante de él; son consideradas como vacías e inútiles.
+Todas las naciones como nada delante de él; de nada y vacío fueron contadas a él.
 
 ### 40:18
 
@@ -3237,11 +3296,11 @@ El que habita en el círculo de la tierra se sienta sobre sus habitantes como si
 
 ### 40:23
 
-El que da a los que no tienen nada, juzga a los habitantes de la tierra como si fueran vacíos.
+el que da príncipes a nada; jueces de tierra como vacío hizo.
 
 ### 40:24
 
-También los que no plantan, no siembran, ni echan raíz en la tierra, y el viento los seca y los lleva como polvo.
+También no fueron plantados, también no fueron sembrados, también no arraigó en la tierra su tronco; y también sopló en ellos y se secaron, y tempestad como paja los alzará.
 
 ### 40:25
 
@@ -3249,7 +3308,7 @@ También los que no plantan, no siembran, ni echan raíz en la tierra, y el vien
 
 ### 40:26
 
-Alza tus ojos al cielo y mira quién creó todas estas cosas; cuenta el número de las estrellas, y a cada una le pone un nombre; por su grandeza y fortaleza, ninguno falta.
+Alcen a altura sus ojos de ustedes y vean: ¿Quién creó estos? El que saca en número su ejército; a todos ellos por nombre llama; de muchedumbre de fuerzas y fuerte de poder, varón no falta.
 
 ### 40:27
 
@@ -3257,7 +3316,7 @@ Alza tus ojos al cielo y mira quién creó todas estas cosas; cuenta el número 
 
 ### 40:28
 
-¿Acaso no lo has sabido, ni has oído desde antiguo? El Señor, Dios eterno, es el Creador del extremo de la tierra. No se cansa ni se fatiga, y su entendimiento no tiene medida.
+¿No conociste, si no oíste? Dios de eternidad Jehová, creador de extremos de la tierra; no se fatiga y no se cansa; no hay escrutinio a su inteligencia.
 
 ### 40:29
 
@@ -3269,13 +3328,14 @@ Pero los jóvenes se cansarán y se fatigarán, y los jóvenes vigorosos caerán
 
 ### 40:31
 
-Pero los que esperan en Jehová renovarán sus fuerzas; alzarán alas como águilas; correrán y no se cansarán, caminarán y no se fatigarán.
+Y los que esperan a Jehová renovarán fuerza; subirán ala como las águilas; correrán y no se cansarán; andarán y no se fatigarán.
+
 
 ## Capítulo 41
 
 ### 41:1
 
-Callad ante mí, islas, y cambien sus fuerzas las naciones. Acérquense y hablen, juntémonos para el juicio.
+Callen a mí islas, y pueblos renovarán fuerza; se acercarán, entonces hablarán; juntamente al juicio nos acercaremos.
 
 ### 41:2
 
@@ -3283,19 +3343,19 @@ Callad ante mí, islas, y cambien sus fuerzas las naciones. Acérquense y hablen
 
 ### 41:3
 
-Los perseguirá, pasará en paz; su camino no será en la senda de ellos.
+Los perseguirá, pasará paz; senda con sus pies no vendrá.
 
 ### 41:4
 
-¿Quién obró y realizó esto, llamando a los siglos desde el principio? Yo, Jehová, soy el primero, y con los últimos soy yo.
+¿Quién obró e hizo, llamando las generaciones desde cabeza? Yo Jehová, primero, y con los últimos yo él.
 
 ### 41:5
 
-Vieron las islas y temblaron; las extremidades de la tierra se estremecieron. Acérquense y vengan.
+Vieron islas y temieron; extremos de la tierra temblaron; se acercaron y vinieron.
 
 ### 41:6
 
-Cada uno ayudará a su compañero, y dirá a su hermano: Sígueme.
+Varón a su prójimo ayudarán, y a su hermano dirá: Sé fuerte.
 
 ### 41:7
 
@@ -3311,11 +3371,11 @@ al que fortalecí desde los confines de la tierra y al que llamé desde los alto
 
 ### 41:10
 
-No temas, porque contigo estoy; no te ateres, porque yo soy tu Dios. Yo te fortalecí, te ayudé, te sostuve con la diestra de mi justicia.
+No temas, porque contigo yo; no te desmayes, porque yo tu Dios; te fortifiqué, también te ayudé, también te sostuve con derecha de mi justicia.
 
 ### 41:11
 
-Miren, se avergonzarán y quedarán confundidos todos los que te despreciaban; se convertirán en nada y perecerán los que te oprimen.
+He aquí se avergonzarán y serán humillados todos los enfurecidos en ti; serán como nada y perecerán hombres de tu contienda.
 
 ### 41:12
 
@@ -3323,7 +3383,7 @@ Los buscarás, pero no los encontrarás; los que te oprimen serán como nada y c
 
 ### 41:13
 
-Porque yo, Jehová, tu Dios, que sostengo tu diestra, te digo: No temas, yo te ayudé.
+Porque yo Jehová tu Dios, asiendo tu derecha, el que dice a ti: No temas; yo te ayudé.
 
 ### 41:14
 
@@ -3331,11 +3391,11 @@ No temas, gusano de Jacob, descendencia de Israel; yo te ayudé, dice Jehová, y
 
 ### 41:15
 
-He aquí, te he puesto como un instrumento nuevo, afilado; serás dueño de las ciudades de tus enemigos. Destruirás montañas y las harás polvo; harás montes como tierra nivelada.
+He aquí te puse a trillo dentado nuevo, dueño de filos; trillarás montes y molerás, y collados como tamo pondrás.
 
 ### 41:16
 
-Los esparcirás, soplarás sobre ellos y los dispersarás; te regocijarás en Jehová, te gloriarás en el Santo de Israel.
+Los aventarás y viento los alzará, y tempestad los esparcirá; y tú te alegrarás en Jehová; en Santo de Israel te gloriarás.
 
 ### 41:17
 
@@ -3347,11 +3407,11 @@ Abriré ríos en los valles y manantiales en las montañas. Pondré desiertos en
 
 ### 41:19
 
-Daré en el desierto cedros, acacias y olivos; pondré en el llano bosques de encinas y cipreses juntos.
+Daré en el desierto cedro, sitá y mirto y árbol de aceite; pondré en la Arabá abeto, tidhar y teashur juntamente;
 
 ### 41:20
 
-Para que vean y reconozcan, para que coloquen juntos y entiendan, porque la mano de Jehová hizo esto, y el santo de Israel lo creó.
+para que vean y conozcan y pongan y entiendan juntamente, que mano de Jehová hizo esto, y Santo de Israel la creó.
 
 ### 41:21
 
@@ -3363,7 +3423,7 @@ Acérquense y díganos lo que llaman, las primeras cosas, ¿qué son estas? Díg
 
 ### 41:23
 
-Digan las señales para atrás, y sabremos que ustedes son dioses; también harán bien y mal, y nosotros nos postraremos y confiar en ustedes juntos.
+Anuncien las señales hacia atrás, y conozcamos que dioses ustedes; también hagan bien y hagan mal, y nos espantaremos juntamente.
 
 ### 41:24
 
@@ -3383,25 +3443,26 @@ Primero para Sion, he aquí, y para Jerusalén, daré un mensajero.
 
 ### 41:28
 
-Y veo, y no hay hombre; y entre ellos, y no hay consejero; y les pregunto, y no responden palabra.
+Y miré, y no hay varón; y de estos, y no hay consejero; y preguntaré a ellos, y devolverán palabra.
 
 ### 41:29
 
-He aquí, todos ellos son vanidad, ninguna obra de ellos es útil; espíritu y vacío son sus sacrificios.
+He aquí todos ellos iniquidad; nada sus obras; viento y vacío sus fundiciones.
+
 
 ## Capítulo 42
 
 ### 42:1
 
-He aquí, mi siervo, mi elegido, en quien mi alma se complació; puse mi Espíritu sobre él; juzgará a las naciones, dará leyes a los pueblos.
+He aquí mi siervo; lo sostendré; mi elegido, en quien se complació mi alma; puse mi espíritu sobre él; juicio a las naciones sacará.
 
 ### 42:2
 
-No clamará ni alzarán voz, ni hará oír su voz en la calle.
+No clamará y no alzará, y no hará oír en la calle su voz.
 
 ### 42:3
 
-Tendrá un cetro que no se romperá, un giro que no se doblará, juzgará con justicia.
+Caña cascada no quebrará, y pábilo humeante no apagará; a verdad sacará juicio.
 
 ### 42:4
 
@@ -3409,7 +3470,7 @@ No clamará ni alzará voz, ni hará oír su voz en la calle. Un giro que no se 
 
 ### 42:5
 
-Así dice el Señor, el que creó los cielos y los extendió, que extendió la tierra y todo lo que contiene, que da aliento al pueblo que en ella habita y al que camina en ella.
+Así dijo el Dios Jehová, creador de los cielos y los tendiendo, el que bate la tierra y sus brotes, dando aliento al pueblo sobre ella y espíritu a los que andan en ella:
 
 ### 42:6
 
@@ -3417,11 +3478,11 @@ Yo, el Señor, te he llamado en justicia, te he tomado de la mano, te he fortale
 
 ### 42:7
 
-Para abrir los ojos ciegos, para sacar de la prisión al cautivo, de la cárcel a los que habitan en tinieblas.
+para abrir ojos ciegos, para sacar de encierro preso, de casa de cárcel moradores de tiniebla.
 
 ### 42:8
 
-Yo soy el Señor, este es mi nombre, y mi gloria a otro no la daré, y mi alabanza a los ídolos no la daré.
+Yo Jehová; él mi nombre; y mi gloria a otro no daré, y mi alabanza a las imágenes.
 
 ### 42:9
 
@@ -3429,7 +3490,7 @@ He aquí que las primeras cosas han venido, y yo anuncio las nuevas cosas antes 
 
 ### 42:10
 
-Cantad al Señor un nuevo cántico, cantad su alabanza desde el extremo de la tierra, vosotros que bajáis al mar y todo lo que está en él, islas y sus habitantes.
+Canten a Jehová cántico nuevo, su alabanza desde extremo de la tierra; los que bajan al mar y su plenitud, islas y sus moradores.
 
 ### 42:11
 
@@ -3441,19 +3502,19 @@ Darán gloria al Señor los isleños, y su alabanza en las islas se dará a cono
 
 ### 42:13
 
-El Señor sale como un guerrero, como un hombre de guerra se excita, excita la ira, da voces, contra sus enemigos se enoja.
+Jehová como el fuerte saldrá; como varón de guerras despertará celo; gritará, también lanzará grito; sobre sus enemigos se fortalecerá.
 
 ### 42:14
 
-Desde antiguo he guardado silencio, he callado y no he sido turbado; como una mujer que da a luz, cuando da a luz, gime y dice: ¡Ya estoy para dar a luz! Así yo hago y no guardo silencio.
+Callé desde eternidad; callaré, me contengo; como la que da a luz gemiré; jadearé y respiraré juntamente.
 
 ### 42:15
 
-Destruiré montañas y colinas, y haré que todas sus plantas se marchiten; pondré ríos en islas y haré que sus pantanos se sequen.
+Asolaré montes y collados, y toda su hierba secaré; y pondré ríos a islas, y estanques secaré.
 
 ### 42:16
 
-Guiaré ciegos por un camino que no conocen, por senderos que no saben, los haré caminar. Pondré la oscuridad delante de ellos y riscos en sus senderos; hago estas cosas y no las dejo.
+Y haré andar ciegos en camino que no conocieron; en sendas que no conocieron los haré andar; pondré tiniebla delante de ellos a luz, y torcidos a llanura; estas las palabras las hice, y no los dejé.
 
 ### 42:17
 
@@ -3461,11 +3522,11 @@ Se retirarán avergonzados, los que confían en la imagen, los que dicen a la es
 
 ### 42:18
 
-¿Acaso los sordos no oyen? ¿Y los ciegos no ven?
+Los sordos, oigan; y los ciegos, miren para ver.
 
 ### 42:19
 
-¿Quién es ciego sino mi siervo, y sordo como mi mensajero que yo envío? ¿Quién es ciego y sordo como el que está tranquilo y temeroso de mi palabra?
+¿Quién ciego sino mi siervo, y sordo como mi mensajero que envío? ¿Quién ciego como el perfecto, y ciego como siervo de Jehová?
 
 ### 42:20
 
@@ -3473,7 +3534,7 @@ Ves muchas cosas, pero no las observas. Abres tus oídos, pero no escuchas.
 
 ### 42:21
 
-El Señor quiere que se sepa por su justicia: engrandece la ley y la hace resplandecer.
+Jehová se complació por su justicia; engrandecerá torá y la hará honorable.
 
 ### 42:22
 
@@ -3481,7 +3542,7 @@ Pero él es un pueblo despreciado y oprimido, un pueblo de naciones y de reinos,
 
 ### 42:23
 
-¿Quién entre vosotros escuchará esto? ¿Quién prestará atención y escuchará para entender?
+¿Quién en ustedes prestará oído a esto, atenderá y oirá hacia atrás?
 
 ### 42:24
 
@@ -3489,7 +3550,8 @@ Pero él es un pueblo despreciado y oprimido, un pueblo de naciones y de reinos,
 
 ### 42:25
 
-Y derramó sobre ellos su ira y su guerra, y les envió fuego a su alrededor, pero no lo vieron; y les prendió fuego, pero no lo comprendieron.
+Y derramó sobre él furor de su nariz y violencia de guerra; y lo inflamó desde alrededor y no conoció, y ardió en él y no puso sobre corazón.
+
 
 ## Capítulo 43
 
@@ -3499,7 +3561,7 @@ Pero ahora, así dice el Señor, el que te creó, Jacob, y el que te formó, Isr
 
 ### 43:2
 
-Porque cuando pases por el agua, estaré contigo; y cuando pases por los ríos, no te ahogarán; cuando pases por el fuego, no te quemarás, y la llama no te consumirá.
+Cuando pases en las aguas, contigo yo, y en los ríos no te inundarán; cuando andes en fuego no serás quemado, y llama no arderá en ti.
 
 ### 43:3
 
@@ -3507,27 +3569,27 @@ Porque yo, Jehová, soy tu Dios, el Santo de Israel, tu Salvador; he dado a camb
 
 ### 43:4
 
-Porque te he estimado en alto, y te he amado; y daré a los hombres a cambio de ti, y a las naciones a cambio de tu vida.
+Desde que fuiste precioso en mis ojos, fuiste honrado, y yo te amé; y daré humano debajo de ti, y pueblos debajo de tu alma.
 
 ### 43:5
 
-No temas, porque yo estoy contigo; desde el Oriente te traeré tu simiente, y desde el Occidente te juntaré.
+No temas, porque contigo yo; desde oriente traeré tu simiente, y desde occidente te reuniré.
 
 ### 43:6
 
-Diré al Norte: ‘Dádselo’, y al Sur: ‘No retengas’. Traeré a mis hijos desde lejos, y a mis hijas desde el extremo de la tierra.
+Diré al norte: Da; y al sur: No retengas; trae mis hijos desde lejos, y mis hijas desde extremo de la tierra,
 
 ### 43:7
 
-Todos los que me llaman y son hechos para mi gloria, a los que yo he creado, a los que yo he formado, a los que yo he hecho.
+todo el llamado en mi nombre, y para mi gloria lo creé; lo formé, también lo hice.
 
 ### 43:8
 
-Saca a un pueblo ciego, con ojos y sin vista, y a sordos, con oídos y sin oír.
+Saca pueblo ciego y ojos hay, y sordos y oídos a ellos.
 
 ### 43:9
 
-Todas las naciones se juntarán juntas, y se agruparán a los pueblos; ¿quién entre ellos anuncia esto, y les da a conocer las primeras cosas? Que den sus testimonios y sean justificados, y oigan y digan: ‘Verdad’.
+Todas las naciones se reunieron juntamente, y se juntarán pueblos: ¿Quién en ellos anunciará esto, y primeras nos hará oír? Den sus testigos y sean justificados, y oigan y digan: Verdad.
 
 ### 43:10
 
@@ -3535,11 +3597,11 @@ Vosotros sois mis testigos, dice Jehová, y mi siervo a quien yo he elegido, par
 
 ### 43:11
 
-Yo soy, yo soy Jehová, y además de mí no hay Salvador.
+Yo, yo Jehová, y no hay de aparte de mí salvador.
 
 ### 43:12
 
-Yo lo he dicho, lo he salvado, lo he anunciado; y no hay entre vosotros ajenos. Y vosotros sois mis testigos, dice Jehová, y yo soy Dios.
+Yo anuncié y salvé y hice oír, y no hay en ustedes extraño; y ustedes mis testigos —oráculo de Jehová— y yo Dios.
 
 ### 43:13
 
@@ -3551,11 +3613,11 @@ Así dice el Señor, tu Redentor, Santo de Israel: Por ti he enviado a Babilonia
 
 ### 43:15
 
-Yo soy el Señor, tu Santo, el que te creó, rey de Israel.
+Yo Jehová su Santo de ustedes, creador de Israel, su rey de ustedes.
 
 ### 43:16
 
-Así dice el Señor, el que da en el mar un camino y en las aguas turbulentas una senda.
+Así dijo Jehová, el que da en el mar camino, y en aguas fuertes senda;
 
 ### 43:17
 
@@ -3563,7 +3625,7 @@ El que saca carro y caballo, un ejército fuerte y poderoso; juntos se acuestan,
 
 ### 43:18
 
-No recuerdes las cosas pasadas ni consideres las cosas antiguas.
+No recuerden las primeras, y las antiguas no consideren.
 
 ### 43:19
 
@@ -3571,11 +3633,11 @@ He aquí, haré cosas nuevas; ahora brotarán; ¿no las conoceréis? También po
 
 ### 43:20
 
-Honraránme los animales del campo, los dragones y las aves; porque he dado en el desierto ríos y en el Líbano fuentes para que beban mi pueblo elegido.
+Me honrará animal del campo, chacales e hijas de avestruz, porque di en el desierto aguas, ríos en yeshimón, para abrevar a mi pueblo mi elegido.
 
 ### 43:21
 
-Este pueblo yo te he creado para mí, para que me glorifiques.
+Pueblo este formé a mí; mi alabanza contarán.
 
 ### 43:22
 
@@ -3583,7 +3645,7 @@ Y no me has llamado, Jacob; porque has trabajado para mí, Israel.
 
 ### 43:23
 
-No has traído a mí tus ovejas de holocausto ni has honradome con tus sacrificios; no te he servido con ofrendas ni he saciado a mí con incienso.
+No trajiste a mí cordero de tus holocaustos, y tus sacrificios no me honraste; no te hice servir en ofrenda, y no te cansé en incienso.
 
 ### 43:24
 
@@ -3595,11 +3657,11 @@ Yo, yo soy el que te perdona tus iniquidades por mi sake y tus pecados no los re
 
 ### 43:26
 
-Acuérdate de mí, juzguemos juntos; declara, para que seas justificado.
+Hazme recordar; juzguémonos juntamente; cuenta tú, para que seas justificado.
 
 ### 43:27
 
-Tu padre ha pecado, y tus profetas te han traicionado.
+Tu padre el primero pecó, y tus intérpretes prevaricaron en mí.
 
 ### 43:28
 
@@ -3607,9 +3669,12 @@ Profanaré a tus sacerdotes y castigaré a Israel con maldiciones.
 
 ## Capítulo 44
 
+
+## Capítulo 44
+
 ### 44:1
 
-Ahora, escucha, Jacob, mi siervo, y Israel, elegido mío.
+Y ahora, oye, Jacob mi siervo, e Israel que elegí en él.
 
 ### 44:2
 
@@ -3617,11 +3682,11 @@ Así dice el Señor, el que te ha formado y te ha creado desde el vientre: No te
 
 ### 44:3
 
-Porque yo derramaré agua sobre el sediento y ríos sobre la tierra seca; derramaré mi Espíritu sobre tu descendencia y mi bendición sobre tus descendientes.
+Porque derramaré aguas sobre sediento, y corrientes sobre sequedad; derramaré mi espíritu sobre tu simiente, y mi bendición sobre tus brotes.
 
 ### 44:4
 
-Y crecerán en medio del pasto como hierbas de arroyo sobre las aguas.
+Y brotarán entre hierba, como álamos sobre corrientes de aguas.
 
 ### 44:5
 
@@ -3641,15 +3706,15 @@ No teman ni se asusten, ¿acaso desde entonces no los he anunciado y no les he h
 
 ### 44:9
 
-Los que hacen el ídolo son vanidad, y las cosas en las que confían no sirven. Los testigos de ellos no ven ni saben para que se avergüencen.
+Formadores de ídolo todos ellos vacío, y sus deseables no aprovechan; y sus testigos ellos; no verán y no conocerán, para que se avergüencen.
 
 ### 44:10
 
-¿Quién forjó a un dios y fundió un ídolo para que no sirva de nada?
+¿Quién formó dios y ídolo fundió, para no aprovechar?
 
 ### 44:11
 
-Todos sus compañeros se avergonzarán; los artesanos son seres humanos. Todos se juntarán, se levantarán, temblarán y se avergonzarán juntos.
+He aquí todos sus compañeros se avergonzarán; y artífices ellos de humano; se reunirán todos ellos, se pararán, temerán, se avergonzarán juntamente.
 
 ### 44:12
 
@@ -3657,11 +3722,11 @@ El herrero trabaja con hierro y con carbón; con martillo y con yunque forma el 
 
 ### 44:13
 
-El carpintero extiende la cuerda, traza con el compás, talla con el cincel y marca con el círculo; hace una imagen humana para que se siente en la casa.
+Artífice de maderas tendió cordel; lo diseña con el estilete; lo hace con los cepillos, y con el compás lo diseña; y lo hizo como figura de varón, como hermosura de humano, para habitar casa.
 
 ### 44:14
 
-Corta cedros y toma tilos y cipreses; busca los mejores árboles. Planta un roble, y el lluvia lo hace crecer.
+Para cortar a él cedros, y tomó tirzá y encina, y se fortaleció a él en árboles de bosque; plantó oren, y lluvia lo hace crecer.
 
 ### 44:15
 
@@ -3669,11 +3734,11 @@ Y será para un hombre para quemar; toma de ellos y calienta, hace fuego y cocin
 
 ### 44:16
 
-La mitad la quema en el fuego; con la otra mitad come carne. Cocina, come hasta saciarse, y también calienta y dice: “Ahora está caliente.”
+Su mitad quemó en fuego; sobre su mitad carne comerá; asará asado y se saciará; también se calienta y dice: ¡Ah! Me calenté, vi fuego.
 
 ### 44:17
 
-Y la otra mitad la hace en forma de dios y de ídolo, se inclina ante él y se postra ante él, y dice: “Salva a mí, porque soy tu dios.”
+Y su resto a dios hizo, a su ídolo; a él se postra y ora a él, y dice: Sálvame, porque mi dios tú.
 
 ### 44:18
 
@@ -3681,11 +3746,11 @@ No saben ni entienden, porque sus ojos no ven ni su corazón comprende.
 
 ### 44:19
 
-No vuelve a su corazón, ni tiene conocimiento ni entendimiento para decir: “La mitad la quemo en el fuego, y sobre las brasas cocino pan; cocino, comojo y como. Y la otra mitad la hago en forma de abominación, para postrarme ante un tronco de árbol.”
+Y no vuelve a su corazón, y no conocimiento y no inteligencia, diciendo: Su mitad quemé en fuego, y también cocí sobre sus brasas pan; asaré carne y comeré; y su resto a abominación haré; a tronco de árbol me inclinaré.
 
 ### 44:20
 
-Come cenizas, su corazón se engaña, no salva su alma, ni dice: “¿Acaso no es mentira lo que digo con mi mano derecha?”
+Apacentando ceniza; corazón engañado lo inclinó; y no librará su alma, y no dirá: ¿No mentira en mi derecha?
 
 ### 44:21
 
@@ -3693,7 +3758,7 @@ Acuérdate, Jacob, y, Israel, porque soy tu Dios; yo te formé, eres mi siervo, 
 
 ### 44:22
 
-He borrado tus pecados como la niebla y tus transgresiones como la nube; vuelve a mí, porque yo te redimo.
+Borré como nube tus rebeliones, y como nube tus pecados; vuelve a mí, porque te redimí.
 
 ### 44:23
 
@@ -3701,11 +3766,11 @@ Griten los cielos, porque el Señor ha hecho maravillas; aclamen la tierra, porq
 
 ### 44:24
 
-Así dice el Señor, tu Redentor y el que te formó desde el vientre: Yo soy el Señor, quien hago todas las cosas, quien extiende los cielos por mí mismo y funda la tierra.
+Así dijo Jehová tu redentor y tu formador desde vientre: Yo Jehová haciendo todo, tendiendo cielos solo a mí, batiendo la tierra —
 
 ### 44:25
 
-Niega a los adivinos y a los astrólogos; confunde a los sabios y hace que su entendimiento sea locura.
+frustrando señales de mentirosos, y adivinos enloquece; haciendo volver sabios atrás, y su conocimiento hace necio;
 
 ### 44:26
 
@@ -3713,7 +3778,7 @@ Confirma la palabra de mi siervo y la idea de mis mensajeros, que dice a Jerusal
 
 ### 44:27
 
-Dice a la ciudad destruida: ‘Serás habitada’, y a tus ríos: ‘Serán renovados.’
+el que dice a la profundidad: Sé seca, y tus ríos secaré;
 
 ### 44:28
 
@@ -3721,9 +3786,12 @@ Dice a Ciro: ‘Eres mi pastor’, y añade: ‘Cumplirás todos mis deseos’, 
 
 ## Capítulo 45
 
+
+## Capítulo 45
+
 ### 45:1
 
-Así dice el Señor a su ungido, a Ciro, cuyo brazo fuerte me ha tomado: ‘Derribaré naciones ante ti y haré que los reyes te rindan homenaje; abriré las puertas delante de ti, y no cerraré las puertas.’
+Así dijo Jehová a su ungido, a Koresh, a quien fortalecí en su diestra, para hollar delante de él naciones, y lomos de reyes desataré; para abrir delante de él puertas, y portones no se cerrarán.
 
 ### 45:2
 
@@ -3731,7 +3799,7 @@ Yo iré delante de ti y haré que las puertas de bronce se abran y que los cerro
 
 ### 45:3
 
-Y te daré tesoros ocultos y tesoros escondidos, para que sepas que yo soy el Señor, el que te llama por tu nombre, el Dios de Israel.
+Y te daré tesoros de tinieblas y tesoros escondidos de lugares secretos, para que sepas que yo Jehová, el que llama en tu nombre, Dios de Israel.
 
 ### 45:4
 
@@ -3739,39 +3807,39 @@ Por amor a mi siervo Jacob y a Israel, mi elegido, te he llamado por tu nombre; 
 
 ### 45:5
 
-Yo soy el Señor, y no hay otro; además de mí no hay Dios. Te redimí, aunque no me conocías.
+Yo Jehová, y no hay más; fuera de mí no hay Dios; te ceñiré, y no me conociste.
 
 ### 45:6
 
-Para que sepan desde el oriente hasta el occidente que no hay otro que yo, que yo soy el Señor, y no hay otro.
+Para que sepan desde salida de sol y desde su ocaso, que no hay sino yo; yo Jehová, y no hay más.
 
 ### 45:7
 
-Yo formo la luz y creo las tinieblas; hago la paz y creo el mal. Yo soy el Señor, que hago todas estas cosas.
+Formador de luz y creador de tinieblas, hacedor de paz y creador de mal; yo Jehová, hacedor de todas estas.
 
 ### 45:8
 
-Que los cielos desde arriba te den rocío, y que las nubes te den lluvia justa. Que la tierra abra y broten salvación y justicia juntas; porque yo soy el Señor, que hago estas cosas.
+Destilen cielos desde arriba, y nubes destilen justicia; se abra tierra, y fructifiquen salvación, y justicia haga brotar a una; yo Jehová la creé.
 
 ### 45:9
 
-Ay, que el barro se rebela contra el que lo forma, y que la obra se levanta contra el que la hizo. ¿Acaso dirá el arcilla al que la hace: ¿Qué haces? ¿O dirá la obra al que la hace: No tienes manos?
+¡Ay, el que contiende con su formador, tiesto con tiestos de tierra! ¿Dirá el barro a su formador: Qué haces?, y tu obra: No hay manos a él?
 
 ### 45:10
 
-Ay, que dice el padre: ¿Qué darás a luz? Y a la madre: ¿Qué darás a luz?
+¡Ay, el que dice al padre: Qué engendras?, y a la mujer: Qué das a luz?
 
 ### 45:11
 
-Así dice el Señor, el Santo de Israel, y su formador: Pregúntame acerca de mis hijos y acerca del trabajo de mis manos.
+Así dijo Jehová, Santo de Israel, y su Formador: Las cosas venideras pregúntenme acerca de mis hijos, y acerca de obra de mis manos me manden.
 
 ### 45:12
 
-Yo hice la tierra y al hombre sobre ella; yo extendí mis manos sobre el cielo y lo hice, y ordené a todas sus hostes.
+Yo hice tierra, y hombre sobre ella creé; yo, mis manos tendieron cielos, y a todo su ejército mandé.
 
 ### 45:13
 
-Yo despertaré a ella en justicia, y todas sus caminos serán aprobados. Ella edificará la ciudad y devolverá a los cautivos, sin precio ni recompensa, dice el Señor de los ejércitos.
+Yo lo desperté en justicia, y todos sus caminos enderezararé; él edificará mi ciudad, y mi cautiverio soltará, no por precio y no por soborno, dijo Jehová de ejércitos.
 
 ### 45:14
 
@@ -3779,19 +3847,19 @@ Así dice el Señor: El sudor de Egipto y el comercio de Kush y de Seba, hombres
 
 ### 45:15
 
-Tú eres un Dios oculto, oh Dios de Israel, Salvador.
+Ciertamente tú Dios que te escondes, Dios de Israel, Salvador.
 
 ### 45:16
 
-Se avergonzarán y se humillarán todos juntos; irán en vergüenza, los que forjan imágenes de madera.
+Se avergonzaron y también fueron confundidos todos ellos; a una fueron en confusión artífices de ídolos.
 
 ### 45:17
 
-Israel será salvo por el Señor, por la salvación eterna. No se avergonzarán ni se humillarán jamás, desde generación en generación.
+Israel es salvado en Jehová, salvación de siempre; no se avergonzarán ustedes y no serán confundidos ustedes hasta edades de siempre.
 
 ### 45:18
 
-Porque así dice el Señor, el Creador del cielo, él es el Dios, el Formador de la tierra y el que la hace, él la establece, no la creó para ser vacía, para ser habitada la hizo. Yo soy el Señor, y no hay otro.
+Porque así dijo Jehová, creador de los cielos; él el Dios; formador de la tierra y su hacedor; él la estableció; no vacío la creó, para habitar la formó; yo Jehová, y no hay más.
 
 ### 45:19
 
@@ -3811,11 +3879,11 @@ Vénganse a mí y serán salvos, todos los confines de la tierra, porque yo soy 
 
 ### 45:23
 
-En mí juré, salió de mi boca la justicia, la palabra no volverá atrás, porque a mí se doblará toda rodilla, toda lengua jurará.
+Por mí juré; salió de mi boca justicia, palabra, y no volverá: Que a mí se doblará toda rodilla, jurará toda lengua.
 
 ### 45:24
 
-Sólo en el Señor, para mí, dijo justicia y fortaleza, vendrá y se avergonzarán todos los enojados contra él.
+Solo en Jehová, a mí dijo, justicias y fuerza; a él vendrá, y se avergonzarán todos los enfurecidos en él.
 
 ### 45:25
 
@@ -3823,9 +3891,12 @@ En el Señor serán justificados y gloriarán todos los descendientes de Israel.
 
 ## Capítulo 46
 
+
+## Capítulo 46
+
 ### 46:1
 
-Se postró Bel, se dobló Nabu, sus imágenes fueron para la vida y para la bestia, los que los llevan son cargados, carga para el cansado.
+Se dobló Bel, se encorvó Nebo; fueron sus ídolos a la bestia y al animal; las cargas de ustedes cargadas, carga a la cansada.
 
 ### 46:2
 
@@ -3841,19 +3912,19 @@ Y hasta la vejez yo soy él, y hasta la ancianidad yo los llevaré, yo los hice 
 
 ### 46:5
 
-¿A quién se le parecen y se le asemejan, y le gobiernan y le son semejantes?
+¿A quién me asemejarán ustedes y igualarán, y me compararán ustedes, y seremos semejantes?
 
 ### 46:6
 
-Los que amasan oro y funden plata, y le contratan a un herrero para hacer un dios, y se postran ante él y adoranlo.
+Los que derraman oro de bolsa, y plata en caña pesan; alquilan fundidor, y lo hace dios; se postran, aun se postrarán.
 
 ### 46:7
 
-Lo llevarán sobre el hombro, lo cargarán y lo pondrán en su lugar, no se moverá; también clamará a él, pero no responderá, porque en su adversidad no lo salvará.
+Lo llevan sobre hombro, lo cargan, y lo asientan en su lugar, y se para; de su lugar no se mueve; aun clama a él, y no responde; de su angustia no lo salva.
 
 ### 46:8
 
-Acuérdate de esto y avergüéntate; los pecadores son reprendidos en su corazón.
+Acuerden esto, y fortifíquense; vuelvan, prevaricadores, sobre corazón.
 
 ### 46:9
 
@@ -3869,11 +3940,14 @@ Llamo desde el Oriente al pájaro, desde tierras lejanas a un hombre, y hablo, y
 
 ### 46:12
 
-Escuchenme, los de gran corazón, los que están lejos de la justicia.
+Oigan a mí, fuertes de corazón, los lejanos de justicia.
 
 ### 46:13
 
 He traído mi justicia, no tardará; y mi salvación no se demorará. Pondré en Sion salvación, y gloria para Israel.
+
+## Capítulo 47
+
 
 ## Capítulo 47
 
@@ -3883,15 +3957,15 @@ Baja y siéntate en la tierra, hija de Babilonia, siéntate en la tierra, hija d
 
 ### 47:2
 
-Toma las almohadas y tritura harina, despliega tu paño, deshaz tu vestido, descubre tus piernulas, sobre los ríos.
+Toma piedras de molino y muele harina; descubre tu velo, descubre falda, descubre pierna, pasa ríos.
 
 ### 47:3
 
-Se te descubrirá la desnudez, también se te verá la vergüenza; tomaré venganza, y no perdonaré a ningún hombre.
+Se descubrirá tu desnudez; también será vista tu afrenta; venganza tomaré, y no encontraré hombre.
 
 ### 47:4
 
-Redentor del Señor de los ejércitos es su nombre, santo de Israel.
+Nuestro Redentor, Jehová de ejércitos su nombre, Santo de Israel.
 
 ### 47:5
 
@@ -3899,11 +3973,11 @@ Sé silenciosa y entra en tinieblas, hija de los caldeos, porque no serás llama
 
 ### 47:6
 
-Me he enojado con mi pueblo, he profanado su heredad y los he entregado en tus manos; no he tenido misericordia de ellos, no he tenido misericordia del anciano, y he pesado tus cargas demasiado.
+Me enojé sobre mi pueblo, profané mi heredad, y los di en tu mano; no pusiste a ellos misericordias; sobre anciano hiciste pesado tu yugo mucho.
 
 ### 47:7
 
-Y has dicho: Yo seré reina para siempre. No has puesto estas cosas en tu corazón, no has recordado tu final.
+Y dijiste: Para siempre seré señora; hasta que no pusiste estas sobre tu corazón, no acordaste su fin.
 
 ### 47:8
 
@@ -3915,15 +3989,15 @@ Y vendrán sobre ti en un día dos calamidades, muerte y viudez, en su totalidad
 
 ### 47:10
 
-Y has confiado en tu maldad, has dicho: No hay quien me vea. Tu sabiduría y tu conocimiento te han engañado, y has dicho en tu corazón: Yo y mi voluntad serán siempre.
+Y confiaste en tu maldad; dijiste: No hay el que me ve; tu sabiduría y tu conocimiento ella te hizo volver atrás; y dijiste en tu corazón: Yo, y no hay más.
 
 ### 47:11
 
-Y vendrá sobre ti la maldad, no la conocerás, vendrá sobre ti la calamidad, no podrás pagarla, vendrá sobre ti de pronto la ruina, no la conocerás.
+Y vendrá sobre ti mal, no sabrás su alba; y caerá sobre ti ruina, no podrás expiarla; y vendrá sobre ti de pronto devastación, no sabrás.
 
 ### 47:12
 
-Establece ahora a tus adivinadores y a la multitud de tus hechicerías, en las cuales has trabajado desde tu juventud, para que tal vez puedas aprovechar algo, para que tal vez puedas tener éxito.
+Estate ahora en tus conjuras y en muchedumbre de tus hechizos, en que te fatigaste desde tu juventud; quizá puedas aprovechar, quizá aterrorizarás.
 
 ### 47:13
 
@@ -3939,29 +4013,32 @@ Así han sido para ti, que has trabajado desde tu juventud, tus mercaderes de ca
 
 ## Capítulo 48
 
+
+## Capítulo 48
+
 ### 48:1
 
 Escuchad esto, casa de Jacob, llamados por el nombre de Israel, que salisteis de los manantiales de Judá, que jurasteis por el nombre de Jehová y por el Dios de Israel, y no habéis jurado por la verdad ni por la justicia.
 
 ### 48:2
 
-Porque de la ciudad santa fueron llamados, y sobre el Dios de Israel se apoyaron; Jehová de los ejércitos es su nombre.
+Porque de ciudad de la santidad son llamados, y sobre Dios de Israel se apoyaron; Jehová de ejércitos su nombre.
 
 ### 48:3
 
-Desde el principio te lo dije, y de mi boca salieron estas palabras, y te las hice oír; de repente las hice, y se cumplieron.
+Las primeras desde entonces anuncié, y de mi boca salieron, y las hice oír; de pronto hice, y vinieron.
 
 ### 48:4
 
-Porque sabía que eres obstinado, y tu cuello es de hierro, y tu frente de bronce.
+De mi saber que duro eres tú, y nervio de hierro tu cerviz, y tu frente bronce.
 
 ### 48:5
 
-Y te lo anuncié desde el principio, antes de que vinieras, te lo hice oír, para que no digas: Mi deseo lo ha hecho, y mi ídolo y mi ofrenda lo han ordenado.
+Y te anuncié desde entonces; antes que viniera te hice oír, no sea que digas: Mi ídolo las hizo, y mi escultura y mi fundición las mandó.
 
 ### 48:6
 
-Has oído profecía, toda ella, y vosotros no la habéis anunciado; te he anunciado cosas nuevas desde entonces, y cosas ocultas, que no conocías.
+Oíste; mira toda ella; y ustedes, ¿no anunciarán? Te hice oír nuevas desde ahora, y guardadas, y no las conociste.
 
 ### 48:7
 
@@ -3981,7 +4058,7 @@ He refinado a ti, y no con plata; te he escogido en el crisol de la tribulación
 
 ### 48:11
 
-Por ti, por ti haré esto, ¿cómo esperará? Y mi gloria a otro no la daré.
+Por amor de mí, por amor de mí haré, porque ¿cómo será profanado?, y mi gloria a otro no daré.
 
 ### 48:12
 
@@ -3989,7 +4066,7 @@ Oye a mí, Jacob, y a ti, Israel, llamado por mi nombre; yo soy el primero, y yo
 
 ### 48:13
 
-También mi mano ha fundado la tierra, y mi derecha ha extendido los cielos; yo llamo a ellos, y juntos se levantan.
+Aun mi mano fundó tierra, y mi diestra midió cielos; llamo yo a ellos, se paran a una.
 
 ### 48:14
 
@@ -3997,7 +4074,7 @@ Reuníos, todos juntos, y oídlo: ¿Quién entre ellos ha anunciado esto? Jehov�
 
 ### 48:15
 
-Yo, yo hablé, también llamé a él; lo traje y hice prosperar su camino.
+Yo, yo hablé; aun lo llamé; lo traje, e hizo prosperar su camino.
 
 ### 48:16
 
@@ -4005,15 +4082,15 @@ Acérquense a mí, escuchen esto: No hablé desde el principio en secreto, desde
 
 ### 48:17
 
-Así dice Jehová, tu Redentor, Santo de Israel: Yo, Jehová, tu Dios, te enseño para provecho, te guío por el camino que debes seguir.
+Así dijo Jehová, tu Redentor, Santo de Israel: Yo Jehová tu Dios, el que te enseña para aprovechar, el que te hace andar en camino que andarás.
 
 ### 48:18
 
-Si hubieras escuchado mis mandamientos, tu paz habría sido como un río, y tu justicia como las olas del mar.
+¡Ojalá hubieras atendido a mis mandamientos! Y hubiera sido como el río tu paz, y tu justicia como olas del mar.
 
 ### 48:19
 
-Y tu descendencia será como el polvo, y tus descendientes como las arenas del mar; su nombre no será cortado ni destruido delante de mí.
+Y hubiera sido como la arena tu simiente, y salidos de tus entrañas como sus granos; no sería cortado y no sería destruido su nombre de delante de mí.
 
 ### 48:20
 
@@ -4021,29 +4098,30 @@ Salid de Babilonia, huid de la Mesopotamia, en voz de alabanza dad a conocer, pr
 
 ### 48:21
 
-Y no tuvieron sed en las soledades, él les hizo correr aguas de la roca, y les hizo brotar como un manantial.
+Y no tuvieron sed en yermos; los condujo; aguas de peña hizo fluir para ellos; y partió peña, y corrieron aguas.
 
 ### 48:22
 
-No hay paz, dice Jehová, para los malvados.
+No hay paz, dijo Jehová, a los impíos.
+
 
 ## Capítulo 49
 
 ### 49:1
 
-Oíd, islas, a mí, y escuchad, pueblos lejanos; Jehová me ha llamado desde el vientre, desde las entrañas de mi madre me ha mencionado mi nombre.
+Oigan, islas, a mí, y atiendan, pueblos, desde lejos: Jehová desde vientre me llamó; desde entrañas de mi madre mencionó mi nombre.
 
 ### 49:2
 
-Y puso mi boca como una espada afilada, en la sombra de su mano me escondió, y me hizo un arco bien afinado, en su aljaba me escondió.
+Y puso mi boca como espada afilada; en sombra de su mano me escondió; y me puso por flecha limpia; en su aljaba me ocultó.
 
 ### 49:3
 
-Y me dijo: Tú eres mi siervo, Israel, en quien me gloriaré.
+Y me dijo: Mi siervo eres tú, Israel, en quien me gloriaré.
 
 ### 49:4
 
-Y yo dije: En vano he trabajado, en vano he agotado mi fuerza; ciertamente, mi juicio está con Jehová, y mi recompensa con mi Dios.
+Y yo dije: Por vacío me fatigué; por vacío y vanidad mi fuerza consumí; ciertamente mi juicio con Jehová, y mi obra con mi Dios.
 
 ### 49:5
 
@@ -4055,7 +4133,7 @@ Y dijo: Es fácil que seas para mí un siervo, para levantar las tribus de Jacob
 
 ### 49:7
 
-Así dice Jehová, el Redentor de Israel, el Santo: A aquel a quien desprecian los hombres, a quien aborrece el pueblo, a los siervos de los príncipes serán reyes, y a los gobernantes serán nobles, por amor de Jehová, que es fiel, el Santo de Israel, y que te escogió.
+Así dijo Jehová, Redentor de Israel, su Santo, al despreciado de alma, al abominado de nación, al siervo de gobernantes: Reyes verán y se levantarán; príncipes, y se postrarán; por amor de Jehová que es fiel, Santo de Israel, y te escogió.
 
 ### 49:8
 
@@ -4063,23 +4141,23 @@ Así dice Jehová: En tiempo de gracia te he escuchado, y en día de salvación 
 
 ### 49:9
 
-Para decir a los cautivos: Salid; a los que están en tinieblas: Revelaos. En los caminos pasturarán, y en todas las cumbres de los montes comerán.
+diciendo a los atados: Salgan; a quien en tiniebla: Descubran. Sobre caminos pastarán, y en todas alturas rasas su pastoreo.
 
 ### 49:10
 
-No tendrán hambre ni sed, y el calor ni el sol los castigará; porque el que los tiene en misericordia los guiará a manantiales de agua.
+No tendrán hambre y no tendrán sed, y no los herirá ardor y sol; porque su Compadecedor los guiará, y sobre manantiales de aguas los conducirá.
 
 ### 49:11
 
-Y pondré todas las montañas por camino, y las sendas serán elevadas.
+Y pondré todos mis montes por camino, y mis calzadas serán alzadas.
 
 ### 49:12
 
-He aquí, estos vienen de lejos, y aquellos de oriente y del occidente, y estos de tierra de Sinear.
+He aquí estos desde lejos vendrán; y he aquí estos desde norte y desde mar; y estos desde tierra de Sinim.
 
 ### 49:13
 
-Renen, cielos, y alegraos, tierra; estallen de gozo los montes; porque Jehová ha consolado su pueblo, y tendrá misericordia de los pobres de su pueblo.
+Canten cielos, y alégrate, tierra; montes, júbilo; porque consoló Jehová a su pueblo, y a sus afligidos compadecerá.
 
 ### 49:14
 
@@ -4087,23 +4165,23 @@ Y dijo Sión: Ha desechado a mí Jehová, y mi Señor se ha olvidado de mí.
 
 ### 49:15
 
-¿Acaso olvidará una madre a su hijo, para no tener misericordia del hijo de sus entrañas? Aunque olvides, yo no te olvidaré.
+¿Olvidará mujer a su lactante, de compadecer hijo de su vientre? También estas olvidarán, y yo no te olvidaré.
 
 ### 49:16
 
-He grabado tus muros en mis manos; tus murallas están siempre delante de mí.
+He aquí sobre palmas te grabé; tus muros delante de mí siempre.
 
 ### 49:17
 
-Pronto vendrán tus hijos, los que te destruyeron y te desolaron; vendrán de ti.
+Se apresuraron tus hijos; tus derribadores y tus devastadores de ti saldrán.
 
 ### 49:18
 
-Mira alrededor, mira, todos ellos se juntan y vienen a ti. Vivo yo, dice el Señor, que como un vestido te cubrirán y como un cinto te ceñirán.
+Alza alrededor tus ojos y mira: Todos ellos se reunieron, vinieron a ti. Vivo yo, dicho de Jehová, que a todos ellos como adorno te vestirás, y te ceñirás como la novia.
 
 ### 49:19
 
-Porque tus ruinas y tus desolaciones, y la tierra destruida, ahora serán habitadas; y los que te devoraban se alejarán de ti.
+Porque tus ruinas y tus desolaciones y tierra de tu derribo, porque ahora serás estrecha de habitante, y se alejaron tus tragadores.
 
 ### 49:20
 
@@ -4115,19 +4193,19 @@ Entonces dirás en tu corazón: “¿Quién me dio a luz a estos? Yo estaba est�
 
 ### 49:22
 
-Así dice el Señor: He aquí que levantaré mi mano sobre las naciones y alzará mi bandera sobre los pueblos; y traerán tus hijos en cintos y tus hijas sobre hombros.
+Así dijo Adonai Jehová: He aquí alzaré a naciones mi mano, y a pueblos alzaré mi enseña; y traerán tus hijos en seno, y tus hijas sobre hombro serán llevadas.
 
 ### 49:23
 
-Serán tus príncipes como tus amantes, y tus gobernantes como tus hijos. La tierra entera se postrará ante ti y besarán la tierra sobre la cual pisan tus pies. Entonces sabrás que yo soy el Señor, y que los que te esperaban no se avergonzarán.
+Y serán reyes tus ayos, y sus princesas tus nodrizas; rostros a tierra se postrarán a ti, y polvo de tus pies lamerán; y sabrás que yo Jehová, que no se avergonzarán los que me esperan.
 
 ### 49:24
 
-¿Se quitará el poderoso su riqueza? ¿Y el justo será esclavo y no será liberado?
+¿Será tomado de valiente el botín? ¿Y si cautivo de justo escapará?
 
 ### 49:25
 
-Porque así dice el Señor: Aunque el poderoso sea llevado cautivo, y el rico sea esclavo, yo seré tu defensor y yo seré tu redentor.
+Porque así dijo Jehová: También cautivo de valiente será tomado, y botín de tirano escapará; y a tu contendedor yo contendré, y a tus hijos yo salvaré.
 
 ### 49:26
 
@@ -4135,13 +4213,16 @@ Comeré tus enemigos con tu alimento, y con tu sangre beberán sus lágrimas; y 
 
 ## Capítulo 50
 
+
+## Capítulo 50
+
 ### 50:1
 
-Así dice el Señor: ¿Es este el libro de divorcio de tu madre, que yo envié, o es el que vendí yo a tu favor? No, por tus pecados fuiste vendida, y por tus iniquidades fuiste llevada lejos.
+Así dijo Jehová: ¿Dónde este libro de divorcio de su madre de ustedes, que la envié? ¿O quién de mis acreedores, a quien los vendí a ustedes a él? He aquí en sus iniquidades de ustedes fueron vendidos ustedes, y en sus rebeliones de ustedes fue enviada su madre de ustedes.
 
 ### 50:2
 
-¿Por qué vine yo, y no hay nadie? ¿Por qué llamo, y nadie responde? ¿Acaso corta mi mano la redención, o no tengo fuerza para liberar? No, es por mi ira que destruyo el mar, hago los ríos pasar por el desierto, y la pesca se corrompe por falta de agua, y muere de sed.
+¿Por qué vine, y no hay varón? Llamé, y no hay respondiente. ¿Acortando se acortó mi mano de redención? ¿Y si no hay en mí fuerza para librar? He aquí con mi reprensión seco mar; pongo ríos desierto; hiede su pez de no haber aguas, y muere de sed.
 
 ### 50:3
 
@@ -4149,15 +4230,15 @@ Viste con vestiduras de luto los cielos, y pon un saco por vestido.
 
 ### 50:4
 
-El Señor Jehová me ha dado lengua de enseñanza para que sepa a qué responder al cansado, cada mañana despierto para escuchar como enseñanza.
+Adonai Jehová me dio lengua de enseñados, para saber sostener al cansado palabra; despierta por la mañana, por la mañana despierta a mí oído, para oír como los enseñados.
 
 ### 50:5
 
-El Señor Jehová me ha abierto el oído, y no he sido rebelde; he dado la espalda, no he retrocedido.
+Adonai Jehová abrió a mí oído, y yo no fui rebelde; atrás no me volví.
 
 ### 50:6
 
-Hice mi espalda para los golpes, y mis mejillas para los puños; no escondí mi rostro de la vergüenza y la saliva.
+Mi espalda di a heridores, y mis mejillas a arrancadores; mi rostro no escondí de afrentas y saliva.
 
 ### 50:7
 
@@ -4173,17 +4254,18 @@ He aquí, el Señor Jehová me ayudará, ¿quién me condenará? He aquí, todos
 
 ### 50:10
 
-¿Quién entre vosotros teme al Señor, que oye la voz de su siervo, que anda en tinieblas y no tiene luz, y confía en el nombre del Señor, y se apoya en su Dios?
+¿Quién entre ustedes temeroso de Jehová, oidor en voz de su siervo? Que anduvo tinieblas, y no hay resplandor a él, confíe en nombre de Jehová, y apóyese en su Dios.
 
 ### 50:11
 
-He aquí, todos vosotros sois encendedores de fuego, tenéis brasas encendidas. Id, quemad con vuestra propia llama, y con vuestros carbones ardientes. De mi mano ha salido esto para vosotros, y os acostaréis en un montón de ruinas.
+He aquí todos ustedes encendedores de fuego, ceñidores de teas; anden en luz de fuego de ustedes, y en teas que encendieron ustedes; de mi mano fue esto a ustedes; para tormento yacerán ustedes.
+
 
 ## Capítulo 51
 
 ### 51:1
 
-Escuchadme, vosotros que buscáis la justicia, y los que amáis a Jehová, mirad al roca de vuestra alianza, y al pozo de agua que os ha cavado.
+Oigan a mí, perseguidores de justicia, buscadores de Jehová: Miren al peñasco de que fueron cortados ustedes, y a excavación de pozo de que fueron cavados ustedes.
 
 ### 51:2
 
@@ -4195,27 +4277,27 @@ Porque Jehová ha consolado a Sion; ha consolado a todas sus ruinas; ha hecho el
 
 ### 51:4
 
-Escuchadme, pueblo mío, y atendedme, nación mía; porque de mí saldrá la ley, y mi juicio será luz de las gentes.
+Atiendan a mí, mi pueblo, y mi nación, a mí escuchen; porque torá de conmigo saldrá, y mi juicio para luz de pueblos haré reposar.
 
 ### 51:5
 
-Cerca está mi justicia, se ha manifestado mi salvación; y mi brazo juzgará a las naciones; a mí esperarán las islas, y a mi brazo confiarán.
+Cercana mi justicia; salió mi salvación, y mis brazos juzgarán a los pueblos; a mí las islas esperarán, y a mi brazo aguardarán.
 
 ### 51:6
 
-Mirad al cielo y ved la tierra abajo; porque los cielos se desvanecerán como humo, y la tierra se desgastará como un vestido; y los que la habitan morirán como gusanos; pero mi salvación será eterna, y mi justicia no será anulada.
+Alcen a los cielos sus ojos de ustedes, y miren a la tierra debajo; porque cielos como el humo se disiparán, y la tierra como el vestido se envejecerá, y sus moradores como así morirán; y mi salvación para siempre será, y mi justicia no será quebrantada.
 
 ### 51:7
 
-Escuchadme, vosotros que conocéis la justicia, pueblo mío que tenéis mi ley en el corazón, no temáis la afrenta del hombre, ni os dejéis abatir por sus injurias.
+Oigan a mí, conocedores de justicia, pueblo: mi torá en su corazón; no teman afrenta de hombre, y de sus blasfemias no se quebranten.
 
 ### 51:8
 
-Porque como un vestido se los comerá la langosta, y como la lana se los comerá el gusano; pero mi justicia será eterna, y mi salvación de generación en generación.
+Porque como el vestido los comerá polilla, y como la lana los comerá polilla; y mi justicia para siempre será, y mi salvación para generación de generaciones.
 
 ### 51:9
 
-Despierta, despierta, viste de fortaleza, oh brazo de Jehová; despierta, como en los días antiguos, como en los siglos pasados. ¿Acaso no eres tú la que ha hachado Rahab, la que ha despertado a la serpiente?
+Despierta, despierta, vístete de fuerza, brazo de Jehová; despierta como en los días antiguos, en las generaciones de siempre. ¿No eres tú, ella, la que cortó a Rahav, la que traspasó al tanín?
 
 ### 51:10
 
@@ -4223,11 +4305,11 @@ Despierta, despierta, viste de fortaleza, oh brazo de Jehová; despierta, como e
 
 ### 51:11
 
-Y los redimidos de Jehová volverán, y vendrán a Sion con alabanza; y la alegría eterna estará sobre sus cabezas; gozo y alegría los alcanzarán, y tristeza y gemido huirán.
+Y redimidos de Jehová volverán, y vendrán a Sión con júbilo, y alegría de siempre sobre su cabeza; gozo y alegría alcanzarán; huyeron dolor y gemido.
 
 ### 51:12
 
-Yo, yo soy el que os consuela; ¿quién es, y temerá a un hombre que muere, o a un hijo de hombre que se convierte en hierba?
+Yo, yo él, el que consuela a ustedes: ¿Quién tú, y temiste de hombre que morirá, y de hijo de hombre hierba será dado?
 
 ### 51:13
 
@@ -4235,11 +4317,11 @@ Has olvidado a Jehová, tu Hacedor, que extendió los cielos y fundó la tierra;
 
 ### 51:14
 
-El pastor se apresura a abrir, y no morirá para la destrucción; y no le faltará el pan.
+Se apresuró el encorvado a ser soltado, y no morirá a la fosa, y no faltará su pan.
 
 ### 51:15
 
-Yo, yo soy Jehová tu Dios, que tranquilizo el mar y hago que las olas se acalmen; Jehová de los ejércitos es mi nombre.
+Y yo Jehová tu Dios, agitando el mar, y braman sus olas; Jehová de ejércitos su nombre.
 
 ### 51:16
 
@@ -4259,25 +4341,26 @@ Dos cosas te llaman: ¿Quién se compadecerá de ti? La destrucción y el despoj
 
 ### 51:20
 
-Tus hijos han sido pastoreados, y duermen en todas las calles, como en un campo de higos; son llenos de la ira de Jehová, la afrenta de tu Dios.
+Tus hijos desfallecieron; yacieron en cabeza de todas calles como antílope de red; los llenos de furor de Jehová, reprensión de tu Dios.
 
 ### 51:21
 
-Por eso, oye esto, oh pobre y borracha, pero no de vino.
+Por tanto oye ahora esto, afligida, y embriagada, y no de vino.
 
 ### 51:22
 
-Así dice tu Señor, Jehová, y tu Dios, que defiende a su pueblo: He aquí que te quito de la mano el cáliz de la desolación, el cáliz de la copa de mi ira; ya no lo beberás más.
+Así dijo tu Señor Jehová, y tu Dios, el que contiende por su pueblo: He aquí tomé de tu mano el vaso del vértigo, el cáliz del vaso de mi furor; no añadirás a beberlo más.
 
 ### 51:23
 
-Y pondré en tu mano el cáliz que tus enemigos te dijeron: ‘Beba, y pásate’, y te convertiré en tierra pisada, como la calle para los que pasan.
+Y lo pondré en mano de tus atormentadores, que dijeron a tu alma: Inclínate, y pasaremos; y pusiste como la tierra tu espalda, y como calle a los pasantes.
+
 
 ## Capítulo 52
 
 ### 52:1
 
-Despiértate, despiértate, viste tu fuerza, Sion; viste las vestiduras de tu gloria, Jerusalén, ciudad santa; porque ya no vendrá en ti el que está descalzo y sucio.
+Despierta, despierta, vístete tu fuerza, Sión; vístete vestidos de tu hermosura, Jerusalén, ciudad de la santidad; porque no añadirá entrar en ti más incircunciso e inmundo.
 
 ### 52:2
 
@@ -4285,15 +4368,15 @@ Despiértate de la tierra, levántate, Sión; despliega las cadenas de tu cuello
 
 ### 52:3
 
-Porque así ha dicho el Señor: En vano fueron vendidos, y no por plata serán redimidos.
+Porque así dijo Jehová: De balde fueron vendidos ustedes, y no con plata serán redimidos ustedes.
 
 ### 52:4
 
-Porque así ha dicho el Señor, Jehová: En Egipto bajó mi pueblo al principio para morar allí, y Asiria en la opresión.
+Porque así dijo Adonai Jehová: A Egipto descendió mi pueblo al principio, para peregrinar allí; y Asiria en nada lo oprimió.
 
 ### 52:5
 
-Ahora, pues, ¿quién me da a entender esto? Porque fueron vendidos mi pueblo en vano, y sus señores se regocijan, dice el Señor, y mi nombre es continuamente todo el día blasfemado.
+Y ahora aquí, dicho de Jehová, porque fue tomado mi pueblo de balde; aullan, dicho de Jehová, y siempre todo el día mi nombre es blasfemado.
 
 ### 52:6
 
@@ -4309,23 +4392,23 @@ La voz de tus centinelas, levantan la voz, juntamente dan voces de alegría, por
 
 ### 52:9
 
-Abrense, abrense, juntamente, oh ciudades de Jerusalem, porque el Señor consoló a su pueblo, y redimió a Jerusalem.
+Prorrumpan, canten a una, ruinas de Jerusalén; porque consoló Jehová a su pueblo; redimió a Jerusalén.
 
 ### 52:10
 
-Ha descubierto el Señor el brazo de su santidad a los ojos de todas las gentes, y verán todas las potencias de la tierra la salvación de nuestro Dios.
+Desnudó Jehová el brazo de su santidad a ojos de todas las naciones; y verán todos extremos de tierra la salvación de nuestro Dios.
 
 ### 52:11
 
-Apartaos, apartaos, salid de allí, no toquéis cosa inmunda; salid de en medio de ella, limpiados, los que lleváis los utensilios del Señor.
+Apártense, apártense, salgan de allí; inmundo no toquen; salgan de en medio de ella; límpiense, portadores de vasos de Jehová.
 
 ### 52:12
 
-Porque no saldréis con prisa, ni iréis por camino de exilio, porque el Señor va delante de vosotros, y el Dios de Israel os recogerá.
+Porque no en prisa saldrán ustedes, y en huida no irán ustedes; porque anda delante de ustedes Jehová, y su reunidor de ustedes Dios de Israel.
 
 ### 52:13
 
-He aquí que mi siervo prosperará, será exaltado y engrandecido sobremanera.
+He aquí prosperará mi siervo; será exaltado y alzado y ensalzado mucho.
 
 ### 52:14
 
@@ -4333,7 +4416,8 @@ Como muchos fueron los que le afligieron, así será su semblante desfigurado m�
 
 ### 52:15
 
-Así, muchos pueblos le señalarán y reyes callarán por él, porque no se le había anunciado y no lo habían visto, y no se lo habían oído y de repente lo entienden.
+así rociará naciones muchas; sobre él cerrarán reyes su boca; porque lo que no fue contado a ellos vieron, y lo que no oyeron contemplaron.
+
 
 ## Capítulo 53
 
@@ -4343,7 +4427,7 @@ Así, muchos pueblos le señalarán y reyes callarán por él, porque no se le h
 
 ### 53:2
 
-Como un niño que se cría, sube ante él, y como un raíz de tierra seca, no tiene belleza ni majestad, y no se le ve nada atractivo, y no se le considera nada agradable.
+Y subió como renuevo delante de él, y como raíz de tierra seca; no figura a él y no hermosura; y lo veremos, y no apariencia, y lo desearemos.
 
 ### 53:3
 
@@ -4351,7 +4435,7 @@ Es despreciado y menospreciado de entre los hombres, un hombre de dolores y fami
 
 ### 53:4
 
-Ciertamente, nuestros dolores los llevó él, y nuestros sufrimientos los cargó, y nosotros le consideramos como afligido, herido por Dios y humillado.
+Ciertamente nuestras enfermedades él llevó, y nuestros dolores los cargó; y nosotros lo estimamos herido, golpeado de Dios y afligido.
 
 ### 53:5
 
@@ -4359,19 +4443,19 @@ Y él es herido por nuestras rebeliones, y oprimido por nuestros pecados, y la d
 
 ### 53:6
 
-Todos nosotros como ovejas nos hemos extraviado, cada uno ha ido por su camino, y Jehová ha hecho caer sobre él la iniquidad de todos nosotros.
+Todos nosotros como ovejas erramos; cada uno a su camino nos volvimos; y Jehová hizo encontrar en él la iniquidad de todos nosotros.
 
 ### 53:7
 
-Él fue llevado como un cordero al matadero, y como un cordero mudo ante el que se le corta la barba, así no abrió su boca; como un cordero llevado a la matanza, y como un ovejo ante sus quebrantadores, así no abrió su boca.
+Fue oprimido, y él afligido, y no abrirá su boca; como cordero al matadero será llevado, y como oveja delante de sus trasquiladores enmudeció, y no abrirá su boca.
 
 ### 53:8
 
-De prisión y de juicio fue tomado, y de su generación ¿quién se quejará? Porque fue cortado de la tierra de los vivos, por la rebelión de mi pueblo fue herido.
+De restricción y de juicio fue tomado; y a su generación ¿quién hablará? Porque fue cortado de tierra de vivos; por rebelión de mi pueblo herida a ellos.
 
 ### 53:9
 
-Y le dieron a los malvados su tumba, y a los ricos su muerte, porque no hizo violencia, y en su boca no se halló engaño.
+Y dio con malvados su sepulcro, y con rico en sus muertes; sobre no violencia hizo, y no engaño en su boca.
 
 ### 53:10
 
@@ -4379,21 +4463,22 @@ Y Jehová se complació en humillarlo, si le hace expiar su vida, verá su desce
 
 ### 53:11
 
-Por el trabajo de su alma verá él su bienestar, y por el conocimiento de él justificará al justo, mi siervo, a muchos, y sus iniquidades serán sobre él.
+De trabajo de su alma verá, se saciará; por su conocimiento justificará justo mi siervo a los muchos, y sus iniquidades él cargará.
 
 ### 53:12
 
-Por eso repartiré con él en la multitud, y con los poderosos repartirá despojos, porque entregó su vida hasta la muerte, y fue contado entre los transgresores; y llevó el pecado de muchos, y para los transgresores intercedió.
+Por tanto repartiré a él en los muchos, y con fuertes repartirá botín, a cambio de que derramó a la muerte su alma, y con rebeldes fue contado; y él pecado de muchos llevó, y por los rebeldes intercederá.
+
 
 ## Capítulo 54
 
 ### 54:1
 
-Grita, oh estéril, que no has dado a luz; rompe en gritos de alegría, oh que no has tenido dolores de parto; porque más numerosos serán los hijos de la desolada que los hijos de la casada, dice Jehová.
+Canta, estéril, no dio a luz; estalla canto y grita, no tuvo dolores; porque muchos hijos de asolada más que hijos de casada, dijo Jehová.
 
 ### 54:2
 
-Extiende el lugar de tu tienda, y no te aprietes; alarga las cuerdas de tu tienda, y fortalece tus estacas.
+Ensancha lugar de tu tienda, y cortinas de tus moradas extiendan; no te detengas; alarga tus cuerdas, y tus estacas afirma.
 
 ### 54:3
 
@@ -4401,19 +4486,19 @@ Porque a la derecha y a la izquierda extenderás tus fronteras, y tus hijos here
 
 ### 54:4
 
-No temas, porque no te avergonzarás; no te desanimes, porque no te humillarás; porque olvidarás la vergüenza de tu juventud, y la afrenta de tu viudedad no recordarás más.
+No temas, porque no te avergonzarás, y no te sonrojes, porque no serás afrentada; porque vergüenza de tu juventud olvidarás, y oprobio de tu viudez no recordarás más.
 
 ### 54:5
 
-Porque tu marido es tu Hacedor, Jehová de los ejércitos se llama su nombre; y tu Redentor, el Santo de Israel, Dios de toda la tierra se llama.
+Porque tu marido, tu Hacedor, Jehová de ejércitos su nombre; y tu Redentor, Santo de Israel; Dios de toda la tierra será llamado.
 
 ### 54:6
 
-Porque como mujer abandonada y triste de espíritu te llamó Jehová, y como esposa joven que desprecia a su marido, dice tu Dios.
+Porque como mujer abandonada y afligida de espíritu te llamó Jehová, y mujer de juventudes cuando es rechazada, dijo tu Dios.
 
 ### 54:7
 
-Por un momento te abandoné, pero con gran misericordia te recogeré.
+En momento pequeño te abandoné, y en misericordias grandes te reuniré.
 
 ### 54:8
 
@@ -4429,7 +4514,7 @@ Porque los montes se moverán y las colinas temblarán, pero mi misericordia no 
 
 ### 54:11
 
-Oh desolada y tempestuosa, no consolada, he aquí que yo pondré en tus piedras preciosas, y te cimentaré con jaspe.
+Afligida, tempestuosa, no consolada: he aquí yo asiento en antimonio tus piedras, y te fundo en zafiros.
 
 ### 54:12
 
@@ -4437,23 +4522,24 @@ Y pondré en tus muros piedras preciosas, y en tus fortalezas piedras de jaspe.
 
 ### 54:13
 
-Y todos tus hijos serán discípulos del Señor, y la paz de tus hijos será grande.
+Y todos tus hijos enseñados de Jehová, y mucha paz tus hijos.
 
 ### 54:14
 
-Con justicia me estableceré, y estarás lejos del opresor, porque no temerás, ni te acercarás al destructor.
+En justicia serás establecida; aléjate de opresión, porque no temerás, y de terror, porque no se acercará a ti.
 
 ### 54:15
 
-He aquí que el que gira gira, uno tras otro, ¿quién mora contigo? Al que se acerca a ti caerá.
+He aquí, hospedarse se hospedará, nada de parte mía; quien se hospeda contigo, sobre ti caerá.
 
 ### 54:16
 
-He aquí que yo he creado al labrador que sopla en el fuego de la fragua, y que saca de ella la obra; y he creado al destruidor para destruir.
+Yo creé herrero soplando en fuego carbón, y sacando utensilio para su obra; y yo creé destructor para destruir.
 
 ### 54:17
 
-Todo instrumento formado para ti será inútil; y toda lengua que se levanta en juicio contra ti será condenada. Esta es la herencia de los siervos del Señor, y su justicia viene de mí, dice el Señor.
+Todo utensilio formado sobre ti no prosperará, y toda lengua que se levante contigo al juicio condenarás; esta herencia de siervos de Jehová, y su justicia de parte mía, dicho de Jehová.
+
 
 ## Capítulo 55
 
@@ -4467,11 +4553,11 @@ Oh, todos los que tenéis sed, id a las aguas; y los que no tenéis dinero, id y
 
 ### 55:3
 
-Inclinad oídos y venid a mí; escuchad y viviréis; y yo haré con vosotros un pacto eterno, los bienes de David, fiel.
+Inclinen su oído de ustedes, y vengan a mí; oigan, y vivirá su alma de ustedes; y cortaré a ustedes pacto eterno, misericordias de David las firmes.
 
 ### 55:4
 
-He aquí que he puesto a los gentiles por testigos, a los príncipes y a los que mandan.
+He aquí, testigo a pueblos lo di; príncipe y mandante a pueblos.
 
 ### 55:5
 
@@ -4479,7 +4565,7 @@ He aquí que un pueblo que no conoces te invocará, y un pueblo que no te ha con
 
 ### 55:6
 
-Buscad al Señor mientras podáis hallarlo, llamadle mientras está cerca.
+Busquen a Jehová en hallarse él; llámenlo en ser él cercano.
 
 ### 55:7
 
@@ -4491,7 +4577,7 @@ Porque no son como vuestros pensamientos mis pensamientos, ni como vuestros cami
 
 ### 55:9
 
-Porque los cielos son más altos que la tierra, así son mis caminos más altos que vuestros caminos, y mis pensamientos más altos que vuestros pensamientos.
+Porque se alzaron cielos de tierra, así se alzaron mis caminos de caminos de ustedes, y mis pensamientos de pensamientos de ustedes.
 
 ### 55:10
 
@@ -4503,7 +4589,7 @@ Porque así será mi palabra que sale de mi boca: no volverá a mí vacía, sino
 
 ### 55:12
 
-Porque con gozo saldréis y en paz seréis llevados; los montes y las colinas estallarán delante de vosotros en júbilo, y todas las árboles del campo darán sus frutos.
+Porque con gozo saldrán ustedes, y con paz serán llevados; los montes y las colinas estallarán delante de ustedes canto, y todos árboles del campo batirán palma.
 
 ### 55:13
 
@@ -4511,9 +4597,12 @@ Bajo el cedro crecerá el rosal, y bajo el espinillo crecerá el lirio; y será 
 
 ## Capítulo 56
 
+
+## Capítulo 56
+
 ### 56:1
 
-Así dice el SEÑOR: Guardad la justicia y haced la rectitud, porque la salvación está cerca para venir, y la justicia para ser revelada.
+Así dijo Jehová: Guarden juicio y hagan justicia, porque cercana mi salvación a venir, y mi justicia a revelarse.
 
 ### 56:2
 
@@ -4521,7 +4610,7 @@ Bienaventurado el hombre que hace esto, y el hijo del hombre que sostiene esto: 
 
 ### 56:3
 
-Y no diga el hijo del extranjero que se une al SEÑOR: Apartará el SEÑOR a mí de su pueblo; ni diga el eunuco: Soy un árbol seco.
+Y no diga hijo del extranjero el allegado a Jehová, diciendo: Separando me separará Jehová de sobre su pueblo; y no diga el eunuco: He aquí yo árbol seco.
 
 ### 56:4
 
@@ -4529,7 +4618,7 @@ Porque así dice el SEÑOR a los eunucos que guardan mis sábados y escogen lo q
 
 ### 56:5
 
-Y les daré en mi casa y en mis muros mano y nombre mejor que de hijos y de hijas; daré nombre eterno que no será cortado.
+Y daré a ellos en mi casa y en mis muros mano y nombre, bueno más que de hijos y de hijas; nombre eterno daré a él, que no será cortado.
 
 ### 56:6
 
@@ -4541,11 +4630,11 @@ Los introduciré en mi monte santo y los alegraré en mi casa de oración; sus h
 
 ### 56:8
 
-Dice el Señor Jehová: Reúno a los dispersos de Israel; los reuniré de nuevo a ellos, y serán reunidos.
+Dicho de Adonai Jehová, el que reúne dispersos de Israel: Aún reuniré sobre él a sus reunidos.
 
 ### 56:9
 
-Todas las bestias de su campo, a ellos les daré para que las coman; todas las bestias del bosque serán su alimento.
+Toda bestia de campo, vengan a comer; toda bestia en el bosque.
 
 ### 56:10
 
@@ -4553,7 +4642,7 @@ Los vigilantes son todos ciegos, no conocen nada; todos son perros mudos, no sab
 
 ### 56:11
 
-Y los perros hambrientos no conocen saciedad, y los pastores no conocen entender; todos se vuelven a su propio camino, cada uno a su propio fin.
+Y los perros fuertes de alma, no conocieron saciedad; y ellos pastores, no conocieron entender; todos ellos a su camino se volvieron, cada uno a su ganancia desde su extremo.
 
 ### 56:12
 
@@ -4561,13 +4650,16 @@ Tomarán vino y se embriagarán de bebida; y será así el día siguiente, mucho
 
 ## Capítulo 57
 
+
+## Capítulo 57
+
 ### 57:1
 
-El justo pereció, y no hay quien se apiade de él; los hombres de misericordia son recogidos, y no hay quien los entienda, porque del mal han sido recogidos los justos.
+El justo pereció, y no hay varón que ponga sobre corazón; y hombres de misericordia son recogidos, sin entendiente; porque de delante del mal fue recogido el justo.
 
 ### 57:2
 
-Venga la paz, descansen sobre sus camas, el que anda derecho vaya derecho.
+Entrará paz; descansarán sobre sus lechos, el que anda en su rectitud.
 
 ### 57:3
 
@@ -4575,7 +4667,7 @@ Y vosotros os acercáis aquí, hijos de Adán, semilla de adúlteros y de prosti
 
 ### 57:4
 
-¿Con quién se regocijan, con quién se ensanchan el labio y alargan la lengua? ¿No son hijos de la maldad, semilla de engaño?
+¿Sobre quién se deleitan ustedes? ¿Sobre quién ensanchan boca, alargan lengua? ¿No ustedes hijos de rebelión, simiente de mentira,
 
 ### 57:5
 
@@ -4587,19 +4679,19 @@ En los surcos del arroyo, en tu porción, son ellos tu suerte; también a ellos 
 
 ### 57:7
 
-Sobre la montaña alta y elevada pusiste tu lecho; también allí subiste para ofrecer sacrificios.
+Sobre monte alto y alzado pusiste tu lecho; también allí subiste a sacrificar sacrificio.
 
 ### 57:8
 
-Y después de la puerta y del marco, pusiste tu recuerdo; porque de mí te descubriste y subiste, ampliaste tu lecho y te cortaste de ellos; amaste sus lechos; viste con la mano.
+Y detrás de la puerta y del quicial pusiste tu memorial; porque de mí te descubriste, y subiste; ensanchaste tu lecho, y cortaste a ti de ellos; amaste su lecho; mano viste.
 
 ### 57:9
 
-Y te ungiste con aceite delante del rey y aumentaste tus perfumes; enviaste tus mensajeros lejos, y te humillaste hasta el Sheol.
+Y te fuiste al rey con el aceite, y multiplicaste tus ungüentos, y enviaste tus mensajeros hasta lejos, y te abajaste hasta Seol.
 
 ### 57:10
 
-En la multitud de tus caminos has trabajado, no has dicho: No hay esperanza; tu mano ha encontrado, por eso no te cansaste.
+En muchedumbre de tu camino te cansaste; no dijiste: Desesperanza. Vida de tu mano hallaste; por tanto no enfermaste.
 
 ### 57:11
 
@@ -4607,7 +4699,7 @@ En la multitud de tus caminos has trabajado, no has dicho: No hay esperanza; tu 
 
 ### 57:12
 
-Yo declararé tu justicia y tus obras, y no te serán provechosas.
+Yo anunciaré tu justicia y tus obras, y no te aprovecharán.
 
 ### 57:13
 
@@ -4623,19 +4715,19 @@ Porque así dice el Altísimo y el Eterno, el habitante del lugar santo y de la 
 
 ### 57:16
 
-Porque no tengo siempre ira, ni eternamente me enfureceré; porque el espíritu delante de mí se revuelve, y las almas las he hecho.
+Porque no para siempre contenderé, y no para perpetuidad me airaré; porque espíritu de delante de mí desfallecería, y alientos yo hice.
 
 ### 57:17
 
-Por la maldad de tu engaño me he enojado, y te he ocultado y me he enojado; y has andado en rebeldía por el camino de tu corazón.
+Por iniquidad de su ganancia me airé, y lo herí; ocultando, y me airé; y anduvo rebelde en camino de su corazón.
 
 ### 57:18
 
-He visto tus caminos y te curaré; te consolaré y te daré consuelo a ti y a tus que lloran.
+Sus caminos vi, y lo sanaré, y lo guiaré, y recompensaré consolaciones a él y a sus enlutados.
 
 ### 57:19
 
-El que hace brotar montañas y da frutos, el que da paz, paz, tanto a lejanos como a cercanos, dice Jehová, y los curará.
+Creando labios: Paz, paz al lejano y al cercano, dijo Jehová, y lo sanaré.
 
 ### 57:20
 
@@ -4643,7 +4735,8 @@ Pero los malvados son como el mar en rebeldía, porque no pueden estar quietos; 
 
 ### 57:21
 
-No hay paz, dice mi Dios, para los malvados.
+No hay paz, dijo mi Dios, a los malvados.
+
 
 ## Capítulo 58
 
@@ -4653,7 +4746,7 @@ Grita con fuerza, no te contengas; como trompeta, alza tu voz y di al pueblo su 
 
 ### 58:2
 
-Buscanme cada día y desean conocer mis caminos, como un pueblo que hace justicia y no abandona el juicio de su Dios. Preguntan: ¿Dónde está el juicio de la justicia? Quieren acercarse a Dios.
+Y a mí día día buscan, y conocimiento de mis caminos desean, como nación que justicia hizo, y juicio de su Dios no dejó; me preguntan juicios de justicia; cercanía de Dios desean.
 
 ### 58:3
 
@@ -4661,23 +4754,23 @@ Buscanme cada día y desean conocer mis caminos, como un pueblo que hace justici
 
 ### 58:4
 
-¿Es este el ayuno que yo elijo: un día de contienda y de discordia, para golpear con el puño a la maldad? No es este el ayuno que yo elijo, un día de ayuno para que alzues tu voz en lo alto.
+He aquí, para contienda y pelea ayunan ustedes, y para herir con puño de maldad; no ayunen como hoy, para hacer oír en lo alto su voz de ustedes.
 
 ### 58:5
 
-¿Es este el ayuno que yo elijo: un día de afligirse a uno mismo, de humillar la cabeza como un cañizo y de vestir saco y ceniza? ¿Llamas esto ayuno y día aceptable para Jehová?
+¿Como este será ayuno que yo escoja, día de afligir hombre su alma? ¿De doblar como junco su cabeza, y saco y ceniza tiende? ¿A esto llamarás ayuno, y día de agrado a Jehová?
 
 ### 58:6
 
-¿No es este el ayuno que yo elijo: liberar las cadenas de la opresión, deshacer los lazos del yugo y dejar salir a los oprimidos libremente, romper toda carga?
+¿No este ayuno que yo escoja: abrir ataduras de maldad, desatar ligaduras de yugo, y enviar oprimidos libres, y todo yugo romperán ustedes?
 
 ### 58:7
 
-¿No es esto el ayuno que yo elijo: repartir tu pan con el hambriento y llevar a casa a los pobres sin techo. Cuando veas al desnudo, cubrilo, y no te ocultes de tu carne.
+¿No partir al hambriento tu pan, y pobres errantes traigas a casa; cuando veas desnudo, y lo cubras, y de tu carne no te escondas?
 
 ### 58:8
 
-Entonces brillará tu luz como al amanecer, y tu salud crecerá pronto. Entonces tu justicia irá delante de ti, y la gloria de Jehová te rodeará.
+Entonces romperá como el alba tu luz, y tu sanidad pronto brotará; y andará delante de ti tu justicia; gloria de Jehová te reunirá.
 
 ### 58:9
 
@@ -4689,11 +4782,11 @@ y sacarás a la hambrienta tu alma, y a la sedienta satisfarás su alma. Entonce
 
 ### 58:11
 
-Y Jehová te hará siempre satisfecho, y te satisfará la carne de tu alma; y tus huesos se alegrarán como un jardín de primavera, y como manantial cuyas aguas no fallan.
+Y te guiará Jehová siempre, y saciará en sequedades tu alma, y tus huesos fortalecerá; y serás como huerto regado, y como salida de aguas que no mienten sus aguas.
 
 ### 58:12
 
-Y edificarán de ti ruinas, y establecerán morada de generación en generación; y llamarán a ti el que cierra brechas, el que pone las piedras en su lugar.
+Y edificarán de ti ruinas eternas; fundamentos de generación y generación levantarás; y serás llamado reparador de brecha, restaurador de sendas para habitar.
 
 ### 58:13
 
@@ -4705,9 +4798,12 @@ entonces te deleitarás en Jehová, y le pondré sobre las alturas de la tierra,
 
 ## Capítulo 59
 
+
+## Capítulo 59
+
 ### 59:1
 
-Porque no ha cesado la mano de Jehová de salvar, ni ha faltado su oído de oír.
+He aquí, no se acortó mano de Jehová de salvar, y no se agravó su oído de oír.
 
 ### 59:2
 
@@ -4715,11 +4811,11 @@ Porque tus pecados te han separado de tu Dios, y tus culpas han ocultado sus ros
 
 ### 59:3
 
-Porque tus manos están manchadas de sangre, y tus dedos de iniquidad; tus labios hablan mentira, y tu lengua murmura maldad.
+Porque sus palmas de ustedes se contaminaron en sangre, y sus dedos de ustedes en iniquidad; sus labios de ustedes hablaron mentira, su lengua de ustedes maldad medita.
 
 ### 59:4
 
-No hay quien invoque con justicia, ni quien se apoye en la verdad; confían en vanidades, y engañan; conceben el mal, y parirán el pecado.
+No hay quien clame en justicia, y no hay quien juzgue en fidelidad; confiar sobre vacío y hablar vanidad; concebir trabajo y dar a luz iniquidad.
 
 ### 59:5
 
@@ -4739,39 +4835,39 @@ No conocen el camino de paz, y no hay justicia en sus ruedas. Sus sendas son ret
 
 ### 59:9
 
-Por eso la justicia se ha alejado de nosotros, y la salvación no nos alcanza. Esperamos la luz, pero vemos oscuridad; andamos en tinieblas como la muerte.
+Por tanto se alejó juicio de nosotros, y no nos alcanza justicia; esperamos a la luz, y he aquí oscuridad; a resplandores, en tinieblas andamos.
 
 ### 59:10
 
-Tropiezan como ciegos, chocando contra las paredes; como sin ojos, tropiezan. Al mediodía somos como la noche; en la oscuridad nos deslizamos como muertos.
+Palpamos como ciegos pared, y como no ojos palpamos; tropezamos en el mediodía como en el crepúsculo; entre robustos como muertos.
 
 ### 59:11
 
-Gritamos como los leones, y todos somos como palomas. Esperamos la justicia, pero no la encontramos; la salvación es lejana de nosotros.
+Bramamos como osos todos nosotros, y como palomas gemir gemimos; esperamos al juicio, y no hay; a salvación, se alejó de nosotros.
 
 ### 59:12
 
-Porque nuestros pecados son numerosos ante ti, y nuestras iniquidades nos han afligido. Nuestros pecados están con nosotros, y nuestras iniquidades conocemos bien.
+Porque se multiplicaron nuestras rebeliones delante de ti, y nuestros pecados testificaron en nosotros; porque nuestras rebeliones con nosotros, y nuestras iniquidades las conocimos:
 
 ### 59:13
 
-Hacemos pecado y mentimos al Señor, nos apartamos de nuestro Dios. Hablamos engaño y mentira desde el corazón.
+rebelar y mentir en Jehová, y volverse atrás de detrás de nuestro Dios; hablar opresión y apartamiento; concebir y meditar de corazón palabras de mentira.
 
 ### 59:14
 
-La justicia se ha retirado, y la salvación está lejos. La verdad cae en la calle, y la rectitud no puede entrar.
+Y fue hecho retroceder juicio, y justicia de lejos se para; porque tropezó en la plaza verdad, y rectitud no puede entrar.
 
 ### 59:15
 
-La verdad se ha ausentado, y el que se aparta del mal es considerado loco. El Señor lo ve y se entristece, porque no hay justicia.
+Y fue la verdad faltante, y el que se aparta de mal es despojado; y vio Jehová, y mal en sus ojos, porque no hay juicio.
 
 ### 59:16
 
-Vio que no había nadie, y se maravilló de que no hubiera quien intercediera. Entonces su brazo lo sostuvo, y su justicia fue su apoyo.
+Y vio que no hay varón, y se asombró que no hay intercesor; y salvó a él su brazo, y su justicia ella lo sostuvo.
 
 ### 59:17
 
-Se vistió de justicia como de una coraza, y puso en su cabeza una corona de salvación. Se vistió de vengativo vestido, y se cubrió como con un manto de celos.
+Y se vistió justicia como coraza, y yelmo de salvación en su cabeza; y se vistió vestidos de venganza como vestidura, y se envolvió como manto celo.
 
 ### 59:18
 
@@ -4787,53 +4883,54 @@ Y vendrá a Sion un Redentor, y a los que se apartaron de la iniquidad en Jacob,
 
 ### 59:21
 
-Y yo pongo esto por pacto con ellos, dice Jehová: mi espíritu que está sobre ti, y mis palabras que puse en tu boca, no se apartarán de tu boca ni de la boca de tus hijos ni de la boca de los hijos de tus hijos, dice Jehová, desde ahora y para siempre.
+Y yo, esto mi pacto con ellos, dijo Jehová: Mi espíritu que sobre ti, y mis palabras que puse en tu boca, no se moverán de tu boca y de boca de tu simiente y de boca de simiente de tu simiente, dijo Jehová, desde ahora y hasta perpetuidad.
+
 
 ## Capítulo 60
 
 ### 60:1
 
-Levántate, resplandece, porque viene tu luz, y la gloria de Jehová se levanta sobre ti.
+Levántate, luce, porque vino tu luz, y gloria de Jehová sobre ti amaneció.
 
 ### 60:2
 
-Porque he aquí que las tinieblas cubren la tierra, y la oscuridad los pueblos; pero sobre ti vendrá Jehová, y su gloria sobre ti se manifestará.
+Porque he aquí la oscuridad cubrirá tierra, y densura a pueblos; y sobre ti amanecerá Jehová, y su gloria sobre ti será vista.
 
 ### 60:3
 
-Y vendrán a tu luz gentes, y reyes a la claridad de tu alba.
+Y andarán naciones a tu luz, y reyes a resplandor de tu amanecer.
 
 ### 60:4
 
-Alza los ojos alrededor y mira; todos ellos se han reunido y han venido a ti. Tus hijos vendrán de lejos, y tus hijas serán llevadas al lado.
+Alza alrededor tus ojos y ve: todos ellos se reunieron, vinieron a ti; tus hijos de lejos vendrán, y tus hijas sobre costado serán llevadas.
 
 ### 60:5
 
-Entonces verás y te pondrás en movimiento, y tu corazón se llenará de temor y de gozo; porque sobre ti se volcará un mar de riquezas, y los ejércitos de naciones vendrán a ti.
+Entonces verás y fluirás, y temerá y se ensanchará tu corazón; porque se volverá sobre ti muchedumbre de mar, ejército de naciones vendrán a ti.
 
 ### 60:6
 
-Una multitud de camellos te cubrirá, con los primogénitos de Midian y de Efa; todos vendrán de Saba; traerán oro y incienso, y anunciarán las alabanzas de Jehová.
+Abundancia de camellos te cubrirá, dromedarios de Midyán y Eifá; todos ellos de Shevá vendrán; oro e incienso llevarán, y alabanzas de Jehová anunciarán.
 
 ### 60:7
 
-Todas las ovejas de Qedar se juntarán a ti; los machos cabríos de Nebo te servirán; subirán con voluntad a mi altar, y enriqueceré tu casa.
+Todas las ovejas de Cedar se juntarán a ti; los machos cabríos de Nebo te servirán; subirán con voluntad a mi altar, y enriqueceré tu casa.
 
 ### 60:8
 
-¿Quiénes son estos que vuelan como nubes y que zueyen como palomas hacia sus nidos?
+¿Quiénes estos como nube vuelan, y como palomas a sus ventanas?
 
 ### 60:9
 
-Porque a mí, islas, esperan, y barcos de Tarshish en primer lugar, para traer a tus hijos desde lejos; traerán tu plata y tu oro con ellos, para el nombre de Jehová tu Dios, y para el santo de Israel, porque él te ha dado gloria.
+Porque a mí islas esperarán, y naves de Tarsis en primero, para traer tus hijos de lejos, su plata y su oro con ellos, a nombre de Jehová tu Dios y al Santo de Israel, porque te embelleció.
 
 ### 60:10
 
-Los hijos de extraños construirán tus murallas, y sus reyes serán tus siervos, porque con mi ira te hice destruir, y con mi gracia te hice misericordia.
+Y edificarán hijos de extranjero tus muros, y sus reyes te ministrarán; porque en mi ira te herí, y en mi agrado te compadecí.
 
 ### 60:11
 
-Abre tus puertas siempre, día y noche, para que no se cierren, para traer a ti el poder de las naciones y sus reyes en fila.
+Y abrirán tus puertas siempre; de día y de noche no se cerrarán; para traer a ti ejército de naciones, y sus reyes conducidos.
 
 ### 60:12
 
@@ -4849,7 +4946,7 @@ Y vendrán a ti los hijos de tus enemigos, y se postrarán a los pies de tus pie
 
 ### 60:15
 
-En lugar de ser abandonada y odiada, sin nadie que la pase, te haré gloria eterna, gozo de generación en generación.
+En lugar de ser tú abandonada y aborrecida, y no hay quien pase, te pondré a orgullo eterno, gozo de generación y generación.
 
 ### 60:16
 
@@ -4857,45 +4954,46 @@ Y te darán a ti la leche de las naciones, y el fruto de los reyes te darás a t
 
 ### 60:17
 
-En lugar de bronce te traeré oro, y en lugar de hierro, plata, y en lugar de madera, bronce, y en lugar de piedra, hierro, y pondré tu riqueza en paz y tu opresor en justicia.
+En lugar del bronce traeré oro, y en lugar del hierro traeré plata, y en lugar de los maderos bronce, y en lugar de las piedras hierro; y pondré tu visita paz, y tus opresores justicia.
 
 ### 60:18
 
-No se oirá más violencia en tu tierra, ni saqueo ni destrucción en tus fronteras, y llamarás a tus murallas salvación, y a tus puertas alabanza.
+No se oirá más violencia en tu tierra, destrucción y quebranto en tus límites; y llamarás salvación tus muros, y tus puertas alabanza.
 
 ### 60:19
 
-No habrá para ti más sol para luz del día, ni la luna para resplandor, y el Señor será para ti luz eterna, y tu Dios será tu gloria.
+No será a ti más el sol a luz de día, y a resplandor la luna no alumbrará a ti; y será a ti Jehová a luz eterna, y tu Dios a tu hermosura.
 
 ### 60:20
 
-No vendrá más tu sol, ni tu luna se recogerá, porque el Señor será para ti luz eterna, y tus días de luto se convertirán en paz.
+No vendrá más tu sol, y tu luna no se recogerá; porque Jehová será a ti a luz eterna, y se acabarán días de tu luto.
 
 ### 60:21
 
-Y tu pueblo serán todos justos, para siempre heredarán la tierra, un plantado de mi obra para gloriarse.
+Y tu pueblo todos ellos justos; para siempre heredarán tierra; renuevo de obra de mis manos, para embellecerse.
 
 ### 60:22
 
-El pequeño será como un millar, y el pequeño de los mil será como un pueblo fuerte, porque el Señor será con vosotros a tiempo de acudir.
+El pequeño será al millar, y el menor a nación fuerte; yo Jehová, en su tiempo la apresuraré.
+
 
 ## Capítulo 61
 
 ### 61:1
 
-El Espíritu del Señor Dios está sobre mí, porque el Señor me ungió para predicar buenas nuevas a los pobres; me envió a sanar a los quebrantados de corazón, a proclamar libertad a los cautivos y visión a los que están en tinieblas.
+Espíritu de Adonai Jehová sobre mí, porque ungió Jehová a mí para anunciar a humildes; me envió a vendar a quebrantados de corazón, a proclamar a cautivos libertad, y a atados apertura de cárcel;
 
 ### 61:2
 
-Para proclamar el año aceptable del Señor, y el día de venganza de nuestro Dios; para consolar a todos los que lloran.
+a proclamar año de agrado a Jehová, y día de venganza a nuestro Dios; a consolar a todos enlutados;
 
 ### 61:3
 
-Para dar a los que lloran en Sion un tocado en lugar de ceniza, aceite de gozo en lugar de luto, vestido de alabanza en lugar de espíritu de tristeza; y llamarán a ellos arboles de justicia, plantación del Señor para que sea glorificado.
+a poner a enlutados de Sión, a dar a ellos ornato en lugar de ceniza, aceite de gozo en lugar de luto, manto de alabanza en lugar de espíritu apagado; y se llamará a ellos terebintos de la justicia, plantío de Jehová para embellecerse.
 
 ### 61:4
 
-Y edificarán las ruinas de generaciones pasadas, levantarán las ciudades destruidas, la desolación de generación en generación.
+Y edificarán ruinas eternas; asoladas primeras levantarán; y renovarán ciudades de desolación, asoladas de generación y generación.
 
 ### 61:5
 
@@ -4903,15 +5001,15 @@ Y extranjeros se levantarán y pastorearán vuestros rebaños, y los hijos de lo
 
 ### 61:6
 
-Y seréis llamados sacerdotes de Jehová, sirvientes de nuestro Dios. Os darán gloria los gentiles, y en su honor os deleitaréis.
+Y ustedes, sacerdotes de Jehová serán llamados; ministros de nuestro Dios se dirá a ustedes; ejército de naciones comerán ustedes, y en su gloria se gloriarán ustedes.
 
 ### 61:7
 
-En lugar de vergüenza tendrán doble porción, y en lugar de deshonra tendrán gozo en su heredad. Por eso heredarán doble en su tierra, y gozo eterno será para ellos.
+En lugar de su vergüenza de ustedes, doble; y afrenta, gritarán su porción; por tanto en su tierra doble heredarán; gozo eterno será a ellos.
 
 ### 61:8
 
-Porque yo, Jehová, amo la justicia, y aborrezco la injusticia y el robo. Daré a sus obras su recompensa en verdad, y haré con ellos un pacto eterno.
+Porque yo Jehová, amador de juicio, aborrecedor de robo en holocausto; y daré su obra en verdad, y pacto eterno cortaré a ellos.
 
 ### 61:9
 
@@ -4923,7 +5021,8 @@ Me regocijaré y me alegraré en Jehová, y mi alma se gozará en mi Dios, porqu
 
 ### 61:11
 
-Porque como la tierra hace salir hierba, y como el huerto hace brotar sus plantas, así Jehová, mi Dios, hará brotar justicia y alabanza delante de todas las naciones.
+Porque como la tierra saca su brote, y como huerto sus sembrados hace germinar, así Adonai Jehová hará germinar justicia y alabanza delante de todas las naciones.
+
 
 ## Capítulo 62
 
@@ -4933,11 +5032,11 @@ Por amor a Sion no me callaré, y por amor a Jerusalén no me calmaré, hasta qu
 
 ### 62:2
 
-Y verán las naciones tu justicia, y todos los reyes tu gloria; y te llamarán por un nombre nuevo que pondrá en tu boca el Señor.
+Y verán naciones tu justicia, y todos reyes tu gloria; y se llamará a ti nombre nuevo, que boca de Jehová lo designará.
 
 ### 62:3
 
-Y serás corona de gloria en la mano del Señor, y diadema real en la palma de tu Dios.
+Y serás corona de hermosura en mano de Jehová, diadema real en palma de tu Dios.
 
 ### 62:4
 
@@ -4945,7 +5044,7 @@ Ya no se te dirá Abandonada, y a tu tierra ya no se le llamará Desolada; sino 
 
 ### 62:5
 
-Porque el joven se casará con la doncella, tus hijos se casarán contigo, y el gozo del novio por la novia se deleitará tu Dios sobre ti.
+Porque desposa joven a virgen, te desposarán tus hijos; y gozo de novio sobre novia se gozará sobre ti tu Dios.
 
 ### 62:6
 
@@ -4957,15 +5056,15 @@ Y no os queden dormidos hasta que se fortalezca y hasta que establezca a Jerusal
 
 ### 62:8
 
-Jura el Señor con su diestra y con su brazo fuerte: No daré tu grano en alimento a tus enemigos, ni beberán tus vinos los hijos de extraños, que tú has trabajado en ellos.
+Juró Jehová por su derecha y por brazo de su fuerza: Si daré tu grano más a comida a tus enemigos, y si beberán hijos de extranjero tu mosto que trabajaste en él.
 
 ### 62:9
 
-Porque los que te recogerán comeránlo, y te alabarán al Señor; y los que te juntarán beberánlo en los patios de mi santidad.
+Porque sus recogedores lo comerán, y alabarán a Jehová; y sus juntadores lo beberán en atrios de mi santidad.
 
 ### 62:10
 
-Pasad, pasad por las puertas; preparad el camino del pueblo; despejad, despejad el camino; quita piedras del camino; levanta una señal sobre los pueblos.
+Pasen, pasen por las puertas; preparen camino del pueblo; allanen, allanen la calzada; quiten de piedra; alcen bandera sobre los pueblos.
 
 ### 62:11
 
@@ -4973,25 +5072,26 @@ He aquí que el Señor hace oír su voz al extremo de la tierra: Decid a la hija
 
 ### 62:12
 
-Y te llamarán pueblo santificado, adquirido por el Señor; y a ti te llamarán buscada, ciudad que no será abandonada.
+Y llamarán a ellos Pueblo de la santidad, redimidos de Jehová; y a ti se llamará Buscada, ciudad no abandonada.
+
 
 ## Capítulo 63
 
 ### 63:1
 
-¿Quién es este que viene de Edom, con ropas teñidas de rojo, vestido de rojo en sus vestiduras? El que es poderoso en su fuerza, yo que hablo en justicia, grande para salvar.
+¿Quién este que viene de Edóm, teñido de vestidos de Botsrá? Este hermoso en su vestidura, marchando en muchedumbre de su fuerza. Yo, hablando en justicia, grande para salvar.
 
 ### 63:2
 
-¿Por qué es rojo tu vestido, y tus ropas como las de quien pisa uvas?
+¿Por qué rojo a tu vestidura, y tus vestidos como el que pisa en lagar?
 
 ### 63:3
 
-Con furia he caminado sola, porque no había conmigo ningún pueblo. Los he destruido con mi ira; los he humillado con mi enojo. Y su sangre he manchado mis vestidos, y toda mi ropa la he manchado.
+Lagar pisé yo solo, y de pueblos no hay varón conmigo; y los pisaré en mi ira, y los hollaré en mi furor; y salpicará su jugo sobre mis vestidos, y todos mis vestidos contaminé.
 
 ### 63:4
 
-Porque el día de venganza está en mi corazón, y el año de redención está en mis días.
+Porque día de venganza en mi corazón, y año de mis redimidos vino.
 
 ### 63:5
 
@@ -5003,7 +5103,7 @@ Y he destruido a las naciones con mi ira, y he castigado a los pueblos con mi en
 
 ### 63:7
 
-Recordaré las misericordias del Señor, las alabanzas del Señor, por todas las cosas que nos ha hecho el Señor, y gran bondad para con la casa de Israel, según su misericordia y según el gran amor que él tiene.
+Misericordias de Jehová recordaré, alabanzas de Jehová, conforme a todo lo que nos recompensó Jehová, y mucha bondad a casa de Israel, que les recompensó conforme a sus misericordias y conforme a muchedumbre de sus misericordias.
 
 ### 63:8
 
@@ -5011,7 +5111,7 @@ Y ha dicho: Son mi pueblo, hijos míos, no mentirán; y ha sido para ellos un Sa
 
 ### 63:9
 
-En todas sus tribulaciones no ha sido un castigador, y su ángel ha sido para ellos un Salvador; en su amor y en su misericordia los ha redimido; y los ha llevado y los ha elevado en todos los días de la eternidad.
+En toda su angustia él angustiado, y ángel de sus faces los salvó; en su amor y en su compasión él los redimió; y los alzó y los llevó todos días de perpetuidad.
 
 ### 63:10
 
@@ -5031,11 +5131,11 @@ Los llevaste por el mar como un caballo en el desierto; no se desmayaron.
 
 ### 63:14
 
-Como un animal en el valle, así descansas a tu pueblo; guíalos para hacer tu nombre glorioso.
+Como ganado en el valle desciende, Espíritu de Jehová le da reposo; así guiaste a tu pueblo, para hacerte a ti nombre de hermosura.
 
 ### 63:15
 
-Mira desde los cielos y ve desde tu santuario de la gloria; ¿dónde está tu celo y tu poder? ¿Dónde están la multitud de tus beneficios y tu misericordia hacia mí?
+Mira desde cielos, y ve desde morada de tu santidad y de tu hermosura; ¿dónde tu celo y tus proezas? Muchedumbre de tus entrañas y tus misericordias a mí se contuvieron.
 
 ### 63:16
 
@@ -5043,21 +5143,22 @@ Tú eres nuestro Padre, porque Abraham no nos conoció y Israel no nos reconoci�
 
 ### 63:17
 
-¿Por qué nos alejas de tus caminos, Señor? ¿Por qué endureces nuestros corazones para no temerte? Vuelve por amor a tus siervos, a los tribunos de tu heredad.
+¿Por qué nos haces errar, Jehová, de tus caminos; endureces nuestro corazón de tu temor? Vuelve por causa de tus siervos, tribus de tu heredad.
 
 ### 63:18
 
-Hemos sido objeto de burla por tu pueblo santo; los extranjeros han pisoteado tu santuario.
+Por poco heredaron pueblo de tu santidad; nuestros adversarios hollaron tu santuario.
 
 ### 63:19
 
-Desde antiguo no has gobernado sobre ellos, ni tu nombre ha sido llamado sobre ellos.
+Fuimos desde perpetuidad; no señoreaste en ellos; no fue llamado tu nombre sobre ellos.
+
 
 ## Capítulo 64
 
 ### 64:1
 
-¿No rasgaste los cielos? ¿No descendiste? Los montes temblaron.
+¡Ojalá rasgaras cielos, bajaras; de delante de ti montes se derritieran,
 
 ### 64:2
 
@@ -5065,31 +5166,31 @@ Como un fuego que devora la hierba, como un fuego que anhela agua, para que se s
 
 ### 64:3
 
-Al hacer maravillas, no hemos esperado; has descendido, los montes han temblado.
+En hacer tú terribles no esperamos; bajaste; de delante de ti montes se derritieron.
 
 ### 64:4
 
-Desde antiguo no han oído, no han visto los ojos, no ha habido Dios que hiciera como tú, que espera a tu pueblo.
+Y desde perpetuidad no oyeron, no escucharon; ojo no vio Dios fuera de ti, que haga al que espera a él.
 
 ### 64:5
 
-Has encontrado a los que te aman y a los que te guardan tus caminos; ellos te recordarán. Pero tú nos has enojado y hemos pecado; siempre nos has perseguido.
+Saliste al encuentro del que se goza y hace justicia; en tus caminos te recordarán. He aquí, tú te airaste, y pecamos; en ellos perpetuidad, y seremos salvados.
 
 ### 64:6
 
-Nos hemos vuelto inmundos todos nosotros, y toda nuestra justicia es como trapo de inmundicia; todos nosotros seamos como hoja marchita, y nuestros pecados como el viento que lleva consigo.
+Y fuimos como inmundo todos nosotros, y como vestido de menstruos todas nuestras justicias; y nos marchitamos como la hoja todos nosotros, y nuestras iniquidades como el viento nos llevarán.
 
 ### 64:7
 
-No hay quien invoque tu nombre, ni quien se levante para tomar contigo su alianza; porque tú nos has escondido tu rostro y nos has entregado a causa de nuestros pecados.
+Y no hay quien clame en tu nombre, que se despierte para afirmarse en ti; porque ocultaste tus faces de nosotros, y nos disolviste en mano de nuestra iniquidad.
 
 ### 64:8
 
-Ahora, oh Señor, tú eres nuestro Padre; nosotros somos la arcilla, y tú eres el alfarero; y todos nosotros son obra de tus manos.
+Y ahora, Jehová, nuestro Padre tú; nosotros el barro, y tú nuestro Formador; y obra de tu mano todos nosotros.
 
 ### 64:9
 
-No te enfades, oh Señor, con gran ira, ni recuerdes el pecado para siempre; mira, por favor, a tu pueblo, a todos nosotros.
+No te aires, Jehová, hasta mucho, y no para siempre recuerdes iniquidad; he aquí, mira ahora, tu pueblo todos nosotros.
 
 ### 64:10
 
@@ -5097,11 +5198,12 @@ Las ciudades santas tuyas son desiertos; Sión es un desierto, Jerusalén una ru
 
 ### 64:11
 
-La casa de tu santidad y de tu gloria, que nuestros padres te alabaron, ha sido quemada por el fuego, y todos nuestros deleites han sido destruidos.
+Casa de nuestra santidad y de nuestra hermosura, que te alabaron nuestros padres, fue a quema de fuego; y todos nuestros deseados fueron a ruina.
 
 ### 64:12
 
-¿Acaso te enfadarás con esto, oh Señor? ¿Te callarás y nos afligirás con gran ira?
+¿Sobre estas te contendrás, Jehová? ¿Callarás, y nos afligirás hasta mucho?
+
 
 ## Capítulo 65
 
@@ -5111,7 +5213,7 @@ Yo me he presentado a aquellos que no me buscaban; yo me he mostrado a los que n
 
 ### 65:2
 
-He extendido mis manos todo el día a un pueblo rebelde que anda por caminos que no son buenos.
+Extendí mis manos todo el día a pueblo rebelde, los que andan el camino no bueno, detrás de sus pensamientos.
 
 ### 65:3
 
@@ -5119,15 +5221,15 @@ El pueblo que me irrita constantemente delante de mí ofrece sacrificios en los 
 
 ### 65:4
 
-Los que habitan en tumbas y en cuevas, y duermen en ellas; los que comen carne de cerdo y calientan ollas en lugares impuros, sus utensilios son asquerosos.
+los que habitan en los sepulcros, y en los guardados pasan la noche; los que comen carne del cerdo, y abominaciones sus vasos;
 
 ### 65:5
 
-Los que dicen: Acércate a mí, y no te acerques a mí, porque yo soy santo; son humo en mi nariz, fuego que arde todo el día.
+los que dicen: Acércate a ti; no te acerques en mí, porque te santifiqué. Estos humo en mi nariz, fuego ardiendo todo el día.
 
 ### 65:6
 
-He aquí, está escrita delante de mí: No perdono, sino que pago; y pagaré sobre sus pechos.
+He aquí escrita delante de mí; no callaré, sino que recompensaré, y recompensaré sobre su seno,
 
 ### 65:7
 
@@ -5135,7 +5237,7 @@ Sus pecados y los pecados de sus padres están juntos, dice el Señor, que quema
 
 ### 65:8
 
-Así dice el Señor: Como se encuentra la uva en el racimo de Escol, y se dice: No la destruyas, porque es bendición, así haré por causa de mis siervos, para que no destruya todo.
+Así dijo Jehová: Como se halla mosto en el racimo, y dice: No lo destruyas, porque bendición en él; así haré por causa de mis siervos, para no destruir el todo.
 
 ### 65:9
 
@@ -5143,35 +5245,35 @@ Y sacaré de Jacob semilla y de Judá heredero de montes, y mis elegidos heredar
 
 ### 65:10
 
-Y será el Sharon para pastoreo de ovejas, y el valle de Ajalom para estiércol de bueyes, para mi pueblo que me busca.
+Y será el Sarón para pastoreo de ovejas, y el valle de Ajalom para estiércol de bueyes, para mi pueblo que me busca.
 
 ### 65:11
 
-Y vosotros, que abandonáis al Señor, que olvidáis mi monte santo, que preparáis el altar a Gad, y llenáis el bebedero a Meni;
+Y ustedes, dejadores de Jehová, los que olvidan el monte de mi santidad; los que preparan a Gad mesa, y los que llenan a Mení mezcla;
 
 ### 65:12
 
-Y os numeraré a la espada, y a vosotros todos a la matanza; por cuanto os llamé y no me respondisteis, hablé y no me escuchasteis, y obrasteis el mal delante de mis ojos, y lo que no me agradaba elegisteis.
+y destinaré a ustedes a espada, y todos ustedes a matanza se arrodillarán; porque llamé y no respondieron ustedes; hablé y no oyeron ustedes; e hicieron el mal en mis ojos, y en lo que no deseé escogieron ustedes.
 
 ### 65:13
 
-Por tanto, así dice el Señor Jehová: He aquí mis siervos comerán, y vosotros tendréis hambre; he aquí mis siervos beberán, y vosotros tendréis sed; he aquí mis siervos se alegrarán, y vosotros os avergonzaréis.
+Por tanto así dijo Adonai Jehová: He aquí mis siervos comerán, y ustedes tendrán hambre; he aquí mis siervos beberán, y ustedes tendrán sed; he aquí mis siervos se alegrarán, y ustedes se avergonzarán.
 
 ### 65:14
 
-He aquí mis siervos se gozarán de corazón por la abundancia, y vosotros gimiros por el dolor de corazón y de espíritu.
+He aquí mis siervos gritarán de bien de corazón, y ustedes gritarán de dolor de corazón, y de quebranto de espíritu aullarán.
 
 ### 65:15
 
-Y os pondré por juramento a mi elegido, y os matará el Señor Jehová, y a mis siervos llamará por otro nombre.
+Y dejarán ustedes su nombre de ustedes a juramento a mis escogidos; y te matará Adonai Jehová; y a sus siervos llamará nombre otro.
 
 ### 65:16
 
-Porque el que bendice en la tierra será bendecido en el Dios de verdad, y el que jura en la tierra jurará en el Dios de verdad; porque olvidaron las aflicciones pasadas, y se ocultaron de mis ojos.
+Que el que se bendice en la tierra se bendecirá en Dios de Amén, y el que jura en la tierra jurará en Dios de Amén; porque fueron olvidadas las angustias primeras, y porque fueron ocultadas de mis ojos.
 
 ### 65:17
 
-Porque he aquí que yo crearé nuevos cielos y una nueva tierra; y no se recordarán los antiguos, ni vendrán a la mente.
+Porque he aquí yo creando cielos nuevos y tierra nueva; y no serán recordadas las primeras, y no subirán sobre corazón.
 
 ### 65:18
 
@@ -5183,49 +5285,50 @@ Y haré que se regocije en Jerusalén y que se alegre en mi pueblo; ya no se oir
 
 ### 65:20
 
-No habrá allí más niño de días ni anciano que no cumpla sus días; porque el joven morirá a los cien años, y el pecador a los cien será maldito.
+No habrá desde allí aún niño de días, y anciano que no llene sus días; porque el muchacho hijo de cien año morirá, y el pecador hijo de cien año será maldito.
 
 ### 65:21
 
-Y edificarán casas y vivirán en ellas; plantarán viñas y comerán su fruto.
+Y edificarán casas y habitarán; y plantarán viñas y comerán su fruto.
 
 ### 65:22
 
-No edificarán para que otro habite, ni plantarán para que otro coma; porque como los días de un árbol serán los días de mi pueblo, y lo que sus manos hagan, lo gozarán.
+No edificarán y otro habite; no plantarán y otro coma; porque como días del árbol días de mi pueblo, y obra de sus manos gastarán mis escogidos.
 
 ### 65:23
 
-No trabajarán en vano ni engendrarán para la aflicción, porque son siembra bendita de Jehová, y sus hijos estarán con ellos.
+No trabajarán para vacío, y no darán a luz para terror; porque simiente benditos de Jehová ellos, y sus descendientes con ellos.
 
 ### 65:24
 
-Y será que antes de que invoquen, yo responderé; mientras hablan, yo los escucharé.
+Y será, antes que llamen, y yo responderé; aún ellos hablando, y yo oiré.
 
 ### 65:25
 
-El lobo y el cordero pastarán juntos, y el león comerá paja como buey; y el serpiente se echará en la tierra como polvo. No harán mal ni daño en todo mi monte santo, dice Jehová.
+Lobo y cordero pastarán como uno, y león como el ganado comerá paja, y serpiente polvo su pan; no dañarán y no destruirán en todo monte de mi santidad, dijo Jehová.
+
 
 ## Capítulo 66
 
 ### 66:1
 
-Así dice Jehová: Los cielos son el trono de mi poder, y la tierra el estrado de mis pies; ¿dónde está la casa que me habéis edificado, y cuál es el lugar de mi descanso?
+Así dijo Jehová: Los cielos mi trono, y la tierra estrado de mis pies; ¿dónde este casa que edificarán a mí, y dónde este lugar de mi reposo?
 
 ### 66:2
 
-Y con mis manos he hecho todas estas cosas, dice Jehová; y a esto me apresuro: a los pobres y humildes de espírituve, que temen mis palabras.
+Y todas estas mi mano hizo, y fueron todas estas, dicho de Jehová; y a este miraré: a pobre y quebrantado de espíritu, y que tiembla sobre mi palabra.
 
 ### 66:3
 
-El que sacrifica un toro es como el que mata un hombre; el que ofrece un cordero, como quien raspa la piel de un perro; el que ofrece un sacrificio de grano, como quien ofrece la sangre de un cerdo; el que quema incienso, como quien bendice un ídolo. Estos eligieron sus caminos y sus abominaciones les agradan.
+El que degüella el toro, heridor de hombre; el que sacrifica el cordero, quebrantador de cuello de perro; el que hace subir ofrenda, sangre de cerdo; el que hace recuerdo de incienso, bendecidor de iniquidad; también ellos escogieron en sus caminos, y en sus abominaciones su alma deseó.
 
 ### 66:4
 
-También yo elegiré sus calamidades y las traeré sobre ellos; porque cuando yo llamaba, no había quien respondiera; cuando hablaba, no había quien oyera; y hacían lo malo delante de mis ojos y elegían lo que yo no había amado.
+También yo escogeré en sus caprichos, y sus temores traeré a ellos; porque llamé y no hay respondiendo; hablé y no oyeron; e hicieron el mal en mis ojos, y en lo que no deseé escogieron.
 
 ### 66:5
 
-Escuchen la palabra de Jehová, los que temen a su palabra. Han dicho sus hermanos: ‘Los que los aborrecen, los desprecian, porque en mi nombre se pondrá grande Jehová y se deleitará en su alegría, y ellos se avergonzarán’.
+Oigan palabra de Jehová, los que tiemblan a su palabra: Dijeron sus hermanos de ustedes, sus aborrecedores de ustedes, los que los expulsan a ustedes: Por causa de mi nombre se glorifique Jehová; y veremos en su gozo de ustedes; y ellos se avergonzarán.
 
 ### 66:6
 
@@ -5233,7 +5336,7 @@ Un grito desde la ciudad, un grito desde el templo. Un grito de Jehová, que hac
 
 ### 66:7
 
-Antes de que dé a luz, da a luz un varón.
+Antes que tuviera dolores, dio a luz; antes que viniera dolor a ella, y escapó varón.
 
 ### 66:8
 
@@ -5241,7 +5344,7 @@ Antes de que dé a luz, da a luz un varón.
 
 ### 66:9
 
-¿Acaso yo que embarazo no pariré? dice Jehová. ¿Acaso yo que pariré, no dejaré de parir? dice tu Dios.
+¿Yo romperé y no daré a luz? dice Jehová. ¿Si yo el que hace dar a luz, y cerraré? dijo tu Dios.
 
 ### 66:10
 
@@ -5265,11 +5368,11 @@ Y veréis y os alegraréis en vuestros corazones, y vuestras carnes florecerán 
 
 ### 66:15
 
-Porque he aquí que Jehová viene en fuego, y en carretas de tormenta, para vengar en ira su furor, y con llamaradas de fuego su reconvención.
+Porque he aquí Jehová en fuego vendrá, y como torbellino sus carros, para devolver en furor su ira, y su reprensión en llamas de fuego.
 
 ### 66:16
 
-Porque en fuego Jehová juzgará, y con su espada a toda carne, y los muertos de Jehová serán muchos.
+Porque en fuego Jehová juzga, y con su espada a toda carne; y se multiplicarán heridos de Jehová.
 
 ### 66:17
 
@@ -5281,7 +5384,7 @@ Y yo haré venir sus obras y sus pensamientos para reunir a todas las naciones y
 
 ### 66:19
 
-Y pondré en ellos una señal y enviaré de ellos huidos a las naciones: Tarshis, Pul y Lud, los que tiran el arco, Tubal y Javán, las islas lejanas que no han oído mi fama ni han visto mi gloria, y darán a conocer mi gloria a las naciones.
+Y pondré en ellos señal, y enviaré de ellos escapados a las naciones: Tarsis, Pul y Lud, tiradores de arco, Tubal y Javán, las islas lejanas que no oyeron mi fama y no vieron mi gloria; y anunciarán mi gloria en las naciones.
 
 ### 66:20
 
@@ -5289,16 +5392,16 @@ Y los traerán a todos sus hermanos de todas las naciones como ofrenda al SEÑOR
 
 ### 66:21
 
-Y también de ellos tomaré para sacerdotes y levitas, dice el SEÑOR.
+Y también de ellos tomaré para sacerdotes, para levitas, dijo Jehová.
 
 ### 66:22
 
-Porque como los cielos nuevos y la tierra nueva que yo hago permanecerán delante de mí, dice el SEÑOR, así permanecerá vuestro linaje y vuestro nombre.
+Porque como los cielos nuevos y la tierra nueva que yo hago están delante de mí, dicho de Jehová, así estará su simiente de ustedes y su nombre de ustedes.
 
 ### 66:23
 
-Y será que al cabo del mes en su tiempo y al cabo de la semana en su tiempo vendrá todo ser para adorar delante de mí, dice el SEÑOR.
+Y será, de luna nueva en su luna nueva, y de shabat en su shabat, vendrá toda carne a postrarse delante de mí, dijo Jehová.
 
 ### 66:24
 
-Y saldrán y verán los cadáveres de los hombres que pecaron contra mí, porque su gusano no morirá y su fuego no se apagará, y serán abominación para todo ser.
+Y saldrán y verán en cadáveres de los hombres que se rebelaron en mí; porque su gusano no morirá, y su fuego no se apagará; y serán aborrecimiento a toda carne.
