@@ -12,45 +12,45 @@ Signed columns stay empty until a human writes a name and an ISO date.
 
 | book | testament | translation | alignment | translation_by | translation_on | alignment_by | alignment_on | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| genesis | ot | draft | draft | | | | | names pass 2026-09-19 — re-approve |
-| exodo | ot | draft | none | | | | | names pass 2026-09-19 |
-| levitico | ot | draft | none | | | | | names pass 2026-09-19 |
-| numeros | ot | draft | none | | | | | names pass 2026-09-19 |
-| deuteronomio | ot | draft | none | | | | | names pass 2026-09-19 |
-| josue | ot | draft | none | | | | | names pass 2026-09-19 |
-| jueces | ot | draft | none | | | | | names pass 2026-09-19 |
-| rut | ot | draft | none | | | | | names pass 2026-09-19 |
-| 1samuel | ot | draft | none | | | | | names pass 2026-09-19 |
-| 2samuel | ot | draft | none | | | | | names pass 2026-09-19 |
-| 1reyes | ot | draft | none | | | | | names pass 2026-09-19 |
-| 2reyes | ot | draft | none | | | | | names pass 2026-09-19 |
-| 1cronicas | ot | draft | none | | | | | names pass 2026-09-19 |
-| 2cronicas | ot | draft | none | | | | | names pass 2026-09-19 |
-| esdras | ot | draft | none | | | | | names pass 2026-09-19 |
-| nehemias | ot | draft | none | | | | | names pass 2026-09-19 |
-| ester | ot | draft | none | | | | | names pass 2026-09-19 |
-| job | ot | draft | none | | | | | names pass 2026-09-19 |
-| salmos | ot | draft | none | | | | | names pass 2026-09-19 |
-| proverbios | ot | draft | none | | | | | names pass 2026-09-19 |
-| eclesiastes | ot | draft | none | | | | | names pass 2026-09-19 |
-| cantares | ot | draft | none | | | | | names pass 2026-09-19 |
+| genesis | ot | draft | draft |  |  |  |  | names pass 2026-09-19 — re-approve |
+| exodo | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| levitico | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| numeros | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| deuteronomio | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| josue | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| jueces | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| rut | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| 1samuel | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| 2samuel | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| 1reyes | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| 2reyes | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| 1cronicas | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| 2cronicas | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| esdras | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| nehemias | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| ester | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| job | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| salmos | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| proverbios | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| eclesiastes | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
+| cantares | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
 | isaias | ot | draft | none |  |  |  |  |  |
 | jeremias | ot | draft | none |  |  |  |  |  |
-| lamentaciones | ot | draft | none |  |  |  |  |  |
-| ezequiel | ot | draft | none |  |  |  |  |  |
+| lamentaciones | ot | ready | none |  |  |  |  |  |
+| ezequiel | ot | ready | none |  |  |  |  |  |
 | daniel | ot | ready | draft |  |  |  |  | file exists; gloss maps are not alignment |
-| oseas | ot | draft | none |  |  |  |  |  |
-| joel | ot | draft | none |  |  |  |  |  |
-| amos | ot | draft | none |  |  |  |  |  |
-| abdias | ot | draft | none |  |  |  |  |  |
-| jonas | ot | draft | none |  |  |  |  |  |
-| miqueas | ot | draft | none |  |  |  |  |  |
-| nahum | ot | draft | none |  |  |  |  |  |
-| habacuc | ot | draft | none |  |  |  |  |  |
-| sofonias | ot | draft | none |  |  |  |  |  |
-| hageo | ot | draft | none |  |  |  |  |  |
-| zacarias | ot | done | done | John Wry | 2026-08-18 | John Wry | 2026-09-16 | 211 `mapped`; AI audit pass (93/118/0; 9:17 H1715 false-fail overruled) |
-| malaquias | ot | draft | none |  |  |  |  |  |
+| oseas | ot | ready | none |  |  |  |  |  |
+| joel | ot | ready | none |  |  |  |  |  |
+| amos | ot | ready | none |  |  |  |  |  |
+| abdias | ot | ready | none |  |  |  |  |  |
+| jonas | ot | ready | none |  |  |  |  |  |
+| miqueas | ot | ready | none |  |  |  |  |  |
+| nahum | ot | ready | none |  |  |  |  |  |
+| habacuc | ot | ready | none |  |  |  |  |  |
+| sofonias | ot | ready | none |  |  |  |  |  |
+| hageo | ot | ready | none |  |  |  |  |  |
+| zacarias | ot | ready | draft |  |  |  |  | 211 `mapped`; AI audit pass (93/118/0; 9:17 H1715 false-fail overruled) — unsiged pending repair |
+| malaquias | ot | ready | none |  |  |  |  |  |
 | mateo | nt | ready | none |  |  |  |  |  |
 | marcos | nt | ready | none |  |  |  |  |  |
 | lucas | nt | ready | none |  |  |  |  |  |
