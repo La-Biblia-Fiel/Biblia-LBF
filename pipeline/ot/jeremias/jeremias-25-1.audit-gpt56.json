@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:1",
+  "chapter": 25,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Esto es lo que sucedió con Jeremías en relación con todo el pueblo de Judá en el cuarto año del reinado de Joaquín, hijo de Josías, rey de Judá, que fue el primer año del reinado de Nabucodonosor, rey de Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025001001",
+        "h24025001002",
+        "h24025001003"
+      ],
+      "issue": "replaces 'the word which was' with interpretive 'esto es lo que sucedió'",
+      "spanishSpan": "Esto es lo que sucedió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025001004",
+        "h24025001006"
+      ],
+      "issue": "paraphrases both instances of עַל with 'en relación con'",
+      "spanishSpan": "en relación con"
+    }
+  ],
+  "notes": "adds 'del reinado de' twice (not in tokens)",
+  "discardedUncitedFindings": 0
+}

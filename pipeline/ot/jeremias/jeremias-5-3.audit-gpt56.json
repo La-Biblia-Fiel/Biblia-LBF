@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:3",
+  "chapter": 5,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso el SEÑOR no tiene ojos para la verdad? ¿Acaso ha golpeado a ellos y no han sido heridos? ¿Acaso los ha castigado y no han vuelto a la obediencia? ¿Acaso han endurecido sus rostros como una roca? ¿Acaso no quieren volver?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005003002",
+        "h24005003005",
+        "h24005003009"
+      ],
+      "issue": "changes 2ms address to LORD (your eyes, you struck, you finished them) into 3rd-person statements about el SEÑOR",
+      "spanishSpan": "el SEÑOR no tiene ojos... ha golpeado... los ha castigado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005003008"
+      ],
+      "issue": "חָלוּ (writhe/tremble) rendered as 'heridos' (wounded)",
+      "spanishSpan": "no han sido heridos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005003009"
+      ],
+      "issue": "כִּלִּיתָם (you finished/consumed them) rendered as 'castigado'",
+      "spanishSpan": "los ha castigado"
+    }
+  ],
+  "notes": "entire verse shifted from direct 2ms address to descriptive 3rd person",
+  "discardedUncitedFindings": 0
+}

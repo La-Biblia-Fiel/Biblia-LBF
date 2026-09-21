@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:1",
+  "chapter": 29,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Estos son los escritos que envió Jeremías el profeta desde Jerusalén a todos los ancianos que estaban en el destierro, a los sacerdotes, a los profetas y a todo el pueblo que Nabucodonosor había llevado cautivo a Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029001010"
+      ],
+      "issue": "omits 'yeter' (rest/remainder of); renders as 'todos los ancianos' instead of 'el resto de los ancianos'",
+      "spanishSpan": "a todos los ancianos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

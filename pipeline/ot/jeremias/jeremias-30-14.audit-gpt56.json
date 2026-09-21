@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:14",
+  "chapter": 30,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Todos tus amantes te olvidarán; no buscarán tu bienestar, porque yo he golpeado a tu enemigo con un castigo cruel, por tu gran pecado y por tus muchas iniquidades.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030014006"
+      ],
+      "issue": "adds 'tu bienestar' as object of דרש; tokens have no such noun",
+      "spanishSpan": "tu bienestar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030014009",
+        "h24030014010"
+      ],
+      "issue": "reverses participants: tokens have 'I struck you' (הכיתיך) not 'I struck your enemy'",
+      "spanishSpan": "yo he golpeado a tu enemigo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030014011",
+        "h24030014012",
+        "h24030014014",
+        "h24030014015",
+        "h24030014016",
+        "h24030014017"
+      ],
+      "issue": "alters syntax and participants of על רב עונך עצמו חטאתיך; Spanish makes two parallel causes rather than 'because of abundance of your iniquity, your sins have become many'",
+      "spanishSpan": "por tu gran pecado y por tus muchas iniquidades"
+    }
+  ],
+  "notes": "multiple participant and concept additions",
+  "discardedUncitedFindings": 0
+}

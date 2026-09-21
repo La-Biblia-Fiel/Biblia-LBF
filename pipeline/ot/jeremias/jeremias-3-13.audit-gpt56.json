@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:13",
+  "chapter": 3,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero conoce tu pecado, porque has pecado contra el Señor tu Dios, y has dispersado tus caminos a los extranjeros bajo todo árbol frondoso, y no has oído mi voz, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003013005",
+        "h24003013020"
+      ],
+      "issue": "replaces proper name יהוה with title 'Señor'",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003013018"
+      ],
+      "issue": "changes 2mp verb to 2fs, smoothing person shift",
+      "spanishSpan": "no has oído"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003013007"
+      ],
+      "issue": "renders פשע as 'pecado' (sin) instead of licensed sense of transgress/rebel",
+      "spanishSpan": "has pecado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

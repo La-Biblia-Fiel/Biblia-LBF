@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:18",
+  "chapter": 9,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y se apresurarán y se vestirán de luto, y nuestros ojos derramarán lágrimas y nuestras pestañas correrán agua.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009018002"
+      ],
+      "issue": "adds 'vestirán de luto' concept absent from lemma 5375 / qal 'lift up'",
+      "spanishSpan": "se vestirán de luto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009018004",
+        "h24009018005",
+        "h24009018006",
+        "h24009018007"
+      ],
+      "issue": "restructures 'our eyes come down a tear' into 'ojos derramarán lágrimas'",
+      "spanishSpan": "nuestros ojos derramarán lágrimas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009018008",
+        "h24009018009",
+        "h24009018010"
+      ],
+      "issue": "assigns 'pestañas' and 'correrán' where tokens have eyelids (dual) + flow (3mp) + water",
+      "spanishSpan": "nuestras pestañas correrán agua"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

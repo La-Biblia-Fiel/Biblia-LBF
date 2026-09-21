@@ -1,0 +1,54 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:3",
+  "chapter": 20,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y al día siguiente salió Pashhur a Jeremías de la celda, y le dijo Jeremías: No es Pashhur tu nombre que ha llamado el Señor, sino Magor-sensens.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020003003",
+        "h24020003004",
+        "h24020003005",
+        "h24020003006",
+        "h24020003008"
+      ],
+      "issue": "verb and object inverted; Pashhur brings Jeremiah out of the stocks, not 'salió Pashhur a Jeremías de la celda'",
+      "spanishSpan": "salió Pashhur a Jeremías de la celda"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020003008"
+      ],
+      "issue": "הַמַּהְפָּ֑כֶת rendered as 'celda' (cell) instead of stocks/pillory",
+      "spanishSpan": "de la celda"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020003014",
+        "h24020003015",
+        "h24020003016"
+      ],
+      "issue": "word order and participants altered; 'No es Pashhur tu nombre que ha llamado el Señor' does not match 'Jehová ha llamado tu nombre Pashhur'",
+      "spanishSpan": "No es Pashhur tu nombre que ha llamado el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020003019",
+        "h24020003020"
+      ],
+      "issue": "מָג֥וֹר מִסָּבִֽיב rendered as 'Magor-sensens' (wrong spelling and form)",
+      "spanishSpan": "Magor-sensens"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

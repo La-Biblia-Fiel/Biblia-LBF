@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:8",
+  "chapter": 7,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que confiáis en mentiras, sin provecho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007008006",
+        "h24007008007"
+      ],
+      "issue": "omits 'dibre hashaqer' (words of the lie); collapses to direct 'mentiras'",
+      "spanishSpan": "mentiras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007008004"
+      ],
+      "issue": "omits 2mp dative 'lachem' (for yourselves)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

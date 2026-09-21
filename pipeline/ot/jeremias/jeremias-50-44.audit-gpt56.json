@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:44",
+  "chapter": 50,
+  "verse": 44,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que como un león sube de la gloria del Jordán a la morada de Etán, porque lo haré venir de ella, y ¿quién es el valiente que se opondrá a mí? ¿Quién es como yo, y quién me hará comparecer? ¿Quién es este pastor que se pondrá delante de mí?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050044010",
+        "h24050044011"
+      ],
+      "issue": "רגע hiphil cohortative misrendered as 'lo haré venir'",
+      "spanishSpan": "porque lo haré venir de ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050044013",
+        "h24050044014",
+        "h24050044015"
+      ],
+      "issue": "בחור ... אליה אפקד inverted and changed to 'valiente que se opondrá a mí'",
+      "spanishSpan": "quién es el valiente que se opondrá a mí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050044020"
+      ],
+      "issue": "יוֹעִדֶנִּי changed from 'who will summon me' to interpretive 'me hará comparecer'",
+      "spanishSpan": "quién me hará comparecer"
+    }
+  ],
+  "notes": "multiple participant and verb mismatches",
+  "discardedUncitedFindings": 0
+}

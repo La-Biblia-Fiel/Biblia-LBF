@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:20",
+  "chapter": 50,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquellos días y en aquel tiempo, dice el Señor, se buscará el pecado de Israel, pero no se hallará; y el pecado de Judá, pero tampoco se hallará, porque perdonaré a los que queden.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050020006"
+      ],
+      "issue": "YHWH rendered as 'Señor' instead of licensed Jehová",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050020013"
+      ],
+      "issue": "plural חַטֹּאת rendered as singular 'pecado'",
+      "spanishSpan": "el pecado de Judá"
+    }
+  ],
+  "notes": "also collapses two distinct negatives into one smoothed clause",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:39",
+  "chapter": 31,
+  "verse": 39,
+  "candidateLabel": "gpt56",
+  "spanish": "Y saldrá otra vez la medida en su frente, sobre la colina de Gareb, y rodeará Geatá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031039004"
+      ],
+      "issue": "נֶגְדּוֹ rendered as 'en su frente' (forehead/front concept not licensed by lemma 5048)",
+      "spanishSpan": "en su frente"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

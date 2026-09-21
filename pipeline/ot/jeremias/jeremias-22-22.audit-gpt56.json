@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:22",
+  "chapter": 22,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Todos tus pastores te pastorearán el viento, y tus amantes irán en cautiverio. Entonces te avergonzarás y quedarás confundida por todas tus malas acciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022022002",
+        "h24022022003",
+        "h24022022004"
+      ],
+      "issue": "subject inversion: Spanish makes shepherds the subject pasturing wind; tokens make wind (רוּחַ) the subject of תִּרְעֶה acting on the shepherds",
+      "spanishSpan": "Todos tus pastores te pastorearán el viento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022022003"
+      ],
+      "issue": "adds direct object 'te' not present in the tokens",
+      "spanishSpan": "te pastorearán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

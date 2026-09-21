@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:9",
+  "chapter": 29,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque en vanidad profetizan en su nombre, a quien no envié yo, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029009002"
+      ],
+      "issue": "בְשֶׁ֔קֶר (sheqer = falsehood/lie) rendered as 'vanidad' (different concept)",
+      "spanishSpan": "en vanidad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029009006"
+      ],
+      "issue": "בִּשְׁמִ֑י (my name, 1cs) rendered as 'su nombre' (his name)",
+      "spanishSpan": "en su nombre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029009003",
+        "h24029009005",
+        "h24029009008"
+      ],
+      "issue": "restructures 'they ... to you ... I did not send them' into 'a quien no envié yo', omitting 2mp addressee and altering participants",
+      "spanishSpan": "a quien no envié yo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029009005"
+      ],
+      "issue": "לָכֶ֖ם (to you pl) omitted entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "multiple lexical and syntactic mismatches",
+  "discardedUncitedFindings": 0
+}

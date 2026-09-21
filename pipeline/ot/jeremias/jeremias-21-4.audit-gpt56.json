@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:4",
+  "chapter": 21,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el SEÑOR Dios de Israel: He aquí, pongo las armas de la guerra que está en sus manos en manos del rey de Babilonia y de los caldeos, sus enemigos, que están fuera de la muralla; y los juntaré dentro de esta ciudad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021004007"
+      ],
+      "issue": "Spanish 'pongo' renders the hiphil participle of 5437 (turning) as 'put/place'",
+      "spanishSpan": "pongo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021004022"
+      ],
+      "issue": "Spanish adds 'sus enemigos' not licensed by the participle 'besieging'",
+      "spanishSpan": "sus enemigos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

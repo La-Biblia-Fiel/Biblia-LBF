@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:25",
+  "chapter": 29,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová de los ejércitos, Dios de Israel, diciendo: Porque has enviado en mi nombre libros a todos el pueblo que está en Jerusalén, y a Sofonías hijo de Maaseja, el sacerdote, y a todos los sacerdotes, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029025012"
+      ],
+      "issue": "changes 2ms suffix to 1cs ('mi nombre' for 'your name')",
+      "spanishSpan": "en mi nombre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

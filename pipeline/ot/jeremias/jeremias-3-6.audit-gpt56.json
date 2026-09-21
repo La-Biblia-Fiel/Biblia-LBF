@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:6",
+  "chapter": 3,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el Señor me dijo: En los días de Josías, el rey, ¿has visto lo que ha hecho la desviada Israel? Va a todos los montes altos y bajo todo árbol frondoso, y allí se prostituye.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003006002"
+      ],
+      "issue": "replaces proper name יהוה with unlicensed title 'Señor'",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003006023"
+      ],
+      "issue": "changes 2fs verb וַתִּזְנִי to 3s descriptive 'se prostituye'",
+      "spanishSpan": "se prostituye"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

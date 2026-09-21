@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:1",
+  "chapter": 5,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Buscad en las calles de Jerusalén y ved, y sabed, y buscad en sus plazas si halláis un hombre que haga justicia y busque la verdad, para que yo le perdone.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005001018",
+        "h24005001019"
+      ],
+      "issue": "changes וְאֶסְלַ֖ח לָֽהּ from 'and I will forgive her' to purpose clause 'para que yo le perdone'",
+      "spanishSpan": "para que yo le perdone"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005001019"
+      ],
+      "issue": "לָֽהּ is 3fs 'her' (city) rendered as 'le' (him)",
+      "spanishSpan": "le"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005001001"
+      ],
+      "issue": "שׁוֹטְט֞וּ (roam/go about) rendered with same verb 'buscad' as later בקשׁ",
+      "spanishSpan": "Buscad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

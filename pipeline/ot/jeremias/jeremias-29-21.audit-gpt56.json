@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:21",
+  "chapter": 29,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová de los ejércitos, Dios de Israel, a Acajo hijo de Caloia y a Sedequías hijo de Maaseja, los profetas que han profetizado falsamente en mi nombre: He aquí que los entregaré en manos de Nabucodonosor, rey de Babilonia, y él los matará delante de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029021016"
+      ],
+      "issue": "omits licensed dative 'to you' (לָכֶם) modifying the participle",
+      "spanishSpan": "los profetas que han profetizado falsamente"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029021008",
+        "h24029021010"
+      ],
+      "issue": "Hebraized/ non-conventional proper-name renderings instead of standard Spanish forms",
+      "spanishSpan": "Acajo hijo de Caloia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:15",
+  "chapter": 20,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Maldito el hombre que ha dicho a mi padre: ‘Has tenido un hijo varón’. Que se alegrara y lo hiciera feliz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020015004"
+      ],
+      "issue": "בשר rendered as 'ha dicho' instead of announcing/bringing news",
+      "spanishSpan": "ha dicho"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020015008",
+        "h24020015009",
+        "h24020015010",
+        "h24020015011"
+      ],
+      "issue": "Pual passive 'was born to you a son male' rendered as active 'Has tenido un hijo varón' shifting subject to father",
+      "spanishSpan": "Has tenido un hijo varón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020015012",
+        "h24020015013"
+      ],
+      "issue": "infinitive absolute + perfect construction rendered with added 'se alegrara' not present in tokens",
+      "spanishSpan": "Que se alegrara y lo hiciera feliz"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

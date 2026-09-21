@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:14",
+  "chapter": 27,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "No os dejéis engañar por las palabras de los profetas que os dicen: No serviréis al rey de Babilonia, porque son mentirosos los profetas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027014001",
+        "h24027014002"
+      ],
+      "issue": "adds 'dejéis engañar' instead of licensing 'no escuchéis / no oigáis'",
+      "spanishSpan": "No os dejéis engañar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027014003"
+      ],
+      "issue": "changes preposition 'אֶל' (to/unTo) to 'por'",
+      "spanishSpan": "por las palabras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027014015",
+        "h24027014017"
+      ],
+      "issue": "replaces 'prophesying a lie/falsehood' with 'son mentirosos'",
+      "spanishSpan": "son mentirosos los profetas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027014002",
+        "h24027014010",
+        "h24027014018"
+      ],
+      "issue": "uses vosotros 'os' forms instead of Latin American ustedes",
+      "spanishSpan": "os dejéis, os dicen"
+    }
+  ],
+  "notes": "multiple unlicensed additions and form mismatch",
+  "discardedUncitedFindings": 0
+}

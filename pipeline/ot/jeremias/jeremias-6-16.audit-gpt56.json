@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:16",
+  "chapter": 6,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor: Estad en los caminos y mirad, y preguntad por los senderos antiguos, ¿dónde está el buen camino, y andad por él? Y encontraréis descanso para vuestra alma; pero dijeron: No iremos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006016003"
+      ],
+      "issue": "YHWH rendered as title 'el Señor' instead of licensed Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006016004",
+        "h24006016007",
+        "h24006016008",
+        "h24006016015",
+        "h24006016017"
+      ],
+      "issue": "2mp imperatives rendered with Peninsular vosotros forms instead of licensed Latin American ustedes",
+      "spanishSpan": "Estad ... mirad, y preguntad ... andad ... encontraréis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006016019"
+      ],
+      "issue": "2mp suffix rendered with Peninsular 'vuestra' instead of Latin American 'de ustedes'",
+      "spanishSpan": "vuestra alma"
+    }
+  ],
+  "notes": "multiple morphology and proper-name mismatches",
+  "discardedUncitedFindings": 0
+}

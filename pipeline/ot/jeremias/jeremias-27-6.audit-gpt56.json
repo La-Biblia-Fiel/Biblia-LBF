@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:6",
+  "chapter": 27,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora yo he dado todas estas tierras en manos de Nabucodonosor, rey de Babilonia, mi siervo, y también a la bestia del campo las he dado en su mano para que la sirva.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027006015",
+        "h24027006016",
+        "h24027006017",
+        "h24027006018",
+        "h24027006019"
+      ],
+      "issue": "Spanish inverts participants: treats lands as given to the beast and misassigns service, instead of beast given to Nebuchadnezzar to serve him",
+      "spanishSpan": "y también a la bestia del campo las he dado en su mano para que la sirva"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

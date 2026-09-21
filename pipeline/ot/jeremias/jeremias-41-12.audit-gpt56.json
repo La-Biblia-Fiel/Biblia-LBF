@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:12",
+  "chapter": 41,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Tomaron a todos los hombres y fueron a luchar contra Ismael, hijo de Netanías, y lo encontraron junto a las aguas de Gibeón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041012015"
+      ],
+      "issue": "omits רַבִּ֖ים (many)",
+      "spanishSpan": "las aguas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041012007"
+      ],
+      "issue": "עִם rendered as contra (against) instead of with",
+      "spanishSpan": "contra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041012013",
+        "h24041012014",
+        "h24041012016",
+        "h24041012017"
+      ],
+      "issue": "rephrases אֶל מַיִם רַבִּים אֲשֶׁר בְּגִבְעוֹן as junto a las aguas de Gibeón (changes preposition, omits many, alters structure)",
+      "spanishSpan": "junto a las aguas de Gibeón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

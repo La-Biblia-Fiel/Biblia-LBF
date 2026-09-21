@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:37",
+  "chapter": 31,
+  "verse": 37,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el SEÑOR: Si el cielo se aparta de lo alto y las bases de la tierra se agitan, también yo rechazaré a todo linaje de Israel por todo lo que han hecho, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031037005"
+      ],
+      "issue": "verb 'se aparta' replaces 'be measured' (niphal מדד)",
+      "spanishSpan": "se aparta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031037008"
+      ],
+      "issue": "verb 'se agitan' replaces 'be searched/explored' (niphal חקר)",
+      "spanishSpan": "se agitan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031037003",
+        "h24031037023"
+      ],
+      "issue": "SEÑOR replaces licensed יהוה → Jehová",
+      "spanishSpan": "el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

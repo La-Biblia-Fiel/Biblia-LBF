@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:10",
+  "chapter": 26,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y oyeron los señores de Judá estas palabras y subieron del palacio real a la casa de Jehová y se sentaron en la puerta del nuevo templo de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026010008",
+        "h24026010009"
+      ],
+      "issue": "בֵּית הַמֶּלֶךְ rendered as 'palacio real' adds 'palacio' concept absent from tokens",
+      "spanishSpan": "palacio real"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026010013",
+        "h24026010014",
+        "h24026010015",
+        "h24026010016"
+      ],
+      "issue": "שַׁעַר יְהוָה הֶחָדָשׁ rendered as 'puerta del nuevo templo de Jehová' adds 'templo' and reassigns 'nuevo' to temple instead of gate",
+      "spanishSpan": "puerta del nuevo templo de Jehová"
+    }
+  ],
+  "notes": "two concept additions not licensed by any token",
+  "discardedUncitedFindings": 0
+}

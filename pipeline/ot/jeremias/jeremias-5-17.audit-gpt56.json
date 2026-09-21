@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:17",
+  "chapter": 5,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y comerán tu cosecha y tu pan, comerán a tus hijos y a tus hijas, comerán a tus ovejas y a tus vacas, comerán tus viñas y tus higos. Destruirán tus ciudades fortificadas en las que confiabas con la espada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005017001",
+        "h24005017004",
+        "h24005017007",
+        "h24005017010",
+        "h24005017013"
+      ],
+      "issue": "Spanish renders all eating/devastating verbs as 3rd plural; source tokens show mixed 3ms (most) and one 3mp",
+      "spanishSpan": "comerán ... comerán ... comerán ... comerán ... Destruirán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

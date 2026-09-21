@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:9",
+  "chapter": 28,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "El profeta que profetiza la paz, cuando la palabra del profeta se cumpla, se conocerá que el SEÑOR ha enviado al profeta con verdad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028009005"
+      ],
+      "issue": "adds 'se cumpla' (fulfilled) not licensed by בְּבֹא֙ (when comes)",
+      "spanishSpan": "se cumpla"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

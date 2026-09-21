@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:21",
+  "chapter": 49,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Por el grito de sus jóvenes, tiemlica la tierra; por el grito en el mar Rojo se oye su voz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049021002"
+      ],
+      "issue": "נִפְלָ֔ם (their falling) rendered as 'sus jóvenes'",
+      "spanishSpan": "de sus jóvenes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049021001",
+        "h24049021002"
+      ],
+      "issue": "adds 'jóvenes' concept absent from tokens; changes 'sound of their falling' to 'cry of their young men'",
+      "spanishSpan": "Por el grito de sus jóvenes"
+    }
+  ],
+  "notes": "second half also smooths but primary fail is first clause",
+  "discardedUncitedFindings": 0
+}

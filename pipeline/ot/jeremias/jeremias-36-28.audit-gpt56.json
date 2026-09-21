@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:28",
+  "chapter": 36,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Toma otra hoja y escribe en ella todas las palabras que estaban en la hoja primera que el rey Joaquín quemó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036028001"
+      ],
+      "issue": "omits licensed imperative שׁוּב (return/again) before the take command",
+      "spanishSpan": "Toma"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

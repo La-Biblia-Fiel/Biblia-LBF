@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:22",
+  "chapter": 6,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor: He aquí que viene un pueblo de la tierra del norte, y una gran nación se levantará de los confines de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006022003"
+      ],
+      "issue": "YHWH rendered as title 'el Señor' instead of Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

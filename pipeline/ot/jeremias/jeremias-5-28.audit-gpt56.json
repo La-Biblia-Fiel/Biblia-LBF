@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:28",
+  "chapter": 5,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Se han enriquecido y han hablado mal; no han juzgado el caso del huérfano, ni han hecho justicia al necesitado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005028002",
+        "h24005028003",
+        "h24005028004",
+        "h24005028005",
+        "h24005028006"
+      ],
+      "issue": "Spanish 'han hablado mal' adds speaking concept absent from tokens; tokens are 'they have become sleek, also passed over evil words/matters'",
+      "spanishSpan": "han hablado mal"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005028012"
+      ],
+      "issue": "omits licensed concept וְיַצְלִיחוּ 'and they prosper'",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "first clause and omission of prosper clause mismatch tokens",
+  "discardedUncitedFindings": 0
+}

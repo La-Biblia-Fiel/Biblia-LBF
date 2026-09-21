@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:14",
+  "chapter": 2,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso el siervo nacido en casa es igual al siervo comprado con dinero? ¿Por qué, pues, es tratado como cosa vil?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002014002"
+      ],
+      "issue": "omits Israel as the subject of the question",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002014003",
+        "h24002014004",
+        "h24002014005",
+        "h24002014006"
+      ],
+      "issue": "adds comparison to purchased servant and equality not present in tokens",
+      "spanishSpan": "es igual al siervo comprado con dinero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002014009"
+      ],
+      "issue": "renders לבז as 'cosa vil' instead of spoil/plunder",
+      "spanishSpan": "tratado como cosa vil"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

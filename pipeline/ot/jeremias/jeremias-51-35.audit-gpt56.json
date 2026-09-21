@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:35",
+  "chapter": 51,
+  "verse": 35,
+  "candidateLabel": "gpt56",
+  "spanish": "Mi ira y mis despojos serán contra Babilonia, dice el que habita en Sion; y mi sangre será contra los que habitan en Cades, dice Jerusalén.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051035001"
+      ],
+      "issue": "חמס rendered as ira (violence/wrong not licensed)",
+      "spanishSpan": "Mi ira"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051035002"
+      ],
+      "issue": "שאר rendered as despojos (flesh not licensed)",
+      "spanishSpan": "mis despojos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051035011"
+      ],
+      "issue": "כשדים rendered as Cades (wrong proper name)",
+      "spanishSpan": "Cades"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051035005",
+        "h24051035006",
+        "h24051035007"
+      ],
+      "issue": "attribution of speech reversed from inhabitant saying to 'dice el que habita'",
+      "spanishSpan": "dice el que habita en Sion"
+    }
+  ],
+  "notes": "multiple lexical and structural mismatches",
+  "discardedUncitedFindings": 0
+}

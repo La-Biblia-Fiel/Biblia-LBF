@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:24",
+  "chapter": 50,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "He sembrado para ti, Babilonia, y tú has sido capturada, pero no lo has sabido; has sido encontrada y capturada, porque en el Señor te has rebelado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050024001"
+      ],
+      "issue": "lemma 3369 Qal 1cs rendered as 'sembrado' (sow) instead of snare/lay trap",
+      "spanishSpan": "He sembrado para ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050024013"
+      ],
+      "issue": "יהוה rendered as 'Señor' instead of conventional Jehová",
+      "spanishSpan": "en el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

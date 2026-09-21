@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:13",
+  "chapter": 50,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Por la ira de Jehová no te quedarás, y serás desolación total; todo el que pase por Babilonia se maravillará y se estremecerá por todas sus heridas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050013004",
+        "h24050013005"
+      ],
+      "issue": "Hebrew 3fs verbs rendered as 2s address (te quedarás, serás) instead of 3fs",
+      "spanishSpan": "no te quedarás, y serás"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

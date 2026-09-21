@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:24",
+  "chapter": 48,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sobre Keriot y sobre Betzera, y sobre todas las ciudades de Moab, lejanas y cercanas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048024008"
+      ],
+      "issue": "omits licensed concept אֶ֣רֶץ (land/earth)",
+      "spanishSpan": "de Moab"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

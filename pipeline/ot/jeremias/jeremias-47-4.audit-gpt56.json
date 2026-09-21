@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 47:4",
+  "chapter": 47,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "En el día que el Señor venga para saquear a todos los filisteos y cortar a Gaza, a Ascalón, a Ecrón y a Asdod, todo sobrante que ayude será saqueado, porque el Señor saqueará a los filisteos, y el remanente de Ai-Kaphtor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047004009",
+        "h24047004010"
+      ],
+      "issue": "Spanish names Gaza/Ascalón/Ecrón/Asdod but tokens only license Tyre and Sidon",
+      "spanishSpan": "cortar a Gaza, a Ascalón, a Ecrón y a Asdod"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047004011",
+        "h24047004012",
+        "h24047004013"
+      ],
+      "issue": "Spanish rephrases כל שריד עזר as 'todo sobrante que ayude será saqueado' adding verb and participant shift not in tokens",
+      "spanishSpan": "todo sobrante que ayude será saqueado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047004004",
+        "h24047004008"
+      ],
+      "issue": "Spanish structure changes the two purpose infinitives and their objects",
+      "spanishSpan": "para saquear ... y cortar"
+    }
+  ],
+  "notes": "multiple token mismatches",
+  "discardedUncitedFindings": 0
+}

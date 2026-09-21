@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:32",
+  "chapter": 36,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jeremías tomó otra hoja y la dio a Baruc, hijo de Nerías, el escriba, y escribió sobre ella de la boca de Jeremías todas las palabras del libro que Joaquín, rey de Judá, quemó en el fuego, y además añadió más palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036032026",
+        "h24036032027",
+        "h24036032028",
+        "h24036032029",
+        "h24036032030"
+      ],
+      "issue": "niphal passive 'were added' rendered as active 'añadió'; 'many words like them' reduced to 'más palabras', omitting 'like them' and changing quantity",
+      "spanishSpan": "y además añadió más palabras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

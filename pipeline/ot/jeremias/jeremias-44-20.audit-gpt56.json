@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:20",
+  "chapter": 44,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y respondió Jeremías a todo el pueblo, a los hombres y a las mujeres y a todo el pueblo que le respondía con palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044020001"
+      ],
+      "issue": "main verb rendered as 'respondió' (reply/answer) instead of licensed 'dijo' from lemma 559",
+      "spanishSpan": "respondió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044020015"
+      ],
+      "issue": "דָּבָר rendered as plural 'palabras'",
+      "spanishSpan": "palabras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

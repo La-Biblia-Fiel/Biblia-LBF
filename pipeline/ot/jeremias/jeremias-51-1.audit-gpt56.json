@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:1",
+  "chapter": 51,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor: He aquí que yo levanto contra Babilonia y contra los habitantes de Leb Kamai un espíritu destructor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051001003"
+      ],
+      "issue": "replaces יְהוָה with 'el Señor' instead of licensed 'Jehová'",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

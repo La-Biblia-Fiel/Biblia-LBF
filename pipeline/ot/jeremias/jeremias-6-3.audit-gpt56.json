@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:3",
+  "chapter": 6,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Vengan pastores y sus rebaños, toquen la trompeta alrededor de los tiendas, cada uno con su mano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006003005",
+        "h24006003007"
+      ],
+      "issue": "adds 'toquen la trompeta' (absent from tokens) and omits pitching tents",
+      "spanishSpan": "toquen la trompeta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006003002"
+      ],
+      "issue": "changes 3mp imperfect 'they will come' to imperative 'vengan'",
+      "spanishSpan": "Vengan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006003001",
+        "h24006003006"
+      ],
+      "issue": "omits prepositional phrases 'to her' and 'upon her'",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

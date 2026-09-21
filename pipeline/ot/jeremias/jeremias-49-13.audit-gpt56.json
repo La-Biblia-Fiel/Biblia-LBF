@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:13",
+  "chapter": 49,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque en mí he jurado, dice el SEÑOR, que Edom será para la destrucción, para la maldición, para el desierto, para la maldición y la calamidad; y todas sus ciudades serán para la destrucción eterna.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049013012"
+      ],
+      "issue": "replaces בָצְרָה (Bozrah) with Edom",
+      "spanishSpan": "Edom"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049013007",
+        "h24049013008",
+        "h24049013009",
+        "h24049013010"
+      ],
+      "issue": "adds extra noun calamidad and repeats maldición for four distinct nouns",
+      "spanishSpan": "para la maldición y la calamidad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

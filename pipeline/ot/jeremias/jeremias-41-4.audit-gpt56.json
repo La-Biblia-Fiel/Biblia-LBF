@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:4",
+  "chapter": 41,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Al día siguiente, antes de que mataran a Gedalía, nadie lo sabía.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041004004"
+      ],
+      "issue": "adds 'antes de que' and renders infinitive construct as completed past subjunctive 'mataran'",
+      "spanishSpan": "antes de que mataran"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041004003"
+      ],
+      "issue": "renders 'the second day' as 'el día siguiente'",
+      "spanishSpan": "Al día siguiente"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041004009",
+        "h24041004007"
+      ],
+      "issue": "adds 'lo' specifying the object of knowing",
+      "spanishSpan": "nadie lo sabía"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

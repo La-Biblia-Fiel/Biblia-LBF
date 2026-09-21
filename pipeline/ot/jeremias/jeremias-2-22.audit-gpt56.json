@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:22",
+  "chapter": 2,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Aunque te laves con nitrato y te multiplies con polvo, tu iniquidad aún está delante de mí, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002022008"
+      ],
+      "issue": "omits niphal participle נִכְתָּם (stained/marked)",
+      "spanishSpan": "aún está"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002022007"
+      ],
+      "issue": "renders בֹּרִית as polvo (not licensed by lemma)",
+      "spanishSpan": "con polvo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002022005",
+        "h24002022006"
+      ],
+      "issue": "renders hiphil תַרְבִּי־לָךְ inaccurately as te multiplies",
+      "spanishSpan": "te multiplies"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002022008"
+      ],
+      "issue": "inserts aún not present in any token",
+      "spanishSpan": "aún está"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

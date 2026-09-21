@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:9",
+  "chapter": 5,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso por esto no te cuidaré, dice el SEÑOR, y no me vengaré de un pueblo como este?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005009004"
+      ],
+      "issue": "פקד (paqad) rendered as 'cuidaré' (positive care/watch) instead of punitive visit/punish sense licensed by qal impf 1cs in context",
+      "spanishSpan": "no te cuidaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005009004"
+      ],
+      "issue": "introduces direct object 'te' with no corresponding token or participant in the source",
+      "spanishSpan": "no te cuidaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005009012",
+        "h24005009013"
+      ],
+      "issue": "נפשי (my soul) as subject of hithpael נקם shifted to 1cs 'me vengaré'",
+      "spanishSpan": "no me vengaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

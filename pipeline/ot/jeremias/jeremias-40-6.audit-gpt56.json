@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:6",
+  "chapter": 40,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jeremías fue a Gedalía hijo de Achikam el escriba, y vivió con él en medio del pueblo que quedaba en la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040006007"
+      ],
+      "issue": "adds 'el escriba' (no scribe lemma present); replaces directional Mizpah reference with unauthorized noun",
+      "spanishSpan": "el escriba"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040006007"
+      ],
+      "issue": "omits licensed directional Mizpah (הַמִּצְפָּ֑תָה) entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

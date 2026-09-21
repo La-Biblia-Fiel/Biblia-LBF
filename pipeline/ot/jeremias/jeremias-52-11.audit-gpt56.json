@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:11",
+  "chapter": 52,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y le cegaron los ojos a Zedequías, y lo ataron con cadenas de cobre, y lo llevó el rey de Babilonia a Babilonia, y lo puso en la cárcel hasta el día de su muerte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052011004"
+      ],
+      "issue": "verb number mismatch: source 3ms piel perfect, Spanish 3pl",
+      "spanishSpan": "cegaron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052011005"
+      ],
+      "issue": "verb number mismatch: source 3ms qal, Spanish 3pl",
+      "spanishSpan": "ataron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052011012"
+      ],
+      "issue": "adds concept 'cárcel' not licensed by פקדות",
+      "spanishSpan": "la cárcel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

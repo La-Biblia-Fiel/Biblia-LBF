@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:41",
+  "chapter": 51,
+  "verse": 41,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Cómo ha sido capturada Susec y ha sido tomada la gloria de toda la tierra! ¡Cómo ha sido convertida Babilonia en un lugar de voces entre las naciones!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051041010"
+      ],
+      "issue": "לְשַׁמָּה rendered as 'lugar de voces' (adds unlicensed concept; lemma H8047 is desolation/waste)",
+      "spanishSpan": "un lugar de voces"
+    }
+  ],
+  "notes": "first clause and names are within bounds",
+  "discardedUncitedFindings": 0
+}

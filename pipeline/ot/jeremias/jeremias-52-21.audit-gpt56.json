@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:21",
+  "chapter": 52,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y la altura de la columna era de dieciocho codos, y el cordón que la rodeaba era de doce codos, y su grosor era de cuatro dedos, y era hueca.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052021001"
+      ],
+      "issue": "plural pillars rendered as singular columna",
+      "spanishSpan": "la columna"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052021002",
+        "h24052021003",
+        "h24052021004"
+      ],
+      "issue": "adds concept altura not present in tokens",
+      "spanishSpan": "la altura de la columna era de"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

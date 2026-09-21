@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:8",
+  "chapter": 3,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo vi que, por todas las afrentas con las que se ha prostituido la desviada Israel, la he enviado y le he dado el libro de divorcio, pero la desviada Judá, su hermana, no ha temido, sino que ha ido y ha prostituido también ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003008005"
+      ],
+      "issue": "afrentas adds unlicensed concept; lemma H182 is causes/matters",
+      "spanishSpan": "por todas las afrentas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003008007"
+      ],
+      "issue": "prostituido for נאף (adultery) mismatches lemma; later same verb used for זנה",
+      "spanishSpan": "se ha prostituido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003008018"
+      ],
+      "issue": "desviada for בֹּגֵדָה (treacherous) mismatches lemma",
+      "spanishSpan": "la desviada Judá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

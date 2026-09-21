@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:42",
+  "chapter": 32,
+  "verse": 42,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque dice Jehová: Como he traído a este pueblo todo este mal grande, así traeré sobre ellos todo el bien que hablo sobre ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032042002"
+      ],
+      "issue": "omits licensed adverb כֹה (thus/so) from opening formula",
+      "spanishSpan": "Porque dice Jehová"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

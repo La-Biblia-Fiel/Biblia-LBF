@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:21",
+  "chapter": 8,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Por la desolación de la hija de mi pueblo he sido desgarrado; he puesto enlutamiento; he sido consternado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008021002",
+        "h24008021007"
+      ],
+      "issue": "misassigns שַׁמָּה (desolation) to the position and role of שֶׁבֶר (breaking)",
+      "spanishSpan": "Por la desolación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008021005"
+      ],
+      "issue": "renders הָשְׁבָּרְתִּי (hophal 'I have been broken') as 'desgarrado' (torn) instead of broken",
+      "spanishSpan": "he sido desgarrado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008021006"
+      ],
+      "issue": "renders קָדַרְתִּי (qal 'I have mourned') as 'he puesto enlutamiento' adding extra verb and noun not present",
+      "spanishSpan": "he puesto enlutamiento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008021008",
+        "h24008021007"
+      ],
+      "issue": "changes הֶחֱזִקָתְנִי (hiphil 3fs 'she/it has seized me') to passive 'he sido consternado' and drops the subject שַׁמָּה",
+      "spanishSpan": "he sido consternado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:20",
+  "chapter": 23,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "No se apartará la mano del Señor hasta que haya hecho y confirmado su propósito en el corazón. En los últimos días se entenderán bien esto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023020003",
+        "h24023020004"
+      ],
+      "issue": "inserts 'mano' with no token support; אַף יְהוָה is anger of YHWH, not hand",
+      "spanishSpan": "la mano del Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023020013"
+      ],
+      "issue": "changes 2mp verb תִּתְבּוֹנְנוּ to impersonal passive 'se entenderán'",
+      "spanishSpan": "se entenderán bien esto"
+    }
+  ],
+  "notes": "additional smoothing on 'propósito' and 'esto' also present but secondary",
+  "discardedUncitedFindings": 0
+}

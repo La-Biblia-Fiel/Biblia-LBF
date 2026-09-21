@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:17",
+  "chapter": 7,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "¿No veis lo que hacen en las ciudades de Judá y en las calles de Jerusalén?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007017001"
+      ],
+      "issue": "2ms suffix rendered as 2pl vosotros 'veis' instead of tú 'ves'",
+      "spanishSpan": "veis"
+    }
+  ],
+  "notes": "vosotros form and number mismatch on 2ms address",
+  "discardedUncitedFindings": 0
+}

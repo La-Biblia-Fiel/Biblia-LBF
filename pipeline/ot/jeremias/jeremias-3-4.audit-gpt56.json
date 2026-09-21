@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:4",
+  "chapter": 3,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "¿No desde siempre te he llamado Padre? ¿No fui tu guardián desde tu juventud?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003004002"
+      ],
+      "issue": "מֵעַ֔תָּה (from now) rendered as 'desde siempre' (always/ever)",
+      "spanishSpan": "desde siempre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003004003",
+        "h24003004004"
+      ],
+      "issue": "לִי אָבִי structure changed to 'te he llamado Padre'",
+      "spanishSpan": "te he llamado Padre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003004005"
+      ],
+      "issue": "אַלּוּף (companion/chief) rendered as 'guardián'",
+      "spanishSpan": "guardián"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003004006"
+      ],
+      "issue": "נְעֻרַי (my youth) rendered as 'tu juventud'",
+      "spanishSpan": "tu juventud"
+    }
+  ],
+  "notes": "multiple semantic and possessive mismatches",
+  "discardedUncitedFindings": 0
+}

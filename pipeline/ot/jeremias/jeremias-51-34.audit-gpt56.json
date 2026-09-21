@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:34",
+  "chapter": 51,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "Come, oh come, Nabucodonosor, rey de Babilonia; muestra, oh muestra, vasijas vacías; devora, oh devora, como un dragón; llena tu seno con los frutos de tu deleite; vomita, oh vomita.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051034007",
+        "h24051034008",
+        "h24051034009"
+      ],
+      "issue": "changes 3ms perfect filled + his belly + my delicacies into 2ms imperatives 'llena tu seno... tu deleite'",
+      "spanishSpan": "llena tu seno con los frutos de tu deleite"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051034001",
+        "h24051034006",
+        "h24051034007"
+      ],
+      "issue": "inserts repeated imperative commands 'Come, oh come... muestra... devora... vomita' absent from tokens",
+      "spanishSpan": "Come, oh come... muestra, oh muestra... devora, oh devora... vomita, oh vomita"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051034004",
+        "h24051034005"
+      ],
+      "issue": "adds 'vasijas vacías' as separate command not licensed by the construct 'empty vessel/thing'",
+      "spanishSpan": "muestra, oh muestra, vasijas vacías"
+    }
+  ],
+  "notes": "Spanish rewrites narrative description as second-person imperatives",
+  "discardedUncitedFindings": 0
+}

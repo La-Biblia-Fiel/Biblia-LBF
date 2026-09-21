@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:13",
+  "chapter": 52,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y quemó el templo de Jehová, y la casa del rey, y todas las casas de Jerusalén, y todas las casas grandes quemó con fuego.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052013003",
+        "h24052013004"
+      ],
+      "issue": "adds 'templo' concept; tokens only license 'casa' (lemma 1004 b)",
+      "spanishSpan": "el templo de Jehová"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052013014",
+        "h24052013015"
+      ],
+      "issue": "pluralizes singular בֵּית הַגָּדוֹל to 'casas grandes'",
+      "spanishSpan": "todas las casas grandes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

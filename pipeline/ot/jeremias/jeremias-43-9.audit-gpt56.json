@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 43:9",
+  "chapter": 43,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Toma en tu mano piedras grandes y entiérralas en el lodo blanco que está en la puerta de la casa de Faraón en Tafnes, delante de los hombres de Judá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043009006",
+        "h24043009007"
+      ],
+      "issue": "adds 'blanco' with no corresponding token or lemma",
+      "spanishSpan": "lodo blanco"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

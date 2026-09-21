@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:15",
+  "chapter": 38,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Jeremías respondió al rey Zedequías: Haré contigo lo que me digas, porque temo que me mates; y aunque te aconseje, no me escucharás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038015005",
+        "h24038015006",
+        "h24038015007",
+        "h24038015008",
+        "h24038015009",
+        "h24038015010"
+      ],
+      "issue": "Spanish replaces the conditional interrogative structure 'if I tell you, will you not kill me' with an unrelated declarative 'I will do what you say, because I fear you will kill me'",
+      "spanishSpan": "Haré contigo lo que me digas, porque temo que me mates"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038015001",
+        "h24038015002",
+        "h24038015003",
+        "h24038015004"
+      ],
+      "issue": "Spanish inserts 'respondió al rey' absent from the tokens; the text is simply 'dijo Jeremías a Sedequías'",
+      "spanishSpan": "Jeremías respondió al rey Zedequías"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038015011",
+        "h24038015012",
+        "h24038015013",
+        "h24038015014",
+        "h24038015015"
+      ],
+      "issue": "Spanish changes the second clause from 'if I counsel you, you will not listen to me' into concessive 'aunque te aconseje' while preserving the non-listening, but the overall sentence is already invalid due to prior mismatches",
+      "spanishSpan": "y aunque te aconseje, no me escucharás"
+    }
+  ],
+  "notes": "candidate is a loose paraphrase, not a rendering of the supplied tokens",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:30",
+  "chapter": 50,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso caerán los jóvenes en las plazas, y todos los soldados serán derrotados en aquel día, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050030012"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of Jehová",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

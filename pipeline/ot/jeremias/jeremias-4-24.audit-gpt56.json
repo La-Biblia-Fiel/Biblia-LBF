@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:24",
+  "chapter": 4,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Vi los montes y estaban temblando; todas las colinas se desmoronaban.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004024007"
+      ],
+      "issue": "Spanish 'desmoronaban' adds crumbling/collapse concept not licensed by lemma 7043 or its hitpalpel form",
+      "spanishSpan": "se desmoronaban"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:11",
+  "chapter": 51,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Encended las flechas, llenad las saetas. El Señor despertó el espíritu de los reyes de Medo, porque tienen un designio contra Babilonia para destruirla. Porque es la venganza del Señor, la venganza de su santuario.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051011001",
+        "h24051011002",
+        "h24051011003",
+        "h24051011004"
+      ],
+      "issue": "first clause mistranslates H1305 hiphil imp + arrows and H7982 shields as 'encended las flechas, llenad las saetas'",
+      "spanishSpan": "Encended las flechas, llenad las saetas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051011014"
+      ],
+      "issue": "מְזִמָּתוֹ (his plan, 3ms suffix on Lord) rendered as kings' plan with 'tienen'",
+      "spanishSpan": "porque tienen un designio"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24051011021"
+      ],
+      "issue": "הֵיכָלֽוֹ rendered 'santuario' (acceptable but narrows palace/temple sense)",
+      "spanishSpan": "su santuario"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

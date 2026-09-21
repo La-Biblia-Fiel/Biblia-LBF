@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:19",
+  "chapter": 31,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Después de que me he vuelto, me he consolado; después de que me he dado a conocer, he echado sobre tu cuello mi vergüenza y mi confusión, porque he llevado la afrenta de mi juventud.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031019007",
+        "h24031019008",
+        "h24031019009"
+      ],
+      "issue": "adds 'echado sobre tu cuello' and changes action from striking the thigh to throwing on neck; יָרֵךְ is thigh",
+      "spanishSpan": "he echado sobre tu cuello"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031019010",
+        "h24031019012"
+      ],
+      "issue": "turns two verbs (I was ashamed and I was humiliated) into nouns 'vergüenza y mi confusión'",
+      "spanishSpan": "mi vergüenza y mi confusión"
+    }
+  ],
+  "notes": "major semantic and lexical mismatch on the gesture and shame clauses",
+  "discardedUncitedFindings": 0
+}

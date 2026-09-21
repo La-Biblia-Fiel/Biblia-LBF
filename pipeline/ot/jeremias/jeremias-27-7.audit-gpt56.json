@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:7",
+  "chapter": 27,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y servirán a él todas las naciones, y a su hijo, y al hijo de su hijo, hasta que venga su tierra, y también servirán a él muchas naciones y grandes reyes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027007010",
+        "h24027007011",
+        "h24027007012",
+        "h24027007013"
+      ],
+      "issue": "omits 'time' and alters 'until the coming of the time of his land' to 'until his land comes'",
+      "spanishSpan": "hasta que venga su tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

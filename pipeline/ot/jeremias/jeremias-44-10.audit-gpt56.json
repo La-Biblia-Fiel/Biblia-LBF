@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:10",
+  "chapter": 44,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "No se han humillado hasta este día, ni temieron, ni anduvieron en mi ley y en mis estatutos que puse delante de ustedes y delante de sus padres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044010002"
+      ],
+      "issue": "Pual passive (they were crushed/humbled) rendered as reflexive 'se han humillado'",
+      "spanishSpan": "No se han humillado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

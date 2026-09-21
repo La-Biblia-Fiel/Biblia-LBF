@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:19",
+  "chapter": 32,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Grande es tu consejo y grande tu obra, porque tus ojos están abiertos a todos los caminos de los hijos de los hombres para dar a cada uno según sus caminos y según el fruto de sus obras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032019001",
+        "h24032019003"
+      ],
+      "issue": "adds unlicenced 2ms possessives 'tu' on counsel and deed",
+      "spanishSpan": "tu consejo ... tu obra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032019014"
+      ],
+      "issue": "changes 'a man' (singular) to 'a cada uno'",
+      "spanishSpan": "a cada uno"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

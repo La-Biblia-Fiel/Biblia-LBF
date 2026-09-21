@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:20",
+  "chapter": 3,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "En verdad, una mujer engaña a su compañera, así también ustedes, casa de Israel, ha dicho Yavé.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003020004"
+      ],
+      "issue": "מֵרֵעָהּ is 'from her companion' (min + rea'); Spanish changes to 'engaña a su compañera'",
+      "spanishSpan": "engaña a su compañera"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003020007"
+      ],
+      "issue": "omits בִּי 'against me'",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003020010",
+        "h24003020011"
+      ],
+      "issue": "נְאֻם יְהוָה rendered as 'ha dicho Yavé' (wrong verb, wrong name form)",
+      "spanishSpan": "ha dicho Yavé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003020002",
+        "h24003020006"
+      ],
+      "issue": "both qal perfect verbs rendered inconsistently; second also shifted to ustedes without preserving exact force",
+      "spanishSpan": "engaña ... ustedes"
+    }
+  ],
+  "notes": "multiple lexical and structural mismatches",
+  "discardedUncitedFindings": 0
+}

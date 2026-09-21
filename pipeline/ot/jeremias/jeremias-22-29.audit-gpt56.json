@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:29",
+  "chapter": 22,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Tierra, tierra, tierra, Shimei ha hablado la palabra de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022029004"
+      ],
+      "issue": "renders imperative 2fs verb as proper name Shimei",
+      "spanishSpan": "Shimei"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022029004"
+      ],
+      "issue": "changes qal imperative 2fs to perfect 3ms ha hablado",
+      "spanishSpan": "ha hablado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

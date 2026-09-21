@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:21",
+  "chapter": 42,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y os he declarado hoy, y no han escuchado la voz de Jehová, su Dios, ni todo lo que os envié a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042021005",
+        "h24042021008"
+      ],
+      "issue": "2mp verbs and suffixes rendered as 3pl 'han escuchado' and 'su Dios' instead of 2pl address",
+      "spanishSpan": "no han escuchado ... su Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042021002",
+        "h24042021012"
+      ],
+      "issue": "uses vosotros 'os' instead of Latin-American 'a ustedes'",
+      "spanishSpan": "os he declarado ... os envié"
+    }
+  ],
+  "notes": "participant shift from 2mp addressees to 3pl",
+  "discardedUncitedFindings": 0
+}

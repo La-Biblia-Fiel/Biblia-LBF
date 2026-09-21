@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:15",
+  "chapter": 33,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquellos días y en aquel tiempo haré germinar para David un germinar de justicia, y juzgará y hará justicia en la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033015009",
+        "h24033015010"
+      ],
+      "issue": "adds 'juzgará' (judge) concept absent from עָשָׂה + מִשְׁפָּט; tokens only license 'hará mishpat'",
+      "spanishSpan": "y juzgará y hará justicia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

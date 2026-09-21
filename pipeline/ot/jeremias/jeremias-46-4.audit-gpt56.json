@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:4",
+  "chapter": 46,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Atad los caballos, montad los jinetes, y estad en pie con las armaduras; afilad las lanzas, vestid los escudos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046004006"
+      ],
+      "issue": "specific noun כובעים (helmets) rendered as generic armaduras",
+      "spanishSpan": "con las armaduras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046004010"
+      ],
+      "issue": "noun סריינת (coats of mail) rendered as escudos (shields)",
+      "spanishSpan": "los escudos"
+    }
+  ],
+  "notes": "two equipment nouns mismatched to token lemmas",
+  "discardedUncitedFindings": 0
+}

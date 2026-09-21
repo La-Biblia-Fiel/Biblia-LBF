@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:15",
+  "chapter": 30,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Para qué te quejas de tu herida, oh deshecho mío? Por tu gran pecado y por tus muchas iniquidades, yo he hecho esto para ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030015002"
+      ],
+      "issue": "זעק rendered as 'quejas' (complain) instead of cry out/shout",
+      "spanishSpan": "te quejas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030015004",
+        "h24030015005",
+        "h24030015006"
+      ],
+      "issue": "adds 'oh deshecho mío' and collapses שבר + אנוש + מכאב into 'herida'",
+      "spanishSpan": "tu herida, oh deshecho mío"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030015008",
+        "h24030015009",
+        "h24030015010",
+        "h24030015011"
+      ],
+      "issue": "restructures רב עונך עצמו חטאתיך as 'por tu gran pecado y por tus muchas iniquidades' (adds 'gran', inverts order, changes 'sins have become many')",
+      "spanishSpan": "Por tu gran pecado y por tus muchas iniquidades"
+    }
+  ],
+  "notes": "multiple concept additions and restructurings not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

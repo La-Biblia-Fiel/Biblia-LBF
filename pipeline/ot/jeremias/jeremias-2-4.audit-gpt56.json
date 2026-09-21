@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:4",
+  "chapter": 2,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Oíd palabra del Señor, casa de Jacob, y todas las tribus de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002004003"
+      ],
+      "issue": "יהוה rendered as title 'Señor' instead of Jehová",
+      "spanishSpan": "Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002004007"
+      ],
+      "issue": "מִשְׁפְּחוֹת rendered as 'tribus' instead of families/clans",
+      "spanishSpan": "tribus"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002004008",
+        "h24002004009"
+      ],
+      "issue": "omits בֵּית before יִשְׂרָאֵל",
+      "spanishSpan": "de Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002004001"
+      ],
+      "issue": "vosotros imperative 'Oíd' instead of Latin-American ustedes form",
+      "spanishSpan": "Oíd"
+    }
+  ],
+  "notes": "multiple lexical and register mismatches",
+  "discardedUncitedFindings": 0
+}

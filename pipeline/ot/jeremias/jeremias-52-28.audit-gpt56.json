@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:28",
+  "chapter": 52,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Este fue el pueblo que Nabucodonosor deportó en el año siete de Judá: tres mil setecientos y tres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052028009",
+        "h24052028010",
+        "h24052028011",
+        "h24052028012"
+      ],
+      "issue": "number rendered as 3703 instead of 3023",
+      "spanishSpan": "tres mil setecientos y tres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052028008"
+      ],
+      "issue": "יְהוּדִ֕ים (Judahites gentilic plural) rendered as Judá",
+      "spanishSpan": "de Judá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

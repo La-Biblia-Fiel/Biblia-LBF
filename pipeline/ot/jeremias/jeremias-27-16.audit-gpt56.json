@@ -1,0 +1,58 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:16",
+  "chapter": 27,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a los sacerdotes y a todo este pueblo dije: Así ha dicho el SEÑOR: No os dejéis engañar por las palabras de los profetas que profetizan en su nombre, diciendo: He aquí que los utensilios de la casa del SEÑOR están ya en Babilonia; pronto vendrán. Porque son mentirosos los profetas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027016013"
+      ],
+      "issue": "al-tishme'u (do not listen) rendered as 'No os dejéis engañar' (do not let yourselves be deceived)",
+      "spanishSpan": "No os dejéis engañar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027016024",
+        "h24027016025"
+      ],
+      "issue": "mushabim mibabelah (being returned from Babylon) rendered backwards as 'están ya en Babilonia; pronto vendrán'",
+      "spanishSpan": "están ya en Babilonia; pronto vendrán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027016029",
+        "h24027016031"
+      ],
+      "issue": "sheqer hemma nib'im (prophesying falsehood) rendered as 'son mentirosos los profetas' (the prophets are liars)",
+      "spanishSpan": "Porque son mentirosos los profetas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027016016",
+        "h24027016017"
+      ],
+      "issue": "added 'en su nombre' with no token support",
+      "spanishSpan": "que profetizan en su nombre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027016013"
+      ],
+      "issue": "vosotros 'os' instead of ustedes form for 2mp address",
+      "spanishSpan": "No os dejéis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

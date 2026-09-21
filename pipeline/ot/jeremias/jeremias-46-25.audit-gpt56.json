@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:25",
+  "chapter": 46,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Dice el Señor de los ejércitos, Dios de Israel: He aquí que pondré sobre Amon y sobre No, y sobre Egipto, y sobre sus dioses, y sobre sus reyes, y sobre Faraón, y sobre los que confían en él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046025002"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046025007"
+      ],
+      "issue": "פקד rendered as 'pondré' (put/place) instead of licensed visit/punish sense",
+      "spanishSpan": "pondré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046025009",
+        "h24046025010"
+      ],
+      "issue": "אמון מנא split into two separate targets 'Amon y sobre No'",
+      "spanishSpan": "Amon y sobre No"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046025012",
+        "h24046025014",
+        "h24046025020"
+      ],
+      "issue": "reordered and duplicated Pharaoh/Egypt elements not matching token sequence",
+      "spanishSpan": "y sobre Egipto, ... y sobre Faraón"
+    }
+  ],
+  "notes": "multiple token mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:29",
+  "chapter": 36,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás a Joaquín, rey de Judá, que dice Jehová: Tú quemaste la hoja, diciendo: ¿Por qué escribiste diciendo que vendrá un rey de Babilonia y destruirá esta tierra y la desolará de hombres y animales?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036029006",
+        "h24036029007",
+        "h24036029008"
+      ],
+      "issue": "omits כֹּה and restructures אָמַר יְהוָה into subordinate 'que dice Jehová'",
+      "spanishSpan": "que dice Jehová"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036029012",
+        "h24036029013"
+      ],
+      "issue": "renders הַמְּגִלָּה הַזֹּאת as 'la hoja' (omits demonstrative and uses imprecise noun)",
+      "spanishSpan": "la hoja"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036029001",
+        "h24036029002",
+        "h24036029003",
+        "h24036029004",
+        "h24036029005"
+      ],
+      "issue": "restructures וְעַל־יְהוֹיָקִים מֶלֶךְ יְהוּדָה תֹּאמַר into 'dirás a Joaquín, rey de Judá, que dice'",
+      "spanishSpan": "Y dirás a Joaquín, rey de Judá, que dice Jehová"
+    }
+  ],
+  "notes": "multiple token mismatches in structure and lexical choice",
+  "discardedUncitedFindings": 0
+}

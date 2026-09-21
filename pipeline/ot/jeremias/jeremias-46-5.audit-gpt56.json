@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:5",
+  "chapter": 46,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué veo que se vuelven espantados, que huyen, que los valientes huyen, que se desvanecen? No miran atrás; sufrimiento les rodea, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046005008"
+      ],
+      "issue": "יֻכַּתּוּ (hophal beaten down) rendered as 'huyen'",
+      "spanishSpan": "que los valientes huyen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046005008"
+      ],
+      "issue": "יֻכַּתּוּ (hophal beaten down) rendered as 'se desvanecen'",
+      "spanishSpan": "que se desvanecen"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

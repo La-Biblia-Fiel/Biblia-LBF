@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:35",
+  "chapter": 2,
+  "verse": 35,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijiste: Estoy limpia, pero su ira se ha vuelto contra mí. Ahora juzgaré a tu causa, porque dijiste: No he pecado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002035010"
+      ],
+      "issue": "adds 'causa' when direct object is 2fs 'you'",
+      "spanishSpan": "a tu causa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002035007"
+      ],
+      "issue": "renders 'from me' as 'contra mí'",
+      "spanishSpan": "contra mí"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

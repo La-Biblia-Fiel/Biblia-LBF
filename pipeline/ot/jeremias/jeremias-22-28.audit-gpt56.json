@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:28",
+  "chapter": 22,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Es este el hombre que humilló y quebró? ¿Es un vaso sin valor? ¿Por qué ha sido arrojado él y su descendencia en la tierra que no conocen?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022028001",
+        "h24022028002",
+        "h24022028003",
+        "h24022028004",
+        "h24022028005",
+        "h24022028006"
+      ],
+      "issue": "misparses Niphal/Qal participles as finite verbs with the man as agent; renders 'despised broken vessel' as 'who humiliated and broke'",
+      "spanishSpan": "¿Es este el hombre que humilló y quebró?"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022028006"
+      ],
+      "issue": "omits the proper name כָּנְיָהוּ entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "second clause and final clause are closer but first clause alone forces fail",
+  "discardedUncitedFindings": 0
+}

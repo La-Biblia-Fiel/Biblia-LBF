@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:43",
+  "chapter": 48,
+  "verse": 43,
+  "candidateLabel": "gpt56",
+  "spanish": "Terror y pánico y desastre sobre ti, morador de Moab, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048043002",
+        "h24048043003"
+      ],
+      "issue": "renders פַּחַת (pit/trap) and פַּח (snare/trap) as 'pánico' and 'desastre', adding unlicensed concepts",
+      "spanishSpan": "y pánico y desastre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048043001",
+        "h24048043002",
+        "h24048043003"
+      ],
+      "issue": "treats three distinct nouns as synonymous terror/panic/disaster instead of preserving lemma meanings",
+      "spanishSpan": "Terror y pánico y desastre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

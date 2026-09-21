@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:6",
+  "chapter": 29,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Tomad mujeres y engendrad hijos e hijas, y dadas a sus hijos y a sus hijas, tomad mujeres de entre ellos, para que engendren hijos e hijas, y crezcáis y no disminuyáis.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029006001",
+        "h24029006003",
+        "h24029006006",
+        "h24029006011",
+        "h24029006016",
+        "h24029006019"
+      ],
+      "issue": "uses vosotros imperative forms (tomad, engendrad, crezcáis) instead of Latin-American ustedes",
+      "spanishSpan": "Tomad ... engendrad ... crezcáis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029006007",
+        "h24029006009",
+        "h24029006010",
+        "h24029006011",
+        "h24029006012"
+      ],
+      "issue": "rephrases giving daughters to men as fragment 'dadas a sus hijos y a sus hijas, tomad mujeres de entre ellos'",
+      "spanishSpan": "y dadas a sus hijos y a sus hijas, tomad mujeres de entre ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029006013"
+      ],
+      "issue": "changes 3fp וְתֵלַדְנָה into purpose clause 'para que engendren'",
+      "spanishSpan": "para que engendren hijos e hijas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029006017"
+      ],
+      "issue": "omits adverb שָׁם 'there'",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "multiple content and register mismatches",
+  "discardedUncitedFindings": 0
+}

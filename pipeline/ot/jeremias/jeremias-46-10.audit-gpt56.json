@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:10",
+  "chapter": 46,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquel día, dice el SEÑOR, el Dios de los ejércitos, daré venganza a los que me oprimen; comerán la carne y se hartarán, y beberán la sangre y se embriagarán, porque es un sacrificio para el SEÑOR, el Dios de los ejércitos, en la tierra del norte junto al río Éufrates.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046010003",
+        "h24046010004",
+        "h24046010005"
+      ],
+      "issue": "inserts 'dice el SEÑOR' with no supporting token; tokens only have 'to Adonai YHWH of hosts'",
+      "spanishSpan": "dice el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046010006",
+        "h24046010007",
+        "h24046010008",
+        "h24046010009"
+      ],
+      "issue": "changes 'a day of vengeance to avenge on his adversaries' into first-person 'daré venganza a los que me oprimen'",
+      "spanishSpan": "daré venganza a los que me oprimen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046010010",
+        "h24046010011",
+        "h24046010012",
+        "h24046010013",
+        "h24046010014"
+      ],
+      "issue": "misattributes 3fs actions of the sword to the oppressors; adds 'embriagarán' for רָוְתָה",
+      "spanishSpan": "comerán la carne y se hartarán, y beberán la sangre y se embriagarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

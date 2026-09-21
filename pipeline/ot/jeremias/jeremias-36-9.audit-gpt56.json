@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:9",
+  "chapter": 36,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sucedió en el año quinto de Joaquín, hijo de Josías, rey de Judá, en el mes noveno, que se convocó ayuno ante Jehová a todo el pueblo en Jerusalén, y a todo el pueblo de Judá que había venido a Jerusalén.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036009011"
+      ],
+      "issue": "active 3cp קָרְאוּ rendered as impersonal/passive se convocó",
+      "spanishSpan": "se convocó ayuno"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036009021",
+        "h24036009022"
+      ],
+      "issue": "omits מֵעָרֵי and renders as pueblo de Judá instead of from the cities of Judah",
+      "spanishSpan": "todo el pueblo de Judá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

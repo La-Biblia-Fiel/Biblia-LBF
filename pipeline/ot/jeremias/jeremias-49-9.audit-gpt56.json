@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:9",
+  "chapter": 49,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Si vienen a ti los que causan daño, no dejarán huérfanos; si vienen por la noche los ladrones, destruirán su riqueza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049009002"
+      ],
+      "issue": "בֹּצְרִים (grape-gatherers/vintagers) rendered as 'los que causan daño'",
+      "spanishSpan": "los que causan daño"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049009007"
+      ],
+      "issue": "עֽוֹלֵל֑וֹת (gleanings) rendered as 'huérfanos'",
+      "spanishSpan": "no dejarán huérfanos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049009012"
+      ],
+      "issue": "דַיָּֽם (their sufficiency) rendered as 'su riqueza'",
+      "spanishSpan": "destruirán su riqueza"
+    }
+  ],
+  "notes": "first clause entirely mismatches tokens",
+  "discardedUncitedFindings": 0
+}

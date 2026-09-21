@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:26",
+  "chapter": 6,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Hija mía, cíñete de saco y revélate en polvo; haz un luto solitario por ti, un duelo amargo, porque de pronto vendrá el saqueador sobre nosotros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006026001",
+        "h24006026002"
+      ],
+      "issue": "בת־עמי rendered as 'Hija mía' (omits 'pueblo' and alters construct sense)",
+      "spanishSpan": "Hija mía"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006026005",
+        "h24006026006"
+      ],
+      "issue": "והתפלשי באפר rendered as 'revélate en polvo' (wrong verb and 'polvo' for אפר)",
+      "spanishSpan": "revélate en polvo"
+    }
+  ],
+  "notes": "multiple lexical and semantic mismatches",
+  "discardedUncitedFindings": 0
+}

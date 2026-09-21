@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:19",
+  "chapter": 46,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Haz para ti instrumentos de destierro, moradora de Egipto, porque vendrás como una mujer en trabajo de parto, y vendrás de donde no es habitado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046019009",
+        "h24046019010",
+        "h24046019011",
+        "h24046019012",
+        "h24046019013",
+        "h24046019014"
+      ],
+      "issue": "replaces Noph becoming desolation and burned without inhabitant with unrelated 'vendrás como una mujer en trabajo de parto' and 'vendrás de donde no es habitado'",
+      "spanishSpan": "porque vendrás como una mujer en trabajo de parto, y vendrás de donde no es habitado"
+    }
+  ],
+  "notes": "first half matches tokens; second half does not",
+  "discardedUncitedFindings": 0
+}

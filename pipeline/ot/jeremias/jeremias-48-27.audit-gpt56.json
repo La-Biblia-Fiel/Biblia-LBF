@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:27",
+  "chapter": 48,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Y si no ha sido risa para ti, Israel, si has actuado como un ladrón, porque con tus palabras has provocado a los demás?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048027008"
+      ],
+      "issue": "renders בְּגַנָּבִים as 'actuado como un ladrón' instead of 'among thieves'",
+      "spanishSpan": "si has actuado como un ladrón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048027013"
+      ],
+      "issue": "renders תִּתְנוֹדָד (you nod/shake) as 'has provocado'",
+      "spanishSpan": "has provocado a los demás"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048027010",
+        "h24048027011",
+        "h24048027012"
+      ],
+      "issue": "replaces 'from the sufficiency of your words in him' with added 'a los demás'",
+      "spanishSpan": "con tus palabras has provocado a los demás"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

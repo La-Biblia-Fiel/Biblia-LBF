@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:19",
+  "chapter": 27,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho el SEÑOR de los ejércitos a los pilares, y a la mar, y a los montantes, y a todo el resto de los utensilios que quedan en esta ciudad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027019014",
+        "h24027019013"
+      ],
+      "issue": "adds unlicensed 'todo' before 'el resto'",
+      "spanishSpan": "todo el resto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:37",
+  "chapter": 32,
+  "verse": 37,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que los reuniré de todas las naciones a las que los he dispersado en mi ira y en mi enojo y en gran cólera, y los haré regresar a este lugar y los estableceré con seguridad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032037004"
+      ],
+      "issue": "ארצות (lands/countries) rendered as naciones",
+      "spanishSpan": "naciones"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:15",
+  "chapter": 28,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces Jeremías el profeta dijo a Hananías el profeta: Escucha, Hananías, el SEÑOR no te ha enviado, y tú has dado seguridad al pueblo con una mentira.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028015001"
+      ],
+      "issue": "adds temporal 'Entonces' not licensed by the conjunction + verb",
+      "spanishSpan": "Entonces"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028015008"
+      ],
+      "issue": "omits licensed particle נָא",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028015017"
+      ],
+      "issue": "omits licensed demonstrative 'this'",
+      "spanishSpan": "al pueblo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

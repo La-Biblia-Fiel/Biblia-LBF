@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:64",
+  "chapter": 51,
+  "verse": 64,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás: Así se hundirá Babilonia y no se levantará jamás de la calamidad que traigo sobre ella; y se fatigarán. Estas son las palabras de Jeremías.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051064014",
+        "h24051064015"
+      ],
+      "issue": "renders עַד הֵנָּה as new sentence 'Estas son' instead of 'until here'",
+      "spanishSpan": "Estas son las palabras de Jeremías"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051064005",
+        "h24051064006"
+      ],
+      "issue": "inserts 'jamás' not licensed by any token",
+      "spanishSpan": "jamás"
+    }
+  ],
+  "notes": "structure and adverbial sense altered",
+  "discardedUncitedFindings": 0
+}

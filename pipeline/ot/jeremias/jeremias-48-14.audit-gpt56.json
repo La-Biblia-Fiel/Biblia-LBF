@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:14",
+  "chapter": 48,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Cómo diréis: Somos valientes, y hombres de valor para la guerra?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048014002"
+      ],
+      "issue": "uses Spain vosotros future 'diréis' instead of Latin-American 2mp 'dirán'",
+      "spanishSpan": "diréis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

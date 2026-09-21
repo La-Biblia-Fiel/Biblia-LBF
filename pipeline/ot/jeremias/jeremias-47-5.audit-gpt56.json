@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 47:5",
+  "chapter": 47,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Ha llegado la calvicie a Gaza, Ascalón está avergonzada, los sobrevivientes de Asdod se han quedado sin fuerzas. ¿Hasta cuándo te enojarás?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047005005"
+      ],
+      "issue": "נִדְמְתָה rendered as 'está avergonzada' (ashamed); lemma/morph only licenses 'has been silenced/destroyed'",
+      "spanishSpan": "Ascalón está avergonzada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047005007",
+        "h24047005008"
+      ],
+      "issue": "שְׁאֵרִית עִמְקָם rendered as 'sobrevivientes de Asdod'; adds absent proper name Asdod and changes 'remnant of their valley' to survivors without strength",
+      "spanishSpan": "los sobrevivientes de Asdod se han quedado sin fuerzas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047005011"
+      ],
+      "issue": "תִּתְגּוֹדָדִי rendered as 'te enojarás' (be angry); lemma 1413 and morph only license 'will you gash/cut yourself'",
+      "spanishSpan": "¿Hasta cuándo te enojarás?"
+    }
+  ],
+  "notes": "multiple concept additions and substitutions not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

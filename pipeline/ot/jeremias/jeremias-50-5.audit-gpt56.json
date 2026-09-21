@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:5",
+  "chapter": 50,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Sión, pregúntenle el camino; venid y uníos a Jehová en un pacto eterno, que no olvidaréis.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050005002"
+      ],
+      "issue": "3mp imperfect יִשְׁאָ֔לוּ rendered as 2pl imperative addressing Sión",
+      "spanishSpan": "pregúntenle"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050005007"
+      ],
+      "issue": "3cp Niphal וְנִלְו֣וּ rendered as 2pl imperative",
+      "spanishSpan": "uníos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050005012",
+        "h24050005013"
+      ],
+      "issue": "3fs Niphal passive תִשָּׁכֵֽחַ rendered as 2pl active",
+      "spanishSpan": "olvidaréis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050005005"
+      ],
+      "issue": "פְנֵיהֶ֑ם omitted entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

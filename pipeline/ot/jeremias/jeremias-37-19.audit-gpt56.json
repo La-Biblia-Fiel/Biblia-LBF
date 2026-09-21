@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:19",
+  "chapter": 37,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sus profetas que profetizaronos, diciendo: No vendrá el rey de Babilonia sobre ustedes, ni sobre esta tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037019001",
+        "h24037019004"
+      ],
+      "issue": "2mp suffixes rendered inconsistently as 3rd-person 'sus' instead of 2nd-person address matching 'ustedes'",
+      "spanishSpan": "sus profetas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037019003",
+        "h24037019004"
+      ],
+      "issue": "Niphal 'prophesied to you' rendered as invalid 'profetizaronos' (wrong person and form)",
+      "spanishSpan": "profetizaronos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037019011"
+      ],
+      "issue": "conjunction 'and upon' rendered as 'ni' (nor), changing coordination to disjunction",
+      "spanishSpan": "ni sobre"
+    }
+  ],
+  "notes": "initial 'Y' also unlicensed",
+  "discardedUncitedFindings": 0
+}

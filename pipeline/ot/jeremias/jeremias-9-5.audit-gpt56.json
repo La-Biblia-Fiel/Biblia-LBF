@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:5",
+  "chapter": 9,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Cada uno miente a su vecino, y no hablan la verdad; enseñan a su lengua a hablar mentiras, han actuado con maldad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009005011",
+        "h24009005012"
+      ],
+      "issue": "omits weary/exhausted (נִלְאוּ) and adds unlicensed concept maldad for the hiphil inf abs of עוה",
+      "spanishSpan": "han actuado con maldad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

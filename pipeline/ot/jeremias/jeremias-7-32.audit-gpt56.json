@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:32",
+  "chapter": 7,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, días vienen, dice el SEÑOR, y no se dirá más Tophet ni valle de Hinnom, sino Valle de Asesinato, y se enterrarán en Tophet sin lugar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007032018"
+      ],
+      "issue": "changes active 3cp 'they will bury' to passive 'se enterrarán' (they will be buried)",
+      "spanishSpan": "se enterrarán"
+    }
+  ],
+  "notes": "minor smoothing on hinneh and conventional names not fatal but voice change is",
+  "discardedUncitedFindings": 0
+}

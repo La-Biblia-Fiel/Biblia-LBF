@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:23",
+  "chapter": 52,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y las uvas eran de cien en cada red, y todas las uvas eran de cien en la red alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052023002",
+        "h24052023007"
+      ],
+      "issue": "רִמֹּנִים rendered as uvas (grapes) instead of pomegranates",
+      "spanishSpan": "las uvas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052023003",
+        "h24052023004",
+        "h24052023005",
+        "h24052023008"
+      ],
+      "issue": "96 + 100 structure collapsed into cien on each net and cien total",
+      "spanishSpan": "de cien en cada red ... de cien"
+    }
+  ],
+  "notes": "multiple token mismatches on lemma and cardinal values",
+  "discardedUncitedFindings": 0
+}

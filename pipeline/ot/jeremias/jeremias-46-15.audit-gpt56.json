@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:15",
+  "chapter": 46,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué se desmoronan tus valientes? No se mantienen, porque el SEÑOR los ha derribado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046015002",
+        "h24046015005",
+        "h24046015008"
+      ],
+      "issue": "Spanish renders singular 3ms verbs and 3ms suffix as plural (se desmoronan, se mantienen, los ha derribado) instead of preserving the singular morphology",
+      "spanishSpan": "se desmoronan ... No se mantienen ... los ha derribado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046015002"
+      ],
+      "issue": "adds concept of crumbling/falling apart not licensed by lemma or surface of נִסְחַ֣ף",
+      "spanishSpan": "se desmoronan"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

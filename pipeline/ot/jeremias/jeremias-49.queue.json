@@ -1,0 +1,1066 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 49,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "passed": [
+    14,
+    15,
+    35,
+    38
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para los hijos de Amón, así dice el SEÑOR: ¿No tienen hijos los israelitas, o no tienen herederos? ¿Por qué, pues, ha heredado su rey a Gad y su pueblo en sus ciudades?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049001018",
+            "h24049001020"
+          ],
+          "issue": "restructures clause so that 'su pueblo' becomes object of the king's action instead of subject of ישׁב; omits separate dwelling verb",
+          "spanishSpan": "ha heredado su rey a Gad y su pueblo en sus ciudades"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, he aquí que días vienen, dice el SEÑOR, y haré oír a la gran multitud de los hijos de Amón el sonido de la guerra, y serán una colina desierta, y sus hijas serán quemadas por el fuego, y los israelitas heredarán a sus herederos, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049002009"
+          ],
+          "issue": "renders proper noun Rabbah as 'gran multitud'",
+          "spanishSpan": "a la gran multitud de los hijos de Amón"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Gime, Hesbón, porque ha sido destruida Ai; gritan las hijas de Rabba, visten saco, se rasgan el pecho, y andan con desmayo sobre las murallas, porque su rey ha ido en cautiverio, y sus sacerdotes y sus príncipes juntos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049003006",
+            "h24049003009",
+            "h24049003011",
+            "h24049003012"
+          ],
+          "issue": "2fp qal/r imperatives rendered as 3rd-person indicative statements instead of direct address",
+          "spanishSpan": "gritan las hijas de Rabba, visten saco, se rasgan el pecho, y andan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049003012",
+            "h24049003013"
+          ],
+          "issue": "adds unlicensed concept 'con desmayo'",
+          "spanishSpan": "andan con desmayo sobre las murallas"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Qué te gloriarás en los valles? El río de tus valles fluye; oh hija que se va, que confía en sus tesoros: ¿quién vendrá a ti?",
+      "notes": "multiple token mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049004005"
+          ],
+          "issue": "adds 'río' and changes singular 'your valley' to plural 'tus valles'",
+          "spanishSpan": "El río de tus valles fluye"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049004012"
+          ],
+          "issue": "changes 'to me' (1cs) to 'a ti' (2fs)",
+          "spanishSpan": "a ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049004007"
+          ],
+          "issue": "renders שׁוֹבֵבָה as 'que se va' instead of licensed sense of backsliding/apostate",
+          "spanishSpan": "hija que se va"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que traigo sobre ti el terror, dice el SEÑOR, el Dios de los ejércitos, de todos tus alrededores, y serán dispersados cada uno delante de mí, y no habrá quien los recogiere.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049005005",
+            "h24049005006",
+            "h24049005007"
+          ],
+          "issue": "renders נְאֻם אֲדֹנָי יְהוִה as 'dice el SEÑOR, el Dios' (adds verb 'dice' and noun 'Dios' absent from tokens)",
+          "spanishSpan": "dice el SEÑOR, el Dios de los ejércitos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049005013"
+          ],
+          "issue": "changes לְפָנָיו (before him) to 'delante de mí'",
+          "spanishSpan": "delante de mí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049005016"
+          ],
+          "issue": "renders singular נֹדֵד as plural 'los'",
+          "spanishSpan": "los recogiere"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Después de esto haré volver el cautiverio de los hijos de Amón, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049006009"
+          ],
+          "issue": "replaces proper name יהוה with title SEÑOR",
+          "spanishSpan": "el SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para Edom, así dice el SEÑOR de los ejércitos: ¿No hay más sabiduría en Temán? Ha perecido la conseja de los hijos, y la sabiduría de ellos ha sido cortada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049007012"
+          ],
+          "issue": "מִבָּנִים parsed as qal participle of בין (discerning/understanding ones); Spanish renders as 'hijos' (sons)",
+          "spanishSpan": "de los hijos"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Huyen, vuelven, se hunden para vivir los habitantes de Dedán, porque he traído sobre Edom el tiempo de su castigo, el tiempo que yo he fijado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049008001",
+            "h24049008002",
+            "h24049008003"
+          ],
+          "issue": "imperatives rendered as indicatives about the inhabitants rather than commands to them",
+          "spanishSpan": "Huyen, vuelven, se hunden"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049008009"
+          ],
+          "issue": "Esau replaced by Edom",
+          "spanishSpan": "sobre Edom"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049008012"
+          ],
+          "issue": "single עֵת duplicated as two separate times",
+          "spanishSpan": "el tiempo de su castigo, el tiempo que yo he fijado"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Si vienen a ti los que causan daño, no dejarán huérfanos; si vienen por la noche los ladrones, destruirán su riqueza.",
+      "notes": "first clause entirely mismatches tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049009002"
+          ],
+          "issue": "בֹּצְרִים (grape-gatherers/vintagers) rendered as 'los que causan daño'",
+          "spanishSpan": "los que causan daño"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049009007"
+          ],
+          "issue": "עֽוֹלֵל֑וֹת (gleanings) rendered as 'huérfanos'",
+          "spanishSpan": "no dejarán huérfanos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049009012"
+          ],
+          "issue": "דַיָּֽם (their sufficiency) rendered as 'su riqueza'",
+          "spanishSpan": "destruirán su riqueza"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque yo he descubierto a Edom, he revelado sus secretos; no podrá nadie esconderse, pues yo destruiré a su descendencia, a sus aliados y a sus vecinos, y no quedarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049010005"
+          ],
+          "issue": "replaces token Esau with Edom",
+          "spanishSpan": "Edom"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049010009",
+            "h24049010011"
+          ],
+          "issue": "changes 3ms subject to nadie",
+          "spanishSpan": "no podrá nadie esconderse"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049010012"
+          ],
+          "issue": "changes pual passive to active yo destruiré",
+          "spanishSpan": "yo destruiré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049010014"
+          ],
+          "issue": "renders אֶחָיו as aliados instead of brothers",
+          "spanishSpan": "aliados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049010016"
+          ],
+          "issue": "changes 3ms וְאֵינֶנּוּ to plural no quedarán",
+          "spanishSpan": "no quedarán"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Dejaré a tus huérfanos que yo alimente, y a tus viudas dependerán de mí.",
+      "notes": "Spanish changes mood, person, and verb semantics; fails to preserve imperative + jussive structure.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049011001"
+          ],
+          "issue": "2ms qal imperative 'leave!' rendered as 1cs future 'Dejaré'",
+          "spanishSpan": "Dejaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049011004"
+          ],
+          "issue": "piel 1cs 'I will keep alive' rendered as purpose clause 'que yo alimente'",
+          "spanishSpan": "que yo alimente"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049011007"
+          ],
+          "issue": "3fp qal jussive 'let them trust' rendered as 3fp future indicative 'dependerán'",
+          "spanishSpan": "dependerán de mí"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho el SEÑOR: He aquí que los que no tenían derecho a beber la copa la beberán; tú serás castigado, pero no serás castigado, porque beberás.",
+      "notes": "additional minor issue: יהוה as SEÑOR instead of Jehová",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049012015",
+            "h24049012016",
+            "h24049012017",
+            "h24049012018"
+          ],
+          "issue": "נקה (acquit/clean) rendered as 'castigado' (punished), reversing the licensed sense",
+          "spanishSpan": "tú serás castigado, pero no serás castigado"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque en mí he jurado, dice el SEÑOR, que Edom será para la destrucción, para la maldición, para el desierto, para la maldición y la calamidad; y todas sus ciudades serán para la destrucción eterna.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049013012"
+          ],
+          "issue": "replaces בָצְרָה (Bozrah) with Edom",
+          "spanishSpan": "Edom"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049013007",
+            "h24049013008",
+            "h24049013009",
+            "h24049013010"
+          ],
+          "issue": "adds extra noun calamidad and repeats maldición for four distinct nouns",
+          "spanishSpan": "para la maldición y la calamidad"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tu orgullo te ha llevado a la ruina, Edom, porque tu corazón es altivo; habitarás en las cuevas del roca, y te aferrarás a la cumbre de la montaña, porque te elevarás como el águila, pero de allí te haré caer, dice Jehová.",
+      "notes": "multiple concept additions/omissions and participant shifts",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049016001",
+            "h24049016002",
+            "h24049016004",
+            "h24049016005"
+          ],
+          "issue": "first clause paraphrases terror-deceived-you + pride-of-heart as 'orgullo te ha llevado a la ruina'",
+          "spanishSpan": "Tu orgullo te ha llevado a la ruina"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049016001"
+          ],
+          "issue": "adds 'Edom' absent from tokens",
+          "spanishSpan": "Edom"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049016009",
+            "h24049016010",
+            "h24049016011"
+          ],
+          "issue": "renders 'who grasps height of hill' as 'te aferrarás a la cumbre de la montaña'",
+          "spanishSpan": "te aferrarás a la cumbre de la montaña"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049016013",
+            "h24049016014",
+            "h24049016015"
+          ],
+          "issue": "renders 'you make high your nest like eagle' as 'te elevarás como el águila'",
+          "spanishSpan": "te elevarás como el águila"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Edom será para la destrucción; todos los que pasen por ella la verán y la maldirán por todas sus heridas.",
+      "notes": "first clause 'será para la destrucción' is acceptable paraphrase of לְשַׁמָּה",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049017007",
+            "h24049017008"
+          ],
+          "issue": "replaces ישׁם + ישׁרק with 'verán y ... maldirán'",
+          "spanishSpan": "la verán y la maldirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049017007",
+            "h24049017008",
+            "h24049017011"
+          ],
+          "issue": "changes action and participant relation: appalled/hiss at all her wounds → see and curse because of wounds",
+          "spanishSpan": "la verán y la maldirán por todas sus heridas"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Como la destrucción de Sodoma y Gomorra y sus alrededores, dice Jehová, no habitará allí ningún hombre, ni se establecerá allí ningún hijo de hombre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049018004"
+          ],
+          "issue": "alrededores renders neighbors as surroundings/environs, adding a spatial concept not in the token",
+          "spanishSpan": "y sus alrededores"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que como un león sale de la montaña de Edom, y se dirige hacia Nevo, porque yo le he dado la orden de atacar; ¿quién es el valiente que se enfrentará a mí? ¿Quién es como yo? ¿Quién es este pastor que se enfrentará a mí?",
+      "notes": "multiple lexical and syntactic mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049019004",
+            "h24049019005"
+          ],
+          "issue": "montaña de Edom replaces miggeʾôn hayyardēn",
+          "spanishSpan": "montaña de Edom"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049019007",
+            "h24049019008"
+          ],
+          "issue": "Nevo replaces nəwēh ʾêṯān",
+          "spanishSpan": "Nevo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049019010",
+            "h24049019011"
+          ],
+          "issue": "orden de atacar replaces ʾargîʿâ ʾărîṣennû (make him run away)",
+          "spanishSpan": "orden de atacar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049019014",
+            "h24049019016"
+          ],
+          "issue": "valiente que se enfrentará replaces bāḥûr ʾepqōḏ (chosen one I appoint)",
+          "spanishSpan": "valiente que se enfrentará a mí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049019021"
+          ],
+          "issue": "se enfrentará replaces yōʿîḏennî (summon me)",
+          "spanishSpan": "se enfrentará a mí"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso escuchen la conseja de Jehová que ha dado a Edom y sus planes que ha planeado contra los habitantes del sur. ¿Acaso no los han despojado los pastores jóvenes? ¿Acaso no han establecido sus rebaños sobre ellos?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049020006"
+          ],
+          "issue": "יָעַץ rendered as 'ha dado' (give) instead of counsel/plan",
+          "spanishSpan": "que ha dado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049020014"
+          ],
+          "issue": "תֵּימָן rendered interpretively as 'del sur' instead of keeping the proper name",
+          "spanishSpan": "del sur"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049020017"
+          ],
+          "issue": "יִסְחָבוּם (drag off) rendered as 'despojado'",
+          "spanishSpan": "los han despojado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049020018",
+            "h24049020019"
+          ],
+          "issue": "צְעִירֵי הַצֹּאן (young of the flock) rendered as 'pastores jóvenes'",
+          "spanishSpan": "los pastores jóvenes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049020022",
+            "h24049020024"
+          ],
+          "issue": "יַשִּׁים ... נְוֵהֶם (make desolate their habitation) rendered as 'han establecido sus rebaños'",
+          "spanishSpan": "han establecido sus rebaños"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por el grito de sus jóvenes, tiemlica la tierra; por el grito en el mar Rojo se oye su voz.",
+      "notes": "second half also smooths but primary fail is first clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049021002"
+          ],
+          "issue": "נִפְלָ֔ם (their falling) rendered as 'sus jóvenes'",
+          "spanishSpan": "de sus jóvenes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049021001",
+            "h24049021002"
+          ],
+          "issue": "adds 'jóvenes' concept absent from tokens; changes 'sound of their falling' to 'cry of their young men'",
+          "spanishSpan": "Por el grito de sus jóvenes"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que como un águila sube y se posa, y extiende sus alas sobre sus nidos, así será el corazón de los valientes de Edom en aquel día, como el corazón de una mujer en trabajo de parto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049022008"
+          ],
+          "issue": "replaces Bozrah (proper name) with 'sus nidos'",
+          "spanishSpan": "sobre sus nidos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049022017"
+          ],
+          "issue": "adds 'trabajo de parto' not licensed by the participle of distress/anguish",
+          "spanishSpan": "en trabajo de parto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049022004"
+          ],
+          "issue": "renders 'yid'eh' (fly/swoop) as 'se posa'",
+          "spanishSpan": "se posa"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para Damasco, avergonzada está Hamat y Arpad, porque han oído una mala noticia y se han desmayado; en el mar de aguas tranquilas no pueden ser tranquilos.",
+      "notes": "first clause also mismatches singular verb agreement but secondary to the addition",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049023011"
+          ],
+          "issue": "adds 'aguas tranquilas' concept not licensed by דְּאָגָה (anxiety/worry)",
+          "spanishSpan": "de aguas tranquilas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049023010",
+            "h24049023011",
+            "h24049023012"
+          ],
+          "issue": "rephrases בַּיָּם דְּאָגָה הַשְׁקֵט into interpretive 'mar de aguas tranquilas' instead of preserving anxiety + cannot be quiet",
+          "spanishSpan": "en el mar de aguas tranquilas no pueden ser tranquilos"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se ha debilitado Damasco, ha dado la vuelta para huir, y Haret ha tomado posesión de ella; en angustia y dolores ha tomado posesión de ella como una mujer que da a luz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049024005"
+          ],
+          "issue": "introduces 'Haret' as a proper name/subject not present in tokens; token is common noun 'trembling/terror'",
+          "spanishSpan": "y Haret ha tomado posesión de ella"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Cómo no ha sido abandonada la ciudad de gloria, la ciudad de Mesos?",
+      "notes": "omits 1cs suffix; introduces unauthorized concepts",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049025006"
+          ],
+          "issue": "replaces 'my joy' (lemma 4885 + 1cs suffix) with 'gloria' and 'Mesos'",
+          "spanishSpan": "de gloria, la ciudad de Mesos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049025004",
+            "h24049025005",
+            "h24049025006"
+          ],
+          "issue": "adds 'gloria' and proper-name 'Mesos' not licensed by construct chain or lemma",
+          "spanishSpan": "la ciudad de gloria, la ciudad de Mesos"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso caerán en las calles los jóvenes de Damasco, y todos los hombres de guerra serán silenciados en aquel día, dice Jehová de los ejércitos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049026003",
+            "h24049026004"
+          ],
+          "issue": "adds explicit 'de Damasco' not present in tokens (only 3fs suffixes)",
+          "spanishSpan": "de Damasco"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y encenderé fuego en la muralla de Damasco, y devorará las torres de Ben-Hadad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049027006"
+          ],
+          "issue": "ארמנות (palaces/citadels/fortresses) rendered as torres (towers)",
+          "spanishSpan": "las torres"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para Qedar y para los reinos de Hazor, que Nabucodonosor, rey de Babilonia, ha golpeado, dice Jehová: Levántense, suban a Qedar, y saquen a los hijos del Oriente.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049028006",
+            "h24049028007"
+          ],
+          "issue": "adds proper name Nabucodonosor not present in tokens",
+          "spanishSpan": "Nabucodonosor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049028015"
+          ],
+          "issue": "misrenders שדד (plunder/spoil) as saquen (take out/extract)",
+          "spanishSpan": "saquen"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sus tiendas y sus ovejas tomarán, sus toldos y todo su equipo y sus camellos tomarán para ellos, y los llamarán un lugar de desolación alrededor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049029012"
+          ],
+          "issue": "מָגוֹר rendered as 'un lugar de desolación' (adds 'lugar de desolación'; lemma is terror/fear)",
+          "spanishSpan": "un lugar de desolación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049029010",
+            "h24049029011",
+            "h24049029012",
+            "h24049029013"
+          ],
+          "issue": "restructures וְקָרְא֧וּ עֲלֵיהֶ֛ם מָג֖וֹר מִסָּבִֽיב into 'los llamarán un lugar de desolación alrededor' (changes participants and meaning)",
+          "spanishSpan": "y los llamarán un lugar de desolación alrededor"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Huyan, huyan mucho, profundicen para habitar, habitantes de Hazor, dice Jehová, porque ha dado consejo contra ustedes Nabucodonosor, rey de Babilonia, y ha planeado contra ellos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049030012",
+            "h24049030017",
+            "h24049030018"
+          ],
+          "issue": "introduces 3mp participant 'ellos' for the second verb where tokens only license 2mp 'עֲלֵיכֶם' on the first and no object suffix on the second",
+          "spanishSpan": "contra ellos"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Levántense, suban a un pueblo que habita en seguridad, dice Jehová. No hay puertas ni barrotes para él; solitario habitará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049031016"
+          ],
+          "issue": "verb number changed from 3mp to 3s",
+          "spanishSpan": "solitario habitará"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sus camellos serán despreciados, y sus rebaños de ganado serán saqueados; sus tiendas yo las entregaré a todo viento cortante, y de todas sus fronteras traeré su desastre, dice Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049032003"
+          ],
+          "issue": "adds 'despreciados' concept absent from לָבַז 'for plunder'",
+          "spanishSpan": "serán despreciados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049032007",
+            "h24049032009",
+            "h24049032010",
+            "h24049032011"
+          ],
+          "issue": "inserts 'sus tiendas' and 'viento cortante' not licensed by וְזֵרִתִים לְכָל רוּחַ קְצוּצֵי פֵאָה",
+          "spanishSpan": "sus tiendas yo las entregaré a todo viento cortante"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049032004",
+            "h24049032005",
+            "h24049032006"
+          ],
+          "issue": "renders as 'rebaños de ganado' adding specialized noun not in הֲמוֹן מִקְנֵיהֶם לְשָׁלָל",
+          "spanishSpan": "sus rebaños de ganado serán saqueados"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Hazor será un asentamiento de dragones, un desierto para siempre; no habitará allí ningún hombre, ni vivirá allí ningún hijo de Adán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049033016"
+          ],
+          "issue": "renders אָדָם as proper name 'Adán' instead of common noun 'hombre'",
+          "spanishSpan": "hijo de Adán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049033004"
+          ],
+          "issue": "selects 'dragones' (dragons) over the common contextual sense 'chacales' (jackals) for תַּנִּים in a ruins setting",
+          "spanishSpan": "dragones"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así habló Jehová a Jeremías el profeta acerca de Elam al principio del reinado de Zedequías, rey de Judá, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049034001",
+            "h24049034002",
+            "h24049034003",
+            "h24049034004"
+          ],
+          "issue": "omits relative + 'word of YHWH was' structure; inserts 'Así habló' formula not licensed by tokens",
+          "spanishSpan": "Así habló Jehová"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y traeré sobre Elam cuatro vientos del cielo, de los cuatro rincones de él, y los dispersaré a todos los vientos, y no será el pueblo que no venga a él para ser disperso.",
+      "notes": "first clause misparsed; remainder acceptable",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049036007",
+            "h24049036008"
+          ],
+          "issue": "attributes 'rincones' to Elam ('de él') instead of heavens",
+          "spanishSpan": "de los cuatro rincones de él"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049036005",
+            "h24049036006",
+            "h24049036007",
+            "h24049036008"
+          ],
+          "issue": "restructures 'four winds from the four corners of the heavens' into 'four winds of heaven from the four corners of him'",
+          "spanishSpan": "cuatro vientos del cielo, de los cuatro rincones de él"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré caer a Elam delante de sus enemigos y delante de los que buscan su alma; y traeré sobre ellos el mal, el furor de mi ira, dice Jehová, y enviaré tras ellos la espada hasta que los haya consumido.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049037001"
+          ],
+          "issue": "verb rendered as 'haré caer' (make fall) which is not licensed by lemma H2865 / morph Hiphil 1cs",
+          "spanishSpan": "haré caer"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será en los días postreros que volveré a la casa de Elam, dice Jehová.",
+      "notes": "Spanish introduces wholly unlicensed content after the time phrase.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049039001",
+            "h24049039004",
+            "h24049039005"
+          ],
+          "issue": "adds entire clause 'que volveré a la casa de' with no licensed verb, noun or participant",
+          "spanishSpan": "que volveré a la casa de"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24049039002",
+            "h24049039003"
+          ],
+          "issue": "renders construct 'end of the days' as interpretive 'días postreros' while inserting new future-action clause after it",
+          "spanishSpan": "en los días postreros"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T02:13:48.628205+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 39,
+    "verses": 39,
+    "input": 90475,
+    "cachedInput": 29312,
+    "output": 6269,
+    "reasoning": 35260,
+    "usd": 0.3862,
+    "byProvider": {
+      "xai": {
+        "calls": 39,
+        "input": 90475,
+        "output": 6269,
+        "reasoning": 35260,
+        "usd": 0.3862
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 39,
+        "input": 90475,
+        "output": 6269,
+        "reasoning": 35260,
+        "usd": 0.3862
+      }
+    },
+    "usdPerVerse": 0.0099,
+    "bibleAtThisRate": 308.0,
+    "book": "jeremias",
+    "chapter": 49
+  }
+}

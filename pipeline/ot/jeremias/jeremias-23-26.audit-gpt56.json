@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:26",
+  "chapter": 23,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Hasta cuándo habrá en el corazón de los profetas profecía de mentira y profetas de vanidad en su corazón?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023026003"
+      ],
+      "issue": "future 'habrá' instead of present 'is there'",
+      "spanishSpan": "habrá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023026006",
+        "h24023026007"
+      ],
+      "issue": "noun 'profecía' instead of Niphal participle 'prophesying'",
+      "spanishSpan": "profecía de mentira"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023026009"
+      ],
+      "issue": "'vanidad' for תַּרְמִת (deceit/treachery)",
+      "spanishSpan": "vanidad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

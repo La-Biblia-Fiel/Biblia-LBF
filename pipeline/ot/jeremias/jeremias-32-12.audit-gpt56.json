@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:12",
+  "chapter": 32,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y entregué el libro del contrato a Barúk, hijo de Nerías, hijo de Maasías, ante los ojos de Hanameel, pariente mío, y ante los ojos de los escribas que escribían en el libro del contrato, ante los ojos de todos los judíos que habitaban en la corte del guardia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032012010"
+      ],
+      "issue": "name rendered as Maasías instead of the token's Mahseiah",
+      "spanishSpan": "Maasías"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032012013"
+      ],
+      "issue": "dodî rendered as generic pariente instead of specific uncle",
+      "spanishSpan": "pariente mío"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032012015"
+      ],
+      "issue": "ha'edim (witnesses) rendered as escribas (scribes)",
+      "spanishSpan": "los escribas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:13",
+  "chapter": 46,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha hablado el SEÑOR a Jeremías el profeta, diciendo: Vendrá Nabucodonosor, rey de Babilonia, para matar a la tierra de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046013001",
+        "h24046013002",
+        "h24046013003"
+      ],
+      "issue": "adds 'Así ha hablado ... diciendo' paraphrase and structure not licensed by tokens",
+      "spanishSpan": "Así ha hablado el SEÑOR ... diciendo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046013008"
+      ],
+      "issue": "renders qal infinitive construct לָבוֹא as finite future 'Vendrá'",
+      "spanishSpan": "Vendrá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046013012"
+      ],
+      "issue": "renders hiphil infinitive construct הַכּוֹת as 'matar' (kill) instead of strike/smite",
+      "spanishSpan": "para matar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

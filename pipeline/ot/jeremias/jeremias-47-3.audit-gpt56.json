@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 47:3",
+  "chapter": 47,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Por el sonido de las alas de los caballos, por el estruendo de sus carros, por el ruido de sus ruedas, los padres no miran atrás a sus hijos, porque sus manos están flaqueando.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047003003"
+      ],
+      "issue": "adds 'alas' (wings) not present in פַּרְסוֹת (hoofs)",
+      "spanishSpan": "alas de los caballos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047003010"
+      ],
+      "issue": "adds 'atrás' (back) not licensed by הִפְנ֤וּ (turn)",
+      "spanishSpan": "miran atrás"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

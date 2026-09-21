@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:21",
+  "chapter": 48,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el juicio ha llegado a la tierra de Misón, a Helón y a Jahzah, y sobre Moph.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048021005"
+      ],
+      "issue": "הַמִּישֹׁ֑ר rendered as proper name 'Misón' instead of the plain",
+      "spanishSpan": "Misón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048021010"
+      ],
+      "issue": "introduces 'Moph' with no corresponding token or lemma",
+      "spanishSpan": "Moph"
+    }
+  ],
+  "notes": "packet tokens end at וְעַל; Spanish adds unlicensed name and misparses Mishor",
+  "discardedUncitedFindings": 0
+}

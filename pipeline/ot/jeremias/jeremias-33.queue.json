@@ -1,0 +1,568 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 33,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "passed": [
+    2,
+    9,
+    13,
+    14,
+    17,
+    19,
+    23
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ocurrió otra vez la palabra de Jehová a Jeremías, mientras aún estaba encadenado en la corte de la guardia, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033001009"
+          ],
+          "issue": "encadenado specifies chains/fetters; lemma 6113 + qal passive participle only licenses shut up/imprisoned/detained",
+          "spanishSpan": "estaba encadenado"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Clama a mí y yo te responderé, y te mostraré grandes cosas y cosas ocultas que no conoces.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033003004"
+          ],
+          "issue": "lemma H5046 (nagad) licenses declare/tell/make-known, not 'mostrar'",
+          "spanishSpan": "te mostraré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033003007"
+          ],
+          "issue": "lemma H1219 (batsar) licenses fortified/inaccessible, not 'ocultas'",
+          "spanishSpan": "cosas ocultas"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho Jehová, el Dios de Israel: Acerca de las casas de esta ciudad y de las casas de los reyes de Judá, que han sido derribadas para las escaleras y por la espada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033004017"
+          ],
+          "issue": "סללות rendered as 'escaleras' (adds concept not licensed by lemma 5550 or morphology)",
+          "spanishSpan": "para las escaleras"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Vienen a pelear contra los caldeos y para llenar de cadáveres los cuerpos de los hombres que yo hice caer con mi ira y con mi furor, y de los que oculté mi rostro de esta ciudad, por toda su maldad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033005007",
+            "h24033005008"
+          ],
+          "issue": "adds 'los cuerpos de' not licensed by פגרי האדם",
+          "spanishSpan": "llenar de cadáveres los cuerpos de los hombres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033005010"
+          ],
+          "issue": "changes הִכֵּיתִי (struck) to 'hice caer'",
+          "spanishSpan": "que yo hice caer"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que levantaré a ella un arco y una medicina, y la sanaré, y le revelaré la abundancia de paz y de verdad.",
+      "notes": "multiple token mismatches on lemma and suffixes",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033006004"
+          ],
+          "issue": "אֲרֻכָ֥ה rendered as 'arco' (bow/weapon) instead of healing/restoration",
+          "spanishSpan": "un arco"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033006006",
+            "h24033006003"
+          ],
+          "issue": "3fs 'a ella / la' for healing but verb carries 3mp suffix",
+          "spanishSpan": "a ella ... la sanaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033006006",
+            "h24033006008"
+          ],
+          "issue": "switch from 3fs to 3mp referents not preserved",
+          "spanishSpan": "la sanaré, y le revelaré"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré volver el cautiverio de Judá y el cautiverio de Israel, y los plantaré como al principio.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033007008"
+          ],
+          "issue": "lemma 1129 (בנה) licenses 'build them', not 'plant'",
+          "spanishSpan": "y los plantaré"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los purificaré de toda iniquidad que han cometido contra mí, y perdonaré todos sus pecados que han cometido contra mí, y de los que me han desobedecido.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033008008"
+          ],
+          "issue": "adds 'todos' not present in the token for the plural iniquities",
+          "spanishSpan": "todos sus pecados"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová: Otra vez se oirá en este lugar que decís desolado, sin gente y sin bestias, en las ciudades de Judá y alrededor de Jerusalén, que las almas no están, sin gente, sin habitantes y sin bestias.",
+      "notes": "also 'alrededor' for חוצות is smoothing",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033010021"
+          ],
+          "issue": "adds unlicensed concept 'almas' for niphal participle of שמם (desolated)",
+          "spanishSpan": "que las almas no están"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El sonido de la alegría y el sonido de la júbilo, el sonido del novio y el sonido de la novia, el sonido de los que dicen: Alabad a Jehovas de los ejércitos, porque es bueno Jehová, porque su misericordia es eterna; trayendo ofrendas de acción de gracias en la casa de Jehová, porque haré volver el cautiverio de la tierra como al principio, dice Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033011011"
+          ],
+          "issue": "uses vosotros imperative 'Alabad' instead of Latin American 'Alaben'",
+          "spanishSpan": "Alabad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033011013",
+            "h24033011017",
+            "h24033011024",
+            "h24033011032"
+          ],
+          "issue": "misspells the proper name as 'Jehovas'",
+          "spanishSpan": "Jehovas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033011001",
+            "h24033011002",
+            "h24033011004"
+          ],
+          "issue": "reverses order of ששון and שמחה",
+          "spanishSpan": "alegría y el sonido de la júbilo"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová de los ejércitos: Otra vez será en este lugar que decís desolado, sin gente y sin bestias, en las ciudades de Judá y alrededor de Jerusalén, que las almas no están, sin gente, sin habitantes y sin bestias.",
+      "notes": "Spanish inverts the meaning of the final tokens and adds referents absent from packet.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033012015"
+          ],
+          "issue": "adds Judá/Jerusalén not present in tokens; עָרָיו is only 'its cities'",
+          "spanishSpan": "en las ciudades de Judá y alrededor de Jerusalén"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033012016",
+            "h24033012017",
+            "h24033012018",
+            "h24033012019"
+          ],
+          "issue": "omits entire licensed clause נְוֵה רֹעִים מַרְבִּצִים צֹאן and replaces with invented negation about souls",
+          "spanishSpan": "que las almas no están, sin gente, sin habitantes y sin bestias"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033012009",
+            "h24033012010",
+            "h24033012011",
+            "h24033012012",
+            "h24033012013"
+          ],
+          "issue": "repeats desolation clause after the restoration promise, changing the sense of the tokens",
+          "spanishSpan": "que las almas no están, sin gente, sin habitantes y sin bestias"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquellos días y en aquel tiempo haré germinar para David un germinar de justicia, y juzgará y hará justicia en la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033015009",
+            "h24033015010"
+          ],
+          "issue": "adds 'juzgará' (judge) concept absent from עָשָׂה + מִשְׁפָּט; tokens only license 'hará mishpat'",
+          "spanishSpan": "y juzgará y hará justicia"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquellos días será Judá salvo, y Jerusalén habitada segura, y este será el nombre que le dará Jehová: Mi justicia.",
+      "notes": "name clause mismatches on verb, person, and structure",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033016010"
+          ],
+          "issue": "lemma 7121 'call' rendered as 'dará' (give)",
+          "spanishSpan": "le dará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033016013"
+          ],
+          "issue": "1cp suffix rendered as singular 'Mi' instead of 'nuestra'",
+          "spanishSpan": "Mi justicia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033016013"
+          ],
+          "issue": "construct chain צִדְקֵנוּ rendered as separate title 'Mi justicia' rather than the name phrase",
+          "spanishSpan": "Mi justicia"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a los sacerdotes levitas no será cortado de delante de mí un hombre que suba holocausto y que queme incienso y que haga sacrificio todos los días.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033018010"
+          ],
+          "issue": "מִנְחָה rendered as 'incienso' (adds unlicensed concept; mincha is grain offering)",
+          "spanishSpan": "queme incienso"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová: Si romperéis mi pacto de día, y mi pacto de noche, y no habrá día y noche en su tiempo,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033020005"
+          ],
+          "issue": "vosotros future form 'romperéis' instead of Latin American 'romperán' for 2mp address",
+          "spanishSpan": "romperéis"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "También mi pacto con David, mi siervo, será roto, para que no tenga hijo que reine sobre su trono, y a los levitas sacerdotes que son mis ministros.",
+      "notes": "sentence structure collapses the two objects of תֻפַר",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033021013",
+            "h24033021014",
+            "h24033021015",
+            "h24033021016"
+          ],
+          "issue": "omits parallel covenant object; mangles syntax so Levites are not the second item whose covenant is broken",
+          "spanishSpan": "y a los levitas sacerdotes que son mis ministros"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033021003",
+            "h24033021007",
+            "h24033021008",
+            "h24033021009",
+            "h24033021010"
+          ],
+          "issue": "resolves מִהְיוֹת as purposive 'para que no' instead of preserving the infinitive construction",
+          "spanishSpan": "para que no tenga hijo que reine"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Que no se podrá contar el ejército de los cielos, ni medir el polvo del mar; así multiplicaré yo la simiente de David, mi siervo, y a los levitas ministros de mí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033022008"
+          ],
+          "issue": "חול = sand, rendered as polvo (dust)",
+          "spanishSpan": "polvo del mar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033022003",
+            "h24033022007"
+          ],
+          "issue": "adds 'podrá' (ability) not present in niphal imperfects",
+          "spanishSpan": "se podrá contar ... ni medir"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿No has visto lo que este pueblo ha dicho: ‘Los dos grupos que el Señor eligió los ha rechazado, y a mi pueblo lo odiarán para que ya no sea una nación delante de ellos’?",
+      "notes": "name substitution and number mismatch on verb are decisive",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033024012"
+          ],
+          "issue": "YHWH rendered as title 'el Señor' instead of conventional proper name Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033024006"
+          ],
+          "issue": "3cp verb rendered as singular 'ha dicho'",
+          "spanishSpan": "ha dicho"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24033024009"
+          ],
+          "issue": "mishpachot rendered as 'grupos' (lexical choice, not licensed by tokens)",
+          "spanishSpan": "grupos"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice el Señor: ‘¿Acaso no he establecido mi pacto de día y de noche, las leyes del cielo y de la tierra, que no han sido anuladas?’",
+      "notes": "candidate restructures and adds material not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033025003"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033025004",
+            "h24033025005"
+          ],
+          "issue": "conditional אִם לֹא turned into rhetorical question with '¿Acaso'",
+          "spanishSpan": "¿Acaso no"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033025012",
+            "h24033025013"
+          ],
+          "issue": "לֹא שָׂמְתִּי rendered as 'que no han sido anuladas' (adds annulment concept and changes participant/voice)",
+          "spanishSpan": "que no han sido anuladas"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tampoco despreciaré a la descendencia de Jacob y a David, mi siervo, para no tomar de su linaje gobernantes; a la descendencia de Abraham, Isaac y Jacob volveré a traerlos de cautiverio y los tendré en misericordia.",
+      "notes": "Spanish expands the object שְׁבוּתָם into an untokenized action",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033026017",
+            "h24033026018"
+          ],
+          "issue": "adds 'volveré a traerlos de cautiverio' (restoration verb) not licensed by tokens",
+          "spanishSpan": "volveré a traerlos de cautiverio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24033026001"
+          ],
+          "issue": "introduces 'Tampoco' (neither/nor) not licensed by גַּם",
+          "spanishSpan": "Tampoco"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:40:16.204545+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 26,
+    "verses": 26,
+    "input": 62687,
+    "cachedInput": 20480,
+    "output": 3093,
+    "reasoning": 23746,
+    "usd": 0.2557,
+    "byProvider": {
+      "xai": {
+        "calls": 26,
+        "input": 62687,
+        "output": 3093,
+        "reasoning": 23746,
+        "usd": 0.2557
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 26,
+        "input": 62687,
+        "output": 3093,
+        "reasoning": 23746,
+        "usd": 0.2557
+      }
+    },
+    "usdPerVerse": 0.0098,
+    "bibleAtThisRate": 306.0,
+    "book": "jeremias",
+    "chapter": 33
+  }
+}

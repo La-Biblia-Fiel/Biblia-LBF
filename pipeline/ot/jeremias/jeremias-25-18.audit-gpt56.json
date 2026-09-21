@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:18",
+  "chapter": 25,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "A Jerusalén y a las ciudades de Judá, y a sus reyes y a sus príncipes, para que sean objeto de espada, de saña, de alaridos y de maldición, como este día.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025018012"
+      ],
+      "issue": "חָרְבָּה rendered as 'espada' (wrong lemma sense; H2723 = desolation/ruin, not sword)",
+      "spanishSpan": "espada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025018010",
+        "h24025018011",
+        "h24025018012",
+        "h24025018013",
+        "h24025018014",
+        "h24025018015"
+      ],
+      "issue": "paraphrases לָתֵת אֹתָם לְ... into 'para que sean objeto de' and alters the four nouns",
+      "spanishSpan": "para que sean objeto de espada, de saña, de alaridos y de maldición"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025018014"
+      ],
+      "issue": "שְׁרֵקָה rendered as 'alaridos' (adds interpretive concept not in lemma)",
+      "spanishSpan": "alaridos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

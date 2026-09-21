@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:15",
+  "chapter": 42,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Ahora pues, escuchad la palabra del Señor, resto de Judá. Así ha dicho el Señor de los ejércitos, Dios de Israel: Si ponéis sus rostros para ir a Egipto y entráis para habitar allí,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042015003",
+        "h24042015015",
+        "h24042015017",
+        "h24042015018",
+        "h24042015021"
+      ],
+      "issue": "vosotros verb forms (escuchad, ponéis, entráis) instead of Latin American ustedes",
+      "spanishSpan": "escuchad ... ponéis ... entráis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042015018"
+      ],
+      "issue": "possessive 'sus' (3rd) instead of 2mp 'vuestros' matching פְּנֵיכֶם֙",
+      "spanishSpan": "sus rostros"
+    }
+  ],
+  "notes": "Señor for יהוה also deviates from specified Jehová convention",
+  "discardedUncitedFindings": 0
+}

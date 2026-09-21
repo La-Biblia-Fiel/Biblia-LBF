@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:30",
+  "chapter": 48,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Yo sé, dice el Señor, su rebeldía, pero no así han actuado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048030005"
+      ],
+      "issue": "עֶבְרָתוֹ rendered as 'rebeldía' (wrong concept; lemma 5678 = fury/wrath)",
+      "spanishSpan": "su rebeldía"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048030008"
+      ],
+      "issue": "בַּדָּיו completely omitted",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048030004"
+      ],
+      "issue": "יְהוָה rendered as 'el Señor' instead of Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "Spanish also collapses the two כֵן clauses into one statement.",
+  "discardedUncitedFindings": 0
+}

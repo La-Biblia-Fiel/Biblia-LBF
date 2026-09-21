@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:12",
+  "chapter": 21,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Casa de David, así dice Jehová: Juzguen en la mañana, y liberen al cautivo de la mano del opresor, antes que salga mi ira como fuego, y arda, y no quede quien la apague, por la maldad de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021012008"
+      ],
+      "issue": "omits מִשְׁפָּ֔ט (judgment/justice) after 'en la mañana'",
+      "spanishSpan": "Juzguen en la mañana"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021012010"
+      ],
+      "issue": "גָז֖וּל rendered as 'cautivo' (adds captive concept; tokens only license robbed/plundered)",
+      "spanishSpan": "al cautivo"
+    }
+  ],
+  "notes": "multiple lexical mismatches",
+  "discardedUncitedFindings": 0
+}

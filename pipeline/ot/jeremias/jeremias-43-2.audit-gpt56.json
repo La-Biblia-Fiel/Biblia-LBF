@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 43:2",
+  "chapter": 43,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Azarías hijo de Hosaja y Jonatán hijo de Queret, y todo el pueblo rebelde, diciendo a Jeremías: Mientes, Jehová, su Dios, no te ha enviado a decir: No entréis a Egipto para habitar allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043002020"
+      ],
+      "issue": "suffix 1cp 'our God' rendered as 'su Dios' (his God)",
+      "spanishSpan": "Jehová, su Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043002009",
+        "h24043002010"
+      ],
+      "issue": "הָאֲנָשִׁים הַזֵּדִים rendered as 'todo el pueblo rebelde' (adds pueblo, changes men+arrogant to people+rebellious)",
+      "spanishSpan": "todo el pueblo rebelde"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043002023"
+      ],
+      "issue": "2mp imperfect rendered with vosotros 'entrés' instead of Latin-American ustedes 'entren'",
+      "spanishSpan": "No entréis"
+    }
+  ],
+  "notes": "multiple mismatches in person, lexical choice, and verbal form",
+  "discardedUncitedFindings": 0
+}

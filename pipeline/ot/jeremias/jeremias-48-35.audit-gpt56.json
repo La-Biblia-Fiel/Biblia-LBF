@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:35",
+  "chapter": 48,
+  "verse": 35,
+  "candidateLabel": "gpt56",
+  "spanish": "Haré que Moab deje de ofrecer, dice el Señor, sus altos y quemar incienso a sus dioses.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048035003",
+        "h24048035004"
+      ],
+      "issue": "renders נְאֻם יְהוָה as 'dice el Señor' (wrong lemma, wrong proper name)",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048035004"
+      ],
+      "issue": "uses 'Señor' for יְהוָה instead of licensed Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24048035005",
+        "h24048035006",
+        "h24048035007"
+      ],
+      "issue": "grammatical smoothing turns participles into infinitives of Moab; number of במה changed to plural",
+      "spanishSpan": "ofrecer ... sus altos y quemar incienso"
+    }
+  ],
+  "notes": "n/a",
+  "discardedUncitedFindings": 0
+}

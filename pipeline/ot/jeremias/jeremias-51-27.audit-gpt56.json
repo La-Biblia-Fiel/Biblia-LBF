@@ -1,0 +1,54 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:27",
+  "chapter": 51,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Elevad la señal en la tierra, tocad la trompeta entre las naciones, santificad la guerra contra ellas, hacedla oír contra ellas, Ararat, Minni y Asiria; levantad la bandera, preparad los caballos como la langosta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051027007",
+        "h24051027008",
+        "h24051027009"
+      ],
+      "issue": "adds 'la guerra' not present in tokens",
+      "spanishSpan": "santificad la guerra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051027012",
+        "h24051027013",
+        "h24051027014",
+        "h24051027015"
+      ],
+      "issue": "omits 'mamlekhot' (reinos) and renders wrong proper name Asiria for Ashkenaz",
+      "spanishSpan": "Ararat, Minni y Asiria"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051027016",
+        "h24051027017",
+        "h24051027018"
+      ],
+      "issue": "replaces 'piqdu ... tipsar' with 'levantad la bandera'",
+      "spanishSpan": "levantad la bandera"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051027019"
+      ],
+      "issue": "renders hiphil 'haʿalu' as 'preparad' instead of 'haced subir' or equivalent",
+      "spanishSpan": "preparad"
+    }
+  ],
+  "notes": "multiple additions, omissions and name error",
+  "discardedUncitedFindings": 0
+}

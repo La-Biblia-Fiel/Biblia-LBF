@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:11",
+  "chapter": 21,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Oíd la palabra de Jehová, casa de David.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021011001",
+        "h24021011002",
+        "h24021011003"
+      ],
+      "issue": "omits 'and to the house of the king of Judah' and replaces with unlicensed 'casa de David'",
+      "spanishSpan": "casa de David"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

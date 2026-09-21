@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:1",
+  "chapter": 40,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra que vino a Jeremías de parte de Jehová después que Nebuzaradán, jefe de los carniceros, lo había llevado de Ramah, y lo había tomado con él, y él estaba atado con cadenas entre todos los cautivos de Jerusalén y de Judá que eran llevados a Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040001003"
+      ],
+      "issue": "adds motion concept 'vino' not licensed by lemma 1961 (to be)",
+      "spanishSpan": "vino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040001009",
+        "h24040001016"
+      ],
+      "issue": "adds extra verb phrase 'y lo había tomado con él' not licensed by the two infinitives",
+      "spanishSpan": "y lo había tomado con él"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

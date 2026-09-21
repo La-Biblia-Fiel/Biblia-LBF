@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:22",
+  "chapter": 27,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "En Babilonia los llevarán y allí quedarán hasta el día en que yo los visite, dice el SEÑOR, y los haré subir y los haré volver a este lugar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027022001",
+        "h24027022002"
+      ],
+      "issue": "Spanish places action inside Babylon and uses active 'los llevarán' instead of directional 'to Babylon' + passive Hophal 'will be brought'",
+      "spanishSpan": "En Babilonia los llevarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027022004"
+      ],
+      "issue": "'quedarán' adds 'remain/stay' nuance not licensed by simple Qal 'they will be'",
+      "spanishSpan": "allí quedarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

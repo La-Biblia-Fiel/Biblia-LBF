@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:10",
+  "chapter": 36,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Baruc leyó en el libro las palabras de Jeremías en el templo de Jehová, en la habitación de Gamariah, hijo de Safán, el escriba, en la plaza del palacio, en la puerta nueva del templo de Jehová, en la presencia de todo el pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036010014",
+        "h24036010015"
+      ],
+      "issue": "renders בֶּחָצֵ֣ר הָעֶלְי֗וֹן as 'plaza del palacio' (adds 'palacio' and changes 'court/courtyard' to 'plaza')",
+      "spanishSpan": "en la plaza del palacio"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

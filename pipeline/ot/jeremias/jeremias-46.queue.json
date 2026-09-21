@@ -1,0 +1,873 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 46,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "passed": [
+    9,
+    27
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra que el SEÑOR habló a Jeremías el profeta acerca de las naciones.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046001002"
+          ],
+          "issue": "Spanish inserts 'habló' (spoke) making SEÑOR the agent; token is only 'was' (Qal pf 3ms) in construct phrase",
+          "spanishSpan": "habló"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sobre Egipto, contra el ejército de Farao Nequón, rey de Egipto, que estaba junto al río Egipto en Carquemis, que Nabucodonosor, rey de Babilonia, derrotó en el cuarto año de Joaquín hijo de Josías, rey de Judá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046002011",
+            "h24046002012"
+          ],
+          "issue": "renders נְהַר פְּרָת as 'río Egipto' (wrong referent; Perat/Euphrates, not Mitsrayim)",
+          "spanishSpan": "río Egipto"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ordena la defensa, prepara la guerra, y levántate para la batalla.",
+      "notes": "Spanish paraphrases and adds concepts absent from tokens.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046003001",
+            "h24046003002",
+            "h24046003003"
+          ],
+          "issue": "adds 'defensa' concept and omits licensed shields (magen + tsinnah)",
+          "spanishSpan": "Ordena la defensa"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046003004",
+            "h24046003005"
+          ],
+          "issue": "replaces 'draw near to the war' with 'prepara la guerra' and 'levántate para la batalla'",
+          "spanishSpan": "prepara la guerra, y levántate para la batalla"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046003004"
+          ],
+          "issue": "changes 2mp imperative participant and verb meaning; 'levántate' is 2s",
+          "spanishSpan": "levántate"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Atad los caballos, montad los jinetes, y estad en pie con las armaduras; afilad las lanzas, vestid los escudos.",
+      "notes": "two equipment nouns mismatched to token lemmas",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046004006"
+          ],
+          "issue": "specific noun כובעים (helmets) rendered as generic armaduras",
+          "spanishSpan": "con las armaduras"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046004010"
+          ],
+          "issue": "noun סריינת (coats of mail) rendered as escudos (shields)",
+          "spanishSpan": "los escudos"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué veo que se vuelven espantados, que huyen, que los valientes huyen, que se desvanecen? No miran atrás; sufrimiento les rodea, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046005008"
+          ],
+          "issue": "יֻכַּתּוּ (hophal beaten down) rendered as 'huyen'",
+          "spanishSpan": "que los valientes huyen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046005008"
+          ],
+          "issue": "יֻכַּתּוּ (hophal beaten down) rendered as 'se desvanecen'",
+          "spanishSpan": "que se desvanecen"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No retroceda el ligero, no escape el valiente; al norte del río Éufrates caerán y se desvanecerán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046006002"
+          ],
+          "issue": "נוס rendered as 'retroceda' instead of flee/escape",
+          "spanishSpan": "retroceda"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046006007",
+            "h24046006008",
+            "h24046006009"
+          ],
+          "issue": "צָפ֨וֹנָה עַל יַד parsed as 'al norte del' (north of) instead of northward upon/by",
+          "spanishSpan": "al norte del río Éufrates"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046006012",
+            "h24046006013"
+          ],
+          "issue": "perfect 'stumbled and fell' rendered as future 'caerán y se desvanecerán' with added vanish concept",
+          "spanishSpan": "caerán y se desvanecerán"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Quién es este que viene como el Nilo, que se agita como ríos?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046007007"
+          ],
+          "issue": "omits licensed concept 'his waters'",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046007006"
+          ],
+          "issue": "assigns 3mp agitation verb to the wrong participant (subject 'este' instead of the rivers)",
+          "spanishSpan": "que se agita"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Egipto viene como el Nilo, que se agita como ríos; dice: Subiré, cubriré la tierra, destruiré la ciudad y sus habitantes.",
+      "notes": "first clause also drops explicit 'waters'",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046008002",
+            "h24046008003",
+            "h24046008004",
+            "h24046008005",
+            "h24046008006"
+          ],
+          "issue": "restructures two separate similes (Egypt like Nile comes up; like rivers they surge waters) into single relative clause modifying Nile",
+          "spanishSpan": "viene como el Nilo, que se agita como ríos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046008007"
+          ],
+          "issue": "renders sequential imperfect wayyo'mer as present 'dice' instead of past narrative",
+          "spanishSpan": "dice"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquel día, dice el SEÑOR, el Dios de los ejércitos, daré venganza a los que me oprimen; comerán la carne y se hartarán, y beberán la sangre y se embriagarán, porque es un sacrificio para el SEÑOR, el Dios de los ejércitos, en la tierra del norte junto al río Éufrates.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046010003",
+            "h24046010004",
+            "h24046010005"
+          ],
+          "issue": "inserts 'dice el SEÑOR' with no supporting token; tokens only have 'to Adonai YHWH of hosts'",
+          "spanishSpan": "dice el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046010006",
+            "h24046010007",
+            "h24046010008",
+            "h24046010009"
+          ],
+          "issue": "changes 'a day of vengeance to avenge on his adversaries' into first-person 'daré venganza a los que me oprimen'",
+          "spanishSpan": "daré venganza a los que me oprimen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046010010",
+            "h24046010011",
+            "h24046010012",
+            "h24046010013",
+            "h24046010014"
+          ],
+          "issue": "misattributes 3fs actions of the sword to the oppressors; adds 'embriagarán' for רָוְתָה",
+          "spanishSpan": "comerán la carne y se hartarán, y beberán la sangre y se embriagarán"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sube a Galaad y toma bálsamo, virgen de Egipto; sin remedio estás, no hay cura para ti.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046011006"
+          ],
+          "issue": "omits 'daughter' (בת) from the construct chain בתולת בת מצרים",
+          "spanishSpan": "virgen de Egipto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046011008",
+            "h24046011009",
+            "h24046011010"
+          ],
+          "issue": "omits 'in vain' (לשוא) + plural 'healings/medicines' (רפאות) + 'healing' (תעלה); paraphrases instead of rendering the clause",
+          "spanishSpan": "sin remedio estás"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Oigan, pueblos, la afrenta que te hacen, y la queja que te hacen, que llena la tierra; porque el valiente tropieza con el valiente, caen juntos, ambos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046012001",
+            "h24046012002"
+          ],
+          "issue": "verb rendered as 2pl imperative address instead of 3cp perfect",
+          "spanishSpan": "Oigan, pueblos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046012003",
+            "h24046012004"
+          ],
+          "issue": "adds 'que te hacen' twice, unlicensed interpretive verb and participants",
+          "spanishSpan": "la afrenta que te hacen, y la queja que te hacen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046012008",
+            "h24046012009",
+            "h24046012010"
+          ],
+          "issue": "changes perfect to present tense",
+          "spanishSpan": "tropieza"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha hablado el SEÑOR a Jeremías el profeta, diciendo: Vendrá Nabucodonosor, rey de Babilonia, para matar a la tierra de Egipto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046013001",
+            "h24046013002",
+            "h24046013003"
+          ],
+          "issue": "adds 'Así ha hablado ... diciendo' paraphrase and structure not licensed by tokens",
+          "spanishSpan": "Así ha hablado el SEÑOR ... diciendo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046013008"
+          ],
+          "issue": "renders qal infinitive construct לָבוֹא as finite future 'Vendrá'",
+          "spanishSpan": "Vendrá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046013012"
+          ],
+          "issue": "renders hiphil infinitive construct הַכּוֹת as 'matar' (kill) instead of strike/smite",
+          "spanishSpan": "para matar"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Anuncien en Egipto, proclamen en Migdol, proclamen en Nof y en Tahpanhes; dicen: Estad firmes y preparaos, porque la espada os rodea.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046014008"
+          ],
+          "issue": "אִמְר֗וּ is 2mp imperative; Spanish renders as 3p indicative 'dicen'",
+          "spanishSpan": "dicen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046014013",
+            "h24046014014",
+            "h24046014015"
+          ],
+          "issue": "אָכְלָה חֶרֶב סְבִיבֶיךָ is qal perfect 3fs 'has devoured' with 2ms suffix; Spanish changes to present 'rodea' and shifts to 2p 'os'",
+          "spanishSpan": "la espada os rodea"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046014009",
+            "h24046014010",
+            "h24046014011"
+          ],
+          "issue": "הִתְיַצֵּב וְהָכֵן לָךְ mixes 2ms/2fs; Spanish converts to 2p 'Estad firmes y preparaos'",
+          "spanishSpan": "Estad firmes y preparaos"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué se desmoronan tus valientes? No se mantienen, porque el SEÑOR los ha derribado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046015002",
+            "h24046015005",
+            "h24046015008"
+          ],
+          "issue": "Spanish renders singular 3ms verbs and 3ms suffix as plural (se desmoronan, se mantienen, los ha derribado) instead of preserving the singular morphology",
+          "spanishSpan": "se desmoronan ... No se mantienen ... los ha derribado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046015002"
+          ],
+          "issue": "adds concept of crumbling/falling apart not licensed by lemma or surface of נִסְחַ֣ף",
+          "spanishSpan": "se desmoronan"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mucho tropieza Cush, cae cada uno sobre su compañero y dicen: Levántate y volvamos a nuestro pueblo y a la tierra de nuestra juventud, lejos de la espada del enemigo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046016002"
+          ],
+          "issue": "inserts Cush (absent from tokens; כּוֹשֵׁל is qal participle of stumble)",
+          "spanishSpan": "Cush"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046016015"
+          ],
+          "issue": "renders מולדתנו as 'juventud' instead of nativity/birthplace",
+          "spanishSpan": "nuestra juventud"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046016018"
+          ],
+          "issue": "renders היונה (oppressor) as 'enemigo'",
+          "spanishSpan": "del enemigo"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Allí llaman a Faraón, rey de Egipto, Seón, que ha pasado el tiempo de la festividad.",
+      "notes": "Spanish introduces unlicensed name and alters verb structure/participants",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046017006"
+          ],
+          "issue": "common noun שָׁאוֹן rendered as proper name Seón",
+          "spanishSpan": "Seón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046017007",
+            "h24046017008"
+          ],
+          "issue": "restructures הֶעֱבִיר הַמּוֹעֵד into relative clause with different participants and meaning",
+          "spanishSpan": "que ha pasado el tiempo de la festividad"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Vivo yo, dice el Señor de los ejércitos, su nombre es: Como Tabor entre los montes, y como Carmel en el mar viene.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046018004"
+          ],
+          "issue": "omits licensed concept 'the king'",
+          "spanishSpan": "dice el Señor de los ejércitos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046018005"
+          ],
+          "issue": "renders יהוה as Señor instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046018003",
+            "h24046018007"
+          ],
+          "issue": "restructures נְאֻם ... שְׁמוֹ into 'dice ... su nombre es' adding interpretive verb and altering syntax",
+          "spanishSpan": "dice el Señor de los ejércitos, su nombre es"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Haz para ti instrumentos de destierro, moradora de Egipto, porque vendrás como una mujer en trabajo de parto, y vendrás de donde no es habitado.",
+      "notes": "first half matches tokens; second half does not",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046019009",
+            "h24046019010",
+            "h24046019011",
+            "h24046019012",
+            "h24046019013",
+            "h24046019014"
+          ],
+          "issue": "replaces Noph becoming desolation and burned without inhabitant with unrelated 'vendrás como una mujer en trabajo de parto' and 'vendrás de donde no es habitado'",
+          "spanishSpan": "porque vendrás como una mujer en trabajo de parto, y vendrás de donde no es habitado"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Egipto, una vaca hermosa de cuernos, sale del norte, viene con fuerza.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046020002",
+            "h24046020003"
+          ],
+          "issue": "adds 'de cuernos' (horns) not licensed by the two HAafsa tokens for 'beautiful/fair'",
+          "spanishSpan": "de cuernos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046020005"
+          ],
+          "issue": "renders קֶרֶץ as part of 'vaca ... de cuernos' instead of a separate noun (gadfly/stinger)",
+          "spanishSpan": "de cuernos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046020007",
+            "h24046020008"
+          ],
+          "issue": "adds 'con fuerza' not present in the repeated qal perfect בא tokens",
+          "spanishSpan": "viene con fuerza"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "También los mercaderes de tu interior, como bueyes de ruedas, porque también ellos se volvieron, huyeron juntos, no se quedaron, porque el día de su calamidad vino sobre ellos, la hora de su pago.",
+      "notes": "multiple lexical and suffix mismatches at start of verse",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046021002",
+            "h24046021003"
+          ],
+          "issue": "mercaderes de tu interior mismatches שְׂכִרֶיהָ בְקִרְבָּהּ (her hired men in her midst); adds merchant sense and changes 3fs suffix to 2ms tu",
+          "spanishSpan": "los mercaderes de tu interior"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046021004",
+            "h24046021005"
+          ],
+          "issue": "como bueyes de ruedas mismatches כְּעֶגְלֵי מַרְבֵּק (like calves of the stall); introduces oxen and wheels absent from tokens",
+          "spanishSpan": "como bueyes de ruedas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046021020"
+          ],
+          "issue": "la hora de su pago resolves פְּקֻדָּתָם (time of their visitation/punishment) as payment, adding unlicenced concept",
+          "spanishSpan": "la hora de su pago"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Su voz como la de una serpiente, porque marchan en tropel, y en naves de bajeles vienen a ella, como cortadores de madera.",
+      "notes": "major lexical invention; only first and last phrases are close",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046022005"
+          ],
+          "issue": "marchan en tropel adds specific image not licensed by בְחַ֣יִל",
+          "spanishSpan": "marchan en tropel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046022007",
+            "h24046022008"
+          ],
+          "issue": "naves de bajeles inserts entirely absent concept; text only has with axes they come",
+          "spanishSpan": "y en naves de bajeles vienen a ella"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cortarán tu bosque, dice el Señor, porque no será inquirido, porque son muchos como langostas, y no hay número para ellos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046023002"
+          ],
+          "issue": "3fs suffix rendered as 2ms 'tu' instead of 'su/her'",
+          "spanishSpan": "tu bosque"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046023003",
+            "h24046023004"
+          ],
+          "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' (wrong name and construction)",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046023010"
+          ],
+          "issue": "מֵאַרְבֶּה rendered with added 'como' (comparative/like) not licensed by the token",
+          "spanishSpan": "como langostas"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se avergonzará la hija de Egipto, será entregada en manos del pueblo del norte.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046024001",
+            "h24046024004"
+          ],
+          "issue": "perfect verbs rendered as future tense",
+          "spanishSpan": "Se avergonzará ... será entregada"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Dice el Señor de los ejércitos, Dios de Israel: He aquí que pondré sobre Amon y sobre No, y sobre Egipto, y sobre sus dioses, y sobre sus reyes, y sobre Faraón, y sobre los que confían en él.",
+      "notes": "multiple token mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046025002"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046025007"
+          ],
+          "issue": "פקד rendered as 'pondré' (put/place) instead of licensed visit/punish sense",
+          "spanishSpan": "pondré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046025009",
+            "h24046025010"
+          ],
+          "issue": "אמון מנא split into two separate targets 'Amon y sobre No'",
+          "spanishSpan": "Amon y sobre No"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046025012",
+            "h24046025014",
+            "h24046025020"
+          ],
+          "issue": "reordered and duplicated Pharaoh/Egypt elements not matching token sequence",
+          "spanishSpan": "y sobre Egipto, ... y sobre Faraón"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los entregaré en manos de los que buscan su alma, y en manos de Nabucodonosor, rey de Babilonia, y en manos de sus siervos, y después de esto habitarás como en los días de antiguo, dice el Señor.",
+      "notes": "3fs subject preserved as feminine in tokens; no license for 2s shift or 'Señor'",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046026013"
+          ],
+          "issue": "verb is 3fs (she/it will dwell) but Spanish renders 2s (habitarás)",
+          "spanishSpan": "habitarás"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046026016",
+            "h24046026017"
+          ],
+          "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' instead of utterance/declaration of YHWH",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046026004"
+          ],
+          "issue": "נַפְשָׁם (3mp their soul/life) rendered as singular 'su alma'",
+          "spanishSpan": "su alma"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tú, no temas, siervo mío Jacob, dice el Señor, porque contigo estoy, para que te haga todo bien a todas las naciones a las cuales te he echado, y a ti no te haré todo bien; y te castigaré con juicio, y no te limpiaré de impiedad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046028013",
+            "h24046028022"
+          ],
+          "issue": "כָלָה rendered as 'todo bien' (adds positive concept; tokens indicate complete destruction)",
+          "spanishSpan": "todo bien"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046028025",
+            "h24046028026",
+            "h24046028027"
+          ],
+          "issue": "adds 'de impiedad' not present in tokens; נקה only licenses 'cleanse' without object specification",
+          "spanishSpan": "de impiedad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24046028006",
+            "h24046028007"
+          ],
+          "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' (wrong lemma and name form)",
+          "spanishSpan": "dice el Señor"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:57:19.852850+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 28,
+    "verses": 28,
+    "input": 63855,
+    "cachedInput": 25088,
+    "output": 5236,
+    "reasoning": 25981,
+    "usd": 0.2774,
+    "byProvider": {
+      "xai": {
+        "calls": 28,
+        "input": 63855,
+        "output": 5236,
+        "reasoning": 25981,
+        "usd": 0.2774
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 28,
+        "input": 63855,
+        "output": 5236,
+        "reasoning": 25981,
+        "usd": 0.2774
+      }
+    },
+    "usdPerVerse": 0.0099,
+    "bibleAtThisRate": 308.0,
+    "book": "jeremias",
+    "chapter": 46
+  }
+}

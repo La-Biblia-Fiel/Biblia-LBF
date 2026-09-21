@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:11",
+  "chapter": 20,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el SEÑOR me ha hecho como un valiente guerrero, por eso los que me persiguen tropezarán y no podrán vencerme; se avergonzarán mucho, porque no han entendido nada, y no serán recordados por siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020011016",
+        "h24020011017",
+        "h24020011018",
+        "h24020011019"
+      ],
+      "issue": "omits כְּלִמַּת עוֹלָם and changes subject/meaning of לֹא תִשָּׁכֵחַ; Spanish renders pursuers 'not remembered' instead of shame not forgotten",
+      "spanishSpan": "y no serán recordados por siempre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020011015"
+      ],
+      "issue": "adds 'nada' not present in הִשְׂכִּילוּ",
+      "spanishSpan": "no han entendido nada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

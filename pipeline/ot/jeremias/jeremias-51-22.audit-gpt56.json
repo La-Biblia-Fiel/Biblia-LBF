@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:22",
+  "chapter": 51,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y te destruiré a ti en medio del hombre y de la mujer, y te destruiré a ti en medio del anciano y del joven, y te destruiré a ti en medio del mozo y de la doncella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051022001",
+        "h24051022002",
+        "h24051022005",
+        "h24051022006",
+        "h24051022009",
+        "h24051022010"
+      ],
+      "issue": "adds 'en medio del' and renders בְךָ + verb as destroying 'you in the midst of' the groups; Hebrew is 'I will dash you in pieces' (with the listed groups as objects of the shattering)",
+      "spanishSpan": "te destruiré a ti en medio del"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051022001",
+        "h24051022005",
+        "h24051022009"
+      ],
+      "issue": "renders verb as generic 'destruiré'; lemma H5310 piel is specifically 'dash/shatter in pieces'",
+      "spanishSpan": "destruiré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

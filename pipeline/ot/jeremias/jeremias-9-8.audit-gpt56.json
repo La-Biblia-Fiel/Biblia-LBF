@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:8",
+  "chapter": 9,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Su lengua es una flecha de saetero, hablan engaño; en la boca dicen paz al vecino, pero en el corazón ponen trampas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009008001"
+      ],
+      "issue": "adds 'de saetero' (archer) not licensed by חֵץ",
+      "spanishSpan": "flecha de saetero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009008002",
+        "h24009008004",
+        "h24009008009",
+        "h24009008011"
+      ],
+      "issue": "shifts 3ms singular verbs and 3mp possessive to plural 'hablan/dicen/ponen'",
+      "spanishSpan": "hablan; dicen; ponen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009008012"
+      ],
+      "issue": "pluralizes אָרְבּוֹ to 'trampas'",
+      "spanishSpan": "ponen trampas"
+    }
+  ],
+  "notes": "also 'corazón' for קִרְבּוֹ is interpretive smoothing",
+  "discardedUncitedFindings": 0
+}

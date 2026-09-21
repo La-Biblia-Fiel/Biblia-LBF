@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:29",
+  "chapter": 48,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Hemos oído la arrogancia de Moab, su altivez y su orgullo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048029004",
+        "h24048029005"
+      ],
+      "issue": "omits licensed concept גֵּאֶה מְאֹד (very proud)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048029009",
+        "h24048029010"
+      ],
+      "issue": "omits licensed concept וְרֻם לִבּוֹ (height of his heart)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

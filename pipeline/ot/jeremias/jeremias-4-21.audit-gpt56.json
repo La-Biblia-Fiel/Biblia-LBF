@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:21",
+  "chapter": 4,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Hasta cuándo veré señales y escucharé el sonido de la trompeta?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004021004"
+      ],
+      "issue": "נֵּס is singular; Spanish renders it plural 'señales'",
+      "spanishSpan": "señales"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

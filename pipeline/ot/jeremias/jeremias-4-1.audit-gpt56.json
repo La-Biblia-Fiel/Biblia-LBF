@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:1",
+  "chapter": 4,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Si Israel vuelve a mí, dice Yavé, y aparta tus abominaciones de delante de mí, y no te moverás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004001002",
+        "h24004001007",
+        "h24004001009",
+        "h24004001013"
+      ],
+      "issue": "renders 2ms verbs as 3rd-person reference to Israel instead of direct 2ms address",
+      "spanishSpan": "Si Israel vuelve"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004001008"
+      ],
+      "issue": "collapses the second conditional conjunction into a simple 'y'",
+      "spanishSpan": "y aparta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004001004",
+        "h24004001005"
+      ],
+      "issue": "renders נְאֻם יְהוָה as 'dice Yavé' (paraphrase not licensed by tokens)",
+      "spanishSpan": "dice Yavé"
+    }
+  ],
+  "notes": "person shift and missing conditional structure violate the 2ms morphology",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,1020 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 4,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "passed": [
+    12,
+    22,
+    25
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Si Israel vuelve a mí, dice Yavé, y aparta tus abominaciones de delante de mí, y no te moverás.",
+      "notes": "person shift and missing conditional structure violate the 2ms morphology",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004001002",
+            "h24004001007",
+            "h24004001009",
+            "h24004001013"
+          ],
+          "issue": "renders 2ms verbs as 3rd-person reference to Israel instead of direct 2ms address",
+          "spanishSpan": "Si Israel vuelve"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004001008"
+          ],
+          "issue": "collapses the second conditional conjunction into a simple 'y'",
+          "spanishSpan": "y aparta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004001004",
+            "h24004001005"
+          ],
+          "issue": "renders נְאֻם יְהוָה as 'dice Yavé' (paraphrase not licensed by tokens)",
+          "spanishSpan": "dice Yavé"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y jurarás por la vida de Yavé en verdad, en justicia y en rectitud, y las naciones bendecirán en él y en él se gloriarán.",
+      "notes": "Yavé also deviates from required Jehová for 3068",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004002007"
+          ],
+          "issue": "hithpael והתברכו rendered as active 'bendecirán' instead of reflexive/passive blessing themselves or being blessed",
+          "spanishSpan": "las naciones bendecirán en él"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Circuncidados seáis al SEÑOR, quitad las cubiertas de vuestros corazones, oh hombres de Judá y habitantes de Jerusalén, para que no salga como fuego mi ira y arda, y no quede quien la apague, por la maldad de vuestras obras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004004004"
+          ],
+          "issue": "עָרְל֣וֹת rendered as 'cubiertas' (adds interpretive concept of coverings not licensed by lemma H6190 or surface)",
+          "spanishSpan": "las cubiertas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Anunciad en Judá y proclamad en Jerusalén, decidle: Tocad la trompeta por toda la tierra. Decid: Reunid, y entrad en el refugio, oh habitantes de la tierra.",
+      "notes": "multiple unlicensed additions and stem shifts",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004005006"
+          ],
+          "issue": "adds verb 'tocad' with no corresponding verb token; only the noun שׁוֹפָר is present",
+          "spanishSpan": "Tocad la trompeta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004005012",
+            "h24004005013",
+            "h24004005014",
+            "h24004005015"
+          ],
+          "issue": "renders cohortative + 'to the cities of the fortress' as 'entrad en el refugio'",
+          "spanishSpan": "entrad en el refugio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004005011"
+          ],
+          "issue": "renders niphal 'be gathered' as active 'reunid'",
+          "spanishSpan": "Reunid"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004005005",
+            "h24004005010"
+          ],
+          "issue": "inserts dative 'le' with no token support",
+          "spanishSpan": "decidle"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004005007"
+          ],
+          "issue": "adds vocative 'oh habitantes de la tierra' absent from tokens",
+          "spanishSpan": "oh habitantes de la tierra"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Elevad la bandera sobre Sion, huid, no os detengáis, porque traigo un mal de la parte septentrional y una gran destrucción.",
+      "notes": "2mp address rendered in wrong Spanish variety",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004006001",
+            "h24004006004",
+            "h24004006006"
+          ],
+          "issue": "uses Peninsular vosotros imperative and object forms (Elevad, huid, os detengáis) instead of Latin American ustedes (eleven, huyan, se detengan)",
+          "spanishSpan": "Elevad ... huid, no os detengáis"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Subirá un león de su covacha, y devorará a las naciones; saldrá de su lugar para hacer tu tierra desolada, y tus ciudades quedarán sin habitantes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004007004",
+            "h24004007005"
+          ],
+          "issue": "adds 'devorará' (devour) where tokens only license 'destroying nations' (mashchit goyim)",
+          "spanishSpan": "y devorará a las naciones"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y en aquel día, dice el SEÑOR, se consumirá el corazón del rey y el corazón de los príncipes, y los sacerdotes se desmayarán, y los profetas se confundirán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004009006"
+          ],
+          "issue": "יֹאבַד (perish/destroy) rendered as 'se consumirá' (consume)",
+          "spanishSpan": "se consumirá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004009011"
+          ],
+          "issue": "נָשַׁמּוּ (be appalled/desolate) rendered as 'se desmayarán' (faint)",
+          "spanishSpan": "se desmayarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004009014"
+          ],
+          "issue": "יִתְמָהוּ (be astounded/amazed) rendered as 'se confundirán' (be confused)",
+          "spanishSpan": "se confundirán"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo dije: ¡Ay, Señor Jehová! Cierto que has engañado a este pueblo y a Jerusalén, diciendo: Habrá paz; y vendrá la espada hasta la vida.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004010014"
+          ],
+          "issue": "omits the 2mp suffix 'to you' after 'peace will be'",
+          "spanishSpan": "Habrá paz"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004010015"
+          ],
+          "issue": "changes 'the sword will touch/reach' to 'the sword will come'",
+          "spanishSpan": "vendrá la espada"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquel tiempo se dirá al pueblo y a Jerusalén: Viento de los desiertos, camino de un pueblo que no viene para ofrecer sacrificios ni aportar ofrendas.",
+      "notes": "entire wind clause and negatives are unlicensed additions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004011005"
+          ],
+          "issue": "omits demonstrative 'este' from הַזֶּה",
+          "spanishSpan": "al pueblo y a Jerusalén"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004011007",
+            "h24004011008",
+            "h24004011009",
+            "h24004011010",
+            "h24004011011",
+            "h24004011012",
+            "h24004011013"
+          ],
+          "issue": "replaces רוח צח שפיים במדבר דרך בת עמי with unrelated 'Viento de los desiertos, camino de un pueblo'",
+          "spanishSpan": "Viento de los desiertos, camino de un pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004011014",
+            "h24004011015",
+            "h24004011016",
+            "h24004011017"
+          ],
+          "issue": "replaces לא לזרות ולא להבר with invented concept of not coming to offer sacrifices and offerings",
+          "spanishSpan": "que no viene para ofrecer sacrificios ni aportar ofrendas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí como nubes subirán, y como viento huracanado serán mis carros; volarán mis caballos desde los cuervos. ¡Ay de nosotros, porque somos saqueados!",
+      "notes": "multiple lexical and morphological mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004013005"
+          ],
+          "issue": "person mismatch: 'mis carros' vs 3ms suffix 'his chariots'",
+          "spanishSpan": "mis carros"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004013008"
+          ],
+          "issue": "person mismatch: 'mis caballos' vs 3ms suffix 'his horses'",
+          "spanishSpan": "mis caballos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004013007"
+          ],
+          "issue": "wrong noun: 'cuervos' for nesharim (eagles)",
+          "spanishSpan": "cuervos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004013006"
+          ],
+          "issue": "adds 'volarán' (fly) not licensed by qallu (are swift)",
+          "spanishSpan": "volarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004013003"
+          ],
+          "issue": "number mismatch: plural 'subirán' vs 3ms verb",
+          "spanishSpan": "subirán"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Lava tu corazón de la maldad, Jerusalén, para que seas salvada. Hasta cuándo te quedarás en tu interior con pensamientos de humillación.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004014009",
+            "h24004014011",
+            "h24004014012"
+          ],
+          "issue": "תָּלִין is 3fs with subject מחשבות; Spanish shifts subject to 2fs addressee and misrenders אוֹנֵךְ as humillación",
+          "spanishSpan": "te quedarás ... con pensamientos de humillación"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque hay un quejumbroso que viene de Dan, y un quejumbroso que anuncia maldad desde el monte de Efraín.",
+      "notes": "Spanish adds unlicensed person and motion verb; omits voice",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004015002"
+          ],
+          "issue": "omits קוֹל (voice/sound) and replaces with personified quejumbroso",
+          "spanishSpan": "un quejumbroso"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004015003",
+            "h24004015004"
+          ],
+          "issue": "changes מַגִּיד מִדָּן (announcing from Dan) to que viene de Dan",
+          "spanishSpan": "que viene de Dan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004015005",
+            "h24004015006"
+          ],
+          "issue": "restructures second clause and adds interpretive person",
+          "spanishSpan": "un quejumbroso que anuncia maldad"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Anuncien a las naciones: ‘¡Miren! Aquí vienen los que anuncian la salvación desde la lejana tierra, y en Judá se escucha su voz!’",
+      "notes": "multiple concept additions and participant/object shifts",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004016004",
+            "h24004016006"
+          ],
+          "issue": "misassigns second imperative and its object; הַשְׁמִ֣יעוּ עַל־יְרוּשָׁלִַ֔ם becomes part of announcement to nations instead of make-heard upon Jerusalem",
+          "spanishSpan": "Anuncien a las naciones"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004016007"
+          ],
+          "issue": "adds 'anuncian la salvación' not licensed by נֹצְרִ֥ים (watchers/guards)",
+          "spanishSpan": "los que anuncian la salvación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004016011",
+            "h24004016013",
+            "h24004016014",
+            "h24004016015"
+          ],
+          "issue": "changes active 'they gave their voice upon the cities of Judah' to passive 'en Judá se escucha su voz'",
+          "spanishSpan": "y en Judá se escucha su voz"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Como guardianes de los campos, están alrededor de ti; porque me han afligido, dice el SEÑOR.",
+      "notes": "multiple participant, tense, and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004017004"
+          ],
+          "issue": "עָלֶיהָ (upon her, 3fs) rendered as 'alrededor de ti' (around you, 2fs)",
+          "spanishSpan": "alrededor de ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004017008"
+          ],
+          "issue": "מָרָתָה (she has rebelled, 3fs) rendered as 'me han afligido' (they have afflicted me)",
+          "spanishSpan": "me han afligido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004017003"
+          ],
+          "issue": "הָי֥וּ (perfect 'have been') rendered as present 'están'",
+          "spanishSpan": "están"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004017002"
+          ],
+          "issue": "שָׂדַ֔י (field, singular) rendered as plural 'campos'",
+          "spanishSpan": "campos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tu camino y tus acciones te han hecho esto. Esta es tu maldad, porque te has vuelto amargo; porque te ha herido hasta el corazón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004018009"
+          ],
+          "issue": "adds verb 'te has vuelto' and makes 2fs addressee the subject of becoming bitter; token is only adjective 'bitter' with no verb or explicit subject",
+          "spanishSpan": "te has vuelto amargo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004018011"
+          ],
+          "issue": "renders נָגַע as 'herido' (wounded); token only licenses 'touched/reached'",
+          "spanishSpan": "te ha herido"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Desde mí, desde mí, siento dolor. Las murallas de mi corazón se han derrumbado. Mi corazón no guarda silencio, porque he oído el sonido de la trompeta y mi alma ha sentido el grito de la batalla.",
+      "notes": "multiple additions and interpretive expansions beyond token license",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004019001",
+            "h24004019002"
+          ],
+          "issue": "adds 'siento dolor' and renders as 'desde mí' instead of preserving 'my inward parts' (repeated)",
+          "spanishSpan": "Desde mí, desde mí, siento dolor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004019003",
+            "h24004019004",
+            "h24004019005"
+          ],
+          "issue": "renders הֹמֶה as 'se han derrumbado' (collapsed) instead of the licensed moaning/roaring",
+          "spanishSpan": "Las murallas de mi corazón se han derrumbado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004019011",
+            "h24004019012",
+            "h24004019013",
+            "h24004019014",
+            "h24004019015"
+          ],
+          "issue": "inserts 'he oído' and 'ha sentido' (I have heard / has felt) which the tokens do not license",
+          "spanishSpan": "he oído el sonido de la trompeta y mi alma ha sentido el grito de la batalla"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Fragmento sobre fragmento se ha llamado, porque toda la tierra ha sido devastada. De repente se han derrumbado mis tiendas, y en un instante se han desvanecido mis cortinas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004020010",
+            "h24004020012",
+            "h24004020013"
+          ],
+          "issue": "Spanish supplies two distinct verbs (derrumbado, desvanecido) and an action 'vanished' where tokens license only one verb shuddedu applying to both tents and curtains, with rega' only marking the moment",
+          "spanishSpan": "se han derrumbado mis tiendas, y en un instante se han desvanecido mis cortinas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004020001",
+            "h24004020003"
+          ],
+          "issue": "Spanish 'fragmento' adds a specific sense of broken piece not licensed by lemma 7667 (shever = destruction/breach)",
+          "spanishSpan": "Fragmento sobre fragmento"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Hasta cuándo veré señales y escucharé el sonido de la trompeta?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004021004"
+          ],
+          "issue": "נֵּס is singular; Spanish renders it plural 'señales'",
+          "spanishSpan": "señales"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Vi la tierra y estaba vacía y desolada; miré al cielo y no había luz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004023004"
+          ],
+          "issue": "omits והנה / behold",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004023001"
+          ],
+          "issue": "adds second verb miré not present in tokens",
+          "spanishSpan": "miré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004023008"
+          ],
+          "issue": "changes plural heavens to singular cielo",
+          "spanishSpan": "cielo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004023010"
+          ],
+          "issue": "omits 3mp suffix their in their light",
+          "spanishSpan": "luz"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Vi los montes y estaban temblando; todas las colinas se desmoronaban.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004024007"
+          ],
+          "issue": "Spanish 'desmoronaban' adds crumbling/collapse concept not licensed by lemma 7043 or its hitpalpel form",
+          "spanishSpan": "se desmoronaban"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Vi y no había nada; el campo se había convertido en desierto, y todas las ciudades estaban en ruinas, por causa del SEÑOR, por causa de la ira de su rostro.",
+      "notes": "multiple additions and interpretive expansions beyond tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004026002"
+          ],
+          "issue": "adds 'no había nada' not licensed by 'vehinneh'",
+          "spanishSpan": "y no había nada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004026003",
+            "h24004026004"
+          ],
+          "issue": "interprets juxtaposition as 'el campo se había convertido en desierto'",
+          "spanishSpan": "el campo se había convertido en desierto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004026012"
+          ],
+          "issue": "renders 'appo' as 'rostro' (face) instead of anger/nose",
+          "spanishSpan": "de su rostro"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque el SEÑOR ha dicho: ‘La tierra quedará desolada, pero no la destruiré por completo.’",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004027009",
+            "h24004027010",
+            "h24004027011"
+          ],
+          "issue": "Spanish renders וְכָלָה לֹא אֶעֱשֶׂה as 'no la destruiré por completo', introducing verb 'destruir' and explicit object 'la' not licensed by lemma/morph of עשה or כלה",
+          "spanishSpan": "no la destruiré por completo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004027005",
+            "h24004027006"
+          ],
+          "issue": "Spanish 'quedará desolada' adds 'quedará' and changes structure; tokens only license 'desolation will be'",
+          "spanishSpan": "La tierra quedará desolada"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso la tierra se entristecerá, y los cielos se oscurecerán por encima, porque hablé y no me arrepentí, ni volveré atrás de lo que dije.",
+      "notes": "collapses two distinct verbs into one and inserts interpretive referent",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004028011"
+          ],
+          "issue": "omits זַמֹּתִי (I have purposed/planned) licensed by the token",
+          "spanishSpan": "porque hablé"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004028011"
+          ],
+          "issue": "adds 'de lo que dije' (from what I said) with no corresponding token; 'it' refers to the purpose, not speech",
+          "spanishSpan": "ni volveré atrás de lo que dije"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por el ruido del arado y el sonido del surco, toda la ciudad huye; vienen en nubes y en velos, toda la ciudad queda desierta, y no hay nadie que la habite.",
+      "notes": "Spanish fabricates agricultural imagery absent from all tokens.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004029002"
+          ],
+          "issue": "פָּרָשׁ (horseman/rider) rendered as 'arado' (plow)",
+          "spanishSpan": "arado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004029003",
+            "h24004029004"
+          ],
+          "issue": "רֹמֵה קֶשֶׁת (archer/bow-bender) rendered as 'sonido del surco'",
+          "spanishSpan": "sonido del surco"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004029009",
+            "h24004029010"
+          ],
+          "issue": "עָבִים and כֵּפִים (clouds/thickets and rocks) rendered as 'nubes y en velos'",
+          "spanishSpan": "nubes y en velos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004029005",
+            "h24004029008",
+            "h24004029011"
+          ],
+          "issue": "fleeing city and ascent of riders rendered as city fleeing then people coming in clouds/velos",
+          "spanishSpan": "toda la ciudad huye; vienen en nubes y en velos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Qué harás cuando estés desnuda? ¿Qué harás cuando te vistes de luto y te pintas los ojos con polvo? ¿Qué harás cuando te rasgas la piel de los ojos en vano? Los que te aborrecen querrán tu vida.",
+      "notes": "multiple lexical mismatches and additions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004030001"
+          ],
+          "issue": "שָׁדוּד (devastated) rendered as 'desnuda'",
+          "spanishSpan": "estés desnuda"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004030006"
+          ],
+          "issue": "שָׁנִי (scarlet) rendered as 'luto'",
+          "spanishSpan": "te vistes de luto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004030013",
+            "h24004030014"
+          ],
+          "issue": "adds 'piel' and changes sense of tearing/painting eyes",
+          "spanishSpan": "te rasgas la piel de los ojos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004030019"
+          ],
+          "issue": "עֹגְבִים (lovers) rendered as 'los que te aborrecen'",
+          "spanishSpan": "Los que te aborrecen"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque he oído el ruido de un enfermo, como el ruido de una mujer que da a luz; el ruido de la hija de Sión: ¡Ay de mí! Porque mi alma está cansada de los que me matan.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004031010",
+            "h24004031011",
+            "h24004031012"
+          ],
+          "issue": "omits entirely the two verbs describing the daughter of Zion's actions (gasping and spreading hands)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004031003"
+          ],
+          "issue": "renders feminine participle as masculine 'un enfermo'",
+          "spanishSpan": "un enfermo"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho Yavé a la casa de Judá y a Jerusalén: Plantad para ustedes, pero no sembréis en espinos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004003005",
+            "h24004003006"
+          ],
+          "issue": "adds 'casa de' not present in איש יהודה",
+          "spanishSpan": "a la casa de Judá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004003008",
+            "h24004003010"
+          ],
+          "issue": "נִירוּ לָכֶם נִיר rendered as 'Plantad' (plant) instead of break up/till the ground",
+          "spanishSpan": "Plantad para ustedes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004003012"
+          ],
+          "issue": "vosotros form 'sembréis' instead of Latin American 'siembren'",
+          "spanishSpan": "no sembréis"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, cíñete con cilicio, lúgubremente llora y lamenta, porque no ha cesado el enojo del SEÑOR de sobre ustedes.",
+      "notes": "multiple mismatches in number, person and suffix",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004008003",
+            "h24004008005",
+            "h24004008006"
+          ],
+          "issue": "2mp imperatives rendered as singular tú forms instead of plural ustedes",
+          "spanishSpan": "cíñete ... llora y lamenta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004008004"
+          ],
+          "issue": "plural absolute noun rendered singular",
+          "spanishSpan": "cilicio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24004008013"
+          ],
+          "issue": "1cp suffix 'from us' changed to 'de sobre ustedes'",
+          "spanishSpan": "de sobre ustedes"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "updated": "2026-09-20T01:28:52.303177+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 31,
+    "verses": 31,
+    "input": 68280,
+    "cachedInput": 10880,
+    "output": 5813,
+    "reasoning": 27027,
+    "usd": 0.3173,
+    "byProvider": {
+      "xai": {
+        "calls": 31,
+        "input": 68280,
+        "output": 5813,
+        "reasoning": 27027,
+        "usd": 0.3173
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 31,
+        "input": 68280,
+        "output": 5813,
+        "reasoning": 27027,
+        "usd": 0.3173
+      }
+    },
+    "usdPerVerse": 0.0102,
+    "bibleAtThisRate": 318.0,
+    "book": "jeremias",
+    "chapter": 4
+  }
+}

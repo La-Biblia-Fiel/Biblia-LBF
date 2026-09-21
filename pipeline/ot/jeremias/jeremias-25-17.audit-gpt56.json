@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:17",
+  "chapter": 25,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Tomé la copa de la mano del Señor y hice beber a todas las naciones a las que el Señor me envió.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025017005",
+        "h24025017012"
+      ],
+      "issue": "replaces proper name יהוה with title 'Señor'",
+      "spanishSpan": "del Señor ... el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

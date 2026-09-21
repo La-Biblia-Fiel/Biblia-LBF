@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:33",
+  "chapter": 52,
+  "verse": 33,
+  "candidateLabel": "gpt56",
+  "spanish": "Y le cambió sus vestidos y comió pan delante de él siempre, todos los días de su vida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052033004"
+      ],
+      "issue": "omits licensed concept 'prison' from כִלְאוֹ",
+      "spanishSpan": "sus vestidos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052033001",
+        "h24052033002",
+        "h24052033003",
+        "h24052033004"
+      ],
+      "issue": "adds indirect object le and restructures direct object; Hebrew is change garments-of-prison, not change clothes for him",
+      "spanishSpan": "le cambió sus vestidos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

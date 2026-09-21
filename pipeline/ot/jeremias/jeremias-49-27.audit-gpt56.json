@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:27",
+  "chapter": 49,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Y encenderé fuego en la muralla de Damasco, y devorará las torres de Ben-Hadad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049027006"
+      ],
+      "issue": "ארמנות (palaces/citadels/fortresses) rendered as torres (towers)",
+      "spanishSpan": "las torres"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

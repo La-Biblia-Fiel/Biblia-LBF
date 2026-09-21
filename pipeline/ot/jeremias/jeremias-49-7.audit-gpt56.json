@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:7",
+  "chapter": 49,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Para Edom, así dice el SEÑOR de los ejércitos: ¿No hay más sabiduría en Temán? Ha perecido la conseja de los hijos, y la sabiduría de ellos ha sido cortada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049007012"
+      ],
+      "issue": "מִבָּנִים parsed as qal participle of בין (discerning/understanding ones); Spanish renders as 'hijos' (sons)",
+      "spanishSpan": "de los hijos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

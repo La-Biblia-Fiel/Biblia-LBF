@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:22",
+  "chapter": 25,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a todos los reyes de Tiro, y a todos los reyes de Sidón, y a los reyes que están al otro lado del mar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025022011"
+      ],
+      "issue": "omits licensed noun הָאִי (the island/coast) and rephrases the construct + relative clause as location of the kings",
+      "spanishSpan": "y a los reyes que están al otro lado del mar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

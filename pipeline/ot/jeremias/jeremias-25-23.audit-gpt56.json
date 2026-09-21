@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:23",
+  "chapter": 25,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a Dedán y a Tema y a Buz, y a todos los cortadores de cabello.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025023009",
+        "h24025023010"
+      ],
+      "issue": "passive participle + construct 'cut-off of corner' rendered as active 'cortadores de cabello'",
+      "spanishSpan": "cortadores de cabello"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

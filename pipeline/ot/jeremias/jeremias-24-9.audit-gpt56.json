@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 24:9",
+  "chapter": 24,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los entregaré para ser objeto de maldición, de desprecio, de escarnio y de maldición en todas las naciones a donde los he dispersado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024009002",
+        "h24024009003",
+        "h24024009004",
+        "h24024009005"
+      ],
+      "issue": "omits לְרָעָה and לְכֹל מַמְלְכוֹת הָאָרֶץ entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024009011"
+      ],
+      "issue": "renders מְקֹמ֖וֹת as naciones instead of preserving places/locations",
+      "spanishSpan": "naciones"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024009013"
+      ],
+      "issue": "renders hiphil of drive/banish as dispersado (scatter)",
+      "spanishSpan": "dispersado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024009006",
+        "h24024009007",
+        "h24024009008",
+        "h24024009009"
+      ],
+      "issue": "restructures and duplicates maldición while inserting interpretive 'objeto de'",
+      "spanishSpan": "para ser objeto de maldición, de desprecio, de escarnio y de maldición"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

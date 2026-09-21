@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:3",
+  "chapter": 22,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice Jehová: Haced justicia y derecho, y librad al cautivo de la mano del opresor, y no oprimáis al extranjero, al huérfano ni a la viuda, y no derraméis sangre inocente en este lugar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022003008"
+      ],
+      "issue": "גָז֖וּל (robbed/plundered one) rendered as 'cautivo' (captive), adding unlicensed concept",
+      "spanishSpan": "al cautivo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

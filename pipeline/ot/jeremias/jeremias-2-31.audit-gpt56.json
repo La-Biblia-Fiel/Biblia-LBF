@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:31",
+  "chapter": 2,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Es este vuestro pueblo, oh generación, que ha visto la palabra del SEÑOR? ¿Fui para con Israel como desierto, o como tierra de tinieblas? ¿Por qué dice mi pueblo: No volveremos a ti?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002031001",
+        "h24002031002",
+        "h24002031003",
+        "h24002031004",
+        "h24002031005"
+      ],
+      "issue": "restructures opening address and imperative into unrelated question about 'vuestro pueblo' and changes 'see!' to 'has seen'",
+      "spanishSpan": "¿Es este vuestro pueblo, oh generación, que ha visto la palabra del SEÑOR?"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002031015"
+      ],
+      "issue": "omits the 'we have roamed/wandered' clause entirely",
+      "spanishSpan": "No volveremos a ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002031002"
+      ],
+      "issue": "uses vosotros form 'vuestro' instead of licensed ustedes address",
+      "spanishSpan": "vuestro"
+    }
+  ],
+  "notes": "multiple structural and lexical mismatches in first clause alone",
+  "discardedUncitedFindings": 0
+}

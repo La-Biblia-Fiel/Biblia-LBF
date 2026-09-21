@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:39",
+  "chapter": 48,
+  "verse": 39,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Cómo se ha desvanecido el orgullo de Moab! ¡Cómo ha dado la espalda Moab y ha quedado avergonzado! Y será Moab objeto de risa y de maldición para todos sus vecinos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048039003"
+      ],
+      "issue": "omits the hiphil perfect 3cp verb הֵילִ֔ילוּ entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048039002"
+      ],
+      "issue": "adds unlicensed concept 'el orgullo' and renders חַתָּה as 'se ha desvanecido'",
+      "spanishSpan": "se ha desvanecido el orgullo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048039012"
+      ],
+      "issue": "renders מְחִתָּה as 'maldición' (curse) instead of destruction/terror/ruin",
+      "spanishSpan": "de maldición"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

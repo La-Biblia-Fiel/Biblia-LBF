@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:7",
+  "chapter": 20,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Me has endurecido, Jehová, y he sido endurecido; he sido todo el día objeto de risa, y todos me han burlado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020007001",
+        "h24020007003"
+      ],
+      "issue": "Spanish renders פתה (entice/deceive) verbs as endurecer (harden), which is unlicensed by those tokens",
+      "spanishSpan": "Me has endurecido... y he sido endurecido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020007004",
+        "h24020007005"
+      ],
+      "issue": "Spanish assigns חזק + יכל sense to the wrong clause and omits the actual prevail/overpower sequence",
+      "spanishSpan": "Me has endurecido, Jehová, y he sido endurecido"
+    }
+  ],
+  "notes": "first two clauses fail to match lemma/morphology of the פתה and חזק tokens",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:7",
+  "chapter": 28,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero escucha ahora la palabra que te digo en tus oídos y en los oídos de todo el pueblo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028007001"
+      ],
+      "issue": "adds 'Pero' (but) not licensed by the affirmation particle אַךְ",
+      "spanishSpan": "Pero"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

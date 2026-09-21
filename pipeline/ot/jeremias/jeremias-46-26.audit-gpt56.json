@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:26",
+  "chapter": 46,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los entregaré en manos de los que buscan su alma, y en manos de Nabucodonosor, rey de Babilonia, y en manos de sus siervos, y después de esto habitarás como en los días de antiguo, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046026013"
+      ],
+      "issue": "verb is 3fs (she/it will dwell) but Spanish renders 2s (habitarás)",
+      "spanishSpan": "habitarás"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046026016",
+        "h24046026017"
+      ],
+      "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' instead of utterance/declaration of YHWH",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046026004"
+      ],
+      "issue": "נַפְשָׁם (3mp their soul/life) rendered as singular 'su alma'",
+      "spanishSpan": "su alma"
+    }
+  ],
+  "notes": "3fs subject preserved as feminine in tokens; no license for 2s shift or 'Señor'",
+  "discardedUncitedFindings": 0
+}

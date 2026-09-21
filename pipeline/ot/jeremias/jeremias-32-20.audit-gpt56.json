@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:20",
+  "chapter": 32,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Has puesto señales y milagros en la tierra de Egipto hasta hoy, y en Israel y en los hombres, y te has hecho un nombre como hoy.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032020001"
+      ],
+      "issue": "omits relative clause marker אֲשֶׁר, converting relative clause into independent statement",
+      "spanishSpan": "Has puesto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032020011"
+      ],
+      "issue": "changes number from singular אָדָם to plural 'hombres'",
+      "spanishSpan": "en los hombres"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

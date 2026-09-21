@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:5",
+  "chapter": 7,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero si mejoráis sus caminos y sus actos, si juzgáis justamente entre uno y otro, entonces harán bien.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007005004",
+        "h24007005011"
+      ],
+      "issue": "2mp verbs rendered as 3pl (harán) instead of 2pl ustedes",
+      "spanishSpan": "harán bien"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007005004",
+        "h24007005011"
+      ],
+      "issue": "vosotros 2pl forms used instead of Latin American ustedes",
+      "spanishSpan": "mejoráis, juzgáis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007005006",
+        "h24007005008"
+      ],
+      "issue": "2mp suffixes rendered as 3rd-person sus instead of 2nd-person",
+      "spanishSpan": "sus caminos y sus actos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007005014",
+        "h24007005016"
+      ],
+      "issue": "אִישׁ וּבֵין רֵעֵהוּ rendered as generic uno y otro, omitting man/neighbor relation",
+      "spanishSpan": "entre uno y otro"
+    }
+  ],
+  "notes": "multiple person and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

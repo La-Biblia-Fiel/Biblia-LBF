@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:8",
+  "chapter": 25,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, dice el Señor de los ejércitos, porque no me han escuchado a mí, a mis palabras:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025008002"
+      ],
+      "issue": "omits licensed adverb כֹּה (thus)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025008004"
+      ],
+      "issue": "renders יְהוָה as Señor (title) instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025008011"
+      ],
+      "issue": "adds unlicensed 'a mí' before direct object; tokens only license 'mis palabras'",
+      "spanishSpan": "a mí, a mis palabras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:14",
+  "chapter": 52,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y todas las murallas de Jerusalén alrededor, quebraron todos los ejércitos de los caldeos, que estaban con el capitán de la guardia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052014008"
+      ],
+      "issue": "חֵיל is singular construct; Spanish renders plural 'ejércitos'",
+      "spanishSpan": "ejércitos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052014006",
+        "h24052014008",
+        "h24052014009"
+      ],
+      "issue": "Spanish word order and comma create subject-verb inversion ambiguity not licensed by the token sequence (object-verb-subject structure)",
+      "spanishSpan": "Y todas las murallas de Jerusalén alrededor, quebraron todos los ejércitos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

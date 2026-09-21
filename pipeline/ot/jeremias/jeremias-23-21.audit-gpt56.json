@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:21",
+  "chapter": 23,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "No envié a los profetas, pero ellos corrieron. No hablé a ellos, pero ellos profetizaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023021005",
+        "h24023021010"
+      ],
+      "issue": "וְ rendered as contrastive 'pero' instead of 'y'",
+      "spanishSpan": "pero"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

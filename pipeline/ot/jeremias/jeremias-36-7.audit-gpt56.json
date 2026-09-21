@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:7",
+  "chapter": 36,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Quizás oren a Jehová y se conviertan cada uno de su mala senda, porque grande es el enojo y la ira que Jehová ha hablado contra este pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036007002",
+        "h24036007003"
+      ],
+      "issue": "replaces 'caiga su súplica' (fall of supplication) with 'oren' (pray), adding unlicensed verb and concept",
+      "spanishSpan": "Quizás oren"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

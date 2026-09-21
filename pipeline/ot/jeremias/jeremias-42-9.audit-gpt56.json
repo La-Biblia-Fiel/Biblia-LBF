@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:9",
+  "chapter": 42,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y les dijo: ‘Así ha dicho el Señor, Dios de Israel, al que enviasteis a mí para que intercediera por ustedes ante él:’",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042009005"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of licensed conventional 'Jehová'",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042009012",
+        "h24042009013"
+      ],
+      "issue": "adds interpretive 'intercediera por ustedes' not licensed by לְהַפִּיל תְּחִנַּתְכֶם",
+      "spanishSpan": "para que intercediera por ustedes ante él"
+    }
+  ],
+  "notes": "relative clause attachment and 2mp suffix handled correctly; the two additions cause fail",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:18",
+  "chapter": 29,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los perseguiré con la espada, con el hambre y con la peste, y los entregaré por temor a todas las naciones, por maldición, por espanto, por silbo y por mofa, en todas las naciones a donde los he echado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029018006",
+        "h24029018007",
+        "h24029018008",
+        "h24029018009",
+        "h24029018010"
+      ],
+      "issue": "inserts unlicensed 'por temor a' and misplaces 'todas las naciones' before the curse list, altering the 'give them to all kingdoms ... for a curse...' structure",
+      "spanishSpan": "por temor a todas las naciones, por maldición"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

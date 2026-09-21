@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:10",
+  "chapter": 21,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque he puesto mi rostro contra esta ciudad para mal, y no para bien, dice Jehová; la entregaré en mano del rey de Babilonia, y la quemará con fuego.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021010014"
+      ],
+      "issue": "תנתן (niphal impf 3fs passive 'will be given') rendered as active 1cs 'entregaré'",
+      "spanishSpan": "la entregaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

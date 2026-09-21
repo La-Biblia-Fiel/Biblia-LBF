@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:14",
+  "chapter": 8,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué nos sentamos, nos reunimos y vamos a las ciudades fortificadas para huir allí? Porque el SEÑOR nuestro Dios nos ha hecho huir y nos ha dado agua para beber, porque hemos pecado contra el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008014010",
+        "h24008014011",
+        "h24008014015"
+      ],
+      "issue": "נִדְּמָה / הִדְמָּנוּ (damah) rendered as huir/flee instead of perish/silence",
+      "spanishSpan": "para huir allí... nos ha hecho huir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008014016",
+        "h24008014017",
+        "h24008014018"
+      ],
+      "issue": "מֵי־רֹאשׁ rendered as plain drinking water instead of poisoned/gall water",
+      "spanishSpan": "nos ha dado agua para beber"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

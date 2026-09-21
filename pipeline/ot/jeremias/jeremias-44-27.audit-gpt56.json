@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:27",
+  "chapter": 44,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que estoy vigilando sobre ellos para el mal y no para el bien, y todos los varones de Judá que están en tierra de Egipto morirán con la espada y con el hambre, hasta que sean consumidos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044027007",
+        "h24044027014",
+        "h24044027015",
+        "h24044027016",
+        "h24044027017"
+      ],
+      "issue": "adds unlicensed verb 'morirán' and restructures the clause; tokens have only תמו ... בחרב וברעב עד כלותם",
+      "spanishSpan": "morirán con la espada y con el hambre, hasta que sean consumidos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

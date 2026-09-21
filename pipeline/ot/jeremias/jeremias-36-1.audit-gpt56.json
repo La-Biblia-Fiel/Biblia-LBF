@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:1",
+  "chapter": 36,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Y aconteció en el cuarto año de Joiaquín, hijo de Josías, rey de Judá, que vino la palabra de Jehová a Jeremías, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036001009"
+      ],
+      "issue": "Spanish inserts 'vino' (came) where token only licenses הָיָה (was)",
+      "spanishSpan": "vino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036001011"
+      ],
+      "issue": "Spanish omits the demonstrative הַזֶּה (this)",
+      "spanishSpan": "la palabra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

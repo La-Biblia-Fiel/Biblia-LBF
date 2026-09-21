@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:3",
+  "chapter": 2,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Santidad de Israel para el Señor, primicia de su fruto. Todo el que la come será avergonzado; mal se le vendrá sobre ellos, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002003006",
+        "h24002003007",
+        "h24002003008"
+      ],
+      "issue": "plural אכליו + יאשמו rendered as singular 'Todo el que la come será avergonzado'",
+      "spanishSpan": "Todo el que la come será avergonzado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002003012",
+        "h24002003013"
+      ],
+      "issue": "נאם יהוה rendered as 'dice el Señor' instead of declaration/utterance of YHWH",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002003008"
+      ],
+      "issue": "יאשמו (be guilty) rendered as 'avergonzado'",
+      "spanishSpan": "será avergonzado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

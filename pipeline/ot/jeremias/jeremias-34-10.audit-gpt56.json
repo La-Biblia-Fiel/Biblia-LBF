@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:10",
+  "chapter": 34,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Todos los líderes y el pueblo que habían entrado en el pacto para liberar a sus siervos y siervas hebreos, tanto varones como mujeres, los dejaron ir libres, para que ya no los esclavizaran; y los dejaron ir.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034010012",
+        "h24034010015"
+      ],
+      "issue": "adds 'hebreos' not present in any token",
+      "spanishSpan": "hebreos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

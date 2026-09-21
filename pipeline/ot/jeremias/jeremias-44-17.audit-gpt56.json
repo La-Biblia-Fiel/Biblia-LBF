@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:17",
+  "chapter": 44,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque hicimos lo que salió de nuestra boca para quemar incienso a la reina de los cielos y derramar libaciones a ella, como hicimos nosotros y nuestros padres, nuestros reyes y nuestros príncipes, en las ciudades de Judá y en las calles de Jerusalén, y comimos y fuimos bien, y no vimos mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044017026",
+        "h24044017027"
+      ],
+      "issue": "omits 'bread' and renders שבע 'be satisfied' as plain 'comimos'",
+      "spanishSpan": "comimos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044017028",
+        "h24044017029"
+      ],
+      "issue": "renders טוֹבִים as 'fuimos bien' instead of 'fuimos buenos'",
+      "spanishSpan": "fuimos bien"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

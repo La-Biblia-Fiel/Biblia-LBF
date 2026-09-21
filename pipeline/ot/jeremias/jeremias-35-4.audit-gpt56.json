@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:4",
+  "chapter": 35,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los llevé a la casa del SEÑOR, a la habitación de los hijos de Hanán hijo de Igdalías, hombre de Dios, que está junto a la habitación de los secretarios, que está sobre la habitación de Maasías hijo de Salum, guardián de la puerta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035004016"
+      ],
+      "issue": "sarim rendered as specialized 'secretarios' not licensed by lemma H8269",
+      "spanishSpan": "los secretarios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

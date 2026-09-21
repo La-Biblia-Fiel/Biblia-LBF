@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:4",
+  "chapter": 8,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás a ellos: Así ha dicho el SEÑOR: ¿Caerán y no se levantarán? ¿Se apartarán y no volverán?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008004010",
+        "h24008004012"
+      ],
+      "issue": "Hebrew 3ms singular verbs rendered as 3pl plural",
+      "spanishSpan": "¿Se apartarán y no volverán?"
+    }
+  ],
+  "notes": "number mismatch on שׁוּב verbs",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:7",
+  "chapter": 31,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así dice el Señor: Cantad a Jacob, dadle alegría. Dadle alabanza y gritad: ¡Salva, Señor, a tu pueblo, a la remanente de Israel!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031007009",
+        "h24031007010"
+      ],
+      "issue": "omits בְּרֹאשׁ הַגּוֹיִם entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031007007",
+        "h24031007008"
+      ],
+      "issue": "restructures שִׂמְחָה וְצַהֲלוּ בְּרֹאשׁ הַגּוֹיִם into 'dadle alegría... Dadle alabanza' adding unlicensed phrasing",
+      "spanishSpan": "dadle alegría. Dadle alabanza"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031007011",
+        "h24031007012"
+      ],
+      "issue": "replaces הַשְׁמִיעוּ הַלְלוּ with 'gritad' and omits the distinct hiphil/piel imperatives",
+      "spanishSpan": "gritad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

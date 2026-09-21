@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:14",
+  "chapter": 42,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Para decir: No, no iremos a Egipto, donde no veremos la guerra, ni oiremos el sonido de la trompeta, ni tendremos hambre de pan; y allí habitaremos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042014004"
+      ],
+      "issue": "omits licensed concept 'land' (אֶרֶץ construct) before Egypt",
+      "spanishSpan": "a Egipto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

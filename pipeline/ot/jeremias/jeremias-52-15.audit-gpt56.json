@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:15",
+  "chapter": 52,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y de los cautivos tomó el resto del pueblo que quedaba en la ciudad, y a los que habían caído en poder del rey de Babilonia, y al resto del pueblo, los llevó cautivos Nabozeradán, jefe de la guardia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052015001"
+      ],
+      "issue": "Spanish renders דלות as 'cautivos' (captives), adding a concept absent from the lemma/strongs H1803 and surface",
+      "spanishSpan": "de los cautivos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052015001",
+        "h24052015002",
+        "h24052015018"
+      ],
+      "issue": "Spanish restructures the opening clause and inserts 'tomó' before the exile verb, changing participant and action sequence licensed by the tokens",
+      "spanishSpan": "Y de los cautivos tomó el resto del pueblo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

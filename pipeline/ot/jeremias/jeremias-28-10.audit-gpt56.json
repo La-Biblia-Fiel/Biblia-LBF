@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:10",
+  "chapter": 28,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces Hananías el profeta tomó la vara de madera del cuello de Jeremías el profeta y la rompió.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028010005"
+      ],
+      "issue": "adds 'de madera' (wood) to the yoke, not licensed by the token",
+      "spanishSpan": "la vara de madera"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:5",
+  "chapter": 32,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a Babilonia lo llevará el rey, y allí estará hasta que yo le visite, dice el SEÑOR, porque pelearán contra los caldeos y no prevalecerán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032005002"
+      ],
+      "issue": "adds unlicensed subject 'el rey'",
+      "spanishSpan": "el rey"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032005013",
+        "h24032005017"
+      ],
+      "issue": "2mp verbs rendered as 3pl (participant shift) instead of 2pl ustedes",
+      "spanishSpan": "pelearán ... prevalecerán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

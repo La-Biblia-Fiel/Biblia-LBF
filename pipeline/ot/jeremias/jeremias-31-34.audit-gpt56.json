@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:34",
+  "chapter": 31,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no enseñará más cada uno a su prójimo, ni cada uno a su hermano, diciendo: Conoce al SEÑOR; porque todos me conocerán, desde el menor hasta el mayor, oráculo del SEÑOR; porque perdonaré sus iniquidades y no recordaré más sus pecados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031034002"
+      ],
+      "issue": "verb number mismatch: Hebrew 3mp יְלַמְּד֣וּ rendered with singular 'enseñará'",
+      "spanishSpan": "no enseñará más"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031034011"
+      ],
+      "issue": "imperative number mismatch: Hebrew 2mp דְּע֖וּ rendered with singular 'Conoce'",
+      "spanishSpan": "Conoce al SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031034025",
+        "h24031034026"
+      ],
+      "issue": "number change: singular עֲוֺנָם and חַטָּאתָם rendered as plural 'iniquidades' and 'pecados'",
+      "spanishSpan": "sus iniquidades y ... sus pecados"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

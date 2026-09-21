@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:8",
+  "chapter": 36,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Baruc, hijo de Nerías, hizo según Jeremías el profeta le había ordenado; leyó en el libro las palabras de Jehová en el templo de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036008014",
+        "h24036008015"
+      ],
+      "issue": "adds 'templo' concept not licensed by lemma 'house'",
+      "spanishSpan": "templo de Jehová"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

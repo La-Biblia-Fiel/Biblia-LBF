@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:7",
+  "chapter": 2,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los llevé a la tierra de Carmel para que comieran sus frutos y sus buenas cosas, pero ustedes os contaminasteis la tierra y mi heredad la hicisteis abominación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002007002"
+      ],
+      "issue": "2mp suffix rendered as 3rd-person 'los' instead of 2nd-person addressee",
+      "spanishSpan": "los llevé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002007012"
+      ],
+      "issue": "possessive suffix 1cs omitted; 'mi tierra' required",
+      "spanishSpan": "la tierra"
+    }
+  ],
+  "notes": "additional minor mixing of vos/ustedes forms present but secondary to the above",
+  "discardedUncitedFindings": 0
+}

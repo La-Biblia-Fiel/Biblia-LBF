@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:30",
+  "chapter": 23,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, dice el SEÑOR, estoy en contra de los profetas, que roban mis palabras, cada uno de su compañero.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023030006"
+      ],
+      "issue": "YHWH rendered as SEÑOR instead of conventional Jehová",
+      "spanishSpan": "el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

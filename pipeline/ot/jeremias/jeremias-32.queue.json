@@ -1,0 +1,964 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 32,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+  ],
+  "passed": [
+    2,
+    6,
+    14,
+    21,
+    22,
+    26,
+    34,
+    38,
+    39,
+    40,
+    41
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra que vino a Jeremías de parte del SEÑOR en el año diez del reinado de Zedequías, rey de Judá (era el año diecisiete del reinado de Nabucodonosor).",
+      "notes": "multiple unlicensed additions and numeric error",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032001003"
+          ],
+          "issue": "adds 'vino' (came) where lemma/morph is only 'was/happened'",
+          "spanishSpan": "vino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032001008",
+            "h24032001009",
+            "h24032001010"
+          ],
+          "issue": "adds 'del reinado' not licensed by tokens",
+          "spanishSpan": "del reinado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032001014",
+            "h24032001015"
+          ],
+          "issue": "renders eighteen as diecisiete (17)",
+          "spanishSpan": "diecisiete"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032001016",
+            "h24032001017"
+          ],
+          "issue": "adds 'del reinado' not licensed by tokens",
+          "spanishSpan": "del reinado"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El cual lo había encarcelado Zedequías, rey de Judá, diciendo: ¿Por qué profetizas diciendo: Así ha dicho el SEÑOR: He aquí entregaré esta ciudad en manos del rey de Babilonia, y la tomará?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032003013"
+          ],
+          "issue": "replaces proper name יהוה with title SEÑOR",
+          "spanishSpan": "el SEÑOR"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24032003002"
+          ],
+          "issue": "pluperfect smoothing not licensed by qal perfect",
+          "spanishSpan": "había encarcelado"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Zedequías, rey de Judá, no se librará de manos de los caldeos, porque lo entregará en manos del rey de Babilonia, y hablará con su boca cara a cara, y sus ojos verán con los ojos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032004009",
+            "h24032004010"
+          ],
+          "issue": "Niphal passive (הִנָּתֹן יִנָּתֵן) rendered as active 'lo entregará'",
+          "spanishSpan": "lo entregará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032004014",
+            "h24032004015",
+            "h24032004016",
+            "h24032004017"
+          ],
+          "issue": "literal 'su boca con su boca' expanded to interpretive 'cara a cara'",
+          "spanishSpan": "cara a cara"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a Babilonia lo llevará el rey, y allí estará hasta que yo le visite, dice el SEÑOR, porque pelearán contra los caldeos y no prevalecerán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032005002"
+          ],
+          "issue": "adds unlicensed subject 'el rey'",
+          "spanishSpan": "el rey"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032005013",
+            "h24032005017"
+          ],
+          "issue": "2mp verbs rendered as 3pl (participant shift) instead of 2pl ustedes",
+          "spanishSpan": "pelearán ... prevalecerán"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí, Hanameel, hijo de Safán, pariente tuyo, viene a ti, diciendo: Compra para ti mi campo que está en Anatot, porque a ti te pertenece el derecho de redención para comprarlo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032007004"
+          ],
+          "issue": "father's name rendered as Safán instead of the locked proper name Shallum",
+          "spanishSpan": "Safán"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vino a mí Hanameel, hijo de Safán, pariente mío, conforme a la palabra del SEÑOR, a la corte del guardia, y me dijo: Compra para ti mi campo que está en Anatot, en la tierra de Benjamín, porque a ti te pertenece el derecho de redención para comprarlo. Y yo supe que era la palabra del SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032008004",
+            "h24032008005"
+          ],
+          "issue": "renders בֶּן דֹּדִי as 'hijo de Safán' (wrong proper name) instead of son of my uncle",
+          "spanishSpan": "hijo de Safán"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y compré el campo de Hanameel, hijo de pariente mío, que estaba en Anatot, y pagué por él el dinero, siete siclos de plata y diez siclos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032009010"
+          ],
+          "issue": "verb changed from 'weighed' (shaqal) to 'pagué' (paid)",
+          "spanishSpan": "pagué"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032009007"
+          ],
+          "issue": "dodi rendered as generic 'pariente' instead of uncle",
+          "spanishSpan": "pariente mío"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032009008",
+            "h24032009009"
+          ],
+          "issue": "relative clause attachment resolved to modify the field rather than the uncle",
+          "spanishSpan": "que estaba en Anatot"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y escribí en un libro y sellé, y juré ante testigos, y pagué el dinero en balanzas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032010004",
+            "h24032010005"
+          ],
+          "issue": "Hiphil עוד + עדים rendered as 'juré ante testigos' (swore); tokens license only 'caused witnesses to testify' / 'took as witnesses'",
+          "spanishSpan": "y juré ante testigos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032010006",
+            "h24032010007"
+          ],
+          "issue": "שקל + הכסף rendered as 'pagué el dinero' (paid the money); tokens license only 'weighed the silver'",
+          "spanishSpan": "y pagué el dinero"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tomé el libro del contrato, el sello del contrato y el testimonio, y los entregué a Barúk, hijo de Nerías, hijo de Maasías.",
+      "notes": "verse 11 contains only the taking; delivery belongs to v12",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032011001",
+            "h24032011003",
+            "h24032011004",
+            "h24032011006",
+            "h24032011007",
+            "h24032011008",
+            "h24032011010"
+          ],
+          "issue": "Spanish replaces מִקְנָה + חָתוּם + מִצְוָה + חֻקִּים + גָּלוּי with 'libro del contrato, el sello del contrato y el testimonio', adding unlicensed nouns and collapsing distinct terms",
+          "spanishSpan": "el libro del contrato, el sello del contrato y el testimonio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032011001"
+          ],
+          "issue": "Spanish adds 'y los entregué a Barúk...' which is absent from all tokens of this verse",
+          "spanishSpan": "y los entregué a Barúk, hijo de Nerías, hijo de Maasías"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y entregué el libro del contrato a Barúk, hijo de Nerías, hijo de Maasías, ante los ojos de Hanameel, pariente mío, y ante los ojos de los escribas que escribían en el libro del contrato, ante los ojos de todos los judíos que habitaban en la corte del guardia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032012010"
+          ],
+          "issue": "name rendered as Maasías instead of the token's Mahseiah",
+          "spanishSpan": "Maasías"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032012013"
+          ],
+          "issue": "dodî rendered as generic pariente instead of specific uncle",
+          "spanishSpan": "pariente mío"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032012015"
+          ],
+          "issue": "ha'edim (witnesses) rendered as escribas (scribes)",
+          "spanishSpan": "los escribas"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ordené a Barúk ante ellos, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032013004"
+          ],
+          "issue": "omits licensed concept 'eyes' (dual construct with 3mp suffix); 'ante ellos' replaces 'to their eyes' with non-token referent",
+          "spanishSpan": "ante ellos"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho el SEÑOR de los ejércitos, el Dios de Israel: Otra vez comprarán casas y campos y viñas en esta tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032015009"
+          ],
+          "issue": "Niphal passive (will be bought) rendered as active comprarán",
+          "spanishSpan": "comprarán"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y rogué al SEÑOR después de entregar el libro del contrato a Barúk, hijo de Nerías, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032016008"
+          ],
+          "issue": "adds 'contrato' concept not licensed by lemma H4736 miqnah (purchase/acquisition)",
+          "spanishSpan": "del contrato"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032016003"
+          ],
+          "issue": "renders יהוה as SEÑOR instead of licensed Jehová",
+          "spanishSpan": "al SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay, oh SEÑOR, oh Dios, tú hiciste los cielos y la tierra con tu gran poder y con tu brazo extendido; no hay nada que te sea imposible.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032017004"
+          ],
+          "issue": "omits הִנֵּ֣ה (behold)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Haciendo misericordia hasta la milésima generación, y pagando la iniquidad de los padres a los hijos y a los nietos hasta la tercera y cuarta generación, tú, oh gran y poderoso Dios, SEÑOR de los ejércitos, es tu nombre.",
+      "notes": "Spanish imports standard generational phrasing from elsewhere",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032018003"
+          ],
+          "issue": "adds 'milésima generación' not licensed by 'to the thousands'",
+          "spanishSpan": "hasta la milésima generación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032018008",
+            "h24032018009",
+            "h24032018010"
+          ],
+          "issue": "adds 'nietos' and 'tercera y cuarta generación' absent from 'to the bosom of their sons after them'",
+          "spanishSpan": "a los hijos y a los nietos hasta la tercera y cuarta generación"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Grande es tu consejo y grande tu obra, porque tus ojos están abiertos a todos los caminos de los hijos de los hombres para dar a cada uno según sus caminos y según el fruto de sus obras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032019001",
+            "h24032019003"
+          ],
+          "issue": "adds unlicenced 2ms possessives 'tu' on counsel and deed",
+          "spanishSpan": "tu consejo ... tu obra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032019014"
+          ],
+          "issue": "changes 'a man' (singular) to 'a cada uno'",
+          "spanishSpan": "a cada uno"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Has puesto señales y milagros en la tierra de Egipto hasta hoy, y en Israel y en los hombres, y te has hecho un nombre como hoy.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032020001"
+          ],
+          "issue": "omits relative clause marker אֲשֶׁר, converting relative clause into independent statement",
+          "spanishSpan": "Has puesto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032020011"
+          ],
+          "issue": "changes number from singular אָדָם to plural 'hombres'",
+          "spanishSpan": "en los hombres"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Han entrado y la han ocupado, pero no han escuchado tu voz ni han seguido tus mandamientos para hacerlos, y has traído sobre ellos todo este mal.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032023010",
+            "h24032023011",
+            "h24032023012",
+            "h24032023013",
+            "h24032023014",
+            "h24032023015",
+            "h24032023016"
+          ],
+          "issue": "adds 'mandamientos' and rephrases 'all that you commanded them to do' as following commandments",
+          "spanishSpan": "ni han seguido tus mandamientos para hacerlos"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que las escaleras han entrado en la ciudad para tomarla, y la ciudad ha caído en manos de los caldeos que luchaban contra ella por la espada, por el hambre y por la peste, y lo que has dicho ha sucedido, y tú lo has visto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032024002"
+          ],
+          "issue": "lemma d/5550 (סֹלְלָה) rendered as 'escaleras' (wrong noun; siege mounds/ramps required)",
+          "spanishSpan": "las escaleras"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú me has dicho, Señor Jehová: Compra la tierra con plata y da testimonio, y la ciudad ha caído en manos de los caldeos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032025013"
+          ],
+          "issue": "נִתְּנָה (niphal 'has been given') rendered as 'ha caído' (has fallen)",
+          "spanishSpan": "ha caído"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032025008"
+          ],
+          "issue": "הַשָּׂדֶה (the field) rendered as 'la tierra'",
+          "spanishSpan": "la tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032025010",
+            "h24032025011"
+          ],
+          "issue": "וְהָעֵד עֵדִים rendered as 'da testimonio' instead of commanding to have/call witnesses",
+          "spanishSpan": "da testimonio"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que yo, Jehová, el Dios de toda carne, ¿es maravilloso todo lo que yo hago?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032027007",
+            "h24032027008",
+            "h24032027009",
+            "h24032027010"
+          ],
+          "issue": "adds 'todo lo que yo hago' and resolves the question as 'es maravilloso' about the speaker's actions; tokens only license interrogative 'הֲ' + 'מִמֶּנִּי' + Niphal 'יִפָּלֵא' over 'כָּל דָּבָר'",
+          "spanishSpan": "¿es maravilloso todo lo que yo hago?"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, así ha dicho Jehová: He aquí que entrego esta ciudad en manos de los caldeos y en manos de Nabucodonosor, rey de Babilonia, y la tomarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032028016"
+          ],
+          "issue": "changes verb number from 3ms (וּלְכָדָֽהּ) to 3pl (tomarán)",
+          "spanishSpan": "y la tomarán"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los caldeos que luchan entrarán en esta ciudad y la quemarán con fuego, y la consumirán, y quemarán los templos que han consagrado sobre sus techos a Baal y han ofrecido sacrificios a otros dioses para provocarme.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032029012"
+          ],
+          "issue": "adds 'la consumirán' with no licensed concept of consuming",
+          "spanishSpan": "y la consumirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032029014"
+          ],
+          "issue": "renders בָּתִּים as templos instead of casas",
+          "spanishSpan": "los templos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032029016"
+          ],
+          "issue": "renders קִטְּרוּ as han consagrado instead of han quemado incienso",
+          "spanishSpan": "que han consagrado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032029020",
+            "h24032029021"
+          ],
+          "issue": "renders הִסִּכוּ נְסָכִים as han ofrecido sacrificios instead of han derramado libaciones",
+          "spanishSpan": "han ofrecido sacrificios"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque los hijos de Israel y los hijos de Judá han hecho el mal delante de mis ojos desde su juventud; porque los hijos de Israel me han provocado con sus manos desde su juventud, dice Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032030018"
+          ],
+          "issue": "omits licensed concept מַעֲשֵׂה (work/deed) before יְדֵיהֶם",
+          "spanishSpan": "con sus manos"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque desde el día que la construyeron hasta hoy, la ciudad ha estado para mí para expulsarla de mi presencia por mi ira y por mi enojo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032031001",
+            "h24032031003",
+            "h24032031005",
+            "h24032031018"
+          ],
+          "issue": "rearranges 'ki al-appi ve'al-chamati' to the end and makes it modify only the infinitive purpose instead of governing 'hayetah li'",
+          "spanishSpan": "por mi ira y por mi enojo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032031020"
+          ],
+          "issue": "renders 'panay' (my face) as 'mi presencia'",
+          "spanishSpan": "mi presencia"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por todas las malas acciones de los hijos de Israel y de los hijos de Judá, que me han provocado, son sus reyes, sus oficiales, sus sacerdotes, sus profetas, cada hombre de Judá y los habitantes de Jerusalén.",
+      "notes": "structure also misplaces הֵמָּה list",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032032003"
+          ],
+          "issue": "adds 'acciones' (actions) not present in רָעַת",
+          "spanishSpan": "malas acciones"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032032016"
+          ],
+          "issue": "adds 'cada' (every) not present in אִישׁ",
+          "spanishSpan": "cada hombre"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se dieron la vuelta hacia mí con la espalda y no con el rostro; cuando los enseñé, no quisieron escuchar para recibir corrección.",
+      "notes": "infinitive absolutes and participle force not preserved",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032033008"
+          ],
+          "issue": "omits 'rising early' (הַשְׁכֵּ֣ם) from the repeated teaching construction",
+          "spanishSpan": "cuando los enseñé"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032033011"
+          ],
+          "issue": "renders qal participle 'they are not listening' as 'no quisieron escuchar', adding volition and shifting aspect",
+          "spanishSpan": "no quisieron escuchar"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Construyeron altas plataformas para el Baal en el valle de Hinnom, para quemar a sus hijos y a sus hijas en el fuego a Molech, a quien no había ordenado, y no era mi deseo que lo hicieran, para que pecaran a Jehudá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032035007",
+            "h24032035008"
+          ],
+          "issue": "omits 'ben/son of' from valley name",
+          "spanishSpan": "valle de Hinnom"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032035009"
+          ],
+          "issue": "adds 'quemar ... en el fuego' concept absent from hiphil infinitive of 5674",
+          "spanishSpan": "para quemar ... en el fuego"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032035027"
+          ],
+          "issue": "Hebraizes proper name instead of conventional Spanish form",
+          "spanishSpan": "Jehudá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032035023",
+            "h24032035024",
+            "h24032035025",
+            "h24032035026",
+            "h24032035027"
+          ],
+          "issue": "resolves purpose clause by inserting 'pecaran' not licensed by tokens",
+          "spanishSpan": "para que pecaran a Jehudá"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso dice Jehová, el Dios de Israel: ‘A esta ciudad, a la que dicen que la he entregado en manos del rey de Babilonia, la entregaré a la espada, al hambre y a la peste.’",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032036014"
+          ],
+          "issue": "renders Niphal passive נִתְּנָה as active first-person 'he entregado' (God delivering), changing participant and voice",
+          "spanishSpan": "que la he entregado"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que los reuniré de todas las naciones a las que los he dispersado en mi ira y en mi enojo y en gran cólera, y los haré regresar a este lugar y los estableceré con seguridad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032037004"
+          ],
+          "issue": "ארצות (lands/countries) rendered as naciones",
+          "spanishSpan": "naciones"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque dice Jehová: Como he traído a este pueblo todo este mal grande, así traeré sobre ellos todo el bien que hablo sobre ellos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032042002"
+          ],
+          "issue": "omits licensed adverb כֹה (thus/so) from opening formula",
+          "spanishSpan": "Porque dice Jehová"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Comprarán el campo en esta tierra que dicen que es desolada, sin gente y sin bestias, entregada en manos de los caldeos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032043001"
+          ],
+          "issue": "niphal 3ms passive/impersonal 'it shall be bought' rendered as active 3pl 'comprarán'",
+          "spanishSpan": "Comprarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032043006",
+            "h24032043007"
+          ],
+          "issue": "2mp 'you are saying' rendered as impersonal 'dicen'",
+          "spanishSpan": "que dicen"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Comprarán campos en la tierra de Benjamín y alrededor de Jerusalén, y en las ciudades de Judá, de la montaña, del valle y del Negueb, porque haré volver su cautiverio, dice Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032044002"
+          ],
+          "issue": "omits licensed concept בַּכֶּסֶף",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24032044004",
+            "h24032044005",
+            "h24032044006",
+            "h24032044007",
+            "h24032044008"
+          ],
+          "issue": "omits licensed concepts of writing in the book, sealing, and calling witnesses",
+          "spanishSpan": ""
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T03:33:17.470978+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 46,
+    "verses": 44,
+    "input": 115711,
+    "cachedInput": 33280,
+    "output": 6533,
+    "reasoning": 41594,
+    "usd": 0.4755,
+    "byProvider": {
+      "xai": {
+        "calls": 45,
+        "input": 112522,
+        "output": 5236,
+        "reasoning": 41594,
+        "usd": 0.4561
+      },
+      "anthropic": {
+        "calls": 1,
+        "input": 3189,
+        "output": 1297,
+        "reasoning": 0,
+        "usd": 0.0193
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 44,
+        "input": 110248,
+        "output": 5215,
+        "reasoning": 40750,
+        "usd": 0.4477
+      },
+      "polish": {
+        "calls": 1,
+        "input": 3189,
+        "output": 1297,
+        "reasoning": 0,
+        "usd": 0.0193
+      },
+      "audit-polish": {
+        "calls": 1,
+        "input": 2274,
+        "output": 21,
+        "reasoning": 844,
+        "usd": 0.0084
+      }
+    },
+    "usdPerVerse": 0.0108,
+    "bibleAtThisRate": 336.0,
+    "book": "jeremias",
+    "chapter": 32
+  }
+}

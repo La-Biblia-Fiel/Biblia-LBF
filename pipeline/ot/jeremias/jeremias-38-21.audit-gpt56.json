@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:21",
+  "chapter": 38,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero si no sales, este es el mensaje que Jehová me ha mostrado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038021001"
+      ],
+      "issue": "adds 'Pero' (but) instead of licensed 'Y' (and)",
+      "spanishSpan": "Pero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038021002"
+      ],
+      "issue": "omits licensed concept of 'refusing' (ma'en participle) and renders as simple negation",
+      "spanishSpan": "si no sales"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038021006"
+      ],
+      "issue": "renders 'dabar' as 'mensaje' (message) rather than preserving 'palabra' or 'asunto'",
+      "spanishSpan": "mensaje"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

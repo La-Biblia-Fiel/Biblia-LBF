@@ -1,0 +1,1102 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 25,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "passed": [
+    2,
+    16,
+    19,
+    21,
+    25,
+    26
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Esto es lo que sucedió con Jeremías en relación con todo el pueblo de Judá en el cuarto año del reinado de Joaquín, hijo de Josías, rey de Judá, que fue el primer año del reinado de Nabucodonosor, rey de Babilonia.",
+      "notes": "adds 'del reinado de' twice (not in tokens)",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025001001",
+            "h24025001002",
+            "h24025001003"
+          ],
+          "issue": "replaces 'the word which was' with interpretive 'esto es lo que sucedió'",
+          "spanishSpan": "Esto es lo que sucedió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025001004",
+            "h24025001006"
+          ],
+          "issue": "paraphrases both instances of עַל with 'en relación con'",
+          "spanishSpan": "en relación con"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Desde el año trece del reinado de Josías, hijo de Amón, rey de Judá, hasta este día, han sido treinta y nueve años que la palabra del Señor ha venido a mí, y yo os he hablado, pero no me han escuchado.",
+      "notes": "number error and participant shift are decisive fails",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025003014",
+            "h24025003015",
+            "h24025003016"
+          ],
+          "issue": "wrong number: Hebrew 23 years rendered as 39 years",
+          "spanishSpan": "treinta y nueve años"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025003022",
+            "h24025003026"
+          ],
+          "issue": "2mp addressee shifted to 3rd person plural listeners",
+          "spanishSpan": "no me han escuchado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025003022"
+          ],
+          "issue": "vosotros form 'os' instead of Latin-American ustedes",
+          "spanishSpan": "yo os he hablado"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el Señor os ha enviado a todos sus siervos los profetas, levantándolos y enviándolos, pero no me han escuchado.",
+      "notes": "multiple participant and clause omissions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025004003",
+            "h24025004011",
+            "h24025004013"
+          ],
+          "issue": "2mp addressees rendered as 3p participants with added 'me'",
+          "spanishSpan": "no me han escuchado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025004001",
+            "h24025004002",
+            "h24025004003",
+            "h24025004005",
+            "h24025004006",
+            "h24025004007"
+          ],
+          "issue": "syntax and participants inverted: Hebrew sends prophets to you; Spanish misparses as sending you to the prophets",
+          "spanishSpan": "os ha enviado a todos sus siervos los profetas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025004012",
+            "h24025004013",
+            "h24025004014",
+            "h24025004015",
+            "h24025004016"
+          ],
+          "issue": "entire second clause about not inclining the ear is omitted",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025004002"
+          ],
+          "issue": "יהוה rendered as Señor instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Decía: ‘Volved cada uno de su mal camino y de la maldad de sus actos, y habitad en la tierra que el Señor ha dado a ustedes y a sus padres desde antiguo hasta siempre.’",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025005014"
+          ],
+          "issue": "replaces proper name יהוה with 'el Señor'",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025005003"
+          ],
+          "issue": "omits the particle נָא",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no andéis tras dioses ajenos para servirles y adorarles, ni me provocaréis con sus actos, para que no os haga mal.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025006012",
+            "h24025006013"
+          ],
+          "issue": "replaces 'work of your hands' with 'sus actos' (wrong possessor and omits 'hands')",
+          "spanishSpan": "con sus actos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025006002",
+            "h24025006010",
+            "h24025006015"
+          ],
+          "issue": "uses vosotros conjugations (andéis, provocaréis) instead of ustedes forms",
+          "spanishSpan": "andéis ... provocaréis"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no me han escuchado, palabra del Señor, para que me provocarais con sus actos, para que os hiciera mal.",
+      "notes": "multiple person and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025007002"
+          ],
+          "issue": "2mp perfect rendered as 3pl han instead of 2pl ustedes han",
+          "spanishSpan": "no me han escuchado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025007004",
+            "h24025007005"
+          ],
+          "issue": "נְאֻם יְהוָה rendered as palabra del Señor (adds palabra, uses Señor instead of Jehová)",
+          "spanishSpan": "palabra del Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025007006",
+            "h24025007007",
+            "h24025007008",
+            "h24025007009",
+            "h24025007010"
+          ],
+          "issue": "לְמַעַן בְּמַעֲשֵׂה יְדֵיכֶם לְרַע לָכֶם rendered by inserting provocarais and changing to 3rd-person sus / 2nd os hiciera",
+          "spanishSpan": "para que me provocarais con sus actos, para que os hiciera mal"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, dice el Señor de los ejércitos, porque no me han escuchado a mí, a mis palabras:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025008002"
+          ],
+          "issue": "omits licensed adverb כֹּה (thus)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025008004"
+          ],
+          "issue": "renders יְהוָה as Señor (title) instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025008011"
+          ],
+          "issue": "adds unlicensed 'a mí' before direct object; tokens only license 'mis palabras'",
+          "spanishSpan": "a mí, a mis palabras"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que enviaré y tomaré a todas las familias del norte, dice el Señor, y a Nabucodonosor, rey de Babilonia, mi siervo, y los llevaré a esta tierra y a sus habitantes y a todos los pueblos que la rodean, y los destruiré y los haré objeto de maldición, de desprecio y de escarnio para siempre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025009009"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of required 'Jehová'",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025009028",
+            "h24025009029",
+            "h24025009030",
+            "h24025009031"
+          ],
+          "issue": "tokens license desolation, hissing, and perpetual ruins; Spanish adds unlicensed concepts of curse, contempt, and mockery",
+          "spanishSpan": "objeto de maldición, de desprecio y de escarnio para siempre"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré que desaparezca de ellos el sonido de la alegría y el sonido de la risa, el sonido del novio y el sonido de la novia, el sonido del molino y la luz de la lámpara.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025010004",
+            "h24025010006"
+          ],
+          "issue": "רִשָּׂה rendered as 'risa' (laughter) instead of joy/rejoicing term licensed by lemma",
+          "spanishSpan": "el sonido de la risa"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025010012"
+          ],
+          "issue": "dual millstones rendered as singular 'molino' (mill)",
+          "spanishSpan": "el sonido del molino"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y toda la tierra será desolación y maldición, y servirán estos pueblos al rey de Babilonia setenta años.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025011004"
+          ],
+          "issue": "omits demonstrative 'this' (הזאת), rendering 'all the land' instead of 'all this land'",
+          "spanishSpan": "toda la tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025011006"
+          ],
+          "issue": "renders לשממה as 'maldición' (curse), a concept not licensed by the lemma or any token",
+          "spanishSpan": "maldición"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando se cumplan los setenta años, haré que me acuerde del rey de Babilonia y de ese pueblo, dice el Señor, de su maldad, y de la tierra de los caldeos, y los haré objeto de maldición, de desolación y de soledad para siempre.",
+      "notes": "multiple additions, omissions and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025012005"
+          ],
+          "issue": "פקד rendered as 'haré que me acuerde' (wrong verb meaning)",
+          "spanishSpan": "haré que me acuerde"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025012021",
+            "h24025012022"
+          ],
+          "issue": "adds 'maldición' and 'soledad' not present; only שממות עולם licensed",
+          "spanishSpan": "objeto de maldición, de desolación y de soledad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025012012",
+            "h24025012013"
+          ],
+          "issue": "נאם יהוה rendered as 'dice el Señor' with altered placement",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025012015"
+          ],
+          "issue": "עונם omitted entirely",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré que sobre esta tierra se cumplan todas las palabras que he hablado contra ella, conforme a todo lo escrito en este libro, que ha profetizado Jeremías contra todas las naciones.",
+      "notes": "verse tokens contain no verb of causing fulfillment",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025013001",
+            "h24025013002",
+            "h24025013003",
+            "h24025013004",
+            "h24025013005",
+            "h24025013006",
+            "h24025013007",
+            "h24025013008",
+            "h24025013009",
+            "h24025013010",
+            "h24025013011",
+            "h24025013012",
+            "h24025013013",
+            "h24025013014",
+            "h24025013015",
+            "h24025013016",
+            "h24025013017",
+            "h24025013018",
+            "h24025013019",
+            "h24025013020"
+          ],
+          "issue": "adds 'Y haré que ... se cumplan' with no corresponding token or lemma",
+          "spanishSpan": "Y haré que ... se cumplan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025013002",
+            "h24025013003"
+          ],
+          "issue": "renders הָאָרֶץ הַהִיא as 'esta tierra' (this) instead of preserving 'that'",
+          "spanishSpan": "esta tierra"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque servirán a ellos muchos pueblos y grandes reyes, y yo les pagaré conforme a sus obras y conforme a las manos con que han obrado.",
+      "notes": "tense and interpretive expansion on final phrase",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025014002"
+          ],
+          "issue": "qal perfect 3cp rendered as future 'servirán' instead of past/perfect",
+          "spanishSpan": "servirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025014013",
+            "h24025014014"
+          ],
+          "issue": "מַעֲשֵׂה יְדֵיהֶם rendered as 'las manos con que han obrado' (adds verb and shifts referent from 'obra de sus manos')",
+          "spanishSpan": "las manos con que han obrado"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho el Señor, el Dios de Israel, a mí: Toma la copa de esta vinagre ardiente de mi mano y hazla beber a todas las naciones a las que yo te envío.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025015004"
+          ],
+          "issue": "YHWH rendered as 'el Señor' instead of licensed Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025015005"
+          ],
+          "issue": "אלהים rendered as 'Dios'",
+          "spanishSpan": "el Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025015011",
+            "h24025015012"
+          ],
+          "issue": "adds 'vinagre' concept not present in yayin + chemah tokens",
+          "spanishSpan": "vinagre ardiente"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tomé la copa de la mano del Señor y hice beber a todas las naciones a las que el Señor me envió.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025017005",
+            "h24025017012"
+          ],
+          "issue": "replaces proper name יהוה with title 'Señor'",
+          "spanishSpan": "del Señor ... el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "A Jerusalén y a las ciudades de Judá, y a sus reyes y a sus príncipes, para que sean objeto de espada, de saña, de alaridos y de maldición, como este día.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025018012"
+          ],
+          "issue": "חָרְבָּה rendered as 'espada' (wrong lemma sense; H2723 = desolation/ruin, not sword)",
+          "spanishSpan": "espada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025018010",
+            "h24025018011",
+            "h24025018012",
+            "h24025018013",
+            "h24025018014",
+            "h24025018015"
+          ],
+          "issue": "paraphrases לָתֵת אֹתָם לְ... into 'para que sean objeto de' and alters the four nouns",
+          "spanishSpan": "para que sean objeto de espada, de saña, de alaridos y de maldición"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025018014"
+          ],
+          "issue": "שְׁרֵקָה rendered as 'alaridos' (adds interpretive concept not in lemma)",
+          "spanishSpan": "alaridos"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a todo el país de Egipto, y a todos los reyes de la tierra de Ut, y a todos los reyes de la tierra de los filisteos, y a Ascalón y a Gaza y a Ecrón, y a lo que queda de Asdod.",
+      "notes": "first phrase mismatches tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025020001",
+            "h24025020002",
+            "h24025020003"
+          ],
+          "issue": "adds 'país de Egipto' with no token support; הָעֶרֶב (H6154) is rendered as Egypt",
+          "spanishSpan": "todo el país de Egipto"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a todos los reyes de Tiro, y a todos los reyes de Sidón, y a los reyes que están al otro lado del mar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025022011"
+          ],
+          "issue": "omits licensed noun הָאִי (the island/coast) and rephrases the construct + relative clause as location of the kings",
+          "spanishSpan": "y a los reyes que están al otro lado del mar"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a Dedán y a Tema y a Buz, y a todos los cortadores de cabello.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025023009",
+            "h24025023010"
+          ],
+          "issue": "passive participle + construct 'cut-off of corner' rendered as active 'cortadores de cabello'",
+          "spanishSpan": "cortadores de cabello"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a todos los reyes del desierto, y a todos los reyes de Egipto que habitan en el desierto.",
+      "notes": "introduces Egypt and desert where tokens do not license",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025024004"
+          ],
+          "issue": "renders עֲרָ֑ב as 'del desierto' (adds desert concept absent from token)",
+          "spanishSpan": "del desierto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025024008"
+          ],
+          "issue": "renders הָעֶ֔רֶב as 'de Egipto' (adds Egypt concept; lemma H6154a is mixed/multitude or Arabia, not Egypt)",
+          "spanishSpan": "de Egipto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025024009",
+            "h24025024010"
+          ],
+          "issue": "applies 'que habitan en el desierto' to both clauses and restructures participants; the desert dwellers modifier applies only to the second group",
+          "spanishSpan": "que habitan en el desierto"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás a ellos: Así ha dicho el Señor de los ejércitos, el Dios de Israel: Bebed y embriagaos, y caed, no os levantéis de la espada que yo enviaré entre ustedes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025027005"
+          ],
+          "issue": "YHWH rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025027011"
+          ],
+          "issue": "omitted vomit command licensed by the qal imperative",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025027015",
+            "h24025027016"
+          ],
+          "issue": "restructured attachment of 'de la espada' to the negative verb, altering the licensed sequence",
+          "spanishSpan": "no os levantéis de la espada"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será que cuando se nieguen a tomar la copa de tu mano para beber, dirás a ellos: Así ha dicho el Señor de los ejércitos: Beberás lo que hay en la copa.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025028014",
+            "h24025028015"
+          ],
+          "issue": "number mismatch: 2mp תִשְׁתּוּ rendered as singular Beberás",
+          "spanishSpan": "Beberás"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025028014",
+            "h24025028015"
+          ],
+          "issue": "adds unlicensed content 'lo que hay en la copa'",
+          "spanishSpan": "Beberás lo que hay en la copa"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque he aquí que en la ciudad a la que se llama mi nombre, yo empiezo a hacer mal, y ustedes os purgaréis, pero no os purgaréis; porque yo llamo la espada sobre todos los moradores de la tierra, dice el Señor de los ejércitos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025029011",
+            "h24025029013",
+            "h24025029015"
+          ],
+          "issue": "vosotros object pronoun 'os' with 2mpl address",
+          "spanishSpan": "os purgaréis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025029025"
+          ],
+          "issue": "YHWH rendered as 'Señor' instead of Jehová",
+          "spanishSpan": "dice el Señor de los ejércitos"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú profetizarás a ellos todas estas palabras, y dirás a ellos: El Señor desde lo alto rugirá, y desde su santo templo dará voz; rugirá el Señor desde su morada, y responderá como los que rugen, a todos los moradores de la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025030013",
+            "h24025030014"
+          ],
+          "issue": "מְעוֹן קָדְשׁוֹ rendered as 'santo templo' (adds 'templo' not licensed by lemma 4583)",
+          "spanishSpan": "santo templo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025030021",
+            "h24025030022"
+          ],
+          "issue": "כְּדֹרְכִים rendered as 'los que rugen' (changes 'treaders' to 'those who roar')",
+          "spanishSpan": "como los que rugen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025030010"
+          ],
+          "issue": "יהוה rendered as 'El Señor' instead of conventional Jehová",
+          "spanishSpan": "El Señor"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque viene un estruendo hasta el extremo de la tierra, porque el Señor tiene pleito con las naciones; juzgará a todos los hombres. Dará a los malvados a la espada. Así dice el Señor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025031008",
+            "h24025031018"
+          ],
+          "issue": "יהוה rendered as Señor instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025031015"
+          ],
+          "issue": "qal perfect נְתָנָם changed to future Dará",
+          "spanishSpan": "Dará"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice el Señor de los ejércitos: He aquí que el mal sale de nación a nación, y un gran vendaval levantará desde el extremo de la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025032003"
+          ],
+          "issue": "replaces proper name יהוה with title 'Señor' not licensed by tokens",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los muertos del Señor en aquel día serán desde el extremo de la tierra hasta el extremo de la tierra; no se lamentarán ni se recogerán ni se enterrarán; serán como estiércol sobre la faz de la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025033002"
+          ],
+          "issue": "חַלְלֵי (slain/pierced) rendered as 'muertos' (dead)",
+          "spanishSpan": "los muertos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025033003"
+          ],
+          "issue": "יְהוָה rendered as 'Señor' instead of conventional Jehová",
+          "spanishSpan": "del Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025033012",
+            "h24025033014",
+            "h24025033016"
+          ],
+          "issue": "Niphal passives (be lamented/gathered/buried) rendered with reflexive 'se' implying the slain themselves do not act",
+          "spanishSpan": "no se lamentarán ni se recogerán ni se enterrarán"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Gimiendo gemirán los pastores, y aullarán los jefes del rebaño, porque se llenarán sus días para ser degollados, y yo haré que se disperse a ustedes, y caeréis como un objeto deseable.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025034001",
+            "h24025034003",
+            "h24025034004"
+          ],
+          "issue": "Hebrew has 2mp imperatives (howl, cry out, roll yourselves); Spanish renders as futures/descriptive and omits one imperative entirely",
+          "spanishSpan": "Gimiendo gemirán ... y aullarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025034011"
+          ],
+          "issue": "Hebrew has noun 'your dispersions/scatterings'; Spanish adds causative 'yo haré que se disperse' not present in tokens",
+          "spanishSpan": "y yo haré que se disperse a ustedes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025034008"
+          ],
+          "issue": "Hebrew qal perfect 3cp 'have filled/are full'; Spanish renders future 'se llenarán'",
+          "spanishSpan": "se llenarán sus días"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y desaparecerá el deseo de los pastores, y la huida de los jefes del rebaño.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025035002"
+          ],
+          "issue": "מָנ֖וֹס rendered as 'deseo' (desire) instead of refuge/escape",
+          "spanishSpan": "el deseo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025035003",
+            "h24025035004"
+          ],
+          "issue": "מִן הָרֹעִים parsed as possessive 'de los pastores' instead of 'from the shepherds'",
+          "spanishSpan": "de los pastores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025035006"
+          ],
+          "issue": "אַדִּירֵי rendered as 'jefes' (chiefs) without token support for that specialization",
+          "spanishSpan": "jefes"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El grito de los pastores y el lamento de los jefes del rebaño, porque el Señor despojará a sus pastos.",
+      "notes": "tense, number, and divine name mismatch tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025036009"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025036008"
+          ],
+          "issue": "Qal participle active rendered as future indicative 'despojará'",
+          "spanishSpan": "despojará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025036011"
+          ],
+          "issue": "singular 'pasture' (construct + 3mp suffix) rendered as plural 'pastos'",
+          "spanishSpan": "sus pastos"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24025036005"
+          ],
+          "issue": "adjective 'mighty ones' rendered interpretively as 'jefes'",
+          "spanishSpan": "jefes del rebaño"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se apagarán los cantares de paz, por la ira del SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025037002",
+            "h24025037003"
+          ],
+          "issue": "renders נְאוֹת הַשָּׁלוֹם as 'cantares de paz' (songs), adding unlicensed noun and concept",
+          "spanishSpan": "los cantares de paz"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025037001"
+          ],
+          "issue": "renders נָדַמּוּ as 'se apagarán' (extinguished), altering verb sense from 'silenced'",
+          "spanishSpan": "Se apagarán"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Abandonará como león su morada, porque la tierra se ha convertido en un desierto, por la ira del SEÑOR y por la ira de su ardor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025038001"
+          ],
+          "issue": "perfect 3ms rendered as future",
+          "spanishSpan": "Abandonará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025038002"
+          ],
+          "issue": "kfir (young lion) rendered simply as león",
+          "spanishSpan": "como león"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025038006"
+          ],
+          "issue": "their land rendered as la tierra (omits 3mp suffix)",
+          "spanishSpan": "la tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24025038010"
+          ],
+          "issue": "adds del SEÑOR; tokens have חרון היונה (wrath of the oppressor)",
+          "spanishSpan": "del SEÑOR"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "updated": "2026-09-20T02:41:13.680271+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 38,
+    "verses": 38,
+    "input": 91854,
+    "cachedInput": 32640,
+    "output": 6210,
+    "reasoning": 34001,
+    "usd": 0.376,
+    "byProvider": {
+      "xai": {
+        "calls": 38,
+        "input": 91854,
+        "output": 6210,
+        "reasoning": 34001,
+        "usd": 0.376
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 38,
+        "input": 91854,
+        "output": 6210,
+        "reasoning": 34001,
+        "usd": 0.376
+      }
+    },
+    "usdPerVerse": 0.0099,
+    "bibleAtThisRate": 308.0,
+    "book": "jeremias",
+    "chapter": 25
+  }
+}

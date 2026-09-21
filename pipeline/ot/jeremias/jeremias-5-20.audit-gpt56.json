@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:20",
+  "chapter": 5,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Decid esto en la casa de Jacob, y hacedlo saber en Judá, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005020001",
+        "h24005020005"
+      ],
+      "issue": "uses peninsular vosotros imperatives (Decid, haced) instead of Latin American ustedes forms for 2mp",
+      "spanishSpan": "Decid ... haced"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

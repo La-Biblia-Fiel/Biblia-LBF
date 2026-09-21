@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:5",
+  "chapter": 8,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué se aparta este pueblo de Jerusalén, que ha sido apartado para siempre? Se aferran a la mentira y no quieren volver.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008005005",
+        "h24008005003",
+        "h24008005004"
+      ],
+      "issue": "adds 'de Jerusalén' implying departure from the city; tokens show apposition 'this people, Jerusalem'",
+      "spanishSpan": "este pueblo de Jerusalén"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008005006",
+        "h24008005007"
+      ],
+      "issue": "renders מְשֻׁבָ֣ה נִצַּ֑חַת as 'apartado para siempre'; tokens license perpetual backsliding/apostasy, not separation",
+      "spanishSpan": "que ha sido apartado para siempre"
+    }
+  ],
+  "notes": "first clause structure and key noun+participle both altered",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:11",
+  "chapter": 27,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el pueblo que traiga su cuello en el yugo del rey de Babilonia y le sirva, lo dejaré sobre su tierra, dice el SEÑOR, y le servirá y vivirá en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027011009",
+        "h24027011015"
+      ],
+      "issue": "first עבדו serves the king (ms); second עבדה serves the land (fs); Spanish collapses pronouns and referents",
+      "spanishSpan": "y le sirva ... y le servirá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027011016",
+        "h24027011017"
+      ],
+      "issue": "ישב is dwell/sit; Spanish renders as vivirá and attaches to wrong pronoun",
+      "spanishSpan": "y vivirá en ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027011003"
+      ],
+      "issue": "Hiphil imperfect rendered as subjunctive traiga instead of future indicative",
+      "spanishSpan": "que traiga"
+    }
+  ],
+  "notes": "multiple morphology and referent mismatches",
+  "discardedUncitedFindings": 0
+}

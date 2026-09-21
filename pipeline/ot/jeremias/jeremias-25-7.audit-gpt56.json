@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:7",
+  "chapter": 25,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no me han escuchado, palabra del Señor, para que me provocarais con sus actos, para que os hiciera mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025007002"
+      ],
+      "issue": "2mp perfect rendered as 3pl han instead of 2pl ustedes han",
+      "spanishSpan": "no me han escuchado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025007004",
+        "h24025007005"
+      ],
+      "issue": "נְאֻם יְהוָה rendered as palabra del Señor (adds palabra, uses Señor instead of Jehová)",
+      "spanishSpan": "palabra del Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025007006",
+        "h24025007007",
+        "h24025007008",
+        "h24025007009",
+        "h24025007010"
+      ],
+      "issue": "לְמַעַן בְּמַעֲשֵׂה יְדֵיכֶם לְרַע לָכֶם rendered by inserting provocarais and changing to 3rd-person sus / 2nd os hiciera",
+      "spanishSpan": "para que me provocarais con sus actos, para que os hiciera mal"
+    }
+  ],
+  "notes": "multiple person and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

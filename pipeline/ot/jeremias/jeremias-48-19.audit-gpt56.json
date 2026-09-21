@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:19",
+  "chapter": 48,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "A la deriva, a la espera, moradora de Araer, pregunta: ¿Adónde se ha ido? ¿Cómo ha sucedido?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048019001",
+        "h24048019002",
+        "h24048019003"
+      ],
+      "issue": "adds 'a la deriva, a la espera' not licensed by 'to the way, stand!'",
+      "spanishSpan": "A la deriva, a la espera"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048019008",
+        "h24048019009",
+        "h24048019011",
+        "h24048019012"
+      ],
+      "issue": "supplies specific questions '¿Adónde se ha ido?' absent from the tokens; only 'ask... say what has happened' is licensed",
+      "spanishSpan": "¿Adónde se ha ido? ¿Cómo ha sucedido?"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048019004",
+        "h24048019007",
+        "h24048019010"
+      ],
+      "issue": "converts multiple 2fs imperatives into descriptive phrase + single 'pregunta'",
+      "spanishSpan": "moradora de Araer, pregunta"
+    }
+  ],
+  "notes": "Araer spelling minor; main failures are additions and loss of command structure",
+  "discardedUncitedFindings": 0
+}

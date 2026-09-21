@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:37",
+  "chapter": 25,
+  "verse": 37,
+  "candidateLabel": "gpt56",
+  "spanish": "Se apagarán los cantares de paz, por la ira del SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025037002",
+        "h24025037003"
+      ],
+      "issue": "renders נְאוֹת הַשָּׁלוֹם as 'cantares de paz' (songs), adding unlicensed noun and concept",
+      "spanishSpan": "los cantares de paz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025037001"
+      ],
+      "issue": "renders נָדַמּוּ as 'se apagarán' (extinguished), altering verb sense from 'silenced'",
+      "spanishSpan": "Se apagarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

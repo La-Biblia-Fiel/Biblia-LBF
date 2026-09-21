@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:17",
+  "chapter": 22,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque tus ojos y tu corazón están sólo sobre tu propia codicia, y sobre derramar sangre inocente, y sobre oprimir al pobre y al extranjero para hacerlo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022017014",
+        "h24022017016"
+      ],
+      "issue": "adds 'al pobre y al extranjero' with no token support",
+      "spanishSpan": "oprimir al pobre y al extranjero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022017008"
+      ],
+      "issue": "adds 'propia' not licensed by בִּצְעֶךָ",
+      "spanishSpan": "tu propia codicia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

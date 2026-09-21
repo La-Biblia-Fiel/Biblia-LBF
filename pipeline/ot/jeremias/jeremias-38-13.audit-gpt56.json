@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:13",
+  "chapter": 38,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces sacaron a Jeremías con cuerdas del pozo y él se sentó en la corte del tesoro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038013012"
+      ],
+      "issue": "renders הַמַּטָּרָֽה as 'tesoro' (treasure) instead of guard/prison/ward",
+      "spanishSpan": "corte del tesoro"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

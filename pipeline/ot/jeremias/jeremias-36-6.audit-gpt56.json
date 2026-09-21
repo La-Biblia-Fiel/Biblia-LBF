@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:6",
+  "chapter": 36,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Tú, en cambio, ve y lee en voz alta en un libro las palabras de Jehová que escribiste de mi boca, en la presencia del pueblo en el templo de Jehová, en el día de ayuno, y también en la presencia de todo Judá que venga de sus ciudades.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036006001",
+        "h24036006003"
+      ],
+      "issue": "adds 'en cambio' and renders sequential perfects as imperative 've'",
+      "spanishSpan": "Tú, en cambio, ve"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036006004"
+      ],
+      "issue": "renders 'the scroll' as 'en un libro'",
+      "spanishSpan": "en un libro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036006003"
+      ],
+      "issue": "adds 'en voz alta' not licensed by the verb",
+      "spanishSpan": "lee en voz alta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036006011",
+        "h24036006018"
+      ],
+      "issue": "renders 'in the ears of' as 'en la presencia de'",
+      "spanishSpan": "en la presencia del pueblo ... en la presencia de todo Judá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036006023"
+      ],
+      "issue": "omits the final 'you shall read them'",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "multiple additions, omissions and interpretive smoothing",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:14",
+  "chapter": 36,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y todos los príncipes enviaron a Baruc a decirle: El libro que leíste en voz alta en la presencia del pueblo, tómalo en tu mano y ven. Y Baruc, hijo de Nerías, tomó el libro en su mano y vino a ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036014007",
+        "h24036014008",
+        "h24036014009",
+        "h24036014010",
+        "h24036014011",
+        "h24036014012",
+        "h24036014013"
+      ],
+      "issue": "omits the entire chain Yehudi ben Nethaniah ben Shelemiah ben Cushi who was sent",
+      "spanishSpan": "enviaron a Baruc a decirle"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036014019",
+        "h24036014020"
+      ],
+      "issue": "renders בְּאָזְנֵי הָעָם as 'en la presencia del pueblo' instead of 'in the ears of the people'",
+      "spanishSpan": "en la presencia del pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036014017"
+      ],
+      "issue": "adds 'en voz alta' not present in the tokens",
+      "spanishSpan": "en voz alta"
+    }
+  ],
+  "notes": "Spanish collapses the sender chain and alters אזני",
+  "discardedUncitedFindings": 0
+}

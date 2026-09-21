@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:26",
+  "chapter": 48,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Se alquile a sí mismo, porque sobre el Señor ha alzado su voz. Moab será humillado y será objeto de risa.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048026001"
+      ],
+      "issue": "Spanish renders imperative as reflexive 'alquile a sí mismo' instead of licensing 'make him drunk'",
+      "spanishSpan": "Se alquile a sí mismo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048026005"
+      ],
+      "issue": "Spanish 'ha alzado su voz' adds voice concept and omits the licensed 'magnified/exalted' action against YHWH",
+      "spanishSpan": "ha alzado su voz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048026006",
+        "h24048026008"
+      ],
+      "issue": "Spanish omits the licensed 'clap/slap in his vomit' sequence entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048026007",
+        "h24048026009",
+        "h24048026010"
+      ],
+      "issue": "Spanish inserts 'humillado' (not licensed) and alters the 'become for laughter' construction",
+      "spanishSpan": "Moab será humillado y será objeto de risa"
+    }
+  ],
+  "notes": "multiple lexical and structural mismatches",
+  "discardedUncitedFindings": 0
+}

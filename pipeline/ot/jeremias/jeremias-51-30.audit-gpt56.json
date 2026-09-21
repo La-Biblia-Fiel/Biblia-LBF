@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:30",
+  "chapter": 51,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Se acabaron los valientes de Babilonia para pelear; se sentaron en las fortalezas; se secó su fuerza; se volvieron como mujeres; prendieron fuego a sus moradas, y las rompieron sus torres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051030013",
+        "h24051030014"
+      ],
+      "issue": "active 'rompieron' (they broke) instead of niphal passive; 'torres' instead of 'barras/barras de cierre'",
+      "spanishSpan": "las rompieron sus torres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051030012"
+      ],
+      "issue": "3fs suffix rendered as 'sus' (their) instead of 'sus' (her/its) for Babilonia",
+      "spanishSpan": "sus moradas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

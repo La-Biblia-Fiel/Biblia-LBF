@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:3",
+  "chapter": 51,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Que el que dobla la vara la doble, y el que afloja la soga la afloje. No tengan misericordia de los jóvenes, maten a todos los ejércitos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051003002",
+        "h24051003003",
+        "h24051003004"
+      ],
+      "issue": "Spanish introduces unrelated concepts of bending a rod and loosening a rope; tokens license drawing/treading the bow",
+      "spanishSpan": "Que el que dobla la vara la doble, y el que afloja la soga la afloje"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051003006",
+        "h24051003007"
+      ],
+      "issue": "Spanish omits the command regarding armor and replaces with unrelated rope concept",
+      "spanishSpan": "y el que afloja la soga la afloje"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051003009",
+        "h24051003011"
+      ],
+      "issue": "Spanish renders 'no tengan misericordia de los jóvenes' but tokens are 2mp 'do not spare her young men' with no mercy concept licensed",
+      "spanishSpan": "No tengan misericordia de los jóvenes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051003012",
+        "h24051003013",
+        "h24051003014"
+      ],
+      "issue": "Spanish 'maten a todos los ejércitos' omits hiphil 'devote to destruction' and replaces with generic 'kill armies'",
+      "spanishSpan": "maten a todos los ejércitos"
+    }
+  ],
+  "notes": "Spanish bears no relation to any token in the packet",
+  "discardedUncitedFindings": 0
+}

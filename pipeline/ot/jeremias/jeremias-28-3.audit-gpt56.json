@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:3",
+  "chapter": 28,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "En dos años más, haré volver a este lugar todos los utensilios de la casa del SEÑOR que Nabucodonosor, rey de Babilonia, llevó del lugar de este templo a Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028003020",
+        "h24028003021"
+      ],
+      "issue": "adds 'templo' not licensed by tokens for 'the place this'",
+      "spanishSpan": "del lugar de este templo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

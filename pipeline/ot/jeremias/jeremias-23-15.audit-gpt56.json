@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:15",
+  "chapter": 23,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, así dice el Señor de los ejércitos acerca de los profetas: He aquí que los alimentaré con hierbas amargas y los haré beber agua de riego, porque desde los profetas de Jerusalén ha salido la impiedad a toda la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023015013",
+        "h24023015014"
+      ],
+      "issue": "מֵי רֹאשׁ rendered as 'agua de riego' (irrigation) instead of poison/gall waters",
+      "spanishSpan": "agua de riego"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023015004"
+      ],
+      "issue": "יְהוָה rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:10",
+  "chapter": 39,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y de los pobres del pueblo que no tenían nada, Nebuzaradán, jefe de los carniceros, dejó en la tierra de Judá a unos viñadores y a unos pastores en aquel día.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039010016",
+        "h24039010017"
+      ],
+      "issue": "renders כרמים ויגבים as people (viñadores y pastores) instead of the objects given",
+      "spanishSpan": "a unos viñadores y a unos pastores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039010014",
+        "h24039010015"
+      ],
+      "issue": "omits giving the objects to the poor people (להם)",
+      "spanishSpan": "dejó ... a unos"
+    }
+  ],
+  "notes": "Spanish inverts the recipients and the gifts",
+  "discardedUncitedFindings": 0
+}

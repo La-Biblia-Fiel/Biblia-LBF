@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:6",
+  "chapter": 9,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Vives en medio de engaño, en medio de engaño te engañan; no conocen el camino de la sabiduría, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009006001"
+      ],
+      "issue": "renders as finite 'Vives' instead of licensed infinitive construct 'tu morada/dwelling'",
+      "spanishSpan": "Vives"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009006005",
+        "h24009006006",
+        "h24009006007"
+      ],
+      "issue": "replaces 'they refuse to know me' with 'te engañan' and adds unrelated 'camino de la sabiduría'",
+      "spanishSpan": "te engañan; no conocen el camino de la sabiduría"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009006009"
+      ],
+      "issue": "renders as 'el Señor' instead of licensed 'Jehová'",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "multiple concept additions and omissions",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:14",
+  "chapter": 39,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "y fueron y tomaron a Jeremías del patio de la guardia, y lo entregaron a Gedalíah hijo de Aicán, hijo de Safán, para que lo sacara de la casa, y él vivió en medio del pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039014001"
+      ],
+      "issue": "replaces 'they sent' with 'fueron' (went)",
+      "spanishSpan": "y fueron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039014016",
+        "h24039014017"
+      ],
+      "issue": "renders 'to the house' as 'de la casa' (out of the house)",
+      "spanishSpan": "de la casa"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:40",
+  "chapter": 31,
+  "verse": 40,
+  "candidateLabel": "gpt56",
+  "spanish": "Y todo el valle de los cadáveres y de la ceniza, y todo el campo de las cenizas hasta el arroyo de Kidron, hasta el ángulo de la puerta de los caballos al oriente, será santo al SEÑOR; no será arrancado ni derribado más para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031040005"
+      ],
+      "issue": "adds 'campo de las cenizas' concept not licensed by any token",
+      "spanishSpan": "y todo el campo de las cenizas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

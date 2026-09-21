@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:6",
+  "chapter": 5,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso los devorará el león del bosque, y el lobo de las estepas los destruirá. El leopardo acechará en sus ciudades; todo el que salga de ellas será devorado, porque son muchas sus transgresiones, y están llenos de rebelión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005006003"
+      ],
+      "issue": "Spanish renders הִכָּם (strike/hit) as devorará (devour), changing the verb action",
+      "spanishSpan": "los devorará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005006016"
+      ],
+      "issue": "Spanish renders יִטָּרֵף (be torn) as será devorado (be devoured), altering the verb",
+      "spanishSpan": "será devorado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005006020"
+      ],
+      "issue": "Spanish adds 'llenos de rebelión' with no corresponding token; עָצְמוּ only licenses 'have become many/strong'",
+      "spanishSpan": "y están llenos de rebelión"
+    }
+  ],
+  "notes": "multiple lexical substitutions and addition beyond licensed tokens",
+  "discardedUncitedFindings": 0
+}

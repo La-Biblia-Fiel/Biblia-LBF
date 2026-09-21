@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:12",
+  "chapter": 36,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fue a la casa del rey, a la habitación del escriba, y he aquí que allí estaban sentados todos los príncipes: Elishama el escriba, Delaía hijo de Semaja, Elnatán hijo de Acbor, Gamariah hijo de Safán, y Zedequías hijo de Hananja, y todos los príncipes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036012001"
+      ],
+      "issue": "verb omits downward motion licensed by yarad (H3381 qal)",
+      "spanishSpan": "Y fue"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:13",
+  "chapter": 26,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Ahora, pues, enmiendaos en sus caminos y en sus actos, y escuchad la voz de Jehová, su Dios, y Jehová os perdonará el mal que ha hablado contra ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026013002",
+        "h24026013003",
+        "h24026013004",
+        "h24026013005",
+        "h24026013008"
+      ],
+      "issue": "vosotros imperatives and 3rd-person 'sus' instead of 2mp 'ustedes' forms; suffixes are Sp2mp throughout",
+      "spanishSpan": "enmiendaos en sus caminos ... escuchad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026013002"
+      ],
+      "issue": "הֵיטִ֤יבוּ rendered as 'enmiendaos' (adds repentance/amendment concept not in lemma or hiphil)",
+      "spanishSpan": "enmiendaos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026013009"
+      ],
+      "issue": "וְיִנָּחֵ֣ם (niphal 'relent/be sorry') rendered as 'perdonará' (adds forgive concept)",
+      "spanishSpan": "Jehová os perdonará"
+    }
+  ],
+  "notes": "multiple person/verb mismatches plus lexical additions",
+  "discardedUncitedFindings": 0
+}

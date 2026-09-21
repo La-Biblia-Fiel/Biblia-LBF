@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:40",
+  "chapter": 48,
+  "verse": 40,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho el Señor: He aquí que como águila se alzará y extenderá sus alas sobre Moab.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048040004"
+      ],
+      "issue": "replaces יְהוָה with conventional title 'el Señor' instead of licensed rendering Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

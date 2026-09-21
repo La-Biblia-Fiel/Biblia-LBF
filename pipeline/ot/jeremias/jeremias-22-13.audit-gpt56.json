@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:13",
+  "chapter": 22,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Ay del que construye su casa sin justicia y sus techos sin derecho; quien explota a su prójimo sin pagarle su jornal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022013006"
+      ],
+      "issue": "עֲלִיּוֹתָיו rendered as 'techos' (roofs) instead of upper rooms/chambers",
+      "spanishSpan": "sus techos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022013010",
+        "h24022013011",
+        "h24022013012",
+        "h24022013013",
+        "h24022013014"
+      ],
+      "issue": "adds 'explota' concept and restructures; tokens only license 'makes neighbor work for nothing and does not give his wages'",
+      "spanishSpan": "quien explota a su prójimo sin pagarle su jornal"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

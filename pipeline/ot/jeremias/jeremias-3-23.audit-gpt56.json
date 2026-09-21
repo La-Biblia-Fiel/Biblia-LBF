@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:23",
+  "chapter": 3,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "En verdad, de la mentira hay un montón de montañas, pero en Yavé, nuestro Dios, está la salvación de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003023006"
+      ],
+      "issue": "omits the second אָכֵן (repetition of the adverb)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003023001",
+        "h24003023002",
+        "h24003023003",
+        "h24003023004",
+        "h24003023005"
+      ],
+      "issue": "rearranges and adds 'hay' to create a clause not licensed by the token sequence or morphology",
+      "spanishSpan": "de la mentira hay un montón de montañas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003023001",
+        "h24003023006"
+      ],
+      "issue": "inserts contrastive 'pero' absent from either adverb token",
+      "spanishSpan": "pero"
+    }
+  ],
+  "notes": "first clause structure and second אָכֵן are decisive",
+  "discardedUncitedFindings": 0
+}

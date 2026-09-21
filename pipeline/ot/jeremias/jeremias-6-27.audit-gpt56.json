@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:27",
+  "chapter": 6,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Te pondré como un juicio entre mi pueblo; conocerás y probarás sus caminos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006027001"
+      ],
+      "issue": "בָּחוֹן rendered as 'un juicio' (adds unlicensed concept)",
+      "spanishSpan": "como un juicio"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006027004"
+      ],
+      "issue": "מִבְצָר completely omitted",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

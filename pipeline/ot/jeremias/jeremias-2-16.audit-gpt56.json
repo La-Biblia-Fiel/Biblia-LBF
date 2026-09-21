@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:16",
+  "chapter": 2,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "También los hijos de Nof y de Tahpanés te pastorearán a la cabeza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002016003"
+      ],
+      "issue": "adds 'y de Tahpanés' with no corresponding token in packet",
+      "spanishSpan": "y de Tahpanés"
+    }
+  ],
+  "notes": "packet only licenses בְּנֵי נֹ֖ף",
+  "discardedUncitedFindings": 0
+}

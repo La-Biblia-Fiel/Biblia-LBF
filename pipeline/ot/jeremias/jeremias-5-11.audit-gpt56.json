@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:11",
+  "chapter": 5,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque han traicionado al SEÑOR, la gloria de Israel, dice el SEÑOR, y a la alianza con su padre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005011005",
+        "h24005011006",
+        "h24005011007",
+        "h24005011008"
+      ],
+      "issue": "omits 'house of Israel and house of Judah' as the named subjects",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005011005",
+        "h24005011006"
+      ],
+      "issue": "inserts 'la gloria de Israel' not licensed by any token",
+      "spanishSpan": "la gloria de Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005011001",
+        "h24005011002",
+        "h24005011003",
+        "h24005011004"
+      ],
+      "issue": "restructures betrayal as against 'el SEÑOR' plus added covenant/father concepts instead of 'against me' by house of Israel/Judah",
+      "spanishSpan": "han traicionado al SEÑOR ... y a la alianza con su padre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005011009",
+        "h24005011010"
+      ],
+      "issue": "inserts 'dice el SEÑOR' in middle with no token support for that phrasing or position",
+      "spanishSpan": "dice el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

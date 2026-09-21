@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:9",
+  "chapter": 8,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Se avergüenzan los sabios, se espantan y se retiran, porque han despreciado la palabra del SEÑOR, y ¿qué provecho tienen la sabiduría y la astucia?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008009004"
+      ],
+      "issue": "niphal לכד rendered as 'se retiran' (withdraw) instead of captured/taken",
+      "spanishSpan": "se retiran"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008009009",
+        "h24008009010",
+        "h24008009011"
+      ],
+      "issue": "adds 'provecho' and 'astucia' not licensed by חכמת מה להם",
+      "spanishSpan": "qué provecho tienen la sabiduría y la astucia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

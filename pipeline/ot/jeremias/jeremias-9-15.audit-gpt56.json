@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:15",
+  "chapter": 9,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, dice Jehová, Dios de Israel: He aquí que les daré hierba para comer y les daré agua para beber.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009015005"
+      ],
+      "issue": "omits צְבָאוֹת (of hosts)",
+      "spanishSpan": "Jehová, Dios de Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009015013"
+      ],
+      "issue": "replaces לַעֲנָה (wormwood) with generic hierba",
+      "spanishSpan": "hierba para comer"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009015015",
+        "h24009015016"
+      ],
+      "issue": "replaces מֵי־רֹאשׁ (gall/poison water) with plain water to drink",
+      "spanishSpan": "agua para beber"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009015009",
+        "h24009015014"
+      ],
+      "issue": "alters the specific punitive feeding/drinking of wormwood and gall to neutral provision of food and water",
+      "spanishSpan": "les daré hierba para comer y les daré agua para beber"
+    }
+  ],
+  "notes": "Spanish inverts the judgment oracle",
+  "discardedUncitedFindings": 0
+}

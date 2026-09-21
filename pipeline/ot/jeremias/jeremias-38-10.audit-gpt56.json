@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:10",
+  "chapter": 38,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "El rey ordenó al eunuco del rey de Egipto: Toma treinta hombres y saca a Jeremías el profeta del pozo antes de que muera.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038010004",
+        "h24038010005",
+        "h24038010006"
+      ],
+      "issue": "replaces proper name Ebed-melech the Cushite with interpretive 'eunuco del rey de Egipto'",
+      "spanishSpan": "al eunuco del rey de Egipto"
+    }
+  ],
+  "notes": "name and gentilic mismatch",
+  "discardedUncitedFindings": 0
+}

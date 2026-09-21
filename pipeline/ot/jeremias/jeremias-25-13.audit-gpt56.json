@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:13",
+  "chapter": 25,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y haré que sobre esta tierra se cumplan todas las palabras que he hablado contra ella, conforme a todo lo escrito en este libro, que ha profetizado Jeremías contra todas las naciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025013001",
+        "h24025013002",
+        "h24025013003",
+        "h24025013004",
+        "h24025013005",
+        "h24025013006",
+        "h24025013007",
+        "h24025013008",
+        "h24025013009",
+        "h24025013010",
+        "h24025013011",
+        "h24025013012",
+        "h24025013013",
+        "h24025013014",
+        "h24025013015",
+        "h24025013016",
+        "h24025013017",
+        "h24025013018",
+        "h24025013019",
+        "h24025013020"
+      ],
+      "issue": "adds 'Y haré que ... se cumplan' with no corresponding token or lemma",
+      "spanishSpan": "Y haré que ... se cumplan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025013002",
+        "h24025013003"
+      ],
+      "issue": "renders הָאָרֶץ הַהִיא as 'esta tierra' (this) instead of preserving 'that'",
+      "spanishSpan": "esta tierra"
+    }
+  ],
+  "notes": "verse tokens contain no verb of causing fulfillment",
+  "discardedUncitedFindings": 0
+}

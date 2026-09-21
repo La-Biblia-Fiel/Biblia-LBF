@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:7",
+  "chapter": 34,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el ejército del rey de Babilonia estaba en guerra contra Jerusalén y contra todas las ciudades de Judá que quedaban, hasta Lachis y Azeca, porque estas ciudades de Judá quedaban sitiadas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034007018",
+        "h24034007021",
+        "h24034007022"
+      ],
+      "issue": "adds 'sitiadas' (besieged) to the causal clause; tokens only license 'these remained [as] fortified cities'",
+      "spanishSpan": "porque estas ciudades de Judá quedaban sitiadas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034007012",
+        "h24034007013",
+        "h24034007014",
+        "h24034007015"
+      ],
+      "issue": "renders אֶל לָכִישׁ וְאֶל עֲזֵקָה as 'hasta Lachis y Azeca' (extent), omitting the direct 'against' targets licensed by the prepositions",
+      "spanishSpan": "hasta Lachis y Azeca"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

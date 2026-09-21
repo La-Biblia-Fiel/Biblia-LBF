@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:5",
+  "chapter": 36,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Jeremías ordenó a Baruc: Yo estoy encarcelado, no puedo ir al templo de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036005011"
+      ],
+      "issue": "renders בֵּית as 'templo' (adds specialized concept not licensed by the lemma 'house')",
+      "spanishSpan": "templo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

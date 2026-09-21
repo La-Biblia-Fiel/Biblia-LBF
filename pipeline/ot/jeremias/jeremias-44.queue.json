@@ -1,0 +1,656 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 44,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "passed": [
+    1,
+    2,
+    11,
+    13,
+    15,
+    18,
+    26,
+    30
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por la maldad que hicieron para enojarme, para ir a quemar incienso a otros dioses que no conocían, ni ustedes ni sus padres.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044003011",
+            "h24044003012",
+            "h24044003013",
+            "h24044003014",
+            "h24044003015",
+            "h24044003016"
+          ],
+          "issue": "reverses participants in relative clause: Spanish makes dioses the subject of 'no conocían' while Hebrew makes the people (הֵמָּה) the subject who did not know the gods",
+          "spanishSpan": "otros dioses que no conocían, ni ustedes ni sus padres"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y envié a ustedes a todos mis siervos los profetas, levantándolos y enviándolos, diciendo: No hagan esta cosa abominable que aborrezco.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044004007",
+            "h24044004008"
+          ],
+          "issue": "adds interpretive 'levantándolos' not licensed by שכם hiphil inf abs or שלח inf abs",
+          "spanishSpan": "levantándolos y enviándolos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no escucharon ni inclinaron el oído para volver de su maldad y no quemar incienso a dioses extranjeros.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044005012"
+          ],
+          "issue": "renders אחרים as 'extranjeros' (foreign), adding a concept not licensed by the lemma 'other'",
+          "spanishSpan": "dioses extranjeros"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y se enojó mi ira y ardí contra las ciudades de Judá y contra las calles de Jerusalén, y se convirtieron en ruina y en desolación como este día.",
+      "notes": "subject and stem force altered",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044006001"
+          ],
+          "issue": "נתך rendered as 'se enojó' (anger) instead of 'poured out'",
+          "spanishSpan": "Y se enojó mi ira"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044006004"
+          ],
+          "issue": "בער changed from 3fs 'it burned' to 1cs 'ardí'",
+          "spanishSpan": "y ardí contra"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ahora dice Jehová, el Dios de los ejércitos, el Dios de Israel: ¿Por qué hacéis un mal grande a sus almas para cortar a ustedes hombre y mujer, niño y lactante, de la tierra de Judá, para no dejaros una simiente?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044007010",
+            "h24044007015",
+            "h24044007017",
+            "h24044007026"
+          ],
+          "issue": "vosotros verb forms (hacéis, dejaros) and 3rd-person sus instead of Latin-American ustedes 2pl address licensed by 2mp morphology",
+          "spanishSpan": "hacéis ... a sus almas ... dejaros"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para enojarme con las obras de sus manos, para quemar incienso a dioses extranjeros en la tierra de Egipto, donde venís a habitar, para cortaros y para que seáis maldición y escarnio entre todas las gentes de la tierra.",
+      "notes": "person shift on hands; variety mismatch on verb",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044008003"
+          ],
+          "issue": "person mismatch: 2mp 'your hands' rendered as 3rd-person 'sus manos'",
+          "spanishSpan": "sus manos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044008010",
+            "h24044008011"
+          ],
+          "issue": "vosotros form 'venís' instead of Latin-American ustedes",
+          "spanishSpan": "venís"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿han olvidado las malas obras de sus padres y las malas obras de los reyes de Judá y las malas obras de sus mujeres, y sus malas obras y las malas obras de sus mujeres, que hicieron en la tierra de Judá y en las calles de Jerusalén?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044009001"
+          ],
+          "issue": "2mp verb rendered as 3rd-person plural instead of 2nd-person address to ustedes",
+          "spanishSpan": "¿han olvidado"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No se han humillado hasta este día, ni temieron, ni anduvieron en mi ley y en mis estatutos que puse delante de ustedes y delante de sus padres.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044010002"
+          ],
+          "issue": "Pual passive (they were crushed/humbled) rendered as reflexive 'se han humillado'",
+          "spanishSpan": "No se han humillado"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tomaré a la simiente de Judá que puso su rostro para venir a la tierra de Egipto a habitar allí, y caerán todos en la tierra de Egipto, morirán de espada y de hambre, morirán de espada y de hambre desde el pequeño hasta el grande, y serán maldición, desolación, maldición, escarnio.",
+      "notes": "multiple token mismatches in remnant term and clause structure",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044012003"
+          ],
+          "issue": "שְׁאֵרִית rendered as 'simiente' (adds seed/offspring concept absent from lemma 7611)",
+          "spanishSpan": "la simiente"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044012013",
+            "h24044012017",
+            "h24044012020",
+            "h24044012024",
+            "h24044012025",
+            "h24044012026"
+          ],
+          "issue": "rearranges and duplicates destruction verbs/clauses (adds second 'morirán de espada y de hambre' and misplaces 'caerán' before the small-to-great phrase)",
+          "spanishSpan": "caerán todos en la tierra de Egipto, morirán de espada y de hambre, morirán de espada y de hambre desde el pequeño hasta el grande"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no habrá huido ni quedado de la simiente de Judá que vino a habitar allí en la tierra de Egipto, y para volver a la tierra de Judá, que ellos llevan su alma para volver a habitar allí, porque no volverán, sino los que huyeron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044014003",
+            "h24044014004"
+          ],
+          "issue": "adds verbs huido/quedado and resolves nouns as actions",
+          "spanishSpan": "no habrá huido ni quedado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044014005"
+          ],
+          "issue": "simiente adds seed/offspring concept not in she'erit",
+          "spanishSpan": "simiente de Judá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044014028"
+          ],
+          "issue": "adds verb huyeron to interpret p'letim",
+          "spanishSpan": "los que huyeron"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra que hablaste a nosotros en nombre de Jehová, no la oímos a ti.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044016007",
+            "h24044016008",
+            "h24044016009"
+          ],
+          "issue": "Spanish restructures negation+participle+to-you as 'no la oímos a ti', making the word the object of hearing and altering participants/aspect",
+          "spanishSpan": "no la oímos a ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044016008"
+          ],
+          "issue": "Qal active participle (ongoing 'we are not hearing') rendered as preterite 'oímos'",
+          "spanishSpan": "oímos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque hicimos lo que salió de nuestra boca para quemar incienso a la reina de los cielos y derramar libaciones a ella, como hicimos nosotros y nuestros padres, nuestros reyes y nuestros príncipes, en las ciudades de Judá y en las calles de Jerusalén, y comimos y fuimos bien, y no vimos mal.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044017026",
+            "h24044017027"
+          ],
+          "issue": "omits 'bread' and renders שבע 'be satisfied' as plain 'comimos'",
+          "spanishSpan": "comimos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044017028",
+            "h24044017029"
+          ],
+          "issue": "renders טוֹבִים as 'fuimos bien' instead of 'fuimos buenos'",
+          "spanishSpan": "fuimos bien"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando quemamos incienso a la reina de los cielos y derramamos libaciones a ella, ¿fuimos nosotros los únicos que hicimos intenciones para ofenderla y derramar libaciones a ella?",
+      "notes": "second clause completely mismatches the tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044019009",
+            "h24044019010",
+            "h24044019011"
+          ],
+          "issue": "adds 'los únicos' and restructures the question; tokens ask whether the actions were done without our men",
+          "spanishSpan": "¿fuimos nosotros los únicos que"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044019013"
+          ],
+          "issue": "renders כַּוָּנִים as 'intenciones' instead of cakes",
+          "spanishSpan": "hicimos intenciones"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y respondió Jeremías a todo el pueblo, a los hombres y a las mujeres y a todo el pueblo que le respondía con palabras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044020001"
+          ],
+          "issue": "main verb rendered as 'respondió' (reply/answer) instead of licensed 'dijo' from lemma 559",
+          "spanishSpan": "respondió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044020015"
+          ],
+          "issue": "דָּבָר rendered as plural 'palabras'",
+          "spanishSpan": "palabras"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿No es cierto que el incienso que quemasteis en las ciudades de Judá y en las calles de Jerusalén, ustedes y sus padres, sus reyes y sus príncipes y el pueblo de la tierra, Jehová lo recordó y subió sobre su corazón?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044021005"
+          ],
+          "issue": "vosotros preterite 'quemasteis' instead of Latin-American 2mp form",
+          "spanishSpan": "quemasteis"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque han quemado incienso y han pecado contra Jehová, y no han escuchado la voz de Jehová ni su ley ni sus estatutos ni sus testimonios, y no han andado en ellos; por eso os ha llamado la maldad que hoy están padeciendo.",
+      "notes": "participant shift and added verb violate morphology and surface",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044023003",
+            "h24044023005",
+            "h24044023008",
+            "h24044023015"
+          ],
+          "issue": "2mp perfect verbs rendered with ambiguous 'han' that permits 3pl reading instead of clear 2pl address",
+          "spanishSpan": "han quemado... han pecado... han escuchado... han andado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044023018",
+            "h24044023019",
+            "h24044023020",
+            "h24044023021",
+            "h24044023022",
+            "h24044023023"
+          ],
+          "issue": "changes participants and adds un-licensed concept 'padeciendo'; source states the evil has met/called 'you' this day, Spanish makes sufferers a third party",
+          "spanishSpan": "os ha llamado la maldad que hoy están padeciendo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y respondió Jeremías a todo el pueblo y a todas las mujeres: Oíd la palabra de Jehová, todo Judá que está en tierra de Egipto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044024001"
+          ],
+          "issue": "וַיֹּ֤אמֶר (lemma 559) is 'and he said', not 'respondió'",
+          "spanishSpan": "Y respondió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044024009"
+          ],
+          "issue": "2mp imperative rendered with vosotros 'Oíd' instead of Latin American 'Oigan'",
+          "spanishSpan": "Oíd"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehovas de los ejércitos, el Dios de Israel, diciendo: ustedes y sus mujeres decís con sus labios y con sus manos: Haremos lo que hemos prometido, que hemos prometido para quemar incienso a la reina de los cielos y derramar libaciones a ella. Confirmaréis sus votos y cumpliréis sus votos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044025008",
+            "h24044025010"
+          ],
+          "issue": "attributes speaking to both 'ustedes y sus mujeres' with 2p verb; source has 2mp addressees + 3fp verb on the women only",
+          "spanishSpan": "ustedes y sus mujeres decís"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044025011"
+          ],
+          "issue": "renders 'mouths' as 'labios'",
+          "spanishSpan": "con sus labios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044025028",
+            "h24044025032"
+          ],
+          "issue": "uses vosotros verb forms (Confirmaréis, cumpliréis) instead of Latin-American ustedes forms",
+          "spanishSpan": "Confirmaréis sus votos y cumpliréis sus votos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044025003"
+          ],
+          "issue": "renders proper name as 'Jehovas' (misspelled)",
+          "spanishSpan": "Jehovas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que estoy vigilando sobre ellos para el mal y no para el bien, y todos los varones de Judá que están en tierra de Egipto morirán con la espada y con el hambre, hasta que sean consumidos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044027007",
+            "h24044027014",
+            "h24044027015",
+            "h24044027016",
+            "h24044027017"
+          ],
+          "issue": "adds unlicensed verb 'morirán' and restructures the clause; tokens have only תמו ... בחרב וברעב עד כלותם",
+          "spanishSpan": "morirán con la espada y con el hambre, hasta que sean consumidos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los que escapen de la espada volverán de tierra de Egipto a tierra de Judá en número contado, y sabrá todo el resto de Judá que vino a tierra de Egipto para habitar allí, de quién se levantará de mí y de ellos.",
+      "notes": "remainder of rendering stays within token bounds",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044028020"
+          ],
+          "issue": "omits licensed concept דְּבַר (word/matter of) and alters clause structure",
+          "spanishSpan": "de quién se levantará de mí y de ellos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y esto es para ustedes una señal, dice el SEÑOR: Pues yo estoy guardando sobre ustedes este lugar para el mal, para que sepáis que mis palabras se levantarán contra ustedes para el mal.",
+      "notes": "also 'dice el SEÑOR' for נאם יהוה is loose but secondary to the above",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044029007"
+          ],
+          "issue": "פֹקֵד (qal ptc) rendered as 'estoy guardando' (keeping/guarding), which adds wrong sense; lemma is attend/visit/appoint, often punitive",
+          "spanishSpan": "yo estoy guardando"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044029013"
+          ],
+          "issue": "2mp imperfect rendered with vosotros 'sepáis' instead of ustedes 'sepan'",
+          "spanishSpan": "para que sepáis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044029010",
+            "h24044029019"
+          ],
+          "issue": "לְרָעָה placed on the פקד clause instead of only on the rising of the words",
+          "spanishSpan": "guardando sobre ustedes este lugar para el mal"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Jehová no pudo más soportar la maldad de sus actos, por las abominaciones que hicisteis, y su tierra se convirtió en desolación y en desolación y en maldición, sin habitante como hoy.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044022008",
+            "h24044022014"
+          ],
+          "issue": "2mp suffixes rendered as 3rd-person possessives (sus, su) instead of 2pl",
+          "spanishSpan": "sus actos, su tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24044022012"
+          ],
+          "issue": "vosotros preterite form instead of Latin-American ustedes",
+          "spanishSpan": "hicisteis"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T23:45:26.226784+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 30,
+    "verses": 30,
+    "input": 85720,
+    "cachedInput": 24768,
+    "output": 3522,
+    "reasoning": 27883,
+    "usd": 0.3227,
+    "byProvider": {
+      "xai": {
+        "calls": 30,
+        "input": 85720,
+        "output": 3522,
+        "reasoning": 27883,
+        "usd": 0.3227
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 30,
+        "input": 85720,
+        "output": 3522,
+        "reasoning": 27883,
+        "usd": 0.3227
+      }
+    },
+    "usdPerVerse": 0.0108,
+    "bibleAtThisRate": 335.0,
+    "book": "jeremias",
+    "chapter": 44
+  }
+}

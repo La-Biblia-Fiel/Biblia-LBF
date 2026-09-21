@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:23",
+  "chapter": 44,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque han quemado incienso y han pecado contra Jehová, y no han escuchado la voz de Jehová ni su ley ni sus estatutos ni sus testimonios, y no han andado en ellos; por eso os ha llamado la maldad que hoy están padeciendo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044023003",
+        "h24044023005",
+        "h24044023008",
+        "h24044023015"
+      ],
+      "issue": "2mp perfect verbs rendered with ambiguous 'han' that permits 3pl reading instead of clear 2pl address",
+      "spanishSpan": "han quemado... han pecado... han escuchado... han andado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044023018",
+        "h24044023019",
+        "h24044023020",
+        "h24044023021",
+        "h24044023022",
+        "h24044023023"
+      ],
+      "issue": "changes participants and adds un-licensed concept 'padeciendo'; source states the evil has met/called 'you' this day, Spanish makes sufferers a third party",
+      "spanishSpan": "os ha llamado la maldad que hoy están padeciendo"
+    }
+  ],
+  "notes": "participant shift and added verb violate morphology and surface",
+  "discardedUncitedFindings": 0
+}

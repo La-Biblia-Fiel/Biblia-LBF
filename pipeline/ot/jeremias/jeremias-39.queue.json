@@ -1,0 +1,401 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 39,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "passed": [
+    5,
+    6,
+    15,
+    18
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el año noveno del reinado de Zedequías, rey de Judá, en el mes décimo, vino Nabucodonosor, rey de Babilonia, y todo su ejército a Jerusalén, y la sitiaron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039001001",
+            "h24039001002",
+            "h24039001003",
+            "h24039001004",
+            "h24039001005"
+          ],
+          "issue": "adds 'del reinado de' not licensed by the tokens",
+          "spanishSpan": "del reinado de"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el año dieciocho del reinado de Zedequías, en el mes cuarto, en el día nueve del mes, la ciudad fue tomada.",
+      "notes": "also adds reinado concept absent from l/6667",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039002001",
+            "h24039002002"
+          ],
+          "issue": "renders eleven as eighteen",
+          "spanishSpan": "año dieciocho"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039002009"
+          ],
+          "issue": "changes Hophal breach/breach through to taken/captured",
+          "spanishSpan": "fue tomada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039002007",
+            "h24039002008"
+          ],
+          "issue": "inserts explicit día not present in tokens",
+          "spanishSpan": "el día nueve"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vinieron todos los príncipes del rey de Babilonia y se sentaron en la puerta de la torre de la guardia, y Nebuzaradán, el capitán de la guardia, Sarsejim, Nergal-sar-ezzer, Sarsejim, Rab-saris, Nergal-sar-ezzer, Rab-mag, y todos los demás príncipes del rey de Babilonia.",
+      "notes": "multiple additions and one outright substitution of lemma",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039003008"
+          ],
+          "issue": "renders הַתָּוֶךְ as 'torre de la guardia' (adds tower/guard concept absent from lemma/morph)",
+          "spanishSpan": "la puerta de la torre de la guardia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039003009",
+            "h24039003010",
+            "h24039003011",
+            "h24039003012",
+            "h24039003013",
+            "h24039003014",
+            "h24039003015",
+            "h24039003016",
+            "h24039003017",
+            "h24039003018",
+            "h24039003019",
+            "h24039003020",
+            "h24039003021",
+            "h24039003022"
+          ],
+          "issue": "inserts Nebuzaradán + titles and misparses/repeats name sequence not licensed by the proper-name tokens",
+          "spanishSpan": "Nebuzaradán, el capitán de la guardia, Sarsejim, Nergal-sar-ezzer, Sarsejim, Rab-saris, Nergal-sar-ezzer, Rab-mag"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando Zedequías, rey de Judá, y todos los hombres de guerra vieron a los príncipes, huyeron por la noche desde la ciudad por el camino del jardín del rey, por la puerta entre las murallas, y salieron por el camino del desierto.",
+      "notes": "no other mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039004003"
+          ],
+          "issue": "ראם is 3ms (he saw them); Spanish attributes seeing to plural subjects (Zedequías y todos los hombres)",
+          "spanishSpan": "vieron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039004003"
+          ],
+          "issue": "adds 'a los príncipes' with no corresponding token or referent in the packet",
+          "spanishSpan": "vieron a los príncipes"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cegó los ojos de Zedequías y lo ató con cadenas de cobre para llevarlo a Babilonia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039007006"
+          ],
+          "issue": "adds concept 'cadenas' not present in lemma or surface of bronze dual noun",
+          "spanishSpan": "cadenas de cobre"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y quemaron la casa del rey y la casa del pueblo con fuego, y derribaron las murallas de Jerusalén.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039008008"
+          ],
+          "issue": "omits explicit agent הַכַּשְׂדִּים (the Chaldeans) who perform both actions",
+          "spanishSpan": "Y quemaron"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el resto del pueblo que quedaba en la ciudad, y los que habían caído, los llevó cautivos Nebuzaradán, jefe de los carniceros, a Babilonia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039009012",
+            "h24039009013",
+            "h24039009014"
+          ],
+          "issue": "omits second יֶתֶר הָעָם הַנִּשְׁאָרִים phrase applying to the fallen",
+          "spanishSpan": "y los que habían caído"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039009015"
+          ],
+          "issue": "adds 'cautivos' concept not licensed by hiphil גלה",
+          "spanishSpan": "los llevó cautivos"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y de los pobres del pueblo que no tenían nada, Nebuzaradán, jefe de los carniceros, dejó en la tierra de Judá a unos viñadores y a unos pastores en aquel día.",
+      "notes": "Spanish inverts the recipients and the gifts",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039010016",
+            "h24039010017"
+          ],
+          "issue": "renders כרמים ויגבים as people (viñadores y pastores) instead of the objects given",
+          "spanishSpan": "a unos viñadores y a unos pastores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039010014",
+            "h24039010015"
+          ],
+          "issue": "omits giving the objects to the poor people (להם)",
+          "spanishSpan": "dejó ... a unos"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el rey de Babilonia ordenó a Jeremías por medio de Nebuzaradán, jefe de los carniceros, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039011002"
+          ],
+          "issue": "omits explicit proper name subject Nebuchadnezzar",
+          "spanishSpan": "el rey de Babilonia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039011005"
+          ],
+          "issue": "renders עַל as direct-object marker 'a' instead of 'concerning/about'",
+          "spanishSpan": "ordenó a Jeremías"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tómalo y ponle los ojos sobre él, y no le hagas ningún mal, porque si él te habla, así haz con él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039012011",
+            "h24039012012",
+            "h24039012014"
+          ],
+          "issue": "renders כַּאֲשֶׁר...כֵּן as conditional 'si' instead of 'as...so'",
+          "spanishSpan": "si él te habla, así haz"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Nebuzaradán, jefe de los carniceros, y Nebushazbán, jefe de los eunucos, y Nergal-sar-ezzer, jefe de los magos, y todos los jefes del rey de Babilonia,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039013001"
+          ],
+          "issue": "omits the verb 'sent' (וַיִּשְׁלַ֞ח) licensed by the first token",
+          "spanishSpan": "Y"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "y fueron y tomaron a Jeremías del patio de la guardia, y lo entregaron a Gedalíah hijo de Aicán, hijo de Safán, para que lo sacara de la casa, y él vivió en medio del pueblo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039014001"
+          ],
+          "issue": "replaces 'they sent' with 'fueron' (went)",
+          "spanishSpan": "y fueron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039014016",
+            "h24039014017"
+          ],
+          "issue": "renders 'to the house' as 'de la casa' (out of the house)",
+          "spanishSpan": "de la casa"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ve y di al siervo del rey de Egipto, diciendo: Así ha dicho Jehová de los ejércitos, el Dios de Israel: He aquí que pondré mis palabras sobre esta ciudad para mal y no para bien, y serán delante de ti en aquel día.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039016003",
+            "h24039016004",
+            "h24039016005"
+          ],
+          "issue": "adds 'de Egipto' (not present in tokens; Cushite referent only)",
+          "spanishSpan": "del rey de Egipto"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y te salvaré en aquel día, dice Jehová, y no caerás en manos de los hombres a quienes temes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24039017007"
+          ],
+          "issue": "Spanish replaces niphal of נתן 'be given' with unrelated verb 'caerás'",
+          "spanishSpan": "no caerás"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T02:02:43.054525+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 18,
+    "verses": 18,
+    "input": 44870,
+    "cachedInput": 16128,
+    "output": 1983,
+    "reasoning": 16526,
+    "usd": 0.1766,
+    "byProvider": {
+      "xai": {
+        "calls": 18,
+        "input": 44870,
+        "output": 1983,
+        "reasoning": 16526,
+        "usd": 0.1766
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 18,
+        "input": 44870,
+        "output": 1983,
+        "reasoning": 16526,
+        "usd": 0.1766
+      }
+    },
+    "usdPerVerse": 0.0098,
+    "bibleAtThisRate": 305.0,
+    "book": "jeremias",
+    "chapter": 39
+  }
+}

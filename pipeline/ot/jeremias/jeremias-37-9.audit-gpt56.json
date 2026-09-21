@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:9",
+  "chapter": 37,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice Jehová: No os engañéis diciendo: Se han ido los caldeos de nosotros. No se han ido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037009005",
+        "h24037009006"
+      ],
+      "issue": "uses Peninsular vosotros form 'os engañéis' instead of Latin American ustedes",
+      "spanishSpan": "No os engañéis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037009009",
+        "h24037009014"
+      ],
+      "issue": "renders qal imperfect יֵלְכוּ as perfect 'se han ido' (tense/aspect change)",
+      "spanishSpan": "Se han ido ... No se han ido"
+    }
+  ],
+  "notes": "Jehová and overall structure otherwise match tokens",
+  "discardedUncitedFindings": 0
+}

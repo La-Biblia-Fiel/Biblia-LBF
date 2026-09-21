@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:36",
+  "chapter": 50,
+  "verse": 36,
+  "candidateLabel": "gpt56",
+  "spanish": "Espada contra sus batidores y contra sus mensajeros, espada contra sus guerreros y los derrotarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050036003",
+        "h24050036004"
+      ],
+      "issue": "omits licensed verb נֹאָלוּ and splits/replaces single noun הַבַּדִּים with two nouns batidores y mensajeros",
+      "spanishSpan": "sus batidores y contra sus mensajeros"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050036008"
+      ],
+      "issue": "changes verb חָתּוּ (they will be dismayed) to active 'derrotarán' (they will defeat them)",
+      "spanishSpan": "y los derrotarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

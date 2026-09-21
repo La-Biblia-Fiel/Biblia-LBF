@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:15",
+  "chapter": 2,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Contra él rugirán los leones, darán voces, y han puesto su tierra en desolación, sus ciudades han quedado desiertas, sin habitantes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002015004",
+        "h24002015005"
+      ],
+      "issue": "renders perfect נָתְנ֖וּ קוֹלָ֑ם as future darán voces, aligning it with the preceding imperfect instead of preserving the perfect aspect",
+      "spanishSpan": "darán voces"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

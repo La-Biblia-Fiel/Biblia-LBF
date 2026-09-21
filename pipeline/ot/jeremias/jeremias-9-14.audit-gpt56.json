@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:14",
+  "chapter": 9,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y han andado tras la rebeldía de su corazón y tras los ídolos que sus padres les enseñaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009014006"
+      ],
+      "issue": "renders proper noun הַבְּעָלִ֔ים (Baals) as interpretive 'ídolos'",
+      "spanishSpan": "los ídolos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

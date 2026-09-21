@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:45",
+  "chapter": 51,
+  "verse": 45,
+  "candidateLabel": "gpt56",
+  "spanish": "Salid de ella, pueblo mío, y cada uno escape con su vida, porque la ira del Señor sale de ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051045008",
+        "h24051045009",
+        "h24051045010"
+      ],
+      "issue": "adds 'sale de ella' to the anger; Hebrew has only 'from the burning anger of YHWH' as the thing to flee",
+      "spanishSpan": "porque la ira del Señor sale de ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051045004",
+        "h24051045005",
+        "h24051045006",
+        "h24051045007"
+      ],
+      "issue": "restructures the escape command and reason; loses direct 'escape ... from the burning anger'",
+      "spanishSpan": "y cada uno escape con su vida, porque la ira del Señor sale de ella"
+    }
+  ],
+  "notes": "imperative force and prepositional source omitted or altered",
+  "discardedUncitedFindings": 0
+}

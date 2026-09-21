@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:4",
+  "chapter": 9,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Cada uno guarda celosamente a su vecino, y no confíes en tu hermano; porque cada hermano es un cazador que caza a Jacob, y cada amigo es un calumniador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009004001",
+        "h24009004002",
+        "h24009004003"
+      ],
+      "issue": "adds 'guarda celosamente a su vecino' (wrong direction and extra adverb) instead of 2mp Niphal imperative 'be on guard each from his neighbor'",
+      "spanishSpan": "Cada uno guarda celosamente a su vecino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009004008"
+      ],
+      "issue": "uses singular 'confíes' (tú) instead of 2mp plural 'confíen' (ustedes)",
+      "spanishSpan": "no confíes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009004012",
+        "h24009004013"
+      ],
+      "issue": "renders עקב as 'cazador que caza a Jacob' (name + hunting) instead of supplant/deceive with infinitive absolute emphasis",
+      "spanishSpan": "es un cazador que caza a Jacob"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009004017"
+      ],
+      "issue": "omits 'goes about' (הלך) with the slanderer",
+      "spanishSpan": "es un calumniador"
+    }
+  ],
+  "notes": "multiple lexical and morphological mismatches",
+  "discardedUncitedFindings": 0
+}

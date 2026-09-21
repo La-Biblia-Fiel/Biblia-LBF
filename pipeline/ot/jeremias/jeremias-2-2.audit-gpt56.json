@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:2",
+  "chapter": 2,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Ve y anuncia en oídos de Jerusalén, diciendo: Así ha dicho el Señor: He recordado tu bondad de tus juventudes, el amor de tus novicias, cuando te seguía en el desierto, en tierra no sembrada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002002008"
+      ],
+      "issue": "replaces יהוה with title 'el Señor' instead of licensed Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002002013",
+        "h24002002014"
+      ],
+      "issue": "renders אַהֲבַת כְּלוּלֹתָיִךְ as 'el amor de tus novicias' (adds interpretive 'novice bride' concept not licensed by lemma 3623)",
+      "spanishSpan": "el amor de tus novicias"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

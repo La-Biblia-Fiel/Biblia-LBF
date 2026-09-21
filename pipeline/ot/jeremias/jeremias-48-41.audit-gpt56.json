@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:41",
+  "chapter": 48,
+  "verse": 41,
+  "candidateLabel": "gpt56",
+  "spanish": "Serán tomadas las ciudades fortificadas y las fortalezas serán ocupadas; y el corazón de los valientes de Moab en aquel día será como el corazón de una mujer en trabajo de parto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048041002"
+      ],
+      "issue": "adds 'fortificadas' to the cities (קְרִיּוֹת), a modifier not licensed by any token",
+      "spanishSpan": "ciudades fortificadas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

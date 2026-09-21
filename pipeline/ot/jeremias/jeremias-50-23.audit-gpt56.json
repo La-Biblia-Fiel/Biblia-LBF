@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:23",
+  "chapter": 50,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Cómo se ha desgarrado y roto el martillo de toda la tierra! ¡Cómo se ha convertido Babilonia en un objeto de horror entre las naciones!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050023002"
+      ],
+      "issue": "lemma 1438 (cut off / hewn down) rendered as 'desgarrado' (torn/lacerated)",
+      "spanishSpan": "se ha desgarrado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050023009"
+      ],
+      "issue": "lemma 8047 (desolation/waste) rendered as interpretive 'objeto de horror'",
+      "spanishSpan": "objeto de horror"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

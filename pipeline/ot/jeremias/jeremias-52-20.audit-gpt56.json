@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:20",
+  "chapter": 52,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Los dos columnas, el mar y los doce bueyes de bronce que estaban debajo de las bases, que hizo el rey Salomón para la casa de Jehová, no había medida del peso del bronce de ellos, de todos los utensilios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052020009",
+        "h24052020010",
+        "h24052020011"
+      ],
+      "issue": "adds verb 'estaban' and reassigns the 'under the bases' clause to the oxen only",
+      "spanishSpan": "que estaban debajo de las bases"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052020003",
+        "h24052020004"
+      ],
+      "issue": "omits explicit 'uno' for the sea while restructuring the list",
+      "spanishSpan": "el mar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052020001",
+        "h24052020002"
+      ],
+      "issue": "gender error 'Los dos columnas' (masculine noun rendered feminine)",
+      "spanishSpan": "Los dos columnas"
+    }
+  ],
+  "notes": "sentence restructured with unlicensed additions",
+  "discardedUncitedFindings": 0
+}

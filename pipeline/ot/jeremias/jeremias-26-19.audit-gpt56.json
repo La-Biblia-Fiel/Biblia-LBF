@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:19",
+  "chapter": 26,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Cuando murió Ezequías, rey de Judá, ¿no temieron a Jehová? Y él se apiadó de ellos por el mal que había hablado contra ellos, y nosotros estamos haciendo un mal muy grande contra nuestras propias almas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026019001",
+        "h24026019002"
+      ],
+      "issue": "renders hiphil inf abs + perf 3cp as 'Cuando murió' (natural death) instead of 'put him to death/killed him'",
+      "spanishSpan": "Cuando murió Ezequías"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026019009"
+      ],
+      "issue": "changes singular יָרֵא to plural 'temieron'",
+      "spanishSpan": "¿no temieron a Jehová?"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026019012",
+        "h24026019014",
+        "h24026019016"
+      ],
+      "issue": "omits 'entreat the face of YHWH' and replaces with 'se apiadó'",
+      "spanishSpan": "Y él se apiadó de ellos"
+    }
+  ],
+  "notes": "multiple token mismatches at start and middle of verse",
+  "discardedUncitedFindings": 0
+}

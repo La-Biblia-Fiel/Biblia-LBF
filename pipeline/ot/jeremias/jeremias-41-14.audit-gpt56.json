@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:14",
+  "chapter": 41,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Todo el pueblo que Ismael había llevado cautivo de Mizpa se volvió y fue con Johánán, hijo de Carej.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041014001"
+      ],
+      "issue": "omits first verb וַיָּסֹ֨בּוּ (H5437 qal 3mp sequential) and its distinct action",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041014011"
+      ],
+      "issue": "אֶל rendered as 'con' (with) instead of 'to'",
+      "spanishSpan": "fue con"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

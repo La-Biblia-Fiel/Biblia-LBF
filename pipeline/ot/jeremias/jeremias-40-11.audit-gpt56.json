@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:11",
+  "chapter": 40,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y también todos los judíos que estaban en Moab y en Amón y en Edom y en todos los países, oyeron que el rey de Babilonia había dejado una remanente para Judá, y que había puesto a Gedalía hijo de Achikam hijo de Safán sobre ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040011006",
+        "h24040011007"
+      ],
+      "issue": "omits 'hijos de' / 'benê' from בִבְנֵי עַמּוֹן",
+      "spanishSpan": "en Amón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040011014"
+      ],
+      "issue": "נָתַן rendered as 'había dejado' instead of 'había dado'",
+      "spanishSpan": "había dejado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

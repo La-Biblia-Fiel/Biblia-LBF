@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:9",
+  "chapter": 39,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el resto del pueblo que quedaba en la ciudad, y los que habían caído, los llevó cautivos Nebuzaradán, jefe de los carniceros, a Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039009012",
+        "h24039009013",
+        "h24039009014"
+      ],
+      "issue": "omits second יֶתֶר הָעָם הַנִּשְׁאָרִים phrase applying to the fallen",
+      "spanishSpan": "y los que habían caído"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039009015"
+      ],
+      "issue": "adds 'cautivos' concept not licensed by hiphil גלה",
+      "spanishSpan": "los llevó cautivos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

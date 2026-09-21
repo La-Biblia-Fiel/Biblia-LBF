@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:18",
+  "chapter": 42,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho el Señor de los ejércitos, el Dios de Israel: Como me enfadé con los habitantes de Jerusalén, así me enfadaré con ustedes cuando entréis en Egipto, y serán maldición, desolación, maldición, escarnio, y no verán más este lugar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042018009",
+        "h24042018016"
+      ],
+      "issue": "replaces נִתַּךְ / תִּתַּךְ (poured out) with enfadé / enfadaré (got angry / will get angry)",
+      "spanishSpan": "me enfadé ... me enfadaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

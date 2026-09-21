@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:15",
+  "chapter": 50,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Gritad contra ella de todos lados, porque ha dado la mano; han caído, han sido derribados, sus murallas han sido destruidas; porque es la venganza de Jehová, venganza por lo que ha hecho, hacedle lo mismo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050015007",
+        "h24050015008"
+      ],
+      "issue": "adds unlicensed verb phrase 'han sido derribados' between fallen and walls destroyed",
+      "spanishSpan": "han sido derribados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050015017"
+      ],
+      "issue": "uses forbidden vosotros imperative 'hacedle' instead of Latin American 'háganle'",
+      "spanishSpan": "hacedle lo mismo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

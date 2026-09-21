@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:30",
+  "chapter": 4,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Qué harás cuando estés desnuda? ¿Qué harás cuando te vistes de luto y te pintas los ojos con polvo? ¿Qué harás cuando te rasgas la piel de los ojos en vano? Los que te aborrecen querrán tu vida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004030001"
+      ],
+      "issue": "שָׁדוּד (devastated) rendered as 'desnuda'",
+      "spanishSpan": "estés desnuda"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004030006"
+      ],
+      "issue": "שָׁנִי (scarlet) rendered as 'luto'",
+      "spanishSpan": "te vistes de luto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004030013",
+        "h24004030014"
+      ],
+      "issue": "adds 'piel' and changes sense of tearing/painting eyes",
+      "spanishSpan": "te rasgas la piel de los ojos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004030019"
+      ],
+      "issue": "עֹגְבִים (lovers) rendered as 'los que te aborrecen'",
+      "spanishSpan": "Los que te aborrecen"
+    }
+  ],
+  "notes": "multiple lexical mismatches and additions",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:11",
+  "chapter": 25,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y toda la tierra será desolación y maldición, y servirán estos pueblos al rey de Babilonia setenta años.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025011004"
+      ],
+      "issue": "omits demonstrative 'this' (הזאת), rendering 'all the land' instead of 'all this land'",
+      "spanishSpan": "toda la tierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025011006"
+      ],
+      "issue": "renders לשממה as 'maldición' (curse), a concept not licensed by the lemma or any token",
+      "spanishSpan": "maldición"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

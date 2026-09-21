@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:1",
+  "chapter": 48,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Para Moab, así dice el Señor de los ejércitos, el Dios de Israel: ¡Ay de Nebo, porque ha sido saqueada, avergonzada, tomada, Kiriathaim ha sido avergonzada y derrotada!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048001004"
+      ],
+      "issue": "replaces יהוה with 'el Señor' instead of licensed 'Jehová'",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048001017"
+      ],
+      "issue": "omits the subject הַמִּשְׂגָּב entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048001016",
+        "h24048001017",
+        "h24048001018"
+      ],
+      "issue": "collapses the final clause so that the second 'avergonzada' and 'derrotada' attach to Kiriathaim instead of preserving separate subjects and verbs for Kiriathaim and the Misgab",
+      "spanishSpan": "Kiriathaim ha sido avergonzada y derrotada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

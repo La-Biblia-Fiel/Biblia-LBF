@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:14",
+  "chapter": 22,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "El que dice: Construiré para mí una casa grande y espaciosa, con ventanas y techos de cedro y pintura de rojo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022014005"
+      ],
+      "issue": "adds 'grande' not licensed by any token",
+      "spanishSpan": "grande"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022014006"
+      ],
+      "issue": "renders עֲלִיּוֹת as 'techos' (roofs/ceilings) instead of upper rooms/chambers",
+      "spanishSpan": "techos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022014008",
+        "h24022014009",
+        "h24022014010"
+      ],
+      "issue": "omits entirely the clause with קָרַע לוֹ חַלּוֹנָי",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:21",
+  "chapter": 6,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, así dice el Señor: He aquí que pondré sobre este pueblo lazos, y caerán en ellos; padres y hijos juntos; vecino y amigo perecerán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006021004"
+      ],
+      "issue": "replaces proper name יהוה with title 'Señor'",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006021010"
+      ],
+      "issue": "מִכְשֹׁלִים rendered as 'lazos' (snares) instead of stumbling blocks/obstacles",
+      "spanishSpan": "lazos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006021011",
+        "h24006021012"
+      ],
+      "issue": "adds 'perecerán' with no corresponding verb in tokens",
+      "spanishSpan": "perecerán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24006021011"
+      ],
+      "issue": "כשל rendered as 'caerán' (fall) rather than stumble",
+      "spanishSpan": "caerán"
+    }
+  ],
+  "notes": "packet tokens end at וְרֵע֖וֹ; Spanish supplies extra verb and mismatches on key nouns",
+  "discardedUncitedFindings": 0
+}

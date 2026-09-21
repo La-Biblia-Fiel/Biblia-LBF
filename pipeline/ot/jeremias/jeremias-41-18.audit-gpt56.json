@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:18",
+  "chapter": 41,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Por miedo a los caldeos, porque temían a ellos, pues Ismael, hijo de Netanías, había matado a Gedalía, hijo de Aicám, que el rey de Babilonia había dejado en la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041018016"
+      ],
+      "issue": "hiphil פקד rendered as 'había dejado' (left) instead of appointed/put in charge",
+      "spanishSpan": "había dejado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

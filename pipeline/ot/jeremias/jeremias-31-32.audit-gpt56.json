@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:32",
+  "chapter": 31,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "No como el pacto que hice con sus padres el día que tomé sus manos para sacarlos de la tierra de Egipto, el cual ellos profanaron, y yo me hice fuerte contra ellos, oráculo del SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031032019"
+      ],
+      "issue": "lemma 1166 (ba'al, qal 1cs) rendered as 'me hice fuerte contra ellos' which adds 'fuerte' and 'contra' absent from tokens",
+      "spanishSpan": "y yo me hice fuerte contra ellos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

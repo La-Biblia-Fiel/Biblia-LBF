@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:46",
+  "chapter": 51,
+  "verse": 46,
+  "candidateLabel": "gpt56",
+  "spanish": "No os dejéis engañar por las noticias que se oyen en la tierra, porque un año después de la noticia vendrá otra noticia, y habrá violencia en la tierra y un rey tras otro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051046001",
+        "h24051046002",
+        "h24051046003",
+        "h24051046004"
+      ],
+      "issue": "replaces 'lest your heart grow faint and you fear' with 'no os dejéis engañar'",
+      "spanishSpan": "No os dejéis engañar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051046004"
+      ],
+      "issue": "uses peninsular 'os' for 2mp address instead of Latin-American ustedes form",
+      "spanishSpan": "os"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051046005",
+        "h24051046006",
+        "h24051046007"
+      ],
+      "issue": "paraphrases the report-heard construction into 'por las noticias que se oyen'",
+      "spanishSpan": "por las noticias que se oyen en la tierra"
+    }
+  ],
+  "notes": "multiple additions and 2mp pronoun mismatch",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:16",
+  "chapter": 34,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y han vuelto y han profanado mi nombre, y han devuelto a cada uno a su siervo y a cada uno a su sierva que habíais liberado libremente, y los han esclavizado de nuevo para que fueran sus siervos y siervas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034016001",
+        "h24034016002",
+        "h24034016005",
+        "h24034016013",
+        "h24034016016",
+        "h24034016019"
+      ],
+      "issue": "2mp verbs rendered as 3rd-person han (participant shift)",
+      "spanishSpan": "han vuelto y han profanado ... han devuelto ... han esclavizado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034016019",
+        "h24034016020",
+        "h24034016021"
+      ],
+      "issue": "לָכֶם rendered as sus instead of for you",
+      "spanishSpan": "sus siervos y siervas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

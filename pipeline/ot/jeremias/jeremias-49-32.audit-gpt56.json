@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:32",
+  "chapter": 49,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Sus camellos serán despreciados, y sus rebaños de ganado serán saqueados; sus tiendas yo las entregaré a todo viento cortante, y de todas sus fronteras traeré su desastre, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049032003"
+      ],
+      "issue": "adds 'despreciados' concept absent from לָבַז 'for plunder'",
+      "spanishSpan": "serán despreciados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049032007",
+        "h24049032009",
+        "h24049032010",
+        "h24049032011"
+      ],
+      "issue": "inserts 'sus tiendas' and 'viento cortante' not licensed by וְזֵרִתִים לְכָל רוּחַ קְצוּצֵי פֵאָה",
+      "spanishSpan": "sus tiendas yo las entregaré a todo viento cortante"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049032004",
+        "h24049032005",
+        "h24049032006"
+      ],
+      "issue": "renders as 'rebaños de ganado' adding specialized noun not in הֲמוֹן מִקְנֵיהֶם לְשָׁלָל",
+      "spanishSpan": "sus rebaños de ganado serán saqueados"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:5",
+  "chapter": 26,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Para escuchar las palabras de mis siervos los profetas a quienes yo os envío, levantándome y enviándolos, y no escucháis.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026005008",
+        "h24026005009"
+      ],
+      "issue": "reverses participant direction: Hebrew 'I sending to you' rendered as 'to whom I send you'",
+      "spanishSpan": "a quienes yo os envío"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026005009",
+        "h24026005013"
+      ],
+      "issue": "uses Spain vosotros forms (os, escucháis) instead of Latin American ustedes",
+      "spanishSpan": "os envío ... escucháis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026005010",
+        "h24026005011"
+      ],
+      "issue": "renders infinitive absolutes as 'levantándome y enviándolos' adding reflexive and object not licensed",
+      "spanishSpan": "levantándome y enviándolos"
+    }
+  ],
+  "notes": "also tense mismatch on final verb (perfect vs present)",
+  "discardedUncitedFindings": 0
+}

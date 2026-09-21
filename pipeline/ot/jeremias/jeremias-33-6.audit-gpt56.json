@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:6",
+  "chapter": 33,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que levantaré a ella un arco y una medicina, y la sanaré, y le revelaré la abundancia de paz y de verdad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033006004"
+      ],
+      "issue": "אֲרֻכָ֥ה rendered as 'arco' (bow/weapon) instead of healing/restoration",
+      "spanishSpan": "un arco"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033006006",
+        "h24033006003"
+      ],
+      "issue": "3fs 'a ella / la' for healing but verb carries 3mp suffix",
+      "spanishSpan": "a ella ... la sanaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033006006",
+        "h24033006008"
+      ],
+      "issue": "switch from 3fs to 3mp referents not preserved",
+      "spanishSpan": "la sanaré, y le revelaré"
+    }
+  ],
+  "notes": "multiple token mismatches on lemma and suffixes",
+  "discardedUncitedFindings": 0
+}

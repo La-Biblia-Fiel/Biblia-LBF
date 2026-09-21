@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:8",
+  "chapter": 49,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Huyen, vuelven, se hunden para vivir los habitantes de Dedán, porque he traído sobre Edom el tiempo de su castigo, el tiempo que yo he fijado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049008001",
+        "h24049008002",
+        "h24049008003"
+      ],
+      "issue": "imperatives rendered as indicatives about the inhabitants rather than commands to them",
+      "spanishSpan": "Huyen, vuelven, se hunden"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049008009"
+      ],
+      "issue": "Esau replaced by Edom",
+      "spanishSpan": "sobre Edom"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049008012"
+      ],
+      "issue": "single עֵת duplicated as two separate times",
+      "spanishSpan": "el tiempo de su castigo, el tiempo que yo he fijado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

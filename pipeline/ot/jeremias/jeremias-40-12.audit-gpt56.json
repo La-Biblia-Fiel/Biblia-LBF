@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:12",
+  "chapter": 40,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y volvieron todos los judíos de todas las ciudades a donde habían sido dispersos, y vinieron a la tierra de Judá a Gedalía el escriba, y recogieron vino y aceite en gran cantidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040012014"
+      ],
+      "issue": "adds 'el escriba' (scribe) not present in tokens; token is Mizpah proper name",
+      "spanishSpan": "el escriba"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040012017"
+      ],
+      "issue": "replaces קיץ (summer fruit) with 'aceite' (oil)",
+      "spanishSpan": "aceite"
+    }
+  ],
+  "notes": "two clear unlicensed substitutions",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:32",
+  "chapter": 50,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Tu arrogancia te hará caer y te derribará. No habrá quien te levante. Encenderé fuego en tus ciudades, y el fuego consumirá todo lo que te rodea.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050032001",
+        "h24050032002"
+      ],
+      "issue": "Spanish makes 'arrogancia' the agent causing 'you' to fall; tokens have zāḏôn as subject of kāšal (stumble)",
+      "spanishSpan": "Tu arrogancia te hará caer"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050032005",
+        "h24050032009",
+        "h24050032012"
+      ],
+      "issue": "tokens use 3ms suffixes (לו, עָרָיו, סְבִיבֹתָיו); Spanish shifts all to 2nd-person tú/tus/te",
+      "spanishSpan": "te derribará... tus ciudades... te rodea"
+    }
+  ],
+  "notes": "person shift and added causation not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

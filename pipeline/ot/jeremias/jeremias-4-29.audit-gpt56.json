@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:29",
+  "chapter": 4,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Por el ruido del arado y el sonido del surco, toda la ciudad huye; vienen en nubes y en velos, toda la ciudad queda desierta, y no hay nadie que la habite.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004029002"
+      ],
+      "issue": "פָּרָשׁ (horseman/rider) rendered as 'arado' (plow)",
+      "spanishSpan": "arado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004029003",
+        "h24004029004"
+      ],
+      "issue": "רֹמֵה קֶשֶׁת (archer/bow-bender) rendered as 'sonido del surco'",
+      "spanishSpan": "sonido del surco"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004029009",
+        "h24004029010"
+      ],
+      "issue": "עָבִים and כֵּפִים (clouds/thickets and rocks) rendered as 'nubes y en velos'",
+      "spanishSpan": "nubes y en velos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004029005",
+        "h24004029008",
+        "h24004029011"
+      ],
+      "issue": "fleeing city and ascent of riders rendered as city fleeing then people coming in clouds/velos",
+      "spanishSpan": "toda la ciudad huye; vienen en nubes y en velos"
+    }
+  ],
+  "notes": "Spanish fabricates agricultural imagery absent from all tokens.",
+  "discardedUncitedFindings": 0
+}

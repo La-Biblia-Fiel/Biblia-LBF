@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:20",
+  "chapter": 2,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque desde antiguo te rompí el yugo y te quité las cadenas, y tú dijiste: No serviré. Por cada monte alto y cada árbol frondoso, tú te has convertido en una mujer prostituta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002020018",
+        "h24002020019",
+        "h24002020020"
+      ],
+      "issue": "adds 'te has convertido en' (change of state) and 'mujer' not licensed by the two Qal active participles",
+      "spanishSpan": "tú te has convertido en una mujer prostituta"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:34",
+  "chapter": 23,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "El profeta, el sacerdote y el pueblo que digan: “El mensaje del SEÑOR”, yo castigaré al hombre y a su casa.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023034005"
+      ],
+      "issue": "verb number changed from 3ms to 3pl (digan)",
+      "spanishSpan": "que digan"
+    }
+  ],
+  "notes": "compound subject does not override the singular morphology token",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:14",
+  "chapter": 50,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Arma contra Babilonia de todos lados, todo el que usa arco; no perdonéis a la flecha, porque contra Jehová ha pecado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050014001",
+        "h24050014008",
+        "h24050014011"
+      ],
+      "issue": "uses Spain 2pl verb forms (perdonéis) instead of Latin American ustedes forms",
+      "spanishSpan": "no perdonéis"
+    }
+  ],
+  "notes": "2mp imperatives/jussive require ustedes morphology",
+  "discardedUncitedFindings": 0
+}

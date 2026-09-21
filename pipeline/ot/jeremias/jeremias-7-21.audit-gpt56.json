@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:21",
+  "chapter": 7,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el SEÑOR de los ejércitos, el Dios de Israel: Quemad las ofrendas de paz y comed la carne.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007021007"
+      ],
+      "issue": "עֹלוֹתֵיכֶם rendered as ofrendas de paz (peace offerings) instead of burnt offerings",
+      "spanishSpan": "las ofrendas de paz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007021008"
+      ],
+      "issue": "סְפוּ (add/heap) rendered as Quemad (burn)",
+      "spanishSpan": "Quemad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007021010"
+      ],
+      "issue": "זִבְחֵיכֶם (sacrifices) omitted or collapsed into the wrong offering phrase",
+      "spanishSpan": "las ofrendas de paz"
+    }
+  ],
+  "notes": "Spanish inverts the command and offering type.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:14",
+  "chapter": 7,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y haré a esta casa, que se llama por mi nombre, a la cual confiáis, y a este lugar que os he dado a ustedes y a sus padres, lo que hice a Silo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007014008",
+        "h24007014009",
+        "h24007014014",
+        "h24007014015"
+      ],
+      "issue": "uses vosotros forms (confiáis, os) and 3rd-person sus instead of consistent ustedes/vuestros for 2mp addressees",
+      "spanishSpan": "confiáis ... os he dado a ustedes y a sus padres"
+    }
+  ],
+  "notes": "address form mismatch on 2mp",
+  "discardedUncitedFindings": 0
+}

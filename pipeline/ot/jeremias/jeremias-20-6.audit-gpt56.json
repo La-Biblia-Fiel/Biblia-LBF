@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:6",
+  "chapter": 20,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tú, Pashhur, y todos los que habitan en tu casa, iréis al destierro, y Babilonia os recibirá, y allí moriréis y allí serán enterrados, tú y todos tus amados a quienes has profetizado falsamente.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020006009"
+      ],
+      "issue": "תָּבוֹא (2ms) rendered as Babilonia os recibirá, inverting subject and shifting to plural addressee",
+      "spanishSpan": "Babilonia os recibirá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020006011",
+        "h24020006013"
+      ],
+      "issue": "תָּמוּת (2ms) and תִּקָּבֵר (2ms niphal) rendered as plural moriréis and 3pl passive serán enterrados",
+      "spanishSpan": "moriréis y allí serán enterrados"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

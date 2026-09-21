@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:12",
+  "chapter": 29,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y me llamareis, y vendréis, y oraréis a mí, y yo os escucharé.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029012001",
+        "h24029012003",
+        "h24029012004",
+        "h24029012007"
+      ],
+      "issue": "uses vosotros 2mp forms (llamareis, vendréis, oraréis, os) instead of required Latin American ustedes 2mp",
+      "spanishSpan": "llamareis, vendréis, oraréis, os escucharé"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

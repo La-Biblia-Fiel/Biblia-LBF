@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:4",
+  "chapter": 36,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y llamó Jeremías a Baruc, hijo de Nerías, y escribió Baruc de la boca de Jeremías todas las palabras de Jehová en el rollo de un libro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036004015",
+        "h24036004016",
+        "h24036004017"
+      ],
+      "issue": "omits the relative clause אֲשֶׁר דִּבֶּר אֵלָיו (which he spoke to him)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

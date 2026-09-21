@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:13",
+  "chapter": 42,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Si decís: No habitaremos en esta tierra, porque no escuchamos la voz del Señor, nuestro Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042013012"
+      ],
+      "issue": "changes 2mp suffix 'your God' to 1cp 'nuestro Dios'",
+      "spanishSpan": "nuestro Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042013008",
+        "h24042013009"
+      ],
+      "issue": "renders purpose infinitive לבלתי שמע as finite clause 'porque no escuchamos' with participant shift",
+      "spanishSpan": "porque no escuchamos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042013003"
+      ],
+      "issue": "uses vosotros form 'decís' instead of Latin American 2pl",
+      "spanishSpan": "decís"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042013011"
+      ],
+      "issue": "renders proper name יהוה as 'Señor' instead of Jehová",
+      "spanishSpan": "Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

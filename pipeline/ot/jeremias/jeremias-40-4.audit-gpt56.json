@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:4",
+  "chapter": 40,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Ahora bien, hoy te he abierto las cadenas que estaban sobre tus manos. Si te parece bien ir conmigo a Babilonia, ve, y pondré mis ojos sobre ti; pero si no te parece bien ir conmigo a Babilonia, quedate, ve a toda la tierra, a lo que te parezca bien y recto a tus ojos, ve.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040004007",
+        "h24040004008",
+        "h24040004009"
+      ],
+      "issue": "adds finite past-tense verb 'estaban' absent from relative clause אֲשֶׁר עַל־יָדֶךָ",
+      "spanishSpan": "que estaban sobre tus manos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040004009"
+      ],
+      "issue": "renders singular construct 'hand' as plural 'manos'",
+      "spanishSpan": "tus manos"
+    }
+  ],
+  "notes": "paraphrase adds tense and number not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

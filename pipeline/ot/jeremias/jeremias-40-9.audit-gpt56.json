@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:9",
+  "chapter": 40,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y juro a ellos Gedalía hijo de Achikam hijo de Safán, y a sus hombres, diciendo: No temáis servir a los caldeos; vivid en la tierra y servid al rey de Babilonia, y será bien para ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040009001"
+      ],
+      "issue": "verb person mismatch: Hebrew 3ms 'he swore' rendered as 1s 'juro'",
+      "spanishSpan": "Y juro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040009011",
+        "h24040009014",
+        "h24040009016"
+      ],
+      "issue": "vosotros forms used instead of Latin American 2mp (ustedes)",
+      "spanishSpan": "temáis, vivid, servid"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

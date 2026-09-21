@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:11",
+  "chapter": 42,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "No temáis al rey de Babilonia, al que teméis, dice el Señor. No temáis de él, porque yo estoy con ustedes para salvaros y para libraros de su mano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042011013",
+        "h24042011014"
+      ],
+      "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' (wrong name and added verb)",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042011002",
+        "h24042011011",
+        "h24042011018",
+        "h24042011020"
+      ],
+      "issue": "2mp forms rendered with vosotros morphology (temáis, salvaros, libraros) instead of Latin-American ustedes",
+      "spanishSpan": "temáis ... salvaros ... libraros"
+    }
+  ],
+  "notes": "vosotros variety and wrong divine name both unlicensed by tokens",
+  "discardedUncitedFindings": 0
+}

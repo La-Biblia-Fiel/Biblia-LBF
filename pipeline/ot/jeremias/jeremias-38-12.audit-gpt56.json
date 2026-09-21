@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:12",
+  "chapter": 38,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "El eunuco del rey de Egipto dijo a Jeremías: Coloca tus ropas y tus calzados debajo de tus manos, bajo las cuerdas. Y Jeremías lo hizo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038012002",
+        "h24038012003",
+        "h24038012004"
+      ],
+      "issue": "speaker rendered as 'eunuco del rey de Egipto' instead of the proper name Ebed-Melech the Cushite",
+      "spanishSpan": "El eunuco del rey de Egipto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038012009",
+        "h24038012010",
+        "h24038012011"
+      ],
+      "issue": "objects changed to 'ropas y calzados' instead of rags/worn-out garments",
+      "spanishSpan": "tus ropas y tus calzados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038012013",
+        "h24038012014"
+      ],
+      "issue": "location changed to 'debajo de tus manos' instead of under the armpits",
+      "spanishSpan": "debajo de tus manos"
+    }
+  ],
+  "notes": "multiple lexical and referential mismatches",
+  "discardedUncitedFindings": 0
+}

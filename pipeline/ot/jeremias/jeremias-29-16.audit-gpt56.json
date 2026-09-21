@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:16",
+  "chapter": 29,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque dice Jehová: Al rey que está sentado en el trono de David, y a todo el pueblo que está en esta ciudad, a sus hermanos que no salieron con ustedes en el destierro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029016002"
+      ],
+      "issue": "omits כֹה (thus)",
+      "spanishSpan": "dice"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029016017"
+      ],
+      "issue": "changes 2mp suffix to 3p possessive (sus)",
+      "spanishSpan": "sus hermanos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

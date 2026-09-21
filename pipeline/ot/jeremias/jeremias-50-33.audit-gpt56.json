@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:33",
+  "chapter": 50,
+  "verse": 33,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor de los ejércitos: Los cautivos de Israel y Judá serán liberados juntos, pero todos los que los han llevado cautivos se aferrarán a ellos, no querrán soltarlos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050033003"
+      ],
+      "issue": "YHWH rendered as title 'Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050033005",
+        "h24050033006",
+        "h24050033007",
+        "h24050033008",
+        "h24050033009"
+      ],
+      "issue": "omits בְּנֵי construct and changes עֲשׁוּקִים to 'cautivos ... serán liberados'",
+      "spanishSpan": "Los cautivos de Israel y Judá serán liberados juntos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050033013",
+        "h24050033015",
+        "h24050033016"
+      ],
+      "issue": "Hebrew perfects changed to future tense; adds liberation concept absent from tokens",
+      "spanishSpan": "serán liberados ... se aferrarán ... no querrán soltarlos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

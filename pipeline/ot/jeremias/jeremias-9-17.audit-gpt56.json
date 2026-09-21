@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:17",
+  "chapter": 9,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice Jehová de los ejércitos: Mirad y llamad a las mujeres que hacen profecía, y vendrán y a las prudentes, enviadlas, y vendrán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009017007"
+      ],
+      "issue": "renders לַמְקוֹנְנ֖וֹת as 'mujeres que hacen profecía' (adds prophecy concept absent from lemma/morph)",
+      "spanishSpan": "mujeres que hacen profecía"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009017005"
+      ],
+      "issue": "renders הִתְבּוֹנְנ֛וּ as 'Mirad' (adds visual 'look' not licensed by bin lemma or hitpael morph)",
+      "spanishSpan": "Mirad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009017007",
+        "h24009017010",
+        "h24009017011"
+      ],
+      "issue": "garbles participant structure and verb sequence for the two groups",
+      "spanishSpan": "llamad a las mujeres que hacen profecía, y vendrán y a las prudentes, enviadlas"
+    }
+  ],
+  "notes": "multiple lexical and syntactic mismatches",
+  "discardedUncitedFindings": 0
+}

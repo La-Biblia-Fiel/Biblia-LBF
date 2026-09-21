@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:12",
+  "chapter": 6,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sus casas serán entregadas a otros, sus campos y sus mujeres juntos, porque doblaré mi mano sobre los habitantes de la tierra, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006012008"
+      ],
+      "issue": "lemma 5186 (נטה hiphil) rendered as doblaré instead of extenderé/stretch out",
+      "spanishSpan": "doblaré mi mano"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006012014",
+        "h24006012015"
+      ],
+      "issue": "נְאֻם יְהוָה rendered as dice el Señor instead of declara Jehová",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

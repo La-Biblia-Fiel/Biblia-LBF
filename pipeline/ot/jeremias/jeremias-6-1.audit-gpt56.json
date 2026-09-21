@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:1",
+  "chapter": 6,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Hijos de Benjamín, huid de Jerusalén y tocad la trompeta en Tekoa; levantad la señal en Betar. Porque el mal viene del norte y una gran destrucción.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006001010",
+        "h24006001011"
+      ],
+      "issue": "Beth-hakkerem rendered as Betar",
+      "spanishSpan": "Betar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006001016"
+      ],
+      "issue": "נִשְׁקְפָה (niphal peering/looking down) rendered as viene",
+      "spanishSpan": "viene"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006001004",
+        "h24006001005"
+      ],
+      "issue": "מִקֶּרֶב יְרוּשָׁלִַם rendered as de Jerusalén (omits midst/center)",
+      "spanishSpan": "de Jerusalén"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:9",
+  "chapter": 2,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, aún contendré con ustedes, dice el SEÑOR, y con sus hijos contendré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002009008",
+        "h24002009009"
+      ],
+      "issue": "omits construct chain בְּנֵי בְנֵיכֶם (sons of your sons); renders only as sus hijos",
+      "spanishSpan": "y con sus hijos contendré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002009006"
+      ],
+      "issue": "YHWH rendered SEÑOR instead of Jehová",
+      "spanishSpan": "dice el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

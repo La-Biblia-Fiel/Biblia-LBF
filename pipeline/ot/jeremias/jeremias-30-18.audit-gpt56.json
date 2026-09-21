@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:18",
+  "chapter": 30,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice Jehová: He aquí que yo volveré el cautiverio de los tiendas de Jacob y tendrán misericordia de sus moradas. Y se levantará una ciudad sobre su montículo, y un palacio sobre su juicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030018010"
+      ],
+      "issue": "changes 1cs subject to 3pl 'tendrán'",
+      "spanishSpan": "y tendrán misericordia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030018011",
+        "h24030018018"
+      ],
+      "issue": "omits 'be built' + 'dwell' verbs; substitutes 'se levantará'",
+      "spanishSpan": "Y se levantará una ciudad ... y un palacio"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030018007"
+      ],
+      "issue": "masculine plural 'tiendas' with wrong article gender",
+      "spanishSpan": "los tiendas"
+    }
+  ],
+  "notes": "participant and verb mismatches",
+  "discardedUncitedFindings": 0
+}

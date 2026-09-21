@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:45",
+  "chapter": 48,
+  "verse": 45,
+  "candidateLabel": "gpt56",
+  "spanish": "En la sombra de Hesbón se mantendrán por el poder de Némesis, porque salió fuego de Hesbón y llamas de Siquén; y devoró la parte de Moab, y la cabeza de los hijos de Seón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048045004",
+        "h24048045005"
+      ],
+      "issue": "adds Némesis and misparses מִכֹּ֣חַ נָסִ֑ים as power of Nemesis instead of power of fugitives",
+      "spanishSpan": "por el poder de Némesis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048045003"
+      ],
+      "issue": "changes qal perfect 3cp עָמְד֖וּ to future se mantendrán",
+      "spanishSpan": "se mantendrán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048045012"
+      ],
+      "issue": "renders סִיח֔וֹן as Siquén instead of Sihón",
+      "spanishSpan": "Siquén"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048045018"
+      ],
+      "issue": "treats שָׁאוֹן as proper name Seón instead of common noun tumult",
+      "spanishSpan": "Seón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

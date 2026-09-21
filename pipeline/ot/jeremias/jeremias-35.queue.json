@@ -1,0 +1,426 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 35,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "passed": [
+    1,
+    8,
+    10,
+    11,
+    12,
+    16,
+    17
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ve a la casa de los recabitas y hablales, y lleva a los hijos de Jonadab hijo de Recab al templo del SEÑOR, a una de las habitaciones, y diles que beban vino.",
+      "notes": "extra referent and altered causative force",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035002007",
+            "h24035002008",
+            "h24035002009",
+            "h24035002010",
+            "h24035002011",
+            "h24035002012"
+          ],
+          "issue": "adds 'hijos de Jonadab hijo de Recab' with no licensing tokens",
+          "spanishSpan": "a los hijos de Jonadab hijo de Recab"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035002013",
+            "h24035002014",
+            "h24035002015"
+          ],
+          "issue": "changes hiphil 'cause them to drink' to 'tell them to drink' (participant/stem shift)",
+          "spanishSpan": "diles que beban vino"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tomé a Iajazías hijo de Jeremías hijo de Habaquías, y a mis hermanos y a todos mis hijos, y a todos los hijos de Jonadab hijo de Recab.",
+      "notes": "multiple participant and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035003009"
+          ],
+          "issue": "3ms suffix rendered as 1cs 'mis' instead of 'sus'",
+          "spanishSpan": "mis hermanos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035003012"
+          ],
+          "issue": "3ms suffix rendered as 1cs 'mis' instead of 'sus'",
+          "spanishSpan": "mis hijos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035003015",
+            "h24035003016"
+          ],
+          "issue": "בֵּית הָרֵכָבִים rendered as 'hijos de Jonadab hijo de Recab' (adds absent names and changes 'house of the Rechabites')",
+          "spanishSpan": "todos los hijos de Jonadab hijo de Recab"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los llevé a la casa del SEÑOR, a la habitación de los hijos de Hanán hijo de Igdalías, hombre de Dios, que está junto a la habitación de los secretarios, que está sobre la habitación de Maasías hijo de Salum, guardián de la puerta.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035004016"
+          ],
+          "issue": "sarim rendered as specialized 'secretarios' not licensed by lemma H8269",
+          "spanishSpan": "los secretarios"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y puse delante de los hijos de Jonadab hijo de Recab copas llenas de vino y jarras, y les dije: Bebed vino.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035005003",
+            "h24035005004",
+            "h24035005005"
+          ],
+          "issue": "adds Jonadab and Recab names absent from tokens; tokens only license 'sons of the house of the Rechabites'",
+          "spanishSpan": "los hijos de Jonadab hijo de Recab"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijeron: No bebemos vino, porque Jonadab hijo de Recab, nuestro padre, nos mandó diciendo: No bebáis vino ustedes ni sus hijos por siempre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035006014",
+            "h24035006016",
+            "h24035006017"
+          ],
+          "issue": "vosotros verb form 'bebáis' instead of ustedes 'beban'",
+          "spanishSpan": "No bebáis vino ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y casa no edificaréis, ni sembraréis semilla, ni plantaréis viña, ni será para ustedes, para que habitéis en tiendas toda su vida, para que viváis muchos días sobre la tierra donde son extranjeros.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035007016",
+            "h24035007017"
+          ],
+          "issue": "כל־ימיכם rendered as singular 'toda su vida' instead of plural 2mp 'todos sus días'",
+          "spanishSpan": "toda su vida"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035007026",
+            "h24035007027",
+            "h24035007028"
+          ],
+          "issue": "2mp אתם גרים rendered as 3pl 'son extranjeros' shifting addressee to third party",
+          "spanishSpan": "donde son extranjeros"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no edificaréis casas para habitar, ni tendréis viña ni campo ni semilla.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035009004",
+            "h24035009010"
+          ],
+          "issue": "changes 1cp suffixes (our / to us) to 2pl address (edificaréis / tendréis)",
+          "spanishSpan": "edificaréis ... tendréis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035009002",
+            "h24035009009"
+          ],
+          "issue": "renders infinitive + imperfect as finite future verbs, altering construction",
+          "spanishSpan": "edificaréis ... tendréis"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová de los ejércitos, el Dios de Israel: ¿No tomaréis enseñanza para oír mis palabras, palabra de Jehová?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035013007",
+            "h24035013008",
+            "h24035013009",
+            "h24035013010",
+            "h24035013011",
+            "h24035013012"
+          ],
+          "issue": "omits the command to go and speak to the men of Judah and inhabitants of Jerusalem",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035013014"
+          ],
+          "issue": "uses vosotros form tomaréis instead of Latin American ustedes form tomarán",
+          "spanishSpan": "tomaréis"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Han levantado los hijos de Jonadab, hijo de Recab, la ordenanza de su padre, que les mandó no beber vino, y no beben hasta hoy, porque oyeron la ordenanza de sus padres; y yo os hablé, levantándome y hablando, y no me escuchasteis.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035014001",
+            "h24035014003",
+            "h24035014004",
+            "h24035014005",
+            "h24035014006"
+          ],
+          "issue": "Hophal passive 3ms with direct object 'words of Jehonadab son of Rechab' rendered as active with 'los hijos' as subject and 'ordenanza de su padre'",
+          "spanishSpan": "Han levantado los hijos de Jonadab, hijo de Recab, la ordenanza de su padre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035014015"
+          ],
+          "issue": "qal perfect 3cp 'they did not drink' rendered as present 'no beben'",
+          "spanishSpan": "y no beben"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035014023"
+          ],
+          "issue": "suffix 3mp 'their father' rendered plural 'sus padres'",
+          "spanishSpan": "de sus padres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035014026"
+          ],
+          "issue": "2mp suffix rendered with forbidden vosotros 'os'",
+          "spanishSpan": "os hablé"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y envié a ustedes a todos mis siervos los profetas, levantándome y enviándolos, diciendo: Volved cada uno de su mala senda, y haced bien en sus caminos, y no andéis tras dioses ajenos para servirles; y sed habitantes de la tierra que os di a ustedes y a sus padres, y no me inclinasteis oídos, y no me escuchasteis.",
+      "notes": "multiple token mismatches and wrong 2pl variety",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035015028",
+            "h24035015031",
+            "h24035015033"
+          ],
+          "issue": "uses vosotros forms (os, inclinasteis) instead of ustedes",
+          "spanishSpan": "os di ... inclinasteis oídos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035015016"
+          ],
+          "issue": "renders מעלליכם as 'caminos' instead of deeds/doings",
+          "spanishSpan": "haced bien en sus caminos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035015007",
+            "h24035015008"
+          ],
+          "issue": "adds reflexive 'me' and object 'los' not present in the infinitive absolutes",
+          "spanishSpan": "levantándome y enviándolos"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a la casa de Recab dijo Jeremías: Así ha dicho Jehová, el Dios de Israel: Porque han guardado la ordenanza de Jonadab, su padre, y han guardado todas mis ordenanzas, y han hecho conforme a todo lo que os mandó su padre;",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035018008"
+          ],
+          "issue": "omits צְבָאוֹת licensed by the token",
+          "spanishSpan": "Jehová, el Dios de Israel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035018013",
+            "h24035018018",
+            "h24035018022",
+            "h24035018026"
+          ],
+          "issue": "shifts 2mp verbs and suffixes to 3pl narration instead of direct 2pl address",
+          "spanishSpan": "han guardado ... han guardado ... han hecho"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035018021"
+          ],
+          "issue": "changes 3ms suffix (his commandments) to 1cs (mis ordenanzas)",
+          "spanishSpan": "todas mis ordenanzas"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, así ha dicho Jehová, el Dios de Israel: No cesará de ser servidor de Jehová, delante de mí, Jonadab, hijo de Recab, y su simiente para siempre.",
+      "notes": "major restructuring and omission",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035019005"
+          ],
+          "issue": "omits צְבָא֖וֹת (of hosts) licensed by the tokens",
+          "spanishSpan": "Jehová, el Dios de Israel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24035019009",
+            "h24035019010",
+            "h24035019014",
+            "h24035019015"
+          ],
+          "issue": "rephrases לֹא יִכָּרֵת אִישׁ ... עֹמֵד לְפָנַי as 'No cesará de ser servidor' adding 'servidor de Jehová' and altering structure/participants",
+          "spanishSpan": "No cesará de ser servidor de Jehová, delante de mí, Jonadab, hijo de Recab, y su simiente para siempre"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:47:05.010117+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 19,
+    "verses": 19,
+    "input": 51162,
+    "cachedInput": 16320,
+    "output": 2364,
+    "reasoning": 17133,
+    "usd": 0.1948,
+    "byProvider": {
+      "xai": {
+        "calls": 19,
+        "input": 51162,
+        "output": 2364,
+        "reasoning": 17133,
+        "usd": 0.1948
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 19,
+        "input": 51162,
+        "output": 2364,
+        "reasoning": 17133,
+        "usd": 0.1948
+      }
+    },
+    "usdPerVerse": 0.0103,
+    "bibleAtThisRate": 319.0,
+    "book": "jeremias",
+    "chapter": 35
+  }
+}

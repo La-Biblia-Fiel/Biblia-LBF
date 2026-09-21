@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:22",
+  "chapter": 33,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Que no se podrá contar el ejército de los cielos, ni medir el polvo del mar; así multiplicaré yo la simiente de David, mi siervo, y a los levitas ministros de mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033022008"
+      ],
+      "issue": "חול = sand, rendered as polvo (dust)",
+      "spanishSpan": "polvo del mar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033022003",
+        "h24033022007"
+      ],
+      "issue": "adds 'podrá' (ability) not present in niphal imperfects",
+      "spanishSpan": "se podrá contar ... ni medir"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

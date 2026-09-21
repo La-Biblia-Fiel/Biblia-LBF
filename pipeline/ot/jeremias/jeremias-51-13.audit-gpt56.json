@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:13",
+  "chapter": 51,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Yo he habitado sobre muchas aguas; mi tesoro es grande. Tu fin ha llegado, tu navegable ha terminado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051013001",
+        "h24051013002",
+        "h24051013003"
+      ],
+      "issue": "Spanish adds first-person 'Yo he habitado' and shifts addressee to speaker; tokens license only 'upon many waters' descriptive of the 2fs addressee",
+      "spanishSpan": "Yo he habitado sobre muchas aguas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051013004",
+        "h24051013005"
+      ],
+      "issue": "Spanish renders 'rabat otzarot' as first-person 'mi tesoro es grande'; tokens are 2fs-construct chain describing abundant treasures of the addressee",
+      "spanishSpan": "mi tesoro es grande"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051013008",
+        "h24051013009"
+      ],
+      "issue": "Spanish 'tu navegable ha terminado' has no token support; H520+H1215 construct is 'measure of your unjust gain'",
+      "spanishSpan": "tu navegable ha terminado"
+    }
+  ],
+  "notes": "multiple person and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

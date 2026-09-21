@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:26",
+  "chapter": 52,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los llevó Nabozeradán, jefe de la guardia, a Babilonia, a la casa del rey.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052026001",
+        "h24052026006"
+      ],
+      "issue": "omits first verb (took) and conflates subject/action of second verb (led)",
+      "spanishSpan": "Y los llevó Nabozeradán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052026011"
+      ],
+      "issue": "replaces Riblah with Babilonia",
+      "spanishSpan": "a Babilonia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052026009",
+        "h24052026010"
+      ],
+      "issue": "adds 'a la casa del rey' absent from tokens",
+      "spanishSpan": "a la casa del rey"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

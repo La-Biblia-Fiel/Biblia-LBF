@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:13",
+  "chapter": 41,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Cuando todo el pueblo que estaba con Ismael vio a Johánán, hijo de Carej, y a todos los jefes de los soldados que con él estaban, se alegraron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041013001"
+      ],
+      "issue": "omits the clause-initial וַיְהִ֗י (and it was / and it came to pass)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

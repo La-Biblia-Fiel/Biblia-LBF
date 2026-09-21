@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:16",
+  "chapter": 32,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y rogué al SEÑOR después de entregar el libro del contrato a Barúk, hijo de Nerías, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032016008"
+      ],
+      "issue": "adds 'contrato' concept not licensed by lemma H4736 miqnah (purchase/acquisition)",
+      "spanishSpan": "del contrato"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032016003"
+      ],
+      "issue": "renders יהוה as SEÑOR instead of licensed Jehová",
+      "spanishSpan": "al SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

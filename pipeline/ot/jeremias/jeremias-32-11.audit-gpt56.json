@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:11",
+  "chapter": 32,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tomé el libro del contrato, el sello del contrato y el testimonio, y los entregué a Barúk, hijo de Nerías, hijo de Maasías.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032011001",
+        "h24032011003",
+        "h24032011004",
+        "h24032011006",
+        "h24032011007",
+        "h24032011008",
+        "h24032011010"
+      ],
+      "issue": "Spanish replaces מִקְנָה + חָתוּם + מִצְוָה + חֻקִּים + גָּלוּי with 'libro del contrato, el sello del contrato y el testimonio', adding unlicensed nouns and collapsing distinct terms",
+      "spanishSpan": "el libro del contrato, el sello del contrato y el testimonio"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032011001"
+      ],
+      "issue": "Spanish adds 'y los entregué a Barúk...' which is absent from all tokens of this verse",
+      "spanishSpan": "y los entregué a Barúk, hijo de Nerías, hijo de Maasías"
+    }
+  ],
+  "notes": "verse 11 contains only the taking; delivery belongs to v12",
+  "discardedUncitedFindings": 0
+}

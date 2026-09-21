@@ -1,0 +1,967 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 31,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "passed": [
+    12,
+    16,
+    17,
+    18,
+    23,
+    31,
+    33
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquel tiempo, dice el Señor, seré para todas las familias de Israel un Dios, y ellos serán para mí un pueblo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031001004"
+          ],
+          "issue": "יהוה rendered as title 'Señor' instead of conventional Jehová",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031001006"
+          ],
+          "issue": "adds singular 'un' resolving plural lemma אלהים",
+          "spanishSpan": "un Dios"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice el Señor: En el desierto encontré a un pueblo que había quedado de la espada, y le dije: Israel, yo te calmo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031002003"
+          ],
+          "issue": "replaces proper name יהוה with title 'Señor'",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031002005"
+          ],
+          "issue": "omits licensed noun חֵן (favor/grace)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031002004",
+            "h24031002001"
+          ],
+          "issue": "changes 3ms verb 'found' to 1s 'encontré' and restructures subject",
+          "spanishSpan": "encontré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031002010",
+            "h24031002011"
+          ],
+          "issue": "replaces infinitive construction with added 'y le dije'",
+          "spanishSpan": "y le dije"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Desde lejos el Señor me apareció, y desde entonces te he amado con un amor eterno; por eso con bondad te he atraído.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031003005",
+            "h24031003006",
+            "h24031003007"
+          ],
+          "issue": "inserts 'desde entonces' with no token support; eternal love (אהבת עולם) is not temporally anchored that way",
+          "spanishSpan": "y desde entonces te he amado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031003002"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Otra vez te edificaré, y serás reconstruida, oh virgen de Israel. Otra vez tocarás tus tamboriles y saldrás en danza de alegres.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031004007"
+          ],
+          "issue": "verb rendered as 'tocarás' (play/touch) but lemma is 5710b 'adorn/put on'",
+          "spanishSpan": "tocarás tus tamboriles"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Otra vez plantarás viñas en los montes de Sormón. Los que las plantan las disfrutarán, pero los que las cosechan serán despojados.",
+      "notes": "second clause adds entire concepts absent from packet",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031005008"
+          ],
+          "issue": "Spanish replaces חִלֵּלוּ (profane/pollute) with invented concepts of enjoying and being despoiled by harvesters",
+          "spanishSpan": "las disfrutarán, pero los que las cosechan serán despojados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031005006",
+            "h24031005007",
+            "h24031005008"
+          ],
+          "issue": "Spanish restructures and adds participant groups and actions (harvesters, enjoy, despoiled) not present in the tokens",
+          "spanishSpan": "Los que las plantan las disfrutarán, pero los que las cosechan serán despojados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031005005"
+          ],
+          "issue": "Sormón is not the licensed conventional Spanish form for the proper name",
+          "spanishSpan": "Sormón"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque hay un día en que los que guardan la ley se reunirán en el monte de Efraín y dirán: Levantémonos y subamos a Sión ante el Señor nuestro Dios.",
+      "notes": "additional smoothing 'ante' and future tense not licensed by perfect + cohortative",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031006005",
+            "h24031006004"
+          ],
+          "issue": "adds 'guardan la ley' and renders as future 'se reunirán'; tokens have qal perfect 3cp קָרְאוּ with qal active participle נֹצְרִים (watchmen/keepers) without 'ley'",
+          "spanishSpan": "los que guardan la ley se reunirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031006012"
+          ],
+          "issue": "renders יהוה as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así dice el Señor: Cantad a Jacob, dadle alegría. Dadle alabanza y gritad: ¡Salva, Señor, a tu pueblo, a la remanente de Israel!",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031007009",
+            "h24031007010"
+          ],
+          "issue": "omits בְּרֹאשׁ הַגּוֹיִם entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031007007",
+            "h24031007008"
+          ],
+          "issue": "restructures שִׂמְחָה וְצַהֲלוּ בְּרֹאשׁ הַגּוֹיִם into 'dadle alegría... Dadle alabanza' adding unlicensed phrasing",
+          "spanishSpan": "dadle alegría. Dadle alabanza"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031007011",
+            "h24031007012"
+          ],
+          "issue": "replaces הַשְׁמִיעוּ הַלְלוּ with 'gritad' and omits the distinct hiphil/piel imperatives",
+          "spanishSpan": "gritad"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que los traigo desde el norte y los juntaré de los confines de la tierra. Entre ellos habrá ciego y cojo, mujer encinta y parturienta, y un gran número volverá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031008015"
+          ],
+          "issue": "קָהָל rendered as 'número' instead of preserving assembly/congregation",
+          "spanishSpan": "un gran número"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031008017"
+          ],
+          "issue": "יָשׁוּבוּ 3mp plural changed to singular 'volverá' by rephrasing subject",
+          "spanishSpan": "volverá"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En lágrimas vendrán, y yo los guiaré por el camino recto, sin que tropiecen. Porque yo he sido para Israel un padre, y Efraín es mi primogénito.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031009003"
+          ],
+          "issue": "omits licensed concept of supplications/entreaties",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031009007",
+            "h24031009008"
+          ],
+          "issue": "omits licensed concept of streams/valleys of water",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031009004",
+            "h24031009005"
+          ],
+          "issue": "collapses two distinct leading verbs into single guiaré",
+          "spanishSpan": "y yo los guiaré"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Escuchad la palabra del Señor, naciones, y dad a conocer en las islas lejanas: El que dispersó a Israel lo reunirá y lo cuidará como un pastor cuida su rebaño.",
+      "notes": "Spanish collapses the two imperatives and omits the second one licensed by the packet.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031010008"
+          ],
+          "issue": "omits the imperative וְאִמְרוּ (and say) required by the tokens before the content clause",
+          "spanishSpan": "Escuchad ... y dad a conocer en las islas lejanas: El que"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque el Señor ha rescatado a Jacob y ha redimido a Israel de la mano de un poderoso.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031011003"
+          ],
+          "issue": "YHWH rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031011005",
+            "h24031011006"
+          ],
+          "issue": "adds 'a Israel' with no token present; suffix refers to Jacob ('him') only",
+          "spanishSpan": "a Israel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031011008",
+            "h24031011009"
+          ],
+          "issue": "חָזָק מִמֶּנּוּ rendered without the comparative 'stronger than him'",
+          "spanishSpan": "un poderoso"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces se alegrará la doncella en el vals, y los jóvenes y los ancianos juntos; y convertiré su luto en alegría, y los consolaré, y les haré gozar de su amargura.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031013004"
+          ],
+          "issue": "vals specifies a particular modern dance not licensed by מחול (circle/round dance)",
+          "spanishSpan": "en el vals"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031013012",
+            "h24031013013"
+          ],
+          "issue": "haré gozar de su amargura treats מִיגוֹנָם as object of enjoyment rather than source (from their sorrow)",
+          "spanishSpan": "les haré gozar de su amargura"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y regaré la alma de los sacerdotes con grasa, y mi pueblo se saciará de mi bondad, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031014009",
+            "h24031014010"
+          ],
+          "issue": "renders נְאֻם יְהוָה as 'dice el SEÑOR' instead of licensed form with Jehová and literal declaration",
+          "spanishSpan": "dice el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031014001"
+          ],
+          "issue": "regaré introduces watering/irrigation concept not licensed by רוה piel",
+          "spanishSpan": "regaré"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el SEÑOR: Se oye un grito en Ramah, llanto y gran duelo; Raquel llora por sus hijos, y no quiere ser consolada por sus hijos, porque no están.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031015019"
+          ],
+          "issue": "morphology Sp3ms changed to plural (están)",
+          "spanishSpan": "porque no están"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Después de que me he vuelto, me he consolado; después de que me he dado a conocer, he echado sobre tu cuello mi vergüenza y mi confusión, porque he llevado la afrenta de mi juventud.",
+      "notes": "major semantic and lexical mismatch on the gesture and shame clauses",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031019007",
+            "h24031019008",
+            "h24031019009"
+          ],
+          "issue": "adds 'echado sobre tu cuello' and changes action from striking the thigh to throwing on neck; יָרֵךְ is thigh",
+          "spanishSpan": "he echado sobre tu cuello"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031019010",
+            "h24031019012"
+          ],
+          "issue": "turns two verbs (I was ashamed and I was humiliated) into nouns 'vergüenza y mi confusión'",
+          "spanishSpan": "mi vergüenza y mi confusión"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Es un hijo amado para mí, Efraín, o un niño consentido? Porque cuanto hablo con él, recuerdo que soy recordado por él. Por eso mi entraña se revuelve por él; tendré misericordia de él, dice SEÑOR.",
+      "notes": "major semantic reversal on the זכר clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031020012",
+            "h24031020013"
+          ],
+          "issue": "inverts subject of remembering and adds un-licensed reciprocal clause",
+          "spanishSpan": "recuerdo que soy recordado por él"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031020006",
+            "h24031020007"
+          ],
+          "issue": "renders construct phrase as specialized 'niño consentido' adding interpretive nuance not in tokens",
+          "spanishSpan": "niño consentido"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24031020022",
+            "h24031020023"
+          ],
+          "issue": "uses 'dice SEÑOR' instead of 'declaración de Jehová'",
+          "spanishSpan": "dice SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Establece marcos para ti, pon postes de señalización para ti, pon tu corazón en el camino por donde yo he andado, vuelve, oh virgen Israel, vuelve a tus ciudades, estas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031021007",
+            "h24031021008",
+            "h24031021009",
+            "h24031021010"
+          ],
+          "issue": "adds 'por donde yo he andado' with no token support",
+          "spanishSpan": "por donde yo he andado"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Hasta cuándo te volverás a esconder, oh hija que te vuelves atrás? Porque SEÑOR ha hecho algo nuevo en la tierra: una mujer rodeará a un hombre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031022003"
+          ],
+          "issue": "lemma 2559 חמק rendered as 'esconder' (hide), adding unlicensed concept",
+          "spanishSpan": "te volverás a esconder"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031022008"
+          ],
+          "issue": "proper name יהוה rendered as SEÑOR instead of conventional Jehová",
+          "spanishSpan": "SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y habitarán en ella Judá y todas sus ciudades, labradores y pastores.",
+      "notes": "second clause completely rewritten",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031024008",
+            "h24031024009"
+          ],
+          "issue": "verb + flock rendered as noun 'pastores' (no such lemma)",
+          "spanishSpan": "pastores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031024006"
+          ],
+          "issue": "adverb 'together' omitted",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque he saciado al que estaba hambriento y he llenado al que estaba afligido.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031025004"
+          ],
+          "issue": "עֲיֵפָ֑ה rendered as 'hambriento' (hungry) instead of weary/faint",
+          "spanishSpan": "hambriento"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031025003",
+            "h24031025004",
+            "h24031025006",
+            "h24031025007"
+          ],
+          "issue": "noun+adj phrases replaced with 'al que estaba X' interpretive constructions",
+          "spanishSpan": "al que estaba hambriento ... al que estaba afligido"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso desperté y miré, y mi reposo se volvió para mí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031026006"
+          ],
+          "issue": "עָ֥רְבָה (was pleasant) rendered as 'se volvió' (became/turned), adding change-of-state not licensed by qal perfect 3fs",
+          "spanishSpan": "se volvió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031026005"
+          ],
+          "issue": "שְׁנָתִי (my sleep) rendered as 'mi reposo' (my repose/rest) instead of sleep",
+          "spanishSpan": "mi reposo"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que días vienen, oráculo del SEÑOR, y sembraré a casa de Israel y a casa de Judá semilla de hombre y semilla de bestia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031027005"
+          ],
+          "issue": "YHWH rendered SEÑOR instead of required Jehová",
+          "spanishSpan": "SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será como cuando guardé atentamente para destruir, deshecer, derribar y arruinar, así guardaré atentamente para edificar y plantar, oráculo del SEÑOR.",
+      "notes": "Spanish lists only four negative actions; packet has five.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031028009"
+          ],
+          "issue": "omits the fifth destruction infinitive (וּלְהָרֵ֑עַ / to harm)",
+          "spanishSpan": "destruir, deshecer, derribar y arruinar"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquellos días no dirán más: Los padres comieron higos agrios, y los dientes de los hijos se les encanallaron.",
+      "notes": "higos agrios adds unlicensed concept; no fig token present",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031029008"
+          ],
+          "issue": "replaces בֹסֶר (unripe/sour grapes) with higos agrios (sour figs)",
+          "spanishSpan": "higos agrios"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero cada uno morirá por su pecado; toda la carne que come higos agrios, sus dientes se les encanallarán.",
+      "notes": "multiple lexical substitutions and participant distortion",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031030007"
+          ],
+          "issue": "toda la carne replaces האדם with un-licensed noun",
+          "spanishSpan": "toda la carne"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031030009"
+          ],
+          "issue": "higos agrios replaces הבסר (sour grape) with wrong fruit",
+          "spanishSpan": "higos agrios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031030010",
+            "h24031030011"
+          ],
+          "issue": "encanallarán neither renders קהה nor preserves teeth as subject",
+          "spanishSpan": "sus dientes se les encanallarán"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No como el pacto que hice con sus padres el día que tomé sus manos para sacarlos de la tierra de Egipto, el cual ellos profanaron, y yo me hice fuerte contra ellos, oráculo del SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031032019"
+          ],
+          "issue": "lemma 1166 (ba'al, qal 1cs) rendered as 'me hice fuerte contra ellos' which adds 'fuerte' and 'contra' absent from tokens",
+          "spanishSpan": "y yo me hice fuerte contra ellos"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no enseñará más cada uno a su prójimo, ni cada uno a su hermano, diciendo: Conoce al SEÑOR; porque todos me conocerán, desde el menor hasta el mayor, oráculo del SEÑOR; porque perdonaré sus iniquidades y no recordaré más sus pecados.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031034002"
+          ],
+          "issue": "verb number mismatch: Hebrew 3mp יְלַמְּד֣וּ rendered with singular 'enseñará'",
+          "spanishSpan": "no enseñará más"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031034011"
+          ],
+          "issue": "imperative number mismatch: Hebrew 2mp דְּע֖וּ rendered with singular 'Conoce'",
+          "spanishSpan": "Conoce al SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031034025",
+            "h24031034026"
+          ],
+          "issue": "number change: singular עֲוֺנָם and חַטָּאתָם rendered as plural 'iniquidades' and 'pecados'",
+          "spanishSpan": "sus iniquidades y ... sus pecados"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el SEÑOR: el que da el sol por luz del día, las leyes de la luna y de las estrellas por luz de la noche, el mar se tranquiliza y las olas se agitan, el SEÑOR de los ejércitos es su nombre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031035013",
+            "h24031035014",
+            "h24031035015",
+            "h24031035016"
+          ],
+          "issue": "reverses meaning of רֹגַע הַיָּם וַיֶּהֱמוּ גַלָּיו (stirs sea so waves roar) to 'el mar se tranquiliza y las olas se agitan'",
+          "spanishSpan": "el mar se tranquiliza y las olas se agitan"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Si estos estatutos se apartan de delante de mí, dice el SEÑOR, también el linaje de Israel vivirá en un estado de no ser pueblo delante de mí para siempre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031036011",
+            "h24031036012"
+          ],
+          "issue": "adds 'vivirá en un estado de' and changes שׁבת + מִהְיוֹת 'cease from being' into 'live in a state of not being'",
+          "spanishSpan": "vivirá en un estado de no ser"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031036013"
+          ],
+          "issue": "renders גּוֹי as 'pueblo' instead of 'nación'",
+          "spanishSpan": "pueblo"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el SEÑOR: Si el cielo se aparta de lo alto y las bases de la tierra se agitan, también yo rechazaré a todo linaje de Israel por todo lo que han hecho, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031037005"
+          ],
+          "issue": "verb 'se aparta' replaces 'be measured' (niphal מדד)",
+          "spanishSpan": "se aparta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031037008"
+          ],
+          "issue": "verb 'se agitan' replaces 'be searched/explored' (niphal חקר)",
+          "spanishSpan": "se agitan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031037003",
+            "h24031037023"
+          ],
+          "issue": "SEÑOR replaces licensed יהוה → Jehová",
+          "spanishSpan": "el SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí, días vienen, dice el SEÑOR, y se edificará la ciudad para el SEÑOR desde el Mamelón de Hananel hasta el ángulo del templo.",
+      "notes": "multiple unlicensed additions and substitutions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031038002"
+          ],
+          "issue": "adds verb 'vienen' with no corresponding token",
+          "spanishSpan": "días vienen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031038003",
+            "h24031038004"
+          ],
+          "issue": "renders נְאֻם יְהוָה as 'dice el SEÑOR' instead of declaration",
+          "spanishSpan": "dice el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031038008"
+          ],
+          "issue": "renders מִגְדַּל as 'Mamelón' instead of tower",
+          "spanishSpan": "Mamelón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031038010",
+            "h24031038011"
+          ],
+          "issue": "adds 'del templo' and omits 'gate' for שַׁעַר הַפִּנָּה",
+          "spanishSpan": "ángulo del templo"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y saldrá otra vez la medida en su frente, sobre la colina de Gareb, y rodeará Geatá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031039004"
+          ],
+          "issue": "נֶגְדּוֹ rendered as 'en su frente' (forehead/front concept not licensed by lemma 5048)",
+          "spanishSpan": "en su frente"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y todo el valle de los cadáveres y de la ceniza, y todo el campo de las cenizas hasta el arroyo de Kidron, hasta el ángulo de la puerta de los caballos al oriente, será santo al SEÑOR; no será arrancado ni derribado más para siempre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24031040005"
+          ],
+          "issue": "adds 'campo de las cenizas' concept not licensed by any token",
+          "spanishSpan": "y todo el campo de las cenizas"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T03:22:07.846380+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 40,
+    "verses": 40,
+    "input": 94967,
+    "cachedInput": 27392,
+    "output": 5494,
+    "reasoning": 35499,
+    "usd": 0.3948,
+    "byProvider": {
+      "xai": {
+        "calls": 40,
+        "input": 94967,
+        "output": 5494,
+        "reasoning": 35499,
+        "usd": 0.3948
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 40,
+        "input": 94967,
+        "output": 5494,
+        "reasoning": 35499,
+        "usd": 0.3948
+      }
+    },
+    "usdPerVerse": 0.0099,
+    "bibleAtThisRate": 307.0,
+    "book": "jeremias",
+    "chapter": 31
+  }
+}

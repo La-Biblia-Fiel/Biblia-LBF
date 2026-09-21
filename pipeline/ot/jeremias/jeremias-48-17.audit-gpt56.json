@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:17",
+  "chapter": 48,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Todos sus vecinos lo moverán, y todos los que lo conocen dirán: ¿Cómo ha sido quebrado el bastón de fuerza, el báculo de gloria?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048017001",
+        "h24048017008"
+      ],
+      "issue": "imperatives rendered as future indicatives",
+      "spanishSpan": "lo moverán ... dirán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048017001",
+        "h24048017002",
+        "h24048017003",
+        "h24048017004"
+      ],
+      "issue": "adds transitive 'lo moverán' and turns surrounding addressees into future actors",
+      "spanishSpan": "Todos sus vecinos lo moverán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048017006",
+        "h24048017007"
+      ],
+      "issue": "omits 'name' and resolves to 'lo conocen'",
+      "spanishSpan": "todos los que lo conocen"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

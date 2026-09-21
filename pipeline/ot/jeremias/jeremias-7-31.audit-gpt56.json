@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:31",
+  "chapter": 7,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Y han construido altas montañas en el valle de Hinnom para quemar a sus hijos y a sus hijas en el fuego, cosa que no mandé y que no subió a mi corazón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007031002"
+      ],
+      "issue": "בָּמ֣וֹת rendered as 'altas montañas' (adds 'montañas' not licensed by lemma 1116)",
+      "spanishSpan": "altas montañas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007031003"
+      ],
+      "issue": "הַתֹּ֗פֶת omitted entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

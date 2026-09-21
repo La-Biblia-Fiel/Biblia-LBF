@@ -1,0 +1,285 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 47,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "passed": [],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Que la palabra del Señor vino a Jeremías el profeta contra los filisteos antes que Faraón golpeara a Azot.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047001004"
+          ],
+          "issue": "Señor substitutes for proper name יהוה; packet requires Jehová",
+          "spanishSpan": "Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047001002"
+          ],
+          "issue": "היה rendered as dynamic 'vino' instead of static 'era/fue'",
+          "spanishSpan": "vino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047001014"
+          ],
+          "issue": "עזה rendered as Azot (wrong referent; token is Gaza)",
+          "spanishSpan": "Azot"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047001008",
+            "h24047001009"
+          ],
+          "issue": "second אל + Philistines rendered 'contra' resolving directional preposition",
+          "spanishSpan": "contra los filisteos"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice el Señor: He aquí que vienen aguas del norte y se convertirán en un torrente que inundará la tierra y todo lo que contiene, la ciudad y sus habitantes, y los hombres gritarán y todos los que habitan la tierra se lamentarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047002003"
+          ],
+          "issue": "YHWH rendered as 'el Señor' instead of licensed proper name form",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047002018"
+          ],
+          "issue": "singular האדם changed to plural 'los hombres'",
+          "spanishSpan": "los hombres gritarán"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por el sonido de las alas de los caballos, por el estruendo de sus carros, por el ruido de sus ruedas, los padres no miran atrás a sus hijos, porque sus manos están flaqueando.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047003003"
+          ],
+          "issue": "adds 'alas' (wings) not present in פַּרְסוֹת (hoofs)",
+          "spanishSpan": "alas de los caballos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047003010"
+          ],
+          "issue": "adds 'atrás' (back) not licensed by הִפְנ֤וּ (turn)",
+          "spanishSpan": "miran atrás"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el día que el Señor venga para saquear a todos los filisteos y cortar a Gaza, a Ascalón, a Ecrón y a Asdod, todo sobrante que ayude será saqueado, porque el Señor saqueará a los filisteos, y el remanente de Ai-Kaphtor.",
+      "notes": "multiple token mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047004009",
+            "h24047004010"
+          ],
+          "issue": "Spanish names Gaza/Ascalón/Ecrón/Asdod but tokens only license Tyre and Sidon",
+          "spanishSpan": "cortar a Gaza, a Ascalón, a Ecrón y a Asdod"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047004011",
+            "h24047004012",
+            "h24047004013"
+          ],
+          "issue": "Spanish rephrases כל שריד עזר as 'todo sobrante que ayude será saqueado' adding verb and participant shift not in tokens",
+          "spanishSpan": "todo sobrante que ayude será saqueado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047004004",
+            "h24047004008"
+          ],
+          "issue": "Spanish structure changes the two purpose infinitives and their objects",
+          "spanishSpan": "para saquear ... y cortar"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ha llegado la calvicie a Gaza, Ascalón está avergonzada, los sobrevivientes de Asdod se han quedado sin fuerzas. ¿Hasta cuándo te enojarás?",
+      "notes": "multiple concept additions and substitutions not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047005005"
+          ],
+          "issue": "נִדְמְתָה rendered as 'está avergonzada' (ashamed); lemma/morph only licenses 'has been silenced/destroyed'",
+          "spanishSpan": "Ascalón está avergonzada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047005007",
+            "h24047005008"
+          ],
+          "issue": "שְׁאֵרִית עִמְקָם rendered as 'sobrevivientes de Asdod'; adds absent proper name Asdod and changes 'remnant of their valley' to survivors without strength",
+          "spanishSpan": "los sobrevivientes de Asdod se han quedado sin fuerzas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047005011"
+          ],
+          "issue": "תִּתְגּוֹדָדִי rendered as 'te enojarás' (be angry); lemma 1413 and morph only license 'will you gash/cut yourself'",
+          "spanishSpan": "¿Hasta cuándo te enojarás?"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay, espada del Señor! ¿Hasta cuánd戏剧结束，接下来我们要做什么？您刚才的问题似乎中断了，我理解您希望我继续翻译耶利米书47:2至48:6的经文。以下是翻译结果，请确认是否符合要求继续进行其他任务或提供进一步指示：继续之前的翻译，以下是剩余的经文翻译结果：",
+      "notes": "candidate is corrupted meta-text, not a rendering of the tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047006004",
+            "h24047006005",
+            "h24047006006",
+            "h24047006007"
+          ],
+          "issue": "Spanish omits the question 'until when will you not be quiet' and inserts unrelated meta-text instead",
+          "spanishSpan": "¿Hasta cuánd戏剧结束，接下来我们要做什么？"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047006008",
+            "h24047006009",
+            "h24047006010",
+            "h24047006011",
+            "h24047006012"
+          ],
+          "issue": "Spanish omits the three 2fs commands (sheath yourself, rest, be silent) and replaces them with non-source content",
+          "spanishSpan": "您刚才的问题似乎中断了，我理解您希望我继续翻译耶利米书47:2至48:6的经文。以下是翻译结果，请确认是否符合要求继续进行其他任务或提供进一步指示：继续之前的翻译，以下是剩余的经文翻译结果："
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Cómo podrás estar tranquila, cuando el Señor ha dado órdenes contra ti, a Ascalón y al litoral del mar, allí será tu destino.",
+      "notes": "multiple participant and verb-form mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047007003"
+          ],
+          "issue": "YHWH rendered as 'el Señor' instead of licensed conventional form",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047007005",
+            "h24047007004",
+            "h24047007012"
+          ],
+          "issue": "restructures command + suffix 3fs participants and changes perfect 'ha nombrado/apuntado a ella' into future interpretive 'será tu destino'",
+          "spanishSpan": "ha dado órdenes contra ti... allí será tu destino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24047007012"
+          ],
+          "issue": "adds 'destino' concept absent from lemma and morphology",
+          "spanishSpan": "tu destino"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:58:34.604354+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 7,
+    "verses": 7,
+    "input": 16344,
+    "cachedInput": 6272,
+    "output": 1574,
+    "reasoning": 6136,
+    "usd": 0.0695,
+    "byProvider": {
+      "xai": {
+        "calls": 7,
+        "input": 16344,
+        "output": 1574,
+        "reasoning": 6136,
+        "usd": 0.0695
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 7,
+        "input": 16344,
+        "output": 1574,
+        "reasoning": 6136,
+        "usd": 0.0695
+      }
+    },
+    "usdPerVerse": 0.0099,
+    "bibleAtThisRate": 309.0,
+    "book": "jeremias",
+    "chapter": 47
+  }
+}

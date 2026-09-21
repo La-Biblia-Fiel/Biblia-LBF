@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:1",
+  "chapter": 32,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra que vino a Jeremías de parte del SEÑOR en el año diez del reinado de Zedequías, rey de Judá (era el año diecisiete del reinado de Nabucodonosor).",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032001003"
+      ],
+      "issue": "adds 'vino' (came) where lemma/morph is only 'was/happened'",
+      "spanishSpan": "vino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032001008",
+        "h24032001009",
+        "h24032001010"
+      ],
+      "issue": "adds 'del reinado' not licensed by tokens",
+      "spanishSpan": "del reinado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032001014",
+        "h24032001015"
+      ],
+      "issue": "renders eighteen as diecisiete (17)",
+      "spanishSpan": "diecisiete"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032001016",
+        "h24032001017"
+      ],
+      "issue": "adds 'del reinado' not licensed by tokens",
+      "spanishSpan": "del reinado"
+    }
+  ],
+  "notes": "multiple unlicensed additions and numeric error",
+  "discardedUncitedFindings": 0
+}

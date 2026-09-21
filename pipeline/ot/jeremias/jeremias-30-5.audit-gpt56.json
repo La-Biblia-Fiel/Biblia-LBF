@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:5",
+  "chapter": 30,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho Jehová: Se ha oído un grito de temor, pánico y no hay paz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030005007"
+      ],
+      "issue": "changes 1cp verb to impersonal passive, omitting 'we'",
+      "spanishSpan": "Se ha oído"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

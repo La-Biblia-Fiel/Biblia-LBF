@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:9",
+  "chapter": 31,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "En lágrimas vendrán, y yo los guiaré por el camino recto, sin que tropiecen. Porque yo he sido para Israel un padre, y Efraín es mi primogénito.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031009003"
+      ],
+      "issue": "omits licensed concept of supplications/entreaties",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031009007",
+        "h24031009008"
+      ],
+      "issue": "omits licensed concept of streams/valleys of water",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031009004",
+        "h24031009005"
+      ],
+      "issue": "collapses two distinct leading verbs into single guiaré",
+      "spanishSpan": "y yo los guiaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

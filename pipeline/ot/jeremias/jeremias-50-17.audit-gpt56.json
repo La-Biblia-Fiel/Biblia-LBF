@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:17",
+  "chapter": 50,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Israel es un cordero disperso; las lobas lo han espantado. El primero lo ha devorado el rey de Asiria y este último, Nabucodonosor, rey de Babilonia, se lo ha comido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050017004"
+      ],
+      "issue": "אריות (lions) rendered as lobas (she-wolves)",
+      "spanishSpan": "las lobas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050017005"
+      ],
+      "issue": "הדיחו (have driven away) rendered as han espantado (have frightened)",
+      "spanishSpan": "lo han espantado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050017012"
+      ],
+      "issue": "עצמו (has broken his bones) rendered as se lo ha comido (has eaten him)",
+      "spanishSpan": "se lo ha comido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

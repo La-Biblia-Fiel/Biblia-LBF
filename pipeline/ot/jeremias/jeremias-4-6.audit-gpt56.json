@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:6",
+  "chapter": 4,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Elevad la bandera sobre Sion, huid, no os detengáis, porque traigo un mal de la parte septentrional y una gran destrucción.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004006001",
+        "h24004006004",
+        "h24004006006"
+      ],
+      "issue": "uses Peninsular vosotros imperative and object forms (Elevad, huid, os detengáis) instead of Latin American ustedes (eleven, huyan, se detengan)",
+      "spanishSpan": "Elevad ... huid, no os detengáis"
+    }
+  ],
+  "notes": "2mp address rendered in wrong Spanish variety",
+  "discardedUncitedFindings": 0
+}

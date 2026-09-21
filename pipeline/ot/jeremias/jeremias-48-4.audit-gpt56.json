@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:4",
+  "chapter": 48,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Moab se ha roto, se ha oído un grito de dolor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048004003",
+        "h24048004004"
+      ],
+      "issue": "adds 'de dolor' not licensed by זעקה; changes hiphil 3cp active 'they caused to hear' to passive 'se ha oído'",
+      "spanishSpan": "se ha oído un grito de dolor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

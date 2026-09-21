@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:3",
+  "chapter": 49,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Gime, Hesbón, porque ha sido destruida Ai; gritan las hijas de Rabba, visten saco, se rasgan el pecho, y andan con desmayo sobre las murallas, porque su rey ha ido en cautiverio, y sus sacerdotes y sus príncipes juntos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049003006",
+        "h24049003009",
+        "h24049003011",
+        "h24049003012"
+      ],
+      "issue": "2fp qal/r imperatives rendered as 3rd-person indicative statements instead of direct address",
+      "spanishSpan": "gritan las hijas de Rabba, visten saco, se rasgan el pecho, y andan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049003012",
+        "h24049003013"
+      ],
+      "issue": "adds unlicensed concept 'con desmayo'",
+      "spanishSpan": "andan con desmayo sobre las murallas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

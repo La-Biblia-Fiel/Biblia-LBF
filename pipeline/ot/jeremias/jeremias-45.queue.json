@@ -1,0 +1,96 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 45,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "passed": [
+    2,
+    3,
+    5
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra que Jeremías el profeta habló a Baruc hijo de Nerías, escribiendo estas palabras en un libro a su dictado en el cuarto año de Joaquín hijo de Josías, rey de Judá, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24045001010",
+            "h24045001016",
+            "h24045001017"
+          ],
+          "issue": "Spanish attributes writing to Baruch via dictation; tokens show 3ms suffix on infinitive construct (Jeremiah writing) + 'from mouth of Jeremiah'",
+          "spanishSpan": "escribiendo estas palabras en un libro a su dictado"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así le dirás: Así ha dicho el SEÑOR: He aquí que yo, que edifico, destruiré; y yo, que planto, arrancaré; y toda la tierra será consumida.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24045004017",
+            "h24045004018",
+            "h24045004019",
+            "h24045004020"
+          ],
+          "issue": "adds verb 'será consumida' with no corresponding token or lemma",
+          "spanishSpan": "será consumida"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:52:50.432811+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 5,
+    "verses": 5,
+    "input": 12851,
+    "cachedInput": 4480,
+    "output": 273,
+    "reasoning": 4523,
+    "usd": 0.0478,
+    "byProvider": {
+      "xai": {
+        "calls": 5,
+        "input": 12851,
+        "output": 273,
+        "reasoning": 4523,
+        "usd": 0.0478
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 5,
+        "input": 12851,
+        "output": 273,
+        "reasoning": 4523,
+        "usd": 0.0478
+      }
+    },
+    "usdPerVerse": 0.0096,
+    "bibleAtThisRate": 297.0,
+    "book": "jeremias",
+    "chapter": 45
+  }
+}

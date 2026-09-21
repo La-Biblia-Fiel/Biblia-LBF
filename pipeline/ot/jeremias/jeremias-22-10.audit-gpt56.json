@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:10",
+  "chapter": 22,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "No llores por el muerto ni lo lamentes; llora por el que se ha ido, porque ya no volverá y no verá su patria.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022010002",
+        "h24022010005",
+        "h24022010007"
+      ],
+      "issue": "2mp jussive/imperative verbs rendered as 2ms singular (llores, lamentes, llora) instead of 2p plural",
+      "spanishSpan": "No llores... ni lo lamentes; llora"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

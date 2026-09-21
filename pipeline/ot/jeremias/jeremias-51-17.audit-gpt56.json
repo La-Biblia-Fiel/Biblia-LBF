@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:17",
+  "chapter": 51,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Se avergüenzan todos los hombres de su entendimiento; se avergüenzan todos los fundidores de la plata, de su obra, porque es mentira su ofrenda, y no hay en ella espíritu.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051017001"
+      ],
+      "issue": "נבער rendered as 'se avergüenzan' (shame) instead of brutish/senseless",
+      "spanishSpan": "Se avergüenzan todos los hombres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051017007",
+        "h24051017008"
+      ],
+      "issue": "adds 'de la plata' and 'de su obra' absent from tokens; צרף מפסל not silver or 'obra'",
+      "spanishSpan": "fundidores de la plata, de su obra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051017010",
+        "h24051017011"
+      ],
+      "issue": "שקר נסכו rendered as 'es mentira su ofrenda' (offering concept not licensed)",
+      "spanishSpan": "es mentira su ofrenda"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051017014"
+      ],
+      "issue": "בם (plural) rendered as 'en ella' (singular feminine)",
+      "spanishSpan": "en ella espíritu"
+    }
+  ],
+  "notes": "multiple lexical and morphological mismatches",
+  "discardedUncitedFindings": 0
+}

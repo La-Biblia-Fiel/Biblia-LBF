@@ -1,0 +1,62 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:10",
+  "chapter": 20,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque he oído la habla de muchos, que me rodean de peligro; díganlo, y verán; todo hombre que ama mi paz se alegra de que yo sea perseguido; quizás serán engañados, y me atacarán, y tomarán venganza de mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020010007",
+        "h24020010008"
+      ],
+      "issue": "changes 2mp imperative + 1cp cohortative report sequence to 2pl 'díganlo, y verán'",
+      "spanishSpan": "díganlo, y verán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020010010",
+        "h24020010011"
+      ],
+      "issue": "adds 'que ama' not present in 'enosh shelomi'",
+      "spanishSpan": "todo hombre que ama mi paz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020010012",
+        "h24020010013"
+      ],
+      "issue": "replaces 'watching my stumbling' with rejoicing at persecution",
+      "spanishSpan": "se alegra de que yo sea perseguido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020010015",
+        "h24020010016",
+        "h24020010017"
+      ],
+      "issue": "changes 3ms pual 'he will be enticed' + 1cp 'we will prevail over him' to plural addressees being deceived and attacking speaker",
+      "spanishSpan": "quizás serán engañados, y me atacarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020010018",
+        "h24020010019",
+        "h24020010020"
+      ],
+      "issue": "changes 1cp cohortative 'we will take our revenge from him' to 3pl taking revenge on speaker",
+      "spanishSpan": "tomarán venganza de mí"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

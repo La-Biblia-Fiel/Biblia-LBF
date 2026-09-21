@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:43",
+  "chapter": 51,
+  "verse": 43,
+  "candidateLabel": "gpt56",
+  "spanish": "Ciudades desiertas, tierra seca y desolada, tierra donde no habita ningún hombre y donde no pasa un ser humano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051043001",
+        "h24051043002"
+      ],
+      "issue": "omits verb 'han sido/hecho' and 3fs possessive suffix on 'ciudades'",
+      "spanishSpan": "Ciudades desiertas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

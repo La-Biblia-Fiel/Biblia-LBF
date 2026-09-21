@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:14",
+  "chapter": 5,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, así dice el SEÑOR, el Dios de los ejércitos: Porque han hablado esta palabra, he puesto mis palabras en tu boca como fuego, y este pueblo como madera para ser quemada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005014008"
+      ],
+      "issue": "2mp subject rendered as 3pl 'han hablado' (participant shift)",
+      "spanishSpan": "Porque han hablado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005014019",
+        "h24005014020"
+      ],
+      "issue": "עֵצִים (plural) + active וַאֲכָלָתַם (it will consume them) rendered as passive singular 'madera para ser quemada'",
+      "spanishSpan": "este pueblo como madera para ser quemada"
+    }
+  ],
+  "notes": "2ms 'tu boca' preserved correctly",
+  "discardedUncitedFindings": 0
+}

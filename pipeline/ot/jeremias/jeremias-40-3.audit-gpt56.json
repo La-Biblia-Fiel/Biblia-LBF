@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:3",
+  "chapter": 40,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el Señor hizo conforme había hablado, porque han pecado contra Jehová y no han escuchado su voz; por tanto, ha sucedido esto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040003001"
+      ],
+      "issue": "omits first verb וַיָּבֵ֥א entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040003007",
+        "h24040003010"
+      ],
+      "issue": "changes 2mp (חֲטָאתֶ֤ם, שְׁמַעְתֶּ֣ם) to 3pl han",
+      "spanishSpan": "han pecado ... han escuchado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040003013"
+      ],
+      "issue": "omits לָכֶ֖ם (to you)",
+      "spanishSpan": "ha sucedido esto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

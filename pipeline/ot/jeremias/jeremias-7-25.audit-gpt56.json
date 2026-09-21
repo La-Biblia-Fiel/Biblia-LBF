@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:25",
+  "chapter": 7,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Desde el día que sus padres salieron de la tierra de Egipto hasta este día, yo les envié a mis siervos los profetas día tras día.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007025005",
+        "h24007025012"
+      ],
+      "issue": "2mp suffixes rendered as 3rd-person (sus/les) instead of 2nd-person addressee",
+      "spanishSpan": "sus padres ... les envié"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:36",
+  "chapter": 31,
+  "verse": 36,
+  "candidateLabel": "gpt56",
+  "spanish": "Si estos estatutos se apartan de delante de mí, dice el SEÑOR, también el linaje de Israel vivirá en un estado de no ser pueblo delante de mí para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031036011",
+        "h24031036012"
+      ],
+      "issue": "adds 'vivirá en un estado de' and changes שׁבת + מִהְיוֹת 'cease from being' into 'live in a state of not being'",
+      "spanishSpan": "vivirá en un estado de no ser"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031036013"
+      ],
+      "issue": "renders גּוֹי as 'pueblo' instead of 'nación'",
+      "spanishSpan": "pueblo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:47",
+  "chapter": 51,
+  "verse": 47,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, he aquí que días vienen y haré que se avergüencen a los ídolos de Babilonia, y toda la tierra será avergonzada, y todos los que la han herido caerán en medio de ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051047005",
+        "h24051047006",
+        "h24051047007",
+        "h24051047008"
+      ],
+      "issue": "פקד על פסילי בבל rendered as making the idols ashamed rather than visiting/punishing upon them",
+      "spanishSpan": "haré que se avergüencen a los ídolos de Babilonia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051047013"
+      ],
+      "issue": "חללים rendered as active wounders instead of the slain",
+      "spanishSpan": "todos los que la han herido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

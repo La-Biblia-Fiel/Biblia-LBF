@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:2",
+  "chapter": 52,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y él hizo lo malo a los ojos del Señor, conforme a todo lo que había hecho Joaquín.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052002004"
+      ],
+      "issue": "YHWH rendered as 'Señor' instead of licensed Jehová",
+      "spanishSpan": "del Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

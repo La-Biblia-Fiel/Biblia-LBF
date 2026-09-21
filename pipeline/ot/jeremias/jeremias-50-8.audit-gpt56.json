@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:8",
+  "chapter": 50,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Salid de entre Babilonia y huid de la tierra de los caldeos, y sed como ciervos ante las ovejas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050008007"
+      ],
+      "issue": "עַתּוּדִים rendered as ciervos (deer) instead of male goats/he-goats",
+      "spanishSpan": "ciervos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050008001",
+        "h24050008004",
+        "h24050008006"
+      ],
+      "issue": "single imperative נודו + והיו split into Salid + huid + sed; adds extra verb not licensed",
+      "spanishSpan": "Salid de entre Babilonia y huid"
+    }
+  ],
+  "notes": "עַתּוּדִים (H6260) licenses goats, not deer",
+  "discardedUncitedFindings": 0
+}

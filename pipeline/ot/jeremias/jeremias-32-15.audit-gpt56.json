@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:15",
+  "chapter": 32,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho el SEÑOR de los ejércitos, el Dios de Israel: Otra vez comprarán casas y campos y viñas en esta tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032015009"
+      ],
+      "issue": "Niphal passive (will be bought) rendered as active comprarán",
+      "spanishSpan": "comprarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

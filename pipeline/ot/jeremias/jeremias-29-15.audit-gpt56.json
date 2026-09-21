@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:15",
+  "chapter": 29,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque han dicho: Levantará Jehová para nosotros profetas en Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029015002"
+      ],
+      "issue": "2mp verb rendered as 3pl 'han dicho'",
+      "spanishSpan": "han dicho"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029015007"
+      ],
+      "issue": "directional suffix rendered as static 'en' instead of 'a'",
+      "spanishSpan": "en Babilonia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

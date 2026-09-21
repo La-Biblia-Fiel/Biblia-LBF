@@ -1,0 +1,60 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:21",
+  "chapter": 50,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "En la tierra de Merathaim, pastorearé sobre ellos, y tras ellos vendrá la destrucción y el saqueo, dice el Señor, y harás todo lo que te he ordenado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050021004",
+        "h24050021005"
+      ],
+      "issue": "עֲלֵה עָלֶיהָ (qal impv 2ms 'go up against it') rendered as first-person 'pastorearé sobre ellos'",
+      "spanishSpan": "pastorearé sobre ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050021007",
+        "h24050021008"
+      ],
+      "issue": "יוֹשְׁבֵי פְּקוֹד omitted entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050021009",
+        "h24050021010",
+        "h24050021011"
+      ],
+      "issue": "two 2ms imperatives חֲרֹב וְהַחֲרֵם אַחֲרֵיהֶם changed to future passive 'tras ellos vendrá la destrucción y el saqueo'",
+      "spanishSpan": "tras ellos vendrá la destrucción y el saqueo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050021013"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050021009",
+        "h24050021010"
+      ],
+      "issue": "adds 'saqueo' (plunder) not licensed by חרב or החרם",
+      "spanishSpan": "el saqueo"
+    }
+  ],
+  "notes": "multiple command-to-future and participant shifts; also omits Pekod",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:6",
+  "chapter": 48,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Huyan, escapen a sus vidas, y sean como nómadas en el desierto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048006005"
+      ],
+      "issue": "ערוער rendered as 'nómadas' (nomads), adding unlicensed concept; lemma 6176 is a shrub/plant",
+      "spanishSpan": "como nómadas"
+    }
+  ],
+  "notes": "also 'escapen a sus vidas' is awkward but secondary to the noun error",
+  "discardedUncitedFindings": 0
+}

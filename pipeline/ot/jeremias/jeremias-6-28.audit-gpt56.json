@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:28",
+  "chapter": 6,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Todos ellos son rebeldes, andan en calumnias, son como bronce y hierro; todos son corruptores.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006028006",
+        "h24006028007"
+      ],
+      "issue": "adds un-licensed comparative 'como' before the metals",
+      "spanishSpan": "son como bronce y hierro"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

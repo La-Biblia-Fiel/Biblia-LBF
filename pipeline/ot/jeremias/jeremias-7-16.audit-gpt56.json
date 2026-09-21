@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:16",
+  "chapter": 7,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tú no orarás por este pueblo, ni levantarás clamor ni oración por ellos, porque yo no oigo a ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007016012",
+        "h24007016013",
+        "h24007016014"
+      ],
+      "issue": "omits the third prohibition 'and do not intercede with me'",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

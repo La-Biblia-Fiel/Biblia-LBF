@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:21",
+  "chapter": 36,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el rey envió a un judío a que la tomara, y él la tomó de la habitación de Elisama el escriba, y el judío la leyó en la presencia del rey y de todos los príncipes que estaban delante del rey.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036021004",
+        "h24036021013"
+      ],
+      "issue": "proper name יְהוּדִי rendered as common noun 'un judío' / 'el judío'",
+      "spanishSpan": "un judío ... el judío"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24036021014",
+        "h24036021016"
+      ],
+      "issue": "בְּאָזְנֵי 'in the ears of' rendered interpretively as 'en la presencia'",
+      "spanishSpan": "en la presencia"
+    }
+  ],
+  "notes": "name substitution is decisive fail",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:60",
+  "chapter": 51,
+  "verse": 60,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jeremías escribió en un libro todas las calamidades que vendrían sobre Babilonia, conforme a todas estas palabras que estaban escritas contra Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051060010",
+        "h24051060011",
+        "h24051060013",
+        "h24051060014",
+        "h24051060015",
+        "h24051060016",
+        "h24051060017",
+        "h24051060018",
+        "h24051060019"
+      ],
+      "issue": "adds 'conforme a' and rephrases as 'according to the words written against Babylon' instead of writing both the calamity and the words themselves to the book/scroll",
+      "spanishSpan": "conforme a todas estas palabras que estaban escritas contra Babilonia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051060005"
+      ],
+      "issue": "pluralizes singular 'הרעה' to 'calamidades'",
+      "spanishSpan": "todas las calamidades"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051060008",
+        "h24051060010",
+        "h24051060011",
+        "h24051060012"
+      ],
+      "issue": "renders 'אל ספר אחד' as 'en un libro' (in a book) rather than writing the content to one scroll",
+      "spanishSpan": "en un libro"
+    }
+  ],
+  "notes": "paraphrase adds unlicensed connector and alters object structure",
+  "discardedUncitedFindings": 0
+}

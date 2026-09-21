@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:4",
+  "chapter": 29,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el SEÑOR, el Dios de Israel, a todos los cautivos que he llevado de Jerusalén a Babilonia:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029004004"
+      ],
+      "issue": "omits licensed concept צְבָא֖וֹת (of hosts)",
+      "spanishSpan": "el SEÑOR, el Dios de Israel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

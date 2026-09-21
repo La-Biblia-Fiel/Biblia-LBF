@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:5",
+  "chapter": 2,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el Señor: ¿Qué hallaron vuestros padres en mí de iniquidad, que se apartaron de mí y anduvieron tras vanidad y se volvieron vanos?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002005003"
+      ],
+      "issue": "replaces proper name יהוה with title 'Señor' not licensed by tokens",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002005006"
+      ],
+      "issue": "uses Peninsular 'vuestros' (vosotros) instead of Latin-American 'sus'/'de ustedes' for 2mp suffix",
+      "spanishSpan": "vuestros padres"
+    }
+  ],
+  "notes": "multiple token violations",
+  "discardedUncitedFindings": 0
+}

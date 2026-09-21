@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 43:5",
+  "chapter": 43,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tomó Jonatán hijo de Queret y todo el pueblo y los jefes de los soldados a todo el resto de Judá que habían vuelto de todos los países donde habían sido dispersos para habitar en la tierra de Judá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043005002"
+      ],
+      "issue": "name rendered as Jonatán instead of conventional form for lemma 3110",
+      "spanishSpan": "Jonatán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043005004"
+      ],
+      "issue": "name rendered as Queret instead of conventional form for lemma 7143",
+      "spanishSpan": "Queret"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043005005",
+        "h24043005006"
+      ],
+      "issue": "adds 'todo el pueblo' not licensed by וְכָל שָׂרֵי; the construct applies only to the officers",
+      "spanishSpan": "y todo el pueblo y los jefes de los soldados"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

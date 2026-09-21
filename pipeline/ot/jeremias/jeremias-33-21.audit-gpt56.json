@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:21",
+  "chapter": 33,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "También mi pacto con David, mi siervo, será roto, para que no tenga hijo que reine sobre su trono, y a los levitas sacerdotes que son mis ministros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033021013",
+        "h24033021014",
+        "h24033021015",
+        "h24033021016"
+      ],
+      "issue": "omits parallel covenant object; mangles syntax so Levites are not the second item whose covenant is broken",
+      "spanishSpan": "y a los levitas sacerdotes que son mis ministros"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033021003",
+        "h24033021007",
+        "h24033021008",
+        "h24033021009",
+        "h24033021010"
+      ],
+      "issue": "resolves מִהְיוֹת as purposive 'para que no' instead of preserving the infinitive construction",
+      "spanishSpan": "para que no tenga hijo que reine"
+    }
+  ],
+  "notes": "sentence structure collapses the two objects of תֻפַר",
+  "discardedUncitedFindings": 0
+}

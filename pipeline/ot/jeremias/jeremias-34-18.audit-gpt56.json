@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:18",
+  "chapter": 34,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y entregaré a los hombres que han pasado por el pacto que yo hice, y que no han cumplido las palabras del pacto que hicieron delante de mí, al toro que han partido por la mitad y han pasado por entre sus partes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034018006",
+        "h24034018013",
+        "h24034018014",
+        "h24034018015"
+      ],
+      "issue": "attributes covenant-making to 'yo' (que yo hice); tokens have בְּרִתִי and relative clause 'which they cut before me'",
+      "spanishSpan": "el pacto que yo hice"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034018004",
+        "h24034018006"
+      ],
+      "issue": "renders הָעֹבְרִים אֶת־בְּרִתִי as 'han pasado por el pacto que yo hice' instead of preserving 'my covenant'",
+      "spanishSpan": "han pasado por el pacto que yo hice"
+    }
+  ],
+  "notes": "structure also collapses the two relative clauses on the covenant",
+  "discardedUncitedFindings": 0
+}

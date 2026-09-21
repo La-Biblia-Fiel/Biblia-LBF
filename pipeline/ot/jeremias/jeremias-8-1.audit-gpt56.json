@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:1",
+  "chapter": 8,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquel tiempo, dice el SEÑOR, sacarán las reliquias de los reyes de Judá y las reliquias de los grandes y las reliquias de los sacerdotes y las reliquias de los profetas y las reliquias de los habitantes de Jerusalén de sus tumbas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008001006",
+        "h24008001010",
+        "h24008001013",
+        "h24008001016",
+        "h24008001019"
+      ],
+      "issue": "reliquias replaces עצמות (bones) with unlicensed concept",
+      "spanishSpan": "las reliquias"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008001003",
+        "h24008001004"
+      ],
+      "issue": "dice el SEÑOR paraphrases נְאֻם יְהוָה beyond token license",
+      "spanishSpan": "dice el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008001011"
+      ],
+      "issue": "los grandes for שָׂרָיו adds interpretive gloss not licensed by lemma",
+      "spanishSpan": "los grandes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

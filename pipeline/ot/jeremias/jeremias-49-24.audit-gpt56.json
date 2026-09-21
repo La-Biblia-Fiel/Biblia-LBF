@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:24",
+  "chapter": 49,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Se ha debilitado Damasco, ha dado la vuelta para huir, y Haret ha tomado posesión de ella; en angustia y dolores ha tomado posesión de ella como una mujer que da a luz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049024005"
+      ],
+      "issue": "introduces 'Haret' as a proper name/subject not present in tokens; token is common noun 'trembling/terror'",
+      "spanishSpan": "y Haret ha tomado posesión de ella"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

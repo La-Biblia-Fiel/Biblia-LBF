@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:29",
+  "chapter": 2,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué te rebelas contra mí, oh toda tú? Toda tú has pecado contra mí, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002029002",
+        "h24002029004",
+        "h24002029005"
+      ],
+      "issue": "changes 2mp verbs and 2mp suffix to singular tú/te/toda tú",
+      "spanishSpan": "te rebelas ... toda tú ... has pecado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

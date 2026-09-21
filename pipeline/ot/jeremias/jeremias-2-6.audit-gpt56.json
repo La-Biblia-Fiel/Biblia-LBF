@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:6",
+  "chapter": 2,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "¿No dijeron vuestros padres: Dónde está el SEÑOR, que nos sacó de la tierra de Egipto, que nos llevó por el desierto, por tierra árida y desolada, por tierra seca y deshabitada, por tierra donde no había pasado hombre ni habitado ser humano?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002006001",
+        "h24002006002"
+      ],
+      "issue": "adds 'vuestros padres' absent from tokens",
+      "spanishSpan": "vuestros padres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002006001",
+        "h24002006002"
+      ],
+      "issue": "uses vosotros form 'vuestros' instead of ustedes",
+      "spanishSpan": "vuestros"
+    }
+  ],
+  "notes": "also interpretive expansions on land descriptions not licensed by lemmas",
+  "discardedUncitedFindings": 0
+}

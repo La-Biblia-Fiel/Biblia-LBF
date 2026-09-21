@@ -1,0 +1,615 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 42,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "passed": [
+    1,
+    7,
+    17,
+    22
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Le dijeron a Jeremías el profeta: “Ruega por nosotros ante ti y ora por nosotros ante el Señor, tu Dios, por todo este resto, pues nos quedamos pocos de muchos, como tus ojos ven a nosotros.”",
+      "notes": "remainder of verse matches tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042002005",
+            "h24042002006",
+            "h24042002007",
+            "h24042002008"
+          ],
+          "issue": "Spanish renders תפל נא תחנתנו לפניך as 'Ruega por nosotros ante ti', adding an imperative of prayer not present in the tokens",
+          "spanishSpan": "Ruega por nosotros ante ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042002009",
+            "h24042002010",
+            "h24042002011",
+            "h24042002012",
+            "h24042002013"
+          ],
+          "issue": "Spanish duplicates the prayer request and places the second prayer 'ante ti' instead of correctly rendering only one hithpael imperative directed to YHWH",
+          "spanishSpan": "y ora por nosotros ante el Señor, tu Dios"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Que el Señor, tu Dios, nos diga el camino por el que debemos andar y lo que debemos hacer.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042003003"
+          ],
+          "issue": "יהוה rendered as Señor instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042003008",
+            "h24042003013"
+          ],
+          "issue": "qal imperfect 1cp rendered with added modal obligation 'debemos'",
+          "spanishSpan": "debemos andar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042003008",
+            "h24042003013"
+          ],
+          "issue": "qal imperfect 1cp rendered with added modal obligation 'debemos'",
+          "spanishSpan": "debemos hacer"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Jeremías el profeta les dijo: ‘He escuchado. Miren, estoy orando ante el Señor, tu Dios, según tu palabra. Y todo lo que el Señor me responda, os lo anunciaré; no te ocultaré nada.’",
+      "notes": "multiple 2mp suffixes violated; also mixes os/te",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042004010",
+            "h24042004011"
+          ],
+          "issue": "2mp suffixes rendered as singular tu/tu instead of plural",
+          "spanishSpan": "tu Dios, según tu palabra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042004018"
+          ],
+          "issue": "direct object אֶתְכֶם (2mp) rendered as me instead of ustedes",
+          "spanishSpan": "el Señor me responda"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042004023"
+          ],
+          "issue": "2mp suffix rendered as singular te instead of plural",
+          "spanishSpan": "no te ocultaré"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces dijeron a Jeremías: ‘Que el Señor nuestro sea testigo de verdad y de fidelidad. Si no, haremos todo lo que el Señor nuestro Dios te envía a nosotros.’",
+      "notes": "multiple token mismatches on person and proper name",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042005001"
+          ],
+          "issue": "adds temporal 'Entonces' not present in the tokens",
+          "spanishSpan": "Entonces"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042005018"
+          ],
+          "issue": "changes 2ms suffix 'your God' to 'nuestro Dios'",
+          "spanishSpan": "nuestro Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042005006",
+            "h24042005017"
+          ],
+          "issue": "renders proper name יהוה as 'Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Si sea bien o mal, actuaremos según la voz del Señor nuestro Dios, al que enviamos a ti para que intercedas por nosotros. Porque es para nuestro bien que escuchamos la voz del Señor nuestro Dios.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042006008",
+            "h24042006009",
+            "h24042006010",
+            "h24042006011"
+          ],
+          "issue": "adds purpose clause 'para que intercedas por nosotros' absent from relative clause tokens",
+          "spanishSpan": "al que enviamos a ti para que intercedas por nosotros"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042006006",
+            "h24042006007",
+            "h24042006020",
+            "h24042006021"
+          ],
+          "issue": "renders יְהוָה as 'Señor' (title) instead of conventional proper name",
+          "spanishSpan": "Señor nuestro Dios"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces llamó a Jonatán, hijo de Queret, y a todos los capitanes de los ejércitos que estaban con él, y a todo el pueblo, desde el menor hasta el mayor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042008003",
+            "h24042008005"
+          ],
+          "issue": "wrong proper name: יוֹחָנָן rendered as Jonatán (should be Johanán/Johanan) and קָרֵחַ as Queret",
+          "spanishSpan": "Jonatán, hijo de Queret"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y les dijo: ‘Así ha dicho el Señor, Dios de Israel, al que enviasteis a mí para que intercediera por ustedes ante él:’",
+      "notes": "relative clause attachment and 2mp suffix handled correctly; the two additions cause fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042009005"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of licensed conventional 'Jehová'",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042009012",
+            "h24042009013"
+          ],
+          "issue": "adds interpretive 'intercediera por ustedes' not licensed by לְהַפִּיל תְּחִנַּתְכֶם",
+          "spanishSpan": "para que intercediera por ustedes ante él"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Si habitáis en esta tierra, os edificaré y no os destruiré; os plantaré y no os arrancaré, porque me arrepiento del mal que os he hecho.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042010002"
+          ],
+          "issue": "omits the return concept licensed by שׁוֹב infinitive absolute",
+          "spanishSpan": "Si habitáis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042010003"
+          ],
+          "issue": "uses forbidden vosotros conjugation instead of ustedes form",
+          "spanishSpan": "habitáis"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No temáis al rey de Babilonia, al que teméis, dice el Señor. No temáis de él, porque yo estoy con ustedes para salvaros y para libraros de su mano.",
+      "notes": "vosotros variety and wrong divine name both unlicensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042011013",
+            "h24042011014"
+          ],
+          "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' (wrong name and added verb)",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042011002",
+            "h24042011011",
+            "h24042011018",
+            "h24042011020"
+          ],
+          "issue": "2mp forms rendered with vosotros morphology (temáis, salvaros, libraros) instead of Latin-American ustedes",
+          "spanishSpan": "temáis ... salvaros ... libraros"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Os daré misericordia y os tendré misericordia, y os haré volver a su tierra.",
+      "notes": "multiple person/referent shifts and wrong 2pl variety",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042012002",
+            "h24042012005",
+            "h24042012007",
+            "h24042012009"
+          ],
+          "issue": "uses 'os' (vosotros 2mp Spain form) instead of Latin American 'ustedes' forms",
+          "spanishSpan": "Os ... os ... os"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042012004",
+            "h24042012006"
+          ],
+          "issue": "renders both 3ms verbs as 1cs (haré / tendré) matching only the first verb",
+          "spanishSpan": "os tendré misericordia, y os haré volver"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042012009"
+          ],
+          "issue": "renders 2mp 'your land' as third-person 'su tierra'",
+          "spanishSpan": "a su tierra"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Si decís: No habitaremos en esta tierra, porque no escuchamos la voz del Señor, nuestro Dios.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042013012"
+          ],
+          "issue": "changes 2mp suffix 'your God' to 1cp 'nuestro Dios'",
+          "spanishSpan": "nuestro Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042013008",
+            "h24042013009"
+          ],
+          "issue": "renders purpose infinitive לבלתי שמע as finite clause 'porque no escuchamos' with participant shift",
+          "spanishSpan": "porque no escuchamos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042013003"
+          ],
+          "issue": "uses vosotros form 'decís' instead of Latin American 2pl",
+          "spanishSpan": "decís"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042013011"
+          ],
+          "issue": "renders proper name יהוה as 'Señor' instead of Jehová",
+          "spanishSpan": "Señor"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para decir: No, no iremos a Egipto, donde no veremos la guerra, ni oiremos el sonido de la trompeta, ni tendremos hambre de pan; y allí habitaremos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042014004"
+          ],
+          "issue": "omits licensed concept 'land' (אֶרֶץ construct) before Egypt",
+          "spanishSpan": "a Egipto"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ahora pues, escuchad la palabra del Señor, resto de Judá. Así ha dicho el Señor de los ejércitos, Dios de Israel: Si ponéis sus rostros para ir a Egipto y entráis para habitar allí,",
+      "notes": "Señor for יהוה also deviates from specified Jehová convention",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042015003",
+            "h24042015015",
+            "h24042015017",
+            "h24042015018",
+            "h24042015021"
+          ],
+          "issue": "vosotros verb forms (escuchad, ponéis, entráis) instead of Latin American ustedes",
+          "spanishSpan": "escuchad ... ponéis ... entráis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042015018"
+          ],
+          "issue": "possessive 'sus' (3rd) instead of 2mp 'vuestros' matching פְּנֵיכֶם֙",
+          "spanishSpan": "sus rostros"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y la espada que teméis, allí os alcanzará en Egipto, y el hambre de la cual están temerosos, allí os alcanzará en Egipto, y allí moriréis.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042016014",
+            "h24042016015"
+          ],
+          "issue": "person shift: 2mp 'you are anxious' rendered as 3pl 'están temerosos'",
+          "spanishSpan": "están temerosos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042016004",
+            "h24042016014",
+            "h24042016022"
+          ],
+          "issue": "vosotros forms instead of Latin American ustedes",
+          "spanishSpan": "teméis, os, moriréis"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho el Señor de los ejércitos, el Dios de Israel: Como me enfadé con los habitantes de Jerusalén, así me enfadaré con ustedes cuando entréis en Egipto, y serán maldición, desolación, maldición, escarnio, y no verán más este lugar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042018009",
+            "h24042018016"
+          ],
+          "issue": "replaces נִתַּךְ / תִּתַּךְ (poured out) with enfadé / enfadaré (got angry / will get angry)",
+          "spanishSpan": "me enfadé ... me enfadaré"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha hablado el Señor acerca de ustedes, resto de Judá: No vayáis a Egipto, sabréis que os he jurado hoy.",
+      "notes": "multiple token mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042019002"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042019007"
+          ],
+          "issue": "2mp jussive rendered with vosotros 'vayáis' instead of ustedes form",
+          "spanishSpan": "No vayáis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042019012"
+          ],
+          "issue": "hiphil העיד rendered as 'jurar' (swear) instead of testify/warn",
+          "spanishSpan": "os he jurado"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque os he dado en el corazón, porque me enviasteis a Jehová, su Dios, diciendo: Ruego por nosotros a Jehová, nuestro Dios, y todo lo que Jehová, nuestro Dios, dijere, así os lo declararemos y lo haremos.",
+      "notes": "multiple participant and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042020001",
+            "h24042020002"
+          ],
+          "issue": "Spanish inserts 'os he dado en el corazón' with no token support; first two tokens only license 'ki b'napshoteikhem'",
+          "spanishSpan": "Porque os he dado en el corazón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042020009"
+          ],
+          "issue": "2mp suffix rendered as 'su Dios' instead of 'vuestro Dios'",
+          "spanishSpan": "su Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042020011",
+            "h24042020012"
+          ],
+          "issue": "2ms hithpael imperative to the prophet rendered as 1s 'Ruego'",
+          "spanishSpan": "Ruego por nosotros"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042020022",
+            "h24042020023",
+            "h24042020024"
+          ],
+          "issue": "2ms hiphil imperative + 1cp cohortative reversed: Spanish makes speakers declare to addressees instead of 'tell us and we will do'",
+          "spanishSpan": "os lo declararemos y lo haremos"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y os he declarado hoy, y no han escuchado la voz de Jehová, su Dios, ni todo lo que os envié a ustedes.",
+      "notes": "participant shift from 2mp addressees to 3pl",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042021005",
+            "h24042021008"
+          ],
+          "issue": "2mp verbs and suffixes rendered as 3pl 'han escuchado' and 'su Dios' instead of 2pl address",
+          "spanishSpan": "no han escuchado ... su Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24042021002",
+            "h24042021012"
+          ],
+          "issue": "uses vosotros 'os' instead of Latin-American 'a ustedes'",
+          "spanishSpan": "os he declarado ... os envié"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:45:19.460045+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 22,
+    "verses": 22,
+    "input": 57657,
+    "cachedInput": 18304,
+    "output": 3465,
+    "reasoning": 20412,
+    "usd": 0.2311,
+    "byProvider": {
+      "xai": {
+        "calls": 22,
+        "input": 57657,
+        "output": 3465,
+        "reasoning": 20412,
+        "usd": 0.2311
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 22,
+        "input": 57657,
+        "output": 3465,
+        "reasoning": 20412,
+        "usd": 0.2311
+      }
+    },
+    "usdPerVerse": 0.0105,
+    "bibleAtThisRate": 327.0,
+    "book": "jeremias",
+    "chapter": 42
+  }
+}

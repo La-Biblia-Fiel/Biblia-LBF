@@ -1,0 +1,379 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 43,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "passed": [
+    6,
+    7
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando Jeremías hubo hablado a todo el pueblo todas las palabras de Jehová, su Dios, que os había enviado Jehová, su Dios, a ustedes, todas estas palabras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043001014",
+            "h24043001017"
+          ],
+          "issue": "changes 3rd-person suffixes (Sp3ms/Sp3mp) to 2nd-person address (os / a ustedes)",
+          "spanishSpan": "os había enviado ... a ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo Azarías hijo de Hosaja y Jonatán hijo de Queret, y todo el pueblo rebelde, diciendo a Jeremías: Mientes, Jehová, su Dios, no te ha enviado a decir: No entréis a Egipto para habitar allí.",
+      "notes": "multiple mismatches in person, lexical choice, and verbal form",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043002020"
+          ],
+          "issue": "suffix 1cp 'our God' rendered as 'su Dios' (his God)",
+          "spanishSpan": "Jehová, su Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043002009",
+            "h24043002010"
+          ],
+          "issue": "הָאֲנָשִׁים הַזֵּדִים rendered as 'todo el pueblo rebelde' (adds pueblo, changes men+arrogant to people+rebellious)",
+          "spanishSpan": "todo el pueblo rebelde"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043002023"
+          ],
+          "issue": "2mp imperfect rendered with vosotros 'entrés' instead of Latin-American ustedes 'entren'",
+          "spanishSpan": "No entréis"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque Bendito hijo de Nerías te ha inducido a engañarnos, para que nos entreguemos a los caldeos para que nos maten y nos exilien a Babilonia.",
+      "notes": "multiple meaning-altering mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043003002"
+          ],
+          "issue": "proper name בָּרוּךְ rendered as common adjective 'Bendito' instead of conventional name",
+          "spanishSpan": "Bendito"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043003005",
+            "h24043003007"
+          ],
+          "issue": "מַסִּית ... בָּנוּ changed to 'inducido a engañarnos' (wrong verb and participant structure)",
+          "spanishSpan": "te ha inducido a engañarnos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043003009",
+            "h24043003010",
+            "h24043003011"
+          ],
+          "issue": "תֵּת אֹתָנוּ בְיַד altered to 'nos entreguemos a los caldeos' (voice/participant shift from 'give us' to 'we deliver ourselves')",
+          "spanishSpan": "para que nos entreguemos a los caldeos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043003013",
+            "h24043003014",
+            "h24043003015",
+            "h24043003016"
+          ],
+          "issue": "לְהָמִית אֹתָנוּ וּלְהַגְלֹות אֹתָנוּ changed to purpose clause with 'nos maten y nos exilien'",
+          "spanishSpan": "para que nos maten y nos exilien"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Jonatán hijo de Queret y todo el pueblo y los jefes de los soldados no escucharon la voz de Jehová para habitar en la tierra de Judá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043004002"
+          ],
+          "issue": "Hebrew verb is 3ms qal perfect; Spanish renders as 3pl",
+          "spanishSpan": "escucharon"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043004007",
+            "h24043004008",
+            "h24043004009",
+            "h24043004010"
+          ],
+          "issue": "order of conjoined subjects altered (pueblo before jefes)",
+          "spanishSpan": "todo el pueblo y los jefes de los soldados"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tomó Jonatán hijo de Queret y todo el pueblo y los jefes de los soldados a todo el resto de Judá que habían vuelto de todos los países donde habían sido dispersos para habitar en la tierra de Judá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043005002"
+          ],
+          "issue": "name rendered as Jonatán instead of conventional form for lemma 3110",
+          "spanishSpan": "Jonatán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043005004"
+          ],
+          "issue": "name rendered as Queret instead of conventional form for lemma 7143",
+          "spanishSpan": "Queret"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043005005",
+            "h24043005006"
+          ],
+          "issue": "adds 'todo el pueblo' not licensed by וְכָל שָׂרֵי; the construct applies only to the officers",
+          "spanishSpan": "y todo el pueblo y los jefes de los soldados"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vino la palabra de Jehová a Jeremías en Tafnes, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043008001"
+          ],
+          "issue": "lemma 1961 is 'to be/happen'; Spanish 'vino' introduces unlicensed motion concept",
+          "spanishSpan": "vino"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Toma en tu mano piedras grandes y entiérralas en el lodo blanco que está en la puerta de la casa de Faraón en Tafnes, delante de los hombres de Judá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043009006",
+            "h24043009007"
+          ],
+          "issue": "adds 'blanco' with no corresponding token or lemma",
+          "spanishSpan": "lodo blanco"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás a ellos: Así ha dicho Jehová de los ejércitos, el Dios de Israel: He aquí que envío y tomaré a Nabucodonosor rey de Babilonia, mi siervo, y pondré su trono sobre estas piedras que he enterrado, y hará que su silla esté sobre ellas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043010024",
+            "h24043010025",
+            "h24043010026"
+          ],
+          "issue": "adds noun 'silla' and changes verb נטה to 'hará que ... esté' with no licensed noun or 'be' semantics",
+          "spanishSpan": "y hará que su silla esté sobre ellas"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vendrá y golpeará la tierra de Egipto, a los que mueren de muerte, a los que van en cautiverio al cautiverio, y a los que van a la espada a la espada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043011001"
+          ],
+          "issue": "adds 'vendrá' with no corresponding token or lemma",
+          "spanishSpan": "Y vendrá y"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043011005",
+            "h24043011006",
+            "h24043011007"
+          ],
+          "issue": "resolves ambiguous 'to death to death' by inserting 'mueren de'",
+          "spanishSpan": "a los que mueren de muerte"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043011008",
+            "h24043011009",
+            "h24043011010"
+          ],
+          "issue": "inserts 'van en' not present in 'to captivity to captivity'",
+          "spanishSpan": "a los que van en cautiverio al cautiverio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043011011",
+            "h24043011012",
+            "h24043011013"
+          ],
+          "issue": "inserts 'van a' not present in 'to sword to sword'",
+          "spanishSpan": "a los que van a la espada a la espada"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y encenderé fuego en los templos de los dioses de Egipto, y los quemaré y los saquearé, y vestiré a la tierra de Egipto como el pastor viste su manto, y saldrá de allí en paz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043012003"
+          ],
+          "issue": "בָּתֵּי rendered as 'templos' (houses → temples)",
+          "spanishSpan": "templos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043012006",
+            "h24043012007",
+            "h24043012008",
+            "h24043012017"
+          ],
+          "issue": "3ms verbs changed to 1cs (he will burn/take captive/cover/go out → I will)",
+          "spanishSpan": "quemar é y los saquearé, y vestiré ... y saldrá"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y romperé las estatuas de Bet-Shemesh, que están en la tierra de Egipto, y quemaré los templos de los dioses de Egipto en el fuego.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043013001"
+          ],
+          "issue": "verb person changed from 3ms to 1s",
+          "spanishSpan": "romperé"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24043013013"
+          ],
+          "issue": "verb person changed from 3ms to 1s",
+          "spanishSpan": "quemaré"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:47:24.321420+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 13,
+    "verses": 13,
+    "input": 33611,
+    "cachedInput": 10240,
+    "output": 2011,
+    "reasoning": 11528,
+    "usd": 0.1331,
+    "byProvider": {
+      "xai": {
+        "calls": 13,
+        "input": 33611,
+        "output": 2011,
+        "reasoning": 11528,
+        "usd": 0.1331
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 13,
+        "input": 33611,
+        "output": 2011,
+        "reasoning": 11528,
+        "usd": 0.1331
+      }
+    },
+    "usdPerVerse": 0.0102,
+    "bibleAtThisRate": 318.0,
+    "book": "jeremias",
+    "chapter": 43
+  }
+}

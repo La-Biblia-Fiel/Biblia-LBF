@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:2",
+  "chapter": 7,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Establece a la puerta de la casa del Señor y anuncia allí estas palabras y di: Escuchad la palabra del Señor, todo Judá que entra por estas puertas para adorar al Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007002001"
+      ],
+      "issue": "עֲמֹ֗ד (stand, Qal impv 2ms) rendered as 'Establece' (establish/set up)",
+      "spanishSpan": "Establece"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007002004",
+        "h24007002013",
+        "h24007002020"
+      ],
+      "issue": "יהוה rendered as 'Señor' instead of Jehová",
+      "spanishSpan": "Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007002008"
+      ],
+      "issue": "הַדָּבָ֖ר (this word, singular) rendered as plural 'palabras'",
+      "spanishSpan": "estas palabras"
+    }
+  ],
+  "notes": "first-verb mismatch alone triggers fail",
+  "discardedUncitedFindings": 0
+}

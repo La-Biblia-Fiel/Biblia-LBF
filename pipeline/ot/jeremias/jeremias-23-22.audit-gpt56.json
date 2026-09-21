@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:22",
+  "chapter": 23,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Si se hubieran quedado en mi consejo y hubieran escuchado mis palabras, haría que mi pueblo dejara su mala conducta y su maldad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023022004",
+        "h24023022005",
+        "h24023022006",
+        "h24023022007"
+      ],
+      "issue": "Spanish makes prophets the ones listening instead of causing the people to hear the words",
+      "spanishSpan": "hubieran escuchado mis palabras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023022008",
+        "h24023022009",
+        "h24023022010",
+        "h24023022011",
+        "h24023022012"
+      ],
+      "issue": "Spanish attributes the turning of the people to the speaker rather than the prophets as agents",
+      "spanishSpan": "haría que mi pueblo dejara"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023022002"
+      ],
+      "issue": "עָמְד֖וּ rendered as 'quedado' instead of standing",
+      "spanishSpan": "se hubieran quedado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

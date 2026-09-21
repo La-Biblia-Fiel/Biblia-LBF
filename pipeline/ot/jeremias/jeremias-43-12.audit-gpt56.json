@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 43:12",
+  "chapter": 43,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y encenderé fuego en los templos de los dioses de Egipto, y los quemaré y los saquearé, y vestiré a la tierra de Egipto como el pastor viste su manto, y saldrá de allí en paz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043012003"
+      ],
+      "issue": "בָּתֵּי rendered as 'templos' (houses → temples)",
+      "spanishSpan": "templos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043012006",
+        "h24043012007",
+        "h24043012008",
+        "h24043012017"
+      ],
+      "issue": "3ms verbs changed to 1cs (he will burn/take captive/cover/go out → I will)",
+      "spanishSpan": "quemar é y los saquearé, y vestiré ... y saldrá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

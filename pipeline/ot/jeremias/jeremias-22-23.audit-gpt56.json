@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:23",
+  "chapter": 22,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Yo me senté en el Líbano, me senté en los cedros. ¿Qué placer has tenido en venir a ti con cuerdas, como una mujer que da a luz?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022023001",
+        "h24022023002"
+      ],
+      "issue": "Spanish renders as first-person 'Yo me senté' instead of second-person feminine address to one dwelling in Lebanon/cedars",
+      "spanishSpan": "Yo me senté en el Líbano, me senté en los cedros"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022023004"
+      ],
+      "issue": "Spanish introduces 'placer has tenido' absent from Niphal 2fs perfect of חנן",
+      "spanishSpan": "¿Qué placer has tenido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022023007"
+      ],
+      "issue": "Spanish renders חבלים as 'cuerdas' (ropes) instead of birth pangs/context",
+      "spanishSpan": "con cuerdas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022023005",
+        "h24022023006"
+      ],
+      "issue": "Spanish adds 'venir a ti' not licensed by the infinitive construct + 2fs suffix",
+      "spanishSpan": "en venir a ti"
+    }
+  ],
+  "notes": "Spanish bears no relation to the supplied tokens",
+  "discardedUncitedFindings": 0
+}

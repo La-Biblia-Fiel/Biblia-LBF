@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:5",
+  "chapter": 35,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y puse delante de los hijos de Jonadab hijo de Recab copas llenas de vino y jarras, y les dije: Bebed vino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035005003",
+        "h24035005004",
+        "h24035005005"
+      ],
+      "issue": "adds Jonadab and Recab names absent from tokens; tokens only license 'sons of the house of the Rechabites'",
+      "spanishSpan": "los hijos de Jonadab hijo de Recab"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

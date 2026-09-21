@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:2",
+  "chapter": 50,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Anuncien entre las naciones y hagan sonar la trompeta, preparad la señal, hagan sonarla, no la oculten; decidan: Babilonia ha sido tomada, Bel ha sido confundido, Merodac ha sido avergonzado, sus imágenes han sido confundidas, sus ídolos han sido destruidos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050002003"
+      ],
+      "issue": "adds 'la trompeta' with no corresponding token or lemma",
+      "spanishSpan": "hagan sonar la trompeta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050002004",
+        "h24050002005"
+      ],
+      "issue": "verb 'preparad' does not match qal imperative of נשא 'levanten/alcen'",
+      "spanishSpan": "preparad la señal"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050002018",
+        "h24050002019"
+      ],
+      "issue": "lemma חתת (dismayed/terrified) rendered as 'destruidos'",
+      "spanishSpan": "sus ídolos han sido destruidos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050002014",
+        "h24050002015"
+      ],
+      "issue": "lemma חתת (dismayed) rendered as 'avergonzado'",
+      "spanishSpan": "Merodac ha sido avergonzado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

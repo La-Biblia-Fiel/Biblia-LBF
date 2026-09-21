@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:17",
+  "chapter": 6,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y pondré sobre ustedes centinelas; escuchad la voz del cuerno; pero dijeron: No escucharemos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006017007"
+      ],
+      "issue": "adds contrast 'pero' not licensed by the conjunction token",
+      "spanishSpan": "pero"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

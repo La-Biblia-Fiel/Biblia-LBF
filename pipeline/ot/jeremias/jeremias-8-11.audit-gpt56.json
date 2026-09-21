@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:11",
+  "chapter": 8,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Han despedazado a la doncella de mi pueblo y dicen: Paz, paz, cuando no hay paz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008011001"
+      ],
+      "issue": "verb rendered as 'despedazado' (tear apart) instead of licensed 'sanaron' / 'curaron' from רפא piel 3mp",
+      "spanishSpan": "Han despedazado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008011003",
+        "h24008011004",
+        "h24008011005"
+      ],
+      "issue": "בת rendered as 'doncella' (maiden) instead of licensed 'hija'",
+      "spanishSpan": "a la doncella de mi pueblo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

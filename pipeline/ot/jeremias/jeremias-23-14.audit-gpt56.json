@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:14",
+  "chapter": 23,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y en los profetas de Jerusalén vi una cosa insensata: cometen adulterio y andan en mentira, y fortalecen las manos de los malhechores, para que no vuelvan cada uno de su maldad; sean para mí todos como Sodoma y sus vecinos como Gomorra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023014004"
+      ],
+      "issue": "שַׁעֲרוּרָ֗ה rendered as 'cosa insensata' (wrong sense; lemma licenses appalling/horrifying thing)",
+      "spanishSpan": "una cosa insensata"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023014015"
+      ],
+      "issue": "הָֽיוּ (qal perfect 3cp 'they have become') rendered as subjunctive 'sean'",
+      "spanishSpan": "sean"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023014019"
+      ],
+      "issue": "וְיֹשְׁבֶ֖יהָ (its inhabitants) rendered as 'sus vecinos'",
+      "spanishSpan": "sus vecinos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

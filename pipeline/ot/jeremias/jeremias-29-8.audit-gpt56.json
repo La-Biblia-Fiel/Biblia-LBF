@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:8",
+  "chapter": 29,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque Jehová de los ejércitos, el Dios de Israel, dice: No os dejéis engañar por sus profetas que están en medio de ustedes, ni por sus adivinos, ni escuchéis los sueños que ustedes soñáis.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029008009",
+        "h24029008010",
+        "h24029008011"
+      ],
+      "issue": "changes 3mp jussive subject + 2mp object to reflexive/passive with 3p possessive",
+      "spanishSpan": "No os dejéis engañar por sus profetas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029008014"
+      ],
+      "issue": "sus adivinos uses 3p possessive instead of 2mp suffix",
+      "spanishSpan": "sus adivinos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029008016",
+        "h24029008018",
+        "h24029008020",
+        "h24029008021"
+      ],
+      "issue": "vosotros verb form and mixed 2p/3p address",
+      "spanishSpan": "os dejéis ... escuchéis ... ustedes soñáis"
+    }
+  ],
+  "notes": "multiple 2mp suffixes rendered as 3p possessives and vosotros morphology",
+  "discardedUncitedFindings": 0
+}

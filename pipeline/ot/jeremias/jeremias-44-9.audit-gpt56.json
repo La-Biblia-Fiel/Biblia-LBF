@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:9",
+  "chapter": 44,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "¿han olvidado las malas obras de sus padres y las malas obras de los reyes de Judá y las malas obras de sus mujeres, y sus malas obras y las malas obras de sus mujeres, que hicieron en la tierra de Judá y en las calles de Jerusalén?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044009001"
+      ],
+      "issue": "2mp verb rendered as 3rd-person plural instead of 2nd-person address to ustedes",
+      "spanishSpan": "¿han olvidado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

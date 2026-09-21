@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:2",
+  "chapter": 3,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Eleva tus ojos a las calles y mira: ¿No has estado sentada en ellas esperando a alguien? Como una mujer en el desierto, has estado esperando amantes en los caminos, y has sido infiel a mí con tu prostitución y tu maldad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003002004"
+      ],
+      "issue": "שְׁפָיִם rendered as 'calles' (streets); lemma 8205 licenses bare heights/high places",
+      "spanishSpan": "a las calles"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003002012"
+      ],
+      "issue": "כַּעֲרָבִי (like an Arab) rendered as 'como una mujer'",
+      "spanishSpan": "Como una mujer"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003002015",
+        "h24003002016",
+        "h24003002017"
+      ],
+      "issue": "אֶרֶץ בִּזְנוּתַיִךְ וּבְרָעָתֵךְ rendered with added 'a mí' and 'infiel' instead of polluting the land",
+      "spanishSpan": "has sido infiel a mí con tu prostitución y tu maldad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003002010",
+        "h24003002011"
+      ],
+      "issue": "adds interpretive 'esperando amantes' / 'esperando a alguien' not licensed by the tokens",
+      "spanishSpan": "esperando a alguien... esperando amantes"
+    }
+  ],
+  "notes": "multiple concept additions and lemma mismatches",
+  "discardedUncitedFindings": 0
+}

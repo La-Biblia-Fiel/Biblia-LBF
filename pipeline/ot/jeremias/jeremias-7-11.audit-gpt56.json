@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:11",
+  "chapter": 7,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Esta casa que se llama por mi nombre, que ustedes la han convertido en cueva de ladrones, delante de ustedes la he visto, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007011001"
+      ],
+      "issue": "omits interrogative particle, turns question into declarative statement",
+      "spanishSpan": "Esta casa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007011003"
+      ],
+      "issue": "changes הָיָה (has become, 3ms) to active 2pl verb attributing action to addressees",
+      "spanishSpan": "que ustedes la han convertido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007011010"
+      ],
+      "issue": "renders בְּעֵינֵיכֶם as delante de ustedes instead of preserving in-your-eyes idiom",
+      "spanishSpan": "delante de ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

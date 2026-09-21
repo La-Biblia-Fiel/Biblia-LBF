@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:6",
+  "chapter": 6,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho el Señor de los ejércitos: Corten consejo y viertan una montaña sobre Jerusalén, porque es la ciudad que se ha apoderado de todos los que están en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006006007"
+      ],
+      "issue": "עֵצָ֔ה (lemma 6097, wood/trees) rendered as 'consejo' (counsel)",
+      "spanishSpan": "Corten consejo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006006011"
+      ],
+      "issue": "סֹלְלָ֑ה (siege mound/rampart) rendered as 'una montaña'",
+      "spanishSpan": "viertan una montaña"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006006014",
+        "h24006006016",
+        "h24006006017"
+      ],
+      "issue": "הָפְקַ֔ד כֻּלָּ֖הּ עֹ֥שֶׁק בְּקִרְבָּֽהּ (city where oppression is found throughout her) rendered as city that has seized its inhabitants",
+      "spanishSpan": "la ciudad que se ha apoderado de todos los que están en ella"
+    }
+  ],
+  "notes": "multiple lexical and semantic mismatches",
+  "discardedUncitedFindings": 0
+}

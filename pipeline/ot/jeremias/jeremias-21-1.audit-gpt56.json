@@ -1,0 +1,59 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:1",
+  "chapter": 21,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra que vino a Jeremías del SEÑOR en el enviarle a mí el rey Sedequías a Pashhur hijo de Malquías y a Zephaniah hijo del Maaseías, el sacerdote, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021001003"
+      ],
+      "issue": "lemma 1961 (be) rendered as 'vino' (come), adding unlicensed concept",
+      "spanishSpan": "vino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021001007"
+      ],
+      "issue": "יהוה rendered SEÑOR instead of licensed Jehová",
+      "spanishSpan": "SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021001008",
+        "h24021001009"
+      ],
+      "issue": "b/7971 + 413+3ms rendered with unlicensed 'a mí' and participant shift",
+      "spanishSpan": "en el enviarle a mí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021001010",
+        "h24021001011",
+        "h24021001012",
+        "h24021001013"
+      ],
+      "issue": "word order and object structure altered; king is not the object of 'enviarle'",
+      "spanishSpan": "el rey Sedequías a Pashhur"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021001019"
+      ],
+      "issue": "construct chain rendered 'hijo del Maaseías' (extra 'del')",
+      "spanishSpan": "hijo del Maaseías"
+    }
+  ],
+  "notes": "multiple additions, reorderings and participant errors",
+  "discardedUncitedFindings": 0
+}

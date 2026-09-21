@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:30",
+  "chapter": 5,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "La maldad y la corrupción se han extendido por toda la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005030001",
+        "h24005030002"
+      ],
+      "issue": "Spanish inserts maldad y corrupción; tokens only license desolation/horror + appalling thing",
+      "spanishSpan": "La maldad y la corrupción"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005030003"
+      ],
+      "issue": "Spanish renders as se han extendido; lemma is only Niphal of הָיָה become/happen",
+      "spanishSpan": "se han extendido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005030004"
+      ],
+      "issue": "Spanish adds toda and changes preposition sense to por toda; token is only בָּאָרֶץ in the land",
+      "spanishSpan": "por toda la tierra"
+    }
+  ],
+  "notes": "candidate introduces entire new concepts absent from tokens",
+  "discardedUncitedFindings": 0
+}

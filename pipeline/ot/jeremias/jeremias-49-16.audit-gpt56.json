@@ -1,0 +1,54 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:16",
+  "chapter": 49,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Tu orgullo te ha llevado a la ruina, Edom, porque tu corazón es altivo; habitarás en las cuevas del roca, y te aferrarás a la cumbre de la montaña, porque te elevarás como el águila, pero de allí te haré caer, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049016001",
+        "h24049016002",
+        "h24049016004",
+        "h24049016005"
+      ],
+      "issue": "first clause paraphrases terror-deceived-you + pride-of-heart as 'orgullo te ha llevado a la ruina'",
+      "spanishSpan": "Tu orgullo te ha llevado a la ruina"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049016001"
+      ],
+      "issue": "adds 'Edom' absent from tokens",
+      "spanishSpan": "Edom"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049016009",
+        "h24049016010",
+        "h24049016011"
+      ],
+      "issue": "renders 'who grasps height of hill' as 'te aferrarás a la cumbre de la montaña'",
+      "spanishSpan": "te aferrarás a la cumbre de la montaña"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049016013",
+        "h24049016014",
+        "h24049016015"
+      ],
+      "issue": "renders 'you make high your nest like eagle' as 'te elevarás como el águila'",
+      "spanishSpan": "te elevarás como el águila"
+    }
+  ],
+  "notes": "multiple concept additions/omissions and participant shifts",
+  "discardedUncitedFindings": 0
+}

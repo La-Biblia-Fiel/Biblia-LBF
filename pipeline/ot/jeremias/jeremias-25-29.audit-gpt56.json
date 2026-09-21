@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:29",
+  "chapter": 25,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque he aquí que en la ciudad a la que se llama mi nombre, yo empiezo a hacer mal, y ustedes os purgaréis, pero no os purgaréis; porque yo llamo la espada sobre todos los moradores de la tierra, dice el Señor de los ejércitos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025029011",
+        "h24025029013",
+        "h24025029015"
+      ],
+      "issue": "vosotros object pronoun 'os' with 2mpl address",
+      "spanishSpan": "os purgaréis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025029025"
+      ],
+      "issue": "YHWH rendered as 'Señor' instead of Jehová",
+      "spanishSpan": "dice el Señor de los ejércitos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

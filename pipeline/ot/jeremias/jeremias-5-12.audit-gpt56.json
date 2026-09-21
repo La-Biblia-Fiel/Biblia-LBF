@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:12",
+  "chapter": 5,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Han negado al SEÑOR y han dicho: No es él, y no vendrá sobre nosotros ni espada ni hambre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005012009"
+      ],
+      "issue": "omits licensed concept רָעָה (evil/calamity)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005012013"
+      ],
+      "issue": "omits 1cp verb נִרְאֶה and restructures negation/participants",
+      "spanishSpan": "ni espada ni hambre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

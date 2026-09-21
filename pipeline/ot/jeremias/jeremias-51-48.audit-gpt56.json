@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:48",
+  "chapter": 51,
+  "verse": 48,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cantarán de gozo sobre Babilonia, cielos y tierra, y todo lo que en ellos hay, porque desde el norte vendrán los saqueadores contra ella, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051048015"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of licensed Jehová",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

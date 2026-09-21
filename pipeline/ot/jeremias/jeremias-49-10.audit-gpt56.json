@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:10",
+  "chapter": 49,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque yo he descubierto a Edom, he revelado sus secretos; no podrá nadie esconderse, pues yo destruiré a su descendencia, a sus aliados y a sus vecinos, y no quedarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049010005"
+      ],
+      "issue": "replaces token Esau with Edom",
+      "spanishSpan": "Edom"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049010009",
+        "h24049010011"
+      ],
+      "issue": "changes 3ms subject to nadie",
+      "spanishSpan": "no podrá nadie esconderse"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049010012"
+      ],
+      "issue": "changes pual passive to active yo destruiré",
+      "spanishSpan": "yo destruiré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049010014"
+      ],
+      "issue": "renders אֶחָיו as aliados instead of brothers",
+      "spanishSpan": "aliados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049010016"
+      ],
+      "issue": "changes 3ms וְאֵינֶנּוּ to plural no quedarán",
+      "spanishSpan": "no quedarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:26",
+  "chapter": 7,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero no me escucharon, ni inclinaron el oído, y endurecieron sus espaldas, se rebelaron más que sus padres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007026010"
+      ],
+      "issue": "neck (6203) rendered as espaldas (backs) instead of cuello(s)",
+      "spanishSpan": "endurecieron sus espaldas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007026011",
+        "h24007026012"
+      ],
+      "issue": "H7489 hiphil (did evil / became worse) rendered as se rebelaron (rebelled)",
+      "spanishSpan": "se rebelaron más que sus padres"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

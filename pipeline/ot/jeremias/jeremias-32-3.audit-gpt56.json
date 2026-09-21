@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:3",
+  "chapter": 32,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "El cual lo había encarcelado Zedequías, rey de Judá, diciendo: ¿Por qué profetizas diciendo: Así ha dicho el SEÑOR: He aquí entregaré esta ciudad en manos del rey de Babilonia, y la tomará?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032003013"
+      ],
+      "issue": "replaces proper name יהוה with title SEÑOR",
+      "spanishSpan": "el SEÑOR"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24032003002"
+      ],
+      "issue": "pluperfect smoothing not licensed by qal perfect",
+      "spanishSpan": "había encarcelado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

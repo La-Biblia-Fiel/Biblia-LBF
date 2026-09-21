@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:10",
+  "chapter": 31,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Escuchad la palabra del Señor, naciones, y dad a conocer en las islas lejanas: El que dispersó a Israel lo reunirá y lo cuidará como un pastor cuida su rebaño.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031010008"
+      ],
+      "issue": "omits the imperative וְאִמְרוּ (and say) required by the tokens before the content clause",
+      "spanishSpan": "Escuchad ... y dad a conocer en las islas lejanas: El que"
+    }
+  ],
+  "notes": "Spanish collapses the two imperatives and omits the second one licensed by the packet.",
+  "discardedUncitedFindings": 0
+}

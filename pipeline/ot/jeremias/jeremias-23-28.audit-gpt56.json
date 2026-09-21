@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:28",
+  "chapter": 23,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "El profeta que tiene un sueño, cuente el sueño, y el que tiene mi palabra, hable mi palabra. ¿Qué tiene que ver el trigo con el mostaza, dice el SEÑOR?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023028003",
+        "h24023028009"
+      ],
+      "issue": "omits both instances of אִתּוֹ (with him)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023028012"
+      ],
+      "issue": "omits אֱמֶת (truth) after my word",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023028014",
+        "h24023028016"
+      ],
+      "issue": "replaces straw + grain with trigo + mostaza (unlicensed referents)",
+      "spanishSpan": "el trigo con el mostaza"
+    }
+  ],
+  "notes": "multiple omissions and unauthorized lexical substitutions",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:29",
+  "chapter": 31,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquellos días no dirán más: Los padres comieron higos agrios, y los dientes de los hijos se les encanallaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031029008"
+      ],
+      "issue": "replaces בֹסֶר (unripe/sour grapes) with higos agrios (sour figs)",
+      "spanishSpan": "higos agrios"
+    }
+  ],
+  "notes": "higos agrios adds unlicensed concept; no fig token present",
+  "discardedUncitedFindings": 0
+}

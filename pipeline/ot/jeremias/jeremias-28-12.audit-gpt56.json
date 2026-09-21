@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:12",
+  "chapter": 28,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vino la palabra del SEÑOR a Jeremías después que Hananías el profeta rompió la vara de madera del cuello de Jeremías el profeta, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028012011"
+      ],
+      "issue": "adds 'de madera' with no licensing token or lemma",
+      "spanishSpan": "la vara de madera"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

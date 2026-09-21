@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:24",
+  "chapter": 6,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Hemos oído su voz, nuestras manos se debilitan; el dolor nos ha asido como la mujer que da a luz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006024003"
+      ],
+      "issue": "adds 'voz' (voice) not licensed by lemma 8089 שֵׁמַע (report/tidings/fame)",
+      "spanishSpan": "su voz"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

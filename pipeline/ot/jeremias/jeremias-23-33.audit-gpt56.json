@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:33",
+  "chapter": 23,
+  "verse": 33,
+  "candidateLabel": "gpt56",
+  "spanish": "Y si el pueblo, o el profeta, o el sacerdote te pregunta: “¿Qué es el mensaje del SEÑOR?”, responderás: “¿Qué mensaje?”, porque yo los abandonaré, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023033004"
+      ],
+      "issue": "omits demonstrative 'este'",
+      "spanishSpan": "el pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023033013",
+        "h24023033014",
+        "h24023033018",
+        "h24023033019"
+      ],
+      "issue": "restructures וְאָמַרְתָּ אֲלֵיהֶם ... וְנָטַשְׁתִּי אֶתְכֶם as causal 'porque yo los abandonaré' instead of content of speech to them; changes 2mp suffix to 3p 'los'",
+      "spanishSpan": "responderás: “¿Qué mensaje?”, porque yo los abandonaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

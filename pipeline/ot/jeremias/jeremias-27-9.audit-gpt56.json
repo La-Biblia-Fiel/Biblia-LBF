@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:9",
+  "chapter": 27,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ustedes no os dejéis engañar por sus profetas ni por sus adivinos ni por sus sueños, ni por sus hechiceros ni por sus encantadores, que os dicen: No serviréis al rey de Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027009005",
+        "h24027009007",
+        "h24027009009",
+        "h24027009011",
+        "h24027009013"
+      ],
+      "issue": "possessive suffixes are 2mp (your) but Spanish renders as sus (their)",
+      "spanishSpan": "sus profetas ... sus adivinos ... sus sueños ... sus hechiceros ... sus encantadores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027009003"
+      ],
+      "issue": "lemma 8085 is qal jussive 'no escuchen / no oigan' but Spanish substitutes 'no dejéis engañar'",
+      "spanishSpan": "no os dejéis engañar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027009001",
+        "h24027009003",
+        "h24027009020"
+      ],
+      "issue": "2mp address rendered with vosotros forms (os, dejéis, serviréis) instead of Latin-American ustedes",
+      "spanishSpan": "no os dejéis ... os dicen ... No serviréis"
+    }
+  ],
+  "notes": "multiple mismatches in person, verb choice, and register",
+  "discardedUncitedFindings": 0
+}

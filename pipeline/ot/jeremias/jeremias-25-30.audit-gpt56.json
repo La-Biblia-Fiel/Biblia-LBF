@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:30",
+  "chapter": 25,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tú profetizarás a ellos todas estas palabras, y dirás a ellos: El Señor desde lo alto rugirá, y desde su santo templo dará voz; rugirá el Señor desde su morada, y responderá como los que rugen, a todos los moradores de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025030013",
+        "h24025030014"
+      ],
+      "issue": "מְעוֹן קָדְשׁוֹ rendered as 'santo templo' (adds 'templo' not licensed by lemma 4583)",
+      "spanishSpan": "santo templo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025030021",
+        "h24025030022"
+      ],
+      "issue": "כְּדֹרְכִים rendered as 'los que rugen' (changes 'treaders' to 'those who roar')",
+      "spanishSpan": "como los que rugen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025030010"
+      ],
+      "issue": "יהוה rendered as 'El Señor' instead of conventional Jehová",
+      "spanishSpan": "El Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

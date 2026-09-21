@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:12",
+  "chapter": 2,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Mirad al cielo y ved, y haced montes de pelillos, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002012001",
+        "h24002012002",
+        "h24002012004"
+      ],
+      "issue": "reverses addressee and command; Hebrew imperatives direct heavens to be appalled at this, Spanish commands addressees to look at heavens",
+      "spanishSpan": "Mirad al cielo y ved"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002012005",
+        "h24002012006",
+        "h24002012007"
+      ],
+      "issue": "adds nonexistent concept 'haced montes de pelillos'; omits licensed commands to shudder and be very desolate",
+      "spanishSpan": "y haced montes de pelillos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002012008",
+        "h24002012009"
+      ],
+      "issue": "replaces 'declaración de YHWH' with 'dice el SEÑOR'",
+      "spanishSpan": "dice el SEÑOR"
+    }
+  ],
+  "notes": "none of the licensed tokens support the Spanish rendering",
+  "discardedUncitedFindings": 0
+}

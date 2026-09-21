@@ -1,0 +1,600 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 27,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "passed": [
+    2,
+    20,
+    21
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el año en que comenzó a reinar Joaquín, hijo de Josías, rey de Judá, vino esta palabra a Jeremías de parte de Jehová, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027001001",
+            "h24027001002"
+          ],
+          "issue": "adds 'año' and 'comenzó a reinar' interpretive paraphrase; tokens only license 'in the beginning of the reign'",
+          "spanishSpan": "En el año en que comenzó a reinar"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y enviaráslos a través de mensajeros a los reyes de Edom, y a los reyes de Moab, y a los reyes de los hijos de Amón, y a los reyes de Tiro, y a los reyes de Sidón, a través de mensajeros que vinieron a Jerusalén a Zedequías, rey de Judá.",
+      "notes": "plural kings and altered placement of the messengers phrase both unlicensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027003003",
+            "h24027003006",
+            "h24027003009",
+            "h24027003013",
+            "h24027003016",
+            "h24027003024"
+          ],
+          "issue": "plural 'reyes' for each nation instead of singular מֶלֶךְ",
+          "spanishSpan": "a los reyes de Edom... a los reyes de Moab... a los reyes de los hijos de Amón... a los reyes de Tiro... a los reyes de Sidón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027003018",
+            "h24027003019",
+            "h24027003020"
+          ],
+          "issue": "restructures and duplicates בְּיַד מַלְאָכִים הַבָּאִים before the list and again at the end",
+          "spanishSpan": "a través de mensajeros ... a través de mensajeros que vinieron"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y les darás instrucciones a sus señores, diciendo: Así ha dicho Jehová de los ejércitos, el Dios de Israel: Así les dirán a sus señores:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027004013",
+            "h24027004015"
+          ],
+          "issue": "2mp verb and 2mp suffix rendered as 3pl 'dirán' + 'sus' instead of 2pl address to addressees",
+          "spanishSpan": "Así les dirán a sus señores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027004001",
+            "h24027004004"
+          ],
+          "issue": "first clause uses 'sus señores' (3rd) instead of preserving 3mp referent distinction from later 2mp",
+          "spanishSpan": "les darás instrucciones a sus señores"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Yo he hecho la tierra, el hombre y la bestia que está sobre la faz de la tierra con mi gran poder y con mi brazo extendido; y los daré a quien me place.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027005017"
+          ],
+          "issue": "suffix is 3fs but Spanish renders as masculine plural 'los'",
+          "spanishSpan": "los daré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027005019",
+            "h24027005020"
+          ],
+          "issue": "lemma ישר + בעיני rendered idiomatically as 'me place' instead of preserving 'right in my eyes'",
+          "spanishSpan": "a quien me place"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ahora yo he dado todas estas tierras en manos de Nabucodonosor, rey de Babilonia, mi siervo, y también a la bestia del campo las he dado en su mano para que la sirva.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027006015",
+            "h24027006016",
+            "h24027006017",
+            "h24027006018",
+            "h24027006019"
+          ],
+          "issue": "Spanish inverts participants: treats lands as given to the beast and misassigns service, instead of beast given to Nebuchadnezzar to serve him",
+          "spanishSpan": "y también a la bestia del campo las he dado en su mano para que la sirva"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y servirán a él todas las naciones, y a su hijo, y al hijo de su hijo, hasta que venga su tierra, y también servirán a él muchas naciones y grandes reyes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027007010",
+            "h24027007011",
+            "h24027007012",
+            "h24027007013"
+          ],
+          "issue": "omits 'time' and alters 'until the coming of the time of his land' to 'until his land comes'",
+          "spanishSpan": "hasta que venga su tierra"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será que la nación y la realeza que no sirva a Nabucodonosor, rey de Babilonia, y que no ponga su cuello en el yugo del rey de Babilonia, con la espada y con el hambre y con la peste los visitaré, dice Jehová, hasta que los consuma en su mano.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027008003"
+          ],
+          "issue": "מַמְלָכָה rendered as 'realeza' (royalty) instead of kingdom/realm",
+          "spanishSpan": "la realeza"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ustedes no os dejéis engañar por sus profetas ni por sus adivinos ni por sus sueños, ni por sus hechiceros ni por sus encantadores, que os dicen: No serviréis al rey de Babilonia.",
+      "notes": "multiple mismatches in person, verb choice, and register",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027009005",
+            "h24027009007",
+            "h24027009009",
+            "h24027009011",
+            "h24027009013"
+          ],
+          "issue": "possessive suffixes are 2mp (your) but Spanish renders as sus (their)",
+          "spanishSpan": "sus profetas ... sus adivinos ... sus sueños ... sus hechiceros ... sus encantadores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027009003"
+          ],
+          "issue": "lemma 8085 is qal jussive 'no escuchen / no oigan' but Spanish substitutes 'no dejéis engañar'",
+          "spanishSpan": "no os dejéis engañar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027009001",
+            "h24027009003",
+            "h24027009020"
+          ],
+          "issue": "2mp address rendered with vosotros forms (os, dejéis, serviréis) instead of Latin-American ustedes",
+          "spanishSpan": "no os dejéis ... os dicen ... No serviréis"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque son mentirosos los profetas que os profetizan, para apartaros de su tierra, y os apartaré y os perderé.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027010002",
+            "h24027010003",
+            "h24027010004"
+          ],
+          "issue": "adds 'son mentirosos los profetas' instead of 'they are prophesying falsehood'",
+          "spanishSpan": "son mentirosos los profetas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027010010"
+          ],
+          "issue": "possessive mismatch: 'su tierra' (their) instead of 2mp 'your land'",
+          "spanishSpan": "su tierra"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el pueblo que traiga su cuello en el yugo del rey de Babilonia y le sirva, lo dejaré sobre su tierra, dice el SEÑOR, y le servirá y vivirá en ella.",
+      "notes": "multiple morphology and referent mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027011009",
+            "h24027011015"
+          ],
+          "issue": "first עבדו serves the king (ms); second עבדה serves the land (fs); Spanish collapses pronouns and referents",
+          "spanishSpan": "y le sirva ... y le servirá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027011016",
+            "h24027011017"
+          ],
+          "issue": "ישב is dwell/sit; Spanish renders as vivirá and attaches to wrong pronoun",
+          "spanishSpan": "y vivirá en ella"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027011003"
+          ],
+          "issue": "Hiphil imperfect rendered as subjunctive traiga instead of future indicative",
+          "spanishSpan": "que traiga"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a Zedequías, rey de Judá, hablé conforme a todas estas palabras, diciendo: Traed sus cuellos en el yugo del rey de Babilonia y servidle y a su pueblo, y viviréis.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027012010",
+            "h24027012016",
+            "h24027012019"
+          ],
+          "issue": "vosotros imperative forms (Traed, servidle, viviréis) instead of Latin American ustedes",
+          "spanishSpan": "Traed sus cuellos ... servidle ... viviréis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027012019"
+          ],
+          "issue": "imperative changed to future indicative",
+          "spanishSpan": "y viviréis"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué moriréis ustedes y su pueblo con la espada, con el hambre y con la peste, como ha hablado el SEÑOR a los pueblos que no sirven al rey de Babilonia?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027013012"
+          ],
+          "issue": "singular הַגּוֹי changed to plural 'pueblos'",
+          "spanishSpan": "a los pueblos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027013015"
+          ],
+          "issue": "3ms verb יַעֲבֹד forced to plural 'sirven' due to number change",
+          "spanishSpan": "que no sirven"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No os dejéis engañar por las palabras de los profetas que os dicen: No serviréis al rey de Babilonia, porque son mentirosos los profetas.",
+      "notes": "multiple unlicensed additions and form mismatch",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027014001",
+            "h24027014002"
+          ],
+          "issue": "adds 'dejéis engañar' instead of licensing 'no escuchéis / no oigáis'",
+          "spanishSpan": "No os dejéis engañar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027014003"
+          ],
+          "issue": "changes preposition 'אֶל' (to/unTo) to 'por'",
+          "spanishSpan": "por las palabras"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027014015",
+            "h24027014017"
+          ],
+          "issue": "replaces 'prophesying a lie/falsehood' with 'son mentirosos'",
+          "spanishSpan": "son mentirosos los profetas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027014002",
+            "h24027014010",
+            "h24027014018"
+          ],
+          "issue": "uses vosotros 'os' forms instead of Latin American ustedes",
+          "spanishSpan": "os dejéis, os dicen"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque no los envié, dice el SEÑOR, y profetizan en mi nombre falsedades para apartaros, para que muráis ustedes y los profetas que profetizan en su nombre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027015017"
+          ],
+          "issue": "replaces לָכֶם (to you) with 'en su nombre'",
+          "spanishSpan": "que profetizan en su nombre"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a los sacerdotes y a todo este pueblo dije: Así ha dicho el SEÑOR: No os dejéis engañar por las palabras de los profetas que profetizan en su nombre, diciendo: He aquí que los utensilios de la casa del SEÑOR están ya en Babilonia; pronto vendrán. Porque son mentirosos los profetas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027016013"
+          ],
+          "issue": "al-tishme'u (do not listen) rendered as 'No os dejéis engañar' (do not let yourselves be deceived)",
+          "spanishSpan": "No os dejéis engañar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027016024",
+            "h24027016025"
+          ],
+          "issue": "mushabim mibabelah (being returned from Babylon) rendered backwards as 'están ya en Babilonia; pronto vendrán'",
+          "spanishSpan": "están ya en Babilonia; pronto vendrán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027016029",
+            "h24027016031"
+          ],
+          "issue": "sheqer hemma nib'im (prophesying falsehood) rendered as 'son mentirosos los profetas' (the prophets are liars)",
+          "spanishSpan": "Porque son mentirosos los profetas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027016016",
+            "h24027016017"
+          ],
+          "issue": "added 'en su nombre' with no token support",
+          "spanishSpan": "que profetizan en su nombre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027016013"
+          ],
+          "issue": "vosotros 'os' instead of ustedes form for 2mp address",
+          "spanishSpan": "No os dejéis"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No os dejéis engañar por ellos, servidle al rey de Babilonia y viviréis. ¿Por qué habrá de ser esta ciudad desolada?",
+      "notes": "first clause adds unlicensed concept; imperative-to-future shift; wrong Spanish variety",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027017002"
+          ],
+          "issue": "adds 'engañar' (deceive) concept absent from שמע lemma and tokens",
+          "spanishSpan": "No os dejéis engañar por ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027017008"
+          ],
+          "issue": "changes qal imperative 2mp 'live!' to future indicative 'viviréis'",
+          "spanishSpan": "y viviréis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027017001",
+            "h24027017002",
+            "h24027017003",
+            "h24027017004",
+            "h24027017008"
+          ],
+          "issue": "uses Peninsular 'os' / vosotros forms instead of Latin American ustedes",
+          "spanishSpan": "No os dejéis ... servidle ... viviréis"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y si son profetas, y si hay palabra del SEÑOR con ellos, que vayan ahora a Jehová de los ejércitos, para que no entren los utensilios que quedan en la casa del SEÑOR, y en la casa del rey de Judá, y en Jerusalén, en Babilonia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027018009"
+          ],
+          "issue": "lemma 6293 (פגע qal jussive) rendered as 'vayan' (go) instead of intercede/entreat",
+          "spanishSpan": "que vayan ahora a"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho el SEÑOR de los ejércitos a los pilares, y a la mar, y a los montantes, y a todo el resto de los utensilios que quedan en esta ciudad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027019014",
+            "h24027019013"
+          ],
+          "issue": "adds unlicensed 'todo' before 'el resto'",
+          "spanishSpan": "todo el resto"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En Babilonia los llevarán y allí quedarán hasta el día en que yo los visite, dice el SEÑOR, y los haré subir y los haré volver a este lugar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027022001",
+            "h24027022002"
+          ],
+          "issue": "Spanish places action inside Babylon and uses active 'los llevarán' instead of directional 'to Babylon' + passive Hophal 'will be brought'",
+          "spanishSpan": "En Babilonia los llevarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24027022004"
+          ],
+          "issue": "'quedarán' adds 'remain/stay' nuance not licensed by simple Qal 'they will be'",
+          "spanishSpan": "allí quedarán"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T02:52:56.347839+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 22,
+    "verses": 22,
+    "input": 58772,
+    "cachedInput": 16192,
+    "output": 3392,
+    "reasoning": 22545,
+    "usd": 0.2489,
+    "byProvider": {
+      "xai": {
+        "calls": 22,
+        "input": 58772,
+        "output": 3392,
+        "reasoning": 22545,
+        "usd": 0.2489
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 22,
+        "input": 58772,
+        "output": 3392,
+        "reasoning": 22545,
+        "usd": 0.2489
+      }
+    },
+    "usdPerVerse": 0.0113,
+    "bibleAtThisRate": 352.0,
+    "book": "jeremias",
+    "chapter": 27
+  }
+}

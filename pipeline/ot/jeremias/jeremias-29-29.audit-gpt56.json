@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:29",
+  "chapter": 29,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el sacerdote Sofonías leyó este libro en presencia de Jeremías el profeta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029029007"
+      ],
+      "issue": "replaces 'in the ears of' with unlicensed concept 'en presencia de'",
+      "spanishSpan": "en presencia de"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

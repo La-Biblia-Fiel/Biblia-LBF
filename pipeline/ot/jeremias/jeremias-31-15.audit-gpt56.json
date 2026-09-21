@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:15",
+  "chapter": 31,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el SEÑOR: Se oye un grito en Ramah, llanto y gran duelo; Raquel llora por sus hijos, y no quiere ser consolada por sus hijos, porque no están.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031015019"
+      ],
+      "issue": "morphology Sp3ms changed to plural (están)",
+      "spanishSpan": "porque no están"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

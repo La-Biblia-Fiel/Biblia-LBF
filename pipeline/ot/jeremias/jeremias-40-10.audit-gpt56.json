@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:10",
+  "chapter": 40,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo estoy sentado en Mizpa para estar delante de los caldeos que vienen a nosotros, y ustedes recolectad vino y aceite y miel, y guardadlos en vasijos, y vivid en sus ciudades que han tomado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040010014"
+      ],
+      "issue": "replaces קַיִץ (summer fruit) with miel (honey) and shifts aceite assignment",
+      "spanishSpan": "vino y aceite y miel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040010019",
+        "h24040010021"
+      ],
+      "issue": "changes 2mp suffix and verb to 3rd person 'sus ciudades que han tomado'",
+      "spanishSpan": "sus ciudades que han tomado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

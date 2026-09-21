@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:35",
+  "chapter": 25,
+  "verse": 35,
+  "candidateLabel": "gpt56",
+  "spanish": "Y desaparecerá el deseo de los pastores, y la huida de los jefes del rebaño.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025035002"
+      ],
+      "issue": "מָנ֖וֹס rendered as 'deseo' (desire) instead of refuge/escape",
+      "spanishSpan": "el deseo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025035003",
+        "h24025035004"
+      ],
+      "issue": "מִן הָרֹעִים parsed as possessive 'de los pastores' instead of 'from the shepherds'",
+      "spanishSpan": "de los pastores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025035006"
+      ],
+      "issue": "אַדִּירֵי rendered as 'jefes' (chiefs) without token support for that specialization",
+      "spanishSpan": "jefes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:16",
+  "chapter": 50,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Cortad al sembrador de Babilonia y tomad la siega en tiempo de siega, por causa de la espada del cordero; cada uno volverá a su pueblo y cada uno a su tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050016004",
+        "h24050016005",
+        "h24050016006",
+        "h24050016007"
+      ],
+      "issue": "replaces 'and the one handling the sickle at harvest time' with 'tomad la siega en tiempo de siega'",
+      "spanishSpan": "y tomad la siega en tiempo de siega"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050016010"
+      ],
+      "issue": "renders הַיּוֹנָ֔ה (oppressor, H3238) as 'cordero' (lamb)",
+      "spanishSpan": "del cordero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050016014",
+        "h24050016017"
+      ],
+      "issue": "changes 'turn' and 'flee' to 'volverá'",
+      "spanishSpan": "cada uno volverá"
+    }
+  ],
+  "notes": "multiple lexical and verbal mismatches",
+  "discardedUncitedFindings": 0
+}

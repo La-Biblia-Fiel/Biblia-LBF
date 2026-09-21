@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:16",
+  "chapter": 33,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquellos días será Judá salvo, y Jerusalén habitada segura, y este será el nombre que le dará Jehová: Mi justicia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033016010"
+      ],
+      "issue": "lemma 7121 'call' rendered as 'dará' (give)",
+      "spanishSpan": "le dará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033016013"
+      ],
+      "issue": "1cp suffix rendered as singular 'Mi' instead of 'nuestra'",
+      "spanishSpan": "Mi justicia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033016013"
+      ],
+      "issue": "construct chain צִדְקֵנוּ rendered as separate title 'Mi justicia' rather than the name phrase",
+      "spanishSpan": "Mi justicia"
+    }
+  ],
+  "notes": "name clause mismatches on verb, person, and structure",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:19",
+  "chapter": 51,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "No son así las porciones de Jacob, porque Él es quien forma todo, y es Su heredad; Jehová de los ejércitos es Su nombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051019009",
+        "h24051019010"
+      ],
+      "issue": "omits שֵׁבֶט construct; collapses וְשֵׁבֶט נַחֲלָתוֹ to merely 'Su heredad'",
+      "spanishSpan": "y es Su heredad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

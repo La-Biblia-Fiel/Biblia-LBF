@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:30",
+  "chapter": 52,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "En el año veintitrés de Nabucodonosor, Necozeradán, jefe de los cocineros, deportó a los judíos setecientos cuarenta y cinco almas; en total, cuatro mil seiscientos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052030006"
+      ],
+      "issue": "proper name rendered as Necozeradán instead of conventional Spanish form of the lemma",
+      "spanishSpan": "Necozeradán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

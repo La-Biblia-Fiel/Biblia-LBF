@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:23",
+  "chapter": 2,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Cómo puedes decir: No me he contaminado, no he ido tras los baalim? Mira tu camino en el valle; ¿qué has hecho? Tú eres una mujer fácil, que sigue tus caminos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002023015",
+        "h24002023016",
+        "h24002023017",
+        "h24002023018"
+      ],
+      "issue": "replaces בִּכְרָה קַלָּה מְשָׂרֶכֶת דְּרָכֶיהָ with interpretive non-token concept 'mujer fácil, que sigue tus caminos'",
+      "spanishSpan": "Tú eres una mujer fácil, que sigue tus caminos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

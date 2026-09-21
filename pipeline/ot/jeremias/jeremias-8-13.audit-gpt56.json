@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:13",
+  "chapter": 8,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el SEÑOR: No habrá uvas en la vid, ni higos en la higuera; y el hoja se secará, y los doy a los que pasan.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008013001",
+        "h24008013002"
+      ],
+      "issue": "omits the opening infinitive absolute + hiphil 1cs clause entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008013003",
+        "h24008013004"
+      ],
+      "issue": "renders נְאֻם יְהֹוָה as 'Así dice el SEÑOR' (adds interpretive frame not licensed by tokens)",
+      "spanishSpan": "Así dice el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008013011"
+      ],
+      "issue": "gender mismatch on 'el hoja' for masculine הֶעָלֶה",
+      "spanishSpan": "el hoja"
+    }
+  ],
+  "notes": "major structural omission of first two tokens",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:5",
+  "chapter": 41,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Hombres de Samaria, de Silo y de Sichem, ochenta en total, con barbas rapadas, vestidos de luto y con rasgados, con ofrendas y incienso en la mano, vinieron a presentarlas en el templo del Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041005003",
+        "h24041005004",
+        "h24041005005"
+      ],
+      "issue": "order of place names reversed from source sequence",
+      "spanishSpan": "de Samaria, de Silo y de Sichem"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041005010",
+        "h24041005011",
+        "h24041005012"
+      ],
+      "issue": "adds 'vestidos de luto' with no token support; collapses torn garments + gashing into mourning attire",
+      "spanishSpan": "vestidos de luto y con rasgados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041005016",
+        "h24041005017"
+      ],
+      "issue": "renders 'to bring to the house' as 'presentarlas en el templo', adding 'present' and 'templo' not licensed by tokens",
+      "spanishSpan": "vinieron a presentarlas en el templo"
+    }
+  ],
+  "notes": "multiple additions and non-literal renderings",
+  "discardedUncitedFindings": 0
+}

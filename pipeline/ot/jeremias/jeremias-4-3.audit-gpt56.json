@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:3",
+  "chapter": 4,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho Yavé a la casa de Judá y a Jerusalén: Plantad para ustedes, pero no sembréis en espinos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004003005",
+        "h24004003006"
+      ],
+      "issue": "adds 'casa de' not present in איש יהודה",
+      "spanishSpan": "a la casa de Judá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004003008",
+        "h24004003010"
+      ],
+      "issue": "נִירוּ לָכֶם נִיר rendered as 'Plantad' (plant) instead of break up/till the ground",
+      "spanishSpan": "Plantad para ustedes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004003012"
+      ],
+      "issue": "vosotros form 'sembréis' instead of Latin American 'siembren'",
+      "spanishSpan": "no sembréis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

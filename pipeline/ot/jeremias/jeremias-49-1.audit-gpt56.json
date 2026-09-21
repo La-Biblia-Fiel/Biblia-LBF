@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:1",
+  "chapter": 49,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Para los hijos de Amón, así dice el SEÑOR: ¿No tienen hijos los israelitas, o no tienen herederos? ¿Por qué, pues, ha heredado su rey a Gad y su pueblo en sus ciudades?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049001018",
+        "h24049001020"
+      ],
+      "issue": "restructures clause so that 'su pueblo' becomes object of the king's action instead of subject of ישׁב; omits separate dwelling verb",
+      "spanishSpan": "ha heredado su rey a Gad y su pueblo en sus ciudades"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

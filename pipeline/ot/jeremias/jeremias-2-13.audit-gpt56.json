@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:13",
+  "chapter": 2,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque dos cosas malas ha hecho mi pueblo: me han abandonado, fuente de aguas vivas, para cavar pozos quebrados, que no pueden contener agua.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002013018",
+        "h24002013019"
+      ],
+      "issue": "subject of יָכִלוּ changed from הַמָּיִם to the cisterns",
+      "spanishSpan": "que no pueden contener agua"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

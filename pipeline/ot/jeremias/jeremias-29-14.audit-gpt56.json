@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:14",
+  "chapter": 29,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo me dejaré hallar por ustedes, dice Jehová, y os reuniré de entre todas las naciones y de entre todos los lugares a donde os he echado, y os traeré de nuevo al lugar de donde os eché.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029014002",
+        "h24029014008",
+        "h24029014015",
+        "h24029014020",
+        "h24029014025"
+      ],
+      "issue": "uses vosotros 'os' forms instead of Latin American ustedes for 2mp suffixes",
+      "spanishSpan": "os reuniré, os he echado, os traeré, os eché"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029014003",
+        "h24029014004",
+        "h24029014017",
+        "h24029014018"
+      ],
+      "issue": "omits one of the two נְאֻם יְהוָה tokens",
+      "spanishSpan": "dice Jehová"
+    }
+  ],
+  "notes": "mix of ustedes and os also present",
+  "discardedUncitedFindings": 0
+}

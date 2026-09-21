@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:8",
+  "chapter": 33,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los purificaré de toda iniquidad que han cometido contra mí, y perdonaré todos sus pecados que han cometido contra mí, y de los que me han desobedecido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033008008"
+      ],
+      "issue": "adds 'todos' not present in the token for the plural iniquities",
+      "spanishSpan": "todos sus pecados"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

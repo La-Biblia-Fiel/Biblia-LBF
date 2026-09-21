@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:18",
+  "chapter": 36,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Baruc les dijo: De su boca me leyó estas palabras, y yo las escribí en el libro con tinta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036018005"
+      ],
+      "issue": "changes qal imperfect 3ms to perfect past tense",
+      "spanishSpan": "me leyó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036018012"
+      ],
+      "issue": "changes qal active participle to perfect past tense",
+      "spanishSpan": "las escribí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036018008"
+      ],
+      "issue": "omits כל all",
+      "spanishSpan": "estas palabras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

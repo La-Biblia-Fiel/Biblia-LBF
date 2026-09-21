@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:17",
+  "chapter": 3,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquel tiempo, Jerusalén será llamada el trono de Yavé, y todas las naciones buscarán a su nombre. Ya no seguirán más la rebeldía de sus corazones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003017007",
+        "h24003017008",
+        "h24003017009",
+        "h24003017010",
+        "h24003017011",
+        "h24003017012",
+        "h24003017013"
+      ],
+      "issue": "nations gather to her / to the name of YHWH to Jerusalem; Spanish substitutes buscarán a su nombre",
+      "spanishSpan": "todas las naciones buscarán a su nombre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003017006",
+        "h24003017012"
+      ],
+      "issue": "YHWH rendered Yavé instead of conventional Jehová",
+      "spanishSpan": "Yavé"
+    }
+  ],
+  "notes": "passive call and 'seguirán la rebeldía' are acceptable smoothing",
+  "discardedUncitedFindings": 0
+}

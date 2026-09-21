@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:14",
+  "chapter": 51,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Jehová de los ejércitos ha jurado en su alma: Cierto que te llenaré de hombres como el gusano, y te cubrirán de escarabajos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051014009"
+      ],
+      "issue": "yeleq rendered as gusano (worm) instead of locust",
+      "spanishSpan": "como el gusano"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051014010",
+        "h24051014011",
+        "h24051014012"
+      ],
+      "issue": "final clause rendered as te cubrirán de escarabajos with no licensed token support for beetles or covering",
+      "spanishSpan": "y te cubrirán de escarabajos"
+    }
+  ],
+  "notes": "last clause meaning entirely replaced",
+  "discardedUncitedFindings": 0
+}

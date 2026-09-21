@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:57",
+  "chapter": 51,
+  "verse": 57,
+  "candidateLabel": "gpt56",
+  "spanish": "Haré que duerman eternamente, el rey de Babilonia y sus príncipes, sus sabios, sus adivinos, sus magos, sus encantadores; y no se levantarán, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051057001"
+      ],
+      "issue": "lemma H7937 hiphil 'make drunk' replaced by sleep verb",
+      "spanishSpan": "Haré que duerman"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051057002",
+        "h24051057003",
+        "h24051057004",
+        "h24051057005",
+        "h24051057006"
+      ],
+      "issue": "list of titles does not match token lemmas; added adivinos/magos/encantadores",
+      "spanishSpan": "sus príncipes, sus sabios, sus adivinos, sus magos, sus encantadores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051057013",
+        "h24051057014",
+        "h24051057015",
+        "h24051057016"
+      ],
+      "issue": "adds 'el rey de Babilonia' and renders נְאֻם הַמֶּלֶךְ יְהוָה צְבָאוֹת שְׁמוֹ as 'dice el Señor'",
+      "spanishSpan": "el rey de Babilonia ... dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:5",
+  "chapter": 5,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Iré a los grandes y hablaré con ellos, porque ellos conocen el camino del SEÑOR y la justicia de sus dioses. Pero ellos juntos rompieron el yugo y se desataron las riendas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005005019",
+        "h24005005020"
+      ],
+      "issue": "changes active 3cp piel 'they tore apart the bonds' to passive 'the reins were untied' and substitutes 'rienda' for bonds/fetters",
+      "spanishSpan": "se desataron las riendas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

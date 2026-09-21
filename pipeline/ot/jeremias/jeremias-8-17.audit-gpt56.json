@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:17",
+  "chapter": 8,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque he aquí que envío entre ustedes serpientes, escorpiones, a las cuales no hay encantamiento para ellas; y morderán a ustedes, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008017006"
+      ],
+      "issue": "צִפְעֹנִים rendered as 'escorpiones' (scorpions), a different animal not licensed by the lemma or surface",
+      "spanishSpan": "escorpiones"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

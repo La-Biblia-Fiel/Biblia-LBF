@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:30",
+  "chapter": 7,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque los hijos de Judá han hecho lo malo a mis ojos, dice el SEÑOR, han puesto sus abominaciones en la casa que yo he llamado por mi nombre, para profanarla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007030013",
+        "h24007030014",
+        "h24007030015"
+      ],
+      "issue": "Niphal passive נִקְרָא with עָלָיו rendered as active 'yo he llamado por mi nombre' instead of 'mi nombre fue llamado sobre ella'",
+      "spanishSpan": "la casa que yo he llamado por mi nombre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

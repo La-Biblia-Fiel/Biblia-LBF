@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:37",
+  "chapter": 51,
+  "verse": 37,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será Babilonia un lugar de zarcillos, morada de dragones, y será un lugar de voces y de chillidos, sin habitante.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051037003"
+      ],
+      "issue": "לְגַלִּים rendered as 'zarcillos' (wrong noun; tokens license only 'heaps/piles/ruins')",
+      "spanishSpan": "lugar de zarcillos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051037006",
+        "h24051037007"
+      ],
+      "issue": "שַׁמָּה וּשְׁרֵקָה rendered as 'lugar de voces y de chillidos' (adds 'voces', replaces desolation+hissing with shrieks)",
+      "spanishSpan": "un lugar de voces y de chillidos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051037001",
+        "h24051037006",
+        "h24051037007"
+      ],
+      "issue": "restructures single 'וְהָיְתָה' clause into repeated 'y será un lugar' (adds second 'será' and extra 'lugar' not licensed)",
+      "spanishSpan": "y será un lugar de voces y de chillidos"
+    }
+  ],
+  "notes": "multiple concept additions and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

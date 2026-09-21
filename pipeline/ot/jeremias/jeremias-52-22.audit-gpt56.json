@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:22",
+  "chapter": 52,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y la corona de bronce que estaba sobre ella, y la altura de la corona era de cinco codos, y había red y uvas en la corona alrededor de toda ella, y todo era de bronce, y así era la segunda columna con uvas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052022010",
+        "h24052022019"
+      ],
+      "issue": "רִמּוֹנִים rendered as 'uvas' (grapes) instead of pomegranates",
+      "spanishSpan": "uvas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

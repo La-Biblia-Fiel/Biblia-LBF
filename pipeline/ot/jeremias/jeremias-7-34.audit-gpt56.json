@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:34",
+  "chapter": 7,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "Y haré callar en las ciudades de Judá y en las alrededores de Jerusalén el grito de alegría y el grito de júbilo, el grito de novio y el grito de novia, porque será un desierto la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007034002",
+        "h24007034004"
+      ],
+      "issue": "מֵ rendered as 'en' (in) instead of 'from'",
+      "spanishSpan": "en las ciudades de Judá y en las alrededores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007034004"
+      ],
+      "issue": "חֻצוֹת rendered as 'alrededores' (surroundings) instead of streets/outskirts",
+      "spanishSpan": "alrededores de Jerusalén"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007034006",
+        "h24007034008",
+        "h24007034010",
+        "h24007034012"
+      ],
+      "issue": "קוֹל rendered as 'grito' (cry/shout) instead of voice/sound",
+      "spanishSpan": "el grito de alegría"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007034015"
+      ],
+      "issue": "לְחָרְבָּה rendered as 'un desierto' (a desert) instead of desolation/waste",
+      "spanishSpan": "un desierto la tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

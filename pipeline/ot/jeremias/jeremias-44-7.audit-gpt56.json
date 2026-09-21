@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:7",
+  "chapter": 44,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora dice Jehová, el Dios de los ejércitos, el Dios de Israel: ¿Por qué hacéis un mal grande a sus almas para cortar a ustedes hombre y mujer, niño y lactante, de la tierra de Judá, para no dejaros una simiente?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044007010",
+        "h24044007015",
+        "h24044007017",
+        "h24044007026"
+      ],
+      "issue": "vosotros verb forms (hacéis, dejaros) and 3rd-person sus instead of Latin-American ustedes 2pl address licensed by 2mp morphology",
+      "spanishSpan": "hacéis ... a sus almas ... dejaros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

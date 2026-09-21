@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:18",
+  "chapter": 4,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tu camino y tus acciones te han hecho esto. Esta es tu maldad, porque te has vuelto amargo; porque te ha herido hasta el corazón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004018009"
+      ],
+      "issue": "adds verb 'te has vuelto' and makes 2fs addressee the subject of becoming bitter; token is only adjective 'bitter' with no verb or explicit subject",
+      "spanishSpan": "te has vuelto amargo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004018011"
+      ],
+      "issue": "renders נָגַע as 'herido' (wounded); token only licenses 'touched/reached'",
+      "spanishSpan": "te ha herido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

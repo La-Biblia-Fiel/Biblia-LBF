@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:24",
+  "chapter": 26,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero la mano de Aquicam, hijo de Safán, fue con Jeremías para que no lo entregara a la gente para que lo mataran.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026024009",
+        "h24026024010",
+        "h24026024012",
+        "h24026024013",
+        "h24026024014"
+      ],
+      "issue": "restructures לְבִלְתִּי תֵּת ... בְיַד הָעָם לַהֲמִיתוֹ into separate finite clauses with added singular subject for entregar and plural for mataran, altering participants and purpose attachment",
+      "spanishSpan": "para que no lo entregara a la gente para que lo mataran"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026024001"
+      ],
+      "issue": "renders אַךְ as contrastive 'Pero' which adds nuance not licensed by the affirmation particle alone",
+      "spanishSpan": "Pero"
+    }
+  ],
+  "notes": "name forms Aquicam/Safán acceptable; core mismatch is syntactic restructuring of negative purpose + hiphil infinitive",
+  "discardedUncitedFindings": 0
+}

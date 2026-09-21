@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:9",
+  "chapter": 22,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirán: Porque abandonaron el pacto de Jehová su Dios, que él les había hecho, y se inclinaron ante otros dioses y los sirvieron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022009006",
+        "h24022009007",
+        "h24022009008"
+      ],
+      "issue": "adds relative clause 'que él les había hecho' with no corresponding tokens",
+      "spanishSpan": "que él les había hecho"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

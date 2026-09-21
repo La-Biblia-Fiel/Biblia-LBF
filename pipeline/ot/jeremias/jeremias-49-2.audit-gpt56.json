@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:2",
+  "chapter": 49,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, he aquí que días vienen, dice el SEÑOR, y haré oír a la gran multitud de los hijos de Amón el sonido de la guerra, y serán una colina desierta, y sus hijas serán quemadas por el fuego, y los israelitas heredarán a sus herederos, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049002009"
+      ],
+      "issue": "renders proper noun Rabbah as 'gran multitud'",
+      "spanishSpan": "a la gran multitud de los hijos de Amón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

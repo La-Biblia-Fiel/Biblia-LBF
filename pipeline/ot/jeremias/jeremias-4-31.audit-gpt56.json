@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:31",
+  "chapter": 4,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque he oído el ruido de un enfermo, como el ruido de una mujer que da a luz; el ruido de la hija de Sión: ¡Ay de mí! Porque mi alma está cansada de los que me matan.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004031010",
+        "h24004031011",
+        "h24004031012"
+      ],
+      "issue": "omits entirely the two verbs describing the daughter of Zion's actions (gasping and spreading hands)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004031003"
+      ],
+      "issue": "renders feminine participle as masculine 'un enfermo'",
+      "spanishSpan": "un enfermo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

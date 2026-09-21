@@ -1,0 +1,233 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 24,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "passed": [
+    1,
+    2,
+    6,
+    10
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces el Señor me dijo: ¿Qué ves, Jeremías? Y yo dije: Higos. El Señor me respondió: Los buenos higos son muy buenos, y los malos higos son muy malos, que no se pueden comer por su maldad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024003001"
+          ],
+          "issue": "added 'Entonces' with no corresponding token",
+          "spanishSpan": "Entonces"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024003002"
+          ],
+          "issue": "rendered יהוה as 'Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024003010",
+            "h24024003011",
+            "h24024003014",
+            "h24024003015"
+          ],
+          "issue": "split single divine speech into two turns with added 'me respondió'",
+          "spanishSpan": "El Señor me respondió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024003017",
+            "h24024003018",
+            "h24024003019",
+            "h24024003020"
+          ],
+          "issue": "rendered relative clause as 'por su maldad' (adds 'su' and interpretive 'wickedness' concept)",
+          "spanishSpan": "por su maldad"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vino la palabra del Señor a mí, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024004003"
+          ],
+          "issue": "YHWH rendered as title 'Señor' instead of licensed conventional form Jehová",
+          "spanishSpan": "del Señor"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice el Señor, el Dios de Israel: Como los buenos higos, así trataré con los cautivos de Judá que envié de este lugar a la tierra de Babilonia, para su bien.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024005003"
+          ],
+          "issue": "replaces יהוה with title 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y les daré un corazón para que me conozcan, que yo soy el Señor, y serán para mí un pueblo, y yo seré para ellos un Dios, porque volverán a mí con todo su corazón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024007008"
+          ],
+          "issue": "replaces proper name יהוה with title 'el Señor' instead of licensed 'Jehová'",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y como los malos higos que no se pueden comer por su maldad, así dice el Señor: Así trataré con Zedequías, rey de Judá, y con sus nobles, y con el resto de Jerusalén que queda en esta tierra, y con los que habitan en la tierra de Egipto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024008010"
+          ],
+          "issue": "YHWH rendered as title 'el Señor' instead of licensed proper name form",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024008008"
+          ],
+          "issue": "כה (thus) omitted before אמר יהוה",
+          "spanishSpan": "así dice el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los entregaré para ser objeto de maldición, de desprecio, de escarnio y de maldición en todas las naciones a donde los he dispersado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024009002",
+            "h24024009003",
+            "h24024009004",
+            "h24024009005"
+          ],
+          "issue": "omits לְרָעָה and לְכֹל מַמְלְכוֹת הָאָרֶץ entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024009011"
+          ],
+          "issue": "renders מְקֹמ֖וֹת as naciones instead of preserving places/locations",
+          "spanishSpan": "naciones"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024009013"
+          ],
+          "issue": "renders hiphil of drive/banish as dispersado (scatter)",
+          "spanishSpan": "dispersado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24024009006",
+            "h24024009007",
+            "h24024009008",
+            "h24024009009"
+          ],
+          "issue": "restructures and duplicates maldición while inserting interpretive 'objeto de'",
+          "spanishSpan": "para ser objeto de maldición, de desprecio, de escarnio y de maldición"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T02:00:06.098827+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 10,
+    "verses": 10,
+    "input": 26359,
+    "cachedInput": 8960,
+    "output": 1044,
+    "reasoning": 9021,
+    "usd": 0.0997,
+    "byProvider": {
+      "xai": {
+        "calls": 10,
+        "input": 26359,
+        "output": 1044,
+        "reasoning": 9021,
+        "usd": 0.0997
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 10,
+        "input": 26359,
+        "output": 1044,
+        "reasoning": 9021,
+        "usd": 0.0997
+      }
+    },
+    "usdPerVerse": 0.01,
+    "bibleAtThisRate": 310.0,
+    "book": "jeremias",
+    "chapter": 24
+  }
+}

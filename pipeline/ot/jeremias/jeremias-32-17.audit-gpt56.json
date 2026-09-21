@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:17",
+  "chapter": 32,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay, oh SEÑOR, oh Dios, tú hiciste los cielos y la tierra con tu gran poder y con tu brazo extendido; no hay nada que te sea imposible.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032017004"
+      ],
+      "issue": "omits הִנֵּ֣ה (behold)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

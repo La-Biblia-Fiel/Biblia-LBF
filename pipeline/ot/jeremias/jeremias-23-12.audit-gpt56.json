@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:12",
+  "chapter": 23,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, su camino será como el de los que se deslizan en la oscuridad; caerán en él, porque traeré sobre ellos el mal, el año de su castigo, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023012005"
+      ],
+      "issue": "adds 'los que se deslizan' (people who slip) instead of licensed 'like slippery places'",
+      "spanishSpan": "como el de los que se deslizan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023012007"
+      ],
+      "issue": "omits niphal thrust/push; folds action into the added slipping simile",
+      "spanishSpan": "se deslizan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023012003",
+        "h24023012004",
+        "h24023012005",
+        "h24023012006"
+      ],
+      "issue": "paraphrases 'their way to them [will be] like slippery places in darkness' as a comparison to the way of slipping people",
+      "spanishSpan": "su camino será como el de los que se deslizan en la oscuridad"
+    }
+  ],
+  "notes": "second clause and 'año de su castigo' match tokens",
+  "discardedUncitedFindings": 0
+}

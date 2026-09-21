@@ -1,0 +1,760 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 22,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "passed": [
+    7,
+    8,
+    12,
+    25,
+    27
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice Jehová: Baja, casa de David, y habla allí estas palabras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022001005",
+            "h24022001006",
+            "h24022001007"
+          ],
+          "issue": "renders בֵּית מֶלֶךְ יְהוּדָה as 'casa de David' (wrong referent and omitted 'rey')",
+          "spanishSpan": "casa de David"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022001011",
+            "h24022001012"
+          ],
+          "issue": "renders singular הַדָּבָר הַזֶּה as plural 'estas palabras'",
+          "spanishSpan": "estas palabras"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás: Oíd la palabra de Jehová, rey de Judá, que está sentado sobre el trono de David, tú y tus siervos y tu pueblo que entran por estas puertas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022002002"
+          ],
+          "issue": "imperative is 2ms but Spanish renders as 2pl (Oíd)",
+          "spanishSpan": "Oíd"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice Jehová: Haced justicia y derecho, y librad al cautivo de la mano del opresor, y no oprimáis al extranjero, al huérfano ni a la viuda, y no derraméis sangre inocente en este lugar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022003008"
+          ],
+          "issue": "גָז֖וּל (robbed/plundered one) rendered as 'cautivo' (captive), adding unlicensed concept",
+          "spanishSpan": "al cautivo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque si lo hacen, entrarán por las puertas de este templo reyes que se sentarán sobre el trono de David, montados en carros y en caballos, él y sus siervos y su pueblo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022004021"
+          ],
+          "issue": "adds 'sus siervos' with no corresponding token or lemma",
+          "spanishSpan": "sus siervos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero si no escuchan estas palabras, yo juro por mí mismo, dice Jehová, que este templo será como Carmel.",
+      "notes": "core mismatch on outcome clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022005012"
+          ],
+          "issue": "adds 'como Carmel' with no token support; חָרְבָּה only licenses desolation/ruin",
+          "spanishSpan": "como Carmel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022005014"
+          ],
+          "issue": "renders בַּיִת as 'templo' (adds specialized temple concept not present in lemma)",
+          "spanishSpan": "templo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así dice Jehová acerca de la casa de David: ¿No eres tú Gilead para mí, y no es Líbano la cumbre de tu cabeza? ¿Acaso no te pondré como desierto, ciudades que no serán habitadas?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022006006",
+            "h24022006007",
+            "h24022006008"
+          ],
+          "issue": "replaces בֵּית מֶלֶךְ יְהוּדָה with 'casa de David'",
+          "spanishSpan": "casa de David"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirán: Porque abandonaron el pacto de Jehová su Dios, que él les había hecho, y se inclinaron ante otros dioses y los sirvieron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022009006",
+            "h24022009007",
+            "h24022009008"
+          ],
+          "issue": "adds relative clause 'que él les había hecho' with no corresponding tokens",
+          "spanishSpan": "que él les había hecho"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No llores por el muerto ni lo lamentes; llora por el que se ha ido, porque ya no volverá y no verá su patria.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022010002",
+            "h24022010005",
+            "h24022010007"
+          ],
+          "issue": "2mp jussive/imperative verbs rendered as 2ms singular (llores, lamentes, llora) instead of 2p plural",
+          "spanishSpan": "No llores... ni lo lamentes; llora"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho Jehová acerca de Salum hijo de Josías, rey de Judá, que reinó en lugar de su padre Josías: Él saldrá de este lugar, pero no volverá a él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022011016"
+          ],
+          "issue": "יָצָא (qal perfect 3ms) rendered as future 'saldrá' instead of past",
+          "spanishSpan": "Él saldrá"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ay del que construye su casa sin justicia y sus techos sin derecho; quien explota a su prójimo sin pagarle su jornal.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022013006"
+          ],
+          "issue": "עֲלִיּוֹתָיו rendered as 'techos' (roofs) instead of upper rooms/chambers",
+          "spanishSpan": "sus techos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022013010",
+            "h24022013011",
+            "h24022013012",
+            "h24022013013",
+            "h24022013014"
+          ],
+          "issue": "adds 'explota' concept and restructures; tokens only license 'makes neighbor work for nothing and does not give his wages'",
+          "spanishSpan": "quien explota a su prójimo sin pagarle su jornal"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso tú te coronarás con la cedra, pues tu padre comió y bebió, y juzgó y administró justicia, y le fue bien?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022015001",
+            "h24022015004",
+            "h24022015005"
+          ],
+          "issue": "Spanish renders מלך + מתחרה בארז as 'te coronarás con la cedra'; tokens license 'reign' + 'rivaling/competing with the cedar'",
+          "spanishSpan": "te coronarás con la cedra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022015010",
+            "h24022015011",
+            "h24022015012"
+          ],
+          "issue": "Spanish splits and expands עשה משפט וצדקה into 'juzgó y administró justicia'",
+          "spanishSpan": "juzgó y administró justicia"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Juzga al quebrantado y al necesitado, y será bien para ti. ¿Acaso no conoce esto mi Señor? dice Jehová.",
+      "notes": "multiple token mismatches and added/omitted participants",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022016001"
+          ],
+          "issue": "qal perfect 3ms rendered as 2s imperative",
+          "spanishSpan": "Juzga"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022016003"
+          ],
+          "issue": "עָנִי rendered as quebrantado instead of poor/afflicted",
+          "spanishSpan": "quebrantado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022016005",
+            "h24022016006"
+          ],
+          "issue": "אָז טוֹב expanded to será bien para ti (adds second-person beneficiary absent from tokens)",
+          "spanishSpan": "y será bien para ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022016007",
+            "h24022016008",
+            "h24022016009",
+            "h24022016010"
+          ],
+          "issue": "הֲלוֹא הִיא הַדַּעַת אֹתִי restructured as question about Señor knowing esto (reverses participants and adds concepts)",
+          "spanishSpan": "¿Acaso no conoce esto mi Señor?"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque tus ojos y tu corazón están sólo sobre tu propia codicia, y sobre derramar sangre inocente, y sobre oprimir al pobre y al extranjero para hacerlo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022017014",
+            "h24022017016"
+          ],
+          "issue": "adds 'al pobre y al extranjero' with no token support",
+          "spanishSpan": "oprimir al pobre y al extranjero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022017008"
+          ],
+          "issue": "adds 'propia' not licensed by בִּצְעֶךָ",
+          "spanishSpan": "tu propia codicia"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, así dice Jehová acerca de Joaquín, hijo de Josías, rey de Judá: No se lamentará por él, ¡ay hermano! y ¡ay hermana! No se lamentará por él, ¡ay señor! y ¡ay amigo!",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022018012",
+            "h24022018019"
+          ],
+          "issue": "3mp imperfect rendered as singular 'se lamentará' instead of plural",
+          "spanishSpan": "No se lamentará por él"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022018024"
+          ],
+          "issue": "הֹדֹה (his splendor) rendered as 'amigo'",
+          "spanishSpan": "¡ay amigo!"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Será enterrado como el de un asno, se lo llevará y lo arrojará más allá de las puertas de Jerusalén.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022019004"
+          ],
+          "issue": "סָחוֹב (drag) rendered as 'se lo llevará' (take/carry away), adding unlicensed verb and omitting drag concept",
+          "spanishSpan": "se lo llevará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022019001",
+            "h24022019002"
+          ],
+          "issue": "construct chain קְבוּרַת חֲמוֹר rendered with added interpretive 'como el de'",
+          "spanishSpan": "como el de un asno"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sube a Líbano y clama, y en Basán haz sonar tu voz, y clama desde el otro lado del mar, porque se han quebrantado todos tus amantes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022020008"
+          ],
+          "issue": "renders proper noun מעברים (Abarim) as interpretive phrase 'desde el otro lado del mar' adding 'del mar' absent from tokens",
+          "spanishSpan": "desde el otro lado del mar"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Hablé contigo en tu paz, dije: No escucharé. Ese ha sido tu camino desde tu juventud, porque no has escuchado mi voz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022021002"
+          ],
+          "issue": "אֵלַיִךְ rendered as 'contigo' (with you) instead of 'a ti' (to you)",
+          "spanishSpan": "Hablé contigo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022021003"
+          ],
+          "issue": "בְּשַׁלְוֺתַיִךְ rendered as 'en tu paz' (adds peace concept not licensed by lemma)",
+          "spanishSpan": "en tu paz"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022021004"
+          ],
+          "issue": "אָמַ֖רְתְּ (2fs) rendered as 'dije' (1cs) instead of 'dijiste'; shifts speaker/participant",
+          "spanishSpan": "dije"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todos tus pastores te pastorearán el viento, y tus amantes irán en cautiverio. Entonces te avergonzarás y quedarás confundida por todas tus malas acciones.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022022002",
+            "h24022022003",
+            "h24022022004"
+          ],
+          "issue": "subject inversion: Spanish makes shepherds the subject pasturing wind; tokens make wind (רוּחַ) the subject of תִּרְעֶה acting on the shepherds",
+          "spanishSpan": "Todos tus pastores te pastorearán el viento"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022022003"
+          ],
+          "issue": "adds direct object 'te' not present in the tokens",
+          "spanishSpan": "te pastorearán"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Yo me senté en el Líbano, me senté en los cedros. ¿Qué placer has tenido en venir a ti con cuerdas, como una mujer que da a luz?",
+      "notes": "Spanish bears no relation to the supplied tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022023001",
+            "h24022023002"
+          ],
+          "issue": "Spanish renders as first-person 'Yo me senté' instead of second-person feminine address to one dwelling in Lebanon/cedars",
+          "spanishSpan": "Yo me senté en el Líbano, me senté en los cedros"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022023004"
+          ],
+          "issue": "Spanish introduces 'placer has tenido' absent from Niphal 2fs perfect of חנן",
+          "spanishSpan": "¿Qué placer has tenido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022023007"
+          ],
+          "issue": "Spanish renders חבלים as 'cuerdas' (ropes) instead of birth pangs/context",
+          "spanishSpan": "con cuerdas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022023005",
+            "h24022023006"
+          ],
+          "issue": "Spanish adds 'venir a ti' not licensed by the infinitive construct + 2fs suffix",
+          "spanishSpan": "en venir a ti"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Vivo yo, dice el SEÑOR, si no hay un selo en la mano derecha de Jehoiakim, rey de Judá, Kanías hijo de, porque de allí te llevaré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022024007",
+            "h24022024008",
+            "h24022024009",
+            "h24022024010",
+            "h24022024011",
+            "h24022024012",
+            "h24022024013",
+            "h24022024014",
+            "h24022024015",
+            "h24022024016"
+          ],
+          "issue": "restructures clause and attributes seal to Jehoiakim instead of Coniah being the seal on the speaker's hand",
+          "spanishSpan": "si no hay un selo en la mano derecha de Jehoiakim, rey de Judá, Kanías hijo de"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022024019"
+          ],
+          "issue": "wrong verb sense: 'llevaré' for tearing/pulling off",
+          "spanishSpan": "de allí te llevaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022024006",
+            "h24022024007"
+          ],
+          "issue": "inserts negation 'no hay' not present in conditional",
+          "spanishSpan": "si no hay"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 26,
+      "stage": "lint",
+      "verdict": "fail",
+      "spanish": "Y te echaré, y a tu madre que te parió, en tierra extraña, donde no nacisteis, y allí moriréis.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [],
+          "issue": "archaic parir",
+          "spanishSpan": "parió"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Es este el hombre que humilló y quebró? ¿Es un vaso sin valor? ¿Por qué ha sido arrojado él y su descendencia en la tierra que no conocen?",
+      "notes": "second clause and final clause are closer but first clause alone forces fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022028001",
+            "h24022028002",
+            "h24022028003",
+            "h24022028004",
+            "h24022028005",
+            "h24022028006"
+          ],
+          "issue": "misparses Niphal/Qal participles as finite verbs with the man as agent; renders 'despised broken vessel' as 'who humiliated and broke'",
+          "spanishSpan": "¿Es este el hombre que humilló y quebró?"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022028006"
+          ],
+          "issue": "omits the proper name כָּנְיָהוּ entirely",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tierra, tierra, tierra, Shimei ha hablado la palabra de Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022029004"
+          ],
+          "issue": "renders imperative 2fs verb as proper name Shimei",
+          "spanishSpan": "Shimei"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022029004"
+          ],
+          "issue": "changes qal imperative 2fs to perfect 3ms ha hablado",
+          "spanishSpan": "ha hablado"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová: Escribe al hombre este: estéril, varón que no prosperará en mis días, porque de su descendencia no prosperará ningún hombre que se siente en el trono de David y reine en Judá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022030012"
+          ],
+          "issue": "person mismatch: 3ms suffix 'his days' rendered as 'mis días' (1cs)",
+          "spanishSpan": "en mis días"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022030004"
+          ],
+          "issue": "number mismatch: 2mp imperative rendered as 2s 'Escribe'",
+          "spanishSpan": "Escribe"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El que dice: Construiré para mí una casa grande y espaciosa, con ventanas y techos de cedro y pintura de rojo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022014005"
+          ],
+          "issue": "adds 'grande' not licensed by any token",
+          "spanishSpan": "grande"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022014006"
+          ],
+          "issue": "renders עֲלִיּוֹת as 'techos' (roofs/ceilings) instead of upper rooms/chambers",
+          "spanishSpan": "techos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24022014008",
+            "h24022014009",
+            "h24022014010"
+          ],
+          "issue": "omits entirely the clause with קָרַע לוֹ חַלּוֹנָי",
+          "spanishSpan": ""
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T23:45:12.294638+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 29,
+    "verses": 29,
+    "input": 68062,
+    "cachedInput": 24576,
+    "output": 4020,
+    "reasoning": 24495,
+    "usd": 0.2703,
+    "byProvider": {
+      "xai": {
+        "calls": 29,
+        "input": 68062,
+        "output": 4020,
+        "reasoning": 24495,
+        "usd": 0.2703
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 29,
+        "input": 68062,
+        "output": 4020,
+        "reasoning": 24495,
+        "usd": 0.2703
+      }
+    },
+    "usdPerVerse": 0.0093,
+    "bibleAtThisRate": 290.0,
+    "book": "jeremias",
+    "chapter": 22
+  }
+}

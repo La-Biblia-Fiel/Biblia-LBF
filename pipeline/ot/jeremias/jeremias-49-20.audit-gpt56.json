@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:20",
+  "chapter": 49,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso escuchen la conseja de Jehová que ha dado a Edom y sus planes que ha planeado contra los habitantes del sur. ¿Acaso no los han despojado los pastores jóvenes? ¿Acaso no han establecido sus rebaños sobre ellos?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049020006"
+      ],
+      "issue": "יָעַץ rendered as 'ha dado' (give) instead of counsel/plan",
+      "spanishSpan": "que ha dado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049020014"
+      ],
+      "issue": "תֵּימָן rendered interpretively as 'del sur' instead of keeping the proper name",
+      "spanishSpan": "del sur"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049020017"
+      ],
+      "issue": "יִסְחָבוּם (drag off) rendered as 'despojado'",
+      "spanishSpan": "los han despojado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049020018",
+        "h24049020019"
+      ],
+      "issue": "צְעִירֵי הַצֹּאן (young of the flock) rendered as 'pastores jóvenes'",
+      "spanishSpan": "los pastores jóvenes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049020022",
+        "h24049020024"
+      ],
+      "issue": "יַשִּׁים ... נְוֵהֶם (make desolate their habitation) rendered as 'han establecido sus rebaños'",
+      "spanishSpan": "han establecido sus rebaños"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

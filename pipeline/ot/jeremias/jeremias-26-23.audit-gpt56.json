@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:23",
+  "chapter": 26,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sacaron a Urías de Egipto y lo llevaron al rey Joaquín, y lo golpearon con la espada y arrojaron su cadáver entre los sepulcros de los hombres comunes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026023009",
+        "h24026023011"
+      ],
+      "issue": "morphology 3ms verbs rendered as 3mp (golpearon, arrojaron)",
+      "spanishSpan": "y lo golpearon ... y arrojaron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026023016",
+        "h24026023017"
+      ],
+      "issue": "adds interpretive 'comunes' not licensed by בְּנֵי הָעָם",
+      "spanishSpan": "hombres comunes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

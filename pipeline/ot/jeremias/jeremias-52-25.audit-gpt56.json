@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:25",
+  "chapter": 52,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Y del pueblo tomó un eunuco que estaba encargado de los hombres de guerra, y a siete hombres que veían la faz del rey, que estaban en la ciudad, y al escriba, el jefe del ejército, que contaba al pueblo de la tierra, y a sesenta hombres del pueblo de la tierra que estaban en medio de la ciudad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052025002"
+      ],
+      "issue": "עִיר rendered as 'pueblo' instead of 'ciudad'",
+      "spanishSpan": "del pueblo"
+    }
+  ],
+  "notes": "first clause mismatches city vs people",
+  "discardedUncitedFindings": 0
+}

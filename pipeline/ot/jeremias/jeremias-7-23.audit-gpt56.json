@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:23",
+  "chapter": 7,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero os dije: Escuchad mi voz y yo seré para ustedes por Dios, y ustedes serán para mí por pueblo, y andaréis en todo el camino que yo os mandare, para que os vaya bien.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007023006",
+        "h24007023007",
+        "h24007023008"
+      ],
+      "issue": "adds 'os dije' (I told you) not licensed by tziviti otam leemor (I commanded them saying)",
+      "spanishSpan": "Pero os dije"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007023009",
+        "h24007023015",
+        "h24007023018",
+        "h24007023022",
+        "h24007023023"
+      ],
+      "issue": "uses vosotros conjugations (os, Escuchad, andaréis, mandare) instead of Latin American ustedes forms",
+      "spanishSpan": "os dije... Escuchad... andaréis... os mandare"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007023004",
+        "h24007023005"
+      ],
+      "issue": "omits 'este mandamiento / esta palabra' (ha-davar hazzeh)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "multiple mismatches including wrong Spanish variety",
+  "discardedUncitedFindings": 0
+}

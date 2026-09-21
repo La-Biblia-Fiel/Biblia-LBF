@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:5",
+  "chapter": 38,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "El rey Zedequías respondió: ¡Está en sus manos! Porque el rey no puede hacer nada contra ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038005001"
+      ],
+      "issue": "verb rendered as 'respondió' (answered) instead of licensed 'dijo' (said)",
+      "spanishSpan": "respondió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038005011",
+        "h24038005012"
+      ],
+      "issue": "adds 'hacer ... contra' not present in tokens; 'אתכם דבר' only licenses 'no puede ... nada' without directional 'contra'",
+      "spanishSpan": "hacer nada contra"
+    }
+  ],
+  "notes": "name Zedequías is conventional; 'sus manos' acceptable for 2mp with ustedes",
+  "discardedUncitedFindings": 0
+}

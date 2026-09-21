@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:3",
+  "chapter": 41,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Ishmael también mató a todos los judíos que estaban con Gedalía en Mizpa, y a los caldeos que estaban allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041003001"
+      ],
+      "issue": "adds 'también' with no licensing token",
+      "spanishSpan": "también"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041003016",
+        "h24041003017"
+      ],
+      "issue": "omits אַנְשֵׁי הַמִּלְחָמָה entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:1",
+  "chapter": 3,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso un hombre dejará a su mujer y ella se irá de él para casarse con otro, y volverá a él? ¿No es la tierra contaminada? Y tú, has sido infiel a muchos amantes, y aún vuelves a mí, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003001012",
+        "h24003001013"
+      ],
+      "issue": "reverses who returns to whom (Hebrew: first husband returns to her; Spanish implies she returns to him)",
+      "spanishSpan": "y volverá a él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003001010",
+        "h24003001011"
+      ],
+      "issue": "adds 'para casarse' not licensed by tokens",
+      "spanishSpan": "para casarse con otro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003001022"
+      ],
+      "issue": "renders רֵעִים as 'amantes' (lemma is companion/fellow, not lovers)",
+      "spanishSpan": "muchos amantes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003001026",
+        "h24003001027"
+      ],
+      "issue": "renders נְאֻם יְהֹוָה as 'dice el SEÑOR' instead of oracle/declaration formula",
+      "spanishSpan": "dice el SEÑOR"
+    }
+  ],
+  "notes": "paraphrase alters conditional logic and participant roles",
+  "discardedUncitedFindings": 0
+}

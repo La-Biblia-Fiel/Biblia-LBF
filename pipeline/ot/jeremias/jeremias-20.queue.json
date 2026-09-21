@@ -1,0 +1,625 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 20,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "passed": [
+    18
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Pashhur, hijo de Immer, el sacerdote, y que era gobernador en el templo del Señor, oyó a Jeremías profetizar estas palabras.",
+      "notes": "also minor attachment ambiguity on הַכֹּהֵ֔ן",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020001009"
+          ],
+          "issue": "templo adds unlicensed concept; token is בְּבֵ֣ית (house)",
+          "spanishSpan": "templo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020001010"
+          ],
+          "issue": "Señor instead of conventional Jehová for יהוה",
+          "spanishSpan": "Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020001007",
+            "h24020001008"
+          ],
+          "issue": "combines two distinct nouns into single gobernador",
+          "spanishSpan": "gobernador"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Pashhur golpeó a Jeremías el profeta, y lo puso en la celda que estaba en la puerta de Benjamín, que está en el templo del Señor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020002009"
+          ],
+          "issue": "replaces mahpeket (stocks/pillory) with celda (cell)",
+          "spanishSpan": "en la celda"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020002013"
+          ],
+          "issue": "omits upper (ha'elyon)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y al día siguiente salió Pashhur a Jeremías de la celda, y le dijo Jeremías: No es Pashhur tu nombre que ha llamado el Señor, sino Magor-sensens.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020003003",
+            "h24020003004",
+            "h24020003005",
+            "h24020003006",
+            "h24020003008"
+          ],
+          "issue": "verb and object inverted; Pashhur brings Jeremiah out of the stocks, not 'salió Pashhur a Jeremías de la celda'",
+          "spanishSpan": "salió Pashhur a Jeremías de la celda"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020003008"
+          ],
+          "issue": "הַמַּהְפָּ֑כֶת rendered as 'celda' (cell) instead of stocks/pillory",
+          "spanishSpan": "de la celda"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020003014",
+            "h24020003015",
+            "h24020003016"
+          ],
+          "issue": "word order and participants altered; 'No es Pashhur tu nombre que ha llamado el Señor' does not match 'Jehová ha llamado tu nombre Pashhur'",
+          "spanishSpan": "No es Pashhur tu nombre que ha llamado el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020003019",
+            "h24020003020"
+          ],
+          "issue": "מָג֥וֹר מִסָּבִֽיב rendered as 'Magor-sensens' (wrong spelling and form)",
+          "spanishSpan": "Magor-sensens"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho el Señor: He aquí que te entrego a ti y a todos tus amados en manos de la peste, y caerán a espada a manos de sus enemigos, y tus ojos verán esto; y entregaré a todo Judá en manos del rey de Babilonia, y los llevaré cautivos a Babilonia, y los mataré a espada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020004004"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020004007"
+          ],
+          "issue": "לְמָגוֹר (terror) rendered as 'peste' (plague)",
+          "spanishSpan": "la peste"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020004023",
+            "h24020004025"
+          ],
+          "issue": "3ms verbs (king will exile/strike) shifted to 1cs 'llevaré'/'mataré'",
+          "spanishSpan": "los llevaré cautivos ... los mataré"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y entregaré a toda la ciudad fortaleza, a toda su gente cansada, a toda su riqueza, y a todos los tesoros de los reyes de Judá en manos de sus enemigos, y los saquearán, los tomarán y los llevarán a Babilonia.",
+      "notes": "multiple semantic mismatches in first three objects",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020005004",
+            "h24020005005"
+          ],
+          "issue": "renders חֹסֶן הָעִיר as 'ciudad fortaleza' adding fortress concept not licensed by lemma 2633",
+          "spanishSpan": "toda la ciudad fortaleza"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020005009"
+          ],
+          "issue": "renders יְגִיעָהּ as 'gente cansada' (wrong referent and added concept) instead of labor/product of labor",
+          "spanishSpan": "toda su gente cansada"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú, Pashhur, y todos los que habitan en tu casa, iréis al destierro, y Babilonia os recibirá, y allí moriréis y allí serán enterrados, tú y todos tus amados a quienes has profetizado falsamente.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020006009"
+          ],
+          "issue": "תָּבוֹא (2ms) rendered as Babilonia os recibirá, inverting subject and shifting to plural addressee",
+          "spanishSpan": "Babilonia os recibirá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020006011",
+            "h24020006013"
+          ],
+          "issue": "תָּמוּת (2ms) and תִּקָּבֵר (2ms niphal) rendered as plural moriréis and 3pl passive serán enterrados",
+          "spanishSpan": "moriréis y allí serán enterrados"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Me has endurecido, Jehová, y he sido endurecido; he sido todo el día objeto de risa, y todos me han burlado.",
+      "notes": "first two clauses fail to match lemma/morphology of the פתה and חזק tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020007001",
+            "h24020007003"
+          ],
+          "issue": "Spanish renders פתה (entice/deceive) verbs as endurecer (harden), which is unlicensed by those tokens",
+          "spanishSpan": "Me has endurecido... y he sido endurecido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020007004",
+            "h24020007005"
+          ],
+          "issue": "Spanish assigns חזק + יכל sense to the wrong clause and omits the actual prevail/overpower sequence",
+          "spanishSpan": "Me has endurecido, Jehová, y he sido endurecido"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque desde que hablo, me amenazan; profiero violencia y destrucción, porque la palabra de Jehová para mí es motivo de escarnio y de burla todo el día.",
+      "notes": "second clause matches tokens adequately but first clause fails",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020008002",
+            "h24020008003",
+            "h24020008004",
+            "h24020008005",
+            "h24020008006",
+            "h24020008007"
+          ],
+          "issue": "adds 'me amenazan' (they threaten me) with no corresponding token or participant; changes speaker's 1cs actions into third-party threat",
+          "spanishSpan": "me amenazan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020008002",
+            "h24020008003",
+            "h24020008004"
+          ],
+          "issue": "restructures 'as often as I speak, I cry out' into 'desde que hablo' and inserts external action",
+          "spanishSpan": "desde que hablo, me amenazan"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y he dicho: No hablaré más en su nombre; pero la palabra está como fuego en mi corazón, encendido en mis huesos, y estoy cansado de contenerme, y no puedo.",
+      "notes": "multiple clause-level omissions and one unlicensed insertion",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020009003"
+          ],
+          "issue": "omits licensed concept 'no lo recordaré' (or equivalent)",
+          "spanishSpan": "No hablaré más"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020009001",
+            "h24020009002",
+            "h24020009003",
+            "h24020009004",
+            "h24020009005",
+            "h24020009006",
+            "h24020009007"
+          ],
+          "issue": "restructures and omits first clause sequence, rendering only the 'no speak' portion",
+          "spanishSpan": "No hablaré más en su nombre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020009008",
+            "h24020009009",
+            "h24020009010",
+            "h24020009011",
+            "h24020009012",
+            "h24020009013"
+          ],
+          "issue": "inserts 'la palabra' (no token licenses explicit subject) and smooths participle structure into 'encendido en mis huesos'",
+          "spanishSpan": "pero la palabra está como fuego en mi corazón, encendido en mis huesos"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque he oído la habla de muchos, que me rodean de peligro; díganlo, y verán; todo hombre que ama mi paz se alegra de que yo sea perseguido; quizás serán engañados, y me atacarán, y tomarán venganza de mí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020010007",
+            "h24020010008"
+          ],
+          "issue": "changes 2mp imperative + 1cp cohortative report sequence to 2pl 'díganlo, y verán'",
+          "spanishSpan": "díganlo, y verán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020010010",
+            "h24020010011"
+          ],
+          "issue": "adds 'que ama' not present in 'enosh shelomi'",
+          "spanishSpan": "todo hombre que ama mi paz"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020010012",
+            "h24020010013"
+          ],
+          "issue": "replaces 'watching my stumbling' with rejoicing at persecution",
+          "spanishSpan": "se alegra de que yo sea perseguido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020010015",
+            "h24020010016",
+            "h24020010017"
+          ],
+          "issue": "changes 3ms pual 'he will be enticed' + 1cp 'we will prevail over him' to plural addressees being deceived and attacking speaker",
+          "spanishSpan": "quizás serán engañados, y me atacarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020010018",
+            "h24020010019",
+            "h24020010020"
+          ],
+          "issue": "changes 1cp cohortative 'we will take our revenge from him' to 3pl taking revenge on speaker",
+          "spanishSpan": "tomarán venganza de mí"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el SEÑOR me ha hecho como un valiente guerrero, por eso los que me persiguen tropezarán y no podrán vencerme; se avergonzarán mucho, porque no han entendido nada, y no serán recordados por siempre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020011016",
+            "h24020011017",
+            "h24020011018",
+            "h24020011019"
+          ],
+          "issue": "omits כְּלִמַּת עוֹלָם and changes subject/meaning of לֹא תִשָּׁכֵחַ; Spanish renders pursuers 'not remembered' instead of shame not forgotten",
+          "spanishSpan": "y no serán recordados por siempre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020011015"
+          ],
+          "issue": "adds 'nada' not present in הִשְׂכִּילוּ",
+          "spanishSpan": "no han entendido nada"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El SEÑOR de los ejércitos prueba al justo, examina el corazón y los riñones. Veré la venganza que me corresponde, porque a mí me he declarado inocente ante él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020012009",
+            "h24020012010"
+          ],
+          "issue": "replaces נִקְמָתְךָ מֵהֶם with interpretive phrase that adds 'que me corresponde' and omits 'from them'",
+          "spanishSpan": "la venganza que me corresponde"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020012012",
+            "h24020012013",
+            "h24020012015"
+          ],
+          "issue": "replaces אֵלֶיךָ גִּלִּיתִי אֶת־רִיבִי with unrelated concept of declaring oneself innocent",
+          "spanishSpan": "a mí me he declarado inocente ante él"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cantad al SEÑOR, alabad al SEÑOR, porque ha librado al pobre de la mano de los malvados.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020013001",
+            "h24020013003"
+          ],
+          "issue": "uses vosotros imperative forms (cantad, alabad) instead of Latin-American ustedes",
+          "spanishSpan": "Cantad, alabad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020013002",
+            "h24020013005"
+          ],
+          "issue": "renders יהוה as SEÑOR instead of Jehová",
+          "spanishSpan": "SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020013009",
+            "h24020013010"
+          ],
+          "issue": "omits נפש concept; renders only 'al pobre' instead of 'la vida del necesitado'",
+          "spanishSpan": "al pobre"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Maldito el día en que nací, maldito el día en que mi madre dio a luz a un varón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020014008",
+            "h24020014009"
+          ],
+          "issue": "adds 'a un varón' (male) with no corresponding token or lemma",
+          "spanishSpan": "a un varón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020014010",
+            "h24020014011",
+            "h24020014012"
+          ],
+          "issue": "replaces 'al yehi barukh' (let it not be blessed) with parallel 'maldito'",
+          "spanishSpan": "maldito el día"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Maldito el hombre que ha dicho a mi padre: ‘Has tenido un hijo varón’. Que se alegrara y lo hiciera feliz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020015004"
+          ],
+          "issue": "בשר rendered as 'ha dicho' instead of announcing/bringing news",
+          "spanishSpan": "ha dicho"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020015008",
+            "h24020015009",
+            "h24020015010",
+            "h24020015011"
+          ],
+          "issue": "Pual passive 'was born to you a son male' rendered as active 'Has tenido un hijo varón' shifting subject to father",
+          "spanishSpan": "Has tenido un hijo varón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020015012",
+            "h24020015013"
+          ],
+          "issue": "infinitive absolute + perfect construction rendered with added 'se alegrara' not present in tokens",
+          "spanishSpan": "Que se alegrara y lo hiciera feliz"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ese hombre será como las ciudades que el SEÑOR ha destruido y no ha tenido piedad; y oirá el grito por la mañana y el clamor al mediodía.",
+      "notes": "also 'ha destruido' for 2015 is interpretive but secondary to the pity addition",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020016008",
+            "h24020016009"
+          ],
+          "issue": "adds 'no ha tenido piedad' (pity/mercy) not licensed by lemma 5162 Niphal or morphology",
+          "spanishSpan": "y no ha tenido piedad"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Que no me mató en el vientre, y ella es mi madre para siempre, y mis entrañas son su tumba.",
+      "notes": "Spanish inverts and rewrites the final clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020017005",
+            "h24020017006",
+            "h24020017007",
+            "h24020017008"
+          ],
+          "issue": "reverses participants and meaning of 'and she was to me my mother my grave'",
+          "spanishSpan": "y ella es mi madre para siempre, y mis entrañas son su tumba"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24020017009",
+            "h24020017010",
+            "h24020017011"
+          ],
+          "issue": "omits 'her womb pregnant forever' and substitutes unrelated clause",
+          "spanishSpan": "y mis entrañas son su tumba"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:45:55.046282+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 18,
+    "verses": 18,
+    "input": 44197,
+    "cachedInput": 15424,
+    "output": 3735,
+    "reasoning": 16280,
+    "usd": 0.1853,
+    "byProvider": {
+      "xai": {
+        "calls": 18,
+        "input": 44197,
+        "output": 3735,
+        "reasoning": 16280,
+        "usd": 0.1853
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 18,
+        "input": 44197,
+        "output": 3735,
+        "reasoning": 16280,
+        "usd": 0.1853
+      }
+    },
+    "usdPerVerse": 0.0103,
+    "bibleAtThisRate": 320.0,
+    "book": "jeremias",
+    "chapter": 20
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:34",
+  "chapter": 52,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "Y su comida fue comida continua, que se le daba de parte del rey de Babilonia, por orden de día en su día, hasta el día de su muerte, todos los días de su vida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052034009"
+      ],
+      "issue": "adds interpretive 'por orden' not licensed by דְּבַר (matter/portion)",
+      "spanishSpan": "por orden de día en su día"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

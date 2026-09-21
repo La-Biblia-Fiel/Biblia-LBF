@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:13",
+  "chapter": 27,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué moriréis ustedes y su pueblo con la espada, con el hambre y con la peste, como ha hablado el SEÑOR a los pueblos que no sirven al rey de Babilonia?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027013012"
+      ],
+      "issue": "singular הַגּוֹי changed to plural 'pueblos'",
+      "spanishSpan": "a los pueblos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027013015"
+      ],
+      "issue": "3ms verb יַעֲבֹד forced to plural 'sirven' due to number change",
+      "spanishSpan": "que no sirven"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

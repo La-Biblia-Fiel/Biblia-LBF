@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:33",
+  "chapter": 51,
+  "verse": 33,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho Jehová de los ejércitos, el Dios de Israel: Babilonia será como un sievo en tiempo de siegar; pronto vendrá el tiempo de la siega para ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051033008",
+        "h24051033009"
+      ],
+      "issue": "omits construct 'daughter of' before proper name Babel",
+      "spanishSpan": "Babilonia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051033010"
+      ],
+      "issue": "renders גרן as 'sievo' (wrong noun; goren = threshing floor)",
+      "spanishSpan": "un sievo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051033012"
+      ],
+      "issue": "omits hiphil verb 'he has trodden her' and replaces with unrelated 'tiempo de siegar'",
+      "spanishSpan": "en tiempo de siegar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051033011",
+        "h24051033012",
+        "h24051033013",
+        "h24051033014",
+        "h24051033015",
+        "h24051033016",
+        "h24051033017",
+        "h24051033018"
+      ],
+      "issue": "restructures sequence and timing, adding 'pronto' and collapsing the trodden-then-harvest sequence into one clause",
+      "spanishSpan": "pronto vendrá el tiempo de la siega para ella"
+    }
+  ],
+  "notes": "multiple lexical and structural mismatches",
+  "discardedUncitedFindings": 0
+}

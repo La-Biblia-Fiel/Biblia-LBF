@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:13",
+  "chapter": 31,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces se alegrará la doncella en el vals, y los jóvenes y los ancianos juntos; y convertiré su luto en alegría, y los consolaré, y les haré gozar de su amargura.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031013004"
+      ],
+      "issue": "vals specifies a particular modern dance not licensed by מחול (circle/round dance)",
+      "spanishSpan": "en el vals"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031013012",
+        "h24031013013"
+      ],
+      "issue": "haré gozar de su amargura treats מִיגוֹנָם as object of enjoyment rather than source (from their sorrow)",
+      "spanishSpan": "les haré gozar de su amargura"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

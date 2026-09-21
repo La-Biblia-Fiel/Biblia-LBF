@@ -1,0 +1,810 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 36,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "passed": [
+    2,
+    11,
+    24,
+    27,
+    31
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y aconteció en el cuarto año de Joiaquín, hijo de Josías, rey de Judá, que vino la palabra de Jehová a Jeremías, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036001009"
+          ],
+          "issue": "Spanish inserts 'vino' (came) where token only licenses הָיָה (was)",
+          "spanishSpan": "vino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036001011"
+          ],
+          "issue": "Spanish omits the demonstrative הַזֶּה (this)",
+          "spanishSpan": "la palabra"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Quizás oirán la casa de Judá todas las malas cosas que yo tengo en propósito hacerles, para que cada uno vuelva de su mala senda, y yo perdone sus pecados y sus iniquidades.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036003007"
+          ],
+          "issue": "changes singular noun to plural",
+          "spanishSpan": "todas las malas cosas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036003019"
+          ],
+          "issue": "changes singular noun to plural",
+          "spanishSpan": "sus pecados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036003020"
+          ],
+          "issue": "changes singular noun to plural",
+          "spanishSpan": "sus iniquidades"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y llamó Jeremías a Baruc, hijo de Nerías, y escribió Baruc de la boca de Jeremías todas las palabras de Jehová en el rollo de un libro.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036004015",
+            "h24036004016",
+            "h24036004017"
+          ],
+          "issue": "omits the relative clause אֲשֶׁר דִּבֶּר אֵלָיו (which he spoke to him)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Jeremías ordenó a Baruc: Yo estoy encarcelado, no puedo ir al templo de Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036005011"
+          ],
+          "issue": "renders בֵּית as 'templo' (adds specialized concept not licensed by the lemma 'house')",
+          "spanishSpan": "templo"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tú, en cambio, ve y lee en voz alta en un libro las palabras de Jehová que escribiste de mi boca, en la presencia del pueblo en el templo de Jehová, en el día de ayuno, y también en la presencia de todo Judá que venga de sus ciudades.",
+      "notes": "multiple additions, omissions and interpretive smoothing",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036006001",
+            "h24036006003"
+          ],
+          "issue": "adds 'en cambio' and renders sequential perfects as imperative 've'",
+          "spanishSpan": "Tú, en cambio, ve"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036006004"
+          ],
+          "issue": "renders 'the scroll' as 'en un libro'",
+          "spanishSpan": "en un libro"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036006003"
+          ],
+          "issue": "adds 'en voz alta' not licensed by the verb",
+          "spanishSpan": "lee en voz alta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036006011",
+            "h24036006018"
+          ],
+          "issue": "renders 'in the ears of' as 'en la presencia de'",
+          "spanishSpan": "en la presencia del pueblo ... en la presencia de todo Judá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036006023"
+          ],
+          "issue": "omits the final 'you shall read them'",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Quizás oren a Jehová y se conviertan cada uno de su mala senda, porque grande es el enojo y la ira que Jehová ha hablado contra este pueblo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036007002",
+            "h24036007003"
+          ],
+          "issue": "replaces 'caiga su súplica' (fall of supplication) with 'oren' (pray), adding unlicensed verb and concept",
+          "spanishSpan": "Quizás oren"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Baruc, hijo de Nerías, hizo según Jeremías el profeta le había ordenado; leyó en el libro las palabras de Jehová en el templo de Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036008014",
+            "h24036008015"
+          ],
+          "issue": "adds 'templo' concept not licensed by lemma 'house'",
+          "spanishSpan": "templo de Jehová"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y sucedió en el año quinto de Joaquín, hijo de Josías, rey de Judá, en el mes noveno, que se convocó ayuno ante Jehová a todo el pueblo en Jerusalén, y a todo el pueblo de Judá que había venido a Jerusalén.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036009011"
+          ],
+          "issue": "active 3cp קָרְאוּ rendered as impersonal/passive se convocó",
+          "spanishSpan": "se convocó ayuno"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036009021",
+            "h24036009022"
+          ],
+          "issue": "omits מֵעָרֵי and renders as pueblo de Judá instead of from the cities of Judah",
+          "spanishSpan": "todo el pueblo de Judá"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Baruc leyó en el libro las palabras de Jeremías en el templo de Jehová, en la habitación de Gamariah, hijo de Safán, el escriba, en la plaza del palacio, en la puerta nueva del templo de Jehová, en la presencia de todo el pueblo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036010014",
+            "h24036010015"
+          ],
+          "issue": "renders בֶּחָצֵ֣ר הָעֶלְי֗וֹן as 'plaza del palacio' (adds 'palacio' and changes 'court/courtyard' to 'plaza')",
+          "spanishSpan": "en la plaza del palacio"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y fue a la casa del rey, a la habitación del escriba, y he aquí que allí estaban sentados todos los príncipes: Elishama el escriba, Delaía hijo de Semaja, Elnatán hijo de Acbor, Gamariah hijo de Safán, y Zedequías hijo de Hananja, y todos los príncipes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036012001"
+          ],
+          "issue": "verb omits downward motion licensed by yarad (H3381 qal)",
+          "spanishSpan": "Y fue"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Micaías les contó todas las palabras que había oído, cuando Baruc leía en el libro en la presencia del pueblo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036013012"
+          ],
+          "issue": "renders בְּאָזְנֵי הָעָם as 'en la presencia del pueblo', substituting 'presence' for the licensed 'ears'",
+          "spanishSpan": "en la presencia del pueblo"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y todos los príncipes enviaron a Baruc a decirle: El libro que leíste en voz alta en la presencia del pueblo, tómalo en tu mano y ven. Y Baruc, hijo de Nerías, tomó el libro en su mano y vino a ellos.",
+      "notes": "Spanish collapses the sender chain and alters אזני",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036014007",
+            "h24036014008",
+            "h24036014009",
+            "h24036014010",
+            "h24036014011",
+            "h24036014012",
+            "h24036014013"
+          ],
+          "issue": "omits the entire chain Yehudi ben Nethaniah ben Shelemiah ben Cushi who was sent",
+          "spanishSpan": "enviaron a Baruc a decirle"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036014019",
+            "h24036014020"
+          ],
+          "issue": "renders בְּאָזְנֵי הָעָם as 'en la presencia del pueblo' instead of 'in the ears of the people'",
+          "spanishSpan": "en la presencia del pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036014017"
+          ],
+          "issue": "adds 'en voz alta' not present in the tokens",
+          "spanishSpan": "en voz alta"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y le dijeron: Siéntate aquí y lee en voz alta en nuestra presencia. Y Baruc leyó en voz alta en su presencia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036015003"
+          ],
+          "issue": "adds 'aquí' with no token support",
+          "spanishSpan": "aquí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036015005",
+            "h24036015007"
+          ],
+          "issue": "adds 'en voz alta' not licensed by qara' lemma",
+          "spanishSpan": "en voz alta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036015006",
+            "h24036015009"
+          ],
+          "issue": "renders 'ears' as 'presencia' instead of preserving 'oídos'",
+          "spanishSpan": "presencia"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando oyeron todas las palabras, temieron cada uno a su compañero, y dijeron a Baruc: Anuncia a un príncipe a Jehová todas estas palabras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036016015",
+            "h24036016013",
+            "h24036016014"
+          ],
+          "issue": "replaces לַמֶּלֶךְ and the hiphil report construction with 'a un príncipe a Jehová'",
+          "spanishSpan": "Anuncia a un príncipe a Jehová"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036016007",
+            "h24036016008",
+            "h24036016009"
+          ],
+          "issue": "renders אִישׁ אֶל רֵעֵהוּ as 'cada uno a su compañero' (adds interpretive 'compañero' for רֵעַ)",
+          "spanishSpan": "temieron cada uno a su compañero"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y le preguntaron: Cuéntanos, por favor, cómo escribiste todas estas palabras de su boca.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036017002"
+          ],
+          "issue": "omits the proper name בָּרוּךְ (Baruch) as the direct object of the asking",
+          "spanishSpan": "Y le preguntaron"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Baruc les dijo: De su boca me leyó estas palabras, y yo las escribí en el libro con tinta.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036018005"
+          ],
+          "issue": "changes qal imperfect 3ms to perfect past tense",
+          "spanishSpan": "me leyó"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036018012"
+          ],
+          "issue": "changes qal active participle to perfect past tense",
+          "spanishSpan": "las escribí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036018008"
+          ],
+          "issue": "omits כל all",
+          "spanishSpan": "estas palabras"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los príncipes dijeron a Baruc: Ve, ocúltate tú y Jeremías, y que nadie sepa dónde están.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036019013"
+          ],
+          "issue": "2mp address 'you (pl) are' rendered as 3pl 'están' (third-party reference)",
+          "spanishSpan": "dónde están"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y fueron al rey a la sala de invierno, y pusieron la hoja en la habitación de Elisama el escriba, y se la dijeron al rey.",
+      "notes": "multiple unlicensed additions/omissions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036020004"
+          ],
+          "issue": "adds 'de invierno' with no token support; חָצֵרָה is court/yard",
+          "spanishSpan": "a la sala de invierno"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036020006"
+          ],
+          "issue": "renders מְגִלָּה as 'hoja' (leaf) instead of scroll/roll",
+          "spanishSpan": "la hoja"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036020015",
+            "h24036020016"
+          ],
+          "issue": "omits כָּל הַדְּבָרִים entirely",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el rey envió a un judío a que la tomara, y él la tomó de la habitación de Elisama el escriba, y el judío la leyó en la presencia del rey y de todos los príncipes que estaban delante del rey.",
+      "notes": "name substitution is decisive fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036021004",
+            "h24036021013"
+          ],
+          "issue": "proper name יְהוּדִי rendered as common noun 'un judío' / 'el judío'",
+          "spanishSpan": "un judío ... el judío"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24036021014",
+            "h24036021016"
+          ],
+          "issue": "בְּאָזְנֵי 'in the ears of' rendered interpretively as 'en la presencia'",
+          "spanishSpan": "en la presencia"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el rey estaba sentado en la casa de invierno en el mes noveno, y la chimenea ardía delante de él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036022008"
+          ],
+          "issue": "chimenea renders H254 (brazier/hearth) with an unlicensed specific architectural sense",
+          "spanishSpan": "la chimenea"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando el judío leyó, cortó tres piezas y cuatro con la tijera del escriba, y las echó en la chimenea delante de él, hasta que toda la hoja fue consumida en la chimenea delante de él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036023003"
+          ],
+          "issue": "proper name Yehudi rendered as generic 'el judío'",
+          "spanishSpan": "el judío"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036023004",
+            "h24036023005",
+            "h24036023006"
+          ],
+          "issue": "adds 'piezas' not present in tokens; 'dəlātôt' left unresolved",
+          "spanishSpan": "tres piezas y cuatro"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036023008",
+            "h24036023009"
+          ],
+          "issue": "תַּעַר rendered as 'tijera' (scissors) instead of razor/knife",
+          "spanishSpan": "con la tijera del escriba"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036023012",
+            "h24036023015",
+            "h24036023021",
+            "h24036023024"
+          ],
+          "issue": "adds repeated 'delante de él' and 'chimenea' not licensed by אֵשׁ/אָח",
+          "spanishSpan": "delante de él"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036023019"
+          ],
+          "issue": "מְגִלָּה rendered as 'hoja' instead of scroll/roll",
+          "spanishSpan": "toda la hoja"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y también a Elneatán y a Delajahu y a Gemarjahu se les dio orden de no quemar la hoja, pero no le hicieron caso.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036025005",
+            "h24036025006",
+            "h24036025007",
+            "h24036025008"
+          ],
+          "issue": "reverses participants and action: Hebrew has the three men interceding with the king not to burn; Spanish says an order was given to the three",
+          "spanishSpan": "se les dio orden de no quemar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036025012",
+            "h24036025013"
+          ],
+          "issue": "wrong subject for 'not listen': Hebrew has the king not listening to them; Spanish has the three not heeding",
+          "spanishSpan": "pero no le hicieron caso"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24036025010"
+          ],
+          "issue": "megillah rendered as 'hoja' (leaf) instead of scroll/roll",
+          "spanishSpan": "la hoja"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el rey mandó a Jerameel hijo del rey, y a Serajahu hijo de Azriel, y a Selamjahu hijo de Abdeel, que tomaran a Baruc el escriba y a Jeremías el profeta, y los escondieron a ellos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036026022",
+            "h24036026023"
+          ],
+          "issue": "attributes hiding to unspecified 'ellos' instead of YHWH as subject",
+          "spanishSpan": "y los escondieron a ellos"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Toma otra hoja y escribe en ella todas las palabras que estaban en la hoja primera que el rey Joaquín quemó.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036028001"
+          ],
+          "issue": "omits licensed imperative שׁוּב (return/again) before the take command",
+          "spanishSpan": "Toma"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás a Joaquín, rey de Judá, que dice Jehová: Tú quemaste la hoja, diciendo: ¿Por qué escribiste diciendo que vendrá un rey de Babilonia y destruirá esta tierra y la desolará de hombres y animales?",
+      "notes": "multiple token mismatches in structure and lexical choice",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036029006",
+            "h24036029007",
+            "h24036029008"
+          ],
+          "issue": "omits כֹּה and restructures אָמַר יְהוָה into subordinate 'que dice Jehová'",
+          "spanishSpan": "que dice Jehová"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036029012",
+            "h24036029013"
+          ],
+          "issue": "renders הַמְּגִלָּה הַזֹּאת as 'la hoja' (omits demonstrative and uses imprecise noun)",
+          "spanishSpan": "la hoja"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036029001",
+            "h24036029002",
+            "h24036029003",
+            "h24036029004",
+            "h24036029005"
+          ],
+          "issue": "restructures וְעַל־יְהוֹיָקִים מֶלֶךְ יְהוּדָה תֹּאמַר into 'dirás a Joaquín, rey de Judá, que dice'",
+          "spanishSpan": "Y dirás a Joaquín, rey de Judá, que dice Jehová"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, dice Jehová acerca de Joaquín, rey de Judá: No habrá para él un heredero que se siente en el trono de David, y su cadáver será arrojado al montón de la noche y al polvo del día.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036030012"
+          ],
+          "issue": "adds 'heredero' concept absent from ישב participle",
+          "spanishSpan": "un heredero que se siente"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036030019",
+            "h24036030020",
+            "h24036030021",
+            "h24036030022"
+          ],
+          "issue": "replaces חרב/יום/קרח/לילה with 'montón de la noche' and 'polvo del día'",
+          "spanishSpan": "al montón de la noche y al polvo del día"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Jeremías tomó otra hoja y la dio a Baruc, hijo de Nerías, el escriba, y escribió sobre ella de la boca de Jeremías todas las palabras del libro que Joaquín, rey de Judá, quemó en el fuego, y además añadió más palabras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24036032026",
+            "h24036032027",
+            "h24036032028",
+            "h24036032029",
+            "h24036032030"
+          ],
+          "issue": "niphal passive 'were added' rendered as active 'añadió'; 'many words like them' reduced to 'más palabras', omitting 'like them' and changing quantity",
+          "spanishSpan": "y además añadió más palabras"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:52:00.949061+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 32,
+    "verses": 32,
+    "input": 86365,
+    "cachedInput": 27968,
+    "output": 4418,
+    "reasoning": 28946,
+    "usd": 0.331,
+    "byProvider": {
+      "xai": {
+        "calls": 32,
+        "input": 86365,
+        "output": 4418,
+        "reasoning": 28946,
+        "usd": 0.331
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 32,
+        "input": 86365,
+        "output": 4418,
+        "reasoning": 28946,
+        "usd": 0.331
+      }
+    },
+    "usdPerVerse": 0.0103,
+    "bibleAtThisRate": 322.0,
+    "book": "jeremias",
+    "chapter": 36
+  }
+}

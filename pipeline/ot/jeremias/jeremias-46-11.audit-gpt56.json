@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:11",
+  "chapter": 46,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Sube a Galaad y toma bálsamo, virgen de Egipto; sin remedio estás, no hay cura para ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046011006"
+      ],
+      "issue": "omits 'daughter' (בת) from the construct chain בתולת בת מצרים",
+      "spanishSpan": "virgen de Egipto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046011008",
+        "h24046011009",
+        "h24046011010"
+      ],
+      "issue": "omits 'in vain' (לשוא) + plural 'healings/medicines' (רפאות) + 'healing' (תעלה); paraphrases instead of rendering the clause",
+      "spanishSpan": "sin remedio estás"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

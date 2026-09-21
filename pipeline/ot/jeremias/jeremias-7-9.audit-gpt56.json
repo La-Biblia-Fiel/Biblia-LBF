@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:9",
+  "chapter": 7,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Roban, matan, violan, juran falsedad, ofrecen incienso a Baal, y siguen a dioses que no conocen?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007009003"
+      ],
+      "issue": "נָאֹף (H5003 commit adultery) rendered as violan (rape/violate) instead of adulterio",
+      "spanishSpan": "violan"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

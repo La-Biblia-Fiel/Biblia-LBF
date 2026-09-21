@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:10",
+  "chapter": 32,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y escribí en un libro y sellé, y juré ante testigos, y pagué el dinero en balanzas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032010004",
+        "h24032010005"
+      ],
+      "issue": "Hiphil עוד + עדים rendered as 'juré ante testigos' (swore); tokens license only 'caused witnesses to testify' / 'took as witnesses'",
+      "spanishSpan": "y juré ante testigos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032010006",
+        "h24032010007"
+      ],
+      "issue": "שקל + הכסף rendered as 'pagué el dinero' (paid the money); tokens license only 'weighed the silver'",
+      "spanishSpan": "y pagué el dinero"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

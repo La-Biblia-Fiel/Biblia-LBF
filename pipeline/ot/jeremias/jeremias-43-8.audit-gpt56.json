@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 43:8",
+  "chapter": 43,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vino la palabra de Jehová a Jeremías en Tafnes, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043008001"
+      ],
+      "issue": "lemma 1961 is 'to be/happen'; Spanish 'vino' introduces unlicensed motion concept",
+      "spanishSpan": "vino"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

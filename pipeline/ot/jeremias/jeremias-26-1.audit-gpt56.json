@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:1",
+  "chapter": 26,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En el principio del reinado de Joaquín, hijo de Josías, rey de Judá, esta palabra vino de parte del SEÑOR, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026001012"
+      ],
+      "issue": "SEÑOR substitutes title for licensed proper name form Jehová of יהוה",
+      "spanishSpan": "del SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:23",
+  "chapter": 4,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Vi la tierra y estaba vacía y desolada; miré al cielo y no había luz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004023004"
+      ],
+      "issue": "omits והנה / behold",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004023001"
+      ],
+      "issue": "adds second verb miré not present in tokens",
+      "spanishSpan": "miré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004023008"
+      ],
+      "issue": "changes plural heavens to singular cielo",
+      "spanishSpan": "cielo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004023010"
+      ],
+      "issue": "omits 3mp suffix their in their light",
+      "spanishSpan": "luz"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

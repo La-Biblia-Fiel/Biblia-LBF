@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 43:3",
+  "chapter": 43,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque Bendito hijo de Nerías te ha inducido a engañarnos, para que nos entreguemos a los caldeos para que nos maten y nos exilien a Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043003002"
+      ],
+      "issue": "proper name בָּרוּךְ rendered as common adjective 'Bendito' instead of conventional name",
+      "spanishSpan": "Bendito"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043003005",
+        "h24043003007"
+      ],
+      "issue": "מַסִּית ... בָּנוּ changed to 'inducido a engañarnos' (wrong verb and participant structure)",
+      "spanishSpan": "te ha inducido a engañarnos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043003009",
+        "h24043003010",
+        "h24043003011"
+      ],
+      "issue": "תֵּת אֹתָנוּ בְיַד altered to 'nos entreguemos a los caldeos' (voice/participant shift from 'give us' to 'we deliver ourselves')",
+      "spanishSpan": "para que nos entreguemos a los caldeos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043003013",
+        "h24043003014",
+        "h24043003015",
+        "h24043003016"
+      ],
+      "issue": "לְהָמִית אֹתָנוּ וּלְהַגְלֹות אֹתָנוּ changed to purpose clause with 'nos maten y nos exilien'",
+      "spanishSpan": "para que nos maten y nos exilien"
+    }
+  ],
+  "notes": "multiple meaning-altering mismatches",
+  "discardedUncitedFindings": 0
+}

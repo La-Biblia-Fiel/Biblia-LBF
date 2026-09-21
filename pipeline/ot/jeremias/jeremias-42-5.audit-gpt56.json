@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:5",
+  "chapter": 42,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces dijeron a Jeremías: ‘Que el Señor nuestro sea testigo de verdad y de fidelidad. Si no, haremos todo lo que el Señor nuestro Dios te envía a nosotros.’",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042005001"
+      ],
+      "issue": "adds temporal 'Entonces' not present in the tokens",
+      "spanishSpan": "Entonces"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042005018"
+      ],
+      "issue": "changes 2ms suffix 'your God' to 'nuestro Dios'",
+      "spanishSpan": "nuestro Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042005006",
+        "h24042005017"
+      ],
+      "issue": "renders proper name יהוה as 'Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "multiple token mismatches on person and proper name",
+  "discardedUncitedFindings": 0
+}

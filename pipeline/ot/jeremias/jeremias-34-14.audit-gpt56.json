@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:14",
+  "chapter": 34,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Al cabo de siete años, cada uno de ustedes liberará a su hermano hebreo que ha vendido a otro, y lo servirá seis años, y luego lo dejará ir libre. Pero sus padres no me escucharon, ni inclinaron el oído.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034014010",
+        "h24034014011"
+      ],
+      "issue": "reverses niphal passive 'sold to you' into active 'ha vendido a otro'",
+      "spanishSpan": "que ha vendido a otro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034014012",
+        "h24034014015",
+        "h24034014017"
+      ],
+      "issue": "changes 2ms 'you' suffixes to 3rd-person referents",
+      "spanishSpan": "lo servirá ... lo dejará ir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034014020"
+      ],
+      "issue": "renders 2mp 'your fathers' as 3rd-person 'sus padres'",
+      "spanishSpan": "sus padres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034014004",
+        "h24034014015"
+      ],
+      "issue": "2mp address rendered with inconsistent 3s verbs after 'cada uno'",
+      "spanishSpan": "cada uno de ustedes liberará ... lo dejará"
+    }
+  ],
+  "notes": "multiple participant and voice mismatches",
+  "discardedUncitedFindings": 0
+}

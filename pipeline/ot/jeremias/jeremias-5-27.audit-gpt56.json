@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:27",
+  "chapter": 5,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Como la jaula llena de pájaros, así sus casas están llenas de engaño; por eso se han enriquecido y se han engrandecido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005027010",
+        "h24005027011"
+      ],
+      "issue": "reverses sequence of גָּדְל֖וּ then וַֽיַּעֲשִֽׁירוּ",
+      "spanishSpan": "se han enriquecido y se han engrandecido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

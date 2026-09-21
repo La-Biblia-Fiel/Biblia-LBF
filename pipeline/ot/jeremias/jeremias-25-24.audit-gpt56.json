@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:24",
+  "chapter": 25,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a todos los reyes del desierto, y a todos los reyes de Egipto que habitan en el desierto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025024004"
+      ],
+      "issue": "renders עֲרָ֑ב as 'del desierto' (adds desert concept absent from token)",
+      "spanishSpan": "del desierto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025024008"
+      ],
+      "issue": "renders הָעֶ֔רֶב as 'de Egipto' (adds Egypt concept; lemma H6154a is mixed/multitude or Arabia, not Egypt)",
+      "spanishSpan": "de Egipto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025024009",
+        "h24025024010"
+      ],
+      "issue": "applies 'que habitan en el desierto' to both clauses and restructures participants; the desert dwellers modifier applies only to the second group",
+      "spanishSpan": "que habitan en el desierto"
+    }
+  ],
+  "notes": "introduces Egypt and desert where tokens do not license",
+  "discardedUncitedFindings": 0
+}

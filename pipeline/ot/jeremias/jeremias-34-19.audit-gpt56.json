@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:19",
+  "chapter": 34,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Los líderes de Judá y de Jerusalén, los eunucos, los sacerdotes y todo el pueblo de la tierra, que han pasado por entre las partes del toro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034019013"
+      ],
+      "issue": "replaces lemma עֵגֶל (calf) with toro (bull)",
+      "spanishSpan": "del toro"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:31",
+  "chapter": 25,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque viene un estruendo hasta el extremo de la tierra, porque el Señor tiene pleito con las naciones; juzgará a todos los hombres. Dará a los malvados a la espada. Así dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025031008",
+        "h24025031018"
+      ],
+      "issue": "יהוה rendered as Señor instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025031015"
+      ],
+      "issue": "qal perfect נְתָנָם changed to future Dará",
+      "spanishSpan": "Dará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

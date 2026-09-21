@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:31",
+  "chapter": 50,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Miren, yo me enfrento a ti, Babilonia, dice el Señor, el Dios de los ejércitos, porque ha llegado tu día, el tiempo de tu castigo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050031003"
+      ],
+      "issue": "omits זָדוֹן entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050031001"
+      ],
+      "issue": "renders הִנְנִי as plural imperative 'Miren'",
+      "spanishSpan": "Miren"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050031001",
+        "h24050031002",
+        "h24050031003"
+      ],
+      "issue": "inserts 'Babilonia' with no token licensing the name",
+      "spanishSpan": "Babilonia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

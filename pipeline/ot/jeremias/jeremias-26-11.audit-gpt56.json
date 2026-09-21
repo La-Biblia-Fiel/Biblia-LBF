@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:11",
+  "chapter": 26,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los sacerdotes y los profetas dijeron a los señores y a todo el pueblo: Este hombre merece la muerte, porque ha profetizado contra esta ciudad, como han oído con sus oídos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026011020"
+      ],
+      "issue": "2mp verb rendered as 3rd-person plural instead of 2nd-person plural address to the addressees",
+      "spanishSpan": "han oído"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026011010",
+        "h24026011011",
+        "h24026011012",
+        "h24026011013"
+      ],
+      "issue": "adds interpretive 'merece' not licensed by the construct chain mishpat-mavet la'ish hazzeh",
+      "spanishSpan": "merece la muerte"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:15",
+  "chapter": 51,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "El que hace la tierra con su fuerza, que funda los confines de la misma con su sabiduría, y que extiende los cielos con su inteligencia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051015005",
+        "h24051015004"
+      ],
+      "issue": "replaces תֵּבֵל with 'confines de la misma' (referring to אֶרֶץ) instead of licensing the distinct noun",
+      "spanishSpan": "funda los confines de la misma"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051015005"
+      ],
+      "issue": "omits the licensed concept תֵּבֵל",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

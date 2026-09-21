@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:1",
+  "chapter": 41,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En el séptimo mes, Ishmael hijo de Nethaniah, hijo de Elishama, de la familia real, y diez hombres con él, vinieron a Gedalía hijo de Achikam en Mizpa. Comieron allí pan con él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041001012",
+        "h24041001013"
+      ],
+      "issue": "omits וְרַבֵּ֨י הַמֶּ֜לֶךְ (officers/captains of the king)",
+      "spanishSpan": "y diez hombres con él"
+    }
+  ],
+  "notes": "also renders plural subject for singular בָּ֣א and omits יַחְדָּו",
+  "discardedUncitedFindings": 0
+}

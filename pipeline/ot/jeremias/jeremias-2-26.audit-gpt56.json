@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:26",
+  "chapter": 2,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "La vergüenza del ladrón es cuando se le encuentra; así ha sido la vergüenza de la casa de Israel, porque sus reyes, sus príncipes, sus sacerdotes y sus profetas han sido ladrones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002026006"
+      ],
+      "issue": "Spanish replaces 'they have been ashamed' with 'han sido ladrones' and adds 'porque'",
+      "spanishSpan": "porque sus reyes... han sido ladrones"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002026005",
+        "h24002026006",
+        "h24002026007"
+      ],
+      "issue": "Spanish alters 'so the house of Israel has been ashamed' to 'así ha sido la vergüenza de la casa de Israel'",
+      "spanishSpan": "así ha sido la vergüenza de la casa de Israel"
+    }
+  ],
+  "notes": "major semantic shift not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

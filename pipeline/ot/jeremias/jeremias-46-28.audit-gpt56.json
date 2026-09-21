@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:28",
+  "chapter": 46,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Tú, no temas, siervo mío Jacob, dice el Señor, porque contigo estoy, para que te haga todo bien a todas las naciones a las cuales te he echado, y a ti no te haré todo bien; y te castigaré con juicio, y no te limpiaré de impiedad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046028013",
+        "h24046028022"
+      ],
+      "issue": "כָלָה rendered as 'todo bien' (adds positive concept; tokens indicate complete destruction)",
+      "spanishSpan": "todo bien"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046028025",
+        "h24046028026",
+        "h24046028027"
+      ],
+      "issue": "adds 'de impiedad' not present in tokens; נקה only licenses 'cleanse' without object specification",
+      "spanishSpan": "de impiedad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046028006",
+        "h24046028007"
+      ],
+      "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' (wrong lemma and name form)",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

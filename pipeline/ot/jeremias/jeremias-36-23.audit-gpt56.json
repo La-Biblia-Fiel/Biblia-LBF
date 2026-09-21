@@ -1,0 +1,61 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:23",
+  "chapter": 36,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando el judío leyó, cortó tres piezas y cuatro con la tijera del escriba, y las echó en la chimenea delante de él, hasta que toda la hoja fue consumida en la chimenea delante de él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036023003"
+      ],
+      "issue": "proper name Yehudi rendered as generic 'el judío'",
+      "spanishSpan": "el judío"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036023004",
+        "h24036023005",
+        "h24036023006"
+      ],
+      "issue": "adds 'piezas' not present in tokens; 'dəlātôt' left unresolved",
+      "spanishSpan": "tres piezas y cuatro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036023008",
+        "h24036023009"
+      ],
+      "issue": "תַּעַר rendered as 'tijera' (scissors) instead of razor/knife",
+      "spanishSpan": "con la tijera del escriba"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036023012",
+        "h24036023015",
+        "h24036023021",
+        "h24036023024"
+      ],
+      "issue": "adds repeated 'delante de él' and 'chimenea' not licensed by אֵשׁ/אָח",
+      "spanishSpan": "delante de él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036023019"
+      ],
+      "issue": "מְגִלָּה rendered as 'hoja' instead of scroll/roll",
+      "spanishSpan": "toda la hoja"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

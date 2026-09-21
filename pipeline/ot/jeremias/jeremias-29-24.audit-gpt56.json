@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:24",
+  "chapter": 29,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a Semajah el adivino dirás: Así ha dicho Jehová:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029024003"
+      ],
+      "issue": "הַנֶּחֱלָמִ֖י (gentilic Nehelamite) rendered as 'el adivino' (adds unauthorized meaning)",
+      "spanishSpan": "el adivino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029024001",
+        "h24029024002",
+        "h24029024003",
+        "h24029024004",
+        "h24029024005"
+      ],
+      "issue": "Spanish adds 'Así ha dicho Jehová:' with no corresponding tokens in packet",
+      "spanishSpan": "Así ha dicho Jehová:"
+    }
+  ],
+  "notes": "name spelling and 2ms verb are minor; main mismatches are the two above",
+  "discardedUncitedFindings": 0
+}

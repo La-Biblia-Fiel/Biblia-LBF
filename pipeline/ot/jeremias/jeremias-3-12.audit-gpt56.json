@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:12",
+  "chapter": 3,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Ve y anuncia estas palabras al norte, y di: Vuelve, desviada Israel, dice el Señor. No me enfadaré contigo para siempre, porque soy bondadoso, dice el Señor, no me guardaré para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003012012",
+        "h24003012021"
+      ],
+      "issue": "יהוה rendered as title 'Señor' instead of conventional Jehová",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003012016"
+      ],
+      "issue": "2mp suffix בָּכֶם changed to singular 'contigo'",
+      "spanishSpan": "contigo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003012014",
+        "h24003012015"
+      ],
+      "issue": "hiphil נָפַל idiom interpreted as 'enfadaré' rather than licensed sense",
+      "spanishSpan": "No me enfadaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003012023"
+      ],
+      "issue": "אֶטּוֹר rendered as 'me guardaré' omitting the grudge/anger sense licensed by lemma",
+      "spanishSpan": "no me guardaré"
+    }
+  ],
+  "notes": "multiple token mismatches on name, number, and verbal sense",
+  "discardedUncitedFindings": 0
+}

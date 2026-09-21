@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:20",
+  "chapter": 6,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué me traéis incienso de Saba y aceites preciosos de tierra lejana? Vuestros holocaustos no me son agradables, y vuestros sacrificios no me agradan.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006020006"
+      ],
+      "issue": "verb is 3fs 'it comes', not 2pl 'you bring'",
+      "spanishSpan": "me traéis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006020007",
+        "h24006020008"
+      ],
+      "issue": "renders 'good cane/reed' as 'aceites preciosos'",
+      "spanishSpan": "aceites preciosos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006020011",
+        "h24006020014"
+      ],
+      "issue": "uses 'vuestros' (vosotros possessive) instead of Latin American 'sus/ustedes'",
+      "spanishSpan": "Vuestros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

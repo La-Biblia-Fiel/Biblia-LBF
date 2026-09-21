@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:7",
+  "chapter": 7,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo os habituaré en este lugar, en la tierra que di a vuestros padres desde antiguo hasta siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007007002",
+        "h24007007008"
+      ],
+      "issue": "vosotros forms (os, vuestros) instead of Latin-American ustedes",
+      "spanishSpan": "os habituaré ... vuestros padres"
+    }
+  ],
+  "notes": "verb choice also inexact but vosotros alone triggers fail",
+  "discardedUncitedFindings": 0
+}

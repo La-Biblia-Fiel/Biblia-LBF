@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:22",
+  "chapter": 31,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Hasta cuándo te volverás a esconder, oh hija que te vuelves atrás? Porque SEÑOR ha hecho algo nuevo en la tierra: una mujer rodeará a un hombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031022003"
+      ],
+      "issue": "lemma 2559 חמק rendered as 'esconder' (hide), adding unlicensed concept",
+      "spanishSpan": "te volverás a esconder"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031022008"
+      ],
+      "issue": "proper name יהוה rendered as SEÑOR instead of conventional Jehová",
+      "spanishSpan": "SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

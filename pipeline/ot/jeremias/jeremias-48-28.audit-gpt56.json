@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:28",
+  "chapter": 48,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Abandona las ciudades y vive en las rocas, moradores de Moab. Sé como un cuervo que construye su nido en la entrada de una cueva.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048028008"
+      ],
+      "issue": "יוֹנָה rendered as cuervo instead of paloma/dove",
+      "spanishSpan": "un cuervo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048028001",
+        "h24048028003",
+        "h24048028007"
+      ],
+      "issue": "2mp imperatives rendered as singular (Abandona, vive, Sé) instead of plural address to moradores",
+      "spanishSpan": "Abandona las ciudades y vive... Sé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048028004"
+      ],
+      "issue": "singular סֶלַע rendered as plural rocas",
+      "spanishSpan": "las rocas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048028012",
+        "h24048028010",
+        "h24048028011"
+      ],
+      "issue": "פַחַת + עֶבְרֵי פִי rendered as interpretive entrada de una cueva",
+      "spanishSpan": "en la entrada de una cueva"
+    }
+  ],
+  "notes": "multiple lexical and morphological mismatches",
+  "discardedUncitedFindings": 0
+}

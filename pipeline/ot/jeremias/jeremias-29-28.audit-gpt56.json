@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:28",
+  "chapter": 29,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así me enviasteis a Babilonia, diciendo: La cautividad es larga; edificad casas y vivid en ellas, plantad huertos y comed de sus frutos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029028004",
+        "h24029028005"
+      ],
+      "issue": "person and participant mismatch: Hebrew 3ms subject + 1cp indirect object rendered as 2mp subject + 1cs object",
+      "spanishSpan": "me enviasteis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

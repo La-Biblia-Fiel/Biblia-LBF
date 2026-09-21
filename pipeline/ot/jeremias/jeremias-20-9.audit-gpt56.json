@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:9",
+  "chapter": 20,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y he dicho: No hablaré más en su nombre; pero la palabra está como fuego en mi corazón, encendido en mis huesos, y estoy cansado de contenerme, y no puedo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020009003"
+      ],
+      "issue": "omits licensed concept 'no lo recordaré' (or equivalent)",
+      "spanishSpan": "No hablaré más"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020009001",
+        "h24020009002",
+        "h24020009003",
+        "h24020009004",
+        "h24020009005",
+        "h24020009006",
+        "h24020009007"
+      ],
+      "issue": "restructures and omits first clause sequence, rendering only the 'no speak' portion",
+      "spanishSpan": "No hablaré más en su nombre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020009008",
+        "h24020009009",
+        "h24020009010",
+        "h24020009011",
+        "h24020009012",
+        "h24020009013"
+      ],
+      "issue": "inserts 'la palabra' (no token licenses explicit subject) and smooths participle structure into 'encendido en mis huesos'",
+      "spanishSpan": "pero la palabra está como fuego en mi corazón, encendido en mis huesos"
+    }
+  ],
+  "notes": "multiple clause-level omissions and one unlicensed insertion",
+  "discardedUncitedFindings": 0
+}

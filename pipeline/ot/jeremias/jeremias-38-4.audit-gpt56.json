@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:4",
+  "chapter": 38,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Los oficiales dijeron al rey: ¡Matadle a este hombre! Porque así es que él cura las manos de los soldados que quedan en esta ciudad y las manos de todo el pueblo, hablando a ellos conforme a estas palabras. Porque este hombre no busca el bienestar para este pueblo, sino el mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038004005"
+      ],
+      "issue": "יומת is hophal jussive passive ('let this man be put to death'); Spanish renders as active imperative 'Matadle'",
+      "spanishSpan": "¡Matadle a este hombre!"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038004014"
+      ],
+      "issue": "מְרַפֵּא (piel ptc of רפה 'weaken/slacken hands') rendered as 'cura' (heal)",
+      "spanishSpan": "él cura las manos"
+    }
+  ],
+  "notes": "multiple lexical and voice mismatches",
+  "discardedUncitedFindings": 0
+}

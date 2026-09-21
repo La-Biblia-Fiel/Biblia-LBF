@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:8",
+  "chapter": 2,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Los sacerdotes no dijeron: ¿Dónde está el SEÑOR? Y los que guardan la ley no conocieronme. Y los pastores pecaron contra mí. Y los profetas profetizaron por Baal y lo que no aprovecha anduvieron tras ello.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002008006",
+        "h24002008007"
+      ],
+      "issue": "תֹפְשֵׂי rendered as 'los que guardan' (adds 'guard/keep' sense absent from lemma 8610)",
+      "spanishSpan": "los que guardan la ley"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002008005"
+      ],
+      "issue": "YHWH rendered as title 'SEÑOR' instead of conventional proper name",
+      "spanishSpan": "el SEÑOR"
+    }
+  ],
+  "notes": "minor grammatical inversion in 'conocieronme' is smoothing only",
+  "discardedUncitedFindings": 0
+}

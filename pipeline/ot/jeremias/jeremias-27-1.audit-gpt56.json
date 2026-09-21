@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:1",
+  "chapter": 27,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En el año en que comenzó a reinar Joaquín, hijo de Josías, rey de Judá, vino esta palabra a Jeremías de parte de Jehová, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027001001",
+        "h24027001002"
+      ],
+      "issue": "adds 'año' and 'comenzó a reinar' interpretive paraphrase; tokens only license 'in the beginning of the reign'",
+      "spanishSpan": "En el año en que comenzó a reinar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

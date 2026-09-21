@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:28",
+  "chapter": 32,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, así ha dicho Jehová: He aquí que entrego esta ciudad en manos de los caldeos y en manos de Nabucodonosor, rey de Babilonia, y la tomarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032028016"
+      ],
+      "issue": "changes verb number from 3ms (וּלְכָדָֽהּ) to 3pl (tomarán)",
+      "spanishSpan": "y la tomarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

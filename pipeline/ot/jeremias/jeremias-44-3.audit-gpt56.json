@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:3",
+  "chapter": 44,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Por la maldad que hicieron para enojarme, para ir a quemar incienso a otros dioses que no conocían, ni ustedes ni sus padres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044003011",
+        "h24044003012",
+        "h24044003013",
+        "h24044003014",
+        "h24044003015",
+        "h24044003016"
+      ],
+      "issue": "reverses participants in relative clause: Spanish makes dioses the subject of 'no conocían' while Hebrew makes the people (הֵמָּה) the subject who did not know the gods",
+      "spanishSpan": "otros dioses que no conocían, ni ustedes ni sus padres"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

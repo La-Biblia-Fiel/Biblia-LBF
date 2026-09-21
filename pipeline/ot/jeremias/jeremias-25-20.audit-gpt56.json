@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:20",
+  "chapter": 25,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a todo el país de Egipto, y a todos los reyes de la tierra de Ut, y a todos los reyes de la tierra de los filisteos, y a Ascalón y a Gaza y a Ecrón, y a lo que queda de Asdod.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025020001",
+        "h24025020002",
+        "h24025020003"
+      ],
+      "issue": "adds 'país de Egipto' with no token support; הָעֶרֶב (H6154) is rendered as Egypt",
+      "spanishSpan": "todo el país de Egipto"
+    }
+  ],
+  "notes": "first phrase mismatches tokens",
+  "discardedUncitedFindings": 0
+}

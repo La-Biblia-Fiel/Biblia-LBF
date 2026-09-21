@@ -1,0 +1,1228 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 50,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "passed": [
+    1,
+    3,
+    10,
+    25,
+    41,
+    43
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Anuncien entre las naciones y hagan sonar la trompeta, preparad la señal, hagan sonarla, no la oculten; decidan: Babilonia ha sido tomada, Bel ha sido confundido, Merodac ha sido avergonzado, sus imágenes han sido confundidas, sus ídolos han sido destruidos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050002003"
+          ],
+          "issue": "adds 'la trompeta' with no corresponding token or lemma",
+          "spanishSpan": "hagan sonar la trompeta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050002004",
+            "h24050002005"
+          ],
+          "issue": "verb 'preparad' does not match qal imperative of נשא 'levanten/alcen'",
+          "spanishSpan": "preparad la señal"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050002018",
+            "h24050002019"
+          ],
+          "issue": "lemma חתת (dismayed/terrified) rendered as 'destruidos'",
+          "spanishSpan": "sus ídolos han sido destruidos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050002014",
+            "h24050002015"
+          ],
+          "issue": "lemma חתת (dismayed) rendered as 'avergonzado'",
+          "spanishSpan": "Merodac ha sido avergonzado"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquellos días y en aquel tiempo vendrá el hijo de Israel, vendrá el hijo de Judá juntamente; irán llorando, y buscarán a Jehová su Dios.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050004005",
+            "h24050004006"
+          ],
+          "issue": "omits נְאֻם יְהוָה entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050004007",
+            "h24050004008",
+            "h24050004009",
+            "h24050004010",
+            "h24050004011",
+            "h24050004012"
+          ],
+          "issue": "renders plural בְנֵי ... יָבֹאוּ הֵמָּה as singular 'vendrá el hijo'",
+          "spanishSpan": "vendrá el hijo de Israel, vendrá el hijo de Judá"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sión, pregúntenle el camino; venid y uníos a Jehová en un pacto eterno, que no olvidaréis.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050005002"
+          ],
+          "issue": "3mp imperfect יִשְׁאָ֔לוּ rendered as 2pl imperative addressing Sión",
+          "spanishSpan": "pregúntenle"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050005007"
+          ],
+          "issue": "3cp Niphal וְנִלְו֣וּ rendered as 2pl imperative",
+          "spanishSpan": "uníos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050005012",
+            "h24050005013"
+          ],
+          "issue": "3fs Niphal passive תִשָּׁכֵֽחַ rendered as 2pl active",
+          "spanishSpan": "olvidaréis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050005005"
+          ],
+          "issue": "פְנֵיהֶ֑ם omitted entirely",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mi pueblo era como ovejas perdidas; sus pastores se extraviaron y las guían desde las montañas a las colinas; olvidaron su recinto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050006005"
+          ],
+          "issue": "hiphil 'they caused them to stray' rendered as intransitive 'se extraviaron' (shepherds strayed themselves)",
+          "spanishSpan": "sus pastores se extraviaron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050006007",
+            "h24050006008",
+            "h24050006009",
+            "h24050006010"
+          ],
+          "issue": "perfect 'from mountain to hill they went' changed to present 'las guían desde las montañas a las colinas' with altered participants and direction",
+          "spanishSpan": "y las guían desde las montañas a las colinas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todos los que los encontraron se los comieron, y sus enemigos dijeron: No han sido castigados; porque han pecado contra Jehová, el refugio de la justicia y la esperanza de sus padres, Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050007006",
+            "h24050007007"
+          ],
+          "issue": "לֹא נֶאְשָׁם rendered as 'No han sido castigados' (wrong lemma sense and 3pl instead of 1cp)",
+          "spanishSpan": "No han sido castigados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050007012",
+            "h24050007013",
+            "h24050007014",
+            "h24050007015"
+          ],
+          "issue": "appositive structure and 'refugio' not licensed by נְוֵה צֶדֶק וּמִקְוֵה אֲבוֹתֵיהֶם",
+          "spanishSpan": "el refugio de la justicia y la esperanza de sus padres"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Salid de entre Babilonia y huid de la tierra de los caldeos, y sed como ciervos ante las ovejas.",
+      "notes": "עַתּוּדִים (H6260) licenses goats, not deer",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050008007"
+          ],
+          "issue": "עַתּוּדִים rendered as ciervos (deer) instead of male goats/he-goats",
+          "spanishSpan": "ciervos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050008001",
+            "h24050008004",
+            "h24050008006"
+          ],
+          "issue": "single imperative נודו + והיו split into Salid + huid + sed; adds extra verb not licensed",
+          "spanishSpan": "Salid de entre Babilonia y huid"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque he aquí que yo levanto contra Babilonia un ejército de naciones grandes del norte, y los armaré para que la tomen; sus flechas serán como de un hombre sabio, que no volverá vacío.",
+      "notes": "multiple additions and lexical shifts",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050009013",
+            "h24050009014",
+            "h24050009015",
+            "h24050009016"
+          ],
+          "issue": "adds 'los armaré para que la tomen' with no token support for arming or explicit purpose clause",
+          "spanishSpan": "y los armaré para que la tomen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050009018",
+            "h24050009019"
+          ],
+          "issue": "renders גִּבּוֹר מַשְׂכִּיל as 'hombre sabio' instead of preserving mighty-man + skillful",
+          "spanishSpan": "un hombre sabio"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 11,
+      "stage": "lint",
+      "verdict": "fail",
+      "spanish": "Porque te alegrarás, oh Babilonia, por tu gloria, porque te tomarás como una vaca que parió, y te regocijarás como un toro.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [],
+          "issue": "archaic parir",
+          "spanishSpan": "parió"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 12,
+      "stage": "lint",
+      "verdict": "fail",
+      "spanish": "Tu madre se avergonzará mucho, que te parió; he aquí que eres la última entre las naciones, un desierto y una estepa.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [],
+          "issue": "archaic parir",
+          "spanishSpan": "parió"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por la ira de Jehová no te quedarás, y serás desolación total; todo el que pase por Babilonia se maravillará y se estremecerá por todas sus heridas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050013004",
+            "h24050013005"
+          ],
+          "issue": "Hebrew 3fs verbs rendered as 2s address (te quedarás, serás) instead of 3fs",
+          "spanishSpan": "no te quedarás, y serás"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Arma contra Babilonia de todos lados, todo el que usa arco; no perdonéis a la flecha, porque contra Jehová ha pecado.",
+      "notes": "2mp imperatives/jussive require ustedes morphology",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050014001",
+            "h24050014008",
+            "h24050014011"
+          ],
+          "issue": "uses Spain 2pl verb forms (perdonéis) instead of Latin American ustedes forms",
+          "spanishSpan": "no perdonéis"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Gritad contra ella de todos lados, porque ha dado la mano; han caído, han sido derribados, sus murallas han sido destruidas; porque es la venganza de Jehová, venganza por lo que ha hecho, hacedle lo mismo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050015007",
+            "h24050015008"
+          ],
+          "issue": "adds unlicensed verb phrase 'han sido derribados' between fallen and walls destroyed",
+          "spanishSpan": "han sido derribados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050015017"
+          ],
+          "issue": "uses forbidden vosotros imperative 'hacedle' instead of Latin American 'háganle'",
+          "spanishSpan": "hacedle lo mismo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cortad al sembrador de Babilonia y tomad la siega en tiempo de siega, por causa de la espada del cordero; cada uno volverá a su pueblo y cada uno a su tierra.",
+      "notes": "multiple lexical and verbal mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050016004",
+            "h24050016005",
+            "h24050016006",
+            "h24050016007"
+          ],
+          "issue": "replaces 'and the one handling the sickle at harvest time' with 'tomad la siega en tiempo de siega'",
+          "spanishSpan": "y tomad la siega en tiempo de siega"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050016010"
+          ],
+          "issue": "renders הַיּוֹנָ֔ה (oppressor, H3238) as 'cordero' (lamb)",
+          "spanishSpan": "del cordero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050016014",
+            "h24050016017"
+          ],
+          "issue": "changes 'turn' and 'flee' to 'volverá'",
+          "spanishSpan": "cada uno volverá"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Israel es un cordero disperso; las lobas lo han espantado. El primero lo ha devorado el rey de Asiria y este último, Nabucodonosor, rey de Babilonia, se lo ha comido.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050017004"
+          ],
+          "issue": "אריות (lions) rendered as lobas (she-wolves)",
+          "spanishSpan": "las lobas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050017005"
+          ],
+          "issue": "הדיחו (have driven away) rendered as han espantado (have frightened)",
+          "spanishSpan": "lo han espantado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050017012"
+          ],
+          "issue": "עצמו (has broken his bones) rendered as se lo ha comido (has eaten him)",
+          "spanishSpan": "se lo ha comido"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, así dice el Señor de los ejércitos, el Dios de Israel: He aquí que castigaré a Babilonia y a su tierra, como castigué a Asiria.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050018011",
+            "h24050018018"
+          ],
+          "issue": "omits מֶלֶךְ (king of) for both Babylon and Assyria",
+          "spanishSpan": "a Babilonia ... a Asiria"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050018004"
+          ],
+          "issue": "renders יהוה as Señor instead of Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré volver a Israel a su morada y pastorearé en Carmel, en Bashan, en el monte Efraín y en Gilead, y su alma se saciará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050019006"
+          ],
+          "issue": "shepherd verb rendered 1cs (pastorearé) instead of 3ms",
+          "spanishSpan": "y pastorearé"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquellos días y en aquel tiempo, dice el Señor, se buscará el pecado de Israel, pero no se hallará; y el pecado de Judá, pero tampoco se hallará, porque perdonaré a los que queden.",
+      "notes": "also collapses two distinct negatives into one smoothed clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050020006"
+          ],
+          "issue": "YHWH rendered as 'Señor' instead of licensed Jehová",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050020013"
+          ],
+          "issue": "plural חַטֹּאת rendered as singular 'pecado'",
+          "spanishSpan": "el pecado de Judá"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En la tierra de Merathaim, pastorearé sobre ellos, y tras ellos vendrá la destrucción y el saqueo, dice el Señor, y harás todo lo que te he ordenado.",
+      "notes": "multiple command-to-future and participant shifts; also omits Pekod",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050021004",
+            "h24050021005"
+          ],
+          "issue": "עֲלֵה עָלֶיהָ (qal impv 2ms 'go up against it') rendered as first-person 'pastorearé sobre ellos'",
+          "spanishSpan": "pastorearé sobre ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050021007",
+            "h24050021008"
+          ],
+          "issue": "יוֹשְׁבֵי פְּקוֹד omitted entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050021009",
+            "h24050021010",
+            "h24050021011"
+          ],
+          "issue": "two 2ms imperatives חֲרֹב וְהַחֲרֵם אַחֲרֵיהֶם changed to future passive 'tras ellos vendrá la destrucción y el saqueo'",
+          "spanishSpan": "tras ellos vendrá la destrucción y el saqueo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050021013"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050021009",
+            "h24050021010"
+          ],
+          "issue": "adds 'saqueo' (plunder) not licensed by חרב or החרם",
+          "spanishSpan": "el saqueo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se oye el ruido de la guerra en la tierra y un gran desastre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050022001"
+          ],
+          "issue": "adds unlicensed verb 'Se oye' and full-sentence structure",
+          "spanishSpan": "Se oye el ruido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050022004"
+          ],
+          "issue": "renders שבר as 'desastre' (interpretive noun) instead of licensed 'quebrantamiento' or 'rotura'",
+          "spanishSpan": "un gran desastre"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Cómo se ha desgarrado y roto el martillo de toda la tierra! ¡Cómo se ha convertido Babilonia en un objeto de horror entre las naciones!",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050023002"
+          ],
+          "issue": "lemma 1438 (cut off / hewn down) rendered as 'desgarrado' (torn/lacerated)",
+          "spanishSpan": "se ha desgarrado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050023009"
+          ],
+          "issue": "lemma 8047 (desolation/waste) rendered as interpretive 'objeto de horror'",
+          "spanishSpan": "objeto de horror"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He sembrado para ti, Babilonia, y tú has sido capturada, pero no lo has sabido; has sido encontrada y capturada, porque en el Señor te has rebelado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050024001"
+          ],
+          "issue": "lemma 3369 Qal 1cs rendered as 'sembrado' (sow) instead of snare/lay trap",
+          "spanishSpan": "He sembrado para ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050024013"
+          ],
+          "issue": "יהוה rendered as 'Señor' instead of conventional Jehová",
+          "spanishSpan": "en el Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Venid contra ella desde el extremo, abrid sus almacenes; vaciadlos como se vacían los montones de heno y saqueadla; no dejéis nada de ella.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050026006",
+            "h24050026008"
+          ],
+          "issue": "wrong verb and added 'heno'; Hebrew is 'heap her up like heaps'",
+          "spanishSpan": "vaciadlos como se vacían los montones de heno"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050026009"
+          ],
+          "issue": "wrong sense; hiphil herem is 'devote to destruction', not 'saquead'",
+          "spanishSpan": "saqueadla"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Cortad a todos los toros! ¡Vayan al matadero! ¡Ay de ellos! Porque ha llegado su día de castigo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050027004"
+          ],
+          "issue": "Hebrew 3mp imperfect יֵרְדוּ changed to 2nd-person command Vayan, shifting participants",
+          "spanishSpan": "¡Vayan al matadero!"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050027003"
+          ],
+          "issue": "3fs suffix on פָּרֶיהָ omitted; Spanish says todos los toros without her/their",
+          "spanishSpan": "todos los toros"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se oye el ruido de los que huyen y de los que escapan de la tierra de Babilonia para anunciar en Sion la venganza del Señor nuestro Dios, la venganza de su santuario.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050028010"
+          ],
+          "issue": "YHWH rendered as 'Señor' instead of licensed 'Jehová'",
+          "spanishSpan": "Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Anuncien a Babilonia que muchos vienen con arcos y flechas. Acampen alrededor de ella. No les permitan escapar. Paguen a Babilonia según sus obras, según todo lo que ha hecho. Porque ha desafiado al Señor, al santo de Israel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050029004",
+            "h24050029005",
+            "h24050029006",
+            "h24050029007"
+          ],
+          "issue": "adds 'vienen' and 'flechas'; renders 'many all drawers of the bow' as coming with bows+arrows",
+          "spanishSpan": "que muchos vienen con arcos y flechas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050029024"
+          ],
+          "issue": "renders יהוה as 'Señor' instead of conventional Jehová",
+          "spanishSpan": "al Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso caerán los jóvenes en las plazas, y todos los soldados serán derrotados en aquel día, dice el Señor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050030012"
+          ],
+          "issue": "YHWH rendered as 'el Señor' instead of Jehová",
+          "spanishSpan": "dice el Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Miren, yo me enfrento a ti, Babilonia, dice el Señor, el Dios de los ejércitos, porque ha llegado tu día, el tiempo de tu castigo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050031003"
+          ],
+          "issue": "omits זָדוֹן entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050031001"
+          ],
+          "issue": "renders הִנְנִי as plural imperative 'Miren'",
+          "spanishSpan": "Miren"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050031001",
+            "h24050031002",
+            "h24050031003"
+          ],
+          "issue": "inserts 'Babilonia' with no token licensing the name",
+          "spanishSpan": "Babilonia"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tu arrogancia te hará caer y te derribará. No habrá quien te levante. Encenderé fuego en tus ciudades, y el fuego consumirá todo lo que te rodea.",
+      "notes": "person shift and added causation not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050032001",
+            "h24050032002"
+          ],
+          "issue": "Spanish makes 'arrogancia' the agent causing 'you' to fall; tokens have zāḏôn as subject of kāšal (stumble)",
+          "spanishSpan": "Tu arrogancia te hará caer"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050032005",
+            "h24050032009",
+            "h24050032012"
+          ],
+          "issue": "tokens use 3ms suffixes (לו, עָרָיו, סְבִיבֹתָיו); Spanish shifts all to 2nd-person tú/tus/te",
+          "spanishSpan": "te derribará... tus ciudades... te rodea"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 33,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice el Señor de los ejércitos: Los cautivos de Israel y Judá serán liberados juntos, pero todos los que los han llevado cautivos se aferrarán a ellos, no querrán soltarlos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050033003"
+          ],
+          "issue": "YHWH rendered as title 'Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050033005",
+            "h24050033006",
+            "h24050033007",
+            "h24050033008",
+            "h24050033009"
+          ],
+          "issue": "omits בְּנֵי construct and changes עֲשׁוּקִים to 'cautivos ... serán liberados'",
+          "spanishSpan": "Los cautivos de Israel y Judá serán liberados juntos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050033013",
+            "h24050033015",
+            "h24050033016"
+          ],
+          "issue": "Hebrew perfects changed to future tense; adds liberation concept absent from tokens",
+          "spanishSpan": "serán liberados ... se aferrarán ... no querrán soltarlos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El Redentor de ellos es fuerte, el Señor de los ejércitos. Su nombre es Rival del Rival, que lucha por su causa para calmar la tierra y remover a los habitantes de Babilonia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050034006",
+            "h24050034007"
+          ],
+          "issue": "renders verb repetition as proper name/title 'Rival del Rival' not licensed by tokens",
+          "spanishSpan": "Rival del Rival"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050034014"
+          ],
+          "issue": "hirgiz rendered as 'remover' (remove) instead of disturb/stir up",
+          "spanishSpan": "remover"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050034003"
+          ],
+          "issue": "YHWH rendered as 'Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 35,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Espada contra los caldeos, así dice el Señor, y contra los habitantes de Babilonia, y contra sus príncipes, y contra sus sabios.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050035005"
+          ],
+          "issue": "replaces יְהוָה with 'el Señor' instead of licensed 'Jehová'",
+          "spanishSpan": "así dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050035004"
+          ],
+          "issue": "renders נְאֻם as 'así dice' (interpretive paraphrase not licensed by lemma/morph)",
+          "spanishSpan": "así dice el Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 36,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Espada contra sus batidores y contra sus mensajeros, espada contra sus guerreros y los derrotarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050036003",
+            "h24050036004"
+          ],
+          "issue": "omits licensed verb נֹאָלוּ and splits/replaces single noun הַבַּדִּים with two nouns batidores y mensajeros",
+          "spanishSpan": "sus batidores y contra sus mensajeros"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050036008"
+          ],
+          "issue": "changes verb חָתּוּ (they will be dismayed) to active 'derrotarán' (they will defeat them)",
+          "spanishSpan": "y los derrotarán"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 37,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Espada contra sus caballos y contra sus carros, y contra todo el pueblo que está en medio de ella, y serán como mujeres; espada contra sus tesoros, y serán saqueados.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050037008"
+          ],
+          "issue": "renders הָעֶרֶב as 'todo el pueblo' (adds 'pueblo' concept absent from lemma H6154)",
+          "spanishSpan": "todo el pueblo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 38,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Espada contra sus aguas, y se secarán, porque es una tierra de imágenes, y los espantará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050038009",
+            "h24050038010"
+          ],
+          "issue": "changes hithpael 3mp subject + terrors to external agent 'los espantará'",
+          "spanishSpan": "y los espantará"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 39,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso habitarán los zorros en sus cumbres, y habitarán en ellas las aves de presa, y no habitarán más para siempre, ni habitarán allí generación tras generación.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050039003",
+            "h24050039005"
+          ],
+          "issue": "Spanish specifies 'zorros' and 'aves de presa' plus 'cumbres' not licensed by lemmas or surface of צִיִּים and אִיִּים",
+          "spanishSpan": "los zorros en sus cumbres ... las aves de presa"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 40,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Como el Señor volcó a Sodoma y a Gomorra y a sus vecindades, así dice el Señor, no habitará allí hombre, ni habitará allí hijo del hombre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050040002"
+          ],
+          "issue": "renders אֱלֹהִים as 'Señor' instead of preserving God/Elohim reference",
+          "spanishSpan": "el Señor volcó"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050040009",
+            "h24050040010"
+          ],
+          "issue": "replaces נְאֻם יְהוָה with 'así dice el Señor'",
+          "spanishSpan": "así dice el Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 42,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Con arco y con alabarda se aprestarán, son crueles y no tienen misericordia; el sonido de ellos es como el mar, y sobre caballos montarán, cada uno dispuesto para la batalla, contra ti, oh Babilonia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050042001",
+            "h24050042002",
+            "h24050042003"
+          ],
+          "issue": "verb rendered as 'se aprestarán' instead of 'they will grasp/hold'",
+          "spanishSpan": "se aprestarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050042008",
+            "h24050042009",
+            "h24050042010"
+          ],
+          "issue": "omits roaring action; equates sound directly to the sea",
+          "spanishSpan": "el sonido de ellos es como el mar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050042018",
+            "h24050042019"
+          ],
+          "issue": "omits 'daughter' construct; renders only Babilonia",
+          "spanishSpan": "oh Babilonia"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 44,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que como un león sube de la gloria del Jordán a la morada de Etán, porque lo haré venir de ella, y ¿quién es el valiente que se opondrá a mí? ¿Quién es como yo, y quién me hará comparecer? ¿Quién es este pastor que se pondrá delante de mí?",
+      "notes": "multiple participant and verb mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050044010",
+            "h24050044011"
+          ],
+          "issue": "רגע hiphil cohortative misrendered as 'lo haré venir'",
+          "spanishSpan": "porque lo haré venir de ella"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050044013",
+            "h24050044014",
+            "h24050044015"
+          ],
+          "issue": "בחור ... אליה אפקד inverted and changed to 'valiente que se opondrá a mí'",
+          "spanishSpan": "quién es el valiente que se opondrá a mí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050044020"
+          ],
+          "issue": "יוֹעִדֶנִּי changed from 'who will summon me' to interpretive 'me hará comparecer'",
+          "spanishSpan": "quién me hará comparecer"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 45,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, escuchen la conseja de Jehová, que ha aconsejado a Babilonia, y sus pensamientos, que ha pensado contra la tierra de los caldeos: ¿Acaso no los dispersarán los pastores menores? ¿Acaso no los harán morada los rebaños?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050045018",
+            "h24050045019"
+          ],
+          "issue": "צְעִירֵי הַצֹּאן rendered as 'pastores menores' (introduces 'pastores' absent from tokens)",
+          "spanishSpan": "los pastores menores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050045022",
+            "h24050045023",
+            "h24050045024"
+          ],
+          "issue": "יַשִּׁים עֲלֵיהֶם נָוֶה rendered as 'los harán morada los rebaños' (wrong subject, stem force, and added 'rebaños')",
+          "spanishSpan": "los harán morada los rebaños"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por el estruendo de Babilonia se estremece la tierra, y se oye un grito en las naciones.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24050046002"
+          ],
+          "issue": "omits the licensed concept of Babylon being taken/seized",
+          "spanishSpan": "de Babilonia"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T23:45:36.150763+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 44,
+    "verses": 44,
+    "input": 102285,
+    "cachedInput": 35200,
+    "output": 6728,
+    "reasoning": 39092,
+    "usd": 0.4267,
+    "byProvider": {
+      "xai": {
+        "calls": 44,
+        "input": 102285,
+        "output": 6728,
+        "reasoning": 39092,
+        "usd": 0.4267
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 44,
+        "input": 102285,
+        "output": 6728,
+        "reasoning": 39092,
+        "usd": 0.4267
+      }
+    },
+    "usdPerVerse": 0.0097,
+    "bibleAtThisRate": 302.0,
+    "book": "jeremias",
+    "chapter": 50
+  }
+}

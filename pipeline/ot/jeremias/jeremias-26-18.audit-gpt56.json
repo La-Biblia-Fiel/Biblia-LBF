@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:18",
+  "chapter": 26,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Micaías de Morastita profetizó en los días de Ezequías, rey de Judá, y dijo a todo el pueblo de Judá: Así ha dicho Jehová de los ejércitos: El campo de Sión será un desierto, y Jerusalén una ruina, y el monte del templo un bosque.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026018001"
+      ],
+      "issue": "adds proper name Micaías not present in any token",
+      "spanishSpan": "Micaías"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026018018",
+        "h24026018019"
+      ],
+      "issue": "reorders and adds 'campo de' instead of 'Sión [como] campo'",
+      "spanishSpan": "El campo de Sión"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026018020"
+      ],
+      "issue": "replaces niphal 'será arada' with 'será un desierto'",
+      "spanishSpan": "será un desierto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026018024",
+        "h24026018025",
+        "h24026018026",
+        "h24026018027"
+      ],
+      "issue": "renders 'monte de la casa' as 'monte del templo' and collapses 'para lugares altos de bosque' into 'un bosque'",
+      "spanishSpan": "el monte del templo un bosque"
+    }
+  ],
+  "notes": "multiple semantic alterations and unlicensed name",
+  "discardedUncitedFindings": 0
+}

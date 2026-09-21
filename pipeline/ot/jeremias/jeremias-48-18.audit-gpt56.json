@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:18",
+  "chapter": 48,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Baja de tu gloria, habitante de Siba, sedienta, hija de Dibón, porque el saqueador de Moab subirá contra ti, y destruirá tus fortalezas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048018003"
+      ],
+      "issue": "inserts unauthorized proper name 'Siba' absent from any token",
+      "spanishSpan": "Siba"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048018003"
+      ],
+      "issue": "renders thirst noun as adjective 'sedienta' and attaches it to invented name",
+      "spanishSpan": "sedienta"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24048018010",
+        "h24048018012"
+      ],
+      "issue": "renders qal/piel perfects as future 'subirá'/'destruirá'",
+      "spanishSpan": "subirá ... destruirá"
+    }
+  ],
+  "notes": "Siba has no source token support",
+  "discardedUncitedFindings": 0
+}

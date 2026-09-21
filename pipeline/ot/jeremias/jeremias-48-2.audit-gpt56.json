@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:2",
+  "chapter": 48,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Ya no hay más alabanza para Moab; en Hesbón se han planeado cosas malas contra ella. ¡Vamos a destruirla! También Madmena se ha quedado sin fuerzas, y tras ella vendrá la espada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048002011"
+      ],
+      "issue": "omits מִגּוֹי entirely",
+      "spanishSpan": "¡Vamos a destruirla!"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048002014"
+      ],
+      "issue": "renders תִּדֹּמִּי as 'se ha quedado sin fuerzas' instead of 'you (fs) will be silent/dumbfounded'",
+      "spanishSpan": "Madmena se ha quedado sin fuerzas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048002016"
+      ],
+      "issue": "changes 2fs address and participant to 3fs statement about the city",
+      "spanishSpan": "tras ella vendrá la espada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

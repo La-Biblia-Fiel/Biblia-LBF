@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:9",
+  "chapter": 21,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "El que se queda en esta ciudad morirá de espada, de hambre y de peste; mas el que saliere y se entregare a los caldeos que están fuera de la ciudad vivirá, y su vida será por despojo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021009011",
+        "h24021009012",
+        "h24021009013"
+      ],
+      "issue": "adds 'que están fuera de la ciudad' (location not present in tokens)",
+      "spanishSpan": "que están fuera de la ciudad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021009009",
+        "h24021009010",
+        "h24021009011"
+      ],
+      "issue": "renders 'וְנָפַל עַל' as 'se entregare a' plus extra location instead of 'falls upon the Chaldeans who besiege you'",
+      "spanishSpan": "se entregare a los caldeos que están fuera de la ciudad"
+    }
+  ],
+  "notes": "omits 'besieging you' (2mp) and inserts unlicensed geographic detail",
+  "discardedUncitedFindings": 0
+}

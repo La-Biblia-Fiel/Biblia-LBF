@@ -1,0 +1,952 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 29,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "passed": [
+    2,
+    30
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Estos son los escritos que envió Jeremías el profeta desde Jerusalén a todos los ancianos que estaban en el destierro, a los sacerdotes, a los profetas y a todo el pueblo que Nabucodonosor había llevado cautivo a Babilonia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029001010"
+          ],
+          "issue": "omits 'yeter' (rest/remainder of); renders as 'todos los ancianos' instead of 'el resto de los ancianos'",
+          "spanishSpan": "a todos los ancianos"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por medio de Elasá hijo de Safán y de Gemarías hijo de Hilquías, que el rey Sedequías envió a Nabucodonosor, rey de Babilonia, a Babilonia, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029003011",
+            "h24029003012"
+          ],
+          "issue": "omits licensed concept מֶֽלֶךְ יְהוּדָ֗ה (king of Judah)",
+          "spanishSpan": "el rey Sedequías"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el SEÑOR, el Dios de Israel, a todos los cautivos que he llevado de Jerusalén a Babilonia:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029004004"
+          ],
+          "issue": "omits licensed concept צְבָא֖וֹת (of hosts)",
+          "spanishSpan": "el SEÑOR, el Dios de Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Edificad casas y vivid en ellas, plantad huertos y comed de sus frutos.",
+      "notes": "vosotros alone triggers fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029005001",
+            "h24029005003",
+            "h24029005004",
+            "h24029005006"
+          ],
+          "issue": "vosotros imperatives instead of Latin American ustedes forms",
+          "spanishSpan": "Edificad ... vivid ... plantad ... comed"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24029005003"
+          ],
+          "issue": "adds explicit location 'en ellas' not present in the dwell token",
+          "spanishSpan": "vivid en ellas"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tomad mujeres y engendrad hijos e hijas, y dadas a sus hijos y a sus hijas, tomad mujeres de entre ellos, para que engendren hijos e hijas, y crezcáis y no disminuyáis.",
+      "notes": "multiple content and register mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029006001",
+            "h24029006003",
+            "h24029006006",
+            "h24029006011",
+            "h24029006016",
+            "h24029006019"
+          ],
+          "issue": "uses vosotros imperative forms (tomad, engendrad, crezcáis) instead of Latin-American ustedes",
+          "spanishSpan": "Tomad ... engendrad ... crezcáis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029006007",
+            "h24029006009",
+            "h24029006010",
+            "h24029006011",
+            "h24029006012"
+          ],
+          "issue": "rephrases giving daughters to men as fragment 'dadas a sus hijos y a sus hijas, tomad mujeres de entre ellos'",
+          "spanishSpan": "y dadas a sus hijos y a sus hijas, tomad mujeres de entre ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029006013"
+          ],
+          "issue": "changes 3fp וְתֵלַדְנָה into purpose clause 'para que engendren'",
+          "spanishSpan": "para que engendren hijos e hijas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029006017"
+          ],
+          "issue": "omits adverb שָׁם 'there'",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Buscad el bien de la ciudad a la cual yo os he desterrado, y orad por ella al SEÑOR, porque en su bienestar estará su bienestar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029007016"
+          ],
+          "issue": "omits לָכֶם (for you) in the final clause",
+          "spanishSpan": "porque en su bienestar estará su bienestar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029007001",
+            "h24029007009"
+          ],
+          "issue": "uses vosotros forms (Buscad, os, orad) instead of Latin American ustedes",
+          "spanishSpan": "Buscad ... os ... orad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029007012"
+          ],
+          "issue": "SEÑOR instead of conventional Jehová for יהוה",
+          "spanishSpan": "al SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque Jehová de los ejércitos, el Dios de Israel, dice: No os dejéis engañar por sus profetas que están en medio de ustedes, ni por sus adivinos, ni escuchéis los sueños que ustedes soñáis.",
+      "notes": "multiple 2mp suffixes rendered as 3p possessives and vosotros morphology",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029008009",
+            "h24029008010",
+            "h24029008011"
+          ],
+          "issue": "changes 3mp jussive subject + 2mp object to reflexive/passive with 3p possessive",
+          "spanishSpan": "No os dejéis engañar por sus profetas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029008014"
+          ],
+          "issue": "sus adivinos uses 3p possessive instead of 2mp suffix",
+          "spanishSpan": "sus adivinos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029008016",
+            "h24029008018",
+            "h24029008020",
+            "h24029008021"
+          ],
+          "issue": "vosotros verb form and mixed 2p/3p address",
+          "spanishSpan": "os dejéis ... escuchéis ... ustedes soñáis"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque en vanidad profetizan en su nombre, a quien no envié yo, dice Jehová.",
+      "notes": "multiple lexical and syntactic mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029009002"
+          ],
+          "issue": "בְשֶׁ֔קֶר (sheqer = falsehood/lie) rendered as 'vanidad' (different concept)",
+          "spanishSpan": "en vanidad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029009006"
+          ],
+          "issue": "בִּשְׁמִ֑י (my name, 1cs) rendered as 'su nombre' (his name)",
+          "spanishSpan": "en su nombre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029009003",
+            "h24029009005",
+            "h24029009008"
+          ],
+          "issue": "restructures 'they ... to you ... I did not send them' into 'a quien no envié yo', omitting 2mp addressee and altering participants",
+          "spanishSpan": "a quien no envié yo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029009005"
+          ],
+          "issue": "לָכֶ֖ם (to you pl) omitted entirely",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque dice Jehová: Por cuanto ha llenado Babilonia de orgullo durante setenta años, yo os visitaré conforme a sus hechos, y cumpliré con ustedes mis palabras buenas para traeros de nuevo a este lugar.",
+      "notes": "core phrase מְלֹאת לְבָבֶל שִׁבְעִים שָׁנָה rendered as invented pride-filling concept",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029010006",
+            "h24029010007",
+            "h24029010008",
+            "h24029010009",
+            "h24029010010"
+          ],
+          "issue": "adds 'ha llenado Babilonia de orgullo' with no licensing in tokens",
+          "spanishSpan": "ha llenado Babilonia de orgullo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029010006"
+          ],
+          "issue": "adds 'conforme a sus hechos' not present in לְפִי or any token",
+          "spanishSpan": "conforme a sus hechos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029010012",
+            "h24029010014",
+            "h24029010019"
+          ],
+          "issue": "uses vosotros 'os'/'traeros' instead of ustedes forms",
+          "spanishSpan": "os visitaré ... traeros"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque yo sé los pensamientos que tengo acerca de ustedes, dice Jehová, pensamientos de paz y no de mal, para daros un fin y una esperanza.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029011017"
+          ],
+          "issue": "vosotros clitic 'os' in 'daros' violates Latin American 2mp requirement",
+          "spanishSpan": "daros"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y me llamareis, y vendréis, y oraréis a mí, y yo os escucharé.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029012001",
+            "h24029012003",
+            "h24029012004",
+            "h24029012007"
+          ],
+          "issue": "uses vosotros 2mp forms (llamareis, vendréis, oraréis, os) instead of required Latin American ustedes 2mp",
+          "spanishSpan": "llamareis, vendréis, oraréis, os escucharé"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y me buscaréis, y me hallaréis, porque me buscaréis con todo su corazón.",
+      "notes": "su mismatches 2mp suffix on לבבכם",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029013001",
+            "h24029013003",
+            "h24029013005",
+            "h24029013007"
+          ],
+          "issue": "2mp verbs and 2mp suffix rendered with inconsistent person (vosotros verbs + su)",
+          "spanishSpan": "buscaréis ... hallaréis ... buscaréis ... su corazón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029013001",
+            "h24029013003",
+            "h24029013005"
+          ],
+          "issue": "vosotros conjugation instead of Latin-American ustedes (buscarán/hallarán)",
+          "spanishSpan": "buscaréis, hallaréis, buscaréis"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo me dejaré hallar por ustedes, dice Jehová, y os reuniré de entre todas las naciones y de entre todos los lugares a donde os he echado, y os traeré de nuevo al lugar de donde os eché.",
+      "notes": "mix of ustedes and os also present",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029014002",
+            "h24029014008",
+            "h24029014015",
+            "h24029014020",
+            "h24029014025"
+          ],
+          "issue": "uses vosotros 'os' forms instead of Latin American ustedes for 2mp suffixes",
+          "spanishSpan": "os reuniré, os he echado, os traeré, os eché"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029014003",
+            "h24029014004",
+            "h24029014017",
+            "h24029014018"
+          ],
+          "issue": "omits one of the two נְאֻם יְהוָה tokens",
+          "spanishSpan": "dice Jehová"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque han dicho: Levantará Jehová para nosotros profetas en Babilonia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029015002"
+          ],
+          "issue": "2mp verb rendered as 3pl 'han dicho'",
+          "spanishSpan": "han dicho"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029015007"
+          ],
+          "issue": "directional suffix rendered as static 'en' instead of 'a'",
+          "spanishSpan": "en Babilonia"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque dice Jehová: Al rey que está sentado en el trono de David, y a todo el pueblo que está en esta ciudad, a sus hermanos que no salieron con ustedes en el destierro.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029016002"
+          ],
+          "issue": "omits כֹה (thus)",
+          "spanishSpan": "dice"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029016017"
+          ],
+          "issue": "changes 2mp suffix to 3p possessive (sus)",
+          "spanishSpan": "sus hermanos"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque dice Jehová de los ejércitos: He aquí que enviaré entre ellos la espada, el hambre y la peste, y los dejaré como las uvas secas que no se comen por malas.",
+      "notes": "multiple lexical mismatches and unlicenced addition",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029017001"
+          ],
+          "issue": "adds 'Porque' with no licensing token",
+          "spanishSpan": "Porque"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029017016"
+          ],
+          "issue": "renders תְאֵנִים as 'uvas' instead of figs",
+          "spanishSpan": "uvas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029017017"
+          ],
+          "issue": "renders הַשֹּׁעָרִים as 'secas' instead of bad/worthless",
+          "spanishSpan": "secas"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los perseguiré con la espada, con el hambre y con la peste, y los entregaré por temor a todas las naciones, por maldición, por espanto, por silbo y por mofa, en todas las naciones a donde los he echado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029018006",
+            "h24029018007",
+            "h24029018008",
+            "h24029018009",
+            "h24029018010"
+          ],
+          "issue": "inserts unlicensed 'por temor a' and misplaces 'todas las naciones' before the curse list, altering the 'give them to all kingdoms ... for a curse...' structure",
+          "spanishSpan": "por temor a todas las naciones, por maldición"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque no escucharon mis palabras, dice Jehová, a los cuales envié a ellos a mis siervos los profetas, levantándolos y enviándolos, y no escuchasteis, dice Jehová.",
+      "notes": "infinitive absolutes and relative clause both deviate from token morphology and syntax",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029019015",
+            "h24029019016"
+          ],
+          "issue": "infinitive absolutes rendered with added object 'los' and participial construction not licensed by the tokens",
+          "spanishSpan": "levantándolos y enviándolos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029019009",
+            "h24029019010",
+            "h24029019011",
+            "h24029019012",
+            "h24029019013",
+            "h24029019014"
+          ],
+          "issue": "relative clause restructured with awkward word order and inserted 'a ellos' that alters the direct-object flow of the tokens",
+          "spanishSpan": "a los cuales envié a ellos a mis siervos los profetas"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ustedes, los que han sido llevados cautivos a Babilonia, escuchad la palabra de Jehová: Así ha dicho Jehová de los ejércitos, Dios de Israel, acerca de Acajo hijo de Caloia y de Sedequías hijo de Maaseja, los profetas que han profetizado falsamente en mi nombre: He aquí que los entregaré en manos de Nabucodonosor, rey de Babilonia, y él los matará delante de ustedes.",
+      "notes": "packet supplies only Jer 29:20 opening; Spanish imports later verses",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029020001",
+            "h24029020002",
+            "h24029020003",
+            "h24029020004",
+            "h24029020005",
+            "h24029020006",
+            "h24029020007",
+            "h24029020008",
+            "h24029020009",
+            "h24029020010"
+          ],
+          "issue": "Spanish renders far more text than the supplied tokens license, inserting prophecy about false prophets, Ahab, Zedekiah, and execution by Nebuchadnezzar absent from packet",
+          "spanishSpan": "escuchad la palabra de Jehová: Así ha dicho Jehová de los ejércitos, Dios de Israel, acerca de Acajo hijo de Caloia y de Sedequías hijo de Maaseja, los profetas que han profetizado falsamente en mi nombre: He aquí que los entregaré en manos de Nabucodonosor, rey de Babilonia, y él los matará delante de ustedes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029020002"
+          ],
+          "issue": "uses vosotros imperative form 'escuchad' instead of Latin-American 'escuchen'",
+          "spanishSpan": "escuchad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029020005",
+            "h24029020006",
+            "h24029020007",
+            "h24029020008",
+            "h24029020009",
+            "h24029020010"
+          ],
+          "issue": "renders 'all the exile which I sent from Jerusalem to Babylon' as 'los que han sido llevados cautivos a Babilonia', adding 'cautivos' and shifting participant reference",
+          "spanishSpan": "los que han sido llevados cautivos a Babilonia"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová de los ejércitos, Dios de Israel, a Acajo hijo de Caloia y a Sedequías hijo de Maaseja, los profetas que han profetizado falsamente en mi nombre: He aquí que los entregaré en manos de Nabucodonosor, rey de Babilonia, y él los matará delante de ustedes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029021016"
+          ],
+          "issue": "omits licensed dative 'to you' (לָכֶם) modifying the participle",
+          "spanishSpan": "los profetas que han profetizado falsamente"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029021008",
+            "h24029021010"
+          ],
+          "issue": "Hebraized/ non-conventional proper-name renderings instead of standard Spanish forms",
+          "spanishSpan": "Acajo hijo de Caloia"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y se tomará de ellos maldición para todo el cautiverio de Judá que está en Babilonia, diciendo: Así ha dicho Jehová: Pondréos como Sedequías y como Acajo, a quienes el rey de Babilonia quemó en el fuego.",
+      "notes": "person and variety mismatch on the key verb",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029022010"
+          ],
+          "issue": "changes 3ms verb person to 1s (Pondréos instead of pondrá/hará)",
+          "spanishSpan": "Pondréos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029022010"
+          ],
+          "issue": "uses forbidden vosotros form",
+          "spanishSpan": "Pondréos"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque han hecho la maldad en Israel, y han cometido adulterio con las mujeres de sus vecinos, y han hablado en mi nombre palabras que no les he mandado hablar, y yo los he conocido y he sido testigo contra ellos, dice Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029023017",
+            "h24029023018"
+          ],
+          "issue": "Spanish inserts 'los he conocido' and 'contra ellos' absent from tokens; tokens only license 'and I [am] witness'",
+          "spanishSpan": "y yo los he conocido y he sido testigo contra ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029023010",
+            "h24029023011",
+            "h24029023016"
+          ],
+          "issue": "Spanish adds infinitive 'hablar' not present in the tokens",
+          "spanishSpan": "que no les he mandado hablar"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a Semajah el adivino dirás: Así ha dicho Jehová:",
+      "notes": "name spelling and 2ms verb are minor; main mismatches are the two above",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029024003"
+          ],
+          "issue": "הַנֶּחֱלָמִ֖י (gentilic Nehelamite) rendered as 'el adivino' (adds unauthorized meaning)",
+          "spanishSpan": "el adivino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029024001",
+            "h24029024002",
+            "h24029024003",
+            "h24029024004",
+            "h24029024005"
+          ],
+          "issue": "Spanish adds 'Así ha dicho Jehová:' with no corresponding tokens in packet",
+          "spanishSpan": "Así ha dicho Jehová:"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová de los ejércitos, Dios de Israel, diciendo: Porque has enviado en mi nombre libros a todos el pueblo que está en Jerusalén, y a Sofonías hijo de Maaseja, el sacerdote, y a todos los sacerdotes, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029025012"
+          ],
+          "issue": "changes 2ms suffix to 1cs ('mi nombre' for 'your name')",
+          "spanishSpan": "en mi nombre"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Jehová te ha hecho sacerdote en lugar de Joiada, el sacerdote, para que fueras guardián en la casa de Jehová sobre todo varón adivino y profeta, y los hubieras echado a la cárcel y al calabozo.",
+      "notes": "multiple lexical, number and syntactic mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029026013"
+          ],
+          "issue": "משגע (mad/pual ptc) rendered as 'adivino' (diviner)",
+          "spanishSpan": "adivino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029026015",
+            "h24029026016"
+          ],
+          "issue": "ונתתה אתו (you shall put him sg.) rendered as 'los hubieras echado' (them pl., pluperfect)",
+          "spanishSpan": "y los hubieras echado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029026018",
+            "h24029026020"
+          ],
+          "issue": "specific stocks/collar nouns replaced by 'cárcel y calabozo'",
+          "spanishSpan": "a la cárcel y al calabozo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029026007",
+            "h24029026008"
+          ],
+          "issue": "להיות פקדים restructured as purpose clause 'para que fueras guardián'",
+          "spanishSpan": "para que fueras guardián"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ahora ¿por qué no te has reprendido a Jeremías, el profeta, que habla en mi nombre?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029027006"
+          ],
+          "issue": "omits gentilic designation of Jeremiah",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029027007",
+            "h24029027008"
+          ],
+          "issue": "replaces 'who prophesies to you' with unlicensed 'el profeta, que habla en mi nombre'",
+          "spanishSpan": "el profeta, que habla en mi nombre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029027004"
+          ],
+          "issue": "renders 2ms perfect verb as reflexive 'te has reprendido'",
+          "spanishSpan": "te has reprendido"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así me enviasteis a Babilonia, diciendo: La cautividad es larga; edificad casas y vivid en ellas, plantad huertos y comed de sus frutos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029028004",
+            "h24029028005"
+          ],
+          "issue": "person and participant mismatch: Hebrew 3ms subject + 1cp indirect object rendered as 2mp subject + 1cs object",
+          "spanishSpan": "me enviasteis"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el sacerdote Sofonías leyó este libro en presencia de Jeremías el profeta.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029029007"
+          ],
+          "issue": "replaces 'in the ears of' with unlicensed concept 'en presencia de'",
+          "spanishSpan": "en presencia de"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Envía a todo el cautiverio diciendo: Así ha dicho Jehová a Semajah el adivino: Porque ha profetizado en su nombre Semajah, y yo no le he enviado, y ha engañado a ustedes con mentira.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029031011"
+          ],
+          "issue": "adds 'el adivino' (diviner) not licensed by gentilic lemma",
+          "spanishSpan": "el adivino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029031014"
+          ],
+          "issue": "adds 'en su nombre' with no corresponding token",
+          "spanishSpan": "en su nombre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029031020"
+          ],
+          "issue": "renders hiphil בטח as 'engañado' (deceived) instead of caused-to-trust",
+          "spanishSpan": "ha engañado"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, así ha dicho Jehová: He aquí que haré venir sobre Semajah el adivino y sobre su descendencia la calamidad. No habrá en medio del pueblo este un hombre que se asiente, y no verá el bien que yo hago a mi pueblo, porque ha hablado con soberbia contra Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029032009"
+          ],
+          "issue": "gentilic Nehelamite rendered as 'el adivino'",
+          "spanishSpan": "el adivino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029032006"
+          ],
+          "issue": "פקד rendered as 'haré venir ... la calamidad'",
+          "spanishSpan": "haré venir sobre ... la calamidad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24029032030"
+          ],
+          "issue": "סרה rendered as 'con soberbia'",
+          "spanishSpan": "con soberbia"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T03:07:51.202382+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 32,
+    "verses": 32,
+    "input": 79250,
+    "cachedInput": 23744,
+    "output": 5510,
+    "reasoning": 30137,
+    "usd": 0.3368,
+    "byProvider": {
+      "xai": {
+        "calls": 32,
+        "input": 79250,
+        "output": 5510,
+        "reasoning": 30137,
+        "usd": 0.3368
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 32,
+        "input": 79250,
+        "output": 5510,
+        "reasoning": 30137,
+        "usd": 0.3368
+      }
+    },
+    "usdPerVerse": 0.0105,
+    "bibleAtThisRate": 327.0,
+    "book": "jeremias",
+    "chapter": 29
+  }
+}

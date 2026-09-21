@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:34",
+  "chapter": 49,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "Así habló Jehová a Jeremías el profeta acerca de Elam al principio del reinado de Zedequías, rey de Judá, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049034001",
+        "h24049034002",
+        "h24049034003",
+        "h24049034004"
+      ],
+      "issue": "omits relative + 'word of YHWH was' structure; inserts 'Así habló' formula not licensed by tokens",
+      "spanishSpan": "Así habló Jehová"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

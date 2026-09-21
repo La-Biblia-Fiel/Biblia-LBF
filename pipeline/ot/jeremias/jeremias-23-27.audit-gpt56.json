@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:27",
+  "chapter": 23,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Los que piensan en sus sueños hacer olvidar a mi pueblo mi nombre, como sus padres lo olvidaron con Baal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023027007",
+        "h24023027008",
+        "h24023027009",
+        "h24023027010"
+      ],
+      "issue": "omits relative clause 'which each recounts to his neighbor'",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023027006"
+      ],
+      "issue": "misplaces 'in their dreams' and attaches it to the participle instead of the infinitive of forgetting",
+      "spanishSpan": "piensan en sus sueños"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

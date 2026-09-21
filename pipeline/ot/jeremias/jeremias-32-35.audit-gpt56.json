@@ -1,0 +1,52 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:35",
+  "chapter": 32,
+  "verse": 35,
+  "candidateLabel": "gpt56",
+  "spanish": "Construyeron altas plataformas para el Baal en el valle de Hinnom, para quemar a sus hijos y a sus hijas en el fuego a Molech, a quien no había ordenado, y no era mi deseo que lo hicieran, para que pecaran a Jehudá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032035007",
+        "h24032035008"
+      ],
+      "issue": "omits 'ben/son of' from valley name",
+      "spanishSpan": "valle de Hinnom"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032035009"
+      ],
+      "issue": "adds 'quemar ... en el fuego' concept absent from hiphil infinitive of 5674",
+      "spanishSpan": "para quemar ... en el fuego"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032035027"
+      ],
+      "issue": "Hebraizes proper name instead of conventional Spanish form",
+      "spanishSpan": "Jehudá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032035023",
+        "h24032035024",
+        "h24032035025",
+        "h24032035026",
+        "h24032035027"
+      ],
+      "issue": "resolves purpose clause by inserting 'pecaran' not licensed by tokens",
+      "spanishSpan": "para que pecaran a Jehudá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

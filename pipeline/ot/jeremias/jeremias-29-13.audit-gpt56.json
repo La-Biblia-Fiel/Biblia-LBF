@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:13",
+  "chapter": 29,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y me buscaréis, y me hallaréis, porque me buscaréis con todo su corazón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029013001",
+        "h24029013003",
+        "h24029013005",
+        "h24029013007"
+      ],
+      "issue": "2mp verbs and 2mp suffix rendered with inconsistent person (vosotros verbs + su)",
+      "spanishSpan": "buscaréis ... hallaréis ... buscaréis ... su corazón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029013001",
+        "h24029013003",
+        "h24029013005"
+      ],
+      "issue": "vosotros conjugation instead of Latin-American ustedes (buscarán/hallarán)",
+      "spanishSpan": "buscaréis, hallaréis, buscaréis"
+    }
+  ],
+  "notes": "su mismatches 2mp suffix on לבבכם",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:4",
+  "chapter": 22,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque si lo hacen, entrarán por las puertas de este templo reyes que se sentarán sobre el trono de David, montados en carros y en caballos, él y sus siervos y su pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022004021"
+      ],
+      "issue": "adds 'sus siervos' with no corresponding token or lemma",
+      "spanishSpan": "sus siervos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

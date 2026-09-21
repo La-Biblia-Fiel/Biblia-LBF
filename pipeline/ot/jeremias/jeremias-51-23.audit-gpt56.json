@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:23",
+  "chapter": 51,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y te destruiré a ti en medio del pastor y de su rebaño, y te destruiré a ti en medio del vaso y de su paraje, y te destruiré a ti en medio de los depósitos y de los almacenes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051023001",
+        "h24051023005",
+        "h24051023009"
+      ],
+      "issue": "Spanish inserts 'en medio de' and renders the shattering action as destruction inside the listed items rather than the verb acting upon the addressee by means of the listed items",
+      "spanishSpan": "en medio del pastor y de su rebaño"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051023007"
+      ],
+      "issue": "אִכָּר (farmer/plowman) rendered as 'vaso'",
+      "spanishSpan": "vaso"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051023008"
+      ],
+      "issue": "צִמְדּוֹ (his yoke/team) rendered as 'paraje'",
+      "spanishSpan": "paraje"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051023011",
+        "h24051023012"
+      ],
+      "issue": "פַּחוֹת וּסְגָנִים (governors and officials) rendered as 'depósitos y almacenes'",
+      "spanishSpan": "depósitos y de los almacenes"
+    }
+  ],
+  "notes": "Multiple noun mismatches and structural addition of 'en medio de'",
+  "discardedUncitedFindings": 0
+}

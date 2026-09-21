@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:14",
+  "chapter": 40,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y me dijeron: ¿Sabes que Baalis, rey de los amonitas, envió a Ishmael hijo de Nethaniah para que te matara? Pero Gedalía hijo de Achikam no les creyó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040014001",
+        "h24040014002"
+      ],
+      "issue": "Spanish renders 3mp verb + 3ms suffix as 'me dijeron' (1cs), altering participants",
+      "spanishSpan": "Y me dijeron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

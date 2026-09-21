@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:11",
+  "chapter": 29,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque yo sé los pensamientos que tengo acerca de ustedes, dice Jehová, pensamientos de paz y no de mal, para daros un fin y una esperanza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029011017"
+      ],
+      "issue": "vosotros clitic 'os' in 'daros' violates Latin American 2mp requirement",
+      "spanishSpan": "daros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

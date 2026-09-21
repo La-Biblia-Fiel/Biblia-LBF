@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:12",
+  "chapter": 9,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién es el hombre sabio y entenderá esto, al que la boca de Jehová ha hablado a él y lo dirá: Por qué ha perecido la tierra, se ha secado como el desierto, sin que haya quien pase por ella?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009012017"
+      ],
+      "issue": "נִצְּתָה (niphal 'be burned/scorched') rendered as 'se ha secado' (has dried)",
+      "spanishSpan": "se ha secado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

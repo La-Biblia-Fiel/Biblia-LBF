@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:24",
+  "chapter": 46,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Se avergonzará la hija de Egipto, será entregada en manos del pueblo del norte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046024001",
+        "h24046024004"
+      ],
+      "issue": "perfect verbs rendered as future tense",
+      "spanishSpan": "Se avergonzará ... será entregada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

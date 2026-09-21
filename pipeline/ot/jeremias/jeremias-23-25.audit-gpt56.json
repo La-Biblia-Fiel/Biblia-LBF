@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:25",
+  "chapter": 23,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "He oído lo que los profetas que profetizan en mi nombre dicen: Miento, miento.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023025010",
+        "h24023025011"
+      ],
+      "issue": "replaces licensed 'I have dreamed' (twice) with 'I lie' (twice)",
+      "spanishSpan": "Miento, miento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023025008"
+      ],
+      "issue": "misplaces 'sheqer' into the quoted speech instead of marking the falsehood of the claim",
+      "spanishSpan": "Miento, miento"
+    }
+  ],
+  "notes": "Spanish alters the reported speech content licensed by the tokens.",
+  "discardedUncitedFindings": 0
+}

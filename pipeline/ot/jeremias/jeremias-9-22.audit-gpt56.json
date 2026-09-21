@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:22",
+  "chapter": 9,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Decid: Así dice Jehová: Caerán los cadáveres de los hombres como el estiércol sobre la faz de la tierra; y como el heno después del segador, no habrá quien lo recoja.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009022001"
+      ],
+      "issue": "2ms imperative rendered as 2pl 'Decid'",
+      "spanishSpan": "Decid"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009022005",
+        "h24009022006",
+        "h24009022007"
+      ],
+      "issue": "singular fs 'carcass of the man' pluralized to 'cadáveres de los hombres' with plural verb",
+      "spanishSpan": "Caerán los cadáveres de los hombres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009022011"
+      ],
+      "issue": "field rendered as tierra",
+      "spanishSpan": "la faz de la tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

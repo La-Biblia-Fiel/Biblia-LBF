@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:18",
+  "chapter": 3,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces, la casa de Judá irá a la casa de Israel, y vendrán juntos del norte a la tierra que yo di a sus padres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003018001",
+        "h24003018002"
+      ],
+      "issue": "omits licensed temporal phrase 'in those days'",
+      "spanishSpan": "Entonces,"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003018018"
+      ],
+      "issue": "changes 2mp suffix 'your fathers' to 3mp 'sus padres'",
+      "spanishSpan": "sus padres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003018016"
+      ],
+      "issue": "replaces hiphil 'caused to inherit' with simple 'di'",
+      "spanishSpan": "di"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

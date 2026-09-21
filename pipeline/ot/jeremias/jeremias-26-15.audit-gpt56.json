@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:15",
+  "chapter": 26,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero sabed bien que si me matáis, serán ustedes los que derramáis sangre inocente, y la ciudad y sus habitantes serán responsables, porque Jehová me ha enviado a ustedes en verdad para hablaros conforme a todo lo que han oído.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026015010",
+        "h24026015011",
+        "h24026015013",
+        "h24026015014"
+      ],
+      "issue": "replaces 'you put innocent blood upon yourselves' with 'derramáis sangre inocente'",
+      "spanishSpan": "serán ustedes los que derramáis sangre inocente"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026015016",
+        "h24026015017",
+        "h24026015019"
+      ],
+      "issue": "adds 'serán responsables' not licensed by tokens",
+      "spanishSpan": "y la ciudad y sus habitantes serán responsables"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026015025",
+        "h24026015026",
+        "h24026015028",
+        "h24026015029",
+        "h24026015030"
+      ],
+      "issue": "replaces 'to speak in your ears all these words' with 'hablaros conforme a todo lo que han oído'",
+      "spanishSpan": "para hablaros conforme a todo lo que han oído"
+    }
+  ],
+  "notes": "multiple interpretive expansions and omissions",
+  "discardedUncitedFindings": 0
+}

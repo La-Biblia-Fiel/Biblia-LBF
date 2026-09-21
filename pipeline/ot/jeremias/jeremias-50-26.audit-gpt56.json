@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:26",
+  "chapter": 50,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Venid contra ella desde el extremo, abrid sus almacenes; vaciadlos como se vacían los montones de heno y saqueadla; no dejéis nada de ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050026006",
+        "h24050026008"
+      ],
+      "issue": "wrong verb and added 'heno'; Hebrew is 'heap her up like heaps'",
+      "spanishSpan": "vaciadlos como se vacían los montones de heno"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050026009"
+      ],
+      "issue": "wrong sense; hiphil herem is 'devote to destruction', not 'saquead'",
+      "spanishSpan": "saqueadla"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

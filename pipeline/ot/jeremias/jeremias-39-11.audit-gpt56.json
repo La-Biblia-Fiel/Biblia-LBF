@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:11",
+  "chapter": 39,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el rey de Babilonia ordenó a Jeremías por medio de Nebuzaradán, jefe de los carniceros, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039011002"
+      ],
+      "issue": "omits explicit proper name subject Nebuchadnezzar",
+      "spanishSpan": "el rey de Babilonia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039011005"
+      ],
+      "issue": "renders עַל as direct-object marker 'a' instead of 'concerning/about'",
+      "spanishSpan": "ordenó a Jeremías"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

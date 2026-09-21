@@ -1,0 +1,59 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:19",
+  "chapter": 49,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que como un león sale de la montaña de Edom, y se dirige hacia Nevo, porque yo le he dado la orden de atacar; ¿quién es el valiente que se enfrentará a mí? ¿Quién es como yo? ¿Quién es este pastor que se enfrentará a mí?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049019004",
+        "h24049019005"
+      ],
+      "issue": "montaña de Edom replaces miggeʾôn hayyardēn",
+      "spanishSpan": "montaña de Edom"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049019007",
+        "h24049019008"
+      ],
+      "issue": "Nevo replaces nəwēh ʾêṯān",
+      "spanishSpan": "Nevo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049019010",
+        "h24049019011"
+      ],
+      "issue": "orden de atacar replaces ʾargîʿâ ʾărîṣennû (make him run away)",
+      "spanishSpan": "orden de atacar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049019014",
+        "h24049019016"
+      ],
+      "issue": "valiente que se enfrentará replaces bāḥûr ʾepqōḏ (chosen one I appoint)",
+      "spanishSpan": "valiente que se enfrentará a mí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049019021"
+      ],
+      "issue": "se enfrentará replaces yōʿîḏennî (summon me)",
+      "spanishSpan": "se enfrentará a mí"
+    }
+  ],
+  "notes": "multiple lexical and syntactic mismatches",
+  "discardedUncitedFindings": 0
+}

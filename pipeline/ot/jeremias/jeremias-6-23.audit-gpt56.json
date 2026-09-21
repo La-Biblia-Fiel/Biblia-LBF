@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:23",
+  "chapter": 6,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Tendrán arco y lanzas; son crueles y no tienen misericordia; el sonido de ellos es como el mar en calma; sobre caballos irán, cada uno en orden para la guerra, contra ti, oh hija de Sión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006023001",
+        "h24006023002",
+        "h24006023003"
+      ],
+      "issue": "verb rendered as 'tendrán' (possess) instead of 'hold/grasp'; singular כידון rendered plural 'lanzas'",
+      "spanishSpan": "Tendrán arco y lanzas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006023004",
+        "h24006023005",
+        "h24006023007"
+      ],
+      "issue": "singular 'he is cruel' rendered plural 'son crueles'; imperfect 'will not show mercy' rendered present 'no tienen'",
+      "spanishSpan": "son crueles y no tienen misericordia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006023009",
+        "h24006023010"
+      ],
+      "issue": "verb יֶהֱמֶה (roar) rendered 'en calma' (calm), reversing the sense",
+      "spanishSpan": "como el mar en calma"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006023014",
+        "h24006023015"
+      ],
+      "issue": "passive participle 'arranged' rendered 'cada uno en orden'",
+      "spanishSpan": "cada uno en orden"
+    }
+  ],
+  "notes": "multiple mismatches in verb, number, tense and meaning",
+  "discardedUncitedFindings": 0
+}

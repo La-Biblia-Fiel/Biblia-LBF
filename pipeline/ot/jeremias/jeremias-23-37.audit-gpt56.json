@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:37",
+  "chapter": 23,
+  "verse": 37,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dirás al profeta: “¿Qué ha respondido el SEÑOR? ¿Qué ha hablado el SEÑOR?”",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023037006"
+      ],
+      "issue": "omits 2fs pronominal suffix on עָנָךְ (you, f.)",
+      "spanishSpan": "ha respondido el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

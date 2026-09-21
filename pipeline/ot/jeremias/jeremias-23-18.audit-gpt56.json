@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:18",
+  "chapter": 23,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque ¿quién ha estado en el consejo del Señor para ver y oír sus palabras? ¿Quién ha escuchado y oído?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023018006",
+        "h24023018007"
+      ],
+      "issue": "renders jussive וְיֵרֶא וְיִשְׁמַע as purpose infinitive 'para ver y oír'",
+      "spanishSpan": "para ver y oír"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023018009"
+      ],
+      "issue": "pluralizes singular דְּבָרוֹ to 'palabras'",
+      "spanishSpan": "sus palabras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023018011",
+        "h24023018012"
+      ],
+      "issue": "second clause 'Quién ha escuchado y oído' duplicates and reassigns the hearing verbs already rendered in first clause",
+      "spanishSpan": "¿Quién ha escuchado y oído?"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

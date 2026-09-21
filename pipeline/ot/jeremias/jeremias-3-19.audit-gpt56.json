@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:19",
+  "chapter": 3,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo dije: ¿Cómo te plantaré como un hijo y te daré una tierra deseada, herencia de las huestes de las naciones? Y dije: Padre, te llamaré, y tras mí no volverás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003019005"
+      ],
+      "issue": "renders בַּבָּנִים as 'como un hijo' instead of 'among the sons/children'",
+      "spanishSpan": "como un hijo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003019015",
+        "h24003019016"
+      ],
+      "issue": "inverts participants: Spanish makes addressee call speaker 'Padre' instead of addressee calling speaker 'my father'",
+      "spanishSpan": "Padre, te llamaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003019010",
+        "h24003019011",
+        "h24003019012",
+        "h24003019013"
+      ],
+      "issue": "restructures construct chain נַחֲלַת צְבִי צִבְאוֹת גּוֹיִם into 'herencia de las huestes de las naciones'",
+      "spanishSpan": "herencia de las huestes de las naciones"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

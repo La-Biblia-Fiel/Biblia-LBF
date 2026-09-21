@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:7",
+  "chapter": 37,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice Jehová, Dios de Israel: Así dirás al rey de Judá que envía a ti para que le busques: He aquí que el ejército del faraón que salió a tu ayuda ha vuelto a su tierra Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037007007",
+        "h24037007012",
+        "h24037007019"
+      ],
+      "issue": "2mp verb and suffixes rendered as 2s (dirás, a ti, tu ayuda, busques)",
+      "spanishSpan": "dirás ... a ti ... tu ayuda ... busques"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

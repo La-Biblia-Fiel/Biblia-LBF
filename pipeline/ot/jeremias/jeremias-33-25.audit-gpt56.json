@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:25",
+  "chapter": 33,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor: ‘¿Acaso no he establecido mi pacto de día y de noche, las leyes del cielo y de la tierra, que no han sido anuladas?’",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033025003"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033025004",
+        "h24033025005"
+      ],
+      "issue": "conditional אִם לֹא turned into rhetorical question with '¿Acaso'",
+      "spanishSpan": "¿Acaso no"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033025012",
+        "h24033025013"
+      ],
+      "issue": "לֹא שָׂמְתִּי rendered as 'que no han sido anuladas' (adds annulment concept and changes participant/voice)",
+      "spanishSpan": "que no han sido anuladas"
+    }
+  ],
+  "notes": "candidate restructures and adds material not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

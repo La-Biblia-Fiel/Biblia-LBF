@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:17",
+  "chapter": 23,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Dicen a los que los desprecian: El Señor dice paz a ustedes. Pero todo el que anda en la rebeldía de su corazón dice: No vendrá sobre ustedes ningún mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023017003"
+      ],
+      "issue": "changes 1cs suffix 'my despisers' to third-person plural reference 'los que los desprecian'",
+      "spanishSpan": "a los que los desprecian"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023017005"
+      ],
+      "issue": "uses 'El Señor' instead of conventional Jehová for יהוה",
+      "spanishSpan": "El Señor"
+    }
+  ],
+  "notes": "participant shift and name rendering violate tokens",
+  "discardedUncitedFindings": 0
+}

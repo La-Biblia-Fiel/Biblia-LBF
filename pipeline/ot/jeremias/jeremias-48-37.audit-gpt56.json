@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:37",
+  "chapter": 48,
+  "verse": 37,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque toda cabeza rapada y toda barba cortada, y en todas las manos heridas, y en las caderas vendas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048037014"
+      ],
+      "issue": "שָׂק rendered as vendas (bandages) instead of sackcloth",
+      "spanishSpan": "vendas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

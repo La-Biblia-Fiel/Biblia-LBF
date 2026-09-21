@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:15",
+  "chapter": 5,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que traeré sobre ustedes un pueblo de lejos, oh casa de Israel, dice el SEÑOR. Es un pueblo fuerte, un pueblo antiguo, un pueblo cuya lengua no conocéis, ni podéis entender lo que dice.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005015018",
+        "h24005015021"
+      ],
+      "issue": "vosotros verb forms (conocéis, podéis) instead of Latin-American ustedes forms",
+      "spanishSpan": "no conocéis, ni podéis entender"
+    }
+  ],
+  "notes": "2ms verbs addressed to singular בֵּית but Spanish correctly pluralizes addressee; only variety mismatch triggers fail",
+  "discardedUncitedFindings": 0
+}

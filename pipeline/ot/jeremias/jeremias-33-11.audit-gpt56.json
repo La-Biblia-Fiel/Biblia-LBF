@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:11",
+  "chapter": 33,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "El sonido de la alegría y el sonido de la júbilo, el sonido del novio y el sonido de la novia, el sonido de los que dicen: Alabad a Jehovas de los ejércitos, porque es bueno Jehová, porque su misericordia es eterna; trayendo ofrendas de acción de gracias en la casa de Jehová, porque haré volver el cautiverio de la tierra como al principio, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033011011"
+      ],
+      "issue": "uses vosotros imperative 'Alabad' instead of Latin American 'Alaben'",
+      "spanishSpan": "Alabad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033011013",
+        "h24033011017",
+        "h24033011024",
+        "h24033011032"
+      ],
+      "issue": "misspells the proper name as 'Jehovas'",
+      "spanishSpan": "Jehovas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033011001",
+        "h24033011002",
+        "h24033011004"
+      ],
+      "issue": "reverses order of ששון and שמחה",
+      "spanishSpan": "alegría y el sonido de la júbilo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

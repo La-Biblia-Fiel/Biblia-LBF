@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:5",
+  "chapter": 40,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y aún no había vuelto, y volvió a Gedalía hijo de Achikam, hijo de Safán, al cual había puesto el rey de Babilonia sobre las ciudades de Judá, y vivió con él en medio del pueblo, o a todo lo que te parezca bien y recto a tus ojos, ve, y el jefe de los carniceros le dio pan y sueldo, y lo envió.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040005004"
+      ],
+      "issue": "imperative 2ms rendered as past narrative 'volvió'",
+      "spanishSpan": "y volvió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040005017"
+      ],
+      "issue": "imperative 2ms rendered as past narrative 'vivió'",
+      "spanishSpan": "y vivió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040005027"
+      ],
+      "issue": "imperative 2ms rendered inside mixed clause that alters address",
+      "spanishSpan": "ve"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040005030",
+        "h24040005031",
+        "h24040005032",
+        "h24040005033"
+      ],
+      "issue": "adds 'pan y sueldo' not licensed by the nouns",
+      "spanishSpan": "le dio pan y sueldo"
+    }
+  ],
+  "notes": "multiple mood/tense shifts from imperatives to narrative",
+  "discardedUncitedFindings": 0
+}

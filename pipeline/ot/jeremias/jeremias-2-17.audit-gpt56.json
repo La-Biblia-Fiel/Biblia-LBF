@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:17",
+  "chapter": 2,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso no te ha hecho esto por abandonar al SEÑOR tu Dios en el tiempo que te llevaba por el camino?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002017003",
+        "h24002017004"
+      ],
+      "issue": "reverses subject/object of תַּעֲשֶׂה לָּךְ; Spanish makes 'esto' the agent acting on 'te'",
+      "spanishSpan": "te ha hecho esto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002017005"
+      ],
+      "issue": "construes infinitive construct as causal 'por' rather than appositional specification of זֹאת",
+      "spanishSpan": "por abandonar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002017003"
+      ],
+      "issue": "renders qal imperfect as perfect 'ha hecho'",
+      "spanishSpan": "ha hecho"
+    }
+  ],
+  "notes": "2fs suffixes correctly rendered with 'te/tu'; SEÑOR conventional per packet",
+  "discardedUncitedFindings": 0
+}

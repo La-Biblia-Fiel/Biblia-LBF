@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:40",
+  "chapter": 51,
+  "verse": 40,
+  "candidateLabel": "gpt56",
+  "spanish": "Los haré caer como carneros para el matadero; como corderos con bueyes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051040004"
+      ],
+      "issue": "אֵילִים rendered as corderos (lambs) instead of carneros/aries",
+      "spanishSpan": "como corderos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051040006"
+      ],
+      "issue": "עַתּוּדִים rendered as bueyes (oxen) instead of machos cabríos or similar",
+      "spanishSpan": "con bueyes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

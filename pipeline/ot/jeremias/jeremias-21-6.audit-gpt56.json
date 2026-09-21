@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:6",
+  "chapter": 21,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los golpearé a los que habitasen en esta ciudad, al hombre y a la bestia; morirán de una gran peste.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021006003"
+      ],
+      "issue": "participle rendered as finite verb with subjunctive mood, adding hypothetical sense absent from tokens",
+      "spanishSpan": "a los que habitasen"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

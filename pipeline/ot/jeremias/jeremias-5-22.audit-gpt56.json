@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:22",
+  "chapter": 5,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso no temerán mi señal, dice el SEÑOR, ¿no temerán ante mí? Porque puse el mar como límite, como eterno decreto, que no lo traspasarán; pero el mar se agita y no puede, se levanta y no puede pasar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005022001"
+      ],
+      "issue": "adds unlicensed concept 'señal' to direct-object marker + 1cs suffix",
+      "spanishSpan": "mi señal"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005022003",
+        "h24005022009"
+      ],
+      "issue": "changes 2mp verbs to 3pl future",
+      "spanishSpan": "temerán ... temerán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005022012",
+        "h24005022013",
+        "h24005022014"
+      ],
+      "issue": "omits sand and reverses 'sand as boundary for the sea'",
+      "spanishSpan": "puse el mar como límite"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

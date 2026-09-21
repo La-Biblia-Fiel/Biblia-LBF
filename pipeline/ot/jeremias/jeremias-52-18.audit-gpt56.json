@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:18",
+  "chapter": 52,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los pinchos y las cortantes y los instrumentos de música y las cucharas y todos los utensilios de bronce que se usaban en ellos, los llevaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052018002",
+        "h24052018004",
+        "h24052018006",
+        "h24052018008",
+        "h24052018010"
+      ],
+      "issue": "Spanish nouns (pinchos, cortantes, instrumentos de música, cucharas) do not match the lemmas for the listed bronze items",
+      "spanishSpan": "los pinchos y las cortantes y los instrumentos de música y las cucharas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052018016"
+      ],
+      "issue": "renders שרת as passive 'se usaban' instead of active 3mp service/ministry",
+      "spanishSpan": "que se usaban en ellos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

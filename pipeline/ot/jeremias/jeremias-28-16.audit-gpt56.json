@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:16",
+  "chapter": 28,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, así ha dicho el SEÑOR: He aquí que te quito de sobre la faz de la tierra este año morirás, porque has hablado contra el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028016014"
+      ],
+      "issue": "omits licensed noun סָרָה (rebellion/revolt) and substitutes generic 'contra'",
+      "spanishSpan": "porque has hablado contra el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:1",
+  "chapter": 33,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Ocurrió otra vez la palabra de Jehová a Jeremías, mientras aún estaba encadenado en la corte de la guardia, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033001009"
+      ],
+      "issue": "encadenado specifies chains/fetters; lemma 6113 + qal passive participle only licenses shut up/imprisoned/detained",
+      "spanishSpan": "estaba encadenado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

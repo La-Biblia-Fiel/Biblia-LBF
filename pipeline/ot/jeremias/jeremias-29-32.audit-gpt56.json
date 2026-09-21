@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:32",
+  "chapter": 29,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, así ha dicho Jehová: He aquí que haré venir sobre Semajah el adivino y sobre su descendencia la calamidad. No habrá en medio del pueblo este un hombre que se asiente, y no verá el bien que yo hago a mi pueblo, porque ha hablado con soberbia contra Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029032009"
+      ],
+      "issue": "gentilic Nehelamite rendered as 'el adivino'",
+      "spanishSpan": "el adivino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029032006"
+      ],
+      "issue": "פקד rendered as 'haré venir ... la calamidad'",
+      "spanishSpan": "haré venir sobre ... la calamidad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029032030"
+      ],
+      "issue": "סרה rendered as 'con soberbia'",
+      "spanishSpan": "con soberbia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

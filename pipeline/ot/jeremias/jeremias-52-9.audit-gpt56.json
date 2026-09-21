@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:9",
+  "chapter": 52,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y lo tomaron y lo llevaron al rey de Babilonia a Ribla en la tierra de Hamat, y el rey de Babilonia le habló.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052009014"
+      ],
+      "issue": "omits licensed concept mishpatim (judgments/sentences)",
+      "spanishSpan": "le habló"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

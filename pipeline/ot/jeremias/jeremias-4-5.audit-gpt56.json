@@ -1,0 +1,59 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:5",
+  "chapter": 4,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Anunciad en Judá y proclamad en Jerusalén, decidle: Tocad la trompeta por toda la tierra. Decid: Reunid, y entrad en el refugio, oh habitantes de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004005006"
+      ],
+      "issue": "adds verb 'tocad' with no corresponding verb token; only the noun שׁוֹפָר is present",
+      "spanishSpan": "Tocad la trompeta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004005012",
+        "h24004005013",
+        "h24004005014",
+        "h24004005015"
+      ],
+      "issue": "renders cohortative + 'to the cities of the fortress' as 'entrad en el refugio'",
+      "spanishSpan": "entrad en el refugio"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004005011"
+      ],
+      "issue": "renders niphal 'be gathered' as active 'reunid'",
+      "spanishSpan": "Reunid"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004005005",
+        "h24004005010"
+      ],
+      "issue": "inserts dative 'le' with no token support",
+      "spanishSpan": "decidle"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004005007"
+      ],
+      "issue": "adds vocative 'oh habitantes de la tierra' absent from tokens",
+      "spanishSpan": "oh habitantes de la tierra"
+    }
+  ],
+  "notes": "multiple unlicensed additions and stem shifts",
+  "discardedUncitedFindings": 0
+}

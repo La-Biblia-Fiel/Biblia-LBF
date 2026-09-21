@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:14",
+  "chapter": 44,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no habrá huido ni quedado de la simiente de Judá que vino a habitar allí en la tierra de Egipto, y para volver a la tierra de Judá, que ellos llevan su alma para volver a habitar allí, porque no volverán, sino los que huyeron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044014003",
+        "h24044014004"
+      ],
+      "issue": "adds verbs huido/quedado and resolves nouns as actions",
+      "spanishSpan": "no habrá huido ni quedado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044014005"
+      ],
+      "issue": "simiente adds seed/offspring concept not in she'erit",
+      "spanishSpan": "simiente de Judá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044014028"
+      ],
+      "issue": "adds verb huyeron to interpret p'letim",
+      "spanishSpan": "los que huyeron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

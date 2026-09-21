@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:13",
+  "chapter": 28,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Ve y dile a Hananías: Así ha dicho el SEÑOR: Has roto la vara de madera, y harás en su lugar varas de hierro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028013009",
+        "h24028013014",
+        "h24028013013"
+      ],
+      "issue": "plural מוֹטֹת/מֹטוֹת + 3fp suffix rendered as singular vara + su",
+      "spanishSpan": "la vara ... su lugar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028013008"
+      ],
+      "issue": "יהוה rendered as el SEÑOR instead of Jehová",
+      "spanishSpan": "el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

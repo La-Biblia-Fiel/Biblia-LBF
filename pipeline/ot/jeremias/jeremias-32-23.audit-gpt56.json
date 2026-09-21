@@ -1,0 +1,29 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:23",
+  "chapter": 32,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Han entrado y la han ocupado, pero no han escuchado tu voz ni han seguido tus mandamientos para hacerlos, y has traído sobre ellos todo este mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032023010",
+        "h24032023011",
+        "h24032023012",
+        "h24032023013",
+        "h24032023014",
+        "h24032023015",
+        "h24032023016"
+      ],
+      "issue": "adds 'mandamientos' and rephrases 'all that you commanded them to do' as following commandments",
+      "spanishSpan": "ni han seguido tus mandamientos para hacerlos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

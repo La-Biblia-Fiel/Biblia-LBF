@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:20",
+  "chapter": 7,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso dice el SEÑOR, el Dios de los ejércitos: He aquí que mi ira y mi enojo se han encendido contra este lugar, contra los hombres y contra las bestias, contra las plantas y contra los frutos del suelo; arderá y no se apagará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007020004",
+        "h24007020005"
+      ],
+      "issue": "adds 'el Dios de los ejércitos' not present in tokens",
+      "spanishSpan": "el Dios de los ejércitos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007020009"
+      ],
+      "issue": "renders נתך 'poured out' as 'se han encendido'",
+      "spanishSpan": "se han encendido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007020018",
+        "h24007020019"
+      ],
+      "issue": "renders עץ השדה as 'las plantas' instead of tree/field",
+      "spanishSpan": "las plantas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

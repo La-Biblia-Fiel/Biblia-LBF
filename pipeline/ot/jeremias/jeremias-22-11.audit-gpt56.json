@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:11",
+  "chapter": 22,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho Jehová acerca de Salum hijo de Josías, rey de Judá, que reinó en lugar de su padre Josías: Él saldrá de este lugar, pero no volverá a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022011016"
+      ],
+      "issue": "יָצָא (qal perfect 3ms) rendered as future 'saldrá' instead of past",
+      "spanishSpan": "Él saldrá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

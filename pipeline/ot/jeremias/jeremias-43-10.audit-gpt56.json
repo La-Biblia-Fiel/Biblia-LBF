@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 43:10",
+  "chapter": 43,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás a ellos: Así ha dicho Jehová de los ejércitos, el Dios de Israel: He aquí que envío y tomaré a Nabucodonosor rey de Babilonia, mi siervo, y pondré su trono sobre estas piedras que he enterrado, y hará que su silla esté sobre ellas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043010024",
+        "h24043010025",
+        "h24043010026"
+      ],
+      "issue": "adds noun 'silla' and changes verb נטה to 'hará que ... esté' with no licensed noun or 'be' semantics",
+      "spanishSpan": "y hará que su silla esté sobre ellas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

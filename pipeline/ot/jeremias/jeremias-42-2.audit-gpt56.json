@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:2",
+  "chapter": 42,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Le dijeron a Jeremías el profeta: “Ruega por nosotros ante ti y ora por nosotros ante el Señor, tu Dios, por todo este resto, pues nos quedamos pocos de muchos, como tus ojos ven a nosotros.”",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042002005",
+        "h24042002006",
+        "h24042002007",
+        "h24042002008"
+      ],
+      "issue": "Spanish renders תפל נא תחנתנו לפניך as 'Ruega por nosotros ante ti', adding an imperative of prayer not present in the tokens",
+      "spanishSpan": "Ruega por nosotros ante ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042002009",
+        "h24042002010",
+        "h24042002011",
+        "h24042002012",
+        "h24042002013"
+      ],
+      "issue": "Spanish duplicates the prayer request and places the second prayer 'ante ti' instead of correctly rendering only one hithpael imperative directed to YHWH",
+      "spanishSpan": "y ora por nosotros ante el Señor, tu Dios"
+    }
+  ],
+  "notes": "remainder of verse matches tokens",
+  "discardedUncitedFindings": 0
+}

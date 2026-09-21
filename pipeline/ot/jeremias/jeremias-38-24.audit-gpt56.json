@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:24",
+  "chapter": 38,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Zedequías a Jeremías: Que nadie sepa estas cosas y no te maten.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038024011"
+      ],
+      "issue": "changes 'you shall not die' (2ms qal imperfect of מות) to 'do not let them kill you'",
+      "spanishSpan": "y no te maten"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

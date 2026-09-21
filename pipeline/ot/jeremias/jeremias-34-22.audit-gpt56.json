@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:22",
+  "chapter": 34,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí, os mando, dice el SEÑOR, y os haré volver a esta ciudad, y lucharán contra ella y la tomarán y la quemarán con fuego, y haré que las ciudades de Judá sean desolación sin habitantes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034022005"
+      ],
+      "issue": "changes 3mp suffix to 2pl addressee (os haré volver)",
+      "spanishSpan": "os haré volver"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034022004"
+      ],
+      "issue": "יהוה rendered as SEÑOR instead of Jehová",
+      "spanishSpan": "el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034022001",
+        "h24034022002"
+      ],
+      "issue": "adds explicit 2pl object (os mando) not present in tokens",
+      "spanishSpan": "os mando"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

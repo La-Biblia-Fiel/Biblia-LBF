@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:30",
+  "chapter": 31,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero cada uno morirá por su pecado; toda la carne que come higos agrios, sus dientes se les encanallarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031030007"
+      ],
+      "issue": "toda la carne replaces האדם with un-licensed noun",
+      "spanishSpan": "toda la carne"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031030009"
+      ],
+      "issue": "higos agrios replaces הבסר (sour grape) with wrong fruit",
+      "spanishSpan": "higos agrios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031030010",
+        "h24031030011"
+      ],
+      "issue": "encanallarán neither renders קהה nor preserves teeth as subject",
+      "spanishSpan": "sus dientes se les encanallarán"
+    }
+  ],
+  "notes": "multiple lexical substitutions and participant distortion",
+  "discardedUncitedFindings": 0
+}

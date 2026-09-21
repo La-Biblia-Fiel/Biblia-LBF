@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:2",
+  "chapter": 35,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Ve a la casa de los recabitas y hablales, y lleva a los hijos de Jonadab hijo de Recab al templo del SEÑOR, a una de las habitaciones, y diles que beban vino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035002007",
+        "h24035002008",
+        "h24035002009",
+        "h24035002010",
+        "h24035002011",
+        "h24035002012"
+      ],
+      "issue": "adds 'hijos de Jonadab hijo de Recab' with no licensing tokens",
+      "spanishSpan": "a los hijos de Jonadab hijo de Recab"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035002013",
+        "h24035002014",
+        "h24035002015"
+      ],
+      "issue": "changes hiphil 'cause them to drink' to 'tell them to drink' (participant/stem shift)",
+      "spanishSpan": "diles que beban vino"
+    }
+  ],
+  "notes": "extra referent and altered causative force",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:5",
+  "chapter": 27,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Yo he hecho la tierra, el hombre y la bestia que está sobre la faz de la tierra con mi gran poder y con mi brazo extendido; y los daré a quien me place.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027005017"
+      ],
+      "issue": "suffix is 3fs but Spanish renders as masculine plural 'los'",
+      "spanishSpan": "los daré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027005019",
+        "h24027005020"
+      ],
+      "issue": "lemma ישר + בעיני rendered idiomatically as 'me place' instead of preserving 'right in my eyes'",
+      "spanishSpan": "a quien me place"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

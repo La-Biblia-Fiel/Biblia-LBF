@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:16",
+  "chapter": 22,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Juzga al quebrantado y al necesitado, y será bien para ti. ¿Acaso no conoce esto mi Señor? dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022016001"
+      ],
+      "issue": "qal perfect 3ms rendered as 2s imperative",
+      "spanishSpan": "Juzga"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022016003"
+      ],
+      "issue": "עָנִי rendered as quebrantado instead of poor/afflicted",
+      "spanishSpan": "quebrantado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022016005",
+        "h24022016006"
+      ],
+      "issue": "אָז טוֹב expanded to será bien para ti (adds second-person beneficiary absent from tokens)",
+      "spanishSpan": "y será bien para ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022016007",
+        "h24022016008",
+        "h24022016009",
+        "h24022016010"
+      ],
+      "issue": "הֲלוֹא הִיא הַדַּעַת אֹתִי restructured as question about Señor knowing esto (reverses participants and adds concepts)",
+      "spanishSpan": "¿Acaso no conoce esto mi Señor?"
+    }
+  ],
+  "notes": "multiple token mismatches and added/omitted participants",
+  "discardedUncitedFindings": 0
+}

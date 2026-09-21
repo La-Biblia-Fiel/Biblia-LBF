@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:15",
+  "chapter": 3,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y te daré pastores conforme a mi corazón, y ellos te apacentarán con conocimiento y con inteligencia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003015002",
+        "h24003015006"
+      ],
+      "issue": "2mp suffixes rendered as singular 'te'",
+      "spanishSpan": "te ... te"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

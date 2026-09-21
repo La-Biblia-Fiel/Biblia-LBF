@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:14",
+  "chapter": 46,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Anuncien en Egipto, proclamen en Migdol, proclamen en Nof y en Tahpanhes; dicen: Estad firmes y preparaos, porque la espada os rodea.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046014008"
+      ],
+      "issue": "אִמְר֗וּ is 2mp imperative; Spanish renders as 3p indicative 'dicen'",
+      "spanishSpan": "dicen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046014013",
+        "h24046014014",
+        "h24046014015"
+      ],
+      "issue": "אָכְלָה חֶרֶב סְבִיבֶיךָ is qal perfect 3fs 'has devoured' with 2ms suffix; Spanish changes to present 'rodea' and shifts to 2p 'os'",
+      "spanishSpan": "la espada os rodea"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046014009",
+        "h24046014010",
+        "h24046014011"
+      ],
+      "issue": "הִתְיַצֵּב וְהָכֵן לָךְ mixes 2ms/2fs; Spanish converts to 2p 'Estad firmes y preparaos'",
+      "spanishSpan": "Estad firmes y preparaos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

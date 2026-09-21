@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:20",
+  "chapter": 42,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque os he dado en el corazón, porque me enviasteis a Jehová, su Dios, diciendo: Ruego por nosotros a Jehová, nuestro Dios, y todo lo que Jehová, nuestro Dios, dijere, así os lo declararemos y lo haremos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042020001",
+        "h24042020002"
+      ],
+      "issue": "Spanish inserts 'os he dado en el corazón' with no token support; first two tokens only license 'ki b'napshoteikhem'",
+      "spanishSpan": "Porque os he dado en el corazón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042020009"
+      ],
+      "issue": "2mp suffix rendered as 'su Dios' instead of 'vuestro Dios'",
+      "spanishSpan": "su Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042020011",
+        "h24042020012"
+      ],
+      "issue": "2ms hithpael imperative to the prophet rendered as 1s 'Ruego'",
+      "spanishSpan": "Ruego por nosotros"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042020022",
+        "h24042020023",
+        "h24042020024"
+      ],
+      "issue": "2ms hiphil imperative + 1cp cohortative reversed: Spanish makes speakers declare to addressees instead of 'tell us and we will do'",
+      "spanishSpan": "os lo declararemos y lo haremos"
+    }
+  ],
+  "notes": "multiple participant and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

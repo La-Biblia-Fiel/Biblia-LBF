@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:21",
+  "chapter": 22,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Hablé contigo en tu paz, dije: No escucharé. Ese ha sido tu camino desde tu juventud, porque no has escuchado mi voz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022021002"
+      ],
+      "issue": "אֵלַיִךְ rendered as 'contigo' (with you) instead of 'a ti' (to you)",
+      "spanishSpan": "Hablé contigo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022021003"
+      ],
+      "issue": "בְּשַׁלְוֺתַיִךְ rendered as 'en tu paz' (adds peace concept not licensed by lemma)",
+      "spanishSpan": "en tu paz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022021004"
+      ],
+      "issue": "אָמַ֖רְתְּ (2fs) rendered as 'dije' (1cs) instead of 'dijiste'; shifts speaker/participant",
+      "spanishSpan": "dije"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

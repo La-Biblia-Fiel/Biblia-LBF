@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:39",
+  "chapter": 32,
+  "verse": 39,
+  "candidateLabel": "gpt56",
+  "spanish": "Les daré un corazón y una senda para que me teman siempre, para su bien y para el bien de sus hijos después de ellos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24032039011"
+      ],
+      "issue": "repeats 'bien' for sons, smoothing the single לְטוֹב applying to both",
+      "spanishSpan": "para el bien de"
+    }
+  ],
+  "notes": "otherwise faithful to tokens",
+  "discardedUncitedFindings": 0
+}

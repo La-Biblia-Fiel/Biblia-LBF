@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:18",
+  "chapter": 2,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Y ahora, qué tienes que ver con el camino de Egipto para beber agua del Nilo, o qué tienes que ver con el camino de Asiria para beber agua del río?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002018008"
+      ],
+      "issue": "renders proper name שִׁחוֹר as interpretive geographic 'Nilo'",
+      "spanishSpan": "del Nilo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002018007",
+        "h24002018014"
+      ],
+      "issue": "changes plural מֵי to singular 'agua'",
+      "spanishSpan": "agua"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

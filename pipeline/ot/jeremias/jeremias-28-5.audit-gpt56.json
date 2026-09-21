@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:5",
+  "chapter": 28,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces Jeremías el profeta dijo a Hananías el profeta, en presencia de los sacerdotes y de todo el pueblo que estaba en el templo del SEÑOR:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028005013"
+      ],
+      "issue": "templo adds building-type concept not licensed by בֵּית (house)",
+      "spanishSpan": "templo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028005014"
+      ],
+      "issue": "SEÑOR instead of licensed conventional Jehová for יְהוָה",
+      "spanishSpan": "SEÑOR"
+    }
+  ],
+  "notes": "omission of standing participle is smoothing",
+  "discardedUncitedFindings": 0
+}

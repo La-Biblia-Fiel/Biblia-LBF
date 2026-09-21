@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:28",
+  "chapter": 51,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Santificad la guerra contra ellas, contra los reyes de Media, contra sus gobernantes y contra todos sus príncipes, y contra toda la tierra de su dominio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051028001",
+        "h24051028003"
+      ],
+      "issue": "inserts 'la guerra' with no corresponding lemma or token",
+      "spanishSpan": "la guerra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051028002"
+      ],
+      "issue": "changes 3fs suffix 'her' to feminine plural 'ellas'",
+      "spanishSpan": "ellas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051028003"
+      ],
+      "issue": "omits גוֹיִם entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:12",
+  "chapter": 33,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová de los ejércitos: Otra vez será en este lugar que decís desolado, sin gente y sin bestias, en las ciudades de Judá y alrededor de Jerusalén, que las almas no están, sin gente, sin habitantes y sin bestias.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033012015"
+      ],
+      "issue": "adds Judá/Jerusalén not present in tokens; עָרָיו is only 'its cities'",
+      "spanishSpan": "en las ciudades de Judá y alrededor de Jerusalén"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033012016",
+        "h24033012017",
+        "h24033012018",
+        "h24033012019"
+      ],
+      "issue": "omits entire licensed clause נְוֵה רֹעִים מַרְבִּצִים צֹאן and replaces with invented negation about souls",
+      "spanishSpan": "que las almas no están, sin gente, sin habitantes y sin bestias"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033012009",
+        "h24033012010",
+        "h24033012011",
+        "h24033012012",
+        "h24033012013"
+      ],
+      "issue": "repeats desolation clause after the restoration promise, changing the sense of the tokens",
+      "spanishSpan": "que las almas no están, sin gente, sin habitantes y sin bestias"
+    }
+  ],
+  "notes": "Spanish inverts the meaning of the final tokens and adds referents absent from packet.",
+  "discardedUncitedFindings": 0
+}

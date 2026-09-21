@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:4",
+  "chapter": 32,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Zedequías, rey de Judá, no se librará de manos de los caldeos, porque lo entregará en manos del rey de Babilonia, y hablará con su boca cara a cara, y sus ojos verán con los ojos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032004009",
+        "h24032004010"
+      ],
+      "issue": "Niphal passive (הִנָּתֹן יִנָּתֵן) rendered as active 'lo entregará'",
+      "spanishSpan": "lo entregará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032004014",
+        "h24032004015",
+        "h24032004016",
+        "h24032004017"
+      ],
+      "issue": "literal 'su boca con su boca' expanded to interpretive 'cara a cara'",
+      "spanishSpan": "cara a cara"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

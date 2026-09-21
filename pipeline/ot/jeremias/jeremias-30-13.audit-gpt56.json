@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:13",
+  "chapter": 30,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "No hay quien juzgue tu causa para que te libere; no hay remedio para tus dolencias.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030013004"
+      ],
+      "issue": "לְמָזוֹר rendered as 'para que te libere' (addition of 'free/release' concept absent from tokens)",
+      "spanishSpan": "para que te libere"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030013005",
+        "h24030013006",
+        "h24030013008"
+      ],
+      "issue": "רְפֻאוֹת תְּעָלָה ... לָךְ rendered as 'remedio para tus dolencias' (introduces 'dolencias' and shifts from 'no healings for you')",
+      "spanishSpan": "no hay remedio para tus dolencias"
+    }
+  ],
+  "notes": "first clause also drops the 'bandage' sense entirely",
+  "discardedUncitedFindings": 0
+}

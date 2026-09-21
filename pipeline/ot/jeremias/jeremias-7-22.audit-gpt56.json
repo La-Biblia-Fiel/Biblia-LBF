@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:22",
+  "chapter": 7,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque no hablé con vuestros padres ni les dije en el día que los saqué de la tierra de Egipto acerca de ofrendas de paz y sacrificios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007022007"
+      ],
+      "issue": "Spanish renders צִוִּיתִם as 'dije' (said) instead of commanded",
+      "spanishSpan": "ni les dije"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007022014",
+        "h24007022015"
+      ],
+      "issue": "Spanish renders עוֹלָה וָזָבַח as 'ofrendas de paz y sacrificios', inserting 'de paz' not present in tokens",
+      "spanishSpan": "ofrendas de paz y sacrificios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007022005"
+      ],
+      "issue": "Uses 'vuestros' (vosotros form) instead of Latin American 'sus' or equivalent",
+      "spanishSpan": "vuestros padres"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

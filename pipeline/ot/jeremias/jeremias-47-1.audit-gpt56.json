@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 47:1",
+  "chapter": 47,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Que la palabra del Señor vino a Jeremías el profeta contra los filisteos antes que Faraón golpeara a Azot.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047001004"
+      ],
+      "issue": "Señor substitutes for proper name יהוה; packet requires Jehová",
+      "spanishSpan": "Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047001002"
+      ],
+      "issue": "היה rendered as dynamic 'vino' instead of static 'era/fue'",
+      "spanishSpan": "vino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047001014"
+      ],
+      "issue": "עזה rendered as Azot (wrong referent; token is Gaza)",
+      "spanishSpan": "Azot"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047001008",
+        "h24047001009"
+      ],
+      "issue": "second אל + Philistines rendered 'contra' resolving directional preposition",
+      "spanishSpan": "contra los filisteos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

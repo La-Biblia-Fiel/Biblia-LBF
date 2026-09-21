@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:1",
+  "chapter": 52,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En el año veintiuno de su reinado, Zedequías hijo de Josías fue rey en Jerusalén por dieciséis años. El nombre de su madre era Hamutal, hija de Jeremías de Libnah.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052001001",
+        "h24052001002",
+        "h24052001003",
+        "h24052001004",
+        "h24052001006"
+      ],
+      "issue": "renders בֶּן־עֶשְׂרִים וְאַחַת שָׁנָה בְּמָלְכוֹ as 'año veintiuno de su reinado' instead of age at accession",
+      "spanishSpan": "En el año veintiuno de su reinado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052001007",
+        "h24052001008",
+        "h24052001009",
+        "h24052001010"
+      ],
+      "issue": "renders וְאַחַת עֶשְׂרֵה שָׁנָה מָלַךְ as 'por dieciséis años'",
+      "spanishSpan": "por dieciséis años"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052001005"
+      ],
+      "issue": "inserts 'hijo de Josías' with no licensing token",
+      "spanishSpan": "Zedequías hijo de Josías"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052001013",
+        "h24052001014",
+        "h24052001015",
+        "h24052001016"
+      ],
+      "issue": "inserts proper name 'Hamutal' absent from tokens",
+      "spanishSpan": "Hamutal"
+    }
+  ],
+  "notes": "multiple additions, omissions and mis-parsing of age/reign clauses",
+  "discardedUncitedFindings": 0
+}

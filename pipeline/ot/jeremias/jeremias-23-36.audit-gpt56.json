@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:36",
+  "chapter": 23,
+  "verse": 36,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el mensaje del SEÑOR no lo mencionarás más, porque cada uno hablará su propia palabra, y han cambiado las palabras de los vivos Dios, el SEÑOR de los ejércitos, nuestro Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023036011"
+      ],
+      "issue": "2mp verb rendered without 2pl subject or verb form, becoming 3pl",
+      "spanishSpan": "han cambiado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023036009",
+        "h24023036010"
+      ],
+      "issue": "adds 'cada uno hablará su propia palabra' not licensed by tokens",
+      "spanishSpan": "porque cada uno hablará su propia palabra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023036014",
+        "h24023036015"
+      ],
+      "issue": "word order and morphology altered; 'vivos Dios' instead of 'Dioses vivos'",
+      "spanishSpan": "los vivos Dios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

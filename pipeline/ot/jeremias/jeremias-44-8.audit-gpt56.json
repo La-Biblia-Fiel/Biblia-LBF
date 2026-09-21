@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:8",
+  "chapter": 44,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Para enojarme con las obras de sus manos, para quemar incienso a dioses extranjeros en la tierra de Egipto, donde venís a habitar, para cortaros y para que seáis maldición y escarnio entre todas las gentes de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044008003"
+      ],
+      "issue": "person mismatch: 2mp 'your hands' rendered as 3rd-person 'sus manos'",
+      "spanishSpan": "sus manos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044008010",
+        "h24044008011"
+      ],
+      "issue": "vosotros form 'venís' instead of Latin-American ustedes",
+      "spanishSpan": "venís"
+    }
+  ],
+  "notes": "person shift on hands; variety mismatch on verb",
+  "discardedUncitedFindings": 0
+}

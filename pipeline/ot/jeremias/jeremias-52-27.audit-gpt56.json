@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:27",
+  "chapter": 52,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el rey de Babilonia los mató en Ribla, en la tierra de Hamat, y deportó a Judá de su tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052027001",
+        "h24052027005"
+      ],
+      "issue": "Spanish uses only one verb (mató) where tokens license two sequential actions (struck + put to death)",
+      "spanishSpan": "los mató"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

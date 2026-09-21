@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:19",
+  "chapter": 5,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sucederá que cuando os preguntéis: ¿Por qué ha hecho el SEÑOR nuestro Dios todas estas cosas contra nosotros? responderéis: Porque han abandonado al SEÑOR, su Dios, y han servido a dioses extranjeros en su tierra, serviréis a extranjeros en una tierra que no es su.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005019003"
+      ],
+      "issue": "replaces תֹאמְר֔וּ (diréis) with os preguntéis",
+      "spanishSpan": "cuando os preguntéis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005019013",
+        "h24005019016",
+        "h24005019018"
+      ],
+      "issue": "vosotros forms and 3rd-person shift on עֲזַבְתֶּ֤ם / וַתַּעַבְד֞וּ instead of 2mp ustedes",
+      "spanishSpan": "responderéis ... han abandonado ... han servido ... serviréis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005019007"
+      ],
+      "issue": "SEÑOR for יְהֹוָ֧ה instead of Jehová",
+      "spanishSpan": "el SEÑOR"
+    }
+  ],
+  "notes": "vosotros variety and participant shift on 2mp verbs",
+  "discardedUncitedFindings": 0
+}

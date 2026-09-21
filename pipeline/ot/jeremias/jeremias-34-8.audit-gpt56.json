@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:8",
+  "chapter": 34,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra que vino a Jeremías del Señor, después que el rey Zedequías había hecho un pacto con todo el pueblo de Jerusalén para proclamar libertad a sus siervos y siervas hebreos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034008019",
+        "h24034008020"
+      ],
+      "issue": "adds 'a sus siervos y siervas hebreos' not licensed by tokens",
+      "spanishSpan": "a sus siervos y siervas hebreos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034008007"
+      ],
+      "issue": "Señor instead of conventional Jehová for יהוה",
+      "spanishSpan": "del Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034008015",
+        "h24034008016",
+        "h24034008017"
+      ],
+      "issue": "pueblo de Jerusalén resolves relative clause אשר בירושלם",
+      "spanishSpan": "pueblo de Jerusalén"
+    }
+  ],
+  "notes": "also 'había hecho' for כרת is smoothing",
+  "discardedUncitedFindings": 0
+}

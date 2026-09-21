@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:17",
+  "chapter": 4,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Como guardianes de los campos, están alrededor de ti; porque me han afligido, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004017004"
+      ],
+      "issue": "עָלֶיהָ (upon her, 3fs) rendered as 'alrededor de ti' (around you, 2fs)",
+      "spanishSpan": "alrededor de ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004017008"
+      ],
+      "issue": "מָרָתָה (she has rebelled, 3fs) rendered as 'me han afligido' (they have afflicted me)",
+      "spanishSpan": "me han afligido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004017003"
+      ],
+      "issue": "הָי֥וּ (perfect 'have been') rendered as present 'están'",
+      "spanishSpan": "están"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004017002"
+      ],
+      "issue": "שָׂדַ֔י (field, singular) rendered as plural 'campos'",
+      "spanishSpan": "campos"
+    }
+  ],
+  "notes": "multiple participant, tense, and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

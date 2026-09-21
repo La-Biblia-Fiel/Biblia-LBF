@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:4",
+  "chapter": 20,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho el Señor: He aquí que te entrego a ti y a todos tus amados en manos de la peste, y caerán a espada a manos de sus enemigos, y tus ojos verán esto; y entregaré a todo Judá en manos del rey de Babilonia, y los llevaré cautivos a Babilonia, y los mataré a espada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020004004"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020004007"
+      ],
+      "issue": "לְמָגוֹר (terror) rendered as 'peste' (plague)",
+      "spanishSpan": "la peste"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020004023",
+        "h24020004025"
+      ],
+      "issue": "3ms verbs (king will exile/strike) shifted to 1cs 'llevaré'/'mataré'",
+      "spanishSpan": "los llevaré cautivos ... los mataré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

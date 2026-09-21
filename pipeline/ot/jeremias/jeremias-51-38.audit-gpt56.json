@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:38",
+  "chapter": 51,
+  "verse": 38,
+  "candidateLabel": "gpt56",
+  "spanish": "Como ciervos rugirán juntos, y como leones se moverán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051038002"
+      ],
+      "issue": "ciervos replaces young lions",
+      "spanishSpan": "ciervos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051038004"
+      ],
+      "issue": "se moverán replaces roared/growled",
+      "spanishSpan": "se moverán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051038005",
+        "h24051038006"
+      ],
+      "issue": "leones replaces lion cubs/whelps",
+      "spanishSpan": "leones"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:4",
+  "chapter": 4,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Circuncidados seáis al SEÑOR, quitad las cubiertas de vuestros corazones, oh hombres de Judá y habitantes de Jerusalén, para que no salga como fuego mi ira y arda, y no quede quien la apague, por la maldad de vuestras obras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004004004"
+      ],
+      "issue": "עָרְל֣וֹת rendered as 'cubiertas' (adds interpretive concept of coverings not licensed by lemma H6190 or surface)",
+      "spanishSpan": "las cubiertas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

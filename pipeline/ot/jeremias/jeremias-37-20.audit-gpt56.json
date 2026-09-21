@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:20",
+  "chapter": 37,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora, te ruego, oh mi señor el rey, escucha mi súplica y no me eches en la casa de Jonatán el escriba, y no moriré allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037020006",
+        "h24037020008",
+        "h24037020009"
+      ],
+      "issue": "replaces תִּפֹּל נָא תְחִנָּתִי לְפָנֶיךָ with interpretive 'te ruego... escucha mi súplica'",
+      "spanishSpan": "te ruego, oh mi señor el rey, escucha mi súplica"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037020011"
+      ],
+      "issue": "תְּשִׁבֵנִי (hiphil jussive 'cause me to return') rendered as 'no me eches' (throw/cast)",
+      "spanishSpan": "no me eches"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

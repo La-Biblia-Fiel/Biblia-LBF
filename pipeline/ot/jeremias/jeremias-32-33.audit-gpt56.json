@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:33",
+  "chapter": 32,
+  "verse": 33,
+  "candidateLabel": "gpt56",
+  "spanish": "Se dieron la vuelta hacia mí con la espalda y no con el rostro; cuando los enseñé, no quisieron escuchar para recibir corrección.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032033008"
+      ],
+      "issue": "omits 'rising early' (הַשְׁכֵּ֣ם) from the repeated teaching construction",
+      "spanishSpan": "cuando los enseñé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032033011"
+      ],
+      "issue": "renders qal participle 'they are not listening' as 'no quisieron escuchar', adding volition and shifting aspect",
+      "spanishSpan": "no quisieron escuchar"
+    }
+  ],
+  "notes": "infinitive absolutes and participle force not preserved",
+  "discardedUncitedFindings": 0
+}

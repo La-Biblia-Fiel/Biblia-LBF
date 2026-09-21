@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:40",
+  "chapter": 23,
+  "verse": 40,
+  "candidateLabel": "gpt56",
+  "spanish": "Y pondré sobre ustedes una maldición eterna y un deshonor eterno que no olvidarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023040003",
+        "h24023040004"
+      ],
+      "issue": "חרפה rendered as 'maldición' (adds unlicensed concept)",
+      "spanishSpan": "maldición eterna"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023040009"
+      ],
+      "issue": "Niphal passive 'no será olvidada' rendered as active 'no olvidarán' (changes voice and participants)",
+      "spanishSpan": "que no olvidarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

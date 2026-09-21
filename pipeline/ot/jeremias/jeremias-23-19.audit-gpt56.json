@@ -1,0 +1,52 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:19",
+  "chapter": 23,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí la ira del Señor, su cólera sale como un vendaval; un huracán se levanta sobre la cabeza de los malvados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023019002",
+        "h24023019003"
+      ],
+      "issue": "replaces 'storm of YHWH' construct with 'ira del Señor'",
+      "spanishSpan": "la ira del Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023019001",
+        "h24023019004",
+        "h24023019005"
+      ],
+      "issue": "adds unlicensed simile 'sale como un vendaval'",
+      "spanishSpan": "sale como un vendaval"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023019003"
+      ],
+      "issue": "YHWH rendered as Señor instead of conventional Jehová",
+      "spanishSpan": "del Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023019006",
+        "h24023019007",
+        "h24023019011"
+      ],
+      "issue": "restructures and merges the two storm clauses with non-token verbs",
+      "spanishSpan": "un huracán se levanta"
+    }
+  ],
+  "notes": "multiple additions and name substitutions not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

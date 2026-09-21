@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:15",
+  "chapter": 27,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque no los envié, dice el SEÑOR, y profetizan en mi nombre falsedades para apartaros, para que muráis ustedes y los profetas que profetizan en su nombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027015017"
+      ],
+      "issue": "replaces לָכֶם (to you) with 'en su nombre'",
+      "spanishSpan": "que profetizan en su nombre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

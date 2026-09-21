@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:24",
+  "chapter": 44,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Y respondió Jeremías a todo el pueblo y a todas las mujeres: Oíd la palabra de Jehová, todo Judá que está en tierra de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044024001"
+      ],
+      "issue": "וַיֹּ֤אמֶר (lemma 559) is 'and he said', not 'respondió'",
+      "spanishSpan": "Y respondió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044024009"
+      ],
+      "issue": "2mp imperative rendered with vosotros 'Oíd' instead of Latin American 'Oigan'",
+      "spanishSpan": "Oíd"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

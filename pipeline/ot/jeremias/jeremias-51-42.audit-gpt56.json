@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:42",
+  "chapter": 51,
+  "verse": 42,
+  "candidateLabel": "gpt56",
+  "spanish": "Sube sobre Babilonia el mar, con la multitud de sus olas que la han cubierto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051042001"
+      ],
+      "issue": "qal perfect 3ms rendered as present indicative 'Sube' instead of perfect",
+      "spanishSpan": "Sube"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051042007"
+      ],
+      "issue": "niphal perfect 3fs passive 'was covered' restructured as active plural perfect relative clause 'que la han cubierto'",
+      "spanishSpan": "que la han cubierto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

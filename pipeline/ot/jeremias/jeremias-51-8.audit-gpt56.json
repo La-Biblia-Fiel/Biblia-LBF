@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:8",
+  "chapter": 51,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "De repente Babilonia cayó y se rompió. ¡Lamentadla! ¡Tomad bálsamo para su dolor, quizás se cure!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051008005",
+        "h24051008007"
+      ],
+      "issue": "uses vosotros imperative forms (lamentad, tomad) instead of Latin American ustedes",
+      "spanishSpan": "¡Lamentadla! ¡Tomad"
+    }
+  ],
+  "notes": "also 'lamentadla' uses direct object rather than 'over her'",
+  "discardedUncitedFindings": 0
+}

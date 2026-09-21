@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:26",
+  "chapter": 29,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Jehová te ha hecho sacerdote en lugar de Joiada, el sacerdote, para que fueras guardián en la casa de Jehová sobre todo varón adivino y profeta, y los hubieras echado a la cárcel y al calabozo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029026013"
+      ],
+      "issue": "משגע (mad/pual ptc) rendered as 'adivino' (diviner)",
+      "spanishSpan": "adivino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029026015",
+        "h24029026016"
+      ],
+      "issue": "ונתתה אתו (you shall put him sg.) rendered as 'los hubieras echado' (them pl., pluperfect)",
+      "spanishSpan": "y los hubieras echado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029026018",
+        "h24029026020"
+      ],
+      "issue": "specific stocks/collar nouns replaced by 'cárcel y calabozo'",
+      "spanishSpan": "a la cárcel y al calabozo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029026007",
+        "h24029026008"
+      ],
+      "issue": "להיות פקדים restructured as purpose clause 'para que fueras guardián'",
+      "spanishSpan": "para que fueras guardián"
+    }
+  ],
+  "notes": "multiple lexical, number and syntactic mismatches",
+  "discardedUncitedFindings": 0
+}

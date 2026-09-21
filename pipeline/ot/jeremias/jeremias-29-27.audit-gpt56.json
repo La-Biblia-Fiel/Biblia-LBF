@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:27",
+  "chapter": 29,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora ¿por qué no te has reprendido a Jeremías, el profeta, que habla en mi nombre?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029027006"
+      ],
+      "issue": "omits gentilic designation of Jeremiah",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029027007",
+        "h24029027008"
+      ],
+      "issue": "replaces 'who prophesies to you' with unlicensed 'el profeta, que habla en mi nombre'",
+      "spanishSpan": "el profeta, que habla en mi nombre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029027004"
+      ],
+      "issue": "renders 2ms perfect verb as reflexive 'te has reprendido'",
+      "spanishSpan": "te has reprendido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

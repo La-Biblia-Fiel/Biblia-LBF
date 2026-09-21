@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:8",
+  "chapter": 46,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Egipto viene como el Nilo, que se agita como ríos; dice: Subiré, cubriré la tierra, destruiré la ciudad y sus habitantes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046008002",
+        "h24046008003",
+        "h24046008004",
+        "h24046008005",
+        "h24046008006"
+      ],
+      "issue": "restructures two separate similes (Egypt like Nile comes up; like rivers they surge waters) into single relative clause modifying Nile",
+      "spanishSpan": "viene como el Nilo, que se agita como ríos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046008007"
+      ],
+      "issue": "renders sequential imperfect wayyo'mer as present 'dice' instead of past narrative",
+      "spanishSpan": "dice"
+    }
+  ],
+  "notes": "first clause also drops explicit 'waters'",
+  "discardedUncitedFindings": 0
+}

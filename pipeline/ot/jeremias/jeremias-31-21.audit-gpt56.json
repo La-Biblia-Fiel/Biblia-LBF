@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:21",
+  "chapter": 31,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Establece marcos para ti, pon postes de señalización para ti, pon tu corazón en el camino por donde yo he andado, vuelve, oh virgen Israel, vuelve a tus ciudades, estas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031021007",
+        "h24031021008",
+        "h24031021009",
+        "h24031021010"
+      ],
+      "issue": "adds 'por donde yo he andado' with no token support",
+      "spanishSpan": "por donde yo he andado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

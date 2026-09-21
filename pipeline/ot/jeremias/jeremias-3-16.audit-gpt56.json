@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:16",
+  "chapter": 3,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será que cuando te multipliques y te multiplies en la tierra en aquellos días, dice el Señor, ya no se dirá más: El arca de la alianza del Señor, ni subirá al corazón, ni se acordará de él, ni lo contará, ni se hará más.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003016003",
+        "h24003016004"
+      ],
+      "issue": "2mp verbs rendered as 2s singular 'te multipliques y te multiplies'",
+      "spanishSpan": "te multipliques y te multiplies"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003016008",
+        "h24003016009"
+      ],
+      "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' instead of declaration of Jehová",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

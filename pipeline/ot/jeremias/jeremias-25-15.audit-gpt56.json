@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:15",
+  "chapter": 25,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho el Señor, el Dios de Israel, a mí: Toma la copa de esta vinagre ardiente de mi mano y hazla beber a todas las naciones a las que yo te envío.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025015004"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of licensed Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025015005"
+      ],
+      "issue": "אלהים rendered as 'Dios'",
+      "spanishSpan": "el Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025015011",
+        "h24025015012"
+      ],
+      "issue": "adds 'vinagre' concept not present in yayin + chemah tokens",
+      "spanishSpan": "vinagre ardiente"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

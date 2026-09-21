@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:29",
+  "chapter": 32,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los caldeos que luchan entrarán en esta ciudad y la quemarán con fuego, y la consumirán, y quemarán los templos que han consagrado sobre sus techos a Baal y han ofrecido sacrificios a otros dioses para provocarme.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032029012"
+      ],
+      "issue": "adds 'la consumirán' with no licensed concept of consuming",
+      "spanishSpan": "y la consumirán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032029014"
+      ],
+      "issue": "renders בָּתִּים as templos instead of casas",
+      "spanishSpan": "los templos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032029016"
+      ],
+      "issue": "renders קִטְּרוּ as han consagrado instead of han quemado incienso",
+      "spanishSpan": "que han consagrado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032029020",
+        "h24032029021"
+      ],
+      "issue": "renders הִסִּכוּ נְסָכִים as han ofrecido sacrificios instead of han derramado libaciones",
+      "spanishSpan": "han ofrecido sacrificios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

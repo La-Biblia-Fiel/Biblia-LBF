@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:28",
+  "chapter": 7,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Y les dirás: Este pueblo tiene la costumbre de no escuchar la voz del SEÑOR su Dios, ni de recibir la corrección; la fe se ha perdido, y la verdad ha sido cortada de su boca.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007028007",
+        "h24007028012"
+      ],
+      "issue": "adds un-licensed concept 'tiene la costumbre de'",
+      "spanishSpan": "tiene la costumbre de"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007028015"
+      ],
+      "issue": "splits single אֱמוּנָה into two distinct concepts 'fe' and 'verdad'",
+      "spanishSpan": "la fe ... la verdad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

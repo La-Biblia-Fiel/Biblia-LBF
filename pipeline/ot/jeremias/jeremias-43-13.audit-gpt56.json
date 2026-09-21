@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 43:13",
+  "chapter": 43,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y romperé las estatuas de Bet-Shemesh, que están en la tierra de Egipto, y quemaré los templos de los dioses de Egipto en el fuego.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043013001"
+      ],
+      "issue": "verb person changed from 3ms to 1s",
+      "spanishSpan": "romperé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043013013"
+      ],
+      "issue": "verb person changed from 3ms to 1s",
+      "spanishSpan": "quemaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

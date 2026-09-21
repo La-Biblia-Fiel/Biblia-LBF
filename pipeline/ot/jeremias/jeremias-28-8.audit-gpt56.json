@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:8",
+  "chapter": 28,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Los profetas que han existido antes de mí y antes de ti desde el principio del mundo han profetizado a muchas naciones y a grandes reinos sobre guerras, calamidades y palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028008010"
+      ],
+      "issue": "renders אֲרָצוֹת as 'naciones' (unlicensed concept)",
+      "spanishSpan": "muchas naciones"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028008017"
+      ],
+      "issue": "renders דָבֶר (pestilence) as 'palabras' (wrong lemma and concept)",
+      "spanishSpan": "palabras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

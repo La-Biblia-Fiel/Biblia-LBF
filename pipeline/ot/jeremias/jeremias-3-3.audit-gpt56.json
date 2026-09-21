@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:3",
+  "chapter": 3,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los pastores han rechazado las primicias, y no ha habido vendimia. Pero la mujer que era una prostituta ha sido tu madre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003003001",
+        "h24003003002",
+        "h24003003003",
+        "h24003003004",
+        "h24003003005"
+      ],
+      "issue": "Spanish introduces shepherds, firstfruits and grape harvest absent from tokens; omits withholding of showers and latter rain",
+      "spanishSpan": "Y los pastores han rechazado las primicias, y no ha habido vendimia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003003006",
+        "h24003003007",
+        "h24003003008",
+        "h24003003009",
+        "h24003003010",
+        "h24003003011",
+        "h24003003012"
+      ],
+      "issue": "Spanish substitutes 'tu madre' and omits forehead of prostitute woman, 'to you', refusal, and being ashamed",
+      "spanishSpan": "Pero la mujer que era una prostituta ha sido tu madre"
+    }
+  ],
+  "notes": "entire rendering unrelated to supplied tokens",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:50",
+  "chapter": 51,
+  "verse": 50,
+  "candidateLabel": "gpt56",
+  "spanish": "Huid de la espada, huid, no os detengáis; acordaos de lejos del Señor, y Jerusalén suba a su corazón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051050009"
+      ],
+      "issue": "YHWH rendered as 'Señor' instead of Jehová",
+      "spanishSpan": "del Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051050013"
+      ],
+      "issue": "2mp suffix rendered as 3rd-person 'su' instead of 2nd-person plural 'vuestro'",
+      "spanishSpan": "su corazón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

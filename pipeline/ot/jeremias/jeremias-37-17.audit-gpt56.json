@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:17",
+  "chapter": 37,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y envió el rey Zedequías y le tomó, y le preguntó el rey en secreto, y dijo: ¿Hay palabra de Jehová? Y dijo Jeremías: Hay, y dijo: En la mano del rey de Babilonia serás puesto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037017007"
+      ],
+      "issue": "omits בְּבֵיתוֹ (in his house) from the location of the questioning",
+      "spanishSpan": "en secreto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

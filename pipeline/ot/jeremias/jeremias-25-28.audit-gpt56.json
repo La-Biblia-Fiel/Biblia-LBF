@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:28",
+  "chapter": 25,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será que cuando se nieguen a tomar la copa de tu mano para beber, dirás a ellos: Así ha dicho el Señor de los ejércitos: Beberás lo que hay en la copa.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025028014",
+        "h24025028015"
+      ],
+      "issue": "number mismatch: 2mp תִשְׁתּוּ rendered as singular Beberás",
+      "spanishSpan": "Beberás"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025028014",
+        "h24025028015"
+      ],
+      "issue": "adds unlicensed content 'lo que hay en la copa'",
+      "spanishSpan": "Beberás lo que hay en la copa"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

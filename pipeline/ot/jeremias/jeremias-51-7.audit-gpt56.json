@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:7",
+  "chapter": 51,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "La copa de oro de Babilonia está en la mano del Señor, que la hace embriagarse a toda la tierra. Bebieron las naciones el vino de ella, por eso las naciones se vuelven locas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051007005"
+      ],
+      "issue": "renders יהוה as 'Señor' (title substitution) instead of the licensed conventional form Jehová",
+      "spanishSpan": "del Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

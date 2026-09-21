@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:21",
+  "chapter": 37,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "El rey Zedequías ordenó que se guardara a Jeremías en la corte de la cárcel y que se le diera un cuartillo de pan cada día fuera del horno, hasta que se acabara todo el pan en la ciudad. Jeremías permaneció en la corte de la cárcel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037021011",
+        "h24037021012"
+      ],
+      "issue": "adds 'cuartillo' measure not present in ככר לחם",
+      "spanishSpan": "un cuartillo de pan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037021004",
+        "h24037021015"
+      ],
+      "issue": "misrenders פקד hiphil assignment and האפים bakers as 'guardara ... fuera del horno'",
+      "spanishSpan": "se guardara ... fuera del horno"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

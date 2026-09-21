@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:17",
+  "chapter": 26,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces se levantaron hombres de los ancianos de la tierra y dijeron a todo el pueblo: Decid, por favor, a todo el pueblo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026017010"
+      ],
+      "issue": "adds imperative command 'Decid, por favor' with no licensing token; לֵאמֹר is only 'saying'",
+      "spanishSpan": "Decid, por favor, a todo el pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026017007",
+        "h24026017008"
+      ],
+      "issue": "collapses קְהַל into 'pueblo' without rendering assembly concept",
+      "spanishSpan": "todo el pueblo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

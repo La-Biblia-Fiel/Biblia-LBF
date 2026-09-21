@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:24",
+  "chapter": 51,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Y pagaré a Babilonia y a todos los que habitan en la tierra de los caldeos todo el mal que hicieron en Sión a sus ojos, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051024003",
+        "h24051024004",
+        "h24051024005"
+      ],
+      "issue": "adds 'en la tierra de los' before caldeos, not licensed by tokens",
+      "spanishSpan": "en la tierra de los caldeos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051024012"
+      ],
+      "issue": "renders 2mp suffix as 'sus ojos' (3rd person) instead of preserving 2nd person plural address",
+      "spanishSpan": "a sus ojos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

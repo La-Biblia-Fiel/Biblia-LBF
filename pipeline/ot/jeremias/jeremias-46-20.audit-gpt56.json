@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:20",
+  "chapter": 46,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Egipto, una vaca hermosa de cuernos, sale del norte, viene con fuerza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046020002",
+        "h24046020003"
+      ],
+      "issue": "adds 'de cuernos' (horns) not licensed by the two HAafsa tokens for 'beautiful/fair'",
+      "spanishSpan": "de cuernos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046020005"
+      ],
+      "issue": "renders קֶרֶץ as part of 'vaca ... de cuernos' instead of a separate noun (gadfly/stinger)",
+      "spanishSpan": "de cuernos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046020007",
+        "h24046020008"
+      ],
+      "issue": "adds 'con fuerza' not present in the repeated qal perfect בא tokens",
+      "spanishSpan": "viene con fuerza"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

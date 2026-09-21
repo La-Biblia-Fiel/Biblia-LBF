@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:36",
+  "chapter": 48,
+  "verse": 36,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso mi corazón para Moab como flautas gemirá, y mi corazón para los hombres de Quir-Heres como flautas gemirá; por eso caerán las riquezas de Asa.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048036017",
+        "h24048036018"
+      ],
+      "issue": "עָשָׂה parsed as proper name 'Asa' instead of verb 'made/done'; אָבָדוּ rendered as future 'caerán' instead of perfect 'perished'",
+      "spanishSpan": "riquezas de Asa...caerán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048036016"
+      ],
+      "issue": "יִתְרַת combined with erroneous 'Asa' produces unlicenced 'riquezas de Asa'",
+      "spanishSpan": "las riquezas de Asa"
+    }
+  ],
+  "notes": "ending clause mismatches lemma, morph and surface of tokens 16-18",
+  "discardedUncitedFindings": 0
+}

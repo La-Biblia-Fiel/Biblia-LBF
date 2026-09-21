@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:19",
+  "chapter": 35,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, así ha dicho Jehová, el Dios de Israel: No cesará de ser servidor de Jehová, delante de mí, Jonadab, hijo de Recab, y su simiente para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035019005"
+      ],
+      "issue": "omits צְבָא֖וֹת (of hosts) licensed by the tokens",
+      "spanishSpan": "Jehová, el Dios de Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035019009",
+        "h24035019010",
+        "h24035019014",
+        "h24035019015"
+      ],
+      "issue": "rephrases לֹא יִכָּרֵת אִישׁ ... עֹמֵד לְפָנַי as 'No cesará de ser servidor' adding 'servidor de Jehová' and altering structure/participants",
+      "spanishSpan": "No cesará de ser servidor de Jehová, delante de mí, Jonadab, hijo de Recab, y su simiente para siempre"
+    }
+  ],
+  "notes": "major restructuring and omission",
+  "discardedUncitedFindings": 0
+}

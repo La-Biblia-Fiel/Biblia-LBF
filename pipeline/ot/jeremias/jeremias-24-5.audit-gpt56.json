@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 24:5",
+  "chapter": 24,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor, el Dios de Israel: Como los buenos higos, así trataré con los cautivos de Judá que envié de este lugar a la tierra de Babilonia, para su bien.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024005003"
+      ],
+      "issue": "replaces יהוה with title 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

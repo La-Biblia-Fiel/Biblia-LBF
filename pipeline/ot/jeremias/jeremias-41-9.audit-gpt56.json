@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:9",
+  "chapter": 41,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "El pozo en el que Ishmael arrojó a todos los cuerpos de los hombres que había matado a mano de Gedalía, era el pozo que el rey Asa había hecho para Baasa, rey de Israel. Ishmael lo llenó de cadáveres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041009019"
+      ],
+      "issue": "מִפְּנֵי rendered as 'para' (purpose) instead of 'a causa de' or 'por causa de'",
+      "spanishSpan": "para Baasa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041009026",
+        "h24041009027"
+      ],
+      "issue": "omits בֶּן־נְתַנְיָהוּ in the final clause identifying the filler of the pit",
+      "spanishSpan": "Ishmael lo llenó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041009024",
+        "h24041009028"
+      ],
+      "issue": "adds 'cadáveres' as a second noun after already rendering פִּגְרֵי as 'cuerpos'",
+      "spanishSpan": "llenó de cadáveres"
+    }
+  ],
+  "notes": "multiple licensed elements omitted or altered",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:14",
+  "chapter": 35,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Han levantado los hijos de Jonadab, hijo de Recab, la ordenanza de su padre, que les mandó no beber vino, y no beben hasta hoy, porque oyeron la ordenanza de sus padres; y yo os hablé, levantándome y hablando, y no me escuchasteis.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035014001",
+        "h24035014003",
+        "h24035014004",
+        "h24035014005",
+        "h24035014006"
+      ],
+      "issue": "Hophal passive 3ms with direct object 'words of Jehonadab son of Rechab' rendered as active with 'los hijos' as subject and 'ordenanza de su padre'",
+      "spanishSpan": "Han levantado los hijos de Jonadab, hijo de Recab, la ordenanza de su padre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035014015"
+      ],
+      "issue": "qal perfect 3cp 'they did not drink' rendered as present 'no beben'",
+      "spanishSpan": "y no beben"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035014023"
+      ],
+      "issue": "suffix 3mp 'their father' rendered plural 'sus padres'",
+      "spanishSpan": "de sus padres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035014026"
+      ],
+      "issue": "2mp suffix rendered with forbidden vosotros 'os'",
+      "spanishSpan": "os hablé"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

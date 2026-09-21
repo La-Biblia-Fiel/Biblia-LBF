@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:34",
+  "chapter": 25,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "Gimiendo gemirán los pastores, y aullarán los jefes del rebaño, porque se llenarán sus días para ser degollados, y yo haré que se disperse a ustedes, y caeréis como un objeto deseable.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025034001",
+        "h24025034003",
+        "h24025034004"
+      ],
+      "issue": "Hebrew has 2mp imperatives (howl, cry out, roll yourselves); Spanish renders as futures/descriptive and omits one imperative entirely",
+      "spanishSpan": "Gimiendo gemirán ... y aullarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025034011"
+      ],
+      "issue": "Hebrew has noun 'your dispersions/scatterings'; Spanish adds causative 'yo haré que se disperse' not present in tokens",
+      "spanishSpan": "y yo haré que se disperse a ustedes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025034008"
+      ],
+      "issue": "Hebrew qal perfect 3cp 'have filled/are full'; Spanish renders future 'se llenarán'",
+      "spanishSpan": "se llenarán sus días"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

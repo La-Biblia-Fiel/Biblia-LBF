@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:9",
+  "chapter": 48,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Pon una señal para Moab, porque será evacuada, y sus ciudades estarán desiertas sin morador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048009002"
+      ],
+      "issue": "צִיץ rendered as 'señal' adds interpretive concept not licensed by the noun lemma",
+      "spanishSpan": "una señal"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048009005",
+        "h24048009006"
+      ],
+      "issue": "נָצֹא תֵּצֵא (qal inf abs + qal impf 3fs 'fly/go out') rendered as passive 'será evacuada' changes voice, stem force and semantics",
+      "spanishSpan": "será evacuada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

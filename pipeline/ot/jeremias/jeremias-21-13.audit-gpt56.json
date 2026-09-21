@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:13",
+  "chapter": 21,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que yo estoy contra ustedes que habitan en la llanura, en la roca del campo; dice Jehová: ¿Quién se atreverá a venir contra nosotros, y quién entrará en nuestros lugares fortificados?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021013002"
+      ],
+      "issue": "2fs suffix rendered as plural ustedes",
+      "spanishSpan": "ustedes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021013004"
+      ],
+      "issue": "valley rendered as llanura",
+      "spanishSpan": "llanura"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021013006"
+      ],
+      "issue": "plain rendered as campo",
+      "spanishSpan": "campo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021013011"
+      ],
+      "issue": "descend/go down rendered with added dare and come",
+      "spanishSpan": "se atreverá a venir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021013015"
+      ],
+      "issue": "dwellings/habitations rendered as fortified places",
+      "spanishSpan": "lugares fortificados"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

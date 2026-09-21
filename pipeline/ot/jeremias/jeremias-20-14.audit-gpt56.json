@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:14",
+  "chapter": 20,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Maldito el día en que nací, maldito el día en que mi madre dio a luz a un varón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020014008",
+        "h24020014009"
+      ],
+      "issue": "adds 'a un varón' (male) with no corresponding token or lemma",
+      "spanishSpan": "a un varón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020014010",
+        "h24020014011",
+        "h24020014012"
+      ],
+      "issue": "replaces 'al yehi barukh' (let it not be blessed) with parallel 'maldito'",
+      "spanishSpan": "maldito el día"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

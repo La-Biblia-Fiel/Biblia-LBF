@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:2",
+  "chapter": 31,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor: En el desierto encontré a un pueblo que había quedado de la espada, y le dije: Israel, yo te calmo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031002003"
+      ],
+      "issue": "replaces proper name יהוה with title 'Señor'",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031002005"
+      ],
+      "issue": "omits licensed noun חֵן (favor/grace)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031002004",
+        "h24031002001"
+      ],
+      "issue": "changes 3ms verb 'found' to 1s 'encontré' and restructures subject",
+      "spanishSpan": "encontré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031002010",
+        "h24031002011"
+      ],
+      "issue": "replaces infinitive construction with added 'y le dije'",
+      "spanishSpan": "y le dije"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

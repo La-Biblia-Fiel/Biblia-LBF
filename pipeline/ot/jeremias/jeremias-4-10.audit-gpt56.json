@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:10",
+  "chapter": 4,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo dije: ¡Ay, Señor Jehová! Cierto que has engañado a este pueblo y a Jerusalén, diciendo: Habrá paz; y vendrá la espada hasta la vida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004010014"
+      ],
+      "issue": "omits the 2mp suffix 'to you' after 'peace will be'",
+      "spanishSpan": "Habrá paz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004010015"
+      ],
+      "issue": "changes 'the sword will touch/reach' to 'the sword will come'",
+      "spanishSpan": "vendrá la espada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

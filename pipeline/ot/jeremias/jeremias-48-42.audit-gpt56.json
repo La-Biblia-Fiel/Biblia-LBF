@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:42",
+  "chapter": 48,
+  "verse": 42,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será destruido Moab de entre los pueblos, porque ha confiado en el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048042007"
+      ],
+      "issue": "verb הגדיל rendered as 'ha confiado' (trust) instead of licensed sense 'ha engrandecido / se ha ensoberbecido'",
+      "spanishSpan": "porque ha confiado en el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048042005",
+        "h24048042006",
+        "h24048042007"
+      ],
+      "issue": "entire כי על יהוה הגדיל clause altered to opposite meaning",
+      "spanishSpan": "porque ha confiado en el Señor"
+    }
+  ],
+  "notes": "no token licenses 'confiar'",
+  "discardedUncitedFindings": 0
+}

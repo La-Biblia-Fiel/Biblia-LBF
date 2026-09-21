@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:3",
+  "chapter": 39,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vinieron todos los príncipes del rey de Babilonia y se sentaron en la puerta de la torre de la guardia, y Nebuzaradán, el capitán de la guardia, Sarsejim, Nergal-sar-ezzer, Sarsejim, Rab-saris, Nergal-sar-ezzer, Rab-mag, y todos los demás príncipes del rey de Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039003008"
+      ],
+      "issue": "renders הַתָּוֶךְ as 'torre de la guardia' (adds tower/guard concept absent from lemma/morph)",
+      "spanishSpan": "la puerta de la torre de la guardia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039003009",
+        "h24039003010",
+        "h24039003011",
+        "h24039003012",
+        "h24039003013",
+        "h24039003014",
+        "h24039003015",
+        "h24039003016",
+        "h24039003017",
+        "h24039003018",
+        "h24039003019",
+        "h24039003020",
+        "h24039003021",
+        "h24039003022"
+      ],
+      "issue": "inserts Nebuzaradán + titles and misparses/repeats name sequence not licensed by the proper-name tokens",
+      "spanishSpan": "Nebuzaradán, el capitán de la guardia, Sarsejim, Nergal-sar-ezzer, Sarsejim, Rab-saris, Nergal-sar-ezzer, Rab-mag"
+    }
+  ],
+  "notes": "multiple additions and one outright substitution of lemma",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:6",
+  "chapter": 52,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "En el cuarto mes, en el día nueve del mes, se apoderó del hambre la ciudad, y no había pan para el pueblo de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052006005",
+        "h24052006006",
+        "h24052006007"
+      ],
+      "issue": "subject/participant reversal: famine seizes city, not city seizes famine",
+      "spanishSpan": "se apoderó del hambre la ciudad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

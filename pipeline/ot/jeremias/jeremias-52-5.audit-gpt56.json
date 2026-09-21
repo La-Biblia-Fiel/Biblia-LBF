@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:5",
+  "chapter": 52,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y la ciudad fue sitiada hasta el mes décimo del año duodécimo del reinado de Zedequías.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052005005",
+        "h24052005006",
+        "h24052005007"
+      ],
+      "issue": "Spanish inserts 'mes décimo' and 'año duodécimo' absent from tokens; Hebrew is 'until eleventh year'",
+      "spanishSpan": "mes décimo del año duodécimo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052005001"
+      ],
+      "issue": "Spanish 'fue sitiada' adds passive siege concept; token is qal 'came' (bo') into siege",
+      "spanishSpan": "fue sitiada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052005008"
+      ],
+      "issue": "Spanish 'reinado de' replaces 'to the king'",
+      "spanishSpan": "reinado de"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

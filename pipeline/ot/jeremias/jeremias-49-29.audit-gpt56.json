@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:29",
+  "chapter": 49,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Sus tiendas y sus ovejas tomarán, sus toldos y todo su equipo y sus camellos tomarán para ellos, y los llamarán un lugar de desolación alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049029012"
+      ],
+      "issue": "מָגוֹר rendered as 'un lugar de desolación' (adds 'lugar de desolación'; lemma is terror/fear)",
+      "spanishSpan": "un lugar de desolación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049029010",
+        "h24049029011",
+        "h24049029012",
+        "h24049029013"
+      ],
+      "issue": "restructures וְקָרְא֧וּ עֲלֵיהֶ֛ם מָג֖וֹר מִסָּבִֽיב into 'los llamarán un lugar de desolación alrededor' (changes participants and meaning)",
+      "spanishSpan": "y los llamarán un lugar de desolación alrededor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

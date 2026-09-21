@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:8",
+  "chapter": 4,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, cíñete con cilicio, lúgubremente llora y lamenta, porque no ha cesado el enojo del SEÑOR de sobre ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004008003",
+        "h24004008005",
+        "h24004008006"
+      ],
+      "issue": "2mp imperatives rendered as singular tú forms instead of plural ustedes",
+      "spanishSpan": "cíñete ... llora y lamenta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004008004"
+      ],
+      "issue": "plural absolute noun rendered singular",
+      "spanishSpan": "cilicio"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004008013"
+      ],
+      "issue": "1cp suffix 'from us' changed to 'de sobre ustedes'",
+      "spanishSpan": "de sobre ustedes"
+    }
+  ],
+  "notes": "multiple mismatches in number, person and suffix",
+  "discardedUncitedFindings": 0
+}

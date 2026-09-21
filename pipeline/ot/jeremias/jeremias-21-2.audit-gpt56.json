@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:2",
+  "chapter": 21,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Ruega ahora por nosotros al SEÑOR, porque Nabucodonosor rey de Babilonia pelea contra nosotros; quizás el SEÑOR haga con nosotros conforme a todas sus maravillas, y te haga subir de sobre nosotros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021002018",
+        "h24021002019"
+      ],
+      "issue": "renders 3ms verb + 1cp suffix as 2ms address 'te haga subir' instead of YHWH causing ascent from upon us",
+      "spanishSpan": "y te haga subir de sobre nosotros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:23",
+  "chapter": 49,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Para Damasco, avergonzada está Hamat y Arpad, porque han oído una mala noticia y se han desmayado; en el mar de aguas tranquilas no pueden ser tranquilos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049023011"
+      ],
+      "issue": "adds 'aguas tranquilas' concept not licensed by דְּאָגָה (anxiety/worry)",
+      "spanishSpan": "de aguas tranquilas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049023010",
+        "h24049023011",
+        "h24049023012"
+      ],
+      "issue": "rephrases בַּיָּם דְּאָגָה הַשְׁקֵט into interpretive 'mar de aguas tranquilas' instead of preserving anxiety + cannot be quiet",
+      "spanishSpan": "en el mar de aguas tranquilas no pueden ser tranquilos"
+    }
+  ],
+  "notes": "first clause also mismatches singular verb agreement but secondary to the addition",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:26",
+  "chapter": 51,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no tomarán de ti piedra para esquina ni piedra para fundamentos, porque serás desolación perpetua, dice Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24051026009",
+        "h24051026010"
+      ],
+      "issue": "singular smoothing of plural construct שִׁמְמוֹת עוֹלָם",
+      "spanishSpan": "desolación perpetua"
+    }
+  ],
+  "notes": "minor grammatical smoothing only",
+  "discardedUncitedFindings": 0
+}

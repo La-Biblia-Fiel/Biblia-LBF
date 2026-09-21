@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:2",
+  "chapter": 39,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "En el año dieciocho del reinado de Zedequías, en el mes cuarto, en el día nueve del mes, la ciudad fue tomada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039002001",
+        "h24039002002"
+      ],
+      "issue": "renders eleven as eighteen",
+      "spanishSpan": "año dieciocho"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039002009"
+      ],
+      "issue": "changes Hophal breach/breach through to taken/captured",
+      "spanishSpan": "fue tomada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039002007",
+        "h24039002008"
+      ],
+      "issue": "inserts explicit día not present in tokens",
+      "spanishSpan": "el día nueve"
+    }
+  ],
+  "notes": "also adds reinado concept absent from l/6667",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:11",
+  "chapter": 31,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque el Señor ha rescatado a Jacob y ha redimido a Israel de la mano de un poderoso.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031011003"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031011005",
+        "h24031011006"
+      ],
+      "issue": "adds 'a Israel' with no token present; suffix refers to Jacob ('him') only",
+      "spanishSpan": "a Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031011008",
+        "h24031011009"
+      ],
+      "issue": "חָזָק מִמֶּנּוּ rendered without the comparative 'stronger than him'",
+      "spanishSpan": "un poderoso"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

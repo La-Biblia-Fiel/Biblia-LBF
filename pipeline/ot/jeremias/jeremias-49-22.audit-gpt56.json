@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:22",
+  "chapter": 49,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que como un águila sube y se posa, y extiende sus alas sobre sus nidos, así será el corazón de los valientes de Edom en aquel día, como el corazón de una mujer en trabajo de parto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049022008"
+      ],
+      "issue": "replaces Bozrah (proper name) with 'sus nidos'",
+      "spanishSpan": "sobre sus nidos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049022017"
+      ],
+      "issue": "adds 'trabajo de parto' not licensed by the participle of distress/anguish",
+      "spanishSpan": "en trabajo de parto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049022004"
+      ],
+      "issue": "renders 'yid'eh' (fly/swoop) as 'se posa'",
+      "spanishSpan": "se posa"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

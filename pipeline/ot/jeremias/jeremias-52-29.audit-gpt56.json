@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:29",
+  "chapter": 52,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "En el año dieciocho de Nabucodonosor, deportó de Jerusalén ochocientos sesenta y dos almas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052029009"
+      ],
+      "issue": "number mismatch: tokens license thirty (שְׁלֹשִׁ֥ים) but Spanish renders sixty",
+      "spanishSpan": "sesenta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052029001",
+        "h24052029006"
+      ],
+      "issue": "adds verb 'deportó' with no corresponding token or lemma in packet",
+      "spanishSpan": "deportó"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:24",
+  "chapter": 33,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "¿No has visto lo que este pueblo ha dicho: ‘Los dos grupos que el Señor eligió los ha rechazado, y a mi pueblo lo odiarán para que ya no sea una nación delante de ellos’?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033024012"
+      ],
+      "issue": "YHWH rendered as title 'el Señor' instead of conventional proper name Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033024006"
+      ],
+      "issue": "3cp verb rendered as singular 'ha dicho'",
+      "spanishSpan": "ha dicho"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24033024009"
+      ],
+      "issue": "mishpachot rendered as 'grupos' (lexical choice, not licensed by tokens)",
+      "spanishSpan": "grupos"
+    }
+  ],
+  "notes": "name substitution and number mismatch on verb are decisive",
+  "discardedUncitedFindings": 0
+}

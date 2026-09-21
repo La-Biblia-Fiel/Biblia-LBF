@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:12",
+  "chapter": 44,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tomaré a la simiente de Judá que puso su rostro para venir a la tierra de Egipto a habitar allí, y caerán todos en la tierra de Egipto, morirán de espada y de hambre, morirán de espada y de hambre desde el pequeño hasta el grande, y serán maldición, desolación, maldición, escarnio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044012003"
+      ],
+      "issue": "שְׁאֵרִית rendered as 'simiente' (adds seed/offspring concept absent from lemma 7611)",
+      "spanishSpan": "la simiente"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044012013",
+        "h24044012017",
+        "h24044012020",
+        "h24044012024",
+        "h24044012025",
+        "h24044012026"
+      ],
+      "issue": "rearranges and duplicates destruction verbs/clauses (adds second 'morirán de espada y de hambre' and misplaces 'caerán' before the small-to-great phrase)",
+      "spanishSpan": "caerán todos en la tierra de Egipto, morirán de espada y de hambre, morirán de espada y de hambre desde el pequeño hasta el grande"
+    }
+  ],
+  "notes": "multiple token mismatches in remnant term and clause structure",
+  "discardedUncitedFindings": 0
+}

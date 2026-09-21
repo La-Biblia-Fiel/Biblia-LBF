@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:15",
+  "chapter": 37,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y se enojaron los príncipes contra Jeremías y le dieron de palos y le pusieron en la casa de la cárcel, en la casa de Jonatán el escriba, porque la hicieron cárcel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037015005"
+      ],
+      "issue": "adds unspecified instrument 'de palos'",
+      "spanishSpan": "le dieron de palos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

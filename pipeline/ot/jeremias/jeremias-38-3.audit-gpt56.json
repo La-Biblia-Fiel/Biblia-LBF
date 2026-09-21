@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:3",
+  "chapter": 38,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el Señor: Entregad esta ciudad a los ejércitos del rey de Babilonia, para que la tomen.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038003004",
+        "h24038003005"
+      ],
+      "issue": "niphal passive (will be given) rendered as active imperative 2pl",
+      "spanishSpan": "Entregad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038003009"
+      ],
+      "issue": "singular חֵיל rendered as plural ejércitos",
+      "spanishSpan": "ejércitos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038003012"
+      ],
+      "issue": "3ms capture changed to 3pl tomen",
+      "spanishSpan": "la tomen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038003003"
+      ],
+      "issue": "יהוה rendered as el Señor instead of Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

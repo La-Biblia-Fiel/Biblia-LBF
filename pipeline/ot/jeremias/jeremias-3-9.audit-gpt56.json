@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:9",
+  "chapter": 3,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y por el clamor de su prostitución ha profanado la tierra, y ha adulterado con la piedra y con el árbol.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003009001"
+      ],
+      "issue": "omits the initial וְהָיָה sequential perfect",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003009002"
+      ],
+      "issue": "renders מִקֹּל as causal 'por el clamor' instead of 'from the sound/voice'",
+      "spanishSpan": "por el clamor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

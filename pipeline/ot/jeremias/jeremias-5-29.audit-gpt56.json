@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:29",
+  "chapter": 5,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso no castigaré a estos, dice el SEÑOR, ¿no me vengaré de un pueblo como este?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005029012",
+        "h24005029013"
+      ],
+      "issue": "changes subject from נפשי (mi alma) to speaker as direct agent (me vengaré)",
+      "spanishSpan": "no me vengaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

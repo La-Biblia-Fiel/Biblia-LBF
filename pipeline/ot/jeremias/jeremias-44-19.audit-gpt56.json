@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:19",
+  "chapter": 44,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando quemamos incienso a la reina de los cielos y derramamos libaciones a ella, ¿fuimos nosotros los únicos que hicimos intenciones para ofenderla y derramar libaciones a ella?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044019009",
+        "h24044019010",
+        "h24044019011"
+      ],
+      "issue": "adds 'los únicos' and restructures the question; tokens ask whether the actions were done without our men",
+      "spanishSpan": "¿fuimos nosotros los únicos que"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044019013"
+      ],
+      "issue": "renders כַּוָּנִים as 'intenciones' instead of cakes",
+      "spanishSpan": "hicimos intenciones"
+    }
+  ],
+  "notes": "second clause completely mismatches the tokens",
+  "discardedUncitedFindings": 0
+}

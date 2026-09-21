@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:11",
+  "chapter": 23,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque también el profeta y el sacerdote son adúlteros; también en mi casa he encontrado su maldad, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023011006"
+      ],
+      "issue": "חנפו (qal pf 3cp, lemma 2610) rendered as 'son adúlteros'; adds adultery concept absent from lemma/morph",
+      "spanishSpan": "son adúlteros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

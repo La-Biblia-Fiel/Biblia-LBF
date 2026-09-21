@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:38",
+  "chapter": 48,
+  "verse": 38,
+  "candidateLabel": "gpt56",
+  "spanish": "Por todas las techumbres de Moab y en sus calles, por todas las calles, llanto; porque he quebrado a Moab, como no hay en él cosa que le agrade, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048038005",
+        "h24048038006"
+      ],
+      "issue": "duplicates 'por todas las calles' creating repetition absent from tokens",
+      "spanishSpan": "por todas las calles, por todas las calles"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048038016",
+        "h24048038017"
+      ],
+      "issue": "renders נְאֻם יְהוָה as 'dice el Señor' (adds 'dice', substitutes 'Señor' for proper name rendering)",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

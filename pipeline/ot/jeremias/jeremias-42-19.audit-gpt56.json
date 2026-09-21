@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:19",
+  "chapter": 42,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha hablado el Señor acerca de ustedes, resto de Judá: No vayáis a Egipto, sabréis que os he jurado hoy.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042019002"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042019007"
+      ],
+      "issue": "2mp jussive rendered with vosotros 'vayáis' instead of ustedes form",
+      "spanishSpan": "No vayáis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042019012"
+      ],
+      "issue": "hiphil העיד rendered as 'jurar' (swear) instead of testify/warn",
+      "spanishSpan": "os he jurado"
+    }
+  ],
+  "notes": "multiple token mismatches",
+  "discardedUncitedFindings": 0
+}

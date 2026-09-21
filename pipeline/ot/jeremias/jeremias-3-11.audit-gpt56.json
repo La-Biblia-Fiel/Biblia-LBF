@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:11",
+  "chapter": 3,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el Señor me dijo: La desviada Israel es más justa que la desviada Judá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003011002"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003011004",
+        "h24003011005",
+        "h24003011006",
+        "h24003011007",
+        "h24003011008",
+        "h24003011009"
+      ],
+      "issue": "changes structure from 'justified herself' with comparative min to 'is more just than', and applies 'desviada' to both Israel and Judah",
+      "spanishSpan": "La desviada Israel es más justa que la desviada Judá"
+    }
+  ],
+  "notes": "name and syntax/meaning mismatch",
+  "discardedUncitedFindings": 0
+}

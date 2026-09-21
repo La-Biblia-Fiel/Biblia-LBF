@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:7",
+  "chapter": 9,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso dice el Señor de los ejércitos: He aquí, yo los forjo y los pruebo, porque ¿cómo haré con la hija de mi pueblo?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009007012",
+        "h24009007013",
+        "h24009007014"
+      ],
+      "issue": "מִפְּנֵי בַּת־עַמִּי rendered as 'con la hija de mi pueblo' (adds 'con' and changes 'from the presence of / because of' to 'with')",
+      "spanishSpan": "con la hija de mi pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009007003"
+      ],
+      "issue": "qal perfect אָמַר rendered as present 'dice'",
+      "spanishSpan": "dice"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

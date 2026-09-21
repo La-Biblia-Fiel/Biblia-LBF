@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:1",
+  "chapter": 39,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En el año noveno del reinado de Zedequías, rey de Judá, en el mes décimo, vino Nabucodonosor, rey de Babilonia, y todo su ejército a Jerusalén, y la sitiaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039001001",
+        "h24039001002",
+        "h24039001003",
+        "h24039001004",
+        "h24039001005"
+      ],
+      "issue": "adds 'del reinado de' not licensed by the tokens",
+      "spanishSpan": "del reinado de"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

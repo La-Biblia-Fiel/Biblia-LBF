@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:21",
+  "chapter": 3,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Se oye un grito en las montañas, el llanto de los hijos de Israel, porque han pecado en su camino y han olvidado a Yavé, su Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003021006"
+      ],
+      "issue": "omits תַחֲנוּנֵי (supplications/entreaties)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003021010"
+      ],
+      "issue": "הֶעֱוּוּ rendered as 'han pecado' (adds sin concept not in lemma/morph)",
+      "spanishSpan": "han pecado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003021003"
+      ],
+      "issue": "שְׁפָיִים rendered as 'montañas' (resolves to specific geography)",
+      "spanishSpan": "en las montañas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003021015"
+      ],
+      "issue": "יהוה rendered as 'Yavé' (not the licensed conventional form)",
+      "spanishSpan": "Yavé"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

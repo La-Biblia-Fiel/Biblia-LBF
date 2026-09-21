@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:24",
+  "chapter": 2,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Un león rugirá en el desierto, y un leopardo en las montañas. El león y el leopardo no se cansarán, ni los jóvenes de ellos, en tu tierra desierta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002024001"
+      ],
+      "issue": "Spanish introduces 'león' and 'leopardo' with no licensing token; first token is פֶּרֶה (wild donkey)",
+      "spanishSpan": "Un león ... y un leopardo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002024003",
+        "h24002024005",
+        "h24002024006"
+      ],
+      "issue": "Spanish adds 'rugirá', 'montañas', 'se cansarán', 'jóvenes', 'tierra desierta' absent from tokens",
+      "spanishSpan": "rugirá en el desierto ... en las montañas ... no se cansarán, ni los jóvenes ... en tu tierra desierta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002024002",
+        "h24002024004",
+        "h24002024007",
+        "h24002024009",
+        "h24002024011",
+        "h24002024013",
+        "h24002024015"
+      ],
+      "issue": "Spanish omits all construct phrases, qal/hiphil verbs, suffixes, and negative structure licensed by tokens",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "candidate text bears no relation to supplied tokens for Jer 2:24",
+  "discardedUncitedFindings": 0
+}

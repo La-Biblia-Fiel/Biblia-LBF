@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:13",
+  "chapter": 39,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Nebuzaradán, jefe de los carniceros, y Nebushazbán, jefe de los eunucos, y Nergal-sar-ezzer, jefe de los magos, y todos los jefes del rey de Babilonia,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039013001"
+      ],
+      "issue": "omits the verb 'sent' (וַיִּשְׁלַ֞ח) licensed by the first token",
+      "spanishSpan": "Y"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

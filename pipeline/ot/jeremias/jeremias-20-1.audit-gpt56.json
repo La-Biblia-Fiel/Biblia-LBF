@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:1",
+  "chapter": 20,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Pashhur, hijo de Immer, el sacerdote, y que era gobernador en el templo del Señor, oyó a Jeremías profetizar estas palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020001009"
+      ],
+      "issue": "templo adds unlicensed concept; token is בְּבֵ֣ית (house)",
+      "spanishSpan": "templo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020001010"
+      ],
+      "issue": "Señor instead of conventional Jehová for יהוה",
+      "spanishSpan": "Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020001007",
+        "h24020001008"
+      ],
+      "issue": "combines two distinct nouns into single gobernador",
+      "spanishSpan": "gobernador"
+    }
+  ],
+  "notes": "also minor attachment ambiguity on הַכֹּהֵ֔ן",
+  "discardedUncitedFindings": 0
+}

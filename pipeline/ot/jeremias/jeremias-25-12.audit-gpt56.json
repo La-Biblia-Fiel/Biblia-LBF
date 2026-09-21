@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:12",
+  "chapter": 25,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando se cumplan los setenta años, haré que me acuerde del rey de Babilonia y de ese pueblo, dice el Señor, de su maldad, y de la tierra de los caldeos, y los haré objeto de maldición, de desolación y de soledad para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025012005"
+      ],
+      "issue": "פקד rendered as 'haré que me acuerde' (wrong verb meaning)",
+      "spanishSpan": "haré que me acuerde"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025012021",
+        "h24025012022"
+      ],
+      "issue": "adds 'maldición' and 'soledad' not present; only שממות עולם licensed",
+      "spanishSpan": "objeto de maldición, de desolación y de soledad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025012012",
+        "h24025012013"
+      ],
+      "issue": "נאם יהוה rendered as 'dice el Señor' with altered placement",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025012015"
+      ],
+      "issue": "עונם omitted entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "multiple additions, omissions and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:5",
+  "chapter": 25,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Decía: ‘Volved cada uno de su mal camino y de la maldad de sus actos, y habitad en la tierra que el Señor ha dado a ustedes y a sus padres desde antiguo hasta siempre.’",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025005014"
+      ],
+      "issue": "replaces proper name יהוה with 'el Señor'",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025005003"
+      ],
+      "issue": "omits the particle נָא",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

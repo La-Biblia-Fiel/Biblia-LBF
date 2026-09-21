@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:2",
+  "chapter": 6,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Soy como Návia y como Menguada, hija de Sión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006002001",
+        "h24006002002"
+      ],
+      "issue": "treats adjectives as proper names Návia/Menguada",
+      "spanishSpan": "Návia y como Menguada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006002003"
+      ],
+      "issue": "renders 1cs perfect דמיתי as present 'Soy como' instead of 'he comparado' or 'he asemejado'",
+      "spanishSpan": "Soy como"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006002001",
+        "h24006002002",
+        "h24006002003",
+        "h24006002004"
+      ],
+      "issue": "alters comparison structure and participants; Spanish makes speaker 'like' the adjectives while Hebrew likens something to bat-tsiyyon",
+      "spanishSpan": "Soy como Návia y como Menguada, hija de Sión"
+    }
+  ],
+  "notes": "proper names and verb sense not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

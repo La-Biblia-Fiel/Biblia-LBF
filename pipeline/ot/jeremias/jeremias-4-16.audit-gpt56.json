@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:16",
+  "chapter": 4,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Anuncien a las naciones: ‘¡Miren! Aquí vienen los que anuncian la salvación desde la lejana tierra, y en Judá se escucha su voz!’",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004016004",
+        "h24004016006"
+      ],
+      "issue": "misassigns second imperative and its object; הַשְׁמִ֣יעוּ עַל־יְרוּשָׁלִַ֔ם becomes part of announcement to nations instead of make-heard upon Jerusalem",
+      "spanishSpan": "Anuncien a las naciones"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004016007"
+      ],
+      "issue": "adds 'anuncian la salvación' not licensed by נֹצְרִ֥ים (watchers/guards)",
+      "spanishSpan": "los que anuncian la salvación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004016011",
+        "h24004016013",
+        "h24004016014",
+        "h24004016015"
+      ],
+      "issue": "changes active 'they gave their voice upon the cities of Judah' to passive 'en Judá se escucha su voz'",
+      "spanishSpan": "y en Judá se escucha su voz"
+    }
+  ],
+  "notes": "multiple concept additions and participant/object shifts",
+  "discardedUncitedFindings": 0
+}

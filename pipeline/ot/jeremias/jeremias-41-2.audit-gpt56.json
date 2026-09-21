@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:2",
+  "chapter": 41,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces Ishmael hijo de Nethaniah y los diez hombres con él se levantaron y mataron a Gedalía hijo de Achikam, hijo de Safan, con la espada. Así murió el hombre que el rey de Babilonia había puesto como gobernador en la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041002001"
+      ],
+      "issue": "first verb is 3ms qal sequential (Ishmael alone arose); Spanish makes both verbs plural",
+      "spanishSpan": "se levantaron y mataron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041002018",
+        "h24041002019"
+      ],
+      "issue": "hiphil 3ms 'he killed him' rendered as passive 'murió'",
+      "spanishSpan": "Así murió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041002021",
+        "h24041002024"
+      ],
+      "issue": "adds 'como gobernador' with no token support for title or role",
+      "spanishSpan": "como gobernador"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

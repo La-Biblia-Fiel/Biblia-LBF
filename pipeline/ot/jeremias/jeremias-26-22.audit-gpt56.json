@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:22",
+  "chapter": 26,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el rey Joaquín envió a Egipto a Elneatán hijo de Acbor, con hombres con él, a Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026022005"
+      ],
+      "issue": "first מִצְרָ֑יִם placed after אֲנָשִׁ֖ים is omitted or relocated; Spanish inserts destination early and duplicates the second אֶל מִצְרָֽיִם",
+      "spanishSpan": "a Egipto ... a Egipto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026022004",
+        "h24026022005"
+      ],
+      "issue": "אֲנָשִׁים מִצְרָ֑יִם treated as unspecified men rather than men linked to the first Egypt token",
+      "spanishSpan": "con hombres con él"
+    }
+  ],
+  "notes": "name renderings conventional but structural mismatch on both Egypt tokens",
+  "discardedUncitedFindings": 0
+}

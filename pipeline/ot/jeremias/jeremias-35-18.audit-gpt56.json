@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:18",
+  "chapter": 35,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a la casa de Recab dijo Jeremías: Así ha dicho Jehová, el Dios de Israel: Porque han guardado la ordenanza de Jonadab, su padre, y han guardado todas mis ordenanzas, y han hecho conforme a todo lo que os mandó su padre;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035018008"
+      ],
+      "issue": "omits צְבָאוֹת licensed by the token",
+      "spanishSpan": "Jehová, el Dios de Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035018013",
+        "h24035018018",
+        "h24035018022",
+        "h24035018026"
+      ],
+      "issue": "shifts 2mp verbs and suffixes to 3pl narration instead of direct 2pl address",
+      "spanishSpan": "han guardado ... han guardado ... han hecho"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035018021"
+      ],
+      "issue": "changes 3ms suffix (his commandments) to 1cs (mis ordenanzas)",
+      "spanishSpan": "todas mis ordenanzas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,61 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:7",
+  "chapter": 5,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso por esto te perdonaré, oh Israel? Tus hijos te abandonaron y juraron por los dioses que no son dioses. Yo juré con ellos, pero ellos me aborrecieron y se prostituyeron en casas de prostitución.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005007001",
+        "h24005007002",
+        "h24005007003"
+      ],
+      "issue": "inserts 'te perdonaré' and 'oh Israel' with no licensing token",
+      "spanishSpan": "¿Acaso por esto te perdonaré, oh Israel?"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005007004",
+        "h24005007005"
+      ],
+      "issue": "changes 'abandonaron me' (1cs) to 'te abandonaron' (2fs)",
+      "spanishSpan": "Tus hijos te abandonaron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005007009",
+        "h24005007010"
+      ],
+      "issue": "renders hiphil saba 'I satisfied them' as 'Yo juré con ellos'",
+      "spanishSpan": "Yo juré con ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005007011"
+      ],
+      "issue": "renders naaph 'committed adultery' as 'me aborrecieron'",
+      "spanishSpan": "ellos me aborrecieron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005007012",
+        "h24005007013",
+        "h24005007014"
+      ],
+      "issue": "renders gadad 'they gash themselves' as 'se prostituyeron en casas de prostitución'",
+      "spanishSpan": "se prostituyeron en casas de prostitución"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

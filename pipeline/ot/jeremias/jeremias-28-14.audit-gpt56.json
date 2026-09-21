@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:14",
+  "chapter": 28,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho el SEÑOR, el Dios de Israel: Pongo un yugo de hierro sobre el cuello de todas estas naciones para que sirvan a Nabucodonosor, rey de Babilonia, y le servirán. También he entregado a las fieras del campo a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028014005"
+      ],
+      "issue": "omits צבאות (of hosts) from the divine title",
+      "spanishSpan": "el SEÑOR, el Dios de Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028014010"
+      ],
+      "issue": "renders נָתַתִּי as present 'Pongo' instead of perfect",
+      "spanishSpan": "Pongo un yugo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

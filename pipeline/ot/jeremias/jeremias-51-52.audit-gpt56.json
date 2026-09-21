@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:52",
+  "chapter": 51,
+  "verse": 52,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, he aquí que días vienen, dice el Señor, y haré que se avergüencen a los ídolos de ella, y en toda la tierra habrá un grito de muertos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051052005",
+        "h24051052006"
+      ],
+      "issue": "adds 'dice el Señor' verb not present; token is נְאֻם יְהוָה (utterance/declaration of YHWH)",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051052007"
+      ],
+      "issue": "פקד (visit/punish) rendered as 'haré que se avergüencen' (make ashamed), adding unlicensed concept",
+      "spanishSpan": "haré que se avergüencen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051052012",
+        "h24051052013"
+      ],
+      "issue": "changes יֶאֱנֹק חָלָל (slain one will groan) to 'habrá un grito de muertos' (there will be a cry of the dead)",
+      "spanishSpan": "habrá un grito de muertos"
+    }
+  ],
+  "notes": "multiple concept additions and meaning changes",
+  "discardedUncitedFindings": 0
+}

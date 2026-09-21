@@ -1,0 +1,804 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 52,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "passed": [
+    3,
+    4,
+    10,
+    12,
+    17,
+    24,
+    31
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el año veintiuno de su reinado, Zedequías hijo de Josías fue rey en Jerusalén por dieciséis años. El nombre de su madre era Hamutal, hija de Jeremías de Libnah.",
+      "notes": "multiple additions, omissions and mis-parsing of age/reign clauses",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052001001",
+            "h24052001002",
+            "h24052001003",
+            "h24052001004",
+            "h24052001006"
+          ],
+          "issue": "renders בֶּן־עֶשְׂרִים וְאַחַת שָׁנָה בְּמָלְכוֹ as 'año veintiuno de su reinado' instead of age at accession",
+          "spanishSpan": "En el año veintiuno de su reinado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052001007",
+            "h24052001008",
+            "h24052001009",
+            "h24052001010"
+          ],
+          "issue": "renders וְאַחַת עֶשְׂרֵה שָׁנָה מָלַךְ as 'por dieciséis años'",
+          "spanishSpan": "por dieciséis años"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052001005"
+          ],
+          "issue": "inserts 'hijo de Josías' with no licensing token",
+          "spanishSpan": "Zedequías hijo de Josías"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052001013",
+            "h24052001014",
+            "h24052001015",
+            "h24052001016"
+          ],
+          "issue": "inserts proper name 'Hamutal' absent from tokens",
+          "spanishSpan": "Hamutal"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y él hizo lo malo a los ojos del Señor, conforme a todo lo que había hecho Joaquín.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052002004"
+          ],
+          "issue": "YHWH rendered as 'Señor' instead of licensed Jehová",
+          "spanishSpan": "del Señor"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y la ciudad fue sitiada hasta el mes décimo del año duodécimo del reinado de Zedequías.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052005005",
+            "h24052005006",
+            "h24052005007"
+          ],
+          "issue": "Spanish inserts 'mes décimo' and 'año duodécimo' absent from tokens; Hebrew is 'until eleventh year'",
+          "spanishSpan": "mes décimo del año duodécimo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052005001"
+          ],
+          "issue": "Spanish 'fue sitiada' adds passive siege concept; token is qal 'came' (bo') into siege",
+          "spanishSpan": "fue sitiada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052005008"
+          ],
+          "issue": "Spanish 'reinado de' replaces 'to the king'",
+          "spanishSpan": "reinado de"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el cuarto mes, en el día nueve del mes, se apoderó del hambre la ciudad, y no había pan para el pueblo de la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052006005",
+            "h24052006006",
+            "h24052006007"
+          ],
+          "issue": "subject/participant reversal: famine seizes city, not city seizes famine",
+          "spanishSpan": "se apoderó del hambre la ciudad"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y la ciudad se abrió, y todos los hombres de guerra huyeron y salieron por la noche por el camino del puente entre los muros, que está junto al jardín del rey, porque los caldeos estaban alrededor de la ciudad; y salieron por el camino del desierto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052007011"
+          ],
+          "issue": "renders gate (שער) as puente (bridge) instead of puerta/gate",
+          "spanishSpan": "del puente"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el ejército de los caldeos persiguió al rey, y alcanzaron a Zedequías en los llanos de Jericó, y todo su ejército se dispersó de él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052008001",
+            "h24052008006"
+          ],
+          "issue": "Spanish changes verb number from 3mp (both sequential imperfects) to singular on first verb while mixing agreement on second",
+          "spanishSpan": "persiguió ... alcanzaron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052008013"
+          ],
+          "issue": "Spanish changes verb number from 3cp niphal to singular",
+          "spanishSpan": "se dispersó"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y lo tomaron y lo llevaron al rey de Babilonia a Ribla en la tierra de Hamat, y el rey de Babilonia le habló.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052009014"
+          ],
+          "issue": "omits licensed concept mishpatim (judgments/sentences)",
+          "spanishSpan": "le habló"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y le cegaron los ojos a Zedequías, y lo ataron con cadenas de cobre, y lo llevó el rey de Babilonia a Babilonia, y lo puso en la cárcel hasta el día de su muerte.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052011004"
+          ],
+          "issue": "verb number mismatch: source 3ms piel perfect, Spanish 3pl",
+          "spanishSpan": "cegaron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052011005"
+          ],
+          "issue": "verb number mismatch: source 3ms qal, Spanish 3pl",
+          "spanishSpan": "ataron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052011012"
+          ],
+          "issue": "adds concept 'cárcel' not licensed by פקדות",
+          "spanishSpan": "la cárcel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y quemó el templo de Jehová, y la casa del rey, y todas las casas de Jerusalén, y todas las casas grandes quemó con fuego.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052013003",
+            "h24052013004"
+          ],
+          "issue": "adds 'templo' concept; tokens only license 'casa' (lemma 1004 b)",
+          "spanishSpan": "el templo de Jehová"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052013014",
+            "h24052013015"
+          ],
+          "issue": "pluralizes singular בֵּית הַגָּדוֹל to 'casas grandes'",
+          "spanishSpan": "todas las casas grandes"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y todas las murallas de Jerusalén alrededor, quebraron todos los ejércitos de los caldeos, que estaban con el capitán de la guardia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052014008"
+          ],
+          "issue": "חֵיל is singular construct; Spanish renders plural 'ejércitos'",
+          "spanishSpan": "ejércitos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052014006",
+            "h24052014008",
+            "h24052014009"
+          ],
+          "issue": "Spanish word order and comma create subject-verb inversion ambiguity not licensed by the token sequence (object-verb-subject structure)",
+          "spanishSpan": "Y todas las murallas de Jerusalén alrededor, quebraron todos los ejércitos"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y de los cautivos tomó el resto del pueblo que quedaba en la ciudad, y a los que habían caído en poder del rey de Babilonia, y al resto del pueblo, los llevó cautivos Nabozeradán, jefe de la guardia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052015001"
+          ],
+          "issue": "Spanish renders דלות as 'cautivos' (captives), adding a concept absent from the lemma/strongs H1803 and surface",
+          "spanishSpan": "de los cautivos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052015001",
+            "h24052015002",
+            "h24052015018"
+          ],
+          "issue": "Spanish restructures the opening clause and inserts 'tomó' before the exile verb, changing participant and action sequence licensed by the tokens",
+          "spanishSpan": "Y de los cautivos tomó el resto del pueblo"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y de la tierra tomó el resto del pueblo, dejando allí a Nabozeradán, jefe de la guardia, para que los cultivara y los recogiera.",
+      "notes": "multiple participant and semantic mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052016001",
+            "h24052016002"
+          ],
+          "issue": "adds 'tomó el resto del pueblo' and omits 'from the poor of the land'",
+          "spanishSpan": "tomó el resto del pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052016003"
+          ],
+          "issue": "reverses participant: Spanish makes Nabuzaradan the one left, while token is he left [some]",
+          "spanishSpan": "dejando allí a Nabozeradán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052016007",
+            "h24052016008"
+          ],
+          "issue": "changes meaning from 'left [them] for vinedressers and plowmen' to 'so that he would cultivate and gather them'",
+          "spanishSpan": "para que los cultivara y los recogiera"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los pinchos y las cortantes y los instrumentos de música y las cucharas y todos los utensilios de bronce que se usaban en ellos, los llevaron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052018002",
+            "h24052018004",
+            "h24052018006",
+            "h24052018008",
+            "h24052018010"
+          ],
+          "issue": "Spanish nouns (pinchos, cortantes, instrumentos de música, cucharas) do not match the lemmas for the listed bronze items",
+          "spanishSpan": "los pinchos y las cortantes y los instrumentos de música y las cucharas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052018016"
+          ],
+          "issue": "renders שרת as passive 'se usaban' instead of active 3mp service/ministry",
+          "spanishSpan": "que se usaban en ellos"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los cuchillos y las antorchas y las tazones y las sartenes y las lámparas y las cucharas y los recipientes, todo de oro, todo de plata, los llevó el jefe de la guardia.",
+      "notes": "noun renderings introduce concepts absent from supplied lemmas",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052019002"
+          ],
+          "issue": "lemma H5592 rendered as 'cuchillos' (unlicensed concept)",
+          "spanishSpan": "los cuchillos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052019004"
+          ],
+          "issue": "lemma H4289 rendered as 'antorchas' (unlicensed concept)",
+          "spanishSpan": "las antorchas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052019006",
+            "h24052019008",
+            "h24052019010",
+            "h24052019012",
+            "h24052019014"
+          ],
+          "issue": "multiple noun lemmas rendered with specific Spanish terms adding interpretive senses not present in tokens",
+          "spanishSpan": "las tazones y las sartenes y las lámparas y las cucharas y los recipientes"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los dos columnas, el mar y los doce bueyes de bronce que estaban debajo de las bases, que hizo el rey Salomón para la casa de Jehová, no había medida del peso del bronce de ellos, de todos los utensilios.",
+      "notes": "sentence restructured with unlicensed additions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052020009",
+            "h24052020010",
+            "h24052020011"
+          ],
+          "issue": "adds verb 'estaban' and reassigns the 'under the bases' clause to the oxen only",
+          "spanishSpan": "que estaban debajo de las bases"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052020003",
+            "h24052020004"
+          ],
+          "issue": "omits explicit 'uno' for the sea while restructuring the list",
+          "spanishSpan": "el mar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052020001",
+            "h24052020002"
+          ],
+          "issue": "gender error 'Los dos columnas' (masculine noun rendered feminine)",
+          "spanishSpan": "Los dos columnas"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y la altura de la columna era de dieciocho codos, y el cordón que la rodeaba era de doce codos, y su grosor era de cuatro dedos, y era hueca.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052021001"
+          ],
+          "issue": "plural pillars rendered as singular columna",
+          "spanishSpan": "la columna"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052021002",
+            "h24052021003",
+            "h24052021004"
+          ],
+          "issue": "adds concept altura not present in tokens",
+          "spanishSpan": "la altura de la columna era de"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y la corona de bronce que estaba sobre ella, y la altura de la corona era de cinco codos, y había red y uvas en la corona alrededor de toda ella, y todo era de bronce, y así era la segunda columna con uvas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052022010",
+            "h24052022019"
+          ],
+          "issue": "רִמּוֹנִים rendered as 'uvas' (grapes) instead of pomegranates",
+          "spanishSpan": "uvas"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y las uvas eran de cien en cada red, y todas las uvas eran de cien en la red alrededor.",
+      "notes": "multiple token mismatches on lemma and cardinal values",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052023002",
+            "h24052023007"
+          ],
+          "issue": "רִמֹּנִים rendered as uvas (grapes) instead of pomegranates",
+          "spanishSpan": "las uvas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052023003",
+            "h24052023004",
+            "h24052023005",
+            "h24052023008"
+          ],
+          "issue": "96 + 100 structure collapsed into cien on each net and cien total",
+          "spanishSpan": "de cien en cada red ... de cien"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y del pueblo tomó un eunuco que estaba encargado de los hombres de guerra, y a siete hombres que veían la faz del rey, que estaban en la ciudad, y al escriba, el jefe del ejército, que contaba al pueblo de la tierra, y a sesenta hombres del pueblo de la tierra que estaban en medio de la ciudad.",
+      "notes": "first clause mismatches city vs people",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052025002"
+          ],
+          "issue": "עִיר rendered as 'pueblo' instead of 'ciudad'",
+          "spanishSpan": "del pueblo"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los llevó Nabozeradán, jefe de la guardia, a Babilonia, a la casa del rey.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052026001",
+            "h24052026006"
+          ],
+          "issue": "omits first verb (took) and conflates subject/action of second verb (led)",
+          "spanishSpan": "Y los llevó Nabozeradán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052026011"
+          ],
+          "issue": "replaces Riblah with Babilonia",
+          "spanishSpan": "a Babilonia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052026009",
+            "h24052026010"
+          ],
+          "issue": "adds 'a la casa del rey' absent from tokens",
+          "spanishSpan": "a la casa del rey"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el rey de Babilonia los mató en Ribla, en la tierra de Hamat, y deportó a Judá de su tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052027001",
+            "h24052027005"
+          ],
+          "issue": "Spanish uses only one verb (mató) where tokens license two sequential actions (struck + put to death)",
+          "spanishSpan": "los mató"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Este fue el pueblo que Nabucodonosor deportó en el año siete de Judá: tres mil setecientos y tres.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052028009",
+            "h24052028010",
+            "h24052028011",
+            "h24052028012"
+          ],
+          "issue": "number rendered as 3703 instead of 3023",
+          "spanishSpan": "tres mil setecientos y tres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052028008"
+          ],
+          "issue": "יְהוּדִ֕ים (Judahites gentilic plural) rendered as Judá",
+          "spanishSpan": "de Judá"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el año dieciocho de Nabucodonosor, deportó de Jerusalén ochocientos sesenta y dos almas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052029009"
+          ],
+          "issue": "number mismatch: tokens license thirty (שְׁלֹשִׁ֥ים) but Spanish renders sixty",
+          "spanishSpan": "sesenta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052029001",
+            "h24052029006"
+          ],
+          "issue": "adds verb 'deportó' with no corresponding token or lemma in packet",
+          "spanishSpan": "deportó"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el año veintitrés de Nabucodonosor, Necozeradán, jefe de los cocineros, deportó a los judíos setecientos cuarenta y cinco almas; en total, cuatro mil seiscientos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052030006"
+          ],
+          "issue": "proper name rendered as Necozeradán instead of conventional Spanish form of the lemma",
+          "spanishSpan": "Necozeradán"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y le habló bien y le dio su trono por encima del trono de los reyes que estaban con él en Babilonia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052032008",
+            "h24052032009",
+            "h24052032010",
+            "h24052032011"
+          ],
+          "issue": "adds 'los reyes' with no corresponding token or lemma",
+          "spanishSpan": "de los reyes"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y le cambió sus vestidos y comió pan delante de él siempre, todos los días de su vida.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052033004"
+          ],
+          "issue": "omits licensed concept 'prison' from כִלְאוֹ",
+          "spanishSpan": "sus vestidos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052033001",
+            "h24052033002",
+            "h24052033003",
+            "h24052033004"
+          ],
+          "issue": "adds indirect object le and restructures direct object; Hebrew is change garments-of-prison, not change clothes for him",
+          "spanishSpan": "le cambió sus vestidos"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y su comida fue comida continua, que se le daba de parte del rey de Babilonia, por orden de día en su día, hasta el día de su muerte, todos los días de su vida.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24052034009"
+          ],
+          "issue": "adds interpretive 'por orden' not licensed by דְּבַר (matter/portion)",
+          "spanishSpan": "por orden de día en su día"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T03:02:25.898897+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 34,
+    "verses": 34,
+    "input": 84129,
+    "cachedInput": 24128,
+    "output": 4366,
+    "reasoning": 30765,
+    "usd": 0.3429,
+    "byProvider": {
+      "xai": {
+        "calls": 34,
+        "input": 84129,
+        "output": 4366,
+        "reasoning": 30765,
+        "usd": 0.3429
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 34,
+        "input": 84129,
+        "output": 4366,
+        "reasoning": 30765,
+        "usd": 0.3429
+      }
+    },
+    "usdPerVerse": 0.0101,
+    "bibleAtThisRate": 314.0,
+    "book": "jeremias",
+    "chapter": 52
+  }
+}

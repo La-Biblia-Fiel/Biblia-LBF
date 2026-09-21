@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 45:1",
+  "chapter": 45,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra que Jeremías el profeta habló a Baruc hijo de Nerías, escribiendo estas palabras en un libro a su dictado en el cuarto año de Joaquín hijo de Josías, rey de Judá, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24045001010",
+        "h24045001016",
+        "h24045001017"
+      ],
+      "issue": "Spanish attributes writing to Baruch via dictation; tokens show 3ms suffix on infinitive construct (Jeremiah writing) + 'from mouth of Jeremiah'",
+      "spanishSpan": "escribiendo estas palabras en un libro a su dictado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

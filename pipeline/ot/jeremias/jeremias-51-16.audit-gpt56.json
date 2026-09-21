@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:16",
+  "chapter": 51,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Para el sonido de su voz, hace que el agua se amontone en los cielos, y que las nubes suban desde el extremo de la tierra; hace que las nubes den relámpagos para la lluvia, y saca el viento de sus tesoros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051016001",
+        "h24051016002"
+      ],
+      "issue": "parses לְקוֹל תִּתּוֹ as 'sonido de su voz' instead of sound of his giving/setting",
+      "spanishSpan": "Para el sonido de su voz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051016003"
+      ],
+      "issue": "renders הֲמוֹן as 'se amontone' (piling up) instead of multitude/tumult",
+      "spanishSpan": "el agua se amontone"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051016007",
+        "h24051016010",
+        "h24051016012"
+      ],
+      "issue": "inserts 'las nubes' as subject of lightning-making; עשה applies directly to ברקים",
+      "spanishSpan": "hace que las nubes den relámpagos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

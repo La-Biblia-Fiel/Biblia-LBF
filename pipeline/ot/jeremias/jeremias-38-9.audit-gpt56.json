@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:9",
+  "chapter": 38,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Señor, el rey, estos hombres han hecho mal a Jeremías el profeta, arrojándolo al pozo, y morirá por hambre, porque ya no hay pan en la ciudad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038009007",
+        "h24038009008",
+        "h24038009009"
+      ],
+      "issue": "omits licensed concept כָּל אֲשֶׁר עָשׂוּ (all that they did)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038009018"
+      ],
+      "issue": "omits licensed concept תַּחְתָּיו (in his place/under him)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

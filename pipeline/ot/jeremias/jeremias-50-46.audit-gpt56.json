@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:46",
+  "chapter": 50,
+  "verse": 46,
+  "candidateLabel": "gpt56",
+  "spanish": "Por el estruendo de Babilonia se estremece la tierra, y se oye un grito en las naciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050046002"
+      ],
+      "issue": "omits the licensed concept of Babylon being taken/seized",
+      "spanishSpan": "de Babilonia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

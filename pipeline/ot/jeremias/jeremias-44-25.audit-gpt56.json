@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:25",
+  "chapter": 44,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehovas de los ejércitos, el Dios de Israel, diciendo: ustedes y sus mujeres decís con sus labios y con sus manos: Haremos lo que hemos prometido, que hemos prometido para quemar incienso a la reina de los cielos y derramar libaciones a ella. Confirmaréis sus votos y cumpliréis sus votos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044025008",
+        "h24044025010"
+      ],
+      "issue": "attributes speaking to both 'ustedes y sus mujeres' with 2p verb; source has 2mp addressees + 3fp verb on the women only",
+      "spanishSpan": "ustedes y sus mujeres decís"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044025011"
+      ],
+      "issue": "renders 'mouths' as 'labios'",
+      "spanishSpan": "con sus labios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044025028",
+        "h24044025032"
+      ],
+      "issue": "uses vosotros verb forms (Confirmaréis, cumpliréis) instead of Latin-American ustedes forms",
+      "spanishSpan": "Confirmaréis sus votos y cumpliréis sus votos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044025003"
+      ],
+      "issue": "renders proper name as 'Jehovas' (misspelled)",
+      "spanishSpan": "Jehovas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

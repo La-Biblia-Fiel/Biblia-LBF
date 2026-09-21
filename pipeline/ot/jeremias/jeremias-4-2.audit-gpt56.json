@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:2",
+  "chapter": 4,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y jurarás por la vida de Yavé en verdad, en justicia y en rectitud, y las naciones bendecirán en él y en él se gloriarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004002007"
+      ],
+      "issue": "hithpael והתברכו rendered as active 'bendecirán' instead of reflexive/passive blessing themselves or being blessed",
+      "spanishSpan": "las naciones bendecirán en él"
+    }
+  ],
+  "notes": "Yavé also deviates from required Jehová for 3068",
+  "discardedUncitedFindings": 0
+}

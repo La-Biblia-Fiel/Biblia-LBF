@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:22",
+  "chapter": 36,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el rey estaba sentado en la casa de invierno en el mes noveno, y la chimenea ardía delante de él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036022008"
+      ],
+      "issue": "chimenea renders H254 (brazier/hearth) with an unlicensed specific architectural sense",
+      "spanishSpan": "la chimenea"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

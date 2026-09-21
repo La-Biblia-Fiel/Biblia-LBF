@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:6",
+  "chapter": 46,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "No retroceda el ligero, no escape el valiente; al norte del río Éufrates caerán y se desvanecerán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046006002"
+      ],
+      "issue": "נוס rendered as 'retroceda' instead of flee/escape",
+      "spanishSpan": "retroceda"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046006007",
+        "h24046006008",
+        "h24046006009"
+      ],
+      "issue": "צָפ֨וֹנָה עַל יַד parsed as 'al norte del' (north of) instead of northward upon/by",
+      "spanishSpan": "al norte del río Éufrates"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046006012",
+        "h24046006013"
+      ],
+      "issue": "perfect 'stumbled and fell' rendered as future 'caerán y se desvanecerán' with added vanish concept",
+      "spanishSpan": "caerán y se desvanecerán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

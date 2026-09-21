@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:27",
+  "chapter": 2,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Dicen a la madera: Eres mi padre; y a la piedra: Eres mi madre. ¿Acaso se vuelven a mí la espalda y no la cara? En el tiempo de su calamidad dicen: Levántate y salva a nosotros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002027005",
+        "h24002027006"
+      ],
+      "issue": "adds 'mi madre' concept with no corresponding lemma or surface in tokens",
+      "spanishSpan": "Eres mi madre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

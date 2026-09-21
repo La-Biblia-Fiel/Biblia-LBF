@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:14",
+  "chapter": 4,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Lava tu corazón de la maldad, Jerusalén, para que seas salvada. Hasta cuándo te quedarás en tu interior con pensamientos de humillación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004014009",
+        "h24004014011",
+        "h24004014012"
+      ],
+      "issue": "תָּלִין is 3fs with subject מחשבות; Spanish shifts subject to 2fs addressee and misrenders אוֹנֵךְ as humillación",
+      "spanishSpan": "te quedarás ... con pensamientos de humillación"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

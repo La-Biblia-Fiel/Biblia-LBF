@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:46",
+  "chapter": 48,
+  "verse": 46,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay de ti, Moab! Has perecido, pueblo de Quemosh, porque tus hijos han sido llevados en cautiverio y tus hijas en cautividad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048046004"
+      ],
+      "issue": "verb person mismatch: Spanish 'Has perecido' (2sg) but token is HVqp3ms with subject 'עַם'",
+      "spanishSpan": "Has perecido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

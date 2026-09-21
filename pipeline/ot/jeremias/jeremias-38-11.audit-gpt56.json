@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:11",
+  "chapter": 38,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "El eunuco tomó a los hombres con él y vino a la casa del rey, a la cámara del tesoro, y tomó de allí vestidos y calzado y lo envió a Jeremías al pozo con cuerdas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038011002",
+        "h24038011003"
+      ],
+      "issue": "adds 'eunuco' not present in tokens (proper name Ebed-melech only)",
+      "spanishSpan": "El eunuco"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038011015",
+        "h24038011016",
+        "h24038011017"
+      ],
+      "issue": "adds 'calzado' (footwear) absent from the rags tokens",
+      "spanishSpan": "y calzado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038011018"
+      ],
+      "issue": "singular 'lo' instead of plural 'los' for the object sent",
+      "spanishSpan": "lo envió"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

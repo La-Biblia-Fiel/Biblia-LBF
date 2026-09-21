@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:31",
+  "chapter": 23,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, dice el SEÑOR, estoy en contra de los profetas, que toman la lengua y dicen: “¡Proclamamos!”",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023031001",
+        "h24023031002"
+      ],
+      "issue": "adds 'Por eso' with no corresponding token",
+      "spanishSpan": "Por eso"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023031008",
+        "h24023031009"
+      ],
+      "issue": "renders וַיִּנְאֲמ֖וּ נְאֻם as 'dicen: ¡Proclamamos!' adding 'proclaim' and direct speech not licensed by lemma or morphology",
+      "spanishSpan": "dicen: “¡Proclamamos!”"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

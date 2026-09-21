@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:16",
+  "chapter": 46,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Mucho tropieza Cush, cae cada uno sobre su compañero y dicen: Levántate y volvamos a nuestro pueblo y a la tierra de nuestra juventud, lejos de la espada del enemigo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046016002"
+      ],
+      "issue": "inserts Cush (absent from tokens; כּוֹשֵׁל is qal participle of stumble)",
+      "spanishSpan": "Cush"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046016015"
+      ],
+      "issue": "renders מולדתנו as 'juventud' instead of nativity/birthplace",
+      "spanishSpan": "nuestra juventud"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046016018"
+      ],
+      "issue": "renders היונה (oppressor) as 'enemigo'",
+      "spanishSpan": "del enemigo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:33",
+  "chapter": 48,
+  "verse": 33,
+  "candidateLabel": "gpt56",
+  "spanish": "Se recogerá la alegría y el regocijo del Carmel, y del país de Moab; y el vino de los lagares dejaré sin derramar, porque no derramaré, no derramaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048033009",
+        "h24048033010",
+        "h24048033011",
+        "h24048033012",
+        "h24048033013",
+        "h24048033014",
+        "h24048033015"
+      ],
+      "issue": "renders hiphil cessation of wine + negative qal tread + repeated hedad as 'dejaré sin derramar... no derramaré' (wrong verb/action and added causal clause)",
+      "spanishSpan": "y el vino de los lagares dejaré sin derramar, porque no derramaré, no derramaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048033004"
+      ],
+      "issue": "Carmel rendered as proper 'Carmel' without licensed Spanish conventional form",
+      "spanishSpan": "del Carmel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

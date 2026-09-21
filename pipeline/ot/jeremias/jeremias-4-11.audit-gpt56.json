@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:11",
+  "chapter": 4,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquel tiempo se dirá al pueblo y a Jerusalén: Viento de los desiertos, camino de un pueblo que no viene para ofrecer sacrificios ni aportar ofrendas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004011005"
+      ],
+      "issue": "omits demonstrative 'este' from הַזֶּה",
+      "spanishSpan": "al pueblo y a Jerusalén"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004011007",
+        "h24004011008",
+        "h24004011009",
+        "h24004011010",
+        "h24004011011",
+        "h24004011012",
+        "h24004011013"
+      ],
+      "issue": "replaces רוח צח שפיים במדבר דרך בת עמי with unrelated 'Viento de los desiertos, camino de un pueblo'",
+      "spanishSpan": "Viento de los desiertos, camino de un pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004011014",
+        "h24004011015",
+        "h24004011016",
+        "h24004011017"
+      ],
+      "issue": "replaces לא לזרות ולא להבר with invented concept of not coming to offer sacrifices and offerings",
+      "spanishSpan": "que no viene para ofrecer sacrificios ni aportar ofrendas"
+    }
+  ],
+  "notes": "entire wind clause and negatives are unlicensed additions",
+  "discardedUncitedFindings": 0
+}

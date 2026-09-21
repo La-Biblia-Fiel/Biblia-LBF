@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:10",
+  "chapter": 33,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová: Otra vez se oirá en este lugar que decís desolado, sin gente y sin bestias, en las ciudades de Judá y alrededor de Jerusalén, que las almas no están, sin gente, sin habitantes y sin bestias.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033010021"
+      ],
+      "issue": "adds unlicensed concept 'almas' for niphal participle of שמם (desolated)",
+      "spanishSpan": "que las almas no están"
+    }
+  ],
+  "notes": "also 'alrededor' for חוצות is smoothing",
+  "discardedUncitedFindings": 0
+}

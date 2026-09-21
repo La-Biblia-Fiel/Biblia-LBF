@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:26",
+  "chapter": 5,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque en mi pueblo hallé malhechores; han preparado lazos para matar a los hombres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005026002"
+      ],
+      "issue": "נִמְצְאוּ is Niphal 3cp perfect 'they were found'; Spanish 'hallé' is active 1cs",
+      "spanishSpan": "hallé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005026005",
+        "h24005026006",
+        "h24005026007",
+        "h24005026008",
+        "h24005026009",
+        "h24005026010",
+        "h24005026011"
+      ],
+      "issue": "Spanish replaces entire clause structure with 'han preparado lazos para matar' adding 'lazos' and 'matar' absent from tokens",
+      "spanishSpan": "han preparado lazos para matar a los hombres"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

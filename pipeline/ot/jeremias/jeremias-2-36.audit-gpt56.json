@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:36",
+  "chapter": 2,
+  "verse": 36,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Cómo te burlarás mucho para cambiar tu camino? También te avergonzarás de Egipto como te avergonzaste de Asiria.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002036002"
+      ],
+      "issue": "lemma H235 (אָזַל) rendered as burlarás (mock/will jest), which adds an unlicensed concept",
+      "spanishSpan": "te burlarás"
+    }
+  ],
+  "notes": "first clause mismatches lemma and surface sense",
+  "discardedUncitedFindings": 0
+}

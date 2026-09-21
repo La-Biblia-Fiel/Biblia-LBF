@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:29",
+  "chapter": 44,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Y esto es para ustedes una señal, dice el SEÑOR: Pues yo estoy guardando sobre ustedes este lugar para el mal, para que sepáis que mis palabras se levantarán contra ustedes para el mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044029007"
+      ],
+      "issue": "פֹקֵד (qal ptc) rendered as 'estoy guardando' (keeping/guarding), which adds wrong sense; lemma is attend/visit/appoint, often punitive",
+      "spanishSpan": "yo estoy guardando"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044029013"
+      ],
+      "issue": "2mp imperfect rendered with vosotros 'sepáis' instead of ustedes 'sepan'",
+      "spanishSpan": "para que sepáis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044029010",
+        "h24044029019"
+      ],
+      "issue": "לְרָעָה placed on the פקד clause instead of only on the rising of the words",
+      "spanishSpan": "guardando sobre ustedes este lugar para el mal"
+    }
+  ],
+  "notes": "also 'dice el SEÑOR' for נאם יהוה is loose but secondary to the above",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:38",
+  "chapter": 50,
+  "verse": 38,
+  "candidateLabel": "gpt56",
+  "spanish": "Espada contra sus aguas, y se secarán, porque es una tierra de imágenes, y los espantará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050038009",
+        "h24050038010"
+      ],
+      "issue": "changes hithpael 3mp subject + terrors to external agent 'los espantará'",
+      "spanishSpan": "y los espantará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

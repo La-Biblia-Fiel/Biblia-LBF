@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:24",
+  "chapter": 32,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que las escaleras han entrado en la ciudad para tomarla, y la ciudad ha caído en manos de los caldeos que luchaban contra ella por la espada, por el hambre y por la peste, y lo que has dicho ha sucedido, y tú lo has visto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032024002"
+      ],
+      "issue": "lemma d/5550 (סֹלְלָה) rendered as 'escaleras' (wrong noun; siege mounds/ramps required)",
+      "spanishSpan": "las escaleras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

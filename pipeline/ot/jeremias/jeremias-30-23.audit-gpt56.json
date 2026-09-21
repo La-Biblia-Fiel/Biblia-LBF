@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:23",
+  "chapter": 30,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que viene la ira de Jehová, una tormenta; la tormenta sale, y se levanta sobre la cabeza de los malvados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030023004",
+        "h24030023002",
+        "h24030023003"
+      ],
+      "issue": "restructures חֵמָה as appositive to סַעֲרַת יְהוָה and inserts 'viene'",
+      "spanishSpan": "viene la ira de Jehová, una tormenta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030023007",
+        "h24030023011"
+      ],
+      "issue": "collapses participle מִתְגּוֹרֵר and verb יָחוּל into single 'se levanta'",
+      "spanishSpan": "la tormenta sale, y se levanta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030023011"
+      ],
+      "issue": "יָחוּל (writhe/whirl) rendered as 'se levanta'",
+      "spanishSpan": "se levanta"
+    }
+  ],
+  "notes": "sentence-level paraphrase exceeds licensed tokens",
+  "discardedUncitedFindings": 0
+}

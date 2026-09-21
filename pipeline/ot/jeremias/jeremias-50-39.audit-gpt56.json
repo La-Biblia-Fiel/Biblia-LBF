@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:39",
+  "chapter": 50,
+  "verse": 39,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso habitarán los zorros en sus cumbres, y habitarán en ellas las aves de presa, y no habitarán más para siempre, ni habitarán allí generación tras generación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050039003",
+        "h24050039005"
+      ],
+      "issue": "Spanish specifies 'zorros' and 'aves de presa' plus 'cumbres' not licensed by lemmas or surface of צִיִּים and אִיִּים",
+      "spanishSpan": "los zorros en sus cumbres ... las aves de presa"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

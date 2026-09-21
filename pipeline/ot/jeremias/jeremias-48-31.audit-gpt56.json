@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:31",
+  "chapter": 48,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, a Moab lo llamo vano, y a todos en Quir-Heres gemirán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048031005"
+      ],
+      "issue": "Spanish renders אֲיֵלִיל as 'llamo vano', adding 'call vain' concept absent from lemma 3213 HVhi1cs",
+      "spanishSpan": "lo llamo vano"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048031013"
+      ],
+      "issue": "Spanish changes 3ms imperfect יֶהְגֶּה to plural 'gemirán', altering person and number",
+      "spanishSpan": "gemirán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048031010",
+        "h24048031011",
+        "h24048031012"
+      ],
+      "issue": "Spanish 'a todos en Quir-Heres' omits 'men of' (אַנְשֵׁי) and alters the prepositional phrase structure",
+      "spanishSpan": "a todos en Quir-Heres"
+    }
+  ],
+  "notes": "Multiple mismatches; first clause entirely unsupported by tokens.",
+  "discardedUncitedFindings": 0
+}

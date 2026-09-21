@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:8",
+  "chapter": 41,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Diez hombres fueron encontrados entre ellos, y les dijeron a Ishmael: “No nos mates, porque tenemos trigo escondido en el campo.” Ishmael dejó de matarlos y no los mató junto con sus hermanos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041008015",
+        "h24041008016",
+        "h24041008017",
+        "h24041008018"
+      ],
+      "issue": "omits barley, oil and honey; renders only wheat",
+      "spanishSpan": "trigo escondido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

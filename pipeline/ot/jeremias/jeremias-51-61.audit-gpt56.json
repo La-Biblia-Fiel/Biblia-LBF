@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:61",
+  "chapter": 51,
+  "verse": 61,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jeremías dijo a Seraías: Cuando llegues a Babilonia, lees este libro y dices: Así dice el Señor: Tú has hablado contra este lugar para destruirlo, para que no haya en él habitantes, ni de hombre ni de bestia, y que quede desolado para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051061007",
+        "h24051061008",
+        "h24051061010",
+        "h24051061011",
+        "h24051061012"
+      ],
+      "issue": "adds 'lees este libro y dices: Así dice el Señor...' and following clauses; tokens only license 'verás y leerás todas estas palabras'",
+      "spanishSpan": "lees este libro y dices: Así dice el Señor: Tú has hablado contra este lugar para destruirlo, para que no haya en él habitantes, ni de hombre ni de bestia, y que quede desolado para siempre"
+    }
+  ],
+  "notes": "Spanish renders material outside supplied tokens for v.61",
+  "discardedUncitedFindings": 0
+}

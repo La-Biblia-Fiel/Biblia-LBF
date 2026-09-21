@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:14",
+  "chapter": 31,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y regaré la alma de los sacerdotes con grasa, y mi pueblo se saciará de mi bondad, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031014009",
+        "h24031014010"
+      ],
+      "issue": "renders נְאֻם יְהוָה as 'dice el SEÑOR' instead of licensed form with Jehová and literal declaration",
+      "spanishSpan": "dice el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031014001"
+      ],
+      "issue": "regaré introduces watering/irrigation concept not licensed by רוה piel",
+      "spanishSpan": "regaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

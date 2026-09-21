@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:3",
+  "chapter": 48,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Se oye un grito de dolor desde Horonaim, saqueo y gran destrucción.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048003001",
+        "h24048003002"
+      ],
+      "issue": "adds 'Se oye' and 'de dolor' not licensed by qol tse'aqah",
+      "spanishSpan": "Se oye un grito de dolor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048003004"
+      ],
+      "issue": "renders shod as 'saqueo' (plunder) instead of licensed devastation/violence",
+      "spanishSpan": "saqueo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

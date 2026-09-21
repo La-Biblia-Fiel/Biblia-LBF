@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:3",
+  "chapter": 33,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Clama a mí y yo te responderé, y te mostraré grandes cosas y cosas ocultas que no conoces.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033003004"
+      ],
+      "issue": "lemma H5046 (nagad) licenses declare/tell/make-known, not 'mostrar'",
+      "spanishSpan": "te mostraré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033003007"
+      ],
+      "issue": "lemma H1219 (batsar) licenses fortified/inaccessible, not 'ocultas'",
+      "spanishSpan": "cosas ocultas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

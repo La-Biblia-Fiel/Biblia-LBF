@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:15",
+  "chapter": 40,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jonatán hijo de Keret le dijo a Gedalía en secreto en Mizpa: “Voy a matar a Ishmael hijo de Nethaniah, y nadie lo sabrá. Si no lo hago, Judá se dispersará, y quedará destruida toda la gente que se ha reunido contigo.”",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040015020",
+        "h24040015021",
+        "h24040015022"
+      ],
+      "issue": "Spanish inserts conditional purpose clause 'Si no lo hago' absent from tokens; omits interrogative למה and direct 'why should he strike you a soul'",
+      "spanishSpan": "Si no lo hago, Judá se dispersará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040015003"
+      ],
+      "issue": "Proper name rendered as 'Keret' instead of conventional form licensed by lemma 7143",
+      "spanishSpan": "Keret"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

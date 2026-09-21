@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:4",
+  "chapter": 42,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Jeremías el profeta les dijo: ‘He escuchado. Miren, estoy orando ante el Señor, tu Dios, según tu palabra. Y todo lo que el Señor me responda, os lo anunciaré; no te ocultaré nada.’",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042004010",
+        "h24042004011"
+      ],
+      "issue": "2mp suffixes rendered as singular tu/tu instead of plural",
+      "spanishSpan": "tu Dios, según tu palabra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042004018"
+      ],
+      "issue": "direct object אֶתְכֶם (2mp) rendered as me instead of ustedes",
+      "spanishSpan": "el Señor me responda"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042004023"
+      ],
+      "issue": "2mp suffix rendered as singular te instead of plural",
+      "spanishSpan": "no te ocultaré"
+    }
+  ],
+  "notes": "multiple 2mp suffixes violated; also mixes os/te",
+  "discardedUncitedFindings": 0
+}

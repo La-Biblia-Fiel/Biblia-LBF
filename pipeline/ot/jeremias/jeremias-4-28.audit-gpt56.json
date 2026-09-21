@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:28",
+  "chapter": 4,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso la tierra se entristecerá, y los cielos se oscurecerán por encima, porque hablé y no me arrepentí, ni volveré atrás de lo que dije.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004028011"
+      ],
+      "issue": "omits זַמֹּתִי (I have purposed/planned) licensed by the token",
+      "spanishSpan": "porque hablé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004028011"
+      ],
+      "issue": "adds 'de lo que dije' (from what I said) with no corresponding token; 'it' refers to the purpose, not speech",
+      "spanishSpan": "ni volveré atrás de lo que dije"
+    }
+  ],
+  "notes": "collapses two distinct verbs into one and inserts interpretive referent",
+  "discardedUncitedFindings": 0
+}

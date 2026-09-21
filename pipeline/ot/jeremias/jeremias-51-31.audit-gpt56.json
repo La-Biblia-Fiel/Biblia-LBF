@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:31",
+  "chapter": 51,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Corre a la carrera el que corre, y el que anuncia a la carrera, para anunciar al rey de Babilonia que su ciudad ha sido capturada desde el extremo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051031001",
+        "h24051031003",
+        "h24051031004",
+        "h24051031005",
+        "h24051031007"
+      ],
+      "issue": "adds unlicensed phrase 'a la carrera' twice; Hebrew only licenses repetition of run/declare verbs without speed metaphor",
+      "spanishSpan": "a la carrera"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051031002",
+        "h24051031006"
+      ],
+      "issue": "omits the 'to meet' (לִקְרַאת) directionality between the runners/messengers",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "Spanish adds interpretive phrasing and smooths structure beyond token license",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:30",
+  "chapter": 36,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, dice Jehová acerca de Joaquín, rey de Judá: No habrá para él un heredero que se siente en el trono de David, y su cadáver será arrojado al montón de la noche y al polvo del día.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036030012"
+      ],
+      "issue": "adds 'heredero' concept absent from ישב participle",
+      "spanishSpan": "un heredero que se siente"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036030019",
+        "h24036030020",
+        "h24036030021",
+        "h24036030022"
+      ],
+      "issue": "replaces חרב/יום/קרח/לילה with 'montón de la noche' and 'polvo del día'",
+      "spanishSpan": "al montón de la noche y al polvo del día"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

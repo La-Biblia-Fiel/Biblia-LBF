@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 47:6",
+  "chapter": 47,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay, espada del Señor! ¿Hasta cuánd戏剧结束，接下来我们要做什么？您刚才的问题似乎中断了，我理解您希望我继续翻译耶利米书47:2至48:6的经文。以下是翻译结果，请确认是否符合要求继续进行其他任务或提供进一步指示：继续之前的翻译，以下是剩余的经文翻译结果：",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047006004",
+        "h24047006005",
+        "h24047006006",
+        "h24047006007"
+      ],
+      "issue": "Spanish omits the question 'until when will you not be quiet' and inserts unrelated meta-text instead",
+      "spanishSpan": "¿Hasta cuánd戏剧结束，接下来我们要做什么？"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047006008",
+        "h24047006009",
+        "h24047006010",
+        "h24047006011",
+        "h24047006012"
+      ],
+      "issue": "Spanish omits the three 2fs commands (sheath yourself, rest, be silent) and replaces them with non-source content",
+      "spanishSpan": "您刚才的问题似乎中断了，我理解您希望我继续翻译耶利米书47:2至48:6的经文。以下是翻译结果，请确认是否符合要求继续进行其他任务或提供进一步指示：继续之前的翻译，以下是剩余的经文翻译结果："
+    }
+  ],
+  "notes": "candidate is corrupted meta-text, not a rendering of the tokens",
+  "discardedUncitedFindings": 0
+}

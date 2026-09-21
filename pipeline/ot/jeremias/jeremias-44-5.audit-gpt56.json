@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:5",
+  "chapter": 44,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no escucharon ni inclinaron el oído para volver de su maldad y no quemar incienso a dioses extranjeros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044005012"
+      ],
+      "issue": "renders אחרים as 'extranjeros' (foreign), adding a concept not licensed by the lemma 'other'",
+      "spanishSpan": "dioses extranjeros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

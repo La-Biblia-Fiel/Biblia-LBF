@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:33",
+  "chapter": 2,
+  "verse": 33,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Cómo te beneficiarás buscando amor? Por eso he aprendido tus caminos, incluso los malos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002033006",
+        "h24002033007",
+        "h24002033008",
+        "h24002033009",
+        "h24002033010",
+        "h24002033011"
+      ],
+      "issue": "adds 'he aprendido' with no token support; misrenders גם הרעות את דרכיך as 'incluso los malos' after a fabricated verb",
+      "spanishSpan": "he aprendido tus caminos, incluso los malos"
+    }
+  ],
+  "notes": "first clause roughly tracks tokens 1-5; second clause does not",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:55",
+  "chapter": 51,
+  "verse": 55,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque el Señor saqueará Babilonia y hará desaparecer su voz poderosa; su oleada se romperá como las aguas, y se oirá un rugido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051055003"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051055010",
+        "h24051055011"
+      ],
+      "issue": "והמו גליהם rendered as 'su oleada se romperá' (adds 'romper' action and changes roar to break)",
+      "spanishSpan": "su oleada se romperá"
+    }
+  ],
+  "notes": "multiple token mismatches on proper name and wave verb",
+  "discardedUncitedFindings": 0
+}

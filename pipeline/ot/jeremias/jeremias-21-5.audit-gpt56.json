@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:5",
+  "chapter": 21,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo pelearé contra ustedes con mano extendida y con brazo fuerte, y con ira y con celos y con gran enojo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021005009"
+      ],
+      "issue": "חֵמָה rendered as 'celos' (jealousy/zeal) instead of wrath/fury/heat",
+      "spanishSpan": "y con celos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

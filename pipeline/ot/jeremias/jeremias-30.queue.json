@@ -1,0 +1,513 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 30,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    9,
+    11,
+    16,
+    20,
+    22
+  ],
+  "holds": [
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho Jehová: Se ha oído un grito de temor, pánico y no hay paz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030005007"
+          ],
+          "issue": "changes 1cp verb to impersonal passive, omitting 'we'",
+          "spanishSpan": "Se ha oído"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pregunta y mira si un varón da a luz; ¿por qué veo a todos los varones con las manos sobre las sienes como una mujer que da a luz, y todos los rostros se vuelven pálidos?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030006001",
+            "h24030006003"
+          ],
+          "issue": "2mp imperatives rendered as singular tú forms instead of ustedes",
+          "spanishSpan": "Pregunta y mira"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030006013"
+          ],
+          "issue": "חֲלָצָיו (loins) rendered as sienes (temples of the head)",
+          "spanishSpan": "las sienes"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será en aquel día, ha dicho Jehová de los ejércitos, que romperé tu yugo del cuello y tus ataduras, y no servirán más de ti los extranjeros.",
+      "notes": "multiple mismatches on suffixes, verb count, and object",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030008008"
+          ],
+          "issue": "עֻלּוֹ is 3ms 'his yoke'; Spanish renders 'tu yugo' (2ms)",
+          "spanishSpan": "tu yugo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030008007",
+            "h24030008012"
+          ],
+          "issue": "two distinct verbs (אֶשְׁבֹּר + אֲנַתֵּק) collapsed into single 'romperé'",
+          "spanishSpan": "romperé tu yugo del cuello y tus ataduras"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030008014",
+            "h24030008015"
+          ],
+          "issue": "יַעַבְדוּ בוֹ means foreigners will not serve him/it; Spanish 'servirán ... de ti' alters object and meaning",
+          "spanishSpan": "no servirán más de ti los extranjeros"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú, no temas, siervo mío Jacob, ha dicho Jehová; no te ateres, Israel. He aquí que te redimiré de lejos, y tu descendencia de la tierra de su cautividad, y Jacob volverá y se tranquilizará, y será seguro, y no habrá temor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030010023",
+            "h24030010024"
+          ],
+          "issue": "Spanish 'no habrá temor' replaces the active hiphil participle 'no one causing fear' with a different concept of absence of fear",
+          "spanishSpan": "y no habrá temor"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque Jehová dice: Aunque seas deshecho, yo te daré una herencia; tu castigo será tu tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030012002"
+          ],
+          "issue": "omits licensed adverb כֹה 'thus'",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030012005",
+            "h24030012006"
+          ],
+          "issue": "resolves אָנוּשׁ לְשִׁבְרֵךְ into concessive 'aunque seas deshecho' and adds unlisted verb 'seas'",
+          "spanishSpan": "Aunque seas deshecho"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030012007"
+          ],
+          "issue": "adds 'yo te daré una herencia' absent from HVNrfsa token",
+          "spanishSpan": "yo te daré una herencia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030012008"
+          ],
+          "issue": "replaces מַכָּתֵךְ with unrelated 'tu castigo será tu tierra'",
+          "spanishSpan": "tu castigo será tu tierra"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No hay quien juzgue tu causa para que te libere; no hay remedio para tus dolencias.",
+      "notes": "first clause also drops the 'bandage' sense entirely",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030013004"
+          ],
+          "issue": "לְמָזוֹר rendered as 'para que te libere' (addition of 'free/release' concept absent from tokens)",
+          "spanishSpan": "para que te libere"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030013005",
+            "h24030013006",
+            "h24030013008"
+          ],
+          "issue": "רְפֻאוֹת תְּעָלָה ... לָךְ rendered as 'remedio para tus dolencias' (introduces 'dolencias' and shifts from 'no healings for you')",
+          "spanishSpan": "no hay remedio para tus dolencias"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todos tus amantes te olvidarán; no buscarán tu bienestar, porque yo he golpeado a tu enemigo con un castigo cruel, por tu gran pecado y por tus muchas iniquidades.",
+      "notes": "multiple participant and concept additions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030014006"
+          ],
+          "issue": "adds 'tu bienestar' as object of דרש; tokens have no such noun",
+          "spanishSpan": "tu bienestar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030014009",
+            "h24030014010"
+          ],
+          "issue": "reverses participants: tokens have 'I struck you' (הכיתיך) not 'I struck your enemy'",
+          "spanishSpan": "yo he golpeado a tu enemigo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030014011",
+            "h24030014012",
+            "h24030014014",
+            "h24030014015",
+            "h24030014016",
+            "h24030014017"
+          ],
+          "issue": "alters syntax and participants of על רב עונך עצמו חטאתיך; Spanish makes two parallel causes rather than 'because of abundance of your iniquity, your sins have become many'",
+          "spanishSpan": "por tu gran pecado y por tus muchas iniquidades"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Para qué te quejas de tu herida, oh deshecho mío? Por tu gran pecado y por tus muchas iniquidades, yo he hecho esto para ti.",
+      "notes": "multiple concept additions and restructurings not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030015002"
+          ],
+          "issue": "זעק rendered as 'quejas' (complain) instead of cry out/shout",
+          "spanishSpan": "te quejas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030015004",
+            "h24030015005",
+            "h24030015006"
+          ],
+          "issue": "adds 'oh deshecho mío' and collapses שבר + אנוש + מכאב into 'herida'",
+          "spanishSpan": "tu herida, oh deshecho mío"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030015008",
+            "h24030015009",
+            "h24030015010",
+            "h24030015011"
+          ],
+          "issue": "restructures רב עונך עצמו חטאתיך as 'por tu gran pecado y por tus muchas iniquidades' (adds 'gran', inverts order, changes 'sins have become many')",
+          "spanishSpan": "Por tu gran pecado y por tus muchas iniquidades"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque yo te daré una herida y te curaré de tus heridas, dice Jehová. Porque han llamado a ti deshecho, y Zion es deshecho; no hay quien te busque.",
+      "notes": "first clause inverts meaning; second clause alters participants",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030017002",
+            "h24030017003",
+            "h24030017004"
+          ],
+          "issue": "adds opposite concept 'daré una herida' instead of bringing restoration/healing",
+          "spanishSpan": "yo te daré una herida"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030017010",
+            "h24030017013",
+            "h24030017014",
+            "h24030017015",
+            "h24030017016",
+            "h24030017017"
+          ],
+          "issue": "misrenders נִדָּחָה structure and switches 3fs לָהּ to 2fs 'te'",
+          "spanishSpan": "Zion es deshecho; no hay quien te busque"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice Jehová: He aquí que yo volveré el cautiverio de los tiendas de Jacob y tendrán misericordia de sus moradas. Y se levantará una ciudad sobre su montículo, y un palacio sobre su juicio.",
+      "notes": "participant and verb mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030018010"
+          ],
+          "issue": "changes 1cs subject to 3pl 'tendrán'",
+          "spanishSpan": "y tendrán misericordia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030018011",
+            "h24030018018"
+          ],
+          "issue": "omits 'be built' + 'dwell' verbs; substitutes 'se levantará'",
+          "spanishSpan": "Y se levantará una ciudad ... y un palacio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030018007"
+          ],
+          "issue": "masculine plural 'tiendas' with wrong article gender",
+          "spanishSpan": "los tiendas"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y saldrá de ellos alabanza y el sonido de los que se regocijan; y yo los multiplicaré, y no serán pocos; y los engrandeceré, y no serán postrados.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030019011"
+          ],
+          "issue": "צער rendered as 'postrados' adds un-licensed sense of prostration/humbling",
+          "spanishSpan": "no serán postrados"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será grande su poder, y de su medio saldrá su gobernante, y yo lo acercaré a mí; y se acercará a mí, porque ¿quién es este que se ha vuelto a mí con su corazón para venir a mí? Dice Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030021002"
+          ],
+          "issue": "אַדִּירוֹ rendered as 'grande su poder' (adds 'grande' and 'poder'; token is construct 'his mighty one')",
+          "spanishSpan": "Y será grande su poder"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030021014",
+            "h24030021015",
+            "h24030021016"
+          ],
+          "issue": "עָרַב אֶת־לִבּוֹ rendered as 'se ha vuelto a mí con su corazón' (adds 'vuelto' and 'a mí'; token is 'has pledged his heart')",
+          "spanishSpan": "que se ha vuelto a mí con su corazón"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que viene la ira de Jehová, una tormenta; la tormenta sale, y se levanta sobre la cabeza de los malvados.",
+      "notes": "sentence-level paraphrase exceeds licensed tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030023004",
+            "h24030023002",
+            "h24030023003"
+          ],
+          "issue": "restructures חֵמָה as appositive to סַעֲרַת יְהוָה and inserts 'viene'",
+          "spanishSpan": "viene la ira de Jehová, una tormenta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030023007",
+            "h24030023011"
+          ],
+          "issue": "collapses participle מִתְגּוֹרֵר and verb יָחוּל into single 'se levanta'",
+          "spanishSpan": "la tormenta sale, y se levanta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030023011"
+          ],
+          "issue": "יָחוּל (writhe/whirl) rendered as 'se levanta'",
+          "spanishSpan": "se levanta"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No se apartará la ira del Señor hasta que haga y cumpla lo que su corazón desea. En los últimos días lo entenderán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030024014"
+          ],
+          "issue": "2mp verb rendered as 3pl (person shift)",
+          "spanishSpan": "entenderán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030024015"
+          ],
+          "issue": "feminine suffix rendered as masculine lo",
+          "spanishSpan": "lo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030024010",
+            "h24030024011"
+          ],
+          "issue": "מְזִמּוֹת לִבּוֹ rendered as 'lo que su corazón desea' (adds desire concept)",
+          "spanishSpan": "lo que su corazón desea"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24030024005"
+          ],
+          "issue": "YHWH rendered as Señor",
+          "spanishSpan": "Señor"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T03:13:08.865202+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 24,
+    "verses": 24,
+    "input": 54353,
+    "cachedInput": 17984,
+    "output": 3057,
+    "reasoning": 21372,
+    "usd": 0.2283,
+    "byProvider": {
+      "xai": {
+        "calls": 24,
+        "input": 54353,
+        "output": 3057,
+        "reasoning": 21372,
+        "usd": 0.2283
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 24,
+        "input": 54353,
+        "output": 3057,
+        "reasoning": 21372,
+        "usd": 0.2283
+      }
+    },
+    "usdPerVerse": 0.0095,
+    "bibleAtThisRate": 296.0,
+    "book": "jeremias",
+    "chapter": 30
+  }
+}

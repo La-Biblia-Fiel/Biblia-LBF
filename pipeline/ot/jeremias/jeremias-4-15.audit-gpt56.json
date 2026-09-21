@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:15",
+  "chapter": 4,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque hay un quejumbroso que viene de Dan, y un quejumbroso que anuncia maldad desde el monte de Efraín.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004015002"
+      ],
+      "issue": "omits קוֹל (voice/sound) and replaces with personified quejumbroso",
+      "spanishSpan": "un quejumbroso"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004015003",
+        "h24004015004"
+      ],
+      "issue": "changes מַגִּיד מִדָּן (announcing from Dan) to que viene de Dan",
+      "spanishSpan": "que viene de Dan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004015005",
+        "h24004015006"
+      ],
+      "issue": "restructures second clause and adds interpretive person",
+      "spanishSpan": "un quejumbroso que anuncia maldad"
+    }
+  ],
+  "notes": "Spanish adds unlicensed person and motion verb; omits voice",
+  "discardedUncitedFindings": 0
+}

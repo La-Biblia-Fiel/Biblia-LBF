@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:6",
+  "chapter": 22,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así dice Jehová acerca de la casa de David: ¿No eres tú Gilead para mí, y no es Líbano la cumbre de tu cabeza? ¿Acaso no te pondré como desierto, ciudades que no serán habitadas?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022006006",
+        "h24022006007",
+        "h24022006008"
+      ],
+      "issue": "replaces בֵּית מֶלֶךְ יְהוּדָה with 'casa de David'",
+      "spanishSpan": "casa de David"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

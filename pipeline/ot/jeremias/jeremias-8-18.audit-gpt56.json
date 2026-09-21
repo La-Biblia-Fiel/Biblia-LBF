@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:18",
+  "chapter": 8,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Mi alma está afligida, y mi corazón está triste.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008018001"
+      ],
+      "issue": "adds 'alma' (soul) with no corresponding token or lemma",
+      "spanishSpan": "Mi alma"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008018001",
+        "h24008018003"
+      ],
+      "issue": "renders opening clause as 'está afligida' instead of licensed grief/sorrow concept",
+      "spanishSpan": "está afligida"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008018006"
+      ],
+      "issue": "applies 'triste' to corazón while morphology places the adjective with the heart but the Spanish restructures the whole verse",
+      "spanishSpan": "mi corazón está triste"
+    }
+  ],
+  "notes": "Spanish introduces non-token 'alma' and restructures the syntax.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:25",
+  "chapter": 31,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque he saciado al que estaba hambriento y he llenado al que estaba afligido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031025004"
+      ],
+      "issue": "עֲיֵפָ֑ה rendered as 'hambriento' (hungry) instead of weary/faint",
+      "spanishSpan": "hambriento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031025003",
+        "h24031025004",
+        "h24031025006",
+        "h24031025007"
+      ],
+      "issue": "noun+adj phrases replaced with 'al que estaba X' interpretive constructions",
+      "spanishSpan": "al que estaba hambriento ... al que estaba afligido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

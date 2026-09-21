@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:12",
+  "chapter": 49,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho el SEÑOR: He aquí que los que no tenían derecho a beber la copa la beberán; tú serás castigado, pero no serás castigado, porque beberás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049012015",
+        "h24049012016",
+        "h24049012017",
+        "h24049012018"
+      ],
+      "issue": "נקה (acquit/clean) rendered as 'castigado' (punished), reversing the licensed sense",
+      "spanishSpan": "tú serás castigado, pero no serás castigado"
+    }
+  ],
+  "notes": "additional minor issue: יהוה as SEÑOR instead of Jehová",
+  "discardedUncitedFindings": 0
+}

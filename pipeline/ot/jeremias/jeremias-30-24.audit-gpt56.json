@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:24",
+  "chapter": 30,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "No se apartará la ira del Señor hasta que haga y cumpla lo que su corazón desea. En los últimos días lo entenderán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030024014"
+      ],
+      "issue": "2mp verb rendered as 3pl (person shift)",
+      "spanishSpan": "entenderán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030024015"
+      ],
+      "issue": "feminine suffix rendered as masculine lo",
+      "spanishSpan": "lo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030024010",
+        "h24030024011"
+      ],
+      "issue": "מְזִמּוֹת לִבּוֹ rendered as 'lo que su corazón desea' (adds desire concept)",
+      "spanishSpan": "lo que su corazón desea"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030024005"
+      ],
+      "issue": "YHWH rendered as Señor",
+      "spanishSpan": "Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

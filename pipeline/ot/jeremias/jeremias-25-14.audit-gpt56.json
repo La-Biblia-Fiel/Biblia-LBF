@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:14",
+  "chapter": 25,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque servirán a ellos muchos pueblos y grandes reyes, y yo les pagaré conforme a sus obras y conforme a las manos con que han obrado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025014002"
+      ],
+      "issue": "qal perfect 3cp rendered as future 'servirán' instead of past/perfect",
+      "spanishSpan": "servirán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025014013",
+        "h24025014014"
+      ],
+      "issue": "מַעֲשֵׂה יְדֵיהֶם rendered as 'las manos con que han obrado' (adds verb and shifts referent from 'obra de sus manos')",
+      "spanishSpan": "las manos con que han obrado"
+    }
+  ],
+  "notes": "tense and interpretive expansion on final phrase",
+  "discardedUncitedFindings": 0
+}

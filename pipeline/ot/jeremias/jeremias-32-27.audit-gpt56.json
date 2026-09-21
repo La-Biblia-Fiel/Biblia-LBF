@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:27",
+  "chapter": 32,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que yo, Jehová, el Dios de toda carne, ¿es maravilloso todo lo que yo hago?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032027007",
+        "h24032027008",
+        "h24032027009",
+        "h24032027010"
+      ],
+      "issue": "adds 'todo lo que yo hago' and resolves the question as 'es maravilloso' about the speaker's actions; tokens only license interrogative 'הֲ' + 'מִמֶּנִּי' + Niphal 'יִפָּלֵא' over 'כָּל דָּבָר'",
+      "spanishSpan": "¿es maravilloso todo lo que yo hago?"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

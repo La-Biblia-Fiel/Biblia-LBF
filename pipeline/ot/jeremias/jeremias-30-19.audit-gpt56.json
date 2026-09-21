@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:19",
+  "chapter": 30,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y saldrá de ellos alabanza y el sonido de los que se regocijan; y yo los multiplicaré, y no serán pocos; y los engrandeceré, y no serán postrados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030019011"
+      ],
+      "issue": "צער rendered as 'postrados' adds un-licensed sense of prostration/humbling",
+      "spanishSpan": "no serán postrados"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:8",
+  "chapter": 20,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque desde que hablo, me amenazan; profiero violencia y destrucción, porque la palabra de Jehová para mí es motivo de escarnio y de burla todo el día.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020008002",
+        "h24020008003",
+        "h24020008004",
+        "h24020008005",
+        "h24020008006",
+        "h24020008007"
+      ],
+      "issue": "adds 'me amenazan' (they threaten me) with no corresponding token or participant; changes speaker's 1cs actions into third-party threat",
+      "spanishSpan": "me amenazan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020008002",
+        "h24020008003",
+        "h24020008004"
+      ],
+      "issue": "restructures 'as often as I speak, I cry out' into 'desde que hablo' and inserts external action",
+      "spanishSpan": "desde que hablo, me amenazan"
+    }
+  ],
+  "notes": "second clause matches tokens adequately but first clause fails",
+  "discardedUncitedFindings": 0
+}

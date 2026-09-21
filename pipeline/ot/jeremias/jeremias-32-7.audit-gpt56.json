@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:7",
+  "chapter": 32,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí, Hanameel, hijo de Safán, pariente tuyo, viene a ti, diciendo: Compra para ti mi campo que está en Anatot, porque a ti te pertenece el derecho de redención para comprarlo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032007004"
+      ],
+      "issue": "father's name rendered as Safán instead of the locked proper name Shallum",
+      "spanishSpan": "Safán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

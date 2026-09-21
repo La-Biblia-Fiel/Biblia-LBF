@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:5",
+  "chapter": 31,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Otra vez plantarás viñas en los montes de Sormón. Los que las plantan las disfrutarán, pero los que las cosechan serán despojados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031005008"
+      ],
+      "issue": "Spanish replaces חִלֵּלוּ (profane/pollute) with invented concepts of enjoying and being despoiled by harvesters",
+      "spanishSpan": "las disfrutarán, pero los que las cosechan serán despojados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031005006",
+        "h24031005007",
+        "h24031005008"
+      ],
+      "issue": "Spanish restructures and adds participant groups and actions (harvesters, enjoy, despoiled) not present in the tokens",
+      "spanishSpan": "Los que las plantan las disfrutarán, pero los que las cosechan serán despojados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031005005"
+      ],
+      "issue": "Sormón is not the licensed conventional Spanish form for the proper name",
+      "spanishSpan": "Sormón"
+    }
+  ],
+  "notes": "second clause adds entire concepts absent from packet",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:35",
+  "chapter": 31,
+  "verse": 35,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el SEÑOR: el que da el sol por luz del día, las leyes de la luna y de las estrellas por luz de la noche, el mar se tranquiliza y las olas se agitan, el SEÑOR de los ejércitos es su nombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031035013",
+        "h24031035014",
+        "h24031035015",
+        "h24031035016"
+      ],
+      "issue": "reverses meaning of רֹגַע הַיָּם וַיֶּהֱמוּ גַלָּיו (stirs sea so waves roar) to 'el mar se tranquiliza y las olas se agitan'",
+      "spanishSpan": "el mar se tranquiliza y las olas se agitan"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:1",
+  "chapter": 31,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquel tiempo, dice el Señor, seré para todas las familias de Israel un Dios, y ellos serán para mí un pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031001004"
+      ],
+      "issue": "יהוה rendered as title 'Señor' instead of conventional Jehová",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031001006"
+      ],
+      "issue": "adds singular 'un' resolving plural lemma אלהים",
+      "spanishSpan": "un Dios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

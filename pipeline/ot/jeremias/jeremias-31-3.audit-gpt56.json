@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:3",
+  "chapter": 31,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Desde lejos el Señor me apareció, y desde entonces te he amado con un amor eterno; por eso con bondad te he atraído.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031003005",
+        "h24031003006",
+        "h24031003007"
+      ],
+      "issue": "inserts 'desde entonces' with no token support; eternal love (אהבת עולם) is not temporally anchored that way",
+      "spanishSpan": "y desde entonces te he amado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031003002"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

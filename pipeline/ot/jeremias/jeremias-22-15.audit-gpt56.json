@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:15",
+  "chapter": 22,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso tú te coronarás con la cedra, pues tu padre comió y bebió, y juzgó y administró justicia, y le fue bien?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022015001",
+        "h24022015004",
+        "h24022015005"
+      ],
+      "issue": "Spanish renders מלך + מתחרה בארז as 'te coronarás con la cedra'; tokens license 'reign' + 'rivaling/competing with the cedar'",
+      "spanishSpan": "te coronarás con la cedra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022015010",
+        "h24022015011",
+        "h24022015012"
+      ],
+      "issue": "Spanish splits and expands עשה משפט וצדקה into 'juzgó y administró justicia'",
+      "spanishSpan": "juzgó y administró justicia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

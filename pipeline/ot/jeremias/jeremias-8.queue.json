@@ -1,0 +1,691 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 8,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "passed": [
+    10,
+    20,
+    22
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquel tiempo, dice el SEÑOR, sacarán las reliquias de los reyes de Judá y las reliquias de los grandes y las reliquias de los sacerdotes y las reliquias de los profetas y las reliquias de los habitantes de Jerusalén de sus tumbas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008001006",
+            "h24008001010",
+            "h24008001013",
+            "h24008001016",
+            "h24008001019"
+          ],
+          "issue": "reliquias replaces עצמות (bones) with unlicensed concept",
+          "spanishSpan": "las reliquias"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008001003",
+            "h24008001004"
+          ],
+          "issue": "dice el SEÑOR paraphrases נְאֻם יְהוָה beyond token license",
+          "spanishSpan": "dice el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008001011"
+          ],
+          "issue": "los grandes for שָׂרָיו adds interpretive gloss not licensed by lemma",
+          "spanishSpan": "los grandes"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y esparcirán sus huesos a las aves del cielo y a las bestias de la tierra, y no los recogerán ni los enterrarán; sobre la faz de la tierra quedarán.",
+      "notes": "Spanish matches later negation/burial tokens but fails opening clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008002002",
+            "h24008002003",
+            "h24008002004",
+            "h24008002005",
+            "h24008002006"
+          ],
+          "issue": "recipients changed from sun/moon/host of heaven to birds of heaven and beasts of earth",
+          "spanishSpan": "a las aves del cielo y a las bestias de la tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008002001"
+          ],
+          "issue": "adds 'sus huesos' not present in token; spreading action licensed only to listed celestial objects",
+          "spanishSpan": "esparcirán sus huesos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será preferible la muerte a la vida para toda la remanente de esta mala familia en todos los lugares donde los he echado, dice el SEÑOR de los ejércitos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008003001"
+          ],
+          "issue": "verb rendered as 'será preferible' instead of passive 'will be chosen'",
+          "spanishSpan": "Y será preferible la muerte a la vida"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás a ellos: Así ha dicho el SEÑOR: ¿Caerán y no se levantarán? ¿Se apartarán y no volverán?",
+      "notes": "number mismatch on שׁוּב verbs",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008004010",
+            "h24008004012"
+          ],
+          "issue": "Hebrew 3ms singular verbs rendered as 3pl plural",
+          "spanishSpan": "¿Se apartarán y no volverán?"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué se aparta este pueblo de Jerusalén, que ha sido apartado para siempre? Se aferran a la mentira y no quieren volver.",
+      "notes": "first clause structure and key noun+participle both altered",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008005005",
+            "h24008005003",
+            "h24008005004"
+          ],
+          "issue": "adds 'de Jerusalén' implying departure from the city; tokens show apposition 'this people, Jerusalem'",
+          "spanishSpan": "este pueblo de Jerusalén"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008005006",
+            "h24008005007"
+          ],
+          "issue": "renders מְשֻׁבָ֣ה נִצַּ֑חַת as 'apartado para siempre'; tokens license perpetual backsliding/apostasy, not separation",
+          "spanishSpan": "que ha sido apartado para siempre"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Escuché, pero no hablan así; no hay quien se arrepienta de su maldad, diciendo: ¿Qué he hecho? Todos marchan con firmeza, como un caballo en la batalla.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008006015",
+            "h24008006017",
+            "h24008006018"
+          ],
+          "issue": "Spanish adds 'marchan con firmeza' (march steadfastly) not licensed by שָׁב + שׁוֹטֵף + בַּמִּלְחָמָה",
+          "spanishSpan": "Todos marchan con firmeza, como un caballo en la batalla"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "También la águila en el cielo conoce sus tiemlicas, y la tortora, la paloma y el cuervo guardan el tiempo de su venida; pero mi pueblo no conoce el juicio del SEÑOR.",
+      "notes": "multiple mismatches on bird identification and added terms",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008007002"
+          ],
+          "issue": "identifies חֲסִידָה as águila (eagle) instead of the lemma bird",
+          "spanishSpan": "la águila"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008007006",
+            "h24008007007"
+          ],
+          "issue": "adds paloma and cuervo not present in the two listed birds (tor + agur)",
+          "spanishSpan": "la paloma y el cuervo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008007005"
+          ],
+          "issue": "renders מועדיה as tiemlicas (nonsense word) instead of preserving the sense of appointed times",
+          "spanishSpan": "tiemlicas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Cómo decís: Somos sabios, y tenemos la ley del SEÑOR? He aquí que la falsedad ha hecho engaño con la pluma de los escribas.",
+      "notes": "also omits second שֶׁקֶר attached to עֵט סֹפְרִים",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008008007"
+          ],
+          "issue": "renders אִתָּנוּ (with us) as verb 'tenemos' (we have), adding unlicensed verb and changing participant structure",
+          "spanishSpan": "y tenemos la ley"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008008010",
+            "h24008008011",
+            "h24008008013"
+          ],
+          "issue": "adds 'engaño' and 'con' not present in tokens; resolves construct chain לַשֶּׁקֶר עָשָׂה ... שֶׁקֶר into interpretive 'ha hecho engaño con'",
+          "spanishSpan": "la falsedad ha hecho engaño con"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se avergüenzan los sabios, se espantan y se retiran, porque han despreciado la palabra del SEÑOR, y ¿qué provecho tienen la sabiduría y la astucia?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008009004"
+          ],
+          "issue": "niphal לכד rendered as 'se retiran' (withdraw) instead of captured/taken",
+          "spanishSpan": "se retiran"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008009009",
+            "h24008009010",
+            "h24008009011"
+          ],
+          "issue": "adds 'provecho' and 'astucia' not licensed by חכמת מה להם",
+          "spanishSpan": "qué provecho tienen la sabiduría y la astucia"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Han despedazado a la doncella de mi pueblo y dicen: Paz, paz, cuando no hay paz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008011001"
+          ],
+          "issue": "verb rendered as 'despedazado' (tear apart) instead of licensed 'sanaron' / 'curaron' from רפא piel 3mp",
+          "spanishSpan": "Han despedazado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008011003",
+            "h24008011004",
+            "h24008011005"
+          ],
+          "issue": "בת rendered as 'doncella' (maiden) instead of licensed 'hija'",
+          "spanishSpan": "a la doncella de mi pueblo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Habrá vergüenza, porque han hecho abominación; y aunque se avergüencen, no lo harán; y aunque los confunda, no lo sabrán. Por eso caerán en la caída, en el tiempo de su visita caerán, dice el SEÑOR.",
+      "notes": "multiple token mismatches in tense, voice, lemma and added concepts",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008012001"
+          ],
+          "issue": "Spanish renders first verb as future 'Habrá vergüenza' instead of matching hiphil perfect 3cp 'they have been put to shame / acted shamefully'",
+          "spanishSpan": "Habrá vergüenza"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008012006",
+            "h24008012007",
+            "h24008012008"
+          ],
+          "issue": "Spanish 'aunque se avergüencen, no lo harán' misrepresents qal inf abs + neg + impf 3mp construction and changes participants",
+          "spanishSpan": "aunque se avergüencen, no lo harán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008012009",
+            "h24008012010",
+            "h24008012011"
+          ],
+          "issue": "Spanish 'aunque los confunda, no lo sabrán' turns niphal inf construct passive into active 'los confunda' with wrong subject/voice",
+          "spanishSpan": "aunque los confunda, no lo sabrán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008012013",
+            "h24008012014"
+          ],
+          "issue": "Spanish 'caerán en la caída' adds unlicensed 'en la caída' and does not match 'they will fall among the fallers'",
+          "spanishSpan": "caerán en la caída"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008012017"
+          ],
+          "issue": "Spanish repeats 'caerán' for final verb which is niphal 'they will stumble' (כשל), changing lemma and sense",
+          "spanishSpan": "caerán"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice el SEÑOR: No habrá uvas en la vid, ni higos en la higuera; y el hoja se secará, y los doy a los que pasan.",
+      "notes": "major structural omission of first two tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008013001",
+            "h24008013002"
+          ],
+          "issue": "omits the opening infinitive absolute + hiphil 1cs clause entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008013003",
+            "h24008013004"
+          ],
+          "issue": "renders נְאֻם יְהֹוָה as 'Así dice el SEÑOR' (adds interpretive frame not licensed by tokens)",
+          "spanishSpan": "Así dice el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008013011"
+          ],
+          "issue": "gender mismatch on 'el hoja' for masculine הֶעָלֶה",
+          "spanishSpan": "el hoja"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué nos sentamos, nos reunimos y vamos a las ciudades fortificadas para huir allí? Porque el SEÑOR nuestro Dios nos ha hecho huir y nos ha dado agua para beber, porque hemos pecado contra el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008014010",
+            "h24008014011",
+            "h24008014015"
+          ],
+          "issue": "נִדְּמָה / הִדְמָּנוּ (damah) rendered as huir/flee instead of perish/silence",
+          "spanishSpan": "para huir allí... nos ha hecho huir"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008014016",
+            "h24008014017",
+            "h24008014018"
+          ],
+          "issue": "מֵי־רֹאשׁ rendered as plain drinking water instead of poisoned/gall water",
+          "spanishSpan": "nos ha dado agua para beber"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Esperad la paz, pero no habrá bien; en el tiempo de la curación, y he aquí que ahora.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008015001"
+          ],
+          "issue": "2ms imperative rendered as plural 'Esperad' (vosotros form)",
+          "spanishSpan": "Esperad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008015003"
+          ],
+          "issue": "וְאֵין rendered as 'pero' (contrast) instead of 'and there is no'",
+          "spanishSpan": "pero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008015003",
+            "h24008015004"
+          ],
+          "issue": "present tense אין טוב rendered as future 'no habrá bien'",
+          "spanishSpan": "pero no habrá bien"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008015008"
+          ],
+          "issue": "בְעָתָה (terror) rendered as 'ahora' (now)",
+          "spanishSpan": "y he aquí que ahora"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Desde Dan se ha oído el ruido de los caballos de vuestros enemigos, y el estruendo de los potentes de vuestros enemigos; tiembla toda la tierra; y han venido y han devorado la tierra y todo lo que está en ella, la ciudad y los que habitan en ella.",
+      "notes": "multiple unlicensed additions and variety mismatch",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008016004",
+            "h24008016007"
+          ],
+          "issue": "introduces 'de vuestros enemigos' (enemies) absent from tokens; 3ms suffixes rendered as 2pl 'vuestros'",
+          "spanishSpan": "de vuestros enemigos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008016004",
+            "h24008016007"
+          ],
+          "issue": "uses peninsular 'vuestros' instead of Latin American 'sus' or 'de ustedes'",
+          "spanishSpan": "vuestros enemigos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mi alma está afligida, y mi corazón está triste.",
+      "notes": "Spanish introduces non-token 'alma' and restructures the syntax.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008018001"
+          ],
+          "issue": "adds 'alma' (soul) with no corresponding token or lemma",
+          "spanishSpan": "Mi alma"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008018001",
+            "h24008018003"
+          ],
+          "issue": "renders opening clause as 'está afligida' instead of licensed grief/sorrow concept",
+          "spanishSpan": "está afligida"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008018006"
+          ],
+          "issue": "applies 'triste' to corazón while morphology places the adjective with the heart but the Spanish restructures the whole verse",
+          "spanishSpan": "mi corazón está triste"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí el grito de la hija de mi pueblo desde una tierra lejana: ¿Dónde está el SEÑOR, su rey? ¿Por qué me han irritado con sus ídolos y vanidades extranjeras?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008019008",
+            "h24008019009",
+            "h24008019010",
+            "h24008019011",
+            "h24008019012",
+            "h24008019013",
+            "h24008019014"
+          ],
+          "issue": "merges two separate negative questions, omits Zion, and alters structure/participants into single 'dónde está' question",
+          "spanishSpan": "¿Dónde está el SEÑOR, su rey?"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008019002",
+            "h24008019003"
+          ],
+          "issue": "renders קול שועת as single noun 'grito', omitting construct 'voice of the cry'",
+          "spanishSpan": "el grito"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por la desolación de la hija de mi pueblo he sido desgarrado; he puesto enlutamiento; he sido consternado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008021002",
+            "h24008021007"
+          ],
+          "issue": "misassigns שַׁמָּה (desolation) to the position and role of שֶׁבֶר (breaking)",
+          "spanishSpan": "Por la desolación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008021005"
+          ],
+          "issue": "renders הָשְׁבָּרְתִּי (hophal 'I have been broken') as 'desgarrado' (torn) instead of broken",
+          "spanishSpan": "he sido desgarrado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008021006"
+          ],
+          "issue": "renders קָדַרְתִּי (qal 'I have mourned') as 'he puesto enlutamiento' adding extra verb and noun not present",
+          "spanishSpan": "he puesto enlutamiento"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008021008",
+            "h24008021007"
+          ],
+          "issue": "changes הֶחֱזִקָתְנִי (hiphil 3fs 'she/it has seized me') to passive 'he sido consternado' and drops the subject שַׁמָּה",
+          "spanishSpan": "he sido consternado"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque he aquí que envío entre ustedes serpientes, escorpiones, a las cuales no hay encantamiento para ellas; y morderán a ustedes, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24008017006"
+          ],
+          "issue": "צִפְעֹנִים rendered as 'escorpiones' (scorpions), a different animal not licensed by the lemma or surface",
+          "spanishSpan": "escorpiones"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "updated": "2026-09-20T01:31:18.264365+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 22,
+    "verses": 22,
+    "input": 51521,
+    "cachedInput": 16192,
+    "output": 3943,
+    "reasoning": 18576,
+    "usd": 0.2139,
+    "byProvider": {
+      "xai": {
+        "calls": 22,
+        "input": 51521,
+        "output": 3943,
+        "reasoning": 18576,
+        "usd": 0.2139
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 22,
+        "input": 51521,
+        "output": 3943,
+        "reasoning": 18576,
+        "usd": 0.2139
+      }
+    },
+    "usdPerVerse": 0.0097,
+    "bibleAtThisRate": 302.0,
+    "book": "jeremias",
+    "chapter": 8
+  }
+}

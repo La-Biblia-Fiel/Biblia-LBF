@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:16",
+  "chapter": 42,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y la espada que teméis, allí os alcanzará en Egipto, y el hambre de la cual están temerosos, allí os alcanzará en Egipto, y allí moriréis.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042016014",
+        "h24042016015"
+      ],
+      "issue": "person shift: 2mp 'you are anxious' rendered as 3pl 'están temerosos'",
+      "spanishSpan": "están temerosos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042016004",
+        "h24042016014",
+        "h24042016022"
+      ],
+      "issue": "vosotros forms instead of Latin American ustedes",
+      "spanishSpan": "teméis, os, moriréis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:7",
+  "chapter": 3,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo dije: Después de hacer todo esto, volverás a mí, pero no ha vuelto; y su hermana Judá ha visto su desnudez.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003007008"
+      ],
+      "issue": "Spanish renders 3fs imperfect as 2sg 'volverás' instead of 'ella volverá'",
+      "spanishSpan": "volverás"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003007011"
+      ],
+      "issue": "omits the adjective 'treacherous' (בָּגוֹדָה) modifying the sister",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003007012",
+        "h24003007013"
+      ],
+      "issue": "adds 'ha visto su desnudez' with no licensing token in the packet",
+      "spanishSpan": "ha visto su desnudez"
+    }
+  ],
+  "notes": "multiple content and person mismatches",
+  "discardedUncitedFindings": 0
+}

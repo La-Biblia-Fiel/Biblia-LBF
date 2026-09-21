@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:33",
+  "chapter": 49,
+  "verse": 33,
+  "candidateLabel": "gpt56",
+  "spanish": "Hazor será un asentamiento de dragones, un desierto para siempre; no habitará allí ningún hombre, ni vivirá allí ningún hijo de Adán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049033016"
+      ],
+      "issue": "renders אָדָם as proper name 'Adán' instead of common noun 'hombre'",
+      "spanishSpan": "hijo de Adán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049033004"
+      ],
+      "issue": "selects 'dragones' (dragons) over the common contextual sense 'chacales' (jackals) for תַּנִּים in a ruins setting",
+      "spanishSpan": "dragones"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

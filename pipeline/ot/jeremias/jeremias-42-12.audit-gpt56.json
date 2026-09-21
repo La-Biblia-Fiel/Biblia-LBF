@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:12",
+  "chapter": 42,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Os daré misericordia y os tendré misericordia, y os haré volver a su tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042012002",
+        "h24042012005",
+        "h24042012007",
+        "h24042012009"
+      ],
+      "issue": "uses 'os' (vosotros 2mp Spain form) instead of Latin American 'ustedes' forms",
+      "spanishSpan": "Os ... os ... os"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042012004",
+        "h24042012006"
+      ],
+      "issue": "renders both 3ms verbs as 1cs (haré / tendré) matching only the first verb",
+      "spanishSpan": "os tendré misericordia, y os haré volver"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042012009"
+      ],
+      "issue": "renders 2mp 'your land' as third-person 'su tierra'",
+      "spanishSpan": "a su tierra"
+    }
+  ],
+  "notes": "multiple person/referent shifts and wrong 2pl variety",
+  "discardedUncitedFindings": 0
+}

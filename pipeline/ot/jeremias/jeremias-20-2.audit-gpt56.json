@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:2",
+  "chapter": 20,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Pashhur golpeó a Jeremías el profeta, y lo puso en la celda que estaba en la puerta de Benjamín, que está en el templo del Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020002009"
+      ],
+      "issue": "replaces mahpeket (stocks/pillory) with celda (cell)",
+      "spanishSpan": "en la celda"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020002013"
+      ],
+      "issue": "omits upper (ha'elyon)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

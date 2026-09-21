@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:34",
+  "chapter": 48,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "Desde el grito de Hesbon hasta Eleale, hasta Jahaz, han dado voces; desde Zoar hasta Horonaim, el ganado de tres años ha sido llevado; porque también los manantiales de Nimrim se han convertido en estanques.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048034012",
+        "h24048034013"
+      ],
+      "issue": "proper-name tokens rendered as common-noun phrase 'ganado de tres años'",
+      "spanishSpan": "el ganado de tres años ha sido llevado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048034018"
+      ],
+      "issue": "למשמות rendered as 'estanques' instead of desolations",
+      "spanishSpan": "estanques"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048034019"
+      ],
+      "issue": "imperfect יהיו rendered as past 'se han convertido'",
+      "spanishSpan": "se han convertido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

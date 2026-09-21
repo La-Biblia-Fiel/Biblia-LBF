@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:27",
+  "chapter": 38,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vinieron todos los príncipes a Jeremías y le preguntaron, y él les contó todas estas palabras que el rey había ordenado, y ellos guardaron silencio, porque no habían oído la palabra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038027020"
+      ],
+      "issue": "changes niphal passive 'the word was not heard' (3ms) to active plural 'ellos ... no habían oído'",
+      "spanishSpan": "ellos guardaron silencio, porque no habían oído la palabra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

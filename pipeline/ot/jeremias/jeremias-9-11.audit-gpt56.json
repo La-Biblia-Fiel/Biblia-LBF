@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:11",
+  "chapter": 9,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Haré de Jerusalén un lugar de ruinas, morada de chacales, y haré de Judá un desolado lugar, sin habitantes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009011008",
+        "h24009011009"
+      ],
+      "issue": "omits licensed concept עָרֵי (cities, construct) before יְהוּדָה; renders as 'Judá' instead of 'las ciudades de Judá'",
+      "spanishSpan": "de Judá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:16",
+  "chapter": 36,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando oyeron todas las palabras, temieron cada uno a su compañero, y dijeron a Baruc: Anuncia a un príncipe a Jehová todas estas palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036016015",
+        "h24036016013",
+        "h24036016014"
+      ],
+      "issue": "replaces לַמֶּלֶךְ and the hiphil report construction with 'a un príncipe a Jehová'",
+      "spanishSpan": "Anuncia a un príncipe a Jehová"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036016007",
+        "h24036016008",
+        "h24036016009"
+      ],
+      "issue": "renders אִישׁ אֶל רֵעֵהוּ as 'cada uno a su compañero' (adds interpretive 'compañero' for רֵעַ)",
+      "spanishSpan": "temieron cada uno a su compañero"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:17",
+  "chapter": 20,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Que no me mató en el vientre, y ella es mi madre para siempre, y mis entrañas son su tumba.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020017005",
+        "h24020017006",
+        "h24020017007",
+        "h24020017008"
+      ],
+      "issue": "reverses participants and meaning of 'and she was to me my mother my grave'",
+      "spanishSpan": "y ella es mi madre para siempre, y mis entrañas son su tumba"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020017009",
+        "h24020017010",
+        "h24020017011"
+      ],
+      "issue": "omits 'her womb pregnant forever' and substitutes unrelated clause",
+      "spanishSpan": "y mis entrañas son su tumba"
+    }
+  ],
+  "notes": "Spanish inverts and rewrites the final clause",
+  "discardedUncitedFindings": 0
+}

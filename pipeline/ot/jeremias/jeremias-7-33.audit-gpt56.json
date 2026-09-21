@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:33",
+  "chapter": 7,
+  "verse": 33,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será la carne de este pueblo alimento para las aves del cielo y para las bestias de la tierra, y no habrá quien las espante.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007033002"
+      ],
+      "issue": "niblat (carcass) rendered as carne (flesh), substituting a non-licensed noun",
+      "spanishSpan": "la carne"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

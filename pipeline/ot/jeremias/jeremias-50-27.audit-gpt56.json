@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:27",
+  "chapter": 50,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Cortad a todos los toros! ¡Vayan al matadero! ¡Ay de ellos! Porque ha llegado su día de castigo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050027004"
+      ],
+      "issue": "Hebrew 3mp imperfect יֵרְדוּ changed to 2nd-person command Vayan, shifting participants",
+      "spanishSpan": "¡Vayan al matadero!"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050027003"
+      ],
+      "issue": "3fs suffix on פָּרֶיהָ omitted; Spanish says todos los toros without her/their",
+      "spanishSpan": "todos los toros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

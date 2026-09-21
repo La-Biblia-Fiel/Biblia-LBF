@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:6",
+  "chapter": 7,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "No oprimiréis al extranjero, al huérfano y a la viuda, no derramaréis sangre inocente en este lugar, ni andaréis tras dioses ajenos para vuestro mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007006005",
+        "h24007006009",
+        "h24007006016"
+      ],
+      "issue": "uses vosotros conjugation (oprimiréis, derramaréis, andaréis) instead of Latin American ustedes",
+      "spanishSpan": "oprimiréis ... derramaréis ... andaréis"
+    }
+  ],
+  "notes": "otherwise faithful to tokens",
+  "discardedUncitedFindings": 0
+}

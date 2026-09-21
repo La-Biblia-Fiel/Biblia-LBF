@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:18",
+  "chapter": 22,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, así dice Jehová acerca de Joaquín, hijo de Josías, rey de Judá: No se lamentará por él, ¡ay hermano! y ¡ay hermana! No se lamentará por él, ¡ay señor! y ¡ay amigo!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022018012",
+        "h24022018019"
+      ],
+      "issue": "3mp imperfect rendered as singular 'se lamentará' instead of plural",
+      "spanishSpan": "No se lamentará por él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022018024"
+      ],
+      "issue": "הֹדֹה (his splendor) rendered as 'amigo'",
+      "spanishSpan": "¡ay amigo!"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

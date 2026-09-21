@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:26",
+  "chapter": 38,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tú les dirás: Pedí misericordia ante el rey, para que no me envíe a la casa de Jonatán para morir allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038026003",
+        "h24038026004",
+        "h24038026005"
+      ],
+      "issue": "participle + אני rendered as past tense Pedí instead of present I am presenting/falling",
+      "spanishSpan": "Pedí misericordia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038026009"
+      ],
+      "issue": "הֲשִׁיבֵנִי (hiphil cause to return) rendered as envíe (send)",
+      "spanishSpan": "no me envíe"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038026005"
+      ],
+      "issue": "תְחִנָּתִי (supplication/plea) rendered as misericordia",
+      "spanishSpan": "misericordia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

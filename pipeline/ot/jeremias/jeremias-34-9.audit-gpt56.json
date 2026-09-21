@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:9",
+  "chapter": 34,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Para dejar ir cada uno a su siervo y a su sierva hebreos, tanto varones como mujeres, libres, para que ya no los esclavizaran; que cada uno de los judíos libere a su hermano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034009014",
+        "h24034009015",
+        "h24034009016"
+      ],
+      "issue": "adds new clause and verb 'libere' not licensed by tokens; rephrases final phrase into separate command",
+      "spanishSpan": "que cada uno de los judíos libere a su hermano"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034009008",
+        "h24034009009"
+      ],
+      "issue": "inserts explicit 'tanto varones como mujeres' not required by the gentilic tokens",
+      "spanishSpan": "tanto varones como mujeres"
+    }
+  ],
+  "notes": "structure and final phrase altered beyond token license",
+  "discardedUncitedFindings": 0
+}

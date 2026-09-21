@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:2",
+  "chapter": 46,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Sobre Egipto, contra el ejército de Farao Nequón, rey de Egipto, que estaba junto al río Egipto en Carquemis, que Nabucodonosor, rey de Babilonia, derrotó en el cuarto año de Joaquín hijo de Josías, rey de Judá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046002011",
+        "h24046002012"
+      ],
+      "issue": "renders נְהַר פְּרָת as 'río Egipto' (wrong referent; Perat/Euphrates, not Mitsrayim)",
+      "spanishSpan": "río Egipto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

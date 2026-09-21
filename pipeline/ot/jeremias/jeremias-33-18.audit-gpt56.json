@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:18",
+  "chapter": 33,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a los sacerdotes levitas no será cortado de delante de mí un hombre que suba holocausto y que queme incienso y que haga sacrificio todos los días.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033018010"
+      ],
+      "issue": "מִנְחָה rendered as 'incienso' (adds unlicensed concept; mincha is grain offering)",
+      "spanishSpan": "queme incienso"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,477 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 41,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "passed": [
+    10,
+    15
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el séptimo mes, Ishmael hijo de Nethaniah, hijo de Elishama, de la familia real, y diez hombres con él, vinieron a Gedalía hijo de Achikam en Mizpa. Comieron allí pan con él.",
+      "notes": "also renders plural subject for singular בָּ֣א and omits יַחְדָּו",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041001012",
+            "h24041001013"
+          ],
+          "issue": "omits וְרַבֵּ֨י הַמֶּ֜לֶךְ (officers/captains of the king)",
+          "spanishSpan": "y diez hombres con él"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces Ishmael hijo de Nethaniah y los diez hombres con él se levantaron y mataron a Gedalía hijo de Achikam, hijo de Safan, con la espada. Así murió el hombre que el rey de Babilonia había puesto como gobernador en la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041002001"
+          ],
+          "issue": "first verb is 3ms qal sequential (Ishmael alone arose); Spanish makes both verbs plural",
+          "spanishSpan": "se levantaron y mataron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041002018",
+            "h24041002019"
+          ],
+          "issue": "hiphil 3ms 'he killed him' rendered as passive 'murió'",
+          "spanishSpan": "Así murió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041002021",
+            "h24041002024"
+          ],
+          "issue": "adds 'como gobernador' with no token support for title or role",
+          "spanishSpan": "como gobernador"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ishmael también mató a todos los judíos que estaban con Gedalía en Mizpa, y a los caldeos que estaban allí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041003001"
+          ],
+          "issue": "adds 'también' with no licensing token",
+          "spanishSpan": "también"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041003016",
+            "h24041003017"
+          ],
+          "issue": "omits אַנְשֵׁי הַמִּלְחָמָה entirely",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Al día siguiente, antes de que mataran a Gedalía, nadie lo sabía.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041004004"
+          ],
+          "issue": "adds 'antes de que' and renders infinitive construct as completed past subjunctive 'mataran'",
+          "spanishSpan": "antes de que mataran"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041004003"
+          ],
+          "issue": "renders 'the second day' as 'el día siguiente'",
+          "spanishSpan": "Al día siguiente"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041004009",
+            "h24041004007"
+          ],
+          "issue": "adds 'lo' specifying the object of knowing",
+          "spanishSpan": "nadie lo sabía"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Hombres de Samaria, de Silo y de Sichem, ochenta en total, con barbas rapadas, vestidos de luto y con rasgados, con ofrendas y incienso en la mano, vinieron a presentarlas en el templo del Señor.",
+      "notes": "multiple additions and non-literal renderings",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041005003",
+            "h24041005004",
+            "h24041005005"
+          ],
+          "issue": "order of place names reversed from source sequence",
+          "spanishSpan": "de Samaria, de Silo y de Sichem"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041005010",
+            "h24041005011",
+            "h24041005012"
+          ],
+          "issue": "adds 'vestidos de luto' with no token support; collapses torn garments + gashing into mourning attire",
+          "spanishSpan": "vestidos de luto y con rasgados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041005016",
+            "h24041005017"
+          ],
+          "issue": "renders 'to bring to the house' as 'presentarlas en el templo', adding 'present' and 'templo' not licensed by tokens",
+          "spanishSpan": "vinieron a presentarlas en el templo"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ishmael hijo de Nethaniah salió a recibirlos desde Mizpa, yendo y viniendo y llorando. Cuando los alcanzó, les dijo: “Vengan a ver a Gedalía hijo de Achikam.”",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041006008",
+            "h24041006009"
+          ],
+          "issue": "renders two instances of הלך as 'yendo y viniendo' (introduces unlicenced 'viniendo')",
+          "spanishSpan": "yendo y viniendo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041006016",
+            "h24041006017",
+            "h24041006018"
+          ],
+          "issue": "adds 'a ver' not present in בֹּאוּ אֶל גְּדַלְיָהוּ",
+          "spanishSpan": "Vengan a ver a Gedalía"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cuando llegaron a la ciudad, Ishmael hijo de Nethaniah los mató en el pozo, junto con los hombres que estaban con él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041007007",
+            "h24041007009"
+          ],
+          "issue": "Hebraized/English spelling of proper names instead of conventional Spanish forms",
+          "spanishSpan": "Ishmael hijo de Nethaniah"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Diez hombres fueron encontrados entre ellos, y les dijeron a Ishmael: “No nos mates, porque tenemos trigo escondido en el campo.” Ishmael dejó de matarlos y no los mató junto con sus hermanos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041008015",
+            "h24041008016",
+            "h24041008017",
+            "h24041008018"
+          ],
+          "issue": "omits barley, oil and honey; renders only wheat",
+          "spanishSpan": "trigo escondido"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El pozo en el que Ishmael arrojó a todos los cuerpos de los hombres que había matado a mano de Gedalía, era el pozo que el rey Asa había hecho para Baasa, rey de Israel. Ishmael lo llenó de cadáveres.",
+      "notes": "multiple licensed elements omitted or altered",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041009019"
+          ],
+          "issue": "מִפְּנֵי rendered as 'para' (purpose) instead of 'a causa de' or 'por causa de'",
+          "spanishSpan": "para Baasa"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041009026",
+            "h24041009027"
+          ],
+          "issue": "omits בֶּן־נְתַנְיָהוּ in the final clause identifying the filler of the pit",
+          "spanishSpan": "Ishmael lo llenó"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041009024",
+            "h24041009028"
+          ],
+          "issue": "adds 'cadáveres' as a second noun after already rendering פִּגְרֵי as 'cuerpos'",
+          "spanishSpan": "llenó de cadáveres"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Johánán, hijo de Carej, y todos los jefes de los soldados que con él estaban, oyeron todo el mal que Ismael, hijo de Netanías, había hecho.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041011001"
+          ],
+          "issue": "verb number changed from 3ms to plural",
+          "spanishSpan": "oyeron"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tomaron a todos los hombres y fueron a luchar contra Ismael, hijo de Netanías, y lo encontraron junto a las aguas de Gibeón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041012015"
+          ],
+          "issue": "omits רַבִּ֖ים (many)",
+          "spanishSpan": "las aguas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041012007"
+          ],
+          "issue": "עִם rendered as contra (against) instead of with",
+          "spanishSpan": "contra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041012013",
+            "h24041012014",
+            "h24041012016",
+            "h24041012017"
+          ],
+          "issue": "rephrases אֶל מַיִם רַבִּים אֲשֶׁר בְּגִבְעוֹן as junto a las aguas de Gibeón (changes preposition, omits many, alters structure)",
+          "spanishSpan": "junto a las aguas de Gibeón"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cuando todo el pueblo que estaba con Ismael vio a Johánán, hijo de Carej, y a todos los jefes de los soldados que con él estaban, se alegraron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041013001"
+          ],
+          "issue": "omits the clause-initial וַיְהִ֗י (and it was / and it came to pass)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todo el pueblo que Ismael había llevado cautivo de Mizpa se volvió y fue con Johánán, hijo de Carej.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041014001"
+          ],
+          "issue": "omits first verb וַיָּסֹ֨בּוּ (H5437 qal 3mp sequential) and its distinct action",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041014011"
+          ],
+          "issue": "אֶל rendered as 'con' (with) instead of 'to'",
+          "spanishSpan": "fue con"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Johánán, hijo de Carej, y todos los jefes de los soldados que con él estaban, tomaron a todo el resto del pueblo que Ismael, hijo de Netanías, había llevado cautivo de Mizpa, después de matar a Gedalía, hijo de Aicám, hombres de guerra, mujeres, niños y eunucos que había llevado de Gibeón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041016015",
+            "h24041016035"
+          ],
+          "issue": "adds 'cautivo' concept not licensed by hiphil שׁוב 'brought back'",
+          "spanishSpan": "había llevado cautivo"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se fueron y se quedaron en la colonia de ellos en Betlehem para ir a Egipto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041017003"
+          ],
+          "issue": "adds 'de ellos' and renders גֵרוּת as 'colonia' (neither licensed by lemma or morph)",
+          "spanishSpan": "la colonia de ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041017004",
+            "h24041017005"
+          ],
+          "issue": "omits relative clause structure אֲשֶׁר אֵצֶל",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por miedo a los caldeos, porque temían a ellos, pues Ismael, hijo de Netanías, había matado a Gedalía, hijo de Aicám, que el rey de Babilonia había dejado en la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24041018016"
+          ],
+          "issue": "hiphil פקד rendered as 'había dejado' (left) instead of appointed/put in charge",
+          "spanishSpan": "había dejado"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:41:14.446840+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 18,
+    "verses": 18,
+    "input": 49381,
+    "cachedInput": 14016,
+    "output": 2466,
+    "reasoning": 17303,
+    "usd": 0.1964,
+    "byProvider": {
+      "xai": {
+        "calls": 18,
+        "input": 49381,
+        "output": 2466,
+        "reasoning": 17303,
+        "usd": 0.1964
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 18,
+        "input": 49381,
+        "output": 2466,
+        "reasoning": 17303,
+        "usd": 0.1964
+      }
+    },
+    "usdPerVerse": 0.0109,
+    "bibleAtThisRate": 339.0,
+    "book": "jeremias",
+    "chapter": 41
+  }
+}

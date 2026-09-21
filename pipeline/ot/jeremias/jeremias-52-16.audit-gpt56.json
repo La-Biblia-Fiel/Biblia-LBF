@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:16",
+  "chapter": 52,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y de la tierra tomó el resto del pueblo, dejando allí a Nabozeradán, jefe de la guardia, para que los cultivara y los recogiera.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052016001",
+        "h24052016002"
+      ],
+      "issue": "adds 'tomó el resto del pueblo' and omits 'from the poor of the land'",
+      "spanishSpan": "tomó el resto del pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052016003"
+      ],
+      "issue": "reverses participant: Spanish makes Nabuzaradan the one left, while token is he left [some]",
+      "spanishSpan": "dejando allí a Nabozeradán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052016007",
+        "h24052016008"
+      ],
+      "issue": "changes meaning from 'left [them] for vinedressers and plowmen' to 'so that he would cultivate and gather them'",
+      "spanishSpan": "para que los cultivara y los recogiera"
+    }
+  ],
+  "notes": "multiple participant and semantic mismatches",
+  "discardedUncitedFindings": 0
+}

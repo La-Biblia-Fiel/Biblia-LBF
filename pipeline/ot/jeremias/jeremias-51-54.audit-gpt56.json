@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:54",
+  "chapter": 51,
+  "verse": 54,
+  "candidateLabel": "gpt56",
+  "spanish": "Se oye un grito de dolor desde Babilonia, y un gran estruendo desde la tierra de los caldeos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051054001",
+        "h24051054002"
+      ],
+      "issue": "adds 'Se oye' (is heard) and 'de dolor' (of pain) not licensed by the noun construct 'sound of outcry'",
+      "spanishSpan": "Se oye un grito de dolor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051054004"
+      ],
+      "issue": "renders שבר as 'estruendo' (loud noise/crash) which adds auditory interpretation beyond the licensed 'breaking/breach'",
+      "spanishSpan": "un gran estruendo"
+    }
+  ],
+  "notes": "multiple unlicensed additions and interpretive expansions",
+  "discardedUncitedFindings": 0
+}

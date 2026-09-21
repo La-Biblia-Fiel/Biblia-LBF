@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:5",
+  "chapter": 51,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque no es viudo Israel ni Judá de su Dios, del Señor de los ejércitos; porque su tierra está llena de culpa, desde la parte sagrada de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051005013"
+      ],
+      "issue": "adds 'parte' and renders 'holy one' as 'parte sagrada'",
+      "spanishSpan": "desde la parte sagrada de Israel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

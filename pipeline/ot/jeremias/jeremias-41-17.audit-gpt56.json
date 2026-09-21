@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:17",
+  "chapter": 41,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Se fueron y se quedaron en la colonia de ellos en Betlehem para ir a Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041017003"
+      ],
+      "issue": "adds 'de ellos' and renders גֵרוּת as 'colonia' (neither licensed by lemma or morph)",
+      "spanishSpan": "la colonia de ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041017004",
+        "h24041017005"
+      ],
+      "issue": "omits relative clause structure אֲשֶׁר אֵצֶל",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

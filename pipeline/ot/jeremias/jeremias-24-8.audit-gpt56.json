@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 24:8",
+  "chapter": 24,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y como los malos higos que no se pueden comer por su maldad, así dice el Señor: Así trataré con Zedequías, rey de Judá, y con sus nobles, y con el resto de Jerusalén que queda en esta tierra, y con los que habitan en la tierra de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024008010"
+      ],
+      "issue": "YHWH rendered as title 'el Señor' instead of licensed proper name form",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024008008"
+      ],
+      "issue": "כה (thus) omitted before אמר יהוה",
+      "spanishSpan": "así dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

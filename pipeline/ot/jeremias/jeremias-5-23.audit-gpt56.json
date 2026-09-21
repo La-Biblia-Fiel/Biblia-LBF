@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:23",
+  "chapter": 5,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a este pueblo le ha sido un corazón rebelde y obstinado; han desviado su camino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005023007",
+        "h24005023008"
+      ],
+      "issue": "adds 'su camino' object not present in tokens (only סָרוּ וַיֵּלֵכוּ)",
+      "spanishSpan": "su camino"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

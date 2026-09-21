@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:25",
+  "chapter": 32,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tú me has dicho, Señor Jehová: Compra la tierra con plata y da testimonio, y la ciudad ha caído en manos de los caldeos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032025013"
+      ],
+      "issue": "נִתְּנָה (niphal 'has been given') rendered as 'ha caído' (has fallen)",
+      "spanishSpan": "ha caído"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032025008"
+      ],
+      "issue": "הַשָּׂדֶה (the field) rendered as 'la tierra'",
+      "spanishSpan": "la tierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032025010",
+        "h24032025011"
+      ],
+      "issue": "וְהָעֵד עֵדִים rendered as 'da testimonio' instead of commanding to have/call witnesses",
+      "spanishSpan": "da testimonio"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

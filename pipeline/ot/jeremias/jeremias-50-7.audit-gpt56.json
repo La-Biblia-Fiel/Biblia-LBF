@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:7",
+  "chapter": 50,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Todos los que los encontraron se los comieron, y sus enemigos dijeron: No han sido castigados; porque han pecado contra Jehová, el refugio de la justicia y la esperanza de sus padres, Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050007006",
+        "h24050007007"
+      ],
+      "issue": "לֹא נֶאְשָׁם rendered as 'No han sido castigados' (wrong lemma sense and 3pl instead of 1cp)",
+      "spanishSpan": "No han sido castigados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050007012",
+        "h24050007013",
+        "h24050007014",
+        "h24050007015"
+      ],
+      "issue": "appositive structure and 'refugio' not licensed by נְוֵה צֶדֶק וּמִקְוֵה אֲבוֹתֵיהֶם",
+      "spanishSpan": "el refugio de la justicia y la esperanza de sus padres"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

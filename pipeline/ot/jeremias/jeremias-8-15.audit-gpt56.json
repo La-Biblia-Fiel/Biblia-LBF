@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:15",
+  "chapter": 8,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Esperad la paz, pero no habrá bien; en el tiempo de la curación, y he aquí que ahora.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008015001"
+      ],
+      "issue": "2ms imperative rendered as plural 'Esperad' (vosotros form)",
+      "spanishSpan": "Esperad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008015003"
+      ],
+      "issue": "וְאֵין rendered as 'pero' (contrast) instead of 'and there is no'",
+      "spanishSpan": "pero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008015003",
+        "h24008015004"
+      ],
+      "issue": "present tense אין טוב rendered as future 'no habrá bien'",
+      "spanishSpan": "pero no habrá bien"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008015008"
+      ],
+      "issue": "בְעָתָה (terror) rendered as 'ahora' (now)",
+      "spanishSpan": "y he aquí que ahora"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

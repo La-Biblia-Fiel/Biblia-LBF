@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:19",
+  "chapter": 52,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los cuchillos y las antorchas y las tazones y las sartenes y las lámparas y las cucharas y los recipientes, todo de oro, todo de plata, los llevó el jefe de la guardia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052019002"
+      ],
+      "issue": "lemma H5592 rendered as 'cuchillos' (unlicensed concept)",
+      "spanishSpan": "los cuchillos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052019004"
+      ],
+      "issue": "lemma H4289 rendered as 'antorchas' (unlicensed concept)",
+      "spanishSpan": "las antorchas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052019006",
+        "h24052019008",
+        "h24052019010",
+        "h24052019012",
+        "h24052019014"
+      ],
+      "issue": "multiple noun lemmas rendered with specific Spanish terms adding interpretive senses not present in tokens",
+      "spanishSpan": "las tazones y las sartenes y las lámparas y las cucharas y los recipientes"
+    }
+  ],
+  "notes": "noun renderings introduce concepts absent from supplied lemmas",
+  "discardedUncitedFindings": 0
+}

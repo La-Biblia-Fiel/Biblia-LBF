@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:19",
+  "chapter": 4,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Desde mí, desde mí, siento dolor. Las murallas de mi corazón se han derrumbado. Mi corazón no guarda silencio, porque he oído el sonido de la trompeta y mi alma ha sentido el grito de la batalla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004019001",
+        "h24004019002"
+      ],
+      "issue": "adds 'siento dolor' and renders as 'desde mí' instead of preserving 'my inward parts' (repeated)",
+      "spanishSpan": "Desde mí, desde mí, siento dolor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004019003",
+        "h24004019004",
+        "h24004019005"
+      ],
+      "issue": "renders הֹמֶה as 'se han derrumbado' (collapsed) instead of the licensed moaning/roaring",
+      "spanishSpan": "Las murallas de mi corazón se han derrumbado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004019011",
+        "h24004019012",
+        "h24004019013",
+        "h24004019014",
+        "h24004019015"
+      ],
+      "issue": "inserts 'he oído' and 'ha sentido' (I have heard / has felt) which the tokens do not license",
+      "spanishSpan": "he oído el sonido de la trompeta y mi alma ha sentido el grito de la batalla"
+    }
+  ],
+  "notes": "multiple additions and interpretive expansions beyond token license",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,662 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 38,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "passed": [
+    6,
+    17,
+    18,
+    19,
+    20,
+    28
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Shaphan hijo de Matán, Gedalía hijo de Pashhur, Jucal hijo de Shelomith y Pashhur hijo de Malkijah escucharon las palabras que Jeremías decía a todo el pueblo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038001001"
+          ],
+          "issue": "verb number changed from 3ms to 3pl",
+          "spanishSpan": "escucharon"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038001002"
+          ],
+          "issue": "proper name altered from Shephatiah to Shaphan",
+          "spanishSpan": "Shaphan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038001010"
+          ],
+          "issue": "proper name altered from Shelemyahu to Shelomith",
+          "spanishSpan": "Shelomith"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el Señor: El que permanece en esta ciudad morirá por la espada, por el hambre y por la peste, pero el que salga a los caldeos vivirá y su vida será su botín.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038002003"
+          ],
+          "issue": "YHWH rendered as 'el Señor' instead of required Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el Señor: Entregad esta ciudad a los ejércitos del rey de Babilonia, para que la tomen.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038003004",
+            "h24038003005"
+          ],
+          "issue": "niphal passive (will be given) rendered as active imperative 2pl",
+          "spanishSpan": "Entregad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038003009"
+          ],
+          "issue": "singular חֵיל rendered as plural ejércitos",
+          "spanishSpan": "ejércitos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038003012"
+          ],
+          "issue": "3ms capture changed to 3pl tomen",
+          "spanishSpan": "la tomen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038003003"
+          ],
+          "issue": "יהוה rendered as el Señor instead of Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los oficiales dijeron al rey: ¡Matadle a este hombre! Porque así es que él cura las manos de los soldados que quedan en esta ciudad y las manos de todo el pueblo, hablando a ellos conforme a estas palabras. Porque este hombre no busca el bienestar para este pueblo, sino el mal.",
+      "notes": "multiple lexical and voice mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038004005"
+          ],
+          "issue": "יומת is hophal jussive passive ('let this man be put to death'); Spanish renders as active imperative 'Matadle'",
+          "spanishSpan": "¡Matadle a este hombre!"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038004014"
+          ],
+          "issue": "מְרַפֵּא (piel ptc of רפה 'weaken/slacken hands') rendered as 'cura' (heal)",
+          "spanishSpan": "él cura las manos"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El rey Zedequías respondió: ¡Está en sus manos! Porque el rey no puede hacer nada contra ustedes.",
+      "notes": "name Zedequías is conventional; 'sus manos' acceptable for 2mp with ustedes",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038005001"
+          ],
+          "issue": "verb rendered as 'respondió' (answered) instead of licensed 'dijo' (said)",
+          "spanishSpan": "respondió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038005011",
+            "h24038005012"
+          ],
+          "issue": "adds 'hacer ... contra' not present in tokens; 'אתכם דבר' only licenses 'no puede ... nada' without directional 'contra'",
+          "spanishSpan": "hacer nada contra"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Un eunuco, oficial del rey de Egipto, que estaba en la casa del rey, oyó que habían echado a Jeremías al pozo, y el rey estaba sentado en la puerta de Benjamín.",
+      "notes": "Spanish re-identifies the subject instead of rendering the named individual from the tokens.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038007002",
+            "h24038007003",
+            "h24038007004"
+          ],
+          "issue": "omits proper name Ebed-melech the Cushite and replaces with generic description plus geographic error",
+          "spanishSpan": "Un eunuco, oficial del rey de Egipto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038007004"
+          ],
+          "issue": "adds 'Egipto' with no licensing token",
+          "spanishSpan": "rey de Egipto"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El eunuco salió de la casa del rey y habló con el rey, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038008002",
+            "h24038008003"
+          ],
+          "issue": "replaces proper name Ebed-Melech (HNp) with interpretive 'el eunuco'",
+          "spanishSpan": "El eunuco"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Señor, el rey, estos hombres han hecho mal a Jeremías el profeta, arrojándolo al pozo, y morirá por hambre, porque ya no hay pan en la ciudad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038009007",
+            "h24038009008",
+            "h24038009009"
+          ],
+          "issue": "omits licensed concept כָּל אֲשֶׁר עָשׂוּ (all that they did)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038009018"
+          ],
+          "issue": "omits licensed concept תַּחְתָּיו (in his place/under him)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El rey ordenó al eunuco del rey de Egipto: Toma treinta hombres y saca a Jeremías el profeta del pozo antes de que muera.",
+      "notes": "name and gentilic mismatch",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038010004",
+            "h24038010005",
+            "h24038010006"
+          ],
+          "issue": "replaces proper name Ebed-melech the Cushite with interpretive 'eunuco del rey de Egipto'",
+          "spanishSpan": "al eunuco del rey de Egipto"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El eunuco tomó a los hombres con él y vino a la casa del rey, a la cámara del tesoro, y tomó de allí vestidos y calzado y lo envió a Jeremías al pozo con cuerdas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038011002",
+            "h24038011003"
+          ],
+          "issue": "adds 'eunuco' not present in tokens (proper name Ebed-melech only)",
+          "spanishSpan": "El eunuco"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038011015",
+            "h24038011016",
+            "h24038011017"
+          ],
+          "issue": "adds 'calzado' (footwear) absent from the rags tokens",
+          "spanishSpan": "y calzado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038011018"
+          ],
+          "issue": "singular 'lo' instead of plural 'los' for the object sent",
+          "spanishSpan": "lo envió"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El eunuco del rey de Egipto dijo a Jeremías: Coloca tus ropas y tus calzados debajo de tus manos, bajo las cuerdas. Y Jeremías lo hizo.",
+      "notes": "multiple lexical and referential mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038012002",
+            "h24038012003",
+            "h24038012004"
+          ],
+          "issue": "speaker rendered as 'eunuco del rey de Egipto' instead of the proper name Ebed-Melech the Cushite",
+          "spanishSpan": "El eunuco del rey de Egipto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038012009",
+            "h24038012010",
+            "h24038012011"
+          ],
+          "issue": "objects changed to 'ropas y calzados' instead of rags/worn-out garments",
+          "spanishSpan": "tus ropas y tus calzados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038012013",
+            "h24038012014"
+          ],
+          "issue": "location changed to 'debajo de tus manos' instead of under the armpits",
+          "spanishSpan": "debajo de tus manos"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces sacaron a Jeremías con cuerdas del pozo y él se sentó en la corte del tesoro.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038013012"
+          ],
+          "issue": "renders הַמַּטָּרָֽה as 'tesoro' (treasure) instead of guard/prison/ward",
+          "spanishSpan": "corte del tesoro"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El rey Zedequías envió y tomó a Jeremías el profeta y lo llevó a la puerta del tercer escalón, que está en la casa de Jehová. Y el rey le dijo a Jeremías: Pregunto yo a ti algo, no me ocultes nada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038014010",
+            "h24038014011"
+          ],
+          "issue": "adds 'puerta del tercer escalón' specifying untokenized noun 'escalón' and resolving ambiguity of 'the third'",
+          "spanishSpan": "a la puerta del tercer escalón"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Jeremías respondió al rey Zedequías: Haré contigo lo que me digas, porque temo que me mates; y aunque te aconseje, no me escucharás.",
+      "notes": "candidate is a loose paraphrase, not a rendering of the supplied tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038015005",
+            "h24038015006",
+            "h24038015007",
+            "h24038015008",
+            "h24038015009",
+            "h24038015010"
+          ],
+          "issue": "Spanish replaces the conditional interrogative structure 'if I tell you, will you not kill me' with an unrelated declarative 'I will do what you say, because I fear you will kill me'",
+          "spanishSpan": "Haré contigo lo que me digas, porque temo que me mates"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038015001",
+            "h24038015002",
+            "h24038015003",
+            "h24038015004"
+          ],
+          "issue": "Spanish inserts 'respondió al rey' absent from the tokens; the text is simply 'dijo Jeremías a Sedequías'",
+          "spanishSpan": "Jeremías respondió al rey Zedequías"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038015011",
+            "h24038015012",
+            "h24038015013",
+            "h24038015014",
+            "h24038015015"
+          ],
+          "issue": "Spanish changes the second clause from 'if I counsel you, you will not listen to me' into concessive 'aunque te aconseje' while preserving the non-listening, but the overall sentence is already invalid due to prior mismatches",
+          "spanishSpan": "y aunque te aconseje, no me escucharás"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces el rey Zedequías juró a Jeremías en secreto, diciendo: Por Jehová que vive, que te dejaré vivir y no te entregaré en manos de los hombres que buscan tu vida.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038016010",
+            "h24038016011",
+            "h24038016012",
+            "h24038016013",
+            "h24038016014",
+            "h24038016015"
+          ],
+          "issue": "omits the relative clause 'who made this life/soul for us'",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero si no sales, este es el mensaje que Jehová me ha mostrado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038021001"
+          ],
+          "issue": "adds 'Pero' (but) instead of licensed 'Y' (and)",
+          "spanishSpan": "Pero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038021002"
+          ],
+          "issue": "omits licensed concept of 'refusing' (ma'en participle) and renders as simple negation",
+          "spanishSpan": "si no sales"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038021006"
+          ],
+          "issue": "renders 'dabar' as 'mensaje' (message) rather than preserving 'palabra' or 'asunto'",
+          "spanishSpan": "mensaje"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y he aquí que todas las mujeres que quedan en la casa del rey de Judá serán sacadas a los capitanes del rey de Babilonia y dirán: Te han engañado y tus amigos te han vencido; tus pies se hundirán en el barro y retrocederás.",
+      "notes": "person/tense mismatch on final clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038022021",
+            "h24038022024",
+            "h24038022025"
+          ],
+          "issue": "tense and person shift: Hebrew perfect 3cp (הָטְבְּעוּ, נָסֹגוּ) rendered as future 2ms; subject changed from 3cp to 2ms",
+          "spanishSpan": "tus pies se hundirán en el barro y retrocederás"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038022016",
+            "h24038022017",
+            "h24038022021",
+            "h24038022024"
+          ],
+          "issue": "inconsistent tense rendering of perfect verbs in reported speech (some perfect, some future)",
+          "spanishSpan": "Te han engañado ... se hundirán ... retrocederás"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a todas tus mujeres y a tus hijos sacarán a los caldeos, y tú no escaparás de sus manos, porque serás tomado por el rey de Babilonia y esta ciudad será quemada con fuego.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038023006",
+            "h24038023007",
+            "h24038023008"
+          ],
+          "issue": "reverses object and destination: מוֹצִאִים אֶל הַכַּשְׂדִּים rendered as if the addressees take the Chaldeans out rather than the family being brought out to the Chaldeans",
+          "spanishSpan": "sacarán a los caldeos"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo Zedequías a Jeremías: Que nadie sepa estas cosas y no te maten.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038024011"
+          ],
+          "issue": "changes 'you shall not die' (2ms qal imperfect of מות) to 'do not let them kill you'",
+          "spanishSpan": "y no te maten"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando los príncipes escuchen que hablaste conmigo y vengan a ti y te digan: Dinos ahora lo que dijiste al rey, no te ocultes de nosotros, no te mataremos, y lo que el rey te dijo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038025005",
+            "h24038025006"
+          ],
+          "issue": "participant reversal: Spanish inverts speaker/addressee so that the 2s addressee spoke with the 1s speaker",
+          "spanishSpan": "que hablaste conmigo"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú les dirás: Pedí misericordia ante el rey, para que no me envíe a la casa de Jonatán para morir allí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038026003",
+            "h24038026004",
+            "h24038026005"
+          ],
+          "issue": "participle + אני rendered as past tense Pedí instead of present I am presenting/falling",
+          "spanishSpan": "Pedí misericordia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038026009"
+          ],
+          "issue": "הֲשִׁיבֵנִי (hiphil cause to return) rendered as envíe (send)",
+          "spanishSpan": "no me envíe"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038026005"
+          ],
+          "issue": "תְחִנָּתִי (supplication/plea) rendered as misericordia",
+          "spanishSpan": "misericordia"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vinieron todos los príncipes a Jeremías y le preguntaron, y él les contó todas estas palabras que el rey había ordenado, y ellos guardaron silencio, porque no habían oído la palabra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24038027020"
+          ],
+          "issue": "changes niphal passive 'the word was not heard' (3ms) to active plural 'ellos ... no habían oído'",
+          "spanishSpan": "ellos guardaron silencio, porque no habían oído la palabra"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:59:22.986566+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 28,
+    "verses": 28,
+    "input": 75808,
+    "cachedInput": 25088,
+    "output": 3702,
+    "reasoning": 23867,
+    "usd": 0.2794,
+    "byProvider": {
+      "xai": {
+        "calls": 28,
+        "input": 75808,
+        "output": 3702,
+        "reasoning": 23867,
+        "usd": 0.2794
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 28,
+        "input": 75808,
+        "output": 3702,
+        "reasoning": 23867,
+        "usd": 0.2794
+      }
+    },
+    "usdPerVerse": 0.01,
+    "bibleAtThisRate": 310.0,
+    "book": "jeremias",
+    "chapter": 38
+  }
+}

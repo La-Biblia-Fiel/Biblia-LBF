@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:6",
+  "chapter": 30,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Pregunta y mira si un varón da a luz; ¿por qué veo a todos los varones con las manos sobre las sienes como una mujer que da a luz, y todos los rostros se vuelven pálidos?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030006001",
+        "h24030006003"
+      ],
+      "issue": "2mp imperatives rendered as singular tú forms instead of ustedes",
+      "spanishSpan": "Pregunta y mira"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030006013"
+      ],
+      "issue": "חֲלָצָיו (loins) rendered as sienes (temples of the head)",
+      "spanishSpan": "las sienes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

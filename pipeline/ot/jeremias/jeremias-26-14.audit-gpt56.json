@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:14",
+  "chapter": 26,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo estoy en sus manos; haced conmigo lo que os parezca bien y justo en sus ojos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026014002"
+      ],
+      "issue": "omits demonstrative hinneh (behold/here I am)",
+      "spanishSpan": "Y yo estoy"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026014003",
+        "h24026014004",
+        "h24026014008"
+      ],
+      "issue": "uses Peninsular vosotros forms (haced, os) instead of licensed Latin-American ustedes",
+      "spanishSpan": "haced ... os parezca"
+    }
+  ],
+  "notes": "vosotros violation per explicit rule",
+  "discardedUncitedFindings": 0
+}

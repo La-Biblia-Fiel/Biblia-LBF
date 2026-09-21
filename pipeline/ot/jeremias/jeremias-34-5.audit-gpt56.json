@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:5",
+  "chapter": 34,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Morirás en paz, y como se quemaron tus padres, los reyes que te precedieron, así serán quemados a ti, y lamentarán tu muerte, porque yo he hablado la palabra, oráculo del Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034005003",
+        "h24034005004"
+      ],
+      "issue": "replaces מִשְׂרְפ֣וֹת אֲבוֹתֶיךָ with 'se quemaron tus padres' (fathers burned) instead of preserving 'burnings of your fathers'",
+      "spanishSpan": "como se quemaron tus padres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034005015",
+        "h24034005016"
+      ],
+      "issue": "adds 'tu muerte' not present in יִסְפְּדוּ לָךְ",
+      "spanishSpan": "lamentarán tu muerte"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034005022"
+      ],
+      "issue": "renders יְהוָה as 'Señor' instead of conventional Jehová",
+      "spanishSpan": "oráculo del Señor"
+    }
+  ],
+  "notes": "multiple interpretive additions and name rendering",
+  "discardedUncitedFindings": 0
+}

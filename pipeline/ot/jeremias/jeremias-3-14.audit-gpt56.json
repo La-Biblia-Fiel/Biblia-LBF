@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:14",
+  "chapter": 3,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Vuelve, hijos rebeldes, dice el Señor, porque yo te he tomado de una ciudad, y de una familia dos, y te he traído a Sión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003014001",
+        "h24003014009",
+        "h24003014011",
+        "h24003014017"
+      ],
+      "issue": "2mp imperative and suffixes rendered as 2s singular (vuelve/te) instead of 2p ustedes",
+      "spanishSpan": "Vuelve ... te ... te"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003014008",
+        "h24003014009"
+      ],
+      "issue": "בָּעַלְתִּי בָכֶם rendered as 'te he tomado' (wrong lemma sense)",
+      "spanishSpan": "yo te he tomado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003014005"
+      ],
+      "issue": "יְהוָה rendered as 'el Señor' instead of Jehová",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

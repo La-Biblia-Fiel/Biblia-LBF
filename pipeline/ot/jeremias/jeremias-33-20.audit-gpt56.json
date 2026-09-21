@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:20",
+  "chapter": 33,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová: Si romperéis mi pacto de día, y mi pacto de noche, y no habrá día y noche en su tiempo,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033020005"
+      ],
+      "issue": "vosotros future form 'romperéis' instead of Latin American 'romperán' for 2mp address",
+      "spanishSpan": "romperéis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

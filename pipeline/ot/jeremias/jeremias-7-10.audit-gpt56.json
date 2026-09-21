@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:10",
+  "chapter": 7,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vendréis y os presentaréis ante mí en esta casa que se llama por mi nombre, y diréis: “Nos hemos apartado”, para hacer todas estas abominaciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007010011"
+      ],
+      "issue": "נִצַּלְנוּ (niphal 'we have been delivered/rescued') rendered as 'Nos hemos apartado' (we have departed/separated)",
+      "spanishSpan": "Nos hemos apartado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007010001",
+        "h24007010002",
+        "h24007010010"
+      ],
+      "issue": "2mp sequential perfect verbs rendered with vosotros forms (vendréis, presentaréis, diréis) instead of Latin American ustedes",
+      "spanishSpan": "vendréis ... presentaréis ... diréis"
+    }
+  ],
+  "notes": "main semantic mismatch on H5337",
+  "discardedUncitedFindings": 0
+}

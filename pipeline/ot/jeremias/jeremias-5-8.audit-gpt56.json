@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:8",
+  "chapter": 5,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Los caballos bien entrenados se volvieron hacia atrás; cada uno se acercará a la mujer de su vecino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005008002"
+      ],
+      "issue": "adds 'bien entrenados' (well trained) not licensed by מְיֻזָּנִ֖ים (pual participle of זון = nourished/fed)",
+      "spanishSpan": "bien entrenados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005008003",
+        "h24005008004"
+      ],
+      "issue": "adds 'se volvieron hacia atrás' with no support from הָיוּ or the hiphil participle מַשְׁכִּים",
+      "spanishSpan": "se volvieron hacia atrás"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005008009"
+      ],
+      "issue": "replaces יִצְהָֽלוּ (they will neigh) with 'se acercará' (will approach)",
+      "spanishSpan": "se acercará"
+    }
+  ],
+  "notes": "multiple semantic substitutions and additions",
+  "discardedUncitedFindings": 0
+}

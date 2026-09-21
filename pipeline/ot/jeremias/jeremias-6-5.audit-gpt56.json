@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:5",
+  "chapter": 6,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Levántense y marchen de noche, y destruyan sus fortalezas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006005002",
+        "h24006005004"
+      ],
+      "issue": "cohortative 1cp (let us) rendered as 2/3pl commands (marchen, destruyan), shifting participants",
+      "spanishSpan": "marchen de noche, y destruyan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006005002"
+      ],
+      "issue": "עלה cohortative rendered as marchen instead of subir / ir arriba",
+      "spanishSpan": "marchen"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

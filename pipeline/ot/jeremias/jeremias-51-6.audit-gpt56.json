@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:6",
+  "chapter": 51,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Escapad de Babilonia, huid cada uno con su vida, no os quedéis por causa de su pecado, porque ha llegado el tiempo de venganza del Señor, él pagará a ella su retribución.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051006011",
+        "h24051006013"
+      ],
+      "issue": "adds 'ha llegado' (arrival) not present in עֵת ... הִיא",
+      "spanishSpan": "ha llegado el tiempo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051006008"
+      ],
+      "issue": "תִּדַּמּוּ (Niphal jussive 'be destroyed/perish') rendered as 'quedéis' (remain/stay)",
+      "spanishSpan": "no os quedéis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051006014"
+      ],
+      "issue": "יהוה rendered as 'Señor' instead of conventional Jehová",
+      "spanishSpan": "del Señor"
+    }
+  ],
+  "notes": "multiple licensed concepts altered or added",
+  "discardedUncitedFindings": 0
+}

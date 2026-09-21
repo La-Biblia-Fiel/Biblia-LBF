@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:42",
+  "chapter": 50,
+  "verse": 42,
+  "candidateLabel": "gpt56",
+  "spanish": "Con arco y con alabarda se aprestarán, son crueles y no tienen misericordia; el sonido de ellos es como el mar, y sobre caballos montarán, cada uno dispuesto para la batalla, contra ti, oh Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050042001",
+        "h24050042002",
+        "h24050042003"
+      ],
+      "issue": "verb rendered as 'se aprestarán' instead of 'they will grasp/hold'",
+      "spanishSpan": "se aprestarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050042008",
+        "h24050042009",
+        "h24050042010"
+      ],
+      "issue": "omits roaring action; equates sound directly to the sea",
+      "spanishSpan": "el sonido de ellos es como el mar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050042018",
+        "h24050042019"
+      ],
+      "issue": "omits 'daughter' construct; renders only Babilonia",
+      "spanishSpan": "oh Babilonia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

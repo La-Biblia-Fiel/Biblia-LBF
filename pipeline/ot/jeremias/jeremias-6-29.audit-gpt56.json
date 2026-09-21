@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:29",
+  "chapter": 6,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Se desprecia el yeso, se llama a ellos polvo; han fundido en vano, los malos no se han separado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006029001",
+        "h24006029002",
+        "h24006029003"
+      ],
+      "issue": "adds yeso and polvo; omits bellows, lead, and scorched/burned",
+      "spanishSpan": "Se desprecia el yeso, se llama a ellos polvo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006029005",
+        "h24006029006"
+      ],
+      "issue": "resolves the qal perfect + infinitive absolute construction into an unlicensed rendering",
+      "spanishSpan": "han fundido"
+    }
+  ],
+  "notes": "only the final clause matches tokens 7-9",
+  "discardedUncitedFindings": 0
+}

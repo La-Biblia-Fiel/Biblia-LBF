@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:36",
+  "chapter": 25,
+  "verse": 36,
+  "candidateLabel": "gpt56",
+  "spanish": "El grito de los pastores y el lamento de los jefes del rebaño, porque el Señor despojará a sus pastos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025036009"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025036008"
+      ],
+      "issue": "Qal participle active rendered as future indicative 'despojará'",
+      "spanishSpan": "despojará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025036011"
+      ],
+      "issue": "singular 'pasture' (construct + 3mp suffix) rendered as plural 'pastos'",
+      "spanishSpan": "sus pastos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24025036005"
+      ],
+      "issue": "adjective 'mighty ones' rendered interpretively as 'jefes'",
+      "spanishSpan": "jefes del rebaño"
+    }
+  ],
+  "notes": "tense, number, and divine name mismatch tokens",
+  "discardedUncitedFindings": 0
+}

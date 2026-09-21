@@ -1,0 +1,29 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:2",
+  "chapter": 40,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces el jefe de los carniceros tomó a Jeremías y le dijo: “Así ha hablado Jehová tu Dios, el mal que ha hablado acerca de este lugar.”",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040002009",
+        "h24040002010",
+        "h24040002011",
+        "h24040002012",
+        "h24040002013",
+        "h24040002014",
+        "h24040002015"
+      ],
+      "issue": "restructures and adds 'Así' plus relative-clause 'el mal que ha hablado' instead of rendering 'ha hablado este mal a este lugar'",
+      "spanishSpan": "Así ha hablado Jehová tu Dios, el mal que ha hablado acerca de este lugar"
+    }
+  ],
+  "notes": "quote clause mismatches tokens",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:25",
+  "chapter": 9,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que vienen días, dice Jehová, y visitaré a todos los que no son circuncidados de corazón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009025009",
+        "h24009025010"
+      ],
+      "issue": "adds 'no son circuncidados de corazón' (heart, negation, spiritual interpretation) absent from tokens; tokens license only 'all circumcised in uncircumcision'",
+      "spanishSpan": "a todos los que no son circuncidados de corazón"
+    }
+  ],
+  "notes": "Spanish resolves lexical openness and inserts unlicensed concept",
+  "discardedUncitedFindings": 0
+}

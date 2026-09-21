@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:17",
+  "chapter": 29,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque dice Jehová de los ejércitos: He aquí que enviaré entre ellos la espada, el hambre y la peste, y los dejaré como las uvas secas que no se comen por malas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029017001"
+      ],
+      "issue": "adds 'Porque' with no licensing token",
+      "spanishSpan": "Porque"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029017016"
+      ],
+      "issue": "renders תְאֵנִים as 'uvas' instead of figs",
+      "spanishSpan": "uvas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029017017"
+      ],
+      "issue": "renders הַשֹּׁעָרִים as 'secas' instead of bad/worthless",
+      "spanishSpan": "secas"
+    }
+  ],
+  "notes": "multiple lexical mismatches and unlicenced addition",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:44",
+  "chapter": 51,
+  "verse": 44,
+  "candidateLabel": "gpt56",
+  "spanish": "Haré que Bel sea vigilado en Babilonia, y sacaré a Bel de su boca; ya no volverán a él las naciones. La muralla de Babilonia ha caído.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051044001"
+      ],
+      "issue": "פקד rendered as 'sea vigilado' (watch/monitor) instead of visit/attend/punish",
+      "spanishSpan": "Haré que Bel sea vigilado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051044007"
+      ],
+      "issue": "בלעו rendered as 'a Bel' instead of his swallowing/what he swallowed",
+      "spanishSpan": "sacaré a Bel de su boca"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051044010"
+      ],
+      "issue": "ינהרו rendered as 'volverán' (return) instead of flow/stream",
+      "spanishSpan": "ya no volverán a él las naciones"
+    }
+  ],
+  "notes": "multiple lexical mismatches",
+  "discardedUncitedFindings": 0
+}

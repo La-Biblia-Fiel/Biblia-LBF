@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:11",
+  "chapter": 48,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Moab ha sido tranquilo desde su juventud, y ha estado en calma con sus dioses, y no ha sido sacudido de un vaso a otro, ni ha ido en cautiverio. Por eso su sabor ha permanecido en él, y su aroma no se ha desvanecido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048011006",
+        "h24048011007"
+      ],
+      "issue": "adds 'con sus dioses' (with his gods); token is preposition + שְׁמָרָיו 'his dregs/lees'",
+      "spanishSpan": "con sus dioses"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048011009"
+      ],
+      "issue": "renders הוּרַק 'poured out/emptied' as 'sacudido' (shaken)",
+      "spanishSpan": "ha sido sacudido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

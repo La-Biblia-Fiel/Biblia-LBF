@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:1",
+  "chapter": 22,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice Jehová: Baja, casa de David, y habla allí estas palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022001005",
+        "h24022001006",
+        "h24022001007"
+      ],
+      "issue": "renders בֵּית מֶלֶךְ יְהוּדָה as 'casa de David' (wrong referent and omitted 'rey')",
+      "spanishSpan": "casa de David"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022001011",
+        "h24022001012"
+      ],
+      "issue": "renders singular הַדָּבָר הַזֶּה as plural 'estas palabras'",
+      "spanishSpan": "estas palabras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

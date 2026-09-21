@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:9",
+  "chapter": 25,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que enviaré y tomaré a todas las familias del norte, dice el Señor, y a Nabucodonosor, rey de Babilonia, mi siervo, y los llevaré a esta tierra y a sus habitantes y a todos los pueblos que la rodean, y los destruiré y los haré objeto de maldición, de desprecio y de escarnio para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025009009"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of required 'Jehová'",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025009028",
+        "h24025009029",
+        "h24025009030",
+        "h24025009031"
+      ],
+      "issue": "tokens license desolation, hissing, and perpetual ruins; Spanish adds unlicensed concepts of curse, contempt, and mockery",
+      "spanishSpan": "objeto de maldición, de desprecio y de escarnio para siempre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

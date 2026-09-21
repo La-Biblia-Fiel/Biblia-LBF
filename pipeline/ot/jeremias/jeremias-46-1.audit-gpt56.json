@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:1",
+  "chapter": 46,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra que el SEÑOR habló a Jeremías el profeta acerca de las naciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046001002"
+      ],
+      "issue": "Spanish inserts 'habló' (spoke) making SEÑOR the agent; token is only 'was' (Qal pf 3ms) in construct phrase",
+      "spanishSpan": "habló"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:30",
+  "chapter": 6,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Se desprecia la plata; a ellos se les llama plata despreciable, porque el Señor los desprecia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006030007"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006030003",
+        "h24006030004"
+      ],
+      "issue": "adds 'plata despreciable' as the explicit name they are called, which the tokens do not license",
+      "spanishSpan": "plata despreciable"
+    }
+  ],
+  "notes": "passive silver rejected and 3ms rejection by YHWH are preserved, but added interpretive naming and wrong divine name",
+  "discardedUncitedFindings": 0
+}

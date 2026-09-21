@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:19",
+  "chapter": 50,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y haré volver a Israel a su morada y pastorearé en Carmel, en Bashan, en el monte Efraín y en Gilead, y su alma se saciará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050019006"
+      ],
+      "issue": "shepherd verb rendered 1cs (pastorearé) instead of 3ms",
+      "spanishSpan": "y pastorearé"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

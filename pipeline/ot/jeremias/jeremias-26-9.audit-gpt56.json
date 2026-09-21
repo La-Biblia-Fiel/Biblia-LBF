@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:9",
+  "chapter": 26,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué profetizas en nombre de Jehová, diciendo: Será destruido este templo y esta ciudad será desolada sin habitantes? Y todo el pueblo se reunió a Jeremías en la casa de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026009006",
+        "h24026009007",
+        "h24026009008"
+      ],
+      "issue": "omits 'como Silo' and replaces with 'será destruido'",
+      "spanishSpan": "Será destruido este templo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026009002"
+      ],
+      "issue": "Niphal 2ms rendered without passive/reflexive force licensed by morphology",
+      "spanishSpan": "profetizas"
+    }
+  ],
+  "notes": "candidate adds 'destruido' and drops k'shilo reference",
+  "discardedUncitedFindings": 0
+}

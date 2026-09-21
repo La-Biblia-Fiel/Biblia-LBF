@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:4",
+  "chapter": 34,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Sin embargo, escucha la palabra del Señor, Zedequías, rey de Judá: ‘Así dice el Señor acerca de ti: No morirás por la espada.’",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034004004",
+        "h24034004010"
+      ],
+      "issue": "YHWH rendered as 'Señor' instead of licensed conventional 'Jehová'",
+      "spanishSpan": "del Señor ... el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

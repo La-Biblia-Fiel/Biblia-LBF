@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:23",
+  "chapter": 38,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a todas tus mujeres y a tus hijos sacarán a los caldeos, y tú no escaparás de sus manos, porque serás tomado por el rey de Babilonia y esta ciudad será quemada con fuego.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038023006",
+        "h24038023007",
+        "h24038023008"
+      ],
+      "issue": "reverses object and destination: מוֹצִאִים אֶל הַכַּשְׂדִּים rendered as if the addressees take the Chaldeans out rather than the family being brought out to the Chaldeans",
+      "spanishSpan": "sacarán a los caldeos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:38",
+  "chapter": 25,
+  "verse": 38,
+  "candidateLabel": "gpt56",
+  "spanish": "Abandonará como león su morada, porque la tierra se ha convertido en un desierto, por la ira del SEÑOR y por la ira de su ardor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025038001"
+      ],
+      "issue": "perfect 3ms rendered as future",
+      "spanishSpan": "Abandonará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025038002"
+      ],
+      "issue": "kfir (young lion) rendered simply as león",
+      "spanishSpan": "como león"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025038006"
+      ],
+      "issue": "their land rendered as la tierra (omits 3mp suffix)",
+      "spanishSpan": "la tierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025038010"
+      ],
+      "issue": "adds del SEÑOR; tokens have חרון היונה (wrath of the oppressor)",
+      "spanishSpan": "del SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

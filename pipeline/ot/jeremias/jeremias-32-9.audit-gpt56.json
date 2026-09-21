@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:9",
+  "chapter": 32,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y compré el campo de Hanameel, hijo de pariente mío, que estaba en Anatot, y pagué por él el dinero, siete siclos de plata y diez siclos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032009010"
+      ],
+      "issue": "verb changed from 'weighed' (shaqal) to 'pagué' (paid)",
+      "spanishSpan": "pagué"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032009007"
+      ],
+      "issue": "dodi rendered as generic 'pariente' instead of uncle",
+      "spanishSpan": "pariente mío"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032009008",
+        "h24032009009"
+      ],
+      "issue": "relative clause attachment resolved to modify the field rather than the uncle",
+      "spanishSpan": "que estaba en Anatot"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

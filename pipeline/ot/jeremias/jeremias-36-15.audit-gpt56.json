@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:15",
+  "chapter": 36,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y le dijeron: Siéntate aquí y lee en voz alta en nuestra presencia. Y Baruc leyó en voz alta en su presencia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036015003"
+      ],
+      "issue": "adds 'aquí' with no token support",
+      "spanishSpan": "aquí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036015005",
+        "h24036015007"
+      ],
+      "issue": "adds 'en voz alta' not licensed by qara' lemma",
+      "spanishSpan": "en voz alta"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036015006",
+        "h24036015009"
+      ],
+      "issue": "renders 'ears' as 'presencia' instead of preserving 'oídos'",
+      "spanishSpan": "presencia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:25",
+  "chapter": 48,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Se ha cortado la cornamenta de Moab, y su brazo se ha quebrado, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048025007"
+      ],
+      "issue": "YHWH rendered as 'el Señor' (title) instead of Jehová",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

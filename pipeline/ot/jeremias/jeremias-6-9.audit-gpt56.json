@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:9",
+  "chapter": 6,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el Señor de los ejércitos: Se harán como un racimo de uvas, la remanente de Israel será como un racimo de uvas; extiende tu mano como quien recoge uvas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006009003"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006009005",
+        "h24006009006",
+        "h24006009007",
+        "h24006009008",
+        "h24006009009"
+      ],
+      "issue": "עולל/יעוללו כגפן שארית ישראל rendered as remnant becoming a grape cluster instead of being gleaned like a vine",
+      "spanishSpan": "Se harán como un racimo de uvas, la remanente de Israel será como un racimo de uvas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006009010",
+        "h24006009013",
+        "h24006009014"
+      ],
+      "issue": "השב ידך ... על סלסלות rendered as 'extiende tu mano' and omits baskets",
+      "spanishSpan": "extiende tu mano como quien recoge uvas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

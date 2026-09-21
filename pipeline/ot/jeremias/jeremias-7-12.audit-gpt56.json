@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:12",
+  "chapter": 7,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque id ahora al lugar de Silo, donde habité primero, y mirad lo que hice allí por causa del mal de mi pueblo Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007012005",
+        "h24007012009",
+        "h24007012010"
+      ],
+      "issue": "omits שְׁמִי and changes piel שִׁכַּנְתִּי to plain 'habité' instead of 'hice habitar mi nombre'",
+      "spanishSpan": "donde habité primero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007012005",
+        "h24007012007"
+      ],
+      "issue": "renders מְקוֹמִי בְּשִׁילוֹ as 'lugar de Silo' instead of 'mi lugar en Silo'",
+      "spanishSpan": "al lugar de Silo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

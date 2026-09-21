@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:20",
+  "chapter": 48,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Moab se avergüenza, porque ha sido derrotado. ¡Llora y grita! Anuncia en Arnon que Moab ha sido saqueado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048020004"
+      ],
+      "issue": "חַתָּה rendered as 'ha sido derrotado' (adds defeat concept not licensed by lemma/morph)",
+      "spanishSpan": "ha sido derrotado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048020005"
+      ],
+      "issue": "הַגִּ֣ידוּ rendered with preceding '¡Llora y grita!' (adds cry/shout not present in any token)",
+      "spanishSpan": "¡Llora y grita!"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048020001",
+        "h24048020004",
+        "h24048020005"
+      ],
+      "issue": "restructures and conflates the two perfect verbs plus imperative into a non-token sequence",
+      "spanishSpan": "Moab se avergüenza, porque ha sido derrotado. ¡Llora y grita! Anuncia"
+    }
+  ],
+  "notes": "packet contains only shame, dismay, announce-in-Arnon, and devastated",
+  "discardedUncitedFindings": 0
+}

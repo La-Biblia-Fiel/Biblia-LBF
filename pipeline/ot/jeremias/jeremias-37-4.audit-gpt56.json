@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:4",
+  "chapter": 37,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jeremías venía y salía entre el pueblo, y no le daban en la cárcel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037004009"
+      ],
+      "issue": "adds 'cárcel' (prison) concept not licensed by בֵּ֥ית (house) token",
+      "spanishSpan": "en la cárcel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

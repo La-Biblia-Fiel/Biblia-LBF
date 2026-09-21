@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:6",
+  "chapter": 49,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Después de esto haré volver el cautiverio de los hijos de Amón, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049006009"
+      ],
+      "issue": "replaces proper name יהוה with title SEÑOR",
+      "spanishSpan": "el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

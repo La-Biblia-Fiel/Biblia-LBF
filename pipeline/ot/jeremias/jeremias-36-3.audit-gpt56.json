@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:3",
+  "chapter": 36,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Quizás oirán la casa de Judá todas las malas cosas que yo tengo en propósito hacerles, para que cada uno vuelva de su mala senda, y yo perdone sus pecados y sus iniquidades.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036003007"
+      ],
+      "issue": "changes singular noun to plural",
+      "spanishSpan": "todas las malas cosas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036003019"
+      ],
+      "issue": "changes singular noun to plural",
+      "spanishSpan": "sus pecados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036003020"
+      ],
+      "issue": "changes singular noun to plural",
+      "spanishSpan": "sus iniquidades"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

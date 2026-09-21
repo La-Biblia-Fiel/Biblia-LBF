@@ -1,0 +1,641 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 26,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "passed": [
+    3,
+    4,
+    7,
+    20,
+    21
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el principio del reinado de Joaquín, hijo de Josías, rey de Judá, esta palabra vino de parte del SEÑOR, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026001012"
+          ],
+          "issue": "SEÑOR substitutes title for licensed proper name form Jehová of יהוה",
+          "spanishSpan": "del SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el SEÑOR: Anda y estación en la plaza de la casa del SEÑOR, y di a todas las ciudades de Judá que vienen a adorar en la casa del SEÑOR, todo lo que te he mandado decirles; no te apartes de palabra alguna.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026002004"
+          ],
+          "issue": "imperative עֲמֹד rendered as 'estación' (wrong lexeme and form); adds unlicensed 'Anda'",
+          "spanishSpan": "Anda y estación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026002005"
+          ],
+          "issue": "חֲצַר rendered as 'plaza' (adds concept not licensed by noun common construct)",
+          "spanishSpan": "plaza"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para escuchar las palabras de mis siervos los profetas a quienes yo os envío, levantándome y enviándolos, y no escucháis.",
+      "notes": "also tense mismatch on final verb (perfect vs present)",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026005008",
+            "h24026005009"
+          ],
+          "issue": "reverses participant direction: Hebrew 'I sending to you' rendered as 'to whom I send you'",
+          "spanishSpan": "a quienes yo os envío"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026005009",
+            "h24026005013"
+          ],
+          "issue": "uses Spain vosotros forms (os, escucháis) instead of Latin American ustedes",
+          "spanishSpan": "os envío ... escucháis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026005010",
+            "h24026005011"
+          ],
+          "issue": "renders infinitive absolutes as 'levantándome y enviándolos' adding reflexive and object not licensed",
+          "spanishSpan": "levantándome y enviándolos"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y pondré este casa como Shiloh y esta ciudad daré por maldición a todas las naciones de la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026006003",
+            "h24026006004"
+          ],
+          "issue": "mismatches gender of demonstrative and noun (masc. bayit + zeh rendered with fem. casa)",
+          "spanishSpan": "este casa"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando Jeremías hubo acabado de hablar a todo lo que Jehová le había mandado hablar a todo el pueblo, los sacerdotes y los profetas y todo el pueblo le tomaron, diciendo: Morirás.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026008004",
+            "h24026008005",
+            "h24026008006",
+            "h24026008007",
+            "h24026008010",
+            "h24026008011",
+            "h24026008012",
+            "h24026008013"
+          ],
+          "issue": "Spanish inserts misplaced preposition 'a' and produces ungrammatical/ambiguous clause 'hablar a todo lo que ... hablar a todo el pueblo' that does not match the two לדבר + את כל + אל כל העם structure",
+          "spanishSpan": "hablar a todo lo que Jehová le había mandado hablar a todo el pueblo"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué profetizas en nombre de Jehová, diciendo: Será destruido este templo y esta ciudad será desolada sin habitantes? Y todo el pueblo se reunió a Jeremías en la casa de Jehová.",
+      "notes": "candidate adds 'destruido' and drops k'shilo reference",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026009006",
+            "h24026009007",
+            "h24026009008"
+          ],
+          "issue": "omits 'como Silo' and replaces with 'será destruido'",
+          "spanishSpan": "Será destruido este templo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026009002"
+          ],
+          "issue": "Niphal 2ms rendered without passive/reflexive force licensed by morphology",
+          "spanishSpan": "profetizas"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y oyeron los señores de Judá estas palabras y subieron del palacio real a la casa de Jehová y se sentaron en la puerta del nuevo templo de Jehová.",
+      "notes": "two concept additions not licensed by any token",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026010008",
+            "h24026010009"
+          ],
+          "issue": "בֵּית הַמֶּלֶךְ rendered as 'palacio real' adds 'palacio' concept absent from tokens",
+          "spanishSpan": "palacio real"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026010013",
+            "h24026010014",
+            "h24026010015",
+            "h24026010016"
+          ],
+          "issue": "שַׁעַר יְהוָה הֶחָדָשׁ rendered as 'puerta del nuevo templo de Jehová' adds 'templo' and reassigns 'nuevo' to temple instead of gate",
+          "spanishSpan": "puerta del nuevo templo de Jehová"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los sacerdotes y los profetas dijeron a los señores y a todo el pueblo: Este hombre merece la muerte, porque ha profetizado contra esta ciudad, como han oído con sus oídos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026011020"
+          ],
+          "issue": "2mp verb rendered as 3rd-person plural instead of 2nd-person plural address to the addressees",
+          "spanishSpan": "han oído"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026011010",
+            "h24026011011",
+            "h24026011012",
+            "h24026011013"
+          ],
+          "issue": "adds interpretive 'merece' not licensed by the construct chain mishpat-mavet la'ish hazzeh",
+          "spanishSpan": "merece la muerte"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces Jeremías dijo a todos los señores y a todo el pueblo: Jehová me ha enviado a profetizar contra este templo y contra esta ciudad, conforme a todo lo que han oído.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026012023"
+          ],
+          "issue": "2mp verb rendered as 3pl 'han oído' instead of 2pl address to the addressees",
+          "spanishSpan": "han oído"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026012019",
+            "h24026012020",
+            "h24026012021"
+          ],
+          "issue": "omits direct object 'todas las palabras' and restructures to 'conforme a todo lo que'",
+          "spanishSpan": "conforme a todo lo que"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ahora, pues, enmiendaos en sus caminos y en sus actos, y escuchad la voz de Jehová, su Dios, y Jehová os perdonará el mal que ha hablado contra ustedes.",
+      "notes": "multiple person/verb mismatches plus lexical additions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026013002",
+            "h24026013003",
+            "h24026013004",
+            "h24026013005",
+            "h24026013008"
+          ],
+          "issue": "vosotros imperatives and 3rd-person 'sus' instead of 2mp 'ustedes' forms; suffixes are Sp2mp throughout",
+          "spanishSpan": "enmiendaos en sus caminos ... escuchad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026013002"
+          ],
+          "issue": "הֵיטִ֤יבוּ rendered as 'enmiendaos' (adds repentance/amendment concept not in lemma or hiphil)",
+          "spanishSpan": "enmiendaos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026013009"
+          ],
+          "issue": "וְיִנָּחֵ֣ם (niphal 'relent/be sorry') rendered as 'perdonará' (adds forgive concept)",
+          "spanishSpan": "Jehová os perdonará"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo estoy en sus manos; haced conmigo lo que os parezca bien y justo en sus ojos.",
+      "notes": "vosotros violation per explicit rule",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026014002"
+          ],
+          "issue": "omits demonstrative hinneh (behold/here I am)",
+          "spanishSpan": "Y yo estoy"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026014003",
+            "h24026014004",
+            "h24026014008"
+          ],
+          "issue": "uses Peninsular vosotros forms (haced, os) instead of licensed Latin-American ustedes",
+          "spanishSpan": "haced ... os parezca"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero sabed bien que si me matáis, serán ustedes los que derramáis sangre inocente, y la ciudad y sus habitantes serán responsables, porque Jehová me ha enviado a ustedes en verdad para hablaros conforme a todo lo que han oído.",
+      "notes": "multiple interpretive expansions and omissions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026015010",
+            "h24026015011",
+            "h24026015013",
+            "h24026015014"
+          ],
+          "issue": "replaces 'you put innocent blood upon yourselves' with 'derramáis sangre inocente'",
+          "spanishSpan": "serán ustedes los que derramáis sangre inocente"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026015016",
+            "h24026015017",
+            "h24026015019"
+          ],
+          "issue": "adds 'serán responsables' not licensed by tokens",
+          "spanishSpan": "y la ciudad y sus habitantes serán responsables"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026015025",
+            "h24026015026",
+            "h24026015028",
+            "h24026015029",
+            "h24026015030"
+          ],
+          "issue": "replaces 'to speak in your ears all these words' with 'hablaros conforme a todo lo que han oído'",
+          "spanishSpan": "para hablaros conforme a todo lo que han oído"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces los señores y todo el pueblo dijeron a los sacerdotes y a los profetas: Este hombre no merece la muerte, porque ha hablado en nombre de Jehová, nuestro Dios.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026016012",
+            "h24026016013",
+            "h24026016009",
+            "h24026016010",
+            "h24026016011"
+          ],
+          "issue": "paraphrases 'no judgment of death for this man' as 'no merece la muerte'",
+          "spanishSpan": "Este hombre no merece la muerte"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026016019"
+          ],
+          "issue": "omits the final 'to us' (eleinu)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026016001"
+          ],
+          "issue": "adds 'Entonces' with no token licensing a temporal marker",
+          "spanishSpan": "Entonces"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces se levantaron hombres de los ancianos de la tierra y dijeron a todo el pueblo: Decid, por favor, a todo el pueblo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026017010"
+          ],
+          "issue": "adds imperative command 'Decid, por favor' with no licensing token; לֵאמֹר is only 'saying'",
+          "spanishSpan": "Decid, por favor, a todo el pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026017007",
+            "h24026017008"
+          ],
+          "issue": "collapses קְהַל into 'pueblo' without rendering assembly concept",
+          "spanishSpan": "todo el pueblo"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Micaías de Morastita profetizó en los días de Ezequías, rey de Judá, y dijo a todo el pueblo de Judá: Así ha dicho Jehová de los ejércitos: El campo de Sión será un desierto, y Jerusalén una ruina, y el monte del templo un bosque.",
+      "notes": "multiple semantic alterations and unlicensed name",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026018001"
+          ],
+          "issue": "adds proper name Micaías not present in any token",
+          "spanishSpan": "Micaías"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026018018",
+            "h24026018019"
+          ],
+          "issue": "reorders and adds 'campo de' instead of 'Sión [como] campo'",
+          "spanishSpan": "El campo de Sión"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026018020"
+          ],
+          "issue": "replaces niphal 'será arada' with 'será un desierto'",
+          "spanishSpan": "será un desierto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026018024",
+            "h24026018025",
+            "h24026018026",
+            "h24026018027"
+          ],
+          "issue": "renders 'monte de la casa' as 'monte del templo' and collapses 'para lugares altos de bosque' into 'un bosque'",
+          "spanishSpan": "el monte del templo un bosque"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cuando murió Ezequías, rey de Judá, ¿no temieron a Jehová? Y él se apiadó de ellos por el mal que había hablado contra ellos, y nosotros estamos haciendo un mal muy grande contra nuestras propias almas.",
+      "notes": "multiple token mismatches at start and middle of verse",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026019001",
+            "h24026019002"
+          ],
+          "issue": "renders hiphil inf abs + perf 3cp as 'Cuando murió' (natural death) instead of 'put him to death/killed him'",
+          "spanishSpan": "Cuando murió Ezequías"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026019009"
+          ],
+          "issue": "changes singular יָרֵא to plural 'temieron'",
+          "spanishSpan": "¿no temieron a Jehová?"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026019012",
+            "h24026019014",
+            "h24026019016"
+          ],
+          "issue": "omits 'entreat the face of YHWH' and replaces with 'se apiadó'",
+          "spanishSpan": "Y él se apiadó de ellos"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el rey Joaquín envió a Egipto a Elneatán hijo de Acbor, con hombres con él, a Egipto.",
+      "notes": "name renderings conventional but structural mismatch on both Egypt tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026022005"
+          ],
+          "issue": "first מִצְרָ֑יִם placed after אֲנָשִׁ֖ים is omitted or relocated; Spanish inserts destination early and duplicates the second אֶל מִצְרָֽיִם",
+          "spanishSpan": "a Egipto ... a Egipto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026022004",
+            "h24026022005"
+          ],
+          "issue": "אֲנָשִׁים מִצְרָ֑יִם treated as unspecified men rather than men linked to the first Egypt token",
+          "spanishSpan": "con hombres con él"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y sacaron a Urías de Egipto y lo llevaron al rey Joaquín, y lo golpearon con la espada y arrojaron su cadáver entre los sepulcros de los hombres comunes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026023009",
+            "h24026023011"
+          ],
+          "issue": "morphology 3ms verbs rendered as 3mp (golpearon, arrojaron)",
+          "spanishSpan": "y lo golpearon ... y arrojaron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026023016",
+            "h24026023017"
+          ],
+          "issue": "adds interpretive 'comunes' not licensed by בְּנֵי הָעָם",
+          "spanishSpan": "hombres comunes"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero la mano de Aquicam, hijo de Safán, fue con Jeremías para que no lo entregara a la gente para que lo mataran.",
+      "notes": "name forms Aquicam/Safán acceptable; core mismatch is syntactic restructuring of negative purpose + hiphil infinitive",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026024009",
+            "h24026024010",
+            "h24026024012",
+            "h24026024013",
+            "h24026024014"
+          ],
+          "issue": "restructures לְבִלְתִּי תֵּת ... בְיַד הָעָם לַהֲמִיתוֹ into separate finite clauses with added singular subject for entregar and plural for mataran, altering participants and purpose attachment",
+          "spanishSpan": "para que no lo entregara a la gente para que lo mataran"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24026024001"
+          ],
+          "issue": "renders אַךְ as contrastive 'Pero' which adds nuance not licensed by the affirmation particle alone",
+          "spanishSpan": "Pero"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T02:47:16.501196+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 24,
+    "verses": 24,
+    "input": 62262,
+    "cachedInput": 18688,
+    "output": 3803,
+    "reasoning": 25146,
+    "usd": 0.2702,
+    "byProvider": {
+      "xai": {
+        "calls": 24,
+        "input": 62262,
+        "output": 3803,
+        "reasoning": 25146,
+        "usd": 0.2702
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 24,
+        "input": 62262,
+        "output": 3803,
+        "reasoning": 25146,
+        "usd": 0.2702
+      }
+    },
+    "usdPerVerse": 0.0113,
+    "bibleAtThisRate": 350.0,
+    "book": "jeremias",
+    "chapter": 26
+  }
+}

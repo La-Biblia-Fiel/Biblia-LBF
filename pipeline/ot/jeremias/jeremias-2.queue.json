@@ -1,0 +1,1122 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 2,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "passed": [
+    19
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vino a mí la palabra del Señor diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002001003"
+          ],
+          "issue": "YHWH rendered as title 'Señor' instead of conventional Jehová",
+          "spanishSpan": "del Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ve y anuncia en oídos de Jerusalén, diciendo: Así ha dicho el Señor: He recordado tu bondad de tus juventudes, el amor de tus novicias, cuando te seguía en el desierto, en tierra no sembrada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002002008"
+          ],
+          "issue": "replaces יהוה with title 'el Señor' instead of licensed Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002002013",
+            "h24002002014"
+          ],
+          "issue": "renders אַהֲבַת כְּלוּלֹתָיִךְ as 'el amor de tus novicias' (adds interpretive 'novice bride' concept not licensed by lemma 3623)",
+          "spanishSpan": "el amor de tus novicias"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Santidad de Israel para el Señor, primicia de su fruto. Todo el que la come será avergonzado; mal se le vendrá sobre ellos, dice el Señor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002003006",
+            "h24002003007",
+            "h24002003008"
+          ],
+          "issue": "plural אכליו + יאשמו rendered as singular 'Todo el que la come será avergonzado'",
+          "spanishSpan": "Todo el que la come será avergonzado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002003012",
+            "h24002003013"
+          ],
+          "issue": "נאם יהוה rendered as 'dice el Señor' instead of declaration/utterance of YHWH",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002003008"
+          ],
+          "issue": "יאשמו (be guilty) rendered as 'avergonzado'",
+          "spanishSpan": "será avergonzado"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Oíd palabra del Señor, casa de Jacob, y todas las tribus de Israel.",
+      "notes": "multiple lexical and register mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002004003"
+          ],
+          "issue": "יהוה rendered as title 'Señor' instead of Jehová",
+          "spanishSpan": "Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002004007"
+          ],
+          "issue": "מִשְׁפְּחוֹת rendered as 'tribus' instead of families/clans",
+          "spanishSpan": "tribus"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002004008",
+            "h24002004009"
+          ],
+          "issue": "omits בֵּית before יִשְׂרָאֵל",
+          "spanishSpan": "de Israel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002004001"
+          ],
+          "issue": "vosotros imperative 'Oíd' instead of Latin-American ustedes form",
+          "spanishSpan": "Oíd"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el Señor: ¿Qué hallaron vuestros padres en mí de iniquidad, que se apartaron de mí y anduvieron tras vanidad y se volvieron vanos?",
+      "notes": "multiple token violations",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002005003"
+          ],
+          "issue": "replaces proper name יהוה with title 'Señor' not licensed by tokens",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002005006"
+          ],
+          "issue": "uses Peninsular 'vuestros' (vosotros) instead of Latin-American 'sus'/'de ustedes' for 2mp suffix",
+          "spanishSpan": "vuestros padres"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿No dijeron vuestros padres: Dónde está el SEÑOR, que nos sacó de la tierra de Egipto, que nos llevó por el desierto, por tierra árida y desolada, por tierra seca y deshabitada, por tierra donde no había pasado hombre ni habitado ser humano?",
+      "notes": "also interpretive expansions on land descriptions not licensed by lemmas",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002006001",
+            "h24002006002"
+          ],
+          "issue": "adds 'vuestros padres' absent from tokens",
+          "spanishSpan": "vuestros padres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002006001",
+            "h24002006002"
+          ],
+          "issue": "uses vosotros form 'vuestros' instead of ustedes",
+          "spanishSpan": "vuestros"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los sacerdotes no dijeron: ¿Dónde está el SEÑOR? Y los que guardan la ley no conocieronme. Y los pastores pecaron contra mí. Y los profetas profetizaron por Baal y lo que no aprovecha anduvieron tras ello.",
+      "notes": "minor grammatical inversion in 'conocieronme' is smoothing only",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002008006",
+            "h24002008007"
+          ],
+          "issue": "תֹפְשֵׂי rendered as 'los que guardan' (adds 'guard/keep' sense absent from lemma 8610)",
+          "spanishSpan": "los que guardan la ley"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002008005"
+          ],
+          "issue": "YHWH rendered as title 'SEÑOR' instead of conventional proper name",
+          "spanishSpan": "el SEÑOR"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque pasaron por las islas de los Quitas y vieron, y por Quedé enviaron y miraron con diligencia, y vieron que así era.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002010002",
+            "h24002010005",
+            "h24002010007",
+            "h24002010008",
+            "h24002010010"
+          ],
+          "issue": "renders 2mp qal/r imperatives as 3rd-person past indicative narrative",
+          "spanishSpan": "pasaron ... vieron ... enviaron ... miraron ... vieron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002010003",
+            "h24002010004"
+          ],
+          "issue": "changes construct 'coasts of Kittim' to 'islas de los Quitas'",
+          "spanishSpan": "las islas de los Quitas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso hace un pueblo a dioses, y son ellos dioses? ¿Acaso cambia mi pueblo el honor de Dios por lo que no aprovecha?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002011001"
+          ],
+          "issue": "verb rendered as 'hace' (make) instead of exchange/change",
+          "spanishSpan": "hace un pueblo a dioses"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002011009"
+          ],
+          "issue": "adds 'de Dios' not licensed by כבודו",
+          "spanishSpan": "el honor de Dios"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mirad al cielo y ved, y haced montes de pelillos, dice el SEÑOR.",
+      "notes": "none of the licensed tokens support the Spanish rendering",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002012001",
+            "h24002012002",
+            "h24002012004"
+          ],
+          "issue": "reverses addressee and command; Hebrew imperatives direct heavens to be appalled at this, Spanish commands addressees to look at heavens",
+          "spanishSpan": "Mirad al cielo y ved"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002012005",
+            "h24002012006",
+            "h24002012007"
+          ],
+          "issue": "adds nonexistent concept 'haced montes de pelillos'; omits licensed commands to shudder and be very desolate",
+          "spanishSpan": "y haced montes de pelillos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002012008",
+            "h24002012009"
+          ],
+          "issue": "replaces 'declaración de YHWH' with 'dice el SEÑOR'",
+          "spanishSpan": "dice el SEÑOR"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque dos cosas malas ha hecho mi pueblo: me han abandonado, fuente de aguas vivas, para cavar pozos quebrados, que no pueden contener agua.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002013018",
+            "h24002013019"
+          ],
+          "issue": "subject of יָכִלוּ changed from הַמָּיִם to the cisterns",
+          "spanishSpan": "que no pueden contener agua"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso el siervo nacido en casa es igual al siervo comprado con dinero? ¿Por qué, pues, es tratado como cosa vil?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002014002"
+          ],
+          "issue": "omits Israel as the subject of the question",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002014003",
+            "h24002014004",
+            "h24002014005",
+            "h24002014006"
+          ],
+          "issue": "adds comparison to purchased servant and equality not present in tokens",
+          "spanishSpan": "es igual al siervo comprado con dinero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002014009"
+          ],
+          "issue": "renders לבז as 'cosa vil' instead of spoil/plunder",
+          "spanishSpan": "tratado como cosa vil"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Contra él rugirán los leones, darán voces, y han puesto su tierra en desolación, sus ciudades han quedado desiertas, sin habitantes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002015004",
+            "h24002015005"
+          ],
+          "issue": "renders perfect נָתְנ֖וּ קוֹלָ֑ם as future darán voces, aligning it with the preceding imperfect instead of preserving the perfect aspect",
+          "spanishSpan": "darán voces"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "También los hijos de Nof y de Tahpanés te pastorearán a la cabeza.",
+      "notes": "packet only licenses בְּנֵי נֹ֖ף",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002016003"
+          ],
+          "issue": "adds 'y de Tahpanés' with no corresponding token in packet",
+          "spanishSpan": "y de Tahpanés"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso no te ha hecho esto por abandonar al SEÑOR tu Dios en el tiempo que te llevaba por el camino?",
+      "notes": "2fs suffixes correctly rendered with 'te/tu'; SEÑOR conventional per packet",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002017003",
+            "h24002017004"
+          ],
+          "issue": "reverses subject/object of תַּעֲשֶׂה לָּךְ; Spanish makes 'esto' the agent acting on 'te'",
+          "spanishSpan": "te ha hecho esto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002017005"
+          ],
+          "issue": "construes infinitive construct as causal 'por' rather than appositional specification of זֹאת",
+          "spanishSpan": "por abandonar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002017003"
+          ],
+          "issue": "renders qal imperfect as perfect 'ha hecho'",
+          "spanishSpan": "ha hecho"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Y ahora, qué tienes que ver con el camino de Egipto para beber agua del Nilo, o qué tienes que ver con el camino de Asiria para beber agua del río?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002018008"
+          ],
+          "issue": "renders proper name שִׁחוֹר as interpretive geographic 'Nilo'",
+          "spanishSpan": "del Nilo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002018007",
+            "h24002018014"
+          ],
+          "issue": "changes plural מֵי to singular 'agua'",
+          "spanishSpan": "agua"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque desde antiguo te rompí el yugo y te quité las cadenas, y tú dijiste: No serviré. Por cada monte alto y cada árbol frondoso, tú te has convertido en una mujer prostituta.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002020018",
+            "h24002020019",
+            "h24002020020"
+          ],
+          "issue": "adds 'te has convertido en' (change of state) and 'mujer' not licensed by the two Qal active participles",
+          "spanishSpan": "tú te has convertido en una mujer prostituta"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo te planté como un plantío de higos, todo él fruto de verdad. ¿Y cómo te has convertido para conmigo en plantío de viñas extranjeras?",
+      "notes": "major lexical mismatch on vine term",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002021003"
+          ],
+          "issue": "שֹׂרֵק rendered as 'higos' (figs); lemma is choice vine, not figs",
+          "spanishSpan": "plantío de higos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002021005"
+          ],
+          "issue": "זֶרַע rendered as 'fruto' (fruit); lemma is seed",
+          "spanishSpan": "fruto de verdad"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Aunque te laves con nitrato y te multiplies con polvo, tu iniquidad aún está delante de mí, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002022008"
+          ],
+          "issue": "omits niphal participle נִכְתָּם (stained/marked)",
+          "spanishSpan": "aún está"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002022007"
+          ],
+          "issue": "renders בֹּרִית as polvo (not licensed by lemma)",
+          "spanishSpan": "con polvo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002022005",
+            "h24002022006"
+          ],
+          "issue": "renders hiphil תַרְבִּי־לָךְ inaccurately as te multiplies",
+          "spanishSpan": "te multiplies"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002022008"
+          ],
+          "issue": "inserts aún not present in any token",
+          "spanishSpan": "aún está"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Cómo puedes decir: No me he contaminado, no he ido tras los baalim? Mira tu camino en el valle; ¿qué has hecho? Tú eres una mujer fácil, que sigue tus caminos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002023015",
+            "h24002023016",
+            "h24002023017",
+            "h24002023018"
+          ],
+          "issue": "replaces בִּכְרָה קַלָּה מְשָׂרֶכֶת דְּרָכֶיהָ with interpretive non-token concept 'mujer fácil, que sigue tus caminos'",
+          "spanishSpan": "Tú eres una mujer fácil, que sigue tus caminos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Un león rugirá en el desierto, y un leopardo en las montañas. El león y el leopardo no se cansarán, ni los jóvenes de ellos, en tu tierra desierta.",
+      "notes": "candidate text bears no relation to supplied tokens for Jer 2:24",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002024001"
+          ],
+          "issue": "Spanish introduces 'león' and 'leopardo' with no licensing token; first token is פֶּרֶה (wild donkey)",
+          "spanishSpan": "Un león ... y un leopardo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002024003",
+            "h24002024005",
+            "h24002024006"
+          ],
+          "issue": "Spanish adds 'rugirá', 'montañas', 'se cansarán', 'jóvenes', 'tierra desierta' absent from tokens",
+          "spanishSpan": "rugirá en el desierto ... en las montañas ... no se cansarán, ni los jóvenes ... en tu tierra desierta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002024002",
+            "h24002024004",
+            "h24002024007",
+            "h24002024009",
+            "h24002024011",
+            "h24002024013",
+            "h24002024015"
+          ],
+          "issue": "Spanish omits all construct phrases, qal/hiphil verbs, suffixes, and negative structure licensed by tokens",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Detén tus pies de la hora de la tarde, y tu fornicación de la noche; y no digas: No hay esperanza, porque amé a los extranjeros y tras ellos he ido.",
+      "notes": "candidate bears no relation to the supplied tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002025001",
+            "h24002025002",
+            "h24002025003"
+          ],
+          "issue": "renders 'withhold your foot from being bare' as 'Detén tus pies de la hora de la tarde'",
+          "spanishSpan": "Detén tus pies de la hora de la tarde"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002025004"
+          ],
+          "issue": "renders 'from thirst' as 'tu fornicación de la noche'",
+          "spanishSpan": "y tu fornicación de la noche"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002025005",
+            "h24002025006",
+            "h24002025007"
+          ],
+          "issue": "renders 'and you said, It is hopeless' as imperative 'y no digas: No hay esperanza'",
+          "spanishSpan": "y no digas: No hay esperanza"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La vergüenza del ladrón es cuando se le encuentra; así ha sido la vergüenza de la casa de Israel, porque sus reyes, sus príncipes, sus sacerdotes y sus profetas han sido ladrones.",
+      "notes": "major semantic shift not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002026006"
+          ],
+          "issue": "Spanish replaces 'they have been ashamed' with 'han sido ladrones' and adds 'porque'",
+          "spanishSpan": "porque sus reyes... han sido ladrones"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002026005",
+            "h24002026006",
+            "h24002026007"
+          ],
+          "issue": "Spanish alters 'so the house of Israel has been ashamed' to 'así ha sido la vergüenza de la casa de Israel'",
+          "spanishSpan": "así ha sido la vergüenza de la casa de Israel"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Dicen a la madera: Eres mi padre; y a la piedra: Eres mi madre. ¿Acaso se vuelven a mí la espalda y no la cara? En el tiempo de su calamidad dicen: Levántate y salva a nosotros.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002027005",
+            "h24002027006"
+          ],
+          "issue": "adds 'mi madre' concept with no corresponding lemma or surface in tokens",
+          "spanishSpan": "Eres mi madre"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Y dónde están tus dioses que hiciste para ti? Cuando te afligen, ¿salvarán a ti? Porque el número de tus ciudades es el número de tus dioses, Judá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002028006"
+          ],
+          "issue": "replaces יקומו (let them arise) with están",
+          "spanishSpan": "están"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002028009",
+            "h24002028010"
+          ],
+          "issue": "renders בְּעֵת רָעָתֶךָ as Cuando te afligen (introduces gods as subject of affliction)",
+          "spanishSpan": "Cuando te afligen"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué te rebelas contra mí, oh toda tú? Toda tú has pecado contra mí, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002029002",
+            "h24002029004",
+            "h24002029005"
+          ],
+          "issue": "changes 2mp verbs and 2mp suffix to singular tú/te/toda tú",
+          "spanishSpan": "te rebelas ... toda tú ... has pecado"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Golpeé en vano a vuestros hijos; no aceptaron corrección. Vuestros profetas comieron a la espada como león devorador.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002030008",
+            "h24002030009",
+            "h24002030010"
+          ],
+          "issue": "subject/object reversal: sword ate prophets, not prophets ate sword",
+          "spanishSpan": "Vuestros profetas comieron a la espada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002030004",
+            "h24002030009",
+            "h24002030010"
+          ],
+          "issue": "vosotros/vuestros form instead of Latin American ustedes/sus",
+          "spanishSpan": "vuestros hijos; Vuestros profetas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Es este vuestro pueblo, oh generación, que ha visto la palabra del SEÑOR? ¿Fui para con Israel como desierto, o como tierra de tinieblas? ¿Por qué dice mi pueblo: No volveremos a ti?",
+      "notes": "multiple structural and lexical mismatches in first clause alone",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002031001",
+            "h24002031002",
+            "h24002031003",
+            "h24002031004",
+            "h24002031005"
+          ],
+          "issue": "restructures opening address and imperative into unrelated question about 'vuestro pueblo' and changes 'see!' to 'has seen'",
+          "spanishSpan": "¿Es este vuestro pueblo, oh generación, que ha visto la palabra del SEÑOR?"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002031015"
+          ],
+          "issue": "omits the 'we have roamed/wandered' clause entirely",
+          "spanishSpan": "No volveremos a ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002031002"
+          ],
+          "issue": "uses vosotros form 'vuestro' instead of licensed ustedes address",
+          "spanishSpan": "vuestro"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Olvidará la virgen su joya? ¿Olvidará la novia sus alianzas? ¿Pero mi pueblo olvidará a mí días sin número?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002032007"
+          ],
+          "issue": "third verb changed from qal perfect 3cp to future imperfect",
+          "spanishSpan": "olvidará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002032001",
+            "h24002032007"
+          ],
+          "issue": "third clause made interrogative when Hebrew has no interrogative particle",
+          "spanishSpan": "¿Pero mi pueblo olvidará"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 33,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Cómo te beneficiarás buscando amor? Por eso he aprendido tus caminos, incluso los malos.",
+      "notes": "first clause roughly tracks tokens 1-5; second clause does not",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002033006",
+            "h24002033007",
+            "h24002033008",
+            "h24002033009",
+            "h24002033010",
+            "h24002033011"
+          ],
+          "issue": "adds 'he aprendido' with no token support; misrenders גם הרעות את דרכיך as 'incluso los malos' after a fabricated verb",
+          "spanishSpan": "he aprendido tus caminos, incluso los malos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "También en tus alas he encontrado sangre de almas pobres e inocentes. No la encontré en un hoyo, sino que estaba sobre todas estas cosas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002034003",
+            "h24002034010"
+          ],
+          "issue": "Spanish renders both verbs as 1cs 'he encontrado'/'encontré' instead of Niphal 3cp passive + 2fs 'you (f) found them'",
+          "spanishSpan": "he encontrado... No la encontré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002034009"
+          ],
+          "issue": "מחתרת rendered as 'hoyo' (hole) instead of burglary/breaking-in",
+          "spanishSpan": "en un hoyo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 35,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijiste: Estoy limpia, pero su ira se ha vuelto contra mí. Ahora juzgaré a tu causa, porque dijiste: No he pecado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002035010"
+          ],
+          "issue": "adds 'causa' when direct object is 2fs 'you'",
+          "spanishSpan": "a tu causa"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002035007"
+          ],
+          "issue": "renders 'from me' as 'contra mí'",
+          "spanishSpan": "contra mí"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 36,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Cómo te burlarás mucho para cambiar tu camino? También te avergonzarás de Egipto como te avergonzaste de Asiria.",
+      "notes": "first clause mismatches lemma and surface sense",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002036002"
+          ],
+          "issue": "lemma H235 (אָזַל) rendered as burlarás (mock/will jest), which adds an unlicensed concept",
+          "spanishSpan": "te burlarás"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 37,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "También de aquí te sacaré, y tus manos estarán sobre tu cabeza, porque el SEÑOR ha rechazado tu confianza, y no prosperarás con ellos.",
+      "notes": "verbless clause smoothing on hands/head is warn-level only",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002037011"
+          ],
+          "issue": "plural noun (mivtakhekh) rendered as singular 'confianza'",
+          "spanishSpan": "tu confianza"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los llevé a la tierra de Carmel para que comieran sus frutos y sus buenas cosas, pero ustedes os contaminasteis la tierra y mi heredad la hicisteis abominación.",
+      "notes": "additional minor mixing of vos/ustedes forms present but secondary to the above",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002007002"
+          ],
+          "issue": "2mp suffix rendered as 3rd-person 'los' instead of 2nd-person addressee",
+          "spanishSpan": "los llevé"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002007012"
+          ],
+          "issue": "possessive suffix 1cs omitted; 'mi tierra' required",
+          "spanishSpan": "la tierra"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, aún contendré con ustedes, dice el SEÑOR, y con sus hijos contendré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002009008",
+            "h24002009009"
+          ],
+          "issue": "omits construct chain בְּנֵי בְנֵיכֶם (sons of your sons); renders only as sus hijos",
+          "spanishSpan": "y con sus hijos contendré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24002009006"
+          ],
+          "issue": "YHWH rendered SEÑOR instead of Jehová",
+          "spanishSpan": "dice el SEÑOR"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "updated": "2026-09-20T01:28:11.033887+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 37,
+    "verses": 37,
+    "input": 82211,
+    "cachedInput": 12736,
+    "output": 5914,
+    "reasoning": 33047,
+    "usd": 0.3791,
+    "byProvider": {
+      "xai": {
+        "calls": 37,
+        "input": 82211,
+        "output": 5914,
+        "reasoning": 33047,
+        "usd": 0.3791
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 37,
+        "input": 82211,
+        "output": 5914,
+        "reasoning": 33047,
+        "usd": 0.3791
+      }
+    },
+    "usdPerVerse": 0.0102,
+    "bibleAtThisRate": 319.0,
+    "book": "jeremias",
+    "chapter": 2
+  }
+}

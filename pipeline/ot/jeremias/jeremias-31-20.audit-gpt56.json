@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:20",
+  "chapter": 31,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Es un hijo amado para mí, Efraín, o un niño consentido? Porque cuanto hablo con él, recuerdo que soy recordado por él. Por eso mi entraña se revuelve por él; tendré misericordia de él, dice SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031020012",
+        "h24031020013"
+      ],
+      "issue": "inverts subject of remembering and adds un-licensed reciprocal clause",
+      "spanishSpan": "recuerdo que soy recordado por él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031020006",
+        "h24031020007"
+      ],
+      "issue": "renders construct phrase as specialized 'niño consentido' adding interpretive nuance not in tokens",
+      "spanishSpan": "niño consentido"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24031020022",
+        "h24031020023"
+      ],
+      "issue": "uses 'dice SEÑOR' instead of 'declaración de Jehová'",
+      "spanishSpan": "dice SEÑOR"
+    }
+  ],
+  "notes": "major semantic reversal on the זכר clause",
+  "discardedUncitedFindings": 0
+}

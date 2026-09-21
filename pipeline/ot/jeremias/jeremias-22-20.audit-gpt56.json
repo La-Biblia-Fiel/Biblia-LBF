@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:20",
+  "chapter": 22,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Sube a Líbano y clama, y en Basán haz sonar tu voz, y clama desde el otro lado del mar, porque se han quebrantado todos tus amantes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022020008"
+      ],
+      "issue": "renders proper noun מעברים (Abarim) as interpretive phrase 'desde el otro lado del mar' adding 'del mar' absent from tokens",
+      "spanishSpan": "desde el otro lado del mar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

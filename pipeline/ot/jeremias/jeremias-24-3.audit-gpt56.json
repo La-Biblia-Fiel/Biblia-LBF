@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 24:3",
+  "chapter": 24,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces el Señor me dijo: ¿Qué ves, Jeremías? Y yo dije: Higos. El Señor me respondió: Los buenos higos son muy buenos, y los malos higos son muy malos, que no se pueden comer por su maldad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024003001"
+      ],
+      "issue": "added 'Entonces' with no corresponding token",
+      "spanishSpan": "Entonces"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024003002"
+      ],
+      "issue": "rendered יהוה as 'Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024003010",
+        "h24024003011",
+        "h24024003014",
+        "h24024003015"
+      ],
+      "issue": "split single divine speech into two turns with added 'me respondió'",
+      "spanishSpan": "El Señor me respondió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024003017",
+        "h24024003018",
+        "h24024003019",
+        "h24024003020"
+      ],
+      "issue": "rendered relative clause as 'por su maldad' (adds 'su' and interpretive 'wickedness' concept)",
+      "spanishSpan": "por su maldad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

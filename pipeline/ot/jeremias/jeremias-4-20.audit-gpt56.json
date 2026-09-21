@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:20",
+  "chapter": 4,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Fragmento sobre fragmento se ha llamado, porque toda la tierra ha sido devastada. De repente se han derrumbado mis tiendas, y en un instante se han desvanecido mis cortinas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004020010",
+        "h24004020012",
+        "h24004020013"
+      ],
+      "issue": "Spanish supplies two distinct verbs (derrumbado, desvanecido) and an action 'vanished' where tokens license only one verb shuddedu applying to both tents and curtains, with rega' only marking the moment",
+      "spanishSpan": "se han derrumbado mis tiendas, y en un instante se han desvanecido mis cortinas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004020001",
+        "h24004020003"
+      ],
+      "issue": "Spanish 'fragmento' adds a specific sense of broken piece not licensed by lemma 7667 (shever = destruction/breach)",
+      "spanishSpan": "Fragmento sobre fragmento"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

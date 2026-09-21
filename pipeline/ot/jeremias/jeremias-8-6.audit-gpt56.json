@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:6",
+  "chapter": 8,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Escuché, pero no hablan así; no hay quien se arrepienta de su maldad, diciendo: ¿Qué he hecho? Todos marchan con firmeza, como un caballo en la batalla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008006015",
+        "h24008006017",
+        "h24008006018"
+      ],
+      "issue": "Spanish adds 'marchan con firmeza' (march steadfastly) not licensed by שָׁב + שׁוֹטֵף + בַּמִּלְחָמָה",
+      "spanishSpan": "Todos marchan con firmeza, como un caballo en la batalla"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

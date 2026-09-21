@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:43",
+  "chapter": 32,
+  "verse": 43,
+  "candidateLabel": "gpt56",
+  "spanish": "Comprarán el campo en esta tierra que dicen que es desolada, sin gente y sin bestias, entregada en manos de los caldeos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032043001"
+      ],
+      "issue": "niphal 3ms passive/impersonal 'it shall be bought' rendered as active 3pl 'comprarán'",
+      "spanishSpan": "Comprarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032043006",
+        "h24032043007"
+      ],
+      "issue": "2mp 'you are saying' rendered as impersonal 'dicen'",
+      "spanishSpan": "que dicen"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

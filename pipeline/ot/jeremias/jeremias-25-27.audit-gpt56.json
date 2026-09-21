@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:27",
+  "chapter": 25,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás a ellos: Así ha dicho el Señor de los ejércitos, el Dios de Israel: Bebed y embriagaos, y caed, no os levantéis de la espada que yo enviaré entre ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025027005"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025027011"
+      ],
+      "issue": "omitted vomit command licensed by the qal imperative",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025027015",
+        "h24025027016"
+      ],
+      "issue": "restructured attachment of 'de la espada' to the negative verb, altering the licensed sequence",
+      "spanishSpan": "no os levantéis de la espada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

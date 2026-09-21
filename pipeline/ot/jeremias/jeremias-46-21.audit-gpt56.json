@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:21",
+  "chapter": 46,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "También los mercaderes de tu interior, como bueyes de ruedas, porque también ellos se volvieron, huyeron juntos, no se quedaron, porque el día de su calamidad vino sobre ellos, la hora de su pago.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046021002",
+        "h24046021003"
+      ],
+      "issue": "mercaderes de tu interior mismatches שְׂכִרֶיהָ בְקִרְבָּהּ (her hired men in her midst); adds merchant sense and changes 3fs suffix to 2ms tu",
+      "spanishSpan": "los mercaderes de tu interior"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046021004",
+        "h24046021005"
+      ],
+      "issue": "como bueyes de ruedas mismatches כְּעֶגְלֵי מַרְבֵּק (like calves of the stall); introduces oxen and wheels absent from tokens",
+      "spanishSpan": "como bueyes de ruedas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046021020"
+      ],
+      "issue": "la hora de su pago resolves פְּקֻדָּתָם (time of their visitation/punishment) as payment, adding unlicenced concept",
+      "spanishSpan": "la hora de su pago"
+    }
+  ],
+  "notes": "multiple lexical and suffix mismatches at start of verse",
+  "discardedUncitedFindings": 0
+}

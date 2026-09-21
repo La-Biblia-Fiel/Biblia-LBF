@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:18",
+  "chapter": 46,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Vivo yo, dice el Señor de los ejércitos, su nombre es: Como Tabor entre los montes, y como Carmel en el mar viene.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046018004"
+      ],
+      "issue": "omits licensed concept 'the king'",
+      "spanishSpan": "dice el Señor de los ejércitos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046018005"
+      ],
+      "issue": "renders יהוה as Señor instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046018003",
+        "h24046018007"
+      ],
+      "issue": "restructures נְאֻם ... שְׁמוֹ into 'dice ... su nombre es' adding interpretive verb and altering syntax",
+      "spanishSpan": "dice el Señor de los ejércitos, su nombre es"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

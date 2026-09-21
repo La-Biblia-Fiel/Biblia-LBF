@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:18",
+  "chapter": 50,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, así dice el Señor de los ejércitos, el Dios de Israel: He aquí que castigaré a Babilonia y a su tierra, como castigué a Asiria.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050018011",
+        "h24050018018"
+      ],
+      "issue": "omits מֶלֶךְ (king of) for both Babylon and Assyria",
+      "spanishSpan": "a Babilonia ... a Asiria"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050018004"
+      ],
+      "issue": "renders יהוה as Señor instead of Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

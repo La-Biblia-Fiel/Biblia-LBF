@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:16",
+  "chapter": 23,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor de los ejércitos: No les escuchen cuando profetizan en vana. Estos engañan a mi pueblo, hablando de lo que imaginan en su corazón, no de lo que el Señor ha dicho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023016003",
+        "h24023016020"
+      ],
+      "issue": "replaces יהוה proper name with Señor",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023016012",
+        "h24023016013",
+        "h24023016014"
+      ],
+      "issue": "adds 'a mi pueblo' and rephrases hiphil participle as 'engañan'",
+      "spanishSpan": "Estos engañan a mi pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023016005",
+        "h24023016006",
+        "h24023016007",
+        "h24023016008",
+        "h24023016009",
+        "h24023016010",
+        "h24023016011"
+      ],
+      "issue": "restructures 'do not listen to the words of the prophets prophesying to you' into 'No les escuchen cuando profetizan en vana'",
+      "spanishSpan": "No les escuchen cuando profetizan en vana"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023016015",
+        "h24023016016"
+      ],
+      "issue": "renders חזון לבם as 'lo que imaginan en su corazón'",
+      "spanishSpan": "hablando de lo que imaginan en su corazón"
+    }
+  ],
+  "notes": "multiple concept additions/omissions and name substitution",
+  "discardedUncitedFindings": 0
+}

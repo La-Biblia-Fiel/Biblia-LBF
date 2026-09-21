@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:16",
+  "chapter": 26,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces los señores y todo el pueblo dijeron a los sacerdotes y a los profetas: Este hombre no merece la muerte, porque ha hablado en nombre de Jehová, nuestro Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026016012",
+        "h24026016013",
+        "h24026016009",
+        "h24026016010",
+        "h24026016011"
+      ],
+      "issue": "paraphrases 'no judgment of death for this man' as 'no merece la muerte'",
+      "spanishSpan": "Este hombre no merece la muerte"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026016019"
+      ],
+      "issue": "omits the final 'to us' (eleinu)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026016001"
+      ],
+      "issue": "adds 'Entonces' with no token licensing a temporal marker",
+      "spanishSpan": "Entonces"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

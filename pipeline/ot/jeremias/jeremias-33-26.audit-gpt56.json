@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:26",
+  "chapter": 33,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Tampoco despreciaré a la descendencia de Jacob y a David, mi siervo, para no tomar de su linaje gobernantes; a la descendencia de Abraham, Isaac y Jacob volveré a traerlos de cautiverio y los tendré en misericordia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033026017",
+        "h24033026018"
+      ],
+      "issue": "adds 'volveré a traerlos de cautiverio' (restoration verb) not licensed by tokens",
+      "spanishSpan": "volveré a traerlos de cautiverio"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033026001"
+      ],
+      "issue": "introduces 'Tampoco' (neither/nor) not licensed by גַּם",
+      "spanishSpan": "Tampoco"
+    }
+  ],
+  "notes": "Spanish expands the object שְׁבוּתָם into an untokenized action",
+  "discardedUncitedFindings": 0
+}

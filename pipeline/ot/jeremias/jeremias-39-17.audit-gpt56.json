@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:17",
+  "chapter": 39,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y te salvaré en aquel día, dice Jehová, y no caerás en manos de los hombres a quienes temes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039017007"
+      ],
+      "issue": "Spanish replaces niphal of נתן 'be given' with unrelated verb 'caerás'",
+      "spanishSpan": "no caerás"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

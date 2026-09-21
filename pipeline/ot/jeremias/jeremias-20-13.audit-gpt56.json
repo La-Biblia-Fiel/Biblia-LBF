@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:13",
+  "chapter": 20,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Cantad al SEÑOR, alabad al SEÑOR, porque ha librado al pobre de la mano de los malvados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020013001",
+        "h24020013003"
+      ],
+      "issue": "uses vosotros imperative forms (cantad, alabad) instead of Latin-American ustedes",
+      "spanishSpan": "Cantad, alabad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020013002",
+        "h24020013005"
+      ],
+      "issue": "renders יהוה as SEÑOR instead of Jehová",
+      "spanishSpan": "SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020013009",
+        "h24020013010"
+      ],
+      "issue": "omits נפש concept; renders only 'al pobre' instead of 'la vida del necesitado'",
+      "spanishSpan": "al pobre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

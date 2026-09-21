@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:15",
+  "chapter": 34,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ustedes hoy han vuelto y han hecho lo recto delante de mí, para proclamar libertad a cada uno a su hermano y a cada uno a su vecino, y han hecho un pacto delante de mí en la casa que se llama por mi nombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034015011"
+      ],
+      "issue": "adds 'hermano' (brother) not present in tokens; Hebrew only has 'a su vecino' from לְרֵעֵ֑הוּ",
+      "spanishSpan": "a cada uno a su hermano y a cada uno a su vecino"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

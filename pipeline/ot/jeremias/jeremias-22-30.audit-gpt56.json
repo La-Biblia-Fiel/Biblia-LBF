@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:30",
+  "chapter": 22,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová: Escribe al hombre este: estéril, varón que no prosperará en mis días, porque de su descendencia no prosperará ningún hombre que se siente en el trono de David y reine en Judá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022030012"
+      ],
+      "issue": "person mismatch: 3ms suffix 'his days' rendered as 'mis días' (1cs)",
+      "spanishSpan": "en mis días"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022030004"
+      ],
+      "issue": "number mismatch: 2mp imperative rendered as 2s 'Escribe'",
+      "spanishSpan": "Escribe"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

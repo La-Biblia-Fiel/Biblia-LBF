@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:58",
+  "chapter": 51,
+  "verse": 58,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor de los ejércitos: Las murallas de Babilonia son amplias, pero serán derribadas; sus puertas serán quemadas por el fuego, y los pueblos lucharán en vano, y las naciones se fatigarán; no resistirán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051058003"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051058007",
+        "h24051058008",
+        "h24051058009"
+      ],
+      "issue": "restructures חֹמוֹת בָּבֶל הָרְחָבָה עַרְעֵר תִּתְעַרְעָר as separate statement 'son amplias, pero serán derribadas' with added 'pero'",
+      "spanishSpan": "son amplias, pero serán derribadas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051058011"
+      ],
+      "issue": "omits 'altas' from puertas",
+      "spanishSpan": "sus puertas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051058014",
+        "h24051058015",
+        "h24051058016",
+        "h24051058017",
+        "h24051058018",
+        "h24051058019",
+        "h24051058020",
+        "h24051058021"
+      ],
+      "issue": "replaces יגעו/יעפו with 'lucharán' and adds 'no resistirán' not present in tokens",
+      "spanishSpan": "lucharán en vano... no resistirán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

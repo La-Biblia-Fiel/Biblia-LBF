@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:25",
+  "chapter": 6,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "No salgáis al campo ni andéis por el camino, porque espada hay para el enemigo y tribulación en todas partes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006025001",
+        "h24006025004"
+      ],
+      "issue": "vosotros imperative forms (salgáis, andéis) used instead of Latin-American ustedes",
+      "spanishSpan": "No salgáis ... ni andéis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006025002",
+        "h24006025003"
+      ],
+      "issue": "adds explicit motion verbs (salgáis, andéis) not present in the tokens",
+      "spanishSpan": "salgáis al campo ... andéis por el camino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006025008"
+      ],
+      "issue": "magor rendered as tribulación instead of terror/miedo",
+      "spanishSpan": "tribulación"
+    }
+  ],
+  "notes": "multiple mismatches with tokens",
+  "discardedUncitedFindings": 0
+}

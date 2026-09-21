@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:24",
+  "chapter": 22,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Vivo yo, dice el SEÑOR, si no hay un selo en la mano derecha de Jehoiakim, rey de Judá, Kanías hijo de, porque de allí te llevaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022024007",
+        "h24022024008",
+        "h24022024009",
+        "h24022024010",
+        "h24022024011",
+        "h24022024012",
+        "h24022024013",
+        "h24022024014",
+        "h24022024015",
+        "h24022024016"
+      ],
+      "issue": "restructures clause and attributes seal to Jehoiakim instead of Coniah being the seal on the speaker's hand",
+      "spanishSpan": "si no hay un selo en la mano derecha de Jehoiakim, rey de Judá, Kanías hijo de"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022024019"
+      ],
+      "issue": "wrong verb sense: 'llevaré' for tearing/pulling off",
+      "spanishSpan": "de allí te llevaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022024006",
+        "h24022024007"
+      ],
+      "issue": "inserts negation 'no hay' not present in conditional",
+      "spanishSpan": "si no hay"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

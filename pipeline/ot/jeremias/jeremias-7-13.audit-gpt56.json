@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:13",
+  "chapter": 7,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora, por hacer ustedes todas estas obras, dice el SEÑOR, hablé yo a ustedes, levanté mi voz, pero no me escuchasteis; llamé a ustedes, pero no me respondisteis.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007013012",
+        "h24007013013"
+      ],
+      "issue": "adds 'levanté mi voz' not licensed by the infinitive absolutes",
+      "spanishSpan": "levanté mi voz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007013008",
+        "h24007013009"
+      ],
+      "issue": "renders נאם יהוה as 'dice el SEÑOR' adding speech verb absent from tokens",
+      "spanishSpan": "dice el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007013015",
+        "h24007013019"
+      ],
+      "issue": "uses vosotros preterite forms (escuchasteis, respondisteis) instead of Latin-American ustedes",
+      "spanishSpan": "escuchasteis; respondisteis"
+    }
+  ],
+  "notes": "multiple additions and wrong verbal variety",
+  "discardedUncitedFindings": 0
+}

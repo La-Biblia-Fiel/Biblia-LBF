@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:17",
+  "chapter": 46,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Allí llaman a Faraón, rey de Egipto, Seón, que ha pasado el tiempo de la festividad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046017006"
+      ],
+      "issue": "common noun שָׁאוֹן rendered as proper name Seón",
+      "spanishSpan": "Seón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046017007",
+        "h24046017008"
+      ],
+      "issue": "restructures הֶעֱבִיר הַמּוֹעֵד into relative clause with different participants and meaning",
+      "spanishSpan": "que ha pasado el tiempo de la festividad"
+    }
+  ],
+  "notes": "Spanish introduces unlicensed name and alters verb structure/participants",
+  "discardedUncitedFindings": 0
+}

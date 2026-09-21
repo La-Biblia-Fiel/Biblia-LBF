@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:15",
+  "chapter": 48,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Moab será saqueado, y sus ciudades subirán. Y sus jóvenes irán al matadero. Dice el rey Jehová de los ejércitos, su nombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048015001",
+        "h24048015004",
+        "h24048015007"
+      ],
+      "issue": "perfect verbs rendered as future tense",
+      "spanishSpan": "será saqueado, subirán, irán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048015004"
+      ],
+      "issue": "3ms verb assigned to feminine plural subject",
+      "spanishSpan": "sus ciudades subirán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048015009"
+      ],
+      "issue": "adds 'dice' not licensed by נְאֻם construct",
+      "spanishSpan": "Dice el rey"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

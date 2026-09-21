@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:18",
+  "chapter": 49,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Como la destrucción de Sodoma y Gomorra y sus alrededores, dice Jehová, no habitará allí ningún hombre, ni se establecerá allí ningún hijo de hombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049018004"
+      ],
+      "issue": "alrededores renders neighbors as surroundings/environs, adding a spatial concept not in the token",
+      "spanishSpan": "y sus alrededores"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:31",
+  "chapter": 5,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Los profetas han profetizado mentiras, y los sacerdotes han consentido en sus manos; y el pueblo ama a los que hablan así. ¿Qué harán al final?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005031005",
+        "h24005031006",
+        "h24005031007"
+      ],
+      "issue": "יִרְדּוּ עַל יְדֵיהֶם rendered as 'han consentido en sus manos' (wrong verb and added concept)",
+      "spanishSpan": "han consentido en sus manos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005031008"
+      ],
+      "issue": "וְעַמִּי (my people) rendered as 'el pueblo' (omits 1cs suffix)",
+      "spanishSpan": "el pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005031009",
+        "h24005031010"
+      ],
+      "issue": "אָהֲבוּ כֵן rendered as 'ama a los que hablan así' (adds interpretive phrase not in tokens)",
+      "spanishSpan": "ama a los que hablan así"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005031012"
+      ],
+      "issue": "תַּעֲשׂוּ (2mp 'you will do') rendered as 'harán' (3pl)",
+      "spanishSpan": "harán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:27",
+  "chapter": 31,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que días vienen, oráculo del SEÑOR, y sembraré a casa de Israel y a casa de Judá semilla de hombre y semilla de bestia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031027005"
+      ],
+      "issue": "YHWH rendered SEÑOR instead of required Jehová",
+      "spanishSpan": "SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

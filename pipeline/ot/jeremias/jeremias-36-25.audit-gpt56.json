@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:25",
+  "chapter": 36,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Y también a Elneatán y a Delajahu y a Gemarjahu se les dio orden de no quemar la hoja, pero no le hicieron caso.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036025005",
+        "h24036025006",
+        "h24036025007",
+        "h24036025008"
+      ],
+      "issue": "reverses participants and action: Hebrew has the three men interceding with the king not to burn; Spanish says an order was given to the three",
+      "spanishSpan": "se les dio orden de no quemar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036025012",
+        "h24036025013"
+      ],
+      "issue": "wrong subject for 'not listen': Hebrew has the king not listening to them; Spanish has the three not heeding",
+      "spanishSpan": "pero no le hicieron caso"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24036025010"
+      ],
+      "issue": "megillah rendered as 'hoja' (leaf) instead of scroll/roll",
+      "spanishSpan": "la hoja"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

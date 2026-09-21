@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:16",
+  "chapter": 8,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Desde Dan se ha oído el ruido de los caballos de vuestros enemigos, y el estruendo de los potentes de vuestros enemigos; tiembla toda la tierra; y han venido y han devorado la tierra y todo lo que está en ella, la ciudad y los que habitan en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008016004",
+        "h24008016007"
+      ],
+      "issue": "introduces 'de vuestros enemigos' (enemies) absent from tokens; 3ms suffixes rendered as 2pl 'vuestros'",
+      "spanishSpan": "de vuestros enemigos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008016004",
+        "h24008016007"
+      ],
+      "issue": "uses peninsular 'vuestros' instead of Latin American 'sus' or 'de ustedes'",
+      "spanishSpan": "vuestros enemigos"
+    }
+  ],
+  "notes": "multiple unlicensed additions and variety mismatch",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:12",
+  "chapter": 39,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Tómalo y ponle los ojos sobre él, y no le hagas ningún mal, porque si él te habla, así haz con él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039012011",
+        "h24039012012",
+        "h24039012014"
+      ],
+      "issue": "renders כַּאֲשֶׁר...כֵּן as conditional 'si' instead of 'as...so'",
+      "spanishSpan": "si él te habla, así haz"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

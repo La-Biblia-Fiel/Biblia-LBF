@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:9",
+  "chapter": 23,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Para los profetas se ha roto mi corazón en el interior, todas mis costillas se han deshecho; estoy como un borracho y como un hombre que ha bebido demasiado vino, por causa de Jehová y por causa de sus palabras santas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023009005",
+        "h24023009007"
+      ],
+      "issue": "רָחֲפוּ rendered as 'se han deshecho' and עַצְמוֹתַי rendered as 'costillas' instead of bones that trembled/shook",
+      "spanishSpan": "todas mis costillas se han deshecho"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023009012"
+      ],
+      "issue": "עֲבָרוֹ יָיִן rendered with added 'demasiado' and 'ha bebido' instead of wine having passed over the man",
+      "spanishSpan": "que ha bebido demasiado vino"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

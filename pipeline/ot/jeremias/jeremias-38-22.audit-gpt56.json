@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:22",
+  "chapter": 38,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y he aquí que todas las mujeres que quedan en la casa del rey de Judá serán sacadas a los capitanes del rey de Babilonia y dirán: Te han engañado y tus amigos te han vencido; tus pies se hundirán en el barro y retrocederás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038022021",
+        "h24038022024",
+        "h24038022025"
+      ],
+      "issue": "tense and person shift: Hebrew perfect 3cp (הָטְבְּעוּ, נָסֹגוּ) rendered as future 2ms; subject changed from 3cp to 2ms",
+      "spanishSpan": "tus pies se hundirán en el barro y retrocederás"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038022016",
+        "h24038022017",
+        "h24038022021",
+        "h24038022024"
+      ],
+      "issue": "inconsistent tense rendering of perfect verbs in reported speech (some perfect, some future)",
+      "spanishSpan": "Te han engañado ... se hundirán ... retrocederás"
+    }
+  ],
+  "notes": "person/tense mismatch on final clause",
+  "discardedUncitedFindings": 0
+}

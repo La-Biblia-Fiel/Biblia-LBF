@@ -1,0 +1,527 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 34,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "passed": [
+    2,
+    6,
+    11,
+    20,
+    21
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra que vino a Jeremías del Señor, cuando Nabucodonosor, rey de Babilonia, y todo su ejército, con todos los reinos de la tierra bajo su dominio, y todos los pueblos de la tierra, estaban en guerra contra Jerusalén y contra todas las ciudades de Judá, diciendo:",
+      "notes": "two clear additions/omissions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034001007"
+          ],
+          "issue": "YHWH rendered as Señor instead of licensed conventional Jehová",
+          "spanishSpan": "del Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034001025"
+          ],
+          "issue": "adds 'de Judá' not present in tokens; עָרֶיהָ refers to Jerusalem's cities only",
+          "spanishSpan": "ciudades de Judá"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tú no escaparás de su mano, porque tú serás preso y entregado en sus manos, y tus ojos verán los ojos del rey de Babilonia, y tu boca hablará con su boca, y serás llevado a Babilonia.’",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034003021"
+          ],
+          "issue": "replaces qal 2ms 'come/enter' with passive 'serás llevado'",
+          "spanishSpan": "y serás llevado a Babilonia"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sin embargo, escucha la palabra del Señor, Zedequías, rey de Judá: ‘Así dice el Señor acerca de ti: No morirás por la espada.’",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034004004",
+            "h24034004010"
+          ],
+          "issue": "YHWH rendered as 'Señor' instead of licensed conventional 'Jehová'",
+          "spanishSpan": "del Señor ... el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Morirás en paz, y como se quemaron tus padres, los reyes que te precedieron, así serán quemados a ti, y lamentarán tu muerte, porque yo he hablado la palabra, oráculo del Señor.",
+      "notes": "multiple interpretive additions and name rendering",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034005003",
+            "h24034005004"
+          ],
+          "issue": "replaces מִשְׂרְפ֣וֹת אֲבוֹתֶיךָ with 'se quemaron tus padres' (fathers burned) instead of preserving 'burnings of your fathers'",
+          "spanishSpan": "como se quemaron tus padres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034005015",
+            "h24034005016"
+          ],
+          "issue": "adds 'tu muerte' not present in יִסְפְּדוּ לָךְ",
+          "spanishSpan": "lamentarán tu muerte"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034005022"
+          ],
+          "issue": "renders יְהוָה as 'Señor' instead of conventional Jehová",
+          "spanishSpan": "oráculo del Señor"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el ejército del rey de Babilonia estaba en guerra contra Jerusalén y contra todas las ciudades de Judá que quedaban, hasta Lachis y Azeca, porque estas ciudades de Judá quedaban sitiadas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034007018",
+            "h24034007021",
+            "h24034007022"
+          ],
+          "issue": "adds 'sitiadas' (besieged) to the causal clause; tokens only license 'these remained [as] fortified cities'",
+          "spanishSpan": "porque estas ciudades de Judá quedaban sitiadas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034007012",
+            "h24034007013",
+            "h24034007014",
+            "h24034007015"
+          ],
+          "issue": "renders אֶל לָכִישׁ וְאֶל עֲזֵקָה as 'hasta Lachis y Azeca' (extent), omitting the direct 'against' targets licensed by the prepositions",
+          "spanishSpan": "hasta Lachis y Azeca"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra que vino a Jeremías del Señor, después que el rey Zedequías había hecho un pacto con todo el pueblo de Jerusalén para proclamar libertad a sus siervos y siervas hebreos.",
+      "notes": "also 'había hecho' for כרת is smoothing",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034008019",
+            "h24034008020"
+          ],
+          "issue": "adds 'a sus siervos y siervas hebreos' not licensed by tokens",
+          "spanishSpan": "a sus siervos y siervas hebreos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034008007"
+          ],
+          "issue": "Señor instead of conventional Jehová for יהוה",
+          "spanishSpan": "del Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034008015",
+            "h24034008016",
+            "h24034008017"
+          ],
+          "issue": "pueblo de Jerusalén resolves relative clause אשר בירושלם",
+          "spanishSpan": "pueblo de Jerusalén"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para dejar ir cada uno a su siervo y a su sierva hebreos, tanto varones como mujeres, libres, para que ya no los esclavizaran; que cada uno de los judíos libere a su hermano.",
+      "notes": "structure and final phrase altered beyond token license",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034009014",
+            "h24034009015",
+            "h24034009016"
+          ],
+          "issue": "adds new clause and verb 'libere' not licensed by tokens; rephrases final phrase into separate command",
+          "spanishSpan": "que cada uno de los judíos libere a su hermano"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034009008",
+            "h24034009009"
+          ],
+          "issue": "inserts explicit 'tanto varones como mujeres' not required by the gentilic tokens",
+          "spanishSpan": "tanto varones como mujeres"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todos los líderes y el pueblo que habían entrado en el pacto para liberar a sus siervos y siervas hebreos, tanto varones como mujeres, los dejaron ir libres, para que ya no los esclavizaran; y los dejaron ir.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034010012",
+            "h24034010015"
+          ],
+          "issue": "adds 'hebreos' not present in any token",
+          "spanishSpan": "hebreos"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vino la palabra del Señor a Jeremías, del Señor, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034012003",
+            "h24034012007"
+          ],
+          "issue": "YHWH rendered as title 'Señor' instead of licensed conventional name Jehová",
+          "spanishSpan": "del Señor"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el Señor, el Dios de Israel: Yo hice un pacto con sus padres en el día que los saqué de la tierra de Egipto, de la casa de esclavitud, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034013003"
+          ],
+          "issue": "replaces יהוה with 'el Señor' instead of licensed 'Jehová'",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Al cabo de siete años, cada uno de ustedes liberará a su hermano hebreo que ha vendido a otro, y lo servirá seis años, y luego lo dejará ir libre. Pero sus padres no me escucharon, ni inclinaron el oído.",
+      "notes": "multiple participant and voice mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034014010",
+            "h24034014011"
+          ],
+          "issue": "reverses niphal passive 'sold to you' into active 'ha vendido a otro'",
+          "spanishSpan": "que ha vendido a otro"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034014012",
+            "h24034014015",
+            "h24034014017"
+          ],
+          "issue": "changes 2ms 'you' suffixes to 3rd-person referents",
+          "spanishSpan": "lo servirá ... lo dejará ir"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034014020"
+          ],
+          "issue": "renders 2mp 'your fathers' as 3rd-person 'sus padres'",
+          "spanishSpan": "sus padres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034014004",
+            "h24034014015"
+          ],
+          "issue": "2mp address rendered with inconsistent 3s verbs after 'cada uno'",
+          "spanishSpan": "cada uno de ustedes liberará ... lo dejará"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ustedes hoy han vuelto y han hecho lo recto delante de mí, para proclamar libertad a cada uno a su hermano y a cada uno a su vecino, y han hecho un pacto delante de mí en la casa que se llama por mi nombre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034015011"
+          ],
+          "issue": "adds 'hermano' (brother) not present in tokens; Hebrew only has 'a su vecino' from לְרֵעֵ֑הוּ",
+          "spanishSpan": "a cada uno a su hermano y a cada uno a su vecino"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y han vuelto y han profanado mi nombre, y han devuelto a cada uno a su siervo y a cada uno a su sierva que habíais liberado libremente, y los han esclavizado de nuevo para que fueran sus siervos y siervas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034016001",
+            "h24034016002",
+            "h24034016005",
+            "h24034016013",
+            "h24034016016",
+            "h24034016019"
+          ],
+          "issue": "2mp verbs rendered as 3rd-person han (participant shift)",
+          "spanishSpan": "han vuelto y han profanado ... han devuelto ... han esclavizado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034016019",
+            "h24034016020",
+            "h24034016021"
+          ],
+          "issue": "לָכֶם rendered as sus instead of for you",
+          "spanishSpan": "sus siervos y siervas"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, dice el Señor: No han escuchadome para proclamar libertad a cada uno a su hermano y a cada uno a su vecino. He aquí que yo os proclamo libertad a ustedes, a la espada, a la peste y a la hambruna, y os entregaré en manos de todas las naciones de la tierra.",
+      "notes": "multiple token mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034017004"
+          ],
+          "issue": "replaces יְהוָה with title 'Señor' not licensed by token",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034017005",
+            "h24034017007"
+          ],
+          "issue": "shifts 2mp subject 'ustedes no me escucharon' to 3pl 'No han escuchadome'",
+          "spanishSpan": "No han escuchadome"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034017017",
+            "h24034017028"
+          ],
+          "issue": "uses vosotros form 'os' instead of ustedes",
+          "spanishSpan": "os proclamo"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y entregaré a los hombres que han pasado por el pacto que yo hice, y que no han cumplido las palabras del pacto que hicieron delante de mí, al toro que han partido por la mitad y han pasado por entre sus partes.",
+      "notes": "structure also collapses the two relative clauses on the covenant",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034018006",
+            "h24034018013",
+            "h24034018014",
+            "h24034018015"
+          ],
+          "issue": "attributes covenant-making to 'yo' (que yo hice); tokens have בְּרִתִי and relative clause 'which they cut before me'",
+          "spanishSpan": "el pacto que yo hice"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034018004",
+            "h24034018006"
+          ],
+          "issue": "renders הָעֹבְרִים אֶת־בְּרִתִי as 'han pasado por el pacto que yo hice' instead of preserving 'my covenant'",
+          "spanishSpan": "han pasado por el pacto que yo hice"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los líderes de Judá y de Jerusalén, los eunucos, los sacerdotes y todo el pueblo de la tierra, que han pasado por entre las partes del toro.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034019013"
+          ],
+          "issue": "replaces lemma עֵגֶל (calf) with toro (bull)",
+          "spanishSpan": "del toro"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí, os mando, dice el SEÑOR, y os haré volver a esta ciudad, y lucharán contra ella y la tomarán y la quemarán con fuego, y haré que las ciudades de Judá sean desolación sin habitantes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034022005"
+          ],
+          "issue": "changes 3mp suffix to 2pl addressee (os haré volver)",
+          "spanishSpan": "os haré volver"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034022004"
+          ],
+          "issue": "יהוה rendered as SEÑOR instead of Jehová",
+          "spanishSpan": "el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24034022001",
+            "h24034022002"
+          ],
+          "issue": "adds explicit 2pl object (os mando) not present in tokens",
+          "spanishSpan": "os mando"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:44:08.858207+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 22,
+    "verses": 22,
+    "input": 59617,
+    "cachedInput": 19008,
+    "output": 2856,
+    "reasoning": 19720,
+    "usd": 0.2262,
+    "byProvider": {
+      "xai": {
+        "calls": 22,
+        "input": 59617,
+        "output": 2856,
+        "reasoning": 19720,
+        "usd": 0.2262
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 22,
+        "input": 59617,
+        "output": 2856,
+        "reasoning": 19720,
+        "usd": 0.2262
+      }
+    },
+    "usdPerVerse": 0.0103,
+    "bibleAtThisRate": 320.0,
+    "book": "jeremias",
+    "chapter": 34
+  }
+}

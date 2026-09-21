@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:28",
+  "chapter": 44,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los que escapen de la espada volverán de tierra de Egipto a tierra de Judá en número contado, y sabrá todo el resto de Judá que vino a tierra de Egipto para habitar allí, de quién se levantará de mí y de ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044028020"
+      ],
+      "issue": "omits licensed concept דְּבַר (word/matter of) and alters clause structure",
+      "spanishSpan": "de quién se levantará de mí y de ellos"
+    }
+  ],
+  "notes": "remainder of rendering stays within token bounds",
+  "discardedUncitedFindings": 0
+}

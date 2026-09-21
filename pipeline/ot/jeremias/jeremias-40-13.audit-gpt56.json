@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:13",
+  "chapter": 40,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jonatán hijo de Keret y todos los jefes de los ejércitos que estaban en el campo, vinieron a Gedalía el escriba.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040013001"
+      ],
+      "issue": "proper name rendered as Jonatán instead of the lemma H3110 referent",
+      "spanishSpan": "Jonatán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040013003"
+      ],
+      "issue": "proper name rendered as Keret instead of lemma H7143 referent",
+      "spanishSpan": "Keret"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040013011",
+        "h24040013012"
+      ],
+      "issue": "adds 'el escriba' absent from tokens; final token is the place Mizpah (H4708), not a title or role",
+      "spanishSpan": "el escriba"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

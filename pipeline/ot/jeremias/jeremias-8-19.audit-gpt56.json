@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:19",
+  "chapter": 8,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí el grito de la hija de mi pueblo desde una tierra lejana: ¿Dónde está el SEÑOR, su rey? ¿Por qué me han irritado con sus ídolos y vanidades extranjeras?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008019008",
+        "h24008019009",
+        "h24008019010",
+        "h24008019011",
+        "h24008019012",
+        "h24008019013",
+        "h24008019014"
+      ],
+      "issue": "merges two separate negative questions, omits Zion, and alters structure/participants into single 'dónde está' question",
+      "spanishSpan": "¿Dónde está el SEÑOR, su rey?"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008019002",
+        "h24008019003"
+      ],
+      "issue": "renders קול שועת as single noun 'grito', omitting construct 'voice of the cry'",
+      "spanishSpan": "el grito"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

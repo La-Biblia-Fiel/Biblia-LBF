@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:63",
+  "chapter": 51,
+  "verse": 63,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando hayas terminado de leer este libro, atarás una piedra a él y lo arrojarás en el río Euphrates.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051063013"
+      ],
+      "issue": "adds 'río' not present in tokens",
+      "spanishSpan": "el río Euphrates"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

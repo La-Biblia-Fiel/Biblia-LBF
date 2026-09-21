@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:2",
+  "chapter": 23,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, así ha dicho Jehová, el Dios de Israel, acerca de los pastores que pastorean mi pueblo: ustedes los han dispersado y los han echado, y no los han cuidado; he aquí que yo os cuidaré con el cuidado de sus malos pastores, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023002020",
+        "h24023002021",
+        "h24023002022",
+        "h24023002023",
+        "h24023002024",
+        "h24023002025"
+      ],
+      "issue": "Spanish inverts the meaning and adds concepts: Hebrew is 'I am visiting upon you the evil of your deeds'; Spanish renders as 'yo os cuidaré con el cuidado de sus malos pastores'",
+      "spanishSpan": "he aquí que yo os cuidaré con el cuidado de sus malos pastores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023002012"
+      ],
+      "issue": "uses 'os' (vosotros form) instead of consistent ustedes address for 2mp",
+      "spanishSpan": "yo os cuidaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

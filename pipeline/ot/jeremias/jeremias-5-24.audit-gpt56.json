@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:24",
+  "chapter": 5,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no dijeron en sus corazones: Temamos al SEÑOR, nuestro Dios, que nos da la lluvia, la primavera y el otoño en su tiempo, y guarda las semanas de la cosecha.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005024010",
+        "h24005024011"
+      ],
+      "issue": "adds primavera y otoño; tokens only license rain and latter rain",
+      "spanishSpan": "la primavera y el otoño"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

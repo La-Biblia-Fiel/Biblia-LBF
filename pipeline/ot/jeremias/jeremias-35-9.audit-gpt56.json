@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:9",
+  "chapter": 35,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no edificaréis casas para habitar, ni tendréis viña ni campo ni semilla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035009004",
+        "h24035009010"
+      ],
+      "issue": "changes 1cp suffixes (our / to us) to 2pl address (edificaréis / tendréis)",
+      "spanishSpan": "edificaréis ... tendréis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035009002",
+        "h24035009009"
+      ],
+      "issue": "renders infinitive + imperfect as finite future verbs, altering construction",
+      "spanishSpan": "edificaréis ... tendréis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

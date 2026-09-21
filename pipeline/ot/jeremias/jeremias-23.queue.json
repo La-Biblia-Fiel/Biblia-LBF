@@ -1,0 +1,1031 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 23,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "passed": [
+    1,
+    3,
+    4,
+    5,
+    7,
+    8,
+    13
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, así ha dicho Jehová, el Dios de Israel, acerca de los pastores que pastorean mi pueblo: ustedes los han dispersado y los han echado, y no los han cuidado; he aquí que yo os cuidaré con el cuidado de sus malos pastores, dice Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023002020",
+            "h24023002021",
+            "h24023002022",
+            "h24023002023",
+            "h24023002024",
+            "h24023002025"
+          ],
+          "issue": "Spanish inverts the meaning and adds concepts: Hebrew is 'I am visiting upon you the evil of your deeds'; Spanish renders as 'yo os cuidaré con el cuidado de sus malos pastores'",
+          "spanishSpan": "he aquí que yo os cuidaré con el cuidado de sus malos pastores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023002012"
+          ],
+          "issue": "uses 'os' (vosotros form) instead of consistent ustedes address for 2mp",
+          "spanishSpan": "yo os cuidaré"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En sus días será salvo Judá, y a Israel habitará seguro; y este será su nombre con que le llamarán: Jehová Nuestro Justicia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023006004"
+          ],
+          "issue": "adds unlicensed preposition 'a' before Israel",
+          "spanishSpan": "y a Israel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023006012"
+          ],
+          "issue": "gender mismatch on 'nuestro' for feminine צִדְקֵנוּ",
+          "spanishSpan": "Nuestro Justicia"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para los profetas se ha roto mi corazón en el interior, todas mis costillas se han deshecho; estoy como un borracho y como un hombre que ha bebido demasiado vino, por causa de Jehová y por causa de sus palabras santas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023009005",
+            "h24023009007"
+          ],
+          "issue": "רָחֲפוּ rendered as 'se han deshecho' and עַצְמוֹתַי rendered as 'costillas' instead of bones that trembled/shook",
+          "spanishSpan": "todas mis costillas se han deshecho"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023009012"
+          ],
+          "issue": "עֲבָרוֹ יָיִן rendered with added 'demasiado' and 'ha bebido' instead of wine having passed over the man",
+          "spanishSpan": "que ha bebido demasiado vino"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque los adúlteros llenan la tierra, por causa de la maldición, la tierra está de luto; se secaron los oasis del desierto, y su camino es malo, y su poder no es tal.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023010011",
+            "h24023010012"
+          ],
+          "issue": "נְאוֹת מִדְבָּר rendered as 'oasis del desierto' adds specialized concept not licensed by lemma 4999",
+          "spanishSpan": "los oasis del desierto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023010014"
+          ],
+          "issue": "מְרֽוּצָתָם (running/course) rendered as 'camino' changes the noun concept",
+          "spanishSpan": "su camino"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque también el profeta y el sacerdote son adúlteros; también en mi casa he encontrado su maldad, dice Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023011006"
+          ],
+          "issue": "חנפו (qal pf 3cp, lemma 2610) rendered as 'son adúlteros'; adds adultery concept absent from lemma/morph",
+          "spanishSpan": "son adúlteros"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, su camino será como el de los que se deslizan en la oscuridad; caerán en él, porque traeré sobre ellos el mal, el año de su castigo, dice Jehová.",
+      "notes": "second clause and 'año de su castigo' match tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023012005"
+          ],
+          "issue": "adds 'los que se deslizan' (people who slip) instead of licensed 'like slippery places'",
+          "spanishSpan": "como el de los que se deslizan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023012007"
+          ],
+          "issue": "omits niphal thrust/push; folds action into the added slipping simile",
+          "spanishSpan": "se deslizan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023012003",
+            "h24023012004",
+            "h24023012005",
+            "h24023012006"
+          ],
+          "issue": "paraphrases 'their way to them [will be] like slippery places in darkness' as a comparison to the way of slipping people",
+          "spanishSpan": "su camino será como el de los que se deslizan en la oscuridad"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y en los profetas de Jerusalén vi una cosa insensata: cometen adulterio y andan en mentira, y fortalecen las manos de los malhechores, para que no vuelvan cada uno de su maldad; sean para mí todos como Sodoma y sus vecinos como Gomorra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023014004"
+          ],
+          "issue": "שַׁעֲרוּרָ֗ה rendered as 'cosa insensata' (wrong sense; lemma licenses appalling/horrifying thing)",
+          "spanishSpan": "una cosa insensata"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023014015"
+          ],
+          "issue": "הָֽיוּ (qal perfect 3cp 'they have become') rendered as subjunctive 'sean'",
+          "spanishSpan": "sean"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023014019"
+          ],
+          "issue": "וְיֹשְׁבֶ֖יהָ (its inhabitants) rendered as 'sus vecinos'",
+          "spanishSpan": "sus vecinos"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, así dice el Señor de los ejércitos acerca de los profetas: He aquí que los alimentaré con hierbas amargas y los haré beber agua de riego, porque desde los profetas de Jerusalén ha salido la impiedad a toda la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023015013",
+            "h24023015014"
+          ],
+          "issue": "מֵי רֹאשׁ rendered as 'agua de riego' (irrigation) instead of poison/gall waters",
+          "spanishSpan": "agua de riego"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023015004"
+          ],
+          "issue": "יְהוָה rendered as 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice el Señor de los ejércitos: No les escuchen cuando profetizan en vana. Estos engañan a mi pueblo, hablando de lo que imaginan en su corazón, no de lo que el Señor ha dicho.",
+      "notes": "multiple concept additions/omissions and name substitution",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023016003",
+            "h24023016020"
+          ],
+          "issue": "replaces יהוה proper name with Señor",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023016012",
+            "h24023016013",
+            "h24023016014"
+          ],
+          "issue": "adds 'a mi pueblo' and rephrases hiphil participle as 'engañan'",
+          "spanishSpan": "Estos engañan a mi pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023016005",
+            "h24023016006",
+            "h24023016007",
+            "h24023016008",
+            "h24023016009",
+            "h24023016010",
+            "h24023016011"
+          ],
+          "issue": "restructures 'do not listen to the words of the prophets prophesying to you' into 'No les escuchen cuando profetizan en vana'",
+          "spanishSpan": "No les escuchen cuando profetizan en vana"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023016015",
+            "h24023016016"
+          ],
+          "issue": "renders חזון לבם as 'lo que imaginan en su corazón'",
+          "spanishSpan": "hablando de lo que imaginan en su corazón"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Dicen a los que los desprecian: El Señor dice paz a ustedes. Pero todo el que anda en la rebeldía de su corazón dice: No vendrá sobre ustedes ningún mal.",
+      "notes": "participant shift and name rendering violate tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023017003"
+          ],
+          "issue": "changes 1cs suffix 'my despisers' to third-person plural reference 'los que los desprecian'",
+          "spanishSpan": "a los que los desprecian"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023017005"
+          ],
+          "issue": "uses 'El Señor' instead of conventional Jehová for יהוה",
+          "spanishSpan": "El Señor"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque ¿quién ha estado en el consejo del Señor para ver y oír sus palabras? ¿Quién ha escuchado y oído?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023018006",
+            "h24023018007"
+          ],
+          "issue": "renders jussive וְיֵרֶא וְיִשְׁמַע as purpose infinitive 'para ver y oír'",
+          "spanishSpan": "para ver y oír"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023018009"
+          ],
+          "issue": "pluralizes singular דְּבָרוֹ to 'palabras'",
+          "spanishSpan": "sus palabras"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023018011",
+            "h24023018012"
+          ],
+          "issue": "second clause 'Quién ha escuchado y oído' duplicates and reassigns the hearing verbs already rendered in first clause",
+          "spanishSpan": "¿Quién ha escuchado y oído?"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí la ira del Señor, su cólera sale como un vendaval; un huracán se levanta sobre la cabeza de los malvados.",
+      "notes": "multiple additions and name substitutions not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023019002",
+            "h24023019003"
+          ],
+          "issue": "replaces 'storm of YHWH' construct with 'ira del Señor'",
+          "spanishSpan": "la ira del Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023019001",
+            "h24023019004",
+            "h24023019005"
+          ],
+          "issue": "adds unlicensed simile 'sale como un vendaval'",
+          "spanishSpan": "sale como un vendaval"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023019003"
+          ],
+          "issue": "YHWH rendered as Señor instead of conventional Jehová",
+          "spanishSpan": "del Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023019006",
+            "h24023019007",
+            "h24023019011"
+          ],
+          "issue": "restructures and merges the two storm clauses with non-token verbs",
+          "spanishSpan": "un huracán se levanta"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No se apartará la mano del Señor hasta que haya hecho y confirmado su propósito en el corazón. En los últimos días se entenderán bien esto.",
+      "notes": "additional smoothing on 'propósito' and 'esto' also present but secondary",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023020003",
+            "h24023020004"
+          ],
+          "issue": "inserts 'mano' with no token support; אַף יְהוָה is anger of YHWH, not hand",
+          "spanishSpan": "la mano del Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023020013"
+          ],
+          "issue": "changes 2mp verb תִּתְבּוֹנְנוּ to impersonal passive 'se entenderán'",
+          "spanishSpan": "se entenderán bien esto"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No envié a los profetas, pero ellos corrieron. No hablé a ellos, pero ellos profetizaron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023021005",
+            "h24023021010"
+          ],
+          "issue": "וְ rendered as contrastive 'pero' instead of 'y'",
+          "spanishSpan": "pero"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Si se hubieran quedado en mi consejo y hubieran escuchado mis palabras, haría que mi pueblo dejara su mala conducta y su maldad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023022004",
+            "h24023022005",
+            "h24023022006",
+            "h24023022007"
+          ],
+          "issue": "Spanish makes prophets the ones listening instead of causing the people to hear the words",
+          "spanishSpan": "hubieran escuchado mis palabras"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023022008",
+            "h24023022009",
+            "h24023022010",
+            "h24023022011",
+            "h24023022012"
+          ],
+          "issue": "Spanish attributes the turning of the people to the speaker rather than the prophets as agents",
+          "spanishSpan": "haría que mi pueblo dejara"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023022002"
+          ],
+          "issue": "עָמְד֖וּ rendered as 'quedado' instead of standing",
+          "spanishSpan": "se hubieran quedado"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Soy Dios cercano, dice el Señor, y no un Dios lejano?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023023005"
+          ],
+          "issue": "replaces יְהוָה with el Señor instead of Jehová",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023023003"
+          ],
+          "issue": "omits explicit אָנִי (yo) before the predicate",
+          "spanishSpan": "Soy Dios cercano"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023023004"
+          ],
+          "issue": "renders נְאֻם as dice (interpretive verb) instead of declaration/utterance of",
+          "spanishSpan": "dice el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso un hombre puede esconderse en lugares secretos y yo no lo vea? Dice el Señor: ¿Acaso no lleno yo los cielos y la tierra?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023024009",
+            "h24023024018"
+          ],
+          "issue": "uses Señor for יהוה instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023024017",
+            "h24023024018"
+          ],
+          "issue": "omits second נְאֻם יְהוָה entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023024008",
+            "h24023024009"
+          ],
+          "issue": "renders נְאֻם as Dice, adding interpretive verb not licensed by token",
+          "spanishSpan": "Dice el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He oído lo que los profetas que profetizan en mi nombre dicen: Miento, miento.",
+      "notes": "Spanish alters the reported speech content licensed by the tokens.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023025010",
+            "h24023025011"
+          ],
+          "issue": "replaces licensed 'I have dreamed' (twice) with 'I lie' (twice)",
+          "spanishSpan": "Miento, miento"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023025008"
+          ],
+          "issue": "misplaces 'sheqer' into the quoted speech instead of marking the falsehood of the claim",
+          "spanishSpan": "Miento, miento"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Hasta cuándo habrá en el corazón de los profetas profecía de mentira y profetas de vanidad en su corazón?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023026003"
+          ],
+          "issue": "future 'habrá' instead of present 'is there'",
+          "spanishSpan": "habrá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023026006",
+            "h24023026007"
+          ],
+          "issue": "noun 'profecía' instead of Niphal participle 'prophesying'",
+          "spanishSpan": "profecía de mentira"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023026009"
+          ],
+          "issue": "'vanidad' for תַּרְמִת (deceit/treachery)",
+          "spanishSpan": "vanidad"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los que piensan en sus sueños hacer olvidar a mi pueblo mi nombre, como sus padres lo olvidaron con Baal.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023027007",
+            "h24023027008",
+            "h24023027009",
+            "h24023027010"
+          ],
+          "issue": "omits relative clause 'which each recounts to his neighbor'",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023027006"
+          ],
+          "issue": "misplaces 'in their dreams' and attaches it to the participle instead of the infinitive of forgetting",
+          "spanishSpan": "piensan en sus sueños"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El profeta que tiene un sueño, cuente el sueño, y el que tiene mi palabra, hable mi palabra. ¿Qué tiene que ver el trigo con el mostaza, dice el SEÑOR?",
+      "notes": "multiple omissions and unauthorized lexical substitutions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023028003",
+            "h24023028009"
+          ],
+          "issue": "omits both instances of אִתּוֹ (with him)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023028012"
+          ],
+          "issue": "omits אֱמֶת (truth) after my word",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023028014",
+            "h24023028016"
+          ],
+          "issue": "replaces straw + grain with trigo + mostaza (unlicensed referents)",
+          "spanishSpan": "el trigo con el mostaza"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso no es mi palabra como fuego, dice el SEÑOR, y como martillo que rompe la roca?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023029002"
+          ],
+          "issue": "omission of כֹה (thus/so)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, dice el SEÑOR, estoy en contra de los profetas, que roban mis palabras, cada uno de su compañero.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023030006"
+          ],
+          "issue": "YHWH rendered as SEÑOR instead of conventional Jehová",
+          "spanishSpan": "el SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, dice el SEÑOR, estoy en contra de los profetas, que toman la lengua y dicen: “¡Proclamamos!”",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023031001",
+            "h24023031002"
+          ],
+          "issue": "adds 'Por eso' with no corresponding token",
+          "spanishSpan": "Por eso"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023031008",
+            "h24023031009"
+          ],
+          "issue": "renders וַיִּנְאֲמ֖וּ נְאֻם as 'dicen: ¡Proclamamos!' adding 'proclaim' and direct speech not licensed by lemma or morphology",
+          "spanishSpan": "dicen: “¡Proclamamos!”"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, dice el SEÑOR, estoy en contra de los profetas de sueños falsos, que cuentan sus sueños y engañan a mi pueblo con sus mentiras y sus vanidades. No los envié ni los ordené, y no les será de ayuda a este pueblo, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023032001"
+          ],
+          "issue": "adds 'Por eso' (therefore) not licensed by any token",
+          "spanishSpan": "Por eso"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y si el pueblo, o el profeta, o el sacerdote te pregunta: “¿Qué es el mensaje del SEÑOR?”, responderás: “¿Qué mensaje?”, porque yo los abandonaré, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023033004"
+          ],
+          "issue": "omits demonstrative 'este'",
+          "spanishSpan": "el pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023033013",
+            "h24023033014",
+            "h24023033018",
+            "h24023033019"
+          ],
+          "issue": "restructures וְאָמַרְתָּ אֲלֵיהֶם ... וְנָטַשְׁתִּי אֶתְכֶם as causal 'porque yo los abandonaré' instead of content of speech to them; changes 2mp suffix to 3p 'los'",
+          "spanishSpan": "responderás: “¿Qué mensaje?”, porque yo los abandonaré"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El profeta, el sacerdote y el pueblo que digan: “El mensaje del SEÑOR”, yo castigaré al hombre y a su casa.",
+      "notes": "compound subject does not override the singular morphology token",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023034005"
+          ],
+          "issue": "verb number changed from 3ms to 3pl (digan)",
+          "spanishSpan": "que digan"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dirás cada uno a su compañero y cada uno a su hermano: “¿Qué ha respondido el SEÑOR? ¿Qué ha hablado el SEÑOR?”",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023035002"
+          ],
+          "issue": "2mp verb rendered as singular dirás instead of plural dirán/ustedes",
+          "spanishSpan": "dirás"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023035011",
+            "h24023035014"
+          ],
+          "issue": "proper name יהוה rendered as el SEÑOR instead of Jehová",
+          "spanishSpan": "el SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el mensaje del SEÑOR no lo mencionarás más, porque cada uno hablará su propia palabra, y han cambiado las palabras de los vivos Dios, el SEÑOR de los ejércitos, nuestro Dios.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023036011"
+          ],
+          "issue": "2mp verb rendered without 2pl subject or verb form, becoming 3pl",
+          "spanishSpan": "han cambiado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023036009",
+            "h24023036010"
+          ],
+          "issue": "adds 'cada uno hablará su propia palabra' not licensed by tokens",
+          "spanishSpan": "porque cada uno hablará su propia palabra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023036014",
+            "h24023036015"
+          ],
+          "issue": "word order and morphology altered; 'vivos Dios' instead of 'Dioses vivos'",
+          "spanishSpan": "los vivos Dios"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dirás al profeta: “¿Qué ha respondido el SEÑOR? ¿Qué ha hablado el SEÑOR?”",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023037006"
+          ],
+          "issue": "omits 2fs pronominal suffix on עָנָךְ (you, f.)",
+          "spanishSpan": "ha respondido el SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y si dices: “El mensaje del SEÑOR”, entonces dice el SEÑOR: Porque han dicho: “El mensaje del SEÑOR”, yo los envié a decir: “No digan: ‘El mensaje del SEÑOR’.”",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023038004",
+            "h24023038010",
+            "h24023038017",
+            "h24023038020"
+          ],
+          "issue": "2mp forms shifted to 3pl or mixed sg/3pl participants",
+          "spanishSpan": "dices / han dicho / los envié / digan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023038011",
+            "h24023038012",
+            "h24023038013"
+          ],
+          "issue": "omits direct object אֶת־הַדָּבָר הַזֶּה",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, yo los elevaré y los dejaré ir, y también a la ciudad que les di y a sus padres, lejos de mí.",
+      "notes": "first clause mismatches lemmas; remainder of verse aligns",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023039003",
+            "h24023039005"
+          ],
+          "issue": "Spanish 'elevaré' adds 'lift' concept absent from lemmas H5382 (forget) and H5377 (beguile/deceive)",
+          "spanishSpan": "yo los elevaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023039006"
+          ],
+          "issue": "Spanish 'dejaré ir' resolves 'abandon/cast away' (H5203) as permissive release, changing participant action",
+          "spanishSpan": "los dejaré ir"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y pondré sobre ustedes una maldición eterna y un deshonor eterno que no olvidarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023040003",
+            "h24023040004"
+          ],
+          "issue": "חרפה rendered as 'maldición' (adds unlicensed concept)",
+          "spanishSpan": "maldición eterna"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24023040009"
+          ],
+          "issue": "Niphal passive 'no será olvidada' rendered as active 'no olvidarán' (changes voice and participants)",
+          "spanishSpan": "que no olvidarán"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:58:36.280823+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 40,
+    "verses": 40,
+    "input": 93834,
+    "cachedInput": 35136,
+    "output": 5843,
+    "reasoning": 36701,
+    "usd": 0.3902,
+    "byProvider": {
+      "xai": {
+        "calls": 40,
+        "input": 93834,
+        "output": 5843,
+        "reasoning": 36701,
+        "usd": 0.3902
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 40,
+        "input": 93834,
+        "output": 5843,
+        "reasoning": 36701,
+        "usd": 0.3902
+      }
+    },
+    "usdPerVerse": 0.0098,
+    "bibleAtThisRate": 303.0,
+    "book": "jeremias",
+    "chapter": 23
+  }
+}

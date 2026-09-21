@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:1",
+  "chapter": 34,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra que vino a Jeremías del Señor, cuando Nabucodonosor, rey de Babilonia, y todo su ejército, con todos los reinos de la tierra bajo su dominio, y todos los pueblos de la tierra, estaban en guerra contra Jerusalén y contra todas las ciudades de Judá, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034001007"
+      ],
+      "issue": "YHWH rendered as Señor instead of licensed conventional Jehová",
+      "spanishSpan": "del Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034001025"
+      ],
+      "issue": "adds 'de Judá' not present in tokens; עָרֶיהָ refers to Jerusalem's cities only",
+      "spanishSpan": "ciudades de Judá"
+    }
+  ],
+  "notes": "two clear additions/omissions",
+  "discardedUncitedFindings": 0
+}

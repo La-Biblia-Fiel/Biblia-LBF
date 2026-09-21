@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:10",
+  "chapter": 51,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "El Señor saca nuestras justicias. Venid y contemos en Sion las obras del Señor nuestro Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051010005"
+      ],
+      "issue": "vosotros imperative (Venid) instead of Latin American ustedes form",
+      "spanishSpan": "Venid"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051010001"
+      ],
+      "issue": "perfect rendered as present tense (saca)",
+      "spanishSpan": "saca"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051010009"
+      ],
+      "issue": "singular construct noun rendered as plural (obras)",
+      "spanishSpan": "las obras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051010002",
+        "h24051010010"
+      ],
+      "issue": "YHWH rendered as Señor instead of Jehová",
+      "spanishSpan": "El Señor ... Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051010010",
+        "h24051010011"
+      ],
+      "issue": "merges two tokens into single phrase Señor nuestro Dios",
+      "spanishSpan": "Señor nuestro Dios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:56",
+  "chapter": 51,
+  "verse": 56,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque sobre Babilonia viene el saqueador, y los valientes de Egipto serán derrotados; se secará su espada, porque el Señor, el Dios de retribuciones, hará retribuciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051056008"
+      ],
+      "issue": "adds Egipto; tokens have גִּבּוֹרֶיהָ (her mighty ones) referring to Babilonia",
+      "spanishSpan": "de Egipto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051056009",
+        "h24051056010"
+      ],
+      "issue": "invents se secará su espada; tokens have חִתְּתָה קַשְּׁתוֹתָם (shattered their bows)",
+      "spanishSpan": "serán derrotados; se secará su espada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051056007"
+      ],
+      "issue": "renders נִלְכְּדוּ as derrotados (captured → defeated) while also shifting referent",
+      "spanishSpan": "serán derrotados"
+    }
+  ],
+  "notes": "multiple fabrications and referent errors",
+  "discardedUncitedFindings": 0
+}

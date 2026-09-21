@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:10",
+  "chapter": 3,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y también en todo esto no ha vuelto a mí la desviada Judá con todo su corazón, sino que ha sido falsa, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003010007",
+        "h24003010008",
+        "h24003010009"
+      ],
+      "issue": "omits אֲחוֹתָהּ and renders בָּגוֹדָה as 'desviada' instead of preserving 'her sister Judah the treacherous'",
+      "spanishSpan": "la desviada Judá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003010015",
+        "h24003010016"
+      ],
+      "issue": "renders נְאֻם יְהוָה as 'dice el Señor' instead of licensed form with Jehová",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:13",
+  "chapter": 32,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ordené a Barúk ante ellos, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032013004"
+      ],
+      "issue": "omits licensed concept 'eyes' (dual construct with 3mp suffix); 'ante ellos' replaces 'to their eyes' with non-token referent",
+      "spanishSpan": "ante ellos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

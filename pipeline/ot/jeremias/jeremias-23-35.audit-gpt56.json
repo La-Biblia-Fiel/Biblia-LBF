@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:35",
+  "chapter": 23,
+  "verse": 35,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dirás cada uno a su compañero y cada uno a su hermano: “¿Qué ha respondido el SEÑOR? ¿Qué ha hablado el SEÑOR?”",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023035002"
+      ],
+      "issue": "2mp verb rendered as singular dirás instead of plural dirán/ustedes",
+      "spanishSpan": "dirás"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023035011",
+        "h24023035014"
+      ],
+      "issue": "proper name יהוה rendered as el SEÑOR instead of Jehová",
+      "spanishSpan": "el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

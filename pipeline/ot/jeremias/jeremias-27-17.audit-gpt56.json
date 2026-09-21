@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:17",
+  "chapter": 27,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "No os dejéis engañar por ellos, servidle al rey de Babilonia y viviréis. ¿Por qué habrá de ser esta ciudad desolada?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027017002"
+      ],
+      "issue": "adds 'engañar' (deceive) concept absent from שמע lemma and tokens",
+      "spanishSpan": "No os dejéis engañar por ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027017008"
+      ],
+      "issue": "changes qal imperative 2mp 'live!' to future indicative 'viviréis'",
+      "spanishSpan": "y viviréis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027017001",
+        "h24027017002",
+        "h24027017003",
+        "h24027017004",
+        "h24027017008"
+      ],
+      "issue": "uses Peninsular 'os' / vosotros forms instead of Latin American ustedes",
+      "spanishSpan": "No os dejéis ... servidle ... viviréis"
+    }
+  ],
+  "notes": "first clause adds unlicensed concept; imperative-to-future shift; wrong Spanish variety",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:39",
+  "chapter": 49,
+  "verse": 39,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será en los días postreros que volveré a la casa de Elam, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049039001",
+        "h24049039004",
+        "h24049039005"
+      ],
+      "issue": "adds entire clause 'que volveré a la casa de' with no licensed verb, noun or participant",
+      "spanishSpan": "que volveré a la casa de"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049039002",
+        "h24049039003"
+      ],
+      "issue": "renders construct 'end of the days' as interpretive 'días postreros' while inserting new future-action clause after it",
+      "spanishSpan": "en los días postreros"
+    }
+  ],
+  "notes": "Spanish introduces wholly unlicensed content after the time phrase.",
+  "discardedUncitedFindings": 0
+}

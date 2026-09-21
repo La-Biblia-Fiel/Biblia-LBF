@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:17",
+  "chapter": 34,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, dice el Señor: No han escuchadome para proclamar libertad a cada uno a su hermano y a cada uno a su vecino. He aquí que yo os proclamo libertad a ustedes, a la espada, a la peste y a la hambruna, y os entregaré en manos de todas las naciones de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034017004"
+      ],
+      "issue": "replaces יְהוָה with title 'Señor' not licensed by token",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034017005",
+        "h24034017007"
+      ],
+      "issue": "shifts 2mp subject 'ustedes no me escucharon' to 3pl 'No han escuchadome'",
+      "spanishSpan": "No han escuchadome"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034017017",
+        "h24034017028"
+      ],
+      "issue": "uses vosotros form 'os' instead of ustedes",
+      "spanishSpan": "os proclamo"
+    }
+  ],
+  "notes": "multiple token mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:14",
+  "chapter": 6,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Curan la herida del pueblo con ligereza, diciendo: Paz, paz, cuando no hay paz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006014004"
+      ],
+      "issue": "omits 1cs possessive suffix; renders 'mi pueblo' as 'el pueblo'",
+      "spanishSpan": "del pueblo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24006014010"
+      ],
+      "issue": "renders conjunction 'and there is no peace' as 'cuando no hay paz' (temporal smoothing)",
+      "spanishSpan": "cuando no hay paz"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

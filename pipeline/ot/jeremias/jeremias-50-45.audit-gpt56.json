@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:45",
+  "chapter": 50,
+  "verse": 45,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, escuchen la conseja de Jehová, que ha aconsejado a Babilonia, y sus pensamientos, que ha pensado contra la tierra de los caldeos: ¿Acaso no los dispersarán los pastores menores? ¿Acaso no los harán morada los rebaños?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050045018",
+        "h24050045019"
+      ],
+      "issue": "צְעִירֵי הַצֹּאן rendered as 'pastores menores' (introduces 'pastores' absent from tokens)",
+      "spanishSpan": "los pastores menores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050045022",
+        "h24050045023",
+        "h24050045024"
+      ],
+      "issue": "יַשִּׁים עֲלֵיהֶם נָוֶה rendered as 'los harán morada los rebaños' (wrong subject, stem force, and added 'rebaños')",
+      "spanishSpan": "los harán morada los rebaños"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

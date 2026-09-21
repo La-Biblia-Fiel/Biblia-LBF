@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:8",
+  "chapter": 39,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y quemaron la casa del rey y la casa del pueblo con fuego, y derribaron las murallas de Jerusalén.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039008008"
+      ],
+      "issue": "omits explicit agent הַכַּשְׂדִּים (the Chaldeans) who perform both actions",
+      "spanishSpan": "Y quemaron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

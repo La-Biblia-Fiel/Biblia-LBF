@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:4",
+  "chapter": 27,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y les darás instrucciones a sus señores, diciendo: Así ha dicho Jehová de los ejércitos, el Dios de Israel: Así les dirán a sus señores:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027004013",
+        "h24027004015"
+      ],
+      "issue": "2mp verb and 2mp suffix rendered as 3pl 'dirán' + 'sus' instead of 2pl address to addressees",
+      "spanishSpan": "Así les dirán a sus señores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027004001",
+        "h24027004004"
+      ],
+      "issue": "first clause uses 'sus señores' (3rd) instead of preserving 3mp referent distinction from later 2mp",
+      "spanishSpan": "les darás instrucciones a sus señores"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:12",
+  "chapter": 26,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces Jeremías dijo a todos los señores y a todo el pueblo: Jehová me ha enviado a profetizar contra este templo y contra esta ciudad, conforme a todo lo que han oído.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026012023"
+      ],
+      "issue": "2mp verb rendered as 3pl 'han oído' instead of 2pl address to the addressees",
+      "spanishSpan": "han oído"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026012019",
+        "h24026012020",
+        "h24026012021"
+      ],
+      "issue": "omits direct object 'todas las palabras' and restructures to 'conforme a todo lo que'",
+      "spanishSpan": "conforme a todo lo que"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

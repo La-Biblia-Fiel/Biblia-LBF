@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:62",
+  "chapter": 51,
+  "verse": 62,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás: Así dice el Señor: Tú has hablado contra este lugar para destruirlo, para que no haya en él habitantes, ni de hombre ni de bestia, y que quede desolado para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051062002"
+      ],
+      "issue": "replaces proper name יהוה with 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051062001",
+        "h24051062002",
+        "h24051062003"
+      ],
+      "issue": "inserts 'Así dice' formula and restructures direct address; tokens give 'dirás: יהוה אַתָּה דִבַּרְתָּ'",
+      "spanishSpan": "Así dice el Señor: Tú has hablado"
+    }
+  ],
+  "notes": "name substitution and formula addition not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

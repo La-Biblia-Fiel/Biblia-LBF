@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:5",
+  "chapter": 48,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque en el camino de Lachis, en el descenso de Horonaim, se ha oído el grito de dolor y la voz de angustia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048005002",
+        "h24048005003",
+        "h24048005004",
+        "h24048005005"
+      ],
+      "issue": "omits entire first clause of ascent with weeping",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048005001",
+        "h24048005006"
+      ],
+      "issue": "inserts 'camino de Lachis' with no token support",
+      "spanishSpan": "en el camino de Lachis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048005009",
+        "h24048005010",
+        "h24048005011"
+      ],
+      "issue": "renders צָרֵי צַעֲקַת שֶׁבֶר as 'grito de dolor y voz de angustia' adding unlicensed concepts",
+      "spanishSpan": "el grito de dolor y la voz de angustia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048005012"
+      ],
+      "issue": "changes 3cp active 'they have heard' to passive 'se ha oído'",
+      "spanishSpan": "se ha oído"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

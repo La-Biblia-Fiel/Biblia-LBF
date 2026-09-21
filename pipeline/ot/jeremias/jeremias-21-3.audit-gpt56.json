@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 21:3",
+  "chapter": 21,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Jeremías a ellos: Así les diréis a Sedecías:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24021003005"
+      ],
+      "issue": "uses peninsular vosotros future diréis instead of Latin-American ustedes form (dirán)",
+      "spanishSpan": "diréis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

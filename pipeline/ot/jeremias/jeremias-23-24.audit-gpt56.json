@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:24",
+  "chapter": 23,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso un hombre puede esconderse en lugares secretos y yo no lo vea? Dice el Señor: ¿Acaso no lleno yo los cielos y la tierra?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023024009",
+        "h24023024018"
+      ],
+      "issue": "uses Señor for יהוה instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023024017",
+        "h24023024018"
+      ],
+      "issue": "omits second נְאֻם יְהוָה entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023024008",
+        "h24023024009"
+      ],
+      "issue": "renders נְאֻם as Dice, adding interpretive verb not licensed by token",
+      "spanishSpan": "Dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

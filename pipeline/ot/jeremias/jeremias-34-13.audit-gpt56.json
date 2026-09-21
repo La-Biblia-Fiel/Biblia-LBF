@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 34:13",
+  "chapter": 34,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el Señor, el Dios de Israel: Yo hice un pacto con sus padres en el día que los saqué de la tierra de Egipto, de la casa de esclavitud, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24034013003"
+      ],
+      "issue": "replaces יהוה with 'el Señor' instead of licensed 'Jehová'",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

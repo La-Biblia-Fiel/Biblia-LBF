@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:4",
+  "chapter": 31,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Otra vez te edificaré, y serás reconstruida, oh virgen de Israel. Otra vez tocarás tus tamboriles y saldrás en danza de alegres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031004007"
+      ],
+      "issue": "verb rendered as 'tocarás' (play/touch) but lemma is 5710b 'adorn/put on'",
+      "spanishSpan": "tocarás tus tamboriles"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

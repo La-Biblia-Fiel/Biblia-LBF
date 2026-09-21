@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:32",
+  "chapter": 32,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Por todas las malas acciones de los hijos de Israel y de los hijos de Judá, que me han provocado, son sus reyes, sus oficiales, sus sacerdotes, sus profetas, cada hombre de Judá y los habitantes de Jerusalén.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032032003"
+      ],
+      "issue": "adds 'acciones' (actions) not present in רָעַת",
+      "spanishSpan": "malas acciones"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032032016"
+      ],
+      "issue": "adds 'cada' (every) not present in אִישׁ",
+      "spanishSpan": "cada hombre"
+    }
+  ],
+  "notes": "structure also misplaces הֵמָּה list",
+  "discardedUncitedFindings": 0
+}

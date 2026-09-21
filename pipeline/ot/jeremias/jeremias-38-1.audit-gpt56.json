@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:1",
+  "chapter": 38,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Shaphan hijo de Matán, Gedalía hijo de Pashhur, Jucal hijo de Shelomith y Pashhur hijo de Malkijah escucharon las palabras que Jeremías decía a todo el pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038001001"
+      ],
+      "issue": "verb number changed from 3ms to 3pl",
+      "spanishSpan": "escucharon"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038001002"
+      ],
+      "issue": "proper name altered from Shephatiah to Shaphan",
+      "spanishSpan": "Shaphan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038001010"
+      ],
+      "issue": "proper name altered from Shelemyahu to Shelomith",
+      "spanishSpan": "Shelomith"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

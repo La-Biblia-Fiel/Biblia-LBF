@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:7",
+  "chapter": 46,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién es este que viene como el Nilo, que se agita como ríos?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046007007"
+      ],
+      "issue": "omits licensed concept 'his waters'",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046007006"
+      ],
+      "issue": "assigns 3mp agitation verb to the wrong participant (subject 'este' instead of the rivers)",
+      "spanishSpan": "que se agita"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

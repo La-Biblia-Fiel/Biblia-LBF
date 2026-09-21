@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:10",
+  "chapter": 23,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque los adúlteros llenan la tierra, por causa de la maldición, la tierra está de luto; se secaron los oasis del desierto, y su camino es malo, y su poder no es tal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023010011",
+        "h24023010012"
+      ],
+      "issue": "נְאוֹת מִדְבָּר rendered as 'oasis del desierto' adds specialized concept not licensed by lemma 4999",
+      "spanishSpan": "los oasis del desierto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023010014"
+      ],
+      "issue": "מְרֽוּצָתָם (running/course) rendered as 'camino' changes the noun concept",
+      "spanishSpan": "su camino"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

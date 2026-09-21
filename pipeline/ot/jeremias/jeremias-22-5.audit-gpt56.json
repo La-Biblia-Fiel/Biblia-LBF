@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:5",
+  "chapter": 22,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero si no escuchan estas palabras, yo juro por mí mismo, dice Jehová, que este templo será como Carmel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022005012"
+      ],
+      "issue": "adds 'como Carmel' with no token support; חָרְבָּה only licenses desolation/ruin",
+      "spanishSpan": "como Carmel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022005014"
+      ],
+      "issue": "renders בַּיִת as 'templo' (adds specialized temple concept not present in lemma)",
+      "spanishSpan": "templo"
+    }
+  ],
+  "notes": "core mismatch on outcome clause",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:22",
+  "chapter": 50,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Se oye el ruido de la guerra en la tierra y un gran desastre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050022001"
+      ],
+      "issue": "adds unlicensed verb 'Se oye' and full-sentence structure",
+      "spanishSpan": "Se oye el ruido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050022004"
+      ],
+      "issue": "renders שבר as 'desastre' (interpretive noun) instead of licensed 'quebrantamiento' or 'rotura'",
+      "spanishSpan": "un gran desastre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

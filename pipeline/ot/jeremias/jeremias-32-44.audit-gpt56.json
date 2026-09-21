@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:44",
+  "chapter": 32,
+  "verse": 44,
+  "candidateLabel": "gpt56",
+  "spanish": "Comprarán campos en la tierra de Benjamín y alrededor de Jerusalén, y en las ciudades de Judá, de la montaña, del valle y del Negueb, porque haré volver su cautiverio, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032044002"
+      ],
+      "issue": "omits licensed concept בַּכֶּסֶף",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032044004",
+        "h24032044005",
+        "h24032044006",
+        "h24032044007",
+        "h24032044008"
+      ],
+      "issue": "omits licensed concepts of writing in the book, sealing, and calling witnesses",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

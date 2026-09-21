@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:10",
+  "chapter": 2,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque pasaron por las islas de los Quitas y vieron, y por Quedé enviaron y miraron con diligencia, y vieron que así era.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002010002",
+        "h24002010005",
+        "h24002010007",
+        "h24002010008",
+        "h24002010010"
+      ],
+      "issue": "renders 2mp qal/r imperatives as 3rd-person past indicative narrative",
+      "spanishSpan": "pasaron ... vieron ... enviaron ... miraron ... vieron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002010003",
+        "h24002010004"
+      ],
+      "issue": "changes construct 'coasts of Kittim' to 'islas de los Quitas'",
+      "spanishSpan": "las islas de los Quitas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

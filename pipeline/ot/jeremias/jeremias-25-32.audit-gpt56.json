@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:32",
+  "chapter": 25,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor de los ejércitos: He aquí que el mal sale de nación a nación, y un gran vendaval levantará desde el extremo de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025032003"
+      ],
+      "issue": "replaces proper name יהוה with title 'Señor' not licensed by tokens",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:10",
+  "chapter": 42,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Si habitáis en esta tierra, os edificaré y no os destruiré; os plantaré y no os arrancaré, porque me arrepiento del mal que os he hecho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042010002"
+      ],
+      "issue": "omits the return concept licensed by שׁוֹב infinitive absolute",
+      "spanishSpan": "Si habitáis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042010003"
+      ],
+      "issue": "uses forbidden vosotros conjugation instead of ustedes form",
+      "spanishSpan": "habitáis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

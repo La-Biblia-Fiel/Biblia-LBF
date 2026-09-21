@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:39",
+  "chapter": 23,
+  "verse": 39,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, yo los elevaré y los dejaré ir, y también a la ciudad que les di y a sus padres, lejos de mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023039003",
+        "h24023039005"
+      ],
+      "issue": "Spanish 'elevaré' adds 'lift' concept absent from lemmas H5382 (forget) and H5377 (beguile/deceive)",
+      "spanishSpan": "yo los elevaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023039006"
+      ],
+      "issue": "Spanish 'dejaré ir' resolves 'abandon/cast away' (H5203) as permissive release, changing participant action",
+      "spanishSpan": "los dejaré ir"
+    }
+  ],
+  "notes": "first clause mismatches lemmas; remainder of verse aligns",
+  "discardedUncitedFindings": 0
+}

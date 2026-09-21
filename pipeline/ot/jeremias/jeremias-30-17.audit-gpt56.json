@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:17",
+  "chapter": 30,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque yo te daré una herida y te curaré de tus heridas, dice Jehová. Porque han llamado a ti deshecho, y Zion es deshecho; no hay quien te busque.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030017002",
+        "h24030017003",
+        "h24030017004"
+      ],
+      "issue": "adds opposite concept 'daré una herida' instead of bringing restoration/healing",
+      "spanishSpan": "yo te daré una herida"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030017010",
+        "h24030017013",
+        "h24030017014",
+        "h24030017015",
+        "h24030017016",
+        "h24030017017"
+      ],
+      "issue": "misrenders נִדָּחָה structure and switches 3fs לָהּ to 2fs 'te'",
+      "spanishSpan": "Zion es deshecho; no hay quien te busque"
+    }
+  ],
+  "notes": "first clause inverts meaning; second clause alters participants",
+  "discardedUncitedFindings": 0
+}

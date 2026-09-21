@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:22",
+  "chapter": 3,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Volved, hijos rebeldes, porque yo os he perdonado. Porque ustedes son Yavé, nuestro Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003022004",
+        "h24003022005"
+      ],
+      "issue": "renders רפא משבותיכם as 'yo os he perdonado' (forgive) instead of heal your backslidings",
+      "spanishSpan": "porque yo os he perdonado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003022006",
+        "h24003022007",
+        "h24003022008"
+      ],
+      "issue": "omits entire clause הִנְנוּ אָתָנוּ לָךְ",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003022010"
+      ],
+      "issue": "changes 2ms אַתָּה to ustedes (2pl)",
+      "spanishSpan": "ustedes son"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003022001"
+      ],
+      "issue": "uses vosotros 'os' instead of ustedes form",
+      "spanishSpan": "os he perdonado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

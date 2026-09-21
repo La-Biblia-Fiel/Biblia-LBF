@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:9",
+  "chapter": 50,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque he aquí que yo levanto contra Babilonia un ejército de naciones grandes del norte, y los armaré para que la tomen; sus flechas serán como de un hombre sabio, que no volverá vacío.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050009013",
+        "h24050009014",
+        "h24050009015",
+        "h24050009016"
+      ],
+      "issue": "adds 'los armaré para que la tomen' with no token support for arming or explicit purpose clause",
+      "spanishSpan": "y los armaré para que la tomen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050009018",
+        "h24050009019"
+      ],
+      "issue": "renders גִּבּוֹר מַשְׂכִּיל as 'hombre sabio' instead of preserving mighty-man + skillful",
+      "spanishSpan": "un hombre sabio"
+    }
+  ],
+  "notes": "multiple additions and lexical shifts",
+  "discardedUncitedFindings": 0
+}

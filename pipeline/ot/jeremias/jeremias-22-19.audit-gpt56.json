@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 22:19",
+  "chapter": 22,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Será enterrado como el de un asno, se lo llevará y lo arrojará más allá de las puertas de Jerusalén.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022019004"
+      ],
+      "issue": "סָחוֹב (drag) rendered as 'se lo llevará' (take/carry away), adding unlicensed verb and omitting drag concept",
+      "spanishSpan": "se lo llevará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24022019001",
+        "h24022019002"
+      ],
+      "issue": "construct chain קְבוּרַת חֲמוֹר rendered with added interpretive 'como el de'",
+      "spanishSpan": "como el de un asno"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

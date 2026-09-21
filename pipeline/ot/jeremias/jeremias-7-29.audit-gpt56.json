@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:29",
+  "chapter": 7,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Cáscate el cabello y tómatelo, y pon sobre las sienes una corona de amargura, porque el SEÑOR ha rechazado y ha abandonado a la generación de su ira.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007029001",
+        "h24007029002",
+        "h24007029003",
+        "h24007029004",
+        "h24007029006",
+        "h24007029007"
+      ],
+      "issue": "Spanish renders unrelated actions and objects (cut hair + take it, crown of bitterness on temples) instead of the licensed sequence: shear your consecration, cast away, lift lamentation on bare heights",
+      "spanishSpan": "Cáscate el cabello y tómatelo, y pon sobre las sienes una corona de amargura"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007029006",
+        "h24007029007"
+      ],
+      "issue": "שְׁפָיִם קִינָה rendered as 'corona de amargura' (adds crown + bitterness absent from tokens)",
+      "spanishSpan": "una corona de amargura"
+    }
+  ],
+  "notes": "no licensed concepts for crown, bitterness, or temples",
+  "discardedUncitedFindings": 0
+}

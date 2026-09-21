@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:6",
+  "chapter": 26,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y pondré este casa como Shiloh y esta ciudad daré por maldición a todas las naciones de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026006003",
+        "h24026006004"
+      ],
+      "issue": "mismatches gender of demonstrative and noun (masc. bayit + zeh rendered with fem. casa)",
+      "spanishSpan": "este casa"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

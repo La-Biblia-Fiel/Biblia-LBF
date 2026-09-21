@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:2",
+  "chapter": 51,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y enviaré a Babilonia extranjeros que la rodearán y la atacarán, porque alrededor de ella han estado en el día de su calamidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051002004"
+      ],
+      "issue": "replaces winnow/scatter action with 'rodearán'",
+      "spanishSpan": "que la rodearán y la atacarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051002005",
+        "h24051002006",
+        "h24051002007"
+      ],
+      "issue": "replaces devastate/empty her land with 'la atacarán'",
+      "spanishSpan": "que la rodearán y la atacarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051002009",
+        "h24051002010",
+        "h24051002011"
+      ],
+      "issue": "misplaces 'han estado alrededor' as reason for sending rather than the state of the foreigners",
+      "spanishSpan": "porque alrededor de ella han estado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

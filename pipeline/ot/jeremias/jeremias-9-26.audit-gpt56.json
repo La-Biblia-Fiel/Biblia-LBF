@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:26",
+  "chapter": 9,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "A Egipto, a Judá, a Edom, a los hijos de Amón, a Moab, a todos los que se cortan la cabellera en el desierto, porque todas las naciones son incircuncisas, y toda la casa de Israel son incircuncisos de corazón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009026014",
+        "h24009026015"
+      ],
+      "issue": "adds 'cabellera' and renders as active 'se cortan' instead of licensed 'cutters of corner/side'",
+      "spanishSpan": "los que se cortan la cabellera"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

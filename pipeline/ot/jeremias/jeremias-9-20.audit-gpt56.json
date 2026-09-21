@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:20",
+  "chapter": 9,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque hemos oído a las mujeres la palabra de Jehová, y ustedes tomad en sus oídos la palabra de su boca, y enseñad a sus hijos el lamento y a sus hijas el himno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009020002",
+        "h24009020003"
+      ],
+      "issue": "Spanish renders the 2fp imperative addressed to the women as a 1cp statement about hearing the women",
+      "spanishSpan": "Porque hemos oído a las mujeres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009020011",
+        "h24009020012",
+        "h24009020013",
+        "h24009020014",
+        "h24009020015"
+      ],
+      "issue": "Spanish changes בְנֽוֹתֵיכֶם to 'hijos y hijas', replaces קִינָה with 'himno', and alters the woman-to-neighbor structure",
+      "spanishSpan": "enseñad a sus hijos el lamento y a sus hijas el himno"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009020006",
+        "h24009020007"
+      ],
+      "issue": "Spanish misrenders the 3fs imperfect + 2mp suffix clause as an imperative addressed to ustedes",
+      "spanishSpan": "y ustedes tomad en sus oídos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

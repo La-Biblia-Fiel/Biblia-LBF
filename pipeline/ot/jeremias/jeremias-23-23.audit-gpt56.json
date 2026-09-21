@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:23",
+  "chapter": 23,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Soy Dios cercano, dice el Señor, y no un Dios lejano?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023023005"
+      ],
+      "issue": "replaces יְהוָה with el Señor instead of Jehová",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023023003"
+      ],
+      "issue": "omits explicit אָנִי (yo) before the predicate",
+      "spanishSpan": "Soy Dios cercano"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023023004"
+      ],
+      "issue": "renders נְאֻם as dice (interpretive verb) instead of declaration/utterance of",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:16",
+  "chapter": 38,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces el rey Zedequías juró a Jeremías en secreto, diciendo: Por Jehová que vive, que te dejaré vivir y no te entregaré en manos de los hombres que buscan tu vida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038016010",
+        "h24038016011",
+        "h24038016012",
+        "h24038016013",
+        "h24038016014",
+        "h24038016015"
+      ],
+      "issue": "omits the relative clause 'who made this life/soul for us'",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

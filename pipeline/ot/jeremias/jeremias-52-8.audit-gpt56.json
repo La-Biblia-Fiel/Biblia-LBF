@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:8",
+  "chapter": 52,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el ejército de los caldeos persiguió al rey, y alcanzaron a Zedequías en los llanos de Jericó, y todo su ejército se dispersó de él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052008001",
+        "h24052008006"
+      ],
+      "issue": "Spanish changes verb number from 3mp (both sequential imperfects) to singular on first verb while mixing agreement on second",
+      "spanishSpan": "persiguió ... alcanzaron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052008013"
+      ],
+      "issue": "Spanish changes verb number from 3cp niphal to singular",
+      "spanishSpan": "se dispersó"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

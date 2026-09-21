@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 3:5",
+  "chapter": 3,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso guardará para siempre, o conservará para siempre? He hablado, y has hecho mal y has podido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003005006"
+      ],
+      "issue": "adds 'He hablado' with no licensed token",
+      "spanishSpan": "He hablado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24003005008"
+      ],
+      "issue": "renders plural 'evils' as singular 'mal'",
+      "spanishSpan": "mal"
+    }
+  ],
+  "notes": "Spanish inserts unlicensed clause and alters number",
+  "discardedUncitedFindings": 0
+}

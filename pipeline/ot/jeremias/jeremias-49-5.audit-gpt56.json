@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:5",
+  "chapter": 49,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que traigo sobre ti el terror, dice el SEÑOR, el Dios de los ejércitos, de todos tus alrededores, y serán dispersados cada uno delante de mí, y no habrá quien los recogiere.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049005005",
+        "h24049005006",
+        "h24049005007"
+      ],
+      "issue": "renders נְאֻם אֲדֹנָי יְהוִה as 'dice el SEÑOR, el Dios' (adds verb 'dice' and noun 'Dios' absent from tokens)",
+      "spanishSpan": "dice el SEÑOR, el Dios de los ejércitos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049005013"
+      ],
+      "issue": "changes לְפָנָיו (before him) to 'delante de mí'",
+      "spanishSpan": "delante de mí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049005016"
+      ],
+      "issue": "renders singular נֹדֵד as plural 'los'",
+      "spanishSpan": "los recogiere"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

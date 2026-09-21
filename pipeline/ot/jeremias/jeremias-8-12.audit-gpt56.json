@@ -1,0 +1,60 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:12",
+  "chapter": 8,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Habrá vergüenza, porque han hecho abominación; y aunque se avergüencen, no lo harán; y aunque los confunda, no lo sabrán. Por eso caerán en la caída, en el tiempo de su visita caerán, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008012001"
+      ],
+      "issue": "Spanish renders first verb as future 'Habrá vergüenza' instead of matching hiphil perfect 3cp 'they have been put to shame / acted shamefully'",
+      "spanishSpan": "Habrá vergüenza"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008012006",
+        "h24008012007",
+        "h24008012008"
+      ],
+      "issue": "Spanish 'aunque se avergüencen, no lo harán' misrepresents qal inf abs + neg + impf 3mp construction and changes participants",
+      "spanishSpan": "aunque se avergüencen, no lo harán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008012009",
+        "h24008012010",
+        "h24008012011"
+      ],
+      "issue": "Spanish 'aunque los confunda, no lo sabrán' turns niphal inf construct passive into active 'los confunda' with wrong subject/voice",
+      "spanishSpan": "aunque los confunda, no lo sabrán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008012013",
+        "h24008012014"
+      ],
+      "issue": "Spanish 'caerán en la caída' adds unlicensed 'en la caída' and does not match 'they will fall among the fallers'",
+      "spanishSpan": "caerán en la caída"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008012017"
+      ],
+      "issue": "Spanish repeats 'caerán' for final verb which is niphal 'they will stumble' (כשל), changing lemma and sense",
+      "spanishSpan": "caerán"
+    }
+  ],
+  "notes": "multiple token mismatches in tense, voice, lemma and added concepts",
+  "discardedUncitedFindings": 0
+}

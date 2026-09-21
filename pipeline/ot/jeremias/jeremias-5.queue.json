@@ -1,0 +1,923 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 5,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "passed": [
+    2,
+    13,
+    21,
+    18
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Buscad en las calles de Jerusalén y ved, y sabed, y buscad en sus plazas si halláis un hombre que haga justicia y busque la verdad, para que yo le perdone.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005001018",
+            "h24005001019"
+          ],
+          "issue": "changes וְאֶסְלַ֖ח לָֽהּ from 'and I will forgive her' to purpose clause 'para que yo le perdone'",
+          "spanishSpan": "para que yo le perdone"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005001019"
+          ],
+          "issue": "לָֽהּ is 3fs 'her' (city) rendered as 'le' (him)",
+          "spanishSpan": "le"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005001001"
+          ],
+          "issue": "שׁוֹטְט֞וּ (roam/go about) rendered with same verb 'buscad' as later בקשׁ",
+          "spanishSpan": "Buscad"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso el SEÑOR no tiene ojos para la verdad? ¿Acaso ha golpeado a ellos y no han sido heridos? ¿Acaso los ha castigado y no han vuelto a la obediencia? ¿Acaso han endurecido sus rostros como una roca? ¿Acaso no quieren volver?",
+      "notes": "entire verse shifted from direct 2ms address to descriptive 3rd person",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005003002",
+            "h24005003005",
+            "h24005003009"
+          ],
+          "issue": "changes 2ms address to LORD (your eyes, you struck, you finished them) into 3rd-person statements about el SEÑOR",
+          "spanishSpan": "el SEÑOR no tiene ojos... ha golpeado... los ha castigado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005003008"
+          ],
+          "issue": "חָלוּ (writhe/tremble) rendered as 'heridos' (wounded)",
+          "spanishSpan": "no han sido heridos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005003009"
+          ],
+          "issue": "כִּלִּיתָם (you finished/consumed them) rendered as 'castigado'",
+          "spanishSpan": "los ha castigado"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo dije: Son pobres, y se retuercen, porque no conocen el camino del SEÑOR, ni la justicia de sus dioses.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005004006"
+          ],
+          "issue": "נוֹאֲל֕וּ (niphal of יאל 'act foolishly') rendered as 'se retuercen' (twist/writhe), which adds an unlicensed concept",
+          "spanishSpan": "y se retuercen"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Iré a los grandes y hablaré con ellos, porque ellos conocen el camino del SEÑOR y la justicia de sus dioses. Pero ellos juntos rompieron el yugo y se desataron las riendas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005005019",
+            "h24005005020"
+          ],
+          "issue": "changes active 3cp piel 'they tore apart the bonds' to passive 'the reins were untied' and substitutes 'rienda' for bonds/fetters",
+          "spanishSpan": "se desataron las riendas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso los devorará el león del bosque, y el lobo de las estepas los destruirá. El leopardo acechará en sus ciudades; todo el que salga de ellas será devorado, porque son muchas sus transgresiones, y están llenos de rebelión.",
+      "notes": "multiple lexical substitutions and addition beyond licensed tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005006003"
+          ],
+          "issue": "Spanish renders הִכָּם (strike/hit) as devorará (devour), changing the verb action",
+          "spanishSpan": "los devorará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005006016"
+          ],
+          "issue": "Spanish renders יִטָּרֵף (be torn) as será devorado (be devoured), altering the verb",
+          "spanishSpan": "será devorado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005006020"
+          ],
+          "issue": "Spanish adds 'llenos de rebelión' with no corresponding token; עָצְמוּ only licenses 'have become many/strong'",
+          "spanishSpan": "y están llenos de rebelión"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso por esto te perdonaré, oh Israel? Tus hijos te abandonaron y juraron por los dioses que no son dioses. Yo juré con ellos, pero ellos me aborrecieron y se prostituyeron en casas de prostitución.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005007001",
+            "h24005007002",
+            "h24005007003"
+          ],
+          "issue": "inserts 'te perdonaré' and 'oh Israel' with no licensing token",
+          "spanishSpan": "¿Acaso por esto te perdonaré, oh Israel?"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005007004",
+            "h24005007005"
+          ],
+          "issue": "changes 'abandonaron me' (1cs) to 'te abandonaron' (2fs)",
+          "spanishSpan": "Tus hijos te abandonaron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005007009",
+            "h24005007010"
+          ],
+          "issue": "renders hiphil saba 'I satisfied them' as 'Yo juré con ellos'",
+          "spanishSpan": "Yo juré con ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005007011"
+          ],
+          "issue": "renders naaph 'committed adultery' as 'me aborrecieron'",
+          "spanishSpan": "ellos me aborrecieron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005007012",
+            "h24005007013",
+            "h24005007014"
+          ],
+          "issue": "renders gadad 'they gash themselves' as 'se prostituyeron en casas de prostitución'",
+          "spanishSpan": "se prostituyeron en casas de prostitución"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los caballos bien entrenados se volvieron hacia atrás; cada uno se acercará a la mujer de su vecino.",
+      "notes": "multiple semantic substitutions and additions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005008002"
+          ],
+          "issue": "adds 'bien entrenados' (well trained) not licensed by מְיֻזָּנִ֖ים (pual participle of זון = nourished/fed)",
+          "spanishSpan": "bien entrenados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005008003",
+            "h24005008004"
+          ],
+          "issue": "adds 'se volvieron hacia atrás' with no support from הָיוּ or the hiphil participle מַשְׁכִּים",
+          "spanishSpan": "se volvieron hacia atrás"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005008009"
+          ],
+          "issue": "replaces יִצְהָֽלוּ (they will neigh) with 'se acercará' (will approach)",
+          "spanishSpan": "se acercará"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso por esto no te cuidaré, dice el SEÑOR, y no me vengaré de un pueblo como este?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005009004"
+          ],
+          "issue": "פקד (paqad) rendered as 'cuidaré' (positive care/watch) instead of punitive visit/punish sense licensed by qal impf 1cs in context",
+          "spanishSpan": "no te cuidaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005009004"
+          ],
+          "issue": "introduces direct object 'te' with no corresponding token or participant in the source",
+          "spanishSpan": "no te cuidaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005009012",
+            "h24005009013"
+          ],
+          "issue": "נפשי (my soul) as subject of hithpael נקם shifted to 1cs 'me vengaré'",
+          "spanishSpan": "no me vengaré"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Suban a las cumbres y destruyan, pero no consuman todo. Quiten las zarzas, porque no son del SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005010002"
+          ],
+          "issue": "בְשָׁרוֹתֶ֨יהָ֙ rendered as 'las cumbres' (adds mountain-peak concept absent from lemma 8284 rows/branches)",
+          "spanishSpan": "a las cumbres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005010008"
+          ],
+          "issue": "נְטִ֣ישׁוֹתֶ֔יהָ rendered as 'las zarzas' (adds bramble concept absent from lemma 5189 tendrils/shoots)",
+          "spanishSpan": "las zarzas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque han traicionado al SEÑOR, la gloria de Israel, dice el SEÑOR, y a la alianza con su padre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005011005",
+            "h24005011006",
+            "h24005011007",
+            "h24005011008"
+          ],
+          "issue": "omits 'house of Israel and house of Judah' as the named subjects",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005011005",
+            "h24005011006"
+          ],
+          "issue": "inserts 'la gloria de Israel' not licensed by any token",
+          "spanishSpan": "la gloria de Israel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005011001",
+            "h24005011002",
+            "h24005011003",
+            "h24005011004"
+          ],
+          "issue": "restructures betrayal as against 'el SEÑOR' plus added covenant/father concepts instead of 'against me' by house of Israel/Judah",
+          "spanishSpan": "han traicionado al SEÑOR ... y a la alianza con su padre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005011009",
+            "h24005011010"
+          ],
+          "issue": "inserts 'dice el SEÑOR' in middle with no token support for that phrasing or position",
+          "spanishSpan": "dice el SEÑOR"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Han negado al SEÑOR y han dicho: No es él, y no vendrá sobre nosotros ni espada ni hambre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005012009"
+          ],
+          "issue": "omits licensed concept רָעָה (evil/calamity)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005012013"
+          ],
+          "issue": "omits 1cp verb נִרְאֶה and restructures negation/participants",
+          "spanishSpan": "ni espada ni hambre"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Su cazo será como un sepulcro abierto. Todos ellos son guerreros.",
+      "notes": "second clause matches tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005016001"
+          ],
+          "issue": "cazo renders אַשְׁפָּה as pot/ladle instead of quiver",
+          "spanishSpan": "Su cazo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005016002",
+            "h24005016003"
+          ],
+          "issue": "será adds future tense absent from the nominal/prepositional construction",
+          "spanishSpan": "será"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y comerán tu cosecha y tu pan, comerán a tus hijos y a tus hijas, comerán a tus ovejas y a tus vacas, comerán tus viñas y tus higos. Destruirán tus ciudades fortificadas en las que confiabas con la espada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005017001",
+            "h24005017004",
+            "h24005017007",
+            "h24005017010",
+            "h24005017013"
+          ],
+          "issue": "Spanish renders all eating/devastating verbs as 3rd plural; source tokens show mixed 3ms (most) and one 3mp",
+          "spanishSpan": "comerán ... comerán ... comerán ... comerán ... Destruirán"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Decid esto en la casa de Jacob, y hacedlo saber en Judá, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005020001",
+            "h24005020005"
+          ],
+          "issue": "uses peninsular vosotros imperatives (Decid, haced) instead of Latin American ustedes forms for 2mp",
+          "spanishSpan": "Decid ... haced"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso no temerán mi señal, dice el SEÑOR, ¿no temerán ante mí? Porque puse el mar como límite, como eterno decreto, que no lo traspasarán; pero el mar se agita y no puede, se levanta y no puede pasar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005022001"
+          ],
+          "issue": "adds unlicensed concept 'señal' to direct-object marker + 1cs suffix",
+          "spanishSpan": "mi señal"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005022003",
+            "h24005022009"
+          ],
+          "issue": "changes 2mp verbs to 3pl future",
+          "spanishSpan": "temerán ... temerán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005022012",
+            "h24005022013",
+            "h24005022014"
+          ],
+          "issue": "omits sand and reverses 'sand as boundary for the sea'",
+          "spanishSpan": "puse el mar como límite"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y a este pueblo le ha sido un corazón rebelde y obstinado; han desviado su camino.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005023007",
+            "h24005023008"
+          ],
+          "issue": "adds 'su camino' object not present in tokens (only סָרוּ וַיֵּלֵכוּ)",
+          "spanishSpan": "su camino"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no dijeron en sus corazones: Temamos al SEÑOR, nuestro Dios, que nos da la lluvia, la primavera y el otoño en su tiempo, y guarda las semanas de la cosecha.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005024010",
+            "h24005024011"
+          ],
+          "issue": "adds primavera y otoño; tokens only license rain and latter rain",
+          "spanishSpan": "la primavera y el otoño"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sus pecados han apartado estas cosas, y sus iniquidades han impedido que el bien les llegue.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005025001",
+            "h24005025004",
+            "h24005025007"
+          ],
+          "issue": "2mp suffixes rendered as 3rd-person 'sus'/'les' instead of 'vuestros'/'os'",
+          "spanishSpan": "Sus pecados... sus iniquidades... les llegue"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005025001",
+            "h24005025004"
+          ],
+          "issue": "swapped חטאות and עונות labels; first clause should begin with iniquities",
+          "spanishSpan": "Sus pecados han apartado... y sus iniquidades han impedido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005025005",
+            "h24005025006",
+            "h24005025007"
+          ],
+          "issue": "מָנְעוּ הַטּוֹב מִכֶּם rendered as interpretive 'impedido que el bien les llegue' instead of 'han impedido/retirado el bien de ustedes'",
+          "spanishSpan": "han impedido que el bien les llegue"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque en mi pueblo hallé malhechores; han preparado lazos para matar a los hombres.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005026002"
+          ],
+          "issue": "נִמְצְאוּ is Niphal 3cp perfect 'they were found'; Spanish 'hallé' is active 1cs",
+          "spanishSpan": "hallé"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005026005",
+            "h24005026006",
+            "h24005026007",
+            "h24005026008",
+            "h24005026009",
+            "h24005026010",
+            "h24005026011"
+          ],
+          "issue": "Spanish replaces entire clause structure with 'han preparado lazos para matar' adding 'lazos' and 'matar' absent from tokens",
+          "spanishSpan": "han preparado lazos para matar a los hombres"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Como la jaula llena de pájaros, así sus casas están llenas de engaño; por eso se han enriquecido y se han engrandecido.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005027010",
+            "h24005027011"
+          ],
+          "issue": "reverses sequence of גָּדְל֖וּ then וַֽיַּעֲשִֽׁירוּ",
+          "spanishSpan": "se han enriquecido y se han engrandecido"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se han enriquecido y han hablado mal; no han juzgado el caso del huérfano, ni han hecho justicia al necesitado.",
+      "notes": "first clause and omission of prosper clause mismatch tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005028002",
+            "h24005028003",
+            "h24005028004",
+            "h24005028005",
+            "h24005028006"
+          ],
+          "issue": "Spanish 'han hablado mal' adds speaking concept absent from tokens; tokens are 'they have become sleek, also passed over evil words/matters'",
+          "spanishSpan": "han hablado mal"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005028012"
+          ],
+          "issue": "omits licensed concept וְיַצְלִיחוּ 'and they prosper'",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso no castigaré a estos, dice el SEÑOR, ¿no me vengaré de un pueblo como este?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005029012",
+            "h24005029013"
+          ],
+          "issue": "changes subject from נפשי (mi alma) to speaker as direct agent (me vengaré)",
+          "spanishSpan": "no me vengaré"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La maldad y la corrupción se han extendido por toda la tierra.",
+      "notes": "candidate introduces entire new concepts absent from tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005030001",
+            "h24005030002"
+          ],
+          "issue": "Spanish inserts maldad y corrupción; tokens only license desolation/horror + appalling thing",
+          "spanishSpan": "La maldad y la corrupción"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005030003"
+          ],
+          "issue": "Spanish renders as se han extendido; lemma is only Niphal of הָיָה become/happen",
+          "spanishSpan": "se han extendido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005030004"
+          ],
+          "issue": "Spanish adds toda and changes preposition sense to por toda; token is only בָּאָרֶץ in the land",
+          "spanishSpan": "por toda la tierra"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los profetas han profetizado mentiras, y los sacerdotes han consentido en sus manos; y el pueblo ama a los que hablan así. ¿Qué harán al final?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005031005",
+            "h24005031006",
+            "h24005031007"
+          ],
+          "issue": "יִרְדּוּ עַל יְדֵיהֶם rendered as 'han consentido en sus manos' (wrong verb and added concept)",
+          "spanishSpan": "han consentido en sus manos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005031008"
+          ],
+          "issue": "וְעַמִּי (my people) rendered as 'el pueblo' (omits 1cs suffix)",
+          "spanishSpan": "el pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005031009",
+            "h24005031010"
+          ],
+          "issue": "אָהֲבוּ כֵן rendered as 'ama a los que hablan así' (adds interpretive phrase not in tokens)",
+          "spanishSpan": "ama a los que hablan así"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005031012"
+          ],
+          "issue": "תַּעֲשׂוּ (2mp 'you will do') rendered as 'harán' (3pl)",
+          "spanishSpan": "harán"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, así dice el SEÑOR, el Dios de los ejércitos: Porque han hablado esta palabra, he puesto mis palabras en tu boca como fuego, y este pueblo como madera para ser quemada.",
+      "notes": "2ms 'tu boca' preserved correctly",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005014008"
+          ],
+          "issue": "2mp subject rendered as 3pl 'han hablado' (participant shift)",
+          "spanishSpan": "Porque han hablado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005014019",
+            "h24005014020"
+          ],
+          "issue": "עֵצִים (plural) + active וַאֲכָלָתַם (it will consume them) rendered as passive singular 'madera para ser quemada'",
+          "spanishSpan": "este pueblo como madera para ser quemada"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que traeré sobre ustedes un pueblo de lejos, oh casa de Israel, dice el SEÑOR. Es un pueblo fuerte, un pueblo antiguo, un pueblo cuya lengua no conocéis, ni podéis entender lo que dice.",
+      "notes": "2ms verbs addressed to singular בֵּית but Spanish correctly pluralizes addressee; only variety mismatch triggers fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005015018",
+            "h24005015021"
+          ],
+          "issue": "vosotros verb forms (conocéis, podéis) instead of Latin-American ustedes forms",
+          "spanishSpan": "no conocéis, ni podéis entender"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y sucederá que cuando os preguntéis: ¿Por qué ha hecho el SEÑOR nuestro Dios todas estas cosas contra nosotros? responderéis: Porque han abandonado al SEÑOR, su Dios, y han servido a dioses extranjeros en su tierra, serviréis a extranjeros en una tierra que no es su.",
+      "notes": "vosotros variety and participant shift on 2mp verbs",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005019003"
+          ],
+          "issue": "replaces תֹאמְר֔וּ (diréis) with os preguntéis",
+          "spanishSpan": "cuando os preguntéis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005019013",
+            "h24005019016",
+            "h24005019018"
+          ],
+          "issue": "vosotros forms and 3rd-person shift on עֲזַבְתֶּ֤ם / וַתַּעַבְד֞וּ instead of 2mp ustedes",
+          "spanishSpan": "responderéis ... han abandonado ... han servido ... serviréis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24005019007"
+          ],
+          "issue": "SEÑOR for יְהֹוָ֧ה instead of Jehová",
+          "spanishSpan": "el SEÑOR"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    16,
+    17,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "updated": "2026-09-20T01:29:31.591170+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 31,
+    "verses": 31,
+    "input": 69211,
+    "cachedInput": 15104,
+    "output": 5289,
+    "reasoning": 26838,
+    "usd": 0.3085,
+    "byProvider": {
+      "xai": {
+        "calls": 31,
+        "input": 69211,
+        "output": 5289,
+        "reasoning": 26838,
+        "usd": 0.3085
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 31,
+        "input": 69211,
+        "output": 5289,
+        "reasoning": 26838,
+        "usd": 0.3085
+      }
+    },
+    "usdPerVerse": 0.01,
+    "bibleAtThisRate": 309.0,
+    "book": "jeremias",
+    "chapter": 5
+  }
+}

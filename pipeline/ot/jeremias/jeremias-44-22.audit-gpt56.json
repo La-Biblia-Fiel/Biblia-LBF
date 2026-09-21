@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:22",
+  "chapter": 44,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jehová no pudo más soportar la maldad de sus actos, por las abominaciones que hicisteis, y su tierra se convirtió en desolación y en desolación y en maldición, sin habitante como hoy.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044022008",
+        "h24044022014"
+      ],
+      "issue": "2mp suffixes rendered as 3rd-person possessives (sus, su) instead of 2pl",
+      "spanishSpan": "sus actos, su tierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044022012"
+      ],
+      "issue": "vosotros preterite form instead of Latin-American ustedes",
+      "spanishSpan": "hicisteis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

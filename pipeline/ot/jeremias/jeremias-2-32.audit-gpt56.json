@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:32",
+  "chapter": 2,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Olvidará la virgen su joya? ¿Olvidará la novia sus alianzas? ¿Pero mi pueblo olvidará a mí días sin número?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002032007"
+      ],
+      "issue": "third verb changed from qal perfect 3cp to future imperfect",
+      "spanishSpan": "olvidará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002032001",
+        "h24002032007"
+      ],
+      "issue": "third clause made interrogative when Hebrew has no interrogative particle",
+      "spanishSpan": "¿Pero mi pueblo olvidará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

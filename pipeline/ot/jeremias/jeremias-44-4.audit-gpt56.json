@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:4",
+  "chapter": 44,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y envié a ustedes a todos mis siervos los profetas, levantándolos y enviándolos, diciendo: No hagan esta cosa abominable que aborrezco.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044004007",
+        "h24044004008"
+      ],
+      "issue": "adds interpretive 'levantándolos' not licensed by שכם hiphil inf abs or שלח inf abs",
+      "spanishSpan": "levantándolos y enviándolos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

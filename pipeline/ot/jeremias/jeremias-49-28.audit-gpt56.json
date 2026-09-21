@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:28",
+  "chapter": 49,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Para Qedar y para los reinos de Hazor, que Nabucodonosor, rey de Babilonia, ha golpeado, dice Jehová: Levántense, suban a Qedar, y saquen a los hijos del Oriente.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049028006",
+        "h24049028007"
+      ],
+      "issue": "adds proper name Nabucodonosor not present in tokens",
+      "spanishSpan": "Nabucodonosor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049028015"
+      ],
+      "issue": "misrenders שדד (plunder/spoil) as saquen (take out/extract)",
+      "spanishSpan": "saquen"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

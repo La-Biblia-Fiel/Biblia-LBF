@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:4",
+  "chapter": 28,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a Yecanías, hijo de Joaquín, rey de Judá, y a todo el cautiverio de Judá que ha venido a Babilonia, haré volver a este lugar, dice el SEÑOR, porque romperé el yugo del rey de Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028004011"
+      ],
+      "issue": "plural participle הַבָּאִ֣ים rendered as singular verb",
+      "spanishSpan": "que ha venido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

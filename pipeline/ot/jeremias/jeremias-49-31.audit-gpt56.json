@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:31",
+  "chapter": 49,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Levántense, suban a un pueblo que habita en seguridad, dice Jehová. No hay puertas ni barrotes para él; solitario habitará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049031016"
+      ],
+      "issue": "verb number changed from 3mp to 3s",
+      "spanishSpan": "solitario habitará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:6",
+  "chapter": 25,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no andéis tras dioses ajenos para servirles y adorarles, ni me provocaréis con sus actos, para que no os haga mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025006012",
+        "h24025006013"
+      ],
+      "issue": "replaces 'work of your hands' with 'sus actos' (wrong possessor and omits 'hands')",
+      "spanishSpan": "con sus actos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025006002",
+        "h24025006010",
+        "h24025006015"
+      ],
+      "issue": "uses vosotros conjugations (andéis, provocaréis) instead of ustedes forms",
+      "spanishSpan": "andéis ... provocaréis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

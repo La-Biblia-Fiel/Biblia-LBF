@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:15",
+  "chapter": 6,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Hicieron vergüenza, pero no se avergüenzan; no conocen la vergüenza. Por tanto, caerán en la caída, cuando los visite, caerán, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006015002",
+        "h24006015003",
+        "h24006015004"
+      ],
+      "issue": "omits entire 'because they committed abomination' clause licensed by the tokens",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006015020"
+      ],
+      "issue": "renders יהוה as 'Señor' instead of the required conventional 'Jehová'",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006015015",
+        "h24006015016",
+        "h24006015017",
+        "h24006015018"
+      ],
+      "issue": "restructures 'fall among the falling ones at the time I visit them, they will stumble' into 'caerán en la caída, cuando los visite, caerán'",
+      "spanishSpan": "caerán en la caída, cuando los visite, caerán"
+    }
+  ],
+  "notes": "multiple omissions and structural alterations",
+  "discardedUncitedFindings": 0
+}

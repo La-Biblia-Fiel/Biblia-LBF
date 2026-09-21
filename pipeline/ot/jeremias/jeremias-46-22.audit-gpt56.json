@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:22",
+  "chapter": 46,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Su voz como la de una serpiente, porque marchan en tropel, y en naves de bajeles vienen a ella, como cortadores de madera.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046022005"
+      ],
+      "issue": "marchan en tropel adds specific image not licensed by בְחַ֣יִל",
+      "spanishSpan": "marchan en tropel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046022007",
+        "h24046022008"
+      ],
+      "issue": "naves de bajeles inserts entirely absent concept; text only has with axes they come",
+      "spanishSpan": "y en naves de bajeles vienen a ella"
+    }
+  ],
+  "notes": "major lexical invention; only first and last phrases are close",
+  "discardedUncitedFindings": 0
+}

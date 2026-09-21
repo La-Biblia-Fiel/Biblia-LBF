@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:7",
+  "chapter": 48,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque confiaste en tu obra y en tus tesoros, también serás capturada. Y saldrán en cautiverio tus sacerdotes y tus príncipes juntos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048007011",
+        "h24048007012"
+      ],
+      "issue": "suffix changed from 3ms (his) to 2fs (tus)",
+      "spanishSpan": "tus sacerdotes y tus príncipes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048007004"
+      ],
+      "issue": "plural noun rendered as singular",
+      "spanishSpan": "tu obra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048007010"
+      ],
+      "issue": "adds unlicensed adverb 'juntos'",
+      "spanishSpan": "juntos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

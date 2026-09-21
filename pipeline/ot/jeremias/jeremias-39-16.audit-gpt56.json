@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:16",
+  "chapter": 39,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Ve y di al siervo del rey de Egipto, diciendo: Así ha dicho Jehová de los ejércitos, el Dios de Israel: He aquí que pondré mis palabras sobre esta ciudad para mal y no para bien, y serán delante de ti en aquel día.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039016003",
+        "h24039016004",
+        "h24039016005"
+      ],
+      "issue": "adds 'de Egipto' (not present in tokens; Cushite referent only)",
+      "spanishSpan": "del rey de Egipto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

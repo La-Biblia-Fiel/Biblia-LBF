@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:32",
+  "chapter": 48,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Desde Bajithaizer lloraré por ti, oh viña que se marchita, porque tus frutos han cruzado el mar hasta Jazer, donde han sido devueltos; sobre tus cosechas y tus viñas ha caído el saqueador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048032001",
+        "h24048032002"
+      ],
+      "issue": "מִבְּכִי יַעְזֵר rendered as 'Desde Bajithaizer' instead of 'from the weeping of Jazer'",
+      "spanishSpan": "Desde Bajithaizer"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048032005",
+        "h24048032006"
+      ],
+      "issue": "הַגֶּפֶן שִׂבְמָה rendered as 'viña que se marchita' (adds 'that withers', omits Sibmah)",
+      "spanishSpan": "oh viña que se marchita"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048032007"
+      ],
+      "issue": "נְטִישֹׁתַיִךְ rendered as 'tus frutos' (tendrils/shoots → fruits)",
+      "spanishSpan": "tus frutos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048032011",
+        "h24048032012",
+        "h24048032013"
+      ],
+      "issue": "עַד יָם יַעְזֵר נָגָעוּ rendered as 'hasta Jazer, donde han sido devueltos' (omits 'sea of', replaces 'reached/touched' with 'returned')",
+      "spanishSpan": "hasta Jazer, donde han sido devueltos"
+    }
+  ],
+  "notes": "multiple lexical additions and substitutions not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

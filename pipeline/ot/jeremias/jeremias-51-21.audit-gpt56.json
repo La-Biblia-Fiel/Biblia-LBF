@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:21",
+  "chapter": 51,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y te destruiré a ti en medio de los caballos y de sus jinetes, y te destruiré a ti en medio de los carros y de sus jinetes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051021003",
+        "h24051021007"
+      ],
+      "issue": "number mismatch: singular horse/chariot rendered as plural caballos/caros",
+      "spanishSpan": "los caballos ... los carros"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051021002",
+        "h24051021006"
+      ],
+      "issue": "adds 'en medio de' concept not present in בְךָ preposition tokens",
+      "spanishSpan": "en medio de los caballos y de sus jinetes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

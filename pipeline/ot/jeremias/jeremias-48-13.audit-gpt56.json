@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:13",
+  "chapter": 48,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Moab se avergonzará de Quemosh, como se avergonzó Israel de Betel, su confianza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048013006",
+        "h24048013007"
+      ],
+      "issue": "omits construct בֵּית from בֵּית יִשְׂרָאֵל",
+      "spanishSpan": "Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048013005"
+      ],
+      "issue": "renders 3cp בֹּשׁוּ as singular verb",
+      "spanishSpan": "se avergonzó"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

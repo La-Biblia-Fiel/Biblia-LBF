@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:8",
+  "chapter": 30,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será en aquel día, ha dicho Jehová de los ejércitos, que romperé tu yugo del cuello y tus ataduras, y no servirán más de ti los extranjeros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030008008"
+      ],
+      "issue": "עֻלּוֹ is 3ms 'his yoke'; Spanish renders 'tu yugo' (2ms)",
+      "spanishSpan": "tu yugo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030008007",
+        "h24030008012"
+      ],
+      "issue": "two distinct verbs (אֶשְׁבֹּר + אֲנַתֵּק) collapsed into single 'romperé'",
+      "spanishSpan": "romperé tu yugo del cuello y tus ataduras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030008014",
+        "h24030008015"
+      ],
+      "issue": "יַעַבְדוּ בוֹ means foreigners will not serve him/it; Spanish 'servirán ... de ti' alters object and meaning",
+      "spanishSpan": "no servirán más de ti los extranjeros"
+    }
+  ],
+  "notes": "multiple mismatches on suffixes, verb count, and object",
+  "discardedUncitedFindings": 0
+}

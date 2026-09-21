@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:11",
+  "chapter": 41,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Johánán, hijo de Carej, y todos los jefes de los soldados que con él estaban, oyeron todo el mal que Ismael, hijo de Netanías, había hecho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041011001"
+      ],
+      "issue": "verb number changed from 3ms to plural",
+      "spanishSpan": "oyeron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

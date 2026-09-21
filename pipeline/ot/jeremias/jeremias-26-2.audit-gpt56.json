@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:2",
+  "chapter": 26,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el SEÑOR: Anda y estación en la plaza de la casa del SEÑOR, y di a todas las ciudades de Judá que vienen a adorar en la casa del SEÑOR, todo lo que te he mandado decirles; no te apartes de palabra alguna.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026002004"
+      ],
+      "issue": "imperative עֲמֹד rendered as 'estación' (wrong lexeme and form); adds unlicensed 'Anda'",
+      "spanishSpan": "Anda y estación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026002005"
+      ],
+      "issue": "חֲצַר rendered as 'plaza' (adds concept not licensed by noun common construct)",
+      "spanishSpan": "plaza"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

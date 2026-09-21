@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:14",
+  "chapter": 38,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "El rey Zedequías envió y tomó a Jeremías el profeta y lo llevó a la puerta del tercer escalón, que está en la casa de Jehová. Y el rey le dijo a Jeremías: Pregunto yo a ti algo, no me ocultes nada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038014010",
+        "h24038014011"
+      ],
+      "issue": "adds 'puerta del tercer escalón' specifying untokenized noun 'escalón' and resolving ambiguity of 'the third'",
+      "spanishSpan": "a la puerta del tercer escalón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

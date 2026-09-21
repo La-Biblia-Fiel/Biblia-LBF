@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:35",
+  "chapter": 50,
+  "verse": 35,
+  "candidateLabel": "gpt56",
+  "spanish": "Espada contra los caldeos, así dice el Señor, y contra los habitantes de Babilonia, y contra sus príncipes, y contra sus sabios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050035005"
+      ],
+      "issue": "replaces יְהוָה with 'el Señor' instead of licensed 'Jehová'",
+      "spanishSpan": "así dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050035004"
+      ],
+      "issue": "renders נְאֻם as 'así dice' (interpretive paraphrase not licensed by lemma/morph)",
+      "spanishSpan": "así dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

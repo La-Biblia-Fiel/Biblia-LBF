@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:20",
+  "chapter": 36,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fueron al rey a la sala de invierno, y pusieron la hoja en la habitación de Elisama el escriba, y se la dijeron al rey.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036020004"
+      ],
+      "issue": "adds 'de invierno' with no token support; חָצֵרָה is court/yard",
+      "spanishSpan": "a la sala de invierno"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036020006"
+      ],
+      "issue": "renders מְגִלָּה as 'hoja' (leaf) instead of scroll/roll",
+      "spanishSpan": "la hoja"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036020015",
+        "h24036020016"
+      ],
+      "issue": "omits כָּל הַדְּבָרִים entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "multiple unlicensed additions/omissions",
+  "discardedUncitedFindings": 0
+}

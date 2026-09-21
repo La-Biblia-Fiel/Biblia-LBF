@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:10",
+  "chapter": 5,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Suban a las cumbres y destruyan, pero no consuman todo. Quiten las zarzas, porque no son del SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005010002"
+      ],
+      "issue": "בְשָׁרוֹתֶ֨יהָ֙ rendered as 'las cumbres' (adds mountain-peak concept absent from lemma 8284 rows/branches)",
+      "spanishSpan": "a las cumbres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005010008"
+      ],
+      "issue": "נְטִ֣ישׁוֹתֶ֔יהָ rendered as 'las zarzas' (adds bramble concept absent from lemma 5189 tendrils/shoots)",
+      "spanishSpan": "las zarzas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

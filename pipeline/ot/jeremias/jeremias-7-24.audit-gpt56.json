@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:24",
+  "chapter": 7,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero no escucharon ni inclinaron el oído, sino que anduvieron en la rebeldía de sus corazones malvados, y se volvieron la espalda y no la cara.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007024008"
+      ],
+      "issue": "omits licensed concept מֹעֵצוֹת (counsels/plans)",
+      "spanishSpan": "anduvieron en la rebeldía"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:3",
+  "chapter": 37,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y envió el rey Sedequías a Iehucal, hijo de Selumías, y a Sofenías, hijo de Maasías, el sacerdote, a Jeremías el profeta, diciendo: Ruego que ores por nosotros a Jehová nuestro Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037003017",
+        "h24037003018",
+        "h24037003019",
+        "h24037003020",
+        "h24037003021",
+        "h24037003022"
+      ],
+      "issue": "direct 2ms hithpael imperative + particle rendered as indirect 'Ruego que ores'",
+      "spanishSpan": "Ruego que ores por nosotros a Jehová nuestro Dios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

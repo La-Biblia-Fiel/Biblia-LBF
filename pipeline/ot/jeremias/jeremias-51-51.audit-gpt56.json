@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:51",
+  "chapter": 51,
+  "verse": 51,
+  "candidateLabel": "gpt56",
+  "spanish": "Nos avergonzamos porque hemos oído insultos, porque la afrenta ha cubierto nuestras caras, porque los extranjeros han entrado en el santuario de la casa del Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051051014"
+      ],
+      "issue": "יהוה rendered as Señor instead of required Jehová",
+      "spanishSpan": "del Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051051012"
+      ],
+      "issue": "plural מִקְדְּשֵׁי rendered as singular santuario",
+      "spanishSpan": "el santuario"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:32",
+  "chapter": 51,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los puentes fueron tomados, y los estanques fueron quemados con fuego, y los hombres de guerra se asustaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051032001"
+      ],
+      "issue": "מַעְבָּרָה rendered as 'puentes' (bridges); tokens license only 'crossings/fords/passes'",
+      "spanishSpan": "los puentes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

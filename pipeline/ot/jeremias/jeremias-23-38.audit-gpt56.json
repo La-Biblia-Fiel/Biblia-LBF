@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:38",
+  "chapter": 23,
+  "verse": 38,
+  "candidateLabel": "gpt56",
+  "spanish": "Y si dices: “El mensaje del SEÑOR”, entonces dice el SEÑOR: Porque han dicho: “El mensaje del SEÑOR”, yo los envié a decir: “No digan: ‘El mensaje del SEÑOR’.”",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023038004",
+        "h24023038010",
+        "h24023038017",
+        "h24023038020"
+      ],
+      "issue": "2mp forms shifted to 3pl or mixed sg/3pl participants",
+      "spanishSpan": "dices / han dicho / los envié / digan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023038011",
+        "h24023038012",
+        "h24023038013"
+      ],
+      "issue": "omits direct object אֶת־הַדָּבָר הַזֶּה",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

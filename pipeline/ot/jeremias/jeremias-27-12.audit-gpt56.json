@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 27:12",
+  "chapter": 27,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y a Zedequías, rey de Judá, hablé conforme a todas estas palabras, diciendo: Traed sus cuellos en el yugo del rey de Babilonia y servidle y a su pueblo, y viviréis.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027012010",
+        "h24027012016",
+        "h24027012019"
+      ],
+      "issue": "vosotros imperative forms (Traed, servidle, viviréis) instead of Latin American ustedes",
+      "spanishSpan": "Traed sus cuellos ... servidle ... viviréis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24027012019"
+      ],
+      "issue": "imperative changed to future indicative",
+      "spanishSpan": "y viviréis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

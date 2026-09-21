@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:7",
+  "chapter": 4,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Subirá un león de su covacha, y devorará a las naciones; saldrá de su lugar para hacer tu tierra desolada, y tus ciudades quedarán sin habitantes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004007004",
+        "h24004007005"
+      ],
+      "issue": "adds 'devorará' (devour) where tokens only license 'destroying nations' (mashchit goyim)",
+      "spanishSpan": "y devorará a las naciones"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

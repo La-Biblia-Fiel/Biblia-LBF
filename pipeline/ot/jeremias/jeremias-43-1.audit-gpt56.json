@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 43:1",
+  "chapter": 43,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando Jeremías hubo hablado a todo el pueblo todas las palabras de Jehová, su Dios, que os había enviado Jehová, su Dios, a ustedes, todas estas palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24043001014",
+        "h24043001017"
+      ],
+      "issue": "changes 3rd-person suffixes (Sp3ms/Sp3mp) to 2nd-person address (os / a ustedes)",
+      "spanishSpan": "os había enviado ... a ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

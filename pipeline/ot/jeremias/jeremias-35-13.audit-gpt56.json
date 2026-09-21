@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:13",
+  "chapter": 35,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová de los ejércitos, el Dios de Israel: ¿No tomaréis enseñanza para oír mis palabras, palabra de Jehová?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035013007",
+        "h24035013008",
+        "h24035013009",
+        "h24035013010",
+        "h24035013011",
+        "h24035013012"
+      ],
+      "issue": "omits the command to go and speak to the men of Judah and inhabitants of Jerusalem",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035013014"
+      ],
+      "issue": "uses vosotros form tomaréis instead of Latin American ustedes form tomarán",
+      "spanishSpan": "tomaréis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

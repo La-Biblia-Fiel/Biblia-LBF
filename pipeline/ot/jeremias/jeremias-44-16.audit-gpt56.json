@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 44:16",
+  "chapter": 44,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra que hablaste a nosotros en nombre de Jehová, no la oímos a ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044016007",
+        "h24044016008",
+        "h24044016009"
+      ],
+      "issue": "Spanish restructures negation+participle+to-you as 'no la oímos a ti', making the word the object of hearing and altering participants/aspect",
+      "spanishSpan": "no la oímos a ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24044016008"
+      ],
+      "issue": "Qal active participle (ongoing 'we are not hearing') rendered as preterite 'oímos'",
+      "spanishSpan": "oímos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

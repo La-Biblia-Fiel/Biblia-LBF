@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:37",
+  "chapter": 50,
+  "verse": 37,
+  "candidateLabel": "gpt56",
+  "spanish": "Espada contra sus caballos y contra sus carros, y contra todo el pueblo que está en medio de ella, y serán como mujeres; espada contra sus tesoros, y serán saqueados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050037008"
+      ],
+      "issue": "renders הָעֶרֶב as 'todo el pueblo' (adds 'pueblo' concept absent from lemma H6154)",
+      "spanishSpan": "todo el pueblo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

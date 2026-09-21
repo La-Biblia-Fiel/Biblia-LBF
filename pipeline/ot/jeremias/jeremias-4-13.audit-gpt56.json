@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:13",
+  "chapter": 4,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí como nubes subirán, y como viento huracanado serán mis carros; volarán mis caballos desde los cuervos. ¡Ay de nosotros, porque somos saqueados!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004013005"
+      ],
+      "issue": "person mismatch: 'mis carros' vs 3ms suffix 'his chariots'",
+      "spanishSpan": "mis carros"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004013008"
+      ],
+      "issue": "person mismatch: 'mis caballos' vs 3ms suffix 'his horses'",
+      "spanishSpan": "mis caballos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004013007"
+      ],
+      "issue": "wrong noun: 'cuervos' for nesharim (eagles)",
+      "spanishSpan": "cuervos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004013006"
+      ],
+      "issue": "adds 'volarán' (fly) not licensed by qallu (are swift)",
+      "spanishSpan": "volarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004013003"
+      ],
+      "issue": "number mismatch: plural 'subirán' vs 3ms verb",
+      "spanishSpan": "subirán"
+    }
+  ],
+  "notes": "multiple lexical and morphological mismatches",
+  "discardedUncitedFindings": 0
+}

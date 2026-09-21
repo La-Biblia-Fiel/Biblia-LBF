@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 47:2",
+  "chapter": 47,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el Señor: He aquí que vienen aguas del norte y se convertirán en un torrente que inundará la tierra y todo lo que contiene, la ciudad y sus habitantes, y los hombres gritarán y todos los que habitan la tierra se lamentarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047002003"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of licensed proper name form",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24047002018"
+      ],
+      "issue": "singular האדם changed to plural 'los hombres'",
+      "spanishSpan": "los hombres gritarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

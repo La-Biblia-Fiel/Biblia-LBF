@@ -1,0 +1,1352 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 48,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "passed": [
+    8,
+    10,
+    16,
+    22,
+    23
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para Moab, así dice el Señor de los ejércitos, el Dios de Israel: ¡Ay de Nebo, porque ha sido saqueada, avergonzada, tomada, Kiriathaim ha sido avergonzada y derrotada!",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048001004"
+          ],
+          "issue": "replaces יהוה with 'el Señor' instead of licensed 'Jehová'",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048001017"
+          ],
+          "issue": "omits the subject הַמִּשְׂגָּב entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048001016",
+            "h24048001017",
+            "h24048001018"
+          ],
+          "issue": "collapses the final clause so that the second 'avergonzada' and 'derrotada' attach to Kiriathaim instead of preserving separate subjects and verbs for Kiriathaim and the Misgab",
+          "spanishSpan": "Kiriathaim ha sido avergonzada y derrotada"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ya no hay más alabanza para Moab; en Hesbón se han planeado cosas malas contra ella. ¡Vamos a destruirla! También Madmena se ha quedado sin fuerzas, y tras ella vendrá la espada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048002011"
+          ],
+          "issue": "omits מִגּוֹי entirely",
+          "spanishSpan": "¡Vamos a destruirla!"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048002014"
+          ],
+          "issue": "renders תִּדֹּמִּי as 'se ha quedado sin fuerzas' instead of 'you (fs) will be silent/dumbfounded'",
+          "spanishSpan": "Madmena se ha quedado sin fuerzas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048002016"
+          ],
+          "issue": "changes 2fs address and participant to 3fs statement about the city",
+          "spanishSpan": "tras ella vendrá la espada"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se oye un grito de dolor desde Horonaim, saqueo y gran destrucción.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048003001",
+            "h24048003002"
+          ],
+          "issue": "adds 'Se oye' and 'de dolor' not licensed by qol tse'aqah",
+          "spanishSpan": "Se oye un grito de dolor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048003004"
+          ],
+          "issue": "renders shod as 'saqueo' (plunder) instead of licensed devastation/violence",
+          "spanishSpan": "saqueo"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Moab se ha roto, se ha oído un grito de dolor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048004003",
+            "h24048004004"
+          ],
+          "issue": "adds 'de dolor' not licensed by זעקה; changes hiphil 3cp active 'they caused to hear' to passive 'se ha oído'",
+          "spanishSpan": "se ha oído un grito de dolor"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque en el camino de Lachis, en el descenso de Horonaim, se ha oído el grito de dolor y la voz de angustia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048005002",
+            "h24048005003",
+            "h24048005004",
+            "h24048005005"
+          ],
+          "issue": "omits entire first clause of ascent with weeping",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048005001",
+            "h24048005006"
+          ],
+          "issue": "inserts 'camino de Lachis' with no token support",
+          "spanishSpan": "en el camino de Lachis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048005009",
+            "h24048005010",
+            "h24048005011"
+          ],
+          "issue": "renders צָרֵי צַעֲקַת שֶׁבֶר as 'grito de dolor y voz de angustia' adding unlicensed concepts",
+          "spanishSpan": "el grito de dolor y la voz de angustia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048005012"
+          ],
+          "issue": "changes 3cp active 'they have heard' to passive 'se ha oído'",
+          "spanishSpan": "se ha oído"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Huyan, escapen a sus vidas, y sean como nómadas en el desierto.",
+      "notes": "also 'escapen a sus vidas' is awkward but secondary to the noun error",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048006005"
+          ],
+          "issue": "ערוער rendered as 'nómadas' (nomads), adding unlicensed concept; lemma 6176 is a shrub/plant",
+          "spanishSpan": "como nómadas"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque confiaste en tu obra y en tus tesoros, también serás capturada. Y saldrán en cautiverio tus sacerdotes y tus príncipes juntos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048007011",
+            "h24048007012"
+          ],
+          "issue": "suffix changed from 3ms (his) to 2fs (tus)",
+          "spanishSpan": "tus sacerdotes y tus príncipes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048007004"
+          ],
+          "issue": "plural noun rendered as singular",
+          "spanishSpan": "tu obra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048007010"
+          ],
+          "issue": "adds unlicensed adverb 'juntos'",
+          "spanishSpan": "juntos"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pon una señal para Moab, porque será evacuada, y sus ciudades estarán desiertas sin morador.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048009002"
+          ],
+          "issue": "צִיץ rendered as 'señal' adds interpretive concept not licensed by the noun lemma",
+          "spanishSpan": "una señal"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048009005",
+            "h24048009006"
+          ],
+          "issue": "נָצֹא תֵּצֵא (qal inf abs + qal impf 3fs 'fly/go out') rendered as passive 'será evacuada' changes voice, stem force and semantics",
+          "spanishSpan": "será evacuada"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Moab ha sido tranquilo desde su juventud, y ha estado en calma con sus dioses, y no ha sido sacudido de un vaso a otro, ni ha ido en cautiverio. Por eso su sabor ha permanecido en él, y su aroma no se ha desvanecido.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048011006",
+            "h24048011007"
+          ],
+          "issue": "adds 'con sus dioses' (with his gods); token is preposition + שְׁמָרָיו 'his dregs/lees'",
+          "spanishSpan": "con sus dioses"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048011009"
+          ],
+          "issue": "renders הוּרַק 'poured out/emptied' as 'sacudido' (shaken)",
+          "spanishSpan": "ha sido sacudido"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, he aquí que días vienen, dice Jehová, y enviaré a él que sopla la trompeta, y soplará en él. Y vaciarán sus vasos, y sus frascos se romperán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048012009",
+            "h24048012010"
+          ],
+          "issue": "adds trumpet-blower concept absent from tokens; צֹעִים/צֵעֻהוּ only license tilting/pouring action on the referent",
+          "spanishSpan": "a él que sopla la trompeta, y soplará en él"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Moab se avergonzará de Quemosh, como se avergonzó Israel de Betel, su confianza.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048013006",
+            "h24048013007"
+          ],
+          "issue": "omits construct בֵּית from בֵּית יִשְׂרָאֵל",
+          "spanishSpan": "Israel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048013005"
+          ],
+          "issue": "renders 3cp בֹּשׁוּ as singular verb",
+          "spanishSpan": "se avergonzó"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Cómo diréis: Somos valientes, y hombres de valor para la guerra?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048014002"
+          ],
+          "issue": "uses Spain vosotros future 'diréis' instead of Latin-American 2mp 'dirán'",
+          "spanishSpan": "diréis"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Moab será saqueado, y sus ciudades subirán. Y sus jóvenes irán al matadero. Dice el rey Jehová de los ejércitos, su nombre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048015001",
+            "h24048015004",
+            "h24048015007"
+          ],
+          "issue": "perfect verbs rendered as future tense",
+          "spanishSpan": "será saqueado, subirán, irán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048015004"
+          ],
+          "issue": "3ms verb assigned to feminine plural subject",
+          "spanishSpan": "sus ciudades subirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048015009"
+          ],
+          "issue": "adds 'dice' not licensed by נְאֻם construct",
+          "spanishSpan": "Dice el rey"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todos sus vecinos lo moverán, y todos los que lo conocen dirán: ¿Cómo ha sido quebrado el bastón de fuerza, el báculo de gloria?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048017001",
+            "h24048017008"
+          ],
+          "issue": "imperatives rendered as future indicatives",
+          "spanishSpan": "lo moverán ... dirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048017001",
+            "h24048017002",
+            "h24048017003",
+            "h24048017004"
+          ],
+          "issue": "adds transitive 'lo moverán' and turns surrounding addressees into future actors",
+          "spanishSpan": "Todos sus vecinos lo moverán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048017006",
+            "h24048017007"
+          ],
+          "issue": "omits 'name' and resolves to 'lo conocen'",
+          "spanishSpan": "todos los que lo conocen"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Baja de tu gloria, habitante de Siba, sedienta, hija de Dibón, porque el saqueador de Moab subirá contra ti, y destruirá tus fortalezas.",
+      "notes": "Siba has no source token support",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048018003"
+          ],
+          "issue": "inserts unauthorized proper name 'Siba' absent from any token",
+          "spanishSpan": "Siba"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048018003"
+          ],
+          "issue": "renders thirst noun as adjective 'sedienta' and attaches it to invented name",
+          "spanishSpan": "sedienta"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24048018010",
+            "h24048018012"
+          ],
+          "issue": "renders qal/piel perfects as future 'subirá'/'destruirá'",
+          "spanishSpan": "subirá ... destruirá"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "A la deriva, a la espera, moradora de Araer, pregunta: ¿Adónde se ha ido? ¿Cómo ha sucedido?",
+      "notes": "Araer spelling minor; main failures are additions and loss of command structure",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048019001",
+            "h24048019002",
+            "h24048019003"
+          ],
+          "issue": "adds 'a la deriva, a la espera' not licensed by 'to the way, stand!'",
+          "spanishSpan": "A la deriva, a la espera"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048019008",
+            "h24048019009",
+            "h24048019011",
+            "h24048019012"
+          ],
+          "issue": "supplies specific questions '¿Adónde se ha ido?' absent from the tokens; only 'ask... say what has happened' is licensed",
+          "spanishSpan": "¿Adónde se ha ido? ¿Cómo ha sucedido?"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048019004",
+            "h24048019007",
+            "h24048019010"
+          ],
+          "issue": "converts multiple 2fs imperatives into descriptive phrase + single 'pregunta'",
+          "spanishSpan": "moradora de Araer, pregunta"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Moab se avergüenza, porque ha sido derrotado. ¡Llora y grita! Anuncia en Arnon que Moab ha sido saqueado.",
+      "notes": "packet contains only shame, dismay, announce-in-Arnon, and devastated",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048020004"
+          ],
+          "issue": "חַתָּה rendered as 'ha sido derrotado' (adds defeat concept not licensed by lemma/morph)",
+          "spanishSpan": "ha sido derrotado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048020005"
+          ],
+          "issue": "הַגִּ֣ידוּ rendered with preceding '¡Llora y grita!' (adds cry/shout not present in any token)",
+          "spanishSpan": "¡Llora y grita!"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048020001",
+            "h24048020004",
+            "h24048020005"
+          ],
+          "issue": "restructures and conflates the two perfect verbs plus imperative into a non-token sequence",
+          "spanishSpan": "Moab se avergüenza, porque ha sido derrotado. ¡Llora y grita! Anuncia"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el juicio ha llegado a la tierra de Misón, a Helón y a Jahzah, y sobre Moph.",
+      "notes": "packet tokens end at וְעַל; Spanish adds unlicensed name and misparses Mishor",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048021005"
+          ],
+          "issue": "הַמִּישֹׁ֑ר rendered as proper name 'Misón' instead of the plain",
+          "spanishSpan": "Misón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048021010"
+          ],
+          "issue": "introduces 'Moph' with no corresponding token or lemma",
+          "spanishSpan": "Moph"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y sobre Keriot y sobre Betzera, y sobre todas las ciudades de Moab, lejanas y cercanas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048024008"
+          ],
+          "issue": "omits licensed concept אֶ֣רֶץ (land/earth)",
+          "spanishSpan": "de Moab"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se ha cortado la cornamenta de Moab, y su brazo se ha quebrado, dice el Señor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048025007"
+          ],
+          "issue": "YHWH rendered as 'el Señor' (title) instead of Jehová",
+          "spanishSpan": "dice el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se alquile a sí mismo, porque sobre el Señor ha alzado su voz. Moab será humillado y será objeto de risa.",
+      "notes": "multiple lexical and structural mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048026001"
+          ],
+          "issue": "Spanish renders imperative as reflexive 'alquile a sí mismo' instead of licensing 'make him drunk'",
+          "spanishSpan": "Se alquile a sí mismo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048026005"
+          ],
+          "issue": "Spanish 'ha alzado su voz' adds voice concept and omits the licensed 'magnified/exalted' action against YHWH",
+          "spanishSpan": "ha alzado su voz"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048026006",
+            "h24048026008"
+          ],
+          "issue": "Spanish omits the licensed 'clap/slap in his vomit' sequence entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048026007",
+            "h24048026009",
+            "h24048026010"
+          ],
+          "issue": "Spanish inserts 'humillado' (not licensed) and alters the 'become for laughter' construction",
+          "spanishSpan": "Moab será humillado y será objeto de risa"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Y si no ha sido risa para ti, Israel, si has actuado como un ladrón, porque con tus palabras has provocado a los demás?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048027008"
+          ],
+          "issue": "renders בְּגַנָּבִים as 'actuado como un ladrón' instead of 'among thieves'",
+          "spanishSpan": "si has actuado como un ladrón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048027013"
+          ],
+          "issue": "renders תִּתְנוֹדָד (you nod/shake) as 'has provocado'",
+          "spanishSpan": "has provocado a los demás"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048027010",
+            "h24048027011",
+            "h24048027012"
+          ],
+          "issue": "replaces 'from the sufficiency of your words in him' with added 'a los demás'",
+          "spanishSpan": "con tus palabras has provocado a los demás"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Abandona las ciudades y vive en las rocas, moradores de Moab. Sé como un cuervo que construye su nido en la entrada de una cueva.",
+      "notes": "multiple lexical and morphological mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048028008"
+          ],
+          "issue": "יוֹנָה rendered as cuervo instead of paloma/dove",
+          "spanishSpan": "un cuervo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048028001",
+            "h24048028003",
+            "h24048028007"
+          ],
+          "issue": "2mp imperatives rendered as singular (Abandona, vive, Sé) instead of plural address to moradores",
+          "spanishSpan": "Abandona las ciudades y vive... Sé"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048028004"
+          ],
+          "issue": "singular סֶלַע rendered as plural rocas",
+          "spanishSpan": "las rocas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048028012",
+            "h24048028010",
+            "h24048028011"
+          ],
+          "issue": "פַחַת + עֶבְרֵי פִי rendered as interpretive entrada de una cueva",
+          "spanishSpan": "en la entrada de una cueva"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Hemos oído la arrogancia de Moab, su altivez y su orgullo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048029004",
+            "h24048029005"
+          ],
+          "issue": "omits licensed concept גֵּאֶה מְאֹד (very proud)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048029009",
+            "h24048029010"
+          ],
+          "issue": "omits licensed concept וְרֻם לִבּוֹ (height of his heart)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Yo sé, dice el Señor, su rebeldía, pero no así han actuado.",
+      "notes": "Spanish also collapses the two כֵן clauses into one statement.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048030005"
+          ],
+          "issue": "עֶבְרָתוֹ rendered as 'rebeldía' (wrong concept; lemma 5678 = fury/wrath)",
+          "spanishSpan": "su rebeldía"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048030008"
+          ],
+          "issue": "בַּדָּיו completely omitted",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048030004"
+          ],
+          "issue": "יְהוָה rendered as 'el Señor' instead of Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, a Moab lo llamo vano, y a todos en Quir-Heres gemirán.",
+      "notes": "Multiple mismatches; first clause entirely unsupported by tokens.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048031005"
+          ],
+          "issue": "Spanish renders אֲיֵלִיל as 'llamo vano', adding 'call vain' concept absent from lemma 3213 HVhi1cs",
+          "spanishSpan": "lo llamo vano"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048031013"
+          ],
+          "issue": "Spanish changes 3ms imperfect יֶהְגֶּה to plural 'gemirán', altering person and number",
+          "spanishSpan": "gemirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048031010",
+            "h24048031011",
+            "h24048031012"
+          ],
+          "issue": "Spanish 'a todos en Quir-Heres' omits 'men of' (אַנְשֵׁי) and alters the prepositional phrase structure",
+          "spanishSpan": "a todos en Quir-Heres"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Desde Bajithaizer lloraré por ti, oh viña que se marchita, porque tus frutos han cruzado el mar hasta Jazer, donde han sido devueltos; sobre tus cosechas y tus viñas ha caído el saqueador.",
+      "notes": "multiple lexical additions and substitutions not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048032001",
+            "h24048032002"
+          ],
+          "issue": "מִבְּכִי יַעְזֵר rendered as 'Desde Bajithaizer' instead of 'from the weeping of Jazer'",
+          "spanishSpan": "Desde Bajithaizer"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048032005",
+            "h24048032006"
+          ],
+          "issue": "הַגֶּפֶן שִׂבְמָה rendered as 'viña que se marchita' (adds 'that withers', omits Sibmah)",
+          "spanishSpan": "oh viña que se marchita"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048032007"
+          ],
+          "issue": "נְטִישֹׁתַיִךְ rendered as 'tus frutos' (tendrils/shoots → fruits)",
+          "spanishSpan": "tus frutos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048032011",
+            "h24048032012",
+            "h24048032013"
+          ],
+          "issue": "עַד יָם יַעְזֵר נָגָעוּ rendered as 'hasta Jazer, donde han sido devueltos' (omits 'sea of', replaces 'reached/touched' with 'returned')",
+          "spanishSpan": "hasta Jazer, donde han sido devueltos"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se recogerá la alegría y el regocijo del Carmel, y del país de Moab; y el vino de los lagares dejaré sin derramar, porque no derramaré, no derramaré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048033009",
+            "h24048033010",
+            "h24048033011",
+            "h24048033012",
+            "h24048033013",
+            "h24048033014",
+            "h24048033015"
+          ],
+          "issue": "renders hiphil cessation of wine + negative qal tread + repeated hedad as 'dejaré sin derramar... no derramaré' (wrong verb/action and added causal clause)",
+          "spanishSpan": "y el vino de los lagares dejaré sin derramar, porque no derramaré, no derramaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048033004"
+          ],
+          "issue": "Carmel rendered as proper 'Carmel' without licensed Spanish conventional form",
+          "spanishSpan": "del Carmel"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Desde el grito de Hesbon hasta Eleale, hasta Jahaz, han dado voces; desde Zoar hasta Horonaim, el ganado de tres años ha sido llevado; porque también los manantiales de Nimrim se han convertido en estanques.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048034012",
+            "h24048034013"
+          ],
+          "issue": "proper-name tokens rendered as common-noun phrase 'ganado de tres años'",
+          "spanishSpan": "el ganado de tres años ha sido llevado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048034018"
+          ],
+          "issue": "למשמות rendered as 'estanques' instead of desolations",
+          "spanishSpan": "estanques"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048034019"
+          ],
+          "issue": "imperfect יהיו rendered as past 'se han convertido'",
+          "spanishSpan": "se han convertido"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Haré que Moab deje de ofrecer, dice el Señor, sus altos y quemar incienso a sus dioses.",
+      "notes": "n/a",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048035003",
+            "h24048035004"
+          ],
+          "issue": "renders נְאֻם יְהוָה as 'dice el Señor' (wrong lemma, wrong proper name)",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048035004"
+          ],
+          "issue": "uses 'Señor' for יְהוָה instead of licensed Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24048035005",
+            "h24048035006",
+            "h24048035007"
+          ],
+          "issue": "grammatical smoothing turns participles into infinitives of Moab; number of במה changed to plural",
+          "spanishSpan": "ofrecer ... sus altos y quemar incienso"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso mi corazón para Moab como flautas gemirá, y mi corazón para los hombres de Quir-Heres como flautas gemirá; por eso caerán las riquezas de Asa.",
+      "notes": "ending clause mismatches lemma, morph and surface of tokens 16-18",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048036017",
+            "h24048036018"
+          ],
+          "issue": "עָשָׂה parsed as proper name 'Asa' instead of verb 'made/done'; אָבָדוּ rendered as future 'caerán' instead of perfect 'perished'",
+          "spanishSpan": "riquezas de Asa...caerán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048036016"
+          ],
+          "issue": "יִתְרַת combined with erroneous 'Asa' produces unlicenced 'riquezas de Asa'",
+          "spanishSpan": "las riquezas de Asa"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque toda cabeza rapada y toda barba cortada, y en todas las manos heridas, y en las caderas vendas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048037014"
+          ],
+          "issue": "שָׂק rendered as vendas (bandages) instead of sackcloth",
+          "spanishSpan": "vendas"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por todas las techumbres de Moab y en sus calles, por todas las calles, llanto; porque he quebrado a Moab, como no hay en él cosa que le agrade, dice el Señor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048038005",
+            "h24048038006"
+          ],
+          "issue": "duplicates 'por todas las calles' creating repetition absent from tokens",
+          "spanishSpan": "por todas las calles, por todas las calles"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048038016",
+            "h24048038017"
+          ],
+          "issue": "renders נְאֻם יְהוָה as 'dice el Señor' (adds 'dice', substitutes 'Señor' for proper name rendering)",
+          "spanishSpan": "dice el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Cómo se ha desvanecido el orgullo de Moab! ¡Cómo ha dado la espalda Moab y ha quedado avergonzado! Y será Moab objeto de risa y de maldición para todos sus vecinos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048039003"
+          ],
+          "issue": "omits the hiphil perfect 3cp verb הֵילִ֔ילוּ entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048039002"
+          ],
+          "issue": "adds unlicensed concept 'el orgullo' and renders חַתָּה as 'se ha desvanecido'",
+          "spanishSpan": "se ha desvanecido el orgullo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048039012"
+          ],
+          "issue": "renders מְחִתָּה as 'maldición' (curse) instead of destruction/terror/ruin",
+          "spanishSpan": "de maldición"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho el Señor: He aquí que como águila se alzará y extenderá sus alas sobre Moab.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048040004"
+          ],
+          "issue": "replaces יְהוָה with conventional title 'el Señor' instead of licensed rendering Jehová",
+          "spanishSpan": "el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Serán tomadas las ciudades fortificadas y las fortalezas serán ocupadas; y el corazón de los valientes de Moab en aquel día será como el corazón de una mujer en trabajo de parto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048041002"
+          ],
+          "issue": "adds 'fortificadas' to the cities (קְרִיּוֹת), a modifier not licensed by any token",
+          "spanishSpan": "ciudades fortificadas"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será destruido Moab de entre los pueblos, porque ha confiado en el Señor.",
+      "notes": "no token licenses 'confiar'",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048042007"
+          ],
+          "issue": "verb הגדיל rendered as 'ha confiado' (trust) instead of licensed sense 'ha engrandecido / se ha ensoberbecido'",
+          "spanishSpan": "porque ha confiado en el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048042005",
+            "h24048042006",
+            "h24048042007"
+          ],
+          "issue": "entire כי על יהוה הגדיל clause altered to opposite meaning",
+          "spanishSpan": "porque ha confiado en el Señor"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Terror y pánico y desastre sobre ti, morador de Moab, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048043002",
+            "h24048043003"
+          ],
+          "issue": "renders פַּחַת (pit/trap) and פַּח (snare/trap) as 'pánico' and 'desastre', adding unlicensed concepts",
+          "spanishSpan": "y pánico y desastre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048043001",
+            "h24048043002",
+            "h24048043003"
+          ],
+          "issue": "treats three distinct nouns as synonymous terror/panic/disaster instead of preserving lemma meanings",
+          "spanishSpan": "Terror y pánico y desastre"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por el terror caerán al pánico, y el que suba del pánico caerá en la trampa, porque traeré sobre Moab el año de su castigo, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048044003"
+          ],
+          "issue": "3ms verb rendered as plural",
+          "spanishSpan": "caerán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048044017"
+          ],
+          "issue": "3mp suffix rendered as singular possessive",
+          "spanishSpan": "su castigo"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En la sombra de Hesbón se mantendrán por el poder de Némesis, porque salió fuego de Hesbón y llamas de Siquén; y devoró la parte de Moab, y la cabeza de los hijos de Seón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048045004",
+            "h24048045005"
+          ],
+          "issue": "adds Némesis and misparses מִכֹּ֣חַ נָסִ֑ים as power of Nemesis instead of power of fugitives",
+          "spanishSpan": "por el poder de Némesis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048045003"
+          ],
+          "issue": "changes qal perfect 3cp עָמְד֖וּ to future se mantendrán",
+          "spanishSpan": "se mantendrán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048045012"
+          ],
+          "issue": "renders סִיח֔וֹן as Siquén instead of Sihón",
+          "spanishSpan": "Siquén"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048045018"
+          ],
+          "issue": "treats שָׁאוֹן as proper name Seón instead of common noun tumult",
+          "spanishSpan": "Seón"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay de ti, Moab! Has perecido, pueblo de Quemosh, porque tus hijos han sido llevados en cautiverio y tus hijas en cautividad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048046004"
+          ],
+          "issue": "verb person mismatch: Spanish 'Has perecido' (2sg) but token is HVqp3ms with subject 'עַם'",
+          "spanishSpan": "Has perecido"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero yo haré volver el cautiverio de Moab al fin de los días, dice el SEÑOR. Hasta ahora es juicio para Moab.",
+      "notes": "first token is conjunction 'and', not adversative",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048047001"
+          ],
+          "issue": "adds 'Pero' with no licensing token",
+          "spanishSpan": "Pero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24048047007"
+          ],
+          "issue": "YHWH rendered as SEÑOR instead of required Jehová",
+          "spanishSpan": "el SEÑOR"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T02:07:22.883702+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 49,
+    "verses": 47,
+    "input": 101487,
+    "cachedInput": 41600,
+    "output": 8457,
+    "reasoning": 40805,
+    "usd": 0.4381,
+    "byProvider": {
+      "xai": {
+        "calls": 48,
+        "input": 99033,
+        "output": 7976,
+        "reasoning": 40805,
+        "usd": 0.4284
+      },
+      "anthropic": {
+        "calls": 1,
+        "input": 2454,
+        "output": 481,
+        "reasoning": 0,
+        "usd": 0.0097
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 47,
+        "input": 97219,
+        "output": 7955,
+        "reasoning": 40270,
+        "usd": 0.4227
+      },
+      "polish": {
+        "calls": 1,
+        "input": 2454,
+        "output": 481,
+        "reasoning": 0,
+        "usd": 0.0097
+      },
+      "audit-polish": {
+        "calls": 1,
+        "input": 1814,
+        "output": 21,
+        "reasoning": 535,
+        "usd": 0.0056
+      }
+    },
+    "usdPerVerse": 0.0093,
+    "bibleAtThisRate": 290.0,
+    "book": "jeremias",
+    "chapter": 48
+  }
+}

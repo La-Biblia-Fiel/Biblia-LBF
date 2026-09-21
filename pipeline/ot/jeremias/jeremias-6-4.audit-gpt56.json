@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:4",
+  "chapter": 6,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Santifiquen la guerra contra ella, levántense y marchen al mediodía, ¡ay de nosotros! porque el día se ha vuelto tarde, porque los sombras de la tarde se inclinan.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006004005"
+      ],
+      "issue": "cohortative 1cp rendered as 2/3pl imperative, shifting participants from 'let us go up' to command addressed elsewhere",
+      "spanishSpan": "y marchen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006004010"
+      ],
+      "issue": "adds 'tarde' not licensed by the verb or following tokens",
+      "spanishSpan": "se ha vuelto tarde"
+    }
+  ],
+  "notes": "person shift on cohortative is decisive fail",
+  "discardedUncitedFindings": 0
+}

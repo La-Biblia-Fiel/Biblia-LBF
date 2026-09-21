@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:4",
+  "chapter": 50,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquellos días y en aquel tiempo vendrá el hijo de Israel, vendrá el hijo de Judá juntamente; irán llorando, y buscarán a Jehová su Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050004005",
+        "h24050004006"
+      ],
+      "issue": "omits נְאֻם יְהוָה entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050004007",
+        "h24050004008",
+        "h24050004009",
+        "h24050004010",
+        "h24050004011",
+        "h24050004012"
+      ],
+      "issue": "renders plural בְנֵי ... יָבֹאוּ הֵמָּה as singular 'vendrá el hijo'",
+      "spanishSpan": "vendrá el hijo de Israel, vendrá el hijo de Judá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

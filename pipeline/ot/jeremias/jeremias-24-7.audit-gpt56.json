@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 24:7",
+  "chapter": 24,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y les daré un corazón para que me conozcan, que yo soy el Señor, y serán para mí un pueblo, y yo seré para ellos un Dios, porque volverán a mí con todo su corazón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24024007008"
+      ],
+      "issue": "replaces proper name יהוה with title 'el Señor' instead of licensed 'Jehová'",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

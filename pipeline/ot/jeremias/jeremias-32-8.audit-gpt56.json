@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 32:8",
+  "chapter": 32,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vino a mí Hanameel, hijo de Safán, pariente mío, conforme a la palabra del SEÑOR, a la corte del guardia, y me dijo: Compra para ti mi campo que está en Anatot, en la tierra de Benjamín, porque a ti te pertenece el derecho de redención para comprarlo. Y yo supe que era la palabra del SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24032008004",
+        "h24032008005"
+      ],
+      "issue": "renders בֶּן דֹּדִי as 'hijo de Safán' (wrong proper name) instead of son of my uncle",
+      "spanishSpan": "hijo de Safán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:9",
+  "chapter": 9,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso no los castigaré por esto, dice el Señor? ¿Acaso no me vengaré de un pueblo como este?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009009007"
+      ],
+      "issue": "יהוה rendered as Señor instead of Jehová",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009009008",
+        "h24009009013",
+        "h24009009014"
+      ],
+      "issue": "אִם + hithpael 3fs נפשי turned into second independent question with 1cs vengaré",
+      "spanishSpan": "¿Acaso no me vengaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009009009",
+        "h24009009010",
+        "h24009009011"
+      ],
+      "issue": "בְּגוֹי אֲשֶׁר כָּזֶה rendered without locative preposition and with added question structure",
+      "spanishSpan": "de un pueblo como este"
+    }
+  ],
+  "notes": "multiple structural and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

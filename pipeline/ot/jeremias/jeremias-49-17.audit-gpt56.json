@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:17",
+  "chapter": 49,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Edom será para la destrucción; todos los que pasen por ella la verán y la maldirán por todas sus heridas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049017007",
+        "h24049017008"
+      ],
+      "issue": "replaces ישׁם + ישׁרק with 'verán y ... maldirán'",
+      "spanishSpan": "la verán y la maldirán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049017007",
+        "h24049017008",
+        "h24049017011"
+      ],
+      "issue": "changes action and participant relation: appalled/hiss at all her wounds → see and curse because of wounds",
+      "spanishSpan": "la verán y la maldirán por todas sus heridas"
+    }
+  ],
+  "notes": "first clause 'será para la destrucción' is acceptable paraphrase of לְשַׁמָּה",
+  "discardedUncitedFindings": 0
+}

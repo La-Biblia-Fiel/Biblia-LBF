@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:10",
+  "chapter": 25,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y haré que desaparezca de ellos el sonido de la alegría y el sonido de la risa, el sonido del novio y el sonido de la novia, el sonido del molino y la luz de la lámpara.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025010004",
+        "h24025010006"
+      ],
+      "issue": "רִשָּׂה rendered as 'risa' (laughter) instead of joy/rejoicing term licensed by lemma",
+      "spanishSpan": "el sonido de la risa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025010012"
+      ],
+      "issue": "dual millstones rendered as singular 'molino' (mill)",
+      "spanishSpan": "el sonido del molino"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

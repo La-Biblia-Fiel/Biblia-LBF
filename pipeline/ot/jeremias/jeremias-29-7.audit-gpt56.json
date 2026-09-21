@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:7",
+  "chapter": 29,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Buscad el bien de la ciudad a la cual yo os he desterrado, y orad por ella al SEÑOR, porque en su bienestar estará su bienestar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029007016"
+      ],
+      "issue": "omits לָכֶם (for you) in the final clause",
+      "spanishSpan": "porque en su bienestar estará su bienestar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029007001",
+        "h24029007009"
+      ],
+      "issue": "uses vosotros forms (Buscad, os, orad) instead of Latin American ustedes",
+      "spanishSpan": "Buscad ... os ... orad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029007012"
+      ],
+      "issue": "SEÑOR instead of conventional Jehová for יהוה",
+      "spanishSpan": "al SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

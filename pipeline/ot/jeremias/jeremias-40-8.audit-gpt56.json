@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 40:8",
+  "chapter": 40,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vinieron a Gedalía el escriba, Yishmael hijo de Netanya, y Jonatán y Shimai, hijos de Keret, y Seraja hijo de Tanhumet, y los hijos de Netofatá, y Jezaniah hijo de Maacat, ellos y sus hombres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040008004"
+      ],
+      "issue": "adds 'el escriba' with no token support; token is direction to Mizpah",
+      "spanishSpan": "Gedalía el escriba"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040008008",
+        "h24040008009"
+      ],
+      "issue": "renders יוֹחָנָן as Shimai instead of Johanan/Jonathan pair",
+      "spanishSpan": "Jonatán y Shimai"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24040008016"
+      ],
+      "issue": "renders gentilic as proper name 'Netofatá'",
+      "spanishSpan": "Netofatá"
+    }
+  ],
+  "notes": "multiple name and addition errors",
+  "discardedUncitedFindings": 0
+}

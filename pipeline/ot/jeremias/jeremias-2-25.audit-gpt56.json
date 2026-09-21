@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:25",
+  "chapter": 2,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Detén tus pies de la hora de la tarde, y tu fornicación de la noche; y no digas: No hay esperanza, porque amé a los extranjeros y tras ellos he ido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002025001",
+        "h24002025002",
+        "h24002025003"
+      ],
+      "issue": "renders 'withhold your foot from being bare' as 'Detén tus pies de la hora de la tarde'",
+      "spanishSpan": "Detén tus pies de la hora de la tarde"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002025004"
+      ],
+      "issue": "renders 'from thirst' as 'tu fornicación de la noche'",
+      "spanishSpan": "y tu fornicación de la noche"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002025005",
+        "h24002025006",
+        "h24002025007"
+      ],
+      "issue": "renders 'and you said, It is hopeless' as imperative 'y no digas: No hay esperanza'",
+      "spanishSpan": "y no digas: No hay esperanza"
+    }
+  ],
+  "notes": "candidate bears no relation to the supplied tokens",
+  "discardedUncitedFindings": 0
+}

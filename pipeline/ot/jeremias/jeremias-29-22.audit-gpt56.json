@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:22",
+  "chapter": 29,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y se tomará de ellos maldición para todo el cautiverio de Judá que está en Babilonia, diciendo: Así ha dicho Jehová: Pondréos como Sedequías y como Acajo, a quienes el rey de Babilonia quemó en el fuego.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029022010"
+      ],
+      "issue": "changes 3ms verb person to 1s (Pondréos instead of pondrá/hará)",
+      "spanishSpan": "Pondréos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029022010"
+      ],
+      "issue": "uses forbidden vosotros form",
+      "spanishSpan": "Pondréos"
+    }
+  ],
+  "notes": "person and variety mismatch on the key verb",
+  "discardedUncitedFindings": 0
+}

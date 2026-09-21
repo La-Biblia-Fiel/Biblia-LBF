@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:4",
+  "chapter": 51,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Caerán muertos en la tierra de los caldeos y atravesados en las calles de la ciudad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051004006"
+      ],
+      "issue": "adds 'de la ciudad' with no token licensing a city referent",
+      "spanishSpan": "de la ciudad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

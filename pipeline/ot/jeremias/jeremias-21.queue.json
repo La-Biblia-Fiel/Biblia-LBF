@@ -1,0 +1,352 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 21,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "passed": [
+    7,
+    8,
+    14
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra que vino a Jeremías del SEÑOR en el enviarle a mí el rey Sedequías a Pashhur hijo de Malquías y a Zephaniah hijo del Maaseías, el sacerdote, diciendo:",
+      "notes": "multiple additions, reorderings and participant errors",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021001003"
+          ],
+          "issue": "lemma 1961 (be) rendered as 'vino' (come), adding unlicensed concept",
+          "spanishSpan": "vino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021001007"
+          ],
+          "issue": "יהוה rendered SEÑOR instead of licensed Jehová",
+          "spanishSpan": "SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021001008",
+            "h24021001009"
+          ],
+          "issue": "b/7971 + 413+3ms rendered with unlicensed 'a mí' and participant shift",
+          "spanishSpan": "en el enviarle a mí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021001010",
+            "h24021001011",
+            "h24021001012",
+            "h24021001013"
+          ],
+          "issue": "word order and object structure altered; king is not the object of 'enviarle'",
+          "spanishSpan": "el rey Sedequías a Pashhur"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021001019"
+          ],
+          "issue": "construct chain rendered 'hijo del Maaseías' (extra 'del')",
+          "spanishSpan": "hijo del Maaseías"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ruega ahora por nosotros al SEÑOR, porque Nabucodonosor rey de Babilonia pelea contra nosotros; quizás el SEÑOR haga con nosotros conforme a todas sus maravillas, y te haga subir de sobre nosotros.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021002018",
+            "h24021002019"
+          ],
+          "issue": "renders 3ms verb + 1cp suffix as 2ms address 'te haga subir' instead of YHWH causing ascent from upon us",
+          "spanishSpan": "y te haga subir de sobre nosotros"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo Jeremías a ellos: Así les diréis a Sedecías:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021003005"
+          ],
+          "issue": "uses peninsular vosotros future diréis instead of Latin-American ustedes form (dirán)",
+          "spanishSpan": "diréis"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el SEÑOR Dios de Israel: He aquí, pongo las armas de la guerra que está en sus manos en manos del rey de Babilonia y de los caldeos, sus enemigos, que están fuera de la muralla; y los juntaré dentro de esta ciudad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021004007"
+          ],
+          "issue": "Spanish 'pongo' renders the hiphil participle of 5437 (turning) as 'put/place'",
+          "spanishSpan": "pongo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021004022"
+          ],
+          "issue": "Spanish adds 'sus enemigos' not licensed by the participle 'besieging'",
+          "spanishSpan": "sus enemigos"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo pelearé contra ustedes con mano extendida y con brazo fuerte, y con ira y con celos y con gran enojo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021005009"
+          ],
+          "issue": "חֵמָה rendered as 'celos' (jealousy/zeal) instead of wrath/fury/heat",
+          "spanishSpan": "y con celos"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los golpearé a los que habitasen en esta ciudad, al hombre y a la bestia; morirán de una gran peste.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021006003"
+          ],
+          "issue": "participle rendered as finite verb with subjunctive mood, adding hypothetical sense absent from tokens",
+          "spanishSpan": "a los que habitasen"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El que se queda en esta ciudad morirá de espada, de hambre y de peste; mas el que saliere y se entregare a los caldeos que están fuera de la ciudad vivirá, y su vida será por despojo.",
+      "notes": "omits 'besieging you' (2mp) and inserts unlicensed geographic detail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021009011",
+            "h24021009012",
+            "h24021009013"
+          ],
+          "issue": "adds 'que están fuera de la ciudad' (location not present in tokens)",
+          "spanishSpan": "que están fuera de la ciudad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021009009",
+            "h24021009010",
+            "h24021009011"
+          ],
+          "issue": "renders 'וְנָפַל עַל' as 'se entregare a' plus extra location instead of 'falls upon the Chaldeans who besiege you'",
+          "spanishSpan": "se entregare a los caldeos que están fuera de la ciudad"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque he puesto mi rostro contra esta ciudad para mal, y no para bien, dice Jehová; la entregaré en mano del rey de Babilonia, y la quemará con fuego.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021010014"
+          ],
+          "issue": "תנתן (niphal impf 3fs passive 'will be given') rendered as active 1cs 'entregaré'",
+          "spanishSpan": "la entregaré"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Oíd la palabra de Jehová, casa de David.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021011001",
+            "h24021011002",
+            "h24021011003"
+          ],
+          "issue": "omits 'and to the house of the king of Judah' and replaces with unlicensed 'casa de David'",
+          "spanishSpan": "casa de David"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Casa de David, así dice Jehová: Juzguen en la mañana, y liberen al cautivo de la mano del opresor, antes que salga mi ira como fuego, y arda, y no quede quien la apague, por la maldad de ustedes.",
+      "notes": "multiple lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021012008"
+          ],
+          "issue": "omits מִשְׁפָּ֔ט (judgment/justice) after 'en la mañana'",
+          "spanishSpan": "Juzguen en la mañana"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021012010"
+          ],
+          "issue": "גָז֖וּל rendered as 'cautivo' (adds captive concept; tokens only license robbed/plundered)",
+          "spanishSpan": "al cautivo"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que yo estoy contra ustedes que habitan en la llanura, en la roca del campo; dice Jehová: ¿Quién se atreverá a venir contra nosotros, y quién entrará en nuestros lugares fortificados?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021013002"
+          ],
+          "issue": "2fs suffix rendered as plural ustedes",
+          "spanishSpan": "ustedes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021013004"
+          ],
+          "issue": "valley rendered as llanura",
+          "spanishSpan": "llanura"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021013006"
+          ],
+          "issue": "plain rendered as campo",
+          "spanishSpan": "campo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021013011"
+          ],
+          "issue": "descend/go down rendered with added dare and come",
+          "spanishSpan": "se atreverá a venir"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24021013015"
+          ],
+          "issue": "dwellings/habitations rendered as fortified places",
+          "spanishSpan": "lugares fortificados"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:48:14.638102+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 14,
+    "verses": 14,
+    "input": 35877,
+    "cachedInput": 12544,
+    "output": 1741,
+    "reasoning": 12478,
+    "usd": 0.1383,
+    "byProvider": {
+      "xai": {
+        "calls": 14,
+        "input": 35877,
+        "output": 1741,
+        "reasoning": 12478,
+        "usd": 0.1383
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 14,
+        "input": 35877,
+        "output": 1741,
+        "reasoning": 12478,
+        "usd": 0.1383
+      }
+    },
+    "usdPerVerse": 0.0099,
+    "bibleAtThisRate": 307.0,
+    "book": "jeremias",
+    "chapter": 21
+  }
+}

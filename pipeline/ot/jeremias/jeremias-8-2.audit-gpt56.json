@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 8:2",
+  "chapter": 8,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y esparcirán sus huesos a las aves del cielo y a las bestias de la tierra, y no los recogerán ni los enterrarán; sobre la faz de la tierra quedarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008002002",
+        "h24008002003",
+        "h24008002004",
+        "h24008002005",
+        "h24008002006"
+      ],
+      "issue": "recipients changed from sun/moon/host of heaven to birds of heaven and beasts of earth",
+      "spanishSpan": "a las aves del cielo y a las bestias de la tierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24008002001"
+      ],
+      "issue": "adds 'sus huesos' not present in token; spreading action licensed only to listed celestial objects",
+      "spanishSpan": "esparcirán sus huesos"
+    }
+  ],
+  "notes": "Spanish matches later negation/burial tokens but fails opening clause",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:10",
+  "chapter": 6,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "¿A quién hablaré y daré testimonio para que escuchen? He aquí que sus oídos están llenos de cera, no pueden escuchar. He aquí que la palabra del Señor les es para burla, no quieren tenerla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006010007",
+        "h24006010008"
+      ],
+      "issue": "adds 'llenos de cera' concept not present in עֲרֵלָה אָזְנָם",
+      "spanishSpan": "sus oídos están llenos de cera"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006010014"
+      ],
+      "issue": "replaces יְהוָה with Señor instead of conventional Jehová",
+      "spanishSpan": "la palabra del Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

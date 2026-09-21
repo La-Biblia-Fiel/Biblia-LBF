@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:8",
+  "chapter": 31,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que los traigo desde el norte y los juntaré de los confines de la tierra. Entre ellos habrá ciego y cojo, mujer encinta y parturienta, y un gran número volverá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031008015"
+      ],
+      "issue": "קָהָל rendered as 'número' instead of preserving assembly/congregation",
+      "spanishSpan": "un gran número"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031008017"
+      ],
+      "issue": "יָשׁוּבוּ 3mp plural changed to singular 'volverá' by rephrasing subject",
+      "spanishSpan": "volverá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

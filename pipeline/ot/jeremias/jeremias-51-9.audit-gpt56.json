@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:9",
+  "chapter": 51,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Curad a Babilonia, pero no se cura. Dejadla y cada uno vaya a su tierra, porque su juicio llega hasta los cielos y se extiende hasta las nubes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051009001",
+        "h24051009002",
+        "h24051009004"
+      ],
+      "issue": "Spanish opens with imperative 'Curad' command; tokens only mark object + 'she was not healed' statement",
+      "spanishSpan": "Curad a Babilonia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051009006"
+      ],
+      "issue": "1cp 'נֵלֵךְ' rendered as 3sg 'vaya' instead of 1cp cohortative",
+      "spanishSpan": "cada uno vaya"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051009014"
+      ],
+      "issue": "adds 'se extiende' with no token support",
+      "spanishSpan": "se extiende"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

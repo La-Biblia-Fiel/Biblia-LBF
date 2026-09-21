@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 9:3",
+  "chapter": 9,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Han dirigido su lengua con flechas, han disparado mentiras, han crecido en la tierra con engaño. Porque de mal en peor salen, y no me conocen, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009003001",
+        "h24009003003",
+        "h24009003004",
+        "h24009003005"
+      ],
+      "issue": "adds 'con flechas' and 'han disparado mentiras' (arrows and shooting lies) absent from tokens; tokens only license 'they directed/bent their tongue their bow falsehood'",
+      "spanishSpan": "Han dirigido su lengua con flechas, han disparado mentiras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24009003006",
+        "h24009003007"
+      ],
+      "issue": "renders negation of faithfulness as positive 'con engaño'",
+      "spanishSpan": "han crecido en la tierra con engaño"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

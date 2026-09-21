@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:4",
+  "chapter": 49,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Qué te gloriarás en los valles? El río de tus valles fluye; oh hija que se va, que confía en sus tesoros: ¿quién vendrá a ti?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049004005"
+      ],
+      "issue": "adds 'río' and changes singular 'your valley' to plural 'tus valles'",
+      "spanishSpan": "El río de tus valles fluye"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049004012"
+      ],
+      "issue": "changes 'to me' (1cs) to 'a ti' (2fs)",
+      "spanishSpan": "a ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049004007"
+      ],
+      "issue": "renders שׁוֹבֵבָה as 'que se va' instead of licensed sense of backsliding/apostate",
+      "spanishSpan": "hija que se va"
+    }
+  ],
+  "notes": "multiple token mismatches",
+  "discardedUncitedFindings": 0
+}

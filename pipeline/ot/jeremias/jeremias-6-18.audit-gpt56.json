@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 6:18",
+  "chapter": 6,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, oigan las naciones y conozcan, oh congregación, lo que entre ustedes hay.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006018004"
+      ],
+      "issue": "2fs imperative rendered as 2mp conozcan",
+      "spanishSpan": "conozcan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006018008"
+      ],
+      "issue": "3mp suffix בָּם rendered as 2p ustedes instead of ellos/ellas",
+      "spanishSpan": "entre ustedes hay"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24006018005",
+        "h24006018004",
+        "h24006018008"
+      ],
+      "issue": "participant shift: 2fs address to עֵדָה and 3mp object become mixed 2p address and object",
+      "spanishSpan": "oh congregación, lo que entre ustedes hay"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

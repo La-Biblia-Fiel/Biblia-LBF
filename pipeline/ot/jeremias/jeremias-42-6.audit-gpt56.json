@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:6",
+  "chapter": 42,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Si sea bien o mal, actuaremos según la voz del Señor nuestro Dios, al que enviamos a ti para que intercedas por nosotros. Porque es para nuestro bien que escuchamos la voz del Señor nuestro Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042006008",
+        "h24042006009",
+        "h24042006010",
+        "h24042006011"
+      ],
+      "issue": "adds purpose clause 'para que intercedas por nosotros' absent from relative clause tokens",
+      "spanishSpan": "al que enviamos a ti para que intercedas por nosotros"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042006006",
+        "h24042006007",
+        "h24042006020",
+        "h24042006021"
+      ],
+      "issue": "renders יְהוָה as 'Señor' (title) instead of conventional proper name",
+      "spanishSpan": "Señor nuestro Dios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

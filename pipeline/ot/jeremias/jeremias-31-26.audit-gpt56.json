@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:26",
+  "chapter": 31,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso desperté y miré, y mi reposo se volvió para mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031026006"
+      ],
+      "issue": "עָ֥רְבָה (was pleasant) rendered as 'se volvió' (became/turned), adding change-of-state not licensed by qal perfect 3fs",
+      "spanishSpan": "se volvió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031026005"
+      ],
+      "issue": "שְׁנָתִי (my sleep) rendered as 'mi reposo' (my repose/rest) instead of sleep",
+      "spanishSpan": "mi reposo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

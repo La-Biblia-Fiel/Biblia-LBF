@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 31:28",
+  "chapter": 31,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será como cuando guardé atentamente para destruir, deshecer, derribar y arruinar, así guardaré atentamente para edificar y plantar, oráculo del SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24031028009"
+      ],
+      "issue": "omits the fifth destruction infinitive (וּלְהָרֵ֑עַ / to harm)",
+      "spanishSpan": "destruir, deshecer, derribar y arruinar"
+    }
+  ],
+  "notes": "Spanish lists only four negative actions; packet has five.",
+  "discardedUncitedFindings": 0
+}

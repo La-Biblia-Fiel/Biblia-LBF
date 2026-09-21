@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 23:29",
+  "chapter": 23,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso no es mi palabra como fuego, dice el SEÑOR, y como martillo que rompe la roca?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24023029002"
+      ],
+      "issue": "omission of כֹה (thus/so)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

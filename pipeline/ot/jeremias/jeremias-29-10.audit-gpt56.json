@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:10",
+  "chapter": 29,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque dice Jehová: Por cuanto ha llenado Babilonia de orgullo durante setenta años, yo os visitaré conforme a sus hechos, y cumpliré con ustedes mis palabras buenas para traeros de nuevo a este lugar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029010006",
+        "h24029010007",
+        "h24029010008",
+        "h24029010009",
+        "h24029010010"
+      ],
+      "issue": "adds 'ha llenado Babilonia de orgullo' with no licensing in tokens",
+      "spanishSpan": "ha llenado Babilonia de orgullo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029010006"
+      ],
+      "issue": "adds 'conforme a sus hechos' not present in לְפִי or any token",
+      "spanishSpan": "conforme a sus hechos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029010012",
+        "h24029010014",
+        "h24029010019"
+      ],
+      "issue": "uses vosotros 'os'/'traeros' instead of ustedes forms",
+      "spanishSpan": "os visitaré ... traeros"
+    }
+  ],
+  "notes": "core phrase מְלֹאת לְבָבֶל שִׁבְעִים שָׁנָה rendered as invented pride-filling concept",
+  "discardedUncitedFindings": 0
+}

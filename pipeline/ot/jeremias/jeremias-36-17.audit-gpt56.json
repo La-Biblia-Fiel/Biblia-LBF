@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 36:17",
+  "chapter": 36,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y le preguntaron: Cuéntanos, por favor, cómo escribiste todas estas palabras de su boca.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24036017002"
+      ],
+      "issue": "omits the proper name בָּרוּךְ (Baruch) as the direct object of the asking",
+      "spanishSpan": "Y le preguntaron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

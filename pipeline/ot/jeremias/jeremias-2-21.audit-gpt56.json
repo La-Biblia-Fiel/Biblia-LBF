@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:21",
+  "chapter": 2,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo te planté como un plantío de higos, todo él fruto de verdad. ¿Y cómo te has convertido para conmigo en plantío de viñas extranjeras?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002021003"
+      ],
+      "issue": "שֹׂרֵק rendered as 'higos' (figs); lemma is choice vine, not figs",
+      "spanishSpan": "plantío de higos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002021005"
+      ],
+      "issue": "זֶרַע rendered as 'fruto' (fruit); lemma is seed",
+      "spanishSpan": "fruto de verdad"
+    }
+  ],
+  "notes": "major lexical mismatch on vine term",
+  "discardedUncitedFindings": 0
+}

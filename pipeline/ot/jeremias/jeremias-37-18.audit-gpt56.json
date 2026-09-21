@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:18",
+  "chapter": 37,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Jeremías al rey Zedequías: ¿Qué he hecho yo contra ti, ni contra tus siervos, ni contra este pueblo, que me han puesto en la casa de la cárcel?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037018007"
+      ],
+      "issue": "חָטָאתִי (sin) rendered as 'he hecho' (done)",
+      "spanishSpan": "he hecho yo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037018013"
+      ],
+      "issue": "נְתַתֶּם (2mp you have put) rendered as 3pl 'han puesto'",
+      "spanishSpan": "me han puesto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

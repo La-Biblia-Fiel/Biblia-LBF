@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:26",
+  "chapter": 49,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso caerán en las calles los jóvenes de Damasco, y todos los hombres de guerra serán silenciados en aquel día, dice Jehová de los ejércitos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049026003",
+        "h24049026004"
+      ],
+      "issue": "adds explicit 'de Damasco' not present in tokens (only 3fs suffixes)",
+      "spanishSpan": "de Damasco"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

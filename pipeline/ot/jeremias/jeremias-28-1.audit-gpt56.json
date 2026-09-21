@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 28:1",
+  "chapter": 28,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En el año en que comenzó a reinar Zedequías, rey de Judá, en el cuarto año, en el mes quinto, me dijo Hananías, el profeta de Gibeón, en presencia de los sacerdotes y de todo el pueblo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028001020",
+        "h24028001021"
+      ],
+      "issue": "omits בְּבֵית יְהוָה entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24028001015",
+        "h24028001016"
+      ],
+      "issue": "omits בֶּן עַזּוּר",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

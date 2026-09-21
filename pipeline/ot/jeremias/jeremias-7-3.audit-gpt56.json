@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:3",
+  "chapter": 7,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el Señor de los ejércitos, el Dios de Israel: Mejorad vuestros caminos y vuestros actos, y yo os habituaré en este lugar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007003007",
+        "h24007003008",
+        "h24007003009",
+        "h24007003010",
+        "h24007003011"
+      ],
+      "issue": "uses Peninsular vosotros forms (Mejorad, vuestros, os) instead of Latin American ustedes",
+      "spanishSpan": "Mejorad vuestros ... os habituaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007003003"
+      ],
+      "issue": "renders יהוה as 'el Señor' instead of Jehová",
+      "spanishSpan": "el Señor de los ejércitos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

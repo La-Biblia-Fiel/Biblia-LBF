@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:49",
+  "chapter": 51,
+  "verse": 49,
+  "candidateLabel": "gpt56",
+  "spanish": "También Babilonia caerá, y los muertos de Israel caerán en ella; también Babilonia caerá, y los muertos de toda la tierra caerán en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051049002",
+        "h24051049003",
+        "h24051049004",
+        "h24051049005"
+      ],
+      "issue": "makes בבל the subject that falls; tokens make חללי ישראל the ones לנפל in relation to בבל",
+      "spanishSpan": "Babilonia caerá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051049007",
+        "h24051049008",
+        "h24051049009",
+        "h24051049010",
+        "h24051049011"
+      ],
+      "issue": "reverses structure so slain fall 'en ella'; tokens state slain fell לְבָבֶל",
+      "spanishSpan": "los muertos de toda la tierra caerán en ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051049001",
+        "h24051049006"
+      ],
+      "issue": "duplicates full parallel clauses with repetition of caerá/caerán; tokens use single coordinated structure with two גַּם",
+      "spanishSpan": "También Babilonia caerá...; también Babilonia caerá..."
+    }
+  ],
+  "notes": "major participant and syntactic reversal",
+  "discardedUncitedFindings": 0
+}

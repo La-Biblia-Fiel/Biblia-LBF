@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:11",
+  "chapter": 49,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Dejaré a tus huérfanos que yo alimente, y a tus viudas dependerán de mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049011001"
+      ],
+      "issue": "2ms qal imperative 'leave!' rendered as 1cs future 'Dejaré'",
+      "spanishSpan": "Dejaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049011004"
+      ],
+      "issue": "piel 1cs 'I will keep alive' rendered as purpose clause 'que yo alimente'",
+      "spanishSpan": "que yo alimente"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049011007"
+      ],
+      "issue": "3fp qal jussive 'let them trust' rendered as 3fp future indicative 'dependerán'",
+      "spanishSpan": "dependerán de mí"
+    }
+  ],
+  "notes": "Spanish changes mood, person, and verb semantics; fails to preserve imperative + jussive structure.",
+  "discardedUncitedFindings": 0
+}

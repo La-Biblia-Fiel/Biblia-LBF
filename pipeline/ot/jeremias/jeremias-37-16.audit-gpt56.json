@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 37:16",
+  "chapter": 37,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque entró Jeremías a la casa de la cárcel y a los pozos, y estuvo allí Jeremías muchos días.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037016006"
+      ],
+      "issue": "adds 'cárcel' (prison) concept not licensed by lemma H953 'bor' (pit/cistern)",
+      "spanishSpan": "cárcel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24037016008"
+      ],
+      "issue": "renders H2588 חֲנֻיוֹת (cells/vaults) as 'pozos' (wells)",
+      "spanishSpan": "pozos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

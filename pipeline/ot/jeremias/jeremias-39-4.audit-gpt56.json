@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 39:4",
+  "chapter": 39,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando Zedequías, rey de Judá, y todos los hombres de guerra vieron a los príncipes, huyeron por la noche desde la ciudad por el camino del jardín del rey, por la puerta entre las murallas, y salieron por el camino del desierto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039004003"
+      ],
+      "issue": "ראם is 3ms (he saw them); Spanish attributes seeing to plural subjects (Zedequías y todos los hombres)",
+      "spanishSpan": "vieron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24039004003"
+      ],
+      "issue": "adds 'a los príncipes' with no corresponding token or referent in the packet",
+      "spanishSpan": "vieron a los príncipes"
+    }
+  ],
+  "notes": "no other mismatches",
+  "discardedUncitedFindings": 0
+}

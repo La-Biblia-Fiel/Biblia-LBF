@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:30",
+  "chapter": 2,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Golpeé en vano a vuestros hijos; no aceptaron corrección. Vuestros profetas comieron a la espada como león devorador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002030008",
+        "h24002030009",
+        "h24002030010"
+      ],
+      "issue": "subject/object reversal: sword ate prophets, not prophets ate sword",
+      "spanishSpan": "Vuestros profetas comieron a la espada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002030004",
+        "h24002030009",
+        "h24002030010"
+      ],
+      "issue": "vosotros/vuestros form instead of Latin American ustedes/sus",
+      "spanishSpan": "vuestros hijos; Vuestros profetas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

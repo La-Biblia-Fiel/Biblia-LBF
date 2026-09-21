@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:12",
+  "chapter": 46,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Oigan, pueblos, la afrenta que te hacen, y la queja que te hacen, que llena la tierra; porque el valiente tropieza con el valiente, caen juntos, ambos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046012001",
+        "h24046012002"
+      ],
+      "issue": "verb rendered as 2pl imperative address instead of 3cp perfect",
+      "spanishSpan": "Oigan, pueblos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046012003",
+        "h24046012004"
+      ],
+      "issue": "adds 'que te hacen' twice, unlicensed interpretive verb and participants",
+      "spanishSpan": "la afrenta que te hacen, y la queja que te hacen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046012008",
+        "h24046012009",
+        "h24046012010"
+      ],
+      "issue": "changes perfect to present tense",
+      "spanishSpan": "tropieza"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

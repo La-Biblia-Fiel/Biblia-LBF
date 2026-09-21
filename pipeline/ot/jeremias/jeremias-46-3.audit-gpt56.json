@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 46:3",
+  "chapter": 46,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Ordena la defensa, prepara la guerra, y levántate para la batalla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046003001",
+        "h24046003002",
+        "h24046003003"
+      ],
+      "issue": "adds 'defensa' concept and omits licensed shields (magen + tsinnah)",
+      "spanishSpan": "Ordena la defensa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046003004",
+        "h24046003005"
+      ],
+      "issue": "replaces 'draw near to the war' with 'prepara la guerra' and 'levántate para la batalla'",
+      "spanishSpan": "prepara la guerra, y levántate para la batalla"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24046003004"
+      ],
+      "issue": "changes 2mp imperative participant and verb meaning; 'levántate' is 2s",
+      "spanishSpan": "levántate"
+    }
+  ],
+  "notes": "Spanish paraphrases and adds concepts absent from tokens.",
+  "discardedUncitedFindings": 0
+}

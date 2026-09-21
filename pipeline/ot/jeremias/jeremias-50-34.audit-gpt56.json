@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 50:34",
+  "chapter": 50,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "El Redentor de ellos es fuerte, el Señor de los ejércitos. Su nombre es Rival del Rival, que lucha por su causa para calmar la tierra y remover a los habitantes de Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050034006",
+        "h24050034007"
+      ],
+      "issue": "renders verb repetition as proper name/title 'Rival del Rival' not licensed by tokens",
+      "spanishSpan": "Rival del Rival"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050034014"
+      ],
+      "issue": "hirgiz rendered as 'remover' (remove) instead of disturb/stir up",
+      "spanishSpan": "remover"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24050034003"
+      ],
+      "issue": "YHWH rendered as 'Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

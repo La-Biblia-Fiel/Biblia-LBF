@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:6",
+  "chapter": 35,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijeron: No bebemos vino, porque Jonadab hijo de Recab, nuestro padre, nos mandó diciendo: No bebáis vino ustedes ni sus hijos por siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035006014",
+        "h24035006016",
+        "h24035006017"
+      ],
+      "issue": "vosotros verb form 'bebáis' instead of ustedes 'beban'",
+      "spanishSpan": "No bebáis vino ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

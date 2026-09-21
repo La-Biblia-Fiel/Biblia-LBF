@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 41:7",
+  "chapter": 41,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Cuando llegaron a la ciudad, Ishmael hijo de Nethaniah los mató en el pozo, junto con los hombres que estaban con él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24041007007",
+        "h24041007009"
+      ],
+      "issue": "Hebraized/English spelling of proper names instead of conventional Spanish forms",
+      "spanishSpan": "Ishmael hijo de Nethaniah"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

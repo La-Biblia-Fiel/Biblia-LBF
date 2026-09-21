@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 33:5",
+  "chapter": 33,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Vienen a pelear contra los caldeos y para llenar de cadáveres los cuerpos de los hombres que yo hice caer con mi ira y con mi furor, y de los que oculté mi rostro de esta ciudad, por toda su maldad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033005007",
+        "h24033005008"
+      ],
+      "issue": "adds 'los cuerpos de' not licensed by פגרי האדם",
+      "spanishSpan": "llenar de cadáveres los cuerpos de los hombres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24033005010"
+      ],
+      "issue": "changes הִכֵּיתִי (struck) to 'hice caer'",
+      "spanishSpan": "que yo hice caer"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

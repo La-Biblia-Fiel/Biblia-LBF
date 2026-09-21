@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:12",
+  "chapter": 30,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque Jehová dice: Aunque seas deshecho, yo te daré una herencia; tu castigo será tu tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030012002"
+      ],
+      "issue": "omits licensed adverb כֹה 'thus'",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030012005",
+        "h24030012006"
+      ],
+      "issue": "resolves אָנוּשׁ לְשִׁבְרֵךְ into concessive 'aunque seas deshecho' and adds unlisted verb 'seas'",
+      "spanishSpan": "Aunque seas deshecho"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030012007"
+      ],
+      "issue": "adds 'yo te daré una herencia' absent from HVNrfsa token",
+      "spanishSpan": "yo te daré una herencia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030012008"
+      ],
+      "issue": "replaces מַכָּתֵךְ with unrelated 'tu castigo será tu tierra'",
+      "spanishSpan": "tu castigo será tu tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

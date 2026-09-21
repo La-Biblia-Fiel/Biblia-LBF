@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:34",
+  "chapter": 2,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "También en tus alas he encontrado sangre de almas pobres e inocentes. No la encontré en un hoyo, sino que estaba sobre todas estas cosas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002034003",
+        "h24002034010"
+      ],
+      "issue": "Spanish renders both verbs as 1cs 'he encontrado'/'encontré' instead of Niphal 3cp passive + 2fs 'you (f) found them'",
+      "spanishSpan": "he encontrado... No la encontré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002034009"
+      ],
+      "issue": "מחתרת rendered as 'hoyo' (hole) instead of burglary/breaking-in",
+      "spanishSpan": "en un hoyo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

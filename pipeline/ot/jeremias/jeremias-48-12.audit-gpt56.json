@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:12",
+  "chapter": 48,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, he aquí que días vienen, dice Jehová, y enviaré a él que sopla la trompeta, y soplará en él. Y vaciarán sus vasos, y sus frascos se romperán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048012009",
+        "h24048012010"
+      ],
+      "issue": "adds trumpet-blower concept absent from tokens; צֹעִים/צֵעֻהוּ only license tilting/pouring action on the referent",
+      "spanishSpan": "a él que sopla la trompeta, y soplará en él"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:37",
+  "chapter": 49,
+  "verse": 37,
+  "candidateLabel": "gpt56",
+  "spanish": "Y haré caer a Elam delante de sus enemigos y delante de los que buscan su alma; y traeré sobre ellos el mal, el furor de mi ira, dice Jehová, y enviaré tras ellos la espada hasta que los haya consumido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049037001"
+      ],
+      "issue": "verb rendered as 'haré caer' (make fall) which is not licensed by lemma H2865 / morph Hiphil 1cs",
+      "spanishSpan": "haré caer"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 26:8",
+  "chapter": 26,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando Jeremías hubo acabado de hablar a todo lo que Jehová le había mandado hablar a todo el pueblo, los sacerdotes y los profetas y todo el pueblo le tomaron, diciendo: Morirás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24026008004",
+        "h24026008005",
+        "h24026008006",
+        "h24026008007",
+        "h24026008010",
+        "h24026008011",
+        "h24026008012",
+        "h24026008013"
+      ],
+      "issue": "Spanish inserts misplaced preposition 'a' and produces ungrammatical/ambiguous clause 'hablar a todo lo que ... hablar a todo el pueblo' that does not match the two לדבר + את כל + אל כל העם structure",
+      "spanishSpan": "hablar a todo lo que Jehová le había mandado hablar a todo el pueblo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

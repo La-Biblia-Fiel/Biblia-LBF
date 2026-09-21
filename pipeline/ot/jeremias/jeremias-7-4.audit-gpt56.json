@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:4",
+  "chapter": 7,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "No os fiéis de ustedes mismos, diciendo: El templo del Señor, el templo del Señor, el templo del Señor son estos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007004004",
+        "h24007004005",
+        "h24007004006"
+      ],
+      "issue": "omits אֶל־דִּבְרֵי הַשֶּׁקֶר entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007004002",
+        "h24007004003"
+      ],
+      "issue": "renders 2mp jussive + לָכֶם as vosotros 'os fiéis de ustedes mismos' instead of Latin-American ustedes form",
+      "spanishSpan": "No os fiéis de ustedes mismos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007004009",
+        "h24007004011",
+        "h24007004013"
+      ],
+      "issue": "renders יְהוָה as Señor instead of licensed Jehová",
+      "spanishSpan": "del Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

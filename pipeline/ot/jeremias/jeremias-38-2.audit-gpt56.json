@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:2",
+  "chapter": 38,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el Señor: El que permanece en esta ciudad morirá por la espada, por el hambre y por la peste, pero el que salga a los caldeos vivirá y su vida será su botín.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038002003"
+      ],
+      "issue": "YHWH rendered as 'el Señor' instead of required Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 30:21",
+  "chapter": 30,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será grande su poder, y de su medio saldrá su gobernante, y yo lo acercaré a mí; y se acercará a mí, porque ¿quién es este que se ha vuelto a mí con su corazón para venir a mí? Dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030021002"
+      ],
+      "issue": "אַדִּירוֹ rendered as 'grande su poder' (adds 'grande' and 'poder'; token is construct 'his mighty one')",
+      "spanishSpan": "Y será grande su poder"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24030021014",
+        "h24030021015",
+        "h24030021016"
+      ],
+      "issue": "עָרַב אֶת־לִבּוֹ rendered as 'se ha vuelto a mí con su corazón' (adds 'vuelto' and 'a mí'; token is 'has pledged his heart')",
+      "spanishSpan": "que se ha vuelto a mí con su corazón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

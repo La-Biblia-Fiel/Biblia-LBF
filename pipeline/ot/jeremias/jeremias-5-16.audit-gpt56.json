@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 5:16",
+  "chapter": 5,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Su cazo será como un sepulcro abierto. Todos ellos son guerreros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005016001"
+      ],
+      "issue": "cazo renders אַשְׁפָּה as pot/ladle instead of quiver",
+      "spanishSpan": "Su cazo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24005016002",
+        "h24005016003"
+      ],
+      "issue": "será adds future tense absent from the nominal/prepositional construction",
+      "spanishSpan": "será"
+    }
+  ],
+  "notes": "second clause matches tokens",
+  "discardedUncitedFindings": 0
+}

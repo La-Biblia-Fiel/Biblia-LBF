@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 51:12",
+  "chapter": 51,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Haced una señal en las murallas de Babilonia. Fortificad el puesto, estableced centinelas, preparad los cazadores, porque el Señor ha planeado y ha hecho lo que ha dicho a los habitantes de Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051012004"
+      ],
+      "issue": "verb rendered as 'haced' instead of lift/raise",
+      "spanishSpan": "Haced una señal"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051012011"
+      ],
+      "issue": "אֹרְבִים rendered as 'cazadores' (hunters) instead of ambushers/liars-in-wait",
+      "spanishSpan": "preparad los cazadores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051012015"
+      ],
+      "issue": "יְהוָה rendered as 'el Señor' instead of Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24051012001",
+        "h24051012005"
+      ],
+      "issue": "preposition and banner action altered to 'en las murallas'",
+      "spanishSpan": "una señal en las murallas"
+    }
+  ],
+  "notes": "multiple token mismatches on verbs and referents",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 52:32",
+  "chapter": 52,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Y le habló bien y le dio su trono por encima del trono de los reyes que estaban con él en Babilonia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24052032008",
+        "h24052032009",
+        "h24052032010",
+        "h24052032011"
+      ],
+      "issue": "adds 'los reyes' with no corresponding token or lemma",
+      "spanishSpan": "de los reyes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

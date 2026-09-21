@@ -1,0 +1,58 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 25:4",
+  "chapter": 25,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el Señor os ha enviado a todos sus siervos los profetas, levantándolos y enviándolos, pero no me han escuchado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025004003",
+        "h24025004011",
+        "h24025004013"
+      ],
+      "issue": "2mp addressees rendered as 3p participants with added 'me'",
+      "spanishSpan": "no me han escuchado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025004001",
+        "h24025004002",
+        "h24025004003",
+        "h24025004005",
+        "h24025004006",
+        "h24025004007"
+      ],
+      "issue": "syntax and participants inverted: Hebrew sends prophets to you; Spanish misparses as sending you to the prophets",
+      "spanishSpan": "os ha enviado a todos sus siervos los profetas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025004012",
+        "h24025004013",
+        "h24025004014",
+        "h24025004015",
+        "h24025004016"
+      ],
+      "issue": "entire second clause about not inclining the ear is omitted",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24025004002"
+      ],
+      "issue": "יהוה rendered as Señor instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    }
+  ],
+  "notes": "multiple participant and clause omissions",
+  "discardedUncitedFindings": 0
+}

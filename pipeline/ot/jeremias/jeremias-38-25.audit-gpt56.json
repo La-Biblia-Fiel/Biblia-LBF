@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 38:25",
+  "chapter": 38,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando los príncipes escuchen que hablaste conmigo y vengan a ti y te digan: Dinos ahora lo que dijiste al rey, no te ocultes de nosotros, no te mataremos, y lo que el rey te dijo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24038025005",
+        "h24038025006"
+      ],
+      "issue": "participant reversal: Spanish inverts speaker/addressee so that the 2s addressee spoke with the 1s speaker",
+      "spanishSpan": "que hablaste conmigo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

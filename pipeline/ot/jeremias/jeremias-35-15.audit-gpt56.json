@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 35:15",
+  "chapter": 35,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y envié a ustedes a todos mis siervos los profetas, levantándome y enviándolos, diciendo: Volved cada uno de su mala senda, y haced bien en sus caminos, y no andéis tras dioses ajenos para servirles; y sed habitantes de la tierra que os di a ustedes y a sus padres, y no me inclinasteis oídos, y no me escuchasteis.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035015028",
+        "h24035015031",
+        "h24035015033"
+      ],
+      "issue": "uses vosotros forms (os, inclinasteis) instead of ustedes",
+      "spanishSpan": "os di ... inclinasteis oídos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035015016"
+      ],
+      "issue": "renders מעלליכם as 'caminos' instead of deeds/doings",
+      "spanishSpan": "haced bien en sus caminos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24035015007",
+        "h24035015008"
+      ],
+      "issue": "adds reflexive 'me' and object 'los' not present in the infinitive absolutes",
+      "spanishSpan": "levantándome y enviándolos"
+    }
+  ],
+  "notes": "multiple token mismatches and wrong 2pl variety",
+  "discardedUncitedFindings": 0
+}

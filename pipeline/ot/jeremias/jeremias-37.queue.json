@@ -1,0 +1,359 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 37,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "passed": [
+    1,
+    2,
+    5,
+    6,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y envió el rey Sedequías a Iehucal, hijo de Selumías, y a Sofenías, hijo de Maasías, el sacerdote, a Jeremías el profeta, diciendo: Ruego que ores por nosotros a Jehová nuestro Dios.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037003017",
+            "h24037003018",
+            "h24037003019",
+            "h24037003020",
+            "h24037003021",
+            "h24037003022"
+          ],
+          "issue": "direct 2ms hithpael imperative + particle rendered as indirect 'Ruego que ores'",
+          "spanishSpan": "Ruego que ores por nosotros a Jehová nuestro Dios"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Jeremías venía y salía entre el pueblo, y no le daban en la cárcel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037004009"
+          ],
+          "issue": "adds 'cárcel' (prison) concept not licensed by בֵּ֥ית (house) token",
+          "spanishSpan": "en la cárcel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice Jehová, Dios de Israel: Así dirás al rey de Judá que envía a ti para que le busques: He aquí que el ejército del faraón que salió a tu ayuda ha vuelto a su tierra Egipto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037007007",
+            "h24037007012",
+            "h24037007019"
+          ],
+          "issue": "2mp verb and suffixes rendered as 2s (dirás, a ti, tu ayuda, busques)",
+          "spanishSpan": "dirás ... a ti ... tu ayuda ... busques"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice Jehová: No os engañéis diciendo: Se han ido los caldeos de nosotros. No se han ido.",
+      "notes": "Jehová and overall structure otherwise match tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037009005",
+            "h24037009006"
+          ],
+          "issue": "uses Peninsular vosotros form 'os engañéis' instead of Latin American ustedes",
+          "spanishSpan": "No os engañéis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037009009",
+            "h24037009014"
+          ],
+          "issue": "renders qal imperfect יֵלְכוּ as perfect 'se han ido' (tense/aspect change)",
+          "spanishSpan": "Se han ido ... No se han ido"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y se enojaron los príncipes contra Jeremías y le dieron de palos y le pusieron en la casa de la cárcel, en la casa de Jonatán el escriba, porque la hicieron cárcel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037015005"
+          ],
+          "issue": "adds unspecified instrument 'de palos'",
+          "spanishSpan": "le dieron de palos"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque entró Jeremías a la casa de la cárcel y a los pozos, y estuvo allí Jeremías muchos días.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037016006"
+          ],
+          "issue": "adds 'cárcel' (prison) concept not licensed by lemma H953 'bor' (pit/cistern)",
+          "spanishSpan": "cárcel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037016008"
+          ],
+          "issue": "renders H2588 חֲנֻיוֹת (cells/vaults) as 'pozos' (wells)",
+          "spanishSpan": "pozos"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y envió el rey Zedequías y le tomó, y le preguntó el rey en secreto, y dijo: ¿Hay palabra de Jehová? Y dijo Jeremías: Hay, y dijo: En la mano del rey de Babilonia serás puesto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037017007"
+          ],
+          "issue": "omits בְּבֵיתוֹ (in his house) from the location of the questioning",
+          "spanishSpan": "en secreto"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo Jeremías al rey Zedequías: ¿Qué he hecho yo contra ti, ni contra tus siervos, ni contra este pueblo, que me han puesto en la casa de la cárcel?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037018007"
+          ],
+          "issue": "חָטָאתִי (sin) rendered as 'he hecho' (done)",
+          "spanishSpan": "he hecho yo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037018013"
+          ],
+          "issue": "נְתַתֶּם (2mp you have put) rendered as 3pl 'han puesto'",
+          "spanishSpan": "me han puesto"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y sus profetas que profetizaronos, diciendo: No vendrá el rey de Babilonia sobre ustedes, ni sobre esta tierra.",
+      "notes": "initial 'Y' also unlicensed",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037019001",
+            "h24037019004"
+          ],
+          "issue": "2mp suffixes rendered inconsistently as 3rd-person 'sus' instead of 2nd-person address matching 'ustedes'",
+          "spanishSpan": "sus profetas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037019003",
+            "h24037019004"
+          ],
+          "issue": "Niphal 'prophesied to you' rendered as invalid 'profetizaronos' (wrong person and form)",
+          "spanishSpan": "profetizaronos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037019011"
+          ],
+          "issue": "conjunction 'and upon' rendered as 'ni' (nor), changing coordination to disjunction",
+          "spanishSpan": "ni sobre"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ahora, te ruego, oh mi señor el rey, escucha mi súplica y no me eches en la casa de Jonatán el escriba, y no moriré allí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037020006",
+            "h24037020008",
+            "h24037020009"
+          ],
+          "issue": "replaces תִּפֹּל נָא תְחִנָּתִי לְפָנֶיךָ with interpretive 'te ruego... escucha mi súplica'",
+          "spanishSpan": "te ruego, oh mi señor el rey, escucha mi súplica"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037020011"
+          ],
+          "issue": "תְּשִׁבֵנִי (hiphil jussive 'cause me to return') rendered as 'no me eches' (throw/cast)",
+          "spanishSpan": "no me eches"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El rey Zedequías ordenó que se guardara a Jeremías en la corte de la cárcel y que se le diera un cuartillo de pan cada día fuera del horno, hasta que se acabara todo el pan en la ciudad. Jeremías permaneció en la corte de la cárcel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037021011",
+            "h24037021012"
+          ],
+          "issue": "adds 'cuartillo' measure not present in ככר לחם",
+          "spanishSpan": "un cuartillo de pan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24037021004",
+            "h24037021015"
+          ],
+          "issue": "misrenders פקד hiphil assignment and האפים bakers as 'guardara ... fuera del horno'",
+          "spanishSpan": "se guardara ... fuera del horno"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:55:12.523451+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 23,
+    "verses": 21,
+    "input": 55838,
+    "cachedInput": 19712,
+    "output": 2905,
+    "reasoning": 18176,
+    "usd": 0.2127,
+    "byProvider": {
+      "xai": {
+        "calls": 22,
+        "input": 52675,
+        "output": 1867,
+        "reasoning": 18176,
+        "usd": 0.196
+      },
+      "anthropic": {
+        "calls": 1,
+        "input": 3163,
+        "output": 1038,
+        "reasoning": 0,
+        "usd": 0.0167
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 21,
+        "input": 50450,
+        "output": 1846,
+        "reasoning": 17503,
+        "usd": 0.1888
+      },
+      "polish": {
+        "calls": 1,
+        "input": 3163,
+        "output": 1038,
+        "reasoning": 0,
+        "usd": 0.0167
+      },
+      "audit-polish": {
+        "calls": 1,
+        "input": 2225,
+        "output": 21,
+        "reasoning": 673,
+        "usd": 0.0073
+      }
+    },
+    "usdPerVerse": 0.0101,
+    "bibleAtThisRate": 315.0,
+    "book": "jeremias",
+    "chapter": 37
+  }
+}

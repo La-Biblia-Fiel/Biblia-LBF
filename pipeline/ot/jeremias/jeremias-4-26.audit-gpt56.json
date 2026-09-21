@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 4:26",
+  "chapter": 4,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Vi y no había nada; el campo se había convertido en desierto, y todas las ciudades estaban en ruinas, por causa del SEÑOR, por causa de la ira de su rostro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004026002"
+      ],
+      "issue": "adds 'no había nada' not licensed by 'vehinneh'",
+      "spanishSpan": "y no había nada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004026003",
+        "h24004026004"
+      ],
+      "issue": "interprets juxtaposition as 'el campo se había convertido en desierto'",
+      "spanishSpan": "el campo se había convertido en desierto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24004026012"
+      ],
+      "issue": "renders 'appo' as 'rostro' (face) instead of anger/nose",
+      "spanishSpan": "de su rostro"
+    }
+  ],
+  "notes": "multiple additions and interpretive expansions beyond tokens",
+  "discardedUncitedFindings": 0
+}

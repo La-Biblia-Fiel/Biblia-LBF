@@ -1,0 +1,973 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 7,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "passed": [
+    18,
+    19,
+    27
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra que vino a Jeremías de parte del Señor, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007001007"
+          ],
+          "issue": "YHWH rendered as 'Señor' instead of licensed conventional 'Jehová'",
+          "spanishSpan": "del Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007001003"
+          ],
+          "issue": "lemma היה rendered with added motion concept 'vino' not licensed by tokens (surface 'was', lemma 'to be/happen')",
+          "spanishSpan": "vino"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Establece a la puerta de la casa del Señor y anuncia allí estas palabras y di: Escuchad la palabra del Señor, todo Judá que entra por estas puertas para adorar al Señor.",
+      "notes": "first-verb mismatch alone triggers fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007002001"
+          ],
+          "issue": "עֲמֹ֗ד (stand, Qal impv 2ms) rendered as 'Establece' (establish/set up)",
+          "spanishSpan": "Establece"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007002004",
+            "h24007002013",
+            "h24007002020"
+          ],
+          "issue": "יהוה rendered as 'Señor' instead of Jehová",
+          "spanishSpan": "Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007002008"
+          ],
+          "issue": "הַדָּבָ֖ר (this word, singular) rendered as plural 'palabras'",
+          "spanishSpan": "estas palabras"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el Señor de los ejércitos, el Dios de Israel: Mejorad vuestros caminos y vuestros actos, y yo os habituaré en este lugar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007003007",
+            "h24007003008",
+            "h24007003009",
+            "h24007003010",
+            "h24007003011"
+          ],
+          "issue": "uses Peninsular vosotros forms (Mejorad, vuestros, os) instead of Latin American ustedes",
+          "spanishSpan": "Mejorad vuestros ... os habituaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007003003"
+          ],
+          "issue": "renders יהוה as 'el Señor' instead of Jehová",
+          "spanishSpan": "el Señor de los ejércitos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No oprimiréis al extranjero, al huérfano y a la viuda, no derramaréis sangre inocente en este lugar, ni andaréis tras dioses ajenos para vuestro mal.",
+      "notes": "otherwise faithful to tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007006005",
+            "h24007006009",
+            "h24007006016"
+          ],
+          "issue": "uses vosotros conjugation (oprimiréis, derramaréis, andaréis) instead of Latin American ustedes",
+          "spanishSpan": "oprimiréis ... derramaréis ... andaréis"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo os habituaré en este lugar, en la tierra que di a vuestros padres desde antiguo hasta siempre.",
+      "notes": "verb choice also inexact but vosotros alone triggers fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007007002",
+            "h24007007008"
+          ],
+          "issue": "vosotros forms (os, vuestros) instead of Latin-American ustedes",
+          "spanishSpan": "os habituaré ... vuestros padres"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que confiáis en mentiras, sin provecho.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007008006",
+            "h24007008007"
+          ],
+          "issue": "omits 'dibre hashaqer' (words of the lie); collapses to direct 'mentiras'",
+          "spanishSpan": "mentiras"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007008004"
+          ],
+          "issue": "omits 2mp dative 'lachem' (for yourselves)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Roban, matan, violan, juran falsedad, ofrecen incienso a Baal, y siguen a dioses que no conocen?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007009003"
+          ],
+          "issue": "נָאֹף (H5003 commit adultery) rendered as violan (rape/violate) instead of adulterio",
+          "spanishSpan": "violan"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vendréis y os presentaréis ante mí en esta casa que se llama por mi nombre, y diréis: “Nos hemos apartado”, para hacer todas estas abominaciones.",
+      "notes": "main semantic mismatch on H5337",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007010011"
+          ],
+          "issue": "נִצַּלְנוּ (niphal 'we have been delivered/rescued') rendered as 'Nos hemos apartado' (we have departed/separated)",
+          "spanishSpan": "Nos hemos apartado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007010001",
+            "h24007010002",
+            "h24007010010"
+          ],
+          "issue": "2mp sequential perfect verbs rendered with vosotros forms (vendréis, presentaréis, diréis) instead of Latin American ustedes",
+          "spanishSpan": "vendréis ... presentaréis ... diréis"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque id ahora al lugar de Silo, donde habité primero, y mirad lo que hice allí por causa del mal de mi pueblo Israel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007012005",
+            "h24007012009",
+            "h24007012010"
+          ],
+          "issue": "omits שְׁמִי and changes piel שִׁכַּנְתִּי to plain 'habité' instead of 'hice habitar mi nombre'",
+          "spanishSpan": "donde habité primero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007012005",
+            "h24007012007"
+          ],
+          "issue": "renders מְקוֹמִי בְּשִׁילוֹ as 'lugar de Silo' instead of 'mi lugar en Silo'",
+          "spanishSpan": "al lugar de Silo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y os echaré de delante de mí, como eché a todos vuestros hermanos, a toda la simiente de Efraín.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007015002",
+            "h24007015009"
+          ],
+          "issue": "vosotros forms (os, vuestros) instead of Latin-American ustedes",
+          "spanishSpan": "os ... vuestros"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú no orarás por este pueblo, ni levantarás clamor ni oración por ellos, porque yo no oigo a ti.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007016012",
+            "h24007016013",
+            "h24007016014"
+          ],
+          "issue": "omits the third prohibition 'and do not intercede with me'",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿No veis lo que hacen en las ciudades de Judá y en las calles de Jerusalén?",
+      "notes": "vosotros form and number mismatch on 2ms address",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007017001"
+          ],
+          "issue": "2ms suffix rendered as 2pl vosotros 'veis' instead of tú 'ves'",
+          "spanishSpan": "veis"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso dice el SEÑOR, el Dios de los ejércitos: He aquí que mi ira y mi enojo se han encendido contra este lugar, contra los hombres y contra las bestias, contra las plantas y contra los frutos del suelo; arderá y no se apagará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007020004",
+            "h24007020005"
+          ],
+          "issue": "adds 'el Dios de los ejércitos' not present in tokens",
+          "spanishSpan": "el Dios de los ejércitos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007020009"
+          ],
+          "issue": "renders נתך 'poured out' as 'se han encendido'",
+          "spanishSpan": "se han encendido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007020018",
+            "h24007020019"
+          ],
+          "issue": "renders עץ השדה as 'las plantas' instead of tree/field",
+          "spanishSpan": "las plantas"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dice el SEÑOR de los ejércitos, el Dios de Israel: Quemad las ofrendas de paz y comed la carne.",
+      "notes": "Spanish inverts the command and offering type.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007021007"
+          ],
+          "issue": "עֹלוֹתֵיכֶם rendered as ofrendas de paz (peace offerings) instead of burnt offerings",
+          "spanishSpan": "las ofrendas de paz"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007021008"
+          ],
+          "issue": "סְפוּ (add/heap) rendered as Quemad (burn)",
+          "spanishSpan": "Quemad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007021010"
+          ],
+          "issue": "זִבְחֵיכֶם (sacrifices) omitted or collapsed into the wrong offering phrase",
+          "spanishSpan": "las ofrendas de paz"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque no hablé con vuestros padres ni les dije en el día que los saqué de la tierra de Egipto acerca de ofrendas de paz y sacrificios.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007022007"
+          ],
+          "issue": "Spanish renders צִוִּיתִם as 'dije' (said) instead of commanded",
+          "spanishSpan": "ni les dije"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007022014",
+            "h24007022015"
+          ],
+          "issue": "Spanish renders עוֹלָה וָזָבַח as 'ofrendas de paz y sacrificios', inserting 'de paz' not present in tokens",
+          "spanishSpan": "ofrendas de paz y sacrificios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007022005"
+          ],
+          "issue": "Uses 'vuestros' (vosotros form) instead of Latin American 'sus' or equivalent",
+          "spanishSpan": "vuestros padres"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero no escucharon ni inclinaron el oído, sino que anduvieron en la rebeldía de sus corazones malvados, y se volvieron la espalda y no la cara.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007024008"
+          ],
+          "issue": "omits licensed concept מֹעֵצוֹת (counsels/plans)",
+          "spanishSpan": "anduvieron en la rebeldía"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Desde el día que sus padres salieron de la tierra de Egipto hasta este día, yo les envié a mis siervos los profetas día tras día.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007025005",
+            "h24007025012"
+          ],
+          "issue": "2mp suffixes rendered as 3rd-person (sus/les) instead of 2nd-person addressee",
+          "spanishSpan": "sus padres ... les envié"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero no me escucharon, ni inclinaron el oído, y endurecieron sus espaldas, se rebelaron más que sus padres.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007026010"
+          ],
+          "issue": "neck (6203) rendered as espaldas (backs) instead of cuello(s)",
+          "spanishSpan": "endurecieron sus espaldas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007026011",
+            "h24007026012"
+          ],
+          "issue": "H7489 hiphil (did evil / became worse) rendered as se rebelaron (rebelled)",
+          "spanishSpan": "se rebelaron más que sus padres"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y les dirás: Este pueblo tiene la costumbre de no escuchar la voz del SEÑOR su Dios, ni de recibir la corrección; la fe se ha perdido, y la verdad ha sido cortada de su boca.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007028007",
+            "h24007028012"
+          ],
+          "issue": "adds un-licensed concept 'tiene la costumbre de'",
+          "spanishSpan": "tiene la costumbre de"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007028015"
+          ],
+          "issue": "splits single אֱמוּנָה into two distinct concepts 'fe' and 'verdad'",
+          "spanishSpan": "la fe ... la verdad"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cáscate el cabello y tómatelo, y pon sobre las sienes una corona de amargura, porque el SEÑOR ha rechazado y ha abandonado a la generación de su ira.",
+      "notes": "no licensed concepts for crown, bitterness, or temples",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007029001",
+            "h24007029002",
+            "h24007029003",
+            "h24007029004",
+            "h24007029006",
+            "h24007029007"
+          ],
+          "issue": "Spanish renders unrelated actions and objects (cut hair + take it, crown of bitterness on temples) instead of the licensed sequence: shear your consecration, cast away, lift lamentation on bare heights",
+          "spanishSpan": "Cáscate el cabello y tómatelo, y pon sobre las sienes una corona de amargura"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007029006",
+            "h24007029007"
+          ],
+          "issue": "שְׁפָיִם קִינָה rendered as 'corona de amargura' (adds crown + bitterness absent from tokens)",
+          "spanishSpan": "una corona de amargura"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque los hijos de Judá han hecho lo malo a mis ojos, dice el SEÑOR, han puesto sus abominaciones en la casa que yo he llamado por mi nombre, para profanarla.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007030013",
+            "h24007030014",
+            "h24007030015"
+          ],
+          "issue": "Niphal passive נִקְרָא with עָלָיו rendered as active 'yo he llamado por mi nombre' instead of 'mi nombre fue llamado sobre ella'",
+          "spanishSpan": "la casa que yo he llamado por mi nombre"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y han construido altas montañas en el valle de Hinnom para quemar a sus hijos y a sus hijas en el fuego, cosa que no mandé y que no subió a mi corazón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007031002"
+          ],
+          "issue": "בָּמ֣וֹת rendered as 'altas montañas' (adds 'montañas' not licensed by lemma 1116)",
+          "spanishSpan": "altas montañas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007031003"
+          ],
+          "issue": "הַתֹּ֗פֶת omitted entirely",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, días vienen, dice el SEÑOR, y no se dirá más Tophet ni valle de Hinnom, sino Valle de Asesinato, y se enterrarán en Tophet sin lugar.",
+      "notes": "minor smoothing on hinneh and conventional names not fatal but voice change is",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007032018"
+          ],
+          "issue": "changes active 3cp 'they will bury' to passive 'se enterrarán' (they will be buried)",
+          "spanishSpan": "se enterrarán"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 33,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será la carne de este pueblo alimento para las aves del cielo y para las bestias de la tierra, y no habrá quien las espante.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007033002"
+          ],
+          "issue": "niblat (carcass) rendered as carne (flesh), substituting a non-licensed noun",
+          "spanishSpan": "la carne"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré callar en las ciudades de Judá y en las alrededores de Jerusalén el grito de alegría y el grito de júbilo, el grito de novio y el grito de novia, porque será un desierto la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007034002",
+            "h24007034004"
+          ],
+          "issue": "מֵ rendered as 'en' (in) instead of 'from'",
+          "spanishSpan": "en las ciudades de Judá y en las alrededores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007034004"
+          ],
+          "issue": "חֻצוֹת rendered as 'alrededores' (surroundings) instead of streets/outskirts",
+          "spanishSpan": "alrededores de Jerusalén"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007034006",
+            "h24007034008",
+            "h24007034010",
+            "h24007034012"
+          ],
+          "issue": "קוֹל rendered as 'grito' (cry/shout) instead of voice/sound",
+          "spanishSpan": "el grito de alegría"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007034015"
+          ],
+          "issue": "לְחָרְבָּה rendered as 'un desierto' (a desert) instead of desolation/waste",
+          "spanishSpan": "un desierto la tierra"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No os fiéis de ustedes mismos, diciendo: El templo del Señor, el templo del Señor, el templo del Señor son estos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007004004",
+            "h24007004005",
+            "h24007004006"
+          ],
+          "issue": "omits אֶל־דִּבְרֵי הַשֶּׁקֶר entirely",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007004002",
+            "h24007004003"
+          ],
+          "issue": "renders 2mp jussive + לָכֶם as vosotros 'os fiéis de ustedes mismos' instead of Latin-American ustedes form",
+          "spanishSpan": "No os fiéis de ustedes mismos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007004009",
+            "h24007004011",
+            "h24007004013"
+          ],
+          "issue": "renders יְהוָה as Señor instead of licensed Jehová",
+          "spanishSpan": "del Señor"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero si mejoráis sus caminos y sus actos, si juzgáis justamente entre uno y otro, entonces harán bien.",
+      "notes": "multiple person and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007005004",
+            "h24007005011"
+          ],
+          "issue": "2mp verbs rendered as 3pl (harán) instead of 2pl ustedes",
+          "spanishSpan": "harán bien"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007005004",
+            "h24007005011"
+          ],
+          "issue": "vosotros 2pl forms used instead of Latin American ustedes",
+          "spanishSpan": "mejoráis, juzgáis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007005006",
+            "h24007005008"
+          ],
+          "issue": "2mp suffixes rendered as 3rd-person sus instead of 2nd-person",
+          "spanishSpan": "sus caminos y sus actos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007005014",
+            "h24007005016"
+          ],
+          "issue": "אִישׁ וּבֵין רֵעֵהוּ rendered as generic uno y otro, omitting man/neighbor relation",
+          "spanishSpan": "entre uno y otro"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Esta casa que se llama por mi nombre, que ustedes la han convertido en cueva de ladrones, delante de ustedes la he visto, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007011001"
+          ],
+          "issue": "omits interrogative particle, turns question into declarative statement",
+          "spanishSpan": "Esta casa"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007011003"
+          ],
+          "issue": "changes הָיָה (has become, 3ms) to active 2pl verb attributing action to addressees",
+          "spanishSpan": "que ustedes la han convertido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007011010"
+          ],
+          "issue": "renders בְּעֵינֵיכֶם as delante de ustedes instead of preserving in-your-eyes idiom",
+          "spanishSpan": "delante de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ahora, por hacer ustedes todas estas obras, dice el SEÑOR, hablé yo a ustedes, levanté mi voz, pero no me escuchasteis; llamé a ustedes, pero no me respondisteis.",
+      "notes": "multiple additions and wrong verbal variety",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007013012",
+            "h24007013013"
+          ],
+          "issue": "adds 'levanté mi voz' not licensed by the infinitive absolutes",
+          "spanishSpan": "levanté mi voz"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007013008",
+            "h24007013009"
+          ],
+          "issue": "renders נאם יהוה as 'dice el SEÑOR' adding speech verb absent from tokens",
+          "spanishSpan": "dice el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007013015",
+            "h24007013019"
+          ],
+          "issue": "uses vosotros preterite forms (escuchasteis, respondisteis) instead of Latin-American ustedes",
+          "spanishSpan": "escuchasteis; respondisteis"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré a esta casa, que se llama por mi nombre, a la cual confiáis, y a este lugar que os he dado a ustedes y a sus padres, lo que hice a Silo.",
+      "notes": "address form mismatch on 2mp",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007014008",
+            "h24007014009",
+            "h24007014014",
+            "h24007014015"
+          ],
+          "issue": "uses vosotros forms (confiáis, os) and 3rd-person sus instead of consistent ustedes/vuestros for 2mp addressees",
+          "spanishSpan": "confiáis ... os he dado a ustedes y a sus padres"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero os dije: Escuchad mi voz y yo seré para ustedes por Dios, y ustedes serán para mí por pueblo, y andaréis en todo el camino que yo os mandare, para que os vaya bien.",
+      "notes": "multiple mismatches including wrong Spanish variety",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007023006",
+            "h24007023007",
+            "h24007023008"
+          ],
+          "issue": "adds 'os dije' (I told you) not licensed by tziviti otam leemor (I commanded them saying)",
+          "spanishSpan": "Pero os dije"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007023009",
+            "h24007023015",
+            "h24007023018",
+            "h24007023022",
+            "h24007023023"
+          ],
+          "issue": "uses vosotros conjugations (os, Escuchad, andaréis, mandare) instead of Latin American ustedes forms",
+          "spanishSpan": "os dije... Escuchad... andaréis... os mandare"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24007023004",
+            "h24007023005"
+          ],
+          "issue": "omits 'este mandamiento / esta palabra' (ha-davar hazzeh)",
+          "spanishSpan": ""
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "updated": "2026-09-20T01:31:09.624445+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 34,
+    "verses": 34,
+    "input": 81681,
+    "cachedInput": 17792,
+    "output": 5216,
+    "reasoning": 29518,
+    "usd": 0.3451,
+    "byProvider": {
+      "xai": {
+        "calls": 34,
+        "input": 81681,
+        "output": 5216,
+        "reasoning": 29518,
+        "usd": 0.3451
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 34,
+        "input": 81681,
+        "output": 5216,
+        "reasoning": 29518,
+        "usd": 0.3451
+      }
+    },
+    "usdPerVerse": 0.0102,
+    "bibleAtThisRate": 316.0,
+    "book": "jeremias",
+    "chapter": 7
+  }
+}

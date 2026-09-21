@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 49:30",
+  "chapter": 49,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Huyan, huyan mucho, profundicen para habitar, habitantes de Hazor, dice Jehová, porque ha dado consejo contra ustedes Nabucodonosor, rey de Babilonia, y ha planeado contra ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24049030012",
+        "h24049030017",
+        "h24049030018"
+      ],
+      "issue": "introduces 3mp participant 'ellos' for the second verb where tokens only license 2mp 'עֲלֵיכֶם' on the first and no object suffix on the second",
+      "spanishSpan": "contra ellos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

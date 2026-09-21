@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 29:19",
+  "chapter": 29,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque no escucharon mis palabras, dice Jehová, a los cuales envié a ellos a mis siervos los profetas, levantándolos y enviándolos, y no escuchasteis, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029019015",
+        "h24029019016"
+      ],
+      "issue": "infinitive absolutes rendered with added object 'los' and participial construction not licensed by the tokens",
+      "spanishSpan": "levantándolos y enviándolos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24029019009",
+        "h24029019010",
+        "h24029019011",
+        "h24029019012",
+        "h24029019013",
+        "h24029019014"
+      ],
+      "issue": "relative clause restructured with awkward word order and inserted 'a ellos' that alters the direct-object flow of the tokens",
+      "spanishSpan": "a los cuales envié a ellos a mis siervos los profetas"
+    }
+  ],
+  "notes": "infinitive absolutes and relative clause both deviate from token morphology and syntax",
+  "discardedUncitedFindings": 0
+}

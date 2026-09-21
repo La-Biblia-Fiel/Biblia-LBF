@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 42:8",
+  "chapter": 42,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces llamó a Jonatán, hijo de Queret, y a todos los capitanes de los ejércitos que estaban con él, y a todo el pueblo, desde el menor hasta el mayor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24042008003",
+        "h24042008005"
+      ],
+      "issue": "wrong proper name: יוֹחָנָן rendered as Jonatán (should be Johanán/Johanan) and קָרֵחַ as Queret",
+      "spanishSpan": "Jonatán, hijo de Queret"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

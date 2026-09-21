@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 7:15",
+  "chapter": 7,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y os echaré de delante de mí, como eché a todos vuestros hermanos, a toda la simiente de Efraín.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24007015002",
+        "h24007015009"
+      ],
+      "issue": "vosotros forms (os, vuestros) instead of Latin-American ustedes",
+      "spanishSpan": "os ... vuestros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

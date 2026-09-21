@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 20:16",
+  "chapter": 20,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ese hombre será como las ciudades que el SEÑOR ha destruido y no ha tenido piedad; y oirá el grito por la mañana y el clamor al mediodía.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24020016008",
+        "h24020016009"
+      ],
+      "issue": "adds 'no ha tenido piedad' (pity/mercy) not licensed by lemma 5162 Niphal or morphology",
+      "spanishSpan": "y no ha tenido piedad"
+    }
+  ],
+  "notes": "also 'ha destruido' for 2015 is interpretive but secondary to the pity addition",
+  "discardedUncitedFindings": 0
+}

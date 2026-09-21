@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 48:44",
+  "chapter": 48,
+  "verse": 44,
+  "candidateLabel": "gpt56",
+  "spanish": "Por el terror caerán al pánico, y el que suba del pánico caerá en la trampa, porque traeré sobre Moab el año de su castigo, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048044003"
+      ],
+      "issue": "3ms verb rendered as plural",
+      "spanishSpan": "caerán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24048044017"
+      ],
+      "issue": "3mp suffix rendered as singular possessive",
+      "spanishSpan": "su castigo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}
