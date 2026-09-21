@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 59:2",
+  "chapter": 59,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Sino que sus iniquidades de ustedes fueron separadoras entre ustedes y entre su Dios de ustedes, y sus pecados de ustedes ocultaron faces de ustedes de oír.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23059002011",
+        "h23059002012",
+        "h23059002009",
+        "h23059002010"
+      ],
+      "issue": "Spanish 'ocultaron faces de ustedes' wrongly attributes פָנִים to the 2mp addressees instead of keeping פָנִים absolute and מִכֶּם as 'from you'",
+      "spanishSpan": "ocultaron faces de ustedes de oír"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23059002003",
+        "h23059002008"
+      ],
+      "issue": "over-redundant possessive phrasing 'sus iniquidades de ustedes' / 'su Dios de ustedes' exceeds the construct + 2mp suffix structure",
+      "spanishSpan": "sus iniquidades de ustedes ... su Dios de ustedes"
+    }
+  ],
+  "notes": "כִּי אִם rendered 'Sino que' is interpretive but secondary to the faces error",
+  "discardedUncitedFindings": 0
+}

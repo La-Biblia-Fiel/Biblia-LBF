@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:13",
+  "chapter": 12,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Siembran trigo y cosechan espigas, pero no tienen nada que comer; se avergüenzan por la cosecha de sus campos, por la ira de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012013003"
+      ],
+      "issue": "קֹצִים rendered as espigas (thorns misread as grain heads)",
+      "spanishSpan": "espigas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012013005",
+        "h24012013006",
+        "h24012013007"
+      ],
+      "issue": "נֶחְל֖וּ לֹא יוֹעִ֑לוּ expanded to 'no tienen nada que comer' (adds unlicensed concept)",
+      "spanishSpan": "pero no tienen nada que comer"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012013008",
+        "h24012013009"
+      ],
+      "issue": "2mp imperative וּבֹ֨שׁוּ֙ and 2mp suffix on תְּבוּאֹתֵיכֶם changed to 3rd-person narrative",
+      "spanishSpan": "se avergüenzan por la cosecha de sus campos"
+    }
+  ],
+  "notes": "multiple person, morphology, and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:7",
+  "chapter": 13,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Fui al río Eufrates y lo saqué del lugar donde lo había enterrado, y he aquí que el cinto estaba podrido y no servía para nada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013007002"
+      ],
+      "issue": "adds 'río' concept absent from proper-name token",
+      "spanishSpan": "río Eufrates"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013007003"
+      ],
+      "issue": "omits explicit 'dug' action; Spanish merges into 'saqué'",
+      "spanishSpan": "lo saqué"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24013007010"
+      ],
+      "issue": "renders 'hide' as specific 'enterrado' (bury)",
+      "spanishSpan": "enterrado"
+    }
+  ],
+  "notes": "adds unlicensed noun and collapses two verbs",
+  "discardedUncitedFindings": 0
+}

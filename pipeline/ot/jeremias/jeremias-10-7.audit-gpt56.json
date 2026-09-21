@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:7",
+  "chapter": 10,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién no temerá delante de ti, oh rey de las naciones? Porque a ti se encaminan; porque entre todos los sabios de las naciones y entre todos los reyes de la tierra, no hay como ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010007014"
+      ],
+      "issue": "מַלְכוּתָם rendered as 'reyes de la tierra' (adds 'tierra', changes kingdoms to kings)",
+      "spanishSpan": "reyes de la tierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010007008"
+      ],
+      "issue": "יָאָתָה (3fs perfect) rendered as plural 'se encaminan' with no licensed subject",
+      "spanishSpan": "se encaminan"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

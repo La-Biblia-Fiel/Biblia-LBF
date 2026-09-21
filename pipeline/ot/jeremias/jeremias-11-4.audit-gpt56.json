@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:4",
+  "chapter": 11,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Que os mandé a sus padres en el día que los saqué de la tierra de Egipto de la casa de hierro, diciendo: Obedeced mi voz y haced conforme a todo lo que os mando, y serán para mí por pueblo, y yo seré para ustedes por Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011004013",
+        "h24011004015",
+        "h24011004021",
+        "h24011004026"
+      ],
+      "issue": "vosotros 2mp forms (os, Obedeced, haced) instead of Latin-American ustedes; also 3pl 'serán' for 2mp וִהְיִיתֶם",
+      "spanishSpan": "os mandé ... Obedeced ... haced ... os mando ... serán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011004004"
+      ],
+      "issue": "2mp suffix on fathers rendered as 'sus' without clear 2pl addressee link",
+      "spanishSpan": "a sus padres"
+    }
+  ],
+  "notes": "multiple 2mp violations and person shift",
+  "discardedUncitedFindings": 0
+}

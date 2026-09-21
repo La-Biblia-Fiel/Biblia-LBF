@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 57:14",
+  "chapter": 57,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirá: Allanen, allanen, preparen camino; alcen tropiezo de camino de mi pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23057014002",
+        "h23057014003"
+      ],
+      "issue": "Allanen adds leveling concept not licensed by lemma 5549 / salal (cast up, heap up a raised way)",
+      "spanishSpan": "Allanen, allanen"
+    }
+  ],
+  "notes": "repetition preserved but verb sense mismatches tokens",
+  "discardedUncitedFindings": 0
+}

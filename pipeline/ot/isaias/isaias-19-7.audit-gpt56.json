@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 19:7",
+  "chapter": 19,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Descubiertos sobre Yeor, sobre boca de Yeor, y todo sembrado de Yeor se secará, será empujado, y no hay él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23019007001"
+      ],
+      "issue": "עָר֥וֹת (HNcfpa noun) rendered as adjective 'Descubiertos' instead of a noun",
+      "spanishSpan": "Descubiertos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

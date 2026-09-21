@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 46:11",
+  "chapter": 46,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Llamando desde oriente ave de rapiña, de tierra de lejanía varón de mi consejo; aun hablé, aun la traeré; formé, aun la haré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046011006"
+      ],
+      "issue": "adds 'de mi consejo' with no supporting token or lemma",
+      "spanishSpan": "varón de mi consejo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

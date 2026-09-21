@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:17",
+  "chapter": 10,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Reúne de la tierra tu grey, me siento en el monte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010017003"
+      ],
+      "issue": "כִּנְעָתֵךְ (H3666, merchandise/wares 2fs) rendered as 'tu grey' (flock)",
+      "spanishSpan": "tu grey"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010017004"
+      ],
+      "issue": "בַּמָּצוֹר (in the siege) rendered as 'me siento en el monte'",
+      "spanishSpan": "me siento en el monte"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

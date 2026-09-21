@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:14",
+  "chapter": 15,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y haré que tus enemigos pasen por una tierra que no conoces; porque un fuego ha salido de mi nariz, y sobre ustedes serán quemados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015014009"
+      ],
+      "issue": "קָדְחָה (kindled) rendered as 'ha salido'",
+      "spanishSpan": "ha salido"
+    }
+  ],
+  "notes": "fire verb mismatch; 'pasen por' acceptable for hiphil",
+  "discardedUncitedFindings": 0
+}

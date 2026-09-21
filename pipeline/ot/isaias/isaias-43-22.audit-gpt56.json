@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:22",
+  "chapter": 43,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no a mí llamaste, Yaakov, porque te cansaste en mí, Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043022004"
+      ],
+      "issue": "Hebraizes proper name instead of conventional Spanish form",
+      "spanishSpan": "Yaakov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043022006"
+      ],
+      "issue": "adds reflexive sense not licensed by Qal 2ms morphology",
+      "spanishSpan": "te cansaste"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

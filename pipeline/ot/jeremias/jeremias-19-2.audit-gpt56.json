@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:2",
+  "chapter": 19,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y saldrás al valle de Hinnom, al borde de la puerta de las Cenizas, y allí pronunciarás las palabras que yo te hablaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019002006",
+        "h24019002007",
+        "h24019002008"
+      ],
+      "issue": "adds 'de las Cenizas' and renders 'al borde de la puerta' without token support for either phrase or the added noun",
+      "spanishSpan": "al borde de la puerta de las Cenizas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 5:2",
+  "chapter": 5,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y la cavó y la despedregó y la plantó sorek, y edificó torre en su seno, y también lagar excavó en ella; y esperó hacer uvas, y ella hizo podridas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005002007"
+      ],
+      "issue": "adds unlicensed body-part noun 'seno' for בתוכו",
+      "spanishSpan": "en su seno"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

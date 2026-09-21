@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:10",
+  "chapter": 17,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Yo, Jehová, examino el corazón y pruebo los riñones, y daré a cada uno según sus caminos, según el fruto de sus obras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017010007",
+        "h24017010008",
+        "h24017010009",
+        "h24017010010"
+      ],
+      "issue": "adds 'según sus caminos' with no corresponding token",
+      "spanishSpan": "según sus caminos, según el fruto de sus obras"
+    }
+  ],
+  "notes": "participles rendered as finite verbs is acceptable smoothing",
+  "discardedUncitedFindings": 0
+}

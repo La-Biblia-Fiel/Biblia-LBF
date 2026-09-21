@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 33:1",
+  "chapter": 33,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay, destruidor, y tú no destruido, y traidor, y no traicionaron en él! Cuando acabes de destruir, serás destruido; cuando acabes de traicionar, traicionarán en ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033001006",
+        "h23033001007",
+        "h23033001008",
+        "h23033001009"
+      ],
+      "issue": "shifts 3cp 'they did not betray him' into mismatched address with plural verb and 'él' referent instead of preserving structure",
+      "spanishSpan": "y traidor, y no traicionaron en él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033001003",
+        "h23033001004",
+        "h23033001005"
+      ],
+      "issue": "breaks 2ms address parallelism by inserting plural verb and third-party referent",
+      "spanishSpan": "y tú no destruido, y traidor, y no traicionaron en él"
+    }
+  ],
+  "notes": "participant shift and number change",
+  "discardedUncitedFindings": 0
+}

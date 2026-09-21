@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:25",
+  "chapter": 41,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Desperté desde norte y vino; desde salida de sol llamará en mi nombre; y vendrá gobernadores como barro, y como alfarero pisará lodo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041025008",
+        "h23041025009"
+      ],
+      "issue": "singular verb + plural noun rendered as 'vendrá gobernadores' (number mismatch and participant shift)",
+      "spanishSpan": "y vendrá gobernadores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041025001",
+        "h23041025003"
+      ],
+      "issue": "clause boundary and participant misparsed: 1cs hiphil + 3ms qal sequential imperfect collapsed into 'Desperté ... y vino'",
+      "spanishSpan": "Desperté desde norte y vino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041025014",
+        "h23041025015"
+      ],
+      "issue": "3ms subject of trampling reassigned; 'como alfarero pisará lodo' alters the licensed syntax and participant",
+      "spanishSpan": "como alfarero pisará lodo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 52:14",
+  "chapter": 52,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Como se pasmaron sobre ti muchos: así destruido de varón su parecer, y su forma de hijos de hombre;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23052014006",
+        "h23052014007",
+        "h23052014008",
+        "h23052014009",
+        "h23052014010",
+        "h23052014011"
+      ],
+      "issue": "renders nominal mishchat + comparative me'ish / mibbene adam as verb 'destruido' with mangled comparison and incomplete 'de hijos de hombre'",
+      "spanishSpan": "así destruido de varón su parecer, y su forma de hijos de hombre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

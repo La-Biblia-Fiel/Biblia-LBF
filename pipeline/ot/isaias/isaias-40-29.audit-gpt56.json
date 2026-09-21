@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:29",
+  "chapter": 40,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Dando al fatigado fuerza, y a no hay fuerzas potencia multiplica.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040029004",
+        "h23040029005"
+      ],
+      "issue": "adds 'hay' not licensed by the negative particle token",
+      "spanishSpan": "a no hay fuerzas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040029006",
+        "h23040029007"
+      ],
+      "issue": "reverses object-verb order and fails to show 3ms hiphil subject acting on the noun",
+      "spanishSpan": "potencia multiplica"
+    }
+  ],
+  "notes": "participle opening is ok but second clause distorts tokens",
+  "discardedUncitedFindings": 0
+}

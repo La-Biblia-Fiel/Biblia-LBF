@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 19:24",
+  "chapter": 19,
+  "verse": 24,
+  "candidateLabel": "pulir",
+  "spanish": "En aquel día, Israel será tercero para Mizraim y para Ashur, bendición en seno de la tierra,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23019024009"
+      ],
+      "issue": "קֶרֶב rendered as 'seno' (adds un-licensed body-part concept)",
+      "spanishSpan": "seno de la tierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23019024005"
+      ],
+      "issue": "feminine ordinal שְׁלִישִׁיָּה rendered as masculine 'tercero'",
+      "spanishSpan": "será tercero"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

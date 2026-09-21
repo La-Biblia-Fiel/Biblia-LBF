@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:11",
+  "chapter": 10,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Así les dirán: Dios que no han servido, ni el cielo ni la tierra, perecerán de la tierra y del cielo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010011004"
+      ],
+      "issue": "plural 'gods' rendered as singular 'Dios'",
+      "spanishSpan": "Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010011009"
+      ],
+      "issue": "verb 'made/did' rendered as 'han servido'",
+      "spanishSpan": "han servido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010011013",
+        "h24010011014"
+      ],
+      "issue": "omits 'under the heavens'",
+      "spanishSpan": "del cielo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010011005",
+        "h24010011006",
+        "h24010011007"
+      ],
+      "issue": "relative clause structure and 'made the heavens and the earth' mangled into 'ni el cielo ni la tierra'",
+      "spanishSpan": "que no han servido, ni el cielo ni la tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

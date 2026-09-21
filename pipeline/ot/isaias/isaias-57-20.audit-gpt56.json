@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 57:20",
+  "chapter": 57,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los malvados como el mar empujado, porque aquietarse no puede, y empujan sus aguas cieno y lodo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23057020008",
+        "h23057020009",
+        "h23057020010",
+        "h23057020011"
+      ],
+      "issue": "reverses participant roles: waters are subject that drive out the mire/mud, not object being pushed",
+      "spanishSpan": "y empujan sus aguas cieno y lodo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 22:15",
+  "chapter": 22,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dijo Adonai Jehová de ejércitos: Anda, entra a este intendente, sobre Shevná, que sobre la casa.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23022015011",
+        "h23022015012",
+        "h23022015013",
+        "h23022015014",
+        "h23022015015"
+      ],
+      "issue": "misparses structure: places 'sobre Shevná' as if intendente governs Shebna; relative clause and prepositions assign 'over the house' to Shebna, not the reverse",
+      "spanishSpan": "este intendente, sobre Shevná, que sobre la casa"
+    }
+  ],
+  "notes": "name forms and imperatives otherwise match tokens",
+  "discardedUncitedFindings": 0
+}

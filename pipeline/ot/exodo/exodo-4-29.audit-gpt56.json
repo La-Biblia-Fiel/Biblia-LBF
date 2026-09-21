@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 4:29",
+  "chapter": 4,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fueron Moisés y Aarón, y reunieron a todos los ancianos de los hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02004029001"
+      ],
+      "issue": "changes Vqw3ms to plural verb, altering number of participants",
+      "spanishSpan": "fueron Moisés y Aarón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

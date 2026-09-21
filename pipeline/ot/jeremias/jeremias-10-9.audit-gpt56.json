@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:9",
+  "chapter": 10,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Plata de Tarshis se traerá, y oro de Uphaz, obra de labriego y de fundidor; azul y púrpura será su vestido, obra de sabios todos ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010009002"
+      ],
+      "issue": "omits מְרֻקָּע (beaten/hammered) modifying the silver",
+      "spanishSpan": "Plata de Tarshis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010009008",
+        "h24010009009",
+        "h24010009010"
+      ],
+      "issue": "misrepresents חָרָשׁ וִידֵי צוֹרֵף as 'obra de labriego y de fundidor'",
+      "spanishSpan": "obra de labriego y de fundidor"
+    }
+  ],
+  "notes": "labriego is unlicensed for חָרָשׁ",
+  "discardedUncitedFindings": 0
+}

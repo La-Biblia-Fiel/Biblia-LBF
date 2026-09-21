@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:2",
+  "chapter": 41,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién despertó desde oriente justicia? La llama a su pie; da delante de él naciones, y reyes derriba; da como polvo su espada, como paja empujada su arco.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041002005",
+        "h23041002004"
+      ],
+      "issue": "misparses suffix and referent: calls 'him' (the one roused), not justicia",
+      "spanishSpan": "La llama a su pie"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041002011"
+      ],
+      "issue": "adds 'derriba' as interpretive rendering of hiphil רדה without licensed sense of physical overthrow",
+      "spanishSpan": "reyes derriba"
+    }
+  ],
+  "notes": "first clause acceptable; second clause and verb object assignment fail fidelity",
+  "discardedUncitedFindings": 0
+}

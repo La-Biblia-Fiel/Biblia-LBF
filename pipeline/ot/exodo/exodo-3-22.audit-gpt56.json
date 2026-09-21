@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:22",
+  "chapter": 3,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cada mujer pedirá a su vecina y a la que reside en su casa objetos de plata, objetos de oro y vestidos; y pondrán sobre sus hijos y sobre sus hijas, y despojarán a Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003022002"
+      ],
+      "issue": "adds 'cada' not present in the token",
+      "spanishSpan": "cada mujer"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003022011",
+        "h02003022016"
+      ],
+      "issue": "2mp verbs rendered so sentence structure makes 3rd-party participants (women) instead of 2pl addressees",
+      "spanishSpan": "y pondrán ... y despojarán"
+    }
+  ],
+  "notes": "person shift and added quantifier both unlicensed",
+  "discardedUncitedFindings": 0
+}

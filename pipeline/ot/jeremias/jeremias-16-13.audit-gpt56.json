@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:13",
+  "chapter": 16,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y os echaré de la tierra de este lugar a una tierra que no conocisteis ustedes ni sus padres, y allí serviréis a dioses ajenos de día y de noche, y no os daré misericordia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016013004",
+        "h24016013005"
+      ],
+      "issue": "adds 'lugar' (this place) not licensed by הָאָרֶץ הַזֹּאת",
+      "spanishSpan": "de este lugar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

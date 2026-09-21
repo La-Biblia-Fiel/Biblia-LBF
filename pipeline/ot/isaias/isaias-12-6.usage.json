@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-usage-v1",
+  "book": "isaias",
+  "chapter": 12,
+  "verse": 6,
+  "calls": [
+    {
+      "provider": "xai",
+      "model": "grok-4",
+      "input": 1776,
+      "cachedInput": 832,
+      "output": 86,
+      "reasoning": 1367,
+      "at": "2026-09-19T14:10:10.043958+00:00",
+      "stage": "audit-draft",
+      "usd": 0.011022
+    },
+    {
+      "provider": "anthropic",
+      "model": "claude-sonnet-5",
+      "input": 2420,
+      "cachedInput": 0,
+      "output": 1128,
+      "reasoning": 0,
+      "at": "2026-09-19T14:10:22.498826+00:00",
+      "stage": "polish",
+      "usd": 0.01612
+    },
+    {
+      "provider": "xai",
+      "model": "grok-4",
+      "input": 1777,
+      "cachedInput": 832,
+      "output": 21,
+      "reasoning": 990,
+      "at": "2026-09-19T14:10:32.430467+00:00",
+      "stage": "audit-polish",
+      "usd": 0.008372
+    }
+  ]
+}

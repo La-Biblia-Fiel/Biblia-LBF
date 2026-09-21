@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 10:32",
+  "chapter": 10,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Aún hoy en Nov para pararse; agitará su mano monte de Tsiyón, collado de Yerushaláyim.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010032003"
+      ],
+      "issue": "misspells locked proper name as Nov",
+      "spanishSpan": "Nov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010032004"
+      ],
+      "issue": "adds purpose sense not licensed by infinitive construct",
+      "spanishSpan": "para pararse"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010032005",
+        "h23010032007"
+      ],
+      "issue": "splits sentence and omits direct connection between wave-hand and mount",
+      "spanishSpan": "; agitará su mano monte"
+    }
+  ],
+  "notes": "structure and name spelling mismatch tokens",
+  "discardedUncitedFindings": 0
+}

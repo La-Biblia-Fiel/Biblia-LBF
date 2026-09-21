@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 22:22",
+  "chapter": 22,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y daré llave de casa de David sobre su hombro, y abrió y no hay quien cierre, y cerró y no hay quien abra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23022022007",
+        "h23022022010"
+      ],
+      "issue": "Spanish renders 3ms perfect verbs as past indicative (abrió, cerró) instead of preserving the qal perfect 3ms form and sequence after 1cs future",
+      "spanishSpan": "y abrió ... y cerró"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23022022009",
+        "h23022022012"
+      ],
+      "issue": "Spanish resolves active participles into subjunctive clauses with 'quien' (cierre, abra) rather than 'no one shutting/opening'",
+      "spanishSpan": "no hay quien cierre ... no hay quien abra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

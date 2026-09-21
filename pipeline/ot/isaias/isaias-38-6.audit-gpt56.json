@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:6",
+  "chapter": 38,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y de palma de rey de Ashur te libraré y a la ciudad esta; y protegeré sobre la ciudad esta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038006001",
+        "h23038006002"
+      ],
+      "issue": "mistranslates construct as 'palma de rey' (wrong Spanish structure and word choice for כַּף מֶלֶךְ)",
+      "spanishSpan": "de palma de rey"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038006003"
+      ],
+      "issue": "uses non-conventional 'Ashur' instead of conventional Spanish form for the proper name",
+      "spanishSpan": "Ashur"
+    }
+  ],
+  "notes": "remainder of rendering is close but the above mismatches are decisive",
+  "discardedUncitedFindings": 0
+}

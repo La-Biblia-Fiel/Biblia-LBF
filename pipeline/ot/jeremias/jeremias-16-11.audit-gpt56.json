@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:11",
+  "chapter": 16,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y les dirás: Porque abandonaron a sus padres a mí, el SEÑOR, y anduvieron tras dioses ajenos, y los sirvieron y se postraron ante ellos, y a mí me abandonaron, y mi ley no la guardaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016011005",
+        "h24016011006",
+        "h24016011007"
+      ],
+      "issue": "reverses participant roles: Hebrew 'your fathers abandoned me' rendered as 'abandonaron a sus padres a mí'",
+      "spanishSpan": "abandonaron a sus padres a mí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016011008",
+        "h24016011009"
+      ],
+      "issue": "inserts 'el SEÑOR' as appositive to 'a mí' instead of reporting the declaration formula after the clause",
+      "spanishSpan": "a mí, el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

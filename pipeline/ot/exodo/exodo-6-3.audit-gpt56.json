@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 6:3",
+  "chapter": 6,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y aparecí a Abraham, a Isaac y a Jacob como Dios Saday, y por mi nombre YHWH no fui conocido por ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02006003008",
+        "h02006003009"
+      ],
+      "issue": "adds 'Dios' not present in בְּאֵל שַׁדָּי",
+      "spanishSpan": "como Dios Saday"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02006003014"
+      ],
+      "issue": "changes preposition לָהֶם 'to them' to 'por ellos' (by them)",
+      "spanishSpan": "por ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02006003010",
+        "h02006003011",
+        "h02006003012",
+        "h02006003013",
+        "h02006003014"
+      ],
+      "issue": "restructures 'my name YHWH I was not known to them' into 'por mi nombre YHWH no fui conocido por ellos'",
+      "spanishSpan": "y por mi nombre YHWH no fui conocido por ellos"
+    }
+  ],
+  "notes": "multiple unlicensed additions and morph/preposition shifts",
+  "discardedUncitedFindings": 0
+}

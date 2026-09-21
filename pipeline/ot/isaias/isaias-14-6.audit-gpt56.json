@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 14:6",
+  "chapter": 14,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "hiriendo pueblos en furor, golpe sin cesar, dominando en ira naciones, perseguido sin refrenar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014006010"
+      ],
+      "issue": "murddaph (noun) rendered as passive 'perseguido' (implying the subject is victim of persecution)",
+      "spanishSpan": "perseguido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014006012"
+      ],
+      "issue": "chasak (qal pf 3ms, the ruler 'has not restrained') rendered without preserving the 3ms agent or the unrestrained action of the ruler",
+      "spanishSpan": "sin refrenar"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23014006004",
+        "h23014006005",
+        "h23014006006"
+      ],
+      "issue": "bilti sarah smoothed to 'sin cesar' (grammatical smoothing, does not change core sense)",
+      "spanishSpan": "golpe sin cesar"
+    }
+  ],
+  "notes": "passive voice and participant shift on final clause violate token morphology",
+  "discardedUncitedFindings": 0
+}

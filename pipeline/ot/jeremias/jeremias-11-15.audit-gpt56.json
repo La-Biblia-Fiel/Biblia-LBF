@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:15",
+  "chapter": 11,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Qué tiene tu amigo en mi casa para hacer la gran determinación y que la carne santificada pase de ti? Porque en tu maldad te avergonzarás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011015002"
+      ],
+      "issue": "person mismatch: Sp1cs suffix rendered as 'tu amigo' instead of 'mi amado'",
+      "spanishSpan": "tu amigo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011015005",
+        "h24011015006"
+      ],
+      "issue": "plural 'the many' + 'plot' rendered as singular 'la gran determinación' with added 'gran'",
+      "spanishSpan": "la gran determinación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011015014"
+      ],
+      "issue": "lemma 5937 (exult/rejoice) rendered as 'te avergonzarás' (be ashamed)",
+      "spanishSpan": "te avergonzarás"
+    }
+  ],
+  "notes": "multiple token mismatches",
+  "discardedUncitedFindings": 0
+}

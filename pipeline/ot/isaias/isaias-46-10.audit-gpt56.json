@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 46:10",
+  "chapter": 46,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Anunciador desde principio fin, y desde antiguo lo que no fueron hechas; dice: Mi consejo se levantará, y todo mi deseo haré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046010001"
+      ],
+      "issue": "participle rendered as noun 'Anunciador' instead of verbal form",
+      "spanishSpan": "Anunciador"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046010002",
+        "h23046010003"
+      ],
+      "issue": "compressed 'desde principio fin' omits proper linkage between the two nouns",
+      "spanishSpan": "desde principio fin"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046010005",
+        "h23046010006",
+        "h23046010007"
+      ],
+      "issue": "relative clause attachment and phrasing altered by 'lo que no fueron hechas'",
+      "spanishSpan": "lo que no fueron hechas"
+    }
+  ],
+  "notes": "multiple structural and morphological mismatches",
+  "discardedUncitedFindings": 0
+}

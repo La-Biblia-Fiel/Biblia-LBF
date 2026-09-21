@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 29:15",
+  "chapter": 29,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay, los que profundizan de Jehová para esconder consejo, y fue en oscuridad sus obras, y dijeron: ¿Quién nos ve, y quién nos conoce?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029015006"
+      ],
+      "issue": "weqatal (sequential perfect) rendered as past 'fue' instead of future/consequential 'será'",
+      "spanishSpan": "y fue"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

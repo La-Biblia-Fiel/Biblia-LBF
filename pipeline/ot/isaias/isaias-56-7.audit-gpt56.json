@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 56:7",
+  "chapter": 56,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "y los traeré al monte de mi santidad, y los alegraré en casa de mi oración; sus holocaustos y sus sacrificios a agrado sobre mi altar; porque mi casa, casa de oración será llamada a todos los pueblos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23056007015",
+        "h23056007016",
+        "h23056007017",
+        "h23056007018",
+        "h23056007019"
+      ],
+      "issue": "Spanish inverts the niphal calling construction and לְכָל predicate so that 'casa de oración' becomes the subject being called rather than the predicate nominative",
+      "spanishSpan": "casa de oración será llamada a todos los pueblos"
+    }
+  ],
+  "notes": "last clause only",
+  "discardedUncitedFindings": 0
+}

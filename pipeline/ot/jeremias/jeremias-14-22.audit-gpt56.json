@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:22",
+  "chapter": 14,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Hay en las vanidades de las naciones quienes hacen llover, o los cielos pueden derramar lluvia? ¿Acaso no eres tú, SEÑOR, nuestro Dios, y esperamos en ti, porque tú hiciste todas estas cosas?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014022007"
+      ],
+      "issue": "adds modal 'pueden' not licensed by qal imperfect יִתְּנ֣וּ",
+      "spanishSpan": "pueden derramar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014022012"
+      ],
+      "issue": "SEÑOR instead of licensed conventional Jehová",
+      "spanishSpan": "SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

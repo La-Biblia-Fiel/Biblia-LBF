@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 45:22",
+  "chapter": 45,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Vuélvanse a mí y sean salvados, todos extremos de tierra, porque yo Dios, y no hay más.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045022008",
+        "h23045022009"
+      ],
+      "issue": "Spanish 'yo Dios' omits the copula required to render the clause 'I [am] El'",
+      "spanishSpan": "yo Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045022004",
+        "h23045022005",
+        "h23045022006"
+      ],
+      "issue": "Spanish 'todos extremos de tierra' drops required definite article and proper construct rendering of 'all ends of the earth'",
+      "spanishSpan": "todos extremos de tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

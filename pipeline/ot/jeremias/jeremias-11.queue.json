@@ -1,0 +1,519 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 11,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "passed": [
+    8,
+    10,
+    11,
+    14,
+    17,
+    21
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra que vino a Jeremías de parte de Jehová, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011001003"
+          ],
+          "issue": "verb הָיָ֣ה (qal perfect 3ms of 'to be') rendered as 'vino' (came), adding motion concept not licensed by lemma or morph",
+          "spanishSpan": "vino"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Oíd las palabras de este pacto y habladlas a los hombres de Judá y a los habitantes de Jerusalén.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011002006"
+          ],
+          "issue": "verb morphology is 2ms (piel sequential perfect) but Spanish renders as 2pl imperative",
+          "spanishSpan": "habladlas"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y diréis a ellos: Así ha dicho Jehová, Dios de Israel: Maldito el hombre que no oyere las palabras de este pacto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011003001"
+          ],
+          "issue": "changes 2ms to 2pl (diréis)",
+          "spanishSpan": "Y diréis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011003006"
+          ],
+          "issue": "non-name lemma 430 rendered Dios",
+          "spanishSpan": "Dios de Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Que os mandé a sus padres en el día que los saqué de la tierra de Egipto de la casa de hierro, diciendo: Obedeced mi voz y haced conforme a todo lo que os mando, y serán para mí por pueblo, y yo seré para ustedes por Dios.",
+      "notes": "multiple 2mp violations and person shift",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011004013",
+            "h24011004015",
+            "h24011004021",
+            "h24011004026"
+          ],
+          "issue": "vosotros 2mp forms (os, Obedeced, haced) instead of Latin-American ustedes; also 3pl 'serán' for 2mp וִהְיִיתֶם",
+          "spanishSpan": "os mandé ... Obedeced ... haced ... os mando ... serán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011004004"
+          ],
+          "issue": "2mp suffix on fathers rendered as 'sus' without clear 2pl addressee link",
+          "spanishSpan": "a sus padres"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Para confirmar la alianza que juré a sus padres, para darles una tierra llena de leche y miel, como es hoy. Y yo dije: Amén, Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011005004"
+          ],
+          "issue": "שְׁבוּעָה rendered as alianza (covenant) instead of juramento or equivalent",
+          "spanishSpan": "la alianza"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011005011"
+          ],
+          "issue": "זָבַת (flowing) rendered as llena de (full of)",
+          "spanishSpan": "llena de leche y miel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011005016"
+          ],
+          "issue": "וָאַעַן (and I answered) omitted",
+          "spanishSpan": "Y yo dije"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Jehová me dijo: Anuncia estas palabras en las ciudades de Judá y en las calles de Jerusalén, diciendo: Oíd las palabras de este pacto y hacedlas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011006006"
+          ],
+          "issue": "omits 'all' (כָּל) before 'these words'",
+          "spanishSpan": "estas palabras"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque juré a sus padres en el día que los saqué de la tierra de Egipto, hasta hoy, levantándome y jurando, diciendo: Obedeced mi voz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011007002",
+            "h24011007003"
+          ],
+          "issue": "lemma 5749b (עוד hiphil) rendered as juré (swear) instead of testify/warn",
+          "spanishSpan": "juré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011007004"
+          ],
+          "issue": "2mp suffix on אבותיכם rendered as sus (their) instead of vuestros/ustedes (your)",
+          "spanishSpan": "sus padres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011007016"
+          ],
+          "issue": "שמעו rendered as Obedeced (obey) instead of oíd/escuchad (hear)",
+          "spanishSpan": "Obedeced mi voz"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el SEÑOR me dijo: Hay un lazo en el hombre de Judá y en los habitantes de Jerusalén.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011009004",
+            "h24011009005"
+          ],
+          "issue": "renders נִמְצָא קֶשֶׁר as 'Hay un lazo' (wrong lexeme and omits 'was found')",
+          "spanishSpan": "Hay un lazo"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y andad por las ciudades de Judá y por los habitantes de Jerusalén, y clamad a los dioses a quienes queman incienso a ellos, pero no os salvarán en el tiempo de su calamidad.",
+      "notes": "vosotros forms and person shift violate packet morphology and participant structure",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011012001",
+            "h24011012006",
+            "h24011012015"
+          ],
+          "issue": "changes 3cp verbs to 2pl imperative address (vosotros forms) and shifts participants",
+          "spanishSpan": "Y andad ... y clamad ... pero no os salvarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011012016"
+          ],
+          "issue": "changes 3mp suffix to 2pl object pronoun",
+          "spanishSpan": "os salvarán"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque el número de tus ciudades, oh Judá, es el número de tus dioses; y en el número de las calles de Jerusalén han puesto altares para la vergüenza, altares para quemar incienso a Baal.",
+      "notes": "2mp participant shift is decisive fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011013010"
+          ],
+          "issue": "2mp verb rendered as 3pl 'han puesto' instead of 2mp 'han puesto ustedes'",
+          "spanishSpan": "han puesto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011013007"
+          ],
+          "issue": "adds 'en' before 'el número', changing parallel construct to locative",
+          "spanishSpan": "en el número"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011013006"
+          ],
+          "issue": "inserts 'oh' before proper name not licensed by token",
+          "spanishSpan": "oh Judá"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Qué tiene tu amigo en mi casa para hacer la gran determinación y que la carne santificada pase de ti? Porque en tu maldad te avergonzarás.",
+      "notes": "multiple token mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011015002"
+          ],
+          "issue": "person mismatch: Sp1cs suffix rendered as 'tu amigo' instead of 'mi amado'",
+          "spanishSpan": "tu amigo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011015005",
+            "h24011015006"
+          ],
+          "issue": "plural 'the many' + 'plot' rendered as singular 'la gran determinación' with added 'gran'",
+          "spanishSpan": "la gran determinación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011015014"
+          ],
+          "issue": "lemma 5937 (exult/rejoice) rendered as 'te avergonzarás' (be ashamed)",
+          "spanishSpan": "te avergonzarás"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Olivo frondoso y hermoso de fruto, así te ha llamado el SEÑOR; pero por el ruido grande ha encendido fuego sobre ti, y tus ramas se consumirán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011016015",
+            "h24011016016"
+          ],
+          "issue": "changes 3ms suffix on דליותיו to 2fs address and renders רעע as 'consumirán'",
+          "spanishSpan": "tus ramas se consumirán"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el SEÑOR me ha dado a conocer, y yo lo he sabido; entonces me ha mostrado sus acciones.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011018005"
+          ],
+          "issue": "verb is 2ms (you have shown me) but Spanish renders as 3rd person (he has shown me), changing participant",
+          "spanishSpan": "me ha mostrado"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo, como un carnero de la manada, he sido llevado al matadero, y no sabía que contra mí habían tramado pensamientos perversos: ‘Cortar su madera en leña y quitarlo del país de la vida, y su nombre no será recordado más’.",
+      "notes": "multiple unlicensed additions and interpretive resolution of ambiguous phrase",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011019002"
+          ],
+          "issue": "adds 'de la manada' (of the flock) absent from כֶּבֶשׂ",
+          "spanishSpan": "de la manada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011019011"
+          ],
+          "issue": "adds 'perversos' (evil/perverse) not licensed by מַחֲשָׁבוֹת",
+          "spanishSpan": "pensamientos perversos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011019013",
+            "h24011019014"
+          ],
+          "issue": "resolves עֵץ בְּלַחְמוֹ as 'cortar su madera en leña' (cut wood into firewood), adding interpretive concept",
+          "spanishSpan": "Cortar su madera en leña"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el SEÑOR de los ejércitos, que juzga con justicia, que prueba los riñones y el corazón, me ha mostrado tu venganza de ellos, porque a mí me has revelado tu pleito.",
+      "notes": "participant reversal and person/number changes on multiple verbs and suffixes",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011020008"
+          ],
+          "issue": "Spanish inverts speaker as recipient ('me ha mostrado') instead of 1cs imperfect 'I see/let me see'",
+          "spanishSpan": "me ha mostrado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011020013"
+          ],
+          "issue": "Spanish changes 1cs perfect 'I have revealed' to 2ms 'me has revelado'",
+          "spanishSpan": "me has revelado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011020015"
+          ],
+          "issue": "Spanish renders 1cs suffix 'my plea' as 'tu pleito' (2ms)",
+          "spanishSpan": "tu pleito"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011020009",
+            "h24011020010"
+          ],
+          "issue": "Spanish 'tu venganza de ellos' misplaces the 2ms suffix and preposition from the tokens",
+          "spanishSpan": "tu venganza de ellos"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso el SEÑOR de los ejércitos ha dicho: ‘He aquí que castigaré a estos: los jóvenes morirán a espada, y sus hijos y sus hijas morirán de hambre’.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011022006",
+            "h24011022007",
+            "h24011022008"
+          ],
+          "issue": "paraphrases הִנְנִי פֹקֵד עֲלֵיהֶם as 'He aquí que castigaré a estos'",
+          "spanishSpan": "He aquí que castigaré a estos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011022002"
+          ],
+          "issue": "omits כֹּה (thus)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no quedarán de ellos más que unos pocos, porque traeré sobre los hombres de Anatot un año de castigo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24011023001",
+            "h24011023002",
+            "h24011023003",
+            "h24011023004"
+          ],
+          "issue": "adds 'más que unos pocos' (only a few remain) when tokens license absolute 'no remnant will be to them'",
+          "spanishSpan": "no quedarán de ellos más que unos pocos"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:33:52.383792+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 23,
+    "verses": 23,
+    "input": 57382,
+    "cachedInput": 17088,
+    "output": 2832,
+    "reasoning": 21623,
+    "usd": 0.2359,
+    "byProvider": {
+      "xai": {
+        "calls": 23,
+        "input": 57382,
+        "output": 2832,
+        "reasoning": 21623,
+        "usd": 0.2359
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 23,
+        "input": 57382,
+        "output": 2832,
+        "reasoning": 21623,
+        "usd": 0.2359
+      }
+    },
+    "usdPerVerse": 0.0103,
+    "bibleAtThisRate": 319.0,
+    "book": "jeremias",
+    "chapter": 11
+  }
+}

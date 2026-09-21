@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:38",
+  "chapter": 37,
+  "verse": 38,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fue, él postrándose casa de Nisrok su dios, y Adramélek y Sarétser sus hijos lo hirieron en la espada, y ellos escaparon tierra de Ararat; y reinó Esar-jadón su hijo debajo de él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037038004",
+        "h23037038003"
+      ],
+      "issue": "missing preposition 'en' before 'casa de' required by construct and participle syntax",
+      "spanishSpan": "postrándose casa de"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037038011"
+      ],
+      "issue": "wrong preposition 'en' instead of 'con' for instrument בַּחֶרֶב",
+      "spanishSpan": "en la espada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037038014",
+        "h23037038013"
+      ],
+      "issue": "missing directional preposition 'a' or 'hacia' before destination אֶרֶץ",
+      "spanishSpan": "escaparon tierra de Ararat"
+    }
+  ],
+  "notes": "multiple preposition and syntax omissions",
+  "discardedUncitedFindings": 0
+}

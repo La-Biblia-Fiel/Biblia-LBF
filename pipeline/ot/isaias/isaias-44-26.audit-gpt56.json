@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:26",
+  "chapter": 44,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "estableciendo palabra de su siervo, y consejo de sus mensajeros cumple; el que dice a Yerushaláyim: Serás habitada, y a ciudades de Yehudá: Serán edificadas, y sus ruinas levantaré;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044026008",
+        "h23044026011"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Yerushaláyim ... Yehudá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

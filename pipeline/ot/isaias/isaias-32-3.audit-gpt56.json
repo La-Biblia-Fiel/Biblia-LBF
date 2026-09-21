@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 32:3",
+  "chapter": 32,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no se entenebrecerán ojos de videntes, y oídos de oidores atenderán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23032003002"
+      ],
+      "issue": "Spanish verb 'entenebrecerán' (darken) replaces licensed verb lemma 8159 (שעה qal impf 3fp 'look/gaze')",
+      "spanishSpan": "no se entenebrecerán"
+    }
+  ],
+  "notes": "second clause matches tokens 05-07 but first clause fails",
+  "discardedUncitedFindings": 0
+}

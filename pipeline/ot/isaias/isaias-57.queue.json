@@ -1,0 +1,251 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 57,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    7,
+    8,
+    9,
+    10,
+    12,
+    16,
+    17,
+    18,
+    19,
+    21
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ustedes, acérquense acá, hijos de hechicera, simiente de adúltero y de fornicaria.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057003008"
+          ],
+          "issue": "last token is 3fs wayyiqtol verb 'and she fornicated', rendered as parallel noun 'de fornicaria'",
+          "spanishSpan": "y de fornicaria"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "los que se calientan en las encinas bajo todo árbol frondoso, matadores de los niños en los torrentes, bajo hendiduras de las peñas?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057005002"
+          ],
+          "issue": "lemma H410 (אֵלִים) rendered as encinas (oaks); token does not license tree sense",
+          "spanishSpan": "en las encinas"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En lisas de torrente tu porción; ellas, ellas tu suerte; también a ellas derramaste libación, subiste ofrenda. ¿Sobre estas me consolaré?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057006004",
+            "h23057006005",
+            "h23057006008"
+          ],
+          "issue": "masculine plural pronouns rendered as feminine ellas/estas",
+          "spanishSpan": "ellas, ellas ... a ellas ... estas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057006001"
+          ],
+          "issue": "adjective construct resolved to feminine plural lisas",
+          "spanishSpan": "lisas"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Y a quién temiste y temiste, que mientes, y a mí no recordaste, no pusiste sobre tu corazón? ¿No yo callando y desde siempre, y a mí no temes?",
+      "notes": "structure and repetition not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057011003",
+            "h23057011004"
+          ],
+          "issue": "duplicates identical verb 'temiste' for two distinct lemmas (דאג and ירא)",
+          "spanishSpan": "temiste y temiste"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057011014",
+            "h23057011015",
+            "h23057011016"
+          ],
+          "issue": "reorders and mangles interrogative + pronoun + participle into ungrammatical 'No yo callando'",
+          "spanishSpan": "No yo callando"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En tu clamar te librarán tus reunidos; y a todos ellos llevará viento, tomará vanidad; y el que se refugia en mí heredará tierra, y poseerá monte de mi santidad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057013004",
+            "h23057013005",
+            "h23057013006",
+            "h23057013007",
+            "h23057013008",
+            "h23057013009"
+          ],
+          "issue": "reverses subject-object relation: wind/vanity act on 'all of them', not 'carry wind to them'",
+          "spanishSpan": "y a todos ellos llevará viento, tomará vanidad"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirá: Allanen, allanen, preparen camino; alcen tropiezo de camino de mi pueblo.",
+      "notes": "repetition preserved but verb sense mismatches tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057014002",
+            "h23057014003"
+          ],
+          "issue": "Allanen adds leveling concept not licensed by lemma 5549 / salal (cast up, heap up a raised way)",
+          "spanishSpan": "Allanen, allanen"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así dijo Alto y Alzado, habitante de perpetuidad, y Santo su nombre: En alto y santo habito, y con contrito y bajo de espíritu, para vivificar espíritu de bajos, y para vivificar corazón de contritos.",
+      "notes": "capitalization inserts titles",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057015004",
+            "h23057015005",
+            "h23057015008"
+          ],
+          "issue": "capitalizes participles/adjective as titles (Alto, Alzado, Santo) not licensed by tokens",
+          "spanishSpan": "Alto y Alzado ... Santo"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los malvados como el mar empujado, porque aquietarse no puede, y empujan sus aguas cieno y lodo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23057020008",
+            "h23057020009",
+            "h23057020010",
+            "h23057020011"
+          ],
+          "issue": "reverses participant roles: waters are subject that drive out the mire/mud, not object being pushed",
+          "spanishSpan": "y empujan sus aguas cieno y lodo"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:25:57.029724+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 21,
+    "verses": 21,
+    "input": 44388,
+    "cachedInput": 16704,
+    "output": 1220,
+    "reasoning": 17518,
+    "usd": 0.1761,
+    "byProvider": {
+      "xai": {
+        "calls": 21,
+        "input": 44388,
+        "output": 1220,
+        "reasoning": 17518,
+        "usd": 0.1761
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 21,
+        "input": 44388,
+        "output": 1220,
+        "reasoning": 17518,
+        "usd": 0.1761
+      }
+    },
+    "usdPerVerse": 0.0084,
+    "bibleAtThisRate": 261.0,
+    "book": "isaias",
+    "chapter": 57
+  }
+}

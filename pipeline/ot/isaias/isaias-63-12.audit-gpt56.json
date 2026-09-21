@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 63:12",
+  "chapter": 63,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "el que hace andar a derecha de Moisés brazo de su hermosura, partiendo aguas de delante de ellos, para hacerse a él nombre eterno,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063012009",
+        "h23063012010",
+        "h23063012011",
+        "h23063012012"
+      ],
+      "issue": "mismatches the purpose clause לַעֲשׂוֹת לוֹ שֵׁם עוֹלָם by rendering it as the ungrammatical and inexact 'hacerse a él nombre eterno'",
+      "spanishSpan": "para hacerse a él nombre eterno"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

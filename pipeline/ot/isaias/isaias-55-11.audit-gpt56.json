@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 55:11",
+  "chapter": 55,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "así será mi palabra que sale de mi boca: no volverá a mí vacía, sino que hizo lo que quise, y prosperó aquello a que la envié.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055011013",
+        "h23055011016",
+        "h23055011017",
+        "h23055011019"
+      ],
+      "issue": "Spanish renders qal/hiphil perfect verbs as completed past (hizo, quise, prosperó, envié) instead of preserving the prospective/resultative force licensed by the tokens in context of the leading imperfects",
+      "spanishSpan": "hizo lo que quise, y prosperó aquello a que la envié"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

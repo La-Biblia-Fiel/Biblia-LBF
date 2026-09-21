@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:1",
+  "chapter": 12,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Justo eres, SEÑOR, aunque me acuso a ti. Hablaré de tus juicios: ¿Por qué la senda de los malvados prospera? Son todos engañadores.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012001005",
+        "h24012001006"
+      ],
+      "issue": "renders אָרִיב אֵלֶיךָ as 'me acuso a ti' instead of contending/arguing with you",
+      "spanishSpan": "aunque me acuso a ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012001008",
+        "h24012001009",
+        "h24012001010"
+      ],
+      "issue": "renders אַךְ מִשְׁפָּטִים אֲדַבֵּר אוֹתָךְ as 'Hablaré de tus juicios' (adds 'tus' and 'de', changes direct object to 'about your judgments')",
+      "spanishSpan": "Hablaré de tus juicios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

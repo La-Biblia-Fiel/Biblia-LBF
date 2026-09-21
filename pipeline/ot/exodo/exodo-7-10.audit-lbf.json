@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:10",
+  "chapter": 7,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y Moisés y Aarón fueron a Faraón y hicieron como el Señor les había ordenado; Aarón echó su bastón ante Faraón y ante sus siervos, y se volvió serpiente.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007010020"
+      ],
+      "issue": "תַּנִּין left open by lemma/morph; ‘serpiente’ narrows the creature type",
+      "spanishSpan": "serpiente"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

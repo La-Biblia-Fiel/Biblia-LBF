@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 14:15",
+  "chapter": 14,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Mas a Sheol serás hecha bajar, a confines de pozo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014015004"
+      ],
+      "issue": "verb changed from 3ms hophal to 2fs passive address",
+      "spanishSpan": "serás hecha bajar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014015004"
+      ],
+      "issue": "person and gender altered from source morphology",
+      "spanishSpan": "serás hecha"
+    }
+  ],
+  "notes": "אַךְ rendered as Mas without token conflict but verb mismatch decisive",
+  "discardedUncitedFindings": 0
+}

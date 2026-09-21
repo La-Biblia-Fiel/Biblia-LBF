@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:16",
+  "chapter": 37,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Jehová de ejércitos, Dios de Israel, habitante de los keruvím, tú él el Dios solo a ti a todos reinos de la tierra; tú hiciste los cielos y la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037016007",
+        "h23037016008",
+        "h23037016009",
+        "h23037016010"
+      ],
+      "issue": "adds 'a ti' and mangles 'אתה הוא האלהים לבדך' into ungrammatical 'tú él el Dios solo a ti'",
+      "spanishSpan": "tú él el Dios solo a ti a todos reinos de la tierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037016012"
+      ],
+      "issue": "renders ממלכות (feminine) as masculine 'reinos'",
+      "spanishSpan": "reinos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

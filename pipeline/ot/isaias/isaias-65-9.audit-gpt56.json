@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 65:9",
+  "chapter": 65,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sacaré de Yaakov simiente, y de Yehudá heredero de mis montes; y la heredarán mis escogidos, y mis siervos habitarán allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065009002",
+        "h23065009004"
+      ],
+      "issue": "Hebraized proper names (Yaakov, Yehudá) instead of conventional Spanish forms",
+      "spanishSpan": "Yaakov, Yehudá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

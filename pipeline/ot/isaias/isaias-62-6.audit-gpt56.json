@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 62:6",
+  "chapter": 62,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Sobre tus muros, Yerushaláyim, puse guardianes; todo el día y toda la noche siempre no callarán; los que recuerdan a Jehová, no silencio a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23062006003"
+      ],
+      "issue": "Hebraizes proper name instead of conventional Spanish form",
+      "spanishSpan": "Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

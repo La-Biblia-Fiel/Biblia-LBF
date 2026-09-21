@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:13",
+  "chapter": 37,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Dónde rey de Jamat y rey de Arpad y rey a la ciudad Sefarváyim, Hena e Ivá?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037013006",
+        "h23037013007"
+      ],
+      "issue": "wrong preposition and structure: 'rey a la ciudad' instead of 'rey de la ciudad'",
+      "spanishSpan": "rey a la ciudad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037013007",
+        "h23037013008",
+        "h23037013009",
+        "h23037013010"
+      ],
+      "issue": "collapses three separate kings (Sepharvaim, Hena, Ivah) into malformed single phrase",
+      "spanishSpan": "rey a la ciudad Sefarváyim, Hena e Ivá"
+    }
+  ],
+  "notes": "also spelling 'Jamat' for חֲמָת but main structural failures are decisive",
+  "discardedUncitedFindings": 0
+}

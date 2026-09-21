@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:4",
+  "chapter": 10,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Lo recubren de plata y de oro; lo sujetan con clavos y con martillos, para que no se mueva.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010004003"
+      ],
+      "issue": "adds 'recubren' (cover) concept; lemma H3302 only licenses 'make beautiful/adorn'",
+      "spanishSpan": "Lo recubren de plata y de oro"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

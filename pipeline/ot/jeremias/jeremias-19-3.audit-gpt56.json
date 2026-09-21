@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:3",
+  "chapter": 19,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás: Escuchad la palabra del Señor, oh reyes de Judá y habitantes de Jerusalén: Así ha dicho el Señor de los ejércitos, el Dios de Israel: He aquí que traigo un mal sobre este lugar, y todo el que oiga la palabra de este mal, se estremecerá de miedo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019003004",
+        "h24019003011"
+      ],
+      "issue": "YHWH rendered as Señor instead of licensed Jehová",
+      "spanishSpan": "del Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019003017",
+        "h24019003021",
+        "h24019003023",
+        "h24019003024",
+        "h24019003025"
+      ],
+      "issue": "adds 'la palabra de este mal' and resolves 'ears will tingle' idiom into 'se estremecerá de miedo'",
+      "spanishSpan": "todo el que oiga la palabra de este mal, se estremecerá de miedo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019003002"
+      ],
+      "issue": "adds vocative 'oh' not present in tokens",
+      "spanishSpan": "oh reyes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 59:8",
+  "chapter": 59,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Camino de paz no conocieron, y no hay juicio en sus roderas; sus sendas torcieron a ellos; todo el que anda en ella no conoció paz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23059008008",
+        "h23059008009",
+        "h23059008010"
+      ],
+      "issue": "participant/syntax shift: Spanish makes 'sendas' the subject of 'torcieron' instead of the 3cp agents performing the piel action on their own paths",
+      "spanishSpan": "sus sendas torcieron a ellos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

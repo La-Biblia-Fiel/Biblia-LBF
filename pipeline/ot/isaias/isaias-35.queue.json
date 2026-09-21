@@ -1,0 +1,126 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 35,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "passed": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se alegrarán desierto y sequedad, y se gozará Arabá y florecerá como narciso.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23035001001"
+          ],
+          "issue": "omits the Sp3mp pronominal suffix on the verb (licensed concept not rendered)",
+          "spanishSpan": "Se alegrarán"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será allí calzada y camino, y Camino de la Santidad será llamado a ella; no lo pasará inmundo, y él a ellos; el que anda camino, y necios no errarán.",
+      "notes": "multiple additions and restructuring not licensed by the OSHB tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23035008003"
+          ],
+          "issue": "adds 'calzada' with no token support for that noun",
+          "spanishSpan": "calzada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23035008004",
+            "h23035008005"
+          ],
+          "issue": "restructures the two דרך tokens and inserts unlicenced 'calzada'",
+          "spanishSpan": "calzada y camino, y Camino de la Santidad"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y rescatados de Jehová volverán, y vendrán a Tsiyón con cántico, y alegría de siempre sobre su cabeza; gozo y alegría alcanzarán, y huirán congoja y gemido.",
+      "notes": "cántico also slightly mismatches רִנָּה but name alone triggers fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23035010005"
+          ],
+          "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T19:14:55.021654+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 10,
+    "verses": 10,
+    "input": 21451,
+    "cachedInput": 7552,
+    "output": 481,
+    "reasoning": 8350,
+    "usd": 0.0846,
+    "byProvider": {
+      "xai": {
+        "calls": 10,
+        "input": 21451,
+        "output": 481,
+        "reasoning": 8350,
+        "usd": 0.0846
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 10,
+        "input": 21451,
+        "output": 481,
+        "reasoning": 8350,
+        "usd": 0.0846
+      }
+    },
+    "usdPerVerse": 0.0085,
+    "bibleAtThisRate": 263.0,
+    "book": "isaias",
+    "chapter": 35
+  }
+}

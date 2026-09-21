@@ -1,0 +1,255 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 9,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    9,
+    11,
+    12,
+    15,
+    16,
+    18,
+    19,
+    21
+  ],
+  "holds": [
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque toda bota de calzado en tumulto y manto rodado en sangres, y será para quema, pasto de fuego.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009005003",
+            "h23009005004"
+          ],
+          "issue": "renders two distinct tokens as single specialized noun phrase 'bota de calzado' and adds unlicensed 'de calzado'",
+          "spanishSpan": "bota de calzado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009005011"
+          ],
+          "issue": "renders 'ma'akhelet' as 'pasto' (pasture/grazing) instead of licensed 'food/fuel'",
+          "spanishSpan": "pasto de fuego"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque niño nos nació, hijo nos fue dado, y fue el principado sobre su hombro, y fue llamado su nombre: Maravilla de consejero, El poderoso, Padre de perpetuidad, Príncipe de paz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009006012"
+          ],
+          "issue": "active 3ms qal wayyiqtol rendered as passive 'fue llamado'",
+          "spanishSpan": "fue llamado su nombre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009006014",
+            "h23009006015",
+            "h23009006016",
+            "h23009006017",
+            "h23009006018",
+            "h23009006019",
+            "h23009006020",
+            "h23009006021"
+          ],
+          "issue": "construct chain rendered as capitalized titles with added 'El' and doctrinal phrasing not licensed by tokens",
+          "spanishSpan": "Maravilla de consejero, El poderoso, Padre de perpetuidad, Príncipe de paz"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Palabra envió Adonai en Yaakov, y cayó en Israel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009008001",
+            "h23009008002",
+            "h23009008003"
+          ],
+          "issue": "Spanish word order makes 'Palabra' the subject of 'envió' instead of Adonai",
+          "spanishSpan": "Palabra envió Adonai"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ladrillos cayeron, y gazit edificaremos; sicómoros fueron cortados, y cedros reemplazaremos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009010003"
+          ],
+          "issue": "untranslated non-name lemma left as foreign word gazit instead of Spanish rendering of the noun",
+          "spanishSpan": "gazit"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el pueblo no se volvió hasta el que lo hirió, y a Jehová de ejércitos no buscaron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009013005"
+          ],
+          "issue": "participle (hrmsc) rendered as completed preterite instead of ongoing agent",
+          "spanishSpan": "el que lo hirió"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cortará Jehová de Israel cabeza y cola, palma y junco, día uno.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009014001"
+          ],
+          "issue": "renders HC/Vhw3ms sequential imperfect as future cortará instead of preserving past narrative force",
+          "spanishSpan": "cortará"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, sobre sus mozos no se alegrará Adonai, y a sus huérfanos y a sus viudas no apiadará; porque todo él hipócrita y malhechor, y toda boca habla necedad. En todo esto no se volvió su nariz, y aún su mano extendida.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009017026"
+          ],
+          "issue": "literal 'nariz' for אַפּוֹ resolves idiom to nose instead of anger not turning",
+          "spanishSpan": "su nariz"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cortará sobre derecha y tendrá hambre, y comerá sobre izquierda y no se saciaron; hombre carne de su brazo comerán.",
+      "notes": "first clause verbs match 3ms/3cp shift but final clause does not",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009020011",
+            "h23009020012",
+            "h23009020013"
+          ],
+          "issue": "mangles construct chain and participant reference; Spanish 'hombre carne de su brazo comerán' neither preserves nor licenses the exact token sequence",
+          "spanishSpan": "hombre carne de su brazo comerán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23009020009"
+          ],
+          "issue": "adds reflexive 'se' not licensed by the qal perfect 3cp token",
+          "spanishSpan": "no se saciaron"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:01:38.022581+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 21,
+    "verses": 21,
+    "input": 45372,
+    "cachedInput": 13632,
+    "output": 1249,
+    "reasoning": 20840,
+    "usd": 0.2028,
+    "byProvider": {
+      "xai": {
+        "calls": 21,
+        "input": 45372,
+        "output": 1249,
+        "reasoning": 20840,
+        "usd": 0.2028
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 21,
+        "input": 45372,
+        "output": 1249,
+        "reasoning": 20840,
+        "usd": 0.2028
+      }
+    },
+    "usdPerVerse": 0.0097,
+    "bibleAtThisRate": 300.0,
+    "book": "isaias",
+    "chapter": 9
+  }
+}

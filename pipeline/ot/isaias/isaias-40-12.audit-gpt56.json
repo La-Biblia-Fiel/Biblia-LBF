@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:12",
+  "chapter": 40,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién midió en su hueco aguas, y cielos con el palmo midió, y midió en el tercio polvo de la tierra, y pesó en la balanza montes, y collados en básculas?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040012008",
+        "h23040012009"
+      ],
+      "issue": "renders כּוּל + שָׁלִישׁ as 'midió en el tercio', adding a verb and misparsing the measure construction",
+      "spanishSpan": "y midió en el tercio"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040012002",
+        "h23040012007"
+      ],
+      "issue": "repeats 'midió' for both מָדַד and תִּכֵּן, flattening distinct verbs",
+      "spanishSpan": "midió ... midió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040012003"
+      ],
+      "issue": "renders שָׁעַל as 'hueco' without licensed sense or construct handling",
+      "spanishSpan": "en su hueco"
+    }
+  ],
+  "notes": "multiple verb and construction mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 39:5",
+  "chapter": 39,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Yeshayahu a Jizqiyahu: Oye palabra de Jehová de ejércitos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23039005002",
+        "h23039005004"
+      ],
+      "issue": "Hebraized proper names (Yeshayahu, Jizqiyahu) instead of conventional Spanish forms",
+      "spanishSpan": "Yeshayahu a Jizqiyahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

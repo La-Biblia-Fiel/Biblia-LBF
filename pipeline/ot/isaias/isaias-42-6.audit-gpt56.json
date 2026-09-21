@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 42:6",
+  "chapter": 42,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Yo Jehová te llamé en justicia, y asiré en tu mano, y te guardaré, y te daré a pacto de pueblo, a luz de naciones,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042006008",
+        "h23042006009",
+        "h23042006010"
+      ],
+      "issue": "renders לִבְרִית עָם as 'a pacto de pueblo' (omits proper 'for/as a covenant of/for the people' structure)",
+      "spanishSpan": "te daré a pacto de pueblo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

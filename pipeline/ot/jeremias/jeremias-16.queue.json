@@ -1,0 +1,493 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 16,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "passed": [
+    2,
+    4,
+    8,
+    12,
+    14,
+    15,
+    17
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vino la palabra del SEÑOR a mí, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016001001"
+          ],
+          "issue": "adds concept 'vino' (came) not licensed by lemma היה / morph Vqw3ms",
+          "spanishSpan": "vino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016001003"
+          ],
+          "issue": "renders יהוה as SEÑOR instead of licensed Jehová",
+          "spanishSpan": "SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "lint",
+      "verdict": "fail",
+      "spanish": "Porque dice el SEÑOR: En cuanto a los hijos y a las hijas que nazcan en este lugar, y a sus madres que los parieron, y a sus padres que los engendraron en esta tierra, morirán de enfermedad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [],
+          "issue": "archaic parir",
+          "spanishSpan": "parieron"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque dice el SEÑOR: No entrarás en la casa de luto, ni irás a llorar ni a lamentarte; porque he quitado mi paz de este pueblo, dice el SEÑOR, mi misericordia y mi bondad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016005002"
+          ],
+          "issue": "omits licensed adverb כֹה (thus/so)",
+          "spanishSpan": "Porque dice"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016005004",
+            "h24016005023"
+          ],
+          "issue": "renders יהוה as SEÑOR instead of required Jehová",
+          "spanishSpan": "el SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Morirán grandes y pequeños en esta tierra; no serán enterrados, ni se llorará por ellos, ni se rasgará la ropa, ni se se raparán la cabeza por ellos.",
+      "notes": "also typo 'se se'",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016006012"
+          ],
+          "issue": "adds 'la ropa' (tearing clothes) not present in lemma 1413 / גדד token",
+          "spanishSpan": "se rasgará la ropa"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016006014"
+          ],
+          "issue": "adds 'la cabeza' not present in lemma 7139 / קרח token",
+          "spanishSpan": "raparán la cabeza"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016006012",
+            "h24016006014"
+          ],
+          "issue": "changes 3ms verbs to plural 'raparán' while rendering singular as singular earlier",
+          "spanishSpan": "se rasgará ... raparán"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No rasgarán la ropa por ellos, ni se consolarán con ellos por la muerte de un padre o de una madre.",
+      "notes": "multiple structural and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016007002"
+          ],
+          "issue": "adds 'la ropa' not present in any token",
+          "spanishSpan": "la ropa"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016007010",
+            "h24016007012",
+            "h24016007013"
+          ],
+          "issue": "omits cup of consolations and hiphil 'give to drink'",
+          "spanishSpan": "se consolarán con ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016007008",
+            "h24016007014",
+            "h24016007015",
+            "h24016007017"
+          ],
+          "issue": "restructures 'upon the dead' + 'upon his father and upon his mother' into 'por la muerte de un padre o de una madre'",
+          "spanishSpan": "por la muerte de un padre o de una madre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016007015",
+            "h24016007017"
+          ],
+          "issue": "changes 3ms possessive suffixes and 'and' to indefinite 'un ... o de una'",
+          "spanishSpan": "un padre o de una madre"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque dice el SEÑOR de los ejércitos, el Dios de Israel: He aquí que quitaré de este lugar, ante sus ojos y en sus días, el sonido de la alegría y el sonido de la gozo, el sonido del novio y el sonido de la novia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016009013",
+            "h24016009014"
+          ],
+          "issue": "2mp suffixes rendered as 3rd-person 'sus' instead of 'vuestros'",
+          "spanishSpan": "ante sus ojos y en sus días"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016009002"
+          ],
+          "issue": "omits demonstrative adverb כֹה 'así'",
+          "spanishSpan": "Porque dice"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016009018"
+          ],
+          "issue": "feminine noun rendered with wrong gender article",
+          "spanishSpan": "la gozo"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cuando les digas estas palabras, responderán: ¿Por qué ha hablado el SEÑOR de nosotros estas palabras de todo este mal y de esta gran calamidad? ¿Qué pecado hemos cometido y qué iniquidad hemos cometido contra el SEÑOR, nuestro Dios?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016010004",
+            "h24016010005",
+            "h24016010007",
+            "h24016010008",
+            "h24016010009"
+          ],
+          "issue": "omits 'to this people all these words' and inserts 'estas palabras' into the question instead",
+          "spanishSpan": "les digas estas palabras"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016010014",
+            "h24016010017",
+            "h24016010018",
+            "h24016010019",
+            "h24016010020",
+            "h24016010021"
+          ],
+          "issue": "restructures and inserts 'estas palabras de todo este mal y de esta gran calamidad' instead of 'all this great evil'",
+          "spanishSpan": "ha hablado el SEÑOR de nosotros estas palabras de todo este mal y de esta gran calamidad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016010023",
+            "h24016010025",
+            "h24016010027"
+          ],
+          "issue": "reverses order of iniquity/sin and repeats 'hemos cometido' instead of single חָטָאנוּ applying to both",
+          "spanishSpan": "Qué pecado hemos cometido y qué iniquidad hemos cometido"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y les dirás: Porque abandonaron a sus padres a mí, el SEÑOR, y anduvieron tras dioses ajenos, y los sirvieron y se postraron ante ellos, y a mí me abandonaron, y mi ley no la guardaron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016011005",
+            "h24016011006",
+            "h24016011007"
+          ],
+          "issue": "reverses participant roles: Hebrew 'your fathers abandoned me' rendered as 'abandonaron a sus padres a mí'",
+          "spanishSpan": "abandonaron a sus padres a mí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016011008",
+            "h24016011009"
+          ],
+          "issue": "inserts 'el SEÑOR' as appositive to 'a mí' instead of reporting the declaration formula after the clause",
+          "spanishSpan": "a mí, el SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y os echaré de la tierra de este lugar a una tierra que no conocisteis ustedes ni sus padres, y allí serviréis a dioses ajenos de día y de noche, y no os daré misericordia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016013004",
+            "h24016013005"
+          ],
+          "issue": "adds 'lugar' (this place) not licensed by הָאָרֶץ הַזֹּאת",
+          "spanishSpan": "de este lugar"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que envío muchos pescadores, dice el SEÑOR, y pescarán a ellos; y después enviaré muchos cazadores, y los cazarán de cada monte y de cada collina, y de los escondrijos de las rocas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016016003",
+            "h24016016006"
+          ],
+          "issue": "adds noun 'pescadores' not present in tokens (only rabbim + verb dig)",
+          "spanishSpan": "muchos pescadores"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y pagaré primero a ellos la doble de su iniquidad y de su pecado, por haber profanado mi tierra con los cadáveres de sus abominaciones y con sus abominaciones llenaron mi heredad.",
+      "notes": "addition of recipient and causal restructuring exceed token license",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016018001"
+          ],
+          "issue": "adds indirect object 'a ellos' not present in any token",
+          "spanishSpan": "a ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016018007"
+          ],
+          "issue": "renders piel inf construct + 3mp suffix as causal 'por haber profanado' instead of 'their profaning'",
+          "spanishSpan": "por haber profanado"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El SEÑOR es mi fortaleza y mi refugio, mi salvación en el día del mal. A ti, pueblo, vendrán de los confines de la tierra y dirán: En vano heredaron nuestros padres, son vanidad, no hay en ellos salvación.",
+      "notes": "multiple unlicensed additions and mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016019004"
+          ],
+          "issue": "מְנוּסִי rendered as 'mi salvación' (adds salvation concept absent from lemma)",
+          "spanishSpan": "mi salvación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016019006"
+          ],
+          "issue": "צָרָה rendered as 'del mal' (resolves to 'evil' not licensed by lemma)",
+          "spanishSpan": "del mal"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016019008"
+          ],
+          "issue": "גּוֹיִם plural 'nations' replaced by singular 'pueblo' (omits number and adds unlicenced noun)",
+          "spanishSpan": "pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016019020"
+          ],
+          "issue": "מוֹעִיל (profit/benefit) rendered as 'salvación' (adds salvation concept absent from lemma)",
+          "spanishSpan": "salvación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016019014"
+          ],
+          "issue": "שֶׁקֶר (falsehood) rendered as 'En vano' while shifting sense of following clause",
+          "spanishSpan": "En vano"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Hará un hombre a Dios? ¿Y ellos no son dioses?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016020004"
+          ],
+          "issue": "renders plural אֱלֹהִים as singular Dios",
+          "spanishSpan": "a Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016020002",
+            "h24016020001"
+          ],
+          "issue": "mishandles לּוֹ and the verb-object structure; Spanish does not convey 'make gods for himself'",
+          "spanishSpan": "Hará un hombre a Dios"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, he aquí que yo les revelaré en este tiempo mi mano y mi poderío, y sabrán que yo soy el SEÑOR.",
+      "notes": "also uses SEÑOR for יהוה contrary to PROPER_NAMES.md",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016021013",
+            "h24016021014"
+          ],
+          "issue": "renders שְׁמִי יְהוָה as 'yo soy el SEÑOR' (adds 'I am' + title substitution)",
+          "spanishSpan": "que yo soy el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24016021003",
+            "h24016021006"
+          ],
+          "issue": "merges two distinct ידע Hiphil forms (participle + imperfect) into single future verb, omitting repetition",
+          "spanishSpan": "yo les revelaré"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:51:21.957742+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 20,
+    "verses": 20,
+    "input": 50552,
+    "cachedInput": 17920,
+    "output": 2663,
+    "reasoning": 18709,
+    "usd": 0.2025,
+    "byProvider": {
+      "xai": {
+        "calls": 20,
+        "input": 50552,
+        "output": 2663,
+        "reasoning": 18709,
+        "usd": 0.2025
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 20,
+        "input": 50552,
+        "output": 2663,
+        "reasoning": 18709,
+        "usd": 0.2025
+      }
+    },
+    "usdPerVerse": 0.0101,
+    "bibleAtThisRate": 315.0,
+    "book": "jeremias",
+    "chapter": 16
+  }
+}

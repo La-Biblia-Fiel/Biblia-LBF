@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:16",
+  "chapter": 10,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "No son como estos el porción de Jacob, porque el que hizo todo es él, y Israel es el bastón de su heredad; Jehová de los ejércitos es su nombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010016003"
+      ],
+      "issue": "Spanish uses plural verb 'son' with singular subject 'porción'",
+      "spanishSpan": "No son"
+    }
+  ],
+  "notes": "minor grammar mismatch but alters number agreement",
+  "discardedUncitedFindings": 0
+}

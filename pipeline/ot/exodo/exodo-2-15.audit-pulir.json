@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 2:15",
+  "chapter": 2,
+  "verse": 15,
+  "candidateLabel": "pulir",
+  "spanish": "Y oyó Faraón este asunto, y buscó matar a Moisés; y huyó Moisés de delante de Faraón, y se estableció en tierra de Madián, y se sentó junto al pozo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002015018",
+        "h02002015019"
+      ],
+      "issue": "עַל הַבְּאֵר rendered as 'junto al pozo' (beside) instead of upon the well",
+      "spanishSpan": "junto al pozo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

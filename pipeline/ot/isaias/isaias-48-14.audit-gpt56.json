@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 48:14",
+  "chapter": 48,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Reúnanse todos ustedes y oigan: ¿Quién entre ellos anunció estas? Jehová lo amó; hará su deseo en Bavel, y su brazo Kasdim.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23048014013"
+      ],
+      "issue": "Hebraized proper name Bavel instead of conventional Spanish form",
+      "spanishSpan": "Bavel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23048014015"
+      ],
+      "issue": "Hebraized proper name Kasdim instead of conventional Spanish form",
+      "spanishSpan": "Kasdim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

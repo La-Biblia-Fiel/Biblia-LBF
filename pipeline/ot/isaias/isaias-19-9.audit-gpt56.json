@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 19:9",
+  "chapter": 19,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y se avergonzarán obreros de linos peinados, y tejedores de blancos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23019009004"
+      ],
+      "issue": "resolves ambiguity of fpa adjective by attaching 'peinados' to 'linos'",
+      "spanishSpan": "linos peinados"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

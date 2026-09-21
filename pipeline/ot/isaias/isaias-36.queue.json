@@ -1,0 +1,497 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 36,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "passed": [
+    5,
+    8,
+    10,
+    13,
+    17,
+    18,
+    22
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y fue en catorce año al rey Jizqiyahu, subió Sanjerib rey de Ashur sobre todas ciudades de Yehudá las fortificadas, y las asió.",
+      "notes": "Multiple proper-name and phrasing mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036001006"
+          ],
+          "issue": "Hebraized proper name Jizqiyahu instead of conventional Spanish form",
+          "spanishSpan": "Jizqiyahu"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036001010"
+          ],
+          "issue": "Hebraized proper name Ashur instead of conventional Spanish form",
+          "spanishSpan": "Ashur"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036001014"
+          ],
+          "issue": "Hebraized proper name Yehudá instead of conventional Spanish form Judá",
+          "spanishSpan": "Yehudá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036001002",
+            "h23036001003",
+            "h23036001004",
+            "h23036001005"
+          ],
+          "issue": "Awkward phrasing 'en catorce año al rey' fails to render the year-of-king construct accurately",
+          "spanishSpan": "en catorce año al rey Jizqiyahu"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y envió rey de Ashur a Rav-shaqé desde Lajish a Yerushaláyim, al rey Jizqiyahu, en ejército pesado; y se paró en canal de la alberca la superior, en calzada de campo de lavandero.",
+      "notes": "transliterations and interpretive noun choice exceed token license",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036002003",
+            "h23036002005",
+            "h23036002006",
+            "h23036002007",
+            "h23036002008",
+            "h23036002011"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Ashur, Rav-shaqé, Lajish, Yerushaláyim, Jizqiyahu"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036002020"
+          ],
+          "issue": "renders participle as specialized noun 'lavandero' resolving open morphology",
+          "spanishSpan": "lavandero"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y salió a él Elyaqim hijo de Jilqiyahu, que sobre la casa, y Shevná el escriba, y Yoaj hijo de Asaf el recordador.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036003003",
+            "h23036003005",
+            "h23036003009",
+            "h23036003011",
+            "h23036003013"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Elyaqim ... Jilqiyahu ... Shevná ... Yoaj ... Asaf"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo a ellos Rav-shaqé: Digan, por favor, a Jizqiyahu: Así dijo el rey el grande, rey de Ashur: ¿Qué la confianza esta que confiaste?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036004003",
+            "h23036004004",
+            "h23036004008",
+            "h23036004014"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Rav-shaqé ... Jizqiyahu ... Ashur"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí confiaste sobre muleta del caña el aplastado este, sobre Mizraim, que se apoya varón sobre él, y entra en su palma y la perfora; así Faraón rey de Mizraim a todos los confiantes sobre él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036006009",
+            "h23036006020"
+          ],
+          "issue": "Hebraizes proper name as Mizraim instead of conventional Spanish Egipto",
+          "spanishSpan": "Mizraim"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y si digas a mí: A Jehová nuestro Dios confiamos —¿no él que apartó Jizqiyahu sus bamot y sus altares, y dijo a Yehudá y a Yerushaláyim: Delante del altar este se postrarán?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036007023"
+          ],
+          "issue": "changes 2mp participant to 3pl",
+          "spanishSpan": "se postrarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036007018",
+            "h23036007019"
+          ],
+          "issue": "Hebraizes proper names instead of conventional Spanish",
+          "spanishSpan": "Yehudá y a Yerushaláyim"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036007014"
+          ],
+          "issue": "transliterates lemma instead of rendering sense",
+          "spanishSpan": "bamot"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036007012"
+          ],
+          "issue": "Hebraizes proper name",
+          "spanishSpan": "Jizqiyahu"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Y cómo harás volver faces de un pajat de siervos de mi señor los pequeños, y confiaste a ti sobre Mizraim para carro y para jinetes?",
+      "notes": "multiple structural and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036009013"
+          ],
+          "issue": "Hebraizes proper name as Mizraim instead of conventional Spanish Egipto",
+          "spanishSpan": "Mizraim"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036009005"
+          ],
+          "issue": "dumps non-Spanish form pajat for pachath",
+          "spanishSpan": "pajat"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036009004"
+          ],
+          "issue": "renders construct 'face of' as plural 'faces'",
+          "spanishSpan": "faces"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036009001",
+            "h23036009002",
+            "h23036009005",
+            "h23036009006",
+            "h23036009007",
+            "h23036009008",
+            "h23036009009"
+          ],
+          "issue": "garbled syntax that adds concepts and misparses 'how will you cause to return the face of one governor among the least servants of my lord'",
+          "spanishSpan": "harás volver faces de un pajat de siervos de mi señor los pequeños"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo Elyaqim y Shevná y Yoaj a Rav-shaqé: Habla, por favor, a tus siervos arameo, porque oyendo nosotros; y no hables a nosotros yehudit en oídos del pueblo que sobre la muralla.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036011002",
+            "h23036011003",
+            "h23036011004",
+            "h23036011006",
+            "h23036011007",
+            "h23036011019"
+          ],
+          "issue": "Hebraized proper names and gentilic language terms instead of conventional Spanish forms",
+          "spanishSpan": "Elyaqim y Shevná y Yoaj ... Rav-shaqé ... yehudit"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036011014",
+            "h23036011015"
+          ],
+          "issue": "omits finite sense of the participle + pronoun and produces ungrammatical fragment",
+          "spanishSpan": "porque oyendo nosotros"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo Rav-shaqé: ¿Acaso a tus señores y a ti me envió mi señor para hablar las palabras estas? ¿No sobre los varones los habitantes sobre la muralla, para comer el, y para beber el, con ustedes?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036012019",
+            "h23036012021"
+          ],
+          "issue": "adds unlicensed 'el' after infinitives",
+          "spanishSpan": "para comer el, y para beber el"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036012015",
+            "h23036012016"
+          ],
+          "issue": "awkward stacking omits connective structure licensed by tokens",
+          "spanishSpan": "los varones los habitantes"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dijo el rey: No engañe a ustedes Jizqiyahu, porque no podrá para librar a ustedes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036014005",
+            "h23036014006",
+            "h23036014007"
+          ],
+          "issue": "word order places proper name after object, reversing participant roles so that Jizqiyahu appears to be the one addressed rather than the subject who must not deceive",
+          "spanishSpan": "No engañe a ustedes Jizqiyahu"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036014011"
+          ],
+          "issue": "inserts unlicensed preposition 'para' before the infinitive",
+          "spanishSpan": "podrá para librar"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no haga confiar a ustedes Jizqiyahu a Jehová, diciendo: Librando nos librará Jehová; no será dada la ciudad esta en mano de rey de Ashur.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036015004"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Jizqiyahu"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No oigan a Jizqiyahu, porque así dijo el rey de Ashur: Hagan conmigo bendición, y salgan a mí, y coman varón su vid y varón su higuera, y beban varón aguas de su cisterna,",
+      "notes": "proper-name rendering violates locked conventional form rule",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036016004"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Jizqiyahu"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036016009"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Ashur"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Dónde dioses de Jamat y Arpad? ¿Dónde dioses de Sefarváyim? ¿Y que libraron a Shomrón de mi mano?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036019011"
+          ],
+          "issue": "Hebraized proper name Shomrón instead of conventional Spanish form",
+          "spanishSpan": "Shomrón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036019008",
+            "h23036019009"
+          ],
+          "issue": "third clause turned into separate interrogative with added question mark, altering the 'and that' continuation structure",
+          "spanishSpan": "¿Y que libraron"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Quién en todos dioses de estas tierras que libraron su tierra de mi mano, que librará Jehová a Yerushaláyim de mi mano?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036020015"
+          ],
+          "issue": "Hebraizes proper name Yerushaláyim instead of conventional Spanish Jerusalén",
+          "spanishSpan": "Yerushaláyim"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y callaron, y no respondieron a él palabra, porque mandato del rey ella, diciendo: No lo respondan.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036021007",
+            "h23036021008",
+            "h23036021009"
+          ],
+          "issue": "renders construct + article + 3fs pronoun as ungrammatical fragment \"mandato del rey ella\" instead of licensed clause structure",
+          "spanishSpan": "mandato del rey ella"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23036021012"
+          ],
+          "issue": "uses 3rd-person plural imperative \"respondan\" for 2mp qal imperfect with suffix",
+          "spanishSpan": "No lo respondan"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T19:19:12.273446+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 22,
+    "verses": 22,
+    "input": 55482,
+    "cachedInput": 16192,
+    "output": 2572,
+    "reasoning": 24299,
+    "usd": 0.2479,
+    "byProvider": {
+      "xai": {
+        "calls": 22,
+        "input": 55482,
+        "output": 2572,
+        "reasoning": 24299,
+        "usd": 0.2479
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 22,
+        "input": 55482,
+        "output": 2572,
+        "reasoning": 24299,
+        "usd": 0.2479
+      }
+    },
+    "usdPerVerse": 0.0113,
+    "bibleAtThisRate": 350.0,
+    "book": "isaias",
+    "chapter": 36
+  }
+}

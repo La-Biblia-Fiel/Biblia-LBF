@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:15",
+  "chapter": 7,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Cuajada y miel comerá, para su conocer desechar en el mal y escoger en el bien.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23007015004"
+      ],
+      "issue": "awkward rendering of infinitive construct + suffix that does not alter meaning",
+      "spanishSpan": "para su conocer"
+    }
+  ],
+  "notes": "preserves all token elements without addition/omission",
+  "discardedUncitedFindings": 0
+}

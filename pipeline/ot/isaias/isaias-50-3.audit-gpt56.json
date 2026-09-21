@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 50:3",
+  "chapter": 50,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Visto cielos de negrura, y saco pongo su cubierta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23050003001"
+      ],
+      "issue": "Spanish fails to render hiphil 1cs verb 'I will clothe' and its object structure",
+      "spanishSpan": "Visto cielos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23050003002",
+        "h23050003003"
+      ],
+      "issue": "treats קַדְר�וּת as genitive descriptor of שָׁמַיִם instead of separate clothing item",
+      "spanishSpan": "cielos de negrura"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23050003004",
+        "h23050003005",
+        "h23050003006"
+      ],
+      "issue": "mangles conjunction + verb + object into 'saco pongo su cubierta', omitting proper 'I will put sackcloth as their covering'",
+      "spanishSpan": "y saco pongo su cubierta"
+    }
+  ],
+  "notes": "multiple structural and lexical mismatches with tokens",
+  "discardedUncitedFindings": 0
+}

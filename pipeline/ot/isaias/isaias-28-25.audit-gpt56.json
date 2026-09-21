@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 28:25",
+  "chapter": 28,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "¿No, si igualó sus faces, y esparció neguilla, y comino esparce, y pone trigo en surco, y cebada señalada, y espelta su término?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028025007",
+        "h23028025008"
+      ],
+      "issue": "Spanish inverts syntax making comino the subject of esparce instead of the 3ms agent scattering cumin",
+      "spanishSpan": "y comino esparce"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028025011"
+      ],
+      "issue": "adds preposition en not present in tokens",
+      "spanishSpan": "en surco"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 28:19",
+  "chapter": 28,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Desde que pase tomará a ustedes; porque por la mañana, por la mañana pasará, de día y de noche; y será solo terror entender oído.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028019014",
+        "h23028019015"
+      ],
+      "issue": "renders הָבִין שְׁמוּעָה as 'entender oído' (wrong noun; 8052 is 'report' not 'ear/hearing')",
+      "spanishSpan": "entender oído"
+    }
+  ],
+  "notes": "first clause also loose but last two tokens are the clear mismatch",
+  "discardedUncitedFindings": 0
+}

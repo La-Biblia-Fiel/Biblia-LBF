@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:10",
+  "chapter": 16,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Cuando les digas estas palabras, responderán: ¿Por qué ha hablado el SEÑOR de nosotros estas palabras de todo este mal y de esta gran calamidad? ¿Qué pecado hemos cometido y qué iniquidad hemos cometido contra el SEÑOR, nuestro Dios?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016010004",
+        "h24016010005",
+        "h24016010007",
+        "h24016010008",
+        "h24016010009"
+      ],
+      "issue": "omits 'to this people all these words' and inserts 'estas palabras' into the question instead",
+      "spanishSpan": "les digas estas palabras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016010014",
+        "h24016010017",
+        "h24016010018",
+        "h24016010019",
+        "h24016010020",
+        "h24016010021"
+      ],
+      "issue": "restructures and inserts 'estas palabras de todo este mal y de esta gran calamidad' instead of 'all this great evil'",
+      "spanishSpan": "ha hablado el SEÑOR de nosotros estas palabras de todo este mal y de esta gran calamidad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016010023",
+        "h24016010025",
+        "h24016010027"
+      ],
+      "issue": "reverses order of iniquity/sin and repeats 'hemos cometido' instead of single חָטָאנוּ applying to both",
+      "spanishSpan": "Qué pecado hemos cometido y qué iniquidad hemos cometido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

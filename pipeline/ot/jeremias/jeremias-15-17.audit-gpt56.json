@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:17",
+  "chapter": 15,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "No me senté en la asamblea de los que se burlan, ni me alegré; por tu mano, en solitario me senté, porque llenaste de ira tu mano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015017011",
+        "h24015017012"
+      ],
+      "issue": "changes 'you filled me with זעם' to 'you filled your hand with ira'",
+      "spanishSpan": "porque llenaste de ira tu mano"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

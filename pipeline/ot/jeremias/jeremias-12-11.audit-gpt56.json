@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:11",
+  "chapter": 12,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "La han convertido en un desierto, y en un lugar de tristeza; el desierto la ha destruido, y la tierra se ha secado, porque no hay nadie que ponga su corazón en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012011004"
+      ],
+      "issue": "omits עָלַי (upon me)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012011003"
+      ],
+      "issue": "replaces אָבְלָה (mourned) with un-licensed phrases 'lugar de tristeza' and 'se ha secado'",
+      "spanishSpan": "y en un lugar de tristeza; ... y la tierra se ha secado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012011006"
+      ],
+      "issue": "renders נָשַׁמָּה as 'destruido' (destroyed) instead of desolated",
+      "spanishSpan": "el desierto la ha destruido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 10:13",
+  "chapter": 10,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque dijo: En fuerza de mi mano hice, y en mi sabiduría, porque entendí; y quito términos de pueblos, y saqueé sus tesoros, y derribo como toro moradores.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010013012"
+      ],
+      "issue": "adds 'sus tesoros' with no corresponding token; plunder applies only to gebûlot ʿammîm",
+      "spanishSpan": "saqueé sus tesoros"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010013009",
+        "h23010013013"
+      ],
+      "issue": "changes hiphil imperfect 1cs verbs to present tense while surrounding perfects are rendered past",
+      "spanishSpan": "quito ... derribo"
+    }
+  ],
+  "notes": "tenses inconsistent with token morphology; 'como toro' resolves abbîr ambiguity",
+  "discardedUncitedFindings": 0
+}

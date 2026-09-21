@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 27:9",
+  "chapter": 27,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto en esto será cubierto iniquidad de Yaakov, y este todo fruto de quitar su pecado: en poner él todas piedras de altar como piedras de cal desmenuzadas; no se levantarán aserim y pilares del sol.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23027009005"
+      ],
+      "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23027009020"
+      ],
+      "issue": "Hebraized proper name aserim",
+      "spanishSpan": "aserim"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23027009021"
+      ],
+      "issue": "adds interpretive 'del sol' not licensed by the lemma or morphology of חַמָּנִים",
+      "spanishSpan": "pilares del sol"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

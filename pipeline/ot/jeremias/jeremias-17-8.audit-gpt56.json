@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:8",
+  "chapter": 17,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será como un árbol plantado junto a las aguas, y enviará sus raíces junto al torrente, y no temerá cuando venga el calor, y será verde, y en el año de sequía no se afligirá, y no dejará de dar fruto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017008010",
+        "h24017008011",
+        "h24017008012",
+        "h24017008013"
+      ],
+      "issue": "adds 'temerá' (fear) for heat clause; tokens only license 'no ... cuando venga el calor' without any fear verb",
+      "spanishSpan": "no temerá cuando venga el calor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017008020"
+      ],
+      "issue": "misplaces anxiety verb (ידאג) to heat instead of drought clause",
+      "spanishSpan": "no temerá cuando venga el calor"
+    }
+  ],
+  "notes": "verdant leaf and drought anxiety are correctly placed in tokens but Spanish distorts heat clause",
+  "discardedUncitedFindings": 0
+}

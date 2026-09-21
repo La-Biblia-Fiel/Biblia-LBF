@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:14",
+  "chapter": 13,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los dispersaré a cada uno a su hermano, y a los padres con los hijos juntos, dice Jehová: No tendré misericordia, no tendré compasión, no los perdonaré de ser destruidos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013014001"
+      ],
+      "issue": "נפץ (piel) rendered as 'dispersaré' (scatter); lemma means shatter/dash in pieces",
+      "spanishSpan": "los dispersaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013014011",
+        "h24013014013",
+        "h24013014015",
+        "h24013014016"
+      ],
+      "issue": "three distinct verbs (חמל, חוס, רחם) + 'from destroying them' collapsed into 'no tendré misericordia, no tendré compasión, no los perdonaré de ser destruidos'",
+      "spanishSpan": "No tendré misericordia, no tendré compasión, no los perdonaré de ser destruidos"
+    }
+  ],
+  "notes": "first verb and final clause both mismatch tokens",
+  "discardedUncitedFindings": 0
+}

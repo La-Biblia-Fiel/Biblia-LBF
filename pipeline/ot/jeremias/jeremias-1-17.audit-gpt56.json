@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:17",
+  "chapter": 1,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tú cíñete la cintura y levántate y habla a ellos todo lo que yo te ordeno. No temas delante de ellos, para que yo te tenga delante de ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001017013",
+        "h24001017016"
+      ],
+      "issue": "renders Niphal/Hiphil חתת as 'temas'/'tenga' instead of dismay/terrify",
+      "spanishSpan": "No temas ... para que yo te tenga"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:10",
+  "chapter": 43,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Ustedes mis testigos —oráculo de Jehová— y mi siervo que elegí, para que conozcan y crean a mí y entiendan que yo él; delante de mí no fue formado dios, y detrás de mí no será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043010009",
+        "h23043010010",
+        "h23043010012"
+      ],
+      "issue": "2mp verbs rendered as 3pl (conozcan/crean/entiendan), shifting addressees to third party",
+      "spanishSpan": "conozcan y crean ... entiendan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043010014",
+        "h23043010015"
+      ],
+      "issue": "missing copula/verb for 'I am he'",
+      "spanishSpan": "que yo él"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

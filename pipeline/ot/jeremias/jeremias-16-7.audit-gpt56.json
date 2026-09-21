@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:7",
+  "chapter": 16,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "No rasgarán la ropa por ellos, ni se consolarán con ellos por la muerte de un padre o de una madre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016007002"
+      ],
+      "issue": "adds 'la ropa' not present in any token",
+      "spanishSpan": "la ropa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016007010",
+        "h24016007012",
+        "h24016007013"
+      ],
+      "issue": "omits cup of consolations and hiphil 'give to drink'",
+      "spanishSpan": "se consolarán con ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016007008",
+        "h24016007014",
+        "h24016007015",
+        "h24016007017"
+      ],
+      "issue": "restructures 'upon the dead' + 'upon his father and upon his mother' into 'por la muerte de un padre o de una madre'",
+      "spanishSpan": "por la muerte de un padre o de una madre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016007015",
+        "h24016007017"
+      ],
+      "issue": "changes 3ms possessive suffixes and 'and' to indefinite 'un ... o de una'",
+      "spanishSpan": "un padre o de una madre"
+    }
+  ],
+  "notes": "multiple structural and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

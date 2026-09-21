@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 46:4",
+  "chapter": 46,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y hasta vejez yo él, y hasta canas yo llevaré; yo hice, y yo llevaré, y yo soportaré, y escaparé.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046004015"
+      ],
+      "issue": "piel מלט rendered as 'escaparé' (I will escape) instead of deliver/rescue",
+      "spanishSpan": "y escaparé"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

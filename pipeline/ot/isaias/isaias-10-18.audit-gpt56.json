@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 10:18",
+  "chapter": 10,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y gloria de su bosque y de su Carmelo, de alma y hasta carne, consumirá; y será como derretirse de enfermo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010018001",
+        "h23010018007"
+      ],
+      "issue": "Spanish syntax makes 'gloria' the subject that consumirá, but tokens place glory as the consumed item and yekaleh has separate 3ms subject",
+      "spanishSpan": "Y gloria de su bosque y de su Carmelo ... consumirá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010018003"
+      ],
+      "issue": "capitalizes Carmelo as title/name not licensed by token",
+      "spanishSpan": "su Carmelo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

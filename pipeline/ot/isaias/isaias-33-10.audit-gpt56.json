@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 33:10",
+  "chapter": 33,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Ahora me levantaré, dice Jehová; ahora seré exaltado; ahora me alzaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033010006"
+      ],
+      "issue": "רום hiphil 1cs rendered as passive 'seré exaltado'",
+      "spanishSpan": "ahora seré exaltado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033010008"
+      ],
+      "issue": "נשא niphal 1cs rendered as active reflexive 'me alzaré'",
+      "spanishSpan": "ahora me alzaré"
+    }
+  ],
+  "notes": "verbs swapped in voice and assignment",
+  "discardedUncitedFindings": 0
+}

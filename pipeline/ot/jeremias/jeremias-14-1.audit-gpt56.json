@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:1",
+  "chapter": 14,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra del SEÑOR vino a Jeremías acerca de las palabras de la adversidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014001002"
+      ],
+      "issue": "הָיָה rendered as 'vino' (adds motion concept not licensed by lemma 1961 'to be')",
+      "spanishSpan": "vino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014001001"
+      ],
+      "issue": "omits relative אֲשֶׁר that structures the clause as 'that which was'",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014001004"
+      ],
+      "issue": "יהוה rendered as SEÑOR instead of conventional Jehová",
+      "spanishSpan": "SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014001009"
+      ],
+      "issue": "הַבַּצָּרֽוֹת rendered as 'adversidad' (adds interpretive concept; lemma is drought/famine)",
+      "spanishSpan": "la adversidad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

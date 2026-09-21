@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:5",
+  "chapter": 7,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y sabrá Egipto que yo soy el Señor, cuando extienda mi mano sobre Egipto, y sacaré a los hijos de Israel de medio de ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007005015"
+      ],
+      "issue": "מִתּוֹכָם has 3mp suffix (‘from their midst’); ‘de medio de ella’ shifts to feminine singular",
+      "spanishSpan": "de medio de ella"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007005001",
+        "h02007005002"
+      ],
+      "issue": "וְיָדְעוּ is 3cp plural; singular ‘sabrá Egipto’ smooths number (collective possible but not marked)",
+      "spanishSpan": "sabrá Egipto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,323 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 29,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    10,
+    11,
+    13,
+    18,
+    19,
+    20,
+    21,
+    24
+  ],
+  "holds": [
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y serás abajada, de tierra hablarás, y de polvo se abatirá tu dicho; y será como ov de tierra tu voz, y de polvo tu dicho pía.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029004008"
+          ],
+          "issue": "renders אוֹב as non-Spanish 'ov' instead of a licensed noun sense",
+          "spanishSpan": "como ov"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será como cuando sueña el hambriento, y he aquí comiendo, y despierta y vacía su alma; y como cuando sueña el sediento, y he aquí bebiendo, y despierta, y he aquí fatigado, y su alma ansiosa; así será muchedumbre de todas las naciones que combaten sobre monte de Tsiyón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029008028"
+          ],
+          "issue": "Hebraizes proper name as Tsiyón instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Deténganse y párense atónitos; cíéguense y estén ciegos; se embriagaron y no vino; titubearon y no sidra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029009005",
+            "h23029009006",
+            "h23029009007",
+            "h23029009008",
+            "h23029009009",
+            "h23029009010"
+          ],
+          "issue": "2mp imperatives shift to 3cp perfects rendered as third-party 'they' instead of continuing direct 2p address to ustedes",
+          "spanishSpan": "se embriagaron ... titubearon"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029009010"
+          ],
+          "issue": "shekhar rendered as specific 'sidra' (cider) instead of generic strong drink",
+          "spanishSpan": "sidra"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y es dado el libro sobre el que no sabe libro, diciendo: Lee ahora esto; y dice: No supe libro.",
+      "notes": "structure changes participant reference",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029012003",
+            "h23029012004",
+            "h23029012005",
+            "h23029012006",
+            "h23029012007"
+          ],
+          "issue": "misparses relative clause as modifying 'libro' instead of indicating recipient who cannot read",
+          "spanishSpan": "el libro sobre el que no sabe libro"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029012001"
+          ],
+          "issue": "Niphal passive 'es dado' ok, but overall clause attachment alters who receives the book",
+          "spanishSpan": "Y es dado el libro sobre el que"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h23029012014"
+          ],
+          "issue": "perfect 1cs rendered as preterite 'supe' instead of stative present sense",
+          "spanishSpan": "No supe libro"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto heme aquí añadiendo de maravillar a este pueblo, maravilla y maravilla; y perecerá sabiduría de sus sabios, y entendimiento de sus entendidos se ocultará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029014003",
+            "h23029014004",
+            "h23029014005",
+            "h23029014006",
+            "h23029014007",
+            "h23029014008"
+          ],
+          "issue": "misparses hiphil + inf-cstr + obj construction as 'adding to marvel this people' and attaches object to wrong element",
+          "spanishSpan": "añadiendo de maravillar a este pueblo, maravilla y maravilla"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay, los que profundizan de Jehová para esconder consejo, y fue en oscuridad sus obras, y dijeron: ¿Quién nos ve, y quién nos conoce?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029015006"
+          ],
+          "issue": "weqatal (sequential perfect) rendered as past 'fue' instead of future/consequential 'será'",
+          "spanishSpan": "y fue"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Su trastornamiento de ustedes: ¿si como barro el alfarero será estimado? Porque dirá obra a su hacedor: No me hizo; y formación dijo a su formador: No entendió.",
+      "notes": "multiple participant and speech shifts in final clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029016012",
+            "h23029016013",
+            "h23029016014",
+            "h23029016015",
+            "h23029016016"
+          ],
+          "issue": "Spanish quote shifts participant: 'No entendió' makes it third-person report instead of direct address to the former ('you did not understand')",
+          "spanishSpan": "y formación dijo a su formador: No entendió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029016008",
+            "h23029016009",
+            "h23029016010",
+            "h23029016011"
+          ],
+          "issue": "word order and verb person: 'dirá obra' inverts subject-verb and uses future instead of preserving the imperfect as direct speech",
+          "spanishSpan": "Porque dirá obra a su hacedor: No me hizo"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿No aún poco de poco, y se volverá Levanón al Karmel, y el Karmel al bosque será estimado?",
+      "notes": "proper-name handling and construct phrase both violate token fidelity",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029017006",
+            "h23029017007",
+            "h23029017008"
+          ],
+          "issue": "Hebraized proper/common names instead of conventional Spanish forms",
+          "spanishSpan": "Levanón al Karmel, y el Karmel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029017002",
+            "h23029017003",
+            "h23029017004"
+          ],
+          "issue": "adds 'de' and awkward phrasing not licensed by the two distinct 'little' tokens",
+          "spanishSpan": "aún poco de poco"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto así dijo Jehová a casa de Yaakov, que redimió a Abraham: No ahora se avergonzará Yaakov, y no ahora sus faces palidecerán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029022007",
+            "h23029022015"
+          ],
+          "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque en su ver, sus hijos, obra de mis manos, en medio de él, santificarán mi nombre, y santificarán al Santo de Yaakov, y al Dios de Israel temerán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23029023012"
+          ],
+          "issue": "Hebraizes proper name as Yaakov",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T18:55:54.752044+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 24,
+    "verses": 24,
+    "input": 53541,
+    "cachedInput": 9536,
+    "output": 1658,
+    "reasoning": 23139,
+    "usd": 0.2416,
+    "byProvider": {
+      "xai": {
+        "calls": 24,
+        "input": 53541,
+        "output": 1658,
+        "reasoning": 23139,
+        "usd": 0.2416
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 24,
+        "input": 53541,
+        "output": 1658,
+        "reasoning": 23139,
+        "usd": 0.2416
+      }
+    },
+    "usdPerVerse": 0.0101,
+    "bibleAtThisRate": 313.0,
+    "book": "isaias",
+    "chapter": 29
+  }
+}

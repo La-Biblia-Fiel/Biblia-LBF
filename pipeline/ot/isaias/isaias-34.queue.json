@@ -1,0 +1,194 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 34,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "holds": [
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y bajarán búfalos con ellos, y toros con toros fuertes; y se embriagará su tierra de sangre, y su polvo de sebo se engordará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23034007002"
+          ],
+          "issue": "specific animal identification 'búfalos' not licensed by lemma 7214",
+          "spanishSpan": "búfalos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23034007007"
+          ],
+          "issue": "piel saturation rendered as 'embriagará' adds drunkenness concept not in lemma 7301 or morph",
+          "spanishSpan": "se embriagará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23034007006"
+          ],
+          "issue": "abbirim rendered as 'toros fuertes' specifies bulls and resolves open adjective",
+          "spanishSpan": "toros fuertes"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque día de venganza a Jehová, año de retribuciones por la contienda de Tsiyón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23034008008"
+          ],
+          "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Busquen de sobre el libro de Jehová y lean: Una de ellas no faltó, hembra su compañera no echaron de menos; porque mi boca ella mandó, y su espíritu él las recogió.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23034016016",
+            "h23034016017"
+          ],
+          "issue": "Hebrew uses masculine pronoun הוּא with צִוָּה; Spanish renders as feminine 'ella mandó'",
+          "spanishSpan": "ella mandó"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y él echó a ellas suerte, y su mano las repartió a ellos en cordel; hasta siempre la heredarán, a generación y generación habitarán en ella.",
+      "notes": "object gender/number mismatch on חִלְּקַ֥תָּה",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23034017006"
+          ],
+          "issue": "object suffix is 3fs ('it'), Spanish renders plural 'las'",
+          "spanishSpan": "las repartió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23034017006",
+            "h23034017007"
+          ],
+          "issue": "verb + preposition structure altered; object number changed and participants misaligned",
+          "spanishSpan": "su mano las repartió a ellos"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T19:13:31.054853+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 19,
+    "verses": 17,
+    "input": 41510,
+    "cachedInput": 12544,
+    "output": 1346,
+    "reasoning": 16179,
+    "usd": 0.1711,
+    "byProvider": {
+      "xai": {
+        "calls": 18,
+        "input": 38972,
+        "output": 911,
+        "reasoning": 16179,
+        "usd": 0.1617
+      },
+      "anthropic": {
+        "calls": 1,
+        "input": 2538,
+        "output": 435,
+        "reasoning": 0,
+        "usd": 0.0094
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 17,
+        "input": 37127,
+        "output": 890,
+        "reasoning": 15437,
+        "usd": 0.1547
+      },
+      "polish": {
+        "calls": 1,
+        "input": 2538,
+        "output": 435,
+        "reasoning": 0,
+        "usd": 0.0094
+      },
+      "audit-polish": {
+        "calls": 1,
+        "input": 1845,
+        "output": 21,
+        "reasoning": 742,
+        "usd": 0.0069
+      }
+    },
+    "usdPerVerse": 0.0101,
+    "bibleAtThisRate": 313.0,
+    "book": "isaias",
+    "chapter": 34
+  }
+}

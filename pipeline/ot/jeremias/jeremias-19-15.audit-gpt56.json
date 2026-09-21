@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:15",
+  "chapter": 19,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el Señor de los ejércitos, el Dios de Israel: He aquí que traeré sobre esta ciudad y sobre todas sus ciudades toda la maldad que he hablado contra ella, porque han endurecido el cuello para no oír mis palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019015003"
+      ],
+      "issue": "replaces יהוה with Señor instead of conventional Jehová",
+      "spanishSpan": "el Señor de los ejércitos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

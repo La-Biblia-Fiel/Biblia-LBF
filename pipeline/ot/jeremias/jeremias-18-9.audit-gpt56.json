@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:9",
+  "chapter": 18,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y en un momento hablo acerca de una nación o de un reino para construirla y para plantarla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018009005"
+      ],
+      "issue": "changed conjunction from 'and upon' to 'or of'",
+      "spanishSpan": "o de"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018009002"
+      ],
+      "issue": "tense mismatch: imperfect 1cs rendered as present 'hablo' instead of future 'hablaré'",
+      "spanishSpan": "hablo"
+    }
+  ],
+  "notes": "also 'acerca de' and added 'la' object are interpretive smoothing",
+  "discardedUncitedFindings": 0
+}

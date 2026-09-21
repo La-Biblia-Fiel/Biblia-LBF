@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 42:11",
+  "chapter": 42,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Alcen desierto y sus ciudades, aldeas que habita Qedar; canten moradores de Sela; desde cabeza de montes griten.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042011001",
+        "h23042011002",
+        "h23042011003"
+      ],
+      "issue": "subjects of יִשְׂאוּ (desert and its cities) rendered as objects of Alcen",
+      "spanishSpan": "Alcen desierto y sus ciudades"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042011001"
+      ],
+      "issue": "3mp imperfect treated as direct imperative commanding an external agent rather than jussive on the listed subjects",
+      "spanishSpan": "Alcen"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

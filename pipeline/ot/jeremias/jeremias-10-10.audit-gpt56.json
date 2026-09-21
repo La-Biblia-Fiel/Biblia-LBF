@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:10",
+  "chapter": 10,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jehová es Dios verdadero, Dios vivo y rey eterno; por su ira tiemblan las tierras, y los pueblos no pueden soportar su furor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010010011",
+        "h24010010010"
+      ],
+      "issue": "changes number of הָאָ֔רֶץ from singular to plural 'tierras' and verb agreement from 3fs to plural",
+      "spanishSpan": "las tierras tiemblan"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

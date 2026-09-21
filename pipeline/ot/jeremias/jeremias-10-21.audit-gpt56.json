@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:21",
+  "chapter": 10,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque los pastores se han perdido, y no han buscado a Jehová; por eso no han entendido, y toda su apacentamiento se ha dispersado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010021002"
+      ],
+      "issue": "נִבְעֲרוּ (niphal of בָּעַר) rendered as 'se han perdido' (lost); lemma licenses brutish/burned/senseless, not lost",
+      "spanishSpan": "se han perdido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

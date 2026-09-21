@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:1",
+  "chapter": 11,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra que vino a Jeremías de parte de Jehová, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011001003"
+      ],
+      "issue": "verb הָיָ֣ה (qal perfect 3ms of 'to be') rendered as 'vino' (came), adding motion concept not licensed by lemma or morph",
+      "spanishSpan": "vino"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

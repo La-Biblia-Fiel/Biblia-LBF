@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:20",
+  "chapter": 38,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Jehová para salvarme; y mis cantares tañeremos todos días de nuestra vida sobre casa de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038020007"
+      ],
+      "issue": "changes number from plural 'lives' to singular 'vida'",
+      "spanishSpan": "vida"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 53:1",
+  "chapter": 53,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién creyó a nuestro oído, y brazo de Jehová sobre quién fue revelado?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23053001003"
+      ],
+      "issue": "renders שמועה (report/message) as 'oído' (ear/hearing)",
+      "spanishSpan": "a nuestro oído"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

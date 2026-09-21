@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:6",
+  "chapter": 18,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso no puede el alfarero, como este, hacer de ustedes, casa de Israel, lo que le place, oh casa de Israel? He aquí que como la arcilla en la mano del alfarero, así son ustedes en mi mano, oh casa de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018006001",
+        "h24018006004"
+      ],
+      "issue": "Spanish makes alfarero the subject of 'puede'; tokens show 1cs 'I am able' with potter only as comparison",
+      "spanishSpan": "no puede el alfarero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018006005"
+      ],
+      "issue": "adds 'lo que le place' with no corresponding token",
+      "spanishSpan": "lo que le place"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

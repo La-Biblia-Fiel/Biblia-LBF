@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:19",
+  "chapter": 15,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso dice el SEÑOR: Si vuelves, te haré volver a mi presencia y te pondrás de pie; pero si sacas un precio de quien es ruin, serás como mi boca. Ellos volverán a ti, pero tú no volverás a ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015019012"
+      ],
+      "issue": "adds 'precio' (price) not licensed by adjective יָקָר",
+      "spanishSpan": "sacas un precio"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

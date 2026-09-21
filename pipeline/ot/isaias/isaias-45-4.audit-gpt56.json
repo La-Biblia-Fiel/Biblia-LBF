@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 45:4",
+  "chapter": 45,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Por amor de mi siervo Yaakov, y de Israel mi escogido, y te llamé en tu nombre; te sobrenombré, y no me conociste.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045004001"
+      ],
+      "issue": "Por amor de adds 'amor' concept not licensed by לְמַעַן / H4616",
+      "spanishSpan": "Por amor de"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045004003"
+      ],
+      "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob/Jacobo",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "tense smoothing on qal seq. impf / piel impf acceptable but does not override the two fails",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 29:17",
+  "chapter": 29,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "¿No aún poco de poco, y se volverá Levanón al Karmel, y el Karmel al bosque será estimado?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029017006",
+        "h23029017007",
+        "h23029017008"
+      ],
+      "issue": "Hebraized proper/common names instead of conventional Spanish forms",
+      "spanishSpan": "Levanón al Karmel, y el Karmel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029017002",
+        "h23029017003",
+        "h23029017004"
+      ],
+      "issue": "adds 'de' and awkward phrasing not licensed by the two distinct 'little' tokens",
+      "spanishSpan": "aún poco de poco"
+    }
+  ],
+  "notes": "proper-name handling and construct phrase both violate token fidelity",
+  "discardedUncitedFindings": 0
+}

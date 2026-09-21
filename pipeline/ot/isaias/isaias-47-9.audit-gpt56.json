@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 47:9",
+  "chapter": 47,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vendrán a ti estas dos de repente en un día: orfandad y viudez; en su plenitud vinieron sobre ti en muchedumbre de tus hechizos, en abundancia de tus conjuras mucho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23047009008"
+      ],
+      "issue": "שְׁכוֹל rendered as 'orfandad' (orphanhood), which adds a different concept; lemma means bereavement/loss of children",
+      "spanishSpan": "orfandad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

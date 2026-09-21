@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:2",
+  "chapter": 1,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra del Señor vino a mí en los días de Josías, hijo de Amón, rey de Judá, en el tercer año de su reinado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001002012",
+        "h24001002013",
+        "h24001002014"
+      ],
+      "issue": "renders בִּשְׁלֹשׁ עֶשְׂרֵה שָׁנָה as 'tercer año' (third year) instead of thirteenth year",
+      "spanishSpan": "en el tercer año de su reinado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

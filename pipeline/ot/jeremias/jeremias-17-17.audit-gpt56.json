@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:17",
+  "chapter": 17,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "No seas para mí en desgracia; tú eres mi confianza en el día de la maldad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017017004"
+      ],
+      "issue": "לִמְחִתָּה rendered as 'en desgracia' (adds interpretive nuance not licensed by lemma 4288 'destruction/ruin')",
+      "spanishSpan": "en desgracia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017017005"
+      ],
+      "issue": "מַחֲסִי rendered as 'mi confianza' (lemma 4268 is 'refuge/shelter', not 'confidence/trust')",
+      "spanishSpan": "mi confianza"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

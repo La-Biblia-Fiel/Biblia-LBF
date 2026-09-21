@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:17",
+  "chapter": 14,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y les dirás estas palabras: Mis ojos corren de noche y de día con lágrimas, no te duermas en ello, porque gran desolación ha caído sobre la doncella de mi pueblo, una gran aflicción.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014017011",
+        "h24014017012"
+      ],
+      "issue": "misrenders וְאַל־תִּדְמֶינָה (qal jussive 3fp 'no callen/cesen') as 'no te duermas en ello'",
+      "spanishSpan": "no te duermas en ello"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014017004"
+      ],
+      "issue": "pluralizes singular דָּבָר to 'palabras'",
+      "spanishSpan": "estas palabras"
+    }
+  ],
+  "notes": "additional interpretive choices (desolación, doncella, aflicción) are smoothing but the sleep rendering is unlicensed",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:19",
+  "chapter": 16,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "El SEÑOR es mi fortaleza y mi refugio, mi salvación en el día del mal. A ti, pueblo, vendrán de los confines de la tierra y dirán: En vano heredaron nuestros padres, son vanidad, no hay en ellos salvación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016019004"
+      ],
+      "issue": "מְנוּסִי rendered as 'mi salvación' (adds salvation concept absent from lemma)",
+      "spanishSpan": "mi salvación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016019006"
+      ],
+      "issue": "צָרָה rendered as 'del mal' (resolves to 'evil' not licensed by lemma)",
+      "spanishSpan": "del mal"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016019008"
+      ],
+      "issue": "גּוֹיִם plural 'nations' replaced by singular 'pueblo' (omits number and adds unlicenced noun)",
+      "spanishSpan": "pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016019020"
+      ],
+      "issue": "מוֹעִיל (profit/benefit) rendered as 'salvación' (adds salvation concept absent from lemma)",
+      "spanishSpan": "salvación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016019014"
+      ],
+      "issue": "שֶׁקֶר (falsehood) rendered as 'En vano' while shifting sense of following clause",
+      "spanishSpan": "En vano"
+    }
+  ],
+  "notes": "multiple unlicensed additions and mismatches",
+  "discardedUncitedFindings": 0
+}

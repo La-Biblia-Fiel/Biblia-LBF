@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 63:16",
+  "chapter": 63,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque tú nuestro Padre; porque Abraham no nos conoció, e Israel no nos reconoce; tú, Jehová, nuestro Padre; nuestro Redentor desde perpetuidad tu nombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063016014",
+        "h23063016015",
+        "h23063016016"
+      ],
+      "issue": "reordered and missing copula; Spanish makes 'nuestro Redentor' the head rather than 'tu nombre' as subject",
+      "spanishSpan": "nuestro Redentor desde perpetuidad tu nombre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

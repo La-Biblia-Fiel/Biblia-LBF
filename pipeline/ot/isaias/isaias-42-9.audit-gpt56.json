@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 42:9",
+  "chapter": 42,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Las primeras, he aquí vinieron, y nuevas yo anunciando; antes que broten las haré oír a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042009009",
+        "h23042009010"
+      ],
+      "issue": "adds unlicensed object 'las' as what is caused to be heard",
+      "spanishSpan": "las haré oír"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

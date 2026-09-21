@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 48:1",
+  "chapter": 48,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Oigan esto, casa de Yaakov, los llamados en nombre de Israel, y de aguas de Yehudá salieron; los que juran en nombre de Jehová, y en Dios de Israel mencionan, no en verdad y no en justicia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23048001004"
+      ],
+      "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23048001009"
+      ],
+      "issue": "Hebraized proper name Yehudá instead of conventional Spanish Judá",
+      "spanishSpan": "Yehudá"
+    }
+  ],
+  "notes": "proper-name Hebraization violates locked conventional forms",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:13",
+  "chapter": 51,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y olvidaste a Jehová tu Hacedor, tendiente cielos y fundador de tierra; y temiste siempre todo el día de faces de furor del opresor, como cuando preparó para destruir; y ¿dónde furor del opresor?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051013012"
+      ],
+      "issue": "adds 'faces' concept not licensed by מִפְּנֵי preposition",
+      "spanishSpan": "de faces de furor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051013004",
+        "h23051013006"
+      ],
+      "issue": "renders active participles as nouns 'tendiente'/'fundador' altering structure and force",
+      "spanishSpan": "tendiente cielos y fundador de tierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051013009",
+        "h23051013010",
+        "h23051013011"
+      ],
+      "issue": "reorders and duplicates 'siempre todo el día' beyond token sequence",
+      "spanishSpan": "siempre todo el día"
+    }
+  ],
+  "notes": "multiple concept additions and structural mismatches",
+  "discardedUncitedFindings": 0
+}

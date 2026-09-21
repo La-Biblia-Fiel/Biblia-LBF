@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:7",
+  "chapter": 11,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque juré a sus padres en el día que los saqué de la tierra de Egipto, hasta hoy, levantándome y jurando, diciendo: Obedeced mi voz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011007002",
+        "h24011007003"
+      ],
+      "issue": "lemma 5749b (עוד hiphil) rendered as juré (swear) instead of testify/warn",
+      "spanishSpan": "juré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011007004"
+      ],
+      "issue": "2mp suffix on אבותיכם rendered as sus (their) instead of vuestros/ustedes (your)",
+      "spanishSpan": "sus padres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011007016"
+      ],
+      "issue": "שמעו rendered as Obedeced (obey) instead of oíd/escuchad (hear)",
+      "spanishSpan": "Obedeced mi voz"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

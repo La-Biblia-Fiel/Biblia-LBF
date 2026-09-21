@@ -1,0 +1,218 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 32,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    17,
+    18,
+    20
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no se entenebrecerán ojos de videntes, y oídos de oidores atenderán.",
+      "notes": "second clause matches tokens 05-07 but first clause fails",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23032003002"
+          ],
+          "issue": "Spanish verb 'entenebrecerán' (darken) replaces licensed verb lemma 8159 (שעה qal impf 3fp 'look/gaze')",
+          "spanishSpan": "no se entenebrecerán"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No será llamado aún al necio noble, y al avaro no será dicho generoso.",
+      "notes": "second clause matches tokens; first clause does not",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23032005004",
+            "h23032005005"
+          ],
+          "issue": "reverses assignment: Spanish treats 'necio noble' as the recipient of the call instead of noble not being called fool",
+          "spanishSpan": "al necio noble"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23032005001",
+            "h23032005002",
+            "h23032005003"
+          ],
+          "issue": "word order and participant roles altered, changing who is not called what",
+          "spanishSpan": "No será llamado aún al necio noble"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y avaro, sus instrumentos malos; él maquinaciones aconseja para destruir a afligidos con palabras de mentira, y en hablar indigente juicio.",
+      "notes": "also 'avaro' for H3596 is interpretive",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23032007011",
+            "h23032007012"
+          ],
+          "issue": "mangles participant and action: 'en hablar indigente juicio' fails to convey 'when the needy speaks justice'",
+          "spanishSpan": "y en hablar indigente juicio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23032007007"
+          ],
+          "issue": "adds 'afligidos' with no corresponding token",
+          "spanishSpan": "destruir a afligidos"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "hasta que sea derramado sobre nosotros espíritu desde lo alto, y sea desierto a Karmel, y Karmel a bosque sea contado.",
+      "notes": "Karmel spelling also deviates from conventional form licensed by PROPER_NAMES.md rule",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23032015006",
+            "h23032015007",
+            "h23032015008",
+            "h23032015009",
+            "h23032015010"
+          ],
+          "issue": "Spanish splits and reassigns verbs, using 'sea' for the desert-to-Carmel clause and limiting 'sea contado' to the second clause only; tokens license single sequential 'וְהָיָה' + one Niphal reckoning verb applying to both transformations",
+          "spanishSpan": "y sea desierto a Karmel, y Karmel a bosque sea contado"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y habitará en el desierto juicio, y justicia en el Karmel se sentará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23032016005"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Karmel"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y granizo en bajar el bosque, y en la bajura será abajada la ciudad.",
+      "notes": "verb-to-noun shift on hail is unlicensed",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23032019001"
+          ],
+          "issue": "first token is HC/Vqq3ms verb (and it will hail), rendered as noun granizo",
+          "spanishSpan": "Y granizo"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h23032019002",
+            "h23032019003"
+          ],
+          "issue": "infinitive construct + forest subject rendered as potentially transitive bajar el bosque",
+          "spanishSpan": "en bajar el bosque"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T19:06:50.866256+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 20,
+    "verses": 20,
+    "input": 38107,
+    "cachedInput": 8064,
+    "output": 1151,
+    "reasoning": 17049,
+    "usd": 0.1733,
+    "byProvider": {
+      "xai": {
+        "calls": 20,
+        "input": 38107,
+        "output": 1151,
+        "reasoning": 17049,
+        "usd": 0.1733
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 20,
+        "input": 38107,
+        "output": 1151,
+        "reasoning": 17049,
+        "usd": 0.1733
+      }
+    },
+    "usdPerVerse": 0.0087,
+    "bibleAtThisRate": 269.0,
+    "book": "isaias",
+    "chapter": 32
+  }
+}

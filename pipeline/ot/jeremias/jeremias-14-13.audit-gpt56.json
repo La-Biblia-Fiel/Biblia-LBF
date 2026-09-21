@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:13",
+  "chapter": 14,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo dije: Ah, oh SEÑOR, el SEÑOR, he aquí que los profetas dicen a ellos: No verán espada ni hambre en este lugar; porque les daré paz verdadera en este lugar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014013015",
+        "h24014013020"
+      ],
+      "issue": "2mp suffixes rendered as 3mp 'les' instead of 2nd-person address to the quoted addressees",
+      "spanishSpan": "les daré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014013021",
+        "h24014013022"
+      ],
+      "issue": "location phrase attached to the negative clause instead of only to the final promise",
+      "spanishSpan": "No verán espada ni hambre en este lugar"
+    }
+  ],
+  "notes": "participant shift and phrase attachment mismatch tokens",
+  "discardedUncitedFindings": 0
+}

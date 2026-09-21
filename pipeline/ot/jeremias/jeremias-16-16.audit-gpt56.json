@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:16",
+  "chapter": 16,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que envío muchos pescadores, dice el SEÑOR, y pescarán a ellos; y después enviaré muchos cazadores, y los cazarán de cada monte y de cada collina, y de los escondrijos de las rocas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016016003",
+        "h24016016006"
+      ],
+      "issue": "adds noun 'pescadores' not present in tokens (only rabbim + verb dig)",
+      "spanishSpan": "muchos pescadores"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

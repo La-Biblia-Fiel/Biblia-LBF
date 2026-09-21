@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 32:7",
+  "chapter": 32,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y avaro, sus instrumentos malos; él maquinaciones aconseja para destruir a afligidos con palabras de mentira, y en hablar indigente juicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23032007011",
+        "h23032007012"
+      ],
+      "issue": "mangles participant and action: 'en hablar indigente juicio' fails to convey 'when the needy speaks justice'",
+      "spanishSpan": "y en hablar indigente juicio"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23032007007"
+      ],
+      "issue": "adds 'afligidos' with no corresponding token",
+      "spanishSpan": "destruir a afligidos"
+    }
+  ],
+  "notes": "also 'avaro' for H3596 is interpretive",
+  "discardedUncitedFindings": 0
+}

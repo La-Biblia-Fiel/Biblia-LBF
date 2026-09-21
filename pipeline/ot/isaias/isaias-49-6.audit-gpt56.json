@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 49:6",
+  "chapter": 49,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo: Ligero de ser tú a mí siervo, para levantar las tribus de Yaakov, e Israel para hacer volver; y te pondré por luz de naciones, para ser mi salvación hasta extremo de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23049006009"
+      ],
+      "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish form",
+      "spanishSpan": "Yaakov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23049006008",
+        "h23049006010",
+        "h23049006006",
+        "h23049006011"
+      ],
+      "issue": "alters parallelism and participants of the two hiphil infinitives; Spanish separates and reassigns actions",
+      "spanishSpan": "para levantar las tribus de Yaakov, e Israel para hacer volver"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23049006002",
+        "h23049006003",
+        "h23049006004",
+        "h23049006005"
+      ],
+      "issue": "restructures the niphal + infinitive construction and adds explicit tú in a way that changes the clause force",
+      "spanishSpan": "Ligero de ser tú a mí siervo"
+    }
+  ],
+  "notes": "name and syntactic mismatches",
+  "discardedUncitedFindings": 0
+}

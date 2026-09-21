@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:3",
+  "chapter": 38,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo: ¡Ah, Jehová! Recuerda, por favor, lo que anduve delante de ti en verdad y en corazón íntegro, y lo bueno en tus ojos hice. Y lloró Jizqiyahu llanto grande.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038003017"
+      ],
+      "issue": "Hebraizes proper name instead of conventional Spanish form",
+      "spanishSpan": "Jizqiyahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

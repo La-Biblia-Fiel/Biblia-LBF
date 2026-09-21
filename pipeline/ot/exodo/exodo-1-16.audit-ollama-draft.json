@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 1:16",
+  "chapter": 1,
+  "verse": 16,
+  "candidateLabel": "ollama-draft",
+  "spanish": "Y dijo: En parir ustedes a las hebreas, y veréis sobre las piedras: si hijo él, y mataréis a él; y si hija ella, y vivirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001016002",
+        "h02001016003",
+        "h02001016004"
+      ],
+      "issue": "Piel infinitive 2fp with את העבריות: parir a assigns qal-bear roles and treats the Hebrew women as offspring of the addressees.",
+      "spanishSpan": "En parir ustedes a las hebreas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001016007"
+      ],
+      "issue": "H70 is dual; las piedras leaves the pair unmarked (not an instrument).",
+      "spanishSpan": "las piedras"
+    }
+  ],
+  "notes": "Dual left open; él/ella and qal vivirá kept.",
+  "discardedUncitedFindings": 0
+}

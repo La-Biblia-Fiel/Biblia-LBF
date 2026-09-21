@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:32",
+  "chapter": 30,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será todo paso de vara de fundamento que hará reposar Jehová sobre él, con panderos y con cítaras; y en batallas de meneo peleará con ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030032014"
+      ],
+      "issue": "adds un-licensed object 'con ella'",
+      "spanishSpan": "peleará con ella"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

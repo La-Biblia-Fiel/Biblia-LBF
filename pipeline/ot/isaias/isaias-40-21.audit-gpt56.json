@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:21",
+  "chapter": 40,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "¿No sabrán ustedes? ¿No oirán ustedes? ¿No fue anunciado desde cabeza a ustedes? ¿No entendieron ustedes fundamentos de la tierra?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040021007"
+      ],
+      "issue": "literal 'cabeza' for ראש in מֵרֹאשׁ לָכֶם adds non-licensed sense and fails idiomatic 'from the beginning'",
+      "spanishSpan": "desde cabeza a ustedes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040021002",
+        "h23040021004"
+      ],
+      "issue": "imperfects rendered as future 'sabrán'/'oirán' alters aspect from the qal yiqtols",
+      "spanishSpan": "sabrán ustedes? oirán ustedes?"
+    }
+  ],
+  "notes": "2mp 'ustedes' is correct; other tokens align.",
+  "discardedUncitedFindings": 0
+}

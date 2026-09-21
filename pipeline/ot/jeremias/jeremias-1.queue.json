@@ -1,0 +1,500 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 1,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "passed": [
+    1,
+    7,
+    16
+  ],
+  "holds": [
+    {
+      "status": "hold",
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra del Señor vino a mí en los días de Josías, hijo de Amón, rey de Judá, en el tercer año de su reinado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001002012",
+            "h24001002013",
+            "h24001002014"
+          ],
+          "issue": "renders בִּשְׁלֹשׁ עֶשְׂרֵה שָׁנָה as 'tercer año' (third year) instead of thirteenth year",
+          "spanishSpan": "en el tercer año de su reinado"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y en los días de Joaquín, hijo de Josías, rey de Judá, hasta el fin de los trece años del reinado de Jeoquím, hijo de Josías, rey de Judá, hasta la captura de Jerusalén en el mes quinto.",
+      "notes": "multiple name, number and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001003013",
+            "h24001003015",
+            "h24001003017"
+          ],
+          "issue": "second king is צִדְקִיָּ֥הוּ (Zedekiah), not Jeoquím/Jehoiakim",
+          "spanishSpan": "Jeoquím, hijo de Josías, rey de Judá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001003010",
+            "h24001003011"
+          ],
+          "issue": "ordinal is עַשְׁתֵּי עֶשְׂרֵה (eleventh), not trece",
+          "spanishSpan": "trece años"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001003019"
+          ],
+          "issue": "גְּל֥וֹת rendered as 'captura' instead of exile/captivity",
+          "spanishSpan": "captura de Jerusalén"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001003003"
+          ],
+          "issue": "first name spelled Joaquín then switched to Jeoquím",
+          "spanishSpan": "Joaquín ... Jeoquím"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La palabra del Señor me vino diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001004001"
+          ],
+          "issue": "adds 'vino' (came) concept absent from lemma H1961 (be/happen) and qal sequential imperfect",
+          "spanishSpan": "vino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001004003"
+          ],
+          "issue": "replaces YHWH with title 'Señor' instead of conventional Jehová",
+          "spanishSpan": "del Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Antes de que te formara en el vientre, te conocí; y antes de que salieras del seno materno, te consagré; profeta a las naciones te he hecho.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001005001",
+            "h24001005002",
+            "h24001005003"
+          ],
+          "issue": "inserts 'formara' (formed) with no corresponding verb or action in the tokens; the clause is simply 'before in the womb I knew you'",
+          "spanishSpan": "Antes de que te formara en el vientre, te conocí"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo dije: ¡Ay, Señor Yahveh! No sé hablar, porque soy un niño.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001006005"
+          ],
+          "issue": "omits licensed demonstrative הִנֵּ֥ה (behold)",
+          "spanishSpan": "No sé hablar"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No temas a ellos, porque yo estoy contigo para salvarte, dice el Señor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001008009"
+          ],
+          "issue": "replaces proper name יהוה with interpretive title 'Señor'",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h24001008003"
+          ],
+          "issue": "מִפְּנֵיהֶם rendered as 'a ellos' instead of preserving 'from their presence/face'",
+          "spanishSpan": "No temas a ellos"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el Señor extendió su mano y tocó mi boca, y me dijo: He aquí, pongo mis palabras en tu boca.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001009002",
+            "h24001009009"
+          ],
+          "issue": "יהוה rendered as 'Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001009012"
+          ],
+          "issue": "perfect נָתַתִּי rendered as present 'pongo' instead of completed 'he puesto'",
+          "spanishSpan": "pongo"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí, hoy te he constituido sobre las naciones y sobre los reinos, para desarraigar y derribar, para destruir y destruir, para edificar y plantar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001010011",
+            "h24001010012"
+          ],
+          "issue": "repeats identical verb 'destruir' for two distinct lemmas (H6 אבד and H2040 הרס) instead of preserving distinct actions",
+          "spanishSpan": "para destruir y destruir"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y la palabra del Señor me vino diciendo: ¿Qué ves, Jeremías? Y yo dije: Veo una vara de olivo maduro.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001011012"
+          ],
+          "issue": "שָׁקֵד rendered as 'olivo maduro' (almond lemma replaced by olive + maturity concept)",
+          "spanishSpan": "vara de olivo maduro"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001011003"
+          ],
+          "issue": "יהוה rendered as 'Señor' instead of conventional Jehová",
+          "spanishSpan": "del Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el Señor me dijo: Bien has visto, porque soy vigilante para cumplir mi palabra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001012002"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001012011"
+          ],
+          "issue": "לעשותו rendered as 'cumplir' (interpretive) instead of 'hacer'",
+          "spanishSpan": "cumplir mi palabra"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vino a mí la palabra del Señor diciendo: ¿Qué ves? Y yo dije: Veo una caldera hirviendo y su superficie hacia el norte.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001013005"
+          ],
+          "issue": "omits licensed concept 'second' (ordinal, the second occurrence)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001013003"
+          ],
+          "issue": "replaces proper name יהוה with 'Señor' (not the licensed conventional form Jehová)",
+          "spanishSpan": "del Señor"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y el Señor me dijo: Del norte se abrirá el mal sobre toda la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001014002"
+          ],
+          "issue": "YHWH rendered as title 'Señor' instead of proper name Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001014008",
+            "h24001014009",
+            "h24001014010"
+          ],
+          "issue": "omits 'inhabitants of' (כל ישבי)",
+          "spanishSpan": "toda la tierra"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque he aquí que llamo a todas las tribus de las naciones del norte, dice el Señor, y vendrán y cada uno pondrá su trono en la puerta de Jerusalén y alrededor de todas sus murallas, y contra todos los lugares de Judá.",
+      "notes": "multiple lexical substitutions and number changes",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001015005",
+            "h24001015006"
+          ],
+          "issue": "משפחות ממלכות rendered as 'tribus de las naciones' (adds naciones, changes families/kingdoms)",
+          "spanishSpan": "todas las tribus de las naciones del norte"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001015008",
+            "h24001015009"
+          ],
+          "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' (changes oracle formula and title)",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001015014",
+            "h24001015015"
+          ],
+          "issue": "פֶּתַח שַׁעֲרֵי rendered as singular 'puerta'",
+          "spanishSpan": "en la puerta de Jerusalén"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001015023"
+          ],
+          "issue": "עָרֵי rendered as 'lugares' instead of cities",
+          "spanishSpan": "todos los lugares de Judá"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú cíñete la cintura y levántate y habla a ellos todo lo que yo te ordeno. No temas delante de ellos, para que yo te tenga delante de ellos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001017013",
+            "h24001017016"
+          ],
+          "issue": "renders Niphal/Hiphil חתת as 'temas'/'tenga' instead of dismay/terrify",
+          "spanishSpan": "No temas ... para que yo te tenga"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo, he aquí, te he puesto hoy ciudad de refugio y columna de hierro y murallas de bronce para toda la tierra, contra los reyes de Judá, contra los príncipes, contra los sacerdotes y contra el pueblo de la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001018005",
+            "h24001018006"
+          ],
+          "issue": "adds 'refugio' concept absent from עִיר מִבְצָר; lemma 4013 licenses fortress/stronghold only",
+          "spanishSpan": "ciudad de refugio"
+        }
+      ]
+    },
+    {
+      "status": "hold",
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y lucharán contigo, pero no podrán contigo, porque yo estoy contigo, dice el Señor, para salvarte.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24001019009",
+            "h24001019010"
+          ],
+          "issue": "renders נְאֻם יְהוָה as 'dice el Señor' (adds verb 'dice' and title 'Señor' instead of Jehová)",
+          "spanishSpan": "dice el Señor"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "updated": "2026-09-20T01:27:47.845752+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 19,
+    "verses": 19,
+    "input": 42696,
+    "cachedInput": 3648,
+    "output": 2406,
+    "reasoning": 16981,
+    "usd": 0.1962,
+    "byProvider": {
+      "xai": {
+        "calls": 19,
+        "input": 42696,
+        "output": 2406,
+        "reasoning": 16981,
+        "usd": 0.1962
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 19,
+        "input": 42696,
+        "output": 2406,
+        "reasoning": 16981,
+        "usd": 0.1962
+      }
+    },
+    "usdPerVerse": 0.0103,
+    "bibleAtThisRate": 321.0,
+    "book": "jeremias",
+    "chapter": 1
+  }
+}

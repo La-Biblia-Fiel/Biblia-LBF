@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:30",
+  "chapter": 40,
+  "verse": 30,
+  "candidateLabel": "gpt56",
+  "spanish": "Y se fatigan mozos y se cansan, y jóvenes tropezando tropezarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040030001",
+        "h23040030003",
+        "h23040030006"
+      ],
+      "issue": "imperfect verbs rendered as present tense instead of future",
+      "spanishSpan": "se fatigan ... se cansan"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 13:10",
+  "chapter": 13,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque estrellas de los cielos y sus kesilim no harán brillar su luz; se oscureció el sol en su salida, y luna no hará brillar su luz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013010004"
+      ],
+      "issue": "untranslated non-name lemma kept as kesilim instead of Spanish rendering",
+      "spanishSpan": "sus kesilim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

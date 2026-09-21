@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 33:9",
+  "chapter": 33,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Enlutó, languideció tierra; avergonzó el Levanón, se marchitó; fue el Sharón como Arabá, y se sacude Bashán y Karmel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033009004",
+        "h23033009005"
+      ],
+      "issue": "avergonzó el Levanón misattributes the Hiphil subject/participant; Hebrew has Lebanon put to shame, not acting as object",
+      "spanishSpan": "avergonzó el Levanón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033009010",
+        "h23033009011",
+        "h23033009012"
+      ],
+      "issue": "se sacude changes qal active participle to reflexive/passive; Hebrew has shaking Bashan and Carmel as object",
+      "spanishSpan": "se sacude Bashán y Karmel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033009005",
+        "h23033009008",
+        "h23033009011",
+        "h23033009012"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Levanón ... Sharón ... Bashán ... Karmel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

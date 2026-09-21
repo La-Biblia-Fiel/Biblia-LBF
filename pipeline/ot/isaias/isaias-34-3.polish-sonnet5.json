@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "isaias",
+  "reference": "Isaías 34:3",
+  "chapter": 34,
+  "verse": 3,
+  "sourceDraft": "Y sus heridos serán arrojados, y de sus cadáveres subirá su hedor, y se derretirán montes de su sangre.",
+  "spanish": "Y sus heridos serán arrojados, y de sus cadáveres subirá su hedor, y los montes se derretirán con su sangre.",
+  "units": [
+    {
+      "es": "Y sus heridos serán arrojados,",
+      "sourceTokenIds": [
+        "h23034003001",
+        "h23034003002"
+      ]
+    },
+    {
+      "es": "y de sus cadáveres subirá su hedor,",
+      "sourceTokenIds": [
+        "h23034003003",
+        "h23034003004",
+        "h23034003005"
+      ]
+    },
+    {
+      "es": "y los montes se derretirán con su sangre.",
+      "sourceTokenIds": [
+        "h23034003006",
+        "h23034003007",
+        "h23034003008"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Reordered 'se derretirán montes de su sangre' to 'los montes se derretirán con su sangre' for natural Spanish subject-verb order and clearer prepositional sense; changed 'de' to 'con' before 'su sangre' since 'de' in this position read as partitive/source rather than instrumental, causing ambiguity in Spanish"
+  ],
+  "meaningChanges": [],
+  "droppedUncitedUnits": 0
+}

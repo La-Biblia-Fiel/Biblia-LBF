@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:17",
+  "chapter": 13,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Si no me escucháis, mi alma gemirá en secreto por su causa, y lloraré amargamente, y mis ojos derramarán lágrimas, porque el rebaño del SEÑOR ha sido llevado cautivo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013017003"
+      ],
+      "issue": "suffix 3fs rendered as 1cs 'me' instead of 'la'",
+      "spanishSpan": "me escucháis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013017005",
+        "h24013017006",
+        "h24013017010",
+        "h24013017011",
+        "h24013017012"
+      ],
+      "issue": "3fs subjects (נפשי, עיני) shifted to 1cs verbs",
+      "spanishSpan": "lloraré amargamente, y mis ojos derramarán lágrimas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013017008"
+      ],
+      "issue": "גֵוָה 'pride' rendered as 'su causa'",
+      "spanishSpan": "por su causa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013017004"
+      ],
+      "issue": "adds interpretive 'amargamente' not licensed by tokens",
+      "spanishSpan": "amargamente"
+    }
+  ],
+  "notes": "multiple participant and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

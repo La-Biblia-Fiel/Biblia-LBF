@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 52:7",
+  "chapter": 52,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Cuán hermosos sobre los montes pies del anunciador, el que hace oír paz, anunciador de bien, el que hace oír salvación, el que dice a Tsiyón: Reinó tu Dios!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23052007014"
+      ],
+      "issue": "Hebraizes proper name as Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

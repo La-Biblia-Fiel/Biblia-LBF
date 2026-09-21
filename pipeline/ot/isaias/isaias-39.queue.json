@@ -1,0 +1,159 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 39,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "passed": [
+    2,
+    3,
+    8
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el tiempo aquel envió Merodak Baladán hijo de Baladán rey de Bavel rollos y minjá a Jizqiyahu; y oyó que enfermó y se fortaleció.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23039001011"
+          ],
+          "issue": "untranslated lemma minḥâ left as minjá instead of Spanish rendering",
+          "spanishSpan": "minjá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23039001004",
+            "h23039001005",
+            "h23039001009",
+            "h23039001013"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Merodak Baladán ... Bavel ... Jizqiyahu"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo: ¿Qué vieron en tu casa? Y dijo Jizqiyahu: Todo lo que en mi casa vieron; no fue cosa que no les mostré en mis tesoros.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23039004006"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Jizqiyahu"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo Yeshayahu a Jizqiyahu: Oye palabra de Jehová de ejércitos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23039005002",
+            "h23039005004"
+          ],
+          "issue": "Hebraized proper names (Yeshayahu, Jizqiyahu) instead of conventional Spanish forms",
+          "spanishSpan": "Yeshayahu a Jizqiyahu"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí días viniendo, y será alzado todo lo que en tu casa y lo que atesoraron tus padres hasta el día este a Bavel; no quedará cosa —dijo Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23039006014"
+          ],
+          "issue": "Hebraizes proper name בָּבֶ֑ל as Bavel instead of conventional Spanish Babilonia",
+          "spanishSpan": "a Bavel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y de tus hijos que saldrán de ti, que engendrarás, tomarán, y serán sarisím en hekal de rey de Bavel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23039007009",
+            "h23039007010",
+            "h23039007012"
+          ],
+          "issue": "untranslated Hebrew lemmas kept as sarisím / hekal / Bavel instead of Spanish equivalents",
+          "spanishSpan": "sarisím en hekal de rey de Bavel"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T20:23:12.679207+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 8,
+    "verses": 8,
+    "input": 20810,
+    "cachedInput": 2944,
+    "output": 586,
+    "reasoning": 6772,
+    "usd": 0.0814,
+    "byProvider": {
+      "xai": {
+        "calls": 8,
+        "input": 20810,
+        "output": 586,
+        "reasoning": 6772,
+        "usd": 0.0814
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 8,
+        "input": 20810,
+        "output": 586,
+        "reasoning": 6772,
+        "usd": 0.0814
+      }
+    },
+    "usdPerVerse": 0.0102,
+    "bibleAtThisRate": 316.0,
+    "book": "isaias",
+    "chapter": 39
+  }
+}

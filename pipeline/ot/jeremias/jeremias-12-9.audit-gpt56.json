@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:9",
+  "chapter": 12,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "El águila que se ha pintado mi heredad para mí, el águila que vuela alrededor de mí, id, reunid a todas las bestias del campo, hacedlas venir para comer.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012009002"
+      ],
+      "issue": "treats adjective צָבוּעַ as verb action 'se ha pintado' on the inheritance",
+      "spanishSpan": "que se ha pintado mi heredad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012009006",
+        "h24012009007"
+      ],
+      "issue": "changes סָבִיב עָלֶיהָ to 'vuela alrededor de mí' (adds flying; wrong referent and person)",
+      "spanishSpan": "que vuela alrededor de mí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012009001",
+        "h24012009005"
+      ],
+      "issue": "repeats as two separate eagles with added verbs and referents not licensed by the tokens",
+      "spanishSpan": "El águila ... el águila"
+    }
+  ],
+  "notes": "imperatives section matches tokens; opening clause does not",
+  "discardedUncitedFindings": 0
+}

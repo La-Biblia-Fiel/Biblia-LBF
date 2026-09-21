@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:8",
+  "chapter": 1,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "No temas a ellos, porque yo estoy contigo para salvarte, dice el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001008009"
+      ],
+      "issue": "replaces proper name יהוה with interpretive title 'Señor'",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24001008003"
+      ],
+      "issue": "מִפְּנֵיהֶם rendered as 'a ellos' instead of preserving 'from their presence/face'",
+      "spanishSpan": "No temas a ellos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

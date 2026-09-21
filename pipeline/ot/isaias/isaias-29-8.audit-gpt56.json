@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 29:8",
+  "chapter": 29,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será como cuando sueña el hambriento, y he aquí comiendo, y despierta y vacía su alma; y como cuando sueña el sediento, y he aquí bebiendo, y despierta, y he aquí fatigado, y su alma ansiosa; así será muchedumbre de todas las naciones que combaten sobre monte de Tsiyón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029008028"
+      ],
+      "issue": "Hebraizes proper name as Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

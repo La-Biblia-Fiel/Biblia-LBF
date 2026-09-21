@@ -1,0 +1,29 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:4",
+  "chapter": 7,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás a él: Guárdate y sosiega; no temas, y tu corazón no se ablande de faces de los dos cabos de los tizones estos humeantes, en ardor de nariz de Retsín y Aram y hijo de Remalyahu.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007004010",
+        "h23007004011",
+        "h23007004012",
+        "h23007004013",
+        "h23007004014",
+        "h23007004015",
+        "h23007004016"
+      ],
+      "issue": "adds 'faces' and restructures 'from the two tails of these smoking firebrands in the burning of anger' into un-licensed phrasing",
+      "spanishSpan": "de faces de los dos cabos de los tizones estos humeantes, en ardor de nariz"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 62:1",
+  "chapter": 62,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Por causa de Tsiyón no callaré, y por causa de Yerushaláyim no descansaré, hasta que salga como el resplandor su justicia, y su salvación como antorcha que arde.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23062001002",
+        "h23062001006"
+      ],
+      "issue": "Hebraizes proper names (Tsiyón, Yerushaláyim) instead of conventional Spanish forms",
+      "spanishSpan": "Tsiyón ... Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

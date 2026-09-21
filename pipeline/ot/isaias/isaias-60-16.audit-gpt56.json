@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 60:16",
+  "chapter": 60,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y mamarás leche de naciones, y pecho de reyes mamarás; y conocerás que yo Jehová tu Salvador, y tu Redentor, Fuerte de Yaakov.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23060016014"
+      ],
+      "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

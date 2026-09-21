@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:3",
+  "chapter": 43,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque yo Jehová tu Dios, Santo de Israel, tu salvador; di tu rescate Mizraim, Kush y Sevá debajo de ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043003010",
+        "h23043003011",
+        "h23043003012"
+      ],
+      "issue": "Hebraized proper names (Mizraim, Kush, Sevá) instead of conventional Spanish forms licensed by the proper-noun tokens",
+      "spanishSpan": "Mizraim, Kush y Sevá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043003008",
+        "h23043003009",
+        "h23043003013"
+      ],
+      "issue": "distorts the clause structure נָתַתִּי כָּפְרְךָ ... תַּחְתֶּיךָ by placing 'debajo de ti' after the names and omitting the 'as your ransom' relationship",
+      "spanishSpan": "di tu rescate Mizraim, Kush y Sevá debajo de ti"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

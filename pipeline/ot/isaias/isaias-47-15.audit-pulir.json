@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 47:15",
+  "chapter": 47,
+  "verse": 15,
+  "candidateLabel": "pulir",
+  "spanish": "Así fueron a ti aquellos en que te fatigaste, tus mercaderes desde tu juventud; erraron cada uno a su lado; no hay tu salvador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23047015004",
+        "h23047015005",
+        "h23047015006"
+      ],
+      "issue": "Spanish inserts untokenized 'aquellos' and restructures relative clause + merchants into apposition not licensed by token order or forms",
+      "spanishSpan": "aquellos en que te fatigaste, tus mercaderes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23047015005"
+      ],
+      "issue": "adds reflexive 'te fatigaste' (not licensed by plain qal 2fs יָגָעַתְּ)",
+      "spanishSpan": "te fatigaste"
+    }
+  ],
+  "notes": "no token licenses 'aquellos'",
+  "discardedUncitedFindings": 0
+}

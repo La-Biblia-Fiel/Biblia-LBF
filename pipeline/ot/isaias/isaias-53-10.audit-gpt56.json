@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 53:10",
+  "chapter": 53,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jehová quiso aplastarlo; lo enfermó. Si pones ofrenda por culpa su alma, verá simiente, alargará días, y el querer de Jehová en su mano prosperará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23053010006"
+      ],
+      "issue": "verb morphology 3fs rendered as 2s tú form (pones) instead of preserving 3fs subject",
+      "spanishSpan": "Si pones"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23053010006",
+        "h23053010007",
+        "h23053010008"
+      ],
+      "issue": "word order and participant structure altered; Spanish fails to keep נפשו as the 3fs subject performing the action on אשם",
+      "spanishSpan": "Si pones ofrenda por culpa su alma"
+    }
+  ],
+  "notes": "first clause and final clause match tokens; conditional clause does not",
+  "discardedUncitedFindings": 0
+}

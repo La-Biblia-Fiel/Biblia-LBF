@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 55:7",
+  "chapter": 55,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Deje malvado su camino, y varón de iniquidad sus pensamientos, y vuelva a Jehová, y se compadecerá de él, y a nuestro Dios, porque multiplicará perdonar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055007001",
+        "h23055007002",
+        "h23055007003"
+      ],
+      "issue": "first clause verb+subject+object distorted; Spanish inverts and mangles qal impf 3ms + adj subject + construct noun",
+      "spanishSpan": "Deje malvado su camino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055007004",
+        "h23055007005",
+        "h23055007006"
+      ],
+      "issue": "second clause left as fragment without licensed verb; tokens require parallel structure with first clause",
+      "spanishSpan": "y varón de iniquidad sus pensamientos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055007007",
+        "h23055007010",
+        "h23055007014"
+      ],
+      "issue": "mixes jussive 3ms forms with future indicative and changes participant reference",
+      "spanishSpan": "vuelva ... se compadecerá ... multiplicará"
+    }
+  ],
+  "notes": "Spanish grammar fails to preserve token morphology and clause parallelism.",
+  "discardedUncitedFindings": 0
+}

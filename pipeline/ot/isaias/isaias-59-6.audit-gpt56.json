@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 59:6",
+  "chapter": 59,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Sus telas no serán a vestido, y no se cubrirán con sus obras; sus obras obras de iniquidad, y obra de violencia en sus palmas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23059006001"
+      ],
+      "issue": "telas adds general fabric concept not licensed by lemma H6980 (web/thread)",
+      "spanishSpan": "Sus telas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23059006008",
+        "h23059006009",
+        "h23059006010"
+      ],
+      "issue": "repetition and clause structure altered; missing licensed concept of the works being [are] works of iniquity",
+      "spanishSpan": "sus obras obras de iniquidad"
+    }
+  ],
+  "notes": "multiple token mismatches in first and final clauses",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:21",
+  "chapter": 37,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y envió Yeshayahu hijo de Amots a Jizqiyahu, diciendo: Así dijo Jehová Dios de Israel: Lo que oraste a mí a Sanjerib rey de Ashur,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037021002",
+        "h23037021004",
+        "h23037021006",
+        "h23037021017",
+        "h23037021019"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Yeshayahu ... Amots ... Jizqiyahu ... Sanjerib ... Ashur"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037021016"
+      ],
+      "issue": "renders אֶל as 'a' creating incorrect sense of praying to the king rather than concerning the king",
+      "spanishSpan": "a Sanjerib"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

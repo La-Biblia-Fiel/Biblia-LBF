@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:6",
+  "chapter": 15,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Tú me has dado la espalda, dice el SEÑOR, y yo te he dado la espalda a ti; te he castigado, pero tú no has respondido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015006006",
+        "h24015006007"
+      ],
+      "issue": "replaces 'you will go backward' with 'I have given you the back'",
+      "spanishSpan": "y yo te he dado la espalda a ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015006012"
+      ],
+      "issue": "replaces 'I destroyed you' with 'I have punished you'",
+      "spanishSpan": "te he castigado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015006013",
+        "h24015006014"
+      ],
+      "issue": "replaces 'I am weary of relenting' with 'you have not responded'",
+      "spanishSpan": "pero tú no has respondido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015006004",
+        "h24015006005"
+      ],
+      "issue": "renders נְאֻם יְהוָה as 'dice el SEÑOR' instead of a declaration formula",
+      "spanishSpan": "dice el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

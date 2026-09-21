@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 42:20",
+  "chapter": 42,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Viendo muchas y no guardarás; abriendo oídos y no oirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042020001"
+      ],
+      "issue": "adds 'viendo' concept not present in tokens",
+      "spanishSpan": "Viendo muchas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

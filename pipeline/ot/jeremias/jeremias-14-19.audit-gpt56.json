@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:19",
+  "chapter": 14,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso te has disgustado con Judá, o te has cansado de Sion? ¿Por qué nos has golpeado, y no hay cura para nosotros? Esperamos por la paz, pero no hay bien; y por la curación, pero ve aquí la calamidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014019007",
+        "h24014019008"
+      ],
+      "issue": "Spanish makes 2ms subject 'te has cansado' for the loathing; tokens have 3fs verb with נַפְשֶׁ֔ךָ as subject",
+      "spanishSpan": "o te has cansado de Sion"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

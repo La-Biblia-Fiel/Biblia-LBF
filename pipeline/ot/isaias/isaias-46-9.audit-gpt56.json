@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 46:9",
+  "chapter": 46,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Acuerden primeras desde siempre, porque yo Dios, y no hay más; Dios, y no hay como yo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046009006",
+        "h23046009009"
+      ],
+      "issue": "renders non-name lemmas אל and אלהים as Spanish 'Dios'",
+      "spanishSpan": "yo Dios ... Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046009009"
+      ],
+      "issue": "inserts standalone 'Dios' not licensed by the token sequence or morphology",
+      "spanishSpan": "; Dios,"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

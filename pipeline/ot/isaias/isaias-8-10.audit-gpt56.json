@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 8:10",
+  "chapter": 8,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Aconsejen consejo, y será frustrado; hablen palabra, y no se levantará; porque Immanu El.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23008010009",
+        "h23008010010"
+      ],
+      "issue": "renders עִמָּנוּ אֵל as compound proper name 'Immanu El' instead of licensed preposition+suffix+noun",
+      "spanishSpan": "porque Immanu El"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 5:5",
+  "chapter": 5,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Faraón: «He aquí, ahora numeroso, el pueblo de la tierra; y los han hecho cesar de sus cargas».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02005005008"
+      ],
+      "issue": "changes 2mp subject of hiphil perfect to 3pl",
+      "spanishSpan": "los han hecho cesar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

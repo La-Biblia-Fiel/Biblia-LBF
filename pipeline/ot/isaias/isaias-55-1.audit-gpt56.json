@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 55:1",
+  "chapter": 55,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay, todo sediento, vengan a las aguas, y el que no hay a él plata, vengan, compren y coman; y vengan, compren sin plata y sin precio vino y leche!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055001007",
+        "h23055001008",
+        "h23055001009"
+      ],
+      "issue": "mangles אֵין־לוֹ כֶּסֶף into ungrammatical 'no hay a él plata' that neither preserves the negative existential nor the 3ms suffix",
+      "spanishSpan": "el que no hay a él plata"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055001003"
+      ],
+      "issue": "singular adjective צָמֵא rendered with plural imperative address, altering participant number",
+      "spanishSpan": "todo sediento, vengan"
+    }
+  ],
+  "notes": "awkward phrasing changes licensed meaning",
+  "discardedUncitedFindings": 0
+}

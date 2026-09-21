@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:1",
+  "chapter": 13,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová: Ve y compra un cinto de lino, y ponlo sobre tu cintura, y no lo pongas en el agua.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013001004"
+      ],
+      "issue": "omits licensed prepositional phrase אֵלַי (to me)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

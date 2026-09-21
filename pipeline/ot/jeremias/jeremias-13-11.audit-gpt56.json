@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:11",
+  "chapter": 13,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque como el cinto se adhiere a la cintura de un hombre, así me adhiero yo a toda la casa de Israel y a toda la casa de Judá, dice Jehová, para que sean para mí un pueblo, un nombre, una alabanza, y una gloria; pero no quieren escuchar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013011028"
+      ],
+      "issue": "adds volition 'quieren' not present in qal perfect 3cp שָׁמֵעוּ; changes to present habitual",
+      "spanishSpan": "pero no quieren escuchar"
+    }
+  ],
+  "notes": "hiphil הִדְבַּקְתִּי also rendered without causative force",
+  "discardedUncitedFindings": 0
+}

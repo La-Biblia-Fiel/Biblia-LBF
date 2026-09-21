@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 19:4",
+  "chapter": 19,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y entregaré a Mizraim en mano de señores duros, y rey fuerte señoreará en ellos, dicho del señor, Jehová de ejércitos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23019004001"
+      ],
+      "issue": "verb rendered as entregaré (deliver/hand over) but lemma 5534 / surface סכר licenses only close/shut/stop",
+      "spanishSpan": "Y entregaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

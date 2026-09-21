@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 61:10",
+  "chapter": 61,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Gozar gozaré en Jehová; se alegrará mi alma en mi Dios; porque me vistió vestidos de salvación; manto de justicia me envolvió, como el novio se pone ornato de sacerdote, y como la novia se adorna sus joyas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23061010015"
+      ],
+      "issue": "adds 'de sacerdote' concept not licensed by the tokens; יְכַהֵן is the verb only",
+      "spanishSpan": "ornato de sacerdote"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

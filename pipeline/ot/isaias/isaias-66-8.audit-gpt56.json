@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 66:8",
+  "chapter": 66,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién oyó como esto? ¿Quién vio como estas? ¿Será hecha sufrir tierra en día uno? ¿Si nacerá nación de una vez? Porque tuvo dolores también dio a luz Tsiyón a sus hijos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066008020"
+      ],
+      "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

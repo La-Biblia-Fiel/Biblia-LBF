@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:24",
+  "chapter": 10,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Señor, me corrijes con justicia, pero no con tu ira, o me harás menos que nada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010024002"
+      ],
+      "issue": "יהוה rendered as Señor instead of Jehová",
+      "spanishSpan": "Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010024001"
+      ],
+      "issue": "piel imperative 2ms changed to present indicative",
+      "spanishSpan": "me corrijes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010024003"
+      ],
+      "issue": "affirmative אַךְ rendered as contrastive pero",
+      "spanishSpan": "pero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010024007",
+        "h24010024008"
+      ],
+      "issue": "פֶּן + hiphil rendered as o me harás menos que nada, adding que nada and changing structure",
+      "spanishSpan": "o me harás menos que nada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

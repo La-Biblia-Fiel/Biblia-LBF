@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:21",
+  "chapter": 14,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "No te avergüences por tu nombre, no deshonres tu trono; acuérdate, no rompas tu pacto con nosotros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014021002"
+      ],
+      "issue": "נאץ qal jussive rendered as 'te avergüences' (shame) instead of spurn/despise/reject",
+      "spanishSpan": "No te avergüences"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014021007",
+        "h24014021008"
+      ],
+      "issue": "כסא כבודך (throne of your glory) rendered as 'tu trono' omitting 'gloria'",
+      "spanishSpan": "tu trono"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014021006"
+      ],
+      "issue": "נבל piel rendered as 'deshonres' without matching the full construct object",
+      "spanishSpan": "no deshonres tu trono"
+    }
+  ],
+  "notes": "first two clauses fail to match lemma/morphology and construct chain",
+  "discardedUncitedFindings": 0
+}

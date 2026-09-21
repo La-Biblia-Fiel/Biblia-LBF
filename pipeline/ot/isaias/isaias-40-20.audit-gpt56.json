@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:20",
+  "chapter": 40,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "El empobrecido de ofrenda madera no pudrirá escogerá; artífice sabio buscará a él, para preparar ídolo no se moverá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040020003",
+        "h23040020004",
+        "h23040020005",
+        "h23040020006"
+      ],
+      "issue": "word order and verb attachment reversed/mangled; wood is object of choose, not rot subject",
+      "spanishSpan": "madera no pudrirá escogerá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040020001",
+        "h23040020002"
+      ],
+      "issue": "Spanish noun phrase distorts the participial subject + offering construction",
+      "spanishSpan": "El empobrecido de ofrenda madera"
+    }
+  ],
+  "notes": "second clause acceptable but first clause fails",
+  "discardedUncitedFindings": 0
+}

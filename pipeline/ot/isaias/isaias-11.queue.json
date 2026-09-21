@@ -1,0 +1,97 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 11,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y su olfato en temor de Jehová; y no a vista de sus ojos juzgará, y no a oír de sus oídos reprenderá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23011003001"
+          ],
+          "issue": "renders HC/Vhc/Sp3ms infinitive construct as noun 'su olfato'",
+          "spanishSpan": "su olfato"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:09:13.752411+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 16,
+    "verses": 16,
+    "input": 35157,
+    "cachedInput": 11392,
+    "output": 396,
+    "reasoning": 13975,
+    "usd": 0.1395,
+    "byProvider": {
+      "xai": {
+        "calls": 16,
+        "input": 35157,
+        "output": 396,
+        "reasoning": 13975,
+        "usd": 0.1395
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 16,
+        "input": 35157,
+        "output": 396,
+        "reasoning": 13975,
+        "usd": 0.1395
+      }
+    },
+    "usdPerVerse": 0.0087,
+    "bibleAtThisRate": 271.0,
+    "book": "isaias",
+    "chapter": 11
+  }
+}

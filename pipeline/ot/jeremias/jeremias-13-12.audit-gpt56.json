@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:12",
+  "chapter": 13,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás a ellos estas palabras: Así ha dicho Jehová, Dios de Israel: Todo odre se llenará de vino. Y ellos te dirán: ¿No sabemos que todo odre se llena de vino?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013012004",
+        "h24013012005"
+      ],
+      "issue": "singular dabar rendered as plural palabras",
+      "spanishSpan": "estas palabras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

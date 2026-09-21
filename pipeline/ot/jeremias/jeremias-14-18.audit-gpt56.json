@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:18",
+  "chapter": 14,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Si salgo al campo, veo a los muertos por la espada; y si entro en la ciudad, veo a los muertos por el hambre; porque tanto el profeta como el sacerdote se han entregado a la tierra, y no conocen.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014018011",
+        "h24014018012"
+      ],
+      "issue": "תַּחֲלוּאֵי רָעָב rendered as 'muertos por el hambre' (adds 'dead' and omits 'diseases/sicknesses')",
+      "spanishSpan": "veo a los muertos por el hambre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014018018",
+        "h24014018019",
+        "h24014018020"
+      ],
+      "issue": "סָחֲר֥וּ אֶל אֶ֖רֶץ rendered as 'se han entregado a la tierra' (wrong verb and sense)",
+      "spanishSpan": "se han entregado a la tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

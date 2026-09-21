@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 42:12",
+  "chapter": 42,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Pongan a Jehová gloria, y su alabanza en las islas anuncien.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042012001",
+        "h23042012006"
+      ],
+      "issue": "Hebrew 3mp qal/hiphil imperfect (they will put / they will declare) rendered as 3pl subjunctive/imperative commands (pongan...anuncien)",
+      "spanishSpan": "Pongan...anuncien"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

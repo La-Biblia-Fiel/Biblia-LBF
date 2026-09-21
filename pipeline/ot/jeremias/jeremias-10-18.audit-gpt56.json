@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:18",
+  "chapter": 10,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así ha dicho Jehová: He aquí que yo azotaré a los habitantes de la tierra en este tiempo, y los apretaré para que busquen.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010018006"
+      ],
+      "issue": "Spanish renders קוֹלֵעַ (qal active participle 'slinging') as 'azotaré' (whip/scourge), changing the verb action",
+      "spanishSpan": "azotaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010018015"
+      ],
+      "issue": "Spanish renders יִמְצָאוּ ('they may find') as 'busquen' (seek), altering the verb meaning",
+      "spanishSpan": "busquen"
+    }
+  ],
+  "notes": "two lexical mismatches change licensed sense",
+  "discardedUncitedFindings": 0
+}

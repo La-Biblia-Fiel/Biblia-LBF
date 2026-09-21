@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:8",
+  "chapter": 41,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tú, Israel mi siervo, Yaakov que elegí, simiente de Abraham mi amante;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041008004"
+      ],
+      "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish form",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

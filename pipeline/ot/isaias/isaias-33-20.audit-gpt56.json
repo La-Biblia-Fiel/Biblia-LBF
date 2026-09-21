@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 33:20",
+  "chapter": 33,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Mira Tsiyón, ciudad de nuestra convocación; tus ojos verán Yerushaláyim, morada sosegada, tienda que no será removida, no serán arrancadas sus estacas para siempre, y todos sus cuerdas no serán rotas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033020002",
+        "h23033020007"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Tsiyón ... Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

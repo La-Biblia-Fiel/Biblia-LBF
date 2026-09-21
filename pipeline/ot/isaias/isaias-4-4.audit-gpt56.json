@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 4:4",
+  "chapter": 4,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "cuando lave Adonai el excremento de hijas de Tsiyón, y las sangres de Yerushaláyim lave de su seno, en espíritu de juicio y en espíritu de quemar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23004004012"
+      ],
+      "issue": "mismatch on מִקִּרְבָּ֑הּ (from her midst) rendered as 'de su seno' (her bosom)",
+      "spanishSpan": "de su seno"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23004004002",
+        "h23004004011"
+      ],
+      "issue": "two distinct verbs (רחץ qal pf 3ms wash + ידח hiphil impf 3ms remove) collapsed into repeated 'lave'",
+      "spanishSpan": "lave ... lave"
+    }
+  ],
+  "notes": "proper names and conditional particle handled acceptably",
+  "discardedUncitedFindings": 0
+}

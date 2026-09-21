@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:6",
+  "chapter": 44,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dijo Jehová rey de Israel y su redentor Jehová de ejércitos: Yo primero y yo último, y de aparte de mí no hay Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044006015"
+      ],
+      "issue": "translates non-name lemma אלהים as Dios",
+      "spanishSpan": "Dios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 54:9",
+  "chapter": 54,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque aguas de Noaj esto a mí, que juré de pasar aguas de Noaj más sobre la tierra; así juré de airarme sobre ti y de reprenderte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23054009008",
+        "h23054009016"
+      ],
+      "issue": "מִן + infinitive after נשבע renders the oath negative (not to pass / not to be angry); Spanish renders positive 'juré de pasar' / 'juré de airarme'",
+      "spanishSpan": "juré de pasar aguas de Noaj más sobre la tierra; así juré de airarme sobre ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23054009002",
+        "h23054009004",
+        "h23054009005"
+      ],
+      "issue": "literal 'aguas de Noaj esto a mí' omits the demonstrative-equative structure and adds no licensed verb",
+      "spanishSpan": "aguas de Noaj esto a mí"
+    }
+  ],
+  "notes": "core semantic reversal on the two oaths",
+  "discardedUncitedFindings": 0
+}

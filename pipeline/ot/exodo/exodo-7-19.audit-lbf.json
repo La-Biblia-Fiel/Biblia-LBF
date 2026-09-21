@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:19",
+  "chapter": 7,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Dile a Aarón que tome su bastón y extienda la mano sobre las aguas de Egipto, sobre sus ríos, sus canales, sus lagos y todos sus depósitos de agua, para que se conviertan en sangre. Habrá sangre por toda la tierra de Egipto, incluso en sus recipientes de madera y piedra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007019032",
+        "h02007019033"
+      ],
+      "issue": "וּבָעֵצִים וּבָאֲבָנִים is ‘in the trees and in the stones’; ‘recipientes de madera y piedra’ adds vessels and resolves open nouns into containers",
+      "spanishSpan": "recipientes de madera y piedra"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007019008",
+        "h02007019010"
+      ],
+      "issue": "Direct imperatives קַח / וּנְטֵה smoothed to indirect ‘que tome… y extienda’",
+      "spanishSpan": "que tome su bastón y extienda"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

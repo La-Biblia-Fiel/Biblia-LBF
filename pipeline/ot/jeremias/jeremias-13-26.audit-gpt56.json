@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:26",
+  "chapter": 13,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "Y también yo he descubierto tus calvas delante de ti; y tus pecados son vistos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013026004"
+      ],
+      "issue": "שׁוּלַ֖יִךְ rendered as 'tus calvas' (bald spots) instead of skirts/train of garment",
+      "spanishSpan": "tus calvas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013026008"
+      ],
+      "issue": "קְלוֹנֵֽךְ rendered as 'tus pecados' (sins) instead of your dishonor/shame",
+      "spanishSpan": "tus pecados"
+    }
+  ],
+  "notes": "two noun mismatches change the licensed meaning",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:19",
+  "chapter": 1,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y lucharán contigo, pero no podrán contigo, porque yo estoy contigo, dice el Señor, para salvarte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001019009",
+        "h24001019010"
+      ],
+      "issue": "renders נְאֻם יְהוָה as 'dice el Señor' (adds verb 'dice' and title 'Señor' instead of Jehová)",
+      "spanishSpan": "dice el Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

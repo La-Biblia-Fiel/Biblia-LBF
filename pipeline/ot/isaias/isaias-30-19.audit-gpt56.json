@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:19",
+  "chapter": 30,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque pueblo en Tsiyón habitará en Yerushaláyim; llorando no llorarás; haciendo gracia te hará gracia a voz de tu clamor; según su oír, te responderá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030019003",
+        "h23030019005"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Tsiyón ... Yerushaláyim"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030019014"
+      ],
+      "issue": "tense changed from perfect to future",
+      "spanishSpan": "te responderá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030019014"
+      ],
+      "issue": "person/gender suffix mismatch (2fs vs prior 2ms forms)",
+      "spanishSpan": "te responderá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

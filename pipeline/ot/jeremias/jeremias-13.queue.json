@@ -1,0 +1,690 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 13,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "passed": [
+    2,
+    3,
+    5,
+    8,
+    23
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová: Ve y compra un cinto de lino, y ponlo sobre tu cintura, y no lo pongas en el agua.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013001004"
+          ],
+          "issue": "omits licensed prepositional phrase אֵלַי (to me)",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Toma el cinto que compraste, que está sobre tu cintura, y levántate y ve al río Eufrates, y entiérralo allí en la abertura de la roca.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013004011"
+          ],
+          "issue": "adds 'río' concept not present in the token for the proper name",
+          "spanishSpan": "río Eufrates"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pasado mucho tiempo, Jehová me dijo: Levántate, ve al río Eufrates y saca el cinto que me ordenaste enterrar allí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013006016"
+          ],
+          "issue": "reverses participants: צִוִּיתִ֖יךָ is 1cs subject + 2ms object (I commanded you), Spanish has 'me ordenaste' (you commanded me)",
+          "spanishSpan": "que me ordenaste"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Fui al río Eufrates y lo saqué del lugar donde lo había enterrado, y he aquí que el cinto estaba podrido y no servía para nada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013007003"
+          ],
+          "issue": "omits the digging action licensed by וָאֶחְפֹּ֗ר",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013007010"
+          ],
+          "issue": "renders טְמַנְתִּ֣יו as 'enterrado' (bury) instead of the licensed 'hide'",
+          "spanishSpan": "enterrado"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová: Así haré desaparecer la soberbia de Judá y la soberbia de Jerusalén.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013009012"
+          ],
+          "issue": "omits licensed adjective 'the great'",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Este pueblo, que es rebelde, que no quiere escuchar mis palabras, que anda según su propio corazón, que sigue a dioses ajenos para servirles y adorarles, será como este cinto, que no sirve para nada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013010003"
+          ],
+          "issue": "omits licensed adjective 'evil'",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013010009"
+          ],
+          "issue": "omits 'stubbornness' concept, rendering only 'propio corazón'",
+          "spanishSpan": "según su propio corazón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013010004"
+          ],
+          "issue": "adds interpretive 'rebelde' not licensed by the participle",
+          "spanishSpan": "que es rebelde"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque como el cinto se adhiere a la cintura de un hombre, así me adhiero yo a toda la casa de Israel y a toda la casa de Judá, dice Jehová, para que sean para mí un pueblo, un nombre, una alabanza, y una gloria; pero no quieren escuchar.",
+      "notes": "hiphil הִדְבַּקְתִּי also rendered without causative force",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013011028"
+          ],
+          "issue": "adds volition 'quieren' not present in qal perfect 3cp שָׁמֵעוּ; changes to present habitual",
+          "spanishSpan": "pero no quieren escuchar"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás a ellos estas palabras: Así ha dicho Jehová, Dios de Israel: Todo odre se llenará de vino. Y ellos te dirán: ¿No sabemos que todo odre se llena de vino?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013012004",
+            "h24013012005"
+          ],
+          "issue": "singular dabar rendered as plural palabras",
+          "spanishSpan": "estas palabras"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás a ellos: Así ha dicho Jehová: He aquí que llenaré a todos los habitantes de esta tierra, a los reyes que se sientan en el trono de David, a los sacerdotes, a los profetas y a todos los habitantes de Jerusalén, de vino.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013013027"
+          ],
+          "issue": "renders שִׁכָּרוֹן as 'vino' (wine), adding a specific substance absent from the token",
+          "spanishSpan": "de vino"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los dispersaré a cada uno a su hermano, y a los padres con los hijos juntos, dice Jehová: No tendré misericordia, no tendré compasión, no los perdonaré de ser destruidos.",
+      "notes": "first verb and final clause both mismatch tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013014001"
+          ],
+          "issue": "נפץ (piel) rendered as 'dispersaré' (scatter); lemma means shatter/dash in pieces",
+          "spanishSpan": "los dispersaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013014011",
+            "h24013014013",
+            "h24013014015",
+            "h24013014016"
+          ],
+          "issue": "three distinct verbs (חמל, חוס, רחם) + 'from destroying them' collapsed into 'no tendré misericordia, no tendré compasión, no los perdonaré de ser destruidos'",
+          "spanishSpan": "No tendré misericordia, no tendré compasión, no los perdonaré de ser destruidos"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Escuchad y oíd, no os ensoberbecáis, porque Jehová ha hablado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013015001",
+            "h24013015002",
+            "h24013015004"
+          ],
+          "issue": "uses vosotros forms (Escuchad, oíd, os ensoberbecáis) instead of Latin American ustedes",
+          "spanishSpan": "Escuchad y oíd, no os ensoberbecáis"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Dad gloria a Jehová, su Dios, antes que os oscurezca y antes que sus pierns se tambaleen sobre los montes de la tarde, y esperéis la luz y os convierta en tinieblas.",
+      "notes": "multiple person and participant mismatches plus final clause rewrite",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013016009"
+          ],
+          "issue": "רַגְלֵיכֶ֖ם is 2mp 'your legs'; Spanish 'sus pierns' uses 3rd-person possessive",
+          "spanishSpan": "sus pierns"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013016015",
+            "h24013016016",
+            "h24013016017"
+          ],
+          "issue": "וְשָׂמָ֣הּ לְצַלְמָ֔וֶת לַעֲרָפֶֽל is 'he will make it into deep darkness and gloom'; Spanish changes subject and object to 'os convierta en tinieblas'",
+          "spanishSpan": "y os convierta en tinieblas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013016008",
+            "h24013016009"
+          ],
+          "issue": "hithpael 'they will stumble' on 2mp legs rendered with mismatched 3rd-person subject",
+          "spanishSpan": "sus pierns se tambaleen"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Si no me escucháis, mi alma gemirá en secreto por su causa, y lloraré amargamente, y mis ojos derramarán lágrimas, porque el rebaño del SEÑOR ha sido llevado cautivo.",
+      "notes": "multiple participant and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013017003"
+          ],
+          "issue": "suffix 3fs rendered as 1cs 'me' instead of 'la'",
+          "spanishSpan": "me escucháis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013017005",
+            "h24013017006",
+            "h24013017010",
+            "h24013017011",
+            "h24013017012"
+          ],
+          "issue": "3fs subjects (נפשי, עיני) shifted to 1cs verbs",
+          "spanishSpan": "lloraré amargamente, y mis ojos derramarán lágrimas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013017008"
+          ],
+          "issue": "גֵוָה 'pride' rendered as 'su causa'",
+          "spanishSpan": "por su causa"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013017004"
+          ],
+          "issue": "adds interpretive 'amargamente' not licensed by tokens",
+          "spanishSpan": "amargamente"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Decidle al rey y a la reina: Sed humildes y sentaos, porque caerán de sus cabezas las coronas de su gloria.",
+      "notes": "also shifts from direct 2mp address to reported speech about the addressees",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013018008",
+            "h24013018010"
+          ],
+          "issue": "2mp suffixes rendered as 3rd-person sus/su instead of direct 2nd-person address",
+          "spanishSpan": "sus cabezas ... su gloria"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013018009"
+          ],
+          "issue": "singular עֲטֶרֶת rendered as plural coronas",
+          "spanishSpan": "las coronas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013018007"
+          ],
+          "issue": "qal perfect יָרַד rendered as future caerán",
+          "spanishSpan": "caerán"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Las ciudades del sur están cerradas, y no hay quien las abra. La cautividad de Judá es toda cautividad; son cautivos de paz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013019006",
+            "h24013019007",
+            "h24013019008",
+            "h24013019009",
+            "h24013019010"
+          ],
+          "issue": "renders הגלת...כלה as 'cautividad de Judá es toda cautividad' and הגלת שלומים as 'son cautivos de paz', adding 'cautividad/cautivos', changing 3fs to plural 'son', and interpreting שלומים as 'de paz' without token license",
+          "spanishSpan": "La cautividad de Judá es toda cautividad; son cautivos de paz"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mirad y ved a los que vienen del norte: ¿dónde está el rebaño que os fue dado, la grey de su gloria?",
+      "notes": "person and suffix mismatch on 2fs referents",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013020007",
+            "h24013020009"
+          ],
+          "issue": "changes 2fs suffix to 3rd-person 'su' and mixes persons",
+          "spanishSpan": "su gloria"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013020001",
+            "h24013020007"
+          ],
+          "issue": "uses vosotros plural imperative and 'os' instead of ustedes",
+          "spanishSpan": "Mirad ... os fue dado"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Qué diréis cuando os castigue y os enseñare a ustedes, a cada uno por cabeza, dos mil hombres? ¿No os sujetarán cuerdas como a una mujer que da a luz?",
+      "notes": "multiple person/number/stem and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013021002"
+          ],
+          "issue": "2fs imperfect rendered as 2pl future",
+          "spanishSpan": "diréis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013021004",
+            "h24013021005"
+          ],
+          "issue": "3ms qal imperfect + 2fs suffix rendered as 2pl subjunctive with wrong agent",
+          "spanishSpan": "os castigue"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013021006",
+            "h24013021007",
+            "h24013021008"
+          ],
+          "issue": "2fs piel perfect + 3mp object rendered as 1s future teaching",
+          "spanishSpan": "os enseñare a ustedes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013021010",
+            "h24013021011"
+          ],
+          "issue": "aluphim l'rosh rendered as 'dos mil hombres' per head",
+          "spanishSpan": "a cada uno por cabeza, dos mil hombres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013021016",
+            "h24013021017"
+          ],
+          "issue": "eshet ledah (noun construct) rendered as verbal clause",
+          "spanishSpan": "una mujer que da a luz"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando digas en tu corazón: ¿Por qué me ha llamado el SEÑOR estas cosas? Por la multitud de tus pecados se han descubierto tus calvas y tus pies se han hundido.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013022005"
+          ],
+          "issue": "adds 'el SEÑOR' as subject; tokens have 3cp 'they have met/called me'",
+          "spanishSpan": "me ha llamado el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013022010"
+          ],
+          "issue": "renders 'skirts' as 'calvas'",
+          "spanishSpan": "tus calvas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013022011",
+            "h24013022012"
+          ],
+          "issue": "renders 'heels have been violated' as 'feet have sunk'",
+          "spanishSpan": "tus pies se han hundido"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los dispersaré como paja que el viento lleva en el desierto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013024003",
+            "h24013024004"
+          ],
+          "issue": "adds 'que el viento lleva' (wind carries) not licensed by lemma/morph of עוֹבֵר (passing) + לְר֖וּחַ (to wind)",
+          "spanishSpan": "que el viento lleva"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013024004",
+            "h24013024005"
+          ],
+          "issue": "restructures לְר֖וּחַ מִדְבָּֽר as 'en el desierto' instead of wind-of-desert construct",
+          "spanishSpan": "en el desierto"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Esta es tu porción, tu alimento, que te da el SEÑOR, tu Dios; que has olvidado a mí y te has confiado en mentiras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013025003",
+            "h24013025004"
+          ],
+          "issue": "adds 'alimento' (food) concept absent from מְנָת מִדַּיִךְ",
+          "spanishSpan": "tu alimento"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013025005",
+            "h24013025006",
+            "h24013025007"
+          ],
+          "issue": "restructures מֵאִתִּי נְאֻם יְהוָה into 'que te da el SEÑOR, tu Dios' adding 'da' and 'Dios'",
+          "spanishSpan": "que te da el SEÑOR, tu Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013025012"
+          ],
+          "issue": "pluralizes singular שֶׁקֶר to 'mentiras'",
+          "spanishSpan": "mentiras"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y también yo he descubierto tus calvas delante de ti; y tus pecados son vistos.",
+      "notes": "two noun mismatches change the licensed meaning",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013026004"
+          ],
+          "issue": "שׁוּלַ֖יִךְ rendered as 'tus calvas' (bald spots) instead of skirts/train of garment",
+          "spanishSpan": "tus calvas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013026008"
+          ],
+          "issue": "קְלוֹנֵֽךְ rendered as 'tus pecados' (sins) instead of your dishonor/shame",
+          "spanishSpan": "tus pecados"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tus encantamientos y tus placeres son la iniquidad de tu fornicación en las colinas en el campo; he visto tu abominación, ¡ay de ti, Jerusalén! No te purificarás; cuándo acabará el tiempo?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013027001",
+            "h24013027002"
+          ],
+          "issue": "renders as 'encantamientos y tus placeres' instead of licensed 'adulterios'/'fornicaciones' and 'relinchos'",
+          "spanishSpan": "Tus encantamientos y tus placeres"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013027003",
+            "h24013027004"
+          ],
+          "issue": "restructures construct as 'son la iniquidad de tu fornicación' adding interpretive equation not in tokens",
+          "spanishSpan": "son la iniquidad de tu fornicación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013027009"
+          ],
+          "issue": "singular 'abominación' for plural construct noun",
+          "spanishSpan": "tu abominación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24013027015",
+            "h24013027016",
+            "h24013027017"
+          ],
+          "issue": "renders final clause as 'cuándo acabará el tiempo?' adding temporal end concept not licensed by tokens",
+          "spanishSpan": "cuándo acabará el tiempo?"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:40:27.804094+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 30,
+    "verses": 27,
+    "input": 66630,
+    "cachedInput": 29376,
+    "output": 4259,
+    "reasoning": 25855,
+    "usd": 0.2699,
+    "byProvider": {
+      "xai": {
+        "calls": 30,
+        "input": 66630,
+        "output": 4259,
+        "reasoning": 25855,
+        "usd": 0.2699
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 30,
+        "input": 66630,
+        "output": 4259,
+        "reasoning": 25855,
+        "usd": 0.2699
+      }
+    },
+    "usdPerVerse": 0.01,
+    "bibleAtThisRate": 311.0,
+    "book": "jeremias",
+    "chapter": 13
+  }
+}

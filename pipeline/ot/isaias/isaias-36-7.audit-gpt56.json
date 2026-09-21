@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:7",
+  "chapter": 36,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y si digas a mí: A Jehová nuestro Dios confiamos —¿no él que apartó Jizqiyahu sus bamot y sus altares, y dijo a Yehudá y a Yerushaláyim: Delante del altar este se postrarán?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036007023"
+      ],
+      "issue": "changes 2mp participant to 3pl",
+      "spanishSpan": "se postrarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036007018",
+        "h23036007019"
+      ],
+      "issue": "Hebraizes proper names instead of conventional Spanish",
+      "spanishSpan": "Yehudá y a Yerushaláyim"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036007014"
+      ],
+      "issue": "transliterates lemma instead of rendering sense",
+      "spanishSpan": "bamot"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036007012"
+      ],
+      "issue": "Hebraizes proper name",
+      "spanishSpan": "Jizqiyahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

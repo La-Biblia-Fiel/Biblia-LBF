@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 45:14",
+  "chapter": 45,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dijo Jehová: Trabajo de Mizraim y mercancía de Kush y de los sebaím, varones de medida, sobre ti pasarán, y tuyos serán; atrás de ti irán, en cadenas pasarán, y a ti se postrarán, a ti orarán: Solo en ti Dios, y no hay más; no hay dioses.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045014005",
+        "h23045014007",
+        "h23045014008"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms (Mizraim/Kush/sebaím)",
+      "spanishSpan": "Mizraim y mercancía de Kush y de los sebaím"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

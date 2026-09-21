@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 13:22",
+  "chapter": 13,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y responderán aulladores en sus alcázares, y chacales en palacios de deleite; y cercano a venir su tiempo, y sus días no se alargarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013022003"
+      ],
+      "issue": "lemma 490 (widows) rendered as alcázares",
+      "spanishSpan": "alcázares"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013022001"
+      ],
+      "issue": "morph 3ms rendered as plural responderán",
+      "spanishSpan": "responderán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:9",
+  "chapter": 51,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Despierta, despierta, vístete fuerza, brazo de Jehová; despierta como días de antiguo, generaciones de siempre. ¿No tú ella, la que cortó a Rahav, la que traspasó tanín?",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23051009003",
+        "h23051009004"
+      ],
+      "issue": "grammatical smoothing: 'vístete fuerza' lacks preposition but does not alter licensed meaning",
+      "spanishSpan": "vístete fuerza"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23051009008",
+        "h23051009009",
+        "h23051009010",
+        "h23051009011"
+      ],
+      "issue": "grammatical smoothing in temporal phrases",
+      "spanishSpan": "días de antiguo, generaciones de siempre"
+    }
+  ],
+  "notes": "no meaning change or unlicensed concepts",
+  "discardedUncitedFindings": 0
+}

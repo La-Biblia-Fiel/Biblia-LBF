@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 10:5",
+  "chapter": 10,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay, Ashur, vara de mi nariz, y bastón él en su mano, mi indignación!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010005007"
+      ],
+      "issue": "3mp suffix rendered as singular/ambiguous 'su mano' instead of 'their hand'",
+      "spanishSpan": "su mano"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010005005",
+        "h23010005006",
+        "h23010005007",
+        "h23010005008"
+      ],
+      "issue": "syntax and participant structure altered; 'él en su mano, mi indignación' does not preserve the token sequence or attachment",
+      "spanishSpan": "y bastón él en su mano, mi indignación"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

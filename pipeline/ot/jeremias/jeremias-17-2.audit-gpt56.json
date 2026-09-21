@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:2",
+  "chapter": 17,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Acuérdate, hijos, de sus altares y de sus aserás, sobre el roble verde, sobre las colinas altas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017002001"
+      ],
+      "issue": "renders Qal inf. const. + k- preposition as 2s imperative command",
+      "spanishSpan": "Acuérdate"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017002002"
+      ],
+      "issue": "omits 3mp suffix on בְּנֵיהֶם",
+      "spanishSpan": "hijos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017002006"
+      ],
+      "issue": "specifies 'roble' (oak) for generic lemma עֵץ",
+      "spanishSpan": "el roble verde"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

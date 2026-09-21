@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 6:10",
+  "chapter": 6,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Engruesa corazón de este pueblo, y sus oídos agrava, y sus ojos unge, no sea que vea con sus ojos, y con sus oídos oiga, y su corazón entienda, y se vuelva, y sane a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23006010008"
+      ],
+      "issue": "lemma 8173 hiphil rendered as 'unge' (anoint); token licenses only 'make shut'/'smear over' for the eyes",
+      "spanishSpan": "y sus ojos unge"
+    }
+  ],
+  "notes": "other clauses track tokens; this single verb mismatch triggers fail",
+  "discardedUncitedFindings": 0
+}

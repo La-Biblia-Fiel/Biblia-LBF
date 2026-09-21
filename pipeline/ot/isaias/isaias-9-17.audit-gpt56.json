@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 9:17",
+  "chapter": 9,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, sobre sus mozos no se alegrará Adonai, y a sus huérfanos y a sus viudas no apiadará; porque todo él hipócrita y malhechor, y toda boca habla necedad. En todo esto no se volvió su nariz, y aún su mano extendida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23009017026"
+      ],
+      "issue": "literal 'nariz' for אַפּוֹ resolves idiom to nose instead of anger not turning",
+      "spanishSpan": "su nariz"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

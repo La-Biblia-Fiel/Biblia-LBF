@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 57:5",
+  "chapter": 57,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "los que se calientan en las encinas bajo todo árbol frondoso, matadores de los niños en los torrentes, bajo hendiduras de las peñas?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23057005002"
+      ],
+      "issue": "lemma H410 (אֵלִים) rendered as encinas (oaks); token does not license tree sense",
+      "spanishSpan": "en las encinas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

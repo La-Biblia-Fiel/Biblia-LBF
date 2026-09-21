@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:19",
+  "chapter": 3,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo sé que el rey de Egipto no los dejará ir, y no con mano fuerte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003019006"
+      ],
+      "issue": "2mp suffix rendered as 3mp object (los) instead of 2nd-person addressees",
+      "spanishSpan": "no los dejará ir"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

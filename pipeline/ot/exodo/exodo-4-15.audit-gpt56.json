@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 4:15",
+  "chapter": 4,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y hablarás con él y pondrás las palabras en su boca; y yo estaré con tu boca y con su boca, y los instruiré sobre lo que harán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02004015014",
+        "h02004015017"
+      ],
+      "issue": "changes 2mp addressee (אֶתְכֶם … תַּעֲשׂוּן) to 3p participant (los … harán)",
+      "spanishSpan": "los instruiré … lo que harán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:13",
+  "chapter": 18,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, así ha dicho el Señor: ¿Preguntad entre las naciones, ¿quién ha oído semejantes cosas? La virgen de Israel se ha hecho muy desvergonzada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018013004"
+      ],
+      "issue": "replaces proper name יהוה with title 'el Señor'",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018013011",
+        "h24018013012"
+      ],
+      "issue": "renders שעררת + עשתה as 'se ha hecho muy desvergonzada' (changes noun+verb to adjective on subject)",
+      "spanishSpan": "La virgen de Israel se ha hecho muy desvergonzada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

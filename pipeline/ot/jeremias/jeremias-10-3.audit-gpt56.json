@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:3",
+  "chapter": 10,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque las costumbres de los pueblos son vanidad; porque cortan un árbol del bosque, obra de manos de labriego con hacha.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010003009"
+      ],
+      "issue": "verb changed from 3ms perfect (כְּרָת֔וֹ) to 3pl present (cortan); number, person and aspect altered",
+      "spanishSpan": "cortan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010003012"
+      ],
+      "issue": "חָרָשׁ rendered as labriego (plowman/farmer) instead of craftsman/artisan",
+      "spanishSpan": "labriego"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010003004",
+        "h24010003005"
+      ],
+      "issue": "הֶבֶל הוּא (singular it is vanity) rendered with plural verb son",
+      "spanishSpan": "son vanidad"
+    }
+  ],
+  "notes": "multiple morphology and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

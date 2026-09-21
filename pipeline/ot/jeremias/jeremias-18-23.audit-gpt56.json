@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:23",
+  "chapter": 18,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tú, Señor, conoces todas sus consultas contra mí para la muerte; no te excuses por su pecado ni por su maldad delante de ti, y no los quite de tu presencia en el tiempo de tu ira, haz con ellos lo que te place.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018023002"
+      ],
+      "issue": "Señor replaces licensed proper name יהוה",
+      "spanishSpan": "Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018023010"
+      ],
+      "issue": "no te excuses adds concept and changes participant; lemma is cover/atone",
+      "spanishSpan": "no te excuses"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018023016",
+        "h24018023017",
+        "h24018023018"
+      ],
+      "issue": "no los quite de tu presencia adds 'de tu presencia' and omits מֻכְשָׁלִים; תמחי is wipe out, not remove from presence",
+      "spanishSpan": "no los quite de tu presencia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018023021",
+        "h24018023022"
+      ],
+      "issue": "lo que te place adds unlicensed concept; tokens only license 'do with them'",
+      "spanishSpan": "lo que te place"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

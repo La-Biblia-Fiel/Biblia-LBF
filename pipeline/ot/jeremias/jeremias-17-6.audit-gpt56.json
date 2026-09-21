@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:6",
+  "chapter": 17,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será como un arbusto en el desierto, y no verá cuando venga el bien, y habitará en las rocas del desierto, en tierra salobre, y no habitará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017006010"
+      ],
+      "issue": "חֲרֵרִים rendered as 'rocas' (adds 'rocks' concept not licensed by lemma H2788 or morphology)",
+      "spanishSpan": "en las rocas del desierto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

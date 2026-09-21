@@ -1,0 +1,278 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 5,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "passed": [
+    1,
+    3,
+    4,
+    5,
+    7,
+    9,
+    10,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28,
+    30
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y la cavó y la despedregó y la plantó sorek, y edificó torre en su seno, y también lagar excavó en ella; y esperó hacer uvas, y ella hizo podridas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005002007"
+          ],
+          "issue": "adds unlicensed body-part noun 'seno' for בתוכו",
+          "spanishSpan": "en su seno"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y la pondré desolación; no será podada y no será azadonada, y subirá espino y cardo; y sobre las nubes mandaré de hacer llover sobre ella lluvia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005006012",
+            "h23005006013",
+            "h23005006014",
+            "h23005006015"
+          ],
+          "issue": "reverses command: Spanish says 'mandaré de hacer llover' (command to rain) while tokens are atsavveh mehamtir (command from raining / not to rain)",
+          "spanishSpan": "y sobre las nubes mandaré de hacer llover sobre ella lluvia"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay, los que juntan casa a casa, campo a campo acercan, hasta fin de lugar, y son hechos habitar ustedes solos en seno de la tierra!",
+      "notes": "hophal 2mp correctly rendered as 2nd-person ustedes; participle+verb and אֶפֶס מָקוֹם are acceptable",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005008013"
+          ],
+          "issue": "seno not licensed by lemma or morph of קֶרֶב (midst/interior)",
+          "spanishSpan": "seno de la tierra"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay, los que madrugan en la mañana, sidra persiguen; retardándose en el crepúsculo, vino los enciende!",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005011004"
+          ],
+          "issue": "sidra specifies a particular fermented drink (cider) not licensed by the lemma or surface of שֵׁכָר",
+          "spanishSpan": "sidra"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y fue cítara y arpa, tamboril y flauta y vino sus banquetes; y obra de Jehová no miran, y hecho de sus manos no vieron.",
+      "notes": "tense mix in verbs also deviates from impf/perf contrast",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005012007"
+          ],
+          "issue": "misattaches מִשְׁתֵּיהֶם only to final item instead of the whole list",
+          "spanishSpan": "vino sus banquetes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005012014"
+          ],
+          "issue": "renders יָדָיו as 'sus manos' creating ambiguous referent",
+          "spanishSpan": "sus manos"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y pastarán corderos como su modo, y ruinas de gordos extranjeros comerán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005017004",
+            "h23005017005",
+            "h23005017006"
+          ],
+          "issue": "Spanish attaches גרים as modifier to מחים (ruinas de gordos extranjeros) instead of leaving it as separate subject participle; changes participant structure licensed by the tokens",
+          "spanishSpan": "ruinas de gordos extranjeros"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, como comer paja lengua de fuego, y heno llama se deshace, su raíz como podredumbre será, y su flor como polvo subirá; porque desecharon torá de Jehová de ejércitos, y dicho del Santo de Israel despreciaron.",
+      "notes": "remainder of verse is close but first half already fails fidelity",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005024002",
+            "h23005024003",
+            "h23005024004",
+            "h23005024005",
+            "h23005024006",
+            "h23005024007",
+            "h23005024008"
+          ],
+          "issue": "Spanish inverts and mangles the infinitive-construct simile structure and participant roles (consume + stubble + tongue-of-fire; hay + flame + wither)",
+          "spanishSpan": "como comer paja lengua de fuego, y heno llama se deshace"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005024001",
+            "h23005024009",
+            "h23005024010",
+            "h23005024011",
+            "h23005024012",
+            "h23005024013",
+            "h23005024014"
+          ],
+          "issue": "word order and connective flow of the two similes altered, producing a different syntactic grouping than the token sequence",
+          "spanishSpan": "Por tanto, como comer paja lengua de fuego, y heno llama se deshace, su raíz como podredumbre será, y su flor como polvo subirá"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Rugido a él como el león; como los leoncillos rugirá y asirá presa, y escapará, y no hay quien libre.",
+      "notes": "multiple stem and construction mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005029008"
+          ],
+          "issue": "renders hiphil יַפְלִיט as simple 'escapará' (subject escapes) instead of causative 'cause to escape / bring safely'",
+          "spanishSpan": "y escapará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23005029001"
+          ],
+          "issue": "opens with noun 'Rugido' presented as if a command or direct address, altering the absolute noun phrase",
+          "spanishSpan": "Rugido a él"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T13:47:21.738648+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 30,
+    "verses": 30,
+    "input": 63592,
+    "cachedInput": 17280,
+    "output": 1591,
+    "reasoning": 25933,
+    "usd": 0.2664,
+    "byProvider": {
+      "xai": {
+        "calls": 30,
+        "input": 63592,
+        "output": 1591,
+        "reasoning": 25933,
+        "usd": 0.2664
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 30,
+        "input": 63592,
+        "output": 1591,
+        "reasoning": 25933,
+        "usd": 0.2664
+      }
+    },
+    "usdPerVerse": 0.0089,
+    "bibleAtThisRate": 276.0,
+    "book": "isaias",
+    "chapter": 5
+  }
+}

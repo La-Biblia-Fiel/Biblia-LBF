@@ -1,0 +1,182 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 16,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    9,
+    11,
+    12,
+    14
+  ],
+  "holds": [
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será preparado en misericordia trono, y se sentará sobre él en verdad en tienda de David, juzgando y buscando juicio, y listo justicia.",
+      "notes": "multiple structural and lexical distortions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23016005012",
+            "h23016005013"
+          ],
+          "issue": "וממהר צדק rendered as 'listo justicia' which neither preserves construct relationship nor conveys swift/ready righteousness",
+          "spanishSpan": "y listo justicia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23016005001",
+            "h23016005003"
+          ],
+          "issue": "word order places 'trono' after 'misericordia' inverting the clause so that throne appears to be prepared in mercy rather than the throne being established",
+          "spanishSpan": "será preparado en misericordia trono"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto aullará Moav a Moav, todo él aullará; a los pasas de Kir-Jaréset gemirán, solo heridos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23016007010"
+          ],
+          "issue": "2mp verb rendered as 3pl, shifting addressees to third-party participants",
+          "spanishSpan": "gemirán"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque campos de Jeshbón languidecieron, vid de Sivmá; dueños de naciones hirieron sus sarmientos; hasta Yaazer alcanzaron, erraron desierto; sus enviados fueron abandonados, pasaron mar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23016008004"
+          ],
+          "issue": "Hebrew verb is 3ms perfect; Spanish renders as plural 'languidecieron' agreeing with 'campos'",
+          "spanishSpan": "languidecieron"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y fue recogido gozo y alegría del Carmelo, y en las viñas no se cantará, no se gritará; vino en los lagares no pisará el pisador; heidad hice cesar.",
+      "notes": "first half acceptable; final clause fails token order and roles",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23016010011",
+            "h23016010012",
+            "h23016010013",
+            "h23016010014",
+            "h23016010015",
+            "h23016010016",
+            "h23016010017"
+          ],
+          "issue": "Spanish inverts syntax and participants of final clause; treats יין as subject and misplaces הידד as separate sentence instead of object of treading negated by tokens",
+          "spanishSpan": "vino en los lagares no pisará el pisador; heidad hice cesar"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Esta la palabra que habló Jehová a Moav desde entonces.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23016013001"
+          ],
+          "issue": "wrong gender on demonstrative (feminine Esta vs masculine zeh)",
+          "spanishSpan": "Esta"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23016013001",
+            "h23016013002"
+          ],
+          "issue": "omits required copula, producing ungrammatical verbless clause",
+          "spanishSpan": "Esta la palabra"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:22:50.464886+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 14,
+    "verses": 14,
+    "input": 30075,
+    "cachedInput": 8448,
+    "output": 838,
+    "reasoning": 13005,
+    "usd": 0.1305,
+    "byProvider": {
+      "xai": {
+        "calls": 14,
+        "input": 30075,
+        "output": 838,
+        "reasoning": 13005,
+        "usd": 0.1305
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 14,
+        "input": 30075,
+        "output": 838,
+        "reasoning": 13005,
+        "usd": 0.1305
+      }
+    },
+    "usdPerVerse": 0.0093,
+    "bibleAtThisRate": 290.0,
+    "book": "isaias",
+    "chapter": 16
+  }
+}

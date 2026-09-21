@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 66:10",
+  "chapter": 66,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Gócense con Yerushaláyim, y alégrense en ella todos sus amantes; gócence con ella gozo todos los enlutados sobre ella;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066010003"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

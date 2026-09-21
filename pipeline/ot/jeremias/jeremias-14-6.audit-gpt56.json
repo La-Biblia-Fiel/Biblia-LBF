@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:6",
+  "chapter": 14,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Los ciervos se quedan en las alturas, respiran como serpientes, sus ojos se oscurecen porque no hay hierba.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014006001"
+      ],
+      "issue": "פְרָאִים rendered as ciervos (deer); lemma H6501 is wild donkey/onager",
+      "spanishSpan": "Los ciervos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014006007"
+      ],
+      "issue": "תַּנִּים rendered as serpientes; lemma H8577 is jackals",
+      "spanishSpan": "como serpientes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014006005",
+        "h24014006006",
+        "h24014006007"
+      ],
+      "issue": "שָׁאֲפוּ רוּחַ כַּתַּנִּים rendered as respiran como serpientes (adds wrong animal and verb sense)",
+      "spanishSpan": "respiran como serpientes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014006008",
+        "h24014006009"
+      ],
+      "issue": "כָּלוּ עֵינֵיהֶם rendered as se oscurecen (resolves 'fail/finish' as darken)",
+      "spanishSpan": "sus ojos se oscurecen"
+    }
+  ],
+  "notes": "multiple referent and sense mismatches",
+  "discardedUncitedFindings": 0
+}

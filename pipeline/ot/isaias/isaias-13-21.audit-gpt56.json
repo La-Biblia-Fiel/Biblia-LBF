@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 13:21",
+  "chapter": 13,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y echarán allí criaturas del desierto, y llenarán sus casas buhos; y morarán allí hijas de avestruz, y seírim danzarán allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013021001"
+      ],
+      "issue": "verb 'echarán' mismatches lemma 7257 qal 'lie down / recline'",
+      "spanishSpan": "echarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013021003",
+        "h23013021006"
+      ],
+      "issue": "assignment of verbs to subjects inverted or mismatched",
+      "spanishSpan": "echarán allí criaturas del desierto, y llenarán sus casas buhos"
+    }
+  ],
+  "notes": "multiple mismatches on first two clauses",
+  "discardedUncitedFindings": 0
+}

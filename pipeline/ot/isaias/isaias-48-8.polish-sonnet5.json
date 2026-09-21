@@ -1,0 +1,74 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "isaias",
+  "reference": "Isaías 48:8",
+  "chapter": 48,
+  "verse": 8,
+  "sourceDraft": "También no oíste; también no conociste; también desde entonces no se abrió tu oído; porque supe que traicionando traicionarás, y prevaricador desde vientre fuiste llamado.",
+  "spanish": "Tampoco oíste, tampoco conociste, tampoco desde entonces se abrió tu oído; porque supe que traicionando traicionarás, y prevaricador desde el vientre fuiste llamado.",
+  "units": [
+    {
+      "es": "Tampoco oíste",
+      "sourceTokenIds": [
+        "h23048008001",
+        "h23048008002",
+        "h23048008003"
+      ]
+    },
+    {
+      "es": "tampoco conociste",
+      "sourceTokenIds": [
+        "h23048008004",
+        "h23048008005",
+        "h23048008006"
+      ]
+    },
+    {
+      "es": "tampoco desde entonces se abrió tu oído",
+      "sourceTokenIds": [
+        "h23048008007",
+        "h23048008008",
+        "h23048008009",
+        "h23048008010",
+        "h23048008011"
+      ]
+    },
+    {
+      "es": "porque supe",
+      "sourceTokenIds": [
+        "h23048008012",
+        "h23048008013"
+      ]
+    },
+    {
+      "es": "que traicionando traicionarás",
+      "sourceTokenIds": [
+        "h23048008014",
+        "h23048008015"
+      ]
+    },
+    {
+      "es": "y prevaricador desde el vientre",
+      "sourceTokenIds": [
+        "h23048008016",
+        "h23048008017"
+      ]
+    },
+    {
+      "es": "fuiste llamado",
+      "sourceTokenIds": [
+        "h23048008018",
+        "h23048008019"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced calque 'también no' (three instances) with idiomatic Spanish 'tampoco' for gam...lo negation, same licensed sense.",
+    "Added definite article: 'desde vientre' to 'desde el vientre' for natural Spanish agreement.",
+    "Adjusted punctuation from semicolons to commas between the three parallel tampoco-clauses for flow, retaining the semicolon before 'porque' to mark the clause boundary."
+  ],
+  "meaningChanges": [],
+  "droppedUncitedUnits": 0
+}

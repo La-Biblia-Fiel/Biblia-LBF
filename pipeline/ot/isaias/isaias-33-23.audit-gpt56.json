@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 33:23",
+  "chapter": 33,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Aflojaron tus cuerdas; no fortificarán base de su mástil; no extendieron vela; entonces fue repartido botín de presa mucha; cojos saquearon despojo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033023001"
+      ],
+      "issue": "Niphal passive (were abandoned/loosened) rendered as active 'Aflojaron'",
+      "spanishSpan": "Aflojaron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033023009"
+      ],
+      "issue": "נֵס (ensign/banner) rendered as 'vela' without packet license for that sense",
+      "spanishSpan": "vela"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

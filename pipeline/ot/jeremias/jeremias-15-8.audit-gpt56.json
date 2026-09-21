@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:8",
+  "chapter": 15,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Han quedado viudas de un día para otro; he traído sobre ellas la matanza de jóvenes en pleno día; he hecho caer sobre ellas de repente, ciudad tras ciudad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015008001",
+        "h24015008004",
+        "h24015008005"
+      ],
+      "issue": "omits 'more than sand of the seas' and adds unlicensed 'de un día para otro'",
+      "spanishSpan": "Han quedado viudas de un día para otro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015008009",
+        "h24015008010",
+        "h24015008011"
+      ],
+      "issue": "replaces mother-young-man-spoiler construction with unlicensed 'matanza de jóvenes'",
+      "spanishSpan": "la matanza de jóvenes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015008016",
+        "h24015008017"
+      ],
+      "issue": "changes 'city and terrors' to 'ciudad tras ciudad'",
+      "spanishSpan": "ciudad tras ciudad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

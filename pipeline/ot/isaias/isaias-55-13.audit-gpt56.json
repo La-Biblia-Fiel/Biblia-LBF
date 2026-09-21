@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 55:13",
+  "chapter": 55,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "En lugar del espino subirá ciprés; el cardo subirá mirto; y será a Jehová a nombre, a señal eterna no será cortada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055013009",
+        "h23055013010",
+        "h23055013011",
+        "h23055013012"
+      ],
+      "issue": "mangles prepositions and structure of ליהוה לשם לאות עולם into awkward 'a Jehová a nombre, a señal eterna'",
+      "spanishSpan": "y será a Jehová a nombre, a señal eterna"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055013011",
+        "h23055013012"
+      ],
+      "issue": "resolves לְאוֹת עוֹלָם construct by making 'señal eterna' (adjective) instead of preserving separate 'for a sign' + 'eternity'",
+      "spanishSpan": "a señal eterna"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

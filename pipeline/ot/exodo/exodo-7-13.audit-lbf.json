@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:13",
+  "chapter": 7,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y endureció el corazón de Faraón, y no les dio oído, como había dicho el Señor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007013001",
+        "h02007013002"
+      ],
+      "issue": "Qal וַיֶּחֱזַק with לֵב as subject = heart became strong/hard; Spanish transitive ‘endureció el corazón’ invents an external hardener and changes stem force",
+      "spanishSpan": "endureció el corazón de Faraón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

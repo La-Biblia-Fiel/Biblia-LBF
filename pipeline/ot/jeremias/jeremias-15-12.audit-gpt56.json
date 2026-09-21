@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:12",
+  "chapter": 15,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Se romperá el hierro con el hierro del norte, o el estaño?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015012005"
+      ],
+      "issue": "נְחֹשֶׁת rendered as estaño (tin) instead of bronze/copper",
+      "spanishSpan": "el estaño"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015012005"
+      ],
+      "issue": "conjunction וּ changed to o (or)",
+      "spanishSpan": "o el estaño"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

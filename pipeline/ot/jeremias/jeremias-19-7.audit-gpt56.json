@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:7",
+  "chapter": 19,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y haré que Judá y Jerusalén sean objeto de consejo en este lugar, y los haré caer a la espada delante de sus enemigos y en la mano de los que buscan sus vidas; y entregaré sus cadáveres a ser comida para las aves del cielo y para las bestias de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019007001",
+        "h24019007003"
+      ],
+      "issue": "adds 'sean objeto de consejo' (making Judah/Jerusalem the object) instead of licensing 'make void/empty the counsel'",
+      "spanishSpan": "haré que Judá y Jerusalén sean objeto de consejo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

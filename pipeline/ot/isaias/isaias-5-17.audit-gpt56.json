@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 5:17",
+  "chapter": 5,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y pastarán corderos como su modo, y ruinas de gordos extranjeros comerán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005017004",
+        "h23005017005",
+        "h23005017006"
+      ],
+      "issue": "Spanish attaches גרים as modifier to מחים (ruinas de gordos extranjeros) instead of leaving it as separate subject participle; changes participant structure licensed by the tokens",
+      "spanishSpan": "ruinas de gordos extranjeros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

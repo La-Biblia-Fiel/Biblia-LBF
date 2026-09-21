@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:22",
+  "chapter": 37,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "esto la palabra que habló Jehová sobre él: Despreció a ti, se burló a ti, virgen hija de Tsiyón; detrás de ti cabeza movió hija de Yerushaláyim.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037022013",
+        "h23037022018"
+      ],
+      "issue": "Hebraized proper names Tsiyón / Yerushaláyim instead of conventional Spanish forms",
+      "spanishSpan": "Tsiyón; Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

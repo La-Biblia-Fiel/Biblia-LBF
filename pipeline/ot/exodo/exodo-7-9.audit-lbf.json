@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:9",
+  "chapter": 7,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Cuando Faraón os diga: Haced un prodigio, dirás a Aarón: Toma tu bastón y tórnalo en serpiente ante Faraón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007009003"
+      ],
+      "issue": "2mp אֲלֵכֶם requires Latin American ustedes; vosotros ‘os’ is the wrong variety",
+      "spanishSpan": "os"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007009015",
+        "h02007009018",
+        "h02007009019"
+      ],
+      "issue": "וְהַשְׁלֵךְ licenses cast/throw, then יְהִי לְתַנִּין ‘let it become a tannin’; ‘tórnalo en serpiente’ replaces throw+become with turn-into",
+      "spanishSpan": "tórnalo en serpiente"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007009007"
+      ],
+      "issue": "לָכֶם (‘for yourselves’) is omitted",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 28:17",
+  "chapter": 28,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y pondré juicio a cordel, y justicia a nivel; y barrerá granizo refugio de mentira, y escondite aguas inundarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028017006",
+        "h23028017007",
+        "h23028017008",
+        "h23028017009"
+      ],
+      "issue": "Spanish inverts verb-subject order and omits required subject role for hail, producing ungrammatical parsing that does not match 3ms verb + hail subject + refuge object",
+      "spanishSpan": "barrerá granizo refugio de mentira"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028017010",
+        "h23028017011",
+        "h23028017012"
+      ],
+      "issue": "Spanish inverts subject-verb order, placing waters after escondite and making the clause unparseable against 3mp verb + waters subject + hiding-place object",
+      "spanishSpan": "escondite aguas inundarán"
+    }
+  ],
+  "notes": "first clause acceptable; second clause syntax fails token structure",
+  "discardedUncitedFindings": 0
+}

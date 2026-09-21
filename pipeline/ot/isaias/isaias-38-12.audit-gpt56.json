@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:12",
+  "chapter": 38,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Mi generación fue partida y fue revelada de mí como tienda de pastor; enrollé como tejedor mi vida; de la trama me corta; de día hasta noche me acabas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038012003"
+      ],
+      "issue": "נגלה rendered as 'fue revelada' (revealed) instead of removal/taken away",
+      "spanishSpan": "fue revelada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

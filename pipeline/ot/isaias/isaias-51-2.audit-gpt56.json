@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:2",
+  "chapter": 51,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Miren a Abraham su padre de ustedes, y a Sara que los dio a luz a ustedes; porque uno lo llamé, y lo bendije, y lo multipliqué.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051002007"
+      ],
+      "issue": "Spanish 'que los dio a luz a ustedes' misparses 3fs verb + 2mp suffix and inserts unlicensed 'los'",
+      "spanishSpan": "que los dio a luz a ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:2",
+  "chapter": 10,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová: No aprendáis el camino de las naciones, ni os dejéis llevar por los signos de los cielos; porque los gentiles se asombran de ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010002012"
+      ],
+      "issue": "Niphal jussive of 2865 rendered as 'os dejéis llevar' (introduces 'carry/lead' concept absent from lemma and morph)",
+      "spanishSpan": "ni os dejéis llevar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010002014"
+      ],
+      "issue": "qal impf of 2865 rendered as 'se asombran' (introduces 'astonish/marvel' nuance not licensed by lemma)",
+      "spanishSpan": "se asombran"
+    }
+  ],
+  "notes": "smoothing changes verb sense",
+  "discardedUncitedFindings": 0
+}

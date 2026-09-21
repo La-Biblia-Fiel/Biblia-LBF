@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:3",
+  "chapter": 36,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y salió a él Elyaqim hijo de Jilqiyahu, que sobre la casa, y Shevná el escriba, y Yoaj hijo de Asaf el recordador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036003003",
+        "h23036003005",
+        "h23036003009",
+        "h23036003011",
+        "h23036003013"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Elyaqim ... Jilqiyahu ... Shevná ... Yoaj ... Asaf"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

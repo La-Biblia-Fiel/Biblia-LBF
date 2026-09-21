@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:2",
+  "chapter": 7,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Tú hablarás todo lo que yo te ordene, y tu hermano Aarón hablará a Faraón para que envíe a los hijos de Israel de su tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007002012"
+      ],
+      "issue": "וְשִׁלַּח is sequential perfect result (‘and he will send’), not purpose; ‘para que envíe’ adds purpose force the tokens do not license",
+      "spanishSpan": "para que envíe"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

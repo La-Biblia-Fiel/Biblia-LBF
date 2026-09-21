@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 5:11",
+  "chapter": 5,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay, los que madrugan en la mañana, sidra persiguen; retardándose en el crepúsculo, vino los enciende!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005011004"
+      ],
+      "issue": "sidra specifies a particular fermented drink (cider) not licensed by the lemma or surface of שֵׁכָר",
+      "spanishSpan": "sidra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

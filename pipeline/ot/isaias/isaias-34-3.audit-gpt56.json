@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 34:3",
+  "chapter": 34,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sus heridos serán arrojados, y de sus cadáveres subirá su hedor, y se derretirán montes de su sangre.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23034003003",
+        "h23034003004",
+        "h23034003005"
+      ],
+      "issue": "added preposition 'de' not present in tokens; grammatical smoothing",
+      "spanishSpan": "de sus cadáveres subirá su hedor"
+    }
+  ],
+  "notes": "otherwise matches tokens without adding/omitting concepts",
+  "discardedUncitedFindings": 0
+}

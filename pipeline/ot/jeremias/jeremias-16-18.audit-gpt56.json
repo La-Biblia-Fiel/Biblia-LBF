@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:18",
+  "chapter": 16,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y pagaré primero a ellos la doble de su iniquidad y de su pecado, por haber profanado mi tierra con los cadáveres de sus abominaciones y con sus abominaciones llenaron mi heredad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016018001"
+      ],
+      "issue": "adds indirect object 'a ellos' not present in any token",
+      "spanishSpan": "a ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016018007"
+      ],
+      "issue": "renders piel inf construct + 3mp suffix as causal 'por haber profanado' instead of 'their profaning'",
+      "spanishSpan": "por haber profanado"
+    }
+  ],
+  "notes": "addition of recipient and causal restructuring exceed token license",
+  "discardedUncitedFindings": 0
+}

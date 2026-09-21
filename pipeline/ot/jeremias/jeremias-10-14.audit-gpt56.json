@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:14",
+  "chapter": 10,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Todo hombre se avergüenza de su entendimiento, y todo fundidor de su estatua; porque es mentira su ofrenda, y no hay espíritu en ellas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010014001",
+        "h24010014004"
+      ],
+      "issue": "Spanish applies shame verb to 'man' and renders מִדַּעַת as 'de su entendimiento'; tokens show Niphal בָּעַר + מִן + דַּעַת",
+      "spanishSpan": "Todo hombre se avergüenza de su entendimiento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010014005",
+        "h24010014006",
+        "h24010014007",
+        "h24010014008"
+      ],
+      "issue": "Spanish attaches shame to 'fundidor' and 'estatua' as if one phrase; tokens separate two clauses with different verbs and objects",
+      "spanishSpan": "y todo fundidor de su estatua"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010014011"
+      ],
+      "issue": "נִסְכּוֹ rendered as 'ofrenda' (libation sense) instead of molten image/statue sense licensed by context of פֶּסֶל",
+      "spanishSpan": "su ofrenda"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010014014"
+      ],
+      "issue": "suffix בָּם is 3mp; Spanish 'ellas' shifts gender without token license",
+      "spanishSpan": "en ellas"
+    }
+  ],
+  "notes": "first clause verb and structure wholly mismatched",
+  "discardedUncitedFindings": 0
+}

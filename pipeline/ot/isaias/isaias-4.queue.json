@@ -1,0 +1,114 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 4,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "holds": [
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "cuando lave Adonai el excremento de hijas de Tsiyón, y las sangres de Yerushaláyim lave de su seno, en espíritu de juicio y en espíritu de quemar.",
+      "notes": "proper names and conditional particle handled acceptably",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23004004012"
+          ],
+          "issue": "mismatch on מִקִּרְבָּ֑הּ (from her midst) rendered as 'de su seno' (her bosom)",
+          "spanishSpan": "de su seno"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23004004002",
+            "h23004004011"
+          ],
+          "issue": "two distinct verbs (רחץ qal pf 3ms wash + ידח hiphil impf 3ms remove) collapsed into repeated 'lave'",
+          "spanishSpan": "lave ... lave"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y enramada será para sombra de día del calor, y para refugio y para escondite de diluvio y de lluvia.",
+      "notes": "also 'enramada' and 'diluvio' are interpretive but secondary to the structural mismatch",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23004006004",
+            "h23004006005"
+          ],
+          "issue": "misparses יוֹמָם מֵחֹרֶב as single genitive phrase 'de día del calor'",
+          "spanishSpan": "de día del calor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23004006006",
+            "h23004006007",
+            "h23004006008",
+            "h23004006009"
+          ],
+          "issue": "attaches 'de' to refugio and escondite, changing מַחְסֶה and מִסְתּוֹר from destinations to containers of the storm/rain",
+          "spanishSpan": "para refugio y para escondite de diluvio y de lluvia"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T13:43:17.273895+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 6,
+    "verses": 6,
+    "input": 13774,
+    "cachedInput": 3072,
+    "output": 493,
+    "reasoning": 5882,
+    "usd": 0.0612,
+    "byProvider": {
+      "xai": {
+        "calls": 6,
+        "input": 13774,
+        "output": 493,
+        "reasoning": 5882,
+        "usd": 0.0612
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 6,
+        "input": 13774,
+        "output": 493,
+        "reasoning": 5882,
+        "usd": 0.0612
+      }
+    },
+    "usdPerVerse": 0.0102,
+    "bibleAtThisRate": 317.0,
+    "book": "isaias",
+    "chapter": 4
+  }
+}

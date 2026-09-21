@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:13",
+  "chapter": 43,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "También desde día yo él, y no hay de mi mano libertador; obraré, y ¿quién la devolverá?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043013002",
+        "h23043013003",
+        "h23043013004"
+      ],
+      "issue": "Spanish 'desde día yo él' mangles the sequence miyyom ani hu into incoherent phrasing and fails to render the identification 'I [am] he' licensed by the tokens",
+      "spanishSpan": "desde día yo él"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

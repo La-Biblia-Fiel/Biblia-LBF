@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 21:5",
+  "chapter": 21,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Poner la mesa, extender la tapicería, comer, beber. Levántense, príncipes, unjan escudo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23021005003",
+        "h23021005004"
+      ],
+      "issue": "mistranslates צָפֹה הַצָּפִית as 'extender la tapicería' (tapestry/upholstery); tokens license infinitive absolute 'watch' + 'the lookout/watch'",
+      "spanishSpan": "extender la tapicería"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

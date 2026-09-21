@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:23",
+  "chapter": 7,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Faraón se volvió y entró en su palacio, y no puso atención a esto tampoco.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007023005"
+      ],
+      "issue": "בֵּיתוֹ is ‘his house’; ‘palacio’ specializes to palace beyond the lemma",
+      "spanishSpan": "palacio"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007023007",
+        "h02007023008"
+      ],
+      "issue": "לֹא שָׁת לִבּוֹ is ‘he did not set his heart’; ‘no puso atención’ omits explicit לֵב",
+      "spanishSpan": "no puso atención"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

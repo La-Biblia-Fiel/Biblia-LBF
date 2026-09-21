@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 49:5",
+  "chapter": 49,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora dijo Jehová, mi Formador desde vientre para siervo a él, para hacer volver a Yaakov a él, e Israel será reunido; y seré honrado en ojos de Jehová, y mi Dios fue mi fuerza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23049005009"
+      ],
+      "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "name rendering violates PROPER_NAMES rule",
+  "discardedUncitedFindings": 0
+}

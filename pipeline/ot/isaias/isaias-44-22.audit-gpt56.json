@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:22",
+  "chapter": 44,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Borré como nube tus rebeliones, y como nube tus pecados; vuelve a mí, porque te redimí.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23044022002",
+        "h23044022004"
+      ],
+      "issue": "omits definite article on both cloud nouns (grammatical smoothing)",
+      "spanishSpan": "como nube"
+    }
+  ],
+  "notes": "otherwise matches tokens exactly",
+  "discardedUncitedFindings": 0
+}

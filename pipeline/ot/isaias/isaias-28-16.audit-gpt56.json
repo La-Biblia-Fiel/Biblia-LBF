@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 28:16",
+  "chapter": 28,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto así dijo Adonai Jehová: Heme aquí, fundé en Tsiyón piedra, piedra de prueba, esquina de estima, fundamento fundado; el que cree no se apresurará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028016007"
+      ],
+      "issue": "verb morphology 3ms changed to 1sg person",
+      "spanishSpan": "fundé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028016008"
+      ],
+      "issue": "proper name Hebraized instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 28:28",
+  "chapter": 28,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Pan es machacado, porque no para siempre trillando lo trillará, y alborotó rueda de su carro y sus caballos; no lo machacará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028028008"
+      ],
+      "issue": "וְהָמַם (seq perf 3ms) rendered as past preterite 'alborotó' instead of future/sequential",
+      "spanishSpan": "y alborotó"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

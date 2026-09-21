@@ -1,0 +1,29 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:9",
+  "chapter": 7,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cabeza de Efráyim Shomrón, y cabeza de Shomrón hijo de Remalyahu. Si no creyeren ustedes, porque no serán afirmados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007009001",
+        "h23007009002",
+        "h23007009003",
+        "h23007009004",
+        "h23007009005",
+        "h23007009006",
+        "h23007009007"
+      ],
+      "issue": "verbless clause structure altered; Spanish phrasing 'cabeza de Efráyim Shomrón' adds apposition/grouping not licensed by separate tokens and omits the predicate relation",
+      "spanishSpan": "Y cabeza de Efráyim Shomrón, y cabeza de Shomrón hijo de Remalyahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

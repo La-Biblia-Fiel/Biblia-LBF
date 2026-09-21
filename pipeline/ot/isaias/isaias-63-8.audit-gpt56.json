@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 63:8",
+  "chapter": 63,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo: Ciertamente mi pueblo ellos, hijos no mentirán; y fue a ellos a Salvador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063008008",
+        "h23063008009",
+        "h23063008010"
+      ],
+      "issue": "last clause rendered as directional motion to a proper title instead of 'he was/became to them a savior'",
+      "spanishSpan": "y fue a ellos a Salvador"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063008003",
+        "h23063008004"
+      ],
+      "issue": "missing copula and affirmation structure; tokens require 'they [are] my people'",
+      "spanishSpan": "mi pueblo ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063008010"
+      ],
+      "issue": "common noun turned capitalized title not licensed by lemma or morphology",
+      "spanishSpan": "Salvador"
+    }
+  ],
+  "notes": "multiple token mismatches in final clause and nominal phrase",
+  "discardedUncitedFindings": 0
+}

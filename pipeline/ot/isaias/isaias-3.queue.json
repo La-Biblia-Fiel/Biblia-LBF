@@ -1,0 +1,267 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 3,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    9,
+    10,
+    11,
+    13,
+    14,
+    16,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26
+  ],
+  "holds": [
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y daré muchachos sus jefes, y caprichos mandarán en ellos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003004001",
+            "h23003004002",
+            "h23003004003"
+          ],
+          "issue": "Spanish clause structure fails to license youths as the princes; renders as giving boys their own jefes instead of setting youths over them as sarim",
+          "spanishSpan": "daré muchachos sus jefes"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Alzará en el día aquel, diciendo: No seré vendador, y en mi casa no hay pan y no hay manto; no me pongan ustedes jefe de pueblo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003007007"
+          ],
+          "issue": "חֹבֵ֔שׁ rendered as 'vendador' (unlicensed concept; lemma H2280 = bind/wrap)",
+          "spanishSpan": "vendador"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque tropezó Yerushaláyim, y Yehudá cayó, porque su lengua y sus hechos hacia Jehová, para rebelar los ojos de su gloria.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003008011",
+            "h23003008012",
+            "h23003008013"
+          ],
+          "issue": "לַמְר֖וֹת עֵנֵ֥י כְבוֹדוֹ rendered as 'para rebelar los ojos de su gloria' which alters the sense of rebelling against the eyes",
+          "spanishSpan": "para rebelar los ojos de su gloria"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mi pueblo, sus opresores, niño, y mujeres mandaron en él. Mi pueblo, tus bienaventuradores extravían, y camino de tus sendas tragaron.",
+      "notes": "multiple structural mismatches with participles and construct chain",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003012003"
+          ],
+          "issue": "adds noun 'niño' not licensed by the m-ptcp token or lemma 5953 c",
+          "spanishSpan": "niño"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003012008",
+            "h23003012009"
+          ],
+          "issue": "collapses two distinct participles into single phrase 'tus bienaventuradores extravían'",
+          "spanishSpan": "tus bienaventuradores extravían"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003012010",
+            "h23003012011",
+            "h23003012012"
+          ],
+          "issue": "reorders and nominalizes 'way of your paths' as object of 'tragar'",
+          "spanishSpan": "camino de tus sendas tragaron"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Aplastan a mi pueblo, y faces de pobres muelen, dicho de Adonai Jehová de ejércitos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003015001",
+            "h23003015005"
+          ],
+          "issue": "2mp verbs rendered as 3rd-person plural, changing addressees to a different third party",
+          "spanishSpan": "Aplastan ... muelen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003015003",
+            "h23003015004",
+            "h23003015005"
+          ],
+          "issue": "word order and syntax invert the object-verb relation licensed by the tokens",
+          "spanishSpan": "y faces de pobres muelen"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "y despojará Adonai la coronilla de hijas de Tsiyón, y Jehová su desnudez descubrirá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003017001"
+          ],
+          "issue": "verb rendered as 'despojará' which adds unlicensed concept not present in lemma/strongs/morph of first token",
+          "spanishSpan": "despojará"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el día aquel apartará Adonai el adorno de los tobillos y las redecillas y las lunetas,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003018006",
+            "h23003018007"
+          ],
+          "issue": "renders תִּפְאֶרֶת הָעֲכָסִים as 'adorno de los tobillos' (interprets anklets as ankles)",
+          "spanishSpan": "el adorno de los tobillos"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "y los espejos y las sábanas y las mitras y los chales.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23003023001",
+            "h23003023002",
+            "h23003023003",
+            "h23003023004"
+          ],
+          "issue": "Spanish supplies specific noun glosses (espejos, sábanas, mitras, chales) with no glosses or semantic content present in any packet token",
+          "spanishSpan": "espejos sábanas mitras chales"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T13:42:16.176525+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 26,
+    "verses": 26,
+    "input": 48076,
+    "cachedInput": 13248,
+    "output": 1427,
+    "reasoning": 21972,
+    "usd": 0.2167,
+    "byProvider": {
+      "xai": {
+        "calls": 26,
+        "input": 48076,
+        "output": 1427,
+        "reasoning": 21972,
+        "usd": 0.2167
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 26,
+        "input": 48076,
+        "output": 1427,
+        "reasoning": 21972,
+        "usd": 0.2167
+      }
+    },
+    "usdPerVerse": 0.0083,
+    "bibleAtThisRate": 259.0,
+    "book": "isaias",
+    "chapter": 3
+  }
+}

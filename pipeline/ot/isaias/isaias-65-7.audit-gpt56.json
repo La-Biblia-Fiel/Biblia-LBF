@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 65:7",
+  "chapter": 65,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "sus iniquidades de ustedes y iniquidades de sus padres de ustedes a una, dijo Jehová, que quemaron incienso sobre los montes, y sobre las colinas me afrentaron; y mediré su obra primera a su seno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065007015",
+        "h23065007017"
+      ],
+      "issue": "3mp suffixes rendered as singular 'su' instead of plural 'sus'",
+      "spanishSpan": "su obra primera a su seno"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065007001",
+        "h23065007002",
+        "h23065007003"
+      ],
+      "issue": "redundant and mismatched phrasing of constructs and 2mp suffixes",
+      "spanishSpan": "sus iniquidades de ustedes y iniquidades de sus padres de ustedes"
+    }
+  ],
+  "notes": "singular 'su' mismatches 3mp; extra repetition not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 23:12",
+  "chapter": 23,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo: No añadirás aún a exultar, oprimida, virgen hija de Tsidón; levántate, pasa; también allá no hay reposo a ti.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23023012015"
+      ],
+      "issue": "grammatical smoothing of imperfect to present tense",
+      "spanishSpan": "no hay"
+    }
+  ],
+  "notes": "minor tense smoothing only",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 60:13",
+  "chapter": 60,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Gloria del Levanón a ti vendrá: ciprés, olmo y boj juntos, para embellecer lugar de mi santuario, y lugar de mis pies honraré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23060013002"
+      ],
+      "issue": "uses non-conventional Hebraized form Levanón instead of conventional Spanish proper name Líbano",
+      "spanishSpan": "Levanón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23060013005",
+        "h23060013006",
+        "h23060013007"
+      ],
+      "issue": "assigns specific species identifications (ciprés, olmo, boj) that the bare lemmas do not license",
+      "spanishSpan": "ciprés, olmo y boj"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

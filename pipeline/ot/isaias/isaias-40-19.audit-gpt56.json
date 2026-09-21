@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:19",
+  "chapter": 40,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "El ídolo fundió artífice, y fundidor con el oro lo lamina, y cadenas de plata fundidor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040019001",
+        "h23040019002",
+        "h23040019003"
+      ],
+      "issue": "reverses participants: makes ídolo subject of fundió instead of object of casting by חָרָשׁ",
+      "spanishSpan": "El ídolo fundió artífice"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040019007",
+        "h23040019008",
+        "h23040019009"
+      ],
+      "issue": "incomplete clause; omits verb/action linking צוֹרֵף to the chains",
+      "spanishSpan": "y cadenas de plata fundidor"
+    }
+  ],
+  "notes": "word order and syntax distort the token sequence and roles",
+  "discardedUncitedFindings": 0
+}

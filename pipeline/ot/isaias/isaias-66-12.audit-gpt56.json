@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 66:12",
+  "chapter": 66,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así dijo Jehová: He aquí yo extendiendo a ella como río paz, y como arroyo inundante gloria de naciones; y mamarán ustedes; sobre costado serán llevados, y sobre rodillas serán mecidos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066012017",
+        "h23066012020"
+      ],
+      "issue": "2mp verbs rendered as 3rd-person passive without ustedes address, shifting participants",
+      "spanishSpan": "sobre costado serán llevados, y sobre rodillas serán mecidos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

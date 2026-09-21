@@ -1,0 +1,29 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 16:10",
+  "chapter": 16,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fue recogido gozo y alegría del Carmelo, y en las viñas no se cantará, no se gritará; vino en los lagares no pisará el pisador; heidad hice cesar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23016010011",
+        "h23016010012",
+        "h23016010013",
+        "h23016010014",
+        "h23016010015",
+        "h23016010016",
+        "h23016010017"
+      ],
+      "issue": "Spanish inverts syntax and participants of final clause; treats יין as subject and misplaces הידד as separate sentence instead of object of treading negated by tokens",
+      "spanishSpan": "vino en los lagares no pisará el pisador; heidad hice cesar"
+    }
+  ],
+  "notes": "first half acceptable; final clause fails token order and roles",
+  "discardedUncitedFindings": 0
+}

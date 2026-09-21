@@ -1,0 +1,231 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 56,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "passed": [
+    1,
+    3,
+    5,
+    8,
+    9,
+    11
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Dichoso hombre que hace esto, e hijo de hombre que se afirma en ella; guardando shabat de profanarlo, y guardando su mano de hacer todo mal.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23056002010"
+          ],
+          "issue": "untranslated non-name lemma left as Hebrew transliteration instead of Spanish common noun",
+          "spanishSpan": "shabat"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así dijo Jehová a los eunucos que guardan mis shabatot, y escogieron en lo que quise, y se afirman en mi pacto:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23056004009"
+          ],
+          "issue": "untranslated lemma left as Hebrew (shabatot) instead of Spanish noun",
+          "spanishSpan": "mis shabatot"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23056004007",
+            "h23056004010",
+            "h23056004013"
+          ],
+          "issue": "tense/person mismatch: impf rendered present, seq-perf rendered past, ptc rendered present finite verb",
+          "spanishSpan": "que guardan ... y escogieron ... y se afirman"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y hijos del extranjero los allegados sobre Jehová para ministrarle, y para amar el nombre de Jehová, para serle a siervos; todo guardando shabat de profanarlo, y afirmándose en mi pacto,",
+      "notes": "multiple syntax and preposition mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23056006013"
+          ],
+          "issue": "wrong preposition and structure for לַעֲבָדִים; 'serle a siervos' adds un-licensed 'a' and fails to render construct purpose",
+          "spanishSpan": "para serle a siervos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23056006014",
+            "h23056006015",
+            "h23056006016",
+            "h23056006017"
+          ],
+          "issue": "omits participial force of כָּל שֹׁמֵר and misrenders מֵחַלְּלוֹ as 'de profanarlo' instead of 'from profaning it'",
+          "spanishSpan": "todo guardando shabat de profanarlo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23056006018",
+            "h23056006019"
+          ],
+          "issue": "מַחֲזִיקִים rendered as 'afirmándose' which adds reflexive theology not in the hiphil participle or בִּבְרִיתִי",
+          "spanishSpan": "afirmándose en mi pacto"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "y los traeré al monte de mi santidad, y los alegraré en casa de mi oración; sus holocaustos y sus sacrificios a agrado sobre mi altar; porque mi casa, casa de oración será llamada a todos los pueblos.",
+      "notes": "last clause only",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23056007015",
+            "h23056007016",
+            "h23056007017",
+            "h23056007018",
+            "h23056007019"
+          ],
+          "issue": "Spanish inverts the niphal calling construction and לְכָל predicate so that 'casa de oración' becomes the subject being called rather than the predicate nominative",
+          "spanishSpan": "casa de oración será llamada a todos los pueblos"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-polish",
+      "verdict": "fail",
+      "spanish": "Ciegos todos ellos, no conocieron; todos ellos, como perros mudos, no pueden ladrar; soñando, yaciendo, amantes de dormitar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23056010006",
+            "h23056010007"
+          ],
+          "issue": "adds 'como' (like/as) creating a simile absent from the equative construction of the tokens",
+          "spanishSpan": "como perros mudos"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Vengan, tomaré vino, y nos embriaguemos de sidra; y será como este día mañana, grande, resto mucho.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23056012006",
+            "h23056012007",
+            "h23056012008",
+            "h23056012009",
+            "h23056012010",
+            "h23056012011",
+            "h23056012012"
+          ],
+          "issue": "Spanish mangles syntax and word order of וְהָיָה כַזֶּה יוֹם מָחָר גָּדוֹל יֶתֶר מְאֹד into nonsensical 'como este día mañana, grande, resto mucho'",
+          "spanishSpan": "como este día mañana, grande, resto mucho"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:23:02.850444+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 14,
+    "verses": 12,
+    "input": 33292,
+    "cachedInput": 10240,
+    "output": 3914,
+    "reasoning": 12184,
+    "usd": 0.1589,
+    "byProvider": {
+      "xai": {
+        "calls": 13,
+        "input": 30205,
+        "output": 1149,
+        "reasoning": 12184,
+        "usd": 0.125
+      },
+      "anthropic": {
+        "calls": 1,
+        "input": 3087,
+        "output": 2765,
+        "reasoning": 0,
+        "usd": 0.0338
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 12,
+        "input": 27965,
+        "output": 1057,
+        "reasoning": 10872,
+        "usd": 0.1135
+      },
+      "polish": {
+        "calls": 1,
+        "input": 3087,
+        "output": 2765,
+        "reasoning": 0,
+        "usd": 0.0338
+      },
+      "audit-polish": {
+        "calls": 1,
+        "input": 2240,
+        "output": 92,
+        "reasoning": 1312,
+        "usd": 0.0116
+      }
+    },
+    "usdPerVerse": 0.0132,
+    "bibleAtThisRate": 412.0,
+    "book": "isaias",
+    "chapter": 56
+  }
+}

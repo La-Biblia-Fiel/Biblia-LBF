@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:3",
+  "chapter": 12,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tú, SEÑOR, me conoces, me ves, me pruebas el corazón con ti. Has preparado a los justos como a ovejas para el matadero, y los consagras para el día de su sacrificio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012003002"
+      ],
+      "issue": "יהוה rendered as SEÑOR instead of Jehová",
+      "spanishSpan": "SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012003008"
+      ],
+      "issue": "הַתִּקֵם (tear/pull away) rendered as has preparado",
+      "spanishSpan": "Has preparado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012003008",
+        "h24012003009",
+        "h24012003010"
+      ],
+      "issue": "adds 'los justos' and changes 'pull them like sheep to slaughter' structure",
+      "spanishSpan": "a los justos como a ovejas para el matadero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012003011",
+        "h24012003012",
+        "h24012003013"
+      ],
+      "issue": "changes 'consecrate them for the day of slaughter' to 'consagras para el día de su sacrificio'",
+      "spanishSpan": "los consagras para el día de su sacrificio"
+    }
+  ],
+  "notes": "multiple additions, substitutions and verb changes not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

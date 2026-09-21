@@ -1,0 +1,218 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 19,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25
+  ],
+  "holds": [
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y entregaré a Mizraim en mano de señores duros, y rey fuerte señoreará en ellos, dicho del señor, Jehová de ejércitos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23019004001"
+          ],
+          "issue": "verb rendered as entregaré (deliver/hand over) but lemma 5534 / surface סכר licenses only close/shut/stop",
+          "spanishSpan": "Y entregaré"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Descubiertos sobre Yeor, sobre boca de Yeor, y todo sembrado de Yeor se secará, será empujado, y no hay él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23019007001"
+          ],
+          "issue": "עָר֥וֹת (HNcfpa noun) rendered as adjective 'Descubiertos' instead of a noun",
+          "spanishSpan": "Descubiertos"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y se avergonzarán obreros de linos peinados, y tejedores de blancos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23019009004"
+          ],
+          "issue": "resolves ambiguity of fpa adjective by attaching 'peinados' to 'linos'",
+          "spanishSpan": "linos peinados"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no habrá a Mizraim obra que haga cabeza y cola, palma y junco.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23019015005",
+            "h23019015006"
+          ],
+          "issue": "Spanish makes 'obra' the agent of 'haga', changing the relative clause participant and verb subject from the Hebrew 3ms yaʿăśeh after ʾăšer",
+          "spanishSpan": "obra que haga"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23019015004",
+            "h23019015003"
+          ],
+          "issue": "Spanish 'a Mizraim obra' inverts the prepositional phrase and noun order licensed by ləmiṣrayim maʿăśeh",
+          "spanishSpan": "a Mizraim obra"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-polish",
+      "verdict": "fail",
+      "spanish": "En aquel día, Israel será tercero para Mizraim y para Ashur, bendición en seno de la tierra,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23019024009"
+          ],
+          "issue": "קֶרֶב rendered as 'seno' (adds un-licensed body-part concept)",
+          "spanishSpan": "seno de la tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23019024005"
+          ],
+          "issue": "feminine ordinal שְׁלִישִׁיָּה rendered as masculine 'tercero'",
+          "spanishSpan": "será tercero"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:30:43.865830+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 27,
+    "verses": 25,
+    "input": 57857,
+    "cachedInput": 20352,
+    "output": 4040,
+    "reasoning": 24567,
+    "usd": 0.2686,
+    "byProvider": {
+      "xai": {
+        "calls": 26,
+        "input": 55259,
+        "output": 1107,
+        "reasoning": 24567,
+        "usd": 0.234
+      },
+      "anthropic": {
+        "calls": 1,
+        "input": 2598,
+        "output": 2933,
+        "reasoning": 0,
+        "usd": 0.0345
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 25,
+        "input": 53347,
+        "output": 958,
+        "reasoning": 23478,
+        "usd": 0.224
+      },
+      "polish": {
+        "calls": 1,
+        "input": 2598,
+        "output": 2933,
+        "reasoning": 0,
+        "usd": 0.0345
+      },
+      "audit-polish": {
+        "calls": 1,
+        "input": 1912,
+        "output": 149,
+        "reasoning": 1089,
+        "usd": 0.01
+      }
+    },
+    "usdPerVerse": 0.0107,
+    "bibleAtThisRate": 334.0,
+    "book": "isaias",
+    "chapter": 19
+  }
+}

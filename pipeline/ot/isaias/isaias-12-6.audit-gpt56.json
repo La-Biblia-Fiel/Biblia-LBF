@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 12:6",
+  "chapter": 12,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Grita y canta, moradora de Tsiyón, porque grande en tu seno el Santo de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23012006007"
+      ],
+      "issue": "seno adds slight bodily nuance not directly licensed by קרב",
+      "spanishSpan": "en tu seno"
+    }
+  ],
+  "notes": "otherwise faithful to tokens and 2fs address",
+  "discardedUncitedFindings": 0
+}

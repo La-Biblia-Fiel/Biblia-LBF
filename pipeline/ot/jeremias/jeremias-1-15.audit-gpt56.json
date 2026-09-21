@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:15",
+  "chapter": 1,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque he aquí que llamo a todas las tribus de las naciones del norte, dice el Señor, y vendrán y cada uno pondrá su trono en la puerta de Jerusalén y alrededor de todas sus murallas, y contra todos los lugares de Judá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001015005",
+        "h24001015006"
+      ],
+      "issue": "משפחות ממלכות rendered as 'tribus de las naciones' (adds naciones, changes families/kingdoms)",
+      "spanishSpan": "todas las tribus de las naciones del norte"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001015008",
+        "h24001015009"
+      ],
+      "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' (changes oracle formula and title)",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001015014",
+        "h24001015015"
+      ],
+      "issue": "פֶּתַח שַׁעֲרֵי rendered as singular 'puerta'",
+      "spanishSpan": "en la puerta de Jerusalén"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001015023"
+      ],
+      "issue": "עָרֵי rendered as 'lugares' instead of cities",
+      "spanishSpan": "todos los lugares de Judá"
+    }
+  ],
+  "notes": "multiple lexical substitutions and number changes",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:10",
+  "chapter": 13,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Este pueblo, que es rebelde, que no quiere escuchar mis palabras, que anda según su propio corazón, que sigue a dioses ajenos para servirles y adorarles, será como este cinto, que no sirve para nada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013010003"
+      ],
+      "issue": "omits licensed adjective 'evil'",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013010009"
+      ],
+      "issue": "omits 'stubbornness' concept, rendering only 'propio corazón'",
+      "spanishSpan": "según su propio corazón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013010004"
+      ],
+      "issue": "adds interpretive 'rebelde' not licensed by the participle",
+      "spanishSpan": "que es rebelde"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

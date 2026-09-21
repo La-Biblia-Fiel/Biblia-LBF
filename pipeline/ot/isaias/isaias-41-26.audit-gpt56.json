@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:26",
+  "chapter": 41,
+  "verse": 26,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién anunció desde cabeza y conozcamos, y desde antes y digamos: Justo? También no hay anunciador, también no hay quien haga oír, también no hay oyendo sus dichos de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041026016",
+        "h23041026017"
+      ],
+      "issue": "renders shomea + imreychem as 'no hay oyendo sus dichos de ustedes' (wrong person on possessive + broken participle construction)",
+      "spanishSpan": "no hay oyendo sus dichos de ustedes"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23041026003"
+      ],
+      "issue": "literal 'cabeza' for ro'sh without context smoothing, but acceptable",
+      "spanishSpan": "desde cabeza"
+    }
+  ],
+  "notes": "2mp suffix mishandled; participle structure distorted in final clause",
+  "discardedUncitedFindings": 0
+}

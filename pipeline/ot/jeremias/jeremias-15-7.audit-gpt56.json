@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:7",
+  "chapter": 15,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "He echado a los que me abandonaron en los campos y en las calles de la ciudad; han perecido por seguir sus propios caminos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015007001",
+        "h24015007002",
+        "h24015007003",
+        "h24015007004"
+      ],
+      "issue": "Spanish replaces scattering with winnowing fork at gates of the land with throwing abandoners into fields and city streets",
+      "spanishSpan": "He echado a los que me abandonaron en los campos y en las calles de la ciudad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015007005",
+        "h24015007006",
+        "h24015007007",
+        "h24015007008"
+      ],
+      "issue": "Spanish omits bereaving and destroying my people",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015007009",
+        "h24015007010",
+        "h24015007011"
+      ],
+      "issue": "Spanish replaces 'from their ways they have not returned' with perishing by following their own paths",
+      "spanishSpan": "han perecido por seguir sus propios caminos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

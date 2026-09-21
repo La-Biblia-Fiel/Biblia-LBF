@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 55:5",
+  "chapter": 55,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí, nación no conocerás llamarás, y nación no te conocieron a ti correrán, por causa de Jehová tu Dios y por el Santo de Israel, porque te embelleció.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055005006",
+        "h23055005007",
+        "h23055005008",
+        "h23055005009",
+        "h23055005010"
+      ],
+      "issue": "jumbled clause: Spanish attaches 'a ti' to 'conocieron' and runs 'correrán' together, omitting clear 'a ti' + run structure",
+      "spanishSpan": "nación no te conocieron a ti correrán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055005002",
+        "h23055005003",
+        "h23055005004",
+        "h23055005005"
+      ],
+      "issue": "word order and missing connector between 'no conocerás' and 'llamarás' distorts the 'nation you will call' clause",
+      "spanishSpan": "nación no conocerás llamarás"
+    }
+  ],
+  "notes": "syntax mangling changes participant flow licensed by the tokens",
+  "discardedUncitedFindings": 0
+}

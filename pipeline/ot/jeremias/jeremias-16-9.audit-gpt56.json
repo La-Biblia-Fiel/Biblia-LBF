@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:9",
+  "chapter": 16,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque dice el SEÑOR de los ejércitos, el Dios de Israel: He aquí que quitaré de este lugar, ante sus ojos y en sus días, el sonido de la alegría y el sonido de la gozo, el sonido del novio y el sonido de la novia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016009013",
+        "h24016009014"
+      ],
+      "issue": "2mp suffixes rendered as 3rd-person 'sus' instead of 'vuestros'",
+      "spanishSpan": "ante sus ojos y en sus días"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016009002"
+      ],
+      "issue": "omits demonstrative adverb כֹה 'así'",
+      "spanishSpan": "Porque dice"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016009018"
+      ],
+      "issue": "feminine noun rendered with wrong gender article",
+      "spanishSpan": "la gozo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

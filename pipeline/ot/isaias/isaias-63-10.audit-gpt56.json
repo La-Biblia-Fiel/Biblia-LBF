@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 63:10",
+  "chapter": 63,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ellos se rebelaron y entristecieron a Espíritu de su santidad; y se volvió a ellos a enemigo; él combatió en ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063010005",
+        "h23063010006"
+      ],
+      "issue": "doctrinal capitalization of common noun as title",
+      "spanishSpan": "Espíritu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

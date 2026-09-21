@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 39:1",
+  "chapter": 39,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En el tiempo aquel envió Merodak Baladán hijo de Baladán rey de Bavel rollos y minjá a Jizqiyahu; y oyó que enfermó y se fortaleció.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23039001011"
+      ],
+      "issue": "untranslated lemma minḥâ left as minjá instead of Spanish rendering",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23039001004",
+        "h23039001005",
+        "h23039001009",
+        "h23039001013"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Merodak Baladán ... Bavel ... Jizqiyahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

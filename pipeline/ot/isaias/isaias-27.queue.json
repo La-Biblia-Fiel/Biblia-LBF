@@ -1,0 +1,207 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 27,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "passed": [
+    2,
+    3,
+    4,
+    5,
+    7,
+    10,
+    11,
+    13
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquel día visitará Jehová con su espada la dura y la grande y la fuerte sobre Livyatán, serpiente huyente, y sobre Livyatán, serpiente tortuosa, y matará al tanín que está en el mar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027001010",
+            "h23027001014"
+          ],
+          "issue": "Hebraized proper name Livyatán instead of conventional Spanish form",
+          "spanishSpan": "Livyatán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027001019"
+          ],
+          "issue": "untranslated lemma dump tanín for תנין",
+          "spanishSpan": "tanín"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los venideros echará raíz Yaakov, florecerá y brotará Israel, y llenarán faces de mundo fruto.",
+      "notes": "multiple agreement and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027006003"
+          ],
+          "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027006001",
+            "h23027006002"
+          ],
+          "issue": "misparses participle + hiphil subject structure, producing ungrammatical plural subject with singular verb",
+          "spanishSpan": "Los venideros echará raíz Yaakov"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027006008",
+            "h23027006009",
+            "h23027006010"
+          ],
+          "issue": "literal 'faces', wrong word order and missing construct rendering for 'fill the face of the world with fruit'",
+          "spanishSpan": "llenarán faces de mundo fruto"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En medida, al echarla, contenderás con ella; removió con su viento el duro en día de solano.",
+      "notes": "gender error on token 6",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027008006"
+          ],
+          "issue": "gender mismatch on adjective: feminine הַקָּשָׁה rendered as masculine 'el duro'",
+          "spanishSpan": "el duro"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto en esto será cubierto iniquidad de Yaakov, y este todo fruto de quitar su pecado: en poner él todas piedras de altar como piedras de cal desmenuzadas; no se levantarán aserim y pilares del sol.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027009005"
+          ],
+          "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027009020"
+          ],
+          "issue": "Hebraized proper name aserim",
+          "spanishSpan": "aserim"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027009021"
+          ],
+          "issue": "adds interpretive 'del sol' not licensed by the lemma or morphology of חַמָּנִים",
+          "spanishSpan": "pilares del sol"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será en aquel día: trillará Jehová desde espiga del Río hasta torrente de Mizraim, y ustedes serán recogidos uno a uno, hijos de Israel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027012010"
+          ],
+          "issue": "Hebraizes proper name Mizraim instead of conventional Spanish Egipto",
+          "spanishSpan": "Mizraim"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23027012006"
+          ],
+          "issue": "resolves ambiguous שבלת by choosing 'espiga' (ear of grain) which is not licensed over the stream/flood sense required by construct with river",
+          "spanishSpan": "espiga del Río"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:52:09.469722+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 13,
+    "verses": 13,
+    "input": 28808,
+    "cachedInput": 4672,
+    "output": 961,
+    "reasoning": 12288,
+    "usd": 0.1301,
+    "byProvider": {
+      "xai": {
+        "calls": 13,
+        "input": 28808,
+        "output": 961,
+        "reasoning": 12288,
+        "usd": 0.1301
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 13,
+        "input": 28808,
+        "output": 961,
+        "reasoning": 12288,
+        "usd": 0.1301
+      }
+    },
+    "usdPerVerse": 0.01,
+    "bibleAtThisRate": 311.0,
+    "book": "isaias",
+    "chapter": 27
+  }
+}

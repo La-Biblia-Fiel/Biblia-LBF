@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 32:15",
+  "chapter": 32,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "hasta que sea derramado sobre nosotros espíritu desde lo alto, y sea desierto a Karmel, y Karmel a bosque sea contado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23032015006",
+        "h23032015007",
+        "h23032015008",
+        "h23032015009",
+        "h23032015010"
+      ],
+      "issue": "Spanish splits and reassigns verbs, using 'sea' for the desert-to-Carmel clause and limiting 'sea contado' to the second clause only; tokens license single sequential 'וְהָיָה' + one Niphal reckoning verb applying to both transformations",
+      "spanishSpan": "y sea desierto a Karmel, y Karmel a bosque sea contado"
+    }
+  ],
+  "notes": "Karmel spelling also deviates from conventional form licensed by PROPER_NAMES.md rule",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 58:13",
+  "chapter": 58,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Si apartas del shabat tu pie, de hacer tus placeres en día de mi santidad, y llamas al shabat deleite, al santo de Jehová honrado, y lo honras de hacer tus caminos, de hallar tu placer y hablar palabra,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23058013016",
+        "h23058013018",
+        "h23058013020"
+      ],
+      "issue": "omits מִן 'from' (separation/abstaining) on the three infinitives under 'honor it', rendering as positive 'de hacer / de hallar / hablar' instead of refraining",
+      "spanishSpan": "de hacer tus caminos, de hallar tu placer y hablar palabra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

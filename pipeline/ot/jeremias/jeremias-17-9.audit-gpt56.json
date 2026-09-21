@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:9",
+  "chapter": 17,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "El corazón es engañoso de todos, y quien es él que lo conocerá?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017009004",
+        "h24017009005"
+      ],
+      "issue": "omits licensed concept וְאָנֻ֣שׁ ה֑וּא entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

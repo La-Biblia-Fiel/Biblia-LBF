@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:17",
+  "chapter": 18,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Como el viento del norte dispersaré a ellos delante del enemigo; con la espalda y no con la cara verán en el día de su calamidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018017002"
+      ],
+      "issue": "renders קָדִים as 'viento del norte' (north wind) instead of east",
+      "spanishSpan": "viento del norte"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018017009"
+      ],
+      "issue": "changes 1cs verb אֶרְאֵם (I will see them) to 3p 'verán' (they will see)",
+      "spanishSpan": "verán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

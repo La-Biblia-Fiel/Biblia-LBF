@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 39:7",
+  "chapter": 39,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y de tus hijos que saldrán de ti, que engendrarás, tomarán, y serán sarisím en hekal de rey de Bavel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23039007009",
+        "h23039007010",
+        "h23039007012"
+      ],
+      "issue": "untranslated Hebrew lemmas kept as sarisím / hekal / Bavel instead of Spanish equivalents",
+      "spanishSpan": "sarisím en hekal de rey de Bavel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

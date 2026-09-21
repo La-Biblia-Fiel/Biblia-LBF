@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:6",
+  "chapter": 13,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Pasado mucho tiempo, Jehová me dijo: Levántate, ve al río Eufrates y saca el cinto que me ordenaste enterrar allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013006016"
+      ],
+      "issue": "reverses participants: צִוִּיתִ֖יךָ is 1cs subject + 2ms object (I commanded you), Spanish has 'me ordenaste' (you commanded me)",
+      "spanishSpan": "que me ordenaste"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

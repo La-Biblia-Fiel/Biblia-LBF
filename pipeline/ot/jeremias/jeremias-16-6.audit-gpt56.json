@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:6",
+  "chapter": 16,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Morirán grandes y pequeños en esta tierra; no serán enterrados, ni se llorará por ellos, ni se rasgará la ropa, ni se se raparán la cabeza por ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016006012"
+      ],
+      "issue": "adds 'la ropa' (tearing clothes) not present in lemma 1413 / גדד token",
+      "spanishSpan": "se rasgará la ropa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016006014"
+      ],
+      "issue": "adds 'la cabeza' not present in lemma 7139 / קרח token",
+      "spanishSpan": "raparán la cabeza"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016006012",
+        "h24016006014"
+      ],
+      "issue": "changes 3ms verbs to plural 'raparán' while rendering singular as singular earlier",
+      "spanishSpan": "se rasgará ... raparán"
+    }
+  ],
+  "notes": "also typo 'se se'",
+  "discardedUncitedFindings": 0
+}

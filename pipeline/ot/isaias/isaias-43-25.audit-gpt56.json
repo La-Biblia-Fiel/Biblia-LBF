@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:25",
+  "chapter": 43,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Yo, yo él, borrando tus rebeliones por mí, y tus pecados no recordaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043025001",
+        "h23043025002",
+        "h23043025003",
+        "h23043025004"
+      ],
+      "issue": "Spanish syntax 'Yo, yo él, borrando' fails to render the 'I, I [am] he [participle]' construction licensed by the three pronouns + participle; adds malformed participant reference and omits the copula link",
+      "spanishSpan": "Yo, yo él, borrando"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043025005"
+      ],
+      "issue": "renders פְשָׁעֶיךָ as 'rebeliones' (adds interpretive nuance not present in the noun lemma)",
+      "spanishSpan": "tus rebeliones"
+    }
+  ],
+  "notes": "structure and lexical choices exceed licensed tokens",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 31:4",
+  "chapter": 31,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así dijo Jehová a mí: Como ruge el león y el leonillo sobre su presa, que se llama sobre él plenitud de pastores, de su voz no se quebranta, y de su tumulto no se abate, así bajará Jehová de ejércitos para pelear sobre monte de Tsiyón y sobre su collado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23031004030"
+      ],
+      "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,190 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 54,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque a derecha y a izquierda reventarás, y tu simiente naciones heredará, y ciudades asoladas habitarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23054003008",
+            "h23054003009",
+            "h23054003010"
+          ],
+          "issue": "reverses participants: Spanish makes cities the subject of inhabiting, but tokens have 3mp hiphil verb (they will cause to dwell/inhabit) with desolate cities as object",
+          "spanishSpan": "ciudades asoladas habitarán"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En inundación de ira oculté mis faces momento de ti, y en misericordia eterna te compadecí, dijo tu Redentor Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23054008005",
+            "h23054008006"
+          ],
+          "issue": "rêgaʿ mimmēḵ rendered as incomplete/awkward 'momento de ti' omitting 'from you for a moment' sense",
+          "spanishSpan": "momento de ti"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque aguas de Noaj esto a mí, que juré de pasar aguas de Noaj más sobre la tierra; así juré de airarme sobre ti y de reprenderte.",
+      "notes": "core semantic reversal on the two oaths",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23054009008",
+            "h23054009016"
+          ],
+          "issue": "מִן + infinitive after נשבע renders the oath negative (not to pass / not to be angry); Spanish renders positive 'juré de pasar' / 'juré de airarme'",
+          "spanishSpan": "juré de pasar aguas de Noaj más sobre la tierra; así juré de airarme sobre ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23054009002",
+            "h23054009004",
+            "h23054009005"
+          ],
+          "issue": "literal 'aguas de Noaj esto a mí' omits the demonstrative-equative structure and adds no licensed verb",
+          "spanishSpan": "aguas de Noaj esto a mí"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque los montes se moverán y las colinas se tambalearán, y mi misericordia de contigo no se moverá, y pacto de mi paz no se tambaleará, dijo el que se compadece de ti, Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23054010006",
+            "h23054010007",
+            "h23054010008",
+            "h23054010009"
+          ],
+          "issue": "garbled preposition and syntax for חסדי מאתך לא ימוש; Spanish does not license a coherent 'will not depart from you' reading",
+          "spanishSpan": "mi misericordia de contigo no se moverá"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y pongo rubí tus soles, y tus puertas a piedras de carbunclo, y todo tu límite a piedras de deseo.",
+      "notes": "stone names and 'soles'/'límite'/'deseo' are within lemma range but syntax fails",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23054012001",
+            "h23054012002",
+            "h23054012003"
+          ],
+          "issue": "Spanish construction 'pongo rubí tus soles' omits licensed preposition/relation and adds interpretive placement not present in tokens",
+          "spanishSpan": "pongo rubí tus soles"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23054012001"
+          ],
+          "issue": "verb rendered as present 'pongo' instead of qal perfect 1cs with waw (future sense 'pondré')",
+          "spanishSpan": "pongo"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:18:19.197568+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 17,
+    "verses": 17,
+    "input": 36930,
+    "cachedInput": 13120,
+    "output": 1016,
+    "reasoning": 15876,
+    "usd": 0.1555,
+    "byProvider": {
+      "xai": {
+        "calls": 17,
+        "input": 36930,
+        "output": 1016,
+        "reasoning": 15876,
+        "usd": 0.1555
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 17,
+        "input": 36930,
+        "output": 1016,
+        "reasoning": 15876,
+        "usd": 0.1555
+      }
+    },
+    "usdPerVerse": 0.0091,
+    "bibleAtThisRate": 284.0,
+    "book": "isaias",
+    "chapter": 54
+  }
+}

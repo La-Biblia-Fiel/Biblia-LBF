@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:2",
+  "chapter": 44,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dijo Jehová tu hacedor y tu formador desde vientre; te ayudará: No temas, siervo mío Yaakov, y Yeshurún que elegí en él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044002011",
+        "h23044002012"
+      ],
+      "issue": "Hebraized proper names (Yaakov, Yeshurún) instead of conventional Spanish forms",
+      "spanishSpan": "Yaakov, y Yeshurún"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

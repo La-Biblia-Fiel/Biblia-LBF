@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 15:5",
+  "chapter": 15,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Mi corazón a Moav grita; sus fugitivos hasta Tsoar, Eglat-shelishiyá; porque cuesta de Lujit con llanto subirá por ella; porque camino de Joronáyim grito de quebranto despertarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23015005004"
+      ],
+      "issue": "בריחה lemma 1280 (bars) rendered as fugitivos",
+      "spanishSpan": "sus fugitivos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23015005014"
+      ],
+      "issue": "3ms suffix בו rendered as feminine ella",
+      "spanishSpan": "por ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23015005018",
+        "h23015005019",
+        "h23015005020"
+      ],
+      "issue": "זעקת־שבר יעערו parsed and ordered as if the cry awakens rather than they raise a cry of breaking",
+      "spanishSpan": "grito de quebranto despertarán"
+    }
+  ],
+  "notes": "proper names and core verbs otherwise align",
+  "discardedUncitedFindings": 0
+}

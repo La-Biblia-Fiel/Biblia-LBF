@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:12",
+  "chapter": 36,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Rav-shaqé: ¿Acaso a tus señores y a ti me envió mi señor para hablar las palabras estas? ¿No sobre los varones los habitantes sobre la muralla, para comer el, y para beber el, con ustedes?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036012019",
+        "h23036012021"
+      ],
+      "issue": "adds unlicensed 'el' after infinitives",
+      "spanishSpan": "para comer el, y para beber el"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036012015",
+        "h23036012016"
+      ],
+      "issue": "awkward stacking omits connective structure licensed by tokens",
+      "spanishSpan": "los varones los habitantes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

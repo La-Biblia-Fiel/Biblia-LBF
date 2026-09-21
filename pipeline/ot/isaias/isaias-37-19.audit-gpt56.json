@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:19",
+  "chapter": 37,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "y dieron a sus dioses en el fuego, porque no dioses ellos, porque si obra de manos de humano, madera y piedra, y los perdieron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037019016"
+      ],
+      "issue": "וַיְאַבְּדוּם (piel destroy) rendered as 'perdieron' (lost)",
+      "spanishSpan": "y los perdieron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037019009",
+        "h23037019010"
+      ],
+      "issue": "כִּי אִם (but/only) rendered as 'porque si' (because if)",
+      "spanishSpan": "porque si obra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

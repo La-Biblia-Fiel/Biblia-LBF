@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:22",
+  "chapter": 30,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y contaminarán el revestimiento de esculturas de tu plata, y el forro de imagen de fundición de tu oro; los esparcirás como paño de menstruada; ¡Sal! dirás a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030022012"
+      ],
+      "issue": "adds 'paño' not licensed by דָוָה",
+      "spanishSpan": "paño de menstruada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030022001"
+      ],
+      "issue": "2mp verb rendered inconsistently with later 2ms verbs",
+      "spanishSpan": "contaminarán"
+    }
+  ],
+  "notes": "paño addition is unlicensed concept",
+  "discardedUncitedFindings": 0
+}

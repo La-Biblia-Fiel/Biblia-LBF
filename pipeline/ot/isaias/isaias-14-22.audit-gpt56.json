@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 14:22",
+  "chapter": 14,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y me levantaré sobre ellos, dicho de Jehová de ejércitos, y cortaré a Bavel nombre y resto y nieto y bisnieto, dicho de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014022007",
+        "h23014022008",
+        "h23014022009",
+        "h23014022010",
+        "h23014022011"
+      ],
+      "issue": "restructures לְבָבֶל שֵׁם וּשְׁאָר וְנִין וָנֶכֶד as 'cortaré a Bavel nombre y resto...', altering what is cut off and from whom",
+      "spanishSpan": "cortaré a Bavel nombre y resto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014022010",
+        "h23014022011"
+      ],
+      "issue": "specializes open lemmas נִין / נֶכֶד into specific 'nieto y bisnieto'",
+      "spanishSpan": "nieto y bisnieto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

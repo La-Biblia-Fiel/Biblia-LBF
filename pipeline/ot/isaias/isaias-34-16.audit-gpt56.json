@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 34:16",
+  "chapter": 34,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Busquen de sobre el libro de Jehová y lean: Una de ellas no faltó, hembra su compañera no echaron de menos; porque mi boca ella mandó, y su espíritu él las recogió.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23034016016",
+        "h23034016017"
+      ],
+      "issue": "Hebrew uses masculine pronoun הוּא with צִוָּה; Spanish renders as feminine 'ella mandó'",
+      "spanishSpan": "ella mandó"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

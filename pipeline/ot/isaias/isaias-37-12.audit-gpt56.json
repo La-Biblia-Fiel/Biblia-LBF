@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:12",
+  "chapter": 37,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso libraron a ellos dioses de las naciones que destruyeron mis padres, a Gozán y a Jarán y Rétséf y hijos de Édén que en Telasar?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037012001",
+        "h23037012002",
+        "h23037012003",
+        "h23037012004",
+        "h23037012005",
+        "h23037012006",
+        "h23037012007",
+        "h23037012008",
+        "h23037012009",
+        "h23037012010",
+        "h23037012011",
+        "h23037012012",
+        "h23037012013",
+        "h23037012014",
+        "h23037012015",
+        "h23037012016"
+      ],
+      "issue": "Spanish word order and comma after 'padres' misattach the object list, altering who/what is destroyed and who the subject of 'libraron' acts upon",
+      "spanishSpan": "libraron a ellos dioses de las naciones que destruyeron mis padres, a Gozán y a Jarán y Rétséf y hijos de Édén que en Telasar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037012015",
+        "h23037012016"
+      ],
+      "issue": "omits the implied verb 'están' or equivalent after the relative אֲשֶׁר",
+      "spanishSpan": "que en Telasar"
+    }
+  ],
+  "notes": "names themselves are conventional forms",
+  "discardedUncitedFindings": 0
+}

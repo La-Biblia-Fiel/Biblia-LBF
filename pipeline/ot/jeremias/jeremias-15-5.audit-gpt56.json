@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:5",
+  "chapter": 15,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién se apiadará de ti, Jerusalén? ¿Quién se lamentará por ti? ¿Quién buscará paz para ti?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015005001"
+      ],
+      "issue": "omits initial conjunction כִּי",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015005010",
+        "h24015005011",
+        "h24015005012",
+        "h24015005013"
+      ],
+      "issue": "renders יָסוּר לִשְׁאֹל לְשָׁלוֹם לָךְ as buscará paz para ti, omitting turn-aside + inquire structure and adding seek-peace concept not licensed by lemmas",
+      "spanishSpan": "buscará paz para ti"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

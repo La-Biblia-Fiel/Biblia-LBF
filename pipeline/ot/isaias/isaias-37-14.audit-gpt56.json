@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:14",
+  "chapter": 37,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tomó Jizqiyahu los rollos de mano de los mensajeros, y lo leyó; y subió casa de Jehová, y lo extendió Jizqiyahu delante de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037014009",
+        "h23037014010"
+      ],
+      "issue": "omits required locative 'to the house' after verb of ascent; Spanish 'subió casa' is ungrammatical and incomplete",
+      "spanishSpan": "subió casa de Jehová"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037014002",
+        "h23037014012"
+      ],
+      "issue": "Hebraized proper name Jizqiyahu instead of conventional Spanish form",
+      "spanishSpan": "Jizqiyahu"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037014005"
+      ],
+      "issue": "awkward phrasing 'rollos de mano de' distorts 'from the hand of'",
+      "spanishSpan": "los rollos de mano de los mensajeros"
+    }
+  ],
+  "notes": "multiple token mismatches",
+  "discardedUncitedFindings": 0
+}

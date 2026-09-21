@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:16",
+  "chapter": 7,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y dirás a él: Jehová, el Dios de los hebreos, me ha enviado a ti, diciendo: Deja ir a mi pueblo para que me sirva en el desierto. Hasta ahora no has escuchado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007016012"
+      ],
+      "issue": "וְיַֽעַבְדֻנִי is 3mp (‘they shall serve me’); singular ‘me sirva’ changes number",
+      "spanishSpan": "para que me sirva"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

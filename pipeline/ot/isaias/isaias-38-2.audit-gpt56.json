@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:2",
+  "chapter": 38,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y volvió Jizqiyahu sus faces a la pared, y oró a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038002002"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Jizqiyahu"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038002003"
+      ],
+      "issue": "non-Spanish literalism for פָּנָיו",
+      "spanishSpan": "sus faces"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

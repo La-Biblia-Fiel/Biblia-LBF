@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:4",
+  "chapter": 17,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y te dejaré, y en tu heredad que te di, te serviré a ti a tus enemigos en la tierra que no conociste, porque prendiste fuego en mi ira, que arderá para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017004001"
+      ],
+      "issue": "first verb rendered as 1cs 'dejaré' instead of licensed 2ms sequential perfect",
+      "spanishSpan": "Y te dejaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017004016"
+      ],
+      "issue": "2mp 'kindled' rendered as singular 'prendiste'",
+      "spanishSpan": "prendiste fuego"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017004003",
+        "h24017004002"
+      ],
+      "issue": "restructures 'and you from your inheritance' as 'en tu heredad'",
+      "spanishSpan": "y en tu heredad"
+    }
+  ],
+  "notes": "multiple person/number and syntactic mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 3:12",
+  "chapter": 3,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Mi pueblo, sus opresores, niño, y mujeres mandaron en él. Mi pueblo, tus bienaventuradores extravían, y camino de tus sendas tragaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003012003"
+      ],
+      "issue": "adds noun 'niño' not licensed by the m-ptcp token or lemma 5953 c",
+      "spanishSpan": "niño"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003012008",
+        "h23003012009"
+      ],
+      "issue": "collapses two distinct participles into single phrase 'tus bienaventuradores extravían'",
+      "spanishSpan": "tus bienaventuradores extravían"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003012010",
+        "h23003012011",
+        "h23003012012"
+      ],
+      "issue": "reorders and nominalizes 'way of your paths' as object of 'tragar'",
+      "spanishSpan": "camino de tus sendas tragaron"
+    }
+  ],
+  "notes": "multiple structural mismatches with participles and construct chain",
+  "discardedUncitedFindings": 0
+}

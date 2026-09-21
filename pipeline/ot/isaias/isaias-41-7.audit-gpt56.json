@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:7",
+  "chapter": 41,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fortaleció artífice al fundidor, alisador de martillo al que golpea yunque; diciendo de la soldadura: Bueno él; y lo fortaleció con clavos; no se moverá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041007001",
+        "h23041007002",
+        "h23041007003",
+        "h23041007004",
+        "h23041007005",
+        "h23041007006",
+        "h23041007007",
+        "h23041007008",
+        "h23041007009"
+      ],
+      "issue": "Spanish restructures the first clause and inserts 'artífice' plus incorrect preposition 'al', mismatching the DOM-linked objects and participles",
+      "spanishSpan": "Y fortaleció artífice al fundidor, alisador de martillo al que golpea yunque"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041007011"
+      ],
+      "issue": "Spanish uses 'de la soldadura' instead of licensed 'to the join/soldering'",
+      "spanishSpan": "diciendo de la soldadura"
+    }
+  ],
+  "notes": "later clause with nails and 'no se moverá' matches tokens 14-17",
+  "discardedUncitedFindings": 0
+}

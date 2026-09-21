@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 10:23",
+  "chapter": 10,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque consumación y decretada Adonai Jehová de ejércitos hace en seno de toda la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010023002",
+        "h23010023003"
+      ],
+      "issue": "renders noun + Niphal participle as noun + adjective, altering coordination and participial force",
+      "spanishSpan": "consumación y decretada"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23010023008"
+      ],
+      "issue": "seno is interpretive smoothing for midst/within",
+      "spanishSpan": "en seno de"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

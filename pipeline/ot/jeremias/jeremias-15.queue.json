@@ -1,0 +1,625 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 15,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "passed": [
+    21
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces dijo el SEÑOR: Aunque Moisés y Samuel estuvieran ante mí, no tendría misericordia de este pueblo; envíalos fuera de mi presencia, y que salgan.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015001002"
+          ],
+          "issue": "יהוה rendered as SEÑOR instead of required Jehová",
+          "spanishSpan": "el SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015001009",
+            "h24015001010"
+          ],
+          "issue": "adds concept 'misericordia' not present in tokens; אֵין נַפְשִׁי only licenses negative inclination toward the people",
+          "spanishSpan": "no tendría misericordia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cuando te digan: ¿Adónde vamos? Diles: Así dice el SEÑOR: Aquel a quien está destinado la muerte, a la muerte; al que está destinado la espada, a la espada; al que está destinado la hambruna, a la hambruna; al que está destinado la cautividad, a la cautividad.",
+      "notes": "repetition structure preserved but interpretive verb inserted",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015002013",
+            "h24015002014",
+            "h24015002016",
+            "h24015002017",
+            "h24015002019",
+            "h24015002020",
+            "h24015002022",
+            "h24015002023"
+          ],
+          "issue": "adds 'está destinado' (and parallel phrases) with no verb or 'destined' concept in the lamed + noun tokens",
+          "spanishSpan": "está destinado la muerte, a la muerte"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015002011"
+          ],
+          "issue": "renders יהוה as SEÑOR instead of the required Jehová",
+          "spanishSpan": "el SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo los visitaré con cuatro castigos, dice el SEÑOR: con la espada para matar, con los perros para arrastrar, con las aves del cielo y con las bestias de la tierra para comer y destruir.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015003003",
+            "h24015003004"
+          ],
+          "issue": "adds 'castigos' not licensed by tokens; tokens have 'cuatro familias/clanes'",
+          "spanishSpan": "cuatro castigos"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y daré a todas las naciones de la tierra por objeto de espanto por causa de Manasés hijo de Ezequías, rey de Judá, por cuanto hizo en Jerusalén.",
+      "notes": "remainder of verse matches but additions and lexical change trigger fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015004001",
+            "h24015004002",
+            "h24015004003",
+            "h24015004004"
+          ],
+          "issue": "Spanish adds 'por objeto de espanto' and re-structures as giving nations as horror-object; tokens only license 'and I will give them to all kingdoms of the earth'",
+          "spanishSpan": "Y daré a todas las naciones de la tierra por objeto de espanto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015004003"
+          ],
+          "issue": "מַמְלְכ֣וֹת rendered as 'naciones' (not licensed; lemma is kingdoms)",
+          "spanishSpan": "naciones"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Quién se apiadará de ti, Jerusalén? ¿Quién se lamentará por ti? ¿Quién buscará paz para ti?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015005001"
+          ],
+          "issue": "omits initial conjunction כִּי",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015005010",
+            "h24015005011",
+            "h24015005012",
+            "h24015005013"
+          ],
+          "issue": "renders יָסוּר לִשְׁאֹל לְשָׁלוֹם לָךְ as buscará paz para ti, omitting turn-aside + inquire structure and adding seek-peace concept not licensed by lemmas",
+          "spanishSpan": "buscará paz para ti"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tú me has dado la espalda, dice el SEÑOR, y yo te he dado la espalda a ti; te he castigado, pero tú no has respondido.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015006006",
+            "h24015006007"
+          ],
+          "issue": "replaces 'you will go backward' with 'I have given you the back'",
+          "spanishSpan": "y yo te he dado la espalda a ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015006012"
+          ],
+          "issue": "replaces 'I destroyed you' with 'I have punished you'",
+          "spanishSpan": "te he castigado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015006013",
+            "h24015006014"
+          ],
+          "issue": "replaces 'I am weary of relenting' with 'you have not responded'",
+          "spanishSpan": "pero tú no has respondido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015006004",
+            "h24015006005"
+          ],
+          "issue": "renders נְאֻם יְהוָה as 'dice el SEÑOR' instead of a declaration formula",
+          "spanishSpan": "dice el SEÑOR"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He echado a los que me abandonaron en los campos y en las calles de la ciudad; han perecido por seguir sus propios caminos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015007001",
+            "h24015007002",
+            "h24015007003",
+            "h24015007004"
+          ],
+          "issue": "Spanish replaces scattering with winnowing fork at gates of the land with throwing abandoners into fields and city streets",
+          "spanishSpan": "He echado a los que me abandonaron en los campos y en las calles de la ciudad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015007005",
+            "h24015007006",
+            "h24015007007",
+            "h24015007008"
+          ],
+          "issue": "Spanish omits bereaving and destroying my people",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015007009",
+            "h24015007010",
+            "h24015007011"
+          ],
+          "issue": "Spanish replaces 'from their ways they have not returned' with perishing by following their own paths",
+          "spanishSpan": "han perecido por seguir sus propios caminos"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Han quedado viudas de un día para otro; he traído sobre ellas la matanza de jóvenes en pleno día; he hecho caer sobre ellas de repente, ciudad tras ciudad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015008001",
+            "h24015008004",
+            "h24015008005"
+          ],
+          "issue": "omits 'more than sand of the seas' and adds unlicensed 'de un día para otro'",
+          "spanishSpan": "Han quedado viudas de un día para otro"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015008009",
+            "h24015008010",
+            "h24015008011"
+          ],
+          "issue": "replaces mother-young-man-spoiler construction with unlicensed 'matanza de jóvenes'",
+          "spanishSpan": "la matanza de jóvenes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015008016",
+            "h24015008017"
+          ],
+          "issue": "changes 'city and terrors' to 'ciudad tras ciudad'",
+          "spanishSpan": "ciudad tras ciudad"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La que da a luz a siete, ha respirado su último aliento; el sol ha salido sobre ellas, y han sido avergonzadas y han caído; y el resto de ellas las entregaré a la espada delante de sus enemigos, dice el SEÑOR.",
+      "notes": "multiple unlicensed additions and sense changes",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015009006",
+            "h24015009007",
+            "h24015009008",
+            "h24015009009"
+          ],
+          "issue": "Spanish inserts 'el sol ha salido' (sun has risen) where tokens only license 'her sun while still day, she is ashamed'",
+          "spanishSpan": "el sol ha salido sobre ellas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015009001",
+            "h24015009004",
+            "h24015009005"
+          ],
+          "issue": "Spanish collapses umlelah + naphchah naphshah into interpretive 'ha respirado su último aliento'",
+          "spanishSpan": "ha respirado su último aliento"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015009009",
+            "h24015009010"
+          ],
+          "issue": "Spanish adds 'han caído' with no corresponding token for falling",
+          "spanishSpan": "y han caído"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay de mí, madre mía, que me has dado a luz! ¡Ay de mí, que soy hombre de contienda y de discordia para toda la tierra! Ni yo he descansado, ni ellos han descansado en mí; todos me maldicen.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015010013",
+            "h24015010015"
+          ],
+          "issue": "נָשִׁיתִי / נָשׁוּ rendered as 'descansado' (rest) instead of lending/creditor sense licensed by lemma 5383",
+          "spanishSpan": "Ni yo he descansado, ni ellos han descansado en mí"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Dice el SEÑOR: ¿Acaso no te he tratado bien? ¿Acaso no te he perdonado en el tiempo de adversidad y en el tiempo de calamidad?",
+      "notes": "Spanish rephrases conditional oath structure into unrelated rhetorical questions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015011008"
+          ],
+          "issue": "הִפְגַּעְתִּי (hiphil 1cs of 6293) rendered as 'perdonado' (forgiven)",
+          "spanishSpan": "te he perdonado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015011014",
+            "h24015011015"
+          ],
+          "issue": "omits direct object marker and 'the enemy'",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015011005",
+            "h24015011008"
+          ],
+          "issue": "adds interpretive 'tratado bien' and 'perdonado' not licensed by לְטוֹב or the hiphil verb",
+          "spanishSpan": "no te he tratado bien? ... no te he perdonado"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Se romperá el hierro con el hierro del norte, o el estaño?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015012005"
+          ],
+          "issue": "נְחֹשֶׁת rendered as estaño (tin) instead of bronze/copper",
+          "spanishSpan": "el estaño"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015012005"
+          ],
+          "issue": "conjunction וּ changed to o (or)",
+          "spanishSpan": "o el estaño"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tus riquezas y tus tesoros te serán robados sin precio, por todas tus iniquidades y por todas tus fronteras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015013004"
+          ],
+          "issue": "changes 1cs active 'I will give' to passive 'te serán robados'",
+          "spanishSpan": "te serán robados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015013007",
+            "h24015013009"
+          ],
+          "issue": "renders 'and in all' as causal 'por' (because of)",
+          "spanishSpan": "por todas tus iniquidades y por todas tus fronteras"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015013003",
+            "h24015013004",
+            "h24015013005",
+            "h24015013006"
+          ],
+          "issue": "restructures 'I will give for plunder not for price' into passive robbery without price",
+          "spanishSpan": "te serán robados sin precio"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré que tus enemigos pasen por una tierra que no conoces; porque un fuego ha salido de mi nariz, y sobre ustedes serán quemados.",
+      "notes": "fire verb mismatch; 'pasen por' acceptable for hiphil",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015014009"
+          ],
+          "issue": "קָדְחָה (kindled) rendered as 'ha salido'",
+          "spanishSpan": "ha salido"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Tú sabes, SEÑOR, acuérdate de mí, y visítame, y venga venganza por mí de mis perseguidores; no tomes paciencia con tu ira, toma venganza de mí; sé que me has hecho objeto de escarnio.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015015009",
+            "h24015015010",
+            "h24015015011",
+            "h24015015012"
+          ],
+          "issue": "renders אַל לְאֶרֶךְ אַפְּךָ תִּקָּחֵנִי as 'no tomes paciencia con tu ira' (introduces 'paciencia' concept and drops 'take me')",
+          "spanishSpan": "no tomes paciencia con tu ira"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015015006",
+            "h24015015007",
+            "h24015015008"
+          ],
+          "issue": "adds second 'toma venganza de mí' with no token support after the single נקם clause",
+          "spanishSpan": "toma venganza de mí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015015013",
+            "h24015015014",
+            "h24015015015",
+            "h24015015016"
+          ],
+          "issue": "renders דַּע שְׂאֵתִי עָלֶיךָ חֶרְפָּה as 'sé que me has hecho objeto de escarnio' (adds 'has hecho' and changes participants)",
+          "spanishSpan": "sé que me has hecho objeto de escarnio"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Encontré tus palabras y las comí; tus palabras se convirtieron en alegría para mí, en gozo de mi corazón, porque se llamó tu nombre sobre mí, SEÑOR Dios de los ejércitos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015016001"
+          ],
+          "issue": "Niphal 3cp passive 'were found' rendered as active 1cs 'Encontré'",
+          "spanishSpan": "Encontré"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No me senté en la asamblea de los que se burlan, ni me alegré; por tu mano, en solitario me senté, porque llenaste de ira tu mano.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015017011",
+            "h24015017012"
+          ],
+          "issue": "changes 'you filled me with זעם' to 'you filled your hand with ira'",
+          "spanishSpan": "porque llenaste de ira tu mano"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué es mi dolor eterno y mi herida sin curación? Me has rechazado para siempre; serás para mí como un engaño, como aguas que no son confiables.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015018007",
+            "h24015018008"
+          ],
+          "issue": "adds 'Me has rechazado para siempre' (speaker rejected by addressee) not licensed by tokens; מאנה הֵרָפֵא is the wound (f) refusing to be healed",
+          "spanishSpan": "Me has rechazado para siempre"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso dice el SEÑOR: Si vuelves, te haré volver a mi presencia y te pondrás de pie; pero si sacas un precio de quien es ruin, serás como mi boca. Ellos volverán a ti, pero tú no volverás a ellos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015019012"
+          ],
+          "issue": "adds 'precio' (price) not licensed by adjective יָקָר",
+          "spanishSpan": "sacas un precio"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y te daré a este pueblo como una muralla de bronce; lucharán contra ti, pero no podrán contigo, porque estaré contigo para salvarte y para librarte, dice el SEÑOR.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24015020006"
+          ],
+          "issue": "omits the adjective בְּצוּרָה (fortified/strong) modifying the bronze wall",
+          "spanishSpan": "una muralla de bronce"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:47:57.501622+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 21,
+    "verses": 21,
+    "input": 49174,
+    "cachedInput": 16704,
+    "output": 3513,
+    "reasoning": 18432,
+    "usd": 0.205,
+    "byProvider": {
+      "xai": {
+        "calls": 21,
+        "input": 49174,
+        "output": 3513,
+        "reasoning": 18432,
+        "usd": 0.205
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 21,
+        "input": 49174,
+        "output": 3513,
+        "reasoning": 18432,
+        "usd": 0.205
+      }
+    },
+    "usdPerVerse": 0.0098,
+    "bibleAtThisRate": 304.0,
+    "book": "jeremias",
+    "chapter": 15
+  }
+}

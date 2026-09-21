@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 50:8",
+  "chapter": 50,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Cercano el que me justifica; ¿quién contenderá conmigo? Estemos juntos; ¿quién dueño de mi juicio? Acérquese a mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23050008006"
+      ],
+      "issue": "omits licensed concept 'stand' from עמד cohortative",
+      "spanishSpan": "Estemos juntos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

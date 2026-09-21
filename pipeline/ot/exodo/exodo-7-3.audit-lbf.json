@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:3",
+  "chapter": 7,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y pondré obstáculos en el corazón de Faraón, y multiplicaré mis señales y mis prodigios en la tierra de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007003002"
+      ],
+      "issue": "אַקְשֶׁה (hiphil of harden) licenses making the heart hard, not ‘putting obstacles’—adds unlicensed concept and omits harden force",
+      "spanishSpan": "pondré obstáculos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

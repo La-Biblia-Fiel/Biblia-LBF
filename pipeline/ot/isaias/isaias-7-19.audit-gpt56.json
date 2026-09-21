@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:19",
+  "chapter": 7,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vendrán y descansarán todas en valles de las quebradas y en hendiduras de las peñas y en todos los espinos y en todos los pastizales.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007019003"
+      ],
+      "issue": "gender mismatch: כֻלָּם is 3mp but Spanish renders as feminine 'todas'",
+      "spanishSpan": "todas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

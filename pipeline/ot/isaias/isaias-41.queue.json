@@ -1,0 +1,412 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 41,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "passed": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    10,
+    11,
+    13,
+    15,
+    16,
+    19,
+    20,
+    23,
+    28,
+    29
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Quién despertó desde oriente justicia? La llama a su pie; da delante de él naciones, y reyes derriba; da como polvo su espada, como paja empujada su arco.",
+      "notes": "first clause acceptable; second clause and verb object assignment fail fidelity",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041002005",
+            "h23041002004"
+          ],
+          "issue": "misparses suffix and referent: calls 'him' (the one roused), not justicia",
+          "spanishSpan": "La llama a su pie"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041002011"
+          ],
+          "issue": "adds 'derriba' as interpretive rendering of hiphil רדה without licensed sense of physical overthrow",
+          "spanishSpan": "reyes derriba"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y fortaleció artífice al fundidor, alisador de martillo al que golpea yunque; diciendo de la soldadura: Bueno él; y lo fortaleció con clavos; no se moverá.",
+      "notes": "later clause with nails and 'no se moverá' matches tokens 14-17",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041007001",
+            "h23041007002",
+            "h23041007003",
+            "h23041007004",
+            "h23041007005",
+            "h23041007006",
+            "h23041007007",
+            "h23041007008",
+            "h23041007009"
+          ],
+          "issue": "Spanish restructures the first clause and inserts 'artífice' plus incorrect preposition 'al', mismatching the DOM-linked objects and participles",
+          "spanishSpan": "Y fortaleció artífice al fundidor, alisador de martillo al que golpea yunque"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041007011"
+          ],
+          "issue": "Spanish uses 'de la soldadura' instead of licensed 'to the join/soldering'",
+          "spanishSpan": "diciendo de la soldadura"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú, Israel mi siervo, Yaakov que elegí, simiente de Abraham mi amante;",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041008004"
+          ],
+          "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish form",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "que te así desde extremos de la tierra, y desde sus rincones te llamé, y dije a ti: Siervo mío tú; te elegí y no te deseché.",
+      "notes": "relative clause structure also mangled around the same token",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041009002"
+          ],
+          "issue": "verb הֶחֱזַקְתִּ֨יךָ (I strengthened/held you) rendered as nonsensical 'te así'",
+          "spanishSpan": "que te así"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los buscarás y no los hallarás, hombres de tu pelea; serán como nada y como cero hombres de tu guerra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041012008"
+          ],
+          "issue": "renders אֶפֶס as 'cero', introducing a modern numeric concept not licensed by the lemma or morphology",
+          "spanishSpan": "como cero"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No temas, gusano de Yaakov, muertos de Israel; yo te ayudé —oráculo de Jehová— y tu redentor Santo de Israel.",
+      "notes": "additional minor smoothing on verb gender and aspect not altering core sense",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041014005"
+          ],
+          "issue": "מְתֵי rendered as 'muertos' (adds concept of death not in lemma H4962)",
+          "spanishSpan": "muertos de Israel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041014004"
+          ],
+          "issue": "proper name Hebraized as Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los pobres y los necesitados buscando aguas, y no hay; su lengua en la sed se secó; yo Jehová los responderé, Dios de Israel no los dejaré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041017012"
+          ],
+          "issue": "renders non-name lemma H430 as Dios",
+          "spanishSpan": "Dios de Israel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041017012",
+            "h23041017014",
+            "h23041017015"
+          ],
+          "issue": "restructures clause so subject of final verb is no longer 1cs speaker",
+          "spanishSpan": "Dios de Israel no los dejaré"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Abriré sobre peñascos ríos, y en medio de valles fuentes; pondré desierto a estanque de aguas, y tierra seca a salidas de aguas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041018003"
+          ],
+          "issue": "peñascos adds rocky concept not licensed by lemma 8205 or surface",
+          "spanishSpan": "peñascos"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Acerquen su contienda de ustedes, dice Jehová; acerquen sus argumentos de ustedes, dice rey de Yaakov.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041021009"
+          ],
+          "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish form",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Acerquen y anuncien a nosotros lo que sucederá; las primeras, qué ellas, anuncien, y pongamos nuestro corazón y conozcamos su fin; o las venideras háganos oír.",
+      "notes": "first clause morphology mismatch on person/mood",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041022001",
+            "h23041022002"
+          ],
+          "issue": "renders 3mp imperfect/jussive verbs as 2pl imperative",
+          "spanishSpan": "Acerquen y anuncien"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041022001"
+          ],
+          "issue": "adds 'acercar' concept not licensed by lemma 5066 hiphil in context of declaration",
+          "spanishSpan": "Acerquen"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí ustedes de nada, y su obra de ustedes de nada; abominación escogerá en ustedes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041024004"
+          ],
+          "issue": "possessive on work rendered as 'su obra de ustedes' (introduces extraneous 3rd-person possessor) instead of direct 2mp possessive on the noun",
+          "spanishSpan": "su obra de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Desperté desde norte y vino; desde salida de sol llamará en mi nombre; y vendrá gobernadores como barro, y como alfarero pisará lodo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041025008",
+            "h23041025009"
+          ],
+          "issue": "singular verb + plural noun rendered as 'vendrá gobernadores' (number mismatch and participant shift)",
+          "spanishSpan": "y vendrá gobernadores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041025001",
+            "h23041025003"
+          ],
+          "issue": "clause boundary and participant misparsed: 1cs hiphil + 3ms qal sequential imperfect collapsed into 'Desperté ... y vino'",
+          "spanishSpan": "Desperté desde norte y vino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041025014",
+            "h23041025015"
+          ],
+          "issue": "3ms subject of trampling reassigned; 'como alfarero pisará lodo' alters the licensed syntax and participant",
+          "spanishSpan": "como alfarero pisará lodo"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Quién anunció desde cabeza y conozcamos, y desde antes y digamos: Justo? También no hay anunciador, también no hay quien haga oír, también no hay oyendo sus dichos de ustedes.",
+      "notes": "2mp suffix mishandled; participle structure distorted in final clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041026016",
+            "h23041026017"
+          ],
+          "issue": "renders shomea + imreychem as 'no hay oyendo sus dichos de ustedes' (wrong person on possessive + broken participle construction)",
+          "spanishSpan": "no hay oyendo sus dichos de ustedes"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h23041026003"
+          ],
+          "issue": "literal 'cabeza' for ro'sh without context smoothing, but acceptable",
+          "spanishSpan": "desde cabeza"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Primero a Tsiyón: He aquí, he aquí ellos; y a Yerushaláyim anunciador daré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23041027002",
+            "h23041027005"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Tsiyón ... Yerushaláyim"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T20:33:33.344186+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 29,
+    "verses": 29,
+    "input": 61122,
+    "cachedInput": 14016,
+    "output": 2203,
+    "reasoning": 27512,
+    "usd": 0.2795,
+    "byProvider": {
+      "xai": {
+        "calls": 29,
+        "input": 61122,
+        "output": 2203,
+        "reasoning": 27512,
+        "usd": 0.2795
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 29,
+        "input": 61122,
+        "output": 2203,
+        "reasoning": 27512,
+        "usd": 0.2795
+      }
+    },
+    "usdPerVerse": 0.0096,
+    "bibleAtThisRate": 300.0,
+    "book": "isaias",
+    "chapter": 41
+  }
+}

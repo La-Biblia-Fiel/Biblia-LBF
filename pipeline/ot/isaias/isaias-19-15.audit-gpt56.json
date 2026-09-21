@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 19:15",
+  "chapter": 19,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no habrá a Mizraim obra que haga cabeza y cola, palma y junco.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23019015005",
+        "h23019015006"
+      ],
+      "issue": "Spanish makes 'obra' the agent of 'haga', changing the relative clause participant and verb subject from the Hebrew 3ms yaʿăśeh after ʾăšer",
+      "spanishSpan": "obra que haga"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23019015004",
+        "h23019015003"
+      ],
+      "issue": "Spanish 'a Mizraim obra' inverts the prepositional phrase and noun order licensed by ləmiṣrayim maʿăśeh",
+      "spanishSpan": "a Mizraim obra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 29:14",
+  "chapter": 29,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto heme aquí añadiendo de maravillar a este pueblo, maravilla y maravilla; y perecerá sabiduría de sus sabios, y entendimiento de sus entendidos se ocultará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029014003",
+        "h23029014004",
+        "h23029014005",
+        "h23029014006",
+        "h23029014007",
+        "h23029014008"
+      ],
+      "issue": "misparses hiphil + inf-cstr + obj construction as 'adding to marvel this people' and attaches object to wrong element",
+      "spanishSpan": "añadiendo de maravillar a este pueblo, maravilla y maravilla"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

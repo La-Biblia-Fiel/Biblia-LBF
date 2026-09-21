@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:22",
+  "chapter": 38,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Jizqiyahu: ¿Qué señal que subiré casa de Jehová?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038022002"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Jizqiyahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

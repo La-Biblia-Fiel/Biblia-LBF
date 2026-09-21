@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 17:8",
+  "chapter": 17,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no mirará hacia los altares, obra de sus manos, y lo que hicieron sus dedos no verá, y las aserás y los altares solares.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23017008013"
+      ],
+      "issue": "adds 'solares' not licensed by lemma 2553 or any token",
+      "spanishSpan": "altares solares"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

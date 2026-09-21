@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 24:20",
+  "chapter": 24,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Meneando se meneará tierra como el borracho, y se balanceará como la choza, y pesó sobre ella su prevaricación, y cayó, y no añadirá levantarse.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23024020007",
+        "h23024020010"
+      ],
+      "issue": "renders sequential perfects as preterite past instead of future",
+      "spanishSpan": "pesó ... cayó"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

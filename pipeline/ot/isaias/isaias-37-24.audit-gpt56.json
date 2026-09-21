@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:24",
+  "chapter": 37,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "En mano de tus siervos afrentaste a Adonai, y dijiste: Con muchedumbre de mis carros yo subí altura de montes, extremos de Levanón, y cortaré altura de sus cedros, escogido de sus abetos, y vendré a altura de su extremo, bosque de su karmel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037024013"
+      ],
+      "issue": "Hebraizes proper name instead of conventional Spanish Líbano",
+      "spanishSpan": "Levanón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037024023"
+      ],
+      "issue": "Hebraizes proper name instead of conventional Spanish Carmelo",
+      "spanishSpan": "karmel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

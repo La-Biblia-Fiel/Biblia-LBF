@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 66:14",
+  "chapter": 66,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y verán ustedes, y se gozará su corazón de ustedes, y sus huesos de ustedes como la hierba brotarán; y será conocida mano de Jehová con sus siervos, e indignación con sus enemigos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066014012"
+      ],
+      "issue": "token is qal sequential perfect 3ms verb (זָעַם), rendered as noun 'indignación' parallel to 'mano'",
+      "spanishSpan": "e indignación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066014007",
+        "h23066014012"
+      ],
+      "issue": "breaks niphal 3fs + qal 3ms verbal sequence into noun phrase parallelism",
+      "spanishSpan": "será conocida mano de Jehová con sus siervos, e indignación con sus enemigos"
+    }
+  ],
+  "notes": "2mp 'verán ustedes' and 3fp 'brotarán' match tokens; noun-for-verb is the fatal change",
+  "discardedUncitedFindings": 0
+}

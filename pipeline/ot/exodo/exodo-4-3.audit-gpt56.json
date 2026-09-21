@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 4:3",
+  "chapter": 4,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo: «Échalo a tierra». Y lo echó a tierra, y llegó a ser una serpiente; y Moisés huyó de delante de ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02004003007",
+        "h02004003010"
+      ],
+      "issue": "pronoun gender mismatch: 3ms suffix on פנים and Ncmsa נחש rendered as feminine 'ella'",
+      "spanishSpan": "de delante de ella"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

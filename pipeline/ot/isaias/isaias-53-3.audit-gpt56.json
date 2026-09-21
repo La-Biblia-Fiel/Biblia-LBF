@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 53:3",
+  "chapter": 53,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Despreciado y dejado de hombres, varón de dolores y conocido de enfermedad; y como ocultador de faces de él, despreciado, y no lo estimamos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23053003010"
+      ],
+      "issue": "Spanish inserts 'de él' (him) for the 1cp suffix on מִמֶּנּוּ; tokens require 'from us'",
+      "spanishSpan": "de él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23053003008",
+        "h23053003009"
+      ],
+      "issue": "Spanish renders מַסְתֵּר פָּנִים as 'ocultador de faces' (personal agent hider), adding personhood and reassigning the faces not licensed by the construct noun + plural",
+      "spanishSpan": "como ocultador de faces"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

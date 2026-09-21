@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:32",
+  "chapter": 37,
+  "verse": 32,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque desde Yerushaláyim saldrá resto, y escape desde monte de Tsiyón; celo de Jehová de ejércitos hará esto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037032002",
+        "h23037032007"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Yerushaláyim ... Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

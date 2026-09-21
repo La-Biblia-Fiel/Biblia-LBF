@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 62:7",
+  "chapter": 62,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no den silencio a él, hasta que establezca y hasta que ponga a Yerushaláyim alabanza en la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23062007010"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

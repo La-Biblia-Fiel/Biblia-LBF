@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:5",
+  "chapter": 16,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque dice el SEÑOR: No entrarás en la casa de luto, ni irás a llorar ni a lamentarte; porque he quitado mi paz de este pueblo, dice el SEÑOR, mi misericordia y mi bondad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016005002"
+      ],
+      "issue": "omits licensed adverb כֹה (thus/so)",
+      "spanishSpan": "Porque dice"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016005004",
+        "h24016005023"
+      ],
+      "issue": "renders יהוה as SEÑOR instead of required Jehová",
+      "spanishSpan": "el SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 1:12",
+  "chapter": 1,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Cuando vengan a ser vistos mis faces, ¿quién pidió esto de su mano de ustedes, pisar mis atrios?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23001012002"
+      ],
+      "issue": "2mp imperfect rendered as subjunctive vengan instead of indicative ustedes form",
+      "spanishSpan": "vengan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23001012008"
+      ],
+      "issue": "2mp suffix on hand rendered with mixed 3rd-person su plus de ustedes",
+      "spanishSpan": "su mano de ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

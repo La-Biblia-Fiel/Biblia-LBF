@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 9:5",
+  "chapter": 9,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque toda bota de calzado en tumulto y manto rodado en sangres, y será para quema, pasto de fuego.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23009005003",
+        "h23009005004"
+      ],
+      "issue": "renders two distinct tokens as single specialized noun phrase 'bota de calzado' and adds unlicensed 'de calzado'",
+      "spanishSpan": "bota de calzado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23009005011"
+      ],
+      "issue": "renders 'ma'akhelet' as 'pasto' (pasture/grazing) instead of licensed 'food/fuel'",
+      "spanishSpan": "pasto de fuego"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

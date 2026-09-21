@@ -1,0 +1,29 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 26:9",
+  "chapter": 26,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Mi alma te anheló de noche; también mi espíritu en medio de mí te buscará de madrugada, porque cuando tus juicios a la tierra, justicia aprendieron moradores de mundo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23026009009",
+        "h23026009010",
+        "h23026009011",
+        "h23026009012",
+        "h23026009013",
+        "h23026009014",
+        "h23026009015"
+      ],
+      "issue": "clause mangled and incomplete: 'cuando tus juicios a la tierra, justicia aprendieron' omits the licensed flow that judgments to the earth cause the inhabitants to learn righteousness",
+      "spanishSpan": "porque cuando tus juicios a la tierra, justicia aprendieron moradores de mundo"
+    }
+  ],
+  "notes": "first half of verse is acceptable; final clause fails fidelity",
+  "discardedUncitedFindings": 0
+}

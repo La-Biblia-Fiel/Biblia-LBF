@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 34:17",
+  "chapter": 34,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y él echó a ellas suerte, y su mano las repartió a ellos en cordel; hasta siempre la heredarán, a generación y generación habitarán en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23034017006"
+      ],
+      "issue": "object suffix is 3fs ('it'), Spanish renders plural 'las'",
+      "spanishSpan": "las repartió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23034017006",
+        "h23034017007"
+      ],
+      "issue": "verb + preposition structure altered; object number changed and participants misaligned",
+      "spanishSpan": "su mano las repartió a ellos"
+    }
+  ],
+  "notes": "object gender/number mismatch on חִלְּקַ֥תָּה",
+  "discardedUncitedFindings": 0
+}

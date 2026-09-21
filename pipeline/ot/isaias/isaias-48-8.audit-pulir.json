@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 48:8",
+  "chapter": 48,
+  "verse": 8,
+  "candidateLabel": "pulir",
+  "spanish": "Tampoco oíste, tampoco conociste, tampoco desde entonces se abrió tu oído; porque supe que traicionando traicionarás, y prevaricador desde el vientre fuiste llamado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23048008019"
+      ],
+      "issue": "renders 2fs suffix as masculine (fuiste llamado)",
+      "spanishSpan": "fuiste llamado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

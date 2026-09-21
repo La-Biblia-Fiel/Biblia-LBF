@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 52:8",
+  "chapter": 52,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Voz de tus atalayas; alzaron voz; a una cantarán; porque ojo en ojo verán en volver Jehová a Tsiyón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23052008013"
+      ],
+      "issue": "Hebraizes proper name as Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

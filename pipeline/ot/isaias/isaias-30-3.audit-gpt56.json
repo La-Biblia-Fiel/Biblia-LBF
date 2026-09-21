@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:3",
+  "chapter": 30,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será a ustedes fortaleza de Faraón para vergüenza, y el refugio en sombra de Mizraim para afrenta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030003008"
+      ],
+      "issue": "Hebraizes proper name Mizraim instead of conventional Spanish Egipto",
+      "spanishSpan": "Mizraim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

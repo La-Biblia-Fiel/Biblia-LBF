@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:14",
+  "chapter": 17,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Sana a mí, Jehová, y yo me sanaré; salva a mí, y yo me salvaré; porque mi alabanza está en ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017014007",
+        "h24017014008"
+      ],
+      "issue": "adds 'está en' not licensed by תְהִלָּתִי אָתָּה (construct + 2ms pronoun = 'you are my praise')",
+      "spanishSpan": "está en ti"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

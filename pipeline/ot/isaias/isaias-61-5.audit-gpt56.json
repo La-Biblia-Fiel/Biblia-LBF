@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 61:5",
+  "chapter": 61,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y se pararán extraños y pastorearán su oveja de ustedes, e hijos de extranjero sus labradores de ustedes y sus viñadores de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23061005004"
+      ],
+      "issue": "possessive rendered as mixed-person 'su oveja de ustedes' instead of direct 2mp suffix on noun",
+      "spanishSpan": "su oveja de ustedes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23061005001"
+      ],
+      "issue": "adds reflexive 'se' not licensed by qal Vqq3cp",
+      "spanishSpan": "se pararán"
+    }
+  ],
+  "notes": "verbless clause and 2mp suffixes handled inconsistently",
+  "discardedUncitedFindings": 0
+}

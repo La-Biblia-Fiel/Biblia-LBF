@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 17:10",
+  "chapter": 17,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque olvidaste Dios de tu salvación, y peña de tu plaza fuerte no recordaste; por tanto plantarás plantíos agradables, y sarmiento de extraño lo sembrarás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23017010003",
+        "h23017010004"
+      ],
+      "issue": "Spanish renders construct chain as post-verbal 'Dios de tu salvación' without licensed object marker or structure",
+      "spanishSpan": "olvidaste Dios de tu salvación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23017010005",
+        "h23017010006"
+      ],
+      "issue": "Spanish substitutes 'plaza fuerte' for מעוז which tokens only license as 'stronghold/refuge'",
+      "spanishSpan": "peña de tu plaza fuerte"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23017010014",
+        "h23017010015"
+      ],
+      "issue": "Spanish 'sarmiento' specifies vine-shoot not licensed by זמורת; tokens only give 'branch/shoot of stranger'",
+      "spanishSpan": "sarmiento de extraño"
+    }
+  ],
+  "notes": "multiple lexical and syntactic additions/omissions",
+  "discardedUncitedFindings": 0
+}

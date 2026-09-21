@@ -1,0 +1,180 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 1,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30,
+    31
+  ],
+  "holds": [
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cuando vengan a ser vistos mis faces, ¿quién pidió esto de su mano de ustedes, pisar mis atrios?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23001012002"
+          ],
+          "issue": "2mp imperfect rendered as subjunctive vengan instead of indicative ustedes form",
+          "spanishSpan": "vengan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23001012008"
+          ],
+          "issue": "2mp suffix on hand rendered with mixed 3rd-person su plus de ustedes",
+          "spanishSpan": "su mano de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y en extender ustedes sus palmas, ocultaré mis ojos de ustedes; también cuando multipliquen oración, no hay yo oyendo; sus manos de ustedes de sangres llenaron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23001015010",
+            "h23001015011"
+          ],
+          "issue": "renders אֵינֶ֣נִּי שֹׁמֵ֑עַ as awkward non-Spanish 'no hay yo oyendo' instead of licensed 'no estoy oyendo' or equivalent preserving 1cs + active participle",
+          "spanishSpan": "no hay yo oyendo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23001015012",
+            "h23001015013",
+            "h23001015014"
+          ],
+          "issue": "mangles יְדֵיכֶ֖ם דָּמִ֥ים מָלֵֽאוּ into ungrammatical 'sus manos de ustedes de sangres llenaron' that alters stative qal perfect 3cp sense of hands being full",
+          "spanishSpan": "sus manos de ustedes de sangres llenaron"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque se avergonzarán de los terebintos que desearon, y se sonrojarán de los huertos que escogieron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23001029005",
+            "h23001029006",
+            "h23001029009"
+          ],
+          "issue": "changes 2mp verbs to 3p (desearon/escogieron/se ... will)",
+          "spanishSpan": "desearon, se sonrojarán, escogieron"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T13:31:37.887440+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 31,
+    "verses": 31,
+    "input": 62181,
+    "cachedInput": 8512,
+    "output": 1075,
+    "reasoning": 25668,
+    "usd": 0.2721,
+    "byProvider": {
+      "xai": {
+        "calls": 31,
+        "input": 62181,
+        "output": 1075,
+        "reasoning": 25668,
+        "usd": 0.2721
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 31,
+        "input": 62181,
+        "output": 1075,
+        "reasoning": 25668,
+        "usd": 0.2721
+      }
+    },
+    "usdPerVerse": 0.0088,
+    "bibleAtThisRate": 273.0,
+    "book": "isaias",
+    "chapter": 1
+  }
+}

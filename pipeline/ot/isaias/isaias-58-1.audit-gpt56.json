@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 58:1",
+  "chapter": 58,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Clama con garganta, no te detengas; como shofar alza tu voz, y anuncia a mi pueblo su rebelión, y a casa de Yaakov sus pecados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23058001012"
+      ],
+      "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

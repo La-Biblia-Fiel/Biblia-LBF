@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:5",
+  "chapter": 44,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Este dirá: A Jehová yo; y este llamará en nombre de Yaakov; y este escribirá su mano a Jehová, y en nombre de Israel se apellidará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044005008"
+      ],
+      "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

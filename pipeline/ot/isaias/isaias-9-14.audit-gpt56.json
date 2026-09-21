@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 9:14",
+  "chapter": 9,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cortará Jehová de Israel cabeza y cola, palma y junco, día uno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23009014001"
+      ],
+      "issue": "renders HC/Vhw3ms sequential imperfect as future cortará instead of preserving past narrative force",
+      "spanishSpan": "cortará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

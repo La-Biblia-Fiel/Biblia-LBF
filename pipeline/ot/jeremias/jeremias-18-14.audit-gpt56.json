@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:14",
+  "chapter": 18,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Dejará el roca del monte de Siria su nieve blanca? ¿Derribarán las aguas heladas y corrientes?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018014003"
+      ],
+      "issue": "שָׂדַי rendered as 'monte' instead of field/open country",
+      "spanishSpan": "monte"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018014005"
+      ],
+      "issue": "לְבָנ֑וֹן rendered as 'Siria' instead of Líbano",
+      "spanishSpan": "Siria"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018014007"
+      ],
+      "issue": "Niphal passive 'be plucked up' rendered as active 'Derribarán'",
+      "spanishSpan": "Derribarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018014009"
+      ],
+      "issue": "זָרִים omitted entirely",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

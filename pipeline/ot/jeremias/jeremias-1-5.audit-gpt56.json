@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:5",
+  "chapter": 1,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Antes de que te formara en el vientre, te conocí; y antes de que salieras del seno materno, te consagré; profeta a las naciones te he hecho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001005001",
+        "h24001005002",
+        "h24001005003"
+      ],
+      "issue": "inserts 'formara' (formed) with no corresponding verb or action in the tokens; the clause is simply 'before in the womb I knew you'",
+      "spanishSpan": "Antes de que te formara en el vientre, te conocí"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

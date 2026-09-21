@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 48:9",
+  "chapter": 48,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Por amor de mi nombre alargaré mi ira, y mi alabanza te refrenaré, para no cortarte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23048009005",
+        "h23048009006",
+        "h23048009007"
+      ],
+      "issue": "Spanish assigns 2nd-person object to the verb ('te refrenaré') but tokens show no object suffix on אֶחֱטָם; לָךְ is separate prepositional phrase 'to you (fs)'",
+      "spanishSpan": "mi alabanza te refrenaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23048009009"
+      ],
+      "issue": "infinitive construct carries 2ms suffix but candidate uses undifferentiated 'te' while earlier לָךְ is 2fs",
+      "spanishSpan": "cortarte"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

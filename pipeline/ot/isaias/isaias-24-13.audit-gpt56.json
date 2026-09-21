@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 24:13",
+  "chapter": 24,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así será en seno de la tierra, en medio de los pueblos, como vareo de olivo, como rebuscos si se acabó vendimia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23024013004",
+        "h23024013005"
+      ],
+      "issue": "en seno de la tierra mismatches בְּקֶ֥רֶב הָאָ֖רֶץ (adds un-licensed 'seno' concept)",
+      "spanishSpan": "en seno de la tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:24",
+  "chapter": 13,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los dispersaré como paja que el viento lleva en el desierto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013024003",
+        "h24013024004"
+      ],
+      "issue": "adds 'que el viento lleva' (wind carries) not licensed by lemma/morph of עוֹבֵר (passing) + לְר֖וּחַ (to wind)",
+      "spanishSpan": "que el viento lleva"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013024004",
+        "h24013024005"
+      ],
+      "issue": "restructures לְר֖וּחַ מִדְבָּֽר as 'en el desierto' instead of wind-of-desert construct",
+      "spanishSpan": "en el desierto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

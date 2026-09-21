@@ -1,0 +1,176 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 52,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "passed": [
+    1,
+    3,
+    4,
+    5,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sacúdete del polvo; levántate, siéntate, Yerushaláyim; sueltos de tu cuello, cautiva hija de Tsiyón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23052002005",
+            "h23052002010"
+          ],
+          "issue": "Hebraizes proper names instead of conventional Spanish forms",
+          "spanishSpan": "Yerushaláyim ... Tsiyón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23052002006",
+            "h23052002007"
+          ],
+          "issue": "omits licensed noun concept 'bonds/fetters' and renders construct chain as imperative/adjective 'sueltos'",
+          "spanishSpan": "sueltos de tu cuello"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto conocerá mi pueblo mi nombre; por tanto en el día aquel, porque yo él, el que habla: Heme aquí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23052006009",
+            "h23052006010",
+            "h23052006011"
+          ],
+          "issue": "renders אֲנִי הוּא הַמְדַבֵּר as incomplete 'yo él, el que habla' omitting licensed identity concept",
+          "spanishSpan": "porque yo él, el que habla"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Cuán hermosos sobre los montes pies del anunciador, el que hace oír paz, anunciador de bien, el que hace oír salvación, el que dice a Tsiyón: Reinó tu Dios!",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23052007014"
+          ],
+          "issue": "Hebraizes proper name as Tsiyón instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Voz de tus atalayas; alzaron voz; a una cantarán; porque ojo en ojo verán en volver Jehová a Tsiyón.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23052008013"
+          ],
+          "issue": "Hebraizes proper name as Tsiyón instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Como se pasmaron sobre ti muchos: así destruido de varón su parecer, y su forma de hijos de hombre;",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23052014006",
+            "h23052014007",
+            "h23052014008",
+            "h23052014009",
+            "h23052014010",
+            "h23052014011"
+          ],
+          "issue": "renders nominal mishchat + comparative me'ish / mibbene adam as verb 'destruido' with mangled comparison and incomplete 'de hijos de hombre'",
+          "spanishSpan": "así destruido de varón su parecer, y su forma de hijos de hombre"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:13:48.855931+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 15,
+    "verses": 15,
+    "input": 32417,
+    "cachedInput": 12736,
+    "output": 784,
+    "reasoning": 13130,
+    "usd": 0.1292,
+    "byProvider": {
+      "xai": {
+        "calls": 15,
+        "input": 32417,
+        "output": 784,
+        "reasoning": 13130,
+        "usd": 0.1292
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 15,
+        "input": 32417,
+        "output": 784,
+        "reasoning": 13130,
+        "usd": 0.1292
+      }
+    },
+    "usdPerVerse": 0.0086,
+    "bibleAtThisRate": 268.0,
+    "book": "isaias",
+    "chapter": 52
+  }
+}

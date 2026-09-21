@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 3:15",
+  "chapter": 3,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Aplastan a mi pueblo, y faces de pobres muelen, dicho de Adonai Jehová de ejércitos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003015001",
+        "h23003015005"
+      ],
+      "issue": "2mp verbs rendered as 3rd-person plural, changing addressees to a different third party",
+      "spanishSpan": "Aplastan ... muelen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003015003",
+        "h23003015004",
+        "h23003015005"
+      ],
+      "issue": "word order and syntax invert the object-verb relation licensed by the tokens",
+      "spanishSpan": "y faces de pobres muelen"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

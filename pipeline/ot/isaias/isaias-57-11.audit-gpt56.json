@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 57:11",
+  "chapter": 57,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Y a quién temiste y temiste, que mientes, y a mí no recordaste, no pusiste sobre tu corazón? ¿No yo callando y desde siempre, y a mí no temes?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23057011003",
+        "h23057011004"
+      ],
+      "issue": "duplicates identical verb 'temiste' for two distinct lemmas (דאג and ירא)",
+      "spanishSpan": "temiste y temiste"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23057011014",
+        "h23057011015",
+        "h23057011016"
+      ],
+      "issue": "reorders and mangles interrogative + pronoun + participle into ungrammatical 'No yo callando'",
+      "spanishSpan": "No yo callando"
+    }
+  ],
+  "notes": "structure and repetition not licensed by tokens",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 47:14",
+  "chapter": 47,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí fueron como rastrojo; fuego los quemó; no librarán su alma de mano de llama; no hay brasa para su pan, fuego para sentarse delante de él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23047014014"
+      ],
+      "issue": "לַחְמָם rendered as 'para su pan' (bread) instead of 'for warming them'",
+      "spanishSpan": "para su pan"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

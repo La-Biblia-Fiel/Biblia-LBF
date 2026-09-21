@@ -1,0 +1,154 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 24,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "passed": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí Jehová vaciando la tierra y la despobla, y torció sus faces, y dispersó sus moradores.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23024001006",
+            "h23024001008"
+          ],
+          "issue": "sequential perfects rendered as preterite finite verbs, altering stem/aspect force",
+          "spanishSpan": "y torció ... y dispersó"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23024001005"
+          ],
+          "issue": "second qal participle rendered as finite present verb instead of parallel participle construction",
+          "spanishSpan": "y la despobla"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así será en seno de la tierra, en medio de los pueblos, como vareo de olivo, como rebuscos si se acabó vendimia.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23024013004",
+            "h23024013005"
+          ],
+          "issue": "en seno de la tierra mismatches בְּקֶ֥רֶב הָאָ֖רֶץ (adds un-licensed 'seno' concept)",
+          "spanishSpan": "en seno de la tierra"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Meneando se meneará tierra como el borracho, y se balanceará como la choza, y pesó sobre ella su prevaricación, y cayó, y no añadirá levantarse.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23024020007",
+            "h23024020010"
+          ],
+          "issue": "renders sequential perfects as preterite past instead of future",
+          "spanishSpan": "pesó ... cayó"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:45:07.221822+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 23,
+    "verses": 23,
+    "input": 45017,
+    "cachedInput": 15936,
+    "output": 771,
+    "reasoning": 18261,
+    "usd": 0.1803,
+    "byProvider": {
+      "xai": {
+        "calls": 23,
+        "input": 45017,
+        "output": 771,
+        "reasoning": 18261,
+        "usd": 0.1803
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 23,
+        "input": 45017,
+        "output": 771,
+        "reasoning": 18261,
+        "usd": 0.1803
+      }
+    },
+    "usdPerVerse": 0.0078,
+    "bibleAtThisRate": 244.0,
+    "book": "isaias",
+    "chapter": 24
+  }
+}

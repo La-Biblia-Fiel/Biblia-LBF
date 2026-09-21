@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 33:16",
+  "chapter": 33,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Él alturas habitará; fortalezas de peñascos su alto refugio; su pan dado, sus aguas fieles.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033016006"
+      ],
+      "issue": "adds 'alto' not licensed by lemma or surface of misgabo",
+      "spanishSpan": "alto refugio"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033016004",
+        "h23033016005",
+        "h23033016006"
+      ],
+      "issue": "restructures construct phrase into appositive without licensed connection; omits that the fortresses-of-rocks constitute the refuge",
+      "spanishSpan": "fortalezas de peñascos su alto refugio"
+    }
+  ],
+  "notes": "word-order inversion and missing preposition on heights are grammatical smoothing only",
+  "discardedUncitedFindings": 0
+}

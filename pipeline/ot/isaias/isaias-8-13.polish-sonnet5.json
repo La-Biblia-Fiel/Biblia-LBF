@@ -1,0 +1,64 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "isaias",
+  "reference": "Isaías 8:13",
+  "chapter": 8,
+  "verse": 13,
+  "sourceDraft": "A Jehová de ejércitos, a él santifiquen ustedes; y él temor de ustedes, y él terror de ustedes.",
+  "spanish": "A Jehová de ejércitos, a él santifiquen ustedes; y él, temor de ustedes, y él, terror de ustedes.",
+  "units": [
+    {
+      "es": "A Jehová de ejércitos",
+      "sourceTokenIds": [
+        "h23008013001",
+        "h23008013002",
+        "h23008013003"
+      ]
+    },
+    {
+      "es": "a él",
+      "sourceTokenIds": [
+        "h23008013004"
+      ]
+    },
+    {
+      "es": "santifiquen ustedes",
+      "sourceTokenIds": [
+        "h23008013005"
+      ]
+    },
+    {
+      "es": "y él",
+      "sourceTokenIds": [
+        "h23008013006"
+      ]
+    },
+    {
+      "es": "temor de ustedes",
+      "sourceTokenIds": [
+        "h23008013007"
+      ]
+    },
+    {
+      "es": "y él",
+      "sourceTokenIds": [
+        "h23008013008"
+      ]
+    },
+    {
+      "es": "terror de ustedes",
+      "sourceTokenIds": [
+        "h23008013009"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Added commas around the two appositive pronoun clauses ('y él, temor de ustedes' / 'y él, terror de ustedes') for readability; wording and word order unchanged.",
+    "Confirmed 'él' as the accented personal pronoun (he), not the article 'el'; no change needed there.",
+    "Left 'terror' as rendered per freeze; did not act on Grok's participle-smoothing warning, since that would require an interpretive rewrite."
+  ],
+  "meaningChanges": [],
+  "droppedUncitedUnits": 0
+}

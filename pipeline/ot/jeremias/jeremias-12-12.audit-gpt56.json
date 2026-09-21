@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:12",
+  "chapter": 12,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Por todas sus fronteras en el desierto han entrado los saqueadores, porque es un castigo de Jehová, un alimento para todos los animales del campo, desde un extremo de la tierra hasta el otro, porque no hay paz para toda carne.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012012003"
+      ],
+      "issue": "שְׁפָיִם rendered as fronteras (borders); token means bare/desolate heights",
+      "spanishSpan": "fronteras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012012008",
+        "h24012012010"
+      ],
+      "issue": "חֶרֶב אֹכְלָה לַיהוָה rendered as castigo … alimento para animales; tokens say sword devouring belonging to Jehovah",
+      "spanishSpan": "castigo de Jehová, un alimento para todos los animales del campo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012012001",
+        "h24012012002"
+      ],
+      "issue": "עַל כָּל rendered with added possessive sus",
+      "spanishSpan": "sus fronteras"
+    }
+  ],
+  "notes": "multiple unlicensed additions and substitutions",
+  "discardedUncitedFindings": 0
+}

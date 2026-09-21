@@ -1,0 +1,29 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 56:12",
+  "chapter": 56,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Vengan, tomaré vino, y nos embriaguemos de sidra; y será como este día mañana, grande, resto mucho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23056012006",
+        "h23056012007",
+        "h23056012008",
+        "h23056012009",
+        "h23056012010",
+        "h23056012011",
+        "h23056012012"
+      ],
+      "issue": "Spanish mangles syntax and word order of וְהָיָה כַזֶּה יוֹם מָחָר גָּדוֹל יֶתֶר מְאֹד into nonsensical 'como este día mañana, grande, resto mucho'",
+      "spanishSpan": "como este día mañana, grande, resto mucho"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

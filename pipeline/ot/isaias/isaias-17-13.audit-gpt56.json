@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 17:13",
+  "chapter": 17,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Naciones como estruendo de aguas muchas estruendarán, y reprendió en él y huyó de lejos, y perseguido como tamo de montes delante de viento, y como rueda delante de torbellino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23017013006",
+        "h23017013008",
+        "h23017013010"
+      ],
+      "issue": "verbs rendered as past indicative and passive participle instead of qal/pual sequential perfect 3ms future sequence",
+      "spanishSpan": "reprendió en él y huyó de lejos, y perseguido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23017013005"
+      ],
+      "issue": "niphal imperfect 3mp on nations changed to mismatched subject/voice sequence",
+      "spanishSpan": "estruendarán, y reprendió"
+    }
+  ],
+  "notes": "tense, stem and participant mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,123 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 25,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto te honrará pueblo fuerte; ciudad de naciones violentas te temerá.",
+      "notes": "plural morphology on both verbs not preserved",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23025003003"
+          ],
+          "issue": "verb number changed from 3mp to singular",
+          "spanishSpan": "te honrará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23025003009"
+          ],
+          "issue": "verb number changed from 3mp to singular",
+          "spanishSpan": "te temerá"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tragará en este monte faces del envoltorio el envuelto sobre todos los pueblos, y la cubierta la vertida sobre todas las naciones.",
+      "notes": "overall sentence structure fails to preserve token sequence and construct relations",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23025007004",
+            "h23025007005",
+            "h23025007006"
+          ],
+          "issue": "mangles construct פְּנֵי הַלּוֹט הַלּוֹט into nonsensical 'faces del envoltorio el envuelto'",
+          "spanishSpan": "faces del envoltorio el envuelto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23025007011"
+          ],
+          "issue": "renders נסוכה participial sense as 'vertida' (poured) without token license for that specific choice over 'spread/cast'",
+          "spanishSpan": "la vertida"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:46:57.485769+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 12,
+    "verses": 12,
+    "input": 26355,
+    "cachedInput": 3200,
+    "output": 558,
+    "reasoning": 10566,
+    "usd": 0.1147,
+    "byProvider": {
+      "xai": {
+        "calls": 12,
+        "input": 26355,
+        "output": 558,
+        "reasoning": 10566,
+        "usd": 0.1147
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 12,
+        "input": 26355,
+        "output": 558,
+        "reasoning": 10566,
+        "usd": 0.1147
+      }
+    },
+    "usdPerVerse": 0.0096,
+    "bibleAtThisRate": 297.0,
+    "book": "isaias",
+    "chapter": 25
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 45:25",
+  "chapter": 45,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "En Jehová serán justificados y se gloriarán toda simiente de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045025002"
+      ],
+      "issue": "Qal imperfect rendered as passive 'serán justificados' (adds passive voice absent from HVqi3mp)",
+      "spanishSpan": "serán justificados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045025002",
+        "h23045025003"
+      ],
+      "issue": "plural 3mp verbs paired with singular subject 'toda simiente' (changes number/participant agreement licensed by construct + 3mp)",
+      "spanishSpan": "toda simiente de Israel"
+    }
+  ],
+  "notes": "collective plural force of זֶרַע + verbs not preserved",
+  "discardedUncitedFindings": 0
+}

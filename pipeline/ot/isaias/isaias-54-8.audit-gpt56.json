@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 54:8",
+  "chapter": 54,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "En inundación de ira oculté mis faces momento de ti, y en misericordia eterna te compadecí, dijo tu Redentor Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23054008005",
+        "h23054008006"
+      ],
+      "issue": "rêgaʿ mimmēḵ rendered as incomplete/awkward 'momento de ti' omitting 'from you for a moment' sense",
+      "spanishSpan": "momento de ti"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 46:3",
+  "chapter": 46,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Oigan a mí, casa de Yaakov, y todo resto de casa de Israel, los cargados desde el vientre, los llevados desde la matriz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046003004"
+      ],
+      "issue": "Hebraizes proper name instead of conventional Spanish form",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

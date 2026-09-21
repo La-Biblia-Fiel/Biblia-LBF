@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:20",
+  "chapter": 37,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora, Jehová nuestro Dios, sálvanos de su mano, y sabrán todos reinos de la tierra que tú Jehová solo a ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037020011",
+        "h23037020012",
+        "h23037020013"
+      ],
+      "issue": "final clause rendered as incomplete 'solo a ti' instead of licensed 'tú ... solo' (you alone)",
+      "spanishSpan": "que tú Jehová solo a ti"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

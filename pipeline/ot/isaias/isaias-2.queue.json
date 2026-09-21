@@ -1,0 +1,123 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 2,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "holds": [
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque día a Jehová de ejércitos sobre todo soberbio y alto, y sobre todo alzado, y será abatido;",
+      "notes": "syntax and preposition mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23002012003",
+            "h23002012005",
+            "h23002012009"
+          ],
+          "issue": "incorrect preposition and missing syntactic connection for 'day to YHWH ... upon'",
+          "spanishSpan": "día a Jehová de ejércitos sobre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23002012012"
+          ],
+          "issue": "3ms subject of שפל not preserved; Spanish attaches 'será abatido' without licensed antecedent",
+          "spanishSpan": "y será abatido"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [
+    1,
+    2,
+    3
+  ],
+  "updated": "2026-09-19T13:38:12.050181+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 22,
+    "verses": 22,
+    "input": 44225,
+    "cachedInput": 14208,
+    "output": 620,
+    "reasoning": 18391,
+    "usd": 0.1812,
+    "byProvider": {
+      "xai": {
+        "calls": 22,
+        "input": 44225,
+        "output": 620,
+        "reasoning": 18391,
+        "usd": 0.1812
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 22,
+        "input": 44225,
+        "output": 620,
+        "reasoning": 18391,
+        "usd": 0.1812
+      }
+    },
+    "usdPerVerse": 0.0082,
+    "bibleAtThisRate": 256.0,
+    "book": "isaias",
+    "chapter": 2
+  }
+}

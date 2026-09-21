@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 5:6",
+  "chapter": 5,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y mandó Faraón en aquel día a los que apremiaban al pueblo y a sus oficiales, diciendo:",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02005006007"
+      ],
+      "issue": "grammatical smoothing of preposition ב as 'al' rather than 'en'",
+      "spanishSpan": "al pueblo"
+    }
+  ],
+  "notes": "participle rendered as relative clause is acceptable smoothing",
+  "discardedUncitedFindings": 0
+}

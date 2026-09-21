@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:2",
+  "chapter": 37,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y envió a Elyaqim que sobre la casa, y a Shevná el escriba, y a ancianos de los sacerdotes, cubriéndose en los sacos, a Yeshayahu hijo de Amots el profeta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037002015",
+        "h23037002016",
+        "h23037002017",
+        "h23037002018",
+        "h23037002019"
+      ],
+      "issue": "misplaces recipient preposition אֶל and treats Yeshayahu as parallel sent object rather than destination of the delegation",
+      "spanishSpan": "a Yeshayahu hijo de Amots el profeta"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

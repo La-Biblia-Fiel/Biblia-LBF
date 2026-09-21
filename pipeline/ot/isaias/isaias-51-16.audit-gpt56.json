@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:16",
+  "chapter": 51,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y puse mis palabras en tu boca, y en sombra de mi mano te cubrí, para plantar cielos y para fundar tierra, y para decir a Tsiyón: Mi pueblo eres tú.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051016012"
+      ],
+      "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

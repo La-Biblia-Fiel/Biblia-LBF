@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:18",
+  "chapter": 3,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y escucharán tu voz; y vendrás tú y los ancianos de Israel al rey de Egipto, y le dirán: «YHWH, Dios de los hebreos, se encontró con nosotros; y ahora, por favor, vayamos camino de tres días por el desierto y sacrifiquemos a YHWH nuestro Dios».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003018010"
+      ],
+      "issue": "2mp verb rendered as 3pl, shifting addressees to third party",
+      "spanishSpan": "y le dirán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

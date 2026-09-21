@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 14:11",
+  "chapter": 14,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Fue hecha bajar a Sheol tu soberbia, ruido de tus liras; debajo de ti es tendido gusano, y tus coberturas gusano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014011001"
+      ],
+      "issue": "verb gender agreement changed (HVHp3ms masculine subject treated as feminine)",
+      "spanishSpan": "Fue hecha bajar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014011007"
+      ],
+      "issue": "verb gender agreement changed (HVHi3ms masculine subject treated as masculine while noun is fs)",
+      "spanishSpan": "es tendido gusano"
+    }
+  ],
+  "notes": "gender smoothing on both hophal verbs",
+  "discardedUncitedFindings": 0
+}

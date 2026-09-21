@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 10:9",
+  "chapter": 10,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "¿No como Karkemish Kalnó? ¿Si no como Arpad Jamat? ¿Si no como Dameseq Shomrón?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010009002",
+        "h23010009003"
+      ],
+      "issue": "order of proper names reversed from source tokens",
+      "spanishSpan": "Karkemish Kalnó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010009007"
+      ],
+      "issue": "proper name respelled (Jamat) instead of matching packet form",
+      "spanishSpan": "Jamat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010009010",
+        "h23010009011"
+      ],
+      "issue": "proper names respelled (Dameseq Shomrón) instead of matching packet forms",
+      "spanishSpan": "Dameseq Shomrón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010009001",
+        "h23010009004",
+        "h23010009005",
+        "h23010009008",
+        "h23010009009"
+      ],
+      "issue": "question structure altered; omits licensed interrogative-negative force and changes participant flow",
+      "spanishSpan": "¿No como... ¿Si no como... ¿Si no como..."
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

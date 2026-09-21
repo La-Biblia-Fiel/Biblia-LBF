@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 49:21",
+  "chapter": 49,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás en tu corazón: ¿Quién me engendró estos, y yo desolada y sola, desterrada y desviada? Y estos, ¿quién crió? He aquí yo quedé sola; estos, ¿dónde ellos?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23049021004"
+      ],
+      "issue": "ילד qal 3ms rendered as 'engendró' (male beget) instead of 'dio a luz'/'parió' (bear, of mother)",
+      "spanishSpan": "engendró"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

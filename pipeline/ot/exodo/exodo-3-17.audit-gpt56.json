@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:17",
+  "chapter": 3,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dije: Los haré subir de la aflicción de Egipto a la tierra del cananeo, y del hitita, y del amorreo, y del ferezeo, y del heveo, y del jebuseo, a una tierra que fluye leche y miel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003017003"
+      ],
+      "issue": "2mp addressee rendered as 3p 'Los' (participant shift)",
+      "spanishSpan": "Los haré subir"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

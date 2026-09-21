@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:12",
+  "chapter": 44,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Artífice de hierro hacha, y obra en el carbón, y con martillos lo forma, y lo obra con brazo de su fuerza; también hambriento y no hay fuerza; no bebió aguas y se fatigó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044012001",
+        "h23044012002",
+        "h23044012003"
+      ],
+      "issue": "Spanish 'Artífice de hierro hacha' mangles the construct chain into an ungrammatical noun phrase and fails to license the action of fashioning the axe/idol",
+      "spanishSpan": "Artífice de hierro hacha"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044012004",
+        "h23044012005",
+        "h23044012006",
+        "h23044012007",
+        "h23044012008"
+      ],
+      "issue": "Spanish inverts and adds wording that does not match the qal verbs and prepositional phrases for working the coal and hammers",
+      "spanishSpan": "y obra en el carbón, y con martillos lo forma, y lo obra"
+    }
+  ],
+  "notes": "beginning tokens not rendered faithfully",
+  "discardedUncitedFindings": 0
+}

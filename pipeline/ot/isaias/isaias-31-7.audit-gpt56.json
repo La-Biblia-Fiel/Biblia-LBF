@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 31:7",
+  "chapter": 31,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque en el día aquel rechazarán varón ídolos de su plata e ídolos de su oro, que hicieron a ustedes sus manos de ustedes, pecado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23031007004",
+        "h23031007005"
+      ],
+      "issue": "mishandles 3mp verb + אִישׁ distributive subject, producing ungrammatical singular 'varón' + 'su' after plural 'rechazarán'",
+      "spanishSpan": "rechazarán varón ídolos de su plata e ídolos de su oro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23031007012",
+        "h23031007013"
+      ],
+      "issue": "distorts participant reference and word order; 'sus manos de ustedes' after 'a ustedes' misplaces the 2mp suffix and dual construct",
+      "spanishSpan": "hicieron a ustedes sus manos de ustedes"
+    }
+  ],
+  "notes": "Spanish fails to preserve token structure and number/person",
+  "discardedUncitedFindings": 0
+}

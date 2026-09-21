@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 26:1",
+  "chapter": 26,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En aquel día será cantado este cántico en tierra de Yehudá: Ciudad de fuerza a nosotros; salvación pondrá muros y antemuro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23026001007"
+      ],
+      "issue": "Hebraized proper name Yehudá instead of conventional Spanish Judá",
+      "spanishSpan": "Yehudá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

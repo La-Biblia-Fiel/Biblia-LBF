@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:9",
+  "chapter": 38,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Escrito de Jizqiyahu rey de Yehudá, en su enfermar y vivió de su enfermedad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038009002",
+        "h23038009004"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Jizqiyahu ... Yehudá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038009005",
+        "h23038009006",
+        "h23038009007"
+      ],
+      "issue": "restructures infinitive construct + sequential verb into unfaithful clause with wrong participant sense and preposition",
+      "spanishSpan": "en su enfermar y vivió de su enfermedad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

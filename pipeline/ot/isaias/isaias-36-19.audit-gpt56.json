@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:19",
+  "chapter": 36,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Dónde dioses de Jamat y Arpad? ¿Dónde dioses de Sefarváyim? ¿Y que libraron a Shomrón de mi mano?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036019011"
+      ],
+      "issue": "Hebraized proper name Shomrón instead of conventional Spanish form",
+      "spanishSpan": "Shomrón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036019008",
+        "h23036019009"
+      ],
+      "issue": "third clause turned into separate interrogative with added question mark, altering the 'and that' continuation structure",
+      "spanishSpan": "¿Y que libraron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

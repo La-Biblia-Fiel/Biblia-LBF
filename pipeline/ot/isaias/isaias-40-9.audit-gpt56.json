@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:9",
+  "chapter": 40,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Sobre monte alto sube a ti, anunciadora de Tsiyón; alza con fuerza tu voz, anunciadora de Yerushaláyim; alza, no temas; di a ciudades de Yehudá: He aquí su Dios de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040009004",
+        "h23040009005"
+      ],
+      "issue": "עלי לך rendered as 'sube a ti' (wrong direction and participant)",
+      "spanishSpan": "sube a ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040009007",
+        "h23040009012",
+        "h23040009018"
+      ],
+      "issue": "Hebraized proper names Tsiyón, Yerushaláyim, Yehudá instead of conventional Spanish forms",
+      "spanishSpan": "Tsiyón; Yerushaláyim; Yehudá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040009020"
+      ],
+      "issue": "2mp suffix אלהיכם rendered with 3sg 'su Dios' plus awkward 'de ustedes'",
+      "spanishSpan": "su Dios de ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

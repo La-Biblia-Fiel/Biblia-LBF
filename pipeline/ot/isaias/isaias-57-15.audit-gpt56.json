@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 57:15",
+  "chapter": 57,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así dijo Alto y Alzado, habitante de perpetuidad, y Santo su nombre: En alto y santo habito, y con contrito y bajo de espíritu, para vivificar espíritu de bajos, y para vivificar corazón de contritos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23057015004",
+        "h23057015005",
+        "h23057015008"
+      ],
+      "issue": "capitalizes participles/adjective as titles (Alto, Alzado, Santo) not licensed by tokens",
+      "spanishSpan": "Alto y Alzado ... Santo"
+    }
+  ],
+  "notes": "capitalization inserts titles",
+  "discardedUncitedFindings": 0
+}

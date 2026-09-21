@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 45:2",
+  "chapter": 45,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Yo delante de ti iré, y las hinchadas enderezararé; puertas de bronce quebraré, y cerrojos de hierro cortaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045002004"
+      ],
+      "issue": "adds verb 'enderezararé' with no source token; noun הֲדוּרִים receives no action in packet",
+      "spanishSpan": "las hinchadas enderezararé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045002004"
+      ],
+      "issue": "renders Ncmpa as feminine plural 'hinchadas'",
+      "spanishSpan": "las hinchadas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

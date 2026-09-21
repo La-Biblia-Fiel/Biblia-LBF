@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 20:2",
+  "chapter": 20,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "En el tiempo aquel habló Jehová por mano de Yeshayahu hijo de Amots, diciendo: Anda, y suelta el saco de sobre tus lomos, y tu sandalia descalza de sobre tus pies. Y hizo así, andando desnudo y descalzo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23020002015",
+        "h23020002016",
+        "h23020002017",
+        "h23020002018"
+      ],
+      "issue": "garbled rendering of the sandal-loosening command; Spanish omits the verb action and produces nonsensical 'tu sandalia descalza'",
+      "spanishSpan": "y tu sandalia descalza de sobre tus pies"
+    }
+  ],
+  "notes": "sack/loins portion and final clause are acceptable",
+  "discardedUncitedFindings": 0
+}

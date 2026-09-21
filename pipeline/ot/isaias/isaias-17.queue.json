@@ -1,0 +1,154 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 17,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    11,
+    12,
+    14
+  ],
+  "holds": [
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y no mirará hacia los altares, obra de sus manos, y lo que hicieron sus dedos no verá, y las aserás y los altares solares.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23017008013"
+          ],
+          "issue": "adds 'solares' not licensed by lemma 2553 or any token",
+          "spanishSpan": "altares solares"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque olvidaste Dios de tu salvación, y peña de tu plaza fuerte no recordaste; por tanto plantarás plantíos agradables, y sarmiento de extraño lo sembrarás.",
+      "notes": "multiple lexical and syntactic additions/omissions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23017010003",
+            "h23017010004"
+          ],
+          "issue": "Spanish renders construct chain as post-verbal 'Dios de tu salvación' without licensed object marker or structure",
+          "spanishSpan": "olvidaste Dios de tu salvación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23017010005",
+            "h23017010006"
+          ],
+          "issue": "Spanish substitutes 'plaza fuerte' for מעוז which tokens only license as 'stronghold/refuge'",
+          "spanishSpan": "peña de tu plaza fuerte"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23017010014",
+            "h23017010015"
+          ],
+          "issue": "Spanish 'sarmiento' specifies vine-shoot not licensed by זמורת; tokens only give 'branch/shoot of stranger'",
+          "spanishSpan": "sarmiento de extraño"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Naciones como estruendo de aguas muchas estruendarán, y reprendió en él y huyó de lejos, y perseguido como tamo de montes delante de viento, y como rueda delante de torbellino.",
+      "notes": "tense, stem and participant mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23017013006",
+            "h23017013008",
+            "h23017013010"
+          ],
+          "issue": "verbs rendered as past indicative and passive participle instead of qal/pual sequential perfect 3ms future sequence",
+          "spanishSpan": "reprendió en él y huyó de lejos, y perseguido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23017013005"
+          ],
+          "issue": "niphal imperfect 3mp on nations changed to mismatched subject/voice sequence",
+          "spanishSpan": "estruendarán, y reprendió"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:24:57.108152+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 14,
+    "verses": 14,
+    "input": 29874,
+    "cachedInput": 11648,
+    "output": 765,
+    "reasoning": 12445,
+    "usd": 0.1215,
+    "byProvider": {
+      "xai": {
+        "calls": 14,
+        "input": 29874,
+        "output": 765,
+        "reasoning": 12445,
+        "usd": 0.1215
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 14,
+        "input": 29874,
+        "output": 765,
+        "reasoning": 12445,
+        "usd": 0.1215
+      }
+    },
+    "usdPerVerse": 0.0087,
+    "bibleAtThisRate": 270.0,
+    "book": "isaias",
+    "chapter": 17
+  }
+}

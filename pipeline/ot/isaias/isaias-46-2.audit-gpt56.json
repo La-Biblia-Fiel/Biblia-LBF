@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 46:2",
+  "chapter": 46,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Se encorvaron, se doblaron a una; no pudieron escapar la carga, y su alma en el cautiverio fue.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046002006",
+        "h23046002007"
+      ],
+      "issue": "מלט piel inf construct + משא rendered as 'escapar la carga' (escape), but lemma is deliver/rescue, not escape",
+      "spanishSpan": "escapar la carga"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

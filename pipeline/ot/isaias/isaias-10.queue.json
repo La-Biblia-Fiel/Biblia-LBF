@@ -1,0 +1,376 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 10,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    8,
+    10,
+    11,
+    12,
+    14,
+    16,
+    17,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    33,
+    34
+  ],
+  "holds": [
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay, Ashur, vara de mi nariz, y bastón él en su mano, mi indignación!",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010005007"
+          ],
+          "issue": "3mp suffix rendered as singular/ambiguous 'su mano' instead of 'their hand'",
+          "spanishSpan": "su mano"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010005005",
+            "h23010005006",
+            "h23010005007",
+            "h23010005008"
+          ],
+          "issue": "syntax and participant structure altered; 'él en su mano, mi indignación' does not preserve the token sequence or attachment",
+          "spanishSpan": "y bastón él en su mano, mi indignación"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Contra nación hipócrita lo enviaré, y sobre pueblo de mi furor lo mandaré, para saquear saqueo y para tomar presa, y para pisoteo como lodo de calles.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010006010",
+            "h23010006011"
+          ],
+          "issue": "adds 'tomar presa' concept not licensed by בז / בַּז tokens",
+          "spanishSpan": "y para tomar presa"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿No como Karkemish Kalnó? ¿Si no como Arpad Jamat? ¿Si no como Dameseq Shomrón?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010009002",
+            "h23010009003"
+          ],
+          "issue": "order of proper names reversed from source tokens",
+          "spanishSpan": "Karkemish Kalnó"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010009007"
+          ],
+          "issue": "proper name respelled (Jamat) instead of matching packet form",
+          "spanishSpan": "Jamat"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010009010",
+            "h23010009011"
+          ],
+          "issue": "proper names respelled (Dameseq Shomrón) instead of matching packet forms",
+          "spanishSpan": "Dameseq Shomrón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010009001",
+            "h23010009004",
+            "h23010009005",
+            "h23010009008",
+            "h23010009009"
+          ],
+          "issue": "question structure altered; omits licensed interrogative-negative force and changes participant flow",
+          "spanishSpan": "¿No como... ¿Si no como... ¿Si no como..."
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque dijo: En fuerza de mi mano hice, y en mi sabiduría, porque entendí; y quito términos de pueblos, y saqueé sus tesoros, y derribo como toro moradores.",
+      "notes": "tenses inconsistent with token morphology; 'como toro' resolves abbîr ambiguity",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010013012"
+          ],
+          "issue": "adds 'sus tesoros' with no corresponding token; plunder applies only to gebûlot ʿammîm",
+          "spanishSpan": "saqueé sus tesoros"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010013009",
+            "h23010013013"
+          ],
+          "issue": "changes hiphil imperfect 1cs verbs to present tense while surrounding perfects are rendered past",
+          "spanishSpan": "quito ... derribo"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Se gloriará el hacha sobre el que corta con ella? ¿Si se engrandecerá la sierra sobre el que la mueve? Como mover vara y a sus alzadores, como alzar bastón no madera.",
+      "notes": "first clause marginally licensed but later clauses change participants and structure",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010015006",
+            "h23010015007",
+            "h23010015008",
+            "h23010015009",
+            "h23010015010"
+          ],
+          "issue": "second clause rendered as incomplete '¿Si' question instead of 'or if' continuation of hithpael on saw",
+          "spanishSpan": "¿Si se engrandecerá la sierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010015011",
+            "h23010015012",
+            "h23010015013",
+            "h23010015014"
+          ],
+          "issue": "infinitive construct + rod + lifters reversed and paraphrased as 'mover vara y a sus alzadores'",
+          "spanishSpan": "Como mover vara y a sus alzadores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010015015",
+            "h23010015016",
+            "h23010015017",
+            "h23010015018"
+          ],
+          "issue": "second comparison distorted; adds 'alzar' verb and fails to keep 'as lifting staff not-wood' structure",
+          "spanishSpan": "como alzar bastón no madera"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y gloria de su bosque y de su Carmelo, de alma y hasta carne, consumirá; y será como derretirse de enfermo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010018001",
+            "h23010018007"
+          ],
+          "issue": "Spanish syntax makes 'gloria' the subject that consumirá, but tokens place glory as the consumed item and yekaleh has separate 3ms subject",
+          "spanishSpan": "Y gloria de su bosque y de su Carmelo ... consumirá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010018003"
+          ],
+          "issue": "capitalizes Carmelo as title/name not licensed by token",
+          "spanishSpan": "su Carmelo"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque consumación y decretada Adonai Jehová de ejércitos hace en seno de toda la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010023002",
+            "h23010023003"
+          ],
+          "issue": "renders noun + Niphal participle as noun + adjective, altering coordination and participial force",
+          "spanishSpan": "consumación y decretada"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h23010023008"
+          ],
+          "issue": "seno is interpretive smoothing for midst/within",
+          "spanishSpan": "en seno de"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será en el día aquel: apartará su carga de sobre tu hombro, y su yugo de sobre tu cuello, y será destruido el yugo de faces de aceite.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010027011",
+            "h23010027012",
+            "h23010027013",
+            "h23010027014"
+          ],
+          "issue": "Spanish re-parses מִפְּנֵי שָׁמֶן as genitive modifier of the yoke itself (\"yugo de faces de aceite\"), altering syntax and adding unlicensed concept",
+          "spanishSpan": "el yugo de faces de aceite"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Aún hoy en Nov para pararse; agitará su mano monte de Tsiyón, collado de Yerushaláyim.",
+      "notes": "structure and name spelling mismatch tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010032003"
+          ],
+          "issue": "misspells locked proper name as Nov",
+          "spanishSpan": "Nov"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010032004"
+          ],
+          "issue": "adds purpose sense not licensed by infinitive construct",
+          "spanishSpan": "para pararse"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23010032005",
+            "h23010032007"
+          ],
+          "issue": "splits sentence and omits direct connection between wave-hand and mount",
+          "spanishSpan": "; agitará su mano monte"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:07:07.558878+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 34,
+    "verses": 34,
+    "input": 68871,
+    "cachedInput": 24448,
+    "output": 2178,
+    "reasoning": 31594,
+    "usd": 0.3037,
+    "byProvider": {
+      "xai": {
+        "calls": 34,
+        "input": 68871,
+        "output": 2178,
+        "reasoning": 31594,
+        "usd": 0.3037
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 34,
+        "input": 68871,
+        "output": 2178,
+        "reasoning": 31594,
+        "usd": 0.3037
+      }
+    },
+    "usdPerVerse": 0.0089,
+    "bibleAtThisRate": 278.0,
+    "book": "isaias",
+    "chapter": 10
+  }
+}

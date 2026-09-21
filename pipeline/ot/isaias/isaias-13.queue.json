@@ -1,0 +1,254 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 13,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17
+  ],
+  "holds": [
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque estrellas de los cielos y sus kesilim no harán brillar su luz; se oscureció el sol en su salida, y luna no hará brillar su luz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013010004"
+          ],
+          "issue": "untranslated non-name lemma kept as kesilim instead of Spanish rendering",
+          "spanishSpan": "sus kesilim"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y sus niños serán estrellados delante de sus ojos; saquearán sus casas, y sus mujeres serán acostadas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013016004"
+          ],
+          "issue": "Niphal passive 'will be plundered' rendered as active 'saquearán' (voice/participant shift)",
+          "spanishSpan": "saquearán sus casas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013016006"
+          ],
+          "issue": "adds verb 'serán acostadas' with no corresponding token or lemma in packet",
+          "spanishSpan": "y sus mujeres serán acostadas"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y arcos a mozos estrellarán, y fruto de vientre no tendrán misericordia; sobre hijos no se apiadará su ojo.",
+      "notes": "multiple participant and syntactic mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013018001",
+            "h23013018002",
+            "h23013018003"
+          ],
+          "issue": "wrong syntax and participant roles; bows (fpl) are subject of 3fp verb dashing the youths as direct object",
+          "spanishSpan": "Y arcos a mozos estrellarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013018004",
+            "h23013018005",
+            "h23013018006",
+            "h23013018007",
+            "h23013018008",
+            "h23013018009"
+          ],
+          "issue": "3mp subject of piel ירחמו omitted or reassigned; fruit of womb treated as if subject rather than object of the negated compassion",
+          "spanishSpan": "fruto de vientre no tendrán misericordia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013018011",
+            "h23013018012"
+          ],
+          "issue": "3fs subject of qal תחוס correctly matches עין but overall clause separation distorts the parallel negated clauses",
+          "spanishSpan": "sobre hijos no se apiadará su ojo"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será Bavel, gala de reinos, ornato de soberbia de Kasdim, como trastornamiento de Dios a Sedom y a Amoré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013019009"
+          ],
+          "issue": "renders non-name lemma אלהים as Spanish Dios",
+          "spanishSpan": "de Dios"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No será habitada para siempre, y no morará hasta generación y generación; y no plantará tienda allí árabe, y pastores no harán echar allí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013020015"
+          ],
+          "issue": "yarbitzu (hiphil רבץ cause to lie down/rest) rendered as 'harán echar' which adds wrong action",
+          "spanishSpan": "harán echar"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y echarán allí criaturas del desierto, y llenarán sus casas buhos; y morarán allí hijas de avestruz, y seírim danzarán allí.",
+      "notes": "multiple mismatches on first two clauses",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013021001"
+          ],
+          "issue": "verb 'echarán' mismatches lemma 7257 qal 'lie down / recline'",
+          "spanishSpan": "echarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013021003",
+            "h23013021006"
+          ],
+          "issue": "assignment of verbs to subjects inverted or mismatched",
+          "spanishSpan": "echarán allí criaturas del desierto, y llenarán sus casas buhos"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y responderán aulladores en sus alcázares, y chacales en palacios de deleite; y cercano a venir su tiempo, y sus días no se alargarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013022003"
+          ],
+          "issue": "lemma 490 (widows) rendered as alcázares",
+          "spanishSpan": "alcázares"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23013022001"
+          ],
+          "issue": "morph 3ms rendered as plural responderán",
+          "spanishSpan": "responderán"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:13:54.200321+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 22,
+    "verses": 22,
+    "input": 43650,
+    "cachedInput": 17664,
+    "output": 1280,
+    "reasoning": 19791,
+    "usd": 0.1872,
+    "byProvider": {
+      "xai": {
+        "calls": 22,
+        "input": 43650,
+        "output": 1280,
+        "reasoning": 19791,
+        "usd": 0.1872
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 22,
+        "input": 43650,
+        "output": 1280,
+        "reasoning": 19791,
+        "usd": 0.1872
+      }
+    },
+    "usdPerVerse": 0.0085,
+    "bibleAtThisRate": 265.0,
+    "book": "isaias",
+    "chapter": 13
+  }
+}

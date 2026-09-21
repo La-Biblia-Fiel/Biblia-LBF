@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:14",
+  "chapter": 14,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces dijo el SEÑOR: Los profetas que profetizan en mi nombre, a quienes no los envié ni les hablé, profetizan mentiras y vanidad; son visiones de su propia mente, con las que engañan a este pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014014003"
+      ],
+      "issue": "omits 'to me' (אֵלַי)",
+      "spanishSpan": "dijo el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014014011"
+      ],
+      "issue": "omits 'commanded them' (צִוִּיתִם)",
+      "spanishSpan": "no los envié ni les hablé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014014017"
+      ],
+      "issue": "omits קֶסֶם (divination)",
+      "spanishSpan": "mentiras y vanidad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014014015",
+        "h24014014018"
+      ],
+      "issue": "replaces 'heart' with 'mente' and adds 'propia'",
+      "spanishSpan": "visiones de su propia mente"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014014021"
+      ],
+      "issue": "adds 'engañan a este pueblo' (no such concept in tokens); changes addressee from 'you' (לָכֶם)",
+      "spanishSpan": "con las que engañan a este pueblo"
+    }
+  ],
+  "notes": "multiple unlicensed additions and omissions",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 54:10",
+  "chapter": 54,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque los montes se moverán y las colinas se tambalearán, y mi misericordia de contigo no se moverá, y pacto de mi paz no se tambaleará, dijo el que se compadece de ti, Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23054010006",
+        "h23054010007",
+        "h23054010008",
+        "h23054010009"
+      ],
+      "issue": "garbled preposition and syntax for חסדי מאתך לא ימוש; Spanish does not license a coherent 'will not depart from you' reading",
+      "spanishSpan": "mi misericordia de contigo no se moverá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

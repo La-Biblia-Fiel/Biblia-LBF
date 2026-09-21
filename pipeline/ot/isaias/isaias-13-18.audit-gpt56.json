@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 13:18",
+  "chapter": 13,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y arcos a mozos estrellarán, y fruto de vientre no tendrán misericordia; sobre hijos no se apiadará su ojo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013018001",
+        "h23013018002",
+        "h23013018003"
+      ],
+      "issue": "wrong syntax and participant roles; bows (fpl) are subject of 3fp verb dashing the youths as direct object",
+      "spanishSpan": "Y arcos a mozos estrellarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013018004",
+        "h23013018005",
+        "h23013018006",
+        "h23013018007",
+        "h23013018008",
+        "h23013018009"
+      ],
+      "issue": "3mp subject of piel ירחמו omitted or reassigned; fruit of womb treated as if subject rather than object of the negated compassion",
+      "spanishSpan": "fruto de vientre no tendrán misericordia"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013018011",
+        "h23013018012"
+      ],
+      "issue": "3fs subject of qal תחוס correctly matches עין but overall clause separation distorts the parallel negated clauses",
+      "spanishSpan": "sobre hijos no se apiadará su ojo"
+    }
+  ],
+  "notes": "multiple participant and syntactic mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 58:14",
+  "chapter": 58,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "entonces te deleitarás sobre Jehová, y te haré cabalgar sobre alturas de tierra, y te haré comer herencia de Yaakov tu padre; porque boca de Jehová habló.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23058014011"
+      ],
+      "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

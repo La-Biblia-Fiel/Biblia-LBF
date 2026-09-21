@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:25",
+  "chapter": 7,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Pasaron siete días después de que Jehová golpeó el Nilo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007025001"
+      ],
+      "issue": "וַיִּמָּלֵא is Niphal ‘was filled’; ‘Pasaron’ smooths filled-days idiom to ‘passed’",
+      "spanishSpan": "Pasaron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

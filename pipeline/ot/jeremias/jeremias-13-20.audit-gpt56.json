@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:20",
+  "chapter": 13,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Mirad y ved a los que vienen del norte: ¿dónde está el rebaño que os fue dado, la grey de su gloria?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013020007",
+        "h24013020009"
+      ],
+      "issue": "changes 2fs suffix to 3rd-person 'su' and mixes persons",
+      "spanishSpan": "su gloria"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013020001",
+        "h24013020007"
+      ],
+      "issue": "uses vosotros plural imperative and 'os' instead of ustedes",
+      "spanishSpan": "Mirad ... os fue dado"
+    }
+  ],
+  "notes": "person and suffix mismatch on 2fs referents",
+  "discardedUncitedFindings": 0
+}

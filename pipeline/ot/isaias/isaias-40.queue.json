@@ -1,0 +1,444 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 40,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "passed": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    13,
+    17,
+    23,
+    24,
+    26,
+    28,
+    31
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Consuelen, consuelen a mi pueblo, dirá su Dios de ustedes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040001005"
+          ],
+          "issue": "renders אֱלֹהֵיכֶֽם (your(pl) God) as 'su Dios de ustedes', inserting extra 'de ustedes' not licensed by the token and using mismatched 3sg possessive 'su'",
+          "spanishSpan": "su Dios de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sobre monte alto sube a ti, anunciadora de Tsiyón; alza con fuerza tu voz, anunciadora de Yerushaláyim; alza, no temas; di a ciudades de Yehudá: He aquí su Dios de ustedes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040009004",
+            "h23040009005"
+          ],
+          "issue": "עלי לך rendered as 'sube a ti' (wrong direction and participant)",
+          "spanishSpan": "sube a ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040009007",
+            "h23040009012",
+            "h23040009018"
+          ],
+          "issue": "Hebraized proper names Tsiyón, Yerushaláyim, Yehudá instead of conventional Spanish forms",
+          "spanishSpan": "Tsiyón; Yerushaláyim; Yehudá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040009020"
+          ],
+          "issue": "2mp suffix אלהיכם rendered with 3sg 'su Dios' plus awkward 'de ustedes'",
+          "spanishSpan": "su Dios de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Quién midió en su hueco aguas, y cielos con el palmo midió, y midió en el tercio polvo de la tierra, y pesó en la balanza montes, y collados en básculas?",
+      "notes": "multiple verb and construction mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040012008",
+            "h23040012009"
+          ],
+          "issue": "renders כּוּל + שָׁלִישׁ as 'midió en el tercio', adding a verb and misparsing the measure construction",
+          "spanishSpan": "y midió en el tercio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040012002",
+            "h23040012007"
+          ],
+          "issue": "repeats 'midió' for both מָדַד and תִּכֵּן, flattening distinct verbs",
+          "spanishSpan": "midió ... midió"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040012003"
+          ],
+          "issue": "renders שָׁעַל as 'hueco' without licensed sense or construct handling",
+          "spanishSpan": "en su hueco"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Con quién se aconsejó, y le hizo entender, y le enseñó en senda de juicio, y le enseñó conocimiento, y camino de inteligencias le hizo saber?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040014003"
+          ],
+          "issue": "Niphal נוֹעָץ rendered as reflexive 'se aconsejó' on the wrong participant; tokens show passive 'was advised' (with whom did someone advise him)",
+          "spanishSpan": "se aconsejó"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí naciones como gota desde cubo, y como polvo de básculas fueron contadas; he aquí islas como lo fino arrojará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040015011"
+          ],
+          "issue": "verb lemma 5190 qal impf 3ms rendered as 'arrojará' (throw) instead of lift/take up",
+          "spanishSpan": "arrojará"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Levanón no basta para quemar, y su animal no basta para holocausto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040016001"
+          ],
+          "issue": "non-conventional spelling of proper name Lebanon (Levanón instead of conventional Líbano)",
+          "spanishSpan": "Levanón"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Y a quién asemejarán a Dios, y qué semejanza arreglarán a él?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040018004"
+          ],
+          "issue": "renders common noun lemma 410 (אֵל) as capitalized title 'Dios'",
+          "spanishSpan": "a Dios"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El ídolo fundió artífice, y fundidor con el oro lo lamina, y cadenas de plata fundidor.",
+      "notes": "word order and syntax distort the token sequence and roles",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040019001",
+            "h23040019002",
+            "h23040019003"
+          ],
+          "issue": "reverses participants: makes ídolo subject of fundió instead of object of casting by חָרָשׁ",
+          "spanishSpan": "El ídolo fundió artífice"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040019007",
+            "h23040019008",
+            "h23040019009"
+          ],
+          "issue": "incomplete clause; omits verb/action linking צוֹרֵף to the chains",
+          "spanishSpan": "y cadenas de plata fundidor"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El empobrecido de ofrenda madera no pudrirá escogerá; artífice sabio buscará a él, para preparar ídolo no se moverá.",
+      "notes": "second clause acceptable but first clause fails",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040020003",
+            "h23040020004",
+            "h23040020005",
+            "h23040020006"
+          ],
+          "issue": "word order and verb attachment reversed/mangled; wood is object of choose, not rot subject",
+          "spanishSpan": "madera no pudrirá escogerá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040020001",
+            "h23040020002"
+          ],
+          "issue": "Spanish noun phrase distorts the participial subject + offering construction",
+          "spanishSpan": "El empobrecido de ofrenda madera"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿No sabrán ustedes? ¿No oirán ustedes? ¿No fue anunciado desde cabeza a ustedes? ¿No entendieron ustedes fundamentos de la tierra?",
+      "notes": "2mp 'ustedes' is correct; other tokens align.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040021007"
+          ],
+          "issue": "literal 'cabeza' for ראש in מֵרֹאשׁ לָכֶם adds non-licensed sense and fails idiomatic 'from the beginning'",
+          "spanishSpan": "desde cabeza a ustedes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040021002",
+            "h23040021004"
+          ],
+          "issue": "imperfects rendered as future 'sabrán'/'oirán' alters aspect from the qal yiqtols",
+          "spanishSpan": "sabrán ustedes? oirán ustedes?"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El que asienta sobre círculo de la tierra, y sus moradores como langostas; el que tiende como velo cielos, y los extendió como tienda para habitar;",
+      "notes": "minor additional smoothing on verb choice for ישב but syntax errors are decisive",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040022007",
+            "h23040022008",
+            "h23040022009"
+          ],
+          "issue": "word order and syntax inverted: Spanish 'tiende como velo cielos' places 'como velo' before 'cielos' instead of reflecting נוטה כדק שמים (stretches heavens like the curtain)",
+          "spanishSpan": "el que tiende como velo cielos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040022003",
+            "h23040022004"
+          ],
+          "issue": "missing definite article on construct phrase; tokens require 'el círculo de la tierra' but Spanish omits article before círculo",
+          "spanishSpan": "sobre círculo de la tierra"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Y a quién me asemejarán ustedes, y seré igualado? dice Santo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040025004"
+          ],
+          "issue": "qal 1cs active 'I will equal/compare' rendered as passive 'seré igualado'",
+          "spanishSpan": "seré igualado"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué dirás, Yaakov, y hablarás, Israel: Fue escondido mi camino de Jehová, y de mi Dios mi juicio pasa?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040027003"
+          ],
+          "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Dando al fatigado fuerza, y a no hay fuerzas potencia multiplica.",
+      "notes": "participle opening is ok but second clause distorts tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040029004",
+            "h23040029005"
+          ],
+          "issue": "adds 'hay' not licensed by the negative particle token",
+          "spanishSpan": "a no hay fuerzas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040029006",
+            "h23040029007"
+          ],
+          "issue": "reverses object-verb order and fails to show 3ms hiphil subject acting on the noun",
+          "spanishSpan": "potencia multiplica"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y se fatigan mozos y se cansan, y jóvenes tropezando tropezarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23040030001",
+            "h23040030003",
+            "h23040030006"
+          ],
+          "issue": "imperfect verbs rendered as present tense instead of future",
+          "spanishSpan": "se fatigan ... se cansan"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T20:28:17.626112+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 31,
+    "verses": 31,
+    "input": 63252,
+    "cachedInput": 9472,
+    "output": 2474,
+    "reasoning": 28395,
+    "usd": 0.2975,
+    "byProvider": {
+      "xai": {
+        "calls": 31,
+        "input": 63252,
+        "output": 2474,
+        "reasoning": 28395,
+        "usd": 0.2975
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 31,
+        "input": 63252,
+        "output": 2474,
+        "reasoning": 28395,
+        "usd": 0.2975
+      }
+    },
+    "usdPerVerse": 0.0096,
+    "bibleAtThisRate": 298.0,
+    "book": "isaias",
+    "chapter": 40
+  }
+}

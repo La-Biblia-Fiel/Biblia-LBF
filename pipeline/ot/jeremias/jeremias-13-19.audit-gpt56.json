@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:19",
+  "chapter": 13,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Las ciudades del sur están cerradas, y no hay quien las abra. La cautividad de Judá es toda cautividad; son cautivos de paz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013019006",
+        "h24013019007",
+        "h24013019008",
+        "h24013019009",
+        "h24013019010"
+      ],
+      "issue": "renders הגלת...כלה as 'cautividad de Judá es toda cautividad' and הגלת שלומים as 'son cautivos de paz', adding 'cautividad/cautivos', changing 3fs to plural 'son', and interpreting שלומים as 'de paz' without token license",
+      "spanishSpan": "La cautividad de Judá es toda cautividad; son cautivos de paz"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:1",
+  "chapter": 43,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora, así dijo Jehová, tu creador, Yaakov, y tu formador, Israel: No temas, porque te redimí; llamé en tu nombre; a mí tú.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043001006"
+      ],
+      "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

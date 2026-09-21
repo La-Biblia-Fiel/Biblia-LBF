@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:12",
+  "chapter": 7,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y cada uno echó su bastón, y se volvieron serpientes, pero la vara de Aarón devoró las varas de ellos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007012003",
+        "h02007012007",
+        "h02007012010"
+      ],
+      "issue": "Same lemma מַטֶּה rendered both ‘bastón’ and ‘vara’ in one verse",
+      "spanishSpan": "bastón / vara"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

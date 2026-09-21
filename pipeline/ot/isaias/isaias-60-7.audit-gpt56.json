@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 60:7",
+  "chapter": 60,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Toda oveja de Qedar se reunirán a ti; carneros de Nevayot te ministrarán; subirán a agrado mi altar, y casa de mi hermosura embelleceré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23060007001",
+        "h23060007002",
+        "h23060007004"
+      ],
+      "issue": "singular 'Toda oveja' with plural verb mismatches collective construct + 3mp Niphal",
+      "spanishSpan": "Toda oveja de Qedar se reunirán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23060007009",
+        "h23060007010",
+        "h23060007011",
+        "h23060007012"
+      ],
+      "issue": "'subirán a agrado mi altar' adds unlicensed preposition and sense; tokens are 'go up upon favor/acceptance of my altar'",
+      "spanishSpan": "subirán a agrado mi altar"
+    }
+  ],
+  "notes": "proper names and final clause acceptable; number and altar phrase cause fail",
+  "discardedUncitedFindings": 0
+}

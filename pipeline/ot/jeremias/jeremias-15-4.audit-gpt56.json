@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:4",
+  "chapter": 15,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y daré a todas las naciones de la tierra por objeto de espanto por causa de Manasés hijo de Ezequías, rey de Judá, por cuanto hizo en Jerusalén.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015004001",
+        "h24015004002",
+        "h24015004003",
+        "h24015004004"
+      ],
+      "issue": "Spanish adds 'por objeto de espanto' and re-structures as giving nations as horror-object; tokens only license 'and I will give them to all kingdoms of the earth'",
+      "spanishSpan": "Y daré a todas las naciones de la tierra por objeto de espanto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015004003"
+      ],
+      "issue": "מַמְלְכ֣וֹת rendered as 'naciones' (not licensed; lemma is kingdoms)",
+      "spanishSpan": "naciones"
+    }
+  ],
+  "notes": "remainder of verse matches but additions and lexical change trigger fail",
+  "discardedUncitedFindings": 0
+}

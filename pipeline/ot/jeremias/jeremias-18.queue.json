@@ -1,0 +1,569 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 18,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    5,
+    16
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y bajé a la casa del alfarero, y he aquí que él estaba trabajando sobre la alfarería.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018003007"
+          ],
+          "issue": "dual stones rendered as specialized 'alfarería' instead of stones",
+          "spanishSpan": "sobre la alfarería"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso no puede el alfarero, como este, hacer de ustedes, casa de Israel, lo que le place, oh casa de Israel? He aquí que como la arcilla en la mano del alfarero, así son ustedes en mi mano, oh casa de Israel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018006001",
+            "h24018006004"
+          ],
+          "issue": "Spanish makes alfarero the subject of 'puede'; tokens show 1cs 'I am able' with potter only as comparison",
+          "spanishSpan": "no puede el alfarero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018006005"
+          ],
+          "issue": "adds 'lo que le place' with no corresponding token",
+          "spanishSpan": "lo que le place"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En un momento hablo acerca de una nación o de un reino para arruinarla y derribarla y para destruirla.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018007005"
+          ],
+          "issue": "changes וְעַל (and concerning) to 'o' (or)",
+          "spanishSpan": "o de un reino"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero si aquella nación deja de hacer el mal que yo le he dicho que haga, entonces me arrepiento del mal que había pensado hacerle.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018008005",
+            "h24018008006",
+            "h24018008007"
+          ],
+          "issue": "renders אשר דברתי עליו as 'el mal que yo le he dicho que haga' (commanding the nation), but tokens only license 'the evil which I spoke concerning it'",
+          "spanishSpan": "el mal que yo le he dicho que haga"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y en un momento hablo acerca de una nación o de un reino para construirla y para plantarla.",
+      "notes": "also 'acerca de' and added 'la' object are interpretive smoothing",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018009005"
+          ],
+          "issue": "changed conjunction from 'and upon' to 'or of'",
+          "spanishSpan": "o de"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018009002"
+          ],
+          "issue": "tense mismatch: imperfect 1cs rendered as present 'hablo' instead of future 'hablaré'",
+          "spanishSpan": "hablo"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pero si hace el mal a mis ojos para no escuchar mi voz, entonces me arrepiento del bien que había pensado hacerle.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018010001"
+          ],
+          "issue": "adds 'el mal' (evil) with no corresponding lemma or surface in tokens",
+          "spanishSpan": "hace el mal"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ahora, pues, di a los hombres de Judá y a los habitantes de Jerusalén: Así ha dicho el Señor: He aquí que yo formo el mal contra ustedes y planeo un pensamiento contra ustedes; volved cada uno de su camino malo y caminad en los caminos y en las obras buenos.",
+      "notes": "additional minor smoothing on אִישׁ pluralization not fatal alone",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018011013"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of licensed Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018011027",
+            "h24018011028",
+            "h24018011029"
+          ],
+          "issue": "הֵיטִיבוּ דַרְכֵיכֶם וּמַעַלְלֵיכֶם rendered as 'caminad en los caminos y en las obras buenos' (adds 'caminad', changes hiphil 'make good' to 'walk in good')",
+          "spanishSpan": "caminad en los caminos y en las obras buenos"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirán: No esperamos que seamos castigados, porque seguimos nuestros propios pensamientos, y cada uno hace el mal que le place.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018012002"
+          ],
+          "issue": "adds 'castigados' (punished) concept absent from נוֹאָשׁ lemma/morph",
+          "spanishSpan": "No esperamos que seamos castigados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018012008",
+            "h24018012009",
+            "h24018012010",
+            "h24018012011"
+          ],
+          "issue": "adds interpretive 'que le place' not licensed by שְׁרִר�וּת לִבּוֹ הָרָע + עשה",
+          "spanishSpan": "el mal que le place"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, así ha dicho el Señor: ¿Preguntad entre las naciones, ¿quién ha oído semejantes cosas? La virgen de Israel se ha hecho muy desvergonzada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018013004"
+          ],
+          "issue": "replaces proper name יהוה with title 'el Señor'",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018013011",
+            "h24018013012"
+          ],
+          "issue": "renders שעררת + עשתה as 'se ha hecho muy desvergonzada' (changes noun+verb to adjective on subject)",
+          "spanishSpan": "La virgen de Israel se ha hecho muy desvergonzada"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Dejará el roca del monte de Siria su nieve blanca? ¿Derribarán las aguas heladas y corrientes?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018014003"
+          ],
+          "issue": "שָׂדַי rendered as 'monte' instead of field/open country",
+          "spanishSpan": "monte"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018014005"
+          ],
+          "issue": "לְבָנ֑וֹן rendered as 'Siria' instead of Líbano",
+          "spanishSpan": "Siria"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018014007"
+          ],
+          "issue": "Niphal passive 'be plucked up' rendered as active 'Derribarán'",
+          "spanishSpan": "Derribarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018014009"
+          ],
+          "issue": "זָרִים omitted entirely",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque mi pueblo me ha olvidado y ha ofrecido sacrificios vanos; y en sus caminos eternos los ha hecho tropezar, para que anden por sendas que no están preparadas.",
+      "notes": "multiple structural and number mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018015010"
+          ],
+          "issue": "adds explicit purpose clause 'para que' not licensed by infinitive construct",
+          "spanishSpan": "para que anden"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018015005",
+            "h24018015004"
+          ],
+          "issue": "renders 3mp verb + לשוא as singular 'ha ofrecido sacrificios vanos', altering number and adding interpretive noun",
+          "spanishSpan": "ha ofrecido sacrificios vanos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018015006",
+            "h24018015003"
+          ],
+          "issue": "participant reference mismatch: singular 'mi pueblo' subject with 'los ha hecho' creates unclear or shifted object reference vs. 3cp subject + 3mp suffix",
+          "spanishSpan": "los ha hecho tropezar"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Como el viento del norte dispersaré a ellos delante del enemigo; con la espalda y no con la cara verán en el día de su calamidad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018017002"
+          ],
+          "issue": "renders קָדִים as 'viento del norte' (north wind) instead of east",
+          "spanishSpan": "viento del norte"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018017009"
+          ],
+          "issue": "changes 1cs verb אֶרְאֵם (I will see them) to 3p 'verán' (they will see)",
+          "spanishSpan": "verán"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijeron: Vamos y pensamos planes contra Jeremías, porque no faltará la ley al sacerdote, ni el consejo al sabio, ni la palabra al profeta. Vamos y hagamosle daño con la lengua, y no oiremos sus palabras.",
+      "notes": "multiple volitive forms flattened to declarative/future",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018018003"
+          ],
+          "issue": "cohortative 1cp rendered as indicative present instead of volitive",
+          "spanishSpan": "pensamos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018018020"
+          ],
+          "issue": "cohortative 1cp rendered as future indicative instead of volitive 'let us not listen'",
+          "spanishSpan": "no oiremos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018018017"
+          ],
+          "issue": "hiphil cohortative rendered inconsistently; first cohortative already failed on mood",
+          "spanishSpan": "hagamosle daño"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Oye, Señor, y escucha el clamor de tu siervo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018019002"
+          ],
+          "issue": "יהוה rendered as Señor instead of Jehová",
+          "spanishSpan": "Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018019003"
+          ],
+          "issue": "omits the 1cs suffix prepositional phrase 'to me'",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018019005",
+            "h24018019006"
+          ],
+          "issue": "replaces 'voice of my adversaries' with unlicensed 'clamor de tu siervo'",
+          "spanishSpan": "el clamor de tu siervo"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso recompensarás el bien con el mal? Porque han cavado una zanja para mi alma. Acuérdate de que yo estuve delante de ti para hablar bien de ellos para que tu ira se apartara de ellos.",
+      "notes": "first clause mismatches voice, person and stem",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018020001",
+            "h24018020002",
+            "h24018020003",
+            "h24018020004"
+          ],
+          "issue": "pual 3ms passive 'shall [it] be recompensed' rendered as active 2ms 'recompensarás'",
+          "spanishSpan": "¿Acaso recompensarás el bien con el mal?"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por eso, dan a sus hijos al hambre, y a ellos a la espada; y a sus mujeres, viudas; y a sus hombres, muertos; a sus jóvenes, a la espada en la guerra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018021002"
+          ],
+          "issue": "2ms imperative changed to 3pl indicative (person/participant shift)",
+          "spanishSpan": "dan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018021006"
+          ],
+          "issue": "hiphil imperative 2ms +3mp rendered without preserving command force or participants",
+          "spanishSpan": "y a ellos a la espada"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se oirá un grito en sus casas, porque tú los traerás un ejército de pronto, porque han cavado una zanja para mí, y han escondido lazo para mis pies.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018022011"
+          ],
+          "issue": "adds 'zanja para mí' concept; tokens only license 'dug to capture me'",
+          "spanishSpan": "han cavado una zanja para mí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018022007"
+          ],
+          "issue": "גְּדוּד rendered as 'ejército' (adds specialized military sense not in lemma)",
+          "spanishSpan": "un ejército"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018022012"
+          ],
+          "issue": "plural פַּחִים rendered as singular 'lazo'",
+          "spanishSpan": "lazo"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú, Señor, conoces todas sus consultas contra mí para la muerte; no te excuses por su pecado ni por su maldad delante de ti, y no los quite de tu presencia en el tiempo de tu ira, haz con ellos lo que te place.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018023002"
+          ],
+          "issue": "Señor replaces licensed proper name יהוה",
+          "spanishSpan": "Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018023010"
+          ],
+          "issue": "no te excuses adds concept and changes participant; lemma is cover/atone",
+          "spanishSpan": "no te excuses"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018023016",
+            "h24018023017",
+            "h24018023018"
+          ],
+          "issue": "no los quite de tu presencia adds 'de tu presencia' and omits מֻכְשָׁלִים; תמחי is wipe out, not remove from presence",
+          "spanishSpan": "no los quite de tu presencia"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24018023021",
+            "h24018023022"
+          ],
+          "issue": "lo que te place adds unlicensed concept; tokens only license 'do with them'",
+          "spanishSpan": "lo que te place"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:39:52.684336+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 23,
+    "verses": 23,
+    "input": 51341,
+    "cachedInput": 19904,
+    "output": 3105,
+    "reasoning": 19865,
+    "usd": 0.2106,
+    "byProvider": {
+      "xai": {
+        "calls": 23,
+        "input": 51341,
+        "output": 3105,
+        "reasoning": 19865,
+        "usd": 0.2106
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 23,
+        "input": 51341,
+        "output": 3105,
+        "reasoning": 19865,
+        "usd": 0.2106
+      }
+    },
+    "usdPerVerse": 0.0092,
+    "bibleAtThisRate": 285.0,
+    "book": "jeremias",
+    "chapter": 18
+  }
+}

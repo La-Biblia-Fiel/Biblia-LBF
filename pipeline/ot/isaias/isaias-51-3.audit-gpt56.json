@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:3",
+  "chapter": 51,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque consoló Jehová a Tsiyón; consoló todas sus ruinas; y puso su desierto como Edén, y su arabá como huerto de Jehová; gozo y alegría será hallada en ella, acción de gracias y voz de cántico.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051003004"
+      ],
+      "issue": "Hebraized proper name Tsiyón instead of conventional Spanish Sión",
+      "spanishSpan": "Tsiyón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051003011"
+      ],
+      "issue": "transliterated common noun arabá instead of translating the lemma",
+      "spanishSpan": "arabá"
+    }
+  ],
+  "notes": "two clear violations of proper-name and common-noun handling rules",
+  "discardedUncitedFindings": 0
+}

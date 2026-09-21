@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 48:8",
+  "chapter": 48,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "También no oíste; también no conociste; también desde entonces no se abrió tu oído; porque supe que traicionando traicionarás, y prevaricador desde vientre fuiste llamado.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23048008010",
+        "h23048008011"
+      ],
+      "issue": "passive smoothing of active 3fs piel verb",
+      "spanishSpan": "no se abrió tu oído"
+    }
+  ],
+  "notes": "minor voice smoothing only",
+  "discardedUncitedFindings": 0
+}

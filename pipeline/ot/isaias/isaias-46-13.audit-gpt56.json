@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 46:13",
+  "chapter": 46,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Acerqué mi justicia; no se alejará, y mi salvación no tardará; y pondré en Tsiyón salvación, a Israel mi hermosura.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23046013009"
+      ],
+      "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

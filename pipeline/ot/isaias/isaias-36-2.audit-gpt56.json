@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:2",
+  "chapter": 36,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y envió rey de Ashur a Rav-shaqé desde Lajish a Yerushaláyim, al rey Jizqiyahu, en ejército pesado; y se paró en canal de la alberca la superior, en calzada de campo de lavandero.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036002003",
+        "h23036002005",
+        "h23036002006",
+        "h23036002007",
+        "h23036002008",
+        "h23036002011"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Ashur, Rav-shaqé, Lajish, Yerushaláyim, Jizqiyahu"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036002020"
+      ],
+      "issue": "renders participle as specialized noun 'lavandero' resolving open morphology",
+      "spanishSpan": "lavandero"
+    }
+  ],
+  "notes": "transliterations and interpretive noun choice exceed token license",
+  "discardedUncitedFindings": 0
+}

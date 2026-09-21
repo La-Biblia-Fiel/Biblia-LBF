@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:20",
+  "chapter": 18,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Acaso recompensarás el bien con el mal? Porque han cavado una zanja para mi alma. Acuérdate de que yo estuve delante de ti para hablar bien de ellos para que tu ira se apartara de ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018020001",
+        "h24018020002",
+        "h24018020003",
+        "h24018020004"
+      ],
+      "issue": "pual 3ms passive 'shall [it] be recompensed' rendered as active 2ms 'recompensarás'",
+      "spanishSpan": "¿Acaso recompensarás el bien con el mal?"
+    }
+  ],
+  "notes": "first clause mismatches voice, person and stem",
+  "discardedUncitedFindings": 0
+}

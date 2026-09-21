@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:9",
+  "chapter": 3,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora, he aquí, el clamor de los hijos de Israel ha llegado a mí; y también he visto la opresión con la cual Egipto los oprime.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003009014"
+      ],
+      "issue": "participle is masculine plural but Spanish renders as singular verb",
+      "spanishSpan": "oprime"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

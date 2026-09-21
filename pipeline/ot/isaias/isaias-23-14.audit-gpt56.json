@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 23:14",
+  "chapter": 23,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Giman, naves de Tarshish, porque fue devastada su plaza fuerte de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23023014005",
+        "h23023014006"
+      ],
+      "issue": "verb rendered feminine (devastada) but token is pual 3ms on masculine noun",
+      "spanishSpan": "fue devastada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23023014006"
+      ],
+      "issue": "adds unlicensed noun 'plaza'",
+      "spanishSpan": "plaza fuerte"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 29:4",
+  "chapter": 29,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y serás abajada, de tierra hablarás, y de polvo se abatirá tu dicho; y será como ov de tierra tu voz, y de polvo tu dicho pía.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029004008"
+      ],
+      "issue": "renders אוֹב as non-Spanish 'ov' instead of a licensed noun sense",
+      "spanishSpan": "como ov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

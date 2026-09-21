@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 59:20",
+  "chapter": 59,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vendrá a Tsiyón Redentor, y a volvidos de rebelión en Yaakov, dicho de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23059020003"
+      ],
+      "issue": "capitalizes participle as doctrinal title 'Redentor'",
+      "spanishSpan": "Redentor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

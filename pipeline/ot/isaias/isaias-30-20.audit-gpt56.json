@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:20",
+  "chapter": 30,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dará a ustedes Adonai pan de angustia y aguas de aprieto, y no se esconderá aún tus maestros, y serán tus ojos viendo a tus maestros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030020002",
+        "h23030020011",
+        "h23030020013",
+        "h23030020016"
+      ],
+      "issue": "person/number shift: 2mp 'a ustedes' followed by 2ms 'tus' (teachers/eyes)",
+      "spanishSpan": "a ustedes ... tus maestros ... tus ojos ... tus maestros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

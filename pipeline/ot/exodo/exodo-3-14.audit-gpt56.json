@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:14",
+  "chapter": 3,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Dios a Moisés: «Seré el que seré». Y dijo: «Así dirás a los hijos de Israel: “Seré me ha enviado a ustedes”».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003014013",
+        "h02003014014",
+        "h02003014015"
+      ],
+      "issue": "last clause rendered as ungrammatical/misleading unit instead of preserving ehyeh as subject of shalachani + aleichem",
+      "spanishSpan": "Seré me ha enviado a ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 3:8",
+  "chapter": 3,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque tropezó Yerushaláyim, y Yehudá cayó, porque su lengua y sus hechos hacia Jehová, para rebelar los ojos de su gloria.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003008011",
+        "h23003008012",
+        "h23003008013"
+      ],
+      "issue": "לַמְר֖וֹת עֵנֵ֥י כְבוֹדוֹ rendered as 'para rebelar los ojos de su gloria' which alters the sense of rebelling against the eyes",
+      "spanishSpan": "para rebelar los ojos de su gloria"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 45:19",
+  "chapter": 45,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "No en oculto hablé, en lugar de tierra de tiniebla; no dije a simiente de Yaakov: Vacío me busquen; yo Jehová, hablante justicia, anunciador de derechuras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045019004",
+        "h23045019005",
+        "h23045019006"
+      ],
+      "issue": "בִּמְקוֹם אֶרֶץ חֹשֶׁךְ rendered as 'en lugar de tierra de tiniebla' which misparses the locative construct as 'instead of'",
+      "spanishSpan": "en lugar de tierra de tiniebla"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045019010"
+      ],
+      "issue": "proper name יַעֲקֹב Hebraized as Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

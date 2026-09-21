@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:25",
+  "chapter": 10,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Derrama tu ira sobre las naciones que no te conocen, y sobre las tribus que en tu nombre no invocan, porque han devorado a Jacob y ahora lo consumen y han hecho de su heredad un desierto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010025019"
+      ],
+      "issue": "inserted 'ahora' with no licensing token",
+      "spanishSpan": "ahora lo consumen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010025021"
+      ],
+      "issue": "heredad replaces נָוֵהוּ (habitation/pasture)",
+      "spanishSpan": "su heredad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010025009"
+      ],
+      "issue": "tribus for מִשְׁפָּחוֹת without packet license for that rendering",
+      "spanishSpan": "las tribus"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 14:10",
+  "chapter": 14,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Todos ellos responderán y dirán a ti: También tú enfermaste como nosotros; a nosotros fuiste asemejado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014010007"
+      ],
+      "issue": "pual passive (חֻלֵּיתָ) rendered as active preterite 'enfermaste' instead of passive",
+      "spanishSpan": "enfermaste"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

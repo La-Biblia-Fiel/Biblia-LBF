@@ -1,0 +1,552 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 12,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "passed": [
+    10,
+    15
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Justo eres, SEÑOR, aunque me acuso a ti. Hablaré de tus juicios: ¿Por qué la senda de los malvados prospera? Son todos engañadores.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012001005",
+            "h24012001006"
+          ],
+          "issue": "renders אָרִיב אֵלֶיךָ as 'me acuso a ti' instead of contending/arguing with you",
+          "spanishSpan": "aunque me acuso a ti"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012001008",
+            "h24012001009",
+            "h24012001010"
+          ],
+          "issue": "renders אַךְ מִשְׁפָּטִים אֲדַבֵּר אוֹתָךְ as 'Hablaré de tus juicios' (adds 'tus' and 'de', changes direct object to 'about your judgments')",
+          "spanishSpan": "Hablaré de tus juicios"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Los plantaste, y también echaron raíces; crecieron y dieron fruto. Estás cerca en sus bocas, pero lejos de sus entrañas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012002004"
+          ],
+          "issue": "יֵלְכוּ (halak qal impf 3mp 'they go') rendered as 'crecieron' (grew), adding unlicensed concept",
+          "spanishSpan": "crecieron"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tú, SEÑOR, me conoces, me ves, me pruebas el corazón con ti. Has preparado a los justos como a ovejas para el matadero, y los consagras para el día de su sacrificio.",
+      "notes": "multiple additions, substitutions and verb changes not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012003002"
+          ],
+          "issue": "יהוה rendered as SEÑOR instead of Jehová",
+          "spanishSpan": "SEÑOR"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012003008"
+          ],
+          "issue": "הַתִּקֵם (tear/pull away) rendered as has preparado",
+          "spanishSpan": "Has preparado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012003008",
+            "h24012003009",
+            "h24012003010"
+          ],
+          "issue": "adds 'los justos' and changes 'pull them like sheep to slaughter' structure",
+          "spanishSpan": "a los justos como a ovejas para el matadero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012003011",
+            "h24012003012",
+            "h24012003013"
+          ],
+          "issue": "changes 'consecrate them for the day of slaughter' to 'consagras para el día de su sacrificio'",
+          "spanishSpan": "los consagras para el día de su sacrificio"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Hasta cuánd戏中断了翻译，请继续之前的翻译工作，从最后一个完整的句子开始继续翻译剩余的经文。看起来最后一个完整的句子是：“Hasta cuándo se lamentará la tierra, y el hierba de todo el campo se secará, por la maldad de los que habitan en ella? Los animales y las aves dicen: ‘No veremos más sus días’.",
+      "notes": "candidate contains extraneous non-token text and alters participant structure and meaning",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012004001",
+            "h24012004002"
+          ],
+          "issue": "Spanish begins with truncated 'Hasta cuánd' followed by non-source Chinese meta-instructions",
+          "spanishSpan": "Hasta cuánd戏中断了翻译，请继续之前的翻译工作"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012004012",
+            "h24012004013",
+            "h24012004014",
+            "h24012004015",
+            "h24012004016"
+          ],
+          "issue": "Spanish renders 'beasts and birds have perished because they said' as 'Los animales y las aves dicen'",
+          "spanishSpan": "Los animales y las aves dicen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012004020"
+          ],
+          "issue": "Spanish renders 'our end' as 'sus días'",
+          "spanishSpan": "No veremos más sus días"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Corres tras sus pies, y te han engañado. ¿Cómo te defenderás de los caballos en tierra de paz, y qué harás en el valle de Jordan?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012005001"
+          ],
+          "issue": "omits initial conjunction 'for/porque'",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012005005"
+          ],
+          "issue": "renders 'they have wearied you' as 'te han engañado'",
+          "spanishSpan": "y te han engañado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012005007"
+          ],
+          "issue": "renders 'how will you contend/race' as 'cómo te defenderás'",
+          "spanishSpan": "¿Cómo te defenderás"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012005016",
+            "h24012005017"
+          ],
+          "issue": "renders 'in the swelling of the Jordan' as 'en el valle de Jordan'",
+          "spanishSpan": "en el valle de Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque también tus hermanos y la casa de tu padre te han traicionado; también ellos te han llamado, lleno de engaño. No confíes en ellos, porque hablan bien de ti con la lengua.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012006014"
+          ],
+          "issue": "adds 'de engaño' concept not licensed by מָלֵא",
+          "spanishSpan": "lleno de engaño"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012006019",
+            "h24012006020",
+            "h24012006021"
+          ],
+          "issue": "adds 'de ti con la lengua' and changes 'speak to you goods' to 'hablan bien de ti'",
+          "spanishSpan": "hablan bien de ti con la lengua"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012006012",
+            "h24012006013"
+          ],
+          "issue": "renders קָרְאוּ אַחֲרֶיךָ as 'te han llamado' omitting 'after you'",
+          "spanishSpan": "te han llamado"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He abandonado mi casa, he desechado mi heredad; he entregado mi amor en la mano de mis enemigos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012007009",
+            "h24012007010"
+          ],
+          "issue": "יְדִדוּת נַפְשִׁי rendered as 'mi amor' instead of preserving 'la amada/bienamada de mi alma'",
+          "spanishSpan": "mi amor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012007012"
+          ],
+          "issue": "אֹיְבֶיהָ (3fs suffix) rendered as 'mis enemigos' instead of 'sus enemigos'",
+          "spanishSpan": "mis enemigos"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mi heredad se ha vuelto para mí como un león en el bosque; ha rugido sobre mí; por eso la odio.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012008006",
+            "h24012008008"
+          ],
+          "issue": "interprets נָתְנָה בְּקוֹלָהּ as 'ha rugido' (roared); tokens only license 'gave her voice'",
+          "spanishSpan": "ha rugido sobre mí"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El águila que se ha pintado mi heredad para mí, el águila que vuela alrededor de mí, id, reunid a todas las bestias del campo, hacedlas venir para comer.",
+      "notes": "imperatives section matches tokens; opening clause does not",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012009002"
+          ],
+          "issue": "treats adjective צָבוּעַ as verb action 'se ha pintado' on the inheritance",
+          "spanishSpan": "que se ha pintado mi heredad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012009006",
+            "h24012009007"
+          ],
+          "issue": "changes סָבִיב עָלֶיהָ to 'vuela alrededor de mí' (adds flying; wrong referent and person)",
+          "spanishSpan": "que vuela alrededor de mí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012009001",
+            "h24012009005"
+          ],
+          "issue": "repeats as two separate eagles with added verbs and referents not licensed by the tokens",
+          "spanishSpan": "El águila ... el águila"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "La han convertido en un desierto, y en un lugar de tristeza; el desierto la ha destruido, y la tierra se ha secado, porque no hay nadie que ponga su corazón en ella.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012011004"
+          ],
+          "issue": "omits עָלַי (upon me)",
+          "spanishSpan": ""
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012011003"
+          ],
+          "issue": "replaces אָבְלָה (mourned) with un-licensed phrases 'lugar de tristeza' and 'se ha secado'",
+          "spanishSpan": "y en un lugar de tristeza; ... y la tierra se ha secado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012011006"
+          ],
+          "issue": "renders נָשַׁמָּה as 'destruido' (destroyed) instead of desolated",
+          "spanishSpan": "el desierto la ha destruido"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por todas sus fronteras en el desierto han entrado los saqueadores, porque es un castigo de Jehová, un alimento para todos los animales del campo, desde un extremo de la tierra hasta el otro, porque no hay paz para toda carne.",
+      "notes": "multiple unlicensed additions and substitutions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012012003"
+          ],
+          "issue": "שְׁפָיִם rendered as fronteras (borders); token means bare/desolate heights",
+          "spanishSpan": "fronteras"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012012008",
+            "h24012012010"
+          ],
+          "issue": "חֶרֶב אֹכְלָה לַיהוָה rendered as castigo … alimento para animales; tokens say sword devouring belonging to Jehovah",
+          "spanishSpan": "castigo de Jehová, un alimento para todos los animales del campo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012012001",
+            "h24012012002"
+          ],
+          "issue": "עַל כָּל rendered with added possessive sus",
+          "spanishSpan": "sus fronteras"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Siembran trigo y cosechan espigas, pero no tienen nada que comer; se avergüenzan por la cosecha de sus campos, por la ira de Jehová.",
+      "notes": "multiple person, morphology, and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012013003"
+          ],
+          "issue": "קֹצִים rendered as espigas (thorns misread as grain heads)",
+          "spanishSpan": "espigas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012013005",
+            "h24012013006",
+            "h24012013007"
+          ],
+          "issue": "נֶחְל֖וּ לֹא יוֹעִ֑לוּ expanded to 'no tienen nada que comer' (adds unlicensed concept)",
+          "spanishSpan": "pero no tienen nada que comer"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012013008",
+            "h24012013009"
+          ],
+          "issue": "2mp imperative וּבֹ֨שׁוּ֙ and 2mp suffix on תְּבוּאֹתֵיכֶם changed to 3rd-person narrative",
+          "spanishSpan": "se avergüenzan por la cosecha de sus campos"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová: Por todos los malos vecinos que tocan mi heredad, a la cual he dado a mi pueblo Israel, los echaré de su tierra, y a la casa de Judá los dejaré.",
+      "notes": "also misplaced 'mi' on heredad instead of vecinos",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012014006"
+          ],
+          "issue": "omits 1cs suffix on 'neighbors' (my neighbors)",
+          "spanishSpan": "los malos vecinos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012014023"
+          ],
+          "issue": "wrong verb: 'dejaré' instead of 'pluck up / uproot' (נתש)",
+          "spanishSpan": "los dejaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012014017",
+            "h24012014023"
+          ],
+          "issue": "changes repeated verb root נתש to different Spanish verbs",
+          "spanishSpan": "echaré ... dejaré"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y si aprenden a andar en los caminos de mi pueblo, a jurar por mi nombre, vivirá Jehová, como han aprendido a jurar por el Baal, y edificarán en medio de mi pueblo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012016006",
+            "h24012016007"
+          ],
+          "issue": "adds 'andar en' not licensed by 'ways of my people'",
+          "spanishSpan": "a andar en los caminos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012016013"
+          ],
+          "issue": "piel 'they taught' rendered as 'han aprendido' (they learned)",
+          "spanishSpan": "como han aprendido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012016018"
+          ],
+          "issue": "niphal passive 'be built/established' rendered active 'edificarán'",
+          "spanishSpan": "y edificarán"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y si no escuchan, los echaré de su nación, los echaré y los destruiré, dice Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012017006",
+            "h24012017007"
+          ],
+          "issue": "object is 'that nation' (הַגּוֹי הַהוּא), not 'them' or 'their nation'",
+          "spanishSpan": "los echaré de su nación"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24012017004",
+            "h24012017008"
+          ],
+          "issue": "adds 'de su nación' and shifts participant from the nation itself being uprooted",
+          "spanishSpan": "los echaré de su nación"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:37:00.800008+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 17,
+    "verses": 17,
+    "input": 40294,
+    "cachedInput": 13120,
+    "output": 3240,
+    "reasoning": 15500,
+    "usd": 0.1733,
+    "byProvider": {
+      "xai": {
+        "calls": 17,
+        "input": 40294,
+        "output": 3240,
+        "reasoning": 15500,
+        "usd": 0.1733
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 17,
+        "input": 40294,
+        "output": 3240,
+        "reasoning": 15500,
+        "usd": 0.1733
+      }
+    },
+    "usdPerVerse": 0.0102,
+    "bibleAtThisRate": 317.0,
+    "book": "jeremias",
+    "chapter": 12
+  }
+}

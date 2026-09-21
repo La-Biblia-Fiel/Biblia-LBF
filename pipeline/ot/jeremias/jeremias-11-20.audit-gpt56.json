@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:20",
+  "chapter": 11,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el SEÑOR de los ejércitos, que juzga con justicia, que prueba los riñones y el corazón, me ha mostrado tu venganza de ellos, porque a mí me has revelado tu pleito.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011020008"
+      ],
+      "issue": "Spanish inverts speaker as recipient ('me ha mostrado') instead of 1cs imperfect 'I see/let me see'",
+      "spanishSpan": "me ha mostrado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011020013"
+      ],
+      "issue": "Spanish changes 1cs perfect 'I have revealed' to 2ms 'me has revelado'",
+      "spanishSpan": "me has revelado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011020015"
+      ],
+      "issue": "Spanish renders 1cs suffix 'my plea' as 'tu pleito' (2ms)",
+      "spanishSpan": "tu pleito"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011020009",
+        "h24011020010"
+      ],
+      "issue": "Spanish 'tu venganza de ellos' misplaces the 2ms suffix and preposition from the tokens",
+      "spanishSpan": "tu venganza de ellos"
+    }
+  ],
+  "notes": "participant reversal and person/number changes on multiple verbs and suffixes",
+  "discardedUncitedFindings": 0
+}

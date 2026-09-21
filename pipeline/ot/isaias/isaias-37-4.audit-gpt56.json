@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:4",
+  "chapter": 37,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Quizá oirá Jehová tu Dios las palabras de Rav-shaqé que lo envió rey de Ashur sus señores para afrentar a Dios vivo, y reprenderá en las palabras que oyó Jehová tu Dios; y alzarás oración por el resto el hallado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037004007",
+        "h23037004008",
+        "h23037004012"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Rav-shaqé ... Ashur"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037004011",
+        "h23037004013"
+      ],
+      "issue": "garbled syntax and participant roles for 'king of Ashur his lords'",
+      "spanishSpan": "rey de Ashur sus señores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037004026",
+        "h23037004027"
+      ],
+      "issue": "omits relative structure and gender of remnant",
+      "spanishSpan": "el resto el hallado"
+    }
+  ],
+  "notes": "multiple structural and naming mismatches",
+  "discardedUncitedFindings": 0
+}

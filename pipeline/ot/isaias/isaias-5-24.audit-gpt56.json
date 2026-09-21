@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 5:24",
+  "chapter": 5,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, como comer paja lengua de fuego, y heno llama se deshace, su raíz como podredumbre será, y su flor como polvo subirá; porque desecharon torá de Jehová de ejércitos, y dicho del Santo de Israel despreciaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005024002",
+        "h23005024003",
+        "h23005024004",
+        "h23005024005",
+        "h23005024006",
+        "h23005024007",
+        "h23005024008"
+      ],
+      "issue": "Spanish inverts and mangles the infinitive-construct simile structure and participant roles (consume + stubble + tongue-of-fire; hay + flame + wither)",
+      "spanishSpan": "como comer paja lengua de fuego, y heno llama se deshace"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005024001",
+        "h23005024009",
+        "h23005024010",
+        "h23005024011",
+        "h23005024012",
+        "h23005024013",
+        "h23005024014"
+      ],
+      "issue": "word order and connective flow of the two similes altered, producing a different syntactic grouping than the token sequence",
+      "spanishSpan": "Por tanto, como comer paja lengua de fuego, y heno llama se deshace, su raíz como podredumbre será, y su flor como polvo subirá"
+    }
+  ],
+  "notes": "remainder of verse is close but first half already fails fidelity",
+  "discardedUncitedFindings": 0
+}

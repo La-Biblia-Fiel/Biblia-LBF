@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:23",
+  "chapter": 10,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Señor, sé que no es camino para el hombre, ni para el hombre que anda, conocer sus pasos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010023001",
+        "h24010023002"
+      ],
+      "issue": "YHWH rendered as Señor instead of Jehová",
+      "spanishSpan": "Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010023005",
+        "h24010023006"
+      ],
+      "issue": "restructures לֹא לָאָדָם דַּרְכּוֹ as 'no es camino para el hombre' and adds 'conocer'",
+      "spanishSpan": "no es camino para el hombre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010023010",
+        "h24010023012"
+      ],
+      "issue": "וְהָכִין אֶת־צַעֲדוֹ rendered as 'conocer sus pasos' (adds conocer; changes establish to know)",
+      "spanishSpan": "conocer sus pasos"
+    }
+  ],
+  "notes": "Spanish adds and changes verbal concepts not licensed by the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:16",
+  "chapter": 36,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "No oigan a Jizqiyahu, porque así dijo el rey de Ashur: Hagan conmigo bendición, y salgan a mí, y coman varón su vid y varón su higuera, y beban varón aguas de su cisterna,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036016004"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Jizqiyahu"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036016009"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Ashur"
+    }
+  ],
+  "notes": "proper-name rendering violates locked conventional form rule",
+  "discardedUncitedFindings": 0
+}

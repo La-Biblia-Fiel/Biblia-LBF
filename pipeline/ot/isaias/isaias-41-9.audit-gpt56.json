@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:9",
+  "chapter": 41,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "que te así desde extremos de la tierra, y desde sus rincones te llamé, y dije a ti: Siervo mío tú; te elegí y no te deseché.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041009002"
+      ],
+      "issue": "verb הֶחֱזַקְתִּ֨יךָ (I strengthened/held you) rendered as nonsensical 'te así'",
+      "spanishSpan": "que te así"
+    }
+  ],
+  "notes": "relative clause structure also mangled around the same token",
+  "discardedUncitedFindings": 0
+}

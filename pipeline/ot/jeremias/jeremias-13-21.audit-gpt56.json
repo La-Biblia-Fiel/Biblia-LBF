@@ -1,0 +1,60 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:21",
+  "chapter": 13,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Qué diréis cuando os castigue y os enseñare a ustedes, a cada uno por cabeza, dos mil hombres? ¿No os sujetarán cuerdas como a una mujer que da a luz?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013021002"
+      ],
+      "issue": "2fs imperfect rendered as 2pl future",
+      "spanishSpan": "diréis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013021004",
+        "h24013021005"
+      ],
+      "issue": "3ms qal imperfect + 2fs suffix rendered as 2pl subjunctive with wrong agent",
+      "spanishSpan": "os castigue"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013021006",
+        "h24013021007",
+        "h24013021008"
+      ],
+      "issue": "2fs piel perfect + 3mp object rendered as 1s future teaching",
+      "spanishSpan": "os enseñare a ustedes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013021010",
+        "h24013021011"
+      ],
+      "issue": "aluphim l'rosh rendered as 'dos mil hombres' per head",
+      "spanishSpan": "a cada uno por cabeza, dos mil hombres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013021016",
+        "h24013021017"
+      ],
+      "issue": "eshet ledah (noun construct) rendered as verbal clause",
+      "spanishSpan": "una mujer que da a luz"
+    }
+  ],
+  "notes": "multiple person/number/stem and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

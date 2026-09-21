@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:16",
+  "chapter": 15,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Encontré tus palabras y las comí; tus palabras se convirtieron en alegría para mí, en gozo de mi corazón, porque se llamó tu nombre sobre mí, SEÑOR Dios de los ejércitos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015016001"
+      ],
+      "issue": "Niphal 3cp passive 'were found' rendered as active 1cs 'Encontré'",
+      "spanishSpan": "Encontré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

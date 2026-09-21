@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 28:7",
+  "chapter": 28,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y también estos en el vino erraron, y en la sidra se descarriaron; sacerdote y profeta erraron en sidra, fueron tragados del vino, se descarriaron de la sidra, erraron en la visión, tropezaron juicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028007018"
+      ],
+      "issue": "renders בָּרֹאֶה (seer) as 'visión' instead of licensed noun",
+      "spanishSpan": "en la visión"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

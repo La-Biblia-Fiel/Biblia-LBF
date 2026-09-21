@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:22",
+  "chapter": 7,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Los magos de Egipto hicieron lo mismo con sus hechizos, pero el corazón de Faraón se endureció y no les prestó atención, como Jehová había dicho.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007022006"
+      ],
+      "issue": "וַיֶּחֱזַק sequential; ‘pero’ adds contrast conjunction not in the tokens",
+      "spanishSpan": "pero"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

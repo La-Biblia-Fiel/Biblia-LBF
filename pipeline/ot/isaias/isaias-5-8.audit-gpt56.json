@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 5:8",
+  "chapter": 5,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay, los que juntan casa a casa, campo a campo acercan, hasta fin de lugar, y son hechos habitar ustedes solos en seno de la tierra!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005008013"
+      ],
+      "issue": "seno not licensed by lemma or morph of קֶרֶב (midst/interior)",
+      "spanishSpan": "seno de la tierra"
+    }
+  ],
+  "notes": "hophal 2mp correctly rendered as 2nd-person ustedes; participle+verb and אֶפֶס מָקוֹם are acceptable",
+  "discardedUncitedFindings": 0
+}

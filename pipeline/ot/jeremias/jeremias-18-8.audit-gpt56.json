@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:8",
+  "chapter": 18,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero si aquella nación deja de hacer el mal que yo le he dicho que haga, entonces me arrepiento del mal que había pensado hacerle.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018008005",
+        "h24018008006",
+        "h24018008007"
+      ],
+      "issue": "renders אשר דברתי עליו as 'el mal que yo le he dicho que haga' (commanding the nation), but tokens only license 'the evil which I spoke concerning it'",
+      "spanishSpan": "el mal que yo le he dicho que haga"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

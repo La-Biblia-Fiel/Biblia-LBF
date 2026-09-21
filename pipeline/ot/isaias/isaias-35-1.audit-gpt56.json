@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 35:1",
+  "chapter": 35,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Se alegrarán desierto y sequedad, y se gozará Arabá y florecerá como narciso.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23035001001"
+      ],
+      "issue": "omits the Sp3mp pronominal suffix on the verb (licensed concept not rendered)",
+      "spanishSpan": "Se alegrarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

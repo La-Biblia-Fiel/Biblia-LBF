@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 66:13",
+  "chapter": 66,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Como hombre a quien su madre consuela, así yo los consolaré a ustedes; y en Yerushaláyim serán consolados ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066013008"
+      ],
+      "issue": "Hebraized proper name Yerushaláyim instead of conventional Spanish Jerusalén",
+      "spanishSpan": "Yerushaláyim"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066013007"
+      ],
+      "issue": "2mp object suffix rendered as mixed-person los consolaré a ustedes instead of direct consolaré a ustedes",
+      "spanishSpan": "los consolaré a ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

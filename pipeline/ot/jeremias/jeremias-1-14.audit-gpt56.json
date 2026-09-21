@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:14",
+  "chapter": 1,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el Señor me dijo: Del norte se abrirá el mal sobre toda la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001014002"
+      ],
+      "issue": "YHWH rendered as title 'Señor' instead of proper name Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001014008",
+        "h24001014009",
+        "h24001014010"
+      ],
+      "issue": "omits 'inhabitants of' (כל ישבי)",
+      "spanishSpan": "toda la tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

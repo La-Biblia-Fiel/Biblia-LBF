@@ -1,0 +1,243 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 49,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    22,
+    23,
+    24,
+    25
+  ],
+  "holds": [
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ahora dijo Jehová, mi Formador desde vientre para siervo a él, para hacer volver a Yaakov a él, e Israel será reunido; y seré honrado en ojos de Jehová, y mi Dios fue mi fuerza.",
+      "notes": "name rendering violates PROPER_NAMES rule",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049005009"
+          ],
+          "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo: Ligero de ser tú a mí siervo, para levantar las tribus de Yaakov, e Israel para hacer volver; y te pondré por luz de naciones, para ser mi salvación hasta extremo de la tierra.",
+      "notes": "name and syntactic mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049006009"
+          ],
+          "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish form",
+          "spanishSpan": "Yaakov"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049006008",
+            "h23049006010",
+            "h23049006006",
+            "h23049006011"
+          ],
+          "issue": "alters parallelism and participants of the two hiphil infinitives; Spanish separates and reassigns actions",
+          "spanishSpan": "para levantar las tribus de Yaakov, e Israel para hacer volver"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049006002",
+            "h23049006003",
+            "h23049006004",
+            "h23049006005"
+          ],
+          "issue": "restructures the niphal + infinitive construction and adds explicit tú in a way that changes the clause force",
+          "spanishSpan": "Ligero de ser tú a mí siervo"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dijo Jehová: En tiempo de favor te respondí, y en día de salvación te ayudé; y te guardaré, y te daré por pacto de pueblo, para levantar tierra, para heredar heredades desoladas;",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049008016"
+          ],
+          "issue": "hiphil infinitive לְהַנְחִיל rendered as simple 'heredar' instead of causative 'causar heredar / dar en herencia'",
+          "spanishSpan": "para heredar"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo Tsiyón: Me dejó Jehová, y Adonai me olvidó.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049014002"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049014005"
+          ],
+          "issue": "Untranslated non-name lemma kept as Hebrew term",
+          "spanishSpan": "Adonai"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Aún dirán en tus oídos hijos de tus orfandades: Estrecho a mí el lugar; apártate a mí, y habitaré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049020009"
+          ],
+          "issue": "גְּשָׁה (draw near / approach) rendered as apártate (withdraw / move away)",
+          "spanishSpan": "apártate a mí"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás en tu corazón: ¿Quién me engendró estos, y yo desolada y sola, desterrada y desviada? Y estos, ¿quién crió? He aquí yo quedé sola; estos, ¿dónde ellos?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049021004"
+          ],
+          "issue": "ילד qal 3ms rendered as 'engendró' (male beget) instead of 'dio a luz'/'parió' (bear, of mother)",
+          "spanishSpan": "engendró"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré comer a tus opresores su carne, y como mosto su sangre se embriagarán; y sabrán toda carne que yo Jehová tu Salvador, y tu Redentor, Fuerte de Yaakov.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23049026018"
+          ],
+          "issue": "Hebraizes proper name Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Fuerte de Yaakov"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:04:17.026149+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 26,
+    "verses": 26,
+    "input": 58945,
+    "cachedInput": 18368,
+    "output": 1230,
+    "reasoning": 22341,
+    "usd": 0.2318,
+    "byProvider": {
+      "xai": {
+        "calls": 26,
+        "input": 58945,
+        "output": 1230,
+        "reasoning": 22341,
+        "usd": 0.2318
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 26,
+        "input": 58945,
+        "output": 1230,
+        "reasoning": 22341,
+        "usd": 0.2318
+      }
+    },
+    "usdPerVerse": 0.0089,
+    "bibleAtThisRate": 277.0,
+    "book": "isaias",
+    "chapter": 49
+  }
+}

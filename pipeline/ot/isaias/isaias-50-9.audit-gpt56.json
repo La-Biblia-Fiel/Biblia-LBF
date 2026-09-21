@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 50:9",
+  "chapter": 50,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí Adonai Jehová ayuda a mí; ¿quién él me condenará? He aquí todos ellos como el vestido se envejecerán; polilla los comerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23050009004"
+      ],
+      "issue": "qal imperfect rendered as present tense instead of future",
+      "spanishSpan": "ayuda"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 23:7",
+  "chapter": 23,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Es esta a ustedes la alegre, desde días de antiguo su origen? La llevarán sus pies de lejos para peregrinar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23023007007",
+        "h23023007008"
+      ],
+      "issue": "Spanish makes 'sus pies' the subject carrying 'la', but verb is Hiphil 3mp with 3fs object and feet is separate dual noun",
+      "spanishSpan": "La llevarán sus pies"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

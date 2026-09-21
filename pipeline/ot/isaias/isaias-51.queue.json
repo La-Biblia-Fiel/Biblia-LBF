@@ -1,0 +1,298 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 51,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "passed": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    14,
+    15,
+    20,
+    21,
+    22,
+    23
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Miren a Abraham su padre de ustedes, y a Sara que los dio a luz a ustedes; porque uno lo llamé, y lo bendije, y lo multipliqué.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051002007"
+          ],
+          "issue": "Spanish 'que los dio a luz a ustedes' misparses 3fs verb + 2mp suffix and inserts unlicensed 'los'",
+          "spanishSpan": "que los dio a luz a ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque consoló Jehová a Tsiyón; consoló todas sus ruinas; y puso su desierto como Edén, y su arabá como huerto de Jehová; gozo y alegría será hallada en ella, acción de gracias y voz de cántico.",
+      "notes": "two clear violations of proper-name and common-noun handling rules",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051003004"
+          ],
+          "issue": "Hebraized proper name Tsiyón instead of conventional Spanish Sión",
+          "spanishSpan": "Tsiyón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051003011"
+          ],
+          "issue": "transliterated common noun arabá instead of translating the lemma",
+          "spanishSpan": "arabá"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿No tú ella, la que secó mar, aguas de abismo grande; la que puso profundidades de mar camino para pasar redimidos?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051010004"
+          ],
+          "issue": "renders hiphil participle active as finite preterite secó instead of preserving participial force",
+          "spanishSpan": "la que secó"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051010001",
+            "h23051010002",
+            "h23051010003"
+          ],
+          "issue": "distorts 2fs address + 3fs identification into ungrammatical tú ella",
+          "spanishSpan": "No tú ella"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y olvidaste a Jehová tu Hacedor, tendiente cielos y fundador de tierra; y temiste siempre todo el día de faces de furor del opresor, como cuando preparó para destruir; y ¿dónde furor del opresor?",
+      "notes": "multiple concept additions and structural mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051013012"
+          ],
+          "issue": "adds 'faces' concept not licensed by מִפְּנֵי preposition",
+          "spanishSpan": "de faces de furor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051013004",
+            "h23051013006"
+          ],
+          "issue": "renders active participles as nouns 'tendiente'/'fundador' altering structure and force",
+          "spanishSpan": "tendiente cielos y fundador de tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051013009",
+            "h23051013010",
+            "h23051013011"
+          ],
+          "issue": "reorders and duplicates 'siempre todo el día' beyond token sequence",
+          "spanishSpan": "siempre todo el día"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y puse mis palabras en tu boca, y en sombra de mi mano te cubrí, para plantar cielos y para fundar tierra, y para decir a Tsiyón: Mi pueblo eres tú.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051016012"
+          ],
+          "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Despiértate, despiértate, levántate, Yerushaláyim, que bebiste de mano de Jehová el vaso de su furor; el cáliz del vaso del vértigo bebiste, apuraste.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051017004"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Yerushaláyim"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No hay el que guíe a ella de todos hijos que dio a luz; y no hay el que tome de su mano de todos hijos que crió.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051018008",
+            "h23051018009"
+          ],
+          "issue": "מַחֲזִיק בְּיָדָהּ rendered as 'tome de su mano' (implies removing from her hand) instead of 'take hold of/strengthen her hand'",
+          "spanishSpan": "el que tome de su mano"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Dos estas te ocurrieron: ¿Quién se condolerá por ti? El devastación y el quebranto, y el hambre y la espada: ¿Quién te consolará?",
+      "notes": "multiple person/voice/participant shifts",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051019003"
+          ],
+          "issue": "renders participle as past event 'ocurrieron' instead of preserving qal active participle sense",
+          "spanishSpan": "te ocurrieron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051019005"
+          ],
+          "issue": "adds reflexive 'se' not licensed by qal יָנוּד",
+          "spanishSpan": "se condolerá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23051019012"
+          ],
+          "issue": "changes 1cs piel suffix to 3s 'consolará' instead of preserving 'I will comfort you'",
+          "spanishSpan": "¿Quién te consolará?"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:11:45.293986+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 27,
+    "verses": 23,
+    "input": 65173,
+    "cachedInput": 19584,
+    "output": 8883,
+    "reasoning": 25273,
+    "usd": 0.3344,
+    "byProvider": {
+      "xai": {
+        "calls": 25,
+        "input": 58324,
+        "output": 1756,
+        "reasoning": 25273,
+        "usd": 0.2494
+      },
+      "anthropic": {
+        "calls": 2,
+        "input": 6849,
+        "output": 7127,
+        "reasoning": 0,
+        "usd": 0.085
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 23,
+        "input": 53530,
+        "output": 1641,
+        "reasoning": 23714,
+        "usd": 0.2325
+      },
+      "polish": {
+        "calls": 2,
+        "input": 6849,
+        "output": 7127,
+        "reasoning": 0,
+        "usd": 0.085
+      },
+      "audit-polish": {
+        "calls": 2,
+        "input": 4794,
+        "output": 115,
+        "reasoning": 1559,
+        "usd": 0.0169
+      }
+    },
+    "usdPerVerse": 0.0145,
+    "bibleAtThisRate": 452.0,
+    "book": "isaias",
+    "chapter": 51
+  }
+}

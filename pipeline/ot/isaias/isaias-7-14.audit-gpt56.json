@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:14",
+  "chapter": 7,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto dará Adonai él a ustedes señal: He aquí la joven concebida y dando a luz hijo, y llamarás su nombre Immanu El.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007014012"
+      ],
+      "issue": "verb person changed from 3fs (she will call) to 2s (llamarás)",
+      "spanishSpan": "llamarás"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

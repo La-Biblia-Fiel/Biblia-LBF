@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:24",
+  "chapter": 41,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí ustedes de nada, y su obra de ustedes de nada; abominación escogerá en ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041024004"
+      ],
+      "issue": "possessive on work rendered as 'su obra de ustedes' (introduces extraneous 3rd-person possessor) instead of direct 2mp possessive on the noun",
+      "spanishSpan": "su obra de ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

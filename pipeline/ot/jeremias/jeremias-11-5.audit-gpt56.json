@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:5",
+  "chapter": 11,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Para confirmar la alianza que juré a sus padres, para darles una tierra llena de leche y miel, como es hoy. Y yo dije: Amén, Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011005004"
+      ],
+      "issue": "שְׁבוּעָה rendered as alianza (covenant) instead of juramento or equivalent",
+      "spanishSpan": "la alianza"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011005011"
+      ],
+      "issue": "זָבַת (flowing) rendered as llena de (full of)",
+      "spanishSpan": "llena de leche y miel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011005016"
+      ],
+      "issue": "וָאַעַן (and I answered) omitted",
+      "spanishSpan": "Y yo dije"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

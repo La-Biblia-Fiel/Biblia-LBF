@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:19",
+  "chapter": 11,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo, como un carnero de la manada, he sido llevado al matadero, y no sabía que contra mí habían tramado pensamientos perversos: ‘Cortar su madera en leña y quitarlo del país de la vida, y su nombre no será recordado más’.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011019002"
+      ],
+      "issue": "adds 'de la manada' (of the flock) absent from כֶּבֶשׂ",
+      "spanishSpan": "de la manada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011019011"
+      ],
+      "issue": "adds 'perversos' (evil/perverse) not licensed by מַחֲשָׁבוֹת",
+      "spanishSpan": "pensamientos perversos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011019013",
+        "h24011019014"
+      ],
+      "issue": "resolves עֵץ בְּלַחְמוֹ as 'cortar su madera en leña' (cut wood into firewood), adding interpretive concept",
+      "spanishSpan": "Cortar su madera en leña"
+    }
+  ],
+  "notes": "multiple unlicensed additions and interpretive resolution of ambiguous phrase",
+  "discardedUncitedFindings": 0
+}

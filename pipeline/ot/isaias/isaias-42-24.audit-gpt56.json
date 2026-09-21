@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 42:24",
+  "chapter": 42,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién dio a Yaakov a despojadores, e Israel a saqueadores? ¿No Jehová, aquel contra quien pecamos, y no quisieron en sus caminos andar, y no oyeron en su torá?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042024003"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Yaakov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042024005"
+      ],
+      "issue": "two distinct Spanish terms for single licensed lemma",
+      "spanishSpan": "despojadores ... saqueadores"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

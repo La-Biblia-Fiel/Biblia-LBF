@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 35:8",
+  "chapter": 35,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será allí calzada y camino, y Camino de la Santidad será llamado a ella; no lo pasará inmundo, y él a ellos; el que anda camino, y necios no errarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23035008003"
+      ],
+      "issue": "adds 'calzada' with no token support for that noun",
+      "spanishSpan": "calzada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23035008004",
+        "h23035008005"
+      ],
+      "issue": "restructures the two דרך tokens and inserts unlicenced 'calzada'",
+      "spanishSpan": "calzada y camino, y Camino de la Santidad"
+    }
+  ],
+  "notes": "multiple additions and restructuring not licensed by the OSHB tokens",
+  "discardedUncitedFindings": 0
+}

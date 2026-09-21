@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 3:4",
+  "chapter": 3,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y daré muchachos sus jefes, y caprichos mandarán en ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003004001",
+        "h23003004002",
+        "h23003004003"
+      ],
+      "issue": "Spanish clause structure fails to license youths as the princes; renders as giving boys their own jefes instead of setting youths over them as sarim",
+      "spanishSpan": "daré muchachos sus jefes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

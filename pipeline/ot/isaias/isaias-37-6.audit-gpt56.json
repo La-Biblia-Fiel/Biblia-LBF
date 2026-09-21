@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:6",
+  "chapter": 37,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo a ellos Yeshayahu: Así dirán a sus señores de ustedes: Así dijo Jehová: No temas de faces de las palabras que oíste, que blasfemaron mozos de rey de Ashur a mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037006005"
+      ],
+      "issue": "2mp verb תֹאמְר֖וּן rendered as 3pl dirán instead of 2pl address",
+      "spanishSpan": "Así dirán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037006007"
+      ],
+      "issue": "2mp suffix on אֲדֹנֵיכֶ֑ם rendered with awkward non-matching phrasing",
+      "spanishSpan": "sus señores de ustedes"
+    }
+  ],
+  "notes": "2pl addressees mishandled; additional minor phrasing issues",
+  "discardedUncitedFindings": 0
+}

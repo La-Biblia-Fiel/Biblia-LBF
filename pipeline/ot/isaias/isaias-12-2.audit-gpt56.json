@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 12:2",
+  "chapter": 12,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí El de mi salvación; confiaré y no temeré; porque mi fuerza y canción Yah Jehová, y me fue para salvación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23012002002",
+        "h23012002003"
+      ],
+      "issue": "adds genitive 'de' making אֵל construct/genitive when it is absolute HNcmsa",
+      "spanishSpan": "El de mi salvación"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

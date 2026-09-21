@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:28",
+  "chapter": 30,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Y su espíritu como torrente inundante hasta cuello alcanza, para zarandear naciones en zaranda de vanidad, y freno extraviante sobre quijadas de pueblos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030028006"
+      ],
+      "issue": "verb rendered as 'alcanza' (reaches) instead of licensed sense of divide/halve",
+      "spanishSpan": "alcanza"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:11",
+  "chapter": 15,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Dice el SEÑOR: ¿Acaso no te he tratado bien? ¿Acaso no te he perdonado en el tiempo de adversidad y en el tiempo de calamidad?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015011008"
+      ],
+      "issue": "הִפְגַּעְתִּי (hiphil 1cs of 6293) rendered as 'perdonado' (forgiven)",
+      "spanishSpan": "te he perdonado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015011014",
+        "h24015011015"
+      ],
+      "issue": "omits direct object marker and 'the enemy'",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015011005",
+        "h24015011008"
+      ],
+      "issue": "adds interpretive 'tratado bien' and 'perdonado' not licensed by לְטוֹב or the hiphil verb",
+      "spanishSpan": "no te he tratado bien? ... no te he perdonado"
+    }
+  ],
+  "notes": "Spanish rephrases conditional oath structure into unrelated rhetorical questions",
+  "discardedUncitedFindings": 0
+}

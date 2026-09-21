@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:5",
+  "chapter": 30,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Todos se avergonzarán de pueblo que no aprovecha a ellos, no para ayuda y no para provecho, sino para vergüenza y también para oprobio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030005001",
+        "h23030005002",
+        "h23030005003",
+        "h23030005011",
+        "h23030005012",
+        "h23030005014"
+      ],
+      "issue": "adds unlicenced verb 'se avergonzarán' and re-structures the clause so that 'todos' become the subject of shame; tokens only license 'all upon a people ... for shame and also for reproach'",
+      "spanishSpan": "Todos se avergonzarán de"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

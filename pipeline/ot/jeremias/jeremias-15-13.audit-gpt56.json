@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:13",
+  "chapter": 15,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Tus riquezas y tus tesoros te serán robados sin precio, por todas tus iniquidades y por todas tus fronteras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015013004"
+      ],
+      "issue": "changes 1cs active 'I will give' to passive 'te serán robados'",
+      "spanishSpan": "te serán robados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015013007",
+        "h24015013009"
+      ],
+      "issue": "renders 'and in all' as causal 'por' (because of)",
+      "spanishSpan": "por todas tus iniquidades y por todas tus fronteras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015013003",
+        "h24015013004",
+        "h24015013005",
+        "h24015013006"
+      ],
+      "issue": "restructures 'I will give for plunder not for price' into passive robbery without price",
+      "spanishSpan": "te serán robados sin precio"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

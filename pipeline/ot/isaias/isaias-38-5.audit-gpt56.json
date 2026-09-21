@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:5",
+  "chapter": 38,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Anda y dirás a Jizqiyahu: Así dijo Jehová Dios de David tu padre: Oí tu oración; vi tu lágrima; he aquí yo añadiendo sobre tus días quince año.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038005004"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Jizqiyahu"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038005018"
+      ],
+      "issue": "renders hiphil imperfect 3ms finite verb as present participle/gerund",
+      "spanishSpan": "yo añadiendo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038005021",
+        "h23038005022",
+        "h23038005023"
+      ],
+      "issue": "number mismatch in noun after numeral (singular año)",
+      "spanishSpan": "quince año"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

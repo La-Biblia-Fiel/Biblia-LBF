@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 56:4",
+  "chapter": 56,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque así dijo Jehová a los eunucos que guardan mis shabatot, y escogieron en lo que quise, y se afirman en mi pacto:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23056004009"
+      ],
+      "issue": "untranslated lemma left as Hebrew (shabatot) instead of Spanish noun",
+      "spanishSpan": "mis shabatot"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23056004007",
+        "h23056004010",
+        "h23056004013"
+      ],
+      "issue": "tense/person mismatch: impf rendered present, seq-perf rendered past, ptc rendered present finite verb",
+      "spanishSpan": "que guardan ... y escogieron ... y se afirman"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

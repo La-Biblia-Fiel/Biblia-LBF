@@ -1,0 +1,128 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 15,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8
+  ],
+  "holds": [
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mi corazón a Moav grita; sus fugitivos hasta Tsoar, Eglat-shelishiyá; porque cuesta de Lujit con llanto subirá por ella; porque camino de Joronáyim grito de quebranto despertarán.",
+      "notes": "proper names and core verbs otherwise align",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23015005004"
+          ],
+          "issue": "בריחה lemma 1280 (bars) rendered as fugitivos",
+          "spanishSpan": "sus fugitivos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23015005014"
+          ],
+          "issue": "3ms suffix בו rendered as feminine ella",
+          "spanishSpan": "por ella"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23015005018",
+            "h23015005019",
+            "h23015005020"
+          ],
+          "issue": "זעקת־שבר יעערו parsed and ordered as if the cry awakens rather than they raise a cry of breaking",
+          "spanishSpan": "grito de quebranto despertarán"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque aguas de Dimón se llenaron de sangre; porque pondré sobre Dimón añadiduras: a escape de Moav león, y a resto de suelo.",
+      "notes": "first clause acceptable; second clause distorts syntax and referents",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23015009011",
+            "h23015009013",
+            "h23015009014",
+            "h23015009015"
+          ],
+          "issue": "Spanish mangles the two parallel prepositional phrases; 'a escape de Moav león, y a resto de suelo' neither preserves the structure nor the participants (lion for fugitives; additions for remnant of ground)",
+          "spanishSpan": "a escape de Moav león, y a resto de suelo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23015009010"
+          ],
+          "issue": "nuanced Niphal participle 'additions' is rendered but the following colon structure fails to attach the two objects correctly",
+          "spanishSpan": "añadiduras:"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:20:23.559646+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 9,
+    "verses": 9,
+    "input": 19444,
+    "cachedInput": 6208,
+    "output": 580,
+    "reasoning": 9742,
+    "usd": 0.0915,
+    "byProvider": {
+      "xai": {
+        "calls": 9,
+        "input": 19444,
+        "output": 580,
+        "reasoning": 9742,
+        "usd": 0.0915
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 9,
+        "input": 19444,
+        "output": 580,
+        "reasoning": 9742,
+        "usd": 0.0915
+      }
+    },
+    "usdPerVerse": 0.0102,
+    "bibleAtThisRate": 316.0,
+    "book": "isaias",
+    "chapter": 15
+  }
+}

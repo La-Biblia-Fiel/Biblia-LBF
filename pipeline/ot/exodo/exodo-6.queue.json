@@ -1,0 +1,160 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "exodo",
+  "label": "Éxodo",
+  "chapter": 6,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y aparecí a Abraham, a Isaac y a Jacob como Dios Saday, y por mi nombre YHWH no fui conocido por ellos.",
+      "notes": "multiple unlicensed additions and morph/preposition shifts",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02006003008",
+            "h02006003009"
+          ],
+          "issue": "adds 'Dios' not present in בְּאֵל שַׁדָּי",
+          "spanishSpan": "como Dios Saday"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02006003014"
+          ],
+          "issue": "changes preposition לָהֶם 'to them' to 'por ellos' (by them)",
+          "spanishSpan": "por ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02006003010",
+            "h02006003011",
+            "h02006003012",
+            "h02006003013",
+            "h02006003014"
+          ],
+          "issue": "restructures 'my name YHWH I was not known to them' into 'por mi nombre YHWH no fui conocido por ellos'",
+          "spanishSpan": "y por mi nombre YHWH no fui conocido por ellos"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-16T23:52:15.121494+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 60,
+    "verses": 30,
+    "input": 122847,
+    "cachedInput": 11520,
+    "output": 17985,
+    "reasoning": 27874,
+    "usd": 0.8177,
+    "byProvider": {
+      "openai": {
+        "calls": 30,
+        "input": 60858,
+        "output": 17038,
+        "reasoning": 7687,
+        "usd": 0.5842
+      },
+      "xai": {
+        "calls": 30,
+        "input": 61989,
+        "output": 947,
+        "reasoning": 20187,
+        "usd": 0.2335
+      }
+    },
+    "byStage": {
+      "draft": {
+        "calls": 30,
+        "input": 60858,
+        "output": 17038,
+        "reasoning": 7687,
+        "usd": 0.5842
+      },
+      "audit-draft": {
+        "calls": 30,
+        "input": 61989,
+        "output": 947,
+        "reasoning": 20187,
+        "usd": 0.2335
+      }
+    },
+    "usdPerVerse": 0.0273,
+    "bibleAtThisRate": 848.0,
+    "book": "exodo",
+    "chapter": 6
+  }
+}

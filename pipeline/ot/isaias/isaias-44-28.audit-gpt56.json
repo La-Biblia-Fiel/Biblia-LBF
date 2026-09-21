@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:28",
+  "chapter": 44,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "el que dice a Koresh: Mi pastor, y todo mi deseo cumplirá; y para decir a Yerushaláyim: Serás edificada, y hekal será fundado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044028002"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Koresh"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044028008"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Yerushaláyim"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044028010"
+      ],
+      "issue": "Untranslated lemma dumped as Spanish instead of rendering the common noun",
+      "spanishSpan": "hekal"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044028009"
+      ],
+      "issue": "Changed person from 3fs to 2fs",
+      "spanishSpan": "Serás edificada"
+    }
+  ],
+  "notes": "Multiple independent mismatches with tokens.",
+  "discardedUncitedFindings": 0
+}

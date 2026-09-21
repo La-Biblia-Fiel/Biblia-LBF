@@ -1,0 +1,281 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 55,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "passed": [
+    3,
+    4,
+    6,
+    9,
+    12
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay, todo sediento, vengan a las aguas, y el que no hay a él plata, vengan, compren y coman; y vengan, compren sin plata y sin precio vino y leche!",
+      "notes": "awkward phrasing changes licensed meaning",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055001007",
+            "h23055001008",
+            "h23055001009"
+          ],
+          "issue": "mangles אֵין־לוֹ כֶּסֶף into ungrammatical 'no hay a él plata' that neither preserves the negative existential nor the 3ms suffix",
+          "spanishSpan": "el que no hay a él plata"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055001003"
+          ],
+          "issue": "singular adjective צָמֵא rendered with plural imperative address, altering participant number",
+          "spanishSpan": "todo sediento, vengan"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué pesan plata en no pan, y su trabajo de ustedes en no a saciedad? Oigan oyendo a mí, y coman bien, y se deleitará en grosura su alma de ustedes.",
+      "notes": "later 2pl forms consistent but early person mismatch fails",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055002002"
+          ],
+          "issue": "2mp verb rendered as 3pl 'pesan', shifting addressees to third party",
+          "spanishSpan": "pesan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055002006"
+          ],
+          "issue": "2mp suffix rendered with mixed 3rd-person 'su' before 'de ustedes'",
+          "spanishSpan": "su trabajo de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí, nación no conocerás llamarás, y nación no te conocieron a ti correrán, por causa de Jehová tu Dios y por el Santo de Israel, porque te embelleció.",
+      "notes": "syntax mangling changes participant flow licensed by the tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055005006",
+            "h23055005007",
+            "h23055005008",
+            "h23055005009",
+            "h23055005010"
+          ],
+          "issue": "jumbled clause: Spanish attaches 'a ti' to 'conocieron' and runs 'correrán' together, omitting clear 'a ti' + run structure",
+          "spanishSpan": "nación no te conocieron a ti correrán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055005002",
+            "h23055005003",
+            "h23055005004",
+            "h23055005005"
+          ],
+          "issue": "word order and missing connector between 'no conocerás' and 'llamarás' distorts the 'nation you will call' clause",
+          "spanishSpan": "nación no conocerás llamarás"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Deje malvado su camino, y varón de iniquidad sus pensamientos, y vuelva a Jehová, y se compadecerá de él, y a nuestro Dios, porque multiplicará perdonar.",
+      "notes": "Spanish grammar fails to preserve token morphology and clause parallelism.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055007001",
+            "h23055007002",
+            "h23055007003"
+          ],
+          "issue": "first clause verb+subject+object distorted; Spanish inverts and mangles qal impf 3ms + adj subject + construct noun",
+          "spanishSpan": "Deje malvado su camino"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055007004",
+            "h23055007005",
+            "h23055007006"
+          ],
+          "issue": "second clause left as fragment without licensed verb; tokens require parallel structure with first clause",
+          "spanishSpan": "y varón de iniquidad sus pensamientos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055007007",
+            "h23055007010",
+            "h23055007014"
+          ],
+          "issue": "mixes jussive 3ms forms with future indicative and changes participant reference",
+          "spanishSpan": "vuelva ... se compadecerá ... multiplicará"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque no mis pensamientos pensamientos de ustedes, y no caminos de ustedes mis caminos, dicho de Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055008003",
+            "h23055008004"
+          ],
+          "issue": "duplicated noun 'pensamientos pensamientos' not licensed by tokens",
+          "spanishSpan": "pensamientos pensamientos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055008003",
+            "h23055008004"
+          ],
+          "issue": "garbled structure omits required connection between the two noun phrases",
+          "spanishSpan": "no mis pensamientos pensamientos de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "lint",
+      "verdict": "fail",
+      "spanish": "Porque como desciende la lluvia y la nieve del cielo, y allá no vuelve, sino que empapa la tierra, y la hace parir y germinar, y da simiente al sembrador y pan al comiente,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [],
+          "issue": "archaic parir",
+          "spanishSpan": "parir"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "así será mi palabra que sale de mi boca: no volverá a mí vacía, sino que hizo lo que quise, y prosperó aquello a que la envié.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055011013",
+            "h23055011016",
+            "h23055011017",
+            "h23055011019"
+          ],
+          "issue": "Spanish renders qal/hiphil perfect verbs as completed past (hizo, quise, prosperó, envié) instead of preserving the prospective/resultative force licensed by the tokens in context of the leading imperfects",
+          "spanishSpan": "hizo lo que quise, y prosperó aquello a que la envié"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En lugar del espino subirá ciprés; el cardo subirá mirto; y será a Jehová a nombre, a señal eterna no será cortada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055013009",
+            "h23055013010",
+            "h23055013011",
+            "h23055013012"
+          ],
+          "issue": "mangles prepositions and structure of ליהוה לשם לאות עולם into awkward 'a Jehová a nombre, a señal eterna'",
+          "spanishSpan": "y será a Jehová a nombre, a señal eterna"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23055013011",
+            "h23055013012"
+          ],
+          "issue": "resolves לְאוֹת עוֹלָם construct by making 'señal eterna' (adjective) instead of preserving separate 'for a sign' + 'eternity'",
+          "spanishSpan": "a señal eterna"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:20:22.897235+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 12,
+    "verses": 12,
+    "input": 26755,
+    "cachedInput": 9344,
+    "output": 1432,
+    "reasoning": 11800,
+    "usd": 0.1189,
+    "byProvider": {
+      "xai": {
+        "calls": 12,
+        "input": 26755,
+        "output": 1432,
+        "reasoning": 11800,
+        "usd": 0.1189
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 12,
+        "input": 26755,
+        "output": 1432,
+        "reasoning": 11800,
+        "usd": 0.1189
+      }
+    },
+    "usdPerVerse": 0.0099,
+    "bibleAtThisRate": 308.0,
+    "book": "isaias",
+    "chapter": 55
+  }
+}

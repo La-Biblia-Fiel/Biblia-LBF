@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 22:11",
+  "chapter": 22,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y depósito hicieron ustedes entre los dos muros para aguas de la alberca la vieja, y no miraron ustedes hacia su Hacedor, y su Formador de lejos no vieron ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23022011011",
+        "h23022011012"
+      ],
+      "issue": "capitalizes participles as doctrinal titles Hacedor/Formador not licensed by tokens",
+      "spanishSpan": "su Hacedor, y su Formador"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

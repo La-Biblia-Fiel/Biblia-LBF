@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:13",
+  "chapter": 13,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dirás a ellos: Así ha dicho Jehová: He aquí que llenaré a todos los habitantes de esta tierra, a los reyes que se sientan en el trono de David, a los sacerdotes, a los profetas y a todos los habitantes de Jerusalén, de vino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013013027"
+      ],
+      "issue": "renders שִׁכָּרוֹן as 'vino' (wine), adding a specific substance absent from the token",
+      "spanishSpan": "de vino"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

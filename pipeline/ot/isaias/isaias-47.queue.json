@@ -1,0 +1,223 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 47,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "passed": [
+    2,
+    3,
+    4,
+    6,
+    7,
+    10,
+    11,
+    12
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Desciende y siéntate sobre polvo, virgen hija de Bavel; siéntate en la tierra; no hay trono, hija de Kasdim; porque no añadirás que te llamen tierna y delicada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23047001007",
+            "h23047001013"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Bavel; Kasdim"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Siéntate callada, y entra en tiniebla, hija de Kasdim; porque no añadirás que te llamen señora de reinos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23047005006"
+          ],
+          "issue": "Hebraizes proper name as Kasdim instead of conventional Spanish form for the Chaldeans referent",
+          "spanishSpan": "Kasdim"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ahora oye esto, voluptuosa, la que habita confiada, la que dice en su corazón: Yo, y no hay más; no me sentaré viuda, y no conoceré orfandad.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23047008017"
+          ],
+          "issue": "שְׁכוֹל rendered as 'orfandad' (orphanhood) instead of bereavement/loss of children",
+          "spanishSpan": "no conoceré orfandad"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vendrán a ti estas dos de repente en un día: orfandad y viudez; en su plenitud vinieron sobre ti en muchedumbre de tus hechizos, en abundancia de tus conjuras mucho.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23047009008"
+          ],
+          "issue": "שְׁכוֹל rendered as 'orfandad' (orphanhood), which adds a different concept; lemma means bereavement/loss of children",
+          "spanishSpan": "orfandad"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Te cansaste en muchedumbre de tus consejos; levántense ahora y te salven los repartidores de cielos, los que miran en las estrellas, los que hacen saber por las lunas nuevas, de lo que vendrá sobre ti.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23047013007"
+          ],
+          "issue": "adds 'repartidores' (dividers/distributors) with no corresponding lemma or surface in the tokens",
+          "spanishSpan": "los repartidores de cielos"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí fueron como rastrojo; fuego los quemó; no librarán su alma de mano de llama; no hay brasa para su pan, fuego para sentarse delante de él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23047014014"
+          ],
+          "issue": "לַחְמָם rendered as 'para su pan' (bread) instead of 'for warming them'",
+          "spanishSpan": "para su pan"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-polish",
+      "verdict": "fail",
+      "spanish": "Así fueron a ti aquellos en que te fatigaste, tus mercaderes desde tu juventud; erraron cada uno a su lado; no hay tu salvador.",
+      "notes": "no token licenses 'aquellos'",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23047015004",
+            "h23047015005",
+            "h23047015006"
+          ],
+          "issue": "Spanish inserts untokenized 'aquellos' and restructures relative clause + merchants into apposition not licensed by token order or forms",
+          "spanishSpan": "aquellos en que te fatigaste, tus mercaderes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23047015005"
+          ],
+          "issue": "adds reflexive 'te fatigaste' (not licensed by plain qal 2fs יָגָעַתְּ)",
+          "spanishSpan": "te fatigaste"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T20:56:11.744590+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 17,
+    "verses": 15,
+    "input": 39096,
+    "cachedInput": 10816,
+    "output": 4656,
+    "reasoning": 15068,
+    "usd": 0.195,
+    "byProvider": {
+      "xai": {
+        "calls": 16,
+        "input": 36162,
+        "output": 976,
+        "reasoning": 15068,
+        "usd": 0.1524
+      },
+      "anthropic": {
+        "calls": 1,
+        "input": 2934,
+        "output": 3680,
+        "reasoning": 0,
+        "usd": 0.0427
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 15,
+        "input": 34068,
+        "output": 788,
+        "reasoning": 13889,
+        "usd": 0.1413
+      },
+      "polish": {
+        "calls": 1,
+        "input": 2934,
+        "output": 3680,
+        "reasoning": 0,
+        "usd": 0.0427
+      },
+      "audit-polish": {
+        "calls": 1,
+        "input": 2094,
+        "output": 188,
+        "reasoning": 1179,
+        "usd": 0.011
+      }
+    },
+    "usdPerVerse": 0.013,
+    "bibleAtThisRate": 404.0,
+    "book": "isaias",
+    "chapter": 47
+  }
+}

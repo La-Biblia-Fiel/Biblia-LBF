@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:19",
+  "chapter": 43,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí yo haciendo nueva; ahora brotará; ¿no la conocerán ustedes? También pondré en el desierto camino, en yeshimón ríos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043019012"
+      ],
+      "issue": "Hebraizes common noun lemma 3452 as yeshimón instead of Spanish rendering",
+      "spanishSpan": "en yeshimón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

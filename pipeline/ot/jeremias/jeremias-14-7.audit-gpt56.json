@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:7",
+  "chapter": 14,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Si pecamos contra ti, oh SEÑOR, haznos bien por tu nombre, porque nuestras rebeliones son muchas; nosotros hemos pecado contra ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014007002",
+        "h24014007003",
+        "h24014007004"
+      ],
+      "issue": "omits entire clause our iniquities have testified against us",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014007001",
+        "h24014007013"
+      ],
+      "issue": "replaces conditional with invented Si pecamos contra ti",
+      "spanishSpan": "Si pecamos contra ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014007006"
+      ],
+      "issue": "adds bien not licensed by the imperative",
+      "spanishSpan": "haznos bien"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014007011",
+        "h24014007012"
+      ],
+      "issue": "renders many to you as son muchas without the to-you direction",
+      "spanishSpan": "nuestras rebeliones son muchas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

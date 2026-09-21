@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:3",
+  "chapter": 18,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y bajé a la casa del alfarero, y he aquí que él estaba trabajando sobre la alfarería.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018003007"
+      ],
+      "issue": "dual stones rendered as specialized 'alfarería' instead of stones",
+      "spanishSpan": "sobre la alfarería"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

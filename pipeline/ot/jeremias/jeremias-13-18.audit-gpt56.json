@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:18",
+  "chapter": 13,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Decidle al rey y a la reina: Sed humildes y sentaos, porque caerán de sus cabezas las coronas de su gloria.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013018008",
+        "h24013018010"
+      ],
+      "issue": "2mp suffixes rendered as 3rd-person sus/su instead of direct 2nd-person address",
+      "spanishSpan": "sus cabezas ... su gloria"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013018009"
+      ],
+      "issue": "singular עֲטֶרֶת rendered as plural coronas",
+      "spanishSpan": "las coronas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013018007"
+      ],
+      "issue": "qal perfect יָרַד rendered as future caerán",
+      "spanishSpan": "caerán"
+    }
+  ],
+  "notes": "also shifts from direct 2mp address to reported speech about the addressees",
+  "discardedUncitedFindings": 0
+}

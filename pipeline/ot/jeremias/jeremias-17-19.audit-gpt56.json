@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:19",
+  "chapter": 17,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová a mí: Ve y estaciónte en la puerta de los hijos del pueblo, que entran por ella y que salen por ella, y en todas las puertas de Jerusalén.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017019008",
+        "h24017019012",
+        "h24017019013"
+      ],
+      "issue": "Spanish replaces מַלְכֵי יְהוּדָה with unlicensed 'hijos del pueblo'",
+      "spanishSpan": "de los hijos del pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017019009",
+        "h24017019010",
+        "h24017019012"
+      ],
+      "issue": "Spanish reassigns the relative clause subject and omits the kings of Judah as participants",
+      "spanishSpan": "que entran por ella y que salen por ella"
+    }
+  ],
+  "notes": "structure and referents altered",
+  "discardedUncitedFindings": 0
+}

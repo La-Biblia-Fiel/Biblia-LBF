@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:11",
+  "chapter": 1,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y la palabra del Señor me vino diciendo: ¿Qué ves, Jeremías? Y yo dije: Veo una vara de olivo maduro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001011012"
+      ],
+      "issue": "שָׁקֵד rendered as 'olivo maduro' (almond lemma replaced by olive + maturity concept)",
+      "spanishSpan": "vara de olivo maduro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001011003"
+      ],
+      "issue": "יהוה rendered as 'Señor' instead of conventional Jehová",
+      "spanishSpan": "del Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

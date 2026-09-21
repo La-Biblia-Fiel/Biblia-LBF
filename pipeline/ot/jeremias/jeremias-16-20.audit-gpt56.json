@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:20",
+  "chapter": 16,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Hará un hombre a Dios? ¿Y ellos no son dioses?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016020004"
+      ],
+      "issue": "renders plural אֱלֹהִים as singular Dios",
+      "spanishSpan": "a Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016020002",
+        "h24016020001"
+      ],
+      "issue": "mishandles לּוֹ and the verb-object structure; Spanish does not convey 'make gods for himself'",
+      "spanishSpan": "Hará un hombre a Dios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

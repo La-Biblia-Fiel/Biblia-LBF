@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 56:10",
+  "chapter": 56,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Ciegos todos ellos, no conocieron; todos ellos como perros mudos, no pueden ladrar; soñando, yaciendo, amadores de dormitar.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23056010006",
+        "h23056010007"
+      ],
+      "issue": "grammatical smoothing inserts 'como' not present in tokens",
+      "spanishSpan": "como perros mudos"
+    }
+  ],
+  "notes": "otherwise faithful to tokens",
+  "discardedUncitedFindings": 0
+}

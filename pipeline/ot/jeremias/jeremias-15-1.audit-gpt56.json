@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:1",
+  "chapter": 15,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces dijo el SEÑOR: Aunque Moisés y Samuel estuvieran ante mí, no tendría misericordia de este pueblo; envíalos fuera de mi presencia, y que salgan.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015001002"
+      ],
+      "issue": "יהוה rendered as SEÑOR instead of required Jehová",
+      "spanishSpan": "el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015001009",
+        "h24015001010"
+      ],
+      "issue": "adds concept 'misericordia' not present in tokens; אֵין נַפְשִׁי only licenses negative inclination toward the people",
+      "spanishSpan": "no tendría misericordia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 5:6",
+  "chapter": 5,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y la pondré desolación; no será podada y no será azadonada, y subirá espino y cardo; y sobre las nubes mandaré de hacer llover sobre ella lluvia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005006012",
+        "h23005006013",
+        "h23005006014",
+        "h23005006015"
+      ],
+      "issue": "reverses command: Spanish says 'mandaré de hacer llover' (command to rain) while tokens are atsavveh mehamtir (command from raining / not to rain)",
+      "spanishSpan": "y sobre las nubes mandaré de hacer llover sobre ella lluvia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

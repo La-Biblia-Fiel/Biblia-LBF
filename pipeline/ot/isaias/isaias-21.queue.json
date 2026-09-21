@@ -1,0 +1,160 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 21,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    15,
+    16,
+    17
+  ],
+  "holds": [
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Poner la mesa, extender la tapicería, comer, beber. Levántense, príncipes, unjan escudo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23021005003",
+            "h23021005004"
+          ],
+          "issue": "mistranslates צָפֹה הַצָּפִית as 'extender la tapicería' (tapestry/upholstery); tokens license infinitive absolute 'watch' + 'the lookout/watch'",
+          "spanishSpan": "extender la tapicería"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y he aquí este viene, carro de varón, yunta de jinetes. Y respondió y dijo: Cayó, cayó Bavel, y todos ídolos de sus dioses quebró a tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23021009016",
+            "h23021009012",
+            "h23021009010",
+            "h23021009011"
+          ],
+          "issue": "Spanish syntax attributes the 3ms Piel breaking action to Bavel (3fs subject of the repeated falling verbs), changing participants",
+          "spanishSpan": "Cayó, cayó Bavel, y todos ídolos de sus dioses quebró a tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23021009014",
+            "h23021009013"
+          ],
+          "issue": "omits construct structure and definiteness of 'all the carved images'",
+          "spanishSpan": "todos ídolos de sus dioses"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Carga en Arav. En el bosque en Arav pernoctarán ustedes, sendas de Dedanim.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23021013006"
+          ],
+          "issue": "renders אֹרְחוֹת as sendas (paths) instead of caravans",
+          "spanishSpan": "sendas"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "A encuentro de sediento traigan ustedes aguas; moradores de tierra de Teimá con su pan salieron al encuentro de fugitivo.",
+      "notes": "first clause roughly licensed; second clause adds verb",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23021014009"
+          ],
+          "issue": "adds 'salieron' not licensed by the piel perfect 3cp of 6923",
+          "spanishSpan": "salieron al encuentro"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:34:21.195104+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 17,
+    "verses": 17,
+    "input": 34083,
+    "cachedInput": 12864,
+    "output": 758,
+    "reasoning": 15307,
+    "usd": 0.1453,
+    "byProvider": {
+      "xai": {
+        "calls": 17,
+        "input": 34083,
+        "output": 758,
+        "reasoning": 15307,
+        "usd": 0.1453
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 17,
+        "input": 34083,
+        "output": 758,
+        "reasoning": 15307,
+        "usd": 0.1453
+      }
+    },
+    "usdPerVerse": 0.0085,
+    "bibleAtThisRate": 266.0,
+    "book": "isaias",
+    "chapter": 21
+  }
+}

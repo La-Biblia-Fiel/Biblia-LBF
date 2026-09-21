@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:24",
+  "chapter": 7,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Todos los egipcios buscaron agua para beber alrededor del Nilo, porque no podían beber agua del Nilo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007024001"
+      ],
+      "issue": "וַיַּחְפְּרוּ is dig/excavate; ‘buscaron’ replaces digging with seeking",
+      "spanishSpan": "buscaron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

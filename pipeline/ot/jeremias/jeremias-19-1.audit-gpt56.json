@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:1",
+  "chapter": 19,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho el Señor: Ve y compra un cántaro de arcilla, de la mano del alfarero, y de los ancianos del pueblo y de los ancianos de los sacerdotes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019001003"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of conventional 'Jehová'",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019001006",
+        "h24019001007",
+        "h24019001008"
+      ],
+      "issue": "adds 'de la mano del' with no token support for 'mano'",
+      "spanishSpan": "de la mano del alfarero"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

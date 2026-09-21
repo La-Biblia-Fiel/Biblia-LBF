@@ -1,0 +1,311 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 33,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "passed": [
+    2,
+    3,
+    6,
+    7,
+    8,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    21,
+    22,
+    24
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay, destruidor, y tú no destruido, y traidor, y no traicionaron en él! Cuando acabes de destruir, serás destruido; cuando acabes de traicionar, traicionarán en ti.",
+      "notes": "participant shift and number change",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033001006",
+            "h23033001007",
+            "h23033001008",
+            "h23033001009"
+          ],
+          "issue": "shifts 3cp 'they did not betray him' into mismatched address with plural verb and 'él' referent instead of preserving structure",
+          "spanishSpan": "y traidor, y no traicionaron en él"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033001003",
+            "h23033001004",
+            "h23033001005"
+          ],
+          "issue": "breaks 2ms address parallelism by inserting plural verb and third-party referent",
+          "spanishSpan": "y tú no destruido, y traidor, y no traicionaron en él"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será recogido su botín de ustedes recogida de langosta; como correr de saltamontes corre en él.",
+      "notes": "2mp person mismatch on spoil is decisive fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033004002"
+          ],
+          "issue": "2mp suffix rendered as mixed 3rd-person 'su' + 'de ustedes' instead of direct 2mp address",
+          "spanishSpan": "su botín de ustedes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033004007"
+          ],
+          "issue": "adds finite verb 'corre' not licensed by the qal participle",
+          "spanishSpan": "corre en él"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Exaltado Jehová, porque habita altura; llenó Tsiyón de juicio y justicia.",
+      "notes": "participles and perfect rendered acceptably; only name form fails",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033005007"
+          ],
+          "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Enlutó, languideció tierra; avergonzó el Levanón, se marchitó; fue el Sharón como Arabá, y se sacude Bashán y Karmel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033009004",
+            "h23033009005"
+          ],
+          "issue": "avergonzó el Levanón misattributes the Hiphil subject/participant; Hebrew has Lebanon put to shame, not acting as object",
+          "spanishSpan": "avergonzó el Levanón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033009010",
+            "h23033009011",
+            "h23033009012"
+          ],
+          "issue": "se sacude changes qal active participle to reflexive/passive; Hebrew has shaking Bashan and Carmel as object",
+          "spanishSpan": "se sacude Bashán y Karmel"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033009005",
+            "h23033009008",
+            "h23033009011",
+            "h23033009012"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Levanón ... Sharón ... Bashán ... Karmel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ahora me levantaré, dice Jehová; ahora seré exaltado; ahora me alzaré.",
+      "notes": "verbs swapped in voice and assignment",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033010006"
+          ],
+          "issue": "רום hiphil 1cs rendered as passive 'seré exaltado'",
+          "spanishSpan": "ahora seré exaltado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033010008"
+          ],
+          "issue": "נשא niphal 1cs rendered as active reflexive 'me alzaré'",
+          "spanishSpan": "ahora me alzaré"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Concebirán ustedes paja, darán a luz rastrojo; su espíritu de ustedes fuego los comerá a ustedes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033011007"
+          ],
+          "issue": "verb suffix is 2mp object ('you'); Spanish uses 3mp object pronoun 'los' while addressing 'ustedes'",
+          "spanishSpan": "fuego los comerá a ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Él alturas habitará; fortalezas de peñascos su alto refugio; su pan dado, sus aguas fieles.",
+      "notes": "word-order inversion and missing preposition on heights are grammatical smoothing only",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033016006"
+          ],
+          "issue": "adds 'alto' not licensed by lemma or surface of misgabo",
+          "spanishSpan": "alto refugio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033016004",
+            "h23033016005",
+            "h23033016006"
+          ],
+          "issue": "restructures construct phrase into appositive without licensed connection; omits that the fortresses-of-rocks constitute the refuge",
+          "spanishSpan": "fortalezas de peñascos su alto refugio"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mira Tsiyón, ciudad de nuestra convocación; tus ojos verán Yerushaláyim, morada sosegada, tienda que no será removida, no serán arrancadas sus estacas para siempre, y todos sus cuerdas no serán rotas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033020002",
+            "h23033020007"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Tsiyón ... Yerushaláyim"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Aflojaron tus cuerdas; no fortificarán base de su mástil; no extendieron vela; entonces fue repartido botín de presa mucha; cojos saquearon despojo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033023001"
+          ],
+          "issue": "Niphal passive (were abandoned/loosened) rendered as active 'Aflojaron'",
+          "spanishSpan": "Aflojaron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23033023009"
+          ],
+          "issue": "נֵס (ensign/banner) rendered as 'vela' without packet license for that sense",
+          "spanishSpan": "vela"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T19:10:30.727112+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 24,
+    "verses": 24,
+    "input": 48467,
+    "cachedInput": 13056,
+    "output": 1673,
+    "reasoning": 21351,
+    "usd": 0.2155,
+    "byProvider": {
+      "xai": {
+        "calls": 24,
+        "input": 48467,
+        "output": 1673,
+        "reasoning": 21351,
+        "usd": 0.2155
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 24,
+        "input": 48467,
+        "output": 1673,
+        "reasoning": 21351,
+        "usd": 0.2155
+      }
+    },
+    "usdPerVerse": 0.009,
+    "bibleAtThisRate": 279.0,
+    "book": "isaias",
+    "chapter": 33
+  }
+}

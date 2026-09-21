@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 6:12",
+  "chapter": 6,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "y aleje Jehová al hombre, y grande sea el abandono en seno de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23006012007"
+      ],
+      "issue": "בְּקֶרֶב rendered as 'en seno de' (bosom) instead of 'en medio de' or equivalent for 'midst'",
+      "spanishSpan": "en seno de"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23006012006"
+      ],
+      "issue": "הָעֲזוּבָה (the forsaken, qal pass. ptc. f.) rendered as noun 'el abandono'",
+      "spanishSpan": "el abandono"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

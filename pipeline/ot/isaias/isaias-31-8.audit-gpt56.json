@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 31:8",
+  "chapter": 31,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y caerá Ashur en espada no de varón, y espada no de hombre lo comerá; y huirá a él de faces de espada, y sus mozos a trabajo forzado serán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23031008011",
+        "h23031008012"
+      ],
+      "issue": "misrenders לוֹ + מִפְּנֵי as 'huirá a él de faces', altering the dative/reflexive sense and participant reference",
+      "spanishSpan": "huirá a él de faces de espada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

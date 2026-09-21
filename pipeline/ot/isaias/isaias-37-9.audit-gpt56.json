@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:9",
+  "chapter": 37,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y oyó a Tirhaqá rey de Kush, diciendo: Salió para combatir contigo; y oyó, y envió mensajeros a Jizqiyahu, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037009002"
+      ],
+      "issue": "עַל rendered as direct-object 'a' instead of 'sobre'/'acerca de'",
+      "spanishSpan": "oyó a Tirhaqá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

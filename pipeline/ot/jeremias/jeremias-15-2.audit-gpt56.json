@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:2",
+  "chapter": 15,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando te digan: ¿Adónde vamos? Diles: Así dice el SEÑOR: Aquel a quien está destinado la muerte, a la muerte; al que está destinado la espada, a la espada; al que está destinado la hambruna, a la hambruna; al que está destinado la cautividad, a la cautividad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015002013",
+        "h24015002014",
+        "h24015002016",
+        "h24015002017",
+        "h24015002019",
+        "h24015002020",
+        "h24015002022",
+        "h24015002023"
+      ],
+      "issue": "adds 'está destinado' (and parallel phrases) with no verb or 'destined' concept in the lamed + noun tokens",
+      "spanishSpan": "está destinado la muerte, a la muerte"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015002011"
+      ],
+      "issue": "renders יהוה as SEÑOR instead of the required Jehová",
+      "spanishSpan": "el SEÑOR"
+    }
+  ],
+  "notes": "repetition structure preserved but interpretive verb inserted",
+  "discardedUncitedFindings": 0
+}

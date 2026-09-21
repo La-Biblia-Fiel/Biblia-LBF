@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 9:20",
+  "chapter": 9,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cortará sobre derecha y tendrá hambre, y comerá sobre izquierda y no se saciaron; hombre carne de su brazo comerán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23009020011",
+        "h23009020012",
+        "h23009020013"
+      ],
+      "issue": "mangles construct chain and participant reference; Spanish 'hombre carne de su brazo comerán' neither preserves nor licenses the exact token sequence",
+      "spanishSpan": "hombre carne de su brazo comerán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23009020009"
+      ],
+      "issue": "adds reflexive 'se' not licensed by the qal perfect 3cp token",
+      "spanishSpan": "no se saciaron"
+    }
+  ],
+  "notes": "first clause verbs match 3ms/3cp shift but final clause does not",
+  "discardedUncitedFindings": 0
+}

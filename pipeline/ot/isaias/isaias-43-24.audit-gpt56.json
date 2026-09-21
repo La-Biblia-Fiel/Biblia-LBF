@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:24",
+  "chapter": 43,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "No compraste a mí con la plata caña, y sebo de tus sacrificios no me embriagaste; solo me hiciste servir en tus pecados; me cansaste en tus iniquidades.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043024002",
+        "h23043024003",
+        "h23043024004",
+        "h23043024005"
+      ],
+      "issue": "word order and attachment reversed; treats kesef qaneh as single object 'plata caña' instead of 'me compraste caña con la plata'",
+      "spanishSpan": "No compraste a mí con la plata caña"
+    }
+  ],
+  "notes": "first clause structure and object placement violate token sequence and lemma attachments",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 3:18",
+  "chapter": 3,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "En el día aquel apartará Adonai el adorno de los tobillos y las redecillas y las lunetas,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003018006",
+        "h23003018007"
+      ],
+      "issue": "renders תִּפְאֶרֶת הָעֲכָסִים as 'adorno de los tobillos' (interprets anklets as ankles)",
+      "spanishSpan": "el adorno de los tobillos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

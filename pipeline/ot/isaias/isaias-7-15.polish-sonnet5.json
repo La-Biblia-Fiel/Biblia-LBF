@@ -1,0 +1,67 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "isaias",
+  "reference": "Isaías 7:15",
+  "chapter": 7,
+  "verse": 15,
+  "sourceDraft": "Cuajada y miel comerá, para su conocer desechar en el mal y escoger en el bien.",
+  "spanish": "Cuajada y miel comerá, para su conocer desechar el mal y escoger el bien.",
+  "units": [
+    {
+      "es": "Cuajada",
+      "sourceTokenIds": [
+        "h23007015001"
+      ]
+    },
+    {
+      "es": "y miel",
+      "sourceTokenIds": [
+        "h23007015002"
+      ]
+    },
+    {
+      "es": "comerá",
+      "sourceTokenIds": [
+        "h23007015003"
+      ]
+    },
+    {
+      "es": "para su conocer",
+      "sourceTokenIds": [
+        "h23007015004"
+      ]
+    },
+    {
+      "es": "desechar",
+      "sourceTokenIds": [
+        "h23007015005"
+      ]
+    },
+    {
+      "es": "el mal",
+      "sourceTokenIds": [
+        "h23007015006"
+      ]
+    },
+    {
+      "es": "y escoger",
+      "sourceTokenIds": [
+        "h23007015007"
+      ]
+    },
+    {
+      "es": "el bien",
+      "sourceTokenIds": [
+        "h23007015008"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Removed the ungrammatical preposition 'en' before 'el mal' and 'el bien' ('en el mal'/'en el bien' → 'el mal'/'el bien'), since 'desechar' and 'escoger' take direct objects in Spanish.",
+    "Left 'para su conocer' as flagged (Grok warn) without interpretive rewrite, per freeze instruction not to convert warnings into meaning changes."
+  ],
+  "meaningChanges": [],
+  "droppedUncitedUnits": 0
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 28:12",
+  "chapter": 28,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "que dijo a ellos: Esta el reposo, den reposo al cansado, y esta el descanso; y no quisieron oír.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23028012004",
+        "h23028012005",
+        "h23028012008",
+        "h23028012009"
+      ],
+      "issue": "grammatical smoothing: omits copula 'es' required in Spanish",
+      "spanishSpan": "Esta el reposo ... esta el descanso"
+    }
+  ],
+  "notes": "all token concepts preserved; no additions/omissions/resolutions",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 53:5",
+  "chapter": 53,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y él traspasado por nuestras rebeliones, molido por nuestras iniquidades; castigo de nuestra paz sobre él, y por su herida fue sanado a nosotros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23053005009",
+        "h23053005010",
+        "h23053005011"
+      ],
+      "issue": "participant shift: healing attributed to él instead of לָנוּ (we were healed)",
+      "spanishSpan": "fue sanado a nosotros"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23053005003",
+        "h23053005005"
+      ],
+      "issue": "מִן rendered as 'por' (cause) instead of licensed 'de' (from)",
+      "spanishSpan": "por nuestras rebeliones, ... por nuestras iniquidades"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:10",
+  "chapter": 15,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay de mí, madre mía, que me has dado a luz! ¡Ay de mí, que soy hombre de contienda y de discordia para toda la tierra! Ni yo he descansado, ni ellos han descansado en mí; todos me maldicen.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015010013",
+        "h24015010015"
+      ],
+      "issue": "נָשִׁיתִי / נָשׁוּ rendered as 'descansado' (rest) instead of lending/creditor sense licensed by lemma 5383",
+      "spanishSpan": "Ni yo he descansado, ni ellos han descansado en mí"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 66:11",
+  "chapter": 66,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "para que mamen ustedes y se saturen del pecho de sus consolaciones; para que chupen ustedes y se deleiten del esplendor de su gloria.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066011009"
+      ],
+      "issue": "adds 'esplendor' concept not licensed by lemma 2123 b (abundance/fulness)",
+      "spanishSpan": "del esplendor de su gloria"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

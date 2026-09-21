@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:16",
+  "chapter": 17,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo no he buscado a tu pastor tras de ti, ni he deseado el día de tu fin; tú sabes lo que ha salido de mis labios, delante de ti he estado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017016003"
+      ],
+      "issue": "verb אצתי (H213 qal perf) rendered as 'he buscado' (sought) instead of hastened/urged",
+      "spanishSpan": "no he buscado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017016004",
+        "h24017016005"
+      ],
+      "issue": "מֵרֹעֶה אַחֲרֶיךָ parsed as 'a tu pastor tras de ti' adding 'tu' and wrong preposition sense",
+      "spanishSpan": "a tu pastor tras de ti"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017016007"
+      ],
+      "issue": "אָנוּשׁ (incurable/sick) resolved as 'tu fin'",
+      "spanishSpan": "el día de tu fin"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

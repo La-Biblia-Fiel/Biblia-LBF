@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:5",
+  "chapter": 7,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Por cuanto aconsejó sobre ti Aram mal, Efráyim e hijo de Remalyahu, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007005005",
+        "h23007005007",
+        "h23007005008",
+        "h23007005009"
+      ],
+      "issue": "misplaces and syntactically misconnects Aram + Ephraim + ben-Remalyahu; Spanish order and punctuation after 'sobre ti' do not license the Hebrew subject-apposition structure",
+      "spanishSpan": "Aram mal, Efráyim e hijo de Remalyahu"
+    }
+  ],
+  "notes": "word order and participant roles altered",
+  "discardedUncitedFindings": 0
+}

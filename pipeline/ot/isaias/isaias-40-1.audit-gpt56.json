@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:1",
+  "chapter": 40,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Consuelen, consuelen a mi pueblo, dirá su Dios de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040001005"
+      ],
+      "issue": "renders אֱלֹהֵיכֶֽם (your(pl) God) as 'su Dios de ustedes', inserting extra 'de ustedes' not licensed by the token and using mismatched 3sg possessive 'su'",
+      "spanishSpan": "su Dios de ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 1:16",
+  "chapter": 1,
+  "verse": 16,
+  "candidateLabel": "grok46",
+  "spanish": "Y dijo: Cuando asistan ustedes el parto de las hebreas y vean sobre las piedras, si hijo es él, háganlo morir; y si hija es ella, vivirá.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001016007"
+      ],
+      "issue": "H70 is dual; las piedras leaves the pair unmarked (not an instrument).",
+      "spanishSpan": "las piedras"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001016002",
+        "h02001016003",
+        "h02001016004"
+      ],
+      "issue": "Piel infinitive + את העבריות unpacked as asistir el parto de, shifting the DOM object onto parto.",
+      "spanishSpan": "asistan ustedes el parto de las hebreas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001016011"
+      ],
+      "issue": "Hiphil sequential perfect 2fp rendered as imperative; causative force kept.",
+      "spanishSpan": "háganlo morir"
+    }
+  ],
+  "notes": "Dual left open, not as a stool; él/ella and qal vivirá kept.",
+  "discardedUncitedFindings": 0
+}

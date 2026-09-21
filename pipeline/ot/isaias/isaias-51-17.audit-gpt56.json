@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:17",
+  "chapter": 51,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Despiértate, despiértate, levántate, Yerushaláyim, que bebiste de mano de Jehová el vaso de su furor; el cáliz del vaso del vértigo bebiste, apuraste.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051017004"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

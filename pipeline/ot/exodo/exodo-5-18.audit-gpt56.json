@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 5:18",
+  "chapter": 5,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora vayan, trabajen; y paja no les será dada, y la cantidad de ladrillos darán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02005018007",
+        "h02005018010"
+      ],
+      "issue": "2mp addressee and verb shifted to 3rd-person plural (les / darán)",
+      "spanishSpan": "les será dada ... darán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02005018002",
+        "h02005018003"
+      ],
+      "issue": "imperatives rendered with ustedes forms but subsequent clause breaks 2nd-person address consistency",
+      "spanishSpan": "vayan, trabajen"
+    }
+  ],
+  "notes": "person shift violates 2mp morphology",
+  "discardedUncitedFindings": 0
+}

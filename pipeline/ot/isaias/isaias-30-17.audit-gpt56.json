@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:17",
+  "chapter": 30,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Mil uno de faces de reprensión de uno; de faces de reprensión de cinco huirán ustedes, hasta que queden ustedes como mástil sobre cabeza del monte, y como enseña sobre el collado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030017001",
+        "h23030017002",
+        "h23030017003",
+        "h23030017004",
+        "h23030017005",
+        "h23030017009"
+      ],
+      "issue": "first clause (1000 from rebuke of one) lacks the flee verb; Spanish attaches huirán only to the five clause",
+      "spanishSpan": "Mil uno de faces de reprensión de uno; de faces de reprensión de cinco huirán ustedes"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23030017003",
+        "h23030017006"
+      ],
+      "issue": "literal plural 'faces' is acceptable but awkward; no semantic change",
+      "spanishSpan": "de faces de reprensión"
+    }
+  ],
+  "notes": "clause structure and verb scope mismatch",
+  "discardedUncitedFindings": 0
+}

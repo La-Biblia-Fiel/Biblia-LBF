@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:4",
+  "chapter": 12,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Hasta cuánd戏中断了翻译，请继续之前的翻译工作，从最后一个完整的句子开始继续翻译剩余的经文。看起来最后一个完整的句子是：“Hasta cuándo se lamentará la tierra, y el hierba de todo el campo se secará, por la maldad de los que habitan en ella? Los animales y las aves dicen: ‘No veremos más sus días’.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012004001",
+        "h24012004002"
+      ],
+      "issue": "Spanish begins with truncated 'Hasta cuánd' followed by non-source Chinese meta-instructions",
+      "spanishSpan": "Hasta cuánd戏中断了翻译，请继续之前的翻译工作"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012004012",
+        "h24012004013",
+        "h24012004014",
+        "h24012004015",
+        "h24012004016"
+      ],
+      "issue": "Spanish renders 'beasts and birds have perished because they said' as 'Los animales y las aves dicen'",
+      "spanishSpan": "Los animales y las aves dicen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012004020"
+      ],
+      "issue": "Spanish renders 'our end' as 'sus días'",
+      "spanishSpan": "No veremos más sus días"
+    }
+  ],
+  "notes": "candidate contains extraneous non-token text and alters participant structure and meaning",
+  "discardedUncitedFindings": 0
+}

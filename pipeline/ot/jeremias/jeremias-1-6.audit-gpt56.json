@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:6",
+  "chapter": 1,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo dije: ¡Ay, Señor Yahveh! No sé hablar, porque soy un niño.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001006005"
+      ],
+      "issue": "omits licensed demonstrative הִנֵּ֥ה (behold)",
+      "spanishSpan": "No sé hablar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

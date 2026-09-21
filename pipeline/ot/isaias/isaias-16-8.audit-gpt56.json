@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 16:8",
+  "chapter": 16,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque campos de Jeshbón languidecieron, vid de Sivmá; dueños de naciones hirieron sus sarmientos; hasta Yaazer alcanzaron, erraron desierto; sus enviados fueron abandonados, pasaron mar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23016008004"
+      ],
+      "issue": "Hebrew verb is 3ms perfect; Spanish renders as plural 'languidecieron' agreeing with 'campos'",
+      "spanishSpan": "languidecieron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 3:7",
+  "chapter": 3,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Alzará en el día aquel, diciendo: No seré vendador, y en mi casa no hay pan y no hay manto; no me pongan ustedes jefe de pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003007007"
+      ],
+      "issue": "חֹבֵ֔שׁ rendered as 'vendador' (unlicensed concept; lemma H2280 = bind/wrap)",
+      "spanishSpan": "vendador"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:19",
+  "chapter": 51,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Dos estas te ocurrieron: ¿Quién se condolerá por ti? El devastación y el quebranto, y el hambre y la espada: ¿Quién te consolará?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051019003"
+      ],
+      "issue": "renders participle as past event 'ocurrieron' instead of preserving qal active participle sense",
+      "spanishSpan": "te ocurrieron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051019005"
+      ],
+      "issue": "adds reflexive 'se' not licensed by qal יָנוּד",
+      "spanishSpan": "se condolerá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051019012"
+      ],
+      "issue": "changes 1cs piel suffix to 3s 'consolará' instead of preserving 'I will comfort you'",
+      "spanishSpan": "¿Quién te consolará?"
+    }
+  ],
+  "notes": "multiple person/voice/participant shifts",
+  "discardedUncitedFindings": 0
+}

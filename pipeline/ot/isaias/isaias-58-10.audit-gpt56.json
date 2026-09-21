@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 58:10",
+  "chapter": 58,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "y sacas al hambriento tu alma, y alma afligida sacias, y alumbrará en la oscuridad tu luz, y tu tiniebla como el mediodía.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23058010001",
+        "h23058010002",
+        "h23058010003"
+      ],
+      "issue": "first clause inverts objects and produces ambiguous/wrong sense (soul appears to be taken from the hungry rather than brought out to the hungry)",
+      "spanishSpan": "sacas al hambriento tu alma"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23058010001",
+        "h23058010006"
+      ],
+      "issue": "tense/person shift: both 2ms hiphil verbs rendered inconsistently (present indicative vs. later future)",
+      "spanishSpan": "sacas ... sacias ... alumbrará"
+    }
+  ],
+  "notes": "second and third clauses are close but first clause fails fidelity",
+  "discardedUncitedFindings": 0
+}

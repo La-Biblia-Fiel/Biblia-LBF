@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:18",
+  "chapter": 15,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué es mi dolor eterno y mi herida sin curación? Me has rechazado para siempre; serás para mí como un engaño, como aguas que no son confiables.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015018007",
+        "h24015018008"
+      ],
+      "issue": "adds 'Me has rechazado para siempre' (speaker rejected by addressee) not licensed by tokens; מאנה הֵרָפֵא is the wound (f) refusing to be healed",
+      "spanishSpan": "Me has rechazado para siempre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 39:6",
+  "chapter": 39,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí días viniendo, y será alzado todo lo que en tu casa y lo que atesoraron tus padres hasta el día este a Bavel; no quedará cosa —dijo Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23039006014"
+      ],
+      "issue": "Hebraizes proper name בָּבֶ֑ל as Bavel instead of conventional Spanish Babilonia",
+      "spanishSpan": "a Bavel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

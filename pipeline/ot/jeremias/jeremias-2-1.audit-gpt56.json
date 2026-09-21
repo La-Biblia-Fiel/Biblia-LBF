@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 2:1",
+  "chapter": 2,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vino a mí la palabra del Señor diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24002001003"
+      ],
+      "issue": "YHWH rendered as title 'Señor' instead of conventional Jehová",
+      "spanishSpan": "del Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

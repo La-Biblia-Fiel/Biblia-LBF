@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 56:2",
+  "chapter": 56,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Dichoso hombre que hace esto, e hijo de hombre que se afirma en ella; guardando shabat de profanarlo, y guardando su mano de hacer todo mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23056002010"
+      ],
+      "issue": "untranslated non-name lemma left as Hebrew transliteration instead of Spanish common noun",
+      "spanishSpan": "shabat"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

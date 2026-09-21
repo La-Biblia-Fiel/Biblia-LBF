@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 52:2",
+  "chapter": 52,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Sacúdete del polvo; levántate, siéntate, Yerushaláyim; sueltos de tu cuello, cautiva hija de Tsiyón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23052002005",
+        "h23052002010"
+      ],
+      "issue": "Hebraizes proper names instead of conventional Spanish forms",
+      "spanishSpan": "Yerushaláyim ... Tsiyón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23052002006",
+        "h23052002007"
+      ],
+      "issue": "omits licensed noun concept 'bonds/fetters' and renders construct chain as imperative/adjective 'sueltos'",
+      "spanishSpan": "sueltos de tu cuello"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 47:8",
+  "chapter": 47,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y ahora oye esto, voluptuosa, la que habita confiada, la que dice en su corazón: Yo, y no hay más; no me sentaré viuda, y no conoceré orfandad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23047008017"
+      ],
+      "issue": "שְׁכוֹל rendered as 'orfandad' (orphanhood) instead of bereavement/loss of children",
+      "spanishSpan": "no conoceré orfandad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

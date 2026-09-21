@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 29:9",
+  "chapter": 29,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Deténganse y párense atónitos; cíéguense y estén ciegos; se embriagaron y no vino; titubearon y no sidra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029009005",
+        "h23029009006",
+        "h23029009007",
+        "h23029009008",
+        "h23029009009",
+        "h23029009010"
+      ],
+      "issue": "2mp imperatives shift to 3cp perfects rendered as third-party 'they' instead of continuing direct 2p address to ustedes",
+      "spanishSpan": "se embriagaron ... titubearon"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029009010"
+      ],
+      "issue": "shekhar rendered as specific 'sidra' (cider) instead of generic strong drink",
+      "spanishSpan": "sidra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

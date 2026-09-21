@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:11",
+  "chapter": 7,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y llamó también Faraón a los sabios y a los hechiceros, y los magos de Egipto hicieron lo mismo con sus encantamientos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007011007",
+        "h02007011008"
+      ],
+      "issue": "גַם הֵם (‘they also’) is smoothed away; emphasis of second גם is lost",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

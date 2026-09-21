@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 56:6",
+  "chapter": 56,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y hijos del extranjero los allegados sobre Jehová para ministrarle, y para amar el nombre de Jehová, para serle a siervos; todo guardando shabat de profanarlo, y afirmándose en mi pacto,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23056006013"
+      ],
+      "issue": "wrong preposition and structure for לַעֲבָדִים; 'serle a siervos' adds un-licensed 'a' and fails to render construct purpose",
+      "spanishSpan": "para serle a siervos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23056006014",
+        "h23056006015",
+        "h23056006016",
+        "h23056006017"
+      ],
+      "issue": "omits participial force of כָּל שֹׁמֵר and misrenders מֵחַלְּלוֹ as 'de profanarlo' instead of 'from profaning it'",
+      "spanishSpan": "todo guardando shabat de profanarlo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23056006018",
+        "h23056006019"
+      ],
+      "issue": "מַחֲזִיקִים rendered as 'afirmándose' which adds reflexive theology not in the hiphil participle or בִּבְרִיתִי",
+      "spanishSpan": "afirmándose en mi pacto"
+    }
+  ],
+  "notes": "multiple syntax and preposition mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 65:10",
+  "chapter": 65,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será el Sharón a majada de oveja, y valle de Ajór a yacimiento de ganado, a mi pueblo que me buscaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065010007"
+      ],
+      "issue": "לְרֵבֶץ rendered as 'yacimiento' (deposit/site) instead of licensed 'lying/resting place'",
+      "spanishSpan": "a yacimiento de ganado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:4",
+  "chapter": 13,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Toma el cinto que compraste, que está sobre tu cintura, y levántate y ve al río Eufrates, y entiérralo allí en la abertura de la roca.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013004011"
+      ],
+      "issue": "adds 'río' concept not present in the token for the proper name",
+      "spanishSpan": "río Eufrates"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

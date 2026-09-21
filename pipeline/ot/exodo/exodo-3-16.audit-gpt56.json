@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:16",
+  "chapter": 3,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Ve y reúne a los ancianos de Israel, y diles: YHWH, el Dios de sus padres, se me apareció, el Dios de Abraham, Isaac y Jacob, diciendo: Ciertamente los he visitado a ustedes y lo que les es hecho en Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003016010",
+        "h02003016020",
+        "h02003016023"
+      ],
+      "issue": "2mp suffixes rendered with 3p possessives/pronouns (sus, les) instead of 2p address to the elders",
+      "spanishSpan": "sus padres ... les es hecho"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

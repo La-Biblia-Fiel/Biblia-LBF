@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 4:6",
+  "chapter": 4,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y enramada será para sombra de día del calor, y para refugio y para escondite de diluvio y de lluvia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23004006004",
+        "h23004006005"
+      ],
+      "issue": "misparses יוֹמָם מֵחֹרֶב as single genitive phrase 'de día del calor'",
+      "spanishSpan": "de día del calor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23004006006",
+        "h23004006007",
+        "h23004006008",
+        "h23004006009"
+      ],
+      "issue": "attaches 'de' to refugio and escondite, changing מַחְסֶה and מִסְתּוֹר from destinations to containers of the storm/rain",
+      "spanishSpan": "para refugio y para escondite de diluvio y de lluvia"
+    }
+  ],
+  "notes": "also 'enramada' and 'diluvio' are interpretive but secondary to the structural mismatch",
+  "discardedUncitedFindings": 0
+}

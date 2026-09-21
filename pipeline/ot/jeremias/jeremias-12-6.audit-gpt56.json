@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:6",
+  "chapter": 12,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque también tus hermanos y la casa de tu padre te han traicionado; también ellos te han llamado, lleno de engaño. No confíes en ellos, porque hablan bien de ti con la lengua.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012006014"
+      ],
+      "issue": "adds 'de engaño' concept not licensed by מָלֵא",
+      "spanishSpan": "lleno de engaño"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012006019",
+        "h24012006020",
+        "h24012006021"
+      ],
+      "issue": "adds 'de ti con la lengua' and changes 'speak to you goods' to 'hablan bien de ti'",
+      "spanishSpan": "hablan bien de ti con la lengua"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012006012",
+        "h24012006013"
+      ],
+      "issue": "renders קָרְאוּ אַחֲרֶיךָ as 'te han llamado' omitting 'after you'",
+      "spanishSpan": "te han llamado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

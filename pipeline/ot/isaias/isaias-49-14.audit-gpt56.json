@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 49:14",
+  "chapter": 49,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Tsiyón: Me dejó Jehová, y Adonai me olvidó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23049014002"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23049014005"
+      ],
+      "issue": "Untranslated non-name lemma kept as Hebrew term",
+      "spanishSpan": "Adonai"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

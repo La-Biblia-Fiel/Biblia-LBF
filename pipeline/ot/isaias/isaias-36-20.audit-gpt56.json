@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:20",
+  "chapter": 36,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Quién en todos dioses de estas tierras que libraron su tierra de mi mano, que librará Jehová a Yerushaláyim de mi mano?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036020015"
+      ],
+      "issue": "Hebraizes proper name Yerushaláyim instead of conventional Spanish Jerusalén",
+      "spanishSpan": "Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

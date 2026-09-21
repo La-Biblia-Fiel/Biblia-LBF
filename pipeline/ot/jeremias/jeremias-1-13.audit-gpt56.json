@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:13",
+  "chapter": 1,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vino a mí la palabra del Señor diciendo: ¿Qué ves? Y yo dije: Veo una caldera hirviendo y su superficie hacia el norte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001013005"
+      ],
+      "issue": "omits licensed concept 'second' (ordinal, the second occurrence)",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001013003"
+      ],
+      "issue": "replaces proper name יהוה with 'Señor' (not the licensed conventional form Jehová)",
+      "spanishSpan": "del Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

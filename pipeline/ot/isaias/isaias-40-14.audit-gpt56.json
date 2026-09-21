@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:14",
+  "chapter": 40,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Con quién se aconsejó, y le hizo entender, y le enseñó en senda de juicio, y le enseñó conocimiento, y camino de inteligencias le hizo saber?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040014003"
+      ],
+      "issue": "Niphal נוֹעָץ rendered as reflexive 'se aconsejó' on the wrong participant; tokens show passive 'was advised' (with whom did someone advise him)",
+      "spanishSpan": "se aconsejó"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

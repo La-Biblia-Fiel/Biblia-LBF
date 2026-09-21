@@ -1,0 +1,162 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 50,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    10,
+    11
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Visto cielos de negrura, y saco pongo su cubierta.",
+      "notes": "multiple structural and lexical mismatches with tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23050003001"
+          ],
+          "issue": "Spanish fails to render hiphil 1cs verb 'I will clothe' and its object structure",
+          "spanishSpan": "Visto cielos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23050003002",
+            "h23050003003"
+          ],
+          "issue": "treats קַדְר�וּת as genitive descriptor of שָׁמַיִם instead of separate clothing item",
+          "spanishSpan": "cielos de negrura"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23050003004",
+            "h23050003005",
+            "h23050003006"
+          ],
+          "issue": "mangles conjunction + verb + object into 'saco pongo su cubierta', omitting proper 'I will put sackcloth as their covering'",
+          "spanishSpan": "y saco pongo su cubierta"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Adonai Jehová ayuda a mí; por tanto no fui confundido; por tanto puse mi rostro como pedernal, y supe que no seré avergonzado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23050007001"
+          ],
+          "issue": "omits 1cs possessive suffix on אדני (my Lord)",
+          "spanishSpan": "Adonai Jehová"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23050007008"
+          ],
+          "issue": "כָּלַם (shame/humiliate) rendered as 'confundido' (confused)",
+          "spanishSpan": "no fui confundido"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Cercano el que me justifica; ¿quién contenderá conmigo? Estemos juntos; ¿quién dueño de mi juicio? Acérquese a mí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23050008006"
+          ],
+          "issue": "omits licensed concept 'stand' from עמד cohortative",
+          "spanishSpan": "Estemos juntos"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí Adonai Jehová ayuda a mí; ¿quién él me condenará? He aquí todos ellos como el vestido se envejecerán; polilla los comerá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23050009004"
+          ],
+          "issue": "qal imperfect rendered as present tense instead of future",
+          "spanishSpan": "ayuda"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:05:59.827828+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 11,
+    "verses": 11,
+    "input": 26600,
+    "cachedInput": 8448,
+    "output": 696,
+    "reasoning": 9626,
+    "usd": 0.1025,
+    "byProvider": {
+      "xai": {
+        "calls": 11,
+        "input": 26600,
+        "output": 696,
+        "reasoning": 9626,
+        "usd": 0.1025
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 11,
+        "input": 26600,
+        "output": 696,
+        "reasoning": 9626,
+        "usd": 0.1025
+      }
+    },
+    "usdPerVerse": 0.0093,
+    "bibleAtThisRate": 290.0,
+    "book": "isaias",
+    "chapter": 50
+  }
+}

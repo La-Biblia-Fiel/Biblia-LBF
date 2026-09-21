@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:3",
+  "chapter": 15,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo los visitaré con cuatro castigos, dice el SEÑOR: con la espada para matar, con los perros para arrastrar, con las aves del cielo y con las bestias de la tierra para comer y destruir.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015003003",
+        "h24015003004"
+      ],
+      "issue": "adds 'castigos' not licensed by tokens; tokens have 'cuatro familias/clanes'",
+      "spanishSpan": "cuatro castigos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

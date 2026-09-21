@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 24:1",
+  "chapter": 24,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí Jehová vaciando la tierra y la despobla, y torció sus faces, y dispersó sus moradores.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23024001006",
+        "h23024001008"
+      ],
+      "issue": "sequential perfects rendered as preterite finite verbs, altering stem/aspect force",
+      "spanishSpan": "y torció ... y dispersó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23024001005"
+      ],
+      "issue": "second qal participle rendered as finite present verb instead of parallel participle construction",
+      "spanishSpan": "y la despobla"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

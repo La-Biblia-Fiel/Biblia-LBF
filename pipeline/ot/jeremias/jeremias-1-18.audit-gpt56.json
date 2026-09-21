@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:18",
+  "chapter": 1,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo, he aquí, te he puesto hoy ciudad de refugio y columna de hierro y murallas de bronce para toda la tierra, contra los reyes de Judá, contra los príncipes, contra los sacerdotes y contra el pueblo de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001018005",
+        "h24001018006"
+      ],
+      "issue": "adds 'refugio' concept absent from עִיר מִבְצָר; lemma 4013 licenses fortress/stronghold only",
+      "spanishSpan": "ciudad de refugio"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

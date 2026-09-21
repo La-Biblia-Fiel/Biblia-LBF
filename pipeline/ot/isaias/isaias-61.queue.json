@@ -1,0 +1,138 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 61,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    11
+  ],
+  "holds": [
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y se pararán extraños y pastorearán su oveja de ustedes, e hijos de extranjero sus labradores de ustedes y sus viñadores de ustedes.",
+      "notes": "verbless clause and 2mp suffixes handled inconsistently",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23061005004"
+          ],
+          "issue": "possessive rendered as mixed-person 'su oveja de ustedes' instead of direct 2mp suffix on noun",
+          "spanishSpan": "su oveja de ustedes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23061005001"
+          ],
+          "issue": "adds reflexive 'se' not licensed by qal Vqq3cp",
+          "spanishSpan": "se pararán"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será conocido en las naciones su simiente, y sus descendientes en medio de los pueblos; todos sus videntes los reconocerán, porque ellos simiente bendijo Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23061009008"
+          ],
+          "issue": "רֹאֵיהֶם (those seeing them) rendered as 'sus videntes' (their seers/visionaries)",
+          "spanishSpan": "todos sus videntes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23061009011",
+            "h23061009012",
+            "h23061009013",
+            "h23061009014"
+          ],
+          "issue": "final clause syntax and word order fails to convey 'they [are] the seed Jehovah has blessed'",
+          "spanishSpan": "porque ellos simiente bendijo Jehová"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Gozar gozaré en Jehová; se alegrará mi alma en mi Dios; porque me vistió vestidos de salvación; manto de justicia me envolvió, como el novio se pone ornato de sacerdote, y como la novia se adorna sus joyas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23061010015"
+          ],
+          "issue": "adds 'de sacerdote' concept not licensed by the tokens; יְכַהֵן is the verb only",
+          "spanishSpan": "ornato de sacerdote"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:36:34.796359+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 11,
+    "verses": 11,
+    "input": 26061,
+    "cachedInput": 9856,
+    "output": 586,
+    "reasoning": 10343,
+    "usd": 0.1029,
+    "byProvider": {
+      "xai": {
+        "calls": 11,
+        "input": 26061,
+        "output": 586,
+        "reasoning": 10343,
+        "usd": 0.1029
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 11,
+        "input": 26061,
+        "output": 586,
+        "reasoning": 10343,
+        "usd": 0.1029
+      }
+    },
+    "usdPerVerse": 0.0094,
+    "bibleAtThisRate": 291.0,
+    "book": "isaias",
+    "chapter": 61
+  }
+}

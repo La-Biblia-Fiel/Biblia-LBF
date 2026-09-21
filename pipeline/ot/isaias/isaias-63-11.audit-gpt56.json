@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 63:11",
+  "chapter": 63,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y recordó días de perpetuidad, Moisés su pueblo: ¿Dónde el que los subió del mar con pastores de su oveja? ¿Dónde el que puso en medio de él Espíritu de su santidad,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063011002",
+        "h23063011003",
+        "h23063011004",
+        "h23063011005"
+      ],
+      "issue": "Spanish inserts comma and restructures 'days of olam Moses his people' into separate appositive phrase, altering the construct relationship and participant linkage licensed by the tokens",
+      "spanishSpan": "días de perpetuidad, Moisés su pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063011011"
+      ],
+      "issue": "צֹאנוֹ (flock) rendered as singular 'oveja' instead of preserving collective sense",
+      "spanishSpan": "su oveja"
+    }
+  ],
+  "notes": "additional phrasing choices are close but the above token mismatches trigger fail",
+  "discardedUncitedFindings": 0
+}

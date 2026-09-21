@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:15",
+  "chapter": 7,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Ve a Faraón por la mañana, cuando él salga al río, y espera a que él salga, y toma en tu mano la vara que se volvió serpiente.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007015008",
+        "h02007015009",
+        "h02007015010",
+        "h02007015011",
+        "h02007015012"
+      ],
+      "issue": "Tokens license station yourself to meet him on the bank of the Nile; ‘espera a que él salga’ replaces that and omits עַל שְׂפַת הַיְאֹר",
+      "spanishSpan": "espera a que él salga"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007015007"
+      ],
+      "issue": "הַמַּ֫יְמָה is ‘to the waters’; ‘al río’ substitutes river for waters",
+      "spanishSpan": "al río"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007015005"
+      ],
+      "issue": "הִנֵּה (‘behold’) is omitted",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

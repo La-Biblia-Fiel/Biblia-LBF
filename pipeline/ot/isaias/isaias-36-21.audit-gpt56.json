@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:21",
+  "chapter": 36,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y callaron, y no respondieron a él palabra, porque mandato del rey ella, diciendo: No lo respondan.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036021007",
+        "h23036021008",
+        "h23036021009"
+      ],
+      "issue": "renders construct + article + 3fs pronoun as ungrammatical fragment \"mandato del rey ella\" instead of licensed clause structure",
+      "spanishSpan": "mandato del rey ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036021012"
+      ],
+      "issue": "uses 3rd-person plural imperative \"respondan\" for 2mp qal imperfect with suffix",
+      "spanishSpan": "No lo respondan"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

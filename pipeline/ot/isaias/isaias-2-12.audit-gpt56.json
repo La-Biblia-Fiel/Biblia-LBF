@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 2:12",
+  "chapter": 2,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque día a Jehová de ejércitos sobre todo soberbio y alto, y sobre todo alzado, y será abatido;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23002012003",
+        "h23002012005",
+        "h23002012009"
+      ],
+      "issue": "incorrect preposition and missing syntactic connection for 'day to YHWH ... upon'",
+      "spanishSpan": "día a Jehová de ejércitos sobre"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23002012012"
+      ],
+      "issue": "3ms subject of שפל not preserved; Spanish attaches 'será abatido' without licensed antecedent",
+      "spanishSpan": "y será abatido"
+    }
+  ],
+  "notes": "syntax and preposition mismatches",
+  "discardedUncitedFindings": 0
+}

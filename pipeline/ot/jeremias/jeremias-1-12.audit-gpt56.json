@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:12",
+  "chapter": 1,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el Señor me dijo: Bien has visto, porque soy vigilante para cumplir mi palabra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001012002"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001012011"
+      ],
+      "issue": "לעשותו rendered as 'cumplir' (interpretive) instead of 'hacer'",
+      "spanishSpan": "cumplir mi palabra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 27:8",
+  "chapter": 27,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "En medida, al echarla, contenderás con ella; removió con su viento el duro en día de solano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23027008006"
+      ],
+      "issue": "gender mismatch on adjective: feminine הַקָּשָׁה rendered as masculine 'el duro'",
+      "spanishSpan": "el duro"
+    }
+  ],
+  "notes": "gender error on token 6",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 47:1",
+  "chapter": 47,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Desciende y siéntate sobre polvo, virgen hija de Bavel; siéntate en la tierra; no hay trono, hija de Kasdim; porque no añadirás que te llamen tierna y delicada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23047001007",
+        "h23047001013"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Bavel; Kasdim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

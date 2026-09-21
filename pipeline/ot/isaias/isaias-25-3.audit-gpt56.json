@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 25:3",
+  "chapter": 25,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto te honrará pueblo fuerte; ciudad de naciones violentas te temerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23025003003"
+      ],
+      "issue": "verb number changed from 3mp to singular",
+      "spanishSpan": "te honrará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23025003009"
+      ],
+      "issue": "verb number changed from 3mp to singular",
+      "spanishSpan": "te temerá"
+    }
+  ],
+  "notes": "plural morphology on both verbs not preserved",
+  "discardedUncitedFindings": 0
+}

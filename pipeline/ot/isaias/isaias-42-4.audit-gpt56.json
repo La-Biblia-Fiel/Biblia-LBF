@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 42:4",
+  "chapter": 42,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "No se apagará y no se quebrará hasta que ponga en la tierra juicio, y a su torá islas esperarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042004009"
+      ],
+      "issue": "untranslated non-name lemma kept as torá instead of Spanish equivalent",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23042004002",
+        "h23042004004"
+      ],
+      "issue": "reflexive/passive se forms for active qal 3ms verbs",
+      "spanishSpan": "se apagará ... se quebrará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

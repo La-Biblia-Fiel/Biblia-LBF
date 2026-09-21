@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:25",
+  "chapter": 13,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Esta es tu porción, tu alimento, que te da el SEÑOR, tu Dios; que has olvidado a mí y te has confiado en mentiras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013025003",
+        "h24013025004"
+      ],
+      "issue": "adds 'alimento' (food) concept absent from מְנָת מִדַּיִךְ",
+      "spanishSpan": "tu alimento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013025005",
+        "h24013025006",
+        "h24013025007"
+      ],
+      "issue": "restructures מֵאִתִּי נְאֻם יְהוָה into 'que te da el SEÑOR, tu Dios' adding 'da' and 'Dios'",
+      "spanishSpan": "que te da el SEÑOR, tu Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013025012"
+      ],
+      "issue": "pluralizes singular שֶׁקֶר to 'mentiras'",
+      "spanishSpan": "mentiras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

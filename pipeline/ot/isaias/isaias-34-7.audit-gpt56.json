@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 34:7",
+  "chapter": 34,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y bajarán búfalos con ellos, y toros con toros fuertes; y se embriagará su tierra de sangre, y su polvo de sebo se engordará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23034007002"
+      ],
+      "issue": "specific animal identification 'búfalos' not licensed by lemma 7214",
+      "spanishSpan": "búfalos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23034007007"
+      ],
+      "issue": "piel saturation rendered as 'embriagará' adds drunkenness concept not in lemma 7301 or morph",
+      "spanishSpan": "se embriagará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23034007006"
+      ],
+      "issue": "abbirim rendered as 'toros fuertes' specifies bulls and resolves open adjective",
+      "spanishSpan": "toros fuertes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:9",
+  "chapter": 19,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los haré comer la carne de sus hijos y la carne de sus hijas, y cada uno comerá la carne de su vecino en la hambruna y en la angustia, por la gran calamidad que sus enemigos y los que buscan sus vidas les causarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019009012"
+      ],
+      "issue": "hambruna replaces licensed concept of siege with famine",
+      "spanishSpan": "hambruna"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019009014",
+        "h24019009015"
+      ],
+      "issue": "adds 'gran' and frames as separate calamity rather than the distress caused",
+      "spanishSpan": "gran calamidad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 56:10",
+  "chapter": 56,
+  "verse": 10,
+  "candidateLabel": "pulir",
+  "spanish": "Ciegos todos ellos, no conocieron; todos ellos, como perros mudos, no pueden ladrar; soñando, yaciendo, amantes de dormitar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23056010006",
+        "h23056010007"
+      ],
+      "issue": "adds 'como' (like/as) creating a simile absent from the equative construction of the tokens",
+      "spanishSpan": "como perros mudos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 66:6",
+  "chapter": 66,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Voz de tumulto de ciudad, voz del templo, voz de Jehová recompensando retribución a sus enemigos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066006005"
+      ],
+      "issue": "renders מֵהֵיכָל as 'del templo' (of the temple) instead of preserving 'from the temple'",
+      "spanishSpan": "voz del templo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

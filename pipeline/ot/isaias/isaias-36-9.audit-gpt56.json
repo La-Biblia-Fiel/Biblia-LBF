@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:9",
+  "chapter": 36,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Y cómo harás volver faces de un pajat de siervos de mi señor los pequeños, y confiaste a ti sobre Mizraim para carro y para jinetes?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036009013"
+      ],
+      "issue": "Hebraizes proper name as Mizraim instead of conventional Spanish Egipto",
+      "spanishSpan": "Mizraim"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036009005"
+      ],
+      "issue": "dumps non-Spanish form pajat for pachath",
+      "spanishSpan": "pajat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036009004"
+      ],
+      "issue": "renders construct 'face of' as plural 'faces'",
+      "spanishSpan": "faces"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036009001",
+        "h23036009002",
+        "h23036009005",
+        "h23036009006",
+        "h23036009007",
+        "h23036009008",
+        "h23036009009"
+      ],
+      "issue": "garbled syntax that adds concepts and misparses 'how will you cause to return the face of one governor among the least servants of my lord'",
+      "spanishSpan": "harás volver faces de un pajat de siervos de mi señor los pequeños"
+    }
+  ],
+  "notes": "multiple structural and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

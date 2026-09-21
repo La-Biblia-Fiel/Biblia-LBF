@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 59:18",
+  "chapter": 59,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Conforme a recompensas, conforme a recompensará: ira a sus adversarios, recompensa a sus enemigos; a las islas recompensa recompensará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23059018003",
+        "h23059018004"
+      ],
+      "issue": "fuses כְּעַל + יְשַׁלֵּם into ungrammatical 'conforme a recompensará', altering the two parallel prepositional phrases",
+      "spanishSpan": "conforme a recompensará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

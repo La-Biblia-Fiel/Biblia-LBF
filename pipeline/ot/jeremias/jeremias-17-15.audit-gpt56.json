@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:15",
+  "chapter": 17,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que ellos me dicen: ¿Dónde está la palabra de Jehová? Hagámosla venir.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017015008",
+        "h24017015009"
+      ],
+      "issue": "3ms jussive יָבוֹא נָא rendered as 1cp cohortative 'Hagámosla venir' (participant and force change)",
+      "spanishSpan": "Hagámosla venir"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

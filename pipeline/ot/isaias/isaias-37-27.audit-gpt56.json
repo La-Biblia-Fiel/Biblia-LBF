@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:27",
+  "chapter": 37,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sus habitantes cortos de mano; se aterraron y se avergonzaron; fueron hierba de campo y verdor de hierba, hierba de techos, y campo sembrado delante de espiga.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037027013",
+        "h23037027014",
+        "h23037027015"
+      ],
+      "issue": "adds 'sembrado' and renders קמה as 'espiga' instead of preserving 'campo' / 'standing grain'",
+      "spanishSpan": "campo sembrado delante de espiga"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

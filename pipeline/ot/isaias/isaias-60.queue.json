@@ -1,0 +1,205 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 60,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "holds": [
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Toda oveja de Qedar se reunirán a ti; carneros de Nevayot te ministrarán; subirán a agrado mi altar, y casa de mi hermosura embelleceré.",
+      "notes": "proper names and final clause acceptable; number and altar phrase cause fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23060007001",
+            "h23060007002",
+            "h23060007004"
+          ],
+          "issue": "singular 'Toda oveja' with plural verb mismatches collective construct + 3mp Niphal",
+          "spanishSpan": "Toda oveja de Qedar se reunirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23060007009",
+            "h23060007010",
+            "h23060007011",
+            "h23060007012"
+          ],
+          "issue": "'subirán a agrado mi altar' adds unlicensed preposition and sense; tokens are 'go up upon favor/acceptance of my altar'",
+          "spanishSpan": "subirán a agrado mi altar"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque la nación y el reino que no te sirvan perecerán, y las naciones destruir serán destruidas.",
+      "notes": "mood and verbal construction mismatch",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23060012006"
+          ],
+          "issue": "subjunctive 'sirvan' changes indicative force of qal imperfect",
+          "spanishSpan": "que no te sirvan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23060012009",
+            "h23060012010"
+          ],
+          "issue": "infinitive absolute + finite verb construction rendered as ungrammatical 'destruir serán destruidas'",
+          "spanishSpan": "destruir serán destruidas"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Gloria del Levanón a ti vendrá: ciprés, olmo y boj juntos, para embellecer lugar de mi santuario, y lugar de mis pies honraré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23060013002"
+          ],
+          "issue": "uses non-conventional Hebraized form Levanón instead of conventional Spanish proper name Líbano",
+          "spanishSpan": "Levanón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23060013005",
+            "h23060013006",
+            "h23060013007"
+          ],
+          "issue": "assigns specific species identifications (ciprés, olmo, boj) that the bare lemmas do not license",
+          "spanishSpan": "ciprés, olmo y boj"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y andarán a ti inclinándose hijos de tus afligidores, y se postrarán sobre plantas de tus pies todos tus despreciadores; y te llamarán Ciudad de Jehová, Tsiyón del Santo de Israel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23060014016"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y mamarás leche de naciones, y pecho de reyes mamarás; y conocerás que yo Jehová tu Salvador, y tu Redentor, Fuerte de Yaakov.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23060016014"
+          ],
+          "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:34:56.663002+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 22,
+    "verses": 22,
+    "input": 49152,
+    "cachedInput": 19712,
+    "output": 1042,
+    "reasoning": 19914,
+    "usd": 0.1945,
+    "byProvider": {
+      "xai": {
+        "calls": 22,
+        "input": 49152,
+        "output": 1042,
+        "reasoning": 19914,
+        "usd": 0.1945
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 22,
+        "input": 49152,
+        "output": 1042,
+        "reasoning": 19914,
+        "usd": 0.1945
+      }
+    },
+    "usdPerVerse": 0.0088,
+    "bibleAtThisRate": 275.0,
+    "book": "isaias",
+    "chapter": 60
+  }
+}

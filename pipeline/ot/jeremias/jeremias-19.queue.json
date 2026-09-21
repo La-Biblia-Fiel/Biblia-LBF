@@ -1,0 +1,384 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 19,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "passed": [
+    4,
+    5,
+    10
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el Señor: Ve y compra un cántaro de arcilla, de la mano del alfarero, y de los ancianos del pueblo y de los ancianos de los sacerdotes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019001003"
+          ],
+          "issue": "יהוה rendered as 'el Señor' instead of conventional 'Jehová'",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019001006",
+            "h24019001007",
+            "h24019001008"
+          ],
+          "issue": "adds 'de la mano del' with no token support for 'mano'",
+          "spanishSpan": "de la mano del alfarero"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y saldrás al valle de Hinnom, al borde de la puerta de las Cenizas, y allí pronunciarás las palabras que yo te hablaré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019002006",
+            "h24019002007",
+            "h24019002008"
+          ],
+          "issue": "adds 'de las Cenizas' and renders 'al borde de la puerta' without token support for either phrase or the added noun",
+          "spanishSpan": "al borde de la puerta de las Cenizas"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás: Escuchad la palabra del Señor, oh reyes de Judá y habitantes de Jerusalén: Así ha dicho el Señor de los ejércitos, el Dios de Israel: He aquí que traigo un mal sobre este lugar, y todo el que oiga la palabra de este mal, se estremecerá de miedo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019003004",
+            "h24019003011"
+          ],
+          "issue": "YHWH rendered as Señor instead of licensed Jehová",
+          "spanishSpan": "del Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019003017",
+            "h24019003021",
+            "h24019003023",
+            "h24019003024",
+            "h24019003025"
+          ],
+          "issue": "adds 'la palabra de este mal' and resolves 'ears will tingle' idiom into 'se estremecerá de miedo'",
+          "spanishSpan": "todo el que oiga la palabra de este mal, se estremecerá de miedo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019003002"
+          ],
+          "issue": "adds vocative 'oh' not present in tokens",
+          "spanishSpan": "oh reyes"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por tanto, he aquí que días vienen, dice el Señor, en que este lugar no se llamará más Tophet ni Valle de Hinnom, sino Valle de Slaughter.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019006005",
+            "h24019006006"
+          ],
+          "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' instead of licensed form with Jehová",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019006013",
+            "h24019006014",
+            "h24019006015"
+          ],
+          "issue": "וְגֵיא בֶן הִנֹּם rendered without 'Ben'/'hijo de' and with 'ni' for the conjunction",
+          "spanishSpan": "ni Valle de Hinnom"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019006018",
+            "h24019006019"
+          ],
+          "issue": "גֵּיא הַהֲרֵגָה rendered with English 'Slaughter' instead of Spanish equivalent",
+          "spanishSpan": "Valle de Slaughter"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré que Judá y Jerusalén sean objeto de consejo en este lugar, y los haré caer a la espada delante de sus enemigos y en la mano de los que buscan sus vidas; y entregaré sus cadáveres a ser comida para las aves del cielo y para las bestias de la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019007001",
+            "h24019007003"
+          ],
+          "issue": "adds 'sean objeto de consejo' (making Judah/Jerusalem the object) instead of licensing 'make void/empty the counsel'",
+          "spanishSpan": "haré que Judá y Jerusalén sean objeto de consejo"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y haré que esta ciudad sea para la destrucción y para el grito; todo el que pase por ella se maravillará y se estremecerá por todas sus plagas.",
+      "notes": "multiple mismatches on response terms",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019008006"
+          ],
+          "issue": "שְׁרֵקָה rendered as 'grito' instead of hissing/whistling",
+          "spanishSpan": "para el grito"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019008010"
+          ],
+          "issue": "יִשֹּׁם rendered as 'se maravillará' instead of be appalled/desolate",
+          "spanishSpan": "se maravillará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019008011"
+          ],
+          "issue": "וְיִשְׁרֹק rendered as 'se estremecerá' instead of will hiss",
+          "spanishSpan": "y se estremecerá"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y los haré comer la carne de sus hijos y la carne de sus hijas, y cada uno comerá la carne de su vecino en la hambruna y en la angustia, por la gran calamidad que sus enemigos y los que buscan sus vidas les causarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019009012"
+          ],
+          "issue": "hambruna replaces licensed concept of siege with famine",
+          "spanishSpan": "hambruna"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019009014",
+            "h24019009015"
+          ],
+          "issue": "adds 'gran' and frames as separate calamity rather than the distress caused",
+          "spanishSpan": "gran calamidad"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dirás a ellos: Así ha dicho el Señor de los ejércitos: Así haré con este pueblo y con esta ciudad, como el alfarero que rompe la vasija que hace, y no puede ya arreglarla; y en Tophet se enterrarán por falta de lugar para enterrar.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019011005"
+          ],
+          "issue": "YHWH rendered as Señor instead of licensed Jehová",
+          "spanishSpan": "el Señor de los ejércitos"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así haré con este lugar, dice el Señor, y con sus moradores; y haré que esta ciudad sea como Tophet.",
+      "notes": "also uses non-packet 'Señor' for YHWH",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019012005",
+            "h24019012006"
+          ],
+          "issue": "renders נְאֻם יְהוָה as 'dice el Señor' (title and verb choice not licensed by tokens)",
+          "spanishSpan": "dice el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019012008",
+            "h24019012009",
+            "h24019012010",
+            "h24019012011",
+            "h24019012012"
+          ],
+          "issue": "restructures וְלָתֵת אֶת הָעִיר הַזֹּאת כְּתֹפֶת into separate 'y haré que esta ciudad sea como' clause instead of preserving the infinitive construct",
+          "spanishSpan": "y haré que esta ciudad sea como Tophet"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y serán las casas de Jerusalén y las casas de los reyes de Judá como lugares de Tophet, impuros; todas las casas sobre cuyos techos se han ofrecido incienso a todas las tropas del cielo y han vertido libaciones a otros dioses, serán como lugares de Tophet.",
+      "notes": "restructuring and added clause change scope and participants",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019013001",
+            "h24019013007",
+            "h24019013008",
+            "h24019013009",
+            "h24019013022"
+          ],
+          "issue": "Spanish adds repeated 'serán como lugares de Tophet' clause at end with no corresponding tokens; Hebrew ends after libations without repetition or re-application of the comparison",
+          "spanishSpan": "serán como lugares de Tophet"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019013013"
+          ],
+          "issue": "Spanish renders active 3cp piel 'they burned incense' as passive 'se han ofrecido'",
+          "spanishSpan": "se han ofrecido incienso"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vino Jeremías del Tofet, donde el Señor lo había enviado a profetizar, y se paró en el patio del templo del Señor y dijo a todo el pueblo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019014006",
+            "h24019014012"
+          ],
+          "issue": "YHWH rendered as title 'el Señor' instead of conventional Jehová",
+          "spanishSpan": "el Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019014011"
+          ],
+          "issue": "בֵּית rendered as 'templo' (adds concept not in lemma)",
+          "spanishSpan": "templo"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho el Señor de los ejércitos, el Dios de Israel: He aquí que traeré sobre esta ciudad y sobre todas sus ciudades toda la maldad que he hablado contra ella, porque han endurecido el cuello para no oír mis palabras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24019015003"
+          ],
+          "issue": "replaces יהוה with Señor instead of conventional Jehová",
+          "spanishSpan": "el Señor de los ejércitos"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:42:59.941154+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 15,
+    "verses": 15,
+    "input": 39931,
+    "cachedInput": 12032,
+    "output": 1997,
+    "reasoning": 13403,
+    "usd": 0.1542,
+    "byProvider": {
+      "xai": {
+        "calls": 15,
+        "input": 39931,
+        "output": 1997,
+        "reasoning": 13403,
+        "usd": 0.1542
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 15,
+        "input": 39931,
+        "output": 1997,
+        "reasoning": 13403,
+        "usd": 0.1542
+      }
+    },
+    "usdPerVerse": 0.0103,
+    "bibleAtThisRate": 320.0,
+    "book": "jeremias",
+    "chapter": 19
+  }
+}

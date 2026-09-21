@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 31:1",
+  "chapter": 31,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "¡Ay, los que bajan a Mizraim para ayuda, sobre caballos se apoyan, y confían sobre carro porque mucho, y sobre jinetes porque fuertes mucho, y no miraron sobre el Santo de Israel, y a Jehová no buscaron!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23031001003"
+      ],
+      "issue": "Hebraizes proper name Mizraim instead of conventional Egipto",
+      "spanishSpan": "Mizraim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

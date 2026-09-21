@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:8",
+  "chapter": 10,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y en una vez se encenderán y se consumirán; son vanidad, son obra de tallador de madera.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010008003"
+      ],
+      "issue": "יכסלו (be foolish) rendered as se consumirán (be consumed)",
+      "spanishSpan": "se consumirán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010008004",
+        "h24010008005"
+      ],
+      "issue": "מוסר הבלים (discipline of vanities) rendered as son vanidad, omitting construct relation",
+      "spanishSpan": "son vanidad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010008006",
+        "h24010008007"
+      ],
+      "issue": "עץ הוא (wood it is) rendered as obra de tallador de madera (work of wood carver)",
+      "spanishSpan": "son obra de tallador de madera"
+    }
+  ],
+  "notes": "multiple lexical and structural mismatches",
+  "discardedUncitedFindings": 0
+}

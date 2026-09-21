@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:3",
+  "chapter": 17,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "En las montañas del campo, he de dar a tu tesoro y a tu riqueza por nada, en tus altas colinas, por causa de tu pecado, en toda tu frontera.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017003001"
+      ],
+      "issue": "1cs suffix on הררי rendered as 'montañas del campo' (wrong possessor)",
+      "spanishSpan": "las montañas del campo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017003006",
+        "h24017003007"
+      ],
+      "issue": "לבז rendered as 'por nada' (adds unlicensed concept)",
+      "spanishSpan": "por nada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017003003",
+        "h24017003005"
+      ],
+      "issue": "חילך and אוצרותיך split and paraphrased as 'tesoro y riqueza'",
+      "spanishSpan": "tu tesoro y a tu riqueza"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017003008"
+      ],
+      "issue": "במותיך rendered as 'altas colinas' (adds interpretive detail)",
+      "spanishSpan": "tus altas colinas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

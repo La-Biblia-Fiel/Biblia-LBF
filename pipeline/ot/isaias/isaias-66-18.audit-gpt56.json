@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 66:18",
+  "chapter": 66,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y yo, sus obras y sus pensamientos; viene para reunir a todas las naciones y las lenguas; y vendrán y verán mi gloria.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066018001",
+        "h23066018004"
+      ],
+      "issue": "Spanish separates 'yo' and renders participle as 3sg 'viene' (unlicensed subject), misparsing the 1cs + fsa sequence",
+      "spanishSpan": "Y yo, sus obras y sus pensamientos; viene"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

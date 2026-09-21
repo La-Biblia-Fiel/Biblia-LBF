@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 45:21",
+  "chapter": 45,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Anuncien y acerquen; aun tomen consejo a una: ¿Quién hizo oír esto desde antiguo? Desde entonces la anunció. ¿No yo Jehová, y no hay más Dios fuera de mí; Dios justo y Salvador; no hay fuera de mí?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23045021004",
+        "h23045021005"
+      ],
+      "issue": "renders 3mp niphal imperfect as 2pl imperative, changing person and mood",
+      "spanishSpan": "tomen consejo a una"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

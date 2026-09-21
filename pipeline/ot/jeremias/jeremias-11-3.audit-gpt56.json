@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:3",
+  "chapter": 11,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y diréis a ellos: Así ha dicho Jehová, Dios de Israel: Maldito el hombre que no oyere las palabras de este pacto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011003001"
+      ],
+      "issue": "changes 2ms to 2pl (diréis)",
+      "spanishSpan": "Y diréis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011003006"
+      ],
+      "issue": "non-name lemma 430 rendered Dios",
+      "spanishSpan": "Dios de Israel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

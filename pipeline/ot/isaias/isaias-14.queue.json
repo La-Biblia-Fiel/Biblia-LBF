@@ -1,0 +1,352 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 14,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    8,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    31,
+    32
+  ],
+  "holds": [
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "y alzarás este mashal sobre rey de Bavel, y dirás: ¡Cómo cesó opresor, cesó madhebá!",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014004002"
+          ],
+          "issue": "untranslated non-name lemma left as Hebrew mashal instead of Spanish equivalent",
+          "spanishSpan": "mashal"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014004012"
+          ],
+          "issue": "untranslated non-name lemma left as Hebrew madhebá instead of Spanish equivalent",
+          "spanishSpan": "madhebá"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "hiriendo pueblos en furor, golpe sin cesar, dominando en ira naciones, perseguido sin refrenar.",
+      "notes": "passive voice and participant shift on final clause violate token morphology",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014006010"
+          ],
+          "issue": "murddaph (noun) rendered as passive 'perseguido' (implying the subject is victim of persecution)",
+          "spanishSpan": "perseguido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014006012"
+          ],
+          "issue": "chasak (qal pf 3ms, the ruler 'has not restrained') rendered without preserving the 3ms agent or the unrestrained action of the ruler",
+          "spanishSpan": "sin refrenar"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h23014006004",
+            "h23014006005",
+            "h23014006006"
+          ],
+          "issue": "bilti sarah smoothed to 'sin cesar' (grammatical smoothing, does not change core sense)",
+          "spanishSpan": "golpe sin cesar"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sheol desde abajo se estremeció por ti, al encuentro de tu venir; despertó a ti refaím, todos cabrios de tierra; levantó de sus tronos a todos reyes de naciones.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014009007",
+            "h23014009008",
+            "h23014009009"
+          ],
+          "issue": "misparses עוֹרֵר לְךָ רְפָאִים as 'despertó a ti refaím' (waking the addressee) instead of arousing the Rephaim to/for you",
+          "spanishSpan": "despertó a ti refaím"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014009011"
+          ],
+          "issue": "renders עַתּוּדֵי as specialized 'cabrios' (young goats) resolving lexical openness of lemma 6260",
+          "spanishSpan": "todos cabrios de tierra"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todos ellos responderán y dirán a ti: También tú enfermaste como nosotros; a nosotros fuiste asemejado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014010007"
+          ],
+          "issue": "pual passive (חֻלֵּיתָ) rendered as active preterite 'enfermaste' instead of passive",
+          "spanishSpan": "enfermaste"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Fue hecha bajar a Sheol tu soberbia, ruido de tus liras; debajo de ti es tendido gusano, y tus coberturas gusano.",
+      "notes": "gender smoothing on both hophal verbs",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014011001"
+          ],
+          "issue": "verb gender agreement changed (HVHp3ms masculine subject treated as feminine)",
+          "spanishSpan": "Fue hecha bajar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014011007"
+          ],
+          "issue": "verb gender agreement changed (HVHi3ms masculine subject treated as masculine while noun is fs)",
+          "spanishSpan": "es tendido gusano"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mas a Sheol serás hecha bajar, a confines de pozo.",
+      "notes": "אַךְ rendered as Mas without token conflict but verb mismatch decisive",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014015004"
+          ],
+          "issue": "verb changed from 3ms hophal to 2fs passive address",
+          "spanishSpan": "serás hecha bajar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014015004"
+          ],
+          "issue": "person and gender altered from source morphology",
+          "spanishSpan": "serás hecha"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Preparen a sus hijos matadero por iniquidad de sus padres; no se levanten y hereden tierra, y llenen faces de mundo de ciudades.",
+      "notes": "multiple participant and construction mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014021002"
+          ],
+          "issue": "3ms suffix on 'sons' rendered as 'sus' in 2mp address context, altering participant reference",
+          "spanishSpan": "a sus hijos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014021001",
+            "h23014021003"
+          ],
+          "issue": "syntax and attachment of matbeah altered; tokens license 'prepare slaughter for his sons' not 'prepare sons slaughter'",
+          "spanishSpan": "Preparen a sus hijos matadero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014021007",
+            "h23014021008",
+            "h23014021010"
+          ],
+          "issue": "3mp verbs rendered with 2mp/subjunctive address forms, shifting participants",
+          "spanishSpan": "no se levanten y hereden ... y llenen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014021011",
+            "h23014021012",
+            "h23014021013"
+          ],
+          "issue": "preposition and object structure for 'fill faces of world with cities' omitted and reordered",
+          "spanishSpan": "llenen faces de mundo de ciudades"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y me levantaré sobre ellos, dicho de Jehová de ejércitos, y cortaré a Bavel nombre y resto y nieto y bisnieto, dicho de Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014022007",
+            "h23014022008",
+            "h23014022009",
+            "h23014022010",
+            "h23014022011"
+          ],
+          "issue": "restructures לְבָבֶל שֵׁם וּשְׁאָר וְנִין וָנֶכֶד as 'cortaré a Bavel nombre y resto...', altering what is cut off and from whom",
+          "spanishSpan": "cortaré a Bavel nombre y resto"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014022010",
+            "h23014022011"
+          ],
+          "issue": "specializes open lemmas נִין / נֶכֶד into specific 'nieto y bisnieto'",
+          "spanishSpan": "nieto y bisnieto"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y pastarán primogénitos de pobres, y necesitados a confianza se echarán; y haré morir de hambre tu raíz, y tu resto matará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23014030010",
+            "h23014030011"
+          ],
+          "issue": "makes שְׁאֵרִיתֵךְ the subject of יַהֲרֹג instead of its object",
+          "spanishSpan": "y tu resto matará"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:18:50.851692+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 32,
+    "verses": 32,
+    "input": 64610,
+    "cachedInput": 24704,
+    "output": 2103,
+    "reasoning": 29015,
+    "usd": 0.2789,
+    "byProvider": {
+      "xai": {
+        "calls": 32,
+        "input": 64610,
+        "output": 2103,
+        "reasoning": 29015,
+        "usd": 0.2789
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 32,
+        "input": 64610,
+        "output": 2103,
+        "reasoning": 29015,
+        "usd": 0.2789
+      }
+    },
+    "usdPerVerse": 0.0087,
+    "bibleAtThisRate": 271.0,
+    "book": "isaias",
+    "chapter": 14
+  }
+}

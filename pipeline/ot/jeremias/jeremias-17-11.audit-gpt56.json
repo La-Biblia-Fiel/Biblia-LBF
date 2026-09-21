@@ -1,0 +1,65 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:11",
+  "chapter": 17,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "El que llama al que no le ha dado a luz, y hace alianzas con los que no son justos; su pan será como cosa amarga, y en el fin de los días será reprobado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017011001",
+        "h24017011002",
+        "h24017011003",
+        "h24017011004"
+      ],
+      "issue": "Spanish renders קֹרֵא דָגַר וְלֹא יָלָד as 'llama al que no le ha dado a luz' (unlicensed concepts and participants)",
+      "spanishSpan": "El que llama al que no le ha dado a luz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017011005",
+        "h24017011006",
+        "h24017011007",
+        "h24017011008"
+      ],
+      "issue": "Spanish renders עֹשֶׂה עֹשֶׁר וְלֹא בְמִשְׁפָּט as 'hace alianzas con los que no son justos' (adds alliances, omits riches and justice)",
+      "spanishSpan": "y hace alianzas con los que no son justos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017011005",
+        "h24017011006"
+      ],
+      "issue": "Spanish omits עֹשֶׁר (riches) entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017011009",
+        "h24017011010"
+      ],
+      "issue": "Spanish omits בַּחֲצִי יַעַזְבֶנּוּ (leave in the midst) entirely",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017011011",
+        "h24017011012",
+        "h24017011013"
+      ],
+      "issue": "Spanish renders end + will be + fool as 'pan será como cosa amarga ... reprobado' (adds bread/bitter and changes fool to reprobado)",
+      "spanishSpan": "su pan será como cosa amarga, y en el fin de los días será reprobado"
+    }
+  ],
+  "notes": "Spanish matches none of the 13 tokens; entire verse content altered",
+  "discardedUncitedFindings": 0
+}

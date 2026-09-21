@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:23",
+  "chapter": 7,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será en el día aquel: será todo lugar que será allí mil vid en mil plata, para el espino y para el cardo será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007023010",
+        "h23007023011",
+        "h23007023012",
+        "h23007023013"
+      ],
+      "issue": "distorts אֶלֶף גֶּפֶן בְּאֶלֶף כָּסֶף into ungrammatical 'mil vid en mil plata'",
+      "spanishSpan": "mil vid en mil plata"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007023014",
+        "h23007023015",
+        "h23007023016"
+      ],
+      "issue": "misplaces final יִהְיֶה and attaches לַשָּׁמִיר וְלַשַּׁיִת incorrectly",
+      "spanishSpan": "para el espino y para el cardo será"
+    }
+  ],
+  "notes": "repetition of será follows tokens but overall clause structure does not",
+  "discardedUncitedFindings": 0
+}

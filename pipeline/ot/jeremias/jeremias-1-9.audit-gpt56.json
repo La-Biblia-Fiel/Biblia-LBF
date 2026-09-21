@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:9",
+  "chapter": 1,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el Señor extendió su mano y tocó mi boca, y me dijo: He aquí, pongo mis palabras en tu boca.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001009002",
+        "h24001009009"
+      ],
+      "issue": "יהוה rendered as 'Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001009012"
+      ],
+      "issue": "perfect נָתַתִּי rendered as present 'pongo' instead of completed 'he puesto'",
+      "spanishSpan": "pongo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 60:14",
+  "chapter": 60,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y andarán a ti inclinándose hijos de tus afligidores, y se postrarán sobre plantas de tus pies todos tus despreciadores; y te llamarán Ciudad de Jehová, Tsiyón del Santo de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23060014016"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

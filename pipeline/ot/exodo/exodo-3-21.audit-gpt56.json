@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:21",
+  "chapter": 3,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y daré la gracia de este pueblo ante los ojos de Egipto; y será que, cuando se vayan, no se irán vacíos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003021010",
+        "h02003021012"
+      ],
+      "issue": "2mp verbs rendered as 3rd-person se vayan / se irán instead of 2pl address to the addressees",
+      "spanishSpan": "cuando se vayan, no se irán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

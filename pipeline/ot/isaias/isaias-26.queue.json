@@ -1,0 +1,145 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 26,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "passed": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En aquel día será cantado este cántico en tierra de Yehudá: Ciudad de fuerza a nosotros; salvación pondrá muros y antemuro.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23026001007"
+          ],
+          "issue": "Hebraized proper name Yehudá instead of conventional Spanish Judá",
+          "spanishSpan": "Yehudá"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "También senda de tus juicios, Jehová, te esperamos; a tu nombre y a tu memoria deseo de alma.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23026008005"
+          ],
+          "issue": "verb rendered as present tense instead of perfect",
+          "spanishSpan": "te esperamos"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mi alma te anheló de noche; también mi espíritu en medio de mí te buscará de madrugada, porque cuando tus juicios a la tierra, justicia aprendieron moradores de mundo.",
+      "notes": "first half of verse is acceptable; final clause fails fidelity",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23026009009",
+            "h23026009010",
+            "h23026009011",
+            "h23026009012",
+            "h23026009013",
+            "h23026009014",
+            "h23026009015"
+          ],
+          "issue": "clause mangled and incomplete: 'cuando tus juicios a la tierra, justicia aprendieron' omits the licensed flow that judgments to the earth cause the inhabitants to learn righteousness",
+          "spanishSpan": "porque cuando tus juicios a la tierra, justicia aprendieron moradores de mundo"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:50:04.866653+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 21,
+    "verses": 21,
+    "input": 41621,
+    "cachedInput": 6272,
+    "output": 707,
+    "reasoning": 17374,
+    "usd": 0.1823,
+    "byProvider": {
+      "xai": {
+        "calls": 21,
+        "input": 41621,
+        "output": 707,
+        "reasoning": 17374,
+        "usd": 0.1823
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 21,
+        "input": 41621,
+        "output": 707,
+        "reasoning": 17374,
+        "usd": 0.1823
+      }
+    },
+    "usdPerVerse": 0.0087,
+    "bibleAtThisRate": 270.0,
+    "book": "isaias",
+    "chapter": 26
+  }
+}

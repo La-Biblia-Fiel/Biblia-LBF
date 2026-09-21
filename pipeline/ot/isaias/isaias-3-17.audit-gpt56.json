@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 3:17",
+  "chapter": 3,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "y despojará Adonai la coronilla de hijas de Tsiyón, y Jehová su desnudez descubrirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23003017001"
+      ],
+      "issue": "verb rendered as 'despojará' which adds unlicensed concept not present in lemma/strongs/morph of first token",
+      "spanishSpan": "despojará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

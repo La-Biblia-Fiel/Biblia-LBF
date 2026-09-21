@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 6:11",
+  "chapter": 6,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dije: ¿Hasta cuándo, Adonai? Y dijo: Hasta que si desoladas ciudades de no habitar, y casas de no hombre, y la tierra sea desolada desolación,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23006011009",
+        "h23006011010",
+        "h23006011011",
+        "h23006011012"
+      ],
+      "issue": "Spanish restructures verbal clause as adjective phrase and inserts unlicensed infinitive 'de no habitar'",
+      "spanishSpan": "desoladas ciudades de no habitar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23006011013",
+        "h23006011014",
+        "h23006011015"
+      ],
+      "issue": "Spanish renders 'mēʾên ʾādām' as 'de no hombre' altering the negative existential and noun",
+      "spanishSpan": "casas de no hombre"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

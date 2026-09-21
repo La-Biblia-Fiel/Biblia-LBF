@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:17",
+  "chapter": 12,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y si no escuchan, los echaré de su nación, los echaré y los destruiré, dice Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012017006",
+        "h24012017007"
+      ],
+      "issue": "object is 'that nation' (הַגּוֹי הַהוּא), not 'them' or 'their nation'",
+      "spanishSpan": "los echaré de su nación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012017004",
+        "h24012017008"
+      ],
+      "issue": "adds 'de su nación' and shifts participant from the nation itself being uprooted",
+      "spanishSpan": "los echaré de su nación"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

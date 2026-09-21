@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:14",
+  "chapter": 19,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vino Jeremías del Tofet, donde el Señor lo había enviado a profetizar, y se paró en el patio del templo del Señor y dijo a todo el pueblo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019014006",
+        "h24019014012"
+      ],
+      "issue": "YHWH rendered as title 'el Señor' instead of conventional Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019014011"
+      ],
+      "issue": "בֵּית rendered as 'templo' (adds concept not in lemma)",
+      "spanishSpan": "templo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

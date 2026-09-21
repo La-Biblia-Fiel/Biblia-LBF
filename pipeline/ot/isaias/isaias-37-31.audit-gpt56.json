@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:31",
+  "chapter": 37,
+  "verse": 31,
+  "candidateLabel": "gpt56",
+  "spanish": "Y añadirá escape de casa de Yehudá el restante raíz hacia abajo, y hará fruto hacia arriba.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037031004"
+      ],
+      "issue": "Hebraizes proper name Yehudá instead of conventional Spanish Judá",
+      "spanishSpan": "Yehudá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037031002",
+        "h23037031005",
+        "h23037031006"
+      ],
+      "issue": "misparses construct chain and modifiers, treating 'el restante' as attached to raíz rather than the escape",
+      "spanishSpan": "escape de casa de Yehudá el restante raíz"
+    }
+  ],
+  "notes": "also uses 'casa' explicitly where tokens license construct 'house-of Judah'",
+  "discardedUncitedFindings": 0
+}

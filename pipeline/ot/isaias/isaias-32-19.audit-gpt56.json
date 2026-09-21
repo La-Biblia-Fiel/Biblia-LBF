@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 32:19",
+  "chapter": 32,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y granizo en bajar el bosque, y en la bajura será abajada la ciudad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23032019001"
+      ],
+      "issue": "first token is HC/Vqq3ms verb (and it will hail), rendered as noun granizo",
+      "spanishSpan": "Y granizo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23032019002",
+        "h23032019003"
+      ],
+      "issue": "infinitive construct + forest subject rendered as potentially transitive bajar el bosque",
+      "spanishSpan": "en bajar el bosque"
+    }
+  ],
+  "notes": "verb-to-noun shift on hail is unlicensed",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:27",
+  "chapter": 13,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Tus encantamientos y tus placeres son la iniquidad de tu fornicación en las colinas en el campo; he visto tu abominación, ¡ay de ti, Jerusalén! No te purificarás; cuándo acabará el tiempo?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013027001",
+        "h24013027002"
+      ],
+      "issue": "renders as 'encantamientos y tus placeres' instead of licensed 'adulterios'/'fornicaciones' and 'relinchos'",
+      "spanishSpan": "Tus encantamientos y tus placeres"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013027003",
+        "h24013027004"
+      ],
+      "issue": "restructures construct as 'son la iniquidad de tu fornicación' adding interpretive equation not in tokens",
+      "spanishSpan": "son la iniquidad de tu fornicación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013027009"
+      ],
+      "issue": "singular 'abominación' for plural construct noun",
+      "spanishSpan": "tu abominación"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013027015",
+        "h24013027016",
+        "h24013027017"
+      ],
+      "issue": "renders final clause as 'cuándo acabará el tiempo?' adding temporal end concept not licensed by tokens",
+      "spanishSpan": "cuándo acabará el tiempo?"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

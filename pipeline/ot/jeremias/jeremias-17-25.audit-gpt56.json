@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:25",
+  "chapter": 17,
+  "verse": 25,
+  "candidateLabel": "gpt56",
+  "spanish": "Y entrarán por las puertas de esta ciudad reyes y príncipes sentados en el trono de David, montados en carros y en caballos, él y sus príncipes, cada uno de Judá y los habitantes de Jerusalén, y esta ciudad estará habitada para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017025014"
+      ],
+      "issue": "Hebrew הֵ֚מָּה (3mp 'they') rendered as singular 'él'",
+      "spanishSpan": "él y sus príncipes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

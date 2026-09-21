@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 42:22",
+  "chapter": 42,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y él pueblo saqueado y despojado; atrapados en hoyos todos ellos, y en casas de cárceles fueron escondidos; fueron a despojo y no hay libertador; a botín y no hay diciendo: Devuelve.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042022001",
+        "h23042022002"
+      ],
+      "issue": "renders 'and he [is] a people' as 'Y él pueblo' which inserts pronoun mismatch and omits copula sense",
+      "spanishSpan": "Y él pueblo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042022011",
+        "h23042022012"
+      ],
+      "issue": "changes 'they became plunder' to 'fueron a despojo' (went to plunder)",
+      "spanishSpan": "fueron a despojo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042022017",
+        "h23042022018"
+      ],
+      "issue": "renders 'there is none saying return' as awkward 'no hay diciendo: Devuelve' that alters participant and force",
+      "spanishSpan": "no hay diciendo: Devuelve"
+    }
+  ],
+  "notes": "multiple structural and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

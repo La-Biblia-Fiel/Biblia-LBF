@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:6",
+  "chapter": 7,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Subamos en Yehudá y la angustiaremos y la abriremos a nosotros, y haremos reinar rey en su seno, a hijo de Tabal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007006008"
+      ],
+      "issue": "בְּתוֹכָהּ rendered as 'en su seno' (adds 'bosom/breast' concept absent from token)",
+      "spanishSpan": "en su seno"
+    }
+  ],
+  "notes": "seno not licensed by token",
+  "discardedUncitedFindings": 0
+}

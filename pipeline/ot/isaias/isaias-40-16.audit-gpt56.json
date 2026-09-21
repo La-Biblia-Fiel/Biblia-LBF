@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:16",
+  "chapter": 40,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Levanón no basta para quemar, y su animal no basta para holocausto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040016001"
+      ],
+      "issue": "non-conventional spelling of proper name Lebanon (Levanón instead of conventional Líbano)",
+      "spanishSpan": "Levanón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

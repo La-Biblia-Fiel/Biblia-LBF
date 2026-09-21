@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 63:6",
+  "chapter": 63,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y hollé pueblos en mi ira, y los embriagué en mi furor, y haré bajar a la tierra su jugo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063006001",
+        "h23063006004",
+        "h23063006006"
+      ],
+      "issue": "source verbs are all waw-imperfect 1cs (qal/piel/hiphil); Spanish renders first two as preterite and only the third as future",
+      "spanishSpan": "hollé ... embriagué ... haré bajar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

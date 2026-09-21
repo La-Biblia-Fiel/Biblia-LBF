@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 13:20",
+  "chapter": 13,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "No será habitada para siempre, y no morará hasta generación y generación; y no plantará tienda allí árabe, y pastores no harán echar allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013020015"
+      ],
+      "issue": "yarbitzu (hiphil רבץ cause to lie down/rest) rendered as 'harán echar' which adds wrong action",
+      "spanishSpan": "harán echar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

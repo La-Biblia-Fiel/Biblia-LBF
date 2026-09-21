@@ -1,0 +1,261 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 65,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "passed": [
+    2,
+    4,
+    5,
+    6,
+    8,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Fui buscado a no preguntaron; fui hallado a no me buscaron; dije: Heme aquí, heme aquí, a nación no llamada en mi nombre.",
+      "notes": "second-person and name rules not triggered",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065001001",
+            "h23065001002",
+            "h23065001003"
+          ],
+          "issue": "Spanish structure 'Fui buscado a no preguntaron' does not license the lamed + negative + 3cp verb sequence; adds awkward connection and changes participant sense",
+          "spanishSpan": "Fui buscado a no preguntaron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065001004",
+            "h23065001005",
+            "h23065001006"
+          ],
+          "issue": "Spanish structure 'fui hallado a no me buscaron' does not license the lamed + negative + 3cp+1cs verb sequence",
+          "spanishSpan": "fui hallado a no me buscaron"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "El pueblo que me enfurecen sobre mis faces siempre, sacrificando en los huertos y quemando incienso sobre los ladrillos;",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065003001",
+            "h23065003002"
+          ],
+          "issue": "number mismatch: singular noun + plural verb form",
+          "spanishSpan": "El pueblo ... enfurecen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065003009"
+          ],
+          "issue": "adds explicit 'incienso' not present in any token",
+          "spanishSpan": "quemando incienso"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "sus iniquidades de ustedes y iniquidades de sus padres de ustedes a una, dijo Jehová, que quemaron incienso sobre los montes, y sobre las colinas me afrentaron; y mediré su obra primera a su seno.",
+      "notes": "singular 'su' mismatches 3mp; extra repetition not licensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065007015",
+            "h23065007017"
+          ],
+          "issue": "3mp suffixes rendered as singular 'su' instead of plural 'sus'",
+          "spanishSpan": "su obra primera a su seno"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065007001",
+            "h23065007002",
+            "h23065007003"
+          ],
+          "issue": "redundant and mismatched phrasing of constructs and 2mp suffixes",
+          "spanishSpan": "sus iniquidades de ustedes y iniquidades de sus padres de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y sacaré de Yaakov simiente, y de Yehudá heredero de mis montes; y la heredarán mis escogidos, y mis siervos habitarán allí.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065009002",
+            "h23065009004"
+          ],
+          "issue": "Hebraized proper names (Yaakov, Yehudá) instead of conventional Spanish forms",
+          "spanishSpan": "Yaakov, Yehudá"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será el Sharón a majada de oveja, y valle de Ajór a yacimiento de ganado, a mi pueblo que me buscaron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065010007"
+          ],
+          "issue": "לְרֵבֶץ rendered as 'yacimiento' (deposit/site) instead of licensed 'lying/resting place'",
+          "spanishSpan": "a yacimiento de ganado"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sino gócence y alégrense hasta perpetuidad lo que yo creo; porque he aquí yo creando a Yerushaláyim alegría, y a su pueblo gozo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065018014"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Yerushaláyim"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065018003",
+            "h23065018004"
+          ],
+          "issue": "2mp imperatives rendered with 3rd-person forms shifting addressees",
+          "spanishSpan": "gócense y alégrense"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y me alegraré en Yerushaláyim, y me gozaré en mi pueblo; y no se oirá en ella aún voz de llanto y voz de clamor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065019002"
+          ],
+          "issue": "Hebraizes proper name as Yerushaláyim instead of conventional Spanish Jerusalén",
+          "spanishSpan": "Yerushaláyim"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23065019008"
+          ],
+          "issue": "renders עוד as aún in negative clause, producing 'not yet' sense instead of 'no longer'",
+          "spanishSpan": "aún"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:46:36.921707+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 25,
+    "verses": 25,
+    "input": 57537,
+    "cachedInput": 21696,
+    "output": 1376,
+    "reasoning": 23213,
+    "usd": 0.2301,
+    "byProvider": {
+      "xai": {
+        "calls": 25,
+        "input": 57537,
+        "output": 1376,
+        "reasoning": 23213,
+        "usd": 0.2301
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 25,
+        "input": 57537,
+        "output": 1376,
+        "reasoning": 23213,
+        "usd": 0.2301
+      }
+    },
+    "usdPerVerse": 0.0092,
+    "bibleAtThisRate": 286.0,
+    "book": "isaias",
+    "chapter": 65
+  }
+}

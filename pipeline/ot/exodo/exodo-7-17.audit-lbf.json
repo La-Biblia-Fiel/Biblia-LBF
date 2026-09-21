@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:17",
+  "chapter": 7,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Así dice Jehová: Por esto conocerás que yo soy Jehová. He aquí que con el bastón que está en mi mano golpearé en las aguas del río, y se convertirán en sangre.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007017010",
+        "h02007017011"
+      ],
+      "issue": "אָנֹכִי מַכֶּה is participle (‘I am striking’); ‘golpearé’ shifts to future",
+      "spanishSpan": "golpearé"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

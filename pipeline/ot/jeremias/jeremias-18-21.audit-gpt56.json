@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:21",
+  "chapter": 18,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, dan a sus hijos al hambre, y a ellos a la espada; y a sus mujeres, viudas; y a sus hombres, muertos; a sus jóvenes, a la espada en la guerra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018021002"
+      ],
+      "issue": "2ms imperative changed to 3pl indicative (person/participant shift)",
+      "spanishSpan": "dan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018021006"
+      ],
+      "issue": "hiphil imperative 2ms +3mp rendered without preserving command force or participants",
+      "spanishSpan": "y a ellos a la espada"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

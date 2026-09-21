@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 39:4",
+  "chapter": 39,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo: ¿Qué vieron en tu casa? Y dijo Jizqiyahu: Todo lo que en mi casa vieron; no fue cosa que no les mostré en mis tesoros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23039004006"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Jizqiyahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

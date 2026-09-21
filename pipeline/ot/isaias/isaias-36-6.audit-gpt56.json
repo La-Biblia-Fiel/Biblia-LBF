@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:6",
+  "chapter": 36,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí confiaste sobre muleta del caña el aplastado este, sobre Mizraim, que se apoya varón sobre él, y entra en su palma y la perfora; así Faraón rey de Mizraim a todos los confiantes sobre él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036006009",
+        "h23036006020"
+      ],
+      "issue": "Hebraizes proper name as Mizraim instead of conventional Spanish Egipto",
+      "spanishSpan": "Mizraim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

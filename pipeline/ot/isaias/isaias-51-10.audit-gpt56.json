@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:10",
+  "chapter": 51,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "¿No tú ella, la que secó mar, aguas de abismo grande; la que puso profundidades de mar camino para pasar redimidos?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051010004"
+      ],
+      "issue": "renders hiphil participle active as finite preterite secó instead of preserving participial force",
+      "spanishSpan": "la que secó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051010001",
+        "h23051010002",
+        "h23051010003"
+      ],
+      "issue": "distorts 2fs address + 3fs identification into ungrammatical tú ella",
+      "spanishSpan": "No tú ella"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

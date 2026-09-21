@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 10:27",
+  "chapter": 10,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será en el día aquel: apartará su carga de sobre tu hombro, y su yugo de sobre tu cuello, y será destruido el yugo de faces de aceite.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010027011",
+        "h23010027012",
+        "h23010027013",
+        "h23010027014"
+      ],
+      "issue": "Spanish re-parses מִפְּנֵי שָׁמֶן as genitive modifier of the yoke itself (\"yugo de faces de aceite\"), altering syntax and adding unlicensed concept",
+      "spanishSpan": "el yugo de faces de aceite"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

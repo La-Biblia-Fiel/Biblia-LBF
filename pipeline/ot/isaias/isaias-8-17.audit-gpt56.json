@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 8:17",
+  "chapter": 8,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y esperaré a Jehová, el que oculta sus faces de casa de Yaakov, y aguardaré a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23008017007"
+      ],
+      "issue": "second verb is Vpq1cp (1cp) but Spanish renders as singular 1cs",
+      "spanishSpan": "aguardaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

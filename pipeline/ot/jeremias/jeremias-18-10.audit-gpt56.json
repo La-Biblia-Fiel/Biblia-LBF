@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:10",
+  "chapter": 18,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero si hace el mal a mis ojos para no escuchar mi voz, entonces me arrepiento del bien que había pensado hacerle.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018010001"
+      ],
+      "issue": "adds 'el mal' (evil) with no corresponding lemma or surface in tokens",
+      "spanishSpan": "hace el mal"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

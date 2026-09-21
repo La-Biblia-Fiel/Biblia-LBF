@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 34:8",
+  "chapter": 34,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque día de venganza a Jehová, año de retribuciones por la contienda de Tsiyón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23034008008"
+      ],
+      "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:22",
+  "chapter": 13,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando digas en tu corazón: ¿Por qué me ha llamado el SEÑOR estas cosas? Por la multitud de tus pecados se han descubierto tus calvas y tus pies se han hundido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013022005"
+      ],
+      "issue": "adds 'el SEÑOR' as subject; tokens have 3cp 'they have met/called me'",
+      "spanishSpan": "me ha llamado el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013022010"
+      ],
+      "issue": "renders 'skirts' as 'calvas'",
+      "spanishSpan": "tus calvas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013022011",
+        "h24013022012"
+      ],
+      "issue": "renders 'heels have been violated' as 'feet have sunk'",
+      "spanishSpan": "tus pies se han hundido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

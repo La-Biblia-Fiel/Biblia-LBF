@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:15",
+  "chapter": 18,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque mi pueblo me ha olvidado y ha ofrecido sacrificios vanos; y en sus caminos eternos los ha hecho tropezar, para que anden por sendas que no están preparadas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018015010"
+      ],
+      "issue": "adds explicit purpose clause 'para que' not licensed by infinitive construct",
+      "spanishSpan": "para que anden"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018015005",
+        "h24018015004"
+      ],
+      "issue": "renders 3mp verb + לשוא as singular 'ha ofrecido sacrificios vanos', altering number and adding interpretive noun",
+      "spanishSpan": "ha ofrecido sacrificios vanos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018015006",
+        "h24018015003"
+      ],
+      "issue": "participant reference mismatch: singular 'mi pueblo' subject with 'los ha hecho' creates unclear or shifted object reference vs. 3cp subject + 3mp suffix",
+      "spanishSpan": "los ha hecho tropezar"
+    }
+  ],
+  "notes": "multiple structural and number mismatches",
+  "discardedUncitedFindings": 0
+}

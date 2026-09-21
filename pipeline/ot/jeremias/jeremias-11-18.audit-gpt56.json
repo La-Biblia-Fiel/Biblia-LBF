@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:18",
+  "chapter": 11,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el SEÑOR me ha dado a conocer, y yo lo he sabido; entonces me ha mostrado sus acciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011018005"
+      ],
+      "issue": "verb is 2ms (you have shown me) but Spanish renders as 3rd person (he has shown me), changing participant",
+      "spanishSpan": "me ha mostrado"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

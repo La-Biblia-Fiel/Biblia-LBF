@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:14",
+  "chapter": 7,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y el Señor dijo a Moisés: El corazón de Faraón está endurecido; rehusará dejar salir el pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007014005"
+      ],
+      "issue": "כָּבֵד is adjective ‘heavy’; ‘endurecido’ imports harden force not licensed by this lemma",
+      "spanishSpan": "está endurecido"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007014008"
+      ],
+      "issue": "מֵאֵן is piel perfect (‘has refused’); ‘rehusará’ shifts to future",
+      "spanishSpan": "rehusará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

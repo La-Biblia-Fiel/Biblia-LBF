@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:8",
+  "chapter": 44,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "No teman y no se aterroricen; ¿no desde entonces te hice oír y anuncié, y ustedes mis testigos? ¿Hay Dios de aparte de mí? Y no hay peña; no conocí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044008012"
+      ],
+      "issue": "renders common noun lemma as capitalized proper 'Dios'",
+      "spanishSpan": "Dios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044008014",
+        "h23044008015",
+        "h23044008016",
+        "h23044008017"
+      ],
+      "issue": "breaks single clause 'there is no rock I did not know' into two separate statements with altered syntax",
+      "spanishSpan": "Y no hay peña; no conocí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044008002",
+        "h23044008004"
+      ],
+      "issue": "uses subjunctive forms that shift 2mp jussive address into 3rd-person plural reference",
+      "spanishSpan": "No teman y no se aterroricen"
+    }
+  ],
+  "notes": "multiple token mismatches",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:11",
+  "chapter": 36,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Elyaqim y Shevná y Yoaj a Rav-shaqé: Habla, por favor, a tus siervos arameo, porque oyendo nosotros; y no hables a nosotros yehudit en oídos del pueblo que sobre la muralla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036011002",
+        "h23036011003",
+        "h23036011004",
+        "h23036011006",
+        "h23036011007",
+        "h23036011019"
+      ],
+      "issue": "Hebraized proper names and gentilic language terms instead of conventional Spanish forms",
+      "spanishSpan": "Elyaqim y Shevná y Yoaj ... Rav-shaqé ... yehudit"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036011014",
+        "h23036011015"
+      ],
+      "issue": "omits finite sense of the participle + pronoun and produces ungrammatical fragment",
+      "spanishSpan": "porque oyendo nosotros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 5:29",
+  "chapter": 5,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Rugido a él como el león; como los leoncillos rugirá y asirá presa, y escapará, y no hay quien libre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005029008"
+      ],
+      "issue": "renders hiphil יַפְלִיט as simple 'escapará' (subject escapes) instead of causative 'cause to escape / bring safely'",
+      "spanishSpan": "y escapará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005029001"
+      ],
+      "issue": "opens with noun 'Rugido' presented as if a command or direct address, altering the absolute noun phrase",
+      "spanishSpan": "Rugido a él"
+    }
+  ],
+  "notes": "multiple stem and construction mismatches",
+  "discardedUncitedFindings": 0
+}

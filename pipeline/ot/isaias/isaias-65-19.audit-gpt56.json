@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 65:19",
+  "chapter": 65,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y me alegraré en Yerushaláyim, y me gozaré en mi pueblo; y no se oirá en ella aún voz de llanto y voz de clamor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065019002"
+      ],
+      "issue": "Hebraizes proper name as Yerushaláyim instead of conventional Spanish Jerusalén",
+      "spanishSpan": "Yerushaláyim"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065019008"
+      ],
+      "issue": "renders עוד as aún in negative clause, producing 'not yet' sense instead of 'no longer'",
+      "spanishSpan": "aún"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

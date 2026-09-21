@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:21",
+  "chapter": 30,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y tus oídos oirán palabra detrás de ti, diciendo: Este el camino, anden en él, cuando ustedes se aparten a derecha y cuando se aparten a izquierda.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030021006",
+        "h23030021007"
+      ],
+      "issue": "omits copula required in Spanish to render the clause; produces ungrammatical 'Este el camino'",
+      "spanishSpan": "Este el camino"
+    }
+  ],
+  "notes": "otherwise structure and 2pl address preserved",
+  "discardedUncitedFindings": 0
+}

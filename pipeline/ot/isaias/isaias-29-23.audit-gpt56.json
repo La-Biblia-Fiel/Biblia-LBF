@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 29:23",
+  "chapter": 29,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque en su ver, sus hijos, obra de mis manos, en medio de él, santificarán mi nombre, y santificarán al Santo de Yaakov, y al Dios de Israel temerán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029023012"
+      ],
+      "issue": "Hebraizes proper name as Yaakov",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

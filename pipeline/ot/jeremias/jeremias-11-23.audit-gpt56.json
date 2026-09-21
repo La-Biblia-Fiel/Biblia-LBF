@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:23",
+  "chapter": 11,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Y no quedarán de ellos más que unos pocos, porque traeré sobre los hombres de Anatot un año de castigo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011023001",
+        "h24011023002",
+        "h24011023003",
+        "h24011023004"
+      ],
+      "issue": "adds 'más que unos pocos' (only a few remain) when tokens license absolute 'no remnant will be to them'",
+      "spanishSpan": "no quedarán de ellos más que unos pocos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

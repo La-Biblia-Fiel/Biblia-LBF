@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 65:1",
+  "chapter": 65,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Fui buscado a no preguntaron; fui hallado a no me buscaron; dije: Heme aquí, heme aquí, a nación no llamada en mi nombre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065001001",
+        "h23065001002",
+        "h23065001003"
+      ],
+      "issue": "Spanish structure 'Fui buscado a no preguntaron' does not license the lamed + negative + 3cp verb sequence; adds awkward connection and changes participant sense",
+      "spanishSpan": "Fui buscado a no preguntaron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065001004",
+        "h23065001005",
+        "h23065001006"
+      ],
+      "issue": "Spanish structure 'fui hallado a no me buscaron' does not license the lamed + negative + 3cp+1cs verb sequence",
+      "spanishSpan": "fui hallado a no me buscaron"
+    }
+  ],
+  "notes": "second-person and name rules not triggered",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:17",
+  "chapter": 43,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "el que saca carro y caballo, ejército y fuerte; juntamente yacerán, no se levantarán; se apagaron como pábilo se extinguieron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043017010",
+        "h23043017011",
+        "h23043017012"
+      ],
+      "issue": "reverses verb order and inserts 'como pábilo' between the two verbs instead of after first verb only",
+      "spanishSpan": "se apagaron como pábilo se extinguieron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

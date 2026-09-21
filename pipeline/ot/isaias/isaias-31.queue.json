@@ -1,0 +1,191 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 31,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "passed": [
+    2,
+    6
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¡Ay, los que bajan a Mizraim para ayuda, sobre caballos se apoyan, y confían sobre carro porque mucho, y sobre jinetes porque fuertes mucho, y no miraron sobre el Santo de Israel, y a Jehová no buscaron!",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23031001003"
+          ],
+          "issue": "Hebraizes proper name Mizraim instead of conventional Egipto",
+          "spanishSpan": "Mizraim"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Mizraim hombre y no El, y sus caballos carne y no espíritu; y Jehová inclinará su mano, y tropezará ayudador, y caerá ayudado, y juntos todos ellos se acabarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23031003001"
+          ],
+          "issue": "Hebraizes proper name instead of conventional Spanish form",
+          "spanishSpan": "Mizraim"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así dijo Jehová a mí: Como ruge el león y el leonillo sobre su presa, que se llama sobre él plenitud de pastores, de su voz no se quebranta, y de su tumulto no se abate, así bajará Jehová de ejércitos para pelear sobre monte de Tsiyón y sobre su collado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23031004030"
+          ],
+          "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Como aves volantes, así defenderá Jehová de ejércitos sobre Yerushaláyim; defendiendo librará, pasando salvará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23031005008"
+          ],
+          "issue": "Hebraized proper name Yerushaláyim instead of conventional Spanish Jerusalén",
+          "spanishSpan": "Yerushaláyim"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque en el día aquel rechazarán varón ídolos de su plata e ídolos de su oro, que hicieron a ustedes sus manos de ustedes, pecado.",
+      "notes": "Spanish fails to preserve token structure and number/person",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23031007004",
+            "h23031007005"
+          ],
+          "issue": "mishandles 3mp verb + אִישׁ distributive subject, producing ungrammatical singular 'varón' + 'su' after plural 'rechazarán'",
+          "spanishSpan": "rechazarán varón ídolos de su plata e ídolos de su oro"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23031007012",
+            "h23031007013"
+          ],
+          "issue": "distorts participant reference and word order; 'sus manos de ustedes' after 'a ustedes' misplaces the 2mp suffix and dual construct",
+          "spanishSpan": "hicieron a ustedes sus manos de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y caerá Ashur en espada no de varón, y espada no de hombre lo comerá; y huirá a él de faces de espada, y sus mozos a trabajo forzado serán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23031008011",
+            "h23031008012"
+          ],
+          "issue": "misrenders לוֹ + מִפְּנֵי as 'huirá a él de faces', altering the dative/reflexive sense and participant reference",
+          "spanishSpan": "huirá a él de faces de espada"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y su peñasco de terror pasará, y se quebrantarán de enseña sus príncipes, dicho de Jehová, que tiene fuego a él en Tsiyón, y horno a él en Yerushaláyim.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23031009012",
+            "h23031009015"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Tsiyón, Yerushaláyim"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T19:03:32.877125+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 9,
+    "verses": 9,
+    "input": 22600,
+    "cachedInput": 5952,
+    "output": 762,
+    "reasoning": 9688,
+    "usd": 0.099,
+    "byProvider": {
+      "xai": {
+        "calls": 9,
+        "input": 22600,
+        "output": 762,
+        "reasoning": 9688,
+        "usd": 0.099
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 9,
+        "input": 22600,
+        "output": 762,
+        "reasoning": 9688,
+        "usd": 0.099
+      }
+    },
+    "usdPerVerse": 0.011,
+    "bibleAtThisRate": 342.0,
+    "book": "isaias",
+    "chapter": 31
+  }
+}

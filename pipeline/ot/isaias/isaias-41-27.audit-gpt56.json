@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:27",
+  "chapter": 41,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Primero a Tsiyón: He aquí, he aquí ellos; y a Yerushaláyim anunciador daré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041027002",
+        "h23041027005"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Tsiyón ... Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

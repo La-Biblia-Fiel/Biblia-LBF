@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 49:20",
+  "chapter": 49,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Aún dirán en tus oídos hijos de tus orfandades: Estrecho a mí el lugar; apártate a mí, y habitaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23049020009"
+      ],
+      "issue": "גְּשָׁה (draw near / approach) rendered as apártate (withdraw / move away)",
+      "spanishSpan": "apártate a mí"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 18:3",
+  "chapter": 18,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Todo morador de mundo y habitantes de tierra: como alzar enseña montes verán ustedes, y como tocar shofar oirán ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23018003002"
+      ],
+      "issue": "singular 'morador' instead of plural participle",
+      "spanishSpan": "Todo morador"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23018003006",
+        "h23018003007",
+        "h23018003008"
+      ],
+      "issue": "infinitive clause restructured so that 'alzar enseña montes' does not preserve the 'when banner is lifted on mountains' construction",
+      "spanishSpan": "como alzar enseña montes"
+    }
+  ],
+  "notes": "plural mismatch and altered syntax on the two k- infinitive clauses",
+  "discardedUncitedFindings": 0
+}

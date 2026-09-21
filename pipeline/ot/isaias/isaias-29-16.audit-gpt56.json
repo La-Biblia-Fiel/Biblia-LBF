@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 29:16",
+  "chapter": 29,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Su trastornamiento de ustedes: ¿si como barro el alfarero será estimado? Porque dirá obra a su hacedor: No me hizo; y formación dijo a su formador: No entendió.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029016012",
+        "h23029016013",
+        "h23029016014",
+        "h23029016015",
+        "h23029016016"
+      ],
+      "issue": "Spanish quote shifts participant: 'No entendió' makes it third-person report instead of direct address to the former ('you did not understand')",
+      "spanishSpan": "y formación dijo a su formador: No entendió"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029016008",
+        "h23029016009",
+        "h23029016010",
+        "h23029016011"
+      ],
+      "issue": "word order and verb person: 'dirá obra' inverts subject-verb and uses future instead of preserving the imperfect as direct speech",
+      "spanishSpan": "Porque dirá obra a su hacedor: No me hizo"
+    }
+  ],
+  "notes": "multiple participant and speech shifts in final clause",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 10:15",
+  "chapter": 10,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Se gloriará el hacha sobre el que corta con ella? ¿Si se engrandecerá la sierra sobre el que la mueve? Como mover vara y a sus alzadores, como alzar bastón no madera.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010015006",
+        "h23010015007",
+        "h23010015008",
+        "h23010015009",
+        "h23010015010"
+      ],
+      "issue": "second clause rendered as incomplete '¿Si' question instead of 'or if' continuation of hithpael on saw",
+      "spanishSpan": "¿Si se engrandecerá la sierra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010015011",
+        "h23010015012",
+        "h23010015013",
+        "h23010015014"
+      ],
+      "issue": "infinitive construct + rod + lifters reversed and paraphrased as 'mover vara y a sus alzadores'",
+      "spanishSpan": "Como mover vara y a sus alzadores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010015015",
+        "h23010015016",
+        "h23010015017",
+        "h23010015018"
+      ],
+      "issue": "second comparison distorted; adds 'alzar' verb and fails to keep 'as lifting staff not-wood' structure",
+      "spanishSpan": "como alzar bastón no madera"
+    }
+  ],
+  "notes": "first clause marginally licensed but later clauses change participants and structure",
+  "discardedUncitedFindings": 0
+}

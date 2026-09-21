@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:8",
+  "chapter": 12,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Mi heredad se ha vuelto para mí como un león en el bosque; ha rugido sobre mí; por eso la odio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012008006",
+        "h24012008008"
+      ],
+      "issue": "interprets נָתְנָה בְּקוֹלָהּ as 'ha rugido' (roared); tokens only license 'gave her voice'",
+      "spanishSpan": "ha rugido sobre mí"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

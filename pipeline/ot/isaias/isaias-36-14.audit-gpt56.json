@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:14",
+  "chapter": 36,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dijo el rey: No engañe a ustedes Jizqiyahu, porque no podrá para librar a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036014005",
+        "h23036014006",
+        "h23036014007"
+      ],
+      "issue": "word order places proper name after object, reversing participant roles so that Jizqiyahu appears to be the one addressed rather than the subject who must not deceive",
+      "spanishSpan": "No engañe a ustedes Jizqiyahu"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036014011"
+      ],
+      "issue": "inserts unlicensed preposition 'para' before the infinitive",
+      "spanishSpan": "podrá para librar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 6:4",
+  "chapter": 6,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y se estremecieron umbrales de los dinteles de voz del que clama, y la casa se llenó de humo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23006004002",
+        "h23006004003"
+      ],
+      "issue": "replaces אַמּוֹת הַסִּפִּים construct with unrelated 'umbrales de los dinteles'",
+      "spanishSpan": "umbrales de los dinteles"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23006004004"
+      ],
+      "issue": "renders מִקּוֹל as 'de voz' instead of licensed 'from the voice'",
+      "spanishSpan": "de voz"
+    }
+  ],
+  "notes": "nouns and preposition both mismatch tokens",
+  "discardedUncitedFindings": 0
+}

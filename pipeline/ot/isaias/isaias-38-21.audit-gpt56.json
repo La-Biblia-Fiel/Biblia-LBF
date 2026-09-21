@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:21",
+  "chapter": 38,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo Yeshayahu: Alcen torta de higos, y unten sobre la úlcera, y vivirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038021003",
+        "h23038021006"
+      ],
+      "issue": "renders 3mp qal imperfect verbs as 2pl imperative commands, shifting participants from 'they' to 'you (ustedes)'",
+      "spanishSpan": "Alcen ... unten"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038021002"
+      ],
+      "issue": "uses Hebraized form Yeshayahu instead of conventional Spanish Isaías for the proper name",
+      "spanishSpan": "Yeshayahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

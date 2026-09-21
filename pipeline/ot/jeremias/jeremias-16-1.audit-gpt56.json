@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:1",
+  "chapter": 16,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vino la palabra del SEÑOR a mí, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016001001"
+      ],
+      "issue": "adds concept 'vino' (came) not licensed by lemma היה / morph Vqw3ms",
+      "spanishSpan": "vino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016001003"
+      ],
+      "issue": "renders יהוה as SEÑOR instead of licensed Jehová",
+      "spanishSpan": "SEÑOR"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

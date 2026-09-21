@@ -1,0 +1,276 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 45,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "passed": [
+    1,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    23,
+    24
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Yo delante de ti iré, y las hinchadas enderezararé; puertas de bronce quebraré, y cerrojos de hierro cortaré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045002004"
+          ],
+          "issue": "adds verb 'enderezararé' with no source token; noun הֲדוּרִים receives no action in packet",
+          "spanishSpan": "las hinchadas enderezararé"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045002004"
+          ],
+          "issue": "renders Ncmpa as feminine plural 'hinchadas'",
+          "spanishSpan": "las hinchadas"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por amor de mi siervo Yaakov, y de Israel mi escogido, y te llamé en tu nombre; te sobrenombré, y no me conociste.",
+      "notes": "tense smoothing on qal seq. impf / piel impf acceptable but does not override the two fails",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045004001"
+          ],
+          "issue": "Por amor de adds 'amor' concept not licensed by לְמַעַן / H4616",
+          "spanishSpan": "Por amor de"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045004003"
+          ],
+          "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob/Jacobo",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dijo Jehová: Trabajo de Mizraim y mercancía de Kush y de los sebaím, varones de medida, sobre ti pasarán, y tuyos serán; atrás de ti irán, en cadenas pasarán, y a ti se postrarán, a ti orarán: Solo en ti Dios, y no hay más; no hay dioses.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045014005",
+            "h23045014007",
+            "h23045014008"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms (Mizraim/Kush/sebaím)",
+          "spanishSpan": "Mizraim y mercancía de Kush y de los sebaím"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No en oculto hablé, en lugar de tierra de tiniebla; no dije a simiente de Yaakov: Vacío me busquen; yo Jehová, hablante justicia, anunciador de derechuras.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045019004",
+            "h23045019005",
+            "h23045019006"
+          ],
+          "issue": "בִּמְקוֹם אֶרֶץ חֹשֶׁךְ rendered as 'en lugar de tierra de tiniebla' which misparses the locative construct as 'instead of'",
+          "spanishSpan": "en lugar de tierra de tiniebla"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045019010"
+          ],
+          "issue": "proper name יַעֲקֹב Hebraized as Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Reúnanse y vengan, acérquense a una, fugitivos de las naciones; no conocieron los que llevan el leño de su escultura, y oran a dios que no salva.",
+      "notes": "2mp imperatives correctly use ustedes forms; remaining renderings stay within token bounds",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045020004"
+          ],
+          "issue": "adds 'a una' with no token support; יחדו only licenses 'juntos' or equivalent adverb",
+          "spanishSpan": "acérquense a una"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Anuncien y acerquen; aun tomen consejo a una: ¿Quién hizo oír esto desde antiguo? Desde entonces la anunció. ¿No yo Jehová, y no hay más Dios fuera de mí; Dios justo y Salvador; no hay fuera de mí?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045021004",
+            "h23045021005"
+          ],
+          "issue": "renders 3mp niphal imperfect as 2pl imperative, changing person and mood",
+          "spanishSpan": "tomen consejo a una"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Vuélvanse a mí y sean salvados, todos extremos de tierra, porque yo Dios, y no hay más.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045022008",
+            "h23045022009"
+          ],
+          "issue": "Spanish 'yo Dios' omits the copula required to render the clause 'I [am] El'",
+          "spanishSpan": "yo Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045022004",
+            "h23045022005",
+            "h23045022006"
+          ],
+          "issue": "Spanish 'todos extremos de tierra' drops required definite article and proper construct rendering of 'all ends of the earth'",
+          "spanishSpan": "todos extremos de tierra"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En Jehová serán justificados y se gloriarán toda simiente de Israel.",
+      "notes": "collective plural force of זֶרַע + verbs not preserved",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045025002"
+          ],
+          "issue": "Qal imperfect rendered as passive 'serán justificados' (adds passive voice absent from HVqi3mp)",
+          "spanishSpan": "serán justificados"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23045025002",
+            "h23045025003"
+          ],
+          "issue": "plural 3mp verbs paired with singular subject 'toda simiente' (changes number/participant agreement licensed by construct + 3mp)",
+          "spanishSpan": "toda simiente de Israel"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T20:50:53.068256+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 25,
+    "verses": 25,
+    "input": 56867,
+    "cachedInput": 18176,
+    "output": 1503,
+    "reasoning": 20969,
+    "usd": 0.2213,
+    "byProvider": {
+      "xai": {
+        "calls": 25,
+        "input": 56867,
+        "output": 1503,
+        "reasoning": 20969,
+        "usd": 0.2213
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 25,
+        "input": 56867,
+        "output": 1503,
+        "reasoning": 20969,
+        "usd": 0.2213
+      }
+    },
+    "usdPerVerse": 0.0089,
+    "bibleAtThisRate": 275.0,
+    "book": "isaias",
+    "chapter": 45
+  }
+}

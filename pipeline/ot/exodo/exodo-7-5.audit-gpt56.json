@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 7:5",
+  "chapter": 7,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y conocerán Egipto que yo, YHWH, al extender mi mano sobre Egipto, y sacaré a los hijos de Israel de entre ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007005001",
+        "h02007005002"
+      ],
+      "issue": "Spanish parses verb as 3cp with implicit subject 'they' and makes מצרים the object of conocer; Hebrew is verb-subject 'Egypt will know'",
+      "spanishSpan": "Y conocerán Egipto"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

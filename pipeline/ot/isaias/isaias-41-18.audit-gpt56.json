@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:18",
+  "chapter": 41,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Abriré sobre peñascos ríos, y en medio de valles fuentes; pondré desierto a estanque de aguas, y tierra seca a salidas de aguas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041018003"
+      ],
+      "issue": "peñascos adds rocky concept not licensed by lemma 8205 or surface",
+      "spanishSpan": "peñascos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

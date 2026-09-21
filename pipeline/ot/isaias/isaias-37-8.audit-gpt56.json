@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:8",
+  "chapter": 37,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y volvió Rav-shaqé, y halló a rey de Ashur combatiendo sobre Livná, porque oyó que partió de Lajish.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037008007",
+        "h23037008010",
+        "h23037008015"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Ashur ... Livná ... Lajish"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037008006"
+      ],
+      "issue": "omits required definite article before construct noun",
+      "spanishSpan": "a rey de Ashur"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

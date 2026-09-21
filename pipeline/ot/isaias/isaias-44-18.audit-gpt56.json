@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:18",
+  "chapter": 44,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "No conocieron y no entendieron, porque embadurnó de ver sus ojos, de entender sus corazones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044018006",
+        "h23044018007",
+        "h23044018008"
+      ],
+      "issue": "misplaced prepositional phrase; Spanish attaches 'de ver' to the verb instead of attaching the eyes as object of the smearing",
+      "spanishSpan": "embadurnó de ver sus ojos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044018009",
+        "h23044018010"
+      ],
+      "issue": "parallel construction error; Spanish 'de entender sus corazones' does not license the Hebrew attachment of hearts as object of the infinitive",
+      "spanishSpan": "de entender sus corazones"
+    }
+  ],
+  "notes": "word order and attachment of dual eyes and plural hearts to the infinitive constructs not preserved",
+  "discardedUncitedFindings": 0
+}

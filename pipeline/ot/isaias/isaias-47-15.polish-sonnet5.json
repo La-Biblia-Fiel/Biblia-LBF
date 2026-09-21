@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "isaias",
+  "reference": "Isaías 47:15",
+  "chapter": 47,
+  "verse": 15,
+  "sourceDraft": "Así fueron a ti aquellos en que te fatigaste; tus mercaderes desde tu juventud; cada uno a su lado erraron; no hay tu salvador.",
+  "spanish": "Así fueron a ti aquellos en que te fatigaste, tus mercaderes desde tu juventud; erraron cada uno a su lado; no hay tu salvador.",
+  "units": [
+    {
+      "es": "Así fueron a ti",
+      "sourceTokenIds": [
+        "h23047015001",
+        "h23047015002",
+        "h23047015003"
+      ]
+    },
+    {
+      "es": "aquellos en que te fatigaste",
+      "sourceTokenIds": [
+        "h23047015004",
+        "h23047015005"
+      ]
+    },
+    {
+      "es": "tus mercaderes desde tu juventud",
+      "sourceTokenIds": [
+        "h23047015006",
+        "h23047015007"
+      ]
+    },
+    {
+      "es": "erraron cada uno a su lado",
+      "sourceTokenIds": [
+        "h23047015008",
+        "h23047015009",
+        "h23047015010"
+      ]
+    },
+    {
+      "es": "no hay tu salvador",
+      "sourceTokenIds": [
+        "h23047015011",
+        "h23047015012"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Changed semicolon to comma between 'te fatigaste' and 'tus mercaderes' to reflect apposition already present in the draft (same referent), improving Spanish sentence flow without altering participants.",
+    "Reordered 'cada uno a su lado erraron' to 'erraron cada uno a su lado' to correct verb placement for smoother Spanish syntax while preserving the plural verb form and distributive sense."
+  ],
+  "meaningChanges": [],
+  "droppedUncitedUnits": 0
+}

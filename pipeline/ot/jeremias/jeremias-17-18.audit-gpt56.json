@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:18",
+  "chapter": 17,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Se avergonzarán los que me persiguen, y yo no me avergonzaré; ellos serán confundidos, y yo no me confundiré; haga venir sobre ellos el día de la maldad, y multiplique su caída.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017018001",
+        "h24017018004",
+        "h24017018006",
+        "h24017018009"
+      ],
+      "issue": "jussive/cohortative rendered as future indicative instead of optative",
+      "spanishSpan": "Se avergonzarán ... no me avergonzaré; ellos serán confundidos ... no me confundiré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017018015",
+        "h24017018016",
+        "h24017018017"
+      ],
+      "issue": "replaces imperative 'double breaking, break them' with 'multiplique su caída'",
+      "spanishSpan": "y multiplique su caída"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

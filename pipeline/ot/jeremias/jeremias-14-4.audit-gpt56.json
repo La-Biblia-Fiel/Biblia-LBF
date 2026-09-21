@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:4",
+  "chapter": 14,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Por la tierra se ha secado, porque no ha llovido en la tierra; los labradores se avergüenzan y se cubren la cabeza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014004003"
+      ],
+      "issue": "adds 'se ha secado' concept not licensed by lemma 2865 / חתה (dismayed/shattered)",
+      "spanishSpan": "se ha secado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014004001"
+      ],
+      "issue": "renders בַּעֲב֤וּר as 'Por la tierra' omitting explicit 'cause/reason' sense",
+      "spanishSpan": "Por la tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

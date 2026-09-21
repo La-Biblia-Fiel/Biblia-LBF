@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:20",
+  "chapter": 7,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Moisés y Aarón hicieron como Jehová les había ordenado. Moisés levantó su bastón y golpeó el agua que había en el Nilo, ante los ojos de Faraón y de sus servidores, y todo el agua del Nilo se convirtió en sangre.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007020008",
+        "h02007020009"
+      ],
+      "issue": "3ms subject of וַיָּרֶם is unmarked after Moses and Aaron; naming ‘Moisés’ chooses a participant the morphology leaves open",
+      "spanishSpan": "Moisés levantó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007020009"
+      ],
+      "issue": "בַּמַּטֶּה is ‘with the staff’ (article); ‘su bastón’ adds possessive",
+      "spanishSpan": "su bastón"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

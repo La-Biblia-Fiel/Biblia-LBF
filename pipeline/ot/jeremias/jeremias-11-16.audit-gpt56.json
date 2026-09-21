@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:16",
+  "chapter": 11,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Olivo frondoso y hermoso de fruto, así te ha llamado el SEÑOR; pero por el ruido grande ha encendido fuego sobre ti, y tus ramas se consumirán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011016015",
+        "h24011016016"
+      ],
+      "issue": "changes 3ms suffix on דליותיו to 2fs address and renders רעע as 'consumirán'",
+      "spanishSpan": "tus ramas se consumirán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 27:6",
+  "chapter": 27,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Los venideros echará raíz Yaakov, florecerá y brotará Israel, y llenarán faces de mundo fruto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23027006003"
+      ],
+      "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23027006001",
+        "h23027006002"
+      ],
+      "issue": "misparses participle + hiphil subject structure, producing ungrammatical plural subject with singular verb",
+      "spanishSpan": "Los venideros echará raíz Yaakov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23027006008",
+        "h23027006009",
+        "h23027006010"
+      ],
+      "issue": "literal 'faces', wrong word order and missing construct rendering for 'fill the face of the world with fruit'",
+      "spanishSpan": "llenarán faces de mundo fruto"
+    }
+  ],
+  "notes": "multiple agreement and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

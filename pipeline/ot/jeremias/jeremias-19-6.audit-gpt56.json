@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:6",
+  "chapter": 19,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto, he aquí que días vienen, dice el Señor, en que este lugar no se llamará más Tophet ni Valle de Hinnom, sino Valle de Slaughter.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019006005",
+        "h24019006006"
+      ],
+      "issue": "נְאֻם יְהוָה rendered as 'dice el Señor' instead of licensed form with Jehová",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019006013",
+        "h24019006014",
+        "h24019006015"
+      ],
+      "issue": "וְגֵיא בֶן הִנֹּם rendered without 'Ben'/'hijo de' and with 'ni' for the conjunction",
+      "spanishSpan": "ni Valle de Hinnom"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019006018",
+        "h24019006019"
+      ],
+      "issue": "גֵּיא הַהֲרֵגָה rendered with English 'Slaughter' instead of Spanish equivalent",
+      "spanishSpan": "Valle de Slaughter"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

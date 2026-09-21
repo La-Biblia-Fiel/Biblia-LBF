@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:16",
+  "chapter": 38,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Adonai, sobre ellos vivirán, y a todo en ellas vida de mi espíritu; y me sanarás y me harás vivir.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038016009"
+      ],
+      "issue": "changes hiphil imperative 2ms to future indicative",
+      "spanishSpan": "me harás vivir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038016006"
+      ],
+      "issue": "renders plural construct as singular",
+      "spanishSpan": "vida"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

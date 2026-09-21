@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:1",
+  "chapter": 36,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fue en catorce año al rey Jizqiyahu, subió Sanjerib rey de Ashur sobre todas ciudades de Yehudá las fortificadas, y las asió.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036001006"
+      ],
+      "issue": "Hebraized proper name Jizqiyahu instead of conventional Spanish form",
+      "spanishSpan": "Jizqiyahu"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036001010"
+      ],
+      "issue": "Hebraized proper name Ashur instead of conventional Spanish form",
+      "spanishSpan": "Ashur"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036001014"
+      ],
+      "issue": "Hebraized proper name Yehudá instead of conventional Spanish form Judá",
+      "spanishSpan": "Yehudá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036001002",
+        "h23036001003",
+        "h23036001004",
+        "h23036001005"
+      ],
+      "issue": "Awkward phrasing 'en catorce año al rey' fails to render the year-of-king construct accurately",
+      "spanishSpan": "en catorce año al rey Jizqiyahu"
+    }
+  ],
+  "notes": "Multiple proper-name and phrasing mismatches",
+  "discardedUncitedFindings": 0
+}

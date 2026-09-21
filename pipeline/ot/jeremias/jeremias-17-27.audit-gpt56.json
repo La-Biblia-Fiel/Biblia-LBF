@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:27",
+  "chapter": 17,
+  "verse": 27,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero si no escuchan a mí para santificar el día de reposo, no trayendo mercancías y no entrando por las puertas de Jerusalén en el día de reposo, entonces pondré fuego en las puertas de esta ciudad, y el fuego consumirá las casas de Jerusalén, y no se apagará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017027021"
+      ],
+      "issue": "arəmənôt (palaces/citadels) rendered as casas (houses)",
+      "spanishSpan": "las casas de Jerusalén"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017027011"
+      ],
+      "issue": "maśśāʾ (burden/load) rendered as mercancías (merchandise/goods)",
+      "spanishSpan": "mercancías"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

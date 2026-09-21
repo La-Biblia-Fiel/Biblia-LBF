@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 50:7",
+  "chapter": 50,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Adonai Jehová ayuda a mí; por tanto no fui confundido; por tanto puse mi rostro como pedernal, y supe que no seré avergonzado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23050007001"
+      ],
+      "issue": "omits 1cs possessive suffix on אדני (my Lord)",
+      "spanishSpan": "Adonai Jehová"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23050007008"
+      ],
+      "issue": "כָּלַם (shame/humiliate) rendered as 'confundido' (confused)",
+      "spanishSpan": "no fui confundido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

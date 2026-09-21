@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:11",
+  "chapter": 14,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el SEÑOR me dijo: No ores por este pueblo para su bien.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014011002"
+      ],
+      "issue": "replaces proper name token with title SEÑOR not licensed by the lemma or PROPER_NAMES instruction",
+      "spanishSpan": "el SEÑOR"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h24014011009"
+      ],
+      "issue": "adds possessive 'su' not present in the absolute adjective token",
+      "spanishSpan": "su bien"
+    }
+  ],
+  "notes": "name substitution is decisive fail",
+  "discardedUncitedFindings": 0
+}

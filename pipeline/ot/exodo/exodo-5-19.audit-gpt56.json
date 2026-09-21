@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 5:19",
+  "chapter": 5,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y los oficiales de los hijos de Israel se vieron en mal, al decir: «No reducirán de sus ladrillos el asunto de cada día en su día».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02005019009",
+        "h02005019010"
+      ],
+      "issue": "2mp verb and 2mp suffix rendered as 3pl",
+      "spanishSpan": "No reducirán de sus ladrillos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02005019005"
+      ],
+      "issue": "direct object אֹתָם omitted; reflexive se vieron substituted",
+      "spanishSpan": "se vieron en mal"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

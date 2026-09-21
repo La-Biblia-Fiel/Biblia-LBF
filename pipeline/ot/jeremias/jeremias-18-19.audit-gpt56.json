@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:19",
+  "chapter": 18,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Oye, Señor, y escucha el clamor de tu siervo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018019002"
+      ],
+      "issue": "יהוה rendered as Señor instead of Jehová",
+      "spanishSpan": "Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018019003"
+      ],
+      "issue": "omits the 1cs suffix prepositional phrase 'to me'",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018019005",
+        "h24018019006"
+      ],
+      "issue": "replaces 'voice of my adversaries' with unlicensed 'clamor de tu siervo'",
+      "spanishSpan": "el clamor de tu siervo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

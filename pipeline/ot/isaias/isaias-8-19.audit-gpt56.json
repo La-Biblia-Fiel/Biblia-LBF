@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 8:19",
+  "chapter": 8,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y cuando digan a ustedes: Busquen a los padres y a los conocedores, los que chillan y los que murmuran: ¿Acaso no pueblo a su Dios buscará? ¿Por los vivos a los muertos?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23008019006"
+      ],
+      "issue": "lemma d/178 rendered as 'padres' (adds wrong concept; token is אֹבוֹת = spirit/medium, not fathers)",
+      "spanishSpan": "los padres"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

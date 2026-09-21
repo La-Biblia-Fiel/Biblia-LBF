@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 47:13",
+  "chapter": 47,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Te cansaste en muchedumbre de tus consejos; levántense ahora y te salven los repartidores de cielos, los que miran en las estrellas, los que hacen saber por las lunas nuevas, de lo que vendrá sobre ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23047013007"
+      ],
+      "issue": "adds 'repartidores' (dividers/distributors) with no corresponding lemma or surface in the tokens",
+      "spanishSpan": "los repartidores de cielos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

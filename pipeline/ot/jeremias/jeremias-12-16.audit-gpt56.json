@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:16",
+  "chapter": 12,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y si aprenden a andar en los caminos de mi pueblo, a jurar por mi nombre, vivirá Jehová, como han aprendido a jurar por el Baal, y edificarán en medio de mi pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012016006",
+        "h24012016007"
+      ],
+      "issue": "adds 'andar en' not licensed by 'ways of my people'",
+      "spanishSpan": "a andar en los caminos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012016013"
+      ],
+      "issue": "piel 'they taught' rendered as 'han aprendido' (they learned)",
+      "spanishSpan": "como han aprendido"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012016018"
+      ],
+      "issue": "niphal passive 'be built/established' rendered active 'edificarán'",
+      "spanishSpan": "y edificarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

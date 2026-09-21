@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 66:17",
+  "chapter": 66,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Los que se santifican y los que se limpian a los huertos, detrás de uno en medio, comedores de carne del cerdo y de la abominación y del ratón; a una se acabarán, dicho de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23066017005",
+        "h23066017006"
+      ],
+      "issue": "adds 'uno' and interpretive phrasing not licensed by אַחַר בַּתָּוֶךְ",
+      "spanishSpan": "detrás de uno en medio"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

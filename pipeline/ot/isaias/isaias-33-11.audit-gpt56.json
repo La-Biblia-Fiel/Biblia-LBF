@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 33:11",
+  "chapter": 33,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Concebirán ustedes paja, darán a luz rastrojo; su espíritu de ustedes fuego los comerá a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033011007"
+      ],
+      "issue": "verb suffix is 2mp object ('you'); Spanish uses 3mp object pronoun 'los' while addressing 'ustedes'",
+      "spanishSpan": "fuego los comerá a ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

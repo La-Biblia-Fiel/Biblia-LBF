@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:4",
+  "chapter": 7,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y Faraón no os escuchará, y pondré mi mano sobre Egipto, y sacaré mis tropas, mi pueblo, los hijos de Israel, de la tierra de Egipto con grandes juicios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007004003"
+      ],
+      "issue": "2mp אֲלֵכֶם requires Latin American ustedes (les / a ustedes); vosotros ‘os’ is the wrong variety",
+      "spanishSpan": "os"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

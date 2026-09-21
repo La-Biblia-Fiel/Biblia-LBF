@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 15:9",
+  "chapter": 15,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque aguas de Dimón se llenaron de sangre; porque pondré sobre Dimón añadiduras: a escape de Moav león, y a resto de suelo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23015009011",
+        "h23015009013",
+        "h23015009014",
+        "h23015009015"
+      ],
+      "issue": "Spanish mangles the two parallel prepositional phrases; 'a escape de Moav león, y a resto de suelo' neither preserves the structure nor the participants (lion for fugitives; additions for remnant of ground)",
+      "spanishSpan": "a escape de Moav león, y a resto de suelo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23015009010"
+      ],
+      "issue": "nuanced Niphal participle 'additions' is rendered but the following colon structure fails to attach the two objects correctly",
+      "spanishSpan": "añadiduras:"
+    }
+  ],
+  "notes": "first clause acceptable; second clause distorts syntax and referents",
+  "discardedUncitedFindings": 0
+}

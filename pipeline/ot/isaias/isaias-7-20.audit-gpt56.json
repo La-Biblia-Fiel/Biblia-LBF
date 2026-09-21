@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:20",
+  "chapter": 7,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "En el día aquel rapará Adonai con navaja la alquilada en traspasados de Río, con rey de Ashur, la cabeza y pelo de los pies; y también la barba consumirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007020007",
+        "h23007020008"
+      ],
+      "issue": "adds unlicensed concept 'traspasados'",
+      "spanishSpan": "en traspasados de Río"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007020015",
+        "h23007020016",
+        "h23007020017",
+        "h23007020018"
+      ],
+      "issue": "word order makes beard the subject of consumirá, reversing participants licensed by 3fs verb on razor",
+      "spanishSpan": "y también la barba consumirá"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

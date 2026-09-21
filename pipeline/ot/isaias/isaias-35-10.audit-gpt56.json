@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 35:10",
+  "chapter": 35,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Y rescatados de Jehová volverán, y vendrán a Tsiyón con cántico, y alegría de siempre sobre su cabeza; gozo y alegría alcanzarán, y huirán congoja y gemido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23035010005"
+      ],
+      "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "cántico also slightly mismatches רִנָּה but name alone triggers fail",
+  "discardedUncitedFindings": 0
+}

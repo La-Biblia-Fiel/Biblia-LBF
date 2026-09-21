@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 14:9",
+  "chapter": 14,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Sheol desde abajo se estremeció por ti, al encuentro de tu venir; despertó a ti refaím, todos cabrios de tierra; levantó de sus tronos a todos reyes de naciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014009007",
+        "h23014009008",
+        "h23014009009"
+      ],
+      "issue": "misparses עוֹרֵר לְךָ רְפָאִים as 'despertó a ti refaím' (waking the addressee) instead of arousing the Rephaim to/for you",
+      "spanishSpan": "despertó a ti refaím"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014009011"
+      ],
+      "issue": "renders עַתּוּדֵי as specialized 'cabrios' (young goats) resolving lexical openness of lemma 6260",
+      "spanishSpan": "todos cabrios de tierra"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

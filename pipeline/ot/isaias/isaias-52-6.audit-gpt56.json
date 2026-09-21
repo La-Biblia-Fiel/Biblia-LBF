@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 52:6",
+  "chapter": 52,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Por tanto conocerá mi pueblo mi nombre; por tanto en el día aquel, porque yo él, el que habla: Heme aquí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23052006009",
+        "h23052006010",
+        "h23052006011"
+      ],
+      "issue": "renders אֲנִי הוּא הַמְדַבֵּר as incomplete 'yo él, el que habla' omitting licensed identity concept",
+      "spanishSpan": "porque yo él, el que habla"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

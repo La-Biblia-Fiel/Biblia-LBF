@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 12:5",
+  "chapter": 12,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Canten a Jehová, porque majestad hizo; esto en toda la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23012005004",
+        "h23012005005"
+      ],
+      "issue": "Spanish word order makes גֵאוּת the subject of עָשָׂה instead of the object",
+      "spanishSpan": "majestad hizo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

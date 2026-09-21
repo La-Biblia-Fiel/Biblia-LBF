@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:20",
+  "chapter": 3,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y enviaré mi mano y heriré a Egipto con todas mis maravillas que haré en medio de él; y después de eso los enviará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003020014",
+        "h02003020015"
+      ],
+      "issue": "changes 2mp object אתכם to 3mp los; 2pl addressees become third party",
+      "spanishSpan": "los enviará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

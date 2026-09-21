@@ -1,0 +1,248 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 59,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "passed": [
+    1,
+    3,
+    4,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    21
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sino que sus iniquidades de ustedes fueron separadoras entre ustedes y entre su Dios de ustedes, y sus pecados de ustedes ocultaron faces de ustedes de oír.",
+      "notes": "כִּי אִם rendered 'Sino que' is interpretive but secondary to the faces error",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059002011",
+            "h23059002012",
+            "h23059002009",
+            "h23059002010"
+          ],
+          "issue": "Spanish 'ocultaron faces de ustedes' wrongly attributes פָנִים to the 2mp addressees instead of keeping פָנִים absolute and מִכֶּם as 'from you'",
+          "spanishSpan": "ocultaron faces de ustedes de oír"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059002003",
+            "h23059002008"
+          ],
+          "issue": "over-redundant possessive phrasing 'sus iniquidades de ustedes' / 'su Dios de ustedes' exceeds the construct + 2mp suffix structure",
+          "spanishSpan": "sus iniquidades de ustedes ... su Dios de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Huevos de áspid rompieron, y telas de araña tejen; el que come de sus huevos morirá, y lo incubado romperá víbora.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059005010",
+            "h23059005011",
+            "h23059005012"
+          ],
+          "issue": "Spanish resolves participle + verb + noun into 'lo incubado romperá víbora', adding 'incubado' and altering participant/structure not licensed by tokens",
+          "spanishSpan": "y lo incubado romperá víbora"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sus telas no serán a vestido, y no se cubrirán con sus obras; sus obras obras de iniquidad, y obra de violencia en sus palmas.",
+      "notes": "multiple token mismatches in first and final clauses",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059006001"
+          ],
+          "issue": "telas adds general fabric concept not licensed by lemma H6980 (web/thread)",
+          "spanishSpan": "Sus telas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059006008",
+            "h23059006009",
+            "h23059006010"
+          ],
+          "issue": "repetition and clause structure altered; missing licensed concept of the works being [are] works of iniquity",
+          "spanishSpan": "sus obras obras de iniquidad"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Sus pies al mal corren, y se apresuran a derramar sangre inocente; sus pensamientos pensamientos de iniquidad; destrucción y quebranto en sus calzadas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059007008",
+            "h23059007009",
+            "h23059007010"
+          ],
+          "issue": "duplicated noun creates ungrammatical repetition not licensed by the two construct instances of 4284",
+          "spanishSpan": "pensamientos pensamientos"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Camino de paz no conocieron, y no hay juicio en sus roderas; sus sendas torcieron a ellos; todo el que anda en ella no conoció paz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059008008",
+            "h23059008009",
+            "h23059008010"
+          ],
+          "issue": "participant/syntax shift: Spanish makes 'sendas' the subject of 'torcieron' instead of the 3cp agents performing the piel action on their own paths",
+          "spanishSpan": "sus sendas torcieron a ellos"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Conforme a recompensas, conforme a recompensará: ira a sus adversarios, recompensa a sus enemigos; a las islas recompensa recompensará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059018003",
+            "h23059018004"
+          ],
+          "issue": "fuses כְּעַל + יְשַׁלֵּם into ungrammatical 'conforme a recompensará', altering the two parallel prepositional phrases",
+          "spanishSpan": "conforme a recompensará"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y temerán desde occidente el nombre de Jehová, y desde salida de sol su gloria; porque vendrá como el río angosto; espíritu de Jehová hace huir en él.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059019016"
+          ],
+          "issue": "Spanish 'hace huir' adds causative force; lemma 5127 + HVop3fs only licenses 'flees' (subject רוח)",
+          "spanishSpan": "espíritu de Jehová hace huir"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vendrá a Tsiyón Redentor, y a volvidos de rebelión en Yaakov, dicho de Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23059020003"
+          ],
+          "issue": "capitalizes participle as doctrinal title 'Redentor'",
+          "spanishSpan": "Redentor"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:31:50.834203+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 21,
+    "verses": 21,
+    "input": 47175,
+    "cachedInput": 18112,
+    "output": 1283,
+    "reasoning": 20269,
+    "usd": 0.1965,
+    "byProvider": {
+      "xai": {
+        "calls": 21,
+        "input": 47175,
+        "output": 1283,
+        "reasoning": 20269,
+        "usd": 0.1965
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 21,
+        "input": 47175,
+        "output": 1283,
+        "reasoning": 20269,
+        "usd": 0.1965
+      }
+    },
+    "usdPerVerse": 0.0094,
+    "bibleAtThisRate": 291.0,
+    "book": "isaias",
+    "chapter": 59
+  }
+}

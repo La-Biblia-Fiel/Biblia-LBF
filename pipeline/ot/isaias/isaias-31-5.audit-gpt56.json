@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 31:5",
+  "chapter": 31,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Como aves volantes, así defenderá Jehová de ejércitos sobre Yerushaláyim; defendiendo librará, pasando salvará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23031005008"
+      ],
+      "issue": "Hebraized proper name Yerushaláyim instead of conventional Spanish Jerusalén",
+      "spanishSpan": "Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

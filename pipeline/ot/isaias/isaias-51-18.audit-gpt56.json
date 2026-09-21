@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:18",
+  "chapter": 51,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "No hay el que guíe a ella de todos hijos que dio a luz; y no hay el que tome de su mano de todos hijos que crió.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23051018008",
+        "h23051018009"
+      ],
+      "issue": "מַחֲזִיק בְּיָדָהּ rendered as 'tome de su mano' (implies removing from her hand) instead of 'take hold of/strengthen her hand'",
+      "spanishSpan": "el que tome de su mano"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

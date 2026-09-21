@@ -1,0 +1,126 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 18,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    6,
+    7
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todo morador de mundo y habitantes de tierra: como alzar enseña montes verán ustedes, y como tocar shofar oirán ustedes.",
+      "notes": "plural mismatch and altered syntax on the two k- infinitive clauses",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23018003002"
+          ],
+          "issue": "singular 'morador' instead of plural participle",
+          "spanishSpan": "Todo morador"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23018003006",
+            "h23018003007",
+            "h23018003008"
+          ],
+          "issue": "infinitive clause restructured so that 'alzar enseña montes' does not preserve the 'when banner is lifted on mountains' construction",
+          "spanishSpan": "como alzar enseña montes"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque delante de cosecha, como acabado capullo, y agraz madurando será flor, y cortó los sarmientos con las podaderas, y los pámpanos quitó, cortó.",
+      "notes": "multiple token mismatches in rendering",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23018005006",
+            "h23018005007",
+            "h23018005008",
+            "h23018005009"
+          ],
+          "issue": "misrenders sequence and participants: agraz madurando será flor inverts and adds resolution not licensed by the lemma/morph sequence",
+          "spanishSpan": "y agraz madurando será flor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23018005004",
+            "h23018005005"
+          ],
+          "issue": "adds 'acabado' and 'capullo' that resolve the infinitive+blossom construction beyond token license",
+          "spanishSpan": "como acabado capullo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23018005015",
+            "h23018005016"
+          ],
+          "issue": "repeats 'cortó' at end, creating unlicensed duplication of the two hiphil perfects",
+          "spanishSpan": "quitó, cortó"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:25:58.825968+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 7,
+    "verses": 7,
+    "input": 17287,
+    "cachedInput": 5824,
+    "output": 536,
+    "reasoning": 5918,
+    "usd": 0.0646,
+    "byProvider": {
+      "xai": {
+        "calls": 7,
+        "input": 17287,
+        "output": 536,
+        "reasoning": 5918,
+        "usd": 0.0646
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 7,
+        "input": 17287,
+        "output": 536,
+        "reasoning": 5918,
+        "usd": 0.0646
+      }
+    },
+    "usdPerVerse": 0.0092,
+    "bibleAtThisRate": 287.0,
+    "book": "isaias",
+    "chapter": 18
+  }
+}

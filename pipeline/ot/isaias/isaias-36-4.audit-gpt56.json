@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 36:4",
+  "chapter": 36,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo a ellos Rav-shaqé: Digan, por favor, a Jizqiyahu: Así dijo el rey el grande, rey de Ashur: ¿Qué la confianza esta que confiaste?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23036004003",
+        "h23036004004",
+        "h23036004008",
+        "h23036004014"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Rav-shaqé ... Jizqiyahu ... Ashur"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

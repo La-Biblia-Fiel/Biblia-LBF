@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:22",
+  "chapter": 18,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Se oirá un grito en sus casas, porque tú los traerás un ejército de pronto, porque han cavado una zanja para mí, y han escondido lazo para mis pies.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018022011"
+      ],
+      "issue": "adds 'zanja para mí' concept; tokens only license 'dug to capture me'",
+      "spanishSpan": "han cavado una zanja para mí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018022007"
+      ],
+      "issue": "גְּדוּד rendered as 'ejército' (adds specialized military sense not in lemma)",
+      "spanishSpan": "un ejército"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018022012"
+      ],
+      "issue": "plural פַּחִים rendered as singular 'lazo'",
+      "spanishSpan": "lazo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

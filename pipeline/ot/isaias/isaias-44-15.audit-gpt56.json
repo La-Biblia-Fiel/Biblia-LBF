@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:15",
+  "chapter": 44,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fue a humano para quemar, y tomó de ellos y se calentó; también encendió y coció pan; también obra dios y se postró; lo hizo ídolo y se inclinó a ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044015001",
+        "h23044015002",
+        "h23044015003"
+      ],
+      "issue": "mangles וְהָיָה לְאָדָם לְבָעֵר into ungrammatical 'fue a humano para quemar' instead of licensed 'será para un hombre para quemar'",
+      "spanishSpan": "Y fue a humano para quemar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044015013"
+      ],
+      "issue": "renders common noun אֵל as 'dios' (forbidden lemma dump)",
+      "spanishSpan": "obra dios"
+    }
+  ],
+  "notes": "multiple structural and lexical mismatches",
+  "discardedUncitedFindings": 0
+}

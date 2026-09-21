@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 51:5",
+  "chapter": 51,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Cercana mi justicia; salió mi salvación, y mis brazos pueblos juzgarán; a mí islas esperarán, y a mi brazo aguardarán.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23051005001"
+      ],
+      "issue": "adjective gender adjusted for Spanish noun agreement (masculine token, feminine Spanish noun)",
+      "spanishSpan": "Cercana"
+    }
+  ],
+  "notes": "grammatical smoothing only; no semantic change or unlicensed concepts",
+  "discardedUncitedFindings": 0
+}

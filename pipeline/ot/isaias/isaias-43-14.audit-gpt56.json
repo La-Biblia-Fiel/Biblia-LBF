@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:14",
+  "chapter": 43,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dijo Jehová su redentor de ustedes, Santo de Israel: Por ustedes envié a Bavel, y hice bajar barras a todos ellos, y Kasdim en naves su grito.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043014009",
+        "h23043014013"
+      ],
+      "issue": "Hebraizes proper names instead of conventional Spanish forms",
+      "spanishSpan": "Bavel, Kasdim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

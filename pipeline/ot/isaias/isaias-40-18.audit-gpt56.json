@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 40:18",
+  "chapter": 40,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Y a quién asemejarán a Dios, y qué semejanza arreglarán a él?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23040018004"
+      ],
+      "issue": "renders common noun lemma 410 (אֵל) as capitalized title 'Dios'",
+      "spanishSpan": "a Dios"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

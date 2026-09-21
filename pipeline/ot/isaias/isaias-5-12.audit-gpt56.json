@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 5:12",
+  "chapter": 5,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fue cítara y arpa, tamboril y flauta y vino sus banquetes; y obra de Jehová no miran, y hecho de sus manos no vieron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005012007"
+      ],
+      "issue": "misattaches מִשְׁתֵּיהֶם only to final item instead of the whole list",
+      "spanishSpan": "vino sus banquetes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23005012014"
+      ],
+      "issue": "renders יָדָיו as 'sus manos' creating ambiguous referent",
+      "spanishSpan": "sus manos"
+    }
+  ],
+  "notes": "tense mix in verbs also deviates from impf/perf contrast",
+  "discardedUncitedFindings": 0
+}

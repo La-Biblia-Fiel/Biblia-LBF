@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:12",
+  "chapter": 19,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Así haré con este lugar, dice el Señor, y con sus moradores; y haré que esta ciudad sea como Tophet.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019012005",
+        "h24019012006"
+      ],
+      "issue": "renders נְאֻם יְהוָה as 'dice el Señor' (title and verb choice not licensed by tokens)",
+      "spanishSpan": "dice el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019012008",
+        "h24019012009",
+        "h24019012010",
+        "h24019012011",
+        "h24019012012"
+      ],
+      "issue": "restructures וְלָתֵת אֶת הָעִיר הַזֹּאת כְּתֹפֶת into separate 'y haré que esta ciudad sea como' clause instead of preserving the infinitive construct",
+      "spanishSpan": "y haré que esta ciudad sea como Tophet"
+    }
+  ],
+  "notes": "also uses non-packet 'Señor' for YHWH",
+  "discardedUncitedFindings": 0
+}

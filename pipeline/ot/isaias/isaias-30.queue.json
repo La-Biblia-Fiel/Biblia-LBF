@@ -1,0 +1,341 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 30,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    33
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será a ustedes fortaleza de Faraón para vergüenza, y el refugio en sombra de Mizraim para afrenta.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030003008"
+          ],
+          "issue": "Hebraizes proper name Mizraim instead of conventional Spanish Egipto",
+          "spanishSpan": "Mizraim"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todos se avergonzarán de pueblo que no aprovecha a ellos, no para ayuda y no para provecho, sino para vergüenza y también para oprobio.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030005001",
+            "h23030005002",
+            "h23030005003",
+            "h23030005011",
+            "h23030005012",
+            "h23030005014"
+          ],
+          "issue": "adds unlicenced verb 'se avergonzarán' and re-structures the clause so that 'todos' become the subject of shame; tokens only license 'all upon a people ... for shame and also for reproach'",
+          "spanishSpan": "Todos se avergonzarán de"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Mizraim vanidad y vacío ayudarán; por tanto llamé a esto: Ráhab ellos, estar sentados.",
+      "notes": "multiple structural and name mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030007001"
+          ],
+          "issue": "Hebraizes proper name as Mizraim instead of conventional Egipto",
+          "spanishSpan": "Mizraim"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030007002",
+            "h23030007003",
+            "h23030007004"
+          ],
+          "issue": "restructures clause so that Mizraim + hebel + riq appear to be the helping subject; tokens place hebel and riq as the character of the help",
+          "spanishSpan": "Mizraim vanidad y vacío ayudarán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030007010"
+          ],
+          "issue": "renders שָׁבֶת as infinitive phrase 'estar sentados' creating a new clause not licensed by the token",
+          "spanishSpan": "estar sentados"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mil uno de faces de reprensión de uno; de faces de reprensión de cinco huirán ustedes, hasta que queden ustedes como mástil sobre cabeza del monte, y como enseña sobre el collado.",
+      "notes": "clause structure and verb scope mismatch",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030017001",
+            "h23030017002",
+            "h23030017003",
+            "h23030017004",
+            "h23030017005",
+            "h23030017009"
+          ],
+          "issue": "first clause (1000 from rebuke of one) lacks the flee verb; Spanish attaches huirán only to the five clause",
+          "spanishSpan": "Mil uno de faces de reprensión de uno; de faces de reprensión de cinco huirán ustedes"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h23030017003",
+            "h23030017006"
+          ],
+          "issue": "literal plural 'faces' is acceptable but awkward; no semantic change",
+          "spanishSpan": "de faces de reprensión"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque pueblo en Tsiyón habitará en Yerushaláyim; llorando no llorarás; haciendo gracia te hará gracia a voz de tu clamor; según su oír, te responderá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030019003",
+            "h23030019005"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Tsiyón ... Yerushaláyim"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030019014"
+          ],
+          "issue": "tense changed from perfect to future",
+          "spanishSpan": "te responderá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030019014"
+          ],
+          "issue": "person/gender suffix mismatch (2fs vs prior 2ms forms)",
+          "spanishSpan": "te responderá"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dará a ustedes Adonai pan de angustia y aguas de aprieto, y no se esconderá aún tus maestros, y serán tus ojos viendo a tus maestros.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030020002",
+            "h23030020011",
+            "h23030020013",
+            "h23030020016"
+          ],
+          "issue": "person/number shift: 2mp 'a ustedes' followed by 2ms 'tus' (teachers/eyes)",
+          "spanishSpan": "a ustedes ... tus maestros ... tus ojos ... tus maestros"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tus oídos oirán palabra detrás de ti, diciendo: Este el camino, anden en él, cuando ustedes se aparten a derecha y cuando se aparten a izquierda.",
+      "notes": "otherwise structure and 2pl address preserved",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030021006",
+            "h23030021007"
+          ],
+          "issue": "omits copula required in Spanish to render the clause; produces ungrammatical 'Este el camino'",
+          "spanishSpan": "Este el camino"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y contaminarán el revestimiento de esculturas de tu plata, y el forro de imagen de fundición de tu oro; los esparcirás como paño de menstruada; ¡Sal! dirás a él.",
+      "notes": "paño addition is unlicensed concept",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030022012"
+          ],
+          "issue": "adds 'paño' not licensed by דָוָה",
+          "spanishSpan": "paño de menstruada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030022001"
+          ],
+          "issue": "2mp verb rendered inconsistently with later 2ms verbs",
+          "spanishSpan": "contaminarán"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y su espíritu como torrente inundante hasta cuello alcanza, para zarandear naciones en zaranda de vanidad, y freno extraviante sobre quijadas de pueblos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030028006"
+          ],
+          "issue": "verb rendered as 'alcanza' (reaches) instead of licensed sense of divide/halve",
+          "spanishSpan": "alcanza"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y será todo paso de vara de fundamento que hará reposar Jehová sobre él, con panderos y con cítaras; y en batallas de meneo peleará con ella.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23030032014"
+          ],
+          "issue": "adds un-licensed object 'con ella'",
+          "spanishSpan": "peleará con ella"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T19:01:43.454441+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 33,
+    "verses": 33,
+    "input": 76223,
+    "cachedInput": 18304,
+    "output": 1843,
+    "reasoning": 32374,
+    "usd": 0.3303,
+    "byProvider": {
+      "xai": {
+        "calls": 33,
+        "input": 76223,
+        "output": 1843,
+        "reasoning": 32374,
+        "usd": 0.3303
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 33,
+        "input": 76223,
+        "output": 1843,
+        "reasoning": 32374,
+        "usd": 0.3303
+      }
+    },
+    "usdPerVerse": 0.01,
+    "bibleAtThisRate": 311.0,
+    "book": "isaias",
+    "chapter": 30
+  }
+}

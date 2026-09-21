@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:12",
+  "chapter": 17,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Un trono de gloria, elevado desde antiguo, es el lugar de nuestra santidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017012006"
+      ],
+      "issue": "renders מִקְדָּשֵׁנוּ (sanctuary) as 'nuestra santidad' instead of 'nuestro santuario'",
+      "spanishSpan": "de nuestra santidad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

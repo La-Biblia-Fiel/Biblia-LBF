@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:21",
+  "chapter": 7,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será en el día aquel: criará varón novilla de ganado y dos ovejillas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007021009"
+      ],
+      "issue": "adds diminutive 'little' not licensed by lemma 6629",
+      "spanishSpan": "ovejillas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

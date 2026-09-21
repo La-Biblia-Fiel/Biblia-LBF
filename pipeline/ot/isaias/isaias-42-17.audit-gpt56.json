@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 42:17",
+  "chapter": 42,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Se retiraron atrás; se avergonzarán vergüenza los que confían en el ídolo, los que dicen a fundición: Ustedes nuestros dioses.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23042017008"
+      ],
+      "issue": "לְמַסֵּכָ֖ה rendered as 'fundición' (process/location) instead of the licensed noun 'molten image'",
+      "spanishSpan": "a fundición"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

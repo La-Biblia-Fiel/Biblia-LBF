@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 23:17",
+  "chapter": 23,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será desde cabo de setenta año visitará Jehová a Tsor, y volverá a su salario, y fornicará con todos reinos de la tierra sobre faces del suelo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23023017001",
+        "h23023017002",
+        "h23023017005"
+      ],
+      "issue": "Spanish mangles sequential structure of 'it will be at the end of seventy years [that] YHWH will visit' into ungrammatical 'Y será desde cabo de setenta año visitará'",
+      "spanishSpan": "Y será desde cabo de setenta año visitará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23023017003",
+        "h23023017004"
+      ],
+      "issue": "renders 'setenta año' (singular) without licensed plural sense for the measure phrase",
+      "spanishSpan": "setenta año"
+    }
+  ],
+  "notes": "remaining clauses track tokens adequately",
+  "discardedUncitedFindings": 0
+}

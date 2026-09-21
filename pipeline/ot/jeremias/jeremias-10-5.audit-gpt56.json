@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:5",
+  "chapter": 10,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Como un sauce en el bosque, son ellos, y no hablan; llevárselos pueden, porque no pueden andar; no temáis de ellos, porque no pueden hacer mal, ni hay en ellos provecho alguno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010005001",
+        "h24010005002"
+      ],
+      "issue": "Spanish renders construct chain as 'sauce en el bosque' instead of licensed 'like a palm-tree of a cucumber-field'",
+      "spanishSpan": "Como un sauce en el bosque"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010005012"
+      ],
+      "issue": "2mp jussive rendered with vosotros 'temáis' instead of licensed ustedes form",
+      "spanishSpan": "no temáis"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010005016",
+        "h24010005018",
+        "h24010005019"
+      ],
+      "issue": "adds 'pueden' and replaces 'hacer bien' with 'provecho alguno'",
+      "spanishSpan": "porque no pueden hacer mal, ni hay en ellos provecho alguno"
+    }
+  ],
+  "notes": "initial image and several lexical choices unlicensed by tokens",
+  "discardedUncitedFindings": 0
+}

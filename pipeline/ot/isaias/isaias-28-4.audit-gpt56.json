@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 28:4",
+  "chapter": 28,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será flor marchita, hermosura de su ornato, que sobre cabeza de valle de gorduras, como higo temprano antes de verano, que ve el que ve, aún ella en su palma, la traga.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028004011"
+      ],
+      "issue": "adds 'higo' (fig) not licensed by בכורה firstfruit token",
+      "spanishSpan": "higo temprano"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

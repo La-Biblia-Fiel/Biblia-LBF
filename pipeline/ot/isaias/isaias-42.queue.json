@@ -1,0 +1,293 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 42,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    8,
+    10,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    21,
+    23,
+    25
+  ],
+  "holds": [
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No se apagará y no se quebrará hasta que ponga en la tierra juicio, y a su torá islas esperarán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042004009"
+          ],
+          "issue": "untranslated non-name lemma kept as torá instead of Spanish equivalent",
+          "spanishSpan": "torá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h23042004002",
+            "h23042004004"
+          ],
+          "issue": "reflexive/passive se forms for active qal 3ms verbs",
+          "spanishSpan": "se apagará ... se quebrará"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Yo Jehová te llamé en justicia, y asiré en tu mano, y te guardaré, y te daré a pacto de pueblo, a luz de naciones,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042006008",
+            "h23042006009",
+            "h23042006010"
+          ],
+          "issue": "renders לִבְרִית עָם as 'a pacto de pueblo' (omits proper 'for/as a covenant of/for the people' structure)",
+          "spanishSpan": "te daré a pacto de pueblo"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Las primeras, he aquí vinieron, y nuevas yo anunciando; antes que broten las haré oír a ustedes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042009009",
+            "h23042009010"
+          ],
+          "issue": "adds unlicensed object 'las' as what is caused to be heard",
+          "spanishSpan": "las haré oír"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Alcen desierto y sus ciudades, aldeas que habita Qedar; canten moradores de Sela; desde cabeza de montes griten.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042011001",
+            "h23042011002",
+            "h23042011003"
+          ],
+          "issue": "subjects of יִשְׂאוּ (desert and its cities) rendered as objects of Alcen",
+          "spanishSpan": "Alcen desierto y sus ciudades"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042011001"
+          ],
+          "issue": "3mp imperfect treated as direct imperative commanding an external agent rather than jussive on the listed subjects",
+          "spanishSpan": "Alcen"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Pongan a Jehová gloria, y su alabanza en las islas anuncien.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042012001",
+            "h23042012006"
+          ],
+          "issue": "Hebrew 3mp qal/hiphil imperfect (they will put / they will declare) rendered as 3pl subjunctive/imperative commands (pongan...anuncien)",
+          "spanishSpan": "Pongan...anuncien"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se retiraron atrás; se avergonzarán vergüenza los que confían en el ídolo, los que dicen a fundición: Ustedes nuestros dioses.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042017008"
+          ],
+          "issue": "לְמַסֵּכָ֖ה rendered as 'fundición' (process/location) instead of the licensed noun 'molten image'",
+          "spanishSpan": "a fundición"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Viendo muchas y no guardarás; abriendo oídos y no oirá.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042020001"
+          ],
+          "issue": "adds 'viendo' concept not present in tokens",
+          "spanishSpan": "Viendo muchas"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y él pueblo saqueado y despojado; atrapados en hoyos todos ellos, y en casas de cárceles fueron escondidos; fueron a despojo y no hay libertador; a botín y no hay diciendo: Devuelve.",
+      "notes": "multiple structural and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042022001",
+            "h23042022002"
+          ],
+          "issue": "renders 'and he [is] a people' as 'Y él pueblo' which inserts pronoun mismatch and omits copula sense",
+          "spanishSpan": "Y él pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042022011",
+            "h23042022012"
+          ],
+          "issue": "changes 'they became plunder' to 'fueron a despojo' (went to plunder)",
+          "spanishSpan": "fueron a despojo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042022017",
+            "h23042022018"
+          ],
+          "issue": "renders 'there is none saying return' as awkward 'no hay diciendo: Devuelve' that alters participant and force",
+          "spanishSpan": "no hay diciendo: Devuelve"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Quién dio a Yaakov a despojadores, e Israel a saqueadores? ¿No Jehová, aquel contra quien pecamos, y no quisieron en sus caminos andar, y no oyeron en su torá?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042024003"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Yaakov"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23042024005"
+          ],
+          "issue": "two distinct Spanish terms for single licensed lemma",
+          "spanishSpan": "despojadores ... saqueadores"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T20:37:29.565297+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 25,
+    "verses": 25,
+    "input": 51399,
+    "cachedInput": 17472,
+    "output": 1484,
+    "reasoning": 21254,
+    "usd": 0.213,
+    "byProvider": {
+      "xai": {
+        "calls": 25,
+        "input": 51399,
+        "output": 1484,
+        "reasoning": 21254,
+        "usd": 0.213
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 25,
+        "input": 51399,
+        "output": 1484,
+        "reasoning": 21254,
+        "usd": 0.213
+      }
+    },
+    "usdPerVerse": 0.0085,
+    "bibleAtThisRate": 265.0,
+    "book": "isaias",
+    "chapter": 42
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 59:19",
+  "chapter": 59,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Y temerán desde occidente el nombre de Jehová, y desde salida de sol su gloria; porque vendrá como el río angosto; espíritu de Jehová hace huir en él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23059019016"
+      ],
+      "issue": "Spanish 'hace huir' adds causative force; lemma 5127 + HVop3fs only licenses 'flees' (subject רוח)",
+      "spanishSpan": "espíritu de Jehová hace huir"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:14",
+  "chapter": 12,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová: Por todos los malos vecinos que tocan mi heredad, a la cual he dado a mi pueblo Israel, los echaré de su tierra, y a la casa de Judá los dejaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012014006"
+      ],
+      "issue": "omits 1cs suffix on 'neighbors' (my neighbors)",
+      "spanishSpan": "los malos vecinos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012014023"
+      ],
+      "issue": "wrong verb: 'dejaré' instead of 'pluck up / uproot' (נתש)",
+      "spanishSpan": "los dejaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012014017",
+        "h24012014023"
+      ],
+      "issue": "changes repeated verb root נתש to different Spanish verbs",
+      "spanishSpan": "echaré ... dejaré"
+    }
+  ],
+  "notes": "also misplaced 'mi' on heredad instead of vecinos",
+  "discardedUncitedFindings": 0
+}

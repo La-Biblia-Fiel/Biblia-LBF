@@ -1,0 +1,188 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 22,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    24,
+    25
+  ],
+  "holds": [
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y depósito hicieron ustedes entre los dos muros para aguas de la alberca la vieja, y no miraron ustedes hacia su Hacedor, y su Formador de lejos no vieron ustedes.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23022011011",
+            "h23022011012"
+          ],
+          "issue": "capitalizes participles as doctrinal titles Hacedor/Formador not licensed by tokens",
+          "spanishSpan": "su Hacedor, y su Formador"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dijo Adonai Jehová de ejércitos: Anda, entra a este intendente, sobre Shevná, que sobre la casa.",
+      "notes": "name forms and imperatives otherwise match tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23022015011",
+            "h23022015012",
+            "h23022015013",
+            "h23022015014",
+            "h23022015015"
+          ],
+          "issue": "misparses structure: places 'sobre Shevná' as if intendente governs Shebna; relative clause and prepositions assign 'over the house' to Shebna, not the reverse",
+          "spanishSpan": "este intendente, sobre Shevná, que sobre la casa"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y daré llave de casa de David sobre su hombro, y abrió y no hay quien cierre, y cerró y no hay quien abra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23022022007",
+            "h23022022010"
+          ],
+          "issue": "Spanish renders 3ms perfect verbs as past indicative (abrió, cerró) instead of preserving the qal perfect 3ms form and sequence after 1cs future",
+          "spanishSpan": "y abrió ... y cerró"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23022022009",
+            "h23022022012"
+          ],
+          "issue": "Spanish resolves active participles into subjunctive clauses with 'quien' (cierre, abra) rather than 'no one shutting/opening'",
+          "spanishSpan": "no hay quien cierre ... no hay quien abra"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y lo clavaré clavo en lugar fiel, y será para trono de gloria a casa de su padre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23022023001",
+            "h23022023002"
+          ],
+          "issue": "mishandles verb + object syntax by rendering וּתְקַעְתִּ֥יו יָתֵ֖ד as 'clavaré clavo' (redundant insertion and altered participant structure)",
+          "spanishSpan": "clavaré clavo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23022023006",
+            "h23022023008"
+          ],
+          "issue": "alters construct chain linkage and prepositions (לְכִסֵּ֥א ... לְבֵ֥ית rendered with mismatched 'para ... a')",
+          "spanishSpan": "para trono de gloria a casa"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:38:14.719098+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 25,
+    "verses": 25,
+    "input": 51683,
+    "cachedInput": 18240,
+    "output": 1074,
+    "reasoning": 23636,
+    "usd": 0.2243,
+    "byProvider": {
+      "xai": {
+        "calls": 25,
+        "input": 51683,
+        "output": 1074,
+        "reasoning": 23636,
+        "usd": 0.2243
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 25,
+        "input": 51683,
+        "output": 1074,
+        "reasoning": 23636,
+        "usd": 0.2243
+      }
+    },
+    "usdPerVerse": 0.009,
+    "bibleAtThisRate": 279.0,
+    "book": "isaias",
+    "chapter": 22
+  }
+}

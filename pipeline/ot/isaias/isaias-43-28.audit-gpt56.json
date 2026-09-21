@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 43:28",
+  "chapter": 43,
+  "verse": 28,
+  "candidateLabel": "gpt56",
+  "spanish": "Y profanaré príncipes de santidad, y daré a anatema a Yaakov, e Israel a blasfemias.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043028006"
+      ],
+      "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23043028004",
+        "h23043028005"
+      ],
+      "issue": "awkward ungrammatical phrasing 'daré a anatema a' that does not match the token order and construction of 'give to the ban'",
+      "spanishSpan": "daré a anatema a Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

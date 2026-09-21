@@ -1,0 +1,70 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "isaias",
+  "reference": "Isaías 19:24",
+  "chapter": 19,
+  "verse": 24,
+  "sourceDraft": "En el día aquel será Israel tercero a Mizraim y a Ashur, bendición en seno de la tierra,",
+  "spanish": "En aquel día, Israel será tercero para Mizraim y para Ashur, bendición en seno de la tierra,",
+  "units": [
+    {
+      "es": "En aquel día",
+      "sourceTokenIds": [
+        "h23019024001",
+        "h23019024002"
+      ]
+    },
+    {
+      "es": "será",
+      "sourceTokenIds": [
+        "h23019024003"
+      ]
+    },
+    {
+      "es": "Israel",
+      "sourceTokenIds": [
+        "h23019024004"
+      ]
+    },
+    {
+      "es": "tercero",
+      "sourceTokenIds": [
+        "h23019024005"
+      ]
+    },
+    {
+      "es": "para Mizraim",
+      "sourceTokenIds": [
+        "h23019024006"
+      ]
+    },
+    {
+      "es": "y para Ashur",
+      "sourceTokenIds": [
+        "h23019024007"
+      ]
+    },
+    {
+      "es": "bendición",
+      "sourceTokenIds": [
+        "h23019024008"
+      ]
+    },
+    {
+      "es": "en seno de la tierra",
+      "sourceTokenIds": [
+        "h23019024009",
+        "h23019024010"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Reordered 'En el día aquel' to 'En aquel día' — Spanish demonstrative precedes noun.",
+    "Reordered 'será Israel tercero' to 'Israel será tercero' — natural Spanish subject-verb order.",
+    "Changed 'a Mizraim y a Ashur' to 'para Mizraim y para Ashur' — avoids ambiguity with personal 'a' marker, same licensed sense (dative/purpose)."
+  ],
+  "meaningChanges": [],
+  "droppedUncitedUnits": 0
+}

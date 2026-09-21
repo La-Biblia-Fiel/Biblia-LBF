@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 57:6",
+  "chapter": 57,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "En lisas de torrente tu porción; ellas, ellas tu suerte; también a ellas derramaste libación, subiste ofrenda. ¿Sobre estas me consolaré?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23057006004",
+        "h23057006005",
+        "h23057006008"
+      ],
+      "issue": "masculine plural pronouns rendered as feminine ellas/estas",
+      "spanishSpan": "ellas, ellas ... a ellas ... estas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23057006001"
+      ],
+      "issue": "adjective construct resolved to feminine plural lisas",
+      "spanishSpan": "lisas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:20",
+  "chapter": 10,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Mi tienda es robada, y todo lo que me queda se ha ido; mis hijos salieron de mí, y no están; ya no tendré tienda, ni levantaré cortinas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010020009",
+        "h24010020010",
+        "h24010020011",
+        "h24010020012",
+        "h24010020013",
+        "h24010020014"
+      ],
+      "issue": "changes impersonal negative existence of participles (no one stretching/raising) into 1cs future agency 'ya no tendré... ni levantaré'",
+      "spanishSpan": "ya no tendré tienda, ni levantaré cortinas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010020003",
+        "h24010020004",
+        "h24010020005"
+      ],
+      "issue": "paraphrases 'all my cords are torn away' as 'todo lo que me queda se ha ido'",
+      "spanishSpan": "todo lo que me queda se ha ido"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

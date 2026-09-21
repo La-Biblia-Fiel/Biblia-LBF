@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:17",
+  "chapter": 41,
+  "verse": 17,
+  "candidateLabel": "gpt56",
+  "spanish": "Los pobres y los necesitados buscando aguas, y no hay; su lengua en la sed se secó; yo Jehová los responderé, Dios de Israel no los dejaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041017012"
+      ],
+      "issue": "renders non-name lemma H430 as Dios",
+      "spanishSpan": "Dios de Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041017012",
+        "h23041017014",
+        "h23041017015"
+      ],
+      "issue": "restructures clause so subject of final verb is no longer 1cs speaker",
+      "spanishSpan": "Dios de Israel no los dejaré"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

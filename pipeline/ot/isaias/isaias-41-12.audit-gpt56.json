@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:12",
+  "chapter": 41,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Los buscarás y no los hallarás, hombres de tu pelea; serán como nada y como cero hombres de tu guerra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041012008"
+      ],
+      "issue": "renders אֶפֶס as 'cero', introducing a modern numeric concept not licensed by the lemma or morphology",
+      "spanishSpan": "como cero"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

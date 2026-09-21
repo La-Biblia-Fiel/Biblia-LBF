@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 23:18",
+  "chapter": 23,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será su comercio y su salario santidad a Jehová; no será atesorado y no será guardado, porque a los que habitan delante de Jehová será su comercio, para comer a saciedad y para vestidura antigua.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23023018018",
+        "h23023018019"
+      ],
+      "issue": "adds 'vestidura' (clothing) not licensed by מְכַסֶּה עָתִיק (covering ancient)",
+      "spanishSpan": "para vestidura antigua"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

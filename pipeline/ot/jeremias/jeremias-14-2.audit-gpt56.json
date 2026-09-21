@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 14:2",
+  "chapter": 14,
+  "verse": 2,
+  "candidateLabel": "gpt56",
+  "spanish": "Judá está de luto y sus puertas se desmayan; sus nobles están vestidos de saco, la tierra está enlutada y Jerusalén en agonía.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014002007",
+        "h24014002008",
+        "h24014002009"
+      ],
+      "issue": "omits 'cry of Jerusalem has gone up' and replaces with 'Jerusalén en agonía'",
+      "spanishSpan": "y Jerusalén en agonía"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24014002004",
+        "h24014002005",
+        "h24014002006"
+      ],
+      "issue": "adds 'sus nobles están vestidos de saco' with no token support and misplaces 'to the earth'",
+      "spanishSpan": "sus nobles están vestidos de saco, la tierra está enlutada"
+    }
+  ],
+  "notes": "multiple unlicensed additions and omissions",
+  "discardedUncitedFindings": 0
+}

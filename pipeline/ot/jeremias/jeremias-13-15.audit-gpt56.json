@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:15",
+  "chapter": 13,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Escuchad y oíd, no os ensoberbecáis, porque Jehová ha hablado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013015001",
+        "h24013015002",
+        "h24013015004"
+      ],
+      "issue": "uses vosotros forms (Escuchad, oíd, os ensoberbecáis) instead of Latin American ustedes",
+      "spanishSpan": "Escuchad y oíd, no os ensoberbecáis"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

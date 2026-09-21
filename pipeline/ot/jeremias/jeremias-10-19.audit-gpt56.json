@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:19",
+  "chapter": 10,
+  "verse": 19,
+  "candidateLabel": "gpt56",
+  "spanish": "Ay de mí por mi herida, mi heredad es la destrucción mía; y yo dije: Esto es enfermedad, y la soportaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010019005"
+      ],
+      "issue": "Spanish renders נחלה as 'mi heredad' (inheritance) but token lemma is 2470a / H2470 (חלה Niphal 'be sick/sickened')",
+      "spanishSpan": "mi heredad es la destrucción mía"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

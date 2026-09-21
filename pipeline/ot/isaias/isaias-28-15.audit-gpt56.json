@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 28:15",
+  "chapter": 28,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque dijeron ustedes: Cortamos pacto con muerte, y con Sheol hicimos visión; aguacero inundante, porque no nos vendrá, porque pusimos mentira nuestro refugio, y en la falsedad nos escondimos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028015010"
+      ],
+      "issue": "renders חֹזֶה (lemma 2374 seer) as visión, adding unlicensed sense",
+      "spanishSpan": "hicimos visión"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23028015002"
+      ],
+      "issue": "uses 3pl verb form with explicit subject for 2mp address",
+      "spanishSpan": "dijeron ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

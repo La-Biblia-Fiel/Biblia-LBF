@@ -1,0 +1,209 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 58,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "passed": [
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    11,
+    12
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Clama con garganta, no te detengas; como shofar alza tu voz, y anuncia a mi pueblo su rebelión, y a casa de Yaakov sus pecados.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23058001012"
+          ],
+          "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Por qué ayunamos, y no viste; afligimos nuestra alma, y no conoces? He aquí, en día de su ayuno de ustedes hallan placer, y todos sus trabajadores de ustedes oprimen.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23058003011",
+            "h23058003015",
+            "h23058003016"
+          ],
+          "issue": "possessive and participant reversal: Spanish 'su ayuno de ustedes' and 'sus trabajadores de ustedes oprimen' make workers the subject or use 3rd-person possessives; tokens require 2mp 'your fast' and 'all your laborers you (2mp) oppress'",
+          "spanishSpan": "su ayuno de ustedes ... todos sus trabajadores de ustedes oprimen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23058003010",
+            "h23058003011"
+          ],
+          "issue": "adds redundant 'de ustedes' after already using 'su' (3rd person) for the 2mp suffix on צֹמְכֶם",
+          "spanishSpan": "día de su ayuno de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Entonces llamarás, y Jehová responderá; clamarás, y dirá: Heme aquí; si quitas de en medio de ti yugo, enviar dedo y hablar iniquidad,",
+      "notes": "syntactic mismatch on conditional clause",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23058009012",
+            "h23058009013",
+            "h23058009014",
+            "h23058009015"
+          ],
+          "issue": "infinitives rendered as bare verbs instead of nominal phrases; omits required structure of 'sending finger' and 'speaking iniquity' as objects of removal",
+          "spanishSpan": "enviar dedo y hablar iniquidad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23058009010",
+            "h23058009011"
+          ],
+          "issue": "word order and article omission distort 'remove yoke from your midst'",
+          "spanishSpan": "quitas de en medio de ti yugo"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "y sacas al hambriento tu alma, y alma afligida sacias, y alumbrará en la oscuridad tu luz, y tu tiniebla como el mediodía.",
+      "notes": "second and third clauses are close but first clause fails fidelity",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23058010001",
+            "h23058010002",
+            "h23058010003"
+          ],
+          "issue": "first clause inverts objects and produces ambiguous/wrong sense (soul appears to be taken from the hungry rather than brought out to the hungry)",
+          "spanishSpan": "sacas al hambriento tu alma"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23058010001",
+            "h23058010006"
+          ],
+          "issue": "tense/person shift: both 2ms hiphil verbs rendered inconsistently (present indicative vs. later future)",
+          "spanishSpan": "sacas ... sacias ... alumbrará"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Si apartas del shabat tu pie, de hacer tus placeres en día de mi santidad, y llamas al shabat deleite, al santo de Jehová honrado, y lo honras de hacer tus caminos, de hallar tu placer y hablar palabra,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23058013016",
+            "h23058013018",
+            "h23058013020"
+          ],
+          "issue": "omits מִן 'from' (separation/abstaining) on the three infinitives under 'honor it', rendering as positive 'de hacer / de hallar / hablar' instead of refraining",
+          "spanishSpan": "de hacer tus caminos, de hallar tu placer y hablar palabra"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "entonces te deleitarás sobre Jehová, y te haré cabalgar sobre alturas de tierra, y te haré comer herencia de Yaakov tu padre; porque boca de Jehová habló.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23058014011"
+          ],
+          "issue": "Hebraized proper name Yaakov instead of conventional Spanish Jacob",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:28:19.067102+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 14,
+    "verses": 14,
+    "input": 34468,
+    "cachedInput": 10432,
+    "output": 1059,
+    "reasoning": 13677,
+    "usd": 0.1417,
+    "byProvider": {
+      "xai": {
+        "calls": 14,
+        "input": 34468,
+        "output": 1059,
+        "reasoning": 13677,
+        "usd": 0.1417
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 14,
+        "input": 34468,
+        "output": 1059,
+        "reasoning": 13677,
+        "usd": 0.1417
+      }
+    },
+    "usdPerVerse": 0.0101,
+    "bibleAtThisRate": 315.0,
+    "book": "isaias",
+    "chapter": 58
+  }
+}

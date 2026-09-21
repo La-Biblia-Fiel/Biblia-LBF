@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 33:5",
+  "chapter": 33,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Exaltado Jehová, porque habita altura; llenó Tsiyón de juicio y justicia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033005007"
+      ],
+      "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+      "spanishSpan": "Tsiyón"
+    }
+  ],
+  "notes": "participles and perfect rendered acceptably; only name form fails",
+  "discardedUncitedFindings": 0
+}

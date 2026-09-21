@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:6",
+  "chapter": 11,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Jehová me dijo: Anuncia estas palabras en las ciudades de Judá y en las calles de Jerusalén, diciendo: Oíd las palabras de este pacto y hacedlas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011006006"
+      ],
+      "issue": "omits 'all' (כָּל) before 'these words'",
+      "spanishSpan": "estas palabras"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

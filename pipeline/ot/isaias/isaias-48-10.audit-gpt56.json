@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 48:10",
+  "chapter": 48,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí te refinó, y no con plata; te escogí en horno de aflicción.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23048010002"
+      ],
+      "issue": "verb changed from 1cs perfect to 3sg preterite",
+      "spanishSpan": "te refinó"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 47:5",
+  "chapter": 47,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Siéntate callada, y entra en tiniebla, hija de Kasdim; porque no añadirás que te llamen señora de reinos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23047005006"
+      ],
+      "issue": "Hebraizes proper name as Kasdim instead of conventional Spanish form for the Chaldeans referent",
+      "spanishSpan": "Kasdim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

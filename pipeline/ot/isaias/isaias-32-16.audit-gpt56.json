@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 32:16",
+  "chapter": 32,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y habitará en el desierto juicio, y justicia en el Karmel se sentará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23032016005"
+      ],
+      "issue": "Hebraized proper name instead of conventional Spanish form",
+      "spanishSpan": "Karmel"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

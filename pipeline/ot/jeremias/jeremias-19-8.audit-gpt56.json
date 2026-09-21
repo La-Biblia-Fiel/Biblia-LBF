@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 19:8",
+  "chapter": 19,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Y haré que esta ciudad sea para la destrucción y para el grito; todo el que pase por ella se maravillará y se estremecerá por todas sus plagas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019008006"
+      ],
+      "issue": "שְׁרֵקָה rendered as 'grito' instead of hissing/whistling",
+      "spanishSpan": "para el grito"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019008010"
+      ],
+      "issue": "יִשֹּׁם rendered as 'se maravillará' instead of be appalled/desolate",
+      "spanishSpan": "se maravillará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24019008011"
+      ],
+      "issue": "וְיִשְׁרֹק rendered as 'se estremecerá' instead of will hiss",
+      "spanishSpan": "y se estremecerá"
+    }
+  ],
+  "notes": "multiple mismatches on response terms",
+  "discardedUncitedFindings": 0
+}

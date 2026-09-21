@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 30:7",
+  "chapter": 30,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Mizraim vanidad y vacío ayudarán; por tanto llamé a esto: Ráhab ellos, estar sentados.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030007001"
+      ],
+      "issue": "Hebraizes proper name as Mizraim instead of conventional Egipto",
+      "spanishSpan": "Mizraim"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030007002",
+        "h23030007003",
+        "h23030007004"
+      ],
+      "issue": "restructures clause so that Mizraim + hebel + riq appear to be the helping subject; tokens place hebel and riq as the character of the help",
+      "spanishSpan": "Mizraim vanidad y vacío ayudarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23030007010"
+      ],
+      "issue": "renders שָׁבֶת as infinitive phrase 'estar sentados' creating a new clause not licensed by the token",
+      "spanishSpan": "estar sentados"
+    }
+  ],
+  "notes": "multiple structural and name mismatches",
+  "discardedUncitedFindings": 0
+}

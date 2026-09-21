@@ -1,0 +1,116 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 12,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "passed": [
+    1,
+    3,
+    4,
+    6
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí El de mi salvación; confiaré y no temeré; porque mi fuerza y canción Yah Jehová, y me fue para salvación.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23012002002",
+            "h23012002003"
+          ],
+          "issue": "adds genitive 'de' making אֵל construct/genitive when it is absolute HNcmsa",
+          "spanishSpan": "El de mi salvación"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Canten a Jehová, porque majestad hizo; esto en toda la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23012005004",
+            "h23012005005"
+          ],
+          "issue": "Spanish word order makes גֵאוּת the subject of עָשָׂה instead of the object",
+          "spanishSpan": "majestad hizo"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T14:10:32.443550+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 8,
+    "verses": 6,
+    "input": 15557,
+    "cachedInput": 4544,
+    "output": 1483,
+    "reasoning": 6673,
+    "usd": 0.0777,
+    "byProvider": {
+      "xai": {
+        "calls": 7,
+        "input": 13137,
+        "output": 355,
+        "reasoning": 6673,
+        "usd": 0.0616
+      },
+      "anthropic": {
+        "calls": 1,
+        "input": 2420,
+        "output": 1128,
+        "reasoning": 0,
+        "usd": 0.0161
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 6,
+        "input": 11360,
+        "output": 334,
+        "reasoning": 5683,
+        "usd": 0.0533
+      },
+      "polish": {
+        "calls": 1,
+        "input": 2420,
+        "output": 1128,
+        "reasoning": 0,
+        "usd": 0.0161
+      },
+      "audit-polish": {
+        "calls": 1,
+        "input": 1777,
+        "output": 21,
+        "reasoning": 990,
+        "usd": 0.0084
+      }
+    },
+    "usdPerVerse": 0.013,
+    "bibleAtThisRate": 403.0,
+    "book": "isaias",
+    "chapter": 12
+  }
+}

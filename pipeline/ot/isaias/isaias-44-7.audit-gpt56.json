@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 44:7",
+  "chapter": 44,
+  "verse": 7,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Y quién como yo llamará, y lo anunciará, y lo ordenará a mí, desde mi poner pueblo de eternidad? Y señales y lo que vendrá anuncien a ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044007004",
+        "h23044007005"
+      ],
+      "issue": "renders 3fs suffixes as masculine 'lo'",
+      "spanishSpan": "lo anunciará, y lo ordenará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044007007",
+        "h23044007008",
+        "h23044007009"
+      ],
+      "issue": "mangles infinitive construct + nouns into 'mi poner pueblo de eternidad'",
+      "spanishSpan": "desde mi poner pueblo de eternidad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23044007005"
+      ],
+      "issue": "renders ערך as 'ordenará' (adds interpretive sense not licensed by lemma)",
+      "spanishSpan": "lo ordenará"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

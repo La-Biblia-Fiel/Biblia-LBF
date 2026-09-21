@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 33:4",
+  "chapter": 33,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y será recogido su botín de ustedes recogida de langosta; como correr de saltamontes corre en él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033004002"
+      ],
+      "issue": "2mp suffix rendered as mixed 3rd-person 'su' + 'de ustedes' instead of direct 2mp address",
+      "spanishSpan": "su botín de ustedes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23033004007"
+      ],
+      "issue": "adds finite verb 'corre' not licensed by the qal participle",
+      "spanishSpan": "corre en él"
+    }
+  ],
+  "notes": "2mp person mismatch on spoil is decisive fail",
+  "discardedUncitedFindings": 0
+}

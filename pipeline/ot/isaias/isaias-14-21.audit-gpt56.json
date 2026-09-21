@@ -1,0 +1,52 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 14:21",
+  "chapter": 14,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Preparen a sus hijos matadero por iniquidad de sus padres; no se levanten y hereden tierra, y llenen faces de mundo de ciudades.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014021002"
+      ],
+      "issue": "3ms suffix on 'sons' rendered as 'sus' in 2mp address context, altering participant reference",
+      "spanishSpan": "a sus hijos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014021001",
+        "h23014021003"
+      ],
+      "issue": "syntax and attachment of matbeah altered; tokens license 'prepare slaughter for his sons' not 'prepare sons slaughter'",
+      "spanishSpan": "Preparen a sus hijos matadero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014021007",
+        "h23014021008",
+        "h23014021010"
+      ],
+      "issue": "3mp verbs rendered with 2mp/subjunctive address forms, shifting participants",
+      "spanishSpan": "no se levanten y hereden ... y llenen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23014021011",
+        "h23014021012",
+        "h23014021013"
+      ],
+      "issue": "preposition and object structure for 'fill faces of world with cities' omitted and reordered",
+      "spanishSpan": "llenen faces de mundo de ciudades"
+    }
+  ],
+  "notes": "multiple participant and construction mismatches",
+  "discardedUncitedFindings": 0
+}

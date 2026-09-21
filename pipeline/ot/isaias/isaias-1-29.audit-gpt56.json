@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 1:29",
+  "chapter": 1,
+  "verse": 29,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque se avergonzarán de los terebintos que desearon, y se sonrojarán de los huertos que escogieron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23001029005",
+        "h23001029006",
+        "h23001029009"
+      ],
+      "issue": "changes 2mp verbs to 3p (desearon/escogieron/se ... will)",
+      "spanishSpan": "desearon, se sonrojarán, escogieron"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,175 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "exodo",
+  "label": "Éxodo",
+  "chapter": 4,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "passed": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30,
+    31
+  ],
+  "holds": [
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo: «Échalo a tierra». Y lo echó a tierra, y llegó a ser una serpiente; y Moisés huyó de delante de ella.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02004003007",
+            "h02004003010"
+          ],
+          "issue": "pronoun gender mismatch: 3ms suffix on פנים and Ncmsa נחש rendered as feminine 'ella'",
+          "spanishSpan": "de delante de ella"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y hablarás con él y pondrás las palabras en su boca; y yo estaré con tu boca y con su boca, y los instruiré sobre lo que harán.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02004015014",
+            "h02004015017"
+          ],
+          "issue": "changes 2mp addressee (אֶתְכֶם … תַּעֲשׂוּן) to 3p participant (los … harán)",
+          "spanishSpan": "los instruiré … lo que harán"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y fueron Moisés y Aarón, y reunieron a todos los ancianos de los hijos de Israel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02004029001"
+          ],
+          "issue": "changes Vqw3ms to plural verb, altering number of participants",
+          "spanishSpan": "fueron Moisés y Aarón"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-16T22:53:48.136419+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 62,
+    "verses": 31,
+    "input": 134285,
+    "cachedInput": 16896,
+    "output": 18789,
+    "reasoning": 29493,
+    "usd": 0.869,
+    "byProvider": {
+      "openai": {
+        "calls": 31,
+        "input": 66554,
+        "output": 17832,
+        "reasoning": 7771,
+        "usd": 0.6229
+      },
+      "xai": {
+        "calls": 31,
+        "input": 67731,
+        "output": 957,
+        "reasoning": 21722,
+        "usd": 0.2462
+      }
+    },
+    "byStage": {
+      "draft": {
+        "calls": 31,
+        "input": 66554,
+        "output": 17832,
+        "reasoning": 7771,
+        "usd": 0.6229
+      },
+      "audit-draft": {
+        "calls": 31,
+        "input": 67731,
+        "output": 957,
+        "reasoning": 21722,
+        "usd": 0.2462
+      }
+    },
+    "usdPerVerse": 0.028,
+    "bibleAtThisRate": 872.0,
+    "book": "exodo",
+    "chapter": 4
+  }
+}

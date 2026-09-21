@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 49:8",
+  "chapter": 49,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dijo Jehová: En tiempo de favor te respondí, y en día de salvación te ayudé; y te guardaré, y te daré por pacto de pueblo, para levantar tierra, para heredar heredades desoladas;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23049008016"
+      ],
+      "issue": "hiphil infinitive לְהַנְחִיל rendered as simple 'heredar' instead of causative 'causar heredar / dar en herencia'",
+      "spanishSpan": "para heredar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

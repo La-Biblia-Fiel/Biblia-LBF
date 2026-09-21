@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 54:3",
+  "chapter": 54,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque a derecha y a izquierda reventarás, y tu simiente naciones heredará, y ciudades asoladas habitarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23054003008",
+        "h23054003009",
+        "h23054003010"
+      ],
+      "issue": "reverses participants: Spanish makes cities the subject of inhabiting, but tokens have 3mp hiphil verb (they will cause to dwell/inhabit) with desolate cities as object",
+      "spanishSpan": "ciudades asoladas habitarán"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

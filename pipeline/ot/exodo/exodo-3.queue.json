@@ -1,0 +1,282 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "exodo",
+  "label": "Éxodo",
+  "chapter": 3,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    13,
+    15
+  ],
+  "holds": [
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ahora, he aquí, el clamor de los hijos de Israel ha llegado a mí; y también he visto la opresión con la cual Egipto los oprime.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003009014"
+          ],
+          "issue": "participle is masculine plural but Spanish renders as singular verb",
+          "spanishSpan": "oprime"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo: «Porque estaré contigo; y esto para ti, la señal de que yo te envié: cuando saques al pueblo de Egipto, servirán a Dios sobre este monte».",
+      "notes": "2fs suffix on עִמָּ֔ךְ also mismatches neutral Spanish but is secondary to person shift",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003012015"
+          ],
+          "issue": "changes 2mp verb to 3pl, shifting addressees to third party",
+          "spanishSpan": "servirán"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo Dios a Moisés: «Seré el que seré». Y dijo: «Así dirás a los hijos de Israel: “Seré me ha enviado a ustedes”».",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003014013",
+            "h02003014014",
+            "h02003014015"
+          ],
+          "issue": "last clause rendered as ungrammatical/misleading unit instead of preserving ehyeh as subject of shalachani + aleichem",
+          "spanishSpan": "Seré me ha enviado a ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ve y reúne a los ancianos de Israel, y diles: YHWH, el Dios de sus padres, se me apareció, el Dios de Abraham, Isaac y Jacob, diciendo: Ciertamente los he visitado a ustedes y lo que les es hecho en Egipto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003016010",
+            "h02003016020",
+            "h02003016023"
+          ],
+          "issue": "2mp suffixes rendered with 3p possessives/pronouns (sus, les) instead of 2p address to the elders",
+          "spanishSpan": "sus padres ... les es hecho"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dije: Los haré subir de la aflicción de Egipto a la tierra del cananeo, y del hitita, y del amorreo, y del ferezeo, y del heveo, y del jebuseo, a una tierra que fluye leche y miel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003017003"
+          ],
+          "issue": "2mp addressee rendered as 3p 'Los' (participant shift)",
+          "spanishSpan": "Los haré subir"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y escucharán tu voz; y vendrás tú y los ancianos de Israel al rey de Egipto, y le dirán: «YHWH, Dios de los hebreos, se encontró con nosotros; y ahora, por favor, vayamos camino de tres días por el desierto y sacrifiquemos a YHWH nuestro Dios».",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003018010"
+          ],
+          "issue": "2mp verb rendered as 3pl, shifting addressees to third party",
+          "spanishSpan": "y le dirán"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y yo sé que el rey de Egipto no los dejará ir, y no con mano fuerte.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003019006"
+          ],
+          "issue": "2mp suffix rendered as 3mp object (los) instead of 2nd-person addressees",
+          "spanishSpan": "no los dejará ir"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y enviaré mi mano y heriré a Egipto con todas mis maravillas que haré en medio de él; y después de eso los enviará.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003020014",
+            "h02003020015"
+          ],
+          "issue": "changes 2mp object אתכם to 3mp los; 2pl addressees become third party",
+          "spanishSpan": "los enviará"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y daré la gracia de este pueblo ante los ojos de Egipto; y será que, cuando se vayan, no se irán vacíos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003021010",
+            "h02003021012"
+          ],
+          "issue": "2mp verbs rendered as 3rd-person se vayan / se irán instead of 2pl address to the addressees",
+          "spanishSpan": "cuando se vayan, no se irán"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y cada mujer pedirá a su vecina y a la que reside en su casa objetos de plata, objetos de oro y vestidos; y pondrán sobre sus hijos y sobre sus hijas, y despojarán a Egipto.",
+      "notes": "person shift and added quantifier both unlicensed",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003022002"
+          ],
+          "issue": "adds 'cada' not present in the token",
+          "spanishSpan": "cada mujer"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02003022011",
+            "h02003022016"
+          ],
+          "issue": "2mp verbs rendered so sentence structure makes 3rd-party participants (women) instead of 2pl addressees",
+          "spanishSpan": "y pondrán ... y despojarán"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-16T22:35:20.118139+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 44,
+    "verses": 22,
+    "input": 108205,
+    "cachedInput": 9984,
+    "output": 15959,
+    "reasoning": 26976,
+    "usd": 0.7326,
+    "byProvider": {
+      "openai": {
+        "calls": 22,
+        "input": 53674,
+        "output": 14639,
+        "reasoning": 6450,
+        "usd": 0.5075
+      },
+      "xai": {
+        "calls": 22,
+        "input": 54531,
+        "output": 1320,
+        "reasoning": 20526,
+        "usd": 0.2252
+      }
+    },
+    "byStage": {
+      "draft": {
+        "calls": 22,
+        "input": 53674,
+        "output": 14639,
+        "reasoning": 6450,
+        "usd": 0.5075
+      },
+      "audit-draft": {
+        "calls": 22,
+        "input": 54531,
+        "output": 1320,
+        "reasoning": 20526,
+        "usd": 0.2252
+      }
+    },
+    "usdPerVerse": 0.0333,
+    "bibleAtThisRate": 1036.0,
+    "book": "exodo",
+    "chapter": 3
+  }
+}

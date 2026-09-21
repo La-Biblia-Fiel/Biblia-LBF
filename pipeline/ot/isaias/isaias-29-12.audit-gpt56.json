@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 29:12",
+  "chapter": 29,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y es dado el libro sobre el que no sabe libro, diciendo: Lee ahora esto; y dice: No supe libro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029012003",
+        "h23029012004",
+        "h23029012005",
+        "h23029012006",
+        "h23029012007"
+      ],
+      "issue": "misparses relative clause as modifying 'libro' instead of indicating recipient who cannot read",
+      "spanishSpan": "el libro sobre el que no sabe libro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23029012001"
+      ],
+      "issue": "Niphal passive 'es dado' ok, but overall clause attachment alters who receives the book",
+      "spanishSpan": "Y es dado el libro sobre el que"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23029012014"
+      ],
+      "issue": "perfect 1cs rendered as preterite 'supe' instead of stative present sense",
+      "spanishSpan": "No supe libro"
+    }
+  ],
+  "notes": "structure changes participant reference",
+  "discardedUncitedFindings": 0
+}

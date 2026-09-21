@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:15",
+  "chapter": 15,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Tú sabes, SEÑOR, acuérdate de mí, y visítame, y venga venganza por mí de mis perseguidores; no tomes paciencia con tu ira, toma venganza de mí; sé que me has hecho objeto de escarnio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015015009",
+        "h24015015010",
+        "h24015015011",
+        "h24015015012"
+      ],
+      "issue": "renders אַל לְאֶרֶךְ אַפְּךָ תִּקָּחֵנִי as 'no tomes paciencia con tu ira' (introduces 'paciencia' concept and drops 'take me')",
+      "spanishSpan": "no tomes paciencia con tu ira"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015015006",
+        "h24015015007",
+        "h24015015008"
+      ],
+      "issue": "adds second 'toma venganza de mí' with no token support after the single נקם clause",
+      "spanishSpan": "toma venganza de mí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015015013",
+        "h24015015014",
+        "h24015015015",
+        "h24015015016"
+      ],
+      "issue": "renders דַּע שְׂאֵתִי עָלֶיךָ חֶרְפָּה as 'sé que me has hecho objeto de escarnio' (adds 'has hecho' and changes participants)",
+      "spanishSpan": "sé que me has hecho objeto de escarnio"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

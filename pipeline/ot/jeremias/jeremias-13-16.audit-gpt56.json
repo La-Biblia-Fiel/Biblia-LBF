@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:16",
+  "chapter": 13,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Dad gloria a Jehová, su Dios, antes que os oscurezca y antes que sus pierns se tambaleen sobre los montes de la tarde, y esperéis la luz y os convierta en tinieblas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013016009"
+      ],
+      "issue": "רַגְלֵיכֶ֖ם is 2mp 'your legs'; Spanish 'sus pierns' uses 3rd-person possessive",
+      "spanishSpan": "sus pierns"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013016015",
+        "h24013016016",
+        "h24013016017"
+      ],
+      "issue": "וְשָׂמָ֣הּ לְצַלְמָ֔וֶת לַעֲרָפֶֽל is 'he will make it into deep darkness and gloom'; Spanish changes subject and object to 'os convierta en tinieblas'",
+      "spanishSpan": "y os convierta en tinieblas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013016008",
+        "h24013016009"
+      ],
+      "issue": "hithpael 'they will stumble' on 2mp legs rendered with mismatched 3rd-person subject",
+      "spanishSpan": "sus pierns se tambaleen"
+    }
+  ],
+  "notes": "multiple person and participant mismatches plus final clause rewrite",
+  "discardedUncitedFindings": 0
+}

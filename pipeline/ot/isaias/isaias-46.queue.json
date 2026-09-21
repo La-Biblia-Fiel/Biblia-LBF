@@ -1,0 +1,216 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 46,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "passed": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    12
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Se encorvaron, se doblaron a una; no pudieron escapar la carga, y su alma en el cautiverio fue.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046002006",
+            "h23046002007"
+          ],
+          "issue": "מלט piel inf construct + משא rendered as 'escapar la carga' (escape), but lemma is deliver/rescue, not escape",
+          "spanishSpan": "escapar la carga"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Oigan a mí, casa de Yaakov, y todo resto de casa de Israel, los cargados desde el vientre, los llevados desde la matriz.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046003004"
+          ],
+          "issue": "Hebraizes proper name instead of conventional Spanish form",
+          "spanishSpan": "Yaakov"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y hasta vejez yo él, y hasta canas yo llevaré; yo hice, y yo llevaré, y yo soportaré, y escaparé.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046004015"
+          ],
+          "issue": "piel מלט rendered as 'escaparé' (I will escape) instead of deliver/rescue",
+          "spanishSpan": "y escaparé"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Acuerden primeras desde siempre, porque yo Dios, y no hay más; Dios, y no hay como yo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046009006",
+            "h23046009009"
+          ],
+          "issue": "renders non-name lemmas אל and אלהים as Spanish 'Dios'",
+          "spanishSpan": "yo Dios ... Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046009009"
+          ],
+          "issue": "inserts standalone 'Dios' not licensed by the token sequence or morphology",
+          "spanishSpan": "; Dios,"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Anunciador desde principio fin, y desde antiguo lo que no fueron hechas; dice: Mi consejo se levantará, y todo mi deseo haré.",
+      "notes": "multiple structural and morphological mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046010001"
+          ],
+          "issue": "participle rendered as noun 'Anunciador' instead of verbal form",
+          "spanishSpan": "Anunciador"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046010002",
+            "h23046010003"
+          ],
+          "issue": "compressed 'desde principio fin' omits proper linkage between the two nouns",
+          "spanishSpan": "desde principio fin"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046010005",
+            "h23046010006",
+            "h23046010007"
+          ],
+          "issue": "relative clause attachment and phrasing altered by 'lo que no fueron hechas'",
+          "spanishSpan": "lo que no fueron hechas"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Llamando desde oriente ave de rapiña, de tierra de lejanía varón de mi consejo; aun hablé, aun la traeré; formé, aun la haré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046011006"
+          ],
+          "issue": "adds 'de mi consejo' with no supporting token or lemma",
+          "spanishSpan": "varón de mi consejo"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Acerqué mi justicia; no se alejará, y mi salvación no tardará; y pondré en Tsiyón salvación, a Israel mi hermosura.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23046013009"
+          ],
+          "issue": "Hebraized proper name Tsiyón instead of conventional Spanish form",
+          "spanishSpan": "Tsiyón"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T20:53:02.297589+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 13,
+    "verses": 13,
+    "input": 26690,
+    "cachedInput": 11648,
+    "output": 892,
+    "reasoning": 11935,
+    "usd": 0.1129,
+    "byProvider": {
+      "xai": {
+        "calls": 13,
+        "input": 26690,
+        "output": 892,
+        "reasoning": 11935,
+        "usd": 0.1129
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 13,
+        "input": 26690,
+        "output": 892,
+        "reasoning": 11935,
+        "usd": 0.1129
+      }
+    },
+    "usdPerVerse": 0.0087,
+    "bibleAtThisRate": 270.0,
+    "book": "isaias",
+    "chapter": 46
+  }
+}

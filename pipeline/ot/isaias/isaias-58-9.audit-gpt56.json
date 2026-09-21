@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 58:9",
+  "chapter": 58,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Entonces llamarás, y Jehová responderá; clamarás, y dirá: Heme aquí; si quitas de en medio de ti yugo, enviar dedo y hablar iniquidad,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23058009012",
+        "h23058009013",
+        "h23058009014",
+        "h23058009015"
+      ],
+      "issue": "infinitives rendered as bare verbs instead of nominal phrases; omits required structure of 'sending finger' and 'speaking iniquity' as objects of removal",
+      "spanishSpan": "enviar dedo y hablar iniquidad"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23058009010",
+        "h23058009011"
+      ],
+      "issue": "word order and article omission distort 'remove yoke from your midst'",
+      "spanishSpan": "quitas de en medio de ti yugo"
+    }
+  ],
+  "notes": "syntactic mismatch on conditional clause",
+  "discardedUncitedFindings": 0
+}

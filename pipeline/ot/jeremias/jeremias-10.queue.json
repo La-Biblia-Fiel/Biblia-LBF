@@ -1,0 +1,672 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "jeremias",
+  "label": "Jeremías",
+  "chapter": 10,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "passed": [
+    1,
+    6,
+    12,
+    15
+  ],
+  "holds": [
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así ha dicho Jehová: No aprendáis el camino de las naciones, ni os dejéis llevar por los signos de los cielos; porque los gentiles se asombran de ellos.",
+      "notes": "smoothing changes verb sense",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010002012"
+          ],
+          "issue": "Niphal jussive of 2865 rendered as 'os dejéis llevar' (introduces 'carry/lead' concept absent from lemma and morph)",
+          "spanishSpan": "ni os dejéis llevar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010002014"
+          ],
+          "issue": "qal impf of 2865 rendered as 'se asombran' (introduces 'astonish/marvel' nuance not licensed by lemma)",
+          "spanishSpan": "se asombran"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque las costumbres de los pueblos son vanidad; porque cortan un árbol del bosque, obra de manos de labriego con hacha.",
+      "notes": "multiple morphology and lexical mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010003009"
+          ],
+          "issue": "verb changed from 3ms perfect (כְּרָת֔וֹ) to 3pl present (cortan); number, person and aspect altered",
+          "spanishSpan": "cortan"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010003012"
+          ],
+          "issue": "חָרָשׁ rendered as labriego (plowman/farmer) instead of craftsman/artisan",
+          "spanishSpan": "labriego"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010003004",
+            "h24010003005"
+          ],
+          "issue": "הֶבֶל הוּא (singular it is vanity) rendered with plural verb son",
+          "spanishSpan": "son vanidad"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Lo recubren de plata y de oro; lo sujetan con clavos y con martillos, para que no se mueva.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010004003"
+          ],
+          "issue": "adds 'recubren' (cover) concept; lemma H3302 only licenses 'make beautiful/adorn'",
+          "spanishSpan": "Lo recubren de plata y de oro"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Como un sauce en el bosque, son ellos, y no hablan; llevárselos pueden, porque no pueden andar; no temáis de ellos, porque no pueden hacer mal, ni hay en ellos provecho alguno.",
+      "notes": "initial image and several lexical choices unlicensed by tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010005001",
+            "h24010005002"
+          ],
+          "issue": "Spanish renders construct chain as 'sauce en el bosque' instead of licensed 'like a palm-tree of a cucumber-field'",
+          "spanishSpan": "Como un sauce en el bosque"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010005012"
+          ],
+          "issue": "2mp jussive rendered with vosotros 'temáis' instead of licensed ustedes form",
+          "spanishSpan": "no temáis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010005016",
+            "h24010005018",
+            "h24010005019"
+          ],
+          "issue": "adds 'pueden' and replaces 'hacer bien' with 'provecho alguno'",
+          "spanishSpan": "porque no pueden hacer mal, ni hay en ellos provecho alguno"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Quién no temerá delante de ti, oh rey de las naciones? Porque a ti se encaminan; porque entre todos los sabios de las naciones y entre todos los reyes de la tierra, no hay como ti.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010007014"
+          ],
+          "issue": "מַלְכוּתָם rendered as 'reyes de la tierra' (adds 'tierra', changes kingdoms to kings)",
+          "spanishSpan": "reyes de la tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010007008"
+          ],
+          "issue": "יָאָתָה (3fs perfect) rendered as plural 'se encaminan' with no licensed subject",
+          "spanishSpan": "se encaminan"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y en una vez se encenderán y se consumirán; son vanidad, son obra de tallador de madera.",
+      "notes": "multiple lexical and structural mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010008003"
+          ],
+          "issue": "יכסלו (be foolish) rendered as se consumirán (be consumed)",
+          "spanishSpan": "se consumirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010008004",
+            "h24010008005"
+          ],
+          "issue": "מוסר הבלים (discipline of vanities) rendered as son vanidad, omitting construct relation",
+          "spanishSpan": "son vanidad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010008006",
+            "h24010008007"
+          ],
+          "issue": "עץ הוא (wood it is) rendered as obra de tallador de madera (work of wood carver)",
+          "spanishSpan": "son obra de tallador de madera"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Plata de Tarshis se traerá, y oro de Uphaz, obra de labriego y de fundidor; azul y púrpura será su vestido, obra de sabios todos ellos.",
+      "notes": "labriego is unlicensed for חָרָשׁ",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010009002"
+          ],
+          "issue": "omits מְרֻקָּע (beaten/hammered) modifying the silver",
+          "spanishSpan": "Plata de Tarshis"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010009008",
+            "h24010009009",
+            "h24010009010"
+          ],
+          "issue": "misrepresents חָרָשׁ וִידֵי צוֹרֵף as 'obra de labriego y de fundidor'",
+          "spanishSpan": "obra de labriego y de fundidor"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Jehová es Dios verdadero, Dios vivo y rey eterno; por su ira tiemblan las tierras, y los pueblos no pueden soportar su furor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010010011",
+            "h24010010010"
+          ],
+          "issue": "changes number of הָאָ֔רֶץ from singular to plural 'tierras' and verb agreement from 3fs to plural",
+          "spanishSpan": "las tierras tiemblan"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así les dirán: Dios que no han servido, ni el cielo ni la tierra, perecerán de la tierra y del cielo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010011004"
+          ],
+          "issue": "plural 'gods' rendered as singular 'Dios'",
+          "spanishSpan": "Dios"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010011009"
+          ],
+          "issue": "verb 'made/did' rendered as 'han servido'",
+          "spanishSpan": "han servido"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010011013",
+            "h24010011014"
+          ],
+          "issue": "omits 'under the heavens'",
+          "spanishSpan": "del cielo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010011005",
+            "h24010011006",
+            "h24010011007"
+          ],
+          "issue": "relative clause structure and 'made the heavens and the earth' mangled into 'ni el cielo ni la tierra'",
+          "spanishSpan": "que no han servido, ni el cielo ni la tierra"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Por su voz hace rugir las aguas en los cielos, y hace subir nubes desde los confines de la tierra; hace relampaguear la lluvia y saca el viento de sus tesoros.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010013008"
+          ],
+          "issue": "adds 'de la tierra' with no corresponding token or lemma in packet",
+          "spanishSpan": "desde los confines de la tierra"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Todo hombre se avergüenza de su entendimiento, y todo fundidor de su estatua; porque es mentira su ofrenda, y no hay espíritu en ellas.",
+      "notes": "first clause verb and structure wholly mismatched",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010014001",
+            "h24010014004"
+          ],
+          "issue": "Spanish applies shame verb to 'man' and renders מִדַּעַת as 'de su entendimiento'; tokens show Niphal בָּעַר + מִן + דַּעַת",
+          "spanishSpan": "Todo hombre se avergüenza de su entendimiento"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010014005",
+            "h24010014006",
+            "h24010014007",
+            "h24010014008"
+          ],
+          "issue": "Spanish attaches shame to 'fundidor' and 'estatua' as if one phrase; tokens separate two clauses with different verbs and objects",
+          "spanishSpan": "y todo fundidor de su estatua"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010014011"
+          ],
+          "issue": "נִסְכּוֹ rendered as 'ofrenda' (libation sense) instead of molten image/statue sense licensed by context of פֶּסֶל",
+          "spanishSpan": "su ofrenda"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010014014"
+          ],
+          "issue": "suffix בָּם is 3mp; Spanish 'ellas' shifts gender without token license",
+          "spanishSpan": "en ellas"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "No son como estos el porción de Jacob, porque el que hizo todo es él, y Israel es el bastón de su heredad; Jehová de los ejércitos es su nombre.",
+      "notes": "minor grammar mismatch but alters number agreement",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010016003"
+          ],
+          "issue": "Spanish uses plural verb 'son' with singular subject 'porción'",
+          "spanishSpan": "No son"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Reúne de la tierra tu grey, me siento en el monte.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010017003"
+          ],
+          "issue": "כִּנְעָתֵךְ (H3666, merchandise/wares 2fs) rendered as 'tu grey' (flock)",
+          "spanishSpan": "tu grey"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010017004"
+          ],
+          "issue": "בַּמָּצוֹר (in the siege) rendered as 'me siento en el monte'",
+          "spanishSpan": "me siento en el monte"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque así ha dicho Jehová: He aquí que yo azotaré a los habitantes de la tierra en este tiempo, y los apretaré para que busquen.",
+      "notes": "two lexical mismatches change licensed sense",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010018006"
+          ],
+          "issue": "Spanish renders קוֹלֵעַ (qal active participle 'slinging') as 'azotaré' (whip/scourge), changing the verb action",
+          "spanishSpan": "azotaré"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010018015"
+          ],
+          "issue": "Spanish renders יִמְצָאוּ ('they may find') as 'busquen' (seek), altering the verb meaning",
+          "spanishSpan": "busquen"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Ay de mí por mi herida, mi heredad es la destrucción mía; y yo dije: Esto es enfermedad, y la soportaré.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010019005"
+          ],
+          "issue": "Spanish renders נחלה as 'mi heredad' (inheritance) but token lemma is 2470a / H2470 (חלה Niphal 'be sick/sickened')",
+          "spanishSpan": "mi heredad es la destrucción mía"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Mi tienda es robada, y todo lo que me queda se ha ido; mis hijos salieron de mí, y no están; ya no tendré tienda, ni levantaré cortinas.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010020009",
+            "h24010020010",
+            "h24010020011",
+            "h24010020012",
+            "h24010020013",
+            "h24010020014"
+          ],
+          "issue": "changes impersonal negative existence of participles (no one stretching/raising) into 1cs future agency 'ya no tendré... ni levantaré'",
+          "spanishSpan": "ya no tendré tienda, ni levantaré cortinas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010020003",
+            "h24010020004",
+            "h24010020005"
+          ],
+          "issue": "paraphrases 'all my cords are torn away' as 'todo lo que me queda se ha ido'",
+          "spanishSpan": "todo lo que me queda se ha ido"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque los pastores se han perdido, y no han buscado a Jehová; por eso no han entendido, y toda su apacentamiento se ha dispersado.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010021002"
+          ],
+          "issue": "נִבְעֲרוּ (niphal of בָּעַר) rendered as 'se han perdido' (lost); lemma licenses brutish/burned/senseless, not lost",
+          "spanishSpan": "se han perdido"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "He aquí que viene una voz y un gran estruendo del norte para hacer desiertas las ciudades de Judá, morada de los dragones.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010022001",
+            "h24010022002",
+            "h24010022005"
+          ],
+          "issue": "Spanish renders קול שמועה as 'una voz y un gran estruendo', inserting conjunction and treating רעש as coordinate rather than separate noun after the construct phrase",
+          "spanishSpan": "una voz y un gran estruendo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010022002"
+          ],
+          "issue": "שְׁמוּעָה (report/tidings) is omitted or conflated",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Señor, sé que no es camino para el hombre, ni para el hombre que anda, conocer sus pasos.",
+      "notes": "Spanish adds and changes verbal concepts not licensed by the tokens.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010023001",
+            "h24010023002"
+          ],
+          "issue": "YHWH rendered as Señor instead of Jehová",
+          "spanishSpan": "Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010023005",
+            "h24010023006"
+          ],
+          "issue": "restructures לֹא לָאָדָם דַּרְכּוֹ as 'no es camino para el hombre' and adds 'conocer'",
+          "spanishSpan": "no es camino para el hombre"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010023010",
+            "h24010023012"
+          ],
+          "issue": "וְהָכִין אֶת־צַעֲדוֹ rendered as 'conocer sus pasos' (adds conocer; changes establish to know)",
+          "spanishSpan": "conocer sus pasos"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Señor, me corrijes con justicia, pero no con tu ira, o me harás menos que nada.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010024002"
+          ],
+          "issue": "יהוה rendered as Señor instead of Jehová",
+          "spanishSpan": "Señor"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010024001"
+          ],
+          "issue": "piel imperative 2ms changed to present indicative",
+          "spanishSpan": "me corrijes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010024003"
+          ],
+          "issue": "affirmative אַךְ rendered as contrastive pero",
+          "spanishSpan": "pero"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010024007",
+            "h24010024008"
+          ],
+          "issue": "פֶּן + hiphil rendered as o me harás menos que nada, adding que nada and changing structure",
+          "spanishSpan": "o me harás menos que nada"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Derrama tu ira sobre las naciones que no te conocen, y sobre las tribus que en tu nombre no invocan, porque han devorado a Jacob y ahora lo consumen y han hecho de su heredad un desierto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010025019"
+          ],
+          "issue": "inserted 'ahora' with no licensing token",
+          "spanishSpan": "ahora lo consumen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010025021"
+          ],
+          "issue": "heredad replaces נָוֵהוּ (habitation/pasture)",
+          "spanishSpan": "su heredad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h24010025009"
+          ],
+          "issue": "tribus for מִשְׁפָּחוֹת without packet license for that rendering",
+          "spanishSpan": "las tribus"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-20T01:29:25.447645+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 25,
+    "verses": 25,
+    "input": 53314,
+    "cachedInput": 16768,
+    "output": 3927,
+    "reasoning": 22449,
+    "usd": 0.2397,
+    "byProvider": {
+      "xai": {
+        "calls": 25,
+        "input": 53314,
+        "output": 3927,
+        "reasoning": 22449,
+        "usd": 0.2397
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 25,
+        "input": 53314,
+        "output": 3927,
+        "reasoning": 22449,
+        "usd": 0.2397
+      }
+    },
+    "usdPerVerse": 0.0096,
+    "bibleAtThisRate": 298.0,
+    "book": "jeremias",
+    "chapter": 10
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 53,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "passed": [
+    2,
+    4,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Quién creyó a nuestro oído, y brazo de Jehová sobre quién fue revelado?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23053001003"
+          ],
+          "issue": "renders שמועה (report/message) as 'oído' (ear/hearing)",
+          "spanishSpan": "a nuestro oído"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Despreciado y dejado de hombres, varón de dolores y conocido de enfermedad; y como ocultador de faces de él, despreciado, y no lo estimamos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23053003010"
+          ],
+          "issue": "Spanish inserts 'de él' (him) for the 1cp suffix on מִמֶּנּוּ; tokens require 'from us'",
+          "spanishSpan": "de él"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23053003008",
+            "h23053003009"
+          ],
+          "issue": "Spanish renders מַסְתֵּר פָּנִים as 'ocultador de faces' (personal agent hider), adding personhood and reassigning the faces not licensed by the construct noun + plural",
+          "spanishSpan": "como ocultador de faces"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y él traspasado por nuestras rebeliones, molido por nuestras iniquidades; castigo de nuestra paz sobre él, y por su herida fue sanado a nosotros.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23053005009",
+            "h23053005010",
+            "h23053005011"
+          ],
+          "issue": "participant shift: healing attributed to él instead of לָנוּ (we were healed)",
+          "spanishSpan": "fue sanado a nosotros"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23053005003",
+            "h23053005005"
+          ],
+          "issue": "מִן rendered as 'por' (cause) instead of licensed 'de' (from)",
+          "spanishSpan": "por nuestras rebeliones, ... por nuestras iniquidades"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y Jehová quiso aplastarlo; lo enfermó. Si pones ofrenda por culpa su alma, verá simiente, alargará días, y el querer de Jehová en su mano prosperará.",
+      "notes": "first clause and final clause match tokens; conditional clause does not",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23053010006"
+          ],
+          "issue": "verb morphology 3fs rendered as 2s tú form (pones) instead of preserving 3fs subject",
+          "spanishSpan": "Si pones"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23053010006",
+            "h23053010007",
+            "h23053010008"
+          ],
+          "issue": "word order and participant structure altered; Spanish fails to keep נפשו as the 3fs subject performing the action on אשם",
+          "spanishSpan": "Si pones ofrenda por culpa su alma"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:15:41.404346+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 12,
+    "verses": 12,
+    "input": 27240,
+    "cachedInput": 8640,
+    "output": 798,
+    "reasoning": 11190,
+    "usd": 0.1134,
+    "byProvider": {
+      "xai": {
+        "calls": 12,
+        "input": 27240,
+        "output": 798,
+        "reasoning": 11190,
+        "usd": 0.1134
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 12,
+        "input": 27240,
+        "output": 798,
+        "reasoning": 11190,
+        "usd": 0.1134
+      }
+    },
+    "usdPerVerse": 0.0095,
+    "bibleAtThisRate": 294.0,
+    "book": "isaias",
+    "chapter": 53
+  }
+}

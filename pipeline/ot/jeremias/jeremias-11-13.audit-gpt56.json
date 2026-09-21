@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:13",
+  "chapter": 11,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque el número de tus ciudades, oh Judá, es el número de tus dioses; y en el número de las calles de Jerusalén han puesto altares para la vergüenza, altares para quemar incienso a Baal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011013010"
+      ],
+      "issue": "2mp verb rendered as 3pl 'han puesto' instead of 2mp 'han puesto ustedes'",
+      "spanishSpan": "han puesto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011013007"
+      ],
+      "issue": "adds 'en' before 'el número', changing parallel construct to locative",
+      "spanishSpan": "en el número"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011013006"
+      ],
+      "issue": "inserts 'oh' before proper name not licensed by token",
+      "spanishSpan": "oh Judá"
+    }
+  ],
+  "notes": "2mp participant shift is decisive fail",
+  "discardedUncitedFindings": 0
+}

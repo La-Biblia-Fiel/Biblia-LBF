@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:23",
+  "chapter": 17,
+  "verse": 23,
+  "candidateLabel": "gpt56",
+  "spanish": "Pero no escucharon, ni inclinaron sus oídos, sino que endurecieron sus cuellos para no oír ni recibir corrección.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017023010",
+        "h24017023011",
+        "h24017023012",
+        "h24017023013"
+      ],
+      "issue": "adds 'oír' in purpose clause; tokens only license 'no ... recibir corrección'",
+      "spanishSpan": "para no oír ni recibir corrección"
+    }
+  ],
+  "notes": "conjunction smoothing and 'pero' are minor; the added verb is decisive",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,693 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 37,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "passed": [
+    7,
+    11,
+    15,
+    17,
+    18,
+    23,
+    26,
+    28,
+    29,
+    30,
+    33,
+    35,
+    36,
+    37
+  ],
+  "holds": [
+    {
+      "verse": 1,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y fue, en oír el rey Jizqiyahu, y rasgó sus vestidos, y se cubrió en el saco, y vino casa de Jehová.",
+      "notes": "name rendering violates proper-name rule",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037001004"
+          ],
+          "issue": "Hebraized proper name instead of conventional Spanish form",
+          "spanishSpan": "Jizqiyahu"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y envió a Elyaqim que sobre la casa, y a Shevná el escriba, y a ancianos de los sacerdotes, cubriéndose en los sacos, a Yeshayahu hijo de Amots el profeta.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037002015",
+            "h23037002016",
+            "h23037002017",
+            "h23037002018",
+            "h23037002019"
+          ],
+          "issue": "misplaces recipient preposition אֶל and treats Yeshayahu as parallel sent object rather than destination of the delegation",
+          "spanishSpan": "a Yeshayahu hijo de Amots el profeta"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "stage": "lint",
+      "verdict": "fail",
+      "spanish": "Y dijeron a él: Así dijo Jizqiyahu: Día de aprieto y reprensión y desprecio el día este; porque vinieron hijos hasta quebradero, y fuerza no hay para parir.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [],
+          "issue": "archaic parir",
+          "spanishSpan": "parir"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Quizá oirá Jehová tu Dios las palabras de Rav-shaqé que lo envió rey de Ashur sus señores para afrentar a Dios vivo, y reprenderá en las palabras que oyó Jehová tu Dios; y alzarás oración por el resto el hallado.",
+      "notes": "multiple structural and naming mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037004007",
+            "h23037004008",
+            "h23037004012"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Rav-shaqé ... Ashur"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037004011",
+            "h23037004013"
+          ],
+          "issue": "garbled syntax and participant roles for 'king of Ashur his lords'",
+          "spanishSpan": "rey de Ashur sus señores"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037004026",
+            "h23037004027"
+          ],
+          "issue": "omits relative structure and gender of remnant",
+          "spanishSpan": "el resto el hallado"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y vinieron siervos del rey Jizqiyahu a Yeshayahu.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037005004",
+            "h23037005006"
+          ],
+          "issue": "Hebraizes proper names (Jizqiyahu, Yeshayahu) instead of conventional Spanish forms licensed by packet labels and PROPER_NAMES guidance",
+          "spanishSpan": "Jizqiyahu a Yeshayahu"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo a ellos Yeshayahu: Así dirán a sus señores de ustedes: Así dijo Jehová: No temas de faces de las palabras que oíste, que blasfemaron mozos de rey de Ashur a mí.",
+      "notes": "2pl addressees mishandled; additional minor phrasing issues",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037006005"
+          ],
+          "issue": "2mp verb תֹאמְר֖וּן rendered as 3pl dirán instead of 2pl address",
+          "spanishSpan": "Así dirán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037006007"
+          ],
+          "issue": "2mp suffix on אֲדֹנֵיכֶ֑ם rendered with awkward non-matching phrasing",
+          "spanishSpan": "sus señores de ustedes"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y volvió Rav-shaqé, y halló a rey de Ashur combatiendo sobre Livná, porque oyó que partió de Lajish.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037008007",
+            "h23037008010",
+            "h23037008015"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Ashur ... Livná ... Lajish"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037008006"
+          ],
+          "issue": "omits required definite article before construct noun",
+          "spanishSpan": "a rey de Ashur"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y oyó a Tirhaqá rey de Kush, diciendo: Salió para combatir contigo; y oyó, y envió mensajeros a Jizqiyahu, diciendo:",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037009002"
+          ],
+          "issue": "עַל rendered as direct-object 'a' instead of 'sobre'/'acerca de'",
+          "spanishSpan": "oyó a Tirhaqá"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Así dirán a Jizqiyahu rey de Yehudá, diciendo: No te engañe tu Dios que tú confiando en él, diciendo: No será dada Yerushaláyim en mano de rey de Ashur.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037010004",
+            "h23037010006",
+            "h23037010018",
+            "h23037010021"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Jizqiyahu rey de Yehudá ... Yerushaláyim ... Ashur"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Acaso libraron a ellos dioses de las naciones que destruyeron mis padres, a Gozán y a Jarán y Rétséf y hijos de Édén que en Telasar?",
+      "notes": "names themselves are conventional forms",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037012001",
+            "h23037012002",
+            "h23037012003",
+            "h23037012004",
+            "h23037012005",
+            "h23037012006",
+            "h23037012007",
+            "h23037012008",
+            "h23037012009",
+            "h23037012010",
+            "h23037012011",
+            "h23037012012",
+            "h23037012013",
+            "h23037012014",
+            "h23037012015",
+            "h23037012016"
+          ],
+          "issue": "Spanish word order and comma after 'padres' misattach the object list, altering who/what is destroyed and who the subject of 'libraron' acts upon",
+          "spanishSpan": "libraron a ellos dioses de las naciones que destruyeron mis padres, a Gozán y a Jarán y Rétséf y hijos de Édén que en Telasar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037012015",
+            "h23037012016"
+          ],
+          "issue": "omits the implied verb 'están' or equivalent after the relative אֲשֶׁר",
+          "spanishSpan": "que en Telasar"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "¿Dónde rey de Jamat y rey de Arpad y rey a la ciudad Sefarváyim, Hena e Ivá?",
+      "notes": "also spelling 'Jamat' for חֲמָת but main structural failures are decisive",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037013006",
+            "h23037013007"
+          ],
+          "issue": "wrong preposition and structure: 'rey a la ciudad' instead of 'rey de la ciudad'",
+          "spanishSpan": "rey a la ciudad"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037013007",
+            "h23037013008",
+            "h23037013009",
+            "h23037013010"
+          ],
+          "issue": "collapses three separate kings (Sepharvaim, Hena, Ivah) into malformed single phrase",
+          "spanishSpan": "rey a la ciudad Sefarváyim, Hena e Ivá"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y tomó Jizqiyahu los rollos de mano de los mensajeros, y lo leyó; y subió casa de Jehová, y lo extendió Jizqiyahu delante de Jehová.",
+      "notes": "multiple token mismatches",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037014009",
+            "h23037014010"
+          ],
+          "issue": "omits required locative 'to the house' after verb of ascent; Spanish 'subió casa' is ungrammatical and incomplete",
+          "spanishSpan": "subió casa de Jehová"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037014002",
+            "h23037014012"
+          ],
+          "issue": "Hebraized proper name Jizqiyahu instead of conventional Spanish form",
+          "spanishSpan": "Jizqiyahu"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037014005"
+          ],
+          "issue": "awkward phrasing 'rollos de mano de' distorts 'from the hand of'",
+          "spanishSpan": "los rollos de mano de los mensajeros"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Jehová de ejércitos, Dios de Israel, habitante de los keruvím, tú él el Dios solo a ti a todos reinos de la tierra; tú hiciste los cielos y la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037016007",
+            "h23037016008",
+            "h23037016009",
+            "h23037016010"
+          ],
+          "issue": "adds 'a ti' and mangles 'אתה הוא האלהים לבדך' into ungrammatical 'tú él el Dios solo a ti'",
+          "spanishSpan": "tú él el Dios solo a ti a todos reinos de la tierra"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037016012"
+          ],
+          "issue": "renders ממלכות (feminine) as masculine 'reinos'",
+          "spanishSpan": "reinos"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "y dieron a sus dioses en el fuego, porque no dioses ellos, porque si obra de manos de humano, madera y piedra, y los perdieron.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037019016"
+          ],
+          "issue": "וַיְאַבְּדוּם (piel destroy) rendered as 'perdieron' (lost)",
+          "spanishSpan": "y los perdieron"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037019009",
+            "h23037019010"
+          ],
+          "issue": "כִּי אִם (but/only) rendered as 'porque si' (because if)",
+          "spanishSpan": "porque si obra"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ahora, Jehová nuestro Dios, sálvanos de su mano, y sabrán todos reinos de la tierra que tú Jehová solo a ti.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037020011",
+            "h23037020012",
+            "h23037020013"
+          ],
+          "issue": "final clause rendered as incomplete 'solo a ti' instead of licensed 'tú ... solo' (you alone)",
+          "spanishSpan": "que tú Jehová solo a ti"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y envió Yeshayahu hijo de Amots a Jizqiyahu, diciendo: Así dijo Jehová Dios de Israel: Lo que oraste a mí a Sanjerib rey de Ashur,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037021002",
+            "h23037021004",
+            "h23037021006",
+            "h23037021017",
+            "h23037021019"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Yeshayahu ... Amots ... Jizqiyahu ... Sanjerib ... Ashur"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037021016"
+          ],
+          "issue": "renders אֶל as 'a' creating incorrect sense of praying to the king rather than concerning the king",
+          "spanishSpan": "a Sanjerib"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "esto la palabra que habló Jehová sobre él: Despreció a ti, se burló a ti, virgen hija de Tsiyón; detrás de ti cabeza movió hija de Yerushaláyim.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037022013",
+            "h23037022018"
+          ],
+          "issue": "Hebraized proper names Tsiyón / Yerushaláyim instead of conventional Spanish forms",
+          "spanishSpan": "Tsiyón; Yerushaláyim"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En mano de tus siervos afrentaste a Adonai, y dijiste: Con muchedumbre de mis carros yo subí altura de montes, extremos de Levanón, y cortaré altura de sus cedros, escogido de sus abetos, y vendré a altura de su extremo, bosque de su karmel.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037024013"
+          ],
+          "issue": "Hebraizes proper name instead of conventional Spanish Líbano",
+          "spanishSpan": "Levanón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037024023"
+          ],
+          "issue": "Hebraizes proper name instead of conventional Spanish Carmelo",
+          "spanishSpan": "karmel"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Yo cavé y bebí aguas, y secaré con palma de mis pies todos yeorí de Matsor.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037025009",
+            "h23037025010"
+          ],
+          "issue": "leaves common noun and proper name untranslated as yeorí / Matsor instead of Spanish rendering",
+          "spanishSpan": "todos yeorí de Matsor"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y sus habitantes cortos de mano; se aterraron y se avergonzaron; fueron hierba de campo y verdor de hierba, hierba de techos, y campo sembrado delante de espiga.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037027013",
+            "h23037027014",
+            "h23037027015"
+          ],
+          "issue": "adds 'sembrado' and renders קמה as 'espiga' instead of preserving 'campo' / 'standing grain'",
+          "spanishSpan": "campo sembrado delante de espiga"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y añadirá escape de casa de Yehudá el restante raíz hacia abajo, y hará fruto hacia arriba.",
+      "notes": "also uses 'casa' explicitly where tokens license construct 'house-of Judah'",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037031004"
+          ],
+          "issue": "Hebraizes proper name Yehudá instead of conventional Spanish Judá",
+          "spanishSpan": "Yehudá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037031002",
+            "h23037031005",
+            "h23037031006"
+          ],
+          "issue": "misparses construct chain and modifiers, treating 'el restante' as attached to raíz rather than the escape",
+          "spanishSpan": "escape de casa de Yehudá el restante raíz"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque desde Yerushaláyim saldrá resto, y escape desde monte de Tsiyón; celo de Jehová de ejércitos hará esto.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037032002",
+            "h23037032007"
+          ],
+          "issue": "Hebraized proper names instead of conventional Spanish forms",
+          "spanishSpan": "Yerushaláyim ... Tsiyón"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "En el camino que vino en él volverá, y a la ciudad esta no vendrá —oráculo de Jehová.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037034004"
+          ],
+          "issue": "suffix 3fs on preposition rendered as masculine 'él'",
+          "spanishSpan": "en él"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037034001",
+            "h23037034002",
+            "h23037034003",
+            "h23037034004"
+          ],
+          "issue": "relative clause misparsed so that 'camino' appears to be subject of 'vino'",
+          "spanishSpan": "que vino en él"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y fue, él postrándose casa de Nisrok su dios, y Adramélek y Sarétser sus hijos lo hirieron en la espada, y ellos escaparon tierra de Ararat; y reinó Esar-jadón su hijo debajo de él.",
+      "notes": "multiple preposition and syntax omissions",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037038004",
+            "h23037038003"
+          ],
+          "issue": "missing preposition 'en' before 'casa de' required by construct and participle syntax",
+          "spanishSpan": "postrándose casa de"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037038011"
+          ],
+          "issue": "wrong preposition 'en' instead of 'con' for instrument בַּחֶרֶב",
+          "spanishSpan": "en la espada"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23037038014",
+            "h23037038013"
+          ],
+          "issue": "missing directional preposition 'a' or 'hacia' before destination אֶרֶץ",
+          "spanishSpan": "escaparon tierra de Ararat"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T19:25:50.049914+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 37,
+    "verses": 37,
+    "input": 85895,
+    "cachedInput": 27520,
+    "output": 3734,
+    "reasoning": 37503,
+    "usd": 0.3779,
+    "byProvider": {
+      "xai": {
+        "calls": 37,
+        "input": 85895,
+        "output": 3734,
+        "reasoning": 37503,
+        "usd": 0.3779
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 37,
+        "input": 85895,
+        "output": 3734,
+        "reasoning": 37503,
+        "usd": 0.3779
+      }
+    },
+    "usdPerVerse": 0.0102,
+    "bibleAtThisRate": 318.0,
+    "book": "isaias",
+    "chapter": 37
+  }
+}

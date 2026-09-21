@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 47:15",
+  "chapter": 47,
+  "verse": 15,
+  "candidateLabel": "gpt56",
+  "spanish": "Así fueron a ti aquellos en que te fatigaste; tus mercaderes desde tu juventud; cada uno a su lado erraron; no hay tu salvador.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23047015004",
+        "h23047015005"
+      ],
+      "issue": "relative clause rendered with added preposition 'en' and reflexive 'te fatigaste'",
+      "spanishSpan": "aquellos en que te fatigaste"
+    }
+  ],
+  "notes": "minor grammatical smoothing only",
+  "discardedUncitedFindings": 0
+}

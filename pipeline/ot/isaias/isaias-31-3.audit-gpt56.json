@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 31:3",
+  "chapter": 31,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "Y Mizraim hombre y no El, y sus caballos carne y no espíritu; y Jehová inclinará su mano, y tropezará ayudador, y caerá ayudado, y juntos todos ellos se acabarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23031003001"
+      ],
+      "issue": "Hebraizes proper name instead of conventional Spanish form",
+      "spanishSpan": "Mizraim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

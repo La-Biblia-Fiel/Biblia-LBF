@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 12:5",
+  "chapter": 12,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Corres tras sus pies, y te han engañado. ¿Cómo te defenderás de los caballos en tierra de paz, y qué harás en el valle de Jordan?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012005001"
+      ],
+      "issue": "omits initial conjunction 'for/porque'",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012005005"
+      ],
+      "issue": "renders 'they have wearied you' as 'te han engañado'",
+      "spanishSpan": "y te han engañado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012005007"
+      ],
+      "issue": "renders 'how will you contend/race' as 'cómo te defenderás'",
+      "spanishSpan": "¿Cómo te defenderás"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24012005016",
+        "h24012005017"
+      ],
+      "issue": "renders 'in the swelling of the Jordan' as 'en el valle de Jordan'",
+      "spanishSpan": "en el valle de Jordan"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 65:3",
+  "chapter": 65,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "El pueblo que me enfurecen sobre mis faces siempre, sacrificando en los huertos y quemando incienso sobre los ladrillos;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065003001",
+        "h23065003002"
+      ],
+      "issue": "number mismatch: singular noun + plural verb form",
+      "spanishSpan": "El pueblo ... enfurecen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23065003009"
+      ],
+      "issue": "adds explicit 'incienso' not present in any token",
+      "spanishSpan": "quemando incienso"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

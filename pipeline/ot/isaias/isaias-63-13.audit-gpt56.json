@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 63:13",
+  "chapter": 63,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "el que los hace andar en los abismos como caballo en el desierto, no tropezarán?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23063013005",
+        "h23063013006"
+      ],
+      "issue": "לֹא + יִכָּשֵֽׁלוּ is negated declarative (they will not stumble); Spanish converts to interrogative with ?",
+      "spanishSpan": "no tropezarán?"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

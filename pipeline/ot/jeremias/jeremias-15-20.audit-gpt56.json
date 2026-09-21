@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:20",
+  "chapter": 15,
+  "verse": 20,
+  "candidateLabel": "gpt56",
+  "spanish": "Y te daré a este pueblo como una muralla de bronce; lucharán contra ti, pero no podrán contigo, porque estaré contigo para salvarte y para librarte, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015020006"
+      ],
+      "issue": "omits the adjective בְּצוּרָה (fortified/strong) modifying the bronze wall",
+      "spanishSpan": "una muralla de bronce"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

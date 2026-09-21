@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 58:3",
+  "chapter": 58,
+  "verse": 3,
+  "candidateLabel": "gpt56",
+  "spanish": "¿Por qué ayunamos, y no viste; afligimos nuestra alma, y no conoces? He aquí, en día de su ayuno de ustedes hallan placer, y todos sus trabajadores de ustedes oprimen.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23058003011",
+        "h23058003015",
+        "h23058003016"
+      ],
+      "issue": "possessive and participant reversal: Spanish 'su ayuno de ustedes' and 'sus trabajadores de ustedes oprimen' make workers the subject or use 3rd-person possessives; tokens require 2mp 'your fast' and 'all your laborers you (2mp) oppress'",
+      "spanishSpan": "su ayuno de ustedes ... todos sus trabajadores de ustedes oprimen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23058003010",
+        "h23058003011"
+      ],
+      "issue": "adds redundant 'de ustedes' after already using 'su' (3rd person) for the 2mp suffix on צֹמְכֶם",
+      "spanishSpan": "día de su ayuno de ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

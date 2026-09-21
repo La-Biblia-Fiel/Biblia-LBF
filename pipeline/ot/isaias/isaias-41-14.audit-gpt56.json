@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:14",
+  "chapter": 41,
+  "verse": 14,
+  "candidateLabel": "gpt56",
+  "spanish": "No temas, gusano de Yaakov, muertos de Israel; yo te ayudé —oráculo de Jehová— y tu redentor Santo de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041014005"
+      ],
+      "issue": "מְתֵי rendered as 'muertos' (adds concept of death not in lemma H4962)",
+      "spanishSpan": "muertos de Israel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041014004"
+      ],
+      "issue": "proper name Hebraized as Yaakov instead of conventional Spanish Jacob",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "additional minor smoothing on verb gender and aspect not altering core sense",
+  "discardedUncitedFindings": 0
+}

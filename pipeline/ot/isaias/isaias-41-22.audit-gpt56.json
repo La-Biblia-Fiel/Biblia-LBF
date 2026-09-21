@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:22",
+  "chapter": 41,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Acerquen y anuncien a nosotros lo que sucederá; las primeras, qué ellas, anuncien, y pongamos nuestro corazón y conozcamos su fin; o las venideras háganos oír.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041022001",
+        "h23041022002"
+      ],
+      "issue": "renders 3mp imperfect/jussive verbs as 2pl imperative",
+      "spanishSpan": "Acerquen y anuncien"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041022001"
+      ],
+      "issue": "adds 'acercar' concept not licensed by lemma 5066 hiphil in context of declaration",
+      "spanishSpan": "Acerquen"
+    }
+  ],
+  "notes": "first clause morphology mismatch on person/mood",
+  "discardedUncitedFindings": 0
+}

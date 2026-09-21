@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 55:8",
+  "chapter": 55,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque no mis pensamientos pensamientos de ustedes, y no caminos de ustedes mis caminos, dicho de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055008003",
+        "h23055008004"
+      ],
+      "issue": "duplicated noun 'pensamientos pensamientos' not licensed by tokens",
+      "spanishSpan": "pensamientos pensamientos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23055008003",
+        "h23055008004"
+      ],
+      "issue": "garbled structure omits required connection between the two noun phrases",
+      "spanishSpan": "no mis pensamientos pensamientos de ustedes"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 62:4",
+  "chapter": 62,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "No se dirá a ti más Abandonada, y a tu tierra no se dirá más Desolada; porque a ti se llamará Mi-placer-en-ella, y a tu tierra Casada; porque se complació Jehová en ti, y tu tierra será desposada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23062004014",
+        "h23062004015"
+      ],
+      "issue": "proper name rendered as descriptive phrase instead of conventional name form",
+      "spanishSpan": "Mi-placer-en-ella"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 3:12",
+  "chapter": 3,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijo: «Porque estaré contigo; y esto para ti, la señal de que yo te envié: cuando saques al pueblo de Egipto, servirán a Dios sobre este monte».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003012015"
+      ],
+      "issue": "changes 2mp verb to 3pl, shifting addressees to third party",
+      "spanishSpan": "servirán"
+    }
+  ],
+  "notes": "2fs suffix on עִמָּ֔ךְ also mismatches neutral Spanish but is secondary to person shift",
+  "discardedUncitedFindings": 0
+}

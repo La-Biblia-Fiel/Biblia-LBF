@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 7:8",
+  "chapter": 7,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque cabeza de Aram Dameseq, y cabeza de Dameseq Retsín; y en aún sesenta y cinco año será quebrantado Efráyim de pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007008002",
+        "h23007008003",
+        "h23007008004"
+      ],
+      "issue": "Spanish compounds Aram Dameseq into single phrase, omitting separate construct chains and verbless identification structure",
+      "spanishSpan": "cabeza de Aram Dameseq"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007008005",
+        "h23007008006",
+        "h23007008007"
+      ],
+      "issue": "Spanish compounds Dameseq Retsín into single phrase, omitting separate construct chains and verbless identification structure",
+      "spanishSpan": "cabeza de Dameseq Retsín"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23007008008"
+      ],
+      "issue": "Spanish renders בְעוֹד as en aún, adding preposition and adverb not licensed by the single compound lemma",
+      "spanishSpan": "en aún"
+    }
+  ],
+  "notes": "first two clauses fail to preserve token boundaries and verbless syntax",
+  "discardedUncitedFindings": 0
+}

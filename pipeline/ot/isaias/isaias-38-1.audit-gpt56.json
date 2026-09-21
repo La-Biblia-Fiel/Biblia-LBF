@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:1",
+  "chapter": 38,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "En los días aquellos enfermó Jizqiyahu para morir; y vino a él Yeshayahu hijo de Amots el profeta, y dijo a él: Así dijo Jehová: Manda a tu casa, porque muerto tú, y no vivirás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038001004",
+        "h23038001008",
+        "h23038001010"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Jizqiyahu ... Yeshayahu ... Amots"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

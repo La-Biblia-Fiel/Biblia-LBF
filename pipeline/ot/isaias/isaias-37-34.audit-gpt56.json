@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:34",
+  "chapter": 37,
+  "verse": 34,
+  "candidateLabel": "gpt56",
+  "spanish": "En el camino que vino en él volverá, y a la ciudad esta no vendrá —oráculo de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037034004"
+      ],
+      "issue": "suffix 3fs on preposition rendered as masculine 'él'",
+      "spanishSpan": "en él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037034001",
+        "h23037034002",
+        "h23037034003",
+        "h23037034004"
+      ],
+      "issue": "relative clause misparsed so that 'camino' appears to be subject of 'vino'",
+      "spanishSpan": "que vino en él"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

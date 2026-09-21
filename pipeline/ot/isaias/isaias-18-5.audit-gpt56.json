@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 18:5",
+  "chapter": 18,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Porque delante de cosecha, como acabado capullo, y agraz madurando será flor, y cortó los sarmientos con las podaderas, y los pámpanos quitó, cortó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23018005006",
+        "h23018005007",
+        "h23018005008",
+        "h23018005009"
+      ],
+      "issue": "misrenders sequence and participants: agraz madurando será flor inverts and adds resolution not licensed by the lemma/morph sequence",
+      "spanishSpan": "y agraz madurando será flor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23018005004",
+        "h23018005005"
+      ],
+      "issue": "adds 'acabado' and 'capullo' that resolve the infinitive+blossom construction beyond token license",
+      "spanishSpan": "como acabado capullo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23018005015",
+        "h23018005016"
+      ],
+      "issue": "repeats 'cortó' at end, creating unlicensed duplication of the two hiphil perfects",
+      "spanishSpan": "quitó, cortó"
+    }
+  ],
+  "notes": "multiple token mismatches in rendering",
+  "discardedUncitedFindings": 0
+}

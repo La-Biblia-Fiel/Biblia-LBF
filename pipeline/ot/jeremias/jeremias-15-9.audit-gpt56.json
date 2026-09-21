@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 15:9",
+  "chapter": 15,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "La que da a luz a siete, ha respirado su último aliento; el sol ha salido sobre ellas, y han sido avergonzadas y han caído; y el resto de ellas las entregaré a la espada delante de sus enemigos, dice el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015009006",
+        "h24015009007",
+        "h24015009008",
+        "h24015009009"
+      ],
+      "issue": "Spanish inserts 'el sol ha salido' (sun has risen) where tokens only license 'her sun while still day, she is ashamed'",
+      "spanishSpan": "el sol ha salido sobre ellas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015009001",
+        "h24015009004",
+        "h24015009005"
+      ],
+      "issue": "Spanish collapses umlelah + naphchah naphshah into interpretive 'ha respirado su último aliento'",
+      "spanishSpan": "ha respirado su último aliento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24015009009",
+        "h24015009010"
+      ],
+      "issue": "Spanish adds 'han caído' with no corresponding token for falling",
+      "spanishSpan": "y han caído"
+    }
+  ],
+  "notes": "multiple unlicensed additions and sense changes",
+  "discardedUncitedFindings": 0
+}

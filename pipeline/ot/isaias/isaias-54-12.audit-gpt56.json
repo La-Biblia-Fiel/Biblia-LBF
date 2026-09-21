@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 54:12",
+  "chapter": 54,
+  "verse": 12,
+  "candidateLabel": "gpt56",
+  "spanish": "Y pongo rubí tus soles, y tus puertas a piedras de carbunclo, y todo tu límite a piedras de deseo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23054012001",
+        "h23054012002",
+        "h23054012003"
+      ],
+      "issue": "Spanish construction 'pongo rubí tus soles' omits licensed preposition/relation and adds interpretive placement not present in tokens",
+      "spanishSpan": "pongo rubí tus soles"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23054012001"
+      ],
+      "issue": "verb rendered as present 'pongo' instead of qal perfect 1cs with waw (future sense 'pondré')",
+      "spanishSpan": "pongo"
+    }
+  ],
+  "notes": "stone names and 'soles'/'límite'/'deseo' are within lemma range but syntax fails",
+  "discardedUncitedFindings": 0
+}

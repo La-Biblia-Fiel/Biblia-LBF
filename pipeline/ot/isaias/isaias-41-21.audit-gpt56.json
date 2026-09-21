@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 41:21",
+  "chapter": 41,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Acerquen su contienda de ustedes, dice Jehová; acerquen sus argumentos de ustedes, dice rey de Yaakov.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23041021009"
+      ],
+      "issue": "Hebraizes proper name as Yaakov instead of conventional Spanish form",
+      "spanishSpan": "Yaakov"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:4",
+  "chapter": 1,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "La palabra del Señor me vino diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001004001"
+      ],
+      "issue": "adds 'vino' (came) concept absent from lemma H1961 (be/happen) and qal sequential imperfect",
+      "spanishSpan": "vino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001004003"
+      ],
+      "issue": "replaces YHWH with title 'Señor' instead of conventional Jehová",
+      "spanishSpan": "del Señor"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

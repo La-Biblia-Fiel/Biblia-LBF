@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 64:10",
+  "chapter": 64,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Ciudades de tu santidad fueron desierto; Tsiyón desierto fue; Yerushaláyim desolación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23064010005",
+        "h23064010008"
+      ],
+      "issue": "Hebraized proper names Tsiyón / Yerushaláyim instead of conventional Spanish forms",
+      "spanishSpan": "Tsiyón ... Yerushaláyim"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

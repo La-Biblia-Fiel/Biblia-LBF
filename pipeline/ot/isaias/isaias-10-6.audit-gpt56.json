@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 10:6",
+  "chapter": 10,
+  "verse": 6,
+  "candidateLabel": "gpt56",
+  "spanish": "Contra nación hipócrita lo enviaré, y sobre pueblo de mi furor lo mandaré, para saquear saqueo y para tomar presa, y para pisoteo como lodo de calles.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23010006010",
+        "h23010006011"
+      ],
+      "issue": "adds 'tomar presa' concept not licensed by בז / בַּז tokens",
+      "spanishSpan": "y para tomar presa"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

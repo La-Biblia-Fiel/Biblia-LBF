@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 1:10",
+  "chapter": 1,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí, hoy te he constituido sobre las naciones y sobre los reinos, para desarraigar y derribar, para destruir y destruir, para edificar y plantar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24001010011",
+        "h24001010012"
+      ],
+      "issue": "repeats identical verb 'destruir' for two distinct lemmas (H6 אבד and H2040 הרס) instead of preserving distinct actions",
+      "spanishSpan": "para destruir y destruir"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

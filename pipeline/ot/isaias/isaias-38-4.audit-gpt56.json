@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 38:4",
+  "chapter": 38,
+  "verse": 4,
+  "candidateLabel": "gpt56",
+  "spanish": "Y fue palabra de Jehová a Yeshayahu, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23038004005"
+      ],
+      "issue": "Hebraized proper name Yeshayahu instead of conventional Spanish form",
+      "spanishSpan": "Yeshayahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

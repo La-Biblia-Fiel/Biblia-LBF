@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 13:16",
+  "chapter": 13,
+  "verse": 16,
+  "candidateLabel": "gpt56",
+  "spanish": "Y sus niños serán estrellados delante de sus ojos; saquearán sus casas, y sus mujeres serán acostadas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013016004"
+      ],
+      "issue": "Niphal passive 'will be plundered' rendered as active 'saquearán' (voice/participant shift)",
+      "spanishSpan": "saquearán sus casas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23013016006"
+      ],
+      "issue": "adds verb 'serán acostadas' with no corresponding token or lemma in packet",
+      "spanishSpan": "y sus mujeres serán acostadas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

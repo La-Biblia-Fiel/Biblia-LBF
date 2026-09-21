@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:5",
+  "chapter": 17,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dice el SEÑOR: Maldito el hombre que confía en el hombre, y pone su carne en su brazo, y aparta su corazón del SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017005009",
+        "h24017005010",
+        "h24017005011"
+      ],
+      "issue": "reverses and alters the relation: Hebrew sets flesh as his arm; Spanish puts flesh in/on his arm",
+      "spanishSpan": "pone su carne en su brazo"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

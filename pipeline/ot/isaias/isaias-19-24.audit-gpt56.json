@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 19:24",
+  "chapter": 19,
+  "verse": 24,
+  "candidateLabel": "gpt56",
+  "spanish": "En el día aquel será Israel tercero a Mizraim y a Ashur, bendición en seno de la tierra,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h23019024009"
+      ],
+      "issue": "smoothing 'midst/within' as 'seno'",
+      "spanishSpan": "seno de la tierra"
+    }
+  ],
+  "notes": "gender of ordinal not strictly matched but no meaning change",
+  "discardedUncitedFindings": 0
+}

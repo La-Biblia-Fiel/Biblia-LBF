@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:5",
+  "chapter": 37,
+  "verse": 5,
+  "candidateLabel": "gpt56",
+  "spanish": "Y vinieron siervos del rey Jizqiyahu a Yeshayahu.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037005004",
+        "h23037005006"
+      ],
+      "issue": "Hebraizes proper names (Jizqiyahu, Yeshayahu) instead of conventional Spanish forms licensed by packet labels and PROPER_NAMES guidance",
+      "spanishSpan": "Jizqiyahu a Yeshayahu"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

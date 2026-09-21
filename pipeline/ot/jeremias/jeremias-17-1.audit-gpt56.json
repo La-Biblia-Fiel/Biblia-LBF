@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 17:1",
+  "chapter": 17,
+  "verse": 1,
+  "candidateLabel": "gpt56",
+  "spanish": "La iniquidad de Judá está escrita con un cincel de hierro, grabada en la roca de sarmiento, en los cuernos de sus altares.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017001010",
+        "h24017001011"
+      ],
+      "issue": "omits entirely the tablet of their heart",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017001007"
+      ],
+      "issue": "renders shamir as 'roca de sarmiento' (adds unlicensed concept)",
+      "spanishSpan": "roca de sarmiento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24017001004",
+        "h24017001005"
+      ],
+      "issue": "renders stylus/pen as 'cincel' (adds unlicensed instrument concept)",
+      "spanishSpan": "cincel de hierro"
+    }
+  ],
+  "notes": "Spanish also shifts 2mp suffix on altars without preserving exact participants",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 11:22",
+  "chapter": 11,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso el SEÑOR de los ejércitos ha dicho: ‘He aquí que castigaré a estos: los jóvenes morirán a espada, y sus hijos y sus hijas morirán de hambre’.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011022006",
+        "h24011022007",
+        "h24011022008"
+      ],
+      "issue": "paraphrases הִנְנִי פֹקֵד עֲלֵיהֶם as 'He aquí que castigaré a estos'",
+      "spanishSpan": "He aquí que castigaré a estos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24011022002"
+      ],
+      "issue": "omits כֹּה (thus)",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

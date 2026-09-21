@@ -1,0 +1,255 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 63,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    4,
+    7,
+    9,
+    14,
+    15,
+    17,
+    18,
+    19
+  ],
+  "holds": [
+    {
+      "verse": 5,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y miré, y no hay ayudador, y me asombré, y no hay sostenedor; y salvó a mí mi brazo, y mi furor él me sostuvo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063005011",
+            "h23063005012"
+          ],
+          "issue": "Spanish uses masculine 'él' for the 3fs pronoun and 3fs verb whose subject is feminine חֲמָתִי",
+          "spanishSpan": "él me sostuvo"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y hollé pueblos en mi ira, y los embriagué en mi furor, y haré bajar a la tierra su jugo.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063006001",
+            "h23063006004",
+            "h23063006006"
+          ],
+          "issue": "source verbs are all waw-imperfect 1cs (qal/piel/hiphil); Spanish renders first two as preterite and only the third as future",
+          "spanishSpan": "hollé ... embriagué ... haré bajar"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dijo: Ciertamente mi pueblo ellos, hijos no mentirán; y fue a ellos a Salvador.",
+      "notes": "multiple token mismatches in final clause and nominal phrase",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063008008",
+            "h23063008009",
+            "h23063008010"
+          ],
+          "issue": "last clause rendered as directional motion to a proper title instead of 'he was/became to them a savior'",
+          "spanishSpan": "y fue a ellos a Salvador"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063008003",
+            "h23063008004"
+          ],
+          "issue": "missing copula and affirmation structure; tokens require 'they [are] my people'",
+          "spanishSpan": "mi pueblo ellos"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063008010"
+          ],
+          "issue": "common noun turned capitalized title not licensed by lemma or morphology",
+          "spanishSpan": "Salvador"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y ellos se rebelaron y entristecieron a Espíritu de su santidad; y se volvió a ellos a enemigo; él combatió en ellos.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063010005",
+            "h23063010006"
+          ],
+          "issue": "doctrinal capitalization of common noun as title",
+          "spanishSpan": "Espíritu"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y recordó días de perpetuidad, Moisés su pueblo: ¿Dónde el que los subió del mar con pastores de su oveja? ¿Dónde el que puso en medio de él Espíritu de su santidad,",
+      "notes": "additional phrasing choices are close but the above token mismatches trigger fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063011002",
+            "h23063011003",
+            "h23063011004",
+            "h23063011005"
+          ],
+          "issue": "Spanish inserts comma and restructures 'days of olam Moses his people' into separate appositive phrase, altering the construct relationship and participant linkage licensed by the tokens",
+          "spanishSpan": "días de perpetuidad, Moisés su pueblo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063011011"
+          ],
+          "issue": "צֹאנוֹ (flock) rendered as singular 'oveja' instead of preserving collective sense",
+          "spanishSpan": "su oveja"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "el que hace andar a derecha de Moisés brazo de su hermosura, partiendo aguas de delante de ellos, para hacerse a él nombre eterno,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063012009",
+            "h23063012010",
+            "h23063012011",
+            "h23063012012"
+          ],
+          "issue": "mismatches the purpose clause לַעֲשׂוֹת לוֹ שֵׁם עוֹלָם by rendering it as the ungrammatical and inexact 'hacerse a él nombre eterno'",
+          "spanishSpan": "para hacerse a él nombre eterno"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "el que los hace andar en los abismos como caballo en el desierto, no tropezarán?",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063013005",
+            "h23063013006"
+          ],
+          "issue": "לֹא + יִכָּשֵֽׁלוּ is negated declarative (they will not stumble); Spanish converts to interrogative with ?",
+          "spanishSpan": "no tropezarán?"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Porque tú nuestro Padre; porque Abraham no nos conoció, e Israel no nos reconoce; tú, Jehová, nuestro Padre; nuestro Redentor desde perpetuidad tu nombre.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23063016014",
+            "h23063016015",
+            "h23063016016"
+          ],
+          "issue": "reordered and missing copula; Spanish makes 'nuestro Redentor' the head rather than 'tu nombre' as subject",
+          "spanishSpan": "nuestro Redentor desde perpetuidad tu nombre"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T21:40:59.809733+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 19,
+    "verses": 19,
+    "input": 40581,
+    "cachedInput": 14912,
+    "output": 1296,
+    "reasoning": 16816,
+    "usd": 0.1675,
+    "byProvider": {
+      "xai": {
+        "calls": 19,
+        "input": 40581,
+        "output": 1296,
+        "reasoning": 16816,
+        "usd": 0.1675
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 19,
+        "input": 40581,
+        "output": 1296,
+        "reasoning": 16816,
+        "usd": 0.1675
+      }
+    },
+    "usdPerVerse": 0.0088,
+    "bibleAtThisRate": 274.0,
+    "book": "isaias",
+    "chapter": 63
+  }
+}

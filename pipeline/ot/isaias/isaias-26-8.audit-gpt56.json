@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 26:8",
+  "chapter": 26,
+  "verse": 8,
+  "candidateLabel": "gpt56",
+  "spanish": "También senda de tus juicios, Jehová, te esperamos; a tu nombre y a tu memoria deseo de alma.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23026008005"
+      ],
+      "issue": "verb rendered as present tense instead of perfect",
+      "spanishSpan": "te esperamos"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

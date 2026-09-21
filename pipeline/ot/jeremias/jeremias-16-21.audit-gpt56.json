@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 16:21",
+  "chapter": 16,
+  "verse": 21,
+  "candidateLabel": "gpt56",
+  "spanish": "Por eso, he aquí que yo les revelaré en este tiempo mi mano y mi poderío, y sabrán que yo soy el SEÑOR.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016021013",
+        "h24016021014"
+      ],
+      "issue": "renders שְׁמִי יְהוָה as 'yo soy el SEÑOR' (adds 'I am' + title substitution)",
+      "spanishSpan": "que yo soy el SEÑOR"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24016021003",
+        "h24016021006"
+      ],
+      "issue": "merges two distinct ידע Hiphil forms (participle + imperfect) into single future verb, omitting repetition",
+      "spanishSpan": "yo les revelaré"
+    }
+  ],
+  "notes": "also uses SEÑOR for יהוה contrary to PROPER_NAMES.md",
+  "discardedUncitedFindings": 0
+}

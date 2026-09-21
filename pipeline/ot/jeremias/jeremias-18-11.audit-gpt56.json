@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:11",
+  "chapter": 18,
+  "verse": 11,
+  "candidateLabel": "gpt56",
+  "spanish": "Ahora, pues, di a los hombres de Judá y a los habitantes de Jerusalén: Así ha dicho el Señor: He aquí que yo formo el mal contra ustedes y planeo un pensamiento contra ustedes; volved cada uno de su camino malo y caminad en los caminos y en las obras buenos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018011013"
+      ],
+      "issue": "יהוה rendered as 'el Señor' instead of licensed Jehová",
+      "spanishSpan": "el Señor"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018011027",
+        "h24018011028",
+        "h24018011029"
+      ],
+      "issue": "הֵיטִיבוּ דַרְכֵיכֶם וּמַעַלְלֵיכֶם rendered as 'caminad en los caminos y en las obras buenos' (adds 'caminad', changes hiphil 'make good' to 'walk in good')",
+      "spanishSpan": "caminad en los caminos y en las obras buenos"
+    }
+  ],
+  "notes": "additional minor smoothing on אִישׁ pluralization not fatal alone",
+  "discardedUncitedFindings": 0
+}

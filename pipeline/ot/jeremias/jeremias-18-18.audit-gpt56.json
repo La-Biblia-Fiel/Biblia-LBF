@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 18:18",
+  "chapter": 18,
+  "verse": 18,
+  "candidateLabel": "gpt56",
+  "spanish": "Y dijeron: Vamos y pensamos planes contra Jeremías, porque no faltará la ley al sacerdote, ni el consejo al sabio, ni la palabra al profeta. Vamos y hagamosle daño con la lengua, y no oiremos sus palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018018003"
+      ],
+      "issue": "cohortative 1cp rendered as indicative present instead of volitive",
+      "spanishSpan": "pensamos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018018020"
+      ],
+      "issue": "cohortative 1cp rendered as future indicative instead of volitive 'let us not listen'",
+      "spanishSpan": "no oiremos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24018018017"
+      ],
+      "issue": "hiphil cohortative rendered inconsistently; first cohortative already failed on mood",
+      "spanishSpan": "hagamosle daño"
+    }
+  ],
+  "notes": "multiple volitive forms flattened to declarative/future",
+  "discardedUncitedFindings": 0
+}

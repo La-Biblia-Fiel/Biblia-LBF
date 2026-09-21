@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 13:9",
+  "chapter": 13,
+  "verse": 9,
+  "candidateLabel": "gpt56",
+  "spanish": "Así ha dicho Jehová: Así haré desaparecer la soberbia de Judá y la soberbia de Jerusalén.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24013009012"
+      ],
+      "issue": "omits licensed concept הָרָב (the great) modifying the final גְּאוֹן",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

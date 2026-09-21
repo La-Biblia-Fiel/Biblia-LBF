@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 37:10",
+  "chapter": 37,
+  "verse": 10,
+  "candidateLabel": "gpt56",
+  "spanish": "Así dirán a Jizqiyahu rey de Yehudá, diciendo: No te engañe tu Dios que tú confiando en él, diciendo: No será dada Yerushaláyim en mano de rey de Ashur.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23037010004",
+        "h23037010006",
+        "h23037010018",
+        "h23037010021"
+      ],
+      "issue": "Hebraized proper names instead of conventional Spanish forms",
+      "spanishSpan": "Jizqiyahu rey de Yehudá ... Yerushaláyim ... Ashur"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

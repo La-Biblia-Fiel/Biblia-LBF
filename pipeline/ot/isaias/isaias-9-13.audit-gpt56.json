@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 9:13",
+  "chapter": 9,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "Y el pueblo no se volvió hasta el que lo hirió, y a Jehová de ejércitos no buscaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23009013005"
+      ],
+      "issue": "participle (hrmsc) rendered as completed preterite instead of ongoing agent",
+      "spanishSpan": "el que lo hirió"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

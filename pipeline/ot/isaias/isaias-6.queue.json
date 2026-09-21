@@ -1,0 +1,169 @@
+{
+  "schema": "lbf-chapter-queue-v1",
+  "book": "isaias",
+  "label": "Isaías",
+  "chapter": 6,
+  "verses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "passed": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    13
+  ],
+  "holds": [
+    {
+      "verse": 4,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y se estremecieron umbrales de los dinteles de voz del que clama, y la casa se llenó de humo.",
+      "notes": "nouns and preposition both mismatch tokens",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23006004002",
+            "h23006004003"
+          ],
+          "issue": "replaces אַמּוֹת הַסִּפִּים construct with unrelated 'umbrales de los dinteles'",
+          "spanishSpan": "umbrales de los dinteles"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23006004004"
+          ],
+          "issue": "renders מִקּוֹל as 'de voz' instead of licensed 'from the voice'",
+          "spanishSpan": "de voz"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Engruesa corazón de este pueblo, y sus oídos agrava, y sus ojos unge, no sea que vea con sus ojos, y con sus oídos oiga, y su corazón entienda, y se vuelva, y sane a él.",
+      "notes": "other clauses track tokens; this single verb mismatch triggers fail",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23006010008"
+          ],
+          "issue": "lemma 8173 hiphil rendered as 'unge' (anoint); token licenses only 'make shut'/'smear over' for the eyes",
+          "spanishSpan": "y sus ojos unge"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "Y dije: ¿Hasta cuándo, Adonai? Y dijo: Hasta que si desoladas ciudades de no habitar, y casas de no hombre, y la tierra sea desolada desolación,",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23006011009",
+            "h23006011010",
+            "h23006011011",
+            "h23006011012"
+          ],
+          "issue": "Spanish restructures verbal clause as adjective phrase and inserts unlicensed infinitive 'de no habitar'",
+          "spanishSpan": "desoladas ciudades de no habitar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23006011013",
+            "h23006011014",
+            "h23006011015"
+          ],
+          "issue": "Spanish renders 'mēʾên ʾādām' as 'de no hombre' altering the negative existential and noun",
+          "spanishSpan": "casas de no hombre"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "stage": "audit-draft",
+      "verdict": "fail",
+      "spanish": "y aleje Jehová al hombre, y grande sea el abandono en seno de la tierra.",
+      "notes": "",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23006012007"
+          ],
+          "issue": "בְּקֶרֶב rendered as 'en seno de' (bosom) instead of 'en medio de' or equivalent for 'midst'",
+          "spanishSpan": "en seno de"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h23006012006"
+          ],
+          "issue": "הָעֲזוּבָה (the forsaken, qal pass. ptc. f.) rendered as noun 'el abandono'",
+          "spanishSpan": "el abandono"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "skipped": [],
+  "updated": "2026-09-19T13:49:05.459773+00:00",
+  "running": false,
+  "currentVerse": null,
+  "currentStage": null,
+  "usage": {
+    "calls": 13,
+    "verses": 13,
+    "input": 29203,
+    "cachedInput": 8256,
+    "output": 832,
+    "reasoning": 11296,
+    "usd": 0.1188,
+    "byProvider": {
+      "xai": {
+        "calls": 13,
+        "input": 29203,
+        "output": 832,
+        "reasoning": 11296,
+        "usd": 0.1188
+      }
+    },
+    "byStage": {
+      "audit-draft": {
+        "calls": 13,
+        "input": 29203,
+        "output": 832,
+        "reasoning": 11296,
+        "usd": 0.1188
+      }
+    },
+    "usdPerVerse": 0.0091,
+    "bibleAtThisRate": 284.0,
+    "book": "isaias",
+    "chapter": 6
+  }
+}

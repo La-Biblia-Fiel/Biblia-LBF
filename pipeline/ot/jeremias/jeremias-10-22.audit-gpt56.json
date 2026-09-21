@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "jeremias",
+  "reference": "Jeremías 10:22",
+  "chapter": 10,
+  "verse": 22,
+  "candidateLabel": "gpt56",
+  "spanish": "He aquí que viene una voz y un gran estruendo del norte para hacer desiertas las ciudades de Judá, morada de los dragones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010022001",
+        "h24010022002",
+        "h24010022005"
+      ],
+      "issue": "Spanish renders קול שמועה as 'una voz y un gran estruendo', inserting conjunction and treating רעש as coordinate rather than separate noun after the construct phrase",
+      "spanishSpan": "una voz y un gran estruendo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h24010022002"
+      ],
+      "issue": "שְׁמוּעָה (report/tidings) is omitted or conflated",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

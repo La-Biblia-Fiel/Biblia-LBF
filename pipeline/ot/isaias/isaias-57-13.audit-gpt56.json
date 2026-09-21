@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "isaias",
+  "reference": "Isaías 57:13",
+  "chapter": 57,
+  "verse": 13,
+  "candidateLabel": "gpt56",
+  "spanish": "En tu clamar te librarán tus reunidos; y a todos ellos llevará viento, tomará vanidad; y el que se refugia en mí heredará tierra, y poseerá monte de mi santidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h23057013004",
+        "h23057013005",
+        "h23057013006",
+        "h23057013007",
+        "h23057013008",
+        "h23057013009"
+      ],
+      "issue": "reverses subject-object relation: wind/vanity act on 'all of them', not 'carry wind to them'",
+      "spanishSpan": "y a todos ellos llevará viento, tomará vanidad"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

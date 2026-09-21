@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Grok 4.6",
+  "book": "exodo",
+  "reference": "Éxodo 1:16",
+  "chapter": 1,
+  "verse": 16,
+  "candidateLabel": "sonnet5-unconstrained",
+  "spanish": "Y dijo: Cuando ayudéis a dar a luz a las hebreas, y veáis sobre el asiento de piedra, si es hijo, matadlo; y si es hija, vivirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001016007"
+      ],
+      "issue": "H70 dual common noun resolved as a specialized stone seat; lemma/morph do not force an instrument; AHRC stool is nonbinding; dual number becomes singular.",
+      "spanishSpan": "el asiento de piedra"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001016002"
+      ],
+      "issue": "ayudéis adds a help-verb beside piel 3205 bring-forth.",
+      "spanishSpan": "ayudéis a dar a luz"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001016010",
+        "h02001016015"
+      ],
+      "issue": "3ms/3fs pronouns smoothed into copula es.",
+      "spanishSpan": "si es hijo ... si es hija"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001016011"
+      ],
+      "issue": "Hiphil sequential perfect 2fp rendered as imperative.",
+      "spanishSpan": "matadlo"
+    }
+  ],
+  "notes": "AHRC STONE STOOL must not override dual noun H70.",
+  "discardedUncitedFindings": 0
+}
