@@ -8,14 +8,8 @@ function normalizeReference(value = "") {
     .toLowerCase();
 }
 
-/** Phrase map accepted: integrity review, or legacy/source-walk statuses. */
-export function isMapAcceptedLink(entry = {}) {
-  return ["mapped", "hand", "manual", "manual-realign"].includes(String(entry.status || ""));
-}
-
-/** @deprecated Prefer isMapAcceptedLink — same finished set. */
 export function isHumanConfirmedLink(entry = {}) {
-  return isMapAcceptedLink(entry);
+  return ["hand", "manual", "manual-realign"].includes(String(entry.status || ""));
 }
 
 export function isHandUnit(unit = {}) {
@@ -46,7 +40,7 @@ export function mapReverseLinksByTranslationPhrase(translationPhrases = [], link
 export function pendingAlignmentWorkItems(reverseLinksByPhrase = new Map()) {
   return [...reverseLinksByPhrase.values()]
     .flatMap(entry => (entry.units || [])
-      .filter(unit => !isMapAcceptedLink(entry) || !isHandUnit(unit))
+      .filter(unit => !isHumanConfirmedLink(entry) || !isHandUnit(unit))
       .map(unit => ({ entry, unit, phraseIndex: Number(entry._translationPhraseIndex) })))
     .filter(item => Number.isInteger(item.phraseIndex))
     .sort((a, b) => a.phraseIndex - b.phraseIndex);

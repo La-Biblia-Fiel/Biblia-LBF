@@ -748,9 +748,6 @@ async function loadSourceTokenVerseIndex(paths) {
   return null;
 }
 
-const FINISHED_LINK_STATUSES = new Set(["mapped", "hand", "manual", "manual-realign"]);
-const HAND_UNIT_METHODS = new Set(["hand", "manual", "manual-realign"]);
-
 function alignmentMethodCounts(doc = {}) {
   const counts = { phrases: 0, hand: 0, auto: 0, gloss: 0, unwalked: 0, unconfirmed: 0, other: 0 };
   for (const link of doc.links || []) {
@@ -760,8 +757,8 @@ function alignmentMethodCounts(doc = {}) {
     if (!units.length || link.status === "unwalked") counts.unwalked += 1;
     else if (methods.some(method => ["auto", "auto-zip"].includes(method))) counts.auto += 1;
     else if (methods.some(method => ["gloss", "gloss-match", "gloss-seed", "verse-span-resynchronization"].includes(method))) counts.gloss += 1;
-    else if (!FINISHED_LINK_STATUSES.has(String(link.status || ""))) counts.unconfirmed += 1;
-    else if (methods.every(method => HAND_UNIT_METHODS.has(method))) counts.hand += 1;
+    else if (!["hand", "manual", "manual-realign"].includes(String(link.status || ""))) counts.unconfirmed += 1;
+    else if (methods.every(method => ["hand", "manual", "manual-realign"].includes(method))) counts.hand += 1;
     else counts.other += 1;
   }
   return counts;
@@ -1858,24 +1855,23 @@ async function handleReverseLinks(request, response, url) {
 
   const previous = (unit?.sourceTokenIds || []).map(String);
   const changed = confirmPhrase
-    ? link.status !== "mapped"
-      || unitsToValidate.some(item => !HAND_UNIT_METHODS.has(String(item.method || "")))
+    ? link.status !== "hand"
+      || unitsToValidate.some(item => !["hand", "manual", "manual-realign"].includes(item.method))
     : JSON.stringify(previous) !== JSON.stringify(sourceTokenIds) || unit.method !== "hand";
   if (changed) {
     if (confirmPhrase) {
       for (const item of unitsToValidate) {
         item.method = "hand";
-        item.status = "map-accepted";
+        item.status = "confirmed";
       }
     } else {
       unit.sourceTokenIds = sourceTokenIds;
       unit.method = "hand";
       unit.status = "confirmed";
     }
-    // Saving one unit is not map acceptance for the rest of a seeded phrase.
-    // Only whole-phrase confirm writes link.status = mapped (integrity accept).
-    // Never bulk-flip seeded-* outside this per-phrase path.
-    link.status = confirmPhrase ? "mapped" : "in-progress";
+    // Saving one unit is not approval of the rest of a seeded phrase. Only
+    // the explicit whole-phrase confirmation may write link.status = hand.
+    link.status = confirmPhrase ? "hand" : "in-progress";
     doc.stats = { ...(doc.stats || {}), ...alignmentMethodCounts(doc) };
     await writeFile(paths.reverseLinksFile, `${JSON.stringify(doc, null, 2)}\n`, "utf8");
     await invalidateStatusForEdit(bookId, "alignment");

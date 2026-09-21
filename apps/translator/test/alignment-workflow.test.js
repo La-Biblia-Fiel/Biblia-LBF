@@ -2,7 +2,6 @@ import assert from "node:assert/strict";
 import test from "node:test";
 
 import {
-  isMapAcceptedLink,
   mapReverseLinksByTranslationPhrase,
   pendingAlignmentWorkItems
 } from "../public/alignmentWorkflow.js";
@@ -15,7 +14,7 @@ test("renumbered reverse links map to the matching reference and ordinal", () =>
     { phraseIndex: 542, reference: "Revelation 15:1" }
   ];
   const links = [
-    { phraseIndex: 0, reference: "Revelation 14:1", status: "mapped", units: [] },
+    { phraseIndex: 0, reference: "Revelation 14:1", status: "hand", units: [] },
     { phraseIndex: 1, reference: "Revelation 14:1", status: "hand", units: [] },
     { phraseIndex: 2, reference: "Revelation 15:1", status: "seeded-hand", units: [] },
     { phraseIndex: 3, reference: "Revelation 15:1", status: "seeded-hand", units: [] }
@@ -28,7 +27,7 @@ test("renumbered reverse links map to the matching reference and ordinal", () =>
   assert.equal(mapped.get(3).phraseIndex, 3);
 });
 
-test("seeded-hand remains pending until the phrase map is accepted", () => {
+test("seeded-hand remains pending until the entire link is human-confirmed", () => {
   const mapped = new Map([
     [10, {
       phraseIndex: 4,
@@ -44,7 +43,7 @@ test("seeded-hand remains pending until the phrase map is accepted", () => {
       phraseIndex: 5,
       _translationPhraseIndex: 11,
       reference: "Revelation 15:2",
-      status: "mapped",
+      status: "hand",
       units: [{ unitId: "5:0", method: "hand", sourceTokenIds: ["t3"] }]
     }]
   ]);
@@ -52,14 +51,4 @@ test("seeded-hand remains pending until the phrase map is accepted", () => {
   const pending = pendingAlignmentWorkItems(mapped);
   assert.deepEqual(pending.map(item => item.unit.unitId), ["4:0", "4:1"]);
   assert.ok(pending.every(item => item.phraseIndex === 10));
-  assert.equal(isMapAcceptedLink(mapped.get(11)), true);
-  assert.equal(isMapAcceptedLink(mapped.get(10)), false);
-});
-
-test("legacy hand/manual statuses still count as accepted maps", () => {
-  assert.equal(isMapAcceptedLink({ status: "hand" }), true);
-  assert.equal(isMapAcceptedLink({ status: "manual" }), true);
-  assert.equal(isMapAcceptedLink({ status: "manual-realign" }), true);
-  assert.equal(isMapAcceptedLink({ status: "mapped" }), true);
-  assert.equal(isMapAcceptedLink({ status: "seeded-auto" }), false);
 });
