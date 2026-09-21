@@ -113,9 +113,8 @@ If they ask you to auto-align a book: **refuse in one short sentence**.
 2. Write hand units left-to-right on the Spanish. Row indexes are 0-based into that phrase’s `tokenRows`.
 3. Smallest honest Spanish span. Articles+nouns may share a unit. Word-order: Spanish order, source indexes may be non-sequential.
 4. Map every source token, or record why it is uncovered.
-5. Write reverse-links **in Biblia-LBF** with `method: "hand"` and `status: "seeded-hand"`. Never write `mapped` from a seed script.
+5. Write reverse-links **in Biblia-LBF** with `method: "hand"` and `status: "seeded-hand"`.
 6. Spot-check hard phrases. Report: phrase range, hand/unwalked totals, uncovered tokens. Do not silently rewrite source lemmas unless asked.
-7. Finished map acceptance is Translator **Accept map** → `status: mapped`. Never bulk-flip seeds.
 
 Do not invent Spanish. Do not pull the next clause into the current phrase.
 
