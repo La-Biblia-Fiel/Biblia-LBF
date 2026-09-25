@@ -1,0 +1,14 @@
+{
+  "name": "lbf-macula-clause-extractor",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Read-only MACULA Hebrew clause extraction for Biblia-LBF",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "extract": "node cli.js",
+    "propositions": "node proposition-cli.js",
+    "jev:dry-run": "node jev-state-cli.js",
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>MACULA Clause Extractor</title><link rel="stylesheet" href="/styles.css"></head>
+  <body>
+    <main>
+      <p class="eyebrow">Biblia-LBF · Read-only linguistic analysis</p>
+      <h1>MACULA Hebrew clause extractor</h1>
+      <p class="intro">Inspect the existing MACULA clause hierarchy for Isaiah 53. LBF Spanish remains a separate source; this tool writes no translation, alignment, status, or canonical data.</p>
+      <form id="range"><label>Book <select name="book" id="book"></select></label><label>Chapter <input name="chapter" type="number" value="53" min="1"></label><label>From <input name="from" type="number" value="4" min="1"></label><label>To <input name="to" type="number" value="6" min="1"></label><button>Extract clauses</button></form>
+      <p id="summary" role="status">Loading…</p>
+      <section id="clauses" aria-live="polite"></section>
+      <details><summary>Raw JSON</summary><pre id="json"></pre></details>
+    </main>
+    <template id="clause"><article><div class="meta"></div><h2></h2><p class="lbf"></p><p class="hebrew" dir="rtl"></p><p class="gloss"></p><p class="relation"></p></article></template>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

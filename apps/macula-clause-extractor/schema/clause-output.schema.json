@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LBF MACULA clause extraction output",
+  "type": "object",
+  "required": ["schema_version", "passage", "source", "clauses"],
+  "properties": {
+    "schema_version": { "const": "0.1.0" },
+    "passage": { "type": "object", "required": ["book", "chapter", "verse_start", "verse_end"] },
+    "source": { "type": "object", "required": ["lbf", "macula"] },
+    "clauses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["clause_id", "macula_node_id", "book", "chapter", "verse", "parent_clause_id", "depth", "lbf", "macula", "syntax", "references", "alignment", "provenance"],
+        "properties": {
+          "clause_id": { "type": "string" },
+          "macula_node_id": { "type": "string" },
+          "depth": { "type": "integer", "minimum": 0 },
+          "lbf": { "type": "object", "required": ["reference", "text"] },
+          "macula": { "type": "object", "required": ["hebrew_text", "english_gloss", "words"] },
+          "alignment": { "type": "object", "required": ["status", "lbf_words", "macula_words", "unmatched_lbf_words", "unmatched_macula_words"] },
+          "provenance": { "type": "object", "required": ["lbf_source", "macula_source", "macula_dataset", "macula_file", "macula_node_id"] }
+        }
+      }
+    }
+  }
+}

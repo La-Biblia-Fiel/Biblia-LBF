@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LBF canonical proposition output",
+  "type": "object",
+  "required": ["schema_version", "passage", "textual_authority", "clauses", "propositions", "structural_nodes", "presentation", "provenance"],
+  "properties": {
+    "schema_version": { "const": "0.3.0" },
+    "textual_authority": { "type": "object", "required": ["testament", "base"] },
+    "clauses": { "type": "array" },
+    "propositions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["proposition_id", "reference", "source", "predicate", "participants", "arguments", "syntax", "source_nodes", "derivation_status", "evidence", "provenance"]
+      }
+    },
+    "structural_nodes": { "type": "array" }
+  }
+}
