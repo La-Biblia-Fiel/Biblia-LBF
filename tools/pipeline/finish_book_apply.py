@@ -130,6 +130,7 @@ def best_spanish(slug: str, ch: int, vs: int, remap) -> str | None:
     for path in (
         polish_path(slug, ch, vs, "sonnet5"),
         polish_path(slug, ch, vs, "pulir"),
+        draft_path(slug, ch, vs, "auto"),
         draft_path(slug, ch, vs, "gpt56"),
     ):
         if path.is_file():

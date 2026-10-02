@@ -91,7 +91,7 @@ def normalize_draft(raw: dict, packet: dict, label: str) -> dict:
     added = [str(x).strip() for x in (raw.get("addedConcepts") or []) if str(x).strip()]
     return {
         "schema": DRAFT_SCHEMA,
-        "drafter": "GPT-5.6",
+        "drafter": "Cursor Auto" if label == "auto" else "GPT-5.6",
         "label": label,
         "book": packet["book"],
         "reference": packet["reference"],

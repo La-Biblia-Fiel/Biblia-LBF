@@ -51,7 +51,7 @@ def freeze_from(draft: dict, audit: dict) -> list[str]:
         "Keep participants and who acts on whom.",
         "Keep number; dual stones stay stones, never a seat or stool.",
         "Keep stem force; vivirá stays vivirá.",
-        "Do not turn Grok warnings into interpretive rewrites.",
+        "Do not turn auditor warnings into interpretive rewrites.",
     ]
     for unit in draft.get("units") or []:
         freeze.append(f"licensed: {unit.get('es')} ← {unit.get('sourceTokenIds')}")
@@ -59,7 +59,7 @@ def freeze_from(draft: dict, audit: dict) -> list[str]:
         freeze.append(f"uncertainty stays open: {item}")
     for finding in audit.get("findings") or []:
         freeze.append(
-            f"Grok {finding.get('severity')}: {finding.get('issue')} "
+            f"Auditor {finding.get('severity')}: {finding.get('issue')} "
             f"[{finding.get('spanishSpan')}]"
         )
     return freeze
@@ -82,7 +82,8 @@ def build_user_prompt(packet: dict, draft: dict, audit: dict) -> str:
         "packet": packet_for_prompt(packet),
     }
     return (
-        "Polish this Grok-passed draft. Grammar and flow only. JSON only.\n\n"
+        "This verse is questionable. Repair only cited mismatches and grammar. "
+        "Do not interpret. JSON only.\n\n"
         + dump_prompt(payload)
     )
 

@@ -1,7 +1,10 @@
-"""Load and run one verse through GPT → lint → Grok, then Sonnet if Grok warns.
+"""Run one verse through the translation pipeline.
 
-Chapter default is economy (polish=warn). Verse buttons still run all four
-stations. Never writes translation/*.md or STATUS.md.
+Default engine is Cursor Auto: Auto drafts and audits, and Sonnet steps in
+only when the verse is questionable. `--api` keeps the paid path
+GPT → lint → Grok, then Sonnet if Grok warns.
+
+Never writes translation/*.md or STATUS.md.
 """
 
 from __future__ import annotations
@@ -314,9 +317,11 @@ def empty_queue(slug: str, chapter: int, verses: list[int]) -> dict:
         "book": book.slug,
         "label": book.label,
         "chapter": chapter,
+        "engine": "cursor",
         "verses": verses,
         "passed": [],
         "holds": [],
+        "waiting": [],
         "errors": [],
         "skipped": [],
         "updated": datetime.now(timezone.utc).isoformat(),
@@ -353,11 +358,12 @@ def public_error(raw: str) -> str:
     return text
 
 
-def load_queue(slug: str, chapter: int) -> dict:
+def load_queue(slug: str, chapter: int, *, engine: str = "api") -> dict:
     verses = list_verses(slug, chapter)
     path = queue_path(slug, chapter)
     stored = _read(path)
     queue = empty_queue(slug, chapter, verses)
+    queue["engine"] = engine
     if stored:
         queue.update(
             {
@@ -378,7 +384,19 @@ def load_queue(slug: str, chapter: int) -> dict:
     ]
     disk_holds = []
     disk_passed = []
+    classify = None
+    if engine == "cursor":
+        from cursor_auto import classify as classify
     for verse in verses:
+        if classify is not None:
+            current = classify(slug, chapter, verse)
+            status = current["status"]
+            if status == "hold":
+                disk_holds.append(current)
+                continue
+            if status == "passed":
+                disk_passed.append(verse)
+            continue
         status = verse_disk_status(slug, chapter, verse)
         if status == "hold":
             draft_audit = _read(audit_path(slug, chapter, verse, DRAFT_LABEL)) or {}
@@ -426,11 +444,18 @@ def run_one_verse(
     resume: bool = True,
     polish: str = "warn",
     steps: dict | None = None,
+    engine: str = "api",
 ) -> dict:
-    """Chapter default: GPT → lint → Grok. Sonnet only if Grok warns.
+    """Paid path: GPT → lint → Grok. Sonnet only if Grok warns.
 
-    Never writes translation/*.md or STATUS.md.
+    engine="cursor" drafts and audits with Cursor Auto and calls Sonnet
+    only when the verse is questionable. Never writes translation/*.md
+    or STATUS.md.
     """
+    if engine == "cursor":
+        from cursor_auto import run_verse
+
+        return run_verse(slug, chapter, verse, resume=resume, polish=polish)
     fns = steps or {}
     status = verse_disk_status(slug, chapter, verse, polish=polish)
     if resume and status == "passed":
@@ -525,15 +550,29 @@ def run_chapter(
     start: int = 1,
     end: int | None = None,
     resume: bool = True,
-    require_api_keys: bool = True,
+    require_api_keys: bool | None = None,
     polish: str = "warn",
     steps: dict | None = None,
     on_progress: object | None = None,
+    engine: str = "cursor",
 ) -> dict:
+    if require_api_keys is None:
+        require_api_keys = engine == "api"
     if require_api_keys:
         require_keys(sonnet=polish == "always")
     verses = [vs for vs in list_verses(slug, chapter) if vs >= start and (end is None or vs <= end)]
-    queue = load_queue(slug, chapter)
+    queue = load_queue(slug, chapter, engine=engine)
+    queue["waiting"] = []
+    queue["engine"] = engine
+    if engine == "cursor":
+        queue["instruction"] = (
+            "Cursor Auto handles draft and audit requests. "
+            "For each waiting item, read the request, follow system+user, "
+            "and write only the JSON object to the reply path. "
+            "Use Sonnet only when model is sonnet. "
+            "Do not call GPT or Grok. Do not write translation/*.md or STATUS.md. "
+            "Re-run the chapter after the replies are saved."
+        )
     queue["running"] = True
     book = get_book(slug)
     with _chapter_lock:
@@ -556,7 +595,13 @@ def run_chapter(
             save_queue(queue)
             try:
                 result = run_one_verse(
-                    slug, chapter, verse, resume=resume, polish=polish, steps=steps
+                    slug,
+                    chapter,
+                    verse,
+                    resume=resume,
+                    polish=polish,
+                    steps=steps,
+                    engine=engine,
                 )
             except Exception as exc:
                 result = {"status": "error", "verse": verse, "error": str(exc)}
@@ -581,6 +626,19 @@ def run_chapter(
             elif result["status"] == "skipped":
                 if verse not in queue["skipped"]:
                     queue["skipped"].append(verse)
+            elif result["status"] == "waiting":
+                queue["waiting"] = [item for item in queue["waiting"] if item.get("verse") != verse]
+                queue["waiting"].append(
+                    {
+                        "verse": verse,
+                        "stage": result.get("stage"),
+                        "model": result.get("model"),
+                        "request": result.get("request"),
+                        "reply": result.get("reply"),
+                    }
+                )
+                queue["passed"] = [item for item in queue["passed"] if item != verse]
+                queue["holds"] = [item for item in queue["holds"] if item.get("verse") != verse]
             else:
                 queue["errors"].append(
                     {
@@ -609,7 +667,11 @@ def run_chapter(
 
 def start_chapter(slug: str, chapter: int, **kwargs) -> dict:
     get_book(slug)
-    if kwargs.get("require_api_keys", True):
+    engine = kwargs.get("engine", "cursor")
+    kwargs.setdefault("engine", engine)
+    if "require_api_keys" not in kwargs:
+        kwargs["require_api_keys"] = engine == "api"
+    if kwargs["require_api_keys"]:
         require_keys(sonnet=kwargs.get("polish", "warn") == "always")
     with _chapter_lock:
         if _chapter_job["running"]:

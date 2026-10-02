@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run one OT book chapter-by-chapter via scripts (economy polish=warn).
+"""Run one OT book chapter-by-chapter. Default engine is Cursor Auto.
 
     python3 tools/pipeline/run_book.py jeremias
     python3 tools/pipeline/run_book.py jeremias --from-chapter 1 --to-chapter 52

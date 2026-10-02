@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Auto-run one chapter: GPT → lint → Grok. Sonnet only if Grok warns.
+"""Run one chapter. Default is Cursor Auto; Sonnet only if a verse is questionable.
 
-Parks lint/Grok fails for the app. Never writes translation/*.md or STATUS.md.
+Never writes translation/*.md or STATUS.md. Re-run after Cursor writes reply JSON.
 
     python3 tools/pipeline/run_chapter.py exodo 1
     python3 tools/pipeline/run_chapter.py exodo 1 --from 1 --to 5
+    python3 tools/pipeline/run_chapter.py exodo 1 --api
     python3 tools/pipeline/run_chapter.py exodo 1 --full
-    python3 tools/pipeline/run_chapter.py exodo 1 --no-resume
 """
 
 from __future__ import annotations
@@ -36,7 +36,12 @@ def main() -> int:
     parser.add_argument(
         "--full",
         action="store_true",
-        help="Always run Sonnet + drift Grok (four stations). Default is GPT+Grok; Sonnet only if Grok warns.",
+        help="Ask Sonnet for every verse. Default asks Sonnet only when a verse is questionable.",
+    )
+    parser.add_argument(
+        "--api",
+        action="store_true",
+        help="Paid path: GPT drafts, Grok audits, Sonnet only if Grok warns. Default is Cursor Auto.",
     )
     args = parser.parse_args()
 
@@ -53,14 +58,24 @@ def main() -> int:
         end=args.end,
         resume=not args.no_resume,
         polish="always" if args.full else "warn",
+        engine="api" if args.api else "cursor",
         on_progress=progress,
     )
     usage = queue.get("usage") or {}
     print(
         json.dumps(
             {
+                "engine": queue.get("engine"),
                 "passed": queue.get("passed"),
                 "holds": [item.get("verse") for item in queue.get("holds") or []],
+                "waiting": [
+                    {
+                        "verse": item.get("verse"),
+                        "stage": item.get("stage"),
+                        "model": item.get("model"),
+                    }
+                    for item in queue.get("waiting") or []
+                ],
                 "errors": queue.get("errors"),
                 "usd": usage.get("usd"),
                 "usdPerVerse": usage.get("usdPerVerse"),
