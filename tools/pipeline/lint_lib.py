@@ -1,4 +1,4 @@
-"""Cheap local holds before Grok. No API. Never writes translation/*.md."""
+"""Cheap local checks before an audit. No API. Never writes translation/*.md."""
 
 from __future__ import annotations
 

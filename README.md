@@ -74,21 +74,12 @@ Un libro, un archivo de español. Un libro, un archivo de alineación.
 
 ## Cómo se trabaja
 
-El proceso está en [`WORKFLOW.md`](WORKFLOW.md).
+La traducción se produce en [`tools/pipeline/README.md`](tools/pipeline/README.md).
+Cursor Auto redacta y audita. Sonnet entra solo cuando un versículo es
+cuestionable. GPT y Grok no son el camino normal.
+
+`STATUS.md` y `tools/verify.py` no deciden el español.
 Las reglas de los datos están en [`DATA_CONTRACT.md`](DATA_CONTRACT.md).
-
-```sh
-python3 tools/status.py
-```
-
-Estados: `none` | `draft` | `ready` | `done`.
-
-```sh
-python3 tools/verify.py
-```
-
-Eso mueve trabajo completo a `ready`. Nada está `done` hasta que una
-persona lo firme en `STATUS.md` y `python3 tools/status.py` siga pasando.
 
 Publicar es aparte de `done`. Un libro firmado va a `cgv-data` en dos pasos:
 

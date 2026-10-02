@@ -156,7 +156,9 @@ def allowed_token_ids(packet: dict) -> set[str]:
     }
 
 
-def normalize_audit(raw: dict, packet: dict, spanish: str, label: str) -> dict:
+def normalize_audit(
+    raw: dict, packet: dict, spanish: str, label: str, auditor: str | None = None
+) -> dict:
     allowed = allowed_token_ids(packet)
     findings = []
     for item in raw.get("findings") or []:
@@ -175,9 +177,11 @@ def normalize_audit(raw: dict, packet: dict, spanish: str, label: str) -> dict:
             }
         )
     has_fail = any(item["severity"] == "fail" for item in findings)
+    if auditor is None:
+        auditor = "Cursor Auto" if label in {"auto", "lbf"} else "Grok 4.6"
     return {
         "schema": AUDIT_SCHEMA,
-        "auditor": "Grok 4.6",
+        "auditor": auditor,
         "book": packet["book"],
         "reference": packet["reference"],
         "chapter": packet["chapter"],

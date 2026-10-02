@@ -1,7 +1,11 @@
 # STATUS
 
+This ledger is not the translation process. Spanish is produced by
+`tools/pipeline/`: Cursor Auto drafts and audits; Sonnet steps in only
+when a verse is questionable. `tools/verify.py` does not decide the Spanish.
+
 Four states: `none` | `draft` | `ready` | `done`.
-How to work: `WORKFLOW.md`. How the data may live: `DATA_CONTRACT.md`.
+How to work: `tools/pipeline/README.md`. How the data may live: `DATA_CONTRACT.md`.
 
 `ready` is written only by `python3 tools/verify.py`. That means the checks
 passed. You still approve.

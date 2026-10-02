@@ -1,13 +1,18 @@
 # Flujo de trabajo
 
-Este es el único proceso de producción. No hay puertas G0A, G0B ni
-`PASS` que sustituyan a una firma humana.
+La traducción se produce en `tools/pipeline/`. Ese es el proceso.
+Cursor Auto redacta y audita cada versículo. Sonnet entra solo cuando
+el versículo es cuestionable. GPT y Grok no son el camino normal.
+El detalle está en `tools/pipeline/README.md`.
+
+`STATUS.md` y `tools/verify.py` no deciden el español. Un `ready` o un
+`done` ahí no sustituye el paquete de fuente, el borrador ni la auditoría.
 
 Lea el juramento en `README.md` antes de escribir español.
 
 ## Estados
 
-`STATUS.md` es el único libro mayor.
+`STATUS.md` es un registro aparte. No es el proceso de traducción.
 
 | Estado | Significado |
 | --- | --- |
@@ -28,11 +33,16 @@ Si cambia un libro `done`, borre esa firma. Vuelve a `draft`.
 
 ## Traducir
 
-1. Leer el hebreo o el griego. No empezar por el español.
-2. Observar lemas, morfología y la cláusula.
-3. Consultar el contexto después de la gramática, no antes.
-4. Escribir el versículo en `translation/nt/{libro}.md` o `translation/ot/{libro}.md`.
-5. Revisar en voz alta contra la fuente.
+Un versículo, un paquete de fuente. No empezar por el español ya escrito.
+
+1. Armar el paquete: TR1894 en el NT, OSHB/WLC en el AT. Numeración protestante.
+2. Cursor Auto redacta desde ese paquete.
+3. El lint local aparta los fallos conocidos.
+4. Cursor Auto audita la fidelidad. Si pasa limpio, el versículo sigue.
+5. Si hay algo cuestionable, entra Sonnet. Auto vuelve a auditar ese español.
+6. El texto pasado puede copiarse a `translation/nt/{libro}.md` o `translation/ot/{libro}.md`.
+
+GPT y Grok solo con `run_chapter.py --api`.
 
 Formato:
 
@@ -52,8 +62,7 @@ Numeración protestante. Un archivo por libro.
 No suavice. No fortalezca. No resuelva lo que el texto deja abierto.
 No trabaje de memoria ni desde la teología.
 
-La traducción queda `draft` hasta que usted lea el libro entero y firme
-`STATUS.md`. El script exige que estén todos los versículos protestantes.
+Eso no firma el libro. `tools/verify.py` tampoco lo aprueba.
 
 ## Alinear
 
@@ -80,19 +89,17 @@ Tito hoy tiene 72 frases `auto-zip`. Eso no es alineación terminada.
 
 ## Comprobar
 
-```sh
-python3 tools/verify.py
-python3 tools/status.py
-```
-
-`verify.py` mueve `draft` a `ready` cuando el archivo está completo:
-todos los versículos protestantes, unidades a mano, el español se reconstruye.
-Si falla, el libro sigue en `draft` y el script dice por qué.
-
-`status.py` no escribe estados. Si `STATUS.md` dice `ready` o `done` y el
-archivo falta, está corto, o todavía tiene auto/gloss, el script falla.
+La comprobación de la traducción es la auditoría de Cursor Auto en
+`tools/pipeline/`, y Sonnet cuando el versículo es cuestionable.
+`tools/verify.py` no es ese juicio. Si se corre, solo mira si el archivo
+está completo. `status.py` no escribe estados. Si `STATUS.md` dice `ready`
+o `done` y el archivo falta, está corto, o todavía tiene auto/gloss, el
+script falla.
 
 ## Proceso en Translator
+
+Translator no reemplaza `tools/pipeline/`. La secuencia de abajo es la
+entrega del libro en la aplicación, no la manera de redactar el español.
 
 Translator presenta una sola secuencia por libro:
 

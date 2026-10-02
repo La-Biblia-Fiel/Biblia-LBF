@@ -16,8 +16,11 @@ When two copies differ, stop. Do not choose by timestamp, file size,
 apparent completeness, or Git history alone.
 
 Spanish lives in `translation/`. Alignment lives in `alignment/`.
-Finished lives only in `STATUS.md`. States: `none` | `draft` | `ready` | `done`.
-`python3 tools/verify.py` may write `ready`. Never infer `done`.
+Translation is produced by `tools/pipeline/`: Cursor Auto drafts and audits;
+Sonnet steps in only when a verse is questionable. Do not use GPT or Grok
+unless the task explicitly asks for the paid path.
+`STATUS.md` and `tools/verify.py` do not decide the Spanish. States recorded
+there are `none` | `draft` | `ready` | `done`. Never infer `done`.
 Translator may record `done` only after the user explicitly activates its
 named-human approval control for a stage already marked `ready`.
 
