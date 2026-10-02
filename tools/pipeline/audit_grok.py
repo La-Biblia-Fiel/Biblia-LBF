@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Grok 4.6 source-fidelity audit for one verse.
+"""Paid path only. Grok source-fidelity audit for one verse.
+
+The procedure audits with Cursor Auto via run_chapter.py. Do not use
+this script unless you passed --api. See tools/pipeline/README.md.
 
 Does not write translation markdown or STATUS.md.
 

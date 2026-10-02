@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""When a book's chapter queues are complete: retry errors, apply passes, roll holds.
+"""Copy passed verses into translation/*.md and roll holds aside.
 
-Does not call Agent. Does not write STATUS.md.
+Uses Sonnet's Spanish when Sonnet ran, otherwise the Cursor Auto draft.
+Does not call a model. Does not write STATUS.md. See tools/pipeline/README.md.
 
     python3 tools/pipeline/finish_book_apply.py jeremias
     python3 tools/pipeline/finish_book_apply.py jeremias --watch

@@ -1,9 +1,11 @@
 # Translator workflow
 
-The project workflow is [`WORKFLOW.md`](../../WORKFLOW.md).
+Translation follows [`WORKFLOW.md`](../../WORKFLOW.md) and
+[`tools/pipeline/README.md`](../../tools/pipeline/README.md).
 
-This application edits `translation/` and `alignment/`.
-It presents the canonical book sequence from translation through export.
-A named human may explicitly approve a verified (`ready`) stage here; that
-signature is written directly to the selected row in `STATUS.md`.
-It does not keep a second corpus.
+Cursor Auto drafts and audits. Sonnet steps in only when a verse is
+questionable. This application does not replace that procedure and does
+not keep a second corpus.
+
+`STATUS.md` is a separate ledger. A named human may record a signature
+here after they have reviewed the book. No model can do that.

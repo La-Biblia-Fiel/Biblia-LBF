@@ -1,9 +1,8 @@
-"""Grok 4.6 source-fidelity auditor.
+"""Source-fidelity auditor.
 
-Grok does not rewrite. It cites tokens or the finding is discarded.
-
-    python3 tools/pipeline/audit_grok.py exodo 1 16 --spanish '...'
-    python3 tools/pipeline/audit_grok.py exodo 1 16 --candidate-file path.json --prompt-only
+Cursor Auto is the auditor in the procedure. It does not rewrite. A
+finding without a source token id is discarded. The xAI call is the
+paid path only (`audit_grok.py`).
 """
 
 from __future__ import annotations

@@ -65,9 +65,11 @@ No se emplean ediciones del texto crítico para decidir el texto de LBF.
 
 | Qué | Dónde |
 | --- | --- |
+| Procedimiento | `WORKFLOW.md` y `tools/pipeline/README.md` |
+| Paquetes, borradores, auditorías | `pipeline/` |
 | Español | `translation/nt/` y `translation/ot/` |
 | Alineación | `alignment/nt/` y `alignment/ot/` |
-| Terminado | `STATUS.md` |
+| Registro aparte | `STATUS.md` |
 | Fuentes | `source/` |
 
 Un libro, un archivo de español. Un libro, un archivo de alineación.
