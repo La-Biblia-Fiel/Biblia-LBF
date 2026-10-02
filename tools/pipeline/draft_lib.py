@@ -1,6 +1,7 @@
-"""GPT-5.6 source-faithful verse draft (Traduce).
+"""Source-faithful verse draft (Traduce).
 
-Does not write translation markdown or STATUS.md.
+Cursor Auto is the drafter in the procedure. The OpenAI call is the
+paid path only. Does not write translation markdown or STATUS.md.
 """
 
 from __future__ import annotations

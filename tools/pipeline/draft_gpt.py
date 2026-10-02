@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Traduce: GPT-5.6 source-faithful draft for one verse.
+"""Paid path only. GPT draft for one verse.
+
+The procedure is Cursor Auto via run_chapter.py. Do not use this script
+unless you passed --api. See tools/pipeline/README.md.
 
 Does not write translation markdown or STATUS.md.
 
     python3 tools/pipeline/draft_gpt.py exodo 1 16
     python3 tools/pipeline/draft_gpt.py exodo 1 16 --prompt-only
     python3 tools/pipeline/draft_gpt.py exodo 1 16 --ingest gpt-response.json
-
-Without OPENAI_API_KEY, writes a Cursor GPT request. Reuses a matching
-on-disk draft if one exists. Then run audit_grok.py on that Spanish.
 """
 
 from __future__ import annotations
