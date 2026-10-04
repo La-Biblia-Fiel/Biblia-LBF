@@ -138,18 +138,18 @@ The first command writes Cursor Auto requests. The second reads
 `*.audit-lbf.reply.json`. It does not rewrite the verse. Paid xAI is
 `audit_translation.py … --xai` and is not the procedure.
 
-## Paid path
+## Previous script
 
-Only when you mean to spend the API:
+The paid GPT → Grok runner is a different file:
 
 ```sh
-python3 tools/pipeline/run_chapter.py exodo 1 --api
+python3 tools/pipeline/run_chapter-old.py exodo 1
 ```
 
-That path is GPT, then local lint, then Grok. Sonnet runs only when
-Grok warns. `draft_gpt.py`, `audit_grok.py`, and `polish_sonnet.py`
-belong to that path. They are not the next step after a Cursor Auto
-request.
+That is GPT, then local lint, then Grok. Sonnet runs only when Grok
+warns. Its JSON has `passed`, `holds`, and `errors`, and no `engine`
+field. `draft_gpt.py`, `audit_grok.py`, and `polish_sonnet.py` belong
+to that path. They are not the next step after a Cursor Auto request.
 
 ## Checks
 

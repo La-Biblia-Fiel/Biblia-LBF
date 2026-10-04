@@ -1,8 +1,8 @@
 """Run one verse through the translation pipeline.
 
 Default engine is Cursor Auto: Auto drafts and audits, and Sonnet steps in
-only when the verse is questionable. `--api` keeps the paid path
-GPT → lint → Grok, then Sonnet if Grok warns.
+only when the verse is questionable. The paid path is run_chapter-old.py
+(GPT → lint → Grok, then Sonnet if Grok warns).
 
 Never writes translation/*.md or STATUS.md.
 """

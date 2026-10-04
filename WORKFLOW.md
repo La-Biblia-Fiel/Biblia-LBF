@@ -42,8 +42,8 @@ estas cosas:
 Si después de Sonnet el lint sigue fallando, o la segunda auditoría
 sigue cuestionable, el versículo queda apartado. Sonnet no se repite.
 
-GPT y Grok no entran. El camino de pago es otro comando:
-`python3 tools/pipeline/run_chapter.py <libro> <capítulo> --api`.
+GPT y Grok no entran en este comando. El script anterior está en
+`python3 tools/pipeline/run_chapter-old.py <libro> <capítulo>`.
 
 ### Cómo se corre
 
@@ -266,7 +266,7 @@ publicación.
 ## Lo que este flujo no es
 
 No es `STATUS.md` ni `tools/verify.py`.
-No es GPT ni Grok, salvo `run_chapter.py --api`.
+No es GPT ni Grok. Ese camino es `run_chapter-old.py`.
 No es Sonnet en cada versículo.
 No es una máquina de aprobaciones por verso.
 No es un segundo corpus bajo `apps/translator/`.
