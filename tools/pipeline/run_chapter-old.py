@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
-"""Current chapter command. Cursor Auto drafts and audits.
+"""Previous chapter runner: GPT → lint → Grok. Sonnet only if Grok warns.
 
-Sonnet runs only when a verse is questionable. The previous GPT → Grok
-script is run_chapter-old.py.
+The current command is run_chapter.py (Cursor Auto). Use this file only
+for the paid path.
 
-Never writes translation/*.md or STATUS.md. Re-run after Cursor writes reply JSON.
+Parks lint/Grok fails. Never writes translation/*.md or STATUS.md.
 
-    python3 tools/pipeline/run_chapter.py exodo 1
-    python3 tools/pipeline/run_chapter.py exodo 1 --from 1 --to 5
-    python3 tools/pipeline/run_chapter.py exodo 1 --full
+    python3 tools/pipeline/run_chapter-old.py exodo 1
+    python3 tools/pipeline/run_chapter-old.py exodo 1 --from 1 --to 5
+    python3 tools/pipeline/run_chapter-old.py exodo 1 --full
+    python3 tools/pipeline/run_chapter-old.py exodo 1 --no-resume
 """
 
 from __future__ import annotations
@@ -38,7 +39,7 @@ def main() -> int:
     parser.add_argument(
         "--full",
         action="store_true",
-        help="Ask Sonnet for every verse. Default asks Sonnet only when a verse is questionable.",
+        help="Always run Sonnet + drift Grok (four stations). Default is GPT+Grok; Sonnet only if Grok warns.",
     )
     args = parser.parse_args()
 
@@ -55,24 +56,15 @@ def main() -> int:
         end=args.end,
         resume=not args.no_resume,
         polish="always" if args.full else "warn",
-        engine="cursor",
+        engine="api",
         on_progress=progress,
     )
     usage = queue.get("usage") or {}
     print(
         json.dumps(
             {
-                "engine": queue.get("engine"),
                 "passed": queue.get("passed"),
                 "holds": [item.get("verse") for item in queue.get("holds") or []],
-                "waiting": [
-                    {
-                        "verse": item.get("verse"),
-                        "stage": item.get("stage"),
-                        "model": item.get("model"),
-                    }
-                    for item in queue.get("waiting") or []
-                ],
                 "errors": queue.get("errors"),
                 "usd": usage.get("usd"),
                 "usdPerVerse": usage.get("usdPerVerse"),
