@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:18",
+  "chapter": 1,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y llamó rey de Egipto a las que hacen dar a luz, y dijo a ellas: ¿Por qué hicieron esta palabra, y hicieron vivir a los hijos?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001018008",
+        "h02001018011"
+      ],
+      "issue": "2fp you did this thing and you let the boys live became 3rd-person hicieron",
+      "spanishSpan": "hicieron"
+    }
+  ],
+  "notes": "the king is addressing the midwives",
+  "discardedUncitedFindings": 0
+}

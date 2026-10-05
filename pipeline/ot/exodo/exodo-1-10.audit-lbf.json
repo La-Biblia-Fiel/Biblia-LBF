@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:10",
+  "chapter": 1,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Da, seamos sabios a él, no sea que se multiplique, y será que acontezcan guerra, y se añada también él sobre nuestros aborrecedores, y luche en nosotros, y suba desde la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001010001"
+      ],
+      "issue": "הבה is the hortatory come; Da is the bare imperative give",
+      "spanishSpan": "Da"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001010016"
+      ],
+      "issue": "fight ב is against us; en nosotros can be read as inside us",
+      "spanishSpan": "en nosotros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

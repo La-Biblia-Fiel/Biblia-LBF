@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:15",
+  "chapter": 1,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo rey de Egipto a las que hacen dar a luz, las hebreas, que nombre de la una era Shifrá, y nombre de la segunda era Puá:",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001015007",
+        "h02001015010"
+      ],
+      "issue": "era is a copula; Hebrew is the name of the one and the name of the second",
+      "spanishSpan": "era"
+    }
+  ],
+  "notes": "the king speaks to the Hebrew midwives",
+  "discardedUncitedFindings": 0
+}

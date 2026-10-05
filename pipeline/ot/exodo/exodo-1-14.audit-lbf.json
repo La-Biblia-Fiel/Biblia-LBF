@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:14",
+  "chapter": 1,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y amargaron sus vidas en servicio duro, en barro y en ladrillos y en todo servicio en el campo; todo su servicio que sirvieron en ellos en dureza.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001014016"
+      ],
+      "issue": "בהם is with them; en ellos does not say who the suffix is",
+      "spanishSpan": "en ellos"
+    }
+  ],
+  "notes": "bitter lives, hard service, mortar, bricks, field work, harshness",
+  "discardedUncitedFindings": 0
+}

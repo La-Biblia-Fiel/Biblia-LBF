@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:7",
+  "chapter": 1,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y hijos de Israel fructificaron y enjambraron y se multiplicaron y se fortalecieron en mucho mucho, y se llenó la tierra de ellos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001007007",
+        "h02001007008"
+      ],
+      "issue": "en mucho mucho is a stiff calque of the repeated adverb; the force is still exceedingly",
+      "spanishSpan": "en mucho mucho"
+    }
+  ],
+  "notes": "four verbs and the land was filled with them",
+  "discardedUncitedFindings": 0
+}

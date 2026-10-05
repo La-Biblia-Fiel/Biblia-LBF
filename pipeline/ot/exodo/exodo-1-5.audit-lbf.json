@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:5",
+  "chapter": 1,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue toda alma que salió de los lomos de Jacob, setenta almas; y José estaba en Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001005004"
+      ],
+      "issue": "the participle is plural, those who came out; Spanish singular salió agrees with alma",
+      "spanishSpan": "salió"
+    }
+  ],
+  "notes": "seventy souls and Joseph was in Egypt are licensed",
+  "discardedUncitedFindings": 0
+}

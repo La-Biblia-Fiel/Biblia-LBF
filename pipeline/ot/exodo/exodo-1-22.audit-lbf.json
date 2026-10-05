@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:22",
+  "chapter": 1,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y mandó Faraón a todo su pueblo, diciendo: Todo hijo nacido, hacia el Yeor lo arrojarán, y toda hija harán vivir.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001022010",
+        "h02001022013"
+      ],
+      "issue": "2mp you shall throw him into the Yeor and you shall let every daughter live became 3rd-person arrojarán and harán vivir",
+      "spanishSpan": "arrojarán"
+    }
+  ],
+  "notes": "Yeor stays the name",
+  "discardedUncitedFindings": 0
+}

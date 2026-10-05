@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:9",
+  "chapter": 1,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo a su pueblo: He aquí, pueblo de hijos de Israel mucho y recio de nosotros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001009008",
+        "h02001009009",
+        "h02001009010"
+      ],
+      "issue": "רב ועצום ממנו is more numerous and mighty than we; mucho y recio de nosotros drops the comparison",
+      "spanishSpan": "mucho y recio de nosotros"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:12",
+  "chapter": 1,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y como afligían a él, así se multiplicaba, y así reventaba. Y se hastiaron de faces de hijos de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001012007"
+      ],
+      "issue": "פרץ is break out or spread; reventaba is harsher than the verb licenses",
+      "spanishSpan": "reventaba"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001012009"
+      ],
+      "issue": "מפני means because of; faces keeps the literal noun of the idiom",
+      "spanishSpan": "faces"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

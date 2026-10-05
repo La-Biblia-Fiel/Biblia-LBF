@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:11",
+  "chapter": 1,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y pusieron sobre él príncipes de levas, a fin de afligirlo en sus cargas; y edificó ciudades de depósitos a Faraón, a Pitom y a Raamses.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001011004"
+      ],
+      "issue": "מסים is forced labor; levas narrows it toward a military levy",
+      "spanishSpan": "levas"
+    }
+  ],
+  "notes": "they set them over him to oppress him, and he built store cities",
+  "discardedUncitedFindings": 0
+}

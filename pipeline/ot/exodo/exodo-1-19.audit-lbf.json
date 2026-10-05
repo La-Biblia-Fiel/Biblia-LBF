@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:19",
+  "chapter": 1,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijeron las que hacen dar a luz a Faraón: Porque no como las mujeres mizraitas, las hebreas, porque son vivas ellas; antes de que venga a ellas la que hace dar a luz, y ellas dieron a luz.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001019008"
+      ],
+      "issue": "the Egyptian women are las egipcias; mizraitas is a transliteration",
+      "spanishSpan": "mizraitas"
+    }
+  ],
+  "notes": "they give birth before the midwife comes",
+  "discardedUncitedFindings": 0
+}
