@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Seed gpt56 drafts from translation/*.md so run_chapter skips OpenAI.
+"""Seed paid-path gpt56 drafts from translation/*.md.
+
+The Cursor Auto procedure reads draft-auto.json, not these files.
+Use this only with run_chapter-old.py.
 
     python3 tools/pipeline/seed_drafts_from_translation.py jeremias
 """

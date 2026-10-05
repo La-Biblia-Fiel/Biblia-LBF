@@ -1,9 +1,8 @@
-"""Grok 4.6 source-fidelity auditor.
+"""Source-fidelity auditor.
 
-Grok does not rewrite. It cites tokens or the finding is discarded.
-
-    python3 tools/pipeline/audit_grok.py exodo 1 16 --spanish '...'
-    python3 tools/pipeline/audit_grok.py exodo 1 16 --candidate-file path.json --prompt-only
+Cursor Auto is the auditor in the procedure. It does not rewrite. A
+finding without a source token id is discarded. The xAI call is the
+paid path only (`audit_grok.py`).
 """
 
 from __future__ import annotations
@@ -156,7 +155,9 @@ def allowed_token_ids(packet: dict) -> set[str]:
     }
 
 
-def normalize_audit(raw: dict, packet: dict, spanish: str, label: str) -> dict:
+def normalize_audit(
+    raw: dict, packet: dict, spanish: str, label: str, auditor: str | None = None
+) -> dict:
     allowed = allowed_token_ids(packet)
     findings = []
     for item in raw.get("findings") or []:
@@ -175,9 +176,11 @@ def normalize_audit(raw: dict, packet: dict, spanish: str, label: str) -> dict:
             }
         )
     has_fail = any(item["severity"] == "fail" for item in findings)
+    if auditor is None:
+        auditor = "Cursor Auto" if label in {"auto", "lbf"} else "Grok 4.6"
     return {
         "schema": AUDIT_SCHEMA,
-        "auditor": "Grok 4.6",
+        "auditor": auditor,
         "book": packet["book"],
         "reference": packet["reference"],
         "chapter": packet["chapter"],

@@ -1,51 +1,159 @@
-# Translation source pipeline
+# Translation pipeline
 
-Machine drafts stay `draft`. This pipeline does not write `STATUS.md`
-or `translation/*.md`.
+This is the procedure. One Protestant verse at a time, from a source
+packet. NT: **TR1894**. OT: **OSHB/WLC + Paleo/AHRC**.
 
-Allowed sources: **TR1894** (NT) or **OSHB/WLC + Paleo/AHRC** (OT).
+Cursor Auto drafts and audits. Sonnet steps in only when the verse is
+questionable. GPT and Grok are not in this procedure. `STATUS.md` and
+`tools/verify.py` do not accept a verse.
+
+Spanish is current Latin American (`tú` / ustedes), not Spain
+*vosotros*. Proper names: `translation/PROPER_NAMES.md`.
+יהוה → Jehová. אלהים as God → Dios.
+
+## Stations
+
+| Order | Who | When |
+| --- | --- | --- |
+| 1 | source packet | every verse |
+| 2 | Cursor Auto drafts | every verse |
+| 3 | local lint | every verse, no model |
+| 4 | Cursor Auto audits | lint passed |
+| 5 | Sonnet | the verse is questionable |
+| 6 | Cursor Auto audits again | only the Spanish Sonnet wrote |
+
+A clean pass stays with Auto. Clean means the audit has no fail and no
+warn, and the draft has no uncertainty, added concept, or dropped unit.
+
+Sonnet runs when any of these is true:
+
+- lint hits a known failure (*vosotros*, *parir*, dual stones turned
+  into a stool, or another rule in `lint_lib.py`)
+- the audit fails or warns
+- the draft lists an uncertainty, an added concept, or a dropped unit
+
+After Sonnet, Auto audits that Spanish once. If lint still fails, or
+that second audit is still questionable, the verse is parked. Sonnet
+does not run again on it.
+
+## Run a chapter
 
 ```sh
-python3 tools/pipeline/build_source_packet.py exodo 1 16
-python3 tools/pipeline/draft_gpt.py exodo 1 16
-python3 tools/pipeline/audit_grok.py exodo 1 16 \
-  --candidate-file pipeline/ot/exodo/exodo-1-16.draft-gpt56.json --label gpt56
-python3 tools/pipeline/polish_sonnet.py exodo 1 16
 python3 tools/pipeline/run_chapter.py exodo 1
-python3 tools/pipeline/audit_translation.py genesis 1              # Cursor Auto requests (default)
-python3 tools/pipeline/audit_translation.py genesis 1 --mode ingest
-python3 tools/pipeline/audit_translation.py genesis 1 --mode xai   # paid xAI only if needed
-python3 tools/pipeline/test_source_packet.py
-python3 apps/pipeline/server.py   # http://127.0.0.1:1432/
+python3 tools/pipeline/run_chapter.py exodo 1 --from 1 --to 5
 ```
 
-GPT drafts (Traduce / `lbf-drafter`). Source-fidelity audits may be Cursor Auto
-(default for `audit_translation.py`) or xAI Grok (`--mode xai`). Chapter runs
-skip Sonnet unless Grok warns (`--full` always polishes). Local lint parks known
-anti-examples before audit. Verse buttons still run all four stations.
-Sonnet (Pulir / `lbf-polisher`, HARD model Claude Sonnet 5) never moves meaning.
+The script writes under `pipeline/ot/exodo/` (or `pipeline/nt/{book}/`).
+It does not write `translation/*.md` or `STATUS.md`. It does not call
+GPT, Grok, or Sonnet itself. It writes requests. You answer them, then
+run the same command again.
 
-`audit_translation.py` audits Spanish already in `translation/*.md` (label `lbf`).
-Default `--mode cursor`: builds packets + `*.audit-lbf.request.json` and a
-chapter `*.queue.json` for Cursor agent **Audita** / Auto. Save each reply as
-`*.audit-lbf.reply.json`, then `--mode ingest`. Resume skips matching audits.
-`--lint` is opt-in (Genesis narrative uses *parió*; midwife lint is for
-Exodus-style drafts).
+A book is the same loop, chapter by chapter:
 
-Cost: prompts send compact JSON and omit non-binding AHRC. GPT default
-`LBF_GPT_REASONING=low` (was API default medium). Keep `LBF_GPT_MODEL=gpt-5.6`.
-For a further cut after a chapter still holds, try `gpt-5.6-terra`.
+```sh
+python3 tools/pipeline/run_book.py exodo
+python3 tools/pipeline/run_book.py exodo --from-chapter 1 --to-chapter 5
+```
 
-Spanish: current Latin American (`tú` / *ustedes*). Not Spain *vosotros*.
-Proper names: conventional Spanish when it exists
-(`translation/PROPER_NAMES.md`). If a rendering would only identify the
-referent, keep the traditional name and note the ID when useful.
-יהוה → Jehová; אלהים as God → Dios. No lemma dumps.
+`run_book.py` also does not call a model. Re-run it after the replies
+for that pass exist.
 
-`run_chapter.py` auto-advances verses that Grok passes (no warns) and parks
-lint/Grok fails for the app. It does not write `translation/*.md` or
-`STATUS.md`. Resume skips passed verses and parked holds until you repair them.
+## Answer the queue
 
-Without `OPENAI_API_KEY` / `XAI_API_KEY`, omit `--ingest`. The tools write
-request JSON under `pipeline/` and reuse a matching Cursor result already
-on disk. `--ingest` is only for a JSON file you actually saved.
+The chapter queue is `pipeline/{ot|nt}/{book}/{book}-{chapter}.queue.json`.
+Read `waiting`. Each item has `verse`, `stage`, `model`, `request`, and
+`reply`.
+
+| `model` | Who answers |
+| --- | --- |
+| `cursor-auto` | Cursor Auto |
+| `sonnet` | Sonnet |
+
+Open the request JSON. Follow `system` and `user`. Write only the JSON
+object to the reply path. Do not write `translation/` or `STATUS.md`.
+
+Requests and replies use these names:
+
+| Stage | Request | Reply | Saved result |
+| --- | --- | --- | --- |
+| packet | | | `{book}-{chapter}-{verse}.packet.json` |
+| draft | `…draft-auto.request.json` | `…draft-auto.reply.json` | `…draft-auto.json` |
+| lint | | | `…lint.json` |
+| audit | `…audit-auto.request.json` | `…audit-auto.reply.json` | `…audit-auto.json` |
+| Sonnet | `…polish-sonnet5.request.json` | `…polish-sonnet5.reply.json` | `…polish-sonnet5.json` |
+| re-audit | `…audit-pulir.request.json` | `…audit-pulir.reply.json` | `…audit-pulir.json` |
+
+The verse moves like this:
+
+1. Draft request. Auto replies. Re-run.
+2. Lint. A lint failure skips the audit and asks Sonnet next.
+3. Otherwise an audit request. Auto replies. Re-run.
+4. Clean pass: the queue marks the verse `passed`.
+5. Questionable: a Sonnet request. Sonnet replies. Re-run.
+6. Re-audit request. Auto replies. Re-run.
+7. Clean: `passed`. Still questionable: `hold`.
+
+Repeat until `waiting` is empty. `--no-resume` redoes verses that
+already passed or are parked. Leave it off for a normal run.
+
+`--full` asks Sonnet for every verse, including clean passes. Do not
+use it for a normal chapter.
+
+## Put passed Spanish in the book file
+
+```sh
+python3 tools/pipeline/finish_book_apply.py exodo
+```
+
+This copies `passed` verses into `translation/ot/exodo.md` or
+`translation/nt/{book}.md`. Sonnet’s text is used when Sonnet ran;
+otherwise the Auto draft. Holds are written to
+`pipeline/{ot|nt}/{book}/_logs/parked-holds.json`. The script does not
+sign `STATUS.md`.
+
+Book file shape:
+
+```markdown
+# Tito
+
+## Capítulo 1
+
+### 1:1
+
+Pablo, siervo de Dios…
+```
+
+One verse, one `### chapter:verse` heading. One file per book.
+
+## Spanish already in translation/
+
+Do not redraft it with the chapter loop. Audit it:
+
+```sh
+python3 tools/pipeline/audit_translation.py genesis 1
+python3 tools/pipeline/audit_translation.py genesis 1 --mode ingest
+```
+
+The first command writes Cursor Auto requests. The second reads
+`*.audit-lbf.reply.json`. It does not rewrite the verse. Paid xAI is
+`audit_translation.py … --xai` and is not the procedure.
+
+## Previous script
+
+The paid GPT → Grok runner is a different file:
+
+```sh
+python3 tools/pipeline/run_chapter-old.py exodo 1
+```
+
+That is GPT, then local lint, then Grok. Sonnet runs only when Grok
+warns. Its JSON has `passed`, `holds`, and `errors`, and no `engine`
+field. `draft_gpt.py`, `audit_grok.py`, and `polish_sonnet.py` belong
+to that path. They are not the next step after a Cursor Auto request.
+
+## Checks
+
+```sh
+python3 tools/pipeline/test_cursor_auto.py
+python3 tools/pipeline/test_source_packet.py
+```

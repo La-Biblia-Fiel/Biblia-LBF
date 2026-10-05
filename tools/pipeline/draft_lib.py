@@ -1,6 +1,7 @@
-"""GPT-5.6 source-faithful verse draft (Traduce).
+"""Source-faithful verse draft (Traduce).
 
-Does not write translation markdown or STATUS.md.
+Cursor Auto is the drafter in the procedure. The OpenAI call is the
+paid path only. Does not write translation markdown or STATUS.md.
 """
 
 from __future__ import annotations
@@ -91,7 +92,7 @@ def normalize_draft(raw: dict, packet: dict, label: str) -> dict:
     added = [str(x).strip() for x in (raw.get("addedConcepts") or []) if str(x).strip()]
     return {
         "schema": DRAFT_SCHEMA,
-        "drafter": "GPT-5.6",
+        "drafter": "Cursor Auto" if label == "auto" else "GPT-5.6",
         "label": label,
         "book": packet["book"],
         "reference": packet["reference"],

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""When a book's chapter queues are complete: retry errors, apply passes, roll holds.
+"""Copy passed verses into translation/*.md and roll holds aside.
 
-Does not call Agent. Does not write STATUS.md.
+Uses Sonnet's Spanish when Sonnet ran, otherwise the Cursor Auto draft.
+Does not call a model. Does not write STATUS.md. See tools/pipeline/README.md.
 
     python3 tools/pipeline/finish_book_apply.py jeremias
     python3 tools/pipeline/finish_book_apply.py jeremias --watch
@@ -130,6 +131,7 @@ def best_spanish(slug: str, ch: int, vs: int, remap) -> str | None:
     for path in (
         polish_path(slug, ch, vs, "sonnet5"),
         polish_path(slug, ch, vs, "pulir"),
+        draft_path(slug, ch, vs, "auto"),
         draft_path(slug, ch, vs, "gpt56"),
     ):
         if path.is_file():

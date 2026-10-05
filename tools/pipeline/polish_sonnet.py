@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
-"""Pulir: Claude Sonnet 5 grammar polish for one Grok-passed verse.
+"""Paid-path Sonnet call. Not how a chapter asks for Sonnet.
+
+run_chapter.py writes a Sonnet request when a verse is questionable.
+Answer that request in Cursor. This script calls the Anthropic API and
+still refuses unless the draft audit verdict is pass.
 
 Does not write translation markdown or STATUS.md.
 
     python3 tools/pipeline/polish_sonnet.py exodo 1 16
     python3 tools/pipeline/polish_sonnet.py exodo 1 16 --prompt-only
-
-Refuses if the GPT draft has no Grok audit with verdict pass.
 """
 
 from __future__ import annotations

@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Run one OT book chapter-by-chapter via scripts (economy polish=warn).
+"""Run one book chapter by chapter on the Cursor Auto procedure.
+
+Writes requests. Does not call Auto or Sonnet. Re-run after replies exist.
+See tools/pipeline/README.md.
 
     python3 tools/pipeline/run_book.py jeremias
     python3 tools/pipeline/run_book.py jeremias --from-chapter 1 --to-chapter 52
 
-Resume-safe. Does not write translation/*.md or STATUS.md.
-Agent is not invoked — holds stay parked under pipeline/ot/<book>/_logs/.
+Does not write translation/*.md or STATUS.md.
 """
 
 from __future__ import annotations
