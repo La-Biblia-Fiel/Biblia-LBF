@@ -32,31 +32,61 @@ Sonnet runs when any of these is true:
 - the audit fails or warns
 - the draft lists an uncertainty, an added concept, or a dropped unit
 
-After Sonnet, Auto audits that Spanish once. If lint still fails, or
-that second audit is still questionable, the verse is parked. Sonnet
-does not run again on it.
+After Sonnet, Auto audits that Spanish once. A remaining lint hit, or a
+re-audit verdict of `fail`, parks the verse and leaves the previous
+Spanish. A `pass` is written into the verse. Warns on that pass stay in
+the audit file for the human read. Sonnet does not run again.
 
 ## Run a chapter
 
 ```sh
-python3 tools/pipeline/run_chapter.py exodo 1
-python3 tools/pipeline/run_chapter.py exodo 1 --from 1 --to 5
+python3 tools/pipeline/auto_pass.py exodo 1
+python3 tools/pipeline/auto_pass.py exodo 1 --from 1 --to 5
 ```
 
-The script writes under `pipeline/ot/exodo/` (or `pipeline/nt/{book}/`).
-It does not write `translation/*.md` or `STATUS.md`. It does not call
-GPT, Grok, or Sonnet itself. It writes requests. You answer them, then
-run the same command again.
+This command calls the Cursor CLI (`agent`) for Cursor Auto and, when
+the verse is questionable, for Sonnet. It walks the chapter and writes
+a passing repair into `translation/`. When it finishes, a person reads
+the chapter and the report and approves. It does not sign `STATUS.md`.
 
-A book is the same loop, chapter by chapter:
+`agent` has to be on `PATH` and logged in:
 
 ```sh
-python3 tools/pipeline/run_book.py exodo
-python3 tools/pipeline/run_book.py exodo --from-chapter 1 --to-chapter 5
+curl https://cursor.com/install -fsS | bash
+agent login
+agent models
 ```
 
-`run_book.py` also does not call a model. Re-run it after the replies
-for that pass exist.
+`LBF_CURSOR_AUTO_MODEL` defaults to `auto`. `LBF_CURSOR_SONNET_MODEL`
+defaults to `claude-sonnet-5` (or `LBF_SONNET_MODEL` when that is set).
+If the CLI rejects the id, set one from `agent models`.
+
+Spanish already in the book file is audited. A clean pass stays. A fail
+or a warn goes to Sonnet once. Auto audits that Spanish again. Verdict
+`pass` replaces the verse. Verdict `fail`, or a lint hit that remains,
+parks the verse and leaves the previous line.
+
+The report is
+`pipeline/{ot|nt}/{book}/_logs/{book}-{chapter}.auto-pass.json`.
+
+A verse with no Spanish yet is drafted by Auto, then audited on the
+same path. It enters the book file when the audit accepts it.
+
+`--no-resume` calls the models again. `--full` sends every verse to
+Sonnet, including a clean pass. Leave both off for a normal chapter.
+
+The request queue is still there for answering inside the editor, one
+JSON file at a time:
+
+```sh
+python3 tools/pipeline/run_chapter.py exodo 1
+python3 tools/pipeline/run_book.py exodo
+```
+
+Those scripts write requests under `pipeline/`. They do not call the
+CLI. Re-run them after each reply file exists. `finish_book_apply.py`
+copies that queue's `passed` verses into the book file.
+`auto_pass.py` is the command that finishes a chapter on its own.
 
 ## Answer the queue
 
@@ -91,7 +121,7 @@ The verse moves like this:
 4. Clean pass: the queue marks the verse `passed`.
 5. Questionable: a Sonnet request. Sonnet replies. Re-run.
 6. Re-audit request. Auto replies. Re-run.
-7. Clean: `passed`. Still questionable: `hold`.
+7. Re-audit `pass`: `passed`, even when warns remain. Re-audit `fail`: `hold`.
 
 Repeat until `waiting` is empty. `--no-resume` redoes verses that
 already passed or are parked. Leave it off for a normal run.
@@ -127,16 +157,16 @@ One verse, one `### chapter:verse` heading. One file per book.
 
 ## Spanish already in translation/
 
-Do not redraft it with the chapter loop. Audit it:
-
 ```sh
-python3 tools/pipeline/audit_translation.py genesis 1
-python3 tools/pipeline/audit_translation.py genesis 1 --mode ingest
+python3 tools/pipeline/auto_pass.py exodo 1
 ```
 
-The first command writes Cursor Auto requests. The second reads
-`*.audit-lbf.reply.json`. It does not rewrite the verse. Paid xAI is
-`audit_translation.py … --xai` and is not the procedure.
+That command audits the file, sends fails and warns to Sonnet once,
+re-audits, and writes repairs whose verdict is `pass`.
+
+`audit_translation.py` only writes audit requests for a manual editor
+reply. It does not repair. Paid xAI is `audit_translation.py … --xai`
+and is not the procedure.
 
 ## Previous script
 
@@ -154,6 +184,7 @@ to that path. They are not the next step after a Cursor Auto request.
 ## Checks
 
 ```sh
+python3 tools/pipeline/test_auto_pass.py
 python3 tools/pipeline/test_cursor_auto.py
 python3 tools/pipeline/test_source_packet.py
 ```

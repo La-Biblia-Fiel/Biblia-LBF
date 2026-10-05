@@ -17,8 +17,10 @@ apparent completeness, or Git history alone.
 
 Spanish lives in `translation/`. Alignment lives in `alignment/`.
 Translation is produced by `tools/pipeline/`: Cursor Auto drafts and audits;
-Sonnet steps in only when a verse is questionable. Do not use GPT or Grok
-unless the task explicitly asks for the paid path.
+Sonnet steps in only when a verse is questionable. The unattended chapter
+command is `python3 tools/pipeline/auto_pass.py <book> <chapter>`. It calls
+the Cursor CLI. A person reads and approves when that command has finished.
+Do not use GPT or Grok unless the task explicitly asks for the paid path.
 `STATUS.md` and `tools/verify.py` do not decide the Spanish. States recorded
 there are `none` | `draft` | `ready` | `done`. Never infer `done`.
 Translator may record `done` only after the user explicitly activates its

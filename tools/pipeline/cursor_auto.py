@@ -1,5 +1,8 @@
 """Cursor Auto translation path.
 
+The unattended command is auto_pass.py (it calls the Cursor CLI).
+This module is the request-file loop used by run_chapter.py.
+
 Auto drafts and audits. Sonnet steps in only when a verse is questionable
 (lint, audit fail, audit warn, uncertainty, added concept, or dropped unit).
 GPT and Grok are not called. Nothing here writes translation/*.md or STATUS.md.
@@ -312,7 +315,7 @@ def classify(slug: str, chapter: int, verse: int, *, polish: str = "warn") -> di
         polish_lint = lint_spanish(polish_spanish)
         if polish_lint:
             return hold(verse, "lint", polish_spanish, polish_lint, "Sonnet left a lint failure")
-        if polish_audit and (polish_audit.get("verdict") == "fail" or warns(polish_audit)):
+        if polish_audit and polish_audit.get("verdict") == "fail":
             return hold(
                 verse,
                 "audit-polish",
@@ -390,7 +393,7 @@ def run_verse(slug: str, chapter: int, verse: int, *, resume: bool = True, polis
             "cursor-auto",
             write_audit_request(slug, chapter, verse, packet, polish_spanish, POLISH_AUDIT_LABEL),
         )
-    if polish_audit.get("verdict") != "pass" or warns(polish_audit):
+    if polish_audit.get("verdict") == "fail":
         return hold(
             verse,
             "audit-polish",

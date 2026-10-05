@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Current chapter command. Cursor Auto drafts and audits.
+"""Request-file chapter loop, for answering inside the editor.
+
+The unattended command is auto_pass.py. It calls the Cursor CLI.
+This script writes requests and waits for reply JSON on disk.
 
 Sonnet runs only when a verse is questionable. The previous GPT → Grok
 script is run_chapter-old.py.

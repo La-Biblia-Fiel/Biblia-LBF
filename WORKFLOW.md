@@ -40,62 +40,65 @@ estas cosas:
 - el borrador trae incertidumbre, concepto añadido o unidad sin token
 
 Si después de Sonnet el lint sigue fallando, o la segunda auditoría
-sigue cuestionable, el versículo queda apartado. Sonnet no se repite.
+tiene veredicto `fail`, el versículo queda apartado y el español
+anterior permanece. Un `pass` entra en el archivo aunque traiga avisos;
+esos avisos quedan en la auditoría para la lectura humana. Sonnet no se
+repite.
 
 GPT y Grok no entran en este comando. El script anterior está en
 `python3 tools/pipeline/run_chapter-old.py <libro> <capítulo>`.
 
 ### Cómo se corre
 
+Un capítulo. El comando llama al CLI de Cursor: Auto audita, y Sonnet
+repara una sola vez cuando el versículo es cuestionable. Recorre el
+capítulo y escribe el español que pasó la segunda auditoría. Cuando
+termina, una persona lee el capítulo y el informe, y aprueba.
+
+```sh
+python3 tools/pipeline/auto_pass.py exodo 1
+python3 tools/pipeline/auto_pass.py exodo 1 --from 1 --to 5
+```
+
+Hace falta `agent` en el PATH, con sesión iniciada:
+
+```sh
+curl https://cursor.com/install -fsS | bash
+agent login
+agent models
+```
+
+`LBF_CURSOR_AUTO_MODEL` vale `auto` si no se define.
+`LBF_CURSOR_SONNET_MODEL` vale `claude-sonnet-5` si no se define. Si el
+CLI rechaza ese id, use uno que liste `agent models`.
+
+El español que ya está en `translation/` se audita. Un pase limpio se
+queda. Un fallo o un aviso va a Sonnet. Auto vuelve a auditar ese
+español. El arreglo entra en el versículo cuando el veredicto es
+`pass`. Si el veredicto es `fail`, o el lint sigue fallando, el
+versículo queda en el informe y el español anterior permanece.
+
+El informe queda en
+`pipeline/{ot|nt}/{libro}/_logs/{libro}-{capítulo}.auto-pass.json`.
+El comando no firma `STATUS.md`.
+
+Si el versículo todavía no tiene español, Auto lo redacta y sigue el
+mismo ciclo. Entra en el archivo cuando la auditoría lo acepta.
+
+La cola de peticiones sigue disponible para contestar dentro del
+editor, un JSON a la vez:
+
 ```sh
 python3 tools/pipeline/run_chapter.py exodo 1
 ```
 
-Eso escribe el paquete, las peticiones y la cola del capítulo en
-`pipeline/ot/exodo/` (o `pipeline/nt/` para un libro del Nuevo
-Testamento). No escribe `translation/` ni `STATUS.md`.
-
-La cola `{libro}-{capítulo}.queue.json` lista lo que espera. Cada ítem
-trae `model`, `request` y `reply`.
-
-- `model` `cursor-auto`: respóndalo con Cursor Auto.
-- `model` `sonnet`: respóndalo con Sonnet.
-
-Abra el JSON de `request`, siga `system` y `user`, y escriba solo el
-objeto JSON en la ruta `reply`. Vuelva a correr el mismo comando. Lo
-que ya tiene respuesta se incorpora y sale la petición siguiente.
-
-El ciclo, por versículo, es este:
-
-1. Petición de borrador (`draft-auto`). Auto responde.
-2. Lint. Si falla, la petición siguiente es de Sonnet, sin auditoría
-   del español malo.
-3. Si el lint pasó, petición de auditoría (`audit-auto`). Auto responde.
-4. Si pasa limpio, el versículo queda `passed`.
-5. Si es cuestionable, petición de Sonnet (`polish-sonnet5`).
-6. Petición de re-auditoría (`audit-pulir`). Auto responde.
-7. Limpio: `passed`. Sigue cuestionable: `hold`.
-
-Repita hasta que `waiting` quede vacío. Un libro entero:
-
-```sh
-python3 tools/pipeline/run_book.py exodo
-```
-
-Ese comando tampoco llama al modelo. Escribe peticiones. Se responde y
-se vuelve a correr.
-
-Cuando la cola del capítulo ya no espera y usted quiere el español en
-el archivo del libro:
-
-```sh
-python3 tools/pipeline/finish_book_apply.py exodo
-```
-
-Copia los versículos `passed` a `translation/ot/exodo.md` o
-`translation/nt/{libro}.md`. Si Sonnet intervino, usa ese texto; si no,
-el borrador de Auto. No firma nada. Los apartados quedan en
-`pipeline/.../_logs/parked-holds.json`.
+Ese script escribe el paquete y las peticiones en `pipeline/`. Cada
+ítem de `{libro}-{capítulo}.queue.json` trae `model`, `request` y
+`reply`. `cursor-auto` lo responde Cursor Auto. `sonnet` lo responde
+Sonnet. El objeto JSON se escribe en `reply` y se vuelve a correr el
+mismo comando. `run_book.py` hace lo mismo, capítulo por capítulo.
+`finish_book_apply.py` copia los `passed` de esa cola al archivo del
+libro. El comando de arriba es el que termina el capítulo solo.
 
 Formato del archivo:
 
@@ -114,15 +117,16 @@ libro.
 
 ### Español que ya está en translation/
 
-Eso no se vuelve a redactar con el ciclo de arriba. Se audita:
-
 ```sh
-python3 tools/pipeline/audit_translation.py genesis 1
-python3 tools/pipeline/audit_translation.py genesis 1 --mode ingest
+python3 tools/pipeline/auto_pass.py exodo 1
 ```
 
-La primera escribe peticiones para Cursor Auto. La segunda incorpora
-las respuestas. No reescribe el versículo.
+Ese es el comando. Audita el texto del archivo, manda a Sonnet los
+fallos y los avisos, vuelve a auditar, y escribe los arreglos con
+veredicto `pass`.
+
+`audit_translation.py` solo escribe las peticiones de auditoría para
+contestarlas a mano dentro del editor. No repara.
 
 ## Alinear
 

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Audit Spanish already in translation/*.md against source packets.
+"""Write audit requests for Spanish already in translation/*.md.
 
-Never writes translation/*.md or STATUS.md.
+The unattended repair command is auto_pass.py. This script does not
+call Sonnet and does not rewrite the verse. Never writes STATUS.md.
 
 Default is Cursor Auto (no xAI bill): write request JSON, then ingest replies.
 

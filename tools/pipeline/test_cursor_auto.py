@@ -154,6 +154,19 @@ class CursorAutoTests(unittest.TestCase):
         self.assertEqual(result["status"], "passed")
         self.assertEqual(result["stage"], "audit-polish")
 
+        self.write(
+            "audit-pulir.json",
+            {
+                "verdict": "pass",
+                "spanish": CLEAN,
+                "findings": [
+                    {"severity": "warn", "issue": "copula", "sourceTokenIds": ["h02001016007"]}
+                ],
+            },
+        )
+        result = cursor_auto.run_verse("exodo", 1, 99, resume=False)
+        self.assertEqual(result["status"], "passed")
+
 
 if __name__ == "__main__":
     unittest.main()
