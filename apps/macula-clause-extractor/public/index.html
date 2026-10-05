@@ -5,13 +5,19 @@
     <main>
       <p class="eyebrow">Biblia-LBF · Read-only linguistic analysis</p>
       <h1>MACULA Hebrew clause extractor</h1>
-      <p class="intro">Inspect the existing MACULA clause hierarchy for Isaiah 53. LBF Spanish remains a separate source; this tool writes no translation, alignment, status, or canonical data.</p>
+      <p class="intro">Project objective: finding prophetic statements in Scripture. This tool preserves linguistic evidence and presents preliminary semantic analysis separately; it does not assign prophecy classifications.</p>
       <form id="range"><label>Book <select name="book" id="book"></select></label><label>Chapter <input name="chapter" type="number" value="53" min="1"></label><label>From <input name="from" type="number" value="4" min="1"></label><label>To <input name="to" type="number" value="6" min="1"></label><button>Extract clauses</button></form>
       <p id="summary" role="status">Loading…</p>
       <section id="clauses" aria-live="polite"></section>
+      <section id="jev-results" aria-live="polite"></section>
+      <section id="candidate-results" aria-live="polite"></section>
+      <section id="verification-results" aria-live="polite"></section>
+      <section id="relationship-results" aria-live="polite"></section>
       <details><summary>Raw JSON</summary><pre id="json"></pre></details>
     </main>
     <template id="clause"><article><div class="meta"></div><h2></h2><p class="lbf"></p><p class="hebrew" dir="rtl"></p><p class="gloss"></p><p class="relation"></p></article></template>
+    <template id="jev-unit"><article class="jev-unit"><div class="meta record-status"></div><h2></h2><p class="evidence-label">Linguistic evidence (canonical; not a model judgment)</p><p class="hebrew source-expression" dir="rtl"></p><p class="predicate"></p><p class="scope"></p><div class="judgment"></div></article></template>
+    <template id="candidate-unit"><article class="candidate-unit"><div class="meta"></div><h2></h2><p class="hebrew statement" dir="rtl"></p><p class="scope"></p><p class="candidate"></p><p class="details"></p></article></template>
     <script type="module" src="/main.js"></script>
   </body>
 </html>

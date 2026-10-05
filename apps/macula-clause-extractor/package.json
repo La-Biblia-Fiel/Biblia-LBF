@@ -9,6 +9,21 @@
     "extract": "node cli.js",
     "propositions": "node proposition-cli.js",
     "jev:dry-run": "node jev-state-cli.js",
+    "ollama:pilot": "node ollama-systemone-pilot.js",
+    "ollama:verify-templates": "node ollama-systemone-pilot.js --template-verification",
+    "ollama:verify-template-controls": "node ollama-systemone-pilot.js --template-controls-only",
+    "ollama:verify-template-hebrew": "node ollama-systemone-pilot.js --template-hebrew-only",
+    "ollama:verify-template-v3": "node ollama-systemone-pilot.js --template-v3-fixtures",
+    "openrouter:verify-template-v3": "node openrouter-jev-fixtures.js",
+    "openrouter:verify-hebrew-v3": "node openrouter-jev-hebrew.js",
+    "openrouter:pilot-isaiah-53": "node openrouter-jev-hebrew.js --isaiah-53-4-6",
+    "export:jev-results": "node jev-results-export.js",
+    "prophecy:candidate-dry-run": "node passage-candidate-cli.js",
+    "passage:relationships": "node passage-relationships-cli.js",
+    "openrouter:passage-relationships": "node openrouter-jev-passage-relationships.js",
+    "openrouter:passage-candidate": "node openrouter-jev-passage-candidate.js",
+    "openrouter:verify-1ki13": "node openrouter-jev-1ki13-verification.js",
+    "ollama:export": "node ollama-pilot-export.js",
     "test": "node --test"
   }
 }

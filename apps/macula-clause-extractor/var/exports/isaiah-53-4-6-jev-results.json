@@ -1,0 +1,3446 @@
+{
+  "schema_version": "0.1.0",
+  "read_only": true,
+  "objective": "Finding prophetic statements in Scripture",
+  "label": "Preliminary semantic analysis — not prophecy classification",
+  "warning": "Jev outputs are model judgments, not linguistic source facts. They never overwrite canonical propositions; asserted, none_expressed, and uncertain temporal results are not evidence that a proposition is non-prophetic.",
+  "requested_model": "typesafe/jev-1.13",
+  "records_directory": "/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/var/openrouter-jev-hebrew-v0.3.0",
+  "units": [
+    {
+      "proposition_id": "isa_53_04_2305300400110050_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 4
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "אָכֵ֤ן חֳלָיֵ֨ נוּ֙ ה֣וּא נָשָׂ֔א",
+          "word_ids": [
+            "o230530040011",
+            "o230530040021",
+            "o230530040022",
+            "o230530040031",
+            "o230530040041"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "verbal",
+          "word_id": "o230530040041",
+          "surface_expression": {
+            "word_ids": [
+              "o230530040041"
+            ],
+            "text": "נָשָׂ֔א",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:4!4"
+          },
+          "source_node_id": "2305300400410010",
+          "text": "נָשָׂ֔א",
+          "lemma": "נָשָׂא",
+          "pos": "verb",
+          "stem": "qal",
+          "type": "qatal",
+          "morphology": "Vqp3ms",
+          "person": "third",
+          "gender": "masculine",
+          "number": "singular",
+          "voice": "active",
+          "agent": null,
+          "semantic_roles": [
+            {
+              "role": "A1",
+              "targets": [
+                "230530040021"
+              ]
+            },
+            {
+              "role": "A0",
+              "targets": [
+                "230530040031"
+              ]
+            }
+          ],
+          "frame_raw": [
+            "A1:230530040021; A0:230530040031;"
+          ]
+        },
+        "grammatical_scope": {
+          "source_rule": "ADV-O-S-V",
+          "complements": []
+        },
+        "participants": [
+          {
+            "participant_id": "phrase:2305300400310012",
+            "role": "subject",
+            "semantic_role": "subject",
+            "source": "syntax",
+            "status": "referenced",
+            "surface_word_ids": [
+              "o230530040031"
+            ],
+            "text": "ה֣וּא",
+            "resolution": {
+              "source": "Ref",
+              "target": "230520130031",
+              "target_ids": [
+                "230520130031"
+              ]
+            },
+            "component_references": [
+              {
+                "word_id": "o230530040031",
+                "resolution": {
+                  "source": "Ref",
+                  "target": "230520130031",
+                  "target_ids": [
+                    "230520130031"
+                  ]
+                }
+              }
+            ],
+            "features": {
+              "person": "third",
+              "gender": "masculine",
+              "number": "singular"
+            }
+          }
+        ],
+        "arguments": [
+          {
+            "role": "ADV",
+            "argument_type": "adverbial",
+            "text": "אָכֵ֤ן",
+            "source_node_id": "2305300400110012",
+            "words": [
+              "o230530040011"
+            ]
+          },
+          {
+            "role": "O",
+            "argument_type": "object",
+            "text": "חֳלָיֵ֨ נוּ֙",
+            "source_node_id": "2305300400210021",
+            "words": [
+              "o230530040021",
+              "o230530040022"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230390080041 230520070061 230520120141",
+              "target_ids": [
+                "230390080041",
+                "230520070061",
+                "230520120141"
+              ]
+            }
+          },
+          {
+            "role": "S",
+            "argument_type": "subject",
+            "text": "ה֣וּא",
+            "source_node_id": "2305300400310012",
+            "words": [
+              "o230530040031"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230520130031",
+              "target_ids": [
+                "230520130031"
+              ]
+            }
+          }
+        ],
+        "unresolved_relations": []
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "d34dde49e95cc3fde65d5de8ad47b1ebc843239e95ab2160384b5ef3363b992b",
+      "saved_request_fingerprint": "d34dde49e95cc3fde65d5de8ad47b1ebc843239e95ab2160384b5ef3363b992b",
+      "saved_record_file": "isa_53_04_2305300400110050_p1.d34dde49e95cc3fde65d5de8ad47b1ebc843239e95ab2160384b5ef3363b992b.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.2",
+        "question_versions": {
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0"
+        },
+        "request_id": "isa_53_04_2305300400110050_p1:jev-state:0.3.0",
+        "request_fingerprint": "d34dde49e95cc3fde65d5de8ad47b1ebc843239e95ab2160384b5ef3363b992b",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 3009,
+          "output_tokens": 263
+        },
+        "elapsed_ms": 351,
+        "attempted_at": "2026-10-02T15:01:38.426Z",
+        "questions": [
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “נָשָׂ֔א” (o230530040041) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040041\"],\"source_text\":\"נָשָׂ֔א\",\"predicate_word_id\":\"o230530040041\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040041"
+              ],
+              "source_text": "נָשָׂ֔א",
+              "predicate_word_id": "o230530040041"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "questioned": 0.01,
+                "hypothetical": 0,
+                "underdetermined": 0.02,
+                "asserted": 0.97
+              },
+              "reported_confidence": 0.97
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “נָשָׂ֔א” (o230530040041) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040041\"],\"source_text\":\"נָשָׂ֔א\",\"predicate_word_id\":\"o230530040041\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040041"
+              ],
+              "source_text": "נָשָׂ֔א",
+              "predicate_word_id": "o230530040041"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "possibility_or_permission": 0,
+                "expectation_or_prediction": 0,
+                "intention": 0,
+                "multiple": 0,
+                "none_expressed": 1,
+                "underdetermined": 0,
+                "directive_or_obligation": 0
+              },
+              "reported_confidence": 1
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “נָשָׂ֔א” (o230530040041) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040041\"],\"source_text\":\"נָשָׂ֔א\",\"predicate_word_id\":\"o230530040041\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040041"
+              ],
+              "source_text": "נָשָׂ֔א",
+              "predicate_word_id": "o230530040041"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "event",
+              "probabilities": {
+                "event_state_ambiguous": 0.06,
+                "event": 0.9,
+                "state_or_relation": 0.03,
+                "underdetermined": 0.01
+              },
+              "reported_confidence": 0.87
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “נָשָׂ֔א” (o230530040041) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040041\"],\"source_text\":\"נָשָׂ֔א\",\"predicate_word_id\":\"o230530040041\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040041"
+              ],
+              "source_text": "נָשָׂ֔א",
+              "predicate_word_id": "o230530040041",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "current_or_general",
+              "probabilities": {
+                "subsequent": 0.01,
+                "prior": 0.3,
+                "current_or_general": 0.33999999999999997,
+                "underdetermined": 0.28,
+                "temporally_unspecified": 0.07
+              },
+              "reported_confidence": 0.19
+            }
+          }
+        ]
+      }
+    },
+    {
+      "proposition_id": "isa_53_04_2305300400610020_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 4
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "מַכְאֹבֵ֖י נוּ סְבָלָ֑ ם",
+          "word_ids": [
+            "o230530040052",
+            "o230530040053",
+            "o230530040061",
+            "o230530040062"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "verbal",
+          "word_id": "o230530040061",
+          "surface_expression": {
+            "word_ids": [
+              "o230530040061",
+              "o230530040062"
+            ],
+            "text": "סְבָלָ֑ם",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:4!6"
+          },
+          "source_node_id": "2305300400610010",
+          "text": "סְבָלָ֑",
+          "lemma": "סָבַל",
+          "pos": "verb",
+          "stem": "qal",
+          "type": "qatal",
+          "morphology": "Vqp3ms",
+          "person": "third",
+          "gender": "masculine",
+          "number": "singular",
+          "voice": "active",
+          "agent": null,
+          "semantic_roles": [
+            {
+              "role": "A0",
+              "targets": [
+                "230520130031"
+              ]
+            },
+            {
+              "role": "A1",
+              "targets": [
+                "230530040062"
+              ]
+            }
+          ],
+          "frame_raw": [
+            "A0:230520130031; A1:230530040062;"
+          ]
+        },
+        "grammatical_scope": {
+          "source_rule": "V-O",
+          "complements": []
+        },
+        "participants": [
+          {
+            "participant_id": "macula:230520130031",
+            "role": "subject",
+            "semantic_role": "subject",
+            "source": "SubjRef",
+            "status": "referenced",
+            "surface_word_id": "o230530040061",
+            "resolution": {
+              "source": "SubjRef",
+              "target": "230520130031",
+              "target_ids": [
+                "230520130031"
+              ]
+            },
+            "features": {
+              "person": "third",
+              "gender": "masculine",
+              "number": "singular"
+            }
+          }
+        ],
+        "arguments": [
+          {
+            "role": "O",
+            "argument_type": "object",
+            "text": "מַכְאֹבֵ֖י",
+            "source_node_id": "2305300400620012",
+            "words": [
+              "o230530040062"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230530040052",
+              "target_ids": [
+                "230530040052"
+              ],
+              "target_word_id": "o230530040052"
+            }
+          }
+        ],
+        "unresolved_relations": []
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "d68288c65f245ca29a648c5c5f10cbb9710a6d94c3dcbf1a22bb7437d3740f4b",
+      "saved_request_fingerprint": "d68288c65f245ca29a648c5c5f10cbb9710a6d94c3dcbf1a22bb7437d3740f4b",
+      "saved_record_file": "isa_53_04_2305300400610020_p1.d68288c65f245ca29a648c5c5f10cbb9710a6d94c3dcbf1a22bb7437d3740f4b.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.2",
+        "question_versions": {
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0"
+        },
+        "request_id": "isa_53_04_2305300400610020_p1:jev-state:0.3.0",
+        "request_fingerprint": "d68288c65f245ca29a648c5c5f10cbb9710a6d94c3dcbf1a22bb7437d3740f4b",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 2998,
+          "output_tokens": 264
+        },
+        "elapsed_ms": 200,
+        "attempted_at": "2026-10-02T15:01:38.785Z",
+        "questions": [
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “סְבָלָ֑” (o230530040061) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040061\"],\"source_text\":\"סְבָלָ֑\",\"predicate_word_id\":\"o230530040061\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040061"
+              ],
+              "source_text": "סְבָלָ֑",
+              "predicate_word_id": "o230530040061"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "underdetermined": 0.05,
+                "asserted": 0.83,
+                "hypothetical": 0.01,
+                "questioned": 0.11
+              },
+              "reported_confidence": 0.78
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “סְבָלָ֑” (o230530040061) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040061\"],\"source_text\":\"סְבָלָ֑\",\"predicate_word_id\":\"o230530040061\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040061"
+              ],
+              "source_text": "סְבָלָ֑",
+              "predicate_word_id": "o230530040061"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "underdetermined": 0,
+                "multiple": 0,
+                "expectation_or_prediction": 0,
+                "possibility_or_permission": 0,
+                "intention": 0,
+                "directive_or_obligation": 0,
+                "none_expressed": 1
+              },
+              "reported_confidence": 1
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “סְבָלָ֑” (o230530040061) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040061\"],\"source_text\":\"סְבָלָ֑\",\"predicate_word_id\":\"o230530040061\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040061"
+              ],
+              "source_text": "סְבָלָ֑",
+              "predicate_word_id": "o230530040061"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "event",
+              "probabilities": {
+                "underdetermined": 0.01,
+                "event_state_ambiguous": 0.07,
+                "state_or_relation": 0.04,
+                "event": 0.88
+              },
+              "reported_confidence": 0.83
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “סְבָלָ֑” (o230530040061) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040061\"],\"source_text\":\"סְבָלָ֑\",\"predicate_word_id\":\"o230530040061\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040061"
+              ],
+              "source_text": "סְבָלָ֑",
+              "predicate_word_id": "o230530040061",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "underdetermined",
+              "probabilities": {
+                "underdetermined": 0.39,
+                "current_or_general": 0.28,
+                "subsequent": 0,
+                "prior": 0.22,
+                "temporally_unspecified": 0.11
+              },
+              "reported_confidence": 0.23
+            }
+          }
+        ]
+      }
+    },
+    {
+      "proposition_id": "isa_53_04_2305300400720080_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 4
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "אֲנַ֣חְנוּ חֲשַׁבְנֻ֔ הוּ נָג֛וּעַ מֻכֵּ֥ה אֱלֹהִ֖ים וּ מְעֻנֶּֽה",
+          "word_ids": [
+            "o230530040072",
+            "o230530040081",
+            "o230530040082",
+            "o230530040091",
+            "o230530040101",
+            "o230530040111",
+            "o230530040121",
+            "o230530040122"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "verbal",
+          "word_id": "o230530040081",
+          "surface_expression": {
+            "word_ids": [
+              "o230530040081",
+              "o230530040082"
+            ],
+            "text": "חֲשַׁבְנֻ֔הוּ",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:4!8"
+          },
+          "source_node_id": "2305300400810010",
+          "text": "חֲשַׁבְנֻ֔",
+          "lemma": "חָשַׁב",
+          "pos": "verb",
+          "stem": "qal",
+          "type": "qatal",
+          "morphology": "Vqp1cp",
+          "person": "first",
+          "gender": "common",
+          "number": "plural",
+          "voice": "active",
+          "agent": null,
+          "semantic_roles": [
+            {
+              "role": "A0",
+              "targets": [
+                "230530040072"
+              ]
+            },
+            {
+              "role": "A1",
+              "targets": [
+                "230530040082"
+              ]
+            },
+            {
+              "role": "A1",
+              "targets": [
+                "230520130031"
+              ]
+            }
+          ],
+          "frame_raw": [
+            "A0:230530040072; A1:230530040082;",
+            "A1:230520130031;"
+          ]
+        },
+        "grammatical_scope": {
+          "source_rule": "S-V-O-O2",
+          "complements": [
+            {
+              "source_text": "נָג֛וּעַ מֻכֵּ֥ה אֱלֹהִ֖ים וּ מְעֻנֶּֽה",
+              "word_ids": [
+                "o230530040091",
+                "o230530040101",
+                "o230530040111",
+                "o230530040121",
+                "o230530040122"
+              ],
+              "scope": {
+                "relation": "predicate_complement",
+                "governing_predicate_word_id": "o230530040081"
+              },
+              "predicates": [
+                {
+                  "word_id": "o230530040091",
+                  "source_node_id": "2305300400910010",
+                  "text": "נָג֛וּעַ",
+                  "lemma": "נָגַע",
+                  "stem": "qal",
+                  "type": "participle passive",
+                  "morphology": "Vqsmsa",
+                  "voice": "passive",
+                  "agent": null,
+                  "resolution": {
+                    "source": "SubjRef",
+                    "target": "230520130031",
+                    "target_ids": [
+                      "230520130031"
+                    ]
+                  }
+                },
+                {
+                  "word_id": "o230530040101",
+                  "source_node_id": "2305300401010010",
+                  "text": "מֻכֵּ֥ה",
+                  "lemma": "נָכָה",
+                  "stem": "hophal",
+                  "type": "participle passive",
+                  "morphology": "VHsmsc",
+                  "voice": "passive",
+                  "agent": null,
+                  "resolution": {
+                    "source": "SubjRef",
+                    "target": "230520130031",
+                    "target_ids": [
+                      "230520130031"
+                    ]
+                  }
+                },
+                {
+                  "word_id": "o230530040122",
+                  "source_node_id": "2305300401220010",
+                  "text": "מְעֻנֶּֽה",
+                  "lemma": "עָנָה",
+                  "stem": "pual",
+                  "type": "participle passive",
+                  "morphology": "VPsmsa",
+                  "voice": "passive",
+                  "agent": null,
+                  "resolution": {
+                    "source": "SubjRef",
+                    "target": "230520130031",
+                    "target_ids": [
+                      "230520130031"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "participants": [
+          {
+            "participant_id": "phrase:2305300400720012",
+            "role": "subject",
+            "semantic_role": "subject",
+            "source": "syntax",
+            "status": "referenced",
+            "surface_word_ids": [
+              "o230530040072"
+            ],
+            "text": "אֲנַ֣חְנוּ",
+            "resolution": {
+              "source": "Ref",
+              "target": "230390080041 230520070061 230520120141",
+              "target_ids": [
+                "230390080041",
+                "230520070061",
+                "230520120141"
+              ]
+            },
+            "component_references": [
+              {
+                "word_id": "o230530040072",
+                "resolution": {
+                  "source": "Ref",
+                  "target": "230390080041 230520070061 230520120141",
+                  "target_ids": [
+                    "230390080041",
+                    "230520070061",
+                    "230520120141"
+                  ]
+                }
+              }
+            ],
+            "features": {
+              "person": "first",
+              "gender": "common",
+              "number": "plural"
+            }
+          }
+        ],
+        "arguments": [
+          {
+            "role": "S",
+            "argument_type": "subject",
+            "text": "אֲנַ֣חְנוּ",
+            "source_node_id": "2305300400720012",
+            "words": [
+              "o230530040072"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230390080041 230520070061 230520120141",
+              "target_ids": [
+                "230390080041",
+                "230520070061",
+                "230520120141"
+              ]
+            }
+          },
+          {
+            "role": "O",
+            "argument_type": "object",
+            "text": "הוּ",
+            "source_node_id": "2305300400820012",
+            "words": [
+              "o230530040082"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230520130031",
+              "target_ids": [
+                "230520130031"
+              ]
+            }
+          }
+        ],
+        "unresolved_relations": []
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "a308f3476b7624c023e5559d1623d912427812f59f4b1172365786a7e31ac690",
+      "saved_request_fingerprint": "a308f3476b7624c023e5559d1623d912427812f59f4b1172365786a7e31ac690",
+      "saved_record_file": "isa_53_04_2305300400720080_p1.a308f3476b7624c023e5559d1623d912427812f59f4b1172365786a7e31ac690.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.2",
+        "question_versions": {
+          "assertion_scope": "0.3.0",
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0"
+        },
+        "request_id": "isa_53_04_2305300400720080_p1:jev-state:0.3.0",
+        "request_fingerprint": "a308f3476b7624c023e5559d1623d912427812f59f4b1172365786a7e31ac690",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 4428,
+          "output_tokens": 336
+        },
+        "elapsed_ms": 178,
+        "attempted_at": "2026-10-02T15:01:38.987Z",
+        "questions": [
+          {
+            "question_id": "assertion_scope",
+            "question_version": "0.3.0",
+            "instructions": "What is the assertion scope of governed complement “נָג֛וּעַ מֻכֵּ֥ה אֱלֹהִ֖ים וּ מְעֻנֶּֽה” (o230530040091, o230530040101, o230530040111, o230530040121, o230530040122) under governing predicate “חֲשַׁבְנֻ֔” (o230530040081)? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governed_complement\",\"governed_by\":{\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040081\"],\"source_text\":\"חֲשַׁבְנֻ֔\",\"predicate_word_id\":\"o230530040081\"},\"complements\":[{\"word_ids\":[\"o230530040091\",\"o230530040101\",\"o230530040111\",\"o230530040121\",\"o230530040122\"],\"source_text\":\"נָג֛וּעַ מֻכֵּ֥ה אֱלֹהִ֖ים וּ מְעֻנֶּֽה\"}]}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "direct_assertion": "The material is directly asserted in the passage.",
+              "reported_speech": "The material is presented as someone's reported speech.",
+              "thought_or_evaluation": "The material is governed by a thought, consideration, or evaluation rather than asserted independently.",
+              "conditional_or_hypothetical": "The material is presented as conditional or hypothetical.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governed_complement",
+              "governed_by": {
+                "target_kind": "governing_predicate",
+                "word_ids": [
+                  "o230530040081"
+                ],
+                "source_text": "חֲשַׁבְנֻ֔",
+                "predicate_word_id": "o230530040081"
+              },
+              "complements": [
+                {
+                  "word_ids": [
+                    "o230530040091",
+                    "o230530040101",
+                    "o230530040111",
+                    "o230530040121",
+                    "o230530040122"
+                  ],
+                  "source_text": "נָג֛וּעַ מֻכֵּ֥ה אֱלֹהִ֖ים וּ מְעֻנֶּֽה"
+                }
+              ]
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "thought_or_evaluation",
+              "probabilities": {
+                "direct_assertion": 0.02,
+                "conditional_or_hypothetical": 0,
+                "thought_or_evaluation": 0.97,
+                "reported_speech": 0,
+                "underdetermined": 0.01
+              },
+              "reported_confidence": 0.96
+            }
+          },
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “חֲשַׁבְנֻ֔” (o230530040081) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040081\"],\"source_text\":\"חֲשַׁבְנֻ֔\",\"predicate_word_id\":\"o230530040081\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040081"
+              ],
+              "source_text": "חֲשַׁבְנֻ֔",
+              "predicate_word_id": "o230530040081"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "hypothetical": 0,
+                "questioned": 0.01,
+                "asserted": 0.94,
+                "underdetermined": 0.05
+              },
+              "reported_confidence": 0.92
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “חֲשַׁבְנֻ֔” (o230530040081) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040081\"],\"source_text\":\"חֲשַׁבְנֻ֔\",\"predicate_word_id\":\"o230530040081\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040081"
+              ],
+              "source_text": "חֲשַׁבְנֻ֔",
+              "predicate_word_id": "o230530040081"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "expectation_or_prediction": 0,
+                "underdetermined": 0,
+                "intention": 0,
+                "directive_or_obligation": 0,
+                "multiple": 0,
+                "possibility_or_permission": 0,
+                "none_expressed": 1
+              },
+              "reported_confidence": 1
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “חֲשַׁבְנֻ֔” (o230530040081) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040081\"],\"source_text\":\"חֲשַׁבְנֻ֔\",\"predicate_word_id\":\"o230530040081\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040081"
+              ],
+              "source_text": "חֲשַׁבְנֻ֔",
+              "predicate_word_id": "o230530040081"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "event",
+              "probabilities": {
+                "event_state_ambiguous": 0.03,
+                "event": 0.95,
+                "state_or_relation": 0.02,
+                "underdetermined": 0
+              },
+              "reported_confidence": 0.93
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “חֲשַׁבְנֻ֔” (o230530040081) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530040081\"],\"source_text\":\"חֲשַׁבְנֻ֔\",\"predicate_word_id\":\"o230530040081\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530040081"
+              ],
+              "source_text": "חֲשַׁבְנֻ֔",
+              "predicate_word_id": "o230530040081",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "prior",
+              "probabilities": {
+                "temporally_unspecified": 0.04,
+                "prior": 0.56,
+                "subsequent": 0,
+                "current_or_general": 0.05,
+                "underdetermined": 0.35
+              },
+              "reported_confidence": 0.44
+            }
+          }
+        ]
+      }
+    },
+    {
+      "proposition_id": "isa_53_05_2305300500120050_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 5
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "הוּא֙ מְחֹלָ֣ל מִ פְּשָׁעֵ֔ נוּ",
+          "word_ids": [
+            "o230530050012",
+            "o230530050021",
+            "o230530050031",
+            "o230530050032",
+            "o230530050033"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "verbal",
+          "word_id": "o230530050021",
+          "surface_expression": {
+            "word_ids": [
+              "o230530050021"
+            ],
+            "text": "מְחֹלָ֣ל",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:5!2"
+          },
+          "source_node_id": "2305300500210010",
+          "text": "מְחֹלָ֣ל",
+          "lemma": "חָלַל",
+          "pos": "verb",
+          "stem": "polal",
+          "type": "participle passive",
+          "morphology": "VOsmsa",
+          "gender": "masculine",
+          "number": "singular",
+          "voice": "passive",
+          "agent": null,
+          "semantic_roles": [
+            {
+              "role": "A1",
+              "targets": [
+                "230530050012"
+              ]
+            }
+          ],
+          "frame_raw": [
+            "A1:230530050012;"
+          ]
+        },
+        "grammatical_scope": {
+          "source_rule": "S-V-PP",
+          "complements": []
+        },
+        "participants": [
+          {
+            "participant_id": "phrase:2305300500120012",
+            "role": "subject",
+            "semantic_role": "patient",
+            "source": "syntax",
+            "status": "referenced",
+            "surface_word_ids": [
+              "o230530050012"
+            ],
+            "text": "הוּא֙",
+            "resolution": {
+              "source": "Ref",
+              "target": "230520130031",
+              "target_ids": [
+                "230520130031"
+              ]
+            },
+            "component_references": [
+              {
+                "word_id": "o230530050012",
+                "resolution": {
+                  "source": "Ref",
+                  "target": "230520130031",
+                  "target_ids": [
+                    "230520130031"
+                  ]
+                }
+              }
+            ],
+            "features": {
+              "person": "third",
+              "gender": "masculine",
+              "number": "singular"
+            }
+          }
+        ],
+        "arguments": [
+          {
+            "role": "S",
+            "argument_type": "subject",
+            "text": "הוּא֙",
+            "source_node_id": "2305300500120012",
+            "words": [
+              "o230530050012"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230520130031",
+              "target_ids": [
+                "230520130031"
+              ]
+            }
+          }
+        ],
+        "unresolved_relations": [
+          {
+            "relation_type": "prepositional",
+            "preposition_lemma": "מִן",
+            "preposition_word_id": "o230530050031",
+            "surface_expression": {
+              "word_ids": [
+                "o230530050031",
+                "o230530050033"
+              ],
+              "text": "מִנוּ",
+              "attachment_source": "shared_macula_surface_word",
+              "source_surface_word": "ISA 53:5!3"
+            },
+            "object": {
+              "text": "פְּשָׁעֵ֔ נוּ",
+              "word_ids": [
+                "o230530050032",
+                "o230530050033"
+              ],
+              "resolution": {
+                "source": "Ref",
+                "target": "230390080041 230520070061 230520120141",
+                "target_ids": [
+                  "230390080041",
+                  "230520070061",
+                  "230520120141"
+                ]
+              }
+            },
+            "semantic_role": null
+          }
+        ]
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "ef1e88f14bd345bf0dc70a9602cf57c20608db03782dd005aceb60eda58a886f",
+      "saved_request_fingerprint": "ef1e88f14bd345bf0dc70a9602cf57c20608db03782dd005aceb60eda58a886f",
+      "saved_record_file": "isa_53_05_2305300500120050_p1.ef1e88f14bd345bf0dc70a9602cf57c20608db03782dd005aceb60eda58a886f.retry-1.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.1",
+        "question_versions": {
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0",
+          "relation_1": "0.3.0"
+        },
+        "request_id": "isa_53_05_2305300500120050_p1:jev-state:0.3.0",
+        "request_fingerprint": "ef1e88f14bd345bf0dc70a9602cf57c20608db03782dd005aceb60eda58a886f",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 3792,
+          "output_tokens": 335
+        },
+        "elapsed_ms": 189,
+        "attempted_at": "2026-10-02T14:54:18.761Z",
+        "questions": [
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “מְחֹלָ֣ל” (o230530050021) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050021\"],\"source_text\":\"מְחֹלָ֣ל\",\"predicate_word_id\":\"o230530050021\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050021"
+              ],
+              "source_text": "מְחֹלָ֣ל",
+              "predicate_word_id": "o230530050021"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "hypothetical": 0,
+                "underdetermined": 0.03,
+                "asserted": 0.89,
+                "questioned": 0.08
+              },
+              "reported_confidence": 0.85
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “מְחֹלָ֣ל” (o230530050021) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050021\"],\"source_text\":\"מְחֹלָ֣ל\",\"predicate_word_id\":\"o230530050021\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050021"
+              ],
+              "source_text": "מְחֹלָ֣ל",
+              "predicate_word_id": "o230530050021"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "intention": 0,
+                "multiple": 0,
+                "directive_or_obligation": 0,
+                "possibility_or_permission": 0,
+                "underdetermined": 0,
+                "expectation_or_prediction": 0,
+                "none_expressed": 1
+              },
+              "reported_confidence": 1
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “מְחֹלָ֣ל” (o230530050021) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050021\"],\"source_text\":\"מְחֹלָ֣ל\",\"predicate_word_id\":\"o230530050021\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050021"
+              ],
+              "source_text": "מְחֹלָ֣ל",
+              "predicate_word_id": "o230530050021"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "state_or_relation",
+              "probabilities": {
+                "event": 0.1,
+                "underdetermined": 0.01,
+                "event_state_ambiguous": 0.2,
+                "state_or_relation": 0.69
+              },
+              "reported_confidence": 0.6
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “מְחֹלָ֣ל” (o230530050021) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050021\"],\"source_text\":\"מְחֹלָ֣ל\",\"predicate_word_id\":\"o230530050021\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050021"
+              ],
+              "source_text": "מְחֹלָ֣ל",
+              "predicate_word_id": "o230530050021",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "underdetermined",
+              "probabilities": {
+                "subsequent": 0,
+                "temporally_unspecified": 0.14,
+                "underdetermined": 0.41,
+                "prior": 0.21,
+                "current_or_general": 0.24
+              },
+              "reported_confidence": 0.26
+            }
+          },
+          {
+            "question_id": "relation_1",
+            "question_version": "0.3.0",
+            "instructions": "What relationship does phrase “מִ פְּשָׁעֵ֔נוּ” (o230530050031, o230530050032, o230530050033) contribute to governing predicate “מְחֹלָ֣ל” (o230530050021) in construction “מְחֹלָ֣ל מִ פְּשָׁעֵ֔נוּ”? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"unresolved_relation\",\"predicate\":{\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050021\"],\"source_text\":\"מְחֹלָ֣ל\",\"predicate_word_id\":\"o230530050021\"},\"phrase\":{\"word_ids\":[\"o230530050031\",\"o230530050032\",\"o230530050033\"],\"source_text\":\"מִ פְּשָׁעֵ֔נוּ\"},\"attachment\":{\"predicate_word_id\":\"o230530050021\"},\"neighboring_source_text\":\"מְחֹלָ֣ל מִ פְּשָׁעֵ֔נוּ\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "source_or_origin": "The named phrase identifies where the named predicate's situation originates.",
+              "separation": "The named predicate describes removal or movement away from the phrase's referent.",
+              "comparison": "The named phrase supplies a comparison or standard for the named predicate.",
+              "cause_or_reason": "The named phrase supplies a cause, reason, or ground for the named predicate.",
+              "other": "The phrase expresses another relationship not listed here.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "unresolved_relation",
+              "predicate": {
+                "target_kind": "governing_predicate",
+                "word_ids": [
+                  "o230530050021"
+                ],
+                "source_text": "מְחֹלָ֣ל",
+                "predicate_word_id": "o230530050021"
+              },
+              "phrase": {
+                "word_ids": [
+                  "o230530050031",
+                  "o230530050032",
+                  "o230530050033"
+                ],
+                "source_text": "מִ פְּשָׁעֵ֔נוּ"
+              },
+              "attachment": {
+                "predicate_word_id": "o230530050021"
+              },
+              "neighboring_source_text": "מְחֹלָ֣ל מִ פְּשָׁעֵ֔נוּ"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "cause_or_reason",
+              "probabilities": {
+                "other": 0,
+                "source_or_origin": 0.2,
+                "separation": 0,
+                "underdetermined": 0.29,
+                "comparison": 0,
+                "cause_or_reason": 0.51
+              },
+              "reported_confidence": 0.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "proposition_id": "isa_53_05_2305300500410040_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 5
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "מְדֻכָּ֖א מֵ עֲוֺנֹתֵ֑י נוּ",
+          "word_ids": [
+            "o230530050041",
+            "o230530050051",
+            "o230530050052",
+            "o230530050053"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "verbal",
+          "word_id": "o230530050041",
+          "surface_expression": {
+            "word_ids": [
+              "o230530050041"
+            ],
+            "text": "מְדֻכָּ֖א",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:5!4"
+          },
+          "source_node_id": "2305300500410010",
+          "text": "מְדֻכָּ֖א",
+          "lemma": "דָּכָא",
+          "pos": "verb",
+          "stem": "pual",
+          "type": "participle passive",
+          "morphology": "VPsmsa",
+          "gender": "masculine",
+          "number": "singular",
+          "voice": "passive",
+          "agent": null,
+          "semantic_roles": [
+            {
+              "role": "A1",
+              "targets": [
+                "230520130031"
+              ]
+            }
+          ],
+          "frame_raw": [
+            "A1:230520130031;"
+          ]
+        },
+        "grammatical_scope": {
+          "source_rule": "V-PP",
+          "complements": []
+        },
+        "participants": [
+          {
+            "participant_id": "macula:230520130031",
+            "role": "subject",
+            "semantic_role": "patient",
+            "source": "SubjRef",
+            "status": "referenced",
+            "surface_word_id": "o230530050041",
+            "resolution": {
+              "source": "SubjRef",
+              "target": "230520130031",
+              "target_ids": [
+                "230520130031"
+              ]
+            },
+            "features": {
+              "gender": "masculine",
+              "number": "singular"
+            }
+          }
+        ],
+        "arguments": [],
+        "unresolved_relations": [
+          {
+            "relation_type": "prepositional",
+            "preposition_lemma": "מִן",
+            "preposition_word_id": "o230530050051",
+            "surface_expression": {
+              "word_ids": [
+                "o230530050051",
+                "o230530050053"
+              ],
+              "text": "מֵנוּ",
+              "attachment_source": "shared_macula_surface_word",
+              "source_surface_word": "ISA 53:5!5"
+            },
+            "object": {
+              "text": "עֲוֺנֹתֵ֑י נוּ",
+              "word_ids": [
+                "o230530050052",
+                "o230530050053"
+              ],
+              "resolution": {
+                "source": "Ref",
+                "target": "230390080041 230520070061 230520120141",
+                "target_ids": [
+                  "230390080041",
+                  "230520070061",
+                  "230520120141"
+                ]
+              }
+            },
+            "semantic_role": null
+          }
+        ]
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "09c1df77eeb684a94bf139272cb49c3878ba4f1fb0c968964e5060d82bdc90a8",
+      "saved_request_fingerprint": "09c1df77eeb684a94bf139272cb49c3878ba4f1fb0c968964e5060d82bdc90a8",
+      "saved_record_file": "isa_53_05_2305300500410040_p1.09c1df77eeb684a94bf139272cb49c3878ba4f1fb0c968964e5060d82bdc90a8.retry-1.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.1",
+        "question_versions": {
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0",
+          "relation_1": "0.3.0"
+        },
+        "request_id": "isa_53_05_2305300500410040_p1:jev-state:0.3.0",
+        "request_fingerprint": "09c1df77eeb684a94bf139272cb49c3878ba4f1fb0c968964e5060d82bdc90a8",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 3864,
+          "output_tokens": 334
+        },
+        "elapsed_ms": 175,
+        "attempted_at": "2026-10-02T14:54:18.953Z",
+        "questions": [
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “מְדֻכָּ֖א” (o230530050041) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050041\"],\"source_text\":\"מְדֻכָּ֖א\",\"predicate_word_id\":\"o230530050041\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050041"
+              ],
+              "source_text": "מְדֻכָּ֖א",
+              "predicate_word_id": "o230530050041"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "underdetermined": 0.04,
+                "asserted": 0.89,
+                "questioned": 0.07,
+                "hypothetical": 0
+              },
+              "reported_confidence": 0.85
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “מְדֻכָּ֖א” (o230530050041) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050041\"],\"source_text\":\"מְדֻכָּ֖א\",\"predicate_word_id\":\"o230530050041\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050041"
+              ],
+              "source_text": "מְדֻכָּ֖א",
+              "predicate_word_id": "o230530050041"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "directive_or_obligation": 0,
+                "underdetermined": 0,
+                "possibility_or_permission": 0,
+                "intention": 0,
+                "none_expressed": 1,
+                "multiple": 0,
+                "expectation_or_prediction": 0
+              },
+              "reported_confidence": 1
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “מְדֻכָּ֖א” (o230530050041) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050041\"],\"source_text\":\"מְדֻכָּ֖א\",\"predicate_word_id\":\"o230530050041\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050041"
+              ],
+              "source_text": "מְדֻכָּ֖א",
+              "predicate_word_id": "o230530050041"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "state_or_relation",
+              "probabilities": {
+                "underdetermined": 0.01,
+                "event": 0.01,
+                "event_state_ambiguous": 0.11,
+                "state_or_relation": 0.87
+              },
+              "reported_confidence": 0.83
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “מְדֻכָּ֖א” (o230530050041) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050041\"],\"source_text\":\"מְדֻכָּ֖א\",\"predicate_word_id\":\"o230530050041\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050041"
+              ],
+              "source_text": "מְדֻכָּ֖א",
+              "predicate_word_id": "o230530050041",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "current_or_general",
+              "probabilities": {
+                "underdetermined": 0.33,
+                "current_or_general": 0.49,
+                "subsequent": 0,
+                "temporally_unspecified": 0.11,
+                "prior": 0.07
+              },
+              "reported_confidence": 0.36
+            }
+          },
+          {
+            "question_id": "relation_1",
+            "question_version": "0.3.0",
+            "instructions": "What relationship does phrase “מֵ עֲוֺנֹתֵ֑ינוּ” (o230530050051, o230530050052, o230530050053) contribute to governing predicate “מְדֻכָּ֖א” (o230530050041) in construction “מְדֻכָּ֖א מֵ עֲוֺנֹתֵ֑ינוּ”? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"unresolved_relation\",\"predicate\":{\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050041\"],\"source_text\":\"מְדֻכָּ֖א\",\"predicate_word_id\":\"o230530050041\"},\"phrase\":{\"word_ids\":[\"o230530050051\",\"o230530050052\",\"o230530050053\"],\"source_text\":\"מֵ עֲוֺנֹתֵ֑ינוּ\"},\"attachment\":{\"predicate_word_id\":\"o230530050041\"},\"neighboring_source_text\":\"מְדֻכָּ֖א מֵ עֲוֺנֹתֵ֑ינוּ\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "source_or_origin": "The named phrase identifies where the named predicate's situation originates.",
+              "separation": "The named predicate describes removal or movement away from the phrase's referent.",
+              "comparison": "The named phrase supplies a comparison or standard for the named predicate.",
+              "cause_or_reason": "The named phrase supplies a cause, reason, or ground for the named predicate.",
+              "other": "The phrase expresses another relationship not listed here.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "unresolved_relation",
+              "predicate": {
+                "target_kind": "governing_predicate",
+                "word_ids": [
+                  "o230530050041"
+                ],
+                "source_text": "מְדֻכָּ֖א",
+                "predicate_word_id": "o230530050041"
+              },
+              "phrase": {
+                "word_ids": [
+                  "o230530050051",
+                  "o230530050052",
+                  "o230530050053"
+                ],
+                "source_text": "מֵ עֲוֺנֹתֵ֑ינוּ"
+              },
+              "attachment": {
+                "predicate_word_id": "o230530050041"
+              },
+              "neighboring_source_text": "מְדֻכָּ֖א מֵ עֲוֺנֹתֵ֑ינוּ"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "cause_or_reason",
+              "probabilities": {
+                "source_or_origin": 0.13,
+                "other": 0,
+                "underdetermined": 0.23,
+                "cause_or_reason": 0.64,
+                "separation": 0,
+                "comparison": 0
+              },
+              "reported_confidence": 0.55
+            }
+          }
+        ]
+      }
+    },
+    {
+      "proposition_id": "isa_53_05_2305300500610050_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 5
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "מוּסַ֤ר שְׁלוֹמֵ֨ נוּ֙ עָלָ֔י ו",
+          "word_ids": [
+            "o230530050061",
+            "o230530050071",
+            "o230530050072",
+            "o230530050081",
+            "o230530050082"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "prepositional",
+          "word_id": "o230530050081",
+          "surface_expression": {
+            "word_ids": [
+              "o230530050081",
+              "o230530050082"
+            ],
+            "text": "עָלָ֔יו",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:5!8"
+          },
+          "source_node_id": "2305300500810010",
+          "text": "עָלָ֔י",
+          "lemma": "עַל",
+          "pos": "preposition",
+          "morphology": "R",
+          "voice": "active",
+          "agent": null,
+          "semantic_roles": [],
+          "frame_raw": []
+        },
+        "grammatical_scope": {
+          "source_rule": "S-P",
+          "complements": []
+        },
+        "participants": [
+          {
+            "participant_id": "phrase:2305300500610031",
+            "role": "subject",
+            "semantic_role": "subject",
+            "source": "syntax",
+            "status": "explicit",
+            "surface_word_ids": [
+              "o230530050061",
+              "o230530050071",
+              "o230530050072"
+            ],
+            "text": "מוּסַ֤ר שְׁלוֹמֵ֨ נוּ֙",
+            "resolution": null,
+            "component_references": [
+              {
+                "word_id": "o230530050072",
+                "resolution": {
+                  "source": "Ref",
+                  "target": "230390080041 230520070061 230520120141",
+                  "target_ids": [
+                    "230390080041",
+                    "230520070061",
+                    "230520120141"
+                  ]
+                }
+              }
+            ],
+            "features": {
+              "gender": "masculine",
+              "number": "singular"
+            }
+          }
+        ],
+        "arguments": [
+          {
+            "role": "S",
+            "argument_type": "subject",
+            "text": "מוּסַ֤ר שְׁלוֹמֵ֨ נוּ֙",
+            "source_node_id": "2305300500610031",
+            "words": [
+              "o230530050061",
+              "o230530050071",
+              "o230530050072"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230390080041 230520070061 230520120141",
+              "target_ids": [
+                "230390080041",
+                "230520070061",
+                "230520120141"
+              ]
+            }
+          },
+          {
+            "role": "P",
+            "argument_type": "predicate_complement",
+            "text": "עָלָ֔י ו",
+            "source_node_id": "2305300500810021",
+            "words": [
+              "o230530050081",
+              "o230530050082"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230520130031",
+              "target_ids": [
+                "230520130031"
+              ]
+            }
+          }
+        ],
+        "unresolved_relations": []
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "a5d4cde7cf97b18503fb483150dafdcfa2fa700a4412d1a6cee3b3e30addd203",
+      "saved_request_fingerprint": "a5d4cde7cf97b18503fb483150dafdcfa2fa700a4412d1a6cee3b3e30addd203",
+      "saved_record_file": "isa_53_05_2305300500610050_p1.a5d4cde7cf97b18503fb483150dafdcfa2fa700a4412d1a6cee3b3e30addd203.retry-1.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.1",
+        "question_versions": {
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0"
+        },
+        "request_id": "isa_53_05_2305300500610050_p1:jev-state:0.3.0",
+        "request_fingerprint": "a5d4cde7cf97b18503fb483150dafdcfa2fa700a4412d1a6cee3b3e30addd203",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 2981,
+          "output_tokens": 268
+        },
+        "elapsed_ms": 202,
+        "attempted_at": "2026-10-02T14:54:19.130Z",
+        "questions": [
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “עָלָ֔י” (o230530050081) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050081\"],\"source_text\":\"עָלָ֔י\",\"predicate_word_id\":\"o230530050081\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050081"
+              ],
+              "source_text": "עָלָ֔י",
+              "predicate_word_id": "o230530050081"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "questioned": 0.01,
+                "asserted": 0.8,
+                "underdetermined": 0.19,
+                "hypothetical": 0
+              },
+              "reported_confidence": 0.73
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “עָלָ֔י” (o230530050081) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050081\"],\"source_text\":\"עָלָ֔י\",\"predicate_word_id\":\"o230530050081\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050081"
+              ],
+              "source_text": "עָלָ֔י",
+              "predicate_word_id": "o230530050081"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "directive_or_obligation": 0,
+                "possibility_or_permission": 0,
+                "underdetermined": 0.01,
+                "multiple": 0,
+                "none_expressed": 0.99,
+                "intention": 0,
+                "expectation_or_prediction": 0
+              },
+              "reported_confidence": 0.98
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “עָלָ֔י” (o230530050081) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050081\"],\"source_text\":\"עָלָ֔י\",\"predicate_word_id\":\"o230530050081\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050081"
+              ],
+              "source_text": "עָלָ֔י",
+              "predicate_word_id": "o230530050081"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "state_or_relation",
+              "probabilities": {
+                "event_state_ambiguous": 0.03,
+                "underdetermined": 0.15,
+                "state_or_relation": 0.81,
+                "event": 0.01
+              },
+              "reported_confidence": 0.74
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “עָלָ֔י” (o230530050081) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050081\"],\"source_text\":\"עָלָ֔י\",\"predicate_word_id\":\"o230530050081\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050081"
+              ],
+              "source_text": "עָלָ֔י",
+              "predicate_word_id": "o230530050081",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "temporally_unspecified",
+              "probabilities": {
+                "subsequent": 0,
+                "current_or_general": 0.12,
+                "underdetermined": 0.18,
+                "prior": 0.03,
+                "temporally_unspecified": 0.67
+              },
+              "reported_confidence": 0.57
+            }
+          }
+        ]
+      }
+    },
+    {
+      "proposition_id": "isa_53_05_2305300500920060_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 5
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "בַ חֲבֻרָת֖ וֹ נִרְפָּא לָֽ נוּ",
+          "word_ids": [
+            "o230530050092",
+            "o230530050093",
+            "o230530050094",
+            "o230530050101",
+            "o230530050111",
+            "o230530050112"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "verbal",
+          "word_id": "o230530050101",
+          "surface_expression": {
+            "word_ids": [
+              "o230530050101"
+            ],
+            "text": "נִרְפָּא",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:5!10"
+          },
+          "source_node_id": "2305300501010010",
+          "text": "נִרְפָּא",
+          "lemma": "רָפָא",
+          "pos": "verb",
+          "stem": "niphal",
+          "type": "qatal",
+          "morphology": "VNp3ms",
+          "person": "third",
+          "gender": "masculine",
+          "number": "singular",
+          "voice": "passive",
+          "agent": null,
+          "semantic_roles": [],
+          "frame_raw": []
+        },
+        "grammatical_scope": {
+          "source_rule": "PP-V-PP",
+          "complements": []
+        },
+        "participants": [
+          {
+            "participant_id": "phrase:2305300501110021",
+            "role": "unresolved",
+            "semantic_role": "unresolved",
+            "source": "prepositional_phrase",
+            "status": "explicit",
+            "surface_word_ids": [
+              "o230530050111",
+              "o230530050112"
+            ],
+            "text": "לָֽ נוּ",
+            "resolution": null,
+            "component_references": [
+              {
+                "word_id": "o230530050112",
+                "resolution": {
+                  "source": "Ref",
+                  "target": "230390080041 230520070061 230520120141",
+                  "target_ids": [
+                    "230390080041",
+                    "230520070061",
+                    "230520120141"
+                  ]
+                }
+              }
+            ],
+            "features": {}
+          }
+        ],
+        "arguments": [],
+        "unresolved_relations": [
+          {
+            "relation_type": "prepositional",
+            "preposition_lemma": "בְּ",
+            "preposition_word_id": "o230530050092",
+            "surface_expression": {
+              "word_ids": [
+                "o230530050092",
+                "o230530050094"
+              ],
+              "text": "בַוֹ",
+              "attachment_source": "shared_macula_surface_word",
+              "source_surface_word": "ISA 53:5!9"
+            },
+            "object": {
+              "text": "חֲבֻרָת֖ וֹ",
+              "word_ids": [
+                "o230530050093",
+                "o230530050094"
+              ],
+              "resolution": {
+                "source": "Ref",
+                "target": "230520130031",
+                "target_ids": [
+                  "230520130031"
+                ]
+              }
+            },
+            "semantic_role": null
+          },
+          {
+            "relation_type": "prepositional",
+            "preposition_lemma": "לְ",
+            "preposition_word_id": "o230530050111",
+            "surface_expression": {
+              "word_ids": [
+                "o230530050111",
+                "o230530050112"
+              ],
+              "text": "לָֽנוּ",
+              "attachment_source": "shared_macula_surface_word",
+              "source_surface_word": "ISA 53:5!11"
+            },
+            "object": {
+              "text": "נוּ",
+              "word_ids": [
+                "o230530050112"
+              ],
+              "resolution": {
+                "source": "Ref",
+                "target": "230390080041 230520070061 230520120141",
+                "target_ids": [
+                  "230390080041",
+                  "230520070061",
+                  "230520120141"
+                ]
+              }
+            },
+            "semantic_role": null
+          }
+        ]
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "3e671f7085263a72c3f0dcdc0bcb3ccabf12aca68cb2cf919852aac57cfe4e7e",
+      "saved_request_fingerprint": "3e671f7085263a72c3f0dcdc0bcb3ccabf12aca68cb2cf919852aac57cfe4e7e",
+      "saved_record_file": "isa_53_05_2305300500920060_p1.3e671f7085263a72c3f0dcdc0bcb3ccabf12aca68cb2cf919852aac57cfe4e7e.retry-1.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.1",
+        "question_versions": {
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0",
+          "relation_1": "0.3.0",
+          "relation_2": "0.3.0"
+        },
+        "request_id": "isa_53_05_2305300500920060_p1:jev-state:0.3.0",
+        "request_fingerprint": "3e671f7085263a72c3f0dcdc0bcb3ccabf12aca68cb2cf919852aac57cfe4e7e",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 4511,
+          "output_tokens": 397
+        },
+        "elapsed_ms": 295,
+        "attempted_at": "2026-10-02T14:54:19.334Z",
+        "questions": [
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “נִרְפָּא” (o230530050101) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050101\"],\"source_text\":\"נִרְפָּא\",\"predicate_word_id\":\"o230530050101\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050101"
+              ],
+              "source_text": "נִרְפָּא",
+              "predicate_word_id": "o230530050101"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "hypothetical": 0,
+                "asserted": 0.86,
+                "questioned": 0.1,
+                "underdetermined": 0.04
+              },
+              "reported_confidence": 0.81
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “נִרְפָּא” (o230530050101) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050101\"],\"source_text\":\"נִרְפָּא\",\"predicate_word_id\":\"o230530050101\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050101"
+              ],
+              "source_text": "נִרְפָּא",
+              "predicate_word_id": "o230530050101"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "underdetermined": 0.01,
+                "none_expressed": 0.98,
+                "expectation_or_prediction": 0.01,
+                "intention": 0,
+                "multiple": 0,
+                "directive_or_obligation": 0,
+                "possibility_or_permission": 0
+              },
+              "reported_confidence": 0.98
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “נִרְפָּא” (o230530050101) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050101\"],\"source_text\":\"נִרְפָּא\",\"predicate_word_id\":\"o230530050101\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050101"
+              ],
+              "source_text": "נִרְפָּא",
+              "predicate_word_id": "o230530050101"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "event_state_ambiguous",
+              "probabilities": {
+                "event": 0.27,
+                "event_state_ambiguous": 0.44,
+                "state_or_relation": 0.27,
+                "underdetermined": 0.02
+              },
+              "reported_confidence": 0.24
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “נִרְפָּא” (o230530050101) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050101\"],\"source_text\":\"נִרְפָּא\",\"predicate_word_id\":\"o230530050101\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530050101"
+              ],
+              "source_text": "נִרְפָּא",
+              "predicate_word_id": "o230530050101",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "underdetermined",
+              "probabilities": {
+                "current_or_general": 0.24,
+                "subsequent": 0.01,
+                "prior": 0.13,
+                "temporally_unspecified": 0.15,
+                "underdetermined": 0.47000000000000003
+              },
+              "reported_confidence": 0.33
+            }
+          },
+          {
+            "question_id": "relation_1",
+            "question_version": "0.3.0",
+            "instructions": "What relationship does phrase “בַ חֲבֻרָת֖וֹ” (o230530050092, o230530050093, o230530050094) contribute to governing predicate “נִרְפָּא” (o230530050101) in construction “נִרְפָּא בַ חֲבֻרָת֖וֹ”? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"unresolved_relation\",\"predicate\":{\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050101\"],\"source_text\":\"נִרְפָּא\",\"predicate_word_id\":\"o230530050101\"},\"phrase\":{\"word_ids\":[\"o230530050092\",\"o230530050093\",\"o230530050094\"],\"source_text\":\"בַ חֲבֻרָת֖וֹ\"},\"attachment\":{\"predicate_word_id\":\"o230530050101\"},\"neighboring_source_text\":\"נִרְפָּא בַ חֲבֻרָת֖וֹ\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "location": "The phrase expresses location.",
+              "association": "The phrase expresses association.",
+              "means_or_instrument": "The phrase expresses means or instrument.",
+              "other": "The phrase expresses another relationship not listed here.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "unresolved_relation",
+              "predicate": {
+                "target_kind": "governing_predicate",
+                "word_ids": [
+                  "o230530050101"
+                ],
+                "source_text": "נִרְפָּא",
+                "predicate_word_id": "o230530050101"
+              },
+              "phrase": {
+                "word_ids": [
+                  "o230530050092",
+                  "o230530050093",
+                  "o230530050094"
+                ],
+                "source_text": "בַ חֲבֻרָת֖וֹ"
+              },
+              "attachment": {
+                "predicate_word_id": "o230530050101"
+              },
+              "neighboring_source_text": "נִרְפָּא בַ חֲבֻרָת֖וֹ"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "underdetermined",
+              "probabilities": {
+                "location": 0,
+                "association": 0.26,
+                "underdetermined": 0.63,
+                "means_or_instrument": 0.1,
+                "other": 0.01
+              },
+              "reported_confidence": 0.54
+            }
+          },
+          {
+            "question_id": "relation_2",
+            "question_version": "0.3.0",
+            "instructions": "What relationship does phrase “לָֽנוּ” (o230530050111, o230530050112) contribute to governing predicate “נִרְפָּא” (o230530050101) in construction “נִרְפָּא לָֽנוּ”? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"unresolved_relation\",\"predicate\":{\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530050101\"],\"source_text\":\"נִרְפָּא\",\"predicate_word_id\":\"o230530050101\"},\"phrase\":{\"word_ids\":[\"o230530050111\",\"o230530050112\"],\"source_text\":\"לָֽנוּ\"},\"attachment\":{\"predicate_word_id\":\"o230530050101\"},\"neighboring_source_text\":\"נִרְפָּא לָֽנוּ\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "direction_or_goal": "The phrase expresses direction or goal.",
+              "recipient_or_beneficiary": "The phrase expresses recipient or beneficiary.",
+              "possession_or_relation": "The phrase expresses possession or relation.",
+              "other": "The phrase expresses another relationship not listed here.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "unresolved_relation",
+              "predicate": {
+                "target_kind": "governing_predicate",
+                "word_ids": [
+                  "o230530050101"
+                ],
+                "source_text": "נִרְפָּא",
+                "predicate_word_id": "o230530050101"
+              },
+              "phrase": {
+                "word_ids": [
+                  "o230530050111",
+                  "o230530050112"
+                ],
+                "source_text": "לָֽנוּ"
+              },
+              "attachment": {
+                "predicate_word_id": "o230530050101"
+              },
+              "neighboring_source_text": "נִרְפָּא לָֽנוּ"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "recipient_or_beneficiary",
+              "probabilities": {
+                "underdetermined": 0.22,
+                "possession_or_relation": 0,
+                "direction_or_goal": 0,
+                "recipient_or_beneficiary": 0.78,
+                "other": 0
+              },
+              "reported_confidence": 0.72
+            }
+          }
+        ]
+      }
+    },
+    {
+      "proposition_id": "isa_53_06_2305300600110060_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 6
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "כֻּלָּ֨ נוּ֙ כַּ  צֹּ֣אן תָּעִ֔ינוּ",
+          "word_ids": [
+            "o230530060011",
+            "o230530060012",
+            "o230530060021",
+            "o230530060021ה",
+            "o230530060022",
+            "o230530060031"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "verbal",
+          "word_id": "o230530060031",
+          "surface_expression": {
+            "word_ids": [
+              "o230530060031"
+            ],
+            "text": "תָּעִ֔ינוּ",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:6!3"
+          },
+          "source_node_id": "2305300600310010",
+          "text": "תָּעִ֔ינוּ",
+          "lemma": "תָּעָה",
+          "pos": "verb",
+          "stem": "qal",
+          "type": "qatal",
+          "morphology": "Vqp1cp",
+          "person": "first",
+          "gender": "common",
+          "number": "plural",
+          "voice": "active",
+          "agent": null,
+          "semantic_roles": [
+            {
+              "role": "A0",
+              "targets": [
+                "230530060012"
+              ]
+            }
+          ],
+          "frame_raw": [
+            "A0:230530060012;"
+          ]
+        },
+        "grammatical_scope": {
+          "source_rule": "S-PP-V",
+          "complements": []
+        },
+        "participants": [
+          {
+            "participant_id": "phrase:2305300600110021",
+            "role": "subject",
+            "semantic_role": "subject",
+            "source": "syntax",
+            "status": "explicit",
+            "surface_word_ids": [
+              "o230530060011",
+              "o230530060012"
+            ],
+            "text": "כֻּלָּ֨ נוּ֙",
+            "resolution": null,
+            "component_references": [
+              {
+                "word_id": "o230530060012",
+                "resolution": {
+                  "source": "Ref",
+                  "target": "230390080041 230520070061 230520120141",
+                  "target_ids": [
+                    "230390080041",
+                    "230520070061",
+                    "230520120141"
+                  ]
+                }
+              }
+            ],
+            "features": {
+              "gender": "masculine",
+              "number": "singular"
+            }
+          }
+        ],
+        "arguments": [
+          {
+            "role": "S",
+            "argument_type": "subject",
+            "text": "כֻּלָּ֨ נוּ֙",
+            "source_node_id": "2305300600110021",
+            "words": [
+              "o230530060011",
+              "o230530060012"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230390080041 230520070061 230520120141",
+              "target_ids": [
+                "230390080041",
+                "230520070061",
+                "230520120141"
+              ]
+            }
+          }
+        ],
+        "unresolved_relations": [
+          {
+            "relation_type": "prepositional",
+            "preposition_lemma": "כְּ",
+            "preposition_word_id": "o230530060021",
+            "surface_expression": {
+              "word_ids": [
+                "o230530060021"
+              ],
+              "text": "כַּ",
+              "attachment_source": "shared_macula_surface_word",
+              "source_surface_word": "ISA 53:6!2"
+            },
+            "object": {
+              "text": " צֹּ֣אן",
+              "word_ids": [
+                "o230530060021ה",
+                "o230530060022"
+              ]
+            },
+            "semantic_role": null
+          }
+        ]
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "54ac797e78c7832ff4807eef3351c6d5721aa46a4e68c255a74b0f10832a5b24",
+      "saved_request_fingerprint": "54ac797e78c7832ff4807eef3351c6d5721aa46a4e68c255a74b0f10832a5b24",
+      "saved_record_file": "isa_53_06_2305300600110060_p1.54ac797e78c7832ff4807eef3351c6d5721aa46a4e68c255a74b0f10832a5b24.retry-1.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.1",
+        "question_versions": {
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0",
+          "relation_1": "0.3.0"
+        },
+        "request_id": "isa_53_06_2305300600110060_p1:jev-state:0.3.0",
+        "request_fingerprint": "54ac797e78c7832ff4807eef3351c6d5721aa46a4e68c255a74b0f10832a5b24",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 3839,
+          "output_tokens": 314
+        },
+        "elapsed_ms": 198,
+        "attempted_at": "2026-10-02T14:54:19.633Z",
+        "questions": [
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “תָּעִ֔ינוּ” (o230530060031) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060031\"],\"source_text\":\"תָּעִ֔ינוּ\",\"predicate_word_id\":\"o230530060031\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060031"
+              ],
+              "source_text": "תָּעִ֔ינוּ",
+              "predicate_word_id": "o230530060031"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "hypothetical": 0,
+                "questioned": 0.12,
+                "underdetermined": 0.02,
+                "asserted": 0.86
+              },
+              "reported_confidence": 0.82
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “תָּעִ֔ינוּ” (o230530060031) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060031\"],\"source_text\":\"תָּעִ֔ינוּ\",\"predicate_word_id\":\"o230530060031\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060031"
+              ],
+              "source_text": "תָּעִ֔ינוּ",
+              "predicate_word_id": "o230530060031"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "expectation_or_prediction": 0,
+                "underdetermined": 0,
+                "directive_or_obligation": 0,
+                "intention": 0,
+                "none_expressed": 1,
+                "possibility_or_permission": 0,
+                "multiple": 0
+              },
+              "reported_confidence": 1
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “תָּעִ֔ינוּ” (o230530060031) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060031\"],\"source_text\":\"תָּעִ֔ינוּ\",\"predicate_word_id\":\"o230530060031\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060031"
+              ],
+              "source_text": "תָּעִ֔ינוּ",
+              "predicate_word_id": "o230530060031"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "event",
+              "probabilities": {
+                "underdetermined": 0.01,
+                "state_or_relation": 0,
+                "event_state_ambiguous": 0.04,
+                "event": 0.95
+              },
+              "reported_confidence": 0.93
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “תָּעִ֔ינוּ” (o230530060031) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060031\"],\"source_text\":\"תָּעִ֔ינוּ\",\"predicate_word_id\":\"o230530060031\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060031"
+              ],
+              "source_text": "תָּעִ֔ינוּ",
+              "predicate_word_id": "o230530060031",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "underdetermined",
+              "probabilities": {
+                "prior": 0.38,
+                "current_or_general": 0.11,
+                "underdetermined": 0.41,
+                "subsequent": 0,
+                "temporally_unspecified": 0.1
+              },
+              "reported_confidence": 0.26
+            }
+          },
+          {
+            "question_id": "relation_1",
+            "question_version": "0.3.0",
+            "instructions": "What relationship does phrase “כַּ  צֹּ֣אן” (o230530060021, o230530060021ה, o230530060022) contribute to governing predicate “תָּעִ֔ינוּ” (o230530060031) in construction “תָּעִ֔ינוּ כַּ  צֹּ֣אן”? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"unresolved_relation\",\"predicate\":{\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060031\"],\"source_text\":\"תָּעִ֔ינוּ\",\"predicate_word_id\":\"o230530060031\"},\"phrase\":{\"word_ids\":[\"o230530060021\",\"o230530060021ה\",\"o230530060022\"],\"source_text\":\"כַּ  צֹּ֣אן\"},\"attachment\":{\"predicate_word_id\":\"o230530060031\"},\"neighboring_source_text\":\"תָּעִ֔ינוּ כַּ  צֹּ֣אן\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "comparison": "The named phrase supplies a comparison or standard for the named predicate.",
+              "approximation": "The phrase expresses approximation.",
+              "other": "The phrase expresses another relationship not listed here.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "unresolved_relation",
+              "predicate": {
+                "target_kind": "governing_predicate",
+                "word_ids": [
+                  "o230530060031"
+                ],
+                "source_text": "תָּעִ֔ינוּ",
+                "predicate_word_id": "o230530060031"
+              },
+              "phrase": {
+                "word_ids": [
+                  "o230530060021",
+                  "o230530060021ה",
+                  "o230530060022"
+                ],
+                "source_text": "כַּ  צֹּ֣אן"
+              },
+              "attachment": {
+                "predicate_word_id": "o230530060031"
+              },
+              "neighboring_source_text": "תָּעִ֔ינוּ כַּ  צֹּ֣אן"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "comparison",
+              "probabilities": {
+                "underdetermined": 0.17,
+                "comparison": 0.8099999999999999,
+                "other": 0.01,
+                "approximation": 0.01
+              },
+              "reported_confidence": 0.76
+            }
+          }
+        ]
+      }
+    },
+    {
+      "proposition_id": "isa_53_06_2305300600410050_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 6
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "אִ֥ישׁ לְ דַרְכּ֖ וֹ פָּנִ֑ינוּ",
+          "word_ids": [
+            "o230530060041",
+            "o230530060051",
+            "o230530060052",
+            "o230530060053",
+            "o230530060061"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "verbal",
+          "word_id": "o230530060061",
+          "surface_expression": {
+            "word_ids": [
+              "o230530060061"
+            ],
+            "text": "פָּנִ֑ינוּ",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:6!6"
+          },
+          "source_node_id": "2305300600610010",
+          "text": "פָּנִ֑ינוּ",
+          "lemma": "פָּנָה",
+          "pos": "verb",
+          "stem": "qal",
+          "type": "qatal",
+          "morphology": "Vqp1cp",
+          "person": "first",
+          "gender": "common",
+          "number": "plural",
+          "voice": "active",
+          "agent": null,
+          "semantic_roles": [
+            {
+              "role": "A0",
+              "targets": [
+                "230390080041",
+                "230520070061",
+                "230520120141"
+              ]
+            }
+          ],
+          "frame_raw": [
+            "A0:230390080041;230520070061;230520120141;"
+          ]
+        },
+        "grammatical_scope": {
+          "source_rule": "ADV-PP-V",
+          "complements": []
+        },
+        "participants": [
+          {
+            "participant_id": "surface:o230530060061",
+            "role": "subject",
+            "semantic_role": "subject",
+            "source": "SubjRef",
+            "status": "referenced",
+            "surface_word_id": "o230530060061",
+            "resolution": {
+              "source": "SubjRef",
+              "target": "230390080041 230520070061 230520120141",
+              "target_ids": [
+                "230390080041",
+                "230520070061",
+                "230520120141"
+              ]
+            },
+            "features": {
+              "person": "first",
+              "gender": "common",
+              "number": "plural"
+            }
+          }
+        ],
+        "arguments": [
+          {
+            "role": "ADV",
+            "argument_type": "adverbial",
+            "text": "אִ֥ישׁ",
+            "source_node_id": "2305300600410012",
+            "words": [
+              "o230530060041"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230390080041 230520070061 230520120141",
+              "target_ids": [
+                "230390080041",
+                "230520070061",
+                "230520120141"
+              ]
+            }
+          }
+        ],
+        "unresolved_relations": [
+          {
+            "relation_type": "prepositional",
+            "preposition_lemma": "לְ",
+            "preposition_word_id": "o230530060051",
+            "surface_expression": {
+              "word_ids": [
+                "o230530060051",
+                "o230530060053"
+              ],
+              "text": "לְוֹ",
+              "attachment_source": "shared_macula_surface_word",
+              "source_surface_word": "ISA 53:6!5"
+            },
+            "object": {
+              "text": "דַרְכּ֖ וֹ",
+              "word_ids": [
+                "o230530060052",
+                "o230530060053"
+              ],
+              "resolution": {
+                "source": "Ref",
+                "target": "230530060041",
+                "target_ids": [
+                  "230530060041"
+                ]
+              }
+            },
+            "semantic_role": null
+          }
+        ]
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "a9033cb1bc185180f68bac42107b3554e0d730f352ecceabf43e149f47ae44a4",
+      "saved_request_fingerprint": "a9033cb1bc185180f68bac42107b3554e0d730f352ecceabf43e149f47ae44a4",
+      "saved_record_file": "isa_53_06_2305300600410050_p1.a9033cb1bc185180f68bac42107b3554e0d730f352ecceabf43e149f47ae44a4.retry-1.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.1",
+        "question_versions": {
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0",
+          "relation_1": "0.3.0"
+        },
+        "request_id": "isa_53_06_2305300600410050_p1:jev-state:0.3.0",
+        "request_fingerprint": "a9033cb1bc185180f68bac42107b3554e0d730f352ecceabf43e149f47ae44a4",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 3797,
+          "output_tokens": 330
+        },
+        "elapsed_ms": 289,
+        "attempted_at": "2026-10-02T14:54:19.834Z",
+        "questions": [
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “פָּנִ֑ינוּ” (o230530060061) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060061\"],\"source_text\":\"פָּנִ֑ינוּ\",\"predicate_word_id\":\"o230530060061\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060061"
+              ],
+              "source_text": "פָּנִ֑ינוּ",
+              "predicate_word_id": "o230530060061"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "questioned": 0.1,
+                "asserted": 0.87,
+                "underdetermined": 0.03,
+                "hypothetical": 0
+              },
+              "reported_confidence": 0.83
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “פָּנִ֑ינוּ” (o230530060061) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060061\"],\"source_text\":\"פָּנִ֑ינוּ\",\"predicate_word_id\":\"o230530060061\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060061"
+              ],
+              "source_text": "פָּנִ֑ינוּ",
+              "predicate_word_id": "o230530060061"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "none_expressed": 1,
+                "multiple": 0,
+                "intention": 0,
+                "underdetermined": 0,
+                "possibility_or_permission": 0,
+                "expectation_or_prediction": 0,
+                "directive_or_obligation": 0
+              },
+              "reported_confidence": 0.99
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “פָּנִ֑ינוּ” (o230530060061) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060061\"],\"source_text\":\"פָּנִ֑ינוּ\",\"predicate_word_id\":\"o230530060061\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060061"
+              ],
+              "source_text": "פָּנִ֑ינוּ",
+              "predicate_word_id": "o230530060061"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "event",
+              "probabilities": {
+                "state_or_relation": 0.01,
+                "underdetermined": 0.01,
+                "event_state_ambiguous": 0.03,
+                "event": 0.95
+              },
+              "reported_confidence": 0.92
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “פָּנִ֑ינוּ” (o230530060061) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060061\"],\"source_text\":\"פָּנִ֑ינוּ\",\"predicate_word_id\":\"o230530060061\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060061"
+              ],
+              "source_text": "פָּנִ֑ינוּ",
+              "predicate_word_id": "o230530060061",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "underdetermined",
+              "probabilities": {
+                "current_or_general": 0.2,
+                "underdetermined": 0.42,
+                "subsequent": 0.01,
+                "temporally_unspecified": 0.07,
+                "prior": 0.3
+              },
+              "reported_confidence": 0.27
+            }
+          },
+          {
+            "question_id": "relation_1",
+            "question_version": "0.3.0",
+            "instructions": "What relationship does phrase “לְ דַרְכּ֖וֹ” (o230530060051, o230530060052, o230530060053) contribute to governing predicate “פָּנִ֑ינוּ” (o230530060061) in construction “פָּנִ֑ינוּ לְ דַרְכּ֖וֹ”? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"unresolved_relation\",\"predicate\":{\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060061\"],\"source_text\":\"פָּנִ֑ינוּ\",\"predicate_word_id\":\"o230530060061\"},\"phrase\":{\"word_ids\":[\"o230530060051\",\"o230530060052\",\"o230530060053\"],\"source_text\":\"לְ דַרְכּ֖וֹ\"},\"attachment\":{\"predicate_word_id\":\"o230530060061\"},\"neighboring_source_text\":\"פָּנִ֑ינוּ לְ דַרְכּ֖וֹ\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "direction_or_goal": "The phrase expresses direction or goal.",
+              "recipient_or_beneficiary": "The phrase expresses recipient or beneficiary.",
+              "possession_or_relation": "The phrase expresses possession or relation.",
+              "other": "The phrase expresses another relationship not listed here.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "unresolved_relation",
+              "predicate": {
+                "target_kind": "governing_predicate",
+                "word_ids": [
+                  "o230530060061"
+                ],
+                "source_text": "פָּנִ֑ינוּ",
+                "predicate_word_id": "o230530060061"
+              },
+              "phrase": {
+                "word_ids": [
+                  "o230530060051",
+                  "o230530060052",
+                  "o230530060053"
+                ],
+                "source_text": "לְ דַרְכּ֖וֹ"
+              },
+              "attachment": {
+                "predicate_word_id": "o230530060061"
+              },
+              "neighboring_source_text": "פָּנִ֑ינוּ לְ דַרְכּ֖וֹ"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "direction_or_goal",
+              "probabilities": {
+                "other": 0.01,
+                "possession_or_relation": 0,
+                "underdetermined": 0.27,
+                "recipient_or_beneficiary": 0.01,
+                "direction_or_goal": 0.71
+              },
+              "reported_confidence": 0.63
+            }
+          }
+        ]
+      }
+    },
+    {
+      "proposition_id": "isa_53_06_2305300600720080_p1",
+      "reference": {
+        "book": "Isaiah",
+        "chapter": 53,
+        "verse": 6
+      },
+      "linguistic_evidence": {
+        "source_expression": {
+          "language": "hebrew",
+          "textual_base": "WLC/OSHB",
+          "text": "יהוָה֙ הִפְגִּ֣יעַ בּ֔ וֹ אֵ֖ת עֲוֺ֥ן כֻּלָּֽ נוּ",
+          "word_ids": [
+            "o230530060072",
+            "o230530060081",
+            "o230530060091",
+            "o230530060092",
+            "o230530060101",
+            "o230530060111",
+            "o230530060121",
+            "o230530060122"
+          ]
+        },
+        "predicate": {
+          "predicate_type": "verbal",
+          "word_id": "o230530060081",
+          "surface_expression": {
+            "word_ids": [
+              "o230530060081"
+            ],
+            "text": "הִפְגִּ֣יעַ",
+            "attachment_source": "shared_macula_surface_word",
+            "source_surface_word": "ISA 53:6!8"
+          },
+          "source_node_id": "2305300600810010",
+          "text": "הִפְגִּ֣יעַ",
+          "lemma": "פָּגַע",
+          "pos": "verb",
+          "stem": "hiphil",
+          "type": "qatal",
+          "morphology": "Vhp3ms",
+          "person": "third",
+          "gender": "masculine",
+          "number": "singular",
+          "voice": "active",
+          "agent": null,
+          "semantic_roles": [
+            {
+              "role": "AA",
+              "targets": [
+                "230530060072"
+              ]
+            },
+            {
+              "role": "A0",
+              "targets": [
+                "230530060111"
+              ]
+            }
+          ],
+          "frame_raw": [
+            "AA:230530060072; A0:230530060111;"
+          ]
+        },
+        "grammatical_scope": {
+          "source_rule": "S-V-PP-O",
+          "complements": []
+        },
+        "participants": [
+          {
+            "participant_id": "phrase:2305300600720012",
+            "role": "subject",
+            "semantic_role": "subject",
+            "source": "syntax",
+            "status": "explicit",
+            "surface_word_ids": [
+              "o230530060072"
+            ],
+            "text": "יהוָה֙",
+            "resolution": null,
+            "component_references": [],
+            "features": {}
+          }
+        ],
+        "arguments": [
+          {
+            "role": "S",
+            "argument_type": "subject",
+            "text": "יהוָה֙",
+            "source_node_id": "2305300600720012",
+            "words": [
+              "o230530060072"
+            ]
+          },
+          {
+            "role": "O",
+            "argument_type": "object",
+            "text": "אֵ֖ת עֲוֺ֥ן כֻּלָּֽ נוּ",
+            "source_node_id": "2305300601010041",
+            "words": [
+              "o230530060101",
+              "o230530060111",
+              "o230530060121",
+              "o230530060122"
+            ],
+            "resolution": {
+              "source": "Ref",
+              "target": "230390080041 230520070061 230520120141",
+              "target_ids": [
+                "230390080041",
+                "230520070061",
+                "230520120141"
+              ]
+            }
+          }
+        ],
+        "unresolved_relations": [
+          {
+            "relation_type": "prepositional",
+            "preposition_lemma": "בְּ",
+            "preposition_word_id": "o230530060091",
+            "surface_expression": {
+              "word_ids": [
+                "o230530060091",
+                "o230530060092"
+              ],
+              "text": "בּ֔וֹ",
+              "attachment_source": "shared_macula_surface_word",
+              "source_surface_word": "ISA 53:6!9"
+            },
+            "object": {
+              "text": "וֹ",
+              "word_ids": [
+                "o230530060092"
+              ],
+              "resolution": {
+                "source": "Ref",
+                "target": "230520130031",
+                "target_ids": [
+                  "230520130031"
+                ]
+              }
+            },
+            "semantic_role": null
+          }
+        ]
+      },
+      "record_status": "current_saved_result",
+      "current_request_fingerprint": "07d209b581ede11669ddb492abf1b8b9398a3faf5584355e2854f1bcfa6fd405",
+      "saved_request_fingerprint": "07d209b581ede11669ddb492abf1b8b9398a3faf5584355e2854f1bcfa6fd405",
+      "saved_record_file": "isa_53_06_2305300600720080_p1.07d209b581ede11669ddb492abf1b8b9398a3faf5584355e2854f1bcfa6fd405.json",
+      "model_judgment": {
+        "status": "succeeded",
+        "provider_kind": "openrouter_decisions",
+        "requested_model": "typesafe/jev-1.13",
+        "served_model": "typesafe/jev-1.13-20260917",
+        "provider": "TypeSafe",
+        "builder_version": "0.3.2",
+        "question_versions": {
+          "assertion_status": "0.3.0",
+          "prospective_mode": "0.3.0",
+          "event_status": "0.3.0",
+          "temporal_orientation": "0.3.0",
+          "relation_1": "0.3.0"
+        },
+        "request_id": "isa_53_06_2305300600720080_p1:jev-state:0.3.0",
+        "request_fingerprint": "07d209b581ede11669ddb492abf1b8b9398a3faf5584355e2854f1bcfa6fd405",
+        "response_validation": {
+          "ok": true,
+          "errors": []
+        },
+        "usage": {
+          "input_tokens": 4029,
+          "output_tokens": 324
+        },
+        "elapsed_ms": 196,
+        "attempted_at": "2026-10-02T15:01:39.173Z",
+        "questions": [
+          {
+            "question_id": "assertion_status",
+            "question_version": "0.3.0",
+            "instructions": "Within the supplied governing discourse scope, how is governing predicate “הִפְגִּ֣יעַ” (o230530060081) presented? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060081\"],\"source_text\":\"הִפְגִּ֣יעַ\",\"predicate_word_id\":\"o230530060081\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "asserted": "The named target predication is presented as occurring or holding within its governing discourse scope. This is a textual presentation judgment, not certification of truth.",
+              "questioned": "The named target predication is asked about rather than asserted.",
+              "hypothetical": "The named target predication is entertained or supposed without asserting its occurrence.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060081"
+              ],
+              "source_text": "הִפְגִּ֣יעַ",
+              "predicate_word_id": "o230530060081"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "asserted",
+              "probabilities": {
+                "asserted": 0.87,
+                "underdetermined": 0.02,
+                "hypothetical": 0,
+                "questioned": 0.11
+              },
+              "reported_confidence": 0.83
+            }
+          },
+          {
+            "question_id": "prospective_mode",
+            "question_version": "0.3.0",
+            "instructions": "Does the supplied construction present governing predicate “הִפְגִּ֣יעַ” (o230530060081) under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060081\"],\"source_text\":\"הִפְגִּ֣יעַ\",\"predicate_word_id\":\"o230530060081\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "intention": "A goal, plan, or intention to bring about the named target predication is expressed.",
+              "expectation_or_prediction": "An anticipation or prediction that the named target predication will occur is expressed.",
+              "directive_or_obligation": "A command, request, or obligation concerning the named target predication is expressed.",
+              "possibility_or_permission": "Possibility or permission concerning the named target predication is expressed.",
+              "none_expressed": "No prospective or modal expression is expressed for the named target predication. This does not determine temporal orientation.",
+              "multiple": "More than one listed prospective or modal expression is explicitly expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060081"
+              ],
+              "source_text": "הִפְגִּ֣יעַ",
+              "predicate_word_id": "o230530060081"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "none_expressed",
+              "probabilities": {
+                "expectation_or_prediction": 0,
+                "intention": 0,
+                "multiple": 0,
+                "underdetermined": 0,
+                "none_expressed": 1,
+                "possibility_or_permission": 0,
+                "directive_or_obligation": 0
+              },
+              "reported_confidence": 1
+            }
+          },
+          {
+            "question_id": "event_status",
+            "question_version": "0.3.0",
+            "instructions": "Does governing predicate “הִפְגִּ֣יעַ” (o230530060081) describe an occurrence/process, a condition/relation, or an unresolved distinction between them? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060081\"],\"source_text\":\"הִפְגִּ֣יעַ\",\"predicate_word_id\":\"o230530060081\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "event": "The named target predication is an occurrence, action, or process, including a mental act such as considering or deciding.",
+              "state_or_relation": "The named target predication is a condition, disposition, resulting state, or relation presented as holding.",
+              "event_state_ambiguous": "Both event and state readings of the named target predication are supported, and the supplied evidence does not distinguish them.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060081"
+              ],
+              "source_text": "הִפְגִּ֣יעַ",
+              "predicate_word_id": "o230530060081"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "event",
+              "probabilities": {
+                "event_state_ambiguous": 0.01,
+                "underdetermined": 0,
+                "state_or_relation": 0,
+                "event": 0.99
+              },
+              "reported_confidence": 0.98
+            }
+          },
+          {
+            "question_id": "temporal_orientation",
+            "question_version": "0.3.0",
+            "instructions": "Relative to the represented speaker or narrator's discourse reference point, how is governing predicate “הִפְגִּ֣יעַ” (o230530060081) temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology. Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060081\"],\"source_text\":\"הִפְגִּ֣יעַ\",\"predicate_word_id\":\"o230530060081\",\"reference_point\":\"represented speaker or narrator discourse reference point in the supplied scope\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "prior": "The named target predication is presented as prior to the represented speaker or narrator's discourse reference point, not the modern reader or date of composition.",
+              "current_or_general": "The named target predication is presented as current at, or general relative to, the represented speaker or narrator's discourse reference point.",
+              "subsequent": "The named target predication is presented as subsequent to the represented speaker or narrator's discourse reference point.",
+              "temporally_unspecified": "No temporal placement is expressed for the named target predication.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "governing_predicate",
+              "word_ids": [
+                "o230530060081"
+              ],
+              "source_text": "הִפְגִּ֣יעַ",
+              "predicate_word_id": "o230530060081",
+              "reference_point": "represented speaker or narrator discourse reference point in the supplied scope"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "underdetermined",
+              "probabilities": {
+                "prior": 0.24,
+                "subsequent": 0.01,
+                "underdetermined": 0.59,
+                "temporally_unspecified": 0.1,
+                "current_or_general": 0.06
+              },
+              "reported_confidence": 0.48
+            }
+          },
+          {
+            "question_id": "relation_1",
+            "question_version": "0.3.0",
+            "instructions": "What relationship does phrase “בּ֔וֹ” (o230530060091, o230530060092) contribute to governing predicate “הִפְגִּ֣יעַ” (o230530060081) in construction “הִפְגִּ֣יעַ בּ֔וֹ”? Inspect only the supplied state. Evidence for this question: {\"target_kind\":\"unresolved_relation\",\"predicate\":{\"target_kind\":\"governing_predicate\",\"word_ids\":[\"o230530060081\"],\"source_text\":\"הִפְגִּ֣יעַ\",\"predicate_word_id\":\"o230530060081\"},\"phrase\":{\"word_ids\":[\"o230530060091\",\"o230530060092\"],\"source_text\":\"בּ֔וֹ\"},\"attachment\":{\"predicate_word_id\":\"o230530060081\"},\"neighboring_source_text\":\"הִפְגִּ֣יעַ בּ֔וֹ\"}. Choose underdetermined when the source evidence does not support a choice.",
+            "criteria": {
+              "location": "The phrase expresses location.",
+              "association": "The phrase expresses association.",
+              "means_or_instrument": "The phrase expresses means or instrument.",
+              "other": "The phrase expresses another relationship not listed here.",
+              "underdetermined": "The source evidence does not determine one of the available answers."
+            },
+            "explicit_target": {
+              "target_kind": "unresolved_relation",
+              "predicate": {
+                "target_kind": "governing_predicate",
+                "word_ids": [
+                  "o230530060081"
+                ],
+                "source_text": "הִפְגִּ֣יעַ",
+                "predicate_word_id": "o230530060081"
+              },
+              "phrase": {
+                "word_ids": [
+                  "o230530060091",
+                  "o230530060092"
+                ],
+                "source_text": "בּ֔וֹ"
+              },
+              "attachment": {
+                "predicate_word_id": "o230530060081"
+              },
+              "neighboring_source_text": "הִפְגִּ֣יעַ בּ֔וֹ"
+            },
+            "target_provenance": "saved_exact_api_request",
+            "judgment": {
+              "selected_answer": "underdetermined",
+              "probabilities": {
+                "means_or_instrument": 0.01,
+                "location": 0.05,
+                "other": 0.21,
+                "underdetermined": 0.64,
+                "association": 0.09
+              },
+              "reported_confidence": 0.56
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -3,8 +3,8 @@ import { loadPassage } from "./extractor.js";
 import { findBookByNumber } from "./books.js";
 import { serializeOpenRouterDecision, validateOpenRouterDecision } from "./openrouter-decisions.js";
 
-export const JEV_STATE_BUILDER_VERSION = "0.1.0";
-export const JEV_STATE_QUESTION_VERSION = "0.1.0";
+export const JEV_STATE_BUILDER_VERSION = "0.3.2";
+export const JEV_STATE_QUESTION_VERSION = "0.3.0";
 
 const wordIdCore = id => String(id || "").replace(/^o/u, "");
 const targetIds = value => [...String(value || "").matchAll(/\d{12}/gu)].map(match => match[0]);
@@ -34,23 +34,57 @@ function relationChoices(lemma) {
   }[lemma] || ["other"];
 }
 
-function questionsFor(proposition) {
+function expression(wordIds, words) {
+  const tokens = wordIds.map(id => words.get(id)).filter(Boolean);
+  return { word_ids: tokens.map(word => word.word_id), source_text: tokens.reduce((text, word) => `${text}${text && word.pos === "suffix" ? "" : text ? " " : ""}${word.text}`, "") };
+}
+
+export function governingTarget(proposition, words) {
+  return { target_kind: "governing_predicate", ...expression([proposition.predicate.word_id], words), predicate_word_id: proposition.predicate.word_id };
+}
+
+function targetLabel(target) {
+  return `“${target.source_text}” (${target.word_ids.join(", ")})`;
+}
+
+function scopeQuestion(governor, complements) {
+  return question("assertion_scope", `What is the assertion scope of governed complement ${complements.map(targetLabel).join("; ")} under governing predicate ${targetLabel(governor)}?`, ["direct_assertion", "reported_speech", "thought_or_evaluation", "conditional_or_hypothetical"], { target_kind: "governed_complement", governed_by: governor, complements });
+}
+function eventStatusQuestion(target, targetName = "governing predicate") {
+  return question("event_status", `Does ${targetName} ${targetLabel(target)} describe an occurrence/process, a condition/relation, or an unresolved distinction between them?`, ["event", "state_or_relation", "event_state_ambiguous"], target);
+}
+function temporalQuestion(target, targetName = "governing predicate") {
+  return question("temporal_orientation", `Relative to the represented speaker or narrator's discourse reference point, how is ${targetName} ${targetLabel(target)} temporally presented? The reference point used is the supplied governing discourse scope; do not infer a definite time solely from morphology.`, ["prior", "current_or_general", "subsequent", "temporally_unspecified"], { ...target, reference_point: "represented speaker or narrator discourse reference point in the supplied scope" });
+}
+function assertionStatusQuestion(target, targetName = "governing predicate", id = "assertion_status") {
+  return question(id, `Within the supplied governing discourse scope, how is ${targetName} ${targetLabel(target)} presented?`, ["asserted", "questioned", "hypothetical"], target);
+}
+function prospectiveModeQuestion(target, targetName = "governing predicate", id = "prospective_mode") {
+  return question(id, `Does the supplied construction present ${targetName} ${targetLabel(target)} under a prospective or modal expression? Do not infer expectation or intention merely from a cognitive predicate.`, ["intention", "expectation_or_prediction", "directive_or_obligation", "possibility_or_permission", "none_expressed", "multiple"], target);
+}
+
+function questionTemplatesFor(proposition, words) {
   const questions = [];
+  const target = governingTarget(proposition, words);
   if (proposition.complements.length) {
-    questions.push(question("assertion_scope", "What is the assertion scope of the governed complement material?", ["direct_assertion", "reported_speech", "thought_or_evaluation", "conditional_or_hypothetical"], { governing_predicate_word_id: proposition.predicate.word_id, complement_source_node_ids: proposition.complements.map(item => item.source_node_id) }));
+    const complements = proposition.complements.map(item => expression(item.word_ids, words));
+    questions.push(scopeQuestion(target, complements));
   }
-  questions.push(question("event_status", "How does the predicate present the content?", ["event", "state_or_relation", "other_content"], { predicate_word_id: proposition.predicate.word_id }));
-  questions.push(question("temporal_orientation", "Relative to the passage's speaking context, how is the content temporally presented? Do not infer a definite time solely from verb form.", ["prior", "current_or_general", "subsequent", "temporally_unspecified"], { predicate_word_id: proposition.predicate.word_id }));
-  questions.push(question("modality", "How is the content presented?", ["actual", "expected", "intended", "commanded", "possible", "conditional"], { predicate_word_id: proposition.predicate.word_id }));
+  questions.push(assertionStatusQuestion(target));
+  questions.push(prospectiveModeQuestion(target));
+  questions.push(eventStatusQuestion(target));
+  questions.push(temporalQuestion(target));
   for (const [index, relation] of proposition.relations.entries()) {
     if (relation.semantic_role !== null) continue;
-    questions.push(question(`relation_${index + 1}`, `What relationship is expressed by this unresolved ${relation.preposition_lemma || "prepositional"} phrase?`, relationChoices(relation.preposition_lemma), { preposition_word_id: relation.preposition_word_id, preposition_lemma: relation.preposition_lemma, object_word_ids: relation.object.word_ids }));
+    const phrase = expression([relation.preposition_word_id, ...relation.object.word_ids], words);
+    const construction = expression([...new Set([...target.word_ids, ...phrase.word_ids])], words);
+    questions.push(question(`relation_${index + 1}`, `What relationship does phrase ${targetLabel(phrase)} contribute to governing predicate ${targetLabel(target)} in construction “${construction.source_text}”?`, relationChoices(relation.preposition_lemma), { target_kind: "unresolved_relation", predicate: target, phrase, attachment: { predicate_word_id: proposition.predicate.word_id }, neighboring_source_text: construction.source_text }));
   }
   return questions;
 }
 
 function compactParticipant(participant) {
-  return pick(participant, ["role", "semantic_role", "source", "status", "surface_word_id", "surface_word_ids", "text", "features"]);
+  return pick(participant, ["role", "semantic_role", "source", "status", "surface_word_id", "surface_word_ids"]);
 }
 
 function compactProposition(proposition, words) {
@@ -58,11 +92,11 @@ function compactProposition(proposition, words) {
     proposition_id: proposition.proposition_id,
     reference: proposition.reference,
     source_words: compactWords(proposition.evidence.word_ids, words).map(word => pick(word, ["word_id", "text", "lemma", "morphology", "pos", "stem", "type", "person", "gender", "number"])),
-    predicate: { ...pick(proposition.predicate, ["word_id", "text", "lemma", "morphology", "pos", "stem", "type", "person", "gender", "number", "voice"]), agent: proposition.predicate.agent ?? null, semantic_role_labels: proposition.predicate.semantic_roles.map(role => role.role) },
+    predicate: { word_id: proposition.predicate.word_id, voice: proposition.predicate.voice, agent: proposition.predicate.agent ?? null, semantic_role_labels: proposition.predicate.semantic_roles.map(role => role.role) },
     participants: proposition.participants.map(compactParticipant),
-    arguments: proposition.arguments.map(argument => pick(argument, ["role", "argument_type", "text", "source_node_id", "words"])),
-    relations: proposition.relations.map(relation => ({ relation_type: relation.relation_type, preposition_lemma: relation.preposition_lemma, preposition_word_id: relation.preposition_word_id, object: pick(relation.object, ["text", "word_ids"]), semantic_role: relation.semantic_role ?? null })),
-    complements: proposition.complements.map(complement => ({ ...pick(complement, ["text", "source_node_id", "word_ids", "scope"]), predicates: complement.predicates.map(predicate => pick(predicate, ["word_id", "text", "lemma", "stem", "type", "morphology", "voice", "agent"])) })),
+    arguments: proposition.arguments.map(argument => pick(argument, ["role", "argument_type", "words"])),
+    relations: proposition.relations.map(relation => ({ relation_type: relation.relation_type, preposition_lemma: relation.preposition_lemma, preposition_word_id: relation.preposition_word_id, object_word_ids: relation.object.word_ids, attachment_predicate_word_id: proposition.predicate.word_id, semantic_role: relation.semantic_role ?? null })),
+    complements: proposition.complements.map(complement => ({ word_ids: complement.word_ids, scope: complement.scope, predicates: complement.predicates.map(predicate => pick(predicate, ["word_id", "voice", "agent"])) })),
     grammatical_scope: { source_rule: proposition.syntax.rule, predicate_word_id: proposition.predicate.word_id, complements_governed_by_predicate: proposition.complements.map(complement => complement.scope) }
   };
 }
@@ -147,12 +181,73 @@ function responseContract(request, questions) {
   };
 }
 
+function controlRequest({ proposition_id, source_words, predicate, complements = [], questions, fixture_expectations }) {
+  const request_id = `${proposition_id}:jev-state:${JEV_STATE_QUESTION_VERSION}`;
+  const analysis_unit = {
+    proposition_id,
+    reference: { kind: "english_template_control" },
+    source_words,
+    predicate: { word_id: predicate.word_id, voice: "active", agent: null, semantic_role_labels: [] },
+    participants: [{ role: "subject", semantic_role: "subject", source: "syntax", surface_word_ids: [source_words[0].word_id] }],
+    arguments: [], relations: [], complements,
+    grammatical_scope: { source_rule: "control", predicate_word_id: predicate.word_id, complements_governed_by_predicate: complements.map(complement => complement.scope) }
+  };
+  const payload = serializeOpenRouterDecision({ analysis_unit, context_additions: [], questions });
+  const request_fingerprint = hash(payload);
+  return {
+    request_id, proposition_id, payload,
+    local_record: {
+      builder_version: JEV_STATE_BUILDER_VERSION, request_fingerprint,
+      request_size_bytes: Buffer.byteLength(stable(payload), "utf8"), question_specification: questions,
+      source_evidence: { word_ids: source_words.map(word => word.word_id) }, external_reference_targets: [],
+      context_decision: { included: [], omitted_external_source_text: "English template control; no external source context." },
+      fixture_expectations,
+      response_contract: responseContract({ request_id, proposition_id, request_fingerprint }, questions)
+    }
+  };
+}
+
+const controlWords = (name, tokens) => tokens.map(([text, morphology], index) => ({ word_id: `control.${name}.${index + 1}`, text, morphology }));
+const controlTarget = (name, index, text, target_kind, predicateIndex = index) => ({ target_kind, word_ids: [`control.${name}.${index}`], source_text: text, predicate_word_id: `control.${name}.${predicateIndex}` });
+const complement = (target, governor, voice = "unspecified") => ({ word_ids: target.word_ids, scope: { relation: "predicate_complement", governing_predicate_word_id: governor.predicate_word_id }, predicates: [{ word_id: target.word_ids[0], voice }] });
+
+/** Six v0.3.0 fixtures share production templates; expectations remain local audit data. */
+export function buildSemanticTemplateFixtures() {
+  const considered = controlWords("considered", [["We", "pronoun first plural"], ["considered", "finite verb past"], ["him", "pronoun third singular"], ["afflicted", "predicative adjective"]]);
+  const cGov = controlTarget("considered", 2, "considered", "governing_predication");
+  const cEmbedded = controlTarget("considered", 4, "afflicted", "governed_content", 2);
+  const intended = controlWords("intended", [["We", "pronoun first plural"], ["intended", "finite verb past"], ["to afflict", "infinitival verb"], ["him", "pronoun third singular"]]);
+  const iGov = controlTarget("intended", 2, "intended", "governing_predication");
+  const iEmbedded = controlTarget("intended", 3, "to afflict", "embedded_predication", 2);
+  const expected = controlWords("expected", [["We", "pronoun first plural"], ["expected", "finite verb past"], ["him", "pronoun third singular"], ["to arrive", "infinitival verb"]]);
+  const eGov = controlTarget("expected", 2, "expected", "governing_predication");
+  const eEmbedded = controlTarget("expected", 4, "to arrive", "embedded_predication", 2);
+  const questioned = controlWords("questioned", [["Did", "interrogative auxiliary"], ["he", "pronoun third singular"], ["arrive", "finite verb past"]]);
+  const qTarget = controlTarget("questioned", 3, "arrive", "governing_predication");
+  const quoted = controlWords("quoted", [["She", "pronoun third singular"], ["said", "finite verb past"], ["He", "pronoun third singular"], ["arrived", "finite verb past"]]);
+  const sGov = controlTarget("quoted", 2, "said", "governing_predication");
+  const sEmbedded = controlTarget("quoted", 4, "arrived", "governed_quoted_content", 2);
+  const conditional = controlWords("conditional", [["If", "conditional subordinator"], ["he", "pronoun third singular"], ["arrives", "finite verb present"], ["we", "pronoun first plural"], ["will leave", "finite verb future"]]);
+  const ifTarget = controlTarget("conditional", 3, "arrives", "conditional_content");
+  return [
+    controlRequest({ proposition_id: "fixture_v030_considered_afflicted", source_words: considered, predicate: cGov, complements: [complement(cEmbedded, cGov)], questions: [scopeQuestion(cGov, [cEmbedded]), assertionStatusQuestion(cGov), prospectiveModeQuestion(cGov), eventStatusQuestion(cGov), temporalQuestion(cGov)], fixture_expectations: { targets: { assertion_status: cGov, prospective_mode: cGov, assertion_scope: cEmbedded }, outcomes: { assertion_status: "asserted", prospective_mode: "none_expressed", assertion_scope: "thought_or_evaluation" } } }),
+    controlRequest({ proposition_id: "fixture_v030_intended_afflict", source_words: intended, predicate: iGov, complements: [complement(iEmbedded, iGov, "active")], questions: [assertionStatusQuestion(iGov, "governing predication", "assertion_status_governing"), prospectiveModeQuestion(iEmbedded, "embedded predication", "prospective_mode_embedded"), eventStatusQuestion(iGov), temporalQuestion(iGov)], fixture_expectations: { targets: { assertion_status_governing: iGov, prospective_mode_embedded: iEmbedded }, outcomes: { assertion_status_governing: "asserted", prospective_mode_embedded: "intention" } } }),
+    controlRequest({ proposition_id: "fixture_v030_expected_arrive", source_words: expected, predicate: eGov, complements: [complement(eEmbedded, eGov, "active")], questions: [assertionStatusQuestion(eGov, "governing predication", "assertion_status_governing"), prospectiveModeQuestion(eEmbedded, "embedded predication", "prospective_mode_embedded"), eventStatusQuestion(eGov), temporalQuestion(eGov)], fixture_expectations: { targets: { assertion_status_governing: eGov, prospective_mode_embedded: eEmbedded }, outcomes: { assertion_status_governing: "asserted", prospective_mode_embedded: "expectation_or_prediction" } } }),
+    controlRequest({ proposition_id: "fixture_v030_questioned_arrive", source_words: questioned, predicate: qTarget, questions: [assertionStatusQuestion(qTarget), prospectiveModeQuestion(qTarget), eventStatusQuestion(qTarget), temporalQuestion(qTarget)], fixture_expectations: { targets: { assertion_status: qTarget, prospective_mode: qTarget }, outcomes: { assertion_status: "questioned", prospective_mode: "none_expressed" } } }),
+    controlRequest({ proposition_id: "fixture_v030_quoted_arrived", source_words: quoted, predicate: sGov, complements: [complement(sEmbedded, sGov, "active")], questions: [scopeQuestion(sGov, [sEmbedded]), assertionStatusQuestion(sEmbedded, "governed quoted content", "assertion_status_embedded"), prospectiveModeQuestion(sEmbedded, "governed quoted content", "prospective_mode_embedded"), eventStatusQuestion(sEmbedded, "governed quoted content"), temporalQuestion(sEmbedded, "governed quoted content")], fixture_expectations: { targets: { assertion_status_embedded: sEmbedded, prospective_mode_embedded: sEmbedded, assertion_scope: sEmbedded }, outcomes: { assertion_scope: "reported_speech", assertion_status_embedded: "asserted", prospective_mode_embedded: "none_expressed" } } }),
+    controlRequest({ proposition_id: "fixture_v030_conditional_arrive_leave", source_words: conditional, predicate: ifTarget, questions: [scopeQuestion({ ...ifTarget, source_text: "if" }, [ifTarget]), assertionStatusQuestion(ifTarget), prospectiveModeQuestion(ifTarget), eventStatusQuestion(ifTarget), temporalQuestion(ifTarget)], fixture_expectations: { targets: { assertion_status: ifTarget, prospective_mode: ifTarget, assertion_scope: ifTarget }, outcomes: { assertion_scope: "conditional_or_hypothetical", assertion_status: "hypothetical", prospective_mode: "none_expressed" }, ambiguity: "The future leaving predication and its temporal relation are not separately queried by this conditional-arrival fixture." } })
+  ];
+}
+
+/** Compatibility helper for legacy v0.2 runner paths; not used by v0.3 verification. */
+export function buildSemanticTemplateControls() { return buildSemanticTemplateFixtures().slice(0, 2); }
+
 export async function buildJevState(analysis, { resolveReferent = async () => null } = {}) {
   const words = sourceWordMap(analysis);
   const requests = [];
   for (const proposition of analysis.propositions) {
     const request_id = `${proposition.proposition_id}:jev-state:${JEV_STATE_QUESTION_VERSION}`;
-    const questions = questionsFor(proposition);
+    const questions = questionTemplatesFor(proposition, words);
     const context_additions = [];
     if (questions.some(question => question.question_id === "temporal_orientation")) {
       const nearby = nearbyTemporalContext(proposition, analysis);
@@ -184,7 +279,7 @@ export function validateJevState(state) {
     const questions = local_record.question_specification;
     if (!Object.keys(payload.questions).length) errors.push({ request_id: request.request_id, issue: "no_questions" });
     if (payload.state.analysis_unit.complements.some(item => !item.scope?.governing_predicate_word_id)) errors.push({ request_id: request.request_id, issue: "lost_complement_scope" });
-    for (const relation of payload.state.analysis_unit.relations) if (relation.semantic_role === null && !questions.some(question => question.evidence.preposition_word_id === relation.preposition_word_id)) errors.push({ request_id: request.request_id, issue: "unasked_unresolved_relation", word_id: relation.preposition_word_id });
+    for (const relation of payload.state.analysis_unit.relations) if (relation.semantic_role === null && !questions.some(question => question.evidence.phrase?.word_ids?.includes(relation.preposition_word_id))) errors.push({ request_id: request.request_id, issue: "unasked_unresolved_relation", word_id: relation.preposition_word_id });
     if (local_record.response_contract.request_fingerprint !== local_record.request_fingerprint) errors.push({ request_id: request.request_id, issue: "response_not_bound_to_request" });
     if (JSON.stringify(payload).match(/\bprophecy\b|\bmessianic\b|\bfulfilled\b/iu)) errors.push({ request_id: request.request_id, issue: "forbidden_interpretive_label" });
     const providerValidation = validateOpenRouterDecision(payload);

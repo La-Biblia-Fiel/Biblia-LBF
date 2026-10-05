@@ -15,13 +15,25 @@ function frameRoles(raw = "") {
 function ownConstituents(clause) { return (clause.constituents || []).filter(item => !item.contains_clause); }
 function wordsIn(items) { return items.flatMap(item => item.words); }
 function inSourceOrder(words) { return [...words].sort((a, b) => a.word_id.localeCompare(b.word_id, "en")); }
+function surfaceExpression(words, sourceSurfaceWord = null) {
+  return {
+    word_ids: words.map(word => word.word_id),
+    text: words.reduce((text, word) => `${text}${text && word.pos === "suffix" ? "" : text ? " " : ""}${word.text}`, ""),
+    attachment_source: sourceSurfaceWord ? "shared_macula_surface_word" : "head_word_only",
+    source_surface_word: sourceSurfaceWord
+  };
+}
 function coreference(word) { const target = word.subj_ref || word.ref; return target ? { source: word.subj_ref ? "SubjRef" : "Ref", target, target_ids: targets(target) } : null; }
 function voice(word) { return /passive/iu.test(word.type || "") || ["niphal", "pual", "polal", "hophal"].includes(word.stem) ? "passive" : "active"; }
 
 function predicateFor(clause) {
-  const words = wordsIn(ownConstituents(clause).filter(item => item.category === "V"));
+  const verbalConstituents = ownConstituents(clause).filter(item => item.category === "V");
+  const words = wordsIn(verbalConstituents);
   const word = words.find(item => item.pos === "verb") || words[0];
-  if (word) return { predicate_type: word.pos === "verb" ? "verbal" : "other", word };
+  if (word) {
+    const constituent = verbalConstituents.find(item => item.words.includes(word));
+    return { predicate_type: word.pos === "verb" ? "verbal" : "other", word };
+  }
   const complement = ownConstituents(clause).find(item => ["P", "ADJ"].includes(item.category));
   return complement ? { predicate_type: complement.category === "P" ? "prepositional" : "adjectival", word: complement.words[0] } : null;
 }
@@ -67,7 +79,7 @@ function participantsFor(items, predicate, predicateVoice) {
   return [...phraseSubjects, ...words.map(word => participant(word, "subject", predicateVoice))].filter(item => { const key = `${item.participant_id}:${item.surface_word_id || item.surface_word_ids.join(",")}`; if (seen.has(key)) return false; seen.add(key); return true; });
 }
 function argumentFor(item, wordIndex) { const bare = item.words.length === 1 && ["suffix", "pronoun"].includes(item.words[0].pos); const resolved = resolvedText(item.words, wordIndex, bare); return { role: item.category || "unknown", argument_type: ROLE_NAMES[item.category] || "unknown", text: resolved.text, source_node_id: item.source_node_id, words: item.words.map(word => word.word_id), resolution: resolved.resolution }; }
-function relationsFor(items, wordIndex) { return items.filter(item => item.category === "PP").map(item => { const preposition = item.words.find(word => word.pos === "preposition"), objectWords = item.words.filter(word => word !== preposition), resolved = resolvedText(objectWords, wordIndex, false); return { relation_type: "prepositional", preposition_lemma: preposition?.lemma || null, preposition_word_id: preposition?.word_id || null, object: { text: resolved.text, word_ids: objectWords.map(word => word.word_id), resolution: resolved.resolution }, semantic_role: null }; }); }
+function relationsFor(items, wordIndex) { return items.filter(item => item.category === "PP").map(item => { const preposition = item.words.find(word => word.pos === "preposition"), objectWords = item.words.filter(word => word !== preposition), resolved = resolvedText(objectWords, wordIndex, false); const attachedSuffixes = objectWords.filter(word => word.pos === "suffix" && word.source_surface_word && word.source_surface_word === preposition?.source_surface_word); return { relation_type: "prepositional", preposition_lemma: preposition?.lemma || null, preposition_word_id: preposition?.word_id || null, surface_expression: surfaceExpression([preposition, ...attachedSuffixes].filter(Boolean), preposition?.source_surface_word || null), object: { text: resolved.text, word_ids: objectWords.map(word => word.word_id), resolution: resolved.resolution }, semantic_role: null }; }); }
 function scopedComplements(items, governingPredicate) { return items.filter(item => item.category === "O2").map(item => ({ text: item.words.map(word => word.text).join(" "), source_node_id: item.source_node_id, word_ids: item.words.map(word => word.word_id), scope: { relation: "predicate_complement", governing_predicate_word_id: governingPredicate.word_id }, predicates: item.words.filter(word => word.pos === "verb").map(word => ({ word_id: word.word_id, source_node_id: word.source_node_id, text: word.text, lemma: word.lemma, stem: word.stem, type: word.type, morphology: word.morphology, voice: voice(word), agent: null, resolution: coreference(word) })) })); }
 
 function propositionFor(clause, info, raw, classifications, wordIndex) {
@@ -76,6 +88,7 @@ function propositionFor(clause, info, raw, classifications, wordIndex) {
   const items = [...directItems, ...helpers.flatMap(ownConstituents)];
   const words = inSourceOrder(wordsIn(items));
   const predicate = info.predicate.word, predicateVoice = voice(predicate);
+  const attachedSuffixes = words.filter(word => word.pos === "suffix" && word.source_surface_word && word.source_surface_word === predicate.source_surface_word);
   const frames = [...new Set(words.map(word => word.frame).filter(Boolean))];
   const container = helpers.length ? raw.clauses.find(candidate => candidate.clause_id === clause.parent_clause_id) : null;
   const evidenceClauses = [clause, ...helpers, ...(container ? [container] : [])];
@@ -85,7 +98,7 @@ function propositionFor(clause, info, raw, classifications, wordIndex) {
     proposition_id: `${bookCode}_${clause.chapter}_${String(clause.verse).padStart(2, "0")}_${clause.macula_node_id}_p1`,
     reference: { book: clause.book, chapter: clause.chapter, verse: clause.verse },
     source: { language: "hebrew", textual_base: "WLC/OSHB", text: words.map(word => word.text).join(" "), word_ids: words.map(word => word.word_id) },
-    predicate: { predicate_type: info.predicate.predicate_type, word_id: predicate.word_id, source_node_id: predicate.source_node_id, text: predicate.text, ...Object.fromEntries(["lemma", "pos", "stem", "type", "morphology", "person", "gender", "number"].filter(field => predicate[field]).map(field => [field, predicate[field]])), voice: predicateVoice, agent: null, semantic_roles: frames.flatMap(frameRoles), frame_raw: frames },
+    predicate: { predicate_type: info.predicate.predicate_type, word_id: predicate.word_id, surface_expression: surfaceExpression([predicate, ...attachedSuffixes], predicate.source_surface_word || null), source_node_id: predicate.source_node_id, text: predicate.text, ...Object.fromEntries(["lemma", "pos", "stem", "type", "morphology", "person", "gender", "number"].filter(field => predicate[field]).map(field => [field, predicate[field]])), voice: predicateVoice, agent: null, semantic_roles: frames.flatMap(frameRoles), frame_raw: frames },
     participants: [...participantsFor(directItems, predicate, predicateVoice), ...passivePatients],
     arguments: directItems.filter(item => !["V", "PP", "O2"].includes(item.category)).map(item => argumentFor(item, wordIndex)),
     relations: relationsFor(directItems, wordIndex),

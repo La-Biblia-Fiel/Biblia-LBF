@@ -52,6 +52,34 @@ versions, and empty per-question probability-distribution contracts stay in
 `local_record`; they are not sent to the model. The browser exposes the same
 review data at `/api/jev-state`.
 
+## Passage-level analysis design
+
+[`PASSAGE_LEVEL_ANALYSIS.md`](PASSAGE_LEVEL_ANALYSIS.md) defines the next,
+still dry-run-only layer: an auditable contextual assessment packet for a
+passage. It preserves semantic uncertainty, keeps governed material in its
+source scope, and contains no prophecy classification. In particular,
+`none_expressed` for a local prospective-mode question is never evidence that
+a proposition is non-prophetic.
+
 `.env` is ignored. If a paid pilot is explicitly authorized later, place an
 OpenRouter key only in that local file as `OPENROUTER_API_KEY=...`; do not put
 it in source code, exports, or a terminal transcript.
+
+## Local Ollama / Nimble pilot
+
+The bounded Nimble pilot is independent of OpenRouter and runs exactly the ten
+existing Isaiah 53:4–6 units, sequentially. It probes `/api/version`,
+`/api/tags`, and `/api/show`; uses `/api/tokenize` for an exact per-request
+preflight when that endpoint is supported; and never truncates a request. If
+tokenization is unavailable, the record says so and retains a byte-based
+estimate rather than claiming an exact count. Each attempt, including failures
+and malformed responses, is stored locally under the ignored
+`var/ollama-systemone-pilot/` directory. A matching prior attempt is never
+automatically repeated.
+
+Run this on the Mac hosting Ollama:
+
+```sh
+cd /Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor
+npm run ollama:pilot -- --endpoint http://localhost:11434/v1/systemone --model nimble
+```

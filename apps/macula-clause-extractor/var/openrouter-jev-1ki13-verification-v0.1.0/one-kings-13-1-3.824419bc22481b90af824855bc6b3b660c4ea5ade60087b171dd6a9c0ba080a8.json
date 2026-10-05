@@ -1,0 +1,570 @@
+{
+  "schema_version": "0.1.0",
+  "verification_kind": "one_kings_13_1_3_predictive_statement_control",
+  "provider_kind": "openrouter_decisions",
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "requested_model": "typesafe/jev-1.13",
+  "served_model": "typesafe/jev-1.13-20260917",
+  "provider": "TypeSafe",
+  "request_fingerprint": "824419bc22481b90af824855bc6b3b660c4ea5ade60087b171dd6a9c0ba080a8",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "assessment_kind": "bounded_predictive_statement_verification",
+      "source_window": [
+        {
+          "reference": "1 Kings 13:1",
+          "verse": 1,
+          "source_word_ids": [
+            "o110130010011",
+            "o110130010012",
+            "o110130010021",
+            "o110130010031",
+            "o110130010041",
+            "o110130010051",
+            "o110130010052",
+            "o110130010061",
+            "o110130010062",
+            "o110130010071",
+            "o110130010081",
+            "o110130010091",
+            "o110130010101",
+            "o110130010111",
+            "o110130010112",
+            "o110130010121",
+            "o110130010131",
+            "o110130010141",
+            "o110130010142",
+            "o110130010151",
+            "o110130010152"
+          ],
+          "source_text": "וְ הִנֵּ֣ה אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִ יהוּדָ֛ה בִּ דְבַ֥ר יְהוָ֖ה אֶל בֵּֽית אֵ֑ל וְ יָרָבְעָ֛ם עֹמֵ֥ד עַל הַ מִּזְבֵּ֖חַ לְ הַקְטִֽיר"
+        },
+        {
+          "reference": "1 Kings 13:2",
+          "verse": 2,
+          "source_word_ids": [
+            "o110130020011",
+            "o110130020012",
+            "o110130020021",
+            "o110130020031",
+            "o110130020032",
+            "o110130020041",
+            "o110130020042",
+            "o110130020051",
+            "o110130020061",
+            "o110130020062",
+            "o110130020071",
+            "o110130020081",
+            "o110130020091",
+            "o110130020101",
+            "o110130020111",
+            "o110130020121",
+            "o110130020131",
+            "o110130020141",
+            "o110130020151",
+            "o110130020152",
+            "o110130020161",
+            "o110130020171",
+            "o110130020181",
+            "o110130020182",
+            "o110130020191",
+            "o110130020192",
+            "o110130020201",
+            "o110130020202",
+            "o110130020211",
+            "o110130020221",
+            "o110130020231",
+            "o110130020232",
+            "o110130020241",
+            "o110130020242",
+            "o110130020251",
+            "o110130020252",
+            "o110130020261",
+            "o110130020262",
+            "o110130020271",
+            "o110130020281",
+            "o110130020291",
+            "o110130020292"
+          ],
+          "source_text": "וַ יִּקְרָ֤א עַל הַ מִּזְבֵּ֨חַ֙ בִּ דְבַ֣ר יְהוָ֔ה וַ יֹּ֨אמֶר֙ מִזְבֵּ֣חַ מִזְבֵּ֔חַ כֹּ֖ה אָמַ֣ר יְהוָ֑ה הִנֵּֽה בֵ֞ן נוֹלָ֤ד לְ בֵית דָּוִד֙ יֹאשִׁיָּ֣הוּ שְׁמ֔ וֹ וְ זָבַ֣ח עָלֶ֗י ךָ אֶת כֹּהֲנֵ֤י הַ בָּמוֹת֙ הַ מַּקְטִרִ֣ים עָלֶ֔י ךָ וְ עַצְמ֥וֹת אָדָ֖ם יִשְׂרְפ֥וּ עָלֶֽי ךָ"
+        },
+        {
+          "reference": "1 Kings 13:3",
+          "verse": 3,
+          "source_word_ids": [
+            "o110130030011",
+            "o110130030012",
+            "o110130030021",
+            "o110130030021ה",
+            "o110130030022",
+            "o110130030031",
+            "o110130030032",
+            "o110130030041",
+            "o110130030051",
+            "o110130030052",
+            "o110130030061",
+            "o110130030071",
+            "o110130030072",
+            "o110130030081",
+            "o110130030091",
+            "o110130030101",
+            "o110130030111",
+            "o110130030121",
+            "o110130030122",
+            "o110130030131",
+            "o110130030141",
+            "o110130030142",
+            "o110130030151",
+            "o110130030152",
+            "o110130030161",
+            "o110130030171",
+            "o110130030172"
+          ],
+          "source_text": "וְ נָתַן֩ בַּ  יּ֨וֹם הַ ה֤וּא מוֹפֵת֙ לֵ אמֹ֔ר זֶ֣ה הַ מּוֹפֵ֔ת אֲשֶׁ֖ר דִּבֶּ֣ר יְהוָ֑ה הִנֵּ֤ה הַ מִּזְבֵּ֨חַ֙ נִקְרָ֔ע וְ נִשְׁפַּ֖ךְ הַ דֶּ֥שֶׁן אֲשֶׁר עָלָֽי ו"
+        }
+      ],
+      "cases": {
+        "announcement_1ki_13_2_3": {
+          "case_id": "announcement_1ki_13_2_3",
+          "target_label": "the announcement in 1 Kings 13:2–3",
+          "target_kind": "multi-expression announcement",
+          "target_propositions": [
+            {
+              "proposition_id": "book_13_02_1101300201310050_p1",
+              "reference": {
+                "book": "1 Kings",
+                "chapter": 13,
+                "verse": 2
+              },
+              "source_text": "בֵ֞ן נוֹלָ֤ד לְ בֵית דָּוִד֙",
+              "source_word_ids": [
+                "o110130020131",
+                "o110130020141",
+                "o110130020151",
+                "o110130020152",
+                "o110130020161"
+              ],
+              "predicate": {
+                "predicate_word_id": "o110130020141",
+                "predicate_head": "נוֹלָ֤ד",
+                "surface_expression": {
+                  "word_ids": [
+                    "o110130020141"
+                  ],
+                  "text": "נוֹלָ֤ד",
+                  "attachment_source": "shared_macula_surface_word",
+                  "source_surface_word": "1KI 13:2!14"
+                },
+                "voice": "passive"
+              },
+              "grammatical_scope": {
+                "source_rule": "S-V-PP",
+                "governed_complements": []
+              }
+            },
+            {
+              "proposition_id": "book_13_02_1101300201920110_p1",
+              "reference": {
+                "book": "1 Kings",
+                "chapter": 13,
+                "verse": 2
+              },
+              "source_text": "זָבַ֣ח עָלֶ֗י ךָ אֶת כֹּהֲנֵ֤י הַ בָּמוֹת֙ הַ מַּקְטִרִ֣ים עָלֶ֔י ךָ",
+              "source_word_ids": [
+                "o110130020192",
+                "o110130020201",
+                "o110130020202",
+                "o110130020211",
+                "o110130020221",
+                "o110130020231",
+                "o110130020232",
+                "o110130020241",
+                "o110130020242",
+                "o110130020251",
+                "o110130020252"
+              ],
+              "predicate": {
+                "predicate_word_id": "o110130020192",
+                "predicate_head": "זָבַ֣ח",
+                "surface_expression": {
+                  "word_ids": [
+                    "o110130020192"
+                  ],
+                  "text": "זָבַ֣ח",
+                  "attachment_source": "shared_macula_surface_word",
+                  "source_surface_word": "1KI 13:2!19"
+                },
+                "voice": "active"
+              },
+              "grammatical_scope": {
+                "source_rule": "V-PP-O",
+                "governed_complements": []
+              }
+            },
+            {
+              "proposition_id": "book_13_02_1101300202620050_p1",
+              "reference": {
+                "book": "1 Kings",
+                "chapter": 13,
+                "verse": 2
+              },
+              "source_text": "עַצְמ֥וֹת אָדָ֖ם יִשְׂרְפ֥וּ עָלֶֽי ךָ",
+              "source_word_ids": [
+                "o110130020262",
+                "o110130020271",
+                "o110130020281",
+                "o110130020291",
+                "o110130020292"
+              ],
+              "predicate": {
+                "predicate_word_id": "o110130020281",
+                "predicate_head": "יִשְׂרְפ֥וּ",
+                "surface_expression": {
+                  "word_ids": [
+                    "o110130020281"
+                  ],
+                  "text": "יִשְׂרְפ֥וּ",
+                  "attachment_source": "shared_macula_surface_word",
+                  "source_surface_word": "1KI 13:2!28"
+                },
+                "voice": "active"
+              },
+              "grammatical_scope": {
+                "source_rule": "O-V-PP",
+                "governed_complements": []
+              }
+            },
+            {
+              "proposition_id": "book_13_03_1101300301210030_p1",
+              "reference": {
+                "book": "1 Kings",
+                "chapter": 13,
+                "verse": 3
+              },
+              "source_text": "הַ מִּזְבֵּ֨חַ֙ נִקְרָ֔ע",
+              "source_word_ids": [
+                "o110130030121",
+                "o110130030122",
+                "o110130030131"
+              ],
+              "predicate": {
+                "predicate_word_id": "o110130030131",
+                "predicate_head": "נִקְרָ֔ע",
+                "surface_expression": {
+                  "word_ids": [
+                    "o110130030131"
+                  ],
+                  "text": "נִקְרָ֔ע",
+                  "attachment_source": "shared_macula_surface_word",
+                  "source_surface_word": "1KI 13:3!13"
+                },
+                "voice": "passive"
+              },
+              "grammatical_scope": {
+                "source_rule": "S-V",
+                "governed_complements": []
+              }
+            },
+            {
+              "proposition_id": "book_13_03_1101300301420060_p1",
+              "reference": {
+                "book": "1 Kings",
+                "chapter": 13,
+                "verse": 3
+              },
+              "source_text": "נִשְׁפַּ֖ךְ הַ דֶּ֥שֶׁן אֲשֶׁר עָלָֽי ו",
+              "source_word_ids": [
+                "o110130030142",
+                "o110130030151",
+                "o110130030152",
+                "o110130030161",
+                "o110130030171",
+                "o110130030172"
+              ],
+              "predicate": {
+                "predicate_word_id": "o110130030142",
+                "predicate_head": "נִשְׁפַּ֖ךְ",
+                "surface_expression": {
+                  "word_ids": [
+                    "o110130030142"
+                  ],
+                  "text": "נִשְׁפַּ֖ךְ",
+                  "attachment_source": "shared_macula_surface_word",
+                  "source_surface_word": "1KI 13:3!14"
+                },
+                "voice": "passive"
+              },
+              "grammatical_scope": {
+                "source_rule": "V-S",
+                "governed_complements": []
+              }
+            }
+          ],
+          "governing_scope": {
+            "kind": "direct_speech_announced_as_word_of_YHWH",
+            "source_evidence": [
+              {
+                "proposition_id": "book_13_02_1101300200120070_p1",
+                "reference": {
+                  "book": "1 Kings",
+                  "chapter": 13,
+                  "verse": 2
+                },
+                "source_text": "יִּקְרָ֤א עַל הַ מִּזְבֵּ֨חַ֙ בִּ דְבַ֣ר יְהוָ֔ה",
+                "source_word_ids": [
+                  "o110130020012",
+                  "o110130020021",
+                  "o110130020031",
+                  "o110130020032",
+                  "o110130020041",
+                  "o110130020042",
+                  "o110130020051"
+                ],
+                "predicate": {
+                  "predicate_word_id": "o110130020012",
+                  "predicate_head": "יִּקְרָ֤א",
+                  "surface_expression": {
+                    "word_ids": [
+                      "o110130020012"
+                    ],
+                    "text": "יִּקְרָ֤א",
+                    "attachment_source": "shared_macula_surface_word",
+                    "source_surface_word": "1KI 13:2!1"
+                  },
+                  "voice": "active"
+                },
+                "grammatical_scope": {
+                  "source_rule": "V-PP-PP",
+                  "governed_complements": []
+                }
+              },
+              {
+                "proposition_id": "book_13_02_1101300200910030_p1",
+                "reference": {
+                  "book": "1 Kings",
+                  "chapter": 13,
+                  "verse": 2
+                },
+                "source_text": "כֹּ֖ה אָמַ֣ר יְהוָ֑ה",
+                "source_word_ids": [
+                  "o110130020091",
+                  "o110130020101",
+                  "o110130020111"
+                ],
+                "predicate": {
+                  "predicate_word_id": "o110130020101",
+                  "predicate_head": "אָמַ֣ר",
+                  "surface_expression": {
+                    "word_ids": [
+                      "o110130020101"
+                    ],
+                    "text": "אָמַ֣ר",
+                    "attachment_source": "shared_macula_surface_word",
+                    "source_surface_word": "1KI 13:2!10"
+                  },
+                  "voice": "active"
+                },
+                "grammatical_scope": {
+                  "source_rule": "ADV-V-S",
+                  "governed_complements": []
+                }
+              }
+            ],
+            "note": "The five target predications are evaluated as content within this announced speech, not as detached narration."
+          },
+          "context_reason": "Verses 1–3 establish the speaker, the direct-speech frame, and the announced sign without importing later fulfillment material."
+        },
+        "narrative_control_1ki_13_1": {
+          "case_id": "narrative_control_1ki_13_1",
+          "target_label": "the ordinary past narrative statement in 1 Kings 13:1",
+          "target_kind": "single narrative predication",
+          "target_propositions": [
+            {
+              "proposition_id": "book_13_01_1101300100210100_p1",
+              "reference": {
+                "book": "1 Kings",
+                "chapter": 13,
+                "verse": 1
+              },
+              "source_text": "אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִ יהוּדָ֛ה בִּ דְבַ֥ר יְהוָ֖ה אֶל בֵּֽית אֵ֑ל",
+              "source_word_ids": [
+                "o110130010021",
+                "o110130010031",
+                "o110130010041",
+                "o110130010051",
+                "o110130010052",
+                "o110130010061",
+                "o110130010062",
+                "o110130010071",
+                "o110130010081",
+                "o110130010091",
+                "o110130010101"
+              ],
+              "predicate": {
+                "predicate_word_id": "o110130010041",
+                "predicate_head": "בָּ֧א",
+                "surface_expression": {
+                  "word_ids": [
+                    "o110130010041"
+                  ],
+                  "text": "בָּ֧א",
+                  "attachment_source": "shared_macula_surface_word",
+                  "source_surface_word": "1KI 13:1!4"
+                },
+                "voice": "active"
+              },
+              "grammatical_scope": {
+                "source_rule": "S-V-PP-PP-PP",
+                "governed_complements": []
+              }
+            }
+          ],
+          "governing_scope": {
+            "kind": "narrator_assertion",
+            "source_evidence": [
+              {
+                "proposition_id": "book_13_01_1101300100210100_p1",
+                "reference": {
+                  "book": "1 Kings",
+                  "chapter": 13,
+                  "verse": 1
+                },
+                "source_text": "אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִ יהוּדָ֛ה בִּ דְבַ֥ר יְהוָ֖ה אֶל בֵּֽית אֵ֑ל",
+                "source_word_ids": [
+                  "o110130010021",
+                  "o110130010031",
+                  "o110130010041",
+                  "o110130010051",
+                  "o110130010052",
+                  "o110130010061",
+                  "o110130010062",
+                  "o110130010071",
+                  "o110130010081",
+                  "o110130010091",
+                  "o110130010101"
+                ],
+                "predicate": {
+                  "predicate_word_id": "o110130010041",
+                  "predicate_head": "בָּ֧א",
+                  "surface_expression": {
+                    "word_ids": [
+                      "o110130010041"
+                    ],
+                    "text": "בָּ֧א",
+                    "attachment_source": "shared_macula_surface_word",
+                    "source_surface_word": "1KI 13:1!4"
+                  },
+                  "voice": "active"
+                },
+                "grammatical_scope": {
+                  "source_rule": "S-V-PP-PP-PP",
+                  "governed_complements": []
+                }
+              }
+            ],
+            "note": "This is presented as ordinary narrator discourse, not as the content of the following announcement."
+          },
+          "context_reason": "Verses 1–3 distinguish the verse 1 arrival narrative from the direct speech introduced in verse 2."
+        }
+      },
+      "evidence_boundary": "Source text and canonical proposition structure are evidence. The response is a model judgment and does not alter canonical data."
+    },
+    "questions": {
+      "announcement_1ki_13_2_3:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Assess only the announcement in 1 Kings 13:2–3 in its supplied source scope. Is it a predictive-statement candidate: does it communicate circumstances as subsequent to the communication setting? Do not treat verbal morphology alone as decisive. Choose underdetermined when the supplied evidence does not distinguish the choices.",
+        "criteria": {
+          "supported_candidate": "The supplied context positively supports a predictive announcement: the target communicates circumstances as subsequent to its communication setting.",
+          "possible_candidate": "Some supplied evidence supports that reading, but a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support for that reading. This does not establish non-prophecy.",
+          "underdetermined": "Missing or ambiguous supplied evidence prevents distinguishing these outcomes."
+        }
+      },
+      "narrative_control_1ki_13_1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Assess only the ordinary past narrative statement in 1 Kings 13:1 in its supplied source scope. Is it a predictive-statement candidate: does it communicate circumstances as subsequent to the communication setting? Do not treat verbal morphology alone as decisive. Choose underdetermined when the supplied evidence does not distinguish the choices.",
+        "criteria": {
+          "supported_candidate": "The supplied context positively supports a predictive announcement: the target communicates circumstances as subsequent to its communication setting.",
+          "possible_candidate": "Some supplied evidence supports that reading, but a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support for that reading. This does not establish non-prophecy.",
+          "underdetermined": "Missing or ambiguous supplied evidence prevents distinguishing these outcomes."
+        }
+      }
+    }
+  },
+  "local_verification": {
+    "builder_version": "0.1.0",
+    "request_fingerprint": "824419bc22481b90af824855bc6b3b660c4ea5ade60087b171dd6a9c0ba080a8",
+    "expected_outcomes": {
+      "announcement_1ki_13_2_3": "supported_candidate",
+      "narrative_control_1ki_13_1": "no_support_in_supplied_context"
+    },
+    "expectations_boundary": "Expected outcomes are local verification criteria and are intentionally absent from the model-facing payload.",
+    "request_size_bytes": 12050,
+    "token_estimate": {
+      "method": "byte_divided_by_4",
+      "estimated_input_tokens": 3013,
+      "exact_count_available": false,
+      "limitation": "A local Jev tokenizer is unavailable; this is a rough byte-based estimate, not an exact token count."
+    }
+  },
+  "local_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "preflight": {
+    "context_limit_tokens": 32000,
+    "context_limit_source": "https://openrouter.ai/typesafe/jev-1.13/api",
+    "exact_count_available": false,
+    "rough_estimated_input_tokens": 3013,
+    "fits_rough_estimate": true
+  },
+  "status": "succeeded",
+  "error": null,
+  "raw_response_text": "{\"model\":\"typesafe/jev-1.13-20260917\",\"answers\":{\"announcement_1ki_13_2_3:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"supported_candidate\",\"probabilities\":{\"supported_candidate\":0.98,\"underdetermined\":0,\"possible_candidate\":0.02,\"no_support_in_supplied_context\":0},\"confidence\":0.96},\"narrative_control_1ki_13_1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.01,\"underdetermined\":0.01,\"possible_candidate\":0,\"no_support_in_supplied_context\":0.98},\"confidence\":0.98}},\"usage\":{\"input_tokens\":6807,\"output_tokens\":151,\"cost\":0.000285894},\"id\":\"gen-dec-1790971635-ZafcF08IxXnWNfbgkq7U\",\"provider\":\"TypeSafe\"}",
+  "raw_response": {
+    "model": "typesafe/jev-1.13-20260917",
+    "answers": {
+      "announcement_1ki_13_2_3:candidate_assessment": {
+        "type": "choice",
+        "choice": "supported_candidate",
+        "probabilities": {
+          "supported_candidate": 0.98,
+          "underdetermined": 0,
+          "possible_candidate": 0.02,
+          "no_support_in_supplied_context": 0
+        },
+        "confidence": 0.96
+      },
+      "narrative_control_1ki_13_1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.01,
+          "underdetermined": 0.01,
+          "possible_candidate": 0,
+          "no_support_in_supplied_context": 0.98
+        },
+        "confidence": 0.98
+      }
+    },
+    "usage": {
+      "input_tokens": 6807,
+      "output_tokens": 151,
+      "cost": 0.000285894
+    },
+    "id": "gen-dec-1790971635-ZafcF08IxXnWNfbgkq7U",
+    "provider": "TypeSafe"
+  },
+  "response_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "usage": {
+    "input_tokens": 6807,
+    "output_tokens": 151
+  },
+  "elapsed_ms": 376,
+  "attempted_at": "2026-10-02T20:07:15.161Z"
+}

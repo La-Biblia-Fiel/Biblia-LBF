@@ -64,6 +64,7 @@ function wordsFor(node) {
     const output = {
       word_id: source["xml:id"] || parent.morphId || parent.nodeId,
       source_node_id: parent.nodeId || null,
+      source_surface_word: source.word || null,
       text: leaf.text.trim()
     };
     for (const field of WORD_FIELDS) {
@@ -155,6 +156,21 @@ export function extractPassage({ xml, lbfMarkdown, book = "Isaiah", bookCode = "
 
 export async function loadIsaiahPassage(repoRoot, firstVerse = 4, lastVerse = 6) {
   return loadPassage(repoRoot, { book: "Isaiah", chapter: 53, firstVerse, lastVerse });
+}
+
+/** Reads ordered source verses from MACULA Sentence verse metadata, not clause traversal. */
+export async function loadSourceVerses(repoRoot, { book, chapter, firstVerse, lastVerse }) {
+  const selected = findBook(book);
+  if (!selected) throw new Error("Choose a supported Protestant Old Testament book.");
+  const paddedChapter = String(chapter).padStart(3, "0");
+  const path = join(repoRoot, "source/hebrew/macula-hebrew-main", `WLC/nodes/${selected.number}-${selected.macula_code}-${paddedChapter}.xml`);
+  const xml = await readFile(path, "utf8");
+  return parseMaculaNodes(xml).flatMap(sentence => {
+    const verse = verseNumber(sentence.verse);
+    if (verse === null || verse < firstVerse || verse > lastVerse) return [];
+    const words = wordsFor(sentence.root);
+    return [{ reference: `${selected.name} ${chapter}:${verse}`, verse, source_word_ids: words.map(word => word.word_id), source_text: words.map(word => word.text).join(" ") }];
+  });
 }
 
 export async function loadPassage(repoRoot, { book, chapter, firstVerse, lastVerse }) {
