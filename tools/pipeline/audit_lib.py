@@ -72,6 +72,12 @@ women give birth. FAIL “dar a luz a las hebreas” (addressees give birth to
 the women). Dual stones stay stones. FAIL el sexo, entre las piernas,
 birthstool, and extra noun parto/partos. Gender is in if-son / if-daughter.
 
+A word in single asterisks (*son*) is a supplied Spanish word with no
+Hebrew or Greek token. The asterisks are the reader's mark. Do not warn
+or fail a marked copula that only lets a verbless clause be a sentence.
+Fail a supplied word that is not marked, and fail an italic word that
+adds a concept the tokens do not license.
+
 WARN when uncertain, or when Spanish is grammatical smoothing that does not
 change meaning.
 

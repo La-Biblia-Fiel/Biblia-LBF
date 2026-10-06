@@ -37,6 +37,12 @@ re-audit verdict of `fail`, parks the verse and leaves the previous
 Spanish. A `pass` is written into the verse. Warns on that pass stay in
 the audit file for the human read. Sonnet does not run again.
 
+A word the Hebrew does not have, added so the Spanish can be a sentence,
+is italic: *son*. A marked copula does not park the verse. When a warn
+is only number — a singular head noun against a plural participle —
+Sonnet chooses the grammatical Spanish and writes the choice in
+`readerNote` on the chapter report.
+
 ## Run a chapter
 
 ```sh

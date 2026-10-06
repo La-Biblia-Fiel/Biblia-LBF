@@ -45,6 +45,14 @@ anterior permanece. Un `pass` entra en el archivo aunque traiga avisos;
 esos avisos quedan en la auditoría para la lectura humana. Sonnet no se
 repite.
 
+Una palabra que el hebreo no tiene, y que el español necesita para ser
+oración, va en cursiva: *son*. El asterisco es la marca para el lector.
+Una cópula marcada así no aparta el versículo.
+
+Si el aviso es solo el número —un sustantivo singular y un participio
+plural—, Sonnet elige el español gramatical. La elección queda en
+`readerNote` del informe del capítulo, para la lectura humana.
+
 GPT y Grok no entran en este comando. El script anterior está en
 `python3 tools/pipeline/run_chapter-old.py <libro> <capítulo>`.
 

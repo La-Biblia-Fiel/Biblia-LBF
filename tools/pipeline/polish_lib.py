@@ -52,6 +52,9 @@ def freeze_from(draft: dict, audit: dict) -> list[str]:
         "Keep number; dual stones stay stones, never a seat or stool.",
         "Keep stem force; vivirá stays vivirá.",
         "Do not turn auditor warnings into interpretive rewrites.",
+        "A supplied copula is italics, *son*, not a rewrite.",
+        "If the warn is only singular-head versus plural-participle agreement, choose the grammatical Spanish and fill readerNote.",
+        "A name after את stays the object. Do not copy a לְ preposition onto it.",
     ]
     for unit in draft.get("units") or []:
         freeze.append(f"licensed: {unit.get('es')} ← {unit.get('sourceTokenIds')}")
@@ -123,6 +126,7 @@ def normalize_polish(raw: dict, packet: dict, draft: dict, label: str) -> dict:
         "units": units,
         "grammarChanges": [str(x).strip() for x in (raw.get("grammarChanges") or []) if str(x).strip()],
         "meaningChanges": meaning,
+        "readerNote": str(raw.get("readerNote") or "").strip(),
         "droppedUncitedUnits": dropped,
     }
 

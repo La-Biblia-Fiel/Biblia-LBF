@@ -27,6 +27,10 @@ FORBIDDEN:
 METHOD:
 - Build the verse from the token list, left to right.
 - Adjust word order only as Spanish grammar requires.
+- A word with no token, added so the Spanish can be a sentence, is italic:
+  *son*, *es*, *está*. A verbless Hebrew clause may need that copula.
+  Do not italicize a word the packet licenses. Do not add a concept and
+  hide it in italics.
 - If the source repeats, repeat. If it is open, leave it open.
 - Dual number stays dual or an honest unmarked pair (las piedras / las dos
   piedras). Never a specialized instrument (asiento de piedra, birthstool)

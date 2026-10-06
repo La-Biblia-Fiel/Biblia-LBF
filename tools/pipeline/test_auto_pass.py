@@ -200,6 +200,54 @@ class AutoPassTests(unittest.TestCase):
         with patch("auto_pass.agent_binary", return_value=None):
             self.assertEqual(auto_pass.main(["exodo", "1"]), 2)
 
+    def test_supplied_copula_is_italic_and_not_parked(self) -> None:
+        line = "Y estos son los nombres de los hijos de Israel."
+        self.book.write_text(
+            "# Éxodo\n\n## Capítulo 1\n\n### 1:9\n\n" + line + "\n",
+            encoding="utf-8",
+        )
+        self.write_audit(
+            "lbf",
+            line,
+            "pass",
+            [
+                {
+                    "severity": "warn",
+                    "sourceTokenIds": [TOKEN],
+                    "issue": "Spanish adds the copula son",
+                    "spanishSpan": "son",
+                }
+            ],
+        )
+        (self.tmp / "polish-sonnet5.json").write_text(
+            json.dumps({"spanish": line, "sourceDraft": line, "readerNote": ""}),
+            encoding="utf-8",
+        )
+        result = auto_pass.run_verse("exodo", 1, 9, caller=self.caller)
+        self.assertEqual(result["status"], "repaired")
+        self.assertEqual(self.calls, [])
+        self.assertIn("*son*", self.book.read_text(encoding="utf-8"))
+        self.assertIn("supplied", result["readerNote"])
+
+    def test_reader_note_is_kept_when_sonnet_chooses(self) -> None:
+        self.write_audit("lbf", OLD, "fail", [self.fail_finding()])
+
+        def caller(model: str, request: Path) -> dict:
+            self.calls.append(model)
+            if model == auto_pass.sonnet_model():
+                return {
+                    "spanish": NEW,
+                    "units": [{"es": NEW, "sourceTokenIds": [TOKEN]}],
+                    "grammarChanges": ["number"],
+                    "meaningChanges": [],
+                    "readerNote": "The participle is plural; Spanish follows alma.",
+                }
+            return {"verdict": "pass", "findings": [], "notes": ""}
+
+        result = auto_pass.run_verse("exodo", 1, 9, caller=caller)
+        self.assertEqual(result["status"], "repaired")
+        self.assertIn("alma", result["readerNote"])
+
     def test_agent_binary_missing(self) -> None:
         with patch.dict("os.environ", {"LBF_CURSOR_AGENT": ""}, clear=False):
             os_agent = __import__("os")

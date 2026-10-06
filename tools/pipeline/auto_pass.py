@@ -179,6 +179,49 @@ def is_clean(audit: dict | None) -> bool:
     return bool(audit) and audit.get("verdict") == "pass" and warn_count(audit) == 0
 
 
+COPULA = re.compile(
+    r"^(?:soy|eres|es|somos|sois|son|era|eras|éramos|eran|fui|fue|fuimos|fueron|"
+    r"sea|seas|seamos|sean|estoy|estás|está|estamos|están|estaba|estabas|estábamos|"
+    r"estaban|esté|estés|estemos|estén)$",
+    re.IGNORECASE,
+)
+
+
+def supplied_copula(finding: dict) -> bool:
+    """A warn whose span is only a ser/estar form the Spanish had to add."""
+    if finding.get("severity") != "warn":
+        return False
+    span = str(finding.get("spanishSpan") or "").strip()
+    issue = str(finding.get("issue") or "").lower()
+    if not COPULA.match(span):
+        return False
+    return "copula" in issue or "cópula" in issue
+
+
+def italicize_span(spanish: str, span: str) -> str:
+    if f"*{span}*" in spanish:
+        return spanish
+    pattern = re.compile(rf"(?<!\*)\b{re.escape(span)}\b(?!\*)")
+    return pattern.sub(f"*{span}*", spanish, count=1)
+
+
+def mark_supplied_copulas(spanish: str, findings: list) -> tuple[str, str]:
+    """Return Spanish with *copula* marks, and a reader note. Empty note if nothing changed."""
+    notes = []
+    marked = spanish
+    for finding in findings or []:
+        if not supplied_copula(finding):
+            continue
+        span = str(finding.get("spanishSpan") or "").strip()
+        updated = italicize_span(marked, span)
+        if updated != marked:
+            notes.append(
+                f"*{span}* is supplied so the Spanish can be a sentence. It is not in the Hebrew."
+            )
+            marked = updated
+    return marked, " ".join(notes)
+
+
 def matching(doc: dict | None, spanish: str) -> dict | None:
     if doc and doc.get("spanish") == spanish:
         return doc
@@ -416,6 +459,7 @@ def row(
     spanish: str = "",
     drafted: bool = False,
     findings: list | None = None,
+    reader_note: str = "",
 ) -> dict:
     return {
         "verse": verse,
@@ -426,6 +470,7 @@ def row(
         "spanish": spanish,
         "drafted": drafted,
         "findings": findings or [],
+        "readerNote": reader_note,
     }
 
 
@@ -554,6 +599,10 @@ def run_verse(
         return row(verse, "error", notes="empty Sonnet answer", drafted=drafted)
     if spanish == original and not drafted:
         notes = "Sonnet left this Spanish unchanged"
+        if not lint_findings:
+            marked = accept_marked_copula(slug, chapter, verse, original, audit)
+            if marked:
+                return marked
         if lint_findings or not is_clean(audit):
             return row(
                 verse,
@@ -600,6 +649,41 @@ def run_verse(
         spanish=spanish,
         drafted=drafted,
         findings=second.get("findings") or [],
+        reader_note=str(repaired.get("readerNote") or "").strip(),
+    )
+
+
+def clear_copula_warns(slug: str, chapter: int, verse: int, spanish: str, audit: dict) -> None:
+    findings = [item for item in (audit.get("findings") or []) if not supplied_copula(item)]
+    audit = dict(audit)
+    audit["spanish"] = spanish
+    audit["findings"] = findings
+    audit["verdict"] = "fail" if any(item.get("severity") == "fail" for item in findings) else "pass"
+    note = str(audit.get("notes") or "").strip()
+    audit["notes"] = (note + " " if note else "") + "supplied copula marked in italics"
+    write_json(audit_path(slug, chapter, verse, LBF_LABEL), audit)
+
+
+def accept_marked_copula(
+    slug: str, chapter: int, verse: int, spanish: str, audit: dict | None
+) -> dict | None:
+    """Apply *son* when every warn is an unmarked supplied copula."""
+    findings = (audit or {}).get("findings") or []
+    if not findings or not all(supplied_copula(item) for item in findings):
+        return None
+    marked, reader_note = mark_supplied_copulas(spanish, findings)
+    if marked == spanish:
+        return None
+    if audit:
+        clear_copula_warns(slug, chapter, verse, marked, audit)
+    applied = write_verse(slug, chapter, verse, marked)
+    return row(
+        verse,
+        "repaired",
+        applied=applied,
+        notes="supplied copula in italics",
+        spanish=marked,
+        reader_note=reader_note,
     )
 
 
@@ -608,6 +692,10 @@ def unchanged(slug: str, chapter: int, verse: int, spanish: str) -> dict:
     notes = "Sonnet left this Spanish unchanged"
     lint_findings = lint_spanish(spanish)
     audit = load_audit(slug, chapter, verse, LBF_LABEL, spanish)
+    if not lint_findings:
+        marked = accept_marked_copula(slug, chapter, verse, spanish, audit)
+        if marked:
+            return marked
     if lint_findings or not is_clean(audit):
         return row(
             verse,
@@ -652,6 +740,7 @@ def finish_current(
             spanish=spanish,
             findings=second.get("findings") or [],
         )
+    polish = read_json(polish_path(slug, chapter, verse, SONNET_LABEL)) or {}
     return row(
         verse,
         "kept",
@@ -659,6 +748,7 @@ def finish_current(
         notes="already Sonnet's Spanish",
         spanish=spanish,
         findings=second.get("findings") or [],
+        reader_note=str(polish.get("readerNote") or "").strip(),
     )
 
 
@@ -686,6 +776,7 @@ def run_auto(
         "repairedWithWarn": [],
         "parked": [],
         "errors": [],
+        "readerNotes": [],
     }
     rows = []
     for verse in chapter_verses(slug, chapter, start, end):
@@ -720,6 +811,8 @@ def run_auto(
             )
         else:
             summary["errors"].append({"verse": verse, "error": result.get("notes") or "error"})
+        if result.get("readerNote"):
+            summary["readerNotes"].append({"verse": verse, "note": result["readerNote"]})
 
     payload = {
         "schema": "lbf-auto-pass-v1",
@@ -731,6 +824,7 @@ def run_auto(
         "repairedWithWarn": summary["repairedWithWarn"],
         "parked": summary["parked"],
         "errors": summary["errors"],
+        "readerNotes": summary["readerNotes"],
     }
     path = report_path(slug, chapter)
     write_json(path, payload)

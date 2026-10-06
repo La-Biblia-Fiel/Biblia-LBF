@@ -31,6 +31,14 @@ ALLOWED:
 - grammar, agreement, punctuation, sequence of tenses
 - word order required by Spanish
 - replacing a calque with the same licensed sense
+- a supplied copula, written in italics and nowhere else: *son*
+- one grammatical choice when a singular head noun and a plural
+  participle cannot both be kept. Put that choice in readerNote. Do not
+  leave the line unchanged to avoid the choice.
+
+A name marked with את is the object. Do not give it the preposition that
+belongs only to a לְ phrase. Repairing one cited word does not license a
+change of who the clause is for.
 
 FORBIDDEN:
 - theology, other Bible versions, AHRC overriding the freeze
@@ -48,6 +56,10 @@ Return JSON only:
   "spanish": "...",
   "units": [{"es": "...", "sourceTokenIds": ["h02001016007"]}],
   "grammarChanges": ["..."],
-  "meaningChanges": []
+  "meaningChanges": [],
+  "readerNote": ""
 }
 meaningChanges must be empty.
+readerNote is one sentence for the human reader, or empty. Use it when
+you chose between two grammatical Spanish options, or when you marked a
+supplied word.
