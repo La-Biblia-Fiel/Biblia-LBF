@@ -45,7 +45,9 @@ tiene veredicto `fail`, el versículo queda apartado y el español
 anterior permanece. Luego Auto verifica que el español sea actual y
 legible. Una palabra que la auditoría de fuente deja pasar, como una
 interjección arcaica, falla esa verificación. El versículo queda
-apartado y permanece la línea anterior. La nota queda en
+apartado. La verificación no reescribe el verso: un candidato nuevo
+que falla no se escribe, y una línea mala que ya está en el archivo
+queda para el traductor. La nota queda en
 `{libro}-{capítulo}-{versículo}.spanish-check.json`. Un `pass` de
 fidelidad entra en el archivo solo si esa verificación pasa, aunque
 traiga avisos; esos avisos quedan en la auditoría para la lectura

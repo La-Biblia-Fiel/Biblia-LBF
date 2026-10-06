@@ -347,19 +347,21 @@ def reject_uncurrent(
     *,
     resume: bool,
 ) -> dict | None:
-    """Park Sonnet's line when it is not current Spanish, and keep the previous line."""
+    """Park when Sonnet's Spanish fails the current-Spanish check.
+
+    Does not rewrite the verse. A new candidate that fails is not written.
+    A bad line already in the file stays for the translator.
+    """
     if not spanish or spanish == previous:
         return None
     check = verify_spanish(slug, chapter, verse, spanish, caller, resume=resume)
     if check.get("verdict") != "fail":
         return None
-    if previous:
-        write_verse(slug, chapter, verse, previous)
     return row(
         verse,
         "parked",
         notes="spanish check",
-        spanish=previous or spanish,
+        spanish=spanish,
         findings=check.get("findings") or [],
         reader_note="; ".join(
             item.get("issue") or "" for item in (check.get("findings") or []) if item.get("issue")

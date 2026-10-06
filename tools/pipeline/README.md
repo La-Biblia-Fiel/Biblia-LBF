@@ -37,7 +37,9 @@ After Sonnet, Auto audits that Spanish once for fidelity to the Hebrew.
 Then Auto checks the Spanish itself: every word has to be current
 Latin American Spanish a reader can say. A word the fidelity audit
 accepts, such as an archaic interjection, still fails this check. The
-verse is parked and the previous line stays. The check is saved as
+verse is parked. The check does not rewrite the verse: a new candidate
+that fails is not written, and a bad line already in the file stays for
+the translator. The check is saved as
 `{book}-{chapter}-{verse}.spanish-check.json`. A fidelity `pass` is
 written into the verse only after that check passes. Warns on the
 fidelity pass stay in the audit file for the human read. Sonnet does

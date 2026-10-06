@@ -359,7 +359,7 @@ class AutoPassTests(unittest.TestCase):
         self.assertNotIn("Ea", text)
         self.assertNotIn("spanish-check.request", " ".join(name for _model, name in self.calls))
 
-    def test_archaic_word_already_in_the_book_is_restored(self) -> None:
+    def test_archaic_word_already_in_the_book_is_parked_not_rewritten(self) -> None:
         bad = "Ea, seamos sabios a él."
         self.book.write_text(
             "# Éxodo\n\n## Capítulo 1\n\n### 1:9\n\n" + bad + "\n",
@@ -374,8 +374,8 @@ class AutoPassTests(unittest.TestCase):
         self.assertEqual(result["status"], "parked")
         self.assertEqual(result["notes"], "spanish check")
         text = self.book.read_text(encoding="utf-8")
-        self.assertIn(OLD, text)
-        self.assertNotIn("Ea", text)
+        self.assertIn(bad, text)
+        self.assertNotIn(OLD, text)
 
     def test_agent_binary_missing(self) -> None:
         with patch.dict("os.environ", {"LBF_CURSOR_AGENT": ""}, clear=False):
