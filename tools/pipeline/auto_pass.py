@@ -68,6 +68,7 @@ LBF_LABEL = "lbf"
 POLISH_LABEL = "pulir"
 SONNET_LABEL = "sonnet5"
 AUTO_LABEL = "auto"
+SCOPE = "lbf-sonnet-scope-v2"
 MISSING_CLI = """Cursor CLI not found (looked for agent and cursor-agent).
 Install: curl https://cursor.com/install -fsS | bash
 Then: agent login
@@ -185,6 +186,54 @@ COPULA = re.compile(
     r"estaban|esté|estés|estemos|estén)$",
     re.IGNORECASE,
 )
+
+
+def issue_text(finding: dict) -> str:
+    return str(finding.get("issue") or "").lower()
+
+
+def clause_role(finding: dict) -> bool:
+    """1:11 type: who the clause is for, not a supplied word or a number choice."""
+    issue = issue_text(finding)
+    return any(
+        mark in issue
+        for mark in (
+            "beneficiary",
+            "beneficiaries",
+            "beneficiar",
+            "clause role",
+            "who acts",
+            "participant",
+            "object marker",
+            "direct object",
+            "recipients",
+            "apposition",
+            "את",
+            "לְ",
+        )
+    )
+
+
+def agreement_choice(finding: dict) -> bool:
+    """1:5 type: singular head against a plural participle."""
+    if clause_role(finding):
+        return False
+    issue = issue_text(finding)
+    if "participle" in issue:
+        return True
+    return "plural" in issue and "singular" in issue
+
+
+def clause_hold(findings: list) -> bool:
+    return any(clause_role(item) for item in findings or [])
+
+
+def agreement_only(findings: list) -> bool:
+    return bool(findings) and all(agreement_choice(item) for item in findings)
+
+
+def hold_note(note: str) -> bool:
+    return note.lower().startswith("hold:")
 
 
 def supplied_copula(finding: dict) -> bool:
@@ -436,8 +485,12 @@ def repair(
             "why": "questionable",
             "findings": findings,
             "instruction": (
-                "This verse is questionable. Repair only the cited mismatches "
-                "and grammar. Return the polish JSON object."
+                "You may mark a supplied copula in italics and you may choose "
+                "the Spanish when a singular head noun disagrees with a plural "
+                "participle. Record that choice in readerNote. "
+                "If the problem is clause role, participants, or which noun a "
+                "preposition governs, return the Spanish unchanged and set "
+                "readerNote to 'hold: clause role'. Do not repair that verse."
             ),
         },
     )
@@ -445,6 +498,7 @@ def repair(
     polish = normalize_polish(raw, packet, draft, SONNET_LABEL)
     polish["spanish"] = apply_names(str(polish.get("spanish") or "").strip())
     polish["sourceDraft"] = original
+    polish["policy"] = SCOPE
     write_json(artifact, polish)
     return polish
 
@@ -559,10 +613,25 @@ def run_verse(
 
     polish = read_json(polish_path(slug, chapter, verse, SONNET_LABEL)) if resume else None
     polish_spanish = str((polish or {}).get("spanish") or "").strip()
+    if polish and polish_spanish and polish_spanish != original:
+        prior = load_audit(slug, chapter, verse, POLISH_LABEL, polish_spanish)
+        if clause_hold((prior or {}).get("findings") or []):
+            return row(
+                verse,
+                "parked",
+                notes="clause role",
+                spanish=original,
+                findings=(prior or {}).get("findings") or [],
+                reader_note="hold: clause role",
+            )
     if polish and polish_spanish == original and polish.get("sourceDraft") not in (None, original):
         return finish_current(slug, chapter, verse, packet, original, caller, resume=resume)
+    retry_agreement = False
     if polish and polish_spanish == original and polish.get("sourceDraft") == original:
-        return unchanged(slug, chapter, verse, original)
+        stored_audit = load_audit(slug, chapter, verse, LBF_LABEL, original)
+        if polish.get("policy") == SCOPE or not agreement_only((stored_audit or {}).get("findings") or []):
+            return unchanged(slug, chapter, verse, original)
+        retry_agreement = True
 
     lint_findings = lint_spanish(original)
     record_lint(slug, chapter, verse, original, lint_findings)
@@ -574,6 +643,17 @@ def run_verse(
             audit = audit_spanish(
                 slug, chapter, verse, packet, original, LBF_LABEL, caller, reuse=resume
             )
+
+    if audit and clause_hold(audit.get("findings") or []):
+        return row(
+            verse,
+            "parked",
+            notes="clause role",
+            warns=warn_count(audit),
+            spanish=original,
+            findings=audit.get("findings") or [],
+            reader_note="hold: clause role",
+        )
 
     questionable = bool(lint_findings) or not is_clean(audit)
     if full:
@@ -592,11 +672,21 @@ def run_verse(
         audit,
         lint_findings,
         caller,
-        reuse=resume,
+        reuse=resume and not retry_agreement,
     )
     spanish = str(repaired.get("spanish") or "").strip()
     if not spanish:
         return row(verse, "error", notes="empty Sonnet answer", drafted=drafted)
+    note = str(repaired.get("readerNote") or "").strip()
+    if hold_note(note):
+        return row(
+            verse,
+            "parked",
+            notes="clause role",
+            spanish=original,
+            drafted=drafted,
+            reader_note=note,
+        )
     if spanish == original and not drafted:
         notes = "Sonnet left this Spanish unchanged"
         if not lint_findings:
@@ -632,13 +722,15 @@ def run_verse(
             slug, chapter, verse, packet, spanish, POLISH_LABEL, caller, reuse=resume
         )
     if second.get("verdict") == "fail":
+        role = clause_hold(second.get("findings") or [])
         return row(
             verse,
             "parked",
-            notes="re-audit fail",
-            spanish=spanish,
+            notes="clause role" if role else "re-audit fail",
+            spanish=original if role else spanish,
             drafted=drafted,
             findings=second.get("findings") or [],
+            reader_note="hold: clause role" if role else "",
         )
     applied = write_verse(slug, chapter, verse, spanish)
     return row(

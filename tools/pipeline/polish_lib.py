@@ -54,7 +54,7 @@ def freeze_from(draft: dict, audit: dict) -> list[str]:
         "Do not turn auditor warnings into interpretive rewrites.",
         "A supplied copula is italics, *son*, not a rewrite.",
         "If the warn is only singular-head versus plural-participle agreement, choose the grammatical Spanish and fill readerNote.",
-        "A name after את stays the object. Do not copy a לְ preposition onto it.",
+        "If the problem is clause role, participants, or which noun a preposition governs, return the Spanish unchanged and set readerNote to hold: clause role.",
     ]
     for unit in draft.get("units") or []:
         freeze.append(f"licensed: {unit.get('es')} ← {unit.get('sourceTokenIds')}")

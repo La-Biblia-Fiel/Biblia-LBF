@@ -36,9 +36,14 @@ ALLOWED:
   participle cannot both be kept. Put that choice in readerNote. Do not
   leave the line unchanged to avoid the choice.
 
-A name marked with את is the object. Do not give it the preposition that
-belongs only to a לְ phrase. Repairing one cited word does not license a
-change of who the clause is for.
+LEAVE ON HOLD — do not repair these:
+- clause role, participants, who acts on whom
+- which noun a preposition governs
+- an את object treated as a לְ beneficiary
+
+If the cited problem is one of those, return the draft Spanish unchanged.
+Set readerNote to "hold: clause role" and one sentence naming the role.
+The human reads that verse in the translator. You do not get another turn.
 
 FORBIDDEN:
 - theology, other Bible versions, AHRC overriding the freeze
@@ -62,4 +67,4 @@ Return JSON only:
 meaningChanges must be empty.
 readerNote is one sentence for the human reader, or empty. Use it when
 you chose between two grammatical Spanish options, or when you marked a
-supplied word.
+supplied word. For a clause-role hold, start it with "hold: clause role".

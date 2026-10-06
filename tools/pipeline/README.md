@@ -41,7 +41,9 @@ A word the Hebrew does not have, added so the Spanish can be a sentence,
 is italic: *son*. A marked copula does not park the verse. When a warn
 is only number — a singular head noun against a plural participle —
 Sonnet chooses the grammatical Spanish and writes the choice in
-`readerNote` on the chapter report.
+`readerNote` on the chapter report. A clause-role problem — who acts, or
+which noun a preposition governs — stays on hold. Sonnet does not repair
+it. That verse is for the translator, one verse at a time.
 
 ## Run a chapter
 

@@ -248,6 +248,87 @@ class AutoPassTests(unittest.TestCase):
         self.assertEqual(result["status"], "repaired")
         self.assertIn("alma", result["readerNote"])
 
+    def test_clause_role_stays_on_hold_without_sonnet(self) -> None:
+        self.write_audit(
+            "lbf",
+            OLD,
+            "pass",
+            [
+                {
+                    "severity": "warn",
+                    "sourceTokenIds": [TOKEN],
+                    "issue": "Pitom and Raamses read as parallel beneficiaries; את marks the cities",
+                    "spanishSpan": "a Pitom",
+                }
+            ],
+        )
+
+        def caller(model: str, _request: Path) -> dict:
+            self.calls.append(model)
+            raise AssertionError(model)
+
+        result = auto_pass.run_verse("exodo", 1, 9, caller=caller)
+        self.assertEqual(result["status"], "parked")
+        self.assertEqual(result["notes"], "clause role")
+        self.assertIn(OLD, self.book.read_text(encoding="utf-8"))
+        self.assertEqual(self.calls, [])
+
+    def test_number_choice_is_sent_to_sonnet_again(self) -> None:
+        self.write_audit(
+            "lbf",
+            OLD,
+            "pass",
+            [
+                {
+                    "severity": "warn",
+                    "sourceTokenIds": [TOKEN],
+                    "issue": "the participle is plural; Spanish singular salió agrees with alma",
+                    "spanishSpan": "salió",
+                }
+            ],
+        )
+        (self.tmp / "polish-sonnet5.json").write_text(
+            json.dumps({"spanish": OLD, "sourceDraft": OLD}),
+            encoding="utf-8",
+        )
+
+        def caller(model: str, _request: Path) -> dict:
+            self.calls.append(model)
+            if model == auto_pass.sonnet_model():
+                return {
+                    "spanish": NEW,
+                    "units": [{"es": NEW, "sourceTokenIds": [TOKEN]}],
+                    "grammarChanges": ["number"],
+                    "meaningChanges": [],
+                    "readerNote": "Plural participle; Spanish follows alma.",
+                }
+            return {"verdict": "pass", "findings": [], "notes": ""}
+
+        result = auto_pass.run_verse("exodo", 1, 9, caller=caller)
+        self.assertEqual(result["status"], "repaired")
+        self.assertEqual(self.calls[0], auto_pass.sonnet_model())
+        self.assertIn(NEW, self.book.read_text(encoding="utf-8"))
+        stored = json.loads((self.tmp / "polish-sonnet5.json").read_text(encoding="utf-8"))
+        self.assertEqual(stored["policy"], auto_pass.SCOPE)
+
+    def test_hold_note_does_not_replace_the_verse(self) -> None:
+        self.write_audit("lbf", OLD, "fail", [self.fail_finding()])
+
+        def caller(model: str, _request: Path) -> dict:
+            self.calls.append(model)
+            return {
+                "spanish": NEW,
+                "units": [{"es": NEW, "sourceTokenIds": [TOKEN]}],
+                "grammarChanges": [],
+                "meaningChanges": [],
+                "readerNote": "hold: clause role. Pitom and Raamses are the cities.",
+            }
+
+        result = auto_pass.run_verse("exodo", 1, 9, caller=caller)
+        self.assertEqual(result["status"], "parked")
+        self.assertIn(OLD, self.book.read_text(encoding="utf-8"))
+        self.assertNotIn(NEW, self.book.read_text(encoding="utf-8"))
+
     def test_agent_binary_missing(self) -> None:
         with patch.dict("os.environ", {"LBF_CURSOR_AGENT": ""}, clear=False):
             os_agent = __import__("os")
