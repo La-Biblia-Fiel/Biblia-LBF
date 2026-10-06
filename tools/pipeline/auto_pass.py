@@ -236,6 +236,137 @@ def hold_note(note: str) -> bool:
     return note.lower().startswith("hold:")
 
 
+SPANISH_CHECK_PROMPT = (
+    Path(__file__).resolve().parent / "spanish_check_prompt.md"
+).read_text(encoding="utf-8").strip()
+
+# Forms the fidelity audit has accepted that a reader still cannot say.
+UNCURRENT = ((re.compile(r"(?<![\w*])ea(?![\w*])", re.IGNORECASE), "Ea is not current Spanish"),)
+
+
+def spanish_check_path(slug: str, chapter: int, verse: int) -> Path:
+    artifact = polish_path(slug, chapter, verse, SONNET_LABEL)
+    suffix = f"polish-{SONNET_LABEL}.json"
+    name = artifact.name
+    if name.endswith(suffix):
+        name = name[: -len(suffix)] + "spanish-check.json"
+    return artifact.with_name(name)
+
+
+def local_spanish_fails(spanish: str) -> list:
+    findings = []
+    for pattern, issue in UNCURRENT:
+        match = pattern.search(spanish or "")
+        if not match:
+            continue
+        findings.append(
+            {"severity": "fail", "issue": issue, "spanishSpan": match.group(0)}
+        )
+    return findings
+
+
+def verify_spanish(slug: str, chapter: int, verse: int, spanish: str, caller, *, resume: bool) -> dict:
+    """Current-Spanish check. Fails park the verse. Fidelity is a different audit."""
+    path = spanish_check_path(slug, chapter, verse)
+    if resume:
+        stored = read_json(path)
+        if stored and stored.get("spanish") == spanish and stored.get("verdict") in {"pass", "fail"}:
+            return stored
+    local = local_spanish_fails(spanish)
+    if local:
+        doc = {
+            "schema": "lbf-spanish-check-v1",
+            "checker": "local",
+            "book": slug,
+            "chapter": chapter,
+            "verse": verse,
+            "spanish": spanish,
+            "verdict": "fail",
+            "findings": local,
+            "notes": "not current Spanish",
+        }
+        write_json(path, doc)
+        return doc
+    request = write_role_request(
+        request_for(path),
+        model=auto_model(),
+        system=SPANISH_CHECK_PROMPT,
+        user=(
+            "Verify this Spanish line. JSON only.\n\n"
+            + json.dumps({"spanish": spanish}, ensure_ascii=False)
+        ),
+        extra={
+            "book": slug,
+            "chapter": chapter,
+            "verse": verse,
+            "spanish": spanish,
+            "instruction": (
+                "Judge only whether the Spanish is current and readable. "
+                "Fail a word a reader would not recognize. Do not judge the Hebrew."
+            ),
+        },
+    )
+    raw = ask(caller, auto_model(), request, "spanishCheck")
+    findings = []
+    for item in raw.get("findings") or []:
+        severity = item.get("severity") or "fail"
+        if severity not in {"fail", "warn"}:
+            severity = "fail"
+        issue = str(item.get("issue") or "").strip()
+        if not issue:
+            continue
+        findings.append(
+            {
+                "severity": severity,
+                "issue": issue,
+                "spanishSpan": str(item.get("spanishSpan") or "").strip(),
+            }
+        )
+    doc = {
+        "schema": "lbf-spanish-check-v1",
+        "checker": "Cursor Auto",
+        "book": slug,
+        "chapter": chapter,
+        "verse": verse,
+        "spanish": spanish,
+        "verdict": "fail" if any(item["severity"] == "fail" for item in findings) else "pass",
+        "findings": findings,
+        "notes": str(raw.get("notes") or "").strip(),
+    }
+    write_json(path, doc)
+    return doc
+
+
+def reject_uncurrent(
+    slug: str,
+    chapter: int,
+    verse: int,
+    previous: str,
+    spanish: str,
+    caller,
+    *,
+    resume: bool,
+) -> dict | None:
+    """Park Sonnet's line when it is not current Spanish, and keep the previous line."""
+    if not spanish or spanish == previous:
+        return None
+    check = verify_spanish(slug, chapter, verse, spanish, caller, resume=resume)
+    if check.get("verdict") != "fail":
+        return None
+    if previous:
+        write_verse(slug, chapter, verse, previous)
+    return row(
+        verse,
+        "parked",
+        notes="spanish check",
+        spanish=previous or spanish,
+        findings=check.get("findings") or [],
+        reader_note="; ".join(
+            item.get("issue") or "" for item in (check.get("findings") or []) if item.get("issue")
+        ),
+    )
+
+
 def supplied_copula(finding: dict) -> bool:
     """A warn whose span is only a ser/estar form the Spanish had to add."""
     if finding.get("severity") != "warn":
@@ -732,6 +863,11 @@ def run_verse(
             findings=second.get("findings") or [],
             reader_note="hold: clause role" if role else "",
         )
+    rejected = reject_uncurrent(
+        slug, chapter, verse, original, spanish, caller, resume=resume
+    )
+    if rejected:
+        return rejected
     applied = write_verse(slug, chapter, verse, spanish)
     return row(
         verse,
@@ -833,6 +969,12 @@ def finish_current(
             findings=second.get("findings") or [],
         )
     polish = read_json(polish_path(slug, chapter, verse, SONNET_LABEL)) or {}
+    previous = str(polish.get("sourceDraft") or "").strip()
+    rejected = reject_uncurrent(
+        slug, chapter, verse, previous, spanish, caller, resume=resume
+    )
+    if rejected:
+        return rejected
     return row(
         verse,
         "kept",

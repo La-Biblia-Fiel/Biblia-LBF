@@ -26,6 +26,7 @@ No trabaje de memoria, de otra versión, ni desde la teología.
 | 4 | Cursor Auto audita | si el lint pasó |
 | 5 | Sonnet | solo si el versículo es cuestionable |
 | 6 | Cursor Auto vuelve a auditar | solo el español que tocó Sonnet |
+| 7 | Cursor Auto verifica el español | solo el español que tocó Sonnet |
 
 Pasa limpio: la auditoría de Auto no tiene fallos ni avisos, y el
 borrador no trae incertidumbre, concepto añadido ni unidad descartada.
@@ -41,9 +42,14 @@ estas cosas:
 
 Si después de Sonnet el lint sigue fallando, o la segunda auditoría
 tiene veredicto `fail`, el versículo queda apartado y el español
-anterior permanece. Un `pass` entra en el archivo aunque traiga avisos;
-esos avisos quedan en la auditoría para la lectura humana. Sonnet no se
-repite.
+anterior permanece. Luego Auto verifica que el español sea actual y
+legible. Una palabra que la auditoría de fuente deja pasar, como una
+interjección arcaica, falla esa verificación. El versículo queda
+apartado y permanece la línea anterior. La nota queda en
+`{libro}-{capítulo}-{versículo}.spanish-check.json`. Un `pass` de
+fidelidad entra en el archivo solo si esa verificación pasa, aunque
+traiga avisos; esos avisos quedan en la auditoría para la lectura
+humana. Sonnet no se repite.
 
 Una palabra que el hebreo no tiene, y que el español necesita para ser
 oración, va en cursiva: *son*. El asterisco es la marca para el lector.

@@ -109,7 +109,10 @@ class AutoPassTests(unittest.TestCase):
         result = auto_pass.run_verse("exodo", 1, 9, caller=self.caller)
         self.assertEqual(result["status"], "repaired")
         self.assertTrue(result["applied"])
-        self.assertEqual(self.calls, [auto_pass.sonnet_model(), auto_pass.auto_model()])
+        self.assertEqual(
+            self.calls,
+            [auto_pass.sonnet_model(), auto_pass.auto_model(), auto_pass.auto_model()],
+        )
         text = self.book.read_text(encoding="utf-8")
         self.assertIn(NEW, text)
         self.assertNotIn(OLD, text)
@@ -117,7 +120,10 @@ class AutoPassTests(unittest.TestCase):
         self.assertIn("Da, seamos sabios.", text)
         second = auto_pass.run_verse("exodo", 1, 9, caller=self.caller)
         self.assertEqual(second["status"], "kept")
-        self.assertEqual(self.calls, [auto_pass.sonnet_model(), auto_pass.auto_model()])
+        self.assertEqual(
+            self.calls,
+            [auto_pass.sonnet_model(), auto_pass.auto_model(), auto_pass.auto_model()],
+        )
 
     def test_fail_stays_parked_when_reaudit_fails(self) -> None:
         self.write_audit("lbf", OLD, "fail", [self.fail_finding()])
@@ -328,6 +334,48 @@ class AutoPassTests(unittest.TestCase):
         self.assertEqual(result["status"], "parked")
         self.assertIn(OLD, self.book.read_text(encoding="utf-8"))
         self.assertNotIn(NEW, self.book.read_text(encoding="utf-8"))
+
+    def test_archaic_word_after_sonnet_is_not_applied(self) -> None:
+        bad = "Ea, seamos sabios a él."
+        self.write_audit("lbf", OLD, "fail", [self.fail_finding()])
+
+        def caller(model: str, request: Path) -> dict:
+            self.calls.append((model, request.name))
+            if model == auto_pass.sonnet_model():
+                return {
+                    "spanish": bad,
+                    "units": [{"es": "Ea", "sourceTokenIds": [TOKEN]}],
+                    "grammarChanges": [],
+                    "meaningChanges": [],
+                    "readerNote": "",
+                }
+            return {"verdict": "pass", "findings": [], "notes": ""}
+
+        result = auto_pass.run_verse("exodo", 1, 9, caller=caller)
+        self.assertEqual(result["status"], "parked")
+        self.assertEqual(result["notes"], "spanish check")
+        text = self.book.read_text(encoding="utf-8")
+        self.assertIn(OLD, text)
+        self.assertNotIn("Ea", text)
+        self.assertNotIn("spanish-check.request", " ".join(name for _model, name in self.calls))
+
+    def test_archaic_word_already_in_the_book_is_restored(self) -> None:
+        bad = "Ea, seamos sabios a él."
+        self.book.write_text(
+            "# Éxodo\n\n## Capítulo 1\n\n### 1:9\n\n" + bad + "\n",
+            encoding="utf-8",
+        )
+        (self.tmp / "polish-sonnet5.json").write_text(
+            json.dumps({"spanish": bad, "sourceDraft": OLD, "policy": auto_pass.SCOPE}),
+            encoding="utf-8",
+        )
+        self.write_audit("pulir", bad, "pass", [])
+        result = auto_pass.run_verse("exodo", 1, 9, caller=self.caller)
+        self.assertEqual(result["status"], "parked")
+        self.assertEqual(result["notes"], "spanish check")
+        text = self.book.read_text(encoding="utf-8")
+        self.assertIn(OLD, text)
+        self.assertNotIn("Ea", text)
 
     def test_agent_binary_missing(self) -> None:
         with patch.dict("os.environ", {"LBF_CURSOR_AGENT": ""}, clear=False):

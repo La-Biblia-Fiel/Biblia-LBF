@@ -21,6 +21,7 @@ Spanish is current Latin American (`tú` / ustedes), not Spain
 | 4 | Cursor Auto audits | lint passed |
 | 5 | Sonnet | the verse is questionable |
 | 6 | Cursor Auto audits again | only the Spanish Sonnet wrote |
+| 7 | Cursor Auto checks the Spanish | only the Spanish Sonnet wrote |
 
 A clean pass stays with Auto. Clean means the audit has no fail and no
 warn, and the draft has no uncertainty, added concept, or dropped unit.
@@ -32,10 +33,15 @@ Sonnet runs when any of these is true:
 - the audit fails or warns
 - the draft lists an uncertainty, an added concept, or a dropped unit
 
-After Sonnet, Auto audits that Spanish once. A remaining lint hit, or a
-re-audit verdict of `fail`, parks the verse and leaves the previous
-Spanish. A `pass` is written into the verse. Warns on that pass stay in
-the audit file for the human read. Sonnet does not run again.
+After Sonnet, Auto audits that Spanish once for fidelity to the Hebrew.
+Then Auto checks the Spanish itself: every word has to be current
+Latin American Spanish a reader can say. A word the fidelity audit
+accepts, such as an archaic interjection, still fails this check. The
+verse is parked and the previous line stays. The check is saved as
+`{book}-{chapter}-{verse}.spanish-check.json`. A fidelity `pass` is
+written into the verse only after that check passes. Warns on the
+fidelity pass stay in the audit file for the human read. Sonnet does
+not run again.
 
 A word the Hebrew does not have, added so the Spanish can be a sentence,
 is italic: *son*. A marked copula does not park the verse. When a warn
