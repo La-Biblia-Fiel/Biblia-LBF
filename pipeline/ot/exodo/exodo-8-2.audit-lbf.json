@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 8:2",
+  "chapter": 8,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y si rehúsante tú de enviar, he aquí yo plagante a todo tu límite con las ranas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02008002007"
+      ],
+      "issue": "Qal active participle of נגף licenses a striking; plagante narrows that blow to a plague.",
+      "spanishSpan": "plagante"
+    }
+  ],
+  "notes": "Y si, rehúsante tú, de enviar, he aquí yo, DOM a todo tu límite, and con las ranas match the other tokens.",
+  "discardedUncitedFindings": 0
+}

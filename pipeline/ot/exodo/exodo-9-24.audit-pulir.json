@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:24",
+  "chapter": 9,
+  "verse": 24,
+  "candidateLabel": "pulir",
+  "spanish": "Y fue granizo, y fuego asiéndose en medio del granizo, pesado mucho, que no fue como él en toda tierra de Egipto desde entonces fue a nación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02009024017",
+        "h02009024018"
+      ],
+      "issue": "«fue a nación» reads as motion (ir + a). הָיְתָה is qal perfect 3fs of H1961 (be), and לְגוֹי is lamed plus an indefinite nation: be/become a nation, not go to a nation.",
+      "spanishSpan": "fue a nación"
+    }
+  ],
+  "notes": "The rest of the clause tracks the tokens, including reflexive hithpael asiéndose and Egipto.",
+  "discardedUncitedFindings": 0
+}

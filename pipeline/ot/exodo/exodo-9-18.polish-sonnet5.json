@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 9:18",
+  "chapter": 9,
+  "verse": 18,
+  "sourceDraft": "He aquí yo haciendo llover como el tiempo mañana granizo pesado mucho, que no fue como él en Egipto desde el día de su ser fundada y hasta ahora.",
+  "spanish": "He aquí yo haciendo llover como el tiempo de mañana granizo muy pesado, que no fue como él en Egipto desde el día de su ser fundado y hasta ahora.",
+  "units": [],
+  "grammarChanges": [
+    "pesado mucho corrected to muy pesado (mucho cannot modify an adjective in Spanish; muy is required)",
+    "el tiempo mañana corrected to el tiempo de mañana (Spanish needs a linking de between the two nouns; matches the de already used for día de su ser fundado)",
+    "su ser fundada corrected to su ser fundado (fundado must agree in gender with the masculine noun ser that it modifies)"
+  ],
+  "meaningChanges": [],
+  "readerNote": "Grammar-only fixes: muy before pesado, de linking tiempo and mañana, and fundado agreeing with ser; participants, number, and stem force are unchanged.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

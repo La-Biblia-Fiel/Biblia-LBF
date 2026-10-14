@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 8:15",
+  "chapter": 8,
+  "verse": 15,
+  "sourceDraft": "Y vio Faraón que hubo alivio, y hizo pesado su corazón, y no oyó a ellos, como que habló Jehová.",
+  "spanish": "Y vio Faraón que fue el alivio, y hizo pesado su corazón, y no oyó a ellos, como habló Jehová.",
+  "units": [],
+  "grammarChanges": [
+    "como que → como: כַּאֲשֶׁר (h02008015012) is preposition + relative ('as / according as'); 'como que' hedges (as if) or reads causal, a sense that token does not license.",
+    "hubo alivio → fue el alivio: הָרְוָחָה (h02008015005) carries the definite article ('the relief'), and הָיְתָה (h02008015004) is the perfect of היה. The impersonal existential 'hubo' cannot take a definite noun in Spanish, so the definite subject is kept by putting 'el alivio' after the same verb root (ser), preserving the article without adding a new verb concept."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'fue el alivio' (verb-first, definite subject) over 'hubo alivio' to keep הָרְוָחָה's definite article, parallel to the standard literal Spanish Bible rendering of היה-clauses (e.g., 'fue la luz'); participants and stem force are unchanged.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

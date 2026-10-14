@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 8:24",
+  "chapter": 8,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo Jehová así, y vino enjambre pesado a casa de Faraón y casa de sus siervos; y en toda tierra de Egipto se corrompía la tierra de faces del enjambre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02008024015",
+        "h02008024016",
+        "h02008024017"
+      ],
+      "issue": "«de faces» turns min + plural-construct face into a genitive on «la tierra» (the land of faces), and does not keep the adverbial from-the-face-of the swarm as what the ruin is from.",
+      "spanishSpan": "de faces del enjambre"
+    }
+  ],
+  "notes": "Remaining clauses match person, number, the directional house, the names, and the break after his servants.",
+  "discardedUncitedFindings": 0
+}

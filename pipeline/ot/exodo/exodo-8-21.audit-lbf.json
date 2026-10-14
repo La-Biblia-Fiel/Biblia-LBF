@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 8:21",
+  "chapter": 8,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Porque si no eres enviando a mi pueblo, he aquí yo enviando en ti y en tus siervos y en tu pueblo y en tus casas el enjambre; y se llenarán las casas de Egipto del enjambre, y también el suelo que ellos sobre él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02008021015"
+      ],
+      "issue": "Qal sequential perfect 3cp is smoothed as the pronominal future se llenarán; se is Spanish intransitive marking for become full and does not change number or participants.",
+      "spanishSpan": "se llenarán"
+    }
+  ],
+  "notes": "Conjunctions, suffixes, both stems as enviar, repeated definite noun, Egipto, and the verbless relative stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

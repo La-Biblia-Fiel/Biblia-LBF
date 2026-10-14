@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:25",
+  "chapter": 9,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y hirió el granizo en toda tierra de Egipto todo lo que en el campo, desde hombre y hasta ganado, y toda hierba del campo hirió el granizo, y todo árbol del campo quebró.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02009025019",
+        "h02009025020",
+        "h02009025021",
+        "h02009025022",
+        "h02009025023"
+      ],
+      "issue": "את marks every tree of the field as the object of the 3ms verb; the hail remains the agent. «todo árbol del campo quebró» makes the tree the one that broke.",
+      "spanishSpan": "todo árbol del campo quebró"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009025023"
+      ],
+      "issue": "Piel of שבר licenses an intensive shatter; quebró is only a simple break.",
+      "spanishSpan": "quebró"
+    }
+  ],
+  "notes": "The hail-strike clauses and the man-to-beast span match the tokens.",
+  "discardedUncitedFindings": 0
+}

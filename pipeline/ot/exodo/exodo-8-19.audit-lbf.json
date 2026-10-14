@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 8:19",
+  "chapter": 8,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijeron los magos a Faraón: Dedo de Dios ella. Y se fortaleció el corazón de Faraón, y no oyó a ellos, como que habló Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02008019014"
+      ],
+      "issue": "«como que» in current Latin American Spanish can be read as a hedge («as if»), while the preposition plus relative is a plain comparative («as / according as»).",
+      "spanishSpan": "como que"
+    }
+  ],
+  "notes": "Remaining tokens match, including אלהים → Dios and יהוה → Jehová.",
+  "discardedUncitedFindings": 0
+}

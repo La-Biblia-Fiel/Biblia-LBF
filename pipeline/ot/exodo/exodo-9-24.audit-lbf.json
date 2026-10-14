@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:24",
+  "chapter": 9,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue granizo, y fuego asiendo en medio del granizo, pesado mucho, que no fue como él en toda tierra de Egipto desde entonces de ser a nación.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009024004"
+      ],
+      "issue": "Hithpael active participle is smoothed to the gerund asiendo; middle stem force is not marked.",
+      "spanishSpan": "asiendo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009024017"
+      ],
+      "issue": "Qal perfect 3fs is smoothed to the infinitive ser; person and gender are unmarked.",
+      "spanishSpan": "de ser"
+    }
+  ],
+  "notes": "Both hail tokens, the 3ms suffix, and lamed on nation stay open.",
+  "discardedUncitedFindings": 0
+}

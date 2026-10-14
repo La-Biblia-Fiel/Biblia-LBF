@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 8:30",
+  "chapter": 8,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y salió Moisés de con Faraón, e intercedió a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02008030005"
+      ],
+      "issue": "El qal de H6279 licencia súplica o ruego dirigido a alguien; «intercedió» añade mediación en favor de un tercero que la cláusula no expresa.",
+      "spanishSpan": "intercedió"
+    }
+  ],
+  "notes": "Y salió Moisés de con Faraón y el אל hacia Jehová quedan cubiertos por los demás tokens.",
+  "discardedUncitedFindings": 0
+}

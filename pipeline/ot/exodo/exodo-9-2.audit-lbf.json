@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:2",
+  "chapter": 9,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Porque si rehúsante tú de enviar, y todavía tú aferrado en ellos,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02009002007"
+      ],
+      "issue": "Hiphil active participle is rendered as the passive participle aferrado, so the 2ms subject is the one gripped rather than the one holding.",
+      "spanishSpan": "aferrado"
+    }
+  ],
+  "notes": "כי אם, the piel participle with אתה, ל plus the piel infinitive, and עודך plus בם are otherwise represented.",
+  "discardedUncitedFindings": 0
+}

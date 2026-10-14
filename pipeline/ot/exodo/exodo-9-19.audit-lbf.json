@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:19",
+  "chapter": 9,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y ahora, envía, haz refugiar a tu ganado y a todo lo que a ti en el campo; todo el hombre y el ganado que se halle en el campo y no se recoja a la casa, y descenderá sobre ellos el granizo y morirán.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009019003",
+        "h02009019005"
+      ],
+      "issue": "«haz refugiar» can be read as the addressee causing an unnamed person to shelter the livestock; the hiphil imperative 2ms has the addressee cause the livestock to be brought to safety.",
+      "spanishSpan": "haz refugiar"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009019011",
+        "h02009019012"
+      ],
+      "issue": "«todo el hombre» is naturally read as the whole of one man; כל with singular האדם stays open between every man and all the people.",
+      "spanishSpan": "todo el hombre"
+    }
+  ],
+  "notes": "Other clauses track the tokens, including verbless אשר לך, niphal singulars, directional הביתה, and weqatal futures.",
+  "discardedUncitedFindings": 0
+}

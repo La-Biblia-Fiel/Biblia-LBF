@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 8:15",
+  "chapter": 8,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y vio Faraón que hubo alivio, y hizo pesado su corazón, y no oyó a ellos, como que habló Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02008015012"
+      ],
+      "issue": "כַּאֲשֶׁר is preposition + relative (as / according as). 'como que' in current Latin American Spanish hedges (as if / sort of) or turns causal, which that token does not license.",
+      "spanishSpan": "como que"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02008015004",
+        "h02008015005"
+      ],
+      "issue": "הָיְתָה הָרְוָחָה is 'the relief was' (definite noun). 'hubo alivio' is an indefinite existential and does not show the article.",
+      "spanishSpan": "hubo alivio"
+    }
+  ],
+  "notes": "Faraón, Jehová, hiphil hizo pesado su corazón, and no oyó a ellos match the tokens.",
+  "discardedUncitedFindings": 0
+}
