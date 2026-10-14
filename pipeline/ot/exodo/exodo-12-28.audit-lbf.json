@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:28",
+  "chapter": 12,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y fueron e hicieron hijos de Israel; como que mandó Jehová a Moisés y Aarón, así hicieron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012028001",
+        "h02012028002",
+        "h02012028003",
+        "h02012028004"
+      ],
+      "issue": "The 3mp verbs have the construct 'sons of Israel' as subject and there is no object marker on that phrase. 'hicieron hijos de Israel' reads as producing sons, so the sons become the object and who went and acted is unnamed.",
+      "spanishSpan": "hicieron hijos de Israel"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012028005",
+        "h02012028006"
+      ],
+      "issue": "'como que' matches the preposition plus relative, but as a Spanish unit it often hedges or means 'as if', which softens the actual piel perfect command correlated by así.",
+      "spanishSpan": "como que"
+    }
+  ],
+  "notes": "Jehová, Moisés, Aarón, the object marker, and the final así hicieron match their tokens.",
+  "discardedUncitedFindings": 0
+}

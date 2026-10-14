@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 11:1",
+  "chapter": 11,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Todavía golpe uno traeré sobre Faraón y sobre Egipto; después de así enviará a ustedes desde esto; como su enviar, acabamiento echará echará a ustedes desde esto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02011001020"
+      ],
+      "issue": "Piel infinitive absolute has no person or finite tense; Spanish renders it as a second 3ms future, identical to the following imperfect, so the emphatic absolute becomes another finite act.",
+      "spanishSpan": "echará echará"
+    }
+  ],
+  "notes": "אתכם as ustedes is licensed 2mp; infinitive construct כשלחו stays «su enviar».",
+  "discardedUncitedFindings": 0
+}

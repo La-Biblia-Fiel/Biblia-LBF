@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:15",
+  "chapter": 12,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Siete días panes ázimos comerán; solo en el día primero harán cesar levadura de sus casas, porque todo comiente leudado, y será cortada esa alma de Israel, desde día primero hasta día séptimo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012015013",
+        "h02012015014"
+      ],
+      "issue": "חָמֵץ is a masculine singular noun, the thing eaten by the participle אֹכֵל; “comiente leudado” treats leudado as an adjective of the eater, so the eater is leavened and the eaten thing is not named.",
+      "spanishSpan": "comiente leudado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012015005"
+      ],
+      "issue": "אַךְ is marked only as an affirmation particle; “solo” narrows it to exclusivity.",
+      "spanishSpan": "solo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012015020",
+        "h02012015023"
+      ],
+      "issue": "Both ordinals are definite; Spanish drops the article on the closing “first” and “seventh.”",
+      "spanishSpan": "día primero hasta día séptimo"
+    }
+  ],
+  "notes": "2mp comerán/harán/sus is ustedes address; niphal será cortada and esa alma match the 3fs.",
+  "discardedUncitedFindings": 0
+}

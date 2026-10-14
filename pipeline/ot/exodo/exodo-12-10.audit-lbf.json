@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:10",
+  "chapter": 12,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y no dejarán de él hasta mañana, y el restante de él hasta mañana en el fuego quemarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012010003",
+        "h02012010007"
+      ],
+      "issue": "The suffix is 1st person common plural (from us); de él is 3rd person masculine singular.",
+      "spanishSpan": "de él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012010005",
+        "h02012010009"
+      ],
+      "issue": "The noun is morning; hasta mañana is also the set phrase until tomorrow.",
+      "spanishSpan": "hasta mañana"
+    }
+  ],
+  "notes": "2mp dejarán and quemarán stay the ustedes form.",
+  "discardedUncitedFindings": 0
+}

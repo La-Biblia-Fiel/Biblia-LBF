@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:25",
+  "chapter": 12,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y será que vengan a la tierra que dará Jehová a ustedes como que habló, y guardarán este servicio.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012025010",
+        "h02012025011"
+      ],
+      "issue": "«como que» maps the preposition plus relative in כאשר, but in current Spanish it can be heard as «as if» or a hedge rather than only the comparative «as» with the piel perfect.",
+      "spanishSpan": "como que habló"
+    }
+  ],
+  "notes": "Person, number, and Jehová match the tokens; ustedes verbs remain 2pl address.",
+  "discardedUncitedFindings": 0
+}

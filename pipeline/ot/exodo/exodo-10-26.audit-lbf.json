@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 10:26",
+  "chapter": 10,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y también nuestro ganado irá con nosotros; no quedará pezuña, porque de él tomaremos para servir a Jehová nuestro Dios, y nosotros no conocemos qué serviremos a Jehová hasta nuestro venir allá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02010026009"
+      ],
+      "issue": "El sufijo de מִמֶּנּוּ es 1cp (de nosotros); «de él» lo cambia a 3ms.",
+      "spanishSpan": "de él"
+    }
+  ],
+  "notes": "Lo demás conserva número, persona, pezuña singular y Jehová / Dios.",
+  "discardedUncitedFindings": 0
+}

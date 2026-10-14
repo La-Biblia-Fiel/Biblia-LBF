@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:27",
+  "chapter": 12,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y dirán: Sacrificio de Pésaj él a Jehová, que pasó sobre casas de hijos de Israel en Egipto, en su herir a Egipto, y a nuestras casas libró. Y se inclinó el pueblo y se postró.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012027003"
+      ],
+      "issue": "Common noun פסח (HNcmsa), not a proper name, is left as the Hebraized form Pésaj.",
+      "spanishSpan": "Pésaj"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012027021"
+      ],
+      "issue": "Hithpael sequential imperfect 3mp is rendered as singular se postró, changing number.",
+      "spanishSpan": "se postró"
+    }
+  ],
+  "notes": "2mp וַאֲמַרְתֶּם as dirán stays ustedes-form and does not name a third party.",
+  "discardedUncitedFindings": 0
+}

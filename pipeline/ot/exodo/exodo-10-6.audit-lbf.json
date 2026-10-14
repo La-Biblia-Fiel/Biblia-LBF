@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 10:6",
+  "chapter": 10,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y se llenarán tus casas y casas de todos tus siervos y casas de todo Egipto, que no vieron tus padres y padres de tus padres desde día de su ser sobre el suelo hasta el día este. Y se volvió y salió de con Faraón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02010006001"
+      ],
+      "issue": "Qal perfect 3cp is rendered as future; the morphology licenses perfective fullness, not future time.",
+      "spanishSpan": "se llenarán"
+    }
+  ],
+  "notes": "Houses, fathers, 2ms suffixes, Egipto, Faraón, and מֵעִם otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 12:19",
+  "chapter": 12,
+  "verse": 19,
+  "sourceDraft": "Siete días levadura no se hallará en sus casas, porque todo comiente fermentado, y será cortada esa alma de congregación de Israel, en el peregrino y en natural de la tierra.",
+  "spanish": "Siete días levadura no se hallará en sus casas, porque todo comiente de fermentado, y será cortada esa alma de congregación de Israel, en el forastero y en natural de la tierra.",
+  "units": [],
+  "grammarChanges": [
+    "comiente fermentado → comiente de fermentado (adds \"de\" so מַחְמֶצֶת reads as the thing eaten, a separate hiphil active participle, not as an adjective describing the eater אֹכֵל; same repair already applied at Éxodo 12:15)",
+    "peregrino → forastero (גֵּר is a sojourner/resident alien; forastero carries that sense without the pilgrim-on-a-journey nuance peregrino can add, matching the rendering of גֵּר used elsewhere in LBF)"
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose \"comiente de fermentado\" to keep the two Hebrew participles distinct per the cited fail, and replaced \"peregrino\" with \"forastero\" per the cited warn so גֵּר reads as resident alien rather than pilgrim.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}
