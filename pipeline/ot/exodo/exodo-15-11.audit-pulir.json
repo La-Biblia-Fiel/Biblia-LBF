@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 15:11",
+  "chapter": 15,
+  "verse": 11,
+  "candidateLabel": "pulir",
+  "spanish": "¿Quién como tú entre los dioses, Jehová? ¿Quién como tú, glorioso en santidad, temible en alabanzas, hacedor de maravilla?",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02015011009",
+        "h02015011010"
+      ],
+      "issue": "«en» is grammatical smoothing: the niphal participle and the feminine plural absolute stand side by side with no preposition and no construct marker.",
+      "spanishSpan": "en"
+    }
+  ],
+  "notes": "Who/like-you is repeated; 2ms, plural praises, and singular wonder match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 15:1",
+  "chapter": 15,
+  "verse": 1,
+  "candidateLabel": "pulir",
+  "spanish": "Entonces cantaba Moisés e hijos de Israel este cántico a Jehová, y dijeron, diciendo: ¡Cantaré a Jehová, porque exaltando exaltó; caballo y su jinete arrojó en el mar!",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02015001015",
+        "h02015001016"
+      ],
+      "issue": "Qal infinitive absolute + qal perfect of גאה is intransitive/stative (rise, be exalted). «exaltando exaltó» is transitive active and implies an object the tokens do not have, so the subject becomes an agent rather than the one who is exalted.",
+      "spanishSpan": "exaltando exaltó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02015001002"
+      ],
+      "issue": "Yiqtol 3ms does not mark past durative time; «cantaba» selects pretérito imperfecto.",
+      "spanishSpan": "cantaba"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02015001012"
+      ],
+      "issue": "Cohortative 1cs is volitive; «Cantaré» keeps person and number but flattens it to indicative future.",
+      "spanishSpan": "Cantaré"
+    }
+  ],
+  "notes": "Singular ישיר with the compound subject, את, both יהוה, לאמר, singular סוס, the suffix on רכב, and the article in בַּיָּם are represented.",
+  "discardedUncitedFindings": 0
+}

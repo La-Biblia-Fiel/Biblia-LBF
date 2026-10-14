@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:26",
+  "chapter": 16,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Seis días lo recogerán, y en el día el séptimo shabat; no será en él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016026006"
+      ],
+      "issue": "Common noun שַׁבָּת (H7676) is left untranslated as shabat.",
+      "spanishSpan": "shabat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02016026006",
+        "h02016026007",
+        "h02016026008"
+      ],
+      "issue": "The semicolon sets shabat off from no será, so it is unclear that the sabbath noun is what will not be.",
+      "spanishSpan": "shabat; no será"
+    }
+  ],
+  "notes": "2mp recogerán is ustedes address; בו stays open as en él.",
+  "discardedUncitedFindings": 0
+}

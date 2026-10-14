@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:32",
+  "chapter": 16,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Moisés: Esta la palabra que mandó Jehová: Lleno del ómer de él a guarda a generaciones de ustedes, a fin de que vean el pan que hice comer a ustedes en el desierto en mi sacar a ustedes desde tierra de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016032010"
+      ],
+      "issue": "Suffix is 1st common plural (from us); Spanish “de él” is 3rd masculine singular.",
+      "spanishSpan": "de él"
+    }
+  ],
+  "notes": "Person of מִמֶּנּוּ follows the packet morph Sp1cp.",
+  "discardedUncitedFindings": 0
+}

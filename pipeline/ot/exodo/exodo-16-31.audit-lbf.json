@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:31",
+  "chapter": 16,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y llamó casa de Israel su nombre man; y él como semilla de cilantro, blanco, y su sabor como galleta en miel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016031001"
+      ],
+      "issue": "Qal sequential imperfect 3rd masculine plural is rendered with singular llamó.",
+      "spanishSpan": "llamó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02016031012"
+      ],
+      "issue": "The feminine singular noun is a flat cake or wafer; galleta can narrow it to a cookie.",
+      "spanishSpan": "galleta"
+    }
+  ],
+  "notes": "The naming clause, 3ms reference, verbless comparison, white, taste, and in-honey match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

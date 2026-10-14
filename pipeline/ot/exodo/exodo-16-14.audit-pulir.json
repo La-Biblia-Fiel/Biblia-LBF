@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:14",
+  "chapter": 16,
+  "verse": 14,
+  "candidateLabel": "pulir",
+  "spanish": "Y subió tendido del rocío, y he aquí sobre faz del desierto, fino escamado, fino como escarcha sobre la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016014001",
+        "h02016014002",
+        "h02016014003"
+      ],
+      "issue": "שִׁכְבַת is the feminine singular construct noun and the subject of the 3fs verb: the layer of the dew went up. «tendido» is a masculine adjective of manner, so that subject is omitted and «del rocío» reads as the source of the ascent.",
+      "spanishSpan": "tendido del rocío"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02016014006"
+      ],
+      "issue": "פְּנֵי is plural construct; «faz» is singular.",
+      "spanishSpan": "faz"
+    }
+  ],
+  "notes": "The rest keeps both דַּק, the pual passive participle, the frost comparison, and definite הָאָרֶץ.",
+  "discardedUncitedFindings": 0
+}

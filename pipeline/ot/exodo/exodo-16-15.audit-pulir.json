@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:15",
+  "chapter": 16,
+  "verse": 15,
+  "candidateLabel": "pulir",
+  "spanish": "Y vieron hijos de Israel, y dijeron varón a su hermano: ¿Qué *es* esto? Porque no conocieron qué él. Y dijo Moisés a ellos: Él el pan que dio Jehová a ustedes para comida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016015009"
+      ],
+      "issue": "הוּא is a 3rd-person masculine singular personal pronoun; «esto» is a neuter proximal demonstrative and adds deixis the token does not license.",
+      "spanishSpan": "esto"
+    }
+  ],
+  "notes": "Marked *es* only supplies a copula for the verbless clause.",
+  "discardedUncitedFindings": 0
+}

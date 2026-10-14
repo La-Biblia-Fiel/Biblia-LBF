@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 16:19",
+  "chapter": 16,
+  "verse": 19,
+  "sourceDraft": "Y dijo Moisés a ellos: Varón, no deje sobrar de él hasta mañana.",
+  "spanish": "Y dijo Moisés a ellos: Varón no deje sobrar de nosotros hasta la mañana.",
+  "units": [],
+  "grammarChanges": [
+    "Changed 'de él' to 'de nosotros' because h02016019007 (מִמֶּ֖נּוּ) is tagged suffix 1st common plural, not 3rd masculine singular.",
+    "Changed 'hasta mañana' to 'hasta la mañana' so h02016019008-009 (עַד בֹּקֶר, 'morning') reads as the noun and not the adverb 'tomorrow'.",
+    "Removed the comma after 'Varón' so h02016019004/h02016019006 (אִישׁ ... יוֹתֵר, 3ms jussive subject) is not misread as a direct address taking 'usted'."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

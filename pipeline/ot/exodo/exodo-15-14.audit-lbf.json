@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 15:14",
+  "chapter": 15,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Oyeron pueblos, tiemblan; temblor agarró a moradores de Peléshet.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02015014004"
+      ],
+      "issue": "«temblor» en español latinoamericano también significa sismo; חִיל licencia el estremecimiento o la angustia que se apodera de los moradores.",
+      "spanishSpan": "temblor"
+    }
+  ],
+  "notes": "Persona, número y el constructo quedan; Peléshet no tiene otra forma fijada en PROPER_NAMES.md.",
+  "discardedUncitedFindings": 0
+}

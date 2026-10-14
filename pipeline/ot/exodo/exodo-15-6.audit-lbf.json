@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 15:6",
+  "chapter": 15,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Tu derecha, Jehová, gloriosa en la fuerza; tu derecha, Jehová, quiebra al enemigo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02015006008"
+      ],
+      "issue": "Qal participle masculine singular absolute has no article. «al» adds the definite article; singular enemy and object role stay.",
+      "spanishSpan": "al"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02015006007"
+      ],
+      "issue": "Qal imperfect 3fs is smoothed to present «quiebra»; feminine subject, person, and qal stem stay.",
+      "spanishSpan": "quiebra"
+    }
+  ],
+  "notes": "Both ימינך יהוה lines, niphal אדר with בַּכֹּחַ, and Jehová stay; no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

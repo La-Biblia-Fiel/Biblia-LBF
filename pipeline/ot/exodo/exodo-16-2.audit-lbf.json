@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:2",
+  "chapter": 16,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y murmuraron toda congregación de hijos de Israel sobre Moisés y sobre Aarón en el desierto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016002001"
+      ],
+      "issue": "Y murmuraron adds an unmarked conjunction and a murmuring verb. The packet begins at כל and has no verb token.",
+      "spanishSpan": "Y murmuraron"
+    }
+  ],
+  "notes": "Toda congregación de hijos de Israel sobre Moisés y sobre Aarón en el desierto tracks the nine packet tokens.",
+  "discardedUncitedFindings": 0
+}

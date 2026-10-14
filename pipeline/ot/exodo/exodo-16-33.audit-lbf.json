@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:33",
+  "chapter": 16,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Moisés a Aarón: Toma una jarra, y da allí lleno del ómer man, y depónlo delante de Jehová a guarda a generaciones de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016033012"
+      ],
+      "issue": "man leaves the common noun מָן (H4478, not a proper name) untranslated as the Hebrew lemma.",
+      "spanishSpan": "man"
+    }
+  ],
+  "notes": "Imperatives stay 2ms and the 2mp suffix stays ustedes; other tokens are licensed.",
+  "discardedUncitedFindings": 0
+}

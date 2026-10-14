@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:16",
+  "chapter": 16,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Esta la palabra que mandó Jehová: Recojan de él varón según boca de su comer; ómer a la cabeza, número de almas de ustedes, varón para el que en su tienda tomarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016016007"
+      ],
+      "issue": "Suffix is 1st common plural (from us); de él is 3rd masculine singular.",
+      "spanishSpan": "de él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016016011"
+      ],
+      "issue": "Common noun left untranslated as the loanword ómer.",
+      "spanishSpan": "ómer"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02016016016"
+      ],
+      "issue": "Relative has no gender or number; el que supplies a masculine singular person.",
+      "spanishSpan": "el que"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02016016010"
+      ],
+      "issue": "Noun of food with a 3ms suffix is rendered as the verbal noun comer.",
+      "spanishSpan": "su comer"
+    }
+  ],
+  "notes": "2mp imperative and imperfect match ustedes; Jehová matches the proper name.",
+  "discardedUncitedFindings": 0
+}

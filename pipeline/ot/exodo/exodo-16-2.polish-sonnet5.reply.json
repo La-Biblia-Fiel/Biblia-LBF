@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "book": "exodo",
+  "chapter": 16,
+  "verse": 2,
+  "spanish": "Toda congregación de hijos de Israel sobre Moisés y sobre Aarón en el desierto.",
+  "units": [
+    {
+      "es": "Toda congregación de hijos de Israel sobre Moisés y sobre Aarón en el desierto.",
+      "sourceTokenIds": [
+        "h02016002001",
+        "h02016002002",
+        "h02016002003",
+        "h02016002004",
+        "h02016002005",
+        "h02016002006",
+        "h02016002007",
+        "h02016002008",
+        "h02016002009"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Removed \"Y murmuraron\": the packet begins at כָּל and carries no verb token, so that conjunction and verb were unsupported by any source token; capitalized \"Toda\" to open the resulting noun phrase."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Removed the unsupported verb \"murmuraron\" because this packet has no verb token; the span now reads as a verbless noun phrase (subject + two prepositional phrases) rather than a full clause."
+}

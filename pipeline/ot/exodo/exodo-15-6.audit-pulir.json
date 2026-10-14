@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 15:6",
+  "chapter": 15,
+  "verse": 6,
+  "candidateLabel": "pulir",
+  "spanish": "Tu derecha, Jehová, gloriosa en la fuerza; tu derecha, Jehová, quebrará a enemigo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02015006007"
+      ],
+      "issue": "Qal imperfect 3fs does not mark future time; «quebrará» selects futuro. Feminine subject, person, and qal stem stay.",
+      "spanishSpan": "quebrará"
+    }
+  ],
+  "notes": "Repetition of tu derecha and Jehová, the niphal as gloriosa, en la fuerza with the article, and anarthrous singular enemigo stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

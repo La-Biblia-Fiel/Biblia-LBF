@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:19",
+  "chapter": 16,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Moisés a ellos: Varón, no deje sobrar de él hasta mañana.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016019007"
+      ],
+      "issue": "The suffix is first person common plural (from us); de él is third person masculine singular.",
+      "spanishSpan": "de él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016019008",
+        "h02016019009"
+      ],
+      "issue": "The noun is morning; hasta mañana means until tomorrow.",
+      "spanishSpan": "hasta mañana"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02016019004",
+        "h02016019006"
+      ],
+      "issue": "איש is the subject of a third-person masculine singular jussive; the comma makes Varón a direct address, so no deje can be read as usted.",
+      "spanishSpan": "Varón, no deje"
+    }
+  ],
+  "notes": "Y dijo Moisés a ellos matches the wayyiqtol, the name, and the third-person plural suffix.",
+  "discardedUncitedFindings": 0
+}

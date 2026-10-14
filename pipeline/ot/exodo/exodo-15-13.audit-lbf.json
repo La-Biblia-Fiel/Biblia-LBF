@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 15:13",
+  "chapter": 15,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Guiaste en tu misericordia al pueblo este que redimiste; conduciste en tu fuerza a morada de tu santidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02015013004"
+      ],
+      "issue": "זו is tagged relative (HTr). «que» is that relative; «este» adds a demonstrative (this) this token does not license.",
+      "spanishSpan": "este"
+    }
+  ],
+  "notes": "Verbs, beth-phrases, and the construct נְוֵה קָדְשֶׁךָ otherwise match the packet.",
+  "discardedUncitedFindings": 0
+}

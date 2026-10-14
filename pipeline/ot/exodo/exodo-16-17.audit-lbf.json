@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:17",
+  "chapter": 16,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y hicieron así hijos de Israel, y recogieron el que mucho y el que poco.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016017006",
+        "h02016017007"
+      ],
+      "issue": "Definite hiphil active participles (the one who causes much; the one who causes little) are reduced to bare quantity words with no verbal predicate, dropping participle action and hiphil stem force.",
+      "spanishSpan": "el que mucho y el que poco"
+    }
+  ],
+  "notes": "The rest matches: 3mp did thus, sons of Israel, and 3mp gathered.",
+  "discardedUncitedFindings": 0
+}

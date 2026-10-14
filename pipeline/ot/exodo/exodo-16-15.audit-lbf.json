@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:15",
+  "chapter": 16,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y vieron hijos de Israel, y dijeron varón a su hermano: ¿Man hu? Porque no conocieron qué él. Y dijo Moisés a ellos: Él el pan que dio Jehová a ustedes para comida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016015008",
+        "h02016015009"
+      ],
+      "issue": "Non-name particle מָן and 3ms pronoun הוּא are left untranslated as «Man hu».",
+      "spanishSpan": "Man hu"
+    }
+  ],
+  "notes": "The remaining tokens match, including לכם as ustedes and יהוה as Jehová.",
+  "discardedUncitedFindings": 0
+}

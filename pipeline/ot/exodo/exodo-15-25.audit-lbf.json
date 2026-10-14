@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 15:25",
+  "chapter": 15,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y clamó a Jehová, y le mostró Jehová un árbol, y lo arrojó a las aguas, y se endulzaron las aguas. Allí puso a él estatuto y juicio, y allí lo probó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02015025007",
+        "h02015025006"
+      ],
+      "issue": "«lo» is an unmarked supplied object. The throw verb has no object suffix or object noun, so the pronoun resolves the ellipsis by identifying the tree as what was thrown.",
+      "spanishSpan": "lo arrojó"
+    }
+  ],
+  "notes": "The rest matches person, number, stem, and the repeated שָׁם.",
+  "discardedUncitedFindings": 0
+}

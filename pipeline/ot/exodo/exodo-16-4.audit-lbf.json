@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:4",
+  "chapter": 16,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: He aquí yo haciendo llover a ustedes pan desde los cielos, y saldrá el pueblo y recogerán cosa de día en su día, a fin de que lo pruebe si andará en mi torá o no.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016004020"
+      ],
+      "issue": "H8451 is a common noun with a 1cs suffix; “torá” leaves that lemma untranslated.",
+      "spanishSpan": "torá"
+    }
+  ],
+  "notes": "The rest of the clause matches the packet, including ustedes for the 2mp suffix.",
+  "discardedUncitedFindings": 0
+}

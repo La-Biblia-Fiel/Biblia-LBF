@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 15:7",
+  "chapter": 15,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y en muchedumbre de tu exaltación derribas a tus levantados; envías tu ardor, los come como rastrojo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02015007004"
+      ],
+      "issue": "Qal active participle (those who rise) plus 2ms suffix is rendered as passive/resultative 'levantados' (those raised), shifting voice and who acts.",
+      "spanishSpan": "tus levantados"
+    }
+  ],
+  "notes": "The other tokens match person, number, and stem, including 3ms 'come' with 3mp 'los'.",
+  "discardedUncitedFindings": 0
+}

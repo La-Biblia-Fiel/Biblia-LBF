@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:25",
+  "chapter": 16,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Moisés: Cómanlo hoy, porque shabat hoy a Jehová; hoy no lo hallarán en el campo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016025006"
+      ],
+      "issue": "שַׁבָּת is a common noun (singular absolute), left untranslated as shabat; common nouns stay Spanish.",
+      "spanishSpan": "shabat"
+    }
+  ],
+  "notes": "The rest matches: y dijo, Moisés, cómanlo (2mp imperative + 3ms), tres hoy, porque, a Jehová, no lo hallarán (2mp imperfect + 3ms), en el campo.",
+  "discardedUncitedFindings": 0
+}

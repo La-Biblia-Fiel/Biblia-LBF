@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 16:26",
+  "chapter": 16,
+  "verse": 26,
+  "sourceDraft": "Seis días lo recogerán, y en el día el séptimo shabat; no será en él.",
+  "spanish": "Seis días lo recogerán, y en el día el séptimo sábado; no será en él.",
+  "units": [],
+  "grammarChanges": [
+    "Translated the untranslated Hebrew noun 'shabat' (H7676) as 'sábado' to repair the auditor fail.",
+    "Left the semicolon separating 'sábado' from 'no será' unchanged; which noun 'no será' predicates (sábado or the implicit manna) is a clause-role question, not a punctuation repair."
+  ],
+  "meaningChanges": [],
+  "readerNote": "hold: clause role — whether 'sábado' or the implicit manna is the subject that 'no será' predicates over was left unresolved.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}
