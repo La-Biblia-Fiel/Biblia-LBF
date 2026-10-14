@@ -3,16 +3,29 @@
   "findings": [
     {
       "severity": "fail",
-      "sourceTokenIds": ["h02007019032", "h02007019033"],
-      "issue": "וּבָעֵצִים וּבָאֲבָנִים is ‘in the trees and in the stones’; ‘recipientes de madera y piedra’ adds vessels and resolves open nouns into containers",
-      "spanishSpan": "recipientes de madera y piedra"
+      "sourceTokenIds": [
+        "h02007019018"
+      ],
+      "issue": "יְאֹר is a common noun (plural construct), not a proper name; yeores leaves the lemma untranslated.",
+      "spanishSpan": "yeores"
     },
     {
       "severity": "warn",
-      "sourceTokenIds": ["h02007019008", "h02007019010"],
-      "issue": "Direct imperatives קַח / וּנְטֵה smoothed to indirect ‘que tome… y extienda’",
-      "spanishSpan": "que tome su bastón y extienda"
+      "sourceTokenIds": [
+        "h02007019027",
+        "h02007019028"
+      ],
+      "issue": "3ms וְהָיָה with singular דָם licenses blood as what is in the land, wood, and stones; será sangre makes sangre the predicate of an unnamed singular subject.",
+      "spanishSpan": "será sangre"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007019032"
+      ],
+      "issue": "עֵץ leaves tree and wood open; maderas selects wood/timber.",
+      "spanishSpan": "maderas"
     }
   ],
-  "notes": ""
+  "notes": "Names, tú imperatives, suffixes, repeated עַל, and the plural serán sangre clause match the tokens."
 }

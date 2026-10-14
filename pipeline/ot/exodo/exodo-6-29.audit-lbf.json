@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 6:29",
+  "chapter": 6,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y habló Jehová a Moisés, diciendo: Yo Jehová; habla a Faraón rey de Egipto todo lo que yo hablante a ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02006029017"
+      ],
+      "issue": "Qal active participle דֹּבֵר licenses verbal 'I am speaking / I speak,' not the agent noun 'hablante'.",
+      "spanishSpan": "hablante"
+    }
+  ],
+  "notes": "Rest of the verse matches the tokens; only the relative-clause participle is wrong.",
+  "discardedUncitedFindings": 0
+}

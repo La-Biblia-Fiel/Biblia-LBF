@@ -6,9 +6,18 @@
   "chapter": 7,
   "verse": 1,
   "candidateLabel": "lbf",
-  "spanish": "Y el Señor dijo a Moisés: ‘Mira, te he puesto como dios para Faraón, y tu hermano Aarón será tu profeta’.",
-  "verdict": "pass",
-  "findings": [],
-  "notes": "",
+  "spanish": "Y dijo Jehová a Moisés: Mira, te he dado dios a Faraón, y Aarón tu hermano será tu profeta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007001007"
+      ],
+      "issue": "אֱלֹהִים is a common masculine plural absolute; Spanish singular «dios» changes the number.",
+      "spanishSpan": "dios"
+    }
+  ],
+  "notes": "Remaining tokens match person, participants, and licensed wording.",
   "discardedUncitedFindings": 0
 }

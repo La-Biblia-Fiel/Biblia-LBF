@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 6:28",
+  "chapter": 6,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue en día de hablar Jehová a Moisés en tierra de Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02006028002",
+        "h02006028003"
+      ],
+      "issue": "Finite piel perfect דִּבֶּר rendered as infinitive 'hablar' under 'en día de'; meaning and participants unchanged.",
+      "spanishSpan": "de hablar"
+    }
+  ],
+  "notes": "Packet licenses the Spanish; Jehová, Moisés, and Egipto match the tokens and proper-name rules.",
+  "discardedUncitedFindings": 0
+}

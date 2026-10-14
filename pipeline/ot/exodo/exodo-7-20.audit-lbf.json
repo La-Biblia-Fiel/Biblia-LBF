@@ -6,27 +6,18 @@
   "chapter": 7,
   "verse": 20,
   "candidateLabel": "lbf",
-  "spanish": "Moisés y Aarón hicieron como Jehová les había ordenado. Moisés levantó su bastón y golpeó el agua que había en el Nilo, ante los ojos de Faraón y de sus servidores, y todo el agua del Nilo se convirtió en sangre.",
-  "verdict": "pass",
+  "spanish": "Y hicieron así Moisés y Aarón como que mandó Jehová. Y alzó con la vara y hirió las aguas que en el Yeor a ojos de Faraón y a ojos de sus siervos, y fueron vueltas todas las aguas que en el Yeor a sangre.",
+  "verdict": "fail",
   "findings": [
     {
-      "severity": "warn",
+      "severity": "fail",
       "sourceTokenIds": [
-        "h02007020008",
-        "h02007020009"
+        "h02007020005"
       ],
-      "issue": "3ms subject of וַיָּרֶם is unmarked after Moses and Aaron; naming ‘Moisés’ chooses a participant the morphology leaves open",
-      "spanishSpan": "Moisés levantó"
-    },
-    {
-      "severity": "warn",
-      "sourceTokenIds": [
-        "h02007020009"
-      ],
-      "issue": "בַּמַּטֶּה is ‘with the staff’ (article); ‘su bastón’ adds possessive",
-      "spanishSpan": "su bastón"
+      "issue": "כַּאֲשֶׁר is the preposition plus relative «as / according as». «como que» is the Latin American idiom of semblance or hedge («as if», «sort of»), so the command is no longer the standard they followed.",
+      "spanishSpan": "como que"
     }
   ],
-  "notes": "",
+  "notes": "The other tokens match, including 3mp hicieron then 3ms alzó/hirió, niphal fueron vueltas, Jehová, and Yeor.",
   "discardedUncitedFindings": 0
 }

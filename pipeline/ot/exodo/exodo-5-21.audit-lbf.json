@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 5:21",
+  "chapter": 5,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijeron a ellos: Vea Jehová sobre ustedes y juzgue, que han hecho heder nuestro olor en los ojos de Faraón y en los ojos de sus siervos, dando espada en su mano para matarnos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02005021015"
+      ],
+      "issue": "Infinitivo de propósito/resultado לָתֶת (dar/poner) suavizado como gerundio «dando» en lugar de «para dar»/equivalente; no cambia el sentido.",
+      "spanishSpan": "dando"
+    }
+  ],
+  "notes": "2mp → ustedes; Jehová; 3mp בְּיָדָם cabe en «su mano».",
+  "discardedUncitedFindings": 0
+}

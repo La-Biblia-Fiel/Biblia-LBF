@@ -1,18 +1,14 @@
 {
-  "verdict": "pass",
+  "verdict": "fail",
   "findings": [
     {
-      "severity": "warn",
-      "sourceTokenIds": ["h02007020008", "h02007020009"],
-      "issue": "3ms subject of וַיָּרֶם is unmarked after Moses and Aaron; naming ‘Moisés’ chooses a participant the morphology leaves open",
-      "spanishSpan": "Moisés levantó"
-    },
-    {
-      "severity": "warn",
-      "sourceTokenIds": ["h02007020009"],
-      "issue": "בַּמַּטֶּה is ‘with the staff’ (article); ‘su bastón’ adds possessive",
-      "spanishSpan": "su bastón"
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007020005"
+      ],
+      "issue": "כַּאֲשֶׁר is the preposition plus relative «as / according as». «como que» is the Latin American idiom of semblance or hedge («as if», «sort of»), so the command is no longer the standard they followed.",
+      "spanishSpan": "como que"
     }
   ],
-  "notes": ""
+  "notes": "The other tokens match, including 3mp hicieron then 3ms alzó/hirió, niphal fueron vueltas, Jehová, and Yeor."
 }

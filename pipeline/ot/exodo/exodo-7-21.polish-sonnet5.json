@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 7:21",
+  "chapter": 7,
+  "verse": 21,
+  "sourceDraft": "Y la pez que en el Yeor murió, y hedió el Yeor, y no pudieron Egipto beber aguas desde el Yeor. Y fue la sangre en toda tierra de Egipto.",
+  "spanish": "Y el pez que en el Yeor murió, y hedió el Yeor, y Egipto no pudo beber aguas desde el Yeor. Y fue la sangre en toda tierra de Egipto.",
+  "units": [],
+  "grammarChanges": [
+    "Changed 'la pez' to 'el pez': the Spanish word for the fish (fem. Hebrew noun of fish) is masculine 'el pez'; 'la pez' is a different word meaning pitch/tar, which the auditor flagged as a fail.",
+    "Reworded 'no pudieron Egipto beber' to 'Egipto no pudo beber', moving the subject before the verb and using the singular verb form so the proper name Egipto reads unambiguously as the subject, instead of the plural verb form that left the subject placement easy to misread."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose singular verb agreement, 'Egipto no pudo beber,' over the Hebrew's plural verb form because Spanish treats the country name Egipto as a singular grammatical subject; participants and the drinking action are unchanged.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

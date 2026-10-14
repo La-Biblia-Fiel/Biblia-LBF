@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:21",
+  "chapter": 7,
+  "verse": 21,
+  "candidateLabel": "pulir",
+  "spanish": "Y el pez que en el Yeor murió, y hedió el Yeor, y Egipto no pudo beber aguas desde el Yeor. Y fue la sangre en toda tierra de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007021008"
+      ],
+      "issue": "Qal perfect 3rd common plural (were able) is rendered as singular pudo.",
+      "spanishSpan": "pudo"
+    }
+  ],
+  "notes": "Other tokens match, including Egipto for both proper names and plural aguas.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 5:16",
+  "chapter": 5,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Paja no es dada a tus siervos, y ladrillos dicen a nosotros: Hagan. Y he aquí tus siervos heridos, y has pecado contra tu pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02005016005",
+        "h02005016006"
+      ],
+      "issue": "Spanish makes fp לִבֵנִים the grammatical subject of mp אֹמְרִים; morphology does not license the bricks as the speakers",
+      "spanishSpan": "ladrillos dicen"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02005016012",
+        "h02005016013"
+      ],
+      "issue": "contra has no preposition token; the link of 2ms חָטָאת to עַמֶּךָ is left open by the packet",
+      "spanishSpan": "contra"
+    }
+  ],
+  "notes": "Rest matches tokens; Hagan correctly keeps 2mp as ustedes address.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:25",
+  "chapter": 7,
+  "verse": 25,
+  "candidateLabel": "pulir",
+  "spanish": "Y se llenaron siete días después de herir Jehová al Yeor.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007025001",
+        "h02007025002",
+        "h02007025003"
+      ],
+      "issue": "El niphal secuencial es 3ms y concuerda con el cardinal singular en constructo; «se llenaron» pluraliza el verbo para concordar con «días», sin cambiar el participante ni el sentido de llenarse.",
+      "spanishSpan": "se llenaron"
+    }
+  ],
+  "notes": "Yeor es el nombre fijado; «al» cubre el artículo y la marca de objeto.",
+  "discardedUncitedFindings": 0
+}

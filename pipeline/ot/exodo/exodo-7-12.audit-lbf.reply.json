@@ -1,12 +1,37 @@
 {
-  "verdict": "pass",
+  "verdict": "fail",
   "findings": [
     {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007012004",
+        "h02007012005"
+      ],
+      "issue": "«fueron a» lee el qal de היה como ir hacia un destino. El verbo es ser/llegar a ser y el ל marca el resultado, no un lugar al que se va.",
+      "spanishSpan": "fueron a dragones"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007012006",
+        "h02007012007",
+        "h02007012008",
+        "h02007012009",
+        "h02007012010"
+      ],
+      "issue": "El orden verbo + «la vara de Aarón» + «a sus varas» presenta la vara de Aarón como lo tragado y sus varas como complemento de dirección. El 3ms tiene por sujeto la vara de Aarón y את marca sus varas como objeto directo.",
+      "spanishSpan": "tragó la vara de Aarón a sus varas"
+    },
+    {
       "severity": "warn",
-      "sourceTokenIds": ["h02007012003", "h02007012007", "h02007012010"],
-      "issue": "Same lemma מַטֶּה rendered both ‘bastón’ and ‘vara’ in one verse",
-      "spanishSpan": "bastón / vara"
+      "sourceTokenIds": [
+        "h02007012001",
+        "h02007012002",
+        "h02007012003"
+      ],
+      "issue": "«arrojaron varón» puede leerse como que arrojan a un varón. איש singular con vara poseída en 3ms y verbo 3mp es el distributivo (cada uno su vara).",
+      "spanishSpan": "arrojaron varón"
     }
   ],
-  "notes": ""
+  "notes": "«dragones» queda dentro del rango de H8577; «Aarón» es el nombre propio."
 }

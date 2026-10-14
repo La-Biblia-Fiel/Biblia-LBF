@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 6:3",
+  "chapter": 6,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y me aparecí a Abraham, a Isaac y a Jacob en El Shaday, y mi nombre Jehová no fui conocido a ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02006003008",
+        "h02006003009"
+      ],
+      "issue": "Common-noun אל dumped as untranslated Hebrew El (and paired with transliterated Shaday) instead of Spanish for the common noun; same class of fail as Elohím→Dios",
+      "spanishSpan": "El Shaday"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02006003013",
+        "h02006003014"
+      ],
+      "issue": "fui conocido a ellos calques Niphal 1cs + ל without changing licensed sense, but is unnatural Spanish",
+      "spanishSpan": "fui conocido a ellos"
+    }
+  ],
+  "notes": "me aparecí for Niphal ראה 1cs, names, Jehová, and 1cs נודעתי are otherwise licensed.",
+  "discardedUncitedFindings": 0
+}

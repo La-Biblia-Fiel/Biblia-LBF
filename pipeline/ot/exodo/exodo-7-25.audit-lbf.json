@@ -6,18 +6,21 @@
   "chapter": 7,
   "verse": 25,
   "candidateLabel": "lbf",
-  "spanish": "Pasaron siete días después de que Jehová golpeó el Nilo.",
-  "verdict": "pass",
+  "spanish": "Y se llenó siete días después de herir Jehová al Yeor.",
+  "verdict": "fail",
   "findings": [
     {
-      "severity": "warn",
+      "severity": "fail",
       "sourceTokenIds": [
-        "h02007025001"
+        "h02007025001",
+        "h02007025002",
+        "h02007025003",
+        "h02007025004"
       ],
-      "issue": "וַיִּמָּלֵא is Niphal ‘was filled’; ‘Pasaron’ smooths filled-days idiom to ‘passed’",
-      "spanishSpan": "Pasaron"
+      "issue": "שִׁבְעַת יָמִים is what the niphal fills, and אַחֲרֵי governs only the striking. “se llenó siete días después” reads as an unnamed thing filled seven days later.",
+      "spanishSpan": "se llenó siete días después"
     }
   ],
-  "notes": "",
+  "notes": "Jehová and Yeor match the proper-name tokens.",
   "discardedUncitedFindings": 0
 }

@@ -1,0 +1,23 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02005022006"
+      ],
+      "issue": "אֲדֹנָי is a common noun with 1cs suffix (my Lord), not a proper name; dumping untranslated Adonai is not licensed—Spanish Señor / mi Señor is required",
+      "spanishSpan": "Adonai"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02005022012",
+        "h02005022013"
+      ],
+      "issue": "¿Por qué esto me enviaste? can read as “send this to me,” but morphology has 1cs as object of send and זֶה with לָמָּה; wording leaves the licensed roles uncertain",
+      "spanishSpan": "esto me enviaste"
+    }
+  ],
+  "notes": "Narrative return/speech and hiphil harm-to-this-people are licensed; fail is the Adonai dump."
+}

@@ -6,9 +6,18 @@
   "chapter": 7,
   "verse": 6,
   "candidateLabel": "lbf",
-  "spanish": "Y Moisés y Aarón hicieron como el Señor les había ordenado; así lo hicieron.",
+  "spanish": "Y hizo Moisés y Aarón como que mandó Jehová a ellos; así hicieron.",
   "verdict": "pass",
-  "findings": [],
-  "notes": "",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007006004"
+      ],
+      "issue": "como que calques the preposition + relative, but in current Latin American Spanish it can be heard as semblance or hedge (as if); the token only licenses correspondence",
+      "spanishSpan": "como que"
+    }
+  ],
+  "notes": "Singular hizo matches the 3ms wayyiqtol with Moisés y Aarón; mandó matches the piel; a ellos matches the 3mp object; así hicieron matches the closing qal plural.",
   "discardedUncitedFindings": 0
 }

@@ -1,12 +1,24 @@
 {
-  "verdict": "pass",
+  "verdict": "fail",
   "findings": [
     {
-      "severity": "warn",
-      "sourceTokenIds": ["h02007010020"],
-      "issue": "תַּנִּין left open by lemma/morph; ‘serpiente’ narrows the creature type",
-      "spanishSpan": "serpiente"
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007010008",
+        "h02007010009"
+      ],
+      "issue": "«como que» means «as if / seemingly»; כַּאֲשֶׁר introduces «as / according as» he commanded, not appearance or hypothesis.",
+      "spanishSpan": "como que"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02007010019",
+        "h02007010020"
+      ],
+      "issue": "«fue a dragón» is motion («went to»); וַיְהִי לְ plus the noun is «and it became» that thing.",
+      "spanishSpan": "fue a dragón"
     }
   ],
-  "notes": ""
+  "notes": "Singular «vino» matches the 3ms verb with a compound subject."
 }

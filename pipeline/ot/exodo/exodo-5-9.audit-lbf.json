@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 5:9",
+  "chapter": 5,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Se haga pesado el servicio sobre los varones, y hagan en él, y no miren a palabras de mentira.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02005009006"
+      ],
+      "issue": "Hebrew 3fs suffix on בָהּ (antecedent הָעֲבֹדָה) rendered as masculine él to agree with Spanish servicio; same referent, grammatical gender smoothing only.",
+      "spanishSpan": "él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02005009009"
+      ],
+      "issue": "Construct בְּדִבְרֵי rendered with a before palabras (mirar a) instead of en; Spanish verb government, not a meaning shift.",
+      "spanishSpan": "a palabras"
+    }
+  ],
+  "notes": "Tokens license: let the service be heavy on the men; they do/work in it; let them not regard words of falsehood.",
+  "discardedUncitedFindings": 0
+}

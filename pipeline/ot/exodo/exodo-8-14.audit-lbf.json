@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 8:14",
+  "chapter": 8,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y amontonaron a ellas montones montones, y hedió la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02008014002"
+      ],
+      "issue": "El sufijo del objeto es 3ª persona masculino plural; «ellas» es femenino.",
+      "spanishSpan": "a ellas"
+    }
+  ],
+  "notes": "El resto (3mp amontonaron, montones repetido, 3fs hedió, la tierra) sigue a los tokens.",
+  "discardedUncitedFindings": 0
+}

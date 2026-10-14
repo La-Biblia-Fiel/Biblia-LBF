@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 5:8",
+  "chapter": 5,
+  "verse": 8,
+  "sourceDraft": "Y la medida de los ladrillos que ellos hacían ayer anteayer pondrán sobre ellos; no disminuirán de ella, porque flojos son ellos; por eso ellos claman, diciendo: Andemos, sacrifiquemos a nuestro Dios.",
+  "spanish": "Y la medida de los ladrillos que ellos hacían ayer anteayer pondrán sobre ellos; no disminuirán de nosotros, porque flojos *son* ellos; por eso ellos claman, diciendo: Andemos, sacrifiquemos a nuestro Dios.",
+  "units": [],
+  "grammarChanges": [
+    "de ella → de nosotros: packet morph on h02005008013 (מִמֶּנּוּ) is preposition + 1cp suffix (from us); the draft's 3fs pronoun agreeing with medida did not match the suffix person.",
+    "son → *son*: marked the supplied copula in italics, since the participle + pronoun clause (h02005008015/h02005008016) only licenses a copula when marked."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Changed 'de ella' to 'de nosotros' to match the 1cp suffix on the preposition, and marked the supplied copula as *son*.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

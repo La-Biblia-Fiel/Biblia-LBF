@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 4:4",
+  "chapter": 4,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Extiende tu mano y agarra en su cola. Y extendió su mano y se aferró en ella, y fue a vara en su palma.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02004004012"
+      ],
+      "issue": "בּוֹ is prep + Sp3ms; Spanish feminine ella changes the 3ms suffix gender",
+      "spanishSpan": "en ella"
+    }
+  ],
+  "notes": "Otherwise licensed: אמר/יהוה/אל/משה, שלח+ידך and וישלח+ידו, אחז vs hiphil חזק, בזנבו, ויהי למטה, בכפו.",
+  "discardedUncitedFindings": 0
+}

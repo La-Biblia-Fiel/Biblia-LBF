@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 5:5",
+  "chapter": 5,
+  "verse": 5,
+  "sourceDraft": "Y dijo Faraón: He aquí, mucho es ahora el pueblo de la tierra, y han hecho cesar a ellos de sus cargas.",
+  "spanish": "Y dijo Faraón: He aquí, mucho *es* ahora el pueblo de la tierra, y han hecho cesar a ellos de sus cargas.",
+  "units": [],
+  "grammarChanges": [
+    "Marked the supplied copula in italics: *es*, since the clause on h02005005003/h02005005004/h02005005005/h02005005006/h02005005007 (הֵן רַבִּים עַתָּה עַם הָאָרֶץ) is verbless with no overt copula token.",
+    "Kept 'mucho' (singular) agreeing with the singular head noun 'pueblo' (h02005005006), since Spanish will not let pueblo take a plural adjective; the Hebrew plural adjective רַבִּים (h02005005004) on the singular construct עַם cannot be rendered as a plural Spanish adjective without breaking that agreement."
+  ],
+  "meaningChanges": [],
+  "readerNote": "*es* is a supplied copula with no corresponding Hebrew token, and 'mucho' stays singular to agree with the singular head noun pueblo, since Spanish cannot give pueblo a plural adjective to match the Hebrew plural force of רבים.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

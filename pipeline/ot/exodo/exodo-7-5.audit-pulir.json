@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 7:5",
+  "chapter": 7,
+  "verse": 5,
+  "candidateLabel": "pulir",
+  "spanish": "Y Egipto conocerá que yo Jehová, en mi extender mi mano sobre Egipto, y haré salir a hijos de Israel de medio de ellos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02007005001",
+        "h02007005002"
+      ],
+      "issue": "Qal sequential perfect is 3rd common plural; Spanish singular conocerá is agreement with the conventional singular name Egipto, same participant.",
+      "spanishSpan": "Egipto conocerá"
+    }
+  ],
+  "notes": "Verbless yo Jehová matches the tokens without an unmarked copula.",
+  "discardedUncitedFindings": 0
+}
