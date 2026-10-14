@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:31",
+  "chapter": 9,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y el lino y la cebada fueron heridos, porque la cebada espiga y el lino botón.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009031003",
+        "h02009031001",
+        "h02009031002"
+      ],
+      "issue": "Pual perfect is 3fs singular; fueron heridos is masculine plural. With the coordinated subject that is Spanish agreement smoothing and does not add or drop a participant.",
+      "spanishSpan": "fueron heridos"
+    }
+  ],
+  "notes": "espiga and botón match the two absolute nouns as nominal predicates.",
+  "discardedUncitedFindings": 0
+}

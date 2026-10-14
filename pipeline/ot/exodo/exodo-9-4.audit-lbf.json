@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:4",
+  "chapter": 9,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y distinguirá Jehová entre ganado de Israel y entre ganado de Egipto, y no morirá cosa de todo a hijos de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009004010",
+        "h02009004011",
+        "h02009004012",
+        "h02009004014"
+      ],
+      "issue": "«cosa de todo a hijos» keeps the negative, qal imperfect, מִכָּל, ל, and דָּבָר, but the Spanish can attach לִבְנֵי as an indirect object of morir instead of the scope from-all that is to the sons.",
+      "spanishSpan": "cosa de todo a hijos de Israel"
+    }
+  ],
+  "notes": "Jehová, Israel, Egipto, singular ganado, hiphil sequential perfect, and בין…ובין match the tokens.",
+  "discardedUncitedFindings": 0
+}

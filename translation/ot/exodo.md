@@ -7,7 +7,7 @@
 
 ### 1:1
 
-Y estos son los nombres de los hijos de Israel que vinieron hacia Egipto con Jacob; varón y su casa vinieron.
+Y estos *son* los nombres de los hijos de Israel que vinieron hacia Egipto con Jacob; varón y su casa vinieron.
 
 ### 1:2
 
@@ -23,7 +23,7 @@ Dan y Neftalí, Gad y Aser.
 
 ### 1:5
 
-Y fue toda alma que salió de los lomos de Jacob, setenta almas; y José estaba en Egipto.
+Y fueron todas las almas que salieron de los lomos de Jacob, setenta almas; y José estaba en Egipto.
 
 ### 1:6
 
@@ -39,7 +39,7 @@ Y se levantó rey nuevo sobre Egipto, que no conoció a José.
 
 ### 1:9
 
-Y dijo a su pueblo: He aquí, pueblo de hijos de Israel mucho y recio de nosotros.
+Y dijo a su pueblo: He aquí, el pueblo de los hijos de Israel es más numeroso y recio que nosotros.
 
 ### 1:10
 
@@ -51,7 +51,7 @@ Y pusieron sobre él príncipes de levas, a fin de afligirlo en sus cargas; y ed
 
 ### 1:12
 
-Y como afligían a él, así se multiplicaba, y así reventaba. Y se hastiaron de faces de hijos de Israel.
+Y como afligían a él, así se multiplicaba, y así se extendía. Y se hastiaron a causa de los hijos de Israel.
 
 ### 1:13
 
@@ -59,11 +59,11 @@ Y hicieron servir Egipto a hijos de Israel en dureza.
 
 ### 1:14
 
-Y amargaron sus vidas en servicio duro, en barro y en ladrillos y en todo servicio en el campo; todo su servicio que sirvieron en ellos en dureza.
+Y amargaron sus vidas en servicio duro, en barro y en ladrillos y en todo servicio en el campo, todo su servicio que sirvieron en ellos en dureza.
 
 ### 1:15
 
-Y dijo rey de Egipto a las que hacen dar a luz, las hebreas, que nombre de la una era Shifrá, y nombre de la segunda era Puá:
+Y dijo el rey de Egipto a las que hacen dar a luz, las hebreas, que el nombre de la una era Shifrá, y el nombre de la segunda era Puá:
 
 ### 1:16
 
@@ -75,11 +75,11 @@ Y temieron las que hacen dar a luz a Dios, y no hicieron como habló a ellas rey
 
 ### 1:18
 
-Y llamó rey de Egipto a las que hacen dar a luz, y dijo a ellas: ¿Por qué hicieron esta palabra, y hicieron vivir a los hijos?
+Y llamó el rey de Egipto a las que hacen dar a luz, y dijo a ellas: ¿Por qué hicieron ustedes esta palabra, y hicieron vivir a los hijos?
 
 ### 1:19
 
-Y dijeron las que hacen dar a luz a Faraón: Porque no como las mujeres mizraitas, las hebreas, porque son vivas ellas; antes de que venga a ellas la que hace dar a luz, y ellas dieron a luz.
+Y dijeron las que hacen dar a luz a Faraón: porque no como las mujeres egipcias, las hebreas, porque ellas son vivas; antes de que venga a ellas la que hace dar a luz, y ellas dieron a luz.
 
 ### 1:20
 
@@ -101,7 +101,7 @@ Y anduvo varón de casa de Leví, y tomó a hija de Leví.
 
 ### 2:2
 
-Y concibió la mujer y dio a luz un hijo, y lo vio a él, que era bueno, y lo escondió tres meses.
+Y concibió la mujer y dio a luz un hijo, y lo vio a él, que *era* bueno, y lo escondió tres meses.
 
 ### 2:3
 
@@ -117,7 +117,7 @@ Y descendió hija de Faraón a lavarse sobre el Yeor, y sus doncellas andaban so
 
 ### 2:6
 
-Y abrió, y lo vio, al niño, y he aquí muchacho llorante, y se compadeció de él, y dijo: Este es de los hijos de los hebreos.
+Y abrió, y lo vio, al niño, y he aquí muchacho llorante, y se compadeció de él, y dijo: Este *es* de los hijos de los hebreos.
 
 ### 2:7
 
@@ -137,11 +137,11 @@ Y creció el niño, y lo trajo a hija de Faraón, y fue a ella por hijo. Y llam�
 
 ### 2:11
 
-Y fue en los días aquellos, y creció Moisés, y salió a sus hermanos, y vio en sus cargas, y vio varón mizraita golpeando a varón hebreo de sus hermanos.
+Y fue en los días aquellos, y creció Moisés, y salió a sus hermanos, y vio en sus cargas, y vio varón egipcio golpeando a varón hebreo de sus hermanos.
 
 ### 2:12
 
-Y se volvió a un lado y a otro, y vio que no había varón, e hirió al mizraita, y lo escondió en la arena.
+Y se volvió a un lado y a otro, y vio que no había varón, e hirió al egipcio, y lo escondió en la arena.
 
 ### 2:13
 
@@ -149,7 +149,7 @@ Y salió en el día segundo, y he aquí dos varones hebreos contendientes, y dij
 
 ### 2:14
 
-Y dijo: ¿Quién te puso por varón, príncipe y juez sobre nosotros? ¿Acaso tú dices matarme, como mataste al mizraita? Y temió Moisés, y dijo: Ciertamente el asunto se supo.
+Y dijo: ¿Quién te puso por varón, príncipe y juez sobre nosotros? ¿Acaso tú dices matarme, como mataste al egipcio? Y temió Moisés, y dijo: Ciertamente el asunto se supo.
 
 ### 2:15
 
@@ -161,7 +161,7 @@ Y sacerdote de Midyán tenía siete hijas, y vinieron y sacaron y llenaron los c
 
 ### 2:17
 
-Y vinieron los pastores y las echaron, y se levantó Moisés y las salvó, y abrevó su rebaño.
+Y vinieron los pastores y los echaron, y se levantó Moisés y las salvó, y abrevó su rebaño.
 
 ### 2:18
 
@@ -169,11 +169,11 @@ Y vinieron a Reuel su padre, y dijo: ¿Por qué se apresuraron ustedes a venir h
 
 ### 2:19
 
-Y dijeron: Varón mizraita nos libró de la mano de los pastores, y también sacando sacó para nosotros, y abrevó el rebaño.
+Y dijeron: Varón egipcio nos libró de la mano de los pastores, y también sacando sacó agua para nosotros, y abrevó el rebaño.
 
 ### 2:20
 
-Y dijo a sus hijas: ¿Y dónde está él? ¿Por qué esto dejaron ustedes al varón? Llámenlo, y comerá pan.
+Y dijo a sus hijas: ¿Y dónde *está* él? ¿Por qué esto dejaron ustedes al varón? Llámenlo, y comerá pan.
 
 ### 2:21
 
@@ -193,7 +193,7 @@ Y oyó Dios su gemido, y recordó Dios su pacto con Abraham, con Isaac y con Jac
 
 ### 2:25
 
-Y vio Dios a hijos de Israel, y conoció Dios.
+Y vio Dios a los hijos de Israel, y conoció Dios.
 
 ## Capítulo 3
 
@@ -223,7 +223,7 @@ Y dijo: Yo Dios de tu padre, Dios de Abraham, Dios de Isaac y Dios de Jacob. Y e
 
 ### 3:7
 
-Y dijo Jehová: Viendo he visto la aflicción de mi pueblo que en Egipto, y su clamor he oído de faces de sus opresores, porque conozco sus dolores.
+Y dijo Jehová: Viendo he visto la aflicción de mi pueblo que en Egipto, y su clamor he oído de rostros de sus opresores, porque conozco sus dolores.
 
 ### 3:8
 
@@ -243,7 +243,7 @@ Y dijo Moisés a Dios: ¿Quién yo, que iré a Faraón, y que sacaré a hijos de
 
 ### 3:12
 
-Y dijo: Porque seré contigo, y esta a ti la señal de que yo te envié: en tu sacar al pueblo desde Egipto, servirán a Dios sobre este monte.
+Y dijo: Porque seré contigo, y esta a ti la señal de que yo te envié: en tu sacar al pueblo desde Egipto, ustedes servirán a Dios sobre este monte.
 
 ### 3:13
 
@@ -251,7 +251,7 @@ Y dijo Moisés a Dios: He aquí yo viniendo a hijos de Israel, y diré a ellos: 
 
 ### 3:14
 
-Y dijo Dios a Moisés: Seré el que seré. Y dijo: Así dirás a hijos de Israel: Seré me envió a ustedes.
+Y dijo Dios a Moisés: Seré lo que seré. Y dijo: Así dirás a hijos de Israel: Seré me envió a ustedes.
 
 ### 3:15
 
@@ -267,7 +267,7 @@ Y dije: Subiré a ustedes desde la aflicción de Egipto a tierra del cananeo y e
 
 ### 3:18
 
-Y oirán a tu voz, y vendrás tú y los ancianos de Israel a rey de Egipto, y dirán a él: Jehová Dios de los hebreos se encontró sobre nosotros; y ahora, andemos ahora camino de tres días en el desierto, y sacrifiquemos a Jehová nuestro Dios.
+Y oirán a tu voz, y vendrás tú y los ancianos de Israel al rey de Egipto, y dirán a él: Jehová Dios de los hebreos se encontró sobre nosotros; y ahora, andemos, por favor, camino de tres días en el desierto, y sacrifiquemos a Jehová nuestro Dios.
 
 ### 3:19
 
@@ -279,11 +279,11 @@ Y enviaré mi mano e heriré a Egipto con todas mis maravillas que haré en medi
 
 ### 3:21
 
-Y daré favor de este pueblo en ojos de Egipto, y será que andarán, no andarán vacíos.
+Y daré favor de este pueblo en los ojos de Egipto, y será que andarán, no andarán vacíos.
 
 ### 3:22
 
-Y pedirá mujer de su vecina y de la huésped de su casa utensilios de plata y utensilios de oro y vestidos, y los pondrán sobre sus hijos y sobre sus hijas, y despojarán a Egipto.
+Y pedirá mujer de su vecina y de la huésped de su casa utensilios de plata y utensilios de oro y vestidos, y pondrán sobre sus hijos y sobre sus hijas, y despojarán a Egipto.
 
 ## Capítulo 4
 
@@ -297,7 +297,7 @@ Y dijo a él Jehová: ¿Qué esto en tu mano? Y dijo: Vara.
 
 ### 4:3
 
-Y dijo: Arrójala a tierra. Y la arrojó a tierra, y fue a serpiente, y huyó Moisés de faces de ella.
+Y dijo: Arrójalo a tierra. Y lo arrojó a tierra, y fue a serpiente, y huyó Moisés de su rostro.
 
 ### 4:4
 
@@ -377,7 +377,7 @@ Y dirás a Faraón: Así dijo Jehová: Mi hijo, mi primogénito, Israel.
 
 ### 4:23
 
-Y dije a ti: Envía a mi hijo y me sirva, y rehusaste enviarlo; he aquí yo matante a tu hijo, tu primogénito.
+Y dije a ti: Envía a mi hijo y me sirva, y rehusaste enviarlo; he aquí yo mato a tu hijo, tu primogénito.
 
 ### 4:24
 
@@ -419,7 +419,7 @@ Y después vinieron Moisés y Aarón, y dijeron a Faraón: Así dijo Jehová, Di
 
 ### 5:2
 
-Y dijo Faraón: ¿Quién es Jehová, que oiga su voz para enviar a Israel? No he conocido a Jehová, y a Israel tampoco enviaré.
+Y dijo Faraón: ¿Quién *es* Jehová, que yo oiga su voz para enviar a Israel? No he conocido a Jehová, y a Israel tampoco enviaré.
 
 ### 5:3
 
@@ -431,7 +431,7 @@ Y dijo a ellos el rey de Egipto: ¿Por qué, Moisés y Aarón, hacen cesar al pu
 
 ### 5:5
 
-Y dijo Faraón: He aquí, mucho es ahora el pueblo de la tierra, y han hecho cesar a ellos de sus cargas.
+Y dijo Faraón: He aquí, mucho *es* ahora el pueblo de la tierra, y han hecho cesar a ellos de sus cargas.
 
 ### 5:6
 
@@ -443,11 +443,11 @@ No añadirán dar paja al pueblo para ladrillar los ladrillos como ayer anteayer
 
 ### 5:8
 
-Y la medida de los ladrillos que ellos hacían ayer anteayer pondrán sobre ellos; no disminuirán de ella, porque flojos son ellos; por eso ellos claman, diciendo: Andemos, sacrifiquemos a nuestro Dios.
+Y la medida de los ladrillos que ellos hacían ayer anteayer pondrán sobre ellos; no disminuirán de nosotros, porque flojos *son* ellos; por eso ellos claman, diciendo: Andemos, sacrifiquemos a nuestro Dios.
 
 ### 5:9
 
-Se haga pesado el servicio sobre los varones, y hagan en él, y no miren a palabras de mentira.
+Se haga pesado el servicio sobre los varones, y hagan en él, y no miren en palabras de mentira.
 
 ### 5:10
 
@@ -479,7 +479,7 @@ Paja no es dada a tus siervos, y ladrillos dicen a nosotros: Hagan. Y he aquí t
 
 ### 5:17
 
-Y dijo: Flojos son ustedes, flojos; por eso ustedes dicen: Andemos, sacrifiquemos a Jehová.
+Y dijo: Flojos *son* ustedes, flojos; por eso ustedes dicen: Andemos, sacrifiquemos a Jehová.
 
 ### 5:18
 
@@ -495,7 +495,7 @@ Y se encontraron con Moisés y con Aarón parados a su encuentro, en su salir de
 
 ### 5:21
 
-Y dijeron a ellos: Vea Jehová sobre ustedes y juzgue, que han hecho heder nuestro olor en los ojos de Faraón y en los ojos de sus siervos, dando espada en su mano para matarnos.
+Y dijeron a ellos: Vea Jehová sobre ustedes y juzgue, que han hecho heder nuestro olor en los ojos de Faraón y en los ojos de sus siervos, para dar espada en su mano para matarnos.
 
 ### 5:22
 
@@ -621,7 +621,7 @@ Y fue en día de hablar Jehová a Moisés en tierra de Egipto.
 
 ### 6:29
 
-Y habló Jehová a Moisés, diciendo: Yo Jehová; habla a Faraón rey de Egipto todo lo que yo hablante a ti.
+Y habló Jehová a Moisés, diciendo: Yo Jehová; habla a Faraón rey de Egipto todo lo que yo hablo a ti.
 
 ### 6:30
 
@@ -647,11 +647,11 @@ Y no oirá a ustedes Faraón, y daré mi mano en Egipto, y haré salir mis ejér
 
 ### 7:5
 
-Y conocerán Egipto que yo Jehová, en mi extender mi mano sobre Egipto, y haré salir a hijos de Israel de medio de ellos.
+Y Egipto conocerá que yo Jehová, en mi extender mi mano sobre Egipto, y haré salir a hijos de Israel de medio de ellos.
 
 ### 7:6
 
-Y hizo Moisés y Aarón como que mandó Jehová a ellos; así hicieron.
+Y hizo Moisés y Aarón como mandó Jehová a ellos; así hicieron.
 
 ### 7:7
 
@@ -679,7 +679,7 @@ Y arrojaron varón su vara, y fueron a dragones. Y tragó la vara de Aarón a su
 
 ### 7:13
 
-Y se fortaleció el corazón de Faraón, y no oyó a ellos, como que habló Jehová.
+Y se fortaleció el corazón de Faraón, y no oyó a ellos, como habló Jehová.
 
 ### 7:14
 
@@ -703,7 +703,7 @@ Y la pez que en el Yeor morirá, y hederá el Yeor, y se cansarán Egipto de beb
 
 ### 7:19
 
-Y dijo Jehová a Moisés: Di a Aarón: Toma tu vara y extiende tu mano sobre las aguas de Egipto, sobre sus ríos, sobre sus yeores y sobre sus estanques y sobre todo depósito de sus aguas, y serán sangre. Y será sangre en toda tierra de Egipto, y en las maderas y en las piedras.
+Y dijo Jehová a Moisés: Di a Aarón: Toma tu vara y extiende tu mano sobre las aguas de Egipto, sobre sus ríos, sobre sus canales y sobre sus estanques y sobre todo depósito de sus aguas, y serán sangre. Y habrá sangre en toda tierra de Egipto, y en las maderas y en las piedras.
 
 ### 7:20
 
@@ -715,7 +715,7 @@ Y la pez que en el Yeor murió, y hedió el Yeor, y no pudieron Egipto beber agu
 
 ### 7:22
 
-Y hicieron así los magos de Egipto con sus secretos. Y se fortaleció el corazón de Faraón, y no oyó a ellos, como que habló Jehová.
+Y hicieron así los magos de Egipto con sus secretos. Y se fortaleció el corazón de Faraón, y no oyó a ellos, como habló Jehová.
 
 ### 7:23
 
@@ -749,7 +749,7 @@ Y en ti y en tu pueblo y en todos tus siervos subirán las ranas.
 
 ### 8:5
 
-Y dijo Jehová a Moisés: Di a Aarón: Extiende tu mano con tu vara sobre los ríos, sobre los yeores y sobre los estanques, y haz subir a las ranas sobre tierra de Egipto.
+Y dijo Jehová a Moisés: Di a Aarón: Extiende tu mano con tu vara sobre los ríos, sobre los arroyos y sobre los estanques, y haz subir a las ranas sobre tierra de Egipto.
 
 ### 8:6
 
@@ -785,11 +785,11 @@ Y hizo Jehová conforme a la palabra de Moisés, y murieron las ranas desde las 
 
 ### 8:14
 
-Y amontonaron a ellas montones montones, y hedió la tierra.
+Y amontonaron a ellos montones montones, y hedió la tierra.
 
 ### 8:15
 
-Y vio Faraón que hubo alivio, y hizo pesado su corazón, y no oyó a ellos, como que habló Jehová.
+Y vio Faraón que fue el alivio, y hizo pesado su corazón, y no oyó a ellos, como habló Jehová.
 
 ### 8:16
 
@@ -805,7 +805,7 @@ Y hicieron así los magos con sus secretos para sacar a los piojos, y no pudiero
 
 ### 8:19
 
-Y dijeron los magos a Faraón: Dedo de Dios ella. Y se fortaleció el corazón de Faraón, y no oyó a ellos, como que habló Jehová.
+Y dijeron los magos a Faraón: Dedo de Dios ella. Y se fortaleció el corazón de Faraón, y no oyó a ellos, como habló Jehová.
 
 ### 8:20
 
@@ -833,11 +833,11 @@ Y llamó Faraón a Moisés y a Aarón, y dijo: Vayan, sacrifiquen a su Dios en l
 
 ### 8:26
 
-Y dijo Moisés: No es firme hacer así, porque abominación de Egipto sacrificamos a Jehová nuestro Dios. He aquí, sacrificaremos la abominación de Egipto a sus ojos, ¿y no nos apedrearán?
+Y dijo Moisés: No *es* firme hacer así, porque la abominación de Egipto sacrificaremos a Jehová nuestro Dios. He aquí, sacrificaremos la abominación de Egipto a sus ojos, y no nos apedrearán.
 
 ### 8:27
 
-Camino de tres días iremos en el desierto, y sacrificaremos a Jehová nuestro Dios, como que diga a nosotros.
+Camino de tres días iremos en el desierto, y sacrificaremos a Jehová nuestro Dios, como diga a nosotros.
 
 ### 8:28
 
@@ -883,7 +883,7 @@ Y puso Jehová plazo, diciendo: Mañana hará Jehová este asunto en la tierra.
 
 ### 9:6
 
-Y hizo Jehová este asunto de mañana, y murió todo ganado de Egipto, y del ganado de hijos de Israel no murió uno.
+Y hizo Jehová este asunto al día siguiente, y murió todo ganado de Egipto, y del ganado de hijos de Israel no murió uno.
 
 ### 9:7
 
@@ -891,7 +891,7 @@ Y envió Faraón, y he aquí no murió del ganado de Israel hasta uno, y se hizo
 
 ### 9:8
 
-Y dijo Jehová a Moisés y a Aarón: Tomen para ustedes lleno de sus puños hollín de horno, y lo esparcirá Moisés hacia los cielos a ojos de Faraón.
+Y dijo Jehová a Moisés y a Aarón: Tomen para ustedes sus puños llenos de hollín de horno, y lo esparcirá Moisés hacia los cielos a ojos de Faraón.
 
 ### 9:9
 
@@ -907,7 +907,7 @@ Y no pudieron los magos pararse delante de Moisés de faces de la úlcera, porqu
 
 ### 9:12
 
-Y fortaleció Jehová el corazón de Faraón, y no oyó a ellos, como que habló Jehová a Moisés.
+Y fortaleció Jehová el corazón de Faraón, y no oyó a ellos, como habló Jehová a Moisés.
 
 ### 9:13
 
@@ -931,7 +931,7 @@ Todavía tú exaltándote en mi pueblo, para no enviarlos.
 
 ### 9:18
 
-He aquí yo haciendo llover como el tiempo mañana granizo pesado mucho, que no fue como él en Egipto desde el día de su ser fundada y hasta ahora.
+He aquí yo haciendo llover como el tiempo de mañana granizo muy pesado, que no fue como él en Egipto desde el día de su ser fundado y hasta ahora.
 
 ### 9:19
 
@@ -971,7 +971,7 @@ Y envió Faraón y llamó a Moisés y a Aarón, y dijo a ellos: He pecado la vez
 
 ### 9:28
 
-Intercedan a Jehová, y bastante de ser voces de Dios y granizo, y enviaré a ustedes, y no añadirán estar.
+Intercedan a Jehová, y bastante de ser voces de Dios y granizo, y enviaré a ustedes, y no añadirán permanecer.
 
 ### 9:29
 
@@ -1041,7 +1041,7 @@ Y dijo Moisés: Con nuestros jóvenes y con nuestros ancianos iremos; con nuestr
 
 ### 10:10
 
-Y dijo a ellos: Sea así Jehová con ustedes, como que enviaré a ustedes y a su pequeño. Vean que mal delante de sus faces.
+Y dijo a ellos: Sea así Jehová con ustedes, como enviaré a ustedes y a su pequeño. Vean que mal delante de sus rostros.
 
 ### 10:11
 
@@ -1061,7 +1061,7 @@ Y subió la langosta sobre toda tierra de Egipto, y reposó en todo límite de E
 
 ### 10:15
 
-Y cubrió el ojo de toda la tierra, y se oscureció la tierra, y comió toda hierba de la tierra y todo fruto del árbol que dejó el granizo, y no quedó todo verdor en el árbol y en hierba del campo en toda tierra de Egipto.
+Y cubrió el ojo de toda la tierra, y se oscureció la tierra, y comió toda hierba de la tierra y todo fruto del árbol que dejó el granizo, y no quedó verdor alguno en el árbol y en hierba del campo en toda tierra de Egipto.
 
 ### 10:16
 
@@ -1069,7 +1069,7 @@ Y se apresuró Faraón a llamar a Moisés y a Aarón, y dijo: He pecado a Jehov�
 
 ### 10:17
 
-Y ahora, alza ahora mi pecado solo esta vez, e intercedan a Jehová su Dios, y quite de sobre mí solo esta muerte.
+Y ahora, alza, por favor, mi pecado solo esta vez, e intercedan a Jehová su Dios, y quite de sobre mí solo esta muerte.
 
 ### 10:18
 
@@ -1077,7 +1077,7 @@ Y salió de con Faraón, e intercedió a Jehová.
 
 ### 10:19
 
-Y volvió Jehová viento de mar fuerte mucho, y alzó la langosta, y la empujó hacia mar de Suf; no quedó langosta una en todo límite de Egipto.
+Y volvió Jehová viento de mar fuerte mucho, y alzó la langosta, y la empujó hacia mar de junco; no quedó langosta una en todo límite de Egipto.
 
 ### 10:20
 
@@ -1105,7 +1105,7 @@ Y dijo Moisés: También tú darás en nuestra mano sacrificios y holocaustos, y
 
 ### 10:26
 
-Y también nuestro ganado irá con nosotros; no quedará pezuña, porque de él tomaremos para servir a Jehová nuestro Dios, y nosotros no conocemos qué serviremos a Jehová hasta nuestro venir allá.
+Y también nuestro ganado irá con nosotros; no quedará pezuña, porque de nosotros tomaremos para servir a Jehová nuestro Dios, y nosotros no conocemos qué serviremos a Jehová hasta nuestro venir allá.
 
 ### 10:27
 
@@ -1155,7 +1155,7 @@ Y descenderán todos tus siervos estos a mí y se postrarán a mí, diciendo: Sa
 
 ### 11:9
 
-Y dijo Jehová a Moisés: No oirá a ustedes Faraón, a fin de multiplicar mis prodigios en tierra de Egipto.
+Y dijo Jehová a Moisés: No oirá a ustedes Faraón, a fin de que se multipliquen mis prodigios en tierra de Egipto.
 
 ### 11:10
 
@@ -1173,11 +1173,11 @@ Este mes a ustedes cabeza de meses; primero él a ustedes a meses del año.
 
 ### 12:3
 
-Hablen a toda congregación de Israel, diciendo: En el diez a este mes, y tomen para ellos varón cordero a casa de padres, cordero a la casa.
+Hablen a toda congregación de Israel, diciendo: En el diez a este mes, y tomarán para ellos, cada uno, una res del rebaño a casa de padres, una res del rebaño a la casa.
 
 ### 12:4
 
-Y si mengua la casa de ser de cordero, y tomará él y su vecino el cercano a su casa en cuenta de almas; varón según boca de su comida contarán sobre el cordero.
+Y si mengua la casa de ser de res del rebaño, y tomará él y su vecino el cercano a su casa en cuenta de almas; varón según boca de su comida contarán sobre la res del rebaño.
 
 ### 12:5
 
@@ -1205,7 +1205,7 @@ Y no dejarán de él hasta mañana, y el restante de él hasta mañana en el fue
 
 ### 12:11
 
-Y así lo comerán: sus lomos ceñidos, sus sandalias en sus pies y su cayado en su mano, y lo comerán en prisa; Pésaj él a Jehová.
+Y así lo comerán: sus lomos ceñidos, sus sandalias en sus pies y su bastón en su mano, y lo comerán en prisa; pascua él a Jehová.
 
 ### 12:12
 
@@ -1245,11 +1245,11 @@ Todo fermentado no comerán; en todas sus moradas comerán panes ázimos.
 
 ### 12:21
 
-Y llamó Moisés a todos los ancianos de Israel, y dijo a ellos: Arrastren y tomen para ustedes rebaño a sus familias, y degüellen el Pésaj.
+Y llamó Moisés a todos los ancianos de Israel, y dijo a ellos: Saquen y tomen para ustedes rebaño a sus familias, y degüellen la Pascua.
 
 ### 12:22
 
-Y tomarán manojo de hisopo y mojarán en la sangre que en la palangana, y harán tocar al dintel y a las dos jambas de la sangre que en la palangana, y ustedes no saldrán varón de puerta de su casa hasta mañana.
+Y tomarán manojo de hisopo y mojarán en la sangre que en la palangana, y harán tocar de la sangre que en la palangana al dintel y a las dos jambas, y ustedes no saldrán varón de puerta de su casa hasta la mañana.
 
 ### 12:23
 
@@ -1261,7 +1261,7 @@ Y guardarán este asunto a estatuto a ti y a tus hijos hasta siempre.
 
 ### 12:25
 
-Y será que vengan a la tierra que dará Jehová a ustedes como que habló, y guardarán este servicio.
+Y será que vengan a la tierra que dará Jehová a ustedes como habló, y guardarán este servicio.
 
 ### 12:26
 
@@ -1269,7 +1269,7 @@ Y será que digan a ustedes sus hijos: ¿Qué este servicio a ustedes?
 
 ### 12:27
 
-Y dirán: Sacrificio de Pésaj él a Jehová, que pasó sobre casas de hijos de Israel en Egipto, en su herir a Egipto, y a nuestras casas libró. Y se inclinó el pueblo y se postró.
+Y dirán: Sacrificio de pascua él a Jehová, que pasó sobre casas de hijos de Israel en Egipto, en su herir a Egipto, y a nuestras casas libró. Y se inclinó el pueblo y se postraron.
 
 ### 12:28
 
@@ -1285,11 +1285,11 @@ Y se levantó Faraón de noche, él y todos sus siervos y todo Egipto, y fue cla
 
 ### 12:31
 
-Y llamó a Moisés y a Aarón de noche, y dijo: Levántense, salgan de medio de mi pueblo, también ustedes, también hijos de Israel, y vayan, sirvan a Jehová como su hablar.
+Y llamó a Moisés y a Aarón de noche, y dijo: Levántense, salgan de medio de mi pueblo, también ustedes, también hijos de Israel, y vayan, sirvan a Jehová como el hablar de ustedes.
 
 ### 12:32
 
-También su rebaño, también su ganado tomen como que hablaron, y vayan, y bendigan también a mí.
+También su rebaño, también su ganado tomen como hablaron, y vayan, y bendigan también a mí.
 
 ### 12:33
 
@@ -1297,7 +1297,7 @@ Y se fortaleció Egipto sobre el pueblo a apresurar a enviarlos desde la tierra,
 
 ### 12:34
 
-Y alzó el pueblo su masa antes de leudar; sus artesas atadas en sus mantos sobre su hombro.
+Y alzó el pueblo su masa antes de que leudara; sus artesas atadas en sus mantos sobre su hombro.
 
 ### 12:35
 
@@ -1309,7 +1309,7 @@ Y Jehová dio favor del pueblo en ojos de Egipto, y les prestaron, y despojaron 
 
 ### 12:37
 
-Y partieron hijos de Israel desde Raamses hacia Sucot, como seiscientos mil a pie los varones, aparte del pequeño.
+Y partieron hijos de Israel desde Raamses hacia Sucot, como seiscientos mil a pie los varones, aparte de pequeños.
 
 ### 12:38
 
@@ -1333,7 +1333,7 @@ Noche de guardias ella a Jehová, para sacarlos desde tierra de Egipto; ella est
 
 ### 12:43
 
-Y dijo Jehová a Moisés y Aarón: Este estatuto del Pésaj: todo hijo de extrañeza no comerá en él.
+Y dijo Jehová a Moisés y Aarón: Este estatuto de la pascua: todo hijo de extranjería no comerá en él.
 
 ### 12:44
 
@@ -1345,23 +1345,23 @@ Residente y asalariado no comerá en él.
 
 ### 12:46
 
-En casa una se comerá; no sacarás desde la casa de la carne afuera, y hueso no quebrarán en él.
+En casa una se comerá; no sacarás desde la casa, desde la carne, afuera, y hueso no quebrarán en él.
 
 ### 12:47
 
-Toda congregación de Israel lo harán.
+Toda la congregación de Israel lo harán.
 
 ### 12:48
 
-Y cuando peregrine contigo peregrino y haga Pésaj a Jehová, circuncídese a él todo macho, y entonces se acercará a hacerlo, y será como natural de la tierra; y todo incircunciso no comerá en él.
+Y cuando peregrine contigo peregrino y haga pascua a Jehová, circuncídese a él todo macho, y entonces se acerque a hacerlo, y será como natural de la tierra; y todo incircunciso no comerá en él.
 
 ### 12:49
 
-Torá una será al natural y al peregrino el peregrinante en medio de ustedes.
+Una ley será al natural y al peregrino el peregrinante en medio de ustedes.
 
 ### 12:50
 
-Y hicieron todos hijos de Israel; como que mandó Jehová a Moisés y a Aarón, así hicieron.
+Y hicieron todos los hijos de Israel; como mandó Jehová a Moisés y a Aarón, así hicieron.
 
 ### 12:51
 
@@ -1403,7 +1403,7 @@ Y declararás a tu hijo en el día aquel, diciendo: Por causa de esto hizo Jehov
 
 ### 13:9
 
-Y será a ti a señal sobre tu mano y a memorial entre tus ojos, a fin de que sea torá de Jehová en tu boca, porque con mano fuerte te sacó Jehová desde Egipto.
+Y será a ti a señal sobre tu mano y a memorial entre tus ojos, a fin de que sea ley de Jehová en tu boca, porque con mano fuerte te sacó Jehová desde Egipto.
 
 ### 13:10
 
@@ -1411,19 +1411,19 @@ Y guardarás este estatuto a su plazo, de días a días.
 
 ### 13:11
 
-Y será que te traiga Jehová a tierra del cananeo, como que juró a ti y a tus padres, y te la dé,
+Y será que te traerá Jehová a tierra del cananeo, como juró a ti y a tus padres, y te la dará,
 
 ### 13:12
 
-y harás pasar toda abertura de vientre a Jehová, y toda abertura de cría de ganado que sea a ti, los machos, a Jehová.
+y harás pasar todo primer nacido de vientre a Jehová, y todo primer nacido de cría de ganado que sea a ti, los machos, a Jehová.
 
 ### 13:13
 
-Y toda abertura de asno redimirás con cordero, y si no redimes, y le romperás la cerviz; y todo primogénito de hombre en tus hijos redimirás.
+Y todo primer nacido de asno redimirás con res del rebaño, y si no redimirás, y le romperás la cerviz; y todo primogénito de hombre en tus hijos redimirás.
 
 ### 13:14
 
-Y será que te pregunte tu hijo mañana, diciendo: ¿Qué esto? Y dirás a él: Con fuerza de mano nos sacó Jehová desde Egipto, desde casa de siervos.
+Y será que tu hijo te preguntará mañana, diciendo: ¿Qué *es* esto? Y le dirás: Con fuerza de mano nos sacó Jehová desde Egipto, desde casa de siervos.
 
 ### 13:15
 
@@ -1439,7 +1439,7 @@ Y fue en enviar Faraón al pueblo, y no los guió Dios camino de tierra de filis
 
 ### 13:18
 
-Y rodeó Dios al pueblo camino del desierto, mar de Suf; y armados subieron hijos de Israel desde tierra de Egipto.
+Y Dios hizo rodear al pueblo camino del desierto, mar de los juncos; y armados subieron hijos de Israel desde tierra de Egipto.
 
 ### 13:19
 
@@ -1493,7 +1493,7 @@ Y fortaleció Jehová el corazón de Faraón rey de Egipto, y persiguió detrás
 
 ### 14:9
 
-Y persiguieron Egipto detrás de ellos, y los alcanzaron acampados sobre el mar, todo caballo, carro de Faraón y sus jinetes y su ejército, sobre Pi Hajirot, delante de Baal Tsefon.
+Y persiguió Egipto detrás de ellos, y los alcanzaron acampados sobre el mar, todo caballo del carro de Faraón y sus jinetes y su ejército, sobre Pi Hajirot, delante de Baal Tsefon.
 
 ### 14:10
 
@@ -1505,7 +1505,7 @@ Y dijeron a Moisés: ¿Por falta de no haber sepulcros en Egipto nos tomaste a m
 
 ### 14:12
 
-¿No esta la palabra que hablamos a ti en Egipto, diciendo: Cesa de nosotros, y sirvamos a Egipto? Porque bueno a nosotros servir a Egipto más que nuestra muerte en el desierto.
+¿No *es* esta la palabra que hablamos a ti en Egipto, diciendo: Cesa de nosotros, y sirvamos a Egipto? Porque bueno a nosotros servir a Egipto más que morir nosotros en el desierto.
 
 ### 14:13
 
@@ -1521,7 +1521,7 @@ Y dijo Jehová a Moisés: ¿Qué clamas a mí? Habla a hijos de Israel, y partan
 
 ### 14:16
 
-Y tú, alza tu vara y extiende tu mano sobre el mar y rájalo, y entren hijos de Israel en medio del mar en la seca.
+Y tú, alza tu vara y extiende tu mano sobre el mar y rájalo, y entren hijos de Israel en medio del mar en la tierra seca.
 
 ### 14:17
 
@@ -1529,11 +1529,11 @@ Y yo, he aquí yo fortaleciendo el corazón de Egipto, y entrarán detrás de el
 
 ### 14:18
 
-Y conocerán Egipto que yo Jehová, en mi glorificarme en Faraón, en su carro y en sus jinetes.
+Y conocerá Egipto que yo Jehová, en mi glorificarme en Faraón, en su carro y en sus jinetes.
 
 ### 14:19
 
-Y partió ángel de Dios el andante delante del campamento de Israel, y fue detrás de ellos, y partió columna de la nube de delante de ellos y se paró detrás de ellos.
+Y partió ángel de Dios el andante delante del campamento de Israel, y fue de detrás de ellos, y partió columna de la nube de delante de ellos y se paró de detrás de ellos.
 
 ### 14:20
 
@@ -1545,7 +1545,7 @@ Y extendió Moisés su mano sobre el mar, e hizo ir Jehová al mar con viento de
 
 ### 14:22
 
-Y entraron hijos de Israel en medio del mar en la seca, y las aguas a ellos muro desde su derecha y desde su izquierda.
+Y entraron hijos de Israel en medio del mar en lo seco, y las aguas a ellos muro desde su derecha y desde su izquierda.
 
 ### 14:23
 
@@ -1553,7 +1553,7 @@ Y persiguieron Egipto, y entraron detrás de ellos todo caballo de Faraón, su c
 
 ### 14:24
 
-Y fue en vigilia de la mañana, y miró Jehová hacia campamento de Egipto en columna de fuego y nube, y turbó el campamento de Egipto.
+Y fue en vigilia de la mañana, y miró Jehová hacia el campamento de Egipto en columna de fuego y nube, y turbó el campamento de Egipto.
 
 ### 14:25
 
@@ -1581,7 +1581,7 @@ Y salvó Jehová en el día aquel a Israel de mano de Egipto, y vio Israel a Egi
 
 ### 14:31
 
-Y vio Israel la mano grande que hizo Jehová en Egipto, y temió el pueblo a Jehová, y creyeron en Jehová y en Moisés su siervo.
+Y vio Israel la mano grande que hizo Jehová en Egipto, y temieron el pueblo a Jehová, y creyeron en Jehová y en Moisés su siervo.
 
 ## Capítulo 15
 
@@ -1607,7 +1607,7 @@ Abismos los cubren; descendieron en honduras como piedra.
 
 ### 15:6
 
-Tu derecha, Jehová, gloriosa en la fuerza; tu derecha, Jehová, quiebra al enemigo.
+Tu derecha, Jehová, gloriosa en la fuerza; tu derecha, Jehová, quebrará a enemigo.
 
 ### 15:7
 
@@ -1627,7 +1627,7 @@ Soplaste con tu viento, los cubrió mar; se hundieron como plomo en aguas podero
 
 ### 15:11
 
-¿Quién como tú entre los dioses, Jehová? ¿Quién como tú, glorioso en santidad, temible de alabanzas, hacedor de maravilla?
+¿Quién como tú entre los dioses, Jehová? ¿Quién como tú, glorioso en santidad, temible en alabanzas, hacedor de maravilla?
 
 ### 15:12
 
@@ -1635,11 +1635,11 @@ Extendiste tu derecha, los traga tierra.
 
 ### 15:13
 
-Guiaste en tu misericordia al pueblo este que redimiste; conduciste en tu fuerza a morada de tu santidad.
+Guiaste en tu misericordia al pueblo que redimiste; conduciste en tu fuerza a morada de tu santidad.
 
 ### 15:14
 
-Oyeron pueblos, tiemblan; temblor agarró a moradores de Peléshet.
+Oyeron pueblos, tiemblan; estremecimiento agarró a los moradores de Peléshet.
 
 ### 15:15
 
@@ -1701,7 +1701,7 @@ Y partieron desde Elim, y vinieron toda congregación de hijos de Israel a desie
 
 ### 16:2
 
-Y murmuraron toda congregación de hijos de Israel sobre Moisés y sobre Aarón en el desierto.
+Toda congregación de hijos de Israel sobre Moisés y sobre Aarón en el desierto.
 
 ### 16:3
 
@@ -1709,7 +1709,7 @@ Y dijeron a ellos hijos de Israel: ¡Quién diera muerte nuestra en mano de Jeho
 
 ### 16:4
 
-Y dijo Jehová a Moisés: He aquí yo haciendo llover a ustedes pan desde los cielos, y saldrá el pueblo y recogerán cosa de día en su día, a fin de que lo pruebe si andará en mi torá o no.
+Y dijo Jehová a Moisés: He aquí yo haciendo llover a ustedes pan desde los cielos, y saldrá el pueblo y recogerán cosa de día en su día, a fin de que lo pruebe si andará en mi ley o no.
 
 ### 16:5
 
@@ -1761,7 +1761,7 @@ Esta la palabra que mandó Jehová: Recojan de él varón según boca de su come
 
 ### 16:17
 
-Y hicieron así hijos de Israel, y recogieron el que mucho y el que poco.
+Y hicieron así hijos de Israel, y recogieron el que aumentaba y el que disminuía.
 
 ### 16:18
 
@@ -1769,7 +1769,7 @@ Y midieron con el ómer, y no sobró el que mucho, y el que poco no faltó; var�
 
 ### 16:19
 
-Y dijo Moisés a ellos: Varón, no deje sobrar de él hasta mañana.
+Y dijo Moisés a ellos: Varón no deje sobrar de nosotros hasta la mañana.
 
 ### 16:20
 
@@ -1793,7 +1793,7 @@ Y lo depusieron hasta la mañana conforme a lo que mandó Moisés, y no hedió, 
 
 ### 16:25
 
-Y dijo Moisés: Cómanlo hoy, porque shabat hoy a Jehová; hoy no lo hallarán en el campo.
+Y dijo Moisés: Cómanlo hoy, porque sábado hoy a Jehová; hoy no lo hallarán en el campo.
 
 ### 16:26
 
@@ -1805,11 +1805,11 @@ Y fue en el día el séptimo, salieron de entre el pueblo a recoger, y no hallar
 
 ### 16:28
 
-Y dijo Jehová a Moisés: ¿Hasta cuándo ustedes se niegan a guardar mis mandamientos y mis torás?
+Y dijo Jehová a Moisés: ¿Hasta cuándo ustedes se niegan a guardar mis mandamientos y mis leyes?
 
 ### 16:29
 
-Vean que Jehová dio a ustedes el shabat; por eso él dando a ustedes en el día el sexto pan de dos días; siéntense varón debajo de sí, no salga varón desde su lugar en el día el séptimo.
+Vean que Jehová dio a ustedes el sábado; por eso él dando a ustedes en el día el sexto pan de dos días; siéntense varón debajo de sí, no salga varón desde su lugar en el día el séptimo.
 
 ### 16:30
 
@@ -1833,7 +1833,7 @@ Conforme a lo que mandó Jehová a Moisés, así lo depuso Aarón delante del te
 
 ### 16:35
 
-E hijos de Israel comieron el man cuarenta año hasta su venir a tierra habitada; el man comieron hasta su venir a extremo de tierra de Canaán.
+E hijos de Israel comieron el maná cuarenta año hasta su venir a tierra habitada; el maná comieron hasta su venir a extremo de tierra de Canaán.
 
 ### 16:36
 

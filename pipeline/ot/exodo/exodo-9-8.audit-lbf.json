@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:8",
+  "chapter": 9,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés y a Aarón: Tomen para ustedes lleno de sus puños hollín de horno, y lo esparcirá Moisés hacia los cielos a ojos de Faraón.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009008009",
+        "h02009008010",
+        "h02009008011"
+      ],
+      "issue": "«lleno de sus puños hollín» follows the construct order, but Spanish «lleno de» reads as an adjective and makes the hands the contents; מְלֹא חָפְנֵיכֶם is the fill measured by the hands, and פִּיחַ is the material.",
+      "spanishSpan": "lleno de sus puños hollín"
+    }
+  ],
+  "notes": "2mp take and the 2mp suffixes stay with ustedes; only Moisés throws.",
+  "discardedUncitedFindings": 0
+}

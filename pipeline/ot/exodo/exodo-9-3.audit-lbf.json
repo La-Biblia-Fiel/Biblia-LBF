@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:3",
+  "chapter": 9,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "he aquí mano de Jehová siendo en tu ganado que en el campo, en los caballos, en los asnos, en los camellos, en el ganado vacuno y en el rebaño, peste pesada mucho.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009003014"
+      ],
+      "issue": "כָּבֵד is a masculine singular adjective with דֶּבֶר; pesada is feminine so it agrees with Spanish peste. Same quality, grammatical gender smoothing only.",
+      "spanishSpan": "pesada"
+    }
+  ],
+  "notes": "הִנֵּה, mano de Jehová, qal participle siendo, 2ms tu ganado, אשר en el campo, the ב lists, ו only before el rebaño, and peste … mucho match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:28",
+  "chapter": 9,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Intercedan a Jehová, y bastante de ser voces de Dios y granizo, y enviaré a ustedes, y no añadirán estar.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009028009"
+      ],
+      "issue": "Piel cohortativo de 1cs queda en futuro simple; persona, número y enviar se mantienen.",
+      "spanishSpan": "enviaré"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02009028013"
+      ],
+      "issue": "Infinitivo qal de estar en pie/permanecer queda en el genérico estar.",
+      "spanishSpan": "estar"
+    }
+  ],
+  "notes": "Intercedan y añadirán son 2pl de ustedes; voces plural y Dios quedan dentro de los tokens.",
+  "discardedUncitedFindings": 0
+}

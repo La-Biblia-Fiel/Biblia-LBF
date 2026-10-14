@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 9:6",
+  "chapter": 9,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo Jehová este asunto de mañana, y murió todo ganado de Egipto, y del ganado de hijos de Israel no murió uno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02009006006"
+      ],
+      "issue": "מִמָּחֳרָת is the preposition plus the next-day noun marking when the act happened. “de mañana” reads as in the morning, or as a matter of tomorrow, and does not say on the following day.",
+      "spanishSpan": "de mañana"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens, including Jehová, Egipto, and the two 3ms death verbs.",
+  "discardedUncitedFindings": 0
+}
