@@ -1,0 +1,67 @@
+{
+  "schema_version": "0.1.0",
+  "original_spent_input_tokens": 0,
+  "records": [
+    {
+      "case_id": "explicit_prediction",
+      "status": "succeeded",
+      "file": "explicit_prediction.bbfd64a884add3ab735532533897f197f09ea06228e539f8b238ea741fc8c92c.json",
+      "request_fingerprint": "bbfd64a884add3ab735532533897f197f09ea06228e539f8b238ea741fc8c92c",
+      "usage": {
+        "input_tokens": 13170,
+        "output_tokens": 3459
+      },
+      "elapsed_ms": 583,
+      "error": null
+    },
+    {
+      "case_id": "ordinary_narrative",
+      "status": "succeeded",
+      "file": "ordinary_narrative.5f2aa7bd3dc68b4dd30fe3ba04fbade4f6b771fc438dd26cd4043909e795961f.json",
+      "request_fingerprint": "5f2aa7bd3dc68b4dd30fe3ba04fbade4f6b771fc438dd26cd4043909e795961f",
+      "usage": {
+        "input_tokens": 2963,
+        "output_tokens": 588
+      },
+      "elapsed_ms": 213,
+      "error": null
+    },
+    {
+      "case_id": "poetry",
+      "status": "succeeded",
+      "file": "poetry.0f8a501811c1b1b1bf232e1147f9741e20a8ea352cb682c521de60f6aa8ce4e3.json",
+      "request_fingerprint": "0f8a501811c1b1b1bf232e1147f9741e20a8ea352cb682c521de60f6aa8ce4e3",
+      "usage": {
+        "input_tokens": 8268,
+        "output_tokens": 1953
+      },
+      "elapsed_ms": 318,
+      "error": null
+    },
+    {
+      "case_id": "cross_chapter_prediction_context",
+      "status": "succeeded",
+      "file": "cross_chapter_prediction_context.42c09036f12ee66c720d7b526c980b51c2a6dda27cbdcd57ce7b87ba48ddde9f.json",
+      "request_fingerprint": "42c09036f12ee66c720d7b526c980b51c2a6dda27cbdcd57ce7b87ba48ddde9f",
+      "usage": {
+        "input_tokens": 13111,
+        "output_tokens": 3459
+      },
+      "elapsed_ms": 297,
+      "error": null
+    }
+  ],
+  "execution_summary": {
+    "representative_batch": true,
+    "records_directory": "/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/var/openrouter-jev-candidate-scan-representative-v0.1.0",
+    "attempted_at": "2026-10-07T17:46:43.113Z",
+    "windows_attempted": 4,
+    "successful_windows": 4,
+    "actual_input_tokens": 37512,
+    "actual_output_tokens": 9459,
+    "actual_input_tokens_per_successful_window": 9378,
+    "updated_corpus_input_projection": 39800232,
+    "projection_limitation": "Extrapolated from four heterogeneous representative windows; it is not a whole-corpus tokenizer count.",
+    "failures": []
+  }
+}

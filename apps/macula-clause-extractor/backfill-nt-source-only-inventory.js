@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { inventoryDisposition } from "./src/candidate-scan.js";
+const dir="var/openrouter-jev-nt-source-only-v0.1.0",out="var/nt-source-only-inventory-v0.1.0.json";
+const index=JSON.parse(await readFile(`${dir}/index.json`,"utf8").catch(()=>'{"attempts":[]}'));
+const entries=[];for(const attempt of index.attempts.filter(x=>x.status==="succeeded")){const r=JSON.parse(await readFile(`${dir}/${attempt.file}`,"utf8"));for(const [qid,a] of Object.entries(r.raw_response.answers||{})){const t=r.exact_api_request.state.targets[Number(qid.slice(1))];if(!t)continue;const d=inventoryDisposition(a);entries.push({stable_target_id:t.span_ids[0],reference:t.reference,target_kind:"source_only_span",annotation_status:"unavailable",source_text:t.source_text,span_ids:t.span_ids,assessment:a.choice,probability:a.probabilities[a.choice],probabilities:a.probabilities,disposition:d,request_fingerprint:r.request_fingerprint,record_file:attempt.file});}}
+const unique=Object.values(Object.fromEntries(entries.map(x=>[x.stable_target_id,x])));for(const item of unique)if(item.reference==="MAT.1.24")item.review_flags=["narrative_content_review: model-selected candidate preserved; inspect whether narration was confused with predictive content"];
+const report={schema_version:"0.1.0",coverage:{assessed_spans:unique.length,candidate:unique.filter(x=>x.disposition==="candidate").length,review:unique.filter(x=>x.disposition==="review_queue"||x.review_flags?.length).length,processed:unique.filter(x=>x.disposition==="not_candidate").length},entries:unique};await mkdir("var",{recursive:true});await writeFile(out,JSON.stringify(report,null,2)+"\n");console.log(JSON.stringify(report.coverage));

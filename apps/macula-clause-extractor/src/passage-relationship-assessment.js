@@ -2,7 +2,7 @@ import { createHash } from "node:crypto";
 import { buildIsaiahPassageRelationships, validateIsaiahPassageRelationships } from "./passage-relationships.js";
 
 const hash = value => createHash("sha256").update(JSON.stringify(value)).digest("hex");
-export const RELATIONSHIP_ASSESSMENT_VERSION = "0.1.0";
+export const RELATIONSHIP_ASSESSMENT_VERSION = "0.2.0";
 export const relationshipChoices = {
   establishes_announcement_anchor: "The source statement establishes a predictive announcement anchor within the supplied selected window. This is a discourse-function judgment, not a certification of truth.",
   contributes_to_announcement_anchor: "The source statement contributes to the identified proposed announcement anchor within the supplied window, without itself establishing that anchor.",
@@ -22,13 +22,14 @@ const compactStatement = statement => statement && ({
 
 function stateRelationship(item) {
   return {
-    relationship_id: `relationship:${item.source.proposition_id}:${item.relationship_type}`,
+    // This identifier is deliberately neutral: future model requests must not
+    // leak a local relationship label through an ID or a field name.
+    relationship_id: `relationship:${item.source.proposition_id}:${item.target?.proposition_id || "window_anchor"}`,
     source_statement: compactStatement(item.source),
-    proposed_anchor_connection: compactStatement(item.target),
-    proposed_local_relationship: item.relationship_type,
+    anchor_hypothesis: compactStatement(item.target),
     governing_scope: item.governing_scope,
     source_ids_for_connection: item.connection_source_ids,
-    hypothesis_boundary: "The proposed local relationship is a hypothesis to evaluate, not an expected answer. Evaluation scope and first-person plural wording do not predetermine an answer."
+    hypothesis_boundary: "The source statement and anchor hypothesis are supplied for evaluation. Evaluation scope and first-person plural wording do not predetermine a category."
   };
 }
 
@@ -45,11 +46,11 @@ export async function buildIsaiahRelationshipAssessment(repoRoot) {
       selected_discourse_window: graph.selected_discourse_window,
       source_window: graph.source_window,
       relationship_hypotheses: hypotheses,
-      evidence_boundary: "Canonical source text and grammatical scope are evidence. Local relationship proposals are hypotheses, not answers. Existing Jev judgments are intentionally not included."
+      evidence_boundary: "Canonical source text, grammatical scope, neutral statement targets, and anchor hypotheses are evidence. Local labels and target-specific expected classifications are intentionally not included. Existing Jev judgments are intentionally not included."
     },
     questions: Object.fromEntries(hypotheses.map(item => [`${item.relationship_id}:assessment`, {
       type: "choice",
-      instructions: `Evaluate the relationship of ${item.source_statement.proposition_id} within the supplied Isaiah 52:13–53:12 window. The proposed anchor connection and local relationship are hypotheses only. Preserve the supplied governing scope: content governed by an evaluation remains governed, but that scope alone does not decide whether the governing act contributes. First-person plural wording alone does not decide a relationship. Choose relationship_underdetermined when the supplied evidence does not distinguish the choices.`,
+      instructions: `Evaluate the relationship of ${item.source_statement.proposition_id} to the supplied anchor hypothesis within the Isaiah 52:13–53:12 window. Preserve the supplied governing scope: content governed by an evaluation remains governed, but that scope alone does not decide whether the governing act contributes. First-person plural wording alone does not decide a relationship. Choose relationship_underdetermined when the supplied evidence does not distinguish the choices.`,
       criteria: relationshipChoices
     }]))
   };
@@ -71,9 +72,16 @@ export function validateIsaiahRelationshipAssessment(dryRun) {
   if (payload.state.selected_discourse_window?.reference !== "Isaiah 52:13–53:12") errors.push("wrong_window");
   if (payload.state.relationship_hypotheses?.length !== 12 || Object.keys(payload.questions || {}).length !== 12) errors.push("wrong_relationship_question_count");
   for (const item of Object.values(payload.questions || {})) if (item.type !== "choice" || !item.criteria?.relationship_underdetermined) errors.push("invalid_question");
-  const serialized = JSON.stringify(payload);
-  if (serialized.includes("expected_outcomes") || serialized.includes("local_record")) errors.push("local_answers_leaked_to_payload");
-  if (!serialized.includes("Evaluation scope and first-person plural wording do not predetermine an answer.")) errors.push("missing_scope_and_person_guard");
+  const forbiddenKeys = new Set(["proposed_local_relationship", "expected_outcomes", "expected_answer", "expected_relationship", "expected_classification"]);
+  const payloadKeys = [];
+  const visit = value => {
+    if (!value || typeof value !== "object") return;
+    for (const [key, child] of Object.entries(value)) { payloadKeys.push(key); visit(child); }
+  };
+  visit(payload);
+  if (payloadKeys.some(key => forbiddenKeys.has(key))) errors.push("local_labels_or_expected_classifications_leaked_to_payload");
+  if (Object.keys(payload.questions || {}).some(id => /proposed_|surrounding_or_other|unresolved_relationship/iu.test(id))) errors.push("classification_leaked_through_question_id");
+  if (!JSON.stringify(payload).includes("Evaluation scope and first-person plural wording do not predetermine a category.")) errors.push("missing_scope_and_person_guard");
   if (!local_record.request_fingerprint || local_record.hypothesis_count !== 12) errors.push("missing_local_audit_data");
   return { ok: errors.length === 0, errors };
 }

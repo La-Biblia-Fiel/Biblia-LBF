@@ -62,27 +62,49 @@ async function oneKingsVerificationResults() {
 }
 async function passageRelationships() {
   const graph = await buildIsaiahPassageRelationships(repoRoot);
-  const response = { ...graph, validation: validateIsaiahPassageRelationships(graph), relationship_assessment: { status: "missing_saved_result", judgments: {} } };
-  const directory = join(appRoot, "var", "openrouter-jev-passage-relationships-v0.1.0");
-  let index;
-  try { index = JSON.parse(await readFile(join(directory, "index.json"), "utf8")); } catch (error) {
-    if (error.code === "ENOENT") return response;
-    throw error;
-  }
-  const attempt = index.attempts.filter(item => item.status === "succeeded").at(-1);
-  if (!attempt) return response;
-  const record = JSON.parse(await readFile(join(directory, attempt.file), "utf8"));
+  const response = { ...graph, validation: validateIsaiahPassageRelationships(graph) };
   const expectedChoice = type => ({ proposed_establishes_predictive_announcement: "establishes_announcement_anchor", proposed_contributes_to_announcement: "contributes_to_announcement_anchor", surrounding_or_other_content: "surrounding_or_other_content", unresolved_relationship: "relationship_underdetermined" })[type];
-  response.relationship_assessment = {
-    status: "saved_model_judgment",
-    boundary: "Jev distributions are model judgments, not canonical facts or supporting rationales. They assess the local hypotheses but do not overwrite them.",
+  const neutralId = item => `relationship:${item.source.proposition_id}:${item.target?.proposition_id || "window_anchor"}:assessment`;
+  const labelledId = item => `relationship:${item.source.proposition_id}:${item.relationship_type}:assessment`;
+  const latest = async directory => {
+    try {
+      const index = JSON.parse(await readFile(join(directory, "index.json"), "utf8"));
+      const attempt = index.attempts.filter(item => item.status === "succeeded").at(-1);
+      return attempt ? JSON.parse(await readFile(join(directory, attempt.file), "utf8")) : null;
+    } catch (error) { if (error.code === "ENOENT") return null; throw error; }
+  };
+  const summarize = (record, { idFor, audit } = {}) => !record ? { status: "missing_saved_result", judgments: {} } : {
+    status: "saved_model_judgment", frozen: true,
+    boundary: "Jev distributions are model judgments, not canonical facts or supporting rationales.",
     model: { requested: record.requested_model, served: record.served_model, provider: record.provider, request_fingerprint: record.request_fingerprint, usage: record.usage, elapsed_ms: record.elapsed_ms, validation: record.response_validation },
+    payload_audit: audit,
     judgments: Object.fromEntries(graph.relationships.map(item => {
-      const id = `relationship:${item.source.proposition_id}:${item.relationship_type}:assessment`, result = record.raw_response?.answers?.[id] || null, proposed = expectedChoice(item.relationship_type);
-      return [id, result ? { selected_answer: result.choice, probabilities: result.probabilities, reported_confidence: result.confidence, agrees_with_local_proposal: result.choice === proposed } : null];
+      const result = record.raw_response?.answers?.[idFor(item)] || null, proposed = expectedChoice(item.relationship_type);
+      return [neutralId(item), result ? { selected_answer: result.choice, probabilities: result.probabilities, reported_confidence: result.confidence, agrees_with_local_proposal: result.choice === proposed, source_and_scope_review_required: item.source.proposition_id === "isa_53_07_2305300700110013_p1" } : null];
     }))
   };
+  const labelledRecord = await latest(join(appRoot, "var", "openrouter-jev-passage-relationships-v0.1.0"));
+  const neutralRecord = await latest(join(appRoot, "var", "openrouter-jev-passage-relationships-v0.2.0"));
+  const labelledPayload = JSON.stringify(labelledRecord?.exact_api_request || {});
+  response.relationship_assessments = {
+    labelled_pilot_v0_1: summarize(labelledRecord, { idFor: labelledId, audit: labelledRecord ? { finding: labelledPayload.includes("proposed_local_relationship") ? "The saved v0.1 request included local proposed relationship labels as hypotheses. Expected answers were excluded." : "The saved v0.1 request excluded labels and expected answers." } : null }),
+    neutral_followup_v0_2: summarize(neutralRecord, { idFor: neutralId, audit: neutralRecord ? { finding: "The v0.2 neutral payload passed its local separation check before inference." } : null })
+  };
+  response.relationship_assessment = response.relationship_assessments.labelled_pilot_v0_1;
   return response;
+}
+async function candidateScanResults(url) {
+  const ledger = JSON.parse(await readFile(join(appRoot, "var", "candidate-scan-v0.1.0", "ledger.json"), "utf8"));
+  const query = (url.searchParams.get("q") || "").trim().toLocaleLowerCase();
+  const status = url.searchParams.get("status") || "all";
+  const matches = item => {
+    const haystack = `${item.reference} ${item.statement_id} ${item.source_text} ${item.classification}`.toLocaleLowerCase();
+    return !query || haystack.includes(query);
+  };
+  const candidates = ledger.candidates.filter(item => matches(item) && (status === "all" || status === "candidate" || item.classification === status));
+  const review_queue = (ledger.review_queue || []).filter(item => matches(item) && (status === "all" || status === "review" || item.classification === status));
+  const missingFallbacks = ledger.verses.filter(item => item.macula_annotation.status !== "available").map(item => ({ reference: item.reference, verse_id: item.verse_id, macula_annotation: item.macula_annotation, source_text_fallback: item.source_text_fallback }));
+  return { scan_kind: ledger.scan_kind, coverage_boundary: ledger.coverage_boundary, source_roster: ledger.source_roster, inventory_policy: ledger.inventory_policy, coverage_summary: ledger.coverage_summary, checkpoint: ledger.checkpoint, spending_cap: ledger.spending_cap, cap_preflight: ledger.cap_preflight, bounded_run: ledger.bounded_run, projection: ledger.projection, representative_batch_outcome: ledger.representative_batch_outcome, ledger_reconciliation: ledger.ledger_reconciliation, representative_batch: { requests: ledger.representative_batch.requests.length, token_estimate: ledger.representative_batch.token_estimate, payload_breakdown: ledger.representative_batch.payload_breakdown, mode: ledger.representative_batch.mode }, review_queue, missing_or_unmapped_macula: missingFallbacks, query: { q: query, status }, candidates };
 }
 createServer(async (request, response) => {
   const url = new URL(request.url || "/", "http://127.0.0.1");
@@ -116,6 +138,7 @@ createServer(async (request, response) => {
     if (url.pathname === "/api/passage-candidate-results") return send(response, 200, JSON.stringify(await candidateResults()), "application/json; charset=utf-8");
     if (url.pathname === "/api/one-kings-verification-results") return send(response, 200, JSON.stringify(await oneKingsVerificationResults()), "application/json; charset=utf-8");
     if (url.pathname === "/api/passage-relationships") return send(response, 200, JSON.stringify(await passageRelationships()), "application/json; charset=utf-8");
+    if (url.pathname === "/api/candidate-scan") return send(response, 200, JSON.stringify(await candidateScanResults(url)), "application/json; charset=utf-8");
     const pathname = url.pathname === "/" ? "/public/index.html" : `/public${url.pathname}`;
     const path = fileURLToPath(new URL(`.${pathname}`, import.meta.url));
     if (!path.startsWith(appRoot) || !(await stat(path)).isFile()) return send(response, 404, "Not found");

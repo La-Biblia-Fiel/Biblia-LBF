@@ -10,6 +10,8 @@ const appRoot = fileURLToPath(new URL(".", import.meta.url));
 const repoRoot = fileURLToPath(new URL("../..", import.meta.url));
 const recordsDirectory = join(appRoot, "var", "openrouter-jev-passage-relationships-v0.1.0");
 const readJson = async (path, fallback) => { try { return JSON.parse(await readFile(path, "utf8")); } catch (error) { if (error.code === "ENOENT") return fallback; throw error; } };
+const freeze = await readJson(join(recordsDirectory, "FREEZE.json"), null);
+if (freeze?.status === "frozen") { console.log(`frozen\t${freeze.reason || "No further Jev calls are permitted for this pilot."}`); process.exit(0); }
 const env = await readFile(join(appRoot, ".env"), "utf8").catch(error => error.code === "ENOENT" ? "" : Promise.reject(error));
 const key = process.env.OPENROUTER_API_KEY || env.match(/^OPENROUTER_API_KEY=(.+)$/mu)?.[1]?.trim();
 if (!key) throw new Error("No OPENROUTER_API_KEY found in the local .env or environment.");

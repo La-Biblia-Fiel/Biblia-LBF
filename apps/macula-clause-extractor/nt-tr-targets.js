@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+/** Build coverage targets from authoritative Unicode TR; no inference. */
+import { readFile, mkdir, writeFile } from "node:fs/promises";
+import { sourceOnlyTarget, validateSourceOnlyTarget } from "./src/annotation-transfer-gate.js";
+const tr=(await readFile("../../source/greek/TR1894/tr1894.txt","utf8")).trim().split("\n").slice(1).map(line=>{const[, ,reference,text]=line.split("@");const tokens=(text.match(/\p{L}+/gu)||[]).map((surface,i)=>({id:`tr1894:${reference}:${i+1}`,surface}));return{reference,tokens}});
+const audit=JSON.parse(await readFile("var/nt-alignment/unicode-tr1894-macula-coverage.json","utf8"));
+const divergent=new Set(Object.values(audit.macula_forms).flatMap(form=>(form.examples||[]).map(x=>x.ref)));
+const targets=tr.map(verse=>sourceOnlyTarget({reference:verse.reference,tokens:verse.tokens,reason:divergent.has(verse.reference)?"textual_difference_or_unvalidated_structure":"structure_not_yet_transfer_validated"}));
+const ids=targets.flatMap(t=>t.span_ids), report={schema_version:"0.1.0",authoritative_text:"TR1894",target_kind:"source_only_span_not_proposition",verse_count:tr.length,token_count:ids.length,unique_token_count:new Set(ids).size,duplicate_token_ids:ids.length-new Set(ids).size,targets,validation:{all_source_only:targets.every(t=>validateSourceOnlyTarget(t).ok),every_tr_verse_represented:targets.length===tr.length,all_tokens_accounted_for:ids.length===new Set(ids).size},inference_status:"blocked: source-only targets are coverage records, not proposition targets; a validated structural extractor is still required"};await mkdir("var/nt-alignment",{recursive:true});await writeFile("var/nt-alignment/tr1894-coverage-targets.json",JSON.stringify(report,null,2)+"\n");console.log(JSON.stringify({verse_count:report.verse_count,token_count:report.token_count,validation:report.validation,inference_status:report.inference_status}));
