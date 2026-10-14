@@ -1,0 +1,28 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:15",
+  "chapter": 1,
+  "verse": 15,
+  "candidateLabel": "pulir",
+  "spanish": "Y dijo el rey de Egipto a las que hacen dar a luz, las hebreas, que el nombre de la una era Shifrá, y el nombre de la segunda era Puá:",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001015007",
+        "h02001015008",
+        "h02001015009",
+        "h02001015010",
+        "h02001015011",
+        "h02001015012"
+      ],
+      "issue": "Spanish inserts copula era into Hebrew nominal naming clauses",
+      "spanishSpan": "era"
+    }
+  ],
+  "notes": "Apposition of midwives and Hebrew women, names, and repetition of nombre match the tokens.",
+  "discardedUncitedFindings": 0
+}

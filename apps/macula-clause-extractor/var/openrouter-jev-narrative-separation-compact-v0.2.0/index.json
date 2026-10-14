@@ -1,0 +1,248 @@
+{
+  "schema_version": "0.2.0",
+  "attempts": [
+    {
+      "request_fingerprint": "ed20093b02532929476e052e99919491b7feaea5e3126f63b814c289e8f3b43d",
+      "status": "malformed_response",
+      "file": "one-kings-13-narrative-separation-compact.ed20093b02532929476e052e99919491b7feaea5e3126f63b814c289e8f3b43d.json",
+      "attempted_at": "2026-10-08T23:16:24.466Z",
+      "served_model": null,
+      "usage": {
+        "input_tokens": null,
+        "output_tokens": null
+      },
+      "control_comparison": {
+        "observations": [
+          {
+            "permanent_question_id": "broad:book_13_01_1101300100210100_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "isolated:book_13_01_1101300100210100_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "broad:book_13_01_1101300101120070_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "isolated:book_13_01_1101300101120070_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "broad:book_13_01_1101300101520013_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "isolated:book_13_01_1101300101520013_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "broad:book_13_02_1101300201310050_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "broad:book_13_02_1101300201920110_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "broad:book_13_02_1101300202620050_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "broad:book_13_03_1101300301210030_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          },
+          {
+            "permanent_question_id": "broad:book_13_03_1101300301420060_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": null,
+            "probabilities": null,
+            "pass": false
+          }
+        ],
+        "narrative_separation_pass": false,
+        "prediction_detection_pass": false
+      }
+    },
+    {
+      "request_fingerprint": "35c2d30c6b0580133a98914cbf8be2a472d05d7abda23d13a2c2113e0cc9f80b",
+      "status": "succeeded",
+      "file": "one-kings-13-narrative-separation-compact.35c2d30c6b0580133a98914cbf8be2a472d05d7abda23d13a2c2113e0cc9f80b.json",
+      "attempted_at": "2026-10-08T23:32:45.526Z",
+      "served_model": "typesafe/jev-1.13-20260917",
+      "usage": {
+        "input_tokens": 8498,
+        "output_tokens": 1496
+      },
+      "control_comparison": {
+        "observations": [
+          {
+            "permanent_question_id": "broad:book_13_01_1101300100210100_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": "no_support_in_supplied_context",
+            "probabilities": {
+              "supported_candidate": 0.1,
+              "possible_candidate": 0.01,
+              "no_support_in_supplied_context": 0.79,
+              "underdetermined": 0.1
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "isolated:book_13_01_1101300100210100_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": "no_support_in_supplied_context",
+            "probabilities": {
+              "supported_candidate": 0.15,
+              "possible_candidate": 0.02,
+              "no_support_in_supplied_context": 0.69,
+              "underdetermined": 0.14
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "broad:book_13_01_1101300101120070_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": "no_support_in_supplied_context",
+            "probabilities": {
+              "supported_candidate": 0.22,
+              "possible_candidate": 0.03,
+              "no_support_in_supplied_context": 0.6,
+              "underdetermined": 0.15
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "isolated:book_13_01_1101300101120070_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": "no_support_in_supplied_context",
+            "probabilities": {
+              "supported_candidate": 0.3,
+              "possible_candidate": 0.04,
+              "no_support_in_supplied_context": 0.5,
+              "underdetermined": 0.16
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "broad:book_13_01_1101300101520013_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": "no_support_in_supplied_context",
+            "probabilities": {
+              "supported_candidate": 0.19,
+              "possible_candidate": 0.03,
+              "no_support_in_supplied_context": 0.63,
+              "underdetermined": 0.15
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "isolated:book_13_01_1101300101520013_p1:candidate_assessment",
+            "expected": "no_support_in_supplied_context",
+            "observed": "no_support_in_supplied_context",
+            "probabilities": {
+              "supported_candidate": 0.14,
+              "possible_candidate": 0.02,
+              "no_support_in_supplied_context": 0.66,
+              "underdetermined": 0.18
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "broad:book_13_02_1101300201310050_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": "supported_candidate",
+            "probabilities": {
+              "supported_candidate": 0.44,
+              "possible_candidate": 0.05,
+              "no_support_in_supplied_context": 0.34,
+              "underdetermined": 0.17
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "broad:book_13_02_1101300201920110_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": "supported_candidate",
+            "probabilities": {
+              "supported_candidate": 0.55,
+              "possible_candidate": 0.05,
+              "no_support_in_supplied_context": 0.25,
+              "underdetermined": 0.15
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "broad:book_13_02_1101300202620050_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": "supported_candidate",
+            "probabilities": {
+              "supported_candidate": 0.58,
+              "possible_candidate": 0.04,
+              "no_support_in_supplied_context": 0.25,
+              "underdetermined": 0.13
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "broad:book_13_03_1101300301210030_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": "supported_candidate",
+            "probabilities": {
+              "supported_candidate": 0.39,
+              "possible_candidate": 0.05,
+              "no_support_in_supplied_context": 0.35,
+              "underdetermined": 0.21
+            },
+            "pass": true
+          },
+          {
+            "permanent_question_id": "broad:book_13_03_1101300301420060_p1:candidate_assessment",
+            "expected": "supported_candidate",
+            "observed": "supported_candidate",
+            "probabilities": {
+              "supported_candidate": 0.47,
+              "possible_candidate": 0.04,
+              "no_support_in_supplied_context": 0.27,
+              "underdetermined": 0.22
+            },
+            "pass": true
+          }
+        ],
+        "narrative_separation_pass": true,
+        "prediction_detection_pass": true
+      }
+    }
+  ]
+}

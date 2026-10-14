@@ -1,0 +1,753 @@
+{
+  "schema_version": "0.1.0",
+  "tranche_kind": "ot_predictive_prophecy_discovery",
+  "window_id": "poetry_job_19_1_3",
+  "genre": "poetry",
+  "provider_kind": "openrouter_decisions",
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "requested_model": "typesafe/jev-1.13",
+  "served_model": "typesafe/jev-1.13-20260917",
+  "provider": "TypeSafe",
+  "request_fingerprint": "c7625b042f9b0d1a7a2867c5c7aaf537b1e31d6d508fdeb7367ed84cf61a31bb",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "scan_kind": "predictive_prophecy_discovery",
+      "template_version": "0.2.0",
+      "coverage_boundary": "This scan covers predictive-prophecy discovery only. Other forms of prophecy remain outside current coverage.",
+      "context_window": {
+        "book": "Job",
+        "chapter": 19,
+        "firstVerse": 1,
+        "lastVerse": 3
+      },
+      "source_window": [
+        {
+          "reference": "Job 19:1",
+          "verse": 1,
+          "source_word_ids": [
+            "o180190010011",
+            "o180190010012",
+            "o180190010021",
+            "o180190010031",
+            "o180190010032"
+          ],
+          "source_text": "וַ יַּ֥עַן אִיּ֗וֹב וַ יֹּאמַֽר"
+        },
+        {
+          "reference": "Job 19:2",
+          "verse": 2,
+          "source_word_ids": [
+            "o180190020011",
+            "o180190020021",
+            "o180190020031",
+            "o180190020032",
+            "o180190020041",
+            "o180190020042",
+            "o180190020051",
+            "o180190020052",
+            "o180190020053",
+            "o180190020061",
+            "o180190020062"
+          ],
+          "source_text": "עַד אָ֭נָה תּוֹגְי֣וּ ן נַפְשִׁ֑ י וּֽ תְדַכְּאוּ נַ֥נִי בְ מִלִּֽים"
+        },
+        {
+          "reference": "Job 19:3",
+          "verse": 3,
+          "source_word_ids": [
+            "o180190030011",
+            "o180190030021",
+            "o180190030031",
+            "o180190030041",
+            "o180190030042",
+            "o180190030051",
+            "o180190030061",
+            "o180190030071",
+            "o180190030081",
+            "o180190030082"
+          ],
+          "source_text": "זֶ֤ה עֶ֣שֶׂר פְּ֭עָמִים תַּכְלִימ֑וּ נִי לֹֽא תֵ֝בֹ֗שׁוּ תַּהְכְּרוּ לִֽ י"
+        }
+      ],
+      "statements": [
+        {
+          "statement_id": "job_19_01_1801900100120020_p1",
+          "reference": {
+            "book": "Job",
+            "chapter": 19,
+            "verse": 1
+          },
+          "source_word_ids": [
+            "o180190010012",
+            "o180190010021"
+          ],
+          "source_text": "יַּ֥עַן אִיּ֗וֹב",
+          "predicate": {
+            "word_id": "o180190010012",
+            "text": "יַּ֥עַן",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "job_19_01_1801900100320013_p1",
+          "reference": {
+            "book": "Job",
+            "chapter": 19,
+            "verse": 1
+          },
+          "source_word_ids": [
+            "o180190010032"
+          ],
+          "source_text": "יֹּאמַֽר",
+          "predicate": {
+            "word_id": "o180190010032",
+            "text": "יֹּאמַֽר",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "job_19_02_1801900200110060_p1",
+          "reference": {
+            "book": "Job",
+            "chapter": 19,
+            "verse": 2
+          },
+          "source_word_ids": [
+            "o180190020011",
+            "o180190020021",
+            "o180190020031",
+            "o180190020032",
+            "o180190020041",
+            "o180190020042"
+          ],
+          "source_text": "עַד אָ֭נָה תּוֹגְי֣וּ ן נַפְשִׁ֑ י",
+          "predicate": {
+            "word_id": "o180190020031",
+            "text": "תּוֹגְי֣וּ",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "job_19_02_1801900200520040_p1",
+          "reference": {
+            "book": "Job",
+            "chapter": 19,
+            "verse": 2
+          },
+          "source_word_ids": [
+            "o180190020052",
+            "o180190020053",
+            "o180190020061",
+            "o180190020062"
+          ],
+          "source_text": "תְדַכְּאוּ נַ֥נִי בְ מִלִּֽים",
+          "predicate": {
+            "word_id": "o180190020052",
+            "text": "תְדַכְּאוּ",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "job_19_03_1801900300110050_p1",
+          "reference": {
+            "book": "Job",
+            "chapter": 19,
+            "verse": 3
+          },
+          "source_word_ids": [
+            "o180190030011",
+            "o180190030021",
+            "o180190030031",
+            "o180190030041",
+            "o180190030042"
+          ],
+          "source_text": "זֶ֤ה עֶ֣שֶׂר פְּ֭עָמִים תַּכְלִימ֑וּ נִי",
+          "predicate": {
+            "word_id": "o180190030041",
+            "text": "תַּכְלִימ֑וּ",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "job_19_03_1801900300510020_p1",
+          "reference": {
+            "book": "Job",
+            "chapter": 19,
+            "verse": 3
+          },
+          "source_word_ids": [
+            "o180190030051",
+            "o180190030061"
+          ],
+          "source_text": "לֹֽא תֵ֝בֹ֗שׁוּ",
+          "predicate": {
+            "word_id": "o180190030061",
+            "text": "תֵ֝בֹ֗שׁוּ",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "job_19_03_1801900300710030_p1",
+          "reference": {
+            "book": "Job",
+            "chapter": 19,
+            "verse": 3
+          },
+          "source_word_ids": [
+            "o180190030071",
+            "o180190030081",
+            "o180190030082"
+          ],
+          "source_text": "תַּהְכְּרוּ לִֽ י",
+          "predicate": {
+            "word_id": "o180190030071",
+            "text": "תַּהְכְּרוּ",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        }
+      ],
+      "common_instructions": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "question_definitions": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      }
+    },
+    "questions": {
+      "job_19_01_1801900100120020_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_01_1801900100120020_p1 (יַּ֥עַן אִיּ֗וֹב), word IDs o180190010012, o180190010021, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "job_19_01_1801900100120020_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_01_1801900100120020_p1 (יַּ֥עַן אִיּ֗וֹב), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "job_19_01_1801900100120020_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "job_19_01_1801900100320013_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_01_1801900100320013_p1 (יֹּאמַֽר), word IDs o180190010032, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "job_19_01_1801900100320013_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_01_1801900100320013_p1 (יֹּאמַֽר), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "job_19_01_1801900100320013_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "job_19_02_1801900200110060_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_02_1801900200110060_p1 (עַד אָ֭נָה תּוֹגְי֣וּ ן נַפְשִׁ֑ י), word IDs o180190020011, o180190020021, o180190020031, o180190020032, o180190020041, o180190020042, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "job_19_02_1801900200110060_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_02_1801900200110060_p1 (עַד אָ֭נָה תּוֹגְי֣וּ ן נַפְשִׁ֑ י), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "job_19_02_1801900200110060_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "job_19_02_1801900200520040_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_02_1801900200520040_p1 (תְדַכְּאוּ נַ֥נִי בְ מִלִּֽים), word IDs o180190020052, o180190020053, o180190020061, o180190020062, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "job_19_02_1801900200520040_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_02_1801900200520040_p1 (תְדַכְּאוּ נַ֥נִי בְ מִלִּֽים), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "job_19_02_1801900200520040_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "job_19_03_1801900300110050_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_03_1801900300110050_p1 (זֶ֤ה עֶ֣שֶׂר פְּ֭עָמִים תַּכְלִימ֑וּ נִי), word IDs o180190030011, o180190030021, o180190030031, o180190030041, o180190030042, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "job_19_03_1801900300110050_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_03_1801900300110050_p1 (זֶ֤ה עֶ֣שֶׂר פְּ֭עָמִים תַּכְלִימ֑וּ נִי), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "job_19_03_1801900300110050_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "job_19_03_1801900300510020_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_03_1801900300510020_p1 (לֹֽא תֵ֝בֹ֗שׁוּ), word IDs o180190030051, o180190030061, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "job_19_03_1801900300510020_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_03_1801900300510020_p1 (לֹֽא תֵ֝בֹ֗שׁוּ), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "job_19_03_1801900300510020_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "job_19_03_1801900300710030_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_03_1801900300710030_p1 (תַּהְכְּרוּ לִֽ י), word IDs o180190030071, o180190030081, o180190030082, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "job_19_03_1801900300710030_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement job_19_03_1801900300710030_p1 (תַּהְכְּרוּ לִֽ י), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "job_19_03_1801900300710030_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      }
+    }
+  },
+  "preflight": {
+    "rough_input_tokens": 6067,
+    "input_safety_factor": 1.7,
+    "output_reserve_fraction": 0.5,
+    "reserved_total_tokens": 13348,
+    "tranche_cap_total_tokens": 200000,
+    "overall_ceiling_total_tokens": 2000000
+  },
+  "status": "succeeded",
+  "error": null,
+  "raw_response_text": "{\"model\":\"typesafe/jev-1.13-20260917\",\"answers\":{\"job_19_01_1801900100120020_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0,\"possible_candidate\":0,\"underdetermined\":0,\"no_support_in_supplied_context\":1},\"confidence\":1},\"job_19_01_1801900100120020_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"narration_introducing_or_reporting_predictive_content\",\"probabilities\":{\"narration_introducing_or_reporting_predictive_content\":0.7,\"predictive_content\":0,\"other_content\":0.3,\"underdetermined\":0,\"contributes_to_predictive_content\":0},\"confidence\":0.62},\"job_19_01_1801900100120020_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"surrounding_or_other_content\":0.88,\"relationship_underdetermined\":0.07,\"establishes_announcement_anchor\":0.04,\"contributes_to_announcement_anchor\":0.01},\"confidence\":0.84},\"job_19_01_1801900100320013_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0,\"possible_candidate\":0,\"no_support_in_supplied_context\":0.99,\"underdetermined\":0.01},\"confidence\":0.99},\"job_19_01_1801900100320013_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"narration_introducing_or_reporting_predictive_content\",\"probabilities\":{\"narration_introducing_or_reporting_predictive_content\":0.71,\"predictive_content\":0,\"other_content\":0.28,\"underdetermined\":0.01,\"contributes_to_predictive_content\":0},\"confidence\":0.64},\"job_19_01_1801900100320013_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"surrounding_or_other_content\":0.84,\"relationship_underdetermined\":0.1,\"establishes_announcement_anchor\":0.05,\"contributes_to_announcement_anchor\":0.01},\"confidence\":0.79},\"job_19_02_1801900200110060_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.04,\"possible_candidate\":0.03,\"no_support_in_supplied_context\":0.91,\"underdetermined\":0.02},\"confidence\":0.88},\"job_19_02_1801900200110060_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"underdetermined\":0.02,\"predictive_content\":0.07,\"other_content\":0.9,\"narration_introducing_or_reporting_predictive_content\":0,\"contributes_to_predictive_content\":0.01},\"confidence\":0.87},\"job_19_02_1801900200110060_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"surrounding_or_other_content\":0.85,\"relationship_underdetermined\":0.09,\"establishes_announcement_anchor\":0.05,\"contributes_to_announcement_anchor\":0.01},\"confidence\":0.8},\"job_19_02_1801900200520040_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.09,\"possible_candidate\":0.05,\"underdetermined\":0.04,\"no_support_in_supplied_context\":0.82},\"confidence\":0.76},\"job_19_02_1801900200520040_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"underdetermined\":0.01,\"predictive_content\":0.11,\"other_content\":0.85,\"narration_introducing_or_reporting_predictive_content\":0.01,\"contributes_to_predictive_content\":0.02},\"confidence\":0.81},\"job_19_02_1801900200520040_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"surrounding_or_other_content\":0.87,\"relationship_underdetermined\":0.08,\"establishes_announcement_anchor\":0.04,\"contributes_to_announcement_anchor\":0.01},\"confidence\":0.83},\"job_19_03_1801900300110050_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.18,\"possible_candidate\":0.1,\"underdetermined\":0.04,\"no_support_in_supplied_context\":0.68},\"confidence\":0.57},\"job_19_03_1801900300110050_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"underdetermined\":0.02,\"predictive_content\":0.18,\"other_content\":0.77,\"narration_introducing_or_reporting_predictive_content\":0.01,\"contributes_to_predictive_content\":0.02},\"confidence\":0.71},\"job_19_03_1801900300110050_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"surrounding_or_other_content\":0.85,\"relationship_underdetermined\":0.09,\"establishes_announcement_anchor\":0.05,\"contributes_to_announcement_anchor\":0.01},\"confidence\":0.8},\"job_19_03_1801900300510020_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.27,\"possible_candidate\":0.09,\"no_support_in_supplied_context\":0.58,\"underdetermined\":0.06},\"confidence\":0.44},\"job_19_03_1801900300510020_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"narration_introducing_or_reporting_predictive_content\":0.01,\"predictive_content\":0.39,\"other_content\":0.52,\"underdetermined\":0.03,\"contributes_to_predictive_content\":0.05},\"confidence\":0.4},\"job_19_03_1801900300510020_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"surrounding_or_other_content\":0.86,\"relationship_underdetermined\":0.08,\"establishes_announcement_anchor\":0.05,\"contributes_to_announcement_anchor\":0.01},\"confidence\":0.81},\"job_19_03_1801900300710030_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.17,\"possible_candidate\":0.07,\"no_support_in_supplied_context\":0.71,\"underdetermined\":0.05},\"confidence\":0.61},\"job_19_03_1801900300710030_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"underdetermined\":0.02,\"predictive_content\":0.24,\"other_content\":0.69,\"narration_introducing_or_reporting_predictive_content\":0.01,\"contributes_to_predictive_content\":0.04},\"confidence\":0.61},\"job_19_03_1801900300710030_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"surrounding_or_other_content\":0.85,\"relationship_underdetermined\":0.09,\"establishes_announcement_anchor\":0.05,\"contributes_to_announcement_anchor\":0.01},\"confidence\":0.8}},\"usage\":{\"input_tokens\":8424,\"output_tokens\":2116,\"cost\":0.000353808},\"id\":\"gen-dec-1791477759-vtD3pbOLzeOeKXbVBwOb\",\"provider\":\"TypeSafe\"}",
+  "raw_response": {
+    "model": "typesafe/jev-1.13-20260917",
+    "answers": {
+      "job_19_01_1801900100120020_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0,
+          "possible_candidate": 0,
+          "underdetermined": 0,
+          "no_support_in_supplied_context": 1
+        },
+        "confidence": 1
+      },
+      "job_19_01_1801900100120020_p1:statement_function": {
+        "type": "choice",
+        "choice": "narration_introducing_or_reporting_predictive_content",
+        "probabilities": {
+          "narration_introducing_or_reporting_predictive_content": 0.7,
+          "predictive_content": 0,
+          "other_content": 0.3,
+          "underdetermined": 0,
+          "contributes_to_predictive_content": 0
+        },
+        "confidence": 0.62
+      },
+      "job_19_01_1801900100120020_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "surrounding_or_other_content": 0.88,
+          "relationship_underdetermined": 0.07,
+          "establishes_announcement_anchor": 0.04,
+          "contributes_to_announcement_anchor": 0.01
+        },
+        "confidence": 0.84
+      },
+      "job_19_01_1801900100320013_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0,
+          "possible_candidate": 0,
+          "no_support_in_supplied_context": 0.99,
+          "underdetermined": 0.01
+        },
+        "confidence": 0.99
+      },
+      "job_19_01_1801900100320013_p1:statement_function": {
+        "type": "choice",
+        "choice": "narration_introducing_or_reporting_predictive_content",
+        "probabilities": {
+          "narration_introducing_or_reporting_predictive_content": 0.71,
+          "predictive_content": 0,
+          "other_content": 0.28,
+          "underdetermined": 0.01,
+          "contributes_to_predictive_content": 0
+        },
+        "confidence": 0.64
+      },
+      "job_19_01_1801900100320013_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "surrounding_or_other_content": 0.84,
+          "relationship_underdetermined": 0.1,
+          "establishes_announcement_anchor": 0.05,
+          "contributes_to_announcement_anchor": 0.01
+        },
+        "confidence": 0.79
+      },
+      "job_19_02_1801900200110060_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.04,
+          "possible_candidate": 0.03,
+          "no_support_in_supplied_context": 0.91,
+          "underdetermined": 0.02
+        },
+        "confidence": 0.88
+      },
+      "job_19_02_1801900200110060_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "underdetermined": 0.02,
+          "predictive_content": 0.07,
+          "other_content": 0.9,
+          "narration_introducing_or_reporting_predictive_content": 0,
+          "contributes_to_predictive_content": 0.01
+        },
+        "confidence": 0.87
+      },
+      "job_19_02_1801900200110060_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "surrounding_or_other_content": 0.85,
+          "relationship_underdetermined": 0.09,
+          "establishes_announcement_anchor": 0.05,
+          "contributes_to_announcement_anchor": 0.01
+        },
+        "confidence": 0.8
+      },
+      "job_19_02_1801900200520040_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.09,
+          "possible_candidate": 0.05,
+          "underdetermined": 0.04,
+          "no_support_in_supplied_context": 0.82
+        },
+        "confidence": 0.76
+      },
+      "job_19_02_1801900200520040_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "underdetermined": 0.01,
+          "predictive_content": 0.11,
+          "other_content": 0.85,
+          "narration_introducing_or_reporting_predictive_content": 0.01,
+          "contributes_to_predictive_content": 0.02
+        },
+        "confidence": 0.81
+      },
+      "job_19_02_1801900200520040_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "surrounding_or_other_content": 0.87,
+          "relationship_underdetermined": 0.08,
+          "establishes_announcement_anchor": 0.04,
+          "contributes_to_announcement_anchor": 0.01
+        },
+        "confidence": 0.83
+      },
+      "job_19_03_1801900300110050_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.18,
+          "possible_candidate": 0.1,
+          "underdetermined": 0.04,
+          "no_support_in_supplied_context": 0.68
+        },
+        "confidence": 0.57
+      },
+      "job_19_03_1801900300110050_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "underdetermined": 0.02,
+          "predictive_content": 0.18,
+          "other_content": 0.77,
+          "narration_introducing_or_reporting_predictive_content": 0.01,
+          "contributes_to_predictive_content": 0.02
+        },
+        "confidence": 0.71
+      },
+      "job_19_03_1801900300110050_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "surrounding_or_other_content": 0.85,
+          "relationship_underdetermined": 0.09,
+          "establishes_announcement_anchor": 0.05,
+          "contributes_to_announcement_anchor": 0.01
+        },
+        "confidence": 0.8
+      },
+      "job_19_03_1801900300510020_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.27,
+          "possible_candidate": 0.09,
+          "no_support_in_supplied_context": 0.58,
+          "underdetermined": 0.06
+        },
+        "confidence": 0.44
+      },
+      "job_19_03_1801900300510020_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "narration_introducing_or_reporting_predictive_content": 0.01,
+          "predictive_content": 0.39,
+          "other_content": 0.52,
+          "underdetermined": 0.03,
+          "contributes_to_predictive_content": 0.05
+        },
+        "confidence": 0.4
+      },
+      "job_19_03_1801900300510020_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "surrounding_or_other_content": 0.86,
+          "relationship_underdetermined": 0.08,
+          "establishes_announcement_anchor": 0.05,
+          "contributes_to_announcement_anchor": 0.01
+        },
+        "confidence": 0.81
+      },
+      "job_19_03_1801900300710030_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.17,
+          "possible_candidate": 0.07,
+          "no_support_in_supplied_context": 0.71,
+          "underdetermined": 0.05
+        },
+        "confidence": 0.61
+      },
+      "job_19_03_1801900300710030_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "underdetermined": 0.02,
+          "predictive_content": 0.24,
+          "other_content": 0.69,
+          "narration_introducing_or_reporting_predictive_content": 0.01,
+          "contributes_to_predictive_content": 0.04
+        },
+        "confidence": 0.61
+      },
+      "job_19_03_1801900300710030_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "surrounding_or_other_content": 0.85,
+          "relationship_underdetermined": 0.09,
+          "establishes_announcement_anchor": 0.05,
+          "contributes_to_announcement_anchor": 0.01
+        },
+        "confidence": 0.8
+      }
+    },
+    "usage": {
+      "input_tokens": 8424,
+      "output_tokens": 2116,
+      "cost": 0.000353808
+    },
+    "id": "gen-dec-1791477759-vtD3pbOLzeOeKXbVBwOb",
+    "provider": "TypeSafe"
+  },
+  "response_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "usage": {
+    "input_tokens": 8424,
+    "output_tokens": 2116
+  },
+  "elapsed_ms": 1216,
+  "attempted_at": "2026-10-08T16:42:38.399Z",
+  "file": "poetry_job_19_1_3.c7625b042f9b0d1a7a2867c5c7aaf537b1e31d6d508fdeb7367ed84cf61a31bb.json"
+}

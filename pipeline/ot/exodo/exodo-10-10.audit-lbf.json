@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 10:10",
+  "chapter": 10,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo a ellos: Sea así Jehová con ustedes, como que enviaré a ustedes y a su pequeño. Vean que mal delante de sus faces.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02010010016"
+      ],
+      "issue": "The common noun פנים is rendered with the English word faces rather than a Spanish noun.",
+      "spanishSpan": "faces"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02010010004",
+        "h02010010007"
+      ],
+      "issue": "כן … כאשר licenses a manner comparison (thus … as). como que often means as if or given that, which can shift that comparison.",
+      "spanishSpan": "como que"
+    }
+  ],
+  "notes": "The rest tracks the packet: 3ms speech to 3mp, jussive, Jehová, 2mp ustedes, piel 1cs send, singular טף, and the verbless כי clause.",
+  "discardedUncitedFindings": 0
+}

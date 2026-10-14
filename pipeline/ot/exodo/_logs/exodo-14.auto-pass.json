@@ -1,0 +1,151 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 14,
+  "kept": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    10,
+    13,
+    15,
+    17,
+    20,
+    23,
+    26,
+    28,
+    29,
+    30
+  ],
+  "drafted": [],
+  "repaired": [
+    12,
+    16,
+    19,
+    22,
+    24,
+    31
+  ],
+  "repairedWithWarn": [
+    9,
+    18
+  ],
+  "parked": [
+    {
+      "verse": 4,
+      "notes": "re-audit fail",
+      "spanish": "Y fortaleceré el corazón de Faraón, y perseguirá detrás de ellos, y me glorificaré en Faraón y en todo su ejército, y Egipto conocerá que yo *soy* Jehová. Y hicieron así.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02014004011"
+          ],
+          "issue": "El qal secuencial es 3ª persona común plural; «conocerá» lo deja en singular.",
+          "spanishSpan": "conocerá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02014004007"
+          ],
+          "issue": "El niphal cohortativo de 1ª persona queda en futuro indicativo.",
+          "spanishSpan": "me glorificaré"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "notes": "clause role",
+      "spanish": "Jehová peleará a ustedes, y ustedes callarán.",
+      "findings": []
+    },
+    {
+      "verse": 21,
+      "notes": "clause role",
+      "spanish": "Y extendió Moisés su mano sobre el mar, e hizo ir Jehová al mar con viento de oriente fuerte toda la noche, y puso al mar a sequedad, y se rajaron las aguas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02014021019"
+          ],
+          "issue": "לֶחָרָבָה is a noun of dry ground; “sequedad” keeps abstract dryness and omits the ground.",
+          "spanishSpan": "a sequedad"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02014021007",
+            "h02014021009",
+            "h02014021010"
+          ],
+          "issue": "“al mar” after “hizo ir” can be read as the goal “to the sea”; את הַיָּם is the object the hiphil causes to go.",
+          "spanishSpan": "hizo ir Jehová al mar"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "notes": "clause role",
+      "spanish": "Y quitó rueda de sus carros, y los conducía en pesadez, y dijo Egipto: Huyamos de faces de Israel, porque Jehová pelea a ellos en Egipto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02014025009"
+          ],
+          "issue": "Cohortative 1st common singular (the speaker’s own volitive to flee); Huya is an usted command or 3rd-person subjunctive, shifting person and participant.",
+          "spanishSpan": "Huya"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 5,
+      "error": "Command '['/Users/johnwry/.local/bin/agent', '-p', '--trust', '--mode', 'ask', '--model', 'auto', '--output-format', 'text', '--workspace', '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF', 'Read the JSON file at this absolute path and answer it:\\n/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/exodo/exodo-14-5.audit-lbf.request.json\\n\\nFollow the system and user fields in that file. The packet inside the file is the only evidence. Return only the JSON object those fields require. No markdown fences. Do not write files. Do not edit the repository. Do not align. Do not open STATUS.md.']' timed out after 300 seconds"
+    },
+    {
+      "verse": 11,
+      "error": "Extra data: line 12 column 1 (char 598)"
+    },
+    {
+      "verse": 27,
+      "error": "Command '['/Users/johnwry/.local/bin/agent', '-p', '--trust', '--mode', 'ask', '--model', 'auto', '--output-format', 'text', '--workspace', '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF', 'Read the JSON file at this absolute path and answer it:\\n/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/exodo/exodo-14-27.audit-pulir.request.json\\n\\nFollow the system and user fields in that file. The packet inside the file is the only evidence. Return only the JSON object those fields require. No markdown fences. Do not write files. Do not edit the repository. Do not align. Do not open STATUS.md.']' timed out after 300 seconds"
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 9,
+      "note": "Chose singular persiguió over plural persiguieron so Egipto reads clearly as the one pursuing, and joined caballo to carro with del to keep the single construct chain instead of a list."
+    },
+    {
+      "verse": 12,
+      "note": "Kept esta feminine to agree with la palabra even though זֶה is Hebrew masculine, supplied the italicized copula *es* for the verbless clause ¿No es esta la palabra...?, and changed nuestra muerte to morir nosotros so the comparative infinitive construct keeps its verbal force instead of becoming the noun death."
+    },
+    {
+      "verse": 14,
+      "note": "hold: clause role — לָכֶם is a ל preposition on a niphal verb that licenses Jehová fighting for/to the addressees, not against them, so whether ustedes is beneficiary or opponent is a clause-role call left for the human reader."
+    },
+    {
+      "verse": 18,
+      "note": "Chose singular conocerá for Egipto so the subject stays Egipto, since Hebrew's plural verb is collective agreement with the gentilic name, not a different subject."
+    },
+    {
+      "verse": 21,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 25,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 31,
+      "note": "Chose the plural verb temieron with the singular noun el pueblo so the fear verb keeps the Hebrew's plural number, since both forms could not agree in standard Spanish."
+    }
+  ]
+}

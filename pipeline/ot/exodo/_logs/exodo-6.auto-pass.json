@@ -1,0 +1,122 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 6,
+  "kept": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    30
+  ],
+  "drafted": [],
+  "repaired": [
+    29
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 3,
+      "notes": "re-audit fail",
+      "spanish": "Y me aparecí a Abraham, a Isaac y a Jacob en Dios Shaday, y mi nombre Jehová no fui conocido por ellos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02006003013",
+            "h02006003014"
+          ],
+          "issue": "לָהֶם is dative ‘to them’ with Niphal נוֹדַעְתִּי (I was / made myself known to them); ‘por ellos’ marks them as passive agents (‘known by them’).",
+          "spanishSpan": "por ellos"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02006003008",
+            "h02006003009"
+          ],
+          "issue": "בְּאֵל שַׁדָּי is rendered ‘en Dios Shaday’; בְּ is open (in/as/by), and ‘en’ may read locative rather than leave the preposition’s openness clear.",
+          "spanishSpan": "en Dios Shaday"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Estos cabezas de casa de sus padres: hijos de Rubén primogénito de Israel: Janoc y Palú, Jetsrón y Carmí; estas familias de Rubén.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02006014001",
+            "h02006014002"
+          ],
+          "issue": "Spanish gender disagreement: masculine Estos with feminine cabezas; licensed meaning unchanged",
+          "spanishSpan": "Estos cabezas"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "notes": "clause role",
+      "spanish": "Y tomó Aarón a Elisheva hija de Aminadav, hermana de Najshón, a él a mujer, y dio a luz a él a Nadav y a Avihú, a Eleazar y a Itamar.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02006023011"
+          ],
+          "issue": "Qal 3fs וַתֵּלֶד requires a feminine subject (Elisheva); Spanish leaves Aarón as the continuing subject of \"dio a luz\", shifting person/participant.",
+          "spanishSpan": "dio a luz"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "clause role",
+      "spanish": "Y fue en día de hablar Jehová a Moisés en tierra de Egipto.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02006028002",
+            "h02006028003"
+          ],
+          "issue": "Finite piel perfect דִּבֶּר rendered as infinitive 'hablar' under 'en día de'; meaning and participants unchanged.",
+          "spanishSpan": "de hablar"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 23,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 28,
+      "note": "hold: clause role"
+    }
+  ]
+}

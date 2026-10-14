@@ -1,0 +1,176 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 8,
+  "kept": [
+    1,
+    3,
+    4,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    16,
+    17,
+    18,
+    20,
+    23,
+    25,
+    28,
+    29,
+    32
+  ],
+  "drafted": [],
+  "repaired": [
+    5,
+    14,
+    15,
+    19,
+    26,
+    27
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "spanish check",
+      "spanish": "Y si rehúsante tú de enviar, he aquí yo hiriente a todo tu límite con las ranas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«rehúsante» no es una forma actual de rehusar; el lector tiene que adivinarla",
+          "spanishSpan": "rehúsante"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "re-audit fail",
+      "spanish": "Y llamó Faraón a Moisés y a Aarón, y dijo: Intercedan a Jehová, y quite las ranas de mí y de mi pueblo, y enviaré al pueblo, y sacrifiquen a Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02008008016"
+          ],
+          "issue": "Qal jussive 3mp licenses that a third party sacrifice, but sacrifiquen continues the 2pl address of Intercedan, so the addressees become the sacrificers.",
+          "spanishSpan": "sacrifiquen"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02008008013"
+          ],
+          "issue": "Piel cohortative 1cs is smoothed to indicative future enviaré; person and sending the people remain, but the volitive force is flattened.",
+          "spanishSpan": "enviaré"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "notes": "clause role",
+      "spanish": "Porque si no eres enviando a mi pueblo, he aquí yo enviando en ti y en tus siervos y en tu pueblo y en tus casas el enjambre; y se llenarán las casas de Egipto del enjambre, y también el suelo que ellos sobre él.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02008021015"
+          ],
+          "issue": "Qal sequential perfect 3cp is smoothed as the pronominal future se llenarán; se is Spanish intransitive marking for become full and does not change number or participants.",
+          "spanishSpan": "se llenarán"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "notes": "clause role",
+      "spanish": "Y distinguiré en el día aquel a tierra de Gosén, que mi pueblo está parado sobre ella, para no ser allí enjambre, a fin de que conozcas que yo Jehová en medio de la tierra.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02008022011",
+            "h02008022012",
+            "h02008022013",
+            "h02008022014"
+          ],
+          "issue": "לְבִלְתִּי הֱיוֹת שָׁם עָרֹב licenses “that a swarm not be there” (עָרֹב is what is absent). “para no ser allí enjambre” makes enjambre the predicate of an unstated subject.",
+          "spanishSpan": "para no ser allí enjambre"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "notes": "clause role",
+      "spanish": "Y hizo Jehová así, y vino enjambre pesado a casa de Faraón y casa de sus siervos; y en toda tierra de Egipto se corrompía la tierra de faces del enjambre.",
+      "findings": []
+    },
+    {
+      "verse": 30,
+      "notes": "spanish check",
+      "spanish": "Y salió Moisés de con Faraón, y rogó a Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«de con» no es español actual; el lector tiene que adivinar la locución",
+          "spanishSpan": "de con"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "notes": "clause role",
+      "spanish": "Y hizo Jehová conforme a la palabra de Moisés, y apartó el enjambre de Faraón, de sus siervos y de su pueblo; no quedó uno.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02008031002",
+            "h02008031005",
+            "h02008031006"
+          ],
+          "issue": "H5493 is qal sequential imperfect 3ms (intransitive: turn aside/depart). הָעָרֹב is the subject that departs. Spanish keeps Jehová as agent and makes the swarm the object (“apartó el enjambre”), changing stem force and participants.",
+          "spanishSpan": "apartó el enjambre"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 2,
+      "note": "«rehúsante» no es una forma actual de rehusar; el lector tiene que adivinarla"
+    },
+    {
+      "verse": 15,
+      "note": "Chose 'fue el alivio' (verb-first, definite subject) over 'hubo alivio' to keep הָרְוָחָה's definite article, parallel to the standard literal Spanish Bible rendering of היה-clauses (e.g., 'fue la luz'); participants and stem force are unchanged."
+    },
+    {
+      "verse": 21,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 22,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 24,
+      "note": "hold: clause role — the cited fail is which noun מִפְּנֵי (\"from the face of\") governs: whether it reads as a genitive on la tierra or as the adverbial source of the ruin (from-the-face-of the swarm), and that governance choice is not mine to repair."
+    },
+    {
+      "verse": 26,
+      "note": "Chose future tense for both occurrences of the repeated qal imperfect verb and definite form for both 'abominación de Egipto' construct nouns to resolve agreement the morphology left open; *es* marks a supplied copula."
+    },
+    {
+      "verse": 30,
+      "note": "«de con» no es español actual; el lector tiene que adivinar la locución"
+    },
+    {
+      "verse": 31,
+      "note": "hold: clause role"
+    }
+  ]
+}

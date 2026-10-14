@@ -1,0 +1,108 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 1,
+  "kept": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 7,
+      "notes": "spanish check",
+      "spanish": "Y hijos de Israel fructificaron y enjambraron y se multiplicaron y se fortalecieron en mucho mucho, y se llenó la tierra de ellos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "rare specialized verb; many readers would not recognize it",
+          "spanishSpan": "enjambraron"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "spanish check",
+      "spanish": "Da, seamos sabios a él, no sea que se multiplique, y será que acontezcan guerra, y se añada también él sobre nuestros aborrecedores, y luche en nosotros, y suba desde la tierra.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "Ea is not current Spanish",
+          "spanishSpan": "Ea"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "clause role",
+      "spanish": "Y pusieron sobre él príncipes de levas, a fin de afligirlo en sus cargas; y edificó ciudades de depósitos a Faraón, a Pitom y a Raamses.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02001011011",
+            "h02001011012",
+            "h02001011013",
+            "h02001011014",
+            "h02001011015"
+          ],
+          "issue": "Spanish lists a Faraón, a Pitom y a Raamses with the same a, so Pitom and Raamses read as parallel לְ-beneficiaries with Pharaoh; Hebrew has לְ only on Pharaoh and marks Pitom/Raamses with את as the cities built (apposition to ערי מסכנות), not recipients.",
+          "spanishSpan": "a Faraón, a Pitom y a Raamses"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "notes": "spanish check",
+      "spanish": "Y mandó Faraón a todo su pueblo, diciendo: Todo hijo nacido, hacia el Yeor lo arrojarán, y toda hija harán vivir.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "not current Spanish; a reader would not recognize this word",
+          "spanishSpan": "Yeor"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 5,
+      "note": "Chose the plural agreement (todas las almas que salieron / fueron) because the Hebrew participle is plural and 'setenta almas' confirms a plural sense, even though the head noun 'nefesh/alma' is grammatically singular in Hebrew; participants and stem force are unchanged."
+    },
+    {
+      "verse": 7,
+      "note": "rare specialized verb; many readers would not recognize it"
+    },
+    {
+      "verse": 10,
+      "note": "Ea is not current Spanish"
+    },
+    {
+      "verse": 11,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 22,
+      "note": "not current Spanish; a reader would not recognize this word"
+    }
+  ]
+}

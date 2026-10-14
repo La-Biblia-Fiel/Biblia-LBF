@@ -1,0 +1,102 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 4,
+  "kept": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    21,
+    22,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "drafted": [],
+  "repaired": [
+    3,
+    23
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "clause role",
+      "spanish": "Y dijo a él Jehová: ¿Qué esto en tu mano? Y dijo: Vara.",
+      "findings": []
+    },
+    {
+      "verse": 4,
+      "notes": "clause role",
+      "spanish": "Y dijo Jehová a Moisés: Extiende tu mano y agarra en su cola. Y extendió su mano y se aferró en ella, y fue a vara en su palma.",
+      "findings": []
+    },
+    {
+      "verse": 26,
+      "notes": "clause role",
+      "spanish": "Y aflojó de él; entonces dijo: Esposo de sangres a las circuncisiones.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02004026002"
+          ],
+          "issue": "Packet morph is Sp1cp (from us); Spanish renders a 3ms participant (from him).",
+          "spanishSpan": "de él"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 14,
+      "error": "agent exit 1: Cannot use this model: auto. Available models: Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 16,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    },
+    {
+      "verse": 17,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    },
+    {
+      "verse": 18,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    },
+    {
+      "verse": 19,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    },
+    {
+      "verse": 20,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 2,
+      "note": "hold: clause role — the packet has no token between יְהוָה and בְיָדֶךָ, so what predicate governs en tu mano (and what, if anything, licenses qué esto) is undetermined and cannot be repaired without adding content beyond the packet."
+    },
+    {
+      "verse": 4,
+      "note": "hold: clause role — בּוֹ is a preposition whose referent (the snake, masculine) is in question against the Spanish 'ella' agreeing with 'cola'; that is which noun the preposition governs, not a grammar fix."
+    },
+    {
+      "verse": 26,
+      "note": "hold: clause role"
+    }
+  ]
+}

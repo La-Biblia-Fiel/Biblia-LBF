@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:5",
+  "chapter": 1,
+  "verse": 5,
+  "candidateLabel": "pulir",
+  "spanish": "Y fueron todas las almas que salieron de los lomos de Jacob, setenta almas; y José estaba en Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001005001"
+      ],
+      "issue": "3ms ויהי rendered as 3pl fueron for agreement with almas; meaning unchanged",
+      "spanishSpan": "fueron"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001005005"
+      ],
+      "issue": "singular ירך rendered as plural lomos; body-region sense preserved",
+      "spanishSpan": "los lomos"
+    }
+  ],
+  "notes": "Count, participants, and names match the packet; no added or omitted concepts.",
+  "discardedUncitedFindings": 0
+}

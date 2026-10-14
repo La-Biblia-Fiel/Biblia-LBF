@@ -1,0 +1,82 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 10,
+  "kept": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    11,
+    13,
+    14,
+    16,
+    18,
+    20,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29
+  ],
+  "drafted": [],
+  "repaired": [
+    10,
+    15,
+    17,
+    19,
+    26
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 6,
+      "notes": "spanish check",
+      "spanish": "Y se llenaron tus casas y casas de todos tus siervos y casas de todo Egipto, que no vieron tus padres y padres de tus padres desde día de su ser sobre el suelo hasta el día este. Y se volvió y salió de con Faraón.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«día de su ser» no es español actual: el lector tiene que adivinar que «ser» significa existencia u origen",
+          "spanishSpan": "su ser"
+        },
+        {
+          "severity": "fail",
+          "issue": "«de con» no es una construcción del español actual; el lector tiene que adivinarla",
+          "spanishSpan": "de con"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "notes": "clause role",
+      "spanish": "Y dijo Jehová a Moisés: Extiende tu mano sobre los cielos, y sea oscuridad sobre tierra de Egipto, y palpe oscuridad.",
+      "findings": []
+    }
+  ],
+  "errors": [
+    {
+      "verse": 12,
+      "error": "Command '['/Users/johnwry/.local/bin/agent', '-p', '--trust', '--mode', 'ask', '--model', 'auto', '--output-format', 'text', '--workspace', '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF', 'Read the JSON file at this absolute path and answer it:\\n/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/exodo/exodo-10-12.audit-lbf.request.json\\n\\nFollow the system and user fields in that file. The packet inside the file is the only evidence. Return only the JSON object those fields require. No markdown fences. Do not write files. Do not edit the repository. Do not align. Do not open STATUS.md.']' timed out after 300 seconds"
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 6,
+      "note": "«día de su ser» no es español actual: el lector tiene que adivinar que «ser» significa existencia u origen; «de con» no es una construcción del español actual; el lector tiene que adivinarla"
+    },
+    {
+      "verse": 15,
+      "note": "Chose the total-negation Spanish construction (verdor alguno) over the partial-negation one (todo verdor) per the cited mismatch; participants, number, and the singular árbol/hierba heads are unchanged."
+    },
+    {
+      "verse": 21,
+      "note": "hold: clause role — the Hiphil leaves open who feels the darkness (an unnamed subject) versus darkness itself as agent, so palpe oscuridad is left unchanged rather than resolved."
+    }
+  ]
+}

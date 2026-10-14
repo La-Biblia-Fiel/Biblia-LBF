@@ -1,0 +1,251 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 12,
+  "kept": [
+    1,
+    2,
+    7,
+    8,
+    12,
+    13,
+    14,
+    17,
+    18,
+    20,
+    23,
+    24,
+    26,
+    29,
+    30,
+    33,
+    35,
+    36,
+    38,
+    39,
+    40,
+    41,
+    42,
+    45,
+    51
+  ],
+  "drafted": [],
+  "repaired": [
+    3,
+    4,
+    11,
+    21,
+    22,
+    25,
+    27,
+    31,
+    32,
+    34,
+    37,
+    43,
+    47,
+    48,
+    49,
+    50
+  ],
+  "repairedWithWarn": [
+    46
+  ],
+  "parked": [
+    {
+      "verse": 5,
+      "notes": "re-audit fail",
+      "spanish": "Animal perfecto, macho, hijo de año, será a ustedes; de los corderos y de las cabras tomarán.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02012005001"
+          ],
+          "issue": "שֶׂה (H7716, noun common singular) is one of the flock, a sheep or a goat. «Animal» widens it to any animal.",
+          "spanishSpan": "Animal"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y será a ustedes a guarda hasta catorce día a este mes, y lo degollarán toda asamblea de congregación de Israel entre las tardes.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02012006017"
+          ],
+          "issue": "Dual absolute evenings is plural tardes; entre las tardes keeps the open between-the-evenings phrase and does not reduce it to one time of day.",
+          "spanishSpan": "las tardes"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "clause role",
+      "spanish": "No coman de él crudo y cocido cocido en las aguas, sino asado de fuego: su cabeza sobre sus piernas y sobre su interior.",
+      "findings": []
+    },
+    {
+      "verse": 10,
+      "notes": "clause role",
+      "spanish": "Y no dejarán de él hasta mañana, y el restante de él hasta mañana en el fuego quemarán.",
+      "findings": []
+    },
+    {
+      "verse": 15,
+      "notes": "spanish check",
+      "spanish": "Siete días panes ázimos comerán; ciertamente en el día primero harán cesar levadura de sus casas, porque todo comiente de leudado, y será cortada esa alma de Israel, desde el día primero hasta el día séptimo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«comiente» no es una palabra del español actual; el lector tiene que adivinar que significa «el que come».",
+          "spanishSpan": "comiente"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "Y en el día primero convocación de santidad, y en el día séptimo convocación de santidad será a ustedes; toda obra no se hará en ellos, solo lo que se coma a toda alma, él solo se hará a ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02012016018",
+            "h02012016019",
+            "h02012016020"
+          ],
+          "issue": "«se comerá a toda alma» toma נֶפֶשׁ como lo comido. יֵאָכֵל es nifal (algo se come) y לְ marca a כָל נֶפֶשׁ como destinatario o agente (para o por toda alma).",
+          "spanishSpan": "se comerá a toda alma"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "clause role",
+      "spanish": "Y fueron e hicieron hijos de Israel; como que mandó Jehová a Moisés y Aarón, así hicieron.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02012028001",
+            "h02012028002",
+            "h02012028003",
+            "h02012028004"
+          ],
+          "issue": "The 3mp verbs have the construct 'sons of Israel' as subject and there is no object marker on that phrase. 'hicieron hijos de Israel' reads as producing sons, so the sons become the object and who went and acted is unnamed.",
+          "spanishSpan": "hicieron hijos de Israel"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02012028005",
+            "h02012028006"
+          ],
+          "issue": "'como que' matches the preposition plus relative, but as a Spanish unit it often hedges or means 'as if', which softens the actual piel perfect command correlated by así.",
+          "spanishSpan": "como que"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "notes": "clause role",
+      "spanish": "Y todo siervo varón compra de plata, y circuncidarás a él, entonces comerá en él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02012044002",
+            "h02012044003"
+          ],
+          "issue": "עֶבֶד is construct governing אִישׁ absolute, so the tokens license a servant of a man. “siervo varón” identifies the servant as the man and leaves that construct relation unexpressed.",
+          "spanishSpan": "siervo varón"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02012044004",
+            "h02012044005"
+          ],
+          "issue": "מִקְנַת כֶּסֶף is the noun phrase “compra de plata”. With no apposition mark, “compra” is also readable as the finite verb buys.",
+          "spanishSpan": "compra de plata"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02012044009"
+          ],
+          "issue": "Qal jussive 3ms is smoothed to the indicative future “comerá”.",
+          "spanishSpan": "comerá"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 19,
+      "error": "Command '['/Users/johnwry/.local/bin/agent', '-p', '--trust', '--mode', 'ask', '--model', 'auto', '--output-format', 'text', '--workspace', '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF', 'Read the JSON file at this absolute path and answer it:\\n/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/exodo/exodo-12-19.audit-pulir.request.json\\n\\nFollow the system and user fields in that file. The packet inside the file is the only evidence. Return only the JSON object those fields require. No markdown fences. Do not write files. Do not edit the repository. Do not align. Do not open STATUS.md.']' timed out after 300 seconds"
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 3,
+      "note": "Chose 'cada uno' for the distributive אִישׁ instead of gender-marking 'varón', and 'res del rebaño' for both שֶׂה tokens to leave species and age open rather than narrowing to a lamb."
+    },
+    {
+      "verse": 4,
+      "note": "Replaced 'cordero' with 'res del rebaño' at both שֶׂה tokens to leave species and age open, matching the same repair already applied at Éxodo 12:3."
+    },
+    {
+      "verse": 9,
+      "note": "hold: clause role — fixing the suffix's person would mean reassigning what מִמֶּנּוּ governs (the flesh vs. the people), which is a participant choice, not a grammar fix, so «de él» is left as drafted."
+    },
+    {
+      "verse": 10,
+      "note": "hold: clause role — the suffix on מִמֶּנּוּ (h02012010003/h02012010007) is parsed 1cp, which decides who/what the preposition 'from' is taken from; choosing between that and the contextual 3ms referent is a participant call, so 'de él' is left unchanged."
+    },
+    {
+      "verse": 15,
+      "note": "«comiente» no es una palabra del español actual; el lector tiene que adivinar que significa «el que come»."
+    },
+    {
+      "verse": 16,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 22,
+      "note": "Reordered the blood-source phrase next to «tocar» (word order only) so it reads as the source of the touching for the lintel and the two doorposts, not «doorposts of the blood»."
+    },
+    {
+      "verse": 27,
+      "note": "Chose the plural verb 'se postraron' to carry the Hebrew 3mp hithpael form against the singular head noun 'el pueblo'."
+    },
+    {
+      "verse": 28,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 31,
+      "note": "Se cambió «su» por «de ustedes» porque, junto a «Jehová», el posesivo podía leerse como el hablar de un tercero en vez del hablar de los destinatarios (ustedes)."
+    },
+    {
+      "verse": 37,
+      "note": "Chose indefinite plural 'pequeños' (no article) for the Hebrew undetermined collective noun, since a bare Spanish singular 'pequeño' without an article would read as the adjective 'small' rather than the noun 'the little ones.'"
+    },
+    {
+      "verse": 44,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 46,
+      "note": "Chose to repeat 'desde' for the second מִן phrase (de la carne) rather than invent a new object, so both sources stay grammatically parallel instead of one modifying the other."
+    },
+    {
+      "verse": 47,
+      "note": "Chose 'toda la congregación' (the whole congregation) over the article-less 'toda congregación' (every congregation) to match the construct singular כָּל עֲדַת יִשְׂרָאֵל, which names one specific congregation of Israel."
+    }
+  ]
+}

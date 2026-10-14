@@ -1,0 +1,1431 @@
+{
+  "schema_version": "0.2.0",
+  "verification_kind": "narrative_separation_with_positive_controls_compact",
+  "provider_kind": "openrouter_decisions",
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "requested_model": "typesafe/jev-1.13",
+  "request_fingerprint": "ed20093b02532929476e052e99919491b7feaea5e3126f63b814c289e8f3b43d",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "v": "0.2.0-compact.1",
+      "i": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "d": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      },
+      "w": {
+        "w0": {
+          "v": [
+            {
+              "reference": "1 Kings 13:1",
+              "verse": 1,
+              "source_word_ids": [
+                "o110130010011",
+                "o110130010012",
+                "o110130010021",
+                "o110130010031",
+                "o110130010041",
+                "o110130010051",
+                "o110130010052",
+                "o110130010061",
+                "o110130010062",
+                "o110130010071",
+                "o110130010081",
+                "o110130010091",
+                "o110130010101",
+                "o110130010111",
+                "o110130010112",
+                "o110130010121",
+                "o110130010131",
+                "o110130010141",
+                "o110130010142",
+                "o110130010151",
+                "o110130010152"
+              ],
+              "source_text": "וְ הִנֵּ֣ה אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִ יהוּדָ֛ה בִּ דְבַ֥ר יְהוָ֖ה אֶל בֵּֽית אֵ֑ל וְ יָרָבְעָ֛ם עֹמֵ֥ד עַל הַ מִּזְבֵּ֖חַ לְ הַקְטִֽיר"
+            },
+            {
+              "reference": "1 Kings 13:2",
+              "verse": 2,
+              "source_word_ids": [
+                "o110130020011",
+                "o110130020012",
+                "o110130020021",
+                "o110130020031",
+                "o110130020032",
+                "o110130020041",
+                "o110130020042",
+                "o110130020051",
+                "o110130020061",
+                "o110130020062",
+                "o110130020071",
+                "o110130020081",
+                "o110130020091",
+                "o110130020101",
+                "o110130020111",
+                "o110130020121",
+                "o110130020131",
+                "o110130020141",
+                "o110130020151",
+                "o110130020152",
+                "o110130020161",
+                "o110130020171",
+                "o110130020181",
+                "o110130020182",
+                "o110130020191",
+                "o110130020192",
+                "o110130020201",
+                "o110130020202",
+                "o110130020211",
+                "o110130020221",
+                "o110130020231",
+                "o110130020232",
+                "o110130020241",
+                "o110130020242",
+                "o110130020251",
+                "o110130020252",
+                "o110130020261",
+                "o110130020262",
+                "o110130020271",
+                "o110130020281",
+                "o110130020291",
+                "o110130020292"
+              ],
+              "source_text": "וַ יִּקְרָ֤א עַל הַ מִּזְבֵּ֨חַ֙ בִּ דְבַ֣ר יְהוָ֔ה וַ יֹּ֨אמֶר֙ מִזְבֵּ֣חַ מִזְבֵּ֔חַ כֹּ֖ה אָמַ֣ר יְהוָ֑ה הִנֵּֽה בֵ֞ן נוֹלָ֤ד לְ בֵית דָּוִד֙ יֹאשִׁיָּ֣הוּ שְׁמ֔ וֹ וְ זָבַ֣ח עָלֶ֗י ךָ אֶת כֹּהֲנֵ֤י הַ בָּמוֹת֙ הַ מַּקְטִרִ֣ים עָלֶ֔י ךָ וְ עַצְמ֥וֹת אָדָ֖ם יִשְׂרְפ֥וּ עָלֶֽי ךָ"
+            },
+            {
+              "reference": "1 Kings 13:3",
+              "verse": 3,
+              "source_word_ids": [
+                "o110130030011",
+                "o110130030012",
+                "o110130030021",
+                "o110130030021ה",
+                "o110130030022",
+                "o110130030031",
+                "o110130030032",
+                "o110130030041",
+                "o110130030051",
+                "o110130030052",
+                "o110130030061",
+                "o110130030071",
+                "o110130030072",
+                "o110130030081",
+                "o110130030091",
+                "o110130030101",
+                "o110130030111",
+                "o110130030121",
+                "o110130030122",
+                "o110130030131",
+                "o110130030141",
+                "o110130030142",
+                "o110130030151",
+                "o110130030152",
+                "o110130030161",
+                "o110130030171",
+                "o110130030172"
+              ],
+              "source_text": "וְ נָתַן֩ בַּ  יּ֨וֹם הַ ה֤וּא מוֹפֵת֙ לֵ אמֹ֔ר זֶ֣ה הַ מּוֹפֵ֔ת אֲשֶׁ֖ר דִּבֶּ֣ר יְהוָ֑ה הִנֵּ֤ה הַ מִּזְבֵּ֨חַ֙ נִקְרָ֔ע וְ נִשְׁפַּ֖ךְ הַ דֶּ֥שֶׁן אֲשֶׁר עָלָֽי ו"
+            }
+          ]
+        },
+        "w1": {
+          "v": [
+            {
+              "reference": "1 Kings 13:1",
+              "verse": 1,
+              "source_word_ids": [
+                "o110130010011",
+                "o110130010012",
+                "o110130010021",
+                "o110130010031",
+                "o110130010041",
+                "o110130010051",
+                "o110130010052",
+                "o110130010061",
+                "o110130010062",
+                "o110130010071",
+                "o110130010081",
+                "o110130010091",
+                "o110130010101",
+                "o110130010111",
+                "o110130010112",
+                "o110130010121",
+                "o110130010131",
+                "o110130010141",
+                "o110130010142",
+                "o110130010151",
+                "o110130010152"
+              ],
+              "source_text": "וְ הִנֵּ֣ה אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִ יהוּדָ֛ה בִּ דְבַ֥ר יְהוָ֖ה אֶל בֵּֽית אֵ֑ל וְ יָרָבְעָ֛ם עֹמֵ֥ד עַל הַ מִּזְבֵּ֖חַ לְ הַקְטִֽיר"
+            }
+          ]
+        }
+      },
+      "t": {
+        "t0": {
+          "w": [
+            "o110130010021",
+            "o110130010031",
+            "o110130010041",
+            "o110130010051",
+            "o110130010052",
+            "o110130010061",
+            "o110130010062",
+            "o110130010071",
+            "o110130010081",
+            "o110130010091",
+            "o110130010101"
+          ],
+          "p": {
+            "w": "o110130010041",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t1": {
+          "w": [
+            "o110130010112",
+            "o110130010121",
+            "o110130010131",
+            "o110130010141",
+            "o110130010142",
+            "o110130010151",
+            "o110130010152"
+          ],
+          "p": {
+            "w": "o110130010121",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t2": {
+          "w": [
+            "o110130010152"
+          ],
+          "p": {
+            "w": "o110130010152",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t3": {
+          "w": [
+            "o110130020131",
+            "o110130020141",
+            "o110130020151",
+            "o110130020152",
+            "o110130020161"
+          ],
+          "p": {
+            "w": "o110130020141",
+            "v": "passive"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t4": {
+          "w": [
+            "o110130020192",
+            "o110130020201",
+            "o110130020202",
+            "o110130020211",
+            "o110130020221",
+            "o110130020231",
+            "o110130020232",
+            "o110130020241",
+            "o110130020242",
+            "o110130020251",
+            "o110130020252"
+          ],
+          "p": {
+            "w": "o110130020192",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t5": {
+          "w": [
+            "o110130020262",
+            "o110130020271",
+            "o110130020281",
+            "o110130020291",
+            "o110130020292"
+          ],
+          "p": {
+            "w": "o110130020281",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t6": {
+          "w": [
+            "o110130030121",
+            "o110130030122",
+            "o110130030131"
+          ],
+          "p": {
+            "w": "o110130030131",
+            "v": "passive"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t7": {
+          "w": [
+            "o110130030142",
+            "o110130030151",
+            "o110130030152",
+            "o110130030161",
+            "o110130030171",
+            "o110130030172"
+          ],
+          "p": {
+            "w": "o110130030142",
+            "v": "passive"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t8": {
+          "w": [
+            "o110130010021",
+            "o110130010031",
+            "o110130010041",
+            "o110130010051",
+            "o110130010052",
+            "o110130010061",
+            "o110130010062",
+            "o110130010071",
+            "o110130010081",
+            "o110130010091",
+            "o110130010101"
+          ],
+          "p": {
+            "w": "o110130010041",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t9": {
+          "w": [
+            "o110130010112",
+            "o110130010121",
+            "o110130010131",
+            "o110130010141",
+            "o110130010142",
+            "o110130010151",
+            "o110130010152"
+          ],
+          "p": {
+            "w": "o110130010121",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t10": {
+          "w": [
+            "o110130010152"
+          ],
+          "p": {
+            "w": "o110130010152",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        }
+      }
+    },
+    "questions": {
+      "q0": {
+        "type": "choice",
+        "target": "t0",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q1": {
+        "type": "choice",
+        "target": "t0",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q2": {
+        "type": "choice",
+        "target": "t1",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q3": {
+        "type": "choice",
+        "target": "t1",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q4": {
+        "type": "choice",
+        "target": "t2",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q5": {
+        "type": "choice",
+        "target": "t2",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q6": {
+        "type": "choice",
+        "target": "t3",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q7": {
+        "type": "choice",
+        "target": "t3",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q8": {
+        "type": "choice",
+        "target": "t4",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q9": {
+        "type": "choice",
+        "target": "t4",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q10": {
+        "type": "choice",
+        "target": "t5",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q11": {
+        "type": "choice",
+        "target": "t5",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q12": {
+        "type": "choice",
+        "target": "t6",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q13": {
+        "type": "choice",
+        "target": "t6",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q14": {
+        "type": "choice",
+        "target": "t7",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q15": {
+        "type": "choice",
+        "target": "t7",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q16": {
+        "type": "choice",
+        "target": "t8",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q17": {
+        "type": "choice",
+        "target": "t8",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q18": {
+        "type": "choice",
+        "target": "t9",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q19": {
+        "type": "choice",
+        "target": "t9",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q20": {
+        "type": "choice",
+        "target": "t10",
+        "kind": "candidate_assessment",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q21": {
+        "type": "choice",
+        "target": "t10",
+        "kind": "statement_function",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      }
+    }
+  },
+  "local_record": {
+    "serialization_version": "0.2.0-compact.1",
+    "permanent_request_fingerprint": "10da2e0bcd9b54805acaf07c9922b17d09d51eb501c0aab132268d0d6a60eb34",
+    "compact_request_fingerprint": "ed20093b02532929476e052e99919491b7feaea5e3126f63b814c289e8f3b43d",
+    "target_map": {
+      "broad_1_kings_13_1_3:book_13_01_1101300100210100_p1": {
+        "local_id": "t0",
+        "context_id": "broad_1_kings_13_1_3",
+        "window_local_id": "w0",
+        "permanent_statement_id": "book_13_01_1101300100210100_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 1
+        },
+        "source_text": "אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִ יהוּדָ֛ה בִּ דְבַ֥ר יְהוָ֖ה אֶל בֵּֽית אֵ֑ל",
+        "source_word_ids": [
+          "o110130010021",
+          "o110130010031",
+          "o110130010041",
+          "o110130010051",
+          "o110130010052",
+          "o110130010061",
+          "o110130010062",
+          "o110130010071",
+          "o110130010081",
+          "o110130010091",
+          "o110130010101"
+        ],
+        "predicate": {
+          "word_id": "o110130010041",
+          "text": "בָּ֧א",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "broad_1_kings_13_1_3:book_13_01_1101300101120070_p1": {
+        "local_id": "t1",
+        "context_id": "broad_1_kings_13_1_3",
+        "window_local_id": "w0",
+        "permanent_statement_id": "book_13_01_1101300101120070_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 1
+        },
+        "source_text": "יָרָבְעָ֛ם עֹמֵ֥ד עַל הַ מִּזְבֵּ֖חַ לְ הַקְטִֽיר",
+        "source_word_ids": [
+          "o110130010112",
+          "o110130010121",
+          "o110130010131",
+          "o110130010141",
+          "o110130010142",
+          "o110130010151",
+          "o110130010152"
+        ],
+        "predicate": {
+          "word_id": "o110130010121",
+          "text": "עֹמֵ֥ד",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "broad_1_kings_13_1_3:book_13_01_1101300101520013_p1": {
+        "local_id": "t2",
+        "context_id": "broad_1_kings_13_1_3",
+        "window_local_id": "w0",
+        "permanent_statement_id": "book_13_01_1101300101520013_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 1
+        },
+        "source_text": "הַקְטִֽיר",
+        "source_word_ids": [
+          "o110130010152"
+        ],
+        "predicate": {
+          "word_id": "o110130010152",
+          "text": "הַקְטִֽיר",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "broad_1_kings_13_1_3:book_13_02_1101300201310050_p1": {
+        "local_id": "t3",
+        "context_id": "broad_1_kings_13_1_3",
+        "window_local_id": "w0",
+        "permanent_statement_id": "book_13_02_1101300201310050_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 2
+        },
+        "source_text": "בֵ֞ן נוֹלָ֤ד לְ בֵית דָּוִד֙",
+        "source_word_ids": [
+          "o110130020131",
+          "o110130020141",
+          "o110130020151",
+          "o110130020152",
+          "o110130020161"
+        ],
+        "predicate": {
+          "word_id": "o110130020141",
+          "text": "נוֹלָ֤ד",
+          "voice": "passive"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "broad_1_kings_13_1_3:book_13_02_1101300201920110_p1": {
+        "local_id": "t4",
+        "context_id": "broad_1_kings_13_1_3",
+        "window_local_id": "w0",
+        "permanent_statement_id": "book_13_02_1101300201920110_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 2
+        },
+        "source_text": "זָבַ֣ח עָלֶ֗י ךָ אֶת כֹּהֲנֵ֤י הַ בָּמוֹת֙ הַ מַּקְטִרִ֣ים עָלֶ֔י ךָ",
+        "source_word_ids": [
+          "o110130020192",
+          "o110130020201",
+          "o110130020202",
+          "o110130020211",
+          "o110130020221",
+          "o110130020231",
+          "o110130020232",
+          "o110130020241",
+          "o110130020242",
+          "o110130020251",
+          "o110130020252"
+        ],
+        "predicate": {
+          "word_id": "o110130020192",
+          "text": "זָבַ֣ח",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "broad_1_kings_13_1_3:book_13_02_1101300202620050_p1": {
+        "local_id": "t5",
+        "context_id": "broad_1_kings_13_1_3",
+        "window_local_id": "w0",
+        "permanent_statement_id": "book_13_02_1101300202620050_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 2
+        },
+        "source_text": "עַצְמ֥וֹת אָדָ֖ם יִשְׂרְפ֥וּ עָלֶֽי ךָ",
+        "source_word_ids": [
+          "o110130020262",
+          "o110130020271",
+          "o110130020281",
+          "o110130020291",
+          "o110130020292"
+        ],
+        "predicate": {
+          "word_id": "o110130020281",
+          "text": "יִשְׂרְפ֥וּ",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "broad_1_kings_13_1_3:book_13_03_1101300301210030_p1": {
+        "local_id": "t6",
+        "context_id": "broad_1_kings_13_1_3",
+        "window_local_id": "w0",
+        "permanent_statement_id": "book_13_03_1101300301210030_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 3
+        },
+        "source_text": "הַ מִּזְבֵּ֨חַ֙ נִקְרָ֔ע",
+        "source_word_ids": [
+          "o110130030121",
+          "o110130030122",
+          "o110130030131"
+        ],
+        "predicate": {
+          "word_id": "o110130030131",
+          "text": "נִקְרָ֔ע",
+          "voice": "passive"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "broad_1_kings_13_1_3:book_13_03_1101300301420060_p1": {
+        "local_id": "t7",
+        "context_id": "broad_1_kings_13_1_3",
+        "window_local_id": "w0",
+        "permanent_statement_id": "book_13_03_1101300301420060_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 3
+        },
+        "source_text": "נִשְׁפַּ֖ךְ הַ דֶּ֥שֶׁן אֲשֶׁר עָלָֽי ו",
+        "source_word_ids": [
+          "o110130030142",
+          "o110130030151",
+          "o110130030152",
+          "o110130030161",
+          "o110130030171",
+          "o110130030172"
+        ],
+        "predicate": {
+          "word_id": "o110130030142",
+          "text": "נִשְׁפַּ֖ךְ",
+          "voice": "passive"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "isolated_1_kings_13_1:book_13_01_1101300100210100_p1": {
+        "local_id": "t8",
+        "context_id": "isolated_1_kings_13_1",
+        "window_local_id": "w1",
+        "permanent_statement_id": "book_13_01_1101300100210100_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 1
+        },
+        "source_text": "אִ֣ישׁ אֱלֹהִ֗ים בָּ֧א מִ יהוּדָ֛ה בִּ דְבַ֥ר יְהוָ֖ה אֶל בֵּֽית אֵ֑ל",
+        "source_word_ids": [
+          "o110130010021",
+          "o110130010031",
+          "o110130010041",
+          "o110130010051",
+          "o110130010052",
+          "o110130010061",
+          "o110130010062",
+          "o110130010071",
+          "o110130010081",
+          "o110130010091",
+          "o110130010101"
+        ],
+        "predicate": {
+          "word_id": "o110130010041",
+          "text": "בָּ֧א",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "isolated_1_kings_13_1:book_13_01_1101300101120070_p1": {
+        "local_id": "t9",
+        "context_id": "isolated_1_kings_13_1",
+        "window_local_id": "w1",
+        "permanent_statement_id": "book_13_01_1101300101120070_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 1
+        },
+        "source_text": "יָרָבְעָ֛ם עֹמֵ֥ד עַל הַ מִּזְבֵּ֖חַ לְ הַקְטִֽיר",
+        "source_word_ids": [
+          "o110130010112",
+          "o110130010121",
+          "o110130010131",
+          "o110130010141",
+          "o110130010142",
+          "o110130010151",
+          "o110130010152"
+        ],
+        "predicate": {
+          "word_id": "o110130010121",
+          "text": "עֹמֵ֥ד",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "isolated_1_kings_13_1:book_13_01_1101300101520013_p1": {
+        "local_id": "t10",
+        "context_id": "isolated_1_kings_13_1",
+        "window_local_id": "w1",
+        "permanent_statement_id": "book_13_01_1101300101520013_p1",
+        "reference": {
+          "book": "1 Kings",
+          "chapter": 13,
+          "verse": 1
+        },
+        "source_text": "הַקְטִֽיר",
+        "source_word_ids": [
+          "o110130010152"
+        ],
+        "predicate": {
+          "word_id": "o110130010152",
+          "text": "הַקְטִֽיר",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      }
+    },
+    "question_map": {
+      "q0": {
+        "permanent_question_id": "broad:book_13_01_1101300100210100_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_01_1101300100210100_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t0",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q1": {
+        "permanent_question_id": "broad:book_13_01_1101300100210100_p1:statement_function",
+        "permanent_statement_id": "book_13_01_1101300100210100_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t0",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q2": {
+        "permanent_question_id": "broad:book_13_01_1101300101120070_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_01_1101300101120070_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t1",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q3": {
+        "permanent_question_id": "broad:book_13_01_1101300101120070_p1:statement_function",
+        "permanent_statement_id": "book_13_01_1101300101120070_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t1",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q4": {
+        "permanent_question_id": "broad:book_13_01_1101300101520013_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_01_1101300101520013_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t2",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q5": {
+        "permanent_question_id": "broad:book_13_01_1101300101520013_p1:statement_function",
+        "permanent_statement_id": "book_13_01_1101300101520013_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t2",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q6": {
+        "permanent_question_id": "broad:book_13_02_1101300201310050_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_02_1101300201310050_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t3",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q7": {
+        "permanent_question_id": "broad:book_13_02_1101300201310050_p1:statement_function",
+        "permanent_statement_id": "book_13_02_1101300201310050_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t3",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q8": {
+        "permanent_question_id": "broad:book_13_02_1101300201920110_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_02_1101300201920110_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t4",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q9": {
+        "permanent_question_id": "broad:book_13_02_1101300201920110_p1:statement_function",
+        "permanent_statement_id": "book_13_02_1101300201920110_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t4",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q10": {
+        "permanent_question_id": "broad:book_13_02_1101300202620050_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_02_1101300202620050_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t5",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q11": {
+        "permanent_question_id": "broad:book_13_02_1101300202620050_p1:statement_function",
+        "permanent_statement_id": "book_13_02_1101300202620050_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t5",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q12": {
+        "permanent_question_id": "broad:book_13_03_1101300301210030_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_03_1101300301210030_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t6",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q13": {
+        "permanent_question_id": "broad:book_13_03_1101300301210030_p1:statement_function",
+        "permanent_statement_id": "book_13_03_1101300301210030_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t6",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q14": {
+        "permanent_question_id": "broad:book_13_03_1101300301420060_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_03_1101300301420060_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t7",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q15": {
+        "permanent_question_id": "broad:book_13_03_1101300301420060_p1:statement_function",
+        "permanent_statement_id": "book_13_03_1101300301420060_p1",
+        "context_id": "broad_1_kings_13_1_3",
+        "target_local_id": "t7",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q16": {
+        "permanent_question_id": "isolated:book_13_01_1101300100210100_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_01_1101300100210100_p1",
+        "context_id": "isolated_1_kings_13_1",
+        "target_local_id": "t8",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q17": {
+        "permanent_question_id": "isolated:book_13_01_1101300100210100_p1:statement_function",
+        "permanent_statement_id": "book_13_01_1101300100210100_p1",
+        "context_id": "isolated_1_kings_13_1",
+        "target_local_id": "t8",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q18": {
+        "permanent_question_id": "isolated:book_13_01_1101300101120070_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_01_1101300101120070_p1",
+        "context_id": "isolated_1_kings_13_1",
+        "target_local_id": "t9",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q19": {
+        "permanent_question_id": "isolated:book_13_01_1101300101120070_p1:statement_function",
+        "permanent_statement_id": "book_13_01_1101300101120070_p1",
+        "context_id": "isolated_1_kings_13_1",
+        "target_local_id": "t9",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q20": {
+        "permanent_question_id": "isolated:book_13_01_1101300101520013_p1:candidate_assessment",
+        "permanent_statement_id": "book_13_01_1101300101520013_p1",
+        "context_id": "isolated_1_kings_13_1",
+        "target_local_id": "t10",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q21": {
+        "permanent_question_id": "isolated:book_13_01_1101300101520013_p1:statement_function",
+        "permanent_statement_id": "book_13_01_1101300101520013_p1",
+        "context_id": "isolated_1_kings_13_1",
+        "target_local_id": "t10",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      }
+    },
+    "context_window_map": {
+      "broad_1_kings_13_1_3": "w0",
+      "isolated_1_kings_13_1": "w1"
+    },
+    "audit_boundary": "Permanent IDs, expected control outcomes, readable text, and audit references remain outside the compact model payload.",
+    "expected_candidate_answers": {
+      "broad:book_13_01_1101300100210100_p1:candidate_assessment": "no_support_in_supplied_context",
+      "isolated:book_13_01_1101300100210100_p1:candidate_assessment": "no_support_in_supplied_context",
+      "broad:book_13_01_1101300101120070_p1:candidate_assessment": "no_support_in_supplied_context",
+      "isolated:book_13_01_1101300101120070_p1:candidate_assessment": "no_support_in_supplied_context",
+      "broad:book_13_01_1101300101520013_p1:candidate_assessment": "no_support_in_supplied_context",
+      "isolated:book_13_01_1101300101520013_p1:candidate_assessment": "no_support_in_supplied_context",
+      "broad:book_13_02_1101300201310050_p1:candidate_assessment": "supported_candidate",
+      "broad:book_13_02_1101300201920110_p1:candidate_assessment": "supported_candidate",
+      "broad:book_13_02_1101300202620050_p1:candidate_assessment": "supported_candidate",
+      "broad:book_13_03_1101300301210030_p1:candidate_assessment": "supported_candidate",
+      "broad:book_13_03_1101300301420060_p1:candidate_assessment": "supported_candidate"
+    }
+  },
+  "local_validation": {
+    "full": {
+      "ok": true,
+      "errors": []
+    },
+    "compact": {
+      "ok": true,
+      "errors": []
+    }
+  },
+  "preflight": {
+    "rough_estimated_input_tokens": 4203,
+    "context_limit_tokens": 32000
+  },
+  "status": "malformed_response",
+  "error": "{\"error\":{\"message\":\"[\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q0\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n       ",
+  "raw_response_text": "{\"error\":{\"message\":\"[\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q0\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q1\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q2\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q3\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q4\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q5\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q6\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q7\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q8\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q9\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q10\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q11\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q12\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q13\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q14\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q15\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q16\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q17\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q18\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q19\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q20\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  },\\n  {\\n    \\\"code\\\": \\\"invalid_union\\\",\\n    \\\"errors\\\": [\\n      [\\n        {\\n          \\\"expected\\\": \\\"string\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected string, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"record\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected record, received undefined\\\"\\n        }\\n      ],\\n      [\\n        {\\n          \\\"expected\\\": \\\"array\\\",\\n          \\\"code\\\": \\\"invalid_type\\\",\\n          \\\"path\\\": [],\\n          \\\"message\\\": \\\"Invalid input: expected array, received undefined\\\"\\n        }\\n      ]\\n    ],\\n    \\\"path\\\": [\\n      \\\"questions\\\",\\n      \\\"q21\\\",\\n      \\\"instructions\\\"\\n    ],\\n    \\\"message\\\": \\\"Invalid input\\\"\\n  }\\n]\",\"code\":400},\"user_id\":\"user_3K8kSxIBFYgBR4EdtCaWx2Cglto\"}",
+  "raw_response": {
+    "error": {
+      "message": "[\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q0\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q1\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q2\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q3\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q4\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q5\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q6\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q7\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q8\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q9\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q10\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q11\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q12\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q13\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q14\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q15\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q16\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q17\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q18\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q19\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q20\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  },\n  {\n    \"code\": \"invalid_union\",\n    \"errors\": [\n      [\n        {\n          \"expected\": \"string\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected string, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"record\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected record, received undefined\"\n        }\n      ],\n      [\n        {\n          \"expected\": \"array\",\n          \"code\": \"invalid_type\",\n          \"path\": [],\n          \"message\": \"Invalid input: expected array, received undefined\"\n        }\n      ]\n    ],\n    \"path\": [\n      \"questions\",\n      \"q21\",\n      \"instructions\"\n    ],\n    \"message\": \"Invalid input\"\n  }\n]",
+      "code": 400
+    },
+    "user_id": "user_3K8kSxIBFYgBR4EdtCaWx2Cglto"
+  },
+  "response_validation": {
+    "ok": false,
+    "errors": [
+      "http_400"
+    ]
+  },
+  "usage": {
+    "input_tokens": null,
+    "output_tokens": null
+  },
+  "elapsed_ms": 385,
+  "attempted_at": "2026-10-08T23:16:24.466Z",
+  "served_model": null,
+  "provider": null,
+  "control_comparison": {
+    "observations": [
+      {
+        "permanent_question_id": "broad:book_13_01_1101300100210100_p1:candidate_assessment",
+        "expected": "no_support_in_supplied_context",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "isolated:book_13_01_1101300100210100_p1:candidate_assessment",
+        "expected": "no_support_in_supplied_context",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "broad:book_13_01_1101300101120070_p1:candidate_assessment",
+        "expected": "no_support_in_supplied_context",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "isolated:book_13_01_1101300101120070_p1:candidate_assessment",
+        "expected": "no_support_in_supplied_context",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "broad:book_13_01_1101300101520013_p1:candidate_assessment",
+        "expected": "no_support_in_supplied_context",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "isolated:book_13_01_1101300101520013_p1:candidate_assessment",
+        "expected": "no_support_in_supplied_context",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "broad:book_13_02_1101300201310050_p1:candidate_assessment",
+        "expected": "supported_candidate",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "broad:book_13_02_1101300201920110_p1:candidate_assessment",
+        "expected": "supported_candidate",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "broad:book_13_02_1101300202620050_p1:candidate_assessment",
+        "expected": "supported_candidate",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "broad:book_13_03_1101300301210030_p1:candidate_assessment",
+        "expected": "supported_candidate",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      },
+      {
+        "permanent_question_id": "broad:book_13_03_1101300301420060_p1:candidate_assessment",
+        "expected": "supported_candidate",
+        "observed": null,
+        "probabilities": null,
+        "pass": false
+      }
+    ],
+    "narrative_separation_pass": false,
+    "prediction_detection_pass": false
+  },
+  "file": "one-kings-13-narrative-separation-compact.ed20093b02532929476e052e99919491b7feaea5e3126f63b814c289e8f3b43d.json"
+}

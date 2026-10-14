@@ -1,0 +1,1103 @@
+{
+  "window_id": "01:19:37-01:19:38",
+  "requested_model": "typesafe/jev-1.13",
+  "request_fingerprint": "ecb84d9ed4ca2ca27e219ec919b7974f2ddcef5920ad66aac46d5bd38e8d973a",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "v": "0.2.0-compact.1",
+      "i": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "d": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      },
+      "w": {
+        "w0": {
+          "v": [
+            {
+              "reference": "Genesis 19:37",
+              "verse": 37,
+              "source_word_ids": [
+                "o010190370011",
+                "o010190370012",
+                "o010190370021",
+                "o010190370022",
+                "o010190370031",
+                "o010190370041",
+                "o010190370042",
+                "o010190370051",
+                "o010190370052",
+                "o010190370061",
+                "o010190370071",
+                "o010190370081",
+                "o010190370091",
+                "o010190370101",
+                "o010190370111",
+                "o010190370112"
+              ],
+              "source_text": "וַ תֵּ֤לֶד הַ בְּכִירָה֙ בֵּ֔ן וַ תִּקְרָ֥א שְׁמ֖ וֹ מוֹאָ֑ב ה֥וּא אֲבִֽי מוֹאָ֖ב עַד הַ יּֽוֹם"
+            },
+            {
+              "reference": "Genesis 19:38",
+              "verse": 38,
+              "source_word_ids": [
+                "o010190380011",
+                "o010190380012",
+                "o010190380013",
+                "o010190380021",
+                "o010190380031",
+                "o010190380041",
+                "o010190380051",
+                "o010190380061",
+                "o010190380062",
+                "o010190380071",
+                "o010190380072",
+                "o010190380081",
+                "o010190380091",
+                "o010190380101",
+                "o010190380111",
+                "o010190380121",
+                "o010190380131",
+                "o010190380141",
+                "o010190380151",
+                "o010190380152"
+              ],
+              "source_text": "וְ הַ צְּעִירָ֤ה גַם הִוא֙ יָ֣לְדָה בֵּ֔ן וַ תִּקְרָ֥א שְׁמ֖ וֹ בֶּן עַמִּ֑י ה֛וּא אֲבִ֥י בְנֵֽי עַמּ֖וֹן עַד הַ יּֽוֹם"
+            }
+          ],
+          "x": {
+            "book": "Genesis",
+            "chapter": 19,
+            "firstVerse": 37,
+            "lastVerse": 38
+          }
+        }
+      },
+      "t": {
+        "t0": {
+          "w": [
+            "o010190370012",
+            "o010190370021",
+            "o010190370022",
+            "o010190370031"
+          ],
+          "p": {
+            "w": "o010190370012",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t1": {
+          "w": [
+            "o010190370042",
+            "o010190370051",
+            "o010190370052",
+            "o010190370061"
+          ],
+          "p": {
+            "w": "o010190370042",
+            "v": "active"
+          },
+          "s": {
+            "k": "governing_predication_with_embedded_content",
+            "c": [
+              {
+                "w": [
+                  "o010190370061"
+                ],
+                "s": {
+                  "relation": "predicate_complement",
+                  "governing_predicate_word_id": "o010190370042"
+                }
+              }
+            ]
+          }
+        },
+        "t2": {
+          "w": [
+            "o010190370071",
+            "o010190370081",
+            "o010190370091",
+            "o010190370101",
+            "o010190370111",
+            "o010190370112"
+          ],
+          "p": {
+            "w": "o010190370081",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t3": {
+          "w": [
+            "o010190380021",
+            "o010190380031",
+            "o010190380041",
+            "o010190380051"
+          ],
+          "p": {
+            "w": "o010190380041",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t4": {
+          "w": [
+            "o010190380062",
+            "o010190380071",
+            "o010190380072",
+            "o010190380081",
+            "o010190380091"
+          ],
+          "p": {
+            "w": "o010190380062",
+            "v": "active"
+          },
+          "s": {
+            "k": "governing_predication_with_embedded_content",
+            "c": [
+              {
+                "w": [
+                  "o010190380081",
+                  "o010190380091"
+                ],
+                "s": {
+                  "relation": "predicate_complement",
+                  "governing_predicate_word_id": "o010190380062"
+                }
+              }
+            ]
+          }
+        },
+        "t5": {
+          "w": [
+            "o010190380101",
+            "o010190380111",
+            "o010190380121",
+            "o010190380131",
+            "o010190380141",
+            "o010190380151",
+            "o010190380152"
+          ],
+          "p": {
+            "w": "o010190380111",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        }
+      }
+    },
+    "questions": {
+      "q0": {
+        "type": "choice",
+        "target": "t0",
+        "kind": "candidate_assessment",
+        "instructions": "Assess candidate_assessment for t0 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q1": {
+        "type": "choice",
+        "target": "t0",
+        "kind": "statement_function",
+        "instructions": "Assess statement_function for t0 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q2": {
+        "type": "choice",
+        "target": "t0",
+        "kind": "relationship",
+        "instructions": "Assess relationship for t0 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "establishes_announcement_anchor": "relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "relationship.relationship_underdetermined"
+        }
+      },
+      "q3": {
+        "type": "choice",
+        "target": "t1",
+        "kind": "candidate_assessment",
+        "instructions": "Assess candidate_assessment for t1 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q4": {
+        "type": "choice",
+        "target": "t1",
+        "kind": "statement_function",
+        "instructions": "Assess statement_function for t1 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q5": {
+        "type": "choice",
+        "target": "t1",
+        "kind": "relationship",
+        "instructions": "Assess relationship for t1 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "establishes_announcement_anchor": "relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "relationship.relationship_underdetermined"
+        }
+      },
+      "q6": {
+        "type": "choice",
+        "target": "t2",
+        "kind": "candidate_assessment",
+        "instructions": "Assess candidate_assessment for t2 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q7": {
+        "type": "choice",
+        "target": "t2",
+        "kind": "statement_function",
+        "instructions": "Assess statement_function for t2 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q8": {
+        "type": "choice",
+        "target": "t2",
+        "kind": "relationship",
+        "instructions": "Assess relationship for t2 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "establishes_announcement_anchor": "relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "relationship.relationship_underdetermined"
+        }
+      },
+      "q9": {
+        "type": "choice",
+        "target": "t3",
+        "kind": "candidate_assessment",
+        "instructions": "Assess candidate_assessment for t3 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q10": {
+        "type": "choice",
+        "target": "t3",
+        "kind": "statement_function",
+        "instructions": "Assess statement_function for t3 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q11": {
+        "type": "choice",
+        "target": "t3",
+        "kind": "relationship",
+        "instructions": "Assess relationship for t3 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "establishes_announcement_anchor": "relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "relationship.relationship_underdetermined"
+        }
+      },
+      "q12": {
+        "type": "choice",
+        "target": "t4",
+        "kind": "candidate_assessment",
+        "instructions": "Assess candidate_assessment for t4 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q13": {
+        "type": "choice",
+        "target": "t4",
+        "kind": "statement_function",
+        "instructions": "Assess statement_function for t4 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q14": {
+        "type": "choice",
+        "target": "t4",
+        "kind": "relationship",
+        "instructions": "Assess relationship for t4 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "establishes_announcement_anchor": "relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "relationship.relationship_underdetermined"
+        }
+      },
+      "q15": {
+        "type": "choice",
+        "target": "t5",
+        "kind": "candidate_assessment",
+        "instructions": "Assess candidate_assessment for t5 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q16": {
+        "type": "choice",
+        "target": "t5",
+        "kind": "statement_function",
+        "instructions": "Assess statement_function for t5 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q17": {
+        "type": "choice",
+        "target": "t5",
+        "kind": "relationship",
+        "instructions": "Assess relationship for t5 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "establishes_announcement_anchor": "relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "relationship.relationship_underdetermined"
+        }
+      }
+    }
+  },
+  "local_record": {
+    "serialization_version": "0.2.0-compact.1",
+    "permanent_request_fingerprint": "291c8dfb4147411622b644d017bef0e17a4711eeb6fad0fa4104d5efd2fe0742",
+    "compact_request_fingerprint": "ecb84d9ed4ca2ca27e219ec919b7974f2ddcef5920ad66aac46d5bd38e8d973a",
+    "target_map": {
+      "gen_19_37_0101903700120040_p1": {
+        "local_id": "t0",
+        "permanent_statement_id": "gen_19_37_0101903700120040_p1",
+        "reference": {
+          "book": "Genesis",
+          "chapter": 19,
+          "verse": 37
+        },
+        "source_text": "תֵּ֤לֶד הַ בְּכִירָה֙ בֵּ֔ן",
+        "source_word_ids": [
+          "o010190370012",
+          "o010190370021",
+          "o010190370022",
+          "o010190370031"
+        ],
+        "predicate": {
+          "word_id": "o010190370012",
+          "text": "תֵּ֤לֶד",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "gen_19_37_0101903700420040_p1": {
+        "local_id": "t1",
+        "permanent_statement_id": "gen_19_37_0101903700420040_p1",
+        "reference": {
+          "book": "Genesis",
+          "chapter": 19,
+          "verse": 37
+        },
+        "source_text": "תִּקְרָ֥א שְׁמ֖ וֹ מוֹאָ֑ב",
+        "source_word_ids": [
+          "o010190370042",
+          "o010190370051",
+          "o010190370052",
+          "o010190370061"
+        ],
+        "predicate": {
+          "word_id": "o010190370042",
+          "text": "תִּקְרָ֥א",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "governing_predication_with_embedded_content",
+          "complements": [
+            {
+              "word_ids": [
+                "o010190370061"
+              ],
+              "source_text": "מוֹאָ֑ב",
+              "scope": {
+                "relation": "predicate_complement",
+                "governing_predicate_word_id": "o010190370042"
+              }
+            }
+          ]
+        }
+      },
+      "gen_19_37_0101903700710060_p1": {
+        "local_id": "t2",
+        "permanent_statement_id": "gen_19_37_0101903700710060_p1",
+        "reference": {
+          "book": "Genesis",
+          "chapter": 19,
+          "verse": 37
+        },
+        "source_text": "ה֥וּא אֲבִֽי מוֹאָ֖ב עַד הַ יּֽוֹם",
+        "source_word_ids": [
+          "o010190370071",
+          "o010190370081",
+          "o010190370091",
+          "o010190370101",
+          "o010190370111",
+          "o010190370112"
+        ],
+        "predicate": {
+          "word_id": "o010190370081",
+          "text": "אֲבִֽי",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "gen_19_38_0101903800210040_p1": {
+        "local_id": "t3",
+        "permanent_statement_id": "gen_19_38_0101903800210040_p1",
+        "reference": {
+          "book": "Genesis",
+          "chapter": 19,
+          "verse": 38
+        },
+        "source_text": "גַם הִוא֙ יָ֣לְדָה בֵּ֔ן",
+        "source_word_ids": [
+          "o010190380021",
+          "o010190380031",
+          "o010190380041",
+          "o010190380051"
+        ],
+        "predicate": {
+          "word_id": "o010190380041",
+          "text": "יָ֣לְדָה",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "gen_19_38_0101903800620040_p1": {
+        "local_id": "t4",
+        "permanent_statement_id": "gen_19_38_0101903800620040_p1",
+        "reference": {
+          "book": "Genesis",
+          "chapter": 19,
+          "verse": 38
+        },
+        "source_text": "תִּקְרָ֥א שְׁמ֖ וֹ בֶּן עַמִּ֑י",
+        "source_word_ids": [
+          "o010190380062",
+          "o010190380071",
+          "o010190380072",
+          "o010190380081",
+          "o010190380091"
+        ],
+        "predicate": {
+          "word_id": "o010190380062",
+          "text": "תִּקְרָ֥א",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "governing_predication_with_embedded_content",
+          "complements": [
+            {
+              "word_ids": [
+                "o010190380081",
+                "o010190380091"
+              ],
+              "source_text": "בֶּן עַמִּ֑י",
+              "scope": {
+                "relation": "predicate_complement",
+                "governing_predicate_word_id": "o010190380062"
+              }
+            }
+          ]
+        }
+      },
+      "gen_19_38_0101903801010070_p1": {
+        "local_id": "t5",
+        "permanent_statement_id": "gen_19_38_0101903801010070_p1",
+        "reference": {
+          "book": "Genesis",
+          "chapter": 19,
+          "verse": 38
+        },
+        "source_text": "ה֛וּא אֲבִ֥י בְנֵֽי עַמּ֖וֹן עַד הַ יּֽוֹם",
+        "source_word_ids": [
+          "o010190380101",
+          "o010190380111",
+          "o010190380121",
+          "o010190380131",
+          "o010190380141",
+          "o010190380151",
+          "o010190380152"
+        ],
+        "predicate": {
+          "word_id": "o010190380111",
+          "text": "אֲבִ֥י",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      }
+    },
+    "question_map": {
+      "q0": {
+        "permanent_question_id": "gen_19_37_0101903700120040_p1:candidate_assessment",
+        "permanent_statement_id": "gen_19_37_0101903700120040_p1",
+        "target_local_id": "t0",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q1": {
+        "permanent_question_id": "gen_19_37_0101903700120040_p1:statement_function",
+        "permanent_statement_id": "gen_19_37_0101903700120040_p1",
+        "target_local_id": "t0",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q2": {
+        "permanent_question_id": "gen_19_37_0101903700120040_p1:relationship",
+        "permanent_statement_id": "gen_19_37_0101903700120040_p1",
+        "target_local_id": "t0",
+        "question_kind": "relationship",
+        "choice_set": "relationship",
+        "allowed_choices": [
+          "establishes_announcement_anchor",
+          "contributes_to_announcement_anchor",
+          "surrounding_or_other_content",
+          "relationship_underdetermined"
+        ]
+      },
+      "q3": {
+        "permanent_question_id": "gen_19_37_0101903700420040_p1:candidate_assessment",
+        "permanent_statement_id": "gen_19_37_0101903700420040_p1",
+        "target_local_id": "t1",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q4": {
+        "permanent_question_id": "gen_19_37_0101903700420040_p1:statement_function",
+        "permanent_statement_id": "gen_19_37_0101903700420040_p1",
+        "target_local_id": "t1",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q5": {
+        "permanent_question_id": "gen_19_37_0101903700420040_p1:relationship",
+        "permanent_statement_id": "gen_19_37_0101903700420040_p1",
+        "target_local_id": "t1",
+        "question_kind": "relationship",
+        "choice_set": "relationship",
+        "allowed_choices": [
+          "establishes_announcement_anchor",
+          "contributes_to_announcement_anchor",
+          "surrounding_or_other_content",
+          "relationship_underdetermined"
+        ]
+      },
+      "q6": {
+        "permanent_question_id": "gen_19_37_0101903700710060_p1:candidate_assessment",
+        "permanent_statement_id": "gen_19_37_0101903700710060_p1",
+        "target_local_id": "t2",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q7": {
+        "permanent_question_id": "gen_19_37_0101903700710060_p1:statement_function",
+        "permanent_statement_id": "gen_19_37_0101903700710060_p1",
+        "target_local_id": "t2",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q8": {
+        "permanent_question_id": "gen_19_37_0101903700710060_p1:relationship",
+        "permanent_statement_id": "gen_19_37_0101903700710060_p1",
+        "target_local_id": "t2",
+        "question_kind": "relationship",
+        "choice_set": "relationship",
+        "allowed_choices": [
+          "establishes_announcement_anchor",
+          "contributes_to_announcement_anchor",
+          "surrounding_or_other_content",
+          "relationship_underdetermined"
+        ]
+      },
+      "q9": {
+        "permanent_question_id": "gen_19_38_0101903800210040_p1:candidate_assessment",
+        "permanent_statement_id": "gen_19_38_0101903800210040_p1",
+        "target_local_id": "t3",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q10": {
+        "permanent_question_id": "gen_19_38_0101903800210040_p1:statement_function",
+        "permanent_statement_id": "gen_19_38_0101903800210040_p1",
+        "target_local_id": "t3",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q11": {
+        "permanent_question_id": "gen_19_38_0101903800210040_p1:relationship",
+        "permanent_statement_id": "gen_19_38_0101903800210040_p1",
+        "target_local_id": "t3",
+        "question_kind": "relationship",
+        "choice_set": "relationship",
+        "allowed_choices": [
+          "establishes_announcement_anchor",
+          "contributes_to_announcement_anchor",
+          "surrounding_or_other_content",
+          "relationship_underdetermined"
+        ]
+      },
+      "q12": {
+        "permanent_question_id": "gen_19_38_0101903800620040_p1:candidate_assessment",
+        "permanent_statement_id": "gen_19_38_0101903800620040_p1",
+        "target_local_id": "t4",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q13": {
+        "permanent_question_id": "gen_19_38_0101903800620040_p1:statement_function",
+        "permanent_statement_id": "gen_19_38_0101903800620040_p1",
+        "target_local_id": "t4",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q14": {
+        "permanent_question_id": "gen_19_38_0101903800620040_p1:relationship",
+        "permanent_statement_id": "gen_19_38_0101903800620040_p1",
+        "target_local_id": "t4",
+        "question_kind": "relationship",
+        "choice_set": "relationship",
+        "allowed_choices": [
+          "establishes_announcement_anchor",
+          "contributes_to_announcement_anchor",
+          "surrounding_or_other_content",
+          "relationship_underdetermined"
+        ]
+      },
+      "q15": {
+        "permanent_question_id": "gen_19_38_0101903801010070_p1:candidate_assessment",
+        "permanent_statement_id": "gen_19_38_0101903801010070_p1",
+        "target_local_id": "t5",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q16": {
+        "permanent_question_id": "gen_19_38_0101903801010070_p1:statement_function",
+        "permanent_statement_id": "gen_19_38_0101903801010070_p1",
+        "target_local_id": "t5",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q17": {
+        "permanent_question_id": "gen_19_38_0101903801010070_p1:relationship",
+        "permanent_statement_id": "gen_19_38_0101903801010070_p1",
+        "target_local_id": "t5",
+        "question_kind": "relationship",
+        "choice_set": "relationship",
+        "allowed_choices": [
+          "establishes_announcement_anchor",
+          "contributes_to_announcement_anchor",
+          "surrounding_or_other_content",
+          "relationship_underdetermined"
+        ]
+      }
+    },
+    "audit_boundary": "Permanent statement IDs, display text, full scope text, and source references are retained locally and are not model-facing compact payload metadata."
+  },
+  "status": "succeeded",
+  "usage": {
+    "input_tokens": 5303,
+    "output_tokens": 1283
+  },
+  "attempted_at": "2026-10-13T19:59:19.579Z",
+  "elapsed_ms": 264,
+  "raw_response_text": "{\"model\":\"typesafe/jev-1.13-20260917\",\"answers\":{\"q0\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.08,\"possible_candidate\":0.02,\"no_support_in_supplied_context\":0.81,\"underdetermined\":0.09},\"confidence\":0.75},\"q1\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.08,\"contributes_to_predictive_content\":0.01,\"narration_introducing_or_reporting_predictive_content\":0.02,\"other_content\":0.87,\"underdetermined\":0.02},\"confidence\":0.84},\"q2\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.08,\"contributes_to_announcement_anchor\":0.04,\"surrounding_or_other_content\":0.73,\"relationship_underdetermined\":0.15},\"confidence\":0.64},\"q3\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.12,\"possible_candidate\":0.04,\"no_support_in_supplied_context\":0.76,\"underdetermined\":0.08},\"confidence\":0.68},\"q4\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.05,\"contributes_to_predictive_content\":0.02,\"narration_introducing_or_reporting_predictive_content\":0.04,\"other_content\":0.87,\"underdetermined\":0.02},\"confidence\":0.84},\"q5\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.07,\"contributes_to_announcement_anchor\":0.08,\"surrounding_or_other_content\":0.71,\"relationship_underdetermined\":0.14},\"confidence\":0.61},\"q6\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.09,\"possible_candidate\":0.02,\"no_support_in_supplied_context\":0.8,\"underdetermined\":0.09},\"confidence\":0.73},\"q7\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.05,\"contributes_to_predictive_content\":0.01,\"narration_introducing_or_reporting_predictive_content\":0.01,\"other_content\":0.92,\"underdetermined\":0.01},\"confidence\":0.9},\"q8\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.06,\"contributes_to_announcement_anchor\":0.05,\"surrounding_or_other_content\":0.78,\"relationship_underdetermined\":0.11},\"confidence\":0.71},\"q9\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.08,\"possible_candidate\":0.01,\"no_support_in_supplied_context\":0.82,\"underdetermined\":0.09},\"confidence\":0.76},\"q10\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.03,\"contributes_to_predictive_content\":0,\"narration_introducing_or_reporting_predictive_content\":0.02,\"other_content\":0.94,\"underdetermined\":0.01},\"confidence\":0.92},\"q11\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.02,\"contributes_to_announcement_anchor\":0.04,\"surrounding_or_other_content\":0.82,\"relationship_underdetermined\":0.12},\"confidence\":0.76},\"q12\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.09,\"possible_candidate\":0.03,\"no_support_in_supplied_context\":0.79,\"underdetermined\":0.09},\"confidence\":0.72},\"q13\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.03,\"contributes_to_predictive_content\":0.01,\"narration_introducing_or_reporting_predictive_content\":0.02,\"other_content\":0.92,\"underdetermined\":0.02},\"confidence\":0.9},\"q14\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.06,\"contributes_to_announcement_anchor\":0.08,\"surrounding_or_other_content\":0.71,\"relationship_underdetermined\":0.15},\"confidence\":0.61},\"q15\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.07,\"possible_candidate\":0.01,\"no_support_in_supplied_context\":0.84,\"underdetermined\":0.08},\"confidence\":0.79},\"q16\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.02,\"contributes_to_predictive_content\":0,\"narration_introducing_or_reporting_predictive_content\":0.01,\"other_content\":0.96,\"underdetermined\":0.01},\"confidence\":0.95},\"q17\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.03,\"contributes_to_announcement_anchor\":0.04,\"surrounding_or_other_content\":0.85,\"relationship_underdetermined\":0.08},\"confidence\":0.8}},\"usage\":{\"input_tokens\":5303,\"output_tokens\":1283,\"cost\":0.000222726},\"id\":\"gen-dec-1791921559-INoPK4uEM51VQybl3HUD\",\"provider\":\"TypeSafe\"}",
+  "raw_response": {
+    "model": "typesafe/jev-1.13-20260917",
+    "answers": {
+      "q0": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.08,
+          "possible_candidate": 0.02,
+          "no_support_in_supplied_context": 0.81,
+          "underdetermined": 0.09
+        },
+        "confidence": 0.75
+      },
+      "q1": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.08,
+          "contributes_to_predictive_content": 0.01,
+          "narration_introducing_or_reporting_predictive_content": 0.02,
+          "other_content": 0.87,
+          "underdetermined": 0.02
+        },
+        "confidence": 0.84
+      },
+      "q2": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.08,
+          "contributes_to_announcement_anchor": 0.04,
+          "surrounding_or_other_content": 0.73,
+          "relationship_underdetermined": 0.15
+        },
+        "confidence": 0.64
+      },
+      "q3": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.12,
+          "possible_candidate": 0.04,
+          "no_support_in_supplied_context": 0.76,
+          "underdetermined": 0.08
+        },
+        "confidence": 0.68
+      },
+      "q4": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.05,
+          "contributes_to_predictive_content": 0.02,
+          "narration_introducing_or_reporting_predictive_content": 0.04,
+          "other_content": 0.87,
+          "underdetermined": 0.02
+        },
+        "confidence": 0.84
+      },
+      "q5": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.07,
+          "contributes_to_announcement_anchor": 0.08,
+          "surrounding_or_other_content": 0.71,
+          "relationship_underdetermined": 0.14
+        },
+        "confidence": 0.61
+      },
+      "q6": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.09,
+          "possible_candidate": 0.02,
+          "no_support_in_supplied_context": 0.8,
+          "underdetermined": 0.09
+        },
+        "confidence": 0.73
+      },
+      "q7": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.05,
+          "contributes_to_predictive_content": 0.01,
+          "narration_introducing_or_reporting_predictive_content": 0.01,
+          "other_content": 0.92,
+          "underdetermined": 0.01
+        },
+        "confidence": 0.9
+      },
+      "q8": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.06,
+          "contributes_to_announcement_anchor": 0.05,
+          "surrounding_or_other_content": 0.78,
+          "relationship_underdetermined": 0.11
+        },
+        "confidence": 0.71
+      },
+      "q9": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.08,
+          "possible_candidate": 0.01,
+          "no_support_in_supplied_context": 0.82,
+          "underdetermined": 0.09
+        },
+        "confidence": 0.76
+      },
+      "q10": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.03,
+          "contributes_to_predictive_content": 0,
+          "narration_introducing_or_reporting_predictive_content": 0.02,
+          "other_content": 0.94,
+          "underdetermined": 0.01
+        },
+        "confidence": 0.92
+      },
+      "q11": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.02,
+          "contributes_to_announcement_anchor": 0.04,
+          "surrounding_or_other_content": 0.82,
+          "relationship_underdetermined": 0.12
+        },
+        "confidence": 0.76
+      },
+      "q12": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.09,
+          "possible_candidate": 0.03,
+          "no_support_in_supplied_context": 0.79,
+          "underdetermined": 0.09
+        },
+        "confidence": 0.72
+      },
+      "q13": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.03,
+          "contributes_to_predictive_content": 0.01,
+          "narration_introducing_or_reporting_predictive_content": 0.02,
+          "other_content": 0.92,
+          "underdetermined": 0.02
+        },
+        "confidence": 0.9
+      },
+      "q14": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.06,
+          "contributes_to_announcement_anchor": 0.08,
+          "surrounding_or_other_content": 0.71,
+          "relationship_underdetermined": 0.15
+        },
+        "confidence": 0.61
+      },
+      "q15": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.07,
+          "possible_candidate": 0.01,
+          "no_support_in_supplied_context": 0.84,
+          "underdetermined": 0.08
+        },
+        "confidence": 0.79
+      },
+      "q16": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.02,
+          "contributes_to_predictive_content": 0,
+          "narration_introducing_or_reporting_predictive_content": 0.01,
+          "other_content": 0.96,
+          "underdetermined": 0.01
+        },
+        "confidence": 0.95
+      },
+      "q17": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.03,
+          "contributes_to_announcement_anchor": 0.04,
+          "surrounding_or_other_content": 0.85,
+          "relationship_underdetermined": 0.08
+        },
+        "confidence": 0.8
+      }
+    },
+    "usage": {
+      "input_tokens": 5303,
+      "output_tokens": 1283,
+      "cost": 0.000222726
+    },
+    "id": "gen-dec-1791921559-INoPK4uEM51VQybl3HUD",
+    "provider": "TypeSafe"
+  },
+  "response_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "error": null,
+  "file": "01_19_37-01_19_38.ecb84d9ed4ca2ca27e219ec919b7974f2ddcef5920ad66aac46d5bd38e8d973a.json"
+}

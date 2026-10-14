@@ -1,0 +1,111 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 5,
+  "kept": [
+    1,
+    3,
+    4,
+    6,
+    7,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    18,
+    19,
+    20
+  ],
+  "drafted": [],
+  "repaired": [
+    2,
+    5,
+    8,
+    9,
+    17,
+    21
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "Paja no es dada a tus siervos, y ladrillos dicen a nosotros: Hagan. Y he aquí tus siervos heridos, y has pecado contra tu pueblo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02005016005",
+            "h02005016006"
+          ],
+          "issue": "Spanish makes fp לִבֵנִים the grammatical subject of mp אֹמְרִים; morphology does not license the bricks as the speakers",
+          "spanishSpan": "ladrillos dicen"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02005016012",
+            "h02005016013"
+          ],
+          "issue": "contra has no preposition token; the link of 2ms חָטָאת to עַמֶּךָ is left open by the packet",
+          "spanishSpan": "contra"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "notes": "clause role",
+      "spanish": "Y volvió Moisés a Jehová y dijo: Adonai, ¿por qué has hecho mal a este pueblo? ¿Por qué esto me enviaste?",
+      "findings": []
+    },
+    {
+      "verse": 23,
+      "notes": "clause role",
+      "spanish": "Y desde entonces que vine a Faraón a hablar en tu nombre, ha hecho mal a este pueblo, y librando, no has librado a tu pueblo.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02005023001",
+            "h02005023002"
+          ],
+          "issue": "Spanish inserts complementizer 'que' between מֵאָז and בָּאתִי; Hebrew has no relative particle (grammatical smoothing only).",
+          "spanishSpan": "que"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 2,
+      "note": "Marked the supplied copula as *es* and added 'yo' before 'oiga' to make the 1cs subject explicit, since 'oiga' alone does not distinguish yo from usted/él."
+    },
+    {
+      "verse": 5,
+      "note": "*es* is a supplied copula with no corresponding Hebrew token, and 'mucho' stays singular to agree with the singular head noun pueblo, since Spanish cannot give pueblo a plural adjective to match the Hebrew plural force of רבים."
+    },
+    {
+      "verse": 8,
+      "note": "Changed 'de ella' to 'de nosotros' to match the 1cp suffix on the preposition, and marked the supplied copula as *son*."
+    },
+    {
+      "verse": 16,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 17,
+      "note": "The copula *son* is supplied (not in the Hebrew nominal clause) and is marked in italics accordingly."
+    },
+    {
+      "verse": 22,
+      "note": "hold: clause role — whether the 1cs is the object of \"enviaste\" (you sent me) or esto further specifies what was sent to me is left unresolved by the morphology on h02005022012/h02005022013, so that wording is unchanged."
+    },
+    {
+      "verse": 23,
+      "note": "hold: clause role"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 7,
+  "kept": [
+    2,
+    3,
+    4,
+    7,
+    8,
+    9,
+    11,
+    14,
+    15,
+    16,
+    17,
+    23,
+    24
+  ],
+  "drafted": [],
+  "repaired": [
+    6,
+    13,
+    19,
+    22
+  ],
+  "repairedWithWarn": [
+    5
+  ],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y dijo Jehová a Moisés: Mira, te he dado dios a Faraón, y Aarón tu hermano será tu profeta.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02007001007"
+          ],
+          "issue": "אֱלֹהִים is a common masculine plural absolute; Spanish singular «dios» changes the number.",
+          "spanishSpan": "dios"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "clause role",
+      "spanish": "Y vino Moisés y Aarón a Faraón, e hicieron así como que mandó Jehová. Y arrojó Aarón su vara delante de Faraón y delante de sus siervos, y fue a dragón.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02007010008",
+            "h02007010009"
+          ],
+          "issue": "«como que» means «as if / seemingly»; כַּאֲשֶׁר introduces «as / according as» he commanded, not appearance or hypothesis.",
+          "spanishSpan": "como que"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02007010019",
+            "h02007010020"
+          ],
+          "issue": "«fue a dragón» is motion («went to»); וַיְהִי לְ plus the noun is «and it became» that thing.",
+          "spanishSpan": "fue a dragón"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "notes": "clause role",
+      "spanish": "Y arrojaron varón su vara, y fueron a dragones. Y tragó la vara de Aarón a sus varas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02007012004",
+            "h02007012005"
+          ],
+          "issue": "«fueron a» lee el qal de היה como ir hacia un destino. El verbo es ser/llegar a ser y el ל marca el resultado, no un lugar al que se va.",
+          "spanishSpan": "fueron a dragones"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02007012006",
+            "h02007012007",
+            "h02007012008",
+            "h02007012009",
+            "h02007012010"
+          ],
+          "issue": "El orden verbo + «la vara de Aarón» + «a sus varas» presenta la vara de Aarón como lo tragado y sus varas como complemento de dirección. El 3ms tiene por sujeto la vara de Aarón y את marca sus varas como objeto directo.",
+          "spanishSpan": "tragó la vara de Aarón a sus varas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02007012001",
+            "h02007012002",
+            "h02007012003"
+          ],
+          "issue": "«arrojaron varón» puede leerse como que arrojan a un varón. איש singular con vara poseída en 3ms y verbo 3mp es el distributivo (cada uno su vara).",
+          "spanishSpan": "arrojaron varón"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "notes": "spanish check",
+      "spanish": "Y el pez que en el Yeor morirá, y hederá el Yeor, y se cansarán Egipto de beber aguas desde el Yeor.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "Yeor no es una palabra del español actual; un lector tendría que adivinarla.",
+          "spanishSpan": "Yeor"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "notes": "spanish check",
+      "spanish": "Y hicieron así Moisés y Aarón como mandó Jehová. Y alzó con la vara y hirió las aguas que en el Yeor a ojos de Faraón y a ojos de sus siervos, y fueron vueltas todas las aguas que en el Yeor a sangre.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "Yeor no es una palabra del español actual; el lector tiene que adivinarla",
+          "spanishSpan": "Yeor"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "notes": "re-audit fail",
+      "spanish": "Y el pez que en el Yeor murió, y hedió el Yeor, y Egipto no pudo beber aguas desde el Yeor. Y fue la sangre en toda tierra de Egipto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02007021008"
+          ],
+          "issue": "Qal perfect 3rd common plural (were able) is rendered as singular pudo.",
+          "spanishSpan": "pudo"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "notes": "spanish check",
+      "spanish": "Y se llenaron siete días después de herir Jehová al Yeor.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "Yeor no es una palabra del español actual; el lector no la reconoce.",
+          "spanishSpan": "Yeor"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 5,
+      "note": "Chose singular Spanish verb agreement with the proper noun Egipto as subject, since Hebrew construes מִצְרַיִם with a plural (3cp) verb as a collective ('the Egyptians') while the Spanish proper noun Egipto takes a singular verb."
+    },
+    {
+      "verse": 10,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 12,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 18,
+      "note": "Yeor no es una palabra del español actual; un lector tendría que adivinarla."
+    },
+    {
+      "verse": 19,
+      "note": "Chose 'habrá sangre' over 'será sangre' because the singular וְהָיָה דָם licenses an existential reading (blood present in the land, wood, and stones) rather than sangre as predicate of an unstated singular subject."
+    },
+    {
+      "verse": 20,
+      "note": "Yeor no es una palabra del español actual; el lector tiene que adivinarla"
+    },
+    {
+      "verse": 22,
+      "note": "Chose 'como habló Jehová' over 'como que habló Jehová' to keep the comparative relative sense (as Jehovah had spoken) and avoid the hedge/cause reading 'como que' invites."
+    },
+    {
+      "verse": 25,
+      "note": "Yeor no es una palabra del español actual; el lector no la reconoce."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 10:19",
+  "chapter": 10,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y volvió Jehová viento de mar fuerte mucho, y alzó la langosta, y la empujó hacia mar de Suf; no quedó langosta una en todo límite de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02010019012"
+      ],
+      "issue": "סוּף is a common noun (HNcmsa), not a proper name; Suf leaves that lemma untranslated.",
+      "spanishSpan": "Suf"
+    }
+  ],
+  "notes": "Jehová, the qal sequence, the locust, אחד, and Egipto match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 1:9",
+  "chapter": 1,
+  "verse": 9,
+  "sourceDraft": "Y dijo a su pueblo: He aquí, pueblo de hijos de Israel mucho y recio de nosotros.",
+  "spanish": "Y dijo a su pueblo: He aquí, el pueblo de los hijos de Israel es más numeroso y recio que nosotros.",
+  "units": [],
+  "grammarChanges": [
+    "Repaired cited fail on h02001009008/h02001009009/h02001009010: restored the מִמֶּֽנּוּ comparison dropped by 'mucho y recio de nosotros' using the comparative 'más numeroso y recio que nosotros'.",
+    "Replaced the calque 'mucho' with 'numeroso' (same licensed sense of רַ֥ב) because Spanish does not allow 'más mucho' in a comparative.",
+    "Added the copula 'es' for h02001009005-h02001009007/008/009, since the Hebrew verbless nominal clause requires an explicit verb in Spanish.",
+    "Added definite articles 'el'/'los' ('el pueblo de los hijos de Israel') for Spanish grammaticality."
+  ],
+  "meaningChanges": [],
+  "droppedUncitedUnits": 0
+}

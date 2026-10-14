@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 10:17",
+  "chapter": 10,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y ahora, alza ahora mi pecado solo esta vez, e intercedan a Jehová su Dios, y quite de sobre mí solo esta muerte.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02010017003"
+      ],
+      "issue": "The entreaty particle is rendered as a second temporal ahora, beside the ahora already licensed by the opening adverb, so the plea is only weakly marked.",
+      "spanishSpan": "alza ahora"
+    }
+  ],
+  "notes": "Person, number, stem, and participants otherwise match the packet.",
+  "discardedUncitedFindings": 0
+}

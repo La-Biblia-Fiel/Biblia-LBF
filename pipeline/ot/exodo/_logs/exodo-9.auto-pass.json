@@ -1,0 +1,268 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 9,
+  "kept": [
+    1,
+    5,
+    7,
+    9,
+    10,
+    11,
+    13,
+    14,
+    16,
+    17,
+    21,
+    22,
+    23,
+    26,
+    27,
+    30,
+    32,
+    33,
+    34,
+    35
+  ],
+  "drafted": [],
+  "repaired": [
+    6,
+    8,
+    12,
+    18
+  ],
+  "repairedWithWarn": [
+    28
+  ],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "spanish check",
+      "spanish": "Porque si rehúsante tú de enviar, y todavía tú aferrado a ellos,",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "rehúsante no es una forma actual de rehusar; el lector tiene que adivinar que significa «si rehúsas»",
+          "spanishSpan": "rehúsante"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "he aquí mano de Jehová siendo en tu ganado que en el campo, en los caballos, en los asnos, en los camellos, en el ganado vacuno y en el rebaño, peste pesada mucho.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02009003014"
+          ],
+          "issue": "כָּבֵד is a masculine singular adjective with דֶּבֶר; pesada is feminine so it agrees with Spanish peste. Same quality, grammatical gender smoothing only.",
+          "spanishSpan": "pesada"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "notes": "clause role",
+      "spanish": "Y distinguirá Jehová entre ganado de Israel y entre ganado de Egipto, y no morirá cosa de todo a hijos de Israel.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02009004010",
+            "h02009004011",
+            "h02009004012",
+            "h02009004014"
+          ],
+          "issue": "«cosa de todo a hijos» keeps the negative, qal imperfect, מִכָּל, ל, and דָּבָר, but the Spanish can attach לִבְנֵי as an indirect object of morir instead of the scope from-all that is to the sons.",
+          "spanishSpan": "cosa de todo a hijos de Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "notes": "clause role",
+      "spanish": "Porque ahora envié mi mano y te herí a ti y a tu pueblo con peste, y serías borrado desde la tierra.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02009015006",
+            "h02009015011"
+          ],
+          "issue": "Niphal sequential imperfect 2ms stands in the same wayyiqtol chain as the hiphil sequential imperfect 1cs, but Spanish renders only this verb as conditional, adding hypothetical force the morphology does not mark.",
+          "spanishSpan": "serías borrado"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02009015007"
+          ],
+          "issue": "One 2ms object suffix is stated twice; same participant, no added role.",
+          "spanishSpan": "te herí a ti"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02009015010"
+          ],
+          "issue": "Surface בַּ carries the article with the preposition; con peste leaves the noun indefinite.",
+          "spanishSpan": "con peste"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "notes": "clause role",
+      "spanish": "Y ahora, envía, haz refugiar a tu ganado y a todo lo que a ti en el campo; todo el hombre y el ganado que se halle en el campo y no se recoja a la casa, y descenderá sobre ellos el granizo y morirán.",
+      "findings": []
+    },
+    {
+      "verse": 20,
+      "notes": "spanish check",
+      "spanish": "El temiente la palabra de Jehová, de entre los siervos de Faraón, hizo huir a sus siervos y a su ganado a las casas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«temiente» no es una palabra del español actual; el lector tiene que adivinar que significa «el que teme»",
+          "spanishSpan": "temiente"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "notes": "clause role",
+      "spanish": "Y fue granizo, y fuego asiendo en medio del granizo, pesado mucho, que no fue como él en toda tierra de Egipto desde entonces de ser a nación.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02009024017",
+            "h02009024018"
+          ],
+          "issue": "«fue a nación» reads as motion (ir + a). הָיְתָה is qal perfect 3fs of H1961 (be), and לְגוֹי is lamed plus an indefinite nation: be/become a nation, not go to a nation.",
+          "spanishSpan": "fue a nación"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "notes": "clause role",
+      "spanish": "Y hirió el granizo en toda tierra de Egipto todo lo que en el campo, desde hombre y hasta ganado, y toda hierba del campo hirió el granizo, y todo árbol del campo quebró.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02009025019",
+            "h02009025020",
+            "h02009025021",
+            "h02009025022",
+            "h02009025023"
+          ],
+          "issue": "את marks every tree of the field as the object of the 3ms verb; the hail remains the agent. «todo árbol del campo quebró» makes the tree the one that broke.",
+          "spanishSpan": "todo árbol del campo quebró"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02009025023"
+          ],
+          "issue": "Piel of שבר licenses an intensive shatter; quebró is only a simple break.",
+          "spanishSpan": "quebró"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "re-audit fail",
+      "spanish": "Y dijo a él Moisés: Al salir yo la ciudad, extenderé mis palmas a Jehová; las voces cesarán, y el granizo no será más, a fin de que conozcas que a Jehová la tierra.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02009029020",
+            "h02009029021",
+            "h02009029022"
+          ],
+          "issue": "The verbless clause that the earth is to/for Jehová is not stated; the Spanish stops as a fragment and drops the predicative relation.",
+          "spanishSpan": "que a Jehová la tierra"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02009029004",
+            "h02009029005",
+            "h02009029006"
+          ],
+          "issue": "“salir yo la ciudad” leaves the city unmarked as the place exited by the infinitive of going out.",
+          "spanishSpan": "Al salir yo la ciudad"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "notes": "clause role",
+      "spanish": "Y el lino y la cebada fueron heridos, porque la cebada espiga y el lino botón.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02009031003",
+            "h02009031001",
+            "h02009031002"
+          ],
+          "issue": "Pual perfect is 3fs singular; fueron heridos is masculine plural. With the coordinated subject that is Spanish agreement smoothing and does not add or drop a participant.",
+          "spanishSpan": "fueron heridos"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 2,
+      "note": "rehúsante no es una forma actual de rehusar; el lector tiene que adivinar que significa «si rehúsas»"
+    },
+    {
+      "verse": 4,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "Chose word order «sus puños llenos de hollín de horno» over the literal construct order so the fists read as the measure and the soot as the content, per the auditor's construct-order note."
+    },
+    {
+      "verse": 15,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 18,
+      "note": "Grammar-only fixes: muy before pesado, de linking tiempo and mañana, and fundado agreeing with ser; participants, number, and stem force are unchanged."
+    },
+    {
+      "verse": 19,
+      "note": "hold: clause role — the hiphil imperative 2ms has the addressee himself cause the livestock to be brought to safety, not an unnamed third person who shelters it, and that causer–causee role is left for the human reader to confirm."
+    },
+    {
+      "verse": 20,
+      "note": "«temiente» no es una palabra del español actual; el lector tiene que adivinar que significa «el que teme»"
+    },
+    {
+      "verse": 24,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 25,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 28,
+      "note": "Elegí \"permanecer\" para el infinitivo qal de עמד en vez del calco genérico \"estar\", dentro del mismo sentido licenciado que señaló el auditor, y dejé \"enviaré\" sin cambio porque el auditor confirma que el cohortativo piel 1cs ya conserva persona, número y el sentido de enviar en futuro simple."
+    },
+    {
+      "verse": 31,
+      "note": "hold: clause role"
+    }
+  ]
+}

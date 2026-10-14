@@ -1,0 +1,130 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 2,
+  "kept": [
+    1,
+    4,
+    5,
+    8,
+    13,
+    15,
+    16,
+    18,
+    21,
+    22,
+    23,
+    24
+  ],
+  "drafted": [],
+  "repaired": [
+    2,
+    6,
+    11,
+    12,
+    14,
+    17,
+    19,
+    20,
+    25
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 3,
+      "notes": "re-audit fail",
+      "spanish": "Y no pudo todavía esconderlo, y tomó para él arca de papiro, y la embetunó en betún y en pez, y puso en ella al niño, y *la* puso en el junco sobre el labio del Yeor.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02002003001",
+            "h02002003003"
+          ],
+          "issue": "לֹא + עוֹד licenses no-longer/anymore; Spanish no…todavía reads as not-yet/still-not and inverts that temporal force",
+          "spanishSpan": "no pudo todavía"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "notes": "clause role",
+      "spanish": "Y dijo su hermana a hija de Faraón: ¿Iré y te llamaré a ti mujer nodriza de las hebreas, para que te amamante a ti al niño?",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02002007007",
+            "h02002007008",
+            "h02002007009",
+            "h02002007010"
+          ],
+          "issue": "te llamaré a ti mujer nodriza treats לָךְ as the one called and apposes אִשָּׁה מֵינֶקֶת to the addressee; tokens license summoning a nursing woman for the 2fs beneficiary",
+          "spanishSpan": "te llamaré a ti mujer nodriza"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "clause role",
+      "spanish": "Y le dijo a ella hija de Faraón: Haz ir a este niño y amamántalo para mí, y yo daré tu salario. Y tomó la mujer al niño y lo amamantó.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02002009001",
+            "h02002009002",
+            "h02002009003",
+            "h02002009004"
+          ],
+          "issue": "Participants reversed or obscured: 3fs אמר subject is בַּת פַּרְעֹה speaking לָהּ; Spanish 'le dijo a ella hija de Faraón' makes hija de Faraón identify the addressee (ella), not the speaker.",
+          "spanishSpan": "le dijo a ella hija de Faraón"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y creció el niño, y lo trajo a hija de Faraón, y fue a ella por hijo. Y llamó su nombre Moisés, y dijo: Porque de las aguas lo saqué.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02002010003",
+            "h02002010009",
+            "h02002010012"
+          ],
+          "issue": "Hebrew 3fs verbs (she brought / she called / she said) are gender-unmarked in Spanish pretérito after 3ms creció/fue; feminine subject is recovered from context and 1cs saqué, not from the verb forms",
+          "spanishSpan": "lo trajo … llamó … dijo"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 2,
+      "note": "The word *era* is a supplied copula for the verbless טוֹב הוּא and is marked in italics, not part of the Hebrew wording."
+    },
+    {
+      "verse": 6,
+      "note": "*es* is a supplied copula with no corresponding Hebrew token, added only because the Hebrew clause is verbless."
+    },
+    {
+      "verse": 7,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 9,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 17,
+      "note": "Su rebaño keeps the Sp3mp sense ('their flock', the party just driven out) but in Spanish can also be read as Moisés's own flock."
+    },
+    {
+      "verse": 20,
+      "note": "Supplied copula está is marked in italics because אַיּוֹ has no separate copula word in the source."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 15,
+  "kept": [
+    3,
+    5,
+    8,
+    9,
+    10,
+    12,
+    18,
+    21,
+    23,
+    24,
+    26,
+    27
+  ],
+  "drafted": [],
+  "repaired": [
+    13,
+    14
+  ],
+  "repairedWithWarn": [
+    6,
+    11
+  ],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "re-audit fail",
+      "spanish": "Entonces cantaba Moisés e hijos de Israel este cántico a Jehová, y dijeron, diciendo: ¡Cantaré a Jehová, porque exaltando exaltó; caballo y su jinete arrojó en el mar!",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02015001015",
+            "h02015001016"
+          ],
+          "issue": "Qal infinitive absolute + qal perfect of גאה is intransitive/stative (rise, be exalted). «exaltando exaltó» is transitive active and implies an object the tokens do not have, so the subject becomes an agent rather than the one who is exalted.",
+          "spanishSpan": "exaltando exaltó"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02015001002"
+          ],
+          "issue": "Yiqtol 3ms does not mark past durative time; «cantaba» selects pretérito imperfecto.",
+          "spanishSpan": "cantaba"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02015001012"
+          ],
+          "issue": "Cohortative 1cs is volitive; «Cantaré» keeps person and number but flattens it to indicative future.",
+          "spanishSpan": "Cantaré"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "notes": "clause role",
+      "spanish": "Y en muchedumbre de tu exaltación derribas a tus levantados; envías tu ardor, los come como rastrojo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02015007004"
+          ],
+          "issue": "Qal active participle (those who rise) plus 2ms suffix is rendered as passive/resultative 'levantados' (those raised), shifting voice and who acts.",
+          "spanishSpan": "tus levantados"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "notes": "clause role",
+      "spanish": "Y clamó a Jehová, y le mostró Jehová un árbol, y lo arrojó a las aguas, y se endulzaron las aguas. Allí puso a él estatuto y juicio, y allí lo probó.",
+      "findings": []
+    }
+  ],
+  "errors": [
+    {
+      "verse": 2,
+      "error": "Command '['/Users/johnwry/.local/bin/agent', '-p', '--trust', '--mode', 'ask', '--model', 'auto', '--output-format', 'text', '--workspace', '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF', 'Read the JSON file at this absolute path and answer it:\\n/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/exodo/exodo-15-2.audit-lbf.request.json\\n\\nFollow the system and user fields in that file. The packet inside the file is the only evidence. Return only the JSON object those fields require. No markdown fences. Do not write files. Do not edit the repository. Do not align. Do not open STATUS.md.']' timed out after 300 seconds"
+    },
+    {
+      "verse": 4,
+      "error": "Command '['/Users/johnwry/.local/bin/agent', '-p', '--trust', '--mode', 'ask', '--model', 'auto', '--output-format', 'text', '--workspace', '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF', 'Read the JSON file at this absolute path and answer it:\\n/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/exodo/exodo-15-4.audit-lbf.request.json\\n\\nFollow the system and user fields in that file. The packet inside the file is the only evidence. Return only the JSON object those fields require. No markdown fences. Do not write files. Do not edit the repository. Do not align. Do not open STATUS.md.']' timed out after 300 seconds"
+    },
+    {
+      "verse": 15,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    },
+    {
+      "verse": 16,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    },
+    {
+      "verse": 17,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    },
+    {
+      "verse": 19,
+      "error": "agent exit 1: Error: [aborted] read ECONNRESET"
+    },
+    {
+      "verse": 20,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    },
+    {
+      "verse": 22,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 6,
+      "note": "Chose 'a enemigo' over 'al enemigo' to avoid supplying a definite article absent from the anarthrous Hebrew participle, without adding an indefinite article instead."
+    },
+    {
+      "verse": 7,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 11,
+      "note": "Chose \"en\" over \"de\" for the unmarked juxtaposition of the singular participle temible and the plural noun alabanzas, since no genitive relation is marked in the Hebrew."
+    },
+    {
+      "verse": 25,
+      "note": "hold: clause role: the throw verb carries no object suffix or object noun in the Hebrew, so naming the tree as what was thrown (the supplied 'lo' in 'lo arrojó') is a participant decision, not a grammar repair."
+    }
+  ]
+}

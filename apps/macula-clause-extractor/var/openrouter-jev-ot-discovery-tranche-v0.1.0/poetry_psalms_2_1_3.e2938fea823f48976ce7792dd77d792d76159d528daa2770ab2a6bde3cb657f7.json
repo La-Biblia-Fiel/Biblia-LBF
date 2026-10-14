@@ -1,0 +1,678 @@
+{
+  "schema_version": "0.1.0",
+  "tranche_kind": "ot_predictive_prophecy_discovery",
+  "window_id": "poetry_psalms_2_1_3",
+  "genre": "poetry",
+  "provider_kind": "openrouter_decisions",
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "requested_model": "typesafe/jev-1.13",
+  "served_model": "typesafe/jev-1.13-20260917",
+  "provider": "TypeSafe",
+  "request_fingerprint": "e2938fea823f48976ce7792dd77d792d76159d528daa2770ab2a6bde3cb657f7",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "scan_kind": "predictive_prophecy_discovery",
+      "template_version": "0.2.0",
+      "coverage_boundary": "This scan covers predictive-prophecy discovery only. Other forms of prophecy remain outside current coverage.",
+      "context_window": {
+        "book": "Psalms",
+        "chapter": 2,
+        "firstVerse": 1,
+        "lastVerse": 3
+      },
+      "source_window": [
+        {
+          "reference": "Psalms 2:1",
+          "verse": 1,
+          "source_word_ids": [
+            "o190020010011",
+            "o190020010012",
+            "o190020010021",
+            "o190020010031",
+            "o190020010041",
+            "o190020010042",
+            "o190020010051",
+            "o190020010061"
+          ],
+          "source_text": "לָ֭ מָּה רָגְשׁ֣וּ גוֹיִ֑ם וּ֝ לְאֻמִּ֗ים יֶהְגּוּ רִֽיק"
+        },
+        {
+          "reference": "Psalms 2:2",
+          "verse": 2,
+          "source_word_ids": [
+            "o190020020011",
+            "o190020020021",
+            "o190020020031",
+            "o190020020041",
+            "o190020020042",
+            "o190020020051",
+            "o190020020061",
+            "o190020020071",
+            "o190020020081",
+            "o190020020091",
+            "o190020020092",
+            "o190020020101",
+            "o190020020102"
+          ],
+          "source_text": "יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְ רוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְ עַל מְשִׁיחֽ וֹ"
+        },
+        {
+          "reference": "Psalms 2:3",
+          "verse": 3,
+          "source_word_ids": [
+            "o190020030011",
+            "o190020030021",
+            "o190020030031",
+            "o190020030032",
+            "o190020030041",
+            "o190020030042",
+            "o190020030051",
+            "o190020030052",
+            "o190020030061",
+            "o190020030062"
+          ],
+          "source_text": "נְֽ֭נַתְּקָה אֶת מֽוֹסְרוֹתֵ֑י מוֹ וְ נַשְׁלִ֖יכָה מִמֶּ֣ נּוּ עֲבֹתֵֽי מוֹ"
+        }
+      ],
+      "statements": [
+        {
+          "statement_id": "psa_2_01_1900200100110040_p1",
+          "reference": {
+            "book": "Psalms",
+            "chapter": 2,
+            "verse": 1
+          },
+          "source_word_ids": [
+            "o190020010011",
+            "o190020010012",
+            "o190020010021",
+            "o190020010031"
+          ],
+          "source_text": "לָ֭ מָּה רָגְשׁ֣וּ גוֹיִ֑ם",
+          "predicate": {
+            "word_id": "o190020010021",
+            "text": "רָגְשׁ֣וּ",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "psa_2_01_1900200100420030_p1",
+          "reference": {
+            "book": "Psalms",
+            "chapter": 2,
+            "verse": 1
+          },
+          "source_word_ids": [
+            "o190020010042",
+            "o190020010051",
+            "o190020010061"
+          ],
+          "source_text": "לְאֻמִּ֗ים יֶהְגּוּ רִֽיק",
+          "predicate": {
+            "word_id": "o190020010051",
+            "text": "יֶהְגּוּ",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "psa_2_02_1900200200110030_p1",
+          "reference": {
+            "book": "Psalms",
+            "chapter": 2,
+            "verse": 2
+          },
+          "source_word_ids": [
+            "o190020020011",
+            "o190020020021",
+            "o190020020031"
+          ],
+          "source_text": "יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ",
+          "predicate": {
+            "word_id": "o190020020011",
+            "text": "יִ֥תְיַצְּב֨וּ",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "psa_2_02_1900200200420090_p1",
+          "reference": {
+            "book": "Psalms",
+            "chapter": 2,
+            "verse": 2
+          },
+          "source_word_ids": [
+            "o190020020042",
+            "o190020020051",
+            "o190020020061",
+            "o190020020071",
+            "o190020020081",
+            "o190020020091",
+            "o190020020092",
+            "o190020020101",
+            "o190020020102"
+          ],
+          "source_text": "רוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְ עַל מְשִׁיחֽ וֹ",
+          "predicate": {
+            "word_id": "o190020020051",
+            "text": "נֽוֹסְדוּ",
+            "voice": "passive"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "psa_2_03_1900200300110040_p1",
+          "reference": {
+            "book": "Psalms",
+            "chapter": 2,
+            "verse": 3
+          },
+          "source_word_ids": [
+            "o190020030011",
+            "o190020030021",
+            "o190020030031",
+            "o190020030032"
+          ],
+          "source_text": "נְֽ֭נַתְּקָה אֶת מֽוֹסְרוֹתֵ֑י מוֹ",
+          "predicate": {
+            "word_id": "o190020030011",
+            "text": "נְֽ֭נַתְּקָה",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        },
+        {
+          "statement_id": "psa_2_03_1900200300420050_p1",
+          "reference": {
+            "book": "Psalms",
+            "chapter": 2,
+            "verse": 3
+          },
+          "source_word_ids": [
+            "o190020030042",
+            "o190020030051",
+            "o190020030052",
+            "o190020030061",
+            "o190020030062"
+          ],
+          "source_text": "נַשְׁלִ֖יכָה מִמֶּ֣ נּוּ עֲבֹתֵֽי מוֹ",
+          "predicate": {
+            "word_id": "o190020030042",
+            "text": "נַשְׁלִ֖יכָה",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          }
+        }
+      ],
+      "common_instructions": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "question_definitions": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      }
+    },
+    "questions": {
+      "psa_2_01_1900200100110040_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_01_1900200100110040_p1 (לָ֭ מָּה רָגְשׁ֣וּ גוֹיִ֑ם), word IDs o190020010011, o190020010012, o190020010021, o190020010031, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "psa_2_01_1900200100110040_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_01_1900200100110040_p1 (לָ֭ מָּה רָגְשׁ֣וּ גוֹיִ֑ם), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "psa_2_01_1900200100110040_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "psa_2_01_1900200100420030_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_01_1900200100420030_p1 (לְאֻמִּ֗ים יֶהְגּוּ רִֽיק), word IDs o190020010042, o190020010051, o190020010061, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "psa_2_01_1900200100420030_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_01_1900200100420030_p1 (לְאֻמִּ֗ים יֶהְגּוּ רִֽיק), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "psa_2_01_1900200100420030_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "psa_2_02_1900200200110030_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_02_1900200200110030_p1 (יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ), word IDs o190020020011, o190020020021, o190020020031, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "psa_2_02_1900200200110030_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_02_1900200200110030_p1 (יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "psa_2_02_1900200200110030_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "psa_2_02_1900200200420090_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_02_1900200200420090_p1 (רוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְ עַל מְשִׁיחֽ וֹ), word IDs o190020020042, o190020020051, o190020020061, o190020020071, o190020020081, o190020020091, o190020020092, o190020020101, o190020020102, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "psa_2_02_1900200200420090_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_02_1900200200420090_p1 (רוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְ עַל מְשִׁיחֽ וֹ), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "psa_2_02_1900200200420090_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "psa_2_03_1900200300110040_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_03_1900200300110040_p1 (נְֽ֭נַתְּקָה אֶת מֽוֹסְרוֹתֵ֑י מוֹ), word IDs o190020030011, o190020030021, o190020030031, o190020030032, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "psa_2_03_1900200300110040_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_03_1900200300110040_p1 (נְֽ֭נַתְּקָה אֶת מֽוֹסְרוֹתֵ֑י מוֹ), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "psa_2_03_1900200300110040_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "psa_2_03_1900200300420050_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_03_1900200300420050_p1 (נַשְׁלִ֖יכָה מִמֶּ֣ נּוּ עֲבֹתֵֽי מוֹ), word IDs o190020030042, o190020030051, o190020030052, o190020030061, o190020030062, within governing scope direct_predication_no_embedded_complement_detected. Assess whether this named statement itself communicates predictive content or itself contributes content to a predictive announcement; narration merely introducing or reporting nearby prediction is no_support_in_supplied_context.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "psa_2_03_1900200300420050_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Target only statement psa_2_03_1900200300420050_p1 (נַשְׁלִ֖יכָה מִמֶּ֣ נּוּ עֲבֹתֵֽי מוֹ), within governing scope direct_predication_no_embedded_complement_detected. Distinguish predictive content, contribution to predictive content, and narration introducing or reporting it.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "psa_2_03_1900200300420050_p1:relationship": {
+        "type": "choice",
+        "instructions": "Apply state.common_instructions. Assess this statement's relationship to an announcement in this context.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      }
+    }
+  },
+  "preflight": {
+    "rough_input_tokens": 5524,
+    "input_safety_factor": 1.7,
+    "output_reserve_fraction": 0.5,
+    "reserved_total_tokens": 12153,
+    "tranche_cap_total_tokens": 200000,
+    "overall_ceiling_total_tokens": 2000000
+  },
+  "status": "succeeded",
+  "error": null,
+  "raw_response_text": "{\"model\":\"typesafe/jev-1.13-20260917\",\"answers\":{\"psa_2_01_1900200100110040_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.16,\"possible_candidate\":0.09,\"no_support_in_supplied_context\":0.65,\"underdetermined\":0.1},\"confidence\":0.54},\"psa_2_01_1900200100110040_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.21,\"contributes_to_predictive_content\":0.14,\"narration_introducing_or_reporting_predictive_content\":0.21,\"other_content\":0.35,\"underdetermined\":0.09},\"confidence\":0.19},\"psa_2_01_1900200100110040_p1:relationship\":{\"type\":\"choice\",\"choice\":\"relationship_underdetermined\",\"probabilities\":{\"establishes_announcement_anchor\":0.18,\"contributes_to_announcement_anchor\":0.09,\"surrounding_or_other_content\":0.37,\"relationship_underdetermined\":0.36},\"confidence\":0.15},\"psa_2_01_1900200100420030_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.3,\"possible_candidate\":0.16,\"no_support_in_supplied_context\":0.41,\"underdetermined\":0.13},\"confidence\":0.22},\"psa_2_01_1900200100420030_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"predictive_content\",\"probabilities\":{\"predictive_content\":0.36,\"contributes_to_predictive_content\":0.15,\"narration_introducing_or_reporting_predictive_content\":0.11,\"other_content\":0.3,\"underdetermined\":0.08},\"confidence\":0.2},\"psa_2_01_1900200100420030_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.2,\"contributes_to_announcement_anchor\":0.1,\"surrounding_or_other_content\":0.35,\"relationship_underdetermined\":0.35},\"confidence\":0.14},\"psa_2_02_1900200200110030_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"supported_candidate\",\"probabilities\":{\"supported_candidate\":0.47,\"possible_candidate\":0.2,\"no_support_in_supplied_context\":0.22,\"underdetermined\":0.11},\"confidence\":0.29},\"psa_2_02_1900200200110030_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"predictive_content\",\"probabilities\":{\"predictive_content\":0.55,\"contributes_to_predictive_content\":0.28,\"narration_introducing_or_reporting_predictive_content\":0.05,\"other_content\":0.03,\"underdetermined\":0.08},\"confidence\":0.44},\"psa_2_02_1900200200110030_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.19,\"contributes_to_announcement_anchor\":0.11,\"surrounding_or_other_content\":0.35,\"relationship_underdetermined\":0.35},\"confidence\":0.14},\"psa_2_02_1900200200420090_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"supported_candidate\",\"probabilities\":{\"supported_candidate\":0.35,\"possible_candidate\":0.22,\"no_support_in_supplied_context\":0.33,\"underdetermined\":0.1},\"confidence\":0.14},\"psa_2_02_1900200200420090_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"predictive_content\",\"probabilities\":{\"predictive_content\":0.39,\"contributes_to_predictive_content\":0.25,\"narration_introducing_or_reporting_predictive_content\":0.11,\"other_content\":0.11,\"underdetermined\":0.14},\"confidence\":0.24},\"psa_2_02_1900200200420090_p1:relationship\":{\"type\":\"choice\",\"choice\":\"relationship_underdetermined\",\"probabilities\":{\"establishes_announcement_anchor\":0.19,\"contributes_to_announcement_anchor\":0.11,\"surrounding_or_other_content\":0.35,\"relationship_underdetermined\":0.35},\"confidence\":0.14},\"psa_2_03_1900200300110040_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.16,\"possible_candidate\":0.05,\"no_support_in_supplied_context\":0.73,\"underdetermined\":0.06},\"confidence\":0.64},\"psa_2_03_1900200300110040_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.21,\"contributes_to_predictive_content\":0.1,\"narration_introducing_or_reporting_predictive_content\":0.07,\"other_content\":0.59,\"underdetermined\":0.03},\"confidence\":0.48},\"psa_2_03_1900200300110040_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.19,\"contributes_to_announcement_anchor\":0.11,\"surrounding_or_other_content\":0.37,\"relationship_underdetermined\":0.33},\"confidence\":0.16},\"psa_2_03_1900200300420050_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.17,\"possible_candidate\":0.07,\"no_support_in_supplied_context\":0.7,\"underdetermined\":0.06},\"confidence\":0.59},\"psa_2_03_1900200300420050_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.23,\"contributes_to_predictive_content\":0.12,\"narration_introducing_or_reporting_predictive_content\":0.05,\"other_content\":0.55,\"underdetermined\":0.05},\"confidence\":0.44},\"psa_2_03_1900200300420050_p1:relationship\":{\"type\":\"choice\",\"choice\":\"relationship_underdetermined\",\"probabilities\":{\"establishes_announcement_anchor\":0.18,\"contributes_to_announcement_anchor\":0.11,\"surrounding_or_other_content\":0.35,\"relationship_underdetermined\":0.36},\"confidence\":0.14}},\"usage\":{\"input_tokens\":8034,\"output_tokens\":1790,\"cost\":0.000337428},\"id\":\"gen-dec-1791477755-6UGtK7kk9YVMDxaIeCee\",\"provider\":\"TypeSafe\"}",
+  "raw_response": {
+    "model": "typesafe/jev-1.13-20260917",
+    "answers": {
+      "psa_2_01_1900200100110040_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.16,
+          "possible_candidate": 0.09,
+          "no_support_in_supplied_context": 0.65,
+          "underdetermined": 0.1
+        },
+        "confidence": 0.54
+      },
+      "psa_2_01_1900200100110040_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.21,
+          "contributes_to_predictive_content": 0.14,
+          "narration_introducing_or_reporting_predictive_content": 0.21,
+          "other_content": 0.35,
+          "underdetermined": 0.09
+        },
+        "confidence": 0.19
+      },
+      "psa_2_01_1900200100110040_p1:relationship": {
+        "type": "choice",
+        "choice": "relationship_underdetermined",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.18,
+          "contributes_to_announcement_anchor": 0.09,
+          "surrounding_or_other_content": 0.37,
+          "relationship_underdetermined": 0.36
+        },
+        "confidence": 0.15
+      },
+      "psa_2_01_1900200100420030_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.3,
+          "possible_candidate": 0.16,
+          "no_support_in_supplied_context": 0.41,
+          "underdetermined": 0.13
+        },
+        "confidence": 0.22
+      },
+      "psa_2_01_1900200100420030_p1:statement_function": {
+        "type": "choice",
+        "choice": "predictive_content",
+        "probabilities": {
+          "predictive_content": 0.36,
+          "contributes_to_predictive_content": 0.15,
+          "narration_introducing_or_reporting_predictive_content": 0.11,
+          "other_content": 0.3,
+          "underdetermined": 0.08
+        },
+        "confidence": 0.2
+      },
+      "psa_2_01_1900200100420030_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.2,
+          "contributes_to_announcement_anchor": 0.1,
+          "surrounding_or_other_content": 0.35,
+          "relationship_underdetermined": 0.35
+        },
+        "confidence": 0.14
+      },
+      "psa_2_02_1900200200110030_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "supported_candidate",
+        "probabilities": {
+          "supported_candidate": 0.47,
+          "possible_candidate": 0.2,
+          "no_support_in_supplied_context": 0.22,
+          "underdetermined": 0.11
+        },
+        "confidence": 0.29
+      },
+      "psa_2_02_1900200200110030_p1:statement_function": {
+        "type": "choice",
+        "choice": "predictive_content",
+        "probabilities": {
+          "predictive_content": 0.55,
+          "contributes_to_predictive_content": 0.28,
+          "narration_introducing_or_reporting_predictive_content": 0.05,
+          "other_content": 0.03,
+          "underdetermined": 0.08
+        },
+        "confidence": 0.44
+      },
+      "psa_2_02_1900200200110030_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.19,
+          "contributes_to_announcement_anchor": 0.11,
+          "surrounding_or_other_content": 0.35,
+          "relationship_underdetermined": 0.35
+        },
+        "confidence": 0.14
+      },
+      "psa_2_02_1900200200420090_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "supported_candidate",
+        "probabilities": {
+          "supported_candidate": 0.35,
+          "possible_candidate": 0.22,
+          "no_support_in_supplied_context": 0.33,
+          "underdetermined": 0.1
+        },
+        "confidence": 0.14
+      },
+      "psa_2_02_1900200200420090_p1:statement_function": {
+        "type": "choice",
+        "choice": "predictive_content",
+        "probabilities": {
+          "predictive_content": 0.39,
+          "contributes_to_predictive_content": 0.25,
+          "narration_introducing_or_reporting_predictive_content": 0.11,
+          "other_content": 0.11,
+          "underdetermined": 0.14
+        },
+        "confidence": 0.24
+      },
+      "psa_2_02_1900200200420090_p1:relationship": {
+        "type": "choice",
+        "choice": "relationship_underdetermined",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.19,
+          "contributes_to_announcement_anchor": 0.11,
+          "surrounding_or_other_content": 0.35,
+          "relationship_underdetermined": 0.35
+        },
+        "confidence": 0.14
+      },
+      "psa_2_03_1900200300110040_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.16,
+          "possible_candidate": 0.05,
+          "no_support_in_supplied_context": 0.73,
+          "underdetermined": 0.06
+        },
+        "confidence": 0.64
+      },
+      "psa_2_03_1900200300110040_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.21,
+          "contributes_to_predictive_content": 0.1,
+          "narration_introducing_or_reporting_predictive_content": 0.07,
+          "other_content": 0.59,
+          "underdetermined": 0.03
+        },
+        "confidence": 0.48
+      },
+      "psa_2_03_1900200300110040_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.19,
+          "contributes_to_announcement_anchor": 0.11,
+          "surrounding_or_other_content": 0.37,
+          "relationship_underdetermined": 0.33
+        },
+        "confidence": 0.16
+      },
+      "psa_2_03_1900200300420050_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.17,
+          "possible_candidate": 0.07,
+          "no_support_in_supplied_context": 0.7,
+          "underdetermined": 0.06
+        },
+        "confidence": 0.59
+      },
+      "psa_2_03_1900200300420050_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.23,
+          "contributes_to_predictive_content": 0.12,
+          "narration_introducing_or_reporting_predictive_content": 0.05,
+          "other_content": 0.55,
+          "underdetermined": 0.05
+        },
+        "confidence": 0.44
+      },
+      "psa_2_03_1900200300420050_p1:relationship": {
+        "type": "choice",
+        "choice": "relationship_underdetermined",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.18,
+          "contributes_to_announcement_anchor": 0.11,
+          "surrounding_or_other_content": 0.35,
+          "relationship_underdetermined": 0.36
+        },
+        "confidence": 0.14
+      }
+    },
+    "usage": {
+      "input_tokens": 8034,
+      "output_tokens": 1790,
+      "cost": 0.000337428
+    },
+    "id": "gen-dec-1791477755-6UGtK7kk9YVMDxaIeCee",
+    "provider": "TypeSafe"
+  },
+  "response_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "usage": {
+    "input_tokens": 8034,
+    "output_tokens": 1790
+  },
+  "elapsed_ms": 316,
+  "attempted_at": "2026-10-08T16:42:35.843Z",
+  "file": "poetry_psalms_2_1_3.e2938fea823f48976ce7792dd77d792d76159d528daa2770ab2a6bde3cb657f7.json"
+}

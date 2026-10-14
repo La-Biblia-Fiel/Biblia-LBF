@@ -1,0 +1,229 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 16,
+  "kept": [
+    1,
+    3,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    18,
+    21,
+    22,
+    24,
+    27,
+    30,
+    36
+  ],
+  "drafted": [],
+  "repaired": [
+    2,
+    4,
+    17,
+    19,
+    25,
+    28,
+    29,
+    35
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 7,
+      "notes": "re-audit fail",
+      "spanish": "Y en la mañana, y verán la gloria de Jehová, en su oír las murmuraciones de ustedes sobre Jehová; y nosotros, ¿qué, que contra nosotros?",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02016007001"
+          ],
+          "issue": "Absolute time noun «morning» is smoothed with unmarked «en» and the article «la»; the token is conjunction + common singular absolute, with no preposition and no article.",
+          "spanishSpan": "en la mañana"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02016007014",
+            "h02016007009"
+          ],
+          "issue": "«contra» closes the open preposition עַל (upon/over/concerning/against) as opposition. The same lemma and preposition morphology before Jehová stays open as «sobre».",
+          "spanishSpan": "contra nosotros"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "notes": "re-audit fail",
+      "spanish": "Y subió tendido del rocío, y he aquí sobre faz del desierto, fino escamado, fino como escarcha sobre la tierra.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02016014001",
+            "h02016014002",
+            "h02016014003"
+          ],
+          "issue": "שִׁכְבַת is the feminine singular construct noun and the subject of the 3fs verb: the layer of the dew went up. «tendido» is a masculine adjective of manner, so that subject is omitted and «del rocío» reads as the source of the ascent.",
+          "spanishSpan": "tendido del rocío"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02016014006"
+          ],
+          "issue": "פְּנֵי is plural construct; «faz» is singular.",
+          "spanishSpan": "faz"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "notes": "re-audit fail",
+      "spanish": "Y vieron hijos de Israel, y dijeron varón a su hermano: ¿Qué *es* esto? Porque no conocieron qué él. Y dijo Moisés a ellos: Él el pan que dio Jehová a ustedes para comida.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02016015009"
+          ],
+          "issue": "הוּא is a 3rd-person masculine singular personal pronoun; «esto» is a neuter proximal demonstrative and adds deixis the token does not license.",
+          "spanishSpan": "esto"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "notes": "re-audit fail",
+      "spanish": "Esta *es* la palabra que mandó Jehová: Recojan de nosotros varón según boca de su comida; medida a la cabeza, número de almas de ustedes, varón para el que en su tienda tomarán.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02016016011"
+          ],
+          "issue": "עֹמֶר (H6016b) is the omer, a specific dry measure; «medida» omits that unit and substitutes a generic measure.",
+          "spanishSpan": "medida"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "notes": "spanish check",
+      "spanish": "Y dijo a ellos: Él lo que habló Jehová: Reposo, sábado de santidad a Jehová mañana; lo que hornearán, horneen, y lo que cocerán, cuezan, y todo el sobrante depongan a ustedes a guarda hasta la mañana.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«Él» no funciona como pronombre y el lector tiene que adivinar que ocupa el lugar de «esto es».",
+          "spanishSpan": "Él"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "notes": "clause role",
+      "spanish": "Seis días lo recogerán, y en el día el séptimo shabat; no será en él.",
+      "findings": []
+    },
+    {
+      "verse": 31,
+      "notes": "spanish check",
+      "spanish": "Y llamaron casa de Israel su nombre man; y él como semilla de cilantro, blanco, y su sabor como torta en miel.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«man» no es una palabra del español actual; el lector tiene que adivinarla.",
+          "spanishSpan": "man"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "notes": "clause role",
+      "spanish": "Y dijo Moisés: Esta la palabra que mandó Jehová: Lleno del ómer de él a guarda a generaciones de ustedes, a fin de que vean el pan que hice comer a ustedes en el desierto en mi sacar a ustedes desde tierra de Egipto.",
+      "findings": []
+    },
+    {
+      "verse": 33,
+      "notes": "re-audit fail",
+      "spanish": "Y dijo Moisés a Aarón: Toma una jarra, y da allí lleno del ómer maná, y depónlo delante de Jehová a guarda a generaciones de ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02016033010",
+            "h02016033011",
+            "h02016033012"
+          ],
+          "issue": "מְלֹא is a construct noun, the fullness measured by the omer, and מָן is the substance. 'lleno del ómer' means 'full of the omer', so the omer becomes the contents instead of the measure.",
+          "spanishSpan": "lleno del ómer maná"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02016033009"
+          ],
+          "issue": "שָׁמָּה is an adverb with directional he (thither); 'allí' smooths it to a static location.",
+          "spanishSpan": "allí"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "notes": "spanish check",
+      "spanish": "Conforme a lo que mandó Jehová a Moisés, y lo depuso Aarón delante del testimonio a guarda.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«a guarda» is not a current Spanish construction; a reader has to guess that it means «para guardarlo» or «en guarda».",
+          "spanishSpan": "a guarda"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 13,
+      "error": "agent exit 1: Connection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 1)...\nRetry attempt 1...\nRetriableError: Connection stalled repeatedly"
+    },
+    {
+      "verse": 20,
+      "error": "Command '['/Users/johnwry/.local/bin/agent', '-p', '--trust', '--mode', 'ask', '--model', 'auto', '--output-format', 'text', '--workspace', '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF', 'Read the JSON file at this absolute path and answer it:\\n/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/exodo/exodo-16-20.audit-lbf.request.json\\n\\nFollow the system and user fields in that file. The packet inside the file is the only evidence. Return only the JSON object those fields require. No markdown fences. Do not write files. Do not edit the repository. Do not align. Do not open STATUS.md.']' timed out after 300 seconds"
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 2,
+      "note": "Removed the unsupported verb \"murmuraron\" because this packet has no verb token; the span now reads as a verbless noun phrase (subject + two prepositional phrases) rather than a full clause."
+    },
+    {
+      "verse": 17,
+      "note": "Chose \"aumentaba\" and \"disminuía\" as the finite verbs carrying the hiphil causative force of the two participles, since the draft had left them as bare quantity words with no predicate."
+    },
+    {
+      "verse": 23,
+      "note": "«Él» no funciona como pronombre y el lector tiene que adivinar que ocupa el lugar de «esto es»."
+    },
+    {
+      "verse": 26,
+      "note": "hold: clause role — whether 'sábado' or the implicit manna is the subject that 'no será' predicates over was left unresolved."
+    },
+    {
+      "verse": 31,
+      "note": "«man» no es una palabra del español actual; el lector tiene que adivinarla."
+    },
+    {
+      "verse": 32,
+      "note": "hold: clause role: the suffix on מִמֶּנּוּ names whether the omerful is measured from the manna (it) or from the people (us), a participant choice, not a grammar repair."
+    },
+    {
+      "verse": 34,
+      "note": "«a guarda» is not a current Spanish construction; a reader has to guess that it means «para guardarlo» or «en guarda»."
+    }
+  ]
+}

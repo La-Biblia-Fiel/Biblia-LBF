@@ -1,0 +1,108 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 13,
+  "kept": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    8,
+    10,
+    16,
+    17
+  ],
+  "drafted": [],
+  "repaired": [
+    9,
+    11,
+    12,
+    13,
+    14
+  ],
+  "repairedWithWarn": [
+    18
+  ],
+  "parked": [
+    {
+      "verse": 4,
+      "notes": "re-audit fail",
+      "spanish": "Hoy ustedes salientes en el mes de las espigas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02013004005"
+          ],
+          "issue": "Singular noun (young/green ear) is rendered as plural las espigas.",
+          "spanishSpan": "las espigas"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "notes": "clause role",
+      "spanish": "Panes ázimos se comerán los siete días, y no se verá a ti leudado, y no se verá a ti levadura en todo tu límite.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02013007002",
+            "h02013007001"
+          ],
+          "issue": "El nifal imperfecto es 3ms y el español lo concierta en plural con el sujeto plural; no cambia participantes ni sentido.",
+          "spanishSpan": "se comerán"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "notes": "spanish check",
+      "spanish": "Y fue que endureció Faraón a enviarnos, y mató Jehová todo primogénito en tierra de Egipto, desde primogénito de hombre y hasta primogénito de ganado; por eso yo sacrificante a Jehová todo abridor de vientre los machos, y todo primogénito de mis hijos redimiré.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«sacrificante» no es español actual; el lector tiene que adivinar el participio o el verbo",
+          "spanishSpan": "sacrificante"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 19,
+      "error": "agent exit 1:  3)...\nRetry attempt 3...\nConnection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 4)...\nRetry attempt 4...\nConnection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 5)...\nRetry attempt 5...\nConnection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 6)...\nRetry attempt 6...\nConnection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 7)...\nRetry attempt 7...\nConnection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 8)...\nRetry attempt 8...\nConnection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 9)...\nRetry attempt 9...\nConnection lost, reconnecting to https://agentn.global.api5.cursor.sh (attempt 10)...\nRetry attempt 10...\nRetriableError: Connection failed repeatedly"
+    },
+    {
+      "verse": 20,
+      "error": "agent exit 1: Error: [unavailable] getaddrinfo ENOTFOUND api2.cursor.sh"
+    },
+    {
+      "verse": 21,
+      "error": "agent exit 1: Error: [unavailable] getaddrinfo ENOTFOUND api2.cursor.sh"
+    },
+    {
+      "verse": 22,
+      "error": "agent exit 1: Error: [unavailable] getaddrinfo ENOTFOUND api2.cursor.sh"
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 7,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 11,
+      "note": "Chose indicative future (traerá, dará) over subjunctive to keep the two verbs as a plain future claim, per audit, and dropped the hedging 'que' after como for the same reason."
+    },
+    {
+      "verse": 14,
+      "note": "Chose the future indicative «preguntará» over the subjunctive per the auditor's cited mismatch, and marked the supplied copula *es* in italics."
+    },
+    {
+      "verse": 15,
+      "note": "«sacrificante» no es español actual; el lector tiene que adivinar el participio o el verbo"
+    }
+  ]
+}

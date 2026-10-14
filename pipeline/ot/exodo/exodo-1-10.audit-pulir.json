@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 1:10",
+  "chapter": 1,
+  "verse": 10,
+  "candidateLabel": "pulir",
+  "spanish": "Ea, seamos sabios a él, no sea que se multiplique, y será que acontezca guerra, y se añada también él sobre nuestros aborrecedores, y luche en nosotros, y suba desde la tierra.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001010002"
+      ],
+      "issue": "Hithpael cohortative of חכם licenses acting/dealing shrewdly; Spanish uses stative seamos sabios",
+      "spanishSpan": "seamos sabios"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001010008"
+      ],
+      "issue": "Verb is tagged 3fp; Spanish singular acontezca smooths number to agree with singular guerra",
+      "spanishSpan": "acontezca"
+    }
+  ],
+  "notes": "Otherwise licensed: הבה, לו, פן ירבה, והיה כי, גם־הוא על שנאינו, נלחם בנו, עלה מן הארץ.",
+  "discardedUncitedFindings": 0
+}

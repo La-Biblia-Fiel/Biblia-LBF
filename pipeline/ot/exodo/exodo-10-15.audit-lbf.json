@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 10:15",
+  "chapter": 10,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y cubrió el ojo de toda la tierra, y se oscureció la tierra, y comió toda hierba de la tierra y todo fruto del árbol que dejó el granizo, y no quedó todo verdor en el árbol y en hierba del campo en toda tierra de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02010015020",
+        "h02010015021",
+        "h02010015022",
+        "h02010015023"
+      ],
+      "issue": "«no quedó todo verdor» is partial negation (some green remained). וְלֹא נוֹתַר כָּל licenses that none of the green remained.",
+      "spanishSpan": "no quedó todo verdor"
+    }
+  ],
+  "notes": "Remaining clauses match the packet tokens, including ojo, singular árbol/hierba, hiphil dejó, and Egipto.",
+  "discardedUncitedFindings": 0
+}
