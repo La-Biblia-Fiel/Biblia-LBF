@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:21",
+  "chapter": 14,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y extendió Moisés su mano sobre el mar, e hizo ir Jehová al mar con viento de oriente fuerte toda la noche, y puso al mar a sequedad, y se rajaron las aguas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014021019"
+      ],
+      "issue": "לֶחָרָבָה is a noun of dry ground; “sequedad” keeps abstract dryness and omits the ground.",
+      "spanishSpan": "a sequedad"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02014021007",
+        "h02014021009",
+        "h02014021010"
+      ],
+      "issue": "“al mar” after “hizo ir” can be read as the goal “to the sea”; את הַיָּם is the object the hiphil causes to go.",
+      "spanishSpan": "hizo ir Jehová al mar"
+    }
+  ],
+  "notes": "Moisés, Jehová, the qal verbs, “toda la noche”, and niphal “se rajaron las aguas” match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:27",
+  "chapter": 14,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y extendió Moisés su mano sobre el mar, y volvió el mar al volver de mañana a su corriente, y Egipto huyentes a su encuentro, y sacudió Jehová a Egipto en medio del mar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014027009",
+        "h02014027010"
+      ],
+      "issue": "Infinitive of turn (H6437) plus the noun morning is rendered as a second return, with de mañana as in the morning, so the sea returns in the morning.",
+      "spanishSpan": "al volver de mañana"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014027011"
+      ],
+      "issue": "H386 is an adjective with a 3ms suffix (strong/permanent/ever-flowing); corriente resolves it as the noun current.",
+      "spanishSpan": "a su corriente"
+    }
+  ],
+  "notes": "Moisés, Jehová, Egipto, the 3ms verbs, plural huyentes, and en medio del mar match the tokens.",
+  "discardedUncitedFindings": 0
+}

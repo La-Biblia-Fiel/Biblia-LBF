@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:37",
+  "chapter": 12,
+  "verse": 37,
+  "candidateLabel": "lbf",
+  "spanish": "Y partieron hijos de Israel desde Raamses hacia Sucot, como seiscientos mil a pie los varones, aparte del pequeño.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012037012"
+      ],
+      "issue": "מִטָּף is an undetermined masculine singular noun (the little ones as a class). «del pequeño» adds the definite article and narrows it to one little one.",
+      "spanishSpan": "del pequeño"
+    }
+  ],
+  "notes": "Partieron, hijos de Israel, desde Raamses, hacia Sucot, como seiscientos mil, a pie, los varones y aparte de stay with the tokens.",
+  "discardedUncitedFindings": 0
+}

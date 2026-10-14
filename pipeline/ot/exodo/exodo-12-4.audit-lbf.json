@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:4",
+  "chapter": 12,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y si mengua la casa de ser de cordero, y tomará él y su vecino el cercano a su casa en cuenta de almas; varón según boca de su comida contarán sobre el cordero.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012004005",
+        "h02012004019"
+      ],
+      "issue": "H7716 is one of the flock (sheep or goat). “cordero” narrows it to a young sheep.",
+      "spanishSpan": "cordero"
+    }
+  ],
+  "notes": "2mp תָּכֹסּוּ as contarán is ustedes address; the other clauses track the tokens.",
+  "discardedUncitedFindings": 0
+}

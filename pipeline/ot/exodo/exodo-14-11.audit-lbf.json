@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:11",
+  "chapter": 14,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijeron a Moisés: ¿Por falta de no haber sepulcros en Egipto nos tomaste a morir en el desierto? ¿Qué esto hiciste a nosotros, para sacarnos desde Egipto?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014011004",
+        "h02014011005"
+      ],
+      "issue": "«por falta de no haber» makes the negative particle בְּלִי the lack of אֵין, so what is lacking is the non-existence of graves; the two negatives license absence of graves.",
+      "spanishSpan": "Por falta de no haber"
+    }
+  ],
+  "notes": "The rest matches the packet: 3mp said to Moisés, 2ms took us to die in the wilderness, and hiphil brought us out from Egipto.",
+  "discardedUncitedFindings": 0
+}

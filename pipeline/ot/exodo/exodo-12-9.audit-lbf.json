@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:9",
+  "chapter": 12,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "No coman de él crudo y cocido cocido en las aguas, sino asado de fuego: su cabeza sobre sus piernas y sobre su interior.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012009003"
+      ],
+      "issue": "The preposition suffix is 1st common plural; Spanish «de él» is 3rd masculine singular.",
+      "spanishSpan": "de él"
+    }
+  ],
+  "notes": "The other tokens, including the repeated cook words, plural waters, כי אם, dual legs as piernas, and 2mp ustedes, stay within the packet.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 13:13",
+  "chapter": 13,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y toda abertura de asno redimirás con cordero, y si no redimes, y le romperás la cerviz; y todo primogénito de hombre en tus hijos redimirás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02013013002"
+      ],
+      "issue": "H6363 is the concrete firstling (that which opens the womb), construct with the donkey; «abertura» substitutes an aperture and omits the firstling.",
+      "spanishSpan": "abertura"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02013013005"
+      ],
+      "issue": "H7716 is one of the flock (sheep or goat), common gender, age unspecified; «cordero» narrows it to a young male sheep.",
+      "spanishSpan": "cordero"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02013013008"
+      ],
+      "issue": "Qal imperfect 2ms under אִם is smoothed to present «redimes»; same addressee and same verb.",
+      "spanishSpan": "redimes"
+    }
+  ],
+  "notes": "Person, number, the 3ms suffix, and both conjunctions otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

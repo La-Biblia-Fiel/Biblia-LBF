@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:4",
+  "chapter": 14,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y fortaleceré el corazón de Faraón, y perseguirá detrás de ellos, y me glorificaré en Faraón y en todo su ejército, y conocerán Egipto que yo Jehová. Y hicieron así.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014004011",
+        "h02014004012"
+      ],
+      "issue": "3cp וְיָדְעוּ has מִצְרַיִם as subject of כִּי (Egypt knows that I am Jehovah). Plural conocerán with singular Egipto makes Egipto the object and an unnamed they the subject.",
+      "spanishSpan": "conocerán Egipto"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02014004007"
+      ],
+      "issue": "Niphal cohortative is smoothed to an indicative reflexive future, dropping the volitive force.",
+      "spanishSpan": "me glorificaré"
+    }
+  ],
+  "notes": "Verbless כִּי־אֲנִי יְהוָה has no unmarked copula; wayyiqtol וַיַּעֲשׂוּ־כֵן is past hicieron así.",
+  "discardedUncitedFindings": 0
+}

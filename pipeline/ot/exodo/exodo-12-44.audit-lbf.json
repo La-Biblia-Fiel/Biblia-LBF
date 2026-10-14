@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:44",
+  "chapter": 12,
+  "verse": 44,
+  "candidateLabel": "lbf",
+  "spanish": "Y todo siervo varón compra de plata, y circuncidarás a él, entonces comerá en él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012044002",
+        "h02012044003"
+      ],
+      "issue": "עֶבֶד is construct governing אִישׁ absolute, so the tokens license a servant of a man. “siervo varón” identifies the servant as the man and leaves that construct relation unexpressed.",
+      "spanishSpan": "siervo varón"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012044004",
+        "h02012044005"
+      ],
+      "issue": "מִקְנַת כֶּסֶף is the noun phrase “compra de plata”. With no apposition mark, “compra” is also readable as the finite verb buys.",
+      "spanishSpan": "compra de plata"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012044009"
+      ],
+      "issue": "Qal jussive 3ms is smoothed to the indicative future “comerá”.",
+      "spanishSpan": "comerá"
+    }
+  ],
+  "notes": "2ms circuncidarás, the 3ms object, אָז, and בּוֹ stay within what the tokens license.",
+  "discardedUncitedFindings": 0
+}

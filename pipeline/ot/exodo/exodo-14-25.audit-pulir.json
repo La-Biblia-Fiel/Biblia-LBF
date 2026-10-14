@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:25",
+  "chapter": 14,
+  "verse": 25,
+  "candidateLabel": "pulir",
+  "spanish": "Y quitó la rueda de sus carros, y lo condujo en pesadez, y dijo Egipto: Huya de faces de Israel, porque Jehová pelea a ellos en Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014025009"
+      ],
+      "issue": "Cohortative 1st common singular (the speaker’s own volitive to flee); Huya is an usted command or 3rd-person subjunctive, shifting person and participant.",
+      "spanishSpan": "Huya"
+    }
+  ],
+  "notes": "Remaining clauses match the packet’s number, suffixes, singular wheel, plural chariots, and locked names.",
+  "discardedUncitedFindings": 0
+}

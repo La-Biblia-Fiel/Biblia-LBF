@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:46",
+  "chapter": 12,
+  "verse": 46,
+  "candidateLabel": "lbf",
+  "spanish": "En casa una se comerá; no sacarás desde la casa de la carne afuera, y hueso no quebrarán en él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012046006",
+        "h02012046007",
+        "h02012046008",
+        "h02012046009"
+      ],
+      "issue": "Two separate מִן phrases (from the house, from the flesh) are fused as “desde la casa de la carne,” so the flesh modifies the house as a genitive instead of a second source/partitive “from.”",
+      "spanishSpan": "desde la casa de la carne"
+    }
+  ],
+  "notes": "Passive “se comerá,” 2ms “sacarás,” 2mp “quebrarán,” singular “hueso,” and “en él” match the tokens.",
+  "discardedUncitedFindings": 0
+}

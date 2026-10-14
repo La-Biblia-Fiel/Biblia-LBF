@@ -1,0 +1,91 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 14:19",
+  "chapter": 14,
+  "verse": 19,
+  "sourceDraft": "Y partió ángel de Dios el andante delante del campamento de Israel, y fue detrás de ellos, y partió columna de la nube de delante de ellos y se paró detrás de ellos.",
+  "spanish": "Y partió ángel de Dios el andante delante del campamento de Israel, y fue de detrás de ellos, y partió columna de la nube de delante de ellos y se paró de detrás de ellos.",
+  "units": [
+    {
+      "es": "Y partió",
+      "sourceTokenIds": [
+        "h02014019001"
+      ]
+    },
+    {
+      "es": "ángel de Dios",
+      "sourceTokenIds": [
+        "h02014019002",
+        "h02014019003"
+      ]
+    },
+    {
+      "es": "el andante",
+      "sourceTokenIds": [
+        "h02014019004"
+      ]
+    },
+    {
+      "es": "delante del campamento de Israel",
+      "sourceTokenIds": [
+        "h02014019005",
+        "h02014019006",
+        "h02014019007"
+      ]
+    },
+    {
+      "es": "y fue",
+      "sourceTokenIds": [
+        "h02014019008"
+      ]
+    },
+    {
+      "es": "de detrás de ellos",
+      "sourceTokenIds": [
+        "h02014019009"
+      ]
+    },
+    {
+      "es": "y partió",
+      "sourceTokenIds": [
+        "h02014019010"
+      ]
+    },
+    {
+      "es": "columna de la nube",
+      "sourceTokenIds": [
+        "h02014019011",
+        "h02014019012"
+      ]
+    },
+    {
+      "es": "de delante de ellos",
+      "sourceTokenIds": [
+        "h02014019013"
+      ]
+    },
+    {
+      "es": "y se paró",
+      "sourceTokenIds": [
+        "h02014019014"
+      ]
+    },
+    {
+      "es": "de detrás de ellos",
+      "sourceTokenIds": [
+        "h02014019015"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "h02014019009: 'fue detrás de ellos' → 'fue de detrás de ellos', adding 'de' to express the min of מֵאַחֲרֵיהֶם, which the draft had left unexpressed.",
+    "h02014019015: 'se paró detrás de ellos' → 'se paró de detrás de ellos', adding 'de' to express the min of מֵאַחֲרֵיהֶם, which the draft had left unexpressed."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

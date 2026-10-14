@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:5",
+  "chapter": 12,
+  "verse": 5,
+  "candidateLabel": "pulir",
+  "spanish": "Animal perfecto, macho, hijo de año, será a ustedes; de los corderos y de las cabras tomarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012005001"
+      ],
+      "issue": "שֶׂה (H7716, noun common singular) is one of the flock, a sheep or a goat. «Animal» widens it to any animal.",
+      "spanishSpan": "Animal"
+    }
+  ],
+  "notes": "perfecto, macho, hijo de año, será a ustedes, de los corderos y de las cabras tomarán match the remaining tokens, including 2mp ustedes.",
+  "discardedUncitedFindings": 0
+}

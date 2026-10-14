@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 13:15",
+  "chapter": 13,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue que endureció Faraón de enviarnos, y mató Jehová todo primogénito en tierra de Egipto, desde primogénito de hombre y hasta primogénito de ganado; por eso yo sacrificante a Jehová toda abertura de vientre los machos, y todo primogénito de mis hijos redimiré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02013015023",
+        "h02013015024",
+        "h02013015025"
+      ],
+      "issue": "פטר is the masculine opener (the first issue of the womb), in construct with רחם and specified by הזכרים. «abertura» names the aperture or act of opening, so the males are no longer the womb-openers being sacrificed.",
+      "spanishSpan": "toda abertura de vientre los machos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02013015005"
+      ],
+      "issue": "The ל on the piel infinitive is rendered «de», the usual Spanish for a מִן source; the token licenses to/for sending us.",
+      "spanishSpan": "de enviarnos"
+    }
+  ],
+  "notes": "Other participants, number, and locked names (Faraón, Jehová, Egipto) match the tokens.",
+  "discardedUncitedFindings": 0
+}

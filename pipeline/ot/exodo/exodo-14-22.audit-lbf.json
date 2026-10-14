@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:22",
+  "chapter": 14,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y entraron hijos de Israel en medio del mar en la seca, y las aguas a ellos muro desde su derecha y desde su izquierda.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014022006"
+      ],
+      "issue": "בַּיַּבָּשָׁה is the definite noun dry land/dry ground (H3004). «la seca» names a drought and omits that ground.",
+      "spanishSpan": "la seca"
+    }
+  ],
+  "notes": "The rest matches the tokens, including the verbless wall clause.",
+  "discardedUncitedFindings": 0
+}

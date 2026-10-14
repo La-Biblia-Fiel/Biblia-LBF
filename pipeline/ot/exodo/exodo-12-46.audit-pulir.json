@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:46",
+  "chapter": 12,
+  "verse": 46,
+  "candidateLabel": "pulir",
+  "spanish": "En casa una se comerá; no sacarás desde la casa, desde la carne, afuera, y hueso no quebrarán en él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012046001",
+        "h02012046002"
+      ],
+      "issue": "«En casa una» keeps house+one in Hebrew order, but «en casa» is the idiom «at home» and postposed «una» can be read as the feminine subject of «se comerá» rather than the cardinal on the house.",
+      "spanishSpan": "En casa una"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012046011",
+        "h02012046014"
+      ],
+      "issue": "עצם is feminine singular and בו is 3ms, so the suffix is not the bone; Spanish masculine «hueso» makes «en él» easy to attach to the bone.",
+      "spanishSpan": "hueso no quebrarán en él"
+    }
+  ],
+  "notes": "2ms sacarás, 2mp quebrarán, both מן, singular hueso, niphal se comerá, and 3ms en él are licensed.",
+  "discardedUncitedFindings": 0
+}

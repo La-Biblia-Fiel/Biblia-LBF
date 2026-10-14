@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 13:14",
+  "chapter": 13,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y será que te pregunte tu hijo mañana, diciendo: ¿Qué esto? Y dirás a él: Con fuerza de mano nos sacó Jehová desde Egipto, desde casa de siervos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02013014003"
+      ],
+      "issue": "Subjunctive «pregunte» smooths a qal imperfect 3ms under «será que»; the future assertion stays the same.",
+      "spanishSpan": "te pregunte"
+    }
+  ],
+  "notes": "Y será que, tu hijo, mañana, diciendo, ¿Qué esto? without a copula, dirás a él, con fuerza de mano, nos sacó, Jehová, desde Egipto, desde casa de siervos track the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:49",
+  "chapter": 12,
+  "verse": 49,
+  "candidateLabel": "lbf",
+  "spanish": "Torá una será al natural y al peregrino el peregrinante en medio de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012049001"
+      ],
+      "issue": "תּוֹרָה is a common noun (law/instruction), not a name; Torá leaves the lemma untranslated and capitalizes it as a title.",
+      "spanishSpan": "Torá"
+    }
+  ],
+  "notes": "The other tokens match: one, 3ms will-be, to the native and to the sojourner who sojourns, in your midst as ustedes.",
+  "discardedUncitedFindings": 0
+}

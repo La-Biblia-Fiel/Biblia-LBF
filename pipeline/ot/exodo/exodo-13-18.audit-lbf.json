@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 13:18",
+  "chapter": 13,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y rodeó Dios al pueblo camino del desierto, mar de Suf; y armados subieron hijos de Israel desde tierra de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02013018001"
+      ],
+      "issue": "Hiphil causative: Dios hace que el pueblo dé la vuelta; «rodeó» pone a Dios rodeando al pueblo y pierde la fuerza del tema.",
+      "spanishSpan": "rodeó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02013018008"
+      ],
+      "issue": "Sustantivo común (no nombre propio) dejado sin traducir como Suf.",
+      "spanishSpan": "Suf"
+    }
+  ],
+  "notes": "Dios, el pueblo, camino del desierto, armados, subieron, hijos de Israel y desde tierra de Egipto siguen a los tokens.",
+  "discardedUncitedFindings": 0
+}

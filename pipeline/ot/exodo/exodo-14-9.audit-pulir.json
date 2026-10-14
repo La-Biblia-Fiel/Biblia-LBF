@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:9",
+  "chapter": 14,
+  "verse": 9,
+  "candidateLabel": "pulir",
+  "spanish": "Y persiguió Egipto detrás de ellos, y los alcanzaron acampados sobre el mar, todo caballo del carro de Faraón y sus jinetes y su ejército, sobre Pi Hajirot, delante de Baal Tsefon.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02014009001",
+        "h02014009004"
+      ],
+      "issue": "El primer wayyiqtol es 3mp y el español lo deja en singular («persiguió») para concordar con Egipto; el segundo wayyiqtol sigue en 3pl («alcanzaron»). Es ajuste gramatical del mismo sujeto, sin otro participante.",
+      "spanishSpan": "persiguió"
+    }
+  ],
+  "notes": "El resto del verso conserva número, sufijos, cadena de constructo y los nombres propios del paquete.",
+  "discardedUncitedFindings": 0
+}

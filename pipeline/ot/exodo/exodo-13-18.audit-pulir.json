@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 13:18",
+  "chapter": 13,
+  "verse": 18,
+  "candidateLabel": "pulir",
+  "spanish": "Y Dios hizo rodear al pueblo camino del desierto, mar de los juncos; y armados subieron hijos de Israel desde tierra de Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02013018008"
+      ],
+      "issue": "סוּף is masculine singular absolute with no article; “los juncos” is definite and plural, smoothing a collective reed-noun.",
+      "spanishSpan": "los juncos"
+    }
+  ],
+  "notes": "Causative hiphil, route, passive participle, and Egipto match the tokens.",
+  "discardedUncitedFindings": 0
+}

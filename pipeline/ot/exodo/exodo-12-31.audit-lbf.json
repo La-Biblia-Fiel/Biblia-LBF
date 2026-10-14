@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:31",
+  "chapter": 12,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y llamó a Moisés y a Aarón de noche, y dijo: Levántense, salgan de medio de mi pueblo, también ustedes, también hijos de Israel, y vayan, sirvan a Jehová como su hablar.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012031019"
+      ],
+      "issue": "El infinitivo piel lleva sufijo 2mp (el hablar de los destinatarios). «su» es el posesivo de ustedes, pero junto a Jehová puede leerse como el hablar de un tercero.",
+      "spanishSpan": "su hablar"
+    }
+  ],
+  "notes": "Los imperativos en ustedes corresponden a los verbos 2mp.",
+  "discardedUncitedFindings": 0
+}

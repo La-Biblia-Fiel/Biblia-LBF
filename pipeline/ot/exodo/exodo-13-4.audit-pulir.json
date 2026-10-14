@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 13:4",
+  "chapter": 13,
+  "verse": 4,
+  "candidateLabel": "pulir",
+  "spanish": "Hoy ustedes salientes en el mes de las espigas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02013004005"
+      ],
+      "issue": "Singular noun (young/green ear) is rendered as plural las espigas.",
+      "spanishSpan": "las espigas"
+    }
+  ],
+  "notes": "Hoy, ustedes, salientes, and en el mes de match the other tokens.",
+  "discardedUncitedFindings": 0
+}

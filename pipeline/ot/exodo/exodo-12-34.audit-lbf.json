@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:34",
+  "chapter": 12,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Y alzó el pueblo su masa antes de leudar; sus artesas atadas en sus mantos sobre su hombro.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012034005",
+        "h02012034006"
+      ],
+      "issue": "Qal imperfect 3ms after “before” is smoothed to the infinitive “leudar”; person is unmarked and the subject (dough or people, both 3ms) is less explicit, without a stem or event change.",
+      "spanishSpan": "antes de leudar"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens, including singular hombro with a plural possessor.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:32",
+  "chapter": 12,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "También su rebaño, también su ganado tomen como que hablaron, y vayan, y bendigan también a mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012032006",
+        "h02012032007"
+      ],
+      "issue": "כַּאֲשֶׁר plus piel perfect 2mp licenses taking according as the addressees spoke; como que is the current as-if idiom and does not say that.",
+      "spanishSpan": "como que hablaron"
+    }
+  ],
+  "notes": "גם ×3, 2mp suffixes with tomen/vayan/bendigan, and אתי as a mí stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

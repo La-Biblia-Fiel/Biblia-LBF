@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:18",
+  "chapter": 14,
+  "verse": 18,
+  "candidateLabel": "pulir",
+  "spanish": "Y conocerá Egipto que yo Jehová, en mi glorificarme en Faraón, en su carro y en sus jinetes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02014018001",
+        "h02014018002"
+      ],
+      "issue": "Qal sequential perfect 3cp is smoothed to singular conocerá with the proper name Egipto; the knower stays Egypt.",
+      "spanishSpan": "conocerá"
+    }
+  ],
+  "notes": "Verbless אֲנִי יְהוָה is left without an unmarked copula; ב is repeated.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:47",
+  "chapter": 12,
+  "verse": 47,
+  "candidateLabel": "lbf",
+  "spanish": "Toda congregación de Israel lo harán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02012047001",
+        "h02012047002"
+      ],
+      "issue": "Toda congregación without the article fixes כָּל as distributive “every congregation.” The construct singular כָּל עֲדַת leaves “the whole of the congregation” open beside “every.”",
+      "spanishSpan": "Toda congregación"
+    }
+  ],
+  "notes": "Plural harán and lo match the 3mp verb and the 3ms object suffix.",
+  "discardedUncitedFindings": 0
+}

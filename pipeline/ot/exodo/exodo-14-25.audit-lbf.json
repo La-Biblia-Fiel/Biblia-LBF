@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:25",
+  "chapter": 14,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y quitó rueda de sus carros, y los conducía en pesadez, y dijo Egipto: Huyamos de faces de Israel, porque Jehová pelea a ellos en Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014025005"
+      ],
+      "issue": "The object suffix is 3rd masculine singular; \"los\" is plural.",
+      "spanishSpan": "los"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02014025005"
+      ],
+      "issue": "The wayyiqtol is narrative past; \"conducía\" is ongoing imperfect.",
+      "spanishSpan": "conducía"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014025009"
+      ],
+      "issue": "The cohortative is 1st person singular; \"Huyamos\" is 1st person plural.",
+      "spanishSpan": "Huyamos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02014025003",
+        "h02014025004"
+      ],
+      "issue": "Singular construct plus a 3rd masculine singular suffix licenses a definite wheel; bare \"rueda\" leaves that definiteness unmarked.",
+      "spanishSpan": "rueda"
+    }
+  ],
+  "notes": "Egipto, Israel y Jehová siguen los nombres fijados; \"a ellos\" deja abierto el ל de 3mp.",
+  "discardedUncitedFindings": 0
+}

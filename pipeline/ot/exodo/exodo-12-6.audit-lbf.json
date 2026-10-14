@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 12:6",
+  "chapter": 12,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y será a ustedes a guarda hasta catorce día a este mes, y lo degollarán toda asamblea de congregación de Israel entre las tardes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02012006017"
+      ],
+      "issue": "Dual absolute evenings is plural tardes; entre las tardes keeps the open between-the-evenings phrase and does not reduce it to one time of day.",
+      "spanishSpan": "las tardes"
+    }
+  ],
+  "notes": "Clause roles, fourteen as one day, 2mp ustedes, and 3cp slaughter by the assembly of the congregation of Israel stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

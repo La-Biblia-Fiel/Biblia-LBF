@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:9",
+  "chapter": 14,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y persiguieron Egipto detrás de ellos, y los alcanzaron acampados sobre el mar, todo caballo, carro de Faraón y sus jinetes y su ejército, sobre Pi Hajirot, delante de Baal Tsefon.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014009001",
+        "h02014009002",
+        "h02014009003"
+      ],
+      "issue": "The 3mp verb has Egipto as subject (Egypt pursues) and the 3mp suffix as the ones pursued. Plural persiguieron does not agree with singular Egipto, so Egipto is read as the object of the pursuit.",
+      "spanishSpan": "persiguieron Egipto detrás de ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02014009009",
+        "h02014009010",
+        "h02014009011",
+        "h02014009012"
+      ],
+      "issue": "כל סוס רכב פרעה is one construct chain (all the horse of the chariot of Pharaoh). The comma makes a list and drops the construct link from סוס to רכב.",
+      "spanishSpan": "todo caballo, carro de Faraón"
+    }
+  ],
+  "notes": "Hiphil alcanzar, acampados, jinetes, ejército, Pi Hajirot, and Baal Tsefon stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

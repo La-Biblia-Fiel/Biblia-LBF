@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 14:24",
+  "chapter": 14,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue en vigilia de la mañana, y miró Jehová hacia campamento de Egipto en columna de fuego y nube, y turbó el campamento de Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02014024007",
+        "h02014024008"
+      ],
+      "issue": "The definite construct מחנה מצרים is a bare noun («campamento»); the same chain later is «el campamento».",
+      "spanishSpan": "hacia campamento de Egipto"
+    }
+  ],
+  "notes": "Jehová, Egipto, person, number, hiphil look, qal disturb, and fire-and-cloud coordination match the tokens.",
+  "discardedUncitedFindings": 0
+}
