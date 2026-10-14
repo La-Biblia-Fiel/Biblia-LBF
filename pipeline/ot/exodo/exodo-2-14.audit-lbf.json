@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 2:14",
+  "chapter": 2,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo: ¿Quién te puso por varón, príncipe y juez sobre nosotros? ¿Acaso tú dices matarme, como mataste al mizraita? Y temió Moisés, y dijo: Ciertamente el asunto se supo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002014014"
+      ],
+      "issue": "Hebraizes gentilic הַמִּצְרִי as mizraita; conventional Spanish licensed form is egipcio",
+      "spanishSpan": "mizraita"
+    }
+  ],
+  "notes": "Rest matches packet force, participants, and niphal נוֹדַע.",
+  "discardedUncitedFindings": 0
+}

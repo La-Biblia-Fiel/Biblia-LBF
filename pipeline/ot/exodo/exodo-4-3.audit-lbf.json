@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 4:3",
+  "chapter": 4,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo: Arrójala a tierra. Y la arrojó a tierra, y fue a serpiente, y huyó Moisés de faces de ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02004003002",
+        "h02004003004"
+      ],
+      "issue": "3ms object suffix (Sp3ms) rendered as feminine la",
+      "spanishSpan": "Arrójala … la arrojó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02004003010"
+      ],
+      "issue": "מפניו is from-faces-of-him (3ms); Spanish dumps non-Spanish faces and feminine ella for the 3ms suffix",
+      "spanishSpan": "de faces de ella"
+    }
+  ],
+  "notes": "Other clauses match אמר, Hiphil שלך, ארצה, היה לנחש, נס, משה.",
+  "discardedUncitedFindings": 0
+}

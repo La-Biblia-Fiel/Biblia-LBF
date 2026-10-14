@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 4:2",
+  "chapter": 4,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo a él Jehová: ¿Qué esto en tu mano? Y dijo: Vara.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02004002003",
+        "h02004002004"
+      ],
+      "issue": "¿Qué esto has no packet token between יְהוָה and בְיָדֶךָ; adds interrogative/demonstrative content the tokens do not license",
+      "spanishSpan": "Qué esto"
+    }
+  ],
+  "notes": "Said-to-him-YHWH, in-your-hand, said, and staff match the six packet tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 2:3",
+  "chapter": 2,
+  "verse": 3,
+  "candidateLabel": "pulir",
+  "spanish": "Y no pudo todavía esconderlo, y tomó para él arca de papiro, y la embetunó en betún y en pez, y puso en ella al niño, y *la* puso en el junco sobre el labio del Yeor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002003001",
+        "h02002003003"
+      ],
+      "issue": "לֹא + עוֹד licenses no-longer/anymore; Spanish no…todavía reads as not-yet/still-not and inverts that temporal force",
+      "spanishSpan": "no pudo todavía"
+    }
+  ],
+  "notes": "Marked *la* for the ellipted object of the second וַתָּשֶׂם is licensed smoothing; the rest matches the packet.",
+  "discardedUncitedFindings": 0
+}

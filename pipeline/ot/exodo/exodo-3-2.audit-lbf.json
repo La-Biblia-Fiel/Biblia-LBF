@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 3:2",
+  "chapter": 3,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y se apareció ángel de Jehová a él en llama de fuego de medio de la zarza, y vio, y he aquí la zarza ardiente en el fuego, y la zarza no consumida.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02003002002",
+        "h02003002003"
+      ],
+      "issue": "Construct מַלְאַךְ יְהֹוָה is definite by the proper name; Spanish drops the article before ángel (el ángel de Jehová), grammatical smoothing without changing the referent.",
+      "spanishSpan": "ángel de Jehová"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02003002007"
+      ],
+      "issue": "מִתּוֹךְ is from-the-midst; de medio de under-renders the interior/midst preposition versus de en medio de, without adding a new concept.",
+      "spanishSpan": "de medio de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02003002012"
+      ],
+      "issue": "Active participle בֹּעֵר rendered as adjective ardiente rather than a verbal participle (ardiendo / que ardía); meaning unchanged.",
+      "spanishSpan": "ardiente"
+    }
+  ],
+  "notes": "Niphal וַיֵּרָא vs Qal וַיַּרְא correctly kept as se apareció / vio; no added theology or omitted licensed concepts.",
+  "discardedUncitedFindings": 0
+}

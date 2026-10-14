@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 4:26",
+  "chapter": 4,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y aflojó de él; entonces dijo: Esposo de sangres a las circuncisiones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02004026002"
+      ],
+      "issue": "Packet morph is Sp1cp (from us); Spanish renders a 3ms participant (from him).",
+      "spanishSpan": "de él"
+    }
+  ],
+  "notes": "Other spans match 3ms wayyiqtol, אז, 3fs אמר, חתן דמים construct+plural, and לַמּוּלֹת definite feminine plural.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 3:7",
+  "chapter": 3,
+  "verse": 7,
+  "candidateLabel": "pulir",
+  "spanish": "Y dijo Jehová: Viendo he visto la aflicción de mi pueblo que en Egipto, y su clamor he oído de rostros de sus opresores, porque conozco sus dolores.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02003007016"
+      ],
+      "issue": "Qal perfect יָדַעְתִּי rendered as present conozco while adjacent perfects stay he visto / he oído; sense of known suffering is intact, aspect is smoothed",
+      "spanishSpan": "conozco"
+    }
+  ],
+  "notes": "Infinitive absolute + perfect, verbless אשר במצרים, and מִפְּנֵי as rostros stay within the tokens without added concepts.",
+  "discardedUncitedFindings": 0
+}

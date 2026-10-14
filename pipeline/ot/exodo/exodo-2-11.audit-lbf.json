@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 2:11",
+  "chapter": 2,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue en los días aquellos, y creció Moisés, y salió a sus hermanos, y vio en sus cargas, y vio varón mizraita golpeando a varón hebreo de sus hermanos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002011013"
+      ],
+      "issue": "gentilic מִצְרִי takes conventional Spanish egipcio; mizraita is a Hebraizing transliteration",
+      "spanishSpan": "mizraita"
+    }
+  ],
+  "notes": "Otherwise the clause tracks the packet tokens without added or dropped concepts.",
+  "discardedUncitedFindings": 0
+}

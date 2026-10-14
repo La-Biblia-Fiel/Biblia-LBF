@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 2:6",
+  "chapter": 2,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y abrió, y lo vio, al niño, y he aquí muchacho llorante, y se compadeció de él, y dijo: Este es de los hijos de los hebreos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002006011",
+        "h02002006012",
+        "h02002006013"
+      ],
+      "issue": "Supplied copula es is unmarked; verbless predication of זה needs *es* if retained",
+      "spanishSpan": "es"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02002006009"
+      ],
+      "issue": "על + Sp3ms rendered with de rather than sobre/en; Spanish collocation smoothing, meaning intact",
+      "spanishSpan": "de él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02002006013"
+      ],
+      "issue": "זה clause-final in Hebrew; Spanish fronted Este is word-order smoothing only",
+      "spanishSpan": "Este"
+    }
+  ],
+  "notes": "Otherwise licensed: 3fs chain, lo+al niño for Sp3ms+את־הילד, נער/ילד distinction, חמל, מי־ילדי העברים.",
+  "discardedUncitedFindings": 0
+}

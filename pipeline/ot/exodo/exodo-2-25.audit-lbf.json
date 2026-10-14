@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 2:25",
+  "chapter": 2,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y vio Dios a hijos de Israel, y conoció Dios.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02002025004",
+        "h02002025005"
+      ],
+      "issue": "Construct בְּנֵי יִשְׂרָאֵל is definite; Spanish lacks article los before hijos",
+      "spanishSpan": "a hijos de Israel"
+    }
+  ],
+  "notes": "Double Dios and objectless conoció match repeated אלהים and absolute וידע.",
+  "discardedUncitedFindings": 0
+}

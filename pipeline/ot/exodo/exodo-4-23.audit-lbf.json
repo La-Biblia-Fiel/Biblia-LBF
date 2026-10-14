@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 4:23",
+  "chapter": 4,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y dije a ti: Envía a mi hijo y me sirva, y rehusaste enviarlo; he aquí yo matante a tu hijo, tu primogénito.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02004023010",
+        "h02004023011"
+      ],
+      "issue": "אָנֹכִי + qal participle הֹרֵג licenses a 1cs predicate of killing; \"matante\" is not a finite/conjugated Spanish rendering of that participle action.",
+      "spanishSpan": "yo matante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02004023006"
+      ],
+      "issue": "Morph tags Sp1cp while surface ני and Spanish \"me\" read as 1cs; Spanish follows surface, not the morph number tag.",
+      "spanishSpan": "me"
+    }
+  ],
+  "notes": "Send, refuse-to-send, and tu hijo / tu primogénito otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

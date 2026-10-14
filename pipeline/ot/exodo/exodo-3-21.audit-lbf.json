@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 3:21",
+  "chapter": 3,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y daré favor de este pueblo en ojos de Egipto, y será que andarán, no andarán vacíos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02003021013"
+      ],
+      "issue": "Adverb רֵיקָם rendered as agreeing adjective vacíos; meaning preserved as grammatical smoothing.",
+      "spanishSpan": "vacíos"
+    }
+  ],
+  "notes": "1cs give + construct favor of this people in Egypt’s eyes; 2mp go / not go kept as ustedes andarán.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 3:22",
+  "chapter": 3,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y pedirá mujer de su vecina y de la huésped de su casa utensilios de plata y utensilios de oro y vestidos, y los pondrán sobre sus hijos y sobre sus hijas, y despojarán a Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02003022006",
+        "h02003022008",
+        "h02003022010",
+        "h02003022011"
+      ],
+      "issue": "Object clitic «los» before pondrán is Spanish smoothing; Hebrew leaves the objects of שׂים implicit from the prior vessels and garments.",
+      "spanishSpan": "los"
+    }
+  ],
+  "notes": "3fs ask and 2mp put/plunder preserved; ustedes forms licensed; Egipto matches the locked proper name.",
+  "discardedUncitedFindings": 0
+}

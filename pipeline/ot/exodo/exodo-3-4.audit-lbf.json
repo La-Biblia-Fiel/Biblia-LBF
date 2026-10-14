@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 3:4",
+  "chapter": 3,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y vio Jehová que se desvió para ver, y llamó a él Dios de medio de la zarza, y dijo: Moisés, Moisés. Y dijo: Heme aquí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003004008",
+        "h02003004009",
+        "h02003004010"
+      ],
+      "issue": "אלהים is absolute (not construct) and מִתּוֹךְ is a locative 'from the midst of'; Spanish 'Dios de medio de la zarza' reads as genitive 'God of the midst of the bush' instead of God calling from that place",
+      "spanishSpan": "Dios de medio de la zarza"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens; only the God/bush attachment is unlicensed.",
+  "discardedUncitedFindings": 0
+}

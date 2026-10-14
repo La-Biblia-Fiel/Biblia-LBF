@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 2:7",
+  "chapter": 2,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo su hermana a hija de Faraón: ¿Iré y te llamaré a ti mujer nodriza de las hebreas, para que te amamante a ti al niño?",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02002007013",
+        "h02002007014",
+        "h02002007016"
+      ],
+      "issue": "לָךְ is benefactive and אֶת הַיָּלֶד the nursed object under hiphil תֵינִק; «te … a ti … al niño» can match that as dative doubling plus DO, but two a-marked phrases also leave an addressee-as-patient reading open.",
+      "spanishSpan": "te amamante a ti al niño"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02002007011",
+        "h02002007012"
+      ],
+      "issue": "מִן licenses from/from among the Hebrew women; Spanish «de las hebreas» softens that to of/among without an explicit from-among cue.",
+      "spanishSpan": "de las hebreas"
+    }
+  ],
+  "notes": "Otherwise the Spanish tracks the packet; purpose «para que» for weyiqtol after the cohortative question is licensed.",
+  "discardedUncitedFindings": 0
+}

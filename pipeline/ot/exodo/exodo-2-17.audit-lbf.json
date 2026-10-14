@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 2:17",
+  "chapter": 2,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y vinieron los pastores y las echaron, y se levantó Moisés y las salvó, y abrevó su rebaño.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002017003"
+      ],
+      "issue": "Object of וַיְגָרְשׁוּם is Sp3mp; Spanish las marks the driven-out party as feminine plural",
+      "spanishSpan": "las echaron"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02002017009"
+      ],
+      "issue": "צֹאנָם has Sp3mp (their flock); with Moisés as subject, su rebaño can read as his flock rather than their flock",
+      "spanishSpan": "su rebaño"
+    }
+  ],
+  "notes": "las salvó matches Sp3fp on וַיּוֹשִׁעָן; only the first object gender and the possessive clarity are at issue.",
+  "discardedUncitedFindings": 0
+}

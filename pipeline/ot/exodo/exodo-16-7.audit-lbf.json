@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:7",
+  "chapter": 16,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y mañana, y verán gloria de Jehová, en su oír las murmuraciones de ustedes sobre Jehová; y nosotros, ¿qué, que murmuran ustedes sobre nosotros?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016007001"
+      ],
+      "issue": "«Y mañana» is the next-day adverb. The token is the absolute noun בֹּקֶר (morning), not a word for the following day.",
+      "spanishSpan": "Y mañana"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016007008",
+        "h02016007013",
+        "h02016007014"
+      ],
+      "issue": "«murmuran ustedes» adds an unmarked finite verb and an explicit 2nd-person subject between כִּי and עָלֵינוּ. No packet token is a verb of murmuring; the only murmuring token is the plural noun תְּלֻנֹּתֵיכֶם, object of the infinitive.",
+      "spanishSpan": "murmuran ustedes"
+    }
+  ],
+  "notes": "The rest of the clause tracks the packet, including both waws, Jehová, the 3ms infinitive, and the 2mp suffix on the noun.",
+  "discardedUncitedFindings": 0
+}

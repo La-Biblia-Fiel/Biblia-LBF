@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 3:18",
+  "chapter": 3,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y oirán a tu voz, y vendrás tú y los ancianos de Israel a rey de Egipto, y dirán a él: Jehová Dios de los hebreos se encontró sobre nosotros; y ahora, andemos ahora camino de tres días en el desierto, y sacrifiquemos a Jehová nuestro Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003018007",
+        "h02003018008",
+        "h02003018009"
+      ],
+      "issue": "Construct מלך מצרים is definite (king of Egypt); Spanish \"a rey\" lacks the licensed definite article (al rey).",
+      "spanishSpan": "a rey de Egipto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02003018019"
+      ],
+      "issue": "Particle נא is entreaty (please/pray), not a second temporal \"ahora\"; rendering it as \"ahora\" after וְעַתָּה omits entreaty and wrongly doubles temporal now.",
+      "spanishSpan": "andemos ahora"
+    }
+  ],
+  "notes": "dirán for 2mp וַאֲמַרְתֶּם is licensed as ustedes future, not a participant shift.",
+  "discardedUncitedFindings": 0
+}

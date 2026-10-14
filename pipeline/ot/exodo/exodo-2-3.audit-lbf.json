@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 2:3",
+  "chapter": 2,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y no pudo todavía esconderlo, y tomó para él arca de gome, y la embetunó en barro y en pez, y puso en ella al niño, y la puso en el junco sobre el labio del Yeor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002003008"
+      ],
+      "issue": "gome Hebraizes/dumps the common noun גֹּמֶא; common nouns stay Spanish (papiro/junco), not an untranslated lemma shape",
+      "spanishSpan": "gome"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002003010"
+      ],
+      "issue": "barro is clay/mortar; בַחֵמָר (H2564) licenses bitumen/asphalt (betún), not clay",
+      "spanishSpan": "barro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002003016"
+      ],
+      "issue": "la is a supplied object with no token on וַתָּשֶׂם; mark as *la* or omit",
+      "spanishSpan": "la"
+    }
+  ],
+  "notes": "Otherwise: no-longer-able hide-him, took for him ark, coated it in pitch materials, put the child in it, put in the reed on the lip of Yeor.",
+  "discardedUncitedFindings": 0
+}

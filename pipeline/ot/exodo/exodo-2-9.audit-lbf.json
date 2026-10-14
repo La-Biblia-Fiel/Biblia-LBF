@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 2:9",
+  "chapter": 2,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y le dijo a ella hija de Faraón: Haz ir a este niño y amamántalo para mí, y yo daré tu salario. Y tomó la mujer al niño y lo amamantó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002009001",
+        "h02002009002",
+        "h02002009003",
+        "h02002009004"
+      ],
+      "issue": "Participants reversed or obscured: 3fs אמר subject is בַּת פַּרְעֹה speaking לָהּ; Spanish 'le dijo a ella hija de Faraón' makes hija de Faraón identify the addressee (ella), not the speaker.",
+      "spanishSpan": "le dijo a ella hija de Faraón"
+    }
+  ],
+  "notes": "Commands and closing narrative (haz ir / amamantar / salario / tomó / amamantó) otherwise match the packet.",
+  "discardedUncitedFindings": 0
+}

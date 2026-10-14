@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 16:7",
+  "chapter": 16,
+  "verse": 7,
+  "candidateLabel": "pulir",
+  "spanish": "Y en la mañana, y verán la gloria de Jehová, en su oír las murmuraciones de ustedes sobre Jehová; y nosotros, ¿qué, que contra nosotros?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02016007001"
+      ],
+      "issue": "Absolute time noun «morning» is smoothed with unmarked «en» and the article «la»; the token is conjunction + common singular absolute, with no preposition and no article.",
+      "spanishSpan": "en la mañana"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02016007014",
+        "h02016007009"
+      ],
+      "issue": "«contra» closes the open preposition עַל (upon/over/concerning/against) as opposition. The same lemma and preposition morphology before Jehová stays open as «sobre».",
+      "spanishSpan": "contra nosotros"
+    }
+  ],
+  "notes": "2mp «verán»/«ustedes», the 3ms infinitive «en su oír», both conjunctions, and the verbless «qué, que…» stay within the tokens.",
+  "discardedUncitedFindings": 0
+}
