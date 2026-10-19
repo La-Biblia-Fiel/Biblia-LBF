@@ -1,0 +1,62 @@
+{
+  "window_id": "18:41:31-18:41:34",
+  "requested_model": "typesafe/jev-1.13",
+  "request_fingerprint": "e3ab5944995c41a25f596cc92423452f4a51f706ab87d59f5d53bf0dc149f0b8",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "v": "0.2.0-compact.1",
+      "i": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "d": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      },
+      "w": {
+        "w0": {
+          "v": [],
+          "x": {
+            "book": "Job",
+            "chapter": 41,
+            "firstVerse": 31,
+            "lastVerse": 34
+          }
+        }
+      },
+      "t": {}
+    },
+    "questions": {}
+  },
+  "local_record": {
+    "serialization_version": "0.2.0-compact.1",
+    "permanent_request_fingerprint": "12242ec53dfc941317323f91df4edab384e9000ddbde421424b10c9f419184d8",
+    "compact_request_fingerprint": "e3ab5944995c41a25f596cc92423452f4a51f706ab87d59f5d53bf0dc149f0b8",
+    "target_map": {},
+    "question_map": {},
+    "audit_boundary": "Permanent statement IDs, display text, full scope text, and source references are retained locally and are not model-facing compact payload metadata."
+  },
+  "status": "local_no_statement_targets",
+  "usage": {
+    "input_tokens": null,
+    "output_tokens": null
+  },
+  "attempted_at": "2026-10-16T19:30:28.021Z",
+  "reason": "No canonical statement targets were extracted; no provider request was sent.",
+  "file": "18_41_31-18_41_34.local-no-target.e3ab5944995c41a25f596cc92423452f4a51f706ab87d59f5d53bf0dc149f0b8.json"
+}

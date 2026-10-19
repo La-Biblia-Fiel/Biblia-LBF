@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 8:15",
+  "chapter": 8,
+  "verse": 15,
+  "candidateLabel": "pulir",
+  "spanish": "Y degolló, y tomó Moisés la sangre, y dio sobre cuernos del altar alrededor en su dedo, y purificó el altar, y la sangre derramó a base del altar, y lo santificó para expiar sobre él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008015018",
+        "h03008015019",
+        "h03008015020"
+      ],
+      "issue": "אל־יסוד is to the base (definite via the altar). 'a base del altar' drops the article and can be read as the idiom 'a base de'.",
+      "spanishSpan": "a base del altar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}
