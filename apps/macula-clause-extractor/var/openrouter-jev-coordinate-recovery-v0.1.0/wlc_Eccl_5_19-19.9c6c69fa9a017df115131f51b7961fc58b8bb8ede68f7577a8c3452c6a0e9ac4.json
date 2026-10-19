@@ -1,0 +1,339 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "verified_full_wlc_coordinate_recovery",
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "requested_model": "typesafe/jev-1.13",
+  "request_fingerprint": "9c6c69fa9a017df115131f51b7961fc58b8bb8ede68f7577a8c3452c6a0e9ac4",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "scan_kind": "predictive_prophecy_discovery",
+      "template_version": "0.2.0",
+      "coverage_boundary": "This scan covers predictive-prophecy discovery only. Other forms of prophecy remain outside current coverage.",
+      "context_window": {
+        "book": "Ecclesiastes",
+        "chapter": 5,
+        "firstVerse": 19,
+        "lastVerse": 19
+      },
+      "source_window": [
+        {
+          "reference": "Ecclesiastes 5:19",
+          "verse": 19,
+          "source_word_ids": [
+            "o210050190011",
+            "o210050190021",
+            "o210050190031",
+            "o210050190041",
+            "o210050190051",
+            "o210050190061",
+            "o210050190071",
+            "o210050190072",
+            "o210050190081",
+            "o210050190091",
+            "o210050190092",
+            "o210050190101",
+            "o210050190111",
+            "o210050190112",
+            "o210050190121",
+            "o210050190122"
+          ],
+          "source_text": "כִּ֚י לֹ֣א הַרְבֵּ֔ה יִזְכֹּ֖ר אֶת יְמֵ֣י חַיָּ֑י ו כִּ֧י הָ אֱלֹהִ֛ים מַעֲנֶ֖ה בְּ שִׂמְחַ֥ת לִבּֽ וֹ",
+          "wlc_reference": "Ecclesiastes 5:19"
+        }
+      ],
+      "statements": [
+        {
+          "statement_id": "wlcmap:21:5:20:ecc_5_19_2100501900210070_p1",
+          "reference": {
+            "book": "Ecclesiastes",
+            "chapter": 5,
+            "verse": 19
+          },
+          "source_word_ids": [
+            "o210050190021",
+            "o210050190031",
+            "o210050190041",
+            "o210050190051",
+            "o210050190061",
+            "o210050190071",
+            "o210050190072"
+          ],
+          "source_text": "לֹ֣א הַרְבֵּ֔ה יִזְכֹּ֖ר אֶת יְמֵ֣י חַיָּ֑י ו",
+          "predicate": {
+            "word_id": "o210050190041",
+            "text": "יִזְכֹּ֖ר",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          },
+          "protestant_reference": {
+            "book": "Ecclesiastes",
+            "chapter": 5,
+            "verse": 20,
+            "reference": "Ecclesiastes 5:20",
+            "osis": "Eccl.5.20"
+          },
+          "wlc_reference": {
+            "osis": "Eccl.5.19",
+            "book": "Ecclesiastes",
+            "chapter": 5,
+            "verse": 19
+          },
+          "coordinate_map": {
+            "type": "full",
+            "authority_path": "source/hebrew/OSHB/morphhb/wlc/VerseMap.xml"
+          }
+        },
+        {
+          "statement_id": "wlcmap:21:5:20:ecc_5_19_2100501900910070_p1",
+          "reference": {
+            "book": "Ecclesiastes",
+            "chapter": 5,
+            "verse": 19
+          },
+          "source_word_ids": [
+            "o210050190091",
+            "o210050190092",
+            "o210050190101",
+            "o210050190111",
+            "o210050190112",
+            "o210050190121",
+            "o210050190122"
+          ],
+          "source_text": "הָ אֱלֹהִ֛ים מַעֲנֶ֖ה בְּ שִׂמְחַ֥ת לִבּֽ וֹ",
+          "predicate": {
+            "word_id": "o210050190101",
+            "text": "מַעֲנֶ֖ה",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          },
+          "protestant_reference": {
+            "book": "Ecclesiastes",
+            "chapter": 5,
+            "verse": 20,
+            "reference": "Ecclesiastes 5:20",
+            "osis": "Eccl.5.20"
+          },
+          "wlc_reference": {
+            "osis": "Eccl.5.19",
+            "book": "Ecclesiastes",
+            "chapter": 5,
+            "verse": 19
+          },
+          "coordinate_map": {
+            "type": "full",
+            "authority_path": "source/hebrew/OSHB/morphhb/wlc/VerseMap.xml"
+          }
+        }
+      ],
+      "common_instructions": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "question_definitions": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      },
+      "assessment_kind": "verified_full_wlc_coordinate_recovery",
+      "coordinate_mapping_notice": "Each target retains both the authoritative Protestant reference and its OSHB VerseMap verified full WLC coordinate."
+    },
+    "questions": {
+      "wlcmap:21:5:20:ecc_5_19_2100501900210070_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Assess candidate_assessment only for wlcmap:21:5:20:ecc_5_19_2100501900210070_p1, whose Protestant reference is Ecclesiastes 5:20 and whose supplied WLC source coordinate is Eccl.5.19; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900210070_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Assess statement_function only for wlcmap:21:5:20:ecc_5_19_2100501900210070_p1, whose Protestant reference is Ecclesiastes 5:20 and whose supplied WLC source coordinate is Eccl.5.19; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900210070_p1:relationship": {
+        "type": "choice",
+        "instructions": "Assess relationship only for wlcmap:21:5:20:ecc_5_19_2100501900210070_p1, whose Protestant reference is Ecclesiastes 5:20 and whose supplied WLC source coordinate is Eccl.5.19; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900910070_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Assess candidate_assessment only for wlcmap:21:5:20:ecc_5_19_2100501900910070_p1, whose Protestant reference is Ecclesiastes 5:20 and whose supplied WLC source coordinate is Eccl.5.19; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900910070_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Assess statement_function only for wlcmap:21:5:20:ecc_5_19_2100501900910070_p1, whose Protestant reference is Ecclesiastes 5:20 and whose supplied WLC source coordinate is Eccl.5.19; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900910070_p1:relationship": {
+        "type": "choice",
+        "instructions": "Assess relationship only for wlcmap:21:5:20:ecc_5_19_2100501900910070_p1, whose Protestant reference is Ecclesiastes 5:20 and whose supplied WLC source coordinate is Eccl.5.19; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      }
+    }
+  },
+  "protestant_references": [
+    "Ecclesiastes 5:20"
+  ],
+  "source_span_ids": [
+    "o210050190021",
+    "o210050190031",
+    "o210050190041",
+    "o210050190051",
+    "o210050190061",
+    "o210050190071",
+    "o210050190072",
+    "o210050190091",
+    "o210050190092",
+    "o210050190101",
+    "o210050190111",
+    "o210050190112",
+    "o210050190121",
+    "o210050190122"
+  ],
+  "status": "succeeded",
+  "raw_response": {
+    "model": "typesafe/jev-1.13-20260917",
+    "answers": {
+      "wlcmap:21:5:20:ecc_5_19_2100501900210070_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.18,
+          "possible_candidate": 0.13,
+          "no_support_in_supplied_context": 0.61,
+          "underdetermined": 0.08
+        },
+        "confidence": 0.48
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900210070_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.39,
+          "contributes_to_predictive_content": 0.06,
+          "narration_introducing_or_reporting_predictive_content": 0.02,
+          "other_content": 0.48,
+          "underdetermined": 0.05
+        },
+        "confidence": 0.35
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900210070_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.14,
+          "contributes_to_announcement_anchor": 0.13,
+          "surrounding_or_other_content": 0.6,
+          "relationship_underdetermined": 0.13
+        },
+        "confidence": 0.47
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900910070_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.2,
+          "possible_candidate": 0.12,
+          "no_support_in_supplied_context": 0.61,
+          "underdetermined": 0.07
+        },
+        "confidence": 0.48
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900910070_p1:statement_function": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.32,
+          "contributes_to_predictive_content": 0.05,
+          "narration_introducing_or_reporting_predictive_content": 0.02,
+          "other_content": 0.57,
+          "underdetermined": 0.04
+        },
+        "confidence": 0.46
+      },
+      "wlcmap:21:5:20:ecc_5_19_2100501900910070_p1:relationship": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.14,
+          "contributes_to_announcement_anchor": 0.13,
+          "surrounding_or_other_content": 0.59,
+          "relationship_underdetermined": 0.14
+        },
+        "confidence": 0.45
+      }
+    },
+    "usage": {
+      "input_tokens": 3655,
+      "output_tokens": 667,
+      "cost": 0.00015351
+    },
+    "id": "gen-dec-1792287932-x1IcavmEtyMwj11Qpxj6",
+    "provider": "TypeSafe"
+  },
+  "raw_response_text": "{\"model\":\"typesafe/jev-1.13-20260917\",\"answers\":{\"wlcmap:21:5:20:ecc_5_19_2100501900210070_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.18,\"possible_candidate\":0.13,\"no_support_in_supplied_context\":0.61,\"underdetermined\":0.08},\"confidence\":0.48},\"wlcmap:21:5:20:ecc_5_19_2100501900210070_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.39,\"contributes_to_predictive_content\":0.06,\"narration_introducing_or_reporting_predictive_content\":0.02,\"other_content\":0.48,\"underdetermined\":0.05},\"confidence\":0.35},\"wlcmap:21:5:20:ecc_5_19_2100501900210070_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.14,\"contributes_to_announcement_anchor\":0.13,\"surrounding_or_other_content\":0.6,\"relationship_underdetermined\":0.13},\"confidence\":0.47},\"wlcmap:21:5:20:ecc_5_19_2100501900910070_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.2,\"possible_candidate\":0.12,\"no_support_in_supplied_context\":0.61,\"underdetermined\":0.07},\"confidence\":0.48},\"wlcmap:21:5:20:ecc_5_19_2100501900910070_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.32,\"contributes_to_predictive_content\":0.05,\"narration_introducing_or_reporting_predictive_content\":0.02,\"other_content\":0.57,\"underdetermined\":0.04},\"confidence\":0.46},\"wlcmap:21:5:20:ecc_5_19_2100501900910070_p1:relationship\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.14,\"contributes_to_announcement_anchor\":0.13,\"surrounding_or_other_content\":0.59,\"relationship_underdetermined\":0.14},\"confidence\":0.45}},\"usage\":{\"input_tokens\":3655,\"output_tokens\":667,\"cost\":0.00015351},\"id\":\"gen-dec-1792287932-x1IcavmEtyMwj11Qpxj6\",\"provider\":\"TypeSafe\"}",
+  "usage": {
+    "input_tokens": 3655,
+    "output_tokens": 667
+  },
+  "cost_usd": 0.00015351,
+  "attempted_at": "2026-10-18T01:45:32.902Z",
+  "elapsed_ms": 208,
+  "response_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "error": null,
+  "file": "wlc_Eccl_5_19-19.9c6c69fa9a017df115131f51b7961fc58b8bb8ede68f7577a8c3452c6a0e9ac4.json"
+}

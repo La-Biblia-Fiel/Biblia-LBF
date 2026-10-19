@@ -1,0 +1,339 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "verified_full_wlc_coordinate_recovery",
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "requested_model": "typesafe/jev-1.13",
+  "request_fingerprint": "54411f9da660defebb77f64e3024ffe9b0553b9e9823f8c2d920e16f37ee7e5d",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "scan_kind": "predictive_prophecy_discovery",
+      "template_version": "0.2.0",
+      "coverage_boundary": "This scan covers predictive-prophecy discovery only. Other forms of prophecy remain outside current coverage.",
+      "context_window": {
+        "book": "Micah",
+        "chapter": 5,
+        "firstVerse": 14,
+        "lastVerse": 14
+      },
+      "source_window": [
+        {
+          "reference": "Micah 5:14",
+          "verse": 14,
+          "source_word_ids": [
+            "o330050140011",
+            "o330050140012",
+            "o330050140021",
+            "o330050140022",
+            "o330050140031",
+            "o330050140032",
+            "o330050140033",
+            "o330050140041",
+            "o330050140051",
+            "o330050140061",
+            "o330050140062",
+            "o330050140071",
+            "o330050140081",
+            "o330050140091"
+          ],
+          "source_text": "וְ עָשִׂ֜יתִי בְּ אַ֧ף וּ בְ חֵמָ֛ה נָקָ֖ם אֶת הַ גּוֹיִ֑ם אֲשֶׁ֖ר לֹ֥א שָׁמֵֽעוּ",
+          "wlc_reference": "Micah 5:14"
+        }
+      ],
+      "statements": [
+        {
+          "statement_id": "wlcmap:33:5:15:mic_5_14_3300501400120130_p1",
+          "reference": {
+            "book": "Micah",
+            "chapter": 5,
+            "verse": 14
+          },
+          "source_word_ids": [
+            "o330050140012",
+            "o330050140021",
+            "o330050140022",
+            "o330050140031",
+            "o330050140032",
+            "o330050140033",
+            "o330050140041",
+            "o330050140051",
+            "o330050140061",
+            "o330050140062",
+            "o330050140071",
+            "o330050140081",
+            "o330050140091"
+          ],
+          "source_text": "עָשִׂ֜יתִי בְּ אַ֧ף וּ בְ חֵמָ֛ה נָקָ֖ם אֶת הַ גּוֹיִ֑ם אֲשֶׁ֖ר לֹ֥א שָׁמֵֽעוּ",
+          "predicate": {
+            "word_id": "o330050140012",
+            "text": "עָשִׂ֜יתִי",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          },
+          "protestant_reference": {
+            "book": "Micah",
+            "chapter": 5,
+            "verse": 15,
+            "reference": "Micah 5:15",
+            "osis": "Mic.5.15"
+          },
+          "wlc_reference": {
+            "osis": "Mic.5.14",
+            "book": "Micah",
+            "chapter": 5,
+            "verse": 14
+          },
+          "coordinate_map": {
+            "type": "full",
+            "authority_path": "source/hebrew/OSHB/morphhb/wlc/VerseMap.xml"
+          }
+        },
+        {
+          "statement_id": "wlcmap:33:5:15:mic_5_14_3300501400810020_p1",
+          "reference": {
+            "book": "Micah",
+            "chapter": 5,
+            "verse": 14
+          },
+          "source_word_ids": [
+            "o330050140081",
+            "o330050140091"
+          ],
+          "source_text": "לֹ֥א שָׁמֵֽעוּ",
+          "predicate": {
+            "word_id": "o330050140091",
+            "text": "שָׁמֵֽעוּ",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          },
+          "protestant_reference": {
+            "book": "Micah",
+            "chapter": 5,
+            "verse": 15,
+            "reference": "Micah 5:15",
+            "osis": "Mic.5.15"
+          },
+          "wlc_reference": {
+            "osis": "Mic.5.14",
+            "book": "Micah",
+            "chapter": 5,
+            "verse": 14
+          },
+          "coordinate_map": {
+            "type": "full",
+            "authority_path": "source/hebrew/OSHB/morphhb/wlc/VerseMap.xml"
+          }
+        }
+      ],
+      "common_instructions": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "question_definitions": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      },
+      "assessment_kind": "verified_full_wlc_coordinate_recovery",
+      "coordinate_mapping_notice": "Each target retains both the authoritative Protestant reference and its OSHB VerseMap verified full WLC coordinate."
+    },
+    "questions": {
+      "wlcmap:33:5:15:mic_5_14_3300501400120130_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Assess candidate_assessment only for wlcmap:33:5:15:mic_5_14_3300501400120130_p1, whose Protestant reference is Micah 5:15 and whose supplied WLC source coordinate is Mic.5.14; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400120130_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Assess statement_function only for wlcmap:33:5:15:mic_5_14_3300501400120130_p1, whose Protestant reference is Micah 5:15 and whose supplied WLC source coordinate is Mic.5.14; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400120130_p1:relationship": {
+        "type": "choice",
+        "instructions": "Assess relationship only for wlcmap:33:5:15:mic_5_14_3300501400120130_p1, whose Protestant reference is Micah 5:15 and whose supplied WLC source coordinate is Mic.5.14; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400810020_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Assess candidate_assessment only for wlcmap:33:5:15:mic_5_14_3300501400810020_p1, whose Protestant reference is Micah 5:15 and whose supplied WLC source coordinate is Mic.5.14; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400810020_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Assess statement_function only for wlcmap:33:5:15:mic_5_14_3300501400810020_p1, whose Protestant reference is Micah 5:15 and whose supplied WLC source coordinate is Mic.5.14; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400810020_p1:relationship": {
+        "type": "choice",
+        "instructions": "Assess relationship only for wlcmap:33:5:15:mic_5_14_3300501400810020_p1, whose Protestant reference is Micah 5:15 and whose supplied WLC source coordinate is Mic.5.14; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      }
+    }
+  },
+  "protestant_references": [
+    "Micah 5:15"
+  ],
+  "source_span_ids": [
+    "o330050140012",
+    "o330050140021",
+    "o330050140022",
+    "o330050140031",
+    "o330050140032",
+    "o330050140033",
+    "o330050140041",
+    "o330050140051",
+    "o330050140061",
+    "o330050140062",
+    "o330050140071",
+    "o330050140081",
+    "o330050140091",
+    "o330050140081",
+    "o330050140091"
+  ],
+  "status": "succeeded",
+  "raw_response": {
+    "model": "typesafe/jev-1.13-20260917",
+    "answers": {
+      "wlcmap:33:5:15:mic_5_14_3300501400120130_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.37,
+          "possible_candidate": 0.13,
+          "no_support_in_supplied_context": 0.45,
+          "underdetermined": 0.05
+        },
+        "confidence": 0.27
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400120130_p1:statement_function": {
+        "type": "choice",
+        "choice": "predictive_content",
+        "probabilities": {
+          "predictive_content": 0.52,
+          "contributes_to_predictive_content": 0.31,
+          "narration_introducing_or_reporting_predictive_content": 0.04,
+          "other_content": 0.1,
+          "underdetermined": 0.03
+        },
+        "confidence": 0.4
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400120130_p1:relationship": {
+        "type": "choice",
+        "choice": "establishes_announcement_anchor",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.57,
+          "contributes_to_announcement_anchor": 0.26,
+          "surrounding_or_other_content": 0.09,
+          "relationship_underdetermined": 0.08
+        },
+        "confidence": 0.43
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400810020_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.1,
+          "possible_candidate": 0.05,
+          "no_support_in_supplied_context": 0.81,
+          "underdetermined": 0.04
+        },
+        "confidence": 0.75
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400810020_p1:statement_function": {
+        "type": "choice",
+        "choice": "contributes_to_predictive_content",
+        "probabilities": {
+          "predictive_content": 0.04,
+          "contributes_to_predictive_content": 0.53,
+          "narration_introducing_or_reporting_predictive_content": 0.02,
+          "other_content": 0.39,
+          "underdetermined": 0.02
+        },
+        "confidence": 0.41
+      },
+      "wlcmap:33:5:15:mic_5_14_3300501400810020_p1:relationship": {
+        "type": "choice",
+        "choice": "contributes_to_announcement_anchor",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.04,
+          "contributes_to_announcement_anchor": 0.45999999999999996,
+          "surrounding_or_other_content": 0.45,
+          "relationship_underdetermined": 0.05
+        },
+        "confidence": 0.28
+      }
+    },
+    "usage": {
+      "input_tokens": 3582,
+      "output_tokens": 679,
+      "cost": 0.000150444
+    },
+    "id": "gen-dec-1792288000-O6kbG44gKCpctVORLr93",
+    "provider": "TypeSafe"
+  },
+  "raw_response_text": "{\"model\":\"typesafe/jev-1.13-20260917\",\"answers\":{\"wlcmap:33:5:15:mic_5_14_3300501400120130_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.37,\"possible_candidate\":0.13,\"no_support_in_supplied_context\":0.45,\"underdetermined\":0.05},\"confidence\":0.27},\"wlcmap:33:5:15:mic_5_14_3300501400120130_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"predictive_content\",\"probabilities\":{\"predictive_content\":0.52,\"contributes_to_predictive_content\":0.31,\"narration_introducing_or_reporting_predictive_content\":0.04,\"other_content\":0.1,\"underdetermined\":0.03},\"confidence\":0.4},\"wlcmap:33:5:15:mic_5_14_3300501400120130_p1:relationship\":{\"type\":\"choice\",\"choice\":\"establishes_announcement_anchor\",\"probabilities\":{\"establishes_announcement_anchor\":0.57,\"contributes_to_announcement_anchor\":0.26,\"surrounding_or_other_content\":0.09,\"relationship_underdetermined\":0.08},\"confidence\":0.43},\"wlcmap:33:5:15:mic_5_14_3300501400810020_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.1,\"possible_candidate\":0.05,\"no_support_in_supplied_context\":0.81,\"underdetermined\":0.04},\"confidence\":0.75},\"wlcmap:33:5:15:mic_5_14_3300501400810020_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"contributes_to_predictive_content\",\"probabilities\":{\"predictive_content\":0.04,\"contributes_to_predictive_content\":0.53,\"narration_introducing_or_reporting_predictive_content\":0.02,\"other_content\":0.39,\"underdetermined\":0.02},\"confidence\":0.41},\"wlcmap:33:5:15:mic_5_14_3300501400810020_p1:relationship\":{\"type\":\"choice\",\"choice\":\"contributes_to_announcement_anchor\",\"probabilities\":{\"establishes_announcement_anchor\":0.04,\"contributes_to_announcement_anchor\":0.45999999999999996,\"surrounding_or_other_content\":0.45,\"relationship_underdetermined\":0.05},\"confidence\":0.28}},\"usage\":{\"input_tokens\":3582,\"output_tokens\":679,\"cost\":0.000150444},\"id\":\"gen-dec-1792288000-O6kbG44gKCpctVORLr93\",\"provider\":\"TypeSafe\"}",
+  "usage": {
+    "input_tokens": 3582,
+    "output_tokens": 679
+  },
+  "cost_usd": 0.000150444,
+  "attempted_at": "2026-10-18T01:46:40.623Z",
+  "elapsed_ms": 223,
+  "response_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "error": null,
+  "file": "wlc_Mic_5_14-14.54411f9da660defebb77f64e3024ffe9b0553b9e9823f8c2d920e16f37ee7e5d.json"
+}

@@ -1,0 +1,424 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "verified_full_wlc_coordinate_recovery",
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "requested_model": "typesafe/jev-1.13",
+  "request_fingerprint": "8bd158bf7c7d0b1fcf843593a08d002b6b7b3ab395d6e6b883f8110ef321f35d",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "scan_kind": "predictive_prophecy_discovery",
+      "template_version": "0.2.0",
+      "coverage_boundary": "This scan covers predictive-prophecy discovery only. Other forms of prophecy remain outside current coverage.",
+      "context_window": {
+        "book": "Isaiah",
+        "chapter": 64,
+        "firstVerse": 11,
+        "lastVerse": 11
+      },
+      "source_window": [
+        {
+          "reference": "Isaiah 64:11",
+          "verse": 11,
+          "source_word_ids": [
+            "o230640110011",
+            "o230640110012",
+            "o230640110021",
+            "o230640110031",
+            "o230640110041",
+            "o230640110051",
+            "o230640110061",
+            "o230640110062",
+            "o230640110063",
+            "o230640110071",
+            "o230640110081"
+          ],
+          "source_text": "הַ עַל אֵ֥לֶּה תִתְאַפַּ֖ק יְהוָ֑ה תֶּחֱשֶׁ֥ה וּ תְעַנֵּ֖ נוּ עַד מְאֹֽד",
+          "wlc_reference": "Isaiah 64:11"
+        }
+      ],
+      "statements": [
+        {
+          "statement_id": "wlcmap:23:64:12:isa_64_11_2306401100120030_p1",
+          "reference": {
+            "book": "Isaiah",
+            "chapter": 64,
+            "verse": 11
+          },
+          "source_word_ids": [
+            "o230640110012",
+            "o230640110021",
+            "o230640110031"
+          ],
+          "source_text": "עַל אֵ֥לֶּה תִתְאַפַּ֖ק",
+          "predicate": {
+            "word_id": "o230640110031",
+            "text": "תִתְאַפַּ֖ק",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          },
+          "protestant_reference": {
+            "book": "Isaiah",
+            "chapter": 64,
+            "verse": 12,
+            "reference": "Isaiah 64:12",
+            "osis": "Isa.64.12"
+          },
+          "wlc_reference": {
+            "osis": "Isa.64.11",
+            "book": "Isaiah",
+            "chapter": 64,
+            "verse": 11
+          },
+          "coordinate_map": {
+            "type": "full",
+            "authority_path": "source/hebrew/OSHB/morphhb/wlc/VerseMap.xml"
+          }
+        },
+        {
+          "statement_id": "wlcmap:23:64:12:isa_64_11_2306401100510013_p1",
+          "reference": {
+            "book": "Isaiah",
+            "chapter": 64,
+            "verse": 11
+          },
+          "source_word_ids": [
+            "o230640110051"
+          ],
+          "source_text": "תֶּחֱשֶׁ֥ה",
+          "predicate": {
+            "word_id": "o230640110051",
+            "text": "תֶּחֱשֶׁ֥ה",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          },
+          "protestant_reference": {
+            "book": "Isaiah",
+            "chapter": 64,
+            "verse": 12,
+            "reference": "Isaiah 64:12",
+            "osis": "Isa.64.12"
+          },
+          "wlc_reference": {
+            "osis": "Isa.64.11",
+            "book": "Isaiah",
+            "chapter": 64,
+            "verse": 11
+          },
+          "coordinate_map": {
+            "type": "full",
+            "authority_path": "source/hebrew/OSHB/morphhb/wlc/VerseMap.xml"
+          }
+        },
+        {
+          "statement_id": "wlcmap:23:64:12:isa_64_11_2306401100620040_p1",
+          "reference": {
+            "book": "Isaiah",
+            "chapter": 64,
+            "verse": 11
+          },
+          "source_word_ids": [
+            "o230640110062",
+            "o230640110063",
+            "o230640110071",
+            "o230640110081"
+          ],
+          "source_text": "תְעַנֵּ֖ נוּ עַד מְאֹֽד",
+          "predicate": {
+            "word_id": "o230640110062",
+            "text": "תְעַנֵּ֖",
+            "voice": "active"
+          },
+          "governing_scope": {
+            "kind": "direct_predication_no_embedded_complement_detected",
+            "complements": []
+          },
+          "protestant_reference": {
+            "book": "Isaiah",
+            "chapter": 64,
+            "verse": 12,
+            "reference": "Isaiah 64:12",
+            "osis": "Isa.64.12"
+          },
+          "wlc_reference": {
+            "osis": "Isa.64.11",
+            "book": "Isaiah",
+            "chapter": 64,
+            "verse": 11
+          },
+          "coordinate_map": {
+            "type": "full",
+            "authority_path": "source/hebrew/OSHB/morphhb/wlc/VerseMap.xml"
+          }
+        }
+      ],
+      "common_instructions": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "question_definitions": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      },
+      "assessment_kind": "verified_full_wlc_coordinate_recovery",
+      "coordinate_mapping_notice": "Each target retains both the authoritative Protestant reference and its OSHB VerseMap verified full WLC coordinate."
+    },
+    "questions": {
+      "wlcmap:23:64:12:isa_64_11_2306401100120030_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Assess candidate_assessment only for wlcmap:23:64:12:isa_64_11_2306401100120030_p1, whose Protestant reference is Isaiah 64:12 and whose supplied WLC source coordinate is Isa.64.11; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100120030_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Assess statement_function only for wlcmap:23:64:12:isa_64_11_2306401100120030_p1, whose Protestant reference is Isaiah 64:12 and whose supplied WLC source coordinate is Isa.64.11; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100120030_p1:relationship": {
+        "type": "choice",
+        "instructions": "Assess relationship only for wlcmap:23:64:12:isa_64_11_2306401100120030_p1, whose Protestant reference is Isaiah 64:12 and whose supplied WLC source coordinate is Isa.64.11; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100510013_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Assess candidate_assessment only for wlcmap:23:64:12:isa_64_11_2306401100510013_p1, whose Protestant reference is Isaiah 64:12 and whose supplied WLC source coordinate is Isa.64.11; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100510013_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Assess statement_function only for wlcmap:23:64:12:isa_64_11_2306401100510013_p1, whose Protestant reference is Isaiah 64:12 and whose supplied WLC source coordinate is Isa.64.11; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100510013_p1:relationship": {
+        "type": "choice",
+        "instructions": "Assess relationship only for wlcmap:23:64:12:isa_64_11_2306401100510013_p1, whose Protestant reference is Isaiah 64:12 and whose supplied WLC source coordinate is Isa.64.11; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100620040_p1:candidate_assessment": {
+        "type": "choice",
+        "instructions": "Assess candidate_assessment only for wlcmap:23:64:12:isa_64_11_2306401100620040_p1, whose Protestant reference is Isaiah 64:12 and whose supplied WLC source coordinate is Isa.64.11; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "supported_candidate": "See state.question_definitions.candidate_assessment.supported_candidate",
+          "possible_candidate": "See state.question_definitions.candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "See state.question_definitions.candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "See state.question_definitions.candidate_assessment.underdetermined"
+        }
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100620040_p1:statement_function": {
+        "type": "choice",
+        "instructions": "Assess statement_function only for wlcmap:23:64:12:isa_64_11_2306401100620040_p1, whose Protestant reference is Isaiah 64:12 and whose supplied WLC source coordinate is Isa.64.11; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "predictive_content": "See state.question_definitions.statement_function.predictive_content",
+          "contributes_to_predictive_content": "See state.question_definitions.statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "See state.question_definitions.statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "See state.question_definitions.statement_function.other_content",
+          "underdetermined": "See state.question_definitions.statement_function.underdetermined"
+        }
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100620040_p1:relationship": {
+        "type": "choice",
+        "instructions": "Assess relationship only for wlcmap:23:64:12:isa_64_11_2306401100620040_p1, whose Protestant reference is Isaiah 64:12 and whose supplied WLC source coordinate is Isa.64.11; use the supplied governing scope and shared definitions.",
+        "criteria": {
+          "establishes_announcement_anchor": "See state.question_definitions.relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "See state.question_definitions.relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "See state.question_definitions.relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "See state.question_definitions.relationship.relationship_underdetermined"
+        }
+      }
+    }
+  },
+  "protestant_references": [
+    "Isaiah 64:12"
+  ],
+  "source_span_ids": [
+    "o230640110012",
+    "o230640110021",
+    "o230640110031",
+    "o230640110051",
+    "o230640110062",
+    "o230640110063",
+    "o230640110071",
+    "o230640110081"
+  ],
+  "status": "succeeded",
+  "raw_response": {
+    "model": "typesafe/jev-1.13-20260917",
+    "answers": {
+      "wlcmap:23:64:12:isa_64_11_2306401100120030_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.27,
+          "possible_candidate": 0.18,
+          "no_support_in_supplied_context": 0.39,
+          "underdetermined": 0.16
+        },
+        "confidence": 0.19
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100120030_p1:statement_function": {
+        "type": "choice",
+        "choice": "predictive_content",
+        "probabilities": {
+          "predictive_content": 0.32,
+          "contributes_to_predictive_content": 0.27,
+          "narration_introducing_or_reporting_predictive_content": 0.02,
+          "other_content": 0.26,
+          "underdetermined": 0.13
+        },
+        "confidence": 0.15
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100120030_p1:relationship": {
+        "type": "choice",
+        "choice": "establishes_announcement_anchor",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.32,
+          "contributes_to_announcement_anchor": 0.31,
+          "surrounding_or_other_content": 0.17,
+          "relationship_underdetermined": 0.2
+        },
+        "confidence": 0.09
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100510013_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.27,
+          "possible_candidate": 0.18,
+          "no_support_in_supplied_context": 0.36,
+          "underdetermined": 0.19
+        },
+        "confidence": 0.15
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100510013_p1:statement_function": {
+        "type": "choice",
+        "choice": "predictive_content",
+        "probabilities": {
+          "predictive_content": 0.39,
+          "contributes_to_predictive_content": 0.34,
+          "narration_introducing_or_reporting_predictive_content": 0.01,
+          "other_content": 0.15,
+          "underdetermined": 0.11
+        },
+        "confidence": 0.24
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100510013_p1:relationship": {
+        "type": "choice",
+        "choice": "contributes_to_announcement_anchor",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.22,
+          "contributes_to_announcement_anchor": 0.41000000000000003,
+          "surrounding_or_other_content": 0.12,
+          "relationship_underdetermined": 0.25
+        },
+        "confidence": 0.21
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100620040_p1:candidate_assessment": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.3,
+          "possible_candidate": 0.19,
+          "no_support_in_supplied_context": 0.36,
+          "underdetermined": 0.15
+        },
+        "confidence": 0.15
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100620040_p1:statement_function": {
+        "type": "choice",
+        "choice": "predictive_content",
+        "probabilities": {
+          "predictive_content": 0.36,
+          "contributes_to_predictive_content": 0.31,
+          "narration_introducing_or_reporting_predictive_content": 0.01,
+          "other_content": 0.21,
+          "underdetermined": 0.11
+        },
+        "confidence": 0.2
+      },
+      "wlcmap:23:64:12:isa_64_11_2306401100620040_p1:relationship": {
+        "type": "choice",
+        "choice": "contributes_to_announcement_anchor",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.28,
+          "contributes_to_announcement_anchor": 0.36,
+          "surrounding_or_other_content": 0.14,
+          "relationship_underdetermined": 0.22
+        },
+        "confidence": 0.15
+      }
+    },
+    "usage": {
+      "input_tokens": 4460,
+      "output_tokens": 1029,
+      "cost": 0.00018732
+    },
+    "id": "gen-dec-1792287946-ZrdyjL40WG1mvTwyKk7A",
+    "provider": "TypeSafe"
+  },
+  "raw_response_text": "{\"model\":\"typesafe/jev-1.13-20260917\",\"answers\":{\"wlcmap:23:64:12:isa_64_11_2306401100120030_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.27,\"possible_candidate\":0.18,\"no_support_in_supplied_context\":0.39,\"underdetermined\":0.16},\"confidence\":0.19},\"wlcmap:23:64:12:isa_64_11_2306401100120030_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"predictive_content\",\"probabilities\":{\"predictive_content\":0.32,\"contributes_to_predictive_content\":0.27,\"narration_introducing_or_reporting_predictive_content\":0.02,\"other_content\":0.26,\"underdetermined\":0.13},\"confidence\":0.15},\"wlcmap:23:64:12:isa_64_11_2306401100120030_p1:relationship\":{\"type\":\"choice\",\"choice\":\"establishes_announcement_anchor\",\"probabilities\":{\"establishes_announcement_anchor\":0.32,\"contributes_to_announcement_anchor\":0.31,\"surrounding_or_other_content\":0.17,\"relationship_underdetermined\":0.2},\"confidence\":0.09},\"wlcmap:23:64:12:isa_64_11_2306401100510013_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.27,\"possible_candidate\":0.18,\"no_support_in_supplied_context\":0.36,\"underdetermined\":0.19},\"confidence\":0.15},\"wlcmap:23:64:12:isa_64_11_2306401100510013_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"predictive_content\",\"probabilities\":{\"predictive_content\":0.39,\"contributes_to_predictive_content\":0.34,\"narration_introducing_or_reporting_predictive_content\":0.01,\"other_content\":0.15,\"underdetermined\":0.11},\"confidence\":0.24},\"wlcmap:23:64:12:isa_64_11_2306401100510013_p1:relationship\":{\"type\":\"choice\",\"choice\":\"contributes_to_announcement_anchor\",\"probabilities\":{\"establishes_announcement_anchor\":0.22,\"contributes_to_announcement_anchor\":0.41000000000000003,\"surrounding_or_other_content\":0.12,\"relationship_underdetermined\":0.25},\"confidence\":0.21},\"wlcmap:23:64:12:isa_64_11_2306401100620040_p1:candidate_assessment\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.3,\"possible_candidate\":0.19,\"no_support_in_supplied_context\":0.36,\"underdetermined\":0.15},\"confidence\":0.15},\"wlcmap:23:64:12:isa_64_11_2306401100620040_p1:statement_function\":{\"type\":\"choice\",\"choice\":\"predictive_content\",\"probabilities\":{\"predictive_content\":0.36,\"contributes_to_predictive_content\":0.31,\"narration_introducing_or_reporting_predictive_content\":0.01,\"other_content\":0.21,\"underdetermined\":0.11},\"confidence\":0.2},\"wlcmap:23:64:12:isa_64_11_2306401100620040_p1:relationship\":{\"type\":\"choice\",\"choice\":\"contributes_to_announcement_anchor\",\"probabilities\":{\"establishes_announcement_anchor\":0.28,\"contributes_to_announcement_anchor\":0.36,\"surrounding_or_other_content\":0.14,\"relationship_underdetermined\":0.22},\"confidence\":0.15}},\"usage\":{\"input_tokens\":4460,\"output_tokens\":1029,\"cost\":0.00018732},\"id\":\"gen-dec-1792287946-ZrdyjL40WG1mvTwyKk7A\",\"provider\":\"TypeSafe\"}",
+  "usage": {
+    "input_tokens": 4460,
+    "output_tokens": 1029
+  },
+  "cost_usd": 0.00018732,
+  "attempted_at": "2026-10-18T01:45:46.781Z",
+  "elapsed_ms": 245,
+  "response_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "error": null,
+  "file": "wlc_Isa_64_11-11.8bd158bf7c7d0b1fcf843593a08d002b6b7b3ab395d6e6b883f8110ef321f35d.json"
+}
