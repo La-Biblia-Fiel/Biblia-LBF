@@ -1,0 +1,145 @@
+{"status":"stopped","reason":"systemic_error","rounds":22}
+{"status":"stopped","reason":"systemic_error","rounds":1993}
+{"status":"stopped","reason":"systemic_error","rounds":1}
+node:internal/fs/promises:1360
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/source/hebrew/macula-hebrew-main/WLC/nodes/29-Joe-001.xml'
+    at async open (node:internal/fs/promises:1360:25)
+    at async readFile (node:internal/fs/promises:2149:14)
+    at async loadSourceVerses (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/src/extractor.js:167:15)
+    at async buildContextWindowRequest (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/src/candidate-scan.js:158:25)
+    at async file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/openrouter-jev-genesis-compact-tranche.js:24:206 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/source/hebrew/macula-hebrew-main/WLC/nodes/29-Joe-001.xml'
+}
+
+Node.js v26.7.0
+file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-scan-orchestrator.js:9
+function child(file,args=[],env={}){return new Promise((resolve,reject)=>{const p=spawn(process.execPath,[join(root,file),...args],{cwd:root,env:{...process.env,...env},stdio:["ignore","pipe","inherit"]});let output="";p.stdout.on("data",d=>output+=d);p.on("error",reject);p.on("close",code=>{if(code)return reject(new Error(`${file} exited ${code}`));try{resolve(JSON.parse(output.trim()))}catch{try{resolve(JSON.parse(output.trim().split("\n").at(-1)))}catch{reject(new Error(`Invalid status output from ${file}`))}}})})}
+                                                                                                                                                                                                                                                                                                                           ^
+
+Error: openrouter-jev-genesis-compact-tranche.js exited 1
+    at ChildProcess.<anonymous> (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-scan-orchestrator.js:9:316)
+    at ChildProcess.emit (node:events:514:20)
+    at maybeClose (node:internal/child_process:1125:16)
+    at Socket.<anonymous> (node:internal/child_process:497:11)
+    at Socket.emit (node:events:514:20)
+    at Pipe.<anonymous> (node:net:362:12)
+
+Node.js v26.7.0
+file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-continuous-worker.js:40
+      if (code !== 0) return reject(new Error(`orchestrator exited ${code}`));
+                                    ^
+
+Error: orchestrator exited 1
+    at ChildProcess.<anonymous> (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-continuous-worker.js:40:37)
+    at ChildProcess.emit (node:events:514:20)
+    at maybeClose (node:internal/child_process:1125:16)
+    at Socket.<anonymous> (node:internal/child_process:497:11)
+    at Socket.emit (node:events:514:20)
+    at Pipe.<anonymous> (node:net:362:12)
+
+Node.js v26.7.0
+node:internal/fs/promises:1360
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/source/hebrew/macula-hebrew-main/WLC/nodes/29-Joe-001.xml'
+    at async open (node:internal/fs/promises:1360:25)
+    at async readFile (node:internal/fs/promises:2149:14)
+    at async loadSourceVerses (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/src/extractor.js:167:15)
+    at async buildContextWindowRequest (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/src/candidate-scan.js:158:25)
+    at async file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/openrouter-jev-genesis-compact-tranche.js:24:206 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/source/hebrew/macula-hebrew-main/WLC/nodes/29-Joe-001.xml'
+}
+
+Node.js v26.7.0
+file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-scan-orchestrator.js:9
+function child(file,args=[],env={}){return new Promise((resolve,reject)=>{const p=spawn(process.execPath,[join(root,file),...args],{cwd:root,env:{...process.env,...env},stdio:["ignore","pipe","inherit"]});let output="";p.stdout.on("data",d=>output+=d);p.on("error",reject);p.on("close",code=>{if(code)return reject(new Error(`${file} exited ${code}`));try{resolve(JSON.parse(output.trim()))}catch{try{resolve(JSON.parse(output.trim().split("\n").at(-1)))}catch{reject(new Error(`Invalid status output from ${file}`))}}})})}
+                                                                                                                                                                                                                                                                                                                           ^
+
+Error: openrouter-jev-genesis-compact-tranche.js exited 1
+    at ChildProcess.<anonymous> (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-scan-orchestrator.js:9:316)
+    at ChildProcess.emit (node:events:514:20)
+    at maybeClose (node:internal/child_process:1125:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+
+Node.js v26.7.0
+file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-continuous-worker.js:40
+      if (code !== 0) return reject(new Error(`orchestrator exited ${code}`));
+                                    ^
+
+Error: orchestrator exited 1
+    at ChildProcess.<anonymous> (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-continuous-worker.js:40:37)
+    at ChildProcess.emit (node:events:514:20)
+    at maybeClose (node:internal/child_process:1125:16)
+    at Socket.<anonymous> (node:internal/child_process:497:11)
+    at Socket.emit (node:events:514:20)
+    at Pipe.<anonymous> (node:net:362:12)
+
+Node.js v26.7.0
+node:internal/fs/promises:1360
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/source/hebrew/macula-hebrew-main/WLC/nodes/29-Joe-001.xml'
+    at async open (node:internal/fs/promises:1360:25)
+    at async readFile (node:internal/fs/promises:2149:14)
+    at async loadSourceVerses (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/src/extractor.js:167:15)
+    at async buildContextWindowRequest (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/src/candidate-scan.js:158:25)
+    at async file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/openrouter-jev-genesis-compact-tranche.js:24:206 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/source/hebrew/macula-hebrew-main/WLC/nodes/29-Joe-001.xml'
+}
+
+Node.js v26.7.0
+file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-scan-orchestrator.js:9
+function child(file,args=[],env={}){return new Promise((resolve,reject)=>{const p=spawn(process.execPath,[join(root,file),...args],{cwd:root,env:{...process.env,...env},stdio:["ignore","pipe","inherit"]});let output="";p.stdout.on("data",d=>output+=d);p.on("error",reject);p.on("close",code=>{if(code)return reject(new Error(`${file} exited ${code}`));try{resolve(JSON.parse(output.trim()))}catch{try{resolve(JSON.parse(output.trim().split("\n").at(-1)))}catch{reject(new Error(`Invalid status output from ${file}`))}}})})}
+                                                                                                                                                                                                                                                                                                                           ^
+
+Error: openrouter-jev-genesis-compact-tranche.js exited 1
+    at ChildProcess.<anonymous> (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-scan-orchestrator.js:9:316)
+    at ChildProcess.emit (node:events:514:20)
+    at maybeClose (node:internal/child_process:1125:16)
+    at Socket.<anonymous> (node:internal/child_process:497:11)
+    at Socket.emit (node:events:514:20)
+    at Pipe.<anonymous> (node:net:362:12)
+
+Node.js v26.7.0
+file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-continuous-worker.js:40
+      if (code !== 0) return reject(new Error(`orchestrator exited ${code}`));
+                                    ^
+
+Error: orchestrator exited 1
+    at ChildProcess.<anonymous> (file:///Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/apps/macula-clause-extractor/jev-continuous-worker.js:40:37)
+    at ChildProcess.emit (node:events:514:20)
+    at maybeClose (node:internal/child_process:1125:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+
+Node.js v26.7.0
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":147}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":180}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}
+{"status":"stopped","reason":"eligible_routes_exhausted","rounds":1}

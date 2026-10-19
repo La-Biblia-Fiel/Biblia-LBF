@@ -1,0 +1,31 @@
+{
+  "state": "pending",
+  "created_at": "2026-10-17T23:46:37.085Z",
+  "worker_pid": 26420,
+  "pause_reason": "eligible_routes_exhausted",
+  "last_cycle": {
+    "started_at": "2026-10-17T23:46:26.490Z",
+    "ended_at": "2026-10-17T23:46:36.942Z",
+    "result": {
+      "status": "eligible_routes_exhausted",
+      "results": [
+        {
+          "route": "annotated-ot",
+          "status": "no_prepared_work"
+        },
+        {
+          "route": "nt",
+          "status": "exhausted"
+        },
+        {
+          "route": "ot-fallback",
+          "status": "exhausted"
+        }
+      ]
+    }
+  },
+  "notification": {
+    "attempted": true,
+    "delivered": true
+  }
+}

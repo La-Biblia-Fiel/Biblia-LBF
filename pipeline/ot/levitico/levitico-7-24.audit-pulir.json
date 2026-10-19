@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:24",
+  "chapter": 7,
+  "verse": 24,
+  "candidateLabel": "pulir",
+  "spanish": "Y grasa de cadáver y grasa de despedazado se hará a toda obra, y de ningún modo la comerán.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007024005",
+        "h03007024006",
+        "h03007024007"
+      ],
+      "issue": "Niphal יֵעָשֶׂה plus לְ marks the fat as done for every work; «se hará a» can be read as done to the work as patient rather than for it as purpose.",
+      "spanishSpan": "se hará a toda obra"
+    }
+  ],
+  "notes": "2mp suffix verb as comerán is ustedes address; inf. abs. emphasis is de ningún modo; la tracks grasa.",
+  "discardedUncitedFindings": 0
+}

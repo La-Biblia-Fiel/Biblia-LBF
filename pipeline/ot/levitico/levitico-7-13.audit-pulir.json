@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:13",
+  "chapter": 7,
+  "verse": 13,
+  "candidateLabel": "pulir",
+  "spanish": "Sobre tortas de pan de levadura acercará su ofrenda, sobre sacrificio: agradecimiento de sus ofrendas de paz.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007013008",
+        "h03007013009"
+      ],
+      "issue": "The colon specifies absolute זֶבַח as תּוֹדַת; the morphology only juxtaposes an absolute noun with the following construct phrase.",
+      "spanishSpan": "sacrificio: agradecimiento"
+    }
+  ],
+  "notes": "Construct chain, hiphil 3ms, and both 3ms suffixes match the Spanish.",
+  "discardedUncitedFindings": 0
+}

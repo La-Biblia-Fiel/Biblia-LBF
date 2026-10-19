@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:37",
+  "chapter": 7,
+  "verse": 37,
+  "candidateLabel": "pulir",
+  "spanish": "Esta la ley al holocausto, a la ofrenda y al pecado y a la culpa, y a las llenuras y a sacrificio de los pazes,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007037001",
+        "h03007037002"
+      ],
+      "issue": "Demonstrative plus definite noun is a verbless equative; \"Esta la ley\" leaves that clause a fragment. A copula is not a token and would need to be marked.",
+      "spanishSpan": "Esta la ley"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007037009"
+      ],
+      "issue": "Definite masculine plural is kept, but \"pazes\" is not the Spanish plural of paz; the peace-noun sense is still the one licensed.",
+      "spanishSpan": "los pazes"
+    }
+  ],
+  "notes": "Prepositions, conjunctions, number, and the article on Rd versus bare R on the construct match the tokens.",
+  "discardedUncitedFindings": 0
+}
