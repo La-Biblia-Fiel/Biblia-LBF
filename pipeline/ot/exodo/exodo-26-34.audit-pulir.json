@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:34",
+  "chapter": 26,
+  "verse": 34,
+  "candidateLabel": "pulir",
+  "spanish": "Y darás la cubierta sobre arca del testimonio en santo de los santos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026034005",
+        "h02026034006"
+      ],
+      "issue": "El constructo אֲרוֹן הָעֵדֻת es definido por el artículo de הָעֵדֻת; «sobre arca» deja el arca indefinida.",
+      "spanishSpan": "sobre arca"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026034007",
+        "h02026034008"
+      ],
+      "issue": "El constructo קֹדֶשׁ הַקֳּדָשִׁים es definido por el artículo de הַקֳּדָשִׁים; «en santo» deja indefinido el primer miembro.",
+      "spanishSpan": "en santo"
+    }
+  ],
+  "notes": "Artículo, número, persona y la repetición de קֹדֶשׁ quedan en el resto.",
+  "discardedUncitedFindings": 0
+}

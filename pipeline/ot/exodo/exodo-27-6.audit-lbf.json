@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:6",
+  "chapter": 27,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás varas al altar, varas de maderas de shitím, y las revestirás bronce.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02027006006"
+      ],
+      "issue": "שִׁטִּים is a common noun (HNcfpa), left untranslated as shitím.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "The other tokens match in number, person, stem, and participants.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:24",
+  "chapter": 28,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y darás los dos cordones del oro sobre los dos los anillos a extremos del joshen.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028024011"
+      ],
+      "issue": "Common noun (definite singular) is dumped untranslated as joshen; the token licenses a Spanish common noun, not a Hebraized lemma.",
+      "spanishSpan": "joshen"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028024007",
+        "h02028024008"
+      ],
+      "issue": "Duplicated definite article in los dos los anillos; the tokens license one dual numeral plus one definite plural, with no change of number or referent.",
+      "spanishSpan": "los dos los anillos"
+    }
+  ],
+  "notes": "Y darás, cordones del oro, sobre, a extremos track the remaining tokens, including the direct-object marker left untranslated.",
+  "discardedUncitedFindings": 0
+}

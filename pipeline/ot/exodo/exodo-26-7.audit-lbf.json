@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:7",
+  "chapter": 26,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás cortinas de cabras a tienda sobre el mishkán; once cortinas harás a ellas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026007006"
+      ],
+      "issue": "הַמִּשְׁכָּן is a common noun with the article; mishkán leaves that lemma untranslated instead of Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026007011"
+      ],
+      "issue": "The object suffix is 3rd masculine plural; ellas is feminine, agreeing with cortinas rather than the suffix gender.",
+      "spanishSpan": "ellas"
+    }
+  ],
+  "notes": "Y harás, cortinas de cabras, a tienda, sobre, once cortinas, and the second harás match the qal 2ms verbs, the construct, the lamed tent, עַל, and the eleven.",
+  "discardedUncitedFindings": 0
+}

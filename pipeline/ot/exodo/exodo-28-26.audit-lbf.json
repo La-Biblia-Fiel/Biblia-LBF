@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:26",
+  "chapter": 28,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás dos anillos de oro, y los pondrás sobre dos extremos del joshen, sobre su labio que a lado del efod hacia adentro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028026010"
+      ],
+      "issue": "הַחֹשֶׁן is a common noun (H2833); joshen leaves that lemma untranslated.",
+      "spanishSpan": "joshen"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028026017"
+      ],
+      "issue": "בָּיְתָה is the noun house (H1004) plus directional he; hacia adentro drops house and resolves the direction as inward.",
+      "spanishSpan": "hacia adentro"
+    }
+  ],
+  "notes": "Verbs, number, אתם, both על, and אשר אל־עבר stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

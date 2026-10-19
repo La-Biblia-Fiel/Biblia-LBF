@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:13",
+  "chapter": 30,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Esto darán todo el pasante sobre los contados: mitad del siclo en siclo de la santidad; veinte gera el siclo; mitad del siclo ofrenda a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030013004"
+      ],
+      "issue": "el pasante, in current Latin American Spanish, names an intern; the token is a definite qal active participle of passing, so the passing participant is omitted and an unlicensed role is added",
+      "spanishSpan": "el pasante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02030013006"
+      ],
+      "issue": "los contados locks the numbering sense of a polysemous passive participle (number, muster, appoint, visit)",
+      "spanishSpan": "los contados"
+    }
+  ],
+  "notes": "The other tokens, the repeated mitad del siclo, the verbless measure, and Jehová stay within the packet.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:32",
+  "chapter": 26,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y la darás sobre cuatro columnas de shitím revestidas oro, sus ganchos oro, sobre cuatro basas de plata.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026032006"
+      ],
+      "issue": "שִׁטִּים is a common noun (H7848), left as the untranslated form shitím instead of Spanish.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens: 2ms נתן, 3fs object, על, four, pillars, pual passive overlay, gold, their hooks, gold, four bases, silver.",
+  "discardedUncitedFindings": 0
+}

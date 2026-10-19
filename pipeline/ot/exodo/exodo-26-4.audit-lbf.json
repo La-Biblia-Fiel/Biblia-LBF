@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:4",
+  "chapter": 26,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás lazos de azul sobre labio de la cortina la una desde extremo en la juntura, y así harás en labio de la cortina la extrema en la juntura la segunda.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026004009",
+        "h02026004015"
+      ],
+      "issue": "Lemas distintos (H2279 y H4225) quedan en el mismo sustantivo; la diferencia entre las dos junturas no se marca.",
+      "spanishSpan": "la juntura"
+    }
+  ],
+  "notes": "Número, persona, preposiciones y la oposición cardinal/ordinal siguen los tokens.",
+  "discardedUncitedFindings": 0
+}

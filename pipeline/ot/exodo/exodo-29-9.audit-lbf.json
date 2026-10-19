@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:9",
+  "chapter": 29,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y ceñirás a ellos cinto, Aarón y sus hijos, y atarás a ellos tiaras, y será a ellos sacerdocio a estatuto de siempre, y llenarás mano de Aarón y mano de sus hijos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029009008"
+      ],
+      "issue": "Plural head-covering (H4021) is rendered tiaras; in current Latin American Spanish that word commonly denotes a jeweled diadem or papal crown and may add ornament the lemma does not specify.",
+      "spanishSpan": "tiaras"
+    }
+  ],
+  "notes": "Person, number, singular sash and hands, and literal fill-the-hand match the tokens.",
+  "discardedUncitedFindings": 0
+}

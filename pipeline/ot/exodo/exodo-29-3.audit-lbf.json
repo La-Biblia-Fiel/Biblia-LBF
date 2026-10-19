@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:3",
+  "chapter": 29,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y los darás sobre canasta una, y los acercarás en la canasta, y el toro y los dos los carneros.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029003012",
+        "h02029003013"
+      ],
+      "issue": "Un solo sintagma definido (dos en estado constructo + los carneros con artículo) queda con el artículo repetido; no cambia número ni participantes.",
+      "spanishSpan": "los dos los carneros"
+    }
+  ],
+  "notes": "Qal y hifil 2ms, uno/en la canasta, el toro y los dos carneros quedan licenciados.",
+  "discardedUncitedFindings": 0
+}

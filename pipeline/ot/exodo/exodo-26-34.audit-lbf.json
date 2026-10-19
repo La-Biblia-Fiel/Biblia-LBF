@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:34",
+  "chapter": 26,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Y darás la kappóret sobre arca del testimonio en santo de los santos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026034003"
+      ],
+      "issue": "kappóret leaves the common noun (H3727, feminine singular) untranslated; common nouns stay Spanish",
+      "spanishSpan": "kappóret"
+    }
+  ],
+  "notes": "Y darás, sobre, arca del testimonio, and en santo de los santos match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

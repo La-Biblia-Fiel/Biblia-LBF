@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:7",
+  "chapter": 26,
+  "verse": 7,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás cortinas de cabras a tienda sobre el tabernáculo; once cortinas las harás.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026007004"
+      ],
+      "issue": "ל plus indefinite tent is rendered by bare «a tienda»; «a» stays inside the preposition’s to/for range but compresses purpose or role.",
+      "spanishSpan": "a tienda"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026007011"
+      ],
+      "issue": "The object suffix is 3rd masculine plural; «las» is feminine so it agrees with cortinas. Same plural referent, grammatical smoothing.",
+      "spanishSpan": "las"
+    }
+  ],
+  "notes": "Both 2ms qal verbs, goat curtains, eleven, repetition, and the definite tabernacle are licensed.",
+  "discardedUncitedFindings": 0
+}

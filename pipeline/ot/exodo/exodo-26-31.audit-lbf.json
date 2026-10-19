@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:31",
+  "chapter": 26,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás parójet de azul y púrpura y carmesí y lino fino torcido; obra de pensador hará a ella querubines.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026031002"
+      ],
+      "issue": "פָּרֹכֶת is a common noun (H6532), not a locked proper name; parójet leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "parójet"
+    }
+  ],
+  "notes": "Person, both עשה verbs, the dye pair, twisted linen, and plural querubines stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

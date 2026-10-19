@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:6",
+  "chapter": 27,
+  "verse": 6,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás varas al altar, varas de maderas de acacia, y las revestirás de bronce.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02027006006"
+      ],
+      "issue": "שִׁטִּים is feminine plural; singular “acacia” smooths that number while keeping the species.",
+      "spanishSpan": "acacia"
+    }
+  ],
+  "notes": "Make, poles, altar, wood, overlay, object, and metal match; tú futures match 2ms.",
+  "discardedUncitedFindings": 0
+}

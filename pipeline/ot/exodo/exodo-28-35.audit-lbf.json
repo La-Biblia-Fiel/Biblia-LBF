@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:35",
+  "chapter": 28,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Y será sobre Aarón para ministrar, y se oirá su voz en su entrar al santo delante de Jehová y en su salir, y no morirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028035009"
+      ],
+      "issue": "הַקֹּדֶשׁ is a common noun (holiness, holy thing, or sanctuary). «al santo» names a holy person.",
+      "spanishSpan": "al santo"
+    }
+  ],
+  "notes": "Person, number, stems, and the other clauses match the tokens.",
+  "discardedUncitedFindings": 0
+}

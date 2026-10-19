@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:7",
+  "chapter": 28,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Dos hombros juntados será a él a dos sus extremos, y será juntado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028007003"
+      ],
+      "issue": "Qal active participle is rendered as passive juntados, so the shoulders are joined instead of joining.",
+      "spanishSpan": "juntados"
+    }
+  ],
+  "notes": "Pual sequential perfect is already the passive será juntado.",
+  "discardedUncitedFindings": 0
+}

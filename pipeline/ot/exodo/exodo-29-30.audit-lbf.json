@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:30",
+  "chapter": 29,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Siete días los vestirá el sacerdote debajo de él desde sus hijos, que entra a tienda de reunión para ministrar en el santo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02029030013"
+      ],
+      "issue": "el santo reads as a holy person; the token is the common noun holiness/sanctuary, not a human participant",
+      "spanishSpan": "el santo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029030005"
+      ],
+      "issue": "debajo de locks the preposition as physical underneath; the lemma also licenses in his place",
+      "spanishSpan": "debajo de él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029030008"
+      ],
+      "issue": "entra is simple present; the token is qal imperfect, which also licenses a future coming",
+      "spanishSpan": "entra"
+    }
+  ],
+  "notes": "Seven days, the priest as wearer, the 3mp object, from his sons, and tent of meeting to minister match the tokens.",
+  "discardedUncitedFindings": 0
+}

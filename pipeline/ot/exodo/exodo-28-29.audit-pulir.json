@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:29",
+  "chapter": 28,
+  "verse": 29,
+  "candidateLabel": "pulir",
+  "spanish": "Y llevará Aarón los nombres de los hijos de Israel en el pectoral del juicio sobre su corazón en su entrar al santo, a memorial delante de Jehová siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028029013"
+      ],
+      "issue": "הַקֹּדֶשׁ (H6944) is a common noun, holiness / holy thing / sanctuary. \"el santo\" names a holy person, a referent the token does not license.",
+      "spanishSpan": "el santo"
+    }
+  ],
+  "notes": "Remaining tokens, including the 3ms suffixes and Jehová, match the Spanish.",
+  "discardedUncitedFindings": 0
+}

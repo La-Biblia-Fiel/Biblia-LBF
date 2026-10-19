@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:25",
+  "chapter": 28,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y los dos extremos de los dos los cordones darás sobre los dos los engastes, y darás sobre hombros del efod al frente de sus faces.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028025004",
+        "h02028025005"
+      ],
+      "issue": "Artículo definido repetido: «los dos los cordones» duplica el artículo de הָעֲבֹתֹת sin añadir concepto.",
+      "spanishSpan": "los dos los cordones"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028025008",
+        "h02028025009"
+      ],
+      "issue": "Artículo definido repetido: «los dos los engastes» duplica el artículo de הַמִּשְׁבְּצוֹת sin añadir concepto.",
+      "spanishSpan": "los dos los engastes"
+    }
+  ],
+  "notes": "Lo demás está licenciado: dos extremos, dos cordones, dar (2ms), sobre dos engastes, y dar sobre hombros del efod hacia el frente de sus faces.",
+  "discardedUncitedFindings": 0
+}

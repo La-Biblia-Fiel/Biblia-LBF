@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 27:9",
+  "chapter": 27,
+  "verse": 9,
+  "sourceDraft": "Y harás el atrio del mishkán; a lado sur hacia el sur, colgaduras al atrio lino fino torcido, cien en el codo largo al lado el uno.",
+  "spanish": "Y harás el atrio del tabernáculo; al lado sur, hacia el sur, colgaduras al atrio, de lino fino torcido, cien codos de largo para el lado uno.",
+  "units": [],
+  "grammarChanges": [
+    "mishkán → tabernáculo: translated the untranslated common noun (h02027009004) into Spanish; no sense change from the lemma (dwelling place/tabernacle).",
+    "a lado → al lado: corrected missing preposition contraction (a + el).",
+    "Inserted 'de' before 'lino fino torcido' (colgaduras al atrio, de lino fino torcido) because the bare juxtaposition 'atrio lino fino torcido' is ungrammatical in Spanish; same material relation, no concept added.",
+    "en el codo largo → codos de largo: moved 'largo' into the 'de largo' construction so it reads as the noun ארך (h02027009014, length) rather than an adjective on 'codo' (h02027009013), and pluralized 'codos' to agree with 'cien', per the cited warn.",
+    "al lado el uno → para el lado uno: removed the doubled definite article (ungrammatical 'el lado el uno') and used 'para' for the benefactive לְ sense of לַפֵּאָה; definiteness of 'uno' kept."
+  ],
+  "meaningChanges": [],
+  "readerNote": "hold: שֵׁשׁ (h02027009010) carries Strong's H8336, fine linen, but is tagged morphologically as a cardinal; choosing between those two readings is a sense decision, not grammar, so 'lino fino' is left as drafted.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

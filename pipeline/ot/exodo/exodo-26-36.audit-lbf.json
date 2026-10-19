@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:36",
+  "chapter": 26,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás masaj a abertura de la tienda, azul y púrpura y carmesí y lino fino torcido, obra de bordador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026036002"
+      ],
+      "issue": "Common noun left untranslated as masaj; the token licenses a Spanish noun, not a Hebraized dump.",
+      "spanishSpan": "masaj"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026036003",
+        "h02026036004"
+      ],
+      "issue": "The definite construct (opening of the tent) is rendered without the Spanish article on abertura.",
+      "spanishSpan": "a abertura"
+    }
+  ],
+  "notes": "Lemma 8336 b licenses lino fino; the following passive participle licenses torcido.",
+  "discardedUncitedFindings": 0
+}

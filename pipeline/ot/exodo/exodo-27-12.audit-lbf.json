@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:12",
+  "chapter": 27,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y ancho del atrio a lado del mar, colgaduras cincuenta codo; sus columnas diez, y sus basas diez.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02027012004"
+      ],
+      "issue": "del marks mar as definite; יָם is absolute and has no article. The de is licensed by the construct on פאה.",
+      "spanishSpan": "del mar"
+    }
+  ],
+  "notes": "Singular codo matches אַמָּה; both tens and both 3mp suffixes are kept.",
+  "discardedUncitedFindings": 0
+}

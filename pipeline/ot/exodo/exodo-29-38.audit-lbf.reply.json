@@ -1,0 +1,24 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02029038006",
+        "h02029038008",
+        "h02029038009"
+      ],
+      "issue": "Masculine dual “two” counts the masculine plural lambs; after singular “año” it reads as two years, so the lambs lose that count and the year gains it.",
+      "spanishSpan": "año dos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029038011"
+      ],
+      "issue": "תמיד is a singular noun of continuity; “siempre” is adverbial smoothing that keeps that sense.",
+      "spanishSpan": "siempre"
+    }
+  ],
+  "notes": "The other tokens keep 2ms qal, the altar, singular year, and ל plus the day."
+}

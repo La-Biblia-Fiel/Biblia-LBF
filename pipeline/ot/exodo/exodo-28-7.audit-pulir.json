@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:7",
+  "chapter": 28,
+  "verse": 7,
+  "candidateLabel": "pulir",
+  "spanish": "Dos hombros que se junten será a él a dos sus extremos, y será juntado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028007003"
+      ],
+      "issue": "Qal active feminine plural participle is rendered as reflexive subjunctive 'se junten', shifting stem force and making the shoulders the join-target.",
+      "spanishSpan": "que se junten"
+    }
+  ],
+  "notes": "3ms יהיה, לו, the suffix on קצותיו, and pual וְחֻבָּר stay represented.",
+  "discardedUncitedFindings": 0
+}

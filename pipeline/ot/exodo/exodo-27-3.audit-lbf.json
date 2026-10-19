@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:3",
+  "chapter": 27,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás sus ollas para desgrasarlo, y sus palas y sus tazones y sus garfios y sus braseros; a todos sus utensilios harás bronce.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02027003003"
+      ],
+      "issue": "Piel infinitive of H1878 leaves make-fat, anoint, and remove fat-ashes open. desgrasarlo keeps only grease-removal.",
+      "spanishSpan": "desgrasarlo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02027003006"
+      ],
+      "issue": "H4207 is a fork, an implement with prongs. garfios names hooks.",
+      "spanishSpan": "garfios"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02027003007"
+      ],
+      "issue": "H4289 leaves fire-pan, censer, and snuffdish open (a tray for coals). braseros is a standing heater.",
+      "spanishSpan": "braseros"
+    }
+  ],
+  "notes": "Y harás, sus ollas, sus palas, sus tazones, a todos sus utensilios, harás, and singular bronce match the other tokens in person, number, and suffix.",
+  "discardedUncitedFindings": 0
+}

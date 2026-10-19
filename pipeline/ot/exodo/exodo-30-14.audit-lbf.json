@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:14",
+  "chapter": 30,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Todo el pasante sobre los contados desde hijo de veinte año y arriba dará ofrenda de Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02030014002"
+      ],
+      "issue": "«pasante» en el español latinoamericano actual suele significar practicante; el token solo licencia el participio activo qal definido de quien pasa o cruza.",
+      "spanishSpan": "el pasante"
+    }
+  ],
+  "notes": "Los demás tokens conservan número, persona, cadena de constructo y Jehová.",
+  "discardedUncitedFindings": 0
+}

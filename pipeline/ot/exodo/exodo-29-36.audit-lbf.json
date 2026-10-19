@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:36",
+  "chapter": 29,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "Y toro de pecado harás al día sobre las expiaciones, y pecarás sobre el altar en tu expiar sobre él, y lo ungirás para santificarlo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02029036007"
+      ],
+      "issue": "Piel sequential perfect 2ms of H2398 is rendered as pecarás (you will sin), which drops the piel stem force and makes the addressee commit sin.",
+      "spanishSpan": "pecarás"
+    }
+  ],
+  "notes": "The remaining tokens match conjunction, construct, person, number, articles, and suffixes.",
+  "discardedUncitedFindings": 0
+}

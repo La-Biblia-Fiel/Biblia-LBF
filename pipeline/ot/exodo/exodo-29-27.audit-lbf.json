@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:27",
+  "chapter": 29,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y santificarás pecho del balanceo y pierna de la ofrenda que fue balanceada y que fue alzada desde carnero de las llenuras, desde lo de Aarón y desde lo de sus hijos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02029027003",
+        "h02029027009",
+        "h02029027011"
+      ],
+      "issue": "הוּנַף and הוּרָם are hophal perfect 3rd masculine singular, matching the masculine breast (חזה). The feminine participles make pierna/ofrenda the item waved and raised and leave pecho outside those clauses.",
+      "spanishSpan": "que fue balanceada y que fue alzada"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029027006"
+      ],
+      "issue": "שׁוֹק is the thigh/shank (feminine singular construct). pierna names the whole leg.",
+      "spanishSpan": "pierna"
+    }
+  ],
+  "notes": "Tú future, hophal passive, plural fillings, and the repeated min-relatives match the tokens.",
+  "discardedUncitedFindings": 0
+}

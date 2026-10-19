@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:8",
+  "chapter": 26,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Largo de la cortina la una treinta en el codo, y ancho cuatro en el codo la cortina la una; medida una a once cortinas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026008005",
+        "h02026008008"
+      ],
+      "issue": "«el» marks the cubit definite; morphology is preposition plus feminine singular absolute noun with no article.",
+      "spanishSpan": "el codo"
+    }
+  ],
+  "notes": "Construct «de», repeated singular curtain, and «once» for the עשתי+עשרה compound match the tokens.",
+  "discardedUncitedFindings": 0
+}

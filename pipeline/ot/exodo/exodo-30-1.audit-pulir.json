@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:1",
+  "chapter": 30,
+  "verse": 1,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás altar de quemar incienso; maderas de acacia harás a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030001003"
+      ],
+      "issue": "מִקְטַר is a masculine singular construct noun (H4729), not a verb; “quemar” adds the act of burning.",
+      "spanishSpan": "quemar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030001006"
+      ],
+      "issue": "שִׁטִּים is feminine plural absolute; “acacia” is singular.",
+      "spanishSpan": "acacia"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02030001008"
+      ],
+      "issue": "אֹתוֹ is the direct-object marker with a 3ms suffix; “a él” can be read as a personal or indirect object.",
+      "spanishSpan": "a él"
+    }
+  ],
+  "notes": "Both forms of עשה stay qal 2ms, and “Y” matches the conjunction on the first.",
+  "discardedUncitedFindings": 0
+}

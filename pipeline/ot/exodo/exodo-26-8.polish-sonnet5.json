@@ -1,0 +1,103 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 26:8",
+  "chapter": 26,
+  "verse": 8,
+  "sourceDraft": "Largo de la cortina la una treinta en el codo, y ancho cuatro en el codo la cortina la una; medida una a once cortinas.",
+  "spanish": "Largo de la cortina la una treinta en el codo, y ancho cuatro en el codo la cortina la una; medida una a once cortinas.",
+  "units": [
+    {
+      "es": "Largo de",
+      "sourceTokenIds": [
+        "h02026008001"
+      ]
+    },
+    {
+      "es": "la cortina",
+      "sourceTokenIds": [
+        "h02026008002"
+      ]
+    },
+    {
+      "es": "la una",
+      "sourceTokenIds": [
+        "h02026008003"
+      ]
+    },
+    {
+      "es": "treinta",
+      "sourceTokenIds": [
+        "h02026008004"
+      ]
+    },
+    {
+      "es": "en el codo",
+      "sourceTokenIds": [
+        "h02026008005"
+      ]
+    },
+    {
+      "es": "y ancho",
+      "sourceTokenIds": [
+        "h02026008006"
+      ]
+    },
+    {
+      "es": "cuatro",
+      "sourceTokenIds": [
+        "h02026008007"
+      ]
+    },
+    {
+      "es": "en el codo",
+      "sourceTokenIds": [
+        "h02026008008"
+      ]
+    },
+    {
+      "es": "la cortina",
+      "sourceTokenIds": [
+        "h02026008009"
+      ]
+    },
+    {
+      "es": "la una",
+      "sourceTokenIds": [
+        "h02026008010"
+      ]
+    },
+    {
+      "es": "medida",
+      "sourceTokenIds": [
+        "h02026008011"
+      ]
+    },
+    {
+      "es": "una",
+      "sourceTokenIds": [
+        "h02026008012"
+      ]
+    },
+    {
+      "es": "a once",
+      "sourceTokenIds": [
+        "h02026008013",
+        "h02026008014"
+      ]
+    },
+    {
+      "es": "cortinas",
+      "sourceTokenIds": [
+        "h02026008015"
+      ]
+    }
+  ],
+  "grammarChanges": [],
+  "meaningChanges": [],
+  "readerNote": "Kept 'el codo' in both clauses: Spanish requires the definite article for a generic unit-of-measure noun (as in 'cobran por el metro'), even though tokens h02026008005 and h02026008008 carry no separate Hebrew article tag; this is a target-language grammatical choice, not a claim about a specific definite cubit.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

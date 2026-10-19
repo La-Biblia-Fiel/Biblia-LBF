@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:9",
+  "chapter": 28,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomarás las dos piedras de shóham, y abrirás sobre ellas nombres de hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028009006"
+      ],
+      "issue": "Piel of lemma 6605 b is the engrave/carve stem; «abrirás» supplies the open-sense and omits that action.",
+      "spanishSpan": "abrirás"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028009005"
+      ],
+      "issue": "שֹׁהַם is a common noun, not a proper name; «shóham» leaves the lemma untranslated.",
+      "spanishSpan": "shóham"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028009003",
+        "h02028009004",
+        "h02028009005"
+      ],
+      "issue": "«las» marks the stones definite; the construct has no article and שֹׁהַם is an indefinite common noun.",
+      "spanishSpan": "las"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028009007",
+        "h02028009004"
+      ],
+      "issue": "«ellas» is feminine while the suffix is 3mp; it still refers to the stones.",
+      "spanishSpan": "ellas"
+    }
+  ],
+  "notes": "tomarás matches qal weqatal 2ms; Israel is the locked name; את is unmarked.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 26:7",
+  "chapter": 26,
+  "verse": 7,
+  "sourceDraft": "Y harás cortinas de cabras a tienda sobre el mishkán; once cortinas harás a ellas.",
+  "spanish": "Y harás cortinas de cabras a tienda sobre el tabernáculo; once cortinas las harás.",
+  "units": [
+    {
+      "es": "Y harás",
+      "sourceTokenIds": [
+        "h02026007001"
+      ]
+    },
+    {
+      "es": "cortinas de cabras",
+      "sourceTokenIds": [
+        "h02026007002",
+        "h02026007003"
+      ]
+    },
+    {
+      "es": "a tienda",
+      "sourceTokenIds": [
+        "h02026007004"
+      ]
+    },
+    {
+      "es": "sobre el tabernáculo",
+      "sourceTokenIds": [
+        "h02026007005",
+        "h02026007006"
+      ]
+    },
+    {
+      "es": "once",
+      "sourceTokenIds": [
+        "h02026007007",
+        "h02026007008"
+      ]
+    },
+    {
+      "es": "cortinas",
+      "sourceTokenIds": [
+        "h02026007009"
+      ]
+    },
+    {
+      "es": "harás",
+      "sourceTokenIds": [
+        "h02026007010"
+      ]
+    },
+    {
+      "es": "las",
+      "sourceTokenIds": [
+        "h02026007011"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated הַמִּשְׁכָּן into Spanish (mishkán → tabernáculo); the lemma is a common noun with the article, not a name to transliterate.",
+    "Replaced the tonic construction 'a ellas' with the Spanish direct-object clitic 'las', the grammatical form for a direct object in this position."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Kept the feminine pronoun 'las' because Spanish object-pronoun gender follows the Spanish antecedent cortinas, not the Hebrew suffix's masculine plural marking.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

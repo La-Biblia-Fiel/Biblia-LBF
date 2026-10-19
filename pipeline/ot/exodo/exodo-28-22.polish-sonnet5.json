@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 28:22",
+  "chapter": 28,
+  "verse": 22,
+  "sourceDraft": "Y harás sobre el joshen cadenillas de borde, obra de cordón, oro puro.",
+  "spanish": "Y harás sobre el pectoral cadenas de obra trenzada, obra de cordón, oro puro.",
+  "units": [
+    {
+      "es": "Y harás",
+      "sourceTokenIds": [
+        "h02028022001"
+      ]
+    },
+    {
+      "es": "sobre el pectoral",
+      "sourceTokenIds": [
+        "h02028022002",
+        "h02028022003"
+      ]
+    },
+    {
+      "es": "cadenas de obra trenzada,",
+      "sourceTokenIds": [
+        "h02028022004",
+        "h02028022005"
+      ]
+    },
+    {
+      "es": "obra de cordón,",
+      "sourceTokenIds": [
+        "h02028022006",
+        "h02028022007"
+      ]
+    },
+    {
+      "es": "oro puro.",
+      "sourceTokenIds": [
+        "h02028022008",
+        "h02028022009"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "joshen -> el pectoral: הַחֹשֶׁן is a definite common noun and must stay in Spanish, not transliterated.",
+    "de borde -> de obra trenzada: גַּבְלֻת names 'twisted/wreathen work', not a boundary/edge sense.",
+    "cadenillas -> cadenas: שַׁרְשֹׁת is plain feminine plural construct; the diminutive -illas is not licensed by the morphology."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

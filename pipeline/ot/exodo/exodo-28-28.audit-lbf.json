@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:28",
+  "chapter": 28,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y atarán el joshen a anillos del efod con cordón de azul, para ser sobre cinturón del efod, y no se apartará el joshen de sobre el efod.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028028003",
+        "h02028028015"
+      ],
+      "issue": "«joshen» leaves the common noun H2833 untranslated; the tokens mark a common noun, not a proper name.",
+      "spanishSpan": "joshen"
+    }
+  ],
+  "notes": "Atarán, anillos, cordón de azul, cinturón, se apartará, and de sobre match person, number, stem, and the prepositions.",
+  "discardedUncitedFindings": 0
+}

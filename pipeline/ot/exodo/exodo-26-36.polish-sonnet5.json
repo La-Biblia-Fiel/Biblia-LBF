@@ -1,0 +1,73 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 26:36",
+  "chapter": 26,
+  "verse": 36,
+  "sourceDraft": "Y harás masaj a abertura de la tienda, azul y púrpura y carmesí y lino fino torcido, obra de bordador.",
+  "spanish": "Y harás una cortina a la abertura de la tienda, azul y púrpura y carmesí y lino fino torcido, obra de bordador.",
+  "units": [
+    {
+      "es": "Y harás",
+      "sourceTokenIds": [
+        "h02026036001"
+      ]
+    },
+    {
+      "es": "una cortina",
+      "sourceTokenIds": [
+        "h02026036002"
+      ]
+    },
+    {
+      "es": "a la abertura de la tienda",
+      "sourceTokenIds": [
+        "h02026036003",
+        "h02026036004"
+      ]
+    },
+    {
+      "es": "azul",
+      "sourceTokenIds": [
+        "h02026036005"
+      ]
+    },
+    {
+      "es": "y púrpura",
+      "sourceTokenIds": [
+        "h02026036006"
+      ]
+    },
+    {
+      "es": "y carmesí",
+      "sourceTokenIds": [
+        "h02026036007",
+        "h02026036008"
+      ]
+    },
+    {
+      "es": "y lino fino torcido",
+      "sourceTokenIds": [
+        "h02026036009",
+        "h02026036010"
+      ]
+    },
+    {
+      "es": "obra de bordador",
+      "sourceTokenIds": [
+        "h02026036011",
+        "h02026036012"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated the untranslated Hebrew noun 'masaj' (H4539) as the Spanish noun 'cortina', with the indefinite article 'una' required for a singular count-noun direct object.",
+    "Added the definite article to 'abertura' (a la abertura) to mark the definite construct phrase 'abertura de la tienda'."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

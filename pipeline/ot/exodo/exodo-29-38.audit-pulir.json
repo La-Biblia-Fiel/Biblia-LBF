@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:38",
+  "chapter": 29,
+  "verse": 38,
+  "candidateLabel": "pulir",
+  "spanish": "Y esto lo que harás sobre el altar: corderos hijos de año, dos, al día, siempre.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029038011"
+      ],
+      "issue": "תמיד es sustantivo (continuidad); siempre lo suaviza como adverbio dentro de ese sentido.",
+      "spanishSpan": "siempre"
+    }
+  ],
+  "notes": "Orden, número, persona y el constructo hijos de año quedan abiertos.",
+  "discardedUncitedFindings": 0
+}

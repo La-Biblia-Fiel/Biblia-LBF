@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:33",
+  "chapter": 26,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y darás la parójet debajo de los ganchos, y harás entrar allá desde dentro a la parójet el arca del testimonio, y separará la parójet a ustedes entre el santo y entre santo de los santos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026033003",
+        "h02026033009",
+        "h02026033014"
+      ],
+      "issue": "parójet leaves common noun H6532 untranslated; a common noun must be Spanish.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026033013",
+        "h02026033015",
+        "h02026033016",
+        "h02026033018"
+      ],
+      "issue": "לָכֶם is a prepositional beneficiary (for you). separará a ustedes makes the addressees the object separated; the hiphil divides between the two holy domains.",
+      "spanishSpan": "a ustedes"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026033008",
+        "h02026033009"
+      ],
+      "issue": "Construct noun בית is smoothed to the adverb dentro, and desde…a reads as a path toward the curtain rather than the locative from-house-of plus ל.",
+      "spanishSpan": "desde dentro a la parójet"
+    }
+  ],
+  "notes": "Tú on darás/harás and ustedes for the 2mp suffix match the person shift; both בין phrases are kept.",
+  "discardedUncitedFindings": 0
+}

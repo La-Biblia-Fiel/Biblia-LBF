@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:18",
+  "chapter": 28,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y la fila la segunda: nófej, sapir y yahalom.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028018003",
+        "h02028018004",
+        "h02028018005"
+      ],
+      "issue": "Three common-noun lemmas are left as untranslated Hebrew forms instead of Spanish.",
+      "spanishSpan": "nófej, sapir y yahalom"
+    }
+  ],
+  "notes": "Y, la fila, and la segunda match the conjunction, singular row, and ordinal.",
+  "discardedUncitedFindings": 0
+}

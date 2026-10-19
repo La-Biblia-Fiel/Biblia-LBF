@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:1",
+  "chapter": 30,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás altar de quemar incienso; maderas de shitím harás a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030001006"
+      ],
+      "issue": "שִׁטִּים is a common noun (feminine plural), not a proper name; shitím leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "shitím"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02030001003"
+      ],
+      "issue": "מִקְטַר is a masculine singular construct noun; quemar renders it as a verb infinitive. The incense-burning sense remains as grammatical smoothing.",
+      "spanishSpan": "quemar"
+    }
+  ],
+  "notes": "Y, both harás, altar, incienso, maderas, and a él match the conjunction, the two qal 2ms make-verbs, the altar, the incense noun, the plural construct wood, and the 3ms object.",
+  "discardedUncitedFindings": 0
+}

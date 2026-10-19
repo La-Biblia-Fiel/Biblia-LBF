@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:28",
+  "chapter": 29,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y será a Aarón y a sus hijos a estatuto de siempre de parte de hijos de Israel, porque ofrenda él; y ofrenda será de parte de hijos de Israel desde sacrificios de sus pazes, su ofrenda a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02029028018"
+      ],
+      "issue": "שַׁלְמֵיהֶם is a common masculine plural construct with a 3mp suffix (their peace-offerings). “pazes” is not a Spanish common noun and does not carry that offering sense.",
+      "spanishSpan": "sus pazes"
+    }
+  ],
+  "notes": "The other tokens, including Aarón, Israel, Jehová, both ofrenda clauses, and su ofrenda, match the packet.",
+  "discardedUncitedFindings": 0
+}

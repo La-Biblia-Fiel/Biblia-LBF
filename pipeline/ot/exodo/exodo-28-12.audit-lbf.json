@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:12",
+  "chapter": 28,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y pondrás las dos las piedras sobre hombros del efod, piedras de memorial a hijos de Israel, y alzará Aarón sus nombres delante de Jehová sobre dos sus hombros a memorial.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028012003",
+        "h02028012004"
+      ],
+      "issue": "The definite article is repeated in «las dos las piedras»; the packet has one article, on the stones, with the dual numeral in construct.",
+      "spanishSpan": "las dos las piedras"
+    }
+  ],
+  "notes": "Person, number, explicit dual, repeated memorial, and the names stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

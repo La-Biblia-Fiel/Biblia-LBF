@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:21",
+  "chapter": 27,
+  "verse": 21,
+  "candidateLabel": "pulir",
+  "spanish": "En tienda de reunión, fuera del velo que sobre el testimonio, lo pondrá en orden Aarón y sus hijos desde tarde hasta mañana delante de Jehová; estatuto de siempre a sus generaciones de parte de hijos de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02027021012"
+      ],
+      "issue": "«tarde» names the later daytime; H6153 is the evening noun, so the start of the span is softer than the token.",
+      "spanishSpan": "tarde"
+    }
+  ],
+  "notes": "Remaining tokens match: 3ms verb, 3ms object, names, and the verbless clauses.",
+  "discardedUncitedFindings": 0
+}

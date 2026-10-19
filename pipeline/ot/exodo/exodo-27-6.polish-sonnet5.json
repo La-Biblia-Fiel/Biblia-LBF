@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 27:6",
+  "chapter": 27,
+  "verse": 6,
+  "sourceDraft": "Y harás varas al altar, varas de maderas de shitím, y las revestirás bronce.",
+  "spanish": "Y harás varas al altar, varas de maderas de acacia, y las revestirás de bronce.",
+  "units": [
+    {
+      "es": "Y harás varas al altar",
+      "sourceTokenIds": [
+        "h02027006001",
+        "h02027006002",
+        "h02027006003"
+      ]
+    },
+    {
+      "es": "varas de maderas de acacia",
+      "sourceTokenIds": [
+        "h02027006004",
+        "h02027006005",
+        "h02027006006"
+      ]
+    },
+    {
+      "es": "y las revestirás de bronce",
+      "sourceTokenIds": [
+        "h02027006007",
+        "h02027006008",
+        "h02027006009"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced the untranslated transliteration \"shitím\" with its lexical sense \"acacia\" for h02027006006 (HNcfpa, Strongs H7848), per the cited auditor fail; no participant, number, or stem change.",
+    "Added the preposition \"de\" before \"bronce\" (\"revestirás de bronce\"), required by Spanish \"revestir de algo\"; same participants and object, grammar only."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

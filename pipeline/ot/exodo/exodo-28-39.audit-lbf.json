@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:39",
+  "chapter": 28,
+  "verse": 39,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuadrearás la túnica lino fino, y harás turbante lino fino, y cinto harás obra de bordador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028039001"
+      ],
+      "issue": "cuadrearás means giving the tunic a square shape; piel H7660 licenses plaiting or checker-weaving it (or setting), so the Spanish adds squaring and drops that action",
+      "spanishSpan": "cuadrearás"
+    }
+  ],
+  "notes": "Person, number, articles, both make-verbs, shesh as lino fino, and obra de bordador match the other tokens.",
+  "discardedUncitedFindings": 0
+}

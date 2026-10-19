@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:1",
+  "chapter": 27,
+  "verse": 1,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás el altar maderas de acacia; cinco codos largo y cinco codos ancho; cuadrado será el altar, y tres codos su alto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02027001005"
+      ],
+      "issue": "שִׁטִּים is feminine plural; singular acacia names the species. Number smoothing that does not change the wood.",
+      "spanishSpan": "acacia"
+    }
+  ],
+  "notes": "Altar and acacia wood stay juxtaposed, as in the Hebrew, which has no preposition between them.",
+  "discardedUncitedFindings": 0
+}

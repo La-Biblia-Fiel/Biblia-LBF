@@ -1,0 +1,107 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 28:15",
+  "chapter": 28,
+  "verse": 15,
+  "sourceDraft": "Y harás joshen de juicio, obra de pensador; como obra de efod lo harás; oro, azul y púrpura y carmesí y lino fino torcido harás a él.",
+  "spanish": "Y harás joshen de juicio, obra de pensador; como obra de efod lo harás; oro, azul y púrpura y carmesí y lino fino torcido lo harás.",
+  "units": [
+    {
+      "es": "Y harás",
+      "sourceTokenIds": [
+        "h02028015001"
+      ]
+    },
+    {
+      "es": "joshen",
+      "sourceTokenIds": [
+        "h02028015002"
+      ]
+    },
+    {
+      "es": "de juicio",
+      "sourceTokenIds": [
+        "h02028015003"
+      ]
+    },
+    {
+      "es": "obra de",
+      "sourceTokenIds": [
+        "h02028015004"
+      ]
+    },
+    {
+      "es": "pensador",
+      "sourceTokenIds": [
+        "h02028015005"
+      ]
+    },
+    {
+      "es": "como obra de",
+      "sourceTokenIds": [
+        "h02028015006"
+      ]
+    },
+    {
+      "es": "efod",
+      "sourceTokenIds": [
+        "h02028015007"
+      ]
+    },
+    {
+      "es": "lo harás",
+      "sourceTokenIds": [
+        "h02028015008"
+      ]
+    },
+    {
+      "es": "oro",
+      "sourceTokenIds": [
+        "h02028015009"
+      ]
+    },
+    {
+      "es": "azul",
+      "sourceTokenIds": [
+        "h02028015010"
+      ]
+    },
+    {
+      "es": "y púrpura",
+      "sourceTokenIds": [
+        "h02028015011"
+      ]
+    },
+    {
+      "es": "y carmesí",
+      "sourceTokenIds": [
+        "h02028015012",
+        "h02028015013"
+      ]
+    },
+    {
+      "es": "y lino fino torcido",
+      "sourceTokenIds": [
+        "h02028015014",
+        "h02028015015"
+      ]
+    },
+    {
+      "es": "lo harás",
+      "sourceTokenIds": [
+        "h02028015016",
+        "h02028015017"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Changed \"harás a él\" to \"lo harás\" at the close of the verse: h02028015017 is tagged direct-object marker + 3ms suffix (HTo/Sp3ms), so Spanish needs the direct-object pronoun lo, not the prepositional/dative a él."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Left joshen, efod, pensador, the carmesí construct pair, and lino fino unchanged because the source packet gives only lemma/Strong's/morphology codes, not glosses, so repairing those cited spans would require translating from memory rather than from the packet's evidence.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

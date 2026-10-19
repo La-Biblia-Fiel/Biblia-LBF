@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:3",
+  "chapter": 27,
+  "verse": 3,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás sus ollas para limpiarlo, y sus palas y sus tazones y sus tenedores y sus bandejas; a todos sus utensilios harás bronce.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02027003003"
+      ],
+      "issue": "Piel infinitive H1878 licenses fatten, anoint, or remove ashes; “limpiarlo” adds generic cleaning and drops that content.",
+      "spanishSpan": "limpiarlo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02027003007"
+      ],
+      "issue": "H4289 is a firepan, censer, or snuffdish; “bandejas” substitutes a tray.",
+      "spanishSpan": "bandejas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02027003011"
+      ],
+      "issue": "H5178 covers copper and brass/bronze; “bronce” selects the alloy sense.",
+      "spanishSpan": "bronce"
+    }
+  ],
+  "notes": "2ms harás, the waw list, and the 3ms suffixes otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

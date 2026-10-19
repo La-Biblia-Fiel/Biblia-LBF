@@ -1,0 +1,82 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 28:36",
+  "chapter": 28,
+  "verse": 36,
+  "sourceDraft": "Y harás diadema de oro puro, y abrirás sobre ella grabados de sello: Santidad a Jehová.",
+  "spanish": "Y harás una lámina de oro puro, y grabarás sobre ella grabados de sello: santidad a Jehová.",
+  "units": [
+    {
+      "es": "Y harás",
+      "sourceTokenIds": [
+        "h02028036001"
+      ]
+    },
+    {
+      "es": "una lámina",
+      "sourceTokenIds": [
+        "h02028036002"
+      ]
+    },
+    {
+      "es": "de oro",
+      "sourceTokenIds": [
+        "h02028036003"
+      ]
+    },
+    {
+      "es": "puro",
+      "sourceTokenIds": [
+        "h02028036004"
+      ]
+    },
+    {
+      "es": "y grabarás",
+      "sourceTokenIds": [
+        "h02028036005"
+      ]
+    },
+    {
+      "es": "sobre ella",
+      "sourceTokenIds": [
+        "h02028036006"
+      ]
+    },
+    {
+      "es": "grabados",
+      "sourceTokenIds": [
+        "h02028036007"
+      ]
+    },
+    {
+      "es": "de sello",
+      "sourceTokenIds": [
+        "h02028036008"
+      ]
+    },
+    {
+      "es": "santidad",
+      "sourceTokenIds": [
+        "h02028036009"
+      ]
+    },
+    {
+      "es": "a Jehová",
+      "sourceTokenIds": [
+        "h02028036010"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "diadema -> lámina: H6731 is masc. sing. construct and licenses flor/lámina/ala, not diadema",
+    "abrirás -> grabarás: piel sequential 2ms of H6605 licenses grabar/esculpir, not abrir",
+    "Santidad -> santidad: קֹדֶשׁ is a common noun, not a proper-name title"
+  ],
+  "meaningChanges": [],
+  "readerNote": "Elegí 'lámina' entre las opciones licenciadas flor/lámina/ala para H6731, y 'grabarás' entre grabar/esculpir para H6605; la concordancia femenina de 'ella' se mantiene porque las tres opciones léxicas son femeninas en español.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

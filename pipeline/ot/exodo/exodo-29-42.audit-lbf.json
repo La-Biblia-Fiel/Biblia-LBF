@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:42",
+  "chapter": 29,
+  "verse": 42,
+  "candidateLabel": "lbf",
+  "spanish": "Holocausto continuo a generaciones de ustedes, a abertura de tienda de reunión delante de Jehová, que me citaré a ustedes allá para hablar a ti allí.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029042001",
+        "h02029042002"
+      ],
+      "issue": "עֹלַת תָּמִיד is a construct noun plus an absolute noun; continuo makes the absolute noun an adjective. The continual-offering sense remains.",
+      "spanishSpan": "Holocausto continuo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029042004"
+      ],
+      "issue": "פֶּתַח has no preposition; a makes the bare place noun explicitly locative.",
+      "spanishSpan": "a abertura"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029042010",
+        "h02029042011"
+      ],
+      "issue": "Niphal imperfect 1cs אִוָּעֵד plus לָכֶם is I meet or appoint to you; me citaré a ustedes can also be read as summon or quote.",
+      "spanishSpan": "me citaré a ustedes"
+    }
+  ],
+  "notes": "2mp ustedes and 2ms ti match לָכֶם and אֵלֶיךָ; Jehová matches יהוה.",
+  "discardedUncitedFindings": 0
+}

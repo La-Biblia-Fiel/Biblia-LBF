@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:31",
+  "chapter": 26,
+  "verse": 31,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás velo de azul y púrpura y carmesí y lino fino torcido; obra de pensador hará a ella querubines.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026031003"
+      ],
+      "issue": "תכלת cubre azul y violeta; «azul» fija solo el azul.",
+      "spanishSpan": "azul"
+    }
+  ],
+  "notes": "«velo» es el nombre común; «lino fino torcido», «carmesí» y «a ella» siguen el lema, el participio y el sufijo 3fs.",
+  "discardedUncitedFindings": 0
+}

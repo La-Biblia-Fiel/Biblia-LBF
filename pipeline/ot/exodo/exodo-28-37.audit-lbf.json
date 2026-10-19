@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:37",
+  "chapter": 28,
+  "verse": 37,
+  "candidateLabel": "lbf",
+  "spanish": "Y la pondrás sobre cordón de azul, y será sobre el turbante; al frente de faces del turbante será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028037002"
+      ],
+      "issue": "The object suffix is 3rd masculine singular; Spanish la marks it feminine.",
+      "spanishSpan": "la"
+    }
+  ],
+  "notes": "The remaining tokens match: 2ms put, cord of blue, both be-verbs, both turbans, and plural faces.",
+  "discardedUncitedFindings": 0
+}

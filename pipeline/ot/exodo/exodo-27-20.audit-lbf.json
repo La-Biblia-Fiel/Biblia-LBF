@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:20",
+  "chapter": 27,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y tú mandarás a hijos de Israel, y tomarán a ti aceite de olivo puro molido a la lumbrera, para hacer subir lámpara siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02027020014",
+        "h02027020015"
+      ],
+      "issue": "נר is construct and תמיד is a noun, but siempre is an adverb, so continuity modifies hacer subir instead of qualifying the lamp as its construct noun.",
+      "spanishSpan": "lámpara siempre"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02027020011"
+      ],
+      "issue": "כתית is an adjective (beaten); molido narrows it to milling or grinding.",
+      "spanishSpan": "molido"
+    }
+  ],
+  "notes": "Person, number, piel mandarás, hiphil hacer subir, and מאור versus נר match the tokens.",
+  "discardedUncitedFindings": 0
+}

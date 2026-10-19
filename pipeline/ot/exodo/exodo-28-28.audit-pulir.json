@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:28",
+  "chapter": 28,
+  "verse": 28,
+  "candidateLabel": "pulir",
+  "spanish": "Y atarán el pectoral a anillos del efod con cordón de azul, para ser sobre cinturón del efod, y no se apartará el pectoral de sobre el efod.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028028005",
+        "h02028028006"
+      ],
+      "issue": "טַבְּעֹת הָאֵפֹד es una cadena en estado constructo definida por el artículo del absoluto; «a anillos» deja la cabeza sin «los».",
+      "spanishSpan": "a anillos del efod"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028028011",
+        "h02028028012"
+      ],
+      "issue": "חֵשֶׁב הָאֵפוֹד es constructo definido por el artículo de הָאֵפוֹד; «sobre cinturón» omite «el».",
+      "spanishSpan": "sobre cinturón del efod"
+    }
+  ],
+  "notes": "Persona, número, voz nifal, את, ב, ל+infinitivo y מעל quedan cubiertos; la repetición de pectoral y efod se conserva.",
+  "discardedUncitedFindings": 0
+}

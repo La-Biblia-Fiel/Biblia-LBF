@@ -1,0 +1,88 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 27:19",
+  "chapter": 27,
+  "verse": 19,
+  "sourceDraft": "A todos utensilios del mishkán en todo su servicio, y todas sus estacas y todas estacas del atrio, bronce.",
+  "spanish": "A todos los utensilios del tabernáculo en todo su servicio, y todas sus estacas y todas las estacas del atrio, bronce.",
+  "units": [
+    {
+      "es": "A todos",
+      "sourceTokenIds": [
+        "h02027019001"
+      ]
+    },
+    {
+      "es": "los utensilios",
+      "sourceTokenIds": [
+        "h02027019002"
+      ]
+    },
+    {
+      "es": "del tabernáculo",
+      "sourceTokenIds": [
+        "h02027019003"
+      ]
+    },
+    {
+      "es": "en todo",
+      "sourceTokenIds": [
+        "h02027019004"
+      ]
+    },
+    {
+      "es": "su servicio",
+      "sourceTokenIds": [
+        "h02027019005"
+      ]
+    },
+    {
+      "es": "y todas",
+      "sourceTokenIds": [
+        "h02027019006"
+      ]
+    },
+    {
+      "es": "sus estacas",
+      "sourceTokenIds": [
+        "h02027019007"
+      ]
+    },
+    {
+      "es": "y todas",
+      "sourceTokenIds": [
+        "h02027019008"
+      ]
+    },
+    {
+      "es": "las estacas",
+      "sourceTokenIds": [
+        "h02027019009"
+      ]
+    },
+    {
+      "es": "del atrio",
+      "sourceTokenIds": [
+        "h02027019010"
+      ]
+    },
+    {
+      "es": "bronce",
+      "sourceTokenIds": [
+        "h02027019011"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated the untranslated H4908 lemma 'mishkán' to the Spanish common noun 'tabernáculo', per the cited audit fail.",
+    "Added missing definite article 'los' before 'utensilios'.",
+    "Added missing definite article 'las' before the second 'estacas'."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

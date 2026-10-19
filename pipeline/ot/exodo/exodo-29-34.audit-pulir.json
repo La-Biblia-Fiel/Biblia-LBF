@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:34",
+  "chapter": 29,
+  "verse": 34,
+  "candidateLabel": "pulir",
+  "spanish": "Y si sobra desde carne de las consagraciones y desde el pan hasta la mañana, y quemarás lo sobrante en el fuego; no se comerá, porque santidad él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029034003",
+        "h02029034005",
+        "h02029034007"
+      ],
+      "issue": "desde for partitive min, beside hasta, can be read as a from-until span; ad limits the remaining, and the two min phrases are the sources",
+      "spanishSpan": "desde carne de las consagraciones y desde el pan hasta la mañana"
+    }
+  ],
+  "notes": "Verbless qodesh hu stays santidad él, with no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:14",
+  "chapter": 28,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y dos cadenillas de oro puro, trenzadas harás a ellas, obra de cordón, y darás las cadenillas los cordones sobre los engastes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028014002",
+        "h02028014012"
+      ],
+      "issue": "cadenillas adds smallness; the chain noun licenses only chains",
+      "spanishSpan": "cadenillas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028014005"
+      ],
+      "issue": "trenzadas makes the feminine plural noun an adjective and fixes its open border/twist range as braiding",
+      "spanishSpan": "trenzadas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028014007"
+      ],
+      "issue": "a ellas is feminine; the object suffix is third masculine plural and can read as dative",
+      "spanishSpan": "a ellas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028014012"
+      ],
+      "issue": "las marks the second chains definite; that noun is anarthrous absolute",
+      "spanishSpan": "las cadenillas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028014015"
+      ],
+      "issue": "engastes keeps the gem-setting sense and drops brocade or plaited work",
+      "spanishSpan": "los engastes"
+    }
+  ],
+  "notes": "Tú qal futures, dos, oro puro, obra de cordón, plural cordones, and sobre match the tokens.",
+  "discardedUncitedFindings": 0
+}

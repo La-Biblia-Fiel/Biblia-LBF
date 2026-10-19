@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:6",
+  "chapter": 26,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás cincuenta ganchos de oro, y juntarás las cortinas mujer a su hermana en los ganchos, y será el mishkán uno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026006013"
+      ],
+      "issue": "Common noun הַמִּשְׁכָּן is left as the untranslated lemma mishkán; a common noun must be Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026006011"
+      ],
+      "issue": "The preposition ב is only marked as a preposition; en selects a locative sense where with/by remains open.",
+      "spanishSpan": "en"
+    }
+  ],
+  "notes": "Remaining clauses match person, number, construct, article, and the woman-to-her-sister wording.",
+  "discardedUncitedFindings": 0
+}

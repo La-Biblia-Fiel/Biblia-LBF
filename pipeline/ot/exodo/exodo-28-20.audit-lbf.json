@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:20",
+  "chapter": 28,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y la fila la cuarta: tarsis y shóham y yashfé; engastados oro serán en sus llenuras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028020004"
+      ],
+      "issue": "שֹׁהַם is a common noun (masculine singular absolute), not a proper name. shóham leaves the lemma untranslated.",
+      "spanishSpan": "shóham"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028020005"
+      ],
+      "issue": "יָשְׁפֵה is a common noun (masculine singular absolute), not a proper name. yashfé leaves the lemma untranslated.",
+      "spanishSpan": "yashfé"
+    }
+  ],
+  "notes": "Y, la fila, la cuarta, tarsis, both y, engastados (pual masculine plural), oro, serán (3mp), and en sus llenuras match the other tokens.",
+  "discardedUncitedFindings": 0
+}

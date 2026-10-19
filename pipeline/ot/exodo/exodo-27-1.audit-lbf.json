@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:1",
+  "chapter": 27,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás el altar maderas de shitím; cinco codos largo y cinco codos ancho; cuadrado será el altar, y tres codos su alto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02027001005"
+      ],
+      "issue": "שִׁטִּים is a common noun left as the untranslated transliteration shitím; common nouns stay Spanish.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "Make, the altar (twice), wood, five/five/three cubits, length, width, squared, will-be, and its height match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 29:16",
+  "chapter": 29,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y degollarás el carnero, y tomarás su sangre, y rociarás sobre el altar alrededor.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02029016007"
+      ],
+      "issue": "rociarás narrows throw/scatter (H2236) toward a fine sprinkle; the lemma also licenses a fuller toss",
+      "spanishSpan": "rociarás"
+    }
+  ],
+  "notes": "2ms futures, the ram, his blood, upon the altar, and around match; the third verb rightly has no restated object.",
+  "discardedUncitedFindings": 0
+}

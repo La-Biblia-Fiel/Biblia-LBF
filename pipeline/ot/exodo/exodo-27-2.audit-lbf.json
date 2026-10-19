@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 27:2",
+  "chapter": 27,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás sus cuernos sobre cuatro sus esquinas; desde él serán sus cuernos, y lo revestirás bronce.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02027002006"
+      ],
+      "issue": "מִמֶּנּוּ is a preposition with a 1st common plural suffix; «él» is 3rd masculine singular.",
+      "spanishSpan": "él"
+    }
+  ],
+  "notes": "The other clauses keep the 2ms verbs, the repeated horns, four corners, the 3fp be-verb, the 3ms object, and bronze.",
+  "discardedUncitedFindings": 0
+}

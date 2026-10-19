@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:3",
+  "chapter": 28,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y tú hablarás a todos sabios de corazón que lo llené espíritu de sabiduría, y harán los vestidos de Aarón para santificarlo, para sacerdotear a mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028003016",
+        "h02028003017"
+      ],
+      "issue": "The piel infinitive carries a 3rd masculine singular suffix, but the Spanish infinitive has no 3ms argument; only the separate 1cs preposition remains.",
+      "spanishSpan": "para sacerdotear a mí"
+    }
+  ],
+  "notes": "The other tokens are represented, including the singular object of llené.",
+  "discardedUncitedFindings": 0
+}

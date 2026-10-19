@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 28:8",
+  "chapter": 28,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y el cinturón de su efodadura que sobre él, como su obra, desde él será: oro, azul y púrpura y carmesí y lino fino torcido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028008006"
+      ],
+      "issue": "Suffix on מִמֶּנּוּ is 1st common plural; «él» is 3rd masculine singular.",
+      "spanishSpan": "desde él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02028008002"
+      ],
+      "issue": "Common noun אֲפֻדָּה (fem. sg. + 3ms) is a coined transliteration «efodadura»; -adura is not licensed. «su» matches the suffix.",
+      "spanishSpan": "efodadura"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028008011",
+        "h02028008012"
+      ],
+      "issue": "Construct תּוֹלַעַת (8438 b) + שָׁנִי is flattened to one color word, so the second token is not separate.",
+      "spanishSpan": "carmesí"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02028008001"
+      ],
+      "issue": "Unmarked article «el» is grammatical smoothing; the construct noun has no article token.",
+      "spanishSpan": "el"
+    }
+  ],
+  "notes": "Conjunctions, qal «será», hophal «torcido», and oro/azul/púrpura match their tokens.",
+  "discardedUncitedFindings": 0
+}
