@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 8:21",
+  "chapter": 8,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y se pecaron los levitas, y lavaron sus vestidos, y balanceó Aarón a ellos balanceo delante de Jehová, y expió sobre ellos Aarón para limpiar a ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04008021001"
+      ],
+      "issue": "Hithpael sequential 3mp of H2398 is the self-cleansing stem, not qal commission of sin. «se pecaron» keeps a reflexive marker but uses «pecar», adding that the Levites sinned and dropping the hithpael cleansing force.",
+      "spanishSpan": "se pecaron"
+    }
+  ],
+  "notes": "The other clauses match person, number, objects, cognate תְּנוּפָה, and Jehová.",
+  "discardedUncitedFindings": 0
+}

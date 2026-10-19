@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:40",
+  "chapter": 1,
+  "verse": 40,
+  "candidateLabel": "lbf",
+  "spanish": "A hijos de Aser, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001040013",
+        "h04001040014",
+        "h04001040015"
+      ],
+      "issue": "todo saliente ejército makes ejército the head modified by saliente. Morphology is כֹּל plus a masculine singular qal active participle in construct governing צָבָא: the head is the one going out, and the army is its complement.",
+      "spanishSpan": "todo saliente ejército"
+    }
+  ],
+  "notes": "Other tokens match in order, number, and person; singular שָׁנָה remains año.",
+  "discardedUncitedFindings": 0
+}

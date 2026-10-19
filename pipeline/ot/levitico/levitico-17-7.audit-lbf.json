@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 17:7",
+  "chapter": 17,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y no sacrificarán todavía sus sacrificios a los machos cabríos que ellos fornicantes detrás de ellos; estatuto de siempre será esto a ellos a sus generaciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03017007001",
+        "h03017007002",
+        "h03017007003"
+      ],
+      "issue": "«no … todavía» means the sacrificing has not yet begun. The negative with עוֹד licenses not doing it any longer / again.",
+      "spanishSpan": "no sacrificarán todavía"
+    }
+  ],
+  "notes": "Remaining tokens are present with matching number, person, and participants.",
+  "discardedUncitedFindings": 0
+}

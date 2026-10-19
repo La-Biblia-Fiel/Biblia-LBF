@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:80",
+  "chapter": 7,
+  "verse": 80,
+  "candidateLabel": "lbf",
+  "spanish": "Cuchara una, diez oro, llena incienso.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007080001"
+      ],
+      "issue": "H3709 כַּף is an open common noun (palm, hollow, pan, or spoon). Cuchara locks it to a spoon, a specialized utensil the morphology does not select.",
+      "spanishSpan": "Cuchara"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007080001",
+        "h04007080003",
+        "h04007080004"
+      ],
+      "issue": "כַּף is construct, so ten gold is its genitive. The comma leaves diez oro readable as a separate item.",
+      "spanishSpan": "Cuchara una, diez oro"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007080005",
+        "h04007080006"
+      ],
+      "issue": "מְלֵאָה is an adjective whose complement is incense. llena is also a finite verb, and without a link the phrase can read as fills incense.",
+      "spanishSpan": "llena incienso"
+    }
+  ],
+  "notes": "עֲשָׂרָה זָהָב licenses diez oro; no shekel token is present to add.",
+  "discardedUncitedFindings": 0
+}

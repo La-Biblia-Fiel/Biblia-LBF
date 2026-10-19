@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:3",
+  "chapter": 6,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "o hallare pérdida y mintiere en ella, y jurare sobre mentira, sobre una desde todo lo que hiciere el adam a pecar en ellas:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006003014"
+      ],
+      "issue": "הָאָדָם is a definite common noun (H120); \"adam\" leaves that non-name lemma untranslated instead of Spanish.",
+      "spanishSpan": "el adam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006003002",
+        "h03006003004",
+        "h03006003006",
+        "h03006003013"
+      ],
+      "issue": "Qal perfect, piel and niphal sequential perfects, and qal imperfect are smoothed as Spanish future subjunctive; person and number stay 3ms.",
+      "spanishSpan": "hallare mintiere jurare hiciere"
+    }
+  ],
+  "notes": "Remaining tokens match: o, pérdida, en ella, sobre mentira, sobre una, desde todo, lo que, a pecar, en ellas.",
+  "discardedUncitedFindings": 0
+}

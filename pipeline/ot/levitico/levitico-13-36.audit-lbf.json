@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:36",
+  "chapter": 13,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "y lo verá el sacerdote, y he aquí se extendió el neteq en la piel, no buscará el sacerdote al pelo el amarillo; impuro él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013036005"
+      ],
+      "issue": "neteq deja sin traducir el sustantivo común (artículo + Ncmsa); los sustantivos comunes van en español.",
+      "spanishSpan": "el neteq"
+    }
+  ],
+  "notes": "El resto del versículo conserva persona, número, piel, preposiciones, adjetivo definido y la cláusula sin cópula.",
+  "discardedUncitedFindings": 0
+}

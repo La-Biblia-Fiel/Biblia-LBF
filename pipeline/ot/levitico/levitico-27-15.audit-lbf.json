@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 27:15",
+  "chapter": 27,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y si el santificante redimiere su casa, y añadirá quinto de plata de tu valoración sobre ella, y será a él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03027015010"
+      ],
+      "issue": "The suffix is 3ms (him/it). \"ella\" is feminine, so it tracks casa, plata, or valoración and cannot be the masculine participant.",
+      "spanishSpan": "sobre ella"
+    }
+  ],
+  "notes": "Remaining tokens match: conditional 3ms redeems his house, adds a fifth of the silver of your (2ms) valuation, and it is to him.",
+  "discardedUncitedFindings": 0
+}

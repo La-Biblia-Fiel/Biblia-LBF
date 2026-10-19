@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:16",
+  "chapter": 15,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y varón, cuando saliere desde él yacimiento de semilla, y lavará en las aguas toda su carne, y se impurecerá hasta la tarde.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015016004"
+      ],
+      "issue": "The preposition suffix is 1st person common plural, but the Spanish reads a 3rd person masculine singular.",
+      "spanishSpan": "él"
+    }
+  ],
+  "notes": "Packet morphology on ממנו is Sp1cp; desde él changes person.",
+  "discardedUncitedFindings": 0
+}

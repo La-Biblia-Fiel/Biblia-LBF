@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:12",
+  "chapter": 5,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a hijos de Israel, y dirás a ellos: Varón varón, cuando se desviare su mujer y perpetrare en él perpetración,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005012012",
+        "h04005012014"
+      ],
+      "issue": "Qal 3fs H4603 and cognate noun H4604 license her unfaithful/treacherous act, not a generic perpetration.",
+      "spanishSpan": "perpetrare ... perpetración"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005012010"
+      ],
+      "issue": "Qal imperfect 3fs is a simple turn-aside; pronominal se is grammatical smoothing.",
+      "spanishSpan": "se desviare"
+    }
+  ],
+  "notes": "Address, איש איש, כי, wife, and בו are otherwise represented.",
+  "discardedUncitedFindings": 0
+}

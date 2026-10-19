@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:55",
+  "chapter": 13,
+  "verse": 55,
+  "candidateLabel": "lbf",
+  "spanish": "Y verá el sacerdote después de ser lavada la plaga, y he aquí no volvió la plaga su ojo, y la plaga no se extendió: impura ella; en el fuego la quemarás; corrosión ella, en su calvicie o en su frente calva.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013055004",
+        "h03013055016",
+        "h03013055017",
+        "h03013055019"
+      ],
+      "issue": "Pual wash, masculine טָמֵא הוּא, and the 3ms burn-suffix are smoothed to feminine lavada/impura/ella/la with plaga; same referent and passive/2ms force, meaning unchanged.",
+      "spanishSpan": "lavada; impura ella; la quemarás"
+    }
+  ],
+  "notes": "Turn-the-eye, repeated plaga, verbless clauses, corrosión, and calvicie/frente calva stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 27:28",
+  "chapter": 27,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Solo todo jérem que jermare varón a Jehová desde todo lo que a él, desde adam y bestia y desde campo de su posesión, no será vendido, y no será redimido; todo jérem santidad de santidades él a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03027028003",
+        "h03027028020"
+      ],
+      "issue": "Common noun חֵרֶם is dumped untranslated as jérem; common nouns stay Spanish.",
+      "spanishSpan": "jérem"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03027028005"
+      ],
+      "issue": "Hiphil imperfect 3ms verb is dumped as the coined form jermare instead of Spanish.",
+      "spanishSpan": "jermare"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03027028011"
+      ],
+      "issue": "אָדָם is morphology common noun, not a proper name, and is left as Hebrew adam.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03027028001"
+      ],
+      "issue": "Affirmation particle is narrowed to restrictive Solo.",
+      "spanishSpan": "Solo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03027028009"
+      ],
+      "issue": "Unmarked lo only smooths the relative into lo que and adds no new concept.",
+      "spanishSpan": "lo"
+    }
+  ],
+  "notes": "Niphal passives, קדש קדשים, and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

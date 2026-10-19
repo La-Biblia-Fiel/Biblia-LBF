@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:15",
+  "chapter": 20,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y varón que diere su yacimiento en bestia, de morir morirá, y a la bestia matarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020015007"
+      ],
+      "issue": "Hophal imperfect 3ms (be put to death) is rendered as active morirá (he will die), changing stem force.",
+      "spanishSpan": "morirá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020015004"
+      ],
+      "issue": "Feminine noun of lying (שכב) plus 3ms suffix is rendered yacimiento, which in current Spanish is a mineral or archaeological deposit and does not state the lying.",
+      "spanishSpan": "yacimiento"
+    }
+  ],
+  "notes": "2mp matarán is ustedes address; de morir matches the qal infinitive absolute.",
+  "discardedUncitedFindings": 0
+}

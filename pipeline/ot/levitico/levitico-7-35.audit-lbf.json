@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:35",
+  "chapter": 7,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Esta unción de Aarón y unción de sus hijos desde ofrendas de fuego de Jehová, en día de acercar a ellos para sacerdotear a Jehová,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007035009"
+      ],
+      "issue": "Hiphil perfect 3rd masculine singular is rendered as the infinitive acercar, so the finite 3ms actor is gone.",
+      "spanishSpan": "acercar"
+    }
+  ],
+  "notes": "Repetition, min, 3mp object, and the piel infinitive stay licensed.",
+  "discardedUncitedFindings": 0
+}

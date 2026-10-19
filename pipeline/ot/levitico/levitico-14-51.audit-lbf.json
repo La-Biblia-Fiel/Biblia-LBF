@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:51",
+  "chapter": 14,
+  "verse": 51,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomará la madera del erez y el ezov y el carmesí y el pájaro la viva, y mojará a ellos en sangre del pájaro la degollada y en las aguas las vivas, y rociará a la casa siete veces.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014051004"
+      ],
+      "issue": "Common noun הָאָרֶז (H730) is transliterated as erez instead of a Spanish common noun.",
+      "spanishSpan": "erez"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014051006"
+      ],
+      "issue": "Common noun הָאֵזֹב (H231) is transliterated as ezov instead of a Spanish common noun.",
+      "spanishSpan": "ezov"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014051008",
+        "h03014051009"
+      ],
+      "issue": "Construct שְׁנִי הַתּוֹלַעַת (H8144 + H8438 b) is collapsed into one noun, so the second scarlet token is not separately visible.",
+      "spanishSpan": "el carmesí"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014051013"
+      ],
+      "issue": "Qal טָבַל (H2881) is dip/immerse; mojar is primarily wet. mojar en may only smooth that force.",
+      "spanishSpan": "mojará"
+    }
+  ],
+  "notes": "Take, 3mp them, blood, slaughtered bird, living waters, sprinkle toward the house, and seven times match the tokens.",
+  "discardedUncitedFindings": 0
+}

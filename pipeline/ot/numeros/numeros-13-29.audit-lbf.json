@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:29",
+  "chapter": 13,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Amaleq habitante en tierra del Neguev, y el hitita y el jebuseo y el amorreo habitante en el monte, y el cananeo habitante sobre el mar y sobre mano del Yordán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013029004"
+      ],
+      "issue": "H5045 is a common noun, not a proper name; Neguev leaves that non-name lemma untranslated instead of Spanish.",
+      "spanishSpan": "Neguev"
+    }
+  ],
+  "notes": "Other tokens match in order, number, article, and preposition.",
+  "discardedUncitedFindings": 0
+}

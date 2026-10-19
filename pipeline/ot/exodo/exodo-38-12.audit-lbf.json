@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:12",
+  "chapter": 38,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y al lado de mar, colgaduras cincuenta en el codo; sus columnas diez, y sus basas diez; ganchos de las columnas y sus bandas de plata.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038012001"
+      ],
+      "issue": "al includes a definite article; the token is conjunction + preposition + feminine singular construct, with no article",
+      "spanishSpan": "al"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038012005"
+      ],
+      "issue": "el marks the cubit definite; morphology is preposition + feminine singular absolute, with no article",
+      "spanishSpan": "el"
+    }
+  ],
+  "notes": "Sea, fifty, singular cubit, both tens, suffixes, and the hook and silver construct chains match the tokens.",
+  "discardedUncitedFindings": 0
+}

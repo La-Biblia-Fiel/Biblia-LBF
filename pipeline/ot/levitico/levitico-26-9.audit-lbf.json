@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:9",
+  "chapter": 26,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y me volveré a ustedes, y los haré fructificar, y los multiplicaré, y estableceré mi pacto con ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026009001"
+      ],
+      "issue": "El qal de פנה queda alisado como «me volveré», que también se oye como regresar.",
+      "spanishSpan": "me volveré"
+    }
+  ],
+  "notes": "Los hiphil causativos, el 2mp ustedes, pacto y con ustedes siguen a los tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:9",
+  "chapter": 13,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "a vara de Benjamín, Palti hijo de Rafú;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013009001"
+      ],
+      "issue": "H4294 מַטֶּה stays open among rod, branch, and tribe; «vara» resolves it to a physical staff.",
+      "spanishSpan": "vara"
+    }
+  ],
+  "notes": "«a» matches לְ; Benjamín, Palti, and hijo de Rafú match the proper names and construct בֶּן.",
+  "discardedUncitedFindings": 0
+}

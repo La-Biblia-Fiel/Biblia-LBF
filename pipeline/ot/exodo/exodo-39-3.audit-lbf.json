@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:3",
+  "chapter": 39,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y batieron las láminas del oro, y cortó hilos, para hacer en medio del azul y en medio de la púrpura y en medio del carmesí y en medio del lino fino, obra de pensador.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039003013",
+        "h02039003014"
+      ],
+      "issue": "Construct תולעת (8438 b) plus שני is flattened to one color word, so the head noun is not explicit.",
+      "spanishSpan": "carmesí"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039003018"
+      ],
+      "issue": "Qal active participle is narrowed to pensador inside an open think/devise range.",
+      "spanishSpan": "pensador"
+    }
+  ],
+  "notes": "3mp piel then 3ms piel, the four בתוך phrases, and noun שֵׁשׁ (8336 b) are kept.",
+  "discardedUncitedFindings": 0
+}

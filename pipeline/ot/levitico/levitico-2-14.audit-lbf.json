@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:14",
+  "chapter": 2,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y si acerques minjá de primicias a Jehová, Aviv tostado en el fuego, grosero de karmel acercarás la minjá de tus primicias.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002014003",
+        "h03002014013"
+      ],
+      "issue": "Common noun left as the untranslated lemma minjá instead of Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002014006"
+      ],
+      "issue": "Common noun left untranslated and capitalized as a name (Aviv).",
+      "spanishSpan": "Aviv"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002014009"
+      ],
+      "issue": "Noun (a crushing / crushed grain) rendered as the adjective grosero (rude/coarse).",
+      "spanishSpan": "grosero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002014010"
+      ],
+      "issue": "Common noun left as the untranslated form karmel; morphology is not a proper name.",
+      "spanishSpan": "karmel"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03002014002"
+      ],
+      "issue": "Hiphil imperfect in the if-clause smoothed to the subjunctive acerques; person and stem still match.",
+      "spanishSpan": "acerques"
+    }
+  ],
+  "notes": "Jehová, primicias, tus, tostado, en el fuego, and the second acercarás match the tokens.",
+  "discardedUncitedFindings": 0
+}

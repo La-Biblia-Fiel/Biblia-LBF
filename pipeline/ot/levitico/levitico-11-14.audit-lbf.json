@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:14",
+  "chapter": 11,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "y la daáh y la ayah a su especie,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011014002",
+        "h03011014004"
+      ],
+      "issue": "Common nouns (H1676, H344), not proper names, are dumped as untranslated Hebrew forms instead of Spanish.",
+      "spanishSpan": "daáh y la ayah"
+    }
+  ],
+  "notes": "Articles, conjunctions, and לְמִינָהּ as a su especie match the tokens; את is unmarked grammatical smoothing.",
+  "discardedUncitedFindings": 0
+}

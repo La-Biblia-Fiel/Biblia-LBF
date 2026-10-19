@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:18",
+  "chapter": 13,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y verán la tierra qué ella, y al pueblo el habitante sobre ella: ¿el fuerte él, el flojo? ¿el poco él, o mucho?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013018010",
+        "h04013018012",
+        "h04013018013"
+      ],
+      "issue": "The ה on החזק, הרפה, and המעט is a particle (HTi; הרפה lemma i/), not the definite article (HTd). Spanish el marks fuerte, flojo, and poco as definite.",
+      "spanishSpan": "el fuerte, el flojo, el poco"
+    }
+  ],
+  "notes": "Interrogative force is already in the question marks; el still adds definiteness.",
+  "discardedUncitedFindings": 0
+}

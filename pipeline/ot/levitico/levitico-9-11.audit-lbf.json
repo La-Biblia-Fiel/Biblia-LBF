@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 9:11",
+  "chapter": 9,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y la carne y la piel quemó en el fuego a fuera al campamento.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03009011007"
+      ],
+      "issue": "«a fuera» marks the outside with directional a (to). The token is the preposition מ (from) plus the noun outside.",
+      "spanishSpan": "a fuera"
+    }
+  ],
+  "notes": "«al campamento» matches ל plus the camp; the other clauses match number, person, definiteness, and qal stem.",
+  "discardedUncitedFindings": 0
+}

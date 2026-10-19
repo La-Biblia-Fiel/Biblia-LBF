@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:39",
+  "chapter": 11,
+  "verse": 39,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando muriere desde el animal que ella a ustedes a comida, el tocante en su cadáver se impurecerá hasta la tarde.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011039011"
+      ],
+      "issue": "Unmarked “se” is Spanish middle voice on the qal imperfect; it smooths “become unclean” without a reflexive participant.",
+      "spanishSpan": "se"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011039003"
+      ],
+      "issue": "“desde” can mean source or cause; מִן before the definite animal also allows partitive “from among.”",
+      "spanishSpan": "desde"
+    }
+  ],
+  "notes": "3ms verbs, 3fs pronoun, 2mp ustedes, articles, and the verbless relative match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 18:26",
+  "chapter": 18,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y guardarán ustedes mis estatutos y mis juicios, y no harán desde todas las abominaciones estas, el nativo y el peregrino el peregrinante en medio de ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03018026009"
+      ],
+      "issue": "«desde» narrows the preposition min toward a starting point; with kol before the abominations it also licenses the partitive «of/from among all».",
+      "spanishSpan": "desde"
+    }
+  ],
+  "notes": "2mp address with ustedes, both suffixed objects, the negative, the native, and the sojourner plus participle match the tokens.",
+  "discardedUncitedFindings": 0
+}

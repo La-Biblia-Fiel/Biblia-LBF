@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:20",
+  "chapter": 14,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y hará subir el sacerdote el holocausto y la minjá hacia el altar, y expiará sobre él el sacerdote, y será puro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014020006"
+      ],
+      "issue": "Sustantivo común הַמִּנְחָה (H4503) queda como la transliteración minjá; los nombres comunes van en español.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "El resto del versículo conserva hiphil, piel, qal, el sufijo 3ms y la repetición del sacerdote.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:38",
+  "chapter": 39,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "y el altar del oro y el aceite de la unción y el incienso de los aromas, y el masaj de la abertura de la tienda,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039038011"
+      ],
+      "issue": "Common noun (H4539, masculine singular construct) is left untranslated as masaj; common nouns stay Spanish.",
+      "spanishSpan": "masaj"
+    }
+  ],
+  "notes": "The four waw+object chains and their construct definiteness otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

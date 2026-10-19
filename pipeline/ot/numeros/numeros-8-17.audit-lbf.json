@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 8:17",
+  "chapter": 8,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Porque a mí todo primogénito en hijos de Israel, en el adam y en el animal; en día de mi herir todo primogénito en tierra de Egipto, santifiqué a ellos a mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04008017007"
+      ],
+      "issue": "Common noun אדם (H120, masculine singular absolute) is left as the untranslated lemma adam; common nouns stay Spanish.",
+      "spanishSpan": "adam"
+    }
+  ],
+  "notes": "Remaining tokens match in conjunction, person, number, stem, participants, and the locked name Egipto.",
+  "discardedUncitedFindings": 0
+}

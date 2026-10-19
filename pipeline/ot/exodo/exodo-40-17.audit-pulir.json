@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:17",
+  "chapter": 40,
+  "verse": 17,
+  "candidateLabel": "pulir",
+  "spanish": "Y fue en el mes el primero en el año el segundo, en uno al mes, fue levantado el tabernáculo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02040017004",
+        "h02040017005"
+      ],
+      "issue": "הַשֵּׁנִית is a feminine ordinal agreeing with שָׁנָה; el segundo takes masculine Spanish agreement with año. Number and ordinal sense stay singular second year.",
+      "spanishSpan": "el segundo"
+    }
+  ],
+  "notes": "Both month tokens, cardinal אחד, and hophal passive are kept.",
+  "discardedUncitedFindings": 0
+}

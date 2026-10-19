@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:16",
+  "chapter": 39,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "E hicieron dos engastes de oro y dos anillos de oro, y dieron los dos anillos sobre los dos extremos del joshen.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039016015"
+      ],
+      "issue": "הַחֹשֶׁן is a common noun (H2833, masculine singular), rendered as the untranslated transliteration joshen instead of a Spanish common noun.",
+      "spanishSpan": "joshen"
+    }
+  ],
+  "notes": "The two make/give clauses, duals, gold, rings, and ends otherwise match the packet.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:5",
+  "chapter": 22,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "o varón que tocare en todo reptil que se contaminare a él, o en adam que se contaminare a él, a toda su inmundicia,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03022005006"
+      ],
+      "issue": "reptil estrecha el sustantivo común שֶׁרֶץ (H8318, lo que pulula o se arrastra) a la clase reptil",
+      "spanishSpan": "reptil"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03022005011"
+      ],
+      "issue": "adam deja sin traducir el sustantivo común אָדָם (H120); los nombres comunes van en español",
+      "spanishSpan": "adam"
+    }
+  ],
+  "notes": "El resto conserva persona, número, qal y los dos לוֹ.",
+  "discardedUncitedFindings": 0
+}

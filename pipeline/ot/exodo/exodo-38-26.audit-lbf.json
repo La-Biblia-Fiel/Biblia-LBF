@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:26",
+  "chapter": 38,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Béka al cráneo, mitad del siclo en siclo de la santidad, a todo el pasante sobre los contados, desde hijo de veinte año y arriba, a seiscientos tres mil quinientos cincuenta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038026001"
+      ],
+      "issue": "Béka leaves the common noun untranslated. The token is a masculine singular noun, not a proper name.",
+      "spanishSpan": "Béka"
+    }
+  ],
+  "notes": "The remaining clauses match the packet’s number, participants, and openness.",
+  "discardedUncitedFindings": 0
+}

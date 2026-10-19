@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:33",
+  "chapter": 16,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y expiará santuario del santo, y tienda de reunión y el altar expiará, y sobre los sacerdotes y sobre todo pueblo de la asamblea expiará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016033005",
+        "h03016033008",
+        "h03016033009",
+        "h03016033010"
+      ],
+      "issue": "After the comma, «tienda de reunión» and «el altar» stand before «expiará», so Spanish reads them as who expiates. אֶת marks both as objects; the piel 3ms verb keeps the same implicit agent.",
+      "spanishSpan": "y tienda de reunión y el altar expiará"
+    }
+  ],
+  "notes": "The other two piel 3ms verbs, על, and the remaining nouns stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

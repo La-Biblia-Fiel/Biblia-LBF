@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:83",
+  "chapter": 7,
+  "verse": 83,
+  "candidateLabel": "lbf",
+  "spanish": "Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos hijos de año cinco; esta ofrenda de Ajirá hijo de Enán.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007083002"
+      ],
+      "issue": "«pazes» no es un plural español; el token es sustantivo masculino plural con artículo. El artículo y el número se reflejan, pero la forma no entrega el lexema con claridad.",
+      "spanishSpan": "pazes"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007083013",
+        "h04007083014"
+      ],
+      "issue": "זה es demostrativo masculino singular y concuerda con קרבן masculino; «esta» es femenino por concordancia con «ofrenda». No cambia el referente.",
+      "spanishSpan": "esta"
+    }
+  ],
+  "notes": "Número, constructos, nombres y la cláusula sin cópula siguen a los tokens.",
+  "discardedUncitedFindings": 0
+}

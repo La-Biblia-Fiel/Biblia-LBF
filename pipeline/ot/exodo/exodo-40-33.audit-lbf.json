@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:33",
+  "chapter": 40,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y levantó el atrio alrededor al mishkán y al altar, y dio el masaj de la puerta del atrio. Y acabó Moisés la obra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040033005"
+      ],
+      "issue": "H4908 is a common noun (morph Ncmsa), rendered as the untranslated Hebraism mishkán instead of a Spanish common noun.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040033009"
+      ],
+      "issue": "H4539 is a common noun (morph Ncmsc, covering/screen), rendered as the untranslated Hebraism masaj instead of a Spanish common noun.",
+      "spanishSpan": "masaj"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens: hiphil 3ms raised the court around, qal 3ms gave the gate-screen, piel 3ms Moisés finished the work.",
+  "discardedUncitedFindings": 0
+}

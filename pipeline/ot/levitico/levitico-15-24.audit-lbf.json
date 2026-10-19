@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:24",
+  "chapter": 15,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y si acostando se acostare varón con ella, y fuere su menstruación sobre él, y se impurecerá siete días, y todo el lecho que se acueste sobre él se impurecerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015024002",
+        "h03015024003",
+        "h03015024005"
+      ],
+      "issue": "Qal שכב takes אֹתָהּ as direct object (H853), not a comitative. “se acostare … con ella” makes the verb pronominal and the woman a companion “with.”",
+      "spanishSpan": "se acostare varón con ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015024013",
+        "h03015024014",
+        "h03015024015",
+        "h03015024016"
+      ],
+      "issue": "יִשְׁכַּב is qal imperfect 3ms (the man lies) and עָלָיו is upon the bed. “el lecho que se acueste sobre él” makes the bed the one who lies and él the one lain upon.",
+      "spanishSpan": "el lecho que se acueste sobre él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03015024007"
+      ],
+      "issue": "נִדָּתָהּ (H5079) is her impurity/separation, often menstrual. “menstruación” selects the physiological period and leaves the impurity/separation sense unstated.",
+      "spanishSpan": "menstruación"
+    }
+  ],
+  "notes": "Infinitive-absolute שָׁכֹב plus finite יִשְׁכַּב is kept; seven days and both uncleanness verbs match in number and person.",
+  "discardedUncitedFindings": 0
+}

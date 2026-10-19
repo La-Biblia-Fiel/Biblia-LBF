@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:2",
+  "chapter": 4,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Alza la cabeza de hijos de Quehat desde medio de hijos de Leví a sus familias a casa de sus padres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004002001"
+      ],
+      "issue": "נָשֹׂא is qal infinitive absolute, with no person or mood. \"Alza\" is 2nd-person singular imperative (or 3rd-person singular present) and assigns person and command force the morphology leaves open.",
+      "spanishSpan": "Alza"
+    }
+  ],
+  "notes": "The rest of the clause keeps singular cabeza, both בני as hijos, Quehat, Leví, desde medio, and both ל phrases with 3mp suffixes.",
+  "discardedUncitedFindings": 0
+}

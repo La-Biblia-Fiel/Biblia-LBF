@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:30",
+  "chapter": 39,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "E hicieron la diadema, corona de la santidad, oro puro, y escribieron sobre ella escritura de grabados de sello: Santidad a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039030003",
+        "h02039030004",
+        "h02039030005"
+      ],
+      "issue": "צִיץ and נֵזֶר are both singular construct, licensing the tsits of the nezer of the holiness. The comma makes apposition and drops that construct link, so the diadem is identified as the crown of holiness.",
+      "spanishSpan": "la diadema, corona de la santidad"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039030009"
+      ],
+      "issue": "The suffix is 3rd masculine singular. Feminine ella follows Spanish diadema and keeps the same referent.",
+      "spanishSpan": "ella"
+    }
+  ],
+  "notes": "The rest matches: they made pure gold, and they wrote on it a writing of seal-engravings, holiness to Jehová.",
+  "discardedUncitedFindings": 0
+}

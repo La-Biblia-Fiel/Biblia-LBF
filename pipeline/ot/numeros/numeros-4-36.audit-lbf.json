@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:36",
+  "chapter": 4,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "Y fueron sus contados a sus familias: dos mil setecientos y cincuenta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004036001",
+        "h04004036003"
+      ],
+      "issue": "«fueron … a sus familias» se lee como ir (movimiento hacia las familias). וַיִּהְיוּ es qal de היה (ser/estar, 3mp) y לְ es solo preposición; el paquete no licencia traslado.",
+      "spanishSpan": "fueron sus contados a sus familias"
+    }
+  ],
+  "notes": "El numeral 2750 sí corresponde a אלפים + שבע מאות + וחמשים.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 38:13",
+  "chapter": 38,
+  "verse": 13,
+  "sourceDraft": "Y al lado de kedem, hacia oriente, cincuenta codo.",
+  "spanish": "Y a lado del oriente, hacia oriente, cincuenta codo.",
+  "units": [
+    {
+      "es": "Y a lado de",
+      "sourceTokenIds": [
+        "h02038013001"
+      ]
+    },
+    {
+      "es": "el oriente",
+      "sourceTokenIds": [
+        "h02038013002"
+      ]
+    },
+    {
+      "es": "hacia oriente",
+      "sourceTokenIds": [
+        "h02038013003"
+      ]
+    },
+    {
+      "es": "cincuenta",
+      "sourceTokenIds": [
+        "h02038013004"
+      ]
+    },
+    {
+      "es": "codo",
+      "sourceTokenIds": [
+        "h02038013005"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated h02038013002 (קֵדְמָה, dumped as the transliteration 'kedem') into Spanish as 'oriente', expressing the suffixed form rather than leaving it untranslated.",
+    "Removed the definite article from 'lado' (h02038013001, a construct noun that takes no article) and attached it instead to the following noun as 'del oriente', matching the construct-plus-direction pattern already used for the identical Hebrew phrase at 27:13 ('a lado del oriente hacia el este')."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

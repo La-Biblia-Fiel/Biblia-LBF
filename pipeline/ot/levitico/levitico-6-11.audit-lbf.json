@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:11",
+  "chapter": 6,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y se despojará sus vestidos, y vestirá vestidos otros, y sacará la ceniza a fuera al campamento, a lugar puro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006011001",
+        "h03006011002",
+        "h03006011003"
+      ],
+      "issue": "Unmarked reflexive se is not licensed. The verb is qal 3ms with את marking the garments as direct object, and the 3ms suffix only marks whose garments; there is no reflexive stem.",
+      "spanishSpan": "se"
+    }
+  ],
+  "notes": "The rest of the clause chain matches the qal and hiphil 3ms verbs, both plural garment phrases, the definite singular ash, and the two אל phrases.",
+  "discardedUncitedFindings": 0
+}

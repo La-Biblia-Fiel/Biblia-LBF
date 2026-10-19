@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 3:10",
+  "chapter": 3,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "y los dos los riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones la quitará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03003010017",
+        "h03003010012",
+        "h03003010005"
+      ],
+      "issue": "The 3fs suffix resumes the feminine singular direct object (the lobe). Spanish la agrees with la grasa, whose Hebrew noun is masculine singular, so the removed object shifts from the lobe to the fat.",
+      "spanishSpan": "la quitará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03003010002",
+        "h03003010003"
+      ],
+      "issue": "los dos los riñones repeats the article; the dual construct numeral plus the noun’s one article licenses a single determiner.",
+      "spanishSpan": "los dos los riñones"
+    }
+  ],
+  "notes": "Relatives, plural kidneys, loins, liver, and hiphil 3ms remove are licensed; the object pronoun is not.",
+  "discardedUncitedFindings": 0
+}

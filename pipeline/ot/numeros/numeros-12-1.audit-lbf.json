@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 12:1",
+  "chapter": 12,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y hablaron Miryam y Aarón en Moisés sobre asuntos de la mujer la cusita que tomó, porque mujer cusita tomó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012001007",
+        "h04012001008",
+        "h04012001009",
+        "h04012001010"
+      ],
+      "issue": "לקח is qal perfect 3ms and the relative is its object; «que tomó» makes the woman the one who takes.",
+      "spanishSpan": "que tomó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012001012",
+        "h04012001013",
+        "h04012001014"
+      ],
+      "issue": "The noun is the fronted object of 3ms לקח; «mujer cusita tomó» makes her the subject.",
+      "spanishSpan": "mujer cusita tomó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04012001001",
+        "h04012001002",
+        "h04012001003"
+      ],
+      "issue": "The verb is piel wayyiqtol 3fs before the compound subject; plural «hablaron» is agreement smoothing and keeps both speakers.",
+      "spanishSpan": "hablaron"
+    }
+  ],
+  "notes": "ב, על־אדות, כי, gentilicio cusita, and the repeated לקח stay open; the two לקח clauses reverse who acts.",
+  "discardedUncitedFindings": 0
+}

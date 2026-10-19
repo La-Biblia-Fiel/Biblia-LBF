@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:13",
+  "chapter": 39,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y la fila la cuarta: tarsis, shóham y yashfé; rodeadas de engastes de oro en sus llenuras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039013004"
+      ],
+      "issue": "שֹׁהַם is a common noun (masculine singular absolute), not a proper name. shóham leaves the lemma untranslated.",
+      "spanishSpan": "shóham"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039013005"
+      ],
+      "issue": "יָשְׁפֵה is a common noun (masculine singular absolute), not a proper name. yashfé leaves the lemma untranslated.",
+      "spanishSpan": "yashfé"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039013006",
+        "h02039013007"
+      ],
+      "issue": "«de» between the hophal participle and מִשְׁבְּצוֹת is grammatical smoothing; Hebrew juxtaposes them with no preposition.",
+      "spanishSpan": "rodeadas de"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039013009"
+      ],
+      "issue": "«llenuras» denotes abstract fullness. H4396 is the concrete feminine-plural noun of settings/fillings; «en sus» already carries the preposition and the 3mp suffix.",
+      "spanishSpan": "llenuras"
+    }
+  ],
+  "notes": "Y, la fila, la cuarta, tarsis, the single y, rodeadas (hophal feminine plural), and engastes de oro match their tokens.",
+  "discardedUncitedFindings": 0
+}

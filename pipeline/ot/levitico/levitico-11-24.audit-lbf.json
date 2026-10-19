@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:24",
+  "chapter": 11,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y a estas se impurificarán; todo el tocante en su cadáver se impurecerá hasta la tarde.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011024001",
+        "h03011024005"
+      ],
+      "issue": "אלה is a common plural demonstrative and the coreferent suffix on נבלתם is 3mp; «estas» selects feminine.",
+      "spanishSpan": "estas"
+    }
+  ],
+  "notes": "2mp hithpael as ustedes future and qal 3ms as singular inchoative stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

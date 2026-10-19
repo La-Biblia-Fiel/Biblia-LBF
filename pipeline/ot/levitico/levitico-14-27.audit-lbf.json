@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:27",
+  "chapter": 14,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y rociará el sacerdote en su dedo el derecho desde el aceite que sobre su palma la izquierda siete veces delante de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014027001",
+        "h03014027003"
+      ],
+      "issue": "בְּ is only an unspecified preposition on the finger. «en» with «rociará» makes the right finger the place sprinkled, adding a target the tokens do not license.",
+      "spanishSpan": "en su dedo"
+    }
+  ],
+  "notes": "Priest, oil, relative clause on the left palm, seven times, and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

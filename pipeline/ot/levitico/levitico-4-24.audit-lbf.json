@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:24",
+  "chapter": 4,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y apoyará su mano sobre cabeza del macho cabrío, y lo degollará en lugar que se degüella el holocausto delante de Jehová; pecado él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004024010",
+        "h03004024011",
+        "h03004024012"
+      ],
+      "issue": "Qal imperfecto 3ms activo, con את de objeto, queda en «se degüella»: impersonal o pasiva; el holocausto puede leerse como paciente-sujeto.",
+      "spanishSpan": "se degüella"
+    }
+  ],
+  "notes": "Lo demás conserva persona, número, objetos, חַטָּאת הוּא y Jehová.",
+  "discardedUncitedFindings": 0
+}

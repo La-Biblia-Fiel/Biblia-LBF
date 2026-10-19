@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:43",
+  "chapter": 13,
+  "verse": 43,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo verá el sacerdote, y he aquí elevación de la plaga blanca rojiza en su calvicie o en su frente calva, como apariencia de tsaráat de piel de carne.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013043005",
+        "h03013043006",
+        "h03013043007",
+        "h03013043008"
+      ],
+      "issue": "Feminine adjectives modify the feminine head שְׂאֵת; הַנֶּגַע is masculine. Spanish attaches white and reddish to la plaga.",
+      "spanishSpan": "plaga blanca rojiza"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013043013"
+      ],
+      "issue": "צָרַעַת is a common noun left as the untranslated lemma tsaráat.",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013043009",
+        "h03013043011"
+      ],
+      "issue": "קָרַחַת is baldness of the crown/back of the head, distinct from forehead-baldness גַּבַּחַת. calvicie drops that location.",
+      "spanishSpan": "calvicie"
+    }
+  ],
+  "notes": "Priest, object, hinneh, or, appearance, and skin-of-flesh match the tokens.",
+  "discardedUncitedFindings": 0
+}

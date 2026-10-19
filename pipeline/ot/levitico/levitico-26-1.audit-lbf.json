@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:1",
+  "chapter": 26,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "No harán para ustedes ídolos, y escultura y estela no levantarán para ustedes, y piedra de imaginería no darán en su tierra para postrarse sobre ella, porque yo Jehová su Dios.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026001011"
+      ],
+      "issue": "משכית is one feminine singular noun; imaginería is a collective or craft noun and slightly generalizes that single figure.",
+      "spanishSpan": "imaginería"
+    }
+  ],
+  "notes": "2mp futures with ustedes keep the addressees; the כי clause stays verbless with no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

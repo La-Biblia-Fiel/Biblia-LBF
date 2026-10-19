@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:9",
+  "chapter": 20,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Porque varón varón que maldijere a su padre y a su madre, de morir morirá; a su padre y a su madre maldijo; sus sangres en él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020009011"
+      ],
+      "issue": "Hophal imperfect 3ms (be put to death) is rendered as intransitive morirá (he will die), changing stem force. The qal infinitive absolute is emphasis on dying; the finite verb is not qal.",
+      "spanishSpan": "morirá"
+    }
+  ],
+  "notes": "Doubled varón, both curse forms, plural sangres, and en él match the tokens.",
+  "discardedUncitedFindings": 0
+}

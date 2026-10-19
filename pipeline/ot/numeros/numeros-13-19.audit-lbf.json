@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:19",
+  "chapter": 13,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y qué la tierra que él habitante en ella: ¿la buena ella, o mala? Y qué las ciudades que él habitante en ellas: ¿en los campamentos, o en fortalezas?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013019007"
+      ],
+      "issue": "«la» añade artículo definido. הֲ es partícula interrogativa (HTi) sobre adjetivo absoluto, no artículo; la pregunta ya está en ¿.",
+      "spanishSpan": "la buena"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013019017"
+      ],
+      "issue": "«los» añade artículo definido. La morfología es partícula interrogativa (HTi) + preposición + sustantivo plural absoluto; la pregunta ya está en ¿. El paralelo sin ה no lleva artículo.",
+      "spanishSpan": "los campamentos"
+    }
+  ],
+  "notes": "El resto del calco conserva qué, tierra, ciudades, él, participio, sufijos, buena/mala y la alternativa en/o en.",
+  "discardedUncitedFindings": 0
+}

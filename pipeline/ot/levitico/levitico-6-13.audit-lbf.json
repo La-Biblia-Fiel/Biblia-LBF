@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:13",
+  "chapter": 6,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Fuego continuo arderá sobre el altar; no se apagará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006013003"
+      ],
+      "issue": "Hophal imperfect (be caused to burn) is rendered as active arderá, changing stem force.",
+      "spanishSpan": "arderá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006013002"
+      ],
+      "issue": "Absolute noun תמיד is smoothed into the adjective continuo modifying fuego.",
+      "spanishSpan": "continuo"
+    }
+  ],
+  "notes": "Altar, negation, and qal extinguishing match; the hophal stem does not.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 9:23",
+  "chapter": 9,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y entraron Moisés y Aarón a tienda de reunión, y salieron y bendijeron al pueblo, y se apareció gloria de Jehová a todo el pueblo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03009023001",
+        "h03009023002",
+        "h03009023003"
+      ],
+      "issue": "וַיָּבֹא is qal sequential imperfect 3ms; entraron is plural smoothing so the verb agrees with the compound subject Moisés y Aarón.",
+      "spanishSpan": "entraron"
+    }
+  ],
+  "notes": "Article-less tienda de reunión matches anarthrous אֹהֶל מוֹעֵד; remaining clauses match the tokens.",
+  "discardedUncitedFindings": 0
+}

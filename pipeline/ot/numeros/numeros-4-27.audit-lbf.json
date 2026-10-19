@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:27",
+  "chapter": 4,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Sobre boca de Aarón y sus hijos será todo servicio de hijos del guershoní a toda su carga y a todo su servicio, y contarán ustedes sobre ellos en guarda a toda su carga.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004027014",
+        "h04004027015",
+        "h04004027016",
+        "h04004027017",
+        "h04004027019"
+      ],
+      "issue": "«contarán» locks qal H6485 to counting. The frame על + absolute במשמרת + את leaves appoint/assign, number, visit, and muster open.",
+      "spanishSpan": "contarán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04004027017",
+        "h04004027016",
+        "h04004027018",
+        "h04004027019"
+      ],
+      "issue": "«a» before the inanimate load can be read as the preposition to/toward, like the earlier lamed. את is only the object marker, and משמרת is absolute, so the load is the object of the verb.",
+      "spanishSpan": "a"
+    }
+  ],
+  "notes": "Mouth, singular gentilic, 3fs será, repeated carga/servicio, and 2mp as ustedes stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

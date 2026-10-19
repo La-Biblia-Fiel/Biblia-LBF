@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:7",
+  "chapter": 19,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y si de comer se comiere en el día el tercero, desecho él; no será aceptado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019007006"
+      ],
+      "issue": "H6292 is a fetid, unclean, or abhorrent thing; «desecho» says discarded waste.",
+      "spanishSpan": "desecho"
+    }
+  ],
+  "notes": "The eat-cognates, third day, pronoun, and Niphal «no será aceptado» match their tokens.",
+  "discardedUncitedFindings": 0
+}

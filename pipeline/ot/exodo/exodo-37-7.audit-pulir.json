@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:7",
+  "chapter": 37,
+  "verse": 7,
+  "candidateLabel": "pulir",
+  "spanish": "E hizo dos querubines de oro; labrados hizo a ellos desde los dos extremos del propiciatorio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037007005"
+      ],
+      "issue": "מִקְשָׁה is a feminine singular noun of manner (hammered/beaten work). “labrados” is a masculine plural adjective, so it changes that noun’s number and turns the manner into a quality of the cherubim, without stating hammered or beaten work.",
+      "spanishSpan": "labrados"
+    }
+  ],
+  "notes": "The other tokens match in participants, person, and qal stem.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 40:26",
+  "chapter": 40,
+  "verse": 26,
+  "sourceDraft": "Y puso el altar del oro en la tienda de reunión delante de la parójet.",
+  "spanish": "Y puso el altar del oro en tienda de reunión delante del velo.",
+  "units": [
+    {
+      "es": "Y puso",
+      "sourceTokenIds": [
+        "h02040026001"
+      ]
+    },
+    {
+      "es": "el altar del oro",
+      "sourceTokenIds": [
+        "h02040026002",
+        "h02040026003",
+        "h02040026004"
+      ]
+    },
+    {
+      "es": "en tienda de reunión",
+      "sourceTokenIds": [
+        "h02040026005",
+        "h02040026006"
+      ]
+    },
+    {
+      "es": "delante del velo",
+      "sourceTokenIds": [
+        "h02040026007",
+        "h02040026008"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced the Hebraized form 'parójet' with the Spanish common noun 'velo', keeping its definite article (h02040026008).",
+    "Removed the definite article before 'tienda de reunión' because the construct noun and the absolute noun carry no definite article in the source (h02040026005, h02040026006)."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

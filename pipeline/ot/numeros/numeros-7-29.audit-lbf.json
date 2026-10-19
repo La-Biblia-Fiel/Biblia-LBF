@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:29",
+  "chapter": 7,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos hijos de año cinco; esta ofrenda de Eliav hijo de Jelón.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007029002"
+      ],
+      "issue": "«pazes» is not the Spanish plural of paz, so the definite plural noun is only partly legible as that peace term.",
+      "spanishSpan": "pazes"
+    }
+  ],
+  "notes": "List, numbers, construct, and names match the tokens.",
+  "discardedUncitedFindings": 0
+}

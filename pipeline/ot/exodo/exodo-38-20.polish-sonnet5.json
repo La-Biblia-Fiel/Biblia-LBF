@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 38:20",
+  "chapter": 38,
+  "verse": 20,
+  "sourceDraft": "Y todas las estacas al mishkán y al atrio alrededor de bronce.",
+  "spanish": "Y todas las estacas al tabernáculo y al atrio alrededor, de bronce.",
+  "units": [
+    {
+      "es": "Y todas",
+      "sourceTokenIds": [
+        "h02038020001"
+      ]
+    },
+    {
+      "es": "las estacas",
+      "sourceTokenIds": [
+        "h02038020002"
+      ]
+    },
+    {
+      "es": "al tabernáculo",
+      "sourceTokenIds": [
+        "h02038020003"
+      ]
+    },
+    {
+      "es": "y al atrio",
+      "sourceTokenIds": [
+        "h02038020004"
+      ]
+    },
+    {
+      "es": "alrededor",
+      "sourceTokenIds": [
+        "h02038020005"
+      ]
+    },
+    {
+      "es": "de bronce",
+      "sourceTokenIds": [
+        "h02038020006"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated mishkán to the Spanish common noun tabernáculo (H4908 is a common noun, not a locked proper name).",
+    "Added a comma before 'de bronce' so bronze predicates estacas (the pegs), not 'alrededor', removing the unmarked-de misattachment."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

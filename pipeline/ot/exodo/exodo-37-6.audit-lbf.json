@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:6",
+  "chapter": 37,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo kappóret de oro puro; dos codos y medio su largo, y codo y medio su ancho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037006002"
+      ],
+      "issue": "Common noun left untranslated as kappóret; morphology is a common noun, not a proper name.",
+      "spanishSpan": "kappóret"
+    }
+  ],
+  "notes": "The making, pure gold, dual-plus-half length, and singular-plus-half width with 3fs suffixes match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

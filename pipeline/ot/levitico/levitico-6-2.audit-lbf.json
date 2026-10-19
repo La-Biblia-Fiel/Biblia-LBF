@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:2",
+  "chapter": 6,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Alma, cuando pecare y perpetrare perpetración en Jehová, y mintiere en su compañero en depósito, o en puesta de mano, o en robo, o oprimiere a su compañero,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006002004",
+        "h03006002005"
+      ],
+      "issue": "Qal מָעַל plus cognate noun מַעַל license a breach of faith. “perpetrare perpetración” keeps the cognate pair but drops that unfaithfulness and leaves only a generic act of committing.",
+      "spanishSpan": "perpetrare perpetración"
+    }
+  ],
+  "notes": "The rest tracks the tokens: Alma, cuando pecare, en Jehová, mintiere en su compañero, depósito, puesta de mano, robo, and oprimiere a su compañero.",
+  "discardedUncitedFindings": 0
+}

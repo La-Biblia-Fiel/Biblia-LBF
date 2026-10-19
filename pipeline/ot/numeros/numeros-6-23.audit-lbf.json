@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:23",
+  "chapter": 6,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a Aarón y a sus hijos, diciendo: Así bendigan a hijos de Israel; digan a ellos:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006023012"
+      ],
+      "issue": "אָמוֹר is qal infinitive absolute, with no person, number, or imperative; “digan” resolves it as a 2nd-person plural command.",
+      "spanishSpan": "digan"
+    }
+  ],
+  "notes": "“bendigan” is ustedes for the piel imperfect 2mp, not a third-party shift.",
+  "discardedUncitedFindings": 0
+}

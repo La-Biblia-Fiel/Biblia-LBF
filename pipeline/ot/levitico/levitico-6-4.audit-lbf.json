@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:4",
+  "chapter": 6,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "y será cuando pecare y culpado, y devolverá el robo que robó, o la opresión que oprimió, o el depósito que fue depositado con él, o la pérdida que halló,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006004004"
+      ],
+      "issue": "Qal sequential perfect 3ms (he becomes guilty) is a finite verb; Spanish leaves only the participle culpado, so the predicate, person, and sequential force drop out.",
+      "spanishSpan": "y culpado"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens, including hiphil devolverá and hophal fue depositado con él.",
+  "discardedUncitedFindings": 0
+}

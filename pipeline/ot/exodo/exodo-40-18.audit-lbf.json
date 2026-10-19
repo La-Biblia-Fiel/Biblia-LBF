@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:18",
+  "chapter": 40,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y levantó Moisés el mishkán, y dio sus basas, y puso sus tablas, y dio sus travesaños, y levantó sus columnas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040018004"
+      ],
+      "issue": "H4908 is a common noun (definite singular); mishkán leaves that lemma untranslated instead of Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Verbs, plural objects, 3ms suffixes, and Moisés match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

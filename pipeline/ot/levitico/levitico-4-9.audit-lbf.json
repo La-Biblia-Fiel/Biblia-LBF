@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:9",
+  "chapter": 4,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "y los dos los riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones la quitará,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004009005",
+        "h03004009012",
+        "h03004009014",
+        "h03004009017"
+      ],
+      "issue": "The 3fs object suffix matches the feminine singular lobe or liver, not the masculine singular fat. Spanish la agrees with la grasa, while el lóbulo and el hígado are masculine, so the removed participant shifts to the fat.",
+      "spanishSpan": "la grasa ... la quitará"
+    }
+  ],
+  "notes": "Los dos los riñones doubles the article without adding a concept.",
+  "discardedUncitedFindings": 0
+}

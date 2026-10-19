@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:8",
+  "chapter": 16,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y dará Aarón sobre los dos los machos cabríos suertes; suerte una a Jehová, y suerte una a Azazel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016008004",
+        "h03016008005"
+      ],
+      "issue": "The construct chain has one article, on the goats; the dual numeral is construct. Spanish repeats the article («los dos los»).",
+      "spanishSpan": "los dos los machos cabríos"
+    }
+  ],
+  "notes": "Verb, names, plural lots, and both singular lot phrases match the tokens.",
+  "discardedUncitedFindings": 0
+}

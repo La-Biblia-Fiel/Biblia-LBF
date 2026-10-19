@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:19",
+  "chapter": 4,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y toda su grasa alzará desde él, y hará humear hacia el altar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004019005"
+      ],
+      "issue": "The suffix is 1st common plural (from us); Spanish «él» is 3rd masculine singular.",
+      "spanishSpan": "él"
+    }
+  ],
+  "notes": "The other tokens match: conjunctions, object marker, all his fat, hiphil he-will-lift, hiphil he-will-cause-to-smoke, and the altar with directional he.",
+  "discardedUncitedFindings": 0
+}

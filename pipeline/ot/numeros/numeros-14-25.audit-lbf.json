@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:25",
+  "chapter": 14,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y el amaleqita y el cananeo habitante en el valle; mañana vuelvan faces y partan para ustedes el desierto, camino de mar de Suf.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014025006"
+      ],
+      "issue": "פְּנוּ is only the qal imperative 2mp “turn.” The Spanish adds the noun “faces,” which no token licenses.",
+      "spanishSpan": "faces"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014025012"
+      ],
+      "issue": "סוּף is a common noun (HNcmsa), not a proper name. “Suf” leaves that lemma untranslated and treats it as a name.",
+      "spanishSpan": "Suf"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04014025004"
+      ],
+      "issue": "בָּעֵמֶק has a preposition and an anarthrous noun. “el valle” supplies a definite article the morphology does not mark.",
+      "spanishSpan": "el valle"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04014025007",
+        "h04014025009"
+      ],
+      "issue": "וּסְעוּ is qal imperative “set out,” and הַמִּדְבָּר is its destination. “partan … el desierto” can be read as dividing the wilderness.",
+      "spanishSpan": "partan para ustedes el desierto"
+    }
+  ],
+  "notes": "2mp imperatives as ustedes (vuelvan, partan, ustedes) match the address; the other tokens are represented.",
+  "discardedUncitedFindings": 0
+}

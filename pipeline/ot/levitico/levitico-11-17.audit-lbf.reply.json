@@ -1,0 +1,26 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011017002",
+        "h03011017004",
+        "h03011017006"
+      ],
+      "issue": "Common nouns (definite singular) are left as untranslated Hebrew-shaped words instead of Spanish common nouns.",
+      "spanishSpan": "kos y el shalaj y el yanshuf"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011017001",
+        "h03011017003",
+        "h03011017005"
+      ],
+      "issue": "Each וְאֶת contributes ו as y; the direct-object marker is not lexicalized. Grammatical smoothing with no added participant or concept.",
+      "spanishSpan": "y"
+    }
+  ],
+  "notes": "Articles and conjunctions match; the three common-noun heads are transliterated."
+}

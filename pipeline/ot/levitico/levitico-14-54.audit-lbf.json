@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:54",
+  "chapter": 14,
+  "verse": 54,
+  "candidateLabel": "lbf",
+  "spanish": "Esta la torá a toda plaga de la tsaráat y al neteq,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014054002"
+      ],
+      "issue": "Common noun הַתּוֹרָה left as untranslated torá; common nouns stay Spanish.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014054005"
+      ],
+      "issue": "Common noun הַצָּרַעַת left as untranslated tsaráat; common nouns stay Spanish.",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014054006"
+      ],
+      "issue": "Common noun נָתֶק left as untranslated neteq; common nouns stay Spanish.",
+      "spanishSpan": "neteq"
+    }
+  ],
+  "notes": "Demonstrative, article, construct, conjunction, and both lameds match; verbless clause has no supplied copula.",
+  "discardedUncitedFindings": 0
+}

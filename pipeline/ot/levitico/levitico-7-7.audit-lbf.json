@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:7",
+  "chapter": 7,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Como el pecado, como la culpa, torá una a ellos; el sacerdote que expiará en él, a él será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007007003"
+      ],
+      "issue": "תּוֹרָה is a common noun (H8451), not a name; torá leaves the lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007007001",
+        "h03007007002"
+      ],
+      "issue": "Definite articles el and la are not in the morphology (no article; contrast הַ on the priest). Grammatical smoothing if they do not make the nouns specific.",
+      "spanishSpan": "el pecado, la culpa"
+    }
+  ],
+  "notes": "Remaining tokens match in number, person, kaf repetition, numeral, and suffixes.",
+  "discardedUncitedFindings": 0
+}

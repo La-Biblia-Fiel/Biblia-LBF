@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:32",
+  "chapter": 19,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "De faces de canas te levantarás, y honrarás faces de anciano, y temerás desde tu Dios; yo Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019032003"
+      ],
+      "issue": "Unmarked supplied clitic te has no token; qal imperfect 2ms is simply you-shall-rise, and the clitic adds a reflexive the stem does not license.",
+      "spanishSpan": "te"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019032002"
+      ],
+      "issue": "Feminine singular gray-hair noun is rendered with the Spanish plural-form noun canas; the concept is unchanged.",
+      "spanishSpan": "canas"
+    }
+  ],
+  "notes": "faces (twice), tú futures, honrar, anciano, desde tu Dios, and verbless yo Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

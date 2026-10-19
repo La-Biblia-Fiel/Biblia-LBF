@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:25",
+  "chapter": 4,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y alzarán cortinas del mishkán y tienda de reunión, su cubierta, y cubierta del tahash que sobre él desde arriba, y el masaj de abertura de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004025004"
+      ],
+      "issue": "הַמִּשְׁכָּן is a common noun (definite masculine singular), left untranslated as mishkán.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004025010"
+      ],
+      "issue": "הַתַּחַשׁ is a common noun (definite masculine singular), left untranslated as tahash.",
+      "spanishSpan": "tahash"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004025015"
+      ],
+      "issue": "מָסַךְ is a common noun (masculine singular construct), left untranslated as masaj.",
+      "spanishSpan": "masaj"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04004025015"
+      ],
+      "issue": "Masculine singular construct has no article; Spanish adds el.",
+      "spanishSpan": "el"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens, including the verbless אשר עליו מלמעלה.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:9",
+  "chapter": 22,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y guardarán mi guarda, y no llevarán sobre él pecado, y morirán en él porque lo profanaren; yo Jehová su santificante.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022009011"
+      ],
+      "issue": "Piel imperfect 3mp is indicative; future subjunctive profanaren adds contingent mood the morphology does not mark.",
+      "spanishSpan": "profanaren"
+    }
+  ],
+  "notes": "Person, number, stems, suffixes, Jehová, and the verbless close match the tokens.",
+  "discardedUncitedFindings": 0
+}

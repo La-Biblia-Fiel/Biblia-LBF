@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:2",
+  "chapter": 11,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Hablen a hijos de Israel, diciendo: Esta es la bestia viva que comerán desde todo el animal que sobre la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011002006",
+        "h03011002007"
+      ],
+      "issue": "«es» is an unmarked supplied copula; זֹאת הַחַיָּה has no verb token.",
+      "spanishSpan": "es"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011002007"
+      ],
+      "issue": "One definite feminine singular noun is rendered as noun plus adjective; «viva» may add a quality the single noun does not mark separately.",
+      "spanishSpan": "bestia viva"
+    }
+  ],
+  "notes": "Hablen and comerán are ustedes forms of the 2mp imperative and imperfect.",
+  "discardedUncitedFindings": 0
+}

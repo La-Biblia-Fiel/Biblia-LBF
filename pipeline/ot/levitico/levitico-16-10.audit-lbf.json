@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:10",
+  "chapter": 16,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y el macho cabrío sobre el cual subió sobre él la suerte a Azazel, será parado vivo delante de Jehová para expiar sobre él, para enviar a él a Azazel al desierto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016010002",
+        "h03016010004"
+      ],
+      "issue": "One עליו is rendered twice: the preposition is already inside «sobre el cual» and then repeated as «sobre él».",
+      "spanishSpan": "sobre el cual subió sobre él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016010007"
+      ],
+      "issue": "Hophal imperfect of עמד licenses be made to stand / be presented; «será parado» can be read as be stopped.",
+      "spanishSpan": "será parado"
+    }
+  ],
+  "notes": "Other tokens match: the goat, the lot to Azazel, alive before Jehová, atone over him, send him to Azazel toward the wilderness.",
+  "discardedUncitedFindings": 0
+}

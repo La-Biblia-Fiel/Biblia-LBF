@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:19",
+  "chapter": 22,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "a su agrado: íntegro macho, en el ganado, en los corderos y en las cabras.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022019004"
+      ],
+      "issue": "«ganado» can mean livestock in general; H1241 is the cattle herd, a class beside the lambs and the goats.",
+      "spanishSpan": "ganado"
+    }
+  ],
+  "notes": "2mp suffix is su, the ustedes possessive; ב is left open as en.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 2:18",
+  "chapter": 2,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Bandera de campamento de Efraín a sus ejércitos yamah; y príncipe a hijos de Efraín, Elishamá hijo de Amihud.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04002018005"
+      ],
+      "issue": "Common noun יָמָּה (H3220, masculine singular + directional suffix) is left as the untranslated form yamah. The token licenses sea plus direction toward it, not a dumped lemma.",
+      "spanishSpan": "yamah"
+    }
+  ],
+  "notes": "Remaining tokens match number, person, constructs, and the locked name Efraín.",
+  "discardedUncitedFindings": 0
+}

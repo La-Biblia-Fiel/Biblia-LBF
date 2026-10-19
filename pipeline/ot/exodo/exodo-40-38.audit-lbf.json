@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:38",
+  "chapter": 40,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "Porque la nube de Jehová sobre el mishkán de día, y fuego será de noche en él, a ojos de toda casa de Israel en todos sus viajes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040038005"
+      ],
+      "issue": "Common noun הַמִּשְׁכָּן (H4908, definite common noun) is left as the untranslated lemma mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02040038009"
+      ],
+      "issue": "Absolute noun לַיְלָה is smoothed as the prepositional time phrase de noche.",
+      "spanishSpan": "de noche"
+    }
+  ],
+  "notes": "Day clause stays verbless; será stays with the fire clause and en él matches בו.",
+  "discardedUncitedFindings": 0
+}

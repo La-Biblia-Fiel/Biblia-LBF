@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:23",
+  "chapter": 26,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y si en estas no son disciplinados a mí, y andan conmigo en contrario,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026023008"
+      ],
+      "issue": "קרי is a bare absolute singular noun of manner; en is an unmarked preposition that only lets that noun modify andan.",
+      "spanishSpan": "en contrario"
+    }
+  ],
+  "notes": "2mp Niphal and qal match ustedes-compatible son/andan; לִי and עִמִּי stay 1cs.",
+  "discardedUncitedFindings": 0
+}

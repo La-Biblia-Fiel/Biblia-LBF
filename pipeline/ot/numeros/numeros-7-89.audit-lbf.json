@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:89",
+  "chapter": 7,
+  "verse": 89,
+  "candidateLabel": "lbf",
+  "spanish": "Y en entrar Moisés a tienda de reunión a hablar con él, y oyó la voz hablando a él desde sobre la kappóret que sobre arca del testimonio, desde entre los dos los querubines, y habló a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007089014"
+      ],
+      "issue": "Common noun (not a proper name) left untranslated as kappóret.",
+      "spanishSpan": "kappóret"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007089020",
+        "h04007089021"
+      ],
+      "issue": "The dual construct cardinal has no article; the article is only on the cherubim. Spanish repeats it in «los dos los».",
+      "spanishSpan": "los dos los querubines"
+    }
+  ],
+  "notes": "Person, number, and the remaining prepositions match the packet.",
+  "discardedUncitedFindings": 0
+}

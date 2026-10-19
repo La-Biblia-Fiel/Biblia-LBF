@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:17",
+  "chapter": 14,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y desde resto del aceite que sobre su palma dará el sacerdote sobre lóbulo de oreja del que se purifica la derecha, y sobre pulgar de su mano la derecha, y sobre pulgar de su pie el derecho, sobre sangre de la culpa.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014017003",
+        "h03014017004",
+        "h03014017005",
+        "h03014017006"
+      ],
+      "issue": "אשר על־כפו is a verbless relative locating the oil on his palm; יתן is the main verb. «que sobre su palma dará» pulls that verb into the relative, so the priest gives the oil onto his palm.",
+      "spanishSpan": "que sobre su palma dará el sacerdote"
+    }
+  ],
+  "notes": "Other tokens match in number, person, stem, and participants.",
+  "discardedUncitedFindings": 0
+}

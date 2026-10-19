@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 12:8",
+  "chapter": 12,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Boca a boca hablaré en él, y visión, y no en enigmas, y figura de Jehová mirará; y ¿por qué no temieron ustedes hablar en mi siervo, en Moisés?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012008009",
+        "h04012008010",
+        "h04012008011"
+      ],
+      "issue": "Spanish order makes figura de Jehová the subject of mirará. The verb is 3ms and the feminine construct is what is looked at, so the phrase is not the looker.",
+      "spanishSpan": "figura de Jehová mirará"
+    }
+  ],
+  "notes": "Other tokens match in number, person, prepositions, and names.",
+  "discardedUncitedFindings": 0
+}

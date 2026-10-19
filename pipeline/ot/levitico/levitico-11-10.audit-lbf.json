@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:10",
+  "chapter": 11,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y todo lo que no a él aleta y escama en los mares y en los torrentes, desde todo reptil de las aguas y desde toda alma la viva que en las aguas, abominación ellos a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011010010"
+      ],
+      "issue": "«reptil» fija la clase zoológica reptil; שֶׁרֶץ es un ser que pulula o se arrastra, no esa clase",
+      "spanishSpan": "reptil"
+    }
+  ],
+  "notes": "El resto del verso conserva número, persona, artículo y la cláusula sin cópula.",
+  "discardedUncitedFindings": 0
+}

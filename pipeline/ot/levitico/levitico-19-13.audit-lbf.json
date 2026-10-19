@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:13",
+  "chapter": 19,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "No oprimirás a tu prójimo, y no robarás; no pernoctará salario de jornalero contigo hasta mañana.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019013013"
+      ],
+      "issue": "בֹּקֶר is the noun morning; «hasta mañana» states tomorrow and drops morning.",
+      "spanishSpan": "mañana"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019013010"
+      ],
+      "issue": "שָׂכִיר is the adjective hired (hireling by the day or the year); «jornalero» narrows it to a day-laborer.",
+      "spanishSpan": "jornalero"
+    }
+  ],
+  "notes": "Person, number, and qal force match; «salario» stays inside the wages sense of פְּעֻלָּה.",
+  "discardedUncitedFindings": 0
+}

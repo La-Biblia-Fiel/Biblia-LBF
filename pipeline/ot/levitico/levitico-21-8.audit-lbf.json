@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 21:8",
+  "chapter": 21,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo santificarás, porque pan de tu Dios él acercante; santo será a ti, porque santo yo Jehová su santificante.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03021008015"
+      ],
+      "issue": "Piel participle suffix is 2nd masculine plural. su, with él/lo as the only antecedent, is a third-person possessive, so the one sanctified shifts from you-plural to the priest.",
+      "spanishSpan": "su santificante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03021008010"
+      ],
+      "issue": "Suffix is 2nd feminine singular; a ti does not mark feminine.",
+      "spanishSpan": "a ti"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03021008007"
+      ],
+      "issue": "Hiphil participle is causative (bring near). acercante can be heard as intransitive approach.",
+      "spanishSpan": "acercante"
+    }
+  ],
+  "notes": "Weqatal 2ms + 3ms, both קדש adjectives, Jehová, and Dios match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 3:15",
+  "chapter": 3,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "y los dos los riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones la quitará.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03003015002",
+        "h03003015003"
+      ],
+      "issue": "Doubled definite article: «los dos los riñones». The feminine dual construct plus the articulated plural noun license one phrase, the two kidneys.",
+      "spanishSpan": "los dos los riñones"
+    }
+  ],
+  "notes": "Fat, both relatives, loins, lobe, liver, kidneys, and hiphil 3ms + 3fs suffix match the tokens.",
+  "discardedUncitedFindings": 0
+}

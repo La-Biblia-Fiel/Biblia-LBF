@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:26",
+  "chapter": 26,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "En mi quebrar a ustedes vara de pan, y cocerán diez mujeres su pan en un horno, y devolverán su pan en peso, y comerán, y no se saciarán.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026026008",
+        "h03026026012"
+      ],
+      "issue": "The 2mp suffix on both “bread” tokens is ustedes-possession, but “su pan” after “diez mujeres” can be read as the women’s bread.",
+      "spanishSpan": "su pan"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026026014",
+        "h03026026016"
+      ],
+      "issue": "“comerán” and “se saciarán” are licensed ustedes forms for the 2mp verbs, but with no stated subject they can continue the 3rd-person “diez mujeres.”",
+      "spanishSpan": "comerán, y no se saciarán"
+    }
+  ],
+  "notes": "Break, staff-of-bread, ten women, one oven, hiphil return, weight, eat, and not-be-sated stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:12",
+  "chapter": 7,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Si sobre agradecimiento lo acercare, y acercará sobre sacrificio del agradecimiento tortas ázimas amasadas en el aceite, y obleas ázimas untadas en el aceite, y sólet remojada, tortas amasadas en el aceite.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007012017"
+      ],
+      "issue": "H5560 is a common noun (fine flour); sólet leaves it as an untranslated Hebrew form.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007012011",
+        "h03007012020"
+      ],
+      "issue": "Qal passive participles of H1101 license mixed/mingled; amasadas narrows that to kneading.",
+      "spanishSpan": "amasadas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007012018"
+      ],
+      "issue": "Hophal passive participle of H7246 stays open between mixed/stirred and soaked; remojada resolves it to soaking.",
+      "spanishSpan": "remojada"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007012004"
+      ],
+      "issue": "Hiphil imperfect 3ms is put in the future subjunctive; that mood is not in the yiqtol, and acercare is also the 1st-person form.",
+      "spanishSpan": "acercare"
+    }
+  ],
+  "notes": "Other tokens keep number, participants, article, construct, and the three בשמן phrases.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 10:29",
+  "chapter": 10,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Moisés a Hobab hijo de Reuel el midyaní, suegro de Moisés: Partientes somos nosotros al lugar que dijo Jehová: A él daré a ustedes; anda con nosotros, y haremos bien a ti, porque Jehová ha hablado bien sobre Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04010029009",
+        "h04010029010"
+      ],
+      "issue": "somos is an unmarked supplied copula; the clause is a verbless participle plus pronoun",
+      "spanishSpan": "somos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04010029006"
+      ],
+      "issue": "Gentilic common noun is left as the Hebraized form midyaní instead of Spanish",
+      "spanishSpan": "el midyaní"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04010029016",
+        "h04010029012"
+      ],
+      "issue": "A él treats the direct object (the place) as a personal male recipient, so the thing given is no longer the place",
+      "spanishSpan": "A él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04010029022"
+      ],
+      "issue": "2fs suffix is smoothed to gender-neutral a ti; person and number stay 2sg",
+      "spanishSpan": "a ti"
+    }
+  ],
+  "notes": "ustedes matches the 2mp suffix; suegro matches the pointed participle חֹתֵן.",
+  "discardedUncitedFindings": 0
+}

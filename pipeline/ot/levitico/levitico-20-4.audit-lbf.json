@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:4",
+  "chapter": 20,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y si de ocultar ocultaren pueblo de la tierra sus ojos desde el varón aquel, en su dar desde su semilla a Moloc, para no matar a él,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020004002"
+      ],
+      "issue": "Unmarked «de» has no token; the hiphil infinitive absolute licenses ocultar, not a preposition.",
+      "spanishSpan": "de"
+    }
+  ],
+  "notes": "The other words track the packet, including plural ocultaren, semilla, and Moloc.",
+  "discardedUncitedFindings": 0
+}

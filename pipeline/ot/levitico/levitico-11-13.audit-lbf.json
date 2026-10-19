@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:13",
+  "chapter": 11,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y estas abominarán desde el ave; no serán comidos, abominación ellos: el nesher y el peres y la ozniah,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011013001",
+        "h03011013002",
+        "h03011013003"
+      ],
+      "issue": "את marks אלה as object and תשקצו is piel imperfect 2mp; Spanish makes estas the subject of abominarán, so the addressees no longer act and these become a third party.",
+      "spanishSpan": "estas abominarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011013011",
+        "h03011013013",
+        "h03011013015"
+      ],
+      "issue": "Common nouns are left as untranslated lemmas nesher, peres, and ozniah.",
+      "spanishSpan": "el nesher y el peres y la ozniah"
+    }
+  ],
+  "notes": "Negation, niphal 3mp, verbless שקץ הם, singular העוף, and list gender/number match the tokens.",
+  "discardedUncitedFindings": 0
+}

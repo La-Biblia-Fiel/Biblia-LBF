@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:2",
+  "chapter": 4,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a hijos de Israel, diciendo: Alma, cuando peque por error desde todos mandamientos de Jehová que no se harán, y hiciere desde una desde ellas:",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004002007"
+      ],
+      "issue": "cuando selects a temporal sense of the conjunction; morphology only marks conjunction, so conditional and causal senses stay open",
+      "spanishSpan": "cuando"
+    }
+  ],
+  "notes": "Remaining Spanish tracks the packet tokens, including both min phrases and the niphal versus qal contrast.",
+  "discardedUncitedFindings": 0
+}

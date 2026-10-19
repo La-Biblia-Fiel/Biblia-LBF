@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:35",
+  "chapter": 7,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Y a sacrificio de los pazes: ganado dos, carneros cinco, chivos cinco, corderos hijos de año cinco; esta ofrenda de Elitsur hijo de Shedéur.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007035013",
+        "h04007035014"
+      ],
+      "issue": "זה is masculine singular with masculine קרבן; esta agrees with feminine ofrenda. Grammatical smoothing; the referent is unchanged.",
+      "spanishSpan": "esta ofrenda"
+    }
+  ],
+  "notes": "Counts, species slots, constructs, and unlocked names Elitsur and Shedéur stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

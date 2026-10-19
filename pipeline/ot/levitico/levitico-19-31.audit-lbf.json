@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:31",
+  "chapter": 19,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "No se vuelvan a los evocadores y a los adivinos; no busquen para contaminarse en ellos; yo Jehová su Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019031004"
+      ],
+      "issue": "«evocadores» turns definite plural noun H178 into human agents who evoke and adds the act of evoking; the lemma stays open between the spirit and the practitioner.",
+      "spanishSpan": "los evocadores"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019031006"
+      ],
+      "issue": "«adivinos» turns definite plural noun H3049 into human fortune-tellers and adds divination; the lemma stays open between a knowing specialist and a ghost.",
+      "spanishSpan": "los adivinos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019031002"
+      ],
+      "issue": "Pronominal «se vuelvan» smooths a qal jussive of turn; the stem is not reflexive.",
+      "spanishSpan": "se vuelvan"
+    }
+  ],
+  "notes": "Verbless «yo Jehová su Dios» matches the clause; ustedes «su» keeps the 2mp suffix.",
+  "discardedUncitedFindings": 0
+}

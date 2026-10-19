@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:57",
+  "chapter": 13,
+  "verse": 57,
+  "candidateLabel": "lbf",
+  "spanish": "Y si aún se viere en el vestido o en la urdimbre o en la trama o en todo utensilio de piel, brotante ella; en el fuego la quemarás, lo que en él la plaga.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013057016"
+      ],
+      "issue": "El sufijo de quemar es 3ms; «la» hace femenino el objeto quemado.",
+      "spanishSpan": "la quemarás"
+    }
+  ],
+  "notes": "El resto del versículo sigue los tokens, incluida la cláusula sin cópula.",
+  "discardedUncitedFindings": 0
+}

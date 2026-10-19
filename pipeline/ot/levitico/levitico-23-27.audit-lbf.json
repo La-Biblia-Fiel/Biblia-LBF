@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:27",
+  "chapter": 23,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Solo en el diez al mes el séptimo este, día de las expiaciones él; convocación de santidad será a ustedes, y humillarán sus almas, y acercarán ofrenda de fuego a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023027001"
+      ],
+      "issue": "אַךְ está marcado solo como afirmación; «Solo» cierra el sentido restrictivo y deja fuera el afirmativo.",
+      "spanishSpan": "Solo"
+    }
+  ],
+  "notes": "El resto del versículo conserva número, persona, stems y el pronombre הוּא.",
+  "discardedUncitedFindings": 0
+}

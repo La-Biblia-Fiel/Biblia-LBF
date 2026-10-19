@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:10",
+  "chapter": 25,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y santificarán año de los cincuenta año, y proclamarán libertad en la tierra a todos sus habitantes; yovel ella será a ustedes, y volverán varón a su posesión, y varón a su familia volverán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025010011"
+      ],
+      "issue": "יוֹבֵל (H3104) is a common noun left as the untranslated lemma yovel; common nouns stay Spanish.",
+      "spanishSpan": "yovel"
+    }
+  ],
+  "notes": "2mp verbs match ustedes forms; ella matches the 3fs pronoun.",
+  "discardedUncitedFindings": 0
+}

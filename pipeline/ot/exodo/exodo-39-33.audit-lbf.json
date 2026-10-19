@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:33",
+  "chapter": 39,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y trajeron el mishkán a Moisés, la tienda y todos sus utensilios: sus ganchos, sus tablas y sus columnas y sus basas,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039033003"
+      ],
+      "issue": "H4908 is a common noun (definite masculine singular) and is left untranslated as mishkán.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Y trajeron, a Moisés, la tienda, and the suffixed plural list match the packet.",
+  "discardedUncitedFindings": 0
+}

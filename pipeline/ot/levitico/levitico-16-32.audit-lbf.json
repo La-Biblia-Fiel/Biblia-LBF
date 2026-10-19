@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:32",
+  "chapter": 16,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y expiará el sacerdote que ungirá a él, y que llenará su mano para sacerdotear en lugar de su padre, y vestirá los vestidos del lino, vestidos del santo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016032002",
+        "h03016032003",
+        "h03016032004",
+        "h03016032005"
+      ],
+      "issue": "The resumptive object אתו marks the priest as the one anointed by a 3ms subject; «que ungirá a él» makes the priest the anointer and él another person.",
+      "spanishSpan": "el sacerdote que ungirá a él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016032018"
+      ],
+      "issue": "הַקֹּדֶשׁ is a common noun (holiness, set-apart thing, or sanctuary); «del santo» can be heard as a holy person.",
+      "spanishSpan": "del santo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016032011"
+      ],
+      "issue": "«en lugar de» selects the substitution sense; the token is marked only as a preposition, so a spatial under-reading stays open.",
+      "spanishSpan": "en lugar de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016032017",
+        "h03016032018"
+      ],
+      "issue": "The second construct is definite through the article on הַקֹּדֶשׁ; the second vestidos has no article.",
+      "spanishSpan": "vestidos del santo"
+    }
+  ],
+  "notes": "Sequential perfects as future, singular mano, and literal llenará su mano stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

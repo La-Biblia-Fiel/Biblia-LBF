@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:32",
+  "chapter": 14,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Esta torá del que en él plaga de tsaráat, que no alcanzare su mano en su purificación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014032002"
+      ],
+      "issue": "תּוֹרַת is a common noun (construct), dumped untranslated as torá; common nouns stay Spanish.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014032006"
+      ],
+      "issue": "צָרָ֑עַת is a common noun (absolute), dumped untranslated as tsaráat; common nouns stay Spanish.",
+      "spanishSpan": "tsaráat"
+    }
+  ],
+  "notes": "Demonstrative, relatives, בּוֹ, construct נֶגַע, negation, hiphil 3fs with יָד as subject, and בְּטָהֳרָתוֹ match.",
+  "discardedUncitedFindings": 0
+}

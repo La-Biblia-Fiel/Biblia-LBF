@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:31",
+  "chapter": 11,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y viento partió de parte de Jehová, y barrió codornices desde el mar, y las dejó sobre el campamento como camino de día así y como camino de día así alrededor del campamento, y como dos codos sobre faz de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04011031005"
+      ],
+      "issue": "H1468 licenses shear off / cut off / bring (rapid passage). «barrió» adds a sweeping action the lemma does not.",
+      "spanishSpan": "barrió"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011031003"
+      ],
+      "issue": "מֵאֵת is from-with / from the presence. «de parte de» can be read as on behalf of.",
+      "spanishSpan": "de parte de"
+    }
+  ],
+  "notes": "Jehová, the repeated כה, dual dos codos, and the article pattern match the tokens.",
+  "discardedUncitedFindings": 0
+}

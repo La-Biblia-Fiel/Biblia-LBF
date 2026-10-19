@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:30",
+  "chapter": 13,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "y verá el sacerdote la plaga, y he aquí su apariencia profunda desde la piel, y en él pelo amarillo fino, y lo impurecerá el sacerdote; neteq él; tsaráat de la cabeza o de la barba él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013030017"
+      ],
+      "issue": "Common noun H5424 (absolute) is left as the untranslated transcription neteq; common nouns stay Spanish.",
+      "spanishSpan": "neteq"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013030019"
+      ],
+      "issue": "Common noun H6883 (construct) is left as the untranslated transcription tsaráat; common nouns stay Spanish.",
+      "spanishSpan": "tsaráat"
+    }
+  ],
+  "notes": "Remaining clauses track the tokens, including both pronouns and the construct of head or beard.",
+  "discardedUncitedFindings": 0
+}

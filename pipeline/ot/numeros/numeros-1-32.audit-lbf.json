@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:32",
+  "chapter": 1,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "A hijos de José, a hijos de Efraín, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001032015",
+        "h04001032016",
+        "h04001032017"
+      ],
+      "issue": "כל governs the masculine singular qal participle יצא, and that participle is construct over צבא (each one who goes out, with the army as the governed noun). 'todo saliente ejército' makes ejército the head and saliente an adjective of it, so the army is what goes out.",
+      "spanishSpan": "todo saliente ejército"
+    }
+  ],
+  "notes": "The rest of the verse keeps both 'a hijos de', the 3mp suffixes, singular בן/שנה, and the proper names José and Efraín.",
+  "discardedUncitedFindings": 0
+}

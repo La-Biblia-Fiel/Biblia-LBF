@@ -1899,7 +1899,7 @@ Y dijo Jehová a Moisés: Escribe esto memorial en el libro, y pon en oídos de 
 
 ### 17:15
 
-Y edificó Moisés altar, y llamó su nombre Jehová nisi.
+Y edificó Moisés altar, y llamó su nombre Jehová mi estandarte.
 
 ### 17:16
 
@@ -1925,7 +1925,7 @@ Y nombre del uno Eliézer, porque Dios de mi padre en mi ayuda, y me libró de e
 
 ### 18:5
 
-Y vino Yitró, suegro de Moisés, y sus hijos y su mujer, a Moisés, al desierto que él acampante allí, monte de Dios.
+Y vino Yitró, suegro de Moisés, y sus hijos y su mujer, a Moisés, al desierto que él acampaba allí, monte de Dios.
 
 ### 18:6
 
@@ -1937,7 +1937,7 @@ Y salió Moisés al encuentro de su suegro, y se postró y besó a él, y pregun
 
 ### 18:8
 
-Y contó Moisés a su suegro todo lo que hizo Jehová a Faraón y a Egipto sobre asuntos de Israel, toda la fatiga que los halló en el camino, y los libró Jehová.
+Y contó Moisés a su suegro todo lo que hizo Jehová a Faraón y a Egipto a causa de Israel, toda la fatiga que los halló en el camino, y los libró Jehová.
 
 ### 18:9
 
@@ -1969,7 +1969,7 @@ Y dijo Moisés a su suegro: Porque viene a mí el pueblo a inquirir a Dios.
 
 ### 18:16
 
-Porque será a ellos palabra, viene a mí, y juzgo entre varón y entre su compañero, y hago conocer estatutos de Dios y sus torás.
+Porque será a ellos palabra, vino a mí, y juzgaré entre varón y entre su compañero, y haré conocer estatutos de Dios y sus leyes.
 
 ### 18:17
 
@@ -1981,15 +1981,15 @@ Desgastando te desgastarás, también tú, también este pueblo que contigo, por
 
 ### 18:19
 
-Ahora, oye en mi voz; te aconsejaré, y será Dios contigo: sé tú al pueblo enfrente de Dios, y harás venir tú las palabras a Dios.
+Ahora, oye en mi voz; te aconsejaré, y sea Dios contigo: sé tú al pueblo enfrente de Dios, y harás venir tú las palabras a Dios.
 
 ### 18:20
 
-Y advertirás a ellos los estatutos y las torás, y harás conocer a ellos el camino andarán en él y la obra que harán.
+Y les advertirás a ellos los estatutos y las leyes, y les harás conocer a ellos el camino, andarán en él, y la obra que harán.
 
 ### 18:21
 
-Y tú verás desde todo el pueblo varones de fuerza, temerosos de Dios, varones de verdad, aborrecedores de ganancia injusta, y pondrás sobre ellos príncipes de miles, príncipes de cientos, príncipes de cincuenta y príncipes de dieces.
+Y tú verás desde todo el pueblo varones de fuerza, temerosos de Dios, varones de verdad, aborrecedores de ganancia, y pondrás sobre ellos príncipes de miles, príncipes de cientos, príncipes de cincuenta y príncipes de dieces.
 
 ### 18:22
 
@@ -2043,7 +2043,7 @@ Y ustedes serán a mí reino de sacerdotes y nación santa. Estas las palabras q
 
 ### 19:7
 
-Y vino Moisés, y llamó a ancianos del pueblo, y puso delante de ellos todas las palabras estas que le mandó Jehová.
+Y vino Moisés, y llamó a los ancianos del pueblo, y puso delante de ellos todas las palabras estas que le mandó Jehová.
 
 ### 19:8
 
@@ -2067,7 +2067,7 @@ Y limitarás al pueblo alrededor, diciendo: Guárdense a ustedes de subir en el 
 
 ### 19:13
 
-No tocará en él mano, porque apedreando será apedreado o flechando será flechado; si bestia, si varón, no vivirá. En tirar el yovel, ellos subirán en el monte.
+No tocará en él mano, porque apedreando será apedreado o arrojando será arrojado; si bestia, si varón, no vivirá. Al prolongar el cuerno, ellos subirán en el monte.
 
 ### 19:14
 
@@ -2079,7 +2079,7 @@ Y dijo al pueblo: Sean preparados a tres días; no se acerquen a mujer.
 
 ### 19:16
 
-Y fue en el día el tercero, en ser la mañana, y fue voces y relámpagos y nube pesada sobre el monte, y voz de shofar fuerte mucho, y tembló todo el pueblo que en el campamento.
+Y fue en el día el tercero, en ser la mañana, y fue voces y relámpagos y nube pesada sobre el monte, y voz de trompeta fuerte mucho, y tembló todo el pueblo que en el campamento.
 
 ### 19:17
 
@@ -2111,7 +2111,7 @@ Y dijo Moisés a Jehová: No puede el pueblo subir a monte Sinai, porque tú amo
 
 ### 19:24
 
-Y dijo a él Jehová: Anda, desciende, y subirás tú y Aarón contigo, y los sacerdotes y el pueblo no irrumpan a subir a Jehová, no sea que prorrumpa en ellos.
+Y dijo a él Jehová: Anda, desciende, y subirás tú y Aarón contigo, y los sacerdotes y el pueblo no rompan a subir a Jehová, no sea que prorrumpa en ellos.
 
 ### 19:25
 
@@ -2149,7 +2149,7 @@ No alzarás el nombre de Jehová tu Dios a la vanidad, porque no dejará limpio 
 
 ### 20:8
 
-Acordar el día del shabat para santificarlo.
+Recordar el día del sábado para santificarlo.
 
 ### 20:9
 
@@ -2157,15 +2157,15 @@ Seis días servirás, y harás toda tu obra.
 
 ### 20:10
 
-Y día el séptimo shabat a Jehová tu Dios; no harás toda obra, tú y tu hijo y tu hija, tu siervo y tu sierva y tu bestia y tu peregrino que en tus puertas.
+Y día el séptimo sábado a Jehová tu Dios; no harás ninguna obra, tú y tu hijo y tu hija, tu siervo y tu sierva y tu bestia y tu extranjero que en tus puertas.
 
 ### 20:11
 
-Porque seis días hizo Jehová los cielos y la tierra, el mar y todo lo que en ellos, y reposó en el día el séptimo; por eso bendijo Jehová el día del shabat, y lo santificó.
+Porque seis días hizo Jehová los cielos y la tierra, el mar y todo lo que en ellos, y reposó en el día séptimo; por eso bendijo Jehová el día del sábado, y lo santificó.
 
 ### 20:12
 
-Honra a tu padre y a tu madre, a fin de que se alarguen tus días sobre el suelo que Jehová tu Dios dando a ti.
+Honra a tu padre y a tu madre, a fin de que se alarguen tus días sobre el suelo que Jehová tu Dios te da.
 
 ### 20:13
 
@@ -2181,7 +2181,7 @@ No hurtarás.
 
 ### 20:16
 
-No responderás en tu compañero testigo de mentira.
+No responderás testigo de mentira contra tu compañero.
 
 ### 20:17
 
@@ -2189,7 +2189,7 @@ No codiciarás casa de tu compañero; no codiciarás mujer de tu compañero, y s
 
 ### 20:18
 
-Y todo el pueblo viendo las voces y las antorchas y voz del shofar y el monte humeante; y vio el pueblo, y se estremecieron, y se pararon desde lejos.
+Y todo el pueblo viendo las voces y las antorchas y la voz de la bocina y el monte humeante; y vio el pueblo, y se estremecieron, y se pararon desde lejos.
 
 ### 20:19
 
@@ -2201,7 +2201,7 @@ Y dijo Moisés al pueblo: No teman, porque a causa de probar a ustedes vino Dios
 
 ### 20:21
 
-Y se paró el pueblo desde lejos, y Moisés se acercó a la densura que allí Dios.
+Y se paró el pueblo desde lejos, y Moisés se acercó a la densa oscuridad que allí *estaba* Dios.
 
 ### 20:22
 
@@ -2213,11 +2213,11 @@ No harán conmigo dioses de plata y dioses de oro; no harán a ustedes.
 
 ### 20:24
 
-Altar de suelo harás a mí, y sacrificarás sobre él tus holocaustos y tus pazes, tu rebaño y tu ganado; en todo el lugar que haré recordar mi nombre, vendré a ti y te bendeciré.
+Altar de suelo harás a mí, y sacrificarás sobre él tus holocaustos y tus ofrendas de paz, tu rebaño y tu ganado; en todo el lugar que haré recordar mi nombre, vendré a ti y te bendeciré.
 
 ### 20:25
 
-Y si altar de piedras harás a mí, no las edificarás labradas; porque tu espada balanceaste sobre él, y lo profanaste.
+Y si altar de piedras harás a mí, no las edificarás de piedra labrada; porque tu espada balanceaste sobre ella, y la profanaste.
 
 ### 20:26
 
@@ -2231,11 +2231,11 @@ Y estos los juicios que pondrás delante de ellos.
 
 ### 21:2
 
-Cuando compres siervo hebreo, seis años servirá, y en el séptimo saldrá a libre de gratis.
+Cuando compres siervo hebreo, seis años servirá, y en el séptimo saldrá a libre, gratis.
 
 ### 21:3
 
-Si en su soledad viene, en su soledad saldrá; si dueño de mujer él, y saldrá su mujer con él.
+Si en su cuerpo viene, en su cuerpo saldrá; si él *es* dueño de mujer, y saldrá su mujer con él.
 
 ### 21:4
 
@@ -2283,7 +2283,7 @@ Y cuando se ensoberbece varón sobre su compañero para matarlo con astucia, des
 
 ### 21:15
 
-Y hiriente de su padre y su madre, de morir morirá.
+Y hiriente de su padre y su madre, de morir será muerto.
 
 ### 21:16
 
@@ -2291,7 +2291,7 @@ Y hurtante de varón, y lo vende, y es hallado en su mano, de morir morirá.
 
 ### 21:17
 
-Y maldiciente de su padre y su madre, de morir morirá.
+Y maldiciente de su padre y su madre, de morir será muerto.
 
 ### 21:18
 
@@ -2311,11 +2311,11 @@ Solo si día o dos días se para, no será vengado, porque su plata él.
 
 ### 21:22
 
-Y cuando riñen varones, y golpean mujer encinta, y salen sus hijos, y no hay desastre, penando será penado conforme a lo que impone sobre él dueño de la mujer, y dará en jueces.
+Y cuando riñen varones, y golpean mujer encinta, y salen sus hijos, y no habrá desastre, penado será penado conforme a lo que impondrá sobre él dueño de la mujer, y dará en jueces.
 
 ### 21:23
 
-Y si desastre hay, y darás alma debajo de alma,
+Y si desastre hubiere, y darás alma debajo de alma,
 
 ### 21:24
 
@@ -2323,7 +2323,7 @@ ojo debajo de ojo, diente debajo de diente, mano debajo de mano, pie debajo de p
 
 ### 21:25
 
-quemadura debajo de quemadura, herida debajo de herida, magulladura debajo de magulladura.
+quemadura por quemadura, herida por herida, magulladura por magulladura.
 
 ### 21:26
 
@@ -2335,7 +2335,7 @@ Y si diente de su siervo o diente de su sierva hace caer, a libre lo enviará de
 
 ### 21:28
 
-Y cuando embiste buey a varón o a mujer, y muere, apedreando será apedreado el buey, y no se comerá su carne, y dueño del buey limpio.
+Y cuando embiste buey a varón o a mujer, y muere, apedreando será apedreado el buey, y no se comerá su carne, y el dueño del buey *será* limpio.
 
 ### 21:29
 
@@ -2373,11 +2373,11 @@ O conocido que buey embistente él desde ayer anteayer, y no lo guardan sus due�
 
 ### 22:1
 
-Cuando hurta varón buey o cordero, y lo degüella o lo vende, cinco ganado pagará debajo del buey, y cuatro rebaño debajo del cordero.
+Cuando hurta varón buey o animal del rebaño, y lo degüella o lo ha vendido, cinco reses pagará en lugar del buey, y cuatro cabezas de rebaño en lugar del animal del rebaño.
 
 ### 22:2
 
-Si en el boquete es hallado el ladrón, y es herido y muere, no hay a él sangres.
+Si en el allanamiento es hallado el ladrón, y es herido y muere, no hay a él sangres.
 
 ### 22:3
 
@@ -2385,7 +2385,7 @@ Si nace el sol sobre él, sangres a él; pagando pagará; si no hay a él, y ser
 
 ### 22:4
 
-Si siendo hallado es hallado en su mano el hurto, desde buey hasta asno hasta cordero, vivos, dos pagará.
+Si siendo hallado es hallado en su mano el hurto, desde buey hasta asno hasta animal del rebaño, vivos, dos pagará.
 
 ### 22:5
 
@@ -2409,7 +2409,7 @@ Sobre toda palabra de delito, sobre buey, sobre asno, sobre cordero, sobre vesti
 
 ### 22:10
 
-Cuando da varón a su compañero asno o buey o cordero y toda bestia a guardar, y muere o es quebrado o capturado, no hay vidente,
+Cuando da varón a su compañero asno o buey o animal del rebaño y toda bestia a guardar, y muere o es quebrado o capturado, no hay quien vea,
 
 ### 22:11
 
@@ -2421,7 +2421,7 @@ Y si hurtando es hurtado de con él, pagará a sus dueños.
 
 ### 22:13
 
-Si desgarrando es desgarrado, lo traerá testigo; el desgarrado no pagará.
+Si ciertamente es desgarrado, lo traerá como testigo; por el desgarrado no pagará.
 
 ### 22:14
 
@@ -2429,7 +2429,7 @@ Y cuando pide prestado varón de con su compañero, y es quebrado o muere, sus d
 
 ### 22:15
 
-Si sus dueños con él, no pagará; si jornalero él, viene en su jornal.
+Si sus dueños con él, no pagará; si alquilado él, vino en su alquiler.
 
 ### 22:16
 
@@ -2445,7 +2445,7 @@ Hechicera no harás vivir.
 
 ### 22:19
 
-Todo yacente con bestia, de morir morirá.
+Todo yacente con bestia, de morir será muerto.
 
 ### 22:20
 
@@ -2473,7 +2473,7 @@ Si plata prestas a mi pueblo, al pobre contigo, no serás a él como acreedor; n
 
 ### 22:26
 
-Si empeñando empeñas vestido de tu compañero, hasta venir el sol lo devolverás a él.
+Si tomas en prenda el vestido de tu compañero, hasta que venga el sol se lo devolverás a él.
 
 ### 22:27
 
@@ -2481,11 +2481,11 @@ Porque ella sola ella, su vestido a su piel; ¿en qué yacerá? Y será cuando c
 
 ### 22:28
 
-A Dios no maldecirás, y a príncipe en tu pueblo no maldecirás.
+A Dios no injuriarás, y a príncipe en tu pueblo no maldecirás.
 
 ### 22:29
 
-Tu plenitud y tu lagrimeo no retardarás; primogénito de tus hijos darás a mí.
+Tu plenitud y tu lágrima no retardarás; primogénito de tus hijos darás a mí.
 
 ### 22:30
 
@@ -2515,7 +2515,7 @@ Cuando encuentras buey de tu enemigo o su asno errante, devolviendo lo devolver�
 
 ### 23:5
 
-Cuando ves asno de tu aborrecedor echado debajo de su carga, y cesas de dejar a él, dejando dejarás con él.
+Cuando ves asno de tu aborrecedor yaciendo debajo de su carga, y cesarás de dejar a él, dejar dejarás con él.
 
 ### 23:6
 
@@ -2523,7 +2523,7 @@ No torcerás juicio de tu necesitado en su contienda.
 
 ### 23:7
 
-Desde palabra de mentira te alejarás, e inocente y justo no matarás, porque no justificaré a malo.
+Desde palabra de mentira te alejarás, e inocente y justo no matarás, porque no justificaré al malo.
 
 ### 23:8
 
@@ -2539,7 +2539,7 @@ Y seis años sembrarás tu tierra, y recogerás su producto.
 
 ### 23:11
 
-Y el séptimo la soltarás y la abandonarás, y comerán necesitados de tu pueblo, y su resto comerá animal del campo; así harás a tu viña, a tu olivo.
+Y el séptimo la soltarás y la abandonarás, y comerán necesitados de tu pueblo, y su resto lo comerá el animal del campo; así harás a tu viña, a tu olivo.
 
 ### 23:12
 
@@ -2567,7 +2567,7 @@ Tres veces en el año será visto todo tu varón a faces del Señor Jehová.
 
 ### 23:18
 
-No sacrificarás sobre leudado sangre de mi sacrificio, y no pernoctará sebo de mi fiesta hasta mañana.
+No sacrificarás sobre leudado sangre de mi sacrificio, y no pernoctará sebo de mi fiesta hasta la mañana.
 
 ### 23:19
 
@@ -2575,11 +2575,11 @@ Principio de primicias de tu suelo traerás a casa de Jehová tu Dios; no cocer�
 
 ### 23:20
 
-He aquí yo enviando ángel delante de ti, para guardarte en el camino y para hacerte venir al lugar que preparé.
+He aquí yo enviando mensajero delante de ti, para guardarte en el camino y para hacerte venir al lugar que preparé.
 
 ### 23:21
 
-Guárdate de sus faces, y oye en su voz; no te amargues en él, porque no alzará a delitos de ustedes, porque mi nombre en medio de él.
+Guárdate de sus faces, y oye en su voz; no amargues en él, porque no alzará a delito de ustedes, porque mi nombre en medio de él.
 
 ### 23:22
 
@@ -2591,7 +2591,7 @@ Porque andará mi ángel delante de ti, y te hará venir al amorreo y al hitita 
 
 ### 23:24
 
-No te postrarás a sus dioses, y no los servirás, y no harás conforme a sus obras, porque destruyendo los destruirás, y quebrando quebrarás sus estelas.
+No te postrarás a sus dioses, y no se te hará servirlos, y no harás conforme a sus obras, porque destruyendo los destruirás, y quebrando quebrarás sus estelas.
 
 ### 23:25
 
@@ -2611,7 +2611,7 @@ Y enviaré la avispa delante de ti, y echará al heveo, al cananeo y al hitita d
 
 ### 23:29
 
-No lo echaré de delante de ti en año uno, no sea que sea la tierra desolación, y se multiplique sobre ti animal del campo.
+No lo echaré de delante de ti en un año, no sea que sea la tierra desolación, y se multiplique sobre ti animal del campo.
 
 ### 23:30
 
@@ -2619,7 +2619,7 @@ Poco a poco lo echaré de delante de ti, hasta que fructifiques y heredes la tie
 
 ### 23:31
 
-Y pondré tu límite desde mar de Suf y hasta mar de filisteos, y desde desierto hasta el río, porque daré en mano de ustedes a moradores de la tierra, y los echarás de delante de ti.
+Y pondré tu límite desde mar de junco y hasta mar de filisteos, y desde desierto hasta el río, porque daré en mano de ustedes a moradores de la tierra, y los echarás de delante de ti.
 
 ### 23:32
 
@@ -2669,7 +2669,7 @@ Y subió Moisés y Aarón, Nadav y Avihú, y setenta de ancianos de Israel.
 
 ### 24:10
 
-Y vieron a Dios de Israel, y debajo de sus pies como obra de ladrillo del zafiro, y como hueso de los cielos a pureza.
+Y vieron a Dios de Israel, y debajo de sus pies como obra de transparencia del zafiro, y como hueso de los cielos a pureza.
 
 ### 24:11
 
@@ -2677,15 +2677,15 @@ Y a nobles de hijos de Israel no envió su mano, y contemplaron a Dios, y comier
 
 ### 24:12
 
-Y dijo Jehová a Moisés: Sube a mí al monte, y sé allí, y daré a ti las tablas de la piedra y la torá y el mandamiento que escribí para enseñarlos.
+Y dijo Jehová a Moisés: Sube a mí al monte, y sé allí, y te daré las tablas de la piedra y la ley y el mandamiento, que escribí para enseñarlos.
 
 ### 24:13
 
-Y se levantó Moisés y Josué su ministro, y subió Moisés a monte de Dios.
+Y se levantó Moisés y Josué su ministro, y subió Moisés al monte de Dios.
 
 ### 24:14
 
-Y a los ancianos dijo: Siéntense a nosotros en este, hasta que volvamos a ustedes; y he aquí Aarón y Jur con ustedes; quien sea dueño de palabras, se acerque a ellos.
+Y a los ancianos dijo: Siéntense a nosotros en este, hasta que volvamos a ustedes; y he aquí Aarón y Jur con ustedes; quien *sea* dueño de palabras, se acerque a ellos.
 
 ### 24:15
 
@@ -2727,11 +2727,11 @@ y pieles de carneros enrojecidas y pieles de tahash y maderas de shitím,
 
 ### 25:6
 
-aceite a la lumbrera, aromas a aceite de la unción y a incienso de los aromas,
+aceite a la lumbrera, aromas a aceite de la unción y a incienso de las especias,
 
 ### 25:7
 
-piedras de shóham y piedras de engastes al efod y al joshen.
+piedras de ónice y piedras de engastes al efod y al pectoral.
 
 ### 25:8
 
@@ -2739,11 +2739,11 @@ Y harán a mí santuario, y moraré en medio de ellos.
 
 ### 25:9
 
-Conforme a todo lo que yo mostrando a ti, el modelo del mishkán y el modelo de todos sus utensilios, y así harán.
+Conforme a todo lo que yo te muestro, el modelo del tabernáculo y el modelo de todos sus utensilios, y así harán.
 
 ### 25:10
 
-Y harán arca de maderas de shitím; dos codos y medio su largo, y codo y medio su ancho, y codo y medio su alto.
+Y harán arca de maderas de acacia; dos codos y medio su largo, y codo y medio su ancho, y codo y medio su alto.
 
 ### 25:11
 
@@ -2755,7 +2755,7 @@ Y fundirás a ella cuatro anillos de oro, y los darás sobre sus cuatro pies; y 
 
 ### 25:13
 
-Y harás varas de maderas de shitím, y las revestirás oro.
+Y harás varas de maderas de acacia, y las revestirás de oro.
 
 ### 25:14
 
@@ -2771,15 +2771,15 @@ Y darás al arca el testimonio que daré a ti.
 
 ### 25:17
 
-Y harás kappóret de oro puro; dos codos y medio su largo, y codo y medio su ancho.
+Y harás cubierta de oro puro; dos codos y medio su largo, y codo y medio su ancho.
 
 ### 25:18
 
-Y harás dos querubines de oro; de martillo harás a ellos desde dos extremos de la kappóret.
+Y harás dos querubines de oro; de obra de martillo harás a ellos desde dos extremos de la cubierta.
 
 ### 25:19
 
-Y haz querubín uno desde extremo desde este, y querubín uno desde extremo desde este; desde la kappóret harán a los querubines sobre sus dos extremos.
+Y haz querubín uno desde extremo desde este, y querubín uno desde extremo desde este; desde la cubierta harán a los querubines sobre sus dos extremos.
 
 ### 25:20
 
@@ -2787,7 +2787,7 @@ Y serán los querubines extendientes alas hacia arriba, cubriendo con sus alas s
 
 ### 25:21
 
-Y darás la kappóret sobre el arca desde arriba, y al arca darás el testimonio que daré a ti.
+Y darás la cubierta sobre el arca desde arriba, y al arca darás el testimonio que daré a ti.
 
 ### 25:22
 
@@ -2795,7 +2795,7 @@ Y me citaré a ti allí, y hablaré contigo desde sobre la kappóret, desde entr
 
 ### 25:23
 
-Y harás mesa de maderas de shitím; dos codos su largo, y codo su ancho, y codo y medio su alto.
+Y harás mesa de maderas de acacia; dos codos su largo, y codo su ancho, y codo y medio su alto.
 
 ### 25:24
 
@@ -2811,7 +2811,7 @@ Y harás a ella cuatro anillos de oro, y darás los anillos sobre cuatro las esq
 
 ### 25:27
 
-A la par del marco serán los anillos, a casas a las varas para alzar la mesa.
+A la par del marco serán los anillos, a casas a varas para alzar la mesa.
 
 ### 25:28
 
@@ -2827,27 +2827,27 @@ Y darás sobre la mesa pan de faces delante de mí siempre.
 
 ### 25:31
 
-Y harás menorá de oro puro; de martillo será hecha la menorá; su muslo y su caña, sus cálices, sus manzanas y sus flores, desde ella serán.
+Y harás el candelabro de oro puro; a martillo será hecho el candelabro; su muslo y su caña, sus cálices, sus bulbos y sus flores, desde él serán.
 
 ### 25:32
 
-Y seis cañas salientes desde sus lados; tres cañas de menorá desde su lado el uno, y tres cañas de menorá desde su lado el segundo.
+Y seis cañas salientes desde sus lados; tres cañas de candelabro desde su lado el uno, y tres cañas de candelabro desde su lado el segundo.
 
 ### 25:33
 
-Tres cálices almendrados en la caña la una, manzana y flor, y tres cálices almendrados en la caña la una, manzana y flor; así a las seis cañas las salientes desde la menorá.
+Tres cálices almendrados en la caña la una, botón y flor, y tres cálices almendrados en la caña la una, botón y flor; así a las seis cañas las salientes desde el candelabro.
 
 ### 25:34
 
-Y en la menorá cuatro cálices almendrados, sus manzanas y sus flores.
+Y en el candelabro cuatro cálices almendrados, sus bulbos y sus flores.
 
 ### 25:35
 
-Y manzana debajo de las dos cañas desde ella, y manzana debajo de las dos cañas desde ella, y manzana debajo de las dos cañas desde ella, a las seis cañas las salientes desde la menorá.
+Y botón debajo de las dos cañas desde ella, y botón debajo de las dos cañas desde ella, y botón debajo de las dos cañas desde ella, a las seis cañas las salientes desde el candelabro.
 
 ### 25:36
 
-Sus manzanas y sus cañas desde ella serán; toda ella martillo una, oro puro.
+Sus botones y sus cañas desde ella serán; toda ella obra batida una, oro puro.
 
 ### 25:37
 
@@ -2869,7 +2869,7 @@ Y ve y haz en su modelo que te está siendo mostrado en el monte.
 
 ### 26:1
 
-Y el mishkán harás diez cortinas; lino fino torcido y azul y púrpura y carmesí; querubines, obra de pensador, harás a ellas.
+Y el tabernáculo harás diez cortinas; lino fino torcido y azul y púrpura y carmesí; querubines, obra de pensador, harás a ellos.
 
 ### 26:2
 
@@ -2877,7 +2877,7 @@ Largo de la cortina la una ocho y veinte en el codo, y ancho cuatro en el codo l
 
 ### 26:3
 
-Cinco las cortinas serán juntadas, mujer a su hermana, y cinco cortinas juntadas, mujer a su hermana.
+Cinco las cortinas estarán juntándose, mujer a su hermana, y cinco cortinas juntándose, mujer a su hermana.
 
 ### 26:4
 
@@ -2893,7 +2893,7 @@ Y harás cincuenta ganchos de oro, y juntarás las cortinas mujer a su hermana e
 
 ### 26:7
 
-Y harás cortinas de cabras a tienda sobre el mishkán; once cortinas harás a ellas.
+Y harás cortinas de cabras a tienda sobre el tabernáculo; once cortinas las harás.
 
 ### 26:8
 
@@ -2913,11 +2913,11 @@ Y harás ganchos de bronce cincuenta, y harás entrar los ganchos en los lazos, 
 
 ### 26:12
 
-Y el sobrante el excedente en cortinas de la tienda, mitad de la cortina la excedente sobrará sobre espalda del mishkán.
+Y sobrante el excedente en las cortinas de la tienda, mitad de la cortina la excedente sobrará sobre detrás del tabernáculo.
 
 ### 26:13
 
-Y el codo desde este y el codo desde este en el excedente en largo de cortinas de la tienda será sobrante sobre lados del mishkán desde este y desde este para cubrirlo.
+Y el codo desde este y el codo desde este en el excedente en largo de cortinas de la tienda será colgante sobre los lados del tabernáculo desde este y desde este para cubrirlo.
 
 ### 26:14
 
@@ -2925,7 +2925,7 @@ Y harás cubierta a la tienda pieles de carneros enrojecidas, y cubierta de piel
 
 ### 26:15
 
-Y harás las tablas al mishkán, maderas de shitím, paradas.
+Y harás las tablas al tabernáculo, maderas de acacia, paradas.
 
 ### 26:16
 
@@ -2933,11 +2933,11 @@ Diez codos largo de la tabla, y codo y medio del codo ancho de la tabla la una.
 
 ### 26:17
 
-Dos manos a la tabla la una, ensambladas mujer a su hermana; así harás a todas tablas del mishkán.
+Dos manos a la tabla la una, ensambladas mujer a su hermana; así harás a todas las tablas del tabernáculo.
 
 ### 26:18
 
-Y harás las tablas al mishkán, veinte tabla a lado sur hacia el sur.
+Y harás las tablas al tabernáculo, veinte tabla al lado sur hacia el sur.
 
 ### 26:19
 
@@ -2945,7 +2945,7 @@ Y cuarenta basas de plata harás debajo de veinte la tabla; dos basas debajo de 
 
 ### 26:20
 
-Y a costado del mishkán el segundo, a lado norte, veinte tabla.
+Y al segundo costado del tabernáculo, al lado norte, veinte tabla.
 
 ### 26:21
 
@@ -2957,11 +2957,11 @@ Y a fondos del mishkán hacia el mar harás seis tablas.
 
 ### 26:23
 
-Y dos tablas harás a ángulos del mishkán en los fondos.
+Y dos tablas harás para los ángulos del tabernáculo en los dos lados posteriores.
 
 ### 26:24
 
-Y serán gemelas desde abajo, y juntos serán enteros sobre su cabeza al anillo el uno; así será a ambos, a los dos ángulos serán.
+Y serán gemelos desde abajo, y juntos serán enteros sobre su cabeza al anillo el uno; así será a ambos, a los dos ángulos serán.
 
 ### 26:25
 
@@ -2969,11 +2969,11 @@ Y serán ocho tablas, y sus basas plata, dieciséis basas; dos basas debajo de l
 
 ### 26:26
 
-Y harás travesaños maderas de shitím, cinco a tablas de costado del mishkán el uno.
+Y harás travesaños maderas de acacia, cinco a tablas de costado del tabernáculo el uno.
 
 ### 26:27
 
-Y cinco travesaños a tablas de costado del mishkán el segundo, y cinco travesaños a tablas de costado del mishkán a los fondos hacia el mar.
+Y cinco travesaños a tablas del segundo costado del tabernáculo, y cinco travesaños a tablas de costado del tabernáculo a los dos fondos hacia mar.
 
 ### 26:28
 
@@ -2985,15 +2985,15 @@ Y las tablas revestirás oro, y sus anillos harás oro, casas a los travesaños,
 
 ### 26:30
 
-Y levantarás el mishkán conforme a su juicio que fuiste mostrado en el monte.
+Y levantarás el tabernáculo conforme a su juicio que te fue mostrado en el monte.
 
 ### 26:31
 
-Y harás parójet de azul y púrpura y carmesí y lino fino torcido; obra de pensador hará a ella querubines.
+Y harás velo de azul y púrpura y carmesí y lino fino torcido; obra de pensador hará a ella querubines.
 
 ### 26:32
 
-Y la darás sobre cuatro columnas de shitím revestidas oro, sus ganchos oro, sobre cuatro basas de plata.
+Y la darás sobre cuatro columnas de acacia revestidas de oro, sus ganchos de oro, sobre cuatro basas de plata.
 
 ### 26:33
 
@@ -3005,21 +3005,21 @@ Y darás la kappóret sobre arca del testimonio en santo de los santos.
 
 ### 26:35
 
-Y pondrás la mesa desde fuera a la parójet, y la menorá frente a la mesa sobre costado del mishkán hacia el sur, y la mesa darás sobre costado norte.
+Y pondrás la mesa fuera del velo, y el candelabro frente a la mesa sobre el costado del tabernáculo hacia el sur, y la mesa darás sobre el costado norte.
 
 ### 26:36
 
-Y harás masaj a abertura de la tienda, azul y púrpura y carmesí y lino fino torcido, obra de bordador.
+Y harás una cortina a la abertura de la tienda, azul y púrpura y carmesí y lino fino torcido, obra de bordador.
 
 ### 26:37
 
-Y harás al masaj cinco columnas de shitím, y las revestirás oro, sus ganchos oro, y fundirás a ellas cinco basas de bronce.
+Y harás a la cortina cinco columnas de acacia, y las revestirás de oro, sus ganchos de oro, y fundirás a ellas cinco basas de bronce.
 
 ## Capítulo 27
 
 ### 27:1
 
-Y harás el altar maderas de shitím; cinco codos largo y cinco codos ancho; cuadrado será el altar, y tres codos su alto.
+Y harás el altar maderas de acacia; cinco codos largo y cinco codos ancho; cuadrado será el altar, y tres codos su alto.
 
 ### 27:2
 
@@ -3039,7 +3039,7 @@ Y la darás debajo del borde del altar desde abajo, y será la red hasta mitad d
 
 ### 27:6
 
-Y harás varas al altar, varas de maderas de shitím, y las revestirás bronce.
+Y harás varas al altar, varas de maderas de acacia, y las revestirás de bronce.
 
 ### 27:7
 
@@ -3063,7 +3063,7 @@ Y así a lado norte en el largo, colgaduras cien largo; veinte, y sus basas vein
 
 ### 27:12
 
-Y ancho del atrio a lado del mar, colgaduras cincuenta codo; sus columnas diez, y sus basas diez.
+Y ancho del atrio a lado de mar, colgaduras cincuenta codo; sus columnas diez, y sus basas diez.
 
 ### 27:13
 
@@ -3083,7 +3083,7 @@ Y a puerta del atrio masaj de veinte codo, azul y púrpura y carmesí y lino fin
 
 ### 27:17
 
-Todas las columnas del atrio alrededor bandeadas plata, y sus ganchos plata, y sus basas bronce.
+Todas las columnas del atrio alrededor bandeadas plata, sus ganchos plata, y sus basas bronce.
 
 ### 27:18
 
@@ -3091,15 +3091,15 @@ Largo del atrio cien en el codo, y ancho cincuenta en cincuenta, y alto cinco co
 
 ### 27:19
 
-A todos utensilios del mishkán en todo su servicio, y todas sus estacas y todas estacas del atrio, bronce.
+A todos los utensilios del tabernáculo en todo su servicio, y todas sus estacas y todas las estacas del atrio, bronce.
 
 ### 27:20
 
-Y tú mandarás a hijos de Israel, y tomarán a ti aceite de olivo puro molido a la lumbrera, para hacer subir lámpara siempre.
+Y tú mandarás a hijos de Israel, y tomarán a ti aceite de olivo puro golpeado a la lumbrera, para hacer subir lámpara de continuidad.
 
 ### 27:21
 
-En tienda de reunión, desde fuera a la parójet que sobre el testimonio, lo ordenará Aarón y sus hijos desde tarde hasta mañana delante de Jehová; estatuto de siempre a sus generaciones de parte de hijos de Israel.
+En tienda de reunión, fuera del velo que sobre el testimonio, lo pondrá en orden Aarón y sus hijos desde tarde hasta mañana delante de Jehová; estatuto de siempre a sus generaciones de parte de hijos de Israel.
 
 ## Capítulo 28
 
@@ -3121,7 +3121,7 @@ Y estos los vestidos que harán: joshen y efod y manto y túnica de cuadros, tur
 
 ### 28:5
 
-Y ellos tomarán el oro y el azul y la púrpura y carmesí y el lino fino.
+Y ellos tomarán el oro y el azul y la púrpura y el carmesí y el lino fino.
 
 ### 28:6
 
@@ -3133,11 +3133,11 @@ Dos hombros juntados será a él a dos sus extremos, y será juntado.
 
 ### 28:8
 
-Y el cinturón de su efodadura que sobre él, como su obra, desde él será: oro, azul y púrpura y carmesí y lino fino torcido.
+Y el cinturón de su efod que sobre él, como su obra, desde nosotros será: oro, azul y púrpura y carmesí y lino fino torcido.
 
 ### 28:9
 
-Y tomarás las dos piedras de shóham, y abrirás sobre ellas nombres de hijos de Israel.
+Y tomarás dos piedras de ónice, y grabarás sobre ellas nombres de hijos de Israel.
 
 ### 28:10
 
@@ -3145,11 +3145,11 @@ Seis desde sus nombres sobre la piedra la una, y los nombres de los seis los res
 
 ### 28:11
 
-Obra de artesano de piedra, grabados de sello abrirás las dos las piedras sobre nombres de hijos de Israel; rodeadas engastes de oro harás a ellas.
+Obra de artesano de piedra, grabados de sello grabarás las dos piedras sobre nombres de hijos de Israel; rodeadas de engastes de oro harás a ellas.
 
 ### 28:12
 
-Y pondrás las dos las piedras sobre hombros del efod, piedras de memorial a hijos de Israel, y alzará Aarón sus nombres delante de Jehová sobre dos sus hombros a memorial.
+Y pondrás las dos piedras sobre los hombros del efod, piedras de memorial a los hijos de Israel, y alzará Aarón sus nombres delante de Jehová sobre sus dos hombros a memorial.
 
 ### 28:13
 
@@ -3189,23 +3189,23 @@ Y las piedras serán sobre nombres de hijos de Israel, doce sobre sus nombres; g
 
 ### 28:22
 
-Y harás sobre el joshen cadenillas de borde, obra de cordón, oro puro.
+Y harás sobre el pectoral cadenas de obra trenzada, obra de cordón, oro puro.
 
 ### 28:23
 
-Y harás sobre el joshen dos anillos de oro, y darás los dos los anillos sobre dos extremos del joshen.
+Y harás sobre el pectoral dos anillos de oro, y darás los dos anillos sobre dos extremos del pectoral.
 
 ### 28:24
 
-Y darás los dos cordones del oro sobre los dos los anillos a extremos del joshen.
+Y darás los dos cordones del oro sobre los dos anillos a extremos del pectoral.
 
 ### 28:25
 
-Y los dos extremos de los dos los cordones darás sobre los dos los engastes, y darás sobre hombros del efod al frente de sus faces.
+Y los dos extremos de los dos cordones darás sobre los dos engastes, y darás sobre hombros del efod al frente de sus faces.
 
 ### 28:26
 
-Y harás dos anillos de oro, y los pondrás sobre dos extremos del joshen, sobre su labio que a lado del efod hacia adentro.
+Y harás dos anillos de oro, y los pondrás sobre dos extremos del pectoral, sobre su labio que a lado del efod hacia la casa.
 
 ### 28:27
 
@@ -3213,7 +3213,7 @@ Y harás dos anillos de oro, y los darás sobre dos hombros del efod desde abajo
 
 ### 28:28
 
-Y atarán el joshen a anillos del efod con cordón de azul, para ser sobre cinturón del efod, y no se apartará el joshen de sobre el efod.
+Y atarán el pectoral a anillos del efod con cordón de azul, para ser sobre cinturón del efod, y no se apartará el pectoral de sobre el efod.
 
 ### 28:29
 
@@ -3221,7 +3221,7 @@ Y alzará Aarón los nombres de hijos de Israel en joshen del juicio sobre su co
 
 ### 28:30
 
-Y darás al joshen del juicio los urim y los tumim, y serán sobre corazón de Aarón en su entrar delante de Jehová, y alzará Aarón el juicio de hijos de Israel sobre su corazón delante de Jehová siempre.
+Y darás al pectoral del juicio las luces y las perfecciones, y serán sobre corazón de Aarón en su entrar delante de Jehová, y alzará Aarón el juicio de hijos de Israel sobre su corazón delante de Jehová siempre.
 
 ### 28:31
 
@@ -3241,11 +3241,11 @@ Campanilla de oro y granada, campanilla de oro y granada, sobre faldas del manto
 
 ### 28:35
 
-Y será sobre Aarón para ministrar, y se oirá su voz en su entrar al santo delante de Jehová y en su salir, y no morirá.
+Y será sobre Aarón para ministrar, y se oirá su voz en su entrar a lo santo delante de Jehová y en su salir, y no morirá.
 
 ### 28:36
 
-Y harás diadema de oro puro, y abrirás sobre ella grabados de sello: Santidad a Jehová.
+Y harás una lámina de oro puro, y grabarás sobre ella grabados de sello: santidad a Jehová.
 
 ### 28:37
 
@@ -3257,11 +3257,11 @@ Y será sobre frente de Aarón, y alzará Aarón la iniquidad de las santidades 
 
 ### 28:39
 
-Y cuadrearás la túnica lino fino, y harás turbante lino fino, y cinto harás obra de bordador.
+Y tejerás a cuadros la túnica de lino fino, y harás turbante de lino fino, y cinto harás obra de bordador.
 
 ### 28:40
 
-Y a hijos de Aarón harás túnicas, y harás a ellos cintos, y tiaras harás a ellos, a gloria y a hermosura.
+Y a hijos de Aarón harás túnicas, y harás a ellos cintos, y gorros harás a ellos, a gloria y a hermosura.
 
 ### 28:41
 
@@ -3311,7 +3311,7 @@ Y a sus hijos acercarás, y los vestirás túnicas.
 
 ### 29:9
 
-Y ceñirás a ellos cinto, Aarón y sus hijos, y atarás a ellos tiaras, y será a ellos sacerdocio a estatuto de siempre, y llenarás mano de Aarón y mano de sus hijos.
+Y ceñirás a ellos cinto, Aarón y sus hijos, y atarás a ellos turbantes, y será a ellos sacerdocio a estatuto de siempre, y llenarás mano de Aarón y mano de sus hijos.
 
 ### 29:10
 
@@ -3339,7 +3339,7 @@ Y el carnero el uno tomarás, y apoyarán Aarón y sus hijos sus manos sobre cab
 
 ### 29:16
 
-Y degollarás el carnero, y tomarás su sangre, y rociarás sobre el altar alrededor.
+Y degollarás el carnero, y tomarás su sangre, y arrojarás sobre el altar alrededor.
 
 ### 29:17
 
@@ -3411,7 +3411,7 @@ Y los comerán que se expió en ellos para llenar su mano para santificarlos, y 
 
 ### 29:34
 
-Y si sobra desde carne de las llenuras y desde el pan hasta la mañana, y quemarás lo sobrante en el fuego; no se comerá, porque santidad él.
+Y si sobra desde carne de las consagraciones y desde el pan hasta la mañana, y quemarás lo sobrante en el fuego; no se comerá, porque santidad él.
 
 ### 29:35
 
@@ -3419,7 +3419,7 @@ Y harás a Aarón y a sus hijos así, conforme a todo lo que te mandé; siete d�
 
 ### 29:36
 
-Y toro de pecado harás al día sobre las expiaciones, y pecarás sobre el altar en tu expiar sobre él, y lo ungirás para santificarlo.
+Y toro de pecado harás al día sobre las expiaciones, y purificarás sobre el altar en tu expiar sobre él, y lo ungirás para santificarlo.
 
 ### 29:37
 
@@ -3427,7 +3427,7 @@ Siete días expiarás sobre el altar, y lo santificarás, y será el altar santo
 
 ### 29:38
 
-Y esto lo que harás sobre el altar: corderos hijos de año dos al día, siempre.
+Y esto lo que harás sobre el altar: corderos hijos de año, dos, al día, siempre.
 
 ### 29:39
 
@@ -3481,7 +3481,7 @@ Y dos anillos de oro harás a él desde debajo a su moldura, sobre dos sus costa
 
 ### 30:5
 
-Y harás las varas maderas de shitím, y las revestirás oro.
+Y harás las varas de madera de acacia, y las revestirás de oro.
 
 ### 30:6
 
@@ -3493,7 +3493,7 @@ Y hará humear sobre él Aarón incienso de aromas; en la mañana en la mañana,
 
 ### 30:8
 
-Y en hacer subir Aarón las lámparas entre las dos tardes lo hará humear; incienso continuo delante de Jehová a generaciones de ustedes.
+Y en hacer subir Aarón las lámparas entre las dos tardes lo hará humear, incienso continuo, delante de Jehová, a generaciones de ustedes.
 
 ### 30:9
 
@@ -3517,7 +3517,7 @@ Esto darán todo el pasante sobre los contados: mitad del siclo en siclo de la s
 
 ### 30:14
 
-Todo el pasante sobre los contados desde hijo de veinte año y arriba dará ofrenda de Jehová.
+Todo el que pasa sobre los contados desde hijo de veinte año y arriba dará ofrenda de Jehová.
 
 ### 30:15
 
@@ -3537,7 +3537,7 @@ Y harás lavatorio de bronce y su peana bronce a lavar, y lo darás entre tienda
 
 ### 30:19
 
-Y lavarán Aarón y sus hijos desde él sus manos y sus pies.
+Y lavarán Aarón y sus hijos desde nosotros sus manos y sus pies.
 
 ### 30:20
 
@@ -3553,7 +3553,7 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 30:23
 
-Y tú, toma a ti aromas principales: mirra fluida quinientas, y canela aromática su mitad cincuenta y doscientas, y caña aromática cincuenta y doscientas,
+Y tú, toma a ti aromas, lo principal de mirra de fluidez, quinientas, y canela de aroma, su mitad cincuenta y doscientas, y caña de aroma, cincuenta y doscientas,
 
 ### 30:24
 
@@ -3569,7 +3569,7 @@ Y ungirás en él tienda de reunión y arca del testimonio,
 
 ### 30:27
 
-y la mesa y todos sus utensilios, y la menorá y sus utensilios, y altar del incienso,
+y la mesa y todos sus utensilios, y el candelabro y sus utensilios, y el altar del incienso,
 
 ### 30:28
 
@@ -3635,7 +3635,7 @@ para idear ideaciones, para hacer en el oro y en la plata y en el bronce,
 
 ### 31:5
 
-y en labrado de piedra a engastar, y en labrado de madera, para hacer en toda obra.
+y en labrado de piedra a llenar, y en labrado de madera, para hacer en toda obra.
 
 ### 31:6
 
@@ -3643,11 +3643,11 @@ Y yo, he aquí, di con él a Oholiav hijo de Ajisamaj, a tribu de Dan, y en cora
 
 ### 31:7
 
-tienda de reunión y el arca al testimonio y la kappóret que sobre él, y todos utensilios de la tienda,
+la tienda de reunión y el arca del testimonio y la cubierta que *está* sobre ella, y todos los utensilios de la tienda,
 
 ### 31:8
 
-y la mesa y sus utensilios, y la menorá la pura y todos sus utensilios, y altar del incienso,
+y la mesa y sus utensilios, y el candelabro puro y todos sus utensilios, y altar del incienso,
 
 ### 31:9
 
@@ -3659,7 +3659,7 @@ y los vestidos del servicio, y los vestidos de la santidad a Aarón el sacerdote
 
 ### 31:11
 
-y el aceite de la unción y el incienso de los aromas al santo; conforme a todo lo que te mandé harán.
+y el aceite de la unción y el incienso de las especias a lo santo; conforme a todo lo que te mandé harán.
 
 ### 31:12
 
@@ -3667,7 +3667,7 @@ Y dijo Jehová a Moisés, diciendo:
 
 ### 31:13
 
-Y tú, habla a hijos de Israel, diciendo: Solo mis shabats guardarán, porque señal ella entre mí y entre ustedes a generaciones de ustedes, para conocer que yo Jehová santificante de ustedes.
+Y tú, habla a hijos de Israel, diciendo: Ciertamente mis sábados guardarán, porque señal ella entre mí y entre ustedes a generaciones de ustedes, para conocer que yo Jehová santificante de ustedes.
 
 ### 31:14
 
@@ -3675,11 +3675,11 @@ Y guardarán el shabat, porque santidad ella a ustedes; sus profanadores de mori
 
 ### 31:15
 
-Seis días será hecha obra, y en el día el séptimo shabat de shabatón, santidad a Jehová; todo el haciendo obra en día del shabat de morir morirá.
+Seis días se hará obra, y en el día el séptimo sábado de reposo, santidad a Jehová; todo el que hace obra en día del sábado, morir será muerto.
 
 ### 31:16
 
-Y guardarán hijos de Israel el shabat, para hacer el shabat a sus generaciones, pacto de siempre.
+Y guardarán hijos de Israel el sábado, para hacer el sábado a sus generaciones, pacto de siempre.
 
 ### 31:17
 
@@ -3705,7 +3705,7 @@ Y se arrancó todo el pueblo los zarcillos del oro que en sus oídos, y trajeron
 
 ### 32:4
 
-Y tomó desde su mano, y lo formó con el buril, y lo hizo becerro de fundición, y dijeron: Estos tus dioses, Israel, que te subieron desde tierra de Egipto.
+Y tomó desde la mano de ellos, y lo formó con el buril, y lo hizo becerro de fundición, y dijeron: Estos tus dioses, Israel, que te subieron desde tierra de Egipto.
 
 ### 32:5
 
@@ -3713,7 +3713,7 @@ Y vio Aarón, y edificó altar delante de él, y llamó Aarón, y dijo: Fiesta a
 
 ### 32:6
 
-Y madrugaron desde el día siguiente, y subieron holocaustos, y acercaron pazes, y se sentó el pueblo a comer y a beber, y se levantaron a jugar.
+Y madrugaron desde el día siguiente, y subieron holocaustos, y acercaron ofrendas de paz, y se sentó el pueblo a comer y beber, y se levantaron a jugar.
 
 ### 32:7
 
@@ -3741,7 +3741,7 @@ Y suavizó Moisés las faces de Jehová su Dios, y dijo: ¿Por qué, Jehová, ar
 
 ### 32:13
 
-Acuerda a Abraham, a Isaac y a Israel tus siervos, que juraste a ellos en ti, y hablaste a ellos: Multiplicaré su semilla como estrellas de los cielos, y toda esta tierra que dije daré a su semilla, y heredarán para siempre.
+Recuerda a Abraham, a Isaac y a Israel tus siervos, que juraste a ellos en ti, y hablaste a ellos: Multiplicaré su semilla como estrellas de los cielos, y toda esta tierra que dije daré a su semilla, y heredarán para siempre.
 
 ### 32:14
 
@@ -3765,7 +3765,7 @@ Y dijo: No hay voz de responder de fuerza, y no hay voz de responder de debilida
 
 ### 32:19
 
-Y fue como que se acercó al campamento, y vio el becerro y danzas, y ardió nariz de Moisés, y arrojó las tablas desde sus manos, y las quebró debajo del monte.
+Y sucedió que, cuando se acercó al campamento, vio el becerro y danzas, y ardió nariz de Moisés, y arrojó las tablas, y las quebró debajo del monte.
 
 ### 32:20
 
@@ -3777,7 +3777,7 @@ Y dijo Moisés a Aarón: ¿Qué hizo a ti este pueblo, que trajiste sobre él pe
 
 ### 32:22
 
-Y dijo Aarón: No arda nariz de mi señor; tú conociste al pueblo, que en mal él.
+Y dijo Aarón: No arda la ira de mi señor; tú conociste al pueblo, que en mal *está* él.
 
 ### 32:23
 
@@ -3821,11 +3821,11 @@ Y ahora, si alzas su pecado; y si no, bórrame ahora desde tu libro que escribis
 
 ### 32:33
 
-Y dijo Jehová a Moisés: Quien pecó a mí, lo borraré desde mi libro.
+Y dijo Jehová a Moisés: Quien pecó a mí, lo borraré de mi libro.
 
 ### 32:34
 
-Y ahora, anda, guía al pueblo a lo que hablé a ti; he aquí mi ángel andará delante de ti, y en día de mi visitar, visitaré sobre ellos su pecado.
+Y ahora, anda, guía al pueblo a lo que hablé a ti; he aquí mi mensajero andará delante de ti, y en día de mi visitar, y visitaré sobre ellos su pecado.
 
 ### 32:35
 
@@ -3843,7 +3843,7 @@ Y enviaré delante de ti ángel, y echaré al cananeo, el amorreo y el hitita y 
 
 ### 33:3
 
-a tierra manante leche y miel, porque no subiré en medio de ti, porque pueblo duro de nuca tú, no sea que te consuma en el camino.
+a tierra manante leche y miel, porque no subiré en medio de ti, porque pueblo duro de nuca tú, no sea que yo te consuma en el camino.
 
 ### 33:4
 
@@ -3851,7 +3851,7 @@ Y oyó el pueblo esta palabra mala, y se enlutaron, y no pusieron varón su ador
 
 ### 33:5
 
-Y dijo Jehová a Moisés: Di a hijos de Israel: Ustedes pueblo duro de nuca; momento uno subiré en medio de ti, y te consumiré; y ahora, haz descender tu adorno de sobre ti, y conoceré qué haré a ti.
+Y dijo Jehová a Moisés: Di a los hijos de Israel: Ustedes *son* un pueblo duro de nuca; un momento subiré en medio de ti, y te consumiré; y ahora, haz descender tu adorno de sobre ti, y conoceré qué haré a ti.
 
 ### 33:6
 
@@ -3863,11 +3863,11 @@ Y Moisés tomaba la tienda, y la tendía a él desde fuera al campamento, lejos 
 
 ### 33:8
 
-Y era como salir Moisés a la tienda, se levantaba todo el pueblo, y se plantaban varón abertura de su tienda, y miraban detrás de Moisés hasta su entrar a la tienda.
+Y era como salir Moisés a la tienda, se levantaban todo el pueblo, y se plantaban varón abertura de su tienda, y miraban detrás de Moisés hasta su entrar a la tienda.
 
 ### 33:9
 
-Y era como entrar Moisés a la tienda, descendía columna de la nube, y se paraba abertura de la tienda, y hablaba con Moisés.
+Y era como entrar Moisés a la tienda, descendía columna de la nube, y se paraba en la abertura de la tienda, y hablaba con Moisés.
 
 ### 33:10
 
@@ -3875,7 +3875,7 @@ Y veía todo el pueblo la columna de la nube parada abertura de la tienda, y se 
 
 ### 33:11
 
-Y hablaba Jehová a Moisés faces a faces, como que habla varón a su compañero, y volvía al campamento; y su ministro Josué hijo de Nun, joven, no se apartaba desde medio de la tienda.
+Y hablaba Jehová a Moisés rostros a rostros, como habla varón a su compañero, y volvía al campamento; y su ministro Josué hijo de Nun, joven, no se apartaba desde medio de la tienda.
 
 ### 33:12
 
@@ -3895,7 +3895,7 @@ Y dijo a él: Si no tus faces andantes, no nos subas desde este.
 
 ### 33:16
 
-¿Y en qué será conocido entonces que hallé favor en tus ojos, yo y tu pueblo? ¿No en tu andar con nosotros? Y seremos distinguidos yo y tu pueblo desde todo el pueblo que sobre faz del suelo.
+¿Y en qué será conocido entonces que hallé favor en tus ojos, yo y tu pueblo? ¿No en tu andar con nosotros? Y seremos distinguidos yo y tu pueblo de todo el pueblo que sobre la faz del suelo.
 
 ### 33:17
 
@@ -3903,7 +3903,7 @@ Y dijo Jehová a Moisés: También esta palabra que hablaste haré, porque halla
 
 ### 33:18
 
-Y dijo: Hazme ver ahora tu gloria.
+Y dijo: Hazme ver, te ruego, tu gloria.
 
 ### 33:19
 
@@ -3923,7 +3923,7 @@ Y será en pasar mi gloria, y te pondré en hendidura de la roca, y te cubriré 
 
 ### 33:23
 
-Y quitaré mi palma, y verás mi espalda, y mis faces no se verán.
+Y quitaré mi palma, y verás mis espaldas, y mis faces no se verán.
 
 ## Capítulo 34
 
@@ -3937,7 +3937,7 @@ Y sé preparado a la mañana, y subirás en la mañana a monte Sinai, y te plant
 
 ### 34:3
 
-Y varón no subirá contigo, y también varón no se vea en todo el monte; también el rebaño y el ganado no pasten al frente de ese monte.
+Y varón no subirá contigo, y también varón no se vea en todo el monte; también el rebaño y el ganado vacuno no pasten al frente de ese monte.
 
 ### 34:4
 
@@ -3949,7 +3949,7 @@ Y descendió Jehová en la nube, y se plantó con él allí, y llamó en nombre 
 
 ### 34:6
 
-Y pasó Jehová sobre sus faces, y llamó: Jehová, Jehová, Dios clemente y misericordioso, largo de narices y mucho de misericordia y verdad,
+Y pasó Jehová sobre sus faces, y llamó: Jehová, Jehová, Dios misericordioso y clemente, largo de narices y mucho de misericordia y verdad,
 
 ### 34:7
 
@@ -3961,7 +3961,7 @@ Y se apresuró Moisés, e inclinó a tierra, y se postró.
 
 ### 34:9
 
-Y dijo: Si ahora hallé favor en tus ojos, Señor mío, ande ahora Señor mío en medio de nosotros, porque pueblo duro de nuca él, y perdona a nuestra iniquidad y a nuestro pecado, y herédanos.
+Y dijo: Si, te ruego, hallé favor en tus ojos, Señor mío, ande, te ruego, Señor mío en medio de nosotros, porque pueblo duro de nuca él, y perdonarás a nuestra iniquidad y a nuestro pecado, y nos heredarás.
 
 ### 34:10
 
@@ -3977,7 +3977,7 @@ Guárdate a ti, no sea que cortes pacto a morador de la tierra que tú entrante 
 
 ### 34:13
 
-Porque sus altares demolerán, y sus estelas quebrarán, y sus asherás cortarán.
+Porque sus altares demolerán, y sus pilares quebrarán, y su Asera cortarán.
 
 ### 34:14
 
@@ -4017,15 +4017,15 @@ Y fiesta de semanas harás a ti, primicias de siega de trigos, y fiesta de la re
 
 ### 34:23
 
-Tres veces en el año será visto todo tu varón faces del Señor Jehová Dios de Israel.
+Tres veces en el año será visto todo tu varón rostro del señor Jehová Dios de Israel.
 
 ### 34:24
 
-Porque echaré naciones de delante de ti, y ensancharé tu límite, y no codiciará varón tu tierra en tu subir a ser visto faces de Jehová tu Dios tres veces en el año.
+Porque echaré naciones de delante de ti, y ensancharé tu límite, y no codiciará varón tu tierra en tu subir a ser visto rostro de Jehová tu Dios tres veces en el año.
 
 ### 34:25
 
-No degollarás sobre leudado sangre de mi sacrificio, y no pernoctará a la mañana sacrificio de fiesta del Pésaj.
+No degollarás sobre leudado sangre de mi sacrificio, y no pernoctará hasta la mañana sacrificio de fiesta de la pascua.
 
 ### 34:26
 
@@ -4065,7 +4065,7 @@ Y en entrar Moisés delante de Jehová para hablar con él, quitaba el velo hast
 
 ### 34:35
 
-Y veían hijos de Israel las faces de Moisés, que radiaba piel de faces de Moisés, y devolvía Moisés el velo sobre sus faces hasta su entrar para hablar con él.
+Y veían hijos de Israel las faces de Moisés, que radió piel de faces de Moisés, y devolvía Moisés el velo sobre sus faces hasta su entrar para hablar con él.
 
 ## Capítulo 35
 
@@ -4079,7 +4079,7 @@ Seis días será hecha obra, y en el día el séptimo será a ustedes santidad, 
 
 ### 35:3
 
-No encenderán fuego en todas sus moradas en día del shabat.
+No encenderán fuego en todas sus moradas en día del sábado.
 
 ### 35:4
 
@@ -4111,7 +4111,7 @@ Y todo sabio de corazón en ustedes vendrán, y harán todo lo que mandó Jehov�
 
 ### 35:11
 
-el mishkán, su tienda y su cubierta, sus ganchos y sus tablas, sus travesaños, sus columnas y sus basas,
+el tabernáculo, su tienda y su cubierta, sus ganchos y sus tablas, sus barras, sus columnas y sus basas,
 
 ### 35:12
 
@@ -4127,7 +4127,7 @@ y la menorá de la lumbrera y sus utensilios y sus lámparas y el aceite de la l
 
 ### 35:15
 
-y altar del incienso y sus varas, y el aceite de la unción y el incienso de los aromas, y el masaj de la abertura a abertura del mishkán,
+y altar del incienso y sus varas, y el aceite de la unción y el incienso de los aromas, y la cortina de la abertura a abertura del tabernáculo,
 
 ### 35:16
 
@@ -4135,15 +4135,15 @@ altar del holocausto y el enrejado del bronce que a él, sus varas y todos sus u
 
 ### 35:17
 
-las colgaduras del atrio, sus columnas y sus basas, y el masaj de puerta del atrio,
+las colgaduras del atrio, sus columnas y sus basas, y la cortina de la puerta del atrio,
 
 ### 35:18
 
-las estacas del mishkán y las estacas del atrio y sus cuerdas,
+las estacas del tabernáculo y las estacas del atrio y sus cuerdas,
 
 ### 35:19
 
-los vestidos del servicio para ministrar en el santo, los vestidos de la santidad a Aarón el sacerdote, y los vestidos de sus hijos para sacerdotear.
+los vestidos del tejido para ministrar en lo santo, los vestidos de la santidad a Aarón el sacerdote, y los vestidos de sus hijos para sacerdotear.
 
 ### 35:20
 
@@ -4155,7 +4155,7 @@ Y vinieron todo varón que lo alzó su corazón, y todo al que impulsó su espí
 
 ### 35:22
 
-Y vinieron los varones sobre las mujeres; todo generoso de corazón trajeron broche y zarcillo y anillo y collar, todo utensilio de oro, y todo varón que balanceó balanceo de oro a Jehová.
+Y vinieron los varones sobre las mujeres; todo noble de corazón trajeron gancho y aro y anillo y adorno, todo objeto de oro, y todo varón que balanceó balanceo de oro a Jehová.
 
 ### 35:23
 
@@ -4167,7 +4167,7 @@ Todo alzante ofrenda de plata y bronce trajeron la ofrenda de Jehová, y todo al
 
 ### 35:25
 
-Y toda mujer sabia de corazón en sus manos hiló, y trajeron hilado el azul y la púrpura, el carmesí y el lino fino.
+Y toda mujer sabia de corazón en sus manos hilaron, y trajeron hilado el azul y la púrpura, el carmesí y el lino fino.
 
 ### 35:26
 
@@ -4175,7 +4175,7 @@ Y todas las mujeres que alzó su corazón a ellas en sabiduría hilaron las cabr
 
 ### 35:27
 
-Y los príncipes trajeron las piedras del shóham y las piedras de los engastes al efod y al joshen,
+Y los príncipes trajeron las piedras del ónice y las piedras de los engastes al efod y al pectoral,
 
 ### 35:28
 
@@ -4217,7 +4217,7 @@ Y hizo Betsalel y Oholiav y todo varón sabio de corazón, a quien dio Jehová s
 
 ### 36:2
 
-Y llamó Moisés a Betsalel y a Oholiav y a todo varón sabio de corazón, a quien dio Jehová sabiduría en su corazón, a todo al que lo alzó su corazón a acercarse a la obra a hacerla.
+Y llamó Moisés a Betsalel y a Oholiav y a todo varón sabio de corazón, a quien dio Jehová sabiduría en su corazón, a todo el que lo alzó su corazón a acercarse a la obra a hacerla.
 
 ### 36:3
 
@@ -4225,7 +4225,7 @@ Y tomaron de delante de Moisés toda la ofrenda que trajeron hijos de Israel a l
 
 ### 36:4
 
-Y vinieron todos los sabios, los haciendo toda obra del santo, varón por varón de su obra que ellos hacían.
+Y vinieron todos los sabios, los que hacían toda obra de lo santo, varón por varón desde su obra que ellos hacían.
 
 ### 36:5
 
@@ -4233,7 +4233,7 @@ Y dijeron a Moisés, diciendo: Multiplica el pueblo a traer, más que bastancia 
 
 ### 36:6
 
-Y mandó Moisés, y hicieron pasar voz en el campamento, diciendo: Varón y mujer, no hagan aún obra para ofrenda del santo. Y fue detenido el pueblo de traer.
+Y mandó Moisés, y hicieron pasar voz en el campamento, diciendo: Que varón y mujer no hagan más obra para ofrenda de lo santo. Y fue detenido el pueblo de traer.
 
 ### 36:7
 
@@ -4261,15 +4261,15 @@ Cincuenta lazos hizo en la cortina la una, y cincuenta lazos hizo en el extremo 
 
 ### 36:13
 
-Y hizo cincuenta ganchos de oro, y juntó las cortinas una a una en los ganchos, y fue el mishkán uno.
+Y hizo cincuenta ganchos de oro, y juntó las cortinas una a una en los ganchos, y fue el tabernáculo uno.
 
 ### 36:14
 
-Y hizo cortinas de cabras para tienda sobre el mishkán; once cortinas hizo a ellas.
+Y hizo cortinas de cabras para tienda sobre el tabernáculo; once cortinas hizo a ellas.
 
 ### 36:15
 
-Largo de la cortina la una: treinta en el codo, y cuatro codos el ancho de la cortina la una; medida una a las once cortinas.
+Largo de la cortina la una: treinta en el codo, y cuatro codos el ancho de la cortina la una; medida una a once cortinas.
 
 ### 36:16
 
@@ -4277,7 +4277,7 @@ Y juntó las cinco cortinas a solas, y las seis cortinas a solas.
 
 ### 36:17
 
-Y hizo cincuenta lazos sobre el labio de la cortina la extrema en la juntura, y cincuenta lazos hizo sobre el labio de la cortina en la juntura la segunda.
+Y hizo cincuenta lazos sobre el labio de la cortina la extrema en la juntura, y cincuenta lazos hizo sobre el labio de la cortina la juntura la segunda.
 
 ### 36:18
 
@@ -4289,7 +4289,7 @@ Y hizo cubierta a la tienda de pieles de carneros enrojecidas, y cubierta de pie
 
 ### 36:20
 
-Y hizo las tablas al mishkán, maderas de shitím, paradas.
+Y hizo las tablas para el tabernáculo, maderas de acacia, paradas.
 
 ### 36:21
 
@@ -4297,11 +4297,11 @@ Diez codos el largo de la tabla, y codo y medio del codo el ancho de la tabla la
 
 ### 36:22
 
-Dos manos a la tabla la una, ensambladas una a una; así hizo a todas las tablas del mishkán.
+Dos manos a la tabla la una, ensambladas una a una; así hizo a todas las tablas del tabernáculo.
 
 ### 36:23
 
-Y hizo las tablas al mishkán: veinte tablas al lado de Negev, al Temán.
+Y hizo las tablas al tabernáculo: veinte tablas al lado del sur, al sur.
 
 ### 36:24
 
@@ -4309,7 +4309,7 @@ Y cuarenta basas de plata hizo bajo las veinte tablas; dos basas bajo la tabla l
 
 ### 36:25
 
-Y al costado del mishkán el segundo, al lado de Tsafón, hizo veinte tablas,
+Y al segundo costado del tabernáculo, al lado norte, hizo veinte tablas,
 
 ### 36:26
 
@@ -4317,15 +4317,15 @@ y cuarenta sus basas de plata; dos basas bajo la tabla la una, y dos basas bajo 
 
 ### 36:27
 
-Y a los extremos del mishkán, mar, hizo seis tablas.
+Y a los dos extremos del tabernáculo, hacia el mar, hizo seis tablas.
 
 ### 36:28
 
-Y dos tablas hizo a las esquinas del mishkán en los extremos.
+Y dos tablas hizo a las esquinas del tabernáculo en los dos extremos.
 
 ### 36:29
 
-Y fueron gemelas desde abajo, y juntas serán gemelas a su cabeza, al anillo el uno; así hizo a los dos, a las dos esquinas.
+Y fueron gemelos desde abajo, y juntos serán gemelos a su cabeza, al anillo el uno; así hizo a los dos, a las dos esquinas.
 
 ### 36:30
 
@@ -4337,7 +4337,7 @@ Y hizo travesaños, maderas de shitím: cinco a las tablas del costado del mishk
 
 ### 36:32
 
-y cinco travesaños a las tablas del costado del mishkán el segundo, y cinco travesaños a las tablas del mishkán a los extremos, mar.
+y cinco travesaños a las tablas del segundo costado del tabernáculo, y cinco travesaños a las tablas del tabernáculo a los extremos hacia el mar.
 
 ### 36:33
 
@@ -4345,7 +4345,7 @@ Y hizo el travesaño el medio, para atravesar en medio de las tablas desde el ex
 
 ### 36:34
 
-Y las tablas chapó de oro, y sus anillos hizo de oro, casas a los travesaños, y chapó los travesaños de oro.
+Y las tablas las chapó de oro, y sus anillos los hizo de oro, casas para los travesaños, y chapó los travesaños de oro.
 
 ### 36:35
 
@@ -4357,7 +4357,7 @@ Y hizo a ella cuatro columnas de shitím, y las chapó de oro; sus ganchos de or
 
 ### 36:37
 
-Y hizo masaj a la abertura de la tienda, azul y púrpura y carmesí y lino fino retorcido, obra de bordador,
+Y hizo cortina a la abertura de la tienda, azul y púrpura y grana carmesí y lino retorcido, obra de bordador,
 
 ### 36:38
 
@@ -4367,7 +4367,7 @@ y sus columnas cinco y sus ganchos, y chapó sus cabezas y sus fajas de oro, y s
 
 ### 37:1
 
-Y hizo Betsalel el arca, maderas de shitím; dos codos y medio su largo, y codo y medio su ancho, y codo y medio su alto.
+Y hizo Betsalel el arca, maderas de acacia; dos codos y medio su largo, y codo y medio su ancho, y codo y medio su alto.
 
 ### 37:2
 
@@ -4375,11 +4375,11 @@ Y la chapó de oro puro por dentro y por fuera, e hizo a ella moldura de oro alr
 
 ### 37:3
 
-Y fundió a ella cuatro anillos de oro sobre cuatro sus pies; y dos anillos sobre su costado el uno, y dos anillos sobre su costado el segundo.
+Y fundió a él cuatro anillos de oro sobre sus cuatro pies; y dos anillos sobre su costado el uno, y dos anillos sobre su costado el segundo.
 
 ### 37:4
 
-E hizo varas, maderas de shitím, y las chapó de oro.
+E hizo varas de maderas de acacia, y las chapó de oro.
 
 ### 37:5
 
@@ -4387,7 +4387,7 @@ Y metió las varas en los anillos sobre los costados del arca, para alzar el arc
 
 ### 37:6
 
-E hizo kappóret de oro puro; dos codos y medio su largo, y codo y medio su ancho.
+E hizo cubierta de oro puro; dos codos y medio su largo, y codo y medio su ancho.
 
 ### 37:7
 
@@ -4395,7 +4395,7 @@ E hizo dos querubines de oro; de martillo hizo a ellos desde los dos extremos de
 
 ### 37:8
 
-Querubín uno desde el extremo desde este, y querubín uno desde el extremo desde este; desde la kappóret hizo a los querubines desde sus dos extremos.
+Querubín uno desde un extremo desde este, y querubín uno desde un extremo desde este; desde la cubierta hizo a los querubines desde dos.
 
 ### 37:9
 
@@ -4403,7 +4403,7 @@ Y fueron los querubines extendientes alas hacia arriba, cubriendo con sus alas s
 
 ### 37:10
 
-E hizo la mesa, maderas de shitím; dos codos su largo, y codo su ancho, y codo y medio su alto.
+E hizo la mesa, maderas de acacia; dos codos su largo, y codo su ancho, y codo y medio su alto.
 
 ### 37:11
 
@@ -4415,7 +4415,7 @@ E hizo a ella marco de palmo alrededor, e hizo moldura de oro a su marco alreded
 
 ### 37:13
 
-Y fundió a ella cuatro anillos de oro, y dio los anillos sobre las cuatro esquinas que a sus cuatro pies.
+Y le fundió cuatro anillos de oro, y dio los anillos sobre las cuatro esquinas que a sus cuatro pies.
 
 ### 37:14
 
@@ -4423,11 +4423,11 @@ A la par del marco fueron los anillos, casas a las varas para alzar la mesa.
 
 ### 37:15
 
-E hizo las varas, maderas de shitím, y las chapó de oro, para alzar la mesa.
+E hizo las varas, maderas de acacia, y las chapó de oro, para alzar la mesa.
 
 ### 37:16
 
-E hizo los utensilios que sobre la mesa: sus platos y sus cucharas y sus jarras y los tazones con que se derrama en ellas, oro puro.
+E hizo los utensilios que sobre la mesa: sus platos y sus cucharas y sus tazones y las jarras con que se derrama, oro puro.
 
 ### 37:17
 
@@ -4435,23 +4435,23 @@ E hizo la menorá de oro puro; de martillo hizo la menorá; su muslo y su caña,
 
 ### 37:18
 
-Y seis cañas salientes desde sus lados; tres cañas de menorá desde su lado el uno, y tres cañas de menorá desde su lado el segundo.
+Y seis cañas salientes desde sus lados; tres cañas de candelabro desde su lado el uno, y tres cañas de candelabro desde su lado el segundo.
 
 ### 37:19
 
-Tres cálices almendrados en la caña la una, manzana y flor, y tres cálices almendrados en caña una, manzana y flor; así a las seis cañas las salientes desde la menorá.
+Tres cálices almendrados en la caña la una, botón y flor, y tres cálices almendrados en caña una, botón y flor; así a las seis cañas las salientes desde el candelabro.
 
 ### 37:20
 
-Y en la menorá cuatro cálices almendrados, sus manzanas y sus flores.
+Y en el candelabro cuatro cálices almendrados, sus botones y sus flores.
 
 ### 37:21
 
-Y manzana debajo de las dos cañas desde ella, y manzana debajo de las dos cañas desde ella, y manzana debajo de las dos cañas desde ella, a las seis cañas las salientes desde ella.
+Y botón debajo de las dos cañas desde ella, y botón debajo de las dos cañas desde ella, y botón debajo de las dos cañas desde ella, a las seis cañas las salientes desde ella.
 
 ### 37:22
 
-Sus manzanas y sus cañas desde ella fueron; toda ella martillo una, oro puro.
+Sus nudos y sus cañas desde ella fueron; toda ella obra batida una, oro puro.
 
 ### 37:23
 
@@ -4459,7 +4459,7 @@ E hizo sus lámparas siete, y sus despabiladeras y sus braseros, oro puro.
 
 ### 37:24
 
-De un talento de oro puro hizo a ella, y todos sus utensilios.
+Un talento de oro puro hizo a ella, y todos sus utensilios.
 
 ### 37:25
 
@@ -4475,7 +4475,7 @@ Y dos anillos de oro hizo a él desde debajo de su moldura, sobre sus dos costad
 
 ### 37:28
 
-E hizo las varas, maderas de shitím, y las chapó de oro.
+E hizo las varas, maderas de acacia, y las chapó de oro.
 
 ### 37:29
 
@@ -4485,7 +4485,7 @@ E hizo el aceite de la unción, santidad, y el incienso de los aromas, puro, obr
 
 ### 38:1
 
-Y hizo el altar del holocausto, maderas de shitím; cinco codos su largo y cinco codos su ancho, cuadrado, y tres codos su alto.
+Y hizo el altar del holocausto, maderas de acacia; cinco codos su largo y cinco codos su ancho, cuadrado, y tres codos su alto.
 
 ### 38:2
 
@@ -4497,7 +4497,7 @@ Y hizo todos los utensilios del altar: las ollas y las palas y los tazones, los 
 
 ### 38:4
 
-Y hizo al altar enrejado, obra de red de bronce, debajo de su borde desde abajo hasta su mitad.
+Y hizo al altar un enrejado, obra de red de bronce, debajo de su borde desde abajo hasta su mitad.
 
 ### 38:5
 
@@ -4505,7 +4505,7 @@ Y fundió cuatro anillos en los cuatro extremos del enrejado del bronce, casas a
 
 ### 38:6
 
-Y hizo las varas, maderas de shitím, y las chapó de bronce.
+Y hizo las varas, maderas de acacia, y las chapó de bronce.
 
 ### 38:7
 
@@ -4525,15 +4525,15 @@ Sus columnas veinte, y sus basas veinte de bronce; ganchos de las columnas y sus
 
 ### 38:11
 
-Y al lado de Tsafón, cien en el codo; sus columnas veinte, y sus basas veinte de bronce; ganchos de las columnas y sus bandas de plata.
+Y a lado de norte, cien en codo; sus columnas veinte, y sus basas veinte bronce; ganchos de las columnas y sus bandas plata.
 
 ### 38:12
 
-Y al lado de mar, colgaduras cincuenta en el codo; sus columnas diez, y sus basas diez; ganchos de las columnas y sus bandas de plata.
+Y a lado de mar, colgaduras cincuenta en codo; sus columnas diez, y sus basas diez; ganchos de las columnas y sus bandas de plata.
 
 ### 38:13
 
-Y al lado de kedem, hacia oriente, cincuenta codo.
+Y a lado del oriente, hacia oriente, cincuenta codo.
 
 ### 38:14
 
@@ -4545,7 +4545,7 @@ Y al hombro el segundo, desde este y desde este a la puerta del atrio, colgadura
 
 ### 38:16
 
-Todas las colgaduras del atrio alrededor de lino fino retorcido.
+Todas las colgaduras del atrio alrededor *son* lino fino retorcido.
 
 ### 38:17
 
@@ -4553,7 +4553,7 @@ Y las basas a las columnas de bronce; ganchos de las columnas y sus bandas de pl
 
 ### 38:18
 
-Y masaj de la puerta del atrio, obra de bordador, azul y púrpura y carmesí y lino fino retorcido; y veinte codo de largo, y alto en ancho cinco codos, a la par de las colgaduras del atrio.
+Y cortina de la puerta del atrio, obra de bordador, azul y púrpura y carmesí y lino fino retorcido; y veinte codo de largo, y altura en ancho cinco codos, a la par de las colgaduras del atrio.
 
 ### 38:19
 
@@ -4561,11 +4561,11 @@ Y sus columnas cuatro, y sus basas cuatro de bronce; sus ganchos de plata, y cha
 
 ### 38:20
 
-Y todas las estacas al mishkán y al atrio alrededor de bronce.
+Y todas las estacas al tabernáculo y al atrio alrededor, de bronce.
 
 ### 38:21
 
-Estas las contadas del mishkán, mishkán del testimonio, que fue contado sobre boca de Moisés; servicio de los levitas en mano de Itamar hijo de Aarón el sacerdote.
+Estos los contados del tabernáculo, tabernáculo del testimonio, que fue contado sobre boca de Moisés; servicio de los levitas en mano de Itamar hijo de Aarón el sacerdote.
 
 ### 38:22
 
@@ -4601,11 +4601,11 @@ Y el bronce del balanceo: setenta talento, y dos mil cuatrocientos siclo.
 
 ### 38:30
 
-Y hizo con él las basas de la abertura de la tienda de reunión, y el altar del bronce y el enrejado del bronce que a él, y todos los utensilios del altar,
+Y hizo con ella las basas de la abertura de la tienda de reunión, y el altar del bronce y el enrejado del bronce que a él, y todos los utensilios del altar,
 
 ### 38:31
 
-y las basas del atrio alrededor, y las basas de la puerta del atrio, y todas las estacas del mishkán y todas las estacas del atrio alrededor.
+y las basas del atrio alrededor, y las basas de la puerta del atrio, y todas las estacas del tabernáculo y todas las estacas del atrio alrededor.
 
 ## Capítulo 39
 
@@ -4623,7 +4623,7 @@ Y batieron las láminas del oro, y cortó hilos, para hacer en medio del azul y 
 
 ### 39:4
 
-Hombros hicieron a él, juntados; sobre sus dos extremos fue juntado.
+Hombros hicieron a él, que se unen; sobre dos fue juntado.
 
 ### 39:5
 
@@ -4631,7 +4631,7 @@ Y el cinturón de su efodadura que sobre él, desde él él, como su obra: oro, 
 
 ### 39:6
 
-E hicieron las piedras del shóham, rodeadas de engastes de oro, abiertas grabados de sello sobre nombres de hijos de Israel.
+E hicieron las piedras del ónice, rodeadas de engastes de oro, grabadas de grabados de sello sobre nombres de hijos de Israel.
 
 ### 39:7
 
@@ -4639,11 +4639,11 @@ Y las puso sobre los hombros del efod, piedras de memorial a hijos de Israel, co
 
 ### 39:8
 
-Y hizo el joshen, obra de pensador, como obra de efod: oro, azul y púrpura y carmesí y lino fino retorcido.
+Y hizo el pectoral, obra de pensador, como obra de efod: oro, azul y púrpura y carmesí y lino fino retorcido.
 
 ### 39:9
 
-Cuadrado fue, doblado; hicieron el joshen: palmo su largo y palmo su ancho, doblado.
+Cuadrado fue, doblado; hicieron el pectoral: palmo su largo y palmo su ancho, doblado.
 
 ### 39:10
 
@@ -4659,23 +4659,23 @@ Y la fila la tercera: léshem, shevó y ahlamá.
 
 ### 39:13
 
-Y la fila la cuarta: tarsis, shóham y yashfé; rodeadas de engastes de oro en sus llenuras.
+Y la fila la cuarta: tarsis, ónice y jaspe; rodeadas de engastes de oro en sus engastes.
 
 ### 39:14
 
-Y las piedras sobre nombres de hijos de Israel ellas, doce sobre sus nombres; grabados de sello, varón sobre su nombre, a las doce tribus.
+Y las piedras sobre nombres de hijos de Israel ellas, doce sobre sus nombres; grabados de sello, varón sobre su nombre, a doce tribus.
 
 ### 39:15
 
-E hicieron sobre el joshen cadenillas de borde, obra de cordón, oro puro.
+E hicieron sobre el pectoral cadenas trenzadas, obra de cordón, oro puro.
 
 ### 39:16
 
-E hicieron dos engastes de oro y dos anillos de oro, y dieron los dos anillos sobre los dos extremos del joshen.
+E hicieron dos engastes de oro y dos anillos de oro, y dieron los dos anillos sobre los dos extremos del pectoral.
 
 ### 39:17
 
-Y dieron los dos cordones del oro sobre los dos anillos sobre los extremos del joshen.
+Y dieron los dos cordones del oro sobre los dos anillos sobre los extremos del pectoral.
 
 ### 39:18
 
@@ -4691,7 +4691,7 @@ E hicieron dos anillos de oro, y los dieron sobre los dos hombros del efod desde
 
 ### 39:21
 
-Y ataron el joshen desde sus anillos a los anillos del efod con cordón de azul, para estar sobre el cinturón del efod, y no se apartará el joshen de sobre el efod, conforme a lo que mandó Jehová a Moisés.
+Y ataron el pectoral desde sus anillos a los anillos del efod con cordón de azul, para estar sobre el cinturón del efod, y no se apartará el pectoral de sobre el efod, conforme a lo que mandó Jehová a Moisés.
 
 ### 39:22
 
@@ -4699,7 +4699,7 @@ Y hizo el manto del efod, obra de tejedor, todo azul.
 
 ### 39:23
 
-Y la boca del manto en medio de él como boca de cota; labio a su boca alrededor; no se rasgará.
+Y la boca del manto en medio de él como boca de vestidura; labio a su boca alrededor; no se rasgará.
 
 ### 39:24
 
@@ -4719,7 +4719,7 @@ E hicieron las túnicas de lino fino, obra de tejedor, a Aarón y a sus hijos,
 
 ### 39:28
 
-y el turbante de lino fino, y los adornos de las tiaras de lino fino, y los calzones del lino, lino fino retorcido,
+y el turbante de lino fino, y los tocados de los gorros, de lino fino, y los calzones del lino, lino fino retorcido,
 
 ### 39:29
 
@@ -4731,15 +4731,15 @@ E hicieron la diadema, corona de la santidad, oro puro, y escribieron sobre ella
 
 ### 39:31
 
-Y dieron sobre ella cordón de azul, para dar sobre el turbante desde arriba, conforme a lo que mandó Jehová a Moisés.
+Y dieron sobre él cordón de azul, para dar sobre el turbante desde arriba, conforme a lo que mandó Jehová a Moisés.
 
 ### 39:32
 
-Y fue acabado todo el servicio del mishkán de la tienda de reunión; e hicieron hijos de Israel conforme a todo lo que mandó Jehová a Moisés; así hicieron.
+Y concluyó todo el servicio del tabernáculo de la tienda de reunión; y los hijos de Israel hicieron conforme a todo lo que mandó Jehová a Moisés; así hicieron.
 
 ### 39:33
 
-Y trajeron el mishkán a Moisés, la tienda y todos sus utensilios: sus ganchos, sus tablas y sus columnas y sus basas,
+Y trajeron el tabernáculo a Moisés, la tienda y todos sus utensilios: sus ganchos, sus tablas y sus columnas y sus basas,
 
 ### 39:34
 
@@ -4747,7 +4747,7 @@ y la cubierta de pieles de los carneros las enrojecidas, y la cubierta de pieles
 
 ### 39:35
 
-el arca del testimonio y sus varas y la kappóret,
+el arca del testimonio y sus varas y la cubierta,
 
 ### 39:36
 
@@ -4755,11 +4755,11 @@ la mesa, todos sus utensilios y el pan de las faces,
 
 ### 39:37
 
-la menorá la pura, sus lámparas, lámparas del arreglo, y todos sus utensilios y el aceite de la lumbrera,
+el candelabro el puro, sus lámparas, lámparas del arreglo, y todos sus utensilios y el aceite de la lumbrera,
 
 ### 39:38
 
-y el altar del oro y el aceite de la unción y el incienso de los aromas, y el masaj de la abertura de la tienda,
+y el altar del oro y el aceite de la unción y el incienso de los aromas, y la cortina de la abertura de la tienda,
 
 ### 39:39
 
@@ -4767,7 +4767,7 @@ el altar del bronce y el enrejado del bronce que a él, sus varas y todos sus ut
 
 ### 39:40
 
-las colgaduras del atrio, sus columnas y sus basas, y el masaj a la puerta del atrio, sus cuerdas y sus estacas, y todos los utensilios de servicio del mishkán a la tienda de reunión,
+las colgaduras del atrio, sus columnas y sus basas, y la cortina a la puerta del atrio, sus cuerdas y sus estacas, y todos los utensilios de servicio del tabernáculo a la tienda de reunión,
 
 ### 39:41
 
@@ -4789,23 +4789,23 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 40:2
 
-En el día del mes el primero, en el uno al mes, levantarás el mishkán de la tienda de reunión.
+En el día del mes el primero, en el uno al mes, levantarás el tabernáculo de la tienda de reunión.
 
 ### 40:3
 
-Y pondrás allí el arca del testimonio, y cubrirás sobre el arca la parójet.
+Y pondrás allí el arca del testimonio, y cubrirás sobre el arca con el velo.
 
 ### 40:4
 
-Y traerás la mesa, y ordenarás su orden; y traerás la menorá, y harás subir sus lámparas.
+Y traerás la mesa, y ordenarás su orden; y traerás el candelabro, y harás subir sus lámparas.
 
 ### 40:5
 
-Y darás el altar del oro al incienso delante del arca del testimonio, y pondrás el masaj de la abertura al mishkán.
+Y darás el altar del oro a incienso delante del arca del testimonio, y pondrás la cortina de la abertura al tabernáculo.
 
 ### 40:6
 
-Y darás el altar del holocausto delante de la abertura del mishkán de la tienda de reunión.
+Y darás el altar del holocausto delante de la abertura del tabernáculo de la tienda de reunión.
 
 ### 40:7
 
@@ -4813,7 +4813,7 @@ Y darás el lavatorio entre la tienda de reunión y el altar, y darás allí agu
 
 ### 40:8
 
-Y pondrás el atrio alrededor, y darás el masaj de la puerta del atrio.
+Y pondrás el atrio alrededor, y darás la cortina de la puerta del atrio.
 
 ### 40:9
 
@@ -4833,7 +4833,7 @@ Y acercarás a Aarón y a sus hijos a la abertura de la tienda de reunión, y la
 
 ### 40:13
 
-Y vestirás a Aarón los vestidos de la santidad, y lo ungirás, y lo santificarás, y sacerdoteará a mí.
+Y vestirás a Aarón con los vestidos de la santidad, y lo ungirás, y lo santificarás, y sacerdoteará a mí.
 
 ### 40:14
 
@@ -4849,27 +4849,27 @@ Y hizo Moisés conforme a todo lo que mandó Jehová a él; así hizo.
 
 ### 40:17
 
-Y fue en el mes el primero en el año el segundo, en el uno al mes, fue levantado el mishkán.
+Y fue en el mes el primero en el año el segundo, en uno al mes, fue levantado el tabernáculo.
 
 ### 40:18
 
-Y levantó Moisés el mishkán, y dio sus basas, y puso sus tablas, y dio sus travesaños, y levantó sus columnas.
+Y levantó Moisés el tabernáculo, y dio sus basas, y puso sus tablas, y dio sus travesaños, y levantó sus columnas.
 
 ### 40:19
 
-Y extendió la tienda sobre el mishkán, y puso la cubierta de la tienda sobre él desde arriba, conforme a lo que mandó Jehová a Moisés.
+Y extendió la tienda sobre el tabernáculo, y puso la cubierta de la tienda sobre él desde arriba, conforme a lo que mandó Jehová a Moisés.
 
 ### 40:20
 
-Y tomó y dio el testimonio al arca, y puso las varas sobre el arca, y dio la kappóret sobre el arca desde arriba.
+Y tomó y dio el testimonio al arca, y puso las varas sobre el arca, y dio la cubierta sobre el arca desde arriba.
 
 ### 40:21
 
-Y trajo el arca al mishkán, y puso la parójet del masaj, y cubrió sobre el arca del testimonio, conforme a lo que mandó Jehová a Moisés.
+Y trajo el arca al tabernáculo, y puso el velo de la cortina, y cubrió sobre el arca del testimonio, conforme a lo que mandó Jehová a Moisés.
 
 ### 40:22
 
-Y dio la mesa en la tienda de reunión sobre el muslo del mishkán, Tsafónah, desde fuera a la parójet.
+Y dio la mesa en la tienda de reunión sobre el muslo del tabernáculo, hacia el norte, desde fuera al velo.
 
 ### 40:23
 
@@ -4877,7 +4877,7 @@ Y ordenó sobre ella el orden de pan delante de Jehová, conforme a lo que mand�
 
 ### 40:24
 
-Y puso la menorá en la tienda de reunión, frente a la mesa, sobre el muslo del mishkán, Negbah.
+Y puso el candelabro en tienda de reunión, frente a la mesa, sobre el muslo del tabernáculo, hacia el sur.
 
 ### 40:25
 
@@ -4885,7 +4885,7 @@ Y hizo subir las lámparas delante de Jehová, conforme a lo que mandó Jehová 
 
 ### 40:26
 
-Y puso el altar del oro en la tienda de reunión delante de la parójet.
+Y puso el altar del oro en tienda de reunión delante del velo.
 
 ### 40:27
 
@@ -4893,11 +4893,11 @@ Y hizo humear sobre él incienso de aromas, conforme a lo que mandó Jehová a M
 
 ### 40:28
 
-Y puso el masaj de la abertura al mishkán.
+Y puso la cortina de la abertura al tabernáculo.
 
 ### 40:29
 
-Y el altar del holocausto puso a la abertura del mishkán de la tienda de reunión, e hizo subir sobre él el holocausto y la ofrenda, conforme a lo que mandó Jehová a Moisés.
+Y el altar del holocausto puso a la abertura del tabernáculo de la tienda de reunión, e hizo subir sobre él el holocausto y la ofrenda, conforme a lo que mandó Jehová a Moisés.
 
 ### 40:30
 
@@ -4913,19 +4913,19 @@ En su entrar a la tienda de reunión y en su acercarse al altar lavarán, confor
 
 ### 40:33
 
-Y levantó el atrio alrededor al mishkán y al altar, y dio el masaj de la puerta del atrio. Y acabó Moisés la obra.
+Y levantó el atrio alrededor al tabernáculo y al altar, y dio la cortina de la puerta del atrio. Y acabó Moisés la obra.
 
 ### 40:34
 
-Y cubrió la nube la tienda de reunión, y la gloria de Jehová llenó el mishkán.
+Y la nube cubrió tienda de reunión, y la gloria de Jehová llenó el tabernáculo.
 
 ### 40:35
 
-Y no pudo Moisés entrar a la tienda de reunión, porque moró sobre ella la nube, y la gloria de Jehová llenó el mishkán.
+Y no pudo Moisés entrar a la tienda de reunión, porque moró sobre ella la nube, y la gloria de Jehová llenó el tabernáculo.
 
 ### 40:36
 
-Y al alzarse la nube de sobre el mishkán partían hijos de Israel en todos sus viajes.
+Y al alzarse la nube de sobre el tabernáculo partirán hijos de Israel en todos sus viajes.
 
 ### 40:37
 

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:3",
+  "chapter": 13,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y verá el sacerdote la plaga en piel de la carne, y pelo en la plaga se volvió blanco, y apariencia de la plaga profunda desde piel de su carne: plaga de tsaráat ella. Y la verá el sacerdote, y lo impurecerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013003017"
+      ],
+      "issue": "צרעת is a common noun (H6883), left as the untranslated lemma tsaráat instead of a Spanish common noun.",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013003018"
+      ],
+      "issue": "Pronoun is 3ms in the packet; ella is feminine.",
+      "spanishSpan": "ella"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013003019"
+      ],
+      "issue": "Object suffix is 3ms; la is feminine (the later 3ms suffix is lo).",
+      "spanishSpan": "la"
+    }
+  ],
+  "notes": "Piel factitive on טמא is kept by impurecerá; min is rendered as desde.",
+  "discardedUncitedFindings": 0
+}

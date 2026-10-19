@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:16",
+  "chapter": 7,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y si voto o ofrenda voluntaria sacrificio su ofrenda, en día de su acercar su sacrificio será comido, y desde mañana, y lo restante desde él será comido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007016014"
+      ],
+      "issue": "Preposition suffix is 1st person common plural (from us); Spanish uses 3rd masculine singular él.",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "Remaining tokens match, including the verbless opening, hiphil infinitive, both niphal imperfects, and the repeated conjunctions.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,147 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 2,
+  "kept": [
+    1,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "clause role",
+      "spanish": "Y la traerá a hijos de Aarón, los sacerdotes, y tomará de allí lleno su puño desde su sólet y desde su aceite, sobre todo su incienso, y hará humear el sacerdote su memorial hacia el altar; ofrenda de fuego, olor de reposo a Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03002002010"
+          ],
+          "issue": "Common noun H5560 is left as the transliteration sólet; a non-name lemma must be Spanish.",
+          "spanishSpan": "sólet"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03002002006"
+          ],
+          "issue": "Qal sequential H7061 (grasp, take a handful) is smoothed to generic tomará; the handful remains in the following noun.",
+          "spanishSpan": "tomará"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03002002008",
+            "h03002002009"
+          ],
+          "issue": "Construct noun fullness-of plus his handful is smoothed to the adjective phrase lleno su puño; fullness, fist, and the 3ms suffix remain.",
+          "spanishSpan": "lleno su puño"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03002002020",
+            "h03002002021",
+            "h03002002022"
+          ],
+          "issue": "Construct chain fire-offering of odor of nichoach is smoothed by a comma into the apposition ofrenda de fuego, olor de reposo.",
+          "spanishSpan": "ofrenda de fuego, olor de reposo"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "notes": "re-audit fail",
+      "spanish": "Y cuando acerques ofrenda de oblación, cocido de horno, tortas de flor de harina ázimas mezcladas en el aceite, y obleas ázimas untadas en el aceite.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03002004007",
+            "h03002004008"
+          ],
+          "issue": "סֹלֶת is construct and governs חַלּוֹת; tortas de flor de harina makes the absolute the head and the construct the genitive",
+          "spanishSpan": "tortas de flor de harina"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03002004001"
+          ],
+          "issue": "cuando selects a temporal sense of the conjunction כִּי, which the morphology leaves open",
+          "spanishSpan": "cuando"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "Minjá se traduce oblación, no ofrenda, para que quede distinta de קרבן/'ofrenda' en la misma cláusula."
+    },
+    {
+      "verse": 2,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 3,
+      "note": "Elegí la forma femenina sustantivada 'la restante' en vez de agregar un sustantivo explícito, para igualar el género del participio hebreo sin cambiar el sentido."
+    },
+    {
+      "verse": 5,
+      "note": "Minjá is rendered oblación, not ofrenda, so it stays distinct from קרבן/tu ofrenda in the same verse."
+    },
+    {
+      "verse": 6,
+      "note": "The copula *es* is supplied in italics to complete the verbless Hebrew clause now that minjá reads as ofrenda; partirás keeps the 2ms person already set by the surrounding verbs, which is licensed grammatical smoothing of a non-finite infinitive absolute, not a person change."
+    },
+    {
+      "verse": 7,
+      "note": "Minjá is rendered oblación, not ofrenda, so it stays distinct from קרבן/tu ofrenda in the same verse."
+    },
+    {
+      "verse": 8,
+      "note": "Chose presentará for H7126 and kept acercará for H5066 so the two distinct hiphil verbs no longer share one Spanish word."
+    },
+    {
+      "verse": 9,
+      "note": "Chose 'ofrenda' for H4503 (minjá); this repeats the word already used for 'ofrenda de fuego' (H801) earlier in the verse."
+    },
+    {
+      "verse": 11,
+      "note": "Added con before leudado so the masculine noun names what the offering is made of, not an adjective disagreeing in gender with la ofrenda."
+    },
+    {
+      "verse": 12,
+      "note": "Added 'ellas' only to mark the subject of 'no subirán' as the offerings, not the addressees of 'acercarán'; both verbs share the Spanish -án ending."
+    },
+    {
+      "verse": 13,
+      "note": "Chose 'oblación' as the Spanish common noun for H4503 (מנחה) in both occurrences, distinct from 'ofrenda' used for H7133 (קרבן) elsewhere in the verse."
+    },
+    {
+      "verse": 14,
+      "note": "Chose the feminine noun espiga tierna for aviv, so the participle was adjusted to tostada to agree in gender; no clause roles or participants were changed."
+    },
+    {
+      "verse": 15,
+      "note": "Supplied the copula *es* (italicized) for the verbless הִוא clause, as done for the same construction in Levítico 2:6."
+    }
+  ]
+}

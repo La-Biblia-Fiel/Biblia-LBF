@@ -1,0 +1,30 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025005008"
+      ],
+      "issue": "Common noun (plural construct + 2ms) is left as the untranslated lemma nazir, and the plural is singular in Spanish.",
+      "spanishSpan": "tu nazir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025005012"
+      ],
+      "issue": "Common noun שַׁבָּתוֹן is dumped as the untranslated form shabatón instead of a Spanish noun.",
+      "spanishSpan": "shabatón"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025005002"
+      ],
+      "issue": "Masculine singular construct noun is smoothed into the substantivized adjective espontáneo.",
+      "spanishSpan": "El espontáneo"
+    }
+  ],
+  "notes": "Prohibition verbs, uvas, siega, and será a la tierra match the packet; nazir and shabatón do not."
+}

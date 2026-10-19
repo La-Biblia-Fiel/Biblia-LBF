@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:51",
+  "chapter": 1,
+  "verse": 51,
+  "candidateLabel": "lbf",
+  "spanish": "Y en partir el mishkán, harán bajar a él los levitas, y en acampar el mishkán, levantarán a él los levitas; y el zar el acercante será muerto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001051002",
+        "h04001051007"
+      ],
+      "issue": "mishkán leaves the common noun untranslated; a common noun stays Spanish.",
+      "spanishSpan": "el mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001051011"
+      ],
+      "issue": "zar leaves the adjective untranslated and is the Spanish title zar, which the token does not license.",
+      "spanishSpan": "el zar"
+    }
+  ],
+  "notes": "Person, number, hiphil/hophal force, repetition, and the participial adjective are otherwise licensed.",
+  "discardedUncitedFindings": 0
+}

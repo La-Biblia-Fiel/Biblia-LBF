@@ -1,0 +1,349 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 6,
+  "kept": [
+    1,
+    2,
+    3,
+    7,
+    8,
+    10,
+    13,
+    15,
+    16,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    29
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 4,
+      "notes": "spanish check",
+      "spanish": "y será cuando pecare y *será* culpado, y devolverá el robo que robó, o la opresión que oprimió, o el depósito que fue depositado con él, o la pérdida que halló,",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "futuro de subjuntivo arcaico; un lector de español actual no reconoce «pecare» como forma viva",
+          "spanishSpan": "pecare"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "o desde todo lo que jurare sobre él a mentira, y pagará a él en su cabeza, y sus quintos añadirá sobre él; a quien él a él lo dará en día de su culpa.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03006005011"
+          ],
+          "issue": "Hiphil jussive 3ms is smoothed to indicative future; person, number, and the add sense stay.",
+          "spanishSpan": "añadirá"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "notes": "clause role",
+      "spanish": "Y su culpa traerá a Jehová, carnero íntegro desde el rebaño, en tu valoración, a culpa, al sacerdote.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006006001",
+            "h03006006002",
+            "h03006006003"
+          ],
+          "issue": "את marks אשמו as the object of hiphil יביא (3ms brings his guilt). Spanish 'su culpa traerá' makes culpa the subject that brings, reversing who acts.",
+          "spanishSpan": "su culpa traerá"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "re-audit fail",
+      "spanish": "Manda a Aarón y a sus hijos, diciendo: Esta *es* la ley del holocausto: ella, el holocausto, *estará* sobre la hoguera sobre el altar toda la noche hasta la mañana, y el fuego del altar arderá en él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006009022"
+          ],
+          "issue": "Hophal imperfect (be kindled / be caused to burn) is rendered as simple active arderá, changing stem force.",
+          "spanishSpan": "arderá"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006009010",
+            "h03006009011",
+            "h03006009012"
+          ],
+          "issue": "Marked *estará* adds future time to a verbless clause whose tokens do not mark tense.",
+          "spanishSpan": "*estará*"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03006009013"
+          ],
+          "issue": "Anarthrous absolute noun is made definite as la hoguera, and hoguera narrows it toward a bonfire.",
+          "spanishSpan": "la hoguera"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "clause role",
+      "spanish": "Y se despojará sus vestidos, y vestirá vestidos otros, y sacará la ceniza a fuera al campamento, a lugar puro.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006011001",
+            "h03006011002",
+            "h03006011003"
+          ],
+          "issue": "Unmarked reflexive se is not licensed. The verb is qal 3ms with את marking the garments as direct object, and the 3ms suffix only marks whose garments; there is no reflexive stem.",
+          "spanishSpan": "se"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "notes": "clause role",
+      "spanish": "Y el fuego sobre el altar arderá en él; no se apagará. Y quemará sobre él el sacerdote leños en la mañana en la mañana, y ordenará sobre él el holocausto, y hará humear sobre él grasas de los pazes.",
+      "findings": []
+    },
+    {
+      "verse": 14,
+      "notes": "spanish check",
+      "spanish": "Y esta *es* la ley de la ofrenda: acercarán a ella hijos de Aarón delante de Jehová, a faces del altar.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«faces» no es una palabra que un lector reconozca en el español actual; tiene que adivinar que quiere decir «faz».",
+          "spanishSpan": "faces"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "notes": "clause role",
+      "spanish": "No será cocido leudado; su porción di a ella desde mis ofrendas de fuego; santidad de santidades ella, como el pecado y como la culpa.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006017002",
+            "h03006017003"
+          ],
+          "issue": "Niphal imperfect 3fs of H644 is a feminine subject that is baked, distinct from masculine noun חָמֵץ. 'será cocido leudado' uses generic cooked and masculine agreement, and joins that noun to the verb as one masculine predicate.",
+          "spanishSpan": "será cocido leudado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006017004",
+            "h03006017005",
+            "h03006017006"
+          ],
+          "issue": "אֹתָהּ is the direct-object marker plus 3fs (the thing given). Masculine חֶלְקָם 'their portion' is not that object. 'su porción di a ella' makes the portion the thing given and ella the recipient.",
+          "spanishSpan": "su porción di a ella"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03006017011",
+            "h03006017012"
+          ],
+          "issue": "Morphology expansion lists only preposition plus absolute noun, while Spanish adds definite articles. Surface כַּ/כָ may already carry the article, so definiteness is uncertain.",
+          "spanishSpan": "el pecado y como la culpa"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "notes": "re-audit fail",
+      "spanish": "Todo macho en hijos de Aarón la comerá; estatuto de siempre a generaciones de ustedes de ofrendas de fuego de Jehová; todo el que tocare en ellas será santo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006018009"
+          ],
+          "issue": "מ on the fire-offerings marks source ('from'); Spanish 'de' is a genitive, so the offerings modify generaciones or estatuto instead of the source of the statute.",
+          "spanishSpan": "de ofrendas de fuego"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03006018014"
+          ],
+          "issue": "The suffix is 3rd masculine plural; 'ellas' is feminine, matching Spanish ofrendas rather than the Hebrew masculine.",
+          "spanishSpan": "ellas"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "notes": "clause role",
+      "spanish": "El sacerdote el pecante a ella la comerá; en lugar santo será comida, en atrio de tienda de reunión.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006026002",
+            "h03006026003"
+          ],
+          "issue": "הַמְחַטֵּא is a definite piel active participle of H2398 with direct object אֹתָהּ. 'el pecante a ella' gives the priest qal 'one who sins' force and aims that sinning at her, instead of the piel act done to the feminine object.",
+          "spanishSpan": "el pecante a ella"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Todo el que tocare en su carne se santificará; y lo que se rociare desde su sangre sobre el vestido, lo que se rociare sobre él lavarás en lugar santo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006027007",
+            "h03006027012"
+          ],
+          "issue": "Both tokens are qal imperfect 3rd masculine singular active (someone sprinkles). Spanish se rociare is passive: the 3ms sprinkler is gone and the sprinkled thing is the subject.",
+          "spanishSpan": "lo que se rociare"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006027013"
+          ],
+          "issue": "The preposition suffix is 3rd feminine singular (upon her). él is masculine.",
+          "spanishSpan": "sobre él"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03006027005"
+          ],
+          "issue": "Qal imperfect is be/become holy. se santificará can be read as reflexive self-sanctifying.",
+          "spanishSpan": "se santificará"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "spanish check",
+      "spanish": "Y utensilio de barro en que se cocinare será quebrado; y si en utensilio de bronce se hubiere cocinado, será fregado y lavado en las aguas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "futuro de subjuntivo no vigente; el lector tiene que adivinar la forma",
+          "spanishSpan": "cocinare"
+        },
+        {
+          "severity": "fail",
+          "issue": "futuro de subjuntivo arcaico de haber; en el español actual no se reconoce como forma corriente",
+          "spanishSpan": "hubiere"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "notes": "clause role",
+      "spanish": "Y todo pecado que se trajere desde su sangre a tienda de reunión para expiar en el santo no será comido; en el fuego será quemado.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03006030002",
+            "h03006030003",
+            "h03006030004",
+            "h03006030005"
+          ],
+          "issue": "חַטָּאת is feminine singular, while יוּבָא is hophal imperfect 3ms. The masculine noun in the clause is דָּם, with מִן and a 3fs suffix resuming the feminine antecedent after אֲשֶׁר. That licenses “(some) of its blood is brought.” The Spanish makes the sin the thing brought and the blood only the source it is brought from.",
+          "spanishSpan": "pecado que se trajere desde su sangre"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 4,
+      "note": "futuro de subjuntivo arcaico; un lector de español actual no reconoce «pecare» como forma viva"
+    },
+    {
+      "verse": 6,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 10,
+      "note": "Chose present tense 'come' for the open qal imperfect 3fs so the fire's consuming of the offering reads as present/habitual rather than a locked completed past."
+    },
+    {
+      "verse": 11,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 12,
+      "note": "hold: clause role — the three instances of 'sobre él' (h03006012009, h03006012015, h03006012018) are left unchanged because whether each עָלֶיהָ suffix's preposition governs the fire or the altar is a clause-role question outside polish scope."
+    },
+    {
+      "verse": 13,
+      "note": "Chose the passive causative 'se hará arder' for the hophal stem and the adverb 'continuamente' (rather than an adjective on fuego) for tamid; both are grammatical choices, not changes to participants or sense."
+    },
+    {
+      "verse": 14,
+      "note": "«faces» no es una palabra que un lector reconozca en el español actual; tiene que adivinar que quiere decir «faz»."
+    },
+    {
+      "verse": 16,
+      "note": "Changed neuter 'lo restante' to feminine 'la restante' so the substantivized participle agrees with the later feminine pronoun 'la' and with the feminine niphal participle in the source."
+    },
+    {
+      "verse": 17,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 21,
+      "note": "Chose 'ofrenda', 'mezclada', and 'piezas horneadas' as the Spanish renderings for the three audit-cited lemmas, per the allowed broader senses."
+    },
+    {
+      "verse": 22,
+      "note": "Kept 'entera' feminine, agreeing with the feminine Spanish subject/verb, even though the Hebrew כָּלִיל is a masculine singular adjective; this is grammatical gender smoothing, not a meaning change."
+    },
+    {
+      "verse": 23,
+      "note": "The Hebrew adjective כָּלִיל is masculine but predicates the feminine noun מִנְחָה; entera was kept feminine to agree with the Spanish noun ofrenda."
+    },
+    {
+      "verse": 25,
+      "note": "Supplied the copula *es* to complete the verbless nominal clause and set both niphal imperfect 3fs verbs to future (se degollará) for tense consistency."
+    },
+    {
+      "verse": 26,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 28,
+      "note": "futuro de subjuntivo no vigente; el lector tiene que adivinar la forma; futuro de subjuntivo arcaico de haber; en el español actual no se reconoce como forma corriente"
+    },
+    {
+      "verse": 30,
+      "note": "hold: clause role"
+    }
+  ]
+}

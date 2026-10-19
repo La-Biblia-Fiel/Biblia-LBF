@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:4",
+  "chapter": 39,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Hombros hicieron a él, juntados; sobre sus dos extremos fue juntado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039004003",
+        "h02039004006"
+      ],
+      "issue": "«sus» and «extremos» add a possessor and a noun the tokens do not license. שְׁנֵי is only the masculine dual construct numeral «two of», with no pronominal suffix and no head noun. The only 3ms suffix is לו, already rendered «a él».",
+      "spanishSpan": "sus dos extremos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039004004",
+        "h02039004007"
+      ],
+      "issue": "Qal active feminine plural participle rendered as the masculine passive adjective «juntados». That matches only a stative «joined» reading; the passive stem is the separate pual perfect. Masculine follows «hombros».",
+      "spanishSpan": "juntados"
+    }
+  ],
+  "notes": "«Hombros», «hicieron», «a él», «sobre», «dos», and «fue juntado» match the remaining tokens in number, person, and stem.",
+  "discardedUncitedFindings": 0
+}

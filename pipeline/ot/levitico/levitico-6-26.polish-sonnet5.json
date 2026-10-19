@@ -1,0 +1,81 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 6:26",
+  "chapter": 6,
+  "verse": 26,
+  "sourceDraft": "El sacerdote el pecante a ella la comerá; en lugar santo será comida, en atrio de tienda de reunión.",
+  "spanish": "El sacerdote, el pecante a ella, la comerá; en lugar santo será comida, en el atrio de tienda de reunión.",
+  "units": [
+    {
+      "es": "El sacerdote",
+      "sourceTokenIds": [
+        "h03006026001"
+      ]
+    },
+    {
+      "es": "el pecante",
+      "sourceTokenIds": [
+        "h03006026002"
+      ]
+    },
+    {
+      "es": "a ella",
+      "sourceTokenIds": [
+        "h03006026003"
+      ]
+    },
+    {
+      "es": "la comerá",
+      "sourceTokenIds": [
+        "h03006026004"
+      ]
+    },
+    {
+      "es": "en lugar",
+      "sourceTokenIds": [
+        "h03006026005"
+      ]
+    },
+    {
+      "es": "santo",
+      "sourceTokenIds": [
+        "h03006026006"
+      ]
+    },
+    {
+      "es": "será comida",
+      "sourceTokenIds": [
+        "h03006026007"
+      ]
+    },
+    {
+      "es": "en el atrio",
+      "sourceTokenIds": [
+        "h03006026008"
+      ]
+    },
+    {
+      "es": "de tienda",
+      "sourceTokenIds": [
+        "h03006026009"
+      ]
+    },
+    {
+      "es": "de reunión",
+      "sourceTokenIds": [
+        "h03006026010"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Inserted commas around 'el pecante a ella' so the participle governs its own object, instead of 'a ella la' reading as one doubled object of 'comerá'.",
+    "Added the definite article: 'en atrio' → 'en el atrio', since בַּ marks the court as definite."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Added commas to set off 'el pecante a ella' as its own phrase, since Spanish cannot attach a direct object straight onto a bare participle the way the Hebrew piel participle takes אֹתָהּ.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

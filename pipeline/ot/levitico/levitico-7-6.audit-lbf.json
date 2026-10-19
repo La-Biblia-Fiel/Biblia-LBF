@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:6",
+  "chapter": 7,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Todo macho en los sacerdotes la comerá; en lugar santo será comida; santidad de santidades ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007006004"
+      ],
+      "issue": "El sufijo pronominal es 3ms; «la» lo vuelve objeto femenino.",
+      "spanishSpan": "la"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007006007"
+      ],
+      "issue": "Nifal imperfecto 3ms; «comida» concierta en femenino.",
+      "spanishSpan": "será comida"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007006010"
+      ],
+      "issue": "El pronombre personal es 3ms; «ella» es femenino.",
+      "spanishSpan": "ella"
+    }
+  ],
+  "notes": "כָּל־זָכָר, בַּכֹּהֲנִים, בְּמָקוֹם קָדוֹשׁ y קֹדֶשׁ קָדָשִׁים quedan dentro de lo que los tokens autorizan.",
+  "discardedUncitedFindings": 0
+}

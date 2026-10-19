@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:26",
+  "chapter": 11,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y quedaron dos varones en el campamento; nombre del uno Eldad, y nombre del segundo Medad, y descansó sobre ellos el espíritu; y ellos en los escritos, y no salieron a la tienda, y profetizaron en el campamento.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04011026015"
+      ],
+      "issue": "The token is a preposition plus article plus qal passive participle masculine plural (those who are written). «en los escritos» is the noun writings/documents, so the men are placed in writings instead of among the ones written.",
+      "spanishSpan": "en los escritos"
+    }
+  ],
+  "notes": "Other clauses match the packet, including the verbless name clauses and the directive on the tent.",
+  "discardedUncitedFindings": 0
+}

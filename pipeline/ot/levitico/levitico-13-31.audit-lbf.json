@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:31",
+  "chapter": 13,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando viere el sacerdote plaga del neteq, y he aquí no su apariencia profunda desde la piel, y pelo negro no en él, y encerrará el sacerdote plaga del neteq siete días.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013031006",
+        "h03013031021"
+      ],
+      "issue": "Common noun הַנֶּתֶק (H5424) is dumped as the transliteration neteq; a non-name lemma must be Spanish.",
+      "spanishSpan": "neteq"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013031001"
+      ],
+      "issue": "כִּי is only an unspecified conjunction; cuando selects the temporal reading and closes if/that.",
+      "spanishSpan": "cuando"
+    }
+  ],
+  "notes": "Else the verse keeps order, number, person, hiphil force, repetition, and the מן as from.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:28",
+  "chapter": 15,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y si se purificare desde su flujo, y contará a ella siete días, y después será pura.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015028002"
+      ],
+      "issue": "Qal perfect 3fs is stative she-is/becomes-clean. \"se purificare\" is factitive purificar plus reflexive se, shifting stem force to she purifies herself, and future subjunctive drops the perfect's completed state.",
+      "spanishSpan": "se purificare"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03015028004",
+        "h03015028005"
+      ],
+      "issue": "Qal sequential perfect 3fs plus ל+3fs is she-counts for that same woman. \"contará a ella\" can be heard as counting or telling toward a second woman.",
+      "spanishSpan": "contará a ella"
+    }
+  ],
+  "notes": "desde su flujo, siete días, después, and será pura stay within the qal imperfect and the other tokens.",
+  "discardedUncitedFindings": 0
+}

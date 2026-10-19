@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:19",
+  "chapter": 6,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomará el sacerdote el brazo cocido desde el carnero, y torta ázima una desde la canasta, y oblea ázima una, y dará sobre palmas del nazir después de afeitarse su nézer.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006019019"
+      ],
+      "issue": "Common noun הַנָּזִיר is left as the untranslated lemma nazir.",
+      "spanishSpan": "nazir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006019023"
+      ],
+      "issue": "Common noun נִזְרוֹ is left as the untranslated lemma nézer; only the 3ms suffix is rendered (su).",
+      "spanishSpan": "nézer"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006019018"
+      ],
+      "issue": "Dual construct כַּפֵּי is an unmarked plural; the two palms are not stated.",
+      "spanishSpan": "palmas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006019021"
+      ],
+      "issue": "Hithpael infinitive with 3ms subject suffix is only afeitarse, so the shaver is unmarked beside the priest as main-clause subject.",
+      "spanishSpan": "afeitarse"
+    }
+  ],
+  "notes": "Take, priest, boiled arm, from the ram, one unleavened cake, from the basket, one unleavened wafer, give upon, and after are licensed.",
+  "discardedUncitedFindings": 0
+}

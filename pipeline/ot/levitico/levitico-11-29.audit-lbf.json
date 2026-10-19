@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:29",
+  "chapter": 11,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y este a ustedes el impuro en el reptil el reptante sobre la tierra: el hóled y el akhbar y el tsav a su especie,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011029008"
+      ],
+      "issue": "Common noun (not a proper name) is left as an untranslated Hebraized lemma; common nouns stay Spanish.",
+      "spanishSpan": "hóled"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011029009"
+      ],
+      "issue": "Common noun (not a proper name) is left as an untranslated Hebraized lemma; common nouns stay Spanish.",
+      "spanishSpan": "akhbar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011029010"
+      ],
+      "issue": "Common noun (not a proper name) is left as an untranslated Hebraized lemma; common nouns stay Spanish.",
+      "spanishSpan": "tsav"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011029004"
+      ],
+      "issue": "Common masculine singular noun is rendered as the zoological class reptil, which may narrow the token; the packet licenses the noun, article, and preposition, not that class.",
+      "spanishSpan": "reptil"
+    }
+  ],
+  "notes": "Y este, a ustedes, el impuro, el reptante, sobre la tierra, and a su especie match conjunction, 2mp, adjective, participle, and 3ms suffix.",
+  "discardedUncitedFindings": 0
+}

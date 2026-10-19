@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:25",
+  "chapter": 5,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomará el sacerdote desde mano de la mujer la minjá de los celos, y balanceará la minjá delante de Jehová, y la acercará al altar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005025006",
+        "h04005025010"
+      ],
+      "issue": "minjá leaves the common noun H4503 untranslated instead of a Spanish common noun",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Priest 3ms, hand, plural jealousies, Jehová, and bring-near to the altar match the tokens.",
+  "discardedUncitedFindings": 0
+}

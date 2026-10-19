@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:24",
+  "chapter": 19,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y en el año el cuarto será todo su fruto santidad de alabanzas a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019024006",
+        "h03019024007"
+      ],
+      "issue": "Unmarked “de” turns two absolute nouns (קדש singular absolute + הלולים plural absolute) into a genitive. The morphology leaves them juxtaposed, not a construct chain.",
+      "spanishSpan": "de"
+    }
+  ],
+  "notes": "Y, en, both articles, año, cuarto, será, todo, su fruto, santidad, alabanzas, and a Jehová match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

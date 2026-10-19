@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:31",
+  "chapter": 15,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y apartarán a hijos de Israel desde su impureza, y no morirán en su impureza, en impurecer ellos mi mishkán que en medio de ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015031011"
+      ],
+      "issue": "Common noun (H4908, masculine singular + 1cs suffix) is left as the untranslated lemma mishkán instead of a Spanish common noun.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Other tokens match: 2mp hiphil weqatal as ustedes-type apartarán, 3mp qal morirán, min/b on singular impureza, piel infinitive + 3mp + object, and the verbless relative.",
+  "discardedUncitedFindings": 0
+}

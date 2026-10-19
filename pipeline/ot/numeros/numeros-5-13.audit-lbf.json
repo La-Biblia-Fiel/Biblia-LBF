@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:13",
+  "chapter": 5,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "y yaciere varón con ella yacimiento de semilla, y se ocultare desde ojos de su varón, y ella se ocultare, y ella impurecida, y testigo no hay en ella, y ella no fue asida,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005013003"
+      ],
+      "issue": "H853 is the direct-object marker with a 3fs suffix; con turns her into accompaniment instead of the object.",
+      "spanishSpan": "con ella"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005013001",
+        "h04005013006",
+        "h04005013009"
+      ],
+      "issue": "Sequential perfects are future subjunctive, a hypothetical mood the sequential-perfect forms do not mark.",
+      "spanishSpan": "yaciere … se ocultare … se ocultare"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005013006",
+        "h04005013009"
+      ],
+      "issue": "Different lemmas (H5956 and H5641) are both ocultare, so the Spanish repeats one verb the tokens do not repeat.",
+      "spanishSpan": "se ocultare … se ocultare"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005013011"
+      ],
+      "issue": "Niphal perfect 3fs is a bare participle, not a finite perfect.",
+      "spanishSpan": "impurecida"
+    }
+  ],
+  "notes": "Yacimiento de semilla, su varón, en ella, and no fue asida stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

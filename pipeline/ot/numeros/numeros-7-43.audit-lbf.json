@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:43",
+  "chapter": 7,
+  "verse": 43,
+  "candidateLabel": "lbf",
+  "spanish": "Su ofrenda: plato de plata uno, treinta y cien su peso; tazón uno plata, setenta siclo en siclo de la santidad; los dos ellos llenos sólet amasada en el aceite a minjá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007043017"
+      ],
+      "issue": "Sustantivo común סֹלֶת vertido sin traducir como sólet; debe quedar en español.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007043018"
+      ],
+      "issue": "Participio pasivo qal de mezclar/humedecer se resuelve como amasada (amasar), acción que el lema no licencia.",
+      "spanishSpan": "amasada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007043020"
+      ],
+      "issue": "Sustantivo común מִנְחָה vertido sin traducir como minjá; debe quedar en español.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "El resto del versículo sigue número, sufijos, constructos y el orden treinta y cien.",
+  "discardedUncitedFindings": 0
+}

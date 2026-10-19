@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:13",
+  "chapter": 26,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Yo Jehová su Dios, que saqué a ustedes desde tierra de Egipto, de ser a ellos siervos, y quebré varas de su yugo, y los hice andar erectos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026013015",
+        "h03026013017"
+      ],
+      "issue": "El adverbio קוממיות queda como el adjetivo erectos sobre el objeto del hiphil de andar; el modo erguido se mantiene como ajuste gramatical.",
+      "spanishSpan": "andar erectos"
+    }
+  ],
+  "notes": "El 2mp queda en ustedes/su/los y el 3mp de להם queda en a ellos.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,30 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025031015"
+      ],
+      "issue": "יוֹבֵל is a common noun (H3104), left untranslated as yovel; common nouns stay Spanish.",
+      "spanishSpan": "yovel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025031014"
+      ],
+      "issue": "לּוֹ is 3ms (him/it). «a ella» is feminine singular, so it does not match that suffix and reads as tierra or muralla.",
+      "spanishSpan": "a ella"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025031005"
+      ],
+      "issue": "לָהֶם is 3mp; «a ellas» only feminizes the suffix toward aldeas/casas.",
+      "spanishSpan": "a ellas"
+    }
+  ],
+  "notes": "Plural casas with singular se contará matches plural בָּתֵּי plus 3ms יֵחָשֵׁב."
+}

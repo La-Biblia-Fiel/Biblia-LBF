@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:36",
+  "chapter": 7,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "que mandó Jehová a dar a ellos en día de ungir a ellos, de parte de hijos de Israel; estatuto de siempre a sus generaciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007036007",
+        "h03007036008"
+      ],
+      "issue": "מָשְׁחוֹ is a qal infinitive construct with a 3ms suffix, and אֹתָם is the 3mp object. With both present, the suffix is the anointer. Spanish 'ungir a ellos' keeps the object and drops that masculine singular participant.",
+      "spanishSpan": "ungir a ellos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007036009"
+      ],
+      "issue": "מֵאֵת is from + with (source). 'de parte de' can be read as representation on behalf of the sons of Israel.",
+      "spanishSpan": "de parte de"
+    }
+  ],
+  "notes": "Relative, piel command, Jehová, qal dar, 3mp recipients, construct day, sons of Israel, statute of perpetuity, and their generations match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:7",
+  "chapter": 2,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y si minjá de sartén tu ofrenda, sólet en el aceite será hecha.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002007002"
+      ],
+      "issue": "Common noun left as the untranslated lemma minjá instead of Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002007005"
+      ],
+      "issue": "Common noun left as the untranslated lemma sólet instead of Spanish.",
+      "spanishSpan": "sólet"
+    }
+  ],
+  "notes": "Y si, de sartén, tu ofrenda, en el aceite, and feminine niphal será hecha match the tokens.",
+  "discardedUncitedFindings": 0
+}

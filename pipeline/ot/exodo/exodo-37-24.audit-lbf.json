@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:24",
+  "chapter": 37,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "De un talento de oro puro hizo a ella, y todos sus utensilios.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037024001",
+        "h02037024002"
+      ],
+      "issue": "Unmarked de and un smooth the absolute singular material phrase into a Spanish prepositional measure; they add no concept.",
+      "spanishSpan": "De un"
+    }
+  ],
+  "notes": "Qal 3ms, 3fs object, conjunction, and plural utensils with 3fs suffix match the tokens.",
+  "discardedUncitedFindings": 0
+}

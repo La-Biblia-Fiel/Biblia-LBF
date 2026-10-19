@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 10:5",
+  "chapter": 10,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y se acercaron, y los alzaron en sus túnicas a fuera al campamento, conforme a lo que habló Moisés.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03010005004",
+        "h03010005005",
+        "h03010005006"
+      ],
+      "issue": "אֶל מִחוּץ לַמַּחֲנֶה is one destination: to the outside of the camp. “a fuera al campamento” reads as outward motion whose goal is the camp.",
+      "spanishSpan": "a fuera al campamento"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

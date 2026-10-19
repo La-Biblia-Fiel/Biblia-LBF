@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:5",
+  "chapter": 9,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y hicieron el Pésaj en el primero, en catorce día al mes, entre las tardes, en desierto de Sinai; conforme a todo lo que mandó Jehová a Moisés, así hicieron hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009005003"
+      ],
+      "issue": "הַפֶּסַח is a definite common noun (masculine singular), not a proper name; Pésaj leaves the lemma untranslated and capitalizes it as a title.",
+      "spanishSpan": "Pésaj"
+    }
+  ],
+  "notes": "The other clauses match the tokens in number, person, participants, and dual.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:11",
+  "chapter": 14,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: ¿Hasta dónde me despreciará el pueblo este, y hasta dónde no creerán en mí, en todas las señales que hice en su medio?",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04014011007"
+      ],
+      "issue": "Piel imperfect 3mp is smoothed to singular despreciará to agree with singular el pueblo; the participant is still this people.",
+      "spanishSpan": "despreciará"
+    }
+  ],
+  "notes": "עד אנה stays hasta dónde; creerán matches the second 3mp verb.",
+  "discardedUncitedFindings": 0
+}

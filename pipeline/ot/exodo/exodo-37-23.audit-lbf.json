@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:23",
+  "chapter": 37,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo sus lámparas siete, y sus despabiladeras y sus braseros, oro puro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037023005"
+      ],
+      "issue": "The noun is dual (a pair); Spanish despabiladeras is an unmarked plural and does not keep that number.",
+      "spanishSpan": "despabiladeras"
+    }
+  ],
+  "notes": "The rest matches: qal 3ms hizo, plural lamps, seven, plural firepans, and pure gold.",
+  "discardedUncitedFindings": 0
+}

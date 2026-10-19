@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 24:22",
+  "chapter": 24,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Juicio uno será a ustedes; como el peregrino como el nativo será; porque yo Jehová Dios de ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03024022005",
+        "h03024022006"
+      ],
+      "issue": "Absolute nouns have no article; Spanish generic el is smoothing and does not add a referent.",
+      "spanishSpan": "el peregrino como el nativo"
+    }
+  ],
+  "notes": "2mp as ustedes; verbless אני יהוה clause kept without an unmarked copula.",
+  "discardedUncitedFindings": 0
+}

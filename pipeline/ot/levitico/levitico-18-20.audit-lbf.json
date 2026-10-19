@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 18:20",
+  "chapter": 18,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y a mujer de tu prójimo no darás tu yacimiento a semilla, para contaminarte en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03018020006"
+      ],
+      "issue": "yacimiento names a deposit or site; H7903 is the noun for the act of lying or seminal emission, so the act is omitted and a place or deposit is added",
+      "spanishSpan": "yacimiento"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03018020008"
+      ],
+      "issue": "contaminarte is a reflexive of causative contaminar; the token is a qal infinitive construct (become unclean) with no causative stem and no object suffix",
+      "spanishSpan": "contaminarte"
+    }
+  ],
+  "notes": "The remaining tokens match in order, person, and number, including ustedes-free 2ms address.",
+  "discardedUncitedFindings": 0
+}

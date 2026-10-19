@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:22",
+  "chapter": 37,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Sus manzanas y sus cañas desde ella fueron; toda ella martillo una, oro puro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037022001"
+      ],
+      "issue": "manzanas nombra la fruta; H3730 es un nudo o capitel, no una manzana",
+      "spanishSpan": "manzanas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037022006"
+      ],
+      "issue": "martillo es el instrumento; H4749 es obra batida (el producto), sustantivo femenino singular, no el martillo",
+      "spanishSpan": "martillo"
+    }
+  ],
+  "notes": "El resto del verso conserva número, sufijos, «desde ella», «fueron», «toda ella», «una» y «oro puro».",
+  "discardedUncitedFindings": 0
+}

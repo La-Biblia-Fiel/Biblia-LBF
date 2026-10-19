@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:22",
+  "chapter": 22,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Ceguera o quebrado o hendido o verruga o sarna o tiña, no acercarán estas a Jehová, y ofrenda de fuego no darán desde ellas sobre el altar a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03022022005"
+      ],
+      "issue": "Qal passive of H2782 licenses cut, wounded, or maimed; hendido specifies split or cloven.",
+      "spanishSpan": "hendido"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022022014"
+      ],
+      "issue": "Common-gender plural demonstrative is feminine estas, which does not cover the masculine items in the list.",
+      "spanishSpan": "estas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022022019"
+      ],
+      "issue": "3mp suffix rendered as feminine ellas.",
+      "spanishSpan": "ellas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022022011"
+      ],
+      "issue": "H3217 (scurf or scaly eruption) narrowed to tiña (ringworm).",
+      "spanishSpan": "tiña"
+    }
+  ],
+  "notes": "Ceguera, quebrado, verruga, sarna, the two negatives, hiphil acercarán with object, qal darán, ofrenda de fuego, and both a Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

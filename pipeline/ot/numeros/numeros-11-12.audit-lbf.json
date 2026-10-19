@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:12",
+  "chapter": 11,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "¿Acaso yo concebí a todo el pueblo este? ¿Si yo lo di a luz, que digas a mí: Llévalo en tu seno como lleva el ama al lactante, sobre la tierra que juraste a sus padres?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04011012017"
+      ],
+      "issue": "הָאֹמֵן is a definite qal active participle, masculine singular (Vqrmsa); «el ama» makes that carrier feminine.",
+      "spanishSpan": "el ama"
+    }
+  ],
+  "notes": "The rest of the clause tracks the tokens, including masculine «lactante» for הַיֹּנֵק.",
+  "discardedUncitedFindings": 0
+}

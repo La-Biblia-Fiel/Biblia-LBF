@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:56",
+  "chapter": 13,
+  "verse": 56,
+  "candidateLabel": "lbf",
+  "spanish": "Y si viere el sacerdote, y he aquí oscureció la plaga después de ser lavado a él, y rasgará a él desde el vestido o desde la piel o desde la urdimbre o desde la trama.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013056005"
+      ],
+      "issue": "Piel perfect H3544 licenses dim/faint; oscureció says the plague darkened.",
+      "spanishSpan": "oscureció"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013056008",
+        "h03013056009"
+      ],
+      "issue": "Passive u-stem infinitive plus the 3ms object suffix is the patient washed; a él after ser lavado reads as a dative.",
+      "spanishSpan": "ser lavado a él"
+    }
+  ],
+  "notes": "Priest remains seer and tearer; repeated מן/או and the singular nouns stay.",
+  "discardedUncitedFindings": 0
+}

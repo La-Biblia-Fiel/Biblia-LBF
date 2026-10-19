@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 1:9",
+  "chapter": 1,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y su interior y sus piernas lavará en las aguas, y hará humear el sacerdote el todo hacia el altar; holocausto, ofrenda de fuego, olor de reposo a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03001009011",
+        "h03001009012",
+        "h03001009013"
+      ],
+      "issue": "אִשֵּׁה and רֵיחַ are construct, so the fire-offering governs olor de reposo. The comma makes that phrase a separate appositive and drops the genitive the morphology licenses.",
+      "spanishSpan": "ofrenda de fuego, olor de reposo"
+    }
+  ],
+  "notes": "Lavado, hiphil hará humear, el todo, hacia el altar, holocausto y a Jehová siguen los tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02040002004"
+      ],
+      "issue": "אֶחָד is an anarthrous cardinal; “el” in “el uno” is article smoothing so the cardinal can stand as a noun.",
+      "spanishSpan": "el uno"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02040002008",
+        "h02040002009",
+        "h02040002010"
+      ],
+      "issue": "מוֹעֵד is absolute and anarthrous, so the construct chain is not marked definite; “el tabernáculo” and “la tienda” add Spanish definiteness.",
+      "spanishSpan": "el tabernáculo de la tienda"
+    }
+  ],
+  "notes": "The two date phrases, hiphil 2ms levantarás, the object marker left untranslated, and the construct chain otherwise match the tokens."
+}

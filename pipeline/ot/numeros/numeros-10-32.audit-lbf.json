@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 10:32",
+  "chapter": 10,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y será que si andas con nosotros, y será el bien aquel que hará bien Jehová con nosotros, y haremos bien a ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04010032002"
+      ],
+      "issue": "כִּי is one conjunction (morph only HC). Spanish “que si” adds a complementizer and also fixes the open conjunction as conditional.",
+      "spanishSpan": "que si"
+    }
+  ],
+  "notes": "Other tokens match person, number, hiphil force, Jehová, and both con nosotros; 2fs לָךְ is a ti.",
+  "discardedUncitedFindings": 0
+}

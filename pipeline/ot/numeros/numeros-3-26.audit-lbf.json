@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:26",
+  "chapter": 3,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y colgaduras del atrio, y el masaj de abertura del atrio que sobre el mishkán y sobre el altar alrededor, y sus cuerdas, a todo su servicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003026004"
+      ],
+      "issue": "Common noun מָסַךְ (H4539, singular construct) is dumped untranslated as masaj instead of a Spanish noun.",
+      "spanishSpan": "masaj"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003026009"
+      ],
+      "issue": "Common noun הַמִּשְׁכָּן (H4908, singular absolute) is Hebraized as mishkán instead of a Spanish noun.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Remaining tokens match in conjunction, number, definiteness, relative clause, prepositions, and 3ms suffixes.",
+  "discardedUncitedFindings": 0
+}

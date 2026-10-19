@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 1:2",
+  "chapter": 1,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a hijos de Israel, y dirás a ellos: Adam, cuando acerque de ustedes ofrenda a Jehová, desde la bestia, desde el ganado y desde el rebaño, acercarán su ofrenda.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03001002007"
+      ],
+      "issue": "אָדָם is a common noun (singular absolute), not a proper name; Adam leaves the lemma untranslated and capitalizes it as a name.",
+      "spanishSpan": "Adam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03001002008"
+      ],
+      "issue": "כִּי is marked only as a conjunction; cuando selects a temporal sense and closes if/that.",
+      "spanishSpan": "cuando"
+    }
+  ],
+  "notes": "2mp תקריבו as acercarán and קרבנכם as su ofrenda stay ustedes address.",
+  "discardedUncitedFindings": 0
+}

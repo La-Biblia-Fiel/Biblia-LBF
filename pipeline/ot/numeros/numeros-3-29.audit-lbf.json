@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:29",
+  "chapter": 3,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Familias de hijos de Quehat acamparán sobre costado del mishkán hacia el sur.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003029007"
+      ],
+      "issue": "הַמִּשְׁכָּן (H4908) is a common noun with the article; mishkán leaves that lemma untranslated instead of Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Familias de hijos de Quehat, acamparán, sobre, costado, and hacia el sur match the other tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,15 @@
+{
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011006004",
+        "h04011006005"
+      ],
+      "issue": "«no hay todo» matches אין and כל word for word, but Spanish can read it as partial absence («not everything») rather than the negative existential over כל (there is not anything).",
+      "spanishSpan": "no hay todo"
+    }
+  ],
+  "notes": "Other tokens match in order, number, person, and definiteness; the verbless clauses add no unmarked copula."
+}

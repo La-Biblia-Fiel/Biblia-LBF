@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:14",
+  "chapter": 39,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y las piedras sobre nombres de hijos de Israel ellas, doce sobre sus nombres; grabados de sello, varón sobre su nombre, a las doce tribus.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039014018"
+      ],
+      "issue": "שָׁבֶט is singular; tribus is plural smoothing with the numeral twelve and does not change the count.",
+      "spanishSpan": "tribus"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039014016",
+        "h02039014017",
+        "h02039014018"
+      ],
+      "issue": "las marks the twelve tribes definite; the Hebrew numeral phrase has no article.",
+      "spanishSpan": "las"
+    }
+  ],
+  "notes": "Other spans match the tokens, including feminine ellas for the stones and singular sello.",
+  "discardedUncitedFindings": 0
+}

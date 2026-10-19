@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:84",
+  "chapter": 7,
+  "verse": 84,
+  "candidateLabel": "lbf",
+  "spanish": "Esta dedicación del altar en día de ser ungido a él, de parte de príncipes de Israel: platos de plata doce, tazones de plata doce, cucharas de oro doce.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007084005",
+        "h04007084006"
+      ],
+      "issue": "El nifal ya es pasivo (ser ungido); «a él» calca el objeto 3ms y puede leerse como complemento indirecto.",
+      "spanishSpan": "ser ungido a él"
+    }
+  ],
+  "notes": "El resto conserva demostrativo, dedicación, altar, príncipes de Israel y las tres cuentas de doce.",
+  "discardedUncitedFindings": 0
+}

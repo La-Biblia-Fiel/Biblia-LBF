@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:14",
+  "chapter": 6,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y esta torá de la minjá: acercarán a ella hijos de Aarón delante de Jehová, a faces del altar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006014002"
+      ],
+      "issue": "Common noun תּוֹרַת (H8451, feminine singular construct) is dumped as the untranslated lemma torá; common nouns stay Spanish.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006014003"
+      ],
+      "issue": "Common noun הַמִּנְחָה (H4503, definite feminine singular) is dumped as the untranslated lemma minjá; common nouns stay Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006014004",
+        "h03006014006"
+      ],
+      "issue": "Hiphil infinitive absolute is smoothed as finite future acercarán; 3rd-person plural follows the masculine-plural subject בְּנֵי, while tense is not marked on the infinitive.",
+      "spanishSpan": "acercarán"
+    }
+  ],
+  "notes": "Object, sons of Aaron, Jehová, and altar match the tokens; לפני is idiomatically delante de.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:13",
+  "chapter": 13,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "a vara de Aser, Setur hijo de Mijael;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013013001"
+      ],
+      "issue": "«vara» cierra מַטֵּה (H4294) como instrumento físico. El lema deja abiertos vara, rama y tribu; la morfología (preposición + sustantivo común masculino singular constructo) no elige el instrumento.",
+      "spanishSpan": "vara"
+    }
+  ],
+  "notes": "Aser está fijado; Setur, el constructo hijo de y Mijael siguen sus tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:14",
+  "chapter": 4,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "y fuere conocido el pecado que pecaron sobre ella, y acercarán la asamblea toro hijo de ganado a pecado, y lo traerán delante de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004014006",
+        "h03004014007",
+        "h03004014008"
+      ],
+      "issue": "Hiphil 3cp וְהִקְרִיבוּ takes הַקָּהָל as subject and פַּר as what is brought near; «acercarán la asamblea toro» makes the assembly the object and leaves the bull as a second object.",
+      "spanishSpan": "acercarán la asamblea toro"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004014002",
+        "h03004014005"
+      ],
+      "issue": "The 3fs suffix on עָלֶיהָ resumes feminine הַחַטָּאת; «ella» cannot resume masculine «el pecado», so the pronoun no longer points to the sin.",
+      "spanishSpan": "sobre ella"
+    }
+  ],
+  "notes": "Remaining tokens match: niphal be-known, the sin they sinned, bull son of cattle for a sin, and bringing it before the tent of meeting.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 9:4",
+  "chapter": 9,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "y toro y carnero a pazes, a sacrificar delante de Jehová, y minjá amasada en el aceite, porque hoy Jehová aparecido a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03009004003"
+      ],
+      "issue": "H8002 is a masculine plural common noun; \"pazes\" is not a Spanish common noun and substitutes a malformed plural of paz.",
+      "spanishSpan": "pazes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03009004007"
+      ],
+      "issue": "Untranslated non-name lemma dumped as Spanish; H4503 requires a Spanish common noun.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03009004008"
+      ],
+      "issue": "Qal passive participle of H1101 licenses mixed; \"amasada\" resolves it as kneaded.",
+      "spanishSpan": "amasada"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03009004010"
+      ],
+      "issue": "H3588 is only a conjunction; \"porque\" selects the causal reading.",
+      "spanishSpan": "porque"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03009004013"
+      ],
+      "issue": "Niphal perfect 3ms is finite; bare \"aparecido\" does not mark that perfect.",
+      "spanishSpan": "aparecido"
+    }
+  ],
+  "notes": "Toro, carnero, infinitive, Jehová, el aceite, and ustedes for the 2mp suffix match the tokens.",
+  "discardedUncitedFindings": 0
+}

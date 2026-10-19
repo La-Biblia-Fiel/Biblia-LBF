@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:10",
+  "chapter": 7,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y toda minjá amasada en el aceite y seca, a todos hijos de Aarón será, varón como su hermano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007010002"
+      ],
+      "issue": "מִנְחָה is a common noun (H4503); minjá leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007010003"
+      ],
+      "issue": "Qal passive participle H1101 licenses mixed/mingled; amasada adds kneading.",
+      "spanishSpan": "amasada"
+    }
+  ],
+  "notes": "Conjunction, oil, dry, sons of Aarón, 3fs será, and varón como su hermano stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

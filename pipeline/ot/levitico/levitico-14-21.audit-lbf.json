@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:21",
+  "chapter": 14,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y si pobre él, y no su mano alcanzante, y tomará cordero uno, culpa a balanceo para expiar sobre él, y décima sólet una amasada en el aceite a minjá, y log de aceite,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014021015"
+      ],
+      "issue": "sólet dumps common noun H5560 untranslated; common nouns stay Spanish",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014021019"
+      ],
+      "issue": "minjá dumps common noun H4503 untranslated; common nouns stay Spanish",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014021020"
+      ],
+      "issue": "log leaves measure noun H3849 in Hebrew form; uncertain whether it is the conventional unit name or an untranslated lemma dump",
+      "spanishSpan": "log"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014021017"
+      ],
+      "issue": "amasada may narrow qal passive H1101 (mix/mingle) to kneading",
+      "spanishSpan": "amasada"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014021014",
+        "h03014021016",
+        "h03014021017"
+      ],
+      "issue": "feminine décima, una, and amasada smooth masculine singular morphology on the tenth, the cardinal, and the passive participle; number and participant stay singular",
+      "spanishSpan": "décima sólet una amasada"
+    }
+  ],
+  "notes": "Clause order and participants match the tokens; untranslated common nouns fail the line.",
+  "discardedUncitedFindings": 0
+}

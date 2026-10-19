@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:18",
+  "chapter": 9,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Sobre boca de Jehová partirán hijos de Israel, y sobre boca de Jehová acamparán; todos los días que more la nube sobre el mishkán, acamparán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009018017"
+      ],
+      "issue": "Common noun הַמִּשְׁכָּן (H4908, definite masculine singular) is left as the untranslated lemma mishkán; a common noun must be Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "עַל־פִּי, the 3mp qal verbs, construct chains, and the cloud’s dwelling are otherwise licensed.",
+  "discardedUncitedFindings": 0
+}

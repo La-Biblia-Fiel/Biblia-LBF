@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:18",
+  "chapter": 23,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y acercarán sobre el pan siete corderos íntegros hijos de año, y toro hijo de ganado uno, y carneros dos; serán holocausto a Jehová, y su minjá y sus libaciones, ofrenda de fuego, olor de reposo a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023018018"
+      ],
+      "issue": "Common noun H4503 (singular) is left as untranslated minjá; a non-name lemma must be Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03023018020",
+        "h03023018021",
+        "h03023018022"
+      ],
+      "issue": "Construct chain (fire-offering of odor of soothing) is opened by a comma into apposition.",
+      "spanishSpan": "ofrenda de fuego, olor de reposo"
+    }
+  ],
+  "notes": "2mp hiphil weqatal as acercarán is ustedes address; su with singular minjá can still be the 3mp suffix.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:7",
+  "chapter": 5,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y si no alcanzare su mano bastancia de oveja, y traerá su culpa que pecó, dos tórtolas o dos hijos de paloma a Jehová, uno a pecado y uno a holocausto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005007006"
+      ],
+      "issue": "H7716 is one animal of the flock (sheep or goat), singular and not sex-specific; oveja narrows it to a sheep.",
+      "spanishSpan": "oveja"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03005007020",
+        "h03005007022"
+      ],
+      "issue": "H2403 covers sin and sin-offering; pecado keeps only sin, while the paired H5930 is rendered as the offering holocausto.",
+      "spanishSpan": "pecado"
+    }
+  ],
+  "notes": "Other tokens match, including 3fs hand as subject, 3ms bring/sin, two birds, hijos de paloma, and Jehová.",
+  "discardedUncitedFindings": 0
+}

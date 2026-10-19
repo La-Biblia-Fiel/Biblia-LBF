@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:7",
+  "chapter": 6,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y expiará sobre él el sacerdote delante de Jehová, y será perdonado a él, sobre una desde todo lo que hiciere a culpa en ella.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006007011"
+      ],
+      "issue": "«lo» no tiene token; completa el relativo אֲשֶׁר en «lo que» sin añadir referente.",
+      "spanishSpan": "lo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006007012"
+      ],
+      "issue": "Imperfecto qal 3ms queda en subjuntivo; persona, número y voz simple se mantienen.",
+      "spanishSpan": "hiciere"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006007010"
+      ],
+      "issue": "מִן partitivo («de/desde entre todo») queda como «desde», punto de origen, sin otro evento.",
+      "spanishSpan": "desde"
+    }
+  ],
+  "notes": "El resto conserva número, persona, nifal, piel secuencial, «una» y «en ella» abiertos, y Jehová.",
+  "discardedUncitedFindings": 0
+}

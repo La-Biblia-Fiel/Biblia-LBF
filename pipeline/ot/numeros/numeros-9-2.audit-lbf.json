@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:2",
+  "chapter": 9,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y harán hijos de Israel el Pésaj en su cita.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009002005"
+      ],
+      "issue": "הַפָּסַח is a definite common noun, not a proper name; «Pésaj» leaves the lemma untranslated and capitalizes it as a title.",
+      "spanishSpan": "Pésaj"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04009002006"
+      ],
+      "issue": "בְּמוֹעֲדֽוֹ is an open common noun (appointed time, place, or meeting); «cita» narrows it to an appointment.",
+      "spanishSpan": "cita"
+    }
+  ],
+  "notes": "Y, harán (qal imperfect 3mp), hijos de Israel, the object marker, and the 3ms suffix match the tokens.",
+  "discardedUncitedFindings": 0
+}

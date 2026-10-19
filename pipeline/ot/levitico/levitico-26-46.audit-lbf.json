@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:46",
+  "chapter": 26,
+  "verse": 46,
+  "candidateLabel": "lbf",
+  "spanish": "Estos los estatutos y los juicios y las torot que dio Jehová entre él y entre hijos de Israel en monte Sinai en mano de Moisés.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03026046004"
+      ],
+      "issue": "Common noun H8451 (feminine plural absolute, not a proper name) is dumped untranslated as torot.",
+      "spanishSpan": "las torot"
+    }
+  ],
+  "notes": "Verbless demonstrative clause has no supplied copula; remaining tokens match number, person, and participants.",
+  "discardedUncitedFindings": 0
+}

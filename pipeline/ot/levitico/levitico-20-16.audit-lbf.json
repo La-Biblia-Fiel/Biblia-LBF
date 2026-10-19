@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:16",
+  "chapter": 20,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y mujer que se acercare a toda bestia a su ayuntamiento a ella, y matarás a la mujer y a la bestia; de morir morirán; sus sangres en ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020016007"
+      ],
+      "issue": "Qal infinitive construct has no pronominal suffix; Spanish adds a possessor su.",
+      "spanishSpan": "su"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020016008"
+      ],
+      "issue": "Lemma H854 is a preposition with a 3fs suffix (with her); a ella uses the directional a instead of the comitative.",
+      "spanishSpan": "a ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020016015"
+      ],
+      "issue": "Hophal imperfect 3mp is passive (be put to death); morirán is active qal-like they will die.",
+      "spanishSpan": "morirán"
+    }
+  ],
+  "notes": "Y mujer que se acercare a toda bestia, matarás a la mujer y a la bestia, de morir, and sus sangres en ellos match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,102 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 1,
+  "kept": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 5,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y degollará al hijo del ganado delante de Jehová, y acercarán hijos de Aarón, los sacerdotes, la sangre, y echarán la sangre sobre el altar alrededor, que a abertura de tienda de reunión.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03001005019",
+            "h03001005020"
+          ],
+          "issue": "Unmarked “a” has no token between the relative and the entrance noun.",
+          "spanishSpan": "a"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "notes": "clause role",
+      "spanish": "Y desollará el holocausto, y lo descuartizará a sus cuartos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03001006004",
+            "h03001006006"
+          ],
+          "issue": "descuartizar and cuartos add a division into four; piel H5408 plus plural H5409 only license cutting it into its pieces.",
+          "spanishSpan": "descuartizará a sus cuartos"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03001006003",
+            "h03001006005",
+            "h03001006006"
+          ],
+          "issue": "The offering and both 3fs suffixes are feminine; el/lo/sus follow masculine holocausto. Same participant, grammatical smoothing.",
+          "spanishSpan": "el holocausto, y lo descuartizará a sus cuartos"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y darán hijos de Aarón el sacerdote fuego sobre el altar, y ordenarán leños sobre el fuego.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03001007001",
+            "h03001007002",
+            "h03001007003",
+            "h03001007004",
+            "h03001007005"
+          ],
+          "issue": "Bare postverbal hijos is the object of darán, so an unnamed they give the sons of Aaron the priest; the 3cp subject of נתן is those sons, and the object is fire.",
+          "spanishSpan": "darán hijos"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 6,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 13,
+      "note": "Dual כְּרָעַיִם rendered as 'las dos piernas' rather than unmarked 'las piernas' to keep the paired number visible in Spanish."
+    },
+    {
+      "verse": 16,
+      "note": "Chose 'hacia el oriente' for the directional suffix on קֵדְמָה (H6924) over the equally grammatical 'al oriente'."
+    }
+  ]
+}

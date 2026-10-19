@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 10:31",
+  "chapter": 10,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo: No ahora dejes a nosotros, porque por eso conociste nuestro acampar en el desierto, y serás para nosotros a ojos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04010031003"
+      ],
+      "issue": "נא is only a particle; «ahora» locks a temporal adverb and leaves the entreaty sense of the lemma unexpressed.",
+      "spanishSpan": "ahora"
+    }
+  ],
+  "notes": "The rest matches the tokens, including כי with על־כן, the 1cp infinitive, and dual עינים as ojos.",
+  "discardedUncitedFindings": 0
+}

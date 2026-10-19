@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:25",
+  "chapter": 37,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo el altar del incienso, maderas de shitím; codo su largo y codo su ancho, cuadrado, y dos codos su alto; desde él fueron sus cuernos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037025014"
+      ],
+      "issue": "מִמֶּנּוּ is tagged preposition + 1st common plural suffix (from us); Spanish «él» is 3rd masculine singular (from him) and changes person.",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens: he made the incense altar, shittim woods, one cubit its length and one cubit its width, square, two cubits its height, its horns were.",
+  "discardedUncitedFindings": 0
+}

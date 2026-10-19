@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:52",
+  "chapter": 13,
+  "verse": 52,
+  "candidateLabel": "lbf",
+  "spanish": "Y quemará el vestido o la urdimbre o la trama, en la lana o en el lino, o todo utensilio de la piel que fuere en él la plaga, porque tsaráat maligna ella; en el fuego será quemado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013052023"
+      ],
+      "issue": "צָרַעַת is a common noun (H6883), not a name; tsaráat leaves it untranslated.",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013052027",
+        "h03013052025"
+      ],
+      "issue": "Niphal imperfect 3fs תִּשָּׂרֵף matches feminine הִוא; será quemado is masculine and shifts what is burned.",
+      "spanishSpan": "será quemado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013052012"
+      ],
+      "issue": "בַפִּשְׁתִּים is masculine plural; en el lino is singular.",
+      "spanishSpan": "el lino"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013052024"
+      ],
+      "issue": "Hiphil active feminine participle מַמְאֶרֶת is smoothed to the static adjective maligna.",
+      "spanishSpan": "maligna"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013052016"
+      ],
+      "issue": "כְּלִי remains open (vessel, article, or implement); utensilio narrows it to a utensil.",
+      "spanishSpan": "utensilio"
+    }
+  ],
+  "notes": "Qal 3ms וְשָׂרַף and the או object chain match; the verbless clause has no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

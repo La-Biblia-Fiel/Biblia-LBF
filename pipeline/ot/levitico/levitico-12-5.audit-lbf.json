@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 12:5",
+  "chapter": 12,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y si hembra diere a luz, y se impurecerá dos semanas como su menstruación, y sesenta días y seis días se sentará sobre sangres de purificación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03012005002",
+        "h03012005003"
+      ],
+      "issue": "Qal 3fs תלד already carries its subject, and preverbal נקבה is not marked as object; Spanish makes hembra the one who gives birth and states no child borne.",
+      "spanishSpan": "hembra diere a luz"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03012005006"
+      ],
+      "issue": "menstruación takes H5079 as the menstrual flow; the lemma also licenses impurity or separation, and the noun plus 3fs suffix does not decide.",
+      "spanishSpan": "menstruación"
+    }
+  ],
+  "notes": "Dual dos semanas, the sixty-and-six day split, plural sangres, and qal 3fs se sentará sobre match; singular יוֹם with sesenta is Spanish number agreement.",
+  "discardedUncitedFindings": 0
+}

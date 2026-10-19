@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:53",
+  "chapter": 1,
+  "verse": 53,
+  "candidateLabel": "lbf",
+  "spanish": "Y los levitas acamparán alrededor a mishkán del testimonio, y no habrá furor sobre congregación de hijos de Israel; y guardarán los levitas guarda de mishkán del testimonio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001053004",
+        "h04001053017"
+      ],
+      "issue": "Common noun מִשְׁכַּן (H4908, construct) is left as the untranslated form mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Levitas, Israel, acamparán, furor, guarda, and the 3pl futures match the packet.",
+  "discardedUncitedFindings": 0
+}

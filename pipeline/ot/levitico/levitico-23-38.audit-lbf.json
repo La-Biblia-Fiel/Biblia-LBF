@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:38",
+  "chapter": 23,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "aparte de shabats de Jehová, y aparte de dones de ustedes, y aparte de todos votos de ustedes, y aparte de todas voluntarias de ustedes que darán a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023038002"
+      ],
+      "issue": "Common noun H7676, plural construct, is left as the transliteration shabats instead of a Spanish common noun.",
+      "spanishSpan": "shabats"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023038011"
+      ],
+      "issue": "Noun H5071, feminine plural construct freewill offering, is reduced to the adjective voluntarias, which does not name the offering.",
+      "spanishSpan": "voluntarias"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03023038013"
+      ],
+      "issue": "Qal imperfect 2mp is smoothed only as future darán.",
+      "spanishSpan": "darán"
+    }
+  ],
+  "notes": "Jehová, the ustedes suffixes, the four aparte de phrases, dones, and votos match the tokens.",
+  "discardedUncitedFindings": 0
+}

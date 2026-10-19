@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:25",
+  "chapter": 11,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y descendió Jehová en la nube, y habló a él, y apartó desde el espíritu que sobre él, y dio sobre setenta varón los ancianos; y fue como descansar sobre ellos el espíritu, y profetizaron, y no añadieron.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011025003"
+      ],
+      "issue": "בֶּעָנָן is a preposition plus an anarthrous absolute noun; Spanish «la» marks the cloud definite.",
+      "spanishSpan": "la nube"
+    }
+  ],
+  "notes": "Remaining clauses track the tokens, including singular varón, anarthrous apposition, verbless עָלָיו, infinitive כְּנוֹחַ, and open יָסָפוּ.",
+  "discardedUncitedFindings": 0
+}

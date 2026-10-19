@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:15",
+  "chapter": 19,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "No harán iniquidad en el juicio; no alzarás faces de pobre, y no honrarás faces de grande; en justicia juzgarás a tu prójimo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019015015"
+      ],
+      "issue": "La preposición personal «a» es un alisado gramatical del complemento; no añade un participante ni un concepto.",
+      "spanishSpan": "a"
+    }
+  ],
+  "notes": "2mp תַעֲשׂוּ queda en «harán» (ustedes); el resto sigue en 2ms.",
+  "discardedUncitedFindings": 0
+}

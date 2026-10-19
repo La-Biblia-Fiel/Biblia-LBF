@@ -1,0 +1,52 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:23",
+  "chapter": 19,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando entraren a la tierra, y plantaren todo árbol de comida, y circuncidarán su prepucio, su fruto; tres años será a ustedes incircuncisos; no se comerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019023009",
+        "h03019023010",
+        "h03019023012"
+      ],
+      "issue": "circuncidarán turns the qal foreskin-verb (lemma 6188) into circumcising (removing the foreskin). The packet’s cognates are the foreskin noun (6190) and the uncircumcised adjective (6189); the verb licenses treating its foreskin—its fruit—as uncircumcised.",
+      "spanishSpan": "circuncidarán su prepucio, su fruto"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019023002",
+        "h03019023005",
+        "h03019023009"
+      ],
+      "issue": "entraren and plantaren sit inside the cuando clause, while circuncidarán is indicative. The two sequential perfects are the same morph class; the split makes planting only a circumstance and closes an open clause boundary.",
+      "spanishSpan": "cuando entraren a la tierra, y plantaren todo árbol de comida, y circuncidarán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019023001"
+      ],
+      "issue": "cuando fixes the conjunction as temporal; the morph is only conjunction, so a conditional reading stays open.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019023002",
+        "h03019023005"
+      ],
+      "issue": "entraren and plantaren are archaic future-subjunctive ustedes forms, not vosotros (entrareis/plantareis). Address stays 2pl.",
+      "spanishSpan": "entraren, plantaren"
+    }
+  ],
+  "notes": "a ustedes, singular será with plural incircuncisos, and niphal no se comerá match the tokens.",
+  "discardedUncitedFindings": 0
+}

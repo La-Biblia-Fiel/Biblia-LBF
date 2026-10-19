@@ -1,0 +1,24 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016021003",
+        "h03016021004",
+        "h03016021005"
+      ],
+      "issue": "Spanish adds “sus” and “manos”; the packet object is only the feminine dual construct “two,” with no hand noun and no possessive suffix.",
+      "spanishSpan": "sus dos manos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016021009"
+      ],
+      "issue": "Morphology is hithpael perfect, not sequential perfect; “confesará” shifts it to future.",
+      "spanishSpan": "confesará"
+    }
+  ],
+  "notes": "Remaining clauses match the packet’s person, number, suffixes, and lexical range."
+}

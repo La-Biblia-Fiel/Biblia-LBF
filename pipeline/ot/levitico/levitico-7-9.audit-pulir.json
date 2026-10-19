@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:9",
+  "chapter": 7,
+  "verse": 9,
+  "candidateLabel": "pulir",
+  "spanish": "Y toda ofrenda que se horneare en el horno, y todo lo hecho en la sartén y sobre la plancha, al sacerdote el acercante a ella, a él será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007009012",
+        "h03007009013"
+      ],
+      "issue": "Hiphil participle plus direct-object את with 3fs suffix means the one bringing that feminine object near; “el acercante a ella” reads as drawing near to her and weakens the causative stem and the object role.",
+      "spanishSpan": "el acercante a ella"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007009010"
+      ],
+      "issue": "“la” supplies a definite article; the noun is anarthrous absolute. Grammatical smoothing, same utensil sense.",
+      "spanishSpan": "la plancha"
+    }
+  ],
+  "notes": "The rest tracks the tokens: every offering baked in the oven, and all made in the pan and on the griddle, shall be to the priest.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,59 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:52",
+  "chapter": 14,
+  "verse": 52,
+  "candidateLabel": "lbf",
+  "spanish": "Y pecará la casa en sangre del pájaro y en las aguas las vivas y en el pájaro la viva y en madera del erez y en el ezov y en el carmesí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014052001",
+        "h03014052002",
+        "h03014052003"
+      ],
+      "issue": "Piel sequential perfect 3ms takes the house as object (את); «pecará la casa» makes the house the subject of qal-force «sin», changing stem force and participant role.",
+      "spanishSpan": "pecará la casa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014052011"
+      ],
+      "issue": "Common noun H730 is left in Hebrew form «erez» instead of a Spanish common noun.",
+      "spanishSpan": "erez"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014052012"
+      ],
+      "issue": "Common noun H231 is left in Hebrew form «ezov» instead of a Spanish common noun.",
+      "spanishSpan": "ezov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014052013",
+        "h03014052014"
+      ],
+      "issue": "The construct noun plus the definite noun is reduced to one color word, so one licensed noun in the chain is omitted.",
+      "spanishSpan": "el carmesí"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014052008",
+        "h03014052009"
+      ],
+      "issue": "«la viva» keeps the feminine singular adjective but does not agree with masculine «pájaro», so the attributive link is unclear.",
+      "spanishSpan": "el pájaro la viva"
+    }
+  ],
+  "notes": "Conjunction, blood-of-the-bird, living waters, second bird, and wood-construct are otherwise represented.",
+  "discardedUncitedFindings": 0
+}

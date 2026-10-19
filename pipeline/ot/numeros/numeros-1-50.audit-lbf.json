@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:50",
+  "chapter": 1,
+  "verse": 50,
+  "candidateLabel": "lbf",
+  "spanish": "Y tú, pon a los levitas sobre mishkán del testimonio y sobre todos sus utensilios y sobre todo lo que a él; ellos alzarán el mishkán y todos sus utensilios, y ellos lo servirán, y alrededor al mishkán acamparán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001050006",
+        "h04001050018",
+        "h04001050025"
+      ],
+      "issue": "H4908 is a common noun left untranslated as mishkán.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04001050012",
+        "h04001050013",
+        "h04001050014"
+      ],
+      "issue": "כל אשר לו is only the broken calque todo lo que a él; the verbless ‘that is his’ is not readable.",
+      "spanishSpan": "todo lo que a él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04001050016"
+      ],
+      "issue": "Qal H5375 stays open between lift and carry; alzarán narrows it to raise.",
+      "spanishSpan": "alzarán"
+    }
+  ],
+  "notes": "Person, number, Levites, testimony, vessels, service, and camp match the tokens.",
+  "discardedUncitedFindings": 0
+}

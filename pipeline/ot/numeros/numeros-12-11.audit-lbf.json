@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 12:11",
+  "chapter": 12,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Aarón a Moisés: Ay, mi señor, no ahora pongas sobre nosotros pecado que hicimos necedad y que pecamos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012011005"
+      ],
+      "issue": "Entreaty particle is rendered as a lament; the plea is omitted and distress is added.",
+      "spanishSpan": "Ay"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012011008"
+      ],
+      "issue": "Entreaty particle is rendered as temporal ahora; the plea is omitted and a time point is added.",
+      "spanishSpan": "ahora"
+    }
+  ],
+  "notes": "Speech frame, names, jussive, nosotros, pecado, and both relative clauses match the tokens.",
+  "discardedUncitedFindings": 0
+}

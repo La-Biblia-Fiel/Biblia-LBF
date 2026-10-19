@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 3:4",
+  "chapter": 3,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "y los dos los riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones la quitará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03003004017",
+        "h03003004012",
+        "h03003004005"
+      ],
+      "issue": "The 3fs suffix resumes the feminine singular lobe (the DOM object); the fat is masculine. Spanish la agrees only with grasa and cannot resume masculine lóbulo, so the removed object shifts to the fat.",
+      "spanishSpan": "la quitará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03003004002",
+        "h03003004003"
+      ],
+      "issue": "Doubled determiner los dos los is grammatical smoothing of the dual construct plus the definite plural and does not add a referent.",
+      "spanishSpan": "los dos los riñones"
+    }
+  ],
+  "notes": "The two relatives, the על phrases, and hiphil 3ms remove are otherwise represented.",
+  "discardedUncitedFindings": 0
+}

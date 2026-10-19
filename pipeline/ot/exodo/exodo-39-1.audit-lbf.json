@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:1",
+  "chapter": 39,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y del azul y la púrpura y el carmesí hicieron vestidos del servicio para ministrar en el santo, e hicieron los vestidos de la santidad que a Aarón, conforme a lo que mandó Jehová a Moisés.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039001008"
+      ],
+      "issue": "שְׂרָד is an unarticulated singular noun whose lemma stays open (plaited or stitched work); \"del servicio\" makes it definite \"service\" and overlaps לְשָׁרֵת.",
+      "spanishSpan": "del servicio"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039001010"
+      ],
+      "issue": "בַּקֹּדֶשׁ is the definite noun holiness or holy place; \"el santo\" can be read as a holy person.",
+      "spanishSpan": "el santo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039001015",
+        "h02039001016"
+      ],
+      "issue": "אֲשֶׁר לְאַהֲרֹן is a verbless relative of relation (for or belonging to Aaron); \"que a Aarón\" leaves that lamed unclear.",
+      "spanishSpan": "que a Aarón"
+    }
+  ],
+  "notes": "The dye list, both \"hacer\" clauses, santidad, and Jehová, Aarón, and Moisés track the tokens.",
+  "discardedUncitedFindings": 0
+}

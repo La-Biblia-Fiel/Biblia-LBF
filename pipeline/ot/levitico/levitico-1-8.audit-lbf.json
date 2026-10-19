@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 1:8",
+  "chapter": 1,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y ordenarán hijos de Aarón, los sacerdotes, los cuartos, la cabeza y el sebo, sobre los leños que sobre el fuego que sobre el altar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03001008006"
+      ],
+      "issue": "«cuartos» narrows H5409 (piece/part) to quarters.",
+      "spanishSpan": "los cuartos"
+    }
+  ],
+  "notes": "Verb, participants, head, suet, wood-on-fire-on-altar, and the verbless relatives match the tokens.",
+  "discardedUncitedFindings": 0
+}

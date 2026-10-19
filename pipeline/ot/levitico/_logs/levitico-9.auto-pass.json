@@ -1,0 +1,150 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 9,
+  "kept": [
+    1,
+    2,
+    3,
+    6,
+    8,
+    9,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    21,
+    24
+  ],
+  "drafted": [],
+  "repaired": [
+    11,
+    17
+  ],
+  "repairedWithWarn": [
+    13,
+    15
+  ],
+  "parked": [
+    {
+      "verse": 4,
+      "notes": "clause role",
+      "spanish": "y toro y carnero a pazes, a sacrificar delante de Jehová, y minjá amasada en el aceite, porque hoy Jehová aparecido a ustedes.",
+      "findings": []
+    },
+    {
+      "verse": 5,
+      "notes": "clause role",
+      "spanish": "Y tomaron lo que mandó Moisés a faces de tienda de reunión, y se acercó toda la congregación, y se pararon delante de Jehová.",
+      "findings": []
+    },
+    {
+      "verse": 7,
+      "notes": "clause role",
+      "spanish": "Y dijo Moisés a Aarón: Acércate al altar, y haz tu pecado y tu holocausto, y expiarás por ti y por el pueblo, y haz ofrenda del pueblo, y expiarás por ellos, conforme a lo que mandó Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03009007013",
+            "h03009007021"
+          ],
+          "issue": "Piel imperative 2ms is a command; future indicative «expiarás» states a later result.",
+          "spanishSpan": "expiarás"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03009007018",
+            "h03009007019",
+            "h03009007020"
+          ],
+          "issue": "את with the definite construct «offering of the people» is definite; bare «ofrenda» drops that.",
+          "spanishSpan": "ofrenda del pueblo"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "notes": "spanish check",
+      "spanish": "Y las grasas desde el toro y desde el carnero: la cola gorda y el cubriente y los riñones y lóbulo del hígado.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«cubriente» no es una palabra corriente; el lector tiene que adivinarla",
+          "spanishSpan": "cubriente"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "notes": "clause role",
+      "spanish": "Y alzó Aarón su mano al pueblo, y los bendijo, y descendió desde hacer el pecado y el holocausto y los pazes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03009022001",
+            "h03009022003"
+          ],
+          "issue": "«su mano» adds a possessed object (hand). The lift clause has the direct-object marker and no hand noun or possessive suffix.",
+          "spanishSpan": "su mano"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03009022011"
+          ],
+          "issue": "«pazes» is an uncertain plural calque of the plural noun and may flatten it toward abstract paz.",
+          "spanishSpan": "los pazes"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y entraron Moisés y Aarón a tienda de reunión, y salieron y bendijeron al pueblo, y se apareció gloria de Jehová a todo el pueblo.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03009023001",
+            "h03009023002",
+            "h03009023003"
+          ],
+          "issue": "וַיָּבֹא is qal sequential imperfect 3ms; entraron is plural smoothing so the verb agrees with the compound subject Moisés y Aarón.",
+          "spanishSpan": "entraron"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 4,
+      "note": "hold: clause role — left 'porque' unchanged because choosing among כִּי's causal/temporal/other readings is a clause-role choice, and conjunction sense is frozen for the polish layer."
+    },
+    {
+      "verse": 5,
+      "note": "hold: clause role — אל־פני is the goal of tomaron, not of mandó Moisés; preposition attachment left unchanged."
+    },
+    {
+      "verse": 7,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 15,
+      "note": "Chose the causative Spanish form \"lo hizo pecado\" to render the piel stem acting on the goat, since Spanish \"pecar\" cannot take a direct object."
+    },
+    {
+      "verse": 19,
+      "note": "«cubriente» no es una palabra corriente; el lector tiene que adivinarla"
+    },
+    {
+      "verse": 22,
+      "note": "hold: clause role"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "checker": "Cursor Auto",
+  "book": "levitico",
+  "chapter": 6,
+  "verse": 28,
+  "spanish": "Y utensilio de barro en que se cocinare será quebrado; y si en utensilio de bronce se hubiere cocinado, será fregado y lavado en las aguas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "futuro de subjuntivo no vigente; el lector tiene que adivinar la forma",
+      "spanishSpan": "cocinare"
+    },
+    {
+      "severity": "fail",
+      "issue": "futuro de subjuntivo arcaico de haber; en el español actual no se reconoce como forma corriente",
+      "spanishSpan": "hubiere"
+    }
+  ],
+  "notes": ""
+}

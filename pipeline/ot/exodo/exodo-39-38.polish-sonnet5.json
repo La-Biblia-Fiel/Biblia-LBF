@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 39:38",
+  "chapter": 39,
+  "verse": 38,
+  "sourceDraft": "y el altar del oro y el aceite de la unción y el incienso de los aromas, y el masaj de la abertura de la tienda,",
+  "spanish": "y el altar del oro y el aceite de la unción y el incienso de los aromas, y la cortina de la abertura de la tienda,",
+  "units": [
+    {
+      "es": "y el altar del oro",
+      "sourceTokenIds": [
+        "h02039038001",
+        "h02039038002",
+        "h02039038003"
+      ]
+    },
+    {
+      "es": "y el aceite de la unción",
+      "sourceTokenIds": [
+        "h02039038004",
+        "h02039038005",
+        "h02039038006"
+      ]
+    },
+    {
+      "es": "y el incienso de los aromas",
+      "sourceTokenIds": [
+        "h02039038007",
+        "h02039038008",
+        "h02039038009"
+      ]
+    },
+    {
+      "es": "y la cortina de la abertura de la tienda",
+      "sourceTokenIds": [
+        "h02039038010",
+        "h02039038011",
+        "h02039038012",
+        "h02039038013"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced untranslated transliteration 'masaj' (H4539, masculine singular construct) with the Spanish common noun 'cortina', adjusting the article from 'el' to 'la' for Spanish gender agreement."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'cortina' as the Spanish rendering of H4539 (מָסָךְ, screen/covering) in place of the untranslated 'masaj'.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

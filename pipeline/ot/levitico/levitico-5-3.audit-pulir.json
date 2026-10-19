@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:3",
+  "chapter": 5,
+  "verse": 3,
+  "candidateLabel": "pulir",
+  "spanish": "O cuando tocare en impureza de hombre, a toda su impureza que se impure en ella, y se ocultare desde nosotros, y él conociere, y será culpable.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005003008",
+        "h03005003009",
+        "h03005003010"
+      ],
+      "issue": "«que se impure» hace de la impureza el sujeto que se vuelve impura. יטמא es qal imperfecto 3ms: un masculino se vuelve impuro, y בה es el referente femenino en que eso ocurre.",
+      "spanishSpan": "que se impure en ella"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03005003003"
+      ],
+      "issue": "«tocare» es futuro de subjuntivo, forma común a yo/él/usted, así que el 3ms de יגע no queda fijado.",
+      "spanishSpan": "tocare"
+    }
+  ],
+  "notes": "El resto sigue los tokens: o, cuando, en impureza de hombre, a toda su impureza, se ocultó desde nosotros, él conoció, y queda culpable.",
+  "discardedUncitedFindings": 0
+}

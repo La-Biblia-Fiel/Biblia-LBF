@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 9:5",
+  "chapter": 9,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomaron lo que mandó Moisés a faces de tienda de reunión, y se acercó toda la congregación, y se pararon delante de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03009005010"
+      ],
+      "issue": "Qal sequential imperfect 3mp is rendered as singular se acercó.",
+      "spanishSpan": "se acercó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03009005001",
+        "h03009005003",
+        "h03009005006"
+      ],
+      "issue": "אשר צוה משה is a complete relative and אל־פני is the goal of ויקחו. After Moisés, a faces de tienda de reunión can attach that goal inside the relative.",
+      "spanishSpan": "mandó Moisés a faces de tienda de reunión"
+    }
+  ],
+  "notes": "Tomaron, lo que mandó Moisés, faces de tienda de reunión, toda la congregación, se pararon, and delante de Jehová match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

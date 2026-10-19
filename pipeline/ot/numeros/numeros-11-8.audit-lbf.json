@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:8",
+  "chapter": 11,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Anduvo el pueblo y recogieron, y molieron en los molinos o machacaron en el mortero, y cocieron en la olla, y lo hicieron tortas; y era su sabor como sabor de fresco de aceite.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011008001",
+        "h04011008002"
+      ],
+      "issue": "Qal perfect 3cp is singular Anduvo, agreeing with singular pueblo; later verbs stay plural. Same participants; collective agreement smoothing.",
+      "spanishSpan": "Anduvo el pueblo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011008005"
+      ],
+      "issue": "Anarthrous dual millstones rendered as definite plural los molinos, which can be read as several mills rather than the dual instrument.",
+      "spanishSpan": "los molinos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011008017"
+      ],
+      "issue": "Construct noun rendered as fresco, one point in an open range (moisture, juice, freshness), not a second concept beyond the token.",
+      "spanishSpan": "fresco"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011008018"
+      ],
+      "issue": "Definite הַשָּׁמֶן rendered as indefinite aceite.",
+      "spanishSpan": "aceite"
+    }
+  ],
+  "notes": "Construct order taste–לשד–oil, the או alternative, 3ms אתו, and plural עגות are preserved.",
+  "discardedUncitedFindings": 0
+}

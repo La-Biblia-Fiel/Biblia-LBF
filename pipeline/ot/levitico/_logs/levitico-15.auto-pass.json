@@ -1,0 +1,211 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 15,
+  "kept": [
+    1,
+    4,
+    5,
+    7,
+    8,
+    10,
+    12,
+    14,
+    15,
+    21,
+    26,
+    30
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 11,
+      "notes": "clause role",
+      "spanish": "Y todo al que tocare en él el fluente, y sus manos no enjuagó en las aguas, y lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03015011002",
+            "h03015011004"
+          ],
+          "issue": "Personal «a» marks the relative as a direct object while «en él» already renders בּוֹ; same person, extra government.",
+          "spanishSpan": "al que"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03015011012"
+          ],
+          "issue": "Qal רחץ has no object and no reflexive stem; «se» specifies that he washes himself.",
+          "spanishSpan": "se lavará"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03015011014"
+          ],
+          "issue": "Qal טמא is a state of being unclean; «se impurecerá» is inchoative and can be heard as self-caused impurity.",
+          "spanishSpan": "se impurecerá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03015011016"
+          ],
+          "issue": "«tarde» spans afternoon through dusk; the token is the evening.",
+          "spanishSpan": "la tarde"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "notes": "clause role",
+      "spanish": "Y mujer que se acostare varón con ella yacimiento de semilla, y se lavarán en las aguas, y se impurecerán hasta la tarde.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03015018005"
+          ],
+          "issue": "«con» turns the direct-object marker into a comitative preposition",
+          "spanishSpan": "con ella"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03015018006"
+          ],
+          "issue": "«yacimiento» narrows the construct noun toward a deposit or site",
+          "spanishSpan": "yacimiento"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "notes": "clause role",
+      "spanish": "Y si acostando se acostare varón con ella, y fuere su menstruación sobre él, y se impurecerá siete días, y todo el lecho que se acueste sobre él se impurecerá.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03015024002",
+            "h03015024003",
+            "h03015024005"
+          ],
+          "issue": "Qal שכב takes אֹתָהּ as direct object (H853), not a comitative. “se acostare … con ella” makes the verb pronominal and the woman a companion “with.”",
+          "spanishSpan": "se acostare varón con ella"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03015024013",
+            "h03015024014",
+            "h03015024015",
+            "h03015024016"
+          ],
+          "issue": "יִשְׁכַּב is qal imperfect 3ms (the man lies) and עָלָיו is upon the bed. “el lecho que se acueste sobre él” makes the bed the one who lies and él the one lain upon.",
+          "spanishSpan": "el lecho que se acueste sobre él"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03015024007"
+          ],
+          "issue": "נִדָּתָהּ (H5079) is her impurity/separation, often menstrual. “menstruación” selects the physiological period and leaves the impurity/separation sense unstated.",
+          "spanishSpan": "menstruación"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 2,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $266 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 3,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $266 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 6,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $266 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 9,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $267 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 13,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $267 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 16,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $267 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 17,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $267 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 19,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $267 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 20,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $267 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 22,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $267 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 23,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $267 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 25,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $268 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 27,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $268 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 28,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $268 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 29,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $268 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 31,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $268 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 32,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $268 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 33,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $268 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 11,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 18,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 24,
+      "note": "hold: clause role"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:22",
+  "chapter": 40,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y dio la mesa en la tienda de reunión sobre el muslo del mishkán, Tsafónah, desde fuera a la parójet.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040022008"
+      ],
+      "issue": "Common noun left untranslated as mishkán.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040022009"
+      ],
+      "issue": "Common noun and directional suffix left as the transliteration Tsafónah, so the northward force is not in Spanish.",
+      "spanishSpan": "Tsafónah"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040022011"
+      ],
+      "issue": "Common noun left untranslated as parójet.",
+      "spanishSpan": "parójet"
+    }
+  ],
+  "notes": "את is unexpressed; the other tokens match in number, person, and preposition.",
+  "discardedUncitedFindings": 0
+}

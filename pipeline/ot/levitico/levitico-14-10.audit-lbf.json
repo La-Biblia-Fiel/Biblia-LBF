@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:10",
+  "chapter": 14,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y en el día el octavo tomará dos corderos íntegros, y cordera una hija de su año, íntegra, y tres décimas sólet, minjá amasada en el aceite, y log uno de aceite.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014010014"
+      ],
+      "issue": "Common noun left as the untranslated lemma sólet.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014010015"
+      ],
+      "issue": "Common noun left as the untranslated lemma minjá.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014010016"
+      ],
+      "issue": "Qal passive participle of the mix lemma is rendered as kneading, a manner the token does not license.",
+      "spanishSpan": "amasada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014010018"
+      ],
+      "issue": "Common noun left as the untranslated lemma log.",
+      "spanishSpan": "log"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014010018",
+        "h03014010020"
+      ],
+      "issue": "Unmarked de only joins the juxtaposed measure and oil.",
+      "spanishSpan": "de"
+    }
+  ],
+  "notes": "Day, taker, animals, year idiom, tenths, and oil match the tokens.",
+  "discardedUncitedFindings": 0
+}

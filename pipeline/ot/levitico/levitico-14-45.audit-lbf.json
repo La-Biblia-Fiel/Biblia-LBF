@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:45",
+  "chapter": 14,
+  "verse": 45,
+  "candidateLabel": "lbf",
+  "spanish": "Y derribará la casa, sus piedras y sus maderas y todo polvo de la casa, y sacará a fuera a la ciudad, a lugar impuro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014045013",
+        "h03014045014",
+        "h03014045015"
+      ],
+      "issue": "«a fuera a la ciudad» makes the city a destination. אֶל + מִחוּץ + לָעִיר is to the outside of the city; the lamed marks the city as the boundary, not a second allative toward the city.",
+      "spanishSpan": "a fuera a la ciudad"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014045009",
+        "h03014045010",
+        "h03014045011"
+      ],
+      "issue": "«todo polvo de la casa» leaves the construct chain less definite than כָּל־עֲפַר הַבַּיִת (all the dust of the house).",
+      "spanishSpan": "todo polvo de la casa"
+    }
+  ],
+  "notes": "Derribar, piedras, maderas, sacar, and lugar impuro match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

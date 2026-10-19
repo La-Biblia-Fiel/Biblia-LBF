@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:16",
+  "chapter": 19,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "No andarás chismoso en tus pueblos; no te pararás sobre sangre de tu prójimo; yo Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019016006"
+      ],
+      "issue": "Qal imperfect עמד is simple intransitive stand; the reflexive clitic te has no pronoun or reflexive stem in the token and can be read as stop-yourself.",
+      "spanishSpan": "te pararás"
+    }
+  ],
+  "notes": "Plural pueblos, construct sangre de tu prójimo, and verbless yo Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

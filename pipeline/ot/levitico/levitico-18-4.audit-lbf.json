@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 18:4",
+  "chapter": 18,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Mis juicios harán, y mis estatutos guardarán para andar en ellos; yo Jehová su Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03018004001",
+        "h03018004002",
+        "h03018004003"
+      ],
+      "issue": "Mis juicios is the subject of harán. את marks משפטי as the object of the 2mp verb תעשו (you shall do).",
+      "spanishSpan": "Mis juicios harán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03018004004",
+        "h03018004005",
+        "h03018004006"
+      ],
+      "issue": "mis estatutos is the subject of guardarán. ואת marks חקתי as the object of the 2mp verb תשמרו (you shall keep).",
+      "spanishSpan": "mis estatutos guardarán"
+    }
+  ],
+  "notes": "ללכת בהם and אני יהוה אלהיכם match para andar en ellos and yo Jehová su Dios.",
+  "discardedUncitedFindings": 0
+}

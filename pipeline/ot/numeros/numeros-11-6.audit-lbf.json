@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:6",
+  "chapter": 11,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y ahora nuestra alma seca; no hay todo, sino al maná nuestros ojos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011006004",
+        "h04011006005"
+      ],
+      "issue": "«no hay todo» matches אין and כל word for word, but Spanish can read it as partial absence («not everything») rather than the negative existential over כל (there is not anything).",
+      "spanishSpan": "no hay todo"
+    }
+  ],
+  "notes": "Other tokens match in order, number, person, and definiteness; the verbless clauses add no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

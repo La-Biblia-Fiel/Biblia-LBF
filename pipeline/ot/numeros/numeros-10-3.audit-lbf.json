@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 10:3",
+  "chapter": 10,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y tocarán con ellas, y se reunirá a ti toda la congregación a abertura de tienda de reunión.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04010003003",
+        "h04010003005",
+        "h04010003006"
+      ],
+      "issue": "Niphal sequential perfect is 3rd common plural; se reunirá is singular, smoothed to agree with singular כָּל הָעֵדָה. Same participants and niphal middle sense.",
+      "spanishSpan": "se reunirá"
+    }
+  ],
+  "notes": "Other tokens match: 3pl blow, with 3fp, to 2ms, all the congregation, to opening of tent of meeting.",
+  "discardedUncitedFindings": 0
+}

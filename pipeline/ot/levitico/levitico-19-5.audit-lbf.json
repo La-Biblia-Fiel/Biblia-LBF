@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:5",
+  "chapter": 19,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando sacrificaren sacrificio de pazes a Jehová, a su agrado lo sacrificarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019005001"
+      ],
+      "issue": "כִּי is only an open conjunction; «cuando» selects the temporal sense and closes si/porque.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019005002"
+      ],
+      "issue": "Qal imperfect 2mp is archaic future subjunctive; the -en ending is ustedes, so the addressee is unchanged.",
+      "spanishSpan": "sacrificaren"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019005004"
+      ],
+      "issue": "Plural שְׁלָמִים is aimed at with «pazes», which is not the plural paces, so the plural is blurred.",
+      "spanishSpan": "pazes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019005006"
+      ],
+      "issue": "Suffix is 2mp (your). «su» after Jehová reads as his pleasure, so the addressees’ possessor becomes a third party. «agrado» also locks רָצוֹן to pleasure/will.",
+      "spanishSpan": "a su agrado"
+    }
+  ],
+  "notes": "Jehová, both qal 2mp verbs, singular זֶבַח, and the 3ms object on the second verb are licensed.",
+  "discardedUncitedFindings": 0
+}

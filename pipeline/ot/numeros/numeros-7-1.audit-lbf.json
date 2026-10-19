@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:1",
+  "chapter": 7,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue en el día de acabar Moisés de levantar el mishkán, y ungió a él, y santificó a él y a todos sus utensilios, y al altar y a todos sus utensilios, y los ungió, y santificó a ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007001007"
+      ],
+      "issue": "הַמִּשְׁכָּן is a definite common noun (H4908), left as the untranslated form mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Remaining clauses match the wayyiqtols, infinitives, objects, altar, and repeated vessels.",
+  "discardedUncitedFindings": 0
+}

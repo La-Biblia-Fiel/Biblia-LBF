@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 10:6",
+  "chapter": 10,
+  "verse": 6,
+  "sourceDraft": "Y dijo Moisés a Aarón y a Elazar y a Itamar, sus hijos: Sus cabezas no desmelenen, y sus vestidos no rasguen, y no morirán, y sobre toda la congregación no se enfurecerá; y sus hermanos, toda casa de Israel, llorarán la quema que quemó Jehová.",
+  "spanish": "Y dijo Moisés a Aarón y a Elazar y a Itamar, sus hijos: Sus cabezas no desmelenen, y sus vestidos no rasguen, y no morirán, y sobre toda la congregación se enfurecerá; y sus hermanos, toda la casa de Israel, llorarán la quema que quemó Jehová.",
+  "units": [],
+  "grammarChanges": [
+    "Removed the erroneous negation on 'se enfurecerá': the Hebrew וְלֹא (negative) governs only תָמֻתוּ ('you shall not die'); יִקְצֹף ('he will be angry') carries no negative, so the Spanish verb must not be negated.",
+    "Added the definite article in 'toda la casa de Israel' (was 'toda casa de Israel') so the construct כָּל־בֵּית יִשְׂרָאֵל reads as 'the whole house of Israel' rather than 'every house.'"
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'toda la casa de Israel' over the ambiguous 'toda casa de Israel' to keep the construct-chain sense (the whole house) rather than a distributive 'every house' reading.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

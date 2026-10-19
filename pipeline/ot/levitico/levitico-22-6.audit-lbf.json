@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:6",
+  "chapter": 22,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "alma que tocare en él, e inmunda hasta la tarde, y no comerá desde las santidades sino lavare su carne en las aguas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022006005"
+      ],
+      "issue": "Qal sequential perfect 3fs (be unclean) is only a bare adjective; the finite predication is implicit.",
+      "spanishSpan": "e inmunda"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022006010"
+      ],
+      "issue": "Preposition min is narrowed to desde (point of origin), which can be read as temporal rather than partitive of/from.",
+      "spanishSpan": "desde"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022006012",
+        "h03022006013"
+      ],
+      "issue": "כי אם is compressed into sino; the conditional if is only implicit in the subjunctive.",
+      "spanishSpan": "sino"
+    }
+  ],
+  "notes": "Person, number, plural waters, and the remaining clauses stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:21",
+  "chapter": 5,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "y juramentará el sacerdote a la mujer en juramento de la maldición, y dirá el sacerdote a la mujer: Dé Jehová a ti a maldición y a juramento en medio de tu pueblo, en dar Jehová tu muslo cayente y tu vientre hinchando;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005021010"
+      ],
+      "issue": "Qal imperfect 3ms is a future “dará”; “Dé” makes it jussive/optative.",
+      "spanishSpan": "Dé"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005021024"
+      ],
+      "issue": "Adjective “swollen,” not a verb; “hinchando” turns the state into a progressive gerund.",
+      "spanishSpan": "hinchando"
+    }
+  ],
+  "notes": "Other tokens match in participants, number, definiteness, and hiphil force.",
+  "discardedUncitedFindings": 0
+}

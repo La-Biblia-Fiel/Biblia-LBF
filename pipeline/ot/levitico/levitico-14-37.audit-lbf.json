@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:37",
+  "chapter": 14,
+  "verse": 37,
+  "candidateLabel": "lbf",
+  "spanish": "Y verá la plaga, y he aquí la plaga en paredes de la casa, hundimientos verdosos o rojizos, y su apariencia baja desde la pared.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014037012"
+      ],
+      "issue": "מַרְאֵיהֶן is parsed as a masculine plural noun plus a 3fp suffix; «apariencia» is singular and drops that plurality.",
+      "spanishSpan": "su apariencia"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014037013",
+        "h03014037014"
+      ],
+      "issue": "שָׁפָל is a stative adjective and מִן is only the preposition from/than; «baja desde» is readily read as the verb bajar plus a source, which adds descent and closes the comparative.",
+      "spanishSpan": "baja desde"
+    }
+  ],
+  "notes": "verá, the repeated plaga, walls of the house, greenish or reddish depressions, and the singular definite wall match the tokens.",
+  "discardedUncitedFindings": 0
+}

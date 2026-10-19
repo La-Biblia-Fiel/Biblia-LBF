@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:21",
+  "chapter": 11,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Solo esto comerán desde todo reptil del ave el andante sobre cuatro, que piernas desde arriba a sus pies para saltar en ellas sobre la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011021006"
+      ],
+      "issue": "H8318 שרץ es un ser que pulula o se arrastra (constructo); «reptil» nombra la clase Reptilia y deja fuera el pulular.",
+      "spanishSpan": "reptil"
+    }
+  ],
+  "notes": "Lo demás sigue los tokens: את sin glosa, dual en plural, 2mp como ustedes, y la relativa sin cópula.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:30",
+  "chapter": 6,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y todo pecado que se trajere desde su sangre a tienda de reunión para expiar en el santo no será comido; en el fuego será quemado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006030002",
+        "h03006030003",
+        "h03006030004",
+        "h03006030005"
+      ],
+      "issue": "חַטָּאת is feminine singular, while יוּבָא is hophal imperfect 3ms. The masculine noun in the clause is דָּם, with מִן and a 3fs suffix resuming the feminine antecedent after אֲשֶׁר. That licenses “(some) of its blood is brought.” The Spanish makes the sin the thing brought and the blood only the source it is brought from.",
+      "spanishSpan": "pecado que se trajere desde su sangre"
+    }
+  ],
+  "notes": "Eating and burning stay 3fs with the sin; tent, piel infinitive, holy noun, fire, and both passives match their tokens.",
+  "discardedUncitedFindings": 0
+}

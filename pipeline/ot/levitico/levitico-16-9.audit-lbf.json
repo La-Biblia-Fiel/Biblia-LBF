@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:9",
+  "chapter": 16,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y acercará Aarón el macho cabrío sobre el cual subió sobre él la suerte a Jehová, y lo hará pecado.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016009005",
+        "h03016009007"
+      ],
+      "issue": "אֲשֶׁר is only the relative and עָלָיו is the single preposition; Spanish repeats sobre in sobre el cual and sobre él.",
+      "spanishSpan": "sobre el cual subió sobre él"
+    }
+  ],
+  "notes": "Weqatal, Aarón, Jehová, macho cabrío, la suerte, and חַטָּאת as pecado stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

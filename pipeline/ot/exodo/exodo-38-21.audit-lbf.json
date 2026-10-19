@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:21",
+  "chapter": 38,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Estas las contadas del mishkán, mishkán del testimonio, que fue contado sobre boca de Moisés; servicio de los levitas en mano de Itamar hijo de Aarón el sacerdote.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038021003",
+        "h02038021004"
+      ],
+      "issue": "H4908 is a common noun (definite absolute, then construct). Spanish leaves both as untranslated mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán, mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038021002"
+      ],
+      "issue": "Qal passive participle is masculine plural construct; Spanish uses feminine plural las contadas.",
+      "spanishSpan": "las contadas"
+    }
+  ],
+  "notes": "Demonstrative, relative, pual 3ms, על־פי, service of the Levites, and the Ithamar chain match the tokens.",
+  "discardedUncitedFindings": 0
+}

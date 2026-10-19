@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:59",
+  "chapter": 13,
+  "verse": 59,
+  "candidateLabel": "lbf",
+  "spanish": "Esta torá de plaga de tsaráat de vestido de la lana o del lino o de la urdimbre o de la trama o de todo utensilio de piel, para purificarlo o para impurecerlo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013059002"
+      ],
+      "issue": "torá dumps the untranslated common noun (construct) instead of Spanish",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013059004"
+      ],
+      "issue": "tsaráat dumps the untranslated common noun (construct) instead of Spanish",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013059008"
+      ],
+      "issue": "lino is singular; the token is a definite masculine plural noun",
+      "spanishSpan": "lino"
+    }
+  ],
+  "notes": "Demonstrative, construct chain, five או, articles, and both piel infinitives with 3ms suffixes are otherwise represented.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:35",
+  "chapter": 3,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Y príncipe de casa de padre a familias de Merarí: Tsuriel hijo de Avijayil; sobre costado del mishkán acamparán hacia el norte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003035011"
+      ],
+      "issue": "mishkán leaves the common noun הַמִּשְׁכָּן untranslated; a non-name lemma stays Spanish",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Remaining tokens match in number, person, and participants; Merarí, Tsuriel, and Avijayil are unlocked proper names.",
+  "discardedUncitedFindings": 0
+}

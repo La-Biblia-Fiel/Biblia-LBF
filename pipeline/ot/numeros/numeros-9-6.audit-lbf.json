@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:6",
+  "chapter": 9,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue: varones que eran impuros a alma de adam, y no pudieron hacer el Pésaj en el día aquel; y se acercaron delante de Moisés y delante de Aarón en el día aquel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009006007"
+      ],
+      "issue": "אָדָם is a common noun (HNcmsa), not a proper name; “adam” leaves the lemma untranslated.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009006011"
+      ],
+      "issue": "הַפֶּסַח is a common noun with the article (HTd/Ncmsa), not a locked proper name; “Pésaj” is an untranslated lemma with title capitalization.",
+      "spanishSpan": "Pésaj"
+    }
+  ],
+  "notes": "Moisés and Aarón match locked names; number, person, and the repeated “en el día aquel” stay with the tokens.",
+  "discardedUncitedFindings": 0
+}

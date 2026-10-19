@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:21",
+  "chapter": 40,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y trajo el arca al mishkán, y puso la parójet del masaj, y cubrió sobre el arca del testimonio, conforme a lo que mandó Jehová a Moisés.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040021005"
+      ],
+      "issue": "Common noun left untranslated as mishkán; the token licenses a Spanish common noun, not a Hebraized lemma.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040021008"
+      ],
+      "issue": "Common noun in construct left untranslated as parójet; the token licenses a Spanish common noun.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040021009"
+      ],
+      "issue": "Definite common noun left untranslated as masaj; the token licenses a Spanish common noun.",
+      "spanishSpan": "masaj"
+    }
+  ],
+  "notes": "Brought, put, covered over the ark of the testimony, and Jehovah commanded Moses match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

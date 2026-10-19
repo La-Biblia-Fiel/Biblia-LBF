@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:24",
+  "chapter": 13,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Al lugar aquel llamó torrente de Eshcol, sobre asuntos del racimo que cortaron desde allí hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013024006",
+        "h04013024007"
+      ],
+      "issue": "עַל־אֹדוֹת is the plural construct of cause/reason ('on account of'); 'sobre asuntos' replaces that cause with affairs/matters.",
+      "spanishSpan": "sobre asuntos"
+    }
+  ],
+  "notes": "Other tokens match person, number, and the proper/common split of אשכול; Israel is the locked name.",
+  "discardedUncitedFindings": 0
+}

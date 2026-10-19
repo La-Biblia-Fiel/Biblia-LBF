@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 17:15",
+  "chapter": 17,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y toda alma que comiere cadáver y despedazado, en el nativo y en el peregrino, y lavará sus vestidos y lavará en las aguas, e inmundo hasta la tarde, y limpio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03017015013"
+      ],
+      "issue": "Qal sequential perfect 3ms verb is reduced to a bare adjective, dropping person, stem, and the finite predicate.",
+      "spanishSpan": "e inmundo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03017015016"
+      ],
+      "issue": "Qal sequential perfect 3ms verb is reduced to a bare adjective, dropping person, stem, and the finite predicate.",
+      "spanishSpan": "y limpio"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03017015006"
+      ],
+      "issue": "Feminine singular noun coordinated with the carcass is rendered as a masculine participle that can be read as a quality of cadáver rather than a second thing eaten.",
+      "spanishSpan": "despedazado"
+    }
+  ],
+  "notes": "Relative clause, native/sojourner phrases, garments, and waters match the tokens.",
+  "discardedUncitedFindings": 0
+}

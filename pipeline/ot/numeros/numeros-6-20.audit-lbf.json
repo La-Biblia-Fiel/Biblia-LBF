@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:20",
+  "chapter": 6,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y los balanceará el sacerdote balanceo delante de Jehová; santidad él al sacerdote, sobre pecho del balanceo y sobre pierna de la ofrenda alzada; y después beberá el nazir vino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006020018"
+      ],
+      "issue": "Common noun with the article, not a proper name; \"nazir\" leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "el nazir"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006020001"
+      ],
+      "issue": "Hiphil sequential perfect is smoothed to a simple future.",
+      "spanishSpan": "balanceará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006020015"
+      ],
+      "issue": "One noun is rendered as \"ofrenda\" plus the added adjective \"alzada\".",
+      "spanishSpan": "ofrenda alzada"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006020010",
+        "h04006020013"
+      ],
+      "issue": "עַל stays open (upon, concerning, besides); \"sobre\" selects the spatial sense.",
+      "spanishSpan": "sobre"
+    }
+  ],
+  "notes": "Other tokens match in number, person, and participants; the verbless clause adds no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

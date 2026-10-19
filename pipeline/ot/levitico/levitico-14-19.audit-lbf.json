@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:19",
+  "chapter": 14,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y hará el sacerdote el pecado, y expiará sobre el que se purifica desde su impureza, y después degollará el holocausto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014019010"
+      ],
+      "issue": "«degollará» añade corte de garganta o cuello; el qal imperfecto de H7819 licencia matanza sin token de garganta ni de método.",
+      "spanishSpan": "degollará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014019008"
+      ],
+      "issue": "מִן es origen («de» su impureza). «desde» puede leerse como punto de partida temporal.",
+      "spanishSpan": "desde"
+    }
+  ],
+  "notes": "Hará, el sacerdote, el pecado, piel expiará, sobre, el hithpael, su impureza, después y el holocausto siguen los tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:11",
+  "chapter": 2,
+  "verse": 11,
+  "candidateLabel": "pulir",
+  "spanish": "Toda la ofrenda que acercarán a Jehová no será hecha con leudado, porque toda levadura y toda miel no harán humear desde nosotros ofrenda de fuego a Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03002011007",
+        "h03002011008"
+      ],
+      "issue": "«con» trata חָמֵץ como ingrediente; el nifal lleva complemento desnudo (la ofrenda no se hace חָמֵץ).",
+      "spanishSpan": "con leudado"
+    }
+  ],
+  "notes": "Futuros en 2pl caben como ustedes; מִמֶּנּוּ sigue el sufijo 1cp del paquete.",
+  "discardedUncitedFindings": 0
+}

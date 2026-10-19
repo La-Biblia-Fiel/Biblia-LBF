@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:25",
+  "chapter": 7,
+  "verse": 25,
+  "candidateLabel": "pulir",
+  "spanish": "Porque todo comiente grasa desde la bestia que acercará desde ella ofrenda de fuego a Jehová, y será cortada el alma la comiente desde sus pueblos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007025006",
+        "h03007025008",
+        "h03007025009"
+      ],
+      "issue": "Hiphil imperfect is 3rd masculine singular with an unstated masculine subject; the feminine beast is only the source marked by the 3fs suffix. “la bestia que acercará” makes the beast the one who brings the offering.",
+      "spanishSpan": "la bestia que acercará"
+    }
+  ],
+  "notes": "Remaining tokens, including feminine niphal cut-off, feminine participle, plural peoples, and Jehová, match the packet.",
+  "discardedUncitedFindings": 0
+}

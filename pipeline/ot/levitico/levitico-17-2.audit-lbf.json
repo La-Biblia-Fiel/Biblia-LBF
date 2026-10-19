@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 17:2",
+  "chapter": 17,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a Aarón y a sus hijos y a todos hijos de Israel, y dirás a ellos: Esta es la palabra que mandó Jehová, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03017002012",
+        "h03017002013"
+      ],
+      "issue": "Unmarked supplied copula; זֶה הַדָּבָר is a verbless clause and only a marked copula is licensed.",
+      "spanishSpan": "es"
+    }
+  ],
+  "notes": "Habla, dirás, ellos, mandó, Jehová, and diciendo match person, number, and the proper name.",
+  "discardedUncitedFindings": 0
+}

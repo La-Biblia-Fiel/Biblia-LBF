@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:5",
+  "chapter": 39,
+  "verse": 5,
+  "candidateLabel": "pulir",
+  "spanish": "Y el cinturón de su efod que sobre él, desde él mismo, como su obra: oro, azul y púrpura y gusano de escarlata y lino fino retorcido, conforme a lo que mandó Jehová a Moisés.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039005005",
+        "h02039005006"
+      ],
+      "issue": "The suffix on מִמֶּנּוּ is 1st common plural, but “él” is 3rd masculine singular; “mismo” then folds the independent 3rd-masculine pronoun into that same phrase.",
+      "spanishSpan": "él mismo"
+    }
+  ],
+  "notes": "The rest of the clause tracks the packet, including Jehová, the material list, and the passive “retorcido”.",
+  "discardedUncitedFindings": 0
+}

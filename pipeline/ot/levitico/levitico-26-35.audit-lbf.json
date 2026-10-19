@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:35",
+  "chapter": 26,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Todos los días de su ser desolada cesará, lo que no cesó en sus shabatot en su habitar ustedes sobre ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03026035001",
+        "h03026035002",
+        "h03026035004"
+      ],
+      "issue": "כל־ימי is the time span; תשבת is qal imperfect 3fs, so a feminine singular subject ceases. The Spanish makes the plural días the one that cesará.",
+      "spanishSpan": "Todos los días de su ser desolada cesará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03026035005",
+        "h03026035006",
+        "h03026035008"
+      ],
+      "issue": "את marks אשר as the object, and שבתה is qal perfect 3fs (she did not cease it). lo que is the subject of cesó.",
+      "spanishSpan": "lo que no cesó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03026035009"
+      ],
+      "issue": "H7676 is a common noun with preposition ב and 2mp suffix. shabatot leaves that noun untranslated.",
+      "spanishSpan": "shabatot"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026035003"
+      ],
+      "issue": "Hophal infinitive construct plus 3fs suffix is smoothed to the state ser desolada; causative-passive force is not explicit.",
+      "spanishSpan": "ser desolada"
+    }
+  ],
+  "notes": "sobre ella matches עליה; su habitar ustedes keeps the 2mp suffix on the H3427 infinitive.",
+  "discardedUncitedFindings": 0
+}

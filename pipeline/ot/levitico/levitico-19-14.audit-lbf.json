@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:14",
+  "chapter": 19,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "No maldecirás a sordo, y delante de ciego no darás tropiezo, y temerás desde tu Dios; yo Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019014009",
+        "h03019014010"
+      ],
+      "issue": "«desde» renders the prefixed מִן as a spatial or temporal starting point; with «temer» that can be read as origin rather than the person feared, while the token only marks from/of your God.",
+      "spanishSpan": "temerás desde tu Dios"
+    }
+  ],
+  "notes": "Negation, piel 2ms, article-free singular adjectives, singular מִכְשֹׁל, 2ms suffix, Jehová, and the verbless אֲנִי יְהוָה are preserved.",
+  "discardedUncitedFindings": 0
+}

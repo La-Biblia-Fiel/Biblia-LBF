@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:28",
+  "chapter": 40,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y puso el masaj de la abertura al mishkán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040028003"
+      ],
+      "issue": "Common noun left as the untranslated form masaj; the lemma is a common noun and must be Spanish.",
+      "spanishSpan": "masaj"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040028005"
+      ],
+      "issue": "Common noun left as the untranslated form mishkán; the lemma is a common noun and must be Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Y puso, el … de la abertura, and al match the wayyiqtol, the construct chain, and the preposition.",
+  "discardedUncitedFindings": 0
+}

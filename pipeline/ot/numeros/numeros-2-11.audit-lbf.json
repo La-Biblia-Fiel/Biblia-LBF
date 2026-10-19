@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 2:11",
+  "chapter": 2,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y su ejército y sus contados: seis y cuarenta mil y cinco cientos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04002011002",
+        "h04002011003"
+      ],
+      "issue": "A colon is inserted between the coordinated army/numbered phrase and the numeral. It only smooths the Hebrew apposition and adds no lexical concept.",
+      "spanishSpan": ":"
+    }
+  ],
+  "notes": "Tokens map to and-his-army, and-his-numbered, six and forty thousand and five hundreds.",
+  "discardedUncitedFindings": 0
+}

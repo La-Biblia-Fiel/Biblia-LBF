@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:5",
+  "chapter": 6,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Todos días de voto de su nézer, navaja no pasará sobre su cabeza; hasta llenarse los días que nazir a Jehová, santo será, creciendo soltura de pelo de su cabeza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006005004"
+      ],
+      "issue": "nézer dumps the common noun (construct + 3ms suffix) untranslated instead of Spanish.",
+      "spanishSpan": "nézer"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006005014"
+      ],
+      "issue": "nazir dumps the hiphil imperfect 3ms as an unconjugated Hebraism, so person and hiphil stem are not a Spanish verb.",
+      "spanishSpan": "nazir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006005018"
+      ],
+      "issue": "creciendo renders the piel infinitive as intransitive growing and drops the factitive stem force.",
+      "spanishSpan": "creciendo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006005019"
+      ],
+      "issue": "soltura abstracts the construct noun into looseness; locks/loose hair of the following hair-noun is the licensed sense.",
+      "spanishSpan": "soltura"
+    }
+  ],
+  "notes": "The other tokens, including Jehová and both instances of su cabeza, stay within the packet.",
+  "discardedUncitedFindings": 0
+}

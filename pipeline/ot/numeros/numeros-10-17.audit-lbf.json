@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 10:17",
+  "chapter": 10,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue bajado el mishkán, y partieron hijos de Guershon e hijos de Merarí, porteadores del mishkán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04010017002",
+        "h04010017009"
+      ],
+      "issue": "Common noun הַמִּשְׁכָּן (H4908, definite singular) is left as the untranslated lemma mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Hophal 3ms, qal 3cp, both construct ‘hijos de’, both proper names, and the qal participle construct are licensed.",
+  "discardedUncitedFindings": 0
+}

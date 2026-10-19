@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 24:5",
+  "chapter": 24,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomarás sólet, y la hornearás doce tortas; dos décimos será la torta la una.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03024005002"
+      ],
+      "issue": "סֹלֶת is a common noun left as the untranslated Hebrew loan sólet; common nouns stay Spanish.",
+      "spanishSpan": "sólet"
+    }
+  ],
+  "notes": "The other tokens match person, number, the 3fs object, twelve cakes, two tenths, and the definite cake the one.",
+  "discardedUncitedFindings": 0
+}

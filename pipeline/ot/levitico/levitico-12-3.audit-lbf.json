@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 12:3",
+  "chapter": 12,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y en el día el octavo será circuncidada carne de su prepucio.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03012003003",
+        "h03012003004"
+      ],
+      "issue": "Niphal imperfect is 3ms and בשׂר is masculine singular; circuncidada is feminine only so the participle agrees with Spanish carne. Person, number, passive stem, and participant are unchanged.",
+      "spanishSpan": "será circuncidada carne"
+    }
+  ],
+  "notes": "Y+en+día, el octavo, passive imperfect, and carne de su prepucio match the five tokens.",
+  "discardedUncitedFindings": 0
+}

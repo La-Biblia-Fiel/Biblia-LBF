@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:4",
+  "chapter": 5,
+  "verse": 4,
+  "candidateLabel": "pulir",
+  "spanish": "O alma, cuando jurare a pronunciar con labios a hacer mal o a hacer bien, a todo lo que pronunciare el hombre en juramento, y se ocultare desde nosotros, y él hubiere conocido, y *será* culpado a una desde estas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03005004019"
+      ],
+      "issue": "וְאָשֵׁם es qal secuencial 3ms (estar culpable). «culpado» es participio pasivo de culpar; *será* solo sostiene ese predicado y la cláusula hebrea no es verbless.",
+      "spanishSpan": "culpado"
+    }
+  ],
+  "notes": "El resto sigue los tokens: o, alma, cuando, jurare, pronunciar, labios duales, hiphil hacer mal/bien, el hombre, en juramento, nifal se ocultare, 1cp desde nosotros, él conoció, a una, desde estas.",
+  "discardedUncitedFindings": 0
+}

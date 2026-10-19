@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:7",
+  "chapter": 14,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y rociará sobre el que se purifica desde la tsaráat siete veces, y lo purificará, y enviará el pájaro la viva sobre faces del campo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014007005"
+      ],
+      "issue": "Common noun הַצָּרַעַת is left as the transliteration tsaráat; a non-name lemma stays Spanish.",
+      "spanishSpan": "la tsaráat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014007010",
+        "h03014007011",
+        "h03014007012"
+      ],
+      "issue": "One object, the bird modified by feminine adjective הַחַיָּה, is split into masculine el pájaro and a separate feminine la viva.",
+      "spanishSpan": "el pájaro la viva"
+    }
+  ],
+  "notes": "Rociará, siete veces, lo purificará, and enviará match the 3ms sequential verbs; faces keeps the plural of פני.",
+  "discardedUncitedFindings": 0
+}

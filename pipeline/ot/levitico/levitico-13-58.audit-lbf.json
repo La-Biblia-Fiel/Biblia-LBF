@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:58",
+  "chapter": 13,
+  "verse": 58,
+  "candidateLabel": "lbf",
+  "spanish": "Y el vestido o la urdimbre o la trama o todo utensilio de la piel que lavarás, y se apartó desde ellos la plaga, y será lavado segunda, y será puro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013058012"
+      ],
+      "issue": "Vqq3ms is a qal sequential perfect continuing the future force of the piel imperfect; preterite “se apartó” places the departure in the past.",
+      "spanishSpan": "se apartó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013058016"
+      ],
+      "issue": "Feminine ordinal absolute is adverbial “a second time”; bare feminine “segunda” disagrees with masculine “lavado” and does not clearly mark the second occasion.",
+      "spanishSpan": "segunda"
+    }
+  ],
+  "notes": "The later sequential perfects are future (“será lavado”, “será puro”); only the departure is past.",
+  "discardedUncitedFindings": 0
+}

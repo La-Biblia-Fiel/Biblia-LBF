@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:32",
+  "chapter": 13,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y verá el sacerdote la plaga en el día el séptimo, y he aquí no se extendió el neteq, y no fue en él pelo amarillo, y apariencia del neteq no profunda desde la piel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013032010",
+        "h03013032017"
+      ],
+      "issue": "neteq leaves common noun H5424 untranslated; common nouns stay Spanish",
+      "spanishSpan": "el neteq … del neteq"
+    }
+  ],
+  "notes": "Other clauses keep person, number, sequence, and the open מִן.",
+  "discardedUncitedFindings": 0
+}

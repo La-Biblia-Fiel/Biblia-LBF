@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:7",
+  "chapter": 9,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijeron los varones aquellos a él: Nosotros impuros a alma de adam; ¿por qué seremos disminuidos para no acercar ofrenda de Jehová en su cita en medio de hijos de Israel?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009007008"
+      ],
+      "issue": "אָדָם is a common noun (H120, masculine singular absolute), not a proper name; adam leaves that lemma untranslated instead of Spanish.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04009007016"
+      ],
+      "issue": "cita narrows מוֹעֵד (H4150, masculine singular plus 3ms suffix) toward a personal appointment; the lemma also stays open to appointed time, meeting, or place. su itself matches the suffix.",
+      "spanishSpan": "en su cita"
+    }
+  ],
+  "notes": "Person, number, stems, Jehová, and Israel match the other tokens.",
+  "discardedUncitedFindings": 0
+}

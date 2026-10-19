@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 12:13",
+  "chapter": 12,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y clamó Moisés a Jehová, diciendo: El, ahora, sana ahora a ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012013006"
+      ],
+      "issue": "אֵל is a common masculine singular noun (H410), not a proper name; El dumps the untranslated lemma and capitalizes it as a title.",
+      "spanishSpan": "El"
+    }
+  ],
+  "notes": "The remaining words match the tokens, including both נָא particles, the 2ms imperative, and the 3fs suffix.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:11",
+  "chapter": 20,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y varón que yaciere con mujer de su padre, desnudez de su padre descubrió; de morir morirán ambos; sus sangres en ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020011011"
+      ],
+      "issue": "יומתו is hophal imperfect 3mp (be put to death); morirán is active (they will die), so the passive stem force is changed.",
+      "spanishSpan": "morirán"
+    }
+  ],
+  "notes": "Remaining tokens match, including plural sangres and the verbless final clause.",
+  "discardedUncitedFindings": 0
+}

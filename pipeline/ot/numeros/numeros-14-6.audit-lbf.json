@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:6",
+  "chapter": 14,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y Josué hijo de Nun y Calev hijo de Yefuné, desde los recorrientes la tierra, rasgaron sus vestidos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014006008",
+        "h04014006009",
+        "h04014006010"
+      ],
+      "issue": "The definite qal active participle takes the land as its object (את marks הארץ), but the Spanish leaves “la tierra” unlinked to “recorrientes”, so the licensed act of exploring the land is not said.",
+      "spanishSpan": "los recorrientes la tierra"
+    }
+  ],
+  "notes": "Conjunction, proper names, construct son-of, 3cp tearing, and their garments match the tokens.",
+  "discardedUncitedFindings": 0
+}

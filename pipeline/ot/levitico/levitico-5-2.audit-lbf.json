@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:2",
+  "chapter": 5,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "O alma que tocare en toda cosa impura, o en cadáver de bestia viva impura, o en cadáver de animal impuro, o en cadáver de reptil impuro, y se ocultare desde él, y él impuro, y culpado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03005002010"
+      ],
+      "issue": "חַיָּה is one common noun (lemma 2416 c). «bestia viva» splits it so «viva» can be read as an extra alive-state the noun morphology does not mark.",
+      "spanishSpan": "viva"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005002018"
+      ],
+      "issue": "שֶׁרֶץ is a common noun for a swarming or creeping creature. «reptil» narrows that to the reptile class.",
+      "spanishSpan": "reptil"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005002020"
+      ],
+      "issue": "Niphal sequential perfect 3ms: it is hidden. «se ocultare» takes feminine «alma» as the one who hides herself.",
+      "spanishSpan": "se ocultare"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005002021"
+      ],
+      "issue": "The suffix is 1st person common plural (from us). «él» is 3rd person masculine singular.",
+      "spanishSpan": "él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005002024"
+      ],
+      "issue": "Qal sequential perfect 3ms (he becomes guilty) is a bare passive participle, not a qal finite verb.",
+      "spanishSpan": "culpado"
+    }
+  ],
+  "notes": "Packet morph on מִמֶּנּוּ is Sp1cp; the Spanish suffix is 3ms.",
+  "discardedUncitedFindings": 0
+}

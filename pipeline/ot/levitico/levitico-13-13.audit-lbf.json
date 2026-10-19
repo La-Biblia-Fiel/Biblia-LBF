@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:13",
+  "chapter": 13,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "y verá el sacerdote, y he aquí cubrió la tsaráat toda su carne, y purificará la plaga; todo él se volvió blanco; puro él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013013005"
+      ],
+      "issue": "Common noun הַצָּרַעַת (H6883, feminine singular) is left as the transliterated lemma tsaráat instead of a Spanish common noun.",
+      "spanishSpan": "tsaráat"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens: priest sees, behold it covered all his flesh, he purifies the affliction, all of him turned white, he is pure.",
+  "discardedUncitedFindings": 0
+}

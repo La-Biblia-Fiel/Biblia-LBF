@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 12:7",
+  "chapter": 12,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo acercará delante de Jehová, y expiará sobre ella, y será pura desde fuente de sus sangres. Esta torá de la que da a luz, al macho o a la hembra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03012007010"
+      ],
+      "issue": "Common noun תּוֹרָה (construct) is left untranslated as torá; a non-name lemma must be Spanish.",
+      "spanishSpan": "torá"
+    }
+  ],
+  "notes": "Person, number, stems, plural sangres, and ל on macho/hembra match the other tokens.",
+  "discardedUncitedFindings": 0
+}

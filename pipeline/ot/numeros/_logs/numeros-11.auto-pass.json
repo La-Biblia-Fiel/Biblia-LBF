@@ -1,0 +1,160 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "numeros",
+  "chapter": 11,
+  "kept": [
+    3,
+    5,
+    7,
+    10,
+    11,
+    13,
+    14,
+    16,
+    17,
+    19,
+    20,
+    21,
+    23,
+    27,
+    28,
+    29,
+    33
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "clause role",
+      "spanish": "Y clamó el pueblo a Moisés, y oró Moisés a Jehová, y se hundió el fuego.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04011002009"
+          ],
+          "issue": "«se» is pronominal smoothing on the qal intransitive; it adds no reflexive participant and keeps the licensed sink sense.",
+          "spanishSpan": "se hundió"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Anduvo el pueblo y recogieron, y molieron en los molinos o machacaron en el mortero, y cocieron en la olla, y lo hicieron tortas; y era su sabor como sabor de fresco de aceite.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04011008001",
+            "h04011008002"
+          ],
+          "issue": "Qal perfect 3cp is singular Anduvo, agreeing with singular pueblo; later verbs stay plural. Same participants; collective agreement smoothing.",
+          "spanishSpan": "Anduvo el pueblo"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04011008005"
+          ],
+          "issue": "Anarthrous dual millstones rendered as definite plural los molinos, which can be read as several mills rather than the dual instrument.",
+          "spanishSpan": "los molinos"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04011008017"
+          ],
+          "issue": "Construct noun rendered as fresco, one point in an open range (moisture, juice, freshness), not a second concept beyond the token.",
+          "spanishSpan": "fresco"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04011008018"
+          ],
+          "issue": "Definite הַשָּׁמֶן rendered as indefinite aceite.",
+          "spanishSpan": "aceite"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 1,
+      "error": "agent exit 1: -flash-low, gemini-3.6-flash-medium, gemini-3.6-flash-high, gemini-3.1-pro, gpt-5.4-mini-none, gpt-5.4-mini-low, gpt-5.4-mini-medium, gpt-5.4-mini-high, gpt-5.4-mini-xhigh, gpt-5.4-nano-none, gpt-5.4-nano-low, gpt-5.4-nano-medium, gpt-5.4-nano-high, gpt-5.4-nano-xhigh, claude-haiku-5-5-low, claude-haiku-5-5-medium, claude-haiku-5-5-high, claude-haiku-5-5-xhigh, claude-haiku-5-5-max, claude-haiku-5-5-thinking-low, claude-haiku-5-5-thinking-medium, claude-haiku-5-5-thinking-high, claude-haiku-5-5-thinking-xhigh, claude-haiku-5-5-thinking-max, claude-4.5-sonnet, claude-4.5-sonnet-thinking, gpt-5.1-low, gpt-5.1, gpt-5.1-high, gemini-3-flash, gemini-3.5-flash, claude-4-sonnet, claude-4-sonnet-thinking, gpt-5-mini, kimi-k3-low, kimi-k3-high, kimi-k3-max, kimi-k2.7-code, glm-5.2-high, glm-5.2-max Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 4,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $325 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 6,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $326 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 9,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $326 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 12,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $326 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 15,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $327 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 18,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $326 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 22,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $327 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 24,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $327 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 25,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $327 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 26,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $327 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 30,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $328 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 31,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $328 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 32,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $328 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 34,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $328 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 35,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $328 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 2,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "hold: clause role"
+    }
+  ]
+}

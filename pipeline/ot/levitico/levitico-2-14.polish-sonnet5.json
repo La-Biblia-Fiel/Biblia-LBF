@@ -1,0 +1,103 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 2:14",
+  "chapter": 2,
+  "verse": 14,
+  "sourceDraft": "Y si acerques minjá de primicias a Jehová, Aviv tostado en el fuego, grosero de karmel acercarás la minjá de tus primicias.",
+  "spanish": "Y si acercas ofrenda de primicias a Jehová, espiga tierna tostada en el fuego, grano triturado de espiga fresca acercarás la ofrenda de tus primicias.",
+  "units": [
+    {
+      "es": "Y si",
+      "sourceTokenIds": [
+        "h03002014001"
+      ]
+    },
+    {
+      "es": "acercas",
+      "sourceTokenIds": [
+        "h03002014002"
+      ]
+    },
+    {
+      "es": "ofrenda de",
+      "sourceTokenIds": [
+        "h03002014003"
+      ]
+    },
+    {
+      "es": "primicias",
+      "sourceTokenIds": [
+        "h03002014004"
+      ]
+    },
+    {
+      "es": "a Jehová",
+      "sourceTokenIds": [
+        "h03002014005"
+      ]
+    },
+    {
+      "es": "espiga tierna",
+      "sourceTokenIds": [
+        "h03002014006"
+      ]
+    },
+    {
+      "es": "tostada",
+      "sourceTokenIds": [
+        "h03002014007"
+      ]
+    },
+    {
+      "es": "en el fuego",
+      "sourceTokenIds": [
+        "h03002014008"
+      ]
+    },
+    {
+      "es": "grano triturado de",
+      "sourceTokenIds": [
+        "h03002014009"
+      ]
+    },
+    {
+      "es": "espiga fresca",
+      "sourceTokenIds": [
+        "h03002014010"
+      ]
+    },
+    {
+      "es": "acercarás",
+      "sourceTokenIds": [
+        "h03002014011"
+      ]
+    },
+    {
+      "es": "la ofrenda de",
+      "sourceTokenIds": [
+        "h03002014012",
+        "h03002014013"
+      ]
+    },
+    {
+      "es": "tus primicias",
+      "sourceTokenIds": [
+        "h03002014014"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated minjá (h03002014003, h03002014013) to the Spanish noun ofrenda.",
+    "Translated Aviv (h03002014006) to the common noun espiga tierna instead of a capitalized proper name; changed the participle tostado to tostada to agree in gender with espiga.",
+    "Translated grosero (h03002014009) from the adjective grosero to the noun phrase grano triturado de, matching the construct noun sense.",
+    "Translated karmel (h03002014010) to the common noun espiga fresca instead of leaving the untranslated Hebrew form.",
+    "Changed acerques to the indicative acercas (h03002014002); Spanish real si-conditionals take the indicative, not the subjunctive, and the person and hiphil stem force are unchanged."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose the feminine noun espiga tierna for aviv, so the participle was adjusted to tostada to agree in gender; no clause roles or participants were changed.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

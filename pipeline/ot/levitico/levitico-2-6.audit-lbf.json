@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:6",
+  "chapter": 2,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "La partirás a pedazos, y derramarás sobre ella aceite; minjá ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002006007"
+      ],
+      "issue": "Common feminine singular noun is left as the untranslated Hebraized form minjá.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03002006001"
+      ],
+      "issue": "Qal infinitive absolute is smoothed as a finite 2ms future; that token does not mark person.",
+      "spanishSpan": "partirás"
+    }
+  ],
+  "notes": "The weqatal 2ms, both 3fs suffixes, the plural pieces, and singular oil are covered.",
+  "discardedUncitedFindings": 0
+}

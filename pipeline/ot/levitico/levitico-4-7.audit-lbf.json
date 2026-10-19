@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:7",
+  "chapter": 4,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y dará el sacerdote desde la sangre sobre cuernos de altar de incienso de los aromas delante de Jehová que en tienda de reunión, y toda sangre del toro derramará a base de altar del holocausto que a abertura de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004007024",
+        "h03004007025"
+      ],
+      "issue": "Unmarked supplied preposition “a” between the relative and פֶּתַח; the tokens license a verbless “que abertura de…”, not a locative preposition.",
+      "spanishSpan": "a abertura"
+    }
+  ],
+  "notes": "Remaining clauses match the packet tokens, including Jehová, 3ms verbs, and plural cuernos.",
+  "discardedUncitedFindings": 0
+}

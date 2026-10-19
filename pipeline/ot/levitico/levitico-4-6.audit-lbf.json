@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:6",
+  "chapter": 4,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y mojará el sacerdote su dedo en la sangre, y rociará desde la sangre siete veces delante de Jehová, faces de parójet de la santidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004006015"
+      ],
+      "issue": "Common noun left as the untranslated Hebraized form parójet; it must be Spanish.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004006013"
+      ],
+      "issue": "Preposition את (with/toward) before the faces is omitted, so the sprinkling is not related to those faces.",
+      "spanishSpan": ""
+    }
+  ],
+  "notes": "Priest, finger, blood, qal dip, hiphil sprinkle, seven times, and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

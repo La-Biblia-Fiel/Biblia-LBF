@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:4",
+  "chapter": 13,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y estos sus nombres: a vara de Rubén, Shamuá hijo de Zakur;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013004003"
+      ],
+      "issue": "«vara» cierra מַטֵּה (H4294) como instrumento físico. El lema deja abiertos vara y tribu; la morfología (preposición + sustantivo común masculino singular constructo) no elige el instrumento.",
+      "spanishSpan": "vara"
+    }
+  ],
+  "notes": "Lo demás conserva la cláusula sin cópula, el plural «estos»/«nombres», el sufijo 3mp, Rubén y el constructo «hijo de».",
+  "discardedUncitedFindings": 0
+}

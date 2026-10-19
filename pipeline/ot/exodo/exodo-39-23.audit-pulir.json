@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:23",
+  "chapter": 39,
+  "verse": 23,
+  "candidateLabel": "pulir",
+  "spanish": "Y la boca del manto en medio de él como boca de vestidura; labio a su boca alrededor; no se rasgará.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039023005"
+      ],
+      "issue": "H8473 is only a masculine singular noun here; «vestidura» assigns a generic garment the morphology does not specify.",
+      "spanishSpan": "vestidura"
+    }
+  ],
+  "notes": "The clause order, the three uses of H6310, the 3ms suffixes, and the niphal imperfect are preserved.",
+  "discardedUncitedFindings": 0
+}

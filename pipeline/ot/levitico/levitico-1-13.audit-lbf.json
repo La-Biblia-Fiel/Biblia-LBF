@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 1:13",
+  "chapter": 1,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y el interior y las piernas lavará en las aguas, y acercará el sacerdote el todo, y hará humear hacia el altar; holocausto él, ofrenda de fuego, olor de reposo a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03001013013",
+        "h03001013014",
+        "h03001013015"
+      ],
+      "issue": "אִשֵּׁה and רֵיחַ are construct, so the chain is one genitive: fire-offering of an odor of rest. The comma drops that link and lines the phrases up as separate items.",
+      "spanishSpan": "ofrenda de fuego, olor de reposo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03001013002"
+      ],
+      "issue": "Dual absolute is smoothed to a Spanish plural; the paired number is not marked.",
+      "spanishSpan": "las piernas"
+    }
+  ],
+  "notes": "Remaining clauses match person, stem, articles, he-locale, verbless הוּא, and Jehová.",
+  "discardedUncitedFindings": 0
+}

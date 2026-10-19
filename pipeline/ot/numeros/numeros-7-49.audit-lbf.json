@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:49",
+  "chapter": 7,
+  "verse": 49,
+  "candidateLabel": "lbf",
+  "spanish": "Su ofrenda: plato de plata uno, treinta y cien su peso; tazón uno plata, setenta siclo en siclo de la santidad; los dos ellos llenos sólet amasada en el aceite a minjá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007049017"
+      ],
+      "issue": "Common noun left untranslated as sólet; the lemma must be Spanish.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007049018"
+      ],
+      "issue": "Qal passive participle of mix is rendered as kneaded, adding a process the token does not license.",
+      "spanishSpan": "amasada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007049020"
+      ],
+      "issue": "Common noun left untranslated as minjá; the lemma must be Spanish.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Counts, 3ms/3fs suffixes, both silvers, singular shekel, and both-full match the tokens.",
+  "discardedUncitedFindings": 0
+}

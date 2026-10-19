@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 5:19",
+  "chapter": 5,
+  "verse": 19,
+  "sourceDraft": "Culpa él; culpando culpado a Jehová.",
+  "spanish": "Culpa él; culpar culpó a Jehová.",
+  "units": [
+    {
+      "es": "Culpa",
+      "sourceTokenIds": [
+        "h03005019001"
+      ]
+    },
+    {
+      "es": "él",
+      "sourceTokenIds": [
+        "h03005019002"
+      ]
+    },
+    {
+      "es": "culpar",
+      "sourceTokenIds": [
+        "h03005019003"
+      ]
+    },
+    {
+      "es": "culpó",
+      "sourceTokenIds": [
+        "h03005019004"
+      ]
+    },
+    {
+      "es": "a Jehová",
+      "sourceTokenIds": [
+        "h03005019005"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "culpando (gerund) -> culpar (bare infinitive), so the qal infinitive absolute no longer reads as a circumstantial/progressive clause and instead stands with the finite verb as the paronomastic pair.",
+    "culpado (passive participle) -> culpó (active qal perfect 3ms, preterite), restoring the finite 3ms active force instead of a passive 'was blamed' sense."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose the bare infinitive culpar plus the active preterite culpó, instead of a gerund+participle pair, to keep the infinitive absolute intensifying an active finite verb rather than a passive, progressive one.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

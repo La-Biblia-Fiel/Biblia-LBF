@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:43",
+  "chapter": 11,
+  "verse": 43,
+  "candidateLabel": "lbf",
+  "spanish": "No abominarán sus almas en todo el reptil el reptante, y no se impurificarán en ellos, y se impurificarán en ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011043002",
+        "h03011043003",
+        "h03011043004"
+      ],
+      "issue": "Piel jussive 2mp has the addressees acting on נפשותיכם (את object). «No abominarán sus almas» makes the souls the subject that abominates.",
+      "spanishSpan": "No abominarán sus almas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011043006"
+      ],
+      "issue": "H8318 is one swarming/creeping creature; «reptil» narrows it to the reptile class.",
+      "spanishSpan": "el reptil"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011043007"
+      ],
+      "issue": "Qal participle of H8317 (swarm/teem) is rendered as crawling («reptante»).",
+      "spanishSpan": "el reptante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011043009",
+        "h03011043011"
+      ],
+      "issue": "Hithpael 2mp and niphal sequential perfect 2mp are both «se impurificarán», flattening self-defilement and the resulting unclean state. If «sus almas» stays subject, those 2mp addressees also become the souls.",
+      "spanishSpan": "se impurificarán"
+    }
+  ],
+  "notes": "בָּהֶם and בָּם both remain «en ellos»; an ustedes reading of the later verbs is licensed only if the addressees stay the subject.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:4",
+  "chapter": 37,
+  "verse": 4,
+  "candidateLabel": "pulir",
+  "spanish": "E hizo varas de maderas de acacia, y las chapó de oro.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037004004"
+      ],
+      "issue": "שִׁטִּים is feminine plural absolute; «acacia» is a singular species name. The acacia-wood sense stays; the plural is smoothed into the material name.",
+      "spanishSpan": "acacia"
+    }
+  ],
+  "notes": "Qal «hizo», plural construct «varas de maderas», piel «chapó», 3mp «las», and singular «oro» match the tokens.",
+  "discardedUncitedFindings": 0
+}

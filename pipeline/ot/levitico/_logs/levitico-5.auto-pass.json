@@ -1,0 +1,220 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 5,
+  "kept": [
+    4,
+    5,
+    6,
+    9,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "clause role",
+      "spanish": "Y alma, cuando peque, y oyere voz de maldición, y él testigo, o vio o conoció, si no declarare, y alzará su iniquidad.",
+      "findings": []
+    },
+    {
+      "verse": 2,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "O alma que tocare en toda cosa impura, o en cadáver de bestia viva impura, o en cadáver de animal impuro, o en cadáver de reptil impuro, y se ocultare desde él, y él impuro, y culpado.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03005002010"
+          ],
+          "issue": "חַיָּה is one common noun (lemma 2416 c). «bestia viva» splits it so «viva» can be read as an extra alive-state the noun morphology does not mark.",
+          "spanishSpan": "viva"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005002018"
+          ],
+          "issue": "שֶׁרֶץ is a common noun for a swarming or creeping creature. «reptil» narrows that to the reptile class.",
+          "spanishSpan": "reptil"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005002020"
+          ],
+          "issue": "Niphal sequential perfect 3ms: it is hidden. «se ocultare» takes feminine «alma» as the one who hides herself.",
+          "spanishSpan": "se ocultare"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005002021"
+          ],
+          "issue": "The suffix is 1st person common plural (from us). «él» is 3rd person masculine singular.",
+          "spanishSpan": "él"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005002024"
+          ],
+          "issue": "Qal sequential perfect 3ms (he becomes guilty) is a bare passive participle, not a qal finite verb.",
+          "spanishSpan": "culpado"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "re-audit fail",
+      "spanish": "O cuando tocare en impureza de hombre, a toda su impureza que se impure en ella, y se ocultare desde nosotros, y él conociere, y será culpable.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005003008",
+            "h03005003009",
+            "h03005003010"
+          ],
+          "issue": "«que se impure» hace de la impureza el sujeto que se vuelve impura. יטמא es qal imperfecto 3ms: un masculino se vuelve impuro, y בה es el referente femenino en que eso ocurre.",
+          "spanishSpan": "que se impure en ella"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03005003003"
+          ],
+          "issue": "«tocare» es futuro de subjuntivo, forma común a yo/él/usted, así que el 3ms de יגע no queda fijado.",
+          "spanishSpan": "tocare"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "notes": "clause role",
+      "spanish": "Y si no alcanzare su mano bastancia de oveja, y traerá su culpa que pecó, dos tórtolas o dos hijos de paloma a Jehová, uno a pecado y uno a holocausto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005007020"
+          ],
+          "issue": "לְחַטָּאת (H2403, noun sin/sin-offering) is rendered as expiación, a theological result the token does not license.",
+          "spanishSpan": "expiación"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Y los traerá al sacerdote, y acercará el que al pecado primero, y le torcerá la cabeza desde frente a su nuca, y no separará.",
+      "findings": []
+    },
+    {
+      "verse": 10,
+      "notes": "clause role",
+      "spanish": "Y el segundo hará holocausto conforme al juicio, y expiará sobre él el sacerdote desde su pecado que pecó, y será perdonado a él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005010001",
+            "h03005010002",
+            "h03005010003",
+            "h03005010004"
+          ],
+          "issue": "את marks the second as object of the 3ms verb; the burnt offering is what is made of it. Spanish makes el segundo the subject who hará holocausto.",
+          "spanishSpan": "el segundo hará holocausto"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03005010005"
+          ],
+          "issue": "Packet morphology is preposition plus absolute noun with no article; al adds definiteness.",
+          "spanishSpan": "al juicio"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "clause role",
+      "spanish": "Y si no alcanzare su mano a dos tórtolas o a dos hijos de paloma, y traerá su ofrenda que pecó, décima del efa sólet a pecado; no pondrá sobre ella aceite, y no dará sobre ella incienso, porque pecado ella.",
+      "findings": []
+    },
+    {
+      "verse": 17,
+      "notes": "re-audit fail",
+      "spanish": "Y si alma cuando pecare, e hiciere una de todos los mandamientos de Jehová que no se harán, y no conoció, y *será* culpado, y llevará su iniquidad.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005017015"
+          ],
+          "issue": "Qal sequential perfect 3ms (simple stem: be/become guilty) is rendered as the passive *será* culpado (will be blamed). The clause is verbal, so the marked copula is not the verbless-clause exemption, and the passive adds an external blaming the qal does not license.",
+          "spanishSpan": "*será* culpado"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "notes": "re-audit fail",
+      "spanish": "Culpa él; culpar culpó a Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005019003",
+            "h03005019004"
+          ],
+          "issue": "Qal infinitive absolute plus qal perfect 3ms of lemma 816 is one stative event (be or become guilty), with the infinitive absolute only intensifying that verb. «culpar culpó» makes it transitive «to blame / he blamed».",
+          "spanishSpan": "culpar culpó"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03005019004",
+            "h03005019005"
+          ],
+          "issue": "The preposition ל marks Jehová as the one toward whom the 3ms subject is guilty. «culpó a Jehová» makes Jehová the person blamed.",
+          "spanishSpan": "culpó a Jehová"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "hold: clause role — left 'cuando' as is because choosing among H3588's when/if/because readings fixes this clause's role, and conjunction sense is frozen for the polish layer."
+    },
+    {
+      "verse": 4,
+      "note": "Supplied the italicized copula *será* to give culpado a finite 3ms predicate and rendered yada'/H3045 as the compound hubiere conocido to mark its perfect aspect, distinct from the simple future-subjunctive forms used for the surrounding imperfect clauses."
+    },
+    {
+      "verse": 7,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "hold: clause role — whether the ל in «al pecado» is governed by the relative pronoun inside the verbless relative or by the main verb acercará is a preposition-governance choice, so that span is left unchanged."
+    },
+    {
+      "verse": 10,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 11,
+      "note": "hold: clause role — the subject of 'que pecó' stays undecided between the person bringing the offering and the masculine offering itself, since חָטָא (qal perfect 3ms) has no expressed subject; that clause is left unchanged."
+    }
+  ]
+}

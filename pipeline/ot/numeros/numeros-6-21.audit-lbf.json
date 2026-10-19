@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:21",
+  "chapter": 6,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Esta torá del nazir que votare: su ofrenda a Jehová sobre su nézer, aparte de lo que alcanzare su mano; conforme a boca de su voto que votare, así hará, sobre torá de su nézer.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006021002",
+        "h04006021021"
+      ],
+      "issue": "תּוֹרָה (H8451, sustantivo común) queda sin traducir como «torá» en lugar de un sustantivo español.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006021003"
+      ],
+      "issue": "הַנָּזִיר (H5139, sustantivo común con artículo) queda sin traducir como «nazir».",
+      "spanishSpan": "nazir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006021009",
+        "h04006021022"
+      ],
+      "issue": "נֵזֶר (H5145, sustantivo común) queda sin traducir como «nézer».",
+      "spanishSpan": "nézer"
+    }
+  ],
+  "notes": "El resto del versículo conserva deixis, persona, número, constructos, Jehová y la repetición de votar/voto.",
+  "discardedUncitedFindings": 0
+}

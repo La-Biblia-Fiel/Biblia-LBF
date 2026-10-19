@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:4",
+  "chapter": 40,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y traerás la mesa, y ordenarás su orden; y traerás la menorá, y harás subir sus lámparas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040004009"
+      ],
+      "issue": "Common noun הַמְּנֹרָה (H4501) is left as the untranslated lemma menorá; a common noun must be Spanish.",
+      "spanishSpan": "menorá"
+    }
+  ],
+  "notes": "The other clauses match the tokens: 2ms hiphil traerás, qal ordenarás su orden, hiphil harás subir, plural sus lámparas.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:22",
+  "chapter": 9,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "O dos días, o mes, o días, en alargar la nube sobre el mishkán para morar sobre él, acamparán hijos de Israel y no partirán; y en su alzarse, partirán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009022007",
+        "h04009022008"
+      ],
+      "issue": "«alargar la nube» hace la nube objeto del infinitivo hifil; el sustantivo que sigue al infinitivo constructo es su sujeto (la nube alarga).",
+      "spanishSpan": "alargar la nube"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009022010"
+      ],
+      "issue": "«mishkán» deja sin traducir un sustantivo común (artículo + singular), no un nombre propio.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04009022018"
+      ],
+      "issue": "«alzarse» es reflexivo; el token es infinitivo nifal (ser alzado), así que la fuerza pasiva queda solo en parte.",
+      "spanishSpan": "alzarse"
+    }
+  ],
+  "notes": "El dual «dos días», el plural «días», el singular «mes» y la repetición de partir se mantienen.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:21",
+  "chapter": 39,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y ataron el joshen desde sus anillos a los anillos del efod con cordón de azul, para estar sobre el cinturón del efod, y no se apartará el joshen de sobre el efod, conforme a lo que mandó Jehová a Moisés.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039021003",
+        "h02039021016"
+      ],
+      "issue": "joshen dumps the common noun H2833 untranslated; a common noun must be Spanish",
+      "spanishSpan": "joshen"
+    }
+  ],
+  "notes": "efod is the Spanish noun for H646; rings, cord, blue, belt, and the clause roles match the tokens.",
+  "discardedUncitedFindings": 0
+}

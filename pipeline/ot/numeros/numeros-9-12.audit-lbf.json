@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:12",
+  "chapter": 9,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "No dejarán de él hasta mañana, y hueso no quebrarán en él; conforme a todo estatuto del Pésaj lo harán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009012003"
+      ],
+      "issue": "The suffix is 1st common plural (from us); de él is 3rd masculine singular.",
+      "spanishSpan": "de él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009012005"
+      ],
+      "issue": "The noun is morning; hasta mañana means until tomorrow.",
+      "spanishSpan": "mañana"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009012012"
+      ],
+      "issue": "Common noun rendered as the Hebrew transliteration Pésaj with title capitalization.",
+      "spanishSpan": "Pésaj"
+    }
+  ],
+  "notes": "en él and lo match the separate 3ms suffixes.",
+  "discardedUncitedFindings": 0
+}

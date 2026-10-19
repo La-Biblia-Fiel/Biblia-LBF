@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:18",
+  "chapter": 38,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y masaj de la puerta del atrio, obra de bordador, azul y púrpura y carmesí y lino fino retorcido; y veinte codo de largo, y alto en ancho cinco codos, a la par de las colgaduras del atrio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038018001"
+      ],
+      "issue": "Common noun מָסָךְ (H4539, screen/covering, construct) is dumped as untranslated masaj instead of a Spanish noun.",
+      "spanishSpan": "masaj"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038018015"
+      ],
+      "issue": "Noun קוֹמָה (height) is smoothed to the adjective alto; the height measure is still present.",
+      "spanishSpan": "alto"
+    }
+  ],
+  "notes": "Lemma 8336 b licenses lino fino despite the cardinal morph tag; singular אַמָּה and plural אַמּוֹת match codo/codos.",
+  "discardedUncitedFindings": 0
+}

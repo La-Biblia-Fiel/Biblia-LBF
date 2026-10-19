@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:9",
+  "chapter": 2,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y alzará el sacerdote desde la minjá su memorial, y hará humear hacia el altar; ofrenda de fuego, olor de reposo a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002009004"
+      ],
+      "issue": "minjá dumps the common noun untranslated; a common noun must be Spanish",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03002009009",
+        "h03002009010"
+      ],
+      "issue": "comma juxtaposes the construct chain (fire-offering of scent) instead of linking them",
+      "spanishSpan": "ofrenda de fuego, olor"
+    }
+  ],
+  "notes": "Other tokens match: 3ms lift and cause-to-smoke, from the offering, her memorial, altar-ward, scent of rest, to Jehová.",
+  "discardedUncitedFindings": 0
+}

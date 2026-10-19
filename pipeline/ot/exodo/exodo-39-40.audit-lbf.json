@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:40",
+  "chapter": 39,
+  "verse": 40,
+  "candidateLabel": "lbf",
+  "spanish": "las colgaduras del atrio, sus columnas y sus basas, y el masaj a la puerta del atrio, sus cuerdas y sus estacas, y todos los utensilios de servicio del mishkán a la tienda de reunión,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039040009"
+      ],
+      "issue": "Common noun הַמָּסָךְ (H4539) is left as the untranslated lemma masaj; common nouns stay Spanish.",
+      "spanishSpan": "masaj"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039040019"
+      ],
+      "issue": "Common noun הַמִּשְׁכָּן (H4908) is left as the untranslated lemma mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039040013",
+        "h02039040014"
+      ],
+      "issue": "Spanish sus collapses the 3ms possessor on the cords and the 3fs possessor on the pegs; grammatical smoothing, possessors not reassigned.",
+      "spanishSpan": "sus cuerdas y sus estacas"
+    }
+  ],
+  "notes": "Remaining list, number, and construct relations match the tokens.",
+  "discardedUncitedFindings": 0
+}

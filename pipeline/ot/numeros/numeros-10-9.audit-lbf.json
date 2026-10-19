@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 10:9",
+  "chapter": 10,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando entren ustedes en guerra en tierra de ustedes sobre el opresor el oprimiente a ustedes, y darán alarma con las trompetas, y serán recordados delante de Jehová Dios de ustedes, y serán salvos de enemigos de ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04010009003"
+      ],
+      "issue": "«en» has no Hebrew preposition; it only lets entrar take מלחמה and adds no concept.",
+      "spanishSpan": "en"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04010009005"
+      ],
+      "issue": "«sobre» keeps a spatial/about sense of על; against remains open in the preposition.",
+      "spanishSpan": "sobre"
+    }
+  ],
+  "notes": "2mp ustedes, hiphil/niphal, Jehová, and Dios match the tokens.",
+  "discardedUncitedFindings": 0
+}

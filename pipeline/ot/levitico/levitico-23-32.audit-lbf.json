@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:32",
+  "chapter": 23,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Shabat de shabatón él a ustedes, y humillarán sus almas; en nueve al mes, en la tarde, desde tarde hasta tarde cesarán shabat de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023032001",
+        "h03023032002",
+        "h03023032015"
+      ],
+      "issue": "Common nouns H7676 and H7677 are left as Hebrew transliterations instead of Spanish.",
+      "spanishSpan": "Shabat de shabatón … shabat de ustedes"
+    }
+  ],
+  "notes": "2mp futures and sus match ustedes; the object marker is untranslated.",
+  "discardedUncitedFindings": 0
+}

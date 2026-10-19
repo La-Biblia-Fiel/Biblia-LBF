@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:14",
+  "chapter": 6,
+  "verse": 14,
+  "candidateLabel": "pulir",
+  "spanish": "Y esta *es* la ley de la ofrenda: acercarán a ella hijos de Aarón delante de Jehová, a faces del altar.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006014004",
+        "h03006014006"
+      ],
+      "issue": "Hiphil infinitive absolute has no person or tense; acercarán makes it future 3pl. Plural subject hijos licenses person and number; future tense is Spanish smoothing.",
+      "spanishSpan": "acercarán"
+    }
+  ],
+  "notes": "Marked *es* only supplies the verbless copula; delante de and a faces keep both 6440 phrases.",
+  "discardedUncitedFindings": 0
+}

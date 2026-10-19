@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:14",
+  "chapter": 6,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y acercará su ofrenda a Jehová: cordero hijo de su año íntegro uno a holocausto, y cordera una hija de su año íntegra a pecado, y carnero uno íntegro a pazes,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006014020"
+      ],
+      "issue": "«pazes» renders H8002 (masculine plural requital/peace offering) as a plural of abstract peace, omitting the offering the lemma licenses.",
+      "spanishSpan": "pazes"
+    }
+  ],
+  "notes": "The other tokens match in order, number, person, and participants, including לְחַטָּאת as pecado.",
+  "discardedUncitedFindings": 0
+}

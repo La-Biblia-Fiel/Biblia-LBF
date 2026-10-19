@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:4",
+  "chapter": 39,
+  "verse": 4,
+  "candidateLabel": "pulir",
+  "spanish": "Hombros hicieron a él, que se unen; sobre dos fue juntado.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039004004"
+      ],
+      "issue": "Qal active feminine plural participle is smoothed as the reflexive present se unen; se is not a reflexive stem.",
+      "spanishSpan": "se unen"
+    }
+  ],
+  "notes": "Seven tokens are present: shoulders, they made, to him, joining, upon, two, and pual it was joined.",
+  "discardedUncitedFindings": 0
+}

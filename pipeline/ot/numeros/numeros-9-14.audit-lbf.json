@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:14",
+  "chapter": 9,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando peregrinare con ustedes peregrino, y hiciere Pésaj a Jehová, conforme a estatuto del Pésaj y conforme a su juicio así hará; estatuto uno será a ustedes y al peregrino y al natural de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009014006",
+        "h04009014009"
+      ],
+      "issue": "Pésaj transliterates the common noun פסח (not a proper name) and adds title capitalization.",
+      "spanishSpan": "Pésaj"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04009014001"
+      ],
+      "issue": "כִּי is only marked as a conjunction; «cuando» selects the temporal sense and closes if/that.",
+      "spanishSpan": "cuando"
+    }
+  ],
+  "notes": "Person, number, cognate גור/גר, suffix «su», and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

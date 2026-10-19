@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:18",
+  "chapter": 11,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "y la tinshémet y el qaat y el raham,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011018002"
+      ],
+      "issue": "Common noun (definite feminine singular) is dumped as an untranslated transliteration instead of Spanish.",
+      "spanishSpan": "tinshémet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011018004"
+      ],
+      "issue": "Common noun (definite feminine singular) is dumped as an untranslated transliteration, and the Spanish article is masculine against the feminine morphology.",
+      "spanishSpan": "el qaat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011018006"
+      ],
+      "issue": "Common noun (definite masculine singular) is dumped as an untranslated transliteration instead of Spanish.",
+      "spanishSpan": "raham"
+    }
+  ],
+  "notes": "The three וְאֶת conjunctions are covered by y; the object markers add no extra lexical concept.",
+  "discardedUncitedFindings": 0
+}

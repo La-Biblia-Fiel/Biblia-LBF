@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 8:2",
+  "chapter": 8,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a Aarón, y dirás a él: En tu hacer subir las lámparas, hacia frente de faces de la menorá iluminarán las siete las lámparas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04008002012"
+      ],
+      "issue": "Common noun (not a proper name) is left as the Hebrew loan menorá instead of a Spanish common noun.",
+      "spanishSpan": "la menorá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04008002014",
+        "h04008002015"
+      ],
+      "issue": "The article is only on the lamps; the construct numeral has none. las siete las lámparas marks definiteness twice without a change of referent.",
+      "spanishSpan": "las siete las lámparas"
+    }
+  ],
+  "notes": "Address, hiphil subir, plural faces, and 3mp iluminarán stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

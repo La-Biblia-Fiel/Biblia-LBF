@@ -1,0 +1,69 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 1:12",
+  "chapter": 1,
+  "verse": 12,
+  "sourceDraft": "Y lo descuartizará a sus cuartos, y su cabeza y su sebo, y ordenará el sacerdote a ellos sobre los leños que sobre el fuego que sobre el altar.",
+  "spanish": "Y lo cortará en sus piezas, y su cabeza y su sebo, y el sacerdote los acomodará sobre los leños que sobre el fuego que sobre el altar.",
+  "units": [
+    {
+      "es": "lo cortará en sus piezas",
+      "sourceTokenIds": [
+        "h03001012001",
+        "h03001012002",
+        "h03001012003"
+      ]
+    },
+    {
+      "es": "y su cabeza",
+      "sourceTokenIds": [
+        "h03001012004",
+        "h03001012005"
+      ]
+    },
+    {
+      "es": "y su sebo",
+      "sourceTokenIds": [
+        "h03001012006",
+        "h03001012007"
+      ]
+    },
+    {
+      "es": "y el sacerdote los acomodará",
+      "sourceTokenIds": [
+        "h03001012008",
+        "h03001012009",
+        "h03001012010"
+      ]
+    },
+    {
+      "es": "sobre los leños que sobre el fuego",
+      "sourceTokenIds": [
+        "h03001012011",
+        "h03001012012",
+        "h03001012013",
+        "h03001012014",
+        "h03001012015"
+      ]
+    },
+    {
+      "es": "que sobre el altar",
+      "sourceTokenIds": [
+        "h03001012016",
+        "h03001012017",
+        "h03001012018"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "descuartizará a sus cuartos -> cortará en sus piezas: piel H5408 with plural H5409 licenses pieces, not a division into four quarters.",
+    "ordenará el sacerdote a ellos -> el sacerdote los acomodará: replaced the command/arrange-ambiguous verb and a-ellos construction with an unambiguous arranging sense for qal H6186, keeping the priest acting on the objects."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

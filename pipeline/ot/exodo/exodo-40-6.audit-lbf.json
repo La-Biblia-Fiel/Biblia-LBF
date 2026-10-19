@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:6",
+  "chapter": 40,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y darás el altar del holocausto delante de la abertura del mishkán de la tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040006007"
+      ],
+      "issue": "mishkán leaves the common noun (H4908, construct) untranslated; a common noun must be Spanish",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Y darás, el altar del holocausto, delante de la abertura, and tienda de reunión match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

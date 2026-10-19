@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:25",
+  "chapter": 7,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Porque todo comiente grasa desde la bestia que acercarán desde ella ofrenda de fuego a Jehová, y será cortada el alma la comiente desde sus pueblos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007025008"
+      ],
+      "issue": "יקריב is hiphil imperfect 3rd masculine singular; acercarán is 3rd person plural, so the offerer changes from one man to a plural subject.",
+      "spanishSpan": "acercarán"
+    }
+  ],
+  "notes": "Resumptive desde ella matches the 3fs suffix; the mismatch is the plural verb.",
+  "discardedUncitedFindings": 0
+}

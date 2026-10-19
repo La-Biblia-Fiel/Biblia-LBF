@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:50",
+  "chapter": 25,
+  "verse": 50,
+  "candidateLabel": "lbf",
+  "spanish": "Y contará con su comprante desde año de su venderse a él hasta año del yovel, y será plata de su venta en número de años; como días de jornalero será con él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025050009"
+      ],
+      "issue": "Common noun H3104 is left as the transliteration yovel; a common noun must be Spanish.",
+      "spanishSpan": "yovel"
+    }
+  ],
+  "notes": "Other tokens match in participants, number, and stem, including niphal venderse and 3ms contará/será.",
+  "discardedUncitedFindings": 0
+}

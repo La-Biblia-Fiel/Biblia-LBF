@@ -1,0 +1,316 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 4,
+  "kept": [
+    1,
+    3,
+    4,
+    5,
+    7,
+    11,
+    12,
+    13,
+    15,
+    17,
+    19,
+    20,
+    22,
+    23,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    34
+  ],
+  "drafted": [],
+  "repaired": [
+    10
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "clause role",
+      "spanish": "Habla a hijos de Israel, diciendo: Alma, cuando peque por error desde todos mandamientos de Jehová que no se harán, y hiciere desde una desde ellas:",
+      "findings": []
+    },
+    {
+      "verse": 6,
+      "notes": "clause role",
+      "spanish": "Y mojará el sacerdote su dedo en la sangre, y rociará desde la sangre siete veces delante de Jehová, faces de parójet de la santidad.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03004006015"
+          ],
+          "issue": "Common noun left as the untranslated Hebraized form parójet; it must be Spanish.",
+          "spanishSpan": "parójet"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03004006013"
+          ],
+          "issue": "Preposition את (with/toward) before the faces is omitted, so the sprinkling is not related to those faces.",
+          "spanishSpan": ""
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Y toda grasa de toro del pecado alzará desde él: la grasa la cubriente sobre el interior, y toda la grasa que sobre el interior,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03004008001",
+            "h03004008006"
+          ],
+          "issue": "את marca «toda grasa de toro del pecado» como objeto del hiphil 3ms יָרִים (sujeto no expresado). «alzará» sin marca de objeto se lee como si la grasa fuera el sujeto que alza, e invierte el participante y la fuerza causativa.",
+          "spanishSpan": "toda grasa de toro del pecado alzará"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "clause role",
+      "spanish": "y los dos los riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones la quitará,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03004009005",
+            "h03004009012",
+            "h03004009014",
+            "h03004009017"
+          ],
+          "issue": "The 3fs object suffix matches the feminine singular lobe or liver, not the masculine singular fat. Spanish la agrees with la grasa, while el lóbulo and el hígado are masculine, so the removed participant shifts to the fat.",
+          "spanishSpan": "la grasa ... la quitará"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "notes": "clause role",
+      "spanish": "y fuere conocido el pecado que pecaron sobre ella, y acercarán la asamblea toro hijo de ganado a pecado, y lo traerán delante de tienda de reunión.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03004014006",
+            "h03004014007",
+            "h03004014008"
+          ],
+          "issue": "Hiphil 3cp וְהִקְרִיבוּ takes הַקָּהָל as subject and פַּר as what is brought near; «acercarán la asamblea toro» makes the assembly the object and leaves the bull as a second object.",
+          "spanishSpan": "acercarán la asamblea toro"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03004014002",
+            "h03004014005"
+          ],
+          "issue": "The 3fs suffix on עָלֶיהָ resumes feminine הַחַטָּאת; «ella» cannot resume masculine «el pecado», so the pronoun no longer points to the sin.",
+          "spanishSpan": "sobre ella"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "Y traerá el sacerdote el ungido desde sangre del toro a tienda de reunión.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03004016002",
+            "h03004016003"
+          ],
+          "issue": "Two definite nouns after traerá can be read as subject plus object; both Hebrew nouns stand with the 3ms subject and there is no object marker.",
+          "spanishSpan": "el sacerdote el ungido"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03004016004",
+            "h03004016005"
+          ],
+          "issue": "desde fixes the mem-preposition as spatial source; that prefix on construct blood also allows a partitive reading, and the verse has no separate direct object.",
+          "spanishSpan": "desde sangre del toro"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y desde la sangre dará sobre cuernos del altar que delante de Jehová que en tienda de reunión, y toda la sangre derramará a base de altar del holocausto que a abertura de tienda de reunión.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03004018021",
+            "h03004018022"
+          ],
+          "issue": "Unmarked preposition \"a\" is inserted before abertura. אשר פתח has no preposition token, so the verbless relative is resolved as locative \"at\" the opening.",
+          "spanishSpan": "a abertura"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y sacará el toro a fuera al campamento, y lo quemará conforme a lo que quemó el toro el primero; pecado de la asamblea él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03004021009",
+            "h03004021010",
+            "h03004021011",
+            "h03004021012",
+            "h03004021013"
+          ],
+          "issue": "כַּאֲשֶׁר שָׂרַף is 3ms “as he burned,” and אֵת marks הַפָּר הָרִאשׁוֹן as the object. “conforme a lo que quemó el toro el primero” makes the bull the subject of quemó and the relative the thing burned.",
+          "spanishSpan": "conforme a lo que quemó el toro el primero"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "notes": "clause role",
+      "spanish": "Y apoyará su mano sobre cabeza del macho cabrío, y lo degollará en lugar que se degüella el holocausto delante de Jehová; pecado él.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03004024010",
+            "h03004024011",
+            "h03004024012"
+          ],
+          "issue": "Qal imperfecto 3ms activo, con את de objeto, queda en «se degüella»: impersonal o pasiva; el holocausto puede leerse como paciente-sujeto.",
+          "spanishSpan": "se degüella"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "notes": "clause role",
+      "spanish": "Y toda su grasa hará humear hacia el altar, como grasa de sacrificio de los pazes; y expiará sobre él el sacerdote desde su pecado, y será perdonado a él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03004026001",
+            "h03004026002",
+            "h03004026003",
+            "h03004026004"
+          ],
+          "issue": "את marks all his fat as the object of the hiphil 3ms. Spanish makes «toda su grasa» the subject of «hará» and leaves «humear» without that object.",
+          "spanishSpan": "toda su grasa hará humear"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03004026008"
+          ],
+          "issue": "The definite plural is kept, but «pazes» is an uncertain Spanish form for the peace-offering noun.",
+          "spanishSpan": "pazes"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "notes": "clause role",
+      "spanish": "Y apoyará su mano sobre cabeza del pecado, y la degollará a pecado en lugar que se degüella el holocausto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03004033012",
+            "h03004033013",
+            "h03004033014"
+          ],
+          "issue": "Qal imperfect 3ms active, with את marking הָעֹלָה as object. Spanish se-passive makes the burnt offering the subject and drops the 3ms agent.",
+          "spanishSpan": "se degüella"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "notes": "spanish check",
+      "spanish": "Y toda su grasa quitará, conforme a lo que se quitará grasa del cordero desde el sacrificio de los pazes, y hará humear el sacerdote a ellos hacia el altar, sobre ofrendas de fuego de Jehová; y expiará sobre él el sacerdote sobre su pecado que pecó, y será perdonado a él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«pazes» no es español actual; el plural de paz es paces",
+          "spanishSpan": "pazes"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 2,
+      "note": "hold: clause role — cuando keeps the morphologically open sense of כִּי (temporal, conditional, or causal), since only clause role, not inflection, would decide it."
+    },
+    {
+      "verse": 6,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 9,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 13,
+      "note": "Kept the plural erraren against the singular head noun congregación to match the Hebrew 3mp verb, the same choice already reflected in hicieren."
+    },
+    {
+      "verse": 14,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 16,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 17,
+      "note": "Elegí sumergirá y ante dentro de los sentidos licenciados por el auditor (H2881: sumergir/meter el dedo; H854: con/junto a/ante) y traduje parójet como velo con su artículo masculino en vez de transliterar H6532."
+    },
+    {
+      "verse": 22,
+      "note": "Chose 'fuere culpable' (future subjunctive) over 'será culpable' to keep sequence-of-tense agreement with 'pecare'/'hiciere' while restoring the verb's person and force."
+    },
+    {
+      "verse": 24,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 26,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 27,
+      "note": "Se eligió el futuro 'será culpable' para la secuencia de tiempos con el futuro de subjuntivo 'pecare' de la prótasis."
+    },
+    {
+      "verse": 33,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 35,
+      "note": "«pazes» no es español actual; el plural de paz es paces"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:25",
+  "chapter": 16,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y la grasa del pecado hará humear hacia el altar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016025001",
+        "h03016025002",
+        "h03016025004"
+      ],
+      "issue": "את marks חֵלֶב as the object of 3ms hiphil יַקְטִיר. Spanish makes la grasa the subject of hará humear and drops the masculine singular agent.",
+      "spanishSpan": "la grasa del pecado hará humear"
+    }
+  ],
+  "notes": "hacia el altar matches the directional suffix on the altar token.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:21",
+  "chapter": 37,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y manzana debajo de las dos cañas desde ella, y manzana debajo de las dos cañas desde ella, y manzana debajo de las dos cañas desde ella, a las seis cañas las salientes desde ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037021001",
+        "h02037021006",
+        "h02037021011"
+      ],
+      "issue": "manzana nombra la fruta; H3730 es sustantivo común masculino singular (perilla/botón/capitel) y no licencia manzana",
+      "spanishSpan": "manzana"
+    }
+  ],
+  "notes": "La repetición triple, el dual dos, el seis, el participio qal y el sufijo 3fs coinciden con los tokens.",
+  "discardedUncitedFindings": 0
+}

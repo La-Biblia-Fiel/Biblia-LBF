@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:23",
+  "chapter": 15,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y si sobre el lecho él o sobre el utensilio que ella sentante sobre él, en su tocar en él se impurecerá hasta la tarde.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015023010"
+      ],
+      "issue": "Qal active participle of sit is rendered sentante, the agent form of causative sentar (seat), shifting stem force from sitting to seating.",
+      "spanishSpan": "sentante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03015023012"
+      ],
+      "issue": "The infinitive suffix is 3ms, but su does not mark masculine, so the toucher can be read as the woman.",
+      "spanishSpan": "su tocar"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03015023016"
+      ],
+      "issue": "The definite evening noun is rendered tarde, which in current Latin American Spanish also covers the afternoon.",
+      "spanishSpan": "la tarde"
+    }
+  ],
+  "notes": "Conjunction, pronouns, articles, qal infinitive, and qal 3ms impurity verb match the tokens.",
+  "discardedUncitedFindings": 0
+}

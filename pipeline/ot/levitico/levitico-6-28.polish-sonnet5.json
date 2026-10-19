@@ -1,0 +1,22 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 6:28",
+  "chapter": 6,
+  "verse": 28,
+  "sourceDraft": "Y utensilio de barro que se cocinare en él será quebrado; y si en utensilio de bronce se cocinare, y será frotado y lavado en las aguas.",
+  "spanish": "Y utensilio de barro en que se cocinare será quebrado; y si en utensilio de bronce se hubiere cocinado, será fregado y lavado en las aguas.",
+  "units": [],
+  "grammarChanges": [
+    "Rebuilt the earthenware clause as 'en que se cocinare' instead of 'que se cocinare en él,' so the preposition attaches to the relative clause and the vessel reads as the place of cooking (per בּוֹ), not the thing cooked, fixing the fail on תְּבֻשַּׁל (pual 3fs).",
+    "Distinguished the pual imperfect תְּבֻשַּׁל ('se cocinare') from the pual perfect בֻּשָּׁלָה by rendering the second clause as 'se hubiere cocinado,' restoring the smoothed aspect contrast.",
+    "Removed the stray coordinating 'y' before 'será' so the bronze-vessel clause reads as a single protasis/apodosis; kept 'fregado' and 'lavado' masculine singular, agreeing with 'utensilio,' matching the 3ms forms וּמֹרַק/וְשֻׁטַּף so the vessel, not the unstated cooked item, is scoured and rinsed.",
+    "Replaced 'frotado' with 'fregado' to render the pual of מָרַק (scour/polish) rather than mere rubbing."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'en que se cocinare ... se hubiere cocinado' to keep the vessel as the place of cooking and preserve the imperfect/perfect contrast, and chose 'fregado' over 'frotado' for the scouring sense of מָרַק.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

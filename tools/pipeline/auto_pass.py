@@ -28,12 +28,15 @@ when the CLI rejects the default.
 from __future__ import annotations
 
 import argparse
+import concurrent.futures
 import json
 import os
 import re
 import shutil
 import subprocess
 import sys
+import threading
+import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -69,6 +72,7 @@ POLISH_LABEL = "pulir"
 SONNET_LABEL = "sonnet5"
 AUTO_LABEL = "auto"
 SCOPE = "lbf-sonnet-scope-v2"
+TRANSLATION_LOCK = threading.RLock()
 MISSING_CLI = """Cursor CLI not found (looked for agent and cursor-agent).
 Install: curl https://cursor.com/install -fsS | bash
 Then: agent login
@@ -436,36 +440,73 @@ def call_cursor(model: str, request: Path) -> dict:
         "Do not align. Do not open STATUS.md."
     )
     timeout = int(os.environ.get("LBF_CURSOR_TIMEOUT", "300"))
-    proc = subprocess.run(
-        [
-            binary,
-            "-p",
-            "--trust",
-            "--mode",
-            "ask",
-            "--model",
-            model,
-            "--output-format",
-            "text",
-            "--workspace",
-            str(ROOT),
-            prompt,
-        ],
-        cwd=str(ROOT),
-        capture_output=True,
-        text=True,
-        timeout=timeout,
-        check=False,
-    )
-    if proc.returncode != 0:
-        detail = (proc.stderr or proc.stdout or "").strip()
-        hint = ""
-        if "model" in detail.lower():
-            hint = " Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-        raise RuntimeError(f"agent exit {proc.returncode}: {detail[-800:]}{hint}")
-    if not (proc.stdout or "").strip():
-        raise RuntimeError("agent returned an empty answer")
-    return parse_json_object(proc.stdout)
+    retries = max(0, int(os.environ.get("LBF_CURSOR_RETRIES", "2")))
+    command = [
+        binary,
+        "-p",
+        "--trust",
+        "--mode",
+        "ask",
+        "--model",
+        model,
+        "--output-format",
+        "text",
+        "--workspace",
+        str(ROOT),
+        prompt,
+    ]
+    for attempt in range(retries + 1):
+        if attempt:
+            delay = int(os.environ.get("LBF_CURSOR_RETRY_DELAY", "2")) * attempt
+            print(f"retrying Cursor call {attempt}/{retries} after {delay}s", file=sys.stderr)
+            time.sleep(delay)
+        try:
+            proc = subprocess.run(
+                command,
+                cwd=str(ROOT),
+                capture_output=True,
+                text=True,
+                timeout=timeout,
+                check=False,
+            )
+        except subprocess.TimeoutExpired as exc:
+            error: Exception = RuntimeError(f"agent timed out after {timeout} seconds")
+        else:
+            if proc.returncode != 0:
+                detail = (proc.stderr or proc.stdout or "").strip()
+                hint = ""
+                if "model" in detail.lower():
+                    hint = (
+                        " Run `agent models` and set LBF_CURSOR_AUTO_MODEL or "
+                        "LBF_CURSOR_SONNET_MODEL."
+                    )
+                error = RuntimeError(f"agent exit {proc.returncode}: {detail[-800:]}{hint}")
+            elif not (proc.stdout or "").strip():
+                error = RuntimeError("agent returned an empty answer")
+            else:
+                try:
+                    return parse_json_object(proc.stdout)
+                except (ValueError, json.JSONDecodeError) as exc:
+                    error = RuntimeError(f"agent returned invalid JSON: {exc}")
+        detail = str(error).lower()
+        transient = any(
+            marker in detail
+            for marker in (
+                "timed out",
+                "timeout",
+                "enotfound",
+                "econnreset",
+                "unavailable",
+                "rate limit",
+                "429",
+                "overloaded",
+                "empty answer",
+                "invalid json",
+            )
+        )
+        if not transient or attempt == retries:
+            raise error
+    raise RuntimeError("Cursor call failed")
 
 
 def write_role_request(path: Path, *, model: str, system: str, user: str, extra: dict) -> Path:
@@ -669,6 +710,11 @@ def next_section(lines: list[str], start: int) -> int:
 
 
 def write_verse(slug: str, chapter: int, verse: int, spanish: str) -> bool:
+    with TRANSLATION_LOCK:
+        return _write_verse_unlocked(slug, chapter, verse, spanish)
+
+
+def _write_verse_unlocked(slug: str, chapter: int, verse: int, spanish: str) -> bool:
     path = translation_path(slug)
     spanish = spanish.strip()
     if not spanish:
@@ -736,7 +782,8 @@ def run_verse(
 ) -> dict:
     caller = caller or call_cursor
     packet = ensure_packet(slug, chapter, verse)
-    original = load_verses(slug).get((chapter, verse), "").strip()
+    with TRANSLATION_LOCK:
+        original = load_verses(slug).get((chapter, verse), "").strip()
     drafted = False
     if not original:
         original = ensure_draft(slug, chapter, verse, packet, caller, reuse=resume)
@@ -1001,6 +1048,7 @@ def run_auto(
     end: int | None = None,
     resume: bool = True,
     full: bool = False,
+    workers: int = 1,
     caller=None,
 ) -> dict:
     summary = {
@@ -1014,20 +1062,37 @@ def run_auto(
         "errors": [],
         "readerNotes": [],
     }
-    rows = []
-    for verse in chapter_verses(slug, chapter, start, end):
+    if workers < 1:
+        raise ValueError("workers must be at least 1")
+    verses = chapter_verses(slug, chapter, start, end)
+
+    def run_one(verse: int) -> dict:
         try:
             result = run_verse(
                 slug, chapter, verse, resume=resume, full=full, caller=caller
             )
         except Exception as exc:  # noqa: BLE001
             result = row(verse, "error", notes=str(exc))
-        rows.append(result)
         print(
             f"{chapter}:{verse}: {result['status']} warns={result.get('warns') or 0} "
             f"{result.get('notes') or ''}".rstrip(),
             flush=True,
         )
+        return result
+
+    if workers == 1:
+        by_verse = {verse: run_one(verse) for verse in verses}
+    else:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = {executor.submit(run_one, verse): verse for verse in verses}
+            by_verse = {
+                futures[future]: future.result()
+                for future in concurrent.futures.as_completed(futures)
+            }
+
+    rows = [by_verse[verse] for verse in verses]
+    for result in rows:
+        verse = result["verse"]
         status = result["status"]
         if status == "kept":
             summary["kept"].append(verse)
@@ -1085,6 +1150,12 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Send every verse to Sonnet, including a clean pass",
     )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=1,
+        help="Process this many verses concurrently (default: 1)",
+    )
     args = parser.parse_args(argv)
     if agent_binary() is None:
         print(MISSING_CLI, file=sys.stderr)
@@ -1096,6 +1167,7 @@ def main(argv: list[str] | None = None) -> int:
         end=args.end,
         resume=not args.no_resume,
         full=args.full,
+        workers=args.workers,
     )
     return 1 if summary["errors"] else 0
 

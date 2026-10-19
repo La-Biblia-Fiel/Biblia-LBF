@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 2:30",
+  "chapter": 2,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y su ejército y sus contados: tres y cincuenta mil y cuatro cientos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04002030003",
+        "h04002030004",
+        "h04002030005"
+      ],
+      "issue": "The tokens are three and fifty thousand (53000). In current Spanish, «tres y cincuenta mil» reads as three plus fifty thousand (50003).",
+      "spanishSpan": "tres y cincuenta mil"
+    }
+  ],
+  "notes": "«cuatro cientos» still matches four hundreds.",
+  "discardedUncitedFindings": 0
+}

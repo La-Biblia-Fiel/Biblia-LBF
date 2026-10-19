@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 27:18",
+  "chapter": 27,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y si después del yovel santificare su campo, y calculará a él el sacerdote la plata sobre boca de los años los restantes hasta año del yovel, y será restado desde tu valoración.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03027018003",
+        "h03027018017"
+      ],
+      "issue": "Common noun הַיֹּבֵל (H3104) is left as the Hebrew yovel; common nouns stay Spanish.",
+      "spanishSpan": "yovel"
+    }
+  ],
+  "notes": "Remaining tokens match, including 3ms, piel weqatal, niphal, and the 2ms suffix.",
+  "discardedUncitedFindings": 0
+}

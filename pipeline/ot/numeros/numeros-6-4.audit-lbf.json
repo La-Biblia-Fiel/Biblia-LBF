@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:4",
+  "chapter": 6,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Todos días de su nézer, desde todo lo que se haga desde vid del vino, desde granos hasta hollejo, no comerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006004003"
+      ],
+      "issue": "H5145 is a common noun with a 3ms suffix, not a proper name; nézer leaves the lemma untranslated.",
+      "spanishSpan": "nézer"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006004009",
+        "h04006004011"
+      ],
+      "issue": "Morphology only licenses a plural noun then a singular noun in the from–until span; granos and hollejo lock grape-seed and grape-skin.",
+      "spanishSpan": "granos hasta hollejo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006004010"
+      ],
+      "issue": "The conjunction on וְעַד is smoothed into hasta; the until-span remains.",
+      "spanishSpan": "hasta"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006004006"
+      ],
+      "issue": "Niphal imperfect 3ms is smoothed to subjunctive se haga; person, passive stem, and singular remain.",
+      "spanishSpan": "se haga"
+    }
+  ],
+  "notes": "Three min prepositions match the three desde; לא plus qal imperfect 3ms matches no comerá.",
+  "discardedUncitedFindings": 0
+}

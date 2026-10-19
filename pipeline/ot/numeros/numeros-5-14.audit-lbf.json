@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:14",
+  "chapter": 5,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "y pasare sobre él espíritu de celos, y celare a su mujer, y ella impurecida; o pasare sobre él espíritu de celos, y celare a su mujer, y ella no impurecida,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005014001",
+        "h04005014005",
+        "h04005014011",
+        "h04005014015"
+      ],
+      "issue": "Qal and piel perfect 3ms are rendered as future subjunctive, smoothing aspect and mood.",
+      "spanishSpan": "pasare; celare"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005014009",
+        "h04005014020"
+      ],
+      "issue": "Niphal perfect 3fs is a finite verb; impurecida is a passive resultative participle and narrows the niphal toward being made impure.",
+      "spanishSpan": "impurecida"
+    }
+  ],
+  "notes": "Participants, repetition, negation, the construct, and the או alternative match the tokens.",
+  "discardedUncitedFindings": 0
+}

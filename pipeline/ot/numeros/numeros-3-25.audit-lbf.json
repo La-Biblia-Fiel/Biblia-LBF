@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:25",
+  "chapter": 3,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y guarda de hijos de Guershon en tienda de reunión: el mishkán y la tienda, su cubierta, y masaj de abertura de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003025006"
+      ],
+      "issue": "Common noun (H4908, article + masculine singular absolute), not a proper name, is left as the untranslated form mishkán; a common noun must be Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003025009"
+      ],
+      "issue": "Common noun (H4539, masculine singular construct), not a proper name, is left as the untranslated form masaj; a common noun must be Spanish.",
+      "spanishSpan": "masaj"
+    }
+  ],
+  "notes": "Guershon has no lock in PROPER_NAMES.md; the other tokens match in number, construct, article, and 3ms suffix.",
+  "discardedUncitedFindings": 0
+}

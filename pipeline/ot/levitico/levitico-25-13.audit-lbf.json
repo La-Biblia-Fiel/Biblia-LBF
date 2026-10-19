@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:13",
+  "chapter": 25,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "En año del yovel este volverán varón a su posesión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025013002"
+      ],
+      "issue": "yovel leaves the common noun יוֹבֵל untranslated; common nouns stay Spanish.",
+      "spanishSpan": "yovel"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025013003",
+        "h03025013001"
+      ],
+      "issue": "הַזֹּאת is feminine singular and agrees with שנת, marking this year; “del yovel este” attaches este to yovel.",
+      "spanishSpan": "yovel este"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025013004",
+        "h03025013005"
+      ],
+      "issue": "Qal 2mp plus singular איש is the man who returns; bare “volverán varón” can be read as an object.",
+      "spanishSpan": "volverán varón"
+    }
+  ],
+  "notes": "volverán is licensed ustedes for the 2mp verb; a and su posesión match אל and the 3ms suffix.",
+  "discardedUncitedFindings": 0
+}

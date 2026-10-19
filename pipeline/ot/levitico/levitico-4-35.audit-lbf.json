@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:35",
+  "chapter": 4,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Y toda su grasa quitará, conforme a lo que se quita grasa del cordero desde sacrificio de los pazes, y hará humear el sacerdote a ellas hacia el altar, sobre ofrendas de fuego de Jehová; y expiará sobre él el sacerdote sobre su pecado que pecó, y será perdonado a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004035013"
+      ],
+      "issue": "Direct-object suffix is 3rd masculine plural; Spanish uses feminine plural.",
+      "spanishSpan": "a ellas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004035006"
+      ],
+      "issue": "Hophal imperfect is smoothed to a present, while the paired hiphil imperfect is future.",
+      "spanishSpan": "se quita"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004035009",
+        "h03004035010"
+      ],
+      "issue": "Definite construct (preposition + singular sacrifice of the definite plural) is rendered without an article on sacrificio.",
+      "spanishSpan": "desde sacrificio de los pazes"
+    }
+  ],
+  "notes": "sacrificio matches min + H2077 construct; Jehová, both sobre phrases, and the cognate pecado/pecó stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

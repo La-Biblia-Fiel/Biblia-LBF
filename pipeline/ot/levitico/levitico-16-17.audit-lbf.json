@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:17",
+  "chapter": 16,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y todo adam no será en tienda de reunión en su entrar para expiar en el santo, hasta su salir; y expiará por él y por su casa y por toda asamblea de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016017002"
+      ],
+      "issue": "H120 is a common noun (HNcmsa), not a proper name; the Spanish leaves it as the untranslated lemma adam.",
+      "spanishSpan": "adam"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens in force, person, number, and participants.",
+  "discardedUncitedFindings": 0
+}

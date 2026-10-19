@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:2",
+  "chapter": 11,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y clamó el pueblo a Moisés, y oró Moisés a Jehová, y se hundió el fuego.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011002009"
+      ],
+      "issue": "«se» is pronominal smoothing on the qal intransitive; it adds no reflexive participant and keeps the licensed sink sense.",
+      "spanishSpan": "se hundió"
+    }
+  ],
+  "notes": "Participants, number, names, and clause order match the tokens.",
+  "discardedUncitedFindings": 0
+}

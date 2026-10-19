@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:7",
+  "chapter": 14,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijeron a toda congregación de hijos de Israel, diciendo: La tierra que pasamos en ella a recorrer a ella, buena la tierra mucho mucho.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04014007012"
+      ],
+      "issue": "H8446 qal infinitive לָתוּר licenses seeking out or inspecting; «recorrer» narrows that to traveling through.",
+      "spanishSpan": "recorrer"
+    }
+  ],
+  "notes": "Other tokens match in person, number, repetition, object suffixes, and the verbless clause.",
+  "discardedUncitedFindings": 0
+}

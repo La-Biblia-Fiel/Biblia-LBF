@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:3",
+  "chapter": 19,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Varón, a su madre y a su padre temerán, y mis shabats guardarán; yo Jehová su Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019003006"
+      ],
+      "issue": "שַׁבְּתֹתַי is a common noun (plural + 1cs “my”), not a proper name; “shabats” leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "shabats"
+    }
+  ],
+  "notes": "2mp yiqtol as temerán/guardarán, יהוה as Jehová, and אלהים as Dios stay licensed; no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

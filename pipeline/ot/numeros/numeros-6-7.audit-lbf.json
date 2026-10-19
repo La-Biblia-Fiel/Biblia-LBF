@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:7",
+  "chapter": 6,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "A su padre y a su madre, a su hermano y a su hermana, no se impurecerá a ellos en su muerte, porque nézer de su Dios sobre su cabeza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006007010"
+      ],
+      "issue": "Common noun נֵזֶר (construct) is left untranslated as nézer; a non-name lemma must be Spanish.",
+      "spanishSpan": "nézer"
+    }
+  ],
+  "notes": "Relatives, hithpael reflexive, להם, במותם, כי, אלהיו→Dios, and על ראשו match the tokens.",
+  "discardedUncitedFindings": 0
+}

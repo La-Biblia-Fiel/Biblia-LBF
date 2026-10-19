@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:16",
+  "chapter": 23,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Hasta desde mañana del shabat el séptimo contarán cincuenta día; y acercarán minjá nueva a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023016003"
+      ],
+      "issue": "shabat leaves the common noun untranslated; common nouns stay Spanish",
+      "spanishSpan": "shabat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023016009"
+      ],
+      "issue": "minjá leaves the common noun untranslated; common nouns stay Spanish",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03023016004"
+      ],
+      "issue": "el séptimo is masculine where the ordinal is feminine singular; agreement smoothing only",
+      "spanishSpan": "el séptimo"
+    }
+  ],
+  "notes": "2mp futures match ustedes; singular día matches the singular noun.",
+  "discardedUncitedFindings": 0
+}

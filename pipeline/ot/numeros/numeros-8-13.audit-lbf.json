@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 8:13",
+  "chapter": 8,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás parar a los levitas delante de Aarón y delante de sus hijos, y los balancearás balanceo a Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04008013001"
+      ],
+      "issue": "Hiphil 2ms of H5975 licenses causing them to stand/be stationed; «harás parar» can also be read as making them halt.",
+      "spanishSpan": "harás parar"
+    }
+  ],
+  "notes": "Repetition of delante de, 2ms tú, los (3mp), balancearás balanceo, and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

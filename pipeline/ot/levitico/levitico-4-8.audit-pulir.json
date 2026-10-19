@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:8",
+  "chapter": 4,
+  "verse": 8,
+  "candidateLabel": "pulir",
+  "spanish": "Y toda grasa de toro del pecado alzará desde nosotros: la grasa la cubriente sobre el interior, y toda la grasa que sobre el interior,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004008001",
+        "h03004008006"
+      ],
+      "issue": "את marca «toda grasa de toro del pecado» como objeto del hiphil 3ms יָרִים (sujeto no expresado). «alzará» sin marca de objeto se lee como si la grasa fuera el sujeto que alza, e invierte el participante y la fuerza causativa.",
+      "spanishSpan": "toda grasa de toro del pecado alzará"
+    }
+  ],
+  "notes": "«desde nosotros» sigue el sufijo 1cp del paquete; el resto del verso no añade ni omite concepto léxico.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:48",
+  "chapter": 13,
+  "verse": 48,
+  "candidateLabel": "lbf",
+  "spanish": "o en urdimbre o en trama, al lino y a la lana, o en piel o en toda obra de piel,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013048005"
+      ],
+      "issue": "פִּשְׁתִּים is masculine plural; lino is a singular mass noun (grammatical smoothing, same material).",
+      "spanishSpan": "lino"
+    }
+  ],
+  "notes": "או/ב/ל/ו, warp–woof, linen–wool, skin, and all work of skin match the tokens, including the article on לַפִּשְׁתִּים and וְלַצָּמֶר.",
+  "discardedUncitedFindings": 0
+}

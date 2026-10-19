@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 8:4",
+  "chapter": 8,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y esta obra de la menorá: de martillo oro; hasta su muslo, hasta su flor, de martillo ella; según la aparición que mostró Jehová a Moisés, así hizo la menorá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04008004004",
+        "h04008004010"
+      ],
+      "issue": "H4749 is a feminine noun for beaten/hammered work. «de martillo» supplies an unmarked preposition and names the tool hammer.",
+      "spanishSpan": "de martillo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04008004003",
+        "h04008004021"
+      ],
+      "issue": "H4501 is a common noun. «menorá» leaves the lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "menorá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04008004012"
+      ],
+      "issue": "H4758 ranges over sight, appearance, or form. «aparición» leans toward an apparition or an event of appearing.",
+      "spanishSpan": "la aparición"
+    }
+  ],
+  "notes": "Pronoun, number, Jehová, and Moisés match; את is untranslated.",
+  "discardedUncitedFindings": 0
+}

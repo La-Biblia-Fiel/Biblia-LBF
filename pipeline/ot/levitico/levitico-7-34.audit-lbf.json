@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:34",
+  "chapter": 7,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Porque pecho del balanceo y pierna de la ofrenda tomé de parte de hijos de Israel desde sacrificios de sus pazes, y los di a Aarón el sacerdote y a sus hijos a estatuto de siempre de parte de hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007034009",
+        "h03007034021"
+      ],
+      "issue": "מֵאֵת is the source preposition (taken from the sons of Israel; the statute is from them). «de parte de» in current Latin American Spanish marks acting on their behalf, so Israel becomes the party represented rather than the source.",
+      "spanishSpan": "de parte de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007034013"
+      ],
+      "issue": "Plural construct noun plus 3mp suffix is kept as «sus pazes», but that abstract plural does not clearly name the peace-offering noun itself.",
+      "spanishSpan": "sus pazes"
+    }
+  ],
+  "notes": "Object fronting, 1cs qal verbs, 3mp «los», construct chains, and the repeated Israel phrase otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

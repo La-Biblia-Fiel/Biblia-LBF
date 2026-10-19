@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:20",
+  "chapter": 38,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y todas las estacas al mishkán y al atrio alrededor de bronce.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038020003"
+      ],
+      "issue": "mishkán leaves the common noun (H4908) untranslated instead of Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038020005",
+        "h02038020006"
+      ],
+      "issue": "Unmarked de makes bronce the complement of alrededor; the tokens predicate bronze of the pegs.",
+      "spanishSpan": "alrededor de bronce"
+    }
+  ],
+  "notes": "Estacas, atrio, and the plural and articles match the tokens.",
+  "discardedUncitedFindings": 0
+}

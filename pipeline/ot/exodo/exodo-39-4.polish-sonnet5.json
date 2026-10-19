@@ -1,0 +1,63 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 39:4",
+  "chapter": 39,
+  "verse": 4,
+  "sourceDraft": "Hombros hicieron a él, juntados; sobre sus dos extremos fue juntado.",
+  "spanish": "Hombros hicieron a él, que se unen; sobre dos fue juntado.",
+  "units": [
+    {
+      "es": "Hombros",
+      "sourceTokenIds": [
+        "h02039004001"
+      ]
+    },
+    {
+      "es": "hicieron",
+      "sourceTokenIds": [
+        "h02039004002"
+      ]
+    },
+    {
+      "es": "a él",
+      "sourceTokenIds": [
+        "h02039004003"
+      ]
+    },
+    {
+      "es": "que se unen",
+      "sourceTokenIds": [
+        "h02039004004"
+      ]
+    },
+    {
+      "es": "sobre",
+      "sourceTokenIds": [
+        "h02039004005"
+      ]
+    },
+    {
+      "es": "dos",
+      "sourceTokenIds": [
+        "h02039004006"
+      ]
+    },
+    {
+      "es": "fue juntado",
+      "sourceTokenIds": [
+        "h02039004007"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Removed the invented possessor and noun (\"sus\"/\"extremos\"): שְׁנֵי licenses only the dual construct numeral \"two of,\" with no pronominal suffix and no head noun in this packet, so the construct is rendered as the bare numeral \"dos.\"",
+    "Changed the passive adjective \"juntados\" to the active clause \"que se unen\" to match the Qal active participle (חֹבְרֹת); masculine agreement follows \"Hombros,\" per the audit, not the Hebrew feminine noun."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose the relative clause \"que se unen\" over a gerund to render the active participle without reintroducing a passive sense.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

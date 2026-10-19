@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:23",
+  "chapter": 3,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Familias del guershoní detrás del mishkán acamparán hacia el mar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003023004"
+      ],
+      "issue": "הַמִּשְׁכָּן (H4908) is a common noun with the article; mishkán leaves that lemma untranslated instead of Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Familias, the gentilic, detrás, acamparán, and the directional sea match the other tokens.",
+  "discardedUncitedFindings": 0
+}

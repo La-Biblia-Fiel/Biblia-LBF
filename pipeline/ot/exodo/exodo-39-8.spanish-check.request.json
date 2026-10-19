@@ -1,0 +1,11 @@
+{
+  "model": "auto",
+  "system": "You verify the Spanish line for La Biblia Fiel. You do not judge the Hebrew.\n\nCurrent Latin American Spanish, formal literary register, tú / ustedes.\nA reader must recognize every word.\n\nFAIL when the line contains:\n- a word that is not current Spanish\n- an archaic, rare, or invented interjection standing in for an ordinary word\n  (Ea for \"come\")\n- a form a reader would have to guess\n\nDo not fail a supplied word marked in single asterisks (*son*).\nDo not fail a grammatical choice that is still real Spanish.\nDo not warn instead of failing an unrecognized word.\n\nReturn JSON only:\n{\n  \"verdict\": \"pass\",\n  \"findings\": [\n    {\n      \"severity\": \"fail\",\n      \"issue\": \"short description\",\n      \"spanishSpan\": \"the word\"\n    }\n  ],\n  \"notes\": \"\"\n}\nverdict is fail if any finding has severity fail.",
+  "user": "Verify this Spanish line. JSON only.\n\n{\"spanish\": \"Y hizo el pectoral, obra de pensador, como obra de efod: oro, azul y púrpura y carmesí y lino fino retorcido.\"}",
+  "replyPath": "/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/exodo/exodo-39-8.spanish-check.reply.json",
+  "book": "exodo",
+  "chapter": 39,
+  "verse": 8,
+  "spanish": "Y hizo el pectoral, obra de pensador, como obra de efod: oro, azul y púrpura y carmesí y lino fino retorcido.",
+  "instruction": "Judge only whether the Spanish is current and readable. Fail a word a reader would not recognize. Do not judge the Hebrew."
+}

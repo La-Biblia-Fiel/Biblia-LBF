@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:49",
+  "chapter": 13,
+  "verse": 49,
+  "candidateLabel": "lbf",
+  "spanish": "y fuere la plaga verdosa o rojiza en el vestido o en la piel o en la urdimbre o en la trama o en todo utensilio de piel, plaga de tsaráat ella, y será mostrada al sacerdote.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013049018"
+      ],
+      "issue": "Common noun צָרַעַת (H6883) is left as the transliteration tsaráat; a non-name lemma stays in Spanish.",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013049003",
+        "h03013049005",
+        "h03013049019",
+        "h03013049020"
+      ],
+      "issue": "Masculine tokens יְרַקְרַק, אֲדַמְדָּם, הוּא (3ms), and the hophal 3ms verb are smoothed to feminine Spanish agreement with plaga.",
+      "spanishSpan": "verdosa o rojiza … ella … mostrada"
+    }
+  ],
+  "notes": "Other tokens match in order, number, person, and hophal passive; the verbless clause adds no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

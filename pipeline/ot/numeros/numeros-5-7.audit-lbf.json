@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:7",
+  "chapter": 5,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "y confesarán su pecado que hicieron, y devolverá su culpa en su cabeza, y su quinto añadirá sobre él, y dará a quien culpado a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005007014",
+        "h04005007015",
+        "h04005007016"
+      ],
+      "issue": "אָשַׁם is qal perfect 3ms, a finite active event whose subject the morphology does not lock to the relative. «culpado» is a passive participle, so the 3ms verbal force is lost and guilt is read as a state of «quien», with «a él» a different party.",
+      "spanishSpan": "a quien culpado a él"
+    }
+  ],
+  "notes": "The 3cp-to-3ms shift, «en su cabeza», and «su quinto… sobre él» match the tokens.",
+  "discardedUncitedFindings": 0
+}

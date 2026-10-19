@@ -1,0 +1,131 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 21,
+  "kept": [
+    1,
+    4,
+    6,
+    7,
+    9,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    19,
+    22,
+    24
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 3,
+      "notes": "clause role",
+      "spanish": "y por su hermana la virgen la cercana a él, que no fue a varón; por ella se contaminará.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03021003007",
+            "h03021003008"
+          ],
+          "issue": "«fue a» is the motion idiom went-to; הָיְתָה is qal perfect 3fs of היה (be/become) and לְ only marks the preposition before אִישׁ, so the Spanish replaces being/becoming with going.",
+          "spanishSpan": "fue a"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "clause role",
+      "spanish": "Y el sacerdote el grande desde sus hermanos, que fue derramado sobre su cabeza aceite de la unción, y llenó su mano para vestir los vestidos, su cabeza no descubrirá, y sus vestidos no rasgará.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03021010004",
+            "h03021010005",
+            "h03021010008"
+          ],
+          "issue": "«que fue derramado» makes the priest the one poured. אשר is only the relative particle; the hophal subject is the oil.",
+          "spanishSpan": "que fue derramado sobre su cabeza aceite de la unción"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03021010016",
+            "h03021010017",
+            "h03021010019"
+          ],
+          "issue": "את marks his head as object of the 3ms verb. «su cabeza no descubrirá» can be read as the head doing the uncovering.",
+          "spanishSpan": "su cabeza no descubrirá"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "notes": "clause role",
+      "spanish": "Todo varón que en él defecto, desde semilla de Aarón el sacerdote, no se acercará para acercar ofrendas de fuego de Jehová; defecto en él; el pan de su Dios no se acercará para acercar.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03021021017",
+            "h03021021018",
+            "h03021021021",
+            "h03021021022"
+          ],
+          "issue": "את marks לחם as the object of the hiphil, and the qal 3ms יגש still has the man as subject. Spanish puts el pan in subject position before se acercará and leaves acercar with no object.",
+          "spanishSpan": "el pan de su Dios no se acercará para acercar"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 2,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $278 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 5,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $278 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 8,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $278 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 14,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $279 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 18,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $279 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 20,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $279 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 23,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $279 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 3,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 10,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 21,
+      "note": "hold: clause role"
+    }
+  ]
+}

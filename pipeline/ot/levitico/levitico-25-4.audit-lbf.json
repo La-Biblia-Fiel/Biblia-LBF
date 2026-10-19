@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:4",
+  "chapter": 25,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y en el año el séptimo, shabat de shabatón será a la tierra, shabat a Jehová; tu campo no sembrarás, y tu viña no podarás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025004003",
+        "h03025004004"
+      ],
+      "issue": "Common nouns (construct שַׁבָּת + absolute שַׁבָּתוֹן) are dumped as untranslated Hebrew lemmas instead of Spanish.",
+      "spanishSpan": "shabat de shabatón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025004007"
+      ],
+      "issue": "Common noun שַׁבָּת is dumped as the untranslated lemma shabat.",
+      "spanishSpan": "shabat"
+    }
+  ],
+  "notes": "Year, seventh, será, a la tierra, Jehová, tu campo, no sembrarás, y tu viña, and no podarás match the tokens.",
+  "discardedUncitedFindings": 0
+}

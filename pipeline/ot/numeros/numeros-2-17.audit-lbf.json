@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 2:17",
+  "chapter": 2,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y partirá tienda de reunión, campamento de los levitas, en medio de los campamentos; como que acampen, así partirán; varón sobre su mano a sus banderas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04002017008",
+        "h04002017009"
+      ],
+      "issue": "«como que» plus subjunctive is grammatical smoothing of כ+אשר and the yiqtol; it can be read as the idiom «as if», while the tokens license a manner comparison («as they camp»).",
+      "spanishSpan": "como que acampen"
+    }
+  ],
+  "notes": "Remaining clauses match number, person, qal, articles, and the verbless איש על־ידו לדגליהם.",
+  "discardedUncitedFindings": 0
+}

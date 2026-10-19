@@ -1,0 +1,59 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:22",
+  "chapter": 11,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Estas desde ellos comerán: el arbeh a su especie, y el salam a su especie, y el hargol a su especie, y el hagav a su especie.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022002",
+        "h03011022006",
+        "h03011022009",
+        "h03011022012",
+        "h03011022015"
+      ],
+      "issue": "Common-plural demonstrative is fixed as feminine estas while the four nouns it introduces are masculine singular.",
+      "spanishSpan": "Estas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022006"
+      ],
+      "issue": "Common noun left as an untranslated transliteration.",
+      "spanishSpan": "arbeh"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022009"
+      ],
+      "issue": "Common noun left as an untranslated transliteration.",
+      "spanishSpan": "salam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022012"
+      ],
+      "issue": "Common noun left as an untranslated transliteration.",
+      "spanishSpan": "hargol"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022015"
+      ],
+      "issue": "Common noun left as an untranslated transliteration.",
+      "spanishSpan": "hagav"
+    }
+  ],
+  "notes": "comerán is licensed ustedes for 2mp; desde ellos and a su especie match the partitive and the repeated kind-suffix.",
+  "discardedUncitedFindings": 0
+}

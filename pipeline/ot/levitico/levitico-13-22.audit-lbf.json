@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:22",
+  "chapter": 13,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y si extendiendo se extendiere en la piel, y lo impurecerá el sacerdote; plaga ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013022009"
+      ],
+      "issue": "הִוא is morphologically 3rd masculine singular; ella is feminine.",
+      "spanishSpan": "ella"
+    }
+  ],
+  "notes": "Cognate spread, skin, priest, and masculine object match their tokens.",
+  "discardedUncitedFindings": 0
+}

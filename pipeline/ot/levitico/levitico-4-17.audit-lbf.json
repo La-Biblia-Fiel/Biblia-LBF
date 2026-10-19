@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:17",
+  "chapter": 4,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y mojará el sacerdote su dedo desde la sangre, y rociará siete veces delante de Jehová, faces de la parójet.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004017001"
+      ],
+      "issue": "mojará cubre humedecer; el qal H2881 licencia sumergir o meter el dedo",
+      "spanishSpan": "mojará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004017011"
+      ],
+      "issue": "la preposición H854 (con, junto a, ante) no tiene correspondencia en español",
+      "spanishSpan": ""
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004017013"
+      ],
+      "issue": "parójet translitera el sustantivo común H6532; debe quedar en español",
+      "spanishSpan": "parójet"
+    }
+  ],
+  "notes": "Sacerdote, dedo, sangre, siete veces, delante de Jehová y el plural faces quedan licenciados.",
+  "discardedUncitedFindings": 0
+}

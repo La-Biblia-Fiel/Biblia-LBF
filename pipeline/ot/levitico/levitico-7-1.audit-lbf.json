@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:1",
+  "chapter": 7,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y esta torá de la culpa; santidad de santidades ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007001002"
+      ],
+      "issue": "Common noun H8451 is left as the untranslated lemma torá",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007001006"
+      ],
+      "issue": "Pronoun is 3rd person masculine singular; ella is feminine",
+      "spanishSpan": "ella"
+    }
+  ],
+  "notes": "Conjunction, feminine demonstrative, article, construct, and singular-plus-plural H6944 match the tokens.",
+  "discardedUncitedFindings": 0
+}

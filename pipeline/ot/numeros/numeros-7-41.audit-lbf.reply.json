@@ -1,0 +1,23 @@
+{
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007041002"
+      ],
+      "issue": "«pazes» is not the Spanish plural of paz, so the definite plural noun is only partly legible as that peace term.",
+      "spanishSpan": "pazes"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007041013",
+        "h04007041014"
+      ],
+      "issue": "זֶה is masculine singular, agreeing with masculine קרבן; «esta» is feminine so it matches Spanish «ofrenda». Grammatical smoothing; the referent is unchanged.",
+      "spanishSpan": "esta"
+    }
+  ],
+  "notes": "Conjunction, ל, constructs, counts, and plurals match the tokens; Shelumiél and Tsurishadai are not locked in PROPER_NAMES.md."
+}

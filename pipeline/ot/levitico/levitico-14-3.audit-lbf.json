@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:3",
+  "chapter": 14,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y saldrá el sacerdote a fuera al campamento, y verá el sacerdote, y he aquí sanó plaga de la tsaráat desde el leproso.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014003003",
+        "h03014003004",
+        "h03014003005"
+      ],
+      "issue": "«a fuera al campamento» sends the priest to the camp; אֶל־מִחוּץ לַמַּחֲנֶה licenses the outside of the camp.",
+      "spanishSpan": "a fuera al campamento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014003011"
+      ],
+      "issue": "«tsaráat» leaves the common noun הַצָּרַעַת untranslated.",
+      "spanishSpan": "tsaráat"
+    }
+  ],
+  "notes": "Salida, sacerdote repetido, ver, he aquí, sanó, plaga en constructo y desde el participio pasivo caben en los tokens.",
+  "discardedUncitedFindings": 0
+}

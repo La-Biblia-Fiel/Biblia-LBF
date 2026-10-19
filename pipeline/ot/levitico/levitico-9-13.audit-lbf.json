@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 9:13",
+  "chapter": 9,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y el holocausto presentaron a él a sus cuartos y la cabeza, e hizo humear sobre el altar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03009013005"
+      ],
+      "issue": "H5409 is a masculine plural of pieces with a 3fs suffix; «cuartos» narrows that to quarters (four parts), which the token does not license",
+      "spanishSpan": "cuartos"
+    }
+  ],
+  "notes": "Number, person, hiphil force, and the אל versus ל contrast otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

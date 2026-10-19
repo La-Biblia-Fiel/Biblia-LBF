@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:12",
+  "chapter": 23,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y harán en día de su balancear el ómer cordero íntegro hijo de su año a holocausto a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023012005"
+      ],
+      "issue": "הָעֹמֶר is a common noun (article + H6016), rendered as the untranslated transliteration ómer instead of a Spanish common noun.",
+      "spanishSpan": "ómer"
+    }
+  ],
+  "notes": "2mp weqatal and suffix read as ustedes (harán, su); את is unmarked.",
+  "discardedUncitedFindings": 0
+}

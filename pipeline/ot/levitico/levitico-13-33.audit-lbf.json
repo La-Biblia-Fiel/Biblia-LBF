@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:33",
+  "chapter": 13,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y se afeitará, y el neteq no afeitará, y encerrará el sacerdote el neteq siete días segunda.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013033002",
+        "h03013033003",
+        "h03013033004",
+        "h03013033005"
+      ],
+      "issue": "Piel imperfect 3ms יְגַלֵּחַ keeps the masculine subject of the hithpael; וְאֶת marks הַנֶּתֶק as its object. Spanish makes el neteq the subject of afeitará and leaves that verb with no object.",
+      "spanishSpan": "el neteq no afeitará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013033003",
+        "h03013033009"
+      ],
+      "issue": "הַנֶּתֶק (H5424) is a common noun, not a proper name. neteq dumps the lemma untranslated.",
+      "spanishSpan": "el neteq"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013033010",
+        "h03013033011",
+        "h03013033012"
+      ],
+      "issue": "שֵׁנִית is a feminine singular ordinal and does not agree with masculine plural יָמִים, so it marks a second time. Bare segunda keeps the ordinal but does not clearly mark that second occasion.",
+      "spanishSpan": "siete días segunda"
+    }
+  ],
+  "notes": "se afeitará matches the hithpael 3ms; encerrará el sacerdote el neteq siete días matches the hiphil, the priest, the object, and seven days.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:25",
+  "chapter": 22,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y desde mano de hijo de extranjero no acercarán el pan de su Dios desde todas estas, porque su corrupción en ellos, defecto en ellos; no serán aceptados a ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022025010"
+      ],
+      "issue": "אֵלֶּה is common plural; «estas» (and agreeing «todas») marks the demonstrative feminine.",
+      "spanishSpan": "todas estas"
+    }
+  ],
+  "notes": "2mp תַקְרִיבוּ / אֱלֹהֵיכֶם / לָכֶם read as ustedes address (acercarán, su, a ustedes); 3mp יֵרָצוּ stays serán aceptados.",
+  "discardedUncitedFindings": 0
+}

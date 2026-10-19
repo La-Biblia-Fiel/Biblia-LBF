@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:23",
+  "chapter": 13,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y vinieron hasta torrente de Eshcol, y cortaron desde allí sarmiento y racimo de uvas uno, y lo alzaron en la vara en dos; y desde los granados y desde las higueras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013023015"
+      ],
+      "issue": "H7416 plural names the pomegranate; lemma and morphology leave fruit and tree open. «granados» resolves it to the trees.",
+      "spanishSpan": "los granados"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013023017"
+      ],
+      "issue": "H8384 feminine plural names the fig; lemma and morphology leave fruit and tree open. «higueras» resolves it to the trees.",
+      "spanishSpan": "las higueras"
+    }
+  ],
+  "notes": "Remaining tokens match, including the verbless מִן clauses and «en dos» without adding men.",
+  "discardedUncitedFindings": 0
+}

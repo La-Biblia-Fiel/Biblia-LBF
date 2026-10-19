@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:21",
+  "chapter": 37,
+  "verse": 21,
+  "candidateLabel": "pulir",
+  "spanish": "Y botón debajo de las dos cañas desde ella, y botón debajo de las dos cañas desde ella, y botón debajo de las dos cañas desde ella, a las seis cañas las salientes desde ella.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037021004",
+        "h02037021009",
+        "h02037021014",
+        "h02037021017",
+        "h02037021018"
+      ],
+      "issue": "Masculine plural nouns and the masculine qal participle take feminine Spanish agreement; grammatical smoothing only.",
+      "spanishSpan": "cañas las salientes"
+    }
+  ],
+  "notes": "Three singular knobs, dual two, six, under, from-her, and the definite outgoing participle are all preserved.",
+  "discardedUncitedFindings": 0
+}

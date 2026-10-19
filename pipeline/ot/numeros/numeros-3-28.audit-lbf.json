@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:28",
+  "chapter": 3,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "En número de todo varón desde hijo de mes y arriba, ocho mil y seiscientos, guardantes guarda del santo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003028013"
+      ],
+      "issue": "«del santo» names a holy person; the token is the common noun הַקֹּדֶשׁ (holiness / the holy), with no person marked.",
+      "spanishSpan": "del santo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04003028008",
+        "h04003028009",
+        "h04003028010"
+      ],
+      "issue": "Plural אֲלָפִים and מֵאוֹת, and feminine שֵׁשׁ, are smoothed into the Spanish compounds ocho mil and seiscientos; the count remains eight thousand six hundred.",
+      "spanishSpan": "ocho mil y seiscientos"
+    }
+  ],
+  "notes": "The census phrase, the month-and-upward bound, and the participle-plus-charge cognate match the tokens.",
+  "discardedUncitedFindings": 0
+}

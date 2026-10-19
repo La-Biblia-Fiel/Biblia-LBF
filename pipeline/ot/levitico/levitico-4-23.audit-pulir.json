@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:23",
+  "chapter": 4,
+  "verse": 23,
+  "candidateLabel": "pulir",
+  "spanish": "o se le hubiere hecho saber su pecado que pecó en ella, y traerá su ofrenda, macho cabrío de cabras, macho íntegro.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004023002"
+      ],
+      "issue": "hubiere is subjunctive conditional smoothing of the hophal perfect; the passive causative remains 'was made known'",
+      "spanishSpan": "hubiere"
+    }
+  ],
+  "notes": "The clause follows the packet: or, made known to him, his sin that he sinned in her, and he shall bring his offering, buck of goats, male, whole.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:20",
+  "chapter": 1,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y fueron hijos de Rubén, primogénito de Israel, sus generaciones a sus familias a casa de sus padres, en número de nombres a sus cráneos, todo macho desde hijo de veinte año y arriba, todo saliente ejército.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001020019",
+        "h04001020020",
+        "h04001020021"
+      ],
+      "issue": "כֹּל governs the masculine singular construct participle יֹצֵא, whose complement is צָבָא: every one who goes out to the army. “todo saliente ejército” takes ejército as the head (an outgoing army) and shifts the counted participant from the one going out to the army.",
+      "spanishSpan": "todo saliente ejército"
+    }
+  ],
+  "notes": "The rest of the verse tracks the tokens in order, number, and person.",
+  "discardedUncitedFindings": 0
+}

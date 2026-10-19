@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:8",
+  "chapter": 14,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y lavará el que se purifica sus vestidos, y afeitará todo su pelo, y se lavará en las aguas, y será puro, y después vendrá al campamento, y se sentará a fuera a su tienda siete días.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014008009"
+      ],
+      "issue": "Qal 3ms has no reflexive stem and no object; «se» makes the wash explicitly reflexive.",
+      "spanishSpan": "se lavará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014008016"
+      ],
+      "issue": "Qal H3427 leaves sit/remain/dwell open; «se sentará» resolves it to a sitting posture.",
+      "spanishSpan": "se sentará"
+    }
+  ],
+  "notes": "Order, number, person, and hithpael versus qal of H2891 match the tokens.",
+  "discardedUncitedFindings": 0
+}

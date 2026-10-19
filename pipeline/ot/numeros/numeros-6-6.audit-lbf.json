@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:6",
+  "chapter": 6,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Todos días de su nazir a Jehová, sobre alma muerta no vendrá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006006003"
+      ],
+      "issue": "הַזִּיר is a hiphil infinitive construct plus a 3ms suffix (H5144), a verbal act; «nazir» leaves that non-name lemma untranslated as a noun and drops the hiphil infinitive force.",
+      "spanishSpan": "nazir"
+    }
+  ],
+  "notes": "כָּל יְמֵי, לַיהוָה, עַל נֶפֶשׁ מֵת, and 3ms לֹא יָבֹא are otherwise matched by Todos días de su… a Jehová, sobre alma muerta, no vendrá.",
+  "discardedUncitedFindings": 0
+}

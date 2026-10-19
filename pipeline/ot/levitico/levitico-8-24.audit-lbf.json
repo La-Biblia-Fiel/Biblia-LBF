@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 8:24",
+  "chapter": 8,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y acercó a hijos de Aarón, y dio Moisés desde la sangre sobre lóbulo de su oreja la derecha, y sobre pulgar de su mano la derecha, y sobre pulgar de su pie el derecho, y echó Moisés la sangre sobre el altar alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03008024018",
+        "h03008024019"
+      ],
+      "issue": "H931 in construct with the foot is the great toe; «pulgar» names the thumb.",
+      "spanishSpan": "pulgar de su pie"
+    }
+  ],
+  "notes": "Hand H931 is a thumb; 3mp suffixes stay on singular body parts; «el derecho» only follows Spanish gender of pie.",
+  "discardedUncitedFindings": 0
+}

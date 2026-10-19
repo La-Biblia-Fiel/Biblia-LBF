@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:10",
+  "chapter": 2,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo restante desde la minjá a Aarón y a sus hijos; santidad de santidades desde ofrendas de fuego de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002010003"
+      ],
+      "issue": "H4503 is a common noun (definite feminine singular); minjá leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Remaining tokens match: remainder from the offering, to Aarón and his sons, holiness of holies, from fire-offerings of Jehová.",
+  "discardedUncitedFindings": 0
+}

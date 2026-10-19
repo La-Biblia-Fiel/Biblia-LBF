@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:28",
+  "chapter": 22,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y toro o cordero, a él y a su hijo no degollarán en día uno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03022028003"
+      ],
+      "issue": "cordero narrows common-gender שֶׂה (H7716, one of the flock: sheep or goat) to a young sheep",
+      "spanishSpan": "cordero"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022028009",
+        "h03022028010"
+      ],
+      "issue": "en día uno can be read as calendar day-one; the tokens only license in/on a day plus the cardinal one",
+      "spanishSpan": "en día uno"
+    }
+  ],
+  "notes": "2mp imperfect degollarán is ustedes address; Y, toro, a él y a su hijo, and the negation match the tokens.",
+  "discardedUncitedFindings": 0
+}

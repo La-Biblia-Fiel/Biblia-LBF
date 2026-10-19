@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:15",
+  "chapter": 13,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "a vara de Gad, Geuel hijo de Maqui.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013015001"
+      ],
+      "issue": "H4294 מַטֶּה (singular construct) leaves staff/rod and tribe open; «vara» locks the staff sense and drops the tribal sense.",
+      "spanishSpan": "vara"
+    }
+  ],
+  "notes": "ל, Gad, Geuel, בן, and Maqui match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

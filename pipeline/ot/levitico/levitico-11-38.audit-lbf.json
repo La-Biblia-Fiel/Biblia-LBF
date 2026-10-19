@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:38",
+  "chapter": 11,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando se diere aguas sobre semilla, y cayere desde su cadáver sobre ella, impuro él a ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011038001"
+      ],
+      "issue": "H3588 is only a conjunction; cuando selects the temporal sense and closes if/because.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011038007"
+      ],
+      "issue": "The carcass noun is singular, but the suffix is 3rd masculine plural. su does not mark a plural possessor.",
+      "spanishSpan": "su"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011038008"
+      ],
+      "issue": "The suffix is 3rd masculine singular. ella is feminine, agreeing with semilla.",
+      "spanishSpan": "ella"
+    }
+  ],
+  "notes": "Hophal se diere, plural aguas, qal cayere, singular cadáver, verbless impuro él, and לכם as a ustedes match the tokens.",
+  "discardedUncitedFindings": 0
+}

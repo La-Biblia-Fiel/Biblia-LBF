@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:37",
+  "chapter": 11,
+  "verse": 37,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando cayere desde su cadáver sobre toda semilla de siembra que se siembre, puro él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011037001"
+      ],
+      "issue": "«cuando» fija וְכִי como temporal; la morfología solo marca conjunción, abierta entre cuando, si y que.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011037002",
+        "h03011037003"
+      ],
+      "issue": "«desde» lee מִן como origen ablativo de un sujeto no nombrado de יִפֹּל; la preposición también admite lectura partitiva en la que cae parte del cadáver.",
+      "spanishSpan": "desde su cadáver"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011037003",
+        "h03011037006",
+        "h03011037010",
+        "h03011037011"
+      ],
+      "issue": "«puro él» es masculino y en esta frase puede leerse como el cadáver; טָהוֹר הוּא es masculino con זֶרַע, y נְבֵלָה es femenino, mientras «semilla» es femenina.",
+      "spanishSpan": "puro él"
+    }
+  ],
+  "notes": "Todos los tokens están; se conserva el niphal, el 3ms y la cláusula sin cópula.",
+  "discardedUncitedFindings": 0
+}

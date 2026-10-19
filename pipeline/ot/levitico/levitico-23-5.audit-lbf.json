@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:5",
+  "chapter": 23,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "En el mes el primero, en catorce al mes, entre las tardes, Pésaj a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023005007"
+      ],
+      "issue": "El dual absoluto (dos tardes) queda en plural, y cambia el número.",
+      "spanishSpan": "las tardes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023005008"
+      ],
+      "issue": "Sustantivo común (no nombre propio) dejado sin traducir como Pésaj.",
+      "spanishSpan": "Pésaj"
+    }
+  ],
+  "notes": "Mes, catorce, preposiciones y Jehová siguen a los tokens; no se añadió cópula.",
+  "discardedUncitedFindings": 0
+}

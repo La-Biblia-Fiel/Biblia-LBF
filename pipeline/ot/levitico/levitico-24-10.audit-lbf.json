@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 24:10",
+  "chapter": 24,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y salió hijo de mujer israelita, y él hijo de varón mizrí, en medio de hijos de Israel; y riñeron en el campamento el hijo de la israelita y varón el israelita.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03024010008"
+      ],
+      "issue": "Gentilic מצרי (Egyptian ethnonym) is Hebraized as mizrí; conventional Spanish for this people-name is egipcio.",
+      "spanishSpan": "mizrí"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03024010016",
+        "h03024010017"
+      ],
+      "issue": "איש is construct before definite הַיִּשְׂרְאֵלִי, one definite man. varón el israelita leaves varón unmarked and splits the article, so that one definite participant is unclear.",
+      "spanishSpan": "varón el israelita"
+    }
+  ],
+  "notes": "Other clauses match the tokens, including verbless והוא without an unmarked copula.",
+  "discardedUncitedFindings": 0
+}

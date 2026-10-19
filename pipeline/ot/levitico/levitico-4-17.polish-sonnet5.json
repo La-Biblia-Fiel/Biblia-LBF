@@ -1,0 +1,100 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 4:17",
+  "chapter": 4,
+  "verse": 17,
+  "sourceDraft": "Y mojará el sacerdote su dedo desde la sangre, y rociará siete veces delante de Jehová, faces de la parójet.",
+  "spanish": "Y sumergirá el sacerdote su dedo desde la sangre, y rociará siete veces delante de Jehová, ante faces del velo.",
+  "units": [
+    {
+      "es": "Y sumergirá",
+      "sourceTokenIds": [
+        "h03004017001"
+      ]
+    },
+    {
+      "es": "el sacerdote",
+      "sourceTokenIds": [
+        "h03004017002"
+      ]
+    },
+    {
+      "es": "su dedo",
+      "sourceTokenIds": [
+        "h03004017003"
+      ]
+    },
+    {
+      "es": "desde",
+      "sourceTokenIds": [
+        "h03004017004"
+      ]
+    },
+    {
+      "es": "la sangre",
+      "sourceTokenIds": [
+        "h03004017005"
+      ]
+    },
+    {
+      "es": "y rociará",
+      "sourceTokenIds": [
+        "h03004017006"
+      ]
+    },
+    {
+      "es": "siete",
+      "sourceTokenIds": [
+        "h03004017007"
+      ]
+    },
+    {
+      "es": "veces",
+      "sourceTokenIds": [
+        "h03004017008"
+      ]
+    },
+    {
+      "es": "delante de",
+      "sourceTokenIds": [
+        "h03004017009"
+      ]
+    },
+    {
+      "es": "Jehová",
+      "sourceTokenIds": [
+        "h03004017010"
+      ]
+    },
+    {
+      "es": "ante",
+      "sourceTokenIds": [
+        "h03004017011"
+      ]
+    },
+    {
+      "es": "faces",
+      "sourceTokenIds": [
+        "h03004017012"
+      ]
+    },
+    {
+      "es": "del velo",
+      "sourceTokenIds": [
+        "h03004017013"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "mojará → sumergirá (sentido qal licenciado para H2881, evita duplicar 'dedo')",
+    "agregada la preposición 'ante' para H854, que carecía de correspondencia en español",
+    "parójet → velo (sustantivo común H6532 traducido, no transliterado) con ajuste de artículo 'de la' → 'del' por concordancia de género"
+  ],
+  "meaningChanges": [],
+  "readerNote": "Elegí sumergirá y ante dentro de los sentidos licenciados por el auditor (H2881: sumergir/meter el dedo; H854: con/junto a/ante) y traduje parójet como velo con su artículo masculino en vez de transliterar H6532.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

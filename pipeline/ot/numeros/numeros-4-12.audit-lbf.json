@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:12",
+  "chapter": 4,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomarán todos utensilios del servicio con que servirán en ellos en el santo, y darán a vestido de azul, y cubrirán a ellos en cubierta de piel de tahash, y darán sobre el palo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004012006",
+        "h04004012008"
+      ],
+      "issue": "«con que» añade la relación «con» al relativo אשר; la preposición ב ya está en «en ellos».",
+      "spanishSpan": "con que servirán en ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004012018"
+      ],
+      "issue": "«tahash» deja sin traducir un sustantivo común, no un nombre propio.",
+      "spanishSpan": "tahash"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04004012003",
+        "h04004012004",
+        "h04004012005"
+      ],
+      "issue": "La cadena constructa queda definida por el artículo de הַשָּׁרֵת; «todos utensilios» no marca los utensilios como definidos.",
+      "spanishSpan": "todos utensilios"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04004012009"
+      ],
+      "issue": "«el santo» puede leerse como persona; el token es sustantivo común de lo santo, sin título.",
+      "spanishSpan": "el santo"
+    }
+  ],
+  "notes": "Los verbos 3pl, el objeto «a ellos», «vestido de azul», «cubierta de piel» y «sobre el palo» siguen los tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:11",
+  "chapter": 6,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y hará el sacerdote uno a pecado y uno a holocausto, y expiará sobre él desde que pecó sobre el alma, y santificará su cabeza en el día aquel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006011009"
+      ],
+      "issue": "מֵאֲשֶׁר is preposition + relative (from what / that which); «desde que» locks a temporal since-the-time reading.",
+      "spanishSpan": "desde que"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006011004",
+        "h04006011006"
+      ],
+      "issue": "לְחַטָּאת is the feminine noun parallel to לְעֹלָה; «pecado» names the offense and leaves the offering sense unexpressed.",
+      "spanishSpan": "pecado"
+    }
+  ],
+  "notes": "Person, number, and piel stem on the priest’s verbs match the tokens.",
+  "discardedUncitedFindings": 0
+}

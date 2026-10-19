@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:14",
+  "chapter": 7,
+  "verse": 14,
+  "candidateLabel": "pulir",
+  "spanish": "Y acercará desde nosotros uno desde toda ofrenda, ofrenda alzada a Jehová; al sacerdote el echante sangre de los paces, a él será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007014012"
+      ],
+      "issue": "H8002 is the plural sacrificial noun (peace offering); «paces» keeps only abstract peace and omits the offering.",
+      "spanishSpan": "los paces"
+    }
+  ],
+  "notes": "Remaining tokens match, including Sp1cp «desde nosotros» and hiphil «acercará».",
+  "discardedUncitedFindings": 0
+}

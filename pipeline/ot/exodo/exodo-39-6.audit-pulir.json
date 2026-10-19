@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:6",
+  "chapter": 39,
+  "verse": 6,
+  "candidateLabel": "pulir",
+  "spanish": "E hicieron las piedras del ónice, rodeadas de engastes de oro, grabadas de grabados de sello sobre nombres de hijos de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039006005",
+        "h02039006006"
+      ],
+      "issue": "\"de\" between the hophal participle and the settings noun is grammatical smoothing; Hebrew juxtaposes them with no preposition.",
+      "spanishSpan": "rodeadas de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039006008",
+        "h02039006009"
+      ],
+      "issue": "\"de\" between the pual participle and the cognate plural noun is grammatical smoothing; Hebrew juxtaposes them with no preposition.",
+      "spanishSpan": "grabadas de"
+    }
+  ],
+  "notes": "3mp qal, plural onyx stones, gold settings, seal-engraving cognate, and names of the sons of Israel match the tokens.",
+  "discardedUncitedFindings": 0
+}

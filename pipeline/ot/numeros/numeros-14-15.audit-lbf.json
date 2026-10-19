@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:15",
+  "chapter": 14,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y si mataras al pueblo este como varón uno, y dirán las naciones que oyeron tu fama, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014015001"
+      ],
+      "issue": "Unmarked «si» adds a condition. The token is only conjunction + hiphil perfect 2ms (you caused to die); «mataras» also turns that perfect into a hypothetical subjunctive.",
+      "spanishSpan": "si mataras"
+    }
+  ],
+  "notes": "The remaining tokens match: object people-this, as man one, and the nations who heard your report will say, saying.",
+  "discardedUncitedFindings": 0
+}

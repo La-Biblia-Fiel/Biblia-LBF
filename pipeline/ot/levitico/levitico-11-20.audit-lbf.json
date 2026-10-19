@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:20",
+  "chapter": 11,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Todo reptil del ave el andante sobre cuatro, abominación él a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011020002"
+      ],
+      "issue": "reptil adds the class reptile; the construct noun is the swarming creature, not a reptile",
+      "spanishSpan": "reptil"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011020003"
+      ],
+      "issue": "ave narrows the flying-creature noun toward bird",
+      "spanishSpan": "ave"
+    }
+  ],
+  "notes": "sobre cuatro leaves the cardinal open; ustedes matches the 2mp suffix.",
+  "discardedUncitedFindings": 0
+}

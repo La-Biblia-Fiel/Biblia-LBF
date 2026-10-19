@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:20",
+  "chapter": 3,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y hijos de Merarí a sus familias: Majlí y Mushí; estos ellos familias de Leví a casa de sus padres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003020009"
+      ],
+      "issue": "הַלֵּוִי is a definite gentilic (article + masculine singular absolute), not a proper noun; “Leví” drops the article and treats it as the personal name.",
+      "spanishSpan": "Leví"
+    }
+  ],
+  "notes": "Remaining tokens match in number, person, and participants, including the verbless אלה הם.",
+  "discardedUncitedFindings": 0
+}

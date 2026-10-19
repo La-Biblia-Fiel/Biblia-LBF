@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:23",
+  "chapter": 39,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y la boca del manto en medio de él como boca de cota; labio a su boca alrededor; no se rasgará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039023005"
+      ],
+      "issue": "H8473 is only a masculine singular noun; «cota» specifies a specialized coat the lemma and morphology do not license.",
+      "spanishSpan": "cota"
+    }
+  ],
+  "notes": "The other tokens match: boca, manto, en medio de él, labio, a su boca, alrededor, and niphal imperfect 3ms no se rasgará.",
+  "discardedUncitedFindings": 0
+}

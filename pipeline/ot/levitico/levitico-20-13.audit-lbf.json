@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:13",
+  "chapter": 20,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y varón que yaciere con macho yacimientos de mujer, abominación hicieron ambos; de morir morirán; sus sangres en ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020013012"
+      ],
+      "issue": "Hophal imperfect 3mp (be put to death) is rendered as active morirán, changing stem force.",
+      "spanishSpan": "morirán"
+    }
+  ],
+  "notes": "Qal infinitive absolute מות as de morir is licensed; the finite verb is hophal.",
+  "discardedUncitedFindings": 0
+}

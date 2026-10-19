@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:7",
+  "chapter": 5,
+  "verse": 7,
+  "candidateLabel": "pulir",
+  "spanish": "Y si no alcanzare su mano bastancia de res del rebaño, y traerá su culpa que pecó, dos tórtolas o dos hijos de paloma a Jehová, uno a expiación y uno a holocausto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005007020"
+      ],
+      "issue": "לְחַטָּאת (H2403, noun sin/sin-offering) is rendered as expiación, a theological result the token does not license.",
+      "spanishSpan": "expiación"
+    }
+  ],
+  "notes": "Remaining clauses track the packet, including שֶׂה as res del rebaño and בְנֵי יוֹנָה as hijos de paloma.",
+  "discardedUncitedFindings": 0
+}

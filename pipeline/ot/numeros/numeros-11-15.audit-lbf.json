@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:15",
+  "chapter": 11,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y si así tú haciendo a mí, mátame ahora matar, si hallé gracia en tus ojos, y no vea en mi mal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04011015007"
+      ],
+      "issue": "Entreaty particle is rendered as temporal ahora, adding time the token does not mark and dropping the request force.",
+      "spanishSpan": "ahora"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011015014"
+      ],
+      "issue": "Morph tag is qal infinitive construct with no person; vea is finite 1cs subjunctive, matching the pointed form rather than that tag.",
+      "spanishSpan": "vea"
+    }
+  ],
+  "notes": "The other tokens are present, including both qal kill forms and the dual eyes.",
+  "discardedUncitedFindings": 0
+}

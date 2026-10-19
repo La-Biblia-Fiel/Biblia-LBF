@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:10",
+  "chapter": 23,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a hijos de Israel, y dirás a ellos: Cuando entren a la tierra que yo dando a ustedes, y sieguen su cosecha, y traerán ómer de principio de cosecha de ustedes al sacerdote.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023010020"
+      ],
+      "issue": "Common noun עֹמֶר is left as the transliteration ómer; a non-name lemma stays Spanish.",
+      "spanishSpan": "ómer"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03023010008",
+        "h03023010015"
+      ],
+      "issue": "Qal imperfect 2mp and the following qal sequential perfect 2mp are both subjunctive under Cuando; mood is Spanish smoothing and the reap clause is no longer the same sequential perfect force as traerán.",
+      "spanishSpan": "entren"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03023010017"
+      ],
+      "issue": "Suffix is 3fs (the land’s harvest). su also fits ustedes and can be read as the addressees’ harvest.",
+      "spanishSpan": "su cosecha"
+    }
+  ],
+  "notes": "Other tokens match person, number, stem, and construct order; ustedes forms are licensed 2pl.",
+  "discardedUncitedFindings": 0
+}

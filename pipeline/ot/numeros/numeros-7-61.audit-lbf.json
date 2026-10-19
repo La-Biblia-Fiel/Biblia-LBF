@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:61",
+  "chapter": 7,
+  "verse": 61,
+  "candidateLabel": "lbf",
+  "spanish": "Su ofrenda: plato de plata uno, treinta y cien su peso; tazón uno plata, setenta siclo en siclo de la santidad; los dos ellos llenos sólet amasada en el aceite a minjá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007061017"
+      ],
+      "issue": "סֹלֶת is a common noun; sólet leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007061018"
+      ],
+      "issue": "Qal passive of mix/mingle is rendered as kneaded (amasada).",
+      "spanishSpan": "amasada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007061020"
+      ],
+      "issue": "מִנְחָה is a common noun; minjá leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Counts, suffixes, construct vs absolute plata, and both שֶׁקֶל tokens match the packet.",
+  "discardedUncitedFindings": 0
+}

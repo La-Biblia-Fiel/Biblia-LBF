@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:30",
+  "chapter": 1,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "A hijos de Zabulón, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001030013",
+        "h04001030014",
+        "h04001030015"
+      ],
+      "issue": "כֹּל heads the construct participle יֹצֵא, and that participle governs צָבָא: every one who goes out, with the army as its complement. “saliente ejército” makes the army the head that goes out.",
+      "spanishSpan": "todo saliente ejército"
+    }
+  ],
+  "notes": "The remaining tokens match in lexeme, number, and suffix.",
+  "discardedUncitedFindings": 0
+}

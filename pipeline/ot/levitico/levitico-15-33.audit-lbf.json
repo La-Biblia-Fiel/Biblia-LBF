@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:33",
+  "chapter": 15,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "y de la enferma en su menstruación, y del fluente su flujo, al macho y a la hembra, y al varón que se acostare con impura.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015033001"
+      ],
+      "issue": "Unmarked preposition \"de\" is supplied; the token has only the conjunction and the definite article on the feminine adjective.",
+      "spanishSpan": "de"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015033003"
+      ],
+      "issue": "Unmarked preposition \"de\" inside \"del\" is supplied; the token has only the conjunction and the definite article on the qal participle.",
+      "spanishSpan": "del"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03015033002"
+      ],
+      "issue": "\"menstruación\" narrows the noun to the menstrual period; the lemma also licenses impurity or separation.",
+      "spanishSpan": "menstruación"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03015033008"
+      ],
+      "issue": "\"al\" adds a definite article; this preposition plus noun is anarthrous.",
+      "spanishSpan": "al varón"
+    }
+  ],
+  "notes": "Sufijos, macho/hembra, varón, acostarse con e impura conservan número, persona y lexema.",
+  "discardedUncitedFindings": 0
+}

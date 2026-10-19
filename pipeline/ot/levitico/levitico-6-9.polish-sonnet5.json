@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 6:9",
+  "chapter": 6,
+  "verse": 9,
+  "sourceDraft": "Manda a Aarón y a sus hijos, diciendo: Esta torá del holocausto; ella el holocausto sobre hogaza sobre el altar toda la noche hasta la mañana, y fuego del altar arderá en él.",
+  "spanish": "Manda a Aarón y a sus hijos, diciendo: Esta *es* la ley del holocausto: ella, el holocausto, *estará* sobre la hoguera sobre el altar toda la noche hasta la mañana, y el fuego del altar arderá en él.",
+  "units": [],
+  "grammarChanges": [
+    "torá → ley (translated תּוֹרַת as the common noun it is, H8451, rather than leaving the lemma untranslated)",
+    "hogaza → la hoguera (מוֹקְדָה shares the burning/יקד sense of תּוּקַד, H4169; it does not license bread)",
+    "supplied copula *es* for the verbless זֹאת...תּוֹרַת clause",
+    "supplied copula *estará* for the verbless הִוא clause, tense matched to arderá",
+    "added missing article 'el' before 'fuego del altar'",
+    "added comma for the appositive 'ella, el holocausto,'",
+    "changed semicolon to colon after 'ley del holocausto' to introduce the following clause"
+  ],
+  "meaningChanges": [],
+  "readerNote": "Supplied the copulas *es* and *estará* to complete the Hebrew's two verbless nominal clauses, and rendered תּוֹרַת as 'ley' and מוֹקְדָה as 'la hoguera' (sharing the burning/יקד sense of תּוּקַד) instead of 'torá' or bread.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

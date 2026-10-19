@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:48",
+  "chapter": 14,
+  "verse": 48,
+  "candidateLabel": "lbf",
+  "spanish": "Y si viniendo viniere el sacerdote y viere, y he aquí no se extendió la plaga en la casa después de enlucir la casa, y purificará el sacerdote la casa, porque sanó la plaga.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014048012",
+        "h03014048013",
+        "h03014048014"
+      ],
+      "issue": "הִטֹּחַ is niphal infinitive construct (be plastered); אֶת marks הַבָּיִת as patient. Active enlucir makes the house the object of an active plastering.",
+      "spanishSpan": "enlucir la casa"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014048020",
+        "h03014048021"
+      ],
+      "issue": "נִרְפָּא is niphal perfect 3ms with הַנָּגַע as subject (the plague was healed). sanó la plaga continues the priest as subject and makes the plague the object he heals.",
+      "spanishSpan": "sanó la plaga"
+    }
+  ],
+  "notes": "Cognate viniendo viniere, viere, se extendió la plaga, and purificará el sacerdote la casa match the remaining stems and participants.",
+  "discardedUncitedFindings": 0
+}

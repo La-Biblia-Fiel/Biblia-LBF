@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:10",
+  "chapter": 9,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a hijos de Israel, diciendo: Varón varón cuando fuere impuro a alma, o en camino lejos a ustedes, o a sus generaciones, y hará Pésaj a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009010019"
+      ],
+      "issue": "פסח is a common noun (HNcmsa), not a proper name locked in PROPER_NAMES; Pésaj leaves the non-name lemma untranslated.",
+      "spanishSpan": "Pésaj"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04009010008"
+      ],
+      "issue": "כי is marked only as a conjunction; cuando selects the temporal sense and closes the open conditional reading.",
+      "spanishSpan": "cuando"
+    }
+  ],
+  "notes": "The 2mp suffix on לכם and דורותיכם is ustedes address; sus is that possessive, not a third-party shift.",
+  "discardedUncitedFindings": 0
+}

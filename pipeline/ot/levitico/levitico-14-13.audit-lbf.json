@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:13",
+  "chapter": 14,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y degollará el cordero en lugar que se degüella el pecado y el holocausto, en lugar de la santidad, porque como el pecado la culpa ella al sacerdote; santidad de santidades ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014013006",
+        "h03014013007",
+        "h03014013008",
+        "h03014013009",
+        "h03014013010"
+      ],
+      "issue": "Qal imperfect 3ms active slaughter, with את marking the sin and the burnt offering as objects, is rendered passive/impersonal.",
+      "spanishSpan": "se degüella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014013011",
+        "h03014013012"
+      ],
+      "issue": "Locative 'in the place of the holiness' is rendered with the current-Spanish substitution idiom 'en lugar de' ('instead of the holiness').",
+      "spanishSpan": "en lugar de la santidad"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014013016",
+        "h03014013020"
+      ],
+      "issue": "Both pronouns are 3ms; 'ella' is feminine, matching Spanish 'culpa' rather than the masculine token.",
+      "spanishSpan": "ella"
+    }
+  ],
+  "notes": "The rest tracks the tokens, including repeated קדש and the verbless predicates.",
+  "discardedUncitedFindings": 0
+}

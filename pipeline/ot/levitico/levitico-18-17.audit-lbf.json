@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 18:17",
+  "chapter": 18,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Desnudez de mujer y su hija no descubrirás; a hija de su hijo y a hija de su hija no tomarás para descubrir su desnudez; carne ellas, vileza ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03018017016"
+      ],
+      "issue": "H7608 is an absolute feminine noun of female kindred; carne substitutes flesh and omits kinship.",
+      "spanishSpan": "carne"
+    }
+  ],
+  "notes": "The prohibitions, objects, suffixes, and the verbless זמה clause otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:21",
+  "chapter": 26,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y si andan conmigo en contrario, y no quieren oír a mí, y añadiré sobre ustedes golpe siete como sus pecados.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026021004"
+      ],
+      "issue": "קֶרִי is a bare singular absolute noun; Spanish adds en so the noun can function as manner. No extra participant or event.",
+      "spanishSpan": "en"
+    }
+  ],
+  "notes": "2mp imperfects as ustedes forms; singular מַכָּה plus cardinal שֶׁבַע left open.",
+  "discardedUncitedFindings": 0
+}

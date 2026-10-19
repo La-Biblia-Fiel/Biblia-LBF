@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 10:13",
+  "chapter": 10,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y la comerán en lugar santo, porque tu estatuto y estatuto de tus hijos ella, desde ofrendas de fuego de Jehová, porque así fui mandado.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03010013010"
+      ],
+      "issue": "מֵ is source/partitive “from” the fire-offerings. “desde” can be read as a temporal starting point.",
+      "spanishSpan": "desde"
+    }
+  ],
+  "notes": "2mp comerán is ustedes address; 3fs la/ella, indefinite lugar santo, repeated estatuto with 2ms suffixes, plural ofrendas de fuego de Jehová, and pual 1cs fui mandado match the tokens.",
+  "discardedUncitedFindings": 0
+}

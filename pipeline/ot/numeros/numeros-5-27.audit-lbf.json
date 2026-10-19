@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:27",
+  "chapter": 5,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y la hará beber las aguas, y será si se impureció y perpetró perpetración en su varón, y vendrán en ella las aguas las maldicientes a amargas, y hinchará su vientre y caerá su muslo, y será la mujer a maldición en medio de su pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005027007",
+        "h04005027008"
+      ],
+      "issue": "מעל plus מעל is an act of unfaithfulness or trespass; perpetró perpetración keeps only a generic committing and omits that content.",
+      "spanishSpan": "perpetró perpetración"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005027021"
+      ],
+      "issue": "אָלָה licenses oath and curse; maldición selects curse.",
+      "spanishSpan": "maldición"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005027015",
+        "h04005027016"
+      ],
+      "issue": "Qal 3fs has her belly as the subject that swells; hinchará without se can be read as transitive action by the earlier masculine agent.",
+      "spanishSpan": "hinchará su vientre"
+    }
+  ],
+  "notes": "Other clauses keep person, number, repetition, and the open prepositions.",
+  "discardedUncitedFindings": 0
+}

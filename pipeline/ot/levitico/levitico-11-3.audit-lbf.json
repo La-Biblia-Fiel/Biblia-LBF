@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:3",
+  "chapter": 11,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Todo partiente pezuña y hendiente hendidura de pezuñas, subiente cud en el animal, a ella comerán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011003008"
+      ],
+      "issue": "Common noun left in English as cud; H1625 licenses the cud concept and common nouns stay Spanish.",
+      "spanishSpan": "cud"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011003007"
+      ],
+      "issue": "Hiphil participle is causative (cause to go up). Subiente plus a bare object only weakly keeps that stem force.",
+      "spanishSpan": "subiente"
+    }
+  ],
+  "notes": "2mp תאכלו as comerán is ustedes address; pezuña vs pezuñas matches singular then plural hoof.",
+  "discardedUncitedFindings": 0
+}

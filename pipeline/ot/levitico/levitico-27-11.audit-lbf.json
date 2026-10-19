@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 27:11",
+  "chapter": 27,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y si toda bestia inmunda que no acercan desde ella ofrenda a Jehová, y hará estar la bestia delante del sacerdote.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03027011011"
+      ],
+      "issue": "El hifil secuencial 3ms de עמד queda en «hará estar»: se conserva el causativo y la persona, pero «estar» suaviza el sentido de hacer estar de pie.",
+      "spanishSpan": "hará estar"
+    }
+  ],
+  "notes": "Lo demás conserva partículas, número, persona, definición y participantes del paquete.",
+  "discardedUncitedFindings": 0
+}

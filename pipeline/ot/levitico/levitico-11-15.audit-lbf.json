@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:15",
+  "chapter": 11,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "todo orev a su especie,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011015003"
+      ],
+      "issue": "עֹרֵב is a common noun (H6158), not a name; Spanish dumps the Hebrew form orev instead of a Spanish common noun.",
+      "spanishSpan": "orev"
+    }
+  ],
+  "notes": "את is the object marker; todo matches כָּל; a su especie matches לְמִינֽוֹ.",
+  "discardedUncitedFindings": 0
+}

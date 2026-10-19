@@ -1,0 +1,43 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006028003",
+        "h03006028004",
+        "h03006028005"
+      ],
+      "issue": "«que» makes the masculine vessel the thing cooked; תְּבֻשַּׁל is pual 3fs (a feminine item is cooked) and בּוֹ only places that cooking in the vessel.",
+      "spanishSpan": "que se cocinare en él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006028010",
+        "h03006028011",
+        "h03006028012"
+      ],
+      "issue": "One unstated subject is cooked and then rubbed and washed; בֻּשָּׁלָה is 3fs while וּמֹרַק and וְשֻׁטַּף are 3ms, so the vessel is scoured and rinsed.",
+      "spanishSpan": "se cocinare, y será frotado y lavado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006028004",
+        "h03006028010"
+      ],
+      "issue": "Pual imperfect and pual perfect are both «se cocinare»; the aspect contrast is smoothed.",
+      "spanishSpan": "se cocinare"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006028011"
+      ],
+      "issue": "Pual of מָרַק is scour or polish; «frotado» only states rubbing.",
+      "spanishSpan": "frotado"
+    }
+  ],
+  "notes": "Breaking the earthen vessel, bronze as material, and rinsing in the waters match the tokens."
+}

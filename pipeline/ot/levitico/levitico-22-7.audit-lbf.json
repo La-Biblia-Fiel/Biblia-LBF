@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:7",
+  "chapter": 22,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y entrare el sol, y limpio, y después comerá desde las santidades, porque su pan él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03022007003"
+      ],
+      "issue": "Qal sequential perfect 3ms ‘be/become clean’ is only the bare adjective limpio, so the 3ms verbal predicate is omitted.",
+      "spanishSpan": "y limpio"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022007001"
+      ],
+      "issue": "Qal sequential perfect 3ms is rendered with the archaic future subjunctive entrare; the subject remains el sol.",
+      "spanishSpan": "entrare"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022007009",
+        "h03022007010"
+      ],
+      "issue": "The verbless identification of his bread with the 3ms pronoun is left unpredicated as su pan él.",
+      "spanishSpan": "su pan él"
+    }
+  ],
+  "notes": "Sol, después, comerá, desde, las santidades, porque, and él otherwise match the tokens in order.",
+  "discardedUncitedFindings": 0
+}

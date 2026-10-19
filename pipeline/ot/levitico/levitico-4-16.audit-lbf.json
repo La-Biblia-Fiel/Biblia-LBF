@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:16",
+  "chapter": 4,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y traerá el sacerdote el ungido desde sangre del toro a tienda de reunión.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004016002",
+        "h03004016003"
+      ],
+      "issue": "Two definite nouns after traerá can be read as subject plus object; both Hebrew nouns stand with the 3ms subject and there is no object marker.",
+      "spanishSpan": "el sacerdote el ungido"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004016004",
+        "h03004016005"
+      ],
+      "issue": "desde fixes the mem-preposition as spatial source; that prefix on construct blood also allows a partitive reading, and the verse has no separate direct object.",
+      "spanishSpan": "desde sangre del toro"
+    }
+  ],
+  "notes": "Person, number, hiphil stem, bull, and tent-of-meeting phrase otherwise follow the token sequence.",
+  "discardedUncitedFindings": 0
+}

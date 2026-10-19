@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 1:16",
+  "chapter": 1,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y quitará su buche con su pluma, y lo arrojará junto al altar, kedmah, a lugar de la ceniza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03001016009"
+      ],
+      "issue": "Non-name adverb with directional suffix (H6924) is left as the transliteration kedmah, so the licensed directional sense is omitted.",
+      "spanishSpan": "kedmah"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03001016011",
+        "h03001016012"
+      ],
+      "issue": "Definite construct (place of the ash) is rendered indefinite: a lugar omits the definiteness licensed by the article on the nomen rectum.",
+      "spanishSpan": "a lugar de la ceniza"
+    }
+  ],
+  "notes": "Quitar, buche, con su pluma, arrojar, junto al altar, and ceniza match the lemmas, stems, and suffixes.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:27",
+  "chapter": 38,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue cien talento de la plata para fundir las basas del santo y las basas de la parójet; cien basas a cien el talento, talento a la basa.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038027011"
+      ],
+      "issue": "הַפָּרֹכֶת is a common noun (veil/curtain), not a name; “parójet” leaves the lemma untranslated.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038027014",
+        "h02038027015"
+      ],
+      "issue": "לִמְאַת הַכִּכָּר is “for the hundred of the talent”; “a cien el talento” does not mark that construct.",
+      "spanishSpan": "a cien el talento"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038027008"
+      ],
+      "issue": "הַקֹּדֶשׁ is the masculine noun holiness/holy thing; “del santo” can be read as a holy person.",
+      "spanishSpan": "del santo"
+    }
+  ],
+  "notes": "Remaining clauses keep the wayyiqtol, the hundred-talent construct with the silver, the qal infinitive, both plural socket chains, and singular talent-per-socket.",
+  "discardedUncitedFindings": 0
+}

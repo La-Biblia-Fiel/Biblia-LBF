@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 2:10",
+  "chapter": 2,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Bandera de campamento de Rubén temánah a sus ejércitos; y príncipe a hijos de Rubén, Elitsur hijo de Shedéur.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04002010004"
+      ],
+      "issue": "Common noun (feminine singular absolute + directional suffix), not a name: left untranslated as temánah, so the licensed south/southward sense is omitted and Hebrew is dumped into Spanish.",
+      "spanishSpan": "temánah"
+    }
+  ],
+  "notes": "Remaining tokens match number, participants, constructs, and the verbless prince clause.",
+  "discardedUncitedFindings": 0
+}

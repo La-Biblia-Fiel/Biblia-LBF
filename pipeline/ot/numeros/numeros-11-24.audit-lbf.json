@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:24",
+  "chapter": 11,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y salió Moisés, y habló al pueblo las palabras de Jehová, y reunió setenta varón de ancianos del pueblo, y los hizo estar alrededor de la tienda.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011024010",
+        "h04011024011"
+      ],
+      "issue": "שִׁבְעִים is a plural cardinal and אִישׁ is singular; «setenta varón» keeps both tokens, but the singular noun is abnormal Spanish beside seventy.",
+      "spanishSpan": "setenta varón"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011024012",
+        "h04011024013"
+      ],
+      "issue": "מִזִּקְנֵי הָעָם is a definite construct (from the elders of the people); «de ancianos» leaves the elders without the article.",
+      "spanishSpan": "de ancianos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011024014"
+      ],
+      "issue": "Hiphil of H5975 causes them to stand; «hizo» keeps the causative, while «estar» softens stand to being located.",
+      "spanishSpan": "los hizo estar"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011024016"
+      ],
+      "issue": "סְבִיבֹת is a plural construct noun; «alrededor» is singular. The sense around the tent remains.",
+      "spanishSpan": "alrededor"
+    }
+  ],
+  "notes": "Sequence, Moisés, el pueblo, las palabras de Jehová, the seventy, אותָם, and la tienda match the tokens.",
+  "discardedUncitedFindings": 0
+}

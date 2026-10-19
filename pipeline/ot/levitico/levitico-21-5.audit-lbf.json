@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 21:5",
+  "chapter": 21,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "No harán calva en su cabeza, y extremo de su barba no rasurarán, y en su carne no cortarán corte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03021005001",
+        "h03021005002",
+        "h03021005003"
+      ],
+      "issue": "Unmarked supplied verb harán adds an act of making. Those tokens are only negative + feminine singular noun + preposition and their head; no verb is licensed.",
+      "spanishSpan": "harán"
+    }
+  ],
+  "notes": "The shave and cut clauses keep the negatives, 3mp verbs, singular objects, and 3mp suffixes.",
+  "discardedUncitedFindings": 0
+}

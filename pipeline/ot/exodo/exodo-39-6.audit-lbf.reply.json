@@ -1,0 +1,32 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039006004"
+      ],
+      "issue": "הַשֹּׁהַם is a common noun with the article, not a proper name; \"shóham\" leaves that lemma untranslated.",
+      "spanishSpan": "shóham"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039006008",
+        "h02039006009"
+      ],
+      "issue": "The repeated פתח root (pual passive participle + plural construct noun) is split into \"abiertas\" and \"grabados\", so the cognate is not kept and the noun is resolved as engraving.",
+      "spanishSpan": "abiertas grabados"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039006005",
+        "h02039006006"
+      ],
+      "issue": "\"de\" between the hophal participle and מִשְׁבְּצֹת is grammatical smoothing; Hebrew juxtaposes them with no preposition.",
+      "spanishSpan": "rodeadas de"
+    }
+  ],
+  "notes": "3mp qal wayyiqtol, plural stones, settings of gold, seal, and names of the sons of Israel match the tokens."
+}

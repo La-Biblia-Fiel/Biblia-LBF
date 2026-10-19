@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:22",
+  "chapter": 11,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "¿Acaso rebaño y ganado será degollado para ellos, y bastará a ellos? ¿Si todo pez del mar será recogido para ellos, y bastará a ellos?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04011022010"
+      ],
+      "issue": "דגי is masculine plural construct; pez is singular.",
+      "spanishSpan": "pez"
+    }
+  ],
+  "notes": "Question particle, אם, niphal passives, מצא+ל, and each לָהֶם are otherwise represented.",
+  "discardedUncitedFindings": 0
+}

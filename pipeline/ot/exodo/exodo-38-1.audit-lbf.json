@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:1",
+  "chapter": 38,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo el altar del holocausto, maderas de shitím; cinco codos su largo y cinco codos su ancho, cuadrado, y tres codos su alto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038001006"
+      ],
+      "issue": "שִׁטִּים is a common noun, not a locked proper name; shitím leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens in number, person, and participants.",
+  "discardedUncitedFindings": 0
+}

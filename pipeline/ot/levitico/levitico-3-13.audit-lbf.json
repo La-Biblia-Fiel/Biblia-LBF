@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 3:13",
+  "chapter": 3,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y apoyará su mano sobre su cabeza, y la degollará delante de tienda de reunión, y echarán hijos de Aarón su sangre sobre el altar alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03003013007"
+      ],
+      "issue": "El objeto directo es sufijo 3ms (אֹתוֹ); «la» lo hace femenino.",
+      "spanishSpan": "la"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

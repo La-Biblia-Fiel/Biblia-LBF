@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:30",
+  "chapter": 5,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "o varón que pasare sobre él espíritu de celos y celare a su mujer, y hará estar a la mujer delante de Jehová, y hará a ella el sacerdote toda la torá esta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005030021"
+      ],
+      "issue": "תּוֹרָה is a common noun (H8451, article + feminine singular), not a proper name. \"torá\" leaves that lemma untranslated and narrows it to the named corpus.",
+      "spanishSpan": "torá"
+    }
+  ],
+  "notes": "Other clauses keep the packet’s participants, stems, number, and Jehová.",
+  "discardedUncitedFindings": 0
+}

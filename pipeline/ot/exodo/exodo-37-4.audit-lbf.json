@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:4",
+  "chapter": 37,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo varas, maderas de shitím, y las chapó de oro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037004004"
+      ],
+      "issue": "Common noun (H7848, not a locked proper name) is left as the untranslated lemma shitím.",
+      "spanishSpan": "shitím"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037004002",
+        "h02037004003"
+      ],
+      "issue": "Comma does not mark the construct poles-of wood, so the wood can be read as a second object rather than the material of the poles.",
+      "spanishSpan": "varas, maderas"
+    }
+  ],
+  "notes": "E hizo, y las chapó, and de oro match the two 3ms verbs, the 3mp object, and gold as the overlay material.",
+  "discardedUncitedFindings": 0
+}

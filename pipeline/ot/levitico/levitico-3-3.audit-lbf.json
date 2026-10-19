@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 3:3",
+  "chapter": 3,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y acercará desde sacrificio de los pazes ofrenda de fuego a Jehová: la grasa la cubriente el interior, y toda la grasa que sobre el interior,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03003003008"
+      ],
+      "issue": "El participio piel activo masculino singular concuerda en femenino con grasa; sigue siendo el que cubre, no otro participante ni voz pasiva.",
+      "spanishSpan": "la cubriente"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03003003002",
+        "h03003003003"
+      ],
+      "issue": "El constructo queda definido por el artículo de הַשְּׁלָמִים; sacrificio va sin artículo.",
+      "spanishSpan": "desde sacrificio de los pazes"
+    }
+  ],
+  "notes": "Hiphil 3ms, min+sacrificio, plural, ofrenda de fuego, Jehová, grasa, interior, toda la grasa y el relativo sin cópula sobre el interior siguen los tokens.",
+  "discardedUncitedFindings": 0
+}

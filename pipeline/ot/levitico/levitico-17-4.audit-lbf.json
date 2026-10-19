@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 17:4",
+  "chapter": 17,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "y a abertura de tienda de reunión no lo trajere para acercar ofrenda a Jehová delante de mishkán de Jehová, sangre será contada al varón aquel; sangre derramó, y será cortado el varón aquel desde medio de su pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03017004011"
+      ],
+      "issue": "Common noun מִשְׁכַּן (H4908, masculine singular construct) is left as the untranslated transliteration mishkán.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03017004006"
+      ],
+      "issue": "Hiphil perfect 3ms is rendered as future subjunctive trajere; person, number, hiphil bringing, and the 3ms object suffix still match.",
+      "spanishSpan": "trajere"
+    }
+  ],
+  "notes": "Other clauses match the packet, including both יהוה tokens as Jehová.",
+  "discardedUncitedFindings": 0
+}

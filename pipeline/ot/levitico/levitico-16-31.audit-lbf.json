@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:31",
+  "chapter": 16,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Shabat de shabatón ella a ustedes, y humillarán sus almas; estatuto de siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016031001"
+      ],
+      "issue": "Common noun left as Hebrew transliteration instead of Spanish.",
+      "spanishSpan": "Shabat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016031002"
+      ],
+      "issue": "Common noun left as Hebrew transliteration instead of Spanish.",
+      "spanishSpan": "shabatón"
+    }
+  ],
+  "notes": "ella a ustedes, humillarán sus almas, and estatuto de siempre match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

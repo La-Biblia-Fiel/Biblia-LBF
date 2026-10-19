@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:18",
+  "chapter": 4,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y desde la sangre dará sobre cuernos del altar que delante de Jehová que en tienda de reunión, y toda la sangre derramará a base de altar del holocausto que a abertura de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004018021",
+        "h03004018022"
+      ],
+      "issue": "Unmarked preposition \"a\" is inserted before abertura. אשר פתח has no preposition token, so the verbless relative is resolved as locative \"at\" the opening.",
+      "spanishSpan": "a abertura"
+    }
+  ],
+  "notes": "The rest tracks the tokens: 3ms dará/derramará, both blood phrases, construct chains, and Jehová.",
+  "discardedUncitedFindings": 0
+}

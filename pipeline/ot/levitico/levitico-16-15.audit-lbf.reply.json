@@ -1,0 +1,40 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016015012"
+      ],
+      "issue": "Common noun left as a Hebrew transcription; the token is not a proper name and requires Spanish.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016015023",
+        "h03016015025"
+      ],
+      "issue": "Common noun left as a Hebrew transcription; the token is not a proper name and requires Spanish.",
+      "spanishSpan": "kappóret"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016015011",
+        "h03016015012"
+      ],
+      "issue": "Construct noun is an unbound casa between desde and a, so the phrase reads as motion from a house to the curtain rather than a noun bound to what follows.",
+      "spanishSpan": "desde casa a la parójet"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016015021"
+      ],
+      "issue": "3ms object suffix is feminine ella; the referent remains the blood, with Spanish gender following sangre.",
+      "spanishSpan": "a ella"
+    }
+  ],
+  "notes": "Prepositions, 3ms actors, both blood suffixes, the bull, and the repeated curtain noun are otherwise represented."
+}

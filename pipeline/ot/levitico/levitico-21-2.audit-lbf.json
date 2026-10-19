@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 21:2",
+  "chapter": 21,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Sino por su carne la cercana a él: por su madre y por su padre y por su hijo y por su hija y por su hermano,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03021002003",
+        "h03021002004"
+      ],
+      "issue": "הַקָּרֹב is masculine singular; «cercana» is feminine by agreement with Spanish «carne».",
+      "spanishSpan": "la cercana"
+    }
+  ],
+  "notes": "כִּי אִם as «Sino» and the repeated ל-kin chain match the tokens.",
+  "discardedUncitedFindings": 0
+}

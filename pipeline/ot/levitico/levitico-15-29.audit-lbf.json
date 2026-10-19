@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:29",
+  "chapter": 15,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y en el día el octavo tomará a ella dos tórtolas o dos hijos de paloma, y los traerá al sacerdote, a abertura de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015029003",
+        "h03015029004"
+      ],
+      "issue": "לָהּ is preposition ל plus a 3fs suffix (for/to her), not the object of תִּקַּח. “tomará a ella” makes her the person taken; the things taken are the birds.",
+      "spanishSpan": "tomará a ella"
+    }
+  ],
+  "notes": "The rest of the verse matches the tokens, including both bird options, 3fs bring, them, the priest, and opening of tent of meeting.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:16",
+  "chapter": 14,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y mojará el sacerdote su dedo el derecho desde el aceite que sobre su palma la izquierda, y rociará desde el aceite en su dedo siete veces delante de Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014016001"
+      ],
+      "issue": "mojará covers dampen; qal H2881 licenses dipping or putting the finger in",
+      "spanishSpan": "mojará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014016015"
+      ],
+      "issue": "בְּ is marked only as a preposition, so in/on/with stay open; en selects the locative",
+      "spanishSpan": "en su dedo"
+    }
+  ],
+  "notes": "Priest, right finger, from the oil on his left palm, hiphil sprinkle, seven times, and before Jehová match.",
+  "discardedUncitedFindings": 0
+}

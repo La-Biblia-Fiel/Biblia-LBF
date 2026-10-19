@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:19",
+  "chapter": 7,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Acercó su ofrenda: plato de plata uno, treinta y cien su peso; tazón uno plata, setenta siclo en siclo de la santidad; los dos ellos llenos sólet amasada en el aceite a minjá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007019019"
+      ],
+      "issue": "סֹלֶת is a common noun left as the untranslated lemma sólet",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007019020"
+      ],
+      "issue": "qal passive of mix is narrowed to kneaded (amasada)",
+      "spanishSpan": "amasada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007019022"
+      ],
+      "issue": "מִנְחָה is a common noun left as the untranslated lemma minjá",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens, including hiphil acercó, weights, singular siclo, and en for ב.",
+  "discardedUncitedFindings": 0
+}

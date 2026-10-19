@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:28",
+  "chapter": 5,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y si no se impureció la mujer, y pura ella, y será absuelta, y será sembrada semilla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005028008",
+        "h04005028009"
+      ],
+      "issue": "Niphal 3fs has the woman as subject and masculine זָרַע as the cognate complement; «será sembrada semilla» makes semilla the subject of the passive.",
+      "spanishSpan": "será sembrada semilla"
+    }
+  ],
+  "notes": "Protasis, verbless וּטְהֹרָה הִוא, and niphal וְנִקְּתָה match the tokens.",
+  "discardedUncitedFindings": 0
+}

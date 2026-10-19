@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:27",
+  "chapter": 25,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "y contará los años de su venta, y devolverá el excedente al varón que vendió a él, y volverá a su posesión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025027003"
+      ],
+      "issue": "Cardinal masculine dual construct (lemma H8141) rendered as plural años, changing dual to plural and closing the lemma/morphology tension as years.",
+      "spanishSpan": "los años"
+    }
+  ],
+  "notes": "Hiphil devolverá and qal volverá keep the stem split; the dual on H8141 does not.",
+  "discardedUncitedFindings": 0
+}

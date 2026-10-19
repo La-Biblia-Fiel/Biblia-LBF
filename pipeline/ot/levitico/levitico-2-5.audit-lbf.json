@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:5",
+  "chapter": 2,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y si minjá sobre la plancha tu ofrenda, sólet amasada en el aceite, ázima será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002005002"
+      ],
+      "issue": "Common noun (H4503, feminine singular absolute) is left as the transliteration minjá instead of Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002005006"
+      ],
+      "issue": "Common noun (H5560, feminine singular absolute) is left as the transliteration sólet instead of Spanish.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03002005007"
+      ],
+      "issue": "Qal passive participle of mix/mingle is rendered amasada, which can add kneading beyond the lemma.",
+      "spanishSpan": "amasada"
+    }
+  ],
+  "notes": "Y si, sobre la plancha, tu ofrenda, en el aceite, and ázima será match the other tokens in order, definiteness, person, and number.",
+  "discardedUncitedFindings": 0
+}

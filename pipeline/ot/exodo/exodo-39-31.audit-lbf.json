@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:31",
+  "chapter": 39,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y dieron sobre ella cordón de azul, para dar sobre el turbante desde arriba, conforme a lo que mandó Jehová a Moisés.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039031002"
+      ],
+      "issue": "עָלָיו is a preposition with a 3rd masculine singular suffix; «ella» makes that referent feminine.",
+      "spanishSpan": "sobre ella"
+    }
+  ],
+  "notes": "The rest of the verse matches the tokens: 3mp qal נתן, construct cord of blue, infinitive נתן, the turban, from above, and Piel command of Jehová to Moisés.",
+  "discardedUncitedFindings": 0
+}

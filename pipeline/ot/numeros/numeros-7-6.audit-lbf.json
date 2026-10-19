@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:6",
+  "chapter": 7,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomó Moisés las carretas y el ganado, y dio a ellos a los levitas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007006008",
+        "h04007006009",
+        "h04007006010"
+      ],
+      "issue": "אוֹתָם is the direct object (them: the carts and the herd). אֶל הַלְוִיִּם is the only recipient. “a ellos a los levitas” marks both the pronoun and the Levites as recipients and does not give the carts and herd as the thing given.",
+      "spanishSpan": "a ellos a los levitas"
+    }
+  ],
+  "notes": "Y tomó Moisés las carretas y el ganado matches the qal 3ms take, Moisés, feminine plural carts, and singular herd.",
+  "discardedUncitedFindings": 0
+}

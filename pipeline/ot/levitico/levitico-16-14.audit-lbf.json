@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:14",
+  "chapter": 16,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomará desde sangre del toro, y rociará en su dedo sobre faces de la kappóret kedmah; y delante de la kappóret rociará siete veces desde la sangre en su dedo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016014008",
+        "h03016014011"
+      ],
+      "issue": "Common noun הַכַּפֹּרֶת (H3727, feminine singular with article) is left as the transliteration kappóret instead of Spanish.",
+      "spanishSpan": "kappóret"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016014009"
+      ],
+      "issue": "Common noun קֵדְמָה (H6924, masculine singular with suffix Sd) is left as the transliteration kedmah instead of Spanish.",
+      "spanishSpan": "kedmah"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens in person, number, stems, articles, and order.",
+  "discardedUncitedFindings": 0
+}

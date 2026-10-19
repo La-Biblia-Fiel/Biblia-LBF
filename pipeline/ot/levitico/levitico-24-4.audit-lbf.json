@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 24:4",
+  "chapter": 24,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Sobre la menorá la pura ordenará las lámparas delante de Jehová siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03024004002"
+      ],
+      "issue": "Sustantivo común (no nombre propio) vertido como transcripción del lema hebreo en lugar de un nombre común español.",
+      "spanishSpan": "menorá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03024004002",
+        "h03024004003",
+        "h03024004004"
+      ],
+      "issue": "El adjetivo femenino definido queda como sujeto de «ordenará». En hebreo modifica al sustantivo femenino de la frase preposicional; el verbo es qal imperfecto 3ms y no tiene sujeto femenino.",
+      "spanishSpan": "la pura ordenará"
+    }
+  ],
+  "notes": "את no se vierte; lámparas, delante de Jehová y siempre cubren plural, לִפְנֵי, יהוה y תָּמִיד.",
+  "discardedUncitedFindings": 0
+}

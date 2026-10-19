@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:14",
+  "chapter": 13,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "a vara de Neftalí, Najbi hijo de Vofsi;",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04013014001"
+      ],
+      "issue": "H4294 in construct is open between staff/rod and tribe; vara selects only the staff sense.",
+      "spanishSpan": "vara"
+    }
+  ],
+  "notes": "a matches the preposition, de the construct, Neftalí the locked name, and Najbi hijo de Vofsi the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

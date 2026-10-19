@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:3",
+  "chapter": 2,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo restante desde la minjá a Aarón y a sus hijos; santidad de santidades desde ofrendas de fuego de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002003003"
+      ],
+      "issue": "minjá leaves common noun H4503 untranslated; common nouns stay Spanish",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03002003001"
+      ],
+      "issue": "feminine singular niphal participle is smoothed to neuter lo restante",
+      "spanishSpan": "lo restante"
+    }
+  ],
+  "notes": "Remainder, recipients, holiness construct, fire-offering construct, and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

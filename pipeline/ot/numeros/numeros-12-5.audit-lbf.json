@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 12:5",
+  "chapter": 12,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y descendió Jehová en columna de nube, y se paró a abertura de la tienda, y llamó a Aarón y a Miryam, y salieron los dos de ellos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04012005005",
+        "h04012005006",
+        "h04012005007"
+      ],
+      "issue": "Qal «stood» plus construct «opening of the tent» is smoothed as pronominal «se paró» plus preposition «a»; the construct head also lacks the Spanish article licensed by the definite tent.",
+      "spanishSpan": "se paró a abertura de la tienda"
+    }
+  ],
+  "notes": "Descent, pillar of cloud, call to Aarón and Miryam, and the two of them going out match the tokens.",
+  "discardedUncitedFindings": 0
+}

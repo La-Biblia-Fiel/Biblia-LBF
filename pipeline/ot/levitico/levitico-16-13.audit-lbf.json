@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:13",
+  "chapter": 16,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y dará el incienso sobre el fuego delante de Jehová, y cubrirá nube del incienso la kappóret que sobre el testimonio, y no morirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016013008",
+        "h03016013009",
+        "h03016013011",
+        "h03016013012"
+      ],
+      "issue": "cubrirá sigue al agente de dará; el sujeto es la nube y את marca la kappóret como objeto cubierto",
+      "spanishSpan": "cubrirá nube del incienso la kappóret"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016013012"
+      ],
+      "issue": "kappóret translitera un sustantivo común, no un nombre propio",
+      "spanishSpan": "kappóret"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016013009",
+        "h03016013010"
+      ],
+      "issue": "nube va indefinida; la cadena constructa con הַקְּטֹרֶת definido es definida",
+      "spanishSpan": "nube del incienso"
+    }
+  ],
+  "notes": "que sobre el testimonio conserva el relativo verbless אשר על העדות.",
+  "discardedUncitedFindings": 0
+}

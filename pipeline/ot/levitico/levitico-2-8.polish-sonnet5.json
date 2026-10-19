@@ -1,0 +1,79 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 2:8",
+  "chapter": 2,
+  "verse": 8,
+  "sourceDraft": "Y traerás la minjá que será hecha desde estas a Jehová, y la acercará al sacerdote, y la acercará al altar.",
+  "spanish": "Y traerás la ofrenda que será hecha desde estas a Jehová, y la presentará al sacerdote, y la acercará al altar.",
+  "units": [
+    {
+      "es": "Y traerás",
+      "sourceTokenIds": [
+        "h03002008001"
+      ]
+    },
+    {
+      "es": "la ofrenda",
+      "sourceTokenIds": [
+        "h03002008002",
+        "h03002008003"
+      ]
+    },
+    {
+      "es": "que será hecha",
+      "sourceTokenIds": [
+        "h03002008004",
+        "h03002008005"
+      ]
+    },
+    {
+      "es": "desde estas",
+      "sourceTokenIds": [
+        "h03002008006"
+      ]
+    },
+    {
+      "es": "a Jehová",
+      "sourceTokenIds": [
+        "h03002008007"
+      ]
+    },
+    {
+      "es": "y la presentará",
+      "sourceTokenIds": [
+        "h03002008008"
+      ]
+    },
+    {
+      "es": "al sacerdote",
+      "sourceTokenIds": [
+        "h03002008009",
+        "h03002008010"
+      ]
+    },
+    {
+      "es": "y la acercará",
+      "sourceTokenIds": [
+        "h03002008011"
+      ]
+    },
+    {
+      "es": "al altar",
+      "sourceTokenIds": [
+        "h03002008012",
+        "h03002008013"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "minjá replaced with Spanish common noun ofrenda (H4503 fail finding).",
+    "Gave H7126 its own verb (presentará) instead of reusing acercará, so it reads distinctly from H5066's acercará (warn finding)."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose presentará for H7126 and kept acercará for H5066 so the two distinct hiphil verbs no longer share one Spanish word.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:6",
+  "chapter": 3,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Acerca la vara de Leví, y harás parar a él delante de Aarón el sacerdote, y servirán a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003006003"
+      ],
+      "issue": "«vara» cierra מַטֵּה (H4294) como instrumento físico. El lema deja abiertos vara y tribu; la morfología (sustantivo común masculino singular constructo) no elige el instrumento.",
+      "spanishSpan": "vara"
+    }
+  ],
+  "notes": "Lo demás conserva persona, número, hiphil/piel y los dos אֹתוֹ.",
+  "discardedUncitedFindings": 0
+}

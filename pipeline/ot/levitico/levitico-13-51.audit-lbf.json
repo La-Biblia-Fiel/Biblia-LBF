@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:51",
+  "chapter": 13,
+  "verse": 51,
+  "candidateLabel": "lbf",
+  "spanish": "Y verá la plaga en el día el séptimo: cuando se extendió la plaga en el vestido o en la urdimbre o en la trama o en la piel, a todo lo que se haga la piel a obra, tsaráat maligna la plaga; impura ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013051021"
+      ],
+      "issue": "Common noun צָרַעַת is left as the untranslated form tsaráat.",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013051006"
+      ],
+      "issue": "כִּי is marked only as a conjunction; cuando selects a temporal sense.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013051024",
+        "h03013051025"
+      ],
+      "issue": "Masculine adjective and 3ms pronoun are feminine, smoothed to Spanish plaga.",
+      "spanishSpan": "impura ella"
+    }
+  ],
+  "notes": "The rest tracks the tokens, including the verbless predication and the niphal.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:16",
+  "chapter": 2,
+  "verse": 16,
+  "candidateLabel": "pulir",
+  "spanish": "Y hará humear el sacerdote su memorial desde su grano triturado y desde su aceite, sobre todo su incienso; ofrenda de fuego a Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03002016007",
+        "h03002016008"
+      ],
+      "issue": "«sobre todo» is the ordinary Spanish idiom «especially», so עַל plus כָּל («upon» + «all») can be read as one adverb instead of a preposition over all of the frankincense.",
+      "spanishSpan": "sobre todo"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens: hiphil 3ms, the priest, her memorial, from her crushed grain and from her oil, frankincense, fire-offering, to Jehová.",
+  "discardedUncitedFindings": 0
+}

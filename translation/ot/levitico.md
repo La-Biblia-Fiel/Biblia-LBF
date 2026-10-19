@@ -11,7 +11,7 @@ Y llamó a Moisés, y habló Jehová a él desde tienda de reunión, diciendo:
 
 ### 1:2
 
-Habla a hijos de Israel, y dirás a ellos: Adam, cuando acerque de ustedes ofrenda a Jehová, desde la bestia, desde el ganado y desde el rebaño, acercarán su ofrenda.
+Habla a los hijos de Israel, y dirás a ellos: Hombre, cuando acerque de ustedes una ofrenda a Jehová, desde la bestia, desde el ganado y desde el rebaño, acercarán su ofrenda.
 
 ### 1:3
 
@@ -35,11 +35,11 @@ Y darán hijos de Aarón el sacerdote fuego sobre el altar, y ordenarán leños 
 
 ### 1:8
 
-Y ordenarán hijos de Aarón, los sacerdotes, los cuartos, la cabeza y el sebo, sobre los leños que sobre el fuego que sobre el altar.
+Y ordenarán hijos de Aarón, los sacerdotes, los trozos, la cabeza y el sebo, sobre los leños que sobre el fuego que sobre el altar.
 
 ### 1:9
 
-Y su interior y sus piernas lavará en las aguas, y hará humear el sacerdote el todo hacia el altar; holocausto, ofrenda de fuego, olor de reposo a Jehová.
+Y su interior y sus piernas lavará en las aguas, y hará humear el sacerdote el todo hacia el altar; holocausto, ofrenda de fuego de olor de reposo a Jehová.
 
 ### 1:10
 
@@ -47,15 +47,15 @@ Y si desde el rebaño su ofrenda, desde los corderos o desde las cabras, a holoc
 
 ### 1:11
 
-Y lo degollará sobre muslo del altar, Tsafónah, delante de Jehová, y echarán hijos de Aarón, los sacerdotes, su sangre sobre el altar alrededor.
+Y lo degollará sobre muslo del altar, hacia el norte, delante de Jehová, y echarán hijos de Aarón, los sacerdotes, su sangre sobre el altar alrededor.
 
 ### 1:12
 
-Y lo descuartizará a sus cuartos, y su cabeza y su sebo, y ordenará el sacerdote a ellos sobre los leños que sobre el fuego que sobre el altar.
+Y lo cortará en sus piezas, y su cabeza y su sebo, y el sacerdote los acomodará sobre los leños que sobre el fuego que sobre el altar.
 
 ### 1:13
 
-Y el interior y las piernas lavará en las aguas, y acercará el sacerdote el todo, y hará humear hacia el altar; holocausto él, ofrenda de fuego, olor de reposo a Jehová.
+Y el interior y las dos piernas lavará en las aguas, y acercará el sacerdote el todo, y hará humear hacia el altar; holocausto él, ofrenda de fuego de olor de reposo a Jehová.
 
 ### 1:14
 
@@ -63,21 +63,21 @@ Y si desde el ave holocausto su ofrenda a Jehová, y acercará desde las tórtol
 
 ### 1:15
 
-Y lo acercará el sacerdote al altar, y le torcerá la cabeza, y hará humear hacia el altar, y será exprimida su sangre sobre pared del altar.
+Y lo acercará el sacerdote al altar, y le arrancará la cabeza, y hará humear hacia el altar, y será exprimida su sangre sobre la pared del altar.
 
 ### 1:16
 
-Y quitará su buche con su pluma, y lo arrojará junto al altar, kedmah, a lugar de la ceniza.
+Y quitará su buche con su pluma, y lo arrojará junto al altar, hacia el oriente, al lugar de la ceniza.
 
 ### 1:17
 
-Y lo rasgará en sus alas; no separará. Y hará humear a él el sacerdote hacia el altar, sobre los leños que sobre el fuego; holocausto él, ofrenda de fuego, olor de reposo a Jehová.
+Y lo rasgará en sus alas; no separará. Y hará humear a él el sacerdote hacia el altar, sobre los leños que sobre el fuego; holocausto él, ofrenda de fuego de olor de reposo a Jehová.
 
 ## Capítulo 2
 
 ### 2:1
 
-Y alma, cuando acerque ofrenda de minjá a Jehová, sólet será su ofrenda, y derramará sobre ella aceite, y dará sobre ella incienso.
+Y alma, cuando acerque ofrenda de oblación a Jehová, harina fina será su ofrenda, y derramará sobre ella aceite, y dará sobre ella incienso.
 
 ### 2:2
 
@@ -85,7 +85,7 @@ Y la traerá a hijos de Aarón, los sacerdotes, y tomará de allí lleno su puñ
 
 ### 2:3
 
-Y lo restante desde la minjá a Aarón y a sus hijos; santidad de santidades desde ofrendas de fuego de Jehová.
+Y la restante desde la ofrenda a Aarón y a sus hijos; santidad de santidades desde ofrendas de fuego de Jehová.
 
 ### 2:4
 
@@ -93,51 +93,51 @@ Y cuando acerques ofrenda de minjá, cocido de horno, sólet, tortas ázimas ama
 
 ### 2:5
 
-Y si minjá sobre la plancha tu ofrenda, sólet amasada en el aceite, ázima será.
+Y si oblación sobre la plancha tu ofrenda, harina fina mezclada en el aceite, ázima será.
 
 ### 2:6
 
-La partirás a pedazos, y derramarás sobre ella aceite; minjá ella.
+La partirás a pedazos, y derramarás sobre ella aceite; ofrenda *es* ella.
 
 ### 2:7
 
-Y si minjá de sartén tu ofrenda, sólet en el aceite será hecha.
+Y si oblación de sartén tu ofrenda, harina fina en el aceite será hecha.
 
 ### 2:8
 
-Y traerás la minjá que será hecha desde estas a Jehová, y la acercará al sacerdote, y la acercará al altar.
+Y traerás la ofrenda que será hecha desde estas a Jehová, y la presentará al sacerdote, y la acercará al altar.
 
 ### 2:9
 
-Y alzará el sacerdote desde la minjá su memorial, y hará humear hacia el altar; ofrenda de fuego, olor de reposo a Jehová.
+Y alzará el sacerdote desde la ofrenda su memorial, y hará humear hacia el altar; ofrenda de fuego de olor de reposo a Jehová.
 
 ### 2:10
 
-Y lo restante desde la minjá a Aarón y a sus hijos; santidad de santidades desde ofrendas de fuego de Jehová.
+Y lo restante desde la ofrenda a Aarón y a sus hijos; santidad de santidades desde ofrendas de fuego de Jehová.
 
 ### 2:11
 
-Toda la minjá que acercarán a Jehová no será hecha leudado, porque toda levadura y toda miel no harán humear desde ella ofrenda de fuego a Jehová.
+Toda la ofrenda que acercarán a Jehová no será hecha con leudado, porque toda levadura y toda miel no harán humear desde nosotros ofrenda de fuego a Jehová.
 
 ### 2:12
 
-Ofrenda de principio las acercarán a Jehová, y al altar no subirán a olor de reposo.
+Ofrenda de principio las acercarán a Jehová, y al altar ellas no subirán a olor de reposo.
 
 ### 2:13
 
-Y toda ofrenda de tu minjá con sal salarás, y no harás cesar sal de pacto de tu Dios de sobre tu minjá; sobre toda tu ofrenda acercarás sal.
+Y toda ofrenda de tu oblación con la sal salarás, y no harás cesar sal de pacto de tu Dios de sobre tu oblación; sobre toda tu ofrenda acercarás sal.
 
 ### 2:14
 
-Y si acerques minjá de primicias a Jehová, Aviv tostado en el fuego, grosero de karmel acercarás la minjá de tus primicias.
+Y si acercas ofrenda de primicias a Jehová, espiga tierna tostada en el fuego, grano triturado de espiga fresca acercarás la ofrenda de tus primicias.
 
 ### 2:15
 
-Y darás sobre ella aceite, y pondrás sobre ella incienso; minjá ella.
+Y darás sobre ella aceite, y pondrás sobre ella incienso; ofrenda *es* ella.
 
 ### 2:16
 
-Y hará humear el sacerdote su memorial desde su grosero y desde su aceite, sobre todo su incienso; ofrenda de fuego a Jehová.
+Y hará humear el sacerdote su memorial desde su grano triturado y desde su aceite, sobre todo su incienso; ofrenda de fuego a Jehová.
 
 ## Capítulo 3
 
@@ -155,11 +155,11 @@ Y acercará desde sacrificio de los pazes ofrenda de fuego a Jehová: la grasa l
 
 ### 3:4
 
-y los dos los riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones la quitará.
+y los dos riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones lo quitará.
 
 ### 3:5
 
-Y harán humear a él hijos de Aarón hacia el altar, sobre el holocausto que sobre los leños que sobre el fuego; ofrenda de fuego, olor de reposo a Jehová.
+Y harán humear a él hijos de Aarón hacia el altar, sobre el holocausto que sobre los leños que sobre el fuego; ofrenda de fuego de olor de reposo a Jehová.
 
 ### 3:6
 
@@ -187,11 +187,11 @@ Y lo hará humear el sacerdote hacia el altar; pan de ofrenda de fuego a Jehová
 
 ### 3:12
 
-Y si cabra su ofrenda, y la acercará delante de Jehová.
+Y si cabra *es* su ofrenda, y la acercará delante de Jehová.
 
 ### 3:13
 
-Y apoyará su mano sobre su cabeza, y la degollará delante de tienda de reunión, y echarán hijos de Aarón su sangre sobre el altar alrededor.
+Y apoyará su mano sobre su cabeza, y lo degollará delante de tienda de reunión, y echarán hijos de Aarón su sangre sobre el altar alrededor.
 
 ### 3:14
 
@@ -237,7 +237,7 @@ Y mojará el sacerdote su dedo en la sangre, y rociará desde la sangre siete ve
 
 ### 4:7
 
-Y dará el sacerdote desde la sangre sobre cuernos de altar de incienso de los aromas delante de Jehová que en tienda de reunión, y toda sangre del toro derramará a base de altar del holocausto que a abertura de tienda de reunión.
+Y dará el sacerdote desde la sangre sobre cuernos de altar de incienso de los aromas delante de Jehová que en tienda de reunión, y toda sangre del toro derramará a base de altar del holocausto que abertura de tienda de reunión.
 
 ### 4:8
 
@@ -249,7 +249,7 @@ y los dos los riñones y la grasa que sobre ellos, que sobre los lomos, y el ló
 
 ### 4:10
 
-conforme a lo que se alza desde toro de sacrificio de los pazes; y los hará humear el sacerdote sobre altar del holocausto.
+conforme a lo que se alza desde toro de sacrificio de las paces; y los hará humear el sacerdote sobre altar del holocausto.
 
 ### 4:11
 
@@ -261,7 +261,7 @@ y sacará todo el toro a fuera al campamento, a lugar puro, a derrame de la ceni
 
 ### 4:13
 
-Y si toda congregación de Israel errare, y se ocultare cosa desde ojos de la asamblea, e hicieren una desde todos mandamientos de Jehová que no se harán, y culpados:
+Y si toda congregación de Israel erraren, y se ocultare cosa desde ojos de la asamblea, e hicieren una desde todos mandamientos de Jehová que no se harán, y serán culpados:
 
 ### 4:14
 
@@ -277,7 +277,7 @@ Y traerá el sacerdote el ungido desde sangre del toro a tienda de reunión.
 
 ### 4:17
 
-Y mojará el sacerdote su dedo desde la sangre, y rociará siete veces delante de Jehová, faces de la parójet.
+Y sumergirá el sacerdote su dedo desde la sangre, y rociará siete veces delante de Jehová, ante faces del velo.
 
 ### 4:18
 
@@ -285,7 +285,7 @@ Y desde la sangre dará sobre cuernos del altar que delante de Jehová que en ti
 
 ### 4:19
 
-Y toda su grasa alzará desde él, y hará humear hacia el altar.
+Y toda su grasa alzará desde nosotros, y hará humear hacia el altar.
 
 ### 4:20
 
@@ -297,11 +297,11 @@ Y sacará el toro a fuera al campamento, y lo quemará conforme a lo que quemó 
 
 ### 4:22
 
-Que príncipe pecare, e hiciere una desde todos mandamientos de Jehová su Dios que no se harán, por error, y culpado:
+Que príncipe pecare, e hiciere una de todos los mandamientos de Jehová su Dios que no se harán, por error, y fuere culpable:
 
 ### 4:23
 
-o se le hiciere saber su pecado que pecó en ella, y traerá su ofrenda, macho cabrío de cabras, macho íntegro.
+o se le hubiere hecho saber su pecado que pecó en ella, y traerá su ofrenda, macho cabrío de cabras, macho íntegro.
 
 ### 4:24
 
@@ -317,15 +317,15 @@ Y toda su grasa hará humear hacia el altar, como grasa de sacrificio de los paz
 
 ### 4:27
 
-Y si alma una pecare por error desde pueblo de la tierra, en su hacer una desde mandamientos de Jehová que no se harán, y culpado:
+Y si alma una pecare en error desde pueblo de la tierra, en su hacer una desde mandamientos de Jehová que no se harán, y será culpable:
 
 ### 4:28
 
-o se le hiciere saber su pecado que pecó, y traerá su ofrenda, cabra de cabras íntegra, hembra, sobre su pecado que pecó.
+o se le hizo saber su pecado que pecó, y traerá su ofrenda, cabra de cabras íntegra, hembra, sobre su pecado que pecó.
 
 ### 4:29
 
-Y apoyará su mano sobre cabeza del pecado, y degollará el pecado en lugar del holocausto.
+Y apoyará su mano sobre la cabeza del pecado, y degollará el pecado en el lugar del holocausto.
 
 ### 4:30
 
@@ -367,11 +367,11 @@ O cuando tocare en impureza de adam, a toda su impureza que se impure en ella, y
 
 ### 5:4
 
-O alma, cuando jurare a pronunciar con labios a hacer mal o a hacer bien, a todo lo que pronunciare el adam en juramento, y se ocultare desde él, y él conociere, y culpado a una desde estas.
+O alma, cuando jurare a pronunciar con labios a hacer mal o a hacer bien, a todo lo que pronunciare el hombre en juramento, y se ocultare desde nosotros, y él hubiere conocido, y *será* culpado a una desde estas.
 
 ### 5:5
 
-Y será cuando culpado a una desde estas, y confesará que pecó sobre ella.
+Y será cuando será culpable a una desde estas, y confesará que pecó sobre ella.
 
 ### 5:6
 
@@ -403,7 +403,7 @@ Y la traerá al sacerdote, y tomará el sacerdote desde ella lleno su puño, su 
 
 ### 5:13
 
-Y expiará sobre él el sacerdote sobre su pecado que pecó desde una desde estas, y será perdonado a él; y será al sacerdote como la minjá.
+Y expiará sobre él el sacerdote sobre su pecado que pecó desde una desde estas, y será perdonado a él; y será al sacerdote como la ofrenda.
 
 ### 5:14
 
@@ -411,7 +411,7 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 5:15
 
-Alma, cuando perpetrare perpetración, y pecare por error desde santidades de Jehová, y traerá su culpa a Jehová, carnero íntegro desde el rebaño, en tu valoración plata siclos en siclo de la santidad, a culpa.
+Alma, cuando prevaricare prevaricación, y pecare por error desde santidades de Jehová, y traerá su culpa a Jehová, carnero íntegro desde el rebaño, en tu valoración plata siclos en siclo de la santidad, a culpa.
 
 ### 5:16
 
@@ -437,11 +437,11 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 6:2
 
-Alma, cuando pecare y perpetrare perpetración en Jehová, y mintiere en su compañero en depósito, o en puesta de mano, o en robo, o oprimiere a su compañero,
+Alma, cuando pecare y prevaricare prevaricación en Jehová, y mintiere en su compañero en depósito, o en puesta de mano, o en robo, o oprimiere a su compañero,
 
 ### 6:3
 
-o hallare pérdida y mintiere en ella, y jurare sobre mentira, sobre una desde todo lo que hiciere el adam a pecar en ellas:
+o hallare pérdida y mintiere en ella, y jurare sobre mentira, sobre una desde todo lo que hiciere el hombre a pecar en ellas:
 
 ### 6:4
 
@@ -457,7 +457,7 @@ Y su culpa traerá a Jehová, carnero íntegro desde el rebaño, en tu valoraci�
 
 ### 6:7
 
-Y expiará sobre él el sacerdote delante de Jehová, y será perdonado a él, sobre una desde todo lo que hiciere a culpa en ella.
+Y expiará sobre él el sacerdote delante de Jehová, y será perdonado a él, sobre una de todo lo que hiciere a culpa en ella.
 
 ### 6:8
 
@@ -469,7 +469,7 @@ Manda a Aarón y a sus hijos, diciendo: Esta torá del holocausto; ella el holoc
 
 ### 6:10
 
-Y vestirá el sacerdote su vestido de lino, y calzones de lino vestirá sobre su carne, y alzará la ceniza que comió el fuego el holocausto sobre el altar, y la pondrá junto al altar.
+Y vestirá el sacerdote su vestido de lino, y calzones de lino vestirá sobre su carne, y alzará la ceniza que come el fuego el holocausto sobre el altar, y la pondrá junto al altar.
 
 ### 6:11
 
@@ -481,7 +481,7 @@ Y el fuego sobre el altar arderá en él; no se apagará. Y quemará sobre él e
 
 ### 6:13
 
-Fuego continuo arderá sobre el altar; no se apagará.
+Fuego continuamente se hará arder sobre el altar; no se apagará.
 
 ### 6:14
 
@@ -489,11 +489,11 @@ Y esta torá de la minjá: acercarán a ella hijos de Aarón delante de Jehová,
 
 ### 6:15
 
-Y alzará desde ella en su puño desde sólet de la minjá y desde su aceite, y todo el incienso que sobre la minjá, y hará humear el altar olor de reposo, su memorial a Jehová.
+Y alzará desde nosotros en su puño desde harina fina de la ofrenda y desde su aceite, y todo el incienso que sobre la ofrenda, y hará humear el altar olor de reposo, su memorial a Jehová.
 
 ### 6:16
 
-Y lo restante desde ella comerán Aarón y sus hijos; ázimos será comido en lugar santo; en atrio de tienda de reunión la comerán.
+Y la restante desde ella comerán Aarón y sus hijos; ázimos será comido en lugar santo; en el atrio de tienda de reunión la comerán.
 
 ### 6:17
 
@@ -509,19 +509,19 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 6:20
 
-Esta ofrenda de Aarón y sus hijos que acercarán a Jehová en día de ser ungido él: décima del efa sólet, minjá continua; su mitad en la mañana y su mitad en la tarde.
+Esta ofrenda de Aarón y sus hijos que acercarán a Jehová en día de ser ungido él: décima del efa, flor de harina, ofrenda continua; su mitad en la mañana y su mitad en la tarde.
 
 ### 6:21
 
-Sobre plancha en el aceite será hecha; remojada la traerás; cocidos de minjá de pedazos acercarás, olor de reposo a Jehová.
+Sobre plancha en el aceite será hecha; mezclada la traerás; piezas horneadas de ofrenda de pedazos acercarás, olor de reposo a Jehová.
 
 ### 6:22
 
-Y el sacerdote el ungido debajo de él desde sus hijos hará a ella; estatuto de siempre a Jehová; entera será hecha humear.
+Y el sacerdote, el ungido, debajo de él desde sus hijos hará a ella; estatuto de siempre a Jehová; entera será hecha humear.
 
 ### 6:23
 
-Y toda minjá de sacerdote entera será; no será comida.
+Y toda ofrenda de sacerdote entera será; no será comida.
 
 ### 6:24
 
@@ -529,7 +529,7 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 6:25
 
-Habla a Aarón y a sus hijos, diciendo: Esta torá del pecado; en lugar que se degüella el holocausto se degollará el pecado delante de Jehová; santidad de santidades ella.
+Habla a Aarón y a sus hijos, diciendo: Esta *es* la ley del pecado; en lugar que se degollará el holocausto se degollará el pecado delante de Jehová; santidad de santidades ella.
 
 ### 6:26
 
@@ -555,7 +555,7 @@ Y todo pecado que se trajere desde su sangre a tienda de reunión para expiar en
 
 ### 7:1
 
-Y esta torá de la culpa; santidad de santidades ella.
+Y esta ley de la culpa; santidad de santidades él.
 
 ### 7:2
 
@@ -571,15 +571,15 @@ y los dos los riñones y la grasa que sobre ellos, que sobre los lomos, y el ló
 
 ### 7:5
 
-Y hará humear a ellos el sacerdote hacia el altar; ofrenda de fuego a Jehová; culpa ella.
+Y hará humear a ellos el sacerdote hacia el altar; ofrenda de fuego a Jehová; culpa él.
 
 ### 7:6
 
-Todo macho en los sacerdotes la comerá; en lugar santo será comida; santidad de santidades ella.
+Todo macho en los sacerdotes lo comerá; en lugar santo será comido; santidad de santidades él.
 
 ### 7:7
 
-Como el pecado, como la culpa, torá una a ellos; el sacerdote que expiará en él, a él será.
+Como pecado, como culpa, una ley a ellos; el sacerdote que expiará en él, a él será.
 
 ### 7:8
 
@@ -591,11 +591,11 @@ Y toda minjá que se cocinare en el horno, y toda hecha en la sartén y sobre pl
 
 ### 7:10
 
-Y toda minjá amasada en el aceite y seca, a todos hijos de Aarón será, varón como su hermano.
+Y toda ofrenda mezclada en el aceite y seca, a todos hijos de Aarón será, varón como su hermano.
 
 ### 7:11
 
-Y esta torá de sacrificio de los pazes que acercará a Jehová.
+Y esta ley de sacrificio de las paces que acercará a Jehová.
 
 ### 7:12
 
@@ -603,7 +603,7 @@ Si sobre agradecimiento lo acercare, y acercará sobre sacrificio del agradecimi
 
 ### 7:13
 
-Sobre tortas de pan leudado acercará su ofrenda, sobre sacrificio de agradecimiento de sus pazes.
+Sobre tortas de pan de levadura acercará su ofrenda, sobre sacrificio: agradecimiento de sus ofrendas de paz.
 
 ### 7:14
 
@@ -647,7 +647,7 @@ Habla a hijos de Israel, diciendo: Toda grasa de toro y cordero y cabra no comer
 
 ### 7:24
 
-Y grasa de cadáver y grasa de despedazado se hará a toda obra, y comiendo no la comerán.
+Y grasa de cadáver y grasa de despedazado se hará a toda obra, y de ningún modo la comerán.
 
 ### 7:25
 
@@ -683,15 +683,15 @@ Y pierna de la derecha darán ofrenda alzada al sacerdote desde sacrificios de s
 
 ### 7:33
 
-El acercante sangre de los pazes y la grasa desde hijos de Aarón, a él será pierna de la derecha a porción.
+El acercante sangre de los sacrificios de paz y la grasa desde hijos de Aarón, a él será pierna de la derecha a porción.
 
 ### 7:34
 
-Porque pecho del balanceo y pierna de la ofrenda tomé de parte de hijos de Israel desde sacrificios de sus pazes, y los di a Aarón el sacerdote y a sus hijos a estatuto de siempre de parte de hijos de Israel.
+Porque pecho del balanceo y pierna de la ofrenda tomé de hijos de Israel desde sacrificios de sus ofrendas de paz, y los di a Aarón el sacerdote y a sus hijos a estatuto de siempre de hijos de Israel.
 
 ### 7:35
 
-Esta unción de Aarón y unción de sus hijos desde ofrendas de fuego de Jehová, en día de acercar a ellos para sacerdotear a Jehová,
+Esta unción de Aarón y unción de sus hijos desde ofrendas de fuego de Jehová, en día en que acercó a ellos para sacerdotear a Jehová,
 
 ### 7:36
 
@@ -713,7 +713,7 @@ Y habló Jehová a Moisés, diciendo:
 
 ### 8:2
 
-Toma a Aarón y a sus hijos con él, y los vestidos y el aceite de la unción, y toro del pecado y los dos los carneros, y canasta de los ázimos.
+Toma a Aarón y a sus hijos con él, y los vestidos y el aceite de la unción, y toro del pecado y los dos carneros, y canasta de los ázimos.
 
 ### 8:3
 
@@ -737,7 +737,7 @@ Y dio sobre él la túnica, y lo ciñó con el cinto, y lo vistió el manto, y d
 
 ### 8:8
 
-Y puso sobre él el joshen, y dio al joshen los urim y los tumim.
+Y puso sobre él el pectoral, y dio al pectoral las luces y las perfecciones.
 
 ### 8:9
 
@@ -749,7 +749,7 @@ Y tomó Moisés el aceite de la unción, y ungió el mishkán y todo lo que en �
 
 ### 8:11
 
-Y roció desde él sobre el altar siete veces, y ungió el altar y todos sus utensilios, y el lavatorio y su peana, para santificarlos.
+Y roció desde nosotros sobre el altar siete veces, y ungió el altar y todos sus utensilios, y el lavatorio y su peana, para santificarlos.
 
 ### 8:12
 
@@ -765,15 +765,15 @@ Y acercó toro del pecado, y apoyó Aarón y sus hijos sus manos sobre cabeza de
 
 ### 8:15
 
-Y degolló, y tomó Moisés la sangre, y dio sobre cuernos del altar alrededor en su dedo, y pecó el altar, y la sangre derramó a base del altar, y lo santificó para expiar sobre él.
+Y degolló, y tomó Moisés la sangre, y dio sobre cuernos del altar alrededor en su dedo, y purificó el altar, y la sangre derramó a base del altar, y lo santificó para expiar sobre él.
 
 ### 8:16
 
-Y tomó toda la grasa que sobre el interior, y el lóbulo del hígado, y los dos los riñones y su grasa, e hizo humear Moisés hacia el altar.
+Y tomó toda la grasa que sobre el interior, y el lóbulo del hígado, y los dos riñones y su grasa, e hizo humear Moisés hacia el altar.
 
 ### 8:17
 
-Y el toro y su piel y su carne y su estiércol quemó en el fuego a fuera al campamento, conforme a lo que mandó Jehová a Moisés.
+Y el toro y su piel y su carne y su estiércol quemó en el fuego fuera del campamento, conforme a lo que mandó Jehová a Moisés.
 
 ### 8:18
 
@@ -801,11 +801,11 @@ Y degolló, y tomó Moisés desde su sangre, y dio sobre lóbulo de oreja de Aar
 
 ### 8:24
 
-Y acercó a hijos de Aarón, y dio Moisés desde la sangre sobre lóbulo de su oreja la derecha, y sobre pulgar de su mano la derecha, y sobre pulgar de su pie el derecho, y echó Moisés la sangre sobre el altar alrededor.
+Y acercó a hijos de Aarón, y dio Moisés desde la sangre sobre lóbulo de su oreja la derecha, y sobre pulgar de su mano la derecha, y sobre dedo gordo de su pie el derecho, y echó Moisés la sangre sobre el altar alrededor.
 
 ### 8:25
 
-Y tomó la grasa y la cola y toda la grasa que sobre el interior, y el lóbulo del hígado, y los dos los riñones y su grasa, y pierna de la derecha.
+Y tomó la grasa y la cola y toda la grasa que *está* sobre el interior, y el lóbulo del hígado, y los dos riñones y su grasa, y la pierna de la derecha.
 
 ### 8:26
 
@@ -895,7 +895,7 @@ Y la grasa y los riñones y el lóbulo desde el hígado desde el pecado hizo hum
 
 ### 9:11
 
-Y la carne y la piel quemó en el fuego a fuera al campamento.
+Y la carne y la piel quemó en el fuego fuera al campamento.
 
 ### 9:12
 
@@ -903,7 +903,7 @@ Y degolló el holocausto, y presentaron hijos de Aarón a él la sangre, y la ec
 
 ### 9:13
 
-Y el holocausto presentaron a él a sus cuartos y la cabeza, e hizo humear sobre el altar.
+Y el holocausto presentaron a él a sus piezas y la cabeza, e hizo humear sobre el altar.
 
 ### 9:14
 
@@ -911,7 +911,7 @@ Y lavó el interior y las piernas, e hizo humear sobre el holocausto hacia el al
 
 ### 9:15
 
-Y acercó ofrenda del pueblo, y tomó macho cabrío del pecado que al pueblo, y lo degolló, y lo pecó como el primero.
+Y acercó ofrenda del pueblo, y tomó macho cabrío del pecado que al pueblo, y lo degolló, y lo hizo pecado como el primero.
 
 ### 9:16
 
@@ -919,7 +919,7 @@ Y acercó el holocausto, y lo hizo conforme al juicio.
 
 ### 9:17
 
-Y acercó la minjá, y llenó su palma desde ella, e hizo humear sobre el altar, aparte de holocausto de la mañana.
+Y acercó la ofrenda, y llenó su palma desde ella, e hizo humear sobre el altar, aparte del holocausto de la mañana.
 
 ### 9:18
 
@@ -2011,7 +2011,7 @@ Varón varón desde casa de Israel que degollare toro o cordero o cabra en el ca
 
 ### 17:4
 
-y a abertura de tienda de reunión no lo trajere para acercar ofrenda a Jehová delante de mishkán de Jehová, sangre será contada al varón aquel; sangre derramó, y será cortado el varón aquel desde medio de su pueblo.
+y a abertura de tienda de reunión no lo trajere para acercar ofrenda a Jehová delante del tabernáculo de Jehová, sangre será contada al varón aquel; sangre derramó, y será cortado el varón aquel desde medio de su pueblo.
 
 ### 17:5
 
@@ -3357,7 +3357,7 @@ Y recordaré a ellos pacto de primeros, que saqué a ellos desde tierra de Egipt
 
 ### 26:46
 
-Estos los estatutos y los juicios y las torot que dio Jehová entre él y entre hijos de Israel en monte Sinai en mano de Moisés.
+Estos los estatutos y los juicios y las leyes que dio Jehová entre él y entre hijos de Israel en monte Sinai en mano de Moisés.
 
 ## Capítulo 27
 

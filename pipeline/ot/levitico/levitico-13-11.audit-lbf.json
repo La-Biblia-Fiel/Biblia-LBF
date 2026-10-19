@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:11",
+  "chapter": 13,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Tsaráat vieja ella en piel de su carne, y lo impurecerá el sacerdote; no lo encerrará, porque impuro él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013011001"
+      ],
+      "issue": "Common noun (feminine singular absolute) is dumped as the transliteration Tsaráat; a non-name lemma stays Spanish.",
+      "spanishSpan": "Tsaráat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013011002"
+      ],
+      "issue": "Niphal participle feminine singular is smoothed to the adjective vieja; feminine gender and the old sense remain.",
+      "spanishSpan": "vieja"
+    }
+  ],
+  "notes": "Ella/lo/él, piel de su carne, piel sequential, el sacerdote, and hiphil no lo encerrará match the tokens.",
+  "discardedUncitedFindings": 0
+}

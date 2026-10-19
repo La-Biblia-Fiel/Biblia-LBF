@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 3:15",
+  "chapter": 3,
+  "verse": 15,
+  "candidateLabel": "pulir",
+  "spanish": "y los dos riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones la quitará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03003015017",
+        "h03003015012",
+        "h03003015005"
+      ],
+      "issue": "The Hiphil suffix is 3fs and resumes the feminine singular appendage (the fat is masculine). Spanish la agrees with la grasa and cannot resume masculine el lóbulo.",
+      "spanishSpan": "la quitará"
+    }
+  ],
+  "notes": "The rest matches the tokens: two kidneys, fat, both relatives, upon them and upon the loins, appendage upon the liver, upon the kidneys, Hiphil imperfect 3ms.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:9",
+  "chapter": 4,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomarán vestido de azul y cubrirán la menorá de la lumbrera y sus lámparas y sus despabiladeras y sus braseros y todos utensilios de su aceite con que servirán a ella en ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004009018",
+        "h04004009021"
+      ],
+      "issue": "אֲשֶׁר is a bare relative and בָּהֶם is one preposition plus 3mp suffix (in/with them). Spanish uses both instrumental «con que» and locative «en ellos», so the single ב is split into two relations.",
+      "spanishSpan": "con que servirán a ella en ellos"
+    }
+  ],
+  "notes": "Remaining clauses match take, garment of blue, cover, lampstand of the luminary, her lamps, dual snuffers, her firepans, all oil vessels, and 3pl piel serve to her.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:16",
+  "chapter": 3,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y los contó Moisés sobre boca de Jehová, conforme a lo que fue mandado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003016007",
+        "h04003016008"
+      ],
+      "issue": "Pual 3ms צֻוָּה has a masculine singular subject, the one commanded. «lo que fue mandado» makes a neuter content-thing the patient, so the participant who undergoes the command changes.",
+      "spanishSpan": "lo que fue mandado"
+    }
+  ],
+  "notes": "Y los contó Moisés sobre boca de Jehová matches the wayyiqtol, 3mp object, name, and על־פי יהוה.",
+  "discardedUncitedFindings": 0
+}

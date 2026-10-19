@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:3",
+  "chapter": 5,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "O cuando tocare en impureza de adam, a toda su impureza que se impure en ella, y se ocultare desde él, y él conociere, y culpado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005003005"
+      ],
+      "issue": "אָדָם is a common noun (absolute), left untranslated as adam.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005003012"
+      ],
+      "issue": "Suffix is 1st common plural; desde él is 3rd masculine singular.",
+      "spanishSpan": "desde él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03005003015"
+      ],
+      "issue": "Qal sequential perfect 3ms is a bare participle; culpado can read as passive blamed and drops the finite verb.",
+      "spanishSpan": "culpado"
+    }
+  ],
+  "notes": "או כי, the qal touch/become-unclean chain, niphal concealment, and explicit הוא track; subjunctive mood is smoothing.",
+  "discardedUncitedFindings": 0
+}

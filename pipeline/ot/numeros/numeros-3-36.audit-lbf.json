@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:36",
+  "chapter": 3,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuenta de guarda de hijos de Merarí: tablas del mishkán y sus travesaños y sus columnas y sus basas y todos sus utensilios y todo su servicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003036006"
+      ],
+      "issue": "הַמִּשְׁכָּן is a definite common noun (H4908), left as the transliteration mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04003036001"
+      ],
+      "issue": "cuenta narrows פְּקֻדָּה (oversight, charge, visitation, or numbering) to a numerical account.",
+      "spanishSpan": "cuenta"
+    }
+  ],
+  "notes": "Other tokens match in conjunction, number, 3ms suffix, and the name Merarí.",
+  "discardedUncitedFindings": 0
+}

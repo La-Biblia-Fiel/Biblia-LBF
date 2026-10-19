@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:8",
+  "chapter": 5,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y los traerá al sacerdote, y acercará el que al pecado primero, y le torcerá la cabeza desde frente a su nuca, y no separará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005008005",
+        "h03005008007",
+        "h03005008008",
+        "h03005008009"
+      ],
+      "issue": "ל belongs inside the verbless relative (the one that is for the sin, first). «acercará el que al pecado» reads as bringing that one to the sin, so the preposition becomes the goal of הקריב.",
+      "spanishSpan": "acercará el que al pecado primero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005008010",
+        "h03005008012"
+      ],
+      "issue": "Qal מלק licenses nipping or pinching off the head. «torcerá» substitutes twisting and omits that action.",
+      "spanishSpan": "torcerá"
+    }
+  ],
+  "notes": "Plural object, priest, nape, and negated hiphil with no added object stay licensed.",
+  "discardedUncitedFindings": 0
+}

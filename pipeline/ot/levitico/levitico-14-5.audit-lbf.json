@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:5",
+  "chapter": 14,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y mandará el sacerdote, y degollará el pájaro el uno a utensilio de barro sobre aguas vivas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014005003"
+      ],
+      "issue": "«degollará» añade corte de garganta o cuello; el qal de H7819 licencia matanza/muerte sin token de garganta ni de método.",
+      "spanishSpan": "degollará"
+    }
+  ],
+  "notes": "El resto del versículo sigue los tokens: orden, sacerdote, pájaro único, אל, utensilio de barro, sobre aguas vivas.",
+  "discardedUncitedFindings": 0
+}

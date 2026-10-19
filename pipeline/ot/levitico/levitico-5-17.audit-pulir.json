@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:17",
+  "chapter": 5,
+  "verse": 17,
+  "candidateLabel": "pulir",
+  "spanish": "Y si alma cuando pecare, e hiciere una de todos los mandamientos de Jehová que no se harán, y no conoció, y *será* culpado, y llevará su iniquidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005017015"
+      ],
+      "issue": "Qal sequential perfect 3ms (simple stem: be/become guilty) is rendered as the passive *será* culpado (will be blamed). The clause is verbal, so the marked copula is not the verbless-clause exemption, and the passive adds an external blaming the qal does not license.",
+      "spanishSpan": "*será* culpado"
+    }
+  ],
+  "notes": "Remaining clauses keep the packet’s person, number, and stem.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:21",
+  "chapter": 7,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y alma, cuando tocare en todo impuro, en impureza de adam o en animal impuro o en todo abominable impuro, y comiere desde carne de sacrificio de los pazes que a Jehová, y será cortada el alma aquella desde sus pueblos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007021007"
+      ],
+      "issue": "אָדָם is a common noun (not a proper name); adam leaves it untranslated instead of a Spanish common noun.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007021013"
+      ],
+      "issue": "שֶׁקֶץ is a masculine singular noun; abominable is an adjective, so the nominal head is missing.",
+      "spanishSpan": "abominable"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007021015"
+      ],
+      "issue": "וְאָכַל is qal 3ms; comiere does not mark masculine and continues the feminine alma.",
+      "spanishSpan": "comiere"
+    }
+  ],
+  "notes": "Article contrast on נפש, the או alternation, the verbless אשר ליהוה, niphal 3fs, and plural עַמֶּיהָ are preserved.",
+  "discardedUncitedFindings": 0
+}

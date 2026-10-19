@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:31",
+  "chapter": 3,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y su guarda: el arca y la mesa y la menorá y los altares y utensilios del santo con que servirán en ellos, y el masaj, y todo su servicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003031004"
+      ],
+      "issue": "Common noun left untranslated as the lemma transliteration menorá.",
+      "spanishSpan": "la menorá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003031011"
+      ],
+      "issue": "Common noun left untranslated as the lemma transliteration masaj.",
+      "spanishSpan": "el masaj"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003031008",
+        "h04003031010"
+      ],
+      "issue": "The relative plus one prepositional phrase is rendered as both con que and en ellos, so the preposition and 3mp suffix are said twice.",
+      "spanishSpan": "con que servirán en ellos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04003031007"
+      ],
+      "issue": "del santo can be read as a holy person; the token is a common noun, not a person.",
+      "spanishSpan": "del santo"
+    }
+  ],
+  "notes": "Possessive su matches the 3mp and 3ms suffixes; list conjunctions and numbers match.",
+  "discardedUncitedFindings": 0
+}

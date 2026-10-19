@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:17",
+  "chapter": 38,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y las basas a las columnas de bronce; ganchos de las columnas y sus bandas de plata, y chapado de sus cabezas de plata, y ellos bandeados de plata; todas las columnas del atrio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038017001",
+        "h02038017002",
+        "h02038017003"
+      ],
+      "issue": "Bronze is an absolute noun after “the bases” and “for pillars,” with no construct or preposition tying it to the pillars. Spanish makes the columns bronze and does not give that material to the bases.",
+      "spanishSpan": "columnas de bronce"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038017008",
+        "h02038017009",
+        "h02038017010"
+      ],
+      "issue": "Silver follows the construct phrase whose head is the overlay of their heads. Spanish attaches the silver to the heads.",
+      "spanishSpan": "cabezas de plata"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038017002"
+      ],
+      "issue": "This pillars token is a preposition plus an absolute plural noun, with no definite article in the morphology. Spanish adds las.",
+      "spanishSpan": "a las columnas"
+    }
+  ],
+  "notes": "Hooks, bands, the pronoun, the pual participle, and all the pillars of the court match the tokens.",
+  "discardedUncitedFindings": 0
+}

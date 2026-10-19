@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:16",
+  "chapter": 13,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "O cuando volviere la carne la viva y se volviere a blanco, y vendrá al sacerdote.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013016002"
+      ],
+      "issue": "The conjunction is unmarked for sense; \"cuando\" selects a temporal reading.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013016006",
+        "h03013016008"
+      ],
+      "issue": "Both forms are sequential perfects, yet one stands in the subjunctive under \"cuando\" and the other in the future indicative.",
+      "spanishSpan": "se volviere a blanco, y vendrá"
+    }
+  ],
+  "notes": "Participants, number, and the return, turn-white, and come sequence stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

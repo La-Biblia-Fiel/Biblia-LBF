@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:24",
+  "chapter": 40,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y puso la menorá en la tienda de reunión, frente a la mesa, sobre el muslo del mishkán, Negbah.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040024003"
+      ],
+      "issue": "«menorá» vuelca sin traducir el sustantivo común definido; no es nombre propio.",
+      "spanishSpan": "menorá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02040024004",
+        "h02040024005"
+      ],
+      "issue": "«la» marca definido un sintagma sin artículo (constructo + absoluto).",
+      "spanishSpan": "la tienda de reunión"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040024010"
+      ],
+      "issue": "«mishkán» vuelca sin traducir el sustantivo común definido; no es nombre propio.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040024011"
+      ],
+      "issue": "«Negbah» translitera y capitaliza el sustantivo con sufijo direccional; no dice el sur ni la dirección.",
+      "spanishSpan": "Negbah"
+    }
+  ],
+  "notes": "Y puso, frente a la mesa y el muslo conservan persona, número, qal y orden.",
+  "discardedUncitedFindings": 0
+}

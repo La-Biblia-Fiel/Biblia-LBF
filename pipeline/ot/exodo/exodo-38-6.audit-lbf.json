@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:6",
+  "chapter": 38,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo las varas, maderas de shitím, y las chapó de bronce.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038006005"
+      ],
+      "issue": "H7848 is a common noun; shitím leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "The other tokens match number, person, and stem.",
+  "discardedUncitedFindings": 0
+}

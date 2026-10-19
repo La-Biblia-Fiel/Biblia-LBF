@@ -1,0 +1,80 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 6:21",
+  "chapter": 6,
+  "verse": 21,
+  "sourceDraft": "Sobre plancha en el aceite será hecha; remojada la traerás; cocidos de minjá de pedazos acercarás, olor de reposo a Jehová.",
+  "spanish": "Sobre plancha en el aceite será hecha; mezclada la traerás; piezas horneadas de ofrenda de pedazos acercarás, olor de reposo a Jehová.",
+  "units": [
+    {
+      "es": "Sobre plancha en el aceite será hecha",
+      "sourceTokenIds": [
+        "h03006021001",
+        "h03006021002",
+        "h03006021003",
+        "h03006021004"
+      ]
+    },
+    {
+      "es": "mezclada",
+      "sourceTokenIds": [
+        "h03006021005"
+      ]
+    },
+    {
+      "es": "la traerás",
+      "sourceTokenIds": [
+        "h03006021006"
+      ]
+    },
+    {
+      "es": "piezas horneadas",
+      "sourceTokenIds": [
+        "h03006021007"
+      ]
+    },
+    {
+      "es": "de ofrenda",
+      "sourceTokenIds": [
+        "h03006021008"
+      ]
+    },
+    {
+      "es": "de pedazos",
+      "sourceTokenIds": [
+        "h03006021009"
+      ]
+    },
+    {
+      "es": "acercarás",
+      "sourceTokenIds": [
+        "h03006021010"
+      ]
+    },
+    {
+      "es": "olor de reposo",
+      "sourceTokenIds": [
+        "h03006021011",
+        "h03006021012"
+      ]
+    },
+    {
+      "es": "a Jehová",
+      "sourceTokenIds": [
+        "h03006021013"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced the untranslated transliteration 'minjá' with the Spanish common noun 'ofrenda' for מִנְחַת (fail).",
+    "Replaced 'remojada' (soaked only) with 'mezclada' (mixed) to cover the hophal participle's broader mixed/stirred sense (warn).",
+    "Replaced the adjective 'cocidos' (cooked) with the noun phrase 'piezas horneadas' (baked pieces) to match the masculine plural construct noun תֻּפִינֵי instead of narrowing to 'cooked' (warn)."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'ofrenda', 'mezclada', and 'piezas horneadas' as the Spanish renderings for the three audit-cited lemmas, per the allowed broader senses.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 1:15",
+  "chapter": 1,
+  "verse": 15,
+  "sourceDraft": "Y lo acercará el sacerdote al altar, y le torcerá la cabeza, y hará humear hacia el altar, y será exprimida su sangre sobre pared del altar.",
+  "spanish": "Y lo acercará el sacerdote al altar, y le arrancará la cabeza, y hará humear hacia el altar, y será exprimida su sangre sobre la pared del altar.",
+  "units": [
+    {
+      "es": "Y lo acercará el sacerdote al altar",
+      "sourceTokenIds": [
+        "h03001015001",
+        "h03001015002",
+        "h03001015003",
+        "h03001015004"
+      ]
+    },
+    {
+      "es": "y le arrancará la cabeza",
+      "sourceTokenIds": [
+        "h03001015005",
+        "h03001015006",
+        "h03001015007"
+      ]
+    },
+    {
+      "es": "y hará humear hacia el altar",
+      "sourceTokenIds": [
+        "h03001015008",
+        "h03001015009"
+      ]
+    },
+    {
+      "es": "y será exprimida su sangre sobre la pared del altar",
+      "sourceTokenIds": [
+        "h03001015010",
+        "h03001015011",
+        "h03001015012",
+        "h03001015013",
+        "h03001015014"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced «torcerá» with «arrancará» to carry the severance sense licensed by qal מלק (h03001015005, h03001015007); «torcerá» only twisted and omitted that the head comes off.",
+    "Added the missing definite article before «pared»: «sobre la pared del altar»."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:44",
+  "chapter": 11,
+  "verse": 44,
+  "candidateLabel": "lbf",
+  "spanish": "Porque yo Jehová Dios de ustedes, y se santificarán, y serán santos, porque santo yo; y no impurificarán sus almas en todo el reptil el reptante sobre la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011044016"
+      ],
+      "issue": "H8318 הַשֶּׁרֶץ is a definite singular swarming/teeming creature; «reptil» narrows it to the animal class reptile and drops the swarming sense.",
+      "spanishSpan": "el reptil"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011044015"
+      ],
+      "issue": "בְּ is only marked as a preposition; «en» locks a locative reading where the phrase is the means of defilement.",
+      "spanishSpan": "en"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011044016",
+        "h03011044017"
+      ],
+      "issue": "הָרֹמֵשׂ is a definite qal participle modifying the same שֶׁרֶץ; «el reptil el reptante» can be read as two nouns rather than one creeping creature.",
+      "spanishSpan": "el reptil el reptante"
+    }
+  ],
+  "notes": "Ustedes futures and «sus» keep the 2pl address; verbless «yo Jehová» and «santo yo» add no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

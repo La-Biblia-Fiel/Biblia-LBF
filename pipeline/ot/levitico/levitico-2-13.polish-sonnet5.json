@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 2:13",
+  "chapter": 2,
+  "verse": 13,
+  "sourceDraft": "Y toda ofrenda de tu minjá con sal salarás, y no harás cesar sal de pacto de tu Dios de sobre tu minjá; sobre toda tu ofrenda acercarás sal.",
+  "spanish": "Y toda ofrenda de tu oblación con la sal salarás, y no harás cesar sal de pacto de tu Dios de sobre tu oblación; sobre toda tu ofrenda acercarás sal.",
+  "units": [],
+  "grammarChanges": [
+    "Replaced the untranslated lemma 'minjá' with the Spanish common noun 'oblación' for H4503 on both tokens h03002013003 and h03002013012, per the cited fail that common nouns stay Spanish.",
+    "Changed 'con sal' to 'con la sal' for token h03002013004 (בַּמֶּלַח, preposition + article + noun), per the cited warn that the definiteness was dropped."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'oblación' as the Spanish common noun for H4503 (מנחה) in both occurrences, distinct from 'ofrenda' used for H7133 (קרבן) elsewhere in the verse.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

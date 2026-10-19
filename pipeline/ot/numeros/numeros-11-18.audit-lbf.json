@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:18",
+  "chapter": 11,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y al pueblo dirás: Santifíquense ustedes para mañana, y comerán carne, porque lloraron en oídos de Jehová, diciendo: ¿Quién nos dará a comer carne? Porque bueno a nosotros en Egipto. Y dará Jehová a ustedes carne, y comerán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04011018017"
+      ],
+      "issue": "Qal perfect 3ms (it was good) is a bare adjective bueno, so the perfect verbal force is dropped.",
+      "spanishSpan": "bueno"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011018014"
+      ],
+      "issue": "Hiphil imperfect of eat with a 1cp suffix is one causative (he will feed us); dará a comer splits it into dar plus comer without changing the feed sense.",
+      "spanishSpan": "dará a comer"
+    }
+  ],
+  "notes": "Ustedes forms keep the 2pl addressees; Jehová, Egipto, and the three carne repetitions match the tokens.",
+  "discardedUncitedFindings": 0
+}

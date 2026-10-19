@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:9",
+  "chapter": 38,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo el atrio; al lado de Negev, al Temán, colgaduras del atrio de lino fino retorcido, cien en el codo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038009005"
+      ],
+      "issue": "Common noun H5045 is rendered as the proper name Negev, closing the open south/region sense.",
+      "spanishSpan": "Negev"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038009006"
+      ],
+      "issue": "Common noun H8486 with directional suffix is rendered as the proper name Temán, closing the open southward sense.",
+      "spanishSpan": "al Temán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038009009"
+      ],
+      "issue": "Lemma 8336 b and the morph (cardinal feminine singular) leave the sense open; lino fino resolves that as fine linen and adds fineness.",
+      "spanishSpan": "lino fino"
+    }
+  ],
+  "notes": "Y hizo el atrio, colgaduras del atrio, retorcido, and cien en el codo match the 3ms qal, both courts, the plural construct, the hophal passive, and the hundred plus singular cubit.",
+  "discardedUncitedFindings": 0
+}

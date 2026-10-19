@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:2",
+  "chapter": 25,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a hijos de Israel, y dirás a ellos: Cuando entraren a la tierra que yo dando a ustedes, y cesará la tierra shabat a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025002017"
+      ],
+      "issue": "Common noun שַׁבָּת (singular absolute, not a proper name) is left untranslated as shabat.",
+      "spanishSpan": "shabat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025002007"
+      ],
+      "issue": "כִּי is only a conjunction; Cuando selects the temporal sense and closes that openness.",
+      "spanishSpan": "Cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025002008"
+      ],
+      "issue": "Qal imperfect 2mp is rendered with archaic future subjunctive entraren. That ending can still be ustedes address, but it is not current Latin American (entren/entrarán).",
+      "spanishSpan": "entraren"
+    }
+  ],
+  "notes": "Habla/dirás (2ms), a ellos (3mp), dando (active participle), a ustedes (2mp), and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

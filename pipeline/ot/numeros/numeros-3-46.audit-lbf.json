@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:46",
+  "chapter": 3,
+  "verse": 46,
+  "candidateLabel": "lbf",
+  "spanish": "Y los rescatados de los tres y los setenta y los doscientos, los excedientes sobre los levitas desde primogénito de hijos de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04003046009"
+      ],
+      "issue": "desde narrows the preposition min toward a starting point; the token only licenses source/from and does not mark an inceptive range.",
+      "spanishSpan": "desde"
+    }
+  ],
+  "notes": "Conjunction, object marker, construct redeemed-of the articulated 3+70+200, surplus participle over the Levites, and singular construct firstborn of sons of Israel are otherwise matched.",
+  "discardedUncitedFindings": 0
+}

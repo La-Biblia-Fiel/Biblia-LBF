@@ -1,0 +1,40 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013020014"
+      ],
+      "issue": "צָרַעַת is a common noun, not a locked proper name; \"tsaráat\" leaves the lemma untranslated.",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013020005",
+        "h03013020006"
+      ],
+      "issue": "שָׁפָל is an adjective and מִן is only a preposition; \"baja desde\" can be read as motion away from the skin rather than a low appearance relative to the skin.",
+      "spanishSpan": "baja desde"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013020009"
+      ],
+      "issue": "Qal הָפַךְ is \"turned\"; \"se volvió\" adds a pronominal middle. Same subject, the hair.",
+      "spanishSpan": "se volvió"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013020016",
+        "h03013020017"
+      ],
+      "issue": "פָּרָחָה is 3fs and שְׁחִין is masculine, so the boil is not the subject; \"brotó\" cannot show that, and feminine \"úlcera\" can be taken as the subject.",
+      "spanishSpan": "en la úlcera brotó"
+    }
+  ],
+  "notes": "Sequential perfects as future, plain perfects as past, 3fs suffixes as su, and the 3ms object as lo match the morphology."
+}

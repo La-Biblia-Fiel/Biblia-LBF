@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:19",
+  "chapter": 5,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y juramentará a ella el sacerdote, y dirá a la mujer: Si no yació varón contigo, y si no te desviaste impureza debajo de tu varón, sé absuelta desde aguas de las amargas las maldicientes estas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005019011",
+        "h04005019009"
+      ],
+      "issue": "אֹתָךְ is the direct-object marker plus 2fs, the same particle as אֹתָהּ rendered “a ella”. “contigo” makes her a companion (“with you”) of שָׁכַב instead of its object.",
+      "spanishSpan": "contigo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005019001",
+        "h04005019004"
+      ],
+      "issue": "Sequential perfects (hiphil 3ms and qal 3ms) are rendered as Spanish futures.",
+      "spanishSpan": "juramentará … dirá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005019014"
+      ],
+      "issue": "Qal perfect 2fs is rendered with an unmarked reflexive “te”; reflexivity is not a separate token.",
+      "spanishSpan": "te desviaste"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005019016"
+      ],
+      "issue": "תַּחַת is marked only as a preposition; “debajo de” locks the spatial “under” sense.",
+      "spanishSpan": "debajo de"
+    }
+  ],
+  "notes": "Remaining tokens, including the bare טֻמְאָה and the construct-plus-modifiers at the end, are represented without added participants.",
+  "discardedUncitedFindings": 0
+}

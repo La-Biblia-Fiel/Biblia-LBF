@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:3",
+  "chapter": 6,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "desde vino y licor nazirará; vinagre de vino y vinagre de licor no beberá, y toda maceración de uvas no beberá, y uvas húmedas y secas no comerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006003003"
+      ],
+      "issue": "nazirará dumps the non-name verb lemma as a coined transliteration; the token is hiphil imperfect 3ms and requires a Spanish verb",
+      "spanishSpan": "nazirará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006003002",
+        "h04006003007"
+      ],
+      "issue": "licor can narrow the intoxicating-drink noun toward distilled liquor",
+      "spanishSpan": "licor"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006003011"
+      ],
+      "issue": "maceración names the soaking process; the construct noun is the drinkable steeped liquid of the grapes",
+      "spanishSpan": "maceración"
+    }
+  ],
+  "notes": "Negatives, 3ms verbs, vinegar constructs, both drinkings, and fresh/dry grapes otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

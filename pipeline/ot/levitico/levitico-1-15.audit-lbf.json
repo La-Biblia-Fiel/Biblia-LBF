@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 1:15",
+  "chapter": 1,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo acercará el sacerdote al altar, y le torcerá la cabeza, y hará humear hacia el altar, y será exprimida su sangre sobre pared del altar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03001015005",
+        "h03001015007"
+      ],
+      "issue": "Qal מלק (H4454) licenses nipping or pinching the head off; «torcerá» only twists and omits the severance.",
+      "spanishSpan": "le torcerá la cabeza"
+    }
+  ],
+  "notes": "The other clauses keep the hiphil, the unsuffixed smoke verb, the directional he, and the niphal.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005004013"
+      ],
+      "issue": "הָאָדָם is a definite common noun (H120); adam leaves that lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "el adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005004016"
+      ],
+      "issue": "The suffix is 1st person common plural (from us); él is 3rd person masculine singular.",
+      "spanishSpan": "desde él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03005004018",
+        "h03005004019"
+      ],
+      "issue": "Qal perfect יָדַע and sequential perfect וְאָשֵׁם are flattened: conociere is future subjunctive, and culpado is a bare participle rather than a finite 3ms predicate.",
+      "spanishSpan": "conociere, y culpado"
+    }
+  ],
+  "notes": "The other clauses stay inside the token senses, including כי as cuando and the repeated piel of H981."
+}

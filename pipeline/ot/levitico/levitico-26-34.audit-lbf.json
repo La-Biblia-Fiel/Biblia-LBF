@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:34",
+  "chapter": 26,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Entonces aceptará la tierra sus shabatot todos los días de su ser desolada, y ustedes en tierra de sus enemigos; entonces cesará la tierra, y aceptará sus shabatot.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03026034005",
+        "h03026034017"
+      ],
+      "issue": "Common noun H7676 (plural + 3fs suffix) is dumped as untranslated Hebrew shabatot instead of Spanish.",
+      "spanishSpan": "shabatot"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03026034015"
+      ],
+      "issue": "Hiphil sequential perfect of H7521 is rendered with the same non-causative aceptar as the qal imperfect, so the stem force is dropped.",
+      "spanishSpan": "y aceptará"
+    }
+  ],
+  "notes": "Qal aceptará, both entonces, verbless ustedes, and the hophal infinitive as su ser desolada stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

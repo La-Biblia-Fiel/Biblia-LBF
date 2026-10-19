@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:18",
+  "chapter": 22,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a Aarón y a sus hijos y a todos hijos de Israel, y dirás a ellos: Varón varón desde casa de Israel y desde el peregrino en Israel, que acercare su ofrenda a todos sus votos y a todas sus voluntarias que acercarán a Jehová a holocausto,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03022018025"
+      ],
+      "issue": "נִדְבוֹתָם is a feminine-plural noun (freewill offerings). «voluntarias» is an adjective or a noun for female volunteers and omits the offering.",
+      "spanishSpan": "sus voluntarias"
+    }
+  ],
+  "notes": "Remaining tokens match in participants, number, person, and repetition (varón varón); tú dirás is licensed 2ms.",
+  "discardedUncitedFindings": 0
+}

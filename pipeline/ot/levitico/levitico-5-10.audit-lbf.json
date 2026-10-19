@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:10",
+  "chapter": 5,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y el segundo hará holocausto conforme al juicio, y expiará sobre él el sacerdote desde su pecado que pecó, y será perdonado a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005010001",
+        "h03005010002",
+        "h03005010003",
+        "h03005010004"
+      ],
+      "issue": "את marks the second as object of the 3ms verb; the burnt offering is what is made of it. Spanish makes el segundo the subject who hará holocausto.",
+      "spanishSpan": "el segundo hará holocausto"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03005010005"
+      ],
+      "issue": "Packet morphology is preposition plus absolute noun with no article; al adds definiteness.",
+      "spanishSpan": "al juicio"
+    }
+  ],
+  "notes": "Priest, piel atonement upon him, from his sin which he sinned, and niphal forgiveness to him match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

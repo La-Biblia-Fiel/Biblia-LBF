@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 21:21",
+  "chapter": 21,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Todo varón que en él defecto, desde semilla de Aarón el sacerdote, no se acercará para acercar ofrendas de fuego de Jehová; defecto en él; el pan de su Dios no se acercará para acercar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03021021017",
+        "h03021021018",
+        "h03021021021",
+        "h03021021022"
+      ],
+      "issue": "את marks לחם as the object of the hiphil, and the qal 3ms יגש still has the man as subject. Spanish puts el pan in subject position before se acercará and leaves acercar with no object.",
+      "spanishSpan": "el pan de su Dios no se acercará para acercar"
+    }
+  ],
+  "notes": "The first clause keeps the man as subject of the qal and the fire-offerings as object of the hiphil.",
+  "discardedUncitedFindings": 0
+}

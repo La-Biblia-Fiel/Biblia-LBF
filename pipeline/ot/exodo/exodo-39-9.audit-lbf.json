@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:9",
+  "chapter": 39,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Cuadrado fue, doblado; hicieron el joshen: palmo su largo y palmo su ancho, doblado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039009006"
+      ],
+      "issue": "joshen leaves the common noun הַחֹשֶׁן untranslated; common nouns stay Spanish",
+      "spanishSpan": "joshen"
+    }
+  ],
+  "notes": "The other clauses keep 3ms fue, 3cp hicieron, both doubled participles, and the two span measures with their 3ms suffixes.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:5",
+  "chapter": 4,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y vendrá Aarón y sus hijos en partir el campamento, y harán bajar la parójet del masaj, y cubrirán en ella el arca del testimonio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004005008"
+      ],
+      "issue": "פָּרֹכֶת is a common noun (H6532), not a name; “parójet” leaves it untranslated.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004005009"
+      ],
+      "issue": "הַמָּסָךְ is a common noun (H4539); “masaj” is an untranslated transliteration.",
+      "spanishSpan": "masaj"
+    }
+  ],
+  "notes": "Person, number, Hiphil, Piel, construct chain, and בָּהּ otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

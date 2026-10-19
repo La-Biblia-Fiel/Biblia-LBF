@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 8:28",
+  "chapter": 8,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomó Moisés a ellos de sobre sus palmas, e hizo humear hacia el altar sobre el holocausto; llenuras ellas a olor de reposo; ofrenda de fuego ella a Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008028011"
+      ],
+      "issue": "הם is 3mp; ellas is feminine so it agrees with llenuras, grammatical smoothing with the same plural referent",
+      "spanishSpan": "ellas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008028015"
+      ],
+      "issue": "הוא is 3ms; ella is feminine so it agrees with ofrenda, grammatical smoothing with the same singular referent",
+      "spanishSpan": "ella"
+    }
+  ],
+  "notes": "Verbless clauses add no copula; qal, hiphil, and directional he stay in force.",
+  "discardedUncitedFindings": 0
+}

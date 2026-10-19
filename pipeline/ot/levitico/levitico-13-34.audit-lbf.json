@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:34",
+  "chapter": 13,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Y verá el sacerdote el neteq en el día el séptimo, y he aquí no se extendió el neteq en la piel, y su apariencia no es profunda desde la piel, y lo purificará el sacerdote, y lavará sus vestidos, y será puro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013034004",
+        "h03013034010"
+      ],
+      "issue": "H5424 is a common noun, not a proper name, and is left untranslated as neteq.",
+      "spanishSpan": "el neteq"
+    }
+  ],
+  "notes": "Remaining clauses match person, number, stem, and the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:46",
+  "chapter": 14,
+  "verse": 46,
+  "candidateLabel": "lbf",
+  "spanish": "Y el entrante a la casa todos días de encerrar a ella se impurecerá hasta la tarde.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014046006"
+      ],
+      "issue": "Hiphil perfect 3ms is a finite “he shut up”; the infinitive drops that person and the perfect.",
+      "spanishSpan": "de encerrar"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014046007",
+        "h03014046003"
+      ],
+      "issue": "Object suffix is 3ms, agreeing with the masculine house; ella is feminine smoothing to casa.",
+      "spanishSpan": "a ella"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014046010"
+      ],
+      "issue": "ערב is evening; tarde in current Latin American Spanish often means afternoon.",
+      "spanishSpan": "la tarde"
+    }
+  ],
+  "notes": "Entrant, house, all days, qal impurecerse, and until match the other tokens.",
+  "discardedUncitedFindings": 0
+}

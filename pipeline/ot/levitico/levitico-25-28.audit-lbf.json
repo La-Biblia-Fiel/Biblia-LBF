@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:28",
+  "chapter": 25,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y si no hallare su mano suficiente para devolver a él, y será su venta en mano del comprante a él hasta año del yovel, y saldrá en el yovel, y volverá a su posesión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025028015",
+        "h03025028017"
+      ],
+      "issue": "yovel leaves the common noun הַיּוֹבֵל / בַּיֹּבֵל untranslated; a non-name lemma must be Spanish",
+      "spanishSpan": "yovel"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens in force, number, person, and participants.",
+  "discardedUncitedFindings": 0
+}

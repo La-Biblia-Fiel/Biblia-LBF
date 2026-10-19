@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:25",
+  "chapter": 26,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y traeré sobre ustedes espada vengadora, venganza de pacto, y serán reunidos a sus ciudades, y enviaré peste en medio de ustedes, y serán dados en mano de enemigo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026025004",
+        "h03026025005",
+        "h03026025006"
+      ],
+      "issue": "נקמת governs נקם ברית as its cognate object (a sword avenging covenant-vengeance). The comma sets venganza de pacto beside espada vengadora, so the phrase can be read as apposition or as a second object of traeré.",
+      "spanishSpan": "espada vengadora, venganza de pacto"
+    }
+  ],
+  "notes": "2mp forms and sus are ustedes address; mano and enemigo stay singular.",
+  "discardedUncitedFindings": 0
+}

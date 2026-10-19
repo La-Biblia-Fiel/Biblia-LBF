@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:37",
+  "chapter": 39,
+  "verse": 37,
+  "candidateLabel": "lbf",
+  "spanish": "la menorá la pura, sus lámparas, lámparas del arreglo, y todos sus utensilios y el aceite de la lumbrera,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039037002"
+      ],
+      "issue": "menorá leaves the common noun untranslated; a Spanish common noun is required",
+      "spanishSpan": "menorá"
+    }
+  ],
+  "notes": "Remaining items match the tokens, including repeated lamps, all its utensils, and oil of the luminary.",
+  "discardedUncitedFindings": 0
+}

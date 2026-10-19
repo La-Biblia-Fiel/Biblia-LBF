@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 12:8",
+  "chapter": 12,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y si no hallare su mano bastancia de oveja, y tomará dos tórtolas o dos hijos de paloma, uno a holocausto y uno a pecado, y expiará sobre ella el sacerdote, y será pura.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03012008006"
+      ],
+      "issue": "H7716 שֶׂה is one of the flock (sheep or goat, singular); oveja narrows it to a ewe.",
+      "spanishSpan": "oveja"
+    }
+  ],
+  "notes": "Other clauses stay within the tokens, including hijos de paloma, a pecado, and sobre ella.",
+  "discardedUncitedFindings": 0
+}

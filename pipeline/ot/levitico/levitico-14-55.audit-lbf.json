@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:55",
+  "chapter": 14,
+  "verse": 55,
+  "candidateLabel": "lbf",
+  "spanish": "y a tsaráat del vestido y a la casa,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014055001"
+      ],
+      "issue": "Common noun (Ncfsc, H6883) is dumped untranslated as tsaráat; a common noun stays Spanish.",
+      "spanishSpan": "tsaráat"
+    }
+  ],
+  "notes": "y a / del vestido / y a la casa match the conjunction, prepositions, construct, articles, and H899/H1004.",
+  "discardedUncitedFindings": 0
+}

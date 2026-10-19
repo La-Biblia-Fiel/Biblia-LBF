@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 18:10",
+  "chapter": 18,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Desnudez de hija de tu hijo o hija de tu hija no descubrirás su desnudez, porque desnudez tuya ellas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03018010009"
+      ],
+      "issue": "The suffix is 3fp; «su» does not mark the possessor as plural.",
+      "spanishSpan": "su desnudez"
+    }
+  ],
+  "notes": "Construct de, 2ms tú, piel imperfect, and the verbless כִּי clause stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

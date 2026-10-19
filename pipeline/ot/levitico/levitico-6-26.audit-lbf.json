@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:26",
+  "chapter": 6,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "El sacerdote el pecante a ella la comerá; en lugar santo será comida, en atrio de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006026002",
+        "h03006026003",
+        "h03006026004"
+      ],
+      "issue": "The definite piel participle governs the 3fs object. “el pecante” turns it into a second noun, “sinner,” and does not apply that participle to “ella”; “a ella la” only marks the object of “comerá.”",
+      "spanishSpan": "el pecante a ella la comerá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006026008"
+      ],
+      "issue": "בַּ marks a definite court; “en atrio” leaves it unmarked.",
+      "spanishSpan": "en atrio"
+    }
+  ],
+  "notes": "Priest, eat-her, indefinite holy place, feminine niphal, and tent of meeting otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

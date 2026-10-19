@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:17",
+  "chapter": 38,
+  "verse": 17,
+  "candidateLabel": "pulir",
+  "spanish": "Y las basas de bronce, a las columnas; ganchos de las columnas y sus bandas de plata, y chapado de plata de sus cabezas, y ellos bandeados de plata; todas las columnas del atrio.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038017001",
+        "h02038017002",
+        "h02038017003"
+      ],
+      "issue": "Bronze is attached as a genitive of the bases and the ל-phrase follows; the tokens juxtapose the bases, then for the columns, then bronze.",
+      "spanishSpan": "las basas de bronce, a las columnas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038017008",
+        "h02038017009",
+        "h02038017010"
+      ],
+      "issue": "The construct is overlay of their heads, then silver; Spanish places silver between chapado and sus cabezas.",
+      "spanishSpan": "chapado de plata de sus cabezas"
+    }
+  ],
+  "notes": "All sixteen tokens are present; number, person, and the passive Pual participle are preserved.",
+  "discardedUncitedFindings": 0
+}

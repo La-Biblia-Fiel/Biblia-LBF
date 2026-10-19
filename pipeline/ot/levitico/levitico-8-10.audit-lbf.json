@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 8:10",
+  "chapter": 8,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomó Moisés el aceite de la unción, y ungió el mishkán y todo lo que en él, y los santificó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03008010008"
+      ],
+      "issue": "Common noun (H4908, not a proper name) is dumped as the transliteration mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens, including the verbless כל־אשר־בו.",
+  "discardedUncitedFindings": 0
+}

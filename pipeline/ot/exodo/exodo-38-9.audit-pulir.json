@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:9",
+  "chapter": 38,
+  "verse": 9,
+  "candidateLabel": "pulir",
+  "spanish": "Y hizo el atrio; al lado del sur, hacia el sur, colgaduras del atrio de lino retorcido, cien en el codo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038009009"
+      ],
+      "issue": "Lemma 8336 b and the cardinal feminine singular morph leave the sense open; lino resolves it as linen.",
+      "spanishSpan": "lino"
+    }
+  ],
+  "notes": "Y hizo el atrio, al lado del sur, hacia el sur, colgaduras del atrio, retorcido, and cien en el codo match the 3ms qal, the common-noun south terms, the directional suffix, both courts, the hophal passive, and the hundred plus singular cubit.",
+  "discardedUncitedFindings": 0
+}

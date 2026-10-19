@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:34",
+  "chapter": 14,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Cuando entraren a tierra de Canaán que yo dando a ustedes a posesión, y daré plaga de tsaráat en casa de tierra de su posesión,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014034013"
+      ],
+      "issue": "צָרַעַת is a common noun, not a proper name; tsaráat leaves the lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014034001"
+      ],
+      "issue": "כִּי is tagged only as a conjunction; Cuando selects the temporal sense and closes because/if/that.",
+      "spanishSpan": "Cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014034010"
+      ],
+      "issue": "The ל on לַאֲחֻזָּה is rendered with the same a as the indirect object, so posesión can read as a second recipient rather than the possession for which the land is given.",
+      "spanishSpan": "a posesión"
+    }
+  ],
+  "notes": "2mp entraren/ustedes/su matches the packet address; participle dando and weqatal daré keep the two forms of נתן.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:11",
+  "chapter": 4,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y sobre altar del oro tenderán vestido de azul, y cubrirán a él en cubierta de piel de tahash, y pondrán sus varas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004011011"
+      ],
+      "issue": "Common noun H8476 is left as the untranslated lemma tahash.",
+      "spanishSpan": "tahash"
+    }
+  ],
+  "notes": "Remaining tokens match number, person, stem, and participants.",
+  "discardedUncitedFindings": 0
+}

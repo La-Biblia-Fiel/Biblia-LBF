@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:8",
+  "chapter": 4,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y tenderán sobre ellos vestido de carmesí, y cubrirán a él en cubierta de piel de tahash, y pondrán sus varas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004008010"
+      ],
+      "issue": "Common noun תָּחַשׁ (H8476) is left untranslated as tahash.",
+      "spanishSpan": "tahash"
+    }
+  ],
+  "notes": "The other clauses match the tokens in number, person, and stem.",
+  "discardedUncitedFindings": 0
+}

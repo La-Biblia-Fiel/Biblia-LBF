@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:35",
+  "chapter": 39,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "el arca del testimonio y sus varas y la kappóret,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039035007"
+      ],
+      "issue": "H3727 is a common noun (definite feminine singular); the Spanish leaves it as the untranslated lemma kappóret.",
+      "spanishSpan": "kappóret"
+    }
+  ],
+  "notes": "El arca del testimonio y sus varas match the construct, the article, the plural, and the 3ms suffix.",
+  "discardedUncitedFindings": 0
+}

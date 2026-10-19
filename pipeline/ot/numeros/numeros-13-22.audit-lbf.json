@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:22",
+  "chapter": 13,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y subieron en el Neguev, y vino hasta Jebrón; y allí Ajiman, Sheshai y Talmai, nacidos del anáq. Y Jebrón siete años fue edificada delante de Zoán de Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04013022013",
+        "h04013022014",
+        "h04013022016"
+      ],
+      "issue": "לִפְנֵי (face/before) stays open between time and place. «delante de» only says place, so «siete años» is not seven years prior.",
+      "spanishSpan": "siete años fue edificada delante de"
+    }
+  ],
+  "notes": "3mp then 3ms matches the two verbs; Egipto, Neguev, and Zoán match the locked names.",
+  "discardedUncitedFindings": 0
+}

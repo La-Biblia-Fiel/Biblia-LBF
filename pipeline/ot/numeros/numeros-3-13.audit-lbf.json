@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:13",
+  "chapter": 3,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Porque a mí todo primogénito; en día de mi herir todo primogénito en tierra de Egipto santifiqué a mí todo primogénito en Israel desde adam hasta bestia; a mí serán; yo Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003013016"
+      ],
+      "issue": "H120 está marcado como sustantivo común, no como nombre propio; «adam» deja el lema sin traducir en vez de un sustantivo común en español.",
+      "spanishSpan": "adam"
+    }
+  ],
+  "notes": "El resto del versículo conserva número, persona, repetición de todo primogénito, infinitivo con sufijo y las cláusulas sin cópula.",
+  "discardedUncitedFindings": 0
+}

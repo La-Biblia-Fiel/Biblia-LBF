@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 21:18",
+  "chapter": 21,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Porque todo varón que en él defecto no se acercará: varón ciego o cojo o chato o desigual,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03021018016"
+      ],
+      "issue": "Qal passive participle of the prolong/stretch/superfluous-member lemma is rendered as inequality, omitting extension or excess.",
+      "spanishSpan": "desigual"
+    }
+  ],
+  "notes": "chato matches the flat-nose sense of lemma 2763 b; the other tokens are represented.",
+  "discardedUncitedFindings": 0
+}

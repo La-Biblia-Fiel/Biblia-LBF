@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:11",
+  "chapter": 7,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y esta torá de sacrificio de los pazes que acercará a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007011002"
+      ],
+      "issue": "torá dumps the common noun (H8451, feminine singular construct) untranslated; the token licenses a Spanish common noun such as instruction/law, not a Hebrew lemma.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03007011004"
+      ],
+      "issue": "pazes is an uncertain Spanish form for the definite masculine plural peace/completion noun; the plural definite peace sense is present, but the word is not ordinary Spanish.",
+      "spanishSpan": "los pazes"
+    }
+  ],
+  "notes": "Y/esta, construct de, que, hiphil 3ms acercará, and a Jehová match the other tokens; no copula is required.",
+  "discardedUncitedFindings": 0
+}

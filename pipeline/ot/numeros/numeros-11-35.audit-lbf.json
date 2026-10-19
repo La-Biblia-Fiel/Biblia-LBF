@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:35",
+  "chapter": 11,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Desde Kivrot Hataavá partieron el pueblo a Hatsirot, y fueron en Hatsirot.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04011035006"
+      ],
+      "issue": "Qal wayyiqtol of היה is be/become. “fueron” before a place is the motion verb ir (“they went”), a second departure the token does not license.",
+      "spanishSpan": "fueron"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011035005",
+        "h04011035003"
+      ],
+      "issue": "חֲצֵרוֹת is a bare proper noun. “a” marks it as the destination of נָסְעוּ; the morphology does not mark that goal.",
+      "spanishSpan": "a Hatsirot"
+    }
+  ],
+  "notes": "Desde, Kivrot Hataavá, partieron, el pueblo, and en Hatsirot match the prefixed min, the two proper names, the 3cp qal, the singular people, and the ב.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,35 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014041001",
+        "h03014041002",
+        "h03014041003"
+      ],
+      "issue": "את marks הַבַּיִת as the object of a 3ms hiphil imperfect. Spanish makes la casa the subject of raspará, so the house scrapes and the masculine singular actor is gone.",
+      "spanishSpan": "la casa raspará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014041011",
+        "h03014041012",
+        "h03014041013"
+      ],
+      "issue": "אֶל־מִחוּץ לָעִיר is one goal: outside, with the city as the ל complement of מִחוּץ. Spanish splits it into two destinations, a fuera and a la ciudad, and fuera does not express the מ preposition.",
+      "spanishSpan": "a fuera a la ciudad"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014041003",
+        "h03014041010"
+      ],
+      "issue": "Both scrape verbs are hiphil. raspará and rasparon are simple active, so causative stem force is not shown.",
+      "spanishSpan": "raspará / rasparon"
+    }
+  ],
+  "notes": "Plural qal שפכו, definite עפר, the relative, indefinite מבית סביב, and אל מקום טמא match derramarán, el polvo que rasparon, desde casa alrededor, and a lugar impuro."
+}

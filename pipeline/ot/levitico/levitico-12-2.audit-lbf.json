@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 12:2",
+  "chapter": 12,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a hijos de Israel, diciendo: Mujer, cuando sembrare y diere a luz macho, y se impurecerá siete días; como días de menstruación de su enfermar se impurecerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03012002008"
+      ],
+      "issue": "Hiphil imperfect stem force (causative/productive) is rendered as simple sembrare, the non-causative act of sowing.",
+      "spanishSpan": "sembrare"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03012002015"
+      ],
+      "issue": "Construct noun of impurity/separation/menstruous state is narrowed to the biological event menstruación.",
+      "spanishSpan": "menstruación"
+    }
+  ],
+  "notes": "Person, number, order, זכר, and both טמא forms otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

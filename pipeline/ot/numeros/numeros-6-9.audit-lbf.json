@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:9",
+  "chapter": 6,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando muriere muerto sobre él de pronto de repente, y impureciere cabeza de su nézer, y afeitará su cabeza en día de su purificación; en el día el séptimo la afeitará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006009009"
+      ],
+      "issue": "nézer leaves common noun H5145 untranslated; common nouns stay Spanish.",
+      "spanishSpan": "nézer"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006009016"
+      ],
+      "issue": "la is feminine; the object suffix is 3rd masculine singular.",
+      "spanishSpan": "la"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006009005"
+      ],
+      "issue": "בפתע is a preposition plus a noun; de pronto smooths it to an adverb.",
+      "spanishSpan": "de pronto"
+    }
+  ],
+  "notes": "Other tokens match in order, number, person, and stem force.",
+  "discardedUncitedFindings": 0
+}

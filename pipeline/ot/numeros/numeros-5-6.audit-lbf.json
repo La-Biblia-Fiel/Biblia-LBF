@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:6",
+  "chapter": 5,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a hijos de Israel: Varón o mujer, cuando hagan desde todos pecados del adam a perpetrar perpetración en Jehová, y culpada es el alma aquella,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005006012"
+      ],
+      "issue": "הָאָדָם is a common noun with the article (H120), not a proper name; \"adam\" leaves that noun untranslated.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005006013",
+        "h04005006014"
+      ],
+      "issue": "לִמְעֹל מַעַל is the cognate infinitive and noun of an unfaithful act (H4603, H4604). \"perpetrar perpetración\" keeps the doubling but substitutes generic perpetration and drops the unfaithfulness.",
+      "spanishSpan": "perpetrar perpetración"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005006008"
+      ],
+      "issue": "כִּי is marked only as a conjunction; \"cuando\" selects a temporal sense and closes if, because, and that.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005006010"
+      ],
+      "issue": "מִן in מִכָּל means from or of before כָּל; \"desde\" reads as a starting point.",
+      "spanishSpan": "desde"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005006016"
+      ],
+      "issue": "Qal perfect 3fs is stative be or become guilty; \"culpada\" can be read as a passive participle, accused.",
+      "spanishSpan": "culpada"
+    }
+  ],
+  "notes": "3mp יַעֲשׂוּ and 3fs וְאָשְׁמָה match the Spanish; יהוה is Jehová.",
+  "discardedUncitedFindings": 0
+}

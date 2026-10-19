@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:1",
+  "chapter": 11,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue el pueblo como murmurantes mal en oídos de Jehová; y oyó Jehová, y se encendió su nariz, y ardió en ellos fuego de Jehová, y comió en extremo del campamento.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011001004"
+      ],
+      "issue": "רַע is an adjective masculine singular absolute; postposed mal is naturally the adverb “badly,” which narrows the open adjective toward manner.",
+      "spanishSpan": "mal"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011001016",
+        "h04011001017"
+      ],
+      "issue": "בְּקְצֵה is בְּ plus the construct noun “end/edge” of the camp; en extremo is also the degree adverb “extremely,” which would add intensity and read del campamento as partitive “from the camp.”",
+      "spanishSpan": "en extremo del campamento"
+    }
+  ],
+  "notes": "Wayyiqtol chain, Jehová, nariz, fuego, and comió match the tokens; both warns are ambiguous Spanish, not extra concepts forced by the wording.",
+  "discardedUncitedFindings": 0
+}

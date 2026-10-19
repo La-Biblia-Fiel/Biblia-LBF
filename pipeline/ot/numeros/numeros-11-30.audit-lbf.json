@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:30",
+  "chapter": 11,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y se recogió Moisés al campamento, él y ancianos de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011030006",
+        "h04011030007"
+      ],
+      "issue": "Construct adjective plus proper name is definite; bare ancianos de Israel leaves that group unmarked and can read as indefinite.",
+      "spanishSpan": "ancianos de Israel"
+    }
+  ],
+  "notes": "Niphal 3ms se recogió, אל-ה plus article al campamento, and הוא él stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

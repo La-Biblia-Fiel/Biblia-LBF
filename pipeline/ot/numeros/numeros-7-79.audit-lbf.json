@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:79",
+  "chapter": 7,
+  "verse": 79,
+  "candidateLabel": "lbf",
+  "spanish": "Su ofrenda: plato de plata uno, treinta y cien su peso; tazón uno plata, setenta siclo en siclo de la santidad; los dos ellos llenos sólet amasada en el aceite a minjá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007079017"
+      ],
+      "issue": "Common noun left as Hebrew sólet; the token licenses a Spanish noun for fine flour.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007079018"
+      ],
+      "issue": "Passive participle licenses mixed/mingled; amasada adds kneading.",
+      "spanishSpan": "amasada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007079020"
+      ],
+      "issue": "Common noun left as Hebrew minjá; the token licenses a Spanish noun for the offering.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Counts, suffixes, silver vessels, weight, and shekel of the holiness match the tokens.",
+  "discardedUncitedFindings": 0
+}

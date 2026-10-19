@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 22:8",
+  "chapter": 22,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Cadáver y despedazado no comerá para contaminarse en ella; yo Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022008002"
+      ],
+      "issue": "וּטְרֵפָה is a common feminine singular noun, a second thing coordinated with נְבֵלָה. \"despedazado\" is a participle and can be read as modifying \"cadáver\" rather than naming that second thing.",
+      "spanishSpan": "despedazado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03022008006",
+        "h03022008001",
+        "h03022008002"
+      ],
+      "issue": "בָּהּ is 3fs, matching the two feminine nouns. \"en ella\" keeps person, gender, and number, but both Spanish nouns are masculine, so the suffix is not tied to them in the sentence.",
+      "spanishSpan": "en ella"
+    }
+  ],
+  "notes": "3ms qal \"no comerá\", qal \"contaminarse\", and unmarked \"yo Jehová\" stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

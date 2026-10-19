@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:35",
+  "chapter": 25,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando se empobreciere tu hermano y vacilare su mano contigo, y lo fortalecerás, peregrino y residente, y vivirá contigo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025035001"
+      ],
+      "issue": "H3588 is only marked as a conjunction and also licenses if/because; «cuando» selects the temporal sense.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025035008"
+      ],
+      "issue": "בּוֹ is a preposition plus 3ms; «lo» keeps the suffix as a direct object and leaves the preposition unexpressed.",
+      "spanishSpan": "lo"
+    }
+  ],
+  "notes": "Number, person, qal/hiphil force, and the repeated עִמָּךְ are preserved.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:3",
+  "chapter": 14,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y ¿por qué Jehová trayendo a nosotros a la tierra esta para caer en la espada? Nuestras mujeres y nuestro pequeño serán a botín. ¿No bueno a nosotros volver a Egipto?",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04014003011"
+      ],
+      "issue": "טַף is masculine singular and a collective of little ones; «nuestro pequeño» matches that singular morphology but can be read as one male child.",
+      "spanishSpan": "nuestro pequeño"
+    }
+  ],
+  "notes": "The other tokens are present once, with hiphil «trayendo», «en la espada», and directional Egipto.",
+  "discardedUncitedFindings": 0
+}

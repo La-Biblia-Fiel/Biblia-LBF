@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:6",
+  "chapter": 11,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y la arnévet, porque subiente cud ella, y pezuña no partió; impura ella a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011006002"
+      ],
+      "issue": "Common noun (not a name) is dumped as the transliteration arnévet instead of Spanish.",
+      "spanishSpan": "arnévet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011006004"
+      ],
+      "issue": "Hiphil participle is causative; subiente keeps only simple upward motion and drops that stem force.",
+      "spanishSpan": "subiente"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011006005"
+      ],
+      "issue": "Common noun is left as English cud rather than Spanish, and cud pins one sense the bare noun morphology leaves open.",
+      "spanishSpan": "cud"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011006007",
+        "h03011006009"
+      ],
+      "issue": "Hiphil perfect 3fs is the animal dividing the hoof; pezuña no partió makes the hoof the subject of an intransitive split.",
+      "spanishSpan": "pezuña no partió"
+    }
+  ],
+  "notes": "porque, both ella, impura, and a ustedes match the conjunction, the two 3fs pronouns, the fs adjective, and 2mp לָכֶם.",
+  "discardedUncitedFindings": 0
+}

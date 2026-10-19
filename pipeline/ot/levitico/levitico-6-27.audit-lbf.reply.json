@@ -1,0 +1,31 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006027007",
+        "h03006027012"
+      ],
+      "issue": "Both tokens are qal imperfect 3rd masculine singular active (someone sprinkles). Spanish se rociare is passive: the 3ms sprinkler is gone and the sprinkled thing is the subject.",
+      "spanishSpan": "lo que se rociare"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006027013"
+      ],
+      "issue": "The preposition suffix is 3rd feminine singular (upon her). él is masculine.",
+      "spanishSpan": "sobre él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006027005"
+      ],
+      "issue": "Qal imperfect is be/become holy. se santificará can be read as reflexive self-sanctifying.",
+      "spanishSpan": "se santificará"
+    }
+  ],
+  "notes": "Todo el que tocare en su carne, desde su sangre, el vestido, lavarás, and en lugar santo match the remaining tokens."
+}

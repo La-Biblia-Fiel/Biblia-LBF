@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:32",
+  "chapter": 15,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Esta torá del fluente y del que saliere desde él yacimiento de semilla para impurecerse en ella,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015032002"
+      ],
+      "issue": "Common noun (construct) left untranslated as torá; it is not a proper name.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015032004",
+        "h03015032005",
+        "h03015032007"
+      ],
+      "issue": "Qal imperfect 3fs: the feminine noun is what goes out. del que saliere makes a masculine person the one who goes out.",
+      "spanishSpan": "del que saliere"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015032006"
+      ],
+      "issue": "Preposition suffix is 1st common plural (from us). desde él is 3rd masculine singular.",
+      "spanishSpan": "desde él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015032007"
+      ],
+      "issue": "Feminine construct noun of lying/emission rendered as a deposit site.",
+      "spanishSpan": "yacimiento"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03015032009"
+      ],
+      "issue": "Qal infinitive construct has no reflexive stem; se is grammatical smoothing.",
+      "spanishSpan": "impurecerse"
+    }
+  ],
+  "notes": "semilla matches the absolute seed noun; en ella matches the 3fs suffix.",
+  "discardedUncitedFindings": 0
+}

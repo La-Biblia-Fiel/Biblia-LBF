@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:39",
+  "chapter": 25,
+  "verse": 39,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando se empobreciere tu hermano contigo y se vendiere a ti, no lo servirás servicio de siervo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025039005",
+        "h03025039006",
+        "h03025039008",
+        "h03025039009",
+        "h03025039010",
+        "h03025039011"
+      ],
+      "issue": "Qal תעבד has the addressee as worker; בו marks the brother (sold to the addressee) as the one worked, and עבדת עבד is the slave-service imposed. «lo servirás» makes the brother the person served.",
+      "spanishSpan": "lo servirás"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025039001"
+      ],
+      "issue": "וכי is only a conjunction; «cuando» locks a temporal reading and leaves if/that/because closed.",
+      "spanishSpan": "cuando"
+    }
+  ],
+  "notes": "Niphal «se vendiere» and «servicio de siervo» stay within the tokens; 2fs suffixes on עמך and לך are not a person change in tú.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 8:11",
+  "chapter": 8,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y roció desde él sobre el altar siete veces, y ungió el altar y todos sus utensilios, y el lavatorio y su peana, para santificarlos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03008011002"
+      ],
+      "issue": "Suffix is 1st person common plural; Spanish «él» is 3rd person masculine singular.",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "Remaining tokens match person, number, stem, and participants.",
+  "discardedUncitedFindings": 0
+}

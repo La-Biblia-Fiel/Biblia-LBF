@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:2",
+  "chapter": 13,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Adam, cuando fuere en piel de su carne elevación o erupción o mancha, y fuere en piel de su carne a plaga de tsaráat, y será traído a Aarón el sacerdote o a uno desde sus hijos los sacerdotes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013002001"
+      ],
+      "issue": "אָדָם is a common masculine singular noun, not a proper name; Adam names one man and leaves the common noun untranslated.",
+      "spanishSpan": "Adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013002008"
+      ],
+      "issue": "סַפַּחַת is a scab (an attached crust); erupción adds a breaking-out.",
+      "spanishSpan": "erupción"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013002010"
+      ],
+      "issue": "בַהֶרֶת is a bright spot; mancha is a generic stain and drops the brightness.",
+      "spanishSpan": "mancha"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013002015"
+      ],
+      "issue": "צָרַעַת is a common noun, not a name; tsaráat leaves it untranslated.",
+      "spanishSpan": "tsaráat"
+    }
+  ],
+  "notes": "Skin-of-his-flesh twice, the hophal bringing, and Aarón the priest or one from his sons the priests match the tokens.",
+  "discardedUncitedFindings": 0
+}

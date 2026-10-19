@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:21",
+  "chapter": 25,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y mandaré mi bendición a ustedes en el año el sexto, y hará el producto a tres los años.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025021001"
+      ],
+      "issue": "«mandaré» with «bendición» and «a ustedes» can be read as send; H6680 piel licenses command/charge.",
+      "spanishSpan": "mandaré"
+    }
+  ],
+  "notes": "Person, number, articles, and the את-marked object otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

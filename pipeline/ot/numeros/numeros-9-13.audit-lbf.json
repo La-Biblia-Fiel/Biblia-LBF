@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:13",
+  "chapter": 9,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y el varón que él puro y en camino no fue, y cesare de hacer el Pésaj, y será cortada el alma aquella desde sus pueblos, porque ofrenda de Jehová no acercó en su cita; su pecado llevará el varón aquel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009013010"
+      ],
+      "issue": "הַפֶּסַח is a common noun, not a locked proper name; Pésaj dumps the untranslated lemma.",
+      "spanishSpan": "Pésaj"
+    }
+  ],
+  "notes": "Remaining clauses match the packet’s participants, number, and stem force.",
+  "discardedUncitedFindings": 0
+}

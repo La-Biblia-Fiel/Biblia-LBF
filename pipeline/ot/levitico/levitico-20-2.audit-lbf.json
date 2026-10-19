@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:2",
+  "chapter": 20,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y a hijos de Israel dirás: Varón varón desde hijos de Israel y desde el peregrino el peregrinante en Israel, que diere desde su semilla a Moloc, de morir morirá; pueblo de la tierra lo apedrearán en la piedra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020002018"
+      ],
+      "issue": "Hophal imperfect 3ms (be put to death) is rendered as active «morirá» (he will die); stem force is not preserved.",
+      "spanishSpan": "morirá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03020002014"
+      ],
+      "issue": "Qal imperfect 3ms is rendered as subjunctive «diere»; person and number match, mood is grammatical smoothing.",
+      "spanishSpan": "diere"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03020002022"
+      ],
+      "issue": "Preposition ב is rendered as locative «en»; the token also leaves instrumental with/by open.",
+      "spanishSpan": "en la piedra"
+    }
+  ],
+  "notes": "«morir» matches the qal infinitive absolute; the finite verb is hophal.",
+  "discardedUncitedFindings": 0
+}

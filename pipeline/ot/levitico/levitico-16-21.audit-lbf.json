@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:21",
+  "chapter": 16,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y apoyará Aarón sus dos manos sobre cabeza del macho cabrío el vivo, y confesará sobre él todas iniquidades de hijos de Israel y todas sus rebeliones, a todos sus pecados, y los dará sobre cabeza del macho cabrío, y enviará en mano de varón oportuno al desierto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016021003",
+        "h03016021004",
+        "h03016021005"
+      ],
+      "issue": "Spanish adds “sus” and “manos”; the packet object is only the feminine dual construct “two,” with no hand noun and no possessive suffix.",
+      "spanishSpan": "sus dos manos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016021009"
+      ],
+      "issue": "Morphology is hithpael perfect, not sequential perfect; “confesará” shifts it to future.",
+      "spanishSpan": "confesará"
+    }
+  ],
+  "notes": "Remaining clauses match the packet’s person, number, suffixes, and lexical range.",
+  "discardedUncitedFindings": 0
+}

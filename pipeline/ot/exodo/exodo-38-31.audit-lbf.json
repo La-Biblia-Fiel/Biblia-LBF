@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:31",
+  "chapter": 38,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "y las basas del atrio alrededor, y las basas de la puerta del atrio, y todas las estacas del mishkán y todas las estacas del atrio alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038031012"
+      ],
+      "issue": "Common noun left untranslated as mishkán; the token is a common noun, not a proper name.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "The rest of the verse matches the tokens in number, participants, and repetition.",
+  "discardedUncitedFindings": 0
+}

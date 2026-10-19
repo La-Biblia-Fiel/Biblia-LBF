@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:3",
+  "chapter": 7,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y toda su grasa acercará desde él: la cola y la grasa la cubriente el interior,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007003005"
+      ],
+      "issue": "מִמֶּנּוּ is a preposition with a 1st common plural suffix; «desde él» is 3rd masculine singular.",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens: all his fat, hiphil 3ms bring-near, the tail, and the fat that covers the interior.",
+  "discardedUncitedFindings": 0
+}

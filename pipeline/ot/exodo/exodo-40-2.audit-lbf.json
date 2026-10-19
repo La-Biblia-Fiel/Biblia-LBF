@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:2",
+  "chapter": 40,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "En el día del mes el primero, en el uno al mes, levantarás el mishkán de la tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040002008"
+      ],
+      "issue": "Common noun H4908 is left as the untranslated Hebrew mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Date formula, cardinal, hiphil 2ms, and tent construct otherwise follow the tokens.",
+  "discardedUncitedFindings": 0
+}

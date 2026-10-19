@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 17:14",
+  "chapter": 17,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Porque alma de toda carne su sangre en su alma ella, y dije a hijos de Israel: Sangre de toda carne no comerán, porque alma de toda carne su sangre ella; todo su comediente será cortado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03017014007"
+      ],
+      "issue": "Pronoun is 3rd masculine singular; ella is feminine and collapses it with the later 3rd feminine pronoun.",
+      "spanishSpan": "en su alma ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03017014023"
+      ],
+      "issue": "Qal active participle is masculine plural construct with a 3ms object suffix (the thing eaten); su comediente is one singular eater.",
+      "spanishSpan": "su comediente"
+    }
+  ],
+  "notes": "2mp comerán is ustedes address; niphal 3ms יכרת matches será cortado.",
+  "discardedUncitedFindings": 0
+}

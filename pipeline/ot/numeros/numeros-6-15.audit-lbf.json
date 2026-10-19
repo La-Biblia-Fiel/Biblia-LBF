@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:15",
+  "chapter": 6,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "y canasta de ázimos: sólet, tortas amasadas en el aceite, y obleas ázimas untadas en el aceite, y su minjá y sus libaciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006015003"
+      ],
+      "issue": "סלת (H5560) es sustantivo común; sólet vuelca el lema sin traducir al español.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006015003",
+        "h04006015004"
+      ],
+      "issue": "סלת es singular en estado constructo ligado a חלת; la coma deja sólet como ítem aparte y omite esa relación.",
+      "spanishSpan": "sólet, tortas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006015005"
+      ],
+      "issue": "El participio pasivo qal de בלל es mezcladas; amasadas añade el amasado.",
+      "spanishSpan": "amasadas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006015011"
+      ],
+      "issue": "מנחה (H4503) es sustantivo común; minjá vuelca el lema sin traducir al español.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Canasta, ambos ázimos, ambas frases de aceite, obleas y libaciones plurales conservan número y repetición.",
+  "discardedUncitedFindings": 0
+}

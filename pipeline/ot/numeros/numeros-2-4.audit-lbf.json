@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 2:4",
+  "chapter": 2,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y su ejército y sus contados: cuatro y setenta mil y seis cientos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04002004002"
+      ],
+      "issue": "The 3mp suffix is only «sus», which in Spanish agrees with plural «contados» and does not mark a plural possessor distinct from the 3ms suffix on «ejército».",
+      "spanishSpan": "sus contados"
+    }
+  ],
+  "notes": "Tokens match: and his army, and their numbered ones, four and seventy thousand and six hundreds.",
+  "discardedUncitedFindings": 0
+}

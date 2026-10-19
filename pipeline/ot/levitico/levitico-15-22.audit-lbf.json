@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:22",
+  "chapter": 15,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y todo el tocante en todo utensilio que se siente sobre él lavará sus vestidos, y se lavará en las aguas, y se impurecerá hasta la tarde.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015022004",
+        "h03015022005",
+        "h03015022006",
+        "h03015022007"
+      ],
+      "issue": "“que se siente sobre él” takes the utensil (nearest antecedent) as what feels/sits on a masculine él. תֵּשֵׁב is qal imperfect 3fs (she sits); עָלָיו resumes the masculine vessel as the place sat on. The feminine sitter is omitted and sitter and seat are reversed. Indicative “se siente” is sentir (feel), not sit.",
+      "spanishSpan": "que se siente sobre él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03015022013",
+        "h03015022014"
+      ],
+      "issue": "“hasta la tarde” may be heard as until afternoon; עַד הָעָרֶב is until the evening. Uncertain whether the evening limit is kept.",
+      "spanishSpan": "hasta la tarde"
+    }
+  ],
+  "notes": "Wash-clothes, bathe in the waters, and be unclean until the stated limit stay 3ms with the toucher.",
+  "discardedUncitedFindings": 0
+}

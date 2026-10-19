@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 2:25",
+  "chapter": 2,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Bandera de campamento de Dan tsafónah a sus ejércitos; y príncipe a hijos de Dan, Ajiezer hijo de Amishadai.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04002025004"
+      ],
+      "issue": "Common noun צָפֹנָה (north, with directional suffix) is left untranslated as tsafónah.",
+      "spanishSpan": "tsafónah"
+    }
+  ],
+  "notes": "Dan, Ajiezer, and Amishadai are proper names; Dan is the locked Spanish form.",
+  "discardedUncitedFindings": 0
+}

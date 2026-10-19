@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 17:4",
+  "chapter": 17,
+  "verse": 4,
+  "candidateLabel": "pulir",
+  "spanish": "y a abertura de tienda de reunión no lo trajere para acercar ofrenda a Jehová delante del tabernáculo de Jehová, sangre será contada al varón aquel; sangre derramó, y será cortado el varón aquel desde medio de su pueblo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03017004006"
+      ],
+      "issue": "Hiphil perfect 3ms is rendered as future subjunctive; person, number, and causative bring-force remain, but the mood is prospective rather than perfect.",
+      "spanishSpan": "trajere"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03017004011",
+        "h03017004012"
+      ],
+      "issue": "Construct משכן has no article token; “del” adds a Spanish article. Definiteness is only implied by the following proper name.",
+      "spanishSpan": "del tabernáculo"
+    }
+  ],
+  "notes": "Names, suffix, repetition, and both blood clauses stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

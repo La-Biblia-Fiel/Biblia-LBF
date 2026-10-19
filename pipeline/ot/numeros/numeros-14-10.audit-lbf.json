@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:10",
+  "chapter": 14,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo toda la congregación a apedrearlos con las piedras; y gloria de Jehová se apareció en tienda de reunión a todos hijos de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04014010001",
+        "h04014010003"
+      ],
+      "issue": "Qal sequential 3mp «and they said» is smoothed to singular «dijo» to agree with the singular collective congregación. Participants stay the whole congregation.",
+      "spanishSpan": "dijo"
+    }
+  ],
+  "notes": "Remaining tokens are represented: stone them with the stones; glory of Jehová appeared in the tent of meeting to all the sons of Israel.",
+  "discardedUncitedFindings": 0
+}

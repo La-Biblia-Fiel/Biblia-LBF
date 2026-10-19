@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 18:30",
+  "chapter": 18,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y guardarán mi guarda, para no hacer desde estatutos de las abominaciones que fueron hechas delante de ustedes, y no se contaminen en ellas; yo Jehová su Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03018030013"
+      ],
+      "issue": "בָּהֶם is a 3rd masculine plural suffix (“in them”); “ellas” is feminine and locks the pronoun to “abominaciones”.",
+      "spanishSpan": "en ellas"
+    }
+  ],
+  "notes": "2mp address as ustedes (guardarán, se contaminen, su) matches the packet; יהוה is Jehová.",
+  "discardedUncitedFindings": 0
+}

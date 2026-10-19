@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:47",
+  "chapter": 1,
+  "verse": 47,
+  "candidateLabel": "lbf",
+  "spanish": "Y los levitas a tribu de sus padres no fueron contados en medio de ellos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04001047002"
+      ],
+      "issue": "«a tribu» is ungrammatical Spanish for the preposition plus singular construct; the lamed and the tribe are present, and the wording does not add or drop a participant.",
+      "spanishSpan": "a tribu"
+    }
+  ],
+  "notes": "Negation, hothpaal perfect 3cp as passive, plural fathers, and the midst suffix match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:33",
+  "chapter": 25,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo que redimiere desde los levitas, y saldrá venta de casa y ciudad de su posesión en el yovel; porque casas de ciudades de los levitas, ella posesión de ellos en medio de hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025033010"
+      ],
+      "issue": "yovel leaves the common noun (H3104, morph common noun, not a proper name) untranslated",
+      "spanishSpan": "yovel"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025033001",
+        "h03025033002"
+      ],
+      "issue": "lo que redimiere takes the unmarked relative as a neuter object and the qal imperfect 3ms as future subjunctive",
+      "spanishSpan": "lo que redimiere"
+    }
+  ],
+  "notes": "The other tokens, including singular ella with the verbless possession clause, stay within the packet.",
+  "discardedUncitedFindings": 0
+}

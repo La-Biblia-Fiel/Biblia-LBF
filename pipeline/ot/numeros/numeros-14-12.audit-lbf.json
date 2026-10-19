@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:12",
+  "chapter": 14,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Lo heriré en la pestilencia, y lo desheredaré; y te haré a nación grande y fuerte desde él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014012009"
+      ],
+      "issue": "מִן + sufijo 3ms deja abiertos el comparativo y el origen; «desde él» cierra la lectura de origen y descarta «que él».",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "El resto del verso sigue persona, número y stem de los tokens.",
+  "discardedUncitedFindings": 0
+}

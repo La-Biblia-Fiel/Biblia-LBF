@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:21",
+  "chapter": 4,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y sacará el toro a fuera al campamento, y lo quemará conforme a lo que quemó el toro el primero; pecado de la asamblea él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004021009",
+        "h03004021010",
+        "h03004021011",
+        "h03004021012",
+        "h03004021013"
+      ],
+      "issue": "כַּאֲשֶׁר שָׂרַף is 3ms “as he burned,” and אֵת marks הַפָּר הָרִאשׁוֹן as the object. “conforme a lo que quemó el toro el primero” makes the bull the subject of quemó and the relative the thing burned.",
+      "spanishSpan": "conforme a lo que quemó el toro el primero"
+    }
+  ],
+  "notes": "The other clauses match the weqatal, objects, prepositions, and the verbless חַטַּאת הַקָּהָל הוּא.",
+  "discardedUncitedFindings": 0
+}

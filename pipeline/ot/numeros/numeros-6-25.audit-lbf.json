@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:25",
+  "chapter": 6,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Haga resplandecer Jehová sus faces a ti, y te haga gracia;",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006025005"
+      ],
+      "issue": "Qal jussive 3ms plus 2ms suffix is one verb of showing favor; Spanish splits it into the light verb haga and the noun gracia without a change of participants or stem force.",
+      "spanishSpan": "te haga gracia"
+    }
+  ],
+  "notes": "Hiphil jussive, Jehová, plural faces with 3ms suffix, and אל plus 2ms match the tokens.",
+  "discardedUncitedFindings": 0
+}

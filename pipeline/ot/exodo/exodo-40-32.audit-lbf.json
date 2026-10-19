@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:32",
+  "chapter": 40,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "En su entrar a la tienda de reunión y en su acercarse al altar lavarán, conforme a lo que mandó Jehová a Moisés.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02040032003",
+        "h02040032004"
+      ],
+      "issue": "«la» marca como definida la cadena אֹהֶל מוֹעֵד; ninguno de los dos nombres lleva artículo.",
+      "spanishSpan": "la"
+    }
+  ],
+  "notes": "El resto sigue los tokens: infinitivos con sufijo 3mp, qal imperfecto 3mp, piel perfecto 3ms, Jehová y Moisés.",
+  "discardedUncitedFindings": 0
+}

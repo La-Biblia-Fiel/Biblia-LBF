@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:37",
+  "chapter": 39,
+  "verse": 37,
+  "candidateLabel": "pulir",
+  "spanish": "el candelabro el puro, sus lámparas, lámparas del arreglo, y todos sus utensilios y el aceite de la lumbrera,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039037002",
+        "h02039037003"
+      ],
+      "issue": "Second «el» makes puro look like its own determined noun; the token is an attributive adjective of the lampstand.",
+      "spanishSpan": "el candelabro el puro"
+    }
+  ],
+  "notes": "Lamps repeated, 3fs suffixes, totality, oil, and luminary stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

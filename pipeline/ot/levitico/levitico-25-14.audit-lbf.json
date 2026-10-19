@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:14",
+  "chapter": 25,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando vendieren venta a tu prójimo, o comprar desde mano de tu prójimo, no oprimirán varón a su hermano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025014010",
+        "h03025014011",
+        "h03025014012",
+        "h03025014013"
+      ],
+      "issue": "Hiphil jussive 2mp is the prohibition on the addressees; איש is the distributive man and את marks אחיו as the only object. 'oprimirán varón a su hermano' reads bare 'varón' as the one oppressed and 'a su hermano' as a second participant.",
+      "spanishSpan": "oprimirán varón a su hermano"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025014009",
+        "h03025014010"
+      ],
+      "issue": "אל with hiphil jussive is a prohibition; 'oprimirán' is future indicative and can be read as a prediction.",
+      "spanishSpan": "no oprimirán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025014002"
+      ],
+      "issue": "Qal imperfect 2mp is ustedes address; 'vendieren' is obsolete future subjunctive rather than current 'vendan', without making the sellers a third party.",
+      "spanishSpan": "vendieren"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025014001"
+      ],
+      "issue": "כי is marked only as a conjunction; 'cuando' selects a temporal sense.",
+      "spanishSpan": "cuando"
+    }
+  ],
+  "notes": "Cognate venta, infinitive comprar, singular mano, and repeated tu prójimo match the tokens; 2ms tu with 2mp verbs is already in the Hebrew.",
+  "discardedUncitedFindings": 0
+}

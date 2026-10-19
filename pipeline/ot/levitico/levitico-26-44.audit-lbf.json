@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:44",
+  "chapter": 26,
+  "verse": 44,
+  "candidateLabel": "lbf",
+  "spanish": "Y también también esto, en su ser ellos en tierra de sus enemigos, no los deseché, y no los aborrecí para acabarlos, para quebrantar mi pacto con ellos, porque yo Jehová su Dios.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026044003"
+      ],
+      "issue": "Feminine singular demonstrative is smoothed to neuter esto; no extra referent.",
+      "spanishSpan": "esto"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026044004"
+      ],
+      "issue": "One 3mp suffix on the infinitive is expressed twice (su and ellos).",
+      "spanishSpan": "en su ser ellos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03026044015"
+      ],
+      "issue": "Conjunction כי is fixed as causal porque.",
+      "spanishSpan": "porque"
+    }
+  ],
+  "notes": "Double también matches אַף and גַּם; the final clause stays verbless.",
+  "discardedUncitedFindings": 0
+}

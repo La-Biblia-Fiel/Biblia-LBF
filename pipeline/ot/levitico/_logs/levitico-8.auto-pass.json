@@ -1,0 +1,259 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 8,
+  "kept": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    12,
+    13,
+    14,
+    18,
+    19,
+    21,
+    22,
+    23,
+    27,
+    29,
+    30,
+    32,
+    33,
+    34,
+    36
+  ],
+  "drafted": [],
+  "repaired": [
+    8,
+    11,
+    16,
+    17,
+    24,
+    25
+  ],
+  "repairedWithWarn": [
+    2,
+    15
+  ],
+  "parked": [
+    {
+      "verse": 7,
+      "notes": "clause role",
+      "spanish": "Y dio sobre él la túnica, y lo ciñó con el cinto, y lo vistió el manto, y dio sobre él el efod, y lo ciñó con cinturón del efod, y lo efodó a él en él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03008007008",
+            "h03008007009",
+            "h03008007010",
+            "h03008007011"
+          ],
+          "issue": "Hiphil 3ms clothes him (אתו) with (את H854) the robe. 'lo vistió el manto' drops that preposition, so the robe reads as the subject rather than what he clothes him with.",
+          "spanishSpan": "lo vistió el manto"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008007018",
+            "h03008007019"
+          ],
+          "issue": "Construct חשב plus definite האפד is the definite band of the ephod; 'cinturón' is bare.",
+          "spanishSpan": "cinturón del efod"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008007020",
+            "h03008007021"
+          ],
+          "issue": "The clause has לו ('to him') and no את object. Accusative 'lo' duplicates 'a él' unless read only as clitic doubling.",
+          "spanishSpan": "lo efodó a él"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "spanish check",
+      "spanish": "Y puso el turbante sobre su cabeza, y puso sobre el turbante al frente de sus faces lámina del oro, corona de la santidad, conforme a lo que mandó Jehová a Moisés.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "faces es el plural arcaico de faz; el lector actual no lo reconoce como rostro",
+          "spanishSpan": "faces"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "spanish check",
+      "spanish": "Y tomó Moisés el aceite de la unción, y ungió el tabernáculo y todo lo que en él, y los santificó.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "cláusula incompleta: falta el verbo y hay que adivinarlo",
+          "spanishSpan": "todo lo que en él"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "notes": "clause role",
+      "spanish": "Y el carnero descuartizó a sus cuartos, e hizo humear Moisés la cabeza y los cuartos y el sebo.",
+      "findings": []
+    },
+    {
+      "verse": 26,
+      "notes": "re-audit fail",
+      "spanish": "Y desde la canasta de los ázimos que delante de Jehová, tomó una torta ázima, y una torta de pan de aceite, y una oblea, y las puso sobre las grasas y sobre la pierna derecha.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03008026016"
+          ],
+          "issue": "Unmarked supplied object pronoun “las”; the qal verb only licenses that he put the items already named, and no pronoun token is present.",
+          "spanishSpan": "las"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y tomó Moisés a ellos de sobre sus palmas, e hizo humear hacia el altar sobre el holocausto; llenuras ellas a olor de reposo; ofrenda de fuego ella a Jehová.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008028011"
+          ],
+          "issue": "הם is 3mp; ellas is feminine so it agrees with llenuras, grammatical smoothing with the same plural referent",
+          "spanishSpan": "ellas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008028015"
+          ],
+          "issue": "הוא is 3ms; ella is feminine so it agrees with ofrenda, grammatical smoothing with the same singular referent",
+          "spanishSpan": "ella"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "notes": "clause role",
+      "spanish": "Y dijo Moisés a Aarón y a sus hijos: Cocerán la carne a abertura de tienda de reunión, y allí la comerán, y el pan que en canasta de las llenuras, conforme a lo que mandé, diciendo: Aarón y sus hijos lo comerán.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03008031007"
+          ],
+          "issue": "Piel imperative 2mp is a command; “Cocerán” is future indicative. Person and stem match; mood/force does not.",
+          "spanishSpan": "Cocerán"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008031010"
+          ],
+          "issue": "Locative “a” is grammatical smoothing; the token is a construct noun (opening), not a preposition.",
+          "spanishSpan": "a"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008031012"
+          ],
+          "issue": "“reunión” states the meeting sense; the noun also licenses appointed time/place, which is not stated.",
+          "spanishSpan": "reunión"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008031015"
+          ],
+          "issue": "אתו is 3ms; “la” is feminine so it agrees with carne, grammatical smoothing with the same singular referent.",
+          "spanishSpan": "la"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y a abertura de tienda de reunión se sentarán día y noche siete días, y guardarán guarda de Jehová, y no morirán, porque así fui mandado.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008035001"
+          ],
+          "issue": "Locative “a” is grammatical smoothing; the token is a construct noun (opening), not a preposition.",
+          "spanishSpan": "a"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008035004"
+          ],
+          "issue": "“se sentarán” selects sit; qal 3427 also licenses dwell/remain/stay, and the morphology does not choose. The “se” is only the Spanish pronominal.",
+          "spanishSpan": "se sentarán"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008035005"
+          ],
+          "issue": "Adverb “by day” is smoothed to the noun “día” so it pairs with “noche”; the day-and-night sense stays.",
+          "spanishSpan": "día"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03008035003"
+          ],
+          "issue": "“reunión” states the meeting sense; the noun also licenses appointed time/place, which is not stated.",
+          "spanishSpan": "reunión"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 7,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "Chose luces and perfecciones, both feminine in Spanish, for the masculine-plural Hebrew nouns urim/tumim, so los became las."
+    },
+    {
+      "verse": 9,
+      "note": "faces es el plural arcaico de faz; el lector actual no lo reconoce como rostro"
+    },
+    {
+      "verse": 10,
+      "note": "cláusula incompleta: falta el verbo y hay que adivinarlo"
+    },
+    {
+      "verse": 15,
+      "note": "Chose 'en' for בְּ (which also leaves on/with open) to render the locative sense with 'su dedo'."
+    },
+    {
+      "verse": 20,
+      "note": "hold: clause role — the ram is the object of נִתַּח (someone cuts the ram into its pieces), not the agent doing the cutting; that participant assignment is not repaired here."
+    },
+    {
+      "verse": 25,
+      "note": "Supplied the italicized copula *está* for the verbless relative over the fat, and added the missing definite article to the construct head pierna before de la derecha; no participant, number, or clause role was changed."
+    },
+    {
+      "verse": 31,
+      "note": "hold: clause role"
+    }
+  ]
+}

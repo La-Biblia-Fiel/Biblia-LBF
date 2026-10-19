@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:3",
+  "chapter": 3,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Estos nombres de hijos de Aarón, los sacerdotes los ungidos, que llenó su mano para sacerdotear.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04003003008",
+        "h04003003009"
+      ],
+      "issue": "מִלֵּא is 3ms and יָדָם is a singular hand with a 3mp suffix; «su mano» can be read as the singular subject’s own hand.",
+      "spanishSpan": "su mano"
+    }
+  ],
+  "notes": "Articles, singular hand, qal passive «ungidos», and piel «llenó» / «sacerdotear» stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:36",
+  "chapter": 11,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "Solo fuente y cisterna, reunión de aguas, será puro; y el tocante en su cadáver se impurecerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011036009"
+      ],
+      "issue": "The carcass noun is singular, but its suffix is 3rd masculine plural (their carcass). «su» does not mark a plural possessor and, beside the singular participle, reads as the toucher’s own carcass.",
+      "spanishSpan": "su"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens in number, person, and stem.",
+  "discardedUncitedFindings": 0
+}

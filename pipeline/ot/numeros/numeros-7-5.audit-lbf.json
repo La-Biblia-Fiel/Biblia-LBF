@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:5",
+  "chapter": 7,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Toma de parte de ellos, y serán a servir el servicio de tienda de reunión, y darás a ellos a los levitas, varón conforme a boca de su servicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007005002"
+      ],
+      "issue": "«de parte de» adds parte/behalf (or side). The token is only from-with them.",
+      "spanishSpan": "de parte de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007005006",
+        "h04007005007",
+        "h04007005008"
+      ],
+      "issue": "«el» makes the construct chain definite; עבדת אהל מועד has no article.",
+      "spanishSpan": "el servicio"
+    }
+  ],
+  "notes": "Take, be-to-serve, give them to the Levites, and man according to the mouth of his service match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

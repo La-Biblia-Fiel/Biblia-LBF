@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:45",
+  "chapter": 1,
+  "verse": 45,
+  "candidateLabel": "lbf",
+  "spanish": "Y fueron todos contados de hijos de Israel a casa de sus padres, desde hijo de veinte año y arriba, todo saliente ejército en Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001045012",
+        "h04001045013",
+        "h04001045014"
+      ],
+      "issue": "כָּל יֹצֵא צָבָא is each one (qal active participle, masculine singular) who goes out, with the army as what he goes out to. «todo saliente ejército» makes saliente modify ejército, so the army is what goes out.",
+      "spanishSpan": "todo saliente ejército"
+    }
+  ],
+  "notes": "Remaining tokens match in order, number, and person, including singular hijo/año and en Israel.",
+  "discardedUncitedFindings": 0
+}

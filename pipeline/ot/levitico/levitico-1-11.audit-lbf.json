@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 1:11",
+  "chapter": 1,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo degollará sobre muslo del altar, Tsafónah, delante de Jehová, y echarán hijos de Aarón, los sacerdotes, su sangre sobre el altar alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03001011006"
+      ],
+      "issue": "Common noun (H6828, feminine singular absolute) plus directional suffix left untranslated as the name-like form Tsafónah; the token licenses north plus direction, not a proper name.",
+      "spanishSpan": "Tsafónah"
+    }
+  ],
+  "notes": "Aarón and Jehová match locked forms; the other tokens are reflected in the Spanish.",
+  "discardedUncitedFindings": 0
+}

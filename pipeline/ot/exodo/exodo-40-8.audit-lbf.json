@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:8",
+  "chapter": 40,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y pondrás el atrio alrededor, y darás el masaj de la puerta del atrio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040008007"
+      ],
+      "issue": "מָסַךְ is a common noun; masaj dumps the untranslated lemma instead of a Spanish noun.",
+      "spanishSpan": "masaj"
+    }
+  ],
+  "notes": "The rest matches 2ms put the court around and give the covering of the gate of the court.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:23",
+  "chapter": 6,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y toda minjá de sacerdote entera será; no será comida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006023002"
+      ],
+      "issue": "minjá leaves the common noun untranslated; common nouns stay Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006023004",
+        "h03006023005"
+      ],
+      "issue": "Masculine adjective is rendered feminine entera so the predicate agrees with the 3fs subject.",
+      "spanishSpan": "entera"
+    }
+  ],
+  "notes": "Y, toda, de sacerdote, será, no, and passive será comida match the conjunction, כל, the construct, qal 3fs, the negative, and niphal 3fs.",
+  "discardedUncitedFindings": 0
+}

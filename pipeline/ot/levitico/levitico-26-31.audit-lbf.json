@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:31",
+  "chapter": 26,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y daré sus ciudades ruina, y desolaré sus santuarios, y no oleré en olor de su reposo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03026031011"
+      ],
+      "issue": "H5207 נִיחֹחַ is a soothing/quieting; “reposo” substitutes the root sense of rest and omits the soothing.",
+      "spanishSpan": "reposo"
+    }
+  ],
+  "notes": "1cs stems, 2mp “sus”, plural cities and sanctuaries, singular ruin, and בְּרֵיחַ as “en olor” match the tokens.",
+  "discardedUncitedFindings": 0
+}

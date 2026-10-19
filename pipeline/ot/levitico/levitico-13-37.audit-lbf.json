@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:37",
+  "chapter": 13,
+  "verse": 37,
+  "candidateLabel": "lbf",
+  "spanish": "Y si en sus ojos se paró el neteq, y pelo negro brotó en él, sanó el neteq; puro él. Y lo purificará el sacerdote.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013037004",
+        "h03013037010"
+      ],
+      "issue": "Common noun H5424 is left as the untranslated lemma dump \"neteq\" instead of a Spanish common noun.",
+      "spanishSpan": "el neteq"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens in conjunctions, dual eyes, qal perfects, niphal subject, verbless puro él, and piel weqatal with 3ms object and the priest.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:4",
+  "chapter": 2,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando acerques ofrenda de minjá, cocido de horno, sólet, tortas ázimas amasadas en el aceite, y obleas ázimas untadas en el aceite.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002004004"
+      ],
+      "issue": "minjá leaves the common noun H4503 untranslated; common nouns stay Spanish",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002004007"
+      ],
+      "issue": "sólet leaves the common noun H5560 untranslated; common nouns stay Spanish",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002004007",
+        "h03002004008"
+      ],
+      "issue": "סֹלֶת is construct and governs חַלּוֹת; the comma lists sólet as a separate item and drops that link",
+      "spanishSpan": "sólet, tortas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002004010"
+      ],
+      "issue": "amasadas specializes the qal passive of H1101 (mixed) as kneading",
+      "spanishSpan": "amasadas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03002004001"
+      ],
+      "issue": "cuando selects a temporal sense of the conjunction כִּי, which the morphology leaves open",
+      "spanishSpan": "cuando"
+    }
+  ],
+  "notes": "Construct de on ofrenda and horno, the article on both aceites, and 2ms acerques match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 8:31",
+  "chapter": 8,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Moisés a Aarón y a sus hijos: Cocerán la carne a abertura de tienda de reunión, y allí la comerán, y el pan que en canasta de las llenuras, conforme a lo que mandé, diciendo: Aarón y sus hijos lo comerán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03008031007"
+      ],
+      "issue": "Piel imperative 2mp is a command; “Cocerán” is future indicative. Person and stem match; mood/force does not.",
+      "spanishSpan": "Cocerán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008031010"
+      ],
+      "issue": "Locative “a” is grammatical smoothing; the token is a construct noun (opening), not a preposition.",
+      "spanishSpan": "a"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008031012"
+      ],
+      "issue": "“reunión” states the meeting sense; the noun also licenses appointed time/place, which is not stated.",
+      "spanishSpan": "reunión"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008031015"
+      ],
+      "issue": "אתו is 3ms; “la” is feminine so it agrees with carne, grammatical smoothing with the same singular referent.",
+      "spanishSpan": "la"
+    }
+  ],
+  "notes": "2mp comerán is ustedes address; 3mp lo comerán matches the quote; verbless אשר has no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

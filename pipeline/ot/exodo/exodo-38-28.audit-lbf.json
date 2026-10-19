@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:28",
+  "chapter": 38,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y de los mil setecientos setenta y cinco hizo ganchos a las columnas, y chapó sus cabezas y bandeó a ellas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038028012"
+      ],
+      "issue": "«bandeó» means to sway or move from side to side; Piel חשק means he joined or bound them.",
+      "spanishSpan": "bandeó"
+    }
+  ],
+  "notes": "The 1775, hooks, columns, overlay, and their heads match the tokens.",
+  "discardedUncitedFindings": 0
+}

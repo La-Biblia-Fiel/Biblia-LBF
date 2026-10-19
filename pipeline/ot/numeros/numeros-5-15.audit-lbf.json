@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:15",
+  "chapter": 5,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "y traerá el varón a su mujer al sacerdote, y traerá su ofrenda sobre ella, décima del efa harina de cebadas; no derramará sobre ella aceite, y no dará sobre ella incienso, porque minjá de celos ella, minjá de memorial, recordante iniquidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005015017",
+        "h04005015021"
+      ],
+      "issue": "עָלָיו is suffix 3ms (upon it); «sobre ella» makes it feminine and points to the woman.",
+      "spanishSpan": "sobre ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005015026"
+      ],
+      "issue": "הוּא is personal 3ms; «ella» is 3fs.",
+      "spanishSpan": "ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005015024",
+        "h04005015027"
+      ],
+      "issue": "מִנְחָה is a common noun left untranslated as minjá.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005015009"
+      ],
+      "issue": "Suffix is 3fs (her offering); «su» does not mark a feminine possessor.",
+      "spanishSpan": "su ofrenda"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005015029"
+      ],
+      "issue": "Hiphil participle (causing remembrance); «recordante» may only mean remembering.",
+      "spanishSpan": "recordante"
+    }
+  ],
+  "notes": "The first «sobre ella» matches עָלֶיהָ 3fs; the two עָלָיו that follow do not.",
+  "discardedUncitedFindings": 0
+}

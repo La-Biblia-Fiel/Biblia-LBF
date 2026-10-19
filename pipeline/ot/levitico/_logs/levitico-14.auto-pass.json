@@ -1,0 +1,515 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 14,
+  "kept": [
+    1,
+    9,
+    22,
+    23,
+    24,
+    25,
+    30,
+    33,
+    35,
+    39,
+    47,
+    50,
+    53
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 12,
+      "notes": "clause role",
+      "spanish": "Y tomará el sacerdote el cordero el uno, y lo acercará a culpa, y el log del aceite, y los balanceará balanceo delante de Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014012006",
+            "h03014012008"
+          ],
+          "issue": "«acercará … a culpa» hace de culpa el destino. לְאָשָׁם deja abierta la preposición (a/para/como) y marca el papel del cordero, no un lugar.",
+          "spanishSpan": "a culpa"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "notes": "clause role",
+      "spanish": "Y degollará el cordero en lugar que se degüella el pecado y el holocausto, en lugar de la santidad, porque como el pecado la culpa ella al sacerdote; santidad de santidades ella.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014013006",
+            "h03014013007",
+            "h03014013008",
+            "h03014013009",
+            "h03014013010"
+          ],
+          "issue": "Qal imperfect 3ms active slaughter, with את marking the sin and the burnt offering as objects, is rendered passive/impersonal.",
+          "spanishSpan": "se degüella"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014013011",
+            "h03014013012"
+          ],
+          "issue": "Locative 'in the place of the holiness' is rendered with the current-Spanish substitution idiom 'en lugar de' ('instead of the holiness').",
+          "spanishSpan": "en lugar de la santidad"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014013016",
+            "h03014013020"
+          ],
+          "issue": "Both pronouns are 3ms; 'ella' is feminine, matching Spanish 'culpa' rather than the masculine token.",
+          "spanishSpan": "ella"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "notes": "clause role",
+      "spanish": "Y si pobre él, y no su mano alcanzante, y tomará cordero uno, culpa a balanceo para expiar sobre él, y décima sólet una amasada en el aceite a minjá, y log de aceite,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014021015"
+          ],
+          "issue": "sólet dumps common noun H5560 untranslated; common nouns stay Spanish",
+          "spanishSpan": "sólet"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014021019"
+          ],
+          "issue": "minjá dumps common noun H4503 untranslated; common nouns stay Spanish",
+          "spanishSpan": "minjá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014021020"
+          ],
+          "issue": "log leaves measure noun H3849 in Hebrew form; uncertain whether it is the conventional unit name or an untranslated lemma dump",
+          "spanishSpan": "log"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014021017"
+          ],
+          "issue": "amasada may narrow qal passive H1101 (mix/mingle) to kneading",
+          "spanishSpan": "amasada"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014021014",
+            "h03014021016",
+            "h03014021017"
+          ],
+          "issue": "feminine décima, una, and amasada smooth masculine singular morphology on the tenth, the cardinal, and the passive participle; number and participant stay singular",
+          "spanishSpan": "décima sólet una amasada"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "notes": "clause role",
+      "spanish": "Y desde el aceite derramará el sacerdote sobre palma del sacerdote la izquierda.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014026006",
+            "h03014026007",
+            "h03014026008"
+          ],
+          "issue": "כַּף הַכֹּהֵן הַשְּׂמָאלִית is one definite construct, the priest’s left palm. “sobre palma … la izquierda” leaves palma without the article, so the phrase is harder to read as that single palm, without adding or dropping a participant.",
+          "spanishSpan": "sobre palma del sacerdote la izquierda"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "notes": "clause role",
+      "spanish": "Lo que alcanzare su mano, el uno pecado y el uno holocausto, sobre la minjá; y expiará el sacerdote sobre el que se purifica delante de Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014031007"
+          ],
+          "issue": "חַטָּאת (lemma 2403 b, feminine singular noun) remains open between sin and sin-offering; pecado resolves it to abstract sin and drops the offering sense licensed in parallel with עֹלָה.",
+          "spanishSpan": "pecado"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014031012"
+          ],
+          "issue": "הַמִּנְחָה is a common noun, not a proper name; minjá leaves the lemma untranslated instead of Spanish.",
+          "spanishSpan": "minjá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014031011"
+          ],
+          "issue": "עַל is only marked as a preposition (upon, over, concerning, in addition to); sobre narrows it toward a spatial on.",
+          "spanishSpan": "sobre"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "notes": "clause role",
+      "spanish": "Cuando entraren a tierra de Canaán que yo dando a ustedes a posesión, y daré plaga de tsaráat en casa de tierra de su posesión,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014034013"
+          ],
+          "issue": "צָרַעַת is a common noun, not a proper name; tsaráat leaves the lemma untranslated instead of a Spanish common noun.",
+          "spanishSpan": "tsaráat"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014034001"
+          ],
+          "issue": "כִּי is tagged only as a conjunction; Cuando selects the temporal sense and closes because/if/that.",
+          "spanishSpan": "Cuando"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014034010"
+          ],
+          "issue": "The ל on לַאֲחֻזָּה is rendered with the same a as the indirect object, so posesión can read as a second recipient rather than the possession for which the land is given.",
+          "spanishSpan": "a posesión"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "notes": "clause role",
+      "spanish": "Y la casa raspará desde casa alrededor, y derramarán el polvo que rasparon a fuera a la ciudad, a lugar impuro.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014041001",
+            "h03014041002",
+            "h03014041003"
+          ],
+          "issue": "את marks הַבַּיִת as the object of a 3ms hiphil imperfect. Spanish makes la casa the subject of raspará, so the house scrapes and the masculine singular actor is gone.",
+          "spanishSpan": "la casa raspará"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014041011",
+            "h03014041012",
+            "h03014041013"
+          ],
+          "issue": "אֶל־מִחוּץ לָעִיר is one goal: outside, with the city as the ל complement of מִחוּץ. Spanish splits it into two destinations, a fuera and a la ciudad, and fuera does not express the מ preposition.",
+          "spanishSpan": "a fuera a la ciudad"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014041003",
+            "h03014041010"
+          ],
+          "issue": "Both scrape verbs are hiphil. raspará and rasparon are simple active, so causative stem force is not shown.",
+          "spanishSpan": "raspará / rasparon"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "notes": "clause role",
+      "spanish": "Y tomará para pecar la casa dos pájaros, y madera de erez y carmesí y ezov.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014049002",
+            "h03014049003",
+            "h03014049004"
+          ],
+          "issue": "Piel infinitive with the house as direct object is rendered as “pecar”, the qal sense of committing sin, so the stem force on the house is changed.",
+          "spanishSpan": "para pecar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014049008"
+          ],
+          "issue": "Common noun ארז is left as the Hebrew form “erez” rather than Spanish.",
+          "spanishSpan": "erez"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014049009",
+            "h03014049010"
+          ],
+          "issue": "The construct “scarlet of worm” is reduced to “carmesí”, and the worm noun is omitted.",
+          "spanishSpan": "carmesí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014049011"
+          ],
+          "issue": "Common noun אֵזֹב is left as the Hebrew form “ezov” rather than Spanish.",
+          "spanishSpan": "ezov"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "notes": "clause role",
+      "spanish": "Y pecará la casa en sangre del pájaro y en las aguas las vivas y en el pájaro la viva y en madera del erez y en el ezov y en el carmesí.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014052001",
+            "h03014052002",
+            "h03014052003"
+          ],
+          "issue": "Piel sequential perfect 3ms takes the house as object (את); «pecará la casa» makes the house the subject of qal-force «sin», changing stem force and participant role.",
+          "spanishSpan": "pecará la casa"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014052011"
+          ],
+          "issue": "Common noun H730 is left in Hebrew form «erez» instead of a Spanish common noun.",
+          "spanishSpan": "erez"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014052012"
+          ],
+          "issue": "Common noun H231 is left in Hebrew form «ezov» instead of a Spanish common noun.",
+          "spanishSpan": "ezov"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03014052013",
+            "h03014052014"
+          ],
+          "issue": "The construct noun plus the definite noun is reduced to one color word, so one licensed noun in the chain is omitted.",
+          "spanishSpan": "el carmesí"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03014052008",
+            "h03014052009"
+          ],
+          "issue": "«la viva» keeps the feminine singular adjective but does not agree with masculine «pájaro», so the attributive link is unclear.",
+          "spanishSpan": "el pájaro la viva"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 2,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 3,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 4,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 5,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $262 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 6,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 7,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 8,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $262 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 10,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $262 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 11,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $262 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 14,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $262 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 15,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $262 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 16,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $263 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 17,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $263 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 18,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $263 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 19,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $263 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 20,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $262 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 27,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $264 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 28,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $264 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 29,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $264 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 32,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $264 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 36,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $264 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 37,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $265 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 38,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $264 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 40,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $264 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 42,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $264 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 43,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $264 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 44,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $265 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 45,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $265 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 46,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $265 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 48,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $265 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 51,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $265 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 54,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $265 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 55,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $265 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 56,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $266 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 57,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $265 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 12,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 13,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 21,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 26,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 31,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 34,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 41,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 49,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 52,
+      "note": "hold: clause role"
+    }
+  ]
+}

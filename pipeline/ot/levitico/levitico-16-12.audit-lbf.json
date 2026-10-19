@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:12",
+  "chapter": 16,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomará lleno el incensario brasas de fuego de sobre el altar, de delante de Jehová, y llenos sus puños incienso de especias molida, y traerá desde casa a la parójet.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016012017"
+      ],
+      "issue": "פָּרֹכֶת is a common noun (veil/curtain), not a name. “parójet” leaves that lemma untranslated.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016012014",
+        "h03016012012",
+        "h03016012013"
+      ],
+      "issue": "דַּקָּה is feminine singular “fine/thin” and qualifies קְטֹרֶת. “molida” means ground and is placed on plural “especias”.",
+      "spanishSpan": "especias molida"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016012002",
+        "h03016012010"
+      ],
+      "issue": "מְלֹא is a singular construct noun “fullness of”, smoothed to the adjectives “lleno” and “llenos” without a change of quantity.",
+      "spanishSpan": "lleno"
+    }
+  ],
+  "notes": "3ms futures, Jehová, coals of fire, from upon the altar, and from before Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

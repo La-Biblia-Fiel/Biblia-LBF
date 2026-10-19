@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:28",
+  "chapter": 1,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "A hijos de Isacar, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001028013",
+        "h04001028014",
+        "h04001028015"
+      ],
+      "issue": "El participio qal singular en estado constructo es quien sale, y el ejército es su complemento. «todo saliente ejército» hace de ejército el núcleo y de saliente su modificador, de modo que quien sale es el ejército.",
+      "spanishSpan": "todo saliente ejército"
+    }
+  ],
+  "notes": "El resto del versículo conserva preposiciones, sufijos, número y el nombre Isacar.",
+  "discardedUncitedFindings": 0
+}

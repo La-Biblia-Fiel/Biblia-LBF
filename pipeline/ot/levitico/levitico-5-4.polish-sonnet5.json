@@ -1,0 +1,22 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 5:4",
+  "chapter": 5,
+  "verse": 4,
+  "sourceDraft": "O alma, cuando jurare a pronunciar con labios a hacer mal o a hacer bien, a todo lo que pronunciare el adam en juramento, y se ocultare desde él, y él conociere, y culpado a una desde estas.",
+  "spanish": "O alma, cuando jurare a pronunciar con labios a hacer mal o a hacer bien, a todo lo que pronunciare el hombre en juramento, y se ocultare desde nosotros, y él hubiere conocido, y *será* culpado a una desde estas.",
+  "units": [],
+  "grammarChanges": [
+    "el adam -> el hombre: translated the untranslated H120 lemma into a Spanish common noun with its definite article.",
+    "desde él -> desde nosotros: corrected the pronoun to match the 1st person common plural suffix on H4480, not 3ms.",
+    "conociere -> hubiere conocido: rendered the qal perfect (H3045) as a perfect-aspect finite form instead of the simple future subjunctive used for the surrounding imperfect/niphal clauses.",
+    "culpado -> *será* culpado: supplied an italicized finite copula so the qal sequential perfect (H816) has a finite 3ms predicate instead of a bare participle."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Supplied the italicized copula *será* to give culpado a finite 3ms predicate and rendered yada'/H3045 as the compound hubiere conocido to mark its perfect aspect, distinct from the simple future-subjunctive forms used for the surrounding imperfect clauses.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:2",
+  "chapter": 38,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo sus cuernos sobre sus cuatro esquinas; desde él fueron sus cuernos, y lo chapó de bronce.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038002006"
+      ],
+      "issue": "מִמֶּנּוּ está etiquetado como preposición con sufijo de 1.ª persona común plural; «él» es 3.ª persona masculino singular.",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "El resto del verso conserva número, persona, piel y la repetición de los cuernos.",
+  "discardedUncitedFindings": 0
+}

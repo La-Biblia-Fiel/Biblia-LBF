@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 2:3",
+  "chapter": 2,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y los acampantes kedmah mizrajah: bandera de campamento de Judá a sus ejércitos; y príncipe a hijos de Judá, Najshón hijo de Aminadav.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04002003002"
+      ],
+      "issue": "Nombre común (H6924, singular absoluto con sufijo) queda como transcripción kedmah en lugar de español.",
+      "spanishSpan": "kedmah"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04002003003"
+      ],
+      "issue": "Nombre común (H4217, singular absoluto con sufijo) queda como transcripción mizrajah en lugar de español.",
+      "spanishSpan": "mizrajah"
+    }
+  ],
+  "notes": "El resto del versículo sigue número, persona y nombres propios del paquete.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:13",
+  "chapter": 23,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y su minjá dos décimos sólet mezclada en el aceite, ofrenda de fuego a Jehová, olor de reposo; y su libación vino cuarto del hin.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023013001"
+      ],
+      "issue": "H4503 is a common noun (feminine singular construct plus 3ms suffix); minjá leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023013004"
+      ],
+      "issue": "H5560 is a common noun (feminine singular absolute); sólet leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "sólet"
+    }
+  ],
+  "notes": "dos décimos, mezclada en el aceite, absolute ofrenda de fuego, a Jehová, olor de reposo, y su libación vino cuarto del hin stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

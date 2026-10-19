@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:22",
+  "chapter": 6,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y el sacerdote el ungido debajo de él desde sus hijos hará a ella; estatuto de siempre a Jehová; entera será hecha humear.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006022010"
+      ],
+      "issue": "כָּלִיל is a masculine singular adjective; entera is feminine so it agrees with the 3fs verb. Whole/entire is kept; the gender shift is grammatical smoothing.",
+      "spanishSpan": "entera"
+    }
+  ],
+  "notes": "The line follows the tokens, including 3ms hará, 3fs a ella, hophal será hecha humear, and Jehová.",
+  "discardedUncitedFindings": 0
+}

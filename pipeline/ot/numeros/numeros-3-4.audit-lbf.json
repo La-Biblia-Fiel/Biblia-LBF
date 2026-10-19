@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:4",
+  "chapter": 3,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y murió Nadav y Avihú delante de Jehová en su acercar ellos fuego extraño delante de Jehová en desierto de Sinai, y hijos no hubo a ellos; y sacerdoteó Elazar e Itamar sobre faces de Aarón su padre.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04003004015",
+        "h04003004013"
+      ],
+      "issue": "הָיוּ is qal perfect 3rd common plural with plural בָּנִים; hubo is impersonal singular. The plural remains on hijos and the existential sense of היה is kept.",
+      "spanishSpan": "hubo"
+    }
+  ],
+  "notes": "Singular wayyiqtols, hiphil acercar, and plural faces stay open and match the tokens.",
+  "discardedUncitedFindings": 0
+}

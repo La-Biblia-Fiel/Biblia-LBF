@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 15:3",
+  "chapter": 15,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y esta será su impureza en su flujo: destilando su carne su flujo, o selló su carne desde su flujo, su impureza ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015003005"
+      ],
+      "issue": "Qal perfect 3ms is rendered as the gerund destilando, so the finite perfect becomes a participle.",
+      "spanishSpan": "destilando"
+    }
+  ],
+  "notes": "The parallel hiphil perfect stays finite as selló; only the first perfect is recast.",
+  "discardedUncitedFindings": 0
+}

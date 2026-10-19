@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:14",
+  "chapter": 4,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y darán sobre él todos sus utensilios con que servirán sobre él en ellos: los braseros, los garfios y las palas y los tazones, todos utensilios del altar; y tenderán sobre él cubierta de piel de tahash, y pondrán sus varas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004014006",
+        "h04004014009"
+      ],
+      "issue": "אֲשֶׁר plus בָּהֶם is one relative with one preposition on the plural pronoun; «con que» and «en ellos» render that preposition twice.",
+      "spanishSpan": "con que servirán sobre él en ellos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004014025"
+      ],
+      "issue": "תַּחַשׁ is a common noun, left untranslated as tahash.",
+      "spanishSpan": "tahash"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens in order, number, and person.",
+  "discardedUncitedFindings": 0
+}

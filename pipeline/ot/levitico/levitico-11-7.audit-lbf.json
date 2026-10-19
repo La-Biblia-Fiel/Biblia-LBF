@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:7",
+  "chapter": 11,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y el cerdo, porque partiente pezuña él y hendiente hendidura de pezuña, y él cud no rumiará; impuro él a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011007011"
+      ],
+      "issue": "גֵּרָה is a common noun (fs absolute); \"cud\" leaves it in English instead of Spanish.",
+      "spanishSpan": "cud"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011007013"
+      ],
+      "issue": "Niphal imperfect 3ms is smoothed as a simple future; the imperfect does not lock future rather than a characteristic present, and the niphal is not marked. Subject stays 3ms.",
+      "spanishSpan": "rumiará"
+    }
+  ],
+  "notes": "Demás tokens: cerdo definido ms, participios, pezuña sg dos veces, él tres veces, negativo, adjetivo impuro, y לָכֶם como «a ustedes».",
+  "discardedUncitedFindings": 0
+}

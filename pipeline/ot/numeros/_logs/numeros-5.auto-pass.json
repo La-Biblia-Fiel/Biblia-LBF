@@ -1,0 +1,221 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "numeros",
+  "chapter": 5,
+  "kept": [
+    1,
+    2,
+    4,
+    5,
+    9,
+    10,
+    11,
+    16,
+    22,
+    24,
+    31
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 13,
+      "notes": "clause role",
+      "spanish": "y yaciere varón con ella yacimiento de semilla, y se ocultare desde ojos de su varón, y ella se ocultare, y ella impurecida, y testigo no hay en ella, y ella no fue asida,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04005013003"
+          ],
+          "issue": "H853 is the direct-object marker with a 3fs suffix; con turns her into accompaniment instead of the object.",
+          "spanishSpan": "con ella"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04005013001",
+            "h04005013006",
+            "h04005013009"
+          ],
+          "issue": "Sequential perfects are future subjunctive, a hypothetical mood the sequential-perfect forms do not mark.",
+          "spanishSpan": "yaciere … se ocultare … se ocultare"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04005013006",
+            "h04005013009"
+          ],
+          "issue": "Different lemmas (H5956 and H5641) are both ocultare, so the Spanish repeats one verb the tokens do not repeat.",
+          "spanishSpan": "se ocultare … se ocultare"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04005013011"
+          ],
+          "issue": "Niphal perfect 3fs is a bare participle, not a finite perfect.",
+          "spanishSpan": "impurecida"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "notes": "clause role",
+      "spanish": "Y juramentará a ella el sacerdote, y dirá a la mujer: Si no yació varón contigo, y si no te desviaste impureza debajo de tu varón, sé absuelta desde aguas de las amargas las maldicientes estas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04005019011",
+            "h04005019009"
+          ],
+          "issue": "אֹתָךְ is the direct-object marker plus 2fs, the same particle as אֹתָהּ rendered “a ella”. “contigo” makes her a companion (“with you”) of שָׁכַב instead of its object.",
+          "spanishSpan": "contigo"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04005019001",
+            "h04005019004"
+          ],
+          "issue": "Sequential perfects (hiphil 3ms and qal 3ms) are rendered as Spanish futures.",
+          "spanishSpan": "juramentará … dirá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04005019014"
+          ],
+          "issue": "Qal perfect 2fs is rendered with an unmarked reflexive “te”; reflexivity is not a separate token.",
+          "spanishSpan": "te desviaste"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04005019016"
+          ],
+          "issue": "תַּחַת is marked only as a preposition; “debajo de” locks the spatial “under” sense.",
+          "spanishSpan": "debajo de"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "clause role",
+      "spanish": "Esta torá de los celos, que se desviare mujer debajo de su varón y se impureció,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04005029002"
+          ],
+          "issue": "Common noun תּוֹרַת (H8451, construct) is left as the untranslated form torá instead of a Spanish common noun.",
+          "spanishSpan": "torá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04005029005"
+          ],
+          "issue": "Qal imperfect 3fs is smoothed as pronominal future subjunctive; se marks an intransitive and the mood is narrower than the imperfect, with no participant change.",
+          "spanishSpan": "se desviare"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04005029009"
+          ],
+          "issue": "Niphal sequential perfect is rendered as a past preterite, so the chained perfect sits in a completed past rather than the non-past contingency of the preceding imperfect.",
+          "spanishSpan": "se impureció"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 3,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $310 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 6,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $310 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 7,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $310 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 8,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $310 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 12,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $310 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 14,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $310 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 15,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $310 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 17,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $310 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 18,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $310 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 20,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $311 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 21,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $311 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 23,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $311 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 25,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $311 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 26,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $311 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 27,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $311 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 28,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $311 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 30,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $311 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 13,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 19,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 29,
+      "note": "hold: clause role"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:26",
+  "chapter": 14,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y desde el aceite derramará el sacerdote sobre palma del sacerdote la izquierda.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014026006",
+        "h03014026007",
+        "h03014026008"
+      ],
+      "issue": "כַּף הַכֹּהֵן הַשְּׂמָאלִית is one definite construct, the priest’s left palm. “sobre palma … la izquierda” leaves palma without the article, so the phrase is harder to read as that single palm, without adding or dropping a participant.",
+      "spanishSpan": "sobre palma del sacerdote la izquierda"
+    }
+  ],
+  "notes": "Y, desde, el aceite, derramará, both sacerdotes, sobre, and la izquierda match the conjunction, preposition, nouns, qal imperfect 3ms, and definite left adjective.",
+  "discardedUncitedFindings": 0
+}

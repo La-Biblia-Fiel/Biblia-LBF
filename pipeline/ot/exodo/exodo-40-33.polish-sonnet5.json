@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 40:33",
+  "chapter": 40,
+  "verse": 33,
+  "sourceDraft": "Y levantó el atrio alrededor al mishkán y al altar, y dio el masaj de la puerta del atrio. Y acabó Moisés la obra.",
+  "spanish": "Y levantó el atrio alrededor al tabernáculo y al altar, y dio la cortina de la puerta del atrio. Y acabó Moisés la obra.",
+  "units": [
+    {
+      "es": "Y levantó el atrio alrededor al tabernáculo y al altar",
+      "sourceTokenIds": [
+        "h02040033001",
+        "h02040033002",
+        "h02040033003",
+        "h02040033004",
+        "h02040033005",
+        "h02040033006"
+      ]
+    },
+    {
+      "es": "y dio la cortina de la puerta del atrio",
+      "sourceTokenIds": [
+        "h02040033007",
+        "h02040033008",
+        "h02040033009",
+        "h02040033010",
+        "h02040033011"
+      ]
+    },
+    {
+      "es": "Y acabó Moisés la obra.",
+      "sourceTokenIds": [
+        "h02040033012",
+        "h02040033013",
+        "h02040033014",
+        "h02040033015"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced the untranslated Hebraism 'mishkán' (H4908, Ncmsa) with the Spanish common noun 'tabernáculo'.",
+    "Replaced the untranslated Hebraism 'masaj' (H4539, Ncmsc) with the Spanish common noun 'cortina', adjusting agreement from 'el masaj' to 'la cortina'."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

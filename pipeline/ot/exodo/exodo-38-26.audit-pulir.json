@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:26",
+  "chapter": 38,
+  "verse": 26,
+  "candidateLabel": "pulir",
+  "spanish": "Beca al cráneo, mitad del siclo en siclo de la santidad, a todo el pasante sobre los contados, desde hijo de veinte año y arriba, a seiscientos tres mil quinientos cincuenta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02038026001"
+      ],
+      "issue": "Common noun rendered as the untranslated form «Beca»; in current Spanish that word means a scholarship, which the token does not license.",
+      "spanishSpan": "Beca"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038026008"
+      ],
+      "issue": "«pasante» can calque the singular qal active participle, but in current Latin American Spanish it commonly means an intern; the token only licenses one who passes or crosses.",
+      "spanishSpan": "el pasante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038026015",
+        "h02038026016",
+        "h02038026017",
+        "h02038026018",
+        "h02038026019",
+        "h02038026020",
+        "h02038026021",
+        "h02038026022"
+      ],
+      "issue": "The additive cardinals and their conjunctions are smoothed into one Spanish numeral; the value 603550 is unchanged.",
+      "spanishSpan": "seiscientos tres mil quinientos cincuenta"
+    }
+  ],
+  "notes": "Articles, construct «de», singular «año», and the count 603550 match the tokens.",
+  "discardedUncitedFindings": 0
+}

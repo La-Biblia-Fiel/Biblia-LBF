@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 3:38",
+  "chapter": 3,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "Y los acampantes delante del mishkán hacia el oriente, delante de tienda de reunión hacia el este: Moisés y Aarón y sus hijos, guardantes guarda del santuario a guarda de hijos de Israel; y el extraño el acercante será muerto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04003038003"
+      ],
+      "issue": "Common noun (artículo definido + H4908, no nombre propio) queda como el hebraísmo mishkán; los nombres comunes van en español.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "El resto del versículo conserva conjunción, participios, repetidos delante/guarda, oriente frente a este, nombres y el hofal singular.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:8",
+  "chapter": 7,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y el sacerdote el acercante holocausto de varón: piel del holocausto que acercó, al sacerdote, a él será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007008002",
+        "h03007008003",
+        "h03007008004"
+      ],
+      "issue": "The hiphil participle governs עלת as its object (את), but the Spanish sets holocausto beside acercante with no object link, so it no longer says that the one who brings near brings the burnt offering.",
+      "spanishSpan": "el acercante holocausto"
+    }
+  ],
+  "notes": "Other tokens match in order, number, and person; the object marker itself adds no separate lexical item.",
+  "discardedUncitedFindings": 0
+}

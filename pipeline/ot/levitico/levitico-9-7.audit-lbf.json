@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 9:7",
+  "chapter": 9,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Moisés a Aarón: Acércate al altar, y haz tu pecado y tu holocausto, y expiarás por ti y por el pueblo, y haz ofrenda del pueblo, y expiarás por ellos, conforme a lo que mandó Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03009007013",
+        "h03009007021"
+      ],
+      "issue": "Piel imperative 2ms is a command; future indicative «expiarás» states a later result.",
+      "spanishSpan": "expiarás"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03009007018",
+        "h03009007019",
+        "h03009007020"
+      ],
+      "issue": "את with the definite construct «offering of the people» is definite; bare «ofrenda» drops that.",
+      "spanishSpan": "ofrenda del pueblo"
+    }
+  ],
+  "notes": "Acércate and haz match the qal imperatives; names, pecado/holocausto, and בעד phrases match the tokens.",
+  "discardedUncitedFindings": 0
+}

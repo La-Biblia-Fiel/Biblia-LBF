@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:26",
+  "chapter": 4,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y toda su grasa hará humear hacia el altar, como grasa de sacrificio de los pazes; y expiará sobre él el sacerdote desde su pecado, y será perdonado a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004026001",
+        "h03004026002",
+        "h03004026003",
+        "h03004026004"
+      ],
+      "issue": "את marks all his fat as the object of the hiphil 3ms. Spanish makes «toda su grasa» the subject of «hará» and leaves «humear» without that object.",
+      "spanishSpan": "toda su grasa hará humear"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004026008"
+      ],
+      "issue": "The definite plural is kept, but «pazes» is an uncertain Spanish form for the peace-offering noun.",
+      "spanishSpan": "pazes"
+    }
+  ],
+  "notes": "The priest, suffixes, piel, min, and niphal clauses otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

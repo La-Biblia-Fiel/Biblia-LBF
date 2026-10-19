@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:5",
+  "chapter": 11,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y el shafán, porque subiente cud él, y pezuña no partirá; impuro él a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011005002"
+      ],
+      "issue": "Definite common noun left as a Hebrew transliteration; common nouns stay Spanish.",
+      "spanishSpan": "shafán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011005004",
+        "h03011005005"
+      ],
+      "issue": "Hiphil participle means causing its object to go up; subiente is a simple ascending form and cud is an untranslated English gloss of the feminine singular noun.",
+      "spanishSpan": "subiente cud"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011005007",
+        "h03011005009"
+      ],
+      "issue": "The feminine singular hoof is the fronted object; the hiphil imperfect is 3ms with the animal as subject. Spanish reads the hoof as what will not split.",
+      "spanishSpan": "pezuña no partirá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011005009"
+      ],
+      "issue": "Imperfect is not marked future; partirá resolves the aspect as future.",
+      "spanishSpan": "partirá"
+    }
+  ],
+  "notes": "Y, el, porque, both él, no, impuro, and a ustedes match the conjunction, article, כי, both הוא, לא, טמא, and לכם.",
+  "discardedUncitedFindings": 0
+}

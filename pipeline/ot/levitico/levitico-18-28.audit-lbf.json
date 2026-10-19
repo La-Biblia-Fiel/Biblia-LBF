@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 18:28",
+  "chapter": 18,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y no vomite la tierra a ustedes en su contaminar a ustedes a ella, conforme a lo que vomitó a la nación que delante de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03018028005",
+        "h03018028006"
+      ],
+      "issue": "The 2mp suffix on the piel infinitive is the subject (you defile her). 'su contaminar a ustedes a ella' makes ustedes an object of contaminar along with the 3fs object.",
+      "spanishSpan": "su contaminar a ustedes a ella"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03018028001",
+        "h03018028002"
+      ],
+      "issue": "לֹא plus hiphil imperfect licenses 'will not vomit'; subjunctive 'vomite' reads as a wish that it not vomit.",
+      "spanishSpan": "no vomite"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03018028007",
+        "h03018028008",
+        "h03018028010"
+      ],
+      "issue": "כַּאֲשֶׁר introduces the clause 'as she vomited the nation'. 'conforme a lo que' can make 'lo que' a second object or the subject beside that nation.",
+      "spanishSpan": "conforme a lo que vomitó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03018028012"
+      ],
+      "issue": "'delante de' smooths the preposition plus plural noun 'faces' into a bare preposition; 'before you' remains.",
+      "spanishSpan": "delante de ustedes"
+    }
+  ],
+  "notes": "Y, la tierra, a ustedes as object of vomite, a ella, singular la nación, and qal vomitó match the tokens.",
+  "discardedUncitedFindings": 0
+}

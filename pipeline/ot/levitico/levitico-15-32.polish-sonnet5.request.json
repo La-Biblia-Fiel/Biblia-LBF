@@ -1,0 +1,55 @@
+{
+  "model": "claude-sonnet-5",
+  "system": "You are Pulir, the Spanish polish layer for La Biblia Fiel.\n\nYou step in only when Cursor Auto, local lint, or the audit marked this\nverse questionable. A clean pass does not come to you. You do not draft\nfrom scratch.\n\nYou receive that draft and the source packet. Repair cited mismatches,\nthen grammar and flow. You do not translate from memory. You do not interpret.\n\nSPANISH: current Latin American (tú / ustedes), formal literary register.\nNever Spain vosotros (hagáis, veréis, mataréis, os). Never voseo.\nFor live birth: dar a luz, never archaic parir. Do not polish dar a luz\nback to parir.\nIf the draft used vosotros, change those verbs to ustedes. Do not the reverse.\n\nMODEL: You must behave as Claude Sonnet 5. Do not switch roles.\n\nFREEZE — do not change:\n- participants / who acts on whom\n- number (dual stays stones: las piedras / las dos piedras, never a stool,\n  el sexo, or entre las piernas)\n- person and stem force (qal 3fs \"she shall live\" stays vivirá, not que viva;\n  2pl stays Latin American ustedes, never vosotros)\n- conjunction sense\n- draft uncertainties\n- locked proper names (translation/PROPER_NAMES.md; keep Judá/Egipto/José\n  when locked; do not Hebraize to Yehudá/Mizraim/Yosef; do not dump\n  Mitsráyim/Elohím; do not turn Javán into Grecia in running text)\n\nALLOWED:\n- grammar, agreement, punctuation, sequence of tenses\n- word order required by Spanish\n- replacing a calque with the same licensed sense\n- a supplied copula, written in italics and nowhere else: *son*\n- one grammatical choice when a singular head noun and a plural\n  participle cannot both be kept. Put that choice in readerNote. Do not\n  leave the line unchanged to avoid the choice.\n\nLEAVE ON HOLD — do not repair these:\n- clause role, participants, who acts on whom\n- which noun a preposition governs\n- an את object treated as a לְ beneficiary\n\nIf the cited problem is one of those, return the draft Spanish unchanged.\nSet readerNote to \"hold: clause role\" and one sentence naming the role.\nThe human reads that verse in the translator. You do not get another turn.\n\nFORBIDDEN:\n- theology, other Bible versions, AHRC overriding the freeze\n- adding concepts, dropping units, resolving ambiguity\n- writing translation/*.md or STATUS.md\n\nKeep the draft's sourceTokenIds on each unit. Change only the Spanish.\n\nReturn JSON only:\n{\n  \"schema\": \"lbf-sonnet-polish-v1\",\n  \"book\": \"<slug>\",\n  \"chapter\": 0,\n  \"verse\": 0,\n  \"spanish\": \"...\",\n  \"units\": [{\"es\": \"...\", \"sourceTokenIds\": [\"h02001016007\"]}],\n  \"grammarChanges\": [\"...\"],\n  \"meaningChanges\": [],\n  \"readerNote\": \"\"\n}\nmeaningChanges must be empty.\nreaderNote is one sentence for the human reader, or empty. Use it when\nyou chose between two grammatical Spanish options, or when you marked a\nsupplied word. For a clause-role hold, start it with \"hold: clause role\".",
+  "user": "This verse is questionable. Repair only cited mismatches and grammar. Do not interpret. JSON only.\n\n{\"task\":\"polish-spanish-only\",\"freeze\":[\"Keep participants and who acts on whom.\",\"Keep number; dual stones stay stones, never a seat or stool.\",\"Keep stem force; vivirá stays vivirá.\",\"Do not turn auditor warnings into interpretive rewrites.\",\"A supplied copula is italics, *son*, not a rewrite.\",\"If the warn is only singular-head versus plural-participle agreement, choose the grammatical Spanish and fill readerNote.\",\"If the problem is clause role, participants, or which noun a preposition governs, return the Spanish unchanged and set readerNote to hold: clause role.\",\"Auditor fail: Common noun (construct) left untranslated as torá; it is not a proper name. [torá]\",\"Auditor fail: Qal imperfect 3fs: the feminine noun is what goes out. del que saliere makes a masculine person the one who goes out. [del que saliere]\",\"Auditor fail: Preposition suffix is 1st common plural (from us). desde él is 3rd masculine singular. [desde él]\",\"Auditor fail: Feminine construct noun of lying/emission rendered as a deposit site. [yacimiento]\",\"Auditor warn: Qal infinitive construct has no reflexive stem; se is grammatical smoothing. [impurecerse]\"],\"draft\":{\"spanish\":\"Esta torá del fluente y del que saliere desde él yacimiento de semilla para impurecerse en ella,\",\"units\":[],\"uncertainties\":[]},\"grokAudit\":{\"verdict\":\"fail\",\"findings\":[{\"severity\":\"fail\",\"sourceTokenIds\":[\"h03015032002\"],\"issue\":\"Common noun (construct) left untranslated as torá; it is not a proper name.\",\"spanishSpan\":\"torá\"},{\"severity\":\"fail\",\"sourceTokenIds\":[\"h03015032004\",\"h03015032005\",\"h03015032007\"],\"issue\":\"Qal imperfect 3fs: the feminine noun is what goes out. del que saliere makes a masculine person the one who goes out.\",\"spanishSpan\":\"del que saliere\"},{\"severity\":\"fail\",\"sourceTokenIds\":[\"h03015032006\"],\"issue\":\"Preposition suffix is 1st common plural (from us). desde él is 3rd masculine singular.\",\"spanishSpan\":\"desde él\"},{\"severity\":\"fail\",\"sourceTokenIds\":[\"h03015032007\"],\"issue\":\"Feminine construct noun of lying/emission rendered as a deposit site.\",\"spanishSpan\":\"yacimiento\"},{\"severity\":\"warn\",\"sourceTokenIds\":[\"h03015032009\"],\"issue\":\"Qal infinitive construct has no reflexive stem; se is grammatical smoothing.\",\"spanishSpan\":\"impurecerse\"}],\"notes\":\"semilla matches the absolute seed noun; en ella matches the 3fs suffix.\"},\"packet\":{\"schema\":\"lbf-source-packet-v1\",\"book\":\"levitico\",\"label\":\"Levítico\",\"testament\":\"ot\",\"textualBasis\":\"OSHB/WLC\",\"reference\":\"Levítico 15:32\",\"chapter\":15,\"verse\":32,\"oshbOsis\":\"Lev.15.32\",\"allowedSources\":[\"OSHB/WLC\",\"paleo-hebrew\",\"AHRC-nonbinding\"],\"forbiddenSources\":[\"memory\",\"theology\",\"RV1909\",\"BLE-gloss\",\"other-versions\"],\"tokens\":[{\"sourceTokenId\":\"h03015032001\",\"oshbId\":\"03rhN\",\"position\":1,\"surface\":\"זֹ֥את\",\"paleo\":\"𐤆𐤀𐤕\",\"lemma\":\"2063\",\"strongs\":\"H2063\",\"morph\":\"HPdxfs\",\"morphExpanded\":\"Hebrew; demonstrative feminine singular\"},{\"sourceTokenId\":\"h03015032002\",\"oshbId\":\"03mL7\",\"position\":2,\"surface\":\"תּוֹרַ֖ת\",\"paleo\":\"𐤕𐤅𐤓𐤕\",\"lemma\":\"8451\",\"strongs\":\"H8451\",\"morph\":\"HNcfsc\",\"morphExpanded\":\"Hebrew; noun common feminine singular construct\"},{\"sourceTokenId\":\"h03015032003\",\"oshbId\":\"03Lfy\",\"position\":3,\"surface\":\"הַזָּ֑ב\",\"paleo\":\"𐤄𐤆𐤁\",\"lemma\":\"d/2100\",\"strongs\":\"H2100\",\"morph\":\"HTd/Vqrmsa\",\"morphExpanded\":\"Hebrew; definite article; qal participle active\"},{\"sourceTokenId\":\"h03015032004\",\"oshbId\":\"034Um\",\"position\":4,\"surface\":\"וַאֲשֶׁ֨ר\",\"paleo\":\"𐤅𐤀𐤔𐤓\",\"lemma\":\"c/834 a\",\"strongs\":\"H834\",\"morph\":\"HC/Tr\",\"morphExpanded\":\"Hebrew; conjunction; relative\"},{\"sourceTokenId\":\"h03015032005\",\"oshbId\":\"03Eu9\",\"position\":5,\"surface\":\"תֵּצֵ֥א\",\"paleo\":\"𐤕𐤑𐤀\",\"lemma\":\"3318\",\"strongs\":\"H3318\",\"morph\":\"HVqi3fs\",\"morphExpanded\":\"Hebrew; qal imperfect 3rd feminine singular\"},{\"sourceTokenId\":\"h03015032006\",\"oshbId\":\"03VP9\",\"position\":6,\"surface\":\"מִמֶּ֛נּוּ\",\"paleo\":\"𐤌𐤌𐤍𐤅\",\"lemma\":\"4480 a\",\"strongs\":\"H4480\",\"morph\":\"HR/Sp1cp\",\"morphExpanded\":\"Hebrew; preposition; suffix 1st common plural\"},{\"sourceTokenId\":\"h03015032007\",\"oshbId\":\"03iXa\",\"position\":7,\"surface\":\"שִׁכְבַת\",\"paleo\":\"𐤔𐤊𐤁𐤕\",\"lemma\":\"7902\",\"strongs\":\"H7902\",\"morph\":\"HNcfsc\",\"morphExpanded\":\"Hebrew; noun common feminine singular construct\"},{\"sourceTokenId\":\"h03015032008\",\"oshbId\":\"03tSV\",\"position\":8,\"surface\":\"זֶ֖רַע\",\"paleo\":\"𐤆𐤓𐤏\",\"lemma\":\"2233\",\"strongs\":\"H2233\",\"morph\":\"HNcmsa\",\"morphExpanded\":\"Hebrew; noun common masculine singular absolute\"},{\"sourceTokenId\":\"h03015032009\",\"oshbId\":\"034Lt\",\"position\":9,\"surface\":\"לְטָמְאָה\",\"paleo\":\"𐤋𐤈𐤌𐤀𐤄\",\"lemma\":\"l/2930 a\",\"strongs\":\"H2930\",\"morph\":\"HR/Vqc\",\"morphExpanded\":\"Hebrew; preposition; qal infinitive construct\"},{\"sourceTokenId\":\"h03015032010\",\"oshbId\":\"03pjx\",\"position\":10,\"surface\":\"בָֽהּ\",\"paleo\":\"𐤁𐤄\",\"lemma\":\"b\",\"strongs\":null,\"morph\":\"HR/Sp3fs\",\"morphExpanded\":\"Hebrew; preposition; suffix 3rd feminine singular\"}]}}",
+  "replyPath": "/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/levitico/levitico-15-32.polish-sonnet5.reply.json",
+  "book": "levitico",
+  "chapter": 15,
+  "verse": 32,
+  "why": "questionable",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015032002"
+      ],
+      "issue": "Common noun (construct) left untranslated as torá; it is not a proper name.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015032004",
+        "h03015032005",
+        "h03015032007"
+      ],
+      "issue": "Qal imperfect 3fs: the feminine noun is what goes out. del que saliere makes a masculine person the one who goes out.",
+      "spanishSpan": "del que saliere"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015032006"
+      ],
+      "issue": "Preposition suffix is 1st common plural (from us). desde él is 3rd masculine singular.",
+      "spanishSpan": "desde él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03015032007"
+      ],
+      "issue": "Feminine construct noun of lying/emission rendered as a deposit site.",
+      "spanishSpan": "yacimiento"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03015032009"
+      ],
+      "issue": "Qal infinitive construct has no reflexive stem; se is grammatical smoothing.",
+      "spanishSpan": "impurecerse"
+    }
+  ],
+  "instruction": "You may mark a supplied copula in italics and you may choose the Spanish when a singular head noun disagrees with a plural participle. Record that choice in readerNote. If the problem is clause role, participants, or which noun a preposition governs, return the Spanish unchanged and set readerNote to 'hold: clause role'. Do not repair that verse."
+}

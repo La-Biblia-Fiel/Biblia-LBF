@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:33",
+  "chapter": 19,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando peregrinare contigo peregrino en su tierra, no lo oprimirán.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019033005"
+      ],
+      "issue": "The land suffix is 2nd masculine plural. “su” is the ustedes possessive, and it can also be read as the sojourner’s land.",
+      "spanishSpan": "su tierra"
+    }
+  ],
+  "notes": "contigo matches the 2ms suffix; oprimirán is ustedes for the 2mp hiphil; lo matches the 3ms object.",
+  "discardedUncitedFindings": 0
+}

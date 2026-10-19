@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:2",
+  "chapter": 7,
+  "verse": 2,
+  "candidateLabel": "pulir",
+  "spanish": "En lugar que degollarán el holocausto degollarán la culpa, y su sangre echará sobre el altar alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007002006",
+        "h03007002007",
+        "h03007002008",
+        "h03007002010"
+      ],
+      "issue": "הָאָשָׁם is the definite singular object of slaughter and the masculine possessor of the blood; «la culpa» names abstract guilt and omits the offering.",
+      "spanishSpan": "la culpa"
+    }
+  ],
+  "notes": "Place, both 3mp slaughter verbs, 3ms throw, blood, altar, and around match the tokens.",
+  "discardedUncitedFindings": 0
+}

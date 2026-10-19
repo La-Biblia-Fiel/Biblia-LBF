@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:15",
+  "chapter": 39,
+  "verse": 15,
+  "candidateLabel": "pulir",
+  "spanish": "E hicieron sobre el pectoral cadenas trenzadas, obra de cordón, oro puro.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02039015004",
+        "h02039015005"
+      ],
+      "issue": "שַׁרְשְׁרֹת is a feminine plural construct and גַּבְלֻת is a feminine singular absolute noun; Spanish turns that noun into the plural adjective trenzadas. The twisted sense remains.",
+      "spanishSpan": "cadenas trenzadas"
+    }
+  ],
+  "notes": "The rest matches the tokens: 3mp qal made, upon the singular breastpiece, cord-work, pure gold.",
+  "discardedUncitedFindings": 0
+}

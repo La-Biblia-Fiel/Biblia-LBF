@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:62",
+  "chapter": 7,
+  "verse": 62,
+  "candidateLabel": "lbf",
+  "spanish": "Cuchara una, diez oro, llena incienso.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007062001",
+        "h04007062003",
+        "h04007062004"
+      ],
+      "issue": "The feminine singular noun is construct and bound to the masculine ten and gold; the comma-list makes one spoon and ten gold separate items.",
+      "spanishSpan": "Cuchara una, diez oro"
+    }
+  ],
+  "notes": "The six token meanings stay in order, with feminine one and feminine full.",
+  "discardedUncitedFindings": 0
+}

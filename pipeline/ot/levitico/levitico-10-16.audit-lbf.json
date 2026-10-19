@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 10:16",
+  "chapter": 10,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y el macho cabrío del pecado buscando buscó Moisés, y he aquí quemado, y se enfureció sobre Elazar y sobre Itamar, hijos de Aarón los restantes, diciendo:",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03010016008"
+      ],
+      "issue": "Pual perfect 3ms is a finite passive (was burned); bare quemado smooths it to a participle/adjective without an auxiliary.",
+      "spanishSpan": "quemado"
+    }
+  ],
+  "notes": "Cognate infinitive, object marker, names, and the remaining-sons apposition stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

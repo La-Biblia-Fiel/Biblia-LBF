@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 12:9",
+  "chapter": 12,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y ardió nariz de Jehová en ellos, y anduvo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012009002"
+      ],
+      "issue": "Morphology is an affirmation particle (HTa), while lemma/Strong’s H639 leaves a noun open; «nariz» selects the anatomical noun and makes it the subject of ardió, so Jehová becomes only a possessor.",
+      "spanishSpan": "nariz de"
+    }
+  ],
+  "notes": "Verbs, Jehová, בָּם, and וַיֵּלַךְ match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:6",
+  "chapter": 25,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y será shabat de la tierra a ustedes para comida, a ti y a tu siervo y a tu sierva y a tu jornalero y a tu residente, los peregrinantes contigo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025006002"
+      ],
+      "issue": "Common noun H7676 (singular construct) is left as the untranslated lemma shabat.",
+      "spanishSpan": "shabat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025006011"
+      ],
+      "issue": "Qal active participle of sojourn (H1481 a) is rendered as peregrinantes, adding pilgrimage.",
+      "spanishSpan": "los peregrinantes"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03025006012"
+      ],
+      "issue": "Suffix is 2fs after a string of 2ms suffixes; contigo does not show the feminine and reads as the same tú.",
+      "spanishSpan": "contigo"
+    }
+  ],
+  "notes": "2mp ustedes then 2ms ti/tu, and construct de la tierra, match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:19",
+  "chapter": 9,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y en alargar la nube sobre el mishkán días muchos, y guardarán hijos de Israel guarda de Jehová, y no partirán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009019004"
+      ],
+      "issue": "Common noun (H4908, definite singular, not a proper name) is left as the Hebrew transliteration mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Other tokens match in order, person, number, and stem; את is only the object marker.",
+  "discardedUncitedFindings": 0
+}

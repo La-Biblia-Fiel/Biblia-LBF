@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:13",
+  "chapter": 4,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y desgrasarán el altar, y tenderán sobre él vestido de púrpura.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004013001",
+        "h04004013003"
+      ],
+      "issue": "Piel of H1878 with the altar as its object licenses clearing the altar of its fat-ashes. desgrasarán fixes that range as removing grease and leaves the ash sense unexpressed.",
+      "spanishSpan": "desgrasarán"
+    }
+  ],
+  "notes": "Conjunctions, the altar, spread upon it, and garment of purple match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

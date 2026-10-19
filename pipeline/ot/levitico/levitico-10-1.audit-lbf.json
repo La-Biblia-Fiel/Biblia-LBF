@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 10:1",
+  "chapter": 10,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomaron hijos de Aarón, Nadav y Avihú, varón su brasero, y dieron en ellos fuego, y pusieron sobre él incienso, y acercaron delante de Jehová fuego extraño, que no mandó a ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03010001001",
+        "h03010001002",
+        "h03010001006",
+        "h03010001007"
+      ],
+      "issue": "וַיִּקְחוּ has the sons of Aaron (Nadav and Avihú) as subject and אִישׁ מַחְתָּתוֹ as what was taken. 'tomaron hijos de Aarón' makes the sons the object of an unnamed subject, and 'varón su brasero' does not supply that object.",
+      "spanishSpan": "tomaron hijos de Aarón, Nadav y Avihú, varón su brasero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03010001009",
+        "h03010001007"
+      ],
+      "issue": "בָהֵן is a 3rd feminine plural suffix referring to the censers, distinct from the 3rd masculine plural men. After singular 'brasero', 'en ellos' is masculine plural and matches the men.",
+      "spanishSpan": "en ellos"
+    }
+  ],
+  "notes": "Jehová, the hiphil of acercaron, and אתָם as 'a ellos' match the tokens.",
+  "discardedUncitedFindings": 0
+}

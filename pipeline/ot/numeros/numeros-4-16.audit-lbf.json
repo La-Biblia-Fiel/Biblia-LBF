@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:16",
+  "chapter": 4,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuenta de Elazar hijo de Aarón el sacerdote: aceite de la lumbrera e incienso de los aromas y minjá del continuo y aceite de la unción; cuenta de todo el mishkán y todo lo que en él, en el santo y en sus utensilios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004016010"
+      ],
+      "issue": "Common noun מִנְחָה (H4503) is left as the untranslated lemma minjá; common nouns stay Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004016016"
+      ],
+      "issue": "Common noun מִשְׁכָּן (H4908) is left as the untranslated lemma mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04004016020"
+      ],
+      "issue": "בְּקֹדֶשׁ is anarthrous (preposition + absolute noun). en el santo adds a definite article and narrows the noun toward a definite masculine entity.",
+      "spanishSpan": "en el santo"
+    }
+  ],
+  "notes": "Aarón matches the locked name; Elazar is not locked in PROPER_NAMES. The second פקדת and the verbless אשר־בו are preserved.",
+  "discardedUncitedFindings": 0
+}

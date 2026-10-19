@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:26",
+  "chapter": 5,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomará puñado el sacerdote desde la minjá su memorial, y hará humear hacia el altar, y después hará beber a la mujer las aguas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005026004"
+      ],
+      "issue": "H4503 is a common noun; «minjá» leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Handful, priest, from-the-offering, its memorial, cause-to-smoke toward the altar, afterward, cause the woman to drink the waters match the tokens.",
+  "discardedUncitedFindings": 0
+}

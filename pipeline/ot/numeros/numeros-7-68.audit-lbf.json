@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:68",
+  "chapter": 7,
+  "verse": 68,
+  "candidateLabel": "lbf",
+  "spanish": "Cuchara una, diez oro, llena incienso.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007068001",
+        "h04007068004"
+      ],
+      "issue": "כַּף is construct, but «Cuchara una, diez oro» does not mark oro as its complement, so the material or measure link is only implicit in word order.",
+      "spanishSpan": "Cuchara una, diez oro"
+    }
+  ],
+  "notes": "Six tokens match in order; no shekel, extra noun, or theology.",
+  "discardedUncitedFindings": 0
+}

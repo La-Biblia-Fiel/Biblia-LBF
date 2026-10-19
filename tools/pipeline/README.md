@@ -91,6 +91,36 @@ same path. It enters the book file when the audit accepts it.
 `--no-resume` calls the models again. `--full` sends every verse to
 Sonnet, including a clean pass. Leave both off for a normal chapter.
 
+## Continue through the Old Testament
+
+Use the OT runner to avoid typing the next book and chapter by hand. It runs
+`auto_pass.py` sequentially and stops on errors:
+
+```sh
+git pull --ff-only
+python3 tools/pipeline/auto_ot.py --from-book exodo --from-chapter 21
+```
+
+Pull once before the pipeline starts, and only when the working tree permits
+it. Do not pull between chapters: the pipeline may have changed the tracked
+translation file. The runner does not commit, sign `STATUS.md`, align, or
+publish. When it finishes, a person must review the chapters and reports
+before recording any human approval.
+
+The OT runner processes six independent verses concurrently by default.
+Each verse still follows the same Auto → lint → conditional Sonnet → Auto
+re-audit → Spanish-check sequence, and translation-file writes are serialized.
+Use `--workers 1` for the original serial behavior or a smaller value if the
+Cursor service throttles concurrent calls. Cursor calls retry transient
+timeouts, network failures, empty answers, and malformed JSON twice by default.
+The controls are `LBF_CURSOR_TIMEOUT`, `LBF_CURSOR_RETRIES`, and
+`LBF_CURSOR_RETRY_DELAY`.
+
+A chapter that still has errors after its call retries is queued instead of
+stopping the OT run. After the first pass, the runner revisits incomplete
+chapters for two retry rounds. Change that with `--retry-rounds`; unresolved
+chapters remain errors and make the final command exit nonzero.
+
 The request queue is still there for answering inside the editor, one
 JSON file at a time:
 

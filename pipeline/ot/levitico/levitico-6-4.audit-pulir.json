@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:4",
+  "chapter": 6,
+  "verse": 4,
+  "candidateLabel": "pulir",
+  "spanish": "y será cuando pecare y *será* culpado, y devolverá el robo que robó, o la opresión que oprimió, o el depósito que fue depositado con él, o la pérdida que halló,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006004004"
+      ],
+      "issue": "Qal sequential perfect “be/become guilty” is smoothed as ser + participle “será culpado”; that can be heard as passive “be blamed,” while the guilty-state sense and the 3ms subject remain available and no blamer is named.",
+      "spanishSpan": "*será* culpado"
+    }
+  ],
+  "notes": "Cognate objects, hophal “fue depositado,” אִתּוֹ, person, and number match the tokens.",
+  "discardedUncitedFindings": 0
+}

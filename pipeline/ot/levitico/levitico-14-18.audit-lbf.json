@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:18",
+  "chapter": 14,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo restante en el aceite que sobre palma del sacerdote dará sobre cabeza del que se purifica, y expiará sobre él el sacerdote delante de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014018001",
+        "h03014018007",
+        "h03014018013"
+      ],
+      "issue": "«lo restante» queda como sujeto de «dará». הַנּוֹתָר (participio nifal) es lo que se coloca; יִתֵּן es qal 3ms transitivo y el agente es el sacerdote, sujeto del piel coordinado.",
+      "spanishSpan": "lo restante en el aceite que sobre palma del sacerdote dará"
+    }
+  ],
+  "notes": "El resto (sobre él, el sacerdote, delante de Jehová, hithpael) sigue los tokens.",
+  "discardedUncitedFindings": 0
+}

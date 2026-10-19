@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:28",
+  "chapter": 37,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo las varas, maderas de shitím, y las chapó de oro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037028005"
+      ],
+      "issue": "Common noun שִׁטִּים is left as the untranslated lemma shitím.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "Hizo, las varas, maderas, and chapó de oro match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

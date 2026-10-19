@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:25",
+  "chapter": 20,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y separarán entre la bestia la limpia a la inmunda, y entre el ave la inmunda a la limpia, y no abominarán sus almas en la bestia y en el ave y en todo lo que se arrastra el suelo, que separé a ustedes para contaminar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020025020",
+        "h03020025021",
+        "h03020025022"
+      ],
+      "issue": "הִבְדַּלְתִּי separates the אֲשֶׁר referent (the creatures); לָכֶם is only the preposition “to/for you.” “separé a ustedes” makes the addressees the object separated.",
+      "spanishSpan": "separé a ustedes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020025017",
+        "h03020025018",
+        "h03020025019"
+      ],
+      "issue": "Qal 3fs תִּרְמֹשׂ is not reflexive and agrees with הָאֲדָמָה as subject, with אֲשֶׁר as what is crept. “se arrastra el suelo” adds reflexive voice and makes the relative the subject and the ground the object.",
+      "spanishSpan": "se arrastra el suelo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03020025008",
+        "h03020025009"
+      ],
+      "issue": "הַטָּמֵא and לַטָּהֹר are masculine singular with עוֹף; feminine “inmunda/limpia” only follows the grammatical gender of ave.",
+      "spanishSpan": "la inmunda a la limpia"
+    }
+  ],
+  "notes": "2pl separarán/abominarán and sus with ustedes are licensed address; בין…ל and the objectless infinitive stay open.",
+  "discardedUncitedFindings": 0
+}

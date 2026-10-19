@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:22",
+  "chapter": 20,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y guardarán todos mis estatutos y todos mis juicios, y los harán, y no vomite a ustedes la tierra que yo trayente a ustedes allá para habitar en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020022016"
+      ],
+      "issue": "Hiphil active participle of bring is rendered by the nonce trayente, which is not Spanish for bringing, so the clause does not say that I bring you.",
+      "spanishSpan": "trayente"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03020022010",
+        "h03020022011"
+      ],
+      "issue": "Negated hiphil imperfect is a coordinated will-not; subjunctive vomite leans jussive or purpose without a purpose particle in the tokens.",
+      "spanishSpan": "no vomite"
+    }
+  ],
+  "notes": "2mp futures match ustedes address; the other tokens match in number, person, and participants.",
+  "discardedUncitedFindings": 0
+}

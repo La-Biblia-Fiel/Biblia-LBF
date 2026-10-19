@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:13",
+  "chapter": 6,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y esta torá del nazir: en día de llenarse días de su nézer, traerá a él a abertura de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006013002"
+      ],
+      "issue": "Common noun left as untranslated torá; the token is a common noun, not a name.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006013003"
+      ],
+      "issue": "Common noun left as untranslated nazir; the token is a common noun, not a name.",
+      "spanishSpan": "nazir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006013007"
+      ],
+      "issue": "Common noun left as untranslated nézer; the token is a common noun, not a name.",
+      "spanishSpan": "nézer"
+    }
+  ],
+  "notes": "Conjunction, demonstrative, article, qal infinitive, plural days, 3ms suffix, hiphil bring, object, and construct chain otherwise match.",
+  "discardedUncitedFindings": 0
+}

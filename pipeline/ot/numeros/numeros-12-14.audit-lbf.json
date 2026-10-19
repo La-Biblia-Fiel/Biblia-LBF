@@ -1,0 +1,58 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 12:14",
+  "chapter": 12,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Y si su padre escupiendo escupiere en sus faces, ¿no se avergonzaría siete días? Será cerrada siete días fuera al campamento, y después será reunida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012014005"
+      ],
+      "issue": "וְאָבִיהָ is conjunction plus her father. Unmarked si adds a conditional the tokens do not license.",
+      "spanishSpan": "si"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012014006",
+        "h04012014007"
+      ],
+      "issue": "Infinitive absolute plus qal perfect 3ms is emphatic completed spitting he spat. escupiere is future subjunctive and changes that perfect force.",
+      "spanishSpan": "escupiere"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04012014009",
+        "h04012014010"
+      ],
+      "issue": "הֲלֹא plus niphal imperfect 3fs is a rhetorical will she not be ashamed. Conditional avergonzaría shifts the imperfect to would.",
+      "spanishSpan": "se avergonzaría"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04012014016",
+        "h04012014017"
+      ],
+      "issue": "מִחוּץ is from plus outside and לַ is to the camp. fuera al leaves the separative from unstated and can read as motion toward the camp.",
+      "spanishSpan": "fuera al campamento"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04012014019"
+      ],
+      "issue": "Niphal imperfect 3fs is be gathered. reunida can add reunion or return.",
+      "spanishSpan": "será reunida"
+    }
+  ],
+  "notes": "Jehová, Moisés, plural faces, repeated seven days, and the niphal feminine shut clause are licensed.",
+  "discardedUncitedFindings": 0
+}

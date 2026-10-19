@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:73",
+  "chapter": 7,
+  "verse": 73,
+  "candidateLabel": "lbf",
+  "spanish": "Su ofrenda: plato de plata uno, treinta y cien su peso; tazón uno plata, setenta siclo en siclo de la santidad; los dos ellos llenos sólet amasada en el aceite a minjá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007073017"
+      ],
+      "issue": "sólet leaves the common noun סֹלֶת untranslated instead of Spanish",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007073018"
+      ],
+      "issue": "amasada narrows the qal passive of בלל (mixed) to kneading",
+      "spanishSpan": "amasada"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007073020"
+      ],
+      "issue": "minjá leaves the common noun מִנְחָה untranslated instead of Spanish",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Counts, suffixes, silver, shekel, and holiness otherwise track the tokens.",
+  "discardedUncitedFindings": 0
+}

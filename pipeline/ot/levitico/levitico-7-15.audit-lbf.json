@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:15",
+  "chapter": 7,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y carne de sacrificio de agradecimiento de sus pazes en día de su ofrenda será comida; no dejará desde ella hasta mañana.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007015010"
+      ],
+      "issue": "The suffix is 1st person common plural (from us); «desde ella» is 3rd person feminine singular.",
+      "spanishSpan": "desde ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007015012"
+      ],
+      "issue": "בקר is morning; «hasta mañana» in current Latin American Spanish says until tomorrow.",
+      "spanishSpan": "hasta mañana"
+    }
+  ],
+  "notes": "The rest of the clause chain, niphal «será comida», and hiphil «dejará» match the packet.",
+  "discardedUncitedFindings": 0
+}

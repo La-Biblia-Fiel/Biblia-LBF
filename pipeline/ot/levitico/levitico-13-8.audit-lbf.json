@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:8",
+  "chapter": 13,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y verá el sacerdote, y he aquí se extendió la erupción en la piel, y lo impurecerá el sacerdote; tsaráat ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013008009"
+      ],
+      "issue": "Common noun צָרַעַת is left as the untranslated lemma tsaráat; a non-name must be Spanish.",
+      "spanishSpan": "tsaráat"
+    }
+  ],
+  "notes": "The rest matches the tokens: weqatal see and piel+3ms suffix, qal perfect 3fs spread, definite mispáḥat, in the skin, and 3fs הִוא.",
+  "discardedUncitedFindings": 0
+}

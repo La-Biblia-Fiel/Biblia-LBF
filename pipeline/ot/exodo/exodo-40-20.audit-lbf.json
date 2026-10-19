@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 40:20",
+  "chapter": 40,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomó y dio el testimonio al arca, y puso las varas sobre el arca, y dio la kappóret sobre el arca desde arriba.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02040020014"
+      ],
+      "issue": "Common noun (H3727, definite feminine singular) is left as the untranslated transliteration kappóret; a non-name lemma must be Spanish.",
+      "spanishSpan": "la kappóret"
+    }
+  ],
+  "notes": "The other clauses match the 3ms verbs, the repeated arca, plural varas, and desde arriba.",
+  "discardedUncitedFindings": 0
+}

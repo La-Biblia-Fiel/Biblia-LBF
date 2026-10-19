@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 24:21",
+  "chapter": 24,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y hiriente de bestia, la pagará; y hiriente de adam, morirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03024021006"
+      ],
+      "issue": "Hophal imperfect 3ms (be put to death) is rendered as simple morirá, changing stem force from passive causation to intransitive death.",
+      "spanishSpan": "morirá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03024021005"
+      ],
+      "issue": "Common noun אדם is left untranslated as adam; common nouns stay Spanish.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03024021001",
+        "h03024021002",
+        "h03024021004",
+        "h03024021005"
+      ],
+      "issue": "de is grammatical smoothing linking each hiphil participle to its direct-object noun; the packet has no preposition.",
+      "spanishSpan": "de"
+    }
+  ],
+  "notes": "Y, both hiriente, bestia, and la pagará (piel 3ms + 3fs suffix) match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

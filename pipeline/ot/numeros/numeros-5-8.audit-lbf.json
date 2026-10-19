@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:8",
+  "chapter": 5,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y si no hay al varón redentor para devolver la culpa a él, la culpa la devuelta a Jehová al sacerdote, aparte de carnero de las expiaciones que expiará en él sobre él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005008002",
+        "h04005008003",
+        "h04005008004"
+      ],
+      "issue": "אֵין לָאִישׁ גֹּאֵל licenses “there is not, to the definite man, an anarthrous redeemer.” “al varón redentor” is one definite noun phrase, so the man is the redeemer.",
+      "spanishSpan": "no hay al varón redentor"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04005008013",
+        "h04005008014"
+      ],
+      "issue": "Construct אֵיל before definite הַכִּפֻּרִים makes the ram definite; bare carnero does not show that.",
+      "spanishSpan": "carnero de las expiaciones"
+    }
+  ],
+  "notes": "Repeated האשם, hophal המושב, both ל phrases, piel יכפר, and בו plus עליו stay open and matched.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 8:35",
+  "chapter": 8,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Y a abertura de tienda de reunión se sentarán día y noche siete días, y guardarán guarda de Jehová, y no morirán, porque así fui mandado.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008035001"
+      ],
+      "issue": "Locative “a” is grammatical smoothing; the token is a construct noun (opening), not a preposition.",
+      "spanishSpan": "a"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008035004"
+      ],
+      "issue": "“se sentarán” selects sit; qal 3427 also licenses dwell/remain/stay, and the morphology does not choose. The “se” is only the Spanish pronominal.",
+      "spanishSpan": "se sentarán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008035005"
+      ],
+      "issue": "Adverb “by day” is smoothed to the noun “día” so it pairs with “noche”; the day-and-night sense stays.",
+      "spanishSpan": "día"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008035003"
+      ],
+      "issue": "“reunión” states the meeting sense; the noun also licenses appointed time/place, which is not stated.",
+      "spanishSpan": "reunión"
+    }
+  ],
+  "notes": "2mp futures match ustedes address; cognate guarda, Jehová, and pual 1cs “fui mandado” stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

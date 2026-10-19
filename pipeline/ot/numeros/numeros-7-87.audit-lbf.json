@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 7:87",
+  "chapter": 7,
+  "verse": 87,
+  "candidateLabel": "lbf",
+  "spanish": "Todo el ganado al holocausto: doce toros, carneros doce, corderos hijos de año doce, y su minjá; y machos cabríos de cabras doce a pecado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007087003"
+      ],
+      "issue": "al adds a definite article; the morphology is preposition plus absolute noun, with no article",
+      "spanishSpan": "al"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04007087015"
+      ],
+      "issue": "minjá leaves the common noun untranslated; a common noun stays Spanish",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04007087002",
+        "h04007087007",
+        "h04007087010"
+      ],
+      "issue": "The colon list reads the rams and lambs as the contents of todo el ganado; the cattle token is tallied by the twelve bulls, and the ram and lamb phrases stand apart",
+      "spanishSpan": "Todo el ganado al holocausto: doce toros, carneros doce, corderos hijos de año doce"
+    }
+  ],
+  "notes": "The four twelves, sons-of-year, singular offering with a plural suffix, and a pecado match the token sequence.",
+  "discardedUncitedFindings": 0
+}

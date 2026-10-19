@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:33",
+  "chapter": 11,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y todo utensilio de barro que cayere desde ellos a su medio, todo lo que en su medio se impurecerá, y a él quebrarás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011033014"
+      ],
+      "issue": "Qal imperfect 2nd person masculine plural is a plural address (ustedes). quebrarás is 2nd person singular, so the number of the addressees changes.",
+      "spanishSpan": "quebrarás"
+    }
+  ],
+  "notes": "The vessel, the fall from them into its midst, the contents becoming unclean, and the object suffix otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

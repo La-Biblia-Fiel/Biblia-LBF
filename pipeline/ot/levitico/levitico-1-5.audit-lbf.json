@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 1:5",
+  "chapter": 1,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y degollará al hijo del ganado delante de Jehová, y acercarán hijos de Aarón, los sacerdotes, la sangre, y echarán la sangre sobre el altar alrededor, que a abertura de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03001005019",
+        "h03001005020"
+      ],
+      "issue": "Unmarked “a” has no token between the relative and the entrance noun.",
+      "spanishSpan": "a"
+    }
+  ],
+  "notes": "Person, number, repetition of the blood, and the other lexemes match the tokens.",
+  "discardedUncitedFindings": 0
+}

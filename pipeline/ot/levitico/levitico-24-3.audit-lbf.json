@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 24:3",
+  "chapter": 24,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Desde fuera a la parójet del testimonio en tienda de reunión lo ordenará Aarón desde tarde hasta mañana delante de Jehová siempre; estatuto de siempre a generaciones de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03024003002"
+      ],
+      "issue": "Common noun (feminine singular construct, not a proper name) is left as the untranslated Hebraism parójet instead of Spanish.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03024003014",
+        "h03024003016"
+      ],
+      "issue": "Distinct lemmas, continual regularity and perpetual duration, are both rendered siempre.",
+      "spanishSpan": "siempre"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03024003009"
+      ],
+      "issue": "Evening noun is rendered tarde, which in current Latin American Spanish is afternoon and may widen the time.",
+      "spanishSpan": "tarde"
+    }
+  ],
+  "notes": "Person, number, prepositions, object suffix, and 2mp as ustedes otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

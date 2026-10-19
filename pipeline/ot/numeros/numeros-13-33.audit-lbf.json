@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:33",
+  "chapter": 13,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y allí vimos a los nefilim, hijos de Anáq desde los nefilim; y fuimos en nuestros ojos como langostas, y así fuimos en sus ojos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013033004",
+        "h04013033008"
+      ],
+      "issue": "Common noun H5303 (definite article + masculine plural), left as the untranslated lemma nefilim.",
+      "spanishSpan": "los nefilim"
+    }
+  ],
+  "notes": "Anáq is the proper noun; the rest of the clause matches the tokens.",
+  "discardedUncitedFindings": 0
+}

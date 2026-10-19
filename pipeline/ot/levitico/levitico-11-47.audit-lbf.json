@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:47",
+  "chapter": 11,
+  "verse": 47,
+  "candidateLabel": "lbf",
+  "spanish": "para separar entre lo impuro y entre lo puro, y entre la bestia viva la comida y entre la bestia viva que no será comida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011047008"
+      ],
+      "issue": "The articular niphal passive participle (the one that is eaten) is rendered as the noun phrase la comida (the food/meal), so the passive sense of being eaten is omitted.",
+      "spanishSpan": "la comida"
+    }
+  ],
+  "notes": "The parallel que no será comida keeps niphal imperfect 3fs; the first eating token does not.",
+  "discardedUncitedFindings": 0
+}

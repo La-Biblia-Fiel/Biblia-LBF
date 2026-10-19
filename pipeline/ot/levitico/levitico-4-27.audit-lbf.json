@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:27",
+  "chapter": 4,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y si alma una pecare por error desde pueblo de la tierra, en su hacer una desde mandamientos de Jehová que no se harán, y culpado:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03004027015"
+      ],
+      "issue": "Qal sequential perfect 3ms is a finite stative 'and he is/becomes guilty'; 'culpado' is a passive participle of culpar ('blamed'), dropping the verbal predicate and shifting qal stem force toward external blame.",
+      "spanishSpan": "culpado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004027005"
+      ],
+      "issue": "Beth plus the inadvertence noun is smoothed to causal 'por' ('por error') rather than 'in/by' the error.",
+      "spanishSpan": "por error"
+    }
+  ],
+  "notes": "Remaining tokens match, including Jehová, both feminine 'una', niphal plural 'se harán', and 3fs 'su hacer'.",
+  "discardedUncitedFindings": 0
+}

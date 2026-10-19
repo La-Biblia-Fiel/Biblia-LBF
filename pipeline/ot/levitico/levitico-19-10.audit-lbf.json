@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 19:10",
+  "chapter": 19,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y tu viña no rebusques, y grano caído de tu viña no recojas; al pobre y al peregrino dejarás a ellos; yo Jehová su Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03019010004"
+      ],
+      "issue": "«grano» names cereal grain. H6528 is one construct noun for the vine’s broken-off fallen fruit, so the Spanish names a crop the token does not license.",
+      "spanishSpan": "grano caído"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019010009"
+      ],
+      "issue": "In current Latin American Spanish «peregrino» primarily means pilgrim and can add a journey the token does not state. H1616 is a masculine singular sojourner or resident alien.",
+      "spanishSpan": "peregrino"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03019010008"
+      ],
+      "issue": "The definite article in «al» is grammatical smoothing. The token is a preposition plus an anarthrous masculine singular adjective.",
+      "spanishSpan": "al pobre"
+    }
+  ],
+  "notes": "«su Dios» is the ustedes possessive of the 2mp suffix and is not a third-party shift; the verbless clause has no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

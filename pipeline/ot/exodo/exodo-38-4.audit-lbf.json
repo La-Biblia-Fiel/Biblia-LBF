@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:4",
+  "chapter": 38,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo al altar enrejado, obra de red de bronce, debajo de su borde desde abajo hasta su mitad.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038004003"
+      ],
+      "issue": "enrejado can be read as an adjective on the altar; the token is a separate masculine singular noun, the object made",
+      "spanishSpan": "enrejado"
+    }
+  ],
+  "notes": "Y hizo, al altar, obra de red de bronce, debajo de su borde, desde abajo, hasta su mitad match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

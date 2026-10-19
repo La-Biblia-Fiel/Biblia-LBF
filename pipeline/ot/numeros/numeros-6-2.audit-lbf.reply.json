@@ -1,0 +1,38 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006002014"
+      ],
+      "issue": "נָזִיר is a common noun, not a proper name; \"nazir\" dumps the untranslated lemma instead of a Spanish common noun.",
+      "spanishSpan": "voto de nazir"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006002015"
+      ],
+      "issue": "לְהַזִּיר is a hiphil infinitive (to separate/consecrate); \"para nazir\" repeats a noun and drops the verbal stem.",
+      "spanishSpan": "para nazir"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006002010"
+      ],
+      "issue": "כִּי is only a conjunction (that/if/when/because); \"cuando\" selects the temporal sense.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04006002011"
+      ],
+      "issue": "One hiphil verb is split into \"hacer\" plus the noun \"maravilla\", which can be read as a separate marvel done in order to vow.",
+      "spanishSpan": "hiciere maravilla"
+    }
+  ],
+  "notes": "The address, man-or-woman, cognate vow infinitive plus construct noun, and Jehová match the tokens."
+}

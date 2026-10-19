@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:23",
+  "chapter": 16,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y entrará Aarón a tienda de reunión, y desnudará los vestidos del lino que vistió en su entrar al santo, y los dejará allí.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016023014"
+      ],
+      "issue": "הַקֹּדֶשׁ is a common noun of holiness/holy thing. Current Spanish «el santo» commonly names a holy person.",
+      "spanishSpan": "al santo"
+    }
+  ],
+  "notes": "Person, number, objects, and the remaining clauses match the tokens.",
+  "discardedUncitedFindings": 0
+}

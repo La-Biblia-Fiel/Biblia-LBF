@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 26:2",
+  "chapter": 26,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Mis shabatot guardarán, y mi santuario temerán; yo Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03026002002"
+      ],
+      "issue": "Common noun (plural + 1cs suffix) is left as the untranslated Hebrew form shabatot instead of a Spanish common noun.",
+      "spanishSpan": "shabatot"
+    }
+  ],
+  "notes": "Plural, 1cs suffix, 2mp futures, singular sanctuary, and yo Jehová match the other tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 11:9",
+  "chapter": 11,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y en descender el rocío sobre el campamento de noche, descendía el maná sobre él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04011009005"
+      ],
+      "issue": "Bare noun לָיְלָה is smoothed as adverbial de noche; the time concept is licensed and no extra event is added.",
+      "spanishSpan": "de noche"
+    }
+  ],
+  "notes": "Infinitive and imperfect of H3381, the dew, the camp, the manna, and the 3ms upon-it suffix are all present.",
+  "discardedUncitedFindings": 0
+}

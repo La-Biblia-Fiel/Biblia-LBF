@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 25:52",
+  "chapter": 25,
+  "verse": 52,
+  "candidateLabel": "lbf",
+  "spanish": "Y si poco quedare en los años hasta año del yovel, y contará a él; según boca de sus años devolverá su redención.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03025052007"
+      ],
+      "issue": "Common noun הַיֹּבֵל (H3104) is left as the untranslated form yovel; a non-name lemma must be Spanish.",
+      "spanishSpan": "yovel"
+    }
+  ],
+  "notes": "Remaining tokens match: si poco quedare en los años hasta año del…, y contará a él, según boca de sus años, devolverá su redención.",
+  "discardedUncitedFindings": 0
+}

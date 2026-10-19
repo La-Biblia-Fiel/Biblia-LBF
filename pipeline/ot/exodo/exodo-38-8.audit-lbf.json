@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 38:8",
+  "chapter": 38,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo el lavatorio de bronce y su peana de bronce, con los espejos de las sirvientes que sirvieron a la abertura de la tienda de reunión.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02038008012",
+        "h02038008013",
+        "h02038008014"
+      ],
+      "issue": "Unmarked preposition a and article la smooth the article-less, preposition-less construct (entrance of tent of meeting) into a Spanish locative.",
+      "spanishSpan": "a la abertura de la tienda de reunión"
+    }
+  ],
+  "notes": "Person, number, stem, both bronze phrases, and the two H6633 forms match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:45",
+  "chapter": 13,
+  "verse": 45,
+  "candidateLabel": "lbf",
+  "spanish": "Y el leproso que en él la plaga, sus vestidos serán rasgados, y su cabeza será desmelenada, y sobre bigote se cubrirá, e impuro, impuro llamará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013045013"
+      ],
+      "issue": "Qal imperfect יַעְטֶה is active cover/wrap upon שָׂפָם; se cubrirá makes the subject the object covered.",
+      "spanishSpan": "se cubrirá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013045008",
+        "h03013045010"
+      ],
+      "issue": "פָרוּעַ is the head left loosed/unbound; desmelenada narrows that to loosened hair.",
+      "spanishSpan": "desmelenada"
+    }
+  ],
+  "notes": "Repetition of טָמֵא, the verbless אשר־בו clause, and 3ms/3mp are kept.",
+  "discardedUncitedFindings": 0
+}

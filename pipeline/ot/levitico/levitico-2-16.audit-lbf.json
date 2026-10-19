@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 2:16",
+  "chapter": 2,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y hará humear el sacerdote su memorial desde su grosero y desde su aceite, sobre todo su incienso; ofrenda de fuego a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03002016005"
+      ],
+      "issue": "H1643 (מִגִּרְשָׂהּ) is crushed grain / a kernel. «grosero» means a rude or coarse person and does not say grain.",
+      "spanishSpan": "grosero"
+    }
+  ],
+  "notes": "The other tokens match: hiphil «hará humear», the priest, her memorial, from her oil, upon all her frankincense, a fire-offering to Jehová.",
+  "discardedUncitedFindings": 0
+}

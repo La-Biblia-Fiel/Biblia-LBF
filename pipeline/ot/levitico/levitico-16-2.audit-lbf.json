@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 16:2",
+  "chapter": 16,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Habla a Aarón tu hermano, y no entre en todo tiempo al santo, desde casa a la parójet, a faces de la kappóret que sobre el arca, y no muera, porque en la nube seré visto sobre la kappóret.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016002015",
+        "h03016002016"
+      ],
+      "issue": "בֵּית is construct (Ncmsc). «desde casa a» reads as motion from a house to the curtain and drops the construct link to the following noun.",
+      "spanishSpan": "desde casa a la parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016002016"
+      ],
+      "issue": "Common noun (Ncfsa), not a proper name, left as the transliteration parójet.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03016002019",
+        "h03016002029"
+      ],
+      "issue": "Common noun (Ncfsa), not a proper name, left as the transliteration kappóret.",
+      "spanishSpan": "kappóret"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03016002024"
+      ],
+      "issue": "לֹא plus qal imperfect 3ms is rendered with subjunctive muera, matching the earlier jussive rather than the imperfect.",
+      "spanishSpan": "muera"
+    }
+  ],
+  "notes": "Names, 2ms address, 3ms prohibitions, and the verbless relative are licensed.",
+  "discardedUncitedFindings": 0
+}

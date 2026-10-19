@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:5",
+  "chapter": 6,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "o desde todo lo que jurare sobre él a mentira, y pagará a él en su cabeza, y sus quintos añadirá sobre él; a quien él a él lo dará en día de su culpa.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006005011"
+      ],
+      "issue": "Hiphil jussive 3ms is smoothed to indicative future; person, number, and the add sense stay.",
+      "spanishSpan": "añadirá"
+    }
+  ],
+  "notes": "Calque keeps or/from-all, falsehood as a noun, head, plural fifths, and the הוא לו pair.",
+  "discardedUncitedFindings": 0
+}

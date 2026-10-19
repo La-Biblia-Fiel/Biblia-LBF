@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:4",
+  "chapter": 14,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y mandará el sacerdote, y tomará al que se purifica dos pájaros vivos, puros, y madera de erez y carmesí y ezov.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014004010"
+      ],
+      "issue": "Common noun אֶרֶז is left untranslated as erez; a non-name lemma must be Spanish.",
+      "spanishSpan": "erez"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014004011",
+        "h03014004012"
+      ],
+      "issue": "Construct שְׁנִי plus absolute תוֹלַעַת is collapsed into carmesí, so the worm noun is omitted.",
+      "spanishSpan": "carmesí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014004013"
+      ],
+      "issue": "Common noun אֵזֹב is left untranslated as ezov; a non-name lemma must be Spanish.",
+      "spanishSpan": "ezov"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014004003",
+        "h03014004004"
+      ],
+      "issue": "לַ marks the hithpael participle as the one for whom the items are taken; tomará al can be read as taking that person.",
+      "spanishSpan": "tomará al que se purifica"
+    }
+  ],
+  "notes": "Priest, weqatal 3ms, two living clean birds, and the item list order match the tokens.",
+  "discardedUncitedFindings": 0
+}

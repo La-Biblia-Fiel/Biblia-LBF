@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:5",
+  "chapter": 5,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y será cuando culpado a una desde estas, y confesará que pecó sobre ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005005003"
+      ],
+      "issue": "Qal imperfect 3ms is a finite verb (he is/will be guilty); «culpado» is an unconjugated passive participle, so person, imperfect force, and qal voice drop out.",
+      "spanishSpan": "culpado"
+    }
+  ],
+  "notes": "Remaining tokens match: será, cuando, a una desde estas, confesará, que pecó, sobre ella.",
+  "discardedUncitedFindings": 0
+}

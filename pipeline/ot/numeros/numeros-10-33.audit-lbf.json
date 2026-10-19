@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 10:33",
+  "chapter": 10,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y partieron desde monte de Jehová camino de tres días, y arca de pacto de Jehová partiente delante de ellos camino de tres días para escudriñar para ellos descanso.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04010033015"
+      ],
+      "issue": "escudriñar narrows H8446 qal infinitive (seek/explore/spy) toward close examination",
+      "spanishSpan": "escudriñar"
+    }
+  ],
+  "notes": "Participants, repetition, construct chains, and the predicate participle otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 5:20",
+  "chapter": 5,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y tú, cuando te desviaste debajo de tu varón, y cuando te impureciste, y diere varón en ti su yacimiento aparte de tu varón,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005020002",
+        "h04005020006"
+      ],
+      "issue": "כִּי is only a conjunction; «cuando» locks it as temporal and treats both clauses as events that occurred.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005020008"
+      ],
+      "issue": "Qal sequential imperfect 3ms is rendered as future subjunctive «diere», shifting the coordinated clause into prospective mood.",
+      "spanishSpan": "diere"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04005020012"
+      ],
+      "issue": "H7903 with a 3ms suffix is his lying/copulation; «yacimiento» in current Spanish is a deposit or site.",
+      "spanishSpan": "su yacimiento"
+    }
+  ],
+  "notes": "2fs qatal and niphal match the preterites; את stays untranslated.",
+  "discardedUncitedFindings": 0
+}

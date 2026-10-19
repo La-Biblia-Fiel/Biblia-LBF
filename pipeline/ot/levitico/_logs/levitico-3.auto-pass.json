@@ -1,0 +1,154 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 3,
+  "kept": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    11,
+    12,
+    13,
+    16,
+    17
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 3,
+      "notes": "clause role",
+      "spanish": "Y acercará desde sacrificio de los pazes ofrenda de fuego a Jehová: la grasa la cubriente el interior, y toda la grasa que sobre el interior,",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03003003008"
+          ],
+          "issue": "El participio piel activo masculino singular concuerda en femenino con grasa; sigue siendo el que cubre, no otro participante ni voz pasiva.",
+          "spanishSpan": "la cubriente"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03003003002",
+            "h03003003003"
+          ],
+          "issue": "El constructo queda definido por el artículo de הַשְּׁלָמִים; sacrificio va sin artículo.",
+          "spanishSpan": "desde sacrificio de los pazes"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "clause role",
+      "spanish": "Y acercará desde sacrificio de los pazes ofrenda de fuego a Jehová: su grasa, la cola íntegra, a la par del espinazo la quitará, y la grasa la cubriente el interior, y toda la grasa que sobre el interior,",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03003009003"
+          ],
+          "issue": "Plural definido queda en el plural inestable «pazes»; no altera número ni artículo, pero el sustantivo común no nombra con claridad el plural.",
+          "spanishSpan": "los pazes"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03003009014",
+            "h03003009015",
+            "h03003009016"
+          ],
+          "issue": "El participio activo y su objeto (את + el interior) quedan solo yuxtapuestos; la relación de cubrir no está marcada.",
+          "spanishSpan": "la cubriente el interior"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "clause role",
+      "spanish": "y los dos los riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones la quitará.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03003010017",
+            "h03003010012",
+            "h03003010005"
+          ],
+          "issue": "The 3fs suffix resumes the feminine singular direct object (the lobe). Spanish la agrees with la grasa, whose Hebrew noun is masculine singular, so the removed object shifts from the lobe to the fat.",
+          "spanishSpan": "la quitará"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03003010002",
+            "h03003010003"
+          ],
+          "issue": "los dos los riñones repeats the article; the dual construct numeral plus the noun’s one article licenses a single determiner.",
+          "spanishSpan": "los dos los riñones"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y acercará desde ella su ofrenda, ofrenda de fuego a Jehová: la grasa la cubriente el interior, y toda la grasa que sobre el interior,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03003014002"
+          ],
+          "issue": "The suffix is 1st person common plural; “desde ella” is 3rd person feminine singular.",
+          "spanishSpan": "desde ella"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "notes": "re-audit fail",
+      "spanish": "y los dos riñones y la grasa que sobre ellos, que sobre los lomos, y el lóbulo sobre el hígado, sobre los riñones la quitará.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03003015017",
+            "h03003015012",
+            "h03003015005"
+          ],
+          "issue": "The Hiphil suffix is 3fs and resumes the feminine singular appendage (the fat is masculine). Spanish la agrees with la grasa and cannot resume masculine el lóbulo.",
+          "spanishSpan": "la quitará"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 3,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 4,
+      "note": "Changed la to lo so the resumptive pronoun agrees with el lóbulo (masculine), the intended removed object, instead of accidentally agreeing with la grasa."
+    },
+    {
+      "verse": 9,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 10,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 12,
+      "note": "Supplied the copula *es* for the verbless clause and kept la because its Spanish antecedent (cabra/ofrenda) is grammatically feminine regardless of the Hebrew masculine suffix on the verb."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 13:11",
+  "chapter": 13,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "a vara de José, a vara de Manasés, Gadi hijo de Susi;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04013011001",
+        "h04013011003"
+      ],
+      "issue": "«vara» cierra מַטֵּה (H4294) como instrumento físico. El lema deja abiertos vara y tribu; la morfología (preposición + sustantivo común masculino singular constructo) no elige el instrumento.",
+      "spanishSpan": "vara"
+    }
+  ],
+  "notes": "José y Manasés son los nombres fijados; Gadi, el constructo hijo de y Susi siguen sus tokens.",
+  "discardedUncitedFindings": 0
+}

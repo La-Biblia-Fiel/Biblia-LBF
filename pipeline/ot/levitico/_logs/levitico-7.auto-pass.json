@@ -1,0 +1,320 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "levitico",
+  "chapter": 7,
+  "kept": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    10,
+    11,
+    17,
+    19,
+    20,
+    22,
+    23,
+    26,
+    27,
+    28,
+    30,
+    31,
+    32,
+    38
+  ],
+  "drafted": [],
+  "repaired": [
+    33,
+    35
+  ],
+  "repairedWithWarn": [
+    13,
+    24,
+    34
+  ],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "re-audit fail",
+      "spanish": "En lugar que degollarán el holocausto degollarán la culpa, y su sangre echará sobre el altar alrededor.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007002006",
+            "h03007002007",
+            "h03007002008",
+            "h03007002010"
+          ],
+          "issue": "הָאָשָׁם is the definite singular object of slaughter and the masculine possessor of the blood; «la culpa» names abstract guilt and omits the offering.",
+          "spanishSpan": "la culpa"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y toda su grasa acercará desde él: la cola y la grasa la cubriente el interior,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007003005"
+          ],
+          "issue": "מִמֶּנּוּ is a preposition with a 1st common plural suffix; «desde él» is 3rd masculine singular.",
+          "spanishSpan": "desde él"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Y el sacerdote el acercante holocausto de varón: piel del holocausto que acercó, al sacerdote, a él será.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007008002",
+            "h03007008003",
+            "h03007008004"
+          ],
+          "issue": "The hiphil participle governs עלת as its object (את), but the Spanish sets holocausto beside acercante with no object link, so it no longer says that the one who brings near brings the burnt offering.",
+          "spanishSpan": "el acercante holocausto"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "clause role",
+      "spanish": "Y toda minjá que se cocinare en el horno, y toda hecha en la sartén y sobre plancha, al sacerdote el acercante a ella, a él será.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007009012",
+            "h03007009013"
+          ],
+          "issue": "Hiphil participle plus direct-object את with 3fs suffix means the one bringing that feminine object near; “el acercante a ella” reads as drawing near to her and weakens the causative stem and the object role.",
+          "spanishSpan": "el acercante a ella"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03007009010"
+          ],
+          "issue": "“la” supplies a definite article; the noun is anarthrous absolute. Grammatical smoothing, same utensil sense.",
+          "spanishSpan": "la plancha"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "notes": "re-audit fail",
+      "spanish": "Si sobre agradecimiento lo acercará, y acercará sobre sacrificio del agradecimiento tortas ázimas mezcladas en el aceite, y obleas ázimas untadas en el aceite, y harina fina revuelta, tortas mezcladas en el aceite.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007012018"
+          ],
+          "issue": "H7246 (hophal passive) means soak; «revuelta» means mixed or stirred and omits soak.",
+          "spanishSpan": "revuelta"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "notes": "re-audit fail",
+      "spanish": "Y acercará desde nosotros uno desde toda ofrenda, ofrenda alzada a Jehová; al sacerdote el echante sangre de los paces, a él será.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007014012"
+          ],
+          "issue": "H8002 is the plural sacrificial noun (peace offering); «paces» keeps only abstract peace and omits the offering.",
+          "spanishSpan": "los paces"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "notes": "clause role",
+      "spanish": "Y carne de sacrificio de agradecimiento de sus pazes en día de su ofrenda será comida; no dejará desde ella hasta mañana.",
+      "findings": []
+    },
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "Y si voto o ofrenda voluntaria sacrificio su ofrenda, en día de su acercar su sacrificio será comido, y desde mañana, y lo restante desde él será comido.",
+      "findings": []
+    },
+    {
+      "verse": 18,
+      "notes": "clause role",
+      "spanish": "Y si comiendo se comiere desde carne de sacrificio de sus pazes en el día el tercero, no será aceptado; el acercante a él no será contado a él; inmundo será, y el alma la comiente desde él su iniquidad alzará.",
+      "findings": []
+    },
+    {
+      "verse": 21,
+      "notes": "spanish check",
+      "spanish": "Y alma, cuando tocare en todo impuro, en impureza de hombre o en animal impuro o en toda abominación impura, y comiere desde carne de sacrificio de los pazes que a Jehová, y será cortada el alma aquella desde sus pueblos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "pazes no es español actual; un lector no la reconoce como forma de paz",
+          "spanishSpan": "pazes"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "notes": "re-audit fail",
+      "spanish": "Porque todo comiente grasa desde la bestia que acercará desde ella ofrenda de fuego a Jehová, y será cortada el alma la comiente desde sus pueblos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007025006",
+            "h03007025008",
+            "h03007025009"
+          ],
+          "issue": "Hiphil imperfect is 3rd masculine singular with an unstated masculine subject; the feminine beast is only the source marked by the 3fs suffix. “la bestia que acercará” makes the beast the one who brings the offering.",
+          "spanishSpan": "la bestia que acercará"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "clause role",
+      "spanish": "Habla a hijos de Israel, diciendo: El acercante sacrificio de sus pazes a Jehová traerá su ofrenda a Jehová desde sacrificio de sus pazes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007029006",
+            "h03007029007",
+            "h03007029008",
+            "h03007029011"
+          ],
+          "issue": "The hiphil participle is the person who brings the sacrifice near; את marks זֶבַח as that participle’s object, and that same person is the subject of יָבִיא. “El acercante sacrificio … traerá” makes the sacrifice the one that brings the offering.",
+          "spanishSpan": "El acercante sacrificio"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007029009",
+            "h03007029016"
+          ],
+          "issue": "H8002 is a plural noun with a 3ms suffix (his peace-offerings). “pazes” substitutes abstract peaces and drops that offering noun.",
+          "spanishSpan": "pazes"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "notes": "clause role",
+      "spanish": "que mandó Jehová a dar a ellos en día de ungir a ellos, de parte de hijos de Israel; estatuto de siempre a sus generaciones.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03007036007",
+            "h03007036008"
+          ],
+          "issue": "מָשְׁחוֹ is a qal infinitive construct with a 3ms suffix, and אֹתָם is the 3mp object. With both present, the suffix is the anointer. Spanish 'ungir a ellos' keeps the object and drops that masculine singular participant.",
+          "spanishSpan": "ungir a ellos"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03007036009"
+          ],
+          "issue": "מֵאֵת is from + with (source). 'de parte de' can be read as representation on behalf of the sons of Israel.",
+          "spanishSpan": "de parte de"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "notes": "spanish check",
+      "spanish": "Esta la ley al holocausto, a la ofrenda y al pecado y a la culpa, y a las llenuras y a sacrificio de los pazes,",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "not current Spanish; a reader would have to guess llenuras",
+          "spanishSpan": "llenuras"
+        },
+        {
+          "severity": "fail",
+          "issue": "archaic spelling; current Spanish is paces",
+          "spanishSpan": "pazes"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 5,
+      "note": "Chose masculine 'él' to agree with the Hebrew 3ms pronoun referring back to asham, even though its Spanish gloss 'culpa' is grammatically feminine."
+    },
+    {
+      "verse": 7,
+      "note": "Removed the articles on pecado/culpa to match the bare Hebrew nouns (no article), so they read as general terms rather than specific, already-introduced offerings."
+    },
+    {
+      "verse": 8,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 9,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 13,
+      "note": "Chose a colon (apposition) over 'de' between sacrificio and agradecimiento because זֶבַח is absolute, not construct, so it cannot grammatically govern the thanksgiving phrase as a genitive."
+    },
+    {
+      "verse": 15,
+      "note": "hold: clause role — מִמֶּנּוּ's suffix person decides whether the leftover is counted from the meat or from the offerers, so «desde ella» was left unchanged."
+    },
+    {
+      "verse": 16,
+      "note": "hold: clause role — the flagged suffix's person decides whether the remainder is taken from the sacrifice itself or from us, a participant/referent question, not a repairable agreement error."
+    },
+    {
+      "verse": 18,
+      "note": "hold: clause role — the suffix on the preposition rendered «desde él» names whether the one being eaten from is the sacrificial flesh or the worshippers, a participant choice Pulir cannot resolve."
+    },
+    {
+      "verse": 21,
+      "note": "pazes no es español actual; un lector no la reconoce como forma de paz"
+    },
+    {
+      "verse": 24,
+      "note": "Chose an emphatic-negation phrasing over the ambiguous gerund to avoid a manner reading, keeping the same prohibition and addressee."
+    },
+    {
+      "verse": 29,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 33,
+      "note": "Chose «sacrificios de paz» (masculine plural) over a feminine alternative like «ofrendas de paz» to preserve the masculine plural force of H8002 that the auditor flagged as lost in «pazes»."
+    },
+    {
+      "verse": 34,
+      "note": "Chose 'ofrendas de paz' over the unclear plural 'pazes' to name the peace-offering noun; who gives, receives, or is the source of the offering is unchanged."
+    },
+    {
+      "verse": 36,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 37,
+      "note": "not current Spanish; a reader would have to guess llenuras; archaic spelling; current Spanish is paces"
+    }
+  ]
+}

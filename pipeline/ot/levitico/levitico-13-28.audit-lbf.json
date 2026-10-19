@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:28",
+  "chapter": 13,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y si debajo de ella se parare la mancha, no se extendió en la piel, y ella oscura, elevación de la quemadura ella, y lo purificará el sacerdote, porque cicatriz de la quemadura ella.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013028004"
+      ],
+      "issue": "mancha deja el brillo de הַבַּהֶרֶת en mancha genérica",
+      "spanishSpan": "la mancha"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013028007"
+      ],
+      "issue": "la añade artículo; בָעוֹר está sin artículo",
+      "spanishSpan": "la piel"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013028009"
+      ],
+      "issue": "oscura inclina כֵהָה (tenue, apagada) hacia oscura",
+      "spanishSpan": "oscura"
+    }
+  ],
+  "notes": "Orden, número, persona, piel de purificará y los ella del veredicto siguen a los tokens.",
+  "discardedUncitedFindings": 0
+}

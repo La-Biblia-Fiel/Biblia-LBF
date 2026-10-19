@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 14:49",
+  "chapter": 14,
+  "verse": 49,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomará para pecar la casa dos pájaros, y madera de erez y carmesí y ezov.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014049002",
+        "h03014049003",
+        "h03014049004"
+      ],
+      "issue": "Piel infinitive with the house as direct object is rendered as “pecar”, the qal sense of committing sin, so the stem force on the house is changed.",
+      "spanishSpan": "para pecar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014049008"
+      ],
+      "issue": "Common noun ארז is left as the Hebrew form “erez” rather than Spanish.",
+      "spanishSpan": "erez"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014049009",
+        "h03014049010"
+      ],
+      "issue": "The construct “scarlet of worm” is reduced to “carmesí”, and the worm noun is omitted.",
+      "spanishSpan": "carmesí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014049011"
+      ],
+      "issue": "Common noun אֵזֹב is left as the Hebrew form “ezov” rather than Spanish.",
+      "spanishSpan": "ezov"
+    }
+  ],
+  "notes": "The conjunction, 3ms sequential perfect, article, dual “two”, and birds match the tokens.",
+  "discardedUncitedFindings": 0
+}

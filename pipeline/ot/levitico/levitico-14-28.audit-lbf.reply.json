@@ -1,0 +1,27 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03014028014",
+        "h03014028015",
+        "h03014028016"
+      ],
+      "issue": "Feminine הימנית can agree with בהן or with common-gender יד; Spanish 'la derecha' agrees only with mano, so 'right' is fixed on the hand.",
+      "spanishSpan": "pulgar de su mano la derecha"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03014028005",
+        "h03014028006",
+        "h03014028007",
+        "h03014028008"
+      ],
+      "issue": "Verbless אשר על־כפו is 'que sobre su palma' with no clause break before the next על, so that destination of נתן can be read as still inside the relative.",
+      "spanishSpan": "que sobre su palma sobre lóbulo"
+    }
+  ],
+  "notes": "Other tokens match in order, number, person, and repetition."
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 7:12",
+  "chapter": 7,
+  "verse": 12,
+  "candidateLabel": "pulir",
+  "spanish": "Si sobre agradecimiento lo acercará, y acercará sobre sacrificio del agradecimiento tortas ázimas mezcladas en el aceite, y obleas ázimas untadas en el aceite, y harina fina revuelta, tortas mezcladas en el aceite.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03007012018"
+      ],
+      "issue": "H7246 (hophal passive) means soak; «revuelta» means mixed or stirred and omits soak.",
+      "spanishSpan": "revuelta"
+    }
+  ],
+  "notes": "Other tokens keep number, person, article, suffix, and preposition, with no unmarked added word.",
+  "discardedUncitedFindings": 0
+}

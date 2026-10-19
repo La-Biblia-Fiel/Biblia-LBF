@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:18",
+  "chapter": 1,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y congregaron a toda la congregación en el uno al mes el segundo, y se declararon nacidos sobre sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba a sus cráneos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001018008"
+      ],
+      "issue": "One hithpael finite of the birth lemma (reflexive/middle, 3mp). «se declararon nacidos» adds a speech act and a passive born-state the stem does not license.",
+      "spanishSpan": "se declararon nacidos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04001018005"
+      ],
+      "issue": "Absolute cardinal «one» has no article; «el» is Spanish smoothing.",
+      "spanishSpan": "el uno"
+    }
+  ],
+  "notes": "Other tokens keep number, person, and participants.",
+  "discardedUncitedFindings": 0
+}

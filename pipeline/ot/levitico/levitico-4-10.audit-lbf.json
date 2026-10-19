@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 4:10",
+  "chapter": 4,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "conforme a lo que se alza desde toro de sacrificio de los pazes; y los hará humear el sacerdote sobre altar del holocausto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03004010005"
+      ],
+      "issue": "«pazes» acuña el plural del sustantivo masculino plural definido; el número y el artículo coinciden, pero la forma española queda incierta.",
+      "spanishSpan": "los pazes"
+    }
+  ],
+  "notes": "Los diez tokens están representados, con voz pasiva, causativo, sufijo plural y artículos del hebreo.",
+  "discardedUncitedFindings": 0
+}

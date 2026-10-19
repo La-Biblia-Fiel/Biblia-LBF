@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 23:39",
+  "chapter": 23,
+  "verse": 39,
+  "candidateLabel": "lbf",
+  "spanish": "Solo en quince día al mes el séptimo, en su recoger el producto de la tierra, celebrarán la fiesta de Jehová siete días; en el día el primero shabatón, y en el día el octavo shabatón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03023039019",
+        "h03023039022"
+      ],
+      "issue": "Common noun שַׁבָּתוֹן (H7677, masculine singular absolute) is left as the untranslated Hebraism shabatón.",
+      "spanishSpan": "shabatón"
+    }
+  ],
+  "notes": "Remaining tokens match, including 2mp as ustedes (su recoger, celebrarán) and the verbless day clauses.",
+  "discardedUncitedFindings": 0
+}

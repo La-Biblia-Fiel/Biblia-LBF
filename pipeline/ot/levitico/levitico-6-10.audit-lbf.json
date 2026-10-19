@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 6:10",
+  "chapter": 6,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y vestirá el sacerdote su vestido de lino, y calzones de lino vestirá sobre su carne, y alzará la ceniza que comió el fuego el holocausto sobre el altar, y la pondrá junto al altar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006010014"
+      ],
+      "issue": "Qal imperfect 3fs stays open (present, future, or habitual). «comió» locks a completed past.",
+      "spanishSpan": "comió"
+    }
+  ],
+  "notes": "Other clauses keep the licensed participants, number, and stem force.",
+  "discardedUncitedFindings": 0
+}

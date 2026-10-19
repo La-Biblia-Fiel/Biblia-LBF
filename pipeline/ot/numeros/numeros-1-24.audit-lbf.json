@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 1:24",
+  "chapter": 1,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "A hijos de Gad, sus generaciones a sus familias a casa de sus padres, en número de nombres, desde hijo de veinte año y arriba, todo saliente ejército.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04001024013",
+        "h04001024014",
+        "h04001024015"
+      ],
+      "issue": "כֹּל rige el participio qal יֹצֵא (masculino singular constructo: el que sale); צָבָא es el complemento del constructo. «todo saliente ejército» hace del ejército el núcleo que sale.",
+      "spanishSpan": "todo saliente ejército"
+    }
+  ],
+  "notes": "El resto del versículo conserva preposiciones, sufijos 3mp, singular de hijo/año y el nombre Gad.",
+  "discardedUncitedFindings": 0
+}

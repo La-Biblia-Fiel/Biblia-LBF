@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 6:12",
+  "chapter": 6,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y nazirará a Jehová los días de su nézer, y traerá cordero hijo de su año a culpa; y los días los primeros caerán, porque impureció su nézer.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006012001"
+      ],
+      "issue": "nazirará dumps hiphil H5144 as an untranslated non-name verb instead of Spanish",
+      "spanishSpan": "nazirará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006012005",
+        "h04006012016"
+      ],
+      "issue": "nézer transliterates common noun H5145; common nouns stay Spanish",
+      "spanishSpan": "nézer"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04006012015",
+        "h04006012016"
+      ],
+      "issue": "impureció su nézer reads as the man transitively defiling his nézer; qal 3ms is stative and נזרו is the subject",
+      "spanishSpan": "impureció su nézer"
+    }
+  ],
+  "notes": "Jehová, the lamb clause, and los días los primeros caerán match the tokens.",
+  "discardedUncitedFindings": 0
+}

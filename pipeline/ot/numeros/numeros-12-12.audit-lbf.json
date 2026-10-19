@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 12:12",
+  "chapter": 12,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "No ahora sea como el muerto, que en su salir desde vientre de su madre, y es comido mitad de su carne.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04012012002"
+      ],
+      "issue": "«ahora» adds a temporal adverb; the token is an entreaty particle, not a time word.",
+      "spanishSpan": "ahora"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04012012009"
+      ],
+      "issue": "Sequential imperfect niphal is smoothed to present «es»; passive 3ms is kept.",
+      "spanishSpan": "es comido"
+    }
+  ],
+  "notes": "The jussive, comparison, relative, infinitive, womb, mother, half, and flesh follow the tokens.",
+  "discardedUncitedFindings": 0
+}

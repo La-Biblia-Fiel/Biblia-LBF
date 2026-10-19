@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 9:1",
+  "chapter": 9,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y habló Jehová a Moisés en desierto de Sinai, en el año el segundo a su salir desde tierra de Egipto, en el mes el primero, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04009001009"
+      ],
+      "issue": "The infinitive suffix is 3mp (their going out). In this clause the only antecedents are singular (Jehová, Moisés), so «su» reads as his going out and changes number and participant.",
+      "spanishSpan": "su"
+    }
+  ],
+  "notes": "Remaining tokens match the Spanish, including Egipto for the locked proper name.",
+  "discardedUncitedFindings": 0
+}

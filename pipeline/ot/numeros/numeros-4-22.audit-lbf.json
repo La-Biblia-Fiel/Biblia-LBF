@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 4:22",
+  "chapter": 4,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Alza la cabeza de hijos de Guershon, también ellos, a casa de sus padres a sus familias.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04004022001"
+      ],
+      "issue": "נָשֹׂא is a qal infinitive absolute. Alza makes it a second-person singular imperative, assigning person, number, and mood the morphology does not mark.",
+      "spanishSpan": "Alza"
+    }
+  ],
+  "notes": "Remaining tokens match: object marker unmarked, cabeza, hijos, Guershon, también ellos, casa de sus padres, familias.",
+  "discardedUncitedFindings": 0
+}

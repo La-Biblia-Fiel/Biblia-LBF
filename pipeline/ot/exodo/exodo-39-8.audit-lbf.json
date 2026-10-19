@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 39:8",
+  "chapter": 39,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo el joshen, obra de pensador, como obra de efod: oro, azul y púrpura y carmesí y lino fino retorcido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02039008003"
+      ],
+      "issue": "Common noun left untranslated: joshen reproduces the Hebrew lemma. The token is a definite masculine singular common noun, not a proper name.",
+      "spanishSpan": "joshen"
+    }
+  ],
+  "notes": "Other clauses keep the 3ms qal, both construct obra phrases, the כ comparison, the conjunction pattern, and the material list.",
+  "discardedUncitedFindings": 0
+}

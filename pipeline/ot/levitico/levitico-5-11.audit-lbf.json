@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 5:11",
+  "chapter": 5,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y si no alcanzare su mano a dos tórtolas o a dos hijos de paloma, y traerá su ofrenda que pecó, décima del efa sólet a pecado; no pondrá sobre ella aceite, y no dará sobre ella incienso, porque pecado ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005011018"
+      ],
+      "issue": "sólet is the Hebrew common noun left untranslated; the token licenses a Spanish noun, not a transliteration.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03005011011",
+        "h03005011013",
+        "h03005011014",
+        "h03005011015"
+      ],
+      "issue": "«que pecó» makes the offering the sinner. חָטָא is qal perfect 3ms with no expressed subject, so the sinner stays open between the bringer and the masculine offering.",
+      "spanishSpan": "su ofrenda que pecó"
+    }
+  ],
+  "notes": "The other clauses match the tokens, including verbless כי חטאת היא.",
+  "discardedUncitedFindings": 0
+}

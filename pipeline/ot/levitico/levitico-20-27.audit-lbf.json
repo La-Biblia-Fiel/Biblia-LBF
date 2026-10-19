@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 20:27",
+  "chapter": 20,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y varón o mujer, cuando fuere en ellos evocador o adivino, de morir morirán; en la piedra los apedrearán; sus sangres en ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03020027011"
+      ],
+      "issue": "Hophal imperfect 3mp (they shall be put to death) is rendered as active intransitive morirán (they will die), changing stem force.",
+      "spanishSpan": "morirán"
+    }
+  ],
+  "notes": "Qal infinitive absolute מות is matched by de morir; the finite hophal is not.",
+  "discardedUncitedFindings": 0
+}

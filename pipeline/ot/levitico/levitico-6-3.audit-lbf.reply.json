@@ -1,0 +1,25 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03006003014"
+      ],
+      "issue": "הָאָדָם is a definite common noun (H120); \"adam\" leaves that non-name lemma untranslated instead of Spanish.",
+      "spanishSpan": "el adam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03006003002",
+        "h03006003004",
+        "h03006003006",
+        "h03006003013"
+      ],
+      "issue": "Qal perfect, piel and niphal sequential perfects, and qal imperfect are smoothed as Spanish future subjunctive; person and number stay 3ms.",
+      "spanishSpan": "hallare mintiere jurare hiciere"
+    }
+  ],
+  "notes": "Remaining tokens match: o, pérdida, en ella, sobre mentira, sobre una, desde todo, lo que, a pecar, en ellas."
+}
