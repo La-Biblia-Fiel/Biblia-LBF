@@ -1,0 +1,108 @@
+{
+  "window_id": "10:23:37-10:23:39",
+  "requested_model": "typesafe/jev-1.13",
+  "request_fingerprint": "fb6a4fc91e26c0ce5a61cfa7281cd8d4ab137d1f86671ede04b31c12072e3194",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "v": "0.2.0-compact.1",
+      "i": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "d": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      },
+      "w": {
+        "w0": {
+          "v": [
+            {
+              "reference": "2 Samuel 23:37",
+              "verse": 37,
+              "source_word_ids": [
+                "o100230370011",
+                "o100230370021",
+                "o100230370022",
+                "o100230370031",
+                "o100230370041",
+                "o100230370042",
+                "o100230370061",
+                "o100230370071",
+                "o100230370081",
+                "o100230370091",
+                "o100230370101"
+              ],
+              "source_text": "צֶ֖לֶק הָ עַמֹּנִ֑י נַחְרַי֙ הַ בְּאֵ֣רֹתִ֔י נֹשֵׂ֕א כְּלֵ֖י יוֹאָ֥ב בֶּן צְרֻיָֽה"
+            },
+            {
+              "reference": "2 Samuel 23:38",
+              "verse": 38,
+              "source_word_ids": [
+                "o100230380011",
+                "o100230380021",
+                "o100230380022",
+                "o100230380031",
+                "o100230380041",
+                "o100230380042"
+              ],
+              "source_text": "עִירָא֙ הַ יִּתְרִ֔י גָּרֵ֖ב הַ יִּתְרִֽי"
+            },
+            {
+              "reference": "2 Samuel 23:39",
+              "verse": 39,
+              "source_word_ids": [
+                "o100230390011",
+                "o100230390021",
+                "o100230390022",
+                "o100230390031",
+                "o100230390041",
+                "o100230390051",
+                "o100230390052"
+              ],
+              "source_text": "אֽוּרִיָּה֙ הַֽ חִתִּ֔י כֹּ֖ל שְׁלֹשִׁ֥ים וְ שִׁבְעָֽה"
+            }
+          ],
+          "x": {
+            "book": "2 Samuel",
+            "chapter": 23,
+            "firstVerse": 37,
+            "lastVerse": 39
+          }
+        }
+      },
+      "t": {}
+    },
+    "questions": {}
+  },
+  "local_record": {
+    "serialization_version": "0.2.0-compact.1",
+    "permanent_request_fingerprint": "90e52588203b7e3cb15cf03c16fdd598749555645df837343a6c9095968300b6",
+    "compact_request_fingerprint": "fb6a4fc91e26c0ce5a61cfa7281cd8d4ab137d1f86671ede04b31c12072e3194",
+    "target_map": {},
+    "question_map": {},
+    "audit_boundary": "Permanent statement IDs, display text, full scope text, and source references are retained locally and are not model-facing compact payload metadata."
+  },
+  "status": "local_no_statement_targets",
+  "usage": {
+    "input_tokens": null,
+    "output_tokens": null
+  },
+  "attempted_at": "2026-10-17T20:04:35.499Z",
+  "reason": "No canonical statement targets were extracted; no provider request was sent.",
+  "file": "10_23_37-10_23_39.local-no-target.fb6a4fc91e26c0ce5a61cfa7281cd8d4ab137d1f86671ede04b31c12072e3194.json"
+}
