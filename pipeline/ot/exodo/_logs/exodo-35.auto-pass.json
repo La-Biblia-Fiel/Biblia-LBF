@@ -1,0 +1,374 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 35,
+  "kept": [
+    1,
+    3,
+    4,
+    5,
+    8,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    25,
+    27,
+    30,
+    31,
+    32,
+    34
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "re-audit fail",
+      "spanish": "Seis días será hecha obra, y en el día el séptimo será a ustedes santidad, descanso de reposo solemne a Jehová; todo el que hace en él obra será muerto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035002010",
+            "h02035002011"
+          ],
+          "issue": "«solemne» adds a quality neither noun licenses: שַׁבַּת is a construct noun and שַׁבָּתוֹן one absolute noun, not an adjective of solemnity.",
+          "spanishSpan": "solemne"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "y azul y púrpura y carmesí y lino fino y cabras,",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02035006003",
+            "h02035006004"
+          ],
+          "issue": "Construct תולעת (8438 b) plus שני is flattened to one color word, so the head noun is not explicit.",
+          "spanishSpan": "carmesí"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02035006005"
+          ],
+          "issue": "Morphology is a cardinal, while the Spanish is the textile lino fino; lemma 8336 b does not settle that clash.",
+          "spanishSpan": "lino fino"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "notes": "re-audit fail",
+      "spanish": "y pieles de carneros enrojecidas y pieles de tejones y maderas de acacia,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035007005"
+          ],
+          "issue": "«tejones» names the badger. H8476 is only an unidentified masculine plural noun (animal or hide); the lemma does not license that species.",
+          "spanishSpan": "tejones"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02035007001",
+            "h02035007002",
+            "h02035007003"
+          ],
+          "issue": "Feminine «enrojecidas» attaches the Pual passive participle to the skins. The masculine plural also agrees with the rams, so the host noun stays open.",
+          "spanishSpan": "enrojecidas"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "y piedras de shóham y piedras de engastes al efod y al joshen.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035009002"
+          ],
+          "issue": "שֹׁהַם is a common noun (masculine singular absolute), not a proper name. shóham leaves the lemma untranslated.",
+          "spanishSpan": "shóham"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035009005"
+          ],
+          "issue": "אֵפוֹד is a common noun (masculine singular absolute), not a proper name. efod leaves the lemma untranslated.",
+          "spanishSpan": "efod"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035009006"
+          ],
+          "issue": "חֹשֶׁן is a common noun (masculine singular absolute), not a proper name. joshen leaves the lemma untranslated.",
+          "spanishSpan": "joshen"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "el arca y sus varas, la kappóret y la parójet del masaj,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035012006"
+          ],
+          "issue": "Common noun (definite feminine singular) is left untranslated as kappóret.",
+          "spanishSpan": "kappóret"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035012008"
+          ],
+          "issue": "Common noun (feminine singular construct) is left untranslated as parójet.",
+          "spanishSpan": "parójet"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035012009"
+          ],
+          "issue": "Common noun (definite masculine singular) is left untranslated as masaj.",
+          "spanishSpan": "masaj"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "notes": "clause role",
+      "spanish": "Y salió toda congregación de hijos de Israel de delante de Moisés.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02035020001",
+            "h02035020003"
+          ],
+          "issue": "Qal wayyiqtol is 3rd masculine plural; salió is singular, smoothed to the singular collective congregación. Same participants.",
+          "spanishSpan": "salió"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "notes": "re-audit fail",
+      "spanish": "Y todo varón que fue hallado con él azul y púrpura y carmesí y lino fino y cabras, y pieles de carneros enrojecidas y pieles de tahashim, trajeron.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035023003",
+            "h02035023004",
+            "h02035023005"
+          ],
+          "issue": "אֲשֶׁר נִמְצָא אִתּוֹ is resumptive: the materials were found with the man. Spanish makes the man the one found and él a second male.",
+          "spanishSpan": "que fue hallado con él"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035023016"
+          ],
+          "issue": "H8476 is a common noun; tahashim leaves it untranslated and keeps the Hebrew plural.",
+          "spanishSpan": "tahashim"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "notes": "clause role",
+      "spanish": "Todo alzante ofrenda de plata y bronce trajeron la ofrenda de Jehová, y todo al que fue hallado con él maderas de shitím a toda obra del servicio trajeron.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035024011",
+            "h02035024012",
+            "h02035024013",
+            "h02035024014",
+            "h02035024015"
+          ],
+          "issue": "«al que fue hallado con él» makes the relative the one found and «él» a second male. אשר + נמצא + אתו is the relative with its resumptive suffix (the same party); what was found with him is the acacia wood. The finding no longer applies to the wood.",
+          "spanishSpan": "al que fue hallado con él"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02035024005"
+          ],
+          "issue": "נחשת covers copper and bronze; «bronce» selects the alloy.",
+          "spanishSpan": "bronce"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y todas las mujeres que alzó su corazón a ellas en sabiduría hilaron las cabras.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035026004",
+            "h02035026005",
+            "h02035026006"
+          ],
+          "issue": "The qal perfect is 3ms, so the masculine singular heart is the subject, and the 3fp object suffix marks the women as the ones lifted. The Spanish reads as the women lifting their heart toward a feminine plural party.",
+          "spanishSpan": "alzó su corazón a ellas"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "clause role",
+      "spanish": "y el aroma y el aceite a la lumbrera y a aceite de la unción y a incienso de los aromas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035028002"
+          ],
+          "issue": "el aroma resolves H1314 to a smell; the lemma stays open between spice/balsam and fragrance, and את marks it as an object parallel to the oil",
+          "spanishSpan": "el aroma"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035028002",
+            "h02035028009"
+          ],
+          "issue": "aroma/aromas treats H1314 and H5561 as one noun in two numbers",
+          "spanishSpan": "el aroma … los aromas"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "clause role",
+      "spanish": "Todo varón y mujer que impulsó su corazón a ellos a traer a toda la obra que mandó Jehová a hacer en mano de Moisés, trajeron hijos de Israel ofrenda voluntaria a Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035029005",
+            "h02035029006",
+            "h02035029007"
+          ],
+          "issue": "Qal 3ms has the heart as subject and אתם as its direct object. 'que impulsó su corazón a ellos' makes the man and woman the subject who impel the heart toward another party.",
+          "spanishSpan": "impulsó su corazón a ellos"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "notes": "re-audit fail",
+      "spanish": "y en el labrado de piedra a engastar, y en el labrado de madera, para hacer en toda obra de pensamiento.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035033003"
+          ],
+          "issue": "Piel infinitive of llenar (H4390) is rendered as engastar, a gem-setting action the lemma and stem do not license.",
+          "spanishSpan": "a engastar"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "notes": "clause role",
+      "spanish": "Los llenó sabiduría de corazón para hacer toda obra de artesano y pensador y bordador en el azul y en la púrpura, en carmesí y en el lino fino, y tejedor; hacedores de toda obra e ideadores de ideaciones.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02035035001",
+            "h02035035002",
+            "h02035035003",
+            "h02035035004"
+          ],
+          "issue": "Los llenó sabiduría de corazón reads sabiduría as the subject. The verb is piel perfect 3ms, אתם is the object, and feminine חכמת־לב is what they are filled with, not the agent.",
+          "spanishSpan": "Los llenó sabiduría de corazón"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02035035013",
+            "h02035035014"
+          ],
+          "issue": "en carmesí collapses the definite construct (worm of the scarlet) into one indefinite color noun and drops the article on השני.",
+          "spanishSpan": "en carmesí"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02035035009",
+            "h02035035020",
+            "h02035035021"
+          ],
+          "issue": "The same H2803 participle is pensador in the singular and ideadores in the plural, so the repeated root shared with מחשבות is not kept.",
+          "spanishSpan": "pensador"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 19,
+      "note": "Chose neuter \"lo santo\" over masculine \"el santo\" for בַּקֹּדֶשׁ to avoid a holy-person misreading while keeping the same holiness/holy-place sense."
+    },
+    {
+      "verse": 20,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 22,
+      "note": "Five nouns/adjectives were widened to Spanish terms (noble, gancho, aro, adorno, objeto) that keep the fuller range the cited Hebrew lemmas allow, instead of the narrower words the draft had selected."
+    },
+    {
+      "verse": 24,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 25,
+      "note": "Chose the plural verb hilaron to carry the Hebrew's plural טָווּ, even though the head noun toda mujer is grammatically singular in Spanish."
+    },
+    {
+      "verse": 28,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 29,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 35,
+      "note": "hold: clause role"
+    }
+  ]
+}

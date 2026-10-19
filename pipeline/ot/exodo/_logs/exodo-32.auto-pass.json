@@ -1,0 +1,282 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 32,
+  "kept": [
+    2,
+    4,
+    5,
+    6,
+    7,
+    9,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    26,
+    27,
+    29,
+    32,
+    33,
+    34,
+    35
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "spanish check",
+      "spanish": "Y vio el pueblo que se demoró Moisés a descender desde el monte, y se congregó el pueblo sobre Aarón, y dijeron a él: Levántate, haz a nosotros dioses que anden delante de nosotros, porque este Moisés, el varón que nos subió desde tierra de Egipto, no conocimos qué le fue.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«qué le fue» is not a current Spanish form; a reader has to guess that it means what became of him",
+          "spanishSpan": "qué le fue"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y se arrancó todo el pueblo los zarcillos del oro que en sus oídos, y trajeron a Aarón.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02032003009",
+            "h02032003010",
+            "h02032003011"
+          ],
+          "issue": "«trajeron a Aarón» toma a Aarón como objeto directo. El hiphil 3mp de traer tiene como meta la preposición אֶל, así que Aarón es el destino, no lo traído.",
+          "spanishSpan": "trajeron a Aarón"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02032003001"
+          ],
+          "issue": "El hithpael es 3mp; «se arrancó» es singular por concordancia con el colectivo «todo el pueblo».",
+          "spanishSpan": "se arrancó"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Se apartaron pronto desde el camino que les mandé; hicieron a ellos becerro de fundición, y se postraron a él, y sacrificaron a él, y dijeron: Estos tus dioses, Israel, que te subieron desde tierra de Egipto.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02032008007",
+            "h02032008008",
+            "h02032008009"
+          ],
+          "issue": "לָהֶם is the 3mp beneficiary of עָשׂוּ and עֵגֶל is what was made; «hicieron a ellos becerro» can also be read as factitive (they made them into a calf).",
+          "spanishSpan": "hicieron a ellos becerro"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "re-audit fail",
+      "spanish": "Y ahora, déjame, y arda mi nariz en ellos, y los consuma, y te haré a nación grande.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02032010007"
+          ],
+          "issue": "Piel cohortative 1cs plus 3mp object: the speaker consumes them. \"los consuma\" is unmarked and continues the 3rd-person subject of \"arda\" (the nose).",
+          "spanishSpan": "los consuma"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y suavizó Moisés las faces de Jehová su Dios, y dijo: ¿Por qué, Jehová, arderá tu nariz en tu pueblo que sacaste desde tierra de Egipto con fuerza grande y con mano fuerte?",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02032011010"
+          ],
+          "issue": "Qal imperfect does not lock future time; «arderá» selects future rather than present or modal.",
+          "spanishSpan": "arderá"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "notes": "clause role",
+      "spanish": "Y tomó el becerro que hicieron, y lo quemó en el fuego, y lo molió hasta fino, y esparció sobre faz de las aguas, e hizo beber a hijos de Israel.",
+      "findings": []
+    },
+    {
+      "verse": 24,
+      "notes": "clause role",
+      "spanish": "Y dije a ellos: ¿A quién oro? Se arrancaron, y dieron a mí, y lo arrojé en el fuego, y salió este becerro.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02032024003",
+            "h02032024004"
+          ],
+          "issue": "¿A quién oro? is the 1cs question of orar (I pray). The tokens are a verbless לְמִי זָהָב, to whom + the noun gold; prayer is not licensed and gold is not secured.",
+          "spanishSpan": "¿A quién oro?"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02032024009"
+          ],
+          "issue": "el marks fuego as definite. The token is a preposition plus a common singular absolute noun, with no article in the morphology.",
+          "spanishSpan": "el fuego"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "notes": "clause role",
+      "spanish": "Y vio Moisés al pueblo, que desatado él, porque lo desató Aarón a vergüenza entre sus levantados.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02032025011"
+          ],
+          "issue": "H8103 is a feminine noun of scornful whispering/derision; vergüenza substitutes the distinct concept shame.",
+          "spanishSpan": "vergüenza"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02032025012"
+          ],
+          "issue": "Qal active participle (those who rise) is rendered as the passive participle levantados, reversing who acts.",
+          "spanishSpan": "levantados"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "E hicieron hijos de Leví conforme a palabra de Moisés, y cayó desde el pueblo en el día aquel como tres miles varón.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02032028001",
+            "h02032028002",
+            "h02032028003"
+          ],
+          "issue": "The 3mp verb has sons-of-Levi as its subject (they did/acted). Spanish 'hicieron hijos de Leví' makes hijos the object of hacer, so an unnamed they produce sons of Levi.",
+          "spanishSpan": "hicieron hijos de Leví"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "notes": "clause role",
+      "spanish": "Y fue desde el día siguiente, y dijo Moisés al pueblo: Ustedes pecaron pecado grande, y ahora subiré a Jehová; quizás expiaré por pecados de ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02032030018"
+          ],
+          "issue": "חַטַּאתְכֶם is one feminine singular noun with a 2mp suffix (your sin). Spanish makes it plural.",
+          "spanishSpan": "pecados"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02032030002"
+          ],
+          "issue": "מִמָּחֳרָת has no article; el is Spanish smoothing and does not add a concept.",
+          "spanishSpan": "el"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "notes": "clause role",
+      "spanish": "Y volvió Moisés a Jehová, y dijo: ¡Ay! Pecó este pueblo pecado grande, e hicieron a ellos dioses de oro.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02032031012",
+            "h02032031013",
+            "h02032031014",
+            "h02032031015"
+          ],
+          "issue": "The lamed plus 3mp suffix is the beneficiary and the thing made is the construct gods-of gold. «hicieron a ellos dioses» makes ellos the object turned into gods.",
+          "spanishSpan": "hicieron a ellos dioses de oro"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02032031006"
+          ],
+          "issue": "The particle is an entreaty (ah / please). «¡Ay!» adds a cry of grief.",
+          "spanishSpan": "¡Ay!"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "«qué le fue» is not a current Spanish form; a reader has to guess that it means what became of him"
+    },
+    {
+      "verse": 4,
+      "note": "Chose 'de ellos' over the ambiguous 'su' so the hand is read as theirs (the people's), not Aaron's own, per the 3mp suffix."
+    },
+    {
+      "verse": 8,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 20,
+      "note": "hold: clause role — «lo» in «lo quemó» and «lo molió» names the calf, carried over as object from the prior clause, as what was burned and ground, and is left unchanged."
+    },
+    {
+      "verse": 22,
+      "note": "Chose the lemma-licensed \"ira\" over the calque \"nariz\" per the cited mismatch and marked the supplied copula *está* for the verbless clause."
+    },
+    {
+      "verse": 24,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 25,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 30,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 31,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 33,
+      "note": "Elegí «de mi libro» entre las dos opciones licenciadas por el prefijo min, «de» y «fuera de»; ambas son gramaticales."
+    }
+  ]
+}

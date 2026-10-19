@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 17:6",
+  "chapter": 17,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "He aquí yo parado delante de ti allí sobre la roca en Jorev, y herirás en la roca, y saldrán de ella aguas, y beberá el pueblo. Y hizo así Moisés a ojos de ancianos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02017006011"
+      ],
+      "issue": "The suffix is 1st common plural (from us). Spanish «de ella» is 3rd feminine singular and makes the rock the source.",
+      "spanishSpan": "de ella"
+    }
+  ],
+  "notes": "The other tokens match, including 2ms herirás, plural aguas, and Moisés a ojos de ancianos de Israel.",
+  "discardedUncitedFindings": 0
+}

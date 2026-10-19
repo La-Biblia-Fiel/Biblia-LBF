@@ -1,0 +1,407 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 36,
+  "kept": [
+    2,
+    4,
+    6,
+    9,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    37
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "clause role",
+      "spanish": "Y hizo Betsalel y Oholiav y todo varón sabio de corazón, a quien dio Jehová sabiduría e inteligencia en ellos, para saber hacer toda obra de servicio del santo, conforme a todo lo que mandó Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036001020"
+          ],
+          "issue": "הַקֹּדֶשׁ is a common noun (holiness/sacredness). \"del santo\" reads as a masculine person, a participant the token does not license.",
+          "spanishSpan": "del santo"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "clause role",
+      "spanish": "Y tomaron de delante de Moisés toda la ofrenda que trajeron hijos de Israel a la obra de servicio del santo a hacerla; y ellos aún trajeron a él ofrenda voluntaria mañana tras mañana.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036003013"
+          ],
+          "issue": "«del santo» names a holy person; the token is a common noun (holiness / a holy thing), not a participant.",
+          "spanishSpan": "del santo"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036003021",
+            "h02036003022"
+          ],
+          "issue": "The repeated «in the morning» is smoothed to «mañana tras mañana», adding «tras» and not stating the preposition or the article.",
+          "spanishSpan": "mañana tras mañana"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "notes": "clause role",
+      "spanish": "Y dijeron a Moisés, diciendo: Multiplica el pueblo a traer, más que bastancia del servicio para la obra que mandó Jehová a hacerla.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036005005",
+            "h02036005006"
+          ],
+          "issue": "Hiphil participle is masculine plural; the Spanish verb is singular, agreeing with the collective singular pueblo. Participants are unchanged.",
+          "spanishSpan": "multiplica"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036005008"
+          ],
+          "issue": "min plus the construct noun of sufficiency is read as comparative excess (más que); an ablative from/of reading stays open in the morphology. bastancia matches the sufficiency noun.",
+          "spanishSpan": "más que"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y la obra fue bastancia para ellos para toda la obra a hacerla, y sobró.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036007008"
+          ],
+          "issue": "Hiphil infinitive absolute is smoothed as the finite preterite “sobró”; the surplus sense stays, with no added causer or object.",
+          "spanishSpan": "sobró"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Y hicieron todo sabio de corazón entre los haciendo la obra el mishkán: diez cortinas; lino fino retorcido y azul y púrpura y carmesí; querubines, obra de pensador, hizo a ellas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036008001",
+            "h02036008002",
+            "h02036008003",
+            "h02036008004",
+            "h02036008007",
+            "h02036008008"
+          ],
+          "issue": "“hicieron todo sabio de corazón … el mishkán” makes every wise-of-heart the thing made. The plural verb’s subject is כל חכם לב; את marks הַמִּשְׁכָּן as what they made.",
+          "spanishSpan": "hicieron todo sabio de corazón"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036008008"
+          ],
+          "issue": "הַמִּשְׁכָּן is a common noun (definite). “mishkán” leaves that non-name lemma untranslated.",
+          "spanishSpan": "mishkán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036008015",
+            "h02036008016"
+          ],
+          "issue": "“carmesí” keeps the scarlet of שָׁנִי and drops the construct noun תּוֹלַעַת (worm).",
+          "spanishSpan": "carmesí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036008021",
+            "h02036008017"
+          ],
+          "issue": "אֹתָם is a 3rd masculine plural object, matching כְּרֻבִים. “ellas” switches it to feminine and points it at the curtains.",
+          "spanishSpan": "ellas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036008011",
+            "h02036008012"
+          ],
+          "issue": "Morphology labels שֵׁשׁ a cardinal, while lemma 8336 b / H8336 is not the numeral six. “lino fino” closes that as fine linen; מָשְׁזָר still licenses “retorcido.”",
+          "spanishSpan": "lino fino"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y juntó las cinco cortinas una a una, y cinco cortinas juntó una a una.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036010001",
+            "h02036010010"
+          ],
+          "issue": "Sequential imperfect and perfect are both preterite juntó; aspect is smoothed while person, number, and piel stem stay.",
+          "spanishSpan": "juntó"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y hizo lazos de azul sobre el labio de la cortina la una desde el extremo en la juntura; así hizo en el labio de la cortina la extrema en la juntura la segunda.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036011008"
+          ],
+          "issue": "«el extremo» adds a definite article; מקצה has none. Spanish grammatical smoothing that does not change the meaning.",
+          "spanishSpan": "el extremo"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "Y juntó las cinco cortinas a solas, y las seis cortinas a solas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036016005",
+            "h02036016009"
+          ],
+          "issue": "לְבָד marks each curtain group as by itself, apart from the other. «a solas» instead puts the joining in solitude and drops that separation.",
+          "spanishSpan": "a solas"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "notes": "re-audit fail",
+      "spanish": "Y hizo cubierta para la tienda, de pieles de carneros enrojecidas, y cubierta de pieles de tahash desde arriba.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036019009"
+          ],
+          "issue": "Common noun, masculine plural absolute (H8476), left as the untranslated lemma tahash; the plural is not expressed.",
+          "spanishSpan": "tahash"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "notes": "re-audit fail",
+      "spanish": "Y hizo travesaños maderas de acacia: cinco a las tablas del costado del tabernáculo el uno,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036031002",
+            "h02036031003"
+          ],
+          "issue": "Construct בריחי עצי licenses bars-of woods; Spanish juxtaposes the two nouns and omits that of-relation.",
+          "spanishSpan": "travesaños maderas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036031009",
+            "h02036031007"
+          ],
+          "issue": "האחת is feminine singular and agrees with צלע, not with masculine המשכן; el uno is masculine and can attach to costado or tabernáculo.",
+          "spanishSpan": "el uno"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "notes": "clause role",
+      "spanish": "Y hizo la parójet de azul y púrpura y carmesí y lino fino retorcido; obra de pensador la hizo, querubines.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036035003"
+          ],
+          "issue": "Common noun left as the transliteration parójet; a non-name lemma must be Spanish.",
+          "spanishSpan": "parójet"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036035008"
+          ],
+          "issue": "Lemma 8336 and morph cardinal leave the sense open; lino fino resolves it as fine linen and adds fineness.",
+          "spanishSpan": "lino fino"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036035003",
+            "h02036035004"
+          ],
+          "issue": "de marks the following nouns as material; Hebrew has no preposition, only apposition after the object.",
+          "spanishSpan": "de"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036035006",
+            "h02036035007"
+          ],
+          "issue": "Construct pair is collapsed to one color noun, so both tokens are not kept visible.",
+          "spanishSpan": "carmesí"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "notes": "clause role",
+      "spanish": "Y hizo a ella cuatro columnas de shitím, y las chapó de oro; sus ganchos de oro, y fundió a ellas cuatro basas de plata.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02036036005"
+          ],
+          "issue": "שִׁטִּים is a common noun left untranslated as shitím",
+          "spanishSpan": "shitím"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036036006"
+          ],
+          "issue": "Object suffix is 3mp; las is feminine by agreement with columnas, same participants",
+          "spanishSpan": "las"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036036011"
+          ],
+          "issue": "לָהֶם is 3mp; ellas is feminine by agreement with columnas, same participants",
+          "spanishSpan": "a ellas"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "y sus columnas cinco y sus ganchos, y chapó sus cabezas y sus fajas de oro, y sus basas cinco de bronce.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02036038002",
+            "h02036038005",
+            "h02036038007",
+            "h02036038008",
+            "h02036038010"
+          ],
+          "issue": "«sus» smooths the 3ms suffix on the columns and the 3mp suffixes on the hooks, heads, bands, and bases into one possessive; possessor number is not marked.",
+          "spanishSpan": "sus"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 3,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 4,
+      "note": "Rendered הַקֹּדֶשׁ as the abstract noun 'lo santo' rather than 'el santo' (a person), since the auditor flagged the personification as a mismatch."
+    },
+    {
+      "verse": 5,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 6,
+      "note": "Added «que» before «varón y mujer» to keep «no hagan» read as third-person jussive, not a direct command to ustedes."
+    },
+    {
+      "verse": 8,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 14,
+      "note": "Kept \"ellas\" to agree in gender with the Spanish noun cortinas rather than with the Hebrew masculine plural suffix on h02036014011, which is the required grammatical agreement in Spanish."
+    },
+    {
+      "verse": 16,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 20,
+      "note": "Chose para el over directional al for the lamed on mishkán/tabernáculo because the morphology does not specify direction; both are licensed senses of the same preposition."
+    },
+    {
+      "verse": 25,
+      "note": "Reordered 'segundo' to modify 'costado' (the side), per the Hebrew ordinal's agreement with צלע, not 'tabernáculo'."
+    },
+    {
+      "verse": 27,
+      "note": "Dual construct rendered as 'los dos extremos' to mark the Hebrew dual that plain 'extremos' did not show."
+    },
+    {
+      "verse": 29,
+      "note": "el uno keeps masculine agreement with Spanish anillo (masculine); the Hebrew cardinal and ring noun are feminine, but Spanish anillo's own gender governs the agreement."
+    },
+    {
+      "verse": 35,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 36,
+      "note": "hold: clause role"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 17:14",
+  "chapter": 17,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Escribe esto memorial en el libro, y pon en oídos de Josué, porque borrando borraré el recuerdo de Amaleq de debajo de los cielos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02017014012"
+      ],
+      "issue": "כי está marcado solo como conjunción; porque fija una lectura causal.",
+      "spanishSpan": "porque"
+    }
+  ],
+  "notes": "Lo demás sigue los tokens: dijo 3ms, Jehová, Moisés, imperativos 2ms, esto memorial, el libro, oídos duales, Josué, infinitivo absoluto más imperfecto 1cs, el recuerdo de Amaleq, debajo de los cielos.",
+  "discardedUncitedFindings": 0
+}

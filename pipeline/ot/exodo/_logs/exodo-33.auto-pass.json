@@ -1,0 +1,151 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 33,
+  "kept": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y habló Jehová a Moisés: Anda, sube desde este, tú y el pueblo que subiste desde tierra de Egipto, a la tierra que juré a Abraham, a Isaac y a Jacob, diciendo: A tu semilla la daré.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02033001022",
+            "h02033001023"
+          ],
+          "issue": "«la» puede duplicar «semilla» como objeto directo de «daré». El ל marca la semilla como destinatario y el sufijo 3fs es otro objeto.",
+          "spanishSpan": "A tu semilla la daré"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "notes": "clause role",
+      "spanish": "Y Moisés tomaba la tienda, y la tendía a él desde fuera al campamento, lejos desde el campamento, y llamaba a ella tienda de reunión; y era todo buscante a Jehová salía a tienda de reunión que desde fuera al campamento.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02033007007",
+            "h02033007008"
+          ],
+          "issue": "מִחוּץ לְ places the tent outside the camp; «desde fuera al campamento» reads as movement from outside toward the camp.",
+          "spanishSpan": "desde fuera al campamento"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02033007025",
+            "h02033007026"
+          ],
+          "issue": "The relative clause repeats מִחוּץ לְ as a location outside the camp; «desde fuera al campamento» again makes the camp the destination.",
+          "spanishSpan": "desde fuera al campamento"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y veía todo el pueblo la columna de la nube parada abertura de la tienda, y se levantaba todo el pueblo, y se postraban, varón abertura de su tienda.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02033010001",
+            "h02033010010",
+            "h02033010013"
+          ],
+          "issue": "Sequential perfects are rendered as imperfects, so the actions read as ongoing or habitual.",
+          "spanishSpan": "veía … se levantaba … se postraban"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02033010007",
+            "h02033010008",
+            "h02033010009",
+            "h02033010014",
+            "h02033010015",
+            "h02033010016"
+          ],
+          "issue": "The opening is only juxtaposed after the standing participle and after the man, so its place role is not expressed.",
+          "spanishSpan": "parada abertura de la tienda … varón abertura de su tienda"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "notes": "clause role",
+      "spanish": "Y ahora, si ahora hallé favor en tus ojos, hazme conocer ahora tu camino, y te conoceré, a fin de que halle favor en tus ojos; y ve que tu pueblo esta nación.",
+      "findings": []
+    },
+    {
+      "verse": 22,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y será en pasar mi gloria, y te pondré en hendidura de la roca, y te cubriré con mi palma hasta mi pasar.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02033022007",
+            "h02033022008",
+            "h02033022009"
+          ],
+          "issue": "The qal 1cs verb has no 2ms object suffix; the palm is the nominal complement and the 2ms is the object of “upon.” Spanish makes the addressee the object of cubrir and inserts instrumental con, dropping the upon-relation.",
+          "spanishSpan": "te cubriré con mi palma"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 3,
+      "note": "Added 'yo' to disambiguate the subjunctive 'consuma', which is otherwise identical in 1st and 3rd person; the Hebrew 1cs form confirms the subject is the speaker, not a 3rd party."
+    },
+    {
+      "verse": 5,
+      "note": "Supplied the copula *son* for the Spanish predicate; kept conoceré as a plain future for the qal cohortative וְאֵדְעָה because changing stem force/mood to show the volitive sense would be an interpretive rewrite, not a grammar repair."
+    },
+    {
+      "verse": 7,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "Chose plural se levantaban over singular se levantaba so the actor stays all the people, as flagged, while todo el pueblo remains the written subject; this is a grammatical-agreement choice, not a meaning change."
+    },
+    {
+      "verse": 13,
+      "note": "hold: clause role — whether the כִּי clause after \"ve\" is the content seen or a causal clause is a clause-role choice, so \"que\" was left unchanged."
+    },
+    {
+      "verse": 23,
+      "note": "Chose plural \"espaldas\" over singular \"espalda\" to preserve the grammatical number of the plural Hebrew noun (H268), still naming one back."
+    }
+  ]
+}

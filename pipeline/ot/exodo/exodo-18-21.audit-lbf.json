@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 18:21",
+  "chapter": 18,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y tú verás desde todo el pueblo varones de fuerza, temerosos de Dios, varones de verdad, aborrecedores de ganancia injusta, y pondrás sobre ellos príncipes de miles, príncipes de cientos, príncipes de cincuenta y príncipes de dieces.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02018021012"
+      ],
+      "issue": "בצע (H1215) es un solo sustantivo (ganancia/provecho, a menudo pero no siempre ilícita); el adjetivo injusta añade una calificación moral y cierra esa apertura.",
+      "spanishSpan": "ganancia injusta"
+    }
+  ],
+  "notes": "El resto del versículo sigue los tokens: 2ms, constructos, אלהים→Dios, y la waw solo en príncipes de dieces.",
+  "discardedUncitedFindings": 0
+}

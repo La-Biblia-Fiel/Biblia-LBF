@@ -1,0 +1,241 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 30,
+  "kept": [
+    3,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30,
+    31,
+    35,
+    36,
+    37,
+    38
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "clause role",
+      "spanish": "Y harás altar de quemar incienso; maderas de shitím harás a él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02030001003"
+          ],
+          "issue": "מִקְטַר is a masculine singular construct noun (H4729), not a verb; “quemar” adds the act of burning.",
+          "spanishSpan": "quemar"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02030001006"
+          ],
+          "issue": "שִׁטִּים is feminine plural absolute; “acacia” is singular.",
+          "spanishSpan": "acacia"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02030001008"
+          ],
+          "issue": "אֹתוֹ is the direct-object marker with a 3ms suffix; “a él” can be read as a personal or indirect object.",
+          "spanishSpan": "a él"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Codo su largo y codo su ancho; cuadrado será, y dos codos su alto; desde él sus cuernos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02030002009"
+          ],
+          "issue": "The preposition suffix is 1st common plural (from us); Spanish él is 3rd masculine singular (from him).",
+          "spanishSpan": "desde él"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "notes": "clause role",
+      "spanish": "Y dos anillos de oro harás a él desde debajo a su moldura, sobre dos sus costados harás, sobre dos sus lados, y será a casas a las varas para alzar a él en ellas.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02030004017"
+          ],
+          "issue": "לְבַדִּים is an absolute plural with no article; las adds definiteness. The parallel לְבָתִּים is rendered without an article.",
+          "spanishSpan": "las varas"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "notes": "re-audit fail",
+      "spanish": "Y lo darás delante del velo que sobre arca del testimonio, delante de la cubierta que sobre el testimonio, que me citaré a ti allá.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02030006015"
+          ],
+          "issue": "Niphal imperfect 1cs of יעד is the speaker meeting or being appointed toward the addressee; «me citaré» adds self-citation/self-summons and makes the speaker the object.",
+          "spanishSpan": "me citaré"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "notes": "clause role",
+      "spanish": "Esto darán todo el pasante sobre los contados: mitad del siclo en siclo de la santidad; veinte gera el siclo; mitad del siclo ofrenda a Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02030013004"
+          ],
+          "issue": "el pasante, in current Latin American Spanish, names an intern; the token is a definite qal active participle of passing, so the passing participant is omitted and an unlicensed role is added",
+          "spanishSpan": "el pasante"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02030013006"
+          ],
+          "issue": "los contados locks the numbering sense of a polysemous passive participle (number, muster, appoint, visit)",
+          "spanishSpan": "los contados"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "spanish check",
+      "spanish": "Y los santificarás, y serán santo de santos; todo el tocante en ellos será santo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "tocante is not current Spanish for “whatever touches”; a reader must guess it",
+          "spanishSpan": "tocante"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "notes": "clause role",
+      "spanish": "Sobre carne de hombre no será derramado, y en su proporción no harán como él; santidad él, santidad será a ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02030032005"
+          ],
+          "issue": "Qal imperfect 3ms is active: the 3ms participant performs the action. «será derramado» is passive, so the stem force changes and that participant becomes the one acted on.",
+          "spanishSpan": "será derramado"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Varón que perfume como él, y que dé desde él sobre extraño, y será cortado desde sus pueblos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02030033007"
+          ],
+          "issue": "מִמֶּנּוּ is a preposition with a 1st common plural suffix (from us); Spanish «él» is 3rd masculine singular (from him).",
+          "spanishSpan": "desde él"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "notes": "re-audit fail",
+      "spanish": "Y dijo Jehová a Moisés: Toma a ti aromas: estacte y uña-olorosa y gálbano, aromas y incienso puro; parte en parte será.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02030034009"
+          ],
+          "issue": "«uña-olorosa» sigue desdoblando el sustantivo singular en uña más la cualidad olorosa; el guion no quita ni el instrumento ni el adjetivo. El token licencia una sola sustancia.",
+          "spanishSpan": "uña-olorosa"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02030034012",
+            "h02030034013"
+          ],
+          "issue": "«puro» concuerda en masculino con «incienso»; el adjetivo es femenino singular y no cambia el sentido puro.",
+          "spanishSpan": "incienso puro"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 4,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "Usé comas en aposición para que 'lo' señale con claridad hacia 'incienso continuo' dentro de la misma cláusula de יקטירנה, sin reescribir el objeto; dejé 'incienso continuo' sin cambios porque el audit señala que no altera el sentido del constructo קטרת תמיד."
+    },
+    {
+      "verse": 13,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 19,
+      "note": "El sufijo de מִמֶּנּוּ está marcado en la fuente como 1ª persona plural, no 3ª singular; se corrigió «él» a «nosotros» siguiendo esa marca."
+    },
+    {
+      "verse": 23,
+      "note": "Chose nested 'de' noun-phrases (lo principal de mirra de fluidez; canela/caña de aroma) over adjectives so each construct noun stays a governed noun, matching the Hebrew construct chain."
+    },
+    {
+      "verse": 29,
+      "note": "tocante is not current Spanish for “whatever touches”; a reader must guess it"
+    },
+    {
+      "verse": 32,
+      "note": "hold: clause role"
+    }
+  ]
+}

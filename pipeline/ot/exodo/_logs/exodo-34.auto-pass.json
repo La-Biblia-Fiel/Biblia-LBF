@@ -1,0 +1,202 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 34,
+  "kept": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 7,
+      "notes": "spanish check",
+      "spanish": "guardante misericordia a miles, alzante iniquidad y delito y pecado, y dejar limpio no dejará limpio; visitante iniquidad de padres sobre hijos y sobre hijos de hijos, sobre terceros y sobre cuartos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "not current Spanish; a reader must guess the form",
+          "spanishSpan": "guardante"
+        },
+        {
+          "severity": "fail",
+          "issue": "not current Spanish; a reader must guess the form",
+          "spanishSpan": "alzante"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "clause role",
+      "spanish": "Guarda a ti lo que yo mandándote hoy; he aquí yo echando de delante de ti al amorreo y al cananeo y al hitita y al ferezeo y al heveo y al jebuseo.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02034011002",
+            "h02034011003"
+          ],
+          "issue": "«a ti» puede leerse como objeto personal de «guarda», pero לְךָ es preposición (a/para ti) y el objeto directo es אֵת אֲשֶׁר («lo que»).",
+          "spanishSpan": "a ti"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "notes": "clause role",
+      "spanish": "La fiesta de los panes ázimos guardarás; siete días comerás panes ázimos que te mandé, al tiempo de mes del Aviv, porque en mes del Aviv saliste desde Egipto.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02034018011"
+          ],
+          "issue": "לְמוֹעֵד (appointed time / fixed season, construct) is rendered as generic tiempo; the appointment is softened.",
+          "spanishSpan": "al tiempo"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "notes": "re-audit fail",
+      "spanish": "Todo abridor de matriz a mí, y todo tu ganado será macho, abridor de buey y oveja o cabra.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02034019007"
+          ],
+          "issue": "תִּזָּכָר is lemma H2142, Niphal imperfect 3fs (be remembered). «será macho» substitutes the sense male and drops the Niphal verb.",
+          "spanishSpan": "será macho"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "notes": "re-audit fail",
+      "spanish": "Y abridor de asno redimirás con un animal del rebaño, y si no redimirás, le romperás la nuca; todo primogénito de tus hijos redimirás, y no se verán vacíos mis faces.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02034020014",
+            "h02034020015",
+            "h02034020016"
+          ],
+          "issue": "«no se verán vacíos mis faces» hace de «mis faces» lo que no se ve y de «vacíos» un adjetivo de esas faces. El niphal 3mp es «serán vistos/aparecerán», פני es el sustantivo «mis faces» y ריקם es adverbio de modo («vacíamente»), no una cualidad de las faces.",
+          "spanishSpan": "no se verán vacíos mis faces"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "re-audit fail",
+      "spanish": "Y fue allí con Jehová cuarenta días y cuarenta noches; pan no comió, y aguas no bebió; y escribió sobre las tablas las palabras del pacto, las diez palabras.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02034028001",
+            "h02034028002"
+          ],
+          "issue": "«fue allí» is read as motion (ir: went there). H1961 is qal 3ms be/was, and H8033 is the locative there; the tokens do not license going.",
+          "spanishSpan": "fue allí"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "spanish check",
+      "spanish": "Y fue en descender Moisés desde monte Sinai, y dos tablas del testimonio en mano de Moisés en su descender desde el monte, y Moisés no conoció que radió piel de sus faces en su hablar con él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«faces» no es español actual; el lector tiene que adivinar que es el plural de «faz» por «rostro».",
+          "spanishSpan": "faces"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "notes": "spanish check",
+      "spanish": "Y vio Aarón y todos los hijos de Israel a Moisés, y he aquí radió piel de sus faces, y temieron acercarse a él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«faces» es el plural raro de «faz»; un lector actual no lo reconoce como «rostros».",
+          "spanishSpan": "faces"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 3,
+      "note": "Chose 'ganado vacuno' over plain 'ganado' to keep בָּקָר distinct from the flock already named by rebaño."
+    },
+    {
+      "verse": 6,
+      "note": "Reordered to 'misericordioso y clemente' so the Spanish pair follows the source order (compassionate, then gracious); same two words, no participant or sense change."
+    },
+    {
+      "verse": 7,
+      "note": "not current Spanish; a reader must guess the form; not current Spanish; a reader must guess the form"
+    },
+    {
+      "verse": 9,
+      "note": "Rendered נא as the parenthetical entreaty «te ruego» instead of temporal «ahora», and rendered the two qal perfect verbs as future indicative («perdonarás» / «nos heredarás») instead of imperative to keep their perfect, non-command force."
+    },
+    {
+      "verse": 11,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 13,
+      "note": "Chose singular 'su Asera' and 'su' for the 3ms suffix (h02034013009) against the preceding 3mp 'sus' (h02034013003, h02034013006); chose 'pilares' over 'estelas' for H4676's broader pillar/stone sense."
+    },
+    {
+      "verse": 18,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 24,
+      "note": "Rendered the plural-construct פְּנֵי as singular 'rostro', matching this translation's existing rendering of the same construct elsewhere (e.g., 'rostro de Jehová' in Job and Zacarías), rather than a literal plural 'rostros'."
+    },
+    {
+      "verse": 29,
+      "note": "«faces» no es español actual; el lector tiene que adivinar que es el plural de «faz» por «rostro»."
+    },
+    {
+      "verse": 30,
+      "note": "«faces» es el plural raro de «faz»; un lector actual no lo reconoce como «rostros»."
+    }
+  ]
+}

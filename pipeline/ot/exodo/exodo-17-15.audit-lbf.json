@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 17:15",
+  "chapter": 17,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y edificó Moisés altar, y llamó su nombre Jehová nisi.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02017015007"
+      ],
+      "issue": "Common noun, singular construct, with a 1cs suffix left untranslated as \"nisi\"; the noun is not Spanish and the suffix is not expressed.",
+      "spanishSpan": "nisi"
+    }
+  ],
+  "notes": "Morph is HNcmsc/Sp1cs, unlike the HNp tokens Moisés and Jehová.",
+  "discardedUncitedFindings": 0
+}

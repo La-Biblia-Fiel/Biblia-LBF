@@ -1,0 +1,113 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 17,
+  "kept": [
+    2,
+    3,
+    4,
+    7,
+    8,
+    9,
+    10,
+    11,
+    13
+  ],
+  "drafted": [],
+  "repaired": [
+    15
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "clause role",
+      "spanish": "Y partieron toda congregación de hijos de Israel desde desierto de Sin a sus partidas sobre boca de Jehová, y acamparon en Refidim, y no había aguas para beber el pueblo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02017001014"
+          ],
+          "issue": "אין is only a conjunction plus negative. «había» is an unmarked supplied past existential, not a starred copula.",
+          "spanishSpan": "había"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02017001008"
+          ],
+          "issue": "ל is only a preposition. «a» locks it as motion toward their departures.",
+          "spanishSpan": "a sus partidas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02017001016",
+            "h02017001017"
+          ],
+          "issue": "The qal infinitive construct plus its subject is smoothed into a finite purpose clause without a change of participants.",
+          "spanishSpan": "para que el pueblo bebiera"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "notes": "spanish check",
+      "spanish": "Y dijo Jehová a Moisés: Pasa delante del pueblo, y toma contigo de ancianos de Israel, y tu vara con que heriste al Yeor, toma en tu mano, y anda.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "Yeor no es una palabra del español actual; el lector no la reconoce.",
+          "spanishSpan": "Yeor"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "notes": "clause role",
+      "spanish": "He aquí yo parado delante de ti allí sobre la roca en Jorev, y herirás en la roca, y saldrán de ella aguas, y beberá el pueblo. Y hizo así Moisés a ojos de ancianos de Israel.",
+      "findings": []
+    },
+    {
+      "verse": 12,
+      "notes": "clause role",
+      "spanish": "Y manos de Moisés pesadas, y tomaron piedra y pusieron debajo de él, y se sentó sobre ella; y Aarón y Jur sostuvieron en sus manos, desde este uno y desde este uno, y fueron sus manos firmeza hasta venir el sol.",
+      "findings": []
+    },
+    {
+      "verse": 14,
+      "notes": "clause role",
+      "spanish": "Y dijo Jehová a Moisés: Escribe esto memorial en el libro, y pon en oídos de Josué, porque borrando borraré el recuerdo de Amaleq de debajo de los cielos.",
+      "findings": []
+    }
+  ],
+  "errors": [
+    {
+      "verse": 16,
+      "error": "Command '['/Users/johnwry/.local/bin/agent', '-p', '--trust', '--mode', 'ask', '--model', 'auto', '--output-format', 'text', '--workspace', '/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF', 'Read the JSON file at this absolute path and answer it:\\n/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/exodo/exodo-17-16.audit-pulir.request.json\\n\\nFollow the system and user fields in that file. The packet inside the file is the only evidence. Return only the JSON object those fields require. No markdown fences. Do not write files. Do not edit the repository. Do not align. Do not open STATUS.md.']' timed out after 300 seconds"
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 5,
+      "note": "Yeor no es una palabra del español actual; el lector no la reconoce."
+    },
+    {
+      "verse": 6,
+      "note": "hold: clause role — the cited mismatch is which referent the preposition's suffix (h02017006011, מִמֶּנּוּ) governs, the rock or us/the people, a participant question, not a grammar repair."
+    },
+    {
+      "verse": 12,
+      "note": "hold: clause role — the suffix on «sus manos» names whose hands (Moisés's) Aarón y Jur are supporting, not a location where they hold something, so that participant reading is left unrepaired."
+    },
+    {
+      "verse": 14,
+      "note": "hold: clause role — כי is tagged only as a bare conjunction, so whether this clause gives Josué the reason for the writing (porque) or the content to be written/heard (que) is a clause-role choice, not a grammar fix, and is left unresolved here."
+    }
+  ]
+}

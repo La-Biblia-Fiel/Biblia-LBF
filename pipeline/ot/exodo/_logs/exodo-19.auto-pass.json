@@ -1,0 +1,134 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 19,
+  "kept": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    10,
+    11,
+    14,
+    15,
+    17,
+    20,
+    22,
+    23,
+    25
+  ],
+  "drafted": [],
+  "repaired": [
+    7,
+    13,
+    16,
+    24
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "En el mes el tercero a salir hijos de Israel desde tierra de Egipto, en el día este vinieron a desierto de Sinai.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02019001010",
+            "h02019001011"
+          ],
+          "issue": "«a» is grammatical smoothing: the qal perfect takes the construct place as an unmarked goal, with no preposition token.",
+          "spanishSpan": "a"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "spanish check",
+      "spanish": "Y dijo Jehová a Moisés: He aquí yo viniendo a ti en densura de la nube, para que oiga el pueblo en mi hablar contigo, y también en ti crean para siempre. Y hizo saber Moisés las palabras del pueblo a Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "densura is not current Spanish; a reader would have to guess it",
+          "spanishSpan": "densura"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "notes": "re-audit fail",
+      "spanish": "Y limitarás al pueblo alrededor, diciendo: Guárdense a ustedes de subir en el monte y de tocar en su extremo; todo el tocante en el monte de morir será muerto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02019012015",
+            "h02019012016"
+          ],
+          "issue": "Unmarked \"de\" adds an of/from link. The qal infinitive absolute plus hophal imperfect is dying + he shall be put to death, with no preposition.",
+          "spanishSpan": "de morir"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "notes": "spanish check",
+      "spanish": "Y monte Sinai humeó todo él, de faces de que descendió sobre él Jehová en el fuego, y subió su humo como humo del horno, y tembló todo el monte mucho.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«de faces de que» no es español actual; el lector no reconoce esa forma como «porque»",
+          "spanishSpan": "de faces de que"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "notes": "clause role",
+      "spanish": "Y era voz del shofar andante y fortaleciéndose mucho; Moisés habla, y Dios le responde en voz.",
+      "findings": []
+    },
+    {
+      "verse": 21,
+      "notes": "clause role",
+      "spanish": "Y dijo Jehová a Moisés: Desciende, amonesta en el pueblo, no sea que irrumpan a Jehová a ver, y caiga de él mucho.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02019021009",
+            "h02019021010",
+            "h02019021011"
+          ],
+          "issue": "«rompan a Jehová» makes Jehová the one broken. אֶל is a preposition (toward), not a direct-object marker, so the tokens license breaking through toward Jehová, not breaking Jehová.",
+          "spanishSpan": "rompan a Jehová"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 7,
+      "note": "Added the definite article before 'ancianos' to match the definiteness the Hebrew construct chain licenses for 'the elders of the people.'"
+    },
+    {
+      "verse": 9,
+      "note": "densura is not current Spanish; a reader would have to guess it"
+    },
+    {
+      "verse": 18,
+      "note": "«de faces de que» no es español actual; el lector no reconoce esa forma como «porque»"
+    },
+    {
+      "verse": 19,
+      "note": "hold: clause role — the qal participle הולך predicates קול (the voice), but 'andante' placed after 'shofar' can still be read as modifying the horn; left as drafted."
+    },
+    {
+      "verse": 21,
+      "note": "hold: clause role"
+    }
+  ]
+}

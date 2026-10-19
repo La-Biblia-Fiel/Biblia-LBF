@@ -1,0 +1,134 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 18,
+  "kept": [
+    2,
+    4,
+    6,
+    7,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    24,
+    25,
+    26,
+    27
+  ],
+  "drafted": [],
+  "repaired": [
+    5,
+    8,
+    16,
+    19,
+    20,
+    21
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y oyó Yitró, sacerdote de Midyán, suegro de Moisés, todo lo que hizo Dios a Moisés y a Israel su pueblo, porque sacó Jehová a Israel desde Egipto.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02018001015"
+          ],
+          "issue": "porque selects the causal sense of the conjunction; morphology only marks כִּי as a conjunction",
+          "spanishSpan": "porque"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y a sus dos hijos, que nombre del uno Guershom, porque dijo: Peregrino fui en tierra extranjera.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02018003008"
+          ],
+          "issue": "porque selects the causal sense of the conjunction; morphology only marks כִּי as a conjunction",
+          "spanishSpan": "porque"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Ahora he conocido que grande Jehová más que todos los dioses, porque en la palabra que se ensoberbecieron sobre ellos.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02018011009"
+          ],
+          "issue": "«palabra» narrows H1697 to the speech sense; the lemma also leaves matter/thing open and the morphology does not decide",
+          "spanishSpan": "la palabra"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "notes": "clause role",
+      "spanish": "Si la palabra esta haces, y te manda Dios, y podrás pararte, y también todo este pueblo sobre su lugar vendrá en paz.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02018023003"
+          ],
+          "issue": "«palabra» narrows H1697 to the speech sense; the lemma also leaves matter/thing open and the morphology does not decide",
+          "spanishSpan": "la palabra"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02018023009"
+          ],
+          "issue": "Qal infinitive construct has no reflexive or object suffix; unmarked te is Spanish intransitive marking and does not add a participant, but pararse also admits halt/stand-up, which the bare infinitive does not decide",
+          "spanishSpan": "pararte"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02018023005",
+            "h02018023006",
+            "h02018023008",
+            "h02018023016"
+          ],
+          "issue": "The imperfects and the two sequential perfects are one conditional chain; Spanish splits it into present haces/manda and future podrás/vendrá",
+          "spanishSpan": "haces / manda / podrás / vendrá"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 22,
+      "error": "agent exit 1: -flash-low, gemini-3.6-flash-medium, gemini-3.6-flash-high, gemini-3.1-pro, gpt-5.4-mini-none, gpt-5.4-mini-low, gpt-5.4-mini-medium, gpt-5.4-mini-high, gpt-5.4-mini-xhigh, gpt-5.4-nano-none, gpt-5.4-nano-low, gpt-5.4-nano-medium, gpt-5.4-nano-high, gpt-5.4-nano-xhigh, claude-haiku-5-5-low, claude-haiku-5-5-medium, claude-haiku-5-5-high, claude-haiku-5-5-xhigh, claude-haiku-5-5-max, claude-haiku-5-5-thinking-low, claude-haiku-5-5-thinking-medium, claude-haiku-5-5-thinking-high, claude-haiku-5-5-thinking-xhigh, claude-haiku-5-5-thinking-max, claude-4.5-sonnet, claude-4.5-sonnet-thinking, gpt-5.1-low, gpt-5.1, gpt-5.1-high, gemini-3-flash, gemini-3.5-flash, claude-4-sonnet, claude-4-sonnet-thinking, gpt-5-mini, kimi-k3-low, kimi-k3-high, kimi-k3-max, kimi-k2.7-code, glm-5.2-high, glm-5.2-max Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 5,
+      "note": "Chose the imperfect 'acampaba' to carry the qal participle's predicate, preserving its continuous sense rather than fixing it to a single punctiliar tense."
+    },
+    {
+      "verse": 20,
+      "note": "Kept 'en él' as-is: Spanish 'camino' is grammatically masculine, so 'él' is required even though the Hebrew suffix is feminine; the referent (the way) does not change."
+    },
+    {
+      "verse": 23,
+      "note": "hold: clause role"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 27,
+  "kept": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y harás sus cuernos sobre cuatro sus esquinas; desde él serán sus cuernos, y lo revestirás bronce.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02027002006"
+          ],
+          "issue": "מִמֶּנּוּ is a preposition with a 1st common plural suffix; «él» is 3rd masculine singular.",
+          "spanishSpan": "él"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "re-audit fail",
+      "spanish": "Y harás sus ollas para limpiarlo, y sus palas y sus tazones y sus tenedores y sus bandejas; a todos sus utensilios harás bronce.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02027003003"
+          ],
+          "issue": "Piel infinitive H1878 licenses fatten, anoint, or remove ashes; “limpiarlo” adds generic cleaning and drops that content.",
+          "spanishSpan": "limpiarlo"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02027003007"
+          ],
+          "issue": "H4289 is a firepan, censer, or snuffdish; “bandejas” substitutes a tray.",
+          "spanishSpan": "bandejas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02027003011"
+          ],
+          "issue": "H5178 covers copper and brass/bronze; “bronce” selects the alloy sense.",
+          "spanishSpan": "bronce"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Hueco de tablas harás a él; conforme a lo que fue mostrado a ti en el monte, así harán.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02027008005",
+            "h02027008006",
+            "h02027008007"
+          ],
+          "issue": "Hiphil perfect 3ms is active with אתך as its direct object (he showed you). כאשר…כן is as/so. “conforme a lo que fue mostrado a ti” drops the 3ms agent, passivizes the verb, and makes a neuter thing the shown object with the 2ms as indirect recipient.",
+          "spanishSpan": "conforme a lo que fue mostrado a ti"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "clause role",
+      "spanish": "Y harás el atrio del mishkán; a lado sur hacia el sur, colgaduras al atrio lino fino torcido, cien en el codo largo al lado el uno.",
+      "findings": []
+    },
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "Y a puerta del atrio masaj de veinte codo, azul y púrpura y carmesí y lino fino torcido, obra de bordador; sus columnas cuatro, y sus basas cuatro.",
+      "findings": []
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 8,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 9,
+      "note": "hold: שֵׁשׁ (h02027009010) carries Strong's H8336, fine linen, but is tagged morphologically as a cardinal; choosing between those two readings is a sense decision, not grammar, so 'lino fino' is left as drafted."
+    },
+    {
+      "verse": 12,
+      "note": "Chose 'de mar' over 'del mar' so the Spanish does not add a definite article the Hebrew construct (לִפְאַת ... יָם) does not carry."
+    },
+    {
+      "verse": 16,
+      "note": "hold: the source conflict between lemma 8336 b (linen) and the cardinal morph tag on h02027016010 (šēš) is unresolved; 'lino fino' is kept as the draft had it, not re-interpreted."
+    },
+    {
+      "verse": 21,
+      "note": "Cambié parójet por velo porque H6532 es un sustantivo común y no debe transliterarse, ajusté desde fuera a por fuera del para marcar ubicación fuera del velo en vez de una trayectoria, y sustituí ordenará por pondrá en orden para reflejar el sentido de disponer que licencia el qal imperfecto de H6186 sin sonar a mandato."
+    }
+  ]
+}

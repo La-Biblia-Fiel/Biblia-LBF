@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 18:19",
+  "chapter": 18,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Ahora, oye en mi voz; te aconsejaré, y será Dios contigo: sé tú al pueblo enfrente de Dios, y harás venir tú las palabras a Dios.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02018019005"
+      ],
+      "issue": "וִיהִי is qal jussive (let be); será is indicative future and changes that volitive force.",
+      "spanishSpan": "será"
+    }
+  ],
+  "notes": "Remaining tokens match: tú address, Dios for אלהים, hiphil as harás venir, both אתה kept.",
+  "discardedUncitedFindings": 0
+}

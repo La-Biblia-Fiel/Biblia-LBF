@@ -1,0 +1,339 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 29,
+  "kept": [
+    1,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    29,
+    31,
+    33,
+    34,
+    35,
+    36,
+    38,
+    39,
+    41,
+    43,
+    44,
+    45,
+    46
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "re-audit fail",
+      "spanish": "Y panes ázimos y torta ázima mezclada en el aceite y obleas ázimas untadas en el aceite; flor de harina de trigos harás a ellos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029002001"
+          ],
+          "issue": "לֶחֶם is singular construct; panes is plural.",
+          "spanishSpan": "panes"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029002004"
+          ],
+          "issue": "מַצֹּת is feminine plural absolute; ázima is singular.",
+          "spanishSpan": "ázima"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029002005"
+          ],
+          "issue": "בְּלוּלֹת is a qal passive participle feminine plural; mezclada is singular.",
+          "spanishSpan": "mezclada"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "clause role",
+      "spanish": "Y los darás sobre canasta una, y los acercarás en la canasta, y el toro y los dos los carneros.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029003012",
+            "h02029003013"
+          ],
+          "issue": "Un solo sintagma definido (dos en estado constructo + los carneros con artículo) queda con el artículo repetido; no cambia número ni participantes.",
+          "spanishSpan": "los dos los carneros"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "notes": "clause role",
+      "spanish": "Y tomarás los vestidos, y vestirás a Aarón la túnica y el manto del efod y el efod y el joshen, y lo efodarás en cinturón del efod.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029005015"
+          ],
+          "issue": "Common noun H2833, definite singular, is left as the untranslated form joshen.",
+          "spanishSpan": "el joshen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029005016"
+          ],
+          "issue": "Qal sequential perfect 2ms of H640 is the coined verb efodarás, an untranslated non-name lemma.",
+          "spanishSpan": "efodarás"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029005017"
+          ],
+          "issue": "Preposition plus 3ms suffix is smoothed to the direct object lo.",
+          "spanishSpan": "lo"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029005018",
+            "h02029005019"
+          ],
+          "issue": "Definite construct phrase is a bare cinturón, and en selects one sense of the preposition.",
+          "spanishSpan": "en cinturón del efod"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y degollarás el toro delante de Jehová, a abertura de tienda de reunión.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029011006"
+          ],
+          "issue": "Unmarked supplied preposition «a» has no Hebrew token. פֶּתַח is a construct noun, so the locative preposition is not licensed.",
+          "spanishSpan": "a"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y santificarás pecho del balanceo y pierna de la ofrenda que fue balanceada y que fue alzada desde carnero de las llenuras, desde lo de Aarón y desde lo de sus hijos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029027003",
+            "h02029027009",
+            "h02029027011"
+          ],
+          "issue": "הוּנַף and הוּרָם are hophal perfect 3rd masculine singular, matching the masculine breast (חזה). The feminine participles make pierna/ofrenda the item waved and raised and leave pecho outside those clauses.",
+          "spanishSpan": "que fue balanceada y que fue alzada"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029027006"
+          ],
+          "issue": "שׁוֹק is the thigh/shank (feminine singular construct). pierna names the whole leg.",
+          "spanishSpan": "pierna"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "clause role",
+      "spanish": "Y será a Aarón y a sus hijos a estatuto de siempre de parte de hijos de Israel, porque ofrenda él; y ofrenda será de parte de hijos de Israel desde sacrificios de sus pazes, su ofrenda a Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029028018"
+          ],
+          "issue": "שַׁלְמֵיהֶם is a common masculine plural construct with a 3mp suffix (their peace-offerings). “pazes” is not a Spanish common noun and does not carry that offering sense.",
+          "spanishSpan": "sus pazes"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "notes": "clause role",
+      "spanish": "Siete días los vestirá el sacerdote debajo de él desde sus hijos, que entra a tienda de reunión para ministrar en el santo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029030013"
+          ],
+          "issue": "el santo reads as a holy person; the token is the common noun holiness/sanctuary, not a human participant",
+          "spanishSpan": "el santo"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029030005"
+          ],
+          "issue": "debajo de locks the preposition as physical underneath; the lemma also licenses in his place",
+          "spanishSpan": "debajo de él"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029030008"
+          ],
+          "issue": "entra is simple present; the token is qal imperfect, which also licenses a future coming",
+          "spanishSpan": "entra"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y comerá Aarón y sus hijos carne del carnero y el pan que en la canasta, a abertura de tienda de reunión.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029032011"
+          ],
+          "issue": "Unmarked supplied preposition a; פתח is a bare construct noun and no token licenses a preposition.",
+          "spanishSpan": "a"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "notes": "spanish check",
+      "spanish": "Siete días expiarás sobre el altar, y lo santificarás, y será el altar santo de santos; todo el tocante en el altar será santo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«tocante» aquí no se reconoce: en español actual casi solo aparece en «tocante a», y «todo el tocante en el altar» obliga a adivinar que significa lo que toca el altar.",
+          "spanishSpan": "tocante"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "notes": "clause role",
+      "spanish": "Y décima de flor de harina mezclada en aceite molido cuarto del hin, y libación cuarto del hin vino, al cordero el uno.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02029040005"
+          ],
+          "issue": "כָּתִית is a masculine adjective “beaten/pounded” (modifying the oil); «molido» substitutes grinding/milling.",
+          "spanishSpan": "molido"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029040001",
+            "h02029040003"
+          ],
+          "issue": "Masculine עִשָּׂרֹן and masculine passive בָּלוּל are rendered with feminine «décima» and «mezclada»; grammatical smoothing, same participants and passive stem.",
+          "spanishSpan": "décima de flor de harina mezclada"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Holocausto continuo a generaciones de ustedes, a abertura de tienda de reunión delante de Jehová, que me citaré a ustedes allá para hablar a ti allí.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029042001",
+            "h02029042002"
+          ],
+          "issue": "עֹלַת תָּמִיד is a construct noun plus an absolute noun; continuo makes the absolute noun an adjective. The continual-offering sense remains.",
+          "spanishSpan": "Holocausto continuo"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029042004"
+          ],
+          "issue": "פֶּתַח has no preposition; a makes the bare place noun explicitly locative.",
+          "spanishSpan": "a abertura"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02029042010",
+            "h02029042011"
+          ],
+          "issue": "Niphal imperfect 1cs אִוָּעֵד plus לָכֶם is I meet or appoint to you; me citaré a ustedes can also be read as summon or quote.",
+          "spanishSpan": "me citaré a ustedes"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 3,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 5,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 9,
+      "note": "Chose \"turbantes\" over \"tiaras\" for the plural head-covering (H4021) because \"tiaras\" commonly implies a jeweled or papal crown not specified by the lemma."
+    },
+    {
+      "verse": 16,
+      "note": "Chose \"arrojarás\" over \"rociarás\" for H2236 to keep the fuller toss/scatter sense the lemma licenses, per the audit warning."
+    },
+    {
+      "verse": 28,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 30,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 37,
+      "note": "«tocante» aquí no se reconoce: en español actual casi solo aparece en «tocante a», y «todo el tocante en el altar» obliga a adivinar que significa lo que toca el altar."
+    },
+    {
+      "verse": 40,
+      "note": "hold: clause role"
+    }
+  ]
+}

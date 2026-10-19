@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 17:1",
+  "chapter": 17,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y partieron toda congregación de hijos de Israel desde desierto de Sin a sus partidas sobre boca de Jehová, y acamparon en Refidim, y no había aguas para beber el pueblo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02017001016",
+        "h02017001017"
+      ],
+      "issue": "The qal infinitive construct takes the articulated singular noun as its subject: the people drink. «para beber el pueblo» makes el pueblo the object of transitive beber, so the people are what is drunk.",
+      "spanishSpan": "para beber el pueblo"
+    }
+  ],
+  "notes": "Wayyiqtol 3mp, the construct chain, Sin, Jehová, Refidim, plural aguas, and אין as no había stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

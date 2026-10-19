@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 18:20",
+  "chapter": 18,
+  "verse": 20,
+  "sourceDraft": "Y advertirás a ellos los estatutos y las torás, y harás conocer a ellos el camino andarán en él y la obra que harán.",
+  "spanish": "Y les advertirás a ellos los estatutos y las leyes, y les harás conocer a ellos el camino, andarán en él, y la obra que harán.",
+  "units": [],
+  "grammarChanges": [
+    "Replaced the untranslated lemma 'las torás' with the Spanish common noun 'las leyes' for הַתּוֹרֹ֑ת (H8451, definite feminine plural), paired with the existing 'los estatutos'.",
+    "Added clitic pronoun doubling ('les ... a ellos') on both verbs so the direct/indirect object pronouns agree with standard Spanish syntax; participants and who acts on whom are unchanged.",
+    "Added a comma after 'el camino' before the asyndetic clause 'andarán en él' for Spanish punctuation, keeping the relator-less structure that matches the Hebrew tokens."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Kept 'en él' as-is: Spanish 'camino' is grammatically masculine, so 'él' is required even though the Hebrew suffix is feminine; the referent (the way) does not change.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

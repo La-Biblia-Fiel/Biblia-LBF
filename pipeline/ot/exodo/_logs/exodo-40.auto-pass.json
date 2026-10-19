@@ -1,0 +1,177 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 40,
+  "kept": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 9,
+      "notes": "spanish check",
+      "spanish": "Y tomarás el aceite de la unción, y ungirás el tabernáculo y todo lo que en él, y santificarás a él y a todos sus utensilios, y será santidad.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "la relativa no tiene verbo; el lector tiene que adivinar hay o está",
+          "spanishSpan": "todo lo que en él"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y acercarás a Aarón y a sus hijos a la abertura de la tienda de reunión, y lavarás a ellos en las aguas.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02040012007",
+            "h02040012008",
+            "h02040012009"
+          ],
+          "issue": "The construct chain has no definite article on absolute מוֹעֵד; Spanish marks the opening and the tent as definite.",
+          "spanishSpan": "la abertura de la tienda de reunión"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y ordenó sobre ella el orden de pan delante de Jehová, conforme a lo que mandó Jehová a Moisés.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02040023002"
+          ],
+          "issue": "Suffix is 3ms; Spanish uses feminine ella.",
+          "spanishSpan": "ella"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02040023003",
+            "h02040023004"
+          ],
+          "issue": "Construct chain has no article; el marks the noun as definite.",
+          "spanishSpan": "el orden"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y lavaron desde él Moisés y Aarón y sus hijos sus manos y sus pies.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02040031002"
+          ],
+          "issue": "The suffix is 1st person common plural; «él» makes it 3rd person masculine singular.",
+          "spanishSpan": "él"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "notes": "re-audit fail",
+      "spanish": "En su entrar a Tienda de reunión y en su acercarse al altar lavarán, conforme a lo que mandó Jehová a Moisés.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02040032003"
+          ],
+          "issue": "Tienda capitalizes the common noun אֹהֶל (construct); the morphology is a common noun, not a proper name or title.",
+          "spanishSpan": "Tienda"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02040032001",
+            "h02040032005"
+          ],
+          "issue": "su does not mark the 3rd masculine plural suffixes on the infinitives; plural is carried only by lavarán.",
+          "spanishSpan": "su"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "notes": "re-audit fail",
+      "spanish": "Porque la nube de Jehová sobre el tabernáculo de día, y fuego será de noche en él, a ojos de toda casa de Israel en todos sus viajes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02040038012",
+            "h02040038013",
+            "h02040038014"
+          ],
+          "issue": "כָּל־בֵּית־יִשְׂרָאֵל is one singular construct house, definite through the name. \"toda casa de Israel\" is distributive (every household) and multiplies that one house.",
+          "spanishSpan": "toda casa de Israel"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02040038008",
+            "h02040038009"
+          ],
+          "issue": "לַיְלָה is a noun, not an adverb (unlike יוֹמָם). \"de noche\" smooths it to a time phrase and closes a predicate reading of תִּהְיֶה לַיְלָה.",
+          "spanishSpan": "de noche"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 9,
+      "note": "la relativa no tiene verbo; el lector tiene que adivinar hay o está"
+    },
+    {
+      "verse": 34,
+      "note": "Reordered subject and verb so the anarthrous 'tienda de reunión' (no article in the source) would not read ambiguously against the verb."
+    },
+    {
+      "verse": 36,
+      "note": "Chose future 'partirán' over past-habitual 'partían' to keep the yiqtol's non-past stem force, matching the project's stem-force rule."
+    }
+  ]
+}

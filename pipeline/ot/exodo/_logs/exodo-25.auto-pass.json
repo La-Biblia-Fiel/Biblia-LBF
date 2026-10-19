@@ -1,0 +1,193 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 25,
+  "kept": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    11,
+    14,
+    15,
+    16,
+    24,
+    28,
+    30,
+    37,
+    38,
+    39,
+    40
+  ],
+  "drafted": [],
+  "repaired": [
+    6,
+    7,
+    9,
+    17,
+    18,
+    19,
+    21,
+    27,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "repairedWithWarn": [
+    10,
+    13,
+    23,
+    31
+  ],
+  "parked": [
+    {
+      "verse": 5,
+      "notes": "clause role",
+      "spanish": "y pieles de carneros enrojecidas y pieles de tahash y maderas de shitím,",
+      "findings": []
+    },
+    {
+      "verse": 12,
+      "notes": "clause role",
+      "spanish": "Y fundirás a ella cuatro anillos de oro, y los darás sobre sus cuatro pies; y dos anillos sobre su costado el uno, y dos anillos sobre su costado el segundo.",
+      "findings": []
+    },
+    {
+      "verse": 20,
+      "notes": "spanish check",
+      "spanish": "Y serán los querubines extendientes alas hacia arriba, cubriendo con sus alas sobre la cubierta, y sus faces varón a su hermano; hacia la cubierta serán faces de los querubines.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«extendientes» is not a current Spanish word; a reader has to guess that it means extending.",
+          "spanishSpan": "extendientes"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "notes": "clause role",
+      "spanish": "Y me citaré a ti allí, y hablaré contigo desde sobre la kappóret, desde entre los dos querubines que sobre arca del testimonio, todo lo que mandaré a ti a hijos de Israel.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02025022007"
+          ],
+          "issue": "Common noun (definite feminine singular) left as the untranslated Hebraized form kappóret; non-name lemmas stay Spanish.",
+          "spanishSpan": "kappóret"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02025022001"
+          ],
+          "issue": "Niphal sequential 1cs is rendered with pronominal citarse; me citaré can be heard as quote/summon myself rather than meet by appointment, though the 1cs subject and לְךָ goal stay intact.",
+          "spanishSpan": "me citaré"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02025022016",
+            "h02025022017"
+          ],
+          "issue": "lo in todo lo que is unmarked grammatical smoothing with no separate token; it does not add a concept beyond all-that.",
+          "spanishSpan": "lo"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "notes": "clause role",
+      "spanish": "Y harás a ella marco de palmo alrededor, y harás moldura de oro a su marco alrededor.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02025025002"
+          ],
+          "issue": "Suffix is 3ms (לּוֹ); Spanish “ella” marks a feminine participant.",
+          "spanishSpan": "a ella"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "notes": "spanish check",
+      "spanish": "Y harás a él cuatro anillos de oro, y darás los anillos sobre las cuatro esquinas que a sus cuatro pies.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«que a sus cuatro pies» no forma una cláusula: falta el verbo y el lector tiene que adivinar cómo se unen las esquinas y los pies.",
+          "spanishSpan": "que a sus cuatro pies"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "re-audit fail",
+      "spanish": "Y harás sus platos y sus cucharas y sus jarras y sus tazones, donde se derramará; oro puro los harás.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02025029003"
+          ],
+          "issue": "cucharas narrows H3709 (palm, sole, pan, spoon) to the spoon; feminine plural plus a 3ms suffix does not select that instrument",
+          "spanishSpan": "cucharas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02025029006",
+            "h02025029008"
+          ],
+          "issue": "donde folds the relative and ב plus the 3fp suffix into a locative, so “en/con ellas” stays implicit and the preposition’s in/with range is closed",
+          "spanishSpan": "donde"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 5,
+      "note": "hold: clause role, since the masculine plural participle enrojecidas (מְאָדָּמִים) can grammatically attach to either pieles or carneros and the draft is left unchanged on that choice, while tahashim keeps the Hebrew plural transliterated because the packet supplies no gloss for the species."
+    },
+    {
+      "verse": 6,
+      "note": "Chose \"especias\" for H5561 to keep it distinct from H1314's \"aromas\"; both are licensed spice-sense synonyms, so no concept was added."
+    },
+    {
+      "verse": 9,
+      "note": "Chose the finite present 'te muestro' over the ungrammatical gerund to give the relative clause a predicate while keeping the same showing sense."
+    },
+    {
+      "verse": 12,
+      "note": "hold: clause role — \"los\" in \"los darás\" supplies the object of h02025012006 (the rings), but that verb has no object suffix or object token in the Hebrew, so which participant receives the action is left unrepaired."
+    },
+    {
+      "verse": 20,
+      "note": "«extendientes» is not a current Spanish word; a reader has to guess that it means extending."
+    },
+    {
+      "verse": 22,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 25,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 26,
+      "note": "«que a sus cuatro pies» no forma una cláusula: falta el verbo y el lector tiene que adivinar cómo se unen las esquinas y los pies."
+    },
+    {
+      "verse": 31,
+      "note": "Translating menorá as the masculine noun candelabro required changing the following verb (hecho) and pronoun (él) from feminine to masculine to keep Spanish agreement."
+    }
+  ]
+}

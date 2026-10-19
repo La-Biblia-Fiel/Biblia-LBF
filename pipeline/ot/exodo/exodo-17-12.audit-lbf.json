@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 17:12",
+  "chapter": 17,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y manos de Moisés pesadas, y tomaron piedra y pusieron debajo de él, y se sentó sobre ella; y Aarón y Jur sostuvieron en sus manos, desde este uno y desde este uno, y fueron sus manos firmeza hasta venir el sol.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02017012013"
+      ],
+      "issue": "The suffix is 3ms (his hands) as what they support. After the plural subject Aarón y Jur, «en sus manos» can be read as support located in their hands.",
+      "spanishSpan": "en sus manos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02017012018",
+        "h02017012019"
+      ],
+      "issue": "וַיְהִי is 3ms; «fueron» is plural to agree with «manos». The dual subject and the noun predicate are unchanged.",
+      "spanishSpan": "fueron sus manos"
+    }
+  ],
+  "notes": "Singular piedra, noun firmeza, and the repeated desde este uno stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

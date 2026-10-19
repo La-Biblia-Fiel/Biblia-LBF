@@ -1,0 +1,208 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 38,
+  "kept": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    29,
+    30,
+    31
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y hizo sus cuernos sobre sus cuatro esquinas; desde él fueron sus cuernos, y lo chapó de bronce.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02038002006"
+          ],
+          "issue": "מִמֶּנּוּ está etiquetado como preposición con sufijo de 1.ª persona común plural; «él» es 3.ª persona masculino singular.",
+          "spanishSpan": "desde él"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y hizo el lavatorio de bronce y su peana de bronce, con los espejos de las sirvientes que sirvieron a la abertura de la tienda de reunión.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02038008012",
+            "h02038008013",
+            "h02038008014"
+          ],
+          "issue": "Unmarked preposition a and article la smooth the article-less, preposition-less construct (entrance of tent of meeting) into a Spanish locative.",
+          "spanishSpan": "a la abertura de la tienda de reunión"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "re-audit fail",
+      "spanish": "Y hizo el atrio; al lado del sur, hacia el sur, colgaduras del atrio de lino retorcido, cien en el codo.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02038009009"
+          ],
+          "issue": "Lemma 8336 b and the cardinal feminine singular morph leave the sense open; lino resolves it as linen.",
+          "spanishSpan": "lino"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "notes": "spanish check",
+      "spanish": "Y las basas de bronce, a las columnas; ganchos de las columnas y sus bandas de plata, y chapado de plata de sus cabezas, y ellos bandeados de plata; todas las columnas del atrio.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "bandeados is not current Spanish for fitted with bands; a reader would have to guess it",
+          "spanishSpan": "bandeados"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "notes": "spanish check",
+      "spanish": "Todo el oro hecho para la obra en toda obra de la santidad: y fue el oro del mecimiento veintinueve talentos y setecientos treinta siclo en siclo de la santidad.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "mecimiento is not a current Spanish word a reader would recognize",
+          "spanishSpan": "mecimiento"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "notes": "re-audit fail",
+      "spanish": "Beca al cráneo, mitad del siclo en siclo de la santidad, a todo el pasante sobre los contados, desde hijo de veinte año y arriba, a seiscientos tres mil quinientos cincuenta.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02038026001"
+          ],
+          "issue": "Common noun rendered as the untranslated form «Beca»; in current Spanish that word means a scholarship, which the token does not license.",
+          "spanishSpan": "Beca"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02038026008"
+          ],
+          "issue": "«pasante» can calque the singular qal active participle, but in current Latin American Spanish it commonly means an intern; the token only licenses one who passes or crosses.",
+          "spanishSpan": "el pasante"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02038026015",
+            "h02038026016",
+            "h02038026017",
+            "h02038026018",
+            "h02038026019",
+            "h02038026020",
+            "h02038026021",
+            "h02038026022"
+          ],
+          "issue": "The additive cardinals and their conjunctions are smoothed into one Spanish numeral; the value 603550 is unchanged.",
+          "spanishSpan": "seiscientos tres mil quinientos cincuenta"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "notes": "spanish check",
+      "spanish": "Y fue cien talento de la plata para fundir las basas de lo santo y las basas del velo; cien basas a cien del talento, talento a la basa.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«basa» es un término de arquitectura que un lector actual no reconoce; tendría que adivinarlo.",
+          "spanishSpan": "basas"
+        },
+        {
+          "severity": "fail",
+          "issue": "«basa» es un término de arquitectura que un lector actual no reconoce; tendría que adivinarlo.",
+          "spanishSpan": "basa"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "spanish check",
+      "spanish": "Y de los mil setecientos setenta y cinco hizo ganchos a las columnas, y chapó sus cabezas y las ciñó.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "chapó is a rare verb a reader would have to guess",
+          "spanishSpan": "chapó"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 4,
+      "note": "Added 'un' before enrejado to mark it as the noun object made for the altar rather than an adjective on altar."
+    },
+    {
+      "verse": 16,
+      "note": "Supplied copula *son* marks the verbless predicate linking \"alrededor\" to \"lino fino retorcido\"; no concept was added beyond what the verbless clause requires."
+    },
+    {
+      "verse": 17,
+      "note": "bandeados is not current Spanish for fitted with bands; a reader would have to guess it"
+    },
+    {
+      "verse": 21,
+      "note": "Chose masculine 'los contados' to match the Hebrew participle's grammatical gender, adjusting the demonstrative to 'Estos' for Spanish agreement."
+    },
+    {
+      "verse": 24,
+      "note": "mecimiento is not a current Spanish word a reader would recognize"
+    },
+    {
+      "verse": 27,
+      "note": "«basa» es un término de arquitectura que un lector actual no reconoce; tendría que adivinarlo.; «basa» es un término de arquitectura que un lector actual no reconoce; tendría que adivinarlo."
+    },
+    {
+      "verse": 28,
+      "note": "chapó is a rare verb a reader would have to guess"
+    },
+    {
+      "verse": 30,
+      "note": "Kept the definite articles on basas/abertura/tienda de reunión (h02038030004–007) since the construct chain's absolute noun lacking the article does not require making the phrase indefinite in Spanish; only the pronoun gender was corrected."
+    }
+  ]
+}

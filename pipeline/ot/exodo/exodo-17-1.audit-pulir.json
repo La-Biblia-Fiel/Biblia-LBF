@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 17:1",
+  "chapter": 17,
+  "verse": 1,
+  "candidateLabel": "pulir",
+  "spanish": "Y partieron toda congregación de hijos de Israel desde desierto de Sin a sus partidas sobre boca de Jehová, y acamparon en Refidim, y no había aguas para que el pueblo bebiera.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02017001014"
+      ],
+      "issue": "אין is only a conjunction plus negative. «había» is an unmarked supplied past existential, not a starred copula.",
+      "spanishSpan": "había"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02017001008"
+      ],
+      "issue": "ל is only a preposition. «a» locks it as motion toward their departures.",
+      "spanishSpan": "a sus partidas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02017001016",
+        "h02017001017"
+      ],
+      "issue": "The qal infinitive construct plus its subject is smoothed into a finite purpose clause without a change of participants.",
+      "spanishSpan": "para que el pueblo bebiera"
+    }
+  ],
+  "notes": "The remaining clauses match the packet in participants, number, names, and openness.",
+  "discardedUncitedFindings": 0
+}

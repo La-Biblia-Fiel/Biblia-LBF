@@ -1,0 +1,111 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 20,
+  "kept": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    9,
+    13,
+    14,
+    15,
+    17,
+    19,
+    20,
+    22,
+    26
+  ],
+  "drafted": [],
+  "repaired": [
+    8,
+    10,
+    11,
+    12,
+    16,
+    18,
+    21,
+    24,
+    25
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 5,
+      "notes": "clause role",
+      "spanish": "No te postrarás a ellos, y no los servirás, porque yo Jehová tu Dios, Dios celoso, visitante iniquidad de padres sobre hijos, sobre terceros y sobre cuartos, a mis aborrecedores.",
+      "findings": []
+    },
+    {
+      "verse": 7,
+      "notes": "spanish check",
+      "spanish": "No alzarás el nombre de Jehová tu Dios a la vanidad, porque no dejará limpio Jehová al que alzare su nombre a la vanidad.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "alzare es futuro de subjuntivo, forma desusada que un lector actual tendría que adivinar",
+          "spanishSpan": "alzare"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "notes": "clause role",
+      "spanish": "No harán conmigo dioses de plata y dioses de oro; no harán a ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02020023006",
+            "h02020023007",
+            "h02020023009"
+          ],
+          "issue": "וֵאלֹהֵי זָהָב is the fronted object of the second לֹא תַעֲשׂוּ. Spanish joins dioses de oro to the first clause and leaves the second harán without that object.",
+          "spanishSpan": "y dioses de oro; no harán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02020023009",
+            "h02020023010"
+          ],
+          "issue": "לָכֶם is a preposition plus 2mp suffix (for you), the beneficiary of making. a ustedes makes the addressees the thing made.",
+          "spanishSpan": "a ustedes"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 5,
+      "note": "hold: clause role — the Hophal stem makes the addressee (\"tú\") the patient served/subjected by them, not the one serving \"los\", which is a who-acts-on-whom question, not a grammar fix."
+    },
+    {
+      "verse": 7,
+      "note": "alzare es futuro de subjuntivo, forma desusada que un lector actual tendría que adivinar"
+    },
+    {
+      "verse": 12,
+      "note": "Completed the participle's predicate with the simple present 'te da' rather than the periphrastic 'te está dando'; 'se alarguen' was left unchanged since it already renders the intransitive hiphil with plural días as subject, adding no causer or object."
+    },
+    {
+      "verse": 18,
+      "note": "Shofar is rendered as 'bocina' (the ram's-horn trumpet), the Spanish common-noun equivalent, since common nouns cannot stay untranslated."
+    },
+    {
+      "verse": 21,
+      "note": "Supplied *estaba* (verb 'to be') in italics to complete the verbless Hebrew relative clause; no separate source token corresponds to it."
+    },
+    {
+      "verse": 23,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 25,
+      "note": "Chose the singular 'de piedra labrada' to carry גָּזִית's own singular number separately from the plural object las piedras, rather than pluralizing the adjective to agree with las."
+    }
+  ]
+}

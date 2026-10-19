@@ -1,0 +1,32 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02018016017"
+      ],
+      "issue": "תּוֹרֹתָיו is a common noun (feminine plural + 3ms suffix: his instructions/laws). “torás” leaves the lemma untranslated as a Hebraized loanword.",
+      "spanishSpan": "torás"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02018016005"
+      ],
+      "issue": "בָּא is qal perfect 3ms; “viene” is present and does not carry the perfect.",
+      "spanishSpan": "viene"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02018016002",
+        "h02018016007",
+        "h02018016012"
+      ],
+      "issue": "Imperfect יִהְיֶה is future “será”, while the sequential perfects that continue it are present “juzgo” and “hago conocer”, so the Spanish splits one Hebrew time-frame.",
+      "spanishSpan": "será / juzgo / hago conocer"
+    }
+  ],
+  "notes": "Dios, the hiphil causative, both entre, and the 3mp/1cs participants match the tokens."
+}

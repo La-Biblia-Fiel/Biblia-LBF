@@ -1,0 +1,378 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 28,
+  "kept": [
+    2,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    16,
+    17,
+    19,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "clause role",
+      "spanish": "Y tú, acerca a ti a Aarón tu hermano, y a sus hijos con él, desde medio de hijos de Israel, para sacerdotear a mí: Aarón, Nadav y Avihú, Elazar e Itamar, hijos de Aarón.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028001013",
+            "h02028001014"
+          ],
+          "issue": "The piel infinitive has a 3ms suffix (he is the one who serves as priest) plus a separate 1cs “to me.” “para sacerdotear a mí” keeps the purpose and the 1cs and drops the 3ms participant, so the priesting reads as the addressee’s act toward “me.”",
+          "spanishSpan": "para sacerdotear a mí"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "clause role",
+      "spanish": "Y tú hablarás a todos sabios de corazón que lo llené espíritu de sabiduría, y harán los vestidos de Aarón para santificarlo, para sacerdotear a mí.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028003008",
+            "h02028003009",
+            "h02028003010"
+          ],
+          "issue": "The material complement of מִלֵּאתִיו (spirit of wisdom) is only juxtaposed; Spanish does not mark that he was filled with it.",
+          "spanishSpan": "lo llené espíritu de sabiduría"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028003016",
+            "h02028003017"
+          ],
+          "issue": "Infinitive plus לִי is smoothed to a finite clause; the 3ms suffix is taken as subject, and a mí can be read as direct object rather than only to/for me.",
+          "spanishSpan": "para que él sacerdotee a mí"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "notes": "clause role",
+      "spanish": "Y estos los vestidos que harán: joshen y efod y manto y túnica de cuadros, turbante y cinto; y harán vestidos de santidad a Aarón tu hermano y a sus hijos, para sacerdotear a mí.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028004005"
+          ],
+          "issue": "Common noun (not a proper name) is left as the Hebraized form joshen.",
+          "spanishSpan": "joshen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028004006"
+          ],
+          "issue": "Common noun (not a proper name) is left as the Hebraized form efod.",
+          "spanishSpan": "efod"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028004009"
+          ],
+          "issue": "Singular noun is rendered as the plural cuadros.",
+          "spanishSpan": "cuadros"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028004018"
+          ],
+          "issue": "Piel infinitive has a 3ms suffix; para sacerdotear drops that participant.",
+          "spanishSpan": "para sacerdotear"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "notes": "re-audit fail",
+      "spanish": "Dos hombros que se junten será a él a dos sus extremos, y será juntado.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028007003"
+          ],
+          "issue": "Qal active feminine plural participle is rendered as reflexive subjunctive 'se junten', shifting stem force and making the shoulders the join-target.",
+          "spanishSpan": "que se junten"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y dos cadenillas de oro puro, trenzadas harás a ellas, obra de cordón, y darás las cadenillas los cordones sobre los engastes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028014002",
+            "h02028014012"
+          ],
+          "issue": "cadenillas adds smallness; the chain noun licenses only chains",
+          "spanishSpan": "cadenillas"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028014005"
+          ],
+          "issue": "trenzadas makes the feminine plural noun an adjective and fixes its open border/twist range as braiding",
+          "spanishSpan": "trenzadas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028014007"
+          ],
+          "issue": "a ellas is feminine; the object suffix is third masculine plural and can read as dative",
+          "spanishSpan": "a ellas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028014012"
+          ],
+          "issue": "las marks the second chains definite; that noun is anarthrous absolute",
+          "spanishSpan": "las cadenillas"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028014015"
+          ],
+          "issue": "engastes keeps the gem-setting sense and drops brocade or plaited work",
+          "spanishSpan": "los engastes"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "notes": "re-audit fail",
+      "spanish": "Y harás joshen de juicio, obra de pensador; como obra de efod lo harás; oro, azul y púrpura y carmesí y lino fino torcido lo harás.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028015002"
+          ],
+          "issue": "Common noun (construct) left as the untranslated transliteration joshen.",
+          "spanishSpan": "joshen"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028015007"
+          ],
+          "issue": "Common noun left as the untranslated transliteration efod.",
+          "spanishSpan": "efod"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028015005"
+          ],
+          "issue": "Qal active participle is narrowed to pensador inside an open think/devise range.",
+          "spanishSpan": "pensador"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028015012",
+            "h02028015013"
+          ],
+          "issue": "Construct head plus scarlet is collapsed to one color word, so the head noun is not explicit.",
+          "spanishSpan": "carmesí"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028015014"
+          ],
+          "issue": "Morphology is a cardinal, while the Spanish is the textile lino fino; lemma H8336 b does not settle that clash.",
+          "spanishSpan": "lino fino"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y la fila la segunda: nófej, sapir y yahalom.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028018003",
+            "h02028018004",
+            "h02028018005"
+          ],
+          "issue": "Three common-noun lemmas are left as untranslated Hebrew forms instead of Spanish.",
+          "spanishSpan": "nófej, sapir y yahalom"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "notes": "re-audit fail",
+      "spanish": "Y la fila la cuarta: tarsis y ónice y jaspe; engastados oro serán en sus llenuras.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028020009"
+          ],
+          "issue": "«llenuras» denotes abstract fullness. The token is the preposition plus the concrete feminine-plural noun settings/fillings (H4396) with a 3mp suffix; «en sus» already carries the preposition and the suffix.",
+          "spanishSpan": "llenuras"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028020003"
+          ],
+          "issue": "The locked conventional form is Tarsis. The candidate writes that name in lowercase.",
+          "spanishSpan": "tarsis"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "re-audit fail",
+      "spanish": "Y llevará Aarón los nombres de los hijos de Israel en el pectoral del juicio sobre su corazón en su entrar al santo, a memorial delante de Jehová siempre.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02028029013"
+          ],
+          "issue": "הַקֹּדֶשׁ (H6944) is a common noun, holiness / holy thing / sanctuary. \"el santo\" names a holy person, a referent the token does not license.",
+          "spanishSpan": "el santo"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "notes": "spanish check",
+      "spanish": "Y lo pondrás sobre cordón de azul, y será sobre el turbante; al frente de faces del turbante será.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "faces no es español actual; un lector tendría que adivinarla",
+          "spanishSpan": "faces"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "notes": "clause role",
+      "spanish": "Y será sobre frente de Aarón, y alzará Aarón la iniquidad de las santidades que santificarán hijos de Israel a todos dones de sus santidades, y será sobre su frente siempre, a favor a ellos delante de Jehová.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028038005",
+            "h02028038008"
+          ],
+          "issue": "alzará locks H5375 to raise/lift and closes the lemma’s open bear/carry/take range",
+          "spanishSpan": "alzará"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02028038009",
+            "h02028038010",
+            "h02028038011",
+            "h02028038014",
+            "h02028038015"
+          ],
+          "issue": "a before todos dones can be read as the direct object of santificarán; the sanctified object is אשר referring to הקדשים, and לכל is the preposition for/to all",
+          "spanishSpan": "santificarán hijos de Israel a todos dones"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 3,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 4,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "Kept תּוֹלַעַת+שָׁני as one Spanish word 'carmesí' (both tokens tagged on that unit) and kept the smoothing article 'el' at the verse opening, since the construct noun carries no article token but Spanish needs one here."
+    },
+    {
+      "verse": 11,
+      "note": "Kept «ellas» because its Spanish antecedent «piedras» is feminine; the Hebrew suffix's masculine gender does not transfer to Spanish agreement."
+    },
+    {
+      "verse": 26,
+      "note": "The literal noun 'casa' is kept for the directional form בָּיְתָה instead of the interpretive 'hacia adentro'."
+    },
+    {
+      "verse": 30,
+      "note": "Chose the literal common-noun gloss for הָאוּרִים/הַתֻּמִּים (lights/perfections) rather than a transliteration, since the audit confirmed these are common nouns, not proper names."
+    },
+    {
+      "verse": 35,
+      "note": "Changed \"al santo\" to \"a lo santo\" because הַקֹּדֶשׁ is a common noun (the holy place/thing), not a person named \"the saint\"; the neuter article matches that sense without adding any word."
+    },
+    {
+      "verse": 36,
+      "note": "Elegí 'lámina' entre las opciones licenciadas flor/lámina/ala para H6731, y 'grabarás' entre grabar/esculpir para H6605; la concordancia femenina de 'ella' se mantiene porque las tres opciones léxicas son femeninas en español."
+    },
+    {
+      "verse": 37,
+      "note": "faces no es español actual; un lector tendría que adivinarla"
+    },
+    {
+      "verse": 38,
+      "note": "hold: clause role"
+    }
+  ]
+}

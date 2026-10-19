@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 17:5",
+  "chapter": 17,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Pasa delante del pueblo, y toma contigo de ancianos de Israel, y tu vara con que heriste en ella al Yeor, toma en tu mano, y anda.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02017005013",
+        "h02017005015"
+      ],
+      "issue": "אֲשֶׁר הִכִּיתָ בּוֹ licenses one relative instrument (con que / con la que heriste). «en ella» repeats בּוֹ as a second prepositional phrase.",
+      "spanishSpan": "en ella"
+    }
+  ],
+  "notes": "El sufijo de בּוֹ es 3ms y concuerda con la vara; el fallo es la doble frase, no el género español.",
+  "discardedUncitedFindings": 0
+}

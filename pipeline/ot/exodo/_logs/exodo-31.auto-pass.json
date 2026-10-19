@@ -1,0 +1,83 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 31,
+  "kept": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    17,
+    18
+  ],
+  "drafted": [],
+  "repaired": [
+    13,
+    15,
+    16
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 10,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "y los vestidos del servicio, y los vestidos de la santidad a Aarón el sacerdote, y los vestidos de sus hijos para sacerdotear,",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02031010003"
+          ],
+          "issue": "H8278 is a definite singular noun whose lemma stays open between service and plaited or woven work; «servicio» selects only the service sense.",
+          "spanishSpan": "del servicio"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "notes": "re-audit fail",
+      "spanish": "Y guardarán el sábado, porque santidad ella a ustedes; sus profanadores serán muertos sin falta, porque todo el haciendo en ella obra, y será cortada esa alma desde medio de sus pueblos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02031014010",
+            "h02031014008"
+          ],
+          "issue": "Hophal imperfect 3ms is plural serán, matching the plural participle rather than the singular verb.",
+          "spanishSpan": "serán muertos"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02031014009"
+          ],
+          "issue": "Qal infinitive absolute of the same root is smoothed to sin falta; emphatic certainty remains, the repeated root does not.",
+          "spanishSpan": "sin falta"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 7,
+      "note": "Supplied the copula *está* for the verbless relative clause and used ella, not él, to agree with el arca, which is grammatically feminine in Spanish though it takes the article el."
+    },
+    {
+      "verse": 8,
+      "note": "Chose 'candelabro' as the Spanish common noun for the lampstand (h02031008006) rather than the transliteration 'menorá'."
+    },
+    {
+      "verse": 15,
+      "note": "Chose the reflexive passive 'se hará obra' instead of the periphrastic 'será hecha obra' to keep the niphal's impersonal stem force without forcing Spanish gender agreement with 'obra'."
+    }
+  ]
+}

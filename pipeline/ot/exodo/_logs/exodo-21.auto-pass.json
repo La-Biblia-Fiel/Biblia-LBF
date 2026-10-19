@@ -1,0 +1,393 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 21,
+  "kept": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    9,
+    14,
+    15,
+    17,
+    18,
+    20,
+    21,
+    22,
+    23,
+    25,
+    28,
+    30,
+    33,
+    34,
+    35
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 4,
+      "notes": "clause role",
+      "spanish": "Si su señor da a él mujer, y da a luz a él hijos o hijas, la mujer y sus hijos serán a su señor, y él saldrá en su soledad.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021004006",
+            "h02021004005",
+            "h02021004003"
+          ],
+          "issue": "וְיָלְדָה is qal 3fs: the woman bears. Coordinated “da a luz” keeps the subject su señor (יִתֶּן, 3ms), so the master gives birth.",
+          "spanishSpan": "le da a luz"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y lo acercará su señor a Dios, y lo acercará a la puerta o al quicial, y perforará su señor su oreja con el perforador, y lo servirá para siempre.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021006002",
+            "h02021006012"
+          ],
+          "issue": "אֲדֹנָיו is morphologically a masculine plural construct with a 3ms suffix; «su señor» changes that number to one master.",
+          "spanishSpan": "su señor"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Si mala en ojos de su señor que a sí la designó, la rescatará; a pueblo extranjero no señoreará para venderla, en su traicionar en ella.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021008006"
+          ],
+          "issue": "«a sí» adds a reflexive himself; the token is only qal perfect 3ms plus a 3fs object suffix",
+          "spanishSpan": "a sí"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02021008004",
+            "h02021008006"
+          ],
+          "issue": "אֲדֹנֶיהָ is tagged masculine plural construct, while «señor» is singular; the relative verb is 3ms, so one male participant is also licensed and the number is uncertain",
+          "spanishSpan": "su señor"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Si otra toma a sí, su carne, su vestido y su cohabitación no disminuirá.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021010002",
+            "h02021010003"
+          ],
+          "issue": "אַחֶרֶת is a feminine singular adjective and יִקַּח is qal imperfect 3ms: he takes another. Spanish makes otra the subject who takes.",
+          "spanishSpan": "otra toma"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021010004"
+          ],
+          "issue": "לֹו is a preposition with a 3ms suffix, to or for him. Spanish a sí is reflexive to the feminine subject.",
+          "spanishSpan": "a sí"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021010005",
+            "h02021010006",
+            "h02021010007",
+            "h02021010009"
+          ],
+          "issue": "The three nouns with 3fs suffixes are objects of qal imperfect 3ms יִגְרָע: he does not diminish them. Spanish makes those nouns the subject of singular intransitive no disminuirá.",
+          "spanishSpan": "su carne, su vestido y su cohabitación no disminuirá"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "re-audit fail",
+      "spanish": "Y si estas tres no hace a ella, y saldrá gratis, no hay plata.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021011007"
+          ],
+          "issue": "וְיָצְאָה is qal sequential perfect 3rd feminine singular, so the woman goes out. Unmarked \"saldrá\" continues the 3rd-masculine subject of \"hace\".",
+          "spanishSpan": "saldrá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02021011002",
+            "h02021011003",
+            "h02021011005"
+          ],
+          "issue": "שְׁלָשׁ אֵלֶּה is the object of 3ms יַעֲשֶׂה. Fronted \"estas tres\" sits in the subject slot before \"hace\"; the singular verb still encodes a 3ms doer.",
+          "spanishSpan": "estas tres no hace"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "notes": "re-audit fail",
+      "spanish": "Hiriente de varón, y muere, de morir será muerto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021012004",
+            "h02021012005"
+          ],
+          "issue": "Unmarked \"de\" adds an of/from link. The qal infinitive absolute plus hophal imperfect is dying + he shall be put to death, with no preposition.",
+          "spanishSpan": "de morir"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y el que no acechó, y Dios lo hizo encontrar a su mano, y pondré a ti lugar adonde huirá allá.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021013005"
+          ],
+          "issue": "«lo» is an unmarked supplied 3ms object. The piel has no object suffix and no object token; only God causes the meeting or befalling.",
+          "spanishSpan": "lo"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "notes": "spanish check",
+      "spanish": "Y hurtante de varón, y lo vende, y es hallado en su mano, de morir será muerto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "hurtante is not current Spanish; a reader would have to guess it",
+          "spanishSpan": "hurtante"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "notes": "re-audit fail",
+      "spanish": "Si se levanta y anda afuera sobre su bastón, y quedará limpio el hiriente; solo su cese dará, y sanando sanará.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021019010",
+            "h02021019011"
+          ],
+          "issue": "שִׁבְתּוֹ is the fronted object of יִתֵּן (qal imperfect 3ms: he gives it). \"su cese dará\" makes the cessation the subject of dará.",
+          "spanishSpan": "su cese dará"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02021019003"
+          ],
+          "issue": "Hithpael sequential of הלך is walk-about; \"anda\" flattens that stem to simple walking.",
+          "spanishSpan": "anda"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "ojo debajo de ojo, diente debajo de diente, mano debajo de mano, pie debajo de pie,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021024002",
+            "h02021024005",
+            "h02021024008",
+            "h02021024011"
+          ],
+          "issue": "H8478 תחת is tagged only as a preposition; the lemma leaves under/beneath and instead-of/in-place-of open. «debajo de» locks the spatial sense and drops the substitutive sense.",
+          "spanishSpan": "debajo de"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "notes": "clause role",
+      "spanish": "Y cuando hiere varón ojo de su siervo o ojo de su sierva, y lo echa a perder, a libre lo enviará debajo de su ojo.",
+      "findings": []
+    },
+    {
+      "verse": 27,
+      "notes": "re-audit fail",
+      "spanish": "Y si hace caer diente de su siervo o diente de su sierva, al libre lo enviará bajo su diente.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021027010"
+          ],
+          "issue": "תחת es solo preposición; el lema deja abiertos bajo y en lugar de. «bajo» cierra el sentido espacial y deja fuera el sustitutivo.",
+          "spanishSpan": "bajo"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "re-audit fail",
+      "spanish": "Y si buey embistente él desde ayer anteayer, y fue amonestado en sus dueños, y no lo guarda, y mata varón o mujer, el buey será apedreado, y también su dueño será muerto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021029018"
+          ],
+          "issue": "בְּעָלָיו is masculine plural construct plus a 3ms suffix (his owners). Spanish singularizes it to one owner.",
+          "spanishSpan": "su dueño"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02021029010",
+            "h02021029011"
+          ],
+          "issue": "Imperfect יִשְׁמְרֶנּוּ and sequential perfect וְהֵמִית are smoothed to present guarda and mata; person, object suffix, and hiphil kill-force stay intact.",
+          "spanishSpan": "no lo guarda, y mata"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "O hijo embiste, o hija embiste, conforme a este juicio será hecho a él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021031002",
+            "h02021031003",
+            "h02021031005",
+            "h02021031006"
+          ],
+          "issue": "Both verbs are qal imperfect 3ms, including after feminine בת, so a masculine singular subject gores the son or the daughter. Spanish makes hijo and hija the ones who gore.",
+          "spanishSpan": "hijo embiste, o hija embiste"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "notes": "clause role",
+      "spanish": "Si siervo embiste el buey, o sierva, plata treinta siclos dará a su señor, y el buey será apedreado.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021032002",
+            "h02021032003",
+            "h02021032004",
+            "h02021032005",
+            "h02021032006",
+            "h02021032011",
+            "h02021032012",
+            "h02021032013"
+          ],
+          "issue": "Spanish makes the servant the agent who gores the ox and leaves the maidservant outside that pair. The verb is qal 3ms; the servant and the ox are both masculine singular, so morphology does not assign the servant as subject. The definite ox is the one that is stoned, and the silver is given to his master: the licensed participants are the ox goring the servant or the maidservant. The Spanish reverses agent and patient and breaks the servant-or-maidservant coordination.",
+          "spanishSpan": "siervo embiste el buey, o sierva"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "notes": "re-audit fail",
+      "spanish": "O ha sido conocido que buey embistente él desde ayer anteayer, y no lo guardará su dueño, pagando pagará buey debajo del buey, y el muerto será a él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021036011"
+          ],
+          "issue": "Noun is masculine plural construct plus a 3ms suffix; singular dueño changes the number.",
+          "spanishSpan": "su dueño"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02021036015"
+          ],
+          "issue": "Preposition lemma leaves under and in-place-of open; debajo resolves it as spatial underneath.",
+          "spanishSpan": "debajo"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02021036010"
+          ],
+          "issue": "Qal imperfect 3ms is not marked future; guardará locks a future indicative.",
+          "spanishSpan": "guardará"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 3,
+      "note": "Chose 'cuerpo' from the licensed body/back/person sense for H1610 rather than 'soledad'; supplied copula *es* in italics for the verbless clause 'dueño de mujer'."
+    },
+    {
+      "verse": 4,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 16,
+      "note": "hurtante is not current Spanish; a reader would have to guess it"
+    },
+    {
+      "verse": 17,
+      "note": "Kept \"de morir\" on the infinitive absolute because that is the same licensed rendering already used for this construction at Éxodo 21:15 (\"de morir será muerto\"); only the finite verb's stem force was repaired."
+    },
+    {
+      "verse": 23,
+      "note": "Se eligió «hubiere» para suavizar el tiempo de יִהְיֶה sin cambiar su caso; los sentidos de תַּחַת («debajo de») y נֶפֶשׁ («alma», dos veces) quedan como en el borrador porque elegir entre sus otras lecturas posibles (en lugar de / vida, persona, ser) sería interpretar, no corregir gramática."
+    },
+    {
+      "verse": 25,
+      "note": "Chose \"por\" over \"debajo de\" to render the substitutive, not spatial, sense of תַּחַת that the auditor flagged as locked out."
+    },
+    {
+      "verse": 26,
+      "note": "hold: clause role. H8478 (תַּחַת) is tagged only as a preposition, so choosing between a literal 'under' and the substitutionary 'in place of / in compensation for' his eye is a meaning decision, not a grammar fix, and is left open for the human reader."
+    },
+    {
+      "verse": 28,
+      "note": "Supplied the italicized copula *será* so that limpio predicates el dueño (the owner), not el buey (the ox), per the auditor's finding that article-less נָקִי cannot attributively modify the definite הַשּׁוֹר."
+    },
+    {
+      "verse": 32,
+      "note": "hold: clause role"
+    }
+  ]
+}

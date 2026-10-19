@@ -1,0 +1,279 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 39,
+  "kept": [
+    2,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    31,
+    32,
+    33,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    42,
+    43
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 1,
+      "notes": "clause role",
+      "spanish": "Y del azul y la púrpura y el carmesí hicieron vestidos del servicio para ministrar en el santo, e hicieron los vestidos de la santidad que a Aarón, conforme a lo que mandó Jehová a Moisés.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02039001008"
+          ],
+          "issue": "שְׂרָד is an unarticulated singular noun whose lemma stays open (plaited or stitched work); \"del servicio\" makes it definite \"service\" and overlaps לְשָׁרֵת.",
+          "spanishSpan": "del servicio"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02039001010"
+          ],
+          "issue": "בַּקֹּדֶשׁ is the definite noun holiness or holy place; \"el santo\" can be read as a holy person.",
+          "spanishSpan": "el santo"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02039001015",
+            "h02039001016"
+          ],
+          "issue": "אֲשֶׁר לְאַהֲרֹן is a verbless relative of relation (for or belonging to Aaron); \"que a Aarón\" leaves that lamed unclear.",
+          "spanishSpan": "que a Aarón"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y batieron las láminas del oro, y cortó hilos, para hacer en medio del azul y en medio de la púrpura y en medio del carmesí y en medio del lino fino, obra de pensador.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02039003013",
+            "h02039003014"
+          ],
+          "issue": "Construct תולעת (8438 b) plus שני is flattened to one color word, so the head noun is not explicit.",
+          "spanishSpan": "carmesí"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02039003018"
+          ],
+          "issue": "Qal active participle is narrowed to pensador inside an open think/devise range.",
+          "spanishSpan": "pensador"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "notes": "re-audit fail",
+      "spanish": "Y el cinturón de su efod que sobre él, desde él mismo, como su obra: oro, azul y púrpura y gusano de escarlata y lino fino retorcido, conforme a lo que mandó Jehová a Moisés.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02039005005",
+            "h02039005006"
+          ],
+          "issue": "The suffix on מִמֶּנּוּ is 1st common plural, but “él” is 3rd masculine singular; “mismo” then folds the independent 3rd-masculine pronoun into that same phrase.",
+          "spanishSpan": "él mismo"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y la fila la segunda: nófej, sapir y yahalom.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02039011003"
+          ],
+          "issue": "Common noun left untranslated as the transliteration nófej.",
+          "spanishSpan": "nófej"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02039011004"
+          ],
+          "issue": "Common noun left untranslated as the transliteration sapir.",
+          "spanishSpan": "sapir"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02039011005"
+          ],
+          "issue": "Common noun left untranslated as the transliteration yahalom.",
+          "spanishSpan": "yahalom"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "notes": "clause role",
+      "spanish": "Y los dos extremos de los dos cordones dieron sobre los dos engastes, y los dieron sobre los hombros del efod al frente de sus faces.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02039018001",
+            "h02039018002",
+            "h02039018003",
+            "h02039018006"
+          ],
+          "issue": "את marks the two ends as the object of נתנו (3cp; the ends are not the subject). Spanish “los dos extremos … dieron” makes the ends the actors.",
+          "spanishSpan": "los dos extremos de los dos cordones dieron"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "notes": "clause role",
+      "spanish": "E hicieron dos anillos de oro, y los pusieron sobre los dos extremos del joshen, sobre su labio que al lado del efod hacia adentro.",
+      "findings": []
+    },
+    {
+      "verse": 30,
+      "notes": "clause role",
+      "spanish": "E hicieron la diadema, corona de la santidad, oro puro, y escribieron sobre ella escritura de grabados de sello: Santidad a Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02039030003",
+            "h02039030004",
+            "h02039030005"
+          ],
+          "issue": "צִיץ and נֵזֶר are both singular construct, licensing the tsits of the nezer of the holiness. The comma makes apposition and drops that construct link, so the diadem is identified as the crown of holiness.",
+          "spanishSpan": "la diadema, corona de la santidad"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02039030009"
+          ],
+          "issue": "The suffix is 3rd masculine singular. Feminine ella follows Spanish diadema and keeps the same referent.",
+          "spanishSpan": "ella"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "notes": "clause role",
+      "spanish": "y la cubierta de pieles de los carneros las enrojecidas, y la cubierta de pieles de los tahash, y la parójet del masaj,",
+      "findings": []
+    },
+    {
+      "verse": 41,
+      "notes": "clause role",
+      "spanish": "los vestidos del servicio para ministrar en el santo, los vestidos de la santidad a Aarón el sacerdote, y los vestidos de sus hijos para sacerdotear.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02039041003",
+            "h02039041004"
+          ],
+          "issue": "הַשְּׂרָד (H8278) is its own singular noun, a different root from לְשָׁרֵת (H8334). «servicio» assigns that noun the serving sense of the following infinitive and leaves out the noun’s own sense.",
+          "spanishSpan": "del servicio"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 4,
+      "note": "Chose the relative clause \"que se unen\" over a gerund to render the active participle without reintroducing a passive sense."
+    },
+    {
+      "verse": 6,
+      "note": "Added «de» before «grabados de sello» to parallel the preposition already used for «rodeadas de engastes», since Spanish needs a linking word between a participle and its cognate noun that Hebrew juxtaposes without one."
+    },
+    {
+      "verse": 13,
+      "note": "Kept 'de' in 'rodeadas de engastes' because Spanish grammar requires a preposition linking the passive participle to its complement, unlike the Hebrew juxtaposition flagged by the auditor."
+    },
+    {
+      "verse": 14,
+      "note": "Kept the plural 'tribus' because Spanish requires plural agreement with the numeral 'doce', even though the Hebrew noun שָׁבֶט is singular."
+    },
+    {
+      "verse": 15,
+      "note": "Elegí el adjetivo 'trenzadas' junto a 'cadenas' en vez de una frase con 'de', para evitar el calco de 'cadenillas de borde' conservando el mismo sentido licenciado por H1383."
+    },
+    {
+      "verse": 18,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 19,
+      "note": "hold: clause role — «los» in «los pusieron» names the two rings, carried over as object from the prior clause, as what was placed on the two ends of the pectoral; the verb has no object marker in the Hebrew here, so this is left unchanged."
+    },
+    {
+      "verse": 28,
+      "note": "Added a comma before 'de lino fino' so the fine-linen material describes the headdresses-of-caps phrase as a whole, the same appositional pattern already used for the breeches clause, rather than appearing to bind only to 'los gorros'."
+    },
+    {
+      "verse": 30,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 34,
+      "note": "hold: lexicon — left «tahash» (h02039034009), «parójet» (h02039034011), and «masaj» (h02039034012) untranslated because the packet supplies no Spanish gloss for those lemmas, and supplying one would require translating from memory, which is forbidden."
+    },
+    {
+      "verse": 37,
+      "note": "Chose 'candelabro' (masculine) as the Spanish common noun for the lampstand and adjusted the adjective to masculine 'puro' to agree; Hebrew's feminine grammatical gender carries no separate meaning here."
+    },
+    {
+      "verse": 38,
+      "note": "Chose 'cortina' as the Spanish rendering of H4539 (מָסָךְ, screen/covering) in place of the untranslated 'masaj'."
+    },
+    {
+      "verse": 41,
+      "note": "hold: clause role"
+    }
+  ]
+}

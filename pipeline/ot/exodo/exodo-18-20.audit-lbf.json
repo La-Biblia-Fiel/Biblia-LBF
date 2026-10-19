@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 18:20",
+  "chapter": 18,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y advertirás a ellos los estatutos y las torás, y harás conocer a ellos el camino andarán en él y la obra que harán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02018020006"
+      ],
+      "issue": "הַתּוֹרֹת is a definite common noun (H8451, feminine plural); las torás leaves that lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "las torás"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02018020012"
+      ],
+      "issue": "בָהּ is a 3fs suffix (in it); en él follows masculine camino and does not change the referent.",
+      "spanishSpan": "en él"
+    }
+  ],
+  "notes": "Weqatal 2ms, hiphil force, 3mp verbs, and the asyndetic way-clause match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 18:1",
+  "chapter": 18,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y oyó Yitró, sacerdote de Midyán, suegro de Moisés, todo lo que hizo Dios a Moisés y a Israel su pueblo, porque sacó Jehová a Israel desde Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02018001015"
+      ],
+      "issue": "porque selects the causal sense of the conjunction; morphology only marks כִּי as a conjunction",
+      "spanishSpan": "porque"
+    }
+  ],
+  "notes": "Names and participants match the tokens; Elohím is Dios and יהוה is Jehová.",
+  "discardedUncitedFindings": 0
+}

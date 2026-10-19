@@ -1,0 +1,223 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 22,
+  "kept": [
+    6,
+    7,
+    8,
+    12,
+    14,
+    18,
+    20,
+    21,
+    23,
+    24,
+    25,
+    27,
+    31
+  ],
+  "drafted": [],
+  "repaired": [
+    2,
+    4,
+    10,
+    13,
+    15,
+    28,
+    29
+  ],
+  "repairedWithWarn": [
+    1,
+    19,
+    26
+  ],
+  "parked": [
+    {
+      "verse": 3,
+      "notes": "re-audit fail",
+      "spanish": "Si ha nacido el sol sobre él, sangres a él; pagando pagará; si no hay a él, y será vendido en su hurto.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02022003002"
+          ],
+          "issue": "«ha nacido» adds birth; H2224 is qal perfect 3fs rise/shine, with the sun as subject.",
+          "spanishSpan": "ha nacido"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "notes": "clause role",
+      "spanish": "Cuando hace pastar varón campo o viña, y envía lo suyo, y pasta en campo de otro, lo mejor de su campo y lo mejor de su viña pagará.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02022005007",
+            "h02022005008",
+            "h02022005009"
+          ],
+          "issue": "«lo suyo» adds a possessed thing that is sent. אֶת is only the direct-object marker; no noun or possessive suffix follows it, and the next token is a 3ms verb.",
+          "spanishSpan": "lo suyo"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "re-audit fail",
+      "spanish": "Sobre toda palabra de delito, sobre buey, sobre asno, sobre oveja o cabra, sobre vestido, sobre toda pérdida que diga que él esto, hasta los dioses vendrá palabra de ambos; al que condenen dioses, pagará dos a su compañero.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02022009015",
+            "h02022009016",
+            "h02022009017"
+          ],
+          "issue": "«pérdida que diga» hace de la pérdida quien habla. אבדה es femenino singular; יאמר es qal imperfecto 3ms, con el sujeto en esa morfología, y הוא queda dentro de la cláusula de כי.",
+          "spanishSpan": "pérdida que diga"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02022009017"
+          ],
+          "issue": "«diga» está en subjuntivo; el token es qal imperfecto 3ms.",
+          "spanishSpan": "diga"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02022009019",
+            "h02022009020"
+          ],
+          "issue": "«él esto» junta el pronombre 3ms y el demostrativo; la predicación de identidad de la cláusula sin verbo queda opaca.",
+          "spanishSpan": "él esto"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "clause role",
+      "spanish": "juramento de Jehová será entre ambos, si no envió su mano en obra de su compañero, y tomará sus dueños, y no pagará.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02022011012",
+            "h02022011013"
+          ],
+          "issue": "The 3ms sequential verb has no object marker, and בעליו is masculine plural with a 3ms suffix, so the owners can be the subject. “tomará sus dueños” adds an unnamed taker and makes the owners the object.",
+          "spanishSpan": "tomará sus dueños"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02022011012"
+          ],
+          "issue": "Sequential perfect is smoothed to a simple future, fixing one discourse function of the weqatal.",
+          "spanishSpan": "tomará"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02022011004",
+            "h02022011005"
+          ],
+          "issue": "“entre ambos” smooths the dual construct plus 3mp suffix (the two of them).",
+          "spanishSpan": "entre ambos"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "Y cuando seduce varón a virgen que no está desposada, y yace con ella, dotando la dotará a sí a mujer.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02022016013"
+          ],
+          "issue": "ל + אִשָּׁה is the role for/as a wife; bare “a mujer” can be read as a second indirect object beside “a sí”.",
+          "spanishSpan": "a mujer"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "notes": "re-audit fail",
+      "spanish": "Si negando niega su padre a darla a él, plata pesará conforme al precio de las vírgenes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02022017007",
+            "h02022017008"
+          ],
+          "issue": "כסף es lo que se pesa e ישקל es qal imperfecto 3ms (un agente masculino pesa la plata). «plata pesará» pone plata como sujeto, así que la plata pesa y desaparece el agente 3ms.",
+          "spanishSpan": "plata pesará"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "notes": "clause role",
+      "spanish": "Toda viuda y huérfano no afligirán.",
+      "findings": []
+    },
+    {
+      "verse": 30,
+      "notes": "clause role",
+      "spanish": "Así harás a tu buey, a tu rebaño; siete días será con su madre, en el día el octavo lo darán a mí.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02022030012"
+          ],
+          "issue": "תִּתְּנוֹ is qal imperfect 2nd masculine singular with a 3ms object suffix (you will give it). Spanish darán is plural (ustedes or ellos), changing number and, read as ellos, person and participant. The same 2ms addressee is already harás.",
+          "spanishSpan": "lo darán"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "Added the classifier \"cabezas de\" so \"cuatro ... rebaño\" agrees in number, and rendered the plain perfect מְכָרוֹ as \"ha vendido\" to keep it distinct from the sequential \"degüella\"."
+    },
+    {
+      "verse": 5,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 10,
+      "note": "Chose subjunctive 'vea' over indicative 've' for the negated existential relative clause (no hay quien vea), a grammatical requirement, not a meaning choice."
+    },
+    {
+      "verse": 11,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 16,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 22,
+      "note": "hold: clause role. La viuda y el huérfano son el paciente de la prohibición dirigida a ustedes (2mp), no el sujeto que aflige."
+    },
+    {
+      "verse": 28,
+      "note": "Chose injuriarás for the piel of qalal (revile/treat with contempt) and kept maldecirás for the qal of arar (curse) to preserve the lexical distinction the draft had collapsed into one verb."
+    },
+    {
+      "verse": 30,
+      "note": "hold: clause role"
+    }
+  ]
+}

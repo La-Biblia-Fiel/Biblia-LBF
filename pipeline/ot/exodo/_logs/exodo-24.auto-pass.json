@@ -1,0 +1,80 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 24,
+  "kept": [
+    1,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    11,
+    15,
+    16,
+    17,
+    18
+  ],
+  "drafted": [],
+  "repaired": [
+    10,
+    12,
+    13,
+    14
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 2,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y se acercará Moisés solo a Jehová, y ellos no se acercarán, y el pueblo no subirá con él.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02024002009",
+            "h02024002011"
+          ],
+          "issue": "Qal imperfect 3mp is smoothed to singular subirá to agree with the singular collective el pueblo.",
+          "spanishSpan": "subirá"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "notes": "re-audit fail",
+      "spanish": "Y envió a los jóvenes de hijos de Israel, y subieron holocaustos, y sacrificaron sacrificios, pazes, a Jehová, toros.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02024005010"
+          ],
+          "issue": "H8002 is a masculine plural absolute noun for the peace-offering sacrifice. pazes is an irregular plural of abstract paz and omits that offering.",
+          "spanishSpan": "pazes"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02024005006",
+            "h02024005007"
+          ],
+          "issue": "Hiphil sequential 3mp (cause to go up) is smoothed as transitive subieron; the plural object holocaustos still carries the raising.",
+          "spanishSpan": "subieron holocaustos"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 12,
+      "note": "Comma added before que so the relative clause can be read over the whole series (las tablas, la ley y el mandamiento) rather than attaching only to el mandamiento."
+    },
+    {
+      "verse": 14,
+      "note": "The Hebrew clause 'מי בעל דברים' has no verb, so 'sea' is a supplied copula, marked here in italics."
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "exodo",
+  "chapter": 26,
+  "kept": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    35,
+    36,
+    37
+  ],
+  "drafted": [],
+  "repaired": [
+    15
+  ],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 4,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y harás lazos de azul sobre labio de la cortina la una desde extremo en la juntura, y así harás en labio de la cortina la extrema en la juntura la segunda.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02026004009",
+            "h02026004015"
+          ],
+          "issue": "Lemas distintos (H2279 y H4225) quedan en el mismo sustantivo; la diferencia entre las dos junturas no se marca.",
+          "spanishSpan": "la juntura"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "notes": "clause role",
+      "spanish": "Y harás cincuenta ganchos de oro, y juntarás las cortinas mujer a su hermana en los ganchos, y será el mishkán uno.",
+      "findings": []
+    },
+    {
+      "verse": 8,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Largo de la cortina la una treinta en el codo, y ancho cuatro en el codo la cortina la una; medida una a once cortinas.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02026008005",
+            "h02026008008"
+          ],
+          "issue": "«el» marks the cubit definite; morphology is preposition plus feminine singular absolute noun with no article.",
+          "spanishSpan": "el codo"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "notes": "re-audit fail",
+      "spanish": "Y harás cubierta a la tienda pieles de carneros enrojecidas, y cubierta de pieles de tahashim desde arriba.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02026014009"
+          ],
+          "issue": "H8476 is a common noun (masculine plural absolute); tahashim leaves that lemma untranslated.",
+          "spanishSpan": "tahashim"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02026014004",
+            "h02026014005",
+            "h02026014006"
+          ],
+          "issue": "The pual participle is masculine plural, so it may modify the skins or the rams; feminine enrojecidas selects only pieles.",
+          "spanishSpan": "enrojecidas"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "notes": "spanish check",
+      "spanish": "Y a fondos del tabernáculo hacia el mar harás seis tablas.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«fondos» no es el uso corriente para la parte de atrás; el lector tiene que adivinar si son fondos, el fondo o la parte posterior.",
+          "spanishSpan": "fondos"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "notes": "clause role",
+      "spanish": "Y darás la parójet debajo de los ganchos, y harás entrar allá desde dentro a la parójet el arca del testimonio, y separará la parójet a ustedes entre el santo y entre santo de los santos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02026033003",
+            "h02026033009",
+            "h02026033014"
+          ],
+          "issue": "parójet leaves common noun H6532 untranslated; a common noun must be Spanish.",
+          "spanishSpan": "parójet"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02026033013",
+            "h02026033015",
+            "h02026033016",
+            "h02026033018"
+          ],
+          "issue": "לָכֶם is a prepositional beneficiary (for you). separará a ustedes makes the addressees the object separated; the hiphil divides between the two holy domains.",
+          "spanishSpan": "a ustedes"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h02026033008",
+            "h02026033009"
+          ],
+          "issue": "Construct noun בית is smoothed to the adverb dentro, and desde…a reads as a path toward the curtain rather than the locative from-house-of plus ל.",
+          "spanishSpan": "desde dentro a la parójet"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "notes": "re-audit fail",
+      "spanish": "Y darás la cubierta sobre arca del testimonio en santo de los santos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02026034005",
+            "h02026034006"
+          ],
+          "issue": "El constructo אֲרוֹן הָעֵדֻת es definido por el artículo de הָעֵדֻת; «sobre arca» deja el arca indefinida.",
+          "spanishSpan": "sobre arca"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h02026034007",
+            "h02026034008"
+          ],
+          "issue": "El constructo קֹדֶשׁ הַקֳּדָשִׁים es definido por el artículo de הַקֳּדָשִׁים; «en santo» deja indefinido el primer miembro.",
+          "spanishSpan": "en santo"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "readerNotes": [
+    {
+      "verse": 1,
+      "note": "Chose 'ellos' over 'ellas' because the Hebrew suffix is masculine plural, agreeing grammatically with 'querubines' and not with the feminine 'cortinas'."
+    },
+    {
+      "verse": 3,
+      "note": "Both qal active participles now read as 'juntándose' (the ones joining) instead of the passive 'juntadas' (the ones joined); the second clause stays without its own auxiliary, matching the elided copula in the source."
+    },
+    {
+      "verse": 6,
+      "note": "hold: clause role — ב on los ganchos (h02026006011) can mark a locative or an instrumental role for the joining, so 'en' was left as the draft had it rather than switched to 'con'."
+    },
+    {
+      "verse": 7,
+      "note": "Kept the feminine pronoun 'las' because Spanish object-pronoun gender follows the Spanish antecedent cortinas, not the Hebrew suffix's masculine plural marking."
+    },
+    {
+      "verse": 12,
+      "note": "Chose 'sobre detrás del tabernáculo' to render עַל אֲחֹרֵי as two stacked prepositions rather than renaming אֲחֹרֵי into a noun like 'espalda' or 'parte posterior'."
+    },
+    {
+      "verse": 13,
+      "note": "Chose 'colgante' (hanging/overhanging) over 'sobrante' (leftover) for H5628, per the auditor's licensed alternate sense."
+    },
+    {
+      "verse": 20,
+      "note": "Se reordenó 'el segundo' para que modifique costado (el lado), no tabernáculo, conforme al hallazgo del auditor sobre el ordinal femenino."
+    },
+    {
+      "verse": 22,
+      "note": "«fondos» no es el uso corriente para la parte de atrás; el lector tiene que adivinar si son fondos, el fondo o la parte posterior."
+    },
+    {
+      "verse": 24,
+      "note": "Se mantuvo «el uno» en masculino porque en español debe concordar con «anillo» (masculino), no con el género gramatical femenino del cardinal hebreo (h02026024011)."
+    },
+    {
+      "verse": 27,
+      "note": "Moved 'segundo' next to 'costado' so the ordinal marks the side and not the tabernáculo, and marked the dual rear flank explicitly as 'los dos fondos'."
+    },
+    {
+      "verse": 33,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 35,
+      "note": "Kept 'fuera de' as the locative outside-of reading rather than a path, and kept the article in 'hacia el sur' as grammatical smoothing required by Spanish, not licensed by a separate Hebrew token."
+    }
+  ]
+}

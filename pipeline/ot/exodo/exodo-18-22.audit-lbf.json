@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 18:22",
+  "chapter": 18,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y juzgarán al pueblo en todo tiempo, y será toda la palabra grande la traerán a ti, y toda la palabra pequeña juzgarán ellos; y aligerarás de sobre ti, y llevarán contigo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02018022007",
+        "h02018022008",
+        "h02018022009",
+        "h02018022010"
+      ],
+      "issue": "Unmarked clitic “la” supplies an object pronoun. The object is the noun phrase כל הדבר הגדל, and יביאו has no pronominal suffix.",
+      "spanishSpan": "grande la traerán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02018022006",
+        "h02018022007",
+        "h02018022008",
+        "h02018022009",
+        "h02018022010"
+      ],
+      "issue": "והיה introduces the following clause (every great matter they will bring). “será toda la palabra grande” makes that noun the predicate of “be” instead of the object of traer.",
+      "spanishSpan": "será toda la palabra grande"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02018022017"
+      ],
+      "issue": "Hiphil imperative 2ms (command to lighten) is rendered as future indicative “aligerarás” (prediction). Person and causative stem match; mood/force does not.",
+      "spanishSpan": "aligerarás"
+    }
+  ],
+  "notes": "Juzgar, pueblo, todo tiempo, palabra grande/pequeña, ellos, de sobre ti, and llevarán contigo match the remaining tokens; contigo does not mark the 2fs tag on אִתָּךְ.",
+  "discardedUncitedFindings": 0
+}

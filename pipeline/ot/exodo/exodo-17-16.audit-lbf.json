@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 17:16",
+  "chapter": 17,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo: Porque mano sobre trono de Yah; guerra a Jehová en Amaleq desde generación generación.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02017016002"
+      ],
+      "issue": "כִּי is only a conjunction (H3588); Porque fixes the causal sense and closes that/when/if.",
+      "spanishSpan": "Porque"
+    }
+  ],
+  "notes": "The other words match the eleven tokens, including construct trono de Yah, distinct Yah and Jehová, and the repeated singular generación.",
+  "discardedUncitedFindings": 0
+}
