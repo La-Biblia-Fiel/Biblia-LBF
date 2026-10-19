@@ -1,0 +1,139 @@
+{
+  "window_id": "15:10:31-15:10:36",
+  "requested_model": "typesafe/jev-1.13",
+  "request_fingerprint": "6ea6d4cde970221fb1103d88040a129370d0ebf8c06467b491a254a88a8fd37f",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "v": "0.2.0-compact.1",
+      "i": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "d": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      },
+      "w": {
+        "w0": {
+          "v": [
+            {
+              "reference": "Ezra 10:31",
+              "verse": 31,
+              "source_word_ids": [
+                "o150100310011",
+                "o150100310012",
+                "o150100310021",
+                "o150100310031",
+                "o150100310041",
+                "o150100310051",
+                "o150100310061",
+                "o150100310071"
+              ],
+              "source_text": "וּ בְנֵ֖י חָרִ֑ם אֱלִיעֶ֧זֶר יִשִּׁיָּ֛ה מַלְכִּיָּ֖ה שְׁמַֽעְיָ֥ה שִׁמְעֽוֹן"
+            },
+            {
+              "reference": "Ezra 10:32",
+              "verse": 32,
+              "source_word_ids": [
+                "o150100320011",
+                "o150100320021",
+                "o150100320031"
+              ],
+              "source_text": "בְּנְיָמִ֥ן מַלּ֖וּךְ שְׁמַרְיָֽה"
+            },
+            {
+              "reference": "Ezra 10:33",
+              "verse": 33,
+              "source_word_ids": [
+                "o150100330011",
+                "o150100330012",
+                "o150100330021",
+                "o150100330031",
+                "o150100330041",
+                "o150100330051",
+                "o150100330061",
+                "o150100330071",
+                "o150100330081",
+                "o150100330091"
+              ],
+              "source_text": "מִ בְּנֵ֖י חָשֻׁ֑ם מַתְּנַ֤י מַתַּתָּה֙ זָבָ֣ד אֱלִיפֶ֔לֶט יְרֵמַ֥י מְנַשֶּׁ֖ה שִׁמְעִֽי"
+            },
+            {
+              "reference": "Ezra 10:34",
+              "verse": 34,
+              "source_word_ids": [
+                "o150100340011",
+                "o150100340012",
+                "o150100340021",
+                "o150100340031",
+                "o150100340041",
+                "o150100340051",
+                "o150100340052"
+              ],
+              "source_text": "מִ בְּנֵ֣י בָנִ֔י מַעֲדַ֥י עַמְרָ֖ם וְ אוּאֵֽל"
+            },
+            {
+              "reference": "Ezra 10:35",
+              "verse": 35,
+              "source_word_ids": [
+                "o150100350011",
+                "o150100350021",
+                "o150100350041"
+              ],
+              "source_text": "בְּנָיָ֥ה בֵדְיָ֖ה כְּלֽוּהוּ"
+            },
+            {
+              "reference": "Ezra 10:36",
+              "verse": 36,
+              "source_word_ids": [
+                "o150100360011",
+                "o150100360021",
+                "o150100360031"
+              ],
+              "source_text": "וַנְיָ֥ה מְרֵמ֖וֹת אֶלְיָשִֽׁיב"
+            }
+          ],
+          "x": {
+            "book": "Ezra",
+            "chapter": 10,
+            "firstVerse": 31,
+            "lastVerse": 36
+          }
+        }
+      },
+      "t": {}
+    },
+    "questions": {}
+  },
+  "local_record": {
+    "serialization_version": "0.2.0-compact.1",
+    "permanent_request_fingerprint": "5471680c7e3b91b3b636ee0f2311fea09ebbeb8ea999df10fc54621303ce347e",
+    "compact_request_fingerprint": "6ea6d4cde970221fb1103d88040a129370d0ebf8c06467b491a254a88a8fd37f",
+    "target_map": {},
+    "question_map": {},
+    "audit_boundary": "Permanent statement IDs, display text, full scope text, and source references are retained locally and are not model-facing compact payload metadata."
+  },
+  "status": "local_no_statement_targets",
+  "usage": {
+    "input_tokens": null,
+    "output_tokens": null
+  },
+  "attempted_at": "2026-10-17T20:14:23.648Z",
+  "reason": "No canonical statement targets were extracted; no provider request was sent.",
+  "file": "15_10_31-15_10_36.local-no-target.6ea6d4cde970221fb1103d88040a129370d0ebf8c06467b491a254a88a8fd37f.json"
+}

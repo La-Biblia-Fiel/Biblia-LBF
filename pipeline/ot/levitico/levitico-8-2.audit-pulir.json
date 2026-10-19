@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 8:2",
+  "chapter": 8,
+  "verse": 2,
+  "candidateLabel": "pulir",
+  "spanish": "Toma a Aarón y a sus hijos con él, y los vestidos y el aceite de la unción, y toro del pecado y los dos carneros, y canasta de los ázimos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008002013",
+        "h03008002014"
+      ],
+      "issue": "The construct phrase is definite through the article on הַחַטָּאת, but the Spanish head is bare.",
+      "spanishSpan": "toro del pecado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03008002019",
+        "h03008002020"
+      ],
+      "issue": "The construct phrase is definite through the article on הַמַּצּוֹת, but the Spanish head is bare.",
+      "spanishSpan": "canasta de los ázimos"
+    }
+  ],
+  "notes": "Imperative, persons, number, and the object list match the tokens.",
+  "discardedUncitedFindings": 0
+}
