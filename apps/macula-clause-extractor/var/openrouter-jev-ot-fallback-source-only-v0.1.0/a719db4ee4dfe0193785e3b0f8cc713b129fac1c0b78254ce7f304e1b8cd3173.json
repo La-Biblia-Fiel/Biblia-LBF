@@ -1,0 +1,142 @@
+{
+  "request_fingerprint": "a719db4ee4dfe0193785e3b0f8cc713b129fac1c0b78254ce7f304e1b8cd3173",
+  "target_ids": [
+    "fallback:29:3:4:1",
+    "fallback:29:3:5:1"
+  ],
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "assessment_kind": "source_only_span",
+      "instructions": "Assess only the authoritative supplied source span and nearby supplied context. The span is not an extracted proposition; syntax, participants, and scope are unavailable. Do not invent them. Preserve uncertainty.",
+      "targets": [
+        {
+          "target_kind": "source_only_span",
+          "reference": "Joel 3:4",
+          "source": "OSHB/WLC fallback",
+          "span_ids": [
+            "fallback:29:3:4:1",
+            "fallback:29:3:4:2",
+            "fallback:29:3:4:3",
+            "fallback:29:3:4:4",
+            "fallback:29:3:4:5",
+            "fallback:29:3:4:6",
+            "fallback:29:3:4:7",
+            "fallback:29:3:4:8",
+            "fallback:29:3:4:9",
+            "fallback:29:3:4:10",
+            "fallback:29:3:4:11"
+          ],
+          "source_text": "הַ/שֶּׁ֨מֶשׁ֙ יֵהָפֵ֣ךְ לְ/חֹ֔שֶׁךְ וְ/הַ/יָּרֵ֖חַ לְ/דָ֑ם לִ/פְנֵ֗י בּ֚וֹא י֣וֹם יְהוָ֔ה הַ/גָּד֖וֹל וְ/הַ/נּוֹרָֽא",
+          "annotation_status": "annotation_unavailable",
+          "annotation_reason": "annotation_unavailable",
+          "syntax": null,
+          "participants": null,
+          "governing_scope": null,
+          "local_target_id": "t0"
+        },
+        {
+          "target_kind": "source_only_span",
+          "reference": "Joel 3:5",
+          "source": "OSHB/WLC fallback",
+          "span_ids": [
+            "fallback:29:3:5:1",
+            "fallback:29:3:5:2",
+            "fallback:29:3:5:3",
+            "fallback:29:3:5:4",
+            "fallback:29:3:5:5",
+            "fallback:29:3:5:6",
+            "fallback:29:3:5:7",
+            "fallback:29:3:5:8",
+            "fallback:29:3:5:9",
+            "fallback:29:3:5:10",
+            "fallback:29:3:5:11",
+            "fallback:29:3:5:12",
+            "fallback:29:3:5:13",
+            "fallback:29:3:5:14",
+            "fallback:29:3:5:15",
+            "fallback:29:3:5:16",
+            "fallback:29:3:5:17",
+            "fallback:29:3:5:18",
+            "fallback:29:3:5:19",
+            "fallback:29:3:5:20"
+          ],
+          "source_text": "וְ/הָיָ֗ה כֹּ֧ל אֲשֶׁר יִקְרָ֛א בְּ/שֵׁ֥ם יְהוָ֖ה יִמָּלֵ֑ט כִּ֠י בְּ/הַר צִיּ֨וֹן וּ/בִ/ירוּשָׁלִַ֜ם תִּֽהְיֶ֣ה פְלֵיטָ֗ה כַּֽ/אֲשֶׁר֙ אָמַ֣ר יְהוָ֔ה וּ/בַ֨/שְּׂרִידִ֔ים אֲשֶׁ֥ר יְהוָ֖ה קֹרֵֽא",
+          "annotation_status": "annotation_unavailable",
+          "annotation_reason": "annotation_unavailable",
+          "syntax": null,
+          "participants": null,
+          "governing_scope": null,
+          "local_target_id": "t1"
+        }
+      ]
+    },
+    "questions": {
+      "q0": {
+        "type": "choice",
+        "instructions": "Assess possible predictive content or contribution to an announcement for source-only span t0; use supplied text only.",
+        "criteria": {
+          "supported_candidate": "Positive supplied evidence supports predictive content.",
+          "possible_candidate": "Some support but competing readings remain.",
+          "no_support_in_supplied_context": "No positive supplied support.",
+          "underdetermined": "Evidence does not distinguish."
+        }
+      },
+      "q1": {
+        "type": "choice",
+        "instructions": "Assess possible predictive content or contribution to an announcement for source-only span t1; use supplied text only.",
+        "criteria": {
+          "supported_candidate": "Positive supplied evidence supports predictive content.",
+          "possible_candidate": "Some support but competing readings remain.",
+          "no_support_in_supplied_context": "No positive supplied support.",
+          "underdetermined": "Evidence does not distinguish."
+        }
+      }
+    }
+  },
+  "raw_response": {
+    "model": "typesafe/jev-1.13-20260917",
+    "answers": {
+      "q0": {
+        "type": "choice",
+        "choice": "supported_candidate",
+        "probabilities": {
+          "supported_candidate": 0.91,
+          "possible_candidate": 0.03,
+          "no_support_in_supplied_context": 0.02,
+          "underdetermined": 0.04
+        },
+        "confidence": 0.88
+      },
+      "q1": {
+        "type": "choice",
+        "choice": "supported_candidate",
+        "probabilities": {
+          "supported_candidate": 0.84,
+          "possible_candidate": 0.08,
+          "no_support_in_supplied_context": 0.03,
+          "underdetermined": 0.05
+        },
+        "confidence": 0.79
+      }
+    },
+    "usage": {
+      "input_tokens": 1517,
+      "output_tokens": 113,
+      "cost": 0.000063714
+    },
+    "id": "gen-dec-1791990896-MMFMKXuPH5xzPeQLKeHO",
+    "provider": "TypeSafe"
+  },
+  "status": "succeeded",
+  "validation": {
+    "ok": true,
+    "errors": []
+  },
+  "usage": {
+    "input_tokens": 1517,
+    "output_tokens": 113
+  },
+  "annotation_status": "unavailable",
+  "assessment_kind": "span_assessment"
+}
