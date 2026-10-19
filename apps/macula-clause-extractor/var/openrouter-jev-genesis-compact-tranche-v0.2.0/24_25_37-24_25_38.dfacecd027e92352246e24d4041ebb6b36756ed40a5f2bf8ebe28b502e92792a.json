@@ -1,0 +1,627 @@
+{
+  "window_id": "24:25:37-24:25:38",
+  "requested_model": "typesafe/jev-1.13",
+  "request_fingerprint": "dfacecd027e92352246e24d4041ebb6b36756ed40a5f2bf8ebe28b502e92792a",
+  "exact_api_request": {
+    "model": "typesafe/jev-1.13",
+    "state": {
+      "v": "0.2.0-compact.1",
+      "i": "Assess only the supplied source evidence. Preserve governing speech and evaluation scope. Do not exclude a candidate from past/completed grammar, absent future markers, or absent local modality. Nearby predictive content does not qualify a different target statement. Retain uncertainty when evidence is insufficient.",
+      "d": {
+        "candidate_assessment": {
+          "supported_candidate": "The supplied context positively supports predictive-prophecy discovery for this statement.",
+          "possible_candidate": "Some evidence supports that reading, while a competing reading remains.",
+          "no_support_in_supplied_context": "The supplied context provides no positive support. This does not establish non-prophecy.",
+          "underdetermined": "The supplied evidence does not distinguish the available outcomes."
+        },
+        "statement_function": {
+          "predictive_content": "The named statement itself communicates predictive content.",
+          "contributes_to_predictive_content": "The named statement itself contributes content to a predictive announcement governed in this context.",
+          "narration_introducing_or_reporting_predictive_content": "The named statement only introduces, reports, or frames nearby predictive content; it is not itself predictive content or a contribution to it.",
+          "other_content": "The named statement has another function in the supplied context.",
+          "underdetermined": "The supplied evidence does not distinguish these functions."
+        },
+        "relationship": {
+          "establishes_announcement_anchor": "The statement establishes a predictive announcement anchor within this context.",
+          "contributes_to_announcement_anchor": "The statement contributes to an announcement elsewhere in this context.",
+          "surrounding_or_other_content": "The statement is surrounding material or has another discourse function.",
+          "relationship_underdetermined": "The supplied context does not distinguish the statement's relationship."
+        }
+      },
+      "w": {
+        "w0": {
+          "v": [
+            {
+              "reference": "Jeremiah 25:37",
+              "verse": 37,
+              "source_word_ids": [
+                "o240250370011",
+                "o240250370012",
+                "o240250370021",
+                "o240250370031",
+                "o240250370032",
+                "o240250370041",
+                "o240250370042",
+                "o240250370051",
+                "o240250370061",
+                "o240250370071"
+              ],
+              "source_text": "וְ נָדַ֖מּוּ נְא֣וֹת הַ שָּׁל֑וֹם מִ פְּנֵ֖י חֲר֥וֹן אַף יְהוָֽה"
+            },
+            {
+              "reference": "Jeremiah 25:38",
+              "verse": 38,
+              "source_word_ids": [
+                "o240250380011",
+                "o240250380021",
+                "o240250380021ה",
+                "o240250380022",
+                "o240250380031",
+                "o240250380032",
+                "o240250380041",
+                "o240250380051",
+                "o240250380061",
+                "o240250380062",
+                "o240250380071",
+                "o240250380072",
+                "o240250380081",
+                "o240250380082",
+                "o240250380091",
+                "o240250380101",
+                "o240250380102",
+                "o240250380111",
+                "o240250380112",
+                "o240250380113",
+                "o240250380121",
+                "o240250380131",
+                "o240250380132"
+              ],
+              "source_text": "עָזַ֥ב כַּ  כְּפִ֖יר סֻכּ֑ וֹ כִּֽי הָיְתָ֤ה אַרְצָ ם֙ לְ שַׁמָּ֔ה מִ פְּנֵי֙ חֲר֣וֹן הַ יּוֹנָ֔ה וּ מִ פְּנֵ֖י חֲר֥וֹן אַפּֽ וֹ"
+            }
+          ],
+          "x": {
+            "book": "Jeremiah",
+            "chapter": 25,
+            "firstVerse": 37,
+            "lastVerse": 38
+          }
+        }
+      },
+      "t": {
+        "t0": {
+          "w": [
+            "o240250370012",
+            "o240250370021",
+            "o240250370031",
+            "o240250370032",
+            "o240250370041",
+            "o240250370042",
+            "o240250370051",
+            "o240250370061",
+            "o240250370071"
+          ],
+          "p": {
+            "w": "o240250370012",
+            "v": "passive"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t1": {
+          "w": [
+            "o240250380011",
+            "o240250380021",
+            "o240250380021ה",
+            "o240250380022",
+            "o240250380031",
+            "o240250380032"
+          ],
+          "p": {
+            "w": "o240250380011",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        },
+        "t2": {
+          "w": [
+            "o240250380051",
+            "o240250380061",
+            "o240250380062",
+            "o240250380071",
+            "o240250380072",
+            "o240250380081",
+            "o240250380082",
+            "o240250380091",
+            "o240250380101",
+            "o240250380102",
+            "o240250380111",
+            "o240250380112",
+            "o240250380113",
+            "o240250380121",
+            "o240250380131",
+            "o240250380132"
+          ],
+          "p": {
+            "w": "o240250380051",
+            "v": "active"
+          },
+          "s": {
+            "k": "direct_predication_no_embedded_complement_detected",
+            "c": []
+          }
+        }
+      }
+    },
+    "questions": {
+      "q0": {
+        "type": "choice",
+        "target": "t0",
+        "kind": "candidate_assessment",
+        "instructions": "Assess candidate_assessment for t0 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q1": {
+        "type": "choice",
+        "target": "t0",
+        "kind": "statement_function",
+        "instructions": "Assess statement_function for t0 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q2": {
+        "type": "choice",
+        "target": "t0",
+        "kind": "relationship",
+        "instructions": "Assess relationship for t0 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "establishes_announcement_anchor": "relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "relationship.relationship_underdetermined"
+        }
+      },
+      "q3": {
+        "type": "choice",
+        "target": "t1",
+        "kind": "candidate_assessment",
+        "instructions": "Assess candidate_assessment for t1 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q4": {
+        "type": "choice",
+        "target": "t1",
+        "kind": "statement_function",
+        "instructions": "Assess statement_function for t1 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q5": {
+        "type": "choice",
+        "target": "t1",
+        "kind": "relationship",
+        "instructions": "Assess relationship for t1 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "establishes_announcement_anchor": "relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "relationship.relationship_underdetermined"
+        }
+      },
+      "q6": {
+        "type": "choice",
+        "target": "t2",
+        "kind": "candidate_assessment",
+        "instructions": "Assess candidate_assessment for t2 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "supported_candidate": "candidate_assessment.supported_candidate",
+          "possible_candidate": "candidate_assessment.possible_candidate",
+          "no_support_in_supplied_context": "candidate_assessment.no_support_in_supplied_context",
+          "underdetermined": "candidate_assessment.underdetermined"
+        }
+      },
+      "q7": {
+        "type": "choice",
+        "target": "t2",
+        "kind": "statement_function",
+        "instructions": "Assess statement_function for t2 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "predictive_content": "statement_function.predictive_content",
+          "contributes_to_predictive_content": "statement_function.contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content": "statement_function.narration_introducing_or_reporting_predictive_content",
+          "other_content": "statement_function.other_content",
+          "underdetermined": "statement_function.underdetermined"
+        }
+      },
+      "q8": {
+        "type": "choice",
+        "target": "t2",
+        "kind": "relationship",
+        "instructions": "Assess relationship for t2 within its governing scope; use the shared definitions and supplied scope.",
+        "criteria": {
+          "establishes_announcement_anchor": "relationship.establishes_announcement_anchor",
+          "contributes_to_announcement_anchor": "relationship.contributes_to_announcement_anchor",
+          "surrounding_or_other_content": "relationship.surrounding_or_other_content",
+          "relationship_underdetermined": "relationship.relationship_underdetermined"
+        }
+      }
+    }
+  },
+  "local_record": {
+    "serialization_version": "0.2.0-compact.1",
+    "permanent_request_fingerprint": "4059da9286518a76ffadc640299fb0c8b4de862645b90a8d442cfe11c48a3132",
+    "compact_request_fingerprint": "dfacecd027e92352246e24d4041ebb6b36756ed40a5f2bf8ebe28b502e92792a",
+    "target_map": {
+      "jer_25_37_2402503700120090_p1": {
+        "local_id": "t0",
+        "permanent_statement_id": "jer_25_37_2402503700120090_p1",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 25,
+          "verse": 37
+        },
+        "source_text": "נָדַ֖מּוּ נְא֣וֹת הַ שָּׁל֑וֹם מִ פְּנֵ֖י חֲר֥וֹן אַף יְהוָֽה",
+        "source_word_ids": [
+          "o240250370012",
+          "o240250370021",
+          "o240250370031",
+          "o240250370032",
+          "o240250370041",
+          "o240250370042",
+          "o240250370051",
+          "o240250370061",
+          "o240250370071"
+        ],
+        "predicate": {
+          "word_id": "o240250370012",
+          "text": "נָדַ֖מּוּ",
+          "voice": "passive"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "jer_25_38_2402503800110060_p1": {
+        "local_id": "t1",
+        "permanent_statement_id": "jer_25_38_2402503800110060_p1",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 25,
+          "verse": 38
+        },
+        "source_text": "עָזַ֥ב כַּ  כְּפִ֖יר סֻכּ֑ וֹ",
+        "source_word_ids": [
+          "o240250380011",
+          "o240250380021",
+          "o240250380021ה",
+          "o240250380022",
+          "o240250380031",
+          "o240250380032"
+        ],
+        "predicate": {
+          "word_id": "o240250380011",
+          "text": "עָזַ֥ב",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      },
+      "jer_25_38_2402503800510160_p1": {
+        "local_id": "t2",
+        "permanent_statement_id": "jer_25_38_2402503800510160_p1",
+        "reference": {
+          "book": "Jeremiah",
+          "chapter": 25,
+          "verse": 38
+        },
+        "source_text": "הָיְתָ֤ה אַרְצָ ם֙ לְ שַׁמָּ֔ה מִ פְּנֵי֙ חֲר֣וֹן הַ יּוֹנָ֔ה וּ מִ פְּנֵ֖י חֲר֥וֹן אַפּֽ וֹ",
+        "source_word_ids": [
+          "o240250380051",
+          "o240250380061",
+          "o240250380062",
+          "o240250380071",
+          "o240250380072",
+          "o240250380081",
+          "o240250380082",
+          "o240250380091",
+          "o240250380101",
+          "o240250380102",
+          "o240250380111",
+          "o240250380112",
+          "o240250380113",
+          "o240250380121",
+          "o240250380131",
+          "o240250380132"
+        ],
+        "predicate": {
+          "word_id": "o240250380051",
+          "text": "הָיְתָ֤ה",
+          "voice": "active"
+        },
+        "governing_scope": {
+          "kind": "direct_predication_no_embedded_complement_detected",
+          "complements": []
+        }
+      }
+    },
+    "question_map": {
+      "q0": {
+        "permanent_question_id": "jer_25_37_2402503700120090_p1:candidate_assessment",
+        "permanent_statement_id": "jer_25_37_2402503700120090_p1",
+        "target_local_id": "t0",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q1": {
+        "permanent_question_id": "jer_25_37_2402503700120090_p1:statement_function",
+        "permanent_statement_id": "jer_25_37_2402503700120090_p1",
+        "target_local_id": "t0",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q2": {
+        "permanent_question_id": "jer_25_37_2402503700120090_p1:relationship",
+        "permanent_statement_id": "jer_25_37_2402503700120090_p1",
+        "target_local_id": "t0",
+        "question_kind": "relationship",
+        "choice_set": "relationship",
+        "allowed_choices": [
+          "establishes_announcement_anchor",
+          "contributes_to_announcement_anchor",
+          "surrounding_or_other_content",
+          "relationship_underdetermined"
+        ]
+      },
+      "q3": {
+        "permanent_question_id": "jer_25_38_2402503800110060_p1:candidate_assessment",
+        "permanent_statement_id": "jer_25_38_2402503800110060_p1",
+        "target_local_id": "t1",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q4": {
+        "permanent_question_id": "jer_25_38_2402503800110060_p1:statement_function",
+        "permanent_statement_id": "jer_25_38_2402503800110060_p1",
+        "target_local_id": "t1",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q5": {
+        "permanent_question_id": "jer_25_38_2402503800110060_p1:relationship",
+        "permanent_statement_id": "jer_25_38_2402503800110060_p1",
+        "target_local_id": "t1",
+        "question_kind": "relationship",
+        "choice_set": "relationship",
+        "allowed_choices": [
+          "establishes_announcement_anchor",
+          "contributes_to_announcement_anchor",
+          "surrounding_or_other_content",
+          "relationship_underdetermined"
+        ]
+      },
+      "q6": {
+        "permanent_question_id": "jer_25_38_2402503800510160_p1:candidate_assessment",
+        "permanent_statement_id": "jer_25_38_2402503800510160_p1",
+        "target_local_id": "t2",
+        "question_kind": "candidate_assessment",
+        "choice_set": "candidate_assessment",
+        "allowed_choices": [
+          "supported_candidate",
+          "possible_candidate",
+          "no_support_in_supplied_context",
+          "underdetermined"
+        ]
+      },
+      "q7": {
+        "permanent_question_id": "jer_25_38_2402503800510160_p1:statement_function",
+        "permanent_statement_id": "jer_25_38_2402503800510160_p1",
+        "target_local_id": "t2",
+        "question_kind": "statement_function",
+        "choice_set": "statement_function",
+        "allowed_choices": [
+          "predictive_content",
+          "contributes_to_predictive_content",
+          "narration_introducing_or_reporting_predictive_content",
+          "other_content",
+          "underdetermined"
+        ]
+      },
+      "q8": {
+        "permanent_question_id": "jer_25_38_2402503800510160_p1:relationship",
+        "permanent_statement_id": "jer_25_38_2402503800510160_p1",
+        "target_local_id": "t2",
+        "question_kind": "relationship",
+        "choice_set": "relationship",
+        "allowed_choices": [
+          "establishes_announcement_anchor",
+          "contributes_to_announcement_anchor",
+          "surrounding_or_other_content",
+          "relationship_underdetermined"
+        ]
+      }
+    },
+    "audit_boundary": "Permanent statement IDs, display text, full scope text, and source references are retained locally and are not model-facing compact payload metadata."
+  },
+  "status": "succeeded",
+  "usage": {
+    "input_tokens": 3582,
+    "output_tokens": 641
+  },
+  "attempted_at": "2026-10-17T00:19:24.309Z",
+  "recovery_of": null,
+  "elapsed_ms": 372,
+  "raw_response_text": "{\"model\":\"typesafe/jev-1.13-20260917\",\"answers\":{\"q0\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.18,\"possible_candidate\":0.04,\"no_support_in_supplied_context\":0.65,\"underdetermined\":0.13},\"confidence\":0.53},\"q1\":{\"type\":\"choice\",\"choice\":\"predictive_content\",\"probabilities\":{\"predictive_content\":0.4,\"contributes_to_predictive_content\":0.09,\"narration_introducing_or_reporting_predictive_content\":0.06,\"other_content\":0.29,\"underdetermined\":0.16},\"confidence\":0.25},\"q2\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.16,\"contributes_to_announcement_anchor\":0.23,\"surrounding_or_other_content\":0.33,\"relationship_underdetermined\":0.28},\"confidence\":0.11},\"q3\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.17,\"possible_candidate\":0.05,\"no_support_in_supplied_context\":0.61,\"underdetermined\":0.17},\"confidence\":0.48},\"q4\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.3,\"contributes_to_predictive_content\":0.12,\"narration_introducing_or_reporting_predictive_content\":0.05,\"other_content\":0.38,\"underdetermined\":0.15},\"confidence\":0.22},\"q5\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.13,\"contributes_to_announcement_anchor\":0.29,\"surrounding_or_other_content\":0.33,\"relationship_underdetermined\":0.25},\"confidence\":0.11},\"q6\":{\"type\":\"choice\",\"choice\":\"no_support_in_supplied_context\",\"probabilities\":{\"supported_candidate\":0.19,\"possible_candidate\":0.06,\"no_support_in_supplied_context\":0.59,\"underdetermined\":0.16},\"confidence\":0.45},\"q7\":{\"type\":\"choice\",\"choice\":\"other_content\",\"probabilities\":{\"predictive_content\":0.22,\"contributes_to_predictive_content\":0.12,\"narration_introducing_or_reporting_predictive_content\":0.03,\"other_content\":0.53,\"underdetermined\":0.1},\"confidence\":0.41},\"q8\":{\"type\":\"choice\",\"choice\":\"surrounding_or_other_content\",\"probabilities\":{\"establishes_announcement_anchor\":0.08,\"contributes_to_announcement_anchor\":0.26,\"surrounding_or_other_content\":0.45999999999999996,\"relationship_underdetermined\":0.2},\"confidence\":0.28}},\"usage\":{\"input_tokens\":3582,\"output_tokens\":641,\"cost\":0.000150444},\"id\":\"gen-dec-1792196364-m8FeH8i2aDp59AhNvuv6\",\"provider\":\"TypeSafe\"}",
+  "raw_response": {
+    "model": "typesafe/jev-1.13-20260917",
+    "answers": {
+      "q0": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.18,
+          "possible_candidate": 0.04,
+          "no_support_in_supplied_context": 0.65,
+          "underdetermined": 0.13
+        },
+        "confidence": 0.53
+      },
+      "q1": {
+        "type": "choice",
+        "choice": "predictive_content",
+        "probabilities": {
+          "predictive_content": 0.4,
+          "contributes_to_predictive_content": 0.09,
+          "narration_introducing_or_reporting_predictive_content": 0.06,
+          "other_content": 0.29,
+          "underdetermined": 0.16
+        },
+        "confidence": 0.25
+      },
+      "q2": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.16,
+          "contributes_to_announcement_anchor": 0.23,
+          "surrounding_or_other_content": 0.33,
+          "relationship_underdetermined": 0.28
+        },
+        "confidence": 0.11
+      },
+      "q3": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.17,
+          "possible_candidate": 0.05,
+          "no_support_in_supplied_context": 0.61,
+          "underdetermined": 0.17
+        },
+        "confidence": 0.48
+      },
+      "q4": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.3,
+          "contributes_to_predictive_content": 0.12,
+          "narration_introducing_or_reporting_predictive_content": 0.05,
+          "other_content": 0.38,
+          "underdetermined": 0.15
+        },
+        "confidence": 0.22
+      },
+      "q5": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.13,
+          "contributes_to_announcement_anchor": 0.29,
+          "surrounding_or_other_content": 0.33,
+          "relationship_underdetermined": 0.25
+        },
+        "confidence": 0.11
+      },
+      "q6": {
+        "type": "choice",
+        "choice": "no_support_in_supplied_context",
+        "probabilities": {
+          "supported_candidate": 0.19,
+          "possible_candidate": 0.06,
+          "no_support_in_supplied_context": 0.59,
+          "underdetermined": 0.16
+        },
+        "confidence": 0.45
+      },
+      "q7": {
+        "type": "choice",
+        "choice": "other_content",
+        "probabilities": {
+          "predictive_content": 0.22,
+          "contributes_to_predictive_content": 0.12,
+          "narration_introducing_or_reporting_predictive_content": 0.03,
+          "other_content": 0.53,
+          "underdetermined": 0.1
+        },
+        "confidence": 0.41
+      },
+      "q8": {
+        "type": "choice",
+        "choice": "surrounding_or_other_content",
+        "probabilities": {
+          "establishes_announcement_anchor": 0.08,
+          "contributes_to_announcement_anchor": 0.26,
+          "surrounding_or_other_content": 0.45999999999999996,
+          "relationship_underdetermined": 0.2
+        },
+        "confidence": 0.28
+      }
+    },
+    "usage": {
+      "input_tokens": 3582,
+      "output_tokens": 641,
+      "cost": 0.000150444
+    },
+    "id": "gen-dec-1792196364-m8FeH8i2aDp59AhNvuv6",
+    "provider": "TypeSafe"
+  },
+  "response_validation": {
+    "ok": true,
+    "errors": []
+  },
+  "error": null,
+  "file": "24_25_37-24_25_38.dfacecd027e92352246e24d4041ebb6b36756ed40a5f2bf8ebe28b502e92792a.json"
+}
