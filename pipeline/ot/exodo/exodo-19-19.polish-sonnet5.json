@@ -1,0 +1,82 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 19:19",
+  "chapter": 19,
+  "verse": 19,
+  "sourceDraft": "Y era voz del shofar andante y fortaleciéndose mucho; Moisés habla, y Dios le responde en voz.",
+  "spanish": "Y era voz del shofar andante y muy fuerte; Moisés hablaba, y Dios le respondía en voz.",
+  "units": [
+    {
+      "es": "Y era",
+      "sourceTokenIds": [
+        "h02019019001"
+      ]
+    },
+    {
+      "es": "voz",
+      "sourceTokenIds": [
+        "h02019019002"
+      ]
+    },
+    {
+      "es": "del shofar",
+      "sourceTokenIds": [
+        "h02019019003"
+      ]
+    },
+    {
+      "es": "andante",
+      "sourceTokenIds": [
+        "h02019019004"
+      ]
+    },
+    {
+      "es": "y muy fuerte",
+      "sourceTokenIds": [
+        "h02019019005",
+        "h02019019006"
+      ]
+    },
+    {
+      "es": "Moisés",
+      "sourceTokenIds": [
+        "h02019019007"
+      ]
+    },
+    {
+      "es": "hablaba",
+      "sourceTokenIds": [
+        "h02019019008"
+      ]
+    },
+    {
+      "es": "y Dios",
+      "sourceTokenIds": [
+        "h02019019009"
+      ]
+    },
+    {
+      "es": "le respondía",
+      "sourceTokenIds": [
+        "h02019019010"
+      ]
+    },
+    {
+      "es": "en voz",
+      "sourceTokenIds": [
+        "h02019019011"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced the reflexive gerund 'fortaleciéndose' with the plain adjective 'fuerte' (adverb 'muy') to match the masculine singular adjective חזק without adding an inchoative process or a reflexive actor.",
+    "Adjusted sequence of tenses: 'habla' → 'hablaba' and 'responde' → 'respondía' to keep the piel imperfect ידבר and qal imperfect יעננו in past-narrative aspect under the ויהי frame."
+  ],
+  "meaningChanges": [],
+  "readerNote": "hold: clause role — the qal participle הולך predicates קול (the voice), but 'andante' placed after 'shofar' can still be read as modifying the horn; left as drafted.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

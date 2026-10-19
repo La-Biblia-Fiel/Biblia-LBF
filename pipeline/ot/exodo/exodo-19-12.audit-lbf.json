@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 19:12",
+  "chapter": 19,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y limitarás al pueblo alrededor, diciendo: Guárdense a ustedes de subir en el monte y de tocar en su extremo; todo el tocante en el monte de morir morirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02019012016"
+      ],
+      "issue": "Hophal imperfect 3ms (the subject is put to death) is rendered as active morirá, changing stem force.",
+      "spanishSpan": "morirá"
+    }
+  ],
+  "notes": "Qal infinitive absolute de morir keeps the cognate repetition; the finite verb does not keep hophal.",
+  "discardedUncitedFindings": 0
+}

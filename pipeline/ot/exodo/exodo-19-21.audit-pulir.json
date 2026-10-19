@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 19:21",
+  "chapter": 19,
+  "verse": 21,
+  "candidateLabel": "pulir",
+  "spanish": "Y dijo Jehová a Moisés: Desciende, amonesta en el pueblo, no sea que rompan a Jehová a ver, y caiga de nosotros mucho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02019021009",
+        "h02019021010",
+        "h02019021011"
+      ],
+      "issue": "«rompan a Jehová» makes Jehová the one broken. אֶל is a preposition (toward), not a direct-object marker, so the tokens license breaking through toward Jehová, not breaking Jehová.",
+      "spanishSpan": "rompan a Jehová"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

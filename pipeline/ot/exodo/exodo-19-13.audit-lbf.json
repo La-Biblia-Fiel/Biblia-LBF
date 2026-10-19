@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 19:13",
+  "chapter": 19,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "No tocará en él mano, porque apedreando será apedreado o flechando será flechado; si bestia, si varón, no vivirá. En tirar el yovel, ellos subirán en el monte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02019013009",
+        "h02019013010"
+      ],
+      "issue": "flechando/flechado fija flechas; H3384 queda en arrojar/disparar/lanzar y la morfología no licencia ese instrumento.",
+      "spanishSpan": "flechando será flechado"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02019013018"
+      ],
+      "issue": "yovel deja sin traducir el sustantivo común determinado H3104; los nombres comunes van en español.",
+      "spanishSpan": "el yovel"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02019013017"
+      ],
+      "issue": "tirar se lee como arrojar; el infinitivo qal de H4900 es tirar de/arrastrar/prolongar.",
+      "spanishSpan": "tirar"
+    }
+  ],
+  "notes": "La repetición del infinitivo absoluto, la 3fs de mano y los pasivos 3ms coinciden con la morfología.",
+  "discardedUncitedFindings": 0
+}

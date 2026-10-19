@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 19:18",
+  "chapter": 19,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y monte Sinai humeaba todo él, de faces de que descendió sobre él Jehová en el fuego, y subió su humo como humo del horno, y tembló todo el monte mucho.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02019018003"
+      ],
+      "issue": "עָשַׁן is qal perfect 3ms; «humeaba» is ongoing imperfect. Person, number, and qal stem stay.",
+      "spanishSpan": "humeaba"
+    }
+  ],
+  "notes": "Monte Sinaí, todo él, de faces de que, Jehová en el fuego, su humo como humo del horno, and tembló todo el monte mucho match the tokens.",
+  "discardedUncitedFindings": 0
+}

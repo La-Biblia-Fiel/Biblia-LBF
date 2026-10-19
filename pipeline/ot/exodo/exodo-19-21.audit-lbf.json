@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 19:21",
+  "chapter": 19,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Desciende, amonesta en el pueblo, no sea que irrumpan a Jehová a ver, y caiga de él mucho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02019021009"
+      ],
+      "issue": "Qal H2040 is tear down, break down, or destroy; «irrumpan» narrows it to bursting in.",
+      "spanishSpan": "irrumpan"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02019021014"
+      ],
+      "issue": "The suffix is 1st common plural (from us); «de él» is 3rd masculine singular.",
+      "spanishSpan": "de él"
+    }
+  ],
+  "notes": "Imperatives, names, פן, אל, and the infinitive of seeing match the packet.",
+  "discardedUncitedFindings": 0
+}

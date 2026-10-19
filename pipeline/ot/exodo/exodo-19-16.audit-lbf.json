@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 19:16",
+  "chapter": 19,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue en el día el tercero, en ser la mañana, y fue voces y relámpagos y nube pesada sobre el monte, y voz de shofar fuerte mucho, y tembló todo el pueblo que en el campamento.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02019016014"
+      ],
+      "issue": "שופר is a common noun (H7782, singular absolute), left untranslated as shofar; common nouns stay Spanish.",
+      "spanishSpan": "shofar"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens, including verbless אשר במחנה.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 19:24",
+  "chapter": 19,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo a él Jehová: Anda, desciende, y subirás tú y Aarón contigo, y los sacerdotes y el pueblo no irrumpan a subir a Jehová, no sea que prorrumpa en ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02019024013"
+      ],
+      "issue": "irrumpan renders H2040 (tear down, demolish) as bursting in or forcing entry, a concept the lemma does not license",
+      "spanishSpan": "irrumpan"
+    }
+  ],
+  "notes": "Other tokens match in person, number, and participants; prorrumpa stays within H6555 as breaking forth.",
+  "discardedUncitedFindings": 0
+}
