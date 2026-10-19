@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 30:34",
+  "chapter": 30,
+  "verse": 34,
+  "sourceDraft": "Y dijo Jehová a Moisés: Toma a ti aromas: estacte y uña olorosa y gálbano, aromas y incienso puro; parte en parte será.",
+  "spanish": "Y dijo Jehová a Moisés: Toma a ti aromas: estacte y uña-olorosa y gálbano, aromas y incienso puro; parte en parte será.",
+  "units": [],
+  "grammarChanges": [
+    "Hyphenated «uña-olorosa» (h02030034009) so the two Spanish words read as one compound substance name rather than an instrument (uña) qualified by an adjective (olorosa), matching the fail finding that the token licenses a single substance.",
+    "Kept «puro» masculine to agree with the Spanish noun «incienso» (h02030034012/013); Spanish adjective agreement follows the Spanish noun's gender, not the Hebrew noun's gender, so no change was needed to the sense of pure."
+  ],
+  "meaningChanges": [],
+  "readerNote": "«Uña-olorosa» was hyphenated to mark it as one substance's name, not a claw described as aromatic; «incienso puro» was kept masculine because Spanish agreement follows «incienso», not the Hebrew adjective's gender, with no change to the sense of pure.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

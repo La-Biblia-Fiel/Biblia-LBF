@@ -1,0 +1,58 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 36:27",
+  "chapter": 36,
+  "verse": 27,
+  "sourceDraft": "Y a los extremos del mishkán, mar, hizo seis tablas.",
+  "spanish": "Y a los dos extremos del tabernáculo, hacia el mar, hizo seis tablas.",
+  "units": [
+    {
+      "es": "Y a los dos extremos",
+      "sourceTokenIds": [
+        "h02036027001"
+      ]
+    },
+    {
+      "es": "del tabernáculo",
+      "sourceTokenIds": [
+        "h02036027002"
+      ]
+    },
+    {
+      "es": "hacia el mar",
+      "sourceTokenIds": [
+        "h02036027003"
+      ]
+    },
+    {
+      "es": "hizo",
+      "sourceTokenIds": [
+        "h02036027004"
+      ]
+    },
+    {
+      "es": "seis",
+      "sourceTokenIds": [
+        "h02036027005"
+      ]
+    },
+    {
+      "es": "tablas",
+      "sourceTokenIds": [
+        "h02036027006"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated the common noun mishkán (H4908) as tabernáculo instead of leaving it untranslated.",
+    "Restored the directional suffix on H3220: rendered as hacia el mar (toward the sea) instead of the bare noun mar.",
+    "Marked the feminine dual construct (H3411) explicitly as los dos extremos instead of the unmarked plural extremos."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Dual construct rendered as 'los dos extremos' to mark the Hebrew dual that plain 'extremos' did not show.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

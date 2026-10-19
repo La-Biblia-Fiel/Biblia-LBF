@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:19",
+  "chapter": 34,
+  "verse": 19,
+  "candidateLabel": "pulir",
+  "spanish": "Todo abridor de matriz a mí, y todo tu ganado será macho, abridor de buey y oveja o cabra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034019007"
+      ],
+      "issue": "תִּזָּכָר is lemma H2142, Niphal imperfect 3fs (be remembered). «será macho» substitutes the sense male and drops the Niphal verb.",
+      "spanishSpan": "será macho"
+    }
+  ],
+  "notes": "כל, both פטר phrases, רחם, לי, וכל מקנך, שור, and ושה are otherwise matched.",
+  "discardedUncitedFindings": 0
+}

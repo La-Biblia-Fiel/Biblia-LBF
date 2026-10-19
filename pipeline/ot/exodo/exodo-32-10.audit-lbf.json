@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:10",
+  "chapter": 32,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y ahora, déjame, y arderá mi nariz en ellos, y los consumiré, y te haré a nación grande.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032010004"
+      ],
+      "issue": "Qal jussive 3ms is smoothed to an indicative future; the volitive let-it-burn is stated as a prediction.",
+      "spanishSpan": "arderá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032010007"
+      ],
+      "issue": "Piel cohortative 1cs is smoothed to an indicative future; the let-me force is stated as a prediction.",
+      "spanishSpan": "consumiré"
+    }
+  ],
+  "notes": "Participants, number, qal/piel force, nariz, en ellos, and nación grande stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 31:5",
+  "chapter": 31,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "y en labrado de piedra a engastar, y en labrado de madera, para hacer en toda obra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031005003"
+      ],
+      "issue": "Piel infinitive of H4390 licenses “llenar” (hacer pleno). “engastar” sustituye ese sentido por la técnica de montar una gema y omite el llenar.",
+      "spanishSpan": "a engastar"
+    }
+  ],
+  "notes": "El resto del verso conserva número, repetición de labrado y la cadena para hacer en toda obra.",
+  "discardedUncitedFindings": 0
+}

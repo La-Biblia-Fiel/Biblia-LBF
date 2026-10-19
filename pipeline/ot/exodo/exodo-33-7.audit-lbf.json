@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:7",
+  "chapter": 33,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y Moisés tomaba la tienda, y la tendía a él desde fuera al campamento, lejos desde el campamento, y llamaba a ella tienda de reunión; y era todo buscante a Jehová salía a tienda de reunión que desde fuera al campamento.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02033007007",
+        "h02033007008"
+      ],
+      "issue": "מִחוּץ לְ places the tent outside the camp; «desde fuera al campamento» reads as movement from outside toward the camp.",
+      "spanishSpan": "desde fuera al campamento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02033007025",
+        "h02033007026"
+      ],
+      "issue": "The relative clause repeats מִחוּץ לְ as a location outside the camp; «desde fuera al campamento» again makes the camp the destination.",
+      "spanishSpan": "desde fuera al campamento"
+    }
+  ],
+  "notes": "Habitual 3ms verbs, אֹהֶל מוֹעֵד, and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

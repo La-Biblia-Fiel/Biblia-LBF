@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:19",
+  "chapter": 34,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Todo abridor de matriz a mí, y todo tu ganado macho, abridor de buey y cordero.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034019007"
+      ],
+      "issue": "Lemma 2142, Niphal imperfect 3rd feminine singular, is rendered as the attributive adjective macho, dropping stem, person, and imperfect and closing the form as male.",
+      "spanishSpan": "macho"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034019010"
+      ],
+      "issue": "Lemma 7716, common-gender singular (one of a flock: sheep or goat), is narrowed to cordero (young sheep).",
+      "spanishSpan": "cordero"
+    }
+  ],
+  "notes": "כל, פטר רחם, לי, מקנך, and שור match Todo, abridor de matriz, a mí, tu ganado, and buey.",
+  "discardedUncitedFindings": 0
+}

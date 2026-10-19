@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:34",
+  "chapter": 30,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Toma a ti aromas: estacte y uña olorosa y gálbano, aromas y incienso puro; parte en parte será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030034009"
+      ],
+      "issue": "«uña olorosa» desdobla el sustantivo singular en uña más la cualidad olorosa; el token licencia una sola sustancia, no ese instrumento ni ese adjetivo.",
+      "spanishSpan": "uña olorosa"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02030034012",
+        "h02030034013"
+      ],
+      "issue": "«puro» concuerda en masculino con «incienso»; el adjetivo es femenino singular y no cambia el sentido puro.",
+      "spanishSpan": "incienso puro"
+    }
+  ],
+  "notes": "El resto del versículo conserva persona, número, repetición de aromas y parte en parte.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:10",
+  "chapter": 32,
+  "verse": 10,
+  "candidateLabel": "pulir",
+  "spanish": "Y ahora, déjame, y arda mi nariz en ellos, y los consuma, y te haré a nación grande.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032010007"
+      ],
+      "issue": "Piel cohortative 1cs plus 3mp object: the speaker consumes them. \"los consuma\" is unmarked and continues the 3rd-person subject of \"arda\" (the nose).",
+      "spanishSpan": "los consuma"
+    }
+  ],
+  "notes": "The other clauses stay within the packet; only the cohortative subject is unsecured.",
+  "discardedUncitedFindings": 0
+}

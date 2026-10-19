@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:11",
+  "chapter": 33,
+  "verse": 11,
+  "candidateLabel": "pulir",
+  "spanish": "Y hablaba Jehová a Moisés rostros a rostros, como habla varón a su compañero, y volvía al campamento; y su ministro Josué hijo de Nun, joven, no se apartaba desde medio de la tienda.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033011001",
+        "h02033011013"
+      ],
+      "issue": "Sequential perfects are rendered as Spanish imperfects, which can add durative or habitual aspect.",
+      "spanishSpan": "hablaba; volvía"
+    }
+  ],
+  "notes": "Names, plurals, participants, and the open subject of volvía stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

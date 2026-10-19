@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:19",
+  "chapter": 36,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo cubierta a la tienda de pieles de carneros enrojecidas, y cubierta de pieles de tahash desde arriba.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036019002",
+        "h02036019003",
+        "h02036019004"
+      ],
+      "issue": "de pieles attaches to tienda, so the skins are the tent’s material. The absolute covering is for the tent, and the following construct skins-of is a separate material phrase for that covering.",
+      "spanishSpan": "a la tienda de pieles"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036019004",
+        "h02036019005",
+        "h02036019006"
+      ],
+      "issue": "The pual passive participle is masculine plural, and both skins and rams are masculine plural, so either can be reddened. Feminine enrojecidas locks it to pieles.",
+      "spanishSpan": "enrojecidas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036019009"
+      ],
+      "issue": "Common noun plural left untranslated as tahash, without a Spanish plural. No species is licensed, so the transliteration keeps that openness.",
+      "spanishSpan": "tahash"
+    }
+  ],
+  "notes": "The verb, the second covering, and desde arriba match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

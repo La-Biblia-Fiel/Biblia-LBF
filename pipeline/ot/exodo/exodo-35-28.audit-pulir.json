@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:28",
+  "chapter": 35,
+  "verse": 28,
+  "candidateLabel": "pulir",
+  "spanish": "y el aroma y el aceite a lumbrera y a aceite de la unción y a incienso de los aromas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035028002"
+      ],
+      "issue": "el aroma resolves H1314 to a smell; the lemma stays open between spice/balsam and fragrance, and את marks it as an object parallel to the oil",
+      "spanishSpan": "el aroma"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035028002",
+        "h02035028009"
+      ],
+      "issue": "aroma/aromas treats H1314 and H5561 as one noun in two numbers",
+      "spanishSpan": "el aroma … los aromas"
+    }
+  ],
+  "notes": "Articles, number, conjunctions, unmarked את, ל-purpose, and the two construct chains match the morphology.",
+  "discardedUncitedFindings": 0
+}

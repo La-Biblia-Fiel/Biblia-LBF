@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:37",
+  "chapter": 36,
+  "verse": 37,
+  "candidateLabel": "pulir",
+  "spanish": "Y hizo cortina a la abertura de la tienda, azul y púrpura y grana carmesí y lino retorcido, obra de bordador,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036037009",
+        "h02036037010"
+      ],
+      "issue": "Lemma 8336 b with the hophal passive participle licenses twisted linen, but the morphology is cardinal feminine singular. «lino» follows the lemma and does not render a numeral.",
+      "spanishSpan": "lino"
+    }
+  ],
+  "notes": "The rest matches person, number, stem, definiteness, and the repeated conjunctions.",
+  "discardedUncitedFindings": 0
+}

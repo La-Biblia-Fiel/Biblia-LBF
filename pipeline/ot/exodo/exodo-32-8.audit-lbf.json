@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:8",
+  "chapter": 32,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Se apartaron pronto desde el camino que les mandé; hicieron a ellos becerro de fundición, y se postraron a él, y sacrificaron a él, y dijeron: Estos tus dioses, Israel, que te subieron desde tierra de Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032008007",
+        "h02032008008",
+        "h02032008009"
+      ],
+      "issue": "לָהֶם is the 3mp beneficiary of עָשׂוּ and עֵגֶל is what was made; «hicieron a ellos becerro» can also be read as factitive (they made them into a calf).",
+      "spanishSpan": "hicieron a ellos becerro"
+    }
+  ],
+  "notes": "Remaining clauses match person, number, stem, לּוֹ twice, plural אֵלֶּה/אֱלֹהֶיךָ, hiphil העלוך, and Egipto.",
+  "discardedUncitedFindings": 0
+}

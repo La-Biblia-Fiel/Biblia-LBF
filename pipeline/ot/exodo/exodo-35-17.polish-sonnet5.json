@@ -1,0 +1,52 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 35:17",
+  "chapter": 35,
+  "verse": 17,
+  "sourceDraft": "las colgaduras del atrio, sus columnas y sus basas, y el masaj de puerta del atrio,",
+  "spanish": "las colgaduras del atrio, sus columnas y sus basas, y la cortina de la puerta del atrio,",
+  "units": [
+    {
+      "es": "las colgaduras del atrio",
+      "sourceTokenIds": [
+        "h02035017001",
+        "h02035017002",
+        "h02035017003"
+      ]
+    },
+    {
+      "es": "sus columnas",
+      "sourceTokenIds": [
+        "h02035017004",
+        "h02035017005"
+      ]
+    },
+    {
+      "es": "y sus basas",
+      "sourceTokenIds": [
+        "h02035017006",
+        "h02035017007"
+      ]
+    },
+    {
+      "es": "y la cortina de la puerta del atrio",
+      "sourceTokenIds": [
+        "h02035017008",
+        "h02035017009",
+        "h02035017010",
+        "h02035017011"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated untranslated Hebrew transliteration 'masaj' (מָסַךְ, H4539) into Spanish as 'cortina'.",
+    "Added the definite article to 'puerta' ('de puerta' -> 'de la puerta') because שַׁעַר is definite inside the construct chain closed by הֶחָצֵר."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

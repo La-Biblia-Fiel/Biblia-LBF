@@ -1,0 +1,45 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:35",
+  "chapter": 35,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Los llenó sabiduría de corazón para hacer toda obra de artesano y pensador y bordador en el azul y en la púrpura, en carmesí y en el lino fino, y tejedor; hacedores de toda obra e ideadores de ideaciones.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035035001",
+        "h02035035002",
+        "h02035035003",
+        "h02035035004"
+      ],
+      "issue": "Los llenó sabiduría de corazón reads sabiduría as the subject. The verb is piel perfect 3ms, אתם is the object, and feminine חכמת־לב is what they are filled with, not the agent.",
+      "spanishSpan": "Los llenó sabiduría de corazón"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035035013",
+        "h02035035014"
+      ],
+      "issue": "en carmesí collapses the definite construct (worm of the scarlet) into one indefinite color noun and drops the article on השני.",
+      "spanishSpan": "en carmesí"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035035009",
+        "h02035035020",
+        "h02035035021"
+      ],
+      "issue": "The same H2803 participle is pensador in the singular and ideadores in the plural, so the repeated root shared with מחשבות is not kept.",
+      "spanishSpan": "pensador"
+    }
+  ],
+  "notes": "Object plural, both singular מלאכה phrases, and the singular then plural craft participles otherwise follow the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,127 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 31:15",
+  "chapter": 31,
+  "verse": 15,
+  "sourceDraft": "Seis días será hecha obra, y en el día el séptimo shabat de shabatón, santidad a Jehová; todo el haciendo obra en día del shabat de morir morirá.",
+  "spanish": "Seis días se hará obra, y en el día el séptimo sábado de reposo, santidad a Jehová; todo el que hace obra en día del sábado, morir será muerto.",
+  "units": [
+    {
+      "es": "Seis",
+      "sourceTokenIds": [
+        "h02031015001"
+      ]
+    },
+    {
+      "es": "días",
+      "sourceTokenIds": [
+        "h02031015002"
+      ]
+    },
+    {
+      "es": "se hará",
+      "sourceTokenIds": [
+        "h02031015003"
+      ]
+    },
+    {
+      "es": "obra",
+      "sourceTokenIds": [
+        "h02031015004"
+      ]
+    },
+    {
+      "es": "y en el día",
+      "sourceTokenIds": [
+        "h02031015005"
+      ]
+    },
+    {
+      "es": "el séptimo",
+      "sourceTokenIds": [
+        "h02031015006"
+      ]
+    },
+    {
+      "es": "sábado",
+      "sourceTokenIds": [
+        "h02031015007"
+      ]
+    },
+    {
+      "es": "de reposo",
+      "sourceTokenIds": [
+        "h02031015008"
+      ]
+    },
+    {
+      "es": "santidad",
+      "sourceTokenIds": [
+        "h02031015009"
+      ]
+    },
+    {
+      "es": "a Jehová",
+      "sourceTokenIds": [
+        "h02031015010"
+      ]
+    },
+    {
+      "es": "todo",
+      "sourceTokenIds": [
+        "h02031015011"
+      ]
+    },
+    {
+      "es": "el que hace",
+      "sourceTokenIds": [
+        "h02031015012"
+      ]
+    },
+    {
+      "es": "obra",
+      "sourceTokenIds": [
+        "h02031015013"
+      ]
+    },
+    {
+      "es": "en día del",
+      "sourceTokenIds": [
+        "h02031015014"
+      ]
+    },
+    {
+      "es": "sábado",
+      "sourceTokenIds": [
+        "h02031015015"
+      ]
+    },
+    {
+      "es": "morir",
+      "sourceTokenIds": [
+        "h02031015016"
+      ]
+    },
+    {
+      "es": "será muerto",
+      "sourceTokenIds": [
+        "h02031015017"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated untranslated common noun 'shabat' (H7676) as 'sábado' in both occurrences (h02031015007, h02031015015).",
+    "Translated untranslated common noun 'shabatón' (H7677) as 'reposo' (h02031015008).",
+    "Restored hophal passive stem force: 'morirá' -> 'será muerto' (h02031015017).",
+    "Removed the unmarked supplied preposition 'de' that stood before the qal infinitive absolute 'morir' (h02031015016).",
+    "Replaced the ungrammatical calque 'el haciendo' with 'el que hace' for the definite qal participle; the doer remains the subject (h02031015012).",
+    "Replaced 'será hecha' with the reflexive passive 'se hará' for the niphal imperfect (h02031015003), avoiding forced feminine agreement with 'obra'."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose the reflexive passive 'se hará obra' instead of the periphrastic 'será hecha obra' to keep the niphal's impersonal stem force without forcing Spanish gender agreement with 'obra'.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

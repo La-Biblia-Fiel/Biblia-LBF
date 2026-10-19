@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:13",
+  "chapter": 32,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Acuerda a Abraham, a Isaac y a Israel tus siervos, que juraste a ellos en ti, y hablaste a ellos: Multiplicaré su semilla como estrellas de los cielos, y toda esta tierra que dije daré a su semilla, y heredarán para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032013001"
+      ],
+      "issue": "Qal imperative 2ms of H2142 is the addressee remembering; in current Latin American “Acuerda” means agree/resolve or remind, so that remembering is not what the clause says.",
+      "spanishSpan": "Acuerda"
+    }
+  ],
+  "notes": "The other tokens match in person, number, stem, and repetition, including 2mp כם as ustedes “su”.",
+  "discardedUncitedFindings": 0
+}

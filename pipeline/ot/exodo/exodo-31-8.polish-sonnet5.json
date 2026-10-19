@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 31:8",
+  "chapter": 31,
+  "verse": 8,
+  "sourceDraft": "y la mesa y sus utensilios, y la menorá la pura y todos sus utensilios, y altar del incienso,",
+  "spanish": "y la mesa y sus utensilios, y el candelabro puro y todos sus utensilios, y altar del incienso,",
+  "units": [
+    {
+      "es": "y la mesa y sus utensilios,",
+      "sourceTokenIds": [
+        "h02031008001",
+        "h02031008002",
+        "h02031008003",
+        "h02031008004"
+      ]
+    },
+    {
+      "es": "y el candelabro puro y todos sus utensilios,",
+      "sourceTokenIds": [
+        "h02031008005",
+        "h02031008006",
+        "h02031008007",
+        "h02031008008",
+        "h02031008009",
+        "h02031008010"
+      ]
+    },
+    {
+      "es": "y altar del incienso,",
+      "sourceTokenIds": [
+        "h02031008011",
+        "h02031008012",
+        "h02031008013"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced transliteration 'menorá' with the Spanish common noun 'candelabro' for h02031008006, per auditor fail.",
+    "Changed 'la menorá la pura' to 'el candelabro puro' to agree in gender/number with the masculine noun 'candelabro'."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'candelabro' as the Spanish common noun for the lampstand (h02031008006) rather than the transliteration 'menorá'.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

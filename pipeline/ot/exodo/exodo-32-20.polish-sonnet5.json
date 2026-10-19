@@ -1,0 +1,64 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 32:20",
+  "chapter": 32,
+  "verse": 20,
+  "sourceDraft": "Y tomó el becerro que hicieron, y lo quemó en el fuego, y lo molió hasta fino, y esparció sobre faz de las aguas, e hizo beber a hijos de Israel.",
+  "spanish": "Y tomó el becerro que hicieron, y lo quemó en el fuego, y lo molió hasta que fue fino, y esparció sobre faz de las aguas, e hizo beber a hijos de Israel.",
+  "units": [
+    {
+      "es": "Y tomó el becerro que hicieron",
+      "sourceTokenIds": [
+        "h02032020001",
+        "h02032020002",
+        "h02032020003",
+        "h02032020004",
+        "h02032020005"
+      ]
+    },
+    {
+      "es": "y lo quemó en el fuego",
+      "sourceTokenIds": [
+        "h02032020006",
+        "h02032020007"
+      ]
+    },
+    {
+      "es": "y lo molió hasta que fue fino",
+      "sourceTokenIds": [
+        "h02032020008",
+        "h02032020009",
+        "h02032020010",
+        "h02032020011"
+      ]
+    },
+    {
+      "es": "y esparció sobre faz de las aguas",
+      "sourceTokenIds": [
+        "h02032020012",
+        "h02032020013",
+        "h02032020014",
+        "h02032020015"
+      ]
+    },
+    {
+      "es": "e hizo beber a hijos de Israel",
+      "sourceTokenIds": [
+        "h02032020016",
+        "h02032020017",
+        "h02032020018",
+        "h02032020019"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "עַד אֲשֶׁר דָּק is a finite relative clause (qal perfect 3ms); changed the adjectival «hasta fino» to the finite «hasta que fue fino» so the verb stays a verb."
+  ],
+  "meaningChanges": [],
+  "readerNote": "hold: clause role — «lo» in «lo quemó» and «lo molió» names the calf, carried over as object from the prior clause, as what was burned and ground, and is left unchanged.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

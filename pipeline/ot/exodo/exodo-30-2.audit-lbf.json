@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:2",
+  "chapter": 30,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Codo su largo y codo su ancho; cuadrado será, y dos codos su alto; desde él sus cuernos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030002009"
+      ],
+      "issue": "The preposition suffix is 1st common plural (from us); Spanish él is 3rd masculine singular (from him).",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "Length, width, square, dual two cubits, height, and plural horns match their tokens.",
+  "discardedUncitedFindings": 0
+}

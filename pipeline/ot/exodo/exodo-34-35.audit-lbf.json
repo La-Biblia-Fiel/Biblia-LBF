@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:35",
+  "chapter": 34,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Y veían hijos de Israel las faces de Moisés, que radiaba piel de faces de Moisés, y devolvía Moisés el velo sobre sus faces hasta su entrar para hablar con él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034035008"
+      ],
+      "issue": "קָרַן is qal perfect 3ms; «radiaba» is imperfect and adds ongoing aspect the perfect does not mark.",
+      "spanishSpan": "radiaba"
+    }
+  ],
+  "notes": "The vav-perfects, hiphil of returning the veil, plural faces, and the infinitive with its suffix match the packet.",
+  "discardedUncitedFindings": 0
+}

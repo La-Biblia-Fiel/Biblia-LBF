@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:32",
+  "chapter": 36,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "y cinco travesaños a las tablas del costado del mishkán el segundo, y cinco travesaños a las tablas del mishkán a los extremos, mar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036032005",
+        "h02036032010"
+      ],
+      "issue": "Common noun left untranslated as mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036032004",
+        "h02036032006"
+      ],
+      "issue": "Feminine ordinal modifies the side, not the masculine tabernacle; masculine el segundo after mishkán reads as a second tabernacle.",
+      "spanishSpan": "el segundo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036032011",
+        "h02036032012"
+      ],
+      "issue": "Directional suffix on the sea noun is dropped; comma-detached mar does not mark the extremities as toward the sea.",
+      "spanishSpan": "mar"
+    }
+  ],
+  "notes": "Five, bars, boards, side, both conjunctions, and the second preposition match.",
+  "discardedUncitedFindings": 0
+}

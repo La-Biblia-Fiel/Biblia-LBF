@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:4",
+  "chapter": 36,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y vinieron todos los sabios, los haciendo toda obra del santo, varón por varón de su obra que ellos hacían.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036004008"
+      ],
+      "issue": "הַקֹּדֶשׁ is a definite common noun (holiness / sacred thing). \"del santo\" resolves it as a masculine person (the saint / the holy one).",
+      "spanishSpan": "del santo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036004004"
+      ],
+      "issue": "The definite qal participle הָעֹשִׂים (“the ones doing”) is rendered by the ungrammatical “los haciendo”; the doing is present but not a clear relative clause.",
+      "spanishSpan": "los haciendo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036004011"
+      ],
+      "issue": "מִן marks source (“from his work”). “de su obra” reads as a genitive and weakens that preposition.",
+      "spanishSpan": "de su obra"
+    }
+  ],
+  "notes": "Wayyiqtol, both כָּל, the wise, את, distributive אִישׁ־אִישׁ, אֲשֶׁר, הֵמָּה, and the second qal participle otherwise stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

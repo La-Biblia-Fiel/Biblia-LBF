@@ -1,0 +1,64 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 31:15",
+  "chapter": 31,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Seis días será hecha obra, y en el día el séptimo shabat de shabatón, santidad a Jehová; todo el haciendo obra en día del shabat de morir morirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031015007",
+        "h02031015015"
+      ],
+      "issue": "Common noun H7676 is dumped untranslated as shabat.",
+      "spanishSpan": "shabat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031015008"
+      ],
+      "issue": "Common noun H7677 is dumped untranslated as shabatón.",
+      "spanishSpan": "shabatón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031015017"
+      ],
+      "issue": "Hophal imperfect 3ms (he is put to death) is rendered as active morirá, changing stem force.",
+      "spanishSpan": "morirá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031015016"
+      ],
+      "issue": "Unmarked supplied preposition de stands before the qal infinitive absolute.",
+      "spanishSpan": "de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02031015003"
+      ],
+      "issue": "Niphal 3ms imperfect is smoothed to feminine será hecha to agree with obra.",
+      "spanishSpan": "será hecha"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02031015012"
+      ],
+      "issue": "Definite qal participle (the one doing) is smoothed as el haciendo; the doer remains the subject.",
+      "spanishSpan": "el haciendo"
+    }
+  ],
+  "notes": "Construct de, articles, Jehová, and the verbless holiness clause match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:29",
+  "chapter": 34,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue en descender Moisés desde monte Sinai, y dos tablas del testimonio en mano de Moisés en su descender desde el monte, y Moisés no conoció que radiaba piel de sus faces en su hablar con él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034029018"
+      ],
+      "issue": "קָרַן is qal perfect; radiaba is imperfect and presents the shining as ongoing. Aspect is smoothed; qal sense, number, and the subject piel stay intact.",
+      "spanishSpan": "radiaba"
+    }
+  ],
+  "notes": "Order, dual dos, singular mano, the article contrast on the two mountains, and plural faces match the tokens.",
+  "discardedUncitedFindings": 0
+}

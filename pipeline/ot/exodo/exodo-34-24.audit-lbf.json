@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:24",
+  "chapter": 34,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Porque echaré naciones de delante de ti, y ensancharé tu límite, y no codiciará varón tu tierra en tu subir a ser visto faces de Jehová tu Dios tres veces en el año.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034024016"
+      ],
+      "issue": "פְּנֵי is a common noun (plural construct); the Spanish leaves it as the English word faces instead of a Spanish noun.",
+      "spanishSpan": "faces"
+    }
+  ],
+  "notes": "Remaining clauses match person, number, stem, and the licensed senses of the other tokens.",
+  "discardedUncitedFindings": 0
+}

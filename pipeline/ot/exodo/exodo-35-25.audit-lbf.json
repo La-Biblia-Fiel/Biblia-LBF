@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:25",
+  "chapter": 35,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y toda mujer sabia de corazón en sus manos hiló, y trajeron hilado el azul y la púrpura, el carmesí y el lino fino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035025006"
+      ],
+      "issue": "טָווּ is qal perfect 3rd common plural, but hiló is 3rd singular, so the spinning is one woman's act rather than a plural act.",
+      "spanishSpan": "hiló"
+    }
+  ],
+  "notes": "trajeron matches the 3mp hiphil of וַיָּבִיאוּ; the number mismatch is the first verb.",
+  "discardedUncitedFindings": 0
+}

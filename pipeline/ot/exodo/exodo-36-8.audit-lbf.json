@@ -1,0 +1,63 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:8",
+  "chapter": 36,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y hicieron todo sabio de corazón entre los haciendo la obra el mishkán: diez cortinas; lino fino retorcido y azul y púrpura y carmesí; querubines, obra de pensador, hizo a ellas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036008001",
+        "h02036008002",
+        "h02036008003",
+        "h02036008004",
+        "h02036008007",
+        "h02036008008"
+      ],
+      "issue": "“hicieron todo sabio de corazón … el mishkán” makes every wise-of-heart the thing made. The plural verb’s subject is כל חכם לב; את marks הַמִּשְׁכָּן as what they made.",
+      "spanishSpan": "hicieron todo sabio de corazón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036008008"
+      ],
+      "issue": "הַמִּשְׁכָּן is a common noun (definite). “mishkán” leaves that non-name lemma untranslated.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036008015",
+        "h02036008016"
+      ],
+      "issue": "“carmesí” keeps the scarlet of שָׁנִי and drops the construct noun תּוֹלַעַת (worm).",
+      "spanishSpan": "carmesí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036008021",
+        "h02036008017"
+      ],
+      "issue": "אֹתָם is a 3rd masculine plural object, matching כְּרֻבִים. “ellas” switches it to feminine and points it at the curtains.",
+      "spanishSpan": "ellas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036008011",
+        "h02036008012"
+      ],
+      "issue": "Morphology labels שֵׁשׁ a cardinal, while lemma 8336 b / H8336 is not the numeral six. “lino fino” closes that as fine linen; מָשְׁזָר still licenses “retorcido.”",
+      "spanishSpan": "lino fino"
+    }
+  ],
+  "notes": "diez cortinas, azul, púrpura, querubines, obra de pensador, and singular hizo match their tokens.",
+  "discardedUncitedFindings": 0
+}

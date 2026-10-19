@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:10",
+  "chapter": 37,
+  "verse": 10,
+  "candidateLabel": "pulir",
+  "spanish": "E hizo la mesa, maderas de acacia; dos codos su largo, y codo su ancho, y codo y medio su alto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037010005"
+      ],
+      "issue": "שִׁטִּים is feminine plural; “acacia” smooths that species plural to a singular material name without changing the referent.",
+      "spanishSpan": "acacia"
+    }
+  ],
+  "notes": "Qal 3ms, the table, plural woods, dual two cubits, singular cubit, half, and the 3ms dimensions match the tokens.",
+  "discardedUncitedFindings": 0
+}

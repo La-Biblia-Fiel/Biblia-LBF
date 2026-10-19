@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:24",
+  "chapter": 32,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y dije a ellos: ¿A quién oro? Se arrancaron, y dieron a mí, y lo arrojé en el fuego, y salió este becerro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032024005"
+      ],
+      "issue": "Hithpael imperative 2mp is a command to the addressees; \"Se arrancaron\" is past indicative grouped with the following 3mp narrative, so the command becomes a completed act by a third party.",
+      "spanishSpan": "Se arrancaron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032024008"
+      ],
+      "issue": "Object suffix is 3rd masculine plural; \"lo\" is singular.",
+      "spanishSpan": "lo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032024003",
+        "h02032024004"
+      ],
+      "issue": "\"oro\" matches the gold noun, but \"¿A quién oro?\" is also \"to whom do I pray?\", so the clause can be read as prayer.",
+      "spanishSpan": "¿A quién oro?"
+    }
+  ],
+  "notes": "Say-to-them, give-to-me, in-the-fire, and this calf went out match the tokens.",
+  "discardedUncitedFindings": 0
+}

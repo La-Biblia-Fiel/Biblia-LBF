@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:5",
+  "chapter": 30,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás las varas maderas de shitím, y las revestirás oro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030005003",
+        "h02030005004"
+      ],
+      "issue": "The construct link is missing: the poles are of the wood, but Spanish sets varas beside maderas with no relation.",
+      "spanishSpan": "varas maderas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030005005"
+      ],
+      "issue": "שִׁטִּים is a common noun (H7848), left as the transliteration shitím instead of Spanish.",
+      "spanishSpan": "shitím"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02030005006",
+        "h02030005007",
+        "h02030005008"
+      ],
+      "issue": "Gold is present as the overlay material, but bare oro after revestirás las leaves that role unclear in Spanish.",
+      "spanishSpan": "revestirás oro"
+    }
+  ],
+  "notes": "Y harás and the 2ms piel match; las agrees with varas and keeps the 3mp object.",
+  "discardedUncitedFindings": 0
+}

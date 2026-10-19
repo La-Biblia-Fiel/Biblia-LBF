@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:2",
+  "chapter": 35,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Seis días será hecha obra, y en el día el séptimo será a ustedes santidad, shabat de shabatón a Jehová; todo el haciendo en él obra morirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035002010",
+        "h02035002011"
+      ],
+      "issue": "Common nouns (construct + absolute) left untranslated as shabat and shabatón.",
+      "spanishSpan": "shabat de shabatón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035002017"
+      ],
+      "issue": "Hophal imperfect 3ms (be put to death) rendered as simple morirá, dropping passive causative stem force.",
+      "spanishSpan": "morirá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035002014"
+      ],
+      "issue": "Definite qal participle (the one doing) is the gerund el haciendo, so the doer is not a clear nominal subject of the death clause.",
+      "spanishSpan": "el haciendo"
+    }
+  ],
+  "notes": "Other tokens match in number, person, and role; ustedes is the licensed 2mp of לָכֶם.",
+  "discardedUncitedFindings": 0
+}

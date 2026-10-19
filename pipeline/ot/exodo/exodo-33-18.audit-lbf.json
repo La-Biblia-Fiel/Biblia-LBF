@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:18",
+  "chapter": 33,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo: Hazme ver ahora tu gloria.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02033018003"
+      ],
+      "issue": "נא is an entreaty particle; «ahora» adds a temporal now and leaves the request unexpressed.",
+      "spanishSpan": "ahora"
+    }
+  ],
+  "notes": "Y dijo and hazme ver tu gloria match the wayyiqtol, the hiphil imperative with 1cs suffix, and the singular 2ms noun.",
+  "discardedUncitedFindings": 0
+}

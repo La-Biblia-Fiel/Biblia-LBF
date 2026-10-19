@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 30:23",
+  "chapter": 30,
+  "verse": 23,
+  "sourceDraft": "Y tú, toma a ti aromas principales: mirra fluida quinientas, y canela aromática su mitad cincuenta y doscientas, y caña aromática cincuenta y doscientas,",
+  "spanish": "Y tú, toma a ti aromas, lo principal de mirra de fluidez, quinientas, y canela de aroma, su mitad cincuenta y doscientas, y caña de aroma, cincuenta y doscientas,",
+  "units": [],
+  "grammarChanges": [
+    "aromas principales -> aromas, lo principal de mirra de fluidez: changed the plural adjective 'principales' (agreeing with aromas) to the singular noun phrase 'lo principal de', so רֹאשׁ (masculine singular construct) governs מָר (mirra) instead of modifying בְּשָׂמִים.",
+    "mirra fluida -> mirra de fluidez: changed the adjective 'fluida' to the noun phrase 'de fluidez' so the absolute noun דְּרוֹר stays a governed noun of the construct מָר, not an adjective closing the chain.",
+    "canela aromática -> canela de aroma; caña aromática -> caña de aroma: changed the adjective 'aromática' to the noun phrase 'de aroma' so the construct noun בֶּשֶׂם/בֹשֶׂם (same lemma as aromas) stays a governed noun rather than becoming an adjective."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose nested 'de' noun-phrases (lo principal de mirra de fluidez; canela/caña de aroma) over adjectives so each construct noun stays a governed noun, matching the Hebrew construct chain.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

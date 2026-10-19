@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:5",
+  "chapter": 33,
+  "verse": 5,
+  "candidateLabel": "pulir",
+  "spanish": "Y dijo Jehová a Moisés: Di a los hijos de Israel: Ustedes *son* un pueblo duro de nuca; un momento subiré en medio de ti, y te consumiré; y ahora, haz descender tu adorno de sobre ti, y conoceré qué haré a ti.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033005022"
+      ],
+      "issue": "Qal cohortative (speaker's will or purpose) is smoothed to a plain future indicative.",
+      "spanishSpan": "conoceré"
+    }
+  ],
+  "notes": "Marked *son* only supplies the verbless clause; 2fs לך remains 2sg ti.",
+  "discardedUncitedFindings": 0
+}

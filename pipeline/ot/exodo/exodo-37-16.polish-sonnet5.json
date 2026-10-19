@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 37:16",
+  "chapter": 37,
+  "verse": 16,
+  "sourceDraft": "E hizo los utensilios que sobre la mesa: sus platos y sus cucharas y sus jarras y los tazones con que se derrama en ellas, oro puro.",
+  "spanish": "E hizo los utensilios que sobre la mesa: sus platos y sus cucharas y sus tazones y las jarras con que se derrama, oro puro.",
+  "units": [],
+  "grammarChanges": [
+    "Swapped the two vessel nouns per audit: 'sus jarras' (H4518, a bowl) -> 'sus tazones'; 'los tazones' (H7184, a jug) -> 'las jarras'.",
+    "Corrected article/gender agreement for the jug noun: 'los jarras' -> 'las jarras' (jarras is feminine).",
+    "Collapsed the doubled relation 'con que se derrama en ellas' to a single preposition relation 'con que se derrama', matching אשר + hophal יֻסַּךְ + the one preposition בָּהֵן."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'con que se derrama' (instrumental 'with which') over 'en que se derrama' to render the single preposition בָּהֵן once the duplicated 'en ellas' was removed.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

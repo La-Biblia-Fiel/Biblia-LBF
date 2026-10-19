@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:6",
+  "chapter": 30,
+  "verse": 6,
+  "candidateLabel": "pulir",
+  "spanish": "Y lo darás delante del velo que sobre arca del testimonio, delante de la cubierta que sobre el testimonio, que me citaré a ti allá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030006015"
+      ],
+      "issue": "Niphal imperfect 1cs of יעד is the speaker meeting or being appointed toward the addressee; «me citaré» adds self-citation/self-summons and makes the speaker the object.",
+      "spanishSpan": "me citaré"
+    }
+  ],
+  "notes": "The other tokens, including both verbless על clauses and לך as «a ti», stay within the packet.",
+  "discardedUncitedFindings": 0
+}

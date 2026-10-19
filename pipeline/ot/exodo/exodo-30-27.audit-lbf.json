@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:27",
+  "chapter": 30,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "y la mesa y todos sus utensilios, y la menorá y sus utensilios, y altar del incienso,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030027007"
+      ],
+      "issue": "Common noun left as the untranslated lemma menorá; a Spanish common noun is required.",
+      "spanishSpan": "la menorá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030027011",
+        "h02030027012"
+      ],
+      "issue": "Definite construct chain (altar of the incense) is rendered with a bare head, so the licensed definiteness is omitted.",
+      "spanishSpan": "altar del incienso"
+    }
+  ],
+  "notes": "Conjunctions, la mesa, todos sus utensilios, and the 3fs sus on the second utensilios match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:17",
+  "chapter": 35,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "las colgaduras del atrio, sus columnas y sus basas, y el masaj de puerta del atrio,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035017009"
+      ],
+      "issue": "Common noun מָסַךְ (H4539, singular construct) is left untranslated as masaj; a non-name lemma must be Spanish.",
+      "spanishSpan": "masaj"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035017005",
+        "h02035017007"
+      ],
+      "issue": "Column suffix is 3rd masculine singular and base suffix is 3rd feminine singular; both appear as gender-neutral sus, so that possessor distinction is not visible.",
+      "spanishSpan": "sus columnas y sus basas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035017010",
+        "h02035017011"
+      ],
+      "issue": "שַׁעַר is inside a construct chain made definite by הֶחָצֵר, while puerta has no article.",
+      "spanishSpan": "de puerta"
+    }
+  ],
+  "notes": "Object markers stay untranslated; plurals, singulars, and both conjunctions match.",
+  "discardedUncitedFindings": 0
+}

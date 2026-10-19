@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 31:7",
+  "chapter": 31,
+  "verse": 7,
+  "candidateLabel": "pulir",
+  "spanish": "la tienda de reunión y el arca del testimonio y la cubierta que *está* sobre ella, y todos los utensilios de la tienda,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02031007010"
+      ],
+      "issue": "El sufijo es 3ms; «ella» ajusta el género al español de «arca» y conserva ese referente.",
+      "spanishSpan": "ella"
+    }
+  ],
+  "notes": "La cópula marcada *está* solo hace oración la cláusula sin verbo אשר עליו.",
+  "discardedUncitedFindings": 0
+}

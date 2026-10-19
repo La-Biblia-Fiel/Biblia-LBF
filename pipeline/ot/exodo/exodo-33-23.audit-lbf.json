@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:23",
+  "chapter": 33,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y quitaré mi palma, y verás mi espalda, y mis faces no se verán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02033023006"
+      ],
+      "issue": "H268 is a masculine plural construct (hinder parts) with a 1cs suffix; espalda is singular and changes number.",
+      "spanishSpan": "espalda"
+    }
+  ],
+  "notes": "Quitar (hiphil 1cs), palma (fs), verás (qal 2ms), faces (plural), and no se verán (niphal 3mp) match the other tokens.",
+  "discardedUncitedFindings": 0
+}

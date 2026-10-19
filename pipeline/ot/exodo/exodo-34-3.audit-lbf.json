@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:3",
+  "chapter": 34,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y varón no subirá contigo, y también varón no se vea en todo el monte; también el rebaño y el ganado no pasten al frente de ese monte.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034003013",
+        "h02034003012"
+      ],
+      "issue": "בָּקָר is the bovine herd; ganado can mean livestock more broadly than that herd beside the flock.",
+      "spanishSpan": "ganado"
+    }
+  ],
+  "notes": "2fs עִמָּךְ stays 2sg contigo; לֹא + imperfect is subirá, and both אַל + jussive are se vea and pasten; אֶל מוּל is al frente de.",
+  "discardedUncitedFindings": 0
+}

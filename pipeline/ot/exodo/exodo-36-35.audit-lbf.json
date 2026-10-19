@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:35",
+  "chapter": 36,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo la parójet de azul y púrpura y carmesí y lino fino retorcido; obra de pensador la hizo, querubines.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036035003"
+      ],
+      "issue": "Common noun left as the transliteration parójet; a non-name lemma must be Spanish.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036035008"
+      ],
+      "issue": "Lemma 8336 and morph cardinal leave the sense open; lino fino resolves it as fine linen and adds fineness.",
+      "spanishSpan": "lino fino"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036035003",
+        "h02036035004"
+      ],
+      "issue": "de marks the following nouns as material; Hebrew has no preposition, only apposition after the object.",
+      "spanishSpan": "de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036035006",
+        "h02036035007"
+      ],
+      "issue": "Construct pair is collapsed to one color noun, so both tokens are not kept visible.",
+      "spanishSpan": "carmesí"
+    }
+  ],
+  "notes": "Y hizo, la hizo, azul, púrpura, retorcido, obra de pensador, and querubines match the qal 3ms verbs, 3fs object, color nouns, hophal passive, construct participle, and masculine plural.",
+  "discardedUncitedFindings": 0
+}

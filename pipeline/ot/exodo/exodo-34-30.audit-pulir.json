@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:30",
+  "chapter": 34,
+  "verse": 30,
+  "candidateLabel": "pulir",
+  "spanish": "Y vio Aarón y todos los hijos de Israel a Moisés, y he aquí radió piel de sus faces, y temieron acercarse a él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034030009"
+      ],
+      "issue": "H7160 qal perfect 3ms is glossed both as sending out horns and as shining/rays; radió keeps only the ray sense.",
+      "spanishSpan": "radió"
+    }
+  ],
+  "notes": "Other tokens match in participants, number, and stem.",
+  "discardedUncitedFindings": 0
+}

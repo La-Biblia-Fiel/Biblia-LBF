@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:18",
+  "chapter": 37,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y seis cañas salientes desde sus lados; tres cañas de menorá desde su lado el uno, y tres cañas de menorá desde su lado el segundo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037018007",
+        "h02037018012"
+      ],
+      "issue": "H4501 is a common noun (feminine singular), not a name. menorá leaves the lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "menorá"
+    }
+  ],
+  "notes": "Number, construct, qal participle, plural vs singular side, cardinal el uno, and ordinal el segundo match the tokens.",
+  "discardedUncitedFindings": 0
+}

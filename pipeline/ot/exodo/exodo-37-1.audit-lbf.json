@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:1",
+  "chapter": 37,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo Betsalel el arca, maderas de shitím; dos codos y medio su largo, y codo y medio su ancho, y codo y medio su alto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037001006"
+      ],
+      "issue": "שִׁטִּים is a common noun (feminine plural absolute), rendered as the untranslated form shitím; common nouns stay Spanish.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "Remaining tokens match: wayyiqtol 3ms, proper name, definite singular arca, plural construct maderas, dual then singular cubits, halves, and 3ms length/width/height.",
+  "discardedUncitedFindings": 0
+}

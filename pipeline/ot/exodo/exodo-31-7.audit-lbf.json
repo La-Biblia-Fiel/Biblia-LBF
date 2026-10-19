@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 31:7",
+  "chapter": 31,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "tienda de reunión y el arca al testimonio y la kappóret que sobre él, y todos utensilios de la tienda,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031007008"
+      ],
+      "issue": "הַכַּפֹּרֶת is a common noun (H3727), left as the untranslated lemma kappóret; common nouns stay Spanish.",
+      "spanishSpan": "kappóret"
+    }
+  ],
+  "notes": "Remaining spans match the tokens, including the verbless אשר עָלָיו.",
+  "discardedUncitedFindings": 0
+}

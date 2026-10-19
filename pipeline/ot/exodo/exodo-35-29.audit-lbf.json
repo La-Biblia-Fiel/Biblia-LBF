@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:29",
+  "chapter": 35,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Todo varón y mujer que impulsó su corazón a ellos a traer a toda la obra que mandó Jehová a hacer en mano de Moisés, trajeron hijos de Israel ofrenda voluntaria a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035029005",
+        "h02035029006",
+        "h02035029007"
+      ],
+      "issue": "Qal 3ms has the heart as subject and אתם as its direct object. 'que impulsó su corazón a ellos' makes the man and woman the subject who impel the heart toward another party.",
+      "spanishSpan": "impulsó su corazón a ellos"
+    }
+  ],
+  "notes": "The other tokens match, including both bring-verbs, the work Jehová commanded to do by the hand of Moses, and the sons of Israel bringing a freewill offering to Jehová.",
+  "discardedUncitedFindings": 0
+}

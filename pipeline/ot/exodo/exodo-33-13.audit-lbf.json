@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:13",
+  "chapter": 33,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y ahora, si ahora hallé favor en tus ojos, hazme conocer ahora tu camino, y te conoceré, a fin de que halle favor en tus ojos; y ve que tu pueblo esta nación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02033013010"
+      ],
+      "issue": "Plural construct ways (HNcbpc) is rendered as singular camino.",
+      "spanishSpan": "tu camino"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033013017"
+      ],
+      "issue": "Conjunction left open between content and cause; que selects only the content of ve.",
+      "spanishSpan": "que"
+    }
+  ],
+  "notes": "Dual eyes as ojos, hiphil hazme conocer, and verbless tu pueblo esta nación stay inside the packet.",
+  "discardedUncitedFindings": 0
+}

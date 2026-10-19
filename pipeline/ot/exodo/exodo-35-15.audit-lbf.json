@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:15",
+  "chapter": 35,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "y altar del incienso y sus varas, y el aceite de la unción y el incienso de los aromas, y el masaj de la abertura a abertura del mishkán,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035015013"
+      ],
+      "issue": "Common noun מסך left untranslated as masaj; common nouns stay Spanish.",
+      "spanishSpan": "masaj"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035015016"
+      ],
+      "issue": "Common noun משכן left untranslated as mishkán; common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Construct chains, plurals, the 3ms suffix, and the repeated פתח with ל are otherwise matched.",
+  "discardedUncitedFindings": 0
+}

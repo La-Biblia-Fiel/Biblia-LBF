@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:6",
+  "chapter": 30,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo darás delante de la parójet que sobre arca del testimonio, delante de la kappóret que sobre el testimonio, que me citaré a ti allá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030006004"
+      ],
+      "issue": "Common noun (H6532, definite feminine singular) is left as the untranslated transliteration parójet.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030006010"
+      ],
+      "issue": "Common noun (H3727, definite feminine singular) is left as the untranslated transliteration kappóret.",
+      "spanishSpan": "kappóret"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02030006015"
+      ],
+      "issue": "Niphal 1cs of H3259 is rendered with reflexive me citaré, which fixes a middle/reflexive reading and uses an uncertain Spanish verb.",
+      "spanishSpan": "me citaré"
+    }
+  ],
+  "notes": "Other tokens match: Y lo darás, delante de, que sobre, arca del testimonio, el testimonio, a ti, allá.",
+  "discardedUncitedFindings": 0
+}

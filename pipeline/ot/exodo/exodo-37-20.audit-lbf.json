@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:20",
+  "chapter": 37,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y en la menorá cuatro cálices almendrados, sus manzanas y sus flores.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037020001"
+      ],
+      "issue": "H4501 is a common noun (lampstand); menorá leaves the non-name lemma untranslated.",
+      "spanishSpan": "menorá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037020005"
+      ],
+      "issue": "H3730 is a knob or capital; manzanas adds apples.",
+      "spanishSpan": "manzanas"
+    }
+  ],
+  "notes": "Cuatro, cálices, almendrados, and sus flores match number, passive stem, and the 3fs suffixes.",
+  "discardedUncitedFindings": 0
+}

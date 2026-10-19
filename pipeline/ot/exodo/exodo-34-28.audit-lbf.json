@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:28",
+  "chapter": 34,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue allí con Jehová cuarenta día y cuarenta noche; pan no comió, y aguas no bebió; y escribió sobre las tablas las palabras del pacto, los diez las palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034028021",
+        "h02034028022"
+      ],
+      "issue": "Singular construct cardinal with no article of its own (עֲשֶׂרֶת) governing definite הַדְּבָרִים licenses 'ten of the words'. 'los diez las palabras' adds a plural article on the cardinal and juxtaposes two definite phrases, leaving the construct relation unexpressed.",
+      "spanishSpan": "los diez las palabras"
+    }
+  ],
+  "notes": "Elsewhere number, person, qal, Jehová, plural aguas, and both דבר phrases stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

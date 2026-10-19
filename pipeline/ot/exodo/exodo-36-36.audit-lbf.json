@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:36",
+  "chapter": 36,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo a ella cuatro columnas de shitím, y las chapó de oro; sus ganchos de oro, y fundió a ellas cuatro basas de plata.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036036005"
+      ],
+      "issue": "שִׁטִּים is a common noun left untranslated as shitím",
+      "spanishSpan": "shitím"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036036006"
+      ],
+      "issue": "Object suffix is 3mp; las is feminine by agreement with columnas, same participants",
+      "spanishSpan": "las"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036036011"
+      ],
+      "issue": "לָהֶם is 3mp; ellas is feminine by agreement with columnas, same participants",
+      "spanishSpan": "a ellas"
+    }
+  ],
+  "notes": "Verbs, counts, oro twice, and plata match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,58 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:17",
+  "chapter": 37,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo la menorá de oro puro; de martillo hizo la menorá; su muslo y su caña, sus cálices, sus manzanas y sus flores, desde ella fueron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037017003",
+        "h02037017009"
+      ],
+      "issue": "menorá leaves the common noun untranslated; H4501 stays a Spanish common noun",
+      "spanishSpan": "menorá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037017004",
+        "h02037017005"
+      ],
+      "issue": "de supplies a material link on the appositional gold+pure phrase; smoothing, same meaning",
+      "spanishSpan": "de oro puro"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037017006"
+      ],
+      "issue": "martillo names the tool; H4749 is a feminine noun of beaten work, not a hammer",
+      "spanishSpan": "de martillo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037017013"
+      ],
+      "issue": "manzanas adds apples; H3730 licenses a knob or capital, not fruit",
+      "spanishSpan": "sus manzanas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037017015",
+        "h02037017016"
+      ],
+      "issue": "desde ella fueron reads as they went; the tokens license they were from it",
+      "spanishSpan": "desde ella fueron"
+    }
+  ],
+  "notes": "Muslo, singular caña, cálices as cups, flores, and both 3ms hizo clauses match the tokens.",
+  "discardedUncitedFindings": 0
+}

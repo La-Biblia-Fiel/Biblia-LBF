@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:6",
+  "chapter": 32,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y madrugaron desde el día siguiente, y subieron holocaustos, y acercaron pazes, y se sentó el pueblo a comer y a beber, y se levantaron a jugar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032006006"
+      ],
+      "issue": "H8002 is the plural peace-offering noun; pazes only says peaces and drops the offering.",
+      "spanishSpan": "pazes"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032006010"
+      ],
+      "issue": "The second a is an unmarked purpose preposition; the token is waw plus a qal infinitive absolute.",
+      "spanishSpan": "a beber"
+    }
+  ],
+  "notes": "Person, number, and the other stems match the tokens.",
+  "discardedUncitedFindings": 0
+}

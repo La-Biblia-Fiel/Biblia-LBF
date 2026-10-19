@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:24",
+  "chapter": 32,
+  "verse": 24,
+  "candidateLabel": "pulir",
+  "spanish": "Y dije a ellos: ¿A quién oro? ¡Arránquense! Y me dieron, y los arrojé en el fuego, y salió este becerro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032024003",
+        "h02032024004"
+      ],
+      "issue": "¿A quién oro? is the 1cs question of orar (I pray). The tokens are a verbless לְמִי זָהָב, to whom + the noun gold; prayer is not licensed and gold is not secured.",
+      "spanishSpan": "¿A quién oro?"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032024009"
+      ],
+      "issue": "el marks fuego as definite. The token is a preposition plus a common singular absolute noun, with no article in the morphology.",
+      "spanishSpan": "el fuego"
+    }
+  ],
+  "notes": "Person, number, and stem otherwise match: 1cs dije, 3mp a ellos, hithpael 2mp Arránquense, 3mp dieron, 1cs los arrojé, 3ms salió este becerro.",
+  "discardedUncitedFindings": 0
+}

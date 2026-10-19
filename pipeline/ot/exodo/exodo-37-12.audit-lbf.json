@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:12",
+  "chapter": 37,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo a ella marco de palmo alrededor, e hizo moldura de oro a su marco alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037012002"
+      ],
+      "issue": "The preposition suffix is 3rd masculine singular; Spanish a ella marks a feminine indirect object.",
+      "spanishSpan": "a ella"
+    }
+  ],
+  "notes": "The two make-clauses, frame, handbreadth, gold molding, and both arounds stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

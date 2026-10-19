@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:34",
+  "chapter": 32,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Y ahora, anda, guía al pueblo a lo que hablé a ti; he aquí mi ángel andará delante de ti, y en día de mi visitar, visitaré sobre ellos su pecado.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032034011"
+      ],
+      "issue": "ángel narrows the common noun to a celestial being; the lemma and morphology leave the kind of messenger open",
+      "spanishSpan": "ángel"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032034016"
+      ],
+      "issue": "the conjunction on the sequential perfect is not expressed before the verb",
+      "spanishSpan": "visitaré"
+    }
+  ],
+  "notes": "Person, number, the הלך and פקד repetitions, and the construct day are preserved.",
+  "discardedUncitedFindings": 0
+}

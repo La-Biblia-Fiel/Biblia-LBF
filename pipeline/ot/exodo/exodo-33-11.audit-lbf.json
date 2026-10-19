@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:11",
+  "chapter": 33,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y hablaba Jehová a Moisés faces a faces, como que habla varón a su compañero, y volvía al campamento; y su ministro Josué hijo de Nun, joven, no se apartaba desde medio de la tienda.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02033011008"
+      ],
+      "issue": "«como que» en español latinoamericano actual se lee como aproximación o «como si»; כַּאֲשֶׁר es preposición כ más relativo, comparación directa.",
+      "spanishSpan": "como que"
+    }
+  ],
+  "notes": "El resto del verso conserva persona, número, weqatal, imperfecto, sufijo, artículo y los nombres Jehová, Moisés, Josué y Nun.",
+  "discardedUncitedFindings": 0
+}

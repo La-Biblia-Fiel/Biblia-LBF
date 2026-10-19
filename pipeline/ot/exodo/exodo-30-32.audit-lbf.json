@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:32",
+  "chapter": 30,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Sobre carne de hombre no será derramado, y en su proporción no harán como él; santidad él, santidad será a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030032005"
+      ],
+      "issue": "Qal imperfect 3ms is active: the 3ms participant performs the action. «será derramado» is passive, so the stem force changes and that participant becomes the one acted on.",
+      "spanishSpan": "será derramado"
+    }
+  ],
+  "notes": "2mp «harán» and «ustedes» match the plural address; both קדש clauses stay open.",
+  "discardedUncitedFindings": 0
+}

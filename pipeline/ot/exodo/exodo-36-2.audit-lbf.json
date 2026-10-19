@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:2",
+  "chapter": 36,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y llamó Moisés a Betsalel y a Oholiav y a todo varón sabio de corazón, a quien dio Jehová sabiduría en su corazón, a todo al que lo alzó su corazón a acercarse a la obra a hacerla.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036002017",
+        "h02036002018"
+      ],
+      "issue": "«a todo al que» adds a preposition and an article to bare כֹּל אֲשֶׁר, which has no אל and no article; it still reads as the same called group.",
+      "spanishSpan": "a todo al que"
+    }
+  ],
+  "notes": "Roles, number, and both infinitives match the tokens; «lo» resumes the suffix on נשאו.",
+  "discardedUncitedFindings": 0
+}

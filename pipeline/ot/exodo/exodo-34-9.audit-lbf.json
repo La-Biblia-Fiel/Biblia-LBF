@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:9",
+  "chapter": 34,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo: Si ahora hallé favor en tus ojos, Señor mío, ande ahora Señor mío en medio de nosotros, porque pueblo duro de nuca él, y perdona a nuestra iniquidad y a nuestro pecado, y herédanos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034009003",
+        "h02034009009"
+      ],
+      "issue": "נא is an entreaty particle; each «ahora» adds a temporal now and leaves the request unexpressed.",
+      "spanishSpan": "ahora"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034009017",
+        "h02034009020"
+      ],
+      "issue": "Both verbs are qal perfect 2ms; «perdona» and «herédanos» are imperatives and change that perfect force. Person, number, qal, and the 1cp object stay.",
+      "spanishSpan": "perdona / herédanos"
+    }
+  ],
+  "notes": "Jussive ande, Señor mío, dual ojos, verbless él, and both singular sin nouns match the tokens.",
+  "discardedUncitedFindings": 0
+}

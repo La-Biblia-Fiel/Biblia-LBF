@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:28",
+  "chapter": 32,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "E hicieron hijos de Leví conforme a palabra de Moisés, y cayó desde el pueblo en el día aquel como tres miles varón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032028001",
+        "h02032028002",
+        "h02032028003"
+      ],
+      "issue": "The 3mp verb has sons-of-Levi as its subject (they did/acted). Spanish 'hicieron hijos de Leví' makes hijos the object of hacer, so an unnamed they produce sons of Levi.",
+      "spanishSpan": "hicieron hijos de Leví"
+    }
+  ],
+  "notes": "The rest of the verse keeps the singular fall, from the people, that day, and about three thousands man.",
+  "discardedUncitedFindings": 0
+}

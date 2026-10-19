@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:19",
+  "chapter": 32,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue como que se acercó al campamento, y vio el becerro y danzas, y ardió nariz de Moisés, y arrojó las tablas desde sus manos, y las quebró debajo del monte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032019001",
+        "h02032019002"
+      ],
+      "issue": "וַיְהִי כַּאֲשֶׁר is “and it was when/as” (preposition + relative). “fue como que” reads in current Latin American Spanish as semblance (“it was as if”), so the approach is no longer the temporal circumstance.",
+      "spanishSpan": "fue como que"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032019013",
+        "h02032019014",
+        "h02032019015"
+      ],
+      "issue": "“desde sus manos” adds a source, a body part, and a possessor. The throw clause only licenses throwing the tablets.",
+      "spanishSpan": "desde sus manos"
+    }
+  ],
+  "notes": "Calf, dances, nose of Moses, breaking them, and under the mountain match the packet.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:13",
+  "chapter": 37,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y fundió a ella cuatro anillos de oro, y dio los anillos sobre las cuatro esquinas que a sus cuatro pies.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037013002"
+      ],
+      "issue": "ל֔וֹ is a preposition plus a 3rd-person masculine singular suffix; “a ella” makes that recipient feminine singular.",
+      "spanishSpan": "a ella"
+    }
+  ],
+  "notes": "The other 3ms suffix, on רַגְלָיו, is reflected by sus.",
+  "discardedUncitedFindings": 0
+}

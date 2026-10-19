@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:28",
+  "chapter": 34,
+  "verse": 28,
+  "candidateLabel": "pulir",
+  "spanish": "Y fue allí con Jehová cuarenta días y cuarenta noches; pan no comió, y aguas no bebió; y escribió sobre las tablas las palabras del pacto, las diez palabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034028001",
+        "h02034028002"
+      ],
+      "issue": "«fue allí» is read as motion (ir: went there). H1961 is qal 3ms be/was, and H8033 is the locative there; the tokens do not license going.",
+      "spanishSpan": "fue allí"
+    }
+  ],
+  "notes": "Duration, fasting, writing, tablets, and the repeated «palabras» match the remaining tokens, including plural aguas.",
+  "discardedUncitedFindings": 0
+}

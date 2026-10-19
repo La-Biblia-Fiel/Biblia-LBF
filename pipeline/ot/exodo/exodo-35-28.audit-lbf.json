@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:28",
+  "chapter": 35,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "y el aroma y el aceite a la lumbrera y a aceite de la unción y a incienso de los aromas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035028002",
+        "h02035028009"
+      ],
+      "issue": "«aroma» and «aromas» narrow H1314 (singular fragrant substance) and H5561 (plural) toward smell; the spice/balsam sense is uncertain.",
+      "spanishSpan": "el aroma … los aromas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035028005"
+      ],
+      "issue": "«la» marks definite a prepositional noun that is absolute and has no article (Ncmsa), unlike the articulated nouns beside it.",
+      "spanishSpan": "la lumbrera"
+    }
+  ],
+  "notes": "Order, number, both H8081 nouns, construct chains, and the three ל phrases match the tokens.",
+  "discardedUncitedFindings": 0
+}

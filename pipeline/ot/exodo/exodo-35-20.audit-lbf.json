@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:20",
+  "chapter": 35,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y salió toda congregación de hijos de Israel de delante de Moisés.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035020001",
+        "h02035020003"
+      ],
+      "issue": "Qal wayyiqtol is 3rd masculine plural; salió is singular, smoothed to the singular collective congregación. Same participants.",
+      "spanishSpan": "salió"
+    }
+  ],
+  "notes": "Clause matches the tokens; verb number is Spanish agreement with the collective.",
+  "discardedUncitedFindings": 0
+}

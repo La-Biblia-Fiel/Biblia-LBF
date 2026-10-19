@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:33",
+  "chapter": 30,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Varón que perfume como él, y que dé desde él sobre extraño, y será cortado desde sus pueblos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030033007"
+      ],
+      "issue": "מִמֶּנּוּ is a preposition with a 1st common plural suffix (from us); Spanish «él» is 3rd masculine singular (from him).",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "The other tokens match: varón, que perfume, como él, y que dé, sobre extraño, y será cortado, desde sus pueblos.",
+  "discardedUncitedFindings": 0
+}

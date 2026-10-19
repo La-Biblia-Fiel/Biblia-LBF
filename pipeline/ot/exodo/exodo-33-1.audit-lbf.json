@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:1",
+  "chapter": 33,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y habló Jehová a Moisés: Anda, sube desde este, tú y el pueblo que subiste desde tierra de Egipto, a la tierra que juré a Abraham, a Isaac y a Jacob, diciendo: A tu semilla la daré.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033001022",
+        "h02033001023"
+      ],
+      "issue": "«la» puede duplicar «semilla» como objeto directo de «daré». El ל marca la semilla como destinatario y el sufijo 3fs es otro objeto.",
+      "spanishSpan": "A tu semilla la daré"
+    }
+  ],
+  "notes": "El inventario superficial cubre los tokens; el clítico queda ambiguo entre la semilla y el objeto 3fs.",
+  "discardedUncitedFindings": 0
+}

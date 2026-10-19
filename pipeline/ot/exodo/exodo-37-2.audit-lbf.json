@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:2",
+  "chapter": 37,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y la chapó de oro puro por dentro y por fuera, e hizo a ella moldura de oro alrededor.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037002001"
+      ],
+      "issue": "El sufijo objeto es 3ms; «la» es femenino. Suavizado de género, mismo objeto singular.",
+      "spanishSpan": "la"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037002007"
+      ],
+      "issue": "El sufijo de ל es 3ms; «ella» es femenino. Mismo beneficiario singular.",
+      "spanishSpan": "a ella"
+    }
+  ],
+  "notes": "Oro puro, dentro/fuera, moldura y alrededor quedan dentro de los tokens.",
+  "discardedUncitedFindings": 0
+}

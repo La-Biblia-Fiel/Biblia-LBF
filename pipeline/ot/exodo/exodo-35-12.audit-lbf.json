@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:12",
+  "chapter": 35,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "el arca y sus varas, la kappóret y la parójet del masaj,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035012006"
+      ],
+      "issue": "Common noun (definite feminine singular) is left untranslated as kappóret.",
+      "spanishSpan": "kappóret"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035012008"
+      ],
+      "issue": "Common noun (feminine singular construct) is left untranslated as parójet.",
+      "spanishSpan": "parójet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035012009"
+      ],
+      "issue": "Common noun (definite masculine singular) is left untranslated as masaj.",
+      "spanishSpan": "masaj"
+    }
+  ],
+  "notes": "Arca, plural varas with 3ms sus, asyndeton before the third object, and construct del match the tokens.",
+  "discardedUncitedFindings": 0
+}

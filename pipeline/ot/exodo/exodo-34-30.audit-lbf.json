@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:30",
+  "chapter": 34,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y vio Aarón y todos hijos de Israel a Moisés, y he aquí radiaba piel de sus faces, y temieron de acercarse a él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034030009"
+      ],
+      "issue": "קָרַן is qal perfect 3ms; «radiaba» is imperfect and adds ongoing aspect the perfect does not mark.",
+      "spanishSpan": "radiaba"
+    }
+  ],
+  "notes": "Names, participants, number, and clause roles otherwise match the packet.",
+  "discardedUncitedFindings": 0
+}

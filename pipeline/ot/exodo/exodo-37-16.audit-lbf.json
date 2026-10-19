@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:16",
+  "chapter": 37,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo los utensilios que sobre la mesa: sus platos y sus cucharas y sus jarras y los tazones con que se derrama en ellas, oro puro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037016012"
+      ],
+      "issue": "jarras names a jug; מְנַקִּיֹּתָיו (H4518) is a bowl",
+      "spanishSpan": "sus jarras"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037016014"
+      ],
+      "issue": "tazones names a bowl; הַקְּשָׂוֹת (H7184) is a jug",
+      "spanishSpan": "los tazones"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037016015",
+        "h02037016016",
+        "h02037016017"
+      ],
+      "issue": "con que plus en ellas adds a second relation; the clause has only אשר, hophal יֻסַּךְ, and one preposition בָּהֵן",
+      "spanishSpan": "con que se derrama en ellas"
+    }
+  ],
+  "notes": "Possession, articles, hophal singular, and זהב טהור match the tokens.",
+  "discardedUncitedFindings": 0
+}

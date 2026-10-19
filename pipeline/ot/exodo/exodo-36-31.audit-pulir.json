@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:31",
+  "chapter": 36,
+  "verse": 31,
+  "candidateLabel": "pulir",
+  "spanish": "Y hizo travesaños maderas de acacia: cinco a las tablas del costado del tabernáculo el uno,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036031002",
+        "h02036031003"
+      ],
+      "issue": "Construct בריחי עצי licenses bars-of woods; Spanish juxtaposes the two nouns and omits that of-relation.",
+      "spanishSpan": "travesaños maderas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036031009",
+        "h02036031007"
+      ],
+      "issue": "האחת is feminine singular and agrees with צלע, not with masculine המשכן; el uno is masculine and can attach to costado or tabernáculo.",
+      "spanishSpan": "el uno"
+    }
+  ],
+  "notes": "Y hizo, cinco, a las tablas, del costado, del tabernáculo, and acacia match the other tokens.",
+  "discardedUncitedFindings": 0
+}

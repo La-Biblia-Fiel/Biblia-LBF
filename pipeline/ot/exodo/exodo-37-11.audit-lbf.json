@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:11",
+  "chapter": 37,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y la chapó de oro puro, e hizo a ella moldura de oro alrededor.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037011002",
+        "h02037011006"
+      ],
+      "issue": "The 3ms object and beneficiary suffixes are rendered with feminine Spanish pronouns. Grammatical gender smoothing; number, person, and participant stay the same.",
+      "spanishSpan": "la … a ella"
+    }
+  ],
+  "notes": "Overlay, pure gold, making, gold border, and around match the tokens.",
+  "discardedUncitedFindings": 0
+}

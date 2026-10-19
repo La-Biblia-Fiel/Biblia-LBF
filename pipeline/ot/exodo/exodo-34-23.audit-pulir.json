@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:23",
+  "chapter": 34,
+  "verse": 23,
+  "candidateLabel": "pulir",
+  "spanish": "Tres veces en el año será visto todo tu varón rostro del señor Jehová Dios de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034023007",
+        "h02034023008",
+        "h02034023009"
+      ],
+      "issue": "את marks פְּנֵי הָאָדֹן as the niphal complement, and פְּנֵי is plural construct made definite by the article on אָדוֹן. Bare singular rostro is grammatical smoothing of that face-complement.",
+      "spanishSpan": "rostro del señor"
+    }
+  ],
+  "notes": "Tres veces en el año, niphal 3ms será visto, singular todo tu varón, Jehová, and Dios de Israel match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:9",
+  "chapter": 33,
+  "verse": 9,
+  "candidateLabel": "pulir",
+  "spanish": "Y era como entrar Moisés a la tienda, descendía columna de la nube, y se paraba en la abertura de la tienda, y hablaba con Moisés.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033009006",
+        "h02033009007"
+      ],
+      "issue": "The construct chain with definite הֶעָנָן is definite, while bare “columna” can read as indefinite.",
+      "spanishSpan": "columna de la nube"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033009008",
+        "h02033009009"
+      ],
+      "issue": "Unmarked “en” smooths the bare place complement of עמד plus פֶּתַח; no preposition token is present.",
+      "spanishSpan": "en"
+    }
+  ],
+  "notes": "Habitual imperfects match יֵרֵד and the following sequential perfects; the named participants and speech phrase stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

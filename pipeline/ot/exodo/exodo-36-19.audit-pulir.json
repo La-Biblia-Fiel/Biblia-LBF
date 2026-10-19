@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:19",
+  "chapter": 36,
+  "verse": 19,
+  "candidateLabel": "pulir",
+  "spanish": "Y hizo cubierta para la tienda, de pieles de carneros enrojecidas, y cubierta de pieles de tahash desde arriba.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036019009"
+      ],
+      "issue": "Common noun, masculine plural absolute (H8476), left as the untranslated lemma tahash; the plural is not expressed.",
+      "spanishSpan": "tahash"
+    }
+  ],
+  "notes": "The other tokens match in person, number, and stem, including the passive plural participle.",
+  "discardedUncitedFindings": 0
+}

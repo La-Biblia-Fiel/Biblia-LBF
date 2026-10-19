@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:10",
+  "chapter": 36,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y juntó las cinco cortinas una a una, y cinco cortinas juntó una a una.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036010001",
+        "h02036010010"
+      ],
+      "issue": "Sequential imperfect and perfect are both preterite juntó; aspect is smoothed while person, number, and piel stem stay.",
+      "spanishSpan": "juntó"
+    }
+  ],
+  "notes": "Five the-curtains one to one, and five curtains one to one, match the tokens.",
+  "discardedUncitedFindings": 0
+}

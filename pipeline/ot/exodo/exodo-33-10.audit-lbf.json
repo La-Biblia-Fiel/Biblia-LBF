@@ -1,0 +1,38 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:10",
+  "chapter": 33,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y veía todo el pueblo la columna de la nube parada abertura de la tienda, y se levantaba todo el pueblo, y se postraban, varón abertura de su tienda.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033010001",
+        "h02033010010",
+        "h02033010013"
+      ],
+      "issue": "Sequential perfects are rendered as imperfects, so the actions read as ongoing or habitual.",
+      "spanishSpan": "veía … se levantaba … se postraban"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033010007",
+        "h02033010008",
+        "h02033010009",
+        "h02033010014",
+        "h02033010015",
+        "h02033010016"
+      ],
+      "issue": "The opening is only juxtaposed after the standing participle and after the man, so its place role is not expressed.",
+      "spanishSpan": "parada abertura de la tienda … varón abertura de su tienda"
+    }
+  ],
+  "notes": "Participants, number, repetition, and lexical content match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 35:11",
+  "chapter": 35,
+  "verse": 11,
+  "sourceDraft": "el mishkán, su tienda y su cubierta, sus ganchos y sus tablas, sus travesaños, sus columnas y sus basas,",
+  "spanish": "el tabernáculo, su tienda y su cubierta, sus ganchos y sus tablas, sus barras, sus columnas y sus basas,",
+  "units": [
+    {
+      "es": "el tabernáculo",
+      "sourceTokenIds": [
+        "h02035011001",
+        "h02035011002"
+      ]
+    },
+    {
+      "es": "su tienda",
+      "sourceTokenIds": [
+        "h02035011003",
+        "h02035011004"
+      ]
+    },
+    {
+      "es": "y su cubierta",
+      "sourceTokenIds": [
+        "h02035011005",
+        "h02035011006"
+      ]
+    },
+    {
+      "es": "sus ganchos",
+      "sourceTokenIds": [
+        "h02035011007",
+        "h02035011008"
+      ]
+    },
+    {
+      "es": "y sus tablas",
+      "sourceTokenIds": [
+        "h02035011009",
+        "h02035011010"
+      ]
+    },
+    {
+      "es": "sus barras",
+      "sourceTokenIds": [
+        "h02035011011",
+        "h02035011012"
+      ]
+    },
+    {
+      "es": "sus columnas",
+      "sourceTokenIds": [
+        "h02035011013",
+        "h02035011014"
+      ]
+    },
+    {
+      "es": "y sus basas",
+      "sourceTokenIds": [
+        "h02035011015",
+        "h02035011016"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated mishkán (H4908, common noun with article) as tabernáculo instead of leaving the Hebrew lemma untranslated.",
+    "Replaced travesaños with barras for H1280, since the morphology marks only a bar and does not mark transverse orientation."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

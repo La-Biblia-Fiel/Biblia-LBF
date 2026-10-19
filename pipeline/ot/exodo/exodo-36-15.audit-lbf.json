@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:15",
+  "chapter": 36,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Largo de la cortina la una: treinta en el codo, y cuatro codos el ancho de la cortina la una; medida una a las once cortinas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036015013",
+        "h02036015015"
+      ],
+      "issue": "las marks the eleven curtains as definite; the lamed is a bare preposition (HR, not HRd) and the curtain noun is absolute plural with no article.",
+      "spanishSpan": "las"
+    }
+  ],
+  "notes": "Length, both the-one curtain phrases, thirty in the (definite) singular cubit, and four plural cubits match the tokens.",
+  "discardedUncitedFindings": 0
+}

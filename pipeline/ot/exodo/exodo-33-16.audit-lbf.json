@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:16",
+  "chapter": 33,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "¿Y en qué será conocido entonces que hallé favor en tus ojos, yo y tu pueblo? ¿No en tu andar con nosotros? Y seremos distinguidos yo y tu pueblo desde todo el pueblo que sobre faz del suelo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033016016"
+      ],
+      "issue": "מִן is rendered as desde, which marks a point of origin; with the niphal it marks the set from which the speakers are set apart.",
+      "spanishSpan": "desde"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033016020",
+        "h02033016021"
+      ],
+      "issue": "Plural construct פְּנֵי in the definite chain with הָאֲדָמָה is bare singular faz, smoothing number and definiteness.",
+      "spanishSpan": "faz"
+    }
+  ],
+  "notes": "Persons, stems, and the repeated yo y tu pueblo match the tokens.",
+  "discardedUncitedFindings": 0
+}

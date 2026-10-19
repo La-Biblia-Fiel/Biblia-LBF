@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:5",
+  "chapter": 36,
+  "verse": 5,
+  "candidateLabel": "pulir",
+  "spanish": "Y dijeron a Moisés, diciendo: El pueblo multiplica a traer, más que bastancia del servicio para la obra que mandó Jehová a hacerla.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036005005",
+        "h02036005006"
+      ],
+      "issue": "Hiphil participle is masculine plural; the Spanish verb is singular, agreeing with the collective singular pueblo. Participants are unchanged.",
+      "spanishSpan": "multiplica"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036005008"
+      ],
+      "issue": "min plus the construct noun of sufficiency is read as comparative excess (más que); an ablative from/of reading stays open in the morphology. bastancia matches the sufficiency noun.",
+      "spanishSpan": "más que"
+    }
+  ],
+  "notes": "Quote frame, Moisés, Jehová, hiphil traer, piel mandó, and 3fs hacerla stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

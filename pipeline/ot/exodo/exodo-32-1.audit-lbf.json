@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:1",
+  "chapter": 32,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y vio el pueblo que se demoraba Moisés a descender desde el monte, y se congregó el pueblo sobre Aarón, y dijeron a él: Levántate, haz a nosotros dioses que anden delante de nosotros, porque este Moisés, el varón que nos subió desde tierra de Egipto, no conocimos qué fue a él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032001004"
+      ],
+      "issue": "Polel perfect is rendered as ongoing Spanish imperfect; delay is within the lemma, aspect is smoothed.",
+      "spanishSpan": "se demoraba"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032001033",
+        "h02032001034"
+      ],
+      "issue": "fue can be read as ir (went) with a él; היה is be/become and לו stays to/for him.",
+      "spanishSpan": "fue a él"
+    }
+  ],
+  "notes": "Plural dioses matches the plural imperfect; Egipto is the conventional name.",
+  "discardedUncitedFindings": 0
+}

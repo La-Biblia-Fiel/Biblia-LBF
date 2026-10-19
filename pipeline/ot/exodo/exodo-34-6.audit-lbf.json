@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:6",
+  "chapter": 34,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y pasó Jehová sobre sus faces, y llamó: Jehová, Jehová, Dios clemente y misericordioso, largo de narices y mucho de misericordia y verdad,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034006009",
+        "h02034006010"
+      ],
+      "issue": "H7349 (compassionate) precedes H2587 (gracious); «clemente» fits the gracious adjective and «misericordioso» the compassionate one, so the Spanish order may reverse the two tokens.",
+      "spanishSpan": "clemente y misericordioso"
+    }
+  ],
+  "notes": "Remaining Spanish matches the tokens, including the dual nostrils kept as narices and both construct phrases.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:11",
+  "chapter": 36,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo lazos de azul sobre el labio de la cortina la una desde el extremo en la juntura; así hizo en el labio de la cortina la extrema en la juntura la segunda.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036011008"
+      ],
+      "issue": "«el extremo» adds a definite article; מקצה has none. Spanish grammatical smoothing that does not change the meaning.",
+      "spanishSpan": "el extremo"
+    }
+  ],
+  "notes": "Plural loops, על/ב, cardinal una, outermost extrema, and ordinal segunda match the tokens.",
+  "discardedUncitedFindings": 0
+}

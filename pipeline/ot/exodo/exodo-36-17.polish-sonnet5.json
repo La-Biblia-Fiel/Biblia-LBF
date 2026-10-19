@@ -1,0 +1,46 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 36:17",
+  "chapter": 36,
+  "verse": 17,
+  "sourceDraft": "Y hizo cincuenta lazos sobre el labio de la cortina la extrema en la juntura, y cincuenta lazos hizo sobre el labio de la cortina en la juntura la segunda.",
+  "spanish": "Y hizo cincuenta lazos sobre el labio de la cortina la extrema en la juntura, y cincuenta lazos hizo sobre el labio de la cortina la juntura la segunda.",
+  "units": [
+    {
+      "es": "Y hizo cincuenta lazos sobre el labio de la cortina la extrema en la juntura,",
+      "sourceTokenIds": [
+        "h02036017001",
+        "h02036017002",
+        "h02036017003",
+        "h02036017004",
+        "h02036017005",
+        "h02036017006",
+        "h02036017007",
+        "h02036017008"
+      ]
+    },
+    {
+      "es": "y cincuenta lazos hizo sobre el labio de la cortina la juntura la segunda.",
+      "sourceTokenIds": [
+        "h02036017009",
+        "h02036017010",
+        "h02036017011",
+        "h02036017012",
+        "h02036017013",
+        "h02036017014",
+        "h02036017015",
+        "h02036017016"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Removed the supplied preposition \"en\" before \"la juntura la segunda\" in the second clause: tokens h02036017014-016 (la cortina, la juntura, la segunda) carry no preposition in the Hebrew; only the first clause's h02036017008 (bammachberet) is governed by a preposition."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

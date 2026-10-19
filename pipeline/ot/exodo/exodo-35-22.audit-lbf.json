@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:22",
+  "chapter": 35,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y vinieron los varones sobre las mujeres; todo generoso de corazón trajeron broche y zarcillo y anillo y collar, todo utensilio de oro, y todo varón que balanceó balanceo de oro a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035022006"
+      ],
+      "issue": "\"generoso\" selects the liberal sense of נדיב; the adjective also licenses willing/voluntary.",
+      "spanishSpan": "generoso"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035022009"
+      ],
+      "issue": "\"broche\" narrows חָח (hook/ring/clasp) to a brooch.",
+      "spanishSpan": "broche"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035022010"
+      ],
+      "issue": "\"zarcillo\" specifies an earring; נֶזֶם is a ring whose place (nose or ear) the lemma leaves open.",
+      "spanishSpan": "zarcillo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035022012"
+      ],
+      "issue": "\"collar\" specifies a necklace; כּוּמָז is an unidentified gold ornament.",
+      "spanishSpan": "collar"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035022014"
+      ],
+      "issue": "\"utensilio\" leans toward a tool; כְּלִי also denotes a vessel or article.",
+      "spanishSpan": "utensilio"
+    }
+  ],
+  "notes": "Jehová, sobre, and the cognate balanceó/balanceo stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

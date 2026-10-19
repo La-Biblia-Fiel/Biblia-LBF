@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:4",
+  "chapter": 30,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y dos anillos de oro harás a él desde debajo a su moldura, sobre dos sus costados harás, sobre dos sus lados, y será a casas a las varas para alzar a él en ellas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02030004017"
+      ],
+      "issue": "לְבַדִּים is an absolute plural with no article; las adds definiteness. The parallel לְבָתִּים is rendered without an article.",
+      "spanishSpan": "las varas"
+    }
+  ],
+  "notes": "Duals, repeated תעשה, literal בתים, and 3ms suffixes stay open and matched.",
+  "discardedUncitedFindings": 0
+}

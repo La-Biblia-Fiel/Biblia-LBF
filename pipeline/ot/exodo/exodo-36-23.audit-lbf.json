@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:23",
+  "chapter": 36,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo las tablas al mishkán: veinte tablas al lado de Negev, al Temán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036023004"
+      ],
+      "issue": "Common noun H4908 is left untranslated as mishkán.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036023008"
+      ],
+      "issue": "Common noun H5045 is rendered as the proper name Negev, closing the open south/region sense.",
+      "spanishSpan": "Negev"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036023009"
+      ],
+      "issue": "Common noun H8486 with directional suffix is rendered as the proper name Temán, closing the open southward sense.",
+      "spanishSpan": "al Temán"
+    }
+  ],
+  "notes": "The 3ms qal wayyiqtol, definite then indefinite boards, and twenty match the tokens.",
+  "discardedUncitedFindings": 0
+}

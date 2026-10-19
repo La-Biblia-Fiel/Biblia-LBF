@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:33",
+  "chapter": 35,
+  "verse": 33,
+  "candidateLabel": "pulir",
+  "spanish": "y en el labrado de piedra a engastar, y en el labrado de madera, para hacer en toda obra de pensamiento.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035033003"
+      ],
+      "issue": "Piel infinitive of llenar (H4390) is rendered as engastar, a gem-setting action the lemma and stem do not license.",
+      "spanishSpan": "a engastar"
+    }
+  ],
+  "notes": "The other tokens, including the repeated construct and the singulars, stay within the packet.",
+  "discardedUncitedFindings": 0
+}

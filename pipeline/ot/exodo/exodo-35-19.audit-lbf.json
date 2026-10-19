@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:19",
+  "chapter": 35,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "los vestidos del servicio para ministrar en el santo, los vestidos de la santidad a Aarón el sacerdote, y los vestidos de sus hijos para sacerdotear.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035019003"
+      ],
+      "issue": "הַשְּׂרָד (H8278) is a separate noun (plaited or stitched work, otherwise open). \"servicio\" adds the concept of service and closes that lemma.",
+      "spanishSpan": "del servicio"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02035019005"
+      ],
+      "issue": "בַּקֹּדֶשׁ is the masculine noun holiness or holy place. In current Latin American Spanish \"el santo\" can be read as a holy person.",
+      "spanishSpan": "en el santo"
+    }
+  ],
+  "notes": "Object markers stay unexpressed; Aarón, el sacerdote, sus hijos, ministrar, and sacerdotear match their tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 31:11",
+  "chapter": 31,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "y el aceite de la unción y el incienso de los aromas al santo; conforme a todo lo que te mandé harán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031011006"
+      ],
+      "issue": "“aromas” names scents; הסמים is a definite masculine plural noun for the spice substances.",
+      "spanishSpan": "los aromas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031011007"
+      ],
+      "issue": "“al santo” reads as a person; לקדש is a common noun of holiness or a holy thing, not a personal saint.",
+      "spanishSpan": "al santo"
+    }
+  ],
+  "notes": "Conjunction, construct definiteness, ככל אשר, piel 1cs+2ms, and qal imperfect 3mp otherwise match.",
+  "discardedUncitedFindings": 0
+}

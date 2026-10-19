@@ -1,0 +1,27 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:38",
+  "chapter": 36,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "y sus columnas cinco y sus ganchos, y chapó sus cabezas y sus fajas de oro, y sus basas cinco de bronce.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036038002",
+        "h02036038005",
+        "h02036038007",
+        "h02036038008",
+        "h02036038010"
+      ],
+      "issue": "«sus» smooths the 3ms suffix on the columns and the 3mp suffixes on the hooks, heads, bands, and bases into one possessive; possessor number is not marked.",
+      "spanishSpan": "sus"
+    }
+  ],
+  "notes": "DOM את is untranslated; chapó matches piel perfect 3ms; five, gold, and bronze stay in place.",
+  "discardedUncitedFindings": 0
+}

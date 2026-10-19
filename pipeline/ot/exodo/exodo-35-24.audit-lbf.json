@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:24",
+  "chapter": 35,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Todo alzante ofrenda de plata y bronce trajeron la ofrenda de Jehová, y todo al que fue hallado con él maderas de shitím a toda obra del servicio trajeron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035024015"
+      ],
+      "issue": "שִׁטִּים is a common noun (not a proper name); shitím leaves that lemma untranslated instead of Spanish.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "The other tokens match in participants, number, stem, repetition, and Jehová.",
+  "discardedUncitedFindings": 0
+}

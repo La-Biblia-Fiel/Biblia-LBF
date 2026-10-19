@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:16",
+  "chapter": 36,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y juntó las cinco cortinas a solas, y las seis cortinas a solas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036016005",
+        "h02036016009"
+      ],
+      "issue": "לְבָד marks each curtain group as by itself, apart from the other. «a solas» instead puts the joining in solitude and drops that separation.",
+      "spanishSpan": "a solas"
+    }
+  ],
+  "notes": "juntó, las cinco/seis cortinas, and the repeated objects match the verb, article, numerals, and noun.",
+  "discardedUncitedFindings": 0
+}

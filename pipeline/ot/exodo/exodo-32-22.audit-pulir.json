@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:22",
+  "chapter": 32,
+  "verse": 22,
+  "candidateLabel": "pulir",
+  "spanish": "Y dijo Aarón: No arda la ira de mi señor; tú conociste al pueblo, que en mal *está* él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032022005"
+      ],
+      "issue": "Morph HTa is affirmation while lemma H639 licenses nariz/ira; \"ira\" follows the noun and leaves affirmation and nariz unexpressed.",
+      "spanishSpan": "ira"
+    }
+  ],
+  "notes": "Jussive, tú conociste al pueblo, and the marked copula in the verbless clause match the tokens.",
+  "discardedUncitedFindings": 0
+}

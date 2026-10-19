@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:4",
+  "chapter": 32,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomó desde su mano, y lo formó con el buril, y lo hizo becerro de fundición, y dijeron: Estos tus dioses, Israel, que te subieron desde tierra de Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032004002"
+      ],
+      "issue": "The suffix is 3mp on a singular hand (from their hand); «su mano» reads as the 3ms subject's own hand.",
+      "spanishSpan": "su mano"
+    }
+  ],
+  "notes": "Other clauses preserve person, number, hiphil, plural dioses, and Egipto.",
+  "discardedUncitedFindings": 0
+}

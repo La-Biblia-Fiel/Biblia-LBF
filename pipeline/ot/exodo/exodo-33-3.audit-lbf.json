@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 33:3",
+  "chapter": 33,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "a tierra manante leche y miel, porque no subiré en medio de ti, porque pueblo duro de nuca tú, no sea que te consuma en el camino.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02033003016"
+      ],
+      "issue": "Piel imperfect 1cs with a 2ms suffix licenses the speaker as the one who consumes you. te consuma matches the object and the transitive end-force, but the subjunctive form is also 3rd person when yo is absent.",
+      "spanishSpan": "te consuma"
+    }
+  ],
+  "notes": "The other tokens match, including the verbless pueblo duro de nuca tú without an unmarked copula.",
+  "discardedUncitedFindings": 0
+}

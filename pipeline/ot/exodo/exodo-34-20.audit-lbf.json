@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:20",
+  "chapter": 34,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y abridor de asno redimirás con cordero, y si no redimirás, le romperás la nuca; todo primogénito de tus hijos redimirás, y no se verán mis faces vacíos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034020016",
+        "h02034020015",
+        "h02034020014"
+      ],
+      "issue": "רֵיקָם is an adverb of manner. vacíos is a plural adjective with mis faces, so emptiness is a property of the faces rather than the manner of the niphal being seen.",
+      "spanishSpan": "vacíos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034020004"
+      ],
+      "issue": "שֶׂה is a common-gender flock animal. cordero narrows it to a young male sheep.",
+      "spanishSpan": "cordero"
+    }
+  ],
+  "notes": "Person, number, the three פדה clauses, and the construct chains otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

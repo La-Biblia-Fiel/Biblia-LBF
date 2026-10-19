@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:1",
+  "chapter": 36,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo Betsalel y Oholiav y todo varón sabio de corazón, a quien dio Jehová sabiduría e inteligencia en ellos, para saber hacer toda obra de servicio del santo, conforme a todo lo que mandó Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036001020"
+      ],
+      "issue": "הַקֹּדֶשׁ is a common noun (holiness/sacredness). \"del santo\" reads as a masculine person, a participant the token does not license.",
+      "spanishSpan": "del santo"
+    }
+  ],
+  "notes": "The rest tracks the tokens: singular עָשָׂה, resumptive בָּהֵמָּה, and both infinitives.",
+  "discardedUncitedFindings": 0
+}

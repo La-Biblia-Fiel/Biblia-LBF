@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:23",
+  "chapter": 35,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y todo varón que fue hallado con él azul y púrpura y carmesí y lino fino y cabras, y pieles de carneros enrojecidas y pieles de tahash, trajeron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035023010"
+      ],
+      "issue": "The token is a feminine cardinal; «lino fino» states fine linen.",
+      "spanishSpan": "lino fino"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035023016"
+      ],
+      "issue": "Masculine plural common noun left as the singular transliteration «tahash».",
+      "spanishSpan": "tahash"
+    }
+  ],
+  "notes": "Niphal «fue hallado», resumptive «con él», and plural «trajeron» with singular «todo varón» match the token morphology.",
+  "discardedUncitedFindings": 0
+}

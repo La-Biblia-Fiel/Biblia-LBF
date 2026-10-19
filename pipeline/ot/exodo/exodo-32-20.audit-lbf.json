@@ -1,0 +1,49 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:20",
+  "chapter": 32,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomó el becerro que hicieron, y lo quemó en el fuego, y lo molió hasta fino, y esparció sobre faz de las aguas, e hizo beber a hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032020006"
+      ],
+      "issue": "«lo» is an unmarked supplied object. The burn verb has no object suffix or object noun, so the pronoun resolves the ellipsis by identifying the calf as what was burned.",
+      "spanishSpan": "lo quemó"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02032020008"
+      ],
+      "issue": "«lo» is an unmarked supplied object. The grind verb has no object suffix or object noun, so the pronoun resolves the ellipsis by identifying the calf as what was ground.",
+      "spanishSpan": "lo molió"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032020009",
+        "h02032020010",
+        "h02032020011"
+      ],
+      "issue": "עַד אֲשֶׁר plus qal perfect 3ms is a finite clause. «hasta fino» drops the relative and renders that verb as an adjective.",
+      "spanishSpan": "hasta fino"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032020014"
+      ],
+      "issue": "Plural construct פני is smoothed to singular faz; the sense remains one face or surface.",
+      "spanishSpan": "faz"
+    }
+  ],
+  "notes": "3ms sequence, 3cp hicieron, en el fuego, hiphil hizo beber, and hijos de Israel stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

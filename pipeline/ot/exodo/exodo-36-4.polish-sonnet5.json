@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 36:4",
+  "chapter": 36,
+  "verse": 4,
+  "sourceDraft": "Y vinieron todos los sabios, los haciendo toda obra del santo, varón por varón de su obra que ellos hacían.",
+  "spanish": "Y vinieron todos los sabios, los que hacían toda obra de lo santo, varón por varón desde su obra que ellos hacían.",
+  "units": [],
+  "grammarChanges": [
+    "del santo -> de lo santo: הַקֹּדֶשׁ is a definite common/abstract noun (the holy thing), not a masculine person; 'lo santo' keeps it a common noun without naming a person.",
+    "los haciendo -> los que hacían: the bare article+gerund was ungrammatical; 'los que hacían' gives the definite qal participle a proper relative clause, same durative force as the main verb.",
+    "de su obra -> desde su obra: מִן marks source ('from his work'); 'desde' keeps that source sense instead of reading as a possessive genitive."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Rendered הַקֹּדֶשׁ as the abstract noun 'lo santo' rather than 'el santo' (a person), since the auditor flagged the personification as a mismatch.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

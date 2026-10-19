@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 31:8",
+  "chapter": 31,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "y la mesa y sus utensilios, y la menorá la pura y todos sus utensilios, y altar del incienso,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031008006"
+      ],
+      "issue": "menorá transliterates the common noun; the token is not a proper name and requires a Spanish common noun",
+      "spanishSpan": "menorá"
+    }
+  ],
+  "notes": "The other tokens match in conjunctions, definiteness, number, and possessors.",
+  "discardedUncitedFindings": 0
+}

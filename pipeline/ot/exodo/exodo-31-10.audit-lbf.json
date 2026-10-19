@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 31:10",
+  "chapter": 31,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "y los vestidos del servicio, y los vestidos de la santidad a Aarón el sacerdote, y los vestidos de sus hijos para sacerdotear,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02031010003"
+      ],
+      "issue": "H8278 is a definite singular noun whose lemma stays open between service and plaited or woven work; «servicio» selects only the service sense.",
+      "spanishSpan": "del servicio"
+    }
+  ],
+  "notes": "Conjunctions, plural garments, holiness, Aarón the priest, his sons, and the piel infinitive match the tokens.",
+  "discardedUncitedFindings": 0
+}

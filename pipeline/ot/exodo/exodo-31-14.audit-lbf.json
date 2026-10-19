@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 31:14",
+  "chapter": 31,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y guardarán el shabat, porque santidad ella a ustedes; sus profanadores de morir morirán, porque todo el haciendo en ella obra, y será cortada esa alma desde medio de sus pueblos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031014003"
+      ],
+      "issue": "Common noun left untranslated as a Hebraized transliteration; morphology is a common noun, not a proper name.",
+      "spanishSpan": "shabat"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031014009",
+        "h02031014010"
+      ],
+      "issue": "Unmarked de has no token. Finite verb is hophal imperfect 3ms (be put to death); Spanish makes it plural and active.",
+      "spanishSpan": "de morir morirán"
+    }
+  ],
+  "notes": "2mp guardarán with a ustedes is ustedes address, not a third-party shift.",
+  "discardedUncitedFindings": 0
+}

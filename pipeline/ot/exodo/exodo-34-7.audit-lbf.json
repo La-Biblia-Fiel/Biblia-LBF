@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:7",
+  "chapter": 34,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "guardante misericordia a miles, alzante iniquidad y delito y pecado, y dejando limpio no dejará limpio; visitante iniquidad de padres sobre hijos y sobre hijos de hijos, sobre terceros y sobre cuartos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034007008",
+        "h02034007010"
+      ],
+      "issue": "Piel infinitive absolute plus imperfect is smoothed as a gerund plus future. Repetition, piel factitive force, negation, and 3ms person stay; the infinitive is not a qal participle.",
+      "spanishSpan": "dejando limpio no dejará limpio"
+    }
+  ],
+  "notes": "Participles, the sin triad, thousands, and the sons-to-fourths chain match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:18",
+  "chapter": 34,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "La fiesta de los panes ázimos guardarás; siete días comerás panes ázimos que te mandé, al tiempo de mes del Aviv, porque en mes del Aviv saliste desde Egipto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034018011"
+      ],
+      "issue": "לְמוֹעֵד (appointed time / fixed season, construct) is rendered as generic tiempo; the appointment is softened.",
+      "spanishSpan": "al tiempo"
+    }
+  ],
+  "notes": "Person, number, both מצות phrases, articles, כי, and Egipto match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:6",
+  "chapter": 36,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y mandó Moisés, y hicieron pasar voz en el campamento, diciendo: Varón y mujer, no hagan aún obra para ofrenda del santo. Y fue detenido el pueblo de traer.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036006009",
+        "h02036006011"
+      ],
+      "issue": "אַל with עוֹד licenses stopping the work (no longer / not further). «no … aún» states that the work is not yet to be done.",
+      "spanishSpan": "no hagan aún"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036006010"
+      ],
+      "issue": "Qal jussive 3mp. After the vocative comma, «no hagan» reads as an ustedes command; the people prohibited are still varón y mujer.",
+      "spanishSpan": "Varón y mujer, no hagan"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036006014"
+      ],
+      "issue": "הַקֹּדֶשׁ is a common noun of holiness / what is set apart. «el santo» can be heard as a holy person.",
+      "spanishSpan": "del santo"
+    }
+  ],
+  "notes": "Other tokens match in number, stem, and participants.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:19",
+  "chapter": 32,
+  "verse": 19,
+  "candidateLabel": "pulir",
+  "spanish": "Y sucedió que, cuando se acercó al campamento, vio el becerro y danzas, y ardió nariz de Moisés, y arrojó las tablas, y las quebró debajo del monte.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032019001",
+        "h02032019002"
+      ],
+      "issue": "Unmarked \"que\" is supplied between ויהי and כאשר; smoothing only, no extra concept.",
+      "spanishSpan": "que"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032019011"
+      ],
+      "issue": "Morph HTa is affirmation while lemma H639 licenses nariz/ira; \"nariz\" follows the noun and leaves affirmation and ira unexpressed.",
+      "spanishSpan": "nariz"
+    }
+  ],
+  "notes": "Person, number, definiteness, and the calf, dances, tablets, and mountain match the tokens.",
+  "discardedUncitedFindings": 0
+}

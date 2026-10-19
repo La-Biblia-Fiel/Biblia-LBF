@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:15",
+  "chapter": 37,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo las varas, maderas de shitím, y las chapó de oro, para alzar la mesa.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037015005"
+      ],
+      "issue": "שִׁטִּים (H7848) is a common noun; shitím leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "Apposition, piel overlay, 3mp object, and infinitive purpose otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:23",
+  "chapter": 35,
+  "verse": 23,
+  "candidateLabel": "pulir",
+  "spanish": "Y todo varón que fue hallado con él azul y púrpura y carmesí y lino fino y cabras, y pieles de carneros enrojecidas y pieles de tahashim, trajeron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035023003",
+        "h02035023004",
+        "h02035023005"
+      ],
+      "issue": "אֲשֶׁר נִמְצָא אִתּוֹ is resumptive: the materials were found with the man. Spanish makes the man the one found and él a second male.",
+      "spanishSpan": "que fue hallado con él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035023016"
+      ],
+      "issue": "H8476 is a common noun; tahashim leaves it untranslated and keeps the Hebrew plural.",
+      "spanishSpan": "tahashim"
+    }
+  ],
+  "notes": "Lemma 8336 b licenses lino fino; תּוֹלַעַת שָׁנִי is one material as carmesí.",
+  "discardedUncitedFindings": 0
+}

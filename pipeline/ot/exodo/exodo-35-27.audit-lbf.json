@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:27",
+  "chapter": 35,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y los príncipes trajeron las piedras del shóham y las piedras de los engastes al efod y al joshen,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035027005"
+      ],
+      "issue": "H7718 is a common noun (singular, definite). shóham leaves that lemma untranslated.",
+      "spanishSpan": "shóham"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035027010"
+      ],
+      "issue": "H2833 is a common noun (singular, definite). joshen leaves that lemma untranslated.",
+      "spanishSpan": "joshen"
+    }
+  ],
+  "notes": "Y los príncipes trajeron, both piedras phrases, los engastes, and al efod match conjunction, article, hiphil 3cp, construct stones, and plural H4394.",
+  "discardedUncitedFindings": 0
+}

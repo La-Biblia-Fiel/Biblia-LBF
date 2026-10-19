@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:23",
+  "chapter": 34,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Tres veces en el año será visto todo tu varón faces del Señor Jehová Dios de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034023008",
+        "h02034023007"
+      ],
+      "issue": "Common noun פְּנֵי is left as English \"faces\" instead of Spanish; the direct-object role marked by אֶת is therefore not rendered in Spanish.",
+      "spanishSpan": "faces"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034023009"
+      ],
+      "issue": "הָאָדֹן is a common noun with the article, not a proper name; capital \"Señor\" adds a title capitalization the token does not license.",
+      "spanishSpan": "Señor"
+    }
+  ],
+  "notes": "Tres veces, en el año, será visto, todo tu varón, Jehová, and Dios de Israel match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

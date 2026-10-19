@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 34:25",
+  "chapter": 34,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "No degollarás sobre leudado sangre de mi sacrificio, y no pernoctará a la mañana sacrificio de fiesta del Pésaj.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02034025012"
+      ],
+      "issue": "הַפָּסַח is a common noun with the article. Pésaj leaves that lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "Pésaj"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02034025008",
+        "h02034025009"
+      ],
+      "issue": "a la mañana can be read as time-when (in the morning). ל with יָלִין marks the limit the lodging reaches (to the morning).",
+      "spanishSpan": "a la mañana"
+    }
+  ],
+  "notes": "Person, number, negatives, construct chain, and repetition of sacrificio otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

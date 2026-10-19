@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:18",
+  "chapter": 35,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "las estacas del mishkán y las estacas del atrio y sus cuerdas,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035018003"
+      ],
+      "issue": "הַמִּשְׁכָּן is a definite common noun (H4908), left as the untranslated transliteration mishkán; a common noun must be Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Estacas, atrio, the repeated construct, and sus cuerdas (3mp suffix) stay within the other tokens.",
+  "discardedUncitedFindings": 0
+}

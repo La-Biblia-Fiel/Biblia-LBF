@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:16",
+  "chapter": 37,
+  "verse": 16,
+  "candidateLabel": "pulir",
+  "spanish": "E hizo los utensilios que sobre la mesa: sus platos y sus cucharas y sus tazones y las jarras con que se derrama, oro puro.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037016010"
+      ],
+      "issue": "H3709 feminine plural remains open among palm, pan, and spoon; «cucharas» narrows it to spoons.",
+      "spanishSpan": "sus cucharas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02037016015",
+        "h02037016017"
+      ],
+      "issue": "אֲשֶׁר … בָּהֵן is a relative plus ב with a 3fp resumptive (in/with them); «con que» smooths that into an instrumental relative.",
+      "spanishSpan": "con que"
+    }
+  ],
+  "notes": "Number, person, qal «hizo», hophal «se derrama», suffixes, article, and final «oro puro» stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

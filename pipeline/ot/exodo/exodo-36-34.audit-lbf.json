@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:34",
+  "chapter": 36,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Y las tablas chapó de oro, y sus anillos hizo de oro, casas a los travesaños, y chapó los travesaños de oro.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036034004",
+        "h02036034008",
+        "h02036034014"
+      ],
+      "issue": "Bare זָהָב is a material noun with no preposition. Spanish inserts unmarked de before each oro; the material reading stays the same.",
+      "spanishSpan": "de oro"
+    }
+  ],
+  "notes": "Plural boards, rings, houses, and bars, 3ms piel chapó and qal hizo, suffix sus, and both bar phrases stay open and repeated.",
+  "discardedUncitedFindings": 0
+}

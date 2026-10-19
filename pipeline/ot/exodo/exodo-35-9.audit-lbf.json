@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 35:9",
+  "chapter": 35,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "y piedras de shóham y piedras de engastes al efod y al joshen.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035009002"
+      ],
+      "issue": "שֹׁהַם is a common noun (masculine singular absolute), not a proper name. shóham leaves the lemma untranslated.",
+      "spanishSpan": "shóham"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035009005"
+      ],
+      "issue": "אֵפוֹד is a common noun (masculine singular absolute), not a proper name. efod leaves the lemma untranslated.",
+      "spanishSpan": "efod"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02035009006"
+      ],
+      "issue": "חֹשֶׁן is a common noun (masculine singular absolute), not a proper name. joshen leaves the lemma untranslated.",
+      "spanishSpan": "joshen"
+    }
+  ],
+  "notes": "piedras de … y piedras de match the two construct chains; al and y al match the two definite lameds.",
+  "discardedUncitedFindings": 0
+}

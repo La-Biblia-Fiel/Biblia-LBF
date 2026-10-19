@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 31:14",
+  "chapter": 31,
+  "verse": 14,
+  "candidateLabel": "pulir",
+  "spanish": "Y guardarán el sábado, porque santidad ella a ustedes; sus profanadores serán muertos sin falta, porque todo el haciendo en ella obra, y será cortada esa alma desde medio de sus pueblos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02031014010",
+        "h02031014008"
+      ],
+      "issue": "Hophal imperfect 3ms is plural serán, matching the plural participle rather than the singular verb.",
+      "spanishSpan": "serán muertos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02031014009"
+      ],
+      "issue": "Qal infinitive absolute of the same root is smoothed to sin falta; emphatic certainty remains, the repeated root does not.",
+      "spanishSpan": "sin falta"
+    }
+  ],
+  "notes": "2mp guardarán is ustedes address; the other tokens match the packet.",
+  "discardedUncitedFindings": 0
+}

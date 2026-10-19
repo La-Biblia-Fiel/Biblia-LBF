@@ -1,0 +1,26 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036029002",
+        "h02036029004",
+        "h02036029005",
+        "h02036029006"
+      ],
+      "issue": "Masculine plural noun and adjective, with the 3mp imperfect, are rendered feminine (gemelas, juntas), adding female gender the tokens do not mark.",
+      "spanishSpan": "gemelas, juntas, gemelas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02036029010",
+        "h02036029011"
+      ],
+      "issue": "Feminine cardinal «the one» agreeing with the ring is smoothed to masculine el uno with Spanish anillo.",
+      "spanishSpan": "el uno"
+    }
+  ],
+  "notes": "Repeated gemelas follows lemma H8382 on both tokens; the feminine does not follow the masculine morphology."
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 37:10",
+  "chapter": 37,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "E hizo la mesa, maderas de shitím; dos codos su largo, y codo su ancho, y codo y medio su alto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02037010005"
+      ],
+      "issue": "שִׁטִּים is a common noun (feminine plural), and “shitím” leaves that lemma untranslated instead of Spanish.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens: 3ms made, the table, plural construct wood, dual two cubits its length, one cubit its width, cubit and half its height.",
+  "discardedUncitedFindings": 0
+}

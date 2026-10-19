@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 36:22",
+  "chapter": 36,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Dos manos a la tabla la una, ensambladas una a una; así hizo a todas las tablas del mishkán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02036022013"
+      ],
+      "issue": "H4908 is a common noun (definite article + singular). mishkán leaves that lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Dos manos, la una, ensambladas una a una, and así hizo a todas las tablas match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

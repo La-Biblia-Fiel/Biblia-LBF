@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 32:33",
+  "chapter": 32,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Quien pecó a mí, lo borraré desde mi libro.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02032033010"
+      ],
+      "issue": "«desde» toma el prefijo min como punto de partida; el token licencia «de / fuera de» el libro",
+      "spanishSpan": "desde"
+    }
+  ],
+  "notes": "Quien cubre מי אשר; lo borraré corresponde al imperfecto 1cs con sufijo 3ms.",
+  "discardedUncitedFindings": 0
+}

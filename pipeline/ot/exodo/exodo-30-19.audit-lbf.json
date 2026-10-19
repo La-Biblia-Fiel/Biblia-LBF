@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 30:19",
+  "chapter": 30,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y lavarán Aarón y sus hijos desde él sus manos y sus pies.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02030019004"
+      ],
+      "issue": "The preposition suffix is 1st common plural; Spanish «él» changes it to 3rd masculine singular.",
+      "spanishSpan": "él"
+    }
+  ],
+  "notes": "Verb, Aaron, sons, hands, and feet match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}
