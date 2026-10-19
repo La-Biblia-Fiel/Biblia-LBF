@@ -34,7 +34,8 @@ for (const verse of ledger.verses) {
     if (disposition === "candidate") { candidates.push(item); hasCandidate = true; }
     if (disposition === "review_queue") { reviewQueue.push({ ...item, review_reason: statement.review_reason || "The selected category (including no_support_in_supplied_context) is materially uncertain: selected < 0.60 or strongest alternative ≥ 0.25; possible/underdetermined selections are also retained for review." }); hasReview = true; }
   }
-  verse.status = hasCandidate ? "candidate" : hasReview ? "uncertain" : verse.statements?.length ? "processed" : "unprocessed";
+  const noStatementTargets = (verse.scan_notes || []).some(note => note.kind === "no_statement_targets");
+  verse.status = hasCandidate ? "candidate" : hasReview ? "uncertain" : verse.statements?.length || noStatementTargets ? "processed" : "unprocessed";
 }
 ledger.candidates = candidates;
 ledger.review_queue = reviewQueue;

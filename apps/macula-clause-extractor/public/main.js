@@ -3,33 +3,163 @@ const candidateResults = document.querySelector("#candidate-results"), candidate
 const verificationResults = document.querySelector("#verification-results");
 const relationshipResults = document.querySelector("#relationship-results");
 const scanResults = document.querySelector("#scan-results");
+const humanReview = document.querySelector("#human-review");
+const reviewState = { disposition: "candidate", review_status: "unreviewed", testament: "all", target_kind: "annotated_statement", limit: 10, offset: 0 };
 const text = value => value === null || value === undefined || value === "" ? "—" : String(value);
 const percent = value => Number.isFinite(value) ? `${(value * 100).toFixed(1)}%` : "—";
 function json(value) { const node = document.createElement("pre"); node.textContent = JSON.stringify(value, null, 2); return node; }
 function line(label, value) { const item = document.createElement("p"), name = document.createElement("strong"); name.textContent = `${label}: `; item.append(name, document.createTextNode(text(value))); return item; }
+function reviewerSelect(value, choices) { const select = document.createElement("select"); for (const [key, label] of choices) select.append(new Option(label, key, key === value, key === value)); return select; }
+function selectedTextOffsets(container) {
+  const selection = window.getSelection();
+  if (!selection?.rangeCount) return null;
+  const range = selection.getRangeAt(0);
+  if (range.collapsed || !container.contains(range.commonAncestorContainer)) return null;
+  const before = range.cloneRange(); before.selectNodeContents(container); before.setEnd(range.startContainer, range.startOffset);
+  const start = before.toString().length, end = start + range.toString().length;
+  return end > start ? { start, end } : null;
+}
+function setupReviewer() {
+  humanReview.replaceChildren();
+  const panel = document.createElement("div"); panel.className = "review-heading";
+  const title = document.createElement("h2"); title.textContent = "Human review queue";
+  const note = document.createElement("p"); note.textContent = "Review a small page at a time. Your decisions are stored separately from canonical linguistic evidence and Jev’s saved judgment.";
+  const form = document.createElement("form"); form.className = "review-filters";
+  const disposition = reviewerSelect(reviewState.disposition, [["candidate", "Model candidates"], ["review", "Model review items"], ["all", "All saved items"]]);
+  const status = reviewerSelect(reviewState.review_status, [["unreviewed", "Not yet reviewed"], ["reviewed", "Already reviewed"], ["all", "All review states"]]);
+  const testament = reviewerSelect(reviewState.testament, [["all", "OT and NT"], ["OT", "Old Testament"], ["NT", "New Testament"]]);
+  const targetKind = reviewerSelect(reviewState.target_kind, [["annotated_statement", "Exact extracted phrases"], ["source_only_span", "Verse-level spans only"], ["all", "Both target kinds"]]);
+  for (const [labelText, control] of [["Queue", disposition], ["Review state", status], ["Testament", testament], ["Target", targetKind]]) { const label = document.createElement("label"); label.textContent = labelText; label.append(control); form.append(label); }
+  const load = document.createElement("button"); load.type = "submit"; load.textContent = "Load 10 statements"; form.append(load);
+  form.addEventListener("submit", event => { event.preventDefault(); reviewState.disposition = disposition.value; reviewState.review_status = status.value; reviewState.testament = testament.value; reviewState.target_kind = targetKind.value; reviewState.offset = 0; loadReviewQueue(); });
+  panel.append(title, note, form); humanReview.append(panel);
+}
+function displayReviewQueue(data) {
+  setupReviewer();
+  const panel = humanReview.querySelector(".review-heading");
+  const targetMode = data.filters.target_kind === "annotated_statement" ? "Exact extracted source-language statements only." : data.filters.target_kind === "source_only_span" ? "Whole source verse/spans only; no phrase boundary was extracted." : "Both exact statements and whole source spans.";
+  panel.append(line("Queue progress", `${data.summary.reviewed_statements.toLocaleString()} reviewed · ${data.summary.unreviewed_statements.toLocaleString()} remaining`), line("Matching statements", data.total_matching.toLocaleString()), line("Target mode", targetMode), line("Boundary", data.boundary));
+  const decisionLabels = { retain_predictive_candidate: "Retain as predictive candidate", not_predictive_in_context: "Not predictive in this context", needs_broader_context: "Needs broader context", uncertain: "Remain uncertain" };
+  const choices = Object.entries(decisionLabels);
+  const list = document.createElement("div"); list.className = "review-list";
+  if (!data.items.length) { const empty = document.createElement("p"); empty.className = "review-empty"; empty.textContent = "No statements match these filters."; list.append(empty); }
+  for (const item of data.items) {
+    const card = document.createElement("article"); card.className = "review-card";
+    const title = document.createElement("h2"); title.textContent = `${item.verse_reference} · ${item.statement_id}`;
+    const target = document.createElement("div"); target.className = "review-target";
+    const targetLabel = document.createElement("p"); targetLabel.className = "review-target-label"; targetLabel.textContent = item.target_kind === "source_only_span" ? "Verse-level source span being reviewed — no extracted phrase boundary" : "Exact source-language statement being categorized";
+    const source = document.createElement("p"); source.className = "review-source"; source.dir = item.testament === "OT" ? "rtl" : "ltr"; source.textContent = item.readable_text;
+    target.append(targetLabel, source);
+    const kind = document.createElement("p"); kind.className = "review-kind"; kind.textContent = `${item.target_kind.replaceAll("_", " ")} · model: ${item.assessment.replaceAll("_", " ")} (${percent(item.selected_probability)})`;
+    const scope = item.grammatical_scope ? JSON.stringify(item.grammatical_scope) : "Unavailable for this source-only span.";
+    card.append(title, target, kind, line("Scope", scope), line("Source IDs", item.source_references.join(", ")));
+    if (item.macula_english_gloss?.status === "available") { const gloss = document.createElement("p"); gloss.className = "review-gloss"; gloss.textContent = item.macula_english_gloss.words.map(word => `${word.source} — ${word.gloss}`).join(" · "); card.append(line("MACULA English gloss", item.macula_english_gloss.label), gloss); }
+    else card.append(line("MACULA English gloss", item.macula_english_gloss?.reason || "Unavailable."));
+    if (item.spanish_reading?.status === "available") {
+      const spanish = document.createElement("p"); spanish.className = "review-spanish";
+      const highlight = item.spanish_highlight;
+      if (highlight) { spanish.append(document.createTextNode(item.spanish_reading.text.slice(0, highlight.start))); const marked = document.createElement("mark"); marked.textContent = highlight.text; spanish.append(marked, document.createTextNode(item.spanish_reading.text.slice(highlight.end))); }
+      else spanish.textContent = item.spanish_reading.text;
+      const spanControls = document.createElement("div"); spanControls.className = "review-span-controls";
+      const markSelection = document.createElement("button"); markSelection.type = "button"; markSelection.textContent = "Bold selected Spanish text";
+      const saveSpan = async payload => { markSelection.disabled = true; markSelection.textContent = "Saving…"; try { const response = await fetch("/api/human-review-span", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ statement_id: item.statement_id, ...payload }) }); const saved = await response.json(); if (!response.ok) throw new Error(saved.error || "Could not save the Spanish comparison span."); await loadReviewQueue(); } catch (error) { markSelection.disabled = false; markSelection.textContent = error.message; } };
+      markSelection.addEventListener("click", () => { const offsets = selectedTextOffsets(spanish); if (!offsets) { markSelection.textContent = "Select Spanish words first"; return; } saveSpan(offsets); });
+      spanControls.append(markSelection);
+      if (highlight) { const clear = document.createElement("button"); clear.type = "button"; clear.className = "secondary"; clear.textContent = "Clear Spanish highlight"; clear.addEventListener("click", () => saveSpan({ clear: true })); spanControls.append(clear); }
+      card.append(line("Full LBF verse context", item.spanish_reading.label), spanish, spanControls, line("Highlight note", "The bold span is selected by the reviewer for comparison; it is not verified source-to-Spanish alignment."));
+    }
+    else card.append(line("Full LBF verse context", item.spanish_reading?.reason || "Unavailable."));
+    if (item.source_window_references?.length) card.append(line("Saved source window", item.source_window_references.join(", ")));
+    if (item.mapping_limitations?.length) card.append(line("Annotation limitation", item.mapping_limitations.join("; ")));
+    const model = document.createElement("details"), modelTitle = document.createElement("summary"); modelTitle.textContent = "Saved Jev distribution — model judgment, not source evidence"; model.append(modelTitle, json(item.distributions)); card.append(model);
+    const decisionForm = document.createElement("form"); decisionForm.className = "review-decision";
+    const decision = reviewerSelect(item.human_review?.decision || "", [["", "Choose your decision"], ...choices]);
+    const note = document.createElement("textarea"); note.rows = 3; note.maxLength = 4000; note.placeholder = "Optional review note: source evidence, scope, or reason."; note.value = item.human_review?.note || "";
+    const save = document.createElement("button"); save.type = "submit"; save.textContent = item.human_review ? "Update human review" : "Save human review";
+    decisionForm.append(line("Human decision", ""), decision, note, save);
+    if (item.human_review) decisionForm.append(line("Saved", item.human_review.reviewed_at));
+    decisionForm.addEventListener("submit", async event => {
+      event.preventDefault();
+      if (!decision.value) { save.textContent = "Choose a decision first"; return; }
+      save.disabled = true; save.textContent = "Saving…";
+      try {
+        const response = await fetch("/api/human-review-decisions", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ statement_id: item.statement_id, decision: decision.value, note: note.value }) });
+        const saved = await response.json(); if (!response.ok) throw new Error(saved.error || "Could not save review.");
+        await loadReviewQueue();
+      } catch (error) { save.disabled = false; save.textContent = error.message; }
+    });
+    card.append(decisionForm); list.append(card);
+  }
+  humanReview.append(list);
+  const pager = document.createElement("div"); pager.className = "review-pager";
+  const previous = document.createElement("button"); previous.type = "button"; previous.textContent = "Previous 10"; previous.disabled = reviewState.offset === 0; previous.addEventListener("click", () => { reviewState.offset = Math.max(0, reviewState.offset - reviewState.limit); loadReviewQueue(); });
+  const next = document.createElement("button"); next.type = "button"; next.textContent = "Next 10"; next.disabled = reviewState.offset + reviewState.limit >= data.total_matching; next.addEventListener("click", () => { reviewState.offset += reviewState.limit; loadReviewQueue(); });
+  pager.append(previous, next); humanReview.append(pager);
+}
+async function loadReviewQueue() {
+  const params = new URLSearchParams(reviewState);
+  const response = await fetch(`/api/human-review-queue?${params}`), data = await response.json();
+  if (!response.ok) throw new Error(data.error || "Could not load the human review queue.");
+  displayReviewQueue(data);
+}
 function showScan(data) {
   scanResults.replaceChildren();
   const heading = document.createElement("div"); heading.className = "scan-heading";
   const title = document.createElement("h2"); title.textContent = "Scripture-wide predictive-prophecy discovery";
-  heading.append(title, line("Coverage", `${data.source_roster.verse_count.toLocaleString()} Protestant verses · scan not started`), line("Scope", data.coverage_boundary), line("Checkpoint", `${data.checkpoint.completed_windows} completed windows · ${data.checkpoint.next_window_index} next`));
+  const live = data.live_status;
+  const worker = live.worker || { state: "not_running" };
+  const alert = live.worker_alert;
+  const workerDetail = worker.state === "running" ? `running · ${worker.rounds_completed || 0} fair rounds · ${worker.min_interval_ms || 0} ms minimum interval` : `${worker.state.replaceAll("_", " ")}${worker.pause_reason ? ` · ${worker.pause_reason.replaceAll("_", " ")}` : ""}`;
+  heading.append(title, line("Coverage", `${data.source_roster.verse_count.toLocaleString()} Protestant verses · ${live.label}`), line("Scope", data.coverage_boundary), line("Continuous worker", workerDetail), line("Annotated OT checkpoint", `${live.annotated_ot.completed_windows} completed windows · cursor ${live.annotated_ot.next_window_index ?? "—"} · last ${live.annotated_ot.last_checkpoint || "—"}`), line("Shared Jev budget", `$${live.spending.usd.toFixed(4)} of $${live.spending.cap_usd.toFixed(2)} · ${live.spending.input_tokens.toLocaleString()} input / ${live.spending.output_tokens.toLocaleString()} output tokens`), line("NT source-only", `${live.nt_source_only.assessed_spans || 0} assessed · ${live.nt_source_only.candidate || 0} candidate · ${live.nt_source_only.review || 0} review`), line("OT fallback source-only", `${live.ot_fallback_source_only.assessed_spans || 0} assessed · ${live.ot_fallback_source_only.candidate || 0} candidate · ${live.ot_fallback_source_only.review || 0} review`));
+  const eligibleWorkExhausted = worker.state === "paused" && worker.pause_reason === "eligible_routes_exhausted";
+  if (eligibleWorkExhausted) {
+    const completion = document.createElement("div"); completion.className = "worker-alert";
+    const completionTitle = document.createElement("h3"); completionTitle.textContent = "Eligible scan work complete";
+    completion.append(completionTitle, line("Status", "All annotated, NT source-only, and fallback-eligible targets have saved assessments."), line("Blocked coverage", `${data.coverage_summary.unprocessed || 0} OT verses lack usable source text and remain visible for manual source recovery.`));
+    heading.append(completion);
+  } else if (worker.state === "paused" || worker.state === "paused_error") {
+    const warning = document.createElement("div"); warning.className = "worker-alert";
+    const alertTitle = document.createElement("h3"); alertTitle.textContent = "Scan paused — action needed";
+    const resume = document.createElement("button"); resume.type = "button"; resume.textContent = "Resume scan"; resume.addEventListener("click", () => resumeWorker(resume));
+    const acknowledge = document.createElement("button"); acknowledge.type = "button"; acknowledge.className = "secondary"; acknowledge.textContent = "Acknowledge"; acknowledge.addEventListener("click", () => acknowledgeWorker(acknowledge));
+    const reason = worker.pause_reason || alert?.pause_reason || worker.error || "unknown";
+    warning.append(alertTitle, line("Reason", String(reason).replaceAll("_", " ")), line("Paused", alert?.created_at || worker.updated_at), line("Notification", alert?.notification?.delivered ? "A macOS notification was delivered." : `Native notification unavailable: ${alert?.notification?.error || alert?.notification?.reason || "unknown"}`), resume, acknowledge);
+    heading.append(warning);
+  }
   const coverage = document.createElement("div"); coverage.className = "coverage-chips";
   for (const status of ["unprocessed", "processed", "candidate", "uncertain", "failed", "missing_or_unmapped_macula", "source_text_fallback_available", "source_text_fallback_unavailable"]) { const chip = document.createElement("span"); chip.textContent = `${status.replaceAll("_", " ")}: ${data.coverage_summary[status] || 0}`; coverage.append(chip); }
   heading.append(coverage);
-  if (!data.cap_preflight.allowed) { const cap = document.createElement("p"); cap.className = "scan-blocked"; cap.textContent = `Full-corpus projection exceeds the cap: ${data.cap_preflight.reason} Rough projection: ${data.projection.projected_input_tokens.toLocaleString()} input tokens across ${data.projection.projected_windows.toLocaleString()} windows. This does not block the prepared bounded run.`; heading.append(cap); }
-  if (data.bounded_run) heading.append(line("Bounded resumable run", `${data.bounded_run.status.replaceAll("_", " ")} · ${data.bounded_run.permitted_windows} windows · rough ${data.bounded_run.estimated_input_tokens.toLocaleString()} input tokens · stops before the 2M-token cap`));
-  const details = document.createElement("details"), detailsTitle = document.createElement("summary"); detailsTitle.textContent = "Representative dry-run batch and estimate"; details.append(detailsTitle, line("Requests", data.representative_batch.requests), line("Batch rough input", data.representative_batch.token_estimate.estimated_input_tokens), line("Estimate limitation", data.projection.limitation), json(data.representative_batch.payload_breakdown)); heading.append(details);
-  const gaps = document.createElement("details"), gapsTitle = document.createElement("summary"); gapsTitle.textContent = `${data.missing_or_unmapped_macula.length} visible MACULA gaps — source fallback where directly available`; gaps.append(gapsTitle, json(data.missing_or_unmapped_macula)); heading.append(gaps); scanResults.append(heading);
-  const controls = document.createElement("form"); controls.className = "scan-search"; const label = document.createElement("label"); label.textContent = "Search saved candidates"; const input = document.createElement("input"); input.type = "search"; input.value = data.query.q; input.placeholder = "Reference, statement ID, or Hebrew"; label.append(input); controls.append(label); scanResults.append(controls);
-  input.addEventListener("change", () => loadScan(input.value));
-  const list = document.createElement("div"); list.className = "scan-candidates";
-  if (!data.candidates.length) { const none = document.createElement("p"); none.textContent = "No saved supported, possible, or uncertain candidates match this search."; list.append(none); }
-  for (const candidate of data.candidates) { const card = document.createElement("article"); card.className = "scan-candidate"; const ref = document.createElement("h2"); ref.textContent = candidate.reference; const source = document.createElement("p"); source.className = "hebrew"; source.dir = "rtl"; source.textContent = candidate.source_text; const judgment = document.createElement("p"); judgment.className = "scan-judgment"; judgment.textContent = `${candidate.classification.replaceAll("_", " ")} · ${percent(candidate.probability)} · ${candidate.statement_id}`; card.append(ref, source, judgment); list.append(card); }
-  scanResults.append(list);
-  const review = document.createElement("details"), reviewTitle = document.createElement("summary"); reviewTitle.textContent = `Uncertainty review queue: ${data.review_queue.length} matching statements`; review.append(reviewTitle, line("Retention rule", data.inventory_policy?.review_queue || "Material uncertainty is retained for review."));
-  for (const item of data.review_queue) { const card = document.createElement("article"); card.className = "scan-candidate"; const ref = document.createElement("h2"); ref.textContent = item.reference; const source = document.createElement("p"); source.className = "hebrew"; source.dir = "rtl"; source.textContent = item.source_text; const judgment = document.createElement("p"); judgment.className = "scan-judgment"; judgment.textContent = `Review: ${item.classification.replaceAll("_", " ")} · ${percent(item.probability)} · ${item.statement_id}`; card.append(ref, source, judgment, line("Reason", item.review_reason)); review.append(card); }
-  scanResults.append(review);
+  const details = document.createElement("details"), detailsTitle = document.createElement("summary"); detailsTitle.textContent = "Archived representative dry-run estimate"; details.append(detailsTitle, line("Requests", data.representative_batch.requests), line("Batch rough input", data.representative_batch.token_estimate.estimated_input_tokens), json(data.representative_batch.payload_breakdown)); heading.append(details);
+  const exports = document.createElement("div"); exports.className = "scan-exports";
+  const exportTitle = document.createElement("h3"); exportTitle.textContent = "Download the complete results";
+  const exportNote = document.createElement("p"); exportNote.textContent = `${data.inventory_counts.candidate_statements.toLocaleString()} candidate statements and ${data.inventory_counts.review_statements.toLocaleString()} review items are kept out of this page so it opens quickly.`;
+  const exportList = document.createElement("ul");
+  for (const item of data.downloads) { const row = document.createElement("li"), link = document.createElement("a"); link.href = item.href; link.textContent = item.label; row.append(link, document.createTextNode(` (${item.format})`)); exportList.append(row); }
+  exports.append(exportTitle, exportNote, exportList); heading.append(exports); scanResults.append(heading);
+  if (data.coordinate_review) {
+    const mapping = document.createElement("details"), mappingTitle = document.createElement("summary"), summary = data.coordinate_review.summary;
+    mappingTitle.textContent = `Protestant-to-WLC coordinate review: ${summary.divergent_chapters} divergent chapters · manual verification required`;
+    const blocked = (summary.currently_blocked_references || []).map(item => typeof item === "string" ? item : item.reference).join(", ") || "None";
+    mapping.append(mappingTitle, line("Review targets", summary.review_targets), line("Currently blocked", summary.currently_blocked_targets), line("Status", "Non-operative: no coordinate proposal is used for extraction or inference."), line("Blocked references", blocked));
+    const rules = document.createElement("ul"); for (const rule of data.coordinate_review.rules) { const item = document.createElement("li"); item.textContent = rule; rules.append(item); } mapping.append(rules); heading.append(mapping);
+  }
+  const note = document.createElement("p"); note.className = "scan-note"; note.textContent = `Review retention: ${data.inventory_policy?.review_queue || "material uncertainty is retained for human review."}`; scanResults.append(note);
 }
-async function loadScan(query = "") { const response = await fetch(`/api/candidate-scan?q=${encodeURIComponent(query)}`), data = await response.json(); if (!response.ok) throw new Error(data.error || "Could not load scan coverage."); showScan(data); }
+async function resumeWorker(button) {
+  button.disabled = true; button.textContent = "Starting…";
+  try {
+    const response = await fetch("/api/scan-worker/resume", { method: "POST" }), data = await response.json();
+    if (!response.ok) throw new Error(data.error || "Could not start the worker.");
+    button.textContent = "Started";
+    setTimeout(() => loadScan().catch(() => {}), 800);
+  } catch (error) { button.disabled = false; button.textContent = error.message; }
+}
+async function acknowledgeWorker(button) {
+  button.disabled = true;
+  const response = await fetch("/api/scan-worker/alert/acknowledge", { method: "POST" });
+  if (response.ok) await loadScan(); else { button.disabled = false; button.textContent = "Could not acknowledge"; }
+}
+async function loadScan() { const response = await fetch("/api/candidate-scan"), data = await response.json(); if (!response.ok) throw new Error(data.error || "Could not load scan coverage."); showScan(data); }
 function showJev(data) {
   results.replaceChildren();
   const heading = document.createElement("div"); heading.className = "jev-heading";
@@ -175,4 +305,4 @@ async function extract(event) {
   await loadScan();
 }
 form.addEventListener("submit", event => extract(event).catch(error => { summary.textContent = error.message; }));
-fetch("/api/books").then(response => response.json()).then(books => { document.querySelector("#book").replaceChildren(...books.map(book => new Option(book.spanish_name, book.name, book.name === "Isaiah", book.name === "Isaiah"))); return extract(); }).catch(error => { summary.textContent = error.message; });
+fetch("/api/books").then(response => response.json()).then(books => { document.querySelector("#book").replaceChildren(...books.map(book => new Option(book.spanish_name, book.name, book.name === "Isaiah", book.name === "Isaiah"))); summary.textContent = "Choose a passage and select Extract clauses."; setupReviewer(); return loadScan(); }).catch(error => { summary.textContent = error.message; });
