@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:13",
+  "chapter": 25,
+  "verse": 13,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás varas de maderas de acacia, y las revestirás de oro.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025013004"
+      ],
+      "issue": "שִׁטִּים is feminine plural; Spanish uses the singular species name acacia.",
+      "spanishSpan": "acacia"
+    }
+  ],
+  "notes": "2ms qal/piel, construct chain, 3mp object, and singular gold match; species singular is Spanish smoothing.",
+  "discardedUncitedFindings": 0
+}

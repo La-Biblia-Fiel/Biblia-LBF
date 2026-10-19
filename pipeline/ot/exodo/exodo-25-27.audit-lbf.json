@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:27",
+  "chapter": 25,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "A la par del marco serán los anillos, a casas a las varas para alzar la mesa.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025027006"
+      ],
+      "issue": "Spanish adds a definite article to an absolute plural noun whose morphology has no article.",
+      "spanishSpan": "las varas"
+    }
+  ],
+  "notes": "Remaining tokens match in number, person, articles, and the double preposition without closing the house noun.",
+  "discardedUncitedFindings": 0
+}

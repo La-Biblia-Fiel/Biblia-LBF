@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 24:10",
+  "chapter": 24,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y vieron a Dios de Israel, y debajo de sus pies como obra de ladrillo del zafiro, y como hueso de los cielos a pureza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02024010008"
+      ],
+      "issue": "Lemma 3840 (לִבְנַת) denotes whiteness/transparency, not brick; «ladrillo» adds a brick concept the token does not license.",
+      "spanishSpan": "ladrillo"
+    }
+  ],
+  "notes": "Remaining tokens match: 3mp qal saw, object marker, Dios de Israel, under his feet, like work of, the sapphire, and like bone of the heavens to purity.",
+  "discardedUncitedFindings": 0
+}

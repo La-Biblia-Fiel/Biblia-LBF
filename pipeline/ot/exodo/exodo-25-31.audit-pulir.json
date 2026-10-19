@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:31",
+  "chapter": 25,
+  "verse": 31,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás el candelabro de oro puro; a martillo será hecho el candelabro; su muslo y su caña, sus cálices, sus bulbos y sus flores, desde él serán.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025031002",
+        "h02025031007"
+      ],
+      "issue": "The first lampstand is an indefinite construct (no article); “el” marks it definite. The article is licensed only on the second lampstand.",
+      "spanishSpan": "el candelabro"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025031005"
+      ],
+      "issue": "מִקְשָׁה is a noun of beaten work; “a martillo” turns it into an instrumental phrase that names the hammer.",
+      "spanishSpan": "a martillo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025031010"
+      ],
+      "issue": "גָּבִיעַ is a cup or bowl; “cálices” narrows it toward a liturgical chalice or a botanical calyx.",
+      "spanishSpan": "cálices"
+    }
+  ],
+  "notes": "Person, number, stem, conjunctions, and the part-list match the tokens; tú future matches 2ms.",
+  "discardedUncitedFindings": 0
+}

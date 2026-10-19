@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:12",
+  "chapter": 26,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y el sobrante el excedente en cortinas de la tienda, mitad de la cortina la excedente sobrará sobre espalda del mishkán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026012011"
+      ],
+      "issue": "הַמִּשְׁכָּן is a definite common noun (H4908), not a locked proper name; mishkán leaves the lemma untranslated.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026012010"
+      ],
+      "issue": "אֲחֹרֵי is a preposition (behind/after). espalda turns it into a noun, the back.",
+      "spanishSpan": "espalda"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026012001"
+      ],
+      "issue": "וְסֶרַח is anarthrous absolute; el adds a definite article the token does not mark.",
+      "spanishSpan": "el sobrante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026012003",
+        "h02026012004"
+      ],
+      "issue": "בִּירִיעֹת הָאֹהֶל is a definite construct chain. en cortinas leaves that plural indefinite.",
+      "spanishSpan": "en cortinas"
+    }
+  ],
+  "notes": "Number, gender, and the paired surplus roots otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

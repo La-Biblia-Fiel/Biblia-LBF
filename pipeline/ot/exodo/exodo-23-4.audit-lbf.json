@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:4",
+  "chapter": 23,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Cuando encuentras buey de tu enemigo o su asno errante, devolviendo lo devolverás a él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023004003",
+        "h02023004005",
+        "h02023004006",
+        "h02023004007"
+      ],
+      "issue": "The masculine singular participle follows the או pair; «asno errante» binds wandering only to the donkey and closes whether it also describes the ox.",
+      "spanishSpan": "asno errante"
+    }
+  ],
+  "notes": "כי as Cuando, 2ms tú, hiphil repetition, and the two 3ms suffixes stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:30",
+  "chapter": 26,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y levantarás el mishkán conforme a su juicio que fuiste mostrado en el monte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026030003"
+      ],
+      "issue": "Common noun הַמִּשְׁכָּן (H4908) is left as the untranslated lemma mishkán; a common noun must be Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "The other tokens match: hiphil 2ms, כְּ + suffix, relative, hophal 2ms, and בָּהָר.",
+  "discardedUncitedFindings": 0
+}

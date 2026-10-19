@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:29",
+  "chapter": 25,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás sus platos y sus cucharas y sus jarras y sus tazones que se derrama en ellas; oro puro harás a ellos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025029007"
+      ],
+      "issue": "Hophal imperfect 3ms is rendered as present indicative; passive voice, third person, and singular are kept, and the tense is smoothed.",
+      "spanishSpan": "se derrama"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025029006",
+        "h02025029007",
+        "h02025029008"
+      ],
+      "issue": "אשר plus a 3ms passive verb plus בָּהֵן is a resumptive relative (something is poured in them). que se derrama en ellas can be read with plural tazones as the subject, and ellas does not agree with masculine tazones.",
+      "spanishSpan": "que se derrama en ellas"
+    }
+  ],
+  "notes": "Conjunction, both 2ms make-verbs, four plural 3ms vessel suffixes, gold, pure, and the 3mp object match the tokens.",
+  "discardedUncitedFindings": 0
+}

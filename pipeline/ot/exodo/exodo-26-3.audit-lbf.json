@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:3",
+  "chapter": 26,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Cinco las cortinas serán juntadas, mujer a su hermana, y cinco cortinas juntadas, mujer a su hermana.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026003004",
+        "h02026003010"
+      ],
+      "issue": "Both qal active participles are rendered as the passive participle juntadas, so the curtains are joined instead of the ones that join.",
+      "spanishSpan": "juntadas"
+    }
+  ],
+  "notes": "Five, the article only on the first curtains, the 3fp copula only in the first clause, and woman-to-her-sister twice match the tokens.",
+  "discardedUncitedFindings": 0
+}

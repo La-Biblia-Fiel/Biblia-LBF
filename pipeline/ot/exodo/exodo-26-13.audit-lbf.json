@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:13",
+  "chapter": 26,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y el codo desde este y el codo desde este en el excedente en largo de cortinas de la tienda será sobrante sobre lados del mishkán desde este y desde este para cubrirlo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026013013"
+      ],
+      "issue": "H4908 is a definite common noun; mishkán leaves the lemma untranslated. Common nouns stay Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026013010"
+      ],
+      "issue": "Qal passive participle of H5628 also licenses overhanging or hanging loose; sobrante keeps only the leftover/excess sense.",
+      "spanishSpan": "sobrante"
+    }
+  ],
+  "notes": "Articles, singular cubits, plural curtains and sides, 3ms será, and the repeated desde-este pairs match the tokens.",
+  "discardedUncitedFindings": 0
+}

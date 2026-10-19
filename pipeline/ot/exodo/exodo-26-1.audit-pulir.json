@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:1",
+  "chapter": 26,
+  "verse": 1,
+  "candidateLabel": "pulir",
+  "spanish": "Y el tabernáculo harás diez cortinas; lino fino torcido y azul y púrpura y carmesí; querubines, obra de pensador, harás a ellos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026001008"
+      ],
+      "issue": "תכלת cubre azul y violeta; «azul» fija solo el azul.",
+      "spanishSpan": "azul"
+    }
+  ],
+  "notes": "«tabernáculo» es el nombre común y «ellos» sigue el sufijo 3mp.",
+  "discardedUncitedFindings": 0
+}

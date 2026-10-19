@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:23",
+  "chapter": 25,
+  "verse": 23,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás mesa de maderas de acacia; dos codos su largo, y codo su ancho, y codo y medio su alto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025023004"
+      ],
+      "issue": "שִׁטִּים is feminine plural; “acacia” is singular species smoothing that does not change the wood referent.",
+      "spanishSpan": "acacia"
+    }
+  ],
+  "notes": "Dual cubits as dos, 2ms harás, and the three 3ms suffixes match the tokens.",
+  "discardedUncitedFindings": 0
+}

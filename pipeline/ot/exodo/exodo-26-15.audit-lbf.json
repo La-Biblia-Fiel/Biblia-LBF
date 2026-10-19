@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:15",
+  "chapter": 26,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás las tablas al mishkán, maderas de shitím, paradas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026015004"
+      ],
+      "issue": "Common noun H4908 is left as the untranslated lemma mishkán; a common noun stays Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026015006"
+      ],
+      "issue": "Common noun H7848 is left as the untranslated lemma shitím; a common noun stays Spanish.",
+      "spanishSpan": "shitím"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026015007"
+      ],
+      "issue": "Qal active participle masculine plural is smoothed to feminine plural to agree with tablas.",
+      "spanishSpan": "paradas"
+    }
+  ],
+  "notes": "Y harás, las tablas, maderas de, and the unrendered object marker match the other tokens.",
+  "discardedUncitedFindings": 0
+}

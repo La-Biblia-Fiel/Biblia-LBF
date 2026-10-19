@@ -1,0 +1,61 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 25:35",
+  "chapter": 25,
+  "verse": 35,
+  "sourceDraft": "Y manzana debajo de las dos cañas desde ella, y manzana debajo de las dos cañas desde ella, y manzana debajo de las dos cañas desde ella, a las seis cañas las salientes desde la menorá.",
+  "spanish": "Y botón debajo de las dos cañas desde ella, y botón debajo de las dos cañas desde ella, y botón debajo de las dos cañas desde ella, a las seis cañas las salientes desde el candelabro.",
+  "units": [
+    {
+      "es": "y botón debajo de las dos cañas desde ella",
+      "sourceTokenIds": [
+        "h02025035001",
+        "h02025035002",
+        "h02025035003",
+        "h02025035004",
+        "h02025035005"
+      ]
+    },
+    {
+      "es": "y botón debajo de las dos cañas desde ella",
+      "sourceTokenIds": [
+        "h02025035006",
+        "h02025035007",
+        "h02025035008",
+        "h02025035009",
+        "h02025035010"
+      ]
+    },
+    {
+      "es": "y botón debajo de las dos cañas desde ella",
+      "sourceTokenIds": [
+        "h02025035011",
+        "h02025035012",
+        "h02025035013",
+        "h02025035014",
+        "h02025035015"
+      ]
+    },
+    {
+      "es": "a las seis cañas las salientes desde el candelabro",
+      "sourceTokenIds": [
+        "h02025035016",
+        "h02025035017",
+        "h02025035018",
+        "h02025035019",
+        "h02025035020"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced manzana with botón for H3730 (×3, tokens h02025035001/006/011): the lemma names a knob/calyx-shaped ornament on the lampstand branch, not the fruit apple.",
+    "Replaced the untranslated la menorá with el candelabro for H4501 (token h02025035020): the lemma is the common noun lampstand, not a proper name, so it is translated."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

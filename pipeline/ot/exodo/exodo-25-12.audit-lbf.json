@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:12",
+  "chapter": 25,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y fundirás a ella cuatro anillos de oro, y los darás sobre sus cuatro pies; y dos anillos sobre su costado el uno, y dos anillos sobre su costado el segundo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025012006"
+      ],
+      "issue": "Unmarked supplied object pronoun. The qal 2ms verb has no object suffix and no object token.",
+      "spanishSpan": "los"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025012002"
+      ],
+      "issue": "Suffix is 3rd masculine singular; ella is feminine. Same referent, with Spanish gender smoothing.",
+      "spanishSpan": "a ella"
+    }
+  ],
+  "notes": "Qal 2ms futures, four gold rings, placement upon four feet, and one side versus the second side match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:26",
+  "chapter": 25,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás a ella cuatro anillos de oro, y darás los anillos sobre cuatro las esquinas que a cuatro sus pies.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025026002"
+      ],
+      "issue": "לו is a 3rd masculine singular suffix; «a ella» makes that recipient feminine.",
+      "spanishSpan": "a ella"
+    }
+  ],
+  "notes": "The other tokens match: make four gold rings, and give the rings upon the four corners that are to its four feet.",
+  "discardedUncitedFindings": 0
+}

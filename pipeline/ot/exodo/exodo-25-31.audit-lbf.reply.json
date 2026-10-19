@@ -1,0 +1,31 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025031002",
+        "h02025031007"
+      ],
+      "issue": "H4501 is a common noun; menorá leaves the lemma untranslated instead of a Spanish noun.",
+      "spanishSpan": "menorá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025031005"
+      ],
+      "issue": "H4749 is a noun for beaten work, not the tool; de martillo names a hammer and can be read as material, parallel to de oro.",
+      "spanishSpan": "de martillo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025031011"
+      ],
+      "issue": "H3730 is a knob or capital; manzanas adds the fruit apple.",
+      "spanishSpan": "manzanas"
+    }
+  ],
+  "notes": "Person, number, suffixes, oro puro, and desde ella serán match the remaining tokens."
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:10",
+  "chapter": 25,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y harán arca de maderas de shitím; dos codos y medio su largo, y codo y medio su ancho, y codo y medio su alto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025010004"
+      ],
+      "issue": "שִׁטִּים (H7848) is a common noun (feminine plural absolute), not a proper name; shitím leaves that lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens: weqatal 3cp, construct chain, dual-plus-half, and the three 3ms dimension suffixes.",
+  "discardedUncitedFindings": 0
+}

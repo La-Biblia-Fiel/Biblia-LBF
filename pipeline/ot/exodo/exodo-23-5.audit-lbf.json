@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:5",
+  "chapter": 23,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Cuando ves asno de tu aborrecedor echado debajo de su carga, y cesas de dejar a él, dejando dejarás con él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023005001"
+      ],
+      "issue": "La conjunción queda fijada como temporal en «Cuando»; el morfema solo marca conjunción (si, porque, que siguen abiertos).",
+      "spanishSpan": "Cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023005005"
+      ],
+      "issue": "El participio activo de estar echado/agachado se suaviza con el adjetivo pasivo «echado», que también puede leerse como arrojado.",
+      "spanishSpan": "echado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023005008"
+      ],
+      "issue": "El perfecto qal de 2ms se vierte en presente «cesas»; el aspecto se allana.",
+      "spanishSpan": "cesas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023005011",
+        "h02023005012"
+      ],
+      "issue": "El infinitivo absoluto más el imperfecto se allana como gerundio más futuro; «dejando» puede leerse como modo y no como la repetición enfática del mismo verbo.",
+      "spanishSpan": "dejando dejarás"
+    }
+  ],
+  "notes": "Persona, número, orden y la repetición de dejar se mantienen; los sufijos 3ms siguen abiertos.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:34",
+  "chapter": 25,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Y en la menorá cuatro cálices almendrados, sus manzanas y sus flores.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025034001"
+      ],
+      "issue": "Common noun left untranslated as menorá; the token is an ordinary feminine noun with and + in + the.",
+      "spanishSpan": "menorá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025034003"
+      ],
+      "issue": "cálices narrows the cup/bowl toward a liturgical chalice or a botanical calyx.",
+      "spanishSpan": "cálices"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025034005"
+      ],
+      "issue": "manzanas adds apples; the token with her-suffix is a knob, bulb, or capital.",
+      "spanishSpan": "manzanas"
+    }
+  ],
+  "notes": "Four, the passive almond-shaped participle, and her flowers match the tokens.",
+  "discardedUncitedFindings": 0
+}

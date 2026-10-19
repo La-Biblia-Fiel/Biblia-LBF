@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 24:14",
+  "chapter": 24,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y a los ancianos dijo: Siéntense a nosotros en este, hasta que volvamos a ustedes; y he aquí Aarón y Jur con ustedes; quien sea dueño de palabras, se acerque a ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02024014015",
+        "h02024014016",
+        "h02024014017"
+      ],
+      "issue": "Unmarked supplied copula; מי בעל דברים is a verbless clause.",
+      "spanishSpan": "sea"
+    }
+  ],
+  "notes": "Remaining clauses track the tokens, including 2mp as ustedes.",
+  "discardedUncitedFindings": 0
+}

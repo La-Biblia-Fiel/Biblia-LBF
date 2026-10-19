@@ -1,0 +1,57 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:27",
+  "chapter": 26,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y cinco travesaños a tablas de costado del mishkán el segundo, y cinco travesaños a tablas de costado del mishkán a los fondos hacia el mar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026027005"
+      ],
+      "issue": "הַמִּשְׁכָּן is a common noun (H4908), left as the untranslated form mishkán",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026027011"
+      ],
+      "issue": "הַמִּשְׁכָּן is a common noun (H4908), left as the untranslated form mishkán",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026027012"
+      ],
+      "issue": "Feminine dual of the rear/flank noun is plural fondos, so the pair is lost and the sense shifts toward bottoms.",
+      "spanishSpan": "los fondos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026027006",
+        "h02026027004",
+        "h02026027005"
+      ],
+      "issue": "Feminine ordinal modifies the side, not the masculine tabernacle; masculine el segundo no longer marks that head and can be read with mishkán.",
+      "spanishSpan": "el segundo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026027013"
+      ],
+      "issue": "Directional suffix is hacia; the article el is Spanish smoothing. The noun stays mar.",
+      "spanishSpan": "el mar"
+    }
+  ],
+  "notes": "Y, cinco, travesaños, a tablas, and costado match both clauses in conjunction, cardinal, plural bars, preposition plus plural boards, and singular side.",
+  "discardedUncitedFindings": 0
+}

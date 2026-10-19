@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:32",
+  "chapter": 25,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y seis cañas salientes desde sus lados; tres cañas de menorá desde su lado el uno, y tres cañas de menorá desde su lado el segundo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025032007",
+        "h02025032012"
+      ],
+      "issue": "מְנֹרָה (H4501) is a common noun; menorá leaves the lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "menorá"
+    }
+  ],
+  "notes": "Y seis, cañas salientes, lados plural, tres, lado singular, el uno cardinal, and el segundo ordinal match the tokens.",
+  "discardedUncitedFindings": 0
+}

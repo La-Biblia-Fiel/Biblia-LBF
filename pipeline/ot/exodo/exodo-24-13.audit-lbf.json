@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 24:13",
+  "chapter": 24,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y se levantó Moisés y Josué su ministro, y subió Moisés a monte de Dios.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02024013008",
+        "h02024013009"
+      ],
+      "issue": "«a monte de Dios» does not mark the definiteness of the construct הַר הָאֱלֹהִים (article on הָאֱלֹהִים). The sense remains the mountain of God.",
+      "spanishSpan": "a monte de Dios"
+    }
+  ],
+  "notes": "Singular וַיָּקָם with Moisés y Josué, repeated Moisés on וַיַּעַל, and אלהים as Dios match the tokens.",
+  "discardedUncitedFindings": 0
+}

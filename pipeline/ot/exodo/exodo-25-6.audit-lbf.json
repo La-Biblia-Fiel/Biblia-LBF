@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:6",
+  "chapter": 25,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "aceite a la lumbrera, aromas a aceite de la unción y a incienso de los aromas,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025006003",
+        "h02025006007"
+      ],
+      "issue": "H1314 and H5561 are distinct plural spice substances; both are rendered as aromas, which names the scent and uses one noun for both lemmas.",
+      "spanishSpan": "aromas ... los aromas"
+    }
+  ],
+  "notes": "The other tokens keep number, article, construct, and the single conjunction.",
+  "discardedUncitedFindings": 0
+}

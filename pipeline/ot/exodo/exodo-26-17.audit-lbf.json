@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:17",
+  "chapter": 26,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Dos manos a la tabla la una, ensambladas mujer a su hermana; así harás a todas tablas del mishkán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026017013"
+      ],
+      "issue": "הַמִּשְׁכָּן is a common noun (dwelling); mishkán leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Dos manos, la una, ensambladas, mujer a su hermana, and 2ms harás stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:7",
+  "chapter": 23,
+  "verse": 7,
+  "candidateLabel": "pulir",
+  "spanish": "Desde palabra de mentira te alejarás, e inocente y justo no matarás, porque no justificaré al malo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023007003"
+      ],
+      "issue": "Qal imperfect 2ms is ‘be far / keep distant’; reflexive «te» is grammatical smoothing and does not add a participant.",
+      "spanishSpan": "te alejarás"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023007011"
+      ],
+      "issue": "Absolute adjective has no article; «al» adds definiteness (personal a plus el) as grammatical smoothing.",
+      "spanishSpan": "al malo"
+    }
+  ],
+  "notes": "Preposition, construct, both nouns, 2ms prohibition, hiphil 1cs, and the three adjectives stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

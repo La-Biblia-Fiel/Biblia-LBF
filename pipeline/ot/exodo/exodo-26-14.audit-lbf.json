@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:14",
+  "chapter": 26,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás cubierta a la tienda pieles de carneros enrojecidas, y cubierta de pieles de tahash desde arriba.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026014009"
+      ],
+      "issue": "Common noun, masculine plural absolute, is left as the untranslated singular transliteration tahash.",
+      "spanishSpan": "tahash"
+    }
+  ],
+  "notes": "The other tokens match: both coverings, tent, ram skins, pual passive, and desde arriba.",
+  "discardedUncitedFindings": 0
+}

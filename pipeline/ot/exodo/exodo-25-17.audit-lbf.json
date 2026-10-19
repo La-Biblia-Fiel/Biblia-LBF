@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:17",
+  "chapter": 25,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás kappóret de oro puro; dos codos y medio su largo, y codo y medio su ancho.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025017002"
+      ],
+      "issue": "Common noun (feminine singular construct) left as the untranslated lemma kappóret; common nouns stay Spanish.",
+      "spanishSpan": "kappóret"
+    }
+  ],
+  "notes": "Y harás, de oro puro, dual dos codos y medio, singular codo y medio, and the 3fs suffixes on largo and ancho match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

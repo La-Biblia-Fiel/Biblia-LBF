@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:23",
+  "chapter": 26,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y dos tablas harás a ángulos del mishkán en los fondos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026023005"
+      ],
+      "issue": "Common noun left untranslated as mishkán; a common noun stays Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026023006"
+      ],
+      "issue": "Feminine dual of the rear/flank noun is plural fondos, so the pair is lost and the sense shifts toward bottoms.",
+      "spanishSpan": "los fondos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026023004",
+        "h02026023005"
+      ],
+      "issue": "Definite construct for the corners of is bare indefinite a ángulos, which can read as making them into angles.",
+      "spanishSpan": "a ángulos"
+    }
+  ],
+  "notes": "Y dos tablas harás matches the conjunction, dual numeral, plural boards, and qal imperfect 2ms.",
+  "discardedUncitedFindings": 0
+}

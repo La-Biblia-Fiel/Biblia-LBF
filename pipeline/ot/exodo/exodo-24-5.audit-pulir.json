@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 24:5",
+  "chapter": 24,
+  "verse": 5,
+  "candidateLabel": "pulir",
+  "spanish": "Y envió a los jóvenes de hijos de Israel, y subieron holocaustos, y sacrificaron sacrificios, pazes, a Jehová, toros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02024005010"
+      ],
+      "issue": "H8002 is a masculine plural absolute noun for the peace-offering sacrifice. pazes is an irregular plural of abstract paz and omits that offering.",
+      "spanishSpan": "pazes"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02024005006",
+        "h02024005007"
+      ],
+      "issue": "Hiphil sequential 3mp (cause to go up) is smoothed as transitive subieron; the plural object holocaustos still carries the raising.",
+      "spanishSpan": "subieron holocaustos"
+    }
+  ],
+  "notes": "3ms sender, 3mp young men, Israel, Jehová, cognate sacrificaron sacrificios, and final toros match the tokens.",
+  "discardedUncitedFindings": 0
+}

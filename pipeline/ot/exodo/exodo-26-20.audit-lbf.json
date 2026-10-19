@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:20",
+  "chapter": 26,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y a costado del mishkán el segundo, a lado norte, veinte tabla.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026020002"
+      ],
+      "issue": "Common noun left as the untranslated dump mishkán; the token licenses a Spanish common noun.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026020003",
+        "h02026020001",
+        "h02026020002"
+      ],
+      "issue": "Feminine ordinal modifies the side, not the masculine tabernacle; masculine el segundo no longer marks that head and can be read with mishkán.",
+      "spanishSpan": "el segundo"
+    }
+  ],
+  "notes": "veinte tabla keeps the singular board token.",
+  "discardedUncitedFindings": 0
+}

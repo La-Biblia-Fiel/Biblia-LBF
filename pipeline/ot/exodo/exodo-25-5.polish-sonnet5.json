@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 25:5",
+  "chapter": 25,
+  "verse": 5,
+  "sourceDraft": "y pieles de carneros enrojecidas y pieles de tahash y maderas de shitím,",
+  "spanish": "y pieles de carneros enrojecidas y pieles de tahashim y maderas de acacia,",
+  "units": [
+    {
+      "es": "y pieles de carneros enrojecidas",
+      "sourceTokenIds": [
+        "h02025005001",
+        "h02025005002",
+        "h02025005003"
+      ]
+    },
+    {
+      "es": "y pieles de tahashim",
+      "sourceTokenIds": [
+        "h02025005004",
+        "h02025005005"
+      ]
+    },
+    {
+      "es": "y maderas de acacia",
+      "sourceTokenIds": [
+        "h02025005006",
+        "h02025005007"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Pluralized the transliteration tahash to tahashim to match תְּחָשִׁים (masculine plural absolute, h02025005005); the packet supplies no gloss for the species, so the lemma itself stays transliterated rather than a species name supplied from memory.",
+    "Replaced the untranslated transliteration shitím with the common-noun gloss acacia for h02025005007 (שִׁטִּים, feminine plural absolute), using the gloss the auditor finding itself cites."
+  ],
+  "meaningChanges": [],
+  "readerNote": "hold: clause role, since the masculine plural participle enrojecidas (מְאָדָּמִים) can grammatically attach to either pieles or carneros and the draft is left unchanged on that choice, while tahashim keeps the Hebrew plural transliterated because the packet supplies no gloss for the species.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:9",
+  "chapter": 25,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Conforme a todo lo que yo mostrando a ti, el modelo del mishkán y el modelo de todos sus utensilios, y así harán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025009008"
+      ],
+      "issue": "הַמִּשְׁכָּן is a common noun (article + masculine singular), left as the untranslated lemma mishkán instead of Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025009004"
+      ],
+      "issue": "Hiphil active participle is a bare gerund, so the relative clause has no finite predicate; the showing concept is still present.",
+      "spanishSpan": "mostrando"
+    }
+  ],
+  "notes": "2mp תַּעֲשׂוּ as harán is ustedes address; כֵּלָיו plural with a 3ms suffix matches sus utensilios.",
+  "discardedUncitedFindings": 0
+}

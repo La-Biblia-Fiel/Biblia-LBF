@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:36",
+  "chapter": 25,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "Sus manzanas y sus cañas desde ella serán; toda ella martillo una, oro puro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025036001"
+      ],
+      "issue": "manzanas añade el concepto manzana/fruto; el lemma H3730 es un elemento arquitectónico (botón, disco o capitel), no una fruta",
+      "spanishSpan": "manzanas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025036006"
+      ],
+      "issue": "martillo nombra el instrumento; el lemma H4749 es la pieza labrada a martillo (obra batida), no el martillo",
+      "spanishSpan": "martillo"
+    }
+  ],
+  "notes": "cañas, desde ella, serán, toda ella, una y oro puro siguen número, persona y lemas del paquete.",
+  "discardedUncitedFindings": 0
+}

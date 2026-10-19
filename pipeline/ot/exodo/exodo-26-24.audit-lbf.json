@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:24",
+  "chapter": 26,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y serán gemelas desde abajo, y juntos serán enteros sobre su cabeza al anillo el uno; así será a ambos, a los dos ángulos serán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026024002"
+      ],
+      "issue": "Sustantivo masculino plural (gemelos) vertido como femenino «gemelas».",
+      "spanishSpan": "gemelas"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026024011"
+      ],
+      "issue": "El cardinal hebreo es femenino singular; el español lo suaviza a masculino «el uno» para concordar con «anillo».",
+      "spanishSpan": "el uno"
+    }
+  ],
+  "notes": "Los cuatro imperfectos de ser, el dual y el resto de los conceptos quedan cubiertos.",
+  "discardedUncitedFindings": 0
+}

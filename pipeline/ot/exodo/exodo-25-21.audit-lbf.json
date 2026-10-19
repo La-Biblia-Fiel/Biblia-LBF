@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:21",
+  "chapter": 25,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y darás la kappóret sobre el arca desde arriba, y al arca darás el testimonio que daré a ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025021003"
+      ],
+      "issue": "Common noun הַכַּפֹּרֶת (H3727, definite feminine singular) is left as the untranslated transliteration kappóret.",
+      "spanishSpan": "kappóret"
+    }
+  ],
+  "notes": "Person, number, and the remaining clauses match the tokens.",
+  "discardedUncitedFindings": 0
+}

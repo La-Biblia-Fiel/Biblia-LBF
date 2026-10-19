@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:25",
+  "chapter": 25,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás a ella marco de palmo alrededor, y harás moldura de oro a su marco alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025025002"
+      ],
+      "issue": "Suffix is 3ms (לּוֹ); Spanish “ella” marks a feminine participant.",
+      "spanishSpan": "a ella"
+    }
+  ],
+  "notes": "Remaining tokens match: both qal 2ms “harás”, construct frame of one handbreadth, both “alrededor”, gold molding, and 3ms “su marco”.",
+  "discardedUncitedFindings": 0
+}

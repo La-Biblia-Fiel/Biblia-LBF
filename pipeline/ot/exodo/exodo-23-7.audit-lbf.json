@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:7",
+  "chapter": 23,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Desde palabra de mentira te alejarás, e inocente y justo no matarás, porque no justificaré a malo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023007010",
+        "h02023007011"
+      ],
+      "issue": "Unmarked personal a before the human object is Spanish grammatical smoothing; the Hebrew has no preposition and the a adds no concept.",
+      "spanishSpan": "a"
+    }
+  ],
+  "notes": "Remaining wording matches the tokens in person, number, and stem.",
+  "discardedUncitedFindings": 0
+}

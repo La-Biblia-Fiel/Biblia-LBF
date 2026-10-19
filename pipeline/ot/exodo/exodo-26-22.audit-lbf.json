@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:22",
+  "chapter": 26,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y a fondos del mishkán hacia el mar harás seis tablas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02026022002"
+      ],
+      "issue": "H4908 is a common noun with the article, left as the transliteration mishkán instead of Spanish.",
+      "spanishSpan": "mishkán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026022001"
+      ],
+      "issue": "Feminine dual construct is an unmarked plural, fondos, which also narrows a lemma open to flank, side, or rear.",
+      "spanishSpan": "fondos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026022003"
+      ],
+      "issue": "Directional suffix is hacia; the article el is Spanish smoothing. The noun stays mar.",
+      "spanishSpan": "el mar"
+    }
+  ],
+  "notes": "Y, harás, seis, and tablas match the conjunction, qal imperfect 2ms, cardinal six, and masculine plural boards.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:5",
+  "chapter": 25,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "y pieles de carneros enrojecidas y pieles de tahash y maderas de shitím,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025005001",
+        "h02025005002",
+        "h02025005003"
+      ],
+      "issue": "The pual passive participle is masculine plural and can agree with the skins or the rams. enrojecidas binds the reddening only to pieles.",
+      "spanishSpan": "enrojecidas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025005005"
+      ],
+      "issue": "תְּחָשִׁים is a common noun (masculine plural absolute), not a proper name. tahash leaves the lemma untranslated and changes the plural to a singular label.",
+      "spanishSpan": "tahash"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025005007"
+      ],
+      "issue": "שִׁטִּים is a common noun (feminine plural absolute, acacia), not a proper name. shitím leaves the lemma untranslated.",
+      "spanishSpan": "shitím"
+    }
+  ],
+  "notes": "y pieles de carneros and y maderas de match the two construct chains and their conjunctions.",
+  "discardedUncitedFindings": 0
+}

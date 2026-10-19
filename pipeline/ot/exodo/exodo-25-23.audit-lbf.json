@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:23",
+  "chapter": 25,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y harás mesa de maderas de shitím; dos codos su largo, y codo su ancho, y codo y medio su alto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025023004"
+      ],
+      "issue": "Common noun (feminine plural absolute), not a locked proper name, is left as untranslated Hebrew.",
+      "spanishSpan": "shitím"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025023002",
+        "h02025023003"
+      ],
+      "issue": "Unmarked de joins absolute mesa to the wood phrase; Hebrew juxtaposes them. Grammatical smoothing only.",
+      "spanishSpan": "mesa de maderas"
+    }
+  ],
+  "notes": "Person, qal stem, dual and singular cubits, half, and 3ms suffixes match.",
+  "discardedUncitedFindings": 0
+}

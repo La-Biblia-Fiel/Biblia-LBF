@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 26:26",
+  "chapter": 26,
+  "verse": 26,
+  "candidateLabel": "pulir",
+  "spanish": "Y harás travesaños maderas de acacia, cinco a tablas de costado del tabernáculo el uno.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02026026004"
+      ],
+      "issue": "שִׁטִּים is feminine plural; Spanish acacia is singular. Species name as material, without a change of referent.",
+      "spanishSpan": "acacia"
+    }
+  ],
+  "notes": "Y harás, travesaños, maderas, cinco, a tablas, costado, del tabernáculo, and el uno match the remaining tokens in person, number, stem, definiteness, and order.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 24:5",
+  "chapter": 24,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y envió a los jóvenes de hijos de Israel, y subieron holocaustos, y sacrificaron sacrificios de pazes a Jehová, toros.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02024005009",
+        "h02024005010"
+      ],
+      "issue": "Both nouns are absolute; 'de pazes' smooths the juxtaposition into a genitive quality phrase. The peace-offering sense and plural remain.",
+      "spanishSpan": "sacrificios de pazes"
+    }
+  ],
+  "notes": "Person, number, hiphil object, cognate sacrifice, Jehová, and final toros match the tokens.",
+  "discardedUncitedFindings": 0
+}

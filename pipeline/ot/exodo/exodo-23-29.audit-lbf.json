@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:29",
+  "chapter": 23,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "No lo echaré de delante de ti en año uno, no sea que sea la tierra desolación, y se multiplique sobre ti animal del campo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023029004",
+        "h02023029005"
+      ],
+      "issue": "בְּשָׁנָה אֶחָת is an indefinite cardinal span (in one year). «en año uno» reads as a numbered year in a sequence (year one), which the tokens do not license.",
+      "spanishSpan": "en año uno"
+    }
+  ],
+  "notes": "The rest matches person, number, the 3ms object, פֶּן, and the 3fs increase of the field animal.",
+  "discardedUncitedFindings": 0
+}

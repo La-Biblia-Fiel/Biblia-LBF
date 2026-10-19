@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 25:22",
+  "chapter": 25,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y me citaré a ti allí, y hablaré contigo desde sobre la kappóret, desde entre los dos querubines que sobre arca del testimonio, todo lo que mandaré a ti a hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02025022007"
+      ],
+      "issue": "Common noun (definite feminine singular) left as the untranslated Hebraized form kappóret; non-name lemmas stay Spanish.",
+      "spanishSpan": "kappóret"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025022001"
+      ],
+      "issue": "Niphal sequential 1cs is rendered with pronominal citarse; me citaré can be heard as quote/summon myself rather than meet by appointment, though the 1cs subject and לְךָ goal stay intact.",
+      "spanishSpan": "me citaré"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02025022016",
+        "h02025022017"
+      ],
+      "issue": "lo in todo lo que is unmarked grammatical smoothing with no separate token; it does not add a concept beyond all-that.",
+      "spanishSpan": "lo"
+    }
+  ],
+  "notes": "Place, two cherubim, ark of the testimony, and the command to you toward the sons of Israel match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

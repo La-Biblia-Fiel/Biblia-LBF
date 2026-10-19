@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 24:2",
+  "chapter": 24,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y se acercará Moisés solo a Jehová, y ellos no se acercarán, y el pueblo no subirá con él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02024002009",
+        "h02024002011"
+      ],
+      "issue": "Qal imperfect 3mp is smoothed to singular subirá to agree with the singular collective el pueblo.",
+      "spanishSpan": "subirá"
+    }
+  ],
+  "notes": "The other tokens are represented without added or dropped concepts.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:31",
+  "chapter": 23,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y pondré tu límite desde mar de Suf y hasta mar de filisteos, y desde desierto hasta el río, porque daré en mano de ustedes a moradores de la tierra, y los echarás de delante de ti.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023031005"
+      ],
+      "issue": "Suf leaves the common noun סוּף untranslated. The token is not a proper name and licenses reed/rush.",
+      "spanishSpan": "Suf"
+    }
+  ],
+  "notes": "ustedes then echarás/ti matches the packet’s 2mp then 2ms.",
+  "discardedUncitedFindings": 0
+}
