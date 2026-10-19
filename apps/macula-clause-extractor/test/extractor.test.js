@@ -46,3 +46,11 @@ test("loads a passage through the book/chapter/range boundary", async () => {
   assert.equal(output.passage.book, "Isaiah");
   assert.equal(output.clauses[0].provenance.lbf_source, "translation/ot/isaias.md");
 });
+
+test("uses MACULA's Jol source code for Joel without changing Protestant references", async () => {
+  const output = await loadPassage(root, { book: "Joel", chapter: 1, firstVerse: 1, lastVerse: 1 });
+  assert.equal(output.passage.book, "Joel");
+  assert.equal(output.passage.chapter, 1);
+  assert.ok(output.clauses.length > 0);
+  assert.equal(output.clauses[0].provenance.macula_file, "WLC/nodes/29-Jol-001.xml");
+});

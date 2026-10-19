@@ -154,10 +154,14 @@ function compactUnit(proposition) {
 }
 
 /** One request per bounded window; all target questions travel together. No network occurs here. */
-export async function buildContextWindowRequest(repoRoot, window) {
+export async function buildContextWindowRequest(repoRoot, window, { targetVerses = null } = {}) {
   const source_window = await loadSourceVerses(repoRoot, window);
   const analysis = buildPropositions(await loadPassage(repoRoot, window));
-  return buildRequestFromEvidence(source_window, analysis.propositions.map(compactUnit), { window });
+  const selectedVerses = targetVerses ? new Set(targetVerses) : null;
+  const units = analysis.propositions
+    .filter(proposition => !selectedVerses || selectedVerses.has(proposition.reference.verse))
+    .map(compactUnit);
+  return buildRequestFromEvidence(source_window, units, { window });
 }
 
 function buildRequestFromEvidence(source_window, units, { window, fragments = null } = {}) {

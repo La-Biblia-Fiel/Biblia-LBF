@@ -1,6 +1,8 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { buildRepresentativeBatch, buildScanWindows, enforceSpendingCap, inventoryDisposition, planBoundedRun } from "../src/candidate-scan.js";
+import { buildContextWindowRequest, buildRepresentativeBatch, buildScanWindows, enforceSpendingCap, inventoryDisposition, planBoundedRun } from "../src/candidate-scan.js";
+
+const root = new URL("../../..", import.meta.url).pathname;
 
 test("builds bounded same-chapter scan windows and enforces caps before execution", () => {
   const verses = [{ verse_id: "23:53:4", book: "Isaiah", chapter: 53, verse: 4 }, { verse_id: "23:53:5", book: "Isaiah", chapter: 53, verse: 5 }, { verse_id: "23:54:1", book: "Isaiah", chapter: 54, verse: 1 }];
@@ -15,6 +17,13 @@ test("plans a resumable subset below the token cap even when a full projection i
   assert.equal(plan.permitted_windows, 2);
   assert.equal(plan.estimated_input_tokens, 200);
   assert.match(plan.stop_rule, /Before each window/);
+});
+
+test("keeps full local context while serializing only the selected target verses", async () => {
+  const request = await buildContextWindowRequest(root, { book: "Genesis", chapter: 12, firstVerse: 1, lastVerse: 3 }, { targetVerses: [2] });
+  assert.equal(request.state.source_window.length, 3);
+  assert.ok(request.state.statements.length > 0);
+  assert.ok(request.state.statements.every(statement => statement.reference.verse === 2));
 });
 
 test("keeps the 1 Kings narrative targets identical and outside the model payload expectations", async () => {
