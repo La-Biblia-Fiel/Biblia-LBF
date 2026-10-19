@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:8",
+  "chapter": 21,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Si mala en ojos de su señor que a sí la designó, la rescatará; a pueblo extranjero no señoreará para venderla, en su traicionar en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021008006"
+      ],
+      "issue": "«a sí» adds a reflexive himself; the token is only qal perfect 3ms plus a 3fs object suffix",
+      "spanishSpan": "a sí"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021008004",
+        "h02021008006"
+      ],
+      "issue": "אֲדֹנֶיהָ is tagged masculine plural construct, while «señor» is singular; the relative verb is 3ms, so one male participant is also licensed and the number is uncertain",
+      "spanishSpan": "su señor"
+    }
+  ],
+  "notes": "The remaining clauses keep the packet’s person, suffixes, negation, and prepositions, including both ב phrases.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:18",
+  "chapter": 23,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "No sacrificarás sobre leudado sangre de mi sacrificio, y no pernoctará sebo de mi fiesta hasta mañana.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023018012"
+      ],
+      "issue": "בֹּקֶר is the noun morning; «hasta mañana» reads as until tomorrow and drops morning.",
+      "spanishSpan": "hasta mañana"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens in person, number, and participants.",
+  "discardedUncitedFindings": 0
+}

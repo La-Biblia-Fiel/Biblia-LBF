@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:19",
+  "chapter": 22,
+  "verse": 19,
+  "candidateLabel": "pulir",
+  "spanish": "Todo yacente con bestia, de morir será muerto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022019005"
+      ],
+      "issue": "de is unmarked Spanish scaffolding on the qal infinitive absolute; it adds no participant or second action",
+      "spanishSpan": "de"
+    }
+  ],
+  "notes": "Todo yacente con bestia matches כל שכב עם בהמה; morir plus será muerto keeps qal infinitive absolute and hophal imperfect 3ms.",
+  "discardedUncitedFindings": 0
+}

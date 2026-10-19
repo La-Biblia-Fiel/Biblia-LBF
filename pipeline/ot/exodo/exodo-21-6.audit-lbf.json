@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:6",
+  "chapter": 21,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y lo acercará su señor a Dios, y lo acercará a la puerta o al quicial, y perforará su señor su oreja con el perforador, y lo servirá para siempre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021006002",
+        "h02021006012"
+      ],
+      "issue": "אֲדֹנָיו is morphologically a masculine plural construct with a 3ms suffix; «su señor» changes that number to one master.",
+      "spanishSpan": "su señor"
+    }
+  ],
+  "notes": "הָאֱלֹהִים → Dios is licensed; the plural on אֲדֹנָיו is not.",
+  "discardedUncitedFindings": 0
+}

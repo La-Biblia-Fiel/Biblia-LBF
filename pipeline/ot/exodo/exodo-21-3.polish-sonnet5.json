@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 21:3",
+  "chapter": 21,
+  "verse": 3,
+  "sourceDraft": "Si en su soledad viene, en su soledad saldrá; si dueño de mujer él, y saldrá su mujer con él.",
+  "spanish": "Si en su cuerpo viene, en su cuerpo saldrá; si él *es* dueño de mujer, y saldrá su mujer con él.",
+  "units": [],
+  "grammarChanges": [
+    "Replaced 'soledad' (solitude) with 'cuerpo' at both occurrences of H1610 (sourceTokenIds h02021003002, h02021003004); those tokens license body/back/person, not an abstract emotional noun.",
+    "Supplied the copula 'es' (italicized) for the verbless Hebrew nominal clause 'dueño de mujer él' and moved the pronoun to subject position, since Spanish requires a finite verb there."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'cuerpo' from the licensed body/back/person sense for H1610 rather than 'soledad'; supplied copula *es* in italics for the verbless clause 'dueño de mujer'.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

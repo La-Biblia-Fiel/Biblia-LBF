@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:11",
+  "chapter": 23,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y el séptimo la soltarás y la abandonarás, y comerán necesitados de tu pueblo, y su resto comerá animal del campo; así harás a tu viña, a tu olivo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023011007",
+        "h02023011008",
+        "h02023011009",
+        "h02023011010"
+      ],
+      "issue": "The 3fs verb agrees with feminine חַיַּת, so the beast of the field eats the fronted remainder; Spanish makes the remainder the eater and the animal the thing eaten.",
+      "spanishSpan": "su resto comerá animal del campo"
+    }
+  ],
+  "notes": "Release, abandon, the needy of your people, thus you shall do to your vineyard and your olive match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022028003",
+        "h02022028007"
+      ],
+      "issue": "H7043 piel and H779 qal are different lemmas and stems, but both are rendered maldecirás, so the lexical distinction is omitted.",
+      "spanishSpan": "maldecirás"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022028001",
+        "h02022028004"
+      ],
+      "issue": "Spanish personal a is grammatical smoothing; the object tokens have no preposition.",
+      "spanishSpan": "A Dios a príncipe"
+    }
+  ],
+  "notes": "Dios, singular príncipe, 2ms futures, and en tu pueblo match the remaining tokens."
+}

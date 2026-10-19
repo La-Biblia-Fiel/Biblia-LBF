@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:27",
+  "chapter": 21,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y si diente de su siervo o diente de su sierva hace caer, a libre lo enviará debajo de su diente.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021027002",
+        "h02021027005",
+        "h02021027007"
+      ],
+      "issue": "Hiphil imperfect 3ms causes the tooth to fall: the unnamed masculine singular is the agent and the tooth is the patient. Spanish makes diente the subject of hace caer and names no patient.",
+      "spanishSpan": "diente de su siervo o diente de su sierva hace caer"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021027010"
+      ],
+      "issue": "תחת is only a preposition, open between under and in place of. debajo de locks the spatial under sense.",
+      "spanishSpan": "debajo de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021027008"
+      ],
+      "issue": "HRd and the לַ surface include the definite article on the adjective free. a libre does not mark it.",
+      "spanishSpan": "a libre"
+    }
+  ],
+  "notes": "lo matches the 3ms suffix on the send verb; su siervo / su sierva match the two construct phrases.",
+  "discardedUncitedFindings": 0
+}

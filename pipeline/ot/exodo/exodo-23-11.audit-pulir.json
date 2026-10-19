@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:11",
+  "chapter": 23,
+  "verse": 11,
+  "candidateLabel": "pulir",
+  "spanish": "Y el séptimo la soltarás y la abandonarás, y comerán necesitados de tu pueblo, y su resto lo comerá el animal del campo; así harás a tu viña, a tu olivo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023011001"
+      ],
+      "issue": "Ordinal is feminine singular absolute; Spanish uses the masculine article and ordinal.",
+      "spanishSpan": "el séptimo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023011005",
+        "h02023011006"
+      ],
+      "issue": "The construct is definite because the people-noun has a 2ms suffix; the bare plural leaves that definiteness unmarked.",
+      "spanishSpan": "necesitados"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023011007",
+        "h02023011008"
+      ],
+      "issue": "lo only resumes the fronted remainder as object of the 3fs verb and has no separate token.",
+      "spanishSpan": "lo"
+    }
+  ],
+  "notes": "Qal 2ms acts on a 3fs suffix; the needy eat and the beast eats their remainder; vineyard and olive stay separate, with no added conjunction.",
+  "discardedUncitedFindings": 0
+}

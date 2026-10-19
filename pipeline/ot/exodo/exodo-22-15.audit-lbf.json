@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:15",
+  "chapter": 22,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Si sus dueños con él, no pagará; si jornalero él, viene en su jornal.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022015007"
+      ],
+      "issue": "Adjective masculine singular ‘hired’ is rendered as the noun ‘jornalero’ (a human day laborer), resolving an open ‘hired’ into a specialized worker.",
+      "spanishSpan": "jornalero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022015009"
+      ],
+      "issue": "Qal perfect 3ms (completed ‘came’) is rendered as present ‘viene’, dropping the completed aspect.",
+      "spanishSpan": "viene"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022015010"
+      ],
+      "issue": "‘jornal’ adds a day-wage unit; the token is hire/wages with preposition ‘in’ and a 3ms suffix.",
+      "spanishSpan": "jornal"
+    }
+  ],
+  "notes": "Si sus dueños con él, no pagará matches אם בעליו עמו לא ישלם.",
+  "discardedUncitedFindings": 0
+}

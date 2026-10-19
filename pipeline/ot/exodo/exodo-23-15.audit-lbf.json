@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:15",
+  "chapter": 23,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "La fiesta de los panes ázimos guardarás; siete días comerás panes ázimos, conforme a lo que te mandé, al tiempo de mes del Aviv, porque en él saliste desde Egipto; y no se verán mis faces vacíos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023015013"
+      ],
+      "issue": "Common noun הָאָבִיב (H24, article + common noun, not a proper name) is left untranslated as Aviv.",
+      "spanishSpan": "Aviv"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023015011"
+      ],
+      "issue": "tiempo flattens מוֹעֵד (appointed time) to generic time.",
+      "spanishSpan": "tiempo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023015021",
+        "h02023015020"
+      ],
+      "issue": "Adverb רֵיקָם is rendered as the adjective vacíos, attaching emptiness to the faces.",
+      "spanishSpan": "vacíos"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens in person, number, and participants.",
+  "discardedUncitedFindings": 0
+}

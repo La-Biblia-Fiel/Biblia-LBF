@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:17",
+  "chapter": 22,
+  "verse": 17,
+  "candidateLabel": "pulir",
+  "spanish": "Si negando niega su padre a darla a él, plata pesará conforme al precio de las vírgenes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022017007",
+        "h02022017008"
+      ],
+      "issue": "כסף es lo que se pesa e ישקל es qal imperfecto 3ms (un agente masculino pesa la plata). «plata pesará» pone plata como sujeto, así que la plata pesa y desaparece el agente 3ms.",
+      "spanishSpan": "plata pesará"
+    }
+  ],
+  "notes": "El resto del versículo (si, negando niega, su padre, darla a él, conforme al precio de las vírgenes) sigue los tokens.",
+  "discardedUncitedFindings": 0
+}

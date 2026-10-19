@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:4",
+  "chapter": 22,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Si siendo hallado es hallado en su mano el hurto, desde buey hasta asno hasta cordero, vivos, dos pagará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022004010"
+      ],
+      "issue": "שֶׂה (H7716), a single common-gender flock animal (sheep or goat), is narrowed to a young sheep.",
+      "spanishSpan": "cordero"
+    }
+  ],
+  "notes": "The other tokens match: inf. abs. + niphal 3fs, in his hand, the theft, from ox until donkey until flock-animal, living (mp), two, piel 3ms repay.",
+  "discardedUncitedFindings": 0
+}

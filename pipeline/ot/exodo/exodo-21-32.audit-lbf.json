@@ -1,0 +1,30 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:32",
+  "chapter": 21,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Si siervo embiste el buey, o sierva, plata treinta siclos dará a su señor, y el buey será apedreado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021032002",
+        "h02021032003",
+        "h02021032004",
+        "h02021032005",
+        "h02021032006",
+        "h02021032011",
+        "h02021032012",
+        "h02021032013"
+      ],
+      "issue": "Spanish makes the servant the agent who gores the ox and leaves the maidservant outside that pair. The verb is qal 3ms; the servant and the ox are both masculine singular, so morphology does not assign the servant as subject. The definite ox is the one that is stoned, and the silver is given to his master: the licensed participants are the ox goring the servant or the maidservant. The Spanish reverses agent and patient and breaks the servant-or-maidservant coordination.",
+      "spanishSpan": "siervo embiste el buey, o sierva"
+    }
+  ],
+  "notes": "Silver, thirty shekels, the unnamed 3ms giver, and the ox being stoned match their tokens.",
+  "discardedUncitedFindings": 0
+}

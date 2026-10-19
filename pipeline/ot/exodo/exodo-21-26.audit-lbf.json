@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:26",
+  "chapter": 21,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando hiere varón ojo de su siervo o ojo de su sierva, y lo echa a perder, a libre lo enviará debajo de su ojo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021026014"
+      ],
+      "issue": "H8478 is only marked as a preposition, so under and in place of stay open. «debajo de» resolves it to a place under the eye and drops the substitution sense.",
+      "spanishSpan": "debajo de"
+    }
+  ],
+  "notes": "The rest of the clause keeps the licensed participants, number, and stems.",
+  "discardedUncitedFindings": 0
+}

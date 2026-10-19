@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:3",
+  "chapter": 22,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Si nace el sol sobre él, sangres a él; pagando pagará; si no hay a él, y será vendido en su hurto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022003002"
+      ],
+      "issue": "Qal perfect 3fs of H2224 (rise/shine) is present 'nace', smoothing a completed rising into the sunrise idiom.",
+      "spanishSpan": "nace"
+    }
+  ],
+  "notes": "Plural sangres, infinitive-absolute repetition, verbless דמים לו, and niphal passive stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

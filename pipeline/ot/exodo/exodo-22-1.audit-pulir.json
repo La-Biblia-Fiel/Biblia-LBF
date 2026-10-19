@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:1",
+  "chapter": 22,
+  "verse": 1,
+  "candidateLabel": "pulir",
+  "spanish": "Cuando hurta varón buey o animal del rebaño, y lo degüella o lo ha vendido, cinco reses pagará en lugar del buey, y cuatro cabezas de rebaño en lugar del animal del rebaño.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022001015",
+        "h02022001016"
+      ],
+      "issue": "«cabezas» is a Spanish counter so the collective flock noun can be read as four animals; the tokens license four of the flock and have no separate head-noun.",
+      "spanishSpan": "cabezas"
+    }
+  ],
+  "notes": "Ox versus cattle and flock-animal versus flock stay distinct; person, suffixes, and restitution sense match the tokens.",
+  "discardedUncitedFindings": 0
+}

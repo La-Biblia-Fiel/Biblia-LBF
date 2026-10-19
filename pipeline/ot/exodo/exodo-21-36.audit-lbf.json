@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:36",
+  "chapter": 21,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "O conocido que buey embistente él desde ayer anteayer, y no lo guardan sus dueños, pagando pagará buey debajo del buey, y el muerto será a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021036010"
+      ],
+      "issue": "Qal imperfect 3ms with a 3ms suffix is rendered as 3pl guardan, changing the verb's number.",
+      "spanishSpan": "guardan"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021036002"
+      ],
+      "issue": "Niphal perfect 3ms is rendered as the adjective conocido, without a finite verb.",
+      "spanishSpan": "conocido"
+    }
+  ],
+  "notes": "Plural owners do not relicense the singular guard-verb as 3pl.",
+  "discardedUncitedFindings": 0
+}

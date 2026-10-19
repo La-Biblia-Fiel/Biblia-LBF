@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:3",
+  "chapter": 22,
+  "verse": 3,
+  "candidateLabel": "pulir",
+  "spanish": "Si ha nacido el sol sobre él, sangres a él; pagando pagará; si no hay a él, y será vendido en su hurto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022003002"
+      ],
+      "issue": "«ha nacido» adds birth; H2224 is qal perfect 3fs rise/shine, with the sun as subject.",
+      "spanishSpan": "ha nacido"
+    }
+  ],
+  "notes": "The rest stays inside the tokens: plural sangres, לוֹ, the doubled piel, אין לו, niphal sale, and ב plus his theft.",
+  "discardedUncitedFindings": 0
+}

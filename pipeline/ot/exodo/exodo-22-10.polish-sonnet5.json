@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 22:10",
+  "chapter": 22,
+  "verse": 10,
+  "sourceDraft": "Cuando da varón a su compañero asno o buey o cordero y toda bestia a guardar, y muere o es quebrado o capturado, no hay vidente,",
+  "spanish": "Cuando da varón a su compañero asno o buey o animal del rebaño y toda bestia a guardar, y muere o es quebrado o capturado, no hay quien vea,",
+  "units": [],
+  "grammarChanges": [
+    "cordero → animal del rebaño: שֶׂה is one flock animal, singular, common gender, with no age or species specified; cordero wrongly narrows it to a young sheep. 'animal del rebaño' matches the rendering already used for this same lemma in 22:1 and 22:4.",
+    "vidente → quien vea: the qal active participle רֹאֶה means 'one who sees,' not a seer/visionary. Restored as a relative clause; subjunctive 'vea' is required by Spanish grammar after a negated existential antecedent ('no hay quien...')."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose subjunctive 'vea' over indicative 've' for the negated existential relative clause (no hay quien vea), a grammatical requirement, not a meaning choice.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

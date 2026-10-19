@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:3",
+  "chapter": 21,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Si en su soledad viene, en su soledad saldrá; si dueño de mujer él, y saldrá su mujer con él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021003002",
+        "h02021003004"
+      ],
+      "issue": "«soledad» names solitude/loneliness. H1610 with בְּ and a 3ms suffix is the noun body/back/person (his body/self), which those tokens do not license as solitude.",
+      "spanishSpan": "en su soledad"
+    }
+  ],
+  "notes": "Other tokens keep if, come/go out, owner of a woman, he, his woman, and with him, with person and number intact.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,59 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 23:11",
+  "chapter": 23,
+  "verse": 11,
+  "sourceDraft": "Y el séptimo la soltarás y la abandonarás, y comerán necesitados de tu pueblo, y su resto comerá animal del campo; así harás a tu viña, a tu olivo.",
+  "spanish": "Y el séptimo la soltarás y la abandonarás, y comerán necesitados de tu pueblo, y su resto lo comerá el animal del campo; así harás a tu viña, a tu olivo.",
+  "units": [
+    {
+      "es": "Y el séptimo la soltarás",
+      "sourceTokenIds": [
+        "h02023011001",
+        "h02023011002"
+      ]
+    },
+    {
+      "es": "y la abandonarás",
+      "sourceTokenIds": [
+        "h02023011003"
+      ]
+    },
+    {
+      "es": "y comerán necesitados de tu pueblo",
+      "sourceTokenIds": [
+        "h02023011004",
+        "h02023011005",
+        "h02023011006"
+      ]
+    },
+    {
+      "es": "y su resto lo comerá el animal del campo",
+      "sourceTokenIds": [
+        "h02023011007",
+        "h02023011008",
+        "h02023011009",
+        "h02023011010"
+      ]
+    },
+    {
+      "es": "así harás a tu viña, a tu olivo",
+      "sourceTokenIds": [
+        "h02023011011",
+        "h02023011012",
+        "h02023011013",
+        "h02023011014"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Added resumptive clitic 'lo' to the fronted object (su resto) and the definite article to 'el animal del campo' so that the field animal, not the remainder, reads as the subject-eater, matching the 3fs verb's agreement with feminine חַיַּת rather than masculine יִתְרָם."
+  ],
+  "meaningChanges": [],
+  "readerNote": "The Hebrew word order left in Spanish made 'su resto' read as subject; reordering with a resumptive 'lo' restores 'el animal del campo' as the one eating, per the 3fs verb's agreement with feminine חַיַּת.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

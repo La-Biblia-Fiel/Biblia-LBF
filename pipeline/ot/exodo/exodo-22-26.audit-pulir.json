@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:26",
+  "chapter": 22,
+  "verse": 26,
+  "candidateLabel": "pulir",
+  "spanish": "Si tomas en prenda el vestido de tu compañero, hasta que venga el sol se lo devolverás a él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022026002",
+        "h02022026003"
+      ],
+      "issue": "Qal infinitive absolute and the matching imperfect are one verb in Spanish, so the emphatic repetition is smoothed away.",
+      "spanishSpan": "tomas en prenda"
+    }
+  ],
+  "notes": "Si, vestido, compañero, hasta que venga el sol, and hiphil devolverlo a él match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

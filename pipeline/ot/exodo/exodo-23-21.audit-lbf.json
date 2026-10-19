@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:21",
+  "chapter": 23,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Guárdate de sus faces, y oye en su voz; no te amargues en él, porque no alzará a delitos de ustedes, porque mi nombre en medio de él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023021006"
+      ],
+      "issue": "Hiphil jussive 2ms is causative and has no reflexive suffix; 'te amargues' turns it into a middle/reflexive and adds an unmarked pronoun.",
+      "spanishSpan": "te amargues"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023021011"
+      ],
+      "issue": "The noun is masculine singular construct with a 2mp suffix; 'delitos' is plural.",
+      "spanishSpan": "delitos"
+    }
+  ],
+  "notes": "Tú matches the 2ms imperatives, ustedes matches the 2mp suffix, and the last clause stays verbless.",
+  "discardedUncitedFindings": 0
+}

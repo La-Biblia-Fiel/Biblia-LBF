@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:2",
+  "chapter": 23,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "No serás detrás de muchos a males, y no responderás sobre contienda para inclinarte detrás de muchos para torcer.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023002010"
+      ],
+      "issue": "Qal infinitive construct has no pronominal suffix; the reflexive clitic marks the addressee as the object of inclinar.",
+      "spanishSpan": "inclinarte"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023002013"
+      ],
+      "issue": "Hiphil infinitive of the same lemma is rendered torcer, a narrower twist, so the causative incline/turn is only partly visible.",
+      "spanishSpan": "torcer"
+    }
+  ],
+  "notes": "Person, number, negatives, and the repeated detrás de muchos match the tokens.",
+  "discardedUncitedFindings": 0
+}

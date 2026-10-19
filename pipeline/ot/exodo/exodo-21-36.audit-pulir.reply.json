@@ -1,0 +1,30 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021036011"
+      ],
+      "issue": "Noun is masculine plural construct plus a 3ms suffix; singular dueño changes the number.",
+      "spanishSpan": "su dueño"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021036015"
+      ],
+      "issue": "Preposition lemma leaves under and in-place-of open; debajo resolves it as spatial underneath.",
+      "spanishSpan": "debajo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021036010"
+      ],
+      "issue": "Qal imperfect 3ms is not marked future; guardará locks a future indicative.",
+      "spanishSpan": "guardará"
+    }
+  ],
+  "notes": "Remaining tokens match in person, stem, definiteness, and repetition."
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:4",
+  "chapter": 21,
+  "verse": 4,
+  "candidateLabel": "pulir",
+  "spanish": "Si su señor le da mujer, y le da a luz hijos o hijas, la mujer y sus hijos será de su señor, y él saldrá solo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021004006",
+        "h02021004005",
+        "h02021004003"
+      ],
+      "issue": "וְיָלְדָה is qal 3fs: the woman bears. Coordinated “da a luz” keeps the subject su señor (יִתֶּן, 3ms), so the master gives birth.",
+      "spanishSpan": "le da a luz"
+    }
+  ],
+  "notes": "לו as le, and בְגַפּוֹ as solo, stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

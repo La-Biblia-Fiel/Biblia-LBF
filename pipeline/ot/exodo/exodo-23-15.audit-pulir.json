@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:15",
+  "chapter": 23,
+  "verse": 15,
+  "candidateLabel": "pulir",
+  "spanish": "La fiesta de los panes ázimos guardarás; siete días comerás panes ázimos, conforme a lo que te mandé, al tiempo señalado del mes de las espigas, porque en él saliste desde Egipto; y no se verán mis faces vacío.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023015013"
+      ],
+      "issue": "הָאָבִיב is singular; «las espigas» is plural.",
+      "spanishSpan": "las espigas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023015020"
+      ],
+      "issue": "פָנַי is a common noun; «faces» is English, not current Spanish.",
+      "spanishSpan": "mis faces"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02023015021"
+      ],
+      "issue": "רֵיקָם is an adverb; «vacío» is a masculine singular adjective and does not mark that adverb clearly.",
+      "spanishSpan": "vacío"
+    }
+  ],
+  "notes": "The rest tracks the tokens, including 2ms address and Egipto.",
+  "discardedUncitedFindings": 0
+}

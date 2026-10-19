@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:16",
+  "chapter": 22,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando seduce varón a virgen que no está desposada, y yace con ella, dotando la dotará a sí a mujer.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022016013"
+      ],
+      "issue": "ל + אִשָּׁה is the role for/as a wife; bare “a mujer” can be read as a second indirect object beside “a sí”.",
+      "spanishSpan": "a mujer"
+    }
+  ],
+  "notes": "Persons, the pual, the 3fs suffix, and the cognate infinitive absolute are represented.",
+  "discardedUncitedFindings": 0
+}

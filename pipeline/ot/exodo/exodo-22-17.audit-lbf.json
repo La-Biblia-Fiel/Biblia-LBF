@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:17",
+  "chapter": 22,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Si negando niega su padre a darla a él, plata pesará conforme a dote de las vírgenes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022017009"
+      ],
+      "issue": "«dote» es la aportación de la mujer al matrimonio; H4119 מֹהַר es el precio que se paga por la esposa.",
+      "spanishSpan": "dote"
+    }
+  ],
+  "notes": "Si, negando niega, su padre, darla a él, plata pesará y las vírgenes siguen los tokens.",
+  "discardedUncitedFindings": 0
+}

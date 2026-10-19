@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:27",
+  "chapter": 21,
+  "verse": 27,
+  "candidateLabel": "pulir",
+  "spanish": "Y si hace caer diente de su siervo o diente de su sierva, al libre lo enviará bajo su diente.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021027010"
+      ],
+      "issue": "תחת es solo preposición; el lema deja abiertos bajo y en lugar de. «bajo» cierra el sentido espacial y deja fuera el sustitutivo.",
+      "spanishSpan": "bajo"
+    }
+  ],
+  "notes": "El hiphil tiene agente 3ms implícito y diente como paciente; al libre marca el artículo de לַ.",
+  "discardedUncitedFindings": 0
+}

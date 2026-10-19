@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:13",
+  "chapter": 22,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Si desgarrando es desgarrado, lo traerá testigo; el desgarrado no pagará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022013004",
+        "h02022013005"
+      ],
+      "issue": "Hiphil 3ms brings the 3ms suffix; עד is a separate witness noun, not the bringer. “lo traerá testigo” makes testigo the subject who brings it.",
+      "spanishSpan": "lo traerá testigo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022013006",
+        "h02022013008"
+      ],
+      "issue": "הַטְּרֵפָה is the feminine noun fronted before piel 3ms “he shall not repay”; the torn thing is not the one who pays. “el desgarrado no pagará” makes it the subject.",
+      "spanishSpan": "el desgarrado no pagará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022013002",
+        "h02022013003"
+      ],
+      "issue": "Qal infinitive absolute plus niphal imperfect repeats the same tearing for emphasis. “desgarrando” can be read as a separate manner gerund.",
+      "spanishSpan": "desgarrando"
+    }
+  ],
+  "notes": "Si, the negative, and future pagará match אם, לא, and the piel imperfect; the subject of that verb does not.",
+  "discardedUncitedFindings": 0
+}

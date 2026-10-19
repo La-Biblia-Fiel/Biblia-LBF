@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:11",
+  "chapter": 22,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "juramento de Jehová será entre ambos, si no envió su mano en obra de su compañero, y tomará sus dueños, y no pagará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022011012",
+        "h02022011013"
+      ],
+      "issue": "The 3ms sequential verb has no object marker, and בעליו is masculine plural with a 3ms suffix, so the owners can be the subject. “tomará sus dueños” adds an unnamed taker and makes the owners the object.",
+      "spanishSpan": "tomará sus dueños"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022011012"
+      ],
+      "issue": "Sequential perfect is smoothed to a simple future, fixing one discourse function of the weqatal.",
+      "spanishSpan": "tomará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022011004",
+        "h02022011005"
+      ],
+      "issue": "“entre ambos” smooths the dual construct plus 3mp suffix (the two of them).",
+      "spanishSpan": "entre ambos"
+    }
+  ],
+  "notes": "Jehová, plural dueños, and piel pagará match the marked tokens.",
+  "discardedUncitedFindings": 0
+}

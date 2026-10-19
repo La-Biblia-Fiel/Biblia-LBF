@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 21:25",
+  "chapter": 21,
+  "verse": 25,
+  "sourceDraft": "quemadura debajo de quemadura, herida debajo de herida, magulladura debajo de magulladura.",
+  "spanish": "quemadura por quemadura, herida por herida, magulladura por magulladura.",
+  "units": [
+    {
+      "es": "quemadura por quemadura",
+      "sourceTokenIds": [
+        "h02021025001",
+        "h02021025002",
+        "h02021025003"
+      ]
+    },
+    {
+      "es": "herida por herida",
+      "sourceTokenIds": [
+        "h02021025004",
+        "h02021025005",
+        "h02021025006"
+      ]
+    },
+    {
+      "es": "magulladura por magulladura",
+      "sourceTokenIds": [
+        "h02021025007",
+        "h02021025008",
+        "h02021025009"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced the calque \"debajo de\" with \"por\" at all three occurrences of תַּחַת (h02021025002, h02021025005, h02021025008): \"debajo de\" locks the spatial sense; \"por\" is the same preposition lemma's licensed substitutive sense (\"in place of\"), matching the formulaic X-for-X pairing the auditor cited."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose \"por\" over \"debajo de\" to render the substitutive, not spatial, sense of תַּחַת that the auditor flagged as locked out.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

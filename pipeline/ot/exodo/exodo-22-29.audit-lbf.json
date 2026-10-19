@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:29",
+  "chapter": 22,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Tu plenitud y tu lagrimeo no retardarás; primogénito de tus hijos darás a mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022029002"
+      ],
+      "issue": "lagrimeo turns the singular noun (juice / dripping liquid) into the act of weeping and drops the substance",
+      "spanishSpan": "tu lagrimeo"
+    }
+  ],
+  "notes": "The other tokens match person, number, stem, and the split between not-delaying and giving.",
+  "discardedUncitedFindings": 0
+}

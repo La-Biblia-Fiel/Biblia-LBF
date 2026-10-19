@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:2",
+  "chapter": 22,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Si en el boquete es hallado el ladrón, y es herido y muere, no hay a él sangres.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022002002"
+      ],
+      "issue": "H4290 is the feminine singular noun for a breaking-in (burglary), the circumstance in which the thief is found. «boquete» replaces that with a physical hole.",
+      "spanishSpan": "boquete"
+    }
+  ],
+  "notes": "Passives, 3ms thief, plural דָּמִים, and unspecified לוֹ stay open.",
+  "discardedUncitedFindings": 0
+}

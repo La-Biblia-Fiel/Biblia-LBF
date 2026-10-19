@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:26",
+  "chapter": 22,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Si empeñando empeñas vestido de tu compañero, hasta venir el sol lo devolverás a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022026002",
+        "h02022026003"
+      ],
+      "issue": "Qal H2254a has the addressee take and hold the garment as a pledge. «Empeñar» means the addressee gives it in pledge, so the transfer and who keeps it are reversed.",
+      "spanishSpan": "empeñando empeñas"
+    }
+  ],
+  "notes": "Si, vestido de tu compañero, hasta venir el sol, lo devolverás y a él track the other tokens, including the open «venir» of the sun.",
+  "discardedUncitedFindings": 0
+}

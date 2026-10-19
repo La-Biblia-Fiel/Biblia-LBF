@@ -1,0 +1,82 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 22:15",
+  "chapter": 22,
+  "verse": 15,
+  "sourceDraft": "Si sus dueños con él, no pagará; si jornalero él, viene en su jornal.",
+  "spanish": "Si sus dueños con él, no pagará; si alquilado él, vino en su alquiler.",
+  "units": [
+    {
+      "es": "Si",
+      "sourceTokenIds": [
+        "h02022015001"
+      ]
+    },
+    {
+      "es": "sus dueños",
+      "sourceTokenIds": [
+        "h02022015002"
+      ]
+    },
+    {
+      "es": "con él",
+      "sourceTokenIds": [
+        "h02022015003"
+      ]
+    },
+    {
+      "es": "no",
+      "sourceTokenIds": [
+        "h02022015004"
+      ]
+    },
+    {
+      "es": "pagará",
+      "sourceTokenIds": [
+        "h02022015005"
+      ]
+    },
+    {
+      "es": "si",
+      "sourceTokenIds": [
+        "h02022015006"
+      ]
+    },
+    {
+      "es": "alquilado",
+      "sourceTokenIds": [
+        "h02022015007"
+      ]
+    },
+    {
+      "es": "él",
+      "sourceTokenIds": [
+        "h02022015008"
+      ]
+    },
+    {
+      "es": "vino",
+      "sourceTokenIds": [
+        "h02022015009"
+      ]
+    },
+    {
+      "es": "en su alquiler",
+      "sourceTokenIds": [
+        "h02022015010"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "jornalero -> alquilado: restored שָׂכִיר as an open adjective 'hired', not the specialized noun for a human day laborer.",
+    "viene -> vino: restored completed aspect of qal perfect בָּא instead of present tense.",
+    "jornal -> alquiler: removed the added day-wage sense; rendered בִּשְׂכָרוֹ as hire/wages with its 3ms suffix only."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:10",
+  "chapter": 22,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Cuando da varón a su compañero asno o buey o cordero y toda bestia a guardar, y muere o es quebrado o capturado, no hay vidente,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022010010"
+      ],
+      "issue": "cordero narrows שֶׂה to a young sheep; the token is one flock animal, singular, common gender, with no age or species.",
+      "spanishSpan": "cordero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022010020"
+      ],
+      "issue": "vidente turns the qal active participle (one who sees) into a seer/visionary.",
+      "spanishSpan": "vidente"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022010001"
+      ],
+      "issue": "Cuando fixes the conjunction as temporal; morphology only marks conjunction.",
+      "spanishSpan": "Cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022010002",
+        "h02022010014",
+        "h02022010016",
+        "h02022010018"
+      ],
+      "issue": "Imperfect and perfects are rendered as present; person, number, and niphal passive stay intact.",
+      "spanishSpan": "da … muere o es quebrado o capturado"
+    }
+  ],
+  "notes": "Man, his companion, ass, ox, and-all beast, to keep, and the existential negative match the tokens.",
+  "discardedUncitedFindings": 0
+}

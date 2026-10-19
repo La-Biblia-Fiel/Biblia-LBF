@@ -1,0 +1,50 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022001006",
+        "h02022001018"
+      ],
+      "issue": "שֶׂה is one animal from the flock, sheep or goat; cordero narrows it to a young sheep.",
+      "spanishSpan": "cordero"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022001013",
+        "h02022001017"
+      ],
+      "issue": "תַּחַת is open between under and instead of; debajo keeps only the spatial sense beside the repayment verb.",
+      "spanishSpan": "debajo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022001001"
+      ],
+      "issue": "כִּי is an open conjunction (if, when, or because); Cuando selects only the temporal sense.",
+      "spanishSpan": "Cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022001011"
+      ],
+      "issue": "בָּקָר is the bovine herd; ganado can mean livestock more broadly than that herd beside the flock.",
+      "spanishSpan": "ganado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02022001002",
+        "h02022001007",
+        "h02022001009"
+      ],
+      "issue": "Qal imperfect, sequential perfect, and perfect are leveled to one Spanish present in the case.",
+      "spanishSpan": "hurta … degüella … vende"
+    }
+  ],
+  "notes": "Counts, articles, 3ms actor, object suffixes, and piel repayment stay inside the tokens."
+}

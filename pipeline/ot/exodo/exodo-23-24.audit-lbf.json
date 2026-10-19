@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 23:24",
+  "chapter": 23,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "No te postrarás a sus dioses, y no los servirás, y no harás conforme a sus obras, porque destruyendo los destruirás, y quebrando quebrarás sus estelas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02023024005"
+      ],
+      "issue": "Hophal imperfect 2ms with a 3mp suffix is causative-passive (be made to serve them); \"los servirás\" is active and makes the addressee the agent.",
+      "spanishSpan": "los servirás"
+    }
+  ],
+  "notes": "Other clauses match the packet, including the cognate infinitive-absolute pairs and plural estelas.",
+  "discardedUncitedFindings": 0
+}

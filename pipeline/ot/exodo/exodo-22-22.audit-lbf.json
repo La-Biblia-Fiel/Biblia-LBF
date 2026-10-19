@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 22:22",
+  "chapter": 22,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Toda viuda y huérfano no afligirán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02022022001",
+        "h02022022002",
+        "h02022022003",
+        "h02022022005"
+      ],
+      "issue": "Piel imperfecto 2mp: los destinatarios no deben afligir a toda viuda y huérfano. El español hace de la viuda y el huérfano el sujeto de «afligirán».",
+      "spanishSpan": "Toda viuda y huérfano no afligirán"
+    }
+  ],
+  "notes": "El sintagma frontal es el paciente de la prohibición 2mp, no quien actúa.",
+  "discardedUncitedFindings": 0
+}

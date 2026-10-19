@@ -1,0 +1,132 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 22:1",
+  "chapter": 22,
+  "verse": 1,
+  "sourceDraft": "Cuando hurta varón buey o cordero, y lo degüella o lo vende, cinco ganado pagará debajo del buey, y cuatro rebaño debajo del cordero.",
+  "spanish": "Cuando hurta varón buey o animal del rebaño, y lo degüella o lo ha vendido, cinco reses pagará en lugar del buey, y cuatro cabezas de rebaño en lugar del animal del rebaño.",
+  "units": [
+    {
+      "es": "Cuando",
+      "sourceTokenIds": [
+        "h02022001001"
+      ]
+    },
+    {
+      "es": "hurta",
+      "sourceTokenIds": [
+        "h02022001002"
+      ]
+    },
+    {
+      "es": "varón",
+      "sourceTokenIds": [
+        "h02022001003"
+      ]
+    },
+    {
+      "es": "buey",
+      "sourceTokenIds": [
+        "h02022001004"
+      ]
+    },
+    {
+      "es": "o",
+      "sourceTokenIds": [
+        "h02022001005"
+      ]
+    },
+    {
+      "es": "animal del rebaño",
+      "sourceTokenIds": [
+        "h02022001006"
+      ]
+    },
+    {
+      "es": "y lo degüella",
+      "sourceTokenIds": [
+        "h02022001007"
+      ]
+    },
+    {
+      "es": "o",
+      "sourceTokenIds": [
+        "h02022001008"
+      ]
+    },
+    {
+      "es": "lo ha vendido",
+      "sourceTokenIds": [
+        "h02022001009"
+      ]
+    },
+    {
+      "es": "cinco",
+      "sourceTokenIds": [
+        "h02022001010"
+      ]
+    },
+    {
+      "es": "reses",
+      "sourceTokenIds": [
+        "h02022001011"
+      ]
+    },
+    {
+      "es": "pagará",
+      "sourceTokenIds": [
+        "h02022001012"
+      ]
+    },
+    {
+      "es": "en lugar",
+      "sourceTokenIds": [
+        "h02022001013"
+      ]
+    },
+    {
+      "es": "del buey",
+      "sourceTokenIds": [
+        "h02022001014"
+      ]
+    },
+    {
+      "es": "y cuatro",
+      "sourceTokenIds": [
+        "h02022001015"
+      ]
+    },
+    {
+      "es": "cabezas de rebaño",
+      "sourceTokenIds": [
+        "h02022001016"
+      ]
+    },
+    {
+      "es": "en lugar",
+      "sourceTokenIds": [
+        "h02022001017"
+      ]
+    },
+    {
+      "es": "del animal del rebaño",
+      "sourceTokenIds": [
+        "h02022001018"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "cordero -> animal del rebaño (both occurrences): שֶׂה is one animal from the flock, sheep or goat; cordero narrowed it to a young sheep.",
+    "debajo -> en lugar de (both occurrences): תַּחַת beside the repayment verb carries the instead-of sense, not only the spatial under sense.",
+    "ganado -> reses: בָּקָר is the bovine herd specifically; ganado could read as livestock generally.",
+    "cuatro rebaño -> cuatro cabezas de rebaño: Spanish numeral agreement requires a countable classifier with the collective noun rebaño.",
+    "vende -> ha vendido: distinguishes the plain perfect מְכָרוֹ from the sequential perfect degüella, which were leveled to the same present tense."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Added the classifier \"cabezas de\" so \"cuatro ... rebaño\" agrees in number, and rendered the plain perfect מְכָרוֹ as \"ha vendido\" to keep it distinct from the sequential \"degüella\".",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}
