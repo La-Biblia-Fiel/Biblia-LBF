@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 20:25",
+  "chapter": 20,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y si altar de piedras harás a mí, no las edificarás labradas; porque tu espada balanceaste sobre él, y lo profanaste.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02020025009"
+      ],
+      "issue": "גָּזִית is a feminine singular noun; labradas is a feminine plural adjective and changes that number.",
+      "spanishSpan": "labradas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02020025013",
+        "h02020025014",
+        "h02020025002"
+      ],
+      "issue": "The suffixes are 3rd feminine singular, so they cannot be the masculine altar; él and lo make that masculine referent.",
+      "spanishSpan": "sobre él, y lo profanaste"
+    }
+  ],
+  "notes": "Y si, altar de piedras, harás, a mí, no, las edificarás, tu espada, and profanaste match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

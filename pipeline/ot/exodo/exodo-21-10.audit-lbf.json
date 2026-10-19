@@ -1,0 +1,43 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:10",
+  "chapter": 21,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Si otra toma a sí, su carne, su vestido y su cohabitación no disminuirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021010002",
+        "h02021010003"
+      ],
+      "issue": "אַחֶרֶת is a feminine singular adjective and יִקַּח is qal imperfect 3ms: he takes another. Spanish makes otra the subject who takes.",
+      "spanishSpan": "otra toma"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021010004"
+      ],
+      "issue": "לֹו is a preposition with a 3ms suffix, to or for him. Spanish a sí is reflexive to the feminine subject.",
+      "spanishSpan": "a sí"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021010005",
+        "h02021010006",
+        "h02021010007",
+        "h02021010009"
+      ],
+      "issue": "The three nouns with 3fs suffixes are objects of qal imperfect 3ms יִגְרָע: he does not diminish them. Spanish makes those nouns the subject of singular intransitive no disminuirá.",
+      "spanishSpan": "su carne, su vestido y su cohabitación no disminuirá"
+    }
+  ],
+  "notes": "Si, su, vestido, cohabitación, and the negative match the conjunction, 3fs suffixes, H3682, H5772, and H3808.",
+  "discardedUncitedFindings": 0
+}

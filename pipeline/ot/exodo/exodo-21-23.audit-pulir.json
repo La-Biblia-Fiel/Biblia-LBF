@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:23",
+  "chapter": 21,
+  "verse": 23,
+  "candidateLabel": "pulir",
+  "spanish": "Y si desastre hubiere, y darás alma debajo de alma,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021023003"
+      ],
+      "issue": "El imperfecto qal 3ms יִהְיֶה queda en subjuntivo futuro «hubiere»; suaviza el modo sin cambiar persona, número ni el caso.",
+      "spanishSpan": "hubiere"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021023006"
+      ],
+      "issue": "«debajo de» elige el sentido espacial de תַּחַת; la preposición también admite «en lugar de».",
+      "spanishSpan": "debajo de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021023005",
+        "h02021023007"
+      ],
+      "issue": "«alma» elige un sentido de נֶפֶשׁ; el lema también deja abiertos vida, persona y ser.",
+      "spanishSpan": "alma"
+    }
+  ],
+  "notes": "Y si, desastre, darás 2ms y la repetición singular de נֶפֶשׁ siguen los tokens.",
+  "discardedUncitedFindings": 0
+}

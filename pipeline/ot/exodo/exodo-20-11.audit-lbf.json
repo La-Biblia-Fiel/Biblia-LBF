@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 20:11",
+  "chapter": 20,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Porque seis días hizo Jehová los cielos y la tierra, el mar y todo lo que en ellos, y reposó en el día el séptimo; por eso bendijo Jehová el día del shabat, y lo santificó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02020011025"
+      ],
+      "issue": "הַשַּׁבָּת is a common noun; 'shabat' leaves that lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "shabat"
+    }
+  ],
+  "notes": "The other clauses match the tokens, including both Jehová, the verbless בָּם clause, and the 3ms suffix on the final verb.",
+  "discardedUncitedFindings": 0
+}

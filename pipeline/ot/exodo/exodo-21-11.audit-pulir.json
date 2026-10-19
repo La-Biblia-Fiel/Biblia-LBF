@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:11",
+  "chapter": 21,
+  "verse": 11,
+  "candidateLabel": "pulir",
+  "spanish": "Y si estas tres no hace a ella, y saldrá gratis, no hay plata.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021011007"
+      ],
+      "issue": "וְיָצְאָה is qal sequential perfect 3rd feminine singular, so the woman goes out. Unmarked \"saldrá\" continues the 3rd-masculine subject of \"hace\".",
+      "spanishSpan": "saldrá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021011002",
+        "h02021011003",
+        "h02021011005"
+      ],
+      "issue": "שְׁלָשׁ אֵלֶּה is the object of 3ms יַעֲשֶׂה. Fronted \"estas tres\" sits in the subject slot before \"hace\"; the singular verb still encodes a 3ms doer.",
+      "spanishSpan": "estas tres no hace"
+    }
+  ],
+  "notes": "Y si, a ella, gratis, and no hay plata match וְאִם, לָהּ, חִנָּם, and אֵין כָּסֶף.",
+  "discardedUncitedFindings": 0
+}

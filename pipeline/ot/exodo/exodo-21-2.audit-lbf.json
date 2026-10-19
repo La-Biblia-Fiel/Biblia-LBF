@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:2",
+  "chapter": 21,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Cuando compres siervo hebreo, seis años servirá, y en el séptimo saldrá a libre de gratis.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021002011"
+      ],
+      "issue": "The adverb is rendered by the phrase “de gratis”; “de” is unmarked smoothing and does not add a separate concept.",
+      "spanishSpan": "de gratis"
+    }
+  ],
+  "notes": "Person, number, qal force, and both libre and gratis match the tokens.",
+  "discardedUncitedFindings": 0
+}

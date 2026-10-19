@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 20:7",
+  "chapter": 20,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "No alzarás el nombre de Jehová tu Dios a la vanidad, porque no dejará limpio Jehová al que alza su nombre a la vanidad.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02020007014"
+      ],
+      "issue": "Qal imperfect 3ms rendered as present indicative; the imperfect remains open to a future or general action.",
+      "spanishSpan": "alza"
+    }
+  ],
+  "notes": "Prohibition, name, Jehová, tu Dios, repeated a la vanidad, and piel 3ms stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:12",
+  "chapter": 21,
+  "verse": 12,
+  "candidateLabel": "pulir",
+  "spanish": "Hiriente de varón, y muere, de morir será muerto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021012004",
+        "h02021012005"
+      ],
+      "issue": "Unmarked \"de\" adds an of/from link. The qal infinitive absolute plus hophal imperfect is dying + he shall be put to death, with no preposition.",
+      "spanishSpan": "de morir"
+    }
+  ],
+  "notes": "Hiriente de varón matches the hiphil participle construct with varón; y muere matches the qal sequential 3ms; será muerto matches the hophal imperfect 3ms.",
+  "discardedUncitedFindings": 0
+}

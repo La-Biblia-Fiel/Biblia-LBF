@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:12",
+  "chapter": 21,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Hiriente de varón, y muere, de morir morirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021012005"
+      ],
+      "issue": "Hophal imperfect 3ms (he is put to death) is rendered as intransitive morirá (he will die), changing stem force.",
+      "spanishSpan": "morirá"
+    }
+  ],
+  "notes": "Hiriente de varón matches the hiphil participle with varón; y muere matches the qal sequential; de morir matches the qal infinitive absolute.",
+  "discardedUncitedFindings": 0
+}

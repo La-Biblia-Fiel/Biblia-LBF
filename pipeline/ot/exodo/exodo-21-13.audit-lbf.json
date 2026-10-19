@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:13",
+  "chapter": 21,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y el que no acechó, y Dios lo hizo encontrar a su mano, y pondré a ti lugar adonde huirá allá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021013005"
+      ],
+      "issue": "«lo» is an unmarked supplied 3ms object. The piel has no object suffix and no object token; only God causes the meeting or befalling.",
+      "spanishSpan": "lo"
+    }
+  ],
+  "notes": "לְיָדוֹ stays the prepositional goal «a su mano»; the other clauses stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

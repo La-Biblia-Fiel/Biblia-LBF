@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:22",
+  "chapter": 21,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando riñen varones, y golpean mujer encinta, y salen sus hijos, y no hay desastre, penando será penado conforme a lo que impone sobre él dueño de la mujer, y dará en jueces.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021022001"
+      ],
+      "issue": "«cuando» elige el sentido temporal de כִּי; la conjunción del paquete también admite «si».",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021022010"
+      ],
+      "issue": "El imperfecto יִהְיֶה queda en presente existencial «hay»; suaviza el tiempo sin cambiar el caso.",
+      "spanishSpan": "hay"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021022012",
+        "h02021022013"
+      ],
+      "issue": "«penando será penado» conserva la raíz repetida del infinitivo absoluto más el nifal; el gerundio puede leerse como circunstancia añadida y no solo como énfasis.",
+      "spanishSpan": "penando será penado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021022015"
+      ],
+      "issue": "«impone» en presente por el imperfecto יָשִׁית; suaviza el tiempo sin cambiar quién pone la pena.",
+      "spanishSpan": "impone"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021022017"
+      ],
+      "issue": "«dueño» elige el sentido de propietario de בַּעַל; el lema también deja abierto marido/señor.",
+      "spanishSpan": "dueño"
+    }
+  ],
+  "notes": "Riña, golpe, mujer encinta, salida de sus hijos, ausencia de אָסוֹן, pena singular y entrega en jueces siguen los tokens.",
+  "discardedUncitedFindings": 0
+}

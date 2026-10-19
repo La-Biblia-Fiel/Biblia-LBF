@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:17",
+  "chapter": 21,
+  "verse": 17,
+  "candidateLabel": "pulir",
+  "spanish": "Y maldiciente de su padre y su madre, de morir será muerto.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021017001",
+        "h02021017002"
+      ],
+      "issue": "Unmarked de is grammatical smoothing that links the absolute piel participle to its bare object.",
+      "spanishSpan": "de su padre"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021017004",
+        "h02021017005"
+      ],
+      "issue": "Unmarked de is grammatical smoothing that links the bare qal infinitive absolute to the hophal imperfect.",
+      "spanishSpan": "de morir"
+    }
+  ],
+  "notes": "Y, maldiciente, su padre, y su madre, morir, and será muerto match the conjunction, piel participle, 3ms suffixes, qal infinitive absolute, and hophal imperfect 3ms.",
+  "discardedUncitedFindings": 0
+}

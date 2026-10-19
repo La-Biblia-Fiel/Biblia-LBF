@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:11",
+  "chapter": 21,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y si estas tres no hace a ella, y saldrá de gratis, no hay plata.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021011008"
+      ],
+      "issue": "Unmarked supplied “de” has no token; the adverb is already rendered by “gratis”.",
+      "spanishSpan": "de"
+    }
+  ],
+  "notes": "Remaining clauses match the token sequence, person, and number.",
+  "discardedUncitedFindings": 0
+}

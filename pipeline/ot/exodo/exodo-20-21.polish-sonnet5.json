@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 20:21",
+  "chapter": 20,
+  "verse": 21,
+  "sourceDraft": "Y se paró el pueblo desde lejos, y Moisés se acercó a la densura que allí Dios.",
+  "spanish": "Y se paró el pueblo desde lejos, y Moisés se acercó a la densa oscuridad que allí *estaba* Dios.",
+  "units": [],
+  "grammarChanges": [
+    "Replaced 'densura' (thickness/density only, missing the darkness sense) with 'densa oscuridad' for הָעֲרָפֶל (H6205), the dark-cloud/thick-darkness noun, per cited audit fail.",
+    "Supplied the missing predicate verb for the verbless Hebrew relative clause (אֲשֶׁר שָׁם הָאֱלֹהִים) as *estaba*, in italics, since the draft clause 'que allí Dios' had no verb."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Supplied *estaba* (verb 'to be') in italics to complete the verbless Hebrew relative clause; no separate source token corresponds to it.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

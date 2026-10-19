@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 20:5",
+  "chapter": 20,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "No te postrarás a ellos, y no los servirás, porque yo Jehová tu Dios, Dios celoso, visitante iniquidad de padres sobre hijos, sobre terceros y sobre cuartos, a mis aborrecedores.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02020005005"
+      ],
+      "issue": "Hophal imperfect 2ms (the addressee is the patient of the stem) is rendered as active servirás, with los as the one served.",
+      "spanishSpan": "los servirás"
+    }
+  ],
+  "notes": "Suffix 3mp and 2ms person match; the stem does not.",
+  "discardedUncitedFindings": 0
+}

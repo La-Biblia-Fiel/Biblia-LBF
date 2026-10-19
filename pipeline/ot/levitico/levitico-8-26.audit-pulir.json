@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 8:26",
+  "chapter": 8,
+  "verse": 26,
+  "candidateLabel": "pulir",
+  "spanish": "Y desde la canasta de los ázimos que delante de Jehová, tomó una torta ázima, y una torta de pan de aceite, y una oblea, y las puso sobre las grasas y sobre la pierna derecha.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03008026016"
+      ],
+      "issue": "Unmarked supplied object pronoun “las”; the qal verb only licenses that he put the items already named, and no pronoun token is present.",
+      "spanishSpan": "las"
+    }
+  ],
+  "notes": "The rest of the clause tracks the tokens, including the verbless relative before Jehová.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 20:24",
+  "chapter": 20,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Altar de suelo harás a mí, y sacrificarás sobre él tus holocaustos y tus pazes, tu rebaño y tu ganado; en todo el lugar que haré recordar mi nombre, vendré a ti y te bendeciré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02020024010"
+      ],
+      "issue": "H8002 is the masculine plural sacrificial noun (šəlāmîm), not the abstract noun paz. «pazes» omits that noun and is not a Spanish plural licensed by the token.",
+      "spanishSpan": "pazes"
+    }
+  ],
+  "notes": "Person, number, construct, asyndeton before the flock, Hiphil, and Piel otherwise match the packet.",
+  "discardedUncitedFindings": 0
+}

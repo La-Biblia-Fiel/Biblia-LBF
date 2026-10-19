@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 20:18",
+  "chapter": 20,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y todo el pueblo viendo las voces y las antorchas y voz del shofar y el monte humeante; y vio el pueblo, y se estremecieron, y se pararon desde lejos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02020018010"
+      ],
+      "issue": "Common noun left in Hebrew as shofar; common nouns stay Spanish.",
+      "spanishSpan": "shofar"
+    }
+  ],
+  "notes": "Other clauses keep the tokens’ number, person, participants, and repetition.",
+  "discardedUncitedFindings": 0
+}

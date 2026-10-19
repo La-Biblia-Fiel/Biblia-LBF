@@ -1,0 +1,90 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 20:18",
+  "chapter": 20,
+  "verse": 18,
+  "sourceDraft": "Y todo el pueblo viendo las voces y las antorchas y voz del shofar y el monte humeante; y vio el pueblo, y se estremecieron, y se pararon desde lejos.",
+  "spanish": "Y todo el pueblo viendo las voces y las antorchas y la voz de la bocina y el monte humeante; y vio el pueblo, y se estremecieron, y se pararon desde lejos.",
+  "units": [
+    {
+      "es": "Y todo el pueblo",
+      "sourceTokenIds": [
+        "h02020018001",
+        "h02020018002"
+      ]
+    },
+    {
+      "es": "viendo",
+      "sourceTokenIds": [
+        "h02020018003"
+      ]
+    },
+    {
+      "es": "las voces",
+      "sourceTokenIds": [
+        "h02020018004",
+        "h02020018005"
+      ]
+    },
+    {
+      "es": "y las antorchas",
+      "sourceTokenIds": [
+        "h02020018006",
+        "h02020018007"
+      ]
+    },
+    {
+      "es": "y la voz de la bocina",
+      "sourceTokenIds": [
+        "h02020018008",
+        "h02020018009",
+        "h02020018010"
+      ]
+    },
+    {
+      "es": "y el monte humeante",
+      "sourceTokenIds": [
+        "h02020018011",
+        "h02020018012",
+        "h02020018013"
+      ]
+    },
+    {
+      "es": "y vio el pueblo",
+      "sourceTokenIds": [
+        "h02020018014",
+        "h02020018015"
+      ]
+    },
+    {
+      "es": "y se estremecieron",
+      "sourceTokenIds": [
+        "h02020018016"
+      ]
+    },
+    {
+      "es": "y se pararon",
+      "sourceTokenIds": [
+        "h02020018017"
+      ]
+    },
+    {
+      "es": "desde lejos",
+      "sourceTokenIds": [
+        "h02020018018"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced the Hebrew loanword 'shofar' (h02020018010) with the Spanish common noun 'bocina', per the cited auditor fail.",
+    "Changed 'del' to 'de la' so the article agrees in gender with the feminine noun 'bocina'.",
+    "Added the definite article 'la' before 'voz' to match the definiteness already shown in the parallel phrases 'las voces' and 'las antorchas'."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Shofar is rendered as 'bocina' (the ram's-horn trumpet), the Spanish common-noun equivalent, since common nouns cannot stay untranslated.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

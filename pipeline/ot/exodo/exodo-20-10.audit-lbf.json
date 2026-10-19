@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 20:10",
+  "chapter": 20,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y día el séptimo shabat a Jehová tu Dios; no harás toda obra, tú y tu hijo y tu hija, tu siervo y tu sierva y tu bestia y tu peregrino que en tus puertas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02020010003"
+      ],
+      "issue": "שַׁבָּת is a common noun (H7676), left as the untranslated form shabat; common nouns stay Spanish.",
+      "spanishSpan": "shabat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02020010006",
+        "h02020010008",
+        "h02020010009"
+      ],
+      "issue": "no harás toda obra can be read as a partial ban (not every work); לֹא plus כָל licenses an exhaustive ban on the work.",
+      "spanishSpan": "no harás toda obra"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02020010016"
+      ],
+      "issue": "peregrino in current Spanish often means pilgrim, a narrower role than the sojourner noun גֵּר.",
+      "spanishSpan": "peregrino"
+    }
+  ],
+  "notes": "Other tokens match in conjunctions, person, number, and the verbless clauses.",
+  "discardedUncitedFindings": 0
+}

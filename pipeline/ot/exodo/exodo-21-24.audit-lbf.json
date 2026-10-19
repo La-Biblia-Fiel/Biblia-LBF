@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:24",
+  "chapter": 21,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "ojo debajo de ojo, diente debajo de diente, mano debajo de mano, pie debajo de pie,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021024002",
+        "h02021024005",
+        "h02021024008",
+        "h02021024011"
+      ],
+      "issue": "H8478 תחת is tagged only as a preposition; the lemma leaves under/beneath and instead-of/in-place-of open. «debajo de» locks the spatial sense and drops the substitutive sense.",
+      "spanishSpan": "debajo de"
+    }
+  ],
+  "notes": "Singular ojo, diente, mano, and pie match the four absolute nouns; the preposition is the mismatch.",
+  "discardedUncitedFindings": 0
+}

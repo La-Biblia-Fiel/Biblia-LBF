@@ -1,0 +1,51 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "exodo",
+  "reference": "Éxodo 20:16",
+  "chapter": 20,
+  "verse": 16,
+  "sourceDraft": "No responderás en tu compañero testigo de mentira.",
+  "spanish": "No responderás testigo de mentira contra tu compañero.",
+  "units": [
+    {
+      "es": "No",
+      "sourceTokenIds": [
+        "h02020016001"
+      ]
+    },
+    {
+      "es": "responderás",
+      "sourceTokenIds": [
+        "h02020016002"
+      ]
+    },
+    {
+      "es": "testigo",
+      "sourceTokenIds": [
+        "h02020016004"
+      ]
+    },
+    {
+      "es": "de mentira",
+      "sourceTokenIds": [
+        "h02020016005"
+      ]
+    },
+    {
+      "es": "contra tu compañero",
+      "sourceTokenIds": [
+        "h02020016003"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Moved 'testigo de mentira' to follow 'responderás' directly as its complement, instead of leaving it right after 'tu compañero', so it no longer reads as an apposition describing the companion.",
+    "Replaced the calque 'en' before 'tu compañero' with 'contra', since ב with the qal of ענה marks the one testified against, not a location inside the companion."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

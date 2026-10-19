@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:19",
+  "chapter": 21,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Si se levanta y anda afuera sobre su bastón, y quedará limpio el hiriente; solo su sentarse dará, y sanando sanará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021019010"
+      ],
+      "issue": "H7674 is a noun of cessation; “su sentarse” substitutes the act of sitting and omits cessation.",
+      "spanishSpan": "su sentarse"
+    }
+  ],
+  "notes": "The other clauses keep the 3ms sequence, niphal נקה, and the piel cognate of heal.",
+  "discardedUncitedFindings": 0
+}

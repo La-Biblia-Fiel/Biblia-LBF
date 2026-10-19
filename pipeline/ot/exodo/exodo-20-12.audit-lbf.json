@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 20:12",
+  "chapter": 20,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Honra a tu padre y a tu madre, a fin de que se alarguen tus días sobre el suelo que Jehová tu Dios dando a ti.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02020012007",
+        "h02020012008"
+      ],
+      "issue": "Hiphil imperfect 3mp has the plural days as subject and only paragogic nun, with no object. Middle 'se alarguen' smooths that intransitive hiphil without adding a causer or shifting the subject.",
+      "spanishSpan": "se alarguen"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02020012011",
+        "h02020012014"
+      ],
+      "issue": "The qal active participle is the predicate of the relative clause. Bare gerund 'dando' keeps the non-finite form but does not complete the Spanish predication.",
+      "spanishSpan": "dando"
+    }
+  ],
+  "notes": "לך is 2fs; 'a ti' remains 2sg and does not mark gender.",
+  "discardedUncitedFindings": 0
+}

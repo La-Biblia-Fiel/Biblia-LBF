@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:17",
+  "chapter": 21,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y maldiciente de su padre y su madre, de morir morirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021017005"
+      ],
+      "issue": "Hophal imperfect 3ms (be put to death) is rendered as active intransitive morirá (he will die), changing stem force.",
+      "spanishSpan": "morirá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021017004"
+      ],
+      "issue": "de is grammatical smoothing on the qal infinitive absolute, which intensifies the finite verb rather than marking means or source.",
+      "spanishSpan": "de morir"
+    }
+  ],
+  "notes": "Participle, conjunction, and both 3ms suffixes match; the finite stem does not.",
+  "discardedUncitedFindings": 0
+}

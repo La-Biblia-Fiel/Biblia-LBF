@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 21:19",
+  "chapter": 21,
+  "verse": 19,
+  "candidateLabel": "pulir",
+  "spanish": "Si se levanta y anda afuera sobre su bastón, y quedará limpio el hiriente; solo su cese dará, y sanando sanará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02021019010",
+        "h02021019011"
+      ],
+      "issue": "שִׁבְתּוֹ is the fronted object of יִתֵּן (qal imperfect 3ms: he gives it). \"su cese dará\" makes the cessation the subject of dará.",
+      "spanishSpan": "su cese dará"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02021019003"
+      ],
+      "issue": "Hithpael sequential of הלך is walk-about; \"anda\" flattens that stem to simple walking.",
+      "spanishSpan": "anda"
+    }
+  ],
+  "notes": "The other tokens match, including the cognate piel repetition.",
+  "discardedUncitedFindings": 0
+}

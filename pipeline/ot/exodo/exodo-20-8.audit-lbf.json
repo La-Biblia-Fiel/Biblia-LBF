@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "exodo",
+  "reference": "Éxodo 20:8",
+  "chapter": 20,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Acordar el día del shabat para santificarlo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02020008001"
+      ],
+      "issue": "Acordar en el español latinoamericano actual significa convenir o disponer. El qal de זכר licencia recordar, y el infinitivo no reflexivo no dice eso.",
+      "spanishSpan": "Acordar"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02020008004"
+      ],
+      "issue": "shabat deja sin traducir el sustantivo común הַשַּׁבָּת. Los nombres comunes van en español.",
+      "spanishSpan": "shabat"
+    }
+  ],
+  "notes": "את no se vierte; el día del y para santificarlo siguen el constructo, el artículo, el lamed y el piel con sufijo 3ms.",
+  "discardedUncitedFindings": 0
+}
