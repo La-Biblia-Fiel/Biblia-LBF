@@ -961,7 +961,7 @@ Y salió fuego de delante de Jehová, y los comió, y murieron delante de Jehov�
 
 ### 10:3
 
-Y dijo Moisés a Aarón: Esto es lo que habló Jehová, diciendo: En mis cercanos seré santificado, y sobre faces de todo el pueblo seré glorificado. Y calló Aarón.
+Y dijo Moisés a Aarón: Esto *es* lo que habló Jehová, diciendo: En mis cercanos seré santificado, y sobre faces de todo el pueblo seré glorificado. Y calló Aarón.
 
 ### 10:4
 
@@ -969,11 +969,11 @@ Y llamó Moisés a Mishael y a Eltsafán, hijos de Uziel, tío de Aarón, y dijo
 
 ### 10:5
 
-Y se acercaron, y los alzaron en sus túnicas a fuera al campamento, conforme a lo que habló Moisés.
+Y se acercaron, y los alzaron en sus túnicas fuera del campamento, conforme a lo que habló Moisés.
 
 ### 10:6
 
-Y dijo Moisés a Aarón y a Elazar y a Itamar, sus hijos: Sus cabezas no desmelenen, y sus vestidos no rasguen, y no morirán, y sobre toda la congregación no se enfurecerá; y sus hermanos, toda casa de Israel, llorarán la quema que quemó Jehová.
+Y dijo Moisés a Aarón y a Elazar y a Itamar, sus hijos: Sus cabezas no desmelenen, y sus vestidos no rasguen, y no morirán, y sobre toda la congregación se enfurecerá; y sus hermanos, toda la casa de Israel, llorarán la quema que quemó Jehová.
 
 ### 10:7
 
