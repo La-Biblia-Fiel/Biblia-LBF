@@ -1,0 +1,68 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 8:8",
+  "chapter": 8,
+  "verse": 8,
+  "sourceDraft": "Y puso sobre él el joshen, y dio al joshen los urim y los tumim.",
+  "spanish": "Y puso sobre él el pectoral, y dio al pectoral las luces y las perfecciones.",
+  "units": [
+    {
+      "es": "Y puso",
+      "sourceTokenIds": [
+        "h03008008001"
+      ]
+    },
+    {
+      "es": "sobre él",
+      "sourceTokenIds": [
+        "h03008008002"
+      ]
+    },
+    {
+      "es": "el pectoral",
+      "sourceTokenIds": [
+        "h03008008003",
+        "h03008008004"
+      ]
+    },
+    {
+      "es": "y dio",
+      "sourceTokenIds": [
+        "h03008008005"
+      ]
+    },
+    {
+      "es": "al pectoral",
+      "sourceTokenIds": [
+        "h03008008006",
+        "h03008008007"
+      ]
+    },
+    {
+      "es": "las luces",
+      "sourceTokenIds": [
+        "h03008008008",
+        "h03008008009"
+      ]
+    },
+    {
+      "es": "y las perfecciones",
+      "sourceTokenIds": [
+        "h03008008010",
+        "h03008008011"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "joshen -> pectoral (H2833 is a common noun; translated instead of transliterated)",
+    "los urim -> las luces (H224 is a common noun; translated instead of transliterated, article changed to feminine to agree with luces)",
+    "los tumim -> las perfecciones (H8550 is a common noun; translated instead of transliterated, article changed to feminine to agree with perfecciones)"
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose luces and perfecciones, both feminine in Spanish, for the masculine-plural Hebrew nouns urim/tumim, so los became las.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}
