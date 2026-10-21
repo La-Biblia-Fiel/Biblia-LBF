@@ -1,0 +1,76 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 13:38",
+  "chapter": 13,
+  "verse": 38,
+  "sourceDraft": "Y varón o mujer, cuando fueren en piel de su carne manchas, manchas blancas,",
+  "spanish": "Y varón o mujer, cuando fuere en piel de su carne manchas blancas, manchas blancas,",
+  "units": [
+    {
+      "es": "Y varón",
+      "sourceTokenIds": [
+        "h03013038001"
+      ]
+    },
+    {
+      "es": "o",
+      "sourceTokenIds": [
+        "h03013038002"
+      ]
+    },
+    {
+      "es": "mujer",
+      "sourceTokenIds": [
+        "h03013038003"
+      ]
+    },
+    {
+      "es": "cuando",
+      "sourceTokenIds": [
+        "h03013038004"
+      ]
+    },
+    {
+      "es": "fuere",
+      "sourceTokenIds": [
+        "h03013038005"
+      ]
+    },
+    {
+      "es": "en piel",
+      "sourceTokenIds": [
+        "h03013038006"
+      ]
+    },
+    {
+      "es": "de su carne",
+      "sourceTokenIds": [
+        "h03013038007"
+      ]
+    },
+    {
+      "es": "manchas blancas",
+      "sourceTokenIds": [
+        "h03013038008"
+      ]
+    },
+    {
+      "es": "manchas blancas",
+      "sourceTokenIds": [
+        "h03013038009",
+        "h03013038010"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Changed fueren to fuere: the verb is qal imperfect 3ms used existentially and does not take the plural form the draft used.",
+    "Applied blancas to the first occurrence of the repeated bright-spot noun as well, using the color word already present in the draft's second occurrence so neither identical noun is left as a bare, unqualified mancha."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

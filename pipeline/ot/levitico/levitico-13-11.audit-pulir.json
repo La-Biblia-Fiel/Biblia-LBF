@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:11",
+  "chapter": 13,
+  "verse": 11,
+  "candidateLabel": "pulir",
+  "spanish": "Lepra envejecida ella en piel de su carne, y lo impurecerá el sacerdote; no lo encerrará, porque impuro él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013011006"
+      ],
+      "issue": "Piel sequential perfect of H2930 leaves factitive and declarative force open; «impurecerá» selects causing impurity.",
+      "spanishSpan": "lo impurecerá"
+    }
+  ],
+  "notes": "Pronouns, construct, article, and the bare negative match the tokens.",
+  "discardedUncitedFindings": 0
+}

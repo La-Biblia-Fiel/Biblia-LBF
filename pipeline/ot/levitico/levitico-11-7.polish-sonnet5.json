@@ -1,0 +1,112 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 11:7",
+  "chapter": 11,
+  "verse": 7,
+  "sourceDraft": "Y el cerdo, porque partiente pezuña él y hendiente hendidura de pezuña, y él cud no rumiará; impuro él a ustedes.",
+  "spanish": "Y el cerdo, porque partiente pezuña él y hendiente hendidura de pezuña, y él rumia no rumia; impuro él a ustedes.",
+  "units": [
+    {
+      "es": "Y el cerdo",
+      "sourceTokenIds": [
+        "h03011007001",
+        "h03011007002"
+      ]
+    },
+    {
+      "es": "porque",
+      "sourceTokenIds": [
+        "h03011007003"
+      ]
+    },
+    {
+      "es": "partiente",
+      "sourceTokenIds": [
+        "h03011007004"
+      ]
+    },
+    {
+      "es": "pezuña",
+      "sourceTokenIds": [
+        "h03011007005"
+      ]
+    },
+    {
+      "es": "él",
+      "sourceTokenIds": [
+        "h03011007006"
+      ]
+    },
+    {
+      "es": "y hendiente",
+      "sourceTokenIds": [
+        "h03011007007"
+      ]
+    },
+    {
+      "es": "hendidura",
+      "sourceTokenIds": [
+        "h03011007008"
+      ]
+    },
+    {
+      "es": "de pezuña",
+      "sourceTokenIds": [
+        "h03011007009"
+      ]
+    },
+    {
+      "es": "y él",
+      "sourceTokenIds": [
+        "h03011007010"
+      ]
+    },
+    {
+      "es": "rumia",
+      "sourceTokenIds": [
+        "h03011007011"
+      ]
+    },
+    {
+      "es": "no",
+      "sourceTokenIds": [
+        "h03011007012"
+      ]
+    },
+    {
+      "es": "rumia",
+      "sourceTokenIds": [
+        "h03011007013"
+      ]
+    },
+    {
+      "es": "impuro",
+      "sourceTokenIds": [
+        "h03011007014"
+      ]
+    },
+    {
+      "es": "él",
+      "sourceTokenIds": [
+        "h03011007015"
+      ]
+    },
+    {
+      "es": "a ustedes",
+      "sourceTokenIds": [
+        "h03011007016"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "h03011007011: replaced the untranslated English 'cud' with the Spanish common noun 'rumia'.",
+    "h03011007013: changed 'rumiará' (future) to 'rumia' (present) because the niphal imperfect does not lock a future reading; subject stays 3ms."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose present 'rumia' over future 'rumiará' for the niphal imperfect יִגָּר since it need not mark future tense; subject stays 3ms and niphal voice is left unmarked in Spanish.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

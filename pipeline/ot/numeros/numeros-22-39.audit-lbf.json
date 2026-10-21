@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:39",
+  "chapter": 22,
+  "verse": 39,
+  "candidateLabel": "lbf",
+  "spanish": "Y anduvo Bilam con Balaq, y vinieron a Qiryat Jutsot.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022039005",
+        "h04022039006",
+        "h04022039007"
+      ],
+      "issue": "Spanish “a” is grammatical smoothing: the motion verb takes the place name as destination with no preposition token.",
+      "spanishSpan": "a"
+    }
+  ],
+  "notes": "3ms הלך, עם, and 3mp בוא match; both place tokens stay one proper name.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:13",
+  "chapter": 29,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y acercarán holocausto, ofrenda de fuego, olor de reposo a Jehová: toros hijos de ganado trece, carneros dos, corderos hijos de año catorce; íntegros serán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029013003",
+        "h04029013004",
+        "h04029013005"
+      ],
+      "issue": "אִשֵּׁה is construct and its complement is רֵיחַ נִיחֹחַ (odor of rest). The comma splits that chain into coordinate items, so ofrenda de fuego no longer governs olor de reposo.",
+      "spanishSpan": "ofrenda de fuego, olor de reposo"
+    }
+  ],
+  "notes": "2mp hiphil weqatal as acercarán is ustedes address; animals, counts, Jehová, and íntegros serán match the tokens.",
+  "discardedUncitedFindings": 0
+}

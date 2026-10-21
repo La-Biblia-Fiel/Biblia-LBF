@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:24",
+  "chapter": 1,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y voltearon faces y subieron al monte, y vinieron hasta torrente de Eshkol, y espiaron a ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001024001"
+      ],
+      "issue": "faces adds an English noun the qal 3mp verb does not license; the token is only they-turned",
+      "spanishSpan": "faces"
+    }
+  ],
+  "notes": "Remaining clauses match 3mp go-up, directional mountain, come-until, construct torrent, proper name, and piel 3mp plus 3fs object.",
+  "discardedUncitedFindings": 0
+}

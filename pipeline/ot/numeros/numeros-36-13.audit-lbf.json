@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 36:13",
+  "chapter": 36,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Estos los mandamientos y los juicios que mandó Jehová en mano de Moisés a hijos de Israel en arabot de Moab, sobre Yarden Yerijó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04036013012"
+      ],
+      "issue": "H6160 is a common noun (feminine plural construct) left untranslated as arabot; common nouns stay Spanish.",
+      "spanishSpan": "arabot"
+    }
+  ],
+  "notes": "Other tokens keep number, person, and the locked names Jehová, Moisés, and Israel.",
+  "discardedUncitedFindings": 0
+}

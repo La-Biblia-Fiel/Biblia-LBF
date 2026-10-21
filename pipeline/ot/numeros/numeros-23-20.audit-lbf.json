@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:20",
+  "chapter": 23,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "He aquí bendición tomé, y bendijo, y no la haré volver.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023020002",
+        "h04023020006"
+      ],
+      "issue": "Piel infinitive absolute of bless is smoothed as the noun bendición. That noun is feminine, so la may be heard as referring to it, while the infinitive has no feminine mark; the 3fs suffix itself is licensed.",
+      "spanishSpan": "bendición"
+    }
+  ],
+  "notes": "He aquí, tomé, y bendijo, and no la haré volver match the demonstrative, qal 1cs, piel 3ms, negative, and hiphil 1cs plus 3fs suffix.",
+  "discardedUncitedFindings": 0
+}

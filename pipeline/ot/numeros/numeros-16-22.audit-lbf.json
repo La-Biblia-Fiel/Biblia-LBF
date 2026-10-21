@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:22",
+  "chapter": 16,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y cayeron sobre sus faces, y dijeron: Dios, Dios de los espíritus a toda carne: el varón uno pecará, ¿y sobre toda la congregación te enfurecerás?",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016022012",
+        "h04016022013",
+        "h04016022016"
+      ],
+      "issue": "The question marks make the clause a question. No interrogative particle is in the packet; יֶחֱטָא and תִּקְצֹף are qal imperfects.",
+      "spanishSpan": "¿y sobre toda la congregación te enfurecerás?"
+    }
+  ],
+  "notes": "Other tokens match in order, number, person, and stem.",
+  "discardedUncitedFindings": 0
+}

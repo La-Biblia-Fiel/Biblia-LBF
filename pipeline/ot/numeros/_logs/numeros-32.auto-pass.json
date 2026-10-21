@@ -1,0 +1,273 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "numeros",
+  "chapter": 32,
+  "kept": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    11,
+    12,
+    19,
+    23,
+    26,
+    28,
+    31,
+    34,
+    35,
+    36,
+    37,
+    38,
+    40,
+    41,
+    42
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 7,
+      "notes": "clause role",
+      "spanish": "¿Y por qué disuadirán el corazón de hijos de Israel de pasar a la tierra que dio a ellos Jehová?",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04032007001",
+            "h04032007002",
+            "h04032007003",
+            "h04032007006"
+          ],
+          "issue": "disuadirán is an unmarked finite verb (future, 3rd plural) with no licensing token; after וְלָמָּה the clause has only the object marker, לֵב, and the qal infinitive מֵעֲבֹר",
+          "spanishSpan": "disuadirán"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Así hicieron sus padres en enviarme a ellos desde Qadesh Barnéa para ver la tierra.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04032008004",
+            "h04032008005"
+          ],
+          "issue": "The 1cs suffix on the qal infinitive is the sender and אתם is the direct object sent; Spanish makes the speaker the one sent and ellos the destination.",
+          "spanishSpan": "enviarme a ellos"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "clause role",
+      "spanish": "Y subieron hasta torrente de Eshkol, y vieron la tierra, y disuadieron el corazón de hijos de Israel de no entrar a la tierra que dio a ellos Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04032009008",
+            "h04032009013",
+            "h04032009014"
+          ],
+          "issue": "Hiphil H5106 with לְבִלְתִּי plus the infinitive licenses causing the heart not to come. “disuadieron … de no entrar” adds a second negation and reverses that sense.",
+          "spanishSpan": "disuadieron el corazón de hijos de Israel de no entrar"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "notes": "clause role",
+      "spanish": "Y se encendió nariz de Jehová en Israel, y los hizo vagar en el desierto cuarenta año, hasta acabarse toda la generación la haciente el mal en ojos de Jehová.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04032013002"
+          ],
+          "issue": "Morphology is HTa affirmation, while lemma/Strong H639 is the noun nose/anger. Spanish nariz de locks the anatomical noun plus a genitive and drops the affirmation reading.",
+          "spanishSpan": "nariz de"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04032013011",
+            "h04032013012",
+            "h04032013013"
+          ],
+          "issue": "כל הדור העשה is masculine singular; toda / la / haciente is feminine agreement with generación and does not change who acts.",
+          "spanishSpan": "toda la generación la haciente"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "Y se acercaron a él, y dijeron: Cercados de rebaño edificaremos a nuestro ganado aquí, y ciudades a nuestro niño.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04032016010"
+          ],
+          "issue": "לְטַפֵּנוּ is a collective singular (little ones) with a 1cp suffix; «nuestro niño» narrows it to one child.",
+          "spanishSpan": "nuestro niño"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04032016007",
+            "h04032016010"
+          ],
+          "issue": "The lamed marks the beneficiary (for the livestock / for the little ones). Spanish «a» can be read as the direct object of edificar.",
+          "spanishSpan": "a nuestro ganado … a nuestro niño"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "clause role",
+      "spanish": "Y dijo Moisés a ellos: Si pasaren hijos de Gad e hijos de Rubén con ustedes el Jordán, todo extracto a la guerra delante de Jehová, y sea sojuzgada la tierra delante de ustedes, y darán a ellos tierra del Galaad a posesión.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04032029013",
+            "h04032029014",
+            "h04032029015"
+          ],
+          "issue": "כָּל + qal passive participle ms חָלוּץ + לַמִּלְחָמָה licenses every one drawn out/equipped for the war. «extracto» is a different noun (an extract/excerpt) and drops the passive participle.",
+          "spanishSpan": "todo extracto a la guerra"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04032029005"
+          ],
+          "issue": "3mp qal imperfect is kept, but «pasaren» is obsolete future subjunctive rather than current Latin American (pasan/pasaran).",
+          "spanishSpan": "pasaren"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04032029018"
+          ],
+          "issue": "Niphal sequential perfect 3fs is a real result in the condition; «sea» is subjunctive and can be read as a jussive. Passive and feminine singular are kept.",
+          "spanishSpan": "sea sojuzgada"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "notes": "clause role",
+      "spanish": "Y si no pasaren extractos con ustedes, y serán asidos en medio de ustedes en tierra de Canaán.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04032030004",
+            "h04032030003"
+          ],
+          "issue": "Qal passive participle masculine plural is rendered as the noun extractos, which adds extracts/excerpts and reads as an object of pasar. The tokens license a passive participial state of the 3mp subjects, not a direct object.",
+          "spanishSpan": "extractos"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 1,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $403 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 10,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $403 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 14,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $406 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 15,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $403 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 17,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $404 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 18,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $403 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 20,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $404 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 21,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $404 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 22,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $404 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 24,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $404 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 25,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $404 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 27,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $404 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 32,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $405 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 33,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $405 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 39,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $406 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 7,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 9,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 13,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 16,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 29,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 30,
+      "note": "hold: clause role"
+    }
+  ]
+}

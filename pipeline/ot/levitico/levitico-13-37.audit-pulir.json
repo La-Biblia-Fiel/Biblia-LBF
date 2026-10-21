@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:37",
+  "chapter": 13,
+  "verse": 37,
+  "candidateLabel": "pulir",
+  "spanish": "Y si en sus ojos se paró la tiña, y pelo negro brotó en él, sanó la tiña; puro él. Y lo purificará el sacerdote.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013037003"
+      ],
+      "issue": "Qal עמד (stood/remained) is rendered se paró, which can be read as halted rather than stood.",
+      "spanishSpan": "se paró"
+    }
+  ],
+  "notes": "Dual eyes, singular black hair, sprouting, niphal healing, verbless puro él, and piel weqatal with 3ms object and the priest stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

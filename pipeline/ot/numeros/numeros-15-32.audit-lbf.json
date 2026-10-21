@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:32",
+  "chapter": 15,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y fueron hijos de Israel en el desierto, y hallaron varón recogiendo leños en día del shabat.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015032010"
+      ],
+      "issue": "הַשַּׁבָּת is a common noun with the article (H7676), not a proper name; \"shabat\" leaves the lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "shabat"
+    }
+  ],
+  "notes": "The other tokens match: 3mp היו/מצאו, construct בני־ישראל, locative במדבר, singular איש, active participle מקשש, plural עצים, and construct ביום plus the article on שבת.",
+  "discardedUncitedFindings": 0
+}

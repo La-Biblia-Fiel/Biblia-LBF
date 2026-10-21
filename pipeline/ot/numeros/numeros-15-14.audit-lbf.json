@@ -1,0 +1,56 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:14",
+  "chapter": 15,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando peregrinare con ustedes peregrino, o el que en medio de ustedes a sus generaciones, y hiciere ofrenda de fuego, olor de reposo a Jehová, como harán ustedes, así hará.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015014001"
+      ],
+      "issue": "כִּי is only tagged as a conjunction; «cuando» locks a temporal sense and closes if/that.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015014008"
+      ],
+      "issue": "The suffix is 2mp (the addressees’ generations); «sus» can be read as the generations of «el que».",
+      "spanishSpan": "sus generaciones"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015014010",
+        "h04015014011"
+      ],
+      "issue": "אִשֵּׁה רֵיחַ is one construct (a fire-offering of an odor); the comma can be read as a second object of «hiciere».",
+      "spanishSpan": "ofrenda de fuego, olor"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015014012"
+      ],
+      "issue": "H5207 is the soothing/quieting of the odor; «reposo» names rest.",
+      "spanishSpan": "reposo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015014017"
+      ],
+      "issue": "Qal jussive is smoothed to future indicative, so the jussive force is no longer marked.",
+      "spanishSpan": "hará"
+    }
+  ],
+  "notes": "2mp is ustedes/harán; יהוה is Jehová; גור and גר both remain.",
+  "discardedUncitedFindings": 0
+}

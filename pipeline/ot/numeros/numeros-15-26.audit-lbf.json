@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:26",
+  "chapter": 15,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y será perdonado a toda congregación de hijos de Israel y al peregrino el peregrinante en medio de ellos, porque a todo el pueblo por error.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015026001"
+      ],
+      "issue": "Niphal perfect 3ms with conjunction is rendered as future será; the packet marks perfect, so past/resultative remains open.",
+      "spanishSpan": "será perdonado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015026012"
+      ],
+      "issue": "בְּ smoothed to por; the inadvertence noun is kept and the verbless clause is not filled in.",
+      "spanishSpan": "por error"
+    }
+  ],
+  "notes": "Recipients, sojourner plus participle, and the verbless כִּי clause stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

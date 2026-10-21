@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:40",
+  "chapter": 1,
+  "verse": 40,
+  "candidateLabel": "lbf",
+  "spanish": "Y ustedes, volteen faces para ustedes y partan al desierto, camino de mar de Suf.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001040002"
+      ],
+      "issue": "The qal imperative licenses only the verb turn. Unmarked faces adds a noun the token does not have, and it is not Spanish.",
+      "spanishSpan": "faces"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001040008"
+      ],
+      "issue": "H5488 is a common noun in the absolute, not a locked name. Suf transliterates it instead of Spanish.",
+      "spanishSpan": "Suf"
+    }
+  ],
+  "notes": "Y ustedes, para ustedes, partan, al desierto, camino, and mar match the other tokens.",
+  "discardedUncitedFindings": 0
+}

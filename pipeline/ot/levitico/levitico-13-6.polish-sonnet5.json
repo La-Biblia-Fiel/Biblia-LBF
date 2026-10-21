@@ -1,0 +1,22 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 13:6",
+  "chapter": 13,
+  "verse": 6,
+  "sourceDraft": "Y la verá el sacerdote en el día el séptimo segunda, y he aquí oscureció la plaga, y no se extendió la plaga en la piel, y lo purificará el sacerdote; erupción ella. Y lavará sus vestidos, y será puro.",
+  "spanish": "Y lo verá el sacerdote en el día séptimo, por segunda vez, y he aquí palideció la plaga, y no se extendió la plaga en la piel, y lo purificará el sacerdote; erupción *es* ella. Y lavará sus vestidos, y será puro.",
+  "units": [],
+  "grammarChanges": [
+    "la → lo (the object suffix is 3ms; 'la' wrongly made it feminine).",
+    "oscureció → palideció (piel perfect of 3544 licenses dimming/fading; 'oscureció' narrowed it to becoming dark).",
+    "en el día el séptimo segunda → en el día séptimo, por segunda vez (the feminine ordinal 'segunda' needs its noun 'vez'; removed the duplicated article).",
+    "erupción ella → erupción *es* ella (supplied the copula the headless nominal clause needs in Spanish)."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Supplied copula *es* for the headless nominal clause (erupción es ella); kept the dimming/fading sense of the piel perfect with palideció instead of oscureció.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

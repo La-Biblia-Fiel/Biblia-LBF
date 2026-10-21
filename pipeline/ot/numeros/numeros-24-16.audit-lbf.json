@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 24:16",
+  "chapter": 24,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "oráculo del oyente dichos de El, y conocedor conocimiento de Elyón; visión de Shadai contempla, caído y descubierto de ojos:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024016004"
+      ],
+      "issue": "אֵל is a common noun (HNcmsa), not a proper name; \"El\" leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "El"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024016007"
+      ],
+      "issue": "עֶלְיוֹן is an adjective (HAamsa), not a proper noun; \"Elyón\" transliterates and capitalizes it as a name.",
+      "spanishSpan": "Elyón"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024016011"
+      ],
+      "issue": "נֹפֵל is a qal active participle (falling); \"caído\" is a resultative past participle (fallen) and changes stem force.",
+      "spanishSpan": "caído"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04024016010"
+      ],
+      "issue": "Qal imperfect 3ms is rendered as present \"contempla\", selecting one time the imperfect leaves open.",
+      "spanishSpan": "contempla"
+    }
+  ],
+  "notes": "Remaining tokens match: oráculo, oyente, dichos, y conocedor, conocimiento, visión, Shadai, y descubierto, ojos.",
+  "discardedUncitedFindings": 0
+}

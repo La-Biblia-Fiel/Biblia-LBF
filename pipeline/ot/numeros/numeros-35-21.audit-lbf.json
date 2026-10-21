@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:21",
+  "chapter": 35,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "o en enemistad lo hirió en su mano, y murió, morir será muerto el hiriente; matador él; el redentor de la sangre matará al matador en su encontrar en él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035021003",
+        "h04035021004"
+      ],
+      "issue": "«lo hirió en su mano» places the blow on the hand. בְיָדוֹ is only preposition + hand + 3ms suffix, so a means reading (with his hand) stays open.",
+      "spanishSpan": "lo hirió en su mano"
+    }
+  ],
+  "notes": "The other clauses match the tokens, including hophal יוּמַת, verbless רֹצֵחַ הוּא, and בְּפִגְעוֹ בוֹ.",
+  "discardedUncitedFindings": 0
+}

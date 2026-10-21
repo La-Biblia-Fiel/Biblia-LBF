@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:26",
+  "chapter": 35,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y si saliendo saliere el matador el límite de ciudad de su refugio que huirá allá,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035026004",
+        "h04035026009",
+        "h04035026010",
+        "h04035026011"
+      ],
+      "issue": "יָנוּס is qal imperfect 3ms and אֲשֶׁר … שָׁמָּה marks the place. «que huirá» makes the relative antecedent the one who flees, so the slayer is no longer the subject.",
+      "spanishSpan": "que huirá allá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04035026003",
+        "h04035026005",
+        "h04035026006"
+      ],
+      "issue": "אֵת marks גְּבוּל as the object of יֵצֵא. Bare «salir el límite» leaves that object relation unclear.",
+      "spanishSpan": "saliere el matador el límite"
+    }
+  ],
+  "notes": "Cognate infinitive, conjunction, slayer, and construct chain are otherwise matched.",
+  "discardedUncitedFindings": 0
+}

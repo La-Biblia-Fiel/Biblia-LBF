@@ -1,0 +1,83 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "numeros",
+  "chapter": 36,
+  "kept": [
+    1,
+    2,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 9,
+      "notes": "clause role",
+      "spanish": "Y no rodeará heredad desde tribu a tribu otra, porque varón en su heredad se pegarán tribus de hijos de Israel.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04036009002"
+          ],
+          "issue": "rodeará elige el sentido de rodear/dar vuelta de H5437; desde…a conserva el movimiento, pero el verbo no dice por sí solo el traslado",
+          "spanishSpan": "rodeará"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04036009010"
+          ],
+          "issue": "el se de se pegarán es acomodo gramatical del qal intransitivo; no cambia persona, número ni participantes",
+          "spanishSpan": "se pegarán"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "notes": "clause role",
+      "spanish": "Desde familias de hijos de Manasés hijo de José fueron a mujeres, y fue su heredad sobre tribu de familia de su padre.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04036012006",
+            "h04036012007"
+          ],
+          "issue": "«fueron a» se lee como ir (movimiento hacia las mujeres). הָיוּ es qal 3cp de ser/estar y לְ es la preposición del predicado, no meta de movimiento.",
+          "spanishSpan": "fueron a mujeres"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 3,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $420 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 4,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $420 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 13,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $421 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 9,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 12,
+      "note": "hold: clause role"
+    }
+  ]
+}

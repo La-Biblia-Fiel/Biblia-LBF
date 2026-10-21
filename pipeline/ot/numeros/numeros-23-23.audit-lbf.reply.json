@@ -1,0 +1,40 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023023001"
+      ],
+      "issue": "כִּי is only marked as a conjunction; «porque» selects the causal sense.",
+      "spanishSpan": "Porque"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023023002",
+        "h04023023003",
+        "h04023023004"
+      ],
+      "issue": "Unmarked supplied copula. The clause is verbless (negative + noun + preposition); a copula that only makes it a sentence must be asterisk-marked.",
+      "spanishSpan": "hay"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023023009"
+      ],
+      "issue": "Niphal imperfect 3ms is fixed as Spanish future; the imperfect does not itself mark future time.",
+      "spanishSpan": "se dirá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023023014"
+      ],
+      "issue": "Common noun אֵל (H410, HNcmsa) is left untranslated as El, with title capitalization. A non-name deity noun is Spanish Dios.",
+      "spanishSpan": "El"
+    }
+  ],
+  "notes": "Jacob, Israel, the two ב, both ל, niphal אמר, מה, and qal perfect פעל otherwise match the tokens; HRd licenses el on tiempo."
+}

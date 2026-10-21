@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 25:3",
+  "chapter": 25,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y se unió Israel a Baal Peor, y ardió nariz de Jehová en Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04025003005",
+        "h04025003006",
+        "h04025003007"
+      ],
+      "issue": "Lemma 639 / H639 licenses a noun (nose/anger) as subject of the qal 3ms burn verb, while morph HTa marks affirmation. «ardió nariz» follows the noun lemma and the anatomical sense, so the anger sense and the affirmation tag are not represented.",
+      "spanishSpan": "ardió nariz"
+    }
+  ],
+  "notes": "The other tokens match: niphal 3ms plus Israel joined to Baal Peor, qal 3ms, Jehová, and en Israel.",
+  "discardedUncitedFindings": 0
+}

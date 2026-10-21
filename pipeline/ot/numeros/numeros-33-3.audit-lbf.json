@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 33:3",
+  "chapter": 33,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y partieron desde Raamses en el mes el primero, en el quince día al mes el primero; desde mañana de la Pascua salieron hijos de Israel en mano alzada, a ojos de todo Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04033003010",
+        "h04033003011"
+      ],
+      "issue": "H4283 is the morrow (the day after) in construct with the Passover; «mañana de la Pascua» reads as the morning of the Passover and drops the following-day sense.",
+      "spanishSpan": "mañana de la Pascua"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04033003016"
+      ],
+      "issue": "Qal active participle (the hand is high) is smoothed as the passive adjective «alzada».",
+      "spanishSpan": "alzada"
+    }
+  ],
+  "notes": "The rest of the verse matches the tokens, including both 3pl verbs, the fifteenth day, singular hand, dual eyes, and Egipto.",
+  "discardedUncitedFindings": 0
+}

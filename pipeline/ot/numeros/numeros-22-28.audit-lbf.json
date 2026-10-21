@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:28",
+  "chapter": 22,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y abrió Jehová la boca de la asna, y dijo a Bilam: ¿Qué hice a ti, que me heriste estas tres veces?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04022028006"
+      ],
+      "issue": "וַתֹּאמֶר is qal sequential 3fs (she said). Unmarked dijo continues the previous masculine subject Jehová as the speaker.",
+      "spanishSpan": "dijo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04022028015"
+      ],
+      "issue": "רְגָלִים is a common noun, feminine plural (feet). veces replaces that noun with occasions.",
+      "spanishSpan": "veces"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022028013"
+      ],
+      "issue": "זֶה is a masculine singular demonstrative; estas is feminine plural, agreement smoothing with veces.",
+      "spanishSpan": "estas"
+    }
+  ],
+  "notes": "Jehová, la asna, and the 1cs/2ms strike clause match the tokens.",
+  "discardedUncitedFindings": 0
+}

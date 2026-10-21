@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:25",
+  "chapter": 29,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y macho cabrío de cabras uno, pecado, aparte de holocausto del continuo, su minjá y su libación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029025008"
+      ],
+      "issue": "מנחה (H4503) is a common noun, not a name; minjá leaves the lemma untranslated instead of a Spanish noun.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Remaining tokens match number, construct relations, article, and 3fs suffixes.",
+  "discardedUncitedFindings": 0
+}

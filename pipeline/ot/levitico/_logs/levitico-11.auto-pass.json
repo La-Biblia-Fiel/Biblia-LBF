@@ -14,8 +14,20 @@
     45
   ],
   "drafted": [],
-  "repaired": [],
-  "repairedWithWarn": [],
+  "repaired": [
+    14,
+    15,
+    19,
+    20,
+    42,
+    46,
+    47
+  ],
+  "repairedWithWarn": [
+    6,
+    10,
+    21
+  ],
   "parked": [
     {
       "verse": 2,
@@ -38,6 +50,28 @@
           ],
           "issue": "One definite feminine singular noun is rendered as noun plus adjective; «viva» may add a quality the single noun does not mark separately.",
           "spanishSpan": "bestia viva"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "notes": "spanish check",
+      "spanish": "Todo partiente pezuña y hendiente hendidura de pezuñas, subiente rumia en el animal, a ella comerán.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "partiente is not current Spanish; a reader must guess that it means splitting",
+          "spanishSpan": "partiente"
+        },
+        {
+          "severity": "fail",
+          "issue": "hendiente is an old active participle a reader would have to guess",
+          "spanishSpan": "hendiente"
+        },
+        {
+          "severity": "fail",
+          "issue": "subiente is not current Spanish; a reader must guess that it means bringing up",
+          "spanishSpan": "subiente"
         }
       ]
     },
@@ -84,6 +118,52 @@
       ]
     },
     {
+      "verse": 5,
+      "notes": "clause role",
+      "spanish": "Y el shafán, porque subiente cud él, y pezuña no partirá; impuro él a ustedes.",
+      "findings": []
+    },
+    {
+      "verse": 7,
+      "notes": "re-audit fail",
+      "spanish": "Y el cerdo, porque partiente pezuña él y hendiente hendidura de pezuña, y él rumia no rumia; impuro él a ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011007011",
+            "h03011007013"
+          ],
+          "issue": "גֵּרָה is a singular noun (the cud) and יִגָּר is one negated niphal imperfect. The pair rumia/rumia reads as two finite verbs, so an affirmative chew is added and the cud is not kept as the object of a single negated verb.",
+          "spanishSpan": "rumia no rumia"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011007003"
+          ],
+          "issue": "porque locks כִּי as causal; the token is only a conjunction, so a concessive or completive sense remains open.",
+          "spanishSpan": "porque"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Todo lo que no a él aleta y escama en las aguas, abominación él a ustedes.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011012001",
+            "h03011012002"
+          ],
+          "issue": "«lo» in «todo lo que» is unmarked grammatical smoothing; כל and אשר license «todo» plus the relative, and «lo» adds no separate concept.",
+          "spanishSpan": "lo"
+        }
+      ]
+    },
+    {
       "verse": 13,
       "notes": "clause role",
       "spanish": "Y estas abominarán desde el ave; no serán comidos, abominación ellos: el nesher y el peres y la ozniah,",
@@ -109,6 +189,12 @@
           "spanishSpan": "el nesher y el peres y la ozniah"
         }
       ]
+    },
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "y hija del yaana, y el tahmás y el shahaf y el nets a su especie,",
+      "findings": []
     },
     {
       "verse": 17,
@@ -138,6 +224,310 @@
       ]
     },
     {
+      "verse": 18,
+      "notes": "clause role",
+      "spanish": "y la tinshémet y el qaat y el raham,",
+      "findings": []
+    },
+    {
+      "verse": 22,
+      "notes": "clause role",
+      "spanish": "Estas desde ellos comerán: el arbeh a su especie, y el salam a su especie, y el hargol a su especie, y el hagav a su especie.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011022001",
+            "h03011022002",
+            "h03011022004"
+          ],
+          "issue": "את marks אלה as object and תאכלו is qal imperfect 2mp (the addressees eat). «Estos … comerán» makes that demonstrative the third-party subject who eats.",
+          "spanishSpan": "Estos desde ellos comerán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011022006"
+          ],
+          "issue": "Common noun הארבה (H697) is left as an untranslated lemma.",
+          "spanishSpan": "arbeh"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011022009"
+          ],
+          "issue": "Common noun הסלעם (H5556) is left as an untranslated lemma.",
+          "spanishSpan": "salam"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011022012"
+          ],
+          "issue": "Common noun החרגל (H2728) is left as an untranslated lemma.",
+          "spanishSpan": "hargol"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011022015"
+          ],
+          "issue": "Common noun החגב (H2284) is left as an untranslated lemma.",
+          "spanishSpan": "hagav"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011022003"
+          ],
+          "issue": "מֵהֶם only licenses from/of plus 3mp; «desde» narrows it to a point of origin.",
+          "spanishSpan": "desde ellos"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "notes": "re-audit fail",
+      "spanish": "Y todo lo que pulula del ave que a él cuatro pies, abominación él a ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011023002"
+          ],
+          "issue": "שֶׁרֶץ is a masculine singular construct noun, not a verb. Unmarked “lo que pulula” adds a relative and a finite swarming action the token does not license.",
+          "spanishSpan": "lo que pulula"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "notes": "spanish check",
+      "spanish": "Y a estos se impurificarán; todo el tocante en su cadáver se impurecerá hasta la tarde.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá is not a current Spanish form; a reader would have to guess the verb.",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "notes": "clause role",
+      "spanish": "A todo el animal que ella partiente pezuña y hendidura no es hendiente, y cud no subiente, impuros ellos a ustedes; todo el tocante en ellos se impurecerá.",
+      "findings": []
+    },
+    {
+      "verse": 28,
+      "notes": "spanish check",
+      "spanish": "Y el alzante el cadáver de ellos lavará sus vestidos, y se impurecerá hasta la tarde; impuros ellos a ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá no es un verbo del español actual; hay que adivinar que significa volverse impuro",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "notes": "re-audit fail",
+      "spanish": "Y este a ustedes el impuro en el animal el reptante sobre la tierra: la comadreja y el ratón y la tortuga a su especie,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011029004"
+          ],
+          "issue": "בַּשֶּׁרֶץ (H8318) is the swarming/creeping creature, cognate with the following participle; \"el animal\" adds a generic animal and drops that noun.",
+          "spanishSpan": "el animal"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011029010"
+          ],
+          "issue": "צָב (H6632) is an open land-swarmer lemma (lizard or tortoise); \"la tortuga\" fixes it as tortoise.",
+          "spanishSpan": "la tortuga"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011029005"
+          ],
+          "issue": "Qal participle הַשֹּׁרֵץ means swarm/teem/creep; \"el reptante\" keeps only crawling and does not repeat the noun's root.",
+          "spanishSpan": "el reptante"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011029008"
+          ],
+          "issue": "חֹלֶד (H2467) is commonly weasel but also taken as mole; \"la comadreja\" selects weasel.",
+          "spanishSpan": "la comadreja"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "notes": "clause role",
+      "spanish": "y la anaqáh y el kóah y la letaáh y el hómet y la tinshémet.",
+      "findings": []
+    },
+    {
+      "verse": 31,
+      "notes": "spanish check",
+      "spanish": "Estos los impuros a ustedes en todo lo que pulula; todo el tocante en ellos en su muerte se impurecerá hasta la tarde.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá no es una forma del español actual; el lector tiene que adivinarla",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "notes": "re-audit fail",
+      "spanish": "Y todo lo que cayere sobre él desde ellos en su muerte se impurecerá, desde todo utensilio de madera o vestido o piel o saco, todo utensilio que se haga obra en ellos; en las aguas será traído, y se impurecerá hasta la tarde, y será puro.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011032001",
+            "h03011032002",
+            "h03011032003",
+            "h03011032004",
+            "h03011032005",
+            "h03011032007"
+          ],
+          "issue": "Spanish makes «todo lo que» the thing that falls onto a separate «él». יִפֹּל is qal imperfect 3ms with no subject pronoun; מֵהֶם is only the plural source, and the 3ms suffix on עָלָיו resumes כֹּל as what is fallen upon and what יִטְמָא makes unclean.",
+          "spanishSpan": "todo lo que cayere sobre él desde ellos"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011032006"
+          ],
+          "issue": "בְּמֹתָם is a singular noun with a 3mp suffix, their death, the same plural as מֵהֶם. «su» can be read as singular «él».",
+          "spanishSpan": "en su muerte"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011032007",
+            "h03011032025"
+          ],
+          "issue": "Qal is a stative be/become unclean; pronominal se impurecerá is inchoative smoothing and can sound reflexive, without a new actor or a causative stem.",
+          "spanishSpan": "se impurecerá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011032027"
+          ],
+          "issue": "Definite עֶרֶב is evening; la tarde in current Latin American Spanish often means afternoon, so the time limit is slightly uncertain.",
+          "spanishSpan": "la tarde"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "notes": "re-audit fail",
+      "spanish": "Y todo utensilio de barro que cayere desde ellos a su medio, todo lo que en su medio se impurecerá, y a él quebrarán.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011033002",
+            "h03011033004",
+            "h03011033005",
+            "h03011033006",
+            "h03011033008"
+          ],
+          "issue": "Spanish makes the earthen vessel the subject of the fall. יִפֹּל is qal imperfect 3ms with no subject pronoun; מֵהֶם is only the plural source, and the 3ms suffix on תּוֹכוֹ marks the vessel as the container into whose midst something falls.",
+          "spanishSpan": "utensilio de barro que cayere desde ellos a su medio"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "notes": "clause role",
+      "spanish": "Y todo lo que cayere desde su cadáver sobre él se impurecerá; horno y fogones serán derribados; impuros ellos, e impuros serán a ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011035001",
+            "h03011035002",
+            "h03011035003",
+            "h03011035004",
+            "h03011035005",
+            "h03011035006"
+          ],
+          "issue": "אֲשֶׁר + יִפֹּל + מִן + עָלָיו leaves the subject open: what falls, or the thing fallen upon. Spanish makes todo lo que the subject of both caer and se impurecerá, él a different participant, and desde locks מִן as ablative rather than part of the carcass.",
+          "spanishSpan": "todo lo que cayere desde el cadáver de ellos sobre él se impurecerá"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011035007",
+            "h03011035008",
+            "h03011035009"
+          ],
+          "issue": "יֻתָּץ is hophal imperfect 3ms with the compound subject oven + dual; serán derribados makes the verb plural.",
+          "spanishSpan": "serán derribados"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "notes": "spanish check",
+      "spanish": "Solo fuente y cisterna, reunión de aguas, será puro; y el tocante en el cadáver de ellos se impurecerá.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá no es un verbo del español actual; el lector tiene que adivinar que significa volverse impuro",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "notes": "clause role",
+      "spanish": "Y cuando cayere desde su cadáver sobre toda semilla de siembra que se siembre, puro él.",
+      "findings": []
+    },
+    {
+      "verse": 38,
+      "notes": "re-audit fail",
+      "spanish": "Y cuando se diere aguas sobre semilla, y cayere desde el cadáver de ellos sobre ella, impuro él a ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011038008",
+            "h03011038005",
+            "h03011038010"
+          ],
+          "issue": "עָלָיו is a 3rd masculine singular suffix, the same gender as זֶרַע and as הוּא. «ella» is feminine, so the place fallen upon is split from the masculine unclean «él».",
+          "spanishSpan": "ella"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03011038009",
+            "h03011038010",
+            "h03011038007"
+          ],
+          "issue": "טָמֵא הוּא is masculine and matches the seed, while the carcass noun is feminine. After «ella», masculine «él» is read as the corpse.",
+          "spanishSpan": "impuro él"
+        }
+      ]
+    },
+    {
       "verse": 39,
       "notes": "clause role",
       "spanish": "Y cuando muriere desde el animal que ella a ustedes a comida, el tocante en su cadáver se impurecerá hasta la tarde.",
@@ -157,6 +547,22 @@
           ],
           "issue": "“desde” can mean source or cause; מִן before the definite animal also allows partitive “from among.”",
           "spanishSpan": "desde"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "notes": "clause role",
+      "spanish": "Y todo el reptil el reptante sobre la tierra, abominación él; no será comido.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03011041002",
+            "h03011041003"
+          ],
+          "issue": "הַשֶּׁרֶץ plus attributive הַשֹּׁרֵץ is one participant: the swarming thing that swarms. “lo que pulula el reptante” makes el reptante the subject of pulula and lo que its complement.",
+          "spanishSpan": "lo que pulula el reptante"
         }
       ]
     },
@@ -201,162 +607,119 @@
           "spanishSpan": "se impurificarán"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "verse": 3,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $253 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 5,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $253 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 6,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $253 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 7,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $253 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 10,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 12,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 14,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 15,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 16,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 18,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 19,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 20,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 21,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 22,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 23,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 24,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $254 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 26,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 28,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 29,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 30,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 31,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 32,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 33,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 35,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 36,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 37,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 38,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $256 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 41,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $255 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 42,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $256 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
     },
     {
       "verse": 44,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $256 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 46,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $256 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 47,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $256 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+      "notes": "clause role",
+      "spanish": "Porque yo Jehová Dios de ustedes, y se santificarán, y serán santos, porque santo yo; y no impurificarán sus almas en todo el reptil el reptante sobre la tierra.",
+      "findings": []
     }
   ],
+  "errors": [],
   "readerNotes": [
     {
       "verse": 2,
       "note": "hold: clause role"
     },
     {
+      "verse": 3,
+      "note": "partiente is not current Spanish; a reader must guess that it means splitting; hendiente is an old active participle a reader would have to guess; subiente is not current Spanish; a reader must guess that it means bringing up"
+    },
+    {
       "verse": 4,
       "note": "hold: clause role"
+    },
+    {
+      "verse": 5,
+      "note": "hold: clause role — the animal (3ms) is the subject that does not divide the fronted hoof object, not the hoof itself splitting."
+    },
+    {
+      "verse": 10,
+      "note": "Se sustituyó «reptil» por «sabandija» (con el ajuste de género «toda») porque שֶׁרֶץ nombra un ser que pulula o se arrastra, no la clase zoológica reptil."
     },
     {
       "verse": 13,
       "note": "hold: clause role"
     },
     {
+      "verse": 14,
+      "note": "Chose the standard Spanish raptor names 'milano' and 'gavilán' for H1676/H344; exact species identification for these two terms is lexically uncertain."
+    },
+    {
+      "verse": 16,
+      "note": "hold: lexical gloss — tahmás, shahaf, nets, and yaana stay as untranslated transliterations because the packet gives only Hebrew morphology (no Spanish gloss for H8464, H7828, H5322, H3284), and supplying the species names would require memory or outside sources, which Pulir is forbidden to use."
+    },
+    {
       "verse": 17,
       "note": "hold: clause role"
+    },
+    {
+      "verse": 18,
+      "note": "hold: lexical identification. Giving real Spanish bird names for tinshémet, qaat, and raham is a translation choice, not a grammar repair, and Pulir does not translate from memory or pick among disputed species identities. Only the qaat article was corrected for gender agreement (el→la); all three nouns remain transliterated."
+    },
+    {
+      "verse": 20,
+      "note": "'Lo que vuela' renders H5775 here per the packet's FLYER sense (bird or insect, not bird only); other verses in this chapter gloss the same lemma as 'ave' where the auditor did not flag narrowing."
+    },
+    {
+      "verse": 22,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 24,
+      "note": "impurecerá is not a current Spanish form; a reader would have to guess the verb."
+    },
+    {
+      "verse": 26,
+      "note": "hold: clause role — the subject of \"no es hendiente\" (h03011026007-009) and of \"no subiente\" (h03011026010-012) is the animal, carried by the 3fs suffix/participle, not hendidura or cud, which the draft wrongly makes the grammatical subject; verse returned unrepaired."
+    },
+    {
+      "verse": 28,
+      "note": "impurecerá no es un verbo del español actual; hay que adivinar que significa volverse impuro"
+    },
+    {
+      "verse": 30,
+      "note": "hold: naming these five Spanish common-noun equivalents requires lexical identification of the animals, not grammar repair, and this layer does not translate from memory."
+    },
+    {
+      "verse": 31,
+      "note": "impurecerá no es una forma del español actual; el lector tiene que adivinarla"
+    },
+    {
+      "verse": 35,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 36,
+      "note": "impurecerá no es un verbo del español actual; el lector tiene que adivinar que significa volverse impuro"
+    },
+    {
+      "verse": 37,
+      "note": "hold: clause role — no se resuelve si el sujeto no nombrado de \"cae\" es parte del cadáver u otra cosa, ni si \"puro él\" se refiere a la semilla o al cadáver."
     },
     {
       "verse": 39,
       "note": "hold: clause role"
     },
     {
+      "verse": 41,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 42,
+      "note": "Se eligió «enjambre/pululante» en vez de «reptil/reptante» para no limitar H8318/H8317 a reptiles, conservando el sentido amplio de enjambrar/pulular que ya señalaba el auditor."
+    },
+    {
       "verse": 43,
       "note": "hold: clause role"
+    },
+    {
+      "verse": 44,
+      "note": "hold: clause role — בְּ (h03011044015) is only marked as a preposition, and choosing between a locative 'in' and an instrumental 'by means of' reading decides whether the swarming creature is the place or the means of the defiling, so 'en' is left unchanged."
+    },
+    {
+      "verse": 46,
+      "note": "Chose 'alma viviente' over the literal 'alma la viva' to carry the נֶפֶשׁ הַֽחַיָּה construct link, matching this corpus's consistent rendering of that same phrase elsewhere."
     }
   ]
 }

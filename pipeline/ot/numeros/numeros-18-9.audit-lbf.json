@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:9",
+  "chapter": 18,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Esto será a ti desde santidad de las santidades, desde el fuego: todo su acercamiento, a toda su minjá y a todo su pecado y a toda su culpa que devolverán a mí; santidad de santidades él a ti y a tus hijos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04018009011"
+      ],
+      "issue": "minjá leaves the common noun (H4503, feminine singular plus 3mp suffix) untranslated; a non-name lemma must be Spanish.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens, including hiphil 3mp devolverán, the article contrast on the two קדש phrases, and 2ms a ti.",
+  "discardedUncitedFindings": 0
+}

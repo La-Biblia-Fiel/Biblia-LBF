@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 34:2",
+  "chapter": 34,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Manda a hijos de Israel, y dirás a ellos: Cuando ustedes vengan a la tierra Canaán, esta la tierra que caerá a ustedes en heredad, tierra de Canaán a sus límites.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034002007"
+      ],
+      "issue": "כִּי is only a conjunction; «Cuando» fixes it as temporal and closes that, because, or content-that.",
+      "spanishSpan": "Cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04034002009"
+      ],
+      "issue": "Qal active participle בָּאִים is smoothed into the finite subjunctive «vengan».",
+      "spanishSpan": "vengan"
+    }
+  ],
+  "notes": "Command, addressees, verbless זאת הארץ, caerá, and construct versus absolute Canaán match the tokens.",
+  "discardedUncitedFindings": 0
+}

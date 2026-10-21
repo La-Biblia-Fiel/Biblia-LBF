@@ -51,7 +51,7 @@ METHOD:
 - Do not add a dative, subject, or copula the tokens do not mark.
 - Every Spanish unit must cite sourceTokenIds from the packet.
 - Proper names: conventional Spanish form when one exists
-  (translation/PROPER_NAMES.md). Jehová for יהוה; Dios for אלהים as God.
+  (translation/PROPER_NAMES.md). Yahvé for יהוה; Dios for אלהים as God.
   Never Yehudá/Mizraim/Yosef when the table locks Judá/Egipto/José.
   If a “translation” would identify the referent (Javán→Grecia), keep
   the traditional name and note the ID when useful. Common nouns stay

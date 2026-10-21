@@ -1,0 +1,54 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 11:19",
+  "chapter": 11,
+  "verse": 19,
+  "sourceDraft": "y la hasidah, la anafáh a su especie, y el dukifat y el atalef.",
+  "spanish": "y la cigüeña, la garza a su especie, y la abubilla y el murciélago.",
+  "units": [
+    {
+      "es": "y la cigüeña",
+      "sourceTokenIds": [
+        "h03011019001",
+        "h03011019002"
+      ]
+    },
+    {
+      "es": "la garza",
+      "sourceTokenIds": [
+        "h03011019003"
+      ]
+    },
+    {
+      "es": "a su especie",
+      "sourceTokenIds": [
+        "h03011019004"
+      ]
+    },
+    {
+      "es": "y la abubilla",
+      "sourceTokenIds": [
+        "h03011019005",
+        "h03011019006"
+      ]
+    },
+    {
+      "es": "y el murciélago",
+      "sourceTokenIds": [
+        "h03011019007",
+        "h03011019008"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced untranslated Hebrew transcriptions with Spanish common nouns: hasidah -> cigüeña, anafáh -> garza, dukifat -> abubilla, atalef -> murciélago.",
+    "Corrected article gender on the feminine singular noun formerly transcribed dukifat: 'el' -> 'la abubilla'."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

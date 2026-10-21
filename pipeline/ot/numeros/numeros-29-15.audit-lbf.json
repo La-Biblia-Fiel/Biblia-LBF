@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:15",
+  "chapter": 29,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y décimo décimo al cordero el uno, a los catorce corderos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04029015005",
+        "h04029015006",
+        "h04029015007"
+      ],
+      "issue": "los marks the fourteen lambs as definite; the preposition, the teen cardinals, and the plural noun have no article.",
+      "spanishSpan": "los"
+    }
+  ],
+  "notes": "Y, the repeated singular tenth-noun, the one lamb, and fourteen lambs follow the tokens.",
+  "discardedUncitedFindings": 0
+}

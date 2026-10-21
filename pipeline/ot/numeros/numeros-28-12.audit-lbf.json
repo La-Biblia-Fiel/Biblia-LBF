@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:12",
+  "chapter": 28,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Y tres décimos sólet minjá mezclada en el aceite al toro el uno, y dos décimos sólet minjá mezclada en el aceite al carnero el uno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028012003",
+        "h04028012011"
+      ],
+      "issue": "Common noun H5560 left as the untranslated lemma sólet instead of Spanish.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028012004",
+        "h04028012012"
+      ],
+      "issue": "Common noun H4503 left as the untranslated lemma minjá instead of Spanish.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Counts, mixture, oil, the one bull, and the one ram match the tokens.",
+  "discardedUncitedFindings": 0
+}

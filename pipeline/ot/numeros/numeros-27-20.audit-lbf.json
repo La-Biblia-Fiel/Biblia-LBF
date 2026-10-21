@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 27:20",
+  "chapter": 27,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y darás desde tu esplendor sobre él, a fin de que oigan toda congregación de hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04027020005",
+        "h04027020006",
+        "h04027020007",
+        "h04027020008"
+      ],
+      "issue": "The 3mp verb has as its subject the whole congregation of the sons; plural oigan with singular congregación reads as an unnamed they hearing the congregation.",
+      "spanishSpan": "oigan toda congregación"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04027020006",
+        "h04027020007",
+        "h04027020009"
+      ],
+      "issue": "toda congregación without la can be read as every congregation; כל plus the construct ending in Israel is the whole of that one congregation.",
+      "spanishSpan": "toda congregación"
+    }
+  ],
+  "notes": "Y darás, desde tu esplendor, sobre él, a fin de que, and hijos de Israel match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

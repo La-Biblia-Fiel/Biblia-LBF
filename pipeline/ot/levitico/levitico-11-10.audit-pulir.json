@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:10",
+  "chapter": 11,
+  "verse": 10,
+  "candidateLabel": "pulir",
+  "spanish": "Y todo lo que no a él aleta y escama en los mares y en los torrentes, desde toda sabandija de las aguas y desde toda alma la viva que en las aguas, abominación ellos a ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011010010",
+        "h03011010017"
+      ],
+      "issue": "sabandija narrows שרץ (swarming creature) toward a small repulsive bug; repulsiveness is licensed by שקץ, not by שרץ",
+      "spanishSpan": "sabandija"
+    }
+  ],
+  "notes": "Number, articles, suffixes, ustedes, and the verbless שקץ הם לכם stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

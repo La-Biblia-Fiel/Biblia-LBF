@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:24",
+  "chapter": 35,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "y juzgará la congregación entre el hiriente y entre el redentor de la sangre sobre los juicios estos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04035024001",
+        "h04035024002"
+      ],
+      "issue": "וְשָׁפְטוּ is qal sequential perfect 3rd common plural; juzgará is 3rd singular. The subject הָעֵדָה is one feminine singular congregation, so the singular verb is Spanish agreement with that collective and does not change the participant.",
+      "spanishSpan": "juzgará"
+    }
+  ],
+  "notes": "entre…y entre, el hiriente, el redentor de la sangre, and sobre los juicios estos match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:35",
+  "chapter": 15,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Muriendo será muerto el varón; apedreándolo con las piedras toda la congregación a fuera al campamento.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015035013",
+        "h04015035014"
+      ],
+      "issue": "מִחוּץ is from + outside and לְ marks the camp as the reference of that outside. 'a fuera al campamento' uses a/al ('to') for both, so the camp reads as the destination.",
+      "spanishSpan": "a fuera al campamento"
+    }
+  ],
+  "notes": "Death idiom, object, stones, and congregation match the tokens.",
+  "discardedUncitedFindings": 0
+}

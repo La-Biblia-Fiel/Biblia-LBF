@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:27",
+  "chapter": 23,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Balaq a Bilam: Anda ahora, te tomaré a lugar otro; quizá enderezará en ojos de Dios, y lo maldecirás a mí desde allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023027006"
+      ],
+      "issue": "The entreaty interjection is rendered as ahora, which can add a temporal sense the token does not state.",
+      "spanishSpan": "ahora"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023027007"
+      ],
+      "issue": "Qal cohortative 1cs with a 2ms suffix is smoothed to the future indicative; the speaker still takes the addressee.",
+      "spanishSpan": "te tomaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023027012"
+      ],
+      "issue": "Qal imperfect 3ms of ישׁר is stative (be straight/right/pleasing). enderezará is causative (make straight) and changes stem force.",
+      "spanishSpan": "enderezará"
+    }
+  ],
+  "notes": "The other clauses keep the packet’s person, number, participants, and proper nouns.",
+  "discardedUncitedFindings": 0
+}

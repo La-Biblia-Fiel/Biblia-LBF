@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 30:10",
+  "chapter": 30,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y si en casa de su varón votó, o ató atadura sobre su alma en juramento,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04030010002"
+      ],
+      "issue": "en has no preposition token; בֵּית is only a construct noun, so the locative is grammatical smoothing of the adverbial house phrase",
+      "spanishSpan": "en"
+    }
+  ],
+  "notes": "Other words match: and if, house of her man, she vowed, or she bound a binding upon her soul in an oath.",
+  "discardedUncitedFindings": 0
+}

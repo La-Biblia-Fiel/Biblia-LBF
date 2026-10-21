@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:38",
+  "chapter": 14,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "Y Josué hijo de Nun y Calev hijo de Yefuné vivieron desde los varones aquellos los andantes a recorrer la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014038012"
+      ],
+      "issue": "«recorrer» omits the seek/spy/explore force of תור (H8446, qal infinitive) and reduces it to traversal.",
+      "spanishSpan": "recorrer"
+    }
+  ],
+  "notes": "Names, חיו, מן, the men, the demonstrative, the הלך participle, את, and הארץ stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

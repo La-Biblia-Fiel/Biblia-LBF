@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:19",
+  "chapter": 19,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y rociará el puro sobre el impuro en el día el tercero y en el día el séptimo, y lo pecará en el día el séptimo, y lavará sus vestidos y lavará en las aguas, y será puro en la tarde.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019019009"
+      ],
+      "issue": "Piel sequential perfect 3ms of H2398 plus a 3ms object suffix means he purifies/cleanses him. \"lo pecará\" takes the qal sense \"to sin\" and reverses that stem force.",
+      "spanishSpan": "lo pecará"
+    }
+  ],
+  "notes": "The other clauses match the tokens in participants, number, definiteness, and repetition.",
+  "discardedUncitedFindings": 0
+}

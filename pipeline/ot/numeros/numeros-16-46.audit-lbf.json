@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:46",
+  "chapter": 16,
+  "verse": 46,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Moisés a Aarón: Toma el brasero, y da sobre él fuego de sobre el altar, y pon incienso, y ve pronto a la congregación, y expía sobre ellos, porque salió la ira de delante de Jehová; comenzó la plaga.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016046015"
+      ],
+      "issue": "Hiphil imperative (causative stem) is rendered as intransitive ve; the clause has no object token, so whether the hiphil here only means go remains open.",
+      "spanishSpan": "ve"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016046007",
+        "h04016046009"
+      ],
+      "issue": "3fs suffix agreeing with feminine המחתה is smoothed to masculine él to match Spanish brasero; same referent.",
+      "spanishSpan": "sobre él"
+    }
+  ],
+  "notes": "Imperatives, נתן vs שים, מעל, כפר על 3mp, קצף, מלפני יהוה, and hiphil החל הנגף match the tokens.",
+  "discardedUncitedFindings": 0
+}

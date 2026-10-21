@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:32",
+  "chapter": 14,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y sus cadáveres ustedes caerán en el desierto este.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014032001",
+        "h04014032002",
+        "h04014032003"
+      ],
+      "issue": "The qal imperfect is 3mp and agrees with the masculine plural corpses; the independent 2mp pronoun emphasizes those possessors and is not the verb’s subject. Placing ustedes immediately before caerán makes the addressees the ones who fall.",
+      "spanishSpan": "ustedes caerán"
+    }
+  ],
+  "notes": "Conjunction, corpse noun, desert, and demonstrative are licensed; sus can be the ustedes possessive.",
+  "discardedUncitedFindings": 0
+}

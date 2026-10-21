@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:19",
+  "chapter": 18,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Todas las ofrendas alzadas de las santidades que alzarán hijos de Israel a Jehová, di a ti y a tus hijos y a tus hijas contigo a estatuto de siempre; pacto de sal de siempre él delante de Jehová, a ti y a tu semilla contigo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04018019019"
+      ],
+      "issue": "Pronombre 3fs reproducido con él masculino; el referente sigue siendo el pacto y el género es ajuste al español.",
+      "spanishSpan": "él"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04018019024"
+      ],
+      "issue": "Sufijo 2fs; contigo no marca el femenino frente al 2ms de la primera vez.",
+      "spanishSpan": "tu semilla contigo"
+    }
+  ],
+  "notes": "El resto corresponde a los tokens en número, persona, modo y participantes.",
+  "discardedUncitedFindings": 0
+}

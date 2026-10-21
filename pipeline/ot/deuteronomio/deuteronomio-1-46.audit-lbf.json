@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:46",
+  "chapter": 1,
+  "verse": 46,
+  "candidateLabel": "lbf",
+  "spanish": "Y habitaron en Qadesh días muchos, como los días que habitaron.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h05001046005"
+      ],
+      "issue": "los marks the days definite; kayyamim is an absolute plural with the preposition k and no article. The relative clause supplies that definiteness, so the article is grammatical smoothing.",
+      "spanishSpan": "los"
+    }
+  ],
+  "notes": "Both qal 2mp verbs are ustedes habitaron; Qadesh is an unlocked proper name.",
+  "discardedUncitedFindings": 0
+}

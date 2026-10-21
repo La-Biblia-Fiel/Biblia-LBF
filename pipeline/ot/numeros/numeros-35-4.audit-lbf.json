@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:4",
+  "chapter": 35,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y ejidos de las ciudades que darán a los levitas, desde muro de la ciudad y afuera, mil codo alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035004003",
+        "h04035004004"
+      ],
+      "issue": "תִּתְּנוּ is qal imperfect 2mp (the addressees give) and אֲשֶׁר is its object (the cities they give). “que darán” makes the cities the givers and drops the 2pl addressees.",
+      "spanishSpan": "que darán"
+    }
+  ],
+  "notes": "Remaining tokens match: ejidos, ciudades, levitas, muro, ciudad, afuera, mil codo, alrededor.",
+  "discardedUncitedFindings": 0
+}

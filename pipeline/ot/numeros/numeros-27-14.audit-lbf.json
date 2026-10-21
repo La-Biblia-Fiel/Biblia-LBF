@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 27:14",
+  "chapter": 27,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Conforme a lo que ustedes amargaron mi boca en desierto de Tsin, en contienda de la congregación, para santificarme en las aguas a ojos de ellos; ellos aguas de Meribat Qadésh, desierto de Tsin.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04027014002",
+        "h04027014003"
+      ],
+      "issue": "Qal perfect H4784 licenses rebellion against the mouth; «amargaron» is causative bitterness and makes mi boca the patient of that bitterness.",
+      "spanishSpan": "amargaron mi boca"
+    }
+  ],
+  "notes": "2mp ustedes, dual ojos, and the verbless ellos aguas clause match the tokens; Tsin, Meribat, and Qadésh are not locked in PROPER_NAMES.md.",
+  "discardedUncitedFindings": 0
+}

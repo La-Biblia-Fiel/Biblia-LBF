@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:2",
+  "chapter": 26,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Alcen la cabeza de toda congregación de hijos de Israel, desde hijo de veinte año y arriba, a casa de sus padres, todo saliente de ejército en Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04026002015",
+        "h04026002016"
+      ],
+      "issue": "«de» enlaza el participio absoluto יצא con צבא; la morfología no marca constructo ni hay preposición entre ambos, así que el nexo es alisado gramatical de un complemento no marcado.",
+      "spanishSpan": "saliente de ejército"
+    }
+  ],
+  "notes": "El resto sigue los tokens: imperativo 2pl «Alcen», «la cabeza», «año» singular, «y arriba», «sus padres» 3mp e «Israel».",
+  "discardedUncitedFindings": 0
+}

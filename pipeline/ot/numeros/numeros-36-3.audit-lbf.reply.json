@@ -1,0 +1,30 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04036003001"
+      ],
+      "issue": "Qal perfect 3cp is not marked sequential, but Spanish uses future serán and so collapses it into the same tense as the imperfect.",
+      "spanishSpan": "Y serán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04036003012"
+      ],
+      "issue": "Niphal sequential perfect 3ms is rendered with a feminine participle.",
+      "spanishSpan": "será añadida"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04036003021"
+      ],
+      "issue": "Niphal imperfect 3ms is rendered with a feminine participle.",
+      "spanishSpan": "nuestra heredad será quitada"
+    }
+  ],
+  "notes": "Remaining tokens, including 3fp תהיינה and 3mp להם, are present without added participants."
+}

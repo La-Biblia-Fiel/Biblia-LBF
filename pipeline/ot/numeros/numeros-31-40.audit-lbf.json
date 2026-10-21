@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:40",
+  "chapter": 31,
+  "verse": 40,
+  "candidateLabel": "lbf",
+  "spanish": "Y alma de adam, dieciséis mil, y su tributo a Jehová: treinta y dos almas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031040002"
+      ],
+      "issue": "Common noun אָדָם (H120, noun common, not proper) is left untranslated as adam; common nouns stay Spanish.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04031040010"
+      ],
+      "issue": "Singular נָפֶשׁ is pluralized to almas to agree with the numeral; the count stays thirty-two.",
+      "spanishSpan": "almas"
+    }
+  ],
+  "notes": "Conjunction, sixteen thousand, their tribute to Jehová, and thirty-two match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

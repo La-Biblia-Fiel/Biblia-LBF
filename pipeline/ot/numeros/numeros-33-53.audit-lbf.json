@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 33:53",
+  "chapter": 33,
+  "verse": 53,
+  "candidateLabel": "lbf",
+  "spanish": "y echen la tierra, y habiten en ella, porque a ustedes di la tierra para heredar a ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04033053001",
+        "h04033053002",
+        "h04033053003"
+      ],
+      "issue": "Hiphil sequential perfect 2mp of H3423 with the land as direct object licenses taking possession of or dispossessing the land. “echen” means throw or cast, so the land is expelled.",
+      "spanishSpan": "echen la tierra"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04033053011"
+      ],
+      "issue": "Qal infinitive of H3423 leaves possess, seize, and inherit open. “heredar” selects inheritance.",
+      "spanishSpan": "heredar"
+    }
+  ],
+  "notes": "2mp address as ustedes, dwelling in it, and “I gave you the land” match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:20",
+  "chapter": 22,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y vino Dios a Bilam de noche, y le dijo: Si para llamar a ti vinieron los hombres, levántate, anda con ellos; y solo la palabra que yo hable a ti, ella harás.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022020020"
+      ],
+      "issue": "Piel imperfect 1cs (I will speak) is smoothed as present subjunctive hable in the relative clause; the speaking force stays the same.",
+      "spanishSpan": "hable"
+    }
+  ],
+  "notes": "Remaining tokens match: Dios, Bilam, night, call-you, the men came, rise, go with them, only the word, object suffix, you shall do.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:12",
+  "chapter": 19,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Él se pecará en él en el día el tercero y en el día el séptimo; será puro. Y si no se pecará en el día el tercero y en el día el séptimo, no será puro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019012002"
+      ],
+      "issue": "HVti3ms of H2398 is hithpael (purify/cleanse oneself). «se pecará» keeps the qal sense of committing sin and reverses that stem force.",
+      "spanishSpan": "se pecará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019012011"
+      ],
+      "issue": "Same stem-force mismatch on the negated hithpael: לֹא + H2398 is not «no se pecará».",
+      "spanishSpan": "no se pecará"
+    }
+  ],
+  "notes": "Pronoun, בּוֹ, day+ordinal pairs, וְאִם, and qal H2891 «puro» match person, number, and participants.",
+  "discardedUncitedFindings": 0
+}

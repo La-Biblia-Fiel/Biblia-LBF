@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:31",
+  "chapter": 13,
+  "verse": 31,
+  "candidateLabel": "pulir",
+  "spanish": "Y cuando viere el sacerdote plaga de la tiña, y he aquí no su apariencia profunda desde la piel, y pelo negro no en él, y encerrará el sacerdote plaga de la tiña siete días.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013031008",
+        "h03013031015"
+      ],
+      "issue": "אֵין is existential nonexistence; bare «no» keeps the negation but leaves a negated noun phrase instead of «there is not».",
+      "spanishSpan": "no"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013031010",
+        "h03013031011"
+      ],
+      "issue": "עָמֹק is an absolute adjective and מִן may be from or than; «profunda desde» selects the source sense and closes the comparative.",
+      "spanishSpan": "profunda desde"
+    }
+  ],
+  "notes": "Person, number, definiteness, qal imperfect, and hiphil weqatal future otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

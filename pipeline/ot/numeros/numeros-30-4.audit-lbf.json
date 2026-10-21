@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 30:4",
+  "chapter": 30,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "y oiga su padre su voto y su atadura que ató sobre su alma, y calle a ella su padre, y se levantarán todos sus votos, y toda atadura que ató sobre su alma se levantará.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04030004001",
+        "h04030004010"
+      ],
+      "issue": "Sequential perfect 3ms (hear; hiphil be silent) is present subjunctive, while the same sequential-perfect class on the vows is future. oiga/calle can read as a wish or command.",
+      "spanishSpan": "oiga ... calle"
+    }
+  ],
+  "notes": "Number, person, suffixes, singular/plural vow and bond, and the repeated bind-upon-her-soul clause match the tokens.",
+  "discardedUncitedFindings": 0
+}

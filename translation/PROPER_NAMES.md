@@ -29,7 +29,7 @@ in a note when useful.
 | Place, river, mountain, region | Conventional Spanish form when one exists |
 | People / ethnonym | Conventional Spanish (*los egipcios*, *el cananeo*) |
 | Name whose usual “translation” is a modern/geographic ID | Keep the traditional name; note the ID if useful (*Javán* → Grecia) |
-| יהוה | **Jehová** (never SEÑOR, Yavé, YHWH in running text) |
+| יהוה | **Yahvé** (never SEÑOR, Jehová, Yavé, YHWH in running text) |
 | אלהים as “God” | **Dios** (never *Elohím*) |
 | אדני as fixed address | **Adonai** (as in Génesis) |
 | Common nouns, verbs, titles | Spanish |
@@ -79,7 +79,7 @@ Forms below are locked under the **conventional Spanish** rule.
 
 | Spanish | Notes |
 | --- | --- |
-| Jehová | יהוה |
+| Yahvé | יהוה |
 | Dios | אלהים as God |
 | Adonai | אדני address |
 
@@ -173,7 +173,7 @@ Forms below are locked under the **conventional Spanish** rule.
 | Parán | — |
 | Damasco | Dameseq |
 | Beerseba | Beer Sheva |
-| Yeor | Nilo (ID — keep name; note if useful) |
+| Nilo | Yeor |
 | filisteos | Pelishtim as scholar dump |
 | Raamses | Raamsés |
 | Pitom | — |

@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "Cursor Auto",
+  "book": "genesis",
+  "chapter": 1,
+  "verse": 4,
+  "spanish": "Y vio Dios la luz, que era buena, y separó Dios entre la luz y entre la oscuridad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "«separó entre la luz y entre la oscuridad» copia el doble «entre… y entre…»; en español corriente se dice «separó la luz de la oscuridad» o «separó entre la luz y la oscuridad».",
+      "spanishSpan": "entre la luz y entre la oscuridad"
+    }
+  ],
+  "notes": ""
+}

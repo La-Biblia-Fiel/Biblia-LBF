@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 24:1",
+  "chapter": 24,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y vio Bilam que bueno en ojos de Jehová bendecir a Israel, y no anduvo como vez en vez a encuentro de encantamientos, y puso hacia el desierto sus faces.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024001004"
+      ],
+      "issue": "טוֹב is qal perfect 3ms (it was good); bare adjective bueno drops that finite verb.",
+      "spanishSpan": "bueno"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04024001014",
+        "h04024001015"
+      ],
+      "issue": "לִקְרַאת takes נְחָשִׁים as its object; encuentro de adds a genitive link.",
+      "spanishSpan": "a encuentro de"
+    }
+  ],
+  "notes": "Bilam has no locked form in PROPER_NAMES.md; faces keeps the plural of פניו.",
+  "discardedUncitedFindings": 0
+}

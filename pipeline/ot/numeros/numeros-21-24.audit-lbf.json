@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:24",
+  "chapter": 21,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "E hirió a él Israel a boca de espada, y tomó posesión de su tierra desde Arnón hasta Yaboq, hasta hijos de Amón, porque fuerte era límite de hijos de Amón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021024015",
+        "h04021024016"
+      ],
+      "issue": "Unmarked supplied copula era turns the verbless clause (adjective + construct noun) into a past-tense sentence. A copula with no token must be marked *era*.",
+      "spanishSpan": "era"
+    }
+  ],
+  "notes": "Remaining tokens, including both hasta and the repeated hijos de Amón, match the packet.",
+  "discardedUncitedFindings": 0
+}

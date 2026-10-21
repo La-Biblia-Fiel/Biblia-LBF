@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:39",
+  "chapter": 15,
+  "verse": 39,
+  "candidateLabel": "lbf",
+  "spanish": "Y será a ustedes a fleco, y verán a él, y recordarán todos los mandamientos de Jehová, y los harán, y no rondarán detrás de corazón de ustedes y detrás de ojos de ustedes, que ustedes fornicantes detrás de ellos,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015039014"
+      ],
+      "issue": "H8446 qal imperfect 2mp is seek, spy, or explore; rondarán adds circling or patrolling.",
+      "spanishSpan": "rondarán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015039015",
+        "h04015039017",
+        "h04015039022"
+      ],
+      "issue": "אַחֲרֵי is after or following as well as behind; detrás de leans to a place behind.",
+      "spanishSpan": "detrás de"
+    }
+  ],
+  "notes": "Ustedes futures match the 2mp verbs; dual eyes as ojos and יהוה as Jehová stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:10",
+  "chapter": 13,
+  "verse": 10,
+  "candidateLabel": "pulir",
+  "spanish": "Y verá el sacerdote, y he aquí elevación blanca en la piel, y ella volvió pelo blanco, y reanimación de carne viva en la elevación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013010011"
+      ],
+      "issue": "reanimación turns the construct noun H4241 into a resuscitation event and adds an “again” the live/raw-flesh token does not license",
+      "spanishSpan": "reanimación"
+    }
+  ],
+  "notes": "The rest tracks the tokens: priest sees, white rising in the skin, it turned white hair, living flesh in the rising.",
+  "discardedUncitedFindings": 0
+}

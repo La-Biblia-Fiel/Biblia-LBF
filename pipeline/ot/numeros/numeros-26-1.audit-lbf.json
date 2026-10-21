@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:1",
+  "chapter": 26,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue después de la plaga, y dijo Jehová a Moisés y a Eleazar hijo de Aarón el sacerdote, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04026001001",
+        "h04026001002",
+        "h04026001003"
+      ],
+      "issue": "After the licensed clause (and it was after the plague), the Spanish adds a speech event and participants (Jehová, Moisés, Eleazar, Aarón, sacerdote, diciendo) that no packet token licenses.",
+      "spanishSpan": "y dijo Jehová a Moisés y a Eleazar hijo de Aarón el sacerdote, diciendo:"
+    }
+  ],
+  "notes": "Y fue después de la plaga matches ויהי אחרי המגפה; the rest of the sentence is outside the packet.",
+  "discardedUncitedFindings": 0
+}

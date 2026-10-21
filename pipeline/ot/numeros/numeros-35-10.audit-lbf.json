@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:10",
+  "chapter": 35,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Habla a hijos de Israel, y dirás a ellos: Cuando ustedes pasen el Yarden a tierra de Canaán,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04035010007",
+        "h04035010009"
+      ],
+      "issue": "כִּי is only a conjunction, so \"Cuando\" selects the temporal sense; the qal active participle is smoothed to the finite subjunctive \"pasen\".",
+      "spanishSpan": "Cuando ustedes pasen"
+    }
+  ],
+  "notes": "2ms imperative and weqatal stay distinct from 2mp אַתֶּם; את is the object el Yarden; directional Sd is a; Israel and Canaán are the locked names.",
+  "discardedUncitedFindings": 0
+}

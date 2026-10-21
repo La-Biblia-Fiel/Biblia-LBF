@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:14",
+  "chapter": 26,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Estas familias del shimoní: dos y veinte mil y doscientas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04026014003"
+      ],
+      "issue": "shimoní hebraiza el gentilicio; el nombre bloqueado es Simeón y el etnónimo convencional es simeonita",
+      "spanishSpan": "shimoní"
+    }
+  ],
+  "notes": "El número dos y veinte mil y doscientas conserva 22200.",
+  "discardedUncitedFindings": 0
+}

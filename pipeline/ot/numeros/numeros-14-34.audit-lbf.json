@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:34",
+  "chapter": 14,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "En número de los días que recorrieron la tierra, cuarenta día, día al año, día al año, alzarán sus iniquidades cuarenta año, y conocerán mi oposición.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014034004"
+      ],
+      "issue": "H8446 qal 2mp licenses seek out, spy out, or explore; «recorrieron» substitutes traversing the land and omits that search.",
+      "spanishSpan": "recorrieron"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04014034013",
+        "h04014034015"
+      ],
+      "issue": "H5375 with iniquities leaves lift and bear/carry open; «alzarán» narrows to raise/lift.",
+      "spanishSpan": "alzarán"
+    }
+  ],
+  "notes": "Ustedes forms cover the 2mp verbs and the 2mp suffix; singular día and año match the singular nouns.",
+  "discardedUncitedFindings": 0
+}

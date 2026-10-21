@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 2:3",
+  "chapter": 2,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Bastante a ustedes el rodear este monte; volteen faces para ustedes hacia el norte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05002003007"
+      ],
+      "issue": "פְּנוּ is one qal imperative 2mp of H6437 (turn). The Spanish adds the unmarked noun faces, which this token does not license.",
+      "spanishSpan": "faces"
+    }
+  ],
+  "notes": "The rest tracks רב לכם, infinitive סב, את ההר הזה, לכם, and directional צפנה with ustedes address.",
+  "discardedUncitedFindings": 0
+}

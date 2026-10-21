@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:24",
+  "chapter": 23,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "He aquí pueblo como leona se levanta, y como león se alza; no se echará hasta que coma presa, y sangre de heridos beba.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023024003"
+      ],
+      "issue": "כְּלָבִיא is morphologically a common noun of both genders (singular absolute); «leona» resolves that open gender as feminine.",
+      "spanishSpan": "leona"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023024013"
+      ],
+      "issue": "חֲלָלִים is the pierced/slain (masculine plural); «heridos» can mean only the wounded.",
+      "spanishSpan": "heridos"
+    }
+  ],
+  "notes": "Pueblo, león, the 3ms verbs, presa, sangre, and beber match number, person, and stem.",
+  "discardedUncitedFindings": 0
+}

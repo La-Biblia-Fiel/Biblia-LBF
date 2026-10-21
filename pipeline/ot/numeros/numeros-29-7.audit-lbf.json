@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:7",
+  "chapter": 29,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y en el diez al mes el séptimo este, convocación de santidad será a ustedes, y humillarán ustedes sus almas; toda obra no harán ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04029007001"
+      ],
+      "issue": "עָשׂוֹר is an absolute noun and ב has no article; Spanish adds a definite article on diez.",
+      "spanishSpan": "el diez"
+    }
+  ],
+  "notes": "al mes, el séptimo este, convocación de santidad, será a ustedes, piel 2mp humillarán ustedes sus almas, and toda obra no harán ustedes match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

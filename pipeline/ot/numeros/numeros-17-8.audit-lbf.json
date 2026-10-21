@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 17:8",
+  "chapter": 17,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue desde el mañana, y entró Moisés a tienda del testimonio, y he aquí floreció vara de Aarón a casa de Leví, y sacó flor, y hizo brotar botón, y maduró almendras.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04017008017"
+      ],
+      "issue": "«botón» narrows ציץ to a closed bud; the lemma stays open between blossom and flower.",
+      "spanishSpan": "botón"
+    }
+  ],
+  "notes": "Remaining Spanish matches the tokens in participants, number, stem, and constructs.",
+  "discardedUncitedFindings": 0
+}

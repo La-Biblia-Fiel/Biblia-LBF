@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:9",
+  "chapter": 26,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y hijos de Eliav: Nemuel y Datán y Abiram; él Datán y Abiram, la congregación que contendieron contra Moisés y contra Aarón en congregación de Córaj, en su contender ellos contra Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04026009018"
+      ],
+      "issue": "El sufijo 3mp del infinitivo hifil es un solo sujeto; «su» y «ellos» lo marcan dos veces.",
+      "spanishSpan": "su contender ellos"
+    }
+  ],
+  "notes": "El resto sigue los tokens: hijos de Eliav, los tres nombres, él 3ms, la congregación, el relativo, hifil 3cp contra Moisés y contra Aarón, en congregación de Córaj, y contra Jehová.",
+  "discardedUncitedFindings": 0
+}

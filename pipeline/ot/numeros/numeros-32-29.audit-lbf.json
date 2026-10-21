@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:29",
+  "chapter": 32,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Moisés a ellos: Si pasaren hijos de Gad e hijos de Rubén con ustedes el Jordán, todo extracto a la guerra delante de Jehová, y sea sojuzgada la tierra delante de ustedes, y darán a ellos tierra del Galaad a posesión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032029013",
+        "h04032029014",
+        "h04032029015"
+      ],
+      "issue": "כָּל + qal passive participle ms חָלוּץ + לַמִּלְחָמָה licenses every one drawn out/equipped for the war. «extracto» is a different noun (an extract/excerpt) and drops the passive participle.",
+      "spanishSpan": "todo extracto a la guerra"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032029005"
+      ],
+      "issue": "3mp qal imperfect is kept, but «pasaren» is obsolete future subjunctive rather than current Latin American (pasan/pasaran).",
+      "spanishSpan": "pasaren"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032029018"
+      ],
+      "issue": "Niphal sequential perfect 3fs is a real result in the condition; «sea» is subjunctive and can be read as a jussive. Passive and feminine singular are kept.",
+      "spanishSpan": "sea sojuzgada"
+    }
+  ],
+  "notes": "2mp וּנְתַתֶּם as «darán» is ustedes future, not a third-party shift.",
+  "discardedUncitedFindings": 0
+}

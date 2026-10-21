@@ -1,0 +1,22 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 13:20",
+  "chapter": 13,
+  "verse": 20,
+  "sourceDraft": "Y verá el sacerdote, y he aquí su apariencia baja desde la piel, y su pelo se volvió blanco, y lo impurecerá el sacerdote; plaga de tsaráat ella; en la úlcera brotó.",
+  "spanish": "Y verá el sacerdote, y he aquí su apariencia más baja que la piel, y su pelo tornó blanco, y lo impurecerá el sacerdote; plaga de lepra ella; brotó en la úlcera.",
+  "units": [],
+  "grammarChanges": [
+    "tsaráat → lepra: צָרַעַת es sustantivo común, no nombre propio bloqueado, así que se tradujo el lema en vez de dejarlo transliterado.",
+    "baja desde → más baja que: שָׁפָל es adjetivo y מִן aquí marca comparación (\"más baja que la piel\"), no movimiento de alejamiento de la piel.",
+    "se volvió → tornó: הָפַךְ es qal perfecto activo (\"tornó\"); \"se volvió\" añadía un reflexivo medio que el qal no lleva, con el mismo sujeto (el pelo).",
+    "en la úlcera brotó → brotó en la úlcera: se invirtió el orden porque en español \"úlcera\" es femenino y, pegado al verbo, se leía como su sujeto; en hebreo שְׁחִין es masculino y no puede ser sujeto de פָּרָחָה (3fs), cuyo sujeto sigue siendo ella (la plaga)."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Se usó la comparativa 'más baja que la piel' para שָׁפָל מִן y se invirtió el orden a 'brotó en la úlcera' para que la úlcera no se lea como sujeto del verbo femenino; el sujeto sigue siendo la plaga (ella).",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

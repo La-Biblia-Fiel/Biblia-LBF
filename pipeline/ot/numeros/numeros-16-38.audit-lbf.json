@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:38",
+  "chapter": 16,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "Los braseros de los pecadores estos en sus almas, y hagan a ellos láminas batidas, revestimiento al altar, porque los acercaron delante de Jehová, y se santificaron, y serán a señal a hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04016038016"
+      ],
+      "issue": "וַיִּקְדָּשׁוּ is qal sequential imperfect 3mp. \"se santificaron\" adds an unmarked reflexive pronoun and turns the qal into self-sanctification.",
+      "spanishSpan": "se santificaron"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016038008",
+        "h04016038009"
+      ],
+      "issue": "רִקֻּעֵי (noun masculine plural construct) and פַחִים (noun masculine plural absolute) are smoothed into one noun plus an adjective.",
+      "spanishSpan": "láminas batidas"
+    }
+  ],
+  "notes": "2mp imperative וְעָשׂוּ as ustedes \"hagan\" is licensed; יהוה as Jehová is licensed.",
+  "discardedUncitedFindings": 0
+}

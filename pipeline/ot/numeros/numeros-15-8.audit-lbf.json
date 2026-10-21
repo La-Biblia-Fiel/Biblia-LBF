@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:8",
+  "chapter": 15,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y cuando hagas hijo de ganado holocausto o sacrificio, para voto extraordinario o pazes a Jehová,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015008008",
+        "h04015008009"
+      ],
+      "issue": "Piel infinitive construct (לְפַלֵּא) is rendered as the adjective extraordinario, so the verbal act on the vow becomes a quality of the noun.",
+      "spanishSpan": "voto extraordinario"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015008011"
+      ],
+      "issue": "Masculine plural offering noun שְׁלָמִים is rendered as the non-word pazes, which only echoes paz and does not convey the offering.",
+      "spanishSpan": "pazes"
+    }
+  ],
+  "notes": "Y cuando, hagas (2ms), hijo de ganado, holocausto o sacrificio, and a Jehová match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

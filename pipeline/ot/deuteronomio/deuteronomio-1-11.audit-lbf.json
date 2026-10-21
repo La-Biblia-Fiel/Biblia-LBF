@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:11",
+  "chapter": 1,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Jehová Dios de padres de ustedes añada sobre ustedes como ustedes mil veces, y bendiga a ustedes como que habló a ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h05001011009"
+      ],
+      "issue": "Piel imperfect is rendered with the same optative subjunctive as the preceding jussive, rather than a plain imperfect.",
+      "spanishSpan": "bendiga"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h05001011011"
+      ],
+      "issue": "«como que» can read as approximation or «as if»; the preposition plus relative licenses a real comparison, as / according as.",
+      "spanishSpan": "como que"
+    }
+  ],
+  "notes": "Jehová, Dios, padres, 2mp ustedes, hiphil jussive, object marker, mil veces, and piel perfect match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:19",
+  "chapter": 23,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "No es varón El, y mienta, ni hijo de adam, y se arrepienta. ¿Él dijo y no hará, y habló y no la cumplirá?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023019001",
+        "h04023019002",
+        "h04023019003"
+      ],
+      "issue": "Unmarked supplied copula. The clause is verbless (negative + noun + noun); a copula that only makes it a sentence must be asterisk-marked.",
+      "spanishSpan": "es"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023019003"
+      ],
+      "issue": "Common noun אֵל (H410) is left untranslated as El, with mid-sentence title capitalization. A non-name deity noun is Spanish Dios.",
+      "spanishSpan": "El"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023019006"
+      ],
+      "issue": "Common noun אָדָם (H120) is dumped untranslated as adam. Common nouns stay Spanish.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023019008",
+        "h04023019009",
+        "h04023019010",
+        "h04023019011",
+        "h04023019012",
+        "h04023019013",
+        "h04023019014"
+      ],
+      "issue": "Question marks add interrogative force. The tokens have no interrogative particle, only the articulated pronoun, perfects, negatives, and imperfects.",
+      "spanishSpan": "¿Él dijo y no hará, y habló y no la cumplirá?"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023019004",
+        "h04023019007"
+      ],
+      "issue": "Piel and hithpael imperfects are subjunctive, selecting a modal sense the imperfect morphology leaves open.",
+      "spanishSpan": "mienta, se arrepienta"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023019001",
+        "h04023019005"
+      ],
+      "issue": "Conjunction ו is rendered ni, folding the governing negative into the second clause. Meaning holds as smoothing.",
+      "spanishSpan": "ni"
+    }
+  ],
+  "notes": "The 3fs suffix on יְקִימֶנָּה is kept as la; hiphil cumplirá stays inside H6965.",
+  "discardedUncitedFindings": 0
+}

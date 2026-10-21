@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 12:5",
+  "chapter": 12,
+  "verse": 5,
+  "candidateLabel": "pulir",
+  "spanish": "Y si diere a luz hembra, y se impurecerá dos semanas como su menstruación, y sesenta días y seis días se sentará sobre sangres de purificación.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03012005008"
+      ],
+      "issue": "יוֹם is masculine singular; sesenta días makes it plural. Spanish number agreement only; the count remains sixty.",
+      "spanishSpan": "sesenta días"
+    }
+  ],
+  "notes": "Qal 3fs, dual weeks, her niddah, both day-units, and plural bloods are kept.",
+  "discardedUncitedFindings": 0
+}

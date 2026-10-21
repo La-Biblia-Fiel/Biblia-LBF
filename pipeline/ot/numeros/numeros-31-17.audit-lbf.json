@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:17",
+  "chapter": 31,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y ahora, maten todo macho en el niño, y toda mujer conociente varón a yacer de macho, maten.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031017005"
+      ],
+      "issue": "בַּטָּף is the definite collective little-ones; 'el niño' is one child, so 'todo macho en el niño' moves the males from among that group into a single child.",
+      "spanishSpan": "en el niño"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04031017008"
+      ],
+      "issue": "Feminine singular qal participle 'knowing' is smoothed into the nonstandard 'conociente'; the woman remains the one who knows.",
+      "spanishSpan": "conociente"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04031017010",
+        "h04031017011"
+      ],
+      "issue": "Construct noun לְמִשְׁכַּב (bed/lying) plus זָכָר is smoothed to the infinitive 'a yacer de macho'; the lying-of-a-male relation remains.",
+      "spanishSpan": "a yacer de macho"
+    }
+  ],
+  "notes": "Imperatives stay 2pl ustedes 'maten', and the repeated kill and both זָכָר are kept.",
+  "discardedUncitedFindings": 0
+}

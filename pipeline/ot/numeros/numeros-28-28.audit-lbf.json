@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:28",
+  "chapter": 28,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y su minjá sólet mezclada en el aceite: tres décimos al toro el uno, dos décimos al carnero el uno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028028001"
+      ],
+      "issue": "Common noun left as the untranslated lemma minjá; the token licenses a Spanish noun, not a Hebrew loan.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028028002"
+      ],
+      "issue": "Common noun left as the untranslated lemma sólet; the token licenses a Spanish noun, not a Hebrew loan.",
+      "spanishSpan": "sólet"
+    }
+  ],
+  "notes": "Counts, tenths, passive mix, oil, bull, ram, and each «el uno» match the tokens; «su» fits a singular noun with a 3mp possessor.",
+  "discardedUncitedFindings": 0
+}

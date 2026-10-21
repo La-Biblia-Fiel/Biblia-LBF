@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 34:9",
+  "chapter": 34,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y saldrá el límite a Zifroná, y serán sus salidas a Hatsar Einán; este será a ustedes límite de norte.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034009004",
+        "h04034009005",
+        "h04034009006",
+        "h04034009007"
+      ],
+      "issue": "Adds the preposition a: the outgoings are the bare predicate Hatsar Einán (they shall be that place). No preposition or directional suffix licenses motion toward it.",
+      "spanishSpan": "a Hatsar Einán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04034009003"
+      ],
+      "issue": "Directional suffix Sd is also spelled into the place name Zifroná, while a already marks that suffix.",
+      "spanishSpan": "a Zifroná"
+    }
+  ],
+  "notes": "The first a is licensed by the directional he on Ziphron; the second a is not.",
+  "discardedUncitedFindings": 0
+}

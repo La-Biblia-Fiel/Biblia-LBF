@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:3",
+  "chapter": 23,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Bilam a Balaq: Estaciónate sobre tu holocausto, y andaré; quizá se encuentre Jehová a mi encuentro, y la palabra de lo que me haga ver, y declararé a ti. Y anduvo a lugar pelado.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023003007"
+      ],
+      "issue": "Qal cohortative 1cs (volitive let-me-go) is smoothed to a plain future; person, number, and qal going stay.",
+      "spanishSpan": "andaré"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023003017",
+        "h04023003018"
+      ],
+      "issue": "Bare absolute noun of place has no preposition; Spanish adds destination a. lugar pelado phrases that one common noun as a bare place and does not mark height.",
+      "spanishSpan": "a lugar pelado"
+    }
+  ],
+  "notes": "לך is tagged 2fs; a ti stays 2sg and does not shift the addressee.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:10",
+  "chapter": 16,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y acercó a ti, y a todos tus hermanos hijos de Leví contigo; y buscan también sacerdocio.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016010009"
+      ],
+      "issue": "Piel sequential perfect 2mp is rendered as present indicative, smoothing the sequential perfect aspect.",
+      "spanishSpan": "buscan"
+    }
+  ],
+  "notes": "Contigo matches the 2sg preposition; Spanish does not mark the packet’s 2fs suffix.",
+  "discardedUncitedFindings": 0
+}

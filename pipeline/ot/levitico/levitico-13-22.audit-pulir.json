@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:22",
+  "chapter": 13,
+  "verse": 22,
+  "candidateLabel": "pulir",
+  "spanish": "Y si extendiendo se extendiere en la piel, y lo impurecerá el sacerdote; ella es *plaga*.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013022009"
+      ],
+      "issue": "Pronoun is 3ms; Spanish ella is feminine.",
+      "spanishSpan": "ella"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013022008",
+        "h03013022009"
+      ],
+      "issue": "Unmarked supplied copula in a verbless clause.",
+      "spanishSpan": "es"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013022008"
+      ],
+      "issue": "plaga is asterisked as supplied, but the noun token licenses it.",
+      "spanishSpan": "*plaga*"
+    }
+  ],
+  "notes": "Y si, the infinitive-absolute repetition, en la piel, and lo impurecerá el sacerdote match the tokens.",
+  "discardedUncitedFindings": 0
+}

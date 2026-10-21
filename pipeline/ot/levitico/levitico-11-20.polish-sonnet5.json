@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 11:20",
+  "chapter": 11,
+  "verse": 20,
+  "sourceDraft": "Todo reptil del ave el andante sobre cuatro, abominación él a ustedes.",
+  "spanish": "Todo lo que pulula de lo que vuela el andante sobre cuatro, abominación él a ustedes.",
+  "units": [],
+  "grammarChanges": [
+    "Replaced 'reptil' with 'lo que pulula' for H8318 שֶׁרֶץ (sourceTokenId h03011020002): matches the packet's AHRC concreteSense SWARMER ('the creature(s) of a large swarm'); 'reptil' added the zoological class Reptilia that the construct noun does not carry, per the auditor's fail finding.",
+    "Replaced 'ave' with 'lo que vuela' for H5775 הָעוֹף (sourceTokenId h03011020003): matches the packet's AHRC concreteSense FLYER ('a flying creature such as a bird or insect'); 'ave' narrowed the generic flying-creature noun to the bird class, per the auditor's warn finding."
+  ],
+  "meaningChanges": [],
+  "readerNote": "'Lo que vuela' renders H5775 here per the packet's FLYER sense (bird or insect, not bird only); other verses in this chapter gloss the same lemma as 'ave' where the auditor did not flag narrowing.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

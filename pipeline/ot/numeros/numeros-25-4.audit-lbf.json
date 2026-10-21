@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 25:4",
+  "chapter": 25,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Toma a todas las cabezas del pueblo, y cuélgalos a Jehová enfrente del sol, y vuelva ardor de nariz de Jehová desde Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04025004017"
+      ],
+      "issue": "Lemma H639 licenses the noun in the construct chain after חרון, but morph HTa marks an affirmation particle; 'nariz' adopts the noun and closes the particle reading.",
+      "spanishSpan": "nariz"
+    }
+  ],
+  "notes": "Imperatives, 3mp object, jussive, construct chain, and מן stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

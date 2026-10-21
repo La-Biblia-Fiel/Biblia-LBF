@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:5",
+  "chapter": 22,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y envió mensajeros a Bilam hijo de Beor, a Petor, que sobre el río, tierra de hijos de su pueblo, para llamar a él, diciendo: He aquí un pueblo salió desde Egipto; he aquí cubrió el ojo de la tierra, y él habitante enfrente de mí.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022005027"
+      ],
+      "issue": "«habitante» es sustantivo; יֹשֵׁב es participio activo qal masculino singular, predicado de הוּא, y deja abierta la lectura verbal sentarse o habitar.",
+      "spanishSpan": "él habitante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022005028"
+      ],
+      "issue": "מִמֻּלִי son dos preposiciones (מִן + מוּל) más sufijo 1cs. «enfrente de mí» da la posición frente al hablante; el מִן no se lee como origen distinto.",
+      "spanishSpan": "enfrente de mí"
+    }
+  ],
+  "notes": "El resto sigue persona, número, artículo, constructo, direccional de Petor, los dos הִנֵּה, עַיִן literal y Egipto.",
+  "discardedUncitedFindings": 0
+}

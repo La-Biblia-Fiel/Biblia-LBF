@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 33:55",
+  "chapter": 33,
+  "verse": 55,
+  "candidateLabel": "lbf",
+  "spanish": "Y si no echarán a los habitantes de la tierra de delante de ustedes, y será que los que dejaren de ellos serán a espinas en ojos de ustedes y a aguijones en sus costados, y angustiarán a ustedes sobre la tierra que ustedes habitantes en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04033055009",
+        "h04033055010",
+        "h04033055011"
+      ],
+      "issue": "אֲשֶׁר is the object of hiphil 2mp תּוֹתִירוּ “you leave remaining,” with מֵהֶם “from them”; “los que dejaren” makes those people the subject of dejar and drops the addressees’ hiphil act.",
+      "spanishSpan": "los que dejaren de ellos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04033055008",
+        "h04033055012"
+      ],
+      "issue": "Unmarked “serán” repeats וְהָיָה, already rendered “será”; לְשִׂכִּים is that verb’s predicate, so the second copula does not add a concept.",
+      "spanishSpan": "serán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04033055021",
+        "h04033055022",
+        "h04033055023"
+      ],
+      "issue": "אַתֶּם יֹשְׁבִים בָּהּ predicates “you dwelling in it”; bare “ustedes habitantes” names a noun and does not predicate the active participle.",
+      "spanishSpan": "ustedes habitantes en ella"
+    }
+  ],
+  "notes": "2mp echarán with ustedes, dual ojos, and sus as ustedes address stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

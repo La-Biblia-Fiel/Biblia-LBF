@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 36:4",
+  "chapter": 36,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y si fuere el yovel a hijos de Israel, y será añadida su heredad sobre heredad de la tribu que serán a ellos, y desde heredad de tribu de nuestros padres será quitada su heredad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04036004003"
+      ],
+      "issue": "Common noun הַיֹּבֵל (H3104, definite masculine singular) is left as the untranslated lemma yovel; a common noun must be Spanish.",
+      "spanishSpan": "yovel"
+    }
+  ],
+  "notes": "The rest of the clause tracks the waw sequence, 3fs/3fp/3mp morphology, construct chain, and both נחלה suffixes.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 34:11",
+  "chapter": 34,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y descenderá el límite desde Shefam a ha-Rivlá desde oriente a Ayin; y descenderá el límite, y dará sobre hombro de mar de Kinéret hacia oriente.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034011004"
+      ],
+      "issue": "הָרִבְלָה is article plus proper noun, with no preposition and no directional suffix. Unmarked “a” adds a destination the token does not mark.",
+      "spanishSpan": "a"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034011004"
+      ],
+      "issue": "The definite article is left as Hebrew ha- instead of a Spanish article.",
+      "spanishSpan": "ha-Rivlá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034011009"
+      ],
+      "issue": "Lemma 4229 b, qal sequential perfect 3ms, licenses strike or reach, not give.",
+      "spanishSpan": "dará"
+    }
+  ],
+  "notes": "Repeated descenderá el límite, desde Shefam, desde oriente a Ayin, sobre hombro de mar de Kinéret, and hacia oriente match their tokens.",
+  "discardedUncitedFindings": 0
+}

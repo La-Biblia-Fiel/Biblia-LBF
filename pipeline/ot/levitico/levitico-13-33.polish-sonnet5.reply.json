@@ -1,0 +1,42 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "book": "levitico",
+  "chapter": 13,
+  "verse": 33,
+  "spanish": "Y se afeitará, y el neteq no lo afeitará, y encerrará el sacerdote el neteq siete días una segunda vez.",
+  "units": [
+    {
+      "es": "Y se afeitará",
+      "sourceTokenIds": [
+        "h03013033001"
+      ]
+    },
+    {
+      "es": "y el neteq no lo afeitará",
+      "sourceTokenIds": [
+        "h03013033002",
+        "h03013033003",
+        "h03013033004",
+        "h03013033005"
+      ]
+    },
+    {
+      "es": "y encerrará el sacerdote el neteq siete días una segunda vez",
+      "sourceTokenIds": [
+        "h03013033006",
+        "h03013033007",
+        "h03013033008",
+        "h03013033009",
+        "h03013033010",
+        "h03013033011",
+        "h03013033012"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Added the direct object pronoun lo (el neteq no lo afeitará) so the fronted el neteq reads as the object of afeitará, not its subject, matching the piel imperfect with its וְאֶת-marked object while keeping the same implicit 3ms subject as se afeitará.",
+    "Expanded segunda to una segunda vez so the feminine singular ordinal שֵׁנִית reads clearly as marking a second occasion of the enclosure, since it cannot agree with the masculine plural días."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Neteq is left untranslated here as elsewhere in this chapter because the packet supplies no Spanish gloss for הַנֶּתֶק, and segunda was expanded to una segunda vez to mark שֵׁנִית as a second occasion rather than an agreement with días."
+}

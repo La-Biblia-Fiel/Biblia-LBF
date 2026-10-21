@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:37",
+  "chapter": 29,
+  "verse": 37,
+  "candidateLabel": "lbf",
+  "spanish": "Su minjá y sus libaciones al toro, al carnero y a los corderos, en su número, conforme al juicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029037001"
+      ],
+      "issue": "H4503 is a common noun (feminine singular construct); the Spanish leaves it as the untranslated lemma minjá.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "The other tokens match in number, prepositions, and participants.",
+  "discardedUncitedFindings": 0
+}

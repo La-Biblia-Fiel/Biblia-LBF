@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:28",
+  "chapter": 31,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y alzarás tributo a Jehová desde varones de la guerra los salientes al ejército: una alma desde quinientas, desde el adam y desde el ganado y desde los asnos y desde el rebaño.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031028014"
+      ],
+      "issue": "הָאָדָם is a definite common noun (H120), left as the untranslated lemma adam; common nouns stay Spanish.",
+      "spanishSpan": "el adam"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens: hiphil 2ms raise, tribute, Jehová, men of the war who go out to the army, one soul from five hundred, cattle, donkeys, flock.",
+  "discardedUncitedFindings": 0
+}

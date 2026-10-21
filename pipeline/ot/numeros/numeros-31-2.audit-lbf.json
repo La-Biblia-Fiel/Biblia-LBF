@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:2",
+  "chapter": 31,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Venga venganza de hijos de Israel desde los midyanitas; después serás recogido a tus pueblos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031002001"
+      ],
+      "issue": "Qal imperative 2ms of the vengeance verb is rendered as 3rd-person “Venga” (venir): the addressee is no longer commanded to avenge, and the verb means “come”.",
+      "spanishSpan": "Venga"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04031002005",
+        "h04031002006"
+      ],
+      "issue": "With “Venga”, “desde los midyanitas” reads as the Midianites being the origin that sends the vengeance. מֵאֵת only licenses “from” plus the definite gentilic.",
+      "spanishSpan": "desde los midyanitas"
+    }
+  ],
+  "notes": "נקמת בני ישראל, אחר, niphal 2ms אסף, and אל־עמיך match venganza de hijos de Israel, después, serás recogido, and a tus pueblos.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:20",
+  "chapter": 19,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y varón que se impurezca y no se pecará, y será cortada el alma aquella desde medio de la asamblea, porque el mikdash de Jehová impureció; aguas de nidá no fueron echadas sobre él; impuro él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019020005"
+      ],
+      "issue": "Hithpael imperfect 3ms of H2398 licenses the man purifying himself; «se pecará» states reflexive sinning and changes stem force.",
+      "spanishSpan": "se pecará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019020012",
+        "h04019020013",
+        "h04019020015"
+      ],
+      "issue": "Piel perfect 3ms with את has the man defiling the sanctuary as object; «el mikdash de Jehová impureció» makes the sanctuary the subject and drops that object role.",
+      "spanishSpan": "el mikdash de Jehová impureció"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019020013"
+      ],
+      "issue": "מקדש (H4720) is a common noun left as the untranslated dump mikdash.",
+      "spanishSpan": "mikdash"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019020016",
+        "h04019020019"
+      ],
+      "issue": "זרק is qal perfect 3ms active with מי as the fronted object; «fueron echadas» is feminine plural passive and makes the waters the subject.",
+      "spanishSpan": "no fueron echadas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019020017"
+      ],
+      "issue": "נדה (H5079) is a common noun left as the untranslated dump nidá.",
+      "spanishSpan": "nidá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04019020003"
+      ],
+      "issue": "Qal imperfect 3ms is indicative; subjunctive «se impurezca» is mood smoothing in the relative clause.",
+      "spanishSpan": "se impurezca"
+    }
+  ],
+  "notes": "Jehová, the niphal cut-off of הנפש ההוא, מתוך הקהל, עליו, and verbless טמא הוא match the tokens.",
+  "discardedUncitedFindings": 0
+}

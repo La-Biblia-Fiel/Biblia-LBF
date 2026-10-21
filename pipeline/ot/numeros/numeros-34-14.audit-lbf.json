@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 34:14",
+  "chapter": 34,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Porque tomaron tribu de hijos del reuvenita a casa de sus padres, y tribu de hijos del gadita a casa de sus padres, y mitad de tribu de Manasés, tomaron su heredad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034014005"
+      ],
+      "issue": "Hebraizes the locked name Rubén: the gentilic is rubenita, not reuvenita.",
+      "spanishSpan": "reuvenita"
+    }
+  ],
+  "notes": "Gadita and Manasés match the locked names; both verbs, singulars, and suffixes stay licensed.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:31",
+  "chapter": 22,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y descubrió Jehová los ojos de Bilam, y vio a mensajero de Jehová parado en el camino, y su espada desenvainada en su mano, e inclinó la cabeza y se postró a sus narices.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04022031015"
+      ],
+      "issue": "קדד is a bare intransitive verb; “la cabeza” is an unmarked supplied noun the token does not license.",
+      "spanishSpan": "la cabeza"
+    }
+  ],
+  "notes": "Bilam has no lock in PROPER_NAMES.md; narices keeps the dual of אף.",
+  "discardedUncitedFindings": 0
+}

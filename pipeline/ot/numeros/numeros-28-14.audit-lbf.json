@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:14",
+  "chapter": 28,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y sus libaciones: mitad del hin será al toro, y tercio del hin al carnero, y cuarto del hin al cordero, vino. Esta holocausto de mes en su mes, a meses del año.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04028014013",
+        "h04028014014"
+      ],
+      "issue": "Feminine singular זֹאת agrees with feminine construct עֹלַת; Spanish pairs feminine Esta with masculine holocausto. The referent is unchanged.",
+      "spanishSpan": "Esta holocausto"
+    }
+  ],
+  "notes": "Libations, the three hin measures, wine, and month-in-its-month for the months of the year match the tokens.",
+  "discardedUncitedFindings": 0
+}

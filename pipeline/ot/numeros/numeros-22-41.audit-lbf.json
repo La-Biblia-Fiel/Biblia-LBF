@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:41",
+  "chapter": 22,
+  "verse": 41,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue en la mañana, y tomó Balaq a Bilam, y lo subió a Bamot Baal, y vio desde allí extremo del pueblo.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022041012",
+        "h04022041013"
+      ],
+      "issue": "Definite construct קְצֵה הָעָם (the end of the people) is rendered without the Spanish article on extremo.",
+      "spanishSpan": "extremo del pueblo"
+    }
+  ],
+  "notes": "Wayyiqtol chain, hiphil plus 3ms suffix, and the proper names match the tokens.",
+  "discardedUncitedFindings": 0
+}

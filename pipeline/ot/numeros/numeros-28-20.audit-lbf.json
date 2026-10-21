@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:20",
+  "chapter": 28,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y su minjá sólet mezclada en el aceite: tres décimos al toro, y dos décimos al carnero harán ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028020001"
+      ],
+      "issue": "Common noun left as an untranslated lemma (minjá) instead of Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028020002"
+      ],
+      "issue": "Common noun left as an untranslated lemma (sólet) instead of Spanish.",
+      "spanishSpan": "sólet"
+    }
+  ],
+  "notes": "Conjunction, 3mp suffix, passive participle, oil, tenths, bull, ram, and 2mp harán ustedes match the tokens.",
+  "discardedUncitedFindings": 0
+}

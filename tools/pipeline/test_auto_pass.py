@@ -1,4 +1,4 @@
-"""auto_pass calls Cursor Auto, then Sonnet once when a verse is questionable."""
+"""auto_pass calls Cursor Auto, then Terra once when a verse is questionable."""
 
 from __future__ import annotations
 
@@ -41,6 +41,7 @@ class AutoPassTests(unittest.TestCase):
             ensure_packet=lambda *_a, **_k: self.packet,
             audit_path=lambda _slug, _ch, _vs, label: self.tmp / f"audit-{label}.json",
             polish_path=lambda *_a, **_k: self.tmp / "polish-sonnet5.json",
+            spanish_check_path=lambda *_a, **_k: self.tmp / "spanish-check.json",
             lint_path=lambda *_a, **_k: self.tmp / "lint.json",
             draft_path=lambda *_a, **_k: self.tmp / "draft-auto.json",
             translation_path=lambda _slug: self.book,
@@ -48,6 +49,18 @@ class AutoPassTests(unittest.TestCase):
             apply_names=lambda text: text,
         )
         self.patches.start()
+        (self.tmp / "spanish-check.json").write_text(
+            json.dumps(
+                {
+                    "policy": auto_pass.SPANISH_CHECK_POLICY,
+                    "spanish": OLD,
+                    "verdict": "pass",
+                    "findings": [],
+                    "notes": "",
+                }
+            ),
+            encoding="utf-8",
+        )
 
     def tearDown(self) -> None:
         self.patches.stop()
@@ -158,6 +171,44 @@ class AutoPassTests(unittest.TestCase):
         self.assertEqual(self.calls[0], auto_pass.sonnet_model())
         self.assertIn(NEW, self.book.read_text(encoding="utf-8"))
 
+    def test_faithful_but_clumsy_spanish_is_sent_to_terra(self) -> None:
+        self.write_audit("lbf", OLD, "pass", [])
+        (self.tmp / "spanish-check.json").write_text(
+            json.dumps(
+                {
+                    "policy": auto_pass.SPANISH_CHECK_POLICY,
+                    "spanish": OLD,
+                    "verdict": "fail",
+                    "findings": [
+                        {
+                            "severity": "fail",
+                            "issue": "unnatural Spanish word order",
+                            "spanishSpan": OLD,
+                        }
+                    ],
+                    "notes": "",
+                }
+            ),
+            encoding="utf-8",
+        )
+        result = auto_pass.run_verse("exodo", 1, 9, caller=self.caller)
+        self.assertEqual(result["status"], "repaired")
+        self.assertEqual(
+            self.calls,
+            [auto_pass.polish_model(), auto_pass.auto_model(), auto_pass.auto_model()],
+        )
+        self.assertIn(NEW, self.book.read_text(encoding="utf-8"))
+
+    def test_exodus_1_21_clumsy_calques_fail_locally(self) -> None:
+        findings = auto_pass.local_spanish_fails(
+            "Y fue que temieron las que hacen dar a luz a Dios, y les hizo a ellos casas."
+        )
+        self.assertEqual(len(findings), 2)
+        self.assertEqual(
+            {item["spanishSpan"] for item in findings},
+            {"Y fue que", "les hizo a ellos"},
+        )
+
     def test_lint_failure_after_sonnet_parks(self) -> None:
         self.write_audit("lbf", OLD, "fail", [self.fail_finding()])
 
@@ -191,7 +242,10 @@ class AutoPassTests(unittest.TestCase):
 
         result = auto_pass.run_verse("exodo", 1, 9, caller=caller)
         self.assertEqual(result["status"], "drafted")
-        self.assertEqual(self.calls, [auto_pass.auto_model(), auto_pass.auto_model()])
+        self.assertEqual(
+            self.calls,
+            [auto_pass.auto_model(), auto_pass.auto_model(), auto_pass.auto_model()],
+        )
         self.assertIn(NEW, self.book.read_text(encoding="utf-8"))
         self.assertFalse((self.tmp / "polish-sonnet5.json").exists())
 

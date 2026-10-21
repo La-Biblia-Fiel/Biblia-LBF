@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:39",
+  "chapter": 32,
+  "verse": 39,
+  "candidateLabel": "lbf",
+  "spanish": "Y anduvieron hijos de Majir hijo de Manasés a Giladah, y la tomaron, y desalojó al amorreo que en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032039006"
+      ],
+      "issue": "Proper name plus directional suffix. Locked form is Galaad; Giladah hebraizes it (Gilad) and keeps the suffix inside the name. The suffix is already rendered by a.",
+      "spanishSpan": "a Giladah"
+    }
+  ],
+  "notes": "Other clauses match number, person, hiphil singular, gentilic singular, and the verbless relative.",
+  "discardedUncitedFindings": 0
+}

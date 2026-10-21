@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:52",
+  "chapter": 31,
+  "verse": 52,
+  "candidateLabel": "lbf",
+  "spanish": "Y fue todo oro de la ofrenda alzada que alzaron a Jehová: dieciséis mil setecientos y cincuenta sheqel, desde jefes de los miles y desde jefes de las cientas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031052014"
+      ],
+      "issue": "sheqel leaves the common noun H8255 untranslated; a common noun must be Spanish",
+      "spanishSpan": "sheqel"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04031052020"
+      ],
+      "issue": "cientas is an unusual Spanish form of the cardinal “hundreds”; the plural count still matches",
+      "spanishSpan": "las cientas"
+    }
+  ],
+  "notes": "The 16,750 count, Jehová, and both chief-phrases match the tokens.",
+  "discardedUncitedFindings": 0
+}

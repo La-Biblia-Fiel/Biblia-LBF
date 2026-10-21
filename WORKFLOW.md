@@ -24,23 +24,24 @@ No trabaje de memoria, de otra versión, ni desde la teología.
 | 2 | Cursor Auto redacta | siempre |
 | 3 | lint local | siempre, sin modelo |
 | 4 | Cursor Auto audita | si el lint pasó |
-| 5 | Sonnet | solo si el versículo es cuestionable |
-| 6 | Cursor Auto vuelve a auditar | solo el español que tocó Sonnet |
-| 7 | Cursor Auto verifica el español | solo el español que tocó Sonnet |
+| 5 | GPT-5.6 Terra | solo si el versículo es cuestionable |
+| 6 | Cursor Auto vuelve a auditar | solo el español que tocó Terra |
+| 7 | Cursor Auto verifica el español | siempre; antes y después de Terra |
 
-Pasa limpio: la auditoría de Auto no tiene fallos ni avisos, y el
-borrador no trae incertidumbre, concepto añadido ni unidad descartada.
-Ese versículo no va a Sonnet.
+Pasa limpio: la auditoría de Auto no tiene fallos ni avisos, la comprobación
+de español confirma gramática y fluidez, y el borrador no trae incertidumbre,
+concepto añadido ni unidad descartada. Ese versículo no va a Terra.
 
-Es cuestionable, y entonces entra Sonnet, cuando ocurre cualquiera de
+Es cuestionable, y entonces entra Terra, cuando ocurre cualquiera de
 estas cosas:
 
 - el lint marca un fallo conocido (*vosotros*, *parir*, piedras duales
   hechas banquillo u otro anti-ejemplo del lint)
 - la auditoría falla o avisa
+- la comprobación de español detecta gramática, calco o fluidez deficiente
 - el borrador trae incertidumbre, concepto añadido o unidad sin token
 
-Si después de Sonnet el lint sigue fallando, o la segunda auditoría
+Si después de Terra el lint sigue fallando, o la segunda auditoría
 tiene veredicto `fail`, el versículo queda apartado y el español
 anterior permanece. Luego Auto verifica que el español sea actual y
 legible. Una palabra que la auditoría de fuente deja pasar, como una
@@ -51,18 +52,18 @@ queda para el traductor. La nota queda en
 `{libro}-{capítulo}-{versículo}.spanish-check.json`. Un `pass` de
 fidelidad entra en el archivo solo si esa verificación pasa, aunque
 traiga avisos; esos avisos quedan en la auditoría para la lectura
-humana. Sonnet no se repite.
+humana. Terra no se repite.
 
 Una palabra que el hebreo no tiene, y que el español necesita para ser
 oración, va en cursiva: *son*. El asterisco es la marca para el lector.
 Una cópula marcada así no aparta el versículo.
 
 Si el aviso es solo el número —un sustantivo singular y un participio
-plural—, Sonnet elige el español gramatical. La elección queda en
+plural—, Terra elige el español gramatical. La elección queda en
 `readerNote` del informe del capítulo, para la lectura humana.
 
 Si el problema es el papel de la cláusula —quién actúa, o a qué nombre
-rige una preposición—, Sonnet no lo toca. El versículo queda apartado
+rige una preposición—, Terra no lo toca. El versículo queda apartado
 para el traductor, un versículo a la vez.
 
 GPT y Grok no entran en este comando. El script anterior está en
@@ -70,7 +71,7 @@ GPT y Grok no entran en este comando. El script anterior está en
 
 ### Cómo se corre
 
-Un capítulo. El comando llama al CLI de Cursor: Auto audita, y Sonnet
+Un capítulo. El comando llama al CLI de Cursor: Auto audita, y Terra
 repara una sola vez cuando el versículo es cuestionable. Recorre el
 capítulo y escribe el español que pasó la segunda auditoría. Cuando
 termina, una persona lee el capítulo y el informe, y aprueba.
@@ -89,14 +90,24 @@ agent models
 ```
 
 `LBF_CURSOR_AUTO_MODEL` vale `auto` si no se define.
-`LBF_CURSOR_SONNET_MODEL` vale `claude-sonnet-5` si no se define. Si el
+`LBF_CURSOR_POLISH_MODEL` vale `gpt-5.6-terra` si no se define. Si el
 CLI rechaza ese id, use uno que liste `agent models`.
 
 El español que ya está en `translation/` se audita. Un pase limpio se
-queda. Un fallo o un aviso va a Sonnet. Auto vuelve a auditar ese
+queda. Un fallo, un aviso o español que no fluye va a Terra. Auto vuelve a auditar ese
 español. El arreglo entra en el versículo cuando el veredicto es
 `pass`. Si el veredicto es `fail`, o el lint sigue fallando, el
 versículo queda en el informe y el español anterior permanece.
+
+Para rehacer todo el texto existente del AT con Terra, incluso los versículos
+que antes pasaron limpios, se usa:
+
+```sh
+python3 tools/pipeline/auto_ot.py --from-book genesis --from-chapter 1 --full
+```
+
+`--full` obliga a que cada versículo pase por Terra, pero no omite las
+comprobaciones posteriores ni registra aprobación humana.
 
 El informe queda en
 `pipeline/{ot|nt}/{libro}/_logs/{libro}-{capítulo}.auto-pass.json`.

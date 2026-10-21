@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:49",
+  "chapter": 13,
+  "verse": 49,
+  "candidateLabel": "pulir",
+  "spanish": "y fuere la plaga verdosa o rojiza en el vestido o en la piel o en la urdimbre o en la trama o en todo utensilio de piel, plaga de lepra ella, y será mostrada al sacerdote.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013049003",
+        "h03013049005",
+        "h03013049019",
+        "h03013049020"
+      ],
+      "issue": "Los adjetivos, el pronombre y el verbo son masculino singular con el plaga; «verdosa», «rojiza», «ella» y «mostrada» ajustan el género al femenino de «plaga» sin cambiar el referente.",
+      "spanishSpan": "verdosa o rojiza, plaga de lepra ella, y será mostrada"
+    }
+  ],
+  "notes": "El weqatal de ser, los או, vestido, piel, urdimbre, trama, todo utensilio de piel, la cláusula sin cópula y el hophal mostrado al sacerdote quedan en los tokens.",
+  "discardedUncitedFindings": 0
+}

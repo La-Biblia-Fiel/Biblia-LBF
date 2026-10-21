@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:51",
+  "chapter": 13,
+  "verse": 51,
+  "candidateLabel": "pulir",
+  "spanish": "Y verá la plaga en el día el séptimo: cuando se extendió la plaga en el vestido o en la urdimbre o en la trama o en la piel, a todo lo que se haga la piel a obra, lepra maligna la plaga; impura ella.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013051006"
+      ],
+      "issue": "כִּי está marcado solo como conjunción; «cuando» fija un sentido temporal entre los sentidos abiertos de esa conjunción.",
+      "spanishSpan": "cuando"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013051024",
+        "h03013051025"
+      ],
+      "issue": "טָמֵא y הוּא son masculino singular; «impura ella» ajusta el género al femenino de «plaga» sin cambiar el referente.",
+      "spanishSpan": "impura ella"
+    }
+  ],
+  "notes": "El resto coincide en participantes, número, voz nifal y la cláusula sin cópula.",
+  "discardedUncitedFindings": 0
+}

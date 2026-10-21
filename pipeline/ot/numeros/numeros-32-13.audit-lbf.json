@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:13",
+  "chapter": 32,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y se encendió nariz de Jehová en Israel, y los hizo vagar en el desierto cuarenta año, hasta acabarse toda la generación la haciente el mal en ojos de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032013002"
+      ],
+      "issue": "Morphology is HTa affirmation, while lemma/Strong H639 is the noun nose/anger. Spanish nariz de locks the anatomical noun plus a genitive and drops the affirmation reading.",
+      "spanishSpan": "nariz de"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032013011",
+        "h04032013012",
+        "h04032013013"
+      ],
+      "issue": "כל הדור העשה is masculine singular; toda / la / haciente is feminine agreement with generación and does not change who acts.",
+      "spanishSpan": "toda la generación la haciente"
+    }
+  ],
+  "notes": "Jehová, en Israel, hiphil suffix los hizo vagar, el desierto, singular cuarenta año, hasta acabarse, el mal, and en ojos de Jehová match the other tokens.",
+  "discardedUncitedFindings": 0
+}

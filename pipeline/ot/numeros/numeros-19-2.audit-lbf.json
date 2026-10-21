@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:2",
+  "chapter": 19,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Este estatuto de la torá que mandó Jehová, diciendo: Habla a hijos de Israel, y tomen a ti vaca roja íntegra, que no hay en ella tacha, que no subió sobre ella yugo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019002003"
+      ],
+      "issue": "הַתּוֹרָה is a common noun (instruction/law), left as the untranslated lemma torá.",
+      "spanishSpan": "torá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04019002001"
+      ],
+      "issue": "Feminine demonstrative זאת is smoothed to masculine Este to agree with Spanish estatuto.",
+      "spanishSpan": "Este"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens, including 3mp tomen and the yoke as subject of subió.",
+  "discardedUncitedFindings": 0
+}

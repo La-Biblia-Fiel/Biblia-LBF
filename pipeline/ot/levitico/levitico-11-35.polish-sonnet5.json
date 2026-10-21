@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 11:35",
+  "chapter": 11,
+  "verse": 35,
+  "sourceDraft": "Y todo lo que cayere desde su cadáver sobre él se impurecerá; horno y fogones serán derribados; impuros ellos, e impuros serán a ustedes.",
+  "spanish": "Y todo lo que cayere desde el cadáver de ellos sobre él se impurecerá; horno y dos fogones serán derribados; impuros ellos, e impuros serán a ustedes.",
+  "units": [],
+  "grammarChanges": [
+    "su cadáver → el cadáver de ellos: מִנִּבְלָתָם carries a 3mp suffix ('their' carcass); 'su' does not distinguish a plural possessor from a singular one, so the plural is now stated explicitly.",
+    "fogones → dos fogones: וְכִירַיִם is masculine dual; an unmarked Spanish plural loses the paired count, so 'dos' marks it explicitly.",
+    "Kept 'serán derribados' plural: תַּנּוּר וְכִירַיִם share one hophal 3ms verb יֻתָּץ, but 'horno y dos fogones' is a two-item Spanish subject joined by 'y', which Spanish grammar requires to take a plural verb; a singular 'será derribado' would be ungrammatical with that compound subject."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose the grammatical plural 'serán derribados' because Spanish 'horno y dos fogones' joined by 'y' requires a plural verb, even though the Hebrew hophal יֻתָּץ is singular.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

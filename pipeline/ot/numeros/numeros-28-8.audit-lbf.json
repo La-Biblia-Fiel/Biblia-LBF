@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:8",
+  "chapter": 28,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y el cordero el segundo harás entre las tardes; como minjá de la mañana y como su libación harás, ofrenda de fuego, olor de reposo a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028008007"
+      ],
+      "issue": "Common noun (not a name) is left untranslated as minjá; it must be a Spanish common noun.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "את is carried by the fronted object of harás; dual tardes and olor de reposo stay open.",
+  "discardedUncitedFindings": 0
+}

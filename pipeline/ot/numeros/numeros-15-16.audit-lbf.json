@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:16",
+  "chapter": 15,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Torá una y juicio uno será a ustedes y al peregrino el peregrinante con ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015016001"
+      ],
+      "issue": "Torá transliterates and capitalizes a common noun as a title; the token is a common feminine singular noun, not a proper name.",
+      "spanishSpan": "Torá"
+    }
+  ],
+  "notes": "The rest matches: feminine/masculine cardinals, 3ms imperfect, 2mp ustedes, and the sojourner plus the participle sojourning with you.",
+  "discardedUncitedFindings": 0
+}

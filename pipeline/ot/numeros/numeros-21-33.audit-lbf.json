@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:33",
+  "chapter": 21,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y se volvieron y subieron camino del Basán, y salió Og, rey del Basán, a su encuentro, él y todo su pueblo, a la guerra, a Edrei.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021033014"
+      ],
+      "issue": "Unmarked “a” adds a directional preposition. The token is a bare proper noun.",
+      "spanishSpan": "a Edrei"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04021033001"
+      ],
+      "issue": "Qal sequential imperfect 3mp is a simple turn; pronominal se is grammatical smoothing.",
+      "spanishSpan": "se volvieron"
+    }
+  ],
+  "notes": "They went up the way of the Bashan, Og king of the Bashan went out to meet them, he and all his people, to the war, and Edrei match the other tokens.",
+  "discardedUncitedFindings": 0
+}

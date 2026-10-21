@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:43",
+  "chapter": 14,
+  "verse": 43,
+  "candidateLabel": "lbf",
+  "spanish": "Porque el amaleqita y el cananeo allí delante de ustedes, y caerán en la espada, porque por tanto volvieron de detrás de Jehová, y no será Jehová con ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014043006"
+      ],
+      "issue": "וּנְפַלְתֶּם is qal sequential perfect 2nd masculine plural (the addressees will fall). caerán, coordinated after el amaleqita y el cananeo, assigns the fall to those gentilics, a different third party.",
+      "spanishSpan": "caerán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014043011"
+      ],
+      "issue": "שַׁבְתֶּם is qal perfect 2nd masculine plural (the addressees turned). volvieron keeps that third-party subject instead of the 2pl addressees.",
+      "spanishSpan": "volvieron"
+    }
+  ],
+  "notes": "Gentilics, allí, delante de ustedes, en la espada, porque por tanto, de detrás de Jehová, and no será Jehová con ustedes match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

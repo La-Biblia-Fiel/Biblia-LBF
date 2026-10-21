@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:6",
+  "chapter": 29,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Aparte de holocausto del mes y su minjá, y holocausto del continuo y su minjá, y sus libaciones, conforme a su juicio, a olor de reposo, ofrenda de fuego a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029006004",
+        "h04029006007"
+      ],
+      "issue": "minjá leaves the common noun H4503 untranslated as a Hebraized lemma; a common noun must be Spanish",
+      "spanishSpan": "su minjá"
+    }
+  ],
+  "notes": "The rest of the verse matches number, suffixes, construct chains, and Jehová.",
+  "discardedUncitedFindings": 0
+}

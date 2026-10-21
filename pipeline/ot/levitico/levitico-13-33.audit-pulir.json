@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:33",
+  "chapter": 13,
+  "verse": 33,
+  "candidateLabel": "pulir",
+  "spanish": "Y se afeitará, y el neteq no lo afeitará, y encerrará el sacerdote el neteq siete días una segunda vez.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013033003",
+        "h03013033009"
+      ],
+      "issue": "הַנֶּתֶק (H5424) is a common noun, not a name; Spanish leaves it as the untranslated loanword neteq.",
+      "spanishSpan": "el neteq"
+    }
+  ],
+  "notes": "Hithpael vs piel, the unnamed 3ms shaver, the priest as subject of the hiphil, seven days, and adverbial שֵׁנִית match.",
+  "discardedUncitedFindings": 0
+}

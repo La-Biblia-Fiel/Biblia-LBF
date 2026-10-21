@@ -1,0 +1,62 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:25",
+  "chapter": 23,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Balaq a Bilam: Tampoco maldiciendo no lo maldecirás, tampoco bendiciendo no lo bendecirás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023025005",
+        "h04023025007"
+      ],
+      "issue": "גַּם is an affirmation particle and לֹא is the only negative. «Tampoco … no» negates both slots and can cancel, reversing the prohibition.",
+      "spanishSpan": "Tampoco maldiciendo no"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023025009",
+        "h04023025011"
+      ],
+      "issue": "גַּם is an affirmation particle and לֹא is the only negative. «tampoco … no» negates both slots and can cancel, reversing the prohibition.",
+      "spanishSpan": "tampoco bendiciendo no"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023025006",
+        "h04023025008"
+      ],
+      "issue": "H6895 (qal infinitive absolute) and H5344 (qal imperfect) are different lemmas; both are rendered with maldecir, so the lexical distinction is flattened.",
+      "spanishSpan": "maldiciendo no lo maldecirás"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023025006",
+        "h04023025008",
+        "h04023025010",
+        "h04023025012"
+      ],
+      "issue": "Infinitive absolute plus imperfect is smoothed as gerund plus future; the gerund can be read as manner rather than emphatic repetition.",
+      "spanishSpan": "maldiciendo … maldecirás, bendiciendo … bendecirás"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023025008",
+        "h04023025012"
+      ],
+      "issue": "The imperfect is fixed as Spanish future; the morphology does not itself mark future time.",
+      "spanishSpan": "maldecirás / bendecirás"
+    }
+  ],
+  "notes": "Y dijo, a, the 3ms suffix lo, and 2ms tú match; Balaq and Bilam are not locked in PROPER_NAMES.md.",
+  "discardedUncitedFindings": 0
+}

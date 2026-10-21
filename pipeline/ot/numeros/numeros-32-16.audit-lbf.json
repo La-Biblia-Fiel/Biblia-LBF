@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:16",
+  "chapter": 32,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y se acercaron a él, y dijeron: Cercados de rebaño edificaremos a nuestro ganado aquí, y ciudades a nuestro niño.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032016010"
+      ],
+      "issue": "לְטַפֵּנוּ is a collective singular (little ones) with a 1cp suffix; «nuestro niño» narrows it to one child.",
+      "spanishSpan": "nuestro niño"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032016007",
+        "h04032016010"
+      ],
+      "issue": "The lamed marks the beneficiary (for the livestock / for the little ones). Spanish «a» can be read as the direct object of edificar.",
+      "spanishSpan": "a nuestro ganado … a nuestro niño"
+    }
+  ],
+  "notes": "Approach, speech, sheep-enclosures, build, here, and cities match the tokens.",
+  "discardedUncitedFindings": 0
+}

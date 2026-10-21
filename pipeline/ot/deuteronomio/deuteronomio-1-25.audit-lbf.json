@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:25",
+  "chapter": 1,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomaron en su mano de fruto de la tierra, y bajaron a nosotros, y nos devolvieron palabra, y dijeron: Buena la tierra que Jehová nuestro Dios dando a nosotros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001025005"
+      ],
+      "issue": "Hiphil sequential (hacer bajar / traer abajo) queda como bajaron intransitivo: bajan ellos, no lo tomado en la mano.",
+      "spanishSpan": "bajaron"
+    }
+  ],
+  "notes": "El resto conserva 3mp, mano singular, fruto, palabra, Jehová, Dios, participio dando y los sufijos de 1cp.",
+  "discardedUncitedFindings": 0
+}

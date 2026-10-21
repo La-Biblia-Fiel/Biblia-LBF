@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:33",
+  "chapter": 35,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y no contaminarán la tierra que ustedes en ella, porque la sangre, ella contaminará la tierra, y a la tierra no será expiado por la sangre que fue derramada en ella, sino en sangre de su derramador.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035033017",
+        "h04035033023"
+      ],
+      "issue": "לַדָּם is lamed plus blood: the blood for which covering is not made. Passive “será expiado por la sangre” makes that blood the agent. The means is the other preposition, bet on בְּדַם, kept apart as “en sangre”.",
+      "spanishSpan": "por la sangre"
+    }
+  ],
+  "notes": "“contaminarán” is the ustedes future of the 2mp hiphil; “que ustedes en ella” matches the verbless clause.",
+  "discardedUncitedFindings": 0
+}

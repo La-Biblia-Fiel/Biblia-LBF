@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 33:38",
+  "chapter": 33,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "Y subió Aarón el sacerdote a Hor el monte sobre boca de Jehová, y murió allí, en el año el cuadragésimo a salir hijos de Israel desde tierra de Egipto, en el mes el quinto, en el uno al mes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04033038012",
+        "h04033038013"
+      ],
+      "issue": "בִּשְׁנַת הָאַרְבָּעִים is construct year plus definite cardinal forty (plural); el cuadragésimo turns the cardinal into the ordinal fortieth.",
+      "spanishSpan": "el año el cuadragésimo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04033038021"
+      ],
+      "issue": "בְּאֶחָד is a preposition plus anarthrous cardinal one; el uno adds a definite article.",
+      "spanishSpan": "el uno"
+    }
+  ],
+  "notes": "Hor, Jehová, Egipto, boca, and the ordinal quinto match the tokens.",
+  "discardedUncitedFindings": 0
+}

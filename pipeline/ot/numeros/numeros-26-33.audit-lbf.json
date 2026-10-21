@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:33",
+  "chapter": 26,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y Tselofjad hijo de Jéfer no hubo a él hijos, sino hijas; y nombre de hijas de Tselofjad: Majlá y Nóá, Joglá, Milca y Tirtsá.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04026033005",
+        "h04026033007"
+      ],
+      "issue": "הָיוּ is qal perfect 3rd common plural with plural בָּנִים; 'hubo' is singular existential. Plural 'hijos' remains, so the number of sons is unchanged.",
+      "spanishSpan": "hubo"
+    }
+  ],
+  "notes": "כי אם after the negative is covered by sino; the name list keeps the waw pattern.",
+  "discardedUncitedFindings": 0
+}

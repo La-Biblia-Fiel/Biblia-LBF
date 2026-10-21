@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:26",
+  "chapter": 18,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y a los levitas hablarás, y dirás a ellos: Cuando tomen de con hijos de Israel el diezmo que di a ustedes de con ellos en su heredad, y alzarán desde él ofrenda alzada de Jehová, diezmo desde el diezmo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04018026019"
+      ],
+      "issue": "מִמֶּנּוּ está marcado como sufijo de 1.ª común plural (desde nosotros); «él» es 3.ª masculino singular.",
+      "spanishSpan": "él"
+    }
+  ],
+  "notes": "El resto del versículo conserva persona, número y los lexemas del paquete.",
+  "discardedUncitedFindings": 0
+}

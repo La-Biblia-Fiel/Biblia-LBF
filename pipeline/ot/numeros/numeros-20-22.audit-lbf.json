@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 20:22",
+  "chapter": 20,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y partieron desde Qadesh, y vinieron hijos de Israel, toda la congregación, a Hor el monte.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04020022003",
+        "h04020022008",
+        "h04020022009"
+      ],
+      "issue": "Unmarked «a» is Spanish smoothing for the goal of the motion verb; the tokens have no preposition before Hor the mountain.",
+      "spanishSpan": "a"
+    }
+  ],
+  "notes": "Person, number, construct, article, and the two proper names match the tokens.",
+  "discardedUncitedFindings": 0
+}

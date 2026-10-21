@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:32",
+  "chapter": 1,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y en esta palabra ustedes no son creyentes en Jehová Dios de ustedes,",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h05001032001"
+      ],
+      "issue": "«palabra» fija H1697 en el sentido de palabra hablada; el lema y la morfología (sustantivo común masculino singular) dejan abierto palabra, asunto o cosa.",
+      "spanishSpan": "palabra"
+    }
+  ],
+  "notes": "Lo demás sigue los tokens: ו, demostrativo, אינכם en 2mp como ustedes, participio hifil, Jehová, y Dios con sufijo 2mp.",
+  "discardedUncitedFindings": 0
+}

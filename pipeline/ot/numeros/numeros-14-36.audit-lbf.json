@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:36",
+  "chapter": 14,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "Y los varones que envió Moisés a recorrer la tierra, y volvieron sobre él a toda la congregación a sacar difamación sobre la tierra,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014036008",
+        "h04014036010",
+        "h04014036011",
+        "h04014036012"
+      ],
+      "issue": "את (marca de objeto directo) hace de toda la congregación el objeto del qal וַיָּשֻׁבוּ; «volvieron … a toda la congregación» la lee como destino del regreso, no como objeto.",
+      "spanishSpan": "volvieron sobre él a toda la congregación"
+    }
+  ],
+  "notes": "El resto conserva la 3ms de envió, la 3mp de volvieron, el sufijo 3ms, el hiphil como sacar y las dos veces de la tierra.",
+  "discardedUncitedFindings": 0
+}

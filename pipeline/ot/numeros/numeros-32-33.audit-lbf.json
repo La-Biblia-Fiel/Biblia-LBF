@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:33",
+  "chapter": 32,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y dio a ellos Moisés, a hijos de Gad y a hijos de Rubén y a la mitad de tribu de Manasés hijo de José, el reino de Sijón rey del amorreo y el reino de Og rey de Bashán, la tierra a sus ciudades en fronteras, ciudades de la tierra alrededor.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032033025",
+        "h04032033026"
+      ],
+      "issue": "בִּגְבֻלֹת is plural construct and governs עָרֵי; Spanish reads fronteras as absolute and the comma separates ciudades, so the borders are not of the cities.",
+      "spanishSpan": "en fronteras, ciudades"
+    }
+  ],
+  "notes": "Giver, recipients, both kingdoms, and both land/city phrases otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,30 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024008001"
+      ],
+      "issue": "אֵל is a common masculine singular noun, not an article or a proper name. Spanish «El» leaves that noun untranslated.",
+      "spanishSpan": "El"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024008005"
+      ],
+      "issue": "רְאֵם is a common masculine singular noun, not a proper name. Spanish «reem» dumps the lemma untranslated.",
+      "spanishSpan": "reem"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04024008013"
+      ],
+      "issue": "«traspasará» narrows the qal imperfect to piercing through; the token only licenses a 3ms strike/wound.",
+      "spanishSpan": "traspasará"
+    }
+  ],
+  "notes": "Remaining tokens match stem, person, number, suffixes, Egipto, and the asyndeton before the 3mp bones."
+}

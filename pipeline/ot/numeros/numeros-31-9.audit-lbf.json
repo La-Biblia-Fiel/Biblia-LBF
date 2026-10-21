@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:9",
+  "chapter": 31,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y cautivaron hijos de Israel a mujeres de Midyán y a su niño, y a toda su bestia y a todo su ganado y a toda su fuerza saquearon.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031009008"
+      ],
+      "issue": "טַפָּם is masculine singular with a 3mp suffix and licenses their little ones as a collective; «niño» narrows that to one male child.",
+      "spanishSpan": "su niño"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04031009017"
+      ],
+      "issue": "חֵילָם leaves strength, force, and substance open; «fuerza» selects strength.",
+      "spanishSpan": "fuerza"
+    }
+  ],
+  "notes": "Both verbs, the other את objects, and each כָּל match the tokens.",
+  "discardedUncitedFindings": 0
+}

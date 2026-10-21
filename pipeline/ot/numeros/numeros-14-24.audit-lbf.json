@@ -1,0 +1,36 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:24",
+  "chapter": 14,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y mi siervo Calev, a causa de que fue espíritu otro con él, y llenó detrás de mí, y lo traeré a la tierra que vino allá, y su semilla la heredará.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014024004",
+        "h04014024005",
+        "h04014024006",
+        "h04014024007"
+      ],
+      "issue": "הָיְתָה is qal perfect 3fs whose subject is רוּחַ (אַחֶרֶת agrees fs); that spirit was with him. «fue espíritu otro con él» predicates «espíritu otro» of Calev.",
+      "spanishSpan": "fue espíritu otro con él"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014024013",
+        "h04014024014",
+        "h04014024015"
+      ],
+      "issue": "בָּא is qal perfect 3ms and שָׁמָּה resumes the land as the place he came to. «que vino» makes הָאָרֶץ the one who came.",
+      "spanishSpan": "la tierra que vino allá"
+    }
+  ],
+  "notes": "Servant, name, causal עֵקֶב, piel מלא + אַחֲרַי, hiphil «lo traeré», and זֶרַע + hiphil 3fs «la heredará» stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

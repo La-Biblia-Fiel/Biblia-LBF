@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:10",
+  "chapter": 15,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "y vino acercarás a la libación, mitad del hin: ofrenda de fuego, olor de reposo a Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015010003"
+      ],
+      "issue": "«la» marks the libation as definite; the token is a preposition plus an absolute noun and the morphology does not include the article.",
+      "spanishSpan": "la libación"
+    }
+  ],
+  "notes": "Order, 2ms hiphil, measure, construct chain, and Jehová stay inside the packet.",
+  "discardedUncitedFindings": 0
+}

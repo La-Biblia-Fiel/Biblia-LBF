@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 17:7",
+  "chapter": 17,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y depositó Moisés las varas delante de Jehová en tienda del testimonio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04017007007",
+        "h04017007008"
+      ],
+      "issue": "בְּאֹהֶל הָעֵדֻת is a definite construct (article on the absolute). Spanish omits that article: “en tienda” for “en la tienda del testimonio”.",
+      "spanishSpan": "en tienda del testimonio"
+    }
+  ],
+  "notes": "Moisés, las varas, delante de Jehová, and testimonio match the other tokens.",
+  "discardedUncitedFindings": 0
+}

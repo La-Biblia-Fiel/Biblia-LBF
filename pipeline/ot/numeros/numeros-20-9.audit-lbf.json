@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 20:9",
+  "chapter": 20,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomó Moisés la vara de delante de Jehová, como que le mandó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04020009007"
+      ],
+      "issue": "כַּאֲשֶׁר (preposition + relative) licenses factual «como» / «según». «como que» in current Latin American Spanish means «as if» or «kind of», adding a hypothetical or hedge the token does not license.",
+      "spanishSpan": "como que"
+    }
+  ],
+  "notes": "Y tomó Moisés la vara de delante de Jehová and le mandó match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

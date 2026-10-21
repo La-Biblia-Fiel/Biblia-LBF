@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 33:56",
+  "chapter": 33,
+  "verse": 56,
+  "candidateLabel": "lbf",
+  "spanish": "Y será que como pensé hacer a ellos, haré a ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04033056001"
+      ],
+      "issue": "que is an unmarked Spanish complementizer after será; it only joins the וְהָיָה clause and adds no concept.",
+      "spanishSpan": "que"
+    }
+  ],
+  "notes": "Seven tokens match: 1cs pensé/haré, 3mp ellos, 2mp ustedes.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 14:31",
+  "chapter": 14,
+  "verse": 31,
+  "candidateLabel": "lbf",
+  "spanish": "Y su pequeño que dijeron ustedes a botín será, y los traeré, y conocerán la tierra que desecharon en ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04014031006"
+      ],
+      "issue": "וְהֵבֵיאתִי is conjunction + hiphil perfect 1cs, not sequential perfect; «traeré» shifts that perfect to future.",
+      "spanishSpan": "traeré"
+    }
+  ],
+  "notes": "2mp «su/dijeron/desecharon» and 3mp «los/conocerán» stay with the suffixes; בָּהּ is kept as «en ella».",
+  "discardedUncitedFindings": 0
+}

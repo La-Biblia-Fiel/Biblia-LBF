@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:14",
+  "chapter": 32,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y he aquí, se levantaron ustedes debajo de sus padres, aumento de varones pecadores, para añadir todavía sobre ardor de nariz de Jehová a Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032014012"
+      ],
+      "issue": "אַף está marcado como partícula de afirmación (HTa); «nariz» lo toma como sustantivo y añade ese concepto.",
+      "spanishSpan": "nariz"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032014008"
+      ],
+      "issue": "El infinitivo qal de H5595 (ספה) licencia arrebatar o barrer; «añadir» introduce otro sentido verbal.",
+      "spanishSpan": "añadir"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032014003"
+      ],
+      "issue": "תַּחַת, preposición, deja abierto el sentido espacial y el de «en lugar de»; «debajo de» fija solo el espacial.",
+      "spanishSpan": "debajo de"
+    }
+  ],
+  "notes": "El 2mp queda en ustedes/sus; Jehová e Israel siguen el paquete.",
+  "discardedUncitedFindings": 0
+}

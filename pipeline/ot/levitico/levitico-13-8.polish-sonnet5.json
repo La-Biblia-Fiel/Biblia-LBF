@@ -1,0 +1,80 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 13:8",
+  "chapter": 13,
+  "verse": 8,
+  "sourceDraft": "Y verá el sacerdote, y he aquí se extendió la erupción en la piel, y lo impurecerá el sacerdote; tsaráat ella.",
+  "spanish": "Y verá el sacerdote, y he aquí se extendió la erupción en la piel, y lo impurecerá el sacerdote; lepra ella.",
+  "units": [
+    {
+      "es": "Y verá",
+      "sourceTokenIds": [
+        "h03013008001"
+      ]
+    },
+    {
+      "es": "el sacerdote",
+      "sourceTokenIds": [
+        "h03013008002"
+      ]
+    },
+    {
+      "es": "y he aquí",
+      "sourceTokenIds": [
+        "h03013008003"
+      ]
+    },
+    {
+      "es": "se extendió",
+      "sourceTokenIds": [
+        "h03013008004"
+      ]
+    },
+    {
+      "es": "la erupción",
+      "sourceTokenIds": [
+        "h03013008005"
+      ]
+    },
+    {
+      "es": "en la piel",
+      "sourceTokenIds": [
+        "h03013008006"
+      ]
+    },
+    {
+      "es": "y lo impurecerá",
+      "sourceTokenIds": [
+        "h03013008007"
+      ]
+    },
+    {
+      "es": "el sacerdote",
+      "sourceTokenIds": [
+        "h03013008008"
+      ]
+    },
+    {
+      "es": "lepra",
+      "sourceTokenIds": [
+        "h03013008009"
+      ]
+    },
+    {
+      "es": "ella",
+      "sourceTokenIds": [
+        "h03013008010"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced the untranslated Hebrew lemma 'tsaráat' with the Spanish common noun 'lepra' (H6883), per the cited fail; no other token was touched."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose 'lepra' as the standard Spanish rendering of H6883; the Hebrew term covers a broader range of skin conditions than the modern clinical sense.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

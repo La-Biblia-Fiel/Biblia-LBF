@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:45",
+  "chapter": 13,
+  "verse": 45,
+  "candidateLabel": "pulir",
+  "spanish": "Y el leproso que en él la plaga, sus vestidos serán rasgados, y su cabeza será descubierta, y se cubrirá el bigote, e impuro, impuro llamará.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013045011",
+        "h03013045012",
+        "h03013045013"
+      ],
+      "issue": "Qal active 3ms יַעְטֶה (‘he covers’) with עַל (‘upon’ the mustache) is smoothed to reflexive “se cubrirá el bigote”; the preposition is unstated and the clause can be read as passive.",
+      "spanishSpan": "se cubrirá el bigote"
+    }
+  ],
+  "notes": "Verbless relative, passive garments/head, and repeated טָמֵא are preserved.",
+  "discardedUncitedFindings": 0
+}

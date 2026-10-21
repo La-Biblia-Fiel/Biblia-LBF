@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:17",
+  "chapter": 32,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y nosotros nos extraeremos apresurados delante de hijos de Israel, hasta que si los hayamos traído a su lugar; y se sentará nuestro niño en ciudades de la fortaleza de faces de moradores de la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032017014"
+      ],
+      "issue": "טַף (H2945) is a collective singular, the little ones; «nuestro niño» is one child.",
+      "spanishSpan": "nuestro niño"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032017016",
+        "h04032017017"
+      ],
+      "issue": "הַמִּבְצָר is absolute, so the chain ends at the fortification. מִפְּנֵי starts a new phrase, from before the inhabitants, and is not a genitive «de faces» of the fortress.",
+      "spanishSpan": "de la fortaleza de faces"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032017002"
+      ],
+      "issue": "Niphal חלץ (H2502) leaves open arm/equip oneself and draw off or withdraw; «nos extraeremos» keeps only extract/draw out.",
+      "spanishSpan": "nos extraeremos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032017013"
+      ],
+      "issue": "Qal ישב leaves open sit, dwell, and remain; «se sentará» resolves it to sitting.",
+      "spanishSpan": "se sentará"
+    }
+  ],
+  "notes": "«hasta que si» and «los hayamos traído» keep עד אשר אם and the hiphil perfect with its 3mp suffix.",
+  "discardedUncitedFindings": 0
+}

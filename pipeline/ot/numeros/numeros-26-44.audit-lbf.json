@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:44",
+  "chapter": 26,
+  "verse": 44,
+  "candidateLabel": "lbf",
+  "spanish": "Hijos de Aser a sus familias: a Yimná, familia de la Yimná; a Yishví, familia del yishví; a Beriyá, familia del beriaí.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04026044006"
+      ],
+      "issue": "הַיִּמְנָה is the article plus an ungendered proper noun, not a masculine gentilic. Spanish «la» supplies feminine article gender the morphology does not mark.",
+      "spanishSpan": "la Yimná"
+    }
+  ],
+  "notes": "Sons, Aser, the 3mp families, each lamed, and singular familia match; gentilics stay masculine singular.",
+  "discardedUncitedFindings": 0
+}

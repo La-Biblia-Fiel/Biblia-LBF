@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:14",
+  "chapter": 21,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Por tanto se dice en libro de guerras de Jehová: A Vahev en Sufá, y a los torrentes Arnón,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021014007",
+        "h04021014010"
+      ],
+      "issue": "The object markers are rendered as the preposition «a», so Vahev and the torrents read as addressees or destinations of «se dice». Those markers only license them as what is said.",
+      "spanishSpan": "A Vahev … a los torrentes"
+    }
+  ],
+  "notes": "The remaining tokens, including the absolute plural beside Arnón, stay within what the packet licenses.",
+  "discardedUncitedFindings": 0
+}

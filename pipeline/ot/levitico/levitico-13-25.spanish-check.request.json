@@ -1,0 +1,11 @@
+{
+  "model": "auto",
+  "system": "You verify the Spanish line for La Biblia Fiel. You do not judge the Hebrew.\n\nCurrent Latin American Spanish, formal literary register, tú / ustedes.\nA reader must recognize every word.\n\nFAIL when the line contains:\n- a word that is not current Spanish\n- an archaic, rare, or invented interjection standing in for an ordinary word\n  (Ea for \"come\")\n- a form a reader would have to guess\n\nDo not fail a supplied word marked in single asterisks (*son*).\nDo not fail a grammatical choice that is still real Spanish.\nDo not warn instead of failing an unrecognized word.\n\nReturn JSON only:\n{\n  \"verdict\": \"pass\",\n  \"findings\": [\n    {\n      \"severity\": \"fail\",\n      \"issue\": \"short description\",\n      \"spanishSpan\": \"the word\"\n    }\n  ],\n  \"notes\": \"\"\n}\nverdict is fail if any finding has severity fail.",
+  "user": "Verify this Spanish line. JSON only.\n\n{\"spanish\": \"y la verá el sacerdote, y he aquí se volvió pelo blanco en la mancha brillante, y su apariencia profunda desde la piel: lepra ella; en la quemadura brotó. Y lo impurecerá el sacerdote; plaga de lepra ella.\"}",
+  "replyPath": "/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/levitico/levitico-13-25.spanish-check.reply.json",
+  "book": "levitico",
+  "chapter": 13,
+  "verse": 25,
+  "spanish": "y la verá el sacerdote, y he aquí se volvió pelo blanco en la mancha brillante, y su apariencia profunda desde la piel: lepra ella; en la quemadura brotó. Y lo impurecerá el sacerdote; plaga de lepra ella.",
+  "instruction": "Judge only whether the Spanish is current and readable. Fail a word a reader would not recognize. Do not judge the Hebrew."
+}

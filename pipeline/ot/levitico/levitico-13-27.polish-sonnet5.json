@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 13:27",
+  "chapter": 13,
+  "verse": 27,
+  "sourceDraft": "Y lo verá el sacerdote en el día el séptimo; si extendiendo se extendiere en la piel, y lo impurecerá el sacerdote; plaga de tsaráat ella.",
+  "spanish": "Y lo verá el sacerdote en el día el séptimo; si extender extendiere en la piel, y lo impurecerá el sacerdote; plaga de lepra ella.",
+  "units": [],
+  "grammarChanges": [
+    "Removed the unmarked reflexive 'se' from 'se extendiere' (h03013027007): תִפְשֶׂה is qal imperfect 3fs with no reflexive/niphal stem, so no 'se' is licensed.",
+    "Replaced the gerund 'extendiendo' with the bare infinitive 'extender' before 'extendiere' (h03013027006, h03013027007), so the qal infinitive absolute plus imperfect no longer reads as a manner gerund and instead stands as the same-root emphasis pair, matching the fix already applied to this construction elsewhere in the corpus (e.g. Levítico 5:19, 7:24).",
+    "tsaráat → lepra (h03013027013; H6883, common feminine singular absolute noun, not a locked proper name), following the lexical choice already fixed for H6883 across sibling verses in this chapter (13:2, 13:11, 13:12, 13:13, 13:15, 13:20, 13:25)."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose the bare infinitive 'extender' over a gerund for the infinitive-absolute-plus-imperfect pair ('extender extendiere'), which also removes the unlicensed reflexive 'se'; used 'lepra' for tsaráat per the corpus-wide rendering already fixed in sibling verses. No participant, number, or stem force was changed.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

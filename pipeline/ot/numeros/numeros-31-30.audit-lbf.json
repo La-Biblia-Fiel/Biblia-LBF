@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:30",
+  "chapter": 31,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y desde mitad de hijos de Israel tomarás uno asido desde los cincuenta, desde el adam, desde el ganado, desde los asnos y desde el rebaño, desde toda la bestia, y darás a ellos a los levitas, guardantes guarda de mishkán de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031030010"
+      ],
+      "issue": "הָאָדָם is a definite common noun (H120), not a proper name; el adam leaves the lemma untranslated.",
+      "spanishSpan": "el adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031030024"
+      ],
+      "issue": "מִשְׁכַּן is a common noun (H4908) in the construct chain; mishkán is an untranslated lemma.",
+      "spanishSpan": "mishkán"
+    }
+  ],
+  "notes": "Person, number, the fiftieth portion, the animal list, and the Levite charge otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

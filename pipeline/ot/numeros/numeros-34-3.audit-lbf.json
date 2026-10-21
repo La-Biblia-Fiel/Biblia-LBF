@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 34:3",
+  "chapter": 34,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y será a ustedes lado de Neguev desde desierto de Tsin sobre manos de Edom; y será a ustedes límite de Neguev desde extremo de mar de la sal hacia oriente.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034003004"
+      ],
+      "issue": "H5045 está marcado como sustantivo común (HNcmsa), no como nombre propio; Neguev lo vuelve topónimo y cierra el sentido de sustantivo común.",
+      "spanishSpan": "Neguev"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034003013"
+      ],
+      "issue": "El mismo sustantivo común H5045 (HNcmsa) queda otra vez como el nombre propio Neguev.",
+      "spanishSpan": "Neguev"
+    }
+  ],
+  "notes": "Tsin y Edom coinciden con los nombres propios; manos conserva el dual; mar de la sal conserva el artículo de la sal.",
+  "discardedUncitedFindings": 0
+}

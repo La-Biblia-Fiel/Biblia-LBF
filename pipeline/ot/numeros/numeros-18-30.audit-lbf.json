@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:30",
+  "chapter": 18,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y dirás a ellos: En su alzar su grasa desde él, y será contado a los levitas como producto de era y como producto de lagar.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04018030006"
+      ],
+      "issue": "מִמֶּנּוּ está etiquetado como preposición con sufijo de 1ª común plural (desde nosotros); el español «desde él» es 3ª singular masculina.",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "El resto del versículo conserva persona, número, nifal, gentilicio y la repetición de תבואה.",
+  "discardedUncitedFindings": 0
+}

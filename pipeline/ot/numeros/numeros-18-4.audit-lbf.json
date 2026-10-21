@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:4",
+  "chapter": 18,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y se juntarán sobre ti, y guardarán la guarda de tienda de reunión a todo servicio de la tienda, y extraño no se acercará a ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04018004005",
+        "h04018004006",
+        "h04018004007"
+      ],
+      "issue": "«la» marks the anarthrous construct מִשְׁמֶרֶת אֹהֶל מוֹעֵד as definite; none of those tokens has the article.",
+      "spanishSpan": "la guarda"
+    }
+  ],
+  "notes": "3cp, 2ms עליך vs 2mp אליכם, qal, cognate שמר/משמרת, and the article on האהל are preserved.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:39",
+  "chapter": 1,
+  "verse": 39,
+  "candidateLabel": "lbf",
+  "spanish": "Y pequeño de ustedes que dijeron será a botín, e hijos de ustedes que no conocieron hoy bueno y malo, ellos entrarán allá, y a ellos la daré, y ellos la heredarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001039002",
+        "h05001039003"
+      ],
+      "issue": "Qal perfect 2mp: the addressees said it. 'que dijeron' makes the relative the subject, so the little one speaks instead of the 2pl addressees.",
+      "spanishSpan": "que dijeron"
+    }
+  ],
+  "notes": "Elsewhere number, person, the feminine objects, and the pronouns match the tokens.",
+  "discardedUncitedFindings": 0
+}

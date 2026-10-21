@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:11",
+  "chapter": 19,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "El tocante en muerto, a toda alma de adam, y se impurecerá siete días.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019011005"
+      ],
+      "issue": "אָדָם is a common noun (H120), left untranslated as adam; common nouns stay Spanish.",
+      "spanishSpan": "adam"
+    }
+  ],
+  "notes": "El resto del versículo conserva artículo, participio, preposiciones, נֶפֶשׁ, weqatal 3ms y siete días.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:10",
+  "chapter": 28,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Holocausto de shabat en su shabat, sobre holocausto del continuo, y su libación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028010002",
+        "h04028010003"
+      ],
+      "issue": "Common noun H7676 is left untranslated as shabat; a common noun must be Spanish.",
+      "spanishSpan": "shabat"
+    }
+  ],
+  "notes": "The rest of the verse tracks construct olah, beth plus 3ms, al, article plus tamid, and waw plus 3fs nesek.",
+  "discardedUncitedFindings": 0
+}

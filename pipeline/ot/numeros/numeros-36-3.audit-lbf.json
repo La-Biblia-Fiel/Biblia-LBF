@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 36:3",
+  "chapter": 36,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y serán a uno desde hijos de tribus de hijos de Israel a mujeres, y será quitada su heredad desde heredad de nuestros padres, y será añadida sobre heredad de la tribu que serán a ellos, y desde suerte de nuestra heredad será quitada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04036003001"
+      ],
+      "issue": "Qal perfect 3cp is not marked sequential, but Spanish uses future serán and so collapses it into the same tense as the imperfect.",
+      "spanishSpan": "Y serán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04036003012"
+      ],
+      "issue": "Niphal sequential perfect 3ms is rendered with a feminine participle.",
+      "spanishSpan": "será añadida"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04036003021"
+      ],
+      "issue": "Niphal imperfect 3ms is rendered with a feminine participle.",
+      "spanishSpan": "nuestra heredad será quitada"
+    }
+  ],
+  "notes": "Remaining tokens, including 3fp תהיינה and 3mp להם, are present without added participants.",
+  "discardedUncitedFindings": 0
+}

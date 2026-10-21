@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:5",
+  "chapter": 35,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y medirán desde fuera a la ciudad el lado hacia oriente dos mil en el codo, y el lado de Neguev dos mil en el codo, y el lado de mar dos mil en el codo, y el lado de norte dos mil en el codo, y la ciudad en el medio; esto será a ellos ejidos de las ciudades.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035005011"
+      ],
+      "issue": "Common noun נֶגֶב is Hebraized as the regional name Neguev, closing the directional sense the lemma and morphology leave open.",
+      "spanishSpan": "Neguev"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04035005002",
+        "h04035005003"
+      ],
+      "issue": "מִחוּץ לָעִיר is outside the city; «a la ciudad» can be read as motion toward the city.",
+      "spanishSpan": "desde fuera a la ciudad"
+    }
+  ],
+  "notes": "2mp medirán is ustedes address; the four measures, singular codo, and plural ejidos follow the tokens.",
+  "discardedUncitedFindings": 0
+}

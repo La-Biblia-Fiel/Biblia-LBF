@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:21",
+  "chapter": 11,
+  "verse": 21,
+  "candidateLabel": "pulir",
+  "spanish": "Solo esto comerán desde todo lo que pulula del ave el andante sobre cuatro, que piernas desde arriba a sus pies para saltar en ellas sobre la tierra.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011021006",
+        "h03011021007"
+      ],
+      "issue": "Construct noun swarm-of the flyer is smoothed into the verb pulula plus del; pulula del ave can read as origin, and ave narrows the flying creature to a bird.",
+      "spanishSpan": "lo que pulula del ave"
+    }
+  ],
+  "notes": "2mp comerán is ustedes; dual legs and feet as plural; cuatro stays elliptical.",
+  "discardedUncitedFindings": 0
+}

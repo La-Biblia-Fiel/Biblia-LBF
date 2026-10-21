@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:18",
+  "chapter": 21,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "pozo; lo cavaron príncipes, lo excavaron nobles del pueblo, con el legislador, con sus bastones. Y desde desierto a Mataná,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021018009",
+        "h04021018010"
+      ],
+      "issue": "«a» adds a destination the tokens do not license: the wilderness noun is absolute, not construct, and the proper name has no directional preposition.",
+      "spanishSpan": "a"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04021018007"
+      ],
+      "issue": "The active participle has no article; «el» marks it as definite.",
+      "spanishSpan": "el legislador"
+    }
+  ],
+  "notes": "Well, both qal 3cp + 3fs suffixes, princes, nobles of the people, staffs with 3mp suffix, and from wilderness plus the proper name are licensed.",
+  "discardedUncitedFindings": 0
+}

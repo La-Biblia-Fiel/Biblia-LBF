@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 11:14",
+  "chapter": 11,
+  "verse": 14,
+  "sourceDraft": "y la daáh y la ayah a su especie,",
+  "spanish": "y el milano y el gavilán a su especie,",
+  "units": [
+    {
+      "es": "y el milano",
+      "sourceTokenIds": [
+        "h03011014001",
+        "h03011014002"
+      ]
+    },
+    {
+      "es": "y el gavilán",
+      "sourceTokenIds": [
+        "h03011014003",
+        "h03011014004"
+      ]
+    },
+    {
+      "es": "a su especie",
+      "sourceTokenIds": [
+        "h03011014005"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced untranslated Hebrew transliterations 'daáh' and 'ayah' with Spanish common nouns 'milano' (H1676) and 'gavilán' (H344), per the cited fail.",
+    "Changed the definite article from feminine 'la' to masculine 'el' to agree with the Spanish grammatical gender of 'milano' and 'gavilán'."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Chose the standard Spanish raptor names 'milano' and 'gavilán' for H1676/H344; exact species identification for these two terms is lexically uncertain.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

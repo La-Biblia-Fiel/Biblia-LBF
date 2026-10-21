@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:7",
+  "chapter": 26,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Estas familias del reubenita; y fueron sus contados tres y cuarenta mil y siete cientos y treinta.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04026007003"
+      ],
+      "issue": "Gentilic Hebraizes the locked name Rubén as reubenita; the conventional Spanish gentilic is rubenita.",
+      "spanishSpan": "reubenita"
+    }
+  ],
+  "notes": "Demonstrative, construct families, wayyiqtol, passive participle with 3mp suffix, and 43,730 in Hebrew order are licensed.",
+  "discardedUncitedFindings": 0
+}

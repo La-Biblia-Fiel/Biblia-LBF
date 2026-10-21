@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:13",
+  "chapter": 21,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Desde allí partieron, y acamparon de allende de Arnón, que en el desierto el saliente desde límite del amorreo, porque Arnón es límite de Moab, entre Moab y entre el amorreo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021013012",
+        "h04021013013",
+        "h04021013014"
+      ],
+      "issue": "Unmarked supplied copula; כי ארנון גבול מואב is a verbless clause (Arnón + construct límite de Moab).",
+      "spanishSpan": "es"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04021013008"
+      ],
+      "issue": "Articular qal participle (the one going out) rendered as el saliente, which can be read as a geographic salient or the east.",
+      "spanishSpan": "el saliente"
+    }
+  ],
+  "notes": "Itinerary verbs, מעבר, repeated גבול, singular amorreo, and בין…ובין match the tokens.",
+  "discardedUncitedFindings": 0
+}

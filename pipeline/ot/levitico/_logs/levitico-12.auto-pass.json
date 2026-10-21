@@ -7,9 +7,25 @@
     6
   ],
   "drafted": [],
-  "repaired": [],
-  "repairedWithWarn": [],
+  "repaired": [
+    7
+  ],
+  "repairedWithWarn": [
+    4
+  ],
   "parked": [
+    {
+      "verse": 2,
+      "notes": "spanish check",
+      "spanish": "Habla a hijos de Israel, diciendo: Mujer, cuando concibiere simiente y diere a luz macho, y se impurecerá siete días; como días de impureza de su enfermar se impurecerá.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá no es una forma del español actual; el lector tiene que adivinarla",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
     {
       "verse": 3,
       "notes": "clause role",
@@ -25,33 +41,59 @@
           "spanishSpan": "será circuncidada carne"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "verse": 2,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $257 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 4,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $256 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
     },
     {
       "verse": 5,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $257 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 7,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $257 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+      "notes": "spanish check",
+      "spanish": "Y si diere a luz hembra, y se impurecerá dos semanas como su menstruación, y sesenta días y seis días se sentará sobre sangres de purificación.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá no es una palabra del español actual; no existe el verbo impurecer",
+          "spanishSpan": "impurecerá"
+        }
+      ]
     },
     {
       "verse": 8,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $257 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+      "notes": "clause role",
+      "spanish": "Y si no hallare su mano bastancia de oveja, y tomará dos tórtolas o dos hijos de paloma, uno a holocausto y uno a pecado, y expiará sobre ella el sacerdote, y será pura.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03012008006"
+          ],
+          "issue": "שֶׂה is one singular flock-animal. \"res del rebaño\" adds an untokened flock phrase and a generic livestock head.",
+          "spanishSpan": "res del rebaño"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03012008017"
+          ],
+          "issue": "לְחַטָּאת stands parallel to לְעֹלָה as the offering noun; \"pecado\" can be read as bare sin rather than that offering.",
+          "spanishSpan": "a pecado"
+        }
+      ]
     }
   ],
+  "errors": [],
   "readerNotes": [
     {
+      "verse": 2,
+      "note": "impurecerá no es una forma del español actual; el lector tiene que adivinarla"
+    },
+    {
       "verse": 3,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 5,
+      "note": "impurecerá no es una palabra del español actual; no existe el verbo impurecer"
+    },
+    {
+      "verse": 8,
       "note": "hold: clause role"
     }
   ]

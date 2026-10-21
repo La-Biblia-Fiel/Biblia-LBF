@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LBF · Lector del Antiguo Testamento</title>
+  <link rel="stylesheet" href="/reader.css">
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">La Biblia Fiel</p>
+      <h1>Lector del Antiguo Testamento</h1>
+    </div>
+    <a href="/">Abrir Translator</a>
+  </header>
+  <nav aria-label="Navegación bíblica">
+    <label>Libro <select id="book"></select></label>
+    <label>Capítulo <select id="chapter"></select></label>
+    <button id="previous" type="button">← Anterior</button>
+    <button id="next" type="button">Siguiente →</button>
+  </nav>
+  <main>
+    <div class="chapter-heading">
+      <h2 id="title">Cargando…</h2>
+      <p id="status" role="status"></p>
+    </div>
+    <section id="verses" aria-live="polite"></section>
+  </main>
+  <script type="module" src="/reader.js"></script>
+</body>
+</html>

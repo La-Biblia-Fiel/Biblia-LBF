@@ -3,13 +3,13 @@
 This is the procedure. One Protestant verse at a time, from a source
 packet. NT: **TR1894**. OT: **OSHB/WLC + Paleo/AHRC**.
 
-Cursor Auto drafts and audits. Sonnet steps in only when the verse is
-questionable. GPT and Grok are not in this procedure. `STATUS.md` and
+Cursor Auto drafts and audits. GPT-5.6 Terra steps in only when the verse is
+questionable. Grok is not in this procedure. `STATUS.md` and
 `tools/verify.py` do not accept a verse.
 
 Spanish is current Latin American (`tú` / ustedes), not Spain
 *vosotros*. Proper names: `translation/PROPER_NAMES.md`.
-יהוה → Jehová. אלהים as God → Dios.
+יהוה → Yahvé. אלהים as God → Dios.
 
 ## Stations
 
@@ -19,21 +19,23 @@ Spanish is current Latin American (`tú` / ustedes), not Spain
 | 2 | Cursor Auto drafts | every verse |
 | 3 | local lint | every verse, no model |
 | 4 | Cursor Auto audits | lint passed |
-| 5 | Sonnet | the verse is questionable |
-| 6 | Cursor Auto audits again | only the Spanish Sonnet wrote |
-| 7 | Cursor Auto checks the Spanish | only the Spanish Sonnet wrote |
+| 5 | GPT-5.6 Terra | the verse is questionable |
+| 6 | Cursor Auto audits again | only the Spanish Terra wrote |
+| 7 | Cursor Auto checks the Spanish | every verse, before and after Terra |
 
-A clean pass stays with Auto. Clean means the audit has no fail and no
-warn, and the draft has no uncertainty, added concept, or dropped unit.
+A clean pass stays with Auto. Clean means the audit has no fail or warn,
+the Spanish grammar and flow check passes, and the draft has no uncertainty,
+added concept, or dropped unit.
 
-Sonnet runs when any of these is true:
+Terra runs when any of these is true:
 
 - lint hits a known failure (*vosotros*, *parir*, dual stones turned
   into a stool, or another rule in `lint_lib.py`)
 - the audit fails or warns
+- the Spanish is faithful but does not flow naturally
 - the draft lists an uncertainty, an added concept, or a dropped unit
 
-After Sonnet, Auto audits that Spanish once for fidelity to the Hebrew.
+After Terra, Auto audits that Spanish once for fidelity to the Hebrew.
 Then Auto checks the Spanish itself: every word has to be current
 Latin American Spanish a reader can say. A word the fidelity audit
 accepts, such as an archaic interjection, still fails this check. The
@@ -42,15 +44,15 @@ that fails is not written, and a bad line already in the file stays for
 the translator. The check is saved as
 `{book}-{chapter}-{verse}.spanish-check.json`. A fidelity `pass` is
 written into the verse only after that check passes. Warns on the
-fidelity pass stay in the audit file for the human read. Sonnet does
+fidelity pass stay in the audit file for the human read. Terra does
 not run again.
 
 A word the Hebrew does not have, added so the Spanish can be a sentence,
 is italic: *son*. A marked copula does not park the verse. When a warn
 is only number — a singular head noun against a plural participle —
-Sonnet chooses the grammatical Spanish and writes the choice in
+Terra chooses the grammatical Spanish and writes the choice in
 `readerNote` on the chapter report. A clause-role problem — who acts, or
-which noun a preposition governs — stays on hold. Sonnet does not repair
+which noun a preposition governs — stays on hold. Terra does not repair
 it. That verse is for the translator, one verse at a time.
 
 ## Run a chapter
@@ -61,7 +63,7 @@ python3 tools/pipeline/auto_pass.py exodo 1 --from 1 --to 5
 ```
 
 This command calls the Cursor CLI (`agent`) for Cursor Auto and, when
-the verse is questionable, for Sonnet. It walks the chapter and writes
+the verse is questionable, for Terra. It walks the chapter and writes
 a passing repair into `translation/`. When it finishes, a person reads
 the chapter and the report and approves. It does not sign `STATUS.md`.
 
@@ -73,12 +75,13 @@ agent login
 agent models
 ```
 
-`LBF_CURSOR_AUTO_MODEL` defaults to `auto`. `LBF_CURSOR_SONNET_MODEL`
-defaults to `claude-sonnet-5` (or `LBF_SONNET_MODEL` when that is set).
+`LBF_CURSOR_AUTO_MODEL` defaults to `auto`. `LBF_CURSOR_POLISH_MODEL`
+defaults to `gpt-5.6-terra`. The former Sonnet variables remain fallback
+overrides for compatibility.
 If the CLI rejects the id, set one from `agent models`.
 
 Spanish already in the book file is audited. A clean pass stays. A fail
-or a warn goes to Sonnet once. Auto audits that Spanish again. Verdict
+or a warn goes to Terra once. Auto audits that Spanish again. Verdict
 `pass` replaces the verse. Verdict `fail`, or a lint hit that remains,
 parks the verse and leaves the previous line.
 
@@ -89,7 +92,7 @@ A verse with no Spanish yet is drafted by Auto, then audited on the
 same path. It enters the book file when the audit accepts it.
 
 `--no-resume` calls the models again. `--full` sends every verse to
-Sonnet, including a clean pass. Leave both off for a normal chapter.
+Terra, including a clean pass. Leave both off for a normal chapter.
 
 ## Continue through the Old Testament
 
@@ -101,6 +104,17 @@ git pull --ff-only
 python3 tools/pipeline/auto_ot.py --from-book exodo --from-chapter 21
 ```
 
+To redo all existing OT wording through GPT-5.6 Terra, including verses whose
+older fidelity audit passed, start at Genesis with full mode:
+
+```sh
+python3 tools/pipeline/auto_ot.py --from-book genesis --from-chapter 1 --full
+```
+
+Full mode does not blindly accept a rewrite. Each Terra candidate must still
+pass the independent source-fidelity audit and the Spanish-flow check before
+it can replace the existing verse. No human approval state is recorded.
+
 Pull once before the pipeline starts, and only when the working tree permits
 it. Do not pull between chapters: the pipeline may have changed the tracked
 translation file. The runner does not commit, sign `STATUS.md`, align, or
@@ -108,8 +122,9 @@ publish. When it finishes, a person must review the chapters and reports
 before recording any human approval.
 
 The OT runner processes six independent verses concurrently by default.
-Each verse still follows the same Auto → lint → conditional Sonnet → Auto
-re-audit → Spanish-check sequence, and translation-file writes are serialized.
+Each verse still follows the same Auto → lint → Spanish check → conditional
+Terra → Auto re-audit → Spanish check sequence, and translation-file writes
+are serialized.
 Use `--workers 1` for the original serial behavior or a smaller value if the
 Cursor service throttles concurrent calls. Cursor calls retry transient
 timeouts, network failures, empty answers, and malformed JSON twice by default.

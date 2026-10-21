@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 12:4",
+  "chapter": 12,
+  "verse": 4,
+  "candidateLabel": "pulir",
+  "spanish": "Y treinta días y tres días se sentará en sangres de purificación; en toda santidad no tocará, y al santuario no vendrá hasta llenar días de su purificación.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03012004002"
+      ],
+      "issue": "יוֹם is singular; «días» pluralizes it so treinta can take a Spanish plural. The count remains thirty days.",
+      "spanishSpan": "treinta días"
+    }
+  ],
+  "notes": "3fs qal, plural sangres, the construct chains, and the infinitive llenar are preserved.",
+  "discardedUncitedFindings": 0
+}

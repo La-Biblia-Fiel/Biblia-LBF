@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 34:15",
+  "chapter": 34,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Dos de las tribus y mitad de la tribu tomaron su heredad desde otro lado al Yarden Yerijó hacia oriente, hacia salida del sol.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034015007",
+        "h04034015008"
+      ],
+      "issue": "מֵעֵבֶר לְיַרְדֵּן places the inheritance on the region-beyond relative to the Jordan. “desde otro lado al Yarden” resolves ל as allative and states a path from another side to the Jordan.",
+      "spanishSpan": "desde otro lado al Yarden"
+    }
+  ],
+  "notes": "Dual two of the tribes, half of the tribe, qal 3cp, their inheritance, juxtaposed Yerijó, and both directional nouns match the tokens.",
+  "discardedUncitedFindings": 0
+}

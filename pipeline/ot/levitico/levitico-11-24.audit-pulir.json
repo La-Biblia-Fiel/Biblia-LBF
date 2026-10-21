@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:24",
+  "chapter": 11,
+  "verse": 24,
+  "candidateLabel": "pulir",
+  "spanish": "Y a estos se impurificarán; todo el tocante en su cadáver se impurecerá hasta la tarde.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011024003",
+        "h03011024004"
+      ],
+      "issue": "«todo el» plus a singular noun can mean one whole toucher; כָּל with the definite participle is whoever touches.",
+      "spanishSpan": "todo el tocante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011024008"
+      ],
+      "issue": "In current Latin American Spanish «tarde» often means afternoon and does not securely mark evening.",
+      "spanishSpan": "tarde"
+    }
+  ],
+  "notes": "2mp hithpael matches the ustedes future; qal 3ms stays singular becoming-unclean.",
+  "discardedUncitedFindings": 0
+}

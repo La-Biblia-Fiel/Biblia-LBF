@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 24:10",
+  "chapter": 24,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y ardió nariz de Balaq a Bilam, y golpeó sus palmas, y dijo Balaq a Bilam: Para maldecir a mis enemigos te llamé, y he aquí bendiciendo bendijiste esto tres veces.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04024010002"
+      ],
+      "issue": "Lemma H639 licenses the noun as subject of the burning, but morph HTa marks an affirmation particle; 'nariz' adopts the noun and closes the particle reading.",
+      "spanishSpan": "nariz"
+    }
+  ],
+  "notes": "Person, piel cognate repetition, dual palms, and the other clauses stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

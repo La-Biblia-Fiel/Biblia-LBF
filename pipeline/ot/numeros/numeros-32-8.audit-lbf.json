@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:8",
+  "chapter": 32,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Así hicieron sus padres en enviarme a ellos desde Qadesh Barnéa para ver la tierra.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032008004",
+        "h04032008005"
+      ],
+      "issue": "The 1cs suffix on the qal infinitive is the sender and אתם is the direct object sent; Spanish makes the speaker the one sent and ellos the destination.",
+      "spanishSpan": "enviarme a ellos"
+    }
+  ],
+  "notes": "Así, hicieron, sus padres as ustedes address, desde Qadesh Barnéa, and para ver la tierra match the other tokens.",
+  "discardedUncitedFindings": 0
+}

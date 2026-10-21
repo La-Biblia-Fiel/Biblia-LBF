@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 20:24",
+  "chapter": 20,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Sea reunido Aarón a sus pueblos, porque no entrará a la tierra que di a hijos de Israel, sobre que amargaron mi boca en aguas de Meribá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04020024016",
+        "h04020024017",
+        "h04020024018"
+      ],
+      "issue": "Qal perfect 2mp of H4784 (rebel) is rendered amargaron (make bitter), a different verb with mi boca as its object.",
+      "spanishSpan": "amargaron mi boca"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04020024001"
+      ],
+      "issue": "Niphal imperfect 3ms is rendered as the jussive subjunctive Sea rather than an imperfect will-be-gathered.",
+      "spanishSpan": "Sea reunido"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04020024019"
+      ],
+      "issue": "The preposition lamed (to/at) is rendered en (in).",
+      "spanishSpan": "en"
+    }
+  ],
+  "notes": "Aarón, plural pueblos, Israel, and Meribá match the names and the plural of עַמָּיו.",
+  "discardedUncitedFindings": 0
+}

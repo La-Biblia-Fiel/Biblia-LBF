@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:19",
+  "chapter": 31,
+  "verse": 19,
+  "candidateLabel": "lbf",
+  "spanish": "Y ustedes, acampen a fuera al campamento siete días; todo matante alma, y todo tocante en el herido, se pecarán en el día el tercero y en el día el séptimo, ustedes y sus cautivos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031019013"
+      ],
+      "issue": "Hithpael imperfect 2mp of חטא licenses “purify/cleanse yourselves”; “se pecarán” is “will sin” and reverses the stem.",
+      "spanishSpan": "se pecarán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031019012"
+      ],
+      "issue": "חלל (2491a) is the slain/pierced; “herido” is a wounded person and omits the slain.",
+      "spanishSpan": "el herido"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04031019003",
+        "h04031019004"
+      ],
+      "issue": "מִחוּץ לְ is “outside the camp”; “a fuera al” is a calque that can be read as toward the camp.",
+      "spanishSpan": "a fuera al campamento"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04031019019"
+      ],
+      "issue": "שְׁבִי is singular (captivity/captives as a collective); “cautivos” is plural.",
+      "spanishSpan": "cautivos"
+    }
+  ],
+  "notes": "Ustedes verb endings match the 2mp address; the -án form is not a third-party shift.",
+  "discardedUncitedFindings": 0
+}

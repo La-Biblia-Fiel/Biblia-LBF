@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:42",
+  "chapter": 31,
+  "verse": 42,
+  "candidateLabel": "lbf",
+  "spanish": "Y desde mitad de hijos de Israel que partió Moisés desde los varones los guerreantes,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031042005",
+        "h04031042007"
+      ],
+      "issue": "חָצָה is qal perfect 3ms “divide/halve,” and מִן marks the group divided from. “partió … desde” reads as departure, adding leaving and dropping the licensed division.",
+      "spanishSpan": "partió Moisés desde"
+    }
+  ],
+  "notes": "The other tokens (half, sons of Israel, relative, Moses, the men, the warring participle) stay within the packet.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 25:15",
+  "chapter": 25,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y nombre de la mujer la herida, la midyanita: Kozbi hija de Tsur, cabeza de tribus de casa de padre en Midyán él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04025015009",
+        "h04025015010"
+      ],
+      "issue": "אֻמּוֹת is plural absolute, so it ends the construct headed by רֹאשׁ. “tribus de casa” makes that absolute govern בֵּית, which the morphology does not mark.",
+      "spanishSpan": "tribus de casa"
+    }
+  ],
+  "notes": "The other tokens match, including the final 3ms pronoun with no added copula.",
+  "discardedUncitedFindings": 0
+}

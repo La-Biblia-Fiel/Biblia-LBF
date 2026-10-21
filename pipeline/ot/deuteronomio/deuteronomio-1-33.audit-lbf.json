@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:33",
+  "chapter": 1,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "el andante delante de ustedes en el camino para explorar para ustedes lugar para acampar ustedes, en el fuego de noche para mostrarles en el camino que andarán en ella, y en la nube de día.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h05001033009"
+      ],
+      "issue": "Bare noun לילה is rendered as adverbial «de noche»; the preposition is grammatical smoothing and does not add a time concept.",
+      "spanishSpan": "de noche"
+    }
+  ],
+  "notes": "2mp suffixes and imperfect stay ustedes address; hiphil «mostrarles» keeps ב as «en»; 3fs «en ella» matches בה.",
+  "discardedUncitedFindings": 0
+}

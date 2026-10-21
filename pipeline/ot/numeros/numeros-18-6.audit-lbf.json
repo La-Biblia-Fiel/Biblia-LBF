@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:6",
+  "chapter": 18,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y yo, he aquí, tomé a sus hermanos los levitas desde medio de hijos de Israel; a ustedes don, dados a Jehová, para servir el servicio de tienda de reunión.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04018006016",
+        "h04018006018"
+      ],
+      "issue": "el hace definido el servicio; la cadena constructa no lleva artículo y מועד está en absoluto sin artículo",
+      "spanishSpan": "el servicio"
+    }
+  ],
+  "notes": "El resto coincide con los tokens: 2mp como ustedes/sus, don singular, dados en plural pasivo, cognados servir/servicio.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,87 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 11:3",
+  "chapter": 11,
+  "verse": 3,
+  "sourceDraft": "Todo partiente pezuña y hendiente hendidura de pezuñas, subiente cud en el animal, a ella comerán.",
+  "spanish": "Todo partiente pezuña y hendiente hendidura de pezuñas, subiente rumia en el animal, a ella comerán.",
+  "units": [
+    {
+      "es": "Todo",
+      "sourceTokenIds": [
+        "h03011003001"
+      ]
+    },
+    {
+      "es": "partiente",
+      "sourceTokenIds": [
+        "h03011003002"
+      ]
+    },
+    {
+      "es": "pezuña",
+      "sourceTokenIds": [
+        "h03011003003"
+      ]
+    },
+    {
+      "es": "y hendiente",
+      "sourceTokenIds": [
+        "h03011003004"
+      ]
+    },
+    {
+      "es": "hendidura",
+      "sourceTokenIds": [
+        "h03011003005"
+      ]
+    },
+    {
+      "es": "de pezuñas",
+      "sourceTokenIds": [
+        "h03011003006"
+      ]
+    },
+    {
+      "es": "subiente",
+      "sourceTokenIds": [
+        "h03011003007"
+      ]
+    },
+    {
+      "es": "rumia",
+      "sourceTokenIds": [
+        "h03011003008"
+      ]
+    },
+    {
+      "es": "en el animal",
+      "sourceTokenIds": [
+        "h03011003009"
+      ]
+    },
+    {
+      "es": "a ella",
+      "sourceTokenIds": [
+        "h03011003010"
+      ]
+    },
+    {
+      "es": "comerán",
+      "sourceTokenIds": [
+        "h03011003011"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Replaced the untranslated English word \"cud\" with the Spanish common noun \"rumia\" for H1625, per the cited fail.",
+    "Left \"subiente\" governing its object \"rumia\" unchanged: Spanish \"subir\" takes a direct object transitively, so subiente + rumia already carries the causative (hiphil) sense the warn questioned; no calque swap was needed."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Kept subiente + rumia as a transitive, causative reading of subir rather than rewording, since the auditor's concern was only that the calque weakly carried causative force, not that it named the wrong clause role.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

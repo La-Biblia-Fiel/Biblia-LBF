@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:16",
+  "chapter": 1,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y mandé a jueces de ustedes en el tiempo aquel, diciendo: Oigan entre hermanos de ustedes, y juzguen justicia entre varón y entre su hermano y entre su peregrino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001016017"
+      ],
+      "issue": "peregrino names a traveler or pilgrim; H1616 is the resident sojourner and does not license a journey or pilgrimage.",
+      "spanishSpan": "peregrino"
+    }
+  ],
+  "notes": "The other tokens match, including the repeated entre and the 2pl ustedes address.",
+  "discardedUncitedFindings": 0
+}

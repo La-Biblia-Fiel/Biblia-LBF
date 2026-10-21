@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:22",
+  "chapter": 23,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "El sacándolos desde Egipto; como fuerzas de reem a él.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023022001"
+      ],
+      "issue": "אֵל is a common noun (HNcmsa), not a proper noun. Capitalized El leaves it untranslated and adds a title.",
+      "spanishSpan": "El"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023022004"
+      ],
+      "issue": "H8443 is a feminine plural construct noun of eminence or lofty projection. fuerzas closes it as abstract force.",
+      "spanishSpan": "fuerzas"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023022005"
+      ],
+      "issue": "רְאֵם is a common noun (HNcmsa), not a proper name. reem leaves the lemma untranslated.",
+      "spanishSpan": "reem"
+    }
+  ],
+  "notes": "Hiphil participle plus 3mp, מִן plus Egipto, כְּ, construct plural, and ל plus 3ms are represented.",
+  "discardedUncitedFindings": 0
+}

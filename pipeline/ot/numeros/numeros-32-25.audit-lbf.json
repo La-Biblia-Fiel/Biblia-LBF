@@ -1,0 +1,34 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:25",
+  "chapter": 32,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijeron hijos de Gad e hijos de Rubén a Moisés, diciendo: Tus siervos harán como que señor mío manda.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032025010",
+        "h04032025011"
+      ],
+      "issue": "«como que» con «harán» lee el español actual como «hacer como que» (actuar como si / fingir) o como causa, y כאשר es comparación de manera: harán según lo que el señor manda.",
+      "spanishSpan": "como que"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032025001",
+        "h04032025002",
+        "h04032025004"
+      ],
+      "issue": "El verbo es qal secuencial 3ms y el español usa plural; los sujetos «hijos de Gad» e «hijos de Rubén» autorizan el acuerdo como alisado gramatical sin cambiar quién habla.",
+      "spanishSpan": "dijeron"
+    }
+  ],
+  "notes": "Señor en minúscula, Moisés, Gad y Rubén, y «tus siervos harán» en 3mp conservan los tokens.",
+  "discardedUncitedFindings": 0
+}

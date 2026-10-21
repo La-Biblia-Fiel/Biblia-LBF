@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:6",
+  "chapter": 11,
+  "verse": 6,
+  "candidateLabel": "pulir",
+  "spanish": "Y la liebre, porque levantadora rumia ella, y pezuña no la partió; impura ella a ustedes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011006004",
+        "h03011006005"
+      ],
+      "issue": "Hiphil participle מַעֲלַת governs the noun גֵּרָה. Juxtaposed “levantadora rumia” can be read with “rumia” as a finite verb, which replaces the cud-noun and leaves the participle without its object.",
+      "spanishSpan": "levantadora rumia"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011006007",
+        "h03011006009"
+      ],
+      "issue": "פַרְסָה is the singular thing divided by the 3fs verb. SVO “pezuña no la partió” can make the hoof the subject, and “la” doubles that noun as a clitic.",
+      "spanishSpan": "pezuña no la partió"
+    }
+  ],
+  "notes": "Liebre, both ella, singular pezuña, negation, impura, and a ustedes for the 2pl suffix match the tokens.",
+  "discardedUncitedFindings": 0
+}

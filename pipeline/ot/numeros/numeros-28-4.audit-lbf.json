@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:4",
+  "chapter": 28,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "El cordero el uno harás en la mañana, y el cordero el segundo harás entre las tardes.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04028004003"
+      ],
+      "issue": "Cardinal אחד is absolute and has no article; Spanish adds a definite article on uno.",
+      "spanishSpan": "el uno"
+    }
+  ],
+  "notes": "Dual הָעַרְבָּיִם is plural tardes with entre; 2ms harás matches both imperfects.",
+  "discardedUncitedFindings": 0
+}

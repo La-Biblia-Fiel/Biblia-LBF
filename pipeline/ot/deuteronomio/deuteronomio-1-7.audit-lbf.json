@@ -1,0 +1,55 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:7",
+  "chapter": 1,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Volteen faces y partan para ustedes, y entren a monte del amorreo y a todos sus vecinos, en la arabá, en el monte y en la shefelá y en el Neguev y en costa del mar, tierra del cananeo y el Lebanón, hasta el río el grande, río Perat.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001007001"
+      ],
+      "issue": "פְּנוּ is only the qal imperative 2mp turn. The Spanish adds the noun faces, which no token licenses.",
+      "spanishSpan": "faces"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001007010"
+      ],
+      "issue": "Common noun, feminine singular absolute, left as the transliteration arabá.",
+      "spanishSpan": "arabá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001007012"
+      ],
+      "issue": "H8219 is a common noun (feminine singular absolute), not a proper name. shefelá leaves that non-name lemma untranslated.",
+      "spanishSpan": "shefelá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001007013"
+      ],
+      "issue": "H5045 is a common noun (masculine singular absolute), not a proper name. Neguev leaves it untranslated and closes the open sense as a place name.",
+      "spanishSpan": "Neguev"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001007018"
+      ],
+      "issue": "Proper noun is Hebraized as Lebanón; the locked conventional form is Líbano.",
+      "spanishSpan": "Lebanón"
+    }
+  ],
+  "notes": "Ustedes imperatives, לכם, the singular gentilics, costa del mar, and río Perat stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:3",
+  "chapter": 16,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y se congregaron sobre Moisés y sobre Aarón, y dijeron a ellos: Bastante a ustedes, porque toda la congregación, todos ellos, santos, y en medio de ellos Jehová; y ¿por qué se alzan ustedes sobre asamblea de Jehová?",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016003008",
+        "h04016003009"
+      ],
+      "issue": "Bastante narrows the adjective רב (much/great/many) plus ל toward sufficiency.",
+      "spanishSpan": "Bastante a ustedes"
+    }
+  ],
+  "notes": "Verbless clauses, both כל phrases, both על, edah/qahal, and hithpael 2mp as ustedes stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,54 @@
+{
+  "model": "claude-sonnet-5",
+  "system": "You are Pulir, the Spanish polish layer for La Biblia Fiel.\n\nYou step in only when Cursor Auto, local lint, or the audit marked this\nverse questionable. A clean pass does not come to you. You do not draft\nfrom scratch.\n\nYou receive that draft and the source packet. Repair cited mismatches,\nthen grammar and flow. You do not translate from memory. You do not interpret.\n\nSPANISH: current Latin American (tú / ustedes), formal literary register.\nNever Spain vosotros (hagáis, veréis, mataréis, os). Never voseo.\nFor live birth: dar a luz, never archaic parir. Do not polish dar a luz\nback to parir.\nIf the draft used vosotros, change those verbs to ustedes. Do not the reverse.\n\nMODEL: You must behave as Claude Sonnet 5. Do not switch roles.\n\nFREEZE — do not change:\n- participants / who acts on whom\n- number (dual stays stones: las piedras / las dos piedras, never a stool,\n  el sexo, or entre las piernas)\n- person and stem force (qal 3fs \"she shall live\" stays vivirá, not que viva;\n  2pl stays Latin American ustedes, never vosotros)\n- conjunction sense\n- draft uncertainties\n- locked proper names (translation/PROPER_NAMES.md; keep Judá/Egipto/José\n  when locked; do not Hebraize to Yehudá/Mizraim/Yosef; do not dump\n  Mitsráyim/Elohím; do not turn Javán into Grecia in running text)\n\nALLOWED:\n- grammar, agreement, punctuation, sequence of tenses\n- word order required by Spanish\n- replacing a calque with the same licensed sense\n- a supplied copula, written in italics and nowhere else: *son*\n- one grammatical choice when a singular head noun and a plural\n  participle cannot both be kept. Put that choice in readerNote. Do not\n  leave the line unchanged to avoid the choice.\n\nLEAVE ON HOLD — do not repair these:\n- clause role, participants, who acts on whom\n- which noun a preposition governs\n- an את object treated as a לְ beneficiary\n\nIf the cited problem is one of those, return the draft Spanish unchanged.\nSet readerNote to \"hold: clause role\" and one sentence naming the role.\nThe human reads that verse in the translator. You do not get another turn.\n\nFORBIDDEN:\n- theology, other Bible versions, AHRC overriding the freeze\n- adding concepts, dropping units, resolving ambiguity\n- writing translation/*.md or STATUS.md\n\nKeep the draft's sourceTokenIds on each unit. Change only the Spanish.\n\nReturn JSON only:\n{\n  \"schema\": \"lbf-sonnet-polish-v1\",\n  \"book\": \"<slug>\",\n  \"chapter\": 0,\n  \"verse\": 0,\n  \"spanish\": \"...\",\n  \"units\": [{\"es\": \"...\", \"sourceTokenIds\": [\"h02001016007\"]}],\n  \"grammarChanges\": [\"...\"],\n  \"meaningChanges\": [],\n  \"readerNote\": \"\"\n}\nmeaningChanges must be empty.\nreaderNote is one sentence for the human reader, or empty. Use it when\nyou chose between two grammatical Spanish options, or when you marked a\nsupplied word. For a clause-role hold, start it with \"hold: clause role\".",
+  "user": "This verse is questionable. Repair only cited mismatches and grammar. Do not interpret. JSON only.\n\n{\"task\":\"polish-spanish-only\",\"freeze\":[\"Keep participants and who acts on whom.\",\"Keep number; dual stones stay stones, never a seat or stool.\",\"Keep stem force; vivirá stays vivirá.\",\"Do not turn auditor warnings into interpretive rewrites.\",\"A supplied copula is italics, *son*, not a rewrite.\",\"If the warn is only singular-head versus plural-participle agreement, choose the grammatical Spanish and fill readerNote.\",\"If the problem is clause role, participants, or which noun a preposition governs, return the Spanish unchanged and set readerNote to hold: clause role.\",\"Auditor fail: אֵל is a common noun (HNcmsa), not a proper noun. Capitalized El leaves it untranslated and adds a title. [El]\",\"Auditor fail: Qal imperfect of H2194 is rendered with causative airar: qué is the one made angry, not the target of the speaker’s qal indignation. [airaré]\",\"Auditor fail: Qal perfect 3ms has no object suffix. Transitive airó is causative and implies a patient the morphology does not mark. [airó]\",\"Auditor warn: H5344 and H6895 are different lemmas; both are rendered with maldecir, so the lexical distinction is flattened. [maldeciré / maldijo]\",\"Auditor warn: Yiqtol is fixed as Spanish future; the imperfect does not itself mark future time. [maldeciré]\"],\"draft\":{\"spanish\":\"¿Qué maldeciré? No lo maldijo El. ¿Y qué airaré? No airó Jehová.\",\"units\":[],\"uncertainties\":[]},\"grokAudit\":{\"verdict\":\"fail\",\"findings\":[{\"severity\":\"fail\",\"sourceTokenIds\":[\"h04023008005\"],\"issue\":\"אֵל is a common noun (HNcmsa), not a proper noun. Capitalized El leaves it untranslated and adds a title.\",\"spanishSpan\":\"El\"},{\"severity\":\"fail\",\"sourceTokenIds\":[\"h04023008007\"],\"issue\":\"Qal imperfect of H2194 is rendered with causative airar: qué is the one made angry, not the target of the speaker’s qal indignation.\",\"spanishSpan\":\"airaré\"},{\"severity\":\"fail\",\"sourceTokenIds\":[\"h04023008009\"],\"issue\":\"Qal perfect 3ms has no object suffix. Transitive airó is causative and implies a patient the morphology does not mark.\",\"spanishSpan\":\"airó\"},{\"severity\":\"warn\",\"sourceTokenIds\":[\"h04023008002\",\"h04023008004\"],\"issue\":\"H5344 and H6895 are different lemmas; both are rendered with maldecir, so the lexical distinction is flattened.\",\"spanishSpan\":\"maldeciré / maldijo\"},{\"severity\":\"warn\",\"sourceTokenIds\":[\"h04023008002\"],\"issue\":\"Yiqtol is fixed as Spanish future; the imperfect does not itself mark future time.\",\"spanishSpan\":\"maldeciré\"}],\"notes\":\"lo matches the 3ms suffix on קבה; Jehová matches יהוה; H2194 is repeated in the second clause.\"},\"packet\":{\"schema\":\"lbf-source-packet-v1\",\"book\":\"numeros\",\"label\":\"Números\",\"testament\":\"ot\",\"textualBasis\":\"OSHB/WLC\",\"reference\":\"Números 23:8\",\"chapter\":23,\"verse\":8,\"oshbOsis\":\"Num.23.8\",\"allowedSources\":[\"OSHB/WLC\",\"paleo-hebrew\",\"AHRC-nonbinding\"],\"forbiddenSources\":[\"memory\",\"theology\",\"RV1909\",\"BLE-gloss\",\"other-versions\"],\"tokens\":[{\"sourceTokenId\":\"h04023008001\",\"oshbId\":\"04e7R\",\"position\":1,\"surface\":\"מָ֣ה\",\"paleo\":\"𐤌𐤄\",\"lemma\":\"4100\",\"strongs\":\"H4100\",\"morph\":\"HTi\",\"morphExpanded\":\"Hebrew; particle\"},{\"sourceTokenId\":\"h04023008002\",\"oshbId\":\"04gmT\",\"position\":2,\"surface\":\"אֶקֹּ֔ב\",\"paleo\":\"𐤀𐤒𐤁\",\"lemma\":\"5344 a\",\"strongs\":\"H5344\",\"morph\":\"HVqi1cs\",\"morphExpanded\":\"Hebrew; qal imperfect 1st common singular\"},{\"sourceTokenId\":\"h04023008003\",\"oshbId\":\"04rjP\",\"position\":3,\"surface\":\"לֹ֥א\",\"paleo\":\"𐤋𐤀\",\"lemma\":\"3808\",\"strongs\":\"H3808\",\"morph\":\"HTn\",\"morphExpanded\":\"Hebrew; negative\"},{\"sourceTokenId\":\"h04023008004\",\"oshbId\":\"041TU\",\"position\":4,\"surface\":\"קַבֹּ֖ה\",\"paleo\":\"𐤒𐤁𐤄\",\"lemma\":\"6895\",\"strongs\":\"H6895\",\"morph\":\"HVqp3ms/Sp3ms\",\"morphExpanded\":\"Hebrew; qal perfect 3rd masculine singular; suffix 3rd masculine singular\"},{\"sourceTokenId\":\"h04023008005\",\"oshbId\":\"04meA\",\"position\":5,\"surface\":\"אֵ֑ל\",\"paleo\":\"𐤀𐤋\",\"lemma\":\"410\",\"strongs\":\"H410\",\"morph\":\"HNcmsa\",\"morphExpanded\":\"Hebrew; noun common masculine singular absolute\"},{\"sourceTokenId\":\"h04023008006\",\"oshbId\":\"04HXd\",\"position\":6,\"surface\":\"וּמָ֣ה\",\"paleo\":\"𐤅𐤌𐤄\",\"lemma\":\"c/4100\",\"strongs\":\"H4100\",\"morph\":\"HC/Ti\",\"morphExpanded\":\"Hebrew; conjunction; particle\"},{\"sourceTokenId\":\"h04023008007\",\"oshbId\":\"04mqX\",\"position\":7,\"surface\":\"אֶזְעֹ֔ם\",\"paleo\":\"𐤀𐤆𐤏𐤌\",\"lemma\":\"2194\",\"strongs\":\"H2194\",\"morph\":\"HVqi1cs\",\"morphExpanded\":\"Hebrew; qal imperfect 1st common singular\"},{\"sourceTokenId\":\"h04023008008\",\"oshbId\":\"0471a\",\"position\":8,\"surface\":\"לֹ֥א\",\"paleo\":\"𐤋𐤀\",\"lemma\":\"3808\",\"strongs\":\"H3808\",\"morph\":\"HTn\",\"morphExpanded\":\"Hebrew; negative\"},{\"sourceTokenId\":\"h04023008009\",\"oshbId\":\"043Ep\",\"position\":9,\"surface\":\"זָעַ֖ם\",\"paleo\":\"𐤆𐤏𐤌\",\"lemma\":\"2194\",\"strongs\":\"H2194\",\"morph\":\"HVqp3ms\",\"morphExpanded\":\"Hebrew; qal perfect 3rd masculine singular\"},{\"sourceTokenId\":\"h04023008010\",\"oshbId\":\"04Lox\",\"position\":10,\"surface\":\"יְהוָֽה\",\"paleo\":\"𐤉𐤄𐤅𐤄\",\"lemma\":\"3068\",\"strongs\":\"H3068\",\"morph\":\"HNp\",\"morphExpanded\":\"Hebrew; noun proper\"}]}}",
+  "replyPath": "/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/numeros/numeros-23-8.polish-sonnet5.reply.json",
+  "book": "numeros",
+  "chapter": 23,
+  "verse": 8,
+  "why": "questionable",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023008005"
+      ],
+      "issue": "אֵל is a common noun (HNcmsa), not a proper noun. Capitalized El leaves it untranslated and adds a title.",
+      "spanishSpan": "El"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023008007"
+      ],
+      "issue": "Qal imperfect of H2194 is rendered with causative airar: qué is the one made angry, not the target of the speaker’s qal indignation.",
+      "spanishSpan": "airaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023008009"
+      ],
+      "issue": "Qal perfect 3ms has no object suffix. Transitive airó is causative and implies a patient the morphology does not mark.",
+      "spanishSpan": "airó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023008002",
+        "h04023008004"
+      ],
+      "issue": "H5344 and H6895 are different lemmas; both are rendered with maldecir, so the lexical distinction is flattened.",
+      "spanishSpan": "maldeciré / maldijo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023008002"
+      ],
+      "issue": "Yiqtol is fixed as Spanish future; the imperfect does not itself mark future time.",
+      "spanishSpan": "maldeciré"
+    }
+  ],
+  "instruction": "You may mark a supplied copula in italics and you may choose the Spanish when a singular head noun disagrees with a plural participle. Record that choice in readerNote. If the problem is clause role, participants, or which noun a preposition governs, return the Spanish unchanged and set readerNote to 'hold: clause role'. Do not repair that verse."
+}

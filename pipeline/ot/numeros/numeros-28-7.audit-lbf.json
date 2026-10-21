@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:7",
+  "chapter": 28,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Y su libación cuarto del hin al cordero el uno; en la santidad derrama libación de sicera a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028007007"
+      ],
+      "issue": "Hiphil infinitive absolute has no person or finite mood; «derrama» is 3rd-person singular present and adds a pourer.",
+      "spanishSpan": "derrama"
+    }
+  ],
+  "notes": "The nominal chain, articles, 3ms suffix, and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

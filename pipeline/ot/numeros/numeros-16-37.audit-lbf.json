@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:37",
+  "chapter": 16,
+  "verse": 37,
+  "candidateLabel": "lbf",
+  "spanish": "Di a Elazar hijo de Aarón el sacerdote, y alce los braseros desde entre la quema, y el fuego esparce más allá, porque se santificaron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04016037012",
+        "h04016037013",
+        "h04016037014"
+      ],
+      "issue": "זְרֵה is qal imperative 2ms and הָאֵשׁ is its object; «el fuego esparce» makes the fire the 3rd-person scatterer.",
+      "spanishSpan": "el fuego esparce"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016037017"
+      ],
+      "issue": "Qal perfect 3cp of קדש is a state (they are/became holy); «se santificaron» can be read as reflexive self-sanctifying.",
+      "spanishSpan": "se santificaron"
+    }
+  ],
+  "notes": "Di, Elazar hijo de Aarón el sacerdote, y alce los braseros desde entre la quema, and más allá match the tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -14,9 +14,40 @@
     20
   ],
   "drafted": [],
-  "repaired": [],
+  "repaired": [
+    3,
+    5,
+    6,
+    9,
+    12,
+    13,
+    16
+  ],
   "repairedWithWarn": [],
   "parked": [
+    {
+      "verse": 1,
+      "notes": "clause role",
+      "spanish": "Y tomaron hijos de Aarón, Nadav y Avihú, varón su brasero, y dieron en ellos fuego, y pusieron sobre él incienso, y acercaron delante de Jehová fuego extraño, que no mandó a ellos.",
+      "findings": []
+    },
+    {
+      "verse": 4,
+      "notes": "spanish check",
+      "spanish": "Y llamó Moisés a Mishael y a Eltsafán, hijos de Uziel, tío de Aarón, y dijo a ellos: Acérquense, alcen a sus hermanos de con faces de la santidad a fuera al campamento.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«de con» no es una preposición del español actual; el lector no reconoce esa construcción",
+          "spanishSpan": "de con"
+        },
+        {
+          "severity": "fail",
+          "issue": "«faces» no es una palabra reconocible del español actual",
+          "spanishSpan": "faces"
+        }
+      ]
+    },
     {
       "verse": 17,
       "notes": "clause role",
@@ -57,54 +88,47 @@
           "spanishSpan": "delante de"
         }
       ]
-    }
-  ],
-  "errors": [
-    {
-      "verse": 1,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $252 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 3,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $251 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 4,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $252 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 5,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $252 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 6,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $251 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 9,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $252 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 12,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $252 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 13,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $253 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 16,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $252 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
     },
     {
       "verse": 19,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $253 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+      "notes": "clause role",
+      "spanish": "Y habló Aarón a Moisés: He aquí hoy acercaron su pecado y su holocausto delante de Jehová, y me han hallado como estas, y comí pecado hoy; ¿será bueno en ojos de Jehová?",
+      "findings": []
     }
   ],
+  "errors": [],
   "readerNotes": [
+    {
+      "verse": 1,
+      "note": "hold: clause role — who takes whom in 'tomaron hijos de Aarón ... varón su brasero' and which noun 'en ellos' refers to (the censers, not the sons) are clause-role and preposition-reference questions left for the human reader; the Spanish is returned unchanged."
+    },
+    {
+      "verse": 3,
+      "note": "The copula *es* is supplied; the Hebrew clause הוא אשר has no verb 'to be'."
+    },
+    {
+      "verse": 4,
+      "note": "«de con» no es una preposición del español actual; el lector no reconoce esa construcción; «faces» no es una palabra reconocible del español actual"
+    },
+    {
+      "verse": 6,
+      "note": "Chose 'toda la casa de Israel' over the ambiguous 'toda casa de Israel' to keep the construct-chain sense (the whole house) rather than a distributive 'every house' reading."
+    },
+    {
+      "verse": 9,
+      "note": "Se cambió «su» por «de ustedes» en «el entrar de ustedes» porque el sufijo 2mp nombra a los destinatarios (tú y tus hijos), no a un tercero."
+    },
+    {
+      "verse": 16,
+      "note": "Chose the preterite passive 'fue quemado' (rather than pluperfect 'había sido quemado') to supply the missing auxiliary for the Pual perfect without shifting the verse's tense framing."
+    },
     {
       "verse": 17,
       "note": "hold: clause role"
+    },
+    {
+      "verse": 19,
+      "note": "hold: clause role: whether the feminine-plural subject of וַתִּקְרֶאנָה is \"such things\" befalling the speaker as object, or the draft's continuation of the common-plural agents from acercaron as the ones who found him, is a who-acts-on-whom choice, not a grammar fix."
     }
   ]
 }

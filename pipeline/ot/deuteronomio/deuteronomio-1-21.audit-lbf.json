@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:21",
+  "chapter": 1,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Ve: dio Jehová tu Dios delante de ti la tierra; sube, hereda, como que habló Jehová Dios de tus padres a ti; no temas y no te quebrantes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001021010"
+      ],
+      "issue": "«como que» en español latinoamericano actual marca apariencia o atenuación («como si» / «medio que»); כַּאֲשֶׁר es preposición más relativo de correspondencia («como» / «según»). El español añade fuerza hipotética o de reserva que el token no licencia.",
+      "spanishSpan": "como que"
+    }
+  ],
+  "notes": "Lo demás conserva los imperativos, el perfecto, ambos Jehová, la tierra y las dos prohibiciones.",
+  "discardedUncitedFindings": 0
+}

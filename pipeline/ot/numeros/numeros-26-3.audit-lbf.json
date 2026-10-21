@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:3",
+  "chapter": 26,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "Y habló Moisés y Eleazar el sacerdote a ellos en arábot de Moab, sobre Jordán Yerijó, diciendo:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04026003006"
+      ],
+      "issue": "Common noun feminine plural construct (H6160) is left untranslated as arábot; common nouns stay Spanish.",
+      "spanishSpan": "arábot"
+    }
+  ],
+  "notes": "Verb, participants, names, על, and לאמר match the tokens.",
+  "discardedUncitedFindings": 0
+}

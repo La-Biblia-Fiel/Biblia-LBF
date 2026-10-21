@@ -1,0 +1,74 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 34:4",
+  "chapter": 34,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y rodeará a ustedes el límite desde el Neguev a Maalé Aqrabim, y pasará a Tsin, y serán sus salidas desde el Neguev a Qadesh Barnéa, y saldrá a Hatsar Adar, y pasará a Atsmoná.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034004001",
+        "h04034004002"
+      ],
+      "issue": "Niphal 3ms of H5437 turns or is turned; לָכֶם is to or for you. «rodeará a ustedes» makes the border surround the addressees.",
+      "spanishSpan": "rodeará a ustedes"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034004004"
+      ],
+      "issue": "H5045 is a common noun (south / south-country / Negeb), not a proper name. «Neguev» leaves it untranslated and closes the open sense as a place name.",
+      "spanishSpan": "el Neguev"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034004005",
+        "h04034004006"
+      ],
+      "issue": "לְמַעֲלֵה is a common noun in construct (ascent of); only עַקְרַבִּים is the proper name. «Maalé» is an untranslated common noun fused into the name.",
+      "spanishSpan": "Maalé Aqrabim"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034004009"
+      ],
+      "issue": "Verbless clause (its outgoings from … to …). «y serán» adds an unmarked conjunction and an unmarked future copula.",
+      "spanishSpan": "y serán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034004010"
+      ],
+      "issue": "H5045 is again a common noun left untranslated as the place name «Neguev».",
+      "spanishSpan": "el Neguev"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04034004014",
+        "h04034004015"
+      ],
+      "issue": "חֲצַר אַדָּר has no preposition and no directional suffix. «a» is supplied so salir can take the place; Tsin and Atsmon are the tokens that mark direction.",
+      "spanishSpan": "a Hatsar Adar"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04034004017"
+      ],
+      "issue": "The directional suffix is already carried by «a»; «Atsmoná» also keeps that he in the name.",
+      "spanishSpan": "Atsmoná"
+    }
+  ],
+  "notes": "Plural salidas, 3ms border verbs, and ustedes for the 2mp suffix match the tokens.",
+  "discardedUncitedFindings": 0
+}

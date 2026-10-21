@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 24:13",
+  "chapter": 24,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Si me diera Balaq lleno su casa plata y oro, no podría traspasar boca de Jehová para hacer buena o mala desde mi corazón; lo que hable Jehová, a ello hablaré?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024013020",
+        "h04024013021",
+        "h04024013022",
+        "h04024013023",
+        "h04024013024"
+      ],
+      "issue": "The relative clause is an assertion (what Jehová speaks, I will speak it). No interrogative token licenses the final question mark.",
+      "spanishSpan": "lo que hable Jehová, a ello hablaré?"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04024013005",
+        "h04024013006"
+      ],
+      "issue": "Construct noun מְלֹא בֵיתוֹ is “fullness of his house.” “lleno su casa” leaves that link unmarked, so “lleno” can attach to Balaq.",
+      "spanishSpan": "lleno su casa"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04024013002",
+        "h04024013010"
+      ],
+      "issue": "Qal imperfects are rendered as subjunctive “diera” and conditional “podría,” shifting the open condition toward a counterfactual.",
+      "spanishSpan": "diera … podría"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04024013018"
+      ],
+      "issue": "רָעָה is a feminine noun rendered as the adjective “mala,” parallel to the adjective טוֹבָה.",
+      "spanishSpan": "mala"
+    }
+  ],
+  "notes": "Jehová, Balaq, boca, plata y oro, and the 1cs/3ms speakers match the tokens.",
+  "discardedUncitedFindings": 0
+}

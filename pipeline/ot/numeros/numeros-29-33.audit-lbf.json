@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:33",
+  "chapter": 29,
+  "verse": 33,
+  "candidateLabel": "lbf",
+  "spanish": "Y su minjá y sus libaciones a los toros, a los carneros y a los corderos, en su número, conforme a su juicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029033001"
+      ],
+      "issue": "minjá dumps the common noun H4503 untranslated; common nouns stay Spanish",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Remaining tokens match: singular offering, plural libations, ל on each animal, 3mp suffixes, bet+number, kaph+judgment.",
+  "discardedUncitedFindings": 0
+}

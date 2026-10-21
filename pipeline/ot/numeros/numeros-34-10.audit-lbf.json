@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 34:10",
+  "chapter": 34,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y señalarán a ustedes a límite hacia oriente desde Hatsar Einán a Shefamá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034010001"
+      ],
+      "issue": "H184 hithpael (sequential perfect 2mp) licenses desire or longing; señalarán substitutes an unlicensed marking sense and closes that openness.",
+      "spanishSpan": "señalarán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04034010007"
+      ],
+      "issue": "The directional suffix is translated by a and also absorbed into the proper name Shefamá.",
+      "spanishSpan": "a Shefamá"
+    }
+  ],
+  "notes": "a ustedes, límite, hacia oriente, and desde Hatsar Einán follow their tokens; señalarán is the ustedes 2pl form.",
+  "discardedUncitedFindings": 0
+}

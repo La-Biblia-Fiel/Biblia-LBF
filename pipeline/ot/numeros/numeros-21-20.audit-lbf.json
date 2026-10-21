@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:20",
+  "chapter": 21,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "y desde Bamot el valle que en campo de Moab, cabeza de la Pisgá, y mira sobre faces del Yeshimón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021020011"
+      ],
+      "issue": "Definite common noun (Ncmsa) is Hebraized and capitalized as the proper name Yeshimón; the token licenses a Spanish common noun.",
+      "spanishSpan": "Yeshimón"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04021020008"
+      ],
+      "issue": "Niphal feminine singular participle is smoothed to the finite verb mira.",
+      "spanishSpan": "mira"
+    }
+  ],
+  "notes": "Bamot, Moab, and la Pisgá match the proper-noun tokens; faces keeps the plural construct.",
+  "discardedUncitedFindings": 0
+}

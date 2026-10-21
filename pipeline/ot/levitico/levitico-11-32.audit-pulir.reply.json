@@ -1,0 +1,44 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011032001",
+        "h03011032002",
+        "h03011032003",
+        "h03011032004",
+        "h03011032005",
+        "h03011032007"
+      ],
+      "issue": "Spanish makes «todo lo que» the thing that falls onto a separate «él». יִפֹּל is qal imperfect 3ms with no subject pronoun; מֵהֶם is only the plural source, and the 3ms suffix on עָלָיו resumes כֹּל as what is fallen upon and what יִטְמָא makes unclean.",
+      "spanishSpan": "todo lo que cayere sobre él desde ellos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011032006"
+      ],
+      "issue": "בְּמֹתָם is a singular noun with a 3mp suffix, their death, the same plural as מֵהֶם. «su» can be read as singular «él».",
+      "spanishSpan": "en su muerte"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011032007",
+        "h03011032025"
+      ],
+      "issue": "Qal is a stative be/become unclean; pronominal se impurecerá is inchoative smoothing and can sound reflexive, without a new actor or a causative stem.",
+      "spanishSpan": "se impurecerá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011032027"
+      ],
+      "issue": "Definite עֶרֶב is evening; la tarde in current Latin American Spanish often means afternoon, so the time limit is slightly uncertain.",
+      "spanishSpan": "la tarde"
+    }
+  ],
+  "notes": "The article list, niphal work-in-them, hophal brought into the waters, and qal stative puro stay inside the tokens."
+}

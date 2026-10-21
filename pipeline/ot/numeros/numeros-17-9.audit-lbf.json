@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 17:9",
+  "chapter": 17,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y sacó Moisés todas las varas de delante de Jehová a todos hijos de Israel, y vieron, y tomaron varón su vara.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04017009013",
+        "h04017009014",
+        "h04017009015"
+      ],
+      "issue": "The plural qal takes the staff as its object, and singular איש distributes the taker (each man his staff). Spanish puts varón in the object slot, so the man is what they took rather than each man taking his own staff.",
+      "spanishSpan": "tomaron varón su vara"
+    }
+  ],
+  "notes": "The rest matches: hiphil sacó, Moisés, todas las varas, de delante de Jehová, a todos hijos de Israel, y vieron.",
+  "discardedUncitedFindings": 0
+}

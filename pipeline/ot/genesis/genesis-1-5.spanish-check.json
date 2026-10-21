@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "Cursor Auto",
+  "book": "genesis",
+  "chapter": 1,
+  "verse": 5,
+  "spanish": "Y llamó Dios a la luz día, y a la oscuridad llamó noche. Y fue tarde, y fue mañana: día uno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Without the article, «fue tarde» is read as “it was late,” not as the noun “evening.”",
+      "spanishSpan": "fue tarde"
+    },
+    {
+      "severity": "fail",
+      "issue": "Without the article, «fue mañana» is read as “tomorrow,” not as the noun “morning.”",
+      "spanishSpan": "fue mañana"
+    }
+  ],
+  "notes": ""
+}

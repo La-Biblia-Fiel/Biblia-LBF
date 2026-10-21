@@ -1,0 +1,20 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 13:23",
+  "chapter": 13,
+  "verse": 23,
+  "sourceDraft": "Y si debajo de ella se parare la mancha, no se extendió, cicatriz de la úlcera ella, y lo purificará el sacerdote.",
+  "spanish": "Y si debajo de ella permaneciere la mancha brillante, no se extendió, cicatriz de la úlcera ella, y lo purificará el sacerdote.",
+  "units": [],
+  "grammarChanges": [
+    "mancha → mancha brillante (sourceTokenIds h03013023004), porque בַּהֶרֶת (H934) es una mancha brillante/resplandor, y «mancha» sola perdía el matiz de brillo señalado por el fail del auditor.",
+    "se parare → permaneciere (sourceTokenIds h03013023003), porque תַּעֲמֹד es qal imperfecto 3fs de \"permanecer/estar en su lugar\", y «se parare» añadía un matiz reflexivo-medio que inclinaba hacia \"detenerse\", según el warn del auditor."
+  ],
+  "meaningChanges": [],
+  "readerNote": "Se repararon las dos coincidencias citadas por el auditor: «mancha» pasó a «mancha brillante» para H934, y «se parare» pasó a «permaneciere» para quitar el matiz de detenerse en תַּעֲמֹד.",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:32",
+  "chapter": 16,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y abrió la tierra su boca, y los tragó a ellos y a sus casas, y a todo el adam que a Córaj, y a todo el bien.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04016032011"
+      ],
+      "issue": "הָאָדָם is a common noun (H120), left as the untranslated lemma adam.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016032016"
+      ],
+      "issue": "הָרֲכוּשׁ (H7399) is property; el bien can be read as abstract good.",
+      "spanishSpan": "el bien"
+    }
+  ],
+  "notes": "que a Córaj leaves אשר ל open without an unmarked copula.",
+  "discardedUncitedFindings": 0
+}

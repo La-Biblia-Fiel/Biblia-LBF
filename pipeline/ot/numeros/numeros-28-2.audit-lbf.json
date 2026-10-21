@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:2",
+  "chapter": 28,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Manda a hijos de Israel, y dirás a ellos: Mi ofrenda, mi pan a mis ofrendas de fuego, olor de mi reposo, guardarán para acercar a mí en su tiempo señalado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028002011",
+        "h04028002012"
+      ],
+      "issue": "ריח ניחחי is an odor with a soothing/quieting quality. «olor de mi reposo» turns that quality into rest as the thing smelled.",
+      "spanishSpan": "olor de mi reposo"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028002016"
+      ],
+      "issue": "מועד remains open among appointed time, place, and meeting. «tiempo señalado» resolves it to a designated time.",
+      "spanishSpan": "tiempo señalado"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04028002013",
+        "h04028002014"
+      ],
+      "issue": "«para» marks purpose. The preposition on the hiphil infinitive can instead complete שמר as observe-to-bring-near.",
+      "spanishSpan": "para acercar"
+    }
+  ],
+  "notes": "2ms צו/ואמרת and 2mp תשמרו as guardarán (ustedes) keep the sons of Israel as the addressees.",
+  "discardedUncitedFindings": 0
+}

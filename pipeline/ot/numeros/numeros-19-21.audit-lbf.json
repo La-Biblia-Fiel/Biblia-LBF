@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:21",
+  "chapter": 19,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y será a ellos a estatuto de siempre; y el rociante aguas de la nidá lavará sus vestidos, y el tocante en aguas de la nidá se impurecerá hasta la tarde.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019021007",
+        "h04019021012"
+      ],
+      "issue": "הַנִּדָּה is a common noun (H5079), not a name; «nidá» leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "la nidá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04019021013"
+      ],
+      "issue": "Qal imperfect 3ms is a stative/inchoative «be/become unclean»; «se impurecerá» is pronominal smoothing and does not change the participant.",
+      "spanishSpan": "se impurecerá"
+    }
+  ],
+  "notes": "Remaining clauses match the tokens in person, number, and participants.",
+  "discardedUncitedFindings": 0
+}

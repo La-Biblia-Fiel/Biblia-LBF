@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:24",
+  "chapter": 22,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Y se paró mensajero de Jehová en senda de las viñas, muro desde aquí y muro desde aquí.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022024007",
+        "h04022024009"
+      ],
+      "issue": "מִזֶּה is preposition + demonstrative masculine singular («from this»); «desde aquí» turns that demonstrative into a place adverb.",
+      "spanishSpan": "desde aquí"
+    }
+  ],
+  "notes": "Other tokens match: qal 3ms stand, messenger of Jehová, path of the vineyards, wall and wall.",
+  "discardedUncitedFindings": 0
+}

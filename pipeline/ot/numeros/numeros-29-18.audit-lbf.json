@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:18",
+  "chapter": 29,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y su minjá y sus libaciones a los toros, a los carneros y a los corderos, en su número, conforme al juicio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029018001"
+      ],
+      "issue": "minjá leaves the common noun (H4503, feminine singular) untranslated; common nouns stay Spanish",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Number, suffixes, ל-phrases, and כמשפט otherwise match the tokens.",
+  "discardedUncitedFindings": 0
+}

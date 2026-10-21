@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 33:54",
+  "chapter": 33,
+  "verse": 54,
+  "candidateLabel": "lbf",
+  "spanish": "Y heredarán la tierra en suerte a sus familias: al mucho aumentarán su heredad, y al poco disminuirán su heredad; a donde saliere a él allá la suerte, a él será; a tribus de sus padres heredarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04033054011"
+      ],
+      "issue": "Hiphil imperfect is 2nd person masculine singular; Spanish uses the plural disminuirán.",
+      "spanishSpan": "disminuirán"
+    }
+  ],
+  "notes": "2mp forms match ustedes verbs and su/sus; only the singular verb is leveled to plural.",
+  "discardedUncitedFindings": 0
+}

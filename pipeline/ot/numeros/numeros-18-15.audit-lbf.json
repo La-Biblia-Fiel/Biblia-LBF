@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:15",
+  "chapter": 18,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Todo abriente de matriz a toda carne que acercarán a Jehová, en el adam y en la bestia, será a ti; solo redimiendo redimirás el primogénito del adam, y el primogénito de la bestia la impura redimirás.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04018015009",
+        "h04018015018"
+      ],
+      "issue": "אדם is a common noun (human), parallel to beast, not a proper name; adam leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "el adam; del adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04018015013"
+      ],
+      "issue": "אך is tagged affirmation; solo narrows it to a restrictive only.",
+      "spanishSpan": "solo"
+    }
+  ],
+  "notes": "פדה תפדה stays emphatic redimiendo redimirás; the second תפדה stays plain redimirás.",
+  "discardedUncitedFindings": 0
+}

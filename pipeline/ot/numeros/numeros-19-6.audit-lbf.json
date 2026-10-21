@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:6",
+  "chapter": 19,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomará el sacerdote madera de erez y ezov y carmesí de tolaat, y arrojará a medio de quema de la vaca.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019006004"
+      ],
+      "issue": "Nombre común אֶרֶז vertido sin traducir como erez; los nombres comunes van en español.",
+      "spanishSpan": "erez"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019006005"
+      ],
+      "issue": "Nombre común אֵזוֹב vertido sin traducir como ezov; los nombres comunes van en español.",
+      "spanishSpan": "ezov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019006007"
+      ],
+      "issue": "Nombre común תּוֹלַעַת vertido sin traducir como tolaat; omite el concepto del gusano y deja el lema en hebreo.",
+      "spanishSpan": "tolaat"
+    }
+  ],
+  "notes": "Tomará, sacerdote, madera, carmesí, arrojará, a medio de quema y la vaca siguen número, persona y relaciones del paquete.",
+  "discardedUncitedFindings": 0
+}

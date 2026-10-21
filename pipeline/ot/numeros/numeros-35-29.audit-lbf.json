@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:29",
+  "chapter": 35,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y serán estas a ustedes a estatuto de juicio a generaciones de ustedes en todas sus moradas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04035029002"
+      ],
+      "issue": "estas fija género femenino; אלה es demostrativo común plural y no marca femenino",
+      "spanishSpan": "estas"
+    }
+  ],
+  "notes": "El plural de ustedes y sus se leen como la 2mp del paquete.",
+  "discardedUncitedFindings": 0
+}

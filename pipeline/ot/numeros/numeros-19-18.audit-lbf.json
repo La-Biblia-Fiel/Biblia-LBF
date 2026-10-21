@@ -1,0 +1,44 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:18",
+  "chapter": 19,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomará ezov y mojará en las aguas varón puro, y rociará sobre la tienda y sobre todos los utensilios y sobre las almas que fueron allá, y sobre el tocante en el hueso o en el traspasado o en el muerto o en el sepulcro.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019018002"
+      ],
+      "issue": "ezov leaves the common noun אֵזוֹב untranslated; a non-name must be Spanish.",
+      "spanishSpan": "ezov"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019018016",
+        "h04019018017"
+      ],
+      "issue": "fueron allá means they went there; הָיוּ is qal perfect of be and שָׁם is locative there, so they were there.",
+      "spanishSpan": "que fueron allá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04019018001",
+        "h04019018003",
+        "h04019018005",
+        "h04019018006",
+        "h04019018007"
+      ],
+      "issue": "varón puro is postponed after mojará; lack of personal a still marks him as the agent of the 3ms chain rather than its object.",
+      "spanishSpan": "tomará ezov y mojará en las aguas varón puro, y rociará"
+    }
+  ],
+  "notes": "Tent, vessels, souls, and the or-chain of bone, slain, dead, and grave match number, person, and definiteness.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:9",
+  "chapter": 19,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y recogerá varón puro la ceniza de la vaca, y la depositará a fuera al campamento en lugar puro, y será a la congregación de hijos de Israel a guarda a aguas de nidá; pecado ella.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019009008",
+        "h04019009009"
+      ],
+      "issue": "מִחוּץ לַמַּחֲנֶה places the ash outside the camp (min + outside, relative to the camp). \"a fuera al campamento\" turns min into motion toward and reads the camp as the destination.",
+      "spanishSpan": "a fuera al campamento"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04019009018"
+      ],
+      "issue": "נִדָּה is a common noun, not a proper name; \"nidá\" leaves the lemma untranslated.",
+      "spanishSpan": "nidá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04019009004",
+        "h04019009005"
+      ],
+      "issue": "Unmarked \"la\" resumes the ash as object of the second verb. Hebrew has no second object pronoun; same referent, grammatical smoothing.",
+      "spanishSpan": "la"
+    }
+  ],
+  "notes": "Remaining clauses track the tokens, including verbless חַטָּאת הִוא as \"pecado ella.\"",
+  "discardedUncitedFindings": 0
+}

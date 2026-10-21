@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:30",
+  "chapter": 35,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Todo hiriente alma, sobre boca de testigos matará al matador; y testigo uno no responderá en alma para morir.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035030004"
+      ],
+      "issue": "לְ on the construct «mouth» is to/for/according-to; «sobre» renders it as upon/over.",
+      "spanishSpan": "sobre"
+    }
+  ],
+  "notes": "The rest keeps the tokens: every soul-striker, witnesses’ mouth, 3ms will slay the slayer; one witness will not answer in a soul to die.",
+  "discardedUncitedFindings": 0
+}

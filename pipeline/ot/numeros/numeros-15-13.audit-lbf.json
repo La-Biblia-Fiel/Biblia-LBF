@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:13",
+  "chapter": 15,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Todo el nativo hará así estas, para acercar ofrenda de fuego, olor de reposo a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015013008",
+        "h04015013009",
+        "h04015013010"
+      ],
+      "issue": "Construct chain is split by a comma into two items. אִשֵּׁה (construct) רֵיחַ (construct) נִיחֹחַ is one fire-offering of an odor of soothing, not a fire-offering plus a separate odor.",
+      "spanishSpan": "ofrenda de fuego, olor de reposo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04015013006"
+      ],
+      "issue": "Common-gender plural demonstrative is rendered feminine; Spanish must mark gender and the token does not specify it.",
+      "spanishSpan": "estas"
+    }
+  ],
+  "notes": "Todo el nativo hará así, acercar, and a Jehová match כל־האזרח, imperfect 3ms, ככה, hiphil infinitive, and ליהוה.",
+  "discardedUncitedFindings": 0
+}

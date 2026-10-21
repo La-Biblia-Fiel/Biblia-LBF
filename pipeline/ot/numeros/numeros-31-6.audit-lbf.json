@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:6",
+  "chapter": 31,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y los envió Moisés, mil a la tribu, al ejército, a ellos y a Pinjas hijo de Eleazar el sacerdote, al ejército, y utensilios de la santidad y trompetas de la teruá en su mano.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031006017"
+      ],
+      "issue": "הַתְּרוּעָה is a common noun (H8643, feminine singular), not a proper name; teruá leaves that lemma untranslated instead of Spanish.",
+      "spanishSpan": "teruá"
+    }
+  ],
+  "notes": "The rest of the clause follows the token order, number, participants, and repeated לַצָּבָא.",
+  "discardedUncitedFindings": 0
+}

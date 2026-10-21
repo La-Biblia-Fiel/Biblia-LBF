@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:11",
+  "chapter": 31,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomaron todo el despojo y toda la presa, en el adam y en la bestia.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031011008"
+      ],
+      "issue": "H120 is a common noun (human/man), with the article and in parallel with the beast; Spanish leaves the lemma untranslated as adam.",
+      "spanishSpan": "adam"
+    }
+  ],
+  "notes": "The rest matches: 3mp took, both all-the-spoil and all-the-prey, and in the beast.",
+  "discardedUncitedFindings": 0
+}

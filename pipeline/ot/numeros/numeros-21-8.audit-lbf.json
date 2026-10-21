@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:8",
+  "chapter": 21,
+  "verse": 8,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Moisés: Haz para ti un serafín, y ponlo sobre un asta, y será todo el mordido, y lo verá, y vivirá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021008007"
+      ],
+      "issue": "שָׂרָף is a common noun, masculine singular absolute. «serafín» names an angelic being and closes that noun on a theological category the token does not license.",
+      "spanishSpan": "un serafín"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04021008012",
+        "h04021008013",
+        "h04021008014"
+      ],
+      "issue": "«será todo el mordido» can be read as a copula with «todo el mordido» as complement (one whole referent). וְהָיָה plus כָּל plus the singular passive participle leaves the bitten one as the subject of the following verbs.",
+      "spanishSpan": "será todo el mordido"
+    }
+  ],
+  "notes": "Imperatives, masculine object suffixes, and the see/live chain match the token morphology.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:31",
+  "chapter": 11,
+  "verse": 31,
+  "candidateLabel": "pulir",
+  "spanish": "Estos los impuros a ustedes en todo lo que pulula; todo el tocante en ellos en su muerte se impurecerá hasta la tarde.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011031005"
+      ],
+      "issue": "הַשָּׁרֶץ is a definite singular noun; \"lo que pulula\" recasts it as a finite relative clause.",
+      "spanishSpan": "lo que pulula"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011031012"
+      ],
+      "issue": "הָעָרֶב is the evening; \"la tarde\" in current Latin American Spanish more readily denotes the afternoon.",
+      "spanishSpan": "la tarde"
+    }
+  ],
+  "notes": "Person, number, and the repeated כָּל are preserved; ustedes matches the 2mp suffix.",
+  "discardedUncitedFindings": 0
+}

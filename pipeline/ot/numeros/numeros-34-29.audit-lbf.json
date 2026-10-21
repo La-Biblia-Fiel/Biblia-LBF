@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 34:29",
+  "chapter": 34,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Estos a los que mandó Jehová para heredar a hijos de Israel en tierra de Canaán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04034029005",
+        "h04034029006",
+        "h04034029007"
+      ],
+      "issue": "Piel infinitive לנחל with את marks בני־ישראל as those acted on (given the inheritance). Spanish heredar is the subject inheriting, so hijos de Israel become what is inherited.",
+      "spanishSpan": "heredar a hijos de Israel"
+    }
+  ],
+  "notes": "אלה אשר צוה יהוה and בארץ כנען match; no supplied copula.",
+  "discardedUncitedFindings": 0
+}

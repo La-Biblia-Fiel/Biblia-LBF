@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:40",
+  "chapter": 22,
+  "verse": 40,
+  "candidateLabel": "lbf",
+  "spanish": "Y sacrificó Balaq ganado y rebaño, y envió a Bilam y a los príncipes que con él.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022040005",
+        "h04022040006",
+        "h04022040007"
+      ],
+      "issue": "ל marca a Bilam y a los príncipes como destinatarios del envío; «envió a» puede leerse como que a ellos se los despacha.",
+      "spanishSpan": "envió a Bilam y a los príncipes"
+    }
+  ],
+  "notes": "El resto del versículo sigue los tokens, incluida la relativa sin cópula.",
+  "discardedUncitedFindings": 0
+}

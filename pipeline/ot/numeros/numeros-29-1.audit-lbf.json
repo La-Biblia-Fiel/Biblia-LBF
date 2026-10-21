@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:1",
+  "chapter": 29,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y en el mes el séptimo, en uno al mes, convocación de santidad será a ustedes; toda obra de servicio no harán ustedes; día de teruá será a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029001015"
+      ],
+      "issue": "Common noun left as the untranslated lemma teruá; common nouns stay Spanish.",
+      "spanishSpan": "teruá"
+    }
+  ],
+  "notes": "Remaining clauses match conjunction, articles, cardinal one, constructs, 3ms yiqtol, negation, and both 2mp addresses as ustedes.",
+  "discardedUncitedFindings": 0
+}

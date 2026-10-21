@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:17",
+  "chapter": 23,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Y vino a él, y he aquí él parado sobre su holocausto, y príncipes de Moav con él. Y dijo a él Balaq: ¿Qué habló Jehová?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023017008"
+      ],
+      "issue": "מוֹאָב is a proper name with the conventional Spanish form Moab. Moav hebraizes the soft bet.",
+      "spanishSpan": "Moav"
+    }
+  ],
+  "notes": "The other tokens match: qal 3ms came to him, behold him, niphal participle standing, upon his burnt offering, princes with him, qal 3ms said to him Balak, what piel perfect 3ms spoke, Jehová.",
+  "discardedUncitedFindings": 0
+}

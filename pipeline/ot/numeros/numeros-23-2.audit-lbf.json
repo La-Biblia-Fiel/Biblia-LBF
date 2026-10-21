@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:2",
+  "chapter": 23,
+  "verse": 2,
+  "candidateLabel": "lbf",
+  "spanish": "Y hizo Balaq como que habló Bilam, y subió Balaq y Bilam toro y carnero en el altar.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023002003"
+      ],
+      "issue": "«como que» smooths the preposition+relative into Spanish; it can also sound like approximation or pretense, which כאשר does not require.",
+      "spanishSpan": "como que"
+    }
+  ],
+  "notes": "3ms verbs, singular animals, definite altar, and both names match the tokens; Balaq and Bilam are not locked in PROPER_NAMES.md.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:32",
+  "chapter": 18,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y no alzarán sobre él pecado en su alzar su grasa desde él, y las santidades de hijos de Israel no profanarán, y no morirán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04018032008"
+      ],
+      "issue": "Suffix is 1st person common plural; Spanish «él» is 3rd person masculine singular.",
+      "spanishSpan": "desde él"
+    }
+  ],
+  "notes": "2mp verbs and «su» on the infinitive read as ustedes.",
+  "discardedUncitedFindings": 0
+}

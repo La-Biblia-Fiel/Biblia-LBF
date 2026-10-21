@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 25:6",
+  "chapter": 25,
+  "verse": 6,
+  "candidateLabel": "lbf",
+  "spanish": "Y he aquí varón de hijos de Israel vino, y acercó a sus hermanos a la midyanita, a ojos de Moisés y a ojos de toda congregación de hijos de Israel, y ellos llorantes a abertura de tienda de reunión.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04025006006",
+        "h04025006007",
+        "h04025006008",
+        "h04025006009",
+        "h04025006010"
+      ],
+      "issue": "Hiphil 3ms brings the Midianite woman (direct object) to his brothers; the Spanish brings the brothers to the Midianite woman.",
+      "spanishSpan": "acercó a sus hermanos a la midyanita"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04025006020"
+      ],
+      "issue": "Unmarked «a» supplies a locative before the bare construct noun abertura.",
+      "spanishSpan": "a abertura"
+    }
+  ],
+  "notes": "Behold, singular man/came, repeated eyes, participle llorantes, and the construct chain match the tokens.",
+  "discardedUncitedFindings": 0
+}

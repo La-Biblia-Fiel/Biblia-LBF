@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:15",
+  "chapter": 1,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomé cabezas de tribus de ustedes, hombres sabios y conocidos, y di a ellos cabezas sobre ustedes: jefes de miles y jefes de cientos y jefes de cincuenta y jefes de dieces, y oficiales a tribus de ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001015008",
+        "h05001015009",
+        "h05001015010"
+      ],
+      "issue": "Doble acusativo: נתן tiene a ellos (אתם) como objeto dado y cabezas (ראשים) como el cargo. «di a ellos cabezas» los hace receptores de las cabezas.",
+      "spanishSpan": "di a ellos cabezas"
+    }
+  ],
+  "notes": "El resto del versículo conserva persona, número, sufijos de 2mp y la cadena de jefes.",
+  "discardedUncitedFindings": 0
+}

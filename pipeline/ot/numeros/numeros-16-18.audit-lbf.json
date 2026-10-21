@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:18",
+  "chapter": 16,
+  "verse": 18,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomaron varón su brasero, y dieron sobre ellos fuego, y pusieron sobre ellos incienso, y se pararon a abertura de tienda de reunión, y Moisés y Aarón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04016018010",
+        "h04016018011"
+      ],
+      "issue": "Unmarked supplied preposition: qal stand plus bare construct opening has no preposition token.",
+      "spanishSpan": "a"
+    }
+  ],
+  "notes": "Other tokens match, including singular varón + su, both sobre ellos, and open y Moisés y Aarón.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,53 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 19:10",
+  "chapter": 19,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y lavará el recogente la ceniza de la vaca sus vestidos, y se impurecerá hasta la tarde; y será a hijos de Israel y al peregrino el peregrinante en medio de ellos a estatuto de siempre.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04019010001",
+        "h04019010002",
+        "h04019010003",
+        "h04019010004",
+        "h04019010006",
+        "h04019010007"
+      ],
+      "issue": "Bare objects assign la ceniza and sus vestidos to lavará. The definite qal participle can govern the first את, with את בגדיו as the object of כבס.",
+      "spanishSpan": "lavará el recogente la ceniza de la vaca sus vestidos"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04019010008"
+      ],
+      "issue": "Unmarked se is a pronominal inchoative. The qal weqatal licenses that he is or becomes unclean, without a reflexive object.",
+      "spanishSpan": "se impurecerá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04019010010"
+      ],
+      "issue": "la tarde often means afternoon in current Latin American Spanish; the definite noun is the evening.",
+      "spanishSpan": "la tarde"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04019010014",
+        "h04019010015"
+      ],
+      "issue": "peregrino and peregrinante can add pilgrimage travel. H1616 and the H1481 participle license a sojourner who resides.",
+      "spanishSpan": "al peregrino el peregrinante"
+    }
+  ],
+  "notes": "Sons of Israel, their midst, and a perpetual statute match the tokens.",
+  "discardedUncitedFindings": 0
+}

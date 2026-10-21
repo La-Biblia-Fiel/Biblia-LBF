@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:1",
+  "chapter": 18,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Jehová a Aarón: Tú y tus hijos y casa de tu padre contigo alzarán la iniquidad del mikdash, y tú y tus hijos contigo alzarán la iniquidad de su sacerdocio.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04018001013"
+      ],
+      "issue": "Common noun (definite article + H4720) is left as the untranslated lemma mikdash; it must be Spanish.",
+      "spanishSpan": "mikdash"
+    }
+  ],
+  "notes": "ustedes verb alzarán and possessive su match the 2mp tokens and are not a third-party shift.",
+  "discardedUncitedFindings": 0
+}

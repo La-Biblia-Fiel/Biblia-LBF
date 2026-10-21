@@ -2,6 +2,7 @@
 """Run OT machine passes sequentially, leaving all approval to a person.
 
     python3 tools/pipeline/auto_ot.py --from-book exodo --from-chapter 21
+    python3 tools/pipeline/auto_ot.py --from-book genesis --from-chapter 1 --full
 """
 
 from __future__ import annotations
@@ -35,6 +36,11 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--from-book", default="genesis")
     parser.add_argument("--from-chapter", type=int, default=1)
     parser.add_argument("--to-book")
+    parser.add_argument(
+        "--full",
+        action="store_true",
+        help="Send every verse through the Terra polish path, including prior clean passes",
+    )
     parser.add_argument(
         "--workers",
         type=int,
@@ -72,15 +78,18 @@ def main(argv: list[str] | None = None) -> int:
 
     def run_chapter(book: Book, chapter: int) -> int:
         print(f"\n=== {book.label} {chapter} ===", flush=True)
+        command = [
+            sys.executable,
+            str(ROOT / "tools/pipeline/auto_pass.py"),
+            book.slug,
+            str(chapter),
+            "--workers",
+            str(args.workers),
+        ]
+        if args.full:
+            command.append("--full")
         proc = subprocess.run(
-            [
-                sys.executable,
-                str(ROOT / "tools/pipeline/auto_pass.py"),
-                book.slug,
-                str(chapter),
-                "--workers",
-                str(args.workers),
-            ],
+            command,
             cwd=ROOT,
         )
         return proc.returncode

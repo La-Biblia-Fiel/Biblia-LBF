@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:7",
+  "chapter": 11,
+  "verse": 7,
+  "candidateLabel": "pulir",
+  "spanish": "Y el cerdo, porque partiente pezuña él y hendiente hendidura de pezuña, y él rumia no rumia; impuro él a ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011007011",
+        "h03011007013"
+      ],
+      "issue": "גֵּרָה is a singular noun (the cud) and יִגָּר is one negated niphal imperfect. The pair rumia/rumia reads as two finite verbs, so an affirmative chew is added and the cud is not kept as the object of a single negated verb.",
+      "spanishSpan": "rumia no rumia"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011007003"
+      ],
+      "issue": "porque locks כִּי as causal; the token is only a conjunction, so a concessive or completive sense remains open.",
+      "spanishSpan": "porque"
+    }
+  ],
+  "notes": "Swine, both singular hoof clauses, the 3ms pronouns, impuro, and לָכֶם as ustedes stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

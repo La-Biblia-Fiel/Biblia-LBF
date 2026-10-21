@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 33:48",
+  "chapter": 33,
+  "verse": 48,
+  "candidateLabel": "lbf",
+  "spanish": "Y partieron desde montes de los Avarim, y acamparon en arabot de Moab, sobre Yarden Yerijó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04033048005"
+      ],
+      "issue": "Common noun (feminine plural construct) left as the untranslated Hebrew form arabot; common nouns stay Spanish.",
+      "spanishSpan": "arabot"
+    }
+  ],
+  "notes": "Journey, camp, from-mountains-of the Avarim, in X of Moab, and upon Yarden Yerijó match the tokens; only the common noun is dumped.",
+  "discardedUncitedFindings": 0
+}

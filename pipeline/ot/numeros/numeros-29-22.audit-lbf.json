@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:22",
+  "chapter": 29,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Y macho cabrío de pecado uno, aparte de holocausto del continuo y su minjá y su libación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029022007"
+      ],
+      "issue": "Common noun left as the Hebrew transliteration minjá; the token licenses a Spanish common noun, not an untranslated lemma.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Remaining spans match the tokens: waw, he-goat of sin, one, apart from, burnt offering of the continual, and the 3fs drink-offering.",
+  "discardedUncitedFindings": 0
+}

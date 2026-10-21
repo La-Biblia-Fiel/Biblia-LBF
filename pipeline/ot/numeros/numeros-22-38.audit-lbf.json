@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:38",
+  "chapter": 22,
+  "verse": 38,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Bilam a Balaq: He aquí vine a ti; ahora, ¿pudiendo podré hablar algo? La palabra que ponga Dios en mi boca, ella hablaré.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04022038018",
+        "h04022038019"
+      ],
+      "issue": "אֹתוֹ is the direct object (object marker + 3ms suffix) resumed by אֲדַבֵּר: the speaker will speak that word. «ella» is a subject pronoun, so the word is no longer the object of «hablaré».",
+      "spanishSpan": "ella"
+    }
+  ],
+  "notes": "Remaining tokens match, including Dios for אלהים and the cognate ability question.",
+  "discardedUncitedFindings": 0
+}

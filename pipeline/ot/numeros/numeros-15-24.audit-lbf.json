@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:24",
+  "chapter": 15,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "y será si desde ojos de la congregación se hizo por error, y harán toda la congregación toro hijo de ganado uno a holocausto, a olor de reposo a Jehová, y su minjá y su libación conforme al juicio, y macho cabrío de cabras uno a pecado.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015024018"
+      ],
+      "issue": "Common noun left as the untranslated lemma minjá; a non-name must be Spanish.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Other tokens keep number, person, stem, and participants; יהוה is Jehová.",
+  "discardedUncitedFindings": 0
+}

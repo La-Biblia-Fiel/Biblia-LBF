@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:30",
+  "chapter": 21,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y los derribamos; pereció Jeshbón hasta Dibón, y desolamos hasta Nófaj, que hasta Medevá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021030001"
+      ],
+      "issue": "Qal sequential imperfect 1cp of H3384 (throw/shoot/cast) with a 3mp object suffix is rendered as derribar (knock down/overthrow), a different action than the lemma licenses. The suffix itself is kept as los.",
+      "spanishSpan": "los derribamos"
+    }
+  ],
+  "notes": "H6, the three H5704, hiphil H8074, H834, and the four proper names match the tokens.",
+  "discardedUncitedFindings": 0
+}

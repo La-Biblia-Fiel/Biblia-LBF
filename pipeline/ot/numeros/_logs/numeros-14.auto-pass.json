@@ -1,0 +1,281 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "numeros",
+  "chapter": 14,
+  "kept": [
+    2,
+    4,
+    5,
+    8,
+    9,
+    14,
+    16,
+    18,
+    20,
+    23,
+    27,
+    28,
+    29,
+    30,
+    33,
+    35,
+    39,
+    40,
+    41,
+    44,
+    45
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 6,
+      "notes": "clause role",
+      "spanish": "Y Josué hijo de Nun y Calev hijo de Yefuné, desde los recorrientes la tierra, rasgaron sus vestidos.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04014006008",
+            "h04014006009",
+            "h04014006010"
+          ],
+          "issue": "The definite qal active participle takes the land as its object (את marks הארץ), but the Spanish leaves “la tierra” unlinked to “recorrientes”, so the licensed act of exploring the land is not said.",
+          "spanishSpan": "los recorrientes la tierra"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "clause role",
+      "spanish": "Y dijo toda la congregación a apedrearlos con las piedras; y gloria de Jehová se apareció en tienda de reunión a todos hijos de Israel.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04014010001",
+            "h04014010003"
+          ],
+          "issue": "Qal sequential 3mp «and they said» is smoothed to singular «dijo» to agree with the singular collective congregación. Participants stay the whole congregation.",
+          "spanishSpan": "dijo"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "notes": "clause role",
+      "spanish": "Y dijo Jehová a Moisés: ¿Hasta dónde me despreciará el pueblo este, y hasta dónde no creerán en mí, en todas las señales que hice en su medio?",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04014011007"
+          ],
+          "issue": "Piel imperfect 3mp is smoothed to singular despreciará to agree with singular el pueblo; the participant is still this people.",
+          "spanishSpan": "despreciará"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "notes": "clause role",
+      "spanish": "Y dijo Moisés a Jehová: Y oirán Egipto, porque subiste en tu fuerza al pueblo este desde su medio,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04014013007"
+          ],
+          "issue": "כִּי is only a conjunction; \"porque\" locks a cause and closes the content-clause reading the morphology leaves open.",
+          "spanishSpan": "porque"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h04014013008",
+            "h04014013010",
+            "h04014013011"
+          ],
+          "issue": "Hiphil plus the object marker licenses causing this people to go up; \"subiste al pueblo\" also allows going up to the people.",
+          "spanishSpan": "subiste al pueblo"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "notes": "clause role",
+      "spanish": "Pero vivo yo, y será llenada gloria de Jehová toda la tierra.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04014021004",
+            "h04014021005",
+            "h04014021007",
+            "h04014021008",
+            "h04014021009"
+          ],
+          "issue": "Niphal imperfect 3ms has glory-of-Jehová as its masculine singular subject and את marks all the earth as direct object, so the glory fills the earth. Passive feminine “será llenada” makes its subject the thing filled; bare “gloria de Jehová” and “toda la tierra” do not keep glory as filler and the earth as object.",
+          "spanishSpan": "será llenada gloria de Jehová toda la tierra"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "notes": "clause role",
+      "spanish": "Y su pequeño que dijeron ustedes a botín será, y los traeré, y conocerán la tierra que desecharon en ella.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04014031006"
+          ],
+          "issue": "וְהֵבֵיאתִי is conjunction + hiphil perfect 1cs, not sequential perfect; «traeré» shifts that perfect to future.",
+          "spanishSpan": "traeré"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "notes": "clause role",
+      "spanish": "Y los varones que envió Moisés a recorrer la tierra, y volvieron sobre él a toda la congregación a sacar difamación sobre la tierra,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04014036008",
+            "h04014036010",
+            "h04014036011",
+            "h04014036012"
+          ],
+          "issue": "את (marca de objeto directo) hace de toda la congregación el objeto del qal וַיָּשֻׁבוּ; «volvieron … a toda la congregación» la lee como destino del regreso, no como objeto.",
+          "spanishSpan": "volvieron sobre él a toda la congregación"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "notes": "clause role",
+      "spanish": "Porque el amaleqita y el cananeo allí delante de ustedes, y caerán en la espada, porque por tanto volvieron de detrás de Jehová, y no será Jehová con ustedes.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04014043006"
+          ],
+          "issue": "וּנְפַלְתֶּם is qal sequential perfect 2nd masculine plural (the addressees will fall). caerán, coordinated after el amaleqita y el cananeo, assigns the fall to those gentilics, a different third party.",
+          "spanishSpan": "caerán"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04014043011"
+          ],
+          "issue": "שַׁבְתֶּם is qal perfect 2nd masculine plural (the addressees turned). volvieron keeps that third-party subject instead of the 2pl addressees.",
+          "spanishSpan": "volvieron"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 1,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 3,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 7,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 12,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 15,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 17,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 19,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 22,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $349 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 24,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $349 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 25,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 26,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 32,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 34,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $349 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 37,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $350 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 38,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $350 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 42,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $351 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 6,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 10,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 11,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 13,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 21,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 31,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 36,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 43,
+      "note": "hold: clause role"
+    }
+  ]
+}

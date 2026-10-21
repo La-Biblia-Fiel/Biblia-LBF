@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:24",
+  "chapter": 32,
+  "verse": 24,
+  "candidateLabel": "lbf",
+  "spanish": "Edifiquen a ustedes ciudades a su niño, y cercados a su rebaño, y lo saliente desde su boca harán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032024004"
+      ],
+      "issue": "H2945 is a collective (little ones) in the masculine singular construct with a 2mp suffix; 'niño' narrows that group to one male child.",
+      "spanishSpan": "su niño"
+    }
+  ],
+  "notes": "Other tokens match: qal 2mp build, cities, fences, flock, and do what goes out from the mouth.",
+  "discardedUncitedFindings": 0
+}

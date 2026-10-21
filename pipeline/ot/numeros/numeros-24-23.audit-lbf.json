@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 24:23",
+  "chapter": 24,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Y alzó su comparación y dijo: ¡Ay! ¿Quién vivirá de su poner El?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024023008"
+      ],
+      "issue": "אֵל is a common noun (H410, absolute), not a proper name. “El” leaves that non-name lemma untranslated; the licensed Spanish is Dios.",
+      "spanishSpan": "El"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024023007",
+        "h04024023008"
+      ],
+      "issue": "The infinitive’s 3ms suffix and the following noun leave open who puts whom. “su poner El” makes the suffix the agent and El the object.",
+      "spanishSpan": "su poner El"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04024023006",
+        "h04024023007"
+      ],
+      "issue": "“vivirá de” can be read as “will subsist on,” narrower than qal חיה plus מִן.",
+      "spanishSpan": "vivirá de"
+    }
+  ],
+  "notes": "The sequential verbs, the mashal noun with its suffix, the interjection, and the interrogative match the tokens.",
+  "discardedUncitedFindings": 0
+}

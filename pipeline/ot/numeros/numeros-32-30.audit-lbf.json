@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:30",
+  "chapter": 32,
+  "verse": 30,
+  "candidateLabel": "lbf",
+  "spanish": "Y si no pasaren extractos con ustedes, y serán asidos en medio de ustedes en tierra de Canaán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032030004",
+        "h04032030003"
+      ],
+      "issue": "Qal passive participle masculine plural is rendered as the noun extractos, which adds extracts/excerpts and reads as an object of pasar. The tokens license a passive participial state of the 3mp subjects, not a direct object.",
+      "spanishSpan": "extractos"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens: if-not, 3mp crossing, with you, niphal sequential they-will-be-held, in your midst, in the land of Canaan.",
+  "discardedUncitedFindings": 0
+}

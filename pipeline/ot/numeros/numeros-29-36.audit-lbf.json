@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:36",
+  "chapter": 29,
+  "verse": 36,
+  "candidateLabel": "lbf",
+  "spanish": "Y acercarán holocausto, ofrenda de fuego, olor de reposo a Jehová: toro uno, carnero uno, corderos hijos de año siete, íntegros.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029036003",
+        "h04029036004",
+        "h04029036005"
+      ],
+      "issue": "אִשֵּׁה and רֵיחַ are construct (HNcmsc) governing נִיחֹחַ. The comma splits them into coordinate objects (a fire-offering, plus an odor of rest) instead of one chain: fire-offering of an odor of rest.",
+      "spanishSpan": "ofrenda de fuego, olor de reposo"
+    }
+  ],
+  "notes": "2mp weqatal acercarán matches ustedes; Jehová, counts, hijos de año, and plural íntegros match the tokens.",
+  "discardedUncitedFindings": 0
+}

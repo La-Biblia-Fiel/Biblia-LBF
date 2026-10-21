@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:9",
+  "chapter": 29,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Y su minjá sólet mezclada en el aceite: tres décimos al toro, dos décimos al carnero el uno.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029009001"
+      ],
+      "issue": "מנחה is a common noun left untranslated as minjá; common nouns stay Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029009002"
+      ],
+      "issue": "סלת is a common noun left untranslated as sólet; common nouns stay Spanish.",
+      "spanishSpan": "sólet"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens, including 3mp su, mezclada en el aceite, tres/dos décimos, and al carnero el uno.",
+  "discardedUncitedFindings": 0
+}

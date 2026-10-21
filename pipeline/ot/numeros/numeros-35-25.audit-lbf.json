@@ -1,0 +1,48 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:25",
+  "chapter": 35,
+  "verse": 25,
+  "candidateLabel": "lbf",
+  "spanish": "Y librará la congregación al matador de mano del redentor de la sangre, y lo hará volver la congregación a ciudad de su refugio que huyó allá, y habitará en ella hasta muerte del sacerdote el grande, que ungió a él en aceite de la santidad.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04035025001",
+        "h04035025002",
+        "h04035025008",
+        "h04035025010"
+      ],
+      "issue": "וְהִצִּילוּ and וְהֵשִׁיבוּ are hiphil sequential perfect 3rd common plural; librará and hará are 3rd singular. The subject הָעֵדָה is one feminine singular congregation, so the singular verbs are Spanish agreement with that collective and do not change the participant.",
+      "spanishSpan": "librará ... hará"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035025004",
+        "h04035025014",
+        "h04035025015",
+        "h04035025016"
+      ],
+      "issue": "נָס is qal perfect 3ms and אֲשֶׁר … שָׁמָּה marks the place. «que huyó» makes the relative antecedent the one who fled, so the slayer is no longer the subject.",
+      "spanishSpan": "que huyó allá"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035025021",
+        "h04035025023",
+        "h04035025024",
+        "h04035025025"
+      ],
+      "issue": "The resumptive object אתו marks the priest as the one anointed by a 3ms subject; «que ungió a él» makes the priest the anointer and él another person.",
+      "spanishSpan": "que ungió a él"
+    }
+  ],
+  "notes": "Hiphil hará volver, qal habitará en ella, sacerdote el grande, and aceite de la santidad match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

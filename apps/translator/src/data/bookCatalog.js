@@ -33,10 +33,33 @@ export const NT_BOOKS = [
   { id: "revelation", label: "Revelation", morphFile: "87-Re-morphgnt.txt", bleSlug: "apocalipsis", usfm: "REV", number: 66, bookCode: 66 }
 ];
 
-export const OT_PILOT_BOOKS = [
-  { id: "genesis", label: "Genesis", oshbFile: "Gen.xml", bleSlug: "genesis", usfm: "GEN", number: 1, bookCode: 1, spine: "oshb" },
-  { id: "jonah", label: "Jonah", oshbFile: "Jonah.xml", bleSlug: "jonas", usfm: "JON", number: 32, bookCode: 32, spine: "oshb" }
-];
+export const OT_BOOKS = [
+  ["genesis", "Génesis", "Gen.xml", "GEN"], ["exodo", "Éxodo", "Exod.xml", "EXO"],
+  ["levitico", "Levítico", "Lev.xml", "LEV"], ["numeros", "Números", "Num.xml", "NUM"],
+  ["deuteronomio", "Deuteronomio", "Deut.xml", "DEU"], ["josue", "Josué", "Josh.xml", "JOS"],
+  ["jueces", "Jueces", "Judg.xml", "JDG"], ["rut", "Rut", "Ruth.xml", "RUT"],
+  ["1samuel", "1 Samuel", "1Sam.xml", "1SA"], ["2samuel", "2 Samuel", "2Sam.xml", "2SA"],
+  ["1reyes", "1 Reyes", "1Kgs.xml", "1KI"], ["2reyes", "2 Reyes", "2Kgs.xml", "2KI"],
+  ["1cronicas", "1 Crónicas", "1Chr.xml", "1CH"], ["2cronicas", "2 Crónicas", "2Chr.xml", "2CH"],
+  ["esdras", "Esdras", "Ezra.xml", "EZR"], ["nehemias", "Nehemías", "Neh.xml", "NEH"],
+  ["ester", "Ester", "Esth.xml", "EST"], ["job", "Job", "Job.xml", "JOB"],
+  ["salmos", "Salmos", "Ps.xml", "PSA"], ["proverbios", "Proverbios", "Prov.xml", "PRO"],
+  ["eclesiastes", "Eclesiastés", "Eccl.xml", "ECC"], ["cantares", "Cantares", "Song.xml", "SNG"],
+  ["isaias", "Isaías", "Isa.xml", "ISA"], ["jeremias", "Jeremías", "Jer.xml", "JER"],
+  ["lamentaciones", "Lamentaciones", "Lam.xml", "LAM"], ["ezequiel", "Ezequiel", "Ezek.xml", "EZK"],
+  ["daniel", "Daniel", "Dan.xml", "DAN"], ["oseas", "Oseas", "Hos.xml", "HOS"],
+  ["joel", "Joel", "Joel.xml", "JOL"], ["amos", "Amós", "Amos.xml", "AMO"],
+  ["abdias", "Abdías", "Obad.xml", "OBA"], ["jonas", "Jonás", "Jonah.xml", "JON"],
+  ["miqueas", "Miqueas", "Mic.xml", "MIC"], ["nahum", "Nahúm", "Nah.xml", "NAM"],
+  ["habacuc", "Habacuc", "Hab.xml", "HAB"], ["sofonias", "Sofonías", "Zeph.xml", "ZEP"],
+  ["hageo", "Hageo", "Hag.xml", "HAG"], ["zacarias", "Zechariah", "Zech.xml", "ZEC"],
+  ["malaquias", "Malaquías", "Mal.xml", "MAL"]
+].map(([slug, label, oshbFile, usfm], index) => ({
+  id: slug === "jonas" ? "jonah" : (slug === "zacarias" ? "zechariah" : slug),
+  label, oshbFile, bleSlug: slug, usfm, number: index + 1, bookCode: index + 1, spine: "oshb"
+}));
+
+export const OT_PILOT_BOOKS = OT_BOOKS.filter(book => ["genesis", "jonah"].includes(book.id));
 
 /** OT books with an OSHB spine under alignment/ot/{slug}/ */
 export const OSHB_SPINE_BOOKS = [
@@ -61,7 +84,7 @@ export const OSHB_SPINE_BOOKS = [
 ];
 
 export function allTranslatorBooks() {
-  return [...NT_BOOKS, ...OT_PILOT_BOOKS, ...OSHB_SPINE_BOOKS];
+  return [...NT_BOOKS, ...OT_BOOKS];
 }
 
 export function lbfHome(book) {

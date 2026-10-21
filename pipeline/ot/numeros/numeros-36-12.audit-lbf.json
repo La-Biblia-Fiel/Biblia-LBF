@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 36:12",
+  "chapter": 36,
+  "verse": 12,
+  "candidateLabel": "lbf",
+  "spanish": "Desde familias de hijos de Manasés hijo de José fueron a mujeres, y fue su heredad sobre tribu de familia de su padre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04036012006",
+        "h04036012007"
+      ],
+      "issue": "«fueron a» se lee como ir (movimiento hacia las mujeres). הָיוּ es qal 3cp de ser/estar y לְ es la preposición del predicado, no meta de movimiento.",
+      "spanishSpan": "fueron a mujeres"
+    }
+  ],
+  "notes": "El resto del verso conserva número, persona, cadena de constructo y los nombres Manasés y José.",
+  "discardedUncitedFindings": 0
+}

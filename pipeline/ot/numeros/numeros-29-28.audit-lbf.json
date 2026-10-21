@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:28",
+  "chapter": 29,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y macho cabrío de pecado uno, aparte de holocausto del continuo y su minjá y su libación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029028007"
+      ],
+      "issue": "minjá deja sin traducir el sustantivo común מנחה; los nombres comunes van en español",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "El resto del versículo sigue a los ocho tokens: macho cabrío de pecado, uno, aparte de, holocausto del continuo, y los dos sufijos 3fs.",
+  "discardedUncitedFindings": 0
+}

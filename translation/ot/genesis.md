@@ -15,7 +15,7 @@ Y la tierra era desolación y vacío, y oscuridad sobre la faz del abismo, y el 
 
 ### 1:3
 
-Y dijo Dios: Sea luz. Y fue luz.
+Y dijo Dios: Sea *la* luz. Y fue *la* luz.
 
 ### 1:4
 

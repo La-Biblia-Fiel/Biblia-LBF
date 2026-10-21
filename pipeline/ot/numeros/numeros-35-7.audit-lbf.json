@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:7",
+  "chapter": 35,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "Todas las ciudades que darán a los levitas cuarenta y ocho ciudad, a ellas y a sus ejidos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035007004",
+        "h04035007003",
+        "h04035007002"
+      ],
+      "issue": "תִּתְּנוּ is qal imperfect 2nd masculine plural: the addressees give the cities. In “las ciudades que darán”, “que” is the subject and agrees with “ciudades”, so the cities are the ones who give. The 2mp addressees become a different third party.",
+      "spanishSpan": "que darán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04035007011"
+      ],
+      "issue": "מִגְרְשֵׁיהֶן is only a masculine plural common noun with a 3fp suffix. The packet does not define the noun; “ejidos” names a specific communal land tenure.",
+      "spanishSpan": "ejidos"
+    }
+  ],
+  "notes": "Cuarenta y ocho ciudad matches the singular עִיר after forty-eight; a ellas matches the 3fp object suffix.",
+  "discardedUncitedFindings": 0
+}

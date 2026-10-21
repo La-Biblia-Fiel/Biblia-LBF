@@ -1,0 +1,65 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:22",
+  "chapter": 11,
+  "verse": 22,
+  "candidateLabel": "pulir",
+  "spanish": "Estos desde ellos comerán: el arbeh a su especie, y el salam a su especie, y el hargol a su especie, y el hagav a su especie.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022001",
+        "h03011022002",
+        "h03011022004"
+      ],
+      "issue": "את marks אלה as object and תאכלו is qal imperfect 2mp (the addressees eat). «Estos … comerán» makes that demonstrative the third-party subject who eats.",
+      "spanishSpan": "Estos desde ellos comerán"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022006"
+      ],
+      "issue": "Common noun הארבה (H697) is left as an untranslated lemma.",
+      "spanishSpan": "arbeh"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022009"
+      ],
+      "issue": "Common noun הסלעם (H5556) is left as an untranslated lemma.",
+      "spanishSpan": "salam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022012"
+      ],
+      "issue": "Common noun החרגל (H2728) is left as an untranslated lemma.",
+      "spanishSpan": "hargol"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011022015"
+      ],
+      "issue": "Common noun החגב (H2284) is left as an untranslated lemma.",
+      "spanishSpan": "hagav"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011022003"
+      ],
+      "issue": "מֵהֶם only licenses from/of plus 3mp; «desde» narrows it to a point of origin.",
+      "spanishSpan": "desde ellos"
+    }
+  ],
+  "notes": "Four למינו/למינהו phrases and the three וְ conjunctions are kept; bare את is unlexicalized.",
+  "discardedUncitedFindings": 0
+}

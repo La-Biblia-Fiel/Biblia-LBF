@@ -1,0 +1,89 @@
+{
+  "schema": "lbf-sonnet-polish-v1",
+  "polisher": "Claude Sonnet 5",
+  "label": "sonnet5",
+  "book": "levitico",
+  "reference": "Levítico 11:29",
+  "chapter": 11,
+  "verse": 29,
+  "sourceDraft": "Y este a ustedes el impuro en el reptil el reptante sobre la tierra: el hóled y el akhbar y el tsav a su especie,",
+  "spanish": "Y este a ustedes el impuro en el animal el reptante sobre la tierra: la comadreja y el ratón y la tortuga a su especie,",
+  "units": [
+    {
+      "es": "Y este",
+      "sourceTokenIds": [
+        "h03011029001"
+      ]
+    },
+    {
+      "es": "a ustedes",
+      "sourceTokenIds": [
+        "h03011029002"
+      ]
+    },
+    {
+      "es": "el impuro",
+      "sourceTokenIds": [
+        "h03011029003"
+      ]
+    },
+    {
+      "es": "en el animal",
+      "sourceTokenIds": [
+        "h03011029004"
+      ]
+    },
+    {
+      "es": "el reptante",
+      "sourceTokenIds": [
+        "h03011029005"
+      ]
+    },
+    {
+      "es": "sobre",
+      "sourceTokenIds": [
+        "h03011029006"
+      ]
+    },
+    {
+      "es": "la tierra",
+      "sourceTokenIds": [
+        "h03011029007"
+      ]
+    },
+    {
+      "es": "la comadreja",
+      "sourceTokenIds": [
+        "h03011029008"
+      ]
+    },
+    {
+      "es": "y el ratón",
+      "sourceTokenIds": [
+        "h03011029009"
+      ]
+    },
+    {
+      "es": "y la tortuga",
+      "sourceTokenIds": [
+        "h03011029010"
+      ]
+    },
+    {
+      "es": "a su especie",
+      "sourceTokenIds": [
+        "h03011029011"
+      ]
+    }
+  ],
+  "grammarChanges": [
+    "Translated untranslated Hebraized lemma 'hóled' to Spanish common noun 'comadreja' (same masculine-singular noun slot).",
+    "Translated untranslated Hebraized lemma 'akhbar' to Spanish common noun 'ratón' (same masculine-singular noun slot).",
+    "Translated untranslated Hebraized lemma 'tsav' to Spanish common noun 'tortuga' (same masculine-singular noun slot).",
+    "Replaced 'reptil' with 'animal' for h03011029004 so the common noun and article are kept without narrowing to the zoological class reptile."
+  ],
+  "meaningChanges": [],
+  "readerNote": "",
+  "droppedUncitedUnits": 0,
+  "policy": "lbf-sonnet-scope-v2"
+}

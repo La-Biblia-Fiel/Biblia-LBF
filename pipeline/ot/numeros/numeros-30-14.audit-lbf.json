@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 30:14",
+  "chapter": 30,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Y si de callar callare a ella su varón desde día a día, y levantó todos sus votos o todas sus ataduras que sobre ella, los levantó, porque calló a ella en día de su oír.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04030014003",
+        "h04030014009"
+      ],
+      "issue": "Hiphil sequential perfect after the conditional imperfect continues that non-past condition; preterite «levantó» places the establishing in the past, like the later plain perfect.",
+      "spanishSpan": "y levantó"
+    }
+  ],
+  "notes": "Silence toward her, her man, from day to day, all her vows or all her bonds upon her, and his hearing on that day match the tokens.",
+  "discardedUncitedFindings": 0
+}

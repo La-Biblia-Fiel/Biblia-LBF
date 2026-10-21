@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "deuteronomio",
+  "reference": "Deuteronomio 1:35",
+  "chapter": 1,
+  "verse": 35,
+  "candidateLabel": "lbf",
+  "spanish": "Si verá varón en estos hombres, esta generación la mala esta, la tierra la buena que juré para dar a padres de ustedes,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h05001035006",
+        "h05001035008"
+      ],
+      "issue": "Two demonstratives (esta … esta) for one token הַזֶּה. The article on הַדּוֹר is definiteness, not a second this.",
+      "spanishSpan": "esta generación la mala esta"
+    }
+  ],
+  "notes": "Si, verá, varón, en estos hombres, la mala, la tierra la buena, que juré, para dar, and padres de ustedes match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

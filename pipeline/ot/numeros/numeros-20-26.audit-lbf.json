@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 20:26",
+  "chapter": 20,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "y despoja a Aarón de sus vestidos, y hazlos vestir a Elazar su hijo; y Aarón será reunido, y morirá allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04020026006",
+        "h04020026008"
+      ],
+      "issue": "Hiphil 2ms with a 3mp suffix clothes Eleazar with the garments; «hazlos vestir a Elazar» makes that plural the agent that dresses Eleazar.",
+      "spanishSpan": "hazlos vestir a Elazar"
+    }
+  ],
+  "notes": "Strip Aaron of his garments, Aaron gathered, and die there match the tokens.",
+  "discardedUncitedFindings": 0
+}

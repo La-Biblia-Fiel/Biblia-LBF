@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:20",
+  "chapter": 32,
+  "verse": 20,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo a ellos Moisés: Si harán el asunto este, si se extraerán delante de Jehová a la guerra,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032020010"
+      ],
+      "issue": "Niphal imperfect of lemma 2502 b licenses equipping/arming oneself; «se extraerán» takes the draw-out/extract sense and omits that stem force.",
+      "spanishSpan": "se extraerán"
+    }
+  ],
+  "notes": "Other tokens match, including both 2mp futures and the repeated אם.",
+  "discardedUncitedFindings": 0
+}

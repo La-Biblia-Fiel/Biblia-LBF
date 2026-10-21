@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:23",
+  "chapter": 28,
+  "verse": 23,
+  "candidateLabel": "lbf",
+  "spanish": "Aparte de holocausto de la mañana, que a holocausto del continuo, harán ustedes estas.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04028023009"
+      ],
+      "issue": "Demonstrative is common plural; estas assigns feminine gender the morphology leaves unmarked.",
+      "spanishSpan": "estas"
+    }
+  ],
+  "notes": "2mp imperfect as harán ustedes is licensed address; articles sit on mañana and continuo; verbless relative has no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

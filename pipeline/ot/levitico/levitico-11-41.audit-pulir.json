@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:41",
+  "chapter": 11,
+  "verse": 41,
+  "candidateLabel": "pulir",
+  "spanish": "Y todo lo que pulula el reptante sobre la tierra, abominación él; no será comido.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011041002",
+        "h03011041003"
+      ],
+      "issue": "הַשֶּׁרֶץ plus attributive הַשֹּׁרֵץ is one participant: the swarming thing that swarms. “lo que pulula el reptante” makes el reptante the subject of pulula and lo que its complement.",
+      "spanishSpan": "lo que pulula el reptante"
+    }
+  ],
+  "notes": "sobre la tierra, abominación él, and no será comido match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

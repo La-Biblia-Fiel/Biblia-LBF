@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:16",
+  "chapter": 31,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "He aquí, ellas fueron a hijos de Israel en asunto de Bilam, para entregar prevaricación en Jehová sobre asunto de Peor, y fue la plaga en congregación de Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031016003",
+        "h04031016004"
+      ],
+      "issue": "הָיוּ is qal perfect of היה (they were) and ל is to/for; «fueron a» is motion (they went to the sons).",
+      "spanishSpan": "fueron a"
+    }
+  ],
+  "notes": "He aquí, ellas, both asunto, entregar, prevaricación, Jehová, Peor, la plaga, and congregación stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

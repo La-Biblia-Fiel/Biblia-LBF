@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:63",
+  "chapter": 26,
+  "verse": 63,
+  "candidateLabel": "lbf",
+  "spanish": "Estos contados de Moisés y Eleazar el sacerdote, que contaron a hijos de Israel en arábot de Moab, sobre Jordán Yerijó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04026063011"
+      ],
+      "issue": "Common noun, feminine plural construct, is left as the Hebrew form «arábot»; a common noun must be Spanish.",
+      "spanishSpan": "arábot"
+    }
+  ],
+  "notes": "Demonstrative, passive plural construct, names, relative, qal 3cp, object marker, and על + the two proper names match the tokens.",
+  "discardedUncitedFindings": 0
+}

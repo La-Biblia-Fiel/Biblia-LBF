@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:29",
+  "chapter": 31,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Desde su mitad tomarán, y darás a Eleazar el sacerdote ofrenda alzada de Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04031029006"
+      ],
+      "issue": "«alzada» explicita la elevación etimológica; el token es un solo sustantivo (תרומה) sin adjetivo ni participio, y el adjetivo puede añadir un gesto que el lema no exige.",
+      "spanishSpan": "alzada"
+    }
+  ],
+  "notes": "2mp תִּקָּחוּ como tomarán (ustedes) y 2ms וְנָתַתָּה como darás conservan el cambio de persona.",
+  "discardedUncitedFindings": 0
+}

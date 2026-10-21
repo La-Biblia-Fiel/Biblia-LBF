@@ -7,7 +7,7 @@
 
 ### 1:1
 
-Y llamó a Moisés, y habló Jehová a él desde tienda de reunión, diciendo:
+Y llamó a Moisés, y le habló Jehová desde *la* tienda de reunión, diciendo:
 
 ### 1:2
 
@@ -985,7 +985,7 @@ Y habló Jehová a Aarón, diciendo:
 
 ### 10:9
 
-Vino y bebida fuerte no beban, tú y tus hijos contigo, en su entrar a tienda de reunión, y no morirán; estatuto de siempre a generaciones de ustedes,
+Vino y bebida fuerte no bebas, tú y tus hijos contigo, en el entrar de ustedes a tienda de reunión, y no morirán; estatuto de siempre a generaciones de ustedes,
 
 ### 10:10
 
@@ -997,11 +997,11 @@ y para enseñar a hijos de Israel todos los estatutos que habló Jehová a ellos
 
 ### 10:12
 
-Y habló Moisés a Aarón y a Elazar y a Itamar, sus hijos los restantes: Tomen la minjá la restante desde ofrendas de fuego de Jehová, y cómanla ázimos junto al altar, porque santidad de santidades ella.
+Y habló Moisés a Aarón y a Elazar y a Itamar, sus hijos los restantes: Tomen la ofrenda la restante desde ofrendas de fuego de Jehová, y cómanla ázimos junto al altar, porque santidad de santidades ella.
 
 ### 10:13
 
-Y la comerán en lugar santo, porque tu estatuto y estatuto de tus hijos ella, desde ofrendas de fuego de Jehová, porque así fui mandado.
+Y la comerán en lugar santo, porque tu estatuto y estatuto de tus hijos ella, de ofrendas de fuego de Jehová, porque así fui mandado.
 
 ### 10:14
 
@@ -1013,7 +1013,7 @@ Pierna de la ofrenda y pecho del balanceo sobre ofrendas de fuego de las grasas 
 
 ### 10:16
 
-Y el macho cabrío del pecado buscando buscó Moisés, y he aquí quemado, y se enfureció sobre Elazar y sobre Itamar, hijos de Aarón los restantes, diciendo:
+Y el macho cabrío del pecado buscando buscó Moisés, y he aquí que fue quemado, y se enfureció sobre Elazar y sobre Itamar, hijos de Aarón los restantes, diciendo:
 
 ### 10:17
 
@@ -1055,7 +1055,7 @@ Y el shafán, porque subiente cud él, y pezuña no partirá; impuro él a usted
 
 ### 11:6
 
-Y la arnévet, porque subiente cud ella, y pezuña no partió; impura ella a ustedes.
+Y la liebre, porque levantadora rumia ella, y pezuña no la partió; impura ella a ustedes.
 
 ### 11:7
 
@@ -1071,7 +1071,7 @@ Esto comerán desde todo lo que en las aguas: todo lo que a él aleta y escama e
 
 ### 11:10
 
-Y todo lo que no a él aleta y escama en los mares y en los torrentes, desde todo reptil de las aguas y desde toda alma la viva que en las aguas, abominación ellos a ustedes.
+Y todo lo que no a él aleta y escama en los mares y en los torrentes, desde toda sabandija de las aguas y desde toda alma la viva que en las aguas, abominación ellos a ustedes.
 
 ### 11:11
 
@@ -1087,11 +1087,11 @@ Y estas abominarán desde el ave; no serán comidos, abominación ellos: el nesh
 
 ### 11:14
 
-y la daáh y la ayah a su especie,
+y el milano y el gavilán a su especie,
 
 ### 11:15
 
-todo orev a su especie,
+todo cuervo a su especie,
 
 ### 11:16
 
@@ -1107,15 +1107,15 @@ y la tinshémet y el qaat y el raham,
 
 ### 11:19
 
-y la hasidah, la anafáh a su especie, y el dukifat y el atalef.
+y la cigüeña, la garza a su especie, y la abubilla y el murciélago.
 
 ### 11:20
 
-Todo reptil del ave el andante sobre cuatro, abominación él a ustedes.
+Todo lo que pulula de lo que vuela el andante sobre cuatro, abominación él a ustedes.
 
 ### 11:21
 
-Solo esto comerán desde todo reptil del ave el andante sobre cuatro, que piernas desde arriba a sus pies para saltar en ellas sobre la tierra.
+Solo esto comerán desde todo lo que pulula del ave el andante sobre cuatro, que piernas desde arriba a sus pies para saltar en ellas sobre la tierra.
 
 ### 11:22
 
@@ -1199,7 +1199,7 @@ Y todo el reptil el reptante sobre la tierra, abominación él; no será comido.
 
 ### 11:42
 
-Todo andante sobre vientre y todo andante sobre cuatro, hasta todo multiplicante pies, a todo el reptil el reptante sobre la tierra, no los comerán, porque abominación ellos.
+Todo andante sobre vientre y todo andante sobre cuatro, hasta todo multiplicante pies, a todo el enjambre pululante sobre la tierra, no los comerán, porque abominación ellos.
 
 ### 11:43
 
@@ -1215,11 +1215,11 @@ Porque yo Jehová el haciendo subir a ustedes desde tierra de Egipto, a ser a us
 
 ### 11:46
 
-Esta torá del animal y del ave y de toda alma la viva la reptante en las aguas, y a toda alma la reptante sobre la tierra,
+Esta ley del animal y del ave y de toda alma viviente la reptante en las aguas, y a toda alma la pululante sobre la tierra,
 
 ### 11:47
 
-para separar entre lo impuro y entre lo puro, y entre la bestia viva la comida y entre la bestia viva que no será comida.
+para separar entre lo impuro y entre lo puro, y entre la bestia viva que es comida y entre la bestia viva que no será comida.
 
 ## Capítulo 12
 
@@ -1237,7 +1237,7 @@ Y en el día el octavo será circuncidada carne de su prepucio.
 
 ### 12:4
 
-Y treinta días y tres días se sentará en sangres de purificación; en toda santidad no tocará, y al mikdash no vendrá hasta llenarse días de su purificación.
+Y treinta días y tres días se sentará en sangres de purificación; en toda santidad no tocará, y al santuario no vendrá hasta llenar días de su purificación.
 
 ### 12:5
 
@@ -1249,7 +1249,7 @@ Y en llenarse días de su purificación a hijo o a hija, traerá cordero hijo de
 
 ### 12:7
 
-Y lo acercará delante de Jehová, y expiará sobre ella, y será pura desde fuente de sus sangres. Esta torá de la que da a luz, al macho o a la hembra.
+Y lo acercará delante de Jehová, y expiará sobre ella, y será pura desde fuente de sus sangres. Esta ley de la que da a luz, al macho o a la hembra.
 
 ### 12:8
 
@@ -1263,7 +1263,7 @@ Y habló Jehová a Moisés y a Aarón, diciendo:
 
 ### 13:2
 
-Adam, cuando fuere en piel de su carne elevación o erupción o mancha, y fuere en piel de su carne a plaga de tsaráat, y será traído a Aarón el sacerdote o a uno desde sus hijos los sacerdotes.
+Hombre, cuando fuere en piel de su carne elevación o costra o mancha brillante, y fuere en piel de su carne a plaga de lepra, y será traído a Aarón el sacerdote o a uno desde sus hijos los sacerdotes.
 
 ### 13:3
 
@@ -1279,7 +1279,7 @@ Y la verá el sacerdote en el día el séptimo, y he aquí la plaga se paró en 
 
 ### 13:6
 
-Y la verá el sacerdote en el día el séptimo segunda, y he aquí oscureció la plaga, y no se extendió la plaga en la piel, y lo purificará el sacerdote; erupción ella. Y lavará sus vestidos, y será puro.
+Y lo verá el sacerdote en el día séptimo, por segunda vez, y he aquí palideció la plaga, y no se extendió la plaga en la piel, y lo purificará el sacerdote; erupción *es* ella. Y lavará sus vestidos, y será puro.
 
 ### 13:7
 
@@ -1299,15 +1299,15 @@ Y verá el sacerdote, y he aquí elevación blanca en la piel, y ella volvió pe
 
 ### 13:11
 
-Tsaráat vieja ella en piel de su carne, y lo impurecerá el sacerdote; no lo encerrará, porque impuro él.
+Lepra envejecida ella en piel de su carne, y lo impurecerá el sacerdote; no lo encerrará, porque impuro él.
 
 ### 13:12
 
-Y si brotando brotare la tsaráat en la piel, y cubriere la tsaráat toda piel de la plaga desde su cabeza y hasta sus pies, a toda apariencia de ojos del sacerdote,
+Y si brotando brotare la lepra en la piel, y cubriere la lepra toda piel de la plaga desde su cabeza y hasta sus pies, a toda apariencia de ojos del sacerdote,
 
 ### 13:13
 
-y verá el sacerdote, y he aquí cubrió la tsaráat toda su carne, y purificará la plaga; todo él se volvió blanco; puro él.
+y verá el sacerdote, y he aquí cubrió la lepra toda su carne, y purificará la plaga; todo él se volvió blanco; puro él.
 
 ### 13:14
 
@@ -1347,7 +1347,7 @@ Y si extendiendo se extendiere en la piel, y lo impurecerá el sacerdote; plaga 
 
 ### 13:23
 
-Y si debajo de ella se parare la mancha, no se extendió, cicatriz de la úlcera ella, y lo purificará el sacerdote.
+Y si debajo de ella permaneciere la mancha brillante, no se extendió, cicatriz de la úlcera ella, y lo purificará el sacerdote.
 
 ### 13:24
 
@@ -1359,7 +1359,7 @@ y la verá el sacerdote, y he aquí se volvió pelo blanco en la mancha, y su ap
 
 ### 13:26
 
-Y si la viere el sacerdote, y he aquí no en la mancha pelo blanco, y baja no es desde la piel, y ella oscura, y lo encerrará el sacerdote siete días.
+Y si la viere el sacerdote, y he aquí no en la mancha brillante pelo blanco, y baja no es desde la piel, y ella apagada, y lo encerrará el sacerdote siete días.
 
 ### 13:27
 
@@ -1379,11 +1379,11 @@ y verá el sacerdote la plaga, y he aquí su apariencia profunda desde la piel, 
 
 ### 13:31
 
-Y cuando viere el sacerdote plaga del neteq, y he aquí no su apariencia profunda desde la piel, y pelo negro no en él, y encerrará el sacerdote plaga del neteq siete días.
+Y cuando viere el sacerdote plaga de la tiña, y he aquí no su apariencia profunda desde la piel, y pelo negro no en él, y encerrará el sacerdote plaga de la tiña siete días.
 
 ### 13:32
 
-Y verá el sacerdote la plaga en el día el séptimo, y he aquí no se extendió el neteq, y no fue en él pelo amarillo, y apariencia del neteq no profunda desde la piel.
+Y verá el sacerdote la plaga en el día el séptimo, y he aquí no se extendió la erupción, y no fue en él pelo amarillo, y apariencia de la erupción no profunda desde la piel.
 
 ### 13:33
 
@@ -1403,15 +1403,15 @@ y lo verá el sacerdote, y he aquí se extendió el neteq en la piel, no buscar�
 
 ### 13:37
 
-Y si en sus ojos se paró el neteq, y pelo negro brotó en él, sanó el neteq; puro él. Y lo purificará el sacerdote.
+Y si en sus ojos se paró la tiña, y pelo negro brotó en él, sanó la tiña; puro él. Y lo purificará el sacerdote.
 
 ### 13:38
 
-Y varón o mujer, cuando fueren en piel de su carne manchas, manchas blancas,
+Y varón o mujer, cuando fuere en piel de su carne manchas blancas, manchas blancas,
 
 ### 13:39
 
-y verá el sacerdote, y he aquí en piel de su carne manchas oscuras blancas: bohaq él; brotó en la piel; puro él.
+y verá el sacerdote, y he aquí en piel de su carne manchas apagadas blancas: erupción él; brotó en la piel; puro él.
 
 ### 13:40
 
@@ -1423,7 +1423,7 @@ Y si desde lado de sus faces se pelare su cabeza, frente calva él; puro él.
 
 ### 13:42
 
-Y cuando fuere en la calvicie o en la frente calva plaga blanca rojiza, tsaráat brotante ella en su calvicie o en su frente calva.
+Y cuando fuere en la calvicie o en la frente calva plaga blanca rojiza, lepra brotante ella en su calvicie o en su frente calva.
 
 ### 13:43
 
@@ -1443,7 +1443,7 @@ Todos días que la plaga en él se impurecerá; impuro él; solo se sentará; a 
 
 ### 13:47
 
-Y el vestido, cuando fuere en él plaga de tsaráat, en vestido de lana o en vestido de lino,
+Y el vestido, cuando fuere en él plaga de lepra, en vestido de lana o en vestido de lino,
 
 ### 13:48
 
@@ -1451,7 +1451,7 @@ o en urdimbre o en trama, al lino y a la lana, o en piel o en toda obra de piel,
 
 ### 13:49
 
-y fuere la plaga verdosa o rojiza en el vestido o en la piel o en la urdimbre o en la trama o en todo utensilio de piel, plaga de tsaráat ella, y será mostrada al sacerdote.
+y fuere la plaga verdosa o rojiza en el vestido o en la piel o en la urdimbre o en la trama o en todo utensilio de piel, plaga de lepra ella, y será mostrada al sacerdote.
 
 ### 13:50
 
@@ -1459,7 +1459,7 @@ Y verá el sacerdote la plaga, y encerrará la plaga siete días.
 
 ### 13:51
 
-Y verá la plaga en el día el séptimo: cuando se extendió la plaga en el vestido o en la urdimbre o en la trama o en la piel, a todo lo que se haga la piel a obra, tsaráat maligna la plaga; impura ella.
+Y verá la plaga en el día el séptimo: cuando se extendió la plaga en el vestido o en la urdimbre o en la trama o en la piel, a todo lo que se haga la piel a obra, lepra maligna la plaga; impura ella.
 
 ### 13:52
 
@@ -1483,11 +1483,11 @@ Y si viere el sacerdote, y he aquí oscureció la plaga después de ser lavado a
 
 ### 13:57
 
-Y si aún se viere en el vestido o en la urdimbre o en la trama o en todo utensilio de piel, brotante ella; en el fuego la quemarás, lo que en él la plaga.
+Y si aún se viere en el vestido o en la urdimbre o en la trama o en todo utensilio de piel, brotante ella; en el fuego lo quemarás, lo que en él la plaga.
 
 ### 13:58
 
-Y el vestido o la urdimbre o la trama o todo utensilio de la piel que lavarás, y se apartó desde ellos la plaga, y será lavado segunda, y será puro.
+Y el vestido o la urdimbre o la trama o todo utensilio de la piel que lavarás, y se apartará desde ellos la plaga, y será lavado por segunda vez, y será puro.
 
 ### 13:59
 

@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 20:1",
+  "chapter": 20,
+  "verse": 1,
+  "candidateLabel": "lbf",
+  "spanish": "Y vinieron hijos de Israel, toda la congregación, a desierto de Tsin, en el mes el primero, y habitó el pueblo en Qadesh, y murió allí Miryam, y fue sepultada allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04020001001",
+        "h04020001006"
+      ],
+      "issue": "Unmarked supplied preposition: qal בוא plus bare construct מִדְבַּר has no preposition token.",
+      "spanishSpan": "a"
+    }
+  ],
+  "notes": "Plural arrival, apposition, anarthrous desierto de Tsin, en el mes el primero, singular habitó el pueblo en Qadesh, and both allí with feminine murió and niphal fue sepultada match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

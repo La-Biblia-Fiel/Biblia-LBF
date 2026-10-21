@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 24:9",
+  "chapter": 24,
+  "verse": 9,
+  "candidateLabel": "lbf",
+  "spanish": "Se agachó, se echó como león, y como leona; ¿quién lo levantará? Tus bendicientes bendito, y tus maldicientes maldito.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024009004"
+      ],
+      "issue": "H3833 is tagged noun common both singular; «leona» resolves that open gender as specifically feminine.",
+      "spanishSpan": "leona"
+    }
+  ],
+  "notes": "Other tokens match: qal 3ms crouch and lie, like a masculine lion, who + hiphil 3ms with 3ms object, plural active participles with 2ms suffix, singular passive participles, and the waw only on the second simile and the curse clause.",
+  "discardedUncitedFindings": 0
+}

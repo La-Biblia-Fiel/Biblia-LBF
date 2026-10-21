@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:13",
+  "chapter": 28,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y décimo décimo sólet minjá mezclada en el aceite al cordero el uno; holocausto, olor de reposo, ofrenda de fuego a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028013003"
+      ],
+      "issue": "Common noun left untranslated as sólet; non-name lemmas must be Spanish.",
+      "spanishSpan": "sólet"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028013004"
+      ],
+      "issue": "Common noun left untranslated as minjá; non-name lemmas must be Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04028013002",
+        "h04028013003"
+      ],
+      "issue": "The second tenth is construct, bound to the following noun, but Spanish does not mark that link.",
+      "spanishSpan": "décimo sólet"
+    }
+  ],
+  "notes": "The conjunction, doubled tenth, mezclada, al cordero el uno, holocausto, olor de reposo, ofrenda de fuego, and Jehová match the tokens.",
+  "discardedUncitedFindings": 0
+}

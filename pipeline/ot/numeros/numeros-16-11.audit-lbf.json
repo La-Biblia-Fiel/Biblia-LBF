@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:11",
+  "chapter": 16,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Por tanto tú y toda tu congregación, los congregados sobre Jehová; y Aarón, ¿qué es él, que sobre él?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04016011009",
+        "h04016011010"
+      ],
+      "issue": "Verbless clause מה הוא has no copula token; Spanish inserts unmarked es. A copula that only makes the clause a sentence must be marked (*es*).",
+      "spanishSpan": "es"
+    }
+  ],
+  "notes": "Remaining tokens match: address, congregation, niphal gathered-ones, על left open as sobre, Jehová, Aarón, and כי as que.",
+  "discardedUncitedFindings": 0
+}

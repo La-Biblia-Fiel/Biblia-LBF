@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:14",
+  "chapter": 16,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "También no a tierra manante leche y miel nos trajiste, y diste a nosotros heredad de campo y viña. ¿Los ojos de los varones aquellos sacarás? No subiremos.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016014017"
+      ],
+      "issue": "Piel imperfect 2ms of H5365 licenses boring or picking out; «sacarás» is a broader extraction verb, so the manner stays under-specified.",
+      "spanishSpan": "sacarás"
+    }
+  ],
+  "notes": "Negation, 2ms address, 1cp participants, dual eyes, and singular field and vineyard match the packet.",
+  "discardedUncitedFindings": 0
+}

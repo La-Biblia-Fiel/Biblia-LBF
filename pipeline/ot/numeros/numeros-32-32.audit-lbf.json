@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:32",
+  "chapter": 32,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Nosotros pasaremos extractos delante de Jehová a tierra de Canaán, y con nosotros posesión de nuestra heredad desde otro lado al Jordán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032032003"
+      ],
+      "issue": "Qal passive participle masculine plural describes the state of the 1cp subject of נַעֲבֹר. “extractos” is a noun and reads as the object of “pasaremos,” so the subject passes extracts instead of crossing in that passive state.",
+      "spanishSpan": "extractos"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04032032011",
+        "h04032032012"
+      ],
+      "issue": "מֵעֵבֶר לַיַּרְדֵּן places the possession on the region-beyond relative to the Jordan. “desde otro lado al Jordán” resolves ל as allative and states a path from another side to the Jordan.",
+      "spanishSpan": "desde otro lado al Jordán"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032032002",
+        "h04032032006"
+      ],
+      "issue": "Unmarked “a” is grammatical smoothing so the land can be the destination of the crossing verb; ארץ has no preposition of its own.",
+      "spanishSpan": "a"
+    }
+  ],
+  "notes": "Pronoun, imperfect 1cp, לפני Jehová, land of Canaán, and the verbless “with us + possession of our inheritance” match the tokens.",
+  "discardedUncitedFindings": 0
+}

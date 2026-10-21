@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:37",
+  "chapter": 22,
+  "verse": 37,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Balaq a Bilam: ¿No enviando envié a ti para llamarte? ¿Por qué no anduviste a mí? ¿Acaso de veras no podré honrarte?",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022037010"
+      ],
+      "issue": "El sufijo está marcado 2fs y «llamarte» lo deja en un «te» sin género.",
+      "spanishSpan": "llamarte"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022037017"
+      ],
+      "issue": "«podré» cierra el imperfecto como futuro; la morfología solo da imperfecto de poder.",
+      "spanishSpan": "podré"
+    }
+  ],
+  "notes": "El envío enfático, los tres negativos y la pregunta quedan cubiertos.",
+  "discardedUncitedFindings": 0
+}

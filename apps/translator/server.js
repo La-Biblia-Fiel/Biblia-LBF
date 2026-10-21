@@ -14,6 +14,7 @@ import { assistPhraseGates } from "./src/pipeline/assistGates.js";
 import { createInvestigationFromLemma, languageFromStrongs } from "./src/investigations/createInvestigation.js";
 import { findBook, allTranslatorBooks, lbfHome } from "./src/data/bookCatalog.js";
 import { loadNtBookUnits } from "./src/data/morphLoader.js";
+import { parseTranslationBook, replaceTranslationVerse } from "./src/reader/translationReader.js";
 import {
   approveStage,
   formatStatusRow,
@@ -1750,6 +1751,61 @@ async function handleTranslation(request, response, url) {
   sendJson(response, 405, { error: "Method not allowed" });
 }
 
+async function handleReader(request, response, url) {
+  if (request.method === "GET" && url.pathname === "/api/reader/books") {
+    const books = [];
+    for (const book of allTranslatorBooks().filter(item => Number(item.number) < 40)) {
+      const { slug, testament } = lbfHome(book);
+      const path = join(repoRoot, "translation", testament, `${slug}.md`);
+      const content = await readFile(path, "utf8").catch(() => "");
+      if (content) books.push({ id: book.id, slug, label: book.label });
+    }
+    sendJson(response, 200, { books });
+    return;
+  }
+
+  if (request.method === "GET" && url.pathname === "/api/reader/book") {
+    const bookId = bookIdFromRequest(url);
+    const book = resolveBook(bookId);
+    if (Number(book.number) >= 40) {
+      sendJson(response, 400, { error: "The reader currently covers the Old Testament." });
+      return;
+    }
+    const { documentFile } = translationPathsForBook(book.id);
+    const content = await readFile(documentFile, "utf8");
+    const verses = parseTranslationBook(content).map(({ chapter, verse, text }) => ({ chapter, verse, text }));
+    sendJson(response, 200, { book: book.id, label: book.label, verses });
+    return;
+  }
+
+  if (request.method === "PUT" && url.pathname === "/api/reader/verse") {
+    const body = await readJsonBody(request);
+    const bookId = bookIdFromRequest(url, body);
+    const book = resolveBook(bookId);
+    if (Number(book.number) >= 40) {
+      sendJson(response, 400, { error: "The reader currently covers the Old Testament." });
+      return;
+    }
+    const { documentFile } = translationPathsForBook(book.id);
+    const content = await readFile(documentFile, "utf8");
+    let next;
+    try {
+      next = replaceTranslationVerse(content, body);
+    } catch (error) {
+      sendJson(response, 409, { error: error.message });
+      return;
+    }
+    if (next !== content) {
+      await writeFile(documentFile, next, "utf8");
+      await invalidateStatusForEdit(book.id, "translation");
+    }
+    sendJson(response, 200, { saved: true, chapter: Number(body.chapter), verse: Number(body.verse) });
+    return;
+  }
+
+  sendJson(response, 405, { error: "Method not allowed" });
+}
+
 async function handleReverseLinks(request, response, url) {
   const bookId = bookIdFromRequest(url);
   const paths = translationPathsForBook(bookId);
@@ -2182,6 +2238,11 @@ async function handleApi(request, response, url) {
 
   if (url.pathname === "/api/workflow") {
     await handleBookWorkflow(request, response, url);
+    return;
+  }
+
+  if (url.pathname.startsWith("/api/reader/")) {
+    await handleReader(request, response, url);
     return;
   }
 

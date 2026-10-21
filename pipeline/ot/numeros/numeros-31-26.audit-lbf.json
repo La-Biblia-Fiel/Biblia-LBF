@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 31:26",
+  "chapter": 31,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Alza la cabeza de presa del cautiverio, en el adam y en la bestia, tú y Eleazar el sacerdote y cabezas de padres de la congregación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04031026006"
+      ],
+      "issue": "Common noun אָדָם (H120, with the article) is left as the untranslated lemma “adam”.",
+      "spanishSpan": "el adam"
+    }
+  ],
+  "notes": "The remaining clause matches the tokens in person, number, and construct relations.",
+  "discardedUncitedFindings": 0
+}

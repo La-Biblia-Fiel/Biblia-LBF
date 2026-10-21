@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:52",
+  "chapter": 13,
+  "verse": 52,
+  "candidateLabel": "pulir",
+  "spanish": "Y quemará el vestido o la urdimbre o la trama, en la lana o en los linos, o todo utensilio de la piel que fuere en él la plaga, porque tsaráat maligna ella; en el fuego será quemada.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013052023"
+      ],
+      "issue": "צָרַעַת is a common noun (H6883), not a name; tsaráat leaves the lemma untranslated instead of a Spanish common noun.",
+      "spanishSpan": "tsaráat"
+    }
+  ],
+  "notes": "Active qal quemará and niphal será quemada match; warp, woof, wool, plural linens, and the verbless clause are otherwise licensed.",
+  "discardedUncitedFindings": 0
+}

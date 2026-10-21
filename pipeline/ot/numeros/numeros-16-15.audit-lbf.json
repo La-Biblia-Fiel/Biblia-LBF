@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:15",
+  "chapter": 16,
+  "verse": 15,
+  "candidateLabel": "lbf",
+  "spanish": "Y ardió a Moisés mucho, y dijo a Jehová: No te vuelvas a su minjá; no asno uno desde ellos alcé, y no hice mal a uno desde ellos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04016015010"
+      ],
+      "issue": "minjá leaves the common noun מנחה (H4503) untranslated; a common noun must be Spanish",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "The other clauses match the tokens in participants, number, person, and stem.",
+  "discardedUncitedFindings": 0
+}

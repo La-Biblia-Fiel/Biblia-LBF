@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:8",
+  "chapter": 13,
+  "verse": 8,
+  "candidateLabel": "pulir",
+  "spanish": "Y verá el sacerdote, y he aquí se extendió la erupción en la piel, y lo impurecerá el sacerdote; lepra ella.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013008004"
+      ],
+      "issue": "Qal perfect 3fs is an intransitive spread; Spanish se is reflexive smoothing that does not add a participant.",
+      "spanishSpan": "se extendió"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013008006"
+      ],
+      "issue": "Morphology is a preposition plus an anarthrous noun; Spanish adds a definite article.",
+      "spanishSpan": "la piel"
+    }
+  ],
+  "notes": "Priest, behold, 3ms impurity declaration, and verbless lepra ella match the tokens.",
+  "discardedUncitedFindings": 0
+}

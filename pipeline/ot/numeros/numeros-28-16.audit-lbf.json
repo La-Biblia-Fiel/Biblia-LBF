@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:16",
+  "chapter": 28,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y en el mes el primero, en catorce día al mes, Pésaj a Jehová.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028016007"
+      ],
+      "issue": "פֶּסַח is a common noun (Ncmsa), not a proper name; Pésaj leaves that lemma untranslated and capitalizes it as a title.",
+      "spanishSpan": "Pésaj"
+    }
+  ],
+  "notes": "The date clause matches the tokens, including singular día and a Jehová for לַיהוָה.",
+  "discardedUncitedFindings": 0
+}

@@ -14,6 +14,11 @@ npm start
 
 Then open `http://127.0.0.1:1424/`.
 
+For straightforward reading and manual correction of canonical OT Spanish,
+open `http://127.0.0.1:1424/reader.html`. The reader covers all 39 OT books,
+edits one verse at a time, and writes directly to `translation/ot/`; it does
+not create alignment, phrase, approval, or publication data.
+
 Optional local suggestions (LM Studio or another provider) may draft Spanish.
 They cannot verify, approve, or publish.
 

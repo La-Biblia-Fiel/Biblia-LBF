@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:4",
+  "chapter": 21,
+  "verse": 4,
+  "candidateLabel": "lbf",
+  "spanish": "Y partieron desde Hor el monte, camino de mar de Suf, para rodear tierra de Edom, y se acortó el alma del pueblo en el camino.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021004006"
+      ],
+      "issue": "סוּף is a common noun (H5488, absolute), not a proper name; “Suf” leaves that non-name lemma untranslated.",
+      "spanishSpan": "Suf"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04021004011"
+      ],
+      "issue": "Qal 3fs “became short” is smoothed with pronominal “se”; the subject is still the soul and the stem force is unchanged.",
+      "spanishSpan": "se acortó"
+    }
+  ],
+  "notes": "The rest of the clause matches the tokens in number, person, construct, and participants.",
+  "discardedUncitedFindings": 0
+}

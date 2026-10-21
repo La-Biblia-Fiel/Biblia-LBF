@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:22",
+  "chapter": 21,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Pase yo por tu tierra; no nos inclinaremos por campo y por viña; no beberemos aguas de pozo; por camino del rey andaremos, hasta que pasemos tu límite.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021022004",
+        "h04021022005",
+        "h04021022006"
+      ],
+      "issue": "Qal 1cp נטה with ב on the field and the vineyard is the speakers turning into those places. 'nos inclinaremos por' adds reflexive voice, and in current Spanish 'inclinarse por' means preference rather than turning into the field and the vineyard.",
+      "spanishSpan": "nos inclinaremos por campo y por viña"
+    }
+  ],
+  "notes": "1cs cohortative then 1cp, the negatives, well-water, the king's way, and 'until we pass your border' match the tokens.",
+  "discardedUncitedFindings": 0
+}

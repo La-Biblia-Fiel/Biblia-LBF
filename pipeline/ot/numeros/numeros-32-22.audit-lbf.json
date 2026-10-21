@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 32:22",
+  "chapter": 32,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "y sea sojuzgada la tierra delante de Jehová, y después volverán, y serán limpios desde Jehová y desde Israel, y será la tierra esta a ustedes a posesión delante de Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04032022001"
+      ],
+      "issue": "Niphal sequential perfect is rendered with present subjunctive sea, which can be read as jussive; 3fs and passive stem remain.",
+      "spanishSpan": "sea"
+    }
+  ],
+  "notes": "2mp volverán/serán are ustedes forms; min stays desde.",
+  "discardedUncitedFindings": 0
+}

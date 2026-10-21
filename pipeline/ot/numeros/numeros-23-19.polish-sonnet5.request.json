@@ -1,0 +1,71 @@
+{
+  "model": "claude-sonnet-5",
+  "system": "You are Pulir, the Spanish polish layer for La Biblia Fiel.\n\nYou step in only when Cursor Auto, local lint, or the audit marked this\nverse questionable. A clean pass does not come to you. You do not draft\nfrom scratch.\n\nYou receive that draft and the source packet. Repair cited mismatches,\nthen grammar and flow. You do not translate from memory. You do not interpret.\n\nSPANISH: current Latin American (tú / ustedes), formal literary register.\nNever Spain vosotros (hagáis, veréis, mataréis, os). Never voseo.\nFor live birth: dar a luz, never archaic parir. Do not polish dar a luz\nback to parir.\nIf the draft used vosotros, change those verbs to ustedes. Do not the reverse.\n\nMODEL: You must behave as Claude Sonnet 5. Do not switch roles.\n\nFREEZE — do not change:\n- participants / who acts on whom\n- number (dual stays stones: las piedras / las dos piedras, never a stool,\n  el sexo, or entre las piernas)\n- person and stem force (qal 3fs \"she shall live\" stays vivirá, not que viva;\n  2pl stays Latin American ustedes, never vosotros)\n- conjunction sense\n- draft uncertainties\n- locked proper names (translation/PROPER_NAMES.md; keep Judá/Egipto/José\n  when locked; do not Hebraize to Yehudá/Mizraim/Yosef; do not dump\n  Mitsráyim/Elohím; do not turn Javán into Grecia in running text)\n\nALLOWED:\n- grammar, agreement, punctuation, sequence of tenses\n- word order required by Spanish\n- replacing a calque with the same licensed sense\n- a supplied copula, written in italics and nowhere else: *son*\n- one grammatical choice when a singular head noun and a plural\n  participle cannot both be kept. Put that choice in readerNote. Do not\n  leave the line unchanged to avoid the choice.\n\nLEAVE ON HOLD — do not repair these:\n- clause role, participants, who acts on whom\n- which noun a preposition governs\n- an את object treated as a לְ beneficiary\n\nIf the cited problem is one of those, return the draft Spanish unchanged.\nSet readerNote to \"hold: clause role\" and one sentence naming the role.\nThe human reads that verse in the translator. You do not get another turn.\n\nFORBIDDEN:\n- theology, other Bible versions, AHRC overriding the freeze\n- adding concepts, dropping units, resolving ambiguity\n- writing translation/*.md or STATUS.md\n\nKeep the draft's sourceTokenIds on each unit. Change only the Spanish.\n\nReturn JSON only:\n{\n  \"schema\": \"lbf-sonnet-polish-v1\",\n  \"book\": \"<slug>\",\n  \"chapter\": 0,\n  \"verse\": 0,\n  \"spanish\": \"...\",\n  \"units\": [{\"es\": \"...\", \"sourceTokenIds\": [\"h02001016007\"]}],\n  \"grammarChanges\": [\"...\"],\n  \"meaningChanges\": [],\n  \"readerNote\": \"\"\n}\nmeaningChanges must be empty.\nreaderNote is one sentence for the human reader, or empty. Use it when\nyou chose between two grammatical Spanish options, or when you marked a\nsupplied word. For a clause-role hold, start it with \"hold: clause role\".",
+  "user": "This verse is questionable. Repair only cited mismatches and grammar. Do not interpret. JSON only.\n\n{\"task\":\"polish-spanish-only\",\"freeze\":[\"Keep participants and who acts on whom.\",\"Keep number; dual stones stay stones, never a seat or stool.\",\"Keep stem force; vivirá stays vivirá.\",\"Do not turn auditor warnings into interpretive rewrites.\",\"A supplied copula is italics, *son*, not a rewrite.\",\"If the warn is only singular-head versus plural-participle agreement, choose the grammatical Spanish and fill readerNote.\",\"If the problem is clause role, participants, or which noun a preposition governs, return the Spanish unchanged and set readerNote to hold: clause role.\",\"Auditor fail: Unmarked supplied copula. The clause is verbless (negative + noun + noun); a copula that only makes it a sentence must be asterisk-marked. [es]\",\"Auditor fail: Common noun אֵל (H410) is left untranslated as El, with mid-sentence title capitalization. A non-name deity noun is Spanish Dios. [El]\",\"Auditor fail: Common noun אָדָם (H120) is dumped untranslated as adam. Common nouns stay Spanish. [adam]\",\"Auditor fail: Question marks add interrogative force. The tokens have no interrogative particle, only the articulated pronoun, perfects, negatives, and imperfects. [¿Él dijo y no hará, y habló y no la cumplirá?]\",\"Auditor warn: Piel and hithpael imperfects are subjunctive, selecting a modal sense the imperfect morphology leaves open. [mienta, se arrepienta]\",\"Auditor warn: Conjunction ו is rendered ni, folding the governing negative into the second clause. Meaning holds as smoothing. [ni]\"],\"draft\":{\"spanish\":\"No es varón El, y mienta, ni hijo de adam, y se arrepienta. ¿Él dijo y no hará, y habló y no la cumplirá?\",\"units\":[],\"uncertainties\":[]},\"grokAudit\":{\"verdict\":\"fail\",\"findings\":[{\"severity\":\"fail\",\"sourceTokenIds\":[\"h04023019001\",\"h04023019002\",\"h04023019003\"],\"issue\":\"Unmarked supplied copula. The clause is verbless (negative + noun + noun); a copula that only makes it a sentence must be asterisk-marked.\",\"spanishSpan\":\"es\"},{\"severity\":\"fail\",\"sourceTokenIds\":[\"h04023019003\"],\"issue\":\"Common noun אֵל (H410) is left untranslated as El, with mid-sentence title capitalization. A non-name deity noun is Spanish Dios.\",\"spanishSpan\":\"El\"},{\"severity\":\"fail\",\"sourceTokenIds\":[\"h04023019006\"],\"issue\":\"Common noun אָדָם (H120) is dumped untranslated as adam. Common nouns stay Spanish.\",\"spanishSpan\":\"adam\"},{\"severity\":\"fail\",\"sourceTokenIds\":[\"h04023019008\",\"h04023019009\",\"h04023019010\",\"h04023019011\",\"h04023019012\",\"h04023019013\",\"h04023019014\"],\"issue\":\"Question marks add interrogative force. The tokens have no interrogative particle, only the articulated pronoun, perfects, negatives, and imperfects.\",\"spanishSpan\":\"¿Él dijo y no hará, y habló y no la cumplirá?\"},{\"severity\":\"warn\",\"sourceTokenIds\":[\"h04023019004\",\"h04023019007\"],\"issue\":\"Piel and hithpael imperfects are subjunctive, selecting a modal sense the imperfect morphology leaves open.\",\"spanishSpan\":\"mienta, se arrepienta\"},{\"severity\":\"warn\",\"sourceTokenIds\":[\"h04023019001\",\"h04023019005\"],\"issue\":\"Conjunction ו is rendered ni, folding the governing negative into the second clause. Meaning holds as smoothing.\",\"spanishSpan\":\"ni\"}],\"notes\":\"The 3fs suffix on יְקִימֶנָּה is kept as la; hiphil cumplirá stays inside H6965.\"},\"packet\":{\"schema\":\"lbf-source-packet-v1\",\"book\":\"numeros\",\"label\":\"Números\",\"testament\":\"ot\",\"textualBasis\":\"OSHB/WLC\",\"reference\":\"Números 23:19\",\"chapter\":23,\"verse\":19,\"oshbOsis\":\"Num.23.19\",\"allowedSources\":[\"OSHB/WLC\",\"paleo-hebrew\",\"AHRC-nonbinding\"],\"forbiddenSources\":[\"memory\",\"theology\",\"RV1909\",\"BLE-gloss\",\"other-versions\"],\"tokens\":[{\"sourceTokenId\":\"h04023019001\",\"oshbId\":\"04ZwS\",\"position\":1,\"surface\":\"לֹ֣א\",\"paleo\":\"𐤋𐤀\",\"lemma\":\"3808\",\"strongs\":\"H3808\",\"morph\":\"HTn\",\"morphExpanded\":\"Hebrew; negative\"},{\"sourceTokenId\":\"h04023019002\",\"oshbId\":\"04Nkv\",\"position\":2,\"surface\":\"אִ֥ישׁ\",\"paleo\":\"𐤀𐤉𐤔\",\"lemma\":\"376\",\"strongs\":\"H376\",\"morph\":\"HNcmsa\",\"morphExpanded\":\"Hebrew; noun common masculine singular absolute\"},{\"sourceTokenId\":\"h04023019003\",\"oshbId\":\"044pA\",\"position\":3,\"surface\":\"אֵל֙\",\"paleo\":\"𐤀𐤋\",\"lemma\":\"410\",\"strongs\":\"H410\",\"morph\":\"HNcmsa\",\"morphExpanded\":\"Hebrew; noun common masculine singular absolute\"},{\"sourceTokenId\":\"h04023019004\",\"oshbId\":\"04PBw\",\"position\":4,\"surface\":\"וִֽיכַזֵּ֔ב\",\"paleo\":\"𐤅𐤉𐤊𐤆𐤁\",\"lemma\":\"c/3576\",\"strongs\":\"H3576\",\"morph\":\"HC/Vpi3ms\",\"morphExpanded\":\"Hebrew; conjunction; piel imperfect 3rd masculine singular\"},{\"sourceTokenId\":\"h04023019005\",\"oshbId\":\"04JNR\",\"position\":5,\"surface\":\"וּבֶן\",\"paleo\":\"𐤅𐤁𐤍\",\"lemma\":\"c/1121 a\",\"strongs\":\"H1121\",\"morph\":\"HC/Ncmsc\",\"morphExpanded\":\"Hebrew; conjunction; noun common masculine singular construct\"},{\"sourceTokenId\":\"h04023019006\",\"oshbId\":\"046Wp\",\"position\":6,\"surface\":\"אָדָ֖ם\",\"paleo\":\"𐤀𐤃𐤌\",\"lemma\":\"120\",\"strongs\":\"H120\",\"morph\":\"HNcmsa\",\"morphExpanded\":\"Hebrew; noun common masculine singular absolute\"},{\"sourceTokenId\":\"h04023019007\",\"oshbId\":\"04Cr7\",\"position\":7,\"surface\":\"וְיִתְנֶחָ֑ם\",\"paleo\":\"𐤅𐤉𐤕𐤍𐤇𐤌\",\"lemma\":\"c/5162\",\"strongs\":\"H5162\",\"morph\":\"HC/Vti3ms\",\"morphExpanded\":\"Hebrew; conjunction; hithpael imperfect 3rd masculine singular\"},{\"sourceTokenId\":\"h04023019008\",\"oshbId\":\"04sdW\",\"position\":8,\"surface\":\"הַה֤וּא\",\"paleo\":\"𐤄𐤄𐤅𐤀\",\"lemma\":\"d/1931\",\"strongs\":\"H1931\",\"morph\":\"HTd/Pp3ms\",\"morphExpanded\":\"Hebrew; definite article; personal 3rd masculine singular\"},{\"sourceTokenId\":\"h04023019009\",\"oshbId\":\"04mV5\",\"position\":9,\"surface\":\"אָמַר֙\",\"paleo\":\"𐤀𐤌𐤓\",\"lemma\":\"559\",\"strongs\":\"H559\",\"morph\":\"HVqp3ms\",\"morphExpanded\":\"Hebrew; qal perfect 3rd masculine singular\"},{\"sourceTokenId\":\"h04023019010\",\"oshbId\":\"04MjN\",\"position\":10,\"surface\":\"וְלֹ֣א\",\"paleo\":\"𐤅𐤋𐤀\",\"lemma\":\"c/3808\",\"strongs\":\"H3808\",\"morph\":\"HC/Tn\",\"morphExpanded\":\"Hebrew; conjunction; negative\"},{\"sourceTokenId\":\"h04023019011\",\"oshbId\":\"04u4q\",\"position\":11,\"surface\":\"יַעֲשֶׂ֔ה\",\"paleo\":\"𐤉𐤏𐤔𐤄\",\"lemma\":\"6213 a\",\"strongs\":\"H6213\",\"morph\":\"HVqi3ms\",\"morphExpanded\":\"Hebrew; qal imperfect 3rd masculine singular\"},{\"sourceTokenId\":\"h04023019012\",\"oshbId\":\"04J16\",\"position\":12,\"surface\":\"וְדִבֶּ֖ר\",\"paleo\":\"𐤅𐤃𐤁𐤓\",\"lemma\":\"c/1696\",\"strongs\":\"H1696\",\"morph\":\"HC/Vpp3ms\",\"morphExpanded\":\"Hebrew; conjunction; piel perfect 3rd masculine singular\"},{\"sourceTokenId\":\"h04023019013\",\"oshbId\":\"04upz\",\"position\":13,\"surface\":\"וְלֹ֥א\",\"paleo\":\"𐤅𐤋𐤀\",\"lemma\":\"c/3808\",\"strongs\":\"H3808\",\"morph\":\"HC/Tn\",\"morphExpanded\":\"Hebrew; conjunction; negative\"},{\"sourceTokenId\":\"h04023019014\",\"oshbId\":\"04Wnn\",\"position\":14,\"surface\":\"יְקִימֶֽנָּה\",\"paleo\":\"𐤉𐤒𐤉𐤌𐤍𐤄\",\"lemma\":\"6965 b\",\"strongs\":\"H6965\",\"morph\":\"HVhi3ms/Sp3fs\",\"morphExpanded\":\"Hebrew; hiphil imperfect 3rd masculine singular; suffix 3rd feminine singular\"}]}}",
+  "replyPath": "/Users/johnwry/Nextcloud/Documents/GitHub/Biblia-LBF/pipeline/ot/numeros/numeros-23-19.polish-sonnet5.reply.json",
+  "book": "numeros",
+  "chapter": 23,
+  "verse": 19,
+  "why": "questionable",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023019001",
+        "h04023019002",
+        "h04023019003"
+      ],
+      "issue": "Unmarked supplied copula. The clause is verbless (negative + noun + noun); a copula that only makes it a sentence must be asterisk-marked.",
+      "spanishSpan": "es"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023019003"
+      ],
+      "issue": "Common noun אֵל (H410) is left untranslated as El, with mid-sentence title capitalization. A non-name deity noun is Spanish Dios.",
+      "spanishSpan": "El"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023019006"
+      ],
+      "issue": "Common noun אָדָם (H120) is dumped untranslated as adam. Common nouns stay Spanish.",
+      "spanishSpan": "adam"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023019008",
+        "h04023019009",
+        "h04023019010",
+        "h04023019011",
+        "h04023019012",
+        "h04023019013",
+        "h04023019014"
+      ],
+      "issue": "Question marks add interrogative force. The tokens have no interrogative particle, only the articulated pronoun, perfects, negatives, and imperfects.",
+      "spanishSpan": "¿Él dijo y no hará, y habló y no la cumplirá?"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023019004",
+        "h04023019007"
+      ],
+      "issue": "Piel and hithpael imperfects are subjunctive, selecting a modal sense the imperfect morphology leaves open.",
+      "spanishSpan": "mienta, se arrepienta"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023019001",
+        "h04023019005"
+      ],
+      "issue": "Conjunction ו is rendered ni, folding the governing negative into the second clause. Meaning holds as smoothing.",
+      "spanishSpan": "ni"
+    }
+  ],
+  "instruction": "You may mark a supplied copula in italics and you may choose the Spanish when a singular head noun disagrees with a plural participle. Record that choice in readerNote. If the problem is clause role, participants, or which noun a preposition governs, return the Spanish unchanged and set readerNote to 'hold: clause role'. Do not repair that verse."
+}

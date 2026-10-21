@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 22:34",
+  "chapter": 22,
+  "verse": 34,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo Bilam a mensajero de Jehová: Pequé, porque no conocí que tú parado a mi encuentro en el camino; y ahora, si malo en tus ojos, volveré para mí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04022034017"
+      ],
+      "issue": "Qal perfect 3ms is a finite predication (it is evil); «malo» is a bare adjective and drops person, number, and verbal force.",
+      "spanishSpan": "malo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022034019"
+      ],
+      "issue": "Qal cohortative 1cs is smoothed to indicative future «volveré».",
+      "spanishSpan": "volveré"
+    }
+  ],
+  "notes": "Pronoun plus niphal participle, both כי, the dual eyes, and לי are represented.",
+  "discardedUncitedFindings": 0
+}

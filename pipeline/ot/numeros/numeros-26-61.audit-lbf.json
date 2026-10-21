@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:61",
+  "chapter": 26,
+  "verse": 61,
+  "candidateLabel": "lbf",
+  "spanish": "Y murió Nadav y Avihú en su acercar ellos fuego extraño delante de Jehová.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04026061004"
+      ],
+      "issue": "The 3mp suffix on the hiphil infinitive is rendered twice (su and ellos); same participants, grammatical smoothing.",
+      "spanishSpan": "su acercar ellos"
+    }
+  ],
+  "notes": "Singular murió matches the 3ms verb; fuego extraño and delante de Jehová stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

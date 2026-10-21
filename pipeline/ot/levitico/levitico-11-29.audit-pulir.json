@@ -1,0 +1,47 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 11:29",
+  "chapter": 11,
+  "verse": 29,
+  "candidateLabel": "pulir",
+  "spanish": "Y este a ustedes el impuro en el animal el reptante sobre la tierra: la comadreja y el ratón y la tortuga a su especie,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011029004"
+      ],
+      "issue": "בַּשֶּׁרֶץ (H8318) is the swarming/creeping creature, cognate with the following participle; \"el animal\" adds a generic animal and drops that noun.",
+      "spanishSpan": "el animal"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03011029010"
+      ],
+      "issue": "צָב (H6632) is an open land-swarmer lemma (lizard or tortoise); \"la tortuga\" fixes it as tortoise.",
+      "spanishSpan": "la tortuga"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011029005"
+      ],
+      "issue": "Qal participle הַשֹּׁרֵץ means swarm/teem/creep; \"el reptante\" keeps only crawling and does not repeat the noun's root.",
+      "spanishSpan": "el reptante"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03011029008"
+      ],
+      "issue": "חֹלֶד (H2467) is commonly weasel but also taken as mole; \"la comadreja\" selects weasel.",
+      "spanishSpan": "la comadreja"
+    }
+  ],
+  "notes": "Y este, a ustedes, el impuro, sobre la tierra, el ratón, and a su especie match the tokens; the verbless clause correctly has no unmarked copula.",
+  "discardedUncitedFindings": 0
+}

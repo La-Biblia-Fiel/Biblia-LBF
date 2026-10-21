@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 20:17",
+  "chapter": 20,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Pasemos ahora por tu tierra; no pasaremos por campo y por viña, y no beberemos aguas de pozo; camino del rey andaremos; no nos inclinaremos a derecha y a izquierda, hasta que pasemos tu límite.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04020017002"
+      ],
+      "issue": "נא is an entreaty interjection; «ahora» can be read as present time rather than the plea.",
+      "spanishSpan": "ahora"
+    }
+  ],
+  "notes": "Cohortative vs imperfect of עבר, bare singular field/vineyard/well, plural waters, and דרך המלך stay within the tokens.",
+  "discardedUncitedFindings": 0
+}

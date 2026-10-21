@@ -1,0 +1,31 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 28:26",
+  "chapter": 28,
+  "verse": 26,
+  "candidateLabel": "lbf",
+  "spanish": "Y en día de las primicias, en su acercar ustedes minjá nueva a Jehová en sus semanas, convocación de santidad será a ustedes; toda obra de servicio no harán ustedes.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04028026004"
+      ],
+      "issue": "Common noun H4503 (feminine singular) is left untranslated as the loanword minjá; common nouns stay Spanish.",
+      "spanishSpan": "minjá"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04028026003"
+      ],
+      "issue": "Hiphil infinitive construct plus 2mp suffix is smoothed as en su acercar ustedes; stem, person, and participants stay the same.",
+      "spanishSpan": "en su acercar ustedes"
+    }
+  ],
+  "notes": "Jehová, ustedes, and the rest of the construct chain match the tokens.",
+  "discardedUncitedFindings": 0
+}

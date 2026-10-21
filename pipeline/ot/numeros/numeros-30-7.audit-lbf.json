@@ -1,0 +1,32 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 30:7",
+  "chapter": 30,
+  "verse": 7,
+  "candidateLabel": "lbf",
+  "spanish": "y oiga su varón en día de su oír, y calle a ella, y se levantarán sus votos, y sus ataduras que ató sobre su alma se levantarán.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04030007001"
+      ],
+      "issue": "oiga is present subjunctive/jussive (let him hear). The token is qal sequential perfect 3ms, so the Spanish changes the verbal force.",
+      "spanishSpan": "oiga"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04030007005",
+        "h04030007006"
+      ],
+      "issue": "calle a ella is subjunctive and makes her the one silenced. The verb is hiphil sequential perfect 3ms (he keeps silent) and לָהּ is only the preposition to her.",
+      "spanishSpan": "calle a ella"
+    }
+  ],
+  "notes": "The other tokens match in participants, number, and lexicon, including both קום clauses.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 21:17",
+  "chapter": 21,
+  "verse": 17,
+  "candidateLabel": "lbf",
+  "spanish": "Entonces cantó Israel esta canción: Sube, pozo; respóndanle;",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04021017009"
+      ],
+      "issue": "Lemma 6030 c is the sing homonym; respóndanle renders the answer/respond homonym and omits the singing.",
+      "spanishSpan": "respóndanle"
+    }
+  ],
+  "notes": "The other tokens match, including אז plus imperfect as cantó, esta canción, sube pozo, and the 3fs suffix.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 24:21",
+  "chapter": 24,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y vio al qení, y alzó su comparación y dijo: Firme tu asiento, y puesto en la peña tu nido.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04024021003"
+      ],
+      "issue": "Gentilic הַקֵּינִי is spelled as the scholar form qení; PROPER_NAMES.md locks no conventional Spanish ethnonym for H7017, so the referent is kept but the spelling is Hebraized.",
+      "spanishSpan": "qení"
+    }
+  ],
+  "notes": "Other tokens match: 3ms saw, lifted his mashal, and said; verbless firm + 2ms seat; passive participle set in the crag; 2ms nest.",
+  "discardedUncitedFindings": 0
+}

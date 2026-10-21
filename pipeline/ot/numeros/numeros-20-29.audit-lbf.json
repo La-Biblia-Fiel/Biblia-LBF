@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 20:29",
+  "chapter": 20,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Y vio toda la congregación que había expirado Aarón, y lloraron a Aarón treinta días, toda casa de Israel.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04020029012",
+        "h04020029013"
+      ],
+      "issue": "«Toda casa» sin artículo admite la lectura distributiva «cada casa»; כל en constructo con בית singular indica la totalidad de una sola casa.",
+      "spanishSpan": "toda casa"
+    }
+  ],
+  "notes": "El singular vio concuerda con el colectivo congregación; había expirado solo ordena el perfecto como anterior.",
+  "discardedUncitedFindings": 0
+}

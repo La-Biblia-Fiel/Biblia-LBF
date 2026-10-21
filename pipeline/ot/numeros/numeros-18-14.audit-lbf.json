@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:14",
+  "chapter": 18,
+  "verse": 14,
+  "candidateLabel": "lbf",
+  "spanish": "Todo jérem en Israel a ti será.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04018014002"
+      ],
+      "issue": "חֵרֶם is a common masculine singular noun, not a proper name; “jérem” leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "jérem"
+    }
+  ],
+  "notes": "Todo, en Israel, a ti, and será match כָּל, בְּיִשְׂרָאֵל, לְךָ, and יִהְיֶֽה.",
+  "discardedUncitedFindings": 0
+}

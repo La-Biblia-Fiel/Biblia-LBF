@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 35:32",
+  "chapter": 35,
+  "verse": 32,
+  "candidateLabel": "lbf",
+  "spanish": "Y no tomarán rescate al huir a ciudad de su refugio, para volver a habitar en la tierra hasta muerte del sacerdote.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04035032004"
+      ],
+      "issue": "לָנוּס is only ל plus qal infinitive construct, so purpose or complement stays open. 'al huir' locks a temporal circumstance (upon fleeing) and can make the 2mp of תִקְחוּ the ones who flee.",
+      "spanishSpan": "al huir"
+    }
+  ],
+  "notes": "The other tokens match, including tomarán as ustedes and ciudad de su refugio for the construct plus 3ms suffix.",
+  "discardedUncitedFindings": 0
+}

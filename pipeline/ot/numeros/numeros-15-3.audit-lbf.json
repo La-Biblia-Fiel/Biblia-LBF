@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:3",
+  "chapter": 15,
+  "verse": 3,
+  "candidateLabel": "lbf",
+  "spanish": "y harán ofrenda de fuego a Jehová, holocausto o sacrificio, para voto extraordinario o en ofrenda voluntaria o en sus citas, para hacer olor de reposo a Jehová, desde el ganado o desde el rebaño,",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015003007",
+        "h04015003008"
+      ],
+      "issue": "Piel infinitive לְפַלֵּא is a verbal act on נֶדֶר; Spanish drops the verb and turns it into the adjective extraordinario on voto.",
+      "spanishSpan": "para voto extraordinario"
+    }
+  ],
+  "notes": "2mp harán/sus matches ustedes morphology and is not a third-party shift.",
+  "discardedUncitedFindings": 0
+}

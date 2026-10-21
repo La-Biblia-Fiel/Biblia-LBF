@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:13",
+  "chapter": 23,
+  "verse": 13,
+  "candidateLabel": "lbf",
+  "spanish": "Y dijo a él Balaq: Anda ahora conmigo a lugar otro, que lo verás desde allí; solo su extremo verás, y a todo él no verás; y maldícelo a mí desde allí.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023013004"
+      ],
+      "issue": "Surface נא, paleo nun-aleph, and morphology (interjection) license an entreaty particle. 'Anda' adds a second-person imperative of motion. Lemma H3212 conflicts with those and does not license that extra event.",
+      "spanishSpan": "Anda"
+    }
+  ],
+  "notes": "The rest of the clause matches the packet, including 'ahora' for the interjection.",
+  "discardedUncitedFindings": 0
+}

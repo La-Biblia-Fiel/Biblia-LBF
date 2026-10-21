@@ -1,0 +1,47 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023008005"
+      ],
+      "issue": "אֵל is a common noun (HNcmsa), not a proper noun. Capitalized El leaves it untranslated and adds a title.",
+      "spanishSpan": "El"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023008007"
+      ],
+      "issue": "Qal imperfect of H2194 is rendered with causative airar: qué is the one made angry, not the target of the speaker’s qal indignation.",
+      "spanishSpan": "airaré"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023008009"
+      ],
+      "issue": "Qal perfect 3ms has no object suffix. Transitive airó is causative and implies a patient the morphology does not mark.",
+      "spanishSpan": "airó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023008002",
+        "h04023008004"
+      ],
+      "issue": "H5344 and H6895 are different lemmas; both are rendered with maldecir, so the lexical distinction is flattened.",
+      "spanishSpan": "maldeciré / maldijo"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023008002"
+      ],
+      "issue": "Yiqtol is fixed as Spanish future; the imperfect does not itself mark future time.",
+      "spanishSpan": "maldeciré"
+    }
+  ],
+  "notes": "lo matches the 3ms suffix on קבה; Jehová matches יהוה; H2194 is repeated in the second clause."
+}

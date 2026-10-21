@@ -1,0 +1,40 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:3",
+  "chapter": 13,
+  "verse": 3,
+  "candidateLabel": "pulir",
+  "spanish": "Y verá el sacerdote la plaga en piel de la carne, y pelo en la plaga se volvió blanco, y apariencia de la plaga profunda desde piel de su carne: plaga de tsaráat él. Y lo verá el sacerdote, y lo impurecerá.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013003017"
+      ],
+      "issue": "צרעת is a common noun (H6883 feminine absolute), not a proper name; tsaráat leaves the lemma untranslated.",
+      "spanishSpan": "tsaráat"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013003009"
+      ],
+      "issue": "Qal perfect הפך is smoothed as the pronominal se volvió; the hair still turns white, with no new participant.",
+      "spanishSpan": "se volvió"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h03013003011",
+        "h03013003013"
+      ],
+      "issue": "Masculine עמוק follows the construct מראה הנגע and, with both nouns masculine, can predicate the appearance or the plague; profunda after plaga is readable as depth of the plague.",
+      "spanishSpan": "apariencia de la plaga profunda"
+    }
+  ],
+  "notes": "Seeing, priest, plague, skin, flesh, hair, white, his flesh, הוא as él, and the two 3ms objects match the tokens.",
+  "discardedUncitedFindings": 0
+}

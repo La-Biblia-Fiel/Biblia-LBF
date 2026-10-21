@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 29:16",
+  "chapter": 29,
+  "verse": 16,
+  "candidateLabel": "lbf",
+  "spanish": "Y macho cabrío de cabras uno, pecado, aparte de holocausto del continuo, su minjá y su libación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04029016008"
+      ],
+      "issue": "מִנְחָה is a common noun left untranslated as minjá; common nouns stay Spanish.",
+      "spanishSpan": "minjá"
+    }
+  ],
+  "notes": "Suffixes su (3fs) match both possessives; pecado leaves חַטָּאת open.",
+  "discardedUncitedFindings": 0
+}

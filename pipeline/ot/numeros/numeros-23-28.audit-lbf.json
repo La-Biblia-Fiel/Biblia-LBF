@@ -1,0 +1,39 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 23:28",
+  "chapter": 23,
+  "verse": 28,
+  "candidateLabel": "lbf",
+  "spanish": "Y tomó Balaq a Bilam a cabeza del Peor, el que mira sobre faces del Yesimón.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04023028010"
+      ],
+      "issue": "Definite common noun (Ncmsa) is Hebraized and capitalized as the proper name Yesimón; the token licenses a Spanish common noun.",
+      "spanishSpan": "Yesimón"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023028005"
+      ],
+      "issue": "“a” before “cabeza” supplies a preposition; ראש is a construct noun with no preposition token.",
+      "spanishSpan": "a cabeza"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04023028007"
+      ],
+      "issue": "Niphal masculine singular participle with the article is smoothed to the finite verb mira.",
+      "spanishSpan": "el que mira"
+    }
+  ],
+  "notes": "Balaq, Bilam, and Peor match the proper-noun tokens; faces keeps the plural construct; tomó keeps qal 3ms.",
+  "discardedUncitedFindings": 0
+}

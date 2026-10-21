@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 24:22",
+  "chapter": 24,
+  "verse": 22,
+  "candidateLabel": "lbf",
+  "spanish": "Porque si será para quemar Qayin, ¿hasta cuándo Asur te cautivará?",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04024022005"
+      ],
+      "issue": "Qayin hebraizes the proper noun (H7014); the conventional Spanish name is Caín",
+      "spanishSpan": "Qayin"
+    }
+  ],
+  "notes": "Remaining tokens match: כי אם יהיה לבער, עד־מה as hasta cuándo, Asur as subject, and the 2ms suffix as te.",
+  "discardedUncitedFindings": 0
+}

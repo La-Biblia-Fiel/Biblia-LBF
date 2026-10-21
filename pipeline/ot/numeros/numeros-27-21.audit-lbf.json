@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 27:21",
+  "chapter": 27,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y delante de Eleazar el sacerdote se parará, y preguntará a él en juicio de los urim delante de Jehová; sobre su boca saldrán y sobre su boca entrarán, él y todos hijos de Israel con él, y toda la congregación.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04027021008"
+      ],
+      "issue": "הָאוּרִים is a common masculine plural noun, not a proper name; \"urim\" leaves the lemma untranslated.",
+      "spanishSpan": "los urim"
+    }
+  ],
+  "notes": "The remaining clauses match the tokens in person, number, stem, and participants.",
+  "discardedUncitedFindings": 0
+}

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Unattended chapter pass. Cursor Auto audits. Sonnet repairs once.
+"""Unattended chapter pass. Cursor Auto audits. GPT-5.6 Terra repairs once.
 
 Calls the Cursor CLI (`agent`). A person reads the chapter and the parked
 list when the command has finished. This script does not sign STATUS.md.
@@ -8,7 +8,7 @@ list when the command has finished. This script does not sign STATUS.md.
     python3 tools/pipeline/auto_pass.py exodo 1 --from 1 --to 5
 
 Spanish already in translation/ is audited. A clean pass stays. A fail or
-a warn goes to Sonnet once. Auto audits that Spanish again. Verdict pass
+a warn goes to Terra once. Auto audits that Spanish again. Verdict pass
 is written into the verse (warns stay in the audit for the later read).
 Verdict fail, or a lint hit that remains, parks the verse and leaves the
 previous Spanish.
@@ -20,8 +20,7 @@ Install the CLI, then log in, if `agent` is not on PATH:
     agent models
 
 LBF_CURSOR_AUTO_MODEL defaults to auto.
-LBF_CURSOR_SONNET_MODEL defaults to claude-sonnet-5
-(or LBF_SONNET_MODEL when that is set). Use an id from `agent models`
+LBF_CURSOR_POLISH_MODEL defaults to gpt-5.6-terra. Use an id from `agent models`
 when the CLI rejects the default.
 """
 
@@ -68,15 +67,15 @@ from source_packet import list_verses
 
 VERSE_HEADING = re.compile(r"^###\s+(\d+):(\d+)\s*$")
 LBF_LABEL = "lbf"
-POLISH_LABEL = "pulir"
-SONNET_LABEL = "sonnet5"
+POLISH_LABEL = "terra56"
 AUTO_LABEL = "auto"
-SCOPE = "lbf-sonnet-scope-v2"
+SCOPE = "lbf-polish-scope-v3"
+SPANISH_CHECK_POLICY = "lbf-spanish-flow-v2"
 TRANSLATION_LOCK = threading.RLock()
 MISSING_CLI = """Cursor CLI not found (looked for agent and cursor-agent).
 Install: curl https://cursor.com/install -fsS | bash
 Then: agent login
-auto_pass.py calls Cursor Auto and Sonnet through that CLI.
+auto_pass.py calls Cursor Auto and GPT-5.6 Terra through that CLI.
 """
 
 
@@ -84,12 +83,18 @@ def auto_model() -> str:
     return os.environ.get("LBF_CURSOR_AUTO_MODEL", "auto")
 
 
-def sonnet_model() -> str:
+def polish_model() -> str:
     return (
-        os.environ.get("LBF_CURSOR_SONNET_MODEL")
+        os.environ.get("LBF_CURSOR_POLISH_MODEL")
+        or os.environ.get("LBF_CURSOR_SONNET_MODEL")
         or os.environ.get("LBF_SONNET_MODEL")
-        or "claude-sonnet-5"
+        or "gpt-5.6-terra"
     )
+
+
+def sonnet_model() -> str:
+    """Compatibility alias for older callers."""
+    return polish_model()
 
 
 def agent_binary() -> str | None:
@@ -245,16 +250,22 @@ SPANISH_CHECK_PROMPT = (
 ).read_text(encoding="utf-8").strip()
 
 # Forms the fidelity audit has accepted that a reader still cannot say.
-UNCURRENT = ((re.compile(r"(?<![\w*])ea(?![\w*])", re.IGNORECASE), "Ea is not current Spanish"),)
+UNCURRENT = (
+    (re.compile(r"(?<![\w*])ea(?![\w*])", re.IGNORECASE), "Ea is not current Spanish"),
+    (
+        re.compile(r"^\s*Y fue que\b", re.IGNORECASE),
+        "literal clause opening does not flow in current Spanish",
+    ),
+    (
+        re.compile(r"\bles\s+hizo\s+a\s+ellos\b", re.IGNORECASE),
+        "redundant indirect object is clumsy Spanish",
+    ),
+)
 
 
 def spanish_check_path(slug: str, chapter: int, verse: int) -> Path:
-    artifact = polish_path(slug, chapter, verse, SONNET_LABEL)
-    suffix = f"polish-{SONNET_LABEL}.json"
-    name = artifact.name
-    if name.endswith(suffix):
-        name = name[: -len(suffix)] + "spanish-check.json"
-    return artifact.with_name(name)
+    artifact = polish_path(slug, chapter, verse, POLISH_LABEL)
+    return artifact.parent / f"{slug}-{chapter}-{verse}.spanish-check.json"
 
 
 def local_spanish_fails(spanish: str) -> list:
@@ -274,12 +285,18 @@ def verify_spanish(slug: str, chapter: int, verse: int, spanish: str, caller, *,
     path = spanish_check_path(slug, chapter, verse)
     if resume:
         stored = read_json(path)
-        if stored and stored.get("spanish") == spanish and stored.get("verdict") in {"pass", "fail"}:
+        if (
+            stored
+            and stored.get("policy") == SPANISH_CHECK_POLICY
+            and stored.get("spanish") == spanish
+            and stored.get("verdict") in {"pass", "fail"}
+        ):
             return stored
     local = local_spanish_fails(spanish)
     if local:
         doc = {
             "schema": "lbf-spanish-check-v1",
+            "policy": SPANISH_CHECK_POLICY,
             "checker": "local",
             "book": slug,
             "chapter": chapter,
@@ -305,8 +322,9 @@ def verify_spanish(slug: str, chapter: int, verse: int, spanish: str, caller, *,
             "verse": verse,
             "spanish": spanish,
             "instruction": (
-                "Judge only whether the Spanish is current and readable. "
-                "Fail a word a reader would not recognize. Do not judge the Hebrew."
+                "Judge only whether the Spanish is current, grammatical, idiomatic, "
+                "and readable aloud. Flag source-language calques and clumsy word order. "
+                "Do not judge the Hebrew or demand freer paraphrase."
             ),
         },
     )
@@ -328,6 +346,7 @@ def verify_spanish(slug: str, chapter: int, verse: int, spanish: str, caller, *,
         )
     doc = {
         "schema": "lbf-spanish-check-v1",
+        "policy": SPANISH_CHECK_POLICY,
         "checker": "Cursor Auto",
         "book": slug,
         "chapter": chapter,
@@ -351,7 +370,7 @@ def reject_uncurrent(
     *,
     resume: bool,
 ) -> dict | None:
-    """Park when Sonnet's Spanish fails the current-Spanish check.
+    """Park when the polish model's Spanish fails the current-Spanish check.
 
     Does not rewrite the verse. A new candidate that fails is not written.
     A bad line already in the file stays for the translator.
@@ -478,9 +497,12 @@ def call_cursor(model: str, request: Path) -> dict:
                 if "model" in detail.lower():
                     hint = (
                         " Run `agent models` and set LBF_CURSOR_AUTO_MODEL or "
-                        "LBF_CURSOR_SONNET_MODEL."
+                        "LBF_CURSOR_POLISH_MODEL."
                     )
-                error = RuntimeError(f"agent exit {proc.returncode}: {detail[-800:]}{hint}")
+                error = RuntimeError(
+                    f"agent exit {proc.returncode} for model {model}: "
+                    f"{detail[-800:]}{hint}"
+                )
             elif not (proc.stdout or "").strip():
                 error = RuntimeError("agent returned an empty answer")
             else:
@@ -633,7 +655,7 @@ def repair(
     *,
     reuse: bool = True,
 ) -> dict:
-    artifact = polish_path(slug, chapter, verse, SONNET_LABEL)
+    artifact = polish_path(slug, chapter, verse, POLISH_LABEL)
     stored = read_json(artifact) if reuse else None
     if stored and stored.get("sourceDraft") == original and str(stored.get("spanish") or "").strip():
         return stored
@@ -649,7 +671,7 @@ def repair(
     }
     request = write_role_request(
         request_for(artifact),
-        model=sonnet_model(),
+        model=polish_model(),
         system=polish_system(),
         user=polish_user(packet, draft, audit_for_prompt),
         extra={
@@ -668,8 +690,8 @@ def repair(
             ),
         },
     )
-    raw = ask(caller, sonnet_model(), request, "polish")
-    polish = normalize_polish(raw, packet, draft, SONNET_LABEL)
+    raw = ask(caller, polish_model(), request, "polish")
+    polish = normalize_polish(raw, packet, draft, POLISH_LABEL)
     polish["spanish"] = apply_names(str(polish.get("spanish") or "").strip())
     polish["sourceDraft"] = original
     polish["policy"] = SCOPE
@@ -791,7 +813,7 @@ def run_verse(
         if not original:
             return row(verse, "error", notes="empty draft")
 
-    polish = read_json(polish_path(slug, chapter, verse, SONNET_LABEL)) if resume else None
+    polish = read_json(polish_path(slug, chapter, verse, POLISH_LABEL)) if resume else None
     polish_spanish = str((polish or {}).get("spanish") or "").strip()
     if polish and polish_spanish and polish_spanish != original:
         prior = load_audit(slug, chapter, verse, POLISH_LABEL, polish_spanish)
@@ -835,7 +857,17 @@ def run_verse(
             reader_note="hold: clause role",
         )
 
-    questionable = bool(lint_findings) or not is_clean(audit)
+    spanish_check = None
+    if not lint_findings and is_clean(audit):
+        spanish_check = verify_spanish(
+            slug, chapter, verse, original, caller, resume=resume
+        )
+    flow_findings = (
+        list(spanish_check.get("findings") or [])
+        if spanish_check and spanish_check.get("verdict") == "fail"
+        else []
+    )
+    questionable = bool(lint_findings) or not is_clean(audit) or bool(flow_findings)
     if full:
         questionable = True
     if not questionable:
@@ -843,20 +875,34 @@ def run_verse(
         status = "drafted" if drafted else "kept"
         return row(verse, status, applied=applied, spanish=original, drafted=drafted)
 
+    repair_audit = audit
+    if flow_findings:
+        repair_audit = dict(audit or {})
+        repair_audit["verdict"] = "fail"
+        repair_audit["findings"] = list((audit or {}).get("findings") or []) + [
+            {
+                **finding,
+                "issue": f"Spanish flow: {finding.get('issue') or 'not natural Spanish'}",
+                "sourceTokenIds": finding.get("sourceTokenIds") or [],
+            }
+            for finding in flow_findings
+        ]
+        repair_audit["notes"] = "The fidelity audit passed; repair only Spanish grammar and flow."
+
     repaired = repair(
         slug,
         chapter,
         verse,
         packet,
         original,
-        audit,
+        repair_audit,
         lint_findings,
         caller,
         reuse=resume and not retry_agreement,
     )
     spanish = str(repaired.get("spanish") or "").strip()
     if not spanish:
-        return row(verse, "error", notes="empty Sonnet answer", drafted=drafted)
+        return row(verse, "error", notes="empty polish answer", drafted=drafted)
     note = str(repaired.get("readerNote") or "").strip()
     if hold_note(note):
         return row(
@@ -868,7 +914,7 @@ def run_verse(
             reader_note=note,
         )
     if spanish == original and not drafted:
-        notes = "Sonnet left this Spanish unchanged"
+        notes = "Terra left this Spanish unchanged"
         if not lint_findings:
             marked = accept_marked_copula(slug, chapter, verse, original, audit)
             if marked:
@@ -890,7 +936,7 @@ def run_verse(
         return row(
             verse,
             "parked",
-            notes="Sonnet left a lint failure",
+            notes="Terra left a lint failure",
             spanish=spanish,
             drafted=drafted,
             findings=polish_lint,
@@ -965,8 +1011,8 @@ def accept_marked_copula(
 
 
 def unchanged(slug: str, chapter: int, verse: int, spanish: str) -> dict:
-    """Sonnet already returned this same line. Do not call a model again."""
-    notes = "Sonnet left this Spanish unchanged"
+    """The polish model already returned this same line. Do not call it again."""
+    notes = "Terra left this Spanish unchanged"
     lint_findings = lint_spanish(spanish)
     audit = load_audit(slug, chapter, verse, LBF_LABEL, spanish)
     if not lint_findings:
@@ -995,14 +1041,14 @@ def finish_current(
     *,
     resume: bool,
 ) -> dict:
-    """The book line is already Sonnet's Spanish. Re-audit once if needed."""
+    """The book line is already Terra's Spanish. Re-audit once if needed."""
     lint_findings = lint_spanish(spanish)
     record_lint(slug, chapter, verse, spanish, lint_findings)
     if lint_findings:
         return row(
             verse,
             "parked",
-            notes="Sonnet left a lint failure",
+            notes="Terra left a lint failure",
             spanish=spanish,
             findings=lint_findings,
         )
@@ -1017,7 +1063,7 @@ def finish_current(
             spanish=spanish,
             findings=second.get("findings") or [],
         )
-    polish = read_json(polish_path(slug, chapter, verse, SONNET_LABEL)) or {}
+    polish = read_json(polish_path(slug, chapter, verse, POLISH_LABEL)) or {}
     previous = str(polish.get("sourceDraft") or "").strip()
     rejected = reject_uncurrent(
         slug, chapter, verse, previous, spanish, caller, resume=resume
@@ -1028,7 +1074,7 @@ def finish_current(
         verse,
         "kept",
         warns=warn_count(second),
-        notes="already Sonnet's Spanish",
+        notes="already Terra's Spanish",
         spanish=spanish,
         findings=second.get("findings") or [],
         reader_note=str(polish.get("readerNote") or "").strip(),
@@ -1143,12 +1189,12 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--no-resume",
         action="store_true",
-        help="Ignore stored audits and call Auto and Sonnet again",
+        help="Ignore stored audits and call Auto and Terra again",
     )
     parser.add_argument(
         "--full",
         action="store_true",
-        help="Send every verse to Sonnet, including a clean pass",
+        help="Send every verse to Terra, including a clean pass",
     )
     parser.add_argument(
         "--workers",

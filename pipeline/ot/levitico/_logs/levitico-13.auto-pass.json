@@ -19,9 +19,342 @@
     54
   ],
   "drafted": [],
-  "repaired": [],
-  "repairedWithWarn": [],
+  "repaired": [
+    2,
+    6,
+    12,
+    13,
+    23,
+    26,
+    32,
+    39,
+    42,
+    47,
+    57,
+    58
+  ],
+  "repairedWithWarn": [
+    11,
+    31,
+    37,
+    38,
+    49,
+    51
+  ],
   "parked": [
+    {
+      "verse": 3,
+      "notes": "clause role",
+      "spanish": "Y verá el sacerdote la plaga en piel de la carne, y pelo en la plaga se volvió blanco, y apariencia de la plaga profunda desde piel de su carne: plaga de tsaráat ella. Y la verá el sacerdote, y lo impurecerá.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013003017"
+          ],
+          "issue": "צרעת is a common noun (H6883 feminine absolute), not a proper name; tsaráat leaves the lemma untranslated.",
+          "spanishSpan": "tsaráat"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03013003009"
+          ],
+          "issue": "Qal perfect הפך is smoothed as the pronominal se volvió; the hair still turns white, with no new participant.",
+          "spanishSpan": "se volvió"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03013003011",
+            "h03013003013"
+          ],
+          "issue": "Masculine עמוק follows the construct מראה הנגע and, with both nouns masculine, can predicate the appearance or the plague; profunda after plaga is readable as depth of the plague.",
+          "spanishSpan": "apariencia de la plaga profunda"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "notes": "clause role",
+      "spanish": "Y la verá el sacerdote en el día el séptimo, y he aquí la plaga se paró en sus ojos; no se extendió la plaga en la piel, y lo encerrará el sacerdote siete días segunda.",
+      "findings": []
+    },
+    {
+      "verse": 8,
+      "notes": "spanish check",
+      "spanish": "Y verá el sacerdote, y he aquí se extendió la erupción en la piel, y lo impurecerá el sacerdote; lepra ella.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«impurecerá» no es una palabra del español actual; el lector tiene que adivinarla.",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "notes": "re-audit fail",
+      "spanish": "Plaga de lepra cuando fuere en hombre, y será traído al sacerdote.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013009006",
+            "h03013009001",
+            "h03013009005"
+          ],
+          "issue": "Hophal sequential perfect 3ms does not name its subject. Both the masculine mark and the man fit that morphology. Masculine traído agrees only with hombre, so the Spanish decides the man is brought.",
+          "spanishSpan": "será traído"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "notes": "re-audit fail",
+      "spanish": "Y verá el sacerdote, y he aquí elevación blanca en la piel, y ella volvió pelo blanco, y reanimación de carne viva en la elevación.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013010011"
+          ],
+          "issue": "reanimación turns the construct noun H4241 into a resuscitation event and adds an “again” the live/raw-flesh token does not license",
+          "spanishSpan": "reanimación"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "notes": "spanish check",
+      "spanish": "Y verá el sacerdote la carne la viva, y lo impurecerá; la carne la viva impura ella; lepra ella.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá is not a current Spanish word; a reader would have to guess it",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "notes": "clause role",
+      "spanish": "O cuando volviere la carne la viva y se volviere a blanco, y vendrá al sacerdote.",
+      "findings": []
+    },
+    {
+      "verse": 17,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y la verá el sacerdote, y he aquí se volvió la plaga a blanco, y purificará el sacerdote la plaga; puro él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013017001"
+          ],
+          "issue": "Object suffix is 3rd masculine singular; Spanish la is feminine.",
+          "spanishSpan": "la"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "notes": "spanish check",
+      "spanish": "Y verá el sacerdote, y he aquí su apariencia más baja que la piel, y su pelo tornó blanco, y lo impurecerá el sacerdote; plaga de lepra ella; brotó en la úlcera.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá no es una forma del español actual; el lector tiene que adivinar el verbo",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "notes": "re-audit fail",
+      "spanish": "Y si extendiendo se extendiere en la piel, y lo impurecerá el sacerdote; ella es *plaga*.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013022009"
+          ],
+          "issue": "Pronoun is 3ms; Spanish ella is feminine.",
+          "spanishSpan": "ella"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013022008",
+            "h03013022009"
+          ],
+          "issue": "Unmarked supplied copula in a verbless clause.",
+          "spanishSpan": "es"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03013022008"
+          ],
+          "issue": "plaga is asterisked as supplied, but the noun token licenses it.",
+          "spanishSpan": "*plaga*"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "notes": "spanish check",
+      "spanish": "O carne, cuando fuere en su piel quemadura de fuego, y fuere carne viva de la quemadura mancha blanca rojiza o blanca,",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "futuro de subjuntivo arcaico de ser; en el español actual no se reconoce como forma corriente",
+          "spanishSpan": "fuere"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "notes": "spanish check",
+      "spanish": "y la verá el sacerdote, y he aquí se volvió pelo blanco en la mancha brillante, y su apariencia profunda desde la piel: lepra ella; en la quemadura brotó. Y lo impurecerá el sacerdote; plaga de lepra ella.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá no es un verbo del español actual; el lector tiene que adivinarlo",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "notes": "spanish check",
+      "spanish": "Y lo verá el sacerdote en el día el séptimo; si extender extendiere en la piel, y lo impurecerá el sacerdote; plaga de lepra ella.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "«impurecerá» no es una palabra del español actual; el lector tiene que adivinar el verbo.",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "notes": "clause role",
+      "spanish": "Y si debajo de ella se parare la mancha, no se extendió en la piel, y ella oscura, elevación de la quemadura ella, y lo purificará el sacerdote, porque cicatriz de la quemadura ella.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013028009"
+          ],
+          "issue": "H3544 is dim, dull, or faint; oscura resolves it as dark.",
+          "spanishSpan": "oscura"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03013028004"
+          ],
+          "issue": "H934 names a bright spot; mancha leaves out the brightness in the lemma.",
+          "spanishSpan": "la mancha"
+        },
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03013028003",
+            "h03013028006"
+          ],
+          "issue": "Both verbs are qal (stand; spread). The clitic se is intransitive smoothing and does not change the participants.",
+          "spanishSpan": "se parare; se extendió"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "notes": "spanish check",
+      "spanish": "y verá el sacerdote la plaga, y he aquí su apariencia profunda desde la piel, y en él pelo amarillo fino, y lo impurecerá el sacerdote; tiña él; lepra de la cabeza o de la barba él.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "impurecerá no es una palabra del español actual; hay que adivinarla",
+          "spanishSpan": "impurecerá"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "notes": "re-audit fail",
+      "spanish": "Y se afeitará, y el neteq no lo afeitará, y encerrará el sacerdote el neteq siete días una segunda vez.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013033003",
+            "h03013033009"
+          ],
+          "issue": "הַנֶּתֶק (H5424) is a common noun, not a name; Spanish leaves it as the untranslated loanword neteq.",
+          "spanishSpan": "el neteq"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y verá el sacerdote el neteq en el día el séptimo, y he aquí no se extendió el neteq en la piel, y su apariencia no es profunda desde la piel, y lo purificará el sacerdote, y lavará sus vestidos, y será puro.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013034004",
+            "h03013034010"
+          ],
+          "issue": "H5424 is a common noun, not a proper name, and is left untranslated as neteq.",
+          "spanishSpan": "el neteq"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "notes": "clause role",
+      "spanish": "Y si extendiendo se extendiere el neteq en la piel después de su purificación,",
+      "findings": []
+    },
+    {
+      "verse": 36,
+      "notes": "clause role",
+      "spanish": "y lo verá el sacerdote, y he aquí se extendió el neteq en la piel, no buscará el sacerdote al pelo el amarillo; impuro él.",
+      "findings": []
+    },
+    {
+      "verse": 43,
+      "notes": "re-audit fail",
+      "spanish": "Y lo verá el sacerdote, y he aquí elevación blanca rojiza de la plaga en su calva o en su frente calva, como apariencia de lepra de piel de carne.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013043005",
+            "h03013043006",
+            "h03013043007",
+            "h03013043008"
+          ],
+          "issue": "שְׂאֵת הַנֶּגַע is definite because the rectum has the article, and the anarthrous adjectives are predicates of that rising; Spanish makes an indefinite noun phrase with attributive colors.",
+          "spanishSpan": "elevación blanca rojiza de la plaga"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "notes": "spanish check",
+      "spanish": "Y el leproso que en él la plaga, sus vestidos serán rasgados, y su cabeza será descubierta, y se cubrirá el bigote, e impuro, impuro llamará.",
+      "findings": [
+        {
+          "severity": "fail",
+          "issue": "cláusula incompleta: falta el verbo y hay que adivinarlo",
+          "spanishSpan": "que en él la plaga"
+        }
+      ]
+    },
     {
       "verse": 46,
       "notes": "clause role",
@@ -65,190 +398,184 @@
           "spanishSpan": "a fuera al campamento"
         }
       ]
+    },
+    {
+      "verse": 48,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "o en urdimbre o en trama, al lino y a la lana, o en piel o en toda obra de piel,",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03013048005"
+          ],
+          "issue": "פִּשְׁתִּים is masculine plural; lino is a singular mass noun (grammatical smoothing, same material).",
+          "spanishSpan": "lino"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "notes": "re-audit fail",
+      "spanish": "Y quemará el vestido o la urdimbre o la trama, en la lana o en los linos, o todo utensilio de la piel que fuere en él la plaga, porque tsaráat maligna ella; en el fuego será quemada.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h03013052023"
+          ],
+          "issue": "צָרַעַת is a common noun (H6883), not a name; tsaráat leaves the lemma untranslated instead of a Spanish common noun.",
+          "spanishSpan": "tsaráat"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "notes": "Sonnet left this Spanish unchanged",
+      "spanish": "Y verá el sacerdote después de ser lavada la plaga, y he aquí no volvió la plaga su ojo, y la plaga no se extendió: impura ella; en el fuego la quemarás; corrosión ella, en su calvicie o en su frente calva.",
+      "findings": [
+        {
+          "severity": "warn",
+          "sourceTokenIds": [
+            "h03013055004",
+            "h03013055016",
+            "h03013055017",
+            "h03013055019"
+          ],
+          "issue": "Pual wash, masculine טָמֵא הוּא, and the 3ms burn-suffix are smoothed to feminine lavada/impura/ella/la with plaga; same referent and passive/2ms force, meaning unchanged.",
+          "spanishSpan": "lavada; impura ella; la quemarás"
+        }
+      ]
+    },
+    {
+      "verse": 56,
+      "notes": "clause role",
+      "spanish": "Y si viere el sacerdote, y he aquí oscureció la plaga después de ser lavado a él, y rasgará a él desde el vestido o desde la piel o desde la urdimbre o desde la trama.",
+      "findings": []
     }
   ],
   "errors": [
     {
-      "verse": 2,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $257 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 3,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $257 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 5,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $257 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 6,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $257 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 8,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $257 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 9,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 10,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 11,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 12,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 13,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 15,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 16,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 17,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 20,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 22,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 23,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 24,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 25,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $258 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 26,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 27,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 28,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 30,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 31,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 32,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 33,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 34,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 35,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $259 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 36,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 37,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 38,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 39,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 42,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 43,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 45,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 47,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 48,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 49,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $260 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 51,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 52,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 55,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 56,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 57,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
-      "verse": 58,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
-    },
-    {
       "verse": 59,
-      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $261 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $348 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
     }
   ],
   "readerNotes": [
     {
+      "verse": 2,
+      "note": "Chose 'lepra' for H6883, 'costra' for H5597, and 'mancha brillante' for H934 as the Spanish common nouns the audit required; these are standard lexical renderings, not interpretive additions."
+    },
+    {
+      "verse": 3,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 5,
+      "note": "hold: clause role — the 3ms suffix on the verb may point to the man under examination rather than to la plaga, so choosing lo vs. la decides which participant is the object seen."
+    },
+    {
+      "verse": 6,
+      "note": "Supplied copula *es* for the headless nominal clause (erupción es ella); kept the dimming/fading sense of the piel perfect with palideció instead of oscureció."
+    },
+    {
+      "verse": 8,
+      "note": "«impurecerá» no es una palabra del español actual; el lector tiene que adivinarla."
+    },
+    {
+      "verse": 11,
+      "note": "Se sustituyó la transliteración «Tsaráat» por «lepra» (término ya usado para H6883 en el resto del corpus) y «vieja» por «envejecida» para conservar el valor participial del nifal נוֹשֶׁנֶת."
+    },
+    {
+      "verse": 13,
+      "note": "Se sustituyó la transliteración «tsaráat» por «lepra» (término ya usado para H6883 en el resto del corpus), sin tocar «plaga» (הַנָּגַע, H5061)."
+    },
+    {
+      "verse": 15,
+      "note": "impurecerá is not a current Spanish word; a reader would have to guess it"
+    },
+    {
+      "verse": 16,
+      "note": "hold: clause role — whether the second sequential perfect (ובא, \"vendrá\") opens the apodosis or whether the first (ונהפך, \"se volviere a blanco\") still continues the \"cuando\" protasis is a clause-boundary call the morphology alone does not settle, so both verbs are left in the mood the draft gave them."
+    },
+    {
+      "verse": 20,
+      "note": "impurecerá no es una forma del español actual; el lector tiene que adivinar el verbo"
+    },
+    {
+      "verse": 23,
+      "note": "Se repararon las dos coincidencias citadas por el auditor: «mancha» pasó a «mancha brillante» para H934, y «se parare» pasó a «permaneciere» para quitar el matiz de detenerse en תַּעֲמֹד."
+    },
+    {
+      "verse": 24,
+      "note": "futuro de subjuntivo arcaico de ser; en el español actual no se reconoce como forma corriente"
+    },
+    {
+      "verse": 25,
+      "note": "impurecerá no es un verbo del español actual; el lector tiene que adivinarlo"
+    },
+    {
+      "verse": 26,
+      "note": "Se repararon las dos coincidencias citadas por el auditor: «mancha» pasó a «mancha brillante» para H934, y «oscura» pasó a «apagada» para abrir el rango de H3544 a tenue/mate/oscuro."
+    },
+    {
+      "verse": 27,
+      "note": "«impurecerá» no es una palabra del español actual; el lector tiene que adivinar el verbo."
+    },
+    {
+      "verse": 28,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 30,
+      "note": "impurecerá no es una palabra del español actual; hay que adivinarla"
+    },
+    {
+      "verse": 32,
+      "note": "H5424 (neteq) is rendered \"erupción\" per the AHRC lexical gloss, not a specific diagnosis such as tiña."
+    },
+    {
+      "verse": 35,
+      "note": "hold: the packet supplies no Spanish gloss for הַנֶּתֶק (H5424), only lemma/Strong's/morph data; supplying a Spanish word for it would mean translating from memory, which Pulir may not do, so the draft is left unchanged."
+    },
+    {
+      "verse": 36,
+      "note": "hold: lexical gloss — h03013036005 (neteq, Ncmsa) has no Spanish gloss in the packet, only Strong's/morph data; supplying one would be translating from memory, outside grammar-only polish."
+    },
+    {
+      "verse": 39,
+      "note": "Chose 'erupción' as the Spanish common noun for בֹּהַק (H933), since the auditor flagged it as untranslated but the lexeme itself allows more than one acceptable Spanish rendering of this one-time technical skin-condition term."
+    },
+    {
+      "verse": 42,
+      "note": "Se sustituyó la transliteración «tsaráat» por «lepra» (término ya usado para H6883 en el resto del corpus); no se tocó ningún participante, número ni fuerza del tema verbal."
+    },
+    {
+      "verse": 45,
+      "note": "cláusula incompleta: falta el verbo y hay que adivinarlo"
+    },
+    {
       "verse": 46,
       "note": "hold: clause role"
+    },
+    {
+      "verse": 47,
+      "note": "Kept 'lino' as a singular mass noun for the plural פשתים (H6593), the same material-plural-to-singular pattern already used for lana; no participants or clause roles were touched."
+    },
+    {
+      "verse": 49,
+      "note": "Se mantuvo la concordancia femenina en 'verdosa', 'rojiza', 'ella' y 'mostrada' porque su referente gramatical en español es 'la plaga'/'lepra', ambos femeninos, aunque יְרַקְרַק, אֲדַמְדָּם, הוּא y הָרְאָה están etiquetados como masculino singular en hebreo; forzar el masculino rompería la concordancia que exige el sustantivo español al que modifican."
+    },
+    {
+      "verse": 51,
+      "note": "Hebrew טָמֵא הוּא is masculine, agreeing with the masculine Hebrew noun behind \"the plague\"; Spanish keeps impura/ella feminine to agree with the chosen Spanish noun la plaga, since both genders cannot be kept at once."
+    },
+    {
+      "verse": 56,
+      "note": "hold: clause role — the את object suffix on הֻכַּבֵּס אֹתוֹ marks the patient that was washed, not a לְ beneficiary; 'a él' reads as dative but the clause role is left for the human reader, not repaired here."
+    },
+    {
+      "verse": 58,
+      "note": "Chose the adverbial 'por segunda vez' over the bare ordinal 'segunda' to avoid gender disagreement with the masculine 'lavado.'"
     }
   ]
 }

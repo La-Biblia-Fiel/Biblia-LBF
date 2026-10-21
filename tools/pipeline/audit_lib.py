@@ -57,7 +57,7 @@ FAIL when the Spanish:
 - changes number, person, stem force, or participants
 
 PROPER NAMES: conventional Spanish form when one exists
-(translation/PROPER_NAMES.md). יהוה → Jehová. If a rendering would only
+(translation/PROPER_NAMES.md). יהוה → Yahvé. If a rendering would only
 identify the referent, keep the traditional name. Common nouns stay
 Spanish.
 

@@ -1,0 +1,40 @@
+{
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04022027009",
+        "h04022027010",
+        "h04022027011"
+      ],
+      "issue": "אַף is tagged as an affirmation particle (HTa) while lemma 639 is the noun; “nariz de Bilam” picks the construct-noun reading, drops the particle, and makes Bilam the possessor instead of the subject of the 3ms verb.",
+      "spanishSpan": "nariz de Bilam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022027009"
+      ],
+      "issue": "Qal וַיִּחַר is smoothed as reflexive “se encendió”.",
+      "spanishSpan": "se encendió"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022027006"
+      ],
+      "issue": "Qal וַתִּרְבַּץ is smoothed as reflexive “se echó”.",
+      "spanishSpan": "se echó"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04022027007"
+      ],
+      "issue": "תַּחַת is marked only as a preposition; “debajo de” locks the spatial “under” sense.",
+      "spanishSpan": "debajo de"
+    }
+  ],
+  "notes": "Jehová, la asna, mensajero, the strike, and el palo match the other tokens; Bilam is not locked in PROPER_NAMES.md."
+}

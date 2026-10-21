@@ -1,0 +1,179 @@
+{
+  "schema": "lbf-auto-pass-v1",
+  "book": "numeros",
+  "chapter": 15,
+  "kept": [
+    1,
+    2,
+    7,
+    12,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    27,
+    31,
+    33,
+    34,
+    37,
+    40,
+    41
+  ],
+  "drafted": [],
+  "repaired": [],
+  "repairedWithWarn": [],
+  "parked": [
+    {
+      "verse": 3,
+      "notes": "clause role",
+      "spanish": "y harán ofrenda de fuego a Jehová, holocausto o sacrificio, para voto extraordinario o en ofrenda voluntaria o en sus citas, para hacer olor de reposo a Jehová, desde el ganado o desde el rebaño,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04015003007",
+            "h04015003008"
+          ],
+          "issue": "Piel infinitive לְפַלֵּא is a verbal act on נֶדֶר; Spanish drops the verb and turns it into the adjective extraordinario on voto.",
+          "spanishSpan": "para voto extraordinario"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "notes": "clause role",
+      "spanish": "Y cuando hagas hijo de ganado holocausto o sacrificio, para voto extraordinario o pazes a Jehová,",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04015008008",
+            "h04015008009"
+          ],
+          "issue": "Piel infinitive construct (לְפַלֵּא) is rendered as the adjective extraordinario, so the verbal act on the vow becomes a quality of the noun.",
+          "spanishSpan": "voto extraordinario"
+        },
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04015008011"
+          ],
+          "issue": "Masculine plural offering noun שְׁלָמִים is rendered as the non-word pazes, which only echoes paz and does not convey the offering.",
+          "spanishSpan": "pazes"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "notes": "clause role",
+      "spanish": "Y dijo Jehová a Moisés: Muriendo será muerto el varón; apedreándolo con las piedras toda la congregación a fuera al campamento.",
+      "findings": [
+        {
+          "severity": "fail",
+          "sourceTokenIds": [
+            "h04015035013",
+            "h04015035014"
+          ],
+          "issue": "מִחוּץ is from + outside and לְ marks the camp as the reference of that outside. 'a fuera al campamento' uses a/al ('to') for both, so the camp reads as the destination.",
+          "spanishSpan": "a fuera al campamento"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "verse": 4,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $352 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 5,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $351 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 6,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $352 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 9,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $352 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 10,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $352 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 11,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $352 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 13,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $352 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 14,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $353 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 16,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $353 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 24,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $353 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 25,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $354 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 26,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $353 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 28,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $353 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 29,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $353 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 30,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $354 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 32,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $354 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 36,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $354 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 38,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $354 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    },
+    {
+      "verse": 39,
+      "error": "agent exit 1: ActionRequiredError: You've hit your usage limit You've saved $354 on API model usage this month with Pro. Switch to a different model or set a Spend Limit to continue with Sonnet. Your usage limits will reset when your monthly cycle ends on 10/30/2026. Run `agent models` and set LBF_CURSOR_AUTO_MODEL or LBF_CURSOR_SONNET_MODEL."
+    }
+  ],
+  "readerNotes": [
+    {
+      "verse": 3,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 8,
+      "note": "hold: clause role"
+    },
+    {
+      "verse": 35,
+      "note": "hold: clause role"
+    }
+  ]
+}

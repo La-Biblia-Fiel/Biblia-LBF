@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 15:11",
+  "chapter": 15,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Así se hará al buey el uno, o al carnero el uno, o al cordero en los corderos o en las cabras.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04015011009",
+        "h04015011010",
+        "h04015011012"
+      ],
+      "issue": "H7716 is one flock animal of either kind. «cordero» narrows it to a young sheep, so the same head cannot stand «en las cabras»; the sheep class is already H3532.",
+      "spanishSpan": "cordero"
+    }
+  ],
+  "notes": "Passive 3ms, both «el uno», each «o», and «corderos»/«cabras» match their tokens.",
+  "discardedUncitedFindings": 0
+}

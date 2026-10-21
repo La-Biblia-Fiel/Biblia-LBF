@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 33:11",
+  "chapter": 33,
+  "verse": 11,
+  "candidateLabel": "lbf",
+  "spanish": "Y partieron desde mar de Suf, y acamparon en desierto de Sin.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04033011003"
+      ],
+      "issue": "H5488 is a common noun (HNcmsa), not a proper name; Suf leaves that non-name lemma untranslated.",
+      "spanishSpan": "Suf"
+    }
+  ],
+  "notes": "Partieron, desde, acamparon, en desierto de, and Sin match the other tokens.",
+  "discardedUncitedFindings": 0
+}

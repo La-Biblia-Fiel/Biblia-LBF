@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:21",
+  "chapter": 18,
+  "verse": 21,
+  "candidateLabel": "lbf",
+  "spanish": "Y a hijos de Leví, he aquí, di todo diezmo en Israel a heredad, a cambio de su servicio que ellos sirviendo el servicio de tienda de reunión.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04018021015"
+      ],
+      "issue": "El artículo definido el no está en el sustantivo constructo; es alisado gramatical y no cambia el sentido.",
+      "spanishSpan": "el servicio"
+    }
+  ],
+  "notes": "Orden, número, persona y repetición de servicio coinciden con los tokens; el participio queda sin cópula añadida.",
+  "discardedUncitedFindings": 0
+}

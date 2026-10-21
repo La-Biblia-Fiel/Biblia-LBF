@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 26:27",
+  "chapter": 26,
+  "verse": 27,
+  "candidateLabel": "lbf",
+  "spanish": "Estas familias del zevuloní a sus contados: sesenta mil y cinco cientos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04026027003"
+      ],
+      "issue": "Gentilic noun הַזְּבוּלֹנִי (definite, masculine singular) is left as the Hebraized form zevuloní instead of a Spanish gentilic.",
+      "spanishSpan": "zevuloní"
+    }
+  ],
+  "notes": "Estas, familias, a sus contados, and sesenta mil y cinco cientos match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 33:10",
+  "chapter": 33,
+  "verse": 10,
+  "candidateLabel": "lbf",
+  "spanish": "Y partieron desde Elim, y acamparon sobre mar de Suf.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04033010006"
+      ],
+      "issue": "סוּף is a common noun (HNcmsa), not a proper name; Suf leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "Suf"
+    }
+  ],
+  "notes": "Elim is the proper noun; partieron, desde, acamparon, sobre, and mar match the other tokens.",
+  "discardedUncitedFindings": 0
+}

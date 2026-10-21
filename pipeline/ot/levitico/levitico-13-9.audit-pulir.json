@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "levitico",
+  "reference": "Levítico 13:9",
+  "chapter": 13,
+  "verse": 9,
+  "candidateLabel": "pulir",
+  "spanish": "Plaga de lepra cuando fuere en hombre, y será traído al sacerdote.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h03013009006",
+        "h03013009001",
+        "h03013009005"
+      ],
+      "issue": "Hophal sequential perfect 3ms does not name its subject. Both the masculine mark and the man fit that morphology. Masculine traído agrees only with hombre, so the Spanish decides the man is brought.",
+      "spanishSpan": "será traído"
+    }
+  ],
+  "notes": "Plaga de lepra, cuando, fuere, en hombre, and al sacerdote stay within the remaining tokens.",
+  "discardedUncitedFindings": 0
+}

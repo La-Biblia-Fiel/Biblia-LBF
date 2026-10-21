@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 18:5",
+  "chapter": 18,
+  "verse": 5,
+  "candidateLabel": "lbf",
+  "spanish": "Y guardarán ustedes la guarda de la santidad y la guarda del altar, y no habrá todavía furor sobre hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04018005008",
+        "h04018005009",
+        "h04018005010"
+      ],
+      "issue": "«no habrá todavía» reads as «not yet»; negative + עוד licenses «no longer / not again».",
+      "spanishSpan": "no habrá todavía"
+    }
+  ],
+  "notes": "2mp weqatal as «guardarán ustedes», repeated משמרת, and קצף על בני ישראל stay inside the tokens.",
+  "discardedUncitedFindings": 0
+}

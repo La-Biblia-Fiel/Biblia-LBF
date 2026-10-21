@@ -1,0 +1,33 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "Cursor Auto",
+  "book": "numeros",
+  "reference": "Números 16:29",
+  "chapter": 16,
+  "verse": 29,
+  "candidateLabel": "lbf",
+  "spanish": "Si como muerte de todo el adam murieren estos, y visita de todo el adam fuere visitada sobre ellos, no Jehová me envió.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h04016029004",
+        "h04016029009"
+      ],
+      "issue": "הָאָדָם is a definite common noun (H120), not a proper name; adam leaves the lemma untranslated instead of Spanish.",
+      "spanishSpan": "el adam"
+    },
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h04016029007",
+        "h04016029010"
+      ],
+      "issue": "יִפָּקֵד is niphal imperfect 3ms, while visitada is feminine to agree with visita (פְּקֻדָּה, feminine). Agreement smoothing does not change the passive sense.",
+      "spanishSpan": "fuere visitada"
+    }
+  ],
+  "notes": "Conditional, death-of-all, these die, visitation upon them, and Jehová did not send me match the remaining tokens.",
+  "discardedUncitedFindings": 0
+}
