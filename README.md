@@ -51,6 +51,11 @@ La traducción nunca debe decir más de lo que dice el texto, ni menos de lo que
 
 ## Base textual
 
+La política cerrada y normativa de evidencia está en
+[`SOURCE_POLICY.md`](SOURCE_POLICY.md). Si un dato no está autorizado allí,
+no se usa para traducir, auditar ni alinear. Si el paquete autorizado no basta,
+el versículo queda en `HOLD`; no se consulta otra fuente para completarlo.
+
 El Nuevo Testamento se traduce del **Textus Receptus de Scrivener de 1894**.
 La fuente de trabajo es `source/greek/TR1894/robinson-parsed/`.
 

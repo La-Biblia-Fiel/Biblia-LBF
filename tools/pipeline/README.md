@@ -1,5 +1,15 @@
 # Translation pipeline
 
+`SOURCE_POLICY.md` is the closed, normative source boundary. Any model-facing
+packet must bind `lbf-source-policy-v2`; mismatched packets are refused. No
+other Bible, lexicon, syntax tree, web lookup, retrieval source, or existing
+LBF Spanish may enter drafting or fidelity decisions.
+
+The user has authorized a GPT-5.6 Sol path. Its governing chapter workflow is
+documented in `WORKFLOW.md`, but a dedicated GPT chapter executor has not yet
+replaced the command below. The Cursor command in this file is the retained
+legacy implementation and must not be represented as the GPT path.
+
 This is the procedure. One Protestant verse at a time, from a source
 packet. NT: **TR1894**. OT: **OSHB/WLC + Paleo/AHRC**.
 

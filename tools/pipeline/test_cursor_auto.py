@@ -21,11 +21,16 @@ class CursorAutoTests(unittest.TestCase):
     def setUp(self) -> None:
         self.tmp = Path(tempfile.mkdtemp())
         self.packet = {
+            "schema": "lbf-source-packet-v1",
+            "sourcePolicy": "lbf-source-policy-v2",
+            "evidencePolicy": "test-complete-evidence-bundle",
             "book": "exodo",
             "reference": "Éxodo 1:99",
             "chapter": 1,
             "verse": 99,
             "textualBasis": "OSHB/WLC",
+            "testament": "ot",
+            "allowedSources": ["OSHB/WLC-surface", "OSHB-lemma-morph", "Strongs-id-only"],
             "tokens": [
                 {"sourceTokenId": "h02001016007", "surface": "אבנים"},
                 {"sourceTokenId": "h02001016016", "surface": "וחי"},

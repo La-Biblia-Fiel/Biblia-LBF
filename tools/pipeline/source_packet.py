@@ -1,7 +1,8 @@
 """Build a source packet for one Protestant verse.
 
-Allowed evidence only: TR1894 (NT) or OSHB/WLC + Paleo/AHRC (OT).
-Never includes BLE glosses, RV1909, or existing LBF Spanish.
+Allowed evidence is closed by SOURCE_POLICY.md: TR1894 (NT) or OSHB/WLC
+(OT). Never includes another Bible, lexicon, commentary, or existing LBF
+Spanish.
 """
 
 from __future__ import annotations
@@ -16,8 +17,19 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from books import ROOT, Book, get_book
+from hebrew_lexicon import lookup as lookup_hebrew_lexicon
 from morph import expand_hebrew_morph
-from paleo import ahrc_for, strongs_from_lemma, to_paleo
+from paleo import strongs_from_lemma, to_paleo
+
+SOURCE_POLICY = "lbf-source-policy-v3"
+EVIDENCE_POLICY = "blocked-pending-canonical-evidence-bundle"
+OT_ALLOWED_SOURCES = [
+    "OSHB/WLC-surface",
+    "OSHB-lemma-morph",
+    "Strongs-id-only",
+    "OpenScriptures-HebrewLexicon@21c9add13bc727d3a951361778e97e3ff7afd1ce",
+]
+NT_ALLOWED_SOURCES = ["TR1894-surface", "Robinson-morph", "Strongs-id-only"]
 
 OSIS_NS = {"o": "http://www.bibletechnologies.net/2003/OSIS/namespace"}
 VERSE_LINE = re.compile(r"^(\d+):(\d+)\s+(.*)$")
@@ -209,13 +221,15 @@ def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
             "morph": morph,
             "morphExpanded": expand_hebrew_morph(morph),
         }
-        evidence = ahrc_for(strongs)
-        if evidence:
-            entry["ahrc"] = evidence
+        lexical_evidence = lookup_hebrew_lexicon(lemma)
+        if lexical_evidence is not None:
+            entry["lexicalEvidence"] = lexical_evidence
         tokens.append(entry)
 
     return {
         "schema": "lbf-source-packet-v1",
+        "sourcePolicy": SOURCE_POLICY,
+        "evidencePolicy": EVIDENCE_POLICY,
         "book": book.slug,
         "label": book.label,
         "testament": "ot",
@@ -224,13 +238,17 @@ def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
         "chapter": chapter,
         "verse": verse,
         "oshbOsis": "+".join(oshb_osis_parts),
-        "allowedSources": ["OSHB/WLC", "paleo-hebrew", "AHRC-nonbinding"],
+        "allowedSources": list(OT_ALLOWED_SOURCES),
         "forbiddenSources": [
             "memory",
             "theology",
             "RV1909",
             "BLE-gloss",
             "other-versions",
+            "unapproved-lexicons",
+            "web-or-retrieval",
+            "macula",
+            "AHRC/AHLB",
         ],
         "tokens": tokens,
     }
@@ -328,6 +346,8 @@ def build_nt_packet(book: Book, chapter: int, verse: int) -> dict:
         )
     return {
         "schema": "lbf-source-packet-v1",
+        "sourcePolicy": SOURCE_POLICY,
+        "evidencePolicy": EVIDENCE_POLICY,
         "book": book.slug,
         "label": book.label,
         "testament": "nt",
@@ -335,7 +355,7 @@ def build_nt_packet(book: Book, chapter: int, verse: int) -> dict:
         "reference": f"{book.label} {chapter}:{verse}",
         "chapter": chapter,
         "verse": verse,
-        "allowedSources": ["TR1894"],
+        "allowedSources": list(NT_ALLOWED_SOURCES),
         "forbiddenSources": [
             "memory",
             "theology",
@@ -343,6 +363,9 @@ def build_nt_packet(book: Book, chapter: int, verse: int) -> dict:
             "BLE-gloss",
             "critical-text",
             "other-versions",
+            "lexicons",
+            "web-or-retrieval",
+            "macula",
         ],
         "tokens": tokens,
     }
@@ -388,11 +411,33 @@ def build_packet(slug: str, chapter: int, verse: int) -> dict:
     return build_nt_packet(book, chapter, verse)
 
 
+def validate_packet(packet: dict) -> None:
+    """Refuse packets outside the closed canonical source policy."""
+    testament = packet.get("testament")
+    expected_basis = "OSHB/WLC" if testament == "ot" else "TR1894" if testament == "nt" else None
+    expected_sources = OT_ALLOWED_SOURCES if testament == "ot" else NT_ALLOWED_SOURCES if testament == "nt" else None
+    if packet.get("schema") != "lbf-source-packet-v1":
+        raise ValueError("noncanonical source packet schema")
+    if packet.get("sourcePolicy") != SOURCE_POLICY:
+        raise ValueError("source packet does not bind SOURCE_POLICY.md")
+    if packet.get("textualBasis") != expected_basis:
+        raise ValueError("source packet has a noncanonical textual basis")
+    if packet.get("allowedSources") != expected_sources:
+        raise ValueError("source packet has a noncanonical source allowlist")
+    if any("ahrc" in token for token in packet.get("tokens") or []):
+        raise ValueError("AHRC evidence is prohibited by SOURCE_POLICY.md")
+
+
 def packet_for_prompt(packet: dict) -> dict:
-    """Drop non-binding AHRC from the live model prompt. Disk packets stay full."""
+    """Return only authorized semantic evidence for a live model prompt."""
+    validate_packet(packet)
+    if packet.get("evidencePolicy") == "blocked-pending-canonical-evidence-bundle":
+        raise RuntimeError(
+            "model translation blocked: canonical form+morphology+syntax+discourse+corpus evidence bundle is incomplete"
+        )
     out = dict(packet)
     out["tokens"] = [
-        {key: value for key, value in token.items() if key != "ahrc"}
+        {key: value for key, value in token.items() if key != "paleo"}
         for token in packet.get("tokens") or []
     ]
     return out

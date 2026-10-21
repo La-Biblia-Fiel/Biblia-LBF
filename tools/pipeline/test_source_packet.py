@@ -27,7 +27,7 @@ class SourcePacketTests(unittest.TestCase):
         )
         self.assertIn("dual", stones["morphExpanded"])
         self.assertIn("paleo", stones)
-        self.assertNotIn("kjv", stones.get("ahrc") or {})
+        self.assertNotIn("ahrc", stones)
 
     def test_hebrew_dual_morph(self) -> None:
         self.assertIn("dual", expand_hebrew_morph("HTd/Ncmda"))
@@ -408,16 +408,40 @@ class SourcePacketTests(unittest.TestCase):
         self.assertEqual(usage["reasoning"], 3000)
         self.assertAlmostEqual(call_cost(usage), 2900 / 1_000_000 * 4 + 3600 / 1_000_000 * 20)
 
-    def test_prompt_packet_omits_ahrc_and_stays_compact(self) -> None:
+    def test_prompt_packet_is_blocked_without_canonical_evidence_bundle(self) -> None:
         packet = build_packet("exodo", 1, 16)
-        self.assertTrue(any(token.get("ahrc") for token in packet["tokens"]))
-        slim = packet_for_prompt(packet)
-        self.assertTrue(any(token.get("ahrc") for token in packet["tokens"]))
-        self.assertTrue(all("ahrc" not in token for token in slim["tokens"]))
-        self.assertTrue(all("paleo" in token for token in slim["tokens"] if "wlc" in token))
-        dumped = dump_prompt({"packet": slim})
-        self.assertNotIn("\n", dumped)
-        self.assertNotIn("ahrc", dumped)
+        self.assertEqual(packet["sourcePolicy"], "lbf-source-policy-v3")
+        self.assertEqual(
+            packet["evidencePolicy"],
+            "blocked-pending-canonical-evidence-bundle",
+        )
+        self.assertTrue(all("ahrc" not in token for token in packet["tokens"]))
+        with self.assertRaisesRegex(RuntimeError, "evidence bundle is incomplete"):
+            packet_for_prompt(packet)
+
+    def test_open_scriptures_lexicon_is_pinned_and_mapped(self) -> None:
+        packet = build_packet("exodo", 1, 1)
+        son = next(token for token in packet["tokens"] if token["lemma"] == "1121 a")
+        evidence = son["lexicalEvidence"]
+        self.assertEqual(evidence["augmentedStrong"], "1121a")
+        self.assertEqual(evidence["lexicalIndexId"], "bss")
+        self.assertEqual(
+            evidence["sourceCommit"],
+            "21c9add13bc727d3a951361778e97e3ff7afd1ce",
+        )
+        self.assertEqual(evidence["authority"], "secondary-possibilities-only")
+        self.assertTrue(evidence["possibleSenses"])
+
+    def test_tbesh_meaning_never_enters_ot_packet(self) -> None:
+        prompt = dump_prompt(build_packet("exodo", 1, 1))
+        self.assertNotIn("Online Bible", prompt)
+        self.assertNotIn("TBESH", prompt)
+
+    def test_prompt_rejects_noncanonical_source_allowlist(self) -> None:
+        packet = build_packet("titus", 1, 1)
+        packet["allowedSources"].append("other-version")
+        with self.assertRaisesRegex(ValueError, "noncanonical source allowlist"):
+            packet_for_prompt(packet)
 
     def test_grok_reasoning_billed_when_above_output(self) -> None:
         from usage_lib import call_cost, extract_usage
@@ -450,5 +474,3 @@ class SourcePacketTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
-

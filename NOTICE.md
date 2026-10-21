@@ -48,6 +48,37 @@ morphologically tagged) are treated as public domain. See
 `source/greek/TR1894/README.md` and the `SOURCE-README.md` files in that
 tree.
 
+### STEPBible TBESH / TBESG
+
+Approved source repository:
+`https://github.com/STEPBible/STEPBible-Data`, directory `Lexicons/`.
+
+The repository presents these files under Creative Commons Attribution 4.0
+International (CC BY 4.0). However, TBESH's own header states that its meaning
+fields are based on the Abridged BDB by Online Bible and that permission should
+be obtained from Online Bible before applying those definitions in a project.
+TBESH is therefore blocked pending written permission or replacement.
+
+TBESG is an approved candidate, not yet an installed canonical source. Its
+exact upstream commit, checksum, license, attribution, parser, and coverage must
+be validated before model use. Locally present TFLSJ files are not approved by
+this notice.
+
+### Open Scriptures HebrewLexicon
+
+Path: `Lexicons/HebrewLexicon-master/`
+
+The files are released under Creative Commons Attribution 4.0 International
+(CC BY 4.0). The upstream notice states that the actual Brown-Driver-Briggs and
+Strong dictionary text remains in the public domain.
+
+Required attribution:
+
+> Open Scriptures Hebrew Bible Project
+
+The exact upstream commit and local checksums are recorded in
+`Lexicons/PROVENANCE.md`.
+
 ## Not in this repository
 
 The reverse-alignment engine and its working database are private.

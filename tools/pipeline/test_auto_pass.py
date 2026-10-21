@@ -24,11 +24,16 @@ class AutoPassTests(unittest.TestCase):
         self.tmp = Path(tempfile.mkdtemp())
         self.calls: list[str] = []
         self.packet = {
+            "schema": "lbf-source-packet-v1",
+            "sourcePolicy": "lbf-source-policy-v2",
+            "evidencePolicy": "test-complete-evidence-bundle",
             "book": "exodo",
             "reference": "Éxodo 1:9",
             "chapter": 1,
             "verse": 9,
             "textualBasis": "OSHB/WLC",
+            "testament": "ot",
+            "allowedSources": ["OSHB/WLC-surface", "OSHB-lemma-morph", "Strongs-id-only"],
             "tokens": [{"sourceTokenId": TOKEN, "surface": "רב"}],
         }
         self.book = self.tmp / "book.md"

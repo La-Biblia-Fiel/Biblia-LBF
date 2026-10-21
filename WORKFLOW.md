@@ -1,6 +1,8 @@
 # Flujo de trabajo
 
 Lea el juramento en `README.md` antes de escribir español.
+Lea también `SOURCE_POLICY.md`. Su lista de fuentes es cerrada: si el paquete
+no basta, el versículo queda en `HOLD`. No se busca otra fuente.
 
 La traducción es el procedimiento de abajo. El detalle de archivos y
 comandos está en `tools/pipeline/README.md`. `STATUS.md` y
@@ -13,10 +15,60 @@ por el español ya escrito. Numeración protestante. NT: TR1894. AT:
 OSHB/WLC. Español actual de Latinoamérica (`tú` / ustedes). Nombres:
 `translation/PROPER_NAMES.md`.
 
+El modelo no navega, no recupera documentos y no recibe otra Biblia. La LBF
+existente no entra al prompt de redacción. Toda unidad del candidato cita
+`sourceTokenIds`; una cuestión que el paquete no resuelve se aparta para una
+persona.
+
+La decisión de significado sigue esta evidencia, en este orden de trabajo:
+
+```text
+forma → morfología → sintaxis → discurso → uso en el corpus original
+```
+
+Los léxicos y la investigación Paleo-Hebrew son testigos secundarios. Pueden
+describir opciones o señalar un problema, pero no eligen el sentido del
+contexto. Una afirmación que la evidencia canónica no justifica queda en
+`HOLD`.
+
+Open Scriptures HebrewLexicon es el testigo léxico autorizado para el AT,
+fijado por commit y checksum. El paquete llega a él desde el lema Strong
+aumentado de OSHB; sus sentidos siguen siendo opciones secundarias y nunca
+eligen la traducción. TBESG es el candidato griego autorizado, pendiente de
+parser y validación de cobertura. El campo `Meaning` de TBESH está bloqueado
+por el aviso de Online Bible; el paquete no lo lee. TFLSJ y TFLSJ extra están
+presentes pero no autorizados. HALOT, DCH y BDAG tampoco entran al paquete
+automático sin una licencia escrita específica para ese uso.
+
+### Camino GPT autorizado
+
+Cuando el usuario autoriza explícitamente el camino pagado, GPT-5.6 Sol redacta
+un versículo a la vez desde el paquete canónico. Devuelve solamente el español,
+las unidades con `sourceTokenIds`, incertidumbres y conceptos añadidos (que
+debe dejar vacíos). El lint local comprueba reglas mecánicas. Un auditor
+independiente compara el candidato con el mismo paquete y no reescribe.
+
+El capítulo entra en `translation/` solamente con los candidatos que pasaron
+fidelidad y español; los demás conservan el texto anterior y quedan en el
+informe como `HOLD`. Después una persona lee el capítulo completo para comprobar
+continuidad, voz y fluidez. Ningún pase de modelo constituye aprobación humana.
+
+Las unidades enlazadas que produce GPT pueden convertirse en semilla de
+alineación. La persona debe abrir cada frase, comprobar cada enlace contra los
+tokens visibles y pulsar **Confirmar frase completa**. Hasta entonces la
+alineación sigue siendo semilla y `draft`.
+
 No suavice. No fortalezca. No resuelva lo que el texto deja abierto.
 No trabaje de memoria, de otra versión, ni desde la teología.
 
-### Estaciones
+### Camino Cursor anterior (suspendido para el trabajo GPT)
+
+Lo que sigue documenta el comando Cursor existente. No es el camino GPT
+autorizado arriba y no debe mezclarse con él dentro de un capítulo. Se conserva
+hasta que el ejecutor GPT tenga su propia prueba piloto y sustituya este tramo
+de manera explícita.
+
+#### Estaciones del camino anterior
 
 | Orden | Quién | Cuándo |
 | --- | --- | --- |

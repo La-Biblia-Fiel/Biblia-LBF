@@ -27,6 +27,19 @@ Every editable verse exists once. Every editable alignment exists once.
 Verse labels are Protestant. Token IDs are persisted. Alignments name
 token IDs, not character offsets as the source of truth.
 
+## Source boundary
+
+`SOURCE_POLICY.md` is normative. Translation, audit, and alignment may use
+only the canonical per-verse packet and the evidence explicitly authorized
+there. A packet with a different policy identifier, textual basis, or source
+allowlist must be rejected before a model call. Insufficient evidence produces
+`HOLD`; it never authorizes another Bible, lexicon, commentary, web lookup,
+retrieval tool, or remembered traditional rendering.
+
+Its seven-level evidence hierarchy is mandatory. Lower levels never override
+higher levels; GPT proposes and cites, while only a human adjudicates uncertain
+or disputed cases. A model pass cannot substitute for that adjudication.
+
 ## Finished
 
 `STATUS.md` is the only ledger. Four states:
@@ -134,3 +147,5 @@ It never publishes by copying into a checked-out `cgv-data` working tree.
 - Publishing an export whose `sourceCommit` does not contain the bound work
 - Any writer of `bibles/LBF/` other than `tools/publish.py`
 - Reader, Observer, or Compiler application code in this repository
+- Translation, audit, or alignment evidence outside `SOURCE_POLICY.md`
+- Silently completing a verse from model memory when its packet is insufficient
