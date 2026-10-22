@@ -4,7 +4,7 @@
   <h1>{{ .Title }}</h1>
   <div class="prosa">{{ .Content }}</div>
 
-  <form class="buscador-campo" action="{{ "/buscar/" | relURL }}" method="get" role="search">
+  <form class="buscador-campo" action="{{ "buscar/" | relURL }}" method="get" role="search">
     <input type="search" name="q" placeholder="Buscar en el texto…" aria-label="Buscar en el texto bíblico">
     <button class="boton" type="submit">Buscar</button>
   </form>
@@ -36,7 +36,7 @@
     <p>
       La traducción está en curso. Los libros que aún no aparecen no han sido
       publicados todavía; el texto disponible es un borrador de trabajo sujeto a
-      revisión. Consulta el <a href="{{ "/progreso/" | relURL }}">progreso</a>.
+      revisión. Consulta el <a href="{{ "progreso/" | relURL }}">progreso</a>.
     </p>
   </div>
 </section>

@@ -122,6 +122,7 @@
     var cargando = false;
     var temporizador;
     var base = input.getAttribute('data-indice');
+    var baseSitio = new URL(input.getAttribute('data-base'), window.location.origin);
 
     function cargar() {
       if (indice || cargando) return Promise.resolve(indice);
@@ -131,7 +132,12 @@
         .then(function (r) { return r.json(); })
         .then(function (datos) {
           indice = datos.map(function (v) {
-            return { r: v.r, u: v.u, t: v.t, n: normalizar(v.t) };
+            return {
+              r: v.r,
+              u: new URL(v.u.replace(/^\/+/, ''), baseSitio).href,
+              t: v.t,
+              n: normalizar(v.t)
+            };
           });
           cargando = false;
           estado.textContent = indice.length.toLocaleString('es') + ' versículos listos para buscar.';

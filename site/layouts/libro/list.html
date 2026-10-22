@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section class="envoltura pagina pagina-ancha">
   <nav class="migas" aria-label="Ruta">
-    <a href="{{ "/biblia/" | relURL }}">La Biblia</a>
+    <a href="{{ "biblia/" | relURL }}">La Biblia</a>
     <span>/</span>
     {{ if eq .Params.testamento "at" }}Antiguo Testamento{{ else }}Nuevo Testamento{{ end }}
   </nav>

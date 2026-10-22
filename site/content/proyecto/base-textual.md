@@ -34,4 +34,4 @@ morfología documentada.
 
 Cada libro registra su fuente en la nota de cabecera del archivo de
 traducción. El estado del trabajo está en
-[Estado](/versiones/).
+[Estado]({{< relref "/versiones" >}}).

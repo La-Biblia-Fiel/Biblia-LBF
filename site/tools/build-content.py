@@ -241,14 +241,14 @@ def escribir_libro(libro: Libro) -> None:
             ant = capitulos[idx - 1]
             fm += [
                 "anterior:",
-                f'  url: "/biblia/{libro.slug}/{ant}/"',
+                f'  url: "biblia/{libro.slug}/{ant}/"',
                 f"  titulo: {yaml_txt(f'{libro.titulo} {ant}')}",
             ]
         if idx < len(capitulos) - 1:
             sig = capitulos[idx + 1]
             fm += [
                 "siguiente:",
-                f'  url: "/biblia/{libro.slug}/{sig}/"',
+                f'  url: "biblia/{libro.slug}/{sig}/"',
                 f"  titulo: {yaml_txt(f'{libro.titulo} {sig}')}",
             ]
         fm += ["---", ""]

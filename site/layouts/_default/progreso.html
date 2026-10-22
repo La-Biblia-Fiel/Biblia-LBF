@@ -36,7 +36,7 @@
       <tbody>
         {{ range $libros }}
         <tr>
-          <td>{{ if .publicado }}<a href="{{ printf "/biblia/%s/" .slug | relURL }}">{{ .titulo }}</a>{{ else }}{{ .titulo }}{{ end }}</td>
+          <td>{{ if .publicado }}<a href="{{ printf "biblia/%s/" .slug | relURL }}">{{ .titulo }}</a>{{ else }}{{ .titulo }}{{ end }}</td>
           <td>{{ .capitulos }}</td>
           <td>{{ if .publicado }}{{ .versiculos }}{{ else }}—{{ end }}</td>
           <td>{{ if .publicado }}Publicado{{ else }}Pendiente{{ end }}</td>
