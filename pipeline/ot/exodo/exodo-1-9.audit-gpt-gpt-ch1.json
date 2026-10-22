@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 1:9",
+  "chapter": 1,
+  "verse": 9,
+  "candidateLabel": "gpt-ch1",
+  "spanish": "Y dijo a su pueblo: «Miren, el pueblo de los hijos de Israel *es* más numeroso y poderoso que nosotros».",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02001009004"
+      ],
+      "issue": "«Miren» funciona como suavización discursiva de הִנֵּה, pero expresa formalmente un imperativo plural donde la morfología fuente es demostrativa.",
+      "spanishSpan": "Miren"
+    }
+  ],
+  "notes": "El resto conserva participantes, número, comparación y coordinación adjetival.",
+  "discardedUncitedFindings": 0
+}

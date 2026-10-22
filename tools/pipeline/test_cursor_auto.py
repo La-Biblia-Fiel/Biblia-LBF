@@ -13,6 +13,8 @@ from unittest.mock import patch
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import cursor_auto
+from ot_evidence import MACULA_ATTRIBUTION, MACULA_COMMIT, MACULA_LICENSE
+from source_packet import OT_ALLOWED_SOURCES, OT_EVIDENCE_POLICY, SOURCE_POLICY
 
 CLEAN = "Y dijo: Cuando asistan a las hebreas a dar a luz, y verán sobre las dos piedras."
 
@@ -22,19 +24,31 @@ class CursorAutoTests(unittest.TestCase):
         self.tmp = Path(tempfile.mkdtemp())
         self.packet = {
             "schema": "lbf-source-packet-v1",
-            "sourcePolicy": "lbf-source-policy-v2",
-            "evidencePolicy": "test-complete-evidence-bundle",
+            "sourcePolicy": SOURCE_POLICY,
+            "evidencePolicy": OT_EVIDENCE_POLICY,
+            "evidenceStatus": "READY_FOR_MODEL",
             "book": "exodo",
             "reference": "Éxodo 1:99",
             "chapter": 1,
             "verse": 99,
             "textualBasis": "OSHB/WLC",
             "testament": "ot",
-            "allowedSources": ["OSHB/WLC-surface", "OSHB-lemma-morph", "Strongs-id-only"],
+            "allowedSources": list(OT_ALLOWED_SOURCES),
             "tokens": [
-                {"sourceTokenId": "h02001016007", "surface": "אבנים"},
-                {"sourceTokenId": "h02001016016", "surface": "וחי"},
+                {"sourceTokenId": "h02001016007", "surface": "אבנים", "lexicalEvidenceId": None, "corpusEvidenceId": "test"},
+                {"sourceTokenId": "h02001016016", "surface": "וחי", "lexicalEvidenceId": None, "corpusEvidenceId": "test"},
             ],
+            "lexicalEvidence": [],
+            "syntax": {
+                "source": "MACULA-Hebrew-structure-only",
+                "sourceCommit": MACULA_COMMIT,
+                "license": MACULA_LICENSE,
+                "attribution": MACULA_ATTRIBUTION,
+                "mapping": {"matched": 2, "total": 2, "status": "exact"},
+                "nodes": [{"nodeId": "test", "sourceTokenIds": ["h02001016007", "h02001016016"]}],
+            },
+            "originalLanguageContext": [{"reference": "Éxodo 1:99", "tokens": []}],
+            "corpusEvidence": [{"corpusEvidenceId": "test"}],
         }
         (self.tmp / "packet.json").write_text(
             json.dumps(self.packet), encoding="utf-8"

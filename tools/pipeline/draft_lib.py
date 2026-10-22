@@ -1,7 +1,6 @@
-"""Source-faithful verse draft (Traduce).
+"""Source-faithful GPT verse draft from the canonical evidence packet.
 
-Cursor Auto is the drafter in the procedure. The OpenAI call is the
-paid path only. Does not write translation markdown or STATUS.md.
+Does not write translation Markdown, alignment, or STATUS.md.
 """
 
 from __future__ import annotations
@@ -90,6 +89,17 @@ def normalize_draft(raw: dict, packet: dict, label: str) -> dict:
             continue
         units.append({"es": es, "sourceTokenIds": ids})
     added = [str(x).strip() for x in (raw.get("addedConcepts") or []) if str(x).strip()]
+    uncertainties = []
+    for item in raw.get("uncertainties") or []:
+        if isinstance(item, dict):
+            ids = [tid for tid in (item.get("sourceTokenIds") or []) if tid in allowed]
+            issue = str(item.get("issue") or "").strip()
+            if issue:
+                uncertainties.append({"sourceTokenIds": ids, "issue": issue})
+            continue
+        issue = str(item).strip()
+        if issue:
+            uncertainties.append({"sourceTokenIds": [], "issue": issue})
     return {
         "schema": DRAFT_SCHEMA,
         "drafter": "Cursor Auto" if label == "auto" else "GPT-5.6",
@@ -100,7 +110,7 @@ def normalize_draft(raw: dict, packet: dict, label: str) -> dict:
         "verse": packet["verse"],
         "spanish": str(raw.get("spanish") or "").strip(),
         "units": units,
-        "uncertainties": [str(x).strip() for x in (raw.get("uncertainties") or []) if str(x).strip()],
+        "uncertainties": uncertainties,
         "addedConcepts": added,
         "droppedUncitedUnits": dropped,
     }

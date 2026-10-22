@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 1,
+  "verse": 14,
+  "spanish": "Y amargaron su vida con trabajo duro, con barro y ladrillos, y con todo trabajo en el campo; todo el trabajo que hacían con ellos *era* con dureza.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Construcción poco natural y ambigua: «hacían con ellos» no expresa claramente quién realizaba o imponía el trabajo.",
+      "spanishSpan": "hacían con ellos"
+    }
+  ],
+  "notes": ""
+}

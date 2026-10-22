@@ -7,7 +7,7 @@
 
 ### 1:1
 
-Y estos *son* los nombres de los hijos de Israel que vinieron hacia Egipto con Jacob; varón y su casa vinieron.
+Y estos *son* los nombres de los hijos de Israel que llegaron a Egipto con Jacob; cada uno llegó con su familia:
 
 ### 1:2
 
@@ -15,7 +15,7 @@ Rubén, Simeón, Leví y Judá.
 
 ### 1:3
 
-Isacar, Zabulón y Benjamín.
+Isacar, Zabulón y Benjamín;
 
 ### 1:4
 
@@ -23,75 +23,75 @@ Dan y Neftalí, Gad y Aser.
 
 ### 1:5
 
-Y fueron todas las almas que salieron de los lomos de Jacob, setenta almas; y José estaba en Egipto.
+Y todas las personas que salieron de los lomos de Jacob fueron setenta; y José estaba en Egipto.
 
 ### 1:6
 
-Y murió José y todos sus hermanos y toda aquella generación.
+Y murió José, y todos sus hermanos, y toda aquella generación.
 
 ### 1:7
 
-Y *los* hijos de Israel fructificaron y enjambraron y se multiplicaron y se fortalecieron en extremo, y se llenó la tierra de ellos.
+Y los hijos de Israel fueron fecundos, proliferaron, se multiplicaron y se hicieron muy, muy numerosos; y la tierra se llenó de ellos.
 
 ### 1:8
 
-Y se levantó *un* rey nuevo sobre Egipto, que no conoció a José.
+Entonces se levantó sobre Egipto un nuevo rey que no conocía a José.
 
 ### 1:9
 
-Y dijo a su pueblo: He aquí, el pueblo de los hijos de Israel es más numeroso y recio que nosotros.
+Y dijo a su pueblo: «He aquí, el pueblo de los hijos de Israel *es* más numeroso y poderoso que nosotros».
 
 ### 1:10
 
-Ahora pues, seamos sabios para con él, no sea que se multiplique, y que acontezcan guerra, y se añada también él sobre nuestros aborrecedores, y luche contra nosotros, y se vaya de la tierra.
+Ahora pues, actuemos sabiamente con él, no sea que se multiplique y suceda que, cuando acontezca una guerra, también él se una a nuestros enemigos, luche contra nosotros y suba de la tierra.
 
 ### 1:11
 
-Y pusieron sobre él príncipes de levas, a fin de afligirlo en sus cargas; y edificó ciudades de depósitos a Faraón, a Pitom y a Raamses.
+Y pusieron sobre él jefes de trabajos forzados para afligirlo con sus cargas; y edificó ciudades de almacenamiento para Faraón: Pitom y Raamses.
 
 ### 1:12
 
-Y como afligían a él, así se multiplicaba, y así se extendía. Y se hastiaron a causa de los hijos de Israel.
+Y cuanto más lo afligían, tanto más se multiplicaba y tanto más se extendía; y sintieron repugnancia ante los hijos de Israel.
 
 ### 1:13
 
-Y los Egipcios hicieron servir a *los* hijos de Israel con dureza.
+Y los egipcios hicieron trabajar a los hijos de Israel con dureza.
 
 ### 1:14
 
-Y les amargaron la vida con duros trabajos: trabajar el barro, fabricar ladrillos y realizar toda clase de labores en el campo. Todo ese trabajo se lo imponían con crueldad.
+Y amargaron sus vidas con trabajo duro, con barro y ladrillos, y con todo trabajo en el campo; todo el trabajo en que los hicieron trabajar *fue* con dureza.
 
 ### 1:15
 
-Y el rey de Egipto les dijo a las parteras hebreas, de las cuales una se llamaba Shifrá y la otra Puá:
+Y el rey de Egipto dijo a las parteras hebreas, de las cuales el nombre de una *era* Sifra y el nombre de la segunda *era* Púa:
 
 ### 1:16
 
-Y dijo: «Cuando ayuden a las hebreas a dar a luz y las vean sobre el asiento de parto, si es niño, lo matarán; si es niña, vivirá».
+Y dijo: «Cuando asistan a las hebreas mientras dan a luz y miren sobre las dos piedras, si *es* hijo, lo matarán; y si *es* hija, vivirá».
 
 ### 1:17
 
-Pero las parteras temieron a Dios y no hicieron lo que el rey de Egipto les había ordenado, sino que dejaron vivir a los niños.
+Pero las parteras temieron a Dios y no hicieron como les dijo el rey de Egipto, y dejaron con vida a los niños.
 
 ### 1:18
 
-Y el rey de Egipto llamó a las parteras y les dijo: «¿Por qué hicieron esto y dejaron vivir a los niños?».
+Entonces el rey de Egipto llamó a las parteras y les dijo: «¿Por qué hicieron esto y dejaron con vida a los niños?»
 
 ### 1:19
 
-Y las parteras le respondieron a Faraón: «Porque las hebreas no son como las mujeres egipcias; son vigorosas y dan a luz antes de que llegue la partera».
+Y las parteras dijeron al faraón: «Las hebreas no *son* como las mujeres egipcias, porque ellas *son* vigorosas; antes de que la partera llegue a ellas, dan a luz».
 
 ### 1:20
 
-Y Dios fue bondadoso con las parteras; el pueblo se multiplicó y se hizo muy fuerte.
+Y Dios trató bien a las parteras; y el pueblo se multiplicó, y ellos se hicieron muy poderosos.
 
 ### 1:21
 
-Y sucedió que, como las parteras temieron a Dios, Él les hizo casas.
+Y sucedió que, porque las parteras temieron a Dios, él les hizo casas.
 
 ### 1:22
 
-Y Faraón mandó a todo su pueblo, diciendo: «Todo hijo que nazca, al Nilo lo arrojarán; y a toda hija la dejarán vivir».
+Y el faraón ordenó a todo su pueblo, diciendo: «A todo hijo nacido lo arrojarán al Nilo, y a toda hija la mantendrán con vida».
 
 ## Capítulo 2
 

@@ -1,8 +1,6 @@
-"""Source-fidelity auditor.
+"""Source-fidelity auditor shared by the legacy and authorized GPT paths.
 
-Cursor Auto is the auditor in the procedure. It does not rewrite. A
-finding without a source token id is discarded. The xAI call is the
-paid path only (`audit_grok.py`).
+It does not rewrite. A finding without a source token ID is discarded.
 """
 
 from __future__ import annotations
@@ -46,16 +44,24 @@ MANDATORY EVIDENCE HIERARCHY — lower levels never override higher levels:
 You do not perform level 7. A disputed or insufficiently supported decision
 must remain uncertain for a human; never turn it into an automatic pass.
 
-ALLOWED EVIDENCE: only the packet tokens (TR1894 or OSHB/WLC surface, lemma,
-Strong's identifier, and morphology). Strong's is not a definition.
+ALLOWED EVIDENCE: only the canonical packet. For the OT this includes OSHB/WLC
+surface, lemma and morphology; filtered structural syntax already bound to
+sourceTokenIds; original-language OSHB context; deterministic OSHB corpus
+occurrences; and pinned Open Scriptures HebrewLexicon possible senses.
+Strong's is an identifier, not a definition. Lexicons document possibilities
+but never choose the contextual sense over surface, grammar, syntax, context,
+or corpus usage.
 
 FORBIDDEN: memory of any Bible version, theology, typology, traditional
-renderings, RV1909, RVR1960, BLE glosses, AHRC/AHLB, Macula, web/retrieval,
-or any source not in the packet.
+renderings, RV1909, RVR1960, BLE glosses, AHRC/AHLB, raw MACULA data or its
+glosses/translations/LXX/SDBH/semantic fields, web/retrieval, or any source not
+in the packet.
 
 FAIL when the Spanish:
 - adds a concept the tokens do not license
 - omits a licensed concept
+- replaces a viable concrete source image or bodily metaphor with an
+  explanatory simplification, even when the explanation is contextually true
 - resolves an ambiguity the morphology/lemma leave open (e.g. dual "stones"
   rendered as a specialized instrument)
 - imports a lexical meaning or syntactic decision the packet does not settle

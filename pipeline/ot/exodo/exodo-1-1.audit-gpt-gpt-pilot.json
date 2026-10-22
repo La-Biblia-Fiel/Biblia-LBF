@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 1:1",
+  "chapter": 1,
+  "verse": 1,
+  "candidateLabel": "gpt-pilot",
+  "spanish": "Y estos son los nombres de los hijos de Israel que llegaron a Egipto con Jacob; cada uno llegó con su familia:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001001001",
+        "h02001001002"
+      ],
+      "issue": "Se añadió una cópula sin marcar en una cláusula hebrea sin verbo explícito.",
+      "spanishSpan": "son"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

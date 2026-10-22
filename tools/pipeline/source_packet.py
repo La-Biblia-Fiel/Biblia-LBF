@@ -1,8 +1,8 @@
 """Build a source packet for one Protestant verse.
 
-Allowed evidence is closed by SOURCE_POLICY.md: TR1894 (NT) or OSHB/WLC
-(OT). Never includes another Bible, lexicon, commentary, or existing LBF
-Spanish.
+Allowed evidence is closed by SOURCE_POLICY.md: TR1894 (NT), or OSHB/WLC with
+pinned structural syntax, corpus usage, and lexical possibilities (OT). Never
+includes another Bible, commentary, or existing LBF Spanish.
 """
 
 from __future__ import annotations
@@ -17,17 +17,34 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from books import ROOT, Book, get_book
-from hebrew_lexicon import lookup as lookup_hebrew_lexicon
+from hebrew_lexicon import (
+    ATTRIBUTION as HEBREW_LEXICON_ATTRIBUTION,
+    LICENSE as HEBREW_LEXICON_LICENSE,
+    UPSTREAM_COMMIT as HEBREW_LEXICON_COMMIT,
+    lookup as lookup_hebrew_lexicon,
+)
 from morph import expand_hebrew_morph
+from ot_evidence import (
+    MACULA_ATTRIBUTION,
+    MACULA_COMMIT,
+    MACULA_LICENSE,
+    assert_no_forbidden_macula_fields,
+    corpus_usage,
+    normalized_lemma,
+    syntax_for_tokens,
+)
 from paleo import strongs_from_lemma, to_paleo
 
-SOURCE_POLICY = "lbf-source-policy-v3"
-EVIDENCE_POLICY = "blocked-pending-canonical-evidence-bundle"
+SOURCE_POLICY = "lbf-source-policy-v4"
+OT_EVIDENCE_POLICY = "canonical-ot-evidence-bundle-v1"
+NT_EVIDENCE_POLICY = "blocked-pending-canonical-evidence-bundle"
 OT_ALLOWED_SOURCES = [
     "OSHB/WLC-surface",
     "OSHB-lemma-morph",
     "Strongs-id-only",
     "OpenScriptures-HebrewLexicon@21c9add13bc727d3a951361778e97e3ff7afd1ce",
+    "MACULA-Hebrew-structure-only@47db250bd55d0d8577f2a94fba114ef16c35b23c",
+    "OSHB/WLC-corpus-usage",
 ]
 NT_ALLOWED_SOURCES = ["TR1894-surface", "Robinson-morph", "Strongs-id-only"]
 
@@ -91,7 +108,7 @@ def protestant_segments(
     current: tuple[int, int] | None = None
     words: list[ET.Element] = []
     pending_before: list[ET.Element] = []
-    for child in children:
+    for child_index, child in enumerate(children):
         name = local_name(child.tag)
         if name == "note":
             ref = _kjv_ref_from_note("".join(child.itertext()).strip(), osis)
@@ -112,8 +129,18 @@ def protestant_segments(
                     segments.append((oshb_ch, oshb_vs, pending_before))
                 pending_before = []
             continue
-        if name != "w" or child.get("type") == "x-ketiv":
+        if name != "w":
             continue
+        if child.get("type") == "x-ketiv":
+            qere = None
+            if child_index + 1 < len(children) and local_name(children[child_index + 1].tag) == "note":
+                qere = next(
+                    (node for node in children[child_index + 1].iter() if local_name(node.tag) == "w"),
+                    None,
+                )
+            if qere is None:
+                continue
+            child = qere
         if current is None:
             pending_before.append(child)
             continue
@@ -127,10 +154,24 @@ def protestant_segments(
 
 def direct_words(verse: ET.Element) -> list[ET.Element]:
     words = []
-    for child in list(verse):
+    children = list(verse)
+    for index, child in enumerate(children):
         if local_name(child.tag) != "w":
             continue
         if child.get("type") == "x-ketiv":
+            # The canonical reading used by OSHB is the qere nested in the
+            # immediately following variant note. Never silently drop it.
+            if index + 1 < len(children) and local_name(children[index + 1].tag) == "note":
+                qere = next(
+                    (
+                        node
+                        for node in children[index + 1].iter()
+                        if local_name(node.tag) == "w"
+                    ),
+                    None,
+                )
+                if qere is not None:
+                    words.append(qere)
             continue
         words.append(child)
     return words
@@ -189,6 +230,8 @@ def ot_chapter_protestant_map(
             continue
         src_ch, src_vs = int(match.group(1)), int(match.group(2))
         osis_part = f"{book.osis}.{src_ch}.{src_vs}"
+        for source_position, word in enumerate(direct_words(element), start=1):
+            word.set("_lbfOshbRef", f"{osis_part}!{source_position}")
         for pch, pvs, words in protestant_segments(
             element, book.osis, src_ch, src_vs
         ):
@@ -205,6 +248,7 @@ def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
     word_nodes, oshb_osis_parts = chapter_map[verse]
 
     tokens = []
+    lexical_entries: dict[str, dict] = {}
     for position, word in enumerate(word_nodes, start=1):
         lemma = word.get("lemma") or ""
         morph = word.get("morph") or ""
@@ -213,6 +257,7 @@ def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
         entry = {
             "sourceTokenId": token_id(book, chapter, verse, position),
             "oshbId": word.get("id") or "",
+            "oshbRef": word.get("_lbfOshbRef") or "",
             "position": position,
             "surface": hebrew,
             "paleo": to_paleo(hebrew),
@@ -223,13 +268,63 @@ def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
         }
         lexical_evidence = lookup_hebrew_lexicon(lemma)
         if lexical_evidence is not None:
-            entry["lexicalEvidence"] = lexical_evidence
+            lexical_id = str(lexical_evidence["lexicalIndexId"])
+            entry["lexicalEvidenceId"] = lexical_id
+            lexical_entries[lexical_id] = lexical_evidence
+        else:
+            entry["lexicalEvidenceId"] = None
         tokens.append(entry)
+
+    syntax = syntax_for_tokens(book, tokens)
+    corpus_entries: dict[str, dict] = {}
+    for token_index, token in enumerate(tokens):
+        key = normalized_lemma(token["lemma"])
+        token["corpusEvidenceId"] = key
+        if key not in corpus_entries:
+            previous_lemma = tokens[token_index - 1]["lemma"] if token_index > 0 else None
+            next_lemma = tokens[token_index + 1]["lemma"] if token_index + 1 < len(tokens) else None
+            corpus_entries[key] = {
+                "corpusEvidenceId": key,
+                **corpus_usage(
+                    token["lemma"],
+                    token["morph"],
+                    previous_lemma=previous_lemma,
+                    next_lemma=next_lemma,
+                    target_oshb_id=token["oshbId"],
+                ),
+            }
+            corpus_entries[key]["targetMorphs"] = [token["morph"]]
+        elif token["morph"] not in corpus_entries[key]["targetMorphs"]:
+            corpus_entries[key]["targetMorphs"].append(token["morph"])
+
+    context = []
+    for context_verse in (verse - 1, verse, verse + 1):
+        if context_verse not in chapter_map:
+            continue
+        context_words, context_osis = chapter_map[context_verse]
+        context.append(
+            {
+                "reference": f"{book.label} {chapter}:{context_verse}",
+                "oshbOsis": "+".join(context_osis),
+                "relation": "current" if context_verse == verse else "previous" if context_verse < verse else "next",
+                "tokens": [
+                    {
+                        "oshbId": word.get("id") or "",
+                        "oshbRef": word.get("_lbfOshbRef") or "",
+                        "surface": surface(word),
+                        "lemma": word.get("lemma") or "",
+                        "morph": word.get("morph") or "",
+                    }
+                    for word in context_words
+                ],
+            }
+        )
 
     return {
         "schema": "lbf-source-packet-v1",
         "sourcePolicy": SOURCE_POLICY,
-        "evidencePolicy": EVIDENCE_POLICY,
+        "evidencePolicy": OT_EVIDENCE_POLICY,
+        "evidenceStatus": "READY_FOR_MODEL",
         "book": book.slug,
         "label": book.label,
         "testament": "ot",
@@ -251,6 +346,10 @@ def build_ot_packet(book: Book, chapter: int, verse: int) -> dict:
             "AHRC/AHLB",
         ],
         "tokens": tokens,
+        "lexicalEvidence": list(lexical_entries.values()),
+        "syntax": syntax,
+        "originalLanguageContext": context,
+        "corpusEvidence": list(corpus_entries.values()),
     }
 
 def beta_to_unicode(beta: str) -> str:
@@ -347,7 +446,7 @@ def build_nt_packet(book: Book, chapter: int, verse: int) -> dict:
     return {
         "schema": "lbf-source-packet-v1",
         "sourcePolicy": SOURCE_POLICY,
-        "evidencePolicy": EVIDENCE_POLICY,
+        "evidencePolicy": NT_EVIDENCE_POLICY,
         "book": book.slug,
         "label": book.label,
         "testament": "nt",
@@ -426,21 +525,178 @@ def validate_packet(packet: dict) -> None:
         raise ValueError("source packet has a noncanonical source allowlist")
     if any("ahrc" in token for token in packet.get("tokens") or []):
         raise ValueError("AHRC evidence is prohibited by SOURCE_POLICY.md")
+    if testament == "ot":
+        evidence = packet.get("lexicalEvidence")
+        if not isinstance(evidence, list):
+            raise ValueError("OT packet is missing canonical lexical evidence")
+        ids = set()
+        for entry in evidence:
+            if (
+                entry.get("source") != "OpenScriptures-HebrewLexicon"
+                or entry.get("sourceCommit") != HEBREW_LEXICON_COMMIT
+                or entry.get("license") != HEBREW_LEXICON_LICENSE
+                or entry.get("attribution") != HEBREW_LEXICON_ATTRIBUTION
+                or entry.get("authority") != "secondary-possibilities-only"
+            ):
+                raise ValueError("OT packet has noncanonical lexical evidence")
+            ids.add(entry.get("lexicalIndexId"))
+        for token in packet.get("tokens") or []:
+            lexical_id = token.get("lexicalEvidenceId")
+            if lexical_id is not None and lexical_id not in ids:
+                raise ValueError("OT token cites missing lexical evidence")
+        syntax = packet.get("syntax") or {}
+        if (
+            syntax.get("source") != "MACULA-Hebrew-structure-only"
+            or syntax.get("sourceCommit") != MACULA_COMMIT
+            or syntax.get("license") != MACULA_LICENSE
+            or syntax.get("attribution") != MACULA_ATTRIBUTION
+            or syntax.get("mapping", {}).get("status") != "exact"
+            or syntax.get("mapping", {}).get("matched") != len(packet.get("tokens") or [])
+        ):
+            raise ValueError("OT packet has incomplete or noncanonical syntax")
+        allowed_ids = {token.get("sourceTokenId") for token in packet.get("tokens") or []}
+        for node in syntax.get("nodes") or []:
+            if not node.get("sourceTokenIds") or not set(node["sourceTokenIds"]) <= allowed_ids:
+                raise ValueError("OT syntax cites noncanonical token IDs")
+        if not packet.get("originalLanguageContext"):
+            raise ValueError("OT packet is missing original-language context")
+        corpus_ids = {item.get("corpusEvidenceId") for item in packet.get("corpusEvidence") or []}
+        if not corpus_ids or any(
+            token.get("corpusEvidenceId") not in corpus_ids
+            for token in packet.get("tokens") or []
+        ):
+            raise ValueError("OT packet is missing corpus-usage evidence")
+        assert_no_forbidden_macula_fields(packet)
+        if packet.get("evidencePolicy") != OT_EVIDENCE_POLICY or packet.get("evidenceStatus") != "READY_FOR_MODEL":
+            raise ValueError("OT evidence bundle is not ready for model use")
 
 
 def packet_for_prompt(packet: dict) -> dict:
-    """Return only authorized semantic evidence for a live model prompt."""
+    """Return a compact, authorized projection for a live model prompt.
+
+    The full packet remains the validated evidence record on disk. Repeated
+    provenance, storage identifiers, and duplicated current-verse context do
+    not carry semantic evidence and are intentionally omitted here.
+    """
     validate_packet(packet)
-    if packet.get("evidencePolicy") == "blocked-pending-canonical-evidence-bundle":
+    if packet.get("evidencePolicy") == NT_EVIDENCE_POLICY:
         raise RuntimeError(
             "model translation blocked: canonical form+morphology+syntax+discourse+corpus evidence bundle is incomplete"
         )
-    out = dict(packet)
-    out["tokens"] = [
-        {key: value for key, value in token.items() if key != "paleo"}
-        for token in packet.get("tokens") or []
-    ]
-    return out
+    tokens = []
+    for token in packet.get("tokens") or []:
+        tokens.append(
+            {
+                key: token.get(key)
+                for key in (
+                    "sourceTokenId",
+                    "surface",
+                    "lemma",
+                    "strongs",
+                    "morph",
+                    "morphExpanded",
+                    "lexicalEvidenceId",
+                    "corpusEvidenceId",
+                )
+                if token.get(key) is not None
+            }
+        )
+
+    lexical = []
+    for entry in packet.get("lexicalEvidence") or []:
+        lexical.append(
+            {
+                key: entry.get(key)
+                for key in (
+                    "lexicalIndexId",
+                    "headword",
+                    "transliteration",
+                    "partOfSpeech",
+                    "possibleSenses",
+                )
+                if entry.get(key) not in (None, [], "")
+            }
+        )
+
+    syntax = packet.get("syntax") or {}
+    syntax_nodes = []
+    for node in syntax.get("nodes") or []:
+        compact = {
+            key: node.get(key)
+            for key in (
+                "class",
+                "rule",
+                "role",
+                "head",
+                "clausetype",
+                "sourceTokenIds",
+            )
+            if node.get(key) not in (None, [], "")
+        }
+        if any(key in compact for key in ("class", "rule", "role", "head", "clausetype")):
+            syntax_nodes.append(compact)
+
+    context = []
+    for item in packet.get("originalLanguageContext") or []:
+        if item.get("relation") == "current":
+            continue
+        context.append(
+            {
+                "reference": item.get("reference"),
+                "relation": item.get("relation"),
+                "tokens": [
+                    [token.get("surface"), token.get("lemma"), token.get("morph")]
+                    for token in item.get("tokens") or []
+                ],
+            }
+        )
+
+    corpus = []
+    for entry in packet.get("corpusEvidence") or []:
+        samples = []
+        for sample in (entry.get("samples") or [])[:2]:
+            samples.append(
+                {
+                    key: sample.get(key)
+                    for key in (
+                        "reference",
+                        "surface",
+                        "morph",
+                        "syntaxRoles",
+                        "clauseRule",
+                        "originalContext",
+                    )
+                    if sample.get(key) not in (None, [], "")
+                }
+            )
+        corpus.append(
+            {
+                "corpusEvidenceId": entry.get("corpusEvidenceId"),
+                "lemma": entry.get("lemma"),
+                "targetMorphs": entry.get("targetMorphs") or [],
+                "samples": samples,
+            }
+        )
+
+    return {
+        "promptProfile": "canonical-ot-compact-v1",
+        "sourcePolicy": packet["sourcePolicy"],
+        "evidencePolicy": packet["evidencePolicy"],
+        "book": packet["book"],
+        "reference": packet["reference"],
+        "chapter": packet["chapter"],
+        "verse": packet["verse"],
+        "textualBasis": packet["textualBasis"],
+        "tokens": tokens,
+        "lexicalEvidence": lexical,
+        "syntax": {
+            "mappingStatus": syntax.get("mapping", {}).get("status"),
+            "nodes": syntax_nodes,
+            "tokenRoles": syntax.get("tokenRoles") or {},
+        },
+        "originalLanguageContext": context,
+        "corpusEvidence": corpus,
+    }
 
 
 def dump_prompt(payload: dict) -> str:

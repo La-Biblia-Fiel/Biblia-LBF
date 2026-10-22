@@ -1,0 +1,37 @@
+{
+  "schema": "lbf-gpt-chapter-report-v1",
+  "book": "exodo",
+  "chapter": 1,
+  "sourcePolicy": "lbf-source-policy-v4",
+  "model": "gpt-5.6-sol",
+  "canonicalTranslationChanged": false,
+  "humanReview": {
+    "approvedAsWritten": [1, 2, 3, 4, 6, 7, 8, 13, 17, 18, 19, 22],
+    "approvedAfterAdjudication": [5, 9, 10, 11, 12, 14, 15, 16, 20, 21],
+    "pending": [],
+    "scope": "verse review only; not a STATUS.md approval or done signature"
+  },
+  "clean": [1, 2, 3, 4, 6, 7, 8, 12, 13, 17, 18, 19, 22],
+  "holds": [
+    {"verse": 5, "reason": "lexical uncertainty: muslo/lomo and Spanish calque"},
+    {"verse": 9, "reason": "discourse warning: imperative Miren for demonstrative הנה"},
+    {"verse": 10, "reason": "temporal/conditional and motion-expression uncertainties"},
+    {"verse": 11, "reason": "proper-name evidence absent from packet and Spanish calque"},
+    {"verse": 14, "reason": "lexical and clause-role uncertainties"},
+    {"verse": 15, "reason": "proper-name evidence absent; source omissions/additions and Spanish failure"},
+    {"verse": 16, "reason": "faithful but opaque Spanish around the two stones"},
+    {"verse": 20, "reason": "source-number shift cannot produce grammatical Spanish without human adjudication"},
+    {"verse": 21, "reason": "houses/families uncertainty and ambiguous Spanish subject"}
+  ],
+  "usage": {
+    "calls": 77,
+    "inputTokens": 528099,
+    "outputTokens": 18939,
+    "reasoningTokens": 10174,
+    "usd": 2.376066
+  },
+  "humanReviewRequired": false,
+  "humanChapterReviewComplete": true,
+  "alignmentStatus": "seeded-hand-unconfirmed",
+  "alignmentSeed": "pipeline/ot/exodo/exodo-1.alignment-seed.json"
+}

@@ -40,6 +40,14 @@ por el aviso de Online Bible; el paquete no lo lee. TFLSJ y TFLSJ extra están
 presentes pero no autorizados. HALOT, DCH y BDAG tampoco entran al paquete
 automático sin una licencia escrita específica para ese uso.
 
+La sintaxis del AT procede únicamente de la capa estructural permitida de
+MACULA Hebrew, fijada y comprobada contra OSHB. El cargador descarta glosas,
+traducciones, equivalentes griegos, SDBH, dominios, marcos y sentidos elegidos.
+Cada palabra debe coincidir en orden y superficie hebrea con OSHB; una sola
+discrepancia produce `HOLD_SOURCE_MISMATCH`. El contexto inmediato se construye
+del OSHB y el uso de corpus se recupera localmente del mismo OSHB, priorizando
+lema, morfología y relación sintáctica de manera determinista.
+
 ### Camino GPT autorizado
 
 Cuando el usuario autoriza explícitamente el camino pagado, GPT-5.6 Sol redacta
@@ -60,6 +68,9 @@ alineación sigue siendo semilla y `draft`.
 
 No suavice. No fortalezca. No resuelva lo que el texto deja abierto.
 No trabaje de memoria, de otra versión, ni desde la teología.
+No simplifique una metáfora o imagen concreta convirtiéndola en su explicación.
+Si el español puede decir la imagen de forma gramatical, consérvela; una nota
+humana posterior puede explicarla, pero la traducción no debe borrarla.
 
 ### Camino Cursor anterior (suspendido para el trabajo GPT)
 

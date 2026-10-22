@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 1,
+  "verse": 21,
+  "spanish": "Y sucedió que, como las parteras temieron a Dios, les hizo casas.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "El sujeto omitido de «hizo» resulta ambiguo y parece referirse a «las parteras», no a Dios. Debe explicitarse: «Dios les hizo casas».",
+      "spanishSpan": "les hizo casas"
+    }
+  ],
+  "notes": ""
+}

@@ -13,6 +13,8 @@ from unittest.mock import patch
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import auto_pass
+from ot_evidence import MACULA_ATTRIBUTION, MACULA_COMMIT, MACULA_LICENSE
+from source_packet import OT_ALLOWED_SOURCES, OT_EVIDENCE_POLICY, SOURCE_POLICY
 
 OLD = "pueblo mucho y recio de nosotros"
 NEW = "pueblo más numeroso y más fuerte que nosotros"
@@ -25,16 +27,28 @@ class AutoPassTests(unittest.TestCase):
         self.calls: list[str] = []
         self.packet = {
             "schema": "lbf-source-packet-v1",
-            "sourcePolicy": "lbf-source-policy-v2",
-            "evidencePolicy": "test-complete-evidence-bundle",
+            "sourcePolicy": SOURCE_POLICY,
+            "evidencePolicy": OT_EVIDENCE_POLICY,
+            "evidenceStatus": "READY_FOR_MODEL",
             "book": "exodo",
             "reference": "Éxodo 1:9",
             "chapter": 1,
             "verse": 9,
             "textualBasis": "OSHB/WLC",
             "testament": "ot",
-            "allowedSources": ["OSHB/WLC-surface", "OSHB-lemma-morph", "Strongs-id-only"],
-            "tokens": [{"sourceTokenId": TOKEN, "surface": "רב"}],
+            "allowedSources": list(OT_ALLOWED_SOURCES),
+            "tokens": [{"sourceTokenId": TOKEN, "surface": "רב", "lexicalEvidenceId": None, "corpusEvidenceId": "test"}],
+            "lexicalEvidence": [],
+            "syntax": {
+                "source": "MACULA-Hebrew-structure-only",
+                "sourceCommit": MACULA_COMMIT,
+                "license": MACULA_LICENSE,
+                "attribution": MACULA_ATTRIBUTION,
+                "mapping": {"matched": 1, "total": 1, "status": "exact"},
+                "nodes": [{"nodeId": "test", "sourceTokenIds": [TOKEN]}],
+            },
+            "originalLanguageContext": [{"reference": "Éxodo 1:9", "tokens": []}],
+            "corpusEvidence": [{"corpusEvidenceId": "test"}],
         }
         self.book = self.tmp / "book.md"
         self.book.write_text(

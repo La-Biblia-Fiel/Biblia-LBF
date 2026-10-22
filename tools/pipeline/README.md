@@ -1,17 +1,67 @@
 # Translation pipeline
 
 `SOURCE_POLICY.md` is the closed, normative source boundary. Any model-facing
-packet must bind `lbf-source-policy-v2`; mismatched packets are refused. No
+packet must bind `lbf-source-policy-v4`; mismatched packets are refused. No
 other Bible, lexicon, syntax tree, web lookup, retrieval source, or existing
 LBF Spanish may enter drafting or fidelity decisions.
 
+The closed OT packet now includes the authoritative OSHB/WLC surface and
+morphology, the allowlisted structural subset of pinned MACULA Hebrew,
+adjacent original-language context, deterministic same-lemma OSHB corpus
+usage, and pinned Open Scriptures HebrewLexicon possibilities. Raw MACULA
+glosses, translations, LXX/Greek fields, SDBH material, semantic domains,
+frames, and sense selections are rejected.
+
+Validate the engineering and cross-genre evidence pilots without model calls:
+
+```sh
+python3 tools/pipeline/validate_ot_evidence.py --exodus-1 --stress
+```
+
+Prepare one canonical GPT request per verse, also without model calls:
+
+```sh
+python3 tools/pipeline/prepare_gpt_chapter.py exodo 1 --label gpt-pilot
+```
+
+Draft and independently audit one verse through the authorized GPT path:
+
+```sh
+python3 tools/pipeline/draft_gpt.py exodo 1 1 --label gpt-pilot
+python3 tools/pipeline/audit_gpt.py exodo 1 1 \
+  --candidate-file pipeline/ot/exodo/exodo-1-1.draft-gpt-pilot.json
+python3 tools/pipeline/spanish_check_gpt.py exodo 1 1 \
+  --candidate-file pipeline/ot/exodo/exodo-1-1.draft-gpt-pilot.json
+```
+
+These are separate gates: the audit checks source fidelity; the Spanish check
+checks current Latin American grammar, idiom, and oral readability. A source
+audit pass cannot override a Spanish-check failure. Any draft uncertainty,
+added concept, dropped uncited unit, audit finding, or Spanish-check finding
+parks the verse for human adjudication.
+
+A cited mechanical or Spanish-flow failure may receive one bounded repair:
+
+```sh
+python3 tools/pipeline/revise_gpt.py exodo 1 1 \
+  --candidate-file pipeline/ot/exodo/exodo-1-1.draft-gpt-pilot.json \
+  --findings-file pipeline/ot/exodo/exodo-1-1.audit-gpt-gpt-pilot.json \
+  --label gpt-pilot-repair
+```
+
+The repaired candidate must repeat both independent gates. A repair never
+adjudicates an unresolved lexical or syntactic uncertainty.
+
+Without `OPENAI_API_KEY`, these commands preserve request JSON for the
+authorized GPT task. They never write translation Markdown, alignment, or
+`STATUS.md`.
+
 The user has authorized a GPT-5.6 Sol path. Its governing chapter workflow is
-documented in `WORKFLOW.md`, but a dedicated GPT chapter executor has not yet
-replaced the command below. The Cursor command in this file is the retained
-legacy implementation and must not be represented as the GPT path.
+documented in `WORKFLOW.md`. The Cursor command later in this file is the
+retained legacy implementation and must not be represented as the GPT path.
 
 This is the procedure. One Protestant verse at a time, from a source
-packet. NT: **TR1894**. OT: **OSHB/WLC + Paleo/AHRC**.
+packet. NT: **TR1894**. OT: the canonical evidence bundle described above.
 
 Cursor Auto drafts and audits. GPT-5.6 Terra steps in only when the verse is
 questionable. Grok is not in this procedure. `STATUS.md` and

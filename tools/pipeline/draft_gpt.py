@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""Paid path only. GPT draft for one verse.
-
-The procedure is Cursor Auto via run_chapter.py. This script belongs
-to run_chapter-old.py. See tools/pipeline/README.md.
+"""Authorized GPT path: draft one verse from its canonical evidence packet.
 
 Does not write translation markdown or STATUS.md.
 
@@ -88,7 +85,7 @@ def main() -> int:
             )
             print(existing.get("spanish") or "", file=sys.stderr)
             return 0
-        print("Ask Cursor Traduce (GPT-5.6) to draft from the request JSON.", file=sys.stderr)
+        print("Use the saved request JSON in the authorized GPT task, then --ingest the response.", file=sys.stderr)
         return 2
 
     draft = normalize_draft(raw, packet, args.label)

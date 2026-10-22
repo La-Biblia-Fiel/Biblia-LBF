@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 1,
+  "verse": 16,
+  "spanish": "Y dijo: «Cuando asistan a las hebreas a dar a luz y vean sobre las dos piedras, si *es* hijo, lo matarán; y si *es* hija, vivirá».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "La construcción «asistan a las hebreas a dar a luz» es impropia; «asistir» requiere aquí una construcción como «asistan a las hebreas durante el parto».",
+      "spanishSpan": "asistan a las hebreas a dar a luz"
+    },
+    {
+      "severity": "fail",
+      "issue": "La frase es un calco opaco y no permite entender qué deben observar ni qué función cumplen las piedras.",
+      "spanishSpan": "vean sobre las dos piedras"
+    }
+  ],
+  "notes": ""
+}

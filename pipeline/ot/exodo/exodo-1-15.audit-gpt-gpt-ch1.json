@@ -1,0 +1,35 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 1:15",
+  "chapter": 1,
+  "verse": 15,
+  "candidateLabel": "gpt-ch1",
+  "spanish": "Y el rey de Egipto dijo a las parteras hebreas, una llamada Sifra y la segunda Púa:",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001015007",
+        "h02001015008",
+        "h02001015009"
+      ],
+      "issue": "«llamada» es una palabra añadida y no marcada; el hebreo expresa «el nombre de una» sin verbo.",
+      "spanishSpan": "una llamada Sifra"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02001015010",
+        "h02001015011",
+        "h02001015012"
+      ],
+      "issue": "Se omite la repetición explícita de «nombre» en la segunda cláusula.",
+      "spanishSpan": "y la segunda Púa"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

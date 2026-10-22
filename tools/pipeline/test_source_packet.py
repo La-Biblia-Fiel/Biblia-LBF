@@ -127,6 +127,8 @@ class SourcePacketTests(unittest.TestCase):
         packet = build_packet("eclesiastes", 5, 1)
         self.assertEqual(packet["oshbOsis"], "Eccl.4.17")
         self.assertEqual(packet["tokens"][0]["strongs"], "H8104")
+        self.assertEqual(packet["tokens"][1]["surface"], "רַגְלְךָ֗")
+        self.assertEqual(packet["tokens"][1]["strongs"], "H7272")
 
     def test_salmos_title_merges_into_protestant_v1(self) -> None:
         from source_packet import list_verses
@@ -256,6 +258,30 @@ class SourcePacketTests(unittest.TestCase):
             "Y dijo: Cuando asistan a las hebreas a dar a luz, y verán sobre las dos piedras: si él es hijo, lo matarán; y si ella es hija, vivirá."
         )
         self.assertEqual(clean, [])
+
+    def test_draft_uncertainties_remain_structured(self) -> None:
+        from draft_lib import normalize_draft
+
+        packet = {
+            "book": "exodo",
+            "reference": "Éxodo 1:1",
+            "chapter": 1,
+            "verse": 1,
+            "tokens": [{"sourceTokenId": "h02001001009"}],
+        }
+        raw = {
+            "spanish": "hombre",
+            "units": [{"es": "hombre", "sourceTokenIds": ["h02001001009"]}],
+            "uncertainties": [{
+                "sourceTokenIds": ["h02001001009", "not-allowed"],
+                "issue": "distributive force is unresolved",
+            }],
+        }
+        result = normalize_draft(raw, packet, "gpt-pilot")
+        self.assertEqual(result["uncertainties"], [{
+            "sourceTokenIds": ["h02001001009"],
+            "issue": "distributive force is unresolved",
+        }])
 
     def test_needs_polish_only_on_warn(self) -> None:
         from runner import needs_polish
@@ -408,21 +434,75 @@ class SourcePacketTests(unittest.TestCase):
         self.assertEqual(usage["reasoning"], 3000)
         self.assertAlmostEqual(call_cost(usage), 2900 / 1_000_000 * 4 + 3600 / 1_000_000 * 20)
 
-    def test_prompt_packet_is_blocked_without_canonical_evidence_bundle(self) -> None:
+    def test_ot_prompt_packet_has_complete_canonical_evidence_bundle(self) -> None:
         packet = build_packet("exodo", 1, 16)
-        self.assertEqual(packet["sourcePolicy"], "lbf-source-policy-v3")
+        self.assertEqual(packet["sourcePolicy"], "lbf-source-policy-v4")
         self.assertEqual(
             packet["evidencePolicy"],
-            "blocked-pending-canonical-evidence-bundle",
+            "canonical-ot-evidence-bundle-v1",
         )
+        self.assertEqual(packet["evidenceStatus"], "READY_FOR_MODEL")
         self.assertTrue(all("ahrc" not in token for token in packet["tokens"]))
+        self.assertEqual(packet_for_prompt(packet)["reference"], "Éxodo 1:16")
+
+    def test_model_packet_is_compact_but_keeps_primary_evidence(self) -> None:
+        packet = build_packet("exodo", 1, 5)
+        compact = packet_for_prompt(packet)
+        self.assertEqual(compact["promptProfile"], "canonical-ot-compact-v1")
+        self.assertEqual(
+            [item["sourceTokenId"] for item in compact["tokens"]],
+            [item["sourceTokenId"] for item in packet["tokens"]],
+        )
+        self.assertTrue(compact["syntax"]["nodes"])
+        self.assertNotIn("sourceCommit", compact["lexicalEvidence"][0])
+        self.assertNotIn("paleo", compact["tokens"][0])
+        self.assertTrue(all(item["relation"] != "current" for item in compact["originalLanguageContext"]))
+        full_size = len(dump_prompt({"packet": packet}))
+        compact_size = len(dump_prompt({"packet": compact}))
+        self.assertLess(compact_size, full_size * 0.65)
+
+    def test_exact_neighbor_constructions_precede_generic_corpus_samples(self) -> None:
+        packet = build_packet("exodo", 1, 5)
+        evidence = {
+            item["corpusEvidenceId"]: item
+            for item in packet["corpusEvidence"]
+        }
+        refs = [item["reference"] for item in evidence["3409"]["samples"][:2]]
+        self.assertEqual(refs, ["Gen.46.26", "Judg.8.30"])
+
+    def test_nt_prompt_remains_blocked(self) -> None:
+        packet = build_packet("titus", 1, 1)
         with self.assertRaisesRegex(RuntimeError, "evidence bundle is incomplete"):
+            packet_for_prompt(packet)
+
+    def test_macula_mapping_is_exact_and_structural_only(self) -> None:
+        packet = build_packet("exodo", 1, 16)
+        self.assertEqual(packet["syntax"]["mapping"]["status"], "exact")
+        self.assertEqual(packet["syntax"]["mapping"]["matched"], len(packet["tokens"]))
+        serialized = dump_prompt(packet)
+        for forbidden in ('"english":', '"mandarin":', '"gloss":', '"greek":', '"sdbh":', '"frame":'):
+            self.assertNotIn(forbidden, serialized)
+
+    def test_prompt_rejects_forbidden_macula_field(self) -> None:
+        packet = build_packet("exodo", 1, 16)
+        packet["syntax"]["nodes"][0]["gloss"] = "forbidden"
+        with self.assertRaisesRegex(ValueError, "forbidden MACULA fields leaked"):
+            packet_for_prompt(packet)
+
+    def test_prompt_rejects_noncanonical_syntax_token(self) -> None:
+        packet = build_packet("exodo", 1, 16)
+        packet["syntax"]["nodes"][0]["sourceTokenIds"].append("not-a-token")
+        with self.assertRaisesRegex(ValueError, "noncanonical token IDs"):
             packet_for_prompt(packet)
 
     def test_open_scriptures_lexicon_is_pinned_and_mapped(self) -> None:
         packet = build_packet("exodo", 1, 1)
         son = next(token for token in packet["tokens"] if token["lemma"] == "1121 a")
-        evidence = son["lexicalEvidence"]
+        evidence = next(
+            item
+            for item in packet["lexicalEvidence"]
+            if item["lexicalIndexId"] == son["lexicalEvidenceId"]
+        )
         self.assertEqual(evidence["augmentedStrong"], "1121a")
         self.assertEqual(evidence["lexicalIndexId"], "bss")
         self.assertEqual(
@@ -431,6 +511,17 @@ class SourcePacketTests(unittest.TestCase):
         )
         self.assertEqual(evidence["authority"], "secondary-possibilities-only")
         self.assertTrue(evidence["possibleSenses"])
+
+    def test_open_scriptures_entries_are_deduplicated(self) -> None:
+        packet = build_packet("exodo", 1, 1)
+        ids = [item["lexicalIndexId"] for item in packet["lexicalEvidence"]]
+        self.assertEqual(len(ids), len(set(ids)))
+
+    def test_prompt_rejects_tampered_lexical_evidence(self) -> None:
+        packet = build_packet("exodo", 1, 1)
+        packet["lexicalEvidence"][0]["sourceCommit"] = "floating-master"
+        with self.assertRaisesRegex(ValueError, "noncanonical lexical evidence"):
+            packet_for_prompt(packet)
 
     def test_tbesh_meaning_never_enters_ot_packet(self) -> None:
         prompt = dump_prompt(build_packet("exodo", 1, 1))

@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 1,
+  "verse": 20,
+  "spanish": "Dios trató bien a las parteras, y el pueblo aumentó y se hicieron muy numerosos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Falta de concordancia: «el pueblo» es singular, pero «se hicieron muy numerosos» está en plural.",
+      "spanishSpan": "se hicieron muy numerosos"
+    }
+  ],
+  "notes": "Debe decir «el pueblo aumentó y se hizo muy numeroso»."
+}

@@ -57,7 +57,9 @@ The repository presents these files under Creative Commons Attribution 4.0
 International (CC BY 4.0). However, TBESH's own header states that its meaning
 fields are based on the Abridged BDB by Online Bible and that permission should
 be obtained from Online Bible before applying those definitions in a project.
-TBESH is therefore blocked pending written permission or replacement.
+TBESH's `Meaning` field is therefore blocked pending written permission or
+replacement. LBF does not read that field. Other TBESH fields remain excluded
+until a positive-allowlist parser and leakage tests are approved.
 
 TBESG is an approved candidate, not yet an installed canonical source. Its
 exact upstream commit, checksum, license, attribution, parser, and coverage must
@@ -78,6 +80,17 @@ Required attribution:
 
 The exact upstream commit and local checksums are recorded in
 `Lexicons/PROVENANCE.md`.
+
+### MACULA Hebrew Linguistic Datasets
+
+Path: `source/hebrew/macula-hebrew-main/`
+
+The allowlisted structural syntax data is used under CC BY 4.0. Required
+attribution: “MACULA Hebrew Linguistic Datasets, available at
+https://github.com/Clear-Bible/macula-hebrew/”. LBF excludes MACULA glosses,
+translations, LXX equivalents, SDBH fields, semantic domains, frames, and
+word-sense selections. The pinned commit, manifest checksum, and exact allowed
+surface are recorded in `source/hebrew/MACULA_PROVENANCE.md`.
 
 ## Not in this repository
 

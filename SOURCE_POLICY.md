@@ -26,6 +26,11 @@ Consecuencias obligatorias:
   evidencia que sostuvo la decisión.
 - Una traducción o alineación que no pueda demostrar esta cadena de evidencia
   permanece `draft`, aunque su español parezca correcto.
+- Fidelidad no significa simplificación explicativa. Cuando el español pueda
+  conservar una metáfora, imagen corporal, repetición o estructura marcada del
+  original sin dejar de ser gramatical, debe conservarla. El modelo no puede
+  sustituirla por su interpretación (por ejemplo, convertir «salieron de los
+  lomos» en «descendían») solamente para facilitar la lectura.
 
 ## Regla cerrada
 
@@ -45,12 +50,19 @@ el único resultado permitido es `HOLD`. Toda unidad española debe citar los
 `sourceTokenIds` que la autorizan y toda decisión disputable debe citar la
 evidencia contextual o de corpus que la sostiene.
 
-## Bloqueo de evidencia vigente
+La evidencia de contexto y corpus puede establecer qué comunica una expresión;
+eso no autoriza a borrar la manera concreta en que el original lo comunica. La
+persona adjudica si una imagen necesita explicación, pero la traducción base
+la conserva siempre que sea viable en español.
 
-Todavía no está construido el paquete completo de evidencia para ambos
-testamentos. Por eso la redacción mediante modelos queda **bloqueada**. El
-paquete textual actual puede construirse e inspeccionarse, pero no puede entrar
-a GPT, Cursor, Terra, Sonnet, Grok ni otro modelo hasta que:
+## Estado del paquete de evidencia
+
+El paquete del **Antiguo Testamento** implementa la cadena de evidencia de esta
+política y puede entrar al modelo solamente cuando lleve
+`evidenceStatus: READY_FOR_MODEL` y pase el validador canónico. El paquete del
+**Nuevo Testamento continúa bloqueado** hasta construir sus capas equivalentes.
+
+Todo paquete debe:
 
 1. incluya la forma canónica y su identidad de token;
 2. incluya la morfología autorizada y su expansión legible;
@@ -101,9 +113,23 @@ Evidencia auxiliar permitida en el paquete:
 - notas explícitas `KJV:` de OSHB únicamente para convertir la etiqueta del
   versículo a numeración protestante. Esas notas no aportan palabras ni
   significados a la traducción.
+- **MACULA Hebrew**, exclusivamente sus árboles sintácticos, límites
+  estructurales, roles sintácticos y referencias de participantes, después de
+  correspondencia exacta y ordenada con la superficie OSHB. Fuente fijada:
+  `Clear-Bible/macula-hebrew` commit
+  `47db250bd55d0d8577f2a94fba114ef16c35b23c`, manifiesto permitido SHA-256
+  `5f5397d2be7856b9863c291f9f017ec55e9c4fddc2f2b0dcbacd658b43738e48`.
+  Licencia CC BY 4.0; véase `source/hebrew/MACULA_PROVENANCE.md`.
 
 La morfología, el lema y el identificador nunca pueden cambiar, reemplazar ni
 ampliar la lectura hebrea o aramea de WLC.
+
+De MACULA solo pueden sobrevivir al paquete los atributos estructurales
+`class`, `rule`, `role`, `head` y `clausetype`, además de los enlaces a los
+`sourceTokenIds` canónicos. Quedan excluidos y deben provocar rechazo:
+`english`, `mandarin`, `gloss`, `greek`, `greekstrong`, `sdbh`, `lexdomain`,
+`coredomain`, `contextualdomain`, `frame`, `sensenumber` y cualquier selección
+de sentido o traducción. MACULA nunca aporta la superficie autoritativa.
 
 ## Datos derivados sin autoridad semántica
 
@@ -164,7 +190,8 @@ Quedan prohibidas como evidencia para redactar, corregir, auditar o alinear:
 - cualquier Biblia traducida, incluida la LBF existente, RV1909, RVR1960,
   KJV, NVI, LBLA y toda otra versión;
 - texto crítico griego, SBLGNT, NA/UBS, Majority Text, LXX y otros testigos;
-- Macula Greek, Macula Hebrew u otro árbol sintáctico no enumerado arriba;
+- Macula Greek, cualquier campo MACULA Hebrew no permitido arriba y cualquier
+  otro árbol sintáctico no enumerado arriba;
 - BLE, glosas interlineales, gloss DP y concordancias de traducciones;
 - AHRC/AHLB como autoridad primaria y cualquier léxico no fijado y autorizado;
 - comentarios, teología, tipología, tradición y paralelos bíblicos usados para

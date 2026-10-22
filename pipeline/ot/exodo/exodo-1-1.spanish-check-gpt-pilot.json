@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 1,
+  "verse": 1,
+  "spanish": "Y estos *son* los nombres de los hijos de Israel que venían a Egipto; con Jacob, hombre y su casa vinieron.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "La construcción carece de un determinante distributivo y copia un orden ajeno al español. Debe decir, por ejemplo, «cada hombre vino con su casa» o «cada uno vino con su familia».",
+      "spanishSpan": "con Jacob, hombre y su casa vinieron"
+    }
+  ],
+  "notes": ""
+}
