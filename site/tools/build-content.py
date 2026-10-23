@@ -348,11 +348,12 @@ def main() -> None:
             [
                 "---",
                 'title: "La Biblia"',
-                'description: "Los libros de la Biblia traducidos hasta ahora en La Biblia Fiel (LBF)."',
+                'description: "Libros de la Biblia con textos de trabajo disponibles en La Biblia Fiel (LBF), todavía en revisión."',
                 "---",
                 "",
-                "Los libros publicados hasta ahora en la edición LBF. El texto es un",
-                "borrador de trabajo: se revisa continuamente y puede cambiar.",
+                "Libros con texto de trabajo disponible en la edición LBF. Estos",
+                "borradores siguen en revisión y no representan una traducción",
+                "completa terminada ni aprobada.",
                 "",
             ]
         ),

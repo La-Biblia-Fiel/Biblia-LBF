@@ -1,6 +1,6 @@
 {{ define "main" }}
 <section class="envoltura pagina pagina-ancha">
-  <p class="subtitulo-pagina">Edición LBF · borrador de trabajo</p>
+  <p class="subtitulo-pagina">Edición LBF · textos de trabajo en revisión</p>
   <h1>{{ .Title }}</h1>
   <div class="prosa">{{ .Content }}</div>
 
@@ -34,9 +34,10 @@
 
   <div class="aviso">
     <p>
-      La traducción está en curso. Los libros que aún no aparecen no han sido
-      publicados todavía; el texto disponible es un borrador de trabajo sujeto a
-      revisión. Consulta el <a href="{{ "progreso/" | relURL }}">progreso</a>.
+      La traducción está en curso. Los textos disponibles son borradores sujetos
+      a revisión; su presencia aquí no significa que estén terminados ni
+      aprobados. Consulta el <a href="{{ "progreso/" | relURL }}">progreso</a> y
+      el <a href="{{ "versiones/" | relURL }}">estado de revisión</a>.
     </p>
   </div>
 </section>

@@ -98,7 +98,7 @@ site/
 - Cinco tamaños de letra, modo claro/oscuro (se recuerdan en el navegador)
 - `←` y `→` navegan entre capítulos
 - «Copiar capítulo» copia el texto con su referencia
-- Búsqueda en todo el texto publicado, sin acentos ni mayúsculas
+- Búsqueda en todos los textos de trabajo disponibles, sin acentos ni mayúsculas
 
 ## Publicación
 
