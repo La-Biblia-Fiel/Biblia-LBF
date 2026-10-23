@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 2,
+  "verse": 19,
+  "spanish": "Y dijeron: «Un hombre egipcio nos rescató de la mano de los pastores; además, sacó, sí, sacó para nosotras, y dio de beber al rebaño».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "El verbo «sacó» queda sin complemento directo; «sacó para nosotras» no permite entender qué sacó y suena incompleto en español.",
+      "spanishSpan": "sacó, sí, sacó para nosotras"
+    }
+  ],
+  "notes": ""
+}

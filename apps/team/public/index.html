@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LBF team desk</title>
+  <style>
+    :root { color-scheme: light; --ink: #1c1915; --line: #d9d2c5; --paper: #f7f4ee; --hold: #8a4b08; }
+    body { margin: 0; font: 16px/1.45 "Iowan Old Style", Palatino, Georgia, serif; color: var(--ink); background: var(--paper); }
+    main { max-width: 920px; margin: 0 auto; padding: 28px 18px 64px; }
+    h1 { font-size: 1.7rem; margin: 0 0 8px; }
+    p { margin: 0 0 14px; }
+    form, .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    label { font-size: 0.92rem; }
+    input { font: inherit; padding: 6px 8px; border: 1px solid var(--line); background: white; }
+    button { font: inherit; padding: 6px 10px; border: 1px solid var(--ink); background: white; cursor: pointer; }
+    button:disabled { opacity: 0.45; cursor: default; }
+    table { width: 100%; border-collapse: collapse; margin-top: 18px; }
+    th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { font-size: 0.82rem; letter-spacing: 0.03em; }
+    .note { color: var(--hold); font-size: 0.92rem; }
+    .error { color: #8d1d1d; min-height: 1.2em; }
+    h2 { font-size: 1.15rem; margin: 22px 0 0; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>LBF team desk</h1>
+  <p id="lead">One Sol key on this computer drafts empty verses. Claim a book, then start it. Spanish already in the book stays put.</p>
+  <form id="who">
+    <label>Your name <input id="name" autocomplete="name" required></label>
+    <label>Token <input id="token" inputmode="numeric" autocomplete="off" maxlength="8"></label>
+  </form>
+  <p class="error" id="error"></p>
+  <h2>Old Testament</h2>
+  <table id="ot"></table>
+  <h2>New Testament</h2>
+  <table id="nt"></table>
+</main>
+<script>
+const nameInput = document.querySelector("#name");
+const tokenInput = document.querySelector("#token");
+const error = document.querySelector("#error");
+nameInput.value = localStorage.getItem("lbf-team-name") || "John";
+tokenInput.value = localStorage.getItem("lbf-team-token") || "";
+nameInput.addEventListener("change", () => localStorage.setItem("lbf-team-name", nameInput.value.trim()));
+tokenInput.addEventListener("change", () => localStorage.setItem("lbf-team-token", tokenInput.value));
+
+function table(id) {
+  const node = document.querySelector(id);
+  node.innerHTML = "<thead><tr><th>Book</th><th>Spanish</th><th>Holder</th><th></th></tr></thead><tbody></tbody>";
+  return node.querySelector("tbody");
+}
+const otBody = table("#ot");
+const ntBody = table("#nt");
+
+function buttons(book) {
+  const me = nameInput.value.trim();
+  const mine = book.holder && book.holder === me;
+  const grab = document.createElement("button");
+  grab.type = "button";
+  grab.textContent = book.holder ? "Taken" : "Claim";
+  grab.disabled = Boolean(book.holder);
+  grab.onclick = () => act("/api/claim", book.slug);
+  const release = document.createElement("button");
+  release.type = "button";
+  release.textContent = "Release";
+  release.disabled = !mine;
+  release.onclick = () => act("/api/release", book.slug);
+  const run = document.createElement("button");
+  run.type = "button";
+  run.textContent = book.running ? "Stop" : "Start Sol";
+  run.disabled = !mine;
+  run.onclick = () => act(book.running ? "/api/stop" : "/api/start", book.slug);
+  const wrap = document.createElement("div");
+  wrap.className = "row";
+  wrap.append(grab, run, release);
+  return wrap;
+}
+
+function render(board) {
+  document.querySelector("#lead").textContent =
+    `${board.model} drafts empty verses on this computer. ${board.running} of ${board.maxRunning} books are running. Claim a book, then start it. Spanish already written stays put.`;
+  for (const body of [otBody, ntBody]) body.replaceChildren();
+  for (const book of board.books) {
+    const tr = document.createElement("tr");
+    const total = book.total == null ? "…" : String(book.total);
+    const where = book.running && book.chapter ? ` ${book.chapter}:${book.verse}` : "";
+    tr.innerHTML = `<td>${book.label}</td><td>${book.filled} / ${total}</td><td></td><td></td>`;
+    const holder = document.createElement("div");
+    holder.textContent = (book.holder || "—") + where;
+    if (book.note) {
+      const note = document.createElement("div");
+      note.className = "note";
+      note.textContent = book.note;
+      holder.append(note);
+    }
+    tr.children[2].append(holder);
+    tr.children[3].append(buttons(book));
+    (book.testament === "nt" ? ntBody : otBody).append(tr);
+  }
+}
+
+async function refresh() {
+  const response = await fetch("/api/board");
+  if (!response.ok) return;
+  render(await response.json());
+}
+
+async function act(url, book) {
+  error.textContent = "";
+  const name = nameInput.value.trim();
+  localStorage.setItem("lbf-team-name", name);
+  localStorage.setItem("lbf-team-token", tokenInput.value);
+  const response = await fetch(url, {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({name, book, token: tokenInput.value})
+  });
+  const payload = await response.json();
+  if (!response.ok) {
+    error.textContent = payload.error || "Request failed";
+    return;
+  }
+  render(payload);
+}
+
+refresh();
+setInterval(refresh, 4000);
+</script>
+</body>
+</html>

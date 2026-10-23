@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 2:4",
+  "chapter": 2,
+  "verse": 4,
+  "candidateLabel": "gpt-ch2",
+  "spanish": "Y su hermana se apostó a cierta distancia, para saber qué le sucedería.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002004005",
+        "h02002004006",
+        "h02002004007"
+      ],
+      "issue": "«Le sucedería» replaces the passive «qué sería hecho a él / qué se le haría» with the distinct concept de que algo le ocurriría, obscuring the licensed passive action.",
+      "spanishSpan": "qué le sucedería"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

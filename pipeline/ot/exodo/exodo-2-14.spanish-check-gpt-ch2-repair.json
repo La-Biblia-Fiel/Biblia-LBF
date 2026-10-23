@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 2,
+  "verse": 14,
+  "spanish": "Y él dijo: «¿Quién te puso como hombre al mando y juez sobre nosotros? ¿Acaso piensas matarme como mataste al egipcio?». Entonces Moisés tuvo miedo y dijo: «Ciertamente, el asunto se ha dado a conocer».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Construcción conspicuamente poco natural; la coordinación «como hombre al mando y juez» es un calco que dificulta la lectura y debería expresarse, por ejemplo, como «por gobernante y juez».",
+      "spanishSpan": "como hombre al mando y juez"
+    },
+    {
+      "severity": "fail",
+      "issue": "Sobra el punto después del signo de interrogación y de las comillas de cierre.",
+      "spanishSpan": "?». Entonces"
+    }
+  ],
+  "notes": ""
+}

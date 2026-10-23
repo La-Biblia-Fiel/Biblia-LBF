@@ -1,0 +1,41 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 2:20",
+  "chapter": 2,
+  "verse": 20,
+  "candidateLabel": "gpt-ch2",
+  "spanish": "Y dijo a sus hijas: «¿Y dónde está él? ¿Por qué dejaron al hombre? Llámenlo para que coma pan».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002020004"
+      ],
+      "issue": "Inserta la cópula «está» sin marcar, aunque no corresponde a ningún token verbal de la cláusula nominal.",
+      "spanishSpan": "está"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002020005",
+        "h02002020006",
+        "h02002020007"
+      ],
+      "issue": "Omite el demostrativo זֶה («esto»), presente en la pregunta.",
+      "spanishSpan": "¿Por qué dejaron"
+    },
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002020012"
+      ],
+      "issue": "«para que» convierte la conjunción y el imperfecto en una relación final que el paquete no establece.",
+      "spanishSpan": "para que"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

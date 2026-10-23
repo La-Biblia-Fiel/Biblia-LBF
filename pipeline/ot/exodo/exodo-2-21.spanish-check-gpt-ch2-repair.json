@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 2,
+  "verse": 21,
+  "spanish": "Moisés accedió a vivir con el hombre, y el hombre dio a Moisés a su hija Séfora.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "El orden de los dos complementos con «dio» resulta forzado y dificulta la lectura; el orden natural es «dio su hija Séfora a Moisés».",
+      "spanishSpan": "dio a Moisés a su hija Séfora"
+    }
+  ],
+  "notes": ""
+}

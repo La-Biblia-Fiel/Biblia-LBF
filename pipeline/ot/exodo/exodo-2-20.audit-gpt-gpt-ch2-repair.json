@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 2:20",
+  "chapter": 2,
+  "verse": 20,
+  "candidateLabel": "gpt-ch2-repair",
+  "spanish": "Y dijo a sus hijas: «¿Y dónde *está* él? ¿Por qué hicieron esto: dejar al hombre? Llámenlo y comerá pan».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002020005",
+        "h02002020006",
+        "h02002020007"
+      ],
+      "issue": "«Hicieron» supplies an unmarked verb meaning hacer that is absent from the source; the source directly predicates «dejaron» of the feminine-plural addressees within the question.",
+      "spanishSpan": "hicieron esto: dejar"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

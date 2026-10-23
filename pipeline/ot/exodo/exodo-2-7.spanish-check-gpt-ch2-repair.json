@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 2,
+  "verse": 7,
+  "spanish": "Y su hermana dijo a la hija de Faraón: «¿Iré y llamaré para ti a una nodriza de entre las hebreas, para que amamante al niño para ti?»",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "El futuro interrogativo «¿Iré y llamaré...?» resulta un calco poco natural para expresar una propuesta; en español corriente sería «¿Quieres que vaya y llame...?» o «¿Iré a llamarte...?»",
+      "spanishSpan": "¿Iré y llamaré para ti"
+    },
+    {
+      "severity": "fail",
+      "issue": "La segunda repetición de «para ti» vuelve la oración innecesariamente pesada y poco natural.",
+      "spanishSpan": "para que amamante al niño para ti"
+    }
+  ],
+  "notes": ""
+}

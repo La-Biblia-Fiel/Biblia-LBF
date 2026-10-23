@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 2:16",
+  "chapter": 2,
+  "verse": 16,
+  "candidateLabel": "gpt-ch2",
+  "spanish": "Y el sacerdote de Madián tenía siete hijas; ellas vinieron, sacaron agua y llenaron los abrevaderos para dar de beber al rebaño de su padre.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002016006"
+      ],
+      "issue": "Añade el objeto explícito «agua»; el verbo fuente expresa «sacaron» sin nombrar ese objeto.",
+      "spanishSpan": "agua"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

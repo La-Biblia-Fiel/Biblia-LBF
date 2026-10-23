@@ -97,95 +97,95 @@ Y el faraón ordenó a todo su pueblo, diciendo: «A todo hijo nacido lo arrojar
 
 ### 2:1
 
-Y un hombre de la casa de Leví fue y tomó a una hija de Leví.
+Y fue un hombre de la casa de Leví y tomó a una hija de Leví.
 
 ### 2:2
 
-Y la mujer concibió y dio a luz un hijo; y vio que era bueno, y lo escondió tres meses.
+Y la mujer concibió y dio a luz un hijo; y vio que él *era* bueno, y lo escondió tres meses.
 
 ### 2:3
 
-Y al no poder ocultarlo más, tomó para él una cesta de junco, y la untó con alquitrán y con brea, y puso al niño en ella, y *lo* puso en los juncos, sobre la orilla del Nilo.
+Y no pudo ocultarlo más, y tomó para él un arca de papiro, y la recubrió con betún y brea, y puso al niño en ella, y la puso en los juncos, sobre la orilla del Nilo.
 
 ### 2:4
 
-Y su hermana se quedó de pie a lo lejos para saber qué le sucedería.
+Y su hermana se quedó de pie a lo lejos, para saber qué se le haría.
 
 ### 2:5
 
-Y descendió la hija de Faraón para bañarse en el Nilo, y sus doncellas caminaban junto al Nilo; y vio la cesta en medio de los juncos, y envió a su esclava, y ella la tomó.
+Y la hija del faraón descendió a bañarse en el Nilo, y sus doncellas caminaban a la orilla del Nilo; y vio el arca en medio de los juncos, y envió a su esclava, y ella la tomó.
 
 ### 2:6
 
-Y abrió, y lo vio: al niño; y he aquí, un niño llorando. Y se compadeció de él y dijo: «Este es uno de los niños hebreos».
+Y abrió y vio al niño; y he aquí que un niño lloraba. Y tuvo compasión de él, y dijo: «Este *es* de los niños de los hebreos».
 
 ### 2:7
 
-Y dijo su hermana a la hija de Faraón: «¿Iré y llamaré para ti a una mujer que amamanta, de entre las hebreas, y amamantará para ti al niño?»
+Y su hermana dijo a la hija del faraón: «¿Iré y llamaré para ti a una mujer que amamanta, de entre las hebreas, y ella amamantará para ti al niño?»
 
 ### 2:8
 
-Y le dijo la hija de Faraón: «Ve». Y fue la joven y llamó a la madre del niño.
+Y la hija del faraón le dijo: «Ve». Y la joven fue y llamó a la madre del niño.
 
 ### 2:9
 
-Y le dijo la hija de Faraón: «Lleva a este niño y amamántalo para mí, y yo daré tu salario». Y la mujer tomó al niño y lo amamantó.
+Y la hija del faraón le dijo: «Lleva a este niño y amamántalo para mí, y yo *te* daré tu salario». Y la mujer tomó al niño y lo amamantó.
 
 ### 2:10
 
-Y creció el niño, y lo llevó a la hija de Faraón, y fue para ella un hijo; y llamó su nombre Moisés, y dijo: «Porque de las aguas lo saqué».
+Y el niño creció, y ella lo llevó a la hija del faraón, y llegó a ser su hijo; y ella lo llamó Moisés, y dijo: «Porque de las aguas lo saqué».
 
 ### 2:11
 
-Y sucedió en aquellos días, crecido ya Moisés, que salió a sus hermanos y vio sus cargas; y vio a un hombre egipcio golpeando a un hombre hebreo, sus hermanos.
+Y sucedió en aquellos días que Moisés creció, y salió hacia sus hermanos, y vio sus cargas; y vio a un hombre egipcio que golpeaba a un hombre hebreo, uno de sus hermanos.
 
 ### 2:12
 
-Y se volvió hacia acá y hacia allá, y vio que no había hombre; y golpeó al egipcio y lo ocultó en la arena.
+Y se volvió a uno y otro lado, y vio que no había ningún hombre; y golpeó al egipcio y lo escondió en la arena.
 
 ### 2:13
 
-Y salió al día siguiente, y he aquí dos hombres hebreos luchando; y dijo al malvado: «¿Por qué golpeas a tu compañero?»
+Y salió al segundo día, y he aquí que dos hombres hebreos luchaban; y dijo al malvado: «¿Por qué golpeas a tu compañero?»
 
 ### 2:14
 
-Y dijo: «¿Quién te puso por hombre, noble y juez sobre nosotros? ¿Piensas matarme como mataste al egipcio?». Y temió Moisés y dijo: «Ciertamente fue descubierto el asunto».
+Y dijo: «¿Quién te puso como un hombre gobernante y juez sobre nosotros? ¿Dices que me matarás como mataste al egipcio?» Y Moisés tuvo miedo y dijo: «Ciertamente, el asunto se ha sabido».
 
 ### 2:15
 
-Y oyó Faraón el asunto este, y buscó matar a Moisés. Y huyó Moisés de faces de Faraón, y habitó en tierra de Midyán, y habitó sobre el pozo.
+Y el faraón oyó este asunto y buscó matar a Moisés; y Moisés huyó de la presencia del faraón, y habitó en la tierra de Madián, y se sentó junto al pozo.
 
 ### 2:16
 
-Y el sacerdote de Madián tenía siete hijas; y vinieron, y sacaron, y llenaron las fuentes para dar de beber al rebaño de su padre.
+Y el sacerdote de Madián *tenía* siete hijas; y ellas vinieron, y sacaron *agua*, y llenaron los bebederos para dar de beber al rebaño de su padre.
 
 ### 2:17
 
-Y vinieron los pastores y los expulsaron; y se levantó Moisés y las rescató, y dio de beber a su rebaño.
+Y vinieron los pastores y las echaron; y Moisés se levantó, y las rescató, y dio de beber a su rebaño.
 
 ### 2:18
 
-Y vinieron a Reuel su padre, y dijo: ¿Por qué se apresuraron ustedes a venir hoy?
+Y llegaron a Reuel, su padre, y él dijo: «¿Por qué se apresuraron a venir hoy?»
 
 ### 2:19
 
-Y dijeron: «Un hombre egipcio nos libró de la mano de los pastores; y también sacó agua para nosotras, y dio de beber al rebaño».
+Y dijeron: «Un hombre egipcio nos rescató de la mano de los pastores; y además, ciertamente sacó agua para nosotras, y dio de beber al rebaño».
 
 ### 2:20
 
-Y dijo a sus hijas: «¿Y dónde está? ¿Por qué razón dejaron al hombre? Llámenlo, y comerá pan».
+Y dijo a sus hijas: «¿Y dónde *está* él? ¿Por qué dejaron al hombre? Llámenlo, y que coma pan».
 
 ### 2:21
 
-Y accedió Moisés a habitar con el hombre; y dio a Séphora, su hija, a Moisés.
+Y Moisés accedió a habitar con el hombre; y el hombre dio a Séfora, su hija, a Moisés.
 
 ### 2:22
 
-Y dio a luz un hijo, y llamó su nombre Gersón, porque dijo: «Extranjero he sido en tierra extranjera».
+Y ella dio a luz un hijo, y él lo llamó Gersón, porque dijo: «Forastero fui en tierra extranjera».
 
 ### 2:23
 
-Y sucedió en aquellos muchos días que murió el rey de Egipto, y los hijos de Israel gemían a causa de la servidumbre, y clamaron; y subió a Dios el clamor de ellos por motivo de su servidumbre.
+Y sucedió, durante aquellos muchos días, que murió el rey de Egipto; y los hijos de Israel gemían a causa de la servidumbre y clamaron; y su clamor de auxilio subió a Dios a causa de la servidumbre.
 
 ### 2:24
 
@@ -193,7 +193,7 @@ Y oyó Dios su gemido, y recordó Dios su pacto con Abraham, con Isaac y con Jac
 
 ### 2:25
 
-Y miró Dios a los hijos de Israel, y los reconoció Dios.
+Y vio Dios a los hijos de Israel, y supo Dios.
 
 ## Capítulo 3
 

@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 2,
+  "verse": 7,
+  "spanish": "Y su hermana dijo a la hija de Faraón: «¿Iré y llamaré para ti a una mujer nodriza de entre las hebreas, para que te amamante al niño?»",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "«Mujer nodriza» es una combinación redundante y poco natural; «nodriza» ya designa a una mujer que amamanta.",
+      "spanishSpan": "una mujer nodriza"
+    },
+    {
+      "severity": "fail",
+      "issue": "El dativo «te» con «amamante al niño» produce una construcción forzada y ambigua en este registro; debe expresarse el beneficio con una formulación idiomática.",
+      "spanishSpan": "te amamante al niño"
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 2,
+  "verse": 20,
+  "spanish": "Y dijo a sus hijas: «¿Y dónde *está* él? ¿Por qué hicieron esto: dejar al hombre? Llámenlo y comerá pan».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Construcción explicativa poco natural y calcada; la pregunta directa sería «¿Por qué dejaron al hombre?».",
+      "spanishSpan": "¿Por qué hicieron esto: dejar al hombre?"
+    }
+  ],
+  "notes": ""
+}

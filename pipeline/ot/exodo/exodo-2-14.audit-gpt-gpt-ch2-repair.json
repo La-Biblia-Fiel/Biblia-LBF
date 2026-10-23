@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 2:14",
+  "chapter": 2,
+  "verse": 14,
+  "candidateLabel": "gpt-ch2-repair",
+  "spanish": "Y él dijo: «¿Quién te puso como hombre al mando y juez sobre nosotros? ¿Acaso piensas matarme como mataste al egipcio?». Entonces Moisés tuvo miedo y dijo: «Ciertamente, el asunto se ha dado a conocer».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002014009",
+        "h02002014010"
+      ],
+      "issue": "«Piensas» replaces the explicit participle «dices/estás diciendo» with an unsupported cognition or intention sense.",
+      "spanishSpan": "piensas"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

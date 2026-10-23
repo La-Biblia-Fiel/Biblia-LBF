@@ -1,0 +1,25 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 2:23",
+  "chapter": 2,
+  "verse": 23,
+  "candidateLabel": "gpt-ch2-repair",
+  "spanish": "Y sucedió que, al cabo de muchos días, murió el rey de Egipto; y los hijos de Israel gemían a causa del trabajo y clamaron, y su clamor de auxilio subió a Dios a causa del trabajo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002023002",
+        "h02002023003",
+        "h02002023004"
+      ],
+      "issue": "“Al cabo de” cambia “en aquellos muchos días” por la idea más específica de que ocurrió al finalizar un período, y omite el demostrativo “aquellos”.",
+      "spanishSpan": "al cabo de muchos días"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

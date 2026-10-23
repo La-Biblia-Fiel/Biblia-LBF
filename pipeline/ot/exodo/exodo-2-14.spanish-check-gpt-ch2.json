@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 2,
+  "verse": 14,
+  "spanish": "Y él dijo: «¿Quién te puso como hombre, jefe y juez sobre nosotros? ¿Acaso piensas matarme como mataste al egipcio?». Entonces Moisés tuvo miedo y dijo: «Ciertamente, el asunto se ha dado a conocer».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "La coordinación presenta «hombre» como un cargo paralelo a «jefe y juez», lo que resulta incongruente y conspicuamente poco natural en español.",
+      "spanishSpan": "como hombre, jefe y juez"
+    }
+  ],
+  "notes": ""
+}

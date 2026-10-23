@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 2:17",
+  "chapter": 2,
+  "verse": 17,
+  "candidateLabel": "gpt-ch2",
+  "spanish": "Entonces llegaron los pastores y las echaron; pero Moisés se levantó, las salvó y dio de beber a su rebaño.",
+  "verdict": "pass",
+  "findings": [
+    {
+      "severity": "warn",
+      "sourceTokenIds": [
+        "h02002017004"
+      ],
+      "issue": "«pero» explicita una relación adversativa donde la fuente solo presenta la conjunción prefijada; es una posible suavización discursiva contextual.",
+      "spanishSpan": "pero"
+    }
+  ],
+  "notes": "Los participantes, acciones, número y sufijos posesivos quedan adecuadamente representados.",
+  "discardedUncitedFindings": 0
+}

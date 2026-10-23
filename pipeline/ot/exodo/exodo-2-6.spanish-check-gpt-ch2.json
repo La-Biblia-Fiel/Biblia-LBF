@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 2,
+  "verse": 6,
+  "spanish": "Abrió y vio al niño; y he aquí, un muchacho lloraba. Entonces lo perdonó y dijo: «Este es uno de los niños de los hebreos».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "La construcción «he aquí» requiere «que» para enlazar naturalmente la cláusula; además, «un muchacho» introduce de manera ambigua a otro participante después de «al niño».",
+      "spanishSpan": "he aquí, un muchacho lloraba"
+    }
+  ],
+  "notes": "Una redacción natural sería: «Abrió y vio al niño; y he aquí que el niño lloraba»."
+}

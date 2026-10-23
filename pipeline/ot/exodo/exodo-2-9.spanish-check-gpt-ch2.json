@@ -1,0 +1,18 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 2,
+  "verse": 9,
+  "spanish": "La hija del faraón le dijo: «Lleva a este niño y amamántalo para mí, y yo daré tu salario». La mujer tomó al niño y lo amamantó.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Falta el pronombre indirecto «te» para expresar que el salario se le dará a la mujer; debe decir «yo te daré tu salario».",
+      "spanishSpan": "yo daré tu salario"
+    }
+  ],
+  "notes": ""
+}

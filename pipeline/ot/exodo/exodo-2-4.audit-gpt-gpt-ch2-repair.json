@@ -1,0 +1,23 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 2:4",
+  "chapter": 2,
+  "verse": 4,
+  "candidateLabel": "gpt-ch2-repair",
+  "spanish": "Y su hermana se apostó a cierta distancia, para saber qué se le haría.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002004003"
+      ],
+      "issue": "«Cierta» no está licenciada y «a cierta distancia» no conserva claramente el sentido de lejanía expresado por מֵרָחֹק («desde lejos/a lo lejos»).",
+      "spanishSpan": "a cierta distancia"
+    }
+  ],
+  "notes": "",
+  "discardedUncitedFindings": 0
+}

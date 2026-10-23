@@ -1,0 +1,24 @@
+{
+  "schema": "lbf-grok-audit-v1",
+  "auditor": "GPT independent audit",
+  "book": "exodo",
+  "reference": "Éxodo 2:2",
+  "chapter": 2,
+  "verse": 2,
+  "candidateLabel": "gpt-ch2",
+  "spanish": "La mujer concibió y dio a luz un hijo; y al ver que él era bueno, lo escondió durante tres meses.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "sourceTokenIds": [
+        "h02002002008",
+        "h02002002009"
+      ],
+      "issue": "La cópula añadida para expresar la cláusula nominal hebrea no está marcada con asteriscos.",
+      "spanishSpan": "era"
+    }
+  ],
+  "notes": "La cópula sería admisible como apoyo gramatical si apareciera marcada: *era*.",
+  "discardedUncitedFindings": 0
+}
