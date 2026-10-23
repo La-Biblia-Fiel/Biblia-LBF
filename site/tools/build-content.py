@@ -34,6 +34,7 @@ ARCHIVO_ESTADO = RAIZ_REPO / "STATUS.md"
 DIR_BIBLIA = RAIZ_SITIO / "content" / "biblia"
 DIR_DATOS = RAIZ_SITIO / "data"
 DIR_ESTATICO = RAIZ_SITIO / "static"
+RE_ITALICA = re.compile(r"(?<!\*)\*([^*\n]+)\*(?!\*)")
 
 # --------------------------------------------------------------------------
 # Canon: orden, nombre en español y número de capítulos.
@@ -88,6 +89,7 @@ RE_LIBRO = re.compile(r"^#\s+(.+?)\s*$")
 RE_CAPITULO = re.compile(r"^##\s+Cap[íi]tulo\s+(\d+)\s*$", re.IGNORECASE)
 RE_VERSICULO = re.compile(r"^###\s+(\d+):(\d+)([a-z]?)\s*$")
 RE_NOTA = re.compile(r"^>\s?(.*)$")
+RE_NOTA_TRADUCCION = re.compile(r"^>\s*Nota:\s*(.*)$", re.IGNORECASE)
 
 
 class Libro:
@@ -98,7 +100,7 @@ class Libro:
         self.orden = orden
         self.titulo_archivo = titulo
         self.notas: list[str] = []
-        self.capitulos: dict[int, list[tuple[str, str]]] = {}
+        self.capitulos: dict[int, list[tuple[str, str, list[str]]]] = {}
 
     @property
     def n_versiculos(self) -> int:
@@ -124,18 +126,20 @@ def parsear_libro(ruta: Path, meta: dict) -> Libro:
     capitulo_actual: int | None = None
     versiculo_actual: str | None = None
     buffer: list[str] = []
+    notas_versiculo: list[str] = []
 
     def cerrar_versiculo():
-        nonlocal buffer, versiculo_actual
+        nonlocal buffer, versiculo_actual, notas_versiculo
         if capitulo_actual is not None and versiculo_actual is not None:
             texto = " ".join(l.strip() for l in buffer if l.strip())
             texto = re.sub(r"\s+", " ", texto).strip()
             if texto:
                 libro.capitulos.setdefault(capitulo_actual, []).append(
-                    (versiculo_actual, texto)
+                    (versiculo_actual, texto, notas_versiculo)
                 )
         buffer = []
         versiculo_actual = None
+        notas_versiculo = []
 
     for linea in ruta.read_text(encoding="utf-8").splitlines():
         m = RE_VERSICULO.match(linea)
@@ -164,6 +168,13 @@ def parsear_libro(ruta: Path, meta: dict) -> Libro:
                 libro.notas.append(m.group(1).strip())
             continue
 
+        if versiculo_actual is not None:
+            nota = RE_NOTA_TRADUCCION.match(linea)
+            if nota:
+                if nota.group(1).strip():
+                    notas_versiculo.append(nota.group(1).strip())
+                continue
+
         buffer.append(linea)
 
     cerrar_versiculo()
@@ -179,6 +190,20 @@ def parsear_libro(ruta: Path, meta: dict) -> Libro:
 
 def yaml_txt(valor: str) -> str:
     return '"' + valor.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def render_texto_versiculo(texto: str) -> str:
+    escaped = html.escape(texto, quote=False)
+    return RE_ITALICA.sub(lambda match: f"<em>{match.group(1)}</em>", escaped)
+
+
+def render_nota_traduccion(notas: list[str]) -> str:
+    if not notas:
+        return ""
+    contenido = "".join(
+        f"<p>{render_texto_versiculo(nota)}</p>" for nota in notas
+    )
+    return f'<details class="nota-traduccion"><summary>Nota</summary>{contenido}</details>'
 
 
 def nota_fuente(libro: Libro) -> str:
@@ -217,14 +242,17 @@ def escribir_libro(libro: Libro) -> None:
     for idx, cap in enumerate(capitulos):
         versiculos = libro.capitulos[cap]
         cuerpo = []
-        for num, texto in versiculos:
-            texto_html = html.escape(texto, quote=False)
+        for num, texto, notas in versiculos:
+            texto_html = render_texto_versiculo(texto)
             cuerpo.append(
                 f'<p class="v" id="v{num}">'
                 f'<a class="vn" href="#v{num}" aria-label="Versículo {num}">{num}</a> '
                 f"{texto_html}</p>"
             )
+            if notas:
+                cuerpo.append(render_nota_traduccion(notas))
 
+        descripcion = RE_ITALICA.sub(r"\1", versiculos[0][1][:120])
         fm = [
             "---",
             f"title: {yaml_txt(f'{libro.titulo} {cap}')}",
@@ -235,7 +263,7 @@ def escribir_libro(libro: Libro) -> None:
             f'testamento: "{libro.testamento}"',
             f"weight: {cap}",
             f"versiculos: {len(versiculos)}",
-            f"description: {yaml_txt(f'{libro.titulo} {cap} — La Biblia Fiel (LBF). {versiculos[0][1][:120]}')}",
+            f"description: {yaml_txt(f'{libro.titulo} {cap} — La Biblia Fiel (LBF). {descripcion}')}",
         ]
         if idx > 0:
             ant = capitulos[idx - 1]
@@ -335,7 +363,7 @@ def main() -> None:
     for libro in libros:
         escribir_libro(libro)
         for cap in sorted(libro.capitulos):
-            for num, texto in libro.capitulos[cap]:
+            for num, texto, _notas in libro.capitulos[cap]:
                 indice_busqueda.append(
                     {
                         "r": f"{libro.titulo} {cap}:{num}",
