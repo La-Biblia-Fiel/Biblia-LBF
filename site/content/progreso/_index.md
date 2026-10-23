@@ -1,9 +1,11 @@
 ---
 title: "Progreso de la traducción"
 layout: "progreso"
-description: "Qué libros de La Biblia Fiel tienen texto de trabajo y cuáles siguen pendientes."
+description: "Cobertura de borradores de La Biblia Fiel y estado de revisión por libro."
 ---
 
-El Nuevo Testamento existe en borrador. El Antiguo Testamento avanza
-libro por libro. Ningún libro está terminado hasta que una persona lo
-firme en el registro del proyecto. El texto publicado puede cambiar.
+La traducción completa de La Biblia Fiel sigue en curso. Las cifras de esta
+página indican en qué libros hay texto de trabajo disponible; no indican que
+ese texto esté terminado ni aprobado. Consulta el registro de
+[estado de revisión]({{< relref "/versiones" >}}) para ver los estados y las
+firmas de cada etapa.

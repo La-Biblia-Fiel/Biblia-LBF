@@ -11,12 +11,16 @@
     <div class="portada-regla"></div>
   </section>
 
+  <div class="aviso">
+    <p><strong>Proyecto en curso.</strong> Las cifras muestran dónde hay texto de trabajo disponible; no significan que la traducción completa esté terminada ni aprobada. Consulta el <a href="{{ "progreso/" | relURL }}">progreso</a> y el <a href="{{ "versiones/" | relURL }}">estado de revisión</a>.</p>
+  </div>
+
   {{ with site.Data.libros }}
   <ul class="cifras">
-    <li class="cifra"><b>{{ .totales.libros }}</b><span>Libros traducidos</span></li>
-    <li class="cifra"><b>{{ .totales.capitulos }}</b><span>Capítulos</span></li>
-    <li class="cifra"><b>{{ lang.FormatNumber 0 .totales.versiculos }}</b><span>Versículos</span></li>
-    <li class="cifra"><b>{{ .totales.porcentajeNT }}%</b><span>Nuevo Testamento</span></li>
+    <li class="cifra"><b>{{ .totales.libros }}</b><span>Libros con borrador</span></li>
+    <li class="cifra"><b>{{ .totales.capitulos }}</b><span>Capítulos con texto</span></li>
+    <li class="cifra"><b>{{ lang.FormatNumber 0 .totales.versiculos }}</b><span>Versículos en borrador</span></li>
+    <li class="cifra"><b>{{ .totales.porcentajeNT }}%</b><span>Libros del NT con borrador</span></li>
   </ul>
   {{ end }}
 
@@ -45,7 +49,7 @@
   <div class="tarjetas">
     <a class="tarjeta" href="{{ "biblia/" | relURL }}">
       <h3>Leer</h3>
-      <p>Todos los libros traducidos hasta ahora, capítulo por capítulo, con enlaces permanentes a cada versículo.</p>
+      <p>Textos de trabajo disponibles capítulo por capítulo, con enlaces permanentes a cada versículo.</p>
     </a>
     <a class="tarjeta" href="{{ "proyecto/metodologia/" | relURL }}">
       <h3>Metodología</h3>
@@ -57,7 +61,7 @@
     </a>
     <a class="tarjeta" href="{{ "progreso/" | relURL }}">
       <h3>Progreso</h3>
-      <p>Qué libros están traducidos, cuáles están en revisión y qué falta por delante.</p>
+      <p>Qué libros tienen borrador disponible, cuál es su estado de revisión y qué falta por delante.</p>
     </a>
   </div>
 

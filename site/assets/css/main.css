@@ -584,6 +584,19 @@ html[data-tema="oscuro"] .btn-tema .icono-sol { display: none; }
   user-select: none;
 }
 .lectura .vn:hover { color: var(--acento); }
+.nota-traduccion {
+  margin: -.5rem 0 .85rem 2rem;
+  font-family: var(--sans);
+  font-size: .78rem;
+  line-height: 1.55;
+  color: var(--tinta-media);
+}
+.nota-traduccion summary {
+  width: fit-content;
+  color: var(--acento);
+  cursor: pointer;
+}
+.nota-traduccion p { margin: .35rem 0 0; }
 .lectura .v:target {
   background: color-mix(in srgb, var(--acento) 12%, transparent);
   box-shadow: 0 0 0 .35rem color-mix(in srgb, var(--acento) 12%, transparent);

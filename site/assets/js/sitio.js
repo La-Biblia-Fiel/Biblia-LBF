@@ -157,6 +157,20 @@
         escapar(texto.slice(i + termino.length));
     }
 
+    function formatearTexto(texto, termino) {
+      var partes = [];
+      var patron = /(^|[^*])\*([^*\n]+)\*(?!\*)/g;
+      var inicio = 0;
+      var coincidencia;
+      while ((coincidencia = patron.exec(texto)) !== null) {
+        partes.push(resaltar(texto.slice(inicio, coincidencia.index) + coincidencia[1], termino));
+        partes.push('<em>' + resaltar(coincidencia[2], termino) + '</em>');
+        inicio = patron.lastIndex;
+      }
+      partes.push(resaltar(texto.slice(inicio), termino));
+      return partes.join('');
+    }
+
     function escapar(s) {
       return s.replace(/[&<>]/g, function (c) {
         return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c];
@@ -182,7 +196,7 @@
           : 'Sin resultados para «' + q + '».';
         var html = hallados.map(function (v) {
           return '<li><a class="ref" href="' + v.u + '">' + escapar(v.r) + '</a>' +
-            '<p class="texto">' + resaltar(v.t, termino) + '</p></li>';
+            '<p class="texto">' + formatearTexto(v.t, termino) + '</p></li>';
         }).join('');
         salida.innerHTML = html;
       });

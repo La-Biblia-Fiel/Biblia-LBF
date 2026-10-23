@@ -52,7 +52,11 @@ El formato que espera el script es el que ya usa `translation/`:
 ### 1:1
 
 Texto del versículo.
+
+> Nota: explicación opcional de una decisión de traducción.
 ```
+
+Las notas de traducción aparecen ocultas hasta que el lector abre «Nota».
 
 Cuando se añade un libro nuevo del Antiguo Testamento, basta con dejar el
 archivo en `translation/ot/` con el nombre del *slug* canónico
@@ -94,7 +98,7 @@ site/
 - Cinco tamaños de letra, modo claro/oscuro (se recuerdan en el navegador)
 - `←` y `→` navegan entre capítulos
 - «Copiar capítulo» copia el texto con su referencia
-- Búsqueda en todo el texto publicado, sin acentos ni mayúsculas
+- Búsqueda en todos los textos de trabajo disponibles, sin acentos ni mayúsculas
 
 ## Publicación
 
