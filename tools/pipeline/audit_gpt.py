@@ -8,7 +8,9 @@ Spanish, translation Markdown, alignment, or STATUS.md.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -18,7 +20,7 @@ import env_load  # noqa: F401
 from audit_lib import SYSTEM, audit_path, build_user_prompt, normalize_audit, request_path, write_json
 from books import get_book
 from draft_lib import call_openai
-from source_packet import build_packet, packet_path, write_packet
+from source_packet import build_packet, packet_path, validate_packet, write_packet
 from usage_lib import record_call
 
 
@@ -44,10 +46,11 @@ def main() -> int:
     packet = json.loads(stored.read_text(encoding="utf-8")) if stored.is_file() else build_packet(args.book, args.chapter, args.verse)
     if not stored.is_file():
         write_packet(packet)
+    validate_packet(packet)
 
     user = build_user_prompt(packet, spanish, label)
     request = request_path(args.book, args.chapter, args.verse, f"gpt-{label}")
-    write_json(request, {"system": SYSTEM, "user": user, "packetRef": str(stored)})
+    write_json(request, {"system": SYSTEM, "user": user, "packetRef": str(stored), "model": os.environ.get("LBF_GPT_MODEL", "gpt-5.1"), "reasoningEffort": (os.environ.get("LBF_GPT_REASONING") or "medium").strip()})
     if args.prompt_only:
         print(f"wrote GPT audit request {request}")
         return 0
@@ -63,6 +66,10 @@ def main() -> int:
             return 2
 
     audit = normalize_audit(raw, packet, spanish, label, auditor="GPT independent audit")
+    audit["model"] = os.environ.get("LBF_GPT_MODEL", "gpt-5.1")
+    audit["reasoningEffort"] = (os.environ.get("LBF_GPT_REASONING") or "medium").strip()
+    audit["packetSha256"] = hashlib.sha256(json.dumps(packet, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
+    audit["candidateSha256"] = hashlib.sha256(json.dumps(candidate, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
     output = audit_path(args.book, args.chapter, args.verse, f"gpt-{label}")
     write_json(output, audit)
     print(f"{audit['verdict']}  {output}  findings={len(audit['findings'])}")

@@ -100,9 +100,19 @@ def normalize_draft(raw: dict, packet: dict, label: str) -> dict:
         issue = str(item).strip()
         if issue:
             uncertainties.append({"sourceTokenIds": [], "issue": issue})
+    evidence_decisions = []
+    for item in raw.get("evidenceDecisions") or []:
+        ids = [tid for tid in (item.get("sourceTokenIds") or []) if tid in allowed]
+        issue = str(item.get("issue") or "").strip()
+        rationale = str(item.get("rationale") or "").strip()
+        level = str(item.get("evidenceLevel") or "").strip()
+        alternatives = [str(x).strip() for x in (item.get("alternatives") or []) if str(x).strip()]
+        if ids and issue and rationale:
+            evidence_decisions.append({"sourceTokenIds": ids, "issue": issue, "evidenceLevel": level, "rationale": rationale, "alternatives": alternatives})
     return {
         "schema": DRAFT_SCHEMA,
         "drafter": "Cursor Auto" if label == "auto" else "GPT-5.6",
+        "model": os.environ.get("LBF_GPT_MODEL", "gpt-5.1"),
         "label": label,
         "book": packet["book"],
         "reference": packet["reference"],
@@ -111,6 +121,7 @@ def normalize_draft(raw: dict, packet: dict, label: str) -> dict:
         "spanish": str(raw.get("spanish") or "").strip(),
         "units": units,
         "uncertainties": uncertainties,
+        "evidenceDecisions": evidence_decisions,
         "addedConcepts": added,
         "droppedUncitedUnits": dropped,
     }
@@ -133,7 +144,7 @@ def call_openai(system: str, user: str) -> tuple[dict, dict]:
             {"role": "user", "content": user},
         ],
     }
-    effort = (os.environ.get("LBF_GPT_REASONING") or "low").strip()
+    effort = (os.environ.get("LBF_GPT_REASONING") or "medium").strip()
     if effort:
         body["reasoning_effort"] = effort
     req = urllib.request.Request(

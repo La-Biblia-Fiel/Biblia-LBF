@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 5,
+  "spanish": "Y dijo: «No te acerques aquí. Quítate las sandalias de los pies, porque el lugar donde tú estás de pie *es* suelo santo».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "«No te acerques aquí» es una construcción poco natural; en español corriente se dice «No te acerques» o «No te acerques más».",
+      "spanishSpan": "No te acerques aquí"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "cdf4bbb318124cc9f2b7759558296dd547ce249a2cb097e32e64e83dcb0885aa"
+}

@@ -1,0 +1,161 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:22",
+  "chapter": 3,
+  "verse": 22,
+  "spanish": "Cada mujer pedirá a su vecina y a la que reside en su casa objetos de plata, objetos de oro y ropa; y los pondrán sobre sus hijos y sobre sus hijas, y despojarán a Egipto.",
+  "units": [
+    {
+      "es": "Cada mujer pedirá",
+      "sourceTokenIds": [
+        "h02003022001",
+        "h02003022002"
+      ]
+    },
+    {
+      "es": "a su vecina y a la que reside en su casa",
+      "sourceTokenIds": [
+        "h02003022003",
+        "h02003022004",
+        "h02003022005"
+      ]
+    },
+    {
+      "es": "objetos de plata, objetos de oro y ropa;",
+      "sourceTokenIds": [
+        "h02003022006",
+        "h02003022007",
+        "h02003022008",
+        "h02003022009",
+        "h02003022010"
+      ]
+    },
+    {
+      "es": "y los pondrán sobre sus hijos y sobre sus hijas,",
+      "sourceTokenIds": [
+        "h02003022006",
+        "h02003022007",
+        "h02003022008",
+        "h02003022009",
+        "h02003022010",
+        "h02003022011",
+        "h02003022012",
+        "h02003022013",
+        "h02003022014",
+        "h02003022015"
+      ]
+    },
+    {
+      "es": "y despojarán a Egipto.",
+      "sourceTokenIds": [
+        "h02003022016",
+        "h02003022017",
+        "h02003022018"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003022001",
+        "h02003022002",
+        "h02003022011"
+      ],
+      "issue": "Fuerza distributiva del sujeto femenino singular",
+      "evidenceLevel": "context-discourse",
+      "rationale": "El sujeto singular «mujer» realiza individualmente la acción dentro del grupo plural al que se dirige la secuencia, como muestra el posterior verbo de segunda persona plural; «cada mujer» expresa esa distribución en español.",
+      "alternatives": [
+        "una mujer pedirá",
+        "la mujer pedirá"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003022001",
+        "h02003022003",
+        "h02003022004",
+        "h02003022005",
+        "h02003022006",
+        "h02003022007",
+        "h02003022008",
+        "h02003022009",
+        "h02003022010"
+      ],
+      "issue": "Sentido contextual de שׁאל",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El verbo tiene como fuentes a la vecina y a la residente de la casa, y como objeto los objetos de plata, de oro y la ropa. «Pedirá a» conserva esa relación sin imponer la noción más específica de préstamo.",
+      "alternatives": [
+        "solicitará a",
+        "pedirá prestado a"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003022004",
+        "h02003022005"
+      ],
+      "issue": "Representación del participio femenino con complemento de casa",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El participio qal femenino está unido sintácticamente a «su casa»; «la que reside en su casa» conserva tanto el referente femenino como la relación locativa.",
+      "alternatives": [
+        "la huésped de su casa",
+        "la que habita en su casa"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003022006",
+        "h02003022007",
+        "h02003022008",
+        "h02003022009"
+      ],
+      "issue": "Sentido amplio de כְּלִי en construcciones de material",
+      "evidenceLevel": "lexicon-possibility",
+      "rationale": "El sustantivo plural en estado constructo se vincula respectivamente con plata y oro. «Objetos» conserva una referencia amplia compatible con las posibilidades léxicas sin especificar utensilios o recipientes.",
+      "alternatives": [
+        "utensilios de plata y utensilios de oro",
+        "recipientes de plata y recipientes de oro",
+        "artículos de plata y artículos de oro"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003022011",
+        "h02003022012",
+        "h02003022013",
+        "h02003022014",
+        "h02003022015"
+      ],
+      "issue": "Cambio a segunda persona plural y referente tácito del objeto",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El verbo es qal secuencial de segunda persona plural y las dos frases con עַל señalan a los hijos y las hijas de los destinatarios. El pronombre «los» recupera gramaticalmente en español los objetos y la ropa ya mencionados.",
+      "alternatives": [
+        "y pondrán estas cosas sobre sus hijos y sobre sus hijas",
+        "y las pondrán sobre sus hijos y sobre sus hijas"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003022016",
+        "h02003022017",
+        "h02003022018"
+      ],
+      "issue": "Fuerza piel de נצל con Egipto como objeto directo",
+      "evidenceLevel": "context-discourse",
+      "rationale": "El piel de segunda persona plural toma a Egipto como objeto directo y sigue a la obtención de bienes, mientras el contexto anterior declara que no saldrán con las manos vacías. «Despojarán a Egipto» expresa esa acción transitiva.",
+      "alternatives": [
+        "saquearán Egipto",
+        "despojarán Egipto"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "05425ececf9438e4d23e9df7fbf42effbeef2d0c9416f71a357b63d34eb1a0be"
+}

@@ -1,0 +1,150 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:6",
+  "chapter": 3,
+  "verse": 6,
+  "spanish": "Y dijo: «Yo *soy* el Dios de tu padre, el Dios de Abraham, el Dios de Isaac y el Dios de Jacob». Y Moisés ocultó su rostro, porque tuvo miedo de mirar a Dios.",
+  "units": [
+    {
+      "es": "Y dijo",
+      "sourceTokenIds": [
+        "h02003006001"
+      ]
+    },
+    {
+      "es": "Yo *soy*",
+      "sourceTokenIds": [
+        "h02003006002",
+        "h02003006003",
+        "h02003006004"
+      ]
+    },
+    {
+      "es": "el Dios de tu padre",
+      "sourceTokenIds": [
+        "h02003006003",
+        "h02003006004"
+      ]
+    },
+    {
+      "es": "el Dios de Abraham",
+      "sourceTokenIds": [
+        "h02003006005",
+        "h02003006006"
+      ]
+    },
+    {
+      "es": "el Dios de Isaac",
+      "sourceTokenIds": [
+        "h02003006007",
+        "h02003006008"
+      ]
+    },
+    {
+      "es": "y el Dios de Jacob",
+      "sourceTokenIds": [
+        "h02003006009",
+        "h02003006010"
+      ]
+    },
+    {
+      "es": "Y Moisés ocultó su rostro",
+      "sourceTokenIds": [
+        "h02003006011",
+        "h02003006012",
+        "h02003006013"
+      ]
+    },
+    {
+      "es": "porque",
+      "sourceTokenIds": [
+        "h02003006014"
+      ]
+    },
+    {
+      "es": "tuvo miedo",
+      "sourceTokenIds": [
+        "h02003006015"
+      ]
+    },
+    {
+      "es": "de mirar a Dios",
+      "sourceTokenIds": [
+        "h02003006016",
+        "h02003006017",
+        "h02003006018"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003006002",
+        "h02003006003",
+        "h02003006004",
+        "h02003006005",
+        "h02003006006",
+        "h02003006007",
+        "h02003006008",
+        "h02003006009",
+        "h02003006010"
+      ],
+      "issue": "Copula en la cláusula nominal y relación de aposición",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La sintaxis marca una cláusula sujeto-predicado sin verbo expreso: אָנֹכִי es el sujeto y la serie de construcciones «Dios de...» constituye el predicado en aposición. El español requiere la copula añadida *soy*.",
+      "alternatives": [
+        "Yo, el Dios de tu padre, el Dios de Abraham, el Dios de Isaac y el Dios de Jacob"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003006003",
+        "h02003006004"
+      ],
+      "issue": "Sentido singular de אֱלֹהֵי y relación constructa",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "אֱלֹהֵי está en estado constructo y אָבִיךָ lleva sufijo de segunda persona masculina singular; la construcción se expresa naturalmente como «el Dios de tu padre».",
+      "alternatives": [
+        "Dios de tu padre"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003006011",
+        "h02003006012",
+        "h02003006013"
+      ],
+      "issue": "Conservación de la imagen concreta «ocultó su rostro»",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El verbo hiphil tiene como sujeto a Moisés y como objeto explícito פָּנָיו, «su rostro»; «ocultó su rostro» conserva tanto la relación transitiva como la imagen corporal.",
+      "alternatives": [
+        "Moisés escondió su rostro"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003006014",
+        "h02003006015",
+        "h02003006016",
+        "h02003006017",
+        "h02003006018"
+      ],
+      "issue": "Relación causal y complemento del temor",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "כִּי introduce la razón de ocultar el rostro, mientras יָרֵא seguido de la preposición מִן y el infinitivo הַבִּיט expresa temor de realizar la acción de mirar hacia Dios.",
+      "alternatives": [
+        "pues temió mirar a Dios",
+        "porque tuvo miedo de mirar hacia Dios"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "63f619a52f238f81c25dbcc494a2383efeb122dacbbac31fa6f4d80628826ca0"
+}

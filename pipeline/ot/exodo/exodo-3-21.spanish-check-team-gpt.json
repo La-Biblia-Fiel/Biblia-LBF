@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 21,
+  "spanish": "Y daré favor a este pueblo a los ojos de Egipto; y sucederá que, cuando se vayan, no se irán vacíos.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Construcción calcada y poco idiomática; en español se dice «haré que este pueblo halle favor ante los ojos de Egipto» o «daré favor a este pueblo ante Egipto».",
+      "spanishSpan": "daré favor a este pueblo a los ojos de Egipto"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "bbba87bf6af3524a2e95e8258cf5b9b6521aeb454016811e22f60a72b12c4815"
+}

@@ -1,0 +1,110 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:19",
+  "chapter": 3,
+  "verse": 19,
+  "spanish": "Y yo sé que el rey de Egipto no les permitirá ir ni con mano fuerte.",
+  "units": [
+    {
+      "es": "Y yo",
+      "sourceTokenIds": [
+        "h02003019001"
+      ]
+    },
+    {
+      "es": "sé",
+      "sourceTokenIds": [
+        "h02003019002"
+      ]
+    },
+    {
+      "es": "que",
+      "sourceTokenIds": [
+        "h02003019003"
+      ]
+    },
+    {
+      "es": "el rey de Egipto",
+      "sourceTokenIds": [
+        "h02003019007",
+        "h02003019008"
+      ]
+    },
+    {
+      "es": "no",
+      "sourceTokenIds": [
+        "h02003019004"
+      ]
+    },
+    {
+      "es": "les permitirá",
+      "sourceTokenIds": [
+        "h02003019005",
+        "h02003019006"
+      ]
+    },
+    {
+      "es": "ir",
+      "sourceTokenIds": [
+        "h02003019009"
+      ]
+    },
+    {
+      "es": "ni",
+      "sourceTokenIds": [
+        "h02003019010"
+      ]
+    },
+    {
+      "es": "con mano fuerte",
+      "sourceTokenIds": [
+        "h02003019011",
+        "h02003019012"
+      ]
+    }
+  ],
+  "uncertainties": [
+    {
+      "sourceTokenIds": [],
+      "issue": "El paquete no determina plenamente si «y no con mano fuerte» funciona como negación coordinada («ni con mano fuerte») o si expresa una excepción implícita («a menos que sea por mano fuerte»). Se conserva la forma negativa explícita."
+    }
+  ],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003019005",
+        "h02003019006",
+        "h02003019009"
+      ],
+      "issue": "Fuerza de «dar» seguido de objeto e infinitivo",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El verbo rige el objeto de segunda persona plural y el infinitivo «ir»; en español, «permitirles ir» expresa naturalmente esta relación sin alterar los participantes.",
+      "alternatives": [
+        "no los dejará ir",
+        "no les dará ir"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003019010",
+        "h02003019011",
+        "h02003019012"
+      ],
+      "issue": "Relación de la negación coordinada con «mano fuerte»",
+      "evidenceLevel": "surface",
+      "rationale": "La superficie presenta una conjunción con negación seguida de la frase preposicional «con mano fuerte». «Ni con mano fuerte» conserva la negación coordinada y la imagen concreta sin introducir una cláusula de excepción.",
+      "alternatives": [
+        "y no con mano fuerte",
+        "a menos que sea por mano fuerte"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "e448afb874d5edf5d387bf0ff4fbf2feea3abe503b43cdaa36a5a17197f47ffe"
+}

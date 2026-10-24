@@ -1,0 +1,152 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:17",
+  "chapter": 3,
+  "verse": 17,
+  "spanish": "Y dije: Los haré subir de la aflicción de Egipto a la tierra del cananeo, del hitita, del amorreo, del ferezeo, del heveo y del jebuseo, a una tierra que mana leche y miel.",
+  "units": [
+    {
+      "es": "Y dije:",
+      "sourceTokenIds": [
+        "h02003017001"
+      ]
+    },
+    {
+      "es": "Los haré subir",
+      "sourceTokenIds": [
+        "h02003017002",
+        "h02003017003"
+      ]
+    },
+    {
+      "es": "de la aflicción de Egipto",
+      "sourceTokenIds": [
+        "h02003017004",
+        "h02003017005"
+      ]
+    },
+    {
+      "es": "a la tierra del cananeo, del hitita, del amorreo, del ferezeo, del heveo y del jebuseo,",
+      "sourceTokenIds": [
+        "h02003017006",
+        "h02003017007",
+        "h02003017008",
+        "h02003017009",
+        "h02003017010",
+        "h02003017011",
+        "h02003017012",
+        "h02003017013"
+      ]
+    },
+    {
+      "es": "a una tierra que mana leche y miel.",
+      "sourceTokenIds": [
+        "h02003017014",
+        "h02003017015",
+        "h02003017016",
+        "h02003017017",
+        "h02003017018"
+      ]
+    }
+  ],
+  "uncertainties": [
+    {
+      "sourceTokenIds": [],
+      "issue": "El paquete no incluye la tabla PROPER_NAMES.md ni equivalentes españoles explícitos para los seis gentilicios; las formas «cananeo, hitita, amorreo, ferezeo, heveo y jebuseo» requieren confirmación humana contra la tabla bloqueada del proyecto."
+    }
+  ],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003017001"
+      ],
+      "issue": "valor temporal y persona de la fórmula introductoria",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La forma qal secuencial de primera persona singular funciona como verbo de una cláusula y se representa con «dije».",
+      "alternatives": [
+        "Y he dicho"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003017002",
+        "h02003017003"
+      ],
+      "issue": "fuerza causativa del verbo y objeto plural",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El verbo está en hiphil, primera persona singular, y el marcador de objeto lleva sufijo de segunda persona plural; «los haré subir» conserva la causación, la persona y el número.",
+      "alternatives": [
+        "los sacaré",
+        "los llevaré arriba"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003017004",
+        "h02003017005"
+      ],
+      "issue": "sentido de עֳנִי en la relación constructa",
+      "evidenceLevel": "context-discourse",
+      "rationale": "El sustantivo está en constructo con Egipto y el contexto inmediato se refiere a lo hecho al pueblo en Egipto; entre las posibilidades léxicas, «aflicción» corresponde a esa relación sin introducir pobreza.",
+      "alternatives": [
+        "de la pobreza de Egipto",
+        "del sufrimiento de Egipto"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003017006",
+        "h02003017007",
+        "h02003017008",
+        "h02003017009",
+        "h02003017010",
+        "h02003017011",
+        "h02003017012",
+        "h02003017013"
+      ],
+      "issue": "relación entre tierra y la serie de seis gentilicios",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "«Tierra» está en constructo y la sintaxis agrupa los seis gentilicios definidos como una serie coordinada dependiente de ella; por eso se conserva «la tierra del…» con cada miembro.",
+      "alternatives": [
+        "la tierra de los cananeos, hititas, amorreos, ferezeos, heveos y jebuseos"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003017006",
+        "h02003017007",
+        "h02003017014",
+        "h02003017015"
+      ],
+      "issue": "repetición de la frase direccional «a una tierra»",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La cláusula contiene dos frases preposicionales sucesivas encabezadas por אֶל y אֶרֶץ; se conserva la repetición en español en vez de fundir ambas expresiones.",
+      "alternatives": [
+        "a la tierra del cananeo… que mana leche y miel"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003017015",
+        "h02003017016",
+        "h02003017017",
+        "h02003017018"
+      ],
+      "issue": "imagen de una tierra que fluye leche y miel",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El participio qal femenino modifica «tierra» y mantiene como complementos concretos «leche y miel»; «que mana leche y miel» conserva la imagen activa sin explicarla.",
+      "alternatives": [
+        "que fluye leche y miel",
+        "que rebosa de leche y miel"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "14266ab6c4a491a24d563c0c6a5601092adc529c821e0344619149c25f86a2ef"
+}

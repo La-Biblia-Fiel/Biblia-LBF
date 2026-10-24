@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 4,
+  "spanish": "Y Yahvé vio que se había apartado para ver; y Dios lo llamó desde en medio de la zarza y dijo: «¡Moisés, Moisés!». Y dijo: «¡Aquí estoy!».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "El sujeto tácito parece seguir siendo Dios, aunque quien responde es Moisés; debe explicitarse el cambio de hablante o usarse «respondió».",
+      "spanishSpan": "Y dijo"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "05d67b8028e78e5d34db46afe7c0430413b8d8f4cd46dec98b68d22efa32b941"
+}

@@ -259,7 +259,7 @@ Y dijo además Dios a Moisés: «Así dirás a los hijos de Israel: “Yahvé, D
 
 ### 3:16
 
-Ve y reúne a los ancianos de Israel, y dirás a ellos: Jehová Dios de padres de ustedes se apareció a mí, Dios de Abraham, Isaac y Jacob, diciendo: Visitando he visitado a ustedes y lo hecho a ustedes en Egipto.
+Ve y reúne a los ancianos de Israel, y dirás a ellos: Yahvé Dios de padres de ustedes se apareció a mí, Dios de Abraham, Isaac y Jacob, diciendo: Visitando he visitado a ustedes y lo hecho a ustedes en Egipto.
 
 ### 3:17
 
@@ -267,7 +267,7 @@ Y dije: Subiré a ustedes desde la aflicción de Egipto a tierra del cananeo y e
 
 ### 3:18
 
-Y oirán a tu voz, y vendrás tú y los ancianos de Israel al rey de Egipto, y dirán a él: Jehová Dios de los hebreos se encontró sobre nosotros; y ahora, andemos, por favor, camino de tres días en el desierto, y sacrifiquemos a Jehová nuestro Dios.
+Y oirán a tu voz, y vendrás tú y los ancianos de Israel al rey de Egipto, y dirán a él: Yahvé Dios de los hebreos se encontró sobre nosotros; y ahora, andemos, por favor, camino de tres días en el desierto, y sacrifiquemos a Yahvé nuestro Dios.
 
 ### 3:19
 
@@ -517,7 +517,7 @@ Y habló Dios a Moisés, y le dijo: «Yo *soy* Yahvé».
 
 ### 6:3
 
-Y me aparecí a Abraham, a Isaac y a Jacob en El Shaday, y mi nombre Jehová no fui conocido a ellos.
+Y me aparecí a Abraham, a Isaac y a Jacob en El Shaday, y mi nombre Yahvé no fui conocido a ellos.
 
 ### 6:4
 
@@ -647,7 +647,7 @@ Y no oirá a ustedes Faraón, y daré mi mano en Egipto, y haré salir mis ejér
 
 ### 7:5
 
-Y Egipto conocerá que yo Jehová, en mi extender mi mano sobre Egipto, y haré salir a hijos de Israel de medio de ellos.
+Y Egipto conocerá que yo Yahvé, en mi extender mi mano sobre Egipto, y haré salir a hijos de Israel de medio de ellos.
 
 ### 7:6
 
@@ -733,7 +733,7 @@ Y se cumplieron siete días después de que Yahvé golpeó el Nilo.
 
 ### 8:1
 
-Y dijo Jehová a Moisés: Entra a Faraón, y dirás a él: Así dijo Jehová: Envía a mi pueblo, y me servirán.
+Y dijo Yahvé a Moisés: Entra a Faraón, y dirás a él: Así dijo Yahvé: Envía a mi pueblo, y me servirán.
 
 ### 8:2
 
@@ -749,7 +749,7 @@ Y en ti y en tu pueblo y en todos tus siervos subirán las ranas.
 
 ### 8:5
 
-Y dijo Jehová a Moisés: Di a Aarón: Extiende tu mano con tu vara sobre los ríos, sobre los arroyos y sobre los estanques, y haz subir a las ranas sobre tierra de Egipto.
+Y dijo Yahvé a Moisés: Di a Aarón: Extiende tu mano con tu vara sobre los ríos, sobre los arroyos y sobre los estanques, y haz subir a las ranas sobre tierra de Egipto.
 
 ### 8:6
 
@@ -761,7 +761,7 @@ Y hicieron así los magos con sus secretos, y hicieron subir a las ranas sobre t
 
 ### 8:8
 
-Y llamó Faraón a Moisés y a Aarón, y dijo: Intercedan a Jehová, y quite las ranas de mí y de mi pueblo, y enviaré al pueblo, y sacrificarán a Jehová.
+Y llamó Faraón a Moisés y a Aarón, y dijo: Intercedan a Yahvé, y quite las ranas de mí y de mi pueblo, y enviaré al pueblo, y sacrificarán a Yahvé.
 
 ### 8:9
 
@@ -769,7 +769,7 @@ Y dijo Moisés a Faraón: Gloríate sobre mí: ¿para cuándo intercederé por t
 
 ### 8:10
 
-Y dijo: Para mañana. Y dijo: Conforme a tu palabra, a fin de que conozcas que no hay como Jehová nuestro Dios.
+Y dijo: Para mañana. Y dijo: Conforme a tu palabra, a fin de que conozcas que no hay como Yahvé nuestro Dios.
 
 ### 8:11
 
@@ -777,11 +777,11 @@ Y se apartarán las ranas de ti y de tus casas y de tus siervos y de tu pueblo; 
 
 ### 8:12
 
-Y salió Moisés y Aarón de con Faraón, y clamó Moisés a Jehová sobre el asunto de las ranas que puso a Faraón.
+Y salió Moisés y Aarón de con Faraón, y clamó Moisés a Yahvé sobre el asunto de las ranas que puso a Faraón.
 
 ### 8:13
 
-Y hizo Jehová conforme a la palabra de Moisés, y murieron las ranas desde las casas, desde los patios y desde los campos.
+Y hizo Yahvé conforme a la palabra de Moisés, y murieron las ranas desde las casas, desde los patios y desde los campos.
 
 ### 8:14
 
@@ -789,11 +789,11 @@ Y amontonaron a ellos montones montones, y hedió la tierra.
 
 ### 8:15
 
-Y vio Faraón que fue el alivio, y hizo pesado su corazón, y no oyó a ellos, como habló Jehová.
+Y vio Faraón que fue el alivio, y hizo pesado su corazón, y no oyó a ellos, como habló Yahvé.
 
 ### 8:16
 
-Y dijo Jehová a Moisés: Di a Aarón: Extiende tu vara y hiere el polvo de la tierra, y será a piojos en toda tierra de Egipto.
+Y dijo Yahvé a Moisés: Di a Aarón: Extiende tu vara y hiere el polvo de la tierra, y será a piojos en toda tierra de Egipto.
 
 ### 8:17
 
@@ -805,11 +805,11 @@ Y hicieron así los magos con sus secretos para sacar a los piojos, y no pudiero
 
 ### 8:19
 
-Y dijeron los magos a Faraón: Dedo de Dios ella. Y se fortaleció el corazón de Faraón, y no oyó a ellos, como habló Jehová.
+Y dijeron los magos a Faraón: Dedo de Dios ella. Y se fortaleció el corazón de Faraón, y no oyó a ellos, como habló Yahvé.
 
 ### 8:20
 
-Y dijo Jehová a Moisés: Madruga en la mañana y ponte delante de Faraón; he aquí saliente hacia las aguas, y dirás a él: Así dijo Jehová: Envía a mi pueblo, y me servirán.
+Y dijo Yahvé a Moisés: Madruga en la mañana y ponte delante de Faraón; he aquí saliente hacia las aguas, y dirás a él: Así dijo Yahvé: Envía a mi pueblo, y me servirán.
 
 ### 8:21
 
@@ -817,7 +817,7 @@ Porque si no eres enviando a mi pueblo, he aquí yo enviando en ti y en tus sier
 
 ### 8:22
 
-Y distinguiré en el día aquel a tierra de Gosén, que mi pueblo está parado sobre ella, para no ser allí enjambre, a fin de que conozcas que yo Jehová en medio de la tierra.
+Y distinguiré en el día aquel a tierra de Gosén, que mi pueblo está parado sobre ella, para no ser allí enjambre, a fin de que conozcas que yo Yahvé en medio de la tierra.
 
 ### 8:23
 
@@ -825,7 +825,7 @@ Y pondré rescate entre mi pueblo y entre tu pueblo; para mañana será la seña
 
 ### 8:24
 
-Y hizo Jehová así, y vino enjambre pesado a casa de Faraón y casa de sus siervos; y en toda tierra de Egipto se corrompía la tierra de faces del enjambre.
+Y hizo Yahvé así, y vino enjambre pesado a casa de Faraón y casa de sus siervos; y en toda tierra de Egipto se corrompía la tierra de faces del enjambre.
 
 ### 8:25
 
@@ -833,27 +833,27 @@ Y llamó Faraón a Moisés y a Aarón, y dijo: Vayan, sacrifiquen a su Dios en l
 
 ### 8:26
 
-Y dijo Moisés: No *es* firme hacer así, porque la abominación de Egipto sacrificaremos a Jehová nuestro Dios. He aquí, sacrificaremos la abominación de Egipto a sus ojos, y no nos apedrearán.
+Y dijo Moisés: No *es* firme hacer así, porque la abominación de Egipto sacrificaremos a Yahvé nuestro Dios. He aquí, sacrificaremos la abominación de Egipto a sus ojos, y no nos apedrearán.
 
 ### 8:27
 
-Camino de tres días iremos en el desierto, y sacrificaremos a Jehová nuestro Dios, como diga a nosotros.
+Camino de tres días iremos en el desierto, y sacrificaremos a Yahvé nuestro Dios, como diga a nosotros.
 
 ### 8:28
 
-Y dijo Faraón: Yo enviaré a ustedes, y sacrificarán a Jehová su Dios en el desierto; solo alejando no alejen para ir. Intercedan por mí.
+Y dijo Faraón: Yo enviaré a ustedes, y sacrificarán a Yahvé su Dios en el desierto; solo alejando no alejen para ir. Intercedan por mí.
 
 ### 8:29
 
-Y dijo Moisés: He aquí yo saliente de con ti, e intercederé a Jehová, y se apartará el enjambre de Faraón, de sus siervos y de su pueblo mañana; solo no vuelva Faraón a engañar, para no enviar al pueblo a sacrificar a Jehová.
+Y dijo Moisés: He aquí yo saliente de con ti, e intercederé a Yahvé, y se apartará el enjambre de Faraón, de sus siervos y de su pueblo mañana; solo no vuelva Faraón a engañar, para no enviar al pueblo a sacrificar a Yahvé.
 
 ### 8:30
 
-Y salió Moisés de con Faraón, e intercedió a Jehová.
+Y salió Moisés de con Faraón, e intercedió a Yahvé.
 
 ### 8:31
 
-Y hizo Jehová conforme a la palabra de Moisés, y apartó el enjambre de Faraón, de sus siervos y de su pueblo; no quedó uno.
+Y hizo Yahvé conforme a la palabra de Moisés, y apartó el enjambre de Faraón, de sus siervos y de su pueblo; no quedó uno.
 
 ### 8:32
 
@@ -863,7 +863,7 @@ Y hizo pesado Faraón su corazón también en la vez esta, y no envió al pueblo
 
 ### 9:1
 
-Y dijo Jehová a Moisés: Entra a Faraón, y hablarás a él: Así dijo Jehová Dios de los hebreos: Envía a mi pueblo, y me servirán.
+Y dijo Yahvé a Moisés: Entra a Faraón, y hablarás a él: Así dijo Yahvé Dios de los hebreos: Envía a mi pueblo, y me servirán.
 
 ### 9:2
 
@@ -871,19 +871,19 @@ Porque si rehúsante tú de enviar, y todavía tú aferrado en ellos,
 
 ### 9:3
 
-he aquí mano de Jehová siendo en tu ganado que en el campo, en los caballos, en los asnos, en los camellos, en el ganado vacuno y en el rebaño, peste pesada mucho.
+he aquí mano de Yahvé siendo en tu ganado que en el campo, en los caballos, en los asnos, en los camellos, en el ganado vacuno y en el rebaño, peste pesada mucho.
 
 ### 9:4
 
-Y distinguirá Jehová entre ganado de Israel y entre ganado de Egipto, y no morirá cosa de todo a hijos de Israel.
+Y distinguirá Yahvé entre ganado de Israel y entre ganado de Egipto, y no morirá cosa de todo a hijos de Israel.
 
 ### 9:5
 
-Y puso Jehová plazo, diciendo: Mañana hará Jehová este asunto en la tierra.
+Y puso Yahvé plazo, diciendo: Mañana hará Yahvé este asunto en la tierra.
 
 ### 9:6
 
-Y hizo Jehová este asunto al día siguiente, y murió todo ganado de Egipto, y del ganado de hijos de Israel no murió uno.
+Y hizo Yahvé este asunto al día siguiente, y murió todo ganado de Egipto, y del ganado de hijos de Israel no murió uno.
 
 ### 9:7
 
@@ -891,7 +891,7 @@ Y envió Faraón, y he aquí no murió del ganado de Israel hasta uno, y se hizo
 
 ### 9:8
 
-Y dijo Jehová a Moisés y a Aarón: Tomen para ustedes sus puños llenos de hollín de horno, y lo esparcirá Moisés hacia los cielos a ojos de Faraón.
+Y dijo Yahvé a Moisés y a Aarón: Tomen para ustedes sus puños llenos de hollín de horno, y lo esparcirá Moisés hacia los cielos a ojos de Faraón.
 
 ### 9:9
 
@@ -907,11 +907,11 @@ Y no pudieron los magos pararse delante de Moisés de faces de la úlcera, porqu
 
 ### 9:12
 
-Y fortaleció Jehová el corazón de Faraón, y no oyó a ellos, como habló Jehová a Moisés.
+Y fortaleció Yahvé el corazón de Faraón, y no oyó a ellos, como habló Yahvé a Moisés.
 
 ### 9:13
 
-Y dijo Jehová a Moisés: Madruga en la mañana y ponte delante de Faraón, y dirás a él: Así dijo Jehová Dios de los hebreos: Envía a mi pueblo, y me servirán.
+Y dijo Yahvé a Moisés: Madruga en la mañana y ponte delante de Faraón, y dirás a él: Así dijo Yahvé Dios de los hebreos: Envía a mi pueblo, y me servirán.
 
 ### 9:14
 
@@ -939,19 +939,19 @@ Y ahora, envía, haz refugiar a tu ganado y a todo lo que a ti en el campo; todo
 
 ### 9:20
 
-El temiente la palabra de Jehová, de siervos de Faraón, hizo huir a sus siervos y a su ganado a las casas.
+El temiente la palabra de Yahvé, de siervos de Faraón, hizo huir a sus siervos y a su ganado a las casas.
 
 ### 9:21
 
-Y el que no puso su corazón a la palabra de Jehová, y dejó a sus siervos y a su ganado en el campo.
+Y el que no puso su corazón a la palabra de Yahvé, y dejó a sus siervos y a su ganado en el campo.
 
 ### 9:22
 
-Y dijo Jehová a Moisés: Extiende tu mano sobre los cielos, y sea granizo en toda tierra de Egipto, sobre el hombre y sobre el ganado y sobre toda hierba del campo en tierra de Egipto.
+Y dijo Yahvé a Moisés: Extiende tu mano sobre los cielos, y sea granizo en toda tierra de Egipto, sobre el hombre y sobre el ganado y sobre toda hierba del campo en tierra de Egipto.
 
 ### 9:23
 
-Y extendió Moisés su vara sobre los cielos, y Jehová dio voces y granizo, y anduvo fuego a tierra, e hizo llover Jehová granizo sobre tierra de Egipto.
+Y extendió Moisés su vara sobre los cielos, y Yahvé dio voces y granizo, y anduvo fuego a tierra, e hizo llover Yahvé granizo sobre tierra de Egipto.
 
 ### 9:24
 
@@ -967,19 +967,19 @@ Solo en tierra de Gosén, que allí hijos de Israel, no fue granizo.
 
 ### 9:27
 
-Y envió Faraón y llamó a Moisés y a Aarón, y dijo a ellos: He pecado la vez esta; Jehová el justo, y yo y mi pueblo los malos.
+Y envió Faraón y llamó a Moisés y a Aarón, y dijo a ellos: He pecado la vez esta; Yahvé el justo, y yo y mi pueblo los malos.
 
 ### 9:28
 
-Intercedan a Jehová, y bastante de ser voces de Dios y granizo, y enviaré a ustedes, y no añadirán permanecer.
+Intercedan a Yahvé, y bastante de ser voces de Dios y granizo, y enviaré a ustedes, y no añadirán permanecer.
 
 ### 9:29
 
-Y dijo a él Moisés: Al salir yo la ciudad, extenderé mis palmas a Jehová; las voces cesarán, y el granizo no será todavía, a fin de que conozcas que a Jehová la tierra.
+Y dijo a él Moisés: Al salir yo la ciudad, extenderé mis palmas a Yahvé; las voces cesarán, y el granizo no será todavía, a fin de que conozcas que a Yahvé la tierra.
 
 ### 9:30
 
-Y tú y tus siervos, he conocido que todavía no temen de faces de Jehová Dios.
+Y tú y tus siervos, he conocido que todavía no temen de faces de Yahvé Dios.
 
 ### 9:31
 
@@ -991,7 +991,7 @@ Y el trigo y la escanda no fueron heridos, porque tardías ellas.
 
 ### 9:33
 
-Y salió Moisés de con Faraón la ciudad, y extendió sus palmas a Jehová, y cesaron las voces y el granizo, y lluvia no se derramó a tierra.
+Y salió Moisés de con Faraón la ciudad, y extendió sus palmas a Yahvé, y cesaron las voces y el granizo, y lluvia no se derramó a tierra.
 
 ### 9:34
 
@@ -999,21 +999,21 @@ Y vio Faraón que cesó la lluvia y el granizo y las voces, y añadió a pecar, 
 
 ### 9:35
 
-Y se fortaleció el corazón de Faraón, y no envió a hijos de Israel, como que habló Jehová por mano de Moisés.
+Y se fortaleció el corazón de Faraón, y no envió a hijos de Israel, como que habló Yahvé por mano de Moisés.
 
 ## Capítulo 10
 
 ### 10:1
 
-Y dijo Jehová a Moisés: Entra a Faraón, porque yo he hecho pesado su corazón y el corazón de sus siervos, a fin de poner yo mis señales estas en medio de él,
+Y dijo Yahvé a Moisés: Entra a Faraón, porque yo he hecho pesado su corazón y el corazón de sus siervos, a fin de poner yo mis señales estas en medio de él,
 
 ### 10:2
 
-y a fin de que cuentes en oídos de tu hijo y de hijo de tu hijo lo que me burlé en Egipto, y mis señales que puse en ellos, y conocerán que yo Jehová.
+y a fin de que cuentes en oídos de tu hijo y de hijo de tu hijo lo que me burlé en Egipto, y mis señales que puse en ellos, y conocerán que yo Yahvé.
 
 ### 10:3
 
-Y vino Moisés y Aarón a Faraón, y dijeron a él: Así dijo Jehová Dios de los hebreos: ¿Hasta cuándo rehusaste humillarte de mis faces? Envía a mi pueblo, y me servirán.
+Y vino Moisés y Aarón a Faraón, y dijeron a él: Así dijo Yahvé Dios de los hebreos: ¿Hasta cuándo rehusaste humillarte de mis faces? Envía a mi pueblo, y me servirán.
 
 ### 10:4
 
@@ -1029,31 +1029,31 @@ Y se llenarán tus casas y casas de todos tus siervos y casas de todo Egipto, qu
 
 ### 10:7
 
-Y dijeron siervos de Faraón a él: ¿Hasta cuándo será este a nosotros a trampa? Envía a los varones, y servirán a Jehová su Dios. ¿Todavía no conoces que pereció Egipto?
+Y dijeron siervos de Faraón a él: ¿Hasta cuándo será este a nosotros a trampa? Envía a los varones, y servirán a Yahvé su Dios. ¿Todavía no conoces que pereció Egipto?
 
 ### 10:8
 
-Y fue hecho volver Moisés y Aarón a Faraón, y dijo a ellos: Vayan, sirvan a Jehová su Dios. ¿Quién y quién los andantes?
+Y fue hecho volver Moisés y Aarón a Faraón, y dijo a ellos: Vayan, sirvan a Yahvé su Dios. ¿Quién y quién los andantes?
 
 ### 10:9
 
-Y dijo Moisés: Con nuestros jóvenes y con nuestros ancianos iremos; con nuestros hijos y con nuestras hijas, con nuestro rebaño y con nuestro ganado iremos, porque fiesta de Jehová a nosotros.
+Y dijo Moisés: Con nuestros jóvenes y con nuestros ancianos iremos; con nuestros hijos y con nuestras hijas, con nuestro rebaño y con nuestro ganado iremos, porque fiesta de Yahvé a nosotros.
 
 ### 10:10
 
-Y dijo a ellos: Sea así Jehová con ustedes, como enviaré a ustedes y a su pequeño. Vean que mal delante de sus rostros.
+Y dijo a ellos: Sea así Yahvé con ustedes, como enviaré a ustedes y a su pequeño. Vean que mal delante de sus rostros.
 
 ### 10:11
 
-No así; vayan ahora los varones y sirvan a Jehová, porque ella ustedes buscan. Y los echó de con faces de Faraón.
+No así; vayan ahora los varones y sirvan a Yahvé, porque ella ustedes buscan. Y los echó de con faces de Faraón.
 
 ### 10:12
 
-Y dijo Jehová a Moisés: Extiende tu mano sobre tierra de Egipto en la langosta, y suba sobre tierra de Egipto, y coma toda hierba de la tierra, todo lo que dejó el granizo.
+Y dijo Yahvé a Moisés: Extiende tu mano sobre tierra de Egipto en la langosta, y suba sobre tierra de Egipto, y coma toda hierba de la tierra, todo lo que dejó el granizo.
 
 ### 10:13
 
-Y extendió Moisés su vara sobre tierra de Egipto, y Jehová condujo viento de oriente en la tierra todo el día aquel y toda la noche; la mañana fue, y el viento del oriente alzó la langosta.
+Y extendió Moisés su vara sobre tierra de Egipto, y Yahvé condujo viento de oriente en la tierra todo el día aquel y toda la noche; la mañana fue, y el viento del oriente alzó la langosta.
 
 ### 10:14
 
@@ -1065,27 +1065,27 @@ Y cubrió el ojo de toda la tierra, y se oscureció la tierra, y comió toda hie
 
 ### 10:16
 
-Y se apresuró Faraón a llamar a Moisés y a Aarón, y dijo: He pecado a Jehová su Dios y a ustedes.
+Y se apresuró Faraón a llamar a Moisés y a Aarón, y dijo: He pecado a Yahvé su Dios y a ustedes.
 
 ### 10:17
 
-Y ahora, alza, por favor, mi pecado solo esta vez, e intercedan a Jehová su Dios, y quite de sobre mí solo esta muerte.
+Y ahora, alza, por favor, mi pecado solo esta vez, e intercedan a Yahvé su Dios, y quite de sobre mí solo esta muerte.
 
 ### 10:18
 
-Y salió de con Faraón, e intercedió a Jehová.
+Y salió de con Faraón, e intercedió a Yahvé.
 
 ### 10:19
 
-Y volvió Jehová viento de mar fuerte mucho, y alzó la langosta, y la empujó hacia mar de junco; no quedó langosta una en todo límite de Egipto.
+Y volvió Yahvé viento de mar fuerte mucho, y alzó la langosta, y la empujó hacia mar de junco; no quedó langosta una en todo límite de Egipto.
 
 ### 10:20
 
-Y fortaleció Jehová el corazón de Faraón, y no envió a hijos de Israel.
+Y fortaleció Yahvé el corazón de Faraón, y no envió a hijos de Israel.
 
 ### 10:21
 
-Y dijo Jehová a Moisés: Extiende tu mano sobre los cielos, y sea oscuridad sobre tierra de Egipto, y palpe oscuridad.
+Y dijo Yahvé a Moisés: Extiende tu mano sobre los cielos, y sea oscuridad sobre tierra de Egipto, y palpe oscuridad.
 
 ### 10:22
 
@@ -1097,19 +1097,19 @@ No vieron varón a su hermano, y no se levantaron varón de debajo de él tres d
 
 ### 10:24
 
-Y llamó Faraón a Moisés, y dijo: Vayan, sirvan a Jehová; solo su rebaño y su ganado será detenido; también su pequeño irá con ustedes.
+Y llamó Faraón a Moisés, y dijo: Vayan, sirvan a Yahvé; solo su rebaño y su ganado será detenido; también su pequeño irá con ustedes.
 
 ### 10:25
 
-Y dijo Moisés: También tú darás en nuestra mano sacrificios y holocaustos, y haremos a Jehová nuestro Dios.
+Y dijo Moisés: También tú darás en nuestra mano sacrificios y holocaustos, y haremos a Yahvé nuestro Dios.
 
 ### 10:26
 
-Y también nuestro ganado irá con nosotros; no quedará pezuña, porque de nosotros tomaremos para servir a Jehová nuestro Dios, y nosotros no conocemos qué serviremos a Jehová hasta nuestro venir allá.
+Y también nuestro ganado irá con nosotros; no quedará pezuña, porque de nosotros tomaremos para servir a Yahvé nuestro Dios, y nosotros no conocemos qué serviremos a Yahvé hasta nuestro venir allá.
 
 ### 10:27
 
-Y fortaleció Jehová el corazón de Faraón, y no quiso enviarlos.
+Y fortaleció Yahvé el corazón de Faraón, y no quiso enviarlos.
 
 ### 10:28
 
@@ -1123,7 +1123,7 @@ Y dijo Moisés: Así hablaste; no añadiré todavía ver tus faces.
 
 ### 11:1
 
-Y dijo Jehová a Moisés: Todavía golpe uno traeré sobre Faraón y sobre Egipto; después de así enviará a ustedes desde esto; como su enviar, acabamiento echará echará a ustedes desde esto.
+Y dijo Yahvé a Moisés: Todavía golpe uno traeré sobre Faraón y sobre Egipto; después de así enviará a ustedes desde esto; como su enviar, acabamiento echará echará a ustedes desde esto.
 
 ### 11:2
 
@@ -1131,11 +1131,11 @@ Habla ahora en oídos del pueblo, y pidan varón de con su prójimo y mujer de c
 
 ### 11:3
 
-Y dio Jehová favor del pueblo en ojos de Egipto; también el varón Moisés grande mucho en tierra de Egipto, en ojos de siervos de Faraón y en ojos del pueblo.
+Y dio Yahvé favor del pueblo en ojos de Egipto; también el varón Moisés grande mucho en tierra de Egipto, en ojos de siervos de Faraón y en ojos del pueblo.
 
 ### 11:4
 
-Y dijo Moisés: Así dijo Jehová: Como media noche yo saliente en medio de Egipto.
+Y dijo Moisés: Así dijo Yahvé: Como media noche yo saliente en medio de Egipto.
 
 ### 11:5
 
@@ -1147,7 +1147,7 @@ Y será clamor grande en toda tierra de Egipto, que como él no fue, y como él 
 
 ### 11:7
 
-Y a todos hijos de Israel no afilará perro su lengua, desde varón y hasta ganado, a fin de que conozcan que distinguirá Jehová entre Egipto y entre Israel.
+Y a todos hijos de Israel no afilará perro su lengua, desde varón y hasta ganado, a fin de que conozcan que distinguirá Yahvé entre Egipto y entre Israel.
 
 ### 11:8
 
@@ -1155,17 +1155,17 @@ Y descenderán todos tus siervos estos a mí y se postrarán a mí, diciendo: Sa
 
 ### 11:9
 
-Y dijo Jehová a Moisés: No oirá a ustedes Faraón, a fin de que se multipliquen mis prodigios en tierra de Egipto.
+Y dijo Yahvé a Moisés: No oirá a ustedes Faraón, a fin de que se multipliquen mis prodigios en tierra de Egipto.
 
 ### 11:10
 
-Y Moisés y Aarón hicieron todos estos prodigios delante de Faraón, y fortaleció Jehová el corazón de Faraón, y no envió a hijos de Israel desde su tierra.
+Y Moisés y Aarón hicieron todos estos prodigios delante de Faraón, y fortaleció Yahvé el corazón de Faraón, y no envió a hijos de Israel desde su tierra.
 
 ## Capítulo 12
 
 ### 12:1
 
-Y dijo Jehová a Moisés y a Aarón en tierra de Egipto, diciendo:
+Y dijo Yahvé a Moisés y a Aarón en tierra de Egipto, diciendo:
 
 ### 12:2
 
@@ -1205,11 +1205,11 @@ Y no dejarán de él hasta mañana, y el restante de él hasta mañana en el fue
 
 ### 12:11
 
-Y así lo comerán: sus lomos ceñidos, sus sandalias en sus pies y su bastón en su mano, y lo comerán en prisa; pascua él a Jehová.
+Y así lo comerán: sus lomos ceñidos, sus sandalias en sus pies y su bastón en su mano, y lo comerán en prisa; pascua él a Yahvé.
 
 ### 12:12
 
-Y pasaré en tierra de Egipto en esta noche, e heriré todo primogénito en tierra de Egipto, desde hombre y hasta ganado, y en todos dioses de Egipto haré juicios; yo Jehová.
+Y pasaré en tierra de Egipto en esta noche, e heriré todo primogénito en tierra de Egipto, desde hombre y hasta ganado, y en todos dioses de Egipto haré juicios; yo Yahvé.
 
 ### 12:13
 
@@ -1217,7 +1217,7 @@ Y será la sangre a ustedes a señal sobre las casas que ustedes allí, y veré 
 
 ### 12:14
 
-Y será este día a ustedes a memorial, y lo celebrarán fiesta a Jehová; a sus generaciones estatuto de siempre lo celebrarán.
+Y será este día a ustedes a memorial, y lo celebrarán fiesta a Yahvé; a sus generaciones estatuto de siempre lo celebrarán.
 
 ### 12:15
 
@@ -1253,7 +1253,7 @@ Y tomarán manojo de hisopo y mojarán en la sangre que en la palangana, y hará
 
 ### 12:23
 
-Y pasará Jehová a herir a Egipto, y verá la sangre sobre el dintel y sobre las dos jambas, y pasará Jehová sobre la puerta, y no dará al destructor a entrar a sus casas a herir.
+Y pasará Yahvé a herir a Egipto, y verá la sangre sobre el dintel y sobre las dos jambas, y pasará Yahvé sobre la puerta, y no dará al destructor a entrar a sus casas a herir.
 
 ### 12:24
 
@@ -1261,7 +1261,7 @@ Y guardarán este asunto a estatuto a ti y a tus hijos hasta siempre.
 
 ### 12:25
 
-Y será que vengan a la tierra que dará Jehová a ustedes como habló, y guardarán este servicio.
+Y será que vengan a la tierra que dará Yahvé a ustedes como habló, y guardarán este servicio.
 
 ### 12:26
 
@@ -1269,15 +1269,15 @@ Y será que digan a ustedes sus hijos: ¿Qué este servicio a ustedes?
 
 ### 12:27
 
-Y dirán: Sacrificio de pascua él a Jehová, que pasó sobre casas de hijos de Israel en Egipto, en su herir a Egipto, y a nuestras casas libró. Y se inclinó el pueblo y se postraron.
+Y dirán: Sacrificio de pascua él a Yahvé, que pasó sobre casas de hijos de Israel en Egipto, en su herir a Egipto, y a nuestras casas libró. Y se inclinó el pueblo y se postraron.
 
 ### 12:28
 
-Y fueron e hicieron hijos de Israel; como que mandó Jehová a Moisés y Aarón, así hicieron.
+Y fueron e hicieron hijos de Israel; como que mandó Yahvé a Moisés y Aarón, así hicieron.
 
 ### 12:29
 
-Y fue en media de la noche, y Jehová hirió todo primogénito en tierra de Egipto, desde primogénito de Faraón el sentado sobre su trono hasta primogénito del cautivo que en casa del pozo, y todo primogénito de ganado.
+Y fue en media de la noche, y Yahvé hirió todo primogénito en tierra de Egipto, desde primogénito de Faraón el sentado sobre su trono hasta primogénito del cautivo que en casa del pozo, y todo primogénito de ganado.
 
 ### 12:30
 
@@ -1285,7 +1285,7 @@ Y se levantó Faraón de noche, él y todos sus siervos y todo Egipto, y fue cla
 
 ### 12:31
 
-Y llamó a Moisés y a Aarón de noche, y dijo: Levántense, salgan de medio de mi pueblo, también ustedes, también hijos de Israel, y vayan, sirvan a Jehová como el hablar de ustedes.
+Y llamó a Moisés y a Aarón de noche, y dijo: Levántense, salgan de medio de mi pueblo, también ustedes, también hijos de Israel, y vayan, sirvan a Yahvé como el hablar de ustedes.
 
 ### 12:32
 
@@ -1305,7 +1305,7 @@ Y hijos de Israel hicieron conforme a la palabra de Moisés, y pidieron de Egipt
 
 ### 12:36
 
-Y Jehová dio favor del pueblo en ojos de Egipto, y les prestaron, y despojaron a Egipto.
+Y Yahvé dio favor del pueblo en ojos de Egipto, y les prestaron, y despojaron a Egipto.
 
 ### 12:37
 
@@ -1325,15 +1325,15 @@ Y morada de hijos de Israel que habitaron en Egipto treinta año y cuatrocientos
 
 ### 12:41
 
-Y fue al cabo de treinta año y cuatrocientos año, y fue en hueso de este día salieron todos los ejércitos de Jehová desde tierra de Egipto.
+Y fue al cabo de treinta año y cuatrocientos año, y fue en hueso de este día salieron todos los ejércitos de Yahvé desde tierra de Egipto.
 
 ### 12:42
 
-Noche de guardias ella a Jehová, para sacarlos desde tierra de Egipto; ella esta noche a Jehová, guardias a todos hijos de Israel a sus generaciones.
+Noche de guardias ella a Yahvé, para sacarlos desde tierra de Egipto; ella esta noche a Yahvé, guardias a todos hijos de Israel a sus generaciones.
 
 ### 12:43
 
-Y dijo Jehová a Moisés y Aarón: Este estatuto de la pascua: todo hijo de extranjería no comerá en él.
+Y dijo Yahvé a Moisés y Aarón: Este estatuto de la pascua: todo hijo de extranjería no comerá en él.
 
 ### 12:44
 
@@ -1353,7 +1353,7 @@ Toda la congregación de Israel lo harán.
 
 ### 12:48
 
-Y cuando peregrine contigo peregrino y haga pascua a Jehová, circuncídese a él todo macho, y entonces se acerque a hacerlo, y será como natural de la tierra; y todo incircunciso no comerá en él.
+Y cuando peregrine contigo peregrino y haga pascua a Yahvé, circuncídese a él todo macho, y entonces se acerque a hacerlo, y será como natural de la tierra; y todo incircunciso no comerá en él.
 
 ### 12:49
 
@@ -1361,17 +1361,17 @@ Una ley será al natural y al peregrino el peregrinante en medio de ustedes.
 
 ### 12:50
 
-Y hicieron todos los hijos de Israel; como mandó Jehová a Moisés y a Aarón, así hicieron.
+Y hicieron todos los hijos de Israel; como mandó Yahvé a Moisés y a Aarón, así hicieron.
 
 ### 12:51
 
-Y fue en hueso de este día sacó Jehová a hijos de Israel desde tierra de Egipto sobre sus ejércitos.
+Y fue en hueso de este día sacó Yahvé a hijos de Israel desde tierra de Egipto sobre sus ejércitos.
 
 ## Capítulo 13
 
 ### 13:1
 
-Y habló Jehová a Moisés, diciendo:
+Y habló Yahvé a Moisés, diciendo:
 
 ### 13:2
 
@@ -1379,7 +1379,7 @@ Santifica a mí todo primogénito, abertura de todo vientre en hijos de Israel, 
 
 ### 13:3
 
-Y dijo Moisés al pueblo: Recuerda este día que salieron ustedes desde Egipto, desde casa de siervos, porque con fuerza de mano sacó Jehová a ustedes desde esto, y no se comerá leudado.
+Y dijo Moisés al pueblo: Recuerda este día que salieron ustedes desde Egipto, desde casa de siervos, porque con fuerza de mano sacó Yahvé a ustedes desde esto, y no se comerá leudado.
 
 ### 13:4
 
@@ -1387,11 +1387,11 @@ Hoy ustedes salientes en mes del Aviv.
 
 ### 13:5
 
-Y será que te traiga Jehová a tierra del cananeo y el hitita y el amorreo y el heveo y el jebuseo, que juró a tus padres a dar a ti, tierra manante leche y miel, y servirás este servicio en este mes.
+Y será que te traiga Yahvé a tierra del cananeo y el hitita y el amorreo y el heveo y el jebuseo, que juró a tus padres a dar a ti, tierra manante leche y miel, y servirás este servicio en este mes.
 
 ### 13:6
 
-Siete días comerás panes ázimos, y en el día séptimo fiesta a Jehová.
+Siete días comerás panes ázimos, y en el día séptimo fiesta a Yahvé.
 
 ### 13:7
 
@@ -1399,11 +1399,11 @@ Panes ázimos se comerán los siete días, y no se verá a ti leudado, y no se v
 
 ### 13:8
 
-Y declararás a tu hijo en el día aquel, diciendo: Por causa de esto hizo Jehová a mí en mi salir desde Egipto.
+Y declararás a tu hijo en el día aquel, diciendo: Por causa de esto hizo Yahvé a mí en mi salir desde Egipto.
 
 ### 13:9
 
-Y será a ti a señal sobre tu mano y a memorial entre tus ojos, a fin de que sea ley de Jehová en tu boca, porque con mano fuerte te sacó Jehová desde Egipto.
+Y será a ti a señal sobre tu mano y a memorial entre tus ojos, a fin de que sea ley de Yahvé en tu boca, porque con mano fuerte te sacó Yahvé desde Egipto.
 
 ### 13:10
 
@@ -1411,11 +1411,11 @@ Y guardarás este estatuto a su plazo, de días a días.
 
 ### 13:11
 
-Y será que te traerá Jehová a tierra del cananeo, como juró a ti y a tus padres, y te la dará,
+Y será que te traerá Yahvé a tierra del cananeo, como juró a ti y a tus padres, y te la dará,
 
 ### 13:12
 
-y harás pasar todo primer nacido de vientre a Jehová, y todo primer nacido de cría de ganado que sea a ti, los machos, a Jehová.
+y harás pasar todo primer nacido de vientre a Yahvé, y todo primer nacido de cría de ganado que sea a ti, los machos, a Yahvé.
 
 ### 13:13
 
@@ -1423,15 +1423,15 @@ Y todo primer nacido de asno redimirás con res del rebaño, y si no redimirás,
 
 ### 13:14
 
-Y será que tu hijo te preguntará mañana, diciendo: ¿Qué *es* esto? Y le dirás: Con fuerza de mano nos sacó Jehová desde Egipto, desde casa de siervos.
+Y será que tu hijo te preguntará mañana, diciendo: ¿Qué *es* esto? Y le dirás: Con fuerza de mano nos sacó Yahvé desde Egipto, desde casa de siervos.
 
 ### 13:15
 
-Y fue que endureció Faraón de enviarnos, y mató Jehová todo primogénito en tierra de Egipto, desde primogénito de hombre y hasta primogénito de ganado; por eso yo sacrificante a Jehová toda abertura de vientre los machos, y todo primogénito de mis hijos redimiré.
+Y fue que endureció Faraón de enviarnos, y mató Yahvé todo primogénito en tierra de Egipto, desde primogénito de hombre y hasta primogénito de ganado; por eso yo sacrificante a Yahvé toda abertura de vientre los machos, y todo primogénito de mis hijos redimiré.
 
 ### 13:16
 
-Y será a señal sobre tu mano y a frontales entre tus ojos, porque con fuerza de mano nos sacó Jehová desde Egipto.
+Y será a señal sobre tu mano y a frontales entre tus ojos, porque con fuerza de mano nos sacó Yahvé desde Egipto.
 
 ### 13:17
 
@@ -1451,7 +1451,7 @@ Y partieron desde Sucot y acamparon en Etam, en extremo del desierto.
 
 ### 13:21
 
-Y Jehová andante delante de ellos de día en columna de nube para guiarlos el camino, y de noche en columna de fuego para alumbrar a ellos, para andar día y noche.
+Y Yahvé andante delante de ellos de día en columna de nube para guiarlos el camino, y de noche en columna de fuego para alumbrar a ellos, para andar día y noche.
 
 ### 13:22
 
@@ -1461,7 +1461,7 @@ No se apartará columna de la nube de día y columna del fuego de noche delante 
 
 ### 14:1
 
-Y habló Jehová a Moisés, diciendo:
+Y habló Yahvé a Moisés, diciendo:
 
 ### 14:2
 
@@ -1473,7 +1473,7 @@ Y dirá Faraón a hijos de Israel: Confundidos ellos en la tierra; cerró sobre 
 
 ### 14:4
 
-Y fortaleceré el corazón de Faraón, y perseguirá detrás de ellos, y me glorificaré en Faraón y en todo su ejército, y conocerán Egipto que yo Jehová. Y hicieron así.
+Y fortaleceré el corazón de Faraón, y perseguirá detrás de ellos, y me glorificaré en Faraón y en todo su ejército, y conocerán Egipto que yo Yahvé. Y hicieron así.
 
 ### 14:5
 
@@ -1489,7 +1489,7 @@ Y tomó seiscientos carro escogido y todo carro de Egipto, y terceros sobre todo
 
 ### 14:8
 
-Y fortaleció Jehová el corazón de Faraón rey de Egipto, y persiguió detrás de hijos de Israel, e hijos de Israel salientes con mano alta.
+Y fortaleció Yahvé el corazón de Faraón rey de Egipto, y persiguió detrás de hijos de Israel, e hijos de Israel salientes con mano alta.
 
 ### 14:9
 
@@ -1497,7 +1497,7 @@ Y persiguió Egipto detrás de ellos, y los alcanzaron acampados sobre el mar, t
 
 ### 14:10
 
-Y Faraón se acercó, y alzaron hijos de Israel sus ojos, y he aquí Egipto viajante detrás de ellos, y temieron mucho, y clamaron hijos de Israel a Jehová.
+Y Faraón se acercó, y alzaron hijos de Israel sus ojos, y he aquí Egipto viajante detrás de ellos, y temieron mucho, y clamaron hijos de Israel a Yahvé.
 
 ### 14:11
 
@@ -1509,15 +1509,15 @@ Y dijeron a Moisés: ¿Por falta de no haber sepulcros en Egipto nos tomaste a m
 
 ### 14:13
 
-Y dijo Moisés al pueblo: No teman; párense y vean la salvación de Jehová que hará a ustedes hoy, porque a Egipto que vieron ustedes hoy, no añadirán verlos todavía hasta siempre.
+Y dijo Moisés al pueblo: No teman; párense y vean la salvación de Yahvé que hará a ustedes hoy, porque a Egipto que vieron ustedes hoy, no añadirán verlos todavía hasta siempre.
 
 ### 14:14
 
-Jehová peleará a ustedes, y ustedes callarán.
+Yahvé peleará a ustedes, y ustedes callarán.
 
 ### 14:15
 
-Y dijo Jehová a Moisés: ¿Qué clamas a mí? Habla a hijos de Israel, y partan.
+Y dijo Yahvé a Moisés: ¿Qué clamas a mí? Habla a hijos de Israel, y partan.
 
 ### 14:16
 
@@ -1529,7 +1529,7 @@ Y yo, he aquí yo fortaleciendo el corazón de Egipto, y entrarán detrás de el
 
 ### 14:18
 
-Y conocerá Egipto que yo Jehová, en mi glorificarme en Faraón, en su carro y en sus jinetes.
+Y conocerá Egipto que yo Yahvé, en mi glorificarme en Faraón, en su carro y en sus jinetes.
 
 ### 14:19
 
@@ -1541,7 +1541,7 @@ Y vino entre campamento de Egipto y entre campamento de Israel, y fue la nube y 
 
 ### 14:21
 
-Y extendió Moisés su mano sobre el mar, e hizo ir Jehová al mar con viento de oriente fuerte toda la noche, y puso al mar a sequedad, y se rajaron las aguas.
+Y extendió Moisés su mano sobre el mar, e hizo ir Yahvé al mar con viento de oriente fuerte toda la noche, y puso al mar a sequedad, y se rajaron las aguas.
 
 ### 14:22
 
@@ -1553,19 +1553,19 @@ Y persiguieron Egipto, y entraron detrás de ellos todo caballo de Faraón, su c
 
 ### 14:24
 
-Y fue en vigilia de la mañana, y miró Jehová hacia el campamento de Egipto en columna de fuego y nube, y turbó el campamento de Egipto.
+Y fue en vigilia de la mañana, y miró Yahvé hacia el campamento de Egipto en columna de fuego y nube, y turbó el campamento de Egipto.
 
 ### 14:25
 
-Y quitó rueda de sus carros, y los conducía en pesadez, y dijo Egipto: Huyamos de faces de Israel, porque Jehová pelea a ellos en Egipto.
+Y quitó rueda de sus carros, y los conducía en pesadez, y dijo Egipto: Huyamos de faces de Israel, porque Yahvé pelea a ellos en Egipto.
 
 ### 14:26
 
-Y dijo Jehová a Moisés: Extiende tu mano sobre el mar, y vuelvan las aguas sobre Egipto, sobre su carro y sobre sus jinetes.
+Y dijo Yahvé a Moisés: Extiende tu mano sobre el mar, y vuelvan las aguas sobre Egipto, sobre su carro y sobre sus jinetes.
 
 ### 14:27
 
-Y extendió Moisés su mano sobre el mar, y volvió el mar al volver de mañana a su corriente, y Egipto huyentes a su encuentro, y sacudió Jehová a Egipto en medio del mar.
+Y extendió Moisés su mano sobre el mar, y volvió el mar al volver de mañana a su corriente, y Egipto huyentes a su encuentro, y sacudió Yahvé a Egipto en medio del mar.
 
 ### 14:28
 
@@ -1577,17 +1577,17 @@ E hijos de Israel anduvieron en la seca en medio del mar, y las aguas a ellos mu
 
 ### 14:30
 
-Y salvó Jehová en el día aquel a Israel de mano de Egipto, y vio Israel a Egipto muerto sobre labio del mar.
+Y salvó Yahvé en el día aquel a Israel de mano de Egipto, y vio Israel a Egipto muerto sobre labio del mar.
 
 ### 14:31
 
-Y vio Israel la mano grande que hizo Jehová en Egipto, y temieron el pueblo a Jehová, y creyeron en Jehová y en Moisés su siervo.
+Y vio Israel la mano grande que hizo Yahvé en Egipto, y temieron el pueblo a Yahvé, y creyeron en Yahvé y en Moisés su siervo.
 
 ## Capítulo 15
 
 ### 15:1
 
-Entonces cantó Moisés e hijos de Israel este cántico a Jehová, y dijeron, diciendo: Cantaré a Jehová, porque exaltando se exaltó; caballo y su jinete arrojó en el mar.
+Entonces cantó Moisés e hijos de Israel este cántico a Yahvé, y dijeron, diciendo: Cantaré a Yahvé, porque exaltando se exaltó; caballo y su jinete arrojó en el mar.
 
 ### 15:2
 
@@ -1595,7 +1595,7 @@ Mi fuerza y canción Yah, y fue a mí a salvación; este mi Dios, y lo embellece
 
 ### 15:3
 
-Jehová varón de guerra; Jehová su nombre.
+Yahvé varón de guerra; Yahvé su nombre.
 
 ### 15:4
 
@@ -1607,7 +1607,7 @@ Abismos los cubren; descendieron en honduras como piedra.
 
 ### 15:6
 
-Tu derecha, Jehová, gloriosa en la fuerza; tu derecha, Jehová, quebrará a enemigo.
+Tu derecha, Yahvé, gloriosa en la fuerza; tu derecha, Yahvé, quebrará a enemigo.
 
 ### 15:7
 
@@ -1627,7 +1627,7 @@ Soplaste con tu viento, los cubrió mar; se hundieron como plomo en aguas podero
 
 ### 15:11
 
-¿Quién como tú entre los dioses, Jehová? ¿Quién como tú, glorioso en santidad, temible en alabanzas, hacedor de maravilla?
+¿Quién como tú entre los dioses, Yahvé? ¿Quién como tú, glorioso en santidad, temible en alabanzas, hacedor de maravilla?
 
 ### 15:12
 
@@ -1647,19 +1647,19 @@ Entonces se turbaron jefes de Edom; fuertes de Moav los agarra temblor; se derri
 
 ### 15:16
 
-Caiga sobre ellos terror y pavor; con grandeza de tu brazo enmudezcan como piedra, hasta que pase tu pueblo, Jehová, hasta que pase pueblo este que adquiriste.
+Caiga sobre ellos terror y pavor; con grandeza de tu brazo enmudezcan como piedra, hasta que pase tu pueblo, Yahvé, hasta que pase pueblo este que adquiriste.
 
 ### 15:17
 
-Los traerás y los plantarás en monte de tu heredad, lugar a tu sentarte que obraste, Jehová; santuario, Adonai, fundaron tus manos.
+Los traerás y los plantarás en monte de tu heredad, lugar a tu sentarte que obraste, Yahvé; santuario, Adonai, fundaron tus manos.
 
 ### 15:18
 
-Jehová reinará por siempre y eternidad.
+Yahvé reinará por siempre y eternidad.
 
 ### 15:19
 
-Porque entró caballo de Faraón en su carro y en sus jinetes en el mar, y volvió Jehová sobre ellos las aguas del mar, e hijos de Israel anduvieron en la seca en medio del mar.
+Porque entró caballo de Faraón en su carro y en sus jinetes en el mar, y volvió Yahvé sobre ellos las aguas del mar, e hijos de Israel anduvieron en la seca en medio del mar.
 
 ### 15:20
 
@@ -1667,7 +1667,7 @@ Y tomó Miryam la profetisa, hermana de Aarón, el pandero en su mano, y saliero
 
 ### 15:21
 
-Y respondió a ellos Miryam: Canten a Jehová, porque exaltando se exaltó; caballo y su jinete arrojó en el mar.
+Y respondió a ellos Miryam: Canten a Yahvé, porque exaltando se exaltó; caballo y su jinete arrojó en el mar.
 
 ### 15:22
 
@@ -1683,11 +1683,11 @@ Y murmuró el pueblo sobre Moisés, diciendo: ¿Qué beberemos?
 
 ### 15:25
 
-Y clamó a Jehová, y le mostró Jehová un árbol, y lo arrojó a las aguas, y se endulzaron las aguas. Allí puso a él estatuto y juicio, y allí lo probó.
+Y clamó a Yahvé, y le mostró Yahvé un árbol, y lo arrojó a las aguas, y se endulzaron las aguas. Allí puso a él estatuto y juicio, y allí lo probó.
 
 ### 15:26
 
-Y dijo: Si oyendo oyes a voz de Jehová tu Dios, y lo recto en sus ojos haces, y das oído a sus mandamientos, y guardas todos sus estatutos, toda la enfermedad que puse en Egipto no pondré sobre ti, porque yo Jehová tu sanador.
+Y dijo: Si oyendo oyes a voz de Yahvé tu Dios, y lo recto en sus ojos haces, y das oído a sus mandamientos, y guardas todos sus estatutos, toda la enfermedad que puse en Egipto no pondré sobre ti, porque yo Yahvé tu sanador.
 
 ### 15:27
 
@@ -1705,11 +1705,11 @@ Toda congregación de hijos de Israel sobre Moisés y sobre Aarón en el desiert
 
 ### 16:3
 
-Y dijeron a ellos hijos de Israel: ¡Quién diera muerte nuestra en mano de Jehová en tierra de Egipto, en nuestro sentarnos sobre olla de la carne, en nuestro comer pan a saciedad! Porque ustedes nos sacaron a este desierto para matar a toda esta asamblea con el hambre.
+Y dijeron a ellos hijos de Israel: ¡Quién diera muerte nuestra en mano de Yahvé en tierra de Egipto, en nuestro sentarnos sobre olla de la carne, en nuestro comer pan a saciedad! Porque ustedes nos sacaron a este desierto para matar a toda esta asamblea con el hambre.
 
 ### 16:4
 
-Y dijo Jehová a Moisés: He aquí yo haciendo llover a ustedes pan desde los cielos, y saldrá el pueblo y recogerán cosa de día en su día, a fin de que lo pruebe si andará en mi ley o no.
+Y dijo Yahvé a Moisés: He aquí yo haciendo llover a ustedes pan desde los cielos, y saldrá el pueblo y recogerán cosa de día en su día, a fin de que lo pruebe si andará en mi ley o no.
 
 ### 16:5
 
@@ -1717,31 +1717,31 @@ Y será en el día el sexto, y prepararán lo que traerán, y será doble sobre 
 
 ### 16:6
 
-Y dijo Moisés y Aarón a todos hijos de Israel: Tarde, y sabrán que Jehová sacó a ustedes desde tierra de Egipto.
+Y dijo Moisés y Aarón a todos hijos de Israel: Tarde, y sabrán que Yahvé sacó a ustedes desde tierra de Egipto.
 
 ### 16:7
 
-Y mañana, y verán gloria de Jehová, en su oír las murmuraciones de ustedes sobre Jehová; y nosotros, ¿qué, que murmuran ustedes sobre nosotros?
+Y mañana, y verán gloria de Yahvé, en su oír las murmuraciones de ustedes sobre Yahvé; y nosotros, ¿qué, que murmuran ustedes sobre nosotros?
 
 ### 16:8
 
-Y dijo Moisés: En dar Jehová a ustedes en la tarde carne para comer, y pan en la mañana a saciarse, en oír Jehová las murmuraciones de ustedes que ustedes murmurantes sobre él; y nosotros, ¿qué? No sobre nosotros murmuraciones de ustedes, porque sobre Jehová.
+Y dijo Moisés: En dar Yahvé a ustedes en la tarde carne para comer, y pan en la mañana a saciarse, en oír Yahvé las murmuraciones de ustedes que ustedes murmurantes sobre él; y nosotros, ¿qué? No sobre nosotros murmuraciones de ustedes, porque sobre Yahvé.
 
 ### 16:9
 
-Y dijo Moisés a Aarón: Di a toda congregación de hijos de Israel: Acérquense delante de Jehová, porque ha oído las murmuraciones de ustedes.
+Y dijo Moisés a Aarón: Di a toda congregación de hijos de Israel: Acérquense delante de Yahvé, porque ha oído las murmuraciones de ustedes.
 
 ### 16:10
 
-Y fue como hablar Aarón a toda congregación de hijos de Israel, y se volvieron al desierto, y he aquí gloria de Jehová se apareció en la nube.
+Y fue como hablar Aarón a toda congregación de hijos de Israel, y se volvieron al desierto, y he aquí gloria de Yahvé se apareció en la nube.
 
 ### 16:11
 
-Y habló Jehová a Moisés, diciendo:
+Y habló Yahvé a Moisés, diciendo:
 
 ### 16:12
 
-He oído las murmuraciones de hijos de Israel; habla a ellos, diciendo: Entre las dos tardes comerán carne, y en la mañana se saciarán de pan, y sabrán que yo Jehová Dios de ustedes.
+He oído las murmuraciones de hijos de Israel; habla a ellos, diciendo: Entre las dos tardes comerán carne, y en la mañana se saciarán de pan, y sabrán que yo Yahvé Dios de ustedes.
 
 ### 16:13
 
@@ -1753,11 +1753,11 @@ Y subió tendido del rocío, y he aquí sobre faz del desierto fino escamado, fi
 
 ### 16:15
 
-Y vieron hijos de Israel, y dijeron varón a su hermano: ¿Man hu? Porque no conocieron qué él. Y dijo Moisés a ellos: Él el pan que dio Jehová a ustedes para comida.
+Y vieron hijos de Israel, y dijeron varón a su hermano: ¿Man hu? Porque no conocieron qué él. Y dijo Moisés a ellos: Él el pan que dio Yahvé a ustedes para comida.
 
 ### 16:16
 
-Esta la palabra que mandó Jehová: Recojan de él varón según boca de su comer; ómer a la cabeza, número de almas de ustedes, varón para el que en su tienda tomarán.
+Esta la palabra que mandó Yahvé: Recojan de él varón según boca de su comer; ómer a la cabeza, número de almas de ustedes, varón para el que en su tienda tomarán.
 
 ### 16:17
 
@@ -1785,7 +1785,7 @@ Y fue en el día el sexto, recogieron pan doble, dos del ómer al uno; y viniero
 
 ### 16:23
 
-Y dijo a ellos: Él lo que habló Jehová: Shabatón, shabat de santidad a Jehová mañana; lo que hornearán, horneen, y lo que cocerán, cuezan, y todo el sobrante depongan a ustedes a guarda hasta la mañana.
+Y dijo a ellos: Él lo que habló Yahvé: Shabatón, shabat de santidad a Yahvé mañana; lo que hornearán, horneen, y lo que cocerán, cuezan, y todo el sobrante depongan a ustedes a guarda hasta la mañana.
 
 ### 16:24
 
@@ -1793,7 +1793,7 @@ Y lo depusieron hasta la mañana conforme a lo que mandó Moisés, y no hedió, 
 
 ### 16:25
 
-Y dijo Moisés: Cómanlo hoy, porque sábado hoy a Jehová; hoy no lo hallarán en el campo.
+Y dijo Moisés: Cómanlo hoy, porque sábado hoy a Yahvé; hoy no lo hallarán en el campo.
 
 ### 16:26
 
@@ -1805,11 +1805,11 @@ Y fue en el día el séptimo, salieron de entre el pueblo a recoger, y no hallar
 
 ### 16:28
 
-Y dijo Jehová a Moisés: ¿Hasta cuándo ustedes se niegan a guardar mis mandamientos y mis leyes?
+Y dijo Yahvé a Moisés: ¿Hasta cuándo ustedes se niegan a guardar mis mandamientos y mis leyes?
 
 ### 16:29
 
-Vean que Jehová dio a ustedes el sábado; por eso él dando a ustedes en el día el sexto pan de dos días; siéntense varón debajo de sí, no salga varón desde su lugar en el día el séptimo.
+Vean que Yahvé dio a ustedes el sábado; por eso él dando a ustedes en el día el sexto pan de dos días; siéntense varón debajo de sí, no salga varón desde su lugar en el día el séptimo.
 
 ### 16:30
 
@@ -1821,15 +1821,15 @@ Y llamó casa de Israel su nombre man; y él como semilla de cilantro, blanco, y
 
 ### 16:32
 
-Y dijo Moisés: Esta la palabra que mandó Jehová: Lleno del ómer de él a guarda a generaciones de ustedes, a fin de que vean el pan que hice comer a ustedes en el desierto en mi sacar a ustedes desde tierra de Egipto.
+Y dijo Moisés: Esta la palabra que mandó Yahvé: Lleno del ómer de él a guarda a generaciones de ustedes, a fin de que vean el pan que hice comer a ustedes en el desierto en mi sacar a ustedes desde tierra de Egipto.
 
 ### 16:33
 
-Y dijo Moisés a Aarón: Toma una jarra, y da allí lleno del ómer man, y depónlo delante de Jehová a guarda a generaciones de ustedes.
+Y dijo Moisés a Aarón: Toma una jarra, y da allí lleno del ómer man, y depónlo delante de Yahvé a guarda a generaciones de ustedes.
 
 ### 16:34
 
-Conforme a lo que mandó Jehová a Moisés, así lo depuso Aarón delante del testimonio a guarda.
+Conforme a lo que mandó Yahvé a Moisés, así lo depuso Aarón delante del testimonio a guarda.
 
 ### 16:35
 
@@ -1843,11 +1843,11 @@ Y el ómer, décima del efa él.
 
 ### 17:1
 
-Y partieron toda congregación de hijos de Israel desde desierto de Sin a sus partidas sobre boca de Jehová, y acamparon en Refidim, y no había aguas para beber el pueblo.
+Y partieron toda congregación de hijos de Israel desde desierto de Sin a sus partidas sobre boca de Yahvé, y acamparon en Refidim, y no había aguas para beber el pueblo.
 
 ### 17:2
 
-Y contendió el pueblo con Moisés, y dijeron: Den a nosotros aguas, y beberemos. Y dijo a ellos Moisés: ¿Qué contienden conmigo? ¿Qué prueban a Jehová?
+Y contendió el pueblo con Moisés, y dijeron: Den a nosotros aguas, y beberemos. Y dijo a ellos Moisés: ¿Qué contienden conmigo? ¿Qué prueban a Yahvé?
 
 ### 17:3
 
@@ -1855,11 +1855,11 @@ Y tuvo sed allí el pueblo por las aguas, y murmuró el pueblo sobre Moisés, y 
 
 ### 17:4
 
-Y clamó Moisés a Jehová, diciendo: ¿Qué haré a este pueblo? Todavía poco, y me apedrearán.
+Y clamó Moisés a Yahvé, diciendo: ¿Qué haré a este pueblo? Todavía poco, y me apedrearán.
 
 ### 17:5
 
-Y dijo Jehová a Moisés: Pasa delante del pueblo, y toma contigo de ancianos de Israel, y tu vara con que heriste en ella al Yeor, toma en tu mano, y anda.
+Y dijo Yahvé a Moisés: Pasa delante del pueblo, y toma contigo de ancianos de Israel, y tu vara con que heriste en ella al Yeor, toma en tu mano, y anda.
 
 ### 17:6
 
@@ -1867,7 +1867,7 @@ He aquí yo parado delante de ti allí sobre la roca en Jorev, y herirás en la 
 
 ### 17:7
 
-Y llamó nombre del lugar Masá y Meribá, sobre contienda de hijos de Israel y sobre su probar a Jehová, diciendo: ¿Hay Jehová en medio de nosotros o no?
+Y llamó nombre del lugar Masá y Meribá, sobre contienda de hijos de Israel y sobre su probar a Yahvé, diciendo: ¿Hay Yahvé en medio de nosotros o no?
 
 ### 17:8
 
@@ -1895,21 +1895,21 @@ Y debilitó Josué a Amaleq y a su pueblo a boca de espada.
 
 ### 17:14
 
-Y dijo Jehová a Moisés: Escribe esto memorial en el libro, y pon en oídos de Josué, porque borrando borraré el recuerdo de Amaleq de debajo de los cielos.
+Y dijo Yahvé a Moisés: Escribe esto memorial en el libro, y pon en oídos de Josué, porque borrando borraré el recuerdo de Amaleq de debajo de los cielos.
 
 ### 17:15
 
-Y edificó Moisés altar, y llamó su nombre Jehová mi estandarte.
+Y edificó Moisés altar, y llamó su nombre Yahvé mi estandarte.
 
 ### 17:16
 
-Y dijo: Porque mano sobre trono de Yah; guerra a Jehová en Amaleq desde generación generación.
+Y dijo: Porque mano sobre trono de Yah; guerra a Yahvé en Amaleq desde generación generación.
 
 ## Capítulo 18
 
 ### 18:1
 
-Y oyó Yitró, sacerdote de Midyán, suegro de Moisés, todo lo que hizo Dios a Moisés y a Israel su pueblo, porque sacó Jehová a Israel desde Egipto.
+Y oyó Yitró, sacerdote de Midyán, suegro de Moisés, todo lo que hizo Dios a Moisés y a Israel su pueblo, porque sacó Yahvé a Israel desde Egipto.
 
 ### 18:2
 
@@ -1937,19 +1937,19 @@ Y salió Moisés al encuentro de su suegro, y se postró y besó a él, y pregun
 
 ### 18:8
 
-Y contó Moisés a su suegro todo lo que hizo Jehová a Faraón y a Egipto a causa de Israel, toda la fatiga que los halló en el camino, y los libró Jehová.
+Y contó Moisés a su suegro todo lo que hizo Yahvé a Faraón y a Egipto a causa de Israel, toda la fatiga que los halló en el camino, y los libró Yahvé.
 
 ### 18:9
 
-Y se alegró Yitró sobre todo el bien que hizo Jehová a Israel, que lo libró de mano de Egipto.
+Y se alegró Yitró sobre todo el bien que hizo Yahvé a Israel, que lo libró de mano de Egipto.
 
 ### 18:10
 
-Y dijo Yitró: Bendito Jehová, que libró a ustedes de mano de Egipto y de mano de Faraón, que libró al pueblo de debajo de mano de Egipto.
+Y dijo Yitró: Bendito Yahvé, que libró a ustedes de mano de Egipto y de mano de Faraón, que libró al pueblo de debajo de mano de Egipto.
 
 ### 18:11
 
-Ahora he conocido que grande Jehová más que todos los dioses, porque en la palabra que se ensoberbecieron sobre ellos.
+Ahora he conocido que grande Yahvé más que todos los dioses, porque en la palabra que se ensoberbecieron sobre ellos.
 
 ### 18:12
 
@@ -2027,7 +2027,7 @@ Y partieron desde Refidim, y vinieron a desierto de Sinai, y acamparon en el des
 
 ### 19:3
 
-Y Moisés subió a Dios, y llamó a él Jehová desde el monte, diciendo: Así dirás a casa de Jacob, y harás saber a hijos de Israel:
+Y Moisés subió a Dios, y llamó a él Yahvé desde el monte, diciendo: Así dirás a casa de Jacob, y harás saber a hijos de Israel:
 
 ### 19:4
 
@@ -2043,23 +2043,23 @@ Y ustedes serán a mí reino de sacerdotes y nación santa. Estas las palabras q
 
 ### 19:7
 
-Y vino Moisés, y llamó a los ancianos del pueblo, y puso delante de ellos todas las palabras estas que le mandó Jehová.
+Y vino Moisés, y llamó a los ancianos del pueblo, y puso delante de ellos todas las palabras estas que le mandó Yahvé.
 
 ### 19:8
 
-Y respondieron todo el pueblo juntos, y dijeron: Todo lo que habló Jehová haremos. Y devolvió Moisés las palabras del pueblo a Jehová.
+Y respondieron todo el pueblo juntos, y dijeron: Todo lo que habló Yahvé haremos. Y devolvió Moisés las palabras del pueblo a Yahvé.
 
 ### 19:9
 
-Y dijo Jehová a Moisés: He aquí yo viniendo a ti en densura de la nube, a causa de que oiga el pueblo en mi hablar contigo, y también en ti crean para siempre. Y hizo saber Moisés las palabras del pueblo a Jehová.
+Y dijo Yahvé a Moisés: He aquí yo viniendo a ti en densura de la nube, a causa de que oiga el pueblo en mi hablar contigo, y también en ti crean para siempre. Y hizo saber Moisés las palabras del pueblo a Yahvé.
 
 ### 19:10
 
-Y dijo Jehová a Moisés: Anda al pueblo, y santifícalos hoy y mañana, y laven sus vestidos.
+Y dijo Yahvé a Moisés: Anda al pueblo, y santifícalos hoy y mañana, y laven sus vestidos.
 
 ### 19:11
 
-Y sean preparados al día el tercero, porque en el día el tercero descenderá Jehová a ojos de todo el pueblo sobre monte Sinai.
+Y sean preparados al día el tercero, porque en el día el tercero descenderá Yahvé a ojos de todo el pueblo sobre monte Sinai.
 
 ### 19:12
 
@@ -2087,7 +2087,7 @@ Y sacó Moisés al pueblo al encuentro de Dios desde el campamento, y se plantar
 
 ### 19:18
 
-Y monte Sinai humeaba todo él, de faces de que descendió sobre él Jehová en el fuego, y subió su humo como humo del horno, y tembló todo el monte mucho.
+Y monte Sinai humeaba todo él, de faces de que descendió sobre él Yahvé en el fuego, y subió su humo como humo del horno, y tembló todo el monte mucho.
 
 ### 19:19
 
@@ -2095,23 +2095,23 @@ Y era voz del shofar andante y fortaleciéndose mucho; Moisés habla, y Dios le 
 
 ### 19:20
 
-Y descendió Jehová sobre monte Sinai, a cabeza del monte, y llamó Jehová a Moisés a cabeza del monte, y subió Moisés.
+Y descendió Yahvé sobre monte Sinai, a cabeza del monte, y llamó Yahvé a Moisés a cabeza del monte, y subió Moisés.
 
 ### 19:21
 
-Y dijo Jehová a Moisés: Desciende, amonesta en el pueblo, no sea que irrumpan a Jehová a ver, y caiga de él mucho.
+Y dijo Yahvé a Moisés: Desciende, amonesta en el pueblo, no sea que irrumpan a Yahvé a ver, y caiga de él mucho.
 
 ### 19:22
 
-Y también los sacerdotes los acercantes a Jehová se santificarán, no sea que prorrumpa en ellos Jehová.
+Y también los sacerdotes los acercantes a Yahvé se santificarán, no sea que prorrumpa en ellos Yahvé.
 
 ### 19:23
 
-Y dijo Moisés a Jehová: No puede el pueblo subir a monte Sinai, porque tú amonestaste en nosotros, diciendo: Limita el monte y santifícalo.
+Y dijo Moisés a Yahvé: No puede el pueblo subir a monte Sinai, porque tú amonestaste en nosotros, diciendo: Limita el monte y santifícalo.
 
 ### 19:24
 
-Y dijo a él Jehová: Anda, desciende, y subirás tú y Aarón contigo, y los sacerdotes y el pueblo no rompan a subir a Jehová, no sea que prorrumpa en ellos.
+Y dijo a él Yahvé: Anda, desciende, y subirás tú y Aarón contigo, y los sacerdotes y el pueblo no rompan a subir a Yahvé, no sea que prorrumpa en ellos.
 
 ### 19:25
 
@@ -2125,7 +2125,7 @@ Y habló Dios todas las palabras estas, diciendo:
 
 ### 20:2
 
-Yo Jehová tu Dios, que te saqué desde tierra de Egipto, desde casa de siervos.
+Yo Yahvé tu Dios, que te saqué desde tierra de Egipto, desde casa de siervos.
 
 ### 20:3
 
@@ -2137,7 +2137,7 @@ No harás a ti ídolo tallado, ni toda semejanza que en los cielos desde arriba,
 
 ### 20:5
 
-No te postrarás a ellos, y no los servirás, porque yo Jehová tu Dios, Dios celoso, visitante iniquidad de padres sobre hijos, sobre terceros y sobre cuartos, a mis aborrecedores.
+No te postrarás a ellos, y no los servirás, porque yo Yahvé tu Dios, Dios celoso, visitante iniquidad de padres sobre hijos, sobre terceros y sobre cuartos, a mis aborrecedores.
 
 ### 20:6
 
@@ -2145,7 +2145,7 @@ Y haciendo misericordia a miles, a mis amadores y a guardadores de mis mandamien
 
 ### 20:7
 
-No alzarás el nombre de Jehová tu Dios a la vanidad, porque no dejará limpio Jehová al que alza su nombre a la vanidad.
+No alzarás el nombre de Yahvé tu Dios a la vanidad, porque no dejará limpio Yahvé al que alza su nombre a la vanidad.
 
 ### 20:8
 
@@ -2157,15 +2157,15 @@ Seis días servirás, y harás toda tu obra.
 
 ### 20:10
 
-Y día el séptimo sábado a Jehová tu Dios; no harás ninguna obra, tú y tu hijo y tu hija, tu siervo y tu sierva y tu bestia y tu extranjero que en tus puertas.
+Y día el séptimo sábado a Yahvé tu Dios; no harás ninguna obra, tú y tu hijo y tu hija, tu siervo y tu sierva y tu bestia y tu extranjero que en tus puertas.
 
 ### 20:11
 
-Porque seis días hizo Jehová los cielos y la tierra, el mar y todo lo que en ellos, y reposó en el día séptimo; por eso bendijo Jehová el día del sábado, y lo santificó.
+Porque seis días hizo Yahvé los cielos y la tierra, el mar y todo lo que en ellos, y reposó en el día séptimo; por eso bendijo Yahvé el día del sábado, y lo santificó.
 
 ### 20:12
 
-Honra a tu padre y a tu madre, a fin de que se alarguen tus días sobre el suelo que Jehová tu Dios te da.
+Honra a tu padre y a tu madre, a fin de que se alarguen tus días sobre el suelo que Yahvé tu Dios te da.
 
 ### 20:13
 
@@ -2205,7 +2205,7 @@ Y se paró el pueblo desde lejos, y Moisés se acercó a la densa oscuridad que 
 
 ### 20:22
 
-Y dijo Jehová a Moisés: Así dirás a hijos de Israel: Ustedes vieron que desde los cielos hablé con ustedes.
+Y dijo Yahvé a Moisés: Así dirás a hijos de Israel: Ustedes vieron que desde los cielos hablé con ustedes.
 
 ### 20:23
 
@@ -2413,7 +2413,7 @@ Cuando da varón a su compañero asno o buey o animal del rebaño y toda bestia 
 
 ### 22:11
 
-juramento de Jehová será entre ambos, si no envió su mano en obra de su compañero, y tomará sus dueños, y no pagará.
+juramento de Yahvé será entre ambos, si no envió su mano en obra de su compañero, y tomará sus dueños, y no pagará.
 
 ### 22:12
 
@@ -2449,7 +2449,7 @@ Todo yacente con bestia, de morir será muerto.
 
 ### 22:20
 
-Sacrificante a los dioses será destruido, excepto a Jehová solo.
+Sacrificante a los dioses será destruido, excepto a Yahvé solo.
 
 ### 22:21
 
@@ -2563,7 +2563,7 @@ Y fiesta de la siega, primicias de tus obras que siembras en el campo; y fiesta 
 
 ### 23:17
 
-Tres veces en el año será visto todo tu varón a faces del Señor Jehová.
+Tres veces en el año será visto todo tu varón a faces del Señor Yahvé.
 
 ### 23:18
 
@@ -2571,7 +2571,7 @@ No sacrificarás sobre leudado sangre de mi sacrificio, y no pernoctará sebo de
 
 ### 23:19
 
-Principio de primicias de tu suelo traerás a casa de Jehová tu Dios; no cocerás cabrito en leche de su madre.
+Principio de primicias de tu suelo traerás a casa de Yahvé tu Dios; no cocerás cabrito en leche de su madre.
 
 ### 23:20
 
@@ -2595,7 +2595,7 @@ No te postrarás a sus dioses, y no se te hará servirlos, y no harás conforme 
 
 ### 23:25
 
-Y servirán a Jehová Dios de ustedes, y bendecirá tu pan y tus aguas, y quitaré enfermedad de medio de ti.
+Y servirán a Yahvé Dios de ustedes, y bendecirá tu pan y tus aguas, y quitaré enfermedad de medio de ti.
 
 ### 23:26
 
@@ -2633,23 +2633,23 @@ No habitarán en tu tierra, no sea que te hagan pecar a mí, porque servirás a 
 
 ### 24:1
 
-Y a Moisés dijo: Sube a Jehová, tú y Aarón, Nadav y Avihú, y setenta de ancianos de Israel, y se postrarán desde lejos.
+Y a Moisés dijo: Sube a Yahvé, tú y Aarón, Nadav y Avihú, y setenta de ancianos de Israel, y se postrarán desde lejos.
 
 ### 24:2
 
-Y se acercará Moisés solo a Jehová, y ellos no se acercarán, y el pueblo no subirá con él.
+Y se acercará Moisés solo a Yahvé, y ellos no se acercarán, y el pueblo no subirá con él.
 
 ### 24:3
 
-Y vino Moisés, y contó al pueblo todas las palabras de Jehová y todos los juicios, y respondió todo el pueblo voz una, y dijeron: Todas las palabras que habló Jehová haremos.
+Y vino Moisés, y contó al pueblo todas las palabras de Yahvé y todos los juicios, y respondió todo el pueblo voz una, y dijeron: Todas las palabras que habló Yahvé haremos.
 
 ### 24:4
 
-Y escribió Moisés todas las palabras de Jehová, y madrugó en la mañana, y edificó altar debajo del monte, y doce estelas a doce tribus de Israel.
+Y escribió Moisés todas las palabras de Yahvé, y madrugó en la mañana, y edificó altar debajo del monte, y doce estelas a doce tribus de Israel.
 
 ### 24:5
 
-Y envió a los jóvenes de hijos de Israel, y subieron holocaustos, y sacrificaron sacrificios de pazes a Jehová, toros.
+Y envió a los jóvenes de hijos de Israel, y subieron holocaustos, y sacrificaron sacrificios de pazes a Yahvé, toros.
 
 ### 24:6
 
@@ -2657,11 +2657,11 @@ Y tomó Moisés mitad de la sangre, y puso en las vasijas, y mitad de la sangre 
 
 ### 24:7
 
-Y tomó el libro del pacto, y leyó en oídos del pueblo, y dijeron: Todo lo que habló Jehová haremos y oiremos.
+Y tomó el libro del pacto, y leyó en oídos del pueblo, y dijeron: Todo lo que habló Yahvé haremos y oiremos.
 
 ### 24:8
 
-Y tomó Moisés la sangre, y roció sobre el pueblo, y dijo: He aquí sangre del pacto que cortó Jehová con ustedes sobre todas las palabras estas.
+Y tomó Moisés la sangre, y roció sobre el pueblo, y dijo: He aquí sangre del pacto que cortó Yahvé con ustedes sobre todas las palabras estas.
 
 ### 24:9
 
@@ -2677,7 +2677,7 @@ Y a nobles de hijos de Israel no envió su mano, y contemplaron a Dios, y comier
 
 ### 24:12
 
-Y dijo Jehová a Moisés: Sube a mí al monte, y sé allí, y te daré las tablas de la piedra y la ley y el mandamiento, que escribí para enseñarlos.
+Y dijo Yahvé a Moisés: Sube a mí al monte, y sé allí, y te daré las tablas de la piedra y la ley y el mandamiento, que escribí para enseñarlos.
 
 ### 24:13
 
@@ -2693,11 +2693,11 @@ Y subió Moisés al monte, y cubrió la nube el monte.
 
 ### 24:16
 
-Y moró gloria de Jehová sobre monte Sinai, y lo cubrió la nube seis días, y llamó a Moisés en el día el séptimo desde medio de la nube.
+Y moró gloria de Yahvé sobre monte Sinai, y lo cubrió la nube seis días, y llamó a Moisés en el día el séptimo desde medio de la nube.
 
 ### 24:17
 
-Y apariencia de gloria de Jehová como fuego comiente en cabeza del monte, a ojos de hijos de Israel.
+Y apariencia de gloria de Yahvé como fuego comiente en cabeza del monte, a ojos de hijos de Israel.
 
 ### 24:18
 
@@ -2707,7 +2707,7 @@ Y entró Moisés en medio de la nube, y subió al monte; y fue Moisés en el mon
 
 ### 25:1
 
-Y habló Jehová a Moisés, diciendo:
+Y habló Yahvé a Moisés, diciendo:
 
 ### 25:2
 
@@ -3099,7 +3099,7 @@ Y tú mandarás a hijos de Israel, y tomarán a ti aceite de olivo puro golpeado
 
 ### 27:21
 
-En tienda de reunión, fuera del velo que sobre el testimonio, lo pondrá en orden Aarón y sus hijos desde tarde hasta mañana delante de Jehová; estatuto de siempre a sus generaciones de parte de hijos de Israel.
+En tienda de reunión, fuera del velo que sobre el testimonio, lo pondrá en orden Aarón y sus hijos desde tarde hasta mañana delante de Yahvé; estatuto de siempre a sus generaciones de parte de hijos de Israel.
 
 ## Capítulo 28
 
@@ -3149,7 +3149,7 @@ Obra de artesano de piedra, grabados de sello grabarás las dos piedras sobre no
 
 ### 28:12
 
-Y pondrás las dos piedras sobre los hombros del efod, piedras de memorial a los hijos de Israel, y alzará Aarón sus nombres delante de Jehová sobre sus dos hombros a memorial.
+Y pondrás las dos piedras sobre los hombros del efod, piedras de memorial a los hijos de Israel, y alzará Aarón sus nombres delante de Yahvé sobre sus dos hombros a memorial.
 
 ### 28:13
 
@@ -3217,11 +3217,11 @@ Y atarán el pectoral a anillos del efod con cordón de azul, para ser sobre cin
 
 ### 28:29
 
-Y alzará Aarón los nombres de hijos de Israel en joshen del juicio sobre su corazón en su entrar al santo, a memorial delante de Jehová siempre.
+Y alzará Aarón los nombres de hijos de Israel en joshen del juicio sobre su corazón en su entrar al santo, a memorial delante de Yahvé siempre.
 
 ### 28:30
 
-Y darás al pectoral del juicio las luces y las perfecciones, y serán sobre corazón de Aarón en su entrar delante de Jehová, y alzará Aarón el juicio de hijos de Israel sobre su corazón delante de Jehová siempre.
+Y darás al pectoral del juicio las luces y las perfecciones, y serán sobre corazón de Aarón en su entrar delante de Yahvé, y alzará Aarón el juicio de hijos de Israel sobre su corazón delante de Yahvé siempre.
 
 ### 28:31
 
@@ -3241,11 +3241,11 @@ Campanilla de oro y granada, campanilla de oro y granada, sobre faldas del manto
 
 ### 28:35
 
-Y será sobre Aarón para ministrar, y se oirá su voz en su entrar a lo santo delante de Jehová y en su salir, y no morirá.
+Y será sobre Aarón para ministrar, y se oirá su voz en su entrar a lo santo delante de Yahvé y en su salir, y no morirá.
 
 ### 28:36
 
-Y harás una lámina de oro puro, y grabarás sobre ella grabados de sello: santidad a Jehová.
+Y harás una lámina de oro puro, y grabarás sobre ella grabados de sello: santidad a Yahvé.
 
 ### 28:37
 
@@ -3253,7 +3253,7 @@ Y la pondrás sobre cordón de azul, y será sobre el turbante; al frente de fac
 
 ### 28:38
 
-Y será sobre frente de Aarón, y alzará Aarón la iniquidad de las santidades que santificarán hijos de Israel a todos dones de sus santidades, y será sobre su frente siempre, a favor a ellos delante de Jehová.
+Y será sobre frente de Aarón, y alzará Aarón la iniquidad de las santidades que santificarán hijos de Israel a todos dones de sus santidades, y será sobre su frente siempre, a favor a ellos delante de Yahvé.
 
 ### 28:39
 
@@ -3319,7 +3319,7 @@ Y acercarás el toro delante de tienda de reunión, y apoyará Aarón y sus hijo
 
 ### 29:11
 
-Y degollarás el toro delante de Jehová, a abertura de tienda de reunión.
+Y degollarás el toro delante de Yahvé, a abertura de tienda de reunión.
 
 ### 29:12
 
@@ -3347,7 +3347,7 @@ Y el carnero cortarás a sus pedazos, y lavarás su interior y sus piernas, y da
 
 ### 29:18
 
-Y harás humear todo el carnero hacia el altar; holocausto él a Jehová; olor de reposo, ofrenda de fuego a Jehová él.
+Y harás humear todo el carnero hacia el altar; holocausto él a Yahvé; olor de reposo, ofrenda de fuego a Yahvé él.
 
 ### 29:19
 
@@ -3367,19 +3367,19 @@ Y tomarás desde el carnero el sebo y la cola y el sebo el cubriente el interior
 
 ### 29:23
 
-Y pan redondo uno y torta de pan de aceite una y oblea una desde canasta de los ázimos que delante de Jehová.
+Y pan redondo uno y torta de pan de aceite una y oblea una desde canasta de los ázimos que delante de Yahvé.
 
 ### 29:24
 
-Y pondrás el todo sobre palmas de Aarón y sobre palmas de sus hijos, y balancearás a ellos balanceo delante de Jehová.
+Y pondrás el todo sobre palmas de Aarón y sobre palmas de sus hijos, y balancearás a ellos balanceo delante de Yahvé.
 
 ### 29:25
 
-Y los tomarás desde su mano, y harás humear hacia el altar sobre el holocausto, a olor de reposo delante de Jehová; ofrenda de fuego él a Jehová.
+Y los tomarás desde su mano, y harás humear hacia el altar sobre el holocausto, a olor de reposo delante de Yahvé; ofrenda de fuego él a Yahvé.
 
 ### 29:26
 
-Y tomarás el pecho desde carnero de las llenuras que a Aarón, y lo balancearás balanceo delante de Jehová, y será a ti a porción.
+Y tomarás el pecho desde carnero de las llenuras que a Aarón, y lo balancearás balanceo delante de Yahvé, y será a ti a porción.
 
 ### 29:27
 
@@ -3387,7 +3387,7 @@ Y santificarás pecho del balanceo y pierna de la ofrenda que fue balanceada y q
 
 ### 29:28
 
-Y será a Aarón y a sus hijos a estatuto de siempre de parte de hijos de Israel, porque ofrenda él; y ofrenda será de parte de hijos de Israel desde sacrificios de sus pazes, su ofrenda a Jehová.
+Y será a Aarón y a sus hijos a estatuto de siempre de parte de hijos de Israel, porque ofrenda él; y ofrenda será de parte de hijos de Israel desde sacrificios de sus pazes, su ofrenda a Yahvé.
 
 ### 29:29
 
@@ -3439,11 +3439,11 @@ Y décima de flor de harina mezclada en aceite molido cuarto del hin, y libació
 
 ### 29:41
 
-Y el cordero el segundo harás entre las dos tardes; conforme a ofrenda de la mañana y conforme a su libación harás a ella, a olor de reposo, ofrenda de fuego a Jehová.
+Y el cordero el segundo harás entre las dos tardes; conforme a ofrenda de la mañana y conforme a su libación harás a ella, a olor de reposo, ofrenda de fuego a Yahvé.
 
 ### 29:42
 
-Holocausto continuo a generaciones de ustedes, a abertura de tienda de reunión delante de Jehová, que me citaré a ustedes allá para hablar a ti allí.
+Holocausto continuo a generaciones de ustedes, a abertura de tienda de reunión delante de Yahvé, que me citaré a ustedes allá para hablar a ti allí.
 
 ### 29:43
 
@@ -3459,7 +3459,7 @@ Y moraré en medio de hijos de Israel, y seré a ellos a Dios.
 
 ### 29:46
 
-Y conocerán que yo Jehová Dios de ellos, que saqué a ellos desde tierra de Egipto para mi morar en medio de ellos; yo Jehová Dios de ellos.
+Y conocerán que yo Yahvé Dios de ellos, que saqué a ellos desde tierra de Egipto para mi morar en medio de ellos; yo Yahvé Dios de ellos.
 
 ## Capítulo 30
 
@@ -3493,7 +3493,7 @@ Y hará humear sobre él Aarón incienso de aromas; en la mañana en la mañana,
 
 ### 30:8
 
-Y en hacer subir Aarón las lámparas entre las dos tardes lo hará humear, incienso continuo, delante de Jehová, a generaciones de ustedes.
+Y en hacer subir Aarón las lámparas entre las dos tardes lo hará humear, incienso continuo, delante de Yahvé, a generaciones de ustedes.
 
 ### 30:9
 
@@ -3501,35 +3501,35 @@ No harán subir sobre él incienso extraño, y holocausto y ofrenda; y libación
 
 ### 30:10
 
-Y expiará Aarón sobre sus cuernos una en el año; desde sangre de pecado de las expiaciones una en el año expiará sobre él a generaciones de ustedes; santo de santos él a Jehová.
+Y expiará Aarón sobre sus cuernos una en el año; desde sangre de pecado de las expiaciones una en el año expiará sobre él a generaciones de ustedes; santo de santos él a Yahvé.
 
 ### 30:11
 
-Y habló Jehová a Moisés, diciendo:
+Y habló Yahvé a Moisés, diciendo:
 
 ### 30:12
 
-Cuando alces cabeza de hijos de Israel a sus contados, y darán varón rescate de su alma a Jehová en contar a ellos, y no habrá en ellos plaga en contar a ellos.
+Cuando alces cabeza de hijos de Israel a sus contados, y darán varón rescate de su alma a Yahvé en contar a ellos, y no habrá en ellos plaga en contar a ellos.
 
 ### 30:13
 
-Esto darán todo el pasante sobre los contados: mitad del siclo en siclo de la santidad; veinte gera el siclo; mitad del siclo ofrenda a Jehová.
+Esto darán todo el pasante sobre los contados: mitad del siclo en siclo de la santidad; veinte gera el siclo; mitad del siclo ofrenda a Yahvé.
 
 ### 30:14
 
-Todo el que pasa sobre los contados desde hijo de veinte año y arriba dará ofrenda de Jehová.
+Todo el que pasa sobre los contados desde hijo de veinte año y arriba dará ofrenda de Yahvé.
 
 ### 30:15
 
-El rico no aumentará, y el pobre no disminuirá desde mitad del siclo, a dar la ofrenda de Jehová para expiar sobre almas de ustedes.
+El rico no aumentará, y el pobre no disminuirá desde mitad del siclo, a dar la ofrenda de Yahvé para expiar sobre almas de ustedes.
 
 ### 30:16
 
-Y tomarás la plata de las expiaciones de parte de hijos de Israel, y la darás sobre servicio de tienda de reunión, y será a hijos de Israel a memorial delante de Jehová para expiar sobre almas de ustedes.
+Y tomarás la plata de las expiaciones de parte de hijos de Israel, y la darás sobre servicio de tienda de reunión, y será a hijos de Israel a memorial delante de Yahvé para expiar sobre almas de ustedes.
 
 ### 30:17
 
-Y habló Jehová a Moisés, diciendo:
+Y habló Yahvé a Moisés, diciendo:
 
 ### 30:18
 
@@ -3541,7 +3541,7 @@ Y lavarán Aarón y sus hijos desde nosotros sus manos y sus pies.
 
 ### 30:20
 
-En su entrar a tienda de reunión lavarán aguas, y no morirán; o en su acercarse al altar para ministrar, para hacer humear ofrenda de fuego a Jehová.
+En su entrar a tienda de reunión lavarán aguas, y no morirán; o en su acercarse al altar para ministrar, para hacer humear ofrenda de fuego a Yahvé.
 
 ### 30:21
 
@@ -3549,7 +3549,7 @@ Y lavarán sus manos y sus pies, y no morirán, y será a ellos estatuto de siem
 
 ### 30:22
 
-Y habló Jehová a Moisés, diciendo:
+Y habló Yahvé a Moisés, diciendo:
 
 ### 30:23
 
@@ -3597,7 +3597,7 @@ Varón que perfume como él, y que dé desde él sobre extraño, y será cortado
 
 ### 30:34
 
-Y dijo Jehová a Moisés: Toma a ti aromas: estacte y uña olorosa y gálbano, aromas y incienso puro; parte en parte será.
+Y dijo Yahvé a Moisés: Toma a ti aromas: estacte y uña olorosa y gálbano, aromas y incienso puro; parte en parte será.
 
 ### 30:35
 
@@ -3609,7 +3609,7 @@ Y molerás desde ella fino, y darás desde ella delante del testimonio en tienda
 
 ### 30:37
 
-Y el incienso que harás, en su proporción no harán a ustedes; santidad será a ti a Jehová.
+Y el incienso que harás, en su proporción no harán a ustedes; santidad será a ti a Yahvé.
 
 ### 30:38
 
@@ -3619,7 +3619,7 @@ Varón que haga como ella para oler en ella, y será cortado desde sus pueblos.
 
 ### 31:1
 
-Y habló Jehová a Moisés, diciendo:
+Y habló Yahvé a Moisés, diciendo:
 
 ### 31:2
 
@@ -3663,11 +3663,11 @@ y el aceite de la unción y el incienso de las especias a lo santo; conforme a t
 
 ### 31:12
 
-Y dijo Jehová a Moisés, diciendo:
+Y dijo Yahvé a Moisés, diciendo:
 
 ### 31:13
 
-Y tú, habla a hijos de Israel, diciendo: Ciertamente mis sábados guardarán, porque señal ella entre mí y entre ustedes a generaciones de ustedes, para conocer que yo Jehová santificante de ustedes.
+Y tú, habla a hijos de Israel, diciendo: Ciertamente mis sábados guardarán, porque señal ella entre mí y entre ustedes a generaciones de ustedes, para conocer que yo Yahvé santificante de ustedes.
 
 ### 31:14
 
@@ -3675,7 +3675,7 @@ Y guardarán el shabat, porque santidad ella a ustedes; sus profanadores de mori
 
 ### 31:15
 
-Seis días se hará obra, y en el día el séptimo sábado de reposo, santidad a Jehová; todo el que hace obra en día del sábado, morir será muerto.
+Seis días se hará obra, y en el día el séptimo sábado de reposo, santidad a Yahvé; todo el que hace obra en día del sábado, morir será muerto.
 
 ### 31:16
 
@@ -3683,7 +3683,7 @@ Y guardarán hijos de Israel el sábado, para hacer el sábado a sus generacione
 
 ### 31:17
 
-Entre mí y entre hijos de Israel señal ella para siempre, porque seis días hizo Jehová los cielos y la tierra, y en el día el séptimo reposó y tomó aliento.
+Entre mí y entre hijos de Israel señal ella para siempre, porque seis días hizo Yahvé los cielos y la tierra, y en el día el séptimo reposó y tomó aliento.
 
 ### 31:18
 
@@ -3709,7 +3709,7 @@ Y tomó desde la mano de ellos, y lo formó con el buril, y lo hizo becerro de f
 
 ### 32:5
 
-Y vio Aarón, y edificó altar delante de él, y llamó Aarón, y dijo: Fiesta a Jehová mañana.
+Y vio Aarón, y edificó altar delante de él, y llamó Aarón, y dijo: Fiesta a Yahvé mañana.
 
 ### 32:6
 
@@ -3717,7 +3717,7 @@ Y madrugaron desde el día siguiente, y subieron holocaustos, y acercaron ofrend
 
 ### 32:7
 
-Y habló Jehová a Moisés: Anda, desciende, porque corrompió tu pueblo que subiste desde tierra de Egipto.
+Y habló Yahvé a Moisés: Anda, desciende, porque corrompió tu pueblo que subiste desde tierra de Egipto.
 
 ### 32:8
 
@@ -3725,7 +3725,7 @@ Se apartaron pronto desde el camino que les mandé; hicieron a ellos becerro de 
 
 ### 32:9
 
-Y dijo Jehová a Moisés: He visto a este pueblo, y he aquí pueblo duro de nuca él.
+Y dijo Yahvé a Moisés: He visto a este pueblo, y he aquí pueblo duro de nuca él.
 
 ### 32:10
 
@@ -3733,7 +3733,7 @@ Y ahora, déjame, y arderá mi nariz en ellos, y los consumiré, y te haré a na
 
 ### 32:11
 
-Y suavizó Moisés las faces de Jehová su Dios, y dijo: ¿Por qué, Jehová, arderá tu nariz en tu pueblo que sacaste desde tierra de Egipto con fuerza grande y con mano fuerte?
+Y suavizó Moisés las faces de Yahvé su Dios, y dijo: ¿Por qué, Yahvé, arderá tu nariz en tu pueblo que sacaste desde tierra de Egipto con fuerza grande y con mano fuerte?
 
 ### 32:12
 
@@ -3745,7 +3745,7 @@ Recuerda a Abraham, a Isaac y a Israel tus siervos, que juraste a ellos en ti, y
 
 ### 32:14
 
-Y se arrepintió Jehová sobre el mal que habló hacer a su pueblo.
+Y se arrepintió Yahvé sobre el mal que habló hacer a su pueblo.
 
 ### 32:15
 
@@ -3793,11 +3793,11 @@ Y vio Moisés al pueblo, que desatado él, porque lo desató Aarón a vergüenza
 
 ### 32:26
 
-Y se paró Moisés en puerta del campamento, y dijo: ¿Quién a Jehová, a mí? Y se reunieron a él todos hijos de Leví.
+Y se paró Moisés en puerta del campamento, y dijo: ¿Quién a Yahvé, a mí? Y se reunieron a él todos hijos de Leví.
 
 ### 32:27
 
-Y dijo a ellos: Así dijo Jehová Dios de Israel: Pongan varón su espada sobre su muslo; pasen y vuelvan desde puerta a puerta en el campamento, y maten varón a su hermano, y varón a su compañero, y varón a su cercano.
+Y dijo a ellos: Así dijo Yahvé Dios de Israel: Pongan varón su espada sobre su muslo; pasen y vuelvan desde puerta a puerta en el campamento, y maten varón a su hermano, y varón a su compañero, y varón a su cercano.
 
 ### 32:28
 
@@ -3805,15 +3805,15 @@ E hicieron hijos de Leví conforme a palabra de Moisés, y cayó desde el pueblo
 
 ### 32:29
 
-Y dijo Moisés: Llenen su mano hoy a Jehová, porque varón en su hijo y en su hermano, y para dar sobre ustedes hoy bendición.
+Y dijo Moisés: Llenen su mano hoy a Yahvé, porque varón en su hijo y en su hermano, y para dar sobre ustedes hoy bendición.
 
 ### 32:30
 
-Y fue desde el día siguiente, y dijo Moisés al pueblo: Ustedes pecaron pecado grande, y ahora subiré a Jehová; quizás expiaré por pecados de ustedes.
+Y fue desde el día siguiente, y dijo Moisés al pueblo: Ustedes pecaron pecado grande, y ahora subiré a Yahvé; quizás expiaré por pecados de ustedes.
 
 ### 32:31
 
-Y volvió Moisés a Jehová, y dijo: ¡Ay! Pecó este pueblo pecado grande, e hicieron a ellos dioses de oro.
+Y volvió Moisés a Yahvé, y dijo: ¡Ay! Pecó este pueblo pecado grande, e hicieron a ellos dioses de oro.
 
 ### 32:32
 
@@ -3821,7 +3821,7 @@ Y ahora, si alzas su pecado; y si no, bórrame ahora desde tu libro que escribis
 
 ### 32:33
 
-Y dijo Jehová a Moisés: Quien pecó a mí, lo borraré de mi libro.
+Y dijo Yahvé a Moisés: Quien pecó a mí, lo borraré de mi libro.
 
 ### 32:34
 
@@ -3829,13 +3829,13 @@ Y ahora, anda, guía al pueblo a lo que hablé a ti; he aquí mi mensajero andar
 
 ### 32:35
 
-Y hirió Jehová al pueblo sobre que hicieron el becerro que hizo Aarón.
+Y hirió Yahvé al pueblo sobre que hicieron el becerro que hizo Aarón.
 
 ## Capítulo 33
 
 ### 33:1
 
-Y habló Jehová a Moisés: Anda, sube desde este, tú y el pueblo que subiste desde tierra de Egipto, a la tierra que juré a Abraham, a Isaac y a Jacob, diciendo: A tu semilla la daré.
+Y habló Yahvé a Moisés: Anda, sube desde este, tú y el pueblo que subiste desde tierra de Egipto, a la tierra que juré a Abraham, a Isaac y a Jacob, diciendo: A tu semilla la daré.
 
 ### 33:2
 
@@ -3851,7 +3851,7 @@ Y oyó el pueblo esta palabra mala, y se enlutaron, y no pusieron varón su ador
 
 ### 33:5
 
-Y dijo Jehová a Moisés: Di a los hijos de Israel: Ustedes *son* un pueblo duro de nuca; un momento subiré en medio de ti, y te consumiré; y ahora, haz descender tu adorno de sobre ti, y conoceré qué haré a ti.
+Y dijo Yahvé a Moisés: Di a los hijos de Israel: Ustedes *son* un pueblo duro de nuca; un momento subiré en medio de ti, y te consumiré; y ahora, haz descender tu adorno de sobre ti, y conoceré qué haré a ti.
 
 ### 33:6
 
@@ -3859,7 +3859,7 @@ Y se despojaron hijos de Israel su adorno desde monte Jorev.
 
 ### 33:7
 
-Y Moisés tomaba la tienda, y la tendía a él desde fuera al campamento, lejos desde el campamento, y llamaba a ella tienda de reunión; y era todo buscante a Jehová salía a tienda de reunión que desde fuera al campamento.
+Y Moisés tomaba la tienda, y la tendía a él desde fuera al campamento, lejos desde el campamento, y llamaba a ella tienda de reunión; y era todo buscante a Yahvé salía a tienda de reunión que desde fuera al campamento.
 
 ### 33:8
 
@@ -3875,11 +3875,11 @@ Y veía todo el pueblo la columna de la nube parada abertura de la tienda, y se 
 
 ### 33:11
 
-Y hablaba Jehová a Moisés rostros a rostros, como habla varón a su compañero, y volvía al campamento; y su ministro Josué hijo de Nun, joven, no se apartaba desde medio de la tienda.
+Y hablaba Yahvé a Moisés rostros a rostros, como habla varón a su compañero, y volvía al campamento; y su ministro Josué hijo de Nun, joven, no se apartaba desde medio de la tienda.
 
 ### 33:12
 
-Y dijo Moisés a Jehová: Ve, tú diciendo a mí: Haz subir a este pueblo, y tú no me hiciste conocer al que enviarás conmigo, y tú dijiste: Te conocí por nombre, y también hallaste favor en mis ojos.
+Y dijo Moisés a Yahvé: Ve, tú diciendo a mí: Haz subir a este pueblo, y tú no me hiciste conocer al que enviarás conmigo, y tú dijiste: Te conocí por nombre, y también hallaste favor en mis ojos.
 
 ### 33:13
 
@@ -3899,7 +3899,7 @@ Y dijo a él: Si no tus faces andantes, no nos subas desde este.
 
 ### 33:17
 
-Y dijo Jehová a Moisés: También esta palabra que hablaste haré, porque hallaste favor en mis ojos, y te conocí por nombre.
+Y dijo Yahvé a Moisés: También esta palabra que hablaste haré, porque hallaste favor en mis ojos, y te conocí por nombre.
 
 ### 33:18
 
@@ -3907,7 +3907,7 @@ Y dijo: Hazme ver, te ruego, tu gloria.
 
 ### 33:19
 
-Y dijo: Yo haré pasar todo mi bien sobre tus faces, y llamaré en nombre Jehová delante de ti, y haré gracia al que haré gracia, y me apiadaré al que me apiadaré.
+Y dijo: Yo haré pasar todo mi bien sobre tus faces, y llamaré en nombre Yahvé delante de ti, y haré gracia al que haré gracia, y me apiadaré al que me apiadaré.
 
 ### 33:20
 
@@ -3915,7 +3915,7 @@ Y dijo: No podrás ver mis faces, porque no me verá el hombre y vivirá.
 
 ### 33:21
 
-Y dijo Jehová: He aquí lugar conmigo, y te plantarás sobre la roca.
+Y dijo Yahvé: He aquí lugar conmigo, y te plantarás sobre la roca.
 
 ### 33:22
 
@@ -3929,7 +3929,7 @@ Y quitaré mi palma, y verás mis espaldas, y mis faces no se verán.
 
 ### 34:1
 
-Y dijo Jehová a Moisés: Labra a ti dos tablas de piedras como las primeras, y escribiré sobre las tablas las palabras que fueron sobre las tablas las primeras que quebraste.
+Y dijo Yahvé a Moisés: Labra a ti dos tablas de piedras como las primeras, y escribiré sobre las tablas las palabras que fueron sobre las tablas las primeras que quebraste.
 
 ### 34:2
 
@@ -3941,15 +3941,15 @@ Y varón no subirá contigo, y también varón no se vea en todo el monte; tambi
 
 ### 34:4
 
-Y labró dos tablas de piedras como las primeras, y madrugó Moisés en la mañana, y subió a monte Sinai conforme a lo que mandó Jehová a él, y tomó en su mano dos tablas de piedras.
+Y labró dos tablas de piedras como las primeras, y madrugó Moisés en la mañana, y subió a monte Sinai conforme a lo que mandó Yahvé a él, y tomó en su mano dos tablas de piedras.
 
 ### 34:5
 
-Y descendió Jehová en la nube, y se plantó con él allí, y llamó en nombre Jehová.
+Y descendió Yahvé en la nube, y se plantó con él allí, y llamó en nombre Yahvé.
 
 ### 34:6
 
-Y pasó Jehová sobre sus faces, y llamó: Jehová, Jehová, Dios misericordioso y clemente, largo de narices y mucho de misericordia y verdad,
+Y pasó Yahvé sobre sus faces, y llamó: Yahvé, Yahvé, Dios misericordioso y clemente, largo de narices y mucho de misericordia y verdad,
 
 ### 34:7
 
@@ -3965,7 +3965,7 @@ Y dijo: Si, te ruego, hallé favor en tus ojos, Señor mío, ande, te ruego, Se�
 
 ### 34:10
 
-Y dijo: He aquí yo cortando pacto; delante de todo tu pueblo haré maravillas que no fueron creadas en toda la tierra y en todas las naciones, y verá todo el pueblo que tú en medio de él la obra de Jehová, porque temible ella, que yo haciendo contigo.
+Y dijo: He aquí yo cortando pacto; delante de todo tu pueblo haré maravillas que no fueron creadas en toda la tierra y en todas las naciones, y verá todo el pueblo que tú en medio de él la obra de Yahvé, porque temible ella, que yo haciendo contigo.
 
 ### 34:11
 
@@ -3981,7 +3981,7 @@ Porque sus altares demolerán, y sus pilares quebrarán, y su Asera cortarán.
 
 ### 34:14
 
-Porque no te postrarás a dios otro, porque Jehová, celoso su nombre, Dios celoso él.
+Porque no te postrarás a dios otro, porque Yahvé, celoso su nombre, Dios celoso él.
 
 ### 34:15
 
@@ -4017,11 +4017,11 @@ Y fiesta de semanas harás a ti, primicias de siega de trigos, y fiesta de la re
 
 ### 34:23
 
-Tres veces en el año será visto todo tu varón rostro del señor Jehová Dios de Israel.
+Tres veces en el año será visto todo tu varón rostro del señor Yahvé Dios de Israel.
 
 ### 34:24
 
-Porque echaré naciones de delante de ti, y ensancharé tu límite, y no codiciará varón tu tierra en tu subir a ser visto rostro de Jehová tu Dios tres veces en el año.
+Porque echaré naciones de delante de ti, y ensancharé tu límite, y no codiciará varón tu tierra en tu subir a ser visto rostro de Yahvé tu Dios tres veces en el año.
 
 ### 34:25
 
@@ -4029,15 +4029,15 @@ No degollarás sobre leudado sangre de mi sacrificio, y no pernoctará hasta la 
 
 ### 34:26
 
-Principio de primicias de tu suelo traerás casa de Jehová tu Dios; no cocerás cabrito en leche de su madre.
+Principio de primicias de tu suelo traerás casa de Yahvé tu Dios; no cocerás cabrito en leche de su madre.
 
 ### 34:27
 
-Y dijo Jehová a Moisés: Escribe a ti estas palabras, porque sobre boca de estas palabras corté contigo pacto y con Israel.
+Y dijo Yahvé a Moisés: Escribe a ti estas palabras, porque sobre boca de estas palabras corté contigo pacto y con Israel.
 
 ### 34:28
 
-Y fue allí con Jehová cuarenta día y cuarenta noche; pan no comió, y aguas no bebió; y escribió sobre las tablas las palabras del pacto, los diez las palabras.
+Y fue allí con Yahvé cuarenta día y cuarenta noche; pan no comió, y aguas no bebió; y escribió sobre las tablas las palabras del pacto, los diez las palabras.
 
 ### 34:29
 
@@ -4053,7 +4053,7 @@ Y llamó a ellos Moisés, y volvieron a él Aarón y todos los príncipes en la 
 
 ### 34:32
 
-Y después de así se acercaron todos hijos de Israel, y les mandó todo lo que habló Jehová con él en monte Sinai.
+Y después de así se acercaron todos hijos de Israel, y les mandó todo lo que habló Yahvé con él en monte Sinai.
 
 ### 34:33
 
@@ -4061,7 +4061,7 @@ Y acabó Moisés de hablar con ellos, y puso sobre sus faces velo.
 
 ### 34:34
 
-Y en entrar Moisés delante de Jehová para hablar con él, quitaba el velo hasta su salir, y salía, y hablaba a hijos de Israel lo que era mandado.
+Y en entrar Moisés delante de Yahvé para hablar con él, quitaba el velo hasta su salir, y salía, y hablaba a hijos de Israel lo que era mandado.
 
 ### 34:35
 
@@ -4071,11 +4071,11 @@ Y veían hijos de Israel las faces de Moisés, que radió piel de faces de Mois�
 
 ### 35:1
 
-Y congregó Moisés a toda congregación de hijos de Israel, y dijo a ellos: Estas las palabras que mandó Jehová a hacer a ellas.
+Y congregó Moisés a toda congregación de hijos de Israel, y dijo a ellos: Estas las palabras que mandó Yahvé a hacer a ellas.
 
 ### 35:2
 
-Seis días será hecha obra, y en el día el séptimo será a ustedes santidad, shabat de shabatón a Jehová; todo el haciendo en él obra morirá.
+Seis días será hecha obra, y en el día el séptimo será a ustedes santidad, shabat de shabatón a Yahvé; todo el haciendo en él obra morirá.
 
 ### 35:3
 
@@ -4083,11 +4083,11 @@ No encenderán fuego en todas sus moradas en día del sábado.
 
 ### 35:4
 
-Y dijo Moisés a toda congregación de hijos de Israel, diciendo: Esta la palabra que mandó Jehová, diciendo:
+Y dijo Moisés a toda congregación de hijos de Israel, diciendo: Esta la palabra que mandó Yahvé, diciendo:
 
 ### 35:5
 
-Tomen de ustedes ofrenda a Jehová; todo generoso de su corazón la traerá, la ofrenda de Jehová: oro y plata y bronce,
+Tomen de ustedes ofrenda a Yahvé; todo generoso de su corazón la traerá, la ofrenda de Yahvé: oro y plata y bronce,
 
 ### 35:6
 
@@ -4107,7 +4107,7 @@ y piedras de shóham y piedras de engastes al efod y al joshen.
 
 ### 35:10
 
-Y todo sabio de corazón en ustedes vendrán, y harán todo lo que mandó Jehová:
+Y todo sabio de corazón en ustedes vendrán, y harán todo lo que mandó Yahvé:
 
 ### 35:11
 
@@ -4151,11 +4151,11 @@ Y salió toda congregación de hijos de Israel de delante de Moisés.
 
 ### 35:21
 
-Y vinieron todo varón que lo alzó su corazón, y todo al que impulsó su espíritu a él, trajeron la ofrenda de Jehová a obra de tienda de reunión y a todo su servicio y a vestidos de la santidad.
+Y vinieron todo varón que lo alzó su corazón, y todo al que impulsó su espíritu a él, trajeron la ofrenda de Yahvé a obra de tienda de reunión y a todo su servicio y a vestidos de la santidad.
 
 ### 35:22
 
-Y vinieron los varones sobre las mujeres; todo noble de corazón trajeron gancho y aro y anillo y adorno, todo objeto de oro, y todo varón que balanceó balanceo de oro a Jehová.
+Y vinieron los varones sobre las mujeres; todo noble de corazón trajeron gancho y aro y anillo y adorno, todo objeto de oro, y todo varón que balanceó balanceo de oro a Yahvé.
 
 ### 35:23
 
@@ -4163,7 +4163,7 @@ Y todo varón que fue hallado con él azul y púrpura y carmesí y lino fino y c
 
 ### 35:24
 
-Todo alzante ofrenda de plata y bronce trajeron la ofrenda de Jehová, y todo al que fue hallado con él maderas de shitím a toda obra del servicio trajeron.
+Todo alzante ofrenda de plata y bronce trajeron la ofrenda de Yahvé, y todo al que fue hallado con él maderas de shitím a toda obra del servicio trajeron.
 
 ### 35:25
 
@@ -4183,11 +4183,11 @@ y el aroma y el aceite a la lumbrera y a aceite de la unción y a incienso de lo
 
 ### 35:29
 
-Todo varón y mujer que impulsó su corazón a ellos a traer a toda la obra que mandó Jehová a hacer en mano de Moisés, trajeron hijos de Israel ofrenda voluntaria a Jehová.
+Todo varón y mujer que impulsó su corazón a ellos a traer a toda la obra que mandó Yahvé a hacer en mano de Moisés, trajeron hijos de Israel ofrenda voluntaria a Yahvé.
 
 ### 35:30
 
-Y dijo Moisés a hijos de Israel: Vean, llamó Jehová por nombre a Betsalel hijo de Uri hijo de Jur, a tribu de Judá.
+Y dijo Moisés a hijos de Israel: Vean, llamó Yahvé por nombre a Betsalel hijo de Uri hijo de Jur, a tribu de Judá.
 
 ### 35:31
 
@@ -4213,11 +4213,11 @@ Los llenó sabiduría de corazón para hacer toda obra de artesano y pensador y 
 
 ### 36:1
 
-Y hizo Betsalel y Oholiav y todo varón sabio de corazón, a quien dio Jehová sabiduría e inteligencia en ellos, para saber hacer toda obra de servicio del santo, conforme a todo lo que mandó Jehová.
+Y hizo Betsalel y Oholiav y todo varón sabio de corazón, a quien dio Yahvé sabiduría e inteligencia en ellos, para saber hacer toda obra de servicio del santo, conforme a todo lo que mandó Yahvé.
 
 ### 36:2
 
-Y llamó Moisés a Betsalel y a Oholiav y a todo varón sabio de corazón, a quien dio Jehová sabiduría en su corazón, a todo el que lo alzó su corazón a acercarse a la obra a hacerla.
+Y llamó Moisés a Betsalel y a Oholiav y a todo varón sabio de corazón, a quien dio Yahvé sabiduría en su corazón, a todo el que lo alzó su corazón a acercarse a la obra a hacerla.
 
 ### 36:3
 
@@ -4229,7 +4229,7 @@ Y vinieron todos los sabios, los que hacían toda obra de lo santo, varón por v
 
 ### 36:5
 
-Y dijeron a Moisés, diciendo: Multiplica el pueblo a traer, más que bastancia del servicio para la obra que mandó Jehová a hacerla.
+Y dijeron a Moisés, diciendo: Multiplica el pueblo a traer, más que bastancia del servicio para la obra que mandó Yahvé a hacerla.
 
 ### 36:6
 
@@ -4569,7 +4569,7 @@ Estos los contados del tabernáculo, tabernáculo del testimonio, que fue contad
 
 ### 38:22
 
-Y Betsalel hijo de Uri hijo de Jur, de la tribu de Judá, hizo todo lo que mandó Jehová a Moisés.
+Y Betsalel hijo de Uri hijo de Jur, de la tribu de Judá, hizo todo lo que mandó Yahvé a Moisés.
 
 ### 38:23
 
@@ -4611,7 +4611,7 @@ y las basas del atrio alrededor, y las basas de la puerta del atrio, y todas las
 
 ### 39:1
 
-Y del azul y la púrpura y el carmesí hicieron vestidos del servicio para ministrar en el santo, e hicieron los vestidos de la santidad que a Aarón, conforme a lo que mandó Jehová a Moisés.
+Y del azul y la púrpura y el carmesí hicieron vestidos del servicio para ministrar en el santo, e hicieron los vestidos de la santidad que a Aarón, conforme a lo que mandó Yahvé a Moisés.
 
 ### 39:2
 
@@ -4627,7 +4627,7 @@ Hombros hicieron a él, que se unen; sobre dos fue juntado.
 
 ### 39:5
 
-Y el cinturón de su efodadura que sobre él, desde él él, como su obra: oro, azul y púrpura y carmesí y lino fino retorcido, conforme a lo que mandó Jehová a Moisés.
+Y el cinturón de su efodadura que sobre él, desde él él, como su obra: oro, azul y púrpura y carmesí y lino fino retorcido, conforme a lo que mandó Yahvé a Moisés.
 
 ### 39:6
 
@@ -4635,7 +4635,7 @@ E hicieron las piedras del ónice, rodeadas de engastes de oro, grabadas de grab
 
 ### 39:7
 
-Y las puso sobre los hombros del efod, piedras de memorial a hijos de Israel, conforme a lo que mandó Jehová a Moisés.
+Y las puso sobre los hombros del efod, piedras de memorial a hijos de Israel, conforme a lo que mandó Yahvé a Moisés.
 
 ### 39:8
 
@@ -4691,7 +4691,7 @@ E hicieron dos anillos de oro, y los dieron sobre los dos hombros del efod desde
 
 ### 39:21
 
-Y ataron el pectoral desde sus anillos a los anillos del efod con cordón de azul, para estar sobre el cinturón del efod, y no se apartará el pectoral de sobre el efod, conforme a lo que mandó Jehová a Moisés.
+Y ataron el pectoral desde sus anillos a los anillos del efod con cordón de azul, para estar sobre el cinturón del efod, y no se apartará el pectoral de sobre el efod, conforme a lo que mandó Yahvé a Moisés.
 
 ### 39:22
 
@@ -4711,7 +4711,7 @@ E hicieron campanillas de oro puro, y dieron las campanillas en medio de las gra
 
 ### 39:26
 
-Campanilla y granada, campanilla y granada, sobre las faldas del manto alrededor, para ministrar, conforme a lo que mandó Jehová a Moisés.
+Campanilla y granada, campanilla y granada, sobre las faldas del manto alrededor, para ministrar, conforme a lo que mandó Yahvé a Moisés.
 
 ### 39:27
 
@@ -4723,19 +4723,19 @@ y el turbante de lino fino, y los tocados de los gorros, de lino fino, y los cal
 
 ### 39:29
 
-y el cinto de lino fino retorcido y azul y púrpura y carmesí, obra de bordador, conforme a lo que mandó Jehová a Moisés.
+y el cinto de lino fino retorcido y azul y púrpura y carmesí, obra de bordador, conforme a lo que mandó Yahvé a Moisés.
 
 ### 39:30
 
-E hicieron la diadema, corona de la santidad, oro puro, y escribieron sobre ella escritura de grabados de sello: Santidad a Jehová.
+E hicieron la diadema, corona de la santidad, oro puro, y escribieron sobre ella escritura de grabados de sello: Santidad a Yahvé.
 
 ### 39:31
 
-Y dieron sobre él cordón de azul, para dar sobre el turbante desde arriba, conforme a lo que mandó Jehová a Moisés.
+Y dieron sobre él cordón de azul, para dar sobre el turbante desde arriba, conforme a lo que mandó Yahvé a Moisés.
 
 ### 39:32
 
-Y concluyó todo el servicio del tabernáculo de la tienda de reunión; y los hijos de Israel hicieron conforme a todo lo que mandó Jehová a Moisés; así hicieron.
+Y concluyó todo el servicio del tabernáculo de la tienda de reunión; y los hijos de Israel hicieron conforme a todo lo que mandó Yahvé a Moisés; así hicieron.
 
 ### 39:33
 
@@ -4775,17 +4775,17 @@ los vestidos del servicio para ministrar en el santo, los vestidos de la santida
 
 ### 39:42
 
-Conforme a todo lo que mandó Jehová a Moisés, así hicieron hijos de Israel todo el servicio.
+Conforme a todo lo que mandó Yahvé a Moisés, así hicieron hijos de Israel todo el servicio.
 
 ### 39:43
 
-Y vio Moisés toda la obra, y he aquí: hicieron a ella conforme a lo que mandó Jehová; así hicieron. Y bendijo a ellos Moisés.
+Y vio Moisés toda la obra, y he aquí: hicieron a ella conforme a lo que mandó Yahvé; así hicieron. Y bendijo a ellos Moisés.
 
 ## Capítulo 40
 
 ### 40:1
 
-Y habló Jehová a Moisés, diciendo:
+Y habló Yahvé a Moisés, diciendo:
 
 ### 40:2
 
@@ -4845,7 +4845,7 @@ Y los ungirás conforme a lo que ungiste a su padre, y sacerdotearán a mí; y s
 
 ### 40:16
 
-Y hizo Moisés conforme a todo lo que mandó Jehová a él; así hizo.
+Y hizo Moisés conforme a todo lo que mandó Yahvé a él; así hizo.
 
 ### 40:17
 
@@ -4857,7 +4857,7 @@ Y levantó Moisés el tabernáculo, y dio sus basas, y puso sus tablas, y dio su
 
 ### 40:19
 
-Y extendió la tienda sobre el tabernáculo, y puso la cubierta de la tienda sobre él desde arriba, conforme a lo que mandó Jehová a Moisés.
+Y extendió la tienda sobre el tabernáculo, y puso la cubierta de la tienda sobre él desde arriba, conforme a lo que mandó Yahvé a Moisés.
 
 ### 40:20
 
@@ -4865,7 +4865,7 @@ Y tomó y dio el testimonio al arca, y puso las varas sobre el arca, y dio la cu
 
 ### 40:21
 
-Y trajo el arca al tabernáculo, y puso el velo de la cortina, y cubrió sobre el arca del testimonio, conforme a lo que mandó Jehová a Moisés.
+Y trajo el arca al tabernáculo, y puso el velo de la cortina, y cubrió sobre el arca del testimonio, conforme a lo que mandó Yahvé a Moisés.
 
 ### 40:22
 
@@ -4873,7 +4873,7 @@ Y dio la mesa en la tienda de reunión sobre el muslo del tabernáculo, hacia el
 
 ### 40:23
 
-Y ordenó sobre ella el orden de pan delante de Jehová, conforme a lo que mandó Jehová a Moisés.
+Y ordenó sobre ella el orden de pan delante de Yahvé, conforme a lo que mandó Yahvé a Moisés.
 
 ### 40:24
 
@@ -4881,7 +4881,7 @@ Y puso el candelabro en tienda de reunión, frente a la mesa, sobre el muslo del
 
 ### 40:25
 
-Y hizo subir las lámparas delante de Jehová, conforme a lo que mandó Jehová a Moisés.
+Y hizo subir las lámparas delante de Yahvé, conforme a lo que mandó Yahvé a Moisés.
 
 ### 40:26
 
@@ -4889,7 +4889,7 @@ Y puso el altar del oro en tienda de reunión delante del velo.
 
 ### 40:27
 
-Y hizo humear sobre él incienso de aromas, conforme a lo que mandó Jehová a Moisés.
+Y hizo humear sobre él incienso de aromas, conforme a lo que mandó Yahvé a Moisés.
 
 ### 40:28
 
@@ -4897,7 +4897,7 @@ Y puso la cortina de la abertura al tabernáculo.
 
 ### 40:29
 
-Y el altar del holocausto puso a la abertura del tabernáculo de la tienda de reunión, e hizo subir sobre él el holocausto y la ofrenda, conforme a lo que mandó Jehová a Moisés.
+Y el altar del holocausto puso a la abertura del tabernáculo de la tienda de reunión, e hizo subir sobre él el holocausto y la ofrenda, conforme a lo que mandó Yahvé a Moisés.
 
 ### 40:30
 
@@ -4909,7 +4909,7 @@ Y lavaron desde él Moisés y Aarón y sus hijos sus manos y sus pies.
 
 ### 40:32
 
-En su entrar a la tienda de reunión y en su acercarse al altar lavarán, conforme a lo que mandó Jehová a Moisés.
+En su entrar a la tienda de reunión y en su acercarse al altar lavarán, conforme a lo que mandó Yahvé a Moisés.
 
 ### 40:33
 
@@ -4917,11 +4917,11 @@ Y levantó el atrio alrededor al tabernáculo y al altar, y dio la cortina de la
 
 ### 40:34
 
-Y la nube cubrió tienda de reunión, y la gloria de Jehová llenó el tabernáculo.
+Y la nube cubrió tienda de reunión, y la gloria de Yahvé llenó el tabernáculo.
 
 ### 40:35
 
-Y no pudo Moisés entrar a la tienda de reunión, porque moró sobre ella la nube, y la gloria de Jehová llenó el tabernáculo.
+Y no pudo Moisés entrar a la tienda de reunión, porque moró sobre ella la nube, y la gloria de Yahvé llenó el tabernáculo.
 
 ### 40:36
 
@@ -4933,4 +4933,4 @@ Y si no se alzaba la nube, no partían hasta el día de su alzarse.
 
 ### 40:38
 
-Porque la nube de Jehová sobre el mishkán de día, y fuego será de noche en él, a ojos de toda casa de Israel en todos sus viajes.
+Porque la nube de Yahvé sobre el mishkán de día, y fuego será de noche en él, a ojos de toda casa de Israel en todos sus viajes.

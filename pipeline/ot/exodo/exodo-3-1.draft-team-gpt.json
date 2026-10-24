@@ -1,0 +1,164 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:1",
+  "chapter": 3,
+  "verse": 1,
+  "spanish": "Y Moisés estaba pastoreando el rebaño de Jetró, su suegro, sacerdote de Madián; llevó el rebaño detrás del desierto y llegó al monte de Dios, a Horeb.",
+  "units": [
+    {
+      "es": "Y Moisés",
+      "sourceTokenIds": [
+        "h02003001001"
+      ]
+    },
+    {
+      "es": "estaba pastoreando",
+      "sourceTokenIds": [
+        "h02003001002",
+        "h02003001003"
+      ]
+    },
+    {
+      "es": "el rebaño de Jetró",
+      "sourceTokenIds": [
+        "h02003001004",
+        "h02003001005",
+        "h02003001006"
+      ]
+    },
+    {
+      "es": "su suegro, sacerdote de Madián",
+      "sourceTokenIds": [
+        "h02003001007",
+        "h02003001008",
+        "h02003001009"
+      ]
+    },
+    {
+      "es": "llevó el rebaño",
+      "sourceTokenIds": [
+        "h02003001010",
+        "h02003001011",
+        "h02003001012"
+      ]
+    },
+    {
+      "es": "detrás del desierto",
+      "sourceTokenIds": [
+        "h02003001013",
+        "h02003001014"
+      ]
+    },
+    {
+      "es": "y llegó",
+      "sourceTokenIds": [
+        "h02003001015"
+      ]
+    },
+    {
+      "es": "al monte de Dios",
+      "sourceTokenIds": [
+        "h02003001016",
+        "h02003001017",
+        "h02003001018"
+      ]
+    },
+    {
+      "es": "a Horeb",
+      "sourceTokenIds": [
+        "h02003001019"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003001002",
+        "h02003001003"
+      ],
+      "issue": "Construcción de pasado progresivo",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El qal perfecto de הָיָה seguido por el participio activo רֹעֶה forma el predicado compuesto y se expresa naturalmente como «estaba pastoreando».",
+      "alternatives": [
+        "pastoreaba",
+        "estaba apacentando"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003001005",
+        "h02003001006",
+        "h02003001007",
+        "h02003001008",
+        "h02003001009"
+      ],
+      "issue": "Relaciones dentro de la frase nominal",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "Los nodos NPofNP y Np-Appos vinculan el rebaño con Jetró y presentan «su suegro» y «sacerdote de Madián» como descripciones de Jetró.",
+      "alternatives": [
+        "el rebaño de su suegro Jetró, sacerdote de Madián"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003001007"
+      ],
+      "issue": "Elección de «suegro»",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La forma masculina singular con sufijo de tercera persona masculina y la posibilidad léxica de «padre de la esposa» sustentan «su suegro».",
+      "alternatives": [
+        "el padre de su esposa"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003001010",
+        "h02003001011",
+        "h02003001012"
+      ],
+      "issue": "Movimiento del rebaño",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El verbo qal secuencial tiene como objeto explícito el rebaño; «llevó el rebaño» expresa de manera idiomática que Moisés lo condujo.",
+      "alternatives": [
+        "condujo el rebaño",
+        "guio el rebaño"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003001013",
+        "h02003001014"
+      ],
+      "issue": "Ubicación respecto del desierto",
+      "evidenceLevel": "surface",
+      "rationale": "La preposición אַחַר precede directamente a «el desierto» y conserva la relación espacial concreta mediante «detrás del desierto».",
+      "alternatives": [
+        "a la parte posterior del desierto"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003001016",
+        "h02003001017",
+        "h02003001018",
+        "h02003001019"
+      ],
+      "issue": "Dos complementos direccionales del verbo «llegó»",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La estructura marca un complemento hacia «el monte de Dios» y analiza Horeb como un segundo complemento preposicional; el sufijo direccional de חֹרֵבָה se representa con «a Horeb».",
+      "alternatives": [
+        "llegó a Horeb, al monte de Dios",
+        "llegó al monte de Dios, Horeb"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "694501301e63e83229127b770164440b647c498afa8896987acca46706c8d1e5"
+}

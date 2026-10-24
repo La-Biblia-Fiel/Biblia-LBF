@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 12,
+  "spanish": "Y dijo: «Porque estaré contigo, y esta *es* para ti la señal de que yo te he enviado: cuando saques al pueblo de Egipto, servirán a Dios sobre este monte».",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Falta concordancia: el antecedente «el pueblo» es singular, por lo que el verbo debe ser «servirá», salvo que se exprese un sujeto plural.",
+      "spanishSpan": "servirán"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "99cfa41a100aa42578553462da1733476b2408e58e783825096c84aab307d2c2"
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 8,
+  "spanish": "Y he descendido para librarlo de la mano de Egipto y para hacerlo subir de aquella tierra a una tierra buena y ancha, a una tierra que mana leche y miel, al lugar del cananeo y del hitita y del amorreo y del ferezeo y del heveo y del jebuseo.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Calco poco natural; en español corriente se diría «del poder de Egipto» o «de manos de los egipcios».",
+      "spanishSpan": "de la mano de Egipto"
+    },
+    {
+      "severity": "fail",
+      "issue": "La enumeración en singular resulta poco natural para designar los territorios de esos pueblos; requiere formas plurales como «de los cananeos, de los hititas...».",
+      "spanishSpan": "del cananeo y del hitita y del amorreo y del ferezeo y del heveo y del jebuseo"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "9f612fef5fecf2f3589353d4a3afbb03ba55734e8c041ee3d3ea6cf1b06ef1ff"
+}

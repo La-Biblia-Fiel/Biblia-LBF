@@ -17,7 +17,7 @@ Signed columns stay empty until a human writes a name and an ISO date.
 | book | testament | translation | alignment | translation_by | translation_on | alignment_by | alignment_on | notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | genesis | ot | draft | draft |  |  |  |  | names pass 2026-09-19 — re-approve |
-| exodo | ot | ready | none |  |  |  |  | names pass 2026-09-19 |
+| exodo | ot | draft | none |  |  |  |  | Yahvé standardized; chapters under named human review |
 | levitico | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
 | numeros | ot | draft | none |  |  |  |  | names pass 2026-09-19 |
 | deuteronomio | ot | draft | none |  |  |  |  | names pass 2026-09-19 |

@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 2,
+  "spanish": "El mensajero de Yahvé se le apareció en una llama de fuego, desde en medio de la zarza. Vio, y he aquí que la zarza ardía en el fuego, pero la zarza no era consumida.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "La acumulación «desde en medio de» y su posición después de la coma producen un enlace locativo conspicuamente forzado; «en medio de la zarza» o una reordenación preservaría el sentido con flujo natural.",
+      "spanishSpan": "desde en medio de la zarza"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "3fcb51ac978d34678af4e757929373581a112d58caf39dbadfb717038ba8ce5a"
+}

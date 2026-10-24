@@ -11,7 +11,9 @@ Does not write translation markdown or STATUS.md.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -28,7 +30,7 @@ from draft_lib import (
     request_path,
     write_json,
 )
-from source_packet import build_packet, packet_path, write_packet
+from source_packet import build_packet, packet_path, validate_packet, write_packet
 from usage_lib import record_call
 
 
@@ -46,6 +48,7 @@ def main() -> int:
     stored = packet_path(book, args.chapter, args.verse)
     if stored.is_file():
         packet = json.loads(stored.read_text(encoding="utf-8"))
+        validate_packet(packet)
     else:
         packet = build_packet(args.book, args.chapter, args.verse)
         stored = write_packet(packet)
@@ -53,7 +56,7 @@ def main() -> int:
     system = load_system()
     user_prompt = build_user_prompt(packet)
     req_file = request_path(args.book, args.chapter, args.verse, args.label)
-    write_json(req_file, {"system": system, "user": user_prompt, "packetRef": str(stored)})
+    write_json(req_file, {"system": system, "user": user_prompt, "packetRef": str(stored), "model": os.environ.get("LBF_GPT_MODEL", "gpt-5.1"), "reasoningEffort": (os.environ.get("LBF_GPT_REASONING") or "medium").strip()})
     out = draft_path(args.book, args.chapter, args.verse, args.label)
 
     if args.prompt_only:
@@ -67,6 +70,8 @@ def main() -> int:
             return 2
         raw = json.loads(ingest_path.read_text(encoding="utf-8"))
         draft = normalize_draft(raw, packet, args.label)
+        draft["reasoningEffort"] = (os.environ.get("LBF_GPT_REASONING") or "medium").strip()
+        draft["packetSha256"] = hashlib.sha256(json.dumps(packet, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
         write_json(out, draft)
         print(f"draft  {out}")
         print(draft["spanish"])
@@ -89,6 +94,8 @@ def main() -> int:
         return 2
 
     draft = normalize_draft(raw, packet, args.label)
+    draft["reasoningEffort"] = (os.environ.get("LBF_GPT_REASONING") or "medium").strip()
+    draft["packetSha256"] = hashlib.sha256(json.dumps(packet, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
     write_json(out, draft)
     print(f"draft  {out}")
     print(draft["spanish"])

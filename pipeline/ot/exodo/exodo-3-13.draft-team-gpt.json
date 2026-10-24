@@ -1,0 +1,163 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:13",
+  "chapter": 3,
+  "verse": 13,
+  "spanish": "Y Moisés dijo a Dios: «He aquí, yo voy a los hijos de Israel y les digo: “El Dios de sus padres me ha enviado a ustedes”. Y me dicen: “¿Cuál *es* su nombre?”. ¿Qué les diré?»",
+  "units": [
+    {
+      "es": "Y Moisés dijo a Dios:",
+      "sourceTokenIds": [
+        "h02003013001",
+        "h02003013002",
+        "h02003013003",
+        "h02003013004"
+      ]
+    },
+    {
+      "es": "«He aquí, yo voy",
+      "sourceTokenIds": [
+        "h02003013005",
+        "h02003013006",
+        "h02003013007"
+      ]
+    },
+    {
+      "es": "a los hijos de Israel",
+      "sourceTokenIds": [
+        "h02003013008",
+        "h02003013009",
+        "h02003013010"
+      ]
+    },
+    {
+      "es": "y les digo:",
+      "sourceTokenIds": [
+        "h02003013011",
+        "h02003013012"
+      ]
+    },
+    {
+      "es": "“El Dios de sus padres me ha enviado a ustedes”.",
+      "sourceTokenIds": [
+        "h02003013013",
+        "h02003013014",
+        "h02003013015",
+        "h02003013016"
+      ]
+    },
+    {
+      "es": "Y me dicen:",
+      "sourceTokenIds": [
+        "h02003013017",
+        "h02003013018"
+      ]
+    },
+    {
+      "es": "“¿Cuál *es* su nombre?”.",
+      "sourceTokenIds": [
+        "h02003013019",
+        "h02003013020"
+      ]
+    },
+    {
+      "es": "¿Qué les diré?»",
+      "sourceTokenIds": [
+        "h02003013021",
+        "h02003013022",
+        "h02003013023"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003013005",
+        "h02003013006",
+        "h02003013007",
+        "h02003013008",
+        "h02003013009",
+        "h02003013010"
+      ],
+      "issue": "Valor direccional y temporal de la cláusula con participio",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El pronombre de primera persona es sujeto, el participio qal es el predicado y la frase con אֶל señala como destino a los hijos de Israel; «yo voy a» expresa esa relación en español.",
+      "alternatives": [
+        "yo vengo a los hijos de Israel",
+        "yo iré a los hijos de Israel"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003013009",
+        "h02003013010"
+      ],
+      "issue": "Conservación de la relación constructa בְּנֵי יִשְׂרָאֵל",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El sustantivo plural constructo seguido del nombre propio forma «hijos de Israel», conservando la expresión concreta del texto.",
+      "alternatives": [
+        "israelitas"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003013011",
+        "h02003013012",
+        "h02003013017",
+        "h02003013018"
+      ],
+      "issue": "Presentación de las acciones previstas como secuencia discursiva",
+      "evidenceLevel": "context-discourse",
+      "rationale": "Las formas consecutivas continúan la situación introducida por «yo voy» y presentan lo que Moisés dirá y lo que sus interlocutores le dirán; el presente español mantiene esa escena proyectada.",
+      "alternatives": [
+        "y les diré; y me dirán"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003013013",
+        "h02003013014",
+        "h02003013015"
+      ],
+      "issue": "Número del referente de אֱלֹהֵי y sujeto de «ha enviado»",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La construcción «Dios de sus padres» funciona como sujeto del verbo qal perfecto en tercera persona masculina singular, por lo que el referente se expresa en singular como «Dios».",
+      "alternatives": [
+        "los dioses de sus padres"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003013016"
+      ],
+      "issue": "Representación de la segunda persona plural",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El sufijo de segunda persona masculina plural de la preposición se expresa en español latinoamericano como «a ustedes».",
+      "alternatives": [
+        "a ellos"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003013019",
+        "h02003013020"
+      ],
+      "issue": "Forma española de la pregunta nominal מַה שְּׁמוֹ",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La cláusula interrogativa hebrea carece de verbo expreso. «¿Cuál *es* su nombre?» conserva la pregunta por el nombre y añade únicamente la cópula exigida por el español, marcada en cursiva.",
+      "alternatives": [
+        "¿Qué nombre tiene?",
+        "¿Cómo se llama?"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "846cc3ed983e1e3fb97b85abfbc339feb978f1a2e03949d4cf83f62bf3999afe"
+}

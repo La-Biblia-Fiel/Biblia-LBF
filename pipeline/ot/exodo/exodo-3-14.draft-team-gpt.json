@@ -1,0 +1,143 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:14",
+  "chapter": 3,
+  "verse": 14,
+  "spanish": "Y Dios dijo a Moisés: «Seré el que seré». Y dijo: «Así dirás a los hijos de Israel: “Seré me envió a ustedes”».",
+  "units": [
+    {
+      "es": "Y dijo",
+      "sourceTokenIds": [
+        "h02003014001"
+      ]
+    },
+    {
+      "es": "Dios",
+      "sourceTokenIds": [
+        "h02003014002"
+      ]
+    },
+    {
+      "es": "a Moisés",
+      "sourceTokenIds": [
+        "h02003014003",
+        "h02003014004"
+      ]
+    },
+    {
+      "es": "Seré el que seré",
+      "sourceTokenIds": [
+        "h02003014005",
+        "h02003014006",
+        "h02003014007"
+      ]
+    },
+    {
+      "es": "Y dijo",
+      "sourceTokenIds": [
+        "h02003014008"
+      ]
+    },
+    {
+      "es": "Así dirás",
+      "sourceTokenIds": [
+        "h02003014009",
+        "h02003014010"
+      ]
+    },
+    {
+      "es": "a los hijos de Israel",
+      "sourceTokenIds": [
+        "h02003014011",
+        "h02003014012"
+      ]
+    },
+    {
+      "es": "Seré",
+      "sourceTokenIds": [
+        "h02003014013"
+      ]
+    },
+    {
+      "es": "me envió",
+      "sourceTokenIds": [
+        "h02003014014"
+      ]
+    },
+    {
+      "es": "a ustedes",
+      "sourceTokenIds": [
+        "h02003014015"
+      ]
+    }
+  ],
+  "uncertainties": [
+    {
+      "sourceTokenIds": [],
+      "issue": "El paquete no determina plenamente el valor temporal o aspectual de אֶהְיֶה. Se adopta provisionalmente «Seré» por la forma imperfecta, pero siguen abiertas opciones como «Soy», «Estaré» o «Existiré»; la misma decisión afecta sus tres apariciones."
+    }
+  ],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003014005",
+        "h02003014006",
+        "h02003014007"
+      ],
+      "issue": "Repetición de אֶהְיֶה y construcción relativa",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "Los dos verbos tienen la misma superficie, lema, conjugación qal imperfecta y primera persona singular; אֲשֶׁר introduce la relación entre ambos. «Seré el que seré» conserva la repetición y la construcción relativa sin explicar su significado.",
+      "alternatives": [
+        "Soy el que soy",
+        "Estaré como estaré",
+        "Existiré como existiré"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003014002",
+        "h02003014003",
+        "h02003014004"
+      ],
+      "issue": "Identidad del sujeto y destinatario de la primera declaración",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La estructura V-S-PP identifica אֱלֹהִים como sujeto de «dijo» y אֶל־מֹשֶׁה como destinatario. El referente divino se expresa como «Dios» y el nombre propio con su forma española convencional, «Moisés».",
+      "alternatives": []
+    },
+    {
+      "sourceTokenIds": [
+        "h02003014009",
+        "h02003014010",
+        "h02003014011",
+        "h02003014012"
+      ],
+      "issue": "Fuerza de כֹּה y relación constructa בְנֵי יִשְׂרָאֵל",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "כֹּה funciona como adverbio que modifica «dirás», y בְנֵי está en plural constructo con Israel. «Así dirás a los hijos de Israel» conserva ambas relaciones.",
+      "alternatives": [
+        "De este modo dirás a los hijos de Israel"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003014013",
+        "h02003014014",
+        "h02003014015"
+      ],
+      "issue": "Participantes de la cláusula final",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La sintaxis marca אֶהְיֶה como sujeto, שְׁלָחַנִי como verbo con objeto de primera persona singular y אֲלֵיכֶם como destino de segunda persona plural. Por ello: «Seré me envió a ustedes».",
+      "alternatives": [
+        "Seré me ha enviado a ustedes"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "a5eabc37ae7c026779b3e24882e60d2fd3a298f998f04ff072ed4d27b86817c8"
+}

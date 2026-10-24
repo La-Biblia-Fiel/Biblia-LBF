@@ -1,0 +1,133 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:9",
+  "chapter": 3,
+  "verse": 9,
+  "spanish": "Y ahora, he aquí, el clamor de los hijos de Israel ha llegado a mí; y también he visto la opresión con que Egipto los oprime.",
+  "units": [
+    {
+      "es": "Y ahora",
+      "sourceTokenIds": [
+        "h02003009001"
+      ]
+    },
+    {
+      "es": "he aquí",
+      "sourceTokenIds": [
+        "h02003009002"
+      ]
+    },
+    {
+      "es": "el clamor",
+      "sourceTokenIds": [
+        "h02003009003"
+      ]
+    },
+    {
+      "es": "de los hijos",
+      "sourceTokenIds": [
+        "h02003009004"
+      ]
+    },
+    {
+      "es": "de Israel",
+      "sourceTokenIds": [
+        "h02003009005"
+      ]
+    },
+    {
+      "es": "ha llegado",
+      "sourceTokenIds": [
+        "h02003009006"
+      ]
+    },
+    {
+      "es": "a mí",
+      "sourceTokenIds": [
+        "h02003009007"
+      ]
+    },
+    {
+      "es": "y también",
+      "sourceTokenIds": [
+        "h02003009008"
+      ]
+    },
+    {
+      "es": "he visto",
+      "sourceTokenIds": [
+        "h02003009009"
+      ]
+    },
+    {
+      "es": "la opresión",
+      "sourceTokenIds": [
+        "h02003009010",
+        "h02003009011"
+      ]
+    },
+    {
+      "es": "con que",
+      "sourceTokenIds": [
+        "h02003009012"
+      ]
+    },
+    {
+      "es": "Egipto",
+      "sourceTokenIds": [
+        "h02003009013"
+      ]
+    },
+    {
+      "es": "los oprime",
+      "sourceTokenIds": [
+        "h02003009014",
+        "h02003009015"
+      ]
+    }
+  ],
+  "uncertainties": [
+    {
+      "sourceTokenIds": [],
+      "issue": "La combinación de «Egipto» como sujeto con el participio hebreo plural puede reflejar un sujeto colectivo; el paquete no determina si en español debe conservarse «Egipto los oprime» o explicitarse «los egipcios los oprimen»."
+    }
+  ],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003009011",
+        "h02003009012",
+        "h02003009014",
+        "h02003009015"
+      ],
+      "issue": "Representación de la relación entre la opresión y la acción verbal mediante «la opresión con que… los oprime»",
+      "evidenceLevel": "context-discourse",
+      "rationale": "El sustantivo definido es el objeto de «he visto» y lleva una cláusula relativa cuyo verbo comparte el campo léxico de oprimir; la formulación conserva tanto la imagen nominal como la acción repetida.",
+      "alternatives": [
+        "la presión con que Egipto los presiona",
+        "la angustia que Egipto les causa"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003009013",
+        "h02003009014",
+        "h02003009015"
+      ],
+      "issue": "Concordancia española de «Egipto» con un participio hebreo masculino plural",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La sintaxis identifica a מִצְרַיִם como sujeto y a אֹתָם como objeto plural. Se conserva el nombre propio «Egipto» y se usa concordancia singular normal en español, aunque el participio hebreo presenta forma plural.",
+      "alternatives": [
+        "los egipcios los oprimen"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "4286e6edaf9e3f52427507f50e39e0fa58e3826e9a9f70336900e8061900953d"
+}

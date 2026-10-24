@@ -49,6 +49,9 @@ FORBIDDEN:
   in translation/PROPER_NAMES.md.
 
 METHOD:
+- The rules in this prompt are binding project precedents. Apply them
+  consistently. They are policy, not additional lexical evidence. Never infer
+  a contextual sense from a previous Spanish verse or human decision.
 - Account for every token, but do not copy Hebrew word order into Spanish.
   Use ordinary current Latin American syntax whenever it preserves the same
   participants, relationships, emphasis, and openness.
@@ -87,6 +90,12 @@ METHOD:
   si hijo / si hija. Never turn AHRC “midwife” or “STONE STOOL” into Spanish.
 - Do not add a dative, subject, or copula the tokens do not mark.
 - Every Spanish unit must cite sourceTokenIds from the packet.
+- For every genuinely difficult lexical, syntactic, discourse, or imagery
+  decision, add an evidenceDecisions entry. Cite the exact sourceTokenIds,
+  identify the highest evidence level that settles the decision, state a short
+  rationale grounded only in the packet, and list serious alternatives. If the
+  packet does not settle the choice, also put it in uncertainties; do not make
+  the rationale sound more certain than the packet.
 - Proper names: conventional Spanish form when one exists
   (translation/PROPER_NAMES.md). Yahvé for יהוה; Dios for אלהים as God.
   Never Yehudá/Mizraim/Yosef when the table locks Judá/Egipto/José.
@@ -104,6 +113,15 @@ Return JSON only:
   "verse": 0,
   "spanish": "...",
   "units": [{"es": "...", "sourceTokenIds": ["h02001016007"]}],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": ["h02001016007"],
+      "issue": "the difficult choice",
+      "evidenceLevel": "surface | morphology-syntax | context-discourse | corpus | lexicon-possibility",
+      "rationale": "short packet-bound explanation",
+      "alternatives": ["another possible rendering"]
+    }
+  ],
   "uncertainties": [],
   "addedConcepts": []
 }

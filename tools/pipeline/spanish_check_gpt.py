@@ -8,7 +8,9 @@ alignment, or STATUS.md.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -77,7 +79,7 @@ def main() -> int:
     out = artifact_path(args.book, args.chapter, args.verse, args.label)
     request = out.with_suffix(".request.json")
     user = "Verify this Spanish line. JSON only.\n\n" + json.dumps({"spanish": spanish}, ensure_ascii=False)
-    write_json(request, {"system": SYSTEM, "user": user, "candidateRef": args.candidate_file})
+    write_json(request, {"system": SYSTEM, "user": user, "candidateRef": args.candidate_file, "model": os.environ.get("LBF_GPT_MODEL", "gpt-5.1"), "reasoningEffort": (os.environ.get("LBF_GPT_REASONING") or "medium").strip()})
     if args.prompt_only:
         print(f"wrote GPT Spanish-check request {request}")
         return 0
@@ -89,6 +91,9 @@ def main() -> int:
         raw, usage = call_openai(SYSTEM, user)
         record_call(args.book, args.chapter, args.verse, "spanish-check-gpt", usage)
     result = normalize(raw, args.book, args.chapter, args.verse, spanish)
+    result["model"] = os.environ.get("LBF_GPT_MODEL", "gpt-5.1")
+    result["reasoningEffort"] = (os.environ.get("LBF_GPT_REASONING") or "medium").strip()
+    result["candidateSha256"] = hashlib.sha256(json.dumps(candidate, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
     write_json(out, result)
     print(f"{result['verdict']}  {out}  findings={len(result['findings'])}")
     return 0 if result["verdict"] == "pass" else 1

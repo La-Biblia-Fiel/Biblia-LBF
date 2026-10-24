@@ -1,0 +1,134 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:4",
+  "chapter": 3,
+  "verse": 4,
+  "spanish": "Y Yahvé vio que se había apartado para ver; y Dios lo llamó desde en medio de la zarza y dijo: «¡Moisés, Moisés!». Y dijo: «¡Aquí estoy!».",
+  "units": [
+    {
+      "es": "Y Yahvé vio",
+      "sourceTokenIds": [
+        "h02003004001",
+        "h02003004002"
+      ]
+    },
+    {
+      "es": "que se había apartado",
+      "sourceTokenIds": [
+        "h02003004003",
+        "h02003004004"
+      ]
+    },
+    {
+      "es": "para ver;",
+      "sourceTokenIds": [
+        "h02003004005"
+      ]
+    },
+    {
+      "es": "y Dios lo llamó",
+      "sourceTokenIds": [
+        "h02003004006",
+        "h02003004007",
+        "h02003004008"
+      ]
+    },
+    {
+      "es": "desde en medio de la zarza",
+      "sourceTokenIds": [
+        "h02003004009",
+        "h02003004010"
+      ]
+    },
+    {
+      "es": "y dijo:",
+      "sourceTokenIds": [
+        "h02003004011"
+      ]
+    },
+    {
+      "es": "«¡Moisés, Moisés!».",
+      "sourceTokenIds": [
+        "h02003004012",
+        "h02003004013"
+      ]
+    },
+    {
+      "es": "Y dijo:",
+      "sourceTokenIds": [
+        "h02003004014"
+      ]
+    },
+    {
+      "es": "«¡Aquí estoy!».",
+      "sourceTokenIds": [
+        "h02003004015"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003004003",
+        "h02003004004",
+        "h02003004005"
+      ],
+      "issue": "Relación temporal y final de la acción de apartarse para ver",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "כִּי introduce la cláusula percibida; סָר es qal perfecto 3ms y לִרְאוֹת es un infinitivo constructo con preposición dependiente del verbo. «Se había apartado para ver» expresa la acción anterior percibida y su finalidad.",
+      "alternatives": [
+        "que se apartó para mirar",
+        "que se había desviado para ver"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003004006",
+        "h02003004007",
+        "h02003004008",
+        "h02003004009",
+        "h02003004010"
+      ],
+      "issue": "Participantes y procedencia del llamado",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La estructura V-PP-S-PP identifica a Dios como sujeto pospuesto, a la forma con sufijo 3ms como destinatario del llamado y a מִתּוֹךְ הַסְּנֶה como el lugar desde cuyo interior procede.",
+      "alternatives": [
+        "Dios llamó hacia él de en medio de la zarza",
+        "Dios lo llamó de en medio de la zarza"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003004009",
+        "h02003004010"
+      ],
+      "issue": "Representación concreta de סְנֶה",
+      "evidenceLevel": "lexicon-possibility",
+      "rationale": "La entrada léxica suministrada identifica el referente como un arbusto de zarzamoras; «zarza» conserva de manera natural la imagen concreta de un arbusto.",
+      "alternatives": [
+        "arbusto de zarzamoras"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003004015"
+      ],
+      "issue": "Expresión idiomática del demostrativo con sufijo de primera persona",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "הִנֵּנִי combina el demostrativo con un sufijo de primera persona singular, y la estructura P-S presenta al hablante. «Aquí estoy» expresa esa autopresentación en español latinoamericano contemporáneo.",
+      "alternatives": [
+        "Heme aquí",
+        "Mírame"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "3a46f9aee01ce8764451c26e919840a2c16d5a70f3b4701505cf90990ca6d22f"
+}

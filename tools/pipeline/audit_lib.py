@@ -105,6 +105,12 @@ preserving repetition and openness.
 Every FAIL/WARN finding MUST cite one or more sourceTokenIds from the packet.
 A finding without token ids is discarded.
 
+For difficult decisions, explain the mismatch or uncertainty concretely in
+`issue`: name the governing surface, morphology/syntax, context/discourse, or
+corpus evidence and cite its sourceTokenIds. A lexicon may document an option
+but cannot settle it. Do not expose hidden chain-of-thought; return only the
+concise evidence-based finding required by the schema.
+
 Return JSON only:
 {
   "verdict": "pass" | "fail",

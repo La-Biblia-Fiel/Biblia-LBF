@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 1,
+  "spanish": "Y Moisés estaba pastoreando el rebaño de Jetró, su suegro, sacerdote de Madián; llevó el rebaño detrás del desierto y llegó al monte de Dios, a Horeb.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "«Detrás del desierto» es un calco poco natural y ambiguo; en español se diría «más allá del desierto» o «al otro lado del desierto».",
+      "spanishSpan": "detrás del desierto"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "ac9039b285d563d60babde72e9b1bff83cbac9f41fb1f1e9b5135c026c303e21"
+}

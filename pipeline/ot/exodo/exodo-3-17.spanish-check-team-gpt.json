@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 17,
+  "spanish": "Y dije: Los haré subir de la aflicción de Egipto a la tierra del cananeo, del hitita, del amorreo, del ferezeo, del heveo y del jebuseo, a una tierra que mana leche y miel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "«Hacer subir de la aflicción» es un calco poco natural: en español se saca a alguien de una aflicción y se lo lleva o hace subir a otro lugar.",
+      "spanishSpan": "Los haré subir de la aflicción de Egipto"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "fa94cb2dbf8954aa116c960494bb3f9a6252375bc7285ed26743356df81993a6"
+}

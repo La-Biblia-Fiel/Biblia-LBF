@@ -8,6 +8,7 @@ from pathlib import Path
 from books import ROOT, get_book
 
 RULES = (
+    (re.compile(r"\b(?:Jehová|Jehova|Yahweh|Yahveh|Yavé|Yave|YHWH)\b", re.I), "יהוה must be rendered Yahvé"),
     (re.compile(r"\bvosotros\b", re.I), "Spain vosotros"),
     (re.compile(r"\bvosotras\b", re.I), "Spain vosotras"),
     (re.compile(r"\b(?:hagáis|haréis|habéis|tenéis|veréis|veáis|asistáis|mataréis)\b", re.I), "Spain 2pl verb"),
@@ -57,3 +58,23 @@ def lint_spanish(spanish: str) -> list[dict]:
             }
         )
     return findings
+
+
+def lint_divine_name(spanish: str, packet: dict) -> list[dict]:
+    """Require one locked `Yahvé` for each explicit יהוה token."""
+    ids = [
+        str(token.get("sourceTokenId"))
+        for token in packet.get("tokens") or []
+        if re.search(r"(?:^|/)3068(?:\s|$)", str(token.get("lemma") or ""))
+    ]
+    if not ids:
+        return []
+    found = len(re.findall(r"\bYahvé\b", spanish or "", re.I))
+    if found == len(ids):
+        return []
+    return [{
+        "severity": "fail",
+        "sourceTokenIds": ids,
+        "issue": f"Every explicit יהוה must be rendered Yahvé (expected {len(ids)}, found {found})",
+        "spanishSpan": "Yahvé" if found else "",
+    }]

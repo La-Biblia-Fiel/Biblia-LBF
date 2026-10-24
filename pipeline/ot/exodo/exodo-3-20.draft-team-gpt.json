@@ -1,0 +1,142 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:20",
+  "chapter": 3,
+  "verse": 20,
+  "spanish": "Y extenderé mi mano y heriré a Egipto con todas mis maravillas que haré en medio de él; y después de eso los dejará ir.",
+  "units": [
+    {
+      "es": "Y extenderé mi mano",
+      "sourceTokenIds": [
+        "h02003020001",
+        "h02003020002",
+        "h02003020003"
+      ]
+    },
+    {
+      "es": "y heriré a Egipto",
+      "sourceTokenIds": [
+        "h02003020004",
+        "h02003020005",
+        "h02003020006"
+      ]
+    },
+    {
+      "es": "con todas mis maravillas",
+      "sourceTokenIds": [
+        "h02003020007",
+        "h02003020008"
+      ]
+    },
+    {
+      "es": "que haré en medio de él",
+      "sourceTokenIds": [
+        "h02003020009",
+        "h02003020010",
+        "h02003020011"
+      ]
+    },
+    {
+      "es": "y después de eso",
+      "sourceTokenIds": [
+        "h02003020012",
+        "h02003020013"
+      ]
+    },
+    {
+      "es": "los dejará ir",
+      "sourceTokenIds": [
+        "h02003020014",
+        "h02003020015"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003020001",
+        "h02003020002",
+        "h02003020003"
+      ],
+      "issue": "Sentido de שׁלח con «mi mano» como objeto directo",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La sintaxis V-O vincula el verbo con «mi mano» como objeto directo; entre los sentidos léxicamente posibles de שׁלח, «extender» conserva esa relación y produce una expresión natural en español.",
+      "alternatives": [
+        "enviaré mi mano"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003020004",
+        "h02003020005",
+        "h02003020006",
+        "h02003020007",
+        "h02003020008"
+      ],
+      "issue": "Relación entre herir a Egipto y las maravillas",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La estructura V-O-PP presenta a Egipto como objeto directo y la frase con ב como complemento de la acción; «con todas mis maravillas» conserva esa relación instrumental.",
+      "alternatives": [
+        "heriré a Egipto mediante todas mis maravillas"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003020008"
+      ],
+      "issue": "Representación del participio niphal femenino plural con sufijo de primera persona",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La forma plural con sufijo de primera persona funciona como núcleo nominal dentro de la frase cuantificada; «mis maravillas» conserva el plural y la posesión.",
+      "alternatives": [
+        "mis actos maravillosos"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003020009",
+        "h02003020010",
+        "h02003020011"
+      ],
+      "issue": "Referencia del sufijo masculino singular en בְּקִרְבּוֹ",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La cláusula relativa modifica «mis maravillas», y el complemento contiene un sufijo de tercera persona masculina singular; «en medio de él» preserva la imagen espacial y la referencia abierta del sufijo.",
+      "alternatives": [
+        "en su interior"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003020012",
+        "h02003020013"
+      ],
+      "issue": "Valor temporal de וְאַחֲרֵי כֵן",
+      "evidenceLevel": "corpus",
+      "rationale": "La combinación aparece en el corpus con una acción posterior; «después de eso» conserva la secuencia temporal y el demostrativo adverbial.",
+      "alternatives": [
+        "después"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003020014",
+        "h02003020015"
+      ],
+      "issue": "Sentido contextual del piel de שׁלח con objeto de segunda persona plural",
+      "evidenceLevel": "context-discourse",
+      "rationale": "El versículo anterior dice que el rey de Egipto no permitirá que los destinatarios vayan; aquí el mismo verbo con objeto plural expresa permitir su partida. «Los dejará ir» conserva la tercera persona singular y el objeto de segunda persona plural sin añadir un sujeto explícito.",
+      "alternatives": [
+        "los enviará",
+        "los despedirá"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "31bdf7741c275aad21d5fb53c21f7ed12c33ee9de9b5debfa280719b76bf99f3"
+}

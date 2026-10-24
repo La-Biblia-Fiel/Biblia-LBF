@@ -1,0 +1,144 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:11",
+  "chapter": 3,
+  "verse": 11,
+  "spanish": "Y Moisés dijo a Dios: «¿Quién *soy* yo para ir a Faraón y para sacar a los hijos de Israel de Egipto?»",
+  "units": [
+    {
+      "es": "Y",
+      "sourceTokenIds": [
+        "h02003011001"
+      ]
+    },
+    {
+      "es": "Moisés",
+      "sourceTokenIds": [
+        "h02003011002"
+      ]
+    },
+    {
+      "es": "dijo",
+      "sourceTokenIds": [
+        "h02003011001"
+      ]
+    },
+    {
+      "es": "a Dios:",
+      "sourceTokenIds": [
+        "h02003011003",
+        "h02003011004"
+      ]
+    },
+    {
+      "es": "«¿Quién *soy* yo",
+      "sourceTokenIds": [
+        "h02003011005",
+        "h02003011006"
+      ]
+    },
+    {
+      "es": "para ir",
+      "sourceTokenIds": [
+        "h02003011007",
+        "h02003011008"
+      ]
+    },
+    {
+      "es": "a Faraón",
+      "sourceTokenIds": [
+        "h02003011009",
+        "h02003011010"
+      ]
+    },
+    {
+      "es": "y para sacar",
+      "sourceTokenIds": [
+        "h02003011011",
+        "h02003011012"
+      ]
+    },
+    {
+      "es": "a los hijos de Israel",
+      "sourceTokenIds": [
+        "h02003011013",
+        "h02003011014",
+        "h02003011015"
+      ]
+    },
+    {
+      "es": "de Egipto?»",
+      "sourceTokenIds": [
+        "h02003011016"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003011005",
+        "h02003011006"
+      ],
+      "issue": "Copula necesaria en la cláusula interrogativa nominal",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La sintaxis analiza מִי como predicado y אָנֹכִי como sujeto, sin verbo expreso. El español requiere la copula «soy», que por ello se marca en cursiva.",
+      "alternatives": [
+        "¿Yo quién?"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003011005",
+        "h02003011006",
+        "h02003011007",
+        "h02003011008",
+        "h02003011011",
+        "h02003011012"
+      ],
+      "issue": "Relación de las dos cláusulas con «¿Quién soy yo?»",
+      "evidenceLevel": "context-discourse",
+      "rationale": "Las dos cláusulas introducidas por כִּי dependen de la pregunta «¿Quién soy yo?» y retoman las acciones encomendadas en el contexto anterior. Los infinitivos controlados por «yo» expresan idiomáticamente esa relación en español, y la repetición de כִּי se conserva mediante «para... y para...».",
+      "alternatives": [
+        "¿Quién soy yo, que vaya... y que saque...?",
+        "¿Quién soy yo para que vaya... y para que saque...?"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003011012",
+        "h02003011013",
+        "h02003011014",
+        "h02003011015",
+        "h02003011016"
+      ],
+      "issue": "Fuerza causativa de אוֹצִיא",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El verbo está en hiphil, con «los hijos de Israel» como objeto directo y Egipto como punto de procedencia. «Sacar» conserva la fuerza causativa y la relación entre objeto y procedencia.",
+      "alternatives": [
+        "hacer salir",
+        "llevar fuera"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003011014",
+        "h02003011015"
+      ],
+      "issue": "Conservación de la construcción «hijos de Israel»",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "בְּנֵי es un sustantivo masculino plural en estado constructo y יִשְׂרָאֵל es el nombre que lo completa. «Los hijos de Israel» conserva esa construcción concreta.",
+      "alternatives": [
+        "los israelitas"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "096d728a993b53b0f70c1b5813fd3160f9dc89a86ab579c6336938f3158cbc12"
+}

@@ -1,0 +1,190 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:15",
+  "chapter": 3,
+  "verse": 15,
+  "spanish": "Dios dijo además a Moisés: «Así dirás a los hijos de Israel: “Yahvé, el Dios de sus padres, el Dios de Abraham, el Dios de Isaac y el Dios de Jacob, me envió a ustedes”. Este *es* mi nombre para siempre, y este *es* mi recuerdo de generación en generación».",
+  "units": [
+    {
+      "es": "Dios dijo además a Moisés:",
+      "sourceTokenIds": [
+        "h02003015001",
+        "h02003015002",
+        "h02003015003",
+        "h02003015004",
+        "h02003015005"
+      ]
+    },
+    {
+      "es": "«Así dirás a los hijos de Israel:",
+      "sourceTokenIds": [
+        "h02003015006",
+        "h02003015007",
+        "h02003015008",
+        "h02003015009",
+        "h02003015010"
+      ]
+    },
+    {
+      "es": "“Yahvé, el Dios de sus padres, el Dios de Abraham, el Dios de Isaac y el Dios de Jacob,",
+      "sourceTokenIds": [
+        "h02003015011",
+        "h02003015012",
+        "h02003015013",
+        "h02003015014",
+        "h02003015015",
+        "h02003015016",
+        "h02003015017",
+        "h02003015018",
+        "h02003015019"
+      ]
+    },
+    {
+      "es": "me envió a ustedes”.",
+      "sourceTokenIds": [
+        "h02003015020",
+        "h02003015021"
+      ]
+    },
+    {
+      "es": "Este *es* mi nombre para siempre,",
+      "sourceTokenIds": [
+        "h02003015022",
+        "h02003015023",
+        "h02003015024"
+      ]
+    },
+    {
+      "es": "y este *es* mi recuerdo de generación en generación».",
+      "sourceTokenIds": [
+        "h02003015025",
+        "h02003015026",
+        "h02003015027",
+        "h02003015028"
+      ]
+    }
+  ],
+  "uncertainties": [
+    {
+      "sourceTokenIds": [
+        "h02003015002"
+      ],
+      "issue": "עוֹד puede señalar adición discursiva o repetición del acto de decir."
+    },
+    {
+      "sourceTokenIds": [
+        "h02003015026"
+      ],
+      "issue": "El paquete permite tanto «recuerdo» como «memorial» para זִכְרִי y no resuelve plenamente la elección."
+    }
+  ],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003015001",
+        "h02003015002",
+        "h02003015003",
+        "h02003015004",
+        "h02003015005"
+      ],
+      "issue": "Valor discursivo de עוֹד junto al segundo acto de decir",
+      "evidenceLevel": "context-discourse",
+      "rationale": "El adverbio עוֹד acompaña otro acto de decir de Dios a Moisés inmediatamente después del acto paralelo de 3:14; «además» expresa la continuación discursiva sin alterar los participantes.",
+      "alternatives": [
+        "Dios volvió a decir a Moisés",
+        "Dios dijo de nuevo a Moisés"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003015011",
+        "h02003015012",
+        "h02003015013",
+        "h02003015014",
+        "h02003015015",
+        "h02003015016",
+        "h02003015017",
+        "h02003015018",
+        "h02003015019"
+      ],
+      "issue": "Relación entre Yahvé y la serie «Dios de...»",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La estructura marca a Yahvé y toda la serie nominal como sujeto en aposición; por eso se conserva «Yahvé, el Dios de sus padres...» como una sola designación del sujeto.",
+      "alternatives": [
+        "Yahvé, Dios de sus padres"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003015020",
+        "h02003015021"
+      ],
+      "issue": "Persona y dirección de «me envió a ustedes»",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "שְׁלָחַנִי es qal perfecto 3ms con objeto de primera persona singular, y אֲלֵיכֶם lleva sufijo de segunda persona plural; «a ustedes» conserva esa persona en español latinoamericano.",
+      "alternatives": [
+        "me ha enviado a ustedes"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003015022",
+        "h02003015023",
+        "h02003015024",
+        "h02003015025",
+        "h02003015026"
+      ],
+      "issue": "Copulativas nominales sin verbo expreso",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "Ambas cláusulas tienen estructura sujeto-predicado nominal sin verbo en la superficie; se añaden copulas en cursiva para formar cláusulas naturales en español.",
+      "alternatives": [
+        "Este, mi nombre para siempre",
+        "y este, mi recuerdo"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003015024"
+      ],
+      "issue": "Expresión temporal לְעֹלָם",
+      "evidenceLevel": "context-discourse",
+      "rationale": "La preposición unida al sustantivo de duración o futurity modifica «mi nombre»; «para siempre» expresa naturalmente una duración futura no delimitada en este contexto.",
+      "alternatives": [
+        "por siempre",
+        "para perpetuidad"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003015026"
+      ],
+      "issue": "Traducción provisional de זִכְרִי",
+      "evidenceLevel": "lexicon-possibility",
+      "rationale": "El sustantivo con sufijo de primera persona permite «recuerdo» o «memorial». Se usa provisionalmente «mi recuerdo», pero el paquete no determina de manera concluyente cuál corresponde mejor.",
+      "alternatives": [
+        "mi memorial"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003015027",
+        "h02003015028"
+      ],
+      "issue": "Fuerza distributiva de לְדֹר דֹּר",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La preposición seguida del sustantivo repetido forma una expresión generacional distributiva; «de generación en generación» conserva la repetición mediante una construcción española idiomática.",
+      "alternatives": [
+        "por generación y generación",
+        "para cada generación"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "000b6c6da46eebc95a7c3809537b8155cea5e7756d0d9fdf3bca8066f8836f85"
+}

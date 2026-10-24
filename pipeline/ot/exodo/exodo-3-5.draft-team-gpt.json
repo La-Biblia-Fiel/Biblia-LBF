@@ -1,0 +1,131 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:5",
+  "chapter": 3,
+  "verse": 5,
+  "spanish": "Y dijo: «No te acerques aquí. Quítate las sandalias de los pies, porque el lugar donde tú estás de pie *es* suelo santo».",
+  "units": [
+    {
+      "es": "Y dijo:",
+      "sourceTokenIds": [
+        "h02003005001"
+      ]
+    },
+    {
+      "es": "«No te acerques aquí.",
+      "sourceTokenIds": [
+        "h02003005002",
+        "h02003005003",
+        "h02003005004"
+      ]
+    },
+    {
+      "es": "Quítate las sandalias de los pies,",
+      "sourceTokenIds": [
+        "h02003005005",
+        "h02003005006",
+        "h02003005007",
+        "h02003005008"
+      ]
+    },
+    {
+      "es": "porque",
+      "sourceTokenIds": [
+        "h02003005009"
+      ]
+    },
+    {
+      "es": "el lugar",
+      "sourceTokenIds": [
+        "h02003005010"
+      ]
+    },
+    {
+      "es": "donde tú estás de pie",
+      "sourceTokenIds": [
+        "h02003005011",
+        "h02003005012",
+        "h02003005013",
+        "h02003005014"
+      ]
+    },
+    {
+      "es": "*es* suelo santo».",
+      "sourceTokenIds": [
+        "h02003005015",
+        "h02003005016",
+        "h02003005017"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003005002",
+        "h02003005003",
+        "h02003005004"
+      ],
+      "issue": "Expresión de la prohibición y del adverbio direccional",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La negación אַל con el jussivo de segunda persona forma una prohibición, y הֲלֹם funciona como adverbio que señala el lugar cercano al hablante.",
+      "alternatives": [
+        "No te acerques hasta aquí"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003005005",
+        "h02003005006",
+        "h02003005007",
+        "h02003005008"
+      ],
+      "issue": "Construcción idiomática para retirar las sandalias de los pies",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El imperativo rige como objeto las sandalias y la frase preposicional marca el punto desde el cual se retiran. La construcción reflexiva «quítate las sandalias» expresa naturalmente en español la posesión indicada por los sufijos de segunda persona.",
+      "alternatives": [
+        "Quita tus sandalias de tus pies",
+        "Retira tus sandalias de tus pies"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003005010",
+        "h02003005011",
+        "h02003005012",
+        "h02003005013",
+        "h02003005014"
+      ],
+      "issue": "Representación de la relación locativa «sobre él» dentro de la cláusula relativa",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El antecedente es «el lugar», y la cláusula relativa contiene al sujeto explícito de segunda persona, el participio «estar de pie» y la referencia locativa al mismo lugar. «Donde tú estás de pie» integra esa relación de manera natural sin cambiar sus participantes.",
+      "alternatives": [
+        "sobre el cual tú estás de pie",
+        "en el que tú estás de pie"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003005015",
+        "h02003005016",
+        "h02003005017"
+      ],
+      "issue": "Predicación nominal y selección de «suelo santo»",
+      "evidenceLevel": "context-discourse",
+      "rationale": "La sintaxis presenta «suelo/tierra de santidad» como predicado y el pronombre masculino como sujeto anafórico del lugar. El contexto inmediato de estar de pie y quitarse las sandalias favorece «suelo»; el constructo se expresa idiomáticamente mediante el adjetivo «santo». La cópula española no aparece como verbo en la superficie hebrea y por eso se marca en cursiva.",
+      "alternatives": [
+        "tierra santa",
+        "suelo sagrado",
+        "tierra de santidad"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "603ce2a3ce831e97d5282804ac92d84b6a9fbed120e3c3cfd1a9c79fa5adaacf"
+}

@@ -1,0 +1,132 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:21",
+  "chapter": 3,
+  "verse": 21,
+  "spanish": "Y daré favor a este pueblo a los ojos de Egipto; y sucederá que, cuando se vayan, no se irán vacíos.",
+  "units": [
+    {
+      "es": "Y daré favor a este pueblo",
+      "sourceTokenIds": [
+        "h02003021001",
+        "h02003021002",
+        "h02003021003",
+        "h02003021004",
+        "h02003021005"
+      ]
+    },
+    {
+      "es": "a los ojos de Egipto",
+      "sourceTokenIds": [
+        "h02003021006",
+        "h02003021007"
+      ]
+    },
+    {
+      "es": "y sucederá que",
+      "sourceTokenIds": [
+        "h02003021008",
+        "h02003021009"
+      ]
+    },
+    {
+      "es": "cuando se vayan",
+      "sourceTokenIds": [
+        "h02003021010"
+      ]
+    },
+    {
+      "es": "no se irán vacíos",
+      "sourceTokenIds": [
+        "h02003021011",
+        "h02003021012",
+        "h02003021013"
+      ]
+    }
+  ],
+  "uncertainties": [
+    {
+      "sourceTokenIds": [
+        "h02003021003"
+      ],
+      "issue": "El paquete no resuelve de manera concluyente si חֵן debe expresarse como «favor», «gracia» o «aceptación» en este contexto."
+    }
+  ],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003021001",
+        "h02003021002",
+        "h02003021003",
+        "h02003021004",
+        "h02003021005"
+      ],
+      "issue": "Relación entre «dar», «favor» y «este pueblo»",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La cláusula V-O2-O presenta «favor» y «este pueblo» como los complementos de «dar»; la sintaxis natural del español expresa al pueblo como beneficiario de ese favor.",
+      "alternatives": [
+        "daré el favor de este pueblo"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003021003"
+      ],
+      "issue": "Sentido de חֵן",
+      "evidenceLevel": "lexicon-possibility",
+      "rationale": "El léxico permite «favor», «gracia» y «aceptación»; se adopta «favor», pero el paquete no distingue decisivamente entre estas posibilidades.",
+      "alternatives": [
+        "gracia",
+        "aceptación"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003021006",
+        "h02003021007"
+      ],
+      "issue": "Conservación de la imagen de los ojos",
+      "evidenceLevel": "surface",
+      "rationale": "La superficie contiene el sustantivo dual «ojos» en construcción con «Egipto»; «a los ojos de Egipto» conserva la imagen y la relación sintáctica.",
+      "alternatives": [
+        "ante Egipto",
+        "en presencia de Egipto"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003021008",
+        "h02003021009",
+        "h02003021010"
+      ],
+      "issue": "Marco temporal introducido por וְהָיָה כִּי",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "La forma secuencial de «suceder» encabeza una cláusula V2CL y כִּי introduce la acción plural posterior; «sucederá que, cuando» expresa esa relación futura.",
+      "alternatives": [
+        "y será que, cuando"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003021010",
+        "h02003021011",
+        "h02003021012",
+        "h02003021013"
+      ],
+      "issue": "Repetición de יָלַךְ y estado expresado por רֵיקָם",
+      "evidenceLevel": "surface",
+      "rationale": "La misma raíz verbal aparece dos veces y el adverbio expresa condición vacía; «se vayan, no se irán vacíos» conserva la repetición sin añadir la imagen no presente de las manos.",
+      "alternatives": [
+        "cuando partan, no partirán vacíos"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "2018a357e5f857b8e5a0363eb851d75e8926449fb3555c4458addb10cc4bc8ab"
+}

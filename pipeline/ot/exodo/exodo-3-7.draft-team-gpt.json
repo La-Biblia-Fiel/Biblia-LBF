@@ -1,0 +1,145 @@
+{
+  "schema": "lbf-gpt-draft-v1",
+  "drafter": "GPT-5.6",
+  "model": "gpt-5.6-sol",
+  "label": "team-gpt",
+  "book": "exodo",
+  "reference": "Éxodo 3:7",
+  "chapter": 3,
+  "verse": 7,
+  "spanish": "Y Yahvé dijo: «He visto, sí, he visto la aflicción de mi pueblo que *está* en Egipto, y he oído su clamor ante quienes lo oprimen, porque conozco sus dolores».",
+  "units": [
+    {
+      "es": "Y Yahvé dijo:",
+      "sourceTokenIds": [
+        "h02003007001",
+        "h02003007002"
+      ]
+    },
+    {
+      "es": "«He visto, sí, he visto",
+      "sourceTokenIds": [
+        "h02003007003",
+        "h02003007004"
+      ]
+    },
+    {
+      "es": "la aflicción de mi pueblo",
+      "sourceTokenIds": [
+        "h02003007005",
+        "h02003007006",
+        "h02003007007"
+      ]
+    },
+    {
+      "es": "que *está* en Egipto,",
+      "sourceTokenIds": [
+        "h02003007008",
+        "h02003007009"
+      ]
+    },
+    {
+      "es": "y he oído su clamor",
+      "sourceTokenIds": [
+        "h02003007010",
+        "h02003007011",
+        "h02003007012"
+      ]
+    },
+    {
+      "es": "ante quienes lo oprimen,",
+      "sourceTokenIds": [
+        "h02003007013",
+        "h02003007014"
+      ]
+    },
+    {
+      "es": "porque conozco sus dolores».",
+      "sourceTokenIds": [
+        "h02003007015",
+        "h02003007016",
+        "h02003007017",
+        "h02003007018"
+      ]
+    }
+  ],
+  "uncertainties": [
+    {
+      "sourceTokenIds": [],
+      "issue": "El paquete no resuelve de manera concluyente si מִפְּנֵי expresa aquí «ante» o una relación causal como «a causa de»; se requiere adjudicación humana."
+    }
+  ],
+  "evidenceDecisions": [
+    {
+      "sourceTokenIds": [
+        "h02003007003",
+        "h02003007004"
+      ],
+      "issue": "Repetición enfática del verbo ver",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "El infinitivo absoluto רָאֹה seguido del perfecto רָאִיתִי repite la misma raíz y forma una construcción enfática; «He visto, sí, he visto» conserva tanto la repetición como la primera persona del verbo finito.",
+      "alternatives": [
+        "ciertamente he visto",
+        "sin duda he visto"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003007006",
+        "h02003007007",
+        "h02003007011",
+        "h02003007014",
+        "h02003007018"
+      ],
+      "issue": "Selección de «aflicción» para עֳנִי",
+      "evidenceLevel": "context-discourse",
+      "rationale": "Entre las posibilidades «aflicción» y «pobreza», el contexto inmediato menciona el clamor del pueblo, a quienes lo oprimen y sus dolores, lo cual apoya «aflicción».",
+      "alternatives": [
+        "pobreza"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003007008",
+        "h02003007009"
+      ],
+      "issue": "Expresión de la cláusula relativa sin verbo explícito",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "אֲשֶׁר introduce una relativa y בְּמִצְרָיִם aporta la ubicación, pero no hay verbo hebreo; el español requiere aquí la cópula locativa añadida, por lo que se marca *está* en cursiva.",
+      "alternatives": [
+        "mi pueblo en Egipto"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003007013",
+        "h02003007014"
+      ],
+      "issue": "Relación expresada por מִפְּנֵי y forma verbal del participio נֹגְשָׂיו",
+      "evidenceLevel": "lexicon-possibility",
+      "rationale": "La morfología establece una frase preposicional seguida de un participio activo plural con referente posesivo singular. «Quienes lo oprimen» conserva esa actividad y el referente colectivo singular; «ante» refleja provisionalmente el sentido posible de presencia o posición de פָּנֶה, pero el paquete no determina si la relación es confrontacional o causal.",
+      "alternatives": [
+        "a causa de quienes lo oprimen",
+        "por sus opresores",
+        "ante sus opresores"
+      ]
+    },
+    {
+      "sourceTokenIds": [
+        "h02003007011",
+        "h02003007014",
+        "h02003007018"
+      ],
+      "issue": "Cambio entre sufijo plural y sufijos singulares para el pueblo colectivo",
+      "evidenceLevel": "morphology-syntax",
+      "rationale": "צַעֲקָתָם lleva sufijo de tercera persona plural, mientras que נֹגְשָׂיו y מַכְאֹבָיו llevan sufijos de tercera persona singular. «Su clamor» permite la referencia colectiva y «lo oprimen» hace explícito el referente singular de la segunda forma; «sus dolores» conserva el posesivo singular sin forzar una distinción inexistente en español.",
+      "alternatives": [
+        "el clamor de ellos ante sus opresores"
+      ]
+    }
+  ],
+  "addedConcepts": [],
+  "droppedUncitedUnits": 0,
+  "reasoningEffort": "medium",
+  "packetSha256": "04261502b1d63c4e45a383af3c4b5360ece69002368435165c148b83da63477b"
+}

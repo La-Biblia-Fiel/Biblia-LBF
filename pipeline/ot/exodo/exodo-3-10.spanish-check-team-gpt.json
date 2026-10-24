@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 10,
+  "spanish": "Y ahora ve, y te enviaré al faraón, y saca de Egipto a mi pueblo, los hijos de Israel.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "La coordinación cambia bruscamente de sujeto y modo verbal; «para que saques» expresa con claridad el propósito de enviarlo.",
+      "spanishSpan": "y saca"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "8580d1bb750ce45564f188b0455bf775c39160637ec219f95b5f84ce66205ed8"
+}

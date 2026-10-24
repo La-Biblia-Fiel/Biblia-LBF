@@ -1,0 +1,21 @@
+{
+  "schema": "lbf-spanish-check-v1",
+  "policy": "lbf-spanish-flow-v2",
+  "checker": "GPT independent Spanish check",
+  "book": "exodo",
+  "chapter": 3,
+  "verse": 22,
+  "spanish": "Cada mujer pedirá a su vecina y a la que reside en su casa objetos de plata, objetos de oro y ropa; y los pondrán sobre sus hijos y sobre sus hijas, y despojarán a Egipto.",
+  "verdict": "fail",
+  "findings": [
+    {
+      "severity": "fail",
+      "issue": "Cambio injustificado de sujeto y número: «Cada mujer» es singular, pero «pondrán» y «despojarán» son plurales sin sujeto explícito, lo que dificulta identificar quién realiza estas acciones.",
+      "spanishSpan": "los pondrán sobre sus hijos y sobre sus hijas, y despojarán"
+    }
+  ],
+  "notes": "",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "medium",
+  "candidateSha256": "338d1a812674446fb4c9b6babfcfea18a6c19ec840ac218766ab548305f4d414"
+}

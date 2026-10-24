@@ -1,132 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>LBF team desk</title>
-  <style>
-    :root { color-scheme: light; --ink: #1c1915; --line: #d9d2c5; --paper: #f7f4ee; --hold: #8a4b08; }
-    body { margin: 0; font: 16px/1.45 "Iowan Old Style", Palatino, Georgia, serif; color: var(--ink); background: var(--paper); }
-    main { max-width: 920px; margin: 0 auto; padding: 28px 18px 64px; }
-    h1 { font-size: 1.7rem; margin: 0 0 8px; }
-    p { margin: 0 0 14px; }
-    form, .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-    label { font-size: 0.92rem; }
-    input { font: inherit; padding: 6px 8px; border: 1px solid var(--line); background: white; }
-    button { font: inherit; padding: 6px 10px; border: 1px solid var(--ink); background: white; cursor: pointer; }
-    button:disabled { opacity: 0.45; cursor: default; }
-    table { width: 100%; border-collapse: collapse; margin-top: 18px; }
-    th, td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
-    th { font-size: 0.82rem; letter-spacing: 0.03em; }
-    .note { color: var(--hold); font-size: 0.92rem; }
-    .error { color: #8d1d1d; min-height: 1.2em; }
-    h2 { font-size: 1.15rem; margin: 22px 0 0; }
-  </style>
-</head>
-<body>
-<main>
-  <h1>LBF team desk</h1>
-  <p id="lead">One Sol key on this computer drafts empty verses. Claim a book, then start it. Spanish already in the book stays put.</p>
-  <form id="who">
-    <label>Your name <input id="name" autocomplete="name" required></label>
-    <label>Token <input id="token" inputmode="numeric" autocomplete="off" maxlength="8"></label>
-  </form>
-  <p class="error" id="error"></p>
-  <h2>Old Testament</h2>
-  <table id="ot"></table>
-  <h2>New Testament</h2>
-  <table id="nt"></table>
-</main>
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Revisión LBF</title>
+<style>
+:root{--ink:#201d18;--muted:#665f54;--line:#cfc5b4;--paper:#f7f3ea;--card:#fffdf8;--good:#176438;--bad:#982727;--warn:#8a5700;--info:#215a85}*{box-sizing:border-box}body{margin:0;font:20px/1.58 Georgia,serif;color:var(--ink);background:var(--paper)}main{max-width:1180px;margin:auto;padding:32px 24px 80px}h1{font-size:2.3rem;line-height:1.1}h2{font-size:1.7rem}h3{font-size:1.4rem}.policy,.state{padding:14px 18px;background:#eee6d7;border-left:6px solid var(--ink)}.state[data-running="true"]{border-color:var(--info);background:#e8f2f8}.state[data-running="true"]:before{content:"●";color:var(--info);display:inline-block;margin-right:10px;animation:pulse 1.2s infinite}.bar,.actions{display:flex;flex-wrap:wrap;gap:12px;align-items:end;margin:16px 0}label{display:grid;gap:5px;font-weight:bold;font-size:.94rem}input,select,textarea,button{font:inherit}input,select,textarea{border:2px solid var(--line);border-radius:5px;padding:9px;background:white}textarea{width:100%;min-height:110px}button{border:2px solid var(--ink);border-radius:5px;background:white;padding:9px 15px;cursor:pointer}button:disabled{opacity:.5;cursor:wait}.primary{background:var(--ink);color:white}.error,.fail,.missing{color:var(--bad);font-weight:bold}.pass{color:var(--good)}.verse{background:var(--card);border:2px solid var(--line);border-radius:9px;padding:22px;margin:24px 0}.done{border-color:var(--good)}.hebrew{direction:rtl;font:1.55rem "SBL Hebrew","Times New Roman",serif}table{width:100%;border-collapse:collapse}th,td{padding:10px 8px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}code{font-size:.82rem}.unit{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:8px 0}.unit input{width:100%}.checks label{display:flex;gap:10px;font-weight:normal;margin:12px 0}.checks input{width:24px;height:24px;flex:none}details{border-top:1px solid var(--line);padding:10px 0}summary{cursor:pointer;font-weight:bold}pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.78rem}#notifications{position:fixed;z-index:1000;top:18px;right:18px;width:min(460px,calc(100vw - 36px));display:grid;gap:12px}.notice{position:relative;padding:17px 50px 17px 20px;border:2px solid;border-left-width:8px;border-radius:8px;background:#fff;box-shadow:0 8px 30px #0002}.notice strong{display:block;font-size:1.05rem}.notice p{margin:3px 0 0}.notice button{position:absolute;right:8px;top:7px;padding:2px 10px;border:0;background:transparent;font-size:1.35rem}.notice.error{border-color:var(--bad);background:#fff2f2;color:#641b1b}.notice.success{border-color:var(--good);background:#effaf3;color:#124c2a}.notice.warning{border-color:var(--warn);background:#fff7e5;color:#624000}.notice.info{border-color:var(--info);background:#edf7fd;color:#173f5d}@keyframes pulse{50%{opacity:.25}}@media(max-width:700px){body{font-size:18px}.unit{grid-template-columns:1fr}main{padding:20px 14px}#notifications{top:8px;right:8px;width:calc(100vw - 16px)}}
+</style></head><body><div id="notifications" aria-live="polite" aria-atomic="false"></div><main>
+<h1>Revisión LBF por capítulo</h1><p>GPT‑5.6 Sol prepara. Una persona examina, adjudica y aprueba. Ningún pase automático se convierte en texto LBF.</p>
+<p class="policy"><b>Orden obligatorio:</b> superficie original → morfología y sintaxis → contexto y discurso → uso del corpus → léxico como posibilidades → propuesta GPT → decisión humana.</p>
+<div class="bar"><label>Revisor registrado<select id="name"></select></label><label>Clave del revisor <small>(no es la clave OpenAI)</small><input id="token" type="password"></label><label>Libro<select id="book"></select></label><label>Capítulo<input id="chapter" type="number" min="1" value="3"></label><button id="open">Abrir</button></div>
+<div class="actions"><button id="claim">Tomar capítulo</button><button id="prepare">Preparar con GPT‑5.6 Sol</button><button id="stop">Detener</button><button id="release">Liberar</button></div><p id="state" class="state"></p><section id="view"></section>
 <script>
-const nameInput = document.querySelector("#name");
-const tokenInput = document.querySelector("#token");
-const error = document.querySelector("#error");
-nameInput.value = localStorage.getItem("lbf-team-name") || "John";
-tokenInput.value = localStorage.getItem("lbf-team-token") || "";
-nameInput.addEventListener("change", () => localStorage.setItem("lbf-team-name", nameInput.value.trim()));
-tokenInput.addEventListener("change", () => localStorage.setItem("lbf-team-token", tokenInput.value));
-
-function table(id) {
-  const node = document.querySelector(id);
-  node.innerHTML = "<thead><tr><th>Book</th><th>Spanish</th><th>Holder</th><th></th></tr></thead><tbody></tbody>";
-  return node.querySelector("tbody");
-}
-const otBody = table("#ot");
-const ntBody = table("#nt");
-
-function buttons(book) {
-  const me = nameInput.value.trim();
-  const mine = book.holder && book.holder === me;
-  const grab = document.createElement("button");
-  grab.type = "button";
-  grab.textContent = book.holder ? "Taken" : "Claim";
-  grab.disabled = Boolean(book.holder);
-  grab.onclick = () => act("/api/claim", book.slug);
-  const release = document.createElement("button");
-  release.type = "button";
-  release.textContent = "Release";
-  release.disabled = !mine;
-  release.onclick = () => act("/api/release", book.slug);
-  const run = document.createElement("button");
-  run.type = "button";
-  run.textContent = book.running ? "Stop" : "Start Sol";
-  run.disabled = !mine;
-  run.onclick = () => act(book.running ? "/api/stop" : "/api/start", book.slug);
-  const wrap = document.createElement("div");
-  wrap.className = "row";
-  wrap.append(grab, run, release);
-  return wrap;
-}
-
-function render(board) {
-  document.querySelector("#lead").textContent =
-    `${board.model} drafts empty verses on this computer. ${board.running} of ${board.maxRunning} books are running. Claim a book, then start it. Spanish already written stays put.`;
-  for (const body of [otBody, ntBody]) body.replaceChildren();
-  for (const book of board.books) {
-    const tr = document.createElement("tr");
-    const total = book.total == null ? "…" : String(book.total);
-    const where = book.running && book.chapter ? ` ${book.chapter}:${book.verse}` : "";
-    tr.innerHTML = `<td>${book.label}</td><td>${book.filled} / ${total}</td><td></td><td></td>`;
-    const holder = document.createElement("div");
-    holder.textContent = (book.holder || "—") + where;
-    if (book.note) {
-      const note = document.createElement("div");
-      note.className = "note";
-      note.textContent = book.note;
-      holder.append(note);
-    }
-    tr.children[2].append(holder);
-    tr.children[3].append(buttons(book));
-    (book.testament === "nt" ? ntBody : otBody).append(tr);
-  }
-}
-
-async function refresh() {
-  const response = await fetch("/api/board");
-  if (!response.ok) return;
-  render(await response.json());
-}
-
-async function act(url, book) {
-  error.textContent = "";
-  const name = nameInput.value.trim();
-  localStorage.setItem("lbf-team-name", name);
-  localStorage.setItem("lbf-team-token", tokenInput.value);
-  const response = await fetch(url, {
-    method: "POST",
-    headers: {"Content-Type": "application/json"},
-    body: JSON.stringify({name, book, token: tokenInput.value})
-  });
-  const payload = await response.json();
-  if (!response.ok) {
-    error.textContent = payload.error || "Request failed";
-    return;
-  }
-  render(payload);
-}
-
-refresh();
-setInterval(refresh, 4000);
-</script>
-</body>
-</html>
+const $=s=>document.querySelector(s),N=$("#name"),T=$("#token"),B=$("#book"),C=$("#chapter"),V=$("#view"),S=$("#state"),Q=$("#notifications");let board,current,saveTimer,lastClaimState="";const approvalErrors=new Map();
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));const creds=()=>({name:N.value.trim(),token:T.value,book:B.value,chapter:+C.value});
+async function response(r){let p={};try{p=await r.json()}catch{p={}}if(!r.ok)throw Error(p.error||`La solicitud falló (${r.status}).`);return p}async function get(url){try{return await response(await fetch(url))}catch(e){if(e instanceof TypeError)throw Error("No se pudo conectar con la aplicación local. Comprueba que el servidor siga abierto y vuelve a intentarlo.");throw e}}async function post(url,x={}){localStorage.setItem("lbf-team-name",N.value.trim());try{return await response(await fetch(url,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({...creds(),...x})}))}catch(e){if(e instanceof TypeError)throw Error("No se pudo conectar con la aplicación local. Tu trabajo permanece guardado en este navegador.");throw e}}
+function friendly(m){if(/Name or token does not match/i.test(m))return"La clave no corresponde al revisor seleccionado. Verifica la clave de revisor —no la clave OpenAI— y vuelve a intentarlo.";if(/Claim .* before reviewing/i.test(m))return"Primero pulsa «Tomar capítulo» con tu nombre y clave de revisor.";if(/already held by/i.test(m))return"Otro revisor ya tiene asignado este capítulo.";if(/source-evidence review/i.test(m))return"Confirma que revisaste toda la evidencia de fuente antes de aprobar.";if(/visible Spanish-to-source link/i.test(m))return"Confirma que revisaste todas las unidades de alineación visibles.";if(/ordered alignment units do not reproduce/i.test(m))return"Las unidades de alineación no reproducen, en el mismo orden, todo el texto español aprobado. Corrige la frase de la unidad que no coincide.";if(/alignment omits source tokens:/i.test(m))return m.replace(/The alignment omits source tokens:/i,"La alineación omite estos tokens de fuente:");if(/Human review is missing for verse\(s\):/i.test(m))return m.replace(/Human review is missing for verse\(s\):/i,"Todavía no quedaron registrados estos versículos:");return m}function notify(type,title,message,sticky=false){const n=document.createElement("div");n.className=`notice ${type}`;n.setAttribute("role",type==="error"?"alert":"status");n.innerHTML=`<strong>${esc(title)}</strong><p>${esc(friendly(message))}</p><button aria-label="Cerrar notificación">×</button>`;n.querySelector("button").onclick=()=>n.remove();Q.prepend(n);if(!sticky)setTimeout(()=>n.remove(),type==="success"?4500:7500)}
+function statusNote(note=""){return note.replace(/^Preparing (\d+):(\d+)$/,"Preparando $1:$2 con GPT‑5.6 Sol").replace(/^Ready for human review$/,"Listo para revisión humana").replace(/^Claimed for human review$/,"Capítulo tomado para revisión humana").replace(/^Approved (\d+):(\d+); alignment seed confirmed$/,"Aprobado $1:$2; semilla de alineación confirmada").replace(/^Chapter review complete; canonical alignment still pending$/,"Revisión del capítulo terminada; la alineación canónica sigue pendiente")}function key(){return`${B.value}:${+C.value}`}function state(){const r=board?.claims?.[key()];S.dataset.running=String(!!r?.running);S.textContent=r?`${r.name}: ${statusNote(r.note)}${r.running&&r.verse?` — versículo ${r.chapter}:${r.verse}`:""}`:"Capítulo disponible.";const signature=r?`${r.running}:${r.note}`:"available";if(lastClaimState&&signature!==lastClaimState&&!r?.running&&/Ready for human review/.test(r?.note||""))notify("success","Preparación terminada",`${B.options[B.selectedIndex]?.text||B.value} ${C.value} está listo para revisión humana.`,true);lastClaimState=signature}function cls(x){return x==="pass"||x==="human"?"pass":x==="fail"?"fail":"missing"}
+async function boards(){board=await get("/api/board");if(!N.options.length){N.replaceChildren(...board.people.map(n=>{const o=document.createElement("option");o.value=n;o.textContent=n;return o}));N.value=localStorage.getItem("lbf-team-name")||board.people[0]||""}if(!B.options.length){B.replaceChildren(...board.books.map(b=>{const o=document.createElement("option");o.value=b.slug;o.textContent=`${b.label} (${b.chapters})`;return o}));B.value="exodo"}state()}
+async function open(){current=await get(`/api/chapter?book=${encodeURIComponent(B.value)}&chapter=${+C.value}`);render()}
+function draftKey(v){return`lbf-review-draft:${current.book}:${current.chapter}:${v}`}function snapshot(a){return{spanish:a.querySelector(".spanish").value,decision:a.querySelector(".decision").value,units:[...a.querySelectorAll(".unit")].map(d=>({es:d.querySelector(".ues").value,sourceTokenIds:d.querySelector(".uids").value.split(",").map(x=>x.trim()).filter(Boolean)})),sourceConfirmed:a.querySelector(".src").checked,alignmentConfirmed:a.querySelector(".align").checked}}function saveDraft(a,v){clearTimeout(saveTimer);saveTimer=setTimeout(()=>localStorage.setItem(draftKey(v),JSON.stringify(snapshot(a))),150)}
+function render(){const reviewed=current.verses.filter(x=>x.humanReviewed).length,total=current.verses.length;V.innerHTML=`<h2>${esc(current.label)} ${current.chapter}</h2><p><b>Base:</b> ${esc(current.textualBasis)} · <b>Política:</b> ${esc(current.policy)} · <b>Modelo:</b> ${esc(current.model)} · <b>Razonamiento:</b> ${esc(current.reasoningEffort)}</p><p class="state"><b>Progreso de aprobación:</b> ${reviewed} de ${total} versículos registrados.</p>${current.recoveryNote?`<p class="state"><b>Trabajo recuperado:</b> ${esc(current.recoveryNote)}</p>`:""}<details><summary>Memoria de adjudicaciones humanas (${(current.precedents||[]).length})</summary><p>${esc(current.precedentBoundary)}</p><ul>${(current.precedents||[]).map(p=>`<li><b>${esc(p.reference)}:</b> ${esc(p.decision)}</li>`).join("")}</ul></details>`;current.verses.forEach(r=>V.append(verse(r)));const f=document.createElement("article");f.className="verse checks";f.innerHTML=`<h3>Lectura completa</h3><label><input type="checkbox"> Leí el capítulo completo y confirmé continuidad, voz y fluidez sin suavizar, fortalecer ni explicar.</label><button class="primary">Registrar revisión del capítulo (${reviewed}/${total})</button>`;f.querySelector("button").onclick=()=>registerChapter(f);V.append(f)}
+function verse(r){const a=document.createElement("article"),c=r.candidate||{},g=r.gate||{},serverDraft=r.recovered||{},localDraft=JSON.parse(localStorage.getItem(draftKey(r.verse))||"null"),d=r.humanReviewed?{}:(localDraft||serverDraft),spanish=d.spanish??c.spanish??r.canonical,decision=d.decision??c.adjudication?.decision??"",units=d.units||c.units||[],evidence=c.evidenceDecisions||[];a.dataset.verse=r.verse;a.className=`verse ${r.humanReviewed?"done":""}`;a.innerHTML=`<h3>${esc(r.reference)} ${r.humanReviewed?"✓":""}${!r.humanReviewed&&(localDraft||Object.keys(serverDraft).length)?" — borrador recuperado":""}</h3><p class="verse-message error" role="alert">${esc(approvalErrors.get(r.verse)||"")}</p><p><b>Canónico:</b> ${esc(r.canonical||"—")}</p><p><b>Candidato:</b> ${esc(g.source)} · modelo <span class="${g.draftModel==="gpt-5.6-sol"||g.fidelity==="human"?"pass":"missing"}">${esc(g.draftModel||g.fidelity)}</span> · esfuerzo <span class="${g.draftReasoning==="medium"||g.fidelity==="human"?"pass":"missing"}">${esc(g.draftReasoning||g.fidelity)}</span> · fidelidad <span class="${cls(g.fidelity)}">${esc(g.fidelity)}</span> · español <span class="${cls(g.spanish)}">${esc(g.spanish)}</span></p><label>Texto propuesto<textarea class="spanish">${esc(spanish)}</textarea></label><h4>Unidades de alineación</h4><div class="units"></div><details ${evidence.length?"open":""}><summary>Decisiones difíciles justificadas (${evidence.length})</summary>${evidence.map(x=>`<p><b>${esc(x.issue)}</b> — ${esc(x.evidenceLevel)}<br><code>${esc((x.sourceTokenIds||[]).join(", "))}</code><br>${esc(x.rationale)}${(x.alternatives||[]).length?`<br><i>Alternativas:</i> ${esc(x.alternatives.join("; "))}`:""}</p>`).join("")}</details><label>Decisión humana / razón del cambio o incertidumbre<textarea class="decision">${esc(decision)}</textarea></label><details open><summary>Superficie hebrea y morfología</summary><table><tr><th>Forma</th><th>ID</th><th>Lema</th><th>Morfología</th></tr>${(r.packet.tokens||[]).map(t=>`<tr><td class="hebrew">${esc(t.surface)}</td><td><code>${esc(t.sourceTokenId)}</code></td><td>${esc(t.lemma)}</td><td>${esc(t.morphExpanded)}</td></tr>`).join("")}</table></details><details><summary>Sintaxis, contexto, corpus y léxico permitido</summary><pre>${esc(JSON.stringify({syntax:r.packet.syntaxEvidence,context:r.packet.originalLanguageContext,corpus:r.packet.corpusEvidence,lexicon:r.packet.lexicalEvidence},null,2))}</pre></details><div class="checks"><label><input class="src" type="checkbox"> Confirmé toda la evidencia en el orden obligatorio.</label><label><input class="align" type="checkbox"> Revisé cada unidad contra los tokens visibles.</label></div><button class="primary approve">${r.humanReviewed?"Versículo aprobado":"Aprobar versículo"}</button>`;const u=a.querySelector(".units");units.forEach(z=>{const x=document.createElement("div");x.className="unit";x.innerHTML=`<input class="ues" value="${esc(z.es)}"><input class="uids" value="${esc((z.sourceTokenIds||[]).join(", "))}">`;u.append(x)});a.querySelector(".src").checked=!!d.sourceConfirmed;a.querySelector(".align").checked=!!d.alignmentConfirmed;a.addEventListener("input",()=>saveDraft(a,r.verse));a.addEventListener("change",()=>saveDraft(a,r.verse));const button=a.querySelector(".approve");button.disabled=!!r.humanReviewed;button.onclick=()=>approveCard(a,r.verse,false);return a}
+async function approveCard(a,verse,quiet){const button=a.querySelector(".approve"),payload=snapshot(a),label=current.label,chapter=current.chapter;localStorage.setItem(draftKey(verse),JSON.stringify(payload));button.disabled=true;button.textContent="Registrando…";try{await post("/api/approve-verse",{verse,...payload});approvalErrors.delete(verse);localStorage.removeItem(draftKey(verse));if(!quiet){notify("success",`${label} ${chapter}:${verse} aprobado`,"La revisión y la semilla de alineación quedaron guardadas.");await open()}return true}catch(e){const message=friendly(e.message);approvalErrors.set(verse,message);if(!quiet){a.querySelector(".verse-message").textContent=message;notify("error",`${label} ${chapter}:${verse} sigue pendiente`,message,true);a.scrollIntoView({behavior:"smooth",block:"start"})}return false}finally{button.disabled=false;button.textContent="Aprobar versículo"}}
+async function registerChapter(f){const button=f.querySelector("button");if(!f.querySelector("input").checked){notify("warning","Falta la lectura completa","Confirma la lectura de continuidad, voz y fluidez antes de registrar el capítulo.",true);return}button.disabled=true;button.textContent="Registrando versículos guardados…";approvalErrors.clear();const pending=[...V.querySelectorAll("article.verse:not(.done)")];let passed=0;for(const card of pending){if(await approveCard(card,+card.dataset.verse,true))passed++}await open();if(approvalErrors.size){const first=[...approvalErrors.entries()].slice(0,3).map(([v,m])=>`${current.chapter}:${v} — ${m}`).join(" | ");notify("warning",`${approvalErrors.size} versículos requieren atención`,`${passed} se registraron ahora. Pendientes: ${first}`,true);document.querySelector(`article[data-verse="${approvalErrors.keys().next().value}"]`)?.scrollIntoView({behavior:"smooth",block:"start"});button.disabled=false;return}try{current=await post("/api/finish-chapter",{contextConfirmed:true});render();notify("success","Revisión del capítulo registrada","Todos los versículos quedaron aprobados; la alineación canónica sigue pendiente.",true)}catch(e){notify("error","No se pudo registrar el capítulo",e.message,true)}finally{button.disabled=false}}
+async function run(fn,success=""){try{await fn();await boards();if(success)notify("success","Acción completada",success)}catch(e){notify("error","No se pudo completar la acción",e.message,true);if(/clave|token/i.test(friendly(e.message)))T.focus()}}$("#open").onclick=()=>run(open);$("#claim").onclick=()=>run(async()=>{await post("/api/claim");await open()},"El capítulo quedó asignado a tu nombre.");$("#prepare").onclick=()=>run(()=>post("/api/prepare"),"La preparación comenzó. Puedes seguir el versículo actual en la barra de progreso.");$("#stop").onclick=()=>run(()=>post("/api/stop"),"La preparación se detendrá después del versículo actual.");$("#release").onclick=()=>run(()=>post("/api/release"),"El capítulo quedó disponible para otro revisor.");B.onchange=C.onchange=state;boards().then(open).catch(e=>notify("error","No se pudo abrir la mesa",e.message,true));setInterval(()=>boards().catch(()=>{}),4000);
+</script></main></body></html>

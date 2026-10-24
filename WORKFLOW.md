@@ -20,6 +20,11 @@ existente no entra al prompt de redacción. Toda unidad del candidato cita
 `sourceTokenIds`; una cuestión que el paquete no resuelve se aparta para una
 persona.
 
+El nombre divino es una forma fijada y comprobada mecánicamente: todo יהוה
+explícito se traduce **Yahvé**. Nunca se usa Jehová, Yavé, Yahweh, Yahveh,
+YHWH ni SEÑOR como sustituto de יהוה. Esto no altera el tratamiento distinto
+de אדני como **Adonai** cuando funciona como apelativo fijado.
+
 La decisión de significado sigue esta evidencia, en este orden de trabajo:
 
 ```text
@@ -55,6 +60,21 @@ un versículo a la vez desde el paquete canónico. Devuelve solamente el españo
 las unidades con `sourceTokenIds`, incertidumbres y conceptos añadidos (que
 debe dejar vacíos). El lint local comprueba reglas mecánicas. Un auditor
 independiente compara el candidato con el mismo paquete y no reescribe.
+
+La mesa de equipo fija `reasoning.effort=medium` para la redacción, la auditoría
+de fidelidad y la comprobación de español. Cada artefacto registra ese esfuerzo;
+un artefacto sin procedencia `gpt-5.6-sol` y `medium` se rechaza y debe prepararse
+de nuevo. Las decisiones difíciles incluyen una explicación breve ligada a
+`sourceTokenIds`; no se pide ni se conserva razonamiento interno del modelo.
+
+Las adjudicaciones humanas aprobadas forman una memoria visible para los
+revisores y deben mantener consistente la política del proyecto. Esa memoria
+no entra al prompt como evidencia, no entrega al modelo el español anterior y
+nunca puede elegir un sentido contra el paquete canónico. Solo las reglas
+generales ya fijadas —por ejemplo, conservar imágenes concretas, usar Yahvé y
+no suavizar— son precedentes vinculantes del modelo. Una decisión léxica o
+sintáctica anterior puede alertar al revisor, pero el versículo presente debe
+quedar justificado otra vez por su propia superficie, gramática y contexto.
 
 El capítulo entra en `translation/` solamente con los candidatos que pasaron
 fidelidad y español; los demás conservan el texto anterior y quedan en el
